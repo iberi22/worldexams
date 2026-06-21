@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-W18-tema-semana-18-de-lectura-critica-001-MASTERY"
+id: "CO-LEC-6-2026-W18-tema-semana-18-de-lectura-critica-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 10
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W18 — Tema Semana 18 de Lectura Critica
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Cartagena
+**Contexto:** Colegio Nacional San Bartolomé en Cartagena
 **Expected_Success:** 0.55
 
 ### Enunciado
 En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Cartagena, se discute sobre Tema Semana 18 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 18 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 18 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 18 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 18 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Manizales
+**Contexto:** I.E. San José en Manizales
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. San José en Manizales, se discute sobre Tema Semana 18 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 18 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 18 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 18 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 18 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Villavicencio
+**Contexto:** I.E. Jorge Eliécer Gaitán en Villavicencio
 **Expected_Success:** 0.74
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Jorge Eliécer Gaitán en Villavicencio, se discute sobre Tema Semana 18 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 18 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 18 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 18 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 18 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Pasto
+**Contexto:** Colegio Nacional San Bartolomé en Pasto
 **Expected_Success:** 0.79
 
 ### Enunciado
 En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Pasto, se discute sobre Tema Semana 18 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 18 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 18 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 18 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 18 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Cúcuta
+**Contexto:** I.E. Gabriel García Márquez en Cúcuta
 **Expected_Success:** 0.59
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Gabriel García Márquez en Cúcuta, se discute sobre Tema Semana 18 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 18 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 18 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 18 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 18 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Cúcuta
+**Contexto:** Colegio La Presentación en Cúcuta
 **Expected_Success:** 0.67
 
 ### Enunciado
 En la clase de Lectura Critica del Colegio La Presentación en Cúcuta, se discute sobre Tema Semana 18 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 18 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 18 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 18 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 18 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Villavicencio
+**Contexto:** I.E. Santa Luisa de Marillac en Villavicencio
 **Expected_Success:** 0.71
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Villavicencio, se discute sobre Tema Semana 18 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 18 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 18 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 18 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 18 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Sincelejo
+**Contexto:** I.E. Francisco de Paula Santander en Sincelejo
 **Expected_Success:** 0.62
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Sincelejo, se discute sobre Tema Semana 18 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 18 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 18 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 18 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 18 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** I.E. Francisco de Paula Santander en Pasto
+**Contexto:** I.E. Francisco de Paula Santander en Pasto
 **Expected_Success:** 0.69
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Pasto, se discute sobre Tema Semana 18 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 18 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 18 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 18 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 18 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Riohacha
+**Contexto:** I.E. San José en Riohacha
 **Expected_Success:** 0.53
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. San José en Riohacha, se discute sobre Tema Semana 18 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 18 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 18 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 18 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

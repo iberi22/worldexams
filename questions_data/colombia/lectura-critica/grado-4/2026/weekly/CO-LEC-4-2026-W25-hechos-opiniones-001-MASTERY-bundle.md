@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W25-hechos-opiniones-001-MASTERY"
+id: "CO-LEC-4-2026-W25-hechos-opiniones-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "hechos-opiniones"
-semana: "W25"
+week: "W25"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "hechos, opiniones, objetividad, subjetividad, verificar"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W25: Diferenciar hechos de opiniones
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W25-hechos-opiniones-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Hecho.
+**Contexto:** Hecho.
 
 ### Enunciado
 *"¿Qué es un hecho?"*
 
-### Options
+### Opciones
 - [x] A) Algo que se puede comprobar. <!-- feedback: Correcto. -->
-- [ ] B) Una opinión personal.
-- [ ] C) Un deseo.
-- [ ] D) Un sentimiento.
+- [ ] B) Una opinión personal. <!-- feedback: Incorrecto. Una opinión personal. -->
+- [ ] C) Un deseo. <!-- feedback: Incorrecto. Un deseo. -->
+- [ ] D) Un sentimiento. <!-- feedback: Incorrecto. Un sentimiento. -->
 
 ### Explicación Pedagógica
 Definición hecho.
@@ -49,17 +54,18 @@ Definición hecho.
 
 **ID:** `CO-LEC-4-2026-W25-hechos-opiniones-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Opinión.
+**Contexto:** Opinión.
 
 ### Enunciado
 *"¿Qué es una opinión?"*
 
-### Options
-- [ ] A) Algo comprobable.
+### Opciones
+- [ ] A) Algo comprobable. <!-- feedback: Incorrecto. Algo comprobable. -->
 - [x] B) Un pensamiento personal. <!-- feedback: Correcto. -->
-- [ ] C) Un dato exacto.
-- [ ] D) Una fecha.
+- [ ] C) Un dato exacto. <!-- feedback: Incorrecto. Un dato exacto. -->
+- [ ] D) Una fecha. <!-- feedback: Incorrecto. Una fecha. -->
 
 ### Explicación Pedagógica
 Definición opinión.
@@ -70,17 +76,18 @@ Definición opinión.
 
 **ID:** `CO-LEC-4-2026-W25-hechos-opiniones-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Identificar hecho.
+**Contexto:** Identificar hecho.
 
 ### Enunciado
 *"‘Colombia tiene 51 millones de habitantes.’"* ¿Hecho u opinión?
 
-### Options
+### Opciones
 - [x] A) Hecho. <!-- feedback: Correcto. -->
-- [ ] B) Opinión.
-- [ ] C) Ambos.
-- [ ] D) Ninguno.
+- [ ] B) Opinión. <!-- feedback: Incorrecto. Opinión. -->
+- [ ] C) Ambos. <!-- feedback: Incorrecto. Ambos. -->
+- [ ] D) Ninguno. <!-- feedback: Incorrecto. Ninguno. -->
 
 ### Explicación Pedagógica
 Identificar hecho.
@@ -91,17 +98,18 @@ Identificar hecho.
 
 **ID:** `CO-LEC-4-2026-W25-hechos-opiniones-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Identificar opinión.
+**Contexto:** Identificar opinión.
 
 ### Enunciado
 *"‘Colombia es el país más hermoso del mundo.’"* ¿Hecho u opinión?
 
-### Options
-- [ ] A) Hecho.
+### Opciones
+- [ ] A) Hecho. <!-- feedback: Incorrecto. Hecho. -->
 - [x] B) Opinión. <!-- feedback: Correcto. -->
-- [ ] C) Científico.
-- [ ] D) Ambos.
+- [ ] C) Científico. <!-- feedback: Incorrecto. Científico. -->
+- [ ] D) Ambos. <!-- feedback: Incorrecto. Ambos. -->
 
 ### Explicación Pedagógica
 Identificar opinión.
@@ -112,17 +120,18 @@ Identificar opinión.
 
 **ID:** `CO-LEC-4-2026-W25-hechos-opiniones-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Palabras de opinión.
+**Contexto:** Palabras de opinión.
 
 ### Enunciado
 *"¿Qué palabras indican opinión?"*
 
-### Options
+### Opciones
 - [ ] A) Es, tiene, mide. <!-- feedback: Hechos. -->
 - [x] B) Creo, pienso, me parece. <!-- feedback: Correcto. -->
-- [ ] C) Ayer, hoy, mañana.
-- [ ] D) Uno, dos, tres.
+- [ ] C) Ayer, hoy, mañana. <!-- feedback: Incorrecto. Ayer, hoy, mañana. -->
+- [ ] D) Uno, dos, tres. <!-- feedback: Incorrecto. Uno, dos, tres. -->
 
 ### Explicación Pedagógica
 Indicadores.
@@ -133,17 +142,18 @@ Indicadores.
 
 **ID:** `CO-LEC-4-2026-W25-hechos-opiniones-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Hecho en noticias.
+**Contexto:** Hecho en noticias.
 
 ### Enunciado
 *"‘El terremoto fue de 6.2 grados.’"* ¿Hecho u opinión?
 
-### Options
+### Opciones
 - [x] A) Hecho. <!-- feedback: Correcto. Dato medible. -->
-- [ ] B) Opinión.
-- [ ] C) Ambos.
-- [ ] D) No se sabe.
+- [ ] B) Opinión. <!-- feedback: Incorrecto. Opinión. -->
+- [ ] C) Ambos. <!-- feedback: Incorrecto. Ambos. -->
+- [ ] D) No se sabe. <!-- feedback: Incorrecto. No se sabe. -->
 
 ### Explicación Pedagógica
 Hecho en noticia.
@@ -154,17 +164,18 @@ Hecho en noticia.
 
 **ID:** `CO-LEC-4-2026-W25-hechos-opiniones-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Opinión disfrazada.
+**Contexto:** Opinión disfrazada.
 
 ### Enunciado
 *"‘Es obvio que esta es la mejor película.’"* ¿Qué es?
 
-### Options
-- [ ] A) Hecho.
+### Opciones
+- [ ] A) Hecho. <!-- feedback: Incorrecto. Hecho. -->
 - [x] B) Opinión. <!-- feedback: Correcto. ‘Mejor’ es subjetivo. -->
-- [ ] C) Dato.
-- [ ] D) Ciencia.
+- [ ] C) Dato. <!-- feedback: Incorrecto. Dato. -->
+- [ ] D) Ciencia. <!-- feedback: Incorrecto. Ciencia. -->
 
 ### Explicación Pedagógica
 Opinión disfrazada.
@@ -175,17 +186,18 @@ Opinión disfrazada.
 
 **ID:** `CO-LEC-4-2026-W25-hechos-opiniones-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Separar hecho y opinión.
+**Contexto:** Separar hecho y opinión.
 
 ### Enunciado
 *"El río mide 5 km. Es muy bonito."* ¿Hecho y opinión?
 
-### Options
+### Opciones
 - [x] A) Hecho: mide 5km. Opinión: muy bonito. <!-- feedback: Correcto. -->
-- [ ] B) Ambos hechos.
-- [ ] C) Ambos opiniones.
-- [ ] D) No se puede separar.
+- [ ] B) Ambos hechos. <!-- feedback: Incorrecto. Ambos hechos. -->
+- [ ] C) Ambos opiniones. <!-- feedback: Incorrecto. Ambos opiniones. -->
+- [ ] D) No se puede separar. <!-- feedback: Incorrecto. No se puede separar. -->
 
 ### Explicación Pedagógica
 Separar.
@@ -196,17 +208,18 @@ Separar.
 
 **ID:** `CO-LEC-4-2026-W25-hechos-opiniones-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Evaluar.
+**Contexto:** Evaluar.
 
 ### Enunciado
 *"‘El café colombiano es el mejor’ ¿Es esto comprobable?"*
 
-### Options
-- [ ] A) Sí, es un hecho.
+### Opciones
+- [ ] A) Sí, es un hecho. <!-- feedback: Incorrecto. Sí, es un hecho. -->
 - [x] B) No, es una opinión, ‘mejor’ es subjetivo. <!-- feedback: Correcto. -->
-- [ ] C) Sí, porque colombiano.
-- [ ] D) Depende.
+- [ ] C) Sí, porque colombiano. <!-- feedback: Incorrecto. Sí, porque colombiano. -->
+- [ ] D) Depende. <!-- feedback: Incorrecto. Depende. -->
 
 ### Explicación Pedagógica
 Evaluar.
@@ -217,17 +230,18 @@ Evaluar.
 
 **ID:** `CO-LEC-4-2026-W25-hechos-opiniones-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Importancia.
+**Contexto:** Importancia.
 
 ### Enunciado
 *"¿Por qué es importante diferenciar hechos de opiniones?"*
 
-### Options
-- [ ] A) No es importante.
+### Opciones
+- [ ] A) No es importante. <!-- feedback: Incorrecto. No es importante. -->
 - [x] B) Para no confundir información real con creencias. <!-- feedback: Correcto. -->
-- [ ] C) Porque lo dice el profe.
-- [ ] D) Da igual.
+- [ ] C) Porque lo dice el profe. <!-- feedback: Incorrecto. Porque lo dice el profe. -->
+- [ ] D) Da igual. <!-- feedback: Incorrecto. Da igual. -->
 
 ### Explicación Pedagógica
 Importancia.

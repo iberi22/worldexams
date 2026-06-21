@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY"
+id: "CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "destinatario-texto"
-semana: "W27"
+week: "W27"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "destinatario, audiencia, lector ideal, público objetivo"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W27: Identificar destinatario del texto
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Definición.
+**Contexto:** Definición.
 
 ### Enunciado
 *"¿Quién es el destinatario de un texto?"*
 
-### Options
-- [ ] A) El autor.
+### Opciones
+- [ ] A) El autor. <!-- feedback: Incorrecto. El autor. -->
 - [x] B) La persona a quien va dirigido. <!-- feedback: Correcto. -->
-- [ ] C) El editor.
-- [ ] D) El profesor.
+- [ ] C) El editor. <!-- feedback: Incorrecto. El editor. -->
+- [ ] D) El profesor. <!-- feedback: Incorrecto. El profesor. -->
 
 ### Explicación Pedagógica
 Definir.
@@ -49,17 +54,18 @@ Definir.
 
 **ID:** `CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Destinatario.
+**Contexto:** Destinatario.
 
 ### Enunciado
 *"Un cuento infantil. ¿Su destinatario?"*
 
-### Options
-- [ ] A) Adultos.
+### Opciones
+- [ ] A) Adultos. <!-- feedback: Incorrecto. Adultos. -->
 - [x] B) Niños. <!-- feedback: Correcto. -->
-- [ ] C) Médicos.
-- [ ] D) Ingenieros.
+- [ ] C) Médicos. <!-- feedback: Incorrecto. Médicos. -->
+- [ ] D) Ingenieros. <!-- feedback: Incorrecto. Ingenieros. -->
 
 ### Explicación Pedagógica
 Identificar.
@@ -70,17 +76,18 @@ Identificar.
 
 **ID:** `CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Público.
+**Contexto:** Público.
 
 ### Enunciado
 *"Un manual de instrucciones para armar un juguete. ¿Destinatario?"*
 
-### Options
-- [ ] A) Bebés.
+### Opciones
+- [ ] A) Bebés. <!-- feedback: Incorrecto. Bebés. -->
 - [x] B) Padres o adultos. <!-- feedback: Correcto. -->
-- [ ] C) Mascotas.
-- [ ] D) Animales.
+- [ ] C) Mascotas. <!-- feedback: Incorrecto. Mascotas. -->
+- [ ] D) Animales. <!-- feedback: Incorrecto. Animales. -->
 
 ### Explicación Pedagógica
 Audiencia.
@@ -91,17 +98,18 @@ Audiencia.
 
 **ID:** `CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Lenguaje.
+**Contexto:** Lenguaje.
 
 ### Enunciado
 *"Un texto para niños usa un lenguaje..."*
 
-### Options
-- [ ] A) Complejo.
+### Opciones
+- [ ] A) Complejo. <!-- feedback: Incorrecto. Complejo. -->
 - [x] B) Sencillo y claro. <!-- feedback: Correcto. -->
-- [ ] C) Técnico.
-- [ ] D) Científico.
+- [ ] C) Técnico. <!-- feedback: Incorrecto. Técnico. -->
+- [ ] D) Científico. <!-- feedback: Incorrecto. Científico. -->
 
 ### Explicación Pedagógica
 Lenguaje.
@@ -112,17 +120,18 @@ Lenguaje.
 
 **ID:** `CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Adaptación.
+**Contexto:** Adaptación.
 
 ### Enunciado
 *"¿Por qué un libro de ciencias para grado 4 es diferente a uno para universitarios?"*
 
-### Options
+### Opciones
 - [x] A) Por el destinatario, su edad y conocimientos. <!-- feedback: Correcto. -->
-- [ ] B) Por el autor.
-- [ ] C) Por el precio.
-- [ ] D) Por el color.
+- [ ] B) Por el autor. <!-- feedback: Incorrecto. Por el autor. -->
+- [ ] C) Por el precio. <!-- feedback: Incorrecto. Por el precio. -->
+- [ ] D) Por el color. <!-- feedback: Incorrecto. Por el color. -->
 
 ### Explicación Pedagógica
 Adaptar.
@@ -133,17 +142,18 @@ Adaptar.
 
 **ID:** `CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Inferir destinatario.
+**Contexto:** Inferir destinatario.
 
 ### Enunciado
 *"‘Lleva tu carro al taller más cercano’."* ¿Destinatario?
 
-### Options
-- [ ] A) Niños.
+### Opciones
+- [ ] A) Niños. <!-- feedback: Incorrecto. Niños. -->
 - [x] B) Dueños de carros. <!-- feedback: Correcto. -->
-- [ ] C) Mascotas.
-- [ ] D) Médicos.
+- [ ] C) Mascotas. <!-- feedback: Incorrecto. Mascotas. -->
+- [ ] D) Médicos. <!-- feedback: Incorrecto. Médicos. -->
 
 ### Explicación Pedagógica
 Inferir.
@@ -154,17 +164,18 @@ Inferir.
 
 **ID:** `CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Destinatario y contenido.
+**Contexto:** Destinatario y contenido.
 
 ### Enunciado
 *"Texto con muchas imágenes y poco texto. ¿Para quién?"*
 
-### Options
-- [ ] A) Adultos.
+### Opciones
+- [ ] A) Adultos. <!-- feedback: Incorrecto. Adultos. -->
 - [x] B) Niños pequeños. <!-- feedback: Correcto. -->
-- [ ] C) Científicos.
-- [ ] D) Arquitectos.
+- [ ] C) Científicos. <!-- feedback: Incorrecto. Científicos. -->
+- [ ] D) Arquitectos. <!-- feedback: Incorrecto. Arquitectos. -->
 
 ### Explicación Pedagógica
 Audiencia visual.
@@ -175,17 +186,18 @@ Audiencia visual.
 
 **ID:** `CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Comparar destinatarios.
+**Contexto:** Comparar destinatarios.
 
 ### Enunciado
 *"Texto A: ‘Érase una vez...’. Texto B: ‘Según el artículo 15...’."* ¿Diferencia?
 
-### Options
-- [ ] A) Mismo destinatario.
+### Opciones
+- [ ] A) Mismo destinatario. <!-- feedback: Incorrecto. Mismo destinatario. -->
 - [x] B) Texto A para niños, Texto B para adultos. <!-- feedback: Correcto. -->
-- [ ] C) Ambos para niños.
-- [ ] D) Ambos para abogados.
+- [ ] C) Ambos para niños. <!-- feedback: Incorrecto. Ambos para niños. -->
+- [ ] D) Ambos para abogados. <!-- feedback: Incorrecto. Ambos para abogados. -->
 
 ### Explicación Pedagógica
 Comparar.
@@ -196,17 +208,18 @@ Comparar.
 
 **ID:** `CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Evaluar.
+**Contexto:** Evaluar.
 
 ### Enunciado
 *"Un texto de medicina para niños de 8 años. ¿Es adecuado?"*
 
-### Options
-- [ ] A) Sí, cualquier texto sirve.
+### Opciones
+- [ ] A) Sí, cualquier texto sirve. <!-- feedback: Incorrecto. Sí, cualquier texto sirve. -->
 - [x] B) No, usa lenguaje muy técnico. <!-- feedback: Correcto. -->
-- [ ] C) Sí, es bueno.
-- [ ] D) No importa.
+- [ ] C) Sí, es bueno. <!-- feedback: Incorrecto. Sí, es bueno. -->
+- [ ] D) No importa. <!-- feedback: Incorrecto. No importa. -->
 
 ### Explicación Pedagógica
 Evaluar adecuación.
@@ -217,17 +230,18 @@ Evaluar adecuación.
 
 **ID:** `CO-LEC-4-2026-W27-destinatario-texto-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Importancia.
+**Contexto:** Importancia.
 
 ### Enunciado
 *"¿Por qué un autor debe pensar en su destinatario?"*
 
-### Options
-- [ ] A) No es necesario.
+### Opciones
+- [ ] A) No es necesario. <!-- feedback: Incorrecto. No es necesario. -->
 - [x] B) Para que el texto sea comprensible y útil. <!-- feedback: Correcto. -->
-- [ ] C) Por obligación.
-- [ ] D) Para vender más.
+- [ ] C) Por obligación. <!-- feedback: Incorrecto. Por obligación. -->
+- [ ] D) Para vender más. <!-- feedback: Incorrecto. Para vender más. -->
 
 ### Explicación Pedagógica
 Importancia.

@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W01-la-celula-partes-funciones-001-MASTERY"
+id: "CO-CIE-6-2026-W01-la-celula-partes-funciones-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W01 — La Célula: Partes y Funciones
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W01-la-celula-partes-funciones-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En el laboratorio del colegio en Bogotá, los estudiantes observan un microscopio por primera vez.
+**Contexto:** En el laboratorio del colegio en Bogotá, los estudiantes observan un microscopio por primera vez.
 
 ### Enunciado
 ¿Qué es la unidad básica de la vida?
 
-### Options
+### Opciones
 - [ ] A) El átomo <!-- feedback: Incorrecto. El átomo es la unidad de la materia, no de la vida. -->
 - [ ] B) El tejido <!-- feedback: Incorrecto. El tejido está formado por muchas células. -->
 - [x] C) La célula <!-- feedback: Correcto. La célula es la unidad estructural y funcional de todos los seres vivos. -->
@@ -52,13 +55,14 @@ La célula es la unidad fundamental de la vida porque:
 
 **ID:** `CO-CIE-6-2026-W01-la-celula-partes-funciones-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, estudiantes identifican las partes de una célula en un dibujo digital.
+**Contexto:** En Medellín, estudiantes identifican las partes de una célula en un dibujo digital.
 
 ### Enunciado
 ¿Cuál es la función de la membrana celular?
 
-### Options
+### Opciones
 - [ ] A) Almacenar el material genético <!-- feedback: Incorrecto. El material genético se almacena en el núcleo. -->
 - [x] B) Controlar el paso de sustancias hacia el interior y exterior de la célula <!-- feedback: Correcto. La membrana regula la entrada y salida de sustancias. -->
 - [ ] C) Producir energía para la célula <!-- feedback: Incorrecto. La energía se produce en las mitocondrias. -->
@@ -77,13 +81,14 @@ Está formada por una bicapa lipídica (dos capas de grasas) con proteínas incr
 
 **ID:** `CO-CIE-6-2026-W01-la-celula-partes-funciones-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, estudiantes comparan un dibujo de célula animal y célula vegetal en su tableta.
+**Contexto:** En Cali, estudiantes comparan un dibujo de célula animal y célula vegetal en su tableta.
 
 ### Enunciado
 ¿Qué estructura está presente en la célula vegetal pero NO en la célula animal?
 
-### Options
+### Opciones
 - [ ] A) Núcleo <!-- feedback: Incorrecto. Ambos tipos de células tienen núcleo. -->
 - [x] B) Pared celular y cloroplastos <!-- feedback: Correcto. La pared celular da rigidez y los cloroplastos realizan fotosíntesis. -->
 - [ ] C) Membrana celular <!-- feedback: Incorrecto. Ambos tipos de células tienen membrana celular. -->
@@ -101,13 +106,14 @@ Además, las células vegetales tienen una vacuola central grande (almacena agua
 
 **ID:** `CO-CIE-6-2026-W01-la-celula-partes-funciones-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, los estudiantes ven un video sobre los tipos de células según su organización.
+**Contexto:** En Barranquilla, los estudiantes ven un video sobre los tipos de células según su organización.
 
 ### Enunciado
 ¿Cuál es la diferencia entre una célula procariota y una eucariota?
 
-### Options
+### Opciones
 - [ ] A) Las procariotas son más grandes <!-- feedback: Incorrecto. Las procariotas son más pequeñas (1-5 µm) que las eucariotas (10-100 µm). -->
 - [ ] B) Las eucariotas no tienen núcleo <!-- feedback: Incorrecto. Las eucariotas SÍ tienen núcleo definido. -->
 - [x] C) Las procariotas no tienen núcleo definido, su ADN está disperso en el citoplasma <!-- feedback: Correcto. Las procariotas carecen de núcleo y orgánulos membranosos. -->
@@ -124,13 +130,14 @@ La principal diferencia entre células procariotas y eucariotas es la presencia 
 
 **ID:** `CO-CIE-6-2026-W01-la-celula-partes-funciones-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, estudiantes usan un microscopio digital conectado a su computador.
+**Contexto:** En Bucaramanga, estudiantes usan un microscopio digital conectado a su computador.
 
 ### Enunciado
 Un estudiante observa una muestra al microscopio y ve estructuras verdes dentro de las células. ¿Qué estructura está viendo?
 
-### Options
+### Opciones
 - [ ] A) Mitocondrias <!-- feedback: Incorrecto. Las mitocondrias no son verdes; producen energía. -->
 - [x] B) Cloroplastos <!-- feedback: Correcto. Los cloroplastos contienen clorofila, el pigmento verde de la fotosíntesis. -->
 - [ ] C) Núcleos <!-- feedback: Incorrecto. El núcleo no es de color verde característico. -->
@@ -145,13 +152,14 @@ Los cloroplastos son orgánulos presentes en células vegetales y algas. Son ver
 
 **ID:** `CO-CIE-6-2026-W01-la-celula-partes-funciones-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, estudiantes realizan un experimento virtual con células en una app educativa.
+**Contexto:** En Cartagena, estudiantes realizan un experimento virtual con células en una app educativa.
 
 ### Enunciado
 Si una célula necesita más energía para moverse, ¿qué orgánulo debería tener en mayor cantidad?
 
-### Options
+### Opciones
 - [ ] A) Cloroplastos <!-- feedback: Incorrecto. Los cloroplastos producen glucosa, no energía directamente utilizable. -->
 - [x] B) Mitocondrias <!-- feedback: Correcto. Las mitocondrias producen ATP, la moneda energética de la célula. -->
 - [ ] C) Lisosomas <!-- feedback: Incorrecto. Los lisosomas digieren desechos celulares. -->
@@ -166,13 +174,14 @@ Las mitocondrias son conocidas como las "centrales eléctricas" de la célula po
 
 **ID:** `CO-CIE-6-2026-W01-la-celula-partes-funciones-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, estudiantes analizan un texto sobre organismos unicelulares y pluricelulares.
+**Contexto:** En Pereira, estudiantes analizan un texto sobre organismos unicelulares y pluricelulares.
 
 ### Enunciado
 ¿Por qué los organismos pluricelulares necesitan células especializadas?
 
-### Options
+### Opciones
 - [ ] A) Porque todas las células hacen lo mismo <!-- feedback: Incorrecto. Si todas hicieran lo mismo no habría especialización. -->
 - [ ] B) Porque las células bacterianas son más complejas <!-- feedback: Incorrecto. Las bacterias son unicelulares y procariotas. -->
 - [x] C) Porque al ser más grandes y complejos, las células se dividen el trabajo para mayor eficiencia <!-- feedback: Correcto. La especialización permite que cada célula cumpla una función específica. -->
@@ -193,13 +202,14 @@ Esta especialización permite mayor eficiencia, pero las células dependen unas 
 
 **ID:** `CO-CIE-6-2026-W01-la-celula-partes-funciones-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, estudiantes reciben un diagrama de una célula con diferentes orgánulos señalados.
+**Contexto:** En Manizales, estudiantes reciben un diagrama de una célula con diferentes orgánulos señalados.
 
 ### Enunciado
 Observa el diagrama de la célula. Si el orgánulo señalado como "X" produce proteínas, ¿cuál es?
 
-### Options
+### Opciones
 - [ ] A) La mitocondria <!-- feedback: Incorrecto. La mitocondria produce energía (ATP), no proteínas. -->
 - [ ] B) El núcleo <!-- feedback: Incorrecto. El núcleo almacena el ADN y controla la célula, pero las proteínas se fabrican en los ribosomas. -->
 - [x] C) El ribosoma <!-- feedback: Correcto. Los ribosomas son los orgánulos encargados de la síntesis de proteínas. -->
@@ -216,13 +226,14 @@ Los **ribosomas** son los orgánulos encargados de la síntesis de proteínas. P
 
 **ID:** `CO-CIE-6-2026-W01-la-celula-partes-funciones-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, los estudiantes debaten sobre el uso de células madre en tratamientos médicos.
+**Contexto:** En Cúcuta, los estudiantes debaten sobre el uso de células madre en tratamientos médicos.
 
 ### Enunciado
 ¿Cuál es el mejor argumento CIENTÍFICO para apoyar la investigación con células madre?
 
-### Options
+### Opciones
 - [ ] A) Porque es más barato que otros tratamientos <!-- feedback: Incorrecto. El costo no es un argumento científico sólido. -->
 - [x] B) Porque las células madre pueden diferenciarse en muchos tipos celulares, permitiendo regenerar tejidos dañados <!-- feedback: Correcto. La plasticidad de las células madre es clave para medicina regenerativa. -->
 - [ ] C) Porque todas las personas quieren usarlas <!-- feedback: Incorrecto. La opinión popular no determina la validez científica. -->
@@ -243,13 +254,14 @@ En Colombia, la investigación con células madre está regulada y ha avanzado e
 
 **ID:** `CO-CIE-6-2026-W01-la-celula-partes-funciones-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, un artículo de noticias habla sobre bacterias resistentes a antibióticos.
+**Contexto:** En Ibagué, un artículo de noticias habla sobre bacterias resistentes a antibióticos.
 
 ### Enunciado
 Un paciente deja de tomar antibiótico cuando se siente mejor, pero algunas bacterias sobreviven. ¿Cuál es la consecuencia más probable?
 
-### Options
+### Opciones
 - [ ] A) Las bacterias se vuelven más débiles <!-- feedback: Incorrecto. Las que sobreviven pueden ser las más resistentes. -->
 - [ ] B) Las bacterias aprenden a esconderse <!-- feedback: Incorrecto. No es un proceso consciente; es selección natural. -->
 - [x] C) Las bacterias resistentes sobreviven y se reproducen, creando una población resistente al antibiótico <!-- feedback: Correcto. Es selección natural a nivel bacteriano. -->

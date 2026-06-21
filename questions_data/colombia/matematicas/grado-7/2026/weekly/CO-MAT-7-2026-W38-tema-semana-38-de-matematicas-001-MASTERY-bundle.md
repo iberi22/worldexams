@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-7-2026-W38-tema-semana-38-de-matematicas-001-MASTERY"
+id: "CO-MAT-7-2026-W38-tema-semana-38-de-matematicas-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "matematicas"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 12
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 12
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W38 — Tema Semana 38 de Matematicas
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Tunja
+**Contexto:** I.E. Jorge Eliécer Gaitán en Tunja
 **Expected_Success:** 0.63
 
 ### Enunciado
 En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Tunja, se discute sobre Tema Semana 38 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 38 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Medellín
+**Contexto:** I.E. Santa Luisa de Marillac en Medellín
 **Expected_Success:** 0.79
 
 ### Enunciado
 En la clase de Matematicas del I.E. Santa Luisa de Marillac en Medellín, se discute sobre Tema Semana 38 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 38 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. Gabriel García Márquez en Quibdó
+**Contexto:** I.E. Gabriel García Márquez en Quibdó
 **Expected_Success:** 0.73
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Quibdó, se discute sobre Tema Semana 38 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 38 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Pasto
+**Contexto:** I.E. Jorge Eliécer Gaitán en Pasto
 **Expected_Success:** 0.72
 
 ### Enunciado
 En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Pasto, se discute sobre Tema Semana 38 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 38 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** Colegio La Presentación en Pasto
+**Contexto:** Colegio La Presentación en Pasto
 **Expected_Success:** 0.55
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Pasto, se discute sobre Tema Semana 38 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 38 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** I.E. Francisco de Paula Santander en Cartagena
+**Contexto:** I.E. Francisco de Paula Santander en Cartagena
 **Expected_Success:** 0.71
 
 ### Enunciado
 En la clase de Matematicas del I.E. Francisco de Paula Santander en Cartagena, se discute sobre Tema Semana 38 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 38 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Bogotá
+**Contexto:** Gimnasio Moderno en Bogotá
 **Expected_Success:** 0.69
 
 ### Enunciado
 En la clase de Matematicas del Gimnasio Moderno en Bogotá, se discute sobre Tema Semana 38 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 38 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** Colegio Nacional San Bartolomé en Tunja
+**Contexto:** Colegio Nacional San Bartolomé en Tunja
 **Expected_Success:** 0.66
 
 ### Enunciado
 En la clase de Matematicas del Colegio Nacional San Bartolomé en Tunja, se discute sobre Tema Semana 38 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 38 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Manizales
+**Contexto:** Colegio Nacional San Bartolomé en Manizales
 **Expected_Success:** 0.51
 
 ### Enunciado
 En la clase de Matematicas del Colegio Nacional San Bartolomé en Manizales, se discute sobre Tema Semana 38 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 38 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Ibagué
+**Contexto:** I.E. Santa Luisa de Marillac en Ibagué
 **Expected_Success:** 0.59
 
 ### Enunciado
 En la clase de Matematicas del I.E. Santa Luisa de Marillac en Ibagué, se discute sobre Tema Semana 38 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -244,13 +249,13 @@ El tema de Tema Semana 38 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v11`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** Colegio Nacional San Bartolomé en Sincelejo
+**Contexto:** Colegio Nacional San Bartolomé en Sincelejo
 **Expected_Success:** 0.50
 
 ### Enunciado
 En la clase de Matematicas del Colegio Nacional San Bartolomé en Sincelejo, se discute sobre Tema Semana 38 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -266,13 +271,13 @@ El tema de Tema Semana 38 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v12`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** I.E. Gabriel García Márquez en Pereira
+**Contexto:** I.E. Gabriel García Márquez en Pereira
 **Expected_Success:** 0.63
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Pereira, se discute sobre Tema Semana 38 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

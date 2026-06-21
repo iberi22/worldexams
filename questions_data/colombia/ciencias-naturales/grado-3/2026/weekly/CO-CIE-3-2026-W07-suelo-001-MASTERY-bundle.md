@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W07-suelo-001-MASTERY"
+id: "CO-CIE-3-2026-W07-suelo-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "suelo"
-semana: "W07"
+week: "W07"
 protocol_version: "5.2"
 bundle_type: "weekly"
 bundle_index: 1
@@ -20,17 +20,22 @@ rubric_baseline: "suelo"
 license: "FREE"
 tier: "legacy"
 
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Ciencias Naturales Grado 3 - Semana W07
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** La profesora muestra tierra del jardín del colegio.
+**Contexto:** La profesora muestra tierra del jardín del colegio.
 
 ### Enunciado
 ¿Cuál NO es un componente natural del suelo?
@@ -46,13 +51,14 @@ El suelo tiene minerales (arena, arcilla, limo), materia orgánica (humus), agua
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** Los estudiantes aprenden cómo se forma el suelo.
+**Contexto:** Los estudiantes aprenden cómo se forma el suelo.
 
 ### Enunciado
 ¿De dónde provienen los minerales del suelo?
@@ -68,13 +74,14 @@ El suelo se forma por meteorización de rocas, proceso que toma miles de años. 
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** La tierra con lombrices es más oscura y esponjosa.
+**Contexto:** La tierra con lombrices es más oscura y esponjosa.
 
 ### Enunciado
 ¿Qué hacen las lombrices por el suelo?
@@ -90,13 +97,14 @@ Las lombrices son 'ingenieras del suelo'. Sus galerías permiten aireación y dr
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** En el Quindío, el suelo se erosiona en laderas sin árboles.
+**Contexto:** En el Quindío, el suelo se erosiona en laderas sin árboles.
 
 ### Enunciado
 ¿Por qué los árboles protegen el suelo?
@@ -112,13 +120,14 @@ Los árboles previenen la erosión: raíces forman red que sujeta partículas, c
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** Identifican el mejor suelo para agricultura.
+**Contexto:** Identifican el mejor suelo para agricultura.
 
 ### Enunciado
 ¿Cuál es el suelo más adecuado para cultivar?
@@ -134,13 +143,14 @@ El suelo franco tiene mezcla equilibrada de arena (drenaje), arcilla (retención
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** Pasan agua por tres muestras de suelo.
+**Contexto:** Pasan agua por tres muestras de suelo.
 
 ### Enunciado
 ¿Cuál deja pasar el agua más rápido?
@@ -156,13 +166,14 @@ La textura determina la permeabilidad. Arena: partículas grandes (0.05-2mm), es
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** Después de lluvia, en tierra arcillosa hay charcos.
+**Contexto:** Después de lluvia, en tierra arcillosa hay charcos.
 
 ### Enunciado
 ¿Por qué?
@@ -178,13 +189,14 @@ La arcilla tiene partículas <0.002mm. Al compactarse, los espacios entre ellas 
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
 
-**Context:** Investigan por qué los campesinos abonan la tierra.
+**Contexto:** Investigan por qué los campesinos abonan la tierra.
 
 ### Enunciado
 ¿Cuál es la función principal del abono?
@@ -200,13 +212,14 @@ Los fertilizantes aportan nutrientes esenciales: N para hojas verdes, P para ra�
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** En la costa Caribe, el suelo salino daña los cultivos.
+**Contexto:** En la costa Caribe, el suelo salino daña los cultivos.
 
 ### Enunciado
 ¿Por qué el exceso de sal daña las plantas?
@@ -222,13 +235,14 @@ Cuando el suelo tiene mucha sal, el agua del suelo tiene mayor concentración de
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-001-MASTERY-v10`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Indagación
 
-**Context:** Un estudiante dice: 'La tierra es solo suciedad, no sirve para nada importante.'
+**Contexto:** Un estudiante dice: 'La tierra es solo suciedad, no sirve para nada importante.'
 
 ### Enunciado
 ¿Qué opinas?

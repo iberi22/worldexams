@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W34-sports-001-MASTERY"
+id: "CO-ING-3-2026-W34-sports-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "sports"
 periodo: "weekly"
-semana: 34
+week: "W34"
 year: 2026
 protocol_version: "5.2"
 bundle_index: 1
@@ -21,7 +21,10 @@ license: "FREE"
 tier: "mastery"
 creador: "Jules"
 
+bundle_type: "weekly"
+total_questions: 10
 ---
+
 
 # Weekly Pack W34: Sports (A1)
 
@@ -34,12 +37,12 @@ This bundle focuses on identifying common sports and the equipment used for them
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
-**Context:** Playing with a ball and feet.
+**Contexto:** Playing with a ball and feet.
 
 ### Enunciado
 In which sport do you **kick** a ball into a **goal** (arco)? ⚽
 
-### Options
+### Opciones
 - [ ] A) Basketball <!-- feedback: Incorrect. You use your hands in basketball. -->
 - [x] B) Soccer <!-- feedback: Correct! Soccer is the most popular sport in Colombia. -->
 - [ ] C) Tennis <!-- feedback: Incorrect. -->
@@ -55,12 +58,12 @@ In which sport do you **kick** a ball into a **goal** (arco)? ⚽
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
-**Context:** Sport in a pool.
+**Contexto:** Sport in a pool.
 
 ### Enunciado
 What sport do you do in a **swimming pool**? 🏊‍♂️
 
-### Options
+### Opciones
 - [x] A) Swimming <!-- feedback: Correct! Swimming is the sport of moving through water. -->
 - [ ] B) Baseball <!-- feedback: Incorrect. Baseball is played on a field. -->
 - [ ] C) Cycling <!-- feedback: Incorrect. -->
@@ -76,12 +79,12 @@ What sport do you do in a **swimming pool**? 🏊‍♂️
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
-**Context:** Using hands and a hoop.
+**Contexto:** Using hands and a hoop.
 
 ### Enunciado
 In this sport, you **throw** the ball into a high **hoop** (aro). 🏀
 
-### Options
+### Opciones
 - [ ] A) Soccer <!-- feedback: Incorrect. -->
 - [x] B) Basketball <!-- feedback: Correct! Basketball involves throwing the ball into a hoop. -->
 - [ ] C) Tennis <!-- feedback: Incorrect. -->
@@ -97,12 +100,12 @@ In this sport, you **throw** the ball into a high **hoop** (aro). 🏀
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
-**Context:** Cycling in Colombia.
+**Contexto:** Cycling in Colombia.
 
 ### Enunciado
 What sport uses a **bicycle** and is very famous in Colombia? 🚲
 
-### Options
+### Opciones
 - [ ] A) Skating <!-- feedback: Incorrect. -->
 - [x] B) Cycling <!-- feedback: Correct! Cycling is very popular in Colombia. -->
 - [ ] C) Golf <!-- feedback: Incorrect. -->
@@ -118,12 +121,12 @@ What sport uses a **bicycle** and is very famous in Colombia? 🚲
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
-**Context:** Using a racket.
+**Contexto:** Using a racket.
 
 ### Enunciado
 To play **Tennis**, you need a ball and a... 🎾
 
-### Options
+### Opciones
 - [ ] A) Bat <!-- feedback: Incorrect. Baseball uses a bat. -->
 - [x] B) Racket <!-- feedback: Correct! You hit the ball with a racket in tennis. -->
 - [ ] C) Helmet <!-- feedback: Incorrect. -->
@@ -139,12 +142,12 @@ To play **Tennis**, you need a ball and a... 🎾
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
-**Context:** Safety equipment.
+**Contexto:** Safety equipment.
 
 ### Enunciado
 When you go **cycling** or **skating**, what do you wear on your **head** for safety? 🪖
 
-### Options
+### Opciones
 - [x] A) A helmet <!-- feedback: Correct! A helmet protects your head. -->
 - [ ] B) A hat <!-- feedback: Incorrect. A hat doesn't protect from falls. -->
 - [ ] C) A cap <!-- feedback: Incorrect. -->
@@ -160,12 +163,12 @@ When you go **cycling** or **skating**, what do you wear on your **head** for sa
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
-**Context:** Identifying sport by action.
+**Contexto:** Identifying sport by action.
 
 ### Enunciado
 You are at the **track**. You are moving very fast on your **feet**. You are... 🏃‍♀️
 
-### Options
+### Opciones
 - [ ] A) Swimming <!-- feedback: Incorrect. -->
 - [ ] B) Jumping <!-- feedback: Incorrect. Jumping is up and down. -->
 - [x] C) Running <!-- feedback: Correct! Running is moving fast on foot. -->
@@ -181,12 +184,12 @@ You are at the **track**. You are moving very fast on your **feet**. You are... 
 **Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
-**Context:** Grouping sports by equipment.
+**Contexto:** Grouping sports by equipment.
 
 ### Enunciado
 Which group of sports **always** uses a **ball**?
 
-### Options
+### Opciones
 - [x] A) Soccer, Basketball, Tennis <!-- feedback: Correct! All three need a ball. -->
 - [ ] B) Swimming, Running, Cycling <!-- feedback: Incorrect. These don't need a ball. -->
 - [ ] C) Skating, Dancing, Jumping <!-- feedback: Incorrect. -->
@@ -202,12 +205,12 @@ Analizar los elementos necesarios para cada deporte. El fútbol, baloncesto y te
 **Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
-**Context:** Identifying sport by shoes.
+**Contexto:** Identifying sport by shoes.
 
 ### Enunciado
 You have **wheels** on the bottom of your **shoes**. You are practicing... ⛸️
 
-### Options
+### Opciones
 - [ ] A) Soccer <!-- feedback: Incorrect. -->
 - [x] B) Skating <!-- feedback: Correct! Skating uses shoes with wheels (skates). -->
 - [ ] C) Cycling <!-- feedback: Incorrect. You are on a bike, not wheels on shoes. -->
@@ -223,12 +226,12 @@ Analizar el equipo especializado. El patinaje (Skating) se realiza con patines, 
 **Bloom:** Evaluate
 **ICFES:** Pragmática
 **Expected_Success:** 0.50
-**Context:** Understanding teamwork.
+**Contexto:** Understanding teamwork.
 
 ### Enunciado
 In **Soccer**, you play with **11 people** on your team. Is it an **individual** or a **team** sport?
 
-### Options
+### Opciones
 - [ ] A) Individual sport <!-- feedback: Incorrect. You need many people. -->
 - [x] B) Team sport <!-- feedback: Correct! Working with other people makes it a team sport. -->
 - [ ] C) Solo sport <!-- feedback: Incorrect. -->

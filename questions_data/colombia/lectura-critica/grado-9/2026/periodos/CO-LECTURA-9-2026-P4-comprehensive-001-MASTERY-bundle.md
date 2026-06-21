@@ -1,5 +1,5 @@
 ---
-id: "CO-LECTURA-9-2026-P4-comprehensive-001-MASTERY"
+id: "CO-LECTURA-9-2026-P4-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 9
 asignatura: "lectura-critica"
@@ -19,7 +19,12 @@ rubric_baseline: "Literatura del siglo XX, contexto histórico-literario, semió
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Literatura del Siglo XX, Contexto Histórico-Literario y Semiótica
 
@@ -31,13 +36,14 @@ Este bundle cubre los temas del cuarto periodo de grado 9 en Lectura Crítica: l
 
 **ID:** `CO-LECTURA-9-2026-P4-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** En clase de literatura, la profesora introduce los movimientos literarios del siglo XX.
+**Contexto:** En clase de literatura, la profesora introduce los movimientos literarios del siglo XX.
 
 ### Enunciado
 ¿Cuál de los siguientes movimientos literarios surgió en el siglo XX?
 
-### Options
+### Opciones
 - [ ] A) El Romanticismo <!-- feedback: Incorrect. El Romanticismo fue un movimiento de los siglos XVIII y XIX. -->
 - [ ] B) El Barroco <!-- feedback: Incorrect. El Barroco fue un movimiento de los siglos XVII y XVIII. -->
 - [x] C) El Realismo Mágico <!-- feedback: Correct. El Realismo Mágico es un movimiento literario del siglo XX, especialmente desarrollado en América Latina. Combina la narración realista con elementos fantásticos presentados como naturales. Autores como Gabriel García Márquez, Isabel Allende y Juan Rulfo son sus máximos exponentes. -->
@@ -52,13 +58,14 @@ El siglo XX fue extraordinariamente fértil en movimientos literarios: vanguardi
 
 **ID:** `CO-LECTURA-9-2026-P4-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Los estudiantes inician el estudio de la semiótica.
+**Contexto:** Los estudiantes inician el estudio de la semiótica.
 
 ### Enunciado
 Según la semiótica de Ferdinand de Saussure, ¿cuáles son las dos partes del signo lingüístico?
 
-### Options
+### Opciones
 - [ ] A) Sujeto y predicado <!-- feedback: Incorrect. Esos son elementos de la oración gramatical, no del signo lingüístico. -->
 - [x] B) Significante (la imagen acústica o forma) y Significado (el concepto o idea) <!-- feedback: Correct. Para Saussure, el signo lingüístico es una entidad psíquica de dos caras: el significante (la forma sonora o gráfica, ej. la palabra "árbol") y el significado (el concepto mental de árbol). La relación entre ambos es arbitraria. -->
 - [ ] C) Emisor y receptor <!-- feedback: Incorrect. Son elementos de la comunicación, no del signo. -->
@@ -73,13 +80,14 @@ El signo lingüístico es la unidad mínima de significado. La característica m
 
 **ID:** `CO-LECTURA-9-2026-P4-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión global
-**Context:** Una estudiante analiza la relación entre el contexto histórico y una obra literaria.
+**Contexto:** Una estudiante analiza la relación entre el contexto histórico y una obra literaria.
 
 ### Enunciado
 La novela "1984" de George Orwell fue escrita en 1949. ¿Qué contexto histórico influyó directamente en su creación?
 
-### Options
+### Opciones
 - [ ] A) La Revolución Francesa y las guerras napoleónicas <!-- feedback: Incorrect. Esos eventos son del siglo XVIII-XIX, muy anteriores a Orwell. -->
 - [x] B) El totalitarismo stalinista y el nazismo, que llevaron a Orwell a reflexionar sobre el control estatal, la vigilancia y la manipulación del lenguaje <!-- feedback: Correct. Orwell escribió 1984 influenciado por el ascenso de los regímenes totalitarios (Stalin, Hitler, Mussolini). La novela es una crítica a la vigilancia masiva, la manipulación del lenguaje (neolengua) y la pérdida de la libertad individual bajo el totalitarismo. -->
 - [ ] C) La Guerra de los Cien Años <!-- feedback: Incorrect. Es un conflicto medieval, sin relación con Orwell. -->
@@ -94,13 +102,14 @@ La literatura no existe en el vacío; toda obra refleja su contexto histórico. 
 
 **ID:** `CO-LECTURA-9-2026-P4-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** En clase de semiótica, el profesor explica la diferencia entre denotación y connotación.
+**Contexto:** En clase de semiótica, el profesor explica la diferencia entre denotación y connotación.
 
 ### Enunciado
 ¿Cuál es la diferencia entre denotación y connotación?
 
-### Options
+### Opciones
 - [ ] A) No hay diferencia; son sinónimos <!-- feedback: Incorrect. Son conceptos distintos en semiótica. -->
 - [x] B) La denotación es el significado literal u objetivo de una palabra, mientras que la connotación son los significados asociados, subjetivos o culturales que se le añaden <!-- feedback: Correct. Por ejemplo, "casa" denota un edificio para habitar (significado literal), pero connota seguridad, hogar, familia, intimidad (significados culturales y emocionales). La connotación varía según el contexto cultural y la experiencia personal. -->
 - [ ] C) La denotación es el significado figurado y la connotación el literal <!-- feedback: Incorrect. Es al revés. -->
@@ -115,15 +124,16 @@ La diferencia entre denotación y connotación es fundamental para la lectura cr
 
 **ID:** `CO-LECTURA-9-2026-P4-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Identificación de estructuras
-**Context:** Los estudiantes analizan un fragmento de "Cien años de soledad" de Gabriel García Márquez, obra cumbre del realismo mágico.
+**Contexto:** Los estudiantes analizan un fragmento de "Cien años de soledad" de Gabriel García Márquez, obra cumbre del realismo mágico.
 
 **Fragmento: "Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo."**
 
 ### Enunciado
 ¿Qué recurso narrativo característico del realismo mágico se identifica en este fragmento?
 
-### Options
+### Opciones
 - [ ] A) La narración estrictamente cronológica de eventos históricos <!-- feedback: Incorrect. El fragmento no sigue un orden cronológico lineal. -->
 - [x] B) La combinación de un hecho trágico (fusilamiento) con un recuerdo cotidiano y maravilloso (conocer el hielo), característico del realismo mágico que mezcla lo real con lo asombroso <!-- feedback: Correct. El realismo mágico se caracteriza por presentar elementos fantásticos o maravillosos como parte de la realidad cotidiana. Aquí, la imagen del hielo como algo maravilloso se entrecruza con la memoria de un momento trágico. También hay una manipulación temporal característica. -->
 - [ ] C) El uso de un narrador omnisciente objetivo <!-- feedback: Incorrect. Aunque hay narrador omnisciente, eso no es exclusivo del realismo mágico. -->
@@ -138,13 +148,14 @@ La diferencia entre denotación y connotación es fundamental para la lectura cr
 
 **ID:** `CO-LECTURA-9-2026-P4-comprehensive-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Identificación de estructuras
-**Context:** Una estudiante analiza los signos en un texto publicitario.
+**Contexto:** Una estudiante analiza los signos en un texto publicitario.
 
 ### Enunciado
 En un aviso publicitario, una marca de cigarrillos muestra la imagen de un vaquero solitario en un paisaje del lejano oeste. ¿Qué tipo de análisis semiótico corresponde a esta imagen?
 
-### Options
+### Opciones
 - [ ] A) Análisis denotativo: el vaquero representa un producto de tabaco <!-- feedback: Incorrect. Eso ya es una interpretación, no el nivel denotativo puro. -->
 - [x] B) El nivel denotativo es "un hombre a caballo en un paisaje desértico"; el nivel connotativo asocia esta imagen con valores de libertad, independencia, masculinidad y aventura, que la publicidad transfiere al producto <!-- feedback: Correct. La semiótica publicitaria analiza cómo las imágenes crean significados. Denotativamente es solo un hombre a caballo. Connotativamente, asocia el cigarrillo con valores aspiracionales (libertad, rudo individualismo) que nada tienen que ver con fumar. -->
 - [ ] C) Solo hay nivel denotativo porque la publicidad es literal <!-- feedback: Incorrect. La publicidad siempre trabaja con la connotación para crear asociaciones. -->
@@ -159,15 +170,16 @@ Roland Barthes desarrolló el análisis semiótico de la publicidad, mostrando c
 
 **ID:** `CO-LECTURA-9-2026-P4-comprehensive-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Comprensión global
-**Context:** Los estudiantes leen un fragmento de "El túnel" de Ernesto Sabato, una novela existencialista del siglo XX.
+**Contexto:** Los estudiantes leen un fragmento de "El túnel" de Ernesto Sabato, una novela existencialista del siglo XX.
 
 **Fragmento: "Bastará decir que soy Juan Pablo Castel, el pintor que mató a María Iribarne; supongo que el proceso está en la memoria de todos y que no necesitan mayores explicaciones sobre mi persona."**
 
 ### Enunciado
 ¿Qué característica de la literatura existencialista del siglo XX se evidencia en este fragmento?
 
-### Options
+### Opciones
 - [ ] A) El optimismo y la confianza en la humanidad <!-- feedback: Incorrect. El existencialismo explora la angustia y el absurdo. -->
 - [x] B) La confesión de un crimen desde la perspectiva del culpable, explorando la angustia, la soledad y la imposibilidad de comunicación auténtica <!-- feedback: Correct. Sabato inaugura la novela con el final (el asesinato) y luego reconstruye los motivos. Esto refleja temas existencialistas: la soledad radical del individuo, la incomunicación, la angustia y la elección (Castel elige matar). El tono confesional busca que el lector comprenda, no justifique. -->
 - [ ] C) La celebración de la vida en comunidad <!-- feedback: Incorrect. La obra explora la incomunicación y la soledad. -->
@@ -182,13 +194,14 @@ El existencialismo literario (Sartre, Camus, Sabato, Dostoyevski) explora la lib
 
 **ID:** `CO-LECTURA-9-2026-P4-comprehensive-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Comprensión global
-**Context:** Un grupo de estudiantes analiza una imagen publicitaria como signo.
+**Contexto:** Un grupo de estudiantes analiza una imagen publicitaria como signo.
 
 ### Enunciado
 En un aviso, una botella de agua mineral está rodeada de nieve y montañas vírgenes. ¿Qué análisis semiótico es correcto?
 
-### Options
+### Opciones
 - [ ] A) La imagen significa que el agua es cara <!-- feedback: Incorrect. El precio no está comunicado por la imagen. -->
 - [x] B) La imagen funciona como un signo icónico (representa agua de montaña) y su connotación asocia el producto con pureza, naturaleza virgen y salud, valores transferidos al producto <!-- feedback: Correct. Semióticamente, la imagen tiene: 1) nivel icónico (representa visualmente el producto en un paisaje), 2) nivel indicial (la nieve y montañas "indican" pureza y origen natural), 3) nivel simbólico (asocia el agua con valores de pureza y naturaleza). -->
 - [ ] C) Es solo una fotografía decorativa sin significado <!-- feedback: Incorrect. Toda imagen en publicidad tiene una función semiótica. -->
@@ -203,13 +216,14 @@ Peirce clasificó los signos en íconos (semejanza, como una fotografía), índi
 
 **ID:** `CO-LECTURA-9-2026-P4-comprehensive-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Identificación de estructuras
-**Context:** Los estudiantes comparan el contexto histórico de dos obras del siglo XX.
+**Contexto:** Los estudiantes comparan el contexto histórico de dos obras del siglo XX.
 
 ### Enunciado
 Tanto "La rebelión de la granja" (1945) de Orwell como "El coronel no tiene quien le escriba" (1961) de García Márquez fueron escritas en contextos históricos de crisis. ¿Qué tienen en común sus contextos?
 
-### Options
+### Opciones
 - [x] A) Ambas reflejan la desilusión política: Orwell critica la corrupción del ideal socialista soviético, y García Márquez refleja la soledad y el abandono del Estado colombiano en zonas rurales <!-- feedback: Correct. Orwell escribe sobre la Revolución Rusa traicionada (los cerdos se vuelven como los humanos). García Márquez muestra la espera infinita de un veterano de la Guerra de los Mil Días que nunca recibe su pensión. Ambos contextos son de desilusión política, aunque muy diferentes. -->
 - [ ] B) Ambas fueron escritas durante la misma guerra mundial <!-- feedback: Incorrect. Orwell escribió durante/post-Segunda Guerra Mundial; García Márquez durante el Frente Nacional en Colombia. -->
 - [ ] C) Ambas celebran los ideales revolucionarios <!-- feedback: Incorrect. Orwell critica la revolución traicionada; García Márquez no celebra la guerra. -->
@@ -224,13 +238,14 @@ El contexto histórico-literario permite entender que toda obra es una respuesta
 
 **ID:** `CO-LECTURA-9-2026-P4-comprehensive-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Identificación de estructuras
-**Context:** Una estudiante analiza un semáforo desde la perspectiva semiótica.
+**Contexto:** Una estudiante analiza un semáforo desde la perspectiva semiótica.
 
 ### Enunciado
 Desde la perspectiva de la semiótica, ¿qué tipo de signo es un semáforo en rojo?
 
-### Options
+### Opciones
 - [ ] A) Un ícono, porque se parece a una señal de peligro <!-- feedback: Incorrect. El color rojo no se parece al peligro; es una convención. -->
 - [ ] B) Un índice, porque hay una conexión física entre el rojo y detenerse <!-- feedback: Incorrect. No hay conexión física o causal; es puramente convencional. -->
 - [x] C) Un símbolo, porque la relación entre el color rojo y la orden de detenerse es arbitraria y está determinada por una convención cultural <!-- feedback: Correct. El semáforo rojo es un símbolo porque su significado no deriva de ninguna semejanza (no se parece a "detenerse") ni conexión física, sino de una convención social acordada. En otras culturas, otros colores podrían tener ese significado. -->
@@ -245,13 +260,14 @@ Según la clasificación de Peirce, los símbolos son signos cuyo significado de
 
 **ID:** `CO-LECTURA-9-2026-P4-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión crítica
-**Context:** Los estudiantes analizan el contexto de producción de "La casa de los espíritus" de Isabel Allende.
+**Contexto:** Los estudiantes analizan el contexto de producción de "La casa de los espíritus" de Isabel Allende.
 
 ### Enunciado
 Isabel Allende comenzó a escribir "La casa de los espíritus" (1982) como una carta a su abuelo moribundo, pero la obra se convirtió en una novela que abarca la historia de Chile. ¿Cómo influyó el contexto histórico en esta obra?
 
-### Options
+### Opciones
 - [ ] A) La novela es una fantasía pura sin relación con la realidad chilena <!-- feedback: Incorrect. La novela está profundamente conectada con la historia de Chile. -->
 - [x] B) La novela refleja la historia de Chile del siglo XX, incluyendo la lucha de clases, el golpe de Estado de 1973 y la dictadura de Pinckney, a través de la saga de la familia Trueba <!-- feedback: Correct. Allende escribe en el exilio, después del golpe militar de 1973. La novela entrelaza la historia familiar con la historia política de Chile: desde las luchas campesinas hasta la dictadura. El contexto de exilio y violencia política marca profundamente la obra. -->
 - [ ] C) La novela describe la independencia de Chile en el siglo XIX <!-- feedback: Incorrect. La obra se desarrolla en el siglo XX. -->
@@ -266,13 +282,14 @@ Allende pertenece al "post-boom" latinoamericano. Su obra, como la de muchos esc
 
 **ID:** `CO-LECTURA-9-2026-P4-comprehensive-001-MASTERY-v12`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Comprensión global
-**Context:** En un ejercicio de semiótica, los estudiantes deben analizar un meme de internet.
+**Contexto:** En un ejercicio de semiótica, los estudiantes deben analizar un meme de internet.
 
 ### Enunciado
 Un meme muestra la imagen de un gato mirando confundido con el texto: "Cuando el profesor dice 'esto es muy fácil' pero tú no entiendes nada". Desde la semiótica, ¿qué elementos componen este signo?
 
-### Options
+### Opciones
 - [ ] A) Solo la imagen del gato, el texto es irrelevante <!-- feedback: Incorrect. El texto es parte del signo. -->
 - [x] B) La imagen del gato es un signo icónico (se parece a un gato confundido), el texto es un signo simbólico (lenguaje escrito), y juntos crean un significado que no está en ninguno por separado: la experiencia de no entender algo que se supone fácil <!-- feedback: Correct. El meme es un signo complejo donde la combinación de imagen (icónico) y texto (simbólico) produce un tercer significado. La confusión del gato y el texto irónico crean un mensaje humorístico identificable. -->
 - [ ] C) Es solo un signo simbólico porque todo meme es lenguaje <!-- feedback: Incorrect. La imagen también es parte del signo. -->
@@ -287,15 +304,16 @@ Los memes son signos multimodales que combinan diferentes sistemas de signos (im
 
 **ID:** `CO-LECTURA-9-2026-P4-comprehensive-001-MASTERY-v13`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión crítica
-**Context:** Los estudiantes analizan un poema de Pablo Neruda (Premio Nobel 1971) y lo relacionan con su contexto.
+**Contexto:** Los estudiantes analizan un poema de Pablo Neruda (Premio Nobel 1971) y lo relacionan con su contexto.
 
 **Fragmento: "Sucede que me canso de ser hombre. / Sucede que entro en las sastrerías y en los cines / marchitos, encogido, como un cisne de fieltro / navegando en un agua de origen y ceniza." (Walking Around, Neruda)**
 
 ### Enunciado
 ¿Qué contexto histórico y emocional se refleja en este poema de Neruda?
 
-### Options
+### Opciones
 - [ ] A) La alegría de vivir en la ciudad moderna <!-- feedback: Incorrect. El tono es de cansancio y alienación. -->
 - [x] B) La alienación del individuo en la ciudad moderna, un tema recurrente en la poesía del siglo XX que refleja la deshumanización de la vida urbana <!-- feedback: Correct. Escrito en los años 30, el poema expresa el agotamiento existencial del hombre moderno frente a la rutina, el consumismo y la alienación urbana. Palabras como "canasto", "marchitos", "encogido", "ceniza" reflejan hastío y despersonalización. -->
 - [ ] C) La celebración de la naturaleza y el campo <!-- feedback: Incorrect. El poema se desarrolla en espacios urbanos (sastrerías, cines). -->
@@ -310,13 +328,14 @@ La poesía de Neruda evolucionó desde el romanticismo temprano hasta una poesí
 
 **ID:** `CO-LECTURA-9-2026-P4-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión crítica
-**Context:** Una estudiante evalúa la siguiente afirmación sobre literatura del siglo XX: "El Boom latinoamericano fue un movimiento literario que solo buscaba entretener a los lectores."
+**Contexto:** Una estudiante evalúa la siguiente afirmación sobre literatura del siglo XX: "El Boom latinoamericano fue un movimiento literario que solo buscaba entretener a los lectores."
 
 ### Enunciado
 ¿Qué evaluación crítica merece esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Es correcta: el Boom solo buscaba vender libros <!-- feedback: Incorrect. Reduce el Boom a un fenómeno comercial. -->
 - [ ] B) Es correcta porque los autores del Boom escribían novelas de entretenimiento <!-- feedback: Incorrect. Las novelas del Boom tienen un alto contenido político y estético. -->
 - [x] C) Es incorrecta: el Boom latinoamericano tuvo un profundo compromiso político y social, buscando visibilizar las realidades de América Latina, denunciar dictaduras y explorar la identidad latinoamericana a través de la innovación narrativa <!-- feedback: Correct. Autores como García Márquez, Cortázar, Fuentes, Vargas Llosa y Rulfo no solo buscaban innovar estéticamente (realismo mágico, experimentación narrativa), sino que también tenían un fuerte compromiso político: denunciaban dictaduras, imperialismo, desigualdad y exploraban la identidad latinoamericana. -->
@@ -331,13 +350,14 @@ El Boom latinoamericano (años 60-70) fue un fenómeno literario, editorial y po
 
 **ID:** `CO-LECTURA-9-2026-P4-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión crítica
-**Context:** Los estudiantes participan en un debate sobre la vigencia de la semiótica.
+**Contexto:** Los estudiantes participan en un debate sobre la vigencia de la semiótica.
 
 ### Enunciado
 Un estudiante afirma: "La semiótica es una teoría del siglo XX que ya no sirve para analizar la comunicación digital actual, como los emojis o los memes." ¿Qué evaluación crítica merece esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Es correcta: la semiótica solo sirve para textos escritos <!-- feedback: Incorrect. La semiótica analiza todo tipo de signos. -->
 - [ ] B) Es correcta porque los emojis son imágenes, no signos <!-- feedback: Incorrect. Los emojis son signos que pueden analizarse semióticamente. -->
 - [x] C) Es incorrecta: la semiótica es más relevante que nunca, ya que los emojis, stickers y memes son signos que pueden analizarse con las herramientas semióticas clásicas (signo, significante/significado, denotación/connotación, ícono/índice/símbolo), y la semiótica ha evolucionado para estudiar la comunicación multimodal <!-- feedback: Correct. Los emojis son signos que combinan características icónicas (se parecen a emociones) y simbólicas (la sonrisa 😊 tiene un significado convencional). La semiótica multimodal actual estudia cómo diferentes modos (imagen, texto, sonido, gesto) interactúan en la comunicación digital. Lejos de estar obsoleta, la semiótica es esencial para entender la comunicación contemporánea. -->

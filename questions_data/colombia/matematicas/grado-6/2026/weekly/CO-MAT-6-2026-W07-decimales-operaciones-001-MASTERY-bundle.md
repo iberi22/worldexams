@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W07-decimales-operaciones-001-MASTERY"
+id: "CO-MAT-6-2026-W07-decimales-operaciones-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W07 — Decimales: Operaciones
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W07-decimales-operaciones-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Compra en tienda de barrio
+**Contexto:** Compra en tienda de barrio
 
 ### Enunciado
 Valentina compra en la tienda un jugo que cuesta $2.500 y una empanada que cuesta $1.200. Si paga con un billete de $5.000, ¿cuanto recibe de vueltas?
 
-### Options
+### Opciones
 - [ ] A) $3.700 <!-- feedback: Incorrect. Sumar los precios: 2.500+1.200=3.700, pero ese es el total gastado, no las vueltas. Las vueltas son 5.000 - 3.700 = 1.300. -->
 - [x] B) $1.300 <!-- feedback: Correct. Total gastado: 2.500+1.200=3.700. Vueltas: 5.000-3.700=1.300. -->
 - [ ] C) $2.500 <!-- feedback: Incorrect. Restar solo el jugo: 5.000-2.500=2.500, faltaria descontar la empanada de 1.200. -->
@@ -50,13 +53,14 @@ Valentina recibe $1.300 de vueltas.
 
 **ID:** `CO-MAT-6-2026-W07-decimales-operaciones-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Precios en la carniceria
+**Contexto:** Precios en la carniceria
 
 ### Enunciado
 En la carniceria de Don Jose, el kilo de carne de res cuesta $18.500. Si Santiago compra 2 kilos exactos, ¿cuanto debe pagar?
 
-### Options
+### Opciones
 - [ ] A) $37.000 <!-- feedback: Correct. 18.500 × 2 = 37.000. Multiplicar un decimal por un entero. -->
 - [ ] B) $36.000 <!-- feedback: Incorrect. 18.500 × 2 = 37.000, no 36.000. Error: 500×2=1.000, no 0. -->
 - [x] C) $20.500 <!-- feedback: Incorrect. Sumar en vez de multiplicar: 18.500+2=20.500. 2 kilos al mismo precio significa multiplicar, no sumar. -->
@@ -71,13 +75,14 @@ Multiplicar un numero decimal por un entero se hace igual que con numeros natura
 
 **ID:** `CO-MAT-6-2026-W07-decimales-operaciones-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Distancia en el mapa
+**Contexto:** Distancia en el mapa
 
 ### Enunciado
 La distancia entre la casa de Mateo y el colegio es de 2,75 km. Si ya ha recorrido 1,4 km, ¿cuantos km le faltan para llegar?
 
-### Options
+### Opciones
 - [x] A) 1,35 km <!-- feedback: Correct. 2,75 - 1,40 = 1,35 km. Alineamos comas decimales y restamos. -->
 - [ ] B) 1,75 km <!-- feedback: Incorrect. Restar 2,75-1,00=1,75, olvidando restar los 0,4 km adicionales. -->
 - [ ] C) 4,15 km <!-- feedback: Incorrect. Sumar en vez de restar: 2,75+1,4=4,15. La operacion es resta porque ya recorrio una parte. -->
@@ -93,13 +98,14 @@ Para restar numeros decimales, alineamos las comas decimales y restamos como si 
 
 **ID:** `CO-MAT-6-2026-W07-decimales-operaciones-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Combustible
+**Contexto:** Combustible
 
 ### Enunciado
 El tanque del carro de Don Carlos tiene capacidad para 45,5 litros de gasolina. Si en este momento tiene 12,8 litros, ¿cuantos litros necesita para llenar el tanque?
 
-### Options
+### Opciones
 - [ ] A) 58,3 litros <!-- feedback: Incorrect. Sumar en vez de restar: 45,5+12,8=58,3. Necesita la diferencia, no el total. -->
 - [ ] B) 33,7 litros <!-- feedback: Incorrect. Error de resta: 45,5-12,8 = 32,7, no 33,7. 45,5-12,8 = 32,7. Revisar la resta: 15-8=7 en decimas. -->
 - [x] C) 32,7 litros <!-- feedback: Correct. 45,5 - 12,8 = 32,7 litros. -->
@@ -114,13 +120,14 @@ Restamos la cantidad actual de la capacidad total: 45,5 - 12,8 = 32,7 litros. Do
 
 **ID:** `CO-MAT-6-2026-W07-decimales-operaciones-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Compra en el supermercado
+**Contexto:** Compra en el supermercado
 
 ### Enunciado
 Maria Jose compra 3,5 kg de arroz a $2.800 por kilo. ¿Cuanto debe pagar?
 
-### Options
+### Opciones
 - [x] A) $9.800 <!-- feedback: Correct. 3,5 × 2.800 = 9.800. Multiplicamos: 35 × 2800 = 98.000, dividimos entre 10 → 9.800. -->
 - [ ] B) $8.400 <!-- feedback: Incorrect. Calcular 3 × 2.800 = 8.400, olvidando los 0,5 kg adicionales. 3,5 es 3 + 0,5. -->
 - [ ] C) $6.300 <!-- feedback: Incorrect. Dividir en vez de multiplicar: 2.800 × 3,5 = 2.800 × 3 + 2.800 × 0,5 = 8.400 + 1.400 = 9.800, no 6.300. -->
@@ -135,13 +142,14 @@ Multiplicamos el precio por kilo por la cantidad: 2.800 × 3,5 = 2.800 × (3 + 0
 
 **ID:** `CO-MAT-6-2026-W07-decimales-operaciones-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Rendimiento de pintura
+**Contexto:** Rendimiento de pintura
 
 ### Enunciado
 Un tarro de pintura cubre 12,5 m². Si la pared que van a pintar mide 8,75 m de ancho por 3,2 m de alto, ¿cuantos tarros necesita comprar Camilo para pintar toda la pared?
 
-### Options
+### Opciones
 - [ ] A) 1 tarro <!-- feedback: Incorrect. El area es 8,75 × 3,2 = 28 m². Con 1 tarro solo cubre 12,5 m², no alcanza. -->
 - [ ] B) 2 tarros <!-- feedback: Incorrect. 12,5 × 2 = 25 m², pero la pared tiene 28 m². Faltan 3 m². Necesita 3 tarros. -->
 - [x] C) 3 tarros <!-- feedback: Correct. Area: 8,75×3,2=28 m². 28÷12,5=2,24 tarros. Como no venden fracciones, necesita 3 tarros. -->
@@ -159,13 +167,14 @@ Camilo necesita comprar 3 tarros de pintura (2 no alcanzan pero 3 si).
 
 **ID:** `CO-MAT-6-2026-W07-decimales-operaciones-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Peso de frutas
+**Contexto:** Peso de frutas
 
 ### Enunciado
 En la fruteria, el kilo de manzanas cuesta $4.500. Si la balanza marca 2,35 kg de manzanas que compra Lucia, ¿cuanto debe pagar?
 
-### Options
+### Opciones
 - [ ] A) $10.575 <!-- feedback: Correct. 4.500 × 2,35 = 4.500 × 2 + 4.500 × 0,35 = 9.000 + 1.575 = 10.575. -->
 - [ ] B) $9.000 <!-- feedback: Incorrect. Multiplicar solo 4.500×2=9.000, olvidando los 0,35 kg. -->
 - [x] C) $11.250 <!-- feedback: Incorrect. Error: 4.500×2,35. Posible calculo: 4.500×2,5=11.250. Se usa 2,5 en vez de 2,35. -->
@@ -186,13 +195,14 @@ Lucia debe pagar $10.575 por las manzanas.
 
 **ID:** `CO-MAT-6-2026-W07-decimales-operaciones-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Promedio de notas
+**Contexto:** Promedio de notas
 
 ### Enunciado
 Santiago tiene las siguientes notas en matematicas: 4,5 - 3,8 - 4,2 - 5,0 - 3,5. Si el promedio se calcula sumando todas las notas y dividiendo entre el numero de notas, ¿cual es su promedio?
 
-### Options
+### Opciones
 - [ ] A) 4,0 <!-- feedback: Incorrect. 4,5+3,8+4,2+5,0+3,5=21,0. 21,0÷5=4,2, no 4,0. -->
 - [ ] B) 5,0 <!-- feedback: Incorrect. La nota maxima es 5,0 pero el promedio no puede ser 5,0 porque hay notas mas bajas. El promedio es 4,2. -->
 - [x] C) 4,2 <!-- feedback: Correct. Suma: 4,5+3,8+4,2+5,0+3,5=21,0. Promedio: 21,0÷5=4,2. -->
@@ -210,13 +220,14 @@ El promedio de Santiago en matematicas es 4,2.
 
 **ID:** `CO-MAT-6-2026-W07-decimales-operaciones-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Error en la cuenta del restaurante
+**Contexto:** Error en la cuenta del restaurante
 
 ### Enunciado
 En un restaurante de comidas tipicas, la cuenta de la familia Rodriguez es de $78.350. El mesero dice que deben pagar $78.500. ¿Cual es la diferencia entre lo que dice el mesero y el valor real?
 
-### Options
+### Opciones
 - [ ] A) $150 <!-- feedback: Correct. 78.500 - 78.350 = 150. La diferencia es de $150. -->
 - [ ] B) $250 <!-- feedback: Incorrect. Error: 78.500 - 78.250 = 250. La cuenta real es 78.350, no 78.250. -->
 - [x] C) $50 <!-- feedback: Incorrect. Error: confundir 78.350 con 78.450. 78.500-78.450=50. La diferencia real es 78.500-78.350=150. -->
@@ -234,8 +245,9 @@ Siempre es importante verificar las cuentas, especialmente con numeros decimales
 
 **ID:** `CO-MAT-6-2026-W07-decimales-operaciones-010-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Analisis de ticket de compra
+**Contexto:** Analisis de ticket de compra
 
 ### Enunciado
 El ticket de compra en D1 muestra:
@@ -246,7 +258,7 @@ Total segun ticket: $13.550
 
 ¿El total del ticket es correcto?
 
-### Options
+### Opciones
 - [x] A) Si, porque 4.250+2.800+6.500=13.550 <!-- feedback: Correct. 4.250+2.800=7.050; 7.050+6.500=13.550. El total es correcto. -->
 - [ ] B) No, porque el total deberia ser $13.650 <!-- feedback: Incorrect. Error: 4.250+6.500=10.750; 10.750+2.800=13.550, no 13.650. Revisar la suma. -->
 - [ ] C) No, porque el total deberia ser $12.550 <!-- feedback: Incorrect. Error: 4.250+2.800+6.500. Posible equivocacion: 4.250+2.800=7.050, pero restar 500 en vez de sumar o sumar mal la leche y el pan. -->

@@ -1,28 +1,32 @@
 ---
-id: "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY"
+id: "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lengua"
 tema: "categorias-gramaticales"
-semana: "W04"
+week: "W04"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Categorías Gramaticales - Grado 6
 ## Semana W04
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio La Enseñanza de Bogotá, la profesora Patricia explica las categorías gramaticales a sus estudiantes de grado sexto.
+**Contexto:** En el Colegio La Enseñanza de Bogotá, la profesora Patricia explica las categorías gramaticales a sus estudiantes de grado sexto.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Las categorías gramaticales son las clases en que se agrupan las palabras segú
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En la I.E. La Salle de Medellín, los estudiantes repasan los tipos de sustantivos.
+**Contexto:** En la I.E. La Salle de Medellín, los estudiantes repasan los tipos de sustantivos.
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -60,11 +64,11 @@ Los sustantivos son palabras que nombran personas, animales, cosas, lugares, ide
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio San José de Cúcuta, los estudiantes identifican adjetivos en un texto descriptivo sobre la ciudad.
+**Contexto:** En el Colegio San José de Cúcuta, los estudiantes identifican adjetivos en un texto descriptivo sobre la ciudad.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ Los adjetivos son palabras que expresan cualidades o características del sustan
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En la I.E. Nuestra Señora del Rosario de Pereira, los estudiantes clasifican palabras según su categoría gramatical.
+**Contexto:** En la I.E. Nuestra Señora del Rosario de Pereira, los estudiantes clasifican palabras según su categoría gramatical.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -102,11 +106,11 @@ Los verbos expresan acciones, estados o procesos; los adverbios modifican verbos
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En el Colegio Británico de Cartagena, los estudiantes practican el uso de pronombres.
+**Contexto:** En el Colegio Británico de Cartagena, los estudiantes practican el uso de pronombres.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -123,11 +127,11 @@ Los pronombres reemplazan a los sustantivos para evitar repeticiones. "Ellos" (p
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En la Institución Educativa Ciudadela de los Ángeles de Cali, los estudiantes analizan el uso de preposiciones en un texto.
+**Contexto:** En la Institución Educativa Ciudadela de los Ángeles de Cali, los estudiantes analizan el uso de preposiciones en un texto.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ Las preposiciones son palabras invariables que relacionan elementos dentro de la
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** Los estudiantes del Gimnasio Moderno de Bogotá analizan un texto y deben clasificar cada palabra por su categoría gramatical.
+**Contexto:** Los estudiantes del Gimnasio Moderno de Bogotá analizan un texto y deben clasificar cada palabra por su categoría gramatical.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Los adjetivos numerales indican cantidad u orden. "Tres" es un numeral cardinal 
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio INEM de Santa Marta, los estudiantes debaten sobre por qué una misma palabra puede pertenecer a diferentes categorías gramaticales según el contexto.
+**Contexto:** En el Colegio INEM de Santa Marta, los estudiantes debaten sobre por qué una misma palabra puede pertenecer a diferentes categorías gramaticales según el contexto.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -189,11 +193,11 @@ Muchas palabras en español cambian de categoría gramatical según el contexto.
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** En la I.E. Inem de Villavicencio, un estudiante presenta un texto con errores de categorización gramatical.
+**Contexto:** En la I.E. Inem de Villavicencio, un estudiante presenta un texto con errores de categorización gramatical.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -210,11 +214,11 @@ Los verbos como "prometer", "decidir", "lograr" y "necesitar" requieren ser comp
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En el Colegio Colombo Americano de Neiva, los estudiantes deben crear una oración que contenga al menos cinco categorías gramaticales diferentes.
+**Contexto:** En el Colegio Colombo Americano de Neiva, los estudiantes deben crear una oración que contenga al menos cinco categorías gramaticales diferentes.
 **Expected_Success:** 0.48
 
 ### Enunciado

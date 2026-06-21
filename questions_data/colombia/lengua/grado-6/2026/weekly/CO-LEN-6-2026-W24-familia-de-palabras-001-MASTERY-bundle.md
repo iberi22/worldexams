@@ -1,28 +1,32 @@
 ---
-id: "CO-LEN-6-2026-W24-familia-de-palabras-001-MASTERY"
+id: "CO-LEN-6-2026-W24-familia-de-palabras-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lengua"
 tema: "familia-de-palabras"
-semana: "W24"
+week: "W24"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Familia de Palabras - Grado 6
 ## Semana W24
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEN-6-2026-W24-familia-de-palabras-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio San Patricio de Bogotá, la profesora Inés explica el concepto de familia de palabras.
+**Contexto:** En el Colegio San Patricio de Bogotá, la profesora Inés explica el concepto de familia de palabras.
 **Expected_Success:** 0.87
 
 ### Enunciado
@@ -39,11 +43,11 @@ La familia de palabras (o familia léxica) es un conjunto de palabras que compar
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEN-6-2026-W24-familia-de-palabras-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En la I.E. Jorge Robledo de Medellín, los estudiantes identifican la palabra primitiva de una familia.
+**Contexto:** En la I.E. Jorge Robledo de Medellín, los estudiantes identifican la palabra primitiva de una familia.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -60,11 +64,11 @@ La palabra primitiva (también llamada palabra primigenia o raíz léxica) es la
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEN-6-2026-W24-familia-de-palabras-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio INEM de Villavicencio, los estudiantes leen un texto sobre el llano y reconocen familias léxicas.
+**Contexto:** En el Colegio INEM de Villavicencio, los estudiantes leen un texto sobre el llano y reconocen familias léxicas.
 **Expected_Success:** 0.79
 
 ### Enunciado
@@ -81,11 +85,11 @@ La familia de "llano" es especialmente relevante para Colombia por la importanci
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEN-6-2026-W24-familia-de-palabras-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En la I.E. Nuestra Señora del Rosario de Pereira, los estudiantes forman familias de palabras.
+**Contexto:** En la I.E. Nuestra Señora del Rosario de Pereira, los estudiantes forman familias de palabras.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -102,11 +106,11 @@ Es importante no confundir palabras que se parecen en su escritura pero tienen o
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEN-6-2026-W24-familia-de-palabras-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio San Luis Gonzaga de Manizales, los estudiantes analizan la raíz de familias léxicas en el contexto del café colombiano.
+**Contexto:** En el Colegio San Luis Gonzaga de Manizales, los estudiantes analizan la raíz de familias léxicas en el contexto del café colombiano.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -123,11 +127,11 @@ El café es parte fundamental de la identidad colombiana, y su familia léxica e
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LEN-6-2026-W24-familia-de-palabras-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En la Institución Educativa San José de Ubaté, los estudiantes diferencian entre palabras de la misma familia y falsos cognados.
+**Contexto:** En la Institución Educativa San José de Ubaté, los estudiantes diferencian entre palabras de la misma familia y falsos cognados.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ No todas las palabras que empiezan con las mismas letras forman una familia léx
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LEN-6-2026-W24-familia-de-palabras-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En el Colegio Diocesano San Miguel de Soacha, los estudiantes completan familias léxicas.
+**Contexto:** En el Colegio Diocesano San Miguel de Soacha, los estudiantes completan familias léxicas.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ La familia de "tierra" es una de las más extensas del español con su raíz "te
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEN-6-2026-W24-familia-de-palabras-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. Ciudadela Educativa de Pasto, los estudiantes analizan cómo los prefijos y sufijos modifican la raíz.
+**Contexto:** En la I.E. Ciudadela Educativa de Pasto, los estudiantes analizan cómo los prefijos y sufijos modifican la raíz.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ Las familias léxicas a menudo presentan variaciones en la raíz debido a la evo
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEN-6-2026-W24-familia-de-palabras-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio La Salle de Montería, los estudiantes evalúan la importancia de las familias léxicas para aprender vocabulario.
+**Contexto:** En el Colegio La Salle de Montería, los estudiantes evalúan la importancia de las familias léxicas para aprender vocabulario.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ Las familias léxicas son una herramienta poderosa para el aprendizaje de vocabu
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEN-6-2026-W24-familia-de-palabras-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio Emaus de Medellín, los estudiantes crean un mapa conceptual de familias léxicas colombianas.
+**Contexto:** En el Colegio Emaus de Medellín, los estudiantes crean un mapa conceptual de familias léxicas colombianas.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -220,7 +224,7 @@ Debes crear un mapa conceptual que muestre la familia léxica de "Colombia". ¿C
 ### Opciones
 - [ ] A) Solo escribir: Colombia, colombiano, colombiana. <!-- feedback: Incorrecto. Demasiado limitado para un mapa conceptual. -->
 - [ ] B) Escribir en un círculo "Colombia" y alrededor palabras inventadas. <!-- feedback: Incorrecto. Las palabras deben ser reales y derivadas legítimamente. -->
-- [x] C) Un mapa con "Colombia" en el centro y ramas para:
+- [x] C) Un mapa con "Colombia" en el centro y ramas para: <!-- feedback: Correcto! Un mapa con "Colombia" en el centro y ramas para: -->
 **Gentilicios**: colombiano/a, colombianidad (condición de ser colombiano).
 **Historia**: colombianista (especialista en estudios colombianos), colombianismo (palabra o expresión propia del español de Colombia).
 **Cultura**: colombianizar (dar carácter colombiano), colombianización (proceso de adoptar características colombianas).

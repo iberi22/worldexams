@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-4-2026-P2-fracciones-decimales-001-MASTERY"
+id: "CO-MAT-4-2026-P2-fracciones-decimales-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "matematicas"
@@ -16,19 +16,27 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Pensamiento numérico y sistemas numéricos"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 ## Question 1 [D3]
 
 **ID:** `CO-MAT-4-2026-P2-fracciones-decimales-001-MASTERY-v1`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Reparto de una pizza en una reunión familiar en Bogotá.
+**Contexto:** Reparto de una pizza en una reunión familiar en Bogotá.
 
 ### Enunciado
 Una pizza se divide en 8 partes iguales. Si Carlos se come 3 de esas partes, ¿qué fracción de la pizza se comió Carlos?
 
-### Options
+### Opciones
 - [ ] A) 8/3 <!-- feedback: Incorrect. Esta fracción representaría 8 partes tomadas de un total de 3, lo cual es una fracción impropia mayor que la unidad. El estudiante invirtió el numerador y el denominador. -->
 - [x] B) 3/8 <!-- feedback: Correct. El denominador indica el total de partes iguales en que se dividió la unidad (8) y el numerador indica las partes que se tomaron (3). -->
 - [ ] C) 1/3 <!-- feedback: Incorrect. El estudiante podría estar confundiendo la cantidad comida con el número total de personas o simplemente eligiendo un denominador común pequeño sin relación con el total de partes de la pizza. -->
@@ -42,14 +50,15 @@ Se evalúa la representación de fracciones como parte-todo. La respuesta correc
 ## Question 2 [D3]
 
 **ID:** `CO-MAT-4-2026-P2-fracciones-decimales-001-MASTERY-v2`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Formulación y ejecución]
-**Context:** Mediciones en una clase de ciencias en Medellín.
+**Contexto:** Mediciones en una clase de ciencias en Medellín.
 
 ### Enunciado
 En un experimento, una planta creció tres décimos (3/10) de metro en un mes. ¿Cómo se escribe esta medida en forma decimal?
 
-### Options
+### Opciones
 - [ ] A) 3,0 <!-- feedback: Incorrect. Esto representa tres unidades enteras, no una parte de la unidad. El estudiante no reconoce la posición decimal de los décimos. -->
 - [x] B) 0,3 <!-- feedback: Correct. La fracción 3/10 significa que la unidad se divide en 10 partes y se toman 3. En notación decimal, la primera cifra después de la coma representa los décimos. -->
 - [ ] C) 0,03 <!-- feedback: Incorrect. Este número representa tres centésimos (3/100), no tres décimos. Es un error en la ubicación del valor posicional decimal. -->
@@ -63,14 +72,15 @@ El concepto evaluado es la conversión de fracciones decimales a números decima
 ## Question 3 [D4]
 
 **ID:** `CO-MAT-4-2026-P2-fracciones-decimales-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Razonamiento y argumentación]
-**Context:** Comparación de raciones en un almuerzo escolar.
+**Contexto:** Comparación de raciones en un almuerzo escolar.
 
 ### Enunciado
 ¿Cuál de las siguientes comparaciones de fracciones es correcta?
 
-### Options
+### Opciones
 - [x] A) 1/2 > 1/4 <!-- feedback: Correct. Al dividir una misma unidad en menos partes (2), cada parte es más grande que si se divide en más partes (4). Por lo tanto, un medio es mayor que un cuarto. -->
 - [ ] B) 1/5 > 1/2 <!-- feedback: Incorrect. El estudiante podría pensar que como 5 es mayor que 2, la fracción es mayor, olvidando que en las fracciones el denominador indica el tamaño inverso de las partes. -->
 - [ ] C) 3/8 < 1/8 <!-- feedback: Incorrect. Cuando los denominadores son iguales, es mayor la fracción que tiene el numerador más grande. Aquí 3/8 es claramente mayor que 1/8. -->
@@ -84,14 +94,15 @@ Se evalúa la comparación de fracciones con igual numerador o igual denominador
 ## Question 4 [D4]
 
 **ID:** `CO-MAT-4-2026-P2-fracciones-decimales-001-MASTERY-v4`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Formulación y ejecución]
-**Context:** Uso de dinero en una tienda de dulces en Cali.
+**Contexto:** Uso de dinero en una tienda de dulces en Cali.
 
 ### Enunciado
 Mariana tiene una moneda de 500 pesos y gasta 250 pesos. ¿Qué fracción del dinero total gastó Mariana?
 
-### Options
+### Opciones
 - [ ] A) 1/4 <!-- feedback: Incorrect. 250 no es la cuarta parte de 500, es la mitad. El estudiante podría estar confundiendo los valores con los de un billete de 1.000 pesos. -->
 - [x] B) 1/2 <!-- feedback: Correct. 250 es exactamente la mitad de 500, por lo tanto representa la fracción un medio (1/2) del total. -->
 - [ ] C) 2/5 <!-- feedback: Incorrect. Esta fracción no representa la relación entre 250 y 500. Representa un error en la simplificación o en la identificación de la relación proporcional. -->
@@ -105,14 +116,15 @@ Se evalúa la identificación de fracciones equivalentes en contextos de magnitu
 ## Question 5 [D4]
 
 **ID:** `CO-MAT-4-2026-P2-fracciones-decimales-001-MASTERY-v5`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Lectura de precios en un supermercado de Barranquilla.
+**Contexto:** Lectura de precios en un supermercado de Barranquilla.
 
 ### Enunciado
 El precio de un kilo de arroz es de $3.450,50 pesos. ¿Cómo se lee la parte decimal de este número?
 
-### Options
+### Opciones
 - [ ] A) Cincuenta decimos <!-- feedback: Incorrect. La segunda posición decimal después de la coma corresponde a los centésimos, no a los décimos. Es un error de nomenclatura de valor posicional. -->
 - [x] B) Cincuenta centésimos <!-- feedback: Correct. Al tener dos cifras decimales, la lectura correcta se refiere a los centésimos. El número 50 después de la coma representa 50 partes de 100. -->
 - [ ] C) Cinco centésimos <!-- feedback: Incorrect. El número es 50, no 5. El estudiante ignora el valor del cero a la derecha en la posición de los centésimos, que aquí es significativo para la lectura. -->
@@ -126,14 +138,15 @@ Se evalúa la lectura de números decimales hasta los centésimos. La respuesta 
 ## Question 6 [D5]
 
 **ID:** `CO-MAT-4-2026-P2-fracciones-decimales-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Formulación y ejecución]
-**Context:** Mezcla de ingredientes para una receta en Bucaramanga.
+**Contexto:** Mezcla de ingredientes para una receta en Bucaramanga.
 
 ### Enunciado
 Una receta pide 0,75 litros de leche. Si tenemos una jarra graduada en fracciones, ¿a qué fracción equivale esta cantidad?
 
-### Options
+### Opciones
 - [ ] A) 1/2 litro <!-- feedback: Incorrect. 1/2 equivale a 0,50. El estudiante elige una fracción común pero incorrecta para el valor de 0,75. -->
 - [ ] B) 1/4 litro <!-- feedback: Incorrect. 1/4 equivale a 0,25. Representa la cuarta parte, mientras que 0,75 representa tres cuartas partes. -->
 - [x] C) 3/4 litro <!-- feedback: Correct. La expresión decimal 0,75 es equivalente a 75/100, que al simplificarse (dividiendo por 25) resulta en 3/4. Es una equivalencia fundamental. -->
@@ -147,14 +160,15 @@ Se evalúa la equivalencia entre números decimales y fracciones comunes. La res
 ## Question 7 [D5]
 
 **ID:** `CO-MAT-4-2026-P2-fracciones-decimales-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Razonamiento y argumentación]
-**Context:** Competencia de atletismo en una escuela de Pereira.
+**Contexto:** Competencia de atletismo en una escuela de Pereira.
 
 ### Enunciado
 En una carrera, Ana recorrió 4/10 de la pista y Beto recorrió 0,35 de la misma pista. ¿Quién recorrió más distancia y por qué?
 
-### Options
+### Opciones
 - [ ] A) Beto, porque 35 es mayor que 4. <!-- feedback: Incorrect. El estudiante compara los números ignorando que 4 representa décimos y 35 centésimos. 4/10 es igual a 40/100, que es mayor que 35/100. -->
 - [x] B) Ana, porque 4/10 es igual a 0,40 y 0,40 es mayor que 0,35. <!-- feedback: Correct. Para comparar, debemos igualar las expresiones. 4/10 = 40/100 = 0,40. Al comparar 0,40 con 0,35, vemos que Ana recorrió más. -->
 - [ ] C) Recorrieron lo mismo, porque 4 décimos y 35 centésimos son equivalentes. <!-- feedback: Incorrect. No son equivalentes; hay una diferencia de 5 centésimos entre ambas distancias. Es un error de percepción de equivalencia. -->
@@ -168,14 +182,15 @@ Se evalúa la comparación entre fracciones decimales y números decimales. La r
 ## Question 8 [D4]
 
 **ID:** `CO-MAT-4-2026-P2-fracciones-decimales-001-MASTERY-v8`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Representación gráfica en un taller de arte en Cartagena.
+**Contexto:** Representación gráfica en un taller de arte en Cartagena.
 
 ### Enunciado
 Si coloreas 15 cuadritos de una cuadrícula que tiene 100 cuadritos en total, ¿qué número decimal representa la parte coloreada?
 
-### Options
+### Opciones
 - [ ] A) 1,5 <!-- feedback: Incorrect. Esto representaría una unidad entera y media, no una pequeña parte de una cuadrícula. Es un error de ubicación de la coma decimal. -->
 - [x] B) 0,15 <!-- feedback: Correct. 15 partes de 100 se escribe como 15/100, y en forma decimal es 0,15 (quince centésimos). -->
 - [ ] C) 0,015 <!-- feedback: Incorrect. Este valor representa quince milésimos, lo que requeriría una cuadrícula de 1.000 cuadritos. Error de escala decimal. -->
@@ -189,14 +204,15 @@ Se evalúa la representación de centésimos a partir de un modelo de área (cua
 ## Question 9 [D5]
 
 **ID:** `CO-MAT-4-2026-P2-fracciones-decimales-001-MASTERY-v9`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Formulación y ejecución]
-**Context:** Suma de longitudes en una ferretería en Pasto.
+**Contexto:** Suma de longitudes en una ferretería en Pasto.
 
 ### Enunciado
 Un carpintero une dos listones de madera. El primero mide 0,5 metros y el segundo mide 0,25 metros. ¿Cuál es la longitud total de los dos listones juntos?
 
-### Options
+### Opciones
 - [ ] A) 0,7 metros <!-- feedback: Incorrect. El estudiante suma 5 + 2 pero olvida el 5 de los centésimos del segundo listón. Es un error en la alineación de las cifras decimales. -->
 - [x] B) 0,75 metros <!-- feedback: Correct. Al sumar decimales, alineamos la coma: 0,50 + 0,25 = 0,75. Es importante recordar que 0,5 es lo mismo que 0,50 para facilitar la suma con centésimos. -->
 - [ ] C) 0,30 metros <!-- feedback: Incorrect. El estudiante podría haber restado en lugar de sumar o cometido un error grave en el algoritmo de la suma. -->
@@ -210,14 +226,15 @@ Se evalúa la suma de números decimales hasta los centésimos. La respuesta cor
 ## Question 10 [D4]
 
 **ID:** `CO-MAT-4-2026-P2-fracciones-decimales-001-MASTERY-v10`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Razonamiento y argumentación]
-**Context:** Reparto de un premio en una competencia escolar.
+**Contexto:** Reparto de un premio en una competencia escolar.
 
 ### Enunciado
 Tres amigos ganaron una bolsa con 100 canicas. Decidieron que el primero se queda con 1/2, el segundo con 1/4 y el tercero con el resto. ¿Con qué fracción se quedó el tercer amigo?
 
-### Options
+### Opciones
 - [ ] A) 1/2 <!-- feedback: Incorrect. El primer amigo ya se llevó 1/2. Si el tercero se llevara otro 1/2, no quedaría nada para el segundo. Error de lógica de reparto. -->
 - [x] B) 1/4 <!-- feedback: Correct. 1/2 es igual a 2/4. Entonces, 2/4 (primero) + 1/4 (segundo) = 3/4. Para completar la unidad (4/4), el tercer amigo debe recibir 1/4. -->
 - [ ] C) 1/3 <!-- feedback: Incorrect. El estudiante podría estar dividiendo el total simplemente por el número de amigos sin tener en cuenta las proporciones ya asignadas. -->

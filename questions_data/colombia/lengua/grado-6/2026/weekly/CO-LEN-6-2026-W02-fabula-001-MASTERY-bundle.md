@@ -1,28 +1,32 @@
 ---
-id: "CO-LEN-6-2026-W02-fabula-001-MASTERY"
+id: "CO-LEN-6-2026-W02-fabula-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lengua"
 tema: "fabula"
-semana: "W02"
+week: "W02"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: La Fábula - Grado 6
 ## Semana W02
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEN-6-2026-W02-fabula-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio San Bartolomé de Bogotá, la profesora Luisa explica las características de la fábula a sus estudiantes de grado sexto.
+**Contexto:** En el Colegio San Bartolomé de Bogotá, la profesora Luisa explica las características de la fábula a sus estudiantes de grado sexto.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La fábula es un subgénero narrativo breve, con personajes que suelen ser anima
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEN-6-2026-W02-fabula-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En la Biblioteca Pública Virgilio Barco de Medellín, un taller de lectura infantil presenta la fábula "La Cigarra y la Hormiga".
+**Contexto:** En la Biblioteca Pública Virgilio Barco de Medellín, un taller de lectura infantil presenta la fábula "La Cigarra y la Hormiga".
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -60,11 +64,11 @@ La moraleja de una fábula es la enseñanza explícita que el autor quiere trans
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEN-6-2026-W02-fabula-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** Los estudiantes de grado sexto del Colegio INEM de Cali leen la fábula "El León y el Ratón" de Esopo.
+**Contexto:** Los estudiantes de grado sexto del Colegio INEM de Cali leen la fábula "El León y el Ratón" de Esopo.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ Lee el fragmento: "Un ratón pequeñito cayó accidentalmente bajo la pata de un
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEN-6-2026-W02-fabula-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** Los estudiantes de la Institución Educativa Sagrados Corazones de Sincelejo crean sus propias fábulas para una exposición escolar.
+**Contexto:** Los estudiantes de la Institución Educativa Sagrados Corazones de Sincelejo crean sus propias fábulas para una exposición escolar.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -102,11 +106,11 @@ Para crear una fábula se necesitan: 1) personajes animales u objetos personific
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEN-6-2026-W02-fabula-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. Francisco de Paula Santander de Cúcuta, los estudiantes comparan diferentes fábulas de Esopo y Rafael Pombo.
+**Contexto:** En la I.E. Francisco de Paula Santander de Cúcuta, los estudiantes comparan diferentes fábulas de Esopo y Rafael Pombo.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -123,11 +127,11 @@ Rafael Pombo (1833-1912) es el fabulista colombiano más importante. Sus "Cuento
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LEN-6-2026-W02-fabula-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En la Institución Educativa San Luis Gonzaga de Manizales, un debate analiza por qué las fábulas usan animales en lugar de personas.
+**Contexto:** En la Institución Educativa San Luis Gonzaga de Manizales, un debate analiza por qué las fábulas usan animales en lugar de personas.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ La personificación de animales en fábulas es un recurso literario que permite 
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LEN-6-2026-W02-fabula-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** Los estudiantes del Colegio Cambridge de Bucaramanga deben identificar la moraleja de una fábula moderna.
+**Contexto:** Los estudiantes del Colegio Cambridge de Bucaramanga deben identificar la moraleja de una fábula moderna.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ La moraleja de una fábula es universal, no literal. No se trata de que los gato
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEN-6-2026-W02-fabula-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. La Salle de Villavicencio, los estudiantes analizan la estructura narrativa de las fábulas.
+**Contexto:** En la I.E. La Salle de Villavicencio, los estudiantes analizan la estructura narrativa de las fábulas.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -186,11 +190,11 @@ La estructura de la fábula es simple: presenta personajes (animales humanizados
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEN-6-2026-W02-fabula-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** En Pasto, la profesora María Elena pide evaluar si el cuento "El Renacuajo Paseador" de Rafael Pombo es una fábula.
+**Contexto:** En Pasto, la profesora María Elena pide evaluar si el cuento "El Renacuajo Paseador" de Rafael Pombo es una fábula.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,12 @@ La estructura de la fábula es simple: presenta personajes (animales humanizados
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEN-6-2026-W02-fabula-001-MASTERY-v10`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En el Colegio Montessori de Ibagué, los estudiantes de grado sexto deben escribir una fábula original para el concurso literario escolar.
+**Contexto:** En el Colegio Montessori de Ibagué, los estudiantes de grado sexto deben escribir una fábula original para el concurso literario escolar.
 **Expected_Security:** 0.48
 
 ### Enunciado

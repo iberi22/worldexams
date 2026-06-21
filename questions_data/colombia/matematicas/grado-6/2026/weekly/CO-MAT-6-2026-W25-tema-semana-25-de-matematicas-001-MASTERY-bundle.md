@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W25-tema-semana-25-de-matematicas-001-MASTERY"
+id: "CO-MAT-6-2026-W25-tema-semana-25-de-matematicas-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 10
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W25 — Tema Semana 25 de Matematicas
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Sincelejo
+**Contexto:** Gimnasio Moderno en Sincelejo
 **Expected_Success:** 0.67
 
 ### Enunciado
 En la clase de Matematicas del Gimnasio Moderno en Sincelejo, se discute sobre Tema Semana 25 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 25 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 25 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 25 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 25 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** Colegio La Presentación en Medellín
+**Contexto:** Colegio La Presentación en Medellín
 **Expected_Success:** 0.63
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Medellín, se discute sobre Tema Semana 25 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 25 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 25 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 25 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 25 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** I.E. Francisco de Paula Santander en Neiva
+**Contexto:** I.E. Francisco de Paula Santander en Neiva
 **Expected_Success:** 0.77
 
 ### Enunciado
 En la clase de Matematicas del I.E. Francisco de Paula Santander en Neiva, se discute sobre Tema Semana 25 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 25 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 25 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 25 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 25 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Cali
+**Contexto:** I.E. Francisco de Paula Santander en Cali
 **Expected_Success:** 0.63
 
 ### Enunciado
 En la clase de Matematicas del I.E. Francisco de Paula Santander en Cali, se discute sobre Tema Semana 25 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 25 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 25 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 25 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 25 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Bogotá
+**Contexto:** I.E. Santa Luisa de Marillac en Bogotá
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Matematicas del I.E. Santa Luisa de Marillac en Bogotá, se discute sobre Tema Semana 25 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 25 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 25 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 25 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 25 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** I.E. Francisco de Paula Santander en Barranquilla
+**Contexto:** I.E. Francisco de Paula Santander en Barranquilla
 **Expected_Success:** 0.76
 
 ### Enunciado
 En la clase de Matematicas del I.E. Francisco de Paula Santander en Barranquilla, se discute sobre Tema Semana 25 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 25 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 25 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 25 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 25 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Riohacha
+**Contexto:** Colegio La Presentación en Riohacha
 **Expected_Success:** 0.55
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Riohacha, se discute sobre Tema Semana 25 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 25 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 25 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 25 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 25 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Armenia
+**Contexto:** I.E. Jorge Eliécer Gaitán en Armenia
 **Expected_Success:** 0.73
 
 ### Enunciado
 En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Armenia, se discute sobre Tema Semana 25 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 25 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 25 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 25 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 25 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** Colegio Nacional San Bartolomé en Cúcuta
+**Contexto:** Colegio Nacional San Bartolomé en Cúcuta
 **Expected_Success:** 0.64
 
 ### Enunciado
 En la clase de Matematicas del Colegio Nacional San Bartolomé en Cúcuta, se discute sobre Tema Semana 25 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 25 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 25 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 25 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 25 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. Gabriel García Márquez en Quibdó
+**Contexto:** I.E. Gabriel García Márquez en Quibdó
 **Expected_Success:** 0.52
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Quibdó, se discute sobre Tema Semana 25 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 25 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 25 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 25 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

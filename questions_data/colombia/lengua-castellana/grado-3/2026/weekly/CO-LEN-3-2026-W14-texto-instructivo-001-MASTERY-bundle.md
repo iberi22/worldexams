@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-3-2026-W14-texto-instructivo-001-MASTERY"
+id: "CO-LEN-3-2026-W14-texto-instructivo-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 3"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Texto instructivo - Grado 3
 
@@ -22,7 +24,7 @@ Este bundle explora las características de los textos instructivos (recetas, ma
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-3-2026-W14-texto-instructivo-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -33,21 +35,20 @@ Este bundle explora las características de los textos instructivos (recetas, ma
 ¿Cuál es la función principal de un texto instructivo?
 
 ### Opciones
-- [ ] A) Contar una historia imaginaria.
-  <!-- feedback: No, eso es un cuento. -->
-- [x] B) Guiar al lector para realizar una tarea o proceso.
-  <!-- feedback: ¡Correcto! Da pasos para lograr un objetivo. -->
-- [ ] C) Expresar sentimientos a través de rimas.
-  <!-- feedback: No, eso es un poema. -->
-- [ ] D) Dar una opinión sobre una película.
-  <!-- feedback: No, eso es una crítica o reseña. -->
+- [ ] A) Contar una historia imaginaria. <!-- feedback: Incorrecto. Contar una historia imaginaria. -->
+
+- [x] B) Guiar al lector para realizar una tarea o proceso. <!-- feedback: Correcto! Guiar al lector para realizar una tarea o proceso. -->
+
+- [ ] C) Expresar sentimientos a través de rimas. <!-- feedback: Incorrecto. Expresar sentimientos a través de rimas. -->
+
+- [ ] D) Dar una opinión sobre una película. <!-- feedback: Incorrecto. Dar una opinión sobre una película. -->
 
 ### Explicación Pedagogica
 Los textos instructivos tienen como propósito dirigir las acciones del lector para obtener un resultado específico.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-3-2026-W14-texto-instructivo-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -58,21 +59,20 @@ Los textos instructivos tienen como propósito dirigir las acciones del lector p
 ¿Qué parte del texto instructivo indica qué cosas necesitamos antes de empezar?
 
 ### Opciones
-- [ ] A) El título.
-  <!-- feedback: Dice el nombre de lo que haremos. -->
-- [x] B) Los materiales o ingredientes.
-  <!-- feedback: ¡Muy bien! Aquí se lista todo lo necesario. -->
-- [ ] C) El procedimiento o pasos.
-  <!-- feedback: Aquí se explica cómo hacerlo. -->
-- [ ] D) La conclusión.
-  <!-- feedback: No siempre está presente en las instrucciones. -->
+- [ ] A) El título. <!-- feedback: Incorrecto. El título. -->
+
+- [x] B) Los materiales o ingredientes. <!-- feedback: Correcto! Los materiales o ingredientes. -->
+
+- [ ] C) El procedimiento o pasos. <!-- feedback: Incorrecto. El procedimiento o pasos. -->
+
+- [ ] D) La conclusión. <!-- feedback: Incorrecto. La conclusión. -->
 
 ### Explicación Pedagogica
 Un texto instructivo completo suele dividirse en título, lista de elementos necesarios y procedimiento.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-3-2026-W14-texto-instructivo-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -83,21 +83,20 @@ Un texto instructivo completo suele dividirse en título, lista de elementos nec
 ¿Por qué es importante que los pasos de un instructivo estén numerados u ordenados?
 
 ### Opciones
-- [ ] A) Para que el texto se vea más largo.
-  <!-- feedback: No es una cuestión de extensión. -->
-- [ ] B) Porque los números son bonitos.
-  <!-- feedback: Es por una cuestión de utilidad, no de estética. -->
-- [x] C) Para realizar las acciones en el orden correcto y que salga bien.
-  <!-- feedback: ¡Excelente! El orden es fundamental para el éxito del proceso. -->
-- [ ] D) No es importante, se pueden hacer en cualquier orden.
-  <!-- feedback: Si cambias el orden, el resultado puede ser un desastre. -->
+- [ ] A) Para que el texto se vea más largo. <!-- feedback: Incorrecto. Para que el texto se vea más largo. -->
+
+- [ ] B) Porque los números son bonitos. <!-- feedback: Incorrecto. Porque los números son bonitos. -->
+
+- [x] C) Para realizar las acciones en el orden correcto y que salga bien. <!-- feedback: Correcto! Para realizar las acciones en el orden correcto y que salga  -->
+
+- [ ] D) No es importante, se pueden hacer en cualquier orden. <!-- feedback: Incorrecto. No es importante, se pueden hacer en cua -->
 
 ### Explicación Pedagogica
 La secuencia lógica es la característica principal que garantiza la eficacia de un instructivo.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-3-2026-W14-texto-instructivo-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -109,21 +108,20 @@ La secuencia lógica es la característica principal que garantiza la eficacia d
 (Ejemplo: **Mezcle**, **Corte**, **Pegue**)
 
 ### Opciones
-- [ ] A) Adjetivos
-  <!-- feedback: Los adjetivos describen cualidades. -->
-- [ ] B) Sustantivos
-  <!-- feedback: Los sustantivos nombran cosas. -->
-- [x] C) Verbos
-  <!-- feedback: ¡Correcto! Los verbos expresan las acciones que debemos realizar. -->
-- [ ] D) Artículos
-  <!-- feedback: Los artículos acompañan al nombre. -->
+- [ ] A) Adjetivos <!-- feedback: Incorrecto. Adjetivos -->
+
+- [ ] B) Sustantivos <!-- feedback: Incorrecto. Sustantivos -->
+
+- [x] C) Verbos <!-- feedback: Correcto! Verbos -->
+
+- [ ] D) Artículos <!-- feedback: Incorrecto. Artículos -->
 
 ### Explicación Pedagogica
 En los instructivos se usan verbos frecuentemente en imperativo (órdenes) o infinitivo.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-3-2026-W14-texto-instructivo-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Comprensión Lectora
@@ -134,21 +132,20 @@ En los instructivos se usan verbos frecuentemente en imperativo (órdenes) o inf
 ¿Cuál de estos pasos debería ir de PRIMERO en un instructivo para lavarse las manos?
 
 ### Opciones
-- [ ] A) Secarse las manos con una toalla limpia.
-  <!-- feedback: Este es el paso final. -->
-- [x] B) Mojarse las manos con abundante agua.
-  <!-- feedback: ¡Así es! Es el primer paso lógico. -->
-- [ ] C) Frotarse el jabón entre los dedos.
-  <!-- feedback: Esto se hace después de mojarse las manos. -->
-- [ ] D) Cerrar la llave del agua.
-  <!-- feedback: Esto se hace al final o después de enjuagarse. -->
+- [ ] A) Secarse las manos con una toalla limpia. <!-- feedback: Incorrecto. Secarse las manos con una toalla limpia. -->
+
+- [x] B) Mojarse las manos con abundante agua. <!-- feedback: Correcto! Mojarse las manos con abundante agua. -->
+
+- [ ] C) Frotarse el jabón entre los dedos. <!-- feedback: Incorrecto. Frotarse el jabón entre los dedos. -->
+
+- [ ] D) Cerrar la llave del agua. <!-- feedback: Incorrecto. Cerrar la llave del agua. -->
 
 ### Explicación Pedagogica
 La capacidad de jerarquizar acciones es fundamental para comprender y producir textos instructivos.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-3-2026-W14-texto-instructivo-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -159,21 +156,20 @@ La capacidad de jerarquizar acciones es fundamental para comprender y producir t
 "Al sonar la alarma, salga en calma siguiendo la línea amarilla. No corra ni empuje a sus compañeros". ¿Qué tipo de instructivo es este?
 
 ### Opciones
-- [ ] A) Una receta de cocina.
-  <!-- feedback: No se prepara ningún alimento. -->
-- [ ] B) Un manual de uso de un juguete.
-  <!-- feedback: No explica cómo funciona un objeto. -->
-- [x] C) Una norma o regla de seguridad.
-  <!-- feedback: ¡Exacto! Son instrucciones de comportamiento ante una situación. -->
-- [ ] D) Un cuento de aventuras.
-  <!-- feedback: No narra una historia, da órdenes directas. -->
+- [ ] A) Una receta de cocina. <!-- feedback: Incorrecto. Una receta de cocina. -->
+
+- [ ] B) Un manual de uso de un juguete. <!-- feedback: Incorrecto. Un manual de uso de un juguete. -->
+
+- [x] C) Una norma o regla de seguridad. <!-- feedback: Correcto! Una norma o regla de seguridad. -->
+
+- [ ] D) Un cuento de aventuras. <!-- feedback: Incorrecto. Un cuento de aventuras. -->
 
 ### Explicación Pedagogica
 Los instructivos pueden presentarse como manuales, reglamentos, recetas o guías de comportamiento.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-3-2026-W14-texto-instructivo-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -184,21 +180,20 @@ Los instructivos pueden presentarse como manuales, reglamentos, recetas o guías
 ¿Para qué sirven los dibujos o ilustraciones en un texto instructivo?
 
 ### Opciones
-- [ ] A) Para que el papel no se vea tan blanco.
-  <!-- feedback: Tienen una función más importante que esa. -->
-- [x] B) Para ayudar a entender mejor cada paso del proceso.
-  <!-- feedback: ¡Muy bien! Las imágenes aclaran lo que dice el texto escrito. -->
-- [ ] C) Para que los niños se distraigan y no lean.
-  <!-- feedback: Al contrario, ayudan a la lectura. -->
-- [ ] D) No sirven para nada, se pueden quitar.
-  <!-- feedback: Son una gran ayuda visual. -->
+- [ ] A) Para que el papel no se vea tan blanco. <!-- feedback: Incorrecto. Para que el papel no se vea tan blanco. -->
+
+- [x] B) Para ayudar a entender mejor cada paso del proceso. <!-- feedback: Correcto! Para ayudar a entender mejor cada paso del proceso. -->
+
+- [ ] C) Para que los niños se distraigan y no lean. <!-- feedback: Incorrecto. Para que los niños se distraigan y no le -->
+
+- [ ] D) No sirven para nada, se pueden quitar. <!-- feedback: Incorrecto. No sirven para nada, se pueden quitar. -->
 
 ### Explicación Pedagogica
 El lenguaje iconográfico (imágenes) complementa al lenguaje verbal en los textos de carácter instructivo.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-3-2026-W14-texto-instructivo-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -209,21 +204,20 @@ El lenguaje iconográfico (imágenes) complementa al lenguaje verbal en los text
 ¿Cuál de estas frases está escrita como una instrucción correcta?
 
 ### Opciones
-- [ ] A) El salón es un lugar para estudiar mucho.
-  <!-- feedback: Esto es una descripción o afirmación. -->
-- [x] B) Levante la mano antes de hablar en clase.
-  <!-- feedback: ¡Excelente! Es una orden clara y directa de lo que se debe hacer. -->
-- [ ] C) Había una vez un niño que levantaba la mano.
-  <!-- feedback: Esto es el inicio de una narración. -->
-- [ ] D) ¿Quieres levantar la mano para participar?
-  <!-- feedback: Esto es una pregunta, no una instrucción. -->
+- [ ] A) El salón es un lugar para estudiar mucho. <!-- feedback: Incorrecto. El salón es un lugar para estudiar mucho -->
+
+- [x] B) Levante la mano antes de hablar en clase. <!-- feedback: Correcto! Levante la mano antes de hablar en clase. -->
+
+- [ ] C) Había una vez un niño que levantaba la mano. <!-- feedback: Incorrecto. Había una vez un niño que levantaba la m -->
+
+- [ ] D) ¿Quieres levantar la mano para participar? <!-- feedback: Incorrecto. ¿Quieres levantar la mano para participa -->
 
 ### Explicación Pedagogica
 El estilo comunicativo del instructivo es apelativo, es decir, busca influir directamente en la conducta del receptor.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-3-2026-W14-texto-instructivo-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -234,21 +228,20 @@ El estilo comunicativo del instructivo es apelativo, es decir, busca influir dir
 Si en la receta dice: "1. Mezcle la harina con el agua. 2. Modele sus figuras favoritas. 3. Agregue el colorante". ¿Qué problema tiene este instructivo?
 
 ### Opciones
-- [ ] A) No tiene ingredientes.
-  <!-- feedback: Se mencionan en los pasos, aunque faltan las cantidades. -->
-- [ ] B) Los pasos son muy largos.
-  <!-- feedback: Son cortos y claros. -->
-- [x] C) El orden de los pasos es incorrecto.
-  <!-- feedback: ¡Correcto! El colorante debe ir antes de modelar las figuras. -->
-- [ ] D) No tiene un título divertido.
-  <!-- feedback: Ese no es el problema principal de funcionamiento. -->
+- [ ] A) No tiene ingredientes. <!-- feedback: Incorrecto. No tiene ingredientes. -->
+
+- [ ] B) Los pasos son muy largos. <!-- feedback: Incorrecto. Los pasos son muy largos. -->
+
+- [x] C) El orden de los pasos es incorrecto. <!-- feedback: Correcto! El orden de los pasos es incorrecto. -->
+
+- [ ] D) No tiene un título divertido. <!-- feedback: Incorrecto. No tiene un título divertido. -->
 
 ### Explicación Pedagogica
 Un error en la secuencia temporal de las instrucciones invalida el resultado final del proceso.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-3-2026-W14-texto-instructivo-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -259,14 +252,13 @@ Un error en la secuencia temporal de las instrucciones invalida el resultado fin
 ¿Cuál sería el primer paso que le explicarías?
 
 ### Opciones
-- [ ] A) Saltar con un solo pie por los cuadros.
-  <!-- feedback: Antes de saltar hay que preparar el juego. -->
-- [x] B) Dibujar con tiza los cuadros numerados en el piso.
-  <!-- feedback: ¡Muy bien! Sin el tablero no se puede empezar el juego. -->
-- [ ] C) Recoger la piedra sin caerse.
-  <!-- feedback: Esto es un paso avanzado del juego. -->
-- [ ] D) Ganar el juego llegando al final.
-  <!-- feedback: Este es el objetivo final, no el primer paso. -->
+- [ ] A) Saltar con un solo pie por los cuadros. <!-- feedback: Incorrecto. Saltar con un solo pie por los cuadros. -->
+
+- [x] B) Dibujar con tiza los cuadros numerados en el piso. <!-- feedback: Correcto! Dibujar con tiza los cuadros numerados en el piso. -->
+
+- [ ] C) Recoger la piedra sin caerse. <!-- feedback: Incorrecto. Recoger la piedra sin caerse. -->
+
+- [ ] D) Ganar el juego llegando al final. <!-- feedback: Incorrecto. Ganar el juego llegando al final. -->
 
 ### Explicación Pedagogica
 La planeación de un texto instructivo requiere identificar la acción inicial indispensable para dar comienzo a cualquier actividad.

@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY"
+id: "CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 4"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Texto poético - metáfora - Grado 4
 
@@ -22,7 +24,7 @@ Este bundle explora el lenguaje figurado en la poesía, enfocándose en la metá
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -33,21 +35,20 @@ Este bundle explora el lenguaje figurado en la poesía, enfocándose en la metá
 ¿Qué es el lenguaje figurado en un poema?
 
 ### Opciones
-- [ ] A) Escribir las palabras con dibujos a los lados.
-  <!-- feedback: No se refiere a la decoración gráfica. -->
-- [x] B) Usar las palabras con un significado diferente al real para expresar belleza o sentimientos.
-  <!-- feedback: ¡Correcto! Es darle un sentido nuevo a las palabras comunes. -->
-- [ ] C) Escribir en un idioma extranjero que nadie conoce.
-  <!-- feedback: El lenguaje figurado ocurre dentro de nuestro propio idioma. -->
-- [ ] D) Usar solo números en lugar de letras.
-  <!-- feedback: Eso es un código, no lenguaje poético. -->
+- [ ] A) Escribir las palabras con dibujos a los lados. <!-- feedback: Incorrecto. Escribir las palabras con dibujos a los  -->
+
+- [x] B) Usar las palabras con un significado diferente al real para expresar belleza o sentimientos. <!-- feedback: Correcto! Usar las palabras con un significado diferente al real para  -->
+
+- [ ] C) Escribir en un idioma extranjero que nadie conoce. <!-- feedback: Incorrecto. Escribir en un idioma extranjero que nad -->
+
+- [ ] D) Usar solo números en lugar de letras. <!-- feedback: Incorrecto. Usar solo números en lugar de letras. -->
 
 ### Explicación Pedagogica
 El lenguaje figurado se opone al lenguaje literal, permitiendo que las palabras evoquen imágenes y emociones más allá de su definición de diccionario.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -59,21 +60,20 @@ El lenguaje figurado se opone al lenguaje literal, permitiendo que las palabras 
 (Ejemplo: **"Las perlas de tu boca"** para referirse a los dientes).
 
 ### Opciones
-- [ ] A) Comparación.
-  <!-- feedback: La comparación usa palabras como "como" o "parece". -->
-- [x] B) Metáfora.
-  <!-- feedback: ¡Muy bien! La metáfora es una identificación total entre dos elementos. -->
-- [ ] C) Rima.
-  <!-- feedback: La rima es un sonido, no una figura de significado. -->
-- [ ] D) Párrafo.
-  <!-- feedback: Es una estructura de texto, no una figura literaria. -->
+- [ ] A) Comparación. <!-- feedback: Incorrecto. Comparación. -->
+
+- [x] B) Metáfora. <!-- feedback: Correcto! Metáfora. -->
+
+- [ ] C) Rima. <!-- feedback: Incorrecto. Rima. -->
+
+- [ ] D) Párrafo. <!-- feedback: Incorrecto. Párrafo. -->
 
 ### Explicación Pedagogica
 La metáfora es la traslación del sentido de una palabra a otra, basada en una relación de semejanza que el poeta descubre o crea.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -84,21 +84,20 @@ La metáfora es la traslación del sentido de una palabra a otra, basada en una 
 ¿Cuál de estas frases es una **comparación** (símil)?
 
 ### Opciones
-- [ ] A) El sol es un globo de fuego.
-  <!-- feedback: Es una metáfora porque dice que el sol ES el globo. -->
-- [x] B) El sol brilla como un globo de fuego.
-  <!-- feedback: ¡Excelente! El uso de la palabra "como" marca claramente la comparación. -->
-- [ ] C) El sol calienta la tierra.
-  <!-- feedback: Es una frase literal, no literaria. -->
-- [ ] D) Sol, solecito, caliéntame un poquito.
-  <!-- feedback: Es una ronda o canción popular, pero no es una comparación formal. -->
+- [ ] A) El sol es un globo de fuego. <!-- feedback: Incorrecto. El sol es un globo de fuego. -->
+
+- [x] B) El sol brilla como un globo de fuego. <!-- feedback: Correcto! El sol brilla como un globo de fuego. -->
+
+- [ ] C) El sol calienta la tierra. <!-- feedback: Incorrecto. El sol calienta la tierra. -->
+
+- [ ] D) Sol, solecito, caliéntame un poquito. <!-- feedback: Incorrecto. Sol, solecito, caliéntame un poquito. -->
 
 ### Explicación Pedagogica
 El símil o comparación establece un vínculo explícito entre dos términos usando nexos gramaticales.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -109,21 +108,20 @@ El símil o comparación establece un vínculo explícito entre dos términos us
 En el verso **"El oro negro de nuestras montañas"**, ¿a qué se refiere el poeta?
 
 ### Opciones
-- [ ] A) A que hay petróleo en las montañas.
-  <!-- feedback: Aunque al petróleo se le dice así, en el contexto de montañas colombianas suele ser otra cosa. -->
-- [x] B) Al café colombiano, por su valor y su color oscuro.
-  <!-- feedback: ¡Correcto! Es una metáfora clásica para resaltar la riqueza que representa el café. -->
-- [ ] C) A que las montañas están quemadas.
-  <!-- feedback: No, se usa de forma positiva para indicar valor. -->
-- [ ] D) A piedras negras preciosas.
-  <!-- feedback: Es una interpretación literal que pierde el sentido poético. -->
+- [ ] A) A que hay petróleo en las montañas. <!-- feedback: Incorrecto. A que hay petróleo en las montañas. -->
+
+- [x] B) Al café colombiano, por su valor y su color oscuro. <!-- feedback: Correcto! Al café colombiano, por su valor y su color oscuro. -->
+
+- [ ] C) A que las montañas están quemadas. <!-- feedback: Incorrecto. A que las montañas están quemadas. -->
+
+- [ ] D) A piedras negras preciosas. <!-- feedback: Incorrecto. A piedras negras preciosas. -->
 
 ### Explicación Pedagogica
 Entender las metáforas requiere conocer el contexto cultural y las asociaciones de valor que se hacen en una sociedad.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Comprensión Lectora
@@ -134,21 +132,20 @@ Entender las metáforas requiere conocer el contexto cultural y las asociaciones
 ¿Cómo transformarías la frase literal **"Tus ojos son azules"** en una metáfora poética?
 
 ### Opciones
-- [ ] A) Tus ojos parecen el cielo.
-  <!-- feedback: Esto es una comparación, no una metáfora pura. -->
-- [x] B) "Dos pedazos de cielo en tu mirada".
-  <!-- feedback: ¡Así es! Identifica directamente los ojos con el cielo de forma bella. -->
-- [ ] C) Tus ojos tienen el color azul del mar.
-  <!-- feedback: Es una descripción detallada, pero menos poética que la opción B. -->
-- [ ] D) Ojos azules tienes tú.
-  <!-- feedback: Sigue siendo lenguaje literal. -->
+- [ ] A) Tus ojos parecen el cielo. <!-- feedback: Incorrecto. Tus ojos parecen el cielo. -->
+
+- [x] B) "Dos pedazos de cielo en tu mirada". <!-- feedback: Correcto! "Dos pedazos de cielo en tu mirada". -->
+
+- [ ] C) Tus ojos tienen el color azul del mar. <!-- feedback: Incorrecto. Tus ojos tienen el color azul del mar. -->
+
+- [ ] D) Ojos azules tienes tú. <!-- feedback: Incorrecto. Ojos azules tienes tú. -->
 
 ### Explicación Pedagogica
 La creación de metáforas implica un salto imaginativo donde un objeto asume la identidad de otro.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -159,21 +156,20 @@ La creación de metáforas implica un salto imaginativo donde un objeto asume la
 "El río Magdalena canta historias antiguas mientras corre hacia el mar". ¿Qué figura literaria se usa aquí?
 
 ### Opciones
-- [ ] A) Metáfora.
-  <!-- feedback: No está identificando al río con otra cosa. -->
-- [x] B) Personificación (Prosopopeya).
-  <!-- feedback: ¡Exacto! Le da una cualidad humana (cantar historias) a un ser inanimado (el río). -->
-- [ ] C) Comparación.
-  <!-- feedback: No usa el nexo "como". -->
-- [ ] D) Rima consonante.
-  <!-- feedback: No se pregunta por el sonido final, sino por la figura de sentido. -->
+- [ ] A) Metáfora. <!-- feedback: Incorrecto. Metáfora. -->
+
+- [x] B) Personificación (Prosopopeya). <!-- feedback: Correcto! Personificación (Prosopopeya). -->
+
+- [ ] C) Comparación. <!-- feedback: Incorrecto. Comparación. -->
+
+- [ ] D) Rima consonante. <!-- feedback: Incorrecto. Rima consonante. -->
 
 ### Explicación Pedagogica
 La personificación es una figura que atribuye acciones o sentimientos humanos a objetos, animales o fenómenos naturales.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Comprensión Lectora
@@ -185,21 +181,20 @@ Completa el verso con la metáfora más bella:
 "Las nubes son ______________ que viajan por el cielo azul".
 
 ### Opciones
-- [ ] A) mucha agua acumulada.
-  <!-- feedback: Es una explicación científica, no poética. -->
-- [x] B) copos de algodón gigantes.
-  <!-- feedback: ¡Muy bien! Usa la semejanza de textura y color para crear la imagen. -->
-- [ ] C) gases blancos.
-  <!-- feedback: No tiene carga poética. -->
-- [ ] D) cosas que tapan el sol.
-  <!-- feedback: Es una descripción funcional muy simple. -->
+- [ ] A) mucha agua acumulada. <!-- feedback: Incorrecto. mucha agua acumulada. -->
+
+- [x] B) copos de algodón gigantes. <!-- feedback: Correcto! copos de algodón gigantes. -->
+
+- [ ] C) gases blancos. <!-- feedback: Incorrecto. gases blancos. -->
+
+- [ ] D) cosas que tapan el sol. <!-- feedback: Incorrecto. cosas que tapan el sol. -->
 
 ### Explicación Pedagogica
 La elección de la metáfora depende de la sensibilidad del poeta para encontrar relaciones inesperadas entre las cosas.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -210,21 +205,20 @@ La elección de la metáfora depende de la sensibilidad del poeta para encontrar
 ¿Por qué el autor prefiere decir **"El mar es un espejo de plata"** en lugar de "El mar brilla mucho"?
 
 ### Opciones
-- [ ] A) Para que el texto sea más largo.
-  <!-- feedback: No es por cantidad de palabras. -->
-- [x] B) Para crear una imagen visual poderosa y sugerir una sensación de belleza y luz.
-  <!-- feedback: ¡Excelente! Las metáforas enriquecen la experiencia del lector. -->
-- [ ] C) Porque no sabía cómo se escribe "brillar".
-  <!-- feedback: Los poetas conocen muy bien el lenguaje. -->
-- [ ] D) Para confundir a los marineros.
-  <!-- feedback: La poesía no busca confundir, sino conmover. -->
+- [ ] A) Para que el texto sea más largo. <!-- feedback: Incorrecto. Para que el texto sea más largo. -->
+
+- [x] B) Para crear una imagen visual poderosa y sugerir una sensación de belleza y luz. <!-- feedback: Correcto! Para crear una imagen visual poderosa y sugerir una sensació -->
+
+- [ ] C) Porque no sabía cómo se escribe "brillar". <!-- feedback: Incorrecto. Porque no sabía cómo se escribe "brillar -->
+
+- [ ] D) Para confundir a los marineros. <!-- feedback: Incorrecto. Para confundir a los marineros. -->
 
 ### Explicación Pedagogica
 La metáfora tiene una función estética y emocional que el lenguaje informativo no puede alcanzar.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Comprensión Lectora
@@ -235,21 +229,20 @@ La metáfora tiene una función estética y emocional que el lenguaje informativ
 En "La Pobre Viejecita", se dice que ella no tenía qué comer sino carnes, frutas y dulces. ¿Es esto una metáfora o una **ironía** (decir lo contrario de lo que se piensa)?
 
 ### Opciones
-- [ ] A) Es una metáfora sobre el hambre.
-  <!-- feedback: No, porque los alimentos se nombran literalmente. -->
-- [x] B) Es una ironía, porque dice que es pobre pero describe una vida de lujos.
-  <!-- feedback: ¡Correcto! Es un uso especial del lenguaje para burlarse de la avaricia. -->
-- [ ] C) Es una comparación con un restaurante.
-  <!-- feedback: No usa nexos comparativos. -->
-- [ ] D) Es un texto informativo de cocina.
-  <!-- feedback: Es literatura humorística. -->
+- [ ] A) Es una metáfora sobre el hambre. <!-- feedback: Incorrecto. Es una metáfora sobre el hambre. -->
+
+- [x] B) Es una ironía, porque dice que es pobre pero describe una vida de lujos. <!-- feedback: Correcto! Es una ironía, porque dice que es pobre pero describe una vi -->
+
+- [ ] C) Es una comparación con un restaurante. <!-- feedback: Incorrecto. Es una comparación con un restaurante. -->
+
+- [ ] D) Es un texto informativo de cocina. <!-- feedback: Incorrecto. Es un texto informativo de cocina. -->
 
 ### Explicación Pedagogica
 Diferenciar entre diversas figuras de pensamiento (ironía, metáfora, hipérbole) es un nivel avanzado de análisis literario.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-4-2026-W14-texto-poetico-metafora-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -260,14 +253,13 @@ Diferenciar entre diversas figuras de pensamiento (ironía, metáfora, hipérbol
 ¿Cuál de estas opciones usa una metáfora original y tierna?
 
 ### Opciones
-- [ ] A) Mi mamá es muy buena conmigo siempre.
-  <!-- feedback: Lenguaje literal. -->
-- [ ] B) Mi mamá cocina rico el cuy.
-  <!-- feedback: Es un hecho real (en Pasto), pero no es poético. -->
-- [x] C) "Mamá, tú eres el puerto seguro donde descansa mi corazón".
-  <!-- feedback: ¡Hermoso! Identifica a la madre con un lugar de paz y protección usando una metáfora. -->
-- [ ] D) Te quiero mamá, eres la mejor del mundo entero.
-  <!-- feedback: Es una frase muy común y literal. -->
+- [ ] A) Mi mamá es muy buena conmigo siempre. <!-- feedback: Incorrecto. Mi mamá es muy buena conmigo siempre. -->
+
+- [ ] B) Mi mamá cocina rico el cuy. <!-- feedback: Incorrecto. Mi mamá cocina rico el cuy. -->
+
+- [x] C) "Mamá, tú eres el puerto seguro donde descansa mi corazón". <!-- feedback: Correcto! "Mamá, tú eres el puerto seguro donde descansa mi corazón". -->
+
+- [ ] D) Te quiero mamá, eres la mejor del mundo entero. <!-- feedback: Incorrecto. Te quiero mamá, eres la mejor del mundo  -->
 
 ### Explicación Pedagogica
 La creación de metáforas propias permite al estudiante apropiarse del lenguaje para expresar su mundo interior de forma única.

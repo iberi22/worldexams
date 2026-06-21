@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W26 -- REPASO Periodo 3
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W26-repaso-p3-001-MASTERY-bundle-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Definiciones
+**Contexto:** Definiciones
 
 ### Enunciado
 Cual es la medida de tendencia central que considera todos los datos?
 
-### Options
+### Opciones
 - [x] A) La media <!-- feedback: Correcto. -->
 - [ ] B) La mediana <!-- feedback: Incorrecto. -->
 - [ ] C) La moda <!-- feedback: Incorrecto. -->
@@ -48,13 +51,14 @@ La media usa todos los datos en su calculo.
 
 **ID:** `CO-MAT-6-2026-W26-repaso-p3-001-MASTERY-bundle-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Graficos
+**Contexto:** Graficos
 
 ### Enunciado
 Que grafico es mejor para mostrar partes de un total?
 
-### Options
+### Opciones
 - [x] A) Circular (pastel) <!-- feedback: Correcto. -->
 - [ ] B) Barras <!-- feedback: Incorrecto. -->
 - [ ] C) Lineas <!-- feedback: Incorrecto. -->
@@ -69,13 +73,14 @@ El grafico circular muestra proporciones.
 
 **ID:** `CO-MAT-6-2026-W26-repaso-p3-001-MASTERY-bundle-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Media ejercicio
+**Contexto:** Media ejercicio
 
 ### Enunciado
 Edades: 12, 14, 13, 15, 11. Promedio?
 
-### Options
+### Opciones
 - [x] A) 13 anos <!-- feedback: Correcto. Suma=65, media=13. -->
 - [ ] B) 12 <!-- feedback: Incorrecto. -->
 - [ ] C) 14 <!-- feedback: Incorrecto. -->
@@ -90,13 +95,14 @@ Edades: 12, 14, 13, 15, 11. Promedio?
 
 **ID:** `CO-MAT-6-2026-W26-repaso-p3-001-MASTERY-bundle-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Variable
+**Contexto:** Variable
 
 ### Enunciado
 Cual es cuantitativa?
 
-### Options
+### Opciones
 - [x] A) Estatura en cm <!-- feedback: Correcto. -->
 - [ ] B) Color favorito <!-- feedback: Incorrecto. -->
 - [ ] C) Tipo de mascota <!-- feedback: Incorrecto. -->
@@ -111,13 +117,14 @@ Estatura es numerica y medible -> cuantitativa.
 
 **ID:** `CO-MAT-6-2026-W26-repaso-p3-001-MASTERY-bundle-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Probabilidad
+**Contexto:** Probabilidad
 
 ### Enunciado
 Dado: P(numero mayor que 4)?
 
-### Options
+### Opciones
 - [x] A) 2/6 = 1/3 <!-- feedback: Correcto. 5 y 6, dos resultados. -->
 - [ ] B) 1/6 <!-- feedback: Incorrecto. -->
 - [ ] C) 1/2 <!-- feedback: Incorrecto. -->
@@ -132,13 +139,14 @@ Mayores que 4: 5 y 6. P=2/6=1/3.
 
 **ID:** `CO-MAT-6-2026-W26-repaso-p3-001-MASTERY-bundle-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Frecuencia
+**Contexto:** Frecuencia
 
 ### Enunciado
 Mascotas: 15 perro, 10 gato, 5 pez. Frecuencia relativa de gato?
 
-### Options
+### Opciones
 - [x] A) 10/30 = 1/3 <!-- feedback: Correcto. -->
 - [ ] B) 10 <!-- feedback: Incorrecto. -->
 - [ ] C) 15/30 <!-- feedback: Incorrecto. -->
@@ -153,13 +161,14 @@ Mascotas: 15 perro, 10 gato, 5 pez. Frecuencia relativa de gato?
 
 **ID:** `CO-MAT-6-2026-W26-repaso-p3-001-MASTERY-bundle-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Mediana
+**Contexto:** Mediana
 
 ### Enunciado
 Notas: 2.5, 3.0, 4.0, 4.5, 5.0, 3.5. Mediana?
 
-### Options
+### Opciones
 - [x] A) 3.75 <!-- feedback: Correcto. (3.5+4.0)/2=3.75. -->
 - [ ] B) 3.5 <!-- feedback: Incorrecto. -->
 - [ ] C) 4.0 <!-- feedback: Incorrecto. -->
@@ -174,13 +183,14 @@ Orden: 2.5,3.0,3.5,4.0,4.5,5.0. (3.5+4.0)/2=3.75.
 
 **ID:** `CO-MAT-6-2026-W26-repaso-p3-001-MASTERY-bundle-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Probabilidad compuesta
+**Contexto:** Probabilidad compuesta
 
 ### Enunciado
 Bolsa: 4 rojas, 3 azules, 3 verdes. P(roja o azul)?
 
-### Options
+### Opciones
 - [x] A) 7/10 <!-- feedback: Correcto. 4+3=7 favorables de 10. -->
 - [ ] B) 4/10 <!-- feedback: Incorrecto. -->
 - [ ] C) 3/10 <!-- feedback: Incorrecto. -->
@@ -195,13 +205,14 @@ P(roja o azul) = (4+3)/10 = 7/10.
 
 **ID:** `CO-MAT-6-2026-W26-repaso-p3-001-MASTERY-bundle-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Analisis de datos
+**Contexto:** Analisis de datos
 
 ### Enunciado
 Salarios: 800K, 900K, 850K, 1M, 4M. Que medida usar?
 
-### Options
+### Opciones
 - [x] A) Mediana (900K) <!-- feedback: Correcto. No afectada por valor extremo. -->
 - [ ] B) Media (1.51M) <!-- feedback: Incorrecto. -->
 - [ ] C) Moda <!-- feedback: Incorrecto. -->
@@ -216,13 +227,14 @@ Mediana=900K. Media=1.51M inflada por 4M.
 
 **ID:** `CO-MAT-6-2026-W26-repaso-p3-001-MASTERY-bundle-010-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Comparacion
+**Contexto:** Comparacion
 
 ### Enunciado
 Curso A: media 3.8, mediana 4.0. Curso B: media 3.8, mediana 3.5. Que curso es probablemente mejor?
 
-### Options
+### Opciones
 - [x] A) Curso A (mediana mas alta) <!-- feedback: Correcto. Misma media pero A tiene mas notas altas. -->
 - [ ] B) Curso B <!-- feedback: Incorrecto. -->
 - [ ] C) Ambos igual <!-- feedback: Incorrecto. -->

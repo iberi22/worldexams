@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY"
+id: "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Comunidades indígenas actuales en Colombia, pueblos vivos, territorio, economía, educación intercultural, retos contemporáneos, derechos constitucionales"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Comunidades Indígenas Actuales
 
@@ -27,14 +34,15 @@ Este bundle cubre la realidad de las comunidades indígenas colombianas en la ac
 ## Question 1 [D3]
 
 **ID:** `CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Etnocducativa John F. Kennedy de Riohacha, el profesor pregunta cuántos pueblos indígenas hay actualmente en Colombia.
+**Contexto:** En la clase de sociales de la I.E. Etnocducativa John F. Kennedy de Riohacha, el profesor pregunta cuántos pueblos indígenas hay actualmente en Colombia.
 
 ### Enunciado
 Según el censo más reciente, en Colombia existen aproximadamente:
 
-### Options
+### Opciones
 - [ ] A) 10 pueblos indígenas. <!-- feedback: Incorrecto. Colombia tiene muchos más de 10 pueblos indígenas. -->
 - [ ] B) 30 pueblos indígenas. <!-- feedback: Incorrecto. La cifra real es mayor. -->
 - [x] C) Más de 100 pueblos indígenas reconocidos oficialmente. <!-- feedback: Correcto. Colombia reconoce oficialmente más de 100 pueblos indígenas, cada uno con su propia lengua, cultura y territorio. -->
@@ -48,14 +56,15 @@ Se evalúa el conocimiento de la diversidad indígena actual de Colombia. La res
 ## Question 2 [D3]
 
 **ID:** `CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Agropecuaria de Sibundoy, Putumayo, el profesor habla sobre la educación en comunidades indígenas.
+**Contexto:** En la clase de sociales de la I.E. Agropecuaria de Sibundoy, Putumayo, el profesor habla sobre la educación en comunidades indígenas.
 
 ### Enunciado
 La educación en los territorios indígenas de Colombia se imparte respetando su cultura y lengua. Este modelo educativo se llama:
 
-### Options
+### Opciones
 - [ ] A) Educación tradicional occidental. <!-- feedback: Incorrecto. La educación en territorios indígenas sigue un modelo diferente al occidental. -->
 - [ ] B) Educación virtual a distancia. <!-- feedback: Incorrecto. La educación virtual no es el modelo principal en territorios indígenas. -->
 - [x] C) Educación propia o etnoeducación. <!-- feedback: Correcto. La etnoeducación es un modelo que respeta las lenguas, costumbres y cosmovisión de los pueblos indígenas, integrando conocimientos ancestrales con contenidos del currículo nacional. -->
@@ -69,14 +78,15 @@ Se evalúa el conocimiento del modelo educativo indígena. La respuesta correcta
 ## Question 3 [D4]
 
 **ID:** `CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En clase de sociales en la I.E. Normal de Mitú, Vaupés, los estudiantes visitan una maloca y aprenden sobre la vida comunitaria.
+**Contexto:** En clase de sociales en la I.E. Normal de Mitú, Vaupés, los estudiantes visitan una maloca y aprenden sobre la vida comunitaria.
 
 ### Enunciado
 Muchas comunidades indígenas de la Amazonía colombiana viven en una casa comunal grande donde realizan sus actividades y reuniones. Esta construcción se llama:
 
-### Options
+### Opciones
 - [ ] A) Una catedral. <!-- feedback: Incorrecto. La catedral es un templo católico de grandes dimensiones. -->
 - [ ] B) Una finca privada. <!-- feedback: Incorrecto. Las comunidades amazónicas no viven en fincas privadas individuales. -->
 - [x] C) Una maloca. <!-- feedback: Correcto. La maloca es la vivienda comunal tradicional de los pueblos indígenas amazónicos como los Huitoto, Yagua y Ticuna, donde conviven varias familias y se realizan ceremonias. -->
@@ -90,14 +100,15 @@ Se evalúa la comprensión de las formas de vivienda indígena actual. La respue
 ## Question 4 [D4]
 
 **ID:** `CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en la I.E. Francisco de Paula Santander de Ocaña, un estudiante pregunta si los indígenas viven como hace 500 años.
+**Contexto:** En clase de sociales en la I.E. Francisco de Paula Santander de Ocaña, un estudiante pregunta si los indígenas viven como hace 500 años.
 
 ### Enunciado
 Las comunidades indígenas actuales en Colombia:
 
-### Options
+### Opciones
 - [ ] A) Viven exactamente igual que antes de la llegada de los españoles. <!-- feedback: Incorrecto. Las culturas cambian con el tiempo, ninguna se ha mantenido exactamente igual. -->
 - [ ] B) Han abandonado todas sus tradiciones y viven como cualquier colombiano. <!-- feedback: Incorrecto. Muchas comunidades mantienen sus tradiciones vivas. -->
 - [x] C) Combinan elementos de su cultura tradicional con tecnología moderna, como el uso de celulares, Internet y motores fuera de borda, sin perder su identidad cultural. <!-- feedback: Correcto. Las comunidades indígenas actuales han adoptado algunas tecnologías modernas mientras mantienen sus lenguas, autoridades tradicionales y costumbres. -->
@@ -111,14 +122,15 @@ Se evalúa la comprensión de la realidad actual de los pueblos indígenas. La r
 ## Question 5 [D4]
 
 **ID:** `CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Técnica de Uribia, La Guajira, los estudiantes investigan la economía de la comunidad Wayúu.
+**Contexto:** En la clase de sociales de la I.E. Técnica de Uribia, La Guajira, los estudiantes investigan la economía de la comunidad Wayúu.
 
 ### Enunciado
 Muchas comunidades indígenas actuales combinan actividades económicas tradicionales con otras modernas. Por ejemplo, los Wayúu de La Guajira se dedican a:
 
-### Options
+### Opciones
 - [ ] A) Trabajar exclusivamente en oficinas en Bogotá. <!-- feedback: Incorrecto. Los Wayúu viven principalmente en La Guajira, no en Bogotá. -->
 - [ ] B) La minería de carbón a gran escala. <!-- feedback: Incorrecto. La minería de carbón es actividad de empresas, no tradicional de los Wayúu. -->
 - [x] C) La cría de chivos y ovejas, la elaboración de mochilas y artesanías, el comercio y el trabajo en empresas de la región. <!-- feedback: Correcto. Los Wayúu combinan su economía tradicional (pastoreo, artesanías) con actividades modernas como el comercio fronterizo y el trabajo en la minería y empresas de servicios. -->
@@ -132,14 +144,15 @@ Se evalúa la capacidad de aplicar el conocimiento sobre la economía indígena 
 ## Question 6 [D4]
 
 **ID:** `CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-v6`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de formación ciudadana de la I.E. Liceo de la Amazonia en Florencia, los estudiantes analizan la relación de los indígenas con su territorio.
+**Contexto:** En la clase de formación ciudadana de la I.E. Liceo de la Amazonia en Florencia, los estudiantes analizan la relación de los indígenas con su territorio.
 
 ### Enunciado
 Para las comunidades indígenas actuales, el territorio no es solo un lugar donde viven. Para ellos representa:
 
-### Options
+### Opciones
 - [ ] A) Un sitio para construir centros comerciales. <!-- feedback: Incorrecto. Los indígenas no ven su territorio como un espacio comercial. -->
 - [ ] B) Una propiedad que pueden vender al mejor postor. <!-- feedback: Incorrecto. Para los indígenas, la tierra tiene un valor espiritual que va más allá de lo económico. -->
 - [x] C) La base de su identidad cultural, su fuente de alimento y medicina, su conexión espiritual con los ancestros y el lugar donde pueden ejercer su autonomía. <!-- feedback: Correcto. El territorio indígena es inseparable de su identidad cultural: allí están sus sitios sagrados, sus recursos naturales y su forma de gobierno. -->
@@ -153,14 +166,15 @@ Se evalúa la comprensión de la relación espiritual y cultural de los indígen
 ## Question 7 [D4]
 
 **ID:** `CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-v7`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. San Juan de Rioseco, un estudiante pregunta cómo los indígenas participan en la política nacional.
+**Contexto:** En la clase de sociales de la I.E. San Juan de Rioseco, un estudiante pregunta cómo los indígenas participan en la política nacional.
 
 ### Enunciado
 Los pueblos indígenas de Colombia participan en la política nacional a través de:
 
-### Options
+### Opciones
 - [ ] A) No pueden participar porque no son ciudadanos colombianos. <!-- feedback: Incorrecto. Los indígenas son ciudadanos colombianos con todos los derechos. -->
 - [ ] B) Solo a través de protestas en las calles. <!-- feedback: Incorrecto. La protesta es una forma de participación, pero no la única. -->
 - [x] C) La elección de representantes indígenas al Congreso de la República (circunscripción especial indígena), su participación en los concejos municipales y asambleas departamentales. <!-- feedback: Correcto. La Constitución de 1991 creó circunscripciones especiales para que los pueblos indígenas tengan representación directa en el Senado y la Cámara de Representantes. -->
@@ -174,14 +188,15 @@ Se evalúa la capacidad de aplicar el conocimiento sobre participación polític
 ## Question 8 [D5]
 
 **ID:** `CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En un debate escolar en la I.E. Técnica Ambiental de Leticia, los estudiantes discuten los problemas que enfrentan las comunidades amazónicas.
+**Contexto:** En un debate escolar en la I.E. Técnica Ambiental de Leticia, los estudiantes discuten los problemas que enfrentan las comunidades amazónicas.
 
 ### Enunciado
 Uno de los principales problemas que enfrentan las comunidades indígenas de la Amazonía colombiana actualmente es:
 
-### Options
+### Opciones
 - [ ] A) Que tienen demasiada tecnología moderna. <!-- feedback: Incorrecto. La falta de acceso a servicios básicos es más preocupante. -->
 - [ ] B) La sobrepoblación de sus territorios. <!-- feedback: Incorrecto. La Amazonía tiene baja densidad poblacional. -->
 - [x] C) La deforestación, la minería ilegal y la explotación de recursos naturales en sus territorios sin su consentimiento. <!-- feedback: Correcto. Las comunidades amazónicas enfrentan graves amenazas por la tala ilegal, la minería de oro, los cultivos ilícitos y los megaproyectos que destruyen su hábitat y los desplazan. -->
@@ -195,14 +210,15 @@ Se evalúa la capacidad de analizar los problemas reales de las comunidades ind�
 ## Question 9 [D5]
 
 **ID:** `CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-v9`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en la I.E. Enrique Olaya Herrera de Bogotá, la profesora pregunta qué aportan las comunidades indígenas al país.
+**Contexto:** En clase de sociales en la I.E. Enrique Olaya Herrera de Bogotá, la profesora pregunta qué aportan las comunidades indígenas al país.
 
 ### Enunciado
 Las comunidades indígenas actuales aportan a Colombia conocimientos valiosos como:
 
-### Options
+### Opciones
 - [ ] A) Recetas de cocina rápida y comida chatarra. <!-- feedback: Incorrecto. La comida chatarra no es un aporte indígena. -->
 - [ ] B) Tecnología de punta para desarrollar cohetes espaciales. <!-- feedback: Incorrecto. No es un aporte indígena. -->
 - [x] C) El conocimiento de plantas medicinales, técnicas de agricultura sostenible, la conservación de bosques y una visión de respeto por la naturaleza. <!-- feedback: Correcto. Los pueblos indígenas poseen conocimientos ancestrales sobre medicina natural, agricultura orgánica, manejo de bosques y conservación ambiental que son fundamentales para enfrentar el cambio climático. -->
@@ -216,14 +232,15 @@ Se evalúa la capacidad de analizar las contribuciones de los pueblos indígenas
 ## Question 10 [D5]
 
 **ID:** `CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-v10`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de formación ciudadana de la I.E. Normal de Quibdó, la profesora pregunta por qué debemos respetar la diversidad étnica.
+**Contexto:** En la clase de formación ciudadana de la I.E. Normal de Quibdó, la profesora pregunta por qué debemos respetar la diversidad étnica.
 
 ### Enunciado
 La Constitución de 1991 reconoce que Colombia es un país pluriétnico y multicultural. Esto significa que:
 
-### Options
+### Opciones
 - [ ] A) En Colombia solo existe un grupo étnico: los mestizos. <!-- feedback: Incorrecto. Colombia es diversa, no tiene un solo grupo étnico. -->
 - [ ] B) Todos los colombianos deben hablar la misma lengua y tener las mismas costumbres. <!-- feedback: Incorrecto. La diversidad cultural es lo que caracteriza a Colombia. -->
 - [x] C) El Estado reconoce y respeta la existencia de diferentes grupos étnicos (indígenas, afrocolombianos, raizales, ROM) con sus propias lenguas, culturas y formas de gobierno. <!-- feedback: Correcto. El reconocimiento de Colombia como país pluriétnico y multicultural significa que el Estado valora y protege la diversidad cultural como un patrimonio nacional. -->

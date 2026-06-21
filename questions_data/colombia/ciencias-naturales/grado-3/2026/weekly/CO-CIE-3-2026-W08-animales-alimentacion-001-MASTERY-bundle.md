@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY"
+id: "CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "animales-alimentacion"
-semana: "W08"
+week: "W08"
 periodo: 1
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Clasificación de animales según su alimentación: herbívoro
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # ¿Qué comen los animales?
 
 Este bundle profundiza en la clasificación de los animales por su dieta y cómo sus cuerpos (especialmente sus dientes y picos) están adaptados para conseguir y procesar su alimento favorito.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una granja en los Llanos Orientales, observamos caballos comiendo pasto y garzas buscando pequeños peces en los charcos.
+**Contexto:** En una granja en los Llanos Orientales, observamos caballos comiendo pasto y garzas buscando pequeños peces en los charcos.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ Los herbívoros tienen una función vital en los ecosistemas: convierten la ener
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un gato tiene colmillos muy puntiagudos y garras que puede esconder y sacar cuando las necesita.
+**Contexto:** Un gato tiene colmillos muy puntiagudos y garras que puede esconder y sacar cuando las necesita.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -73,12 +77,12 @@ La dentadura de los animales es una herramienta perfecta. Los carnívoros necesi
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Los seres humanos comemos arroz, carne, ensaladas de verduras y postres de frutas.
+**Contexto:** Los seres humanos comemos arroz, carne, ensaladas de verduras y postres de frutas.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -98,12 +102,12 @@ Ser omnívoro significa tener un sistema digestivo muy versátil. Podemos obtene
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Tienes que alimentar a tres animales: un Conejo, un León y un Oso.
+**Contexto:** Tienes que alimentar a tres animales: un Conejo, un León y un Oso.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ Respetar la dieta de los animales es fundamental. Cada especie tiene enzimas y �
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Un pájaro tiene un pico muy corto, grueso y fuerte, capaz de romper cosas muy duras.
+**Contexto:** Un pájaro tiene un pico muy corto, grueso y fuerte, capaz de romper cosas muy duras.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -148,12 +152,12 @@ En las aves, el pico es el equivalente a los dientes de los mamíferos. Su forma
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Los animales carnívoros suelen ser más rápidos y tener mejores sentidos (oído, vista) que los herbívoros que solo pastan.
+**Contexto:** Los animales carnívoros suelen ser más rápidos y tener mejores sentidos (oído, vista) que los herbívoros que solo pastan.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -173,12 +177,12 @@ La alimentación determina el comportamiento. Los carnívoros son depredadores y
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un animal llamado chigüiro vive cerca del agua y tiene dientes que nunca dejan de crecer para que no se desgasten al comer tantas plantas.
+**Contexto:** Un animal llamado chigüiro vive cerca del agua y tiene dientes que nunca dejan de crecer para que no se desgasten al comer tantas plantas.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -198,12 +202,12 @@ El chigüiro es el roedor más grande del mundo y es un herbívoro estricto. Sus
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** En una cadena alimentaria, el sol da energía a la hierba, la hierba es comida por el conejo, y el conejo es comido por el zorro.
+**Contexto:** En una cadena alimentaria, el sol da energía a la hierba, la hierba es comida por el conejo, y el conejo es comido por el zorro.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -223,12 +227,12 @@ Esto se llama interdependencia. La vida de los carnívoros depende totalmente de
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un oso hormiguero no tiene dientes, pero tiene una lengua de 60 centímetros de largo cubierta de una saliva muy pegajosa.
+**Contexto:** Un oso hormiguero no tiene dientes, pero tiene una lengua de 60 centímetros de largo cubierta de una saliva muy pegajosa.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -248,12 +252,12 @@ Este es un ejemplo de especialización extrema. Al comer solo insectos pequeños
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Si encuentras un animal nuevo en la selva que tiene muelas planas al fondo pero colmillos muy largos adelante.
+**Contexto:** Si encuentras un animal nuevo en la selva que tiene muelas planas al fondo pero colmillos muy largos adelante.
 **Expected_Success:** 0.55
 
 ### Enunciado

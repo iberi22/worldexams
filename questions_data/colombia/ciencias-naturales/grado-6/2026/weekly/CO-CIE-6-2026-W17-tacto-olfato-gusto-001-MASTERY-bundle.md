@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W17-tacto-olfato-gusto-001-MASTERY"
+id: "CO-CIE-6-2026-W17-tacto-olfato-gusto-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W17 — Tacto, Olfato y Gusto
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W17-tacto-olfato-gusto-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, profundizan en tacto, olfato y gusto.
+**Contexto:** En Bogotá, profundizan en tacto, olfato y gusto.
 
 ### Enunciado
 ¿Cuál es el órgano más grande del cuerpo humano?
 
-### Options
+### Opciones
 - [ ] A) El hígado <!-- feedback: El hígado es el órgano interno más grande. -->
 - [ ] B) El cerebro <!-- feedback: No es el más grande. -->
 - [x] C) La piel <!-- feedback: Correcto. -->
@@ -48,13 +51,14 @@ La piel es el órgano más grande (~2 m², ~5 kg). Funciones: protección contra
 
 **ID:** `CO-CIE-6-2026-W17-tacto-olfato-gusto-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, identifican receptores del tacto.
+**Contexto:** En Medellín, identifican receptores del tacto.
 
 ### Enunciado
 ¿Qué parte del cuerpo tiene MAYOR sensibilidad táctil?
 
-### Options
+### Opciones
 - [ ] A) La espalda <!-- feedback: Tiene baja densidad de receptores. -->
 - [ ] B) Los codos <!-- feedback: Sensibilidad media. -->
 - [x] C) Los dedos de las manos y los labios <!-- feedback: Correcto. -->
@@ -69,13 +73,14 @@ La densidad de receptores táctiles varía: dedos y labios tienen la mayor densi
 
 **ID:** `CO-CIE-6-2026-W17-tacto-olfato-gusto-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, estudian el olfato.
+**Contexto:** En Cali, estudian el olfato.
 
 ### Enunciado
 ¿Cómo detectamos los olores?
 
-### Options
+### Opciones
 - [ ] A) Las partículas entran por la boca <!-- feedback: El olfato es principalmente nasal. -->
 - [x] B) Las moléculas del olor se disuelven en el moco nasal y activan neuronas olfativas <!-- feedback: Correcto. -->
 - [ ] C) Los pelitos de la nariz filtran los olores <!-- feedback: Filtran partículas grandes. -->
@@ -90,13 +95,14 @@ El epitelio olfativo tiene ~400 tipos de receptores para moléculas volátiles. 
 
 **ID:** `CO-CIE-6-2026-W17-tacto-olfato-gusto-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, estudian el gusto.
+**Contexto:** En Barranquilla, estudian el gusto.
 
 ### Enunciado
 ¿Cuántos sabores básicos detecta la lengua humana?
 
-### Options
+### Opciones
 - [ ] A) 3 <!-- feedback: Hay más. -->
 - [ ] B) 4 <!-- feedback: Casi, falta umami. -->
 - [x] C) 5 (dulce, salado, ácido, amargo, umami) <!-- feedback: Correcto. -->
@@ -111,13 +117,14 @@ Los 5 sabores básicos tienen función evolutiva: dulce (energía), salado (elec
 
 **ID:** `CO-CIE-6-2026-W17-tacto-olfato-gusto-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, aplican sobre adaptación sensorial.
+**Contexto:** En Bucaramanga, aplican sobre adaptación sensorial.
 
 ### Enunciado
 ¿Por qué no sentimos la ropa puesta después de unos minutos?
 
-### Options
+### Opciones
 - [x] A) Adaptación sensorial: los receptores dejan de enviar señales ante estímulos constantes <!-- feedback: Correcto. -->
 - [ ] B) La ropa deja de presionar <!-- feedback: Sigue presionando. -->
 - [ ] C) Los receptores se mueren <!-- feedback: No mueren, se adaptan. -->
@@ -132,13 +139,14 @@ La adaptación sensorial filtra información constante e irrelevante. También o
 
 **ID:** `CO-CIE-6-2026-W17-tacto-olfato-gusto-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, aplican sobre seguridad alimentaria.
+**Contexto:** En Cartagena, aplican sobre seguridad alimentaria.
 
 ### Enunciado
 Si un alimento huele mal pero sabe bien, ¿es seguro comerlo?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque sabe bien <!-- feedback: El mal olor es una advertencia. -->
 - [ ] B) Sí, si está refrigerado <!-- feedback: No garantiza seguridad. -->
 - [x] C) No, el mal olor indica descomposición y posibles toxinas peligrosas <!-- feedback: Correcto. -->
@@ -153,13 +161,14 @@ El olfato y gusto son sistemas de alerta evolutivos. El mal olor indica descompo
 
 **ID:** `CO-CIE-6-2026-W17-tacto-olfato-gusto-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan la pérdida del olfato por COVID-19.
+**Contexto:** En Pereira, analizan la pérdida del olfato por COVID-19.
 
 ### Enunciado
 Durante la pandemia de COVID-19, muchos pacientes perdieron el olfato (anosmia). ¿Por qué ocurrió?
 
-### Options
+### Opciones
 - [ ] A) El virus tapó la nariz con moco <!-- feedback: No explica la anosmia total. -->
 - [ ] B) El virus dañó el bulbo olfatorio <!-- feedback: No es el mecanismo principal. -->
 - [x] C) El virus infectó células de soporte del epitelio olfativo, bloqueando la señal <!-- feedback: Correcto. -->
@@ -174,13 +183,14 @@ El SARS-CoV-2 infecta células sustentaculares del epitelio olfativo, causando i
 
 **ID:** `CO-CIE-6-2026-W17-tacto-olfato-gusto-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, analizan la sinestesia.
+**Contexto:** En Manizales, analizan la sinestesia.
 
 ### Enunciado
 Algunas personas "ven" colores al escuchar música. ¿Cómo se llama esta condición?
 
-### Options
+### Opciones
 - [ ] A) Alucinación <!-- feedback: No hay pérdida de realidad. -->
 - [ ] B) Ilusión óptica <!-- feedback: No es visual. -->
 - [x] C) Sinestesia <!-- feedback: Correcto. -->
@@ -195,13 +205,14 @@ La sinestesia es una condición neurológica donde un sentido activa otro autom�
 
 **ID:** `CO-CIE-6-2026-W17-tacto-olfato-gusto-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan realidad virtual.
+**Contexto:** En Cúcuta, evalúan realidad virtual.
 
 ### Enunciado
 Un usuario de realidad virtual se marea aunque esté sentado. ¿Por qué?
 
-### Options
+### Opciones
 - [ ] A) Las imágenes son de baja calidad <!-- feedback: No es la causa. -->
 - [ ] B) El casco pesa mucho <!-- feedback: Incomodidad física pero no mareo vestibular. -->
 - [x] C) Conflicto sensorial: la vista ve movimiento pero el oído interno no lo detecta <!-- feedback: Correcto. -->
@@ -216,13 +227,14 @@ El mareo por VR (cybersickness) ocurre por conflicto entre vista (movimiento) y 
 
 **ID:** `CO-CIE-6-2026-W17-tacto-olfato-gusto-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan tecnologías de asistencia.
+**Contexto:** En Ibagué, evalúan tecnologías de asistencia.
 
 ### Enunciado
 Una persona ciega usa un bastón blanco para desplazarse. ¿Qué principio sensorial utiliza?
 
-### Options
+### Opciones
 - [ ] A) El olfato para detectar lugares <!-- feedback: Ayuda pero no es el principal. -->
 - [x] B) La ecolocalización pasiva: el sonido del bastón al golpear objetos revela distancias y superficies <!-- feedback: Correcto. -->
 - [ ] C) El tacto directo para reconocer objetos <!-- feedback: El bastón extiende el tacto. -->

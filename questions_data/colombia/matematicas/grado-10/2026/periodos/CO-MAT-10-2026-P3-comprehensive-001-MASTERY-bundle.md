@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-10-2026-P3-comprehensive-001-MASTERY"
+id: "CO-MAT-10-2026-P3-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 10
 asignatura: "matematicas"
@@ -19,7 +19,12 @@ rubric_baseline: "trigonometria_analitica, estadistica_inferencial, derivada_int
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 20
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Trigonometría Analítica, Estadística Inferencial y Derivada Intro
 
@@ -33,12 +38,12 @@ Bundle de periodo 3 para grado 10, alineado con DBA MEN y preparación Pre-Saber
 **Bloom:** Remember
 **ICFES:** Comunicación y Representación
 
-**Context:** En una clase de estadística en el Colegio San Francisco de Asís en Popayán, el profesor explica conceptos básicos de inferencia estadística.
+**Contexto:** En una clase de estadística en el Colegio San Francisco de Asís en Popayán, el profesor explica conceptos básicos de inferencia estadística.
 
 ### Enunciado
 ¿Qué es un parámetro en estadística inferencial?
 
-### Options
+### Opciones
 - [ ] A) Un valor calculado a partir de una muestra. <!-- feedback: Incorrecto. Eso es un estadístico o estadígrafo, no un parámetro. -->
 - [x] B) Un valor numérico que describe una característica de la población. <!-- feedback: Correcto. El parámetro es un valor verdadero de la población, generalmente desconocido. -->
 - [ ] C) Un intervalo de confianza. <!-- feedback: Incorrecto. Un intervalo de confianza es una estimación, no un parámetro. -->
@@ -55,12 +60,12 @@ En inferencia, el parámetro es el valor verdadero en la población (ej: media p
 **Bloom:** Remember
 **ICFES:** Comunicación y Representación
 
-**Context:** Un estudiante en Cúcuta ve por primera vez el concepto de derivada como la pendiente de la recta tangente.
+**Contexto:** Un estudiante en Cúcuta ve por primera vez el concepto de derivada como la pendiente de la recta tangente.
 
 ### Enunciado
 Geométricamente, la derivada de una función f en un punto x = a representa:
 
-### Options
+### Opciones
 - [ ] A) El área bajo la curva de f en el intervalo [a, a+h]. <!-- feedback: Incorrecto. El área bajo la curva se relaciona con la integral, no con la derivada. -->
 - [x] B) La pendiente de la recta tangente a la gráfica de f en el punto (a, f(a)). <!-- feedback: Correcto. La derivada en un punto es el límite de las pendientes de las rectas secantes cuando h→0, que es la pendiente de la recta tangente. -->
 - [ ] C) El valor máximo de la función en el intervalo. <!-- feedback: Incorrecto. La derivada puede ser cero en un máximo, pero no es su definición. -->
@@ -77,12 +82,12 @@ La derivada f'(a) = lim_{h→0} (f(a+h)-f(a))/h es la pendiente instantánea de 
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 
-**Context:** En una clase de trigonometría analítica en el Colegio Los Andes de Bogotá, se debe resolver la ecuación trigonométrica: 2 cos θ - 1 = 0.
+**Contexto:** En una clase de trigonometría analítica en el Colegio Los Andes de Bogotá, se debe resolver la ecuación trigonométrica: 2 cos θ - 1 = 0.
 
 ### Enunciado
 ¿Cuál es la solución general para θ en la ecuación 2 cos θ = 1?
 
-### Options
+### Opciones
 - [x] A) θ = π/3 + 2πn o θ = 5π/3 + 2πn, n ∈ ℤ <!-- feedback: Correcto. cos θ = 1/2. cos⁻¹(1/2) = π/3. La solución general incluye el ángulo de referencia y su simétrico en [0,2π), más los múltiplos del período. -->
 - [ ] B) θ = π/6 + 2πn, n ∈ ℤ <!-- feedback: Incorrecto. cos(π/6) = √3/2, no 1/2. -->
 - [ ] C) θ = π/3 + πn, n ∈ ℤ <!-- feedback: Incorrecto. El período del coseno es 2π, no π. Agregar π da soluciones donde el coseno es -1/2. -->
@@ -99,12 +104,12 @@ Para resolver cos θ = k, primero encontramos el ángulo principal θ₀ = cos�
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 
-**Context:** El DANE publica que la estatura promedio de los hombres colombianos es 170.6 cm con una desviación estándar de 6.5 cm. Una muestra de 100 hombres en Medellín tiene una media de 171.2 cm.
+**Contexto:** El DANE publica que la estatura promedio de los hombres colombianos es 170.6 cm con una desviación estándar de 6.5 cm. Una muestra de 100 hombres en Medellín tiene una media de 171.2 cm.
 
 ### Enunciado
 ¿Cuál es el error estándar de la media muestral?
 
-### Options
+### Opciones
 - [ ] A) 6.5 cm <!-- feedback: Incorrecto. 6.5 es la desviación estándar poblacional, no el error estándar. -->
 - [x] B) 0.65 cm <!-- feedback: Correcto. Error estándar = σ/√n = 6.5/√100 = 6.5/10 = 0.65 cm. -->
 - [ ] C) 0.065 cm <!-- feedback: Incorrecto. Dividiste 6.5 entre 100, pero el error estándar usa √n, no n. -->
@@ -121,12 +126,12 @@ El error estándar de la media (SEM) mide la variabilidad esperada de las medias
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 
-**Context:** Un ingeniero en Bogotá calcula la tasa de cambio instantánea del volumen de agua en un tanque según V(t) = 10 + 5t - 0.5t², donde t está en minutos.
+**Contexto:** Un ingeniero en Bogotá calcula la tasa de cambio instantánea del volumen de agua en un tanque según V(t) = 10 + 5t - 0.5t², donde t está en minutos.
 
 ### Enunciado
 Usando la definición de derivada, calcula V'(2) (la tasa de cambio instantánea en t=2 minutos).
 
-### Options
+### Opciones
 - [ ] A) 5 L/min <!-- feedback: Incorrecto. V'(t) = 5 - t, V'(2) = 5-2 = 3. -->
 - [x] B) 3 L/min <!-- feedback: Correcto. V'(t) = 5 - t. Evaluando en t=2: V'(2) = 5 - 2 = 3 L/min. -->
 - [ ] C) 1 L/min <!-- feedback: Incorrecto. Error de cálculo. La derivada directa de V(t) = 10 + 5t - 0.5t² es V'(t) = 5 - t. -->
@@ -143,12 +148,12 @@ La derivada de una función cuadrática f(x) = ax² + bx + c es f'(x) = 2ax + b.
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** En una encuesta del DANE sobre desempleo en Barranquilla, se entrevistaron 400 personas. El 12% estaba desempleada. Se construye un intervalo de confianza del 95%.
+**Contexto:** En una encuesta del DANE sobre desempleo en Barranquilla, se entrevistaron 400 personas. El 12% estaba desempleada. Se construye un intervalo de confianza del 95%.
 
 ### Enunciado
 ¿Cuál es el margen de error aproximado (usando z* = 1.96) para la proporción de desempleados?
 
-### Options
+### Opciones
 - [ ] A) 1.2% <!-- feedback: Incorrecto. Este es el valor de la proporción (12%), no el margen de error. -->
 - [x] B) 3.2% <!-- feedback: Correcto. ME = 1.96 × √(0.12 × 0.88/400) = 1.96 × √(0.1056/400) = 1.96 × √0.000264 = 1.96 × 0.01625 = 0.0318 ≈ 3.2%. -->
 - [ ] C) 5.0% <!-- feedback: Incorrecto. Sobreestimaste el error. Usaste un z* o cálculo incorrecto. -->
@@ -165,12 +170,12 @@ El margen de error para una proporción es ME = z* × √(p̂(1-p̂)/n). Depende
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 
-**Context:** Un estudiante resuelve la ecuación trigonométrica 2 sen²θ + sen θ - 1 = 0 en el intervalo [0, 2π).
+**Contexto:** Un estudiante resuelve la ecuación trigonométrica 2 sen²θ + sen θ - 1 = 0 en el intervalo [0, 2π).
 
 ### Enunciado
 ¿Cuántas soluciones tiene la ecuación 2 sen²θ + sen θ - 1 = 0 en [0, 2π)?
 
-### Options
+### Opciones
 - [ ] A) 1 <!-- feedback: Incorrecto. Hay más de una solución. -->
 - [ ] B) 2 <!-- feedback: Incorrecto. Hay 3 soluciones. Factoriza: (2 sen θ - 1)(sen θ + 1) = 0. -->
 - [x] C) 3 <!-- feedback: Correcto. (2 senθ-1)(senθ+1)=0 → senθ=1/2 (soluciones: π/6, 5π/6) y senθ=-1 (solución: 3π/2). Total: 3 soluciones. -->
@@ -187,12 +192,12 @@ Las ecuaciones trigonométricas cuadráticas se resuelven factorizando como una 
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Se analiza la función f(x) = x². Se calcula la derivada usando la definición de límite.
+**Contexto:** Se analiza la función f(x) = x². Se calcula la derivada usando la definición de límite.
 
 ### Enunciado
 Usando la definición de derivada por límite, ¿cuál es f'(x) para f(x) = x²?
 
-### Options
+### Opciones
 - [ ] A) x <!-- feedback: Incorrecto. f'(x) = 2x, no x. -->
 - [x] B) 2x <!-- feedback: Correcto. f'(x) = lim_{h→0} ((x+h)² - x²)/h = lim (x²+2xh+h²-x²)/h = lim (2x+h) = 2x. -->
 - [ ] C) 2 <!-- feedback: Incorrecto. f'(x) = 2x, no 2. f'(x) sería constante si f(x) fuera lineal. -->
@@ -209,12 +214,12 @@ La definición de derivada con el límite del cociente diferencial permite encon
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 
-**Context:** Una empresa de transporte en Cali monitorea el consumo de combustible de su flota. De una muestra de 36 vehículos, el consumo medio es 8.5 km/L con desviación estándar muestral de 1.2 km/L.
+**Contexto:** Una empresa de transporte en Cali monitorea el consumo de combustible de su flota. De una muestra de 36 vehículos, el consumo medio es 8.5 km/L con desviación estándar muestral de 1.2 km/L.
 
 ### Enunciado
 Calcula el intervalo de confianza del 95% (t* con 35 gl ≈ 2.03) para el consumo medio de combustible.
 
-### Options
+### Opciones
 - [ ] A) [7.3, 9.7] km/L <!-- feedback: Incorrecto. El margen de error es 2.03 × (1.2/6) = 2.03 × 0.2 = 0.406, más pequeño que 1.2. -->
 - [x] B) [8.094, 8.906] km/L <!-- feedback: Correcto. IC = x̄ ± t* × (s/√n) = 8.5 ± 2.03 × (1.2/6) = 8.5 ± 0.406 = [8.094, 8.906]. -->
 - [ ] C) [8.1, 8.9] km/L aproximadamente <!-- feedback: Correcto también pero con menos precisión. El valor exacto del IC es [8.094, 8.906]. -->
@@ -231,12 +236,12 @@ Cuando se desconoce la desviación estándar poblacional, se usa la distribució
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 
-**Context:** En clase de matemáticas, se define la derivada y se muestran varios conceptos relacionados.
+**Contexto:** En clase de matemáticas, se define la derivada y se muestran varios conceptos relacionados.
 
 ### Enunciado
 ¿Cuál de las siguientes afirmaciones sobre la derivada es FALSA?
 
-### Options
+### Opciones
 - [ ] A) La derivada de una función constante es 0. <!-- feedback: Correcto, es verdadero. Las funciones constantes no cambian, su derivada es 0. -->
 - [ ] B) La derivada representa una tasa de cambio instantánea. <!-- feedback: Correcto, es verdadero. -->
 - [x] C) Si f'(a) = 0, entonces f tiene un máximo o mínimo en x = a. <!-- feedback: FALSO. f'(a)=0 es una condición necesaria pero no suficiente. Puede ser un punto de inflexión. Ej: f(x)=x³ en x=0. -->
@@ -253,12 +258,12 @@ La condición f'(a)=0 (punto crítico) es necesaria para extremos locales, pero 
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 
-**Context:** Un ecólogo en el Amazonas colombiano estudia la población de una especie. La población sigue P(t) = 500 + 20t - t², donde t está en meses.
+**Contexto:** Un ecólogo en el Amazonas colombiano estudia la población de una especie. La población sigue P(t) = 500 + 20t - t², donde t está en meses.
 
 ### Enunciado
 ¿En qué momento la población deja de crecer y comienza a decrecer?
 
-### Options
+### Opciones
 - [ ] A) En t=5 meses <!-- feedback: Incorrecto. P'(t) = 20 - 2t. P'(t)=0 → t=10. En t=5, P'(5)=10 > 0, sigue creciendo. -->
 - [x] B) En t=10 meses <!-- feedback: Correcto. P'(t) = 20 - 2t. P'(t)=0 → t=10. Para t<10, P'(t)>0 (crece); para t>10, P'(t)<0 (decrece). En t=10 hay un máximo. -->
 - [ ] C) En t=20 meses <!-- feedback: Incorrecto. P'(20)=20-40=-20, ya está decreciendo desde t=10. -->
@@ -275,12 +280,12 @@ El punto donde una función deja de crecer y empieza a decrecer corresponde a un
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Se quiere resolver la ecuación trigonométrica sen(2θ) = cos θ en [0, 2π).
+**Contexto:** Se quiere resolver la ecuación trigonométrica sen(2θ) = cos θ en [0, 2π).
 
 ### Enunciado
 ¿Cuáles son las soluciones de sen(2θ) = cos θ en [0, 2π)?
 
-### Options
+### Opciones
 - [ ] A) θ = 0, π/2, π, 3π/2 <!-- feedback: Incorrecto. En θ=0, sen(0)=0 y cos(0)=1, no son iguales. -->
 - [ ] B) θ = π/6, 5π/6 <!-- feedback: Incorrecto. Hay más soluciones. sen(2θ)=2senθcosθ, la ecuación se factoriza. -->
 - [x] C) θ = π/6, π/2, 5π/6, 3π/2 <!-- feedback: Correcto. sen(2θ)=cosθ → 2senθcosθ=cosθ → cosθ(2senθ-1)=0 → cosθ=0 (θ=π/2, 3π/2) o senθ=1/2 (θ=π/6, 5π/6). -->
@@ -297,12 +302,12 @@ Para resolver ecuaciones con ángulos múltiples, usa identidades para expresar 
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 
-**Context:** En un estudio del SISBEN en Bogotá, 400 hogares fueron encuestados. 240 reportaron ingresos por debajo de la línea de pobreza.
+**Contexto:** En un estudio del SISBEN en Bogotá, 400 hogares fueron encuestados. 240 reportaron ingresos por debajo de la línea de pobreza.
 
 ### Enunciado
 Construye un intervalo de confianza del 90% (z* = 1.645) para la proporción de hogares en pobreza.
 
-### Options
+### Opciones
 - [ ] A) [0.55, 0.65] <!-- feedback: Incorrecto. p̂=0.6, no 0.55-0.65. -->
 - [x] B) [0.5596, 0.6404] <!-- feedback: Correcto. p̂=240/400=0.6. ME=1.645×√(0.6×0.4/400)=1.645×√(0.24/400)=1.645×0.0245=0.0403. IC=0.6±0.0403=[0.5597, 0.6403]. -->
 - [ ] C) [0.56, 0.64] <!-- feedback: Correcto también, aproximando el cálculo. -->
@@ -319,7 +324,7 @@ Para construir un IC de proporción: p̂ ± z* × √(p̂(1-p̂)/n). El nivel de
 **Bloom:** Evaluate
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Cuatro estudiantes dan diferentes interpretaciones de la derivada f'(a).
+**Contexto:** Cuatro estudiantes dan diferentes interpretaciones de la derivada f'(a).
 
 ### Enunciado
 Estudiante A: "Es la pendiente de la recta secante en [a, a+h] para h muy pequeño."
@@ -328,7 +333,7 @@ Estudiante C: "Es la tasa de cambio promedio de f en [a, a+h]."
 Estudiante D: "Es la tasa de cambio instantánea de f en x=a."
 ¿Quién tiene razón?
 
-### Options
+### Opciones
 - [ ] A) Solo B y D. <!-- feedback: Incorrecto. A también está parcialmente correcto si consideramos que es el límite de la pendiente secante. -->
 - [ ] B) Solo B. <!-- feedback: Incorrecto. D también es una interpretación correcta. -->
 - [x] C) A, B y D. <!-- feedback: Correcto. A describe la pendiente secante que tiende a la derivada. B describe la interpretación geométrica. D describe la interpretación física. -->
@@ -345,12 +350,12 @@ La derivada tiene múltiples interpretaciones equivalentes: geométrica (pendien
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Se quiere probar si el ingreso promedio en Bucaramanga difiere del promedio nacional de $1,200,000. Una muestra de 100 hogares tiene media de $1,235,000 y desviación estándar de $180,000.
+**Contexto:** Se quiere probar si el ingreso promedio en Bucaramanga difiere del promedio nacional de $1,200,000. Una muestra de 100 hogares tiene media de $1,235,000 y desviación estándar de $180,000.
 
 ### Enunciado
 ¿Cuál es el estadístico de prueba t para contrastar H₀: μ = $1,200,000 vs H₁: μ ≠ $1,200,000?
 
-### Options
+### Opciones
 - [ ] A) t = 1.75 <!-- feedback: Incorrecto. t = (x̄-μ)/(s/√n) = (1235000-1200000)/(180000/10) = 35000/18000 = 1.944. -->
 - [x] B) t = 1.94 <!-- feedback: Correcto. t = (x̄-μ₀)/(s/√n) = (1,235,000-1,200,000)/(180,000/10) = 35,000/18,000 = 1.944. -->
 - [ ] C) t = 2.50 <!-- feedback: Incorrecto. Sobreestimaste el estadístico. -->
@@ -367,12 +372,12 @@ El estadístico de prueba t mide cuántos errores estándar está la media muest
 **Bloom:** Evaluate
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Un estudiante afirma: "Si la derivada de una función es positiva en todo el intervalo (a, b), entonces la función es creciente en [a, b]."
+**Contexto:** Un estudiante afirma: "Si la derivada de una función es positiva en todo el intervalo (a, b), entonces la función es creciente en [a, b]."
 
 ### Enunciado
 Evalúa la afirmación del estudiante.
 
-### Options
+### Opciones
 - [x] A) Es correcta: si f'(x) > 0 para todo x en (a, b), entonces f es estrictamente creciente en [a, b]. <!-- feedback: Correcto. El teorema del valor medio garantiza que si f'(x)>0 en (a,b), la función es creciente. -->
 - [ ] B) Es falsa porque la derivada positiva no implica crecimiento. <!-- feedback: Incorrecto. Sí implica crecimiento según el teorema del valor medio. -->
 - [ ] C) Es correcta solo si f es continua en [a, b]. <!-- feedback: Incorrecto. Para que f sea derivable en (a,b) y tenga f'(x)>0, f debe ser continua en [a,b] y derivable en (a,b). -->
@@ -389,12 +394,12 @@ El teorema del valor medio establece: si f'(x) > 0 para todo x en (a,b), entonce
 **Bloom:** Evaluate
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Una empresa de encuestas afirma que el 55% de los colombianos apoya una reforma. En una muestra de 500 personas, 260 apoyan la reforma.
+**Contexto:** Una empresa de encuestas afirma que el 55% de los colombianos apoya una reforma. En una muestra de 500 personas, 260 apoyan la reforma.
 
 ### Enunciado
 Con un nivel de significancia α=0.05 (z*₁.₉₆), ¿hay evidencia suficiente para rechazar la afirmación de que p=0.55?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque p̂=0.52 < 0.55. <!-- feedback: Incorrecto. No se rechaza solo por el valor puntual; hay que calcular el estadístico de prueba. -->
 - [ ] B) No, porque el valor p es menor que 0.05. <!-- feedback: Incorrecto. Primero calcula p̂=0.52, z=(0.52-0.55)/√(0.55·0.45/500)=(-0.03)/0.0222=-1.35. P(|Z|>1.35)=0.177>0.05. -->
 - [x] C) No, porque z = -1.35, que está dentro de la región de no rechazo [-1.96, 1.96]. <!-- feedback: Correcto. z = (0.52-0.55)/√(0.55·0.45/500) = -0.03/0.0222 = -1.35. Como |z| < 1.96, no se rechaza H₀. -->
@@ -411,12 +416,12 @@ En una prueba de hipótesis para proporción, se calcula z = (p̂-p₀)/√(p₀
 **Bloom:** Evaluate
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Un grupo de estudiantes debate si la función f(x) = |x| es derivable en x=0.
+**Contexto:** Un grupo de estudiantes debate si la función f(x) = |x| es derivable en x=0.
 
 ### Enunciado
 ¿Es f(x) = |x| derivable en x = 0?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque está definida en x=0. <!-- feedback: Incorrecto. Estar definida no implica ser derivable. -->
 - [ ] B) Sí, f'(0) = 0 porque la gráfica toca el eje x en 0. <!-- feedback: Incorrecto. La derivada no es 0. La función tiene un pico en x=0. -->
 - [ ] C) No, porque el límite por la izquierda del cociente diferencial es -1 y por la derecha es 1. <!-- feedback: Correcto. lim_{h→0-} (|0+h|-0)/h = -1, lim_{h→0+} h/h = 1. Los límites laterales son diferentes, por lo que la derivada no existe. -->
@@ -433,12 +438,12 @@ La derivabilidad implica continuidad, pero el recíproco no es cierto. |x| es co
 **Bloom:** Create
 **ICFES:** Formulación y Ejecución
 
-**Context:** Un gerente en una cadena de supermercados en Medellín necesita construir un modelo para la tasa de crecimiento de ventas.
+**Contexto:** Un gerente en una cadena de supermercados en Medellín necesita construir un modelo para la tasa de crecimiento de ventas.
 
 ### Enunciado
 Las ventas mensuales S(t) en millones de pesos siguen S(t) = -t² + 12t + 50, donde t=0 corresponde a enero. Determina la función que representa la tasa de cambio de las ventas y calcula en qué mes las ventas crecen más rápido.
 
-### Options
+### Opciones
 - [ ] A) S'(t) = -2t + 12, las ventas crecen más rápido en t=0 (enero). <!-- feedback: Correcto. S'(t) = -2t + 12. S'(0)=12 (máximo porque es lineal decreciente). En t=0 la tasa de cambio es máxima. -->
 - [ ] B) S'(t) = 2t + 12, las ventas crecen más rápido en t=6. <!-- feedback: Incorrecto. La derivada de -t² es -2t, no 2t. -->
 - [ ] C) S'(t) = -2t + 12, las ventas crecen más rápido en t=6. <!-- feedback: Incorrecto. S'(6) = 0, las ventas no crecen ni decrecen en t=6 (es el máximo de la función S). -->
@@ -455,12 +460,12 @@ La derivada S'(t) es la tasa de cambio instantánea. Para S(t) = -t² + 12t + 50
 **Bloom:** Evaluate
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Se debe diseñar un experimento para estimar la media de una población con un intervalo de confianza del 95% de ancho máximo 0.5 unidades. Un estudio piloto sugiere σ ≈ 2.1.
+**Contexto:** Se debe diseñar un experimento para estimar la media de una población con un intervalo de confianza del 95% de ancho máximo 0.5 unidades. Un estudio piloto sugiere σ ≈ 2.1.
 
 ### Enunciado
 ¿Cuál es el tamaño de muestra mínimo necesario? (z*₀.₉₅ = 1.96)
 
-### Options
+### Opciones
 - [ ] A) n = 100 <!-- feedback: Incorrecto. n = (z*·σ/ME)² = (1.96·2.1/0.25)² = (4.116/0.25)² = (16.464)² = 271.03. -->
 - [ ] B) n = 150 <!-- feedback: Incorrecto. El cálculo da aproximadamente 271. -->
 - [x] C) n = 272 <!-- feedback: Correcto. n = (z*·σ/ME)² = (1.96·2.1/0.25)² = (16.464)² = 271.03. Se redondea a 272. -->

@@ -1,10 +1,10 @@
 ---
-id: "COL-SOC-CIU-7-2026-W06-riesgos-naturales-001-MASTERY"
+id: "COL-SOC-CIU-7-2026-W06-riesgos-naturales-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-ciudadanas"
 tema: "riesgos-naturales"
-semana: "W06"
+week: "W06"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,16 +20,20 @@ rubric_baseline: "riesgos naturales"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Riesgos naturales en Colombia: sismos, erupciones e inundaciones — W06
 
 Este bundle cubre **Riesgos naturales en Colombia: sismos, erupciones e inundaciones**, correspondiente a la semana 6 del plan de estudios 2026 de Ciencias Sociales para grado 7. Incluye contextualización moderna (Colombia 2024-2026), preguntas con taxonomía de Bloom variada y competencias ICFES.
 
-## Pregunta 1
-
+## Question 1 [D1]
 **ID:** `COL-SOC-CIU-7-2026-W06-riesgos-naturales-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Social
 
 ### Contexto
@@ -53,10 +57,10 @@ El estudio de los los los riesgos naturales en Colombia en Colombia en Colombia 
 
 ---
 
-## Pregunta 2
-
+## Question 2 [D1]
 **ID:** `COL-SOC-CIU-7-2026-W06-riesgos-naturales-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Interpretación de Textos
 
 ### Contexto
@@ -80,10 +84,10 @@ El estudio de los los los riesgos naturales en Colombia en Colombia en Colombia 
 
 ---
 
-## Pregunta 3
-
+## Question 3 [D1]
 **ID:** `COL-SOC-CIU-7-2026-W06-riesgos-naturales-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Argumentación
 
 ### Contexto
@@ -107,10 +111,10 @@ El estudio de los los los riesgos naturales en Colombia en Colombia en Colombia 
 
 ---
 
-## Pregunta 4
-
+## Question 4 [D1]
 **ID:** `COL-SOC-CIU-7-2026-W06-riesgos-naturales-001-MASTERY-v4`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Social
 
 ### Contexto
@@ -134,10 +138,10 @@ El estudio de los los los riesgos naturales en Colombia en Colombia en Colombia 
 
 ---
 
-## Pregunta 5
-
+## Question 5 [D1]
 **ID:** `COL-SOC-CIU-7-2026-W06-riesgos-naturales-001-MASTERY-v5`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Interpretación de Textos
 
 ### Contexto
@@ -161,10 +165,10 @@ El estudio de los los los riesgos naturales en Colombia en Colombia en Colombia 
 
 ---
 
-## Pregunta 6
-
+## Question 6 [D1]
 **ID:** `COL-SOC-CIU-7-2026-W06-riesgos-naturales-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Argumentación
 
 ### Contexto
@@ -188,10 +192,10 @@ El estudio de los los los riesgos naturales en Colombia en Colombia en Colombia 
 
 ---
 
-## Pregunta 7
-
+## Question 7 [D1]
 **ID:** `COL-SOC-CIU-7-2026-W06-riesgos-naturales-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Social
 
 ### Contexto
@@ -215,10 +219,10 @@ El estudio de los los los riesgos naturales en Colombia en Colombia en Colombia 
 
 ---
 
-## Pregunta 8
-
+## Question 8 [D1]
 **ID:** `COL-SOC-CIU-7-2026-W06-riesgos-naturales-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Interpretación de Textos
 
 ### Contexto
@@ -242,10 +246,10 @@ El estudio de los los los riesgos naturales en Colombia en Colombia en Colombia 
 
 ---
 
-## Pregunta 9
-
+## Question 9 [D1]
 **ID:** `COL-SOC-CIU-7-2026-W06-riesgos-naturales-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Argumentación
 
 ### Contexto
@@ -269,10 +273,10 @@ El estudio de los los los riesgos naturales en Colombia en Colombia en Colombia 
 
 ---
 
-## Pregunta 10
-
+## Question 10 [D1]
 **ID:** `COL-SOC-CIU-7-2026-W06-riesgos-naturales-001-MASTERY-v10`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Social
 
 ### Contexto

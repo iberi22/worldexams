@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-7-2026-W29-tema-semana-29-de-matematicas-001-MASTERY"
+id: "CO-MAT-7-2026-W29-tema-semana-29-de-matematicas-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "matematicas"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 12
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 12
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W29 — Tema Semana 29 de Matematicas
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** Colegio La Presentación en Sincelejo
+**Contexto:** Colegio La Presentación en Sincelejo
 **Expected_Success:** 0.63
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Sincelejo, se discute sobre Tema Semana 29 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 29 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 29 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** Gimnasio Moderno en Bucaramanga
+**Contexto:** Gimnasio Moderno en Bucaramanga
 **Expected_Success:** 0.74
 
 ### Enunciado
 En la clase de Matematicas del Gimnasio Moderno en Bucaramanga, se discute sobre Tema Semana 29 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 29 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 29 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Ibagué
+**Contexto:** I.E. Santa Luisa de Marillac en Ibagué
 **Expected_Success:** 0.55
 
 ### Enunciado
 En la clase de Matematicas del I.E. Santa Luisa de Marillac en Ibagué, se discute sobre Tema Semana 29 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 29 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 29 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** Colegio Nacional San Bartolomé en Pasto
+**Contexto:** Colegio Nacional San Bartolomé en Pasto
 **Expected_Success:** 0.61
 
 ### Enunciado
 En la clase de Matematicas del Colegio Nacional San Bartolomé en Pasto, se discute sobre Tema Semana 29 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 29 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 29 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Cúcuta
+**Contexto:** I.E. Santa Luisa de Marillac en Cúcuta
 **Expected_Success:** 0.78
 
 ### Enunciado
 En la clase de Matematicas del I.E. Santa Luisa de Marillac en Cúcuta, se discute sobre Tema Semana 29 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 29 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 29 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Sincelejo
+**Contexto:** I.E. Jorge Eliécer Gaitán en Sincelejo
 **Expected_Success:** 0.69
 
 ### Enunciado
 En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Sincelejo, se discute sobre Tema Semana 29 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 29 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 29 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. Santa Luisa de Marillac en Cartagena
+**Contexto:** I.E. Santa Luisa de Marillac en Cartagena
 **Expected_Success:** 0.62
 
 ### Enunciado
 En la clase de Matematicas del I.E. Santa Luisa de Marillac en Cartagena, se discute sobre Tema Semana 29 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 29 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 29 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Bogotá
+**Contexto:** I.E. Francisco de Paula Santander en Bogotá
 **Expected_Success:** 0.74
 
 ### Enunciado
 En la clase de Matematicas del I.E. Francisco de Paula Santander en Bogotá, se discute sobre Tema Semana 29 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 29 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 29 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Sincelejo
+**Contexto:** I.E. Jorge Eliécer Gaitán en Sincelejo
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Sincelejo, se discute sobre Tema Semana 29 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 29 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 29 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** I.E. Jorge Eliécer Gaitán en Tunja
+**Contexto:** I.E. Jorge Eliécer Gaitán en Tunja
 **Expected_Success:** 0.52
 
 ### Enunciado
 En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Tunja, se discute sobre Tema Semana 29 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 29 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -244,13 +249,13 @@ El tema de Tema Semana 29 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v11`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Tunja
+**Contexto:** Colegio Nacional San Bartolomé en Tunja
 **Expected_Success:** 0.72
 
 ### Enunciado
 En la clase de Matematicas del Colegio Nacional San Bartolomé en Tunja, se discute sobre Tema Semana 29 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 29 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -266,13 +271,13 @@ El tema de Tema Semana 29 de Matematicas es central en el currículo de 7°. La 
 **ID:** `CO-MAT-7-2026-W00-tema seman-001-MASTERY-v12`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** I.E. Jorge Eliécer Gaitán en Cali
+**Contexto:** I.E. Jorge Eliécer Gaitán en Cali
 **Expected_Success:** 0.68
 
 ### Enunciado
 En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Cali, se discute sobre Tema Semana 29 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 29 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 29 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

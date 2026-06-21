@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W20-repaso-geometria-001-MASTERY"
+id: "CO-MAT-6-2026-W20-repaso-geometria-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W20 — REPASO: Geometría (Perímetros, Áreas y Volúmenes)
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W20-repaso-geometria-001-MASTERY-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Definición de perímetro
+**Contexto:** Definición de perímetro
 
 ### Enunciado
 ¿Qué es el perímetro de una figura?
 
-### Options
+### Opciones
 - [x] A) La suma de todos sus lados <!-- feedback: Correcto. El perímetro es la medida del contorno de una figura. -->
 - [ ] B) El espacio que ocupa <!-- feedback: Incorrecto. Eso es el área. El perímetro es la suma de los lados. -->
 - [ ] C) La distancia entre dos vértices <!-- feedback: Incorrecto. Eso es la medida de un lado específico, no de todo el contorno. -->
@@ -48,13 +51,14 @@ El perímetro es la medida del contorno de una figura, se calcula sumando la lon
 
 **ID:** `CO-MAT-6-2026-W20-repaso-geometria-001-MASTERY-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Área del triángulo
+**Contexto:** Área del triángulo
 
 ### Enunciado
 ¿Cuál es la fórmula del área de un triángulo?
 
-### Options
+### Opciones
 - [x] A) (base × altura) ÷ 2 <!-- feedback: Correcto. El triángulo es la mitad del rectángulo que lo contiene. -->
 - [ ] B) base × altura <!-- feedback: Incorrecto. Esa es el área del rectángulo. El triángulo es la mitad: (b×h)/2. -->
 - [ ] C) base + altura <!-- feedback: Incorrecto. Se multiplica y divide entre 2, no se suma. -->
@@ -69,13 +73,14 @@ El área de un triángulo es la mitad del área del rectángulo de igual base y 
 
 **ID:** `CO-MAT-6-2026-W20-repaso-geometria-001-MASTERY-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Perímetro de un terreno
+**Contexto:** Perímetro de un terreno
 
 ### Enunciado
 Un lote rectangular mide 18 m de frente y 25 m de fondo. ¿Cuánto mide su perímetro?
 
-### Options
+### Opciones
 - [x] A) 86 m <!-- feedback: Correcto. P=2×(18+25)=2×43=86 m. -->
 - [ ] B) 43 m <!-- feedback: Incorrecto. 18+25=43 es la suma de un frente y un fondo. Se multiplica por 2: 2×43=86 m. -->
 - [ ] C) 450 m <!-- feedback: Incorrecto. 18×25=450 es el área, no el perímetro. -->
@@ -90,13 +95,14 @@ Perímetro = 2×(largo+ancho)=2×(18+25)=2×43=86 metros.
 
 **ID:** `CO-MAT-6-2026-W20-repaso-geometria-001-MASTERY-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Área para sembrar
+**Contexto:** Área para sembrar
 
 ### Enunciado
 Don Pedro siembra maíz en un terreno cuadrado de 30 m de lado. ¿Cuál es el área que siembra?
 
-### Options
+### Opciones
 - [x] A) 900 m² <!-- feedback: Correcto. Área del cuadrado = 30² = 900 m². -->
 - [ ] B) 120 m² <!-- feedback: Incorrecto. 30×4=120 es el perímetro. Área = lado² = 30×30=900. -->
 - [ ] C) 60 m² <!-- feedback: Incorrecto. 30×2=60. Error: multiplicar lado por 2 en vez de elevarlo al cuadrado. -->
@@ -111,13 +117,14 @@ Don Pedro siembra maíz en un terreno cuadrado de 30 m de lado. ¿Cuál es el á
 
 **ID:** `CO-MAT-6-2026-W20-repaso-geometria-001-MASTERY-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Área de un triángulo
+**Contexto:** Área de un triángulo
 
 ### Enunciado
 Un terreno triangular tiene 12 m de base y 9 m de altura. ¿Cuál es su área?
 
-### Options
+### Opciones
 - [x] A) 54 m² <!-- feedback: Correcto. A=(12×9)/2=108/2=54 m². -->
 - [ ] B) 108 m² <!-- feedback: Incorrecto. 12×9=108 es el área del rectángulo. El triángulo es la mitad: 54 m². -->
 - [ ] C) 21 m² <!-- feedback: Incorrecto. 12+9=21. Error: sumar en vez de multiplicar y dividir. -->
@@ -132,13 +139,14 @@ Un terreno triangular tiene 12 m de base y 9 m de altura. ¿Cuál es su área?
 
 **ID:** `CO-MAT-6-2026-W20-repaso-geometria-001-MASTERY-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Cercar con alambre
+**Contexto:** Cercar con alambre
 
 ### Enunciado
 Una parcela rectangular de 24 m por 15 m se cerca con 3 hilos de alambre. ¿Cuántos metros de alambre se necesitan?
 
-### Options
+### Opciones
 - [x] A) 234 m <!-- feedback: Correcto. Perímetro=2×(24+15)=78 m. 3 hilos: 78×3=234 m. -->
 - [ ] B) 78 m <!-- feedback: Incorrecto. Eso es para un hilo. La pregunta dice 3 hilos: 78×3=234 m. -->
 - [ ] C) 117 m <!-- feedback: Incorrecto. 78×1,5=117. Error: solo 1,5 hilos en vez de 3. -->
@@ -153,13 +161,14 @@ Perímetro = 2×(24+15)=78 m. 3 hilos = 78×3 = 234 metros de alambre en total.
 
 **ID:** `CO-MAT-6-2026-W20-repaso-geometria-001-MASTERY-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Área de un romboide
+**Contexto:** Área de un romboide
 
 ### Enunciado
 Un romboide tiene base de 18 cm y altura de 12 cm. ¿Cuál es su área?
 
-### Options
+### Opciones
 - [x] A) 216 cm² <!-- feedback: Correcto. A=base×altura=18×12=216 cm². -->
 - [ ] B) 60 cm² <!-- feedback: Incorrecto. 18+12+18+12=60. Error: calcular perímetro en vez de área. -->
 - [ ] C) 108 cm² <!-- feedback: Incorrecto. (18×12)/2=108. Error: dividir entre 2 como si fuera triángulo. -->
@@ -174,13 +183,14 @@ El área del romboide se calcula igual que la del rectángulo: A=base×altura=18
 
 **ID:** `CO-MAT-6-2026-W20-repaso-geometria-001-MASTERY-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Comparación área y perímetro
+**Contexto:** Comparación área y perímetro
 
 ### Enunciado
 Un cuadrado y un rectángulo tienen el mismo perímetro de 40 m. El cuadrado tiene 10 m de lado. ¿Cuál tiene mayor área?
 
-### Options
+### Opciones
 - [x] A) El cuadrado: 100 m² vs rectángulo: 96 m² <!-- feedback: Correcto. Cuadrado: A=10²=100 m². Rectángulo con L=12, A=8: área=12×8=96 m² < 100. -->
 - [ ] B) El rectángulo tiene mayor área <!-- feedback: Incorrecto. Con el mismo perímetro, el cuadrado siempre tiene la mayor área. -->
 - [ ] C) Ambas áreas son iguales <!-- feedback: Incorrecto. Aunque tengan el mismo perímetro, las áreas pueden ser diferentes. -->
@@ -195,13 +205,14 @@ Cuadrado: 10×10=100 m². Rectángulo (mismo perímetro): L=12, A=8, área=12×8
 
 **ID:** `CO-MAT-6-2026-W20-repaso-geometria-001-MASTERY-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Diseño de un parque
+**Contexto:** Diseño de un parque
 
 ### Enunciado
 Un parque rectangular de 50 m×30 m tiene dos jardineras cuadradas de 4 m de lado cada una. ¿Qué área de pasto queda?
 
-### Options
+### Opciones
 - [x] A) 1.468 m² <!-- feedback: Correcto. Área parque=50×30=1.500 m². Jardineras=2×(4²)=32 m². Pasto=1.500-32=1.468 m². -->
 - [ ] B) 1.484 m² <!-- feedback: Incorrecto. 1.500-16=1.484. Error: descontar solo una jardinera, son dos. -->
 - [ ] C) 1.500 m² <!-- feedback: Incorrecto. Ese es el área total sin descontar las jardineras. -->
@@ -216,13 +227,14 @@ Un parque rectangular de 50 m×30 m tiene dos jardineras cuadradas de 4 m de lad
 
 **ID:** `CO-MAT-6-2026-W20-repaso-geometria-001-MASTERY-010-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Volumen de una caja abierta
+**Contexto:** Volumen de una caja abierta
 
 ### Enunciado
 Se construye una caja abierta cortando cuadrados de 5 cm en las esquinas de una lámina de 30 cm×20 cm. ¿Cuál es el volumen de la caja?
 
-### Options
+### Opciones
 - [x] A) 1.000 cm³ <!-- feedback: Correcto. Base: (30-10)×(20-10)=20×10=200 cm². Altura=5 cm. V=200×5=1.000 cm³. -->
 - [ ] B) 500 cm³ <!-- feedback: Incorrecto. (30-10)×(20-10)=200. 200×5=1.000. -->
 - [ ] C) 3.000 cm³ <!-- feedback: Incorrecto. 30×20×5=3.000. Error: no descontar las esquinas cortadas. -->

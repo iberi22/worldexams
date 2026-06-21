@@ -1,24 +1,32 @@
 ---
-id: "EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY"
+id: "EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY-bundle"
 country: "ecuador"
 exam: "BGU - Ministerio de Educacion"
 grado: 11
 asignatura: "Ciencias Naturales"
 tema: "movimiento-parabolico-circular"
-semana: 30
+week: "W30"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "BGU - Ministerio de Educacion Ecuador / Senescyt"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle - Ciencias Naturales: Movimiento Parabolico Circular (W30)
 **20 preguntas | Ciencias Naturales | BGU - Ministerio de Educacion**
 
 ---
-## Pregunta 1 [D4]
+## Question 1 [D4]
 **ID:** `EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando movimiento parabolico circular.
 
@@ -26,21 +34,22 @@ alignment: "BGU - Ministerio de Educacion Ecuador / Senescyt"
 Simplifique: (6)(1x + 41)
 
 ### Opciones
-- [x] **A)** 6x + 246
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 6x + 41
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 7x + 246
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 6x - 246
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 6x + 246 <!-- feedback: Correcto! 6x + 246 -->
+
+- [ ] B) 6x + 41 <!-- feedback: Incorrecto. 6x + 41 -->
+
+- [ ] C) 7x + 246 <!-- feedback: Incorrecto. 7x + 246 -->
+
+- [ ] D) 6x - 246 <!-- feedback: Incorrecto. 6x - 246 -->
 
 **Explicacion:** Aplicar distributiva: (6)(1x + 41) = 6x + 246.
 
 ---
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando movimiento parabolico circular.
 
@@ -48,21 +57,22 @@ Simplifique: (6)(1x + 41)
 Resuelve: 2(x + 6) = 18
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] C) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] D) 5 <!-- feedback: Incorrecto. 5 -->
 
 **Explicacion:** 2(x+6) = 18 -> x+6 = 9 -> x = 3.
 
 ---
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando movimiento parabolico circular.
 
@@ -70,21 +80,22 @@ Resuelve: 2(x + 6) = 18
 Maria compro 8 cuadernos a $10.3 c/u en Santo Domingo. Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $80.3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** $8.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $10.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $18.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $80.3 <!-- feedback: Correcto! $80.3 -->
+
+- [ ] B) $8.3 <!-- feedback: Incorrecto. $8.3 -->
+
+- [ ] C) $10.3 <!-- feedback: Incorrecto. $10.3 -->
+
+- [ ] D) $18.3 <!-- feedback: Incorrecto. $18.3 -->
 
 **Explicacion:** Total = 8 x 10 = $80.3.
 
 ---
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY-v4`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando movimiento parabolico circular.
 
@@ -92,21 +103,22 @@ Maria compro 8 cuadernos a $10.3 c/u en Santo Domingo. Cuanto gasto?
 Un estudiante de Colegio Nacional Vicente Rocafuerte en Guayaquil grafica f(x) = 8x + 5. Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 8
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 13
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 8 <!-- feedback: Correcto! 8 -->
+
+- [ ] B) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [ ] C) 13 <!-- feedback: Incorrecto. 13 -->
+
+- [ ] D) 4 <!-- feedback: Incorrecto. 4 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 8.
 
 ---
-## Pregunta 5 [D3]
+## Question 5 [D3]
 **ID:** `EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando movimiento parabolico circular.
 
@@ -114,21 +126,22 @@ Un estudiante de Colegio Nacional Vicente Rocafuerte en Guayaquil grafica f(x) =
 En Machala, un estudiante del Colegio Nacional Nueve de Octubre resuelve: 4x + 11 = 31. Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **D)** 11
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 1 <!-- feedback: Incorrecto. 1 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 11 <!-- feedback: Incorrecto. 11 -->
 
 **Explicacion:** Se resta 11 de ambos lados. Luego se divide por 4: x = 5.
 
 ---
-## Pregunta 6 [D4]
+## Question 6 [D4]
 **ID:** `EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando movimiento parabolico circular.
 
@@ -136,21 +149,22 @@ En Machala, un estudiante del Colegio Nacional Nueve de Octubre resuelve: 4x + 1
 Simplifique: (2)(1x + 17)
 
 ### Opciones
-- [x] **A)** 2x + 34
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 2x + 17
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 3x + 34
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 2x - 34
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 2x + 34 <!-- feedback: Correcto! 2x + 34 -->
+
+- [ ] B) 2x + 17 <!-- feedback: Incorrecto. 2x + 17 -->
+
+- [ ] C) 3x + 34 <!-- feedback: Incorrecto. 3x + 34 -->
+
+- [ ] D) 2x - 34 <!-- feedback: Incorrecto. 2x - 34 -->
 
 **Explicacion:** Aplicar distributiva: (2)(1x + 17) = 2x + 34.
 
 ---
-## Pregunta 7 [D3]
+## Question 7 [D3]
 **ID:** `EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando movimiento parabolico circular.
 
@@ -158,21 +172,22 @@ Simplifique: (2)(1x + 17)
 Resuelve: 2(x + 6) = 18
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] C) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] D) 5 <!-- feedback: Incorrecto. 5 -->
 
 **Explicacion:** 2(x+6) = 18 -> x+6 = 9 -> x = 3.
 
 ---
-## Pregunta 8 [D4]
+## Question 8 [D4]
 **ID:** `EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando movimiento parabolico circular.
 
@@ -180,21 +195,22 @@ Resuelve: 2(x + 6) = 18
 Maria compro 8 cuadernos a $5.3 c/u en Ibarra. Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $40.3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** $8.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $5.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $13.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $40.3 <!-- feedback: Correcto! $40.3 -->
+
+- [ ] B) $8.3 <!-- feedback: Incorrecto. $8.3 -->
+
+- [ ] C) $5.3 <!-- feedback: Incorrecto. $5.3 -->
+
+- [ ] D) $13.3 <!-- feedback: Incorrecto. $13.3 -->
 
 **Explicacion:** Total = 8 x 5 = $40.3.
 
 ---
-## Pregunta 9 [D5]
+## Question 9 [D5]
 **ID:** `EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando movimiento parabolico circular.
 
@@ -202,21 +218,22 @@ Maria compro 8 cuadernos a $5.3 c/u en Ibarra. Cuanto gasto?
 Un estudiante de Colegio Benigno Malo en Cuenca grafica f(x) = 4x + 2. Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 4
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 4 <!-- feedback: Correcto! 4 -->
+
+- [ ] B) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] C) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] D) 3 <!-- feedback: Incorrecto. 3 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 4.
 
 ---
-## Pregunta 10 [D3]
+## Question 10 [D3]
 **ID:** `EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando movimiento parabolico circular.
 
@@ -224,21 +241,22 @@ Un estudiante de Colegio Benigno Malo en Cuenca grafica f(x) = 4x + 2. Cual es l
 En Loja, un estudiante del Colegio Nacional Bernardo Valdivieso resuelve: 2x + 3 = 13. Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **D)** 11
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] B) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 11 <!-- feedback: Incorrecto. 11 -->
 
 **Explicacion:** Se resta 3 de ambos lados. Luego se divide por 2: x = 5.
 
 ---
-## Pregunta 11 [D4]
+## Question 11 [D4]
 **ID:** `EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY-v11`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando movimiento parabolico circular.
 
@@ -246,21 +264,22 @@ En Loja, un estudiante del Colegio Nacional Bernardo Valdivieso resuelve: 2x + 3
 Simplifique: (4)(6x + 25)
 
 ### Opciones
-- [x] **A)** 24x + 100
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 24x + 25
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 10x + 100
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 24x - 100
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 24x + 100 <!-- feedback: Correcto! 24x + 100 -->
+
+- [ ] B) 24x + 25 <!-- feedback: Incorrecto. 24x + 25 -->
+
+- [ ] C) 10x + 100 <!-- feedback: Incorrecto. 10x + 100 -->
+
+- [ ] D) 24x - 100 <!-- feedback: Incorrecto. 24x - 100 -->
 
 **Explicacion:** Aplicar distributiva: (4)(6x + 25) = 24x + 100.
 
 ---
-## Pregunta 12 [D3]
+## Question 12 [D3]
 **ID:** `EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY-v12`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando movimiento parabolico circular.
 
@@ -268,21 +287,22 @@ Simplifique: (4)(6x + 25)
 Resuelve: 2(x + 4) = 14
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [ ] C) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] D) 3 <!-- feedback: Incorrecto. 3 -->
 
 **Explicacion:** 2(x+4) = 14 -> x+4 = 7 -> x = 3.
 
 ---
-## Pregunta 13 [D4]
+## Question 13 [D4]
 **ID:** `EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY-v13`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando movimiento parabolico circular.
 
@@ -290,21 +310,22 @@ Resuelve: 2(x + 4) = 14
 Maria compro 3 cuadernos a $8.1 c/u en Ibarra. Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $24.1
-  <!-- feedback: Correcto! -->
-- [ ] **B)** $3.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $8.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $11.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $24.1 <!-- feedback: Correcto! $24.1 -->
+
+- [ ] B) $3.1 <!-- feedback: Incorrecto. $3.1 -->
+
+- [ ] C) $8.1 <!-- feedback: Incorrecto. $8.1 -->
+
+- [ ] D) $11.1 <!-- feedback: Incorrecto. $11.1 -->
 
 **Explicacion:** Total = 3 x 8 = $24.1.
 
 ---
-## Pregunta 14 [D5]
+## Question 14 [D5]
 **ID:** `EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY-v14`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando movimiento parabolico circular.
 
@@ -312,21 +333,22 @@ Maria compro 3 cuadernos a $8.1 c/u en Ibarra. Cuanto gasto?
 Un estudiante de Colegio Nacional Bernardo Valdivieso en Loja grafica f(x) = 8x + 9. Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 8
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 17
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 8 <!-- feedback: Correcto! 8 -->
+
+- [ ] B) 9 <!-- feedback: Incorrecto. 9 -->
+
+- [ ] C) 17 <!-- feedback: Incorrecto. 17 -->
+
+- [ ] D) 2 <!-- feedback: Incorrecto. 2 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 8.
 
 ---
-## Pregunta 15 [D3]
+## Question 15 [D3]
 **ID:** `EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY-v15`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando movimiento parabolico circular.
 
@@ -334,21 +356,22 @@ Un estudiante de Colegio Nacional Bernardo Valdivieso en Loja grafica f(x) = 8x 
 En Loja, un estudiante del Colegio Nacional Bernardo Valdivieso resuelve: 3x + 11 = 26. Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **D)** 10
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] B) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 10 <!-- feedback: Incorrecto. 10 -->
 
 **Explicacion:** Se resta 11 de ambos lados. Luego se divide por 3: x = 5.
 
 ---
-## Pregunta 16 [D4]
+## Question 16 [D4]
 **ID:** `EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY-v16`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando movimiento parabolico circular.
 
@@ -356,21 +379,22 @@ En Loja, un estudiante del Colegio Nacional Bernardo Valdivieso resuelve: 3x + 1
 Simplifique: (4)(1x + 12)
 
 ### Opciones
-- [x] **A)** 4x + 48
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 4x + 12
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 5x + 48
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 4x - 48
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 4x + 48 <!-- feedback: Correcto! 4x + 48 -->
+
+- [ ] B) 4x + 12 <!-- feedback: Incorrecto. 4x + 12 -->
+
+- [ ] C) 5x + 48 <!-- feedback: Incorrecto. 5x + 48 -->
+
+- [ ] D) 4x - 48 <!-- feedback: Incorrecto. 4x - 48 -->
 
 **Explicacion:** Aplicar distributiva: (4)(1x + 12) = 4x + 48.
 
 ---
-## Pregunta 17 [D3]
+## Question 17 [D3]
 **ID:** `EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY-v17`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando movimiento parabolico circular.
 
@@ -378,21 +402,22 @@ Simplifique: (4)(1x + 12)
 Resuelve: 2(x + 7) = 20
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] C) 9 <!-- feedback: Incorrecto. 9 -->
+
+- [ ] D) 6 <!-- feedback: Incorrecto. 6 -->
 
 **Explicacion:** 2(x+7) = 20 -> x+7 = 10 -> x = 3.
 
 ---
-## Pregunta 18 [D4]
+## Question 18 [D4]
 **ID:** `EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY-v18`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando movimiento parabolico circular.
 
@@ -400,21 +425,22 @@ Resuelve: 2(x + 7) = 20
 Maria compro 8 cuadernos a $3.1 c/u en Cuenca. Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $24.1
-  <!-- feedback: Correcto! -->
-- [ ] **B)** $8.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $3.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $11.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $24.1 <!-- feedback: Correcto! $24.1 -->
+
+- [ ] B) $8.1 <!-- feedback: Incorrecto. $8.1 -->
+
+- [ ] C) $3.1 <!-- feedback: Incorrecto. $3.1 -->
+
+- [ ] D) $11.1 <!-- feedback: Incorrecto. $11.1 -->
 
 **Explicacion:** Total = 8 x 3 = $24.1.
 
 ---
-## Pregunta 19 [D5]
+## Question 19 [D5]
 **ID:** `EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY-v19`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando movimiento parabolico circular.
 
@@ -422,21 +448,22 @@ Maria compro 8 cuadernos a $3.1 c/u en Cuenca. Cuanto gasto?
 Un estudiante de Colegio Nacional Olmedo en Portoviejo grafica f(x) = 3x + 1. Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 1 <!-- feedback: Incorrecto. 1 -->
+
+- [ ] C) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [ ] D) 3 <!-- feedback: Incorrecto. 3 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 3.
 
 ---
-## Pregunta 20 [D3]
+## Question 20 [D3]
 **ID:** `EC-CIE-11-2026-W30-movimiento-parabolico-circular-001-MASTERY-v20`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando movimiento parabolico circular.
 
@@ -444,14 +471,13 @@ Un estudiante de Colegio Nacional Olmedo en Portoviejo grafica f(x) = 3x + 1. Cu
 En Quito, un estudiante del Colegio Nacional Mejia resuelve: 5x + 5 = 30. Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **D)** 12
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] B) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 12 <!-- feedback: Incorrecto. 12 -->
 
 **Explicacion:** Se resta 5 de ambos lados. Luego se divide por 5: x = 5.
 

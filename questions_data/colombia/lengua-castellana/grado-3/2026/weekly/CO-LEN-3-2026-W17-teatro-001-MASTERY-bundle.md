@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-3-2026-W17-teatro-001-MASTERY"
+id: "CO-LEN-3-2026-W17-teatro-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 3"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Teatro - diálogo - Grado 3
 
@@ -22,7 +24,7 @@ Este bundle explora el género dramático, sus elementos (diálogos, acotaciones
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-3-2026-W17-teatro-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -33,21 +35,20 @@ Este bundle explora el género dramático, sus elementos (diálogos, acotaciones
 ¿Cuál es el propósito principal de un texto teatral?
 
 ### Opciones
-- [ ] A) Ser leído en voz baja en la biblioteca.
-  <!-- feedback: Se puede hacer, pero no es su fin principal. -->
-- [x] B) Ser representado por actores frente a un público.
-  <!-- feedback: ¡Correcto! El teatro está hecho para ser actuado. -->
-- [ ] C) Dar instrucciones de cómo lavar la ropa.
-  <!-- feedback: No, eso es un texto instructivo. -->
-- [ ] D) Contar noticias reales sobre el clima.
-  <!-- feedback: No, eso es un texto informativo. -->
+- [ ] A) Ser leído en voz baja en la biblioteca. <!-- feedback: Incorrecto. Ser leído en voz baja en la biblioteca. -->
+
+- [x] B) Ser representado por actores frente a un público. <!-- feedback: Correcto! Ser representado por actores frente a un público. -->
+
+- [ ] C) Dar instrucciones de cómo lavar la ropa. <!-- feedback: Incorrecto. Dar instrucciones de cómo lavar la ropa. -->
+
+- [ ] D) Contar noticias reales sobre el clima. <!-- feedback: Incorrecto. Contar noticias reales sobre el clima. -->
 
 ### Explicación Pedagogica
 El texto dramático es la base escrita de la representación teatral, donde la acción se comunica a través del diálogo y el movimiento.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-3-2026-W17-teatro-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -58,21 +59,20 @@ El texto dramático es la base escrita de la representación teatral, donde la a
 ¿Cómo se le llama a la conversación entre dos o más personajes en una obra de teatro?
 
 ### Opciones
-- [ ] A) Monólogo
-  <!-- feedback: Eso es cuando habla uno solo. -->
-- [x] B) Diálogo
-  <!-- feedback: ¡Muy bien! El diálogo es el elemento central del teatro. -->
-- [ ] C) Párrafo
-  <!-- feedback: Es un término de textos narrativos o informativos. -->
-- [ ] D) Verso
-  <!-- feedback: Es un término de la poesía. -->
+- [ ] A) Monólogo <!-- feedback: Incorrecto. Monólogo -->
+
+- [x] B) Diálogo <!-- feedback: Correcto! Diálogo -->
+
+- [ ] C) Párrafo <!-- feedback: Incorrecto. Párrafo -->
+
+- [ ] D) Verso <!-- feedback: Incorrecto. Verso -->
 
 ### Explicación Pedagogica
 El diálogo permite que la historia avance y que el público conozca los pensamientos y deseos de los personajes.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-3-2026-W17-teatro-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -83,21 +83,20 @@ El diálogo permite que la historia avance y que el público conozca los pensami
 En un libreto, ¿qué son las **acotaciones**?
 
 ### Opciones
-- [ ] A) Los nombres de los personajes que gritan.
-  <!-- feedback: No son los nombres. -->
-- [x] B) Las indicaciones sobre cómo deben actuar, moverse o vestirse los personajes.
-  <!-- feedback: ¡Excelente! Suelen ir entre paréntesis o en letra diferente. -->
-- [ ] C) La lista de precios de las entradas al teatro.
-  <!-- feedback: No tiene nada que ver con el texto dramático. -->
-- [ ] D) Las canciones que suenan al final.
-  <!-- feedback: Eso es música, no acotaciones. -->
+- [ ] A) Los nombres de los personajes que gritan. <!-- feedback: Incorrecto. Los nombres de los personajes que gritan -->
+
+- [x] B) Las indicaciones sobre cómo deben actuar, moverse o vestirse los personajes. <!-- feedback: Correcto! Las indicaciones sobre cómo deben actuar, moverse o vestirse -->
+
+- [ ] C) La lista de precios de las entradas al teatro. <!-- feedback: Incorrecto. La lista de precios de las entradas al t -->
+
+- [ ] D) Las canciones que suenan al final. <!-- feedback: Incorrecto. Las canciones que suenan al final. -->
 
 ### Explicación Pedagogica
 Las acotaciones proporcionan información visual y auditiva necesaria para la puesta en escena de la obra.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-3-2026-W17-teatro-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -110,21 +109,20 @@ Observa este fragmento:
 ¿Cuál es la acotación en este texto?
 
 ### Opciones
-- [ ] A) VENDEDOR
-  <!-- feedback: Este es el nombre del personaje. -->
-- [x] B) (Sonriendo amable)
-  <!-- feedback: ¡Correcto! Indica el gesto que debe hacer el actor. -->
-- [ ] C) ¿Qué desea comprar hoy, niña?
-  <!-- feedback: Este es el parlamento o diálogo. -->
-- [ ] D) Todo el texto es una acotación.
-  <!-- feedback: No, hay diferentes elementos. -->
+- [ ] A) VENDEDOR <!-- feedback: Incorrecto. VENDEDOR -->
+
+- [x] B) (Sonriendo amable) <!-- feedback: Correcto! (Sonriendo amable) -->
+
+- [ ] C) ¿Qué desea comprar hoy, niña? <!-- feedback: Incorrecto. ¿Qué desea comprar hoy, niña? -->
+
+- [ ] D) Todo el texto es una acotación. <!-- feedback: Incorrecto. Todo el texto es una acotación. -->
 
 ### Explicación Pedagogica
 Reconocer las acotaciones ayuda a comprender no solo lo que dicen los personajes, sino cómo lo dicen.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-3-2026-W17-teatro-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -135,21 +133,20 @@ Reconocer las acotaciones ayuda a comprender no solo lo que dicen los personajes
 ¿Cómo se llama el conjunto de objetos, decorados y luces que ambientan el lugar de la obra?
 
 ### Opciones
-- [ ] A) Guion
-  <!-- feedback: El guion es el texto escrito. -->
-- [ ] B) Público
-  <!-- feedback: El público son las personas que ven la obra. -->
-- [x] C) Escenografía
-  <!-- feedback: ¡Así es! Todo lo que vemos en el escenario es la escenografía. -->
-- [ ] D) Maquillaje
-  <!-- feedback: El maquillaje va en la cara de los actores. -->
+- [ ] A) Guion <!-- feedback: Incorrecto. Guion -->
+
+- [ ] B) Público <!-- feedback: Incorrecto. Público -->
+
+- [x] C) Escenografía <!-- feedback: Correcto! Escenografía -->
+
+- [ ] D) Maquillaje <!-- feedback: Incorrecto. Maquillaje -->
 
 ### Explicación Pedagogica
 La escenografía ayuda a crear la ilusión de realidad y sitúa al espectador en el espacio y tiempo de la historia.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-3-2026-W17-teatro-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -160,21 +157,20 @@ La escenografía ayuda a crear la ilusión de realidad y sitúa al espectador en
 ¿Cuál es la diferencia más importante entre un cuento y una obra de teatro?
 
 ### Opciones
-- [ ] A) Que los cuentos son más largos.
-  <!-- feedback: No siempre es cierto. -->
-- [ ] B) Que en el teatro no hay personajes.
-  <!-- feedback: ¡Claro que hay personajes en el teatro! -->
-- [x] C) Que en el teatro no hay un narrador que cuenta todo, sino que los personajes hablan directamente.
-  <!-- feedback: ¡Exacto! En el drama la acción es directa. -->
-- [ ] D) Que los cuentos son aburridos y el teatro no.
-  <!-- feedback: Es una opinión personal, no una característica literaria. -->
+- [ ] A) Que los cuentos son más largos. <!-- feedback: Incorrecto. Que los cuentos son más largos. -->
+
+- [ ] B) Que en el teatro no hay personajes. <!-- feedback: Incorrecto. Que en el teatro no hay personajes. -->
+
+- [x] C) Que en el teatro no hay un narrador que cuenta todo, sino que los personajes hablan directamente. <!-- feedback: Correcto! Que en el teatro no hay un narrador que cuenta todo, sino qu -->
+
+- [ ] D) Que los cuentos son aburridos y el teatro no. <!-- feedback: Incorrecto. Que los cuentos son aburridos y el teatr -->
 
 ### Explicación Pedagogica
 El género dramático se caracteriza por la ausencia de narrador y la presencia de la acción en tiempo presente.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-3-2026-W17-teatro-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -185,21 +181,20 @@ El género dramático se caracteriza por la ausencia de narrador y la presencia 
 Cuando se cierra el telón para cambiar el decorado o descansar un momento, decimos que ha terminado un:
 
 ### Opciones
-- [ ] A) Capítulo
-  <!-- feedback: Eso es para libros. -->
-- [x] B) Acto
-  <!-- feedback: ¡Muy bien! Los actos son las partes principales de una obra de teatro. -->
-- [ ] C) Verso
-  <!-- feedback: Eso es para poemas. -->
-- [ ] D) Título
-  <!-- feedback: El título es el nombre de la obra. -->
+- [ ] A) Capítulo <!-- feedback: Incorrecto. Capítulo -->
+
+- [x] B) Acto <!-- feedback: Correcto! Acto -->
+
+- [ ] C) Verso <!-- feedback: Incorrecto. Verso -->
+
+- [ ] D) Título <!-- feedback: Incorrecto. Título -->
 
 ### Explicación Pedagogica
 Las obras de teatro se dividen en actos (marcados por el telón) y escenas (marcadas por la entrada y salida de personajes).
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-3-2026-W17-teatro-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -210,21 +205,20 @@ Las obras de teatro se dividen en actos (marcados por el telón) y escenas (marc
 ¿Qué debe hacer un actor para representar bien su personaje?
 
 ### Opciones
-- [ ] A) Leer el libreto en voz alta sin moverse.
-  <!-- feedback: Eso sería una lectura, no actuar. -->
-- [x] B) Estudiar sus diálogos y usar gestos y tono de voz adecuados.
-  <!-- feedback: ¡Excelente! La expresión corporal y vocal es clave. -->
-- [ ] C) Mirar al público todo el tiempo y saludar a sus amigos.
-  <!-- feedback: No, debe mantenerse dentro de la historia (su personaje). -->
-- [ ] D) Inventar todo lo que va a decir sin leer el guion.
-  <!-- feedback: Aunque existe la improvisación, lo ideal es seguir el guion. -->
+- [ ] A) Leer el libreto en voz alta sin moverse. <!-- feedback: Incorrecto. Leer el libreto en voz alta sin moverse. -->
+
+- [x] B) Estudiar sus diálogos y usar gestos y tono de voz adecuados. <!-- feedback: Correcto! Estudiar sus diálogos y usar gestos y tono de voz adecuados. -->
+
+- [ ] C) Mirar al público todo el tiempo y saludar a sus amigos. <!-- feedback: Incorrecto. Mirar al público todo el tiempo y saluda -->
+
+- [ ] D) Inventar todo lo que va a decir sin leer el guion. <!-- feedback: Incorrecto. Inventar todo lo que va a decir sin leer -->
 
 ### Explicación Pedagogica
 La actuación requiere la integración de voz, cuerpo y emoción para dar vida a un personaje ficticio.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-3-2026-W17-teatro-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -235,21 +229,20 @@ La actuación requiere la integración de voz, cuerpo y emoción para dar vida a
 ¿Por qué es importante el vestuario en una obra de teatro?
 
 ### Opciones
-- [ ] A) Para que los actores no pasen frío.
-  <!-- feedback: No es su función principal. -->
-- [x] B) Porque ayuda al público a saber quién es cada personaje y en qué época vive.
-  <!-- feedback: ¡Correcto! El vestuario comunica mucha información visual. -->
-- [ ] C) Porque la ropa de diario es muy fea.
-  <!-- feedback: No, es una cuestión de representación artística. -->
-- [ ] D) Solo se usa si los actores no tienen ropa propia.
-  <!-- feedback: El vestuario es parte del diseño artístico de la obra. -->
+- [ ] A) Para que los actores no pasen frío. <!-- feedback: Incorrecto. Para que los actores no pasen frío. -->
+
+- [x] B) Porque ayuda al público a saber quién es cada personaje y en qué época vive. <!-- feedback: Correcto! Porque ayuda al público a saber quién es cada personaje y en -->
+
+- [ ] C) Porque la ropa de diario es muy fea. <!-- feedback: Incorrecto. Porque la ropa de diario es muy fea. -->
+
+- [ ] D) Solo se usa si los actores no tienen ropa propia. <!-- feedback: Incorrecto. Solo se usa si los actores no tienen rop -->
 
 ### Explicación Pedagogica
 El vestuario y la caracterización son elementos que apoyan la construcción del personaje y la atmósfera de la obra.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-3-2026-W17-teatro-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -260,14 +253,13 @@ El vestuario y la caracterización son elementos que apoyan la construcción del
 ¿Cuál es la forma correcta de escribir el inicio de un diálogo en tu guion?
 
 ### Opciones
-- [ ] A) Hola amigo ¿cómo estás? dijo Juan.
-  <!-- feedback: Esto es formato de cuento. -->
-- [x] B) JUAN: ¡Hola, amigo! ¿Cómo estás?
-  <!-- feedback: ¡Muy bien! Nombre en mayúsculas, dos puntos y luego el diálogo. -->
-- [ ] C) Juan saludó a su amigo en el parque.
-  <!-- feedback: Esto es una narración o descripción. -->
-- [ ] D) "Hola amigo"
-  <!-- feedback: Faltan los elementos propios del guion teatral. -->
+- [ ] A) Hola amigo ¿cómo estás? dijo Juan. <!-- feedback: Incorrecto. Hola amigo ¿cómo estás? dijo Juan. -->
+
+- [x] B) JUAN: ¡Hola, amigo! ¿Cómo estás? <!-- feedback: Correcto! JUAN: ¡Hola, amigo! ¿Cómo estás? -->
+
+- [ ] C) Juan saludó a su amigo en el parque. <!-- feedback: Incorrecto. Juan saludó a su amigo en el parque. -->
+
+- [ ] D) "Hola amigo" <!-- feedback: Incorrecto. "Hola amigo" -->
 
 ### Explicación Pedagogica
 El formato de guion teatral es específico: nombre del personaje destacado seguido de sus palabras, para facilitar la lectura de los actores.

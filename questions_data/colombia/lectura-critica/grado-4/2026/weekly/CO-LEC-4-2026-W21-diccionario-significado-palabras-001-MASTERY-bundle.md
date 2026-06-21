@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W21-diccionario-significado-palabras-001-MASTERY"
+id: "CO-LEC-4-2026-W21-diccionario-significado-palabras-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "diccionario-significado-palabras"
-semana: "W21"
+week: "W21"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "diccionario, significado, definición, consulta, orden alfabé
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W21: El diccionario y el significado de palabras
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W21-diccionario-significado-palabras-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Orden alfabético.
+**Contexto:** Orden alfabético.
 
 ### Enunciado
 *"¿Qué palabra va primero en el diccionario?"* A) casa B) árbol C) burro
 
-### Options
-- [ ] A) casa.
+### Opciones
+- [ ] A) casa. <!-- feedback: Incorrecto. casa. -->
 - [x] B) árbol. <!-- feedback: Correcto. á va antes que b y c. -->
-- [ ] C) burro.
-- [ ] D) No se sabe.
+- [ ] C) burro. <!-- feedback: Incorrecto. burro. -->
+- [ ] D) No se sabe. <!-- feedback: Incorrecto. No se sabe. -->
 
 ### Explicación Pedagógica
 Orden alfabético.
@@ -49,17 +54,18 @@ Orden alfabético.
 
 **ID:** `CO-LEC-4-2026-W21-diccionario-significado-palabras-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Definición.
+**Contexto:** Definición.
 
 ### Enunciado
 *"¿Qué informa el diccionario sobre las palabras?"*
 
-### Options
-- [ ] A) Cómo se dibujan.
+### Opciones
+- [ ] A) Cómo se dibujan. <!-- feedback: Incorrecto. Cómo se dibujan. -->
 - [x] B) Su significado y uso. <!-- feedback: Correcto. -->
-- [ ] C) Su historia.
-- [ ] D) Quién la inventó.
+- [ ] C) Su historia. <!-- feedback: Incorrecto. Su historia. -->
+- [ ] D) Quién la inventó. <!-- feedback: Incorrecto. Quién la inventó. -->
 
 ### Explicación Pedagógica
 Propósito.
@@ -70,17 +76,18 @@ Propósito.
 
 **ID:** `CO-LEC-4-2026-W21-diccionario-significado-palabras-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Buscar significado.
+**Contexto:** Buscar significado.
 
 ### Enunciado
 *"¿Dónde buscarías el significado de ‘biodiversidad’?"*
 
-### Options
-- [ ] A) Periódico.
+### Opciones
+- [ ] A) Periódico. <!-- feedback: Incorrecto. Periódico. -->
 - [x] B) Diccionario. <!-- feedback: Correcto. -->
-- [ ] C) Receta.
-- [ ] D) Poema.
+- [ ] C) Receta. <!-- feedback: Incorrecto. Receta. -->
+- [ ] D) Poema. <!-- feedback: Incorrecto. Poema. -->
 
 ### Explicación Pedagógica
 Dónde buscar.
@@ -91,17 +98,18 @@ Dónde buscar.
 
 **ID:** `CO-LEC-4-2026-W21-diccionario-significado-palabras-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Palabra guía.
+**Contexto:** Palabra guía.
 
 ### Enunciado
 *"¿Qué son las palabras guía en el diccionario?"*
 
-### Options
-- [ ] A) Las más largas.
+### Opciones
+- [ ] A) Las más largas. <!-- feedback: Incorrecto. Las más largas. -->
 - [x] B) Indican la primera y última palabra de la página. <!-- feedback: Correcto. -->
-- [ ] C) Las más bonitas.
-- [ ] D) Sinónimos.
+- [ ] C) Las más bonitas. <!-- feedback: Incorrecto. Las más bonitas. -->
+- [ ] D) Sinónimos. <!-- feedback: Incorrecto. Sinónimos. -->
 
 ### Explicación Pedagógica
 Palabras guía.
@@ -112,17 +120,18 @@ Palabras guía.
 
 **ID:** `CO-LEC-4-2026-W21-diccionario-significado-palabras-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Uso en contexto.
+**Contexto:** Uso en contexto.
 
 ### Enunciado
 *"¿Por qué a veces una palabra tiene varios significados?"*
 
-### Options
-- [ ] A) Por error del diccionario.
+### Opciones
+- [ ] A) Por error del diccionario. <!-- feedback: Incorrecto. Por error del diccionario. -->
 - [x] B) Porque puede usarse en diferentes contextos. <!-- feedback: Correcto. -->
-- [ ] C) Porque es difícil.
-- [ ] D) No tiene.
+- [ ] C) Porque es difícil. <!-- feedback: Incorrecto. Porque es difícil. -->
+- [ ] D) No tiene. <!-- feedback: Incorrecto. No tiene. -->
 
 ### Explicación Pedagógica
 Acepciones.
@@ -133,17 +142,18 @@ Acepciones.
 
 **ID:** `CO-LEC-4-2026-W21-diccionario-significado-palabras-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Ordenar palabras.
+**Contexto:** Ordenar palabras.
 
 ### Enunciado
 *"Ordena: manzana, mango, melón, mandarina."* ¿Cuál va primera?
 
-### Options
+### Opciones
 - [x] A) mandarina. <!-- feedback: Correcto. ma... -->
-- [ ] B) mango.
-- [ ] C) manzana.
-- [ ] D) melón.
+- [ ] B) mango. <!-- feedback: Incorrecto. mango. -->
+- [ ] C) manzana. <!-- feedback: Incorrecto. manzana. -->
+- [ ] D) melón. <!-- feedback: Incorrecto. melón. -->
 
 ### Explicación Pedagógica
 Ordenar.
@@ -154,17 +164,18 @@ Ordenar.
 
 **ID:** `CO-LEC-4-2026-W21-diccionario-significado-palabras-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Encontrar significado.
+**Contexto:** Encontrar significado.
 
 ### Enunciado
 *"¿Qué página abrir para buscar ‘colibrí’ si la guía dice col-cos?"*
 
-### Options
+### Opciones
 - [x] A) La página de palabras col-cos. <!-- feedback: Correcto. -->
-- [ ] B) La primera del diccionario.
-- [ ] C) La última.
-- [ ] D) Cualquiera.
+- [ ] B) La primera del diccionario. <!-- feedback: Incorrecto. La primera del diccionario. -->
+- [ ] C) La última. <!-- feedback: Incorrecto. La última. -->
+- [ ] D) Cualquiera. <!-- feedback: Incorrecto. Cualquiera. -->
 
 ### Explicación Pedagógica
 Palabra guía.
@@ -175,17 +186,18 @@ Palabra guía.
 
 **ID:** `CO-LEC-4-2026-W21-diccionario-significado-palabras-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Comparar diccionario y glosario.
+**Contexto:** Comparar diccionario y glosario.
 
 ### Enunciado
 *"¿Diferencia entre diccionario y glosario?"*
 
-### Options
-- [ ] A) Ninguna.
+### Opciones
+- [ ] A) Ninguna. <!-- feedback: Incorrecto. Ninguna. -->
 - [x] B) Glosario es solo términos de un tema. <!-- feedback: Correcto. -->
-- [ ] C) Diccionario es más pequeño.
-- [ ] D) Glosario tiene imágenes.
+- [ ] C) Diccionario es más pequeño. <!-- feedback: Incorrecto. Diccionario es más pequeño. -->
+- [ ] D) Glosario tiene imágenes. <!-- feedback: Incorrecto. Glosario tiene imágenes. -->
 
 ### Explicación Pedagógica
 Diferencias.
@@ -196,17 +208,18 @@ Diferencias.
 
 **ID:** `CO-LEC-4-2026-W21-diccionario-significado-palabras-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Evaluar definición.
+**Contexto:** Evaluar definición.
 
 ### Enunciado
 *"Definición: ‘El agua es un líquido que moja’. ¿Es correcta?"*
 
-### Options
+### Opciones
 - [ ] A) Sí. <!-- feedback: Incompleta. -->
 - [x] B) Parcial, falta que es incolora, insípida, H2O. <!-- feedback: Correcto. -->
-- [ ] C) No, es sólido.
-- [ ] D) Muy larga.
+- [ ] C) No, es sólido. <!-- feedback: Incorrecto. No, es sólido. -->
+- [ ] D) Muy larga. <!-- feedback: Incorrecto. Muy larga. -->
 
 ### Explicación Pedagógica
 Evaluar definición.
@@ -217,17 +230,18 @@ Evaluar definición.
 
 **ID:** `CO-LEC-4-2026-W21-diccionario-significado-palabras-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Multiplicidad.
+**Contexto:** Multiplicidad.
 
 ### Enunciado
 *"‘Banco’: lugar para sentarse, entidad financiera, de peces. ¿Qué son?"*
 
-### Options
-- [ ] A) Palabras diferentes.
+### Opciones
+- [ ] A) Palabras diferentes. <!-- feedback: Incorrecto. Palabras diferentes. -->
 - [x] B) Acepciones de una misma palabra. <!-- feedback: Correcto. -->
-- [ ] C) Sinónimos.
-- [ ] D) Antónimos.
+- [ ] C) Sinónimos. <!-- feedback: Incorrecto. Sinónimos. -->
+- [ ] D) Antónimos. <!-- feedback: Incorrecto. Antónimos. -->
 
 ### Explicación Pedagógica
 Múltiples significados.

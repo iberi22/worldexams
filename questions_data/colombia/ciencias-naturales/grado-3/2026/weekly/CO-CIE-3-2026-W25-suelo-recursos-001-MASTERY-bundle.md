@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY"
+id: "CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "suelo-recursos"
-semana: "W25"
+week: "W25"
 periodo: 3
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "El suelo como recurso natural: importancia económica, agríco
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # El Suelo como Recurso Natural
 
 Este bundle explora el valor del suelo para los seres humanos, enfocándose en su importancia para producir alimentos, materiales de construcción y la necesidad de protegerlo como un recurso limitado.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la escuela, los niños aprenden que casi todo lo que comemos viene directa o indirectamente de la tierra.
+**Contexto:** En la escuela, los niños aprenden que casi todo lo que comemos viene directa o indirectamente de la tierra.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ El suelo es la base de la seguridad alimentaria. Sin un suelo sano, los agricult
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Muchos de los ladrillos y tejas de nuestras casas en Colombia se fabrican con una tierra especial.
+**Contexto:** Muchos de los ladrillos y tejas de nuestras casas en Colombia se fabrican con una tierra especial.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -73,12 +77,12 @@ El suelo no solo nos da comida, también nos da refugio. La arcilla ha sido usad
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** En las orillas de los ríos, la arena se extrae en grandes camiones para mezclarla con cemento y hacer concreto.
+**Contexto:** En las orillas de los ríos, la arena se extrae en grandes camiones para mezclarla con cemento y hacer concreto.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ La arena es uno de los recursos más usados en el mundo moderno. Sin arena no ha
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Un ganadero decide quitar todos los árboles de su finca para que crezca más pasto para sus vacas. Después de un tiempo, nota que la tierra está muy seca y dura.
+**Contexto:** Un ganadero decide quitar todos los árboles de su finca para que crezca más pasto para sus vacas. Después de un tiempo, nota que la tierra está muy seca y dura.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -123,12 +127,12 @@ El suelo es un recurso delicado. Si no lo protegemos con vegetación, el sol y e
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Mariana tiene una pequeña huerta en su balcón. Cada tres meses, ella le agrega un poco de tierra negra nueva o cáscaras de fruta picadas.
+**Contexto:** Mariana tiene una pequeña huerta en su balcón. Cada tres meses, ella le agrega un poco de tierra negra nueva o cáscaras de fruta picadas.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -148,12 +152,12 @@ Esto se llama abonar. Las plantas son como nosotros: necesitan comer. Si siembra
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** El suelo tarda cientos de años en formar una sola capa delgada de tierra fértil, pero la lluvia y el viento pueden llevársela en un solo día si el bosque es talado.
+**Contexto:** El suelo tarda cientos de años en formar una sola capa delgada de tierra fértil, pero la lluvia y el viento pueden llevársela en un solo día si el bosque es talado.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -173,12 +177,12 @@ Debemos cuidar el suelo como si fuera oro. Si lo contaminamos con basura o permi
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la minería, se extraen metales como el hierro, el carbón y el oro de capas profundas del suelo y las rocas.
+**Contexto:** En la minería, se extraen metales como el hierro, el carbón y el oro de capas profundas del suelo y las rocas.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -198,12 +202,12 @@ El suelo es un almacén de tesoros minerales. Todo lo que tiene metal (tu celula
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Una fábrica de químicos lanza sus desechos líquidos directamente a un campo de cultivo cercano.
+**Contexto:** Una fábrica de químicos lanza sus desechos líquidos directamente a un campo de cultivo cercano.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -223,12 +227,12 @@ La contaminación del suelo es un daño casi permanente. Los venenos se infiltra
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Los bosques nativos de Colombia tienen una capa de hojas secas sobre el suelo que parece una alfombra blanda.
+**Contexto:** Los bosques nativos de Colombia tienen una capa de hojas secas sobre el suelo que parece una alfombra blanda.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -248,12 +252,12 @@ Esta capa se llama mantillo. Es la forma en que la naturaleza se protege a sí m
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W25-suelo-recursos-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un debate escolar, un niño dice: "El suelo es más importante que el agua porque sobre el suelo es donde vivimos".
+**Contexto:** En un debate escolar, un niño dice: "El suelo es más importante que el agua porque sobre el suelo es donde vivimos".
 **Expected_Success:** 0.60
 
 ### Enunciado

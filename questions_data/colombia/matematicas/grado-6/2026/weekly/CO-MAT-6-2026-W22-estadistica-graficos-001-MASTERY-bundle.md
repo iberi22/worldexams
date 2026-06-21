@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W22 -- Estadistica: Graficos Estadisticos
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W22-estadistica-graficos-001-MASTERY-bundle-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Tipos de graficos
+**Contexto:** Tipos de graficos
 
 ### Enunciado
 Que grafico es mejor para frecuencias de categorias?
 
-### Options
+### Opciones
 - [x] A) Grafico de barras <!-- feedback: Correcto. -->
 - [ ] B) Grafico de lineas <!-- feedback: Incorrecto. -->
 - [ ] C) Grafico de dispersion <!-- feedback: Incorrecto. -->
@@ -48,13 +51,14 @@ El grafico de barras compara frecuencias de categorias.
 
 **ID:** `CO-MAT-6-2026-W22-estadistica-graficos-001-MASTERY-bundle-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Grafico circular
+**Contexto:** Grafico circular
 
 ### Enunciado
 Para que se usa un grafico circular?
 
-### Options
+### Opciones
 - [x] A) Mostrar proporciones de un total <!-- feedback: Correcto. -->
 - [ ] B) Mostrar cambios en el tiempo <!-- feedback: Incorrecto. -->
 - [ ] C) Relacion entre variables <!-- feedback: Incorrecto. -->
@@ -69,13 +73,14 @@ El grafico circular muestra partes de un todo.
 
 **ID:** `CO-MAT-6-2026-W22-estadistica-graficos-001-MASTERY-bundle-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Interpretar barras
+**Contexto:** Interpretar barras
 
 ### Enunciado
 Frutas favoritas: 8 manzana, 12 banano, 6 uva, 4 naranja. Cuantos prefieren banano o manzana?
 
-### Options
+### Opciones
 - [x] A) 20 estudiantes <!-- feedback: Correcto. 12+8=20. -->
 - [ ] B) 12 estudiantes <!-- feedback: Incorrecto, son solo banano. -->
 - [ ] C) 8 estudiantes <!-- feedback: Incorrecto, son solo manzana. -->
@@ -90,13 +95,14 @@ Banano+manzana = 12+8 = 20 estudiantes.
 
 **ID:** `CO-MAT-6-2026-W22-estadistica-graficos-001-MASTERY-bundle-004-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Grafico circular
+**Contexto:** Grafico circular
 
 ### Enunciado
 40 estudiantes: 18 futbol, 10 baloncesto, 8 voleibol, 4 natacion. Angulo para futbol?
 
-### Options
+### Opciones
 - [x] A) 162 grados <!-- feedback: Correcto. 18/40x360=162. -->
 - [ ] B) 180 grados <!-- feedback: Incorrecto. -->
 - [ ] C) 90 grados <!-- feedback: Incorrecto. -->
@@ -111,13 +117,14 @@ Angulo = (18/40)x360 = 162 grados.
 
 **ID:** `CO-MAT-6-2026-W22-estadistica-graficos-001-MASTERY-bundle-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Leer barras
+**Contexto:** Leer barras
 
 ### Enunciado
 Ventas helados: vainilla 15, chocolate 12, fresa 8, lulo 5. Cuantos mas de vainilla que de fresa?
 
-### Options
+### Opciones
 - [x] A) 7 mas <!-- feedback: Correcto. 15-8=7. -->
 - [ ] B) 3 mas <!-- feedback: Incorrecto. -->
 - [ ] C) 10 mas <!-- feedback: Incorrecto. -->
@@ -132,13 +139,14 @@ Ventas helados: vainilla 15, chocolate 12, fresa 8, lulo 5. Cuantos mas de vaini
 
 **ID:** `CO-MAT-6-2026-W22-estadistica-graficos-001-MASTERY-bundle-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Grafico de lineas
+**Contexto:** Grafico de lineas
 
 ### Enunciado
 Temperaturas: L28, M30, Mx31, J29, V32. Dia mas caluroso?
 
-### Options
+### Opciones
 - [x] A) Viernes (32 grados) <!-- feedback: Correcto. -->
 - [ ] B) Miercoles (31) <!-- feedback: Incorrecto. -->
 - [ ] C) Martes (30) <!-- feedback: Incorrecto. -->
@@ -153,13 +161,14 @@ Viernes: 32 grados, la mas alta de la semana.
 
 **ID:** `CO-MAT-6-2026-W22-estadistica-graficos-001-MASTERY-bundle-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Elegir grafico
+**Contexto:** Elegir grafico
 
 ### Enunciado
 Que grafico muestra cambios de poblacion en 50 anos?
 
-### Options
+### Opciones
 - [x] A) Grafico de lineas <!-- feedback: Correcto. -->
 - [ ] B) Grafico de barras <!-- feedback: Incorrecto. -->
 - [ ] C) Grafico circular <!-- feedback: Incorrecto. -->
@@ -174,13 +183,14 @@ El de lineas muestra tendencias temporales.
 
 **ID:** `CO-MAT-6-2026-W22-estadistica-graficos-001-MASTERY-bundle-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Pictograma
+**Contexto:** Pictograma
 
 ### Enunciado
  Cada icono = 50 manzanas. 5 iconos = ?
 
-### Options
+### Opciones
 - [x] A) 250 manzanas <!-- feedback: Correcto. 5x50=250. -->
 - [ ] B) 50 manzanas <!-- feedback: Incorrecto. -->
 - [ ] C) 10 manzanas <!-- feedback: Incorrecto. -->
@@ -195,13 +205,14 @@ El de lineas muestra tendencias temporales.
 
 **ID:** `CO-MAT-6-2026-W22-estadistica-graficos-001-MASTERY-bundle-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Comparar graficos
+**Contexto:** Comparar graficos
 
 ### Enunciado
 Barras (frecuencias) vs Lineas (promedios/mes). Cual muestra tendencia?
 
-### Options
+### Opciones
 - [x] A) Lineas, muestra cambios en tiempo <!-- feedback: Correcto. -->
 - [ ] B) Barras, muestra frecuencias <!-- feedback: Incorrecto. -->
 - [ ] C) Ambos igual <!-- feedback: Incorrecto. -->
@@ -216,13 +227,14 @@ Lineas: tendencias temporales. Barras: comparar categorias.
 
 **ID:** `CO-MAT-6-2026-W22-estadistica-graficos-001-MASTERY-bundle-010-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Tendencia
+**Contexto:** Tendencia
 
 ### Enunciado
 Ventas: Ene $2M, Feb $2.5M, Mar $3M, Abr $2.8M, May $3.5M. Que tendencia?
 
-### Options
+### Opciones
 - [x] A) General al alza <!-- feedback: Correcto. -->
 - [ ] B) A la baja <!-- feedback: Incorrecto. -->
 - [ ] C) Constante <!-- feedback: Incorrecto. -->

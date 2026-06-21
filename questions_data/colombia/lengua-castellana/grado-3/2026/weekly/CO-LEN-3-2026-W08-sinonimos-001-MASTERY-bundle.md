@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-3-2026-W08-sinonimos-001-MASTERY"
+id: "CO-LEN-3-2026-W08-sinonimos-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 3"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Vocabulario - sinónimos - Grado 3
 
@@ -22,7 +24,7 @@ Este bundle explora el uso de los sinónimos para ampliar el vocabulario y evita
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-3-2026-W08-sinonimos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -33,21 +35,20 @@ Este bundle explora el uso de los sinónimos para ampliar el vocabulario y evita
 ¿Qué palabra significa lo mismo que **veloz**?
 
 ### Opciones
-- [ ] A) Lento
-  <!-- feedback: No, eso es lo opuesto. -->
-- [x] B) Rápido
-  <!-- feedback: ¡Correcto! Veloz y rápido son sinónimos. -->
-- [ ] C) Fuerte
-  <!-- feedback: No significa lo mismo, aunque un perro pueda ser ambas cosas. -->
-- [ ] D) Grande
-  <!-- feedback: Se refiere al tamaño, no a la velocidad. -->
+- [ ] A) Lento <!-- feedback: Incorrecto. Lento -->
+
+- [x] B) Rápido <!-- feedback: Correcto! Rápido -->
+
+- [ ] C) Fuerte <!-- feedback: Incorrecto. Fuerte -->
+
+- [ ] D) Grande <!-- feedback: Incorrecto. Grande -->
 
 ### Explicación Pedagogica
 Los sinónimos son palabras que tienen un significado igual o muy parecido.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-3-2026-W08-sinonimos-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -58,21 +59,20 @@ Los sinónimos son palabras que tienen un significado igual o muy parecido.
 ¿Cuál es un sinónimo de la palabra **contenta**?
 
 ### Opciones
-- [ ] A) Triste
-  <!-- feedback: Es el antónimo (opuesto). -->
-- [ ] B) Enojada
-  <!-- feedback: No significa alegría. -->
-- [x] C) Alegre
-  <!-- feedback: ¡Muy bien! Contenta y alegre significan lo mismo. -->
-- [ ] D) Cansada
-  <!-- feedback: Es otra sensación diferente. -->
+- [ ] A) Triste <!-- feedback: Incorrecto. Triste -->
+
+- [ ] B) Enojada <!-- feedback: Incorrecto. Enojada -->
+
+- [x] C) Alegre <!-- feedback: Correcto! Alegre -->
+
+- [ ] D) Cansada <!-- feedback: Incorrecto. Cansada -->
 
 ### Explicación Pedagogica
 Identificar sinónimos nos ayuda a entender mejor los sentimientos y descripciones en los textos.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-3-2026-W08-sinonimos-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -83,21 +83,20 @@ Identificar sinónimos nos ayuda a entender mejor los sentimientos y descripcion
 En la frase "Mi casa es muy **bonita**", ¿por qué palabra podrías cambiar "bonita" sin cambiar el sentido?
 
 ### Opciones
-- [ ] A) Fea
-  <!-- feedback: Cambiaría totalmente el sentido a algo malo. -->
-- [x] B) Hermosa
-  <!-- feedback: ¡Excelente! Es un sinónimo perfecto para "bonita". -->
-- [ ] C) Vieja
-  <!-- feedback: No significa lo mismo que bonita. -->
-- [ ] D) Blanca
-  <!-- feedback: Es un color, no una cualidad estética general. -->
+- [ ] A) Fea <!-- feedback: Incorrecto. Fea -->
+
+- [x] B) Hermosa <!-- feedback: Correcto! Hermosa -->
+
+- [ ] C) Vieja <!-- feedback: Incorrecto. Vieja -->
+
+- [ ] D) Blanca <!-- feedback: Incorrecto. Blanca -->
 
 ### Explicación Pedagogica
 El uso de sinónimos permite enriquecer nuestras descripciones y hacerlas más interesantes.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-3-2026-W08-sinonimos-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -108,21 +107,20 @@ El uso de sinónimos permite enriquecer nuestras descripciones y hacerlas más i
 ¿Cuál es el sinónimo de la palabra **enorme**?
 
 ### Opciones
-- [ ] A) Pequeño
-  <!-- feedback: Es lo contrario. -->
-- [x] B) Gigante
-  <!-- feedback: ¡Así es! Algo enorme es algo muy grande o gigante. -->
-- [ ] C) Flaco
-  <!-- feedback: Se refiere al grosor, no al tamaño general. -->
-- [ ] D) Oscuro
-  <!-- feedback: Se refiere a la luz. -->
+- [ ] A) Pequeño <!-- feedback: Incorrecto. Pequeño -->
+
+- [x] B) Gigante <!-- feedback: Correcto! Gigante -->
+
+- [ ] C) Flaco <!-- feedback: Incorrecto. Flaco -->
+
+- [ ] D) Oscuro <!-- feedback: Incorrecto. Oscuro -->
 
 ### Explicación Pedagogica
 Los sinónimos pueden variar en intensidad; "enorme" es más fuerte que "grande".
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-3-2026-W08-sinonimos-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -133,21 +131,20 @@ Los sinónimos pueden variar en intensidad; "enorme" es más fuerte que "grande"
 Si quieres decir que vas a **empezar** tu tarea, ¿qué otra palabra podrías usar?
 
 ### Opciones
-- [ ] A) Terminar
-  <!-- feedback: Es lo opuesto. -->
-- [x] B) Comenzar
-  <!-- feedback: ¡Correcto! Empezar y comenzar son sinónimos. -->
-- [ ] C) Guardar
-  <!-- feedback: Es una acción distinta. -->
-- [ ] D) Borrar
-  <!-- feedback: Es una acción distinta. -->
+- [ ] A) Terminar <!-- feedback: Incorrecto. Terminar -->
+
+- [x] B) Comenzar <!-- feedback: Correcto! Comenzar -->
+
+- [ ] C) Guardar <!-- feedback: Incorrecto. Guardar -->
+
+- [ ] D) Borrar <!-- feedback: Incorrecto. Borrar -->
 
 ### Explicación Pedagogica
 Conocer sinónimos de verbos comunes nos ayuda a expresarnos con mayor propiedad.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-3-2026-W08-sinonimos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -158,21 +155,20 @@ Conocer sinónimos de verbos comunes nos ayuda a expresarnos con mayor propiedad
 ¿Cuál de estas parejas de palabras son sinónimos?
 
 ### Opciones
-- [ ] A) Subir - Bajar
-  <!-- feedback: Son opuestos. -->
-- [x] B) Caminar - Andar
-  <!-- feedback: ¡Exacto! Ambas significan desplazarse a pie. -->
-- [ ] C) Día - Noche
-  <!-- feedback: Son opuestos. -->
-- [ ] D) Dulce - Salado
-  <!-- feedback: Son sabores distintos (opuestos). -->
+- [ ] A) Subir - Bajar <!-- feedback: Incorrecto. Subir - Bajar -->
+
+- [x] B) Caminar - Andar <!-- feedback: Correcto! Caminar - Andar -->
+
+- [ ] C) Día - Noche <!-- feedback: Incorrecto. Día - Noche -->
+
+- [ ] D) Dulce - Salado <!-- feedback: Incorrecto. Dulce - Salado -->
 
 ### Explicación Pedagogica
 Reconocer parejas de sinónimos es un ejercicio fundamental para el desarrollo del léxico.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-3-2026-W08-sinonimos-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -183,21 +179,20 @@ Reconocer parejas de sinónimos es un ejercicio fundamental para el desarrollo d
 En la instrucción "Mezcla todos los ingredientes", ¿cuál es un sinónimo de **mezcla**?
 
 ### Opciones
-- [ ] A) Separa
-  <!-- feedback: Es lo contrario. -->
-- [x] B) Revolver
-  <!-- feedback: ¡Muy bien! Revolver o unir los ingredientes es mezclar. -->
-- [ ] C) Cocinar
-  <!-- feedback: Es un paso posterior. -->
-- [ ] D) Comer
-  <!-- feedback: Es el paso final. -->
+- [ ] A) Separa <!-- feedback: Incorrecto. Separa -->
+
+- [x] B) Revolver <!-- feedback: Correcto! Revolver -->
+
+- [ ] C) Cocinar <!-- feedback: Incorrecto. Cocinar -->
+
+- [ ] D) Comer <!-- feedback: Incorrecto. Comer -->
 
 ### Explicación Pedagogica
 En los textos instructivos, los sinónimos ayudan a dar instrucciones más claras.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-3-2026-W08-sinonimos-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -208,21 +203,20 @@ En los textos instructivos, los sinónimos ayudan a dar instrucciones más clara
 "En esta región es muy frecuente que caiga **lluvia**". ¿Qué palabra significa lo mismo que lluvia en este contexto?
 
 ### Opciones
-- [ ] A) Nieve
-  <!-- feedback: Es agua congelada, diferente a la lluvia. -->
-- [ ] B) Sol
-  <!-- feedback: Es lo opuesto a un clima lluvioso. -->
-- [x] C) Precipitación
-  <!-- feedback: ¡Correcto! Es un término más formal para referirse a la lluvia. -->
-- [ ] D) Viento
-  <!-- feedback: Es aire en movimiento, no agua. -->
+- [ ] A) Nieve <!-- feedback: Incorrecto. Nieve -->
+
+- [ ] B) Sol <!-- feedback: Incorrecto. Sol -->
+
+- [x] C) Precipitación <!-- feedback: Correcto! Precipitación -->
+
+- [ ] D) Viento <!-- feedback: Incorrecto. Viento -->
 
 ### Explicación Pedagogica
 Existen sinónimos más formales o técnicos que se usan en textos científicos o informativos.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-3-2026-W08-sinonimos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -233,21 +227,20 @@ Existen sinónimos más formales o técnicos que se usan en textos científicos 
 Para no repetir la palabra "mar" tantas veces en un poema, el autor usó la palabra **"océano"**. ¿Crees que fue una buena elección?
 
 ### Opciones
-- [ ] A) No, porque son cosas totalmente diferentes.
-  <!-- feedback: En la mayoría de contextos se pueden usar como sinónimos. -->
-- [x] B) Sí, porque son sinónimos y ayudan a que el poema suene mejor.
-  <!-- feedback: ¡Excelente! El uso de sinónimos evita la monotonía en la lectura. -->
-- [ ] C) No, porque océano es una palabra muy difícil.
-  <!-- feedback: Es una palabra común y adecuada para grado 3. -->
-- [ ] D) Da lo mismo usar cualquiera.
-  <!-- feedback: La elección de palabras es clave en la belleza de un texto. -->
+- [ ] A) No, porque son cosas totalmente diferentes. <!-- feedback: Incorrecto. No, porque son cosas totalmente diferent -->
+
+- [x] B) Sí, porque son sinónimos y ayudan a que el poema suene mejor. <!-- feedback: Correcto! Sí, porque son sinónimos y ayudan a que el poema suene mejor -->
+
+- [ ] C) No, porque océano es una palabra muy difícil. <!-- feedback: Incorrecto. No, porque océano es una palabra muy dif -->
+
+- [ ] D) Da lo mismo usar cualquiera. <!-- feedback: Incorrecto. Da lo mismo usar cualquiera. -->
 
 ### Explicación Pedagogica
 El uso de sinónimos es una herramienta estilística importante en la creación literaria.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-3-2026-W08-sinonimos-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -258,14 +251,13 @@ El uso de sinónimos es una herramienta estilística importante en la creación 
 Si quieres describir un camino que es muy **angosto**, ¿cuál de estas palabras usarías para decir lo mismo?
 
 ### Opciones
-- [ ] A) Ancho
-  <!-- feedback: Es lo contrario. -->
-- [x] B) Estrecho
-  <!-- feedback: ¡Muy bien! Angosto y estrecho son sinónimos. -->
-- [ ] C) Largo
-  <!-- feedback: Se refiere a la longitud, no al ancho. -->
-- [ ] D) Divertido
-  <!-- feedback: Es una opinión, no una medida física. -->
+- [ ] A) Ancho <!-- feedback: Incorrecto. Ancho -->
+
+- [x] B) Estrecho <!-- feedback: Correcto! Estrecho -->
+
+- [ ] C) Largo <!-- feedback: Incorrecto. Largo -->
+
+- [ ] D) Divertido <!-- feedback: Incorrecto. Divertido -->
 
 ### Explicación Pedagogica
 Elegir el sinónimo preciso ayuda a que el lector visualice exactamente lo que queremos describir.

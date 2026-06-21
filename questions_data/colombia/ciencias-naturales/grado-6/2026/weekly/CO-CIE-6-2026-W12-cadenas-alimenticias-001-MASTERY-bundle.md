@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W12-cadenas-alimenticias-001-MASTERY"
+id: "CO-CIE-6-2026-W12-cadenas-alimenticias-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W12 — Cadenas Alimenticias
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W12-cadenas-alimenticias-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, la profesora explica la cadena alimenticia con dibujos en el tablero.
+**Contexto:** En Bogotá, la profesora explica la cadena alimenticia con dibujos en el tablero.
 
 ### Enunciado
 ¿Qué son los productores en una cadena alimenticia?
 
-### Options
+### Opciones
 - [ ] A) Animales que se comen a otros animales <!-- feedback: Incorrecto. Esos son consumidores secundarios o carnívoros. -->
 - [ ] B) Seres vivos que descomponen materia muerta <!-- feedback: Incorrecto. Esos son descomponedores. -->
 - [x] C) Organismos que producen su propio alimento mediante fotosíntesis <!-- feedback: Correcto. Los productores son autótrofos, principalmente plantas y algas. -->
@@ -48,13 +51,14 @@ Los productores son organismos autótrofos, lo que significa que producen su pro
 
 **ID:** `CO-CIE-6-2026-W12-cadenas-alimenticias-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, los estudiantes identifican el rol de los consumidores.
+**Contexto:** En Medellín, los estudiantes identifican el rol de los consumidores.
 
 ### Enunciado
 ¿Cómo se llaman los animales que se alimentan directamente de plantas?
 
-### Options
+### Opciones
 - [ ] A) Carnívoros <!-- feedback: Incorrecto. Los carnívoros se alimentan de otros animales. -->
 - [x] B) Herbívoros o consumidores primarios <!-- feedback: Correcto. Los herbívoros son consumidores de primer orden. -->
 - [ ] C) Descomponedores <!-- feedback: Incorrecto. Los descomponedores degradan materia orgánica muerta. -->
@@ -69,13 +73,14 @@ Los herbívoros o consumidores primarios son animales que se alimentan directame
 
 **ID:** `CO-CIE-6-2026-W12-cadenas-alimenticias-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali analizan el rol de los descomponedores en el ecosistema.
+**Contexto:** En Cali analizan el rol de los descomponedores en el ecosistema.
 
 ### Enunciado
 ¿Cuál es la función de los descomponedores en la cadena alimenticia?
 
-### Options
+### Opciones
 - [ ] A) Comer animales vivos <!-- feedback: Incorrecto. Los descomponedores actúan sobre materia muerta. -->
 - [x] B) Degradar la materia orgánica muerta y devolver nutrientes al suelo <!-- feedback: Correcto. Los descomponedores reciclan los nutrientes. -->
 - [ ] C) Producir alimento para los herbívoros <!-- feedback: Incorrecto. Eso hacen los productores. -->
@@ -90,13 +95,14 @@ Los descomponedores son organismos que se alimentan de materia orgánica muerta 
 
 **ID:** `CO-CIE-6-2026-W12-cadenas-alimenticias-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, los estudiantes dibujan una cadena alimenticia del ecosistema de manglar.
+**Contexto:** En Barranquilla, los estudiantes dibujan una cadena alimenticia del ecosistema de manglar.
 
 ### Enunciado
 En un ecosistema de manglar colombiano, los peces pequeños comen algas y los peces grandes se comen a los peces pequeños. ¿Qué representan los peces grandes?
 
-### Options
+### Opciones
 - [ ] A) Productores <!-- feedback: Incorrecto. Los peces no producen su alimento. -->
 - [ ] B) Consumidores primarios <!-- feedback: Incorrecto. Los consumidores primarios son herbívoros (pequeños). -->
 - [x] C) Consumidores secundarios o carnívoros <!-- feedback: Correcto. Los peces grandes se alimentan de consumidores primarios. -->
@@ -117,13 +123,14 @@ Los consumidores secundarios son carnívoros que ocupan el tercer nivel trófico
 
 **ID:** `CO-CIE-6-2026-W12-cadenas-alimenticias-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, los estudiantes organizan una cadena alimenticia del páramo.
+**Contexto:** En Bucaramanga, los estudiantes organizan una cadena alimenticia del páramo.
 
 ### Enunciado
 Organiza la siguiente cadena alimenticia del páramo en el orden correcto: (1) Zorro, (2) Frailejón, (3) Curí (roedor), (4) Bacterias del suelo.
 
-### Options
+### Opciones
 - [ ] A) Zorro → Curí → Frailejón → Bacterias <!-- feedback: Incorrecto. El orden está invertido. -->
 - [x] B) Frailejón → Curí → Zorro → Bacterias <!-- feedback: Correcto. El frailejón es productor, el curí es herbívoro, el zorro es carnívoro y las bacterias descomponen. -->
 - [ ] C) Curí → Frailejón → Zorro → Bacterias <!-- feedback: Incorrecto. El frailejón no se come al curí. -->
@@ -144,13 +151,14 @@ Cada flecha representa la transferencia de energía: → "es comido por" →. La
 
 **ID:** `CO-CIE-6-2026-W12-cadenas-alimenticias-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, estudiantes analizan una cadena alimenticia de la selva amazónica.
+**Contexto:** En Cartagena, estudiantes analizan una cadena alimenticia de la selva amazónica.
 
 ### Enunciado
 En la cadena: Árbol de ceiba → Perezoso → Jaguar → Hongos. ¿Qué pasaría si los jaguares desaparecieran?
 
-### Options
+### Opciones
 - [ ] A) Los árboles de ceiba crecerían más rápido <!-- feedback: Incorrecto. No hay relación directa entre jaguares y ceibas. -->
 - [x] B) La población de perezosos aumentaría descontroladamente, lo que afectaría a los árboles que consumen <!-- feedback: Correcto. Sin su depredador, los herbívoros se multiplican y afectan a los productores. -->
 - [ ] C) Los hongos desaparecerían <!-- feedback: Incorrecto. Los hongos se alimentan de materia muerta, no de jaguares vivos. -->
@@ -171,13 +179,14 @@ Este fenómeno se llama "cascada trófica": la eliminación de un depredador top
 
 **ID:** `CO-CIE-6-2026-W12-cadenas-alimenticias-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira comparan una cadena alimenticia de pastizal con una de bosque.
+**Contexto:** En Pereira comparan una cadena alimenticia de pastizal con una de bosque.
 
 ### Enunciado
 ¿Por qué las cadenas alimenticias del bosque tropical suelen ser más largas que las del pastizal?
 
-### Options
+### Opciones
 - [ ] A) Porque en el pastizal hace más calor <!-- feedback: Incorrecto. En el bosque tropical también hace calor. -->
 - [ ] B) Porque en el pastizal hay más productores <!-- feedback: Incorrecto. Ambos tienen productores abundantes. -->
 - [x] C) Porque el bosque tropical tiene mayor biodiversidad y más niveles tróficos <!-- feedback: Correcto. Más especies permiten cadenas más complejas. -->
@@ -198,13 +207,14 @@ En contraste, un pastizal tiene menor diversidad de especies, lo que resulta en 
 
 **ID:** `CO-CIE-6-2026-W12-cadenas-alimenticias-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales debaten sobre la diferencia entre cadena alimenticia y red trófica.
+**Contexto:** En Manizales debaten sobre la diferencia entre cadena alimenticia y red trófica.
 
 ### Enunciado
 ¿Cuál es la diferencia entre una cadena alimenticia y una red trófica (red alimenticia)?
 
-### Options
+### Opciones
 - [ ] A) Son lo mismo, solo cambia el nombre <!-- feedback: Incorrecto. Son conceptos diferentes. -->
 - [ ] B) La cadena tiene descomponedores y la red no <!-- feedback: Incorrecto. Ambos pueden incluir descomponedores. -->
 - [x] C) La cadena es una ruta lineal única de alimentación; la red trófica es el conjunto de cadenas interconectadas de un ecosistema <!-- feedback: Correcto. La red refleja la complejidad real del ecosistema. -->
@@ -222,13 +232,14 @@ Las redes tróficas son más estables que las cadenas individuales porque si una
 
 **ID:** `CO-CIE-6-2026-W12-cadenas-alimenticias-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, un estudiante dice: "las cadenas alimenticias empiezan con los animales herbívoros".
+**Contexto:** En Cúcuta, un estudiante dice: "las cadenas alimenticias empiezan con los animales herbívoros".
 
 ### Enunciado
 ¿Qué error tiene la afirmación del estudiante?
 
-### Options
+### Opciones
 - [ ] A) Decir que los herbívoros existen <!-- feedback: Incorrecto. Los herbívoros sí existen. -->
 - [ ] B) Decir que hay animales herbívoros en Colombia <!-- feedback: Incorrecto. Hay muchos herbívoros en Colombia. -->
 - [x] C) Decir que las cadenas empiezan con herbívoros; en realidad empiezan con los productores (plantas, algas) <!-- feedback: Correcto. Los productores son siempre el primer eslabón. -->
@@ -248,13 +259,14 @@ Por lo tanto, el orden correcto es: sol → productores → consumidores primari
 
 **ID:** `CO-CIE-6-2026-W12-cadenas-alimenticias-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, los estudiantes evalúan el impacto de los pesticidas en las cadenas alimenticias.
+**Contexto:** En Ibagué, los estudiantes evalúan el impacto de los pesticidas en las cadenas alimenticias.
 
 ### Enunciado
 Un agricultor usa pesticida en su cultivo de papa. El pesticida se acumula en las hojas. Un insecto come las hojas, una rana come el insecto y una serpiente come la rana. ¿En qué organismo se acumulará MÁS pesticida?
 
-### Options
+### Opciones
 - [ ] A) En la papa (productor) <!-- feedback: Incorrecto. Aunque absorbe el pesticida, es el primer nivel de la cadena. -->
 - [ ] B) En el insecto <!-- feedback: Incorrecto. Acumula algo, pero menos que los niveles superiores. -->
 - [ ] C) En la rana <!-- feedback: Incorrecto. Acumula más que el insecto pero menos que el depredador final. -->

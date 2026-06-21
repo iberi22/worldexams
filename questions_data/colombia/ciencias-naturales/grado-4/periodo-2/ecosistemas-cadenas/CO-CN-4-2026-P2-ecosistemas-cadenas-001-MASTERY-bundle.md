@@ -1,5 +1,5 @@
 ---
-id: "CO-CN-4-2026-P2-ecosistemas-cadenas-001-MASTERY"
+id: "CO-CN-4-2026-P2-ecosistemas-cadenas-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "ciencias-naturales"
@@ -16,19 +16,27 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Entorno vivo"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 ## Question 1 [D3]
 
 **ID:** `CO-CN-4-2026-P2-ecosistemas-cadenas-001-MASTERY-v1`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento científico]
-**Context:** Visita a un humedal en la sabana de Bogotá.
+**Contexto:** Visita a un humedal en la sabana de Bogotá.
 
 ### Enunciado
 En un ecosistema como un humedal, interactúan seres vivos y elementos no vivos. ¿Cuál de los siguientes es un ejemplo de un componente **abiótico** (no vivo) fundamental para que las plantas del humedal crezcan?
 
-### Options
+### Opciones
 - [ ] A) Las ranas sabaneras <!-- feedback: Incorrect. Las ranas son animales, por lo tanto son componentes bióticos (seres vivos) del ecosistema. -->
 - [ ] B) Los juncos y las algas <!-- feedback: Incorrect. Las plantas y las algas son seres vivos, clasificados como componentes bióticos. -->
 - [x] C) La luz del sol <!-- feedback: Correct. Los componentes abióticos son los elementos físicos y químicos sin vida, como la luz solar, el agua, el suelo y el aire, que permiten la vida. -->
@@ -42,14 +50,15 @@ Se evalúa la distinción entre factores bióticos y abióticos. La respuesta co
 ## Question 2 [D3]
 
 **ID:** `CO-CN-4-2026-P2-ecosistemas-cadenas-001-MASTERY-v2`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Explicación de fenómenos]
-**Context:** Observación de la selva amazónica.
+**Contexto:** Observación de la selva amazónica.
 
 ### Enunciado
 En la selva, las plantas son llamadas **productores** porque tienen una capacidad única que los animales no tienen. ¿Cuál es esa capacidad?
 
-### Options
+### Opciones
 - [ ] A) Pueden correr rápido para escapar de los depredadores. <!-- feedback: Incorrect. Las plantas son sésiles (no se desplazan) y su función como productores no depende del movimiento. -->
 - [x] B) Fabrican su propio alimento usando la energía del sol. <!-- feedback: Correct. Mediante la fotosíntesis, las plantas producen materia orgánica a partir de energía lumínica, agua y dióxido de carbono. -->
 - [ ] C) Se alimentan de otros seres vivos pequeños como insectos. <!-- feedback: Incorrect. Los seres que se alimentan de otros son consumidores, no productores (con excepción de las plantas carnívoras, pero no es la regla general). -->
@@ -63,14 +72,15 @@ Se evalúa el concepto de organismo productor en una cadena alimenticia. La resp
 ## Question 3 [D4]
 
 **ID:** `CO-CN-4-2026-P2-ecosistemas-cadenas-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento científico]
-**Context:** Una cadena alimenticia en los Llanos Orientales.
+**Contexto:** Una cadena alimenticia en los Llanos Orientales.
 
 ### Enunciado
 Observa esta cadena: Pasto → Chigüiro → Jaguar. En este ejemplo, ¿qué función cumple el Chigüiro?
 
-### Options
+### Opciones
 - [ ] A) Productor <!-- feedback: Incorrect. El chigüiro no fabrica su propio alimento, depende de las plantas (pasto) para comer. -->
 - [x] B) Consumidor primario (Hervíboro) <!-- feedback: Correct. Los consumidores primarios son aquellos que se alimentan directamente de los productores (plantas). El chigüiro come pasto. -->
 - [ ] C) Consumidor secundario (Carnívoro) <!-- feedback: Incorrect. Los consumidores secundarios comen carne de otros animales. El chigüiro solo come vegetales. -->
@@ -84,14 +94,15 @@ Se evalúa la posición de los organismos en los niveles tróficos. La respuesta
 ## Question 4 [D4]
 
 **ID:** `CO-CN-4-2026-P2-ecosistemas-cadenas-001-MASTERY-v4`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Explicación de fenómenos]
-**Context:** El papel de los hongos en un bosque andino.
+**Contexto:** El papel de los hongos en un bosque andino.
 
 ### Enunciado
 Cuando un árbol cae y muere en el bosque, después de un tiempo aparecen hongos sobre su tronco y este empieza a deshacerse. ¿Por qué son importantes estos hongos en el ecosistema?
 
-### Options
+### Opciones
 - [ ] A) Porque sirven de adorno para que el bosque se vea más colorido. <!-- feedback: Incorrect. Las funciones en un ecosistema son vitales y ecológicas, no simplemente estéticas. -->
 - [x] B) Porque devuelven los nutrientes del árbol muerto al suelo para que otras plantas los usen. <!-- feedback: Correct. Los descomponedores cierran el ciclo de la materia, transformando restos orgánicos en minerales para el suelo. -->
 - [ ] C) Porque matan a los insectos que intentan comerse el árbol. <!-- feedback: Incorrect. Su función principal es la descomposición de materia ya muerta, no la defensa activa contra insectos. -->
@@ -105,14 +116,15 @@ Se evalúa la función de los descomponedores en el ciclo de nutrientes. La resp
 ## Question 5 [D4]
 
 **ID:** `CO-CN-4-2026-P2-ecosistemas-cadenas-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Ciencia, tecnología y sociedad]
-**Context:** Impacto de la contaminación en un río del Chocó.
+**Contexto:** Impacto de la contaminación en un río del Chocó.
 
 ### Enunciado
 Si un río se contamina con sustancias químicas que matan a todas las algas (productores), ¿qué pasará con los peces que se alimentan de esas algas?
 
-### Options
+### Opciones
 - [ ] A) Aprenderán a comer piedras para sobrevivir. <!-- feedback: Incorrect. Los animales no pueden cambiar su dieta biológica de forma drástica para comer elementos sin nutrientes. -->
 - [x] B) Morirán o tendrán que irse a otro lugar porque se quedaron sin alimento. <!-- feedback: Correct. Si desaparece la base de la cadena alimenticia (los productores), los consumidores que dependen de ellos no pueden sobrevivir. -->
 - [ ] C) Se convertirán en productores y fabricarán su propia comida. <!-- feedback: Incorrect. Los animales son consumidores por naturaleza y no poseen clorofila para realizar fotosíntesis. -->
@@ -126,14 +138,15 @@ Se evalúa la interdependencia de los seres vivos en un ecosistema. La respuesta
 ## Question 6 [D5]
 
 **ID:** `CO-CN-4-2026-P2-ecosistemas-cadenas-001-MASTERY-v6`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento científico]
-**Context:** Diferentes tipos de ecosistemas en Colombia.
+**Contexto:** Diferentes tipos de ecosistemas en Colombia.
 
 ### Enunciado
 Colombia es uno de los países con más biodiversidad del mundo. ¿Cuál es la principal diferencia entre un ecosistema terrestre y uno acuático?
 
-### Options
+### Opciones
 - [ ] A) En el terrestre no hay agua en absoluto. <!-- feedback: Incorrect. Todos los ecosistemas terrestres necesitan agua (lluvia, humedad) para que los seres vivos sobrevivan. -->
 - [ ] B) En el acuático los animales no necesitan oxígeno para respirar. <!-- feedback: Incorrect. Los animales acuáticos también necesitan oxígeno, el cual extraen del agua mediante branquias o saliendo a la superficie. -->
 - [x] C) El medio físico donde viven los organismos (aire/suelo frente a agua). <!-- feedback: Correct. La clasificación principal depende de si el entorno dominante es el agua o la tierra firme. -->
@@ -147,14 +160,15 @@ Se evalúa la clasificación de los ecosistemas por su medio físico. La respues
 ## Question 7 [D5]
 
 **ID:** `CO-CN-4-2026-P2-ecosistemas-cadenas-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Explicación de fenómenos]
-**Context:** Adaptaciones de animales en el desierto de la Guajira.
+**Contexto:** Adaptaciones de animales en el desierto de la Guajira.
 
 ### Enunciado
 En el desierto de la Guajira, el agua es muy escasa. ¿Cuál es una adaptación de las plantas como los cactus para sobrevivir en este ecosistema?
 
-### Options
+### Opciones
 - [ ] A) Tener hojas muy grandes y delgadas para recibir mucha lluvia. <!-- feedback: Incorrect. Hojas grandes harían que la planta perdiera mucha agua por evaporación en un clima tan seco. -->
 - [x] B) Transformar sus hojas en espinas para no perder agua y almacenar líquido en su tallo. <!-- feedback: Correct. Las espinas reducen la pérdida de agua por transpiración y protegen a la planta de animales que quieran su agua almacenada. -->
 - [ ] C) Crecer solo durante la noche cuando no hay sol. <!-- feedback: Incorrect. Las plantas necesitan la luz solar del día para realizar fotosíntesis y crecer. -->
@@ -168,14 +182,15 @@ Se evalúa el concepto de adaptación biológica al medio ambiente. La respuesta
 ## Question 8 [D5]
 
 **ID:** `CO-CN-4-2026-P2-ecosistemas-cadenas-001-MASTERY-v8`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Indagación]
-**Context:** El concepto de Red Trófica en un parque natural.
+**Contexto:** El concepto de Red Trófica en un parque natural.
 
 ### Enunciado
 En la naturaleza, un animal no come una sola cosa, sino que puede tener varias fuentes de alimento. Cuando muchas cadenas alimenticias se cruzan en un mismo ecosistema, formamos una:
 
-### Options
+### Opciones
 - [ ] A) Pirámide de cristal <!-- feedback: Incorrect. No existe tal concepto en ecología. Es un distractor que usa un término físico sin relación biológica. -->
 - [ ] B) Cadena simple <!-- feedback: Incorrect. Una cadena simple es lineal; cuando hay múltiples conexiones cruzadas se usa otro término. -->
 - [x] C) Red trófica (o alimenticia) <!-- feedback: Correct. La red trófica representa la realidad compleja de un ecosistema donde los organismos tienen múltiples relaciones de alimentación. -->
@@ -189,14 +204,15 @@ Se evalúa la distinción entre cadena y red alimenticia. La respuesta correcta 
 ## Question 9 [D5]
 
 **ID:** `CO-CN-4-2026-P2-ecosistemas-cadenas-001-MASTERY-v9`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Explicación de fenómenos]
-**Context:** Introducción de una especie extraña en un ecosistema.
+**Contexto:** Introducción de una especie extraña en un ecosistema.
 
 ### Enunciado
 Si alguien lleva caracoles gigantes de otro país y los suelta en un bosque colombiano donde no tienen enemigos naturales (depredadores), ¿qué sucederá probablemente?
 
-### Options
+### Opciones
 - [ ] A) Los caracoles se harán amigos de los animales locales y compartirán comida. <!-- feedback: Incorrect. En la naturaleza no existe la "amistad" social; existe la competencia por recursos limitados como el alimento. -->
 - [x] B) Se multiplicarán demasiado y se comerán las plantas de las que dependen otros animales locales. <!-- feedback: Correct. Sin depredadores que controlen su población, una especie invasora puede causar un desequilibrio y dañar el ecosistema local. -->
 - [ ] C) Morirán inmediatamente porque extrañan su país de origen. <!-- feedback: Incorrect. Si el clima es adecuado, los animales pueden prosperar incluso mejor que en su lugar de origen si no hay quién se los coma. -->
@@ -210,14 +226,15 @@ Se evalúa la comprensión del equilibrio ecológico y el impacto de especies in
 ## Question 10 [D4]
 
 **ID:** `CO-CN-4-2026-P2-ecosistemas-cadenas-001-MASTERY-v10`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Ciencia, tecnología y sociedad]
-**Context:** Importancia de los páramos en Colombia.
+**Contexto:** Importancia de los páramos en Colombia.
 
 ### Enunciado
 Los páramos son ecosistemas únicos de Colombia que funcionan como "fábricas de agua". ¿Cuál es la principal razón por la que debemos protegerlos?
 
-### Options
+### Opciones
 - [ ] A) Porque allí se pueden construir edificios muy altos con buena vista. <!-- feedback: Incorrect. La construcción dañaría la vegetación delicada que atrapa el agua de la niebla. -->
 - [x] B) Porque de allí proviene el agua dulce que consumimos en muchas ciudades del país. <!-- feedback: Correct. La vegetación del páramo (como el frailejón) atrapa la humedad y regula el nacimiento de los ríos. -->
 - [ ] C) Porque el color gris de la niebla es muy bonito para pintar. <!-- feedback: Incorrect. Aunque es estético, la razón de protección es por un servicio vital (agua), no por su apariencia. -->

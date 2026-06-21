@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-W08-tema-semana-8-de-lectura-critica-001-MASTERY"
+id: "CO-LEC-6-2026-W08-tema-semana-8-de-lectura-critica-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 10
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W08 — Tema Semana 8 de Lectura Critica
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. San José en Bucaramanga
+**Contexto:** I.E. San José en Bucaramanga
 **Expected_Success:** 0.51
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. San José en Bucaramanga, se discute sobre Tema Semana 8 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 8 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 8 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 8 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 8 de Lectura Critica es central en el currículo de 6°. 
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** Colegio Nacional San Bartolomé en Manizales
+**Contexto:** Colegio Nacional San Bartolomé en Manizales
 **Expected_Success:** 0.62
 
 ### Enunciado
 En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Manizales, se discute sobre Tema Semana 8 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 8 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 8 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 8 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 8 de Lectura Critica es central en el currículo de 6°. 
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Armenia
+**Contexto:** Gimnasio Moderno en Armenia
 **Expected_Success:** 0.61
 
 ### Enunciado
 En la clase de Lectura Critica del Gimnasio Moderno en Armenia, se discute sobre Tema Semana 8 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 8 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 8 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 8 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 8 de Lectura Critica es central en el currículo de 6°. 
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Quibdó
+**Contexto:** I.E. Francisco de Paula Santander en Quibdó
 **Expected_Success:** 0.62
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Quibdó, se discute sobre Tema Semana 8 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 8 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 8 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 8 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 8 de Lectura Critica es central en el currículo de 6°. 
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** I.E. San José en Barranquilla
+**Contexto:** I.E. San José en Barranquilla
 **Expected_Success:** 0.56
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. San José en Barranquilla, se discute sobre Tema Semana 8 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 8 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 8 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 8 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 8 de Lectura Critica es central en el currículo de 6°. 
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** I.E. Francisco de Paula Santander en Quibdó
+**Contexto:** I.E. Francisco de Paula Santander en Quibdó
 **Expected_Success:** 0.73
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Quibdó, se discute sobre Tema Semana 8 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 8 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 8 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 8 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 8 de Lectura Critica es central en el currículo de 6°. 
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** I.E. Francisco de Paula Santander en Armenia
+**Contexto:** I.E. Francisco de Paula Santander en Armenia
 **Expected_Success:** 0.52
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Armenia, se discute sobre Tema Semana 8 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 8 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 8 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 8 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 8 de Lectura Critica es central en el currículo de 6°. 
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Cúcuta
+**Contexto:** I.E. Gabriel García Márquez en Cúcuta
 **Expected_Success:** 0.65
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Gabriel García Márquez en Cúcuta, se discute sobre Tema Semana 8 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 8 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 8 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 8 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 8 de Lectura Critica es central en el currículo de 6°. 
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Manizales
+**Contexto:** I.E. Santa Luisa de Marillac en Manizales
 **Expected_Success:** 0.67
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Manizales, se discute sobre Tema Semana 8 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 8 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 8 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 8 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 8 de Lectura Critica es central en el currículo de 6°. 
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Cartagena
+**Contexto:** Colegio La Presentación en Cartagena
 **Expected_Success:** 0.68
 
 ### Enunciado
 En la clase de Lectura Critica del Colegio La Presentación en Cartagena, se discute sobre Tema Semana 8 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 8 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 8 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 8 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

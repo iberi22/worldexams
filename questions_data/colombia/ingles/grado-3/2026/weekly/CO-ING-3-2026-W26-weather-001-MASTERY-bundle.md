@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W26-weather-001-MASTERY"
+id: "CO-ING-3-2026-W26-weather-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "weather"
 periodo: "weekly"
-semana: 26
+week: "W26"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "Vocabulary for weather conditions: sunny, rainy, cloudy, snowy
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W26: Weather (A1)
 
@@ -32,11 +37,12 @@ Este bundle evalúa el vocabulario sobre el clima en inglés.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 When the **sun** is out, the weather is: ☀️
 
-### Options
+### Opciones
 - [x] A) Sunny <!-- feedback: Correct! Sun -> Sunny. -->
 - [ ] B) Rainy <!-- feedback: Incorrect. -->
 - [ ] C) Snowy <!-- feedback: Incorrect. -->
@@ -52,11 +58,12 @@ Soleado se dice "sunny". Viene de la palabra "sun" (sol).
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 When **water** falls from the sky, it is: 🌧️
 
-### Options
+### Opciones
 - [ ] A) Sunny <!-- feedback: Incorrect. -->
 - [x] B) Rainy <!-- feedback: Correct! Rain -> Rainy. -->
 - [ ] C) Windy <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ Lluvioso se dice "rainy". Viene de "rain" (lluvia).
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 When there are many **clouds** in the sky: ☁️
 
-### Options
+### Opciones
 - [ ] A) Sunny <!-- feedback: Incorrect. -->
 - [ ] B) Rainy <!-- feedback: Incorrect. -->
 - [x] C) Cloudy <!-- feedback: Correct! Cloud -> Cloudy. -->
@@ -92,11 +100,12 @@ Nublado se dice "cloudy". Viene de "cloud" (nube).
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Frío"** in English? ❄️
 
-### Options
+### Opciones
 - [ ] A) Hot <!-- feedback: Incorrect. Hot is calor. -->
 - [x] B) Cold <!-- feedback: Correct! Cold is frío. -->
 - [ ] C) Warm <!-- feedback: Incorrect. Warm is tibio/cálido. -->
@@ -112,11 +121,12 @@ El frío se dice "cold".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Calor"** in English? 🌡️
 
-### Options
+### Opciones
 - [x] A) Hot <!-- feedback: Correct! Hot is calor/caliente. -->
 - [ ] B) Cold <!-- feedback: Incorrect. -->
 - [ ] C) Rainy <!-- feedback: Incorrect. -->
@@ -132,11 +142,12 @@ El calor se dice "hot".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Nieve"** or **"Nevando"**? ❄️
 
-### Options
+### Opciones
 - [ ] A) Rainy <!-- feedback: Incorrect. -->
 - [x] B) Snowy <!-- feedback: Correct! Snow -> Snowy. -->
 - [ ] C) Sunny <!-- feedback: Incorrect. -->
@@ -152,11 +163,12 @@ Nevado o cuando nieva se dice "snowy". Viene de "snow" (nieve).
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What do you use when it is **rainy**? ☂️
 
-### Options
+### Opciones
 - [ ] A) Sunglasses <!-- feedback: Incorrect. -->
 - [x] B) An umbrella <!-- feedback: Correct! -->
 - [ ] C) A hat <!-- feedback: Incorrect. -->
@@ -172,11 +184,12 @@ Usamos una sombrilla (umbrella) cuando está lluvioso (rainy).
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 When there is a lot of **wind**: 💨
 
-### Options
+### Opciones
 - [x] A) Windy <!-- feedback: Correct! Wind -> Windy. -->
 - [ ] B) Sunny <!-- feedback: Incorrect. -->
 - [ ] C) Rainy <!-- feedback: Incorrect. -->
@@ -192,11 +205,12 @@ Cuando hace mucho viento, decimos que está "windy".
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Complete: **"It is _______ today. I want an ice cream!"** 🍦
 
-### Options
+### Opciones
 - [ ] A) cold <!-- feedback: Incorrect. You want ice cream when it's hot. -->
 - [x] B) hot <!-- feedback: Correct! -->
 - [ ] C) snowy <!-- feedback: Incorrect. -->
@@ -212,11 +226,12 @@ Queremos helado cuando hace calor (hot).
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 How do you ask about the weather?
 
-### Options
+### Opciones
 - [ ] A) How are you? <!-- feedback: Incorrect. -->
 - [x] B) How is the weather? <!-- feedback: Correct! -->
 - [ ] C) What is your name? <!-- feedback: Incorrect. -->

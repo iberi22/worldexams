@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY"
+id: "CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Historia familiar y del barrio, fuentes históricas orales y escritas, genealogía, cambio y continuidad, memoria colectiva, patrimonio local"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Historia Familiar y del Barrio
 
@@ -27,14 +34,15 @@ Este bundle cubre la historia personal, familiar y del barrio como punto de part
 ## Question 1 [D3]
 
 **ID:** `CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. San José de Pitalito, la profesora pregunta cómo podemos conocer la historia de nuestra familia.
+**Contexto:** En la clase de sociales de la I.E. San José de Pitalito, la profesora pregunta cómo podemos conocer la historia de nuestra familia.
 
 ### Enunciado
 Para conocer la historia de nuestra familia, podemos recurrir a fuentes como:
 
-### Options
+### Opciones
 - [ ] A) Libros de ciencia ficción. <!-- feedback: Incorrecto. La ciencia ficción no cuenta la historia de nuestra familia. -->
 - [ ] B) Películas de superhéroes. <!-- feedback: Incorrecto. Las películas de superheroes no son fuentes históricas familiares. -->
 - [x] C) Los testimonios de nuestros abuelos, las fotografías familiares antiguas, los álbumes de recuerdos y los documentos como actas de nacimiento. <!-- feedback: Correcto. Las fuentes orales (testimonios de familiares mayores), visuales (fotografías) y documentales (registros civiles) son fundamentales para reconstruir la historia familiar. -->
@@ -48,14 +56,15 @@ Se evalúa el conocimiento de las fuentes para la historia familiar. La respuest
 ## Question 2 [D3]
 
 **ID:** `CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Normal de Facatativá, el profesor explica qué es la genealogía.
+**Contexto:** En la clase de sociales de la I.E. Normal de Facatativá, el profesor explica qué es la genealogía.
 
 ### Enunciado
 El árbol genealógico de una familia muestra:
 
-### Options
+### Opciones
 - [ ] A) Los tipos de árboles que crecen en el jardín de la casa. <!-- feedback: Incorrecto. El árbol genealógico no tiene que ver con árboles botánicos. -->
 - [x] B) Las relaciones de parentesco entre los miembros de una familia a través de varias generaciones: abuelos, padres, hijos, tíos, primos. <!-- feedback: Correcto. El árbol genealógico es un diagrama que representa gráficamente la historia de una familia, mostrando quiénes son los antepasados y cómo se relacionan entre sí. -->
 - [ ] C) Los nombres de las mascotas de la familia. <!-- feedback: Incorrecto. Las mascotas no hacen parte del árbol genealógico humano. -->
@@ -69,14 +78,15 @@ Se evalúa el conocimiento del concepto de árbol genealógico. La respuesta cor
 ## Question 3 [D4]
 
 **ID:** `CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales de la I.E. Técnica de Soacha, la profesora pregunta por qué es importante entrevistar a los abuelos.
+**Contexto:** En la clase de sociales de la I.E. Técnica de Soacha, la profesora pregunta por qué es importante entrevistar a los abuelos.
 
 ### Enunciado
 Las historias que cuentan los abuelos sobre su infancia son importantes porque:
 
-### Options
+### Opciones
 - [ ] A) Son entretenidas pero no tienen valor histórico. <!-- feedback: Incorrecto. Los testimonios orales tienen gran valor histórico. -->
 - [ ] B) Solo sirven para pasar el rato cuando no hay internet. <!-- feedback: Incorrecto. Su valor va más allá del entretenimiento. -->
 - [x] C) Nos permiten conocer cómo era la vida antes, qué ha cambiado y mantener viva la memoria de nuestra familia y nuestra comunidad. <!-- feedback: Correcto. La historia oral transmitida por los abuelos es una fuente valiosa para entender los cambios en la sociedad, las costumbres y la vida cotidiana a través del tiempo. -->
@@ -90,14 +100,15 @@ Se evalúa la comprensión del valor de la historia oral. La respuesta correcta 
 ## Question 4 [D4]
 
 **ID:** `CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. San Bartolomé de Bucaramanga, los estudiantes comparan fotos de su barrio de antes y de ahora.
+**Contexto:** En la clase de sociales de la I.E. San Bartolomé de Bucaramanga, los estudiantes comparan fotos de su barrio de antes y de ahora.
 
 ### Enunciado
 Si comparamos fotos de nuestro barrio de hace 30 años con fotos actuales, podemos observar:
 
-### Options
+### Opciones
 - [ ] A) Que el barrio siempre ha sido exactamente igual. <!-- feedback: Incorrecto. Los barrios cambian con el tiempo. -->
 - [ ] B) Que nada ha cambiado, ni siquiera las personas. <!-- feedback: Incorrecto. Siempre hay cambios con el paso del tiempo. -->
 - [x] C) Cambios en las construcciones, las calles, el transporte, los negocios y las formas de vestir de las personas. <!-- feedback: Correcto. Los barrios se transforman: pueden aparecer nuevas construcciones, cambiar las vías, modernizarse el transporte, abrir nuevos comercios y cambiar las costumbres de la gente. -->
@@ -111,14 +122,15 @@ Se evalúa la comprensión del cambio histórico a nivel local. La respuesta cor
 ## Question 5 [D4]
 
 **ID:** `CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Débora Arango de Envigado, la profesora pide hacer una línea de tiempo de la historia familiar.
+**Contexto:** En la clase de sociales de la I.E. Débora Arango de Envigado, la profesora pide hacer una línea de tiempo de la historia familiar.
 
 ### Enunciado
 Para organizar la historia de nuestra familia en orden cronológico, podemos usar:
 
-### Options
+### Opciones
 - [ ] A) Una lista de compras del supermercado. <!-- feedback: Incorrecto. Las compras no ordenan la historia familiar. -->
 - [ ] B) Un mapa de Colombia. <!-- feedback: Incorrecto. Un mapa muestra ubicaciones, no el paso del tiempo. -->
 - [x] C) Una línea de tiempo que coloque los eventos importantes en orden: el nacimiento de los abuelos, el matrimonio de los padres, el nacimiento de los hijos, etc. <!-- feedback: Correcto. La línea de tiempo es una herramienta que organiza eventos en orden cronológico, permitiendo visualizar la secuencia de la historia familiar. -->
@@ -132,14 +144,15 @@ Se evalúa la capacidad de aplicar herramientas de organización histórica. La 
 ## Question 6 [D4]
 
 **ID:** `CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-v6`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales de la I.E. La Presentación de Rionegro, un estudiante pregunta por qué su barrio se llama así.
+**Contexto:** En la clase de sociales de la I.E. La Presentación de Rionegro, un estudiante pregunta por qué su barrio se llama así.
 
 ### Enunciado
 El nombre de un barrio o vereda puede tener origen en:
 
-### Options
+### Opciones
 - [ ] A) La marca de un refresco. <!-- feedback: Incorrecto. No es común que los barrios se nombren por marcas comerciales. -->
 - [ ] B) El nombre de un programa de televisión. <!-- feedback: Incorrecto. Los barrios no suelen nombrarse por programas de TV. -->
 - [x] C) La historia del lugar, el nombre de una persona importante que vivió allí, una característica geográfica (El Cerro, La Loma) o una tradición local. <!-- feedback: Correcto. Los nombres de barrios reflejan la historia y cultura local: pueden venir de nombres de fundadores, de accidentes geográficos, de santos, de plantas típicas o de hechos históricos. -->
@@ -153,14 +166,15 @@ Se evalúa la comprensión del origen de los nombres locales. La respuesta corre
 ## Question 7 [D4]
 
 **ID:** `CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-v7`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Rural de San Vicente de Chucurí, los estudiantes investigan cómo era su vereda antes.
+**Contexto:** En la clase de sociales de la I.E. Rural de San Vicente de Chucurí, los estudiantes investigan cómo era su vereda antes.
 
 ### Enunciado
 Para investigar la historia de nuestro barrio o vereda, podemos:
 
-### Options
+### Opciones
 - [ ] A) Buscar solo en videos de YouTube de otros países. <!-- feedback: Incorrecto. Los videos de otros países no cuentan la historia de tu barrio. -->
 - [ ] B) Preguntar a personas que recién llegaron al barrio. <!-- feedback: Incorrecto. Los recién llegados no conocen la historia antigua del lugar. -->
 - [x] C) Entrevistar a los vecinos más antiguos, buscar fotografías viejas en las casas, consultar archivos de la alcaldía o la parroquia y visitar la biblioteca municipal. <!-- feedback: Correcto. La investigación histórica local combina fuentes orales (vecinos antiguos), visuales (fotos) y documentales (archivos municipales, eclesiásticos, notariales). -->
@@ -174,14 +188,15 @@ Se evalúa la capacidad de aplicar métodos de investigación histórica local. 
 ## Question 8 [D5]
 
 **ID:** `CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En clase de sociales de la I.E. INEM de Popayán, los estudiantes analizan cómo ha cambiado la forma de jugar de los niños.
+**Contexto:** En clase de sociales de la I.E. INEM de Popayán, los estudiantes analizan cómo ha cambiado la forma de jugar de los niños.
 
 ### Enunciado
 Antes, los niños solían jugar en la calle con juegos como el trompo, las canicas y la golosa. Hoy en día, muchos niños juegan más con videojuegos y dispositivos electrónicos. Esto muestra:
 
-### Options
+### Opciones
 - [ ] A) Que antes los niños no se divertían. <!-- feedback: Incorrecto. Los juegos tradicionales también divertían. -->
 - [ ] B) Que los juegos de antes eran mejores que los de ahora. <!-- feedback: Incorrecto. No se trata de mejor o peor, sino de diferente. -->
 - [x] C) Que las formas de diversión cambian con el tiempo, reflejando los cambios tecnológicos y sociales de cada época. <!-- feedback: Correcto. Los cambios en los juegos infantiles reflejan transformaciones más amplias en la sociedad: la urbanización, la tecnología, la seguridad y las nuevas dinámicas familiares. -->
@@ -195,14 +210,15 @@ Se evalúa la capacidad de analizar el cambio social a través de la vida cotidi
 ## Question 9 [D5]
 
 **ID:** `CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-v9`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Normal de Medellín, la profesora pregunta por qué es importante conservar fotos y objetos antiguos.
+**Contexto:** En la clase de sociales de la I.E. Normal de Medellín, la profesora pregunta por qué es importante conservar fotos y objetos antiguos.
 
 ### Enunciado
 Guardar fotografías antiguas, cartas y objetos de nuestros familiares es importante porque:
 
-### Options
+### Opciones
 - [ ] A) Ocupan espacio innecesariamente en la casa. <!-- feedback: Incorrecto. Aunque ocupan espacio, su valor va más allá. -->
 - [ ] B) Sirven solo para decorar las paredes. <!-- feedback: Incorrecto. Su función no es solo decorativa. -->
 - [x] C) Son testimonios materiales de la historia familiar que nos permiten recordar, conocer nuestras raíces y transmitir la memoria a las futuras generaciones. <!-- feedback: Correcto. Los objetos y documentos familiares son patrimonio histórico que conserva la memoria de las personas, sus vivencias y la evolución de la familia a través del tiempo. -->
@@ -216,14 +232,15 @@ Se evalúa la capacidad de analizar la importancia de la conservación de la mem
 ## Question 10 [D5]
 
 **ID:** `CO-SOC-4-2026-P3-historia-familiar-barrio-001-MASTERY-v10`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de formación ciudadana de la I.E. José Celestino Mutis de Bogotá, la profesora pregunta cómo la historia del barrio se conecta con la historia del país.
+**Contexto:** En la clase de formación ciudadana de la I.E. José Celestino Mutis de Bogotá, la profesora pregunta cómo la historia del barrio se conecta con la historia del país.
 
 ### Enunciado
 La historia de nuestro barrio o vereda está conectada con la historia del país porque:
 
-### Options
+### Opciones
 - [ ] A) No hay conexión, la historia local es independiente de la nacional. <!-- feedback: Incorrecto. La historia nacional se construye a partir de las historias locales. -->
 - [ ] B) Solo la historia de Bogotá importa para entender el país. <!-- feedback: Incorrecto. Todas las regiones aportan a la historia nacional. -->
 - [x] C) Los cambios que ocurren en el país (migraciones del campo a la ciudad, construcción de carreteras, conflictos armados) se reflejan en la historia de cada barrio y cada familia. <!-- feedback: Correcto. La historia nacional se vive a nivel local: la violencia de los años 50 transformó los barrios, las migraciones cambiaron la composición de las comunidades, y las políticas de vivienda dieron origen a nuevos sectores. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W36-multimodal-001-MASTERY"
+id: "CO-LEC-3-2026-W36-multimodal-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 36
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Multimodales
 
@@ -25,6 +30,7 @@ Este bundle evalúa la capacidad de integrar información proveniente de diferen
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Observas un mapa de Colombia. En el mapa, sobre la zona de la selva Amazónica, hay un pequeño dibujo de un **mico** y un **loro**. En la leyenda del mapa dice: 🐒 = Monos; 🦜 = Aves.
@@ -32,7 +38,7 @@ Observas un mapa de Colombia. En el mapa, sobre la zona de la selva Amazónica, 
 ### Enunciado
 ¿Qué significan los dibujos de animales puestos sobre el mapa en esa zona?
 
-### Options
+### Opciones
 - [ ] A) Que los animales son los dueños del mapa. <!-- feedback: Incorrecto. Los dibujos representan datos informativos en un mapa. -->
 - [x] B) Que en esa región de Colombia viven muchas especies de monos y aves. <!-- feedback: ¡Correcto! Los iconos (dibujos) se usan para indicar la presencia de fauna en el territorio. -->
 - [ ] C) Que hay que ir a esa selva a cazar animales. <!-- feedback: Incorrecto. El mapa es informativo, no una invitación a la caza. -->
@@ -48,6 +54,7 @@ Identificar el significado de iconos y símbolos en un contexto gráfico (mapa) 
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un folleto sobre el reciclaje muestra una caneca con una flecha verde que gira en círculo. Debajo dice: "**DALE OTRA VIDA A TUS COSAS**".
@@ -55,7 +62,7 @@ Un folleto sobre el reciclaje muestra una caneca con una flecha verde que gira e
 ### Enunciado
 ¿Cuál es la relación entre el dibujo de la flecha circular y el texto?
 
-### Options
+### Opciones
 - [ ] A) La flecha indica hacia dónde hay que correr. <!-- feedback: Incorrecto. No es una señal de dirección física para personas. -->
 - [x] B) El círculo representa el ciclo de volver a usar algo, apoyando la idea de "dar otra vida". <!-- feedback: ¡Correcto! El símbolo visual del ciclo (flecha que vuelve) refuerza el mensaje escrito sobre reciclaje. -->
 - [ ] C) La flecha dice que el texto está mal escrito. <!-- feedback: Incorrecto. Los elementos multimodales trabajan juntos, no se contradicen. -->
@@ -71,6 +78,7 @@ Comprender la complementariedad entre imagen y texto ayuda al estudiante a integ
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En un empaque de galletas, hay un dibujo de un **reloj tachado con una X roja** y al lado dice: "Listo en 0 minutos".
@@ -78,7 +86,7 @@ En un empaque de galletas, hay un dibujo de un **reloj tachado con una X roja** 
 ### Enunciado
 ¿Qué nos quiere comunicar el fabricante con este dibujo y el texto?
 
-### Options
+### Opciones
 - [ ] A) Que las galletas no se pueden comer a ninguna hora. <!-- feedback: Incorrecto. La X tacha al reloj para indicar otra idea sobre el tiempo. -->
 - [x] B) Que no hace falta esperar ni cocinar las galletas porque ya están preparadas. <!-- feedback: ¡Correcto! El símbolo de "no tiempo" y el "0 minutos" indican inmediatez. -->
 - [ ] C) Que el reloj de la cocina se rompió. <!-- feedback: Incorrecto. Es un símbolo gráfico sobre el producto, no sobre un objeto real roto. -->
@@ -94,6 +102,7 @@ Interpretar símbolos de prohibición o negación (como la X roja) combinados co
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Una infografía sobre el lavado de manos tiene:
@@ -105,7 +114,7 @@ Los dibujos están unidos por flechas que van del 1 al 2 y del 2 al 3.
 ### Enunciado
 ¿En qué dirección debemos leer esta información y por qué?
 
-### Options
+### Opciones
 - [ ] A) En cualquier orden, da lo mismo. <!-- feedback: Incorrecto. Las flechas indican un proceso que debe seguirse. -->
 - [ ] B) De derecha a izquierda porque es más divertido. <!-- feedback: Incorrecto. En nuestra cultura leemos de izquierda a derecha y las flechas lo confirman. -->
 - [x] C) Siguiendo las flechas, porque muestran el orden de los pasos del 1 al 3. <!-- feedback: ¡Correcto! Las flechas son guías visuales que establecen la secuencia temporal del proceso. -->
@@ -121,6 +130,7 @@ Reconocer las guías de lectura (flechas, números) en textos multimodales de pr
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un cartel de una biblioteca tiene la foto de un niño volando sobre un libro gigante como si fuera una alfombra mágica. El texto dice: "**LEE Y VIAJA LEJOS**".
@@ -128,7 +138,7 @@ Un cartel de una biblioteca tiene la foto de un niño volando sobre un libro gig
 ### Enunciado
 ¿Cuál es la función de la **imagen del niño volando** en este cartel?
 
-### Options
+### Opciones
 - [ ] A) Mostrarnos que los libros son medios de transporte reales como los aviones. <!-- feedback: Incorrecto. No es un viaje físico, es imaginario. -->
 - [x] B) Representar visualmente que la lectura permite imaginar mundos y lugares diferentes. <!-- feedback: ¡Correcto! La imagen es una metáfora visual de la capacidad de la mente para "viajar" al leer. -->
 - [ ] C) Avisar que los libros en esa biblioteca son muy pesados. <!-- feedback: Incorrecto. La imagen no habla del peso físico, sino de la experiencia de lectura. -->
@@ -144,6 +154,7 @@ Analizar metáforas visuales en carteles permite al estudiante comprender mensaj
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En un manual de un juguete, aparece un dibujo de una batería con un símbolo de **"+"** y un **"-"**, y una flecha que indica cómo ponerla dentro del control remoto.
@@ -151,7 +162,7 @@ En un manual de un juguete, aparece un dibujo de una batería con un símbolo de
 ### Enunciado
 ¿Qué pasaría si ignoras la información gráfica de los símbolos "+" y "-"?
 
-### Options
+### Opciones
 - [ ] A) El juguete cambiará de color. <!-- feedback: Incorrecto. La energía no cambia los colores del plástico. -->
 - [x] B) Probablemente el juguete no funcione porque la energía no circulará bien. <!-- feedback: ¡Correcto! La posición de los polos de la batería es necesaria para el funcionamiento eléctrico. -->
 - [ ] C) La batería se cargará sola. <!-- feedback: Incorrecto. Ignorar la instrucción no genera carga. -->
@@ -167,6 +178,7 @@ Evaluar la importancia de la información técnica visual desarrolla habilidades
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Infografía del Clima:**
@@ -177,7 +189,7 @@ Evaluar la importancia de la información técnica visual desarrolla habilidades
 ### Enunciado
 Analizando los dibujos y los números, ¿cuál es la relación entre el clima y la temperatura?
 
-### Options
+### Opciones
 - [ ] A) Cuando llueve, hace más calor que cuando sale el sol. <!-- feedback: Incorrecto. Los datos muestran 18°C para la lluvia y 30°C para el sol. -->
 - [x] B) Los días con sol tienen temperaturas más altas que los días nublados o lluviosos. <!-- feedback: ¡Correcto! El estudiante integra el símbolo visual con el dato numérico de los grados centígrados. -->
 - [ ] C) El miércoles es el día más frío de la semana. <!-- feedback: Incorrecto. El martes es el más frío (18°C). -->
@@ -193,6 +205,7 @@ Integrar datos cualitativos (dibujos) con cuantitativos (números) es un ejercic
 **Bloom:** Evaluate
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un aviso en la carretera muestra un **triángulo rojo con un dibujo de un ciervo saltando**. El texto de abajo dice: "**ZONA URBANA, CONDUZCA RÁPIDO**".
@@ -200,7 +213,7 @@ Un aviso en la carretera muestra un **triángulo rojo con un dibujo de un ciervo
 ### Enunciado
 ¿Por qué este aviso es **confuso o está mal diseñado**?
 
-### Options
+### Opciones
 - [ ] A) Porque el ciervo está muy mal dibujado. <!-- feedback: Incorrecto. El problema no es el dibujo, sino el mensaje. -->
 - [x] B) Porque el dibujo advierte sobre animales salvajes (ciervos), pero el texto dice "zona urbana" y pide ir rápido, lo cual es peligroso y contradictorio. <!-- feedback: ¡Correcto! La imagen y el texto no coinciden en su mensaje de seguridad vial. -->
 - [ ] C) Porque el color rojo es muy feo para un triángulo. <!-- feedback: Incorrecto. El rojo es el color universal para advertencias y señales de peligro. -->

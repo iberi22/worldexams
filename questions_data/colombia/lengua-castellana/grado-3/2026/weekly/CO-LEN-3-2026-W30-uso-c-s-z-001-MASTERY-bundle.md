@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY"
+id: "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 3"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Ortografía - uso de la c, s y z - Grado 3
 
@@ -22,7 +24,7 @@ Este bundle practica el uso de la "c", la "s" y la "z", letras que en el españo
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -33,21 +35,20 @@ Este bundle practica el uso de la "c", la "s" y la "z", letras que en el españo
 ¿Cuál es la forma correcta de escribir la palabra que nombra al calzado que usamos?
 
 ### Opciones
-- [ ] A) Sapato (con s)
-  <!-- feedback: Aunque suena igual, se escribe con z. -->
-- [x] B) Zapato (con z)
-  <!-- feedback: ¡Correcto! Zapato se escribe siempre con z inicial. -->
-- [ ] C) Capato (con c)
-  <!-- feedback: La c con la a suena "ka". -->
-- [ ] D) Tzapato
-  <!-- feedback: En español no se usa esa combinación inicial. -->
+- [ ] A) Sapato (con s) <!-- feedback: Incorrecto. Sapato (con s) -->
+
+- [x] B) Zapato (con z) <!-- feedback: Correcto! Zapato (con z) -->
+
+- [ ] C) Capato (con c) <!-- feedback: Incorrecto. Capato (con c) -->
+
+- [ ] D) Tzapato <!-- feedback: Incorrecto. Tzapato -->
 
 ### Explicación Pedagogica
 Muchas palabras que empiezan con el sonido /s/ se escriben con "z", y es necesario conocerlas visualmente.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -58,21 +59,20 @@ Muchas palabras que empiezan con el sonido /s/ se escriben con "z", y es necesar
 ¿Ante qué vocales la letra **"c"** suena como una /s/?
 
 ### Opciones
-- [x] A) Ante la e y la i (ce, ci).
-  <!-- feedback: ¡Muy bien! Como en "celeste" y "cine". -->
-- [ ] B) Ante la a, o y u (ca, co, cu).
-  <!-- feedback: En esos casos suena fuerte como "ka". -->
-- [ ] C) Ante todas las vocales.
-  <!-- feedback: No, su sonido cambia según la vocal. -->
-- [ ] D) Nunca suena como s.
-  <!-- feedback: En Colombia y el resto de América sí tiene ese sonido. -->
+- [x] A) Ante la e y la i (ce, ci). <!-- feedback: Correcto! Ante la e y la i (ce, ci). -->
+
+- [ ] B) Ante la a, o y u (ca, co, cu). <!-- feedback: Incorrecto. Ante la a, o y u (ca, co, cu). -->
+
+- [ ] C) Ante todas las vocales. <!-- feedback: Incorrecto. Ante todas las vocales. -->
+
+- [ ] D) Nunca suena como s. <!-- feedback: Incorrecto. Nunca suena como s. -->
 
 ### Explicación Pedagogica
 La letra "c" tiene dos sonidos: fuerte (ka, ko, ku) y suave (se, si) dependiendo de la vocal que la siga.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -84,21 +84,20 @@ La letra "c" tiene dos sonidos: fuerte (ka, ko, ku) y suave (se, si) dependiendo
 (Ejemplo: **ratón**, **flor**, **café**)
 
 ### Opciones
-- [ ] A) Con s (-sito, -sita).
-  <!-- feedback: Solo si la palabra original tiene s en la última sílaba. -->
-- [x] B) Con c (-cito, -cita).
-  <!-- feedback: ¡Excelente! Como en "ratoncito", "florecita", "cafecito". -->
-- [ ] C) Con z (-zito, -zita).
-  <!-- feedback: No se usa la z para estos diminutivos comunes. -->
-- [ ] D) Con x (-xito, -xita).
-  <!-- feedback: No es correcto. -->
+- [ ] A) Con s (-sito, -sita). <!-- feedback: Incorrecto. Con s (-sito, -sita). -->
+
+- [x] B) Con c (-cito, -cita). <!-- feedback: Correcto! Con c (-cito, -cita). -->
+
+- [ ] C) Con z (-zito, -zita). <!-- feedback: Incorrecto. Con z (-zito, -zita). -->
+
+- [ ] D) Con x (-xito, -xita). <!-- feedback: Incorrecto. Con x (-xito, -xita). -->
 
 ### Explicación Pedagogica
 La mayoría de los diminutivos se forman con la terminación -cito/a, que se escribe con c.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -109,21 +108,20 @@ La mayoría de los diminutivos se forman con la terminación -cito/a, que se esc
 ¿Cuál es la forma correcta de escribir la palabra que significa el acto de cantar?
 
 ### Opciones
-- [ ] A) Cansión (con s)
-  <!-- feedback: No, es un error muy común. -->
-- [x] B) Canción (con c)
-  <!-- feedback: ¡Correcto! Las palabras terminadas en -ción suelen ir con c (y tilde). -->
-- [ ] C) Canzión (con z)
-  <!-- feedback: No es correcto. -->
-- [ ] D) Cancion (sin tilde)
-  <!-- feedback: Debe llevar tilde en la o por ser aguda terminada en n. -->
+- [ ] A) Cansión (con s) <!-- feedback: Incorrecto. Cansión (con s) -->
+
+- [x] B) Canción (con c) <!-- feedback: Correcto! Canción (con c) -->
+
+- [ ] C) Canzión (con z) <!-- feedback: Incorrecto. Canzión (con z) -->
+
+- [ ] D) Cancion (sin tilde) <!-- feedback: Incorrecto. Cancion (sin tilde) -->
 
 ### Explicación Pedagogica
 Las palabras terminadas en el sufijo -ción, que deriva de verbos o palabras con "t", se escriben con c.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -135,21 +133,20 @@ Las palabras terminadas en el sufijo -ción, que deriva de verbos o palabras con
 (Ejemplo: **amor__, famo__, ruido__**)
 
 ### Opciones
-- [ ] A) Con c (-oco, -oca).
-  <!-- feedback: No es la terminación pedida. -->
-- [x] B) Con s (-oso, -osa).
-  <!-- feedback: ¡Así es! Amoroso, famosa, ruidoso siempre van con s. -->
-- [ ] C) Con z (-ozo, -oza).
-  <!-- feedback: No es lo habitual en estos adjetivos. -->
-- [ ] D) Con x (-oxo, -oxa).
-  <!-- feedback: No es correcto. -->
+- [ ] A) Con c (-oco, -oca). <!-- feedback: Incorrecto. Con c (-oco, -oca). -->
+
+- [x] B) Con s (-oso, -osa). <!-- feedback: Correcto! Con s (-oso, -osa). -->
+
+- [ ] C) Con z (-ozo, -oza). <!-- feedback: Incorrecto. Con z (-ozo, -oza). -->
+
+- [ ] D) Con x (-oxo, -oxa). <!-- feedback: Incorrecto. Con x (-oxo, -oxa). -->
 
 ### Explicación Pedagogica
 Los adjetivos terminados en -oso y -osa se escriben siempre con la letra s.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -160,21 +157,20 @@ Los adjetivos terminados en -oso y -osa se escriben siempre con la letra s.
 Si el singular es **"lápiz"** (con z), ¿cuál es el plural correcto?
 
 ### Opciones
-- [ ] A) Lápizes (con z)
-  <!-- feedback: No, la z cambia antes de la e. -->
-- [ ] B) Lápises (con s)
-  <!-- feedback: No se usa la s en este cambio. -->
-- [x] C) Lápices (con c)
-  <!-- feedback: ¡Exacto! La z cambia a c cuando se le añade -es para el plural. -->
-- [ ] D) Lapices (sin tilde)
-  <!-- feedback: Conserva la tilde del singular. -->
+- [ ] A) Lápizes (con z) <!-- feedback: Incorrecto. Lápizes (con z) -->
+
+- [ ] B) Lápises (con s) <!-- feedback: Incorrecto. Lápises (con s) -->
+
+- [x] C) Lápices (con c) <!-- feedback: Correcto! Lápices (con c) -->
+
+- [ ] D) Lapices (sin tilde) <!-- feedback: Incorrecto. Lapices (sin tilde) -->
 
 ### Explicación Pedagogica
 Es una regla fundamental: las palabras que terminan en z en singular, cambian la z por c en el plural.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -186,21 +182,20 @@ Es una regla fundamental: las palabras que terminan en z en singular, cambian la
 (Ejemplo: **__armar**, **__hacer**, **__peinar**)
 
 ### Opciones
-- [x] A) Con s (des-).
-  <!-- feedback: ¡Muy bien! El prefijo des- siempre se escribe con s. -->
-- [ ] B) Con c (dec-).
-  <!-- feedback: No tendría el mismo significado. -->
-- [ ] C) Con z (dez-).
-  <!-- feedback: No es correcto en español. -->
-- [ ] D) Con x (dex-).
-  <!-- feedback: Sería un prefijo diferente. -->
+- [x] A) Con s (des-). <!-- feedback: Correcto! Con s (des-). -->
+
+- [ ] B) Con c (dec-). <!-- feedback: Incorrecto. Con c (dec-). -->
+
+- [ ] C) Con z (dez-). <!-- feedback: Incorrecto. Con z (dez-). -->
+
+- [ ] D) Con x (dex-). <!-- feedback: Incorrecto. Con x (dex-). -->
 
 ### Explicación Pedagogica
 Reconocer los prefijos comunes como des- ayuda a evitar errores ortográficos en una gran cantidad de palabras.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -211,21 +206,20 @@ Reconocer los prefijos comunes como des- ayuda a evitar errores ortográficos en
 ¿Cuál es la forma correcta de escribir la acción de cocinar alimentos al fuego?
 
 ### Opciones
-- [ ] A) Coser (con s)
-  <!-- feedback: No, "coser" con s es unir telas con aguja e hilo. -->
-- [x] B) Cocer (con c)
-  <!-- feedback: ¡Correcto! Cocer con c se refiere a la cocina. -->
-- [ ] C) Cozer (con z)
-  <!-- feedback: No es una forma válida en español. -->
-- [ ] D) Cocher
-  <!-- feedback: No es correcto. -->
+- [ ] A) Coser (con s) <!-- feedback: Incorrecto. Coser (con s) -->
+
+- [x] B) Cocer (con c) <!-- feedback: Correcto! Cocer (con c) -->
+
+- [ ] C) Cozer (con z) <!-- feedback: Incorrecto. Cozer (con z) -->
+
+- [ ] D) Cocher <!-- feedback: Incorrecto. Cocher -->
 
 ### Explicación Pedagogica
 El contexto es fundamental para decidir la ortografía de palabras que suenan igual pero tienen significados y escrituras distintas.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -236,21 +230,20 @@ El contexto es fundamental para decidir la ortografía de palabras que suenan ig
 "La **selebrazión** por los **dies** años fue **er mosa**". ¿Cuántos errores de c/s/z hay en las palabras resaltadas?
 
 ### Opciones
-- [ ] A) Un error.
-  <!-- feedback: Hay más. -->
-- [ ] B) Dos errores.
-  <!-- feedback: Hay tres errores en total. -->
-- [x] C) Tres errores.
-  <!-- feedback: ¡Excelente! Celebración (con c), diez (con z) y hermosa (con s). -->
-- [ ] D) Ningún error.
-  <!-- feedback: Todas las palabras resaltadas están mal escritas. -->
+- [ ] A) Un error. <!-- feedback: Incorrecto. Un error. -->
+
+- [ ] B) Dos errores. <!-- feedback: Incorrecto. Dos errores. -->
+
+- [x] C) Tres errores. <!-- feedback: Correcto! Tres errores. -->
+
+- [ ] D) Ningún error. <!-- feedback: Incorrecto. Ningún error. -->
 
 ### Explicación Pedagogica
 La revisión minuciosa de los textos permite identificar y corregir confusiones comunes entre estas tres letras.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -261,14 +254,13 @@ La revisión minuciosa de los textos permite identificar y corregir confusiones 
 ¿Cuál de estas frases está escrita correctamente siguiendo las reglas de c, s y z?
 
 ### Opciones
-- [ ] A) Protejamos a los peses del mar azul.
-  <!-- feedback: Peses está mal (debe ser peces). -->
-- [x] B) Cuidemos a los peces en este mar azul.
-  <!-- feedback: ¡Muy bien! Cuidemos (c), peces (c de plural) y azul (z) están correctas. -->
-- [ ] C) Suidemos a los peses en este mar asul.
-  <!-- feedback: Varios errores de c, s y z. -->
-- [ ] D) Cuidemos a los pezes en este mar azul.
-  <!-- feedback: Pezes está mal (el plural de pez es peces). -->
+- [ ] A) Protejamos a los peses del mar azul. <!-- feedback: Incorrecto. Protejamos a los peses del mar azul. -->
+
+- [x] B) Cuidemos a los peces en este mar azul. <!-- feedback: Correcto! Cuidemos a los peces en este mar azul. -->
+
+- [ ] C) Suidemos a los peses en este mar asul. <!-- feedback: Incorrecto. Suidemos a los peses en este mar asul. -->
+
+- [ ] D) Cuidemos a los pezes en este mar azul. <!-- feedback: Incorrecto. Cuidemos a los pezes en este mar azul. -->
 
 ### Explicación Pedagogica
 La ortografía correcta refuerza la autoridad y la seriedad de los mensajes que queremos transmitir a la comunidad.

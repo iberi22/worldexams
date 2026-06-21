@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-8-2026-P2-comprehensive-001-MASTERY"
+id: "CO-MAT-8-2026-P2-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "matematicas"
@@ -19,7 +19,12 @@ rubric_baseline: "productos notables, ecuaciones lineales con dos variables, dat
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Productos Notables, Ecuaciones Lineales y Datos Bivariados
 
@@ -31,13 +36,14 @@ Este bundle cubre productos notables básicos, ecuaciones lineales con dos varia
 
 **ID:** `CO-MAT-8-2026-P2-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Un estudiante en Bogotá está aprendiendo productos notables en su clase de álgebra.
+**Contexto:** Un estudiante en Bogotá está aprendiendo productos notables en su clase de álgebra.
 
 ### Enunciado
 ¿Cuál es el desarrollo correcto de $(x + 3)(x - 3)$?
 
-### Options
+### Opciones
 - [ ] A) $x^2 - 6x + 9$ <!-- feedback: Incorrect. Esto sería $(x-3)^2$, no $(x+3)(x-3)$. -->
 - [ ] B) $x^2 - 3$ <!-- feedback: Incorrect. Faltan términos en el desarrollo. -->
 - [x] C) $x^2 - 9$ <!-- feedback: Correct. $(x+3)(x-3) = x^2 - 3x + 3x - 9 = x^2 - 9$ (diferencia de cuadrados). -->
@@ -52,13 +58,14 @@ La diferencia de cuadrados es un producto notable: $(a+b)(a-b) = a^2 - b^2$. Los
 
 **ID:** `CO-MAT-8-2026-P2-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En una clase en Medellín, la profesora explica el cuadrado de un binomio.
+**Contexto:** En una clase en Medellín, la profesora explica el cuadrado de un binomio.
 
 ### Enunciado
 ¿Cuál es el resultado de $(2x + 1)^2$?
 
-### Options
+### Opciones
 - [ ] A) $2x^2 + 4x + 1$ <!-- feedback: Incorrect. $(2x)^2 = 4x^2$, no $2x^2$. -->
 - [x] B) $4x^2 + 4x + 1$ <!-- feedback: Correct. $(2x+1)^2 = (2x)^2 + 2(2x)(1) + 1^2 = 4x^2 + 4x + 1$. -->
 - [ ] C) $4x^2 + 2x + 1$ <!-- feedback: Incorrect. El doble producto es $2(2x)(1) = 4x$, no $2x$. -->
@@ -73,13 +80,14 @@ El cuadrado de un binomio $(a+b)^2 = a^2 + 2ab + b^2$. Es importante elevar cada
 
 **ID:** `CO-MAT-8-2026-P2-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Un estudiante en Cali afirma que $(x+5)^2 = x^2 + 25$.
+**Contexto:** Un estudiante en Cali afirma que $(x+5)^2 = x^2 + 25$.
 
 ### Enunciado
 ¿Es correcta la afirmación?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque el cuadrado de una suma es la suma de los cuadrados. <!-- feedback: Incorrect. Ese es un error común; falta el término $2ab$. -->
 - [x] B) No, porque $(x+5)^2 = x^2 + 10x + 25$. <!-- feedback: Correct. $(x+5)^2 = x^2 + 2(x)(5) + 5^2 = x^2 + 10x + 25$. -->
 - [ ] C) Sí, porque $x^2 + 25$ es la forma simplificada. <!-- feedback: Incorrect. No se puede simplificar más; el desarrollo correcto incluye $10x$. -->
@@ -94,13 +102,14 @@ El error de olvidar el término $2ab$ al desarrollar $(a+b)^2$ es muy común. Si
 
 **ID:** `CO-MAT-8-2026-P2-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En un taller en Barranquilla, los estudiantes deben identificar qué expresión es el desarrollo de $(3a - 2b)(3a + 2b)$.
+**Contexto:** En un taller en Barranquilla, los estudiantes deben identificar qué expresión es el desarrollo de $(3a - 2b)(3a + 2b)$.
 
 ### Enunciado
 ¿Cuál es la expresión correcta?
 
-### Options
+### Opciones
 - [ ] A) $9a^2 - 12ab + 4b^2$ <!-- feedback: Incorrect. Esto sería $(3a-2b)^2$, no $(3a+2b)(3a-2b)$. -->
 - [x] B) $9a^2 - 4b^2$ <!-- feedback: Correct. Es una diferencia de cuadrados: $(3a)^2 - (2b)^2 = 9a^2 - 4b^2$. -->
 - [ ] C) $9a^2 + 4b^2$ <!-- feedback: Incorrect. La diferencia de cuadrados tiene signo negativo entre los términos. -->
@@ -115,13 +124,14 @@ La suma por la diferencia de dos términos da como resultado la diferencia de su
 
 **ID:** `CO-MAT-8-2026-P2-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Una tienda de frutas en Pereira vende manzanas a $2.500$ pesos cada una y naranjas a $1.500$ pesos cada una. En un día, la tienda recaudó $45.000$ pesos por la venta de ambas frutas, vendiendo un total de 22 frutas.
+**Contexto:** Una tienda de frutas en Pereira vende manzanas a $2.500$ pesos cada una y naranjas a $1.500$ pesos cada una. En un día, la tienda recaudó $45.000$ pesos por la venta de ambas frutas, vendiendo un total de 22 frutas.
 
 ### Enunciado
 Si $x$ es el número de manzanas y $y$ el número de naranjas, ¿cuál sistema de ecuaciones representa esta situación?
 
-### Options
+### Opciones
 - [ ] A) $\begin{cases} x + y = 22 \\ 2500x + 1500y = 45000 \end{cases}$ <!-- feedback: Correct. La primera ecuación suma las cantidades, la segunda suma los valores. -->
 - [ ] B) $\begin{cases} x + y = 45000 \\ 2500x + 1500y = 22 \end{cases}$ <!-- feedback: Incorrect. Se intercambiaron los totales. -->
 - [ ] C) $\begin{cases} 2500x + 1500y = 22 \\ x + y = 45000 \end{cases}$ <!-- feedback: Incorrect. Las ecuaciones están intercambiadas. -->
@@ -136,13 +146,14 @@ Un sistema de ecuaciones lineales con dos variables modela situaciones con dos c
 
 **ID:** `CO-MAT-8-2026-P2-comprehensive-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Se tiene el sistema de ecuaciones: $\begin{cases} x + y = 10 \\ x - y = 4 \end{cases}$.
+**Contexto:** Se tiene el sistema de ecuaciones: $\begin{cases} x + y = 10 \\ x - y = 4 \end{cases}$.
 
 ### Enunciado
 ¿Cuáles son los valores de $x$ y $y$?
 
-### Options
+### Opciones
 - [ ] A) $x = 6$, $y = 4$ <!-- feedback: Incorrect. $6 - 4 = 2$, no 4. -->
 - [ ] B) $x = 5$, $y = 5$ <!-- feedback: Incorrect. $5 - 5 = 0$, no 4. -->
 - [x] C) $x = 7$, $y = 3$ <!-- feedback: Correct. Sumando: $2x = 14$, $x = 7$; luego $7 + y = 10$, $y = 3$. Verificando: $7 - 3 = 4$. -->
@@ -157,13 +168,14 @@ Por el método de reducción (suma), se suman las dos ecuaciones para eliminar $
 
 **ID:** `CO-MAT-8-2026-P2-comprehensive-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En una clase en Bucaramanga, la profesora grafica la ecuación $y = 2x - 3$.
+**Contexto:** En una clase en Bucaramanga, la profesora grafica la ecuación $y = 2x - 3$.
 
 ### Enunciado
 ¿Cuál de los siguientes puntos pertenece a la recta $y = 2x - 3$?
 
-### Options
+### Opciones
 - [ ] A) $(1, 2)$ <!-- feedback: Incorrect. $2(1) - 3 = -1 \neq 2$. -->
 - [ ] B) $(-1, -3)$ <!-- feedback: Incorrect. $2(-1) - 3 = -5 \neq -3$. -->
 - [x] C) $(0, -3)$ <!-- feedback: Correct. $2(0) - 3 = -3$. El punto $(0, -3)$ es el intercepto con el eje $y$. -->
@@ -178,13 +190,14 @@ Un punto pertenece a una recta si al sustituir sus coordenadas en la ecuación s
 
 **ID:** `CO-MAT-8-2026-P2-comprehensive-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Un estudio en un colegio de Bogotá relaciona las horas de estudio semanal ($x$) con el promedio académico ($y$) de 5 estudiantes, obteniendo: $(2, 3.0)$, $(4, 3.5)$, $(6, 4.0)$, $(8, 4.5)$, $(10, 5.0)$.
+**Contexto:** Un estudio en un colegio de Bogotá relaciona las horas de estudio semanal ($x$) con el promedio académico ($y$) de 5 estudiantes, obteniendo: $(2, 3.0)$, $(4, 3.5)$, $(6, 4.0)$, $(8, 4.5)$, $(10, 5.0)$.
 
 ### Enunciado
 ¿Qué tipo de relación existe entre las horas de estudio y el promedio académico?
 
-### Options
+### Opciones
 - [ ] A) Relación inversa: a más horas, menor promedio. <!-- feedback: Incorrect. Los datos muestran que el promedio aumenta con las horas. -->
 - [x] B) Relación lineal positiva. <!-- feedback: Correct. A medida que aumentan las horas de estudio, el promedio aumenta de manera constante. -->
 - [ ] C) No hay relación entre las variables. <!-- feedback: Incorrect. Claramente hay una tendencia clara al aumentar los datos. -->
@@ -199,13 +212,14 @@ En datos bivariados, cuando una variable aumenta y la otra también lo hace de m
 
 **ID:** `CO-MAT-8-2026-P2-comprehensive-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Se tienen los puntos $(1, 2)$, $(3, 6)$, $(5, 10)$ de un conjunto de datos bivariados.
+**Contexto:** Se tienen los puntos $(1, 2)$, $(3, 6)$, $(5, 10)$ de un conjunto de datos bivariados.
 
 ### Enunciado
 ¿Cuál es la ecuación de la recta que mejor se ajusta a estos datos?
 
-### Options
+### Opciones
 - [ ] A) $y = x + 1$ <!-- feedback: Incorrect. Para $x=3$, $y=4$, pero el punto es $(3,6)$. -->
 - [x] B) $y = 2x$ <!-- feedback: Correct. Todos los puntos cumplen: $2(1)=2$, $2(3)=6$, $2(5)=10$. -->
 - [ ] C) $y = 2x + 1$ <!-- feedback: Incorrect. Para $x=1$, $y=3$, pero el punto es $(1,2)$. -->
@@ -220,13 +234,14 @@ La recta de mejor ajuste describe la tendencia de los datos bivariados. Se verif
 
 **ID:** `CO-MAT-8-2026-P2-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Un estudiante resuelve el sistema $\begin{cases} 2x + y = 12 \\ x - y = 3 \end{cases}$.
+**Contexto:** Un estudiante resuelve el sistema $\begin{cases} 2x + y = 12 \\ x - y = 3 \end{cases}$.
 
 ### Enunciado
 ¿Cuál es el valor de $x$?
 
-### Options
+### Opciones
 - [ ] A) $x = 3$ <!-- feedback: Incorrect. $2(3) + y = 12 \to y = 6$, pero $3 - 6 \neq 3$. -->
 - [ ] B) $x = 4$ <!-- feedback: Incorrect. $2(4) + y = 12 \to y = 4$, pero $4 - 4 \neq 3$. -->
 - [x] C) $x = 5$ <!-- feedback: Correct. Sumando: $3x = 15$, $x = 5$. Luego $2(5) + y = 12$, $y = 2$. Verificando: $5 - 2 = 3$. -->
@@ -241,13 +256,14 @@ Por el método de reducción, se suman ambas ecuaciones: $(2x+y)+(x-y) = 3x = 15
 
 **ID:** `CO-MAT-8-2026-P2-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Un profesor en Medellín pregunta a sus estudiantes si las rectas $y = 3x + 2$ y $y = 3x - 4$ son paralelas, perpendiculares o ninguna.
+**Contexto:** Un profesor en Medellín pregunta a sus estudiantes si las rectas $y = 3x + 2$ y $y = 3x - 4$ son paralelas, perpendiculares o ninguna.
 
 ### Enunciado
 ¿Cuál es la respuesta correcta?
 
-### Options
+### Opciones
 - [x] A) Paralelas, porque ambas tienen pendiente $m = 3$. <!-- feedback: Correct. Rectas con la misma pendiente son paralelas. -->
 - [ ] B) Perpendiculares, porque $3 \times 3 = 9 \neq -1$. <!-- feedback: Incorrect. Para ser perpendiculares, el producto de las pendientes debe ser $-1$. -->
 - [ ] C) Ninguna de las anteriores, porque tienen diferente intercepto. <!-- feedback: Incorrect. El intercepto no determina el paralelismo, solo la pendiente. -->
@@ -262,13 +278,14 @@ Dos rectas son paralelas si tienen la misma pendiente ($m_1 = m_2$). El intercep
 
 **ID:** `CO-MAT-8-2026-P2-comprehensive-001-MASTERY-v12`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En una encuesta escolar en Cartagena, se preguntó a 10 estudiantes sobre sus horas de ejercicio semanal ($x$) y su frecuencia cardíaca en reposo ($y$). Los datos mostraron una correlación de $r = -0.85$.
+**Contexto:** En una encuesta escolar en Cartagena, se preguntó a 10 estudiantes sobre sus horas de ejercicio semanal ($x$) y su frecuencia cardíaca en reposo ($y$). Los datos mostraron una correlación de $r = -0.85$.
 
 ### Enunciado
 ¿Qué interpretación tiene este coeficiente de correlación?
 
-### Options
+### Opciones
 - [x] A) Correlación negativa fuerte: a más horas de ejercicio, menor frecuencia cardíaca en reposo. <!-- feedback: Correct. $r$ cercano a $-1$ indica correlación negativa fuerte. -->
 - [ ] B) Correlación positiva fuerte: a más ejercicio, mayor frecuencia cardíaca. <!-- feedback: Incorrect. El signo negativo indica correlación inversa. -->
 - [ ] C) Correlación débil, porque está lejos de 1. <!-- feedback: Incorrect. $|r| = 0.85$ es considerado fuerte, independientemente del signo. -->
@@ -283,13 +300,14 @@ El coeficiente de correlación $r$ varía entre $-1$ y $1$. Valores cercanos a $
 
 **ID:** `CO-MAT-8-2026-P2-comprehensive-001-MASTERY-v13`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Un estudiante afirma que el punto $(2, 7)$ pertenece a la recta $y = 3x + 1$.
+**Contexto:** Un estudiante afirma que el punto $(2, 7)$ pertenece a la recta $y = 3x + 1$.
 
 ### Enunciado
 ¿Es correcta la afirmación? ¿Por qué?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque $3(2) + 1 = 7$. <!-- feedback: Correct. $3(2)+1 = 6+1 = 7$, que coincide con $y=7$. -->
 - [ ] B) No, porque $2 + 3 + 1 \neq 7$. <!-- feedback: Incorrect. No se deben sumar las coordenadas, se debe sustituir en la ecuación. -->
 - [x] C) Sí, porque al sustituir $x=2$ en la ecuación se obtiene $y=7$. <!-- feedback: Correct. La verificación es: $y = 3(2) + 1 = 7$, que coincide. -->
@@ -304,13 +322,14 @@ Para verificar si un punto pertenece a una recta, se sustituyen sus coordenadas 
 
 **ID:** `CO-MAT-8-2026-P2-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Un estudiante resuelve el sistema $\begin{cases} 3x + 2y = 16 \\ 5x - y = 5 \end{cases}$ y obtiene $x = 2$, $y = 5$.
+**Contexto:** Un estudiante resuelve el sistema $\begin{cases} 3x + 2y = 16 \\ 5x - y = 5 \end{cases}$ y obtiene $x = 2$, $y = 5$.
 
 ### Enunciado
 ¿Es correcta la solución?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque $3(2) + 2(5) = 16$ y $5(2) - 5 = 5$. <!-- feedback: Correct. Ambas ecuaciones se cumplen con $x=2$, $y=5$. -->
 - [ ] B) No, porque $3(2) + 2(5) = 16$, pero $5(2) - 5 = 5$. <!-- feedback: Incorrect. Ambas ecuaciones se cumplen. -->
 - [ ] C) No, porque $x = 2$ pero $y$ debería ser $-5$. <!-- feedback: Incorrect. Verificando: $3(2)+2(-5) = 6-10 = -4 \neq 16$. -->
@@ -325,13 +344,14 @@ Para verificar la solución de un sistema, se sustituyen los valores en ambas ec
 
 **ID:** `CO-MAT-8-2026-P2-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Reflexivo y Sistémico
-**Context:** Una empresa en Bogotá realizó un estudio sobre el gasto en publicidad ($x$, en millones) y las ventas mensuales ($y$, en millones). La recta de regresión obtenida es $y = 1.5x + 10$.
+**Contexto:** Una empresa en Bogotá realizó un estudio sobre el gasto en publicidad ($x$, en millones) y las ventas mensuales ($y$, en millones). La recta de regresión obtenida es $y = 1.5x + 10$.
 
 ### Enunciado
 Si la empresa decide invertir 20 millones en publicidad, ¿cuál será el valor estimado de las ventas según el modelo? ¿Es confiable esta predicción si solo se tienen datos de inversiones entre 2 y 15 millones?
 
-### Options
+### Opciones
 - [ ] A) 30 millones; sí, porque el modelo es lineal. <!-- feedback: Incorrect. $1.5(20) + 10 = 40$ millones, no 30. -->
 - [x] B) 40 millones; no es totalmente confiable porque 20 millones está fuera del rango de los datos observados (extrapolación). <!-- feedback: Correct. $y = 1.5(20) + 10 = 40$ millones. Pero es una extrapolación, por lo que la confiabilidad disminuye. -->
 - [ ] C) 40 millones; sí, porque el modelo siempre es válido para cualquier valor. <!-- feedback: Incorrect. La predicción es numéricamente correcta ($40$ millones), pero la extrapolación fuera del rango de datos reduce la confiabilidad. -->

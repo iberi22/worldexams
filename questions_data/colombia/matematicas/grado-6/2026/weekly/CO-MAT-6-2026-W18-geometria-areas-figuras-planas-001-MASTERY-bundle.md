@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W18-geometria-areas-figuras-planas-001-MASTERY"
+id: "CO-MAT-6-2026-W18-geometria-areas-figuras-planas-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W18 — Geometría: Áreas de Figuras Planas
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W18-geometria-areas-figuras-planas-001-MASTERY-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Medición de superficies
+**Contexto:** Medición de superficies
 
 ### Enunciado
 ¿Qué unidad se usa para medir el área de una superficie?
 
-### Options
+### Opciones
 - [x] A) El metro cuadrado (m²) <!-- feedback: Correcto. El área se mide en unidades cuadradas. -->
 - [ ] B) El metro lineal (m) <!-- feedback: Incorrecto. El metro mide longitud, no superficie. -->
 - [ ] C) El metro cúbico (m³) <!-- feedback: Incorrecto. Mide volumen (espacio 3D). -->
@@ -48,13 +51,14 @@ El área mide la extensión de una superficie. Sus unidades están elevadas al c
 
 **ID:** `CO-MAT-6-2026-W18-geometria-areas-figuras-planas-001-MASTERY-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Fórmula del área del rectángulo
+**Contexto:** Fórmula del área del rectángulo
 
 ### Enunciado
 ¿Cuál es la fórmula para calcular el área de un rectángulo?
 
-### Options
+### Opciones
 - [x] A) Área = base × altura <!-- feedback: Correcto. El área del rectángulo es el producto de su base por su altura. -->
 - [ ] B) Área = base + altura <!-- feedback: Incorrecto. El área se multiplica, no se suma. Área = base × altura. -->
 - [ ] C) Área = 2 × (base + altura) <!-- feedback: Incorrecto. Esa es la fórmula del PERÍMETRO, no del área. -->
@@ -69,13 +73,14 @@ El área de un rectángulo se calcula multiplicando su base (largo) por su altur
 
 **ID:** `CO-MAT-6-2026-W18-geometria-areas-figuras-planas-001-MASTERY-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Piso de una habitación
+**Contexto:** Piso de una habitación
 
 ### Enunciado
 La habitación de Sofía mide 4 m de largo por 3,5 m de ancho. ¿Cuál es el área del piso?
 
-### Options
+### Opciones
 - [x] A) 14 m² <!-- feedback: Correcto. Área = 4 × 3,5 = 14 m². -->
 - [ ] B) 15 m² <!-- feedback: Incorrecto. 4×3,75=15. Error: redondear 3,5 a 3,75. El cálculo correcto es 4×3,5=14. -->
 - [ ] C) 7,5 m² <!-- feedback: Incorrecto. 4+3,5=7,5. Se debe MULTIPLICAR, no sumar. Área = base × altura. -->
@@ -90,13 +95,14 @@ La habitación de Sofía mide 4 m de largo por 3,5 m de ancho. ¿Cuál es el ár
 
 **ID:** `CO-MAT-6-2026-W18-geometria-areas-figuras-planas-001-MASTERY-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Terreno para cultivo
+**Contexto:** Terreno para cultivo
 
 ### Enunciado
 Don José tiene un terreno cuadrado de 12 m de lado. ¿Cuál es su área?
 
-### Options
+### Opciones
 - [x] A) 144 m² <!-- feedback: Correcto. Área del cuadrado = lado² = 12² = 144 m². -->
 - [ ] B) 48 m² <!-- feedback: Incorrecto. 12×4=48 es el perímetro, no el área. Área = lado² = 12×12=144. -->
 - [ ] C) 24 m² <!-- feedback: Incorrecto. 12×2=24. Error: multiplicar lado por 2 en vez de elevarlo al cuadrado. -->
@@ -111,13 +117,14 @@ El área del cuadrado se calcula elevando el lado al cuadrado: A = lado² = (12 
 
 **ID:** `CO-MAT-6-2026-W18-geometria-areas-figuras-planas-001-MASTERY-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Pared para pintar
+**Contexto:** Pared para pintar
 
 ### Enunciado
 Una pared rectangular mide 6 m de largo y 2,5 m de alto. Un tarro de pintura cubre 10 m². ¿Cuántos tarros necesita para pintar toda la pared?
 
-### Options
+### Opciones
 - [x] A) 2 tarros <!-- feedback: Correcto. Área=6×2,5=15 m². 15÷10=1,5, se necesitan 2 tarros (no se puede comprar medio tarro). -->
 - [ ] B) 1 tarro <!-- feedback: Incorrecto. Área=15 m². 1 tarro cubre solo 10 m². Faltan 5 m². Se necesita otro tarro. -->
 - [ ] C) 3 tarros <!-- feedback: Incorrecto. 2 tarros cubren 20 m². Con 15 m² bastan 2 tarros. 3 es excesivo. -->
@@ -132,13 +139,14 @@ Una pared rectangular mide 6 m de largo y 2,5 m de alto. Un tarro de pintura cub
 
 **ID:** `CO-MAT-6-2026-W18-geometria-areas-figuras-planas-001-MASTERY-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Área de un triángulo
+**Contexto:** Área de un triángulo
 
 ### Enunciado
 Un terreno con forma de triángulo tiene 8 m de base y 6 m de altura. ¿Cuál es su área?
 
-### Options
+### Opciones
 - [x] A) 24 m² <!-- feedback: Correcto. Área del triángulo = (base×altura)/2 = (8×6)/2 = 48/2 = 24 m². -->
 - [ ] B) 48 m² <!-- feedback: Incorrecto. (8×6)=48 es el área del rectángulo. El triángulo es la mitad: 48÷2=24 m². -->
 - [ ] C) 14 m² <!-- feedback: Incorrecto. 8+6=14. Error: sumar en vez de multiplicar y dividir entre 2. -->
@@ -153,13 +161,14 @@ El área del triángulo es la mitad del área del rectángulo que lo contiene: A
 
 **ID:** `CO-MAT-6-2026-W18-geometria-areas-figuras-planas-001-MASTERY-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Comparación de terrenos
+**Contexto:** Comparación de terrenos
 
 ### Enunciado
 ¿Cuál tiene mayor área? Un cuadrado de 7 m de lado o un triángulo de 14 m de base y 7 m de altura?
 
-### Options
+### Opciones
 - [x] A) El cuadrado: 49 m². El triángulo: 49 m². Son iguales. <!-- feedback: Correcto. Cuadrado: 7²=49. Triángulo: (14×7)/2=98/2=49. Son iguales. -->
 - [ ] B) El cuadrado, porque 7×7 es mayor <!-- feedback: Incorrecto. 7×7=49 y (14×7)/2=49. Son iguales. -->
 - [ ] C) El triángulo, porque la base es más grande <!-- feedback: Incorrecto. Aunque la base es mayor, el triángulo se divide entre 2: (14×7)/2=49. Cuadrado: 7²=49. -->
@@ -174,13 +183,14 @@ Cuadrado: A=7²=49 m². Triángulo: A=(14×7)/2=98/2=49 m². Ambos tienen exacta
 
 **ID:** `CO-MAT-6-2026-W18-geometria-areas-figuras-planas-001-MASTERY-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Diseño de jardín
+**Contexto:** Diseño de jardín
 
 ### Enunciado
 Un jardín rectangular de 10 m por 6 m tiene una fuente circular en el centro de 2 m de radio (área del círculo = πr²). ¿Qué área aproximada de jardín queda libre? (Use π≈3,14)
 
-### Options
+### Opciones
 - [x] A) 47,44 m² <!-- feedback: Correcto. Área jardín=10×6=60 m². Área fuente=3,14×4=12,56 m². Libre=60-12,56=47,44 m². -->
 - [ ] B) 60 m² <!-- feedback: Incorrecto. Ese es el área total del jardín sin descontar la fuente. Libre=60-12,56=47,44. -->
 - [ ] C) 47 m² <!-- feedback: Incorrecto. Redondear 47,44 a 47. El valor exacto es 47,44 m². -->
@@ -195,13 +205,14 @@ Un jardín rectangular de 10 m por 6 m tiene una fuente circular en el centro de
 
 **ID:** `CO-MAT-6-2026-W18-geometria-areas-figuras-planas-001-MASTERY-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Estrategia de cálculo
+**Contexto:** Estrategia de cálculo
 
 ### Enunciado
 Un rectángulo tiene 8 cm de base y 5 cm de altura. Si se duplica la base y se triplica la altura, ¿cuántas veces aumenta el área?
 
-### Options
+### Opciones
 - [x] A) 6 veces <!-- feedback: Correcto. Área original=8×5=40. Nueva=16×15=240. 240÷40=6 veces mayor. -->
 - [ ] B) 2 veces <!-- feedback: Incorrecto. Duplicar base (×2) y triplicar altura (×3) multiplica el área por 2×3=6. -->
 - [ ] C) 5 veces <!-- feedback: Incorrecto. 2+3=5. Error: sumar factores en vez de multiplicarlos. -->
@@ -216,13 +227,14 @@ Un rectángulo tiene 8 cm de base y 5 cm de altura. Si se duplica la base y se t
 
 **ID:** `CO-MAT-6-2026-W18-geometria-areas-figuras-planas-001-MASTERY-010-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Razonamiento con áreas
+**Contexto:** Razonamiento con áreas
 
 ### Enunciado
 Dos rectángulos tienen el mismo perímetro de 24 m. El primero tiene 7 m de largo y 5 m de ancho. El segundo tiene 8 m de largo y 4 m de ancho. ¿Cuál tiene mayor área?
 
-### Options
+### Opciones
 - [x] A) El primero: 35 m². El segundo: 32 m². El primero es mayor. <!-- feedback: Correcto. P1=2×(7+5)=24. A1=7×5=35. P2=2×(8+4)=24. A2=8×4=32. 35>32. -->
 - [ ] B) El segundo: 32 m² vs 35 m². El segundo es mayor. <!-- feedback: Incorrecto. 32 < 35. El primer rectángulo tiene mayor área aunque tenga el mismo perímetro. -->
 - [ ] C) Ambos tienen la misma área <!-- feedback: Incorrecto. A1=35 m², A2=32 m². Son diferentes aunque tengan el mismo perímetro. -->

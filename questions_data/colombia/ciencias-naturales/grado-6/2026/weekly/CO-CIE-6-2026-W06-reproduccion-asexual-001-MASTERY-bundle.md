@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W06-reproduccion-asexual-001-MASTERY"
+id: "CO-CIE-6-2026-W06-reproduccion-asexual-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W06 — Reproducción Asexual
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W06-reproduccion-asexual-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, estudiantes de grado 6 comienzan a estudiar la reproducción asexual.
+**Contexto:** En Bogotá, estudiantes de grado 6 comienzan a estudiar la reproducción asexual.
 
 ### Enunciado
 ¿Qué es la reproducción asexual?
 
-### Options
+### Opciones
 - [ ] A) La unión de un óvulo y un espermatozoide <!-- feedback: Incorrecto. Esa es la reproducción sexual. -->
 - [ ] B) La reproducción que requiere dos progenitores <!-- feedback: Incorrecto. La asexual requiere uno solo. -->
 - [x] C) La formación de un nuevo ser a partir de un solo progenitor, sin fusión de gametos <!-- feedback: Correcto. -->
@@ -48,13 +51,14 @@ La **reproducción asexual** produce descendientes genéticamente idénticos al 
 
 **ID:** `CO-CIE-6-2026-W06-reproduccion-asexual-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, identifican tipos de reproducción asexual.
+**Contexto:** En Medellín, identifican tipos de reproducción asexual.
 
 ### Enunciado
 ¿Cómo se llama el tipo de reproducción asexual en el que un organismo se parte en dos y cada parte forma un individuo completo?
 
-### Options
+### Opciones
 - [ ] A) Gemación <!-- feedback: Incorrecto. En gemación se forma una yema. -->
 - [ ] B) Esporulación <!-- feedback: Incorrecto. Es por esporas. -->
 - [x] C) Fragmentación <!-- feedback: Correcto. El organismo se fragmenta y cada fragmento regenera. -->
@@ -69,13 +73,14 @@ En la **fragmentación**, un organismo se divide en varios fragmentos y cada uno
 
 **ID:** `CO-CIE-6-2026-W06-reproduccion-asexual-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, comparan reproducción asexual y sexual.
+**Contexto:** En Cali, comparan reproducción asexual y sexual.
 
 ### Enunciado
 ¿Cuál es la principal ventaja de la reproducción asexual frente a la sexual?
 
-### Options
+### Opciones
 - [ ] A) Produce descendencia genéticamente diversa <!-- feedback: Incorrecto. La reproduce sexual produce diversidad. -->
 - [ ] B) Requiere de pareja <!-- feedback: Incorrecto. No requiere pareja. -->
 - [x] C) Es rápida y produce muchos descendientes sin gastar energía en buscar pareja <!-- feedback: Correcto. -->
@@ -90,13 +95,14 @@ La reproducción asexual tiene ventajas en ambientes estables: (1) rapidez: las 
 
 **ID:** `CO-CIE-6-2026-W06-reproduccion-asexual-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, aplican la reproducción asexual en agricultura.
+**Contexto:** En Barranquilla, aplican la reproducción asexual en agricultura.
 
 ### Enunciado
 Un agricultor quiere obtener muchas plantas de papa a partir de una sola. ¿Qué método de reproducción asexual puede usar?
 
-### Options
+### Opciones
 - [ ] A) Sembrar semillas <!-- feedback: Incorrecto. Las semillas son reproducción sexual. -->
 - [x] B) Usar los tubérculos (papas) que tienen yemas (ojos) para sembrar nuevas plantas <!-- feedback: Correcto. -->
 - [ ] C) Cruzar dos variedades de papa <!-- feedback: Incorrecto. Eso es reproducción sexual e hibridación. -->
@@ -111,13 +117,14 @@ La papa (Solanum tuberosum) se reproduce asexualmente mediante **tubérculos**. 
 
 **ID:** `CO-CIE-6-2026-W06-reproduccion-asexual-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, aplican propagación vegetativa en jardinería.
+**Contexto:** En Bucaramanga, aplican propagación vegetativa en jardinería.
 
 ### Enunciado
 María quiere clonar su planta de rosas favorita. ¿Cuál es el método de reproducción asexual más adecuado?
 
-### Options
+### Opciones
 - [ ] A) Esperar a que produzca semillas <!-- feedback: Incorrecto. Las semillas no garantizan que sea idéntica. -->
 - [ ] B) Cortar las hojas y sembrarlas <!-- feedback: Incorrecto. Las hojas generalmente no forman plantas. -->
 - [x] C) Tomar un esqueje (trozo de tallo) y ponerlo en agua o tierra para que desarrolle raíces <!-- feedback: Correcto. -->
@@ -132,13 +139,14 @@ Los **esquejes** (o estacas) son fragmentos de tallo, hoja o raíz que se cortan
 
 **ID:** `CO-CIE-6-2026-W06-reproduccion-asexual-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, aplican conceptos de regeneración animal.
+**Contexto:** En Cartagena, aplican conceptos de regeneración animal.
 
 ### Enunciado
 Si una estrella de mar pierde un brazo por un ataque, ¿qué puede ocurrir?
 
-### Options
+### Opciones
 - [ ] A) La estrella muere <!-- feedback: Incorrecto. Las estrellas de mar pueden regenerar brazos. -->
 - [ ] B) El brazo perdido no se recupera <!-- feedback: Incorrecto. Tienen capacidad regenerativa. -->
 - [x] C) El brazo perdido puede regenerar una estrella completa y la estrella original regenera su brazo <!-- feedback: Correcto. -->
@@ -153,13 +161,14 @@ Las **estrellas de mar** (equinodermos) tienen una notable capacidad de **regene
 
 **ID:** `CO-CIE-6-2026-W06-reproduccion-asexual-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan un caso de planarias.
+**Contexto:** En Pereira, analizan un caso de planarias.
 
 ### Enunciado
 Un científico corta una planaria en cuatro trozos y cada trozo regenera una planaria completa. ¿Cuántos individuos tendrá al final?
 
-### Options
+### Opciones
 - [ ] A) 1 <!-- feedback: Incorrecto. El original se perdió al cortarlo. -->
 - [ ] B) 2 <!-- feedback: Incorrecto. Cada trozo forma un individuo. -->
 - [x] C) 4 <!-- feedback: Correcto. Cada trozo regenera un individuo completo. -->
@@ -174,13 +183,14 @@ Las **planarias** (gusanos planos de agua dulce) son famosas por su capacidad re
 
 **ID:** `CO-CIE-6-2026-W06-reproduccion-asexual-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, analizan la gemación en hidras.
+**Contexto:** En Manizales, analizan la gemación en hidras.
 
 ### Enunciado
 Una hidra de agua dulce forma una yema en su cuerpo, la yema crece y se separa. ¿Qué tipo de reproducción es y qué característica tiene la descendencia?
 
-### Options
+### Opciones
 - [ ] A) Sexual; descendencia diversa <!-- feedback: Incorrecto. No es sexual. -->
 - [ ] B) Asexual por gemación; descendencia genéticamente idéntica <!-- feedback: Correcto. -->
 - [ ] C) Asexual por bipartición; descendencia más pequeña <!-- feedback: Incorrecto. En bipartición el organismo se divide en dos partes iguales. -->
@@ -195,13 +205,14 @@ La **gemación** es un tipo de reproducción asexual donde una nueva criatura (y
 
 **ID:** `CO-CIE-6-2026-W06-reproduccion-asexual-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan la clonación de plantas.
+**Contexto:** En Cúcuta, evalúan la clonación de plantas.
 
 ### Enunciado
 Un agricultor tiene un cultivo entero de plátanos producidos por reproducción asexual (todos genéticamente idénticos). Llega un hongo que ataca las plantas. ¿Cuál es el riesgo principal?
 
-### Options
+### Opciones
 - [ ] A) Las plantas son más resistentes al hongo <!-- feedback: Incorrecto. Todas tienen la misma resistencia. -->
 - [ ] B) Solo se enferman las plantas viejas <!-- feedback: Incorrecto. No depende de la edad. -->
 - [x] C) Si el hongo supera la resistencia de una planta, todas las plantas serán vulnerables porque son genéticamente idénticas <!-- feedback: Correcto. -->
@@ -216,13 +227,14 @@ La **falta de diversidad genética** (monocultivo) es el mayor riesgo de la repr
 
 **ID:** `CO-CIE-6-2026-W06-reproduccion-asexual-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan métodos de propagación en proyectos agrícolas.
+**Contexto:** En Ibagué, evalúan métodos de propagación en proyectos agrícolas.
 
 ### Enunciado
 Un proyecto de reforestación en Colombia quiere propagar rápidamente una especie nativa en peligro. Tienen semillas (sexual) y esquejes (asexual). ¿Cuál método es mejor para obtener la mayor cantidad de plantas en el menor tiempo, y por qué?
 
-### Options
+### Opciones
 - [ ] A) Semillas, porque producen plantas más fuertes <!-- feedback: Incorrecto. No es necesariamente más rápido. -->
 - [ ] B) Esquejes, porque todos son diferentes <!-- feedback: Incorrecto. Son genéticamente iguales. -->
 - [x] C) Esquejes, porque cada esqueje puede producir una planta en semanas, mientras que las semillas tardan meses en germinar y crecer <!-- feedback: Correcto. -->

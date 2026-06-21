@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W09-reproduccion-ser-humano-001-MASTERY"
+id: "CO-CIE-6-2026-W09-reproduccion-ser-humano-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -12,7 +12,11 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W09 — Reproducción Humana
 
@@ -24,13 +28,14 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 
 **ID:** `CO-CIE-6-2026-W09-reproduccion-ser-humano-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, la profesora explica la reproducción humana con un esquema.
+**Contexto:** En Bogotá, la profesora explica la reproducción humana con un esquema.
 
 ### Enunciado
 ¿Cuáles son los órganos principales del aparato reproductor masculino?
 
-### Options
+### Opciones
 - [ ] A) Ovarios y útero <!-- feedback: Incorrecto. Esos son órganos del aparato reproductor femenino. -->
 - [ ] B) Trompas de Falopio y vagina <!-- feedback: Incorrecto. Esos también son órganos femeninos. -->
 - [x] C) Testículos, conductos deferentes y pene <!-- feedback: Correcto. Son los órganos reproductores masculinos principales. -->
@@ -45,13 +50,14 @@ El aparato reproductor masculino está formado por: testículos (producen esperm
 
 **ID:** `CO-CIE-6-2026-W09-reproduccion-ser-humano-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, los estudiantes identifican órganos femeninos en un diagrama.
+**Contexto:** En Medellín, los estudiantes identifican órganos femeninos en un diagrama.
 
 ### Enunciado
 ¿Cuál es la función de los ovarios?
 
-### Options
+### Opciones
 - [ ] A) Producir espermatozoides <!-- feedback: Incorrecto. Los espermatozoides los producen los testículos. -->
 - [x] B) Producir óvulos y las hormonas femeninas (estrógeno y progesterona) <!-- feedback: Correcto. Los ovarios tienen función reproductiva y hormonal. -->
 - [ ] C) Expulsar el bebé en el parto <!-- feedback: Incorrecto. Esa es función del útero y la vagina. -->
@@ -66,13 +72,14 @@ Los ovarios son los órganos reproductores femeninos principales (gónadas). Tie
 
 **ID:** `CO-CIE-6-2026-W09-reproduccion-ser-humano-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali estudian el ciclo de vida humano desde la fecundación.
+**Contexto:** En Cali estudian el ciclo de vida humano desde la fecundación.
 
 ### Enunciado
 ¿Dónde ocurre normalmente la fecundación (unión del óvulo y el espermatozoide)?
 
-### Options
+### Opciones
 - [ ] A) En el útero <!-- feedback: Incorrecto. La fecundación no ocurre en el útero, sino antes. -->
 - [x] B) En las trompas de Falopio <!-- feedback: Correcto. La fecundación ocurre en el tercio externo de las trompas de Falopio. -->
 - [ ] C) En el ovario <!-- feedback: Incorrecto. El óvulo sale del ovario, pero la fecundación ocurre después. -->
@@ -87,13 +94,14 @@ La fecundación es la unión del óvulo y el espermatozoide para formar el cigot
 
 **ID:** `CO-CIE-6-2026-W09-reproduccion-ser-humano-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, la profesora explica el ciclo menstrual.
+**Contexto:** En Barranquilla, la profesora explica el ciclo menstrual.
 
 ### Enunciado
 ¿Qué ocurre durante la menstruación?
 
-### Options
+### Opciones
 - [ ] A) Se libera un óvulo del ovario <!-- feedback: Incorrecto. Eso es la ovulación, no la menstruación. -->
 - [ ] B) El óvulo es fecundado por un espermatozoide <!-- feedback: Incorrecto. La fecundación no es la menstruación. -->
 - [x] C) Se desprende el endometrio (recubrimiento del útero) porque no hubo embarazo <!-- feedback: Correcto. La menstruación es la eliminación del endometrio. -->
@@ -108,13 +116,14 @@ La menstruación es parte del ciclo menstrual femenino, que dura aproximadamente
 
 **ID:** `CO-CIE-6-2026-W09-reproduccion-ser-humano-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, los estudiantes ordenan las etapas del desarrollo humano.
+**Contexto:** En Bucaramanga, los estudiantes ordenan las etapas del desarrollo humano.
 
 ### Enunciado
 Ordena las etapas del ciclo de vida humano desde la concepción: (1) Feto, (2) Embrión, (3) Recién nacido, (4) Cigoto, (5) Adolescente. ¿Cuál es el orden correcto?
 
-### Options
+### Opciones
 - [ ] A) Cigoto → Feto → Embrión → Recién nacido → Adolescente <!-- feedback: Incorrecto. El embrión va antes que el feto. -->
 - [x] B) Cigoto → Embrión → Feto → Recién nacido → Adolescente <!-- feedback: Correcto. Esta es la secuencia correcta del desarrollo. -->
 - [ ] C) Embrión → Cigoto → Feto → Recién nacido → Adolescente <!-- feedback: Incorrecto. El cigoto es la primera etapa. -->
@@ -136,13 +145,14 @@ Después continúa la adultez y la vejez, completando el ciclo vital.
 
 **ID:** `CO-CIE-6-2026-W09-reproduccion-ser-humano-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, estudiantes relacionan caracteres sexuales con su etapa de aparición.
+**Contexto:** En Cartagena, estudiantes relacionan caracteres sexuales con su etapa de aparición.
 
 ### Enunciado
 ¿Cuál de los siguientes es un cambio que ocurre durante la pubertad?
 
-### Options
+### Opciones
 - [ ] A) Aprender a leer y escribir <!-- feedback: Incorrecto. Eso ocurre en la infancia, no en la pubertad. -->
 - [x] B) Desarrollo de vello púbico y cambio en la voz <!-- feedback: Correcto. Son caracteres sexuales secundarios que aparecen en la pubertad. -->
 - [ ] C) Salida de los primeros dientes <!-- feedback: Incorrecto. Eso ocurre en la primera infancia (6-12 meses). -->
@@ -162,13 +172,14 @@ Estos cambios son controlados por hormonas: testosterona en hombres, estrógeno 
 
 **ID:** `CO-CIE-6-2026-W09-reproduccion-ser-humano-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, los estudiantes comparan los espermatozoides y los óvulos.
+**Contexto:** En Pereira, los estudiantes comparan los espermatozoides y los óvulos.
 
 ### Enunciado
 ¿Cuál es la principal diferencia entre un espermatozoide y un óvulo?
 
-### Options
+### Opciones
 - [ ] A) El espermatozoide es más grande que el óvulo <!-- feedback: Incorrecto. El óvulo es mucho más grande que el espermatozoide. -->
 - [ ] B) Ambos son iguales en tamaño y forma <!-- feedback: Incorrecto. Son muy diferentes en tamaño, forma y cantidad. -->
 - [x] C) El espermatozoide es pequeño, móvil y se produce en grandes cantidades; el óvulo es grande, inmóvil y se produce uno por ciclo <!-- feedback: Correcto. Las diferencias están adaptadas a sus funciones. -->
@@ -187,13 +198,14 @@ Estas diferencias son un ejemplo de especialización celular: cada gameto está 
 
 **ID:** `CO-CIE-6-2026-W09-reproduccion-ser-humano-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, el profesor muestra una ecografía de un feto de 12 semanas.
+**Contexto:** En Manizales, el profesor muestra una ecografía de un feto de 12 semanas.
 
 ### Enunciado
 ¿Por qué el embrión debe implantarse en el útero para desarrollarse?
 
-### Options
+### Opciones
 - [ ] A) Porque el útero es el único lugar donde el óvulo puede ser fecundado <!-- feedback: Incorrecto. La fecundación ocurre en las trompas, no en el útero. -->
 - [x] B) Porque el útero proporciona alimento, oxígeno y protección al embrión en desarrollo <!-- feedback: Correcto. El útero es el ambiente ideal para la gestación. -->
 - [ ] C) Porque el útero produce espermatozoides <!-- feedback: Incorrecto. Los espermatozoides se producen en los testículos. -->
@@ -208,13 +220,14 @@ El útero es el órgano donde ocurre la gestación (embarazo). Su pared interna,
 
 **ID:** `CO-CIE-6-2026-W09-reproduccion-ser-humano-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, un estudiante dice que "la reproducción humana no es necesaria porque la gente puede adoptar".
+**Contexto:** En Cúcuta, un estudiante dice que "la reproducción humana no es necesaria porque la gente puede adoptar".
 
 ### Enunciado
 ¿Qué argumento biológico refuta esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Tienen razón, la adopción es una buena opción <!-- feedback: Incorrecto. La adopción es válida socialmente, pero no reemplaza la función biológica. -->
 - [x] B) La reproducción es una función vital necesaria para la supervivencia de la especie humana, no solo del individuo <!-- feedback: Correcto. Sin reproducción, la especie se extinguiría. -->
 - [ ] C) La adopción es ilegal en Colombia <!-- feedback: Incorrecto. La adopción es legal en Colombia. -->
@@ -229,13 +242,14 @@ Desde el punto de vista biológico, la reproducción es una de las tres funcione
 
 **ID:** `CO-CIE-6-2026-W09-reproduccion-ser-humano-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, los estudiantes debaten sobre la importancia de la educación sexual.
+**Contexto:** En Ibagué, los estudiantes debaten sobre la importancia de la educación sexual.
 
 ### Enunciado
 ¿Por qué es importante conocer el funcionamiento del aparato reproductor humano durante la adolescencia?
 
-### Options
+### Opciones
 - [ ] A) Para poder tener hijos inmediatamente <!-- feedback: Incorrecto. Conocer no significa estar listo para tener hijos. -->
 - [ ] B) Para poder operar a otros compañeros <!-- feedback: Incorrecto. Los estudiantes no pueden realizar procedimientos médicos. -->
 - [x] C) Para tomar decisiones informadas sobre la salud sexual y el propio cuerpo <!-- feedback: Correcto. El conocimiento permite decisiones responsables. -->

@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-4-2026-W32-maquinas-simples-001-MASTERY"
+id: "CO-CIE-4-2026-W32-maquinas-simples-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "ciencias-naturales"
 tema: "maquinas-simples"
-semana: "W32"
+week: "W32"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,266 +16,270 @@ rubric_baseline: "mÃ¡quinas simples, palanca, polea, plano inclinado, ventaja 
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: MÃ¡quinas simples (palanca, polea, plano inclinado) â€” Grado 4 â€” W32
 
 10 preguntas sobre mÃ¡quinas simples: palanca, polea, plano inclinado.
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 
 **ID:** `CO-CIE-4-2026-W32-maquinas-simples-001-MASTERY-v1`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Colegio La Salle en IbaguÃ©, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio La Salle en IbaguÃ©, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Las mÃ¡quinas simples sirven para:
 
 ### Opciones
-- [ ] A) Crear energÃ­a
-  <!-- feedback: No. -->
-- [x] B) Facilitar el trabajo
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Generar electricidad
-  <!-- feedback: No. -->
-- [ ] D) Medir fuerzas
-  <!-- feedback: No. -->
+- [ ] A) Crear energÃ­a <!-- feedback: Incorrecto. Crear energÃ­a -->
+
+- [x] B) Facilitar el trabajo <!-- feedback: Correcto! Facilitar el trabajo -->
+
+- [ ] C) Generar electricidad <!-- feedback: Incorrecto. Generar electricidad -->
+
+- [ ] D) Medir fuerzas <!-- feedback: Incorrecto. Medir fuerzas -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 MÃ¡quinas simples: facilitan trabajo.
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-CIE-4-2026-W32-maquinas-simples-001-MASTERY-v2`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Colegio Nacional en CÃºcuta, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio Nacional en CÃºcuta, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Ejemplo de mÃ¡quina simple:
 
 ### Opciones
-- [ ] A) Computador
-  <!-- feedback: No. -->
-- [x] B) Palanca
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Motor
-  <!-- feedback: No. -->
-- [ ] D) Bombillo
-  <!-- feedback: No. -->
+- [ ] A) Computador <!-- feedback: Incorrecto. Computador -->
+
+- [x] B) Palanca <!-- feedback: Correcto! Palanca -->
+
+- [ ] C) Motor <!-- feedback: Incorrecto. Motor -->
+
+- [ ] D) Bombillo <!-- feedback: Incorrecto. Bombillo -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Palanca: mÃ¡quina simple.
 
 ---
 
-## Pregunta 3 [D2]
+## Question 3 [D2]
 
 **ID:** `CO-CIE-4-2026-W32-maquinas-simples-001-MASTERY-v3`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio San JosÃ© en Yopal, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio San JosÃ© en Yopal, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 La palanca tiene un punto de apoyo y:
 
 ### Opciones
-- [ ] A) Solo peso
-  <!-- feedback: No. -->
-- [x] B) Fuerza y resistencia
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Solo resistencia
-  <!-- feedback: No. -->
-- [ ] D) Solo fuerza
-  <!-- feedback: No. -->
+- [ ] A) Solo peso <!-- feedback: Incorrecto. Solo peso -->
+
+- [x] B) Fuerza y resistencia <!-- feedback: Correcto! Fuerza y resistencia -->
+
+- [ ] C) Solo resistencia <!-- feedback: Incorrecto. Solo resistencia -->
+
+- [ ] D) Solo fuerza <!-- feedback: Incorrecto. Solo fuerza -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Palanca: apoyo, fuerza, resistencia.
 
 ---
 
-## Pregunta 4 [D2]
+## Question 4 [D2]
 
 **ID:** `CO-CIE-4-2026-W32-maquinas-simples-001-MASTERY-v4`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio AgustÃ­niano en Leticia, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio AgustÃ­niano en Leticia, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 La polea sirve para:
 
 ### Opciones
-- [ ] A) Cortar objetos
-  <!-- feedback: No. -->
-- [x] B) Levantar objetos con menos esfuerzo
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Medir peso
-  <!-- feedback: No. -->
-- [ ] D) Separar mezclas
-  <!-- feedback: No. -->
+- [ ] A) Cortar objetos <!-- feedback: Incorrecto. Cortar objetos -->
+
+- [x] B) Levantar objetos con menos esfuerzo <!-- feedback: Correcto! Levantar objetos con menos esfuerzo -->
+
+- [ ] C) Medir peso <!-- feedback: Incorrecto. Medir peso -->
+
+- [ ] D) Separar mezclas <!-- feedback: Incorrecto. Separar mezclas -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Polea: levantar peso.
 
 ---
 
-## Pregunta 5 [D2]
+## Question 5 [D2]
 
 **ID:** `CO-CIE-4-2026-W32-maquinas-simples-001-MASTERY-v5`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Centro Educativo Rural en Santa Marta, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Centro Educativo Rural en Santa Marta, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 El plano inclinado facilita:
 
 ### Opciones
-- [ ] A) Subir objetos con menos fuerza
-  <!-- feedback: Â¡Correcto! -->
-- [x] B) Bajar objetos mÃ¡s rÃ¡pido
-  <!-- feedback: No. -->
-- [ ] C) Cortar objetos
-  <!-- feedback: No. -->
-- [ ] D) Medir distancias
-  <!-- feedback: No. -->
+- [ ] A) Subir objetos con menos fuerza <!-- feedback: Incorrecto. Subir objetos con menos fuerza -->
+
+- [x] B) Bajar objetos mÃ¡s rÃ¡pido <!-- feedback: Correcto! Bajar objetos mÃ¡s rÃ¡pido -->
+
+- [ ] C) Cortar objetos <!-- feedback: Incorrecto. Cortar objetos -->
+
+- [ ] D) Medir distancias <!-- feedback: Incorrecto. Medir distancias -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Plano inclinado: menos fuerza.
 
 ---
 
-## Pregunta 6 [D3]
+## Question 6 [D3]
 
 **ID:** `CO-CIE-4-2026-W32-maquinas-simples-001-MASTERY-v6`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en MonterÃ­a, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en MonterÃ­a, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Un sube y baja es un ejemplo de:
 
 ### Opciones
-- [ ] A) Polea
-  <!-- feedback: No. -->
-- [x] B) Palanca
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Plano inclinado
-  <!-- feedback: No. -->
-- [ ] D) CuÃ±a
-  <!-- feedback: No. -->
+- [ ] A) Polea <!-- feedback: Incorrecto. Polea -->
+
+- [x] B) Palanca <!-- feedback: Correcto! Palanca -->
+
+- [ ] C) Plano inclinado <!-- feedback: Incorrecto. Plano inclinado -->
+
+- [ ] D) CuÃ±a <!-- feedback: Incorrecto. CuÃ±a -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Sube y baja: palanca.
 
 ---
 
-## Pregunta 7 [D3]
+## Question 7 [D3]
 
 **ID:** `CO-CIE-4-2026-W32-maquinas-simples-001-MASTERY-v7`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Escuela Rural en Pasto, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Escuela Rural en Pasto, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Subir por una rampa en vez de escaleras usa:
 
 ### Opciones
-- [ ] A) Palanca
-  <!-- feedback: No. -->
-- [x] B) Plano inclinado
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Polea
-  <!-- feedback: No. -->
-- [ ] D) Tornillo
-  <!-- feedback: No. -->
+- [ ] A) Palanca <!-- feedback: Incorrecto. Palanca -->
+
+- [x] B) Plano inclinado <!-- feedback: Correcto! Plano inclinado -->
+
+- [ ] C) Polea <!-- feedback: Incorrecto. Polea -->
+
+- [ ] D) Tornillo <!-- feedback: Incorrecto. Tornillo -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Rampa: plano inclinado.
 
 ---
 
-## Pregunta 8 [D3]
+## Question 8 [D3]
 
 **ID:** `CO-CIE-4-2026-W32-maquinas-simples-001-MASTERY-v8`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en Girardot, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en Girardot, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Una bandera sube por un mÃ¡stil usando:
 
 ### Opciones
-- [ ] A) Palanca
-  <!-- feedback: No. -->
-- [x] B) Polea
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) CuÃ±a
-  <!-- feedback: No. -->
-- [ ] D) Tornillo
-  <!-- feedback: No. -->
+- [ ] A) Palanca <!-- feedback: Incorrecto. Palanca -->
+
+- [x] B) Polea <!-- feedback: Correcto! Polea -->
+
+- [ ] C) CuÃ±a <!-- feedback: Incorrecto. CuÃ±a -->
+
+- [ ] D) Tornillo <!-- feedback: Incorrecto. Tornillo -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 MÃ¡stil: polea.
 
 ---
 
-## Pregunta 9 [D4]
+## Question 9 [D4]
 
 **ID:** `CO-CIE-4-2026-W32-maquinas-simples-001-MASTERY-v9`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en Sincelejo, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en Sincelejo, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Â¿Por quÃ© entre mÃ¡s larga la rampa, menos fuerza necesitas?
 
 ### Opciones
-- [ ] A) No cambia
-  <!-- feedback: No. -->
-- [x] B) La fuerza se distribuye en mayor distancia
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Es mÃ¡s fÃ¡cil por gravedad
-  <!-- feedback: No. -->
-- [ ] D) Hay menos fricciÃ³n
-  <!-- feedback: No. -->
+- [ ] A) No cambia <!-- feedback: Incorrecto. No cambia -->
+
+- [x] B) La fuerza se distribuye en mayor distancia <!-- feedback: Correcto! La fuerza se distribuye en mayor distancia -->
+
+- [ ] C) Es mÃ¡s fÃ¡cil por gravedad <!-- feedback: Incorrecto. Es mÃ¡s fÃ¡cil por gravedad -->
+
+- [ ] D) Hay menos fricciÃ³n <!-- feedback: Incorrecto. Hay menos fricciÃ³n -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Mayor distancia: menor fuerza.
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-CIE-4-2026-W32-maquinas-simples-001-MASTERY-v10`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Colegio Salesiano en Riohacha, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio Salesiano en Riohacha, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Â¿Por quÃ© las mÃ¡quinas simples no crean energÃ­a?
 
 ### Opciones
-- [ ] A) SÃ­ crean
-  <!-- feedback: No. -->
-- [x] B) Transforman o transmiten fuerza, no crean energÃ­a
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) No funcionan
-  <!-- feedback: No. -->
-- [ ] D) Solo multiplican fuerza
-  <!-- feedback: No. -->
+- [ ] A) SÃ­ crean <!-- feedback: Incorrecto. SÃ­ crean -->
+
+- [x] B) Transforman o transmiten fuerza, no crean energÃ­a <!-- feedback: Correcto! Transforman o transmiten fuerza, no crean energÃ­a -->
+
+- [ ] C) No funcionan <!-- feedback: Incorrecto. No funcionan -->
+
+- [ ] D) Solo multiplican fuerza <!-- feedback: Incorrecto. Solo multiplican fuerza -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 MÃ¡quinas: transforman, no crean.

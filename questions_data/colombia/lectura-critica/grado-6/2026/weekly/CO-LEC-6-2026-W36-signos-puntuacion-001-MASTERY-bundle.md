@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-6-2026-W36-signos-puntuacion-001-MASTERY"
+id: "CO-LEC-6-2026-W36-signos-puntuacion-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "Signos de Puntuación — Uso de punto, coma, punto y coma, dos puntos, signos de interrogación y exclamación"
-semana: 36
+week: "W36"
 year: 2026
 periodo: 4
 bundle_type: "weekly"
@@ -25,7 +25,9 @@ quality_score: 95
 quality_reviewer: "QR-Automated-v3"
 quality_date: "2026-06-09"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W36 — Signos de Puntuación
 
@@ -52,12 +54,13 @@ quality_date: "2026-06-09"
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 Según el texto base, ¿qué diferencia principal observó María al comparar la Versión A y la Versión B de la carta?
 
-### Options
+### Opciones
 - [ ] A) Que en la Versión A hay más palabras que en la Versión B. <!-- feedback: Incorrecto. Las palabras son las mismas; lo que cambia son los signos de puntuación entre ellas. -->
 - [ ] B) Que la Versión B cambia la letra y el estilo de la abuela. <!-- feedback: Incorrecto. La caligrafía y el estilo no se mencionan en el texto. -->
 - [x] C) Que sin signos de puntuación, las ideas se mezclan y el mensaje pierde claridad. <!-- feedback: Correcto. La Versión A no tiene puntos, comas ni signos, lo que hace que todas las ideas se amontonen. La Versión B organiza el mensaje con signos de puntuación. -->
@@ -69,12 +72,13 @@ Identificación del propósito principal de los signos de puntuación: organizar
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de códigos y convenciones del lenguaje
 
 ### Enunciado
 En la oración "Hoy conocí a un joven alto, moreno y simpático", la coma (,) que separa "alto" de "moreno" se llama:
 
-### Options
+### Opciones
 - [ ] A) Coma vocativa (separa a la persona a quien se le habla). <!-- feedback: Incorrecto. La coma vocativa se usa para separar el nombre de la persona a quien nos dirigimos, como en "María, ven aquí". -->
 - [x] B) Coma enumerativa (separa elementos de una lista o serie). <!-- feedback: Correcto. La coma separa tres adjetivos (alto, moreno, simpático) que describen al joven en una enumeración. -->
 - [ ] C) Coma explicativa (encierra una aclaración). <!-- feedback: Incorrecto. La coma explicativa va antes y después de una aclaración, como en "Carlos, el bibliotecario, es simpático". -->
@@ -86,6 +90,7 @@ Identificación del tipo de coma según su función: la coma enumerativa separa 
 ## Question 3 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
@@ -93,7 +98,7 @@ Lee la siguiente oración y escoge la opción que la puntúa correctamente:
 
 *ayer fui al mercado compré frutas verduras y carne luego regresé a casa*
 
-### Options
+### Opciones
 - [ ] A) Ayer fui al mercado, compré frutas verduras y carne. Luego regresé a casa. <!-- feedback: Incorrecto. Falta la coma entre "frutas" y "verduras". -->
 - [ ] B) Ayer fui al mercado compré frutas, verduras y carne, luego regresé a casa. <!-- feedback: Incorrecto. Falta un punto después de "carne" o una coma antes de "luego", y falta punto al final. -->
 - [x] C) Ayer fui al mercado. Compré frutas, verduras y carne. Luego regresé a casa. <!-- feedback: Correcto. El punto seguido separa las ideas principales (ir al mercado, comprar, regresar), y la coma enumera los productos. -->
@@ -105,12 +110,13 @@ Aplicación práctica de los signos de puntuación: el punto seguido separa orac
 ## Question 4 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 En la oración "Te lo recomiendo: no te arrepentirás", los dos puntos (:) indican que:
 
-### Options
+### Opciones
 - [ ] A) Comienza una enumeración de objetos. <!-- feedback: Incorrecto. No hay una lista; solo una explicación. -->
 - [x] B) Lo que sigue es una explicación o consecuencia de lo anterior. <!-- feedback: Correcto. Los dos puntos introducen la razón por la que la abuela recomienda a Carlos: porque María no se arrepentirá. -->
 - [ ] C) Se va a citar textualmente a alguien. <!-- feedback: Incorrecto. Para citas textuales también se usan dos puntos, pero aquí no hay una cita de otra persona. -->
@@ -122,12 +128,13 @@ Función explicativa de los dos puntos: anuncian una consecuencia, causa o expli
 ## Question 5 [D5]
 
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 Imagina que la abuela hubiera escrito: "Querida María, espero que estés bien. Hoy conocí a un joven alto, moreno y simpático: se llama Carlos." ¿Qué cambiaría en la interpretación si en lugar de dos puntos (:) hubiera puesto un punto (.)?
 
-### Options
+### Opciones
 - [ ] A) Que el joven sería bajo, no alto. <!-- feedback: Incorrecto. El punto no cambia las características físicas mencionadas. -->
 - [x] B) Que la relación entre la descripción y el nombre sería menos directa; con dos puntos hay una conexión causal, mientras que con punto son dos hechos separados. <!-- feedback: Correcto. Los dos puntos conectan la descripción con el nombre, mientras que el punto trataría ambas ideas como información independiente. -->
 - [ ] C) Que la abuela estaría enojada. <!-- feedback: Incorrecto. El tono no cambia con ese cambio de signo. -->
@@ -139,6 +146,7 @@ Inferencia sobre el efecto de los signos en la relación entre ideas: los dos pu
 ## Question 6 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
@@ -152,7 +160,7 @@ Si eliminamos la coma, la oración queda:
 
 ¿Qué cambio de significado ocurre?
 
-### Options
+### Opciones
 - [ ] A) No cambia nada; la coma es opcional. <!-- feedback: Incorrecto. La coma cambia el significado de la oración. -->
 - [ ] B) La versión sin coma significa que Carlos no existe. <!-- feedback: Incorrecto. No hay evidencia para esa interpretación. -->
 - [x] C) Con coma, "No" es una respuesta a alguien que pregunta; sin coma, "No Carlos" podría interpretarse como el nombre completo de una persona ("No Carlos"). <!-- feedback: Correcto. La coma vocativa separa la interjección "No" del nombre "Carlos". Sin la coma, "No Carlos" parece un nombre compuesto y la frase pierde sentido. -->
@@ -164,6 +172,7 @@ Análisis de la coma vocativa: un signo diminuto que evita confusiones mayúscul
 ## Question 7 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
@@ -173,7 +182,7 @@ Analiza el siguiente fragmento de un cuento infantil:
 
 ¿Cuál es la función de los signos de interrogación (¿?) y de exclamación (¡!) en este fragmento?
 
-### Options
+### Opciones
 - [ ] A) Decorar el texto para que se vea más infantil. <!-- feedback: Incorrecto. Los signos no son decorativos; tienen función comunicativa. -->
 - [ ] B) Indicar que el personaje está enojado o feliz. <!-- feedback: Parcialmente cierto, pero incompleto. -->
 - [x] C) Marcar el tono de voz: la interrogación indica una pregunta (curiosidad de los cerditos) y la exclamación indica una orden o emoción intensa (ánimo para soplar más fuerte). <!-- feedback: Correcto. Los signos de interrogación y exclamación reflejan la entonación del diálogo, indicando preguntas, sorpresa, órdenes o emociones intensas. Sin ellos, el diálogo sería plano y sin emoción. -->
@@ -185,6 +194,7 @@ Reconocimiento de la función expresiva de los signos de interrogación y exclam
 ## Question 8 [D6]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
@@ -194,7 +204,7 @@ Un estudiante escribió en su cuaderno:
 
 ¿Qué error de puntuación contiene esta oración?
 
-### Options
+### Opciones
 - [ ] A) Falta punto al final. <!-- feedback: Incorrecto. El punto final está presente. -->
 - [ ] B) Sobra la coma después de "dijo". <!-- feedback: Incorrecto. Después de "dijo" debería haber dos puntos si introduce una cita, pero aquí hay dos puntos (está bien). -->
 - [x] C) La cita textual de la mamá debería ir entre comillas para diferenciar las palabras de la mamá de las del estudiante. <!-- feedback: Correcto. Al escribir "hoy no hay clase" como cita textual de la mamá, debe ir entre comillas ("hoy no hay clase") para que el lector distinga quién dice qué. -->
@@ -206,6 +216,7 @@ Evaluación del uso correcto de los signos en diálogos y citas: las comillas so
 ## Question 9 [D6 — Contexto colombiano]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
@@ -215,7 +226,7 @@ Lee el siguiente aviso encontrado en una tienda de Sincelejo, Sucre:
 
 El aviso tiene un error de ortografía ("huevo" escrito como "huelo") y un error de puntuación. ¿Cuál es el error de puntuación?
 
-### Options
+### Opciones
 - [ ] A) Faltan signos de exclamación en el aviso. <!-- feedback: Incorrecto. Un aviso de tienda no necesita signos de exclamación. -->
 - [ ] B) Sobran las comas después de "huevo" y "queso". <!-- feedback: Incorrecto. Las comas en la enumeración son correctas. -->
 - [x] C) La coma antes de "también" separa incorrectamente dos oraciones que deberían estar separadas por un punto o conectadas con "y" sin coma. <!-- feedback: Correcto. "Se venden arepas de huevo, queso y carne" es una oración completa. "También hay jugos naturales..." es otra oración. Debería ir punto antes de "También", o reemplazar la coma por punto y seguido. La coma no es suficiente para separar dos oraciones independientes. -->
@@ -227,6 +238,7 @@ Evaluación del uso correcto de la coma y el punto: una coma no puede separar do
 ## Question 10 [D7 — Integración]
 
 **Bloom:** Create
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido y producción textual
 
 ### Enunciado
@@ -236,7 +248,7 @@ Un compañero de clase escribió este mensaje en el chat del grupo de Lenguaje:
 
 Tu tarea es reescribir el mensaje agregando los signos de puntuación necesarios (puntos, comas, signos de interrogación/exclamación, dos puntos) para que sea claro. Luego, responde: ¿por qué es importante la puntuación en los mensajes de texto?
 
-### Options
+### Opciones
 - [ ] A) "Chicos la profe dijo que la tarea es para mañana no para el viernes así que apúrense" — La puntuación no es importante en los chats. <!-- feedback: Incorrecto. La puntuación es importante en todo tipo de comunicación escrita. -->
 - [x] B) "Chicos: la profe dijo que la tarea es para mañana, no para el viernes. ¡Así que apúrense!" — La puntuación es importante porque evita malentendidos y organiza el mensaje, incluso en chats informales. <!-- feedback: Correcto. Los dos puntos después de "Chicos" marcan que se está llamando la atención del grupo. La coma antes de "no" aclara la oposición (mañana ≠ viernes). Los signos de exclamación en "apúrense" transmiten urgencia. Sin puntuación, el mensaje es ambiguo. -->
 - [ ] C) "Chicos, la profe dijo que la tarea es para mañana. No para el viernes así que apúrense." — La puntuación solo importa en trabajos académicos. <!-- feedback: Incorrecto. La afirmación sobre que solo importa en trabajos académicos es falsa, y la puntuación en la propuesta es incompleta. -->

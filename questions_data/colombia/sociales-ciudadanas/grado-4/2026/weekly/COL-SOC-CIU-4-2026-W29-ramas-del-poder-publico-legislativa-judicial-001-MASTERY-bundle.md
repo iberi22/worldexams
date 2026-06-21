@@ -1,5 +1,5 @@
 ---
-id: "COL-SOC-CIU-4-2026-W29-ramas-del-poder-publico-legislativa-judicial-001-MASTERY"
+id: "COL-SOC-CIU-4-2026-W29-ramas-del-poder-publico-legislativa-judicial-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Ramas Legislativa y Judicial del poder público"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Ramas Legislativa y Judicial del poder público
 
@@ -30,14 +35,15 @@ Este bundle explica la Rama Legislativa (Congreso) y la Rama Judicial (jueces y 
 ## Question 1 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W29-ramas-del-poder-publico-legislativa-judicial-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Ramas del poder en Tunja
+**Contexto:** Ramas del poder en Tunja
 
 ### Enunciado
 ¿Qué hace la Rama Legislativa en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Gobernar el país. <!-- feedback: Incorrecto. Gobernar es función del Ejecutivo. -->
 - [x] B) Crear, modificar y derogar las leyes. <!-- feedback: Correcto. La función principal del Legislativo es hacer las leyes. -->
 - [ ] C) Juzgar a los delincuentes. <!-- feedback: Incorrecto. Juzgar es función de la Judicial. -->
@@ -51,14 +57,15 @@ Este bundle explica la Rama Legislativa (Congreso) y la Rama Judicial (jueces y 
 ## Question 2 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W29-ramas-del-poder-publico-legislativa-judicial-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Rama Judicial
+**Contexto:** Rama Judicial
 
 ### Enunciado
 ¿Qué hace la Rama Judicial en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Hacer las leyes. <!-- feedback: Incorrecto. Es función del Legislativo. -->
 - [ ] B) Elegir al presidente. <!-- feedback: Incorrecto. El presidente se elige por voto. -->
 - [x] C) Juzgar y resolver conflictos aplicando las leyes. <!-- feedback: Correcto. La Rama Judicial administra justicia. -->
@@ -72,14 +79,15 @@ Este bundle explica la Rama Legislativa (Congreso) y la Rama Judicial (jueces y 
 ## Question 3 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W29-ramas-del-poder-publico-legislativa-judicial-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** El Congreso
+**Contexto:** El Congreso
 
 ### Enunciado
 ¿Cómo se llama el órgano que ejerce la Rama Legislativa en Colombia?
 
-### Options
+### Opciones
 - [ ] A) La Presidencia. <!-- feedback: Incorrecto. Esa es la Ejecutiva. -->
 - [ ] B) El Concejo Municipal. <!-- feedback: Parcial, pero a nivel local. A nivel nacional es el Congreso. -->
 - [x] C) El Congreso de la República. <!-- feedback: Correcto. El Congreso es el órgano legislativo nacional. -->
@@ -93,14 +101,15 @@ Este bundle explica la Rama Legislativa (Congreso) y la Rama Judicial (jueces y 
 ## Question 4 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W29-ramas-del-poder-publico-legislativa-judicial-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Cámaras del Congreso
+**Contexto:** Cámaras del Congreso
 
 ### Enunciado
 ¿El Congreso de Colombia está dividido en dos partes. ¿Cuáles son?
 
-### Options
+### Opciones
 - [ ] A) Presidencia y Vicepresidencia. <!-- feedback: Incorrecto. Esas son del Ejecutivo. -->
 - [x] B) Senado y Cámara de Representantes. <!-- feedback: Correcto. El Congreso tiene dos cámaras: Senado y Cámara. -->
 - [ ] C) Corte Suprema y Corte Constitucional. <!-- feedback: Incorrecto. Esas son cortes judiciales. -->
@@ -114,14 +123,15 @@ Este bundle explica la Rama Legislativa (Congreso) y la Rama Judicial (jueces y 
 ## Question 5 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W29-ramas-del-poder-publico-legislativa-judicial-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** A nivel local
+**Contexto:** A nivel local
 
 ### Enunciado
 ¿Cuál es el equivalente local de la Rama Legislativa en un municipio?
 
-### Options
+### Opciones
 - [ ] A) La Alcaldía. <!-- feedback: Incorrecto. La Alcaldía es Ejecutiva. -->
 - [ ] B) La Personería. <!-- feedback: Incorrecto. La Personería vigila la gestión. -->
 - [x] C) El Concejo Municipal. <!-- feedback: Correcto. El Concejo Municipal ejerce la función legislativa local (acuerdos). -->
@@ -135,14 +145,15 @@ Este bundle explica la Rama Legislativa (Congreso) y la Rama Judicial (jueces y 
 ## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W29-ramas-del-poder-publico-legislativa-judicial-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Cortes judiciales
+**Contexto:** Cortes judiciales
 
 ### Enunciado
 ¿Cuáles son las altas cortes de la Rama Judicial en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Presidencia y Vicepresidencia. <!-- feedback: Incorrecto. Son del Ejecutivo. -->
 - [ ] B) Senado y Cámara. <!-- feedback: Incorrecto. Son del Legislativo. -->
 - [x] C) Corte Suprema de Justicia, Corte Constitucional, Consejo de Estado y Consejo Superior de la Judicatura. <!-- feedback: Correcto. Esas son las cuatro altas cortes de Colombia. -->
@@ -156,14 +167,15 @@ Este bundle explica la Rama Legislativa (Congreso) y la Rama Judicial (jueces y 
 ## Question 7 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W29-ramas-del-poder-publico-legislativa-judicial-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Equilibrio de poderes
+**Contexto:** Equilibrio de poderes
 
 ### Enunciado
 ¿Por qué la Rama Judicial puede anular una ley aprobada por el Congreso?
 
-### Options
+### Opciones
 - [ ] A) Porque la Judicial es más importante. <!-- feedback: Incorrecto. Las ramas son iguales. -->
 - [x] B) Porque la Corte Constitucional revisa que las leyes estén de acuerdo con la Constitución, y si no, las declara inexequibles. <!-- feedback: Correcto. Es el control constitucional que garantiza que las leyes respeten la Constitución. -->
 - [ ] C) Porque el presidente se lo pide. <!-- feedback: Incorrecto. Es independiente. -->
@@ -177,14 +189,15 @@ Este bundle explica la Rama Legislativa (Congreso) y la Rama Judicial (jueces y 
 ## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W29-ramas-del-poder-publico-legislativa-judicial-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Independencia judicial
+**Contexto:** Independencia judicial
 
 ### Enunciado
 ¿Por qué es importante que la Rama Judicial sea independiente del Ejecutivo?
 
-### Options
+### Opciones
 - [ ] A) No es importante, deberían trabajar juntos en todo. <!-- feedback: Incorrecto. La independencia es clave. -->
 - [x] B) Porque los jueces deben decidir sin presiones del gobierno para garantizar una justicia imparcial. <!-- feedback: Correcto. La independencia judicial garantiza que nadie esté por encima de la ley. -->
 - [ ] C) Porque los jueces no quieren trabajar con nadie. <!-- feedback: Incorrecto. Es un principio constitucional. -->
@@ -198,14 +211,15 @@ Este bundle explica la Rama Legislativa (Congreso) y la Rama Judicial (jueces y 
 ## Question 9 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W29-ramas-del-poder-publico-legislativa-judicial-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Equilibrio entre ramas
+**Contexto:** Equilibrio entre ramas
 
 ### Enunciado
 ¿Crees que las tres ramas del poder funcionan bien en Colombia?
 
-### Options
+### Opciones
 - [ ] A) No, porque se pelean todo el tiempo. <!-- feedback: Hay tensiones, pero eso también es parte del control. -->
 - [ ] B) Sí, perfectamente sin problemas. <!-- feedback: Incorrecto. Hay desafíos, pero el sistema funciona. -->
 - [x] C) El sistema de pesos y contrapesos funciona, aunque a veces hay tensiones entre las ramas, lo cual es normal en una democracia. <!-- feedback: Correcto. Las tensiones son parte del equilibrio de poderes. -->
@@ -220,13 +234,14 @@ Este bundle explica la Rama Legislativa (Congreso) y la Rama Judicial (jueces y 
 
 **ID:** `COL-SOC-CIU-4-2026-W29-ramas-del-poder-publico-legislativa-judicial-001-MASTERY-v10`
 **Bloom:** [Create]
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Ejemplo en el colegio
+**Contexto:** Ejemplo en el colegio
 
 ### Enunciado
 Si tu colegio se organizara como un Estado con tres ramas del poder, ¿cómo se distribuirían las funciones?
 
-### Options
+### Opciones
 - [ ] A) El rector haría leyes, jueces y las ejecutaría. <!-- feedback: Incorrecto. Concentraría demasiado poder. -->
 - [x] B) Los estudiantes elegirían un congreso escolar (Legislativo) para crear normas, un personero (Ejecutivo) para ejecutarlas y un tribunal de convivencia (Judicial) para resolver conflictos. <!-- feedback: Correcto. Esta distribución refleja la separación de poderes. -->
 - [ ] C) Solo el rector decide todo. <!-- feedback: Incorrecto. No es democrático. -->

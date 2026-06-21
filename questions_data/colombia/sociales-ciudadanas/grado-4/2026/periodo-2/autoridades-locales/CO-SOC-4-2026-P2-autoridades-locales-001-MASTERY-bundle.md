@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY"
+id: "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Autoridades locales en Colombia, alcalde, concejo, personero, JAC, inspección de policía, comisaría de familia, funciones, participación ciudadana"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Autoridades Locales
 
@@ -27,14 +34,15 @@ Este bundle cubre las autoridades locales del municipio colombiano: el Alcalde, 
 ## Question 1 [D3]
 
 **ID:** `CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de formación ciudadana de la I.E. José María Obando de Popayán, la profesora enumera las autoridades del municipio.
+**Contexto:** En clase de formación ciudadana de la I.E. José María Obando de Popayán, la profesora enumera las autoridades del municipio.
 
 ### Enunciado
 La autoridad que representa al municipio, lo administra y ejecuta las decisiones se llama:
 
-### Options
+### Opciones
 - [ ] A) El Personero Municipal. <!-- feedback: Incorrecto. El Personero defiende los derechos humanos, pero no administra el municipio. -->
 - [ ] B) El Gobernador. <!-- feedback: Incorrecto. El Gobernador es la autoridad del departamento, no del municipio. -->
 - [x] C) El Alcalde Municipal. <!-- feedback: Correcto. El Alcalde es el representante legal del municipio y su primera autoridad administrativa, encargado de ejecutar los recursos y gestionar los servicios públicos. -->
@@ -48,14 +56,15 @@ Se evalúa el conocimiento de la principal autoridad municipal. La respuesta cor
 ## Question 2 [D3]
 
 **ID:** `CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Normal Superior de Montería, los estudiantes aprenden las diferencias entre las autoridades locales.
+**Contexto:** En la clase de sociales de la I.E. Normal Superior de Montería, los estudiantes aprenden las diferencias entre las autoridades locales.
 
 ### Enunciado
 El Concejo Municipal está conformado por personas elegidas por voto popular llamadas:
 
-### Options
+### Opciones
 - [ ] A) Senadores. <!-- feedback: Incorrecto. Los senadores son elegidos para el Congreso Nacional, no para el municipio. -->
 - [ ] B) Diputados. <!-- feedback: Incorrecto. Los diputados son elegidos para la Asamblea Departamental. -->
 - [x] C) Concejales. <!-- feedback: Correcto. Los concejales son elegidos por los ciudadanos del municipio para integrar el Concejo Municipal, donde expiden acuerdos y hacen control político al Alcalde. -->
@@ -69,14 +78,15 @@ Se evalúa el reconocimiento de los miembros del Concejo Municipal. La respuesta
 ## Question 3 [D4]
 
 **ID:** `CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales de la I.E. Técnico de Sopó, el profesor explica la función del Personero Municipal.
+**Contexto:** En la clase de sociales de la I.E. Técnico de Sopó, el profesor explica la función del Personero Municipal.
 
 ### Enunciado
 La Personería Municipal es una entidad que:
 
-### Options
+### Opciones
 - [ ] A) Recauda los impuestos del municipio. <!-- feedback: Incorrecto. Recaudar impuestos es función de la Tesorería Municipal. -->
 - [ ] B) Organiza las fiestas patronales del pueblo. <!-- feedback: Incorrecto. La Personería no organiza eventos festivos. -->
 - [x] C) Defiende los derechos humanos y vigila que las autoridades municipales cumplan con sus deberes. <!-- feedback: Correcto. El Personero Municipal es el defensor de los derechos de los ciudadanos en el municipio y ejerce control sobre la gestión del Alcalde. -->
@@ -90,14 +100,15 @@ Se evalúa la comprensión del rol de la Personería Municipal. La respuesta cor
 ## Question 4 [D4]
 
 **ID:** `CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de formación ciudadana de la I.E. Fe y Alegría de Soacha, se habla de la Comisaría de Familia.
+**Contexto:** En la clase de formación ciudadana de la I.E. Fe y Alegría de Soacha, se habla de la Comisaría de Familia.
 
 ### Enunciado
 Si en una familia hay maltrato infantil o violencia intrafamiliar, la autoridad local a la que se debe acudir es:
 
-### Options
+### Opciones
 - [ ] A) El Alcalde directamente. <!-- feedback: Incorrecto. El Alcalde no atiende casos particulares de violencia intrafamiliar. -->
 - [ ] B) La Junta de Acción Comunal. <!-- feedback: Incorrecto. Las JAC organizan a la comunidad pero no tienen autoridad judicial. -->
 - [x] C) La Comisaría de Familia. <!-- feedback: Correcto. La Comisaría de Familia es la autoridad local encargada de proteger los derechos de los miembros de la familia, especialmente niños, niñas y adolescentes, en casos de violencia y maltrato. -->
@@ -111,14 +122,15 @@ Se evalúa la comprensión del rol de la Comisaría de Familia. La respuesta cor
 ## Question 5 [D4]
 
 **ID:** `CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En el barrio El Paraíso de la I.E. La Amistad de Pereira, los vecinos quieren organizarse para mejorar la seguridad.
+**Contexto:** En el barrio El Paraíso de la I.E. La Amistad de Pereira, los vecinos quieren organizarse para mejorar la seguridad.
 
 ### Enunciado
 Los vecinos de un barrio pueden organizarse para trabajar por el mejoramiento de su comunidad a través de:
 
-### Options
+### Opciones
 - [ ] A) Una fiesta cada fin de semana. <!-- feedback: Incorrecto. Las fiestas no son un mecanismo de organización comunitaria formal. -->
 - [ ] B) Una reunión con el Presidente de la República. <!-- feedback: Incorrecto. El Presidente no atiende problemas de barrio directamente. -->
 - [x] C) La Junta de Acción Comunal (JAC), que es la organización de base de la comunidad para gestionar proyectos y necesidades. <!-- feedback: Correcto. Las Juntas de Acción Comunal son organizaciones civiles que representan a la comunidad de un barrio o vereda y gestionan proyectos de desarrollo ante el municipio. -->
@@ -132,14 +144,15 @@ Se evalúa la capacidad de aplicar conocimientos sobre organización comunitaria
 ## Question 6 [D4]
 
 **ID:** `CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-v6`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en la I.E. San Felipe Neri de Barranquilla, el profesor explica qué hace la Inspección de Policía.
+**Contexto:** En clase de sociales en la I.E. San Felipe Neri de Barranquilla, el profesor explica qué hace la Inspección de Policía.
 
 ### Enunciado
 La Inspección de Policía en un municipio se encarga principalmente de:
 
-### Options
+### Opciones
 - [ ] A) Investigar delitos graves como homicidios. <!-- feedback: Incorrecto. Los delitos graves son competencia de la Fiscalía. -->
 - [ ] B) Organizar desfiles y fiestas deportivas. <!-- feedback: Incorrecto. La Inspección de Policía no organiza eventos. -->
 - [x] C) Resolver conflictos entre vecinos (problemas de linderos, ruido, mascotas) y hacer cumplir las normas de convivencia del municipio. <!-- feedback: Correcto. El Inspector de Policía es la autoridad que resuelve conflictos de convivencia ciudadana, aplica multas y ordena medidas correctivas. -->
@@ -153,14 +166,15 @@ Se evalúa la comprensión del rol del Inspector de Policía. La respuesta corre
 ## Question 7 [D4]
 
 **ID:** `CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-v7`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de formación ciudadana de la I.E. Débora Arango de Envigado, se simula una reunión del Concejo Municipal.
+**Contexto:** En la clase de formación ciudadana de la I.E. Débora Arango de Envigado, se simula una reunión del Concejo Municipal.
 
 ### Enunciado
 Si los estudiantes quieren proponer una idea para mejorar la biblioteca municipal, pueden:
 
-### Options
+### Opciones
 - [ ] A) Llamar por teléfono a un programa de farándula. <!-- feedback: Incorrecto. Los programas de farándula no toman decisiones municipales. -->
 - [x] B) Solicitar una cita con algún concejal para presentar su propuesta, o asistir a las sesiones del Concejo Municipal donde se reciben sugerencias de la comunidad. <!-- feedback: Correcto. Los concejales son representantes de la comunidad y pueden recibir propuestas ciudadanas para convertirlas en acuerdos municipales. -->
 - [ ] C) Enviar una carta al rey de España. <!-- feedback: Incorrecto. El rey de España no tiene autoridad en municipios colombianos. -->
@@ -174,14 +188,15 @@ Se evalúa la capacidad de aplicar los mecanismos de participación ciudadana. L
 ## Question 8 [D5]
 
 **ID:** `CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En la clase de sociales de la I.E. INEM de Pasto, los estudiantes analizan por qué hay varias autoridades y no solo una.
+**Contexto:** En la clase de sociales de la I.E. INEM de Pasto, los estudiantes analizan por qué hay varias autoridades y no solo una.
 
 ### Enunciado
 ¿Por qué es importante que en un municipio existan diferentes autoridades (Alcalde, Concejo, Personería, JAC) y no una sola?
 
-### Options
+### Opciones
 - [ ] A) Para que haya más personas con cargos y sueldos, aunque no trabajen. <!-- feedback: Incorrecto. No se crean cargos solo para dar empleo. -->
 - [ ] B) Para que el Alcalde tenga más poder que nadie y decida todo. <!-- feedback: Incorrecto. El poder no debe concentrarse en una sola persona. -->
 - [x] C) Para que haya separación de funciones, equilibrio de poder y control mutuo, evitando abusos y garantizando que las decisiones se tomen pensando en el bien común. <!-- feedback: Correcto. La existencia de varias autoridades permite que unas controlen a otras, que haya representación de diferentes intereses y que los ciudadanos tengan múltiples canales para ser escuchados. -->
@@ -195,14 +210,15 @@ Se evalúa la capacidad de analizar la importancia de la separación de poderes 
 ## Question 9 [D5]
 
 **ID:** `CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-v9`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de formación ciudadana de la I.E. La Paz de Valledupar, los estudiantes discuten cómo elegir autoridades locales.
+**Contexto:** En la clase de formación ciudadana de la I.E. La Paz de Valledupar, los estudiantes discuten cómo elegir autoridades locales.
 
 ### Enunciado
 Las autoridades locales como el Alcalde y los Concejales son elegidas por:
 
-### Options
+### Opciones
 - [ ] A) El Presidente de la República, que nombra a todos los alcaldes. <!-- feedback: Incorrecto. En Colombia los alcaldes no son nombrados por el Presidente desde 1988. -->
 - [ ] B) El Gobernador del departamento. <!-- feedback: Incorrecto. El Gobernador tampoco nombra a los alcaldes. -->
 - [x] C) Los ciudadanos del municipio mayores de 18 años, mediante voto popular y secreto cada cuatro años. <!-- feedback: Correcto. Los alcaldes y concejales son elegidos por voto popular desde la reforma constitucional de 1986, que estableció la elección popular de alcaldes. -->
@@ -216,14 +232,15 @@ Se evalúa la comprensión del proceso de elección de autoridades locales. La r
 ## Question 10 [D5]
 
 **ID:** `CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-v10`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales de la I.E. Javiera Londoño de Medellín, la profesora pregunta cómo los niños pueden relacionarse con las autoridades locales.
+**Contexto:** En la clase de sociales de la I.E. Javiera Londoño de Medellín, la profesora pregunta cómo los niños pueden relacionarse con las autoridades locales.
 
 ### Enunciado
 Aunque los niños no pueden votar ni ser elegidos, pueden participar en la vida de su municipio a través de:
 
-### Options
+### Opciones
 - [ ] A) No haciendo nada, porque los niños no tienen voz en el municipio. <!-- feedback: Incorrecto. Los niños también pueden participar. -->
 - [ ] B) Asistiendo a las sesiones del Concejo Municipal solo si pagan una entrada. <!-- feedback: Incorrecto. Las sesiones del Concejo son públicas y gratuitas. -->
 - [x] C) Los Consejos Municipales de Niños y Niñas, participando en las juntas de acción comunal con su familia, y expresando sus ideas en la escuela sobre cómo mejorar su barrio. <!-- feedback: Correcto. Existen los Consejos Municipales de Niños y Niñas como espacios de participación infantil, y los niños pueden involucrarse en actividades comunitarias acompañados de sus familias. -->

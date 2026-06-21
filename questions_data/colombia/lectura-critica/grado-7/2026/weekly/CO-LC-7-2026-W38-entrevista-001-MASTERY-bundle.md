@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W38-entrevista-001-MASTERY"
+id: "CO-LC-7-2026-W38-entrevista-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "entrevista"
-semana: "W38"
+week: "W38"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: La Entrevista Periodística - Grado 7
 ## Semana W38 — Análisis crítico de la entrevista como género dialógico y fuente de información
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W38-entrevista-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En clase de Lectura Crítica se analiza la entrevista que la revista Cambio le hizo al biólogo marino colombiano Fernando Trujillo, conocido por su trabajo con delfines de río.
+**Contexto:** En clase de Lectura Crítica se analiza la entrevista que la revista Cambio le hizo al biólogo marino colombiano Fernando Trujillo, conocido por su trabajo con delfines de río.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La entrevista periodística es un género dialógico en el que un periodista for
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W38-entrevista-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión del sentido global
-**Context:** Una entrevista a una lideresa social de Buenaventura comienza con la pregunta: "Usted ha recibido amenazas por defender el territorio. ¿Por qué sigue adelante?"
+**Contexto:** Una entrevista a una lideresa social de Buenaventura comienza con la pregunta: "Usted ha recibido amenazas por defender el territorio. ¿Por qué sigue adelante?"
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -60,11 +64,11 @@ Las preguntas abiertas son aquellas que no pueden responderse con un monosílabo
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W38-entrevista-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Configuración textual
-**Context:** Una entrevista publicada en El Espectador tiene la siguiente estructura: Titular con frase destacada → Presentación del entrevistado → Pregunta 1 → Respuesta → Pregunta 2 → Respuesta → Cierre del periodista.
+**Contexto:** Una entrevista publicada en El Espectador tiene la siguiente estructura: Titular con frase destacada → Presentación del entrevistado → Pregunta 1 → Respuesta → Pregunta 2 → Respuesta → Cierre del periodista.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -81,11 +85,11 @@ El formato de pregunta-respuesta (o formato textual directo) es el más común e
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W38-entrevista-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Dimensión inferencial
-**Context:** Durante una entrevista radial, el periodista pregunta al alcalde de una ciudad: "¿Es cierto que su administración desvió recursos de la educación para obras viales?"
+**Contexto:** Durante una entrevista radial, el periodista pregunta al alcalde de una ciudad: "¿Es cierto que su administración desvió recursos de la educación para obras viales?"
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -102,11 +106,11 @@ La pregunta confrontativa es propia del periodismo de investigación y fiscaliza
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W38-entrevista-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Dimensión inferencial
-**Context:** Un entrevistado responde: "Bueno, yo creo que deberíamos enfocarnos en lo positivo. Las cosas están mejorando. No todo es malo. Hay que tener esperanza." El periodista le había preguntado sobre cifras concretas de desempleo.
+**Contexto:** Un entrevistado responde: "Bueno, yo creo que deberíamos enfocarnos en lo positivo. Las cosas están mejorando. No todo es malo. Hay que tener esperanza." El periodista le había preguntado sobre cifras concretas de desempleo.
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -123,11 +127,11 @@ La evasión es una técnica común en entrevistas, especialmente cuando el tema 
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W38-entrevista-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Configuración textual
-**Context:** En una entrevista al escritor Héctor Abad Faciolince, el periodista le pregunta: "En su libro más reciente, usted habla de la memoria. ¿Cree que Colombia está lista para recordar?" Esta pregunta se basa en la lectura previa del libro.
+**Contexto:** En una entrevista al escritor Héctor Abad Faciolince, el periodista le pregunta: "En su libro más reciente, usted habla de la memoria. ¿Cree que Colombia está lista para recordar?" Esta pregunta se basa en la lectura previa del libro.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -144,11 +148,11 @@ La preparación previa es una de las cualidades más importantes de un buen entr
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W38-entrevista-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Dimensión inferencial
-**Context:** Una entrevista en televisión a un ministro reproduce textualmente en pantalla las preguntas que la audiencia envió por redes sociales. El ministro responde seleccionando las que le convienen.
+**Contexto:** Una entrevista en televisión a un ministro reproduce textualmente en pantalla las preguntas que la audiencia envió por redes sociales. El ministro responde seleccionando las que le convienen.
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -165,11 +169,11 @@ Toda entrevista implica una dinámica de poder que puede manifestarse de diferen
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W38-entrevista-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Dimensión inferencial
-**Context:** Un periodista entrevista a un científico colombiano que trabaja en la Nasa. Todas las preguntas son sobre su infancia, su familia y cómo logró "salir adelante". Ninguna pregunta es sobre su investigación científica.
+**Contexto:** Un periodista entrevista a un científico colombiano que trabaja en la Nasa. Todas las preguntas son sobre su infancia, su familia y cómo logró "salir adelante". Ninguna pregunta es sobre su investigación científica.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -186,11 +190,11 @@ Esta crítica apunta a un problema recurrente en el periodismo colombiano: la te
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W38-entrevista-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** Una entrevista a un reconocido chef colombiano es patrocinada por una marca de aceites de cocina. Durante la entrevista, el chef menciona tres veces la marca de aceite "que siempre usa".
+**Contexto:** Una entrevista a un reconocido chef colombiano es patrocinada por una marca de aceites de cocina. Durante la entrevista, el chef menciona tres veces la marca de aceite "que siempre usa".
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -207,11 +211,11 @@ El conflicto de intereses en periodismo ocurre cuando el interés del medio o de
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W38-entrevista-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** Un entrevistado responde: "Eso que usted dice es falso. Yo nunca he dicho eso. Además, su medio siempre ha sido sesgado contra mi gobierno." El periodista le había preguntado sobre un aumento en la pobreza durante su gestión.
+**Contexto:** Un entrevistado responde: "Eso que usted dice es falso. Yo nunca he dicho eso. Además, su medio siempre ha sido sesgado contra mi gobierno." El periodista le había preguntado sobre un aumento en la pobreza durante su gestión.
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ La combinación de negación y ataque es una técnica defensiva común en entrev
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W38-entrevista-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** Un medio publica una entrevista a un concejal con el titular: "Concejal Pérez: 'La ciudad está mejor que nunca'". Al leer la entrevista completa, se descubre que el concejal dijo eso al inicio, pero luego admitió graves problemas de seguridad y salud.
+**Contexto:** Un medio publica una entrevista a un concejal con el titular: "Concejal Pérez: 'La ciudad está mejor que nunca'". Al leer la entrevista completa, se descubre que el concejal dijo eso al inicio, pero luego admitió graves problemas de seguridad y salud.
 **Expected_Success:** 0.40
 
 ### Enunciado
@@ -249,11 +253,11 @@ La selección de titulares y citas destacadas es una de las decisiones editorial
 
 ---
 
-## Pregunta 12 [D9-D10]
+## Question 12 [D9-D10]
 **ID:** `CO-LC-7-2026-W38-entrevista-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Reflexión sobre el contenido
-**Context:** Como proyecto de la semana, los estudiantes del Colegio San Luis de Palenque deben diseñar las preguntas para una entrevista a un adulto mayor del municipio que vivió la época de la violencia bipartidista en los años 50.
+**Contexto:** Como proyecto de la semana, los estudiantes del Colegio San Luis de Palenque deben diseñar las preguntas para una entrevista a un adulto mayor del municipio que vivió la época de la violencia bipartidista en los años 50.
 **Expected_Success:** 0.36
 
 ### Enunciado

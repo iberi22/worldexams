@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY"
+id: "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Organización social colonial, castas, roles, encomienda, esclavitud africana, vida cotidiana colonial"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Organización Social Colonial
 
@@ -27,14 +34,15 @@ Este bundle cubre la organización social durante la Colonia en Colombia: las ca
 ## Question 1 [D3]
 
 **ID:** `CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en Santa Fe de Antioquia, el profesor explica cómo se clasificaba a las personas en la Colonia.
+**Contexto:** En clase de sociales en Santa Fe de Antioquia, el profesor explica cómo se clasificaba a las personas en la Colonia.
 
 ### Enunciado
 En la Colonia, las personas se clasificaban según su origen racial. A los hijos de español e indígena se les llamaba:
 
-### Options
+### Opciones
 - [ ] A) Criollos. <!-- feedback: Incorrecto. Los criollos eran hijos de españoles nacidos en América, no mezcla de español e indígena. -->
 - [ ] B) Mulatos. <!-- feedback: Incorrecto. Los mulatos eran hijos de español y africana, no de español e indígena. -->
 - [x] C) Mestizos. <!-- feedback: Correcto. El mestizo era el hijo de padre español y madre indígena (o viceversa), que ocupaba un lugar intermedio en la sociedad colonial. -->
@@ -48,14 +56,15 @@ Se evalúa el conocimiento de la clasificación de castas en la Colonia. La resp
 ## Question 2 [D3]
 
 **ID:** `CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en Bogotá, la profesora habla de cómo los españoles organizaron el trabajo indígena.
+**Contexto:** En clase de sociales en Bogotá, la profesora habla de cómo los españoles organizaron el trabajo indígena.
 
 ### Enunciado
 El sistema por el cual los españoles obligaban a los indígenas a trabajar a cambio de enseñarles la religión católica se llamaba:
 
-### Options
+### Opciones
 - [ ] A) La esclavitud. <!-- feedback: Incorrecto. Los indígenas no eran esclavos legalmente; el sistema con ellos era diferente. -->
 - [x] B) La encomienda. <!-- feedback: Correcto. La encomienda era una institución colonial que asignaba grupos de indígenas a un español (encomendero) para que trabajaran para él, a cambio de evangelizarlos. -->
 - [ ] C) El feudalismo. <!-- feedback: Incorrecto. El feudalismo fue un sistema europeo medieval, no una institución colonial americana. -->
@@ -69,14 +78,15 @@ Se evalúa el conocimiento del sistema de trabajo colonial. La respuesta correct
 ## Question 3 [D4]
 
 **ID:** `CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En el Museo Afrocolombiano de Cartagena, los estudiantes aprenden sobre la esclavitud en la Colonia.
+**Contexto:** En el Museo Afrocolombiano de Cartagena, los estudiantes aprenden sobre la esclavitud en la Colonia.
 
 ### Enunciado
 Millones de personas africanas fueron traídas a la fuerza a América durante la Colonia para trabajar como esclavos. Eran traídos a Colombia principalmente por el puerto de:
 
-### Options
+### Opciones
 - [ ] A) Buenaventura. <!-- feedback: Incorrecto. Buenaventura es un puerto del Pacífico; los esclavos llegaban principalmente por el Caribe. -->
 - [x] B) Cartagena de Indias. <!-- feedback: Correcto. Cartagena fue el principal puerto de entrada de esclavos africanos a la Nueva Granada durante toda la Colonia. -->
 - [ ] C) Leticia. <!-- feedback: Incorrecto. Leticia está en la Amazonía y no fue un puerto importante en la Colonia. -->
@@ -90,14 +100,15 @@ Se evalúa el conocimiento sobre la trata de esclavos en Colombia. La respuesta 
 ## Question 4 [D4]
 
 **ID:** `CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en Medellín, la profesora explica por qué la Colonia duró tanto tiempo (más de 300 años).
+**Contexto:** En clase de sociales en Medellín, la profesora explica por qué la Colonia duró tanto tiempo (más de 300 años).
 
 ### Enunciado
 Una de las principales razones por las que la Colonia duró tantos años fue porque:
 
-### Options
+### Opciones
 - [ ] A) Los colombianos estaban contentos con el gobierno español. <!-- feedback: Incorrecto. Hubo muchas rebeliones y descontento, pero el poder militar español era muy superior. -->
 - [x] B) España tenía un poderoso ejército y controlaba estrictamente el comercio, la política y la religión en sus colonias. <!-- feedback: Correcto. España mantenía un control muy fuerte: no permitía el libre comercio, controlaba la educación a través de la Iglesia y castigaba duramente las rebeliones. -->
 - [ ] C) No existían otros países para pedir ayuda. <!-- feedback: Incorrecto. Existían otros imperios, pero España mantenía su poderío militar en la región. -->
@@ -111,14 +122,15 @@ Se evalúa la comprensión de las razones de la permanencia del dominio colonial
 ## Question 5 [D4]
 
 **ID:** `CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales en Pamplona, los estudiantes representan la vida cotidiana en una plaza colonial.
+**Contexto:** En la clase de sociales en Pamplona, los estudiantes representan la vida cotidiana en una plaza colonial.
 
 ### Enunciado
 En la plaza principal de una ciudad colonial, ¿qué edificios NO podían faltar?
 
-### Options
+### Opciones
 - [ ] A) Un centro comercial y un cine. <!-- feedback: Incorrecto. No existían centros comerciales ni cines en la Colonia. -->
 - [x] B) La Iglesia principal, el Cabildo (ayuntamiento) y la cárcel. <!-- feedback: Correcto. La plaza Mayor siempre tenía la iglesia, el cabildo (donde se reunía el concejo municipal) y la cárcel. -->
 - [ ] C) Una estación de policía y un hospital moderno. <!-- feedback: Incorrecto. No existían estaciones de policía ni hospitales modernos como los conocemos hoy. -->
@@ -132,14 +144,15 @@ Se evalúa la capacidad de reconstruir el paisaje urbano colonial. La respuesta 
 ## Question 6 [D4]
 
 **ID:** `CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-v6`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. La Merced de Ibagué, el profesor habla de los criollos en la Colonia.
+**Contexto:** En la clase de sociales de la I.E. La Merced de Ibagué, el profesor habla de los criollos en la Colonia.
 
 ### Enunciado
 Los criollos eran hijos de españoles nacidos en América. Aunque eran ricos y educados, no podían ocupar los cargos más importantes del gobierno colonial. Esto los hizo sentirse:
 
-### Options
+### Opciones
 - [ ] A) Satisfechos y felices con el sistema colonial. <!-- feedback: Incorrecto. Precisamente por estar excluidos de los altos cargos, los criollos estaban descontentos. -->
 - [x] B) Inconformes y con deseos de tener más participación en el gobierno. <!-- feedback: Correcto. A pesar de su riqueza y educación, los criollos no podían ser virreyes o altos funcionarios, lo que generó un gran descontento que luego llevaría a la independencia. -->
 - [ ] C) Indiferentes a la política. <!-- feedback: Incorrecto. Los criollos estaban muy interesados en la política, pero eran excluidos del poder. -->
@@ -153,14 +166,15 @@ Se evalúa la comprensión de las tensiones sociales que llevaron a la independe
 ## Question 7 [D4]
 
 **ID:** `CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-v7`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En un juego de roles en el colegio San José de Cúcuta, los estudiantes simulan la sociedad colonial.
+**Contexto:** En un juego de roles en el colegio San José de Cúcuta, los estudiantes simulan la sociedad colonial.
 
 ### Enunciado
 En la Colonia, si eras hijo de españoles pero nacido en Santafé de Bogotá, ¿cómo te clasificaban?
 
-### Options
+### Opciones
 - [ ] A) Mestizo. <!-- feedback: Incorrecto. Mestizo es hijo de español e indígena, no de dos españoles. -->
 - [ ] B) Indígena. <!-- feedback: Incorrecto. Si eres hijo de españoles, no eres indígena independientemente del lugar de nacimiento. -->
 - [x] C) Criollo. <!-- feedback: Correcto. Los criollos eran hijos de españoles peninsulares pero nacidos en América, y aunque tenían privilegios, no accedían a los altos cargos del gobierno. -->
@@ -174,14 +188,15 @@ Se evalúa la capacidad de aplicar la clasificación social colonial. La respues
 ## Question 8 [D5]
 
 **ID:** `CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales del colegio Alfonso López Pumarejo de Valledupar, discuten sobre la herencia africana en Colombia.
+**Contexto:** En la clase de sociales del colegio Alfonso López Pumarejo de Valledupar, discuten sobre la herencia africana en Colombia.
 
 ### Enunciado
 A pesar de la esclavitud, los africanos y sus descendientes dejaron un gran legado en Colombia. ¿Cuál de los siguientes es un ejemplo de ese legado?
 
-### Options
+### Opciones
 - [ ] A) El idioma inglés. <!-- feedback: Incorrecto. El inglés es una lengua germánica, no un legado africano en Colombia. -->
 - [x] B) La marimba de chonta, los currulaos, el mapalé y comidas como el sancocho. <!-- feedback: Correcto. Los ritmos de la costa Pacífica como el currulao y el mapalé, la marimba y platos como el sancocho son herencia directa de las culturas africanas traídas a Colombia. -->
 - [ ] C) La arquitectura de los rascacielos. <!-- feedback: Incorrecto. La arquitectura de rascacielos no tiene origen africano en Colombia. -->
@@ -195,14 +210,15 @@ Se evalúa la capacidad de identificar el legado cultural africano en Colombia. 
 ## Question 9 [D5]
 
 **ID:** `CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-v9`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en Cali, el profesor pregunta por qué la minería se concentró en ciertas regiones de Colombia.
+**Contexto:** En clase de sociales en Cali, el profesor pregunta por qué la minería se concentró en ciertas regiones de Colombia.
 
 ### Enunciado
 Durante la Colonia, la minería de oro se concentró en regiones como Antioquia, el Chocó y el Cauca. ¿Qué tenían en común estas regiones?
 
-### Options
+### Opciones
 - [ ] A) Eran las únicas regiones donde se hablaba español. <!-- feedback: Incorrecto. El español se hablaba en todo el virreinato. -->
 - [ ] B) Tenían abundante mano de obra indígena voluntaria. <!-- feedback: Incorrecto. Los indígenas no trabajaban voluntariamente en las minas; eran obligados mediante la mita. -->
 - [x] C) En esos territorios había yacimientos de oro explotables y se utilizó principalmente mano de obra esclava africana. <!-- feedback: Correcto. Antioquia, Chocó y Cauca tenían ricos yacimientos auríferos, y la dureza del trabajo en las minas era realizada principalmente por esclavos africanos. -->
@@ -216,14 +232,15 @@ Se evalúa la capacidad de relacionar la geografía con la economía colonial. L
 ## Question 10 [D5]
 
 **ID:** `CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-v10`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En una exposición escolar sobre la Colonia en Bucaramanga, un estudiante afirma: "La Colonia fue una época de paz total".
+**Contexto:** En una exposición escolar sobre la Colonia en Bucaramanga, un estudiante afirma: "La Colonia fue una época de paz total".
 
 ### Enunciado
 Un estudiante dijo: "Durante la Colonia, todos vivían en paz y armonía". ¿Qué opinas de esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Es totalmente correcta, todos eran felices. <!-- feedback: Incorrecto. Había mucha desigualdad, explotación y rebeliones constantes. -->
 - [ ] B) Es correcta porque no hubo guerras mundiales en esa época. <!-- feedback: Incorrecto. La ausencia de guerras mundiales no significa que no hubiera conflictos; la Colonia tuvo muchas rebeliones. -->
 - [x] C) Es incorrecta, porque hubo muchas injusticias, explotación de indígenas y africanos, y rebeliones como la de los Comuneros en 1781. <!-- feedback: Correcto. La Colonia estuvo marcada por la desigualdad, el trabajo forzado, las sublevaciones indígenas y el descontento criollo que llevó a rebeliones importantes. -->

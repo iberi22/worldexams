@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-6-2026-W40-repaso-integral-001-MASTERY"
+id: "CO-LEC-6-2026-W40-repaso-integral-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "Repaso Integral de Signos de Puntuación — Síntesis de punto, coma, dos puntos, comillas, paréntesis, rayas, mayúsculas y su aplicación combinada"
-semana: 40
+week: "W40"
 year: 2026
 periodo: 4
 bundle_type: "weekly"
@@ -25,7 +25,9 @@ quality_score: 96
 quality_reviewer: "QR-Automated-v3"
 quality_date: "2026-06-09"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W40 — Repaso Integral de Signos de Puntuación
 
@@ -58,12 +60,13 @@ El viaje a San Andrés empezó el lunes 15 de junio mis papás mi hermano y yo v
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de códigos y convenciones del lenguaje
 
 ### Enunciado
 En la primera oración de la crónica de Sofía — "El viaje a San Andrés empezó el lunes 15 de junio mis papás mi hermano y yo viajamos en avión desde Cali" — ¿qué signo de puntuación falta?
 
-### Options
+### Opciones
 - [ ] A) Un punto y coma (;) después de "junio". <!-- feedback: Incorrecto. Un punto y coma sería inadecuado porque separa dos oraciones independientes. -->
 - [x] B) Un punto (.) después de "junio" y comas entre los elementos de la enumeración ("mis papás, mi hermano y yo"). La oración tiene dos ideas independientes que deben separarse con punto: el viaje empezó el lunes / viajaron en avión. Además, la enumeración de personas necesita comas. <!-- feedback: Correcto. La oración contiene dos proposiciones independientes: "El viaje empezó el lunes 15 de junio" y "(mis papás, mi hermano y yo) viajamos en avión desde Cali". Deben separarse con punto. Además, los elementos de la enumeración necesitan comas enumerativas. -->
 - [ ] C) Dos puntos (:) después de "empezó". <!-- feedback: Incorrecto. No hay razón para usar dos puntos ahí. -->
@@ -75,12 +78,13 @@ Identificación de errores combinados: falta de punto entre oraciones independie
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de códigos y convenciones del lenguaje
 
 ### Enunciado
 En la crónica, Sofía escribió "Cuando llegamos el mar estaba hermoso transparente y lleno de peces de colores." ¿Qué signo de puntuación falta en esta oración?
 
-### Options
+### Opciones
 - [ ] A) Un punto después de "llegamos". <!-- feedback: Incorrecto. "Cuando llegamos" introduce una oración subordinada que debe continuar. -->
 - [x] B) Comas enumerativas entre los adjetivos: "hermoso, transparente y lleno de peces de colores". <!-- feedback: Correcto. "Hermoso, transparente y lleno de peces de colores" es una enumeración de tres características del mar. Debe llevar coma entre "hermoso" y "transparente". -->
 - [ ] C) Dos puntos después de "estaba". <!-- feedback: Incorrecto. "Estaba" no introduce una enumeración ni una explicación. -->
@@ -92,12 +96,13 @@ Identificación de la coma enumerativa faltante: cuando enumeramos tres o más e
 ## Question 3 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 Sofía escribió: "Mi papá dijo 'esto es increíble, Sofía'". ¿Por qué las palabras del papá de Sofía deberían ir entre comillas y con mayúscula inicial?
 
-### Options
+### Opciones
 - [ ] A) Porque es una cita textual de lo que el papá dijo, y toda cita textual debe ir entre comillas. Además, después de abrir comillas, la primera palabra debe ir con mayúscula inicial. <!-- feedback: Parcialmente correcto, pero la mayúscula dentro de las comillas depende de si la cita es completa o parcial. -->
 - [x] B) Porque es estilo directo: el papá dijo exactamente esas palabras. Las comillas encierran la cita. Además, la coma vocativa en "Sofía" está bien usada (separa el nombre de la persona a quien se dirige). Sin embargo, la "e" de "esto" debería ir en mayúscula porque inicia la cita textual completa. Lo correcto sería: Mi papá dijo: "Esto es increíble, Sofía". <!-- feedback: Correcto. En estilo directo, las palabras textuales van entre comillas con mayúscula inicial. También se recomienda usar dos puntos después de "dijo" antes de la cita. La coma vocativa en "Sofía" está correcta. -->
 - [ ] C) Porque "Sofía" es un nombre propio. <!-- feedback: Incorrecto. Eso no explica por qué la frase entera va entre comillas. -->
@@ -109,12 +114,13 @@ Comprensión del estilo directo con cita textual: las palabras exactas de un hab
 ## Question 4 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 Sofía escribió: "El primer día fuimos a la playa de Spratt Bight (la más famosa de la isla) y almorzamos en un restaurante típico llamado 'Donde Jocelyn'." ¿Qué función cumplen los paréntesis en esta oración?
 
-### Options
+### Opciones
 - [ ] A) Introducir una cita textual. <!-- feedback: Incorrecto. No hay cita textual. -->
 - [x] B) Añadir información complementaria sobre la playa de Spratt Bight: que es la más famosa de la isla. Si se elimina, la oración principal sigue siendo completa y coherente. <!-- feedback: Correcto. Los paréntesis encierran un inciso que complementa la información sobre la playa sin interrumpir la oración principal. -->
 - [ ] C) Separar el sujeto del predicado. <!-- feedback: Incorrecto. Esa es una función gramatical, no de los paréntesis. -->
@@ -126,12 +132,13 @@ Comprensión de la función de los paréntesis: añadir información secundaria 
 ## Question 5 [D5]
 
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 Sofía escribió "restaurante típico llamado 'Donde Jocelyn'" con comillas simples. ¿Son necesarias las comillas alrededor del nombre del restaurante?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque todos los nombres de restaurantes deben ir entre comillas. <!-- feedback: Incorrecto. No hay tal regla. -->
 - [ ] B) No, porque las comillas solo se usan para citas textuales. <!-- feedback: Incorrecto. Las comillas tienen otros usos. -->
 - [x] C) No son estrictamente necesarias porque "Donde Jocelyn" es el nombre propio de un establecimiento. Los nombres propios de lugares (restaurantes, tiendas, hoteles) pueden escribirse con mayúscula inicial sin necesidad de comillas. Sin embargo, si el autor quiere destacar que es un nombre comercial o informal, puede usar comillas. Ambas opciones son aceptables. <!-- feedback: Correcto. Los nombres de establecimientos comerciales son nombres propios y se escriben con mayúscula inicial. Las comillas no son obligatorias, aunque pueden usarse para marcar que es un nombre no convencional o para distinguirlo del texto circundante. -->
@@ -143,6 +150,7 @@ Aplicación de la regla de comillas en nombres comerciales: aunque pueden usarse
 ## Question 6 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
@@ -150,7 +158,7 @@ Sofía escribió: "El segundo día (que fue el mejor) hicimos un paseo en lancha
 
 El profesor anotó: "Revisa la mayúscula en 'Acuario'". ¿Debería llevar mayúscula o minúscula?
 
-### Options
+### Opciones
 - [ ] A) Mayúscula, porque "Acuario" es un signo zodiacal y siempre lleva mayúscula. <!-- feedback: Incorrecto. No se refiere al signo zodiacal. -->
 - [ ] B) Minúscula, porque "acuario" es un lugar donde hay peces. <!-- feedback: Incorrecto. No se refiere a un acuario como edificio. -->
 - [x] C) Mayúscula, porque "Acuario" (Cayo Acuario) es el nombre propio de un cayo en San Andrés. Como nombre propio de un lugar geográfico específico, debe llevar mayúscula inicial. <!-- feedback: Correcto. "Acuario" es el nombre de uno de los cayos del archipiélago de San Andrés (junto con Johnny Cay y Haynes Cay). Como nombre propio de un lugar geográfico, lleva mayúscula. -->
@@ -162,6 +170,7 @@ Análisis de la mayúscula en nombres de lugares geográficos: los nombres de ca
 ## Question 7 [D6]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
@@ -171,7 +180,7 @@ Analiza la siguiente oración corregida de la crónica de Sofía:
 
 ¿Qué función cumple la primera coma (después de "llegamos")?
 
-### Options
+### Opciones
 - [ ] A) Es una coma enumerativa (separa elementos de una lista). <!-- feedback: Incorrecto. "Cuando llegamos" no es parte de una enumeración. -->
 - [x] B) Es una coma de subordinación o hiperbática, que separa la oración subordinada ("Cuando llegamos") de la oración principal ("el mar estaba hermoso..."). Cuando la subordinada va al inicio, se separa con coma. <!-- feedback: Correcto. Las oraciones subordinadas que anteceden a la oración principal se separan con coma. Es un uso menos conocido pero muy importante para la claridad del texto. -->
 - [ ] C) Es una coma vocativa (separa a la persona a quien se le habla). <!-- feedback: Incorrecto. No se está hablando a nadie. -->
@@ -183,6 +192,7 @@ Análisis de la coma hiperbática o de subordinación: cuando una oración subor
 ## Question 8 [D6 — Contexto colombiano]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
@@ -192,7 +202,7 @@ Lee la versión corregida del primer párrafo de la crónica de Sofía:
 
 ¿Qué tipo de error tenía la versión original que Sofía corrigió?
 
-### Options
+### Opciones
 - [ ] A) Errores de ortografía en las palabras. <!-- feedback: Incorrecto. No había errores de ortografía en las palabras. -->
 - [ ] B) Errores de concordancia gramatical. <!-- feedback: Incorrecto. La concordancia era correcta. -->
 - [x] C) Errores de segmentación: las ideas no estaban separadas correctamente. Sofía escribió todo como una sola oración larga, sin puntos que separaran las ideas principales (el inicio del viaje, los pasajeros, la llegada). Las correcciones fueron agregar punto después de "junio", comas en la enumeración de personas, y coma hiperbática después de "Cuando llegamos". <!-- feedback: Correcto. El error principal era la falta de puntos para separar ideas independientes (error de segmentación). Además, faltaban comas enumerativas y una coma hiperbática. -->
@@ -204,6 +214,7 @@ Evaluación de errores combinados de puntuación: el error de "oración larga" (
 ## Question 9 [D7]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
@@ -213,7 +224,7 @@ Un compañero de Sofía escribió un meme sobre el viaje y lo publicó en el gru
 
 ¿Por qué el compañero usó comillas en la palabra "hermoso"?
 
-### Options
+### Opciones
 - [ ] A) Porque está citando textualmente a Sofía. <!-- feedback: Parcialmente cierto, pero no es el único motivo. -->
 - [ ] B) Porque es una palabra difícil de escribir. <!-- feedback: Incorrecto. Las comillas no se usan para palabras difíciles. -->
 - [x] C) Porque usa las comillas con un tono irónico o de distancia: no está completamente de acuerdo con que el mar sea "hermoso" en el sentido especial que Sofía le da, o simplemente está bromeando. Es un uso de comillas de distanciamiento o irónicas, muy común en memes y redes sociales. También podría ser una cita de la palabra exacta de Sofía, pero el tono del meme sugiere ironía. <!-- feedback: Correcto. Las comillas de distanciamiento (también llamadas comillas irónicas) indican que el autor no necesariamente respalda esa palabra o la usa con un sentido diferente. En memes y redes sociales, este uso es muy frecuente. -->
@@ -225,6 +236,7 @@ Evaluación del uso de comillas con valor irónico o de distanciamiento: en cont
 ## Question 10 [D8 — Integración final]
 
 **Bloom:** Create
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido y producción textual
 
 ### Enunciado
@@ -238,8 +250,8 @@ Escribe un breve correo electrónico (4-5 oraciones) que un estudiante de Cali l
 6. Signos de interrogación o exclamación (al menos un par)
 7. Mayúsculas correctas en todos los casos (nombres propios, después de punto, meses en minúscula, títulos con mayúscula solo en primera palabra)
 
-### Options
-- [x] A) Ejemplo:
+### Opciones
+- [x] A) Ejemplo: <!-- feedback: Correcto! Ejemplo: -->
 
 Querida abuela:
 
@@ -256,7 +268,7 @@ Justificación:
 - Paréntesis: información complementaria sobre San Andrés.
 - Signos de interrogación y exclamación: "¿Usted ha venido alguna vez? ¡Ojalá!"
 - Mayúsculas: nombres propios (Caribe, Bogotá), meses en minúscula (ninguno mencionado, correcto), después de punto, etc.
- <!-- feedback: Correcto. El ejemplo integra todos los signos solicitados con uso correcto y justificación. -->
+
 - [ ] B) "Querida abuela, espero que este bien. Le escribo desde San Andres. El viaje ha sido maravilloso. Ayer mi papá dijo esto es el lugar mas bonito. Un abrazo." — No usa dos puntos, comillas, paréntesis, ni signos de interrogación/exclamación. Además tiene errores de ortografía ("este" por "esté", "mas" por "más"). <!-- feedback: Incorrecto. Faltan muchos signos y tiene errores ortográficos. -->
 - [ ] C) "Querida abuela: Espero que esté bien. Le escribo desde San Andrés. El mar es hermoso. Ayer fuimos a Johnny Cay. Un abrazo." — Correcto pero demasiado simple. No integra comillas, paréntesis, comas especializadas ni signos de interrogación/exclamación. <!-- feedback: Incorrecto. No cumple con todos los requisitos de signos solicitados. -->
 - [ ] D) "Querida abuela, Espero que esté bien. Le escribo desde San Andrés (una isla en el Caribe) el mar está hermoso. Ayer mi papá dijo: esto es increíble. Un abrazo." — Error: después de los paréntesis falta la coma o punto que cierre la oración. La cita del papá debería ir entre comillas. La palabra "Espero" después de la coma inicial debería ir en minúscula porque es continuación de la misma línea. <!-- feedback: Incorrecto. Tiene errores de puntuación y estructura. -->

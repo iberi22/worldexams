@@ -1,5 +1,5 @@
 ---
-id: "CO-CN-9-2026-P3-comprehensive-001-MASTERY"
+id: "CO-CN-9-2026-P3-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 9
 asignatura: "ciencias-naturales"
@@ -19,7 +19,12 @@ rubric_baseline: "genetica mendeliana, enlaces quimicos (ionico, covalente, meta
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Genetica Mendeliana, Enlaces Quimicos y Termodinamica
 
@@ -31,13 +36,14 @@ Este bundle cubre los principios de la herencia genetica mendeliana, los tipos d
 
 **ID:** `CO-CN-9-2026-P3-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** En una clase de biologia en Medellin, se estudian los experimentos de Gregor Mendel con arvejas.
+**Contexto:** En una clase de biologia en Medellin, se estudian los experimentos de Gregor Mendel con arvejas.
 
 ### Enunciado
 Que es un alelo?
 
-### Options
+### Opciones
 - [ ] A) La parte del ADN que no codifica proteinas. <!-- feedback: Incorrect. Los alelos son versiones de genes que si codifican. -->
 - [x] B) Cada una de las formas alternativas que puede tener un gen. <!-- feedback: Correct. Un alelo es una variante especifica de un gen. Por ejemplo, el gen del color de la semilla tiene alelos para amarillo y verde. -->
 - [ ] C) El conjunto de todos los genes de un individuo. <!-- feedback: Incorrect. Ese es el concepto de genoma. -->
@@ -52,13 +58,14 @@ Los alelos son versiones diferentes de un mismo gen que ocupan la misma posicion
 
 **ID:** `CO-CN-9-2026-P3-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** En una clase de quimica se explica como se unen los atomos.
+**Contexto:** En una clase de quimica se explica como se unen los atomos.
 
 ### Enunciado
 Que tipo de enlace se forma cuando un atomo dona electrones a otro?
 
-### Options
+### Opciones
 - [ ] A) Enlace covalente <!-- feedback: Incorrect. En el covalente los electrones se comparten, no se transfieren. -->
 - [x] B) Enlace ionico <!-- feedback: Correct. En el enlace ionico un atomo dona electrones (cation) y otro los recibe (anion), formando iones que se atraen electrostaticamente. -->
 - [ ] C) Enlace metalico <!-- feedback: Incorrect. En el metalico los electrones se comparten en una nube electronica entre muchos atomos. -->
@@ -73,13 +80,14 @@ El enlace ionico ocurre entre un metal (que pierde electrones) y un no metal (qu
 
 **ID:** `CO-CN-9-2026-P3-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicacion de fenomenos
-**Context:** En un cruce de plantas de arvejas, Mendel cruzo una planta de semillas amarillas (AA) con una de semillas verdes (aa). Todas las plantas F1 fueron amarillas.
+**Contexto:** En un cruce de plantas de arvejas, Mendel cruzo una planta de semillas amarillas (AA) con una de semillas verdes (aa). Todas las plantas F1 fueron amarillas.
 
 ### Enunciado
 Que concluyo Mendel sobre el alelo para semilla amarilla?
 
-### Options
+### Opciones
 - [x] A) Que el alelo amarillo es dominante sobre el verde. <!-- feedback: Correct. Al cruzar AA x aa, toda la F1 es Aa y expresa solo el caracter amarillo, demostrando dominancia. -->
 - [ ] B) Que el alelo verde es dominante sobre el amarillo. <!-- feedback: Incorrect. Si el verde fuera dominante, las plantas F1 serian verdes. -->
 - [ ] C) Que ambos alelos se mezclaron formando un color intermedio. <!-- feedback: Incorrect. Mendel demostro que los alelos no se mezclan, sino que uno domina sobre el otro. -->
@@ -94,13 +102,14 @@ Mendel formulo el principio de dominancia: cuando dos alelos diferentes estan pr
 
 **ID:** `CO-CN-9-2026-P3-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicacion de fenomenos
-**Context:** Se tiene una molecula de agua (H2O). El oxigeno comparte electrones con dos atomos de hidrogeno.
+**Contexto:** Se tiene una molecula de agua (H2O). El oxigeno comparte electrones con dos atomos de hidrogeno.
 
 ### Enunciado
 Que tipo de enlace mantiene unidos los atomos en la molecula de agua?
 
-### Options
+### Opciones
 - [ ] A) Enlace ionico <!-- feedback: Incorrect. El agua no tiene transferencia de electrones, sino comparticion. -->
 - [x] B) Enlace covalente polar <!-- feedback: Correct. El oxigeno y el hidrogeno comparten electrones, pero el oxigeno los atrae mas, creando una polaridad. -->
 - [ ] C) Enlace metalico <!-- feedback: Incorrect. No hay atomos metalicos en el agua. -->
@@ -115,13 +124,14 @@ El enlace covalente se clasifica en polar (cuando los atomos tienen diferente el
 
 **ID:** `CO-CN-9-2026-P3-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** En un laboratorio de genetica, se cruzan dos plantas heterocigotas (Aa x Aa) para el color de la flor (A=rojo dominante, a=blanco recesivo).
+**Contexto:** En un laboratorio de genetica, se cruzan dos plantas heterocigotas (Aa x Aa) para el color de la flor (A=rojo dominante, a=blanco recesivo).
 
 ### Enunciado
 Cual es la proporcion fenotipica esperada en la descendencia?
 
-### Options
+### Opciones
 - [ ] A) 100% rojas <!-- feedback: Incorrect. Esto ocurriria si ambos padres fueran AA. -->
 - [x] B) 75% rojas y 25% blancas <!-- feedback: Correct. El cuadro de Punnett para Aa x Aa da: AA (1/4), Aa (1/2), aa (1/4). Fenotipo: 3/4 rojas, 1/4 blancas. -->
 - [ ] C) 50% rojas y 50% blancas <!-- feedback: Incorrect. Esto ocurriria en un cruce Aa x aa. -->
@@ -136,13 +146,14 @@ El cuadro de Punnett para Aa x Aa produce: AA (25%), Aa (50%), aa (25%). Como A 
 
 **ID:** `CO-CN-9-2026-P3-comprehensive-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagacion
-**Context:** Un estudiante introduce un termometro en agua caliente y observa que la temperatura del agua disminuye mientras la del termometro aumenta.
+**Contexto:** Un estudiante introduce un termometro en agua caliente y observa que la temperatura del agua disminuye mientras la del termometro aumenta.
 
 ### Enunciado
 Como se explica este fenomeno segun la termodinamica?
 
-### Options
+### Opciones
 - [ ] A) El calor fluye del cuerpo de menor temperatura al de mayor temperatura. <!-- feedback: Incorrect. El calor fluye espontaneamente de mayor a menor temperatura. -->
 - [x] B) El calor fluye del agua (mayor temperatura) al termometro (menor temperatura) hasta alcanzar el equilibrio termico. <!-- feedback: Correct. La segunda ley de la termodinamica: el calor fluye espontaneamente de los cuerpos calientes a los frios. -->
 - [ ] C) El termometro genera calor que se transfiere al agua. <!-- feedback: Incorrect. El termometro no genera calor, solo lo absorbe del agua. -->
@@ -157,13 +168,14 @@ El equilibrio termico es el estado en el que dos cuerpos en contacto alcanzan la
 
 **ID:** `CO-CN-9-2026-P3-comprehensive-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** En la costa Caribe colombiana, una persona pone sal (NaCl) sobre la mesa. La sal se disuelve en el agua de la sopa.
+**Contexto:** En la costa Caribe colombiana, una persona pone sal (NaCl) sobre la mesa. La sal se disuelve en el agua de la sopa.
 
 ### Enunciado
 Cuando el NaCl se disuelve en agua, los iones Na+ y Cl- se separan. Que tipo de enlace se rompe en este proceso?
 
-### Options
+### Opciones
 - [x] A) Enlace ionico <!-- feedback: Correct. La sal (NaCl) tiene enlace ionico. Al disolverse en agua, los iones se separan porque el agua es un disolvente polar. -->
 - [ ] B) Enlace covalente <!-- feedback: Incorrect. El NaCl no tiene enlaces covalentes entre Na y Cl. -->
 - [ ] C) Enlace metalico <!-- feedback: Incorrect. El sodio y el cloro no forman un enlace metalico. -->
@@ -178,13 +190,14 @@ El NaCl es un compuesto ionico. En estado solido, los iones Na+ y Cl- estan orde
 
 **ID:** `CO-CN-9-2026-P3-comprehensive-001-MASTERY-v8`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicacion de fenomenos
-**Context:** En un laboratorio de genetica, al cruzar dos plantas de flores rosas (color intermedio), se obtienen flores rojas, rosas y blancas.
+**Contexto:** En un laboratorio de genetica, al cruzar dos plantas de flores rosas (color intermedio), se obtienen flores rojas, rosas y blancas.
 
 ### Enunciado
 Que tipo de herencia explica este patron de colores?
 
-### Options
+### Opciones
 - [ ] A) Dominancia completa <!-- feedback: Incorrect. En dominancia completa, los heterocigotos mostrarian solo el color dominante. -->
 - [ ] B) Codominancia <!-- feedback: Incorrect. En codominancia se expresan ambos alelos simultaneamente, no un color intermedio. -->
 - [x] C) Dominancia incompleta <!-- feedback: Correct. En dominancia incompleta, el heterocigoto muestra un fenotipo intermedio. El cruce de dos heterocigotos produce proporcion 1:2:1 (rojo:rosa:blanco). -->
@@ -199,13 +212,14 @@ En la dominancia incompleta, ni el alelo dominante ni el recesivo se expresan co
 
 **ID:** `CO-CN-9-2026-P3-comprehensive-001-MASTERY-v9`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** En un taller de quimica, se pide identificar el tipo de enlace en diferentes sustancias: NaCl (solido cristalino que conduce electricidad disuelto), diamante (solido duro que no conduce) y cobre (solido maleable que conduce).
+**Contexto:** En un taller de quimica, se pide identificar el tipo de enlace en diferentes sustancias: NaCl (solido cristalino que conduce electricidad disuelto), diamante (solido duro que no conduce) y cobre (solido maleable que conduce).
 
 ### Enunciado
 Cual es el tipo de enlace del cobre (Cu)?
 
-### Options
+### Opciones
 - [ ] A) Ionico <!-- feedback: Incorrect. Los metales no forman enlaces ionicos entre si. -->
 - [ ] B) Covalente <!-- feedback: Incorrect. Los metales no comparten electrones en pares localizados. -->
 - [x] C) Metalico <!-- feedback: Correct. El enlace metalico se caracteriza por una nube de electrones libres que permite la conduccion electrica y la maleabilidad. -->
@@ -220,13 +234,14 @@ El enlace metalico se forma entre atomos de metales, donde los electrones de val
 
 **ID:** `CO-CN-9-2026-P3-comprehensive-001-MASTERY-v10`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicacion de fenomenos
-**Context:** Un recipiente con agua a 80C se deja enfriar en una habitacion a 20C. La temperatura del agua disminuye gradualmente.
+**Contexto:** Un recipiente con agua a 80C se deja enfriar en una habitacion a 20C. La temperatura del agua disminuye gradualmente.
 
 ### Enunciado
 Hasta que temperatura llegara el agua si se espera el tiempo suficiente?
 
-### Options
+### Opciones
 - [ ] A) 0C <!-- feedback: Incorrect. El agua alcanzara el equilibrio con la temperatura de la habitacion, no con el punto de congelacion. -->
 - [ ] B) 50C <!-- feedback: Incorrect. No hay razon para que el agua se estabilice en un punto intermedio arbitrario. -->
 - [x] C) 20C <!-- feedback: Correct. El agua y la habitacion alcanzaran el equilibrio termico a la misma temperatura (20C). -->
@@ -241,13 +256,14 @@ La ley cero de la termodinamica establece que si dos sistemas estan en equilibri
 
 **ID:** `CO-CN-9-2026-P3-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Indagacion
-**Context:** Un estudiante obtiene un cuadro de Punnett para un cruce dihibrido (AaBb x AaBb) y encuentra 16 combinaciones posibles.
+**Contexto:** Un estudiante obtiene un cuadro de Punnett para un cruce dihibrido (AaBb x AaBb) y encuentra 16 combinaciones posibles.
 
 ### Enunciado
 Cuantos genotipos diferentes se esperan en la descendencia de un cruce dihibrido?
 
-### Options
+### Opciones
 - [ ] A) 4 <!-- feedback: Incorrect. 4 serian los fenotipos posibles, no los genotipos. -->
 - [ ] B) 9 <!-- feedback: Correct. Para dos genes heterocigotos, hay 3x3 = 9 genotipos diferentes: AABB, AABb, AAbb, AaBB, AaBb, Aabb, aaBB, aaBb, aabb. -->
 - [ ] C) 16 <!-- feedback: Incorrect. 16 son las combinaciones posibles en el cuadro, pero muchas se repiten en genotipo. -->
@@ -262,13 +278,14 @@ Para un cruce dihibrido entre dos heterocigotos (AaBb), la proporcion fenotipica
 
 **ID:** `CO-CN-9-2026-P3-comprehensive-001-MASTERY-v12`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Explicacion de fenomenos
-**Context:** Se calienta agua en una olla a presion. Aunque el agua esta a mas de 100C, no hierve hasta que se destapa.
+**Contexto:** Se calienta agua en una olla a presion. Aunque el agua esta a mas de 100C, no hierve hasta que se destapa.
 
 ### Enunciado
 Por que el agua no hierve a 100C dentro de la olla a presion?
 
-### Options
+### Opciones
 - [ ] A) Porque el calor se distribuye de manera diferente. <!-- feedback: Incorrect. La distribucion del calor no es el factor clave. -->
 - [x] B) Porque el aumento de presion eleva el punto de ebullicion del agua. <!-- feedback: Correct. A mayor presion, se necesita mayor temperatura para que la presion de vapor iguale la presion externa. -->
 - [ ] C) Porque el agua pierde calor mas rapido. <!-- feedback: Incorrect. La olla a presion retiene el calor. -->
@@ -283,13 +300,14 @@ El punto de ebullicion es la temperatura a la cual la presion de vapor del liqui
 
 **ID:** `CO-CN-9-2026-P3-comprehensive-001-MASTERY-v13`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** Dos estudiantes discuten. Uno dice que al derretir un cubo de hielo, la masa del agua resultante es igual a la masa del hielo. El otro dice que la masa disminuye porque el hielo "se derrite y se pierde".
+**Contexto:** Dos estudiantes discuten. Uno dice que al derretir un cubo de hielo, la masa del agua resultante es igual a la masa del hielo. El otro dice que la masa disminuye porque el hielo "se derrite y se pierde".
 
 ### Enunciado
 Quien tiene la razon y por que?
 
-### Options
+### Opciones
 - [x] A) El primero, porque la masa se conserva en los cambios fisicos. El hielo y el agua liquida tienen la misma masa. <!-- feedback: Correct. El cambio de estado es un cambio fisico donde se conserva la masa. -->
 - [ ] B) El segundo, porque al derretirse el hielo, parte del agua se evapora. <!-- feedback: Incorrect. Si se trata de un sistema cerrado, no hay perdida de masa. -->
 - [ ] C) El primero, pero solo si el hielo se derrite lentamente. <!-- feedback: Incorrect. La velocidad del proceso no afecta la conservacion de la masa. -->
@@ -304,13 +322,14 @@ La ley de conservacion de la masa (Lavoisier) establece que la masa no se crea n
 
 **ID:** `CO-CN-9-2026-P3-comprehensive-001-MASTERY-v14`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Indagacion
-**Context:** En un experimento, se colocan 200 g de agua a 90C en un calorimetro con 200 g de agua a 10C.
+**Contexto:** En un experimento, se colocan 200 g de agua a 90C en un calorimetro con 200 g de agua a 10C.
 
 ### Enunciado
 Cual sera la temperatura de equilibrio de la mezcla (suponiendo que no hay perdida de calor)?
 
-### Options
+### Opciones
 - [ ] A) 100C <!-- feedback: Incorrect. La temperatura de equilibrio debe estar entre 10C y 90C. -->
 - [ ] B) 40C <!-- feedback: Incorrect. No es el promedio simple porque las masas son iguales. -->
 - [x] C) 50C <!-- feedback: Correct. Al tener masas iguales del mismo liquido, la temperatura de equilibrio es el promedio: (90+10)/2 = 50C. -->
@@ -325,13 +344,14 @@ Cuando dos masas iguales del mismo liquido se mezclan, la temperatura de equilib
 
 **ID:** `CO-CN-9-2026-P3-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** Un genetista estudia un rasgo en una poblacion colombiana. Observa que el 84% de la poblacion expresa el fenotipo dominante para cierto gen.
+**Contexto:** Un genetista estudia un rasgo en una poblacion colombiana. Observa que el 84% de la poblacion expresa el fenotipo dominante para cierto gen.
 
 ### Enunciado
 Asumiendo que la poblacion esta en equilibrio de Hardy-Weinberg, cual es la frecuencia del alelo recesivo (q)?
 
-### Options
+### Opciones
 - [ ] A) q = 0.4 <!-- feedback: Correct. Si 84% son dominantes, 16% (0.16) son recesivos (q2). q = raiz(0.16) = 0.4. -->
 - [ ] B) q = 0.2 <!-- feedback: Incorrect. Si q=0.2, q2=0.04, por lo que solo el 4% serian recesivos. -->
 - [ ] C) q = 0.6 <!-- feedback: Incorrect. Si q=0.6, q2=0.36, lo que daria 36% recesivos y 64% dominantes, no 84%. -->

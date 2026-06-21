@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W12-noticias-001-MASTERY"
+id: "CO-LEC-3-2026-W12-noticias-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 12
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: La Noticia
 
@@ -25,6 +30,7 @@ Este bundle evalúa la comprensión de noticias cortas, identificando sus partes
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **ESTUDIANTES DE CALI GANAN CONCURSO DE ROBÓTICA**
@@ -33,7 +39,7 @@ Ayer lunes, en la ciudad de Cali, un grupo de cinco estudiantes de tercer grado 
 ### Enunciado
 ¿Quiénes son los protagonistas de esta noticia?
 
-### Options
+### Opciones
 - [ ] A) Los profesores de robótica. <!-- feedback: Incorrecto. La noticia se centra en el logro de los estudiantes. -->
 - [x] B) Un grupo de estudiantes de tercer grado. <!-- feedback: ¡Correcto! La noticia informa sobre el premio que ganaron ellos. -->
 - [ ] C) Los organizadores del concurso. <!-- feedback: Incorrecto. Ellos organizan, pero no son de quienes se habla principalmente. -->
@@ -49,6 +55,7 @@ Identificar al sujeto (quién) de una noticia es fundamental para comprender la 
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **NUEVO PARQUE INFANTIL EN BARRANQUILLA**
@@ -57,7 +64,7 @@ Este sábado se inaugurará el "Parque de la Alegría" en el barrio Las Flores. 
 ### Enunciado
 ¿Cuándo se inaugurará el nuevo parque?
 
-### Options
+### Opciones
 - [ ] A) El próximo lunes. <!-- feedback: Incorrecto. La noticia especifica que será este sábado. -->
 - [x] B) Este sábado a las 10:00 a.m. <!-- feedback: ¡Correcto! El texto da la fecha y hora exacta del evento. -->
 - [ ] C) El viernes por la noche. <!-- feedback: Incorrecto. No coincide con la información del texto. -->
@@ -73,6 +80,7 @@ Localizar datos temporales (cuándo) permite situar la noticia en el tiempo. Est
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **NACEN TRES TIGRES DE BENGALA EN EL ZOOLÓGICO**
@@ -81,7 +89,7 @@ La administración del zoológico anunció con alegría el nacimiento de tres ca
 ### Enunciado
 ¿Cuál es la **función principal** del título (titular) en esta noticia?
 
-### Options
+### Opciones
 - [ ] A) Contar toda la historia con lujo de detalles. <!-- feedback: Incorrecto. El título debe ser corto, los detalles van en el cuerpo. -->
 - [x] B) Resumir lo más importante para llamar la atención del lector. <!-- feedback: ¡Correcto! El titular presenta el hecho principal de forma rápida y atractiva. -->
 - [ ] C) Poner los nombres de los veterinarios. <!-- feedback: Incorrecto. Los nombres no aparecen en el titular. -->
@@ -97,6 +105,7 @@ Comprender la estructura de la noticia incluye reconocer la función de cada una
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Debido a las fuertes lluvias en la región andina, las autoridades han pedido a los viajeros tener precaución en las carreteras por posibles deslizamientos de tierra".
@@ -104,7 +113,7 @@ Comprender la estructura de la noticia incluye reconocer la función de cada una
 ### Enunciado
 ¿Cuál es el **motivo (por qué)** del aviso de precaución a los viajeros?
 
-### Options
+### Opciones
 - [ ] A) Porque las carreteras están en reparación. <!-- feedback: Incorrecto. No se menciona mantenimiento vial. -->
 - [ ] B) Porque hay muchas vacaciones y muchos carros. <!-- feedback: Incorrecto. No se habla de tráfico por vacaciones. -->
 - [x] C) Porque las fuertes lluvias pueden causar derrumbes. <!-- feedback: ¡Correcto! El texto vincula las lluvias con el riesgo de deslizamientos. -->
@@ -120,6 +129,7 @@ Identificar la relación de causalidad (por qué) en una noticia corta ayuda al 
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Imagina que eres periodista y tienes estos datos:
@@ -130,7 +140,7 @@ Imagina que eres periodista y tienes estos datos:
 ### Enunciado
 ¿Cuál sería el mejor **titular** para tu noticia?
 
-### Options
+### Opciones
 - [ ] A) El parque de Envigado es muy bonito. <!-- feedback: Incorrecto. Este título no informa sobre el hecho del perro y el gato. -->
 - [x] B) Perro héroe rescata a gatito en Envigado. <!-- feedback: ¡Correcto! Resume el "qué", el "quién" y el "dónde" de forma atractiva. -->
 - [ ] C) Los gatos no saben bajar de los árboles. <!-- feedback: Incorrecto. Es una opinión o generalización, no una noticia. -->
@@ -146,6 +156,7 @@ Crear o seleccionar titulares a partir de datos sueltos desarrolla la capacidad 
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **EXITOSA FERIA DEL LIBRO EN BOGOTÁ**
@@ -154,7 +165,7 @@ Miles de personas visitaron los pabellones de Corferias este fin de semana. (Ima
 ### Enunciado
 ¿Cómo ayuda la **imagen** a complementar la información de esta noticia?
 
-### Options
+### Opciones
 - [ ] A) Nos dice cuántos libros se vendieron exactamente. <!-- feedback: Incorrecto. Una foto de una niña no puede dar la cifra exacta de ventas de toda la feria. -->
 - [x] B) Muestra la alegría de los asistentes y el ambiente de la feria. <!-- feedback: ¡Correcto! La imagen apoya visualmente el mensaje de que la feria fue "exitosa" y agradable. -->
 - [ ] C) Nos explica cómo llegar a Corferias. <!-- feedback: Incorrecto. Una foto no es un mapa ni da instrucciones de dirección. -->
@@ -170,6 +181,7 @@ En los medios de comunicación, la imagen tiene una función informativa y emoci
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Un estudio reciente afirma que leer 15 minutos al día mejora la memoria de los niños. Los expertos recomiendan crear este hábito desde los 6 años".
@@ -177,7 +189,7 @@ En los medios de comunicación, la imagen tiene una función informativa y emoci
 ### Enunciado
 ¿En qué sección de un periódico encontrarías probablemente esta noticia?
 
-### Options
+### Opciones
 - [ ] A) Deportes. <!-- feedback: Incorrecto. La lectura y la memoria no son temas de competencias deportivas. -->
 - [ ] B) Clasificados (ventas). <!-- feedback: Incorrecto. No se está vendiendo un objeto, se está informando sobre un beneficio. -->
 - [x] C) Educación o Salud. <!-- feedback: ¡Correcto! El tema trata sobre el desarrollo infantil, el aprendizaje y el bienestar mental. -->
@@ -193,6 +205,7 @@ Categorizar noticias por secciones ayuda a los estudiantes a organizar mentalmen
 **Bloom:** Evaluate
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Lee estas dos formas de dar la misma noticia:
@@ -202,7 +215,7 @@ Lee estas dos formas de dar la misma noticia:
 ### Enunciado
 ¿Cuál de las dos opciones suena más como una noticia **objetiva** (basada en hechos) y por qué?
 
-### Options
+### Opciones
 - [ ] A) La Opción 1, porque dice la verdad sobre el árbitro. <!-- feedback: Incorrecto. Decir "por culpa de" es una opinión o un juicio, no un hecho comprobado. -->
 - [x] B) La Opción 2, porque da el resultado exacto (2 a 1) sin echarle la culpa a nadie. <!-- feedback: ¡Correcto! La objetividad periodística busca informar hechos medibles y verificables sin sesgos personales. -->
 - [ ] C) Ambas son noticias porque hablan de fútbol. <!-- feedback: Incorrecto. Que el tema sea el mismo no significa que la forma de contarlo sea igual de profesional. -->

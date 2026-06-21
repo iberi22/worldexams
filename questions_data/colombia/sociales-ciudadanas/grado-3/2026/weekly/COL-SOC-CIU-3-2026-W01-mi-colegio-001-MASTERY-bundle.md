@@ -1,10 +1,10 @@
 ---
-id: "COL-SOC-CIU-3-2026-W01-mi-colegio-001-MASTERY"
+id: "COL-SOC-CIU-3-2026-W01-mi-colegio-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "sociales-ciudadanas"
 tema: "mi-colegio"
-semana: "W01"
+week: "W01"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 8
@@ -19,7 +19,12 @@ rubric_baseline: "mi_colegio, comunidad_educativa, convivencia_escolar, manual_c
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Mi Colegio
 
@@ -27,13 +32,14 @@ Este bundle cubre el tema del colegio como espacio de socialización, aprendizaj
 
 ---
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 
 **ID:** `COL-SOC-CIU-3-2026-W01-mi-colegio-001-MASTERY-v1`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento social
 **Expected_Success:** 0.82
-**Context:** En la clase de Sociales de la I.E. Gabriel García Márquez de Bogotá, la profesora pregunta sobre las personas que trabajan en el colegio.
+**Contexto:** En la clase de Sociales de la I.E. Gabriel García Márquez de Bogotá, la profesora pregunta sobre las personas que trabajan en el colegio.
 
 ### Enunciado
 ¿Quiénes hacen parte de la comunidad educativa de un colegio en Colombia?
@@ -49,13 +55,14 @@ Se evalúa el reconocimiento de los actores que conforman la comunidad educativa
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `COL-SOC-CIU-3-2026-W01-mi-colegio-001-MASTERY-v2`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento social
 **Expected_Success:** 0.80
-**Context:** En la I.E. San Francisco de Asís de Medellín, los estudiantes de grado 3 están aprendiendo sobre los espacios del colegio.
+**Contexto:** En la I.E. San Francisco de Asís de Medellín, los estudiantes de grado 3 están aprendiendo sobre los espacios del colegio.
 
 ### Enunciado
 ¿Cuál de los siguientes es un espacio que encontramos en la mayoría de los colegios colombianos?
@@ -71,13 +78,14 @@ Se evalúa el conocimiento de los espacios físicos que conforman un colegio. Lo
 
 ---
 
-## Pregunta 3 [D2]
+## Question 3 [D2]
 
 **ID:** `COL-SOC-CIU-3-2026-W01-mi-colegio-001-MASTERY-v3`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Interpretación y análisis de perspectivas
 **Expected_Success:** 0.75
-**Context:** En la I.E. Los Libertadores de Cali, el profesor de Ética explica el manual de convivencia a los estudiantes de grado 3.
+**Contexto:** En la I.E. Los Libertadores de Cali, el profesor de Ética explica el manual de convivencia a los estudiantes de grado 3.
 
 ### Enunciado
 El manual de convivencia del colegio es un documento que:
@@ -93,13 +101,14 @@ El manual de convivencia es un instrumento fundamental en las instituciones educ
 
 ---
 
-## Pregunta 4 [D2]
+## Question 4 [D2]
 
 **ID:** `COL-SOC-CIU-3-2026-W01-mi-colegio-001-MASTERY-v4`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Interpretación y análisis de perspectivas
 **Expected_Success:** 0.72
-**Context:** La profesora de la I.E. La Presentación de Bucaramanga pregunta por qué es importante asistir puntualmente al colegio.
+**Contexto:** La profesora de la I.E. La Presentación de Bucaramanga pregunta por qué es importante asistir puntualmente al colegio.
 
 ### Enunciado
 ¿Por qué es importante llegar puntual al colegio todos los días?
@@ -115,13 +124,14 @@ La puntualidad escolar es un valor importante que enseña responsabilidad y resp
 
 ---
 
-## Pregunta 5 [D3]
+## Question 5 [D3]
 
 **ID:** `COL-SOC-CIU-3-2026-W01-mi-colegio-001-MASTERY-v5`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.65
-**Context:** En la I.E. Antonio Nariño de Ibagué, dos estudiantes de grado 3 están discutiendo porque uno no quiere compartir los materiales de trabajo.
+**Contexto:** En la I.E. Antonio Nariño de Ibagué, dos estudiantes de grado 3 están discutiendo porque uno no quiere compartir los materiales de trabajo.
 
 ### Enunciado
 Si un compañero de tu salón no tiene lápiz para trabajar, ¿qué deberías hacer según los valores de convivencia escolar?
@@ -137,13 +147,14 @@ Se evalúa la aplicación de valores de convivencia como la solidaridad y la coo
 
 ---
 
-## Pregunta 6 [D3]
+## Question 6 [D3]
 
 **ID:** `COL-SOC-CIU-3-2026-W01-mi-colegio-001-MASTERY-v6`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.60
-**Context:** En el colegio Simón Bolívar de Santa Marta, el personero estudiantil visita los salones de grado 3 para explicar su función.
+**Contexto:** En el colegio Simón Bolívar de Santa Marta, el personero estudiantil visita los salones de grado 3 para explicar su función.
 
 ### Enunciado
 ¿Cuál es la función del personero estudiantil en un colegio colombiano?
@@ -159,13 +170,14 @@ El personero estudiantil es una figura de participación democrática en las esc
 
 ---
 
-## Pregunta 7 [D4]
+## Question 7 [D4]
 
 **ID:** `COL-SOC-CIU-3-2026-W01-mi-colegio-001-MASTERY-v7`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **ICFES category:** Razonamiento y Argumentación
 **Expected_Success:** 0.55
-**Context:** En la I.E. José Asunción Silva de Neiva, el profesor de Sociales pregunta por qué existen normas en el colegio.
+**Contexto:** En la I.E. José Asunción Silva de Neiva, el profesor de Sociales pregunta por qué existen normas en el colegio.
 
 ### Enunciado
 ¿Por qué es necesario que existan normas en el colegio?
@@ -181,13 +193,14 @@ Las normas escolares son acuerdos sociales que permiten la convivencia pacífica
 
 ---
 
-## Pregunta 8 [D5]
+## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-3-2026-W01-mi-colegio-001-MASTERY-v8`
 **Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.45
-**Context:** En la I.E. Departamental de Chía, los estudiantes de grado 3 están discutiendo si es justo que todos tengan que seguir las mismas normas en el colegio.
+**Contexto:** En la I.E. Departamental de Chía, los estudiantes de grado 3 están discutiendo si es justo que todos tengan que seguir las mismas normas en el colegio.
 
 ### Enunciado
 Un estudiante dice: "No es justo que los niños de grado 3 tengamos que pedir permiso para ir al baño, mientras los de grado 11 pueden ir solos". ¿Cuál es la mejor explicación sobre esta situación?

@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W36-transformaciones-energia-001-MASTERY"
+id: "CO-CIE-6-2026-W36-transformaciones-energia-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W36 — Transformaciones de la Energía y la Energía en los Seres Vivos
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W36-transformaciones-energia-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, estudiantes recuerdan la fotosíntesis como transformación energética.
+**Contexto:** En Bogotá, estudiantes recuerdan la fotosíntesis como transformación energética.
 
 ### Enunciado
 ¿Qué transformación de energía ocurre durante la fotosíntesis?
 
-### Options
+### Opciones
 - [ ] A) Energía química → energía luminosa <!-- feedback: En la fotosíntesis es al revés: la luz se transforma en química. -->
 - [x] B) Energía luminosa (solar) → energía química (glucosa) <!-- feedback: Correcto. Las plantas convierten la luz solar en energía química almacenada. -->
 - [ ] C) Energía térmica → energía cinética <!-- feedback: En la fotosíntesis no hay transformación térmica a cinética. -->
@@ -51,13 +54,14 @@ Este proceso ocurre en los **cloroplastos** de las células vegetales, específi
 
 **ID:** `CO-CIE-6-2026-W36-transformaciones-energia-002-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de Fenómenos
-**Context:** En Medellín, estudiantes explican la respiración celular como transformación energética.
+**Contexto:** En Medellín, estudiantes explican la respiración celular como transformación energética.
 
 ### Enunciado
 ¿Qué transformación de energía ocurre en la respiración celular de los seres vivos?
 
-### Options
+### Opciones
 - [ ] A) Energía luminosa → energía química <!-- feedback: La respiración celular no usa luz. -->
 - [ ] B) Energía térmica → energía eléctrica <!-- feedback: No hay electricidad en la respiración celular. -->
 - [x] C) Energía química (glucosa) → energía química (ATP) + energía térmica <!-- feedback: Correcto. La glucosa se "quema" para producir ATP, la moneda energética celular. -->
@@ -75,13 +79,14 @@ La energía química de la glucosa se libera gradualmente en tres etapas: **gluc
 
 **ID:** `CO-CIE-6-2026-W36-transformaciones-energia-003-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En Cali, estudiantes aplican el concepto de transformación energética en el hogar.
+**Contexto:** En Cali, estudiantes aplican el concepto de transformación energética en el hogar.
 
 ### Enunciado
 Cuando se cocina arroz en una olla con gas propano, ¿qué secuencia de transformaciones energéticas ocurre?
 
-### Options
+### Opciones
 - [ ] A) Energía eléctrica → energía térmica → energía química <!-- feedback: No hay electricidad en la cocina a gas. -->
 - [x] B) Energía química (propano) → energía térmica (combustión) → energía térmica transferida al agua y al arroz <!-- feedback: Correcto. La combustión del gas libera calor que cocina los alimentos. -->
 - [ ] C) Energía solar → energía cinética → energía química <!-- feedback: No hay energía solar directa en la cocina a gas. -->
@@ -102,13 +107,14 @@ En Colombia más del 80% de los hogares usan gas natural o GLP para cocinar. El 
 
 **ID:** `CO-CIE-6-2026-W36-transformaciones-energia-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de Fenómenos
-**Context:** En Barranquilla, estudiantes explican el efecto invernadero y la energía.
+**Contexto:** En Barranquilla, estudiantes explican el efecto invernadero y la energía.
 
 ### Enunciado
 ¿Por qué la quema de combustibles fósiles (carbón, petróleo, gas) contribuye al calentamiento global?
 
-### Options
+### Opciones
 - [ ] A) Porque los combustibles fósiles producen calor directamente que calienta el planeta <!-- feedback: El calor local es pequeño comparado con el efecto invernadero global. -->
 - [ ] B) Porque la combustión consume el oxígeno del aire <!-- feedback: El consumo de oxígeno no es el principal problema del calentamiento global. -->
 - [x] C) Porque liberan CO₂ (dióxido de carbono), un gas de efecto invernadero que atrapa el calor en la atmósfera <!-- feedback: Correcto. El CO₂ es el principal GEI antropogénico. -->
@@ -123,13 +129,14 @@ Los **combustibles fósiles** (carbón, petróleo, gas) contienen carbono almace
 
 **ID:** `CO-CIE-6-2026-W36-transformaciones-energia-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de Fenómenos
-**Context:** En Cúcuta, estudiantes explican el concepto de energía eólica.
+**Contexto:** En Cúcuta, estudiantes explican el concepto de energía eólica.
 
 ### Enunciado
 ¿Cómo se transforma la energía del viento en electricidad en los aerogeneradores?
 
-### Options
+### Opciones
 - [ ] A) El viento calienta el generador, produciendo electricidad <!-- feedback: No es calor lo que produce la electricidad en un aerogenerador. -->
 - [ ] B) El viento reacciona químicamente con las aspas para producir electricidad <!-- feedback: No hay reacción química. -->
 - [x] C) La energía cinética del viento hace girar las aspas, que mueven un generador eléctrico <!-- feedback: Correcto. Energía cinética (viento) → mecánica (rotación) → eléctrica. -->
@@ -148,13 +155,14 @@ Los **aerogeneradores** (turbinas eólicas) convierten la energía cinética del
 
 **ID:** `CO-CIE-6-2026-W36-transformaciones-energia-006-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cartagena, estudiantes recuerdan la energía en la fotosíntesis vs respiración.
+**Contexto:** En Cartagena, estudiantes recuerdan la energía en la fotosíntesis vs respiración.
 
 ### Enunciado
 ¿Qué relación existe entre la fotosíntesis y la respiración celular?
 
-### Options
+### Opciones
 - [ ] A) Son procesos independientes que no se relacionan <!-- feedback: Son complementarios y opuestos. -->
 - [x] B) Los productos de una (glucosa y oxígeno) son los reactivos de la otra, formando un ciclo de materia y energía <!-- feedback: Correcto. Fotosíntesis y respiración son procesos complementarios. -->
 - [ ] C) La fotosíntesis produce CO₂ y la respiración consume CO₂ <!-- feedback: Es al revés: la fotosíntesis consume CO₂ y la respiración produce CO₂. -->
@@ -173,13 +181,14 @@ Los **productos** de la fotosíntesis (glucosa y O₂) son los **reactivos** de 
 
 **ID:** `CO-CIE-6-2026-W36-transformaciones-energia-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En Ibagué (Tolima), estudiantes analizan la eficiencia de un motor.
+**Contexto:** En Ibagué (Tolima), estudiantes analizan la eficiencia de un motor.
 
 ### Enunciado
 Un motor de un carro recibe la energía química de la gasolina. De toda esa energía, aproximadamente el 25% se usa para mover el carro y el 75% se pierde como calor y fricción. ¿Qué significa esto?
 
-### Options
+### Opciones
 - [ ] A) Que el motor tiene una eficiencia del 75% <!-- feedback: La eficiencia es la energía útil (25%), no la perdida (75%). -->
 - [x] B) Que el motor tiene una eficiencia energética del 25%, lo que significa que solo una cuarta parte de la energía se aprovecha para el movimiento <!-- feedback: Correcto. La eficiencia de los motores de combustión interna es baja. -->
 - [ ] C) Que el motor no cumple con la Ley de Conservación de la Energía <!-- feedback: La energía se conserva: se transforma en cinética (25%) + térmica (75%). No se pierde, se transforma en formas no útiles. -->
@@ -200,13 +209,14 @@ Los motores eléctricos son mucho más eficientes (85-95%). Por eso los **vehíc
 
 **ID:** `CO-CIE-6-2026-W36-transformaciones-energia-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En Neiva, estudiantes calculan la energía de un cuerpo.
+**Contexto:** En Neiva, estudiantes calculan la energía de un cuerpo.
 
 ### Enunciado
 Una manzana de 0.2 kg cae desde una altura de 5 metros (g = 10 m/s²). ¿Cuál es su energía potencial gravitatoria inicial?
 
-### Options
+### Opciones
 - [ ] A) 1 Joule <!-- feedback: 0.2 × 10 × 5 = 10 J, no 1 J. -->
 - [ ] B) 5 Joules <!-- feedback: 0.2 × 10 = 2, 2 × 5 = 10 J. -->
 - [x] C) 10 Joules <!-- feedback: Correcto. Ep = m × g × h = 0.2 kg × 10 m/s² × 5 m = 10 J. -->
@@ -229,13 +239,14 @@ Al caer, esta energía potencial se transforma en energía cinética. Justo ante
 
 **ID:** `CO-CIE-6-2026-W36-transformaciones-energia-009-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de Fenómenos
-**Context:** En Pasto (Nariño), estudiantes explican la energía geotérmica.
+**Contexto:** En Pasto (Nariño), estudiantes explican la energía geotérmica.
 
 ### Enunciado
 ¿Por qué Colombia tiene potencial para generar energía geotérmica en el Eje Cafetero?
 
-### Options
+### Opciones
 - [ ] A) Porque hay muchos ríos caudalosos en esa región <!-- feedback: Los ríos son para hidroeléctrica, no geotermia. -->
 - [x] B) Porque hay actividad volcánica (Nevado del Ruiz, Cerro Machín, etc.) que calienta aguas subterráneas a altas temperaturas <!-- feedback: Correcto. El calor interno de la Tierra cerca de volcanes activos calienta el agua subterránea. -->
 - [ ] C) Porque el Eje Cafetero recibe más radiación solar <!-- feedback: La radiación solar es para energía solar, no geotermia. -->
@@ -256,13 +267,14 @@ El principio: el agua de lluvia se infiltra en el subsuelo, encuentra roca calie
 
 **ID:** `CO-CIE-6-2026-W36-transformaciones-energia-010-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de Fenómenos
-**Context:** En Manizales (Caldas), estudiantes entienden la energía en los paneles solares.
+**Contexto:** En Manizales (Caldas), estudiantes entienden la energía en los paneles solares.
 
 ### Enunciado
 ¿Cómo funcionan los paneles solares fotovoltaicos que se instalan en techos de casas en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Capturan el calor del sol para calentar agua <!-- feedback: Eso son paneles solares térmicos, no fotovoltaicos. -->
 - [x] B) La luz solar excita electrones en el silicio del panel, generando una corriente eléctrica (efecto fotoeléctrico) <!-- feedback: Correcto. Los paneles fotovoltaicos convierten luz directamente en electricidad. -->
 - [ ] C) El sol evapora agua que mueve una microturbina <!-- feedback: Eso es un ciclo termosolar, no fotovoltaico. -->

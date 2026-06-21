@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-10-2026-P1-comprehensive-001-MASTERY"
+id: "CO-LC-10-2026-P1-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 10
 asignatura: "lectura-critica"
@@ -14,13 +14,18 @@ distractor_profile: "plausible_peer_set"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 20
+year: 2026
+creador: "Jules-Agent"
 ---
+
 # Bundle MASTERY: Literatura Universal Intro, Critica Textual (P1)
 
 ## Question 1 (D3)
 **ID:** `CO-LC-10-2026-P1-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember | **ICFES:** Identificar y entender contenidos locales
-**Context:** En clase de espanol en el Colegio La Presentation de Manizales, se estudia la literatura clasica universal.
+**Contexto:** En clase de espanol en el Colegio La Presentation de Manizales, se estudia la literatura clasica universal.
 **Enunciado:** Cual de las siguientes obras fue escrita por Homero?
 **Options:**
 - [ ] A) La Divina Comedia <!-- feedback: Incorrecto. La Divina Comedia fue escrita por Dante Alighieri en el siglo XIV. -->
@@ -31,7 +36,7 @@ tier: "legacy"
 ## Question 2 (D3)
 **ID:** `CO-LC-10-2026-P1-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember | **ICFES:** Identificar y entender contenidos locales
-**Context:** Se analiza un texto narrativo en clase.
+**Contexto:** Se analiza un texto narrativo en clase.
 **Enunciado:** La parte de la narracion donde se presenta el conflicto principal se llama:
 **Options:**
 - [ ] A) Introduccion <!-- feedback: Incorrecto. La introduccion presenta personajes y contexto. -->
@@ -42,7 +47,7 @@ tier: "legacy"
 ## Question 3 (D4)
 **ID:** `CO-LC-10-2026-P1-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand | **ICFES:** Identificar y entender contenidos locales
-**Context:** Texto: "El Quijote creia firmemente que los molinos de viento eran gigantes descomunales. Con su lanza en ristre, arremetio contra ellos, sin importarle las advertencias de Sancho."
+**Contexto:** Texto: "El Quijote creia firmemente que los molinos de viento eran gigantes descomunales. Con su lanza en ristre, arremetio contra ellos, sin importarle las advertencias de Sancho."
 **Enunciado:** Que figura literaria predomina en este fragmento?
 **Options:**
 - [ ] A) Metafora <!-- feedback: Incorrecto. No hay una comparacion implicita. -->
@@ -53,7 +58,7 @@ tier: "legacy"
 ## Question 4 (D4)
 **ID:** `CO-LC-10-2026-P1-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand | **ICFES:** Comprender el sentido global del texto
-**Context:** Se lee el siguiente parrafo de un articulo: "Las redes sociales han transformado la comunicacion interpersonal. Mientras que antes la comunicacion era mayoritariamente sincronica y presencial, hoy predomina la asincronica y mediada por pantallas."
+**Contexto:** Se lee el siguiente parrafo de un articulo: "Las redes sociales han transformado la comunicacion interpersonal. Mientras que antes la comunicacion era mayoritariamente sincronica y presencial, hoy predomina la asincronica y mediada por pantallas."
 **Enunciado:** Segun el texto, cual es el principal cambio en la comunicacion?
 **Options:**
 - [ ] A) La comunicacion ahora es mas cara. <!-- feedback: Incorrecto. El texto no menciona costos. -->
@@ -64,7 +69,7 @@ tier: "legacy"
 ## Question 5 (D5)
 **ID:** `CO-LC-10-2026-P1-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply | **ICFES:** Comprender el sentido global del texto
-**Context:** Texto: "El racionalismo cartesiano postula que la razon es la unica fuente de conocimiento valido. 'Pienso, luego existo' resume esta postura."
+**Contexto:** Texto: "El racionalismo cartesiano postula que la razon es la unica fuente de conocimiento valido. 'Pienso, luego existo' resume esta postura."
 **Enunciado:** Si aplicamos esta postura al analisis de un mito griego, que conclusion se derivaria?
 **Options:**
 - [ ] A) El mito es valido porque explica fenomenos naturales. <!-- feedback: Incorrecto. Desde el racionalismo, el mito no es conocimiento racional. -->
@@ -75,7 +80,7 @@ tier: "legacy"
 ## Question 6 (D5)
 **ID:** `CO-LC-10-2026-P1-comprehensive-001-MASTERY-v6`
 **Bloom:** Analyze | **ICFES:** Reflexionar sobre el contenido
-**Context:** Texto: "La tragedia griega, desde Esquilo hasta Euripides, explora la tension entre el destino (moira) y la libertad humana. Edipo Rey es el ejemplo mas claro: el heroe intenta escapar de su destino y, al hacerlo, lo cumple."
+**Contexto:** Texto: "La tragedia griega, desde Esquilo hasta Euripides, explora la tension entre el destino (moira) y la libertad humana. Edipo Rey es el ejemplo mas claro: el heroe intenta escapar de su destino y, al hacerlo, lo cumple."
 **Enunciado:** Cual es la tesis central del texto sobre la tragedia griega?
 **Options:**
 - [ ] A) Los heroes griegos siempre triunfan. <!-- feedback: Incorrecto. En la tragedia los heroes suelen caer. -->
@@ -86,7 +91,7 @@ tier: "legacy"
 ## Question 7 (D5)
 **ID:** `CO-LC-10-2026-P1-comprehensive-001-MASTERY-v7`
 **Bloom:** Apply | **ICFES:** Identificar y entender contenidos locales
-**Context:** Un estudiante analiza el siguiente fragmento de "Cien anos de soledad": "El mundo era tan reciente, que muchas cosas carecian de nombre, y para mencionarlas habia que senalarlas con el dedo."
+**Contexto:** Un estudiante analiza el siguiente fragmento de "Cien anos de soledad": "El mundo era tan reciente, que muchas cosas carecian de nombre, y para mencionarlas habia que senalarlas con el dedo."
 **Enunciado:** Este fragmento es un ejemplo de:
 **Options:**
 - [x] A) Realismo magico. <!-- feedback: Correcto. Gabriel Garcia Marquez combina una realidad primigenia con elementos fantasticos (el mundo reciente con cosas sin nombre) en un estilo que caracteriza al realismo magico. -->
@@ -97,7 +102,7 @@ tier: "legacy"
 ## Question 8 (D6)
 **ID:** `CO-LC-10-2026-P1-comprehensive-001-MASTERY-v8`
 **Bloom:** Analyze | **ICFES:** Reflexionar sobre el contenido
-**Context:** Texto: "El narrador de La Odisea cuenta las aventuras de Ulises en tercera persona omnisciente. Sin embargo, en varios cantos, Ulises mismo narra sus propias historias a los feacios, convirtiendose en narrador en primera persona."
+**Contexto:** Texto: "El narrador de La Odisea cuenta las aventuras de Ulises en tercera persona omnisciente. Sin embargo, en varios cantos, Ulises mismo narra sus propias historias a los feacios, convirtiendose en narrador en primera persona."
 **Enunciado:** Que efecto produce este cambio de narrador?
 **Options:**
 - [ ] A) Confunde al lector sin proposito. <!-- feedback: Incorrecto. El cambio tiene un proposito narrativo claro. -->
@@ -108,7 +113,7 @@ tier: "legacy"
 ## Question 9 (D6)
 **ID:** `CO-LC-10-2026-P1-comprehensive-001-MASTERY-v9`
 **Bloom:** Apply | **ICFES:** Comprender el sentido global del texto
-**Context:** Texto: "El mito de la caverna de Platon describe a prisioneros que solo ven sombras en la pared y creen que esa es la realidad. Uno de ellos escapa, ve el mundo real, y al regresar, los demas no le creen."
+**Contexto:** Texto: "El mito de la caverna de Platon describe a prisioneros que solo ven sombras en la pared y creen que esa es la realidad. Uno de ellos escapa, ve el mundo real, y al regresar, los demas no le creen."
 **Enunciado:** Cual es la ensenanza principal del mito?
 **Options:**
 - [ ] A) No se debe escapar de la prision. <!-- feedback: Incorrecto. El mensaje es filosofico, no literal. -->
@@ -119,7 +124,7 @@ tier: "legacy"
 ## Question 10 (D6)
 **ID:** `CO-LC-10-2026-P1-comprehensive-001-MASTERY-v10`
 **Bloom:** Understand | **ICFES:** Identificar y entender contenidos locales
-**Context:** Se analiza una noticia: "El Congreso de la Republica aprobo en segundo debate el proyecto de ley que regula la inteligencia artificial en Colombia, con 85 votos a favor y 32 en contra."
+**Contexto:** Se analiza una noticia: "El Congreso de la Republica aprobo en segundo debate el proyecto de ley que regula la inteligencia artificial en Colombia, con 85 votos a favor y 32 en contra."
 **Enunciado:** En el texto, "segundo debate" corresponde a una etapa del:
 **Options:**
 - [ ] A) Proceso electoral. <!-- feedback: Incorrecto. El Congreso no esta en elecciones. -->
@@ -130,7 +135,7 @@ tier: "legacy"
 ## Question 11 (D7)
 **ID:** `CO-LC-10-2026-P1-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze | **ICFES:** Reflexionar sobre el contenido
-**Context:** Texto: "El Bullying o acoso escolar tiene consecuencias psicologicas profundas en las victimas. Estudios recientes muestran que los efectos pueden persistir hasta la edad adulta, manifestandose en ansiedad, depresion y baja autoestima."
+**Contexto:** Texto: "El Bullying o acoso escolar tiene consecuencias psicologicas profundas en las victimas. Estudios recientes muestran que los efectos pueden persistir hasta la edad adulta, manifestandose en ansiedad, depresion y baja autoestima."
 **Enunciado:** Que tipo de argumento utiliza principalmente el autor?
 **Options:**
 - [ ] A) Argumento de autoridad. <!-- feedback: Parcialmente correcto, pero el texto cita "estudios recientes" sin especificar. -->
@@ -141,7 +146,7 @@ tier: "legacy"
 ## Question 12 (D7)
 **ID:** `CO-LC-10-2026-P1-comprehensive-001-MASTERY-v12`
 **Bloom:** Evaluate | **ICFES:** Reflexionar sobre el contenido
-**Context:** Un editorial periodistico afirma: "La jornada unica escolar en Colombia mejoraria la calidad educativa, como ha sucedido en paises como Finlandia y Corea del Sur."
+**Contexto:** Un editorial periodistico afirma: "La jornada unica escolar en Colombia mejoraria la calidad educativa, como ha sucedido en paises como Finlandia y Corea del Sur."
 **Enunciado:** Cual es una debilidad de este argumento?
 **Options:**
 - [ ] A) Utiliza datos falsos. <!-- feedback: Incorrecto. No sabemos si los datos son falsos. -->
@@ -152,7 +157,7 @@ tier: "legacy"
 ## Question 13 (D7)
 **ID:** `CO-LC-10-2026-P1-comprehensive-001-MASTERY-v13`
 **Bloom:** Evaluate | **ICFES:** Reflexionar sobre el contenido
-**Context:** Lectura de "La metamorfosis" de Kafka: "Al despertar Gregorio Samsa una manana, tras un sueno intranquilo, se encontro en su cama convertido en un monstruoso insecto."
+**Contexto:** Lectura de "La metamorfosis" de Kafka: "Al despertar Gregorio Samsa una manana, tras un sueno intranquilo, se encontro en su cama convertido en un monstruoso insecto."
 **Enunciado:** Que funcion cumple el tono cotidiano y realista para describir un hecho fantastico?
 **Options:**
 - [ ] A) Hace que la historia sea increible. <!-- feedback: Incorrecto. El tono realista hace lo contrario. -->
@@ -163,7 +168,7 @@ tier: "legacy"
 ## Question 14 (D8)
 **ID:** `CO-LC-10-2026-P1-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate | **ICFES:** Reflexionar sobre el contenido
-**Context:** Texto: "Algunos criticos sostienen que la literatura contemporanea ha perdido su capacidad de transformacion social, pues se enfoca demasiado en la subjetividad individual. Sin embargo, obras como 'Los ejrcitos' de Evelio Rosero demuestran que la narrativa actual si logra denunciar la violencia estructural."
+**Contexto:** Texto: "Algunos criticos sostienen que la literatura contemporanea ha perdido su capacidad de transformacion social, pues se enfoca demasiado en la subjetividad individual. Sin embargo, obras como 'Los ejrcitos' de Evelio Rosero demuestran que la narrativa actual si logra denunciar la violencia estructural."
 **Enunciado:** Que estrategia argumentativa usa el autor del texto?
 **Options:**
 - [ ] A) Cita textual. <!-- feedback: Incorrecto. No hay cita directa. -->
@@ -174,7 +179,7 @@ tier: "legacy"
 ## Question 15 (D8)
 **ID:** `CO-LC-10-2026-P1-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate | **ICFES:** Reflexionar sobre el contenido
-**Context:** Analisis de la "Antigona" de Sofocles. Creonte castiga a Antigona por enterrar a su hermano, desobedeciendo la ley del estado. Antigona defiende que las leyes divinas estan por encima de las humanas.
+**Contexto:** Analisis de la "Antigona" de Sofocles. Creonte castiga a Antigona por enterrar a su hermano, desobedeciendo la ley del estado. Antigona defiende que las leyes divinas estan por encima de las humanas.
 **Enunciado:** El conflicto central de la obra representa:
 **Options:**
 - [ ] A) La lucha entre el bien y el mal. <!-- feedback: Incorrecto. Ambos personajes tienen argumentos validos. -->
@@ -185,7 +190,7 @@ tier: "legacy"
 ## Question 16 (D8)
 **ID:** `CO-LC-10-2026-P1-comprehensive-001-MASTERY-v16`
 **Bloom:** Analyze | **ICFES:** Identificar y entender contenidos locales
-**Context:** Texto: "La novela 'Delirio' de Laura Restrepo narra la historia de un hombre que busca a su esposa en el Bogota de los anos 80, mientras el pais esta sumergido en la violencia del narcotrafico."
+**Contexto:** Texto: "La novela 'Delirio' de Laura Restrepo narra la historia de un hombre que busca a su esposa en el Bogota de los anos 80, mientras el pais esta sumergido en la violencia del narcotrafico."
 **Enunciado:** El contexto historico en esta novela funciona como:
 **Options:**
 - [ ] A) Un simple decorado sin importancia. <!-- feedback: Incorrecto. El contexto es parte integral de la obra. -->
@@ -196,7 +201,7 @@ tier: "legacy"
 ## Question 17 (D9)
 **ID:** `CO-LC-10-2026-P1-comprehensive-001-MASTERY-v17`
 **Bloom:** Create | **ICFES:** Reflexionar sobre el contenido
-**Context:** Un estudiante debe escribir un ensayo critico sobre dos cuentos: "El aleph" de Borges y "La noche boca arriba" de Cortazar.
+**Contexto:** Un estudiante debe escribir un ensayo critico sobre dos cuentos: "El aleph" de Borges y "La noche boca arriba" de Cortazar.
 **Enunciado:** Cual seria la tesis mas original para comparar ambas obras?
 **Options:**
 - [ ] A) Ambos cuentos son de autores latinoamericanos. <!-- feedback: Incorrecto. Demasiado superficial. -->
@@ -207,7 +212,7 @@ tier: "legacy"
 ## Question 18 (D9)
 **ID:** `CO-LC-10-2026-P1-comprehensive-001-MASTERY-v18`
 **Bloom:** Evaluate | **ICFES:** Reflexionar sobre el contenido
-**Context:** Texto: "La poesia de Jose Asuncion Silva, particularmente 'Nocturno', utiliza el verso libre y las repeticiones para crear un efecto musical que expresa la melancolia y la perdida."
+**Contexto:** Texto: "La poesia de Jose Asuncion Silva, particularmente 'Nocturno', utiliza el verso libre y las repeticiones para crear un efecto musical que expresa la melancolia y la perdida."
 **Enunciado:** La afirmacion de que la musicalidad del poema refuerza su contenido emocional es:
 **Options:**
 - [ ] A) Falsa porque la forma y el contenido son independientes. <!-- feedback: Incorrecto. En poesia, forma y contenido estan intrinsecamente ligados. -->
@@ -218,7 +223,7 @@ tier: "legacy"
 ## Question 19 (D9)
 **ID:** `CO-LC-10-2026-P1-comprehensive-001-MASTERY-v19`
 **Bloom:** Create | **ICFES:** Reflexionar sobre el contenido
-**Context:** Un critico literario debe recomendar una obra universal para el plan lector de grado 10 en colegios colombianos.
+**Contexto:** Un critico literario debe recomendar una obra universal para el plan lector de grado 10 en colegios colombianos.
 **Enunciado:** Cual criterio NO deberia considerarse al seleccionar la obra?
 **Options:**
 - [ ] A) Relevancia literaria y valor estetico. <!-- feedback: Incorrecto. Es un criterio fundamental. -->
@@ -229,7 +234,7 @@ tier: "legacy"
 ## Question 20 (D10)
 **ID:** `CO-LC-10-2026-P1-comprehensive-001-MASTERY-v20`
 **Bloom:** Evaluate | **ICFES:** Reflexionar sobre el contenido
-**Context:** Texto: "La critica textual contemporanea propone que el significado de un texto no es fijo ni unico, sino que se construye en la interaccion entre el lector y el texto. Esto no significa que todas las interpretaciones sean validas: el texto impone limites a la interpretacion."
+**Contexto:** Texto: "La critica textual contemporanea propone que el significado de un texto no es fijo ni unico, sino que se construye en la interaccion entre el lector y el texto. Esto no significa que todas las interpretaciones sean validas: el texto impone limites a la interpretacion."
 **Enunciado:** Segun el texto, cual es la postura epistemologica correcta sobre la interpretacion textual?
 **Options:**
 - [ ] A) Cualquier interpretacion es igualmente valida. <!-- feedback: Incorrecto. El texto dice explicitamente que "no todas las interpretaciones son validas". -->

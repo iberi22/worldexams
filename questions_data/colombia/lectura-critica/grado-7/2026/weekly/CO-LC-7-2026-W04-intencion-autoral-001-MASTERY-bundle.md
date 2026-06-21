@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W04-intencion-autoral-001-MASTERY"
+id: "CO-LC-7-2026-W04-intencion-autoral-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "intencion-autoral"
-semana: "W04"
+week: "W04"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Intención Autoral - Grado 7
 ## Semana W04 — Propósito comunicativo del autor
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W04-intencion-autoral-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comunicativa — lextora
-**Context:** En la clase de Lectura Crítica del Colegio La Salle de Sincelejo, la profesora pregunta cuáles son las intenciones comunicativas básicas de un texto.
+**Contexto:** En la clase de Lectura Crítica del Colegio La Salle de Sincelejo, la profesora pregunta cuáles son las intenciones comunicativas básicas de un texto.
 **Expected_Success:** 0.86
 
 ### Enunciado
@@ -39,11 +43,11 @@ Las intenciones comunicativas básicas son: informar (exponer datos), persuadir 
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W04-intencion-autoral-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comunicativa — lextora
-**Context:** Camila encuentra en redes sociales el siguiente texto: "La deforestación en la Amazonia colombiana aumentó un 23% en el último año. Más de 70.000 hectáreas de bosque fueron destruidas."
+**Contexto:** Camila encuentra en redes sociales el siguiente texto: "La deforestación en la Amazonia colombiana aumentó un 23% en el último año. Más de 70.000 hectáreas de bosque fueron destruidas."
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -60,11 +64,11 @@ Un texto informativo se caracteriza por presentar datos y hechos de manera objet
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W04-intencion-autoral-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Comunicativa — lextora
-**Context:** En el recreo del Colegio Nacional de Barranquilla, Santiago lee un aviso en la cartelera: "¡No te pierdas la Feria de la Ciencia! Este viernes en el auditorio. Habrá experimentos, premios y sorpresas. ¡Te esperamos!"
+**Contexto:** En el recreo del Colegio Nacional de Barranquilla, Santiago lee un aviso en la cartelera: "¡No te pierdas la Feria de la Ciencia! Este viernes en el auditorio. Habrá experimentos, premios y sorpresas. ¡Te esperamos!"
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -81,11 +85,11 @@ La intención se detecta por el tono, los signos de puntuación y el contenido d
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W04-intencion-autoral-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicativa — crítica
-**Context:** Andrea lee un editorial del periódico El País de Cali que dice: "Es urgente que la Alcaldía invierta más en el mantenimiento de los parques. Los niños merecen espacios seguros para jugar. No podemos seguir postergando esta responsabilidad."
+**Contexto:** Andrea lee un editorial del periódico El País de Cali que dice: "Es urgente que la Alcaldía invierta más en el mantenimiento de los parques. Los niños merecen espacios seguros para jugar. No podemos seguir postergando esta responsabilidad."
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -102,11 +106,11 @@ Los editoriales periodísticos expresan la postura oficial del medio frente a un
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W04-intencion-autoral-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Comunicativa — analítica
-**Context:** En clase de Lengua del Colegio Champagnat de Bogotá, el profesor muestra un poema corto: "El viento juega en las ramas / y la tarde se adormece / un pájaro canta y calla / mientras el sol desaparece."
+**Contexto:** En clase de Lengua del Colegio Champagnat de Bogotá, el profesor muestra un poema corto: "El viento juega en las ramas / y la tarde se adormece / un pájaro canta y calla / mientras el sol desaparece."
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -123,11 +127,11 @@ La intención de un texto literario, especialmente la poesía, es principalmente
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W04-intencion-autoral-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — crítica
-**Context:** En el colegio de Manizales, Sebastián compara dos textos sobre el mismo tema. El primero es un artículo de la revista Semana y el segundo un tuit de un político.
+**Contexto:** En el colegio de Manizales, Sebastián compara dos textos sobre el mismo tema. El primero es un artículo de la revista Semana y el segundo un tuit de un político.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -144,11 +148,11 @@ La intención del autor está condicionada por varios factores: el medio (revist
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W04-intencion-autoral-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — analítica
-**Context:** En el colegio San José de Cúcuta, Natalia analiza un anuncio publicitario de una marca de tenis: "Estos tenis no son para todos. Son para los que sueñan en grande."
+**Contexto:** En el colegio San José de Cúcuta, Natalia analiza un anuncio publicitario de una marca de tenis: "Estos tenis no son para todos. Son para los que sueñan en grande."
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -165,11 +169,11 @@ La publicidad utiliza diversas estrategias persuasivas. Una de las más efectiva
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W04-intencion-autoral-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — crítica
-**Context:** Daniela lee un texto en internet que dice: "Los médicos recomiendan consumir vitamina C todos los días. La vitamina C previene resfriados y fortalece el sistema inmunológico. ¡Cómprela ahora en nuestra tienda!"
+**Contexto:** Daniela lee un texto en internet que dice: "Los médicos recomiendan consumir vitamina C todos los días. La vitamina C previene resfriados y fortalece el sistema inmunológico. ¡Cómprela ahora en nuestra tienda!"
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -186,11 +190,11 @@ Este texto es un ejemplo de "publicidad encubierta" o "contenido patrocinado dis
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W04-intencion-autoral-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Comunicativa — lextora
-**Context:** En el colegio de Ibagué, el profesor de Ciencias Sociales entrega una noticia: "El Congreso de Colombia aprobó la Ley de Protección de Páramos. La nueva normativa prohíbe la minería en estas zonas estratégicas."
+**Contexto:** En el colegio de Ibagué, el profesor de Ciencias Sociales entrega una noticia: "El Congreso de Colombia aprobó la Ley de Protección de Páramos. La nueva normativa prohíbe la minería en estas zonas estratégicas."
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -207,11 +211,11 @@ Los textos informativos se caracterizan por usar un lenguaje objetivo, en tercer
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W04-intencion-autoral-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — analítica
-**Context:** En la clase de Lectura Crítica del Colegio Departamental de La Calera, los estudiantes analizan el discurso de un líder indígena: "El río no es solo agua. El río es nuestra memoria, nuestro abuelo, nuestra historia. Cuando ustedes contaminan el río, nos están matando el alma."
+**Contexto:** En la clase de Lectura Crítica del Colegio Departamental de La Calera, los estudiantes analizan el discurso de un líder indígena: "El río no es solo agua. El río es nuestra memoria, nuestro abuelo, nuestra historia. Cuando ustedes contaminan el río, nos están matando el alma."
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ Los discursos pueden tener intenciones múltiples. Aquí, el líder indígena co
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W04-intencion-autoral-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — crítica
-**Context:** Miguel encuentra en Facebook una publicación que dice: "¡Comparte si estás de acuerdo! El gobierno debe mejorar los hospitales públicos YA. 10.000 personas ya han compartido."
+**Contexto:** Miguel encuentra en Facebook una publicación que dice: "¡Comparte si estás de acuerdo! El gobierno debe mejorar los hospitales públicos YA. 10.000 personas ya han compartido."
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -249,11 +253,11 @@ En redes sociales, muchas publicaciones tienen una "doble intención": una expl�
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W04-intencion-autoral-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — analítica
-**Context:** En el colegio de Popayán, la profesora presenta dos textos sobre el trabajo infantil. El primero es de la UNICEF y el segundo es un editorial de un periódico local. Ambos tratan el mismo tema pero tienen intenciones diferentes.
+**Contexto:** En el colegio de Popayán, la profesora presenta dos textos sobre el trabajo infantil. El primero es de la UNICEF y el segundo es un editorial de un periódico local. Ambos tratan el mismo tema pero tienen intenciones diferentes.
 **Expected_Success:** 0.38
 
 ### Enunciado

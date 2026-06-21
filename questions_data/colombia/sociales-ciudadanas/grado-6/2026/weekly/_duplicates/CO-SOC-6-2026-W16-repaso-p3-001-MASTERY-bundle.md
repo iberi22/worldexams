@@ -1,10 +1,10 @@
 ---
-id: "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY"
+id: "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "sociales-ciudadanas"
 tema: "repaso-p3"
-semana: 16
+week: "W16"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "constitucion_1991, derechos_fundamentales, deberes_ciudadanos, ramas_poder_publico, democracia, participacion_ciudadana, mecanismos_participacion, estado_social_derecho"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso del Periodo 3 — Constitución, Derechos y Participación
 
@@ -24,17 +31,17 @@ Este bundle de repaso integra los temas vistos durante el tercer periodo académ
 
 ---
 
-## Question 1
-
+## Question 1 [D1]
 **ID:** `CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 La Constitución Política de Colombia de 1991 está organizada en títulos y capítulos. ¿Cuál es el título que contiene los derechos fundamentales?
 
-### Options
+### Opciones
 - [ ] A) Título I: De los principios fundamentales <!-- feedback: Incorrecto. Ese título habla de principios generales del Estado. -->
 - [x] B) Título II: De los derechos, las garantías y los deberes <!-- feedback: Correcto. El Título II se dedica íntegramente a los derechos, garantías y deberes. -->
 - [ ] C) Título V: De la organización del Estado <!-- feedback: Incorrecto. Ese título trata sobre la estructura del Estado, no los derechos. -->
@@ -45,17 +52,17 @@ La Constitución tiene 13 títulos. El Título II es el más extenso y se divide
 
 ---
 
-## Question 2
-
+## Question 2 [D1]
 **ID:** `CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuáles son las tres ramas del poder público en Colombia?
 
-### Options
+### Opciones
 - [ ] A) La rama judicial, la rama militar y la rama policial <!-- feedback: Incorrecto. La militar y policial no son ramas del poder público. -->
 - [ ] B) La rama presidencial, la rama legislativa y la rama electoral <!-- feedback: Incorrecto. La electoral no es una rama, es una organización. -->
 - [x] C) La rama ejecutiva, la rama legislativa y la rama judicial <!-- feedback: Correcto. Son las tres ramas clásicas del poder público. -->
@@ -66,17 +73,17 @@ El artículo 113 de la Constitución establece la división tripartita del poder
 
 ---
 
-## Question 3
-
+## Question 3 [D1]
 **ID:** `CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué función cumple principalmente la rama legislativa en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Ejecutar las leyes y administrar el país <!-- feedback: Incorrecto. Esa es función de la rama ejecutiva. -->
 - [ ] B) Juzgar a los ciudadanos que cometen delitos <!-- feedback: Incorrecto. Esa es función de la rama judicial. -->
 - [x] C) Crear, modificar y derogar las leyes que rigen el país <!-- feedback: Correcto. La función principal del Congreso es legislar. -->
@@ -87,17 +94,17 @@ La rama legislativa, ejercida por el Congreso de la República (Senado y Cámara
 
 ---
 
-## Question 4
-
+## Question 4 [D1]
 **ID:** `CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué es el "Estado Social de Derecho" y por qué se diferencia de un Estado de Derecho tradicional?
 
-### Options
+### Opciones
 - [ ] A) Es lo mismo que un Estado de Derecho tradicional, no hay diferencia <!-- feedback: Incorrecto. Hay una diferencia fundamental. -->
 - [ ] B) Es un Estado donde no rigen las leyes, solo la voluntad del gobernante <!-- feedback: Incorrecto. El Estado Social de Derecho sí se rige por leyes. -->
 - [x] C) Es un modelo donde no solo se respeta la ley (Estado de Derecho), sino que además el Estado debe promover activamente la igualdad social, la justicia y el bienestar de todos los ciudadanos <!-- feedback: Correcto. Agrega una dimensión social al Estado de Derecho clásico. -->
@@ -108,17 +115,17 @@ Colombia se define en el artículo 1 de la Constitución como un Estado Social d
 
 ---
 
-## Question 5
-
+## Question 5 [D1]
 **ID:** `CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál de los siguientes es un mecanismo de participación ciudadana establecido en la Constitución de 1991?
 
-### Options
+### Opciones
 - [ ] A) La huelga de hambre <!-- feedback: Incorrecto. No es un mecanismo de participación constitucional. -->
 - [ ] B) El toque de queda <!-- feedback: Incorrecto. Es una medida de restricción, no de participación. -->
 - [x] C) El plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa legislativa y la revocatoria del mandato <!-- feedback: Correcto. El artículo 103 de la Constitución enumera estos mecanismos. -->
@@ -129,17 +136,17 @@ La Constitución de 1991 amplió significativamente los mecanismos de participac
 
 ---
 
-## Question 6
-
+## Question 6 [D1]
 **ID:** `CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Una comunidad en el departamento del Cauca considera que una ley aprobada por el Congreso perjudica sus derechos como comunidad indígena. ¿Qué mecanismo de participación podrían usar para buscar cambiar esa ley?
 
-### Options
+### Opciones
 - [ ] A) Realizar un cabildo abierto en su vereda <!-- feedback: Parcialmente correcto, pero el cabildo abierto no puede cambiar una ley nacional. -->
 - [ ] B) Solicitar un toque de queda en la región <!-- feedback: Incorrecto. El toque de queda no es un mecanismo para cambiar leyes. -->
 - [x] C) Promover un referendo para que los ciudadanos voten si quieren derogar o modificar esa ley <!-- feedback: Correcto. El referendo permite aprobar o derogar actos legislativos y leyes. -->
@@ -150,17 +157,17 @@ El referendo es el mecanismo adecuado cuando se busca la aprobación o derogaci�
 
 ---
 
-## Question 7
-
+## Question 7 [D1]
 **ID:** `CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 En un municipio de Antioquia, los ciudadanos están insatisfechos con la gestión de su alcalde y quieren destituirlo antes de que termine su periodo. ¿Qué mecanismo de participación pueden utilizar?
 
-### Options
+### Opciones
 - [ ] A) El plebiscito, para que el presidente decida si lo destituye <!-- feedback: Incorrecto. El plebiscito es sobre políticas del presidente, no sobre funcionarios locales. -->
 - [ ] B) El referendo, para votar si se elimina el cargo de alcalde <!-- feedback: Incorrecto. Eso eliminaría el cargo, no destituiría al funcionario. -->
 - [x] C) La revocatoria del mandato, que permite a los ciudadanos votar si retiran a un gobernante local antes de que termine su periodo <!-- feedback: Correcto. La revocatoria aplica para alcaldes y gobernadores. -->
@@ -171,17 +178,17 @@ La revocatoria del mandato está regulada por la Ley 134 de 1994 y la Ley 1757 d
 
 ---
 
-## Question 8
-
+## Question 8 [D1]
 **ID:** `CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 La Constitución de 1991 creó la Corte Constitucional y le dio la función de revisar si las leyes aprobadas por el Congreso son constitucionales. ¿Por qué es importante esta función para la democracia colombiana?
 
-### Options
+### Opciones
 - [ ] A) Porque la Corte Constitucional puede gobernar cuando el presidente está ausente <!-- feedback: Incorrecto. La Corte no gobierna, controla. -->
 - [ ] B) Porque la Corte Constitucional reemplaza al Congreso en la creación de leyes <!-- feedback: Incorrecto. La Corte no crea leyes, las revisa. -->
 - [x] C) Porque garantiza que las leyes respeten los derechos fundamentales y los principios constitucionales, evitando que el Congreso o el Ejecutivo actúen por fuera del marco de la Constitución <!-- feedback: Correcto. La Corte es el guardián de la Constitución. -->
@@ -192,17 +199,17 @@ La Corte Constitucional (artículos 239-245) es la máxima autoridad en temas co
 
 ---
 
-## Question 9
-
+## Question 9 [D1]
 **ID:** `CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Colombia tiene una democracia participativa (no solo representativa), lo que significa que los ciudadanos pueden incidir directamente en las decisiones. Sin embargo, en la práctica los mecanismos de participación como el referendo o la revocatoria son poco usados. ¿Qué explica esta contradicción?
 
-### Options
+### Opciones
 - [ ] A) Que los mecanismos de participación no existen realmente en Colombia <!-- feedback: Incorrecto. Sí existen, están en la Constitución. -->
 - [ ] B) Que los colombianos no están interesados en la política <!-- feedback: Es una explicación simplista que no considera las barreras. -->
 - [x] C) Que existen barreras como el desconocimiento de los mecanismos, los altos requisitos de firmas, la falta de financiación para promoverlos y la poca cultura de participación ciudadana <!-- feedback: Correcto. Hay factores estructurales y culturales que dificultan el uso de estos mecanismos. -->
@@ -223,7 +230,7 @@ La Constitución de 1991 fue innovadora al incluir la democracia participativa, 
 ### Enunciado
 Analiza en conjunto: la Constitución de 1991 establece un Estado Social de Derecho, protege derechos fundamentales, divide el poder en tres ramas y ofrece mecanismos de participación ciudadana. Sin embargo, Colombia enfrenta problemas de corrupción, impunidad y baja participación electoral. ¿Qué nos dice esta brecha entre el diseño constitucional y la realidad sobre la fortaleza de la democracia colombiana?
 
-### Options
+### Opciones
 - [ ] A) Que la Constitución de 1991 es un documento sin valor y que Colombia no es una democracia real <!-- feedback: Incorrecto. La Constitución sí tiene valor, aunque su implementación sea imperfecta. -->
 - [x] B) Que una buena constitución es necesaria pero no suficiente: la democracia se fortalece cuando las instituciones funcionan efectivamente, los ciudadanos participan activamente y existe una cultura de legalidad que vaya más allá del texto constitucional <!-- feedback: Correcto. La democracia requiere instituciones efectivas y cultura ciudadana. -->
 - [ ] C) Que el problema es exclusivamente de los ciudadanos que no votan <!-- feedback: Incorrecto. La baja participación tiene múltiples causas, no es solo responsabilidad individual. -->

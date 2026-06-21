@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-9-2026-P3-comprehensive-001-MASTERY"
+id: "CO-LC-9-2026-P3-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 9
 asignatura: "lectura-critica"
@@ -19,7 +19,12 @@ rubric_baseline: "argumentación avanzada, estructura de textos académicos"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Argumentación Avanzada y Textos Académicos
 
@@ -31,13 +36,14 @@ Este bundle cubre técnicas avanzadas de argumentación, estructura de textos ac
 
 **ID:** `CO-LC-9-2026-P3-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** En clase de lenguaje en Bogotá, se explica la estructura del texto académico.
+**Contexto:** En clase de lenguaje en Bogotá, se explica la estructura del texto académico.
 
 ### Enunciado
 ¿Cuál es la estructura básica de un artículo académico?
 
-### Options
+### Opciones
 - [ ] A) Título, párrafos y conclusión <!-- feedback: Incorrect. Demasiado general. -->
 - [x] B) Resumen, introducción, metodología, resultados, discusión y conclusiones <!-- feedback: Correct. El formato IMRyD (Introducción, Métodos, Resultados y Discusión) es el estándar en publicaciones científicas. -->
 - [ ] C) Capítulos, secciones y bibliografía <!-- feedback: Incorrect. Esa es la estructura de un libro. -->
@@ -52,13 +58,14 @@ Los textos académicos siguen convenciones formales. El formato IMRyD es univers
 
 **ID:** `CO-LC-9-2026-P3-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Se estudian los tipos de argumentos.
+**Contexto:** Se estudian los tipos de argumentos.
 
 ### Enunciado
 ¿Qué es un argumento de autoridad?
 
-### Options
+### Opciones
 - [ ] A) Un argumento que se basa en la fuerza física o el poder <!-- feedback: Incorrect. No es eso. -->
 - [x] B) Un argumento que cita a un experto reconocido en la materia para respaldar una afirmación <!-- feedback: Correct. Se usa la opinión de una autoridad en el tema como respaldo. -->
 - [ ] C) Un argumento que demuestra la autoridad del que habla <!-- feedback: Incorrect. La autoridad es externa, no del emisor. -->
@@ -73,13 +80,14 @@ El argumento de autoridad (argumentum ad verecundiam) es válido cuando la autor
 
 **ID:** `CO-LC-9-2026-P3-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Se lee la introducción de un artículo académico: "Este estudio analiza el impacto de la jornada única escolar en el rendimiento académico de estudiantes de secundaria en Bogotá."
+**Contexto:** Se lee la introducción de un artículo académico: "Este estudio analiza el impacto de la jornada única escolar en el rendimiento académico de estudiantes de secundaria en Bogotá."
 
 ### Enunciado
 ¿Qué elemento de la introducción académica está presente en esta frase?
 
-### Options
+### Opciones
 - [ ] A) La justificación del estudio <!-- feedback: Incorrect. No explica por qué es importante. -->
 - [x] B) El objetivo del estudio (qué se va a investigar) <!-- feedback: Correct. El objetivo define el propósito de la investigación de manera clara y específica. -->
 - [ ] C) La hipótesis del estudio <!-- feedback: Incorrect. Una hipótesis es una predicción, no un objetivo. -->
@@ -94,13 +102,14 @@ Toda introducción académica debe contener: 1) Contexto del problema, 2) Objeti
 
 **ID:** `CO-LC-9-2026-P3-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Se presenta un argumento: "Si Colombia invierte más en educación rural, entonces mejorará la productividad agrícola y se reducirá la migración a las ciudades."
+**Contexto:** Se presenta un argumento: "Si Colombia invierte más en educación rural, entonces mejorará la productividad agrícola y se reducirá la migración a las ciudades."
 
 ### Enunciado
 ¿Qué tipo de relación establece este argumento?
 
-### Options
+### Opciones
 - [ ] A) Relación de comparación <!-- feedback: Incorrect. No compara dos opciones. -->
 - [x] B) Relación causal (condición-consecuencia): la inversión en educación es la condición que genera mejoras <!-- feedback: Correct. La estructura es "si A entonces B", estableciendo una relación de causalidad. -->
 - [ ] C) Relación de contradicción <!-- feedback: Incorrect. No hay elementos opuestos. -->
@@ -115,13 +124,14 @@ Los argumentos causales (causa-efecto) son una de las formas más comunes de arg
 
 **ID:** `CO-LC-9-2026-P3-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Un estudiante escribe un texto académico y necesita incluir citas bibliográficas.
+**Contexto:** Un estudiante escribe un texto académico y necesita incluir citas bibliográficas.
 
 ### Enunciado
 ¿Cuál es la función de las citas bibliográficas en un texto académico?
 
-### Options
+### Opciones
 - [ ] A) Adornar el texto con nombres famosos <!-- feedback: Incorrect. Las citas tienen función académica, no decorativa. -->
 - [x] B) Dar crédito a las fuentes utilizadas, respaldar los argumentos con evidencia previa y permitir que los lectores verifiquen la información <!-- feedback: Correct. Las citas son esenciales para la integridad académica y para construir sobre conocimiento previo. -->
 - [ ] C) Demostrar que el autor leyó muchos libros <!-- feedback: Incorrect. El propósito es la transparencia intelectual, no la ostentación. -->
@@ -136,13 +146,14 @@ El plagio (usar ideas ajenas sin dar crédito) es una falta ética grave en el �
 
 **ID:** `CO-LC-9-2026-P3-comprehensive-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento crítico
-**Context:** Un texto argumentativo presenta la siguiente estructura: "Algunos críticos argumentan que el glifosato debe prohibirse. Sin embargo, estas críticas ignoran que el glifosato es efectivo para controlar cultivos ilícitos y que su prohibición aumentaría el área de coca en Colombia."
+**Contexto:** Un texto argumentativo presenta la siguiente estructura: "Algunos críticos argumentan que el glifosato debe prohibirse. Sin embargo, estas críticas ignoran que el glifosato es efectivo para controlar cultivos ilícitos y que su prohibición aumentaría el área de coca en Colombia."
 
 ### Enunciado
 ¿Qué recurso argumentativo se utiliza en este fragmento?
 
-### Options
+### Opciones
 - [ ] A) Argumento de autoridad <!-- feedback: Incorrect. No cita a ningún experto. -->
 - [ ] B) Analogía <!-- feedback: Incorrect. No compara con otra situación. -->
 - [x] C) Concesión y refutación (reconocer un argumento contrario y luego refutarlo) <!-- feedback: Correct. Primero reconoce la postura contraria (concesión) y luego la refuta con contraargumentos. -->
@@ -157,13 +168,14 @@ La concesión y refutación es una técnica argumentativa avanzada. El autor mue
 
 **ID:** `CO-LC-9-2026-P3-comprehensive-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Se analiza un texto académico que concluye: "Los hallazgos sugieren una correlación entre el uso de redes sociales y la ansiedad en adolescentes, pero se requieren más estudios para establecer causalidad."
+**Contexto:** Se analiza un texto académico que concluye: "Los hallazgos sugieren una correlación entre el uso de redes sociales y la ansiedad en adolescentes, pero se requieren más estudios para establecer causalidad."
 
 ### Enunciado
 ¿Qué característica del lenguaje académico muestra esta conclusión?
 
-### Options
+### Opciones
 - [ ] A) Dogmatismo: afirma con certeza absoluta <!-- feedback: Incorrect. La conclusión es cautelosa. -->
 - [x] B) Cautela epistémica: reconoce las limitaciones del estudio y evita afirmaciones categóricas sin suficiente evidencia <!-- feedback: Correct. El lenguaje académico evita conclusiones absolutas y reconoce limitaciones. -->
 - [ ] C) Falta de rigor: no sabe lo que afirma <!-- feedback: Incorrect. La cautela es una señal de rigor, no de falta de este. -->
@@ -178,13 +190,14 @@ La cautela epistémica (hedging en inglés) es una característica del lenguaje 
 
 **ID:** `CO-LC-9-2026-P3-comprehensive-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento crítico
-**Context:** Se analiza un argumento: "Todos los colombianos deben pagar impuestos. Carlos es colombiano. Por lo tanto, Carlos debe pagar impuestos."
+**Contexto:** Se analiza un argumento: "Todos los colombianos deben pagar impuestos. Carlos es colombiano. Por lo tanto, Carlos debe pagar impuestos."
 
 ### Enunciado
 Si la premisa "Todos los colombianos deben pagar impuestos" es falsa (porque algunos están exentos), ¿qué ocurre con el argumento?
 
-### Options
+### Opciones
 - [ ] A) El argumento sigue siendo válido aunque la premisa sea falsa <!-- feedback: Correcto en términos de lógica formal. -->
 - [ ] B) La conclusión es necesariamente falsa <!-- feedback: Incorrect. La conclusión podría ser verdadera aunque la premisa sea falsa. -->
 - [x] C) El argumento es válido en su forma (deductivo correcto), pero no es sólido porque una premisa es falsa <!-- feedback: Correct. En lógica, "válido" se refiere a la forma; "sólido" requiere premisas verdaderas. -->
@@ -199,13 +212,14 @@ En lógica formal, un argumento puede ser válido (su forma es correcta) pero no
 
 **ID:** `CO-LC-9-2026-P3-comprehensive-001-MASTERY-v9`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Se lee un fragmento de texto académico donde el autor usa palabras como "no obstante", "sin embargo", "por consiguiente", "además".
+**Contexto:** Se lee un fragmento de texto académico donde el autor usa palabras como "no obstante", "sin embargo", "por consiguiente", "además".
 
 ### Enunciado
 ¿Cuál es la función de estos marcadores en un texto académico?
 
-### Options
+### Opciones
 - [ ] A) Embellecer el texto para que suene más culto <!-- feedback: Incorrect. No son decorativos. -->
 - [ ] B) Organizar el texto y señalar relaciones lógicas entre las ideas (oposición, consecuencia, adición) <!-- feedback: Correct. Los marcadores discursivos (conectores) guían al lector en la estructura argumentativa. -->
 - [ ] C) Indicar el final de cada párrafo <!-- feedback: Incorrect. No tienen esa función. -->
@@ -220,13 +234,14 @@ Los conectores o marcadores discursivos son esenciales en la escritura académic
 
 **ID:** `CO-LC-9-2026-P3-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento crítico
-**Context:** Un artículo académico afirma: "El 80% de los estudiantes de noveno grado en Bogotá no alcanza el nivel esperado en matemáticas. Esto demuestra que el sistema educativo colombiano es un fracaso."
+**Contexto:** Un artículo académico afirma: "El 80% de los estudiantes de noveno grado en Bogotá no alcanza el nivel esperado en matemáticas. Esto demuestra que el sistema educativo colombiano es un fracaso."
 
 ### Enunciado
 ¿Qué problema de razonamiento tiene esta conclusión?
 
-### Options
+### Opciones
 - [ ] A) Es una conclusión perfectamente lógica <!-- feedback: Incorrect. Hay un salto lógico. -->
 - [x] B) Generaliza a partir de un solo dato (solo matemáticas, solo Bogotá, solo noveno grado) para concluir sobre todo el sistema educativo <!-- feedback: Correct. Un solo indicador no es suficiente para evaluar todo el sistema. -->
 - [ ] C) Usa estadísticas falsas <!-- feedback: Incorrect. El problema no es la veracidad de la estadística. -->
@@ -241,13 +256,14 @@ La generalización apresurada (o falacia de evidencia insuficiente) ocurre cuand
 
 **ID:** `CO-LC-9-2026-P3-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento crítico
-**Context:** Un estudiante encuentra un artículo de una revista científica que concluye: "La exposición a pantallas antes de dormir reduce la calidad del sueño en adolescentes." El estudio fue financiado por una empresa de colchones.
+**Contexto:** Un estudiante encuentra un artículo de una revista científica que concluye: "La exposición a pantallas antes de dormir reduce la calidad del sueño en adolescentes." El estudio fue financiado por una empresa de colchones.
 
 ### Enunciado
 ¿Qué aspecto de esta investigación debería evaluar críticamente el estudiante?
 
-### Options
+### Opciones
 - [ ] A) Solo el título del artículo <!-- feedback: Incorrect. Debe evaluar más aspectos. -->
 - [ ] B) La metodología, pero el financiamiento no importa <!-- feedback: Incorrect. El financiamiento puede generar sesgos. -->
 - [x] C) Posible conflicto de interés: la empresa de colchones podría beneficiarse de que la gente compre sus productos para dormir mejor, lo que podría sesgar los resultados. También debe evaluar la metodología y el tamaño de la muestra. <!-- feedback: Correct. El análisis crítico de fuentes incluye identificar potenciales sesgos y conflictos de interés. -->
@@ -262,13 +278,14 @@ Evaluar fuentes académicas requiere examinar: 1) La metodología, 2) El tamaño
 
 **ID:** `CO-LC-9-2026-P3-comprehensive-001-MASTERY-v12`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Se comparan dos textos académicos sobre el mismo tema. El primero es de 1995 y el segundo de 2024.
+**Contexto:** Se comparan dos textos académicos sobre el mismo tema. El primero es de 1995 y el segundo de 2024.
 
 ### Enunciado
 ¿Por qué es importante considerar la fecha de publicación de un texto académico?
 
-### Options
+### Opciones
 - [ ] A) Porque los textos más antiguos siempre son incorrectos <!-- feedback: Incorrect. La antigüedad no invalida automáticamente un texto. -->
 - [ ] B) Porque los textos recientes siempre son mejores <!-- feedback: Incorrect. La reciente publicación no garantiza calidad. -->
 - [x] C) Porque el conocimiento avanza. Un texto de 1995 puede tener información desactualizada, pero también puede contener teorías fundamentales que siguen siendo vigentes. La fecha ayuda a contextualizar. <!-- feedback: Correct. La fecha de publicación es crucial para evaluar la vigencia de la información. -->
@@ -283,13 +300,14 @@ En la investigación académica, es importante usar fuentes actualizadas y tambi
 
 **ID:** `CO-LC-9-2026-P3-comprehensive-001-MASTERY-v13`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento crítico
-**Context:** Un texto académico utiliza la siguiente estructura argumentativa: 1) Plantea un problema, 2) Presenta una tesis, 3)Ofrece argumentos a favor, 4) Reconoce contraargumentos, 5) Refuta los contraargumentos, 6) Concluye.
+**Contexto:** Un texto académico utiliza la siguiente estructura argumentativa: 1) Plantea un problema, 2) Presenta una tesis, 3)Ofrece argumentos a favor, 4) Reconoce contraargumentos, 5) Refuta los contraargumentos, 6) Concluye.
 
 ### Enunciado
 ¿Qué fortaleza tiene esta estructura argumentativa?
 
-### Options
+### Opciones
 - [ ] A) Es débil porque muestra que el autor duda de su propia posición <!-- feedback: Incorrect. Reconocer contraargumentos es una fortaleza. -->
 - [x] B) Es fuerte porque el autor demuestra que ha considerado posiciones contrarias y las ha refutado, lo que hace su argumento más sólido y convincente <!-- feedback: Correct. Responder a posibles objeciones anticipadamente es una técnica argumentativa avanzada llamada "refutación anticipada". -->
 - [ ] C) Es irrelevante porque la estructura no afecta la validez del argumento <!-- feedback: Incorrect. La estructura sí afecta la efectividad argumentativa. -->
@@ -304,13 +322,14 @@ La "refutación anticipada" (o procatalepsis) es una estrategia retórica que fo
 
 **ID:** `CO-LC-9-2026-P3-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Un artículo académico contiene la siguiente frase: "Como sostiene el Ministerio de Educación Nacional (MEN), la deserción escolar en zonas rurales alcanza el 15%."
+**Contexto:** Un artículo académico contiene la siguiente frase: "Como sostiene el Ministerio de Educación Nacional (MEN), la deserción escolar en zonas rurales alcanza el 15%."
 
 ### Enunciado
 ¿Qué tipo de fuente se está citando y cómo debe evaluarse?
 
-### Options
+### Opciones
 - [ ] A) Fuente primaria, no necesita evaluación <!-- feedback: Incorrect. Toda fuente debe evaluarse. -->
 - [x] B) Fuente institucional (gubernamental): los datos del MEN pueden ser confiables pero deben contrastarse con otras fuentes (OCDE, Banco Mundial) para verificar su precisión <!-- feedback: Correct. Las fuentes institucionales tienen autoridad pero pueden tener sesgos políticos. -->
 - [ ] C) Fuente secundaria, no confiable <!-- feedback: Incorrect. Una fuente gubernamental es primaria en datos oficiales. -->
@@ -325,13 +344,14 @@ Evaluar fuentes es una habilidad crítica. Las fuentes gubernamentales son gener
 
 **ID:** `CO-LC-9-2026-P3-comprehensive-001-MASTERY-v15`
 **Bloom:** Create
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento crítico
-**Context:** Un estudiante debe escribir un artículo académico corto sobre: "¿Debería Colombia prohibir el fracking?" Debe planificar su estructura argumentativa con solidez académica.
+**Contexto:** Un estudiante debe escribir un artículo académico corto sobre: "¿Debería Colombia prohibir el fracking?" Debe planificar su estructura argumentativa con solidez académica.
 
 ### Enunciado
 ¿Cuál de los siguientes esquemas representa la estructura argumentativa más sólida para este artículo?
 
-### Options
+### Opciones
 - [ ] A) Introducción (opinión personal), desarrollo (anécdotas de otros países), conclusión (repetir la opinión) <!-- feedback: Incorrect. Carece de rigor académico. -->
 - [ ] B) Solo presentar argumentos a favor del fracking, ignorando posiciones contrarias <!-- feedback: Incorrect. Un texto académico debe considerar múltiples perspectivas. -->
 - [x] C) Introducción (contexto del fracking en Colombia + tesis clara), desarrollo (argumento a favor con evidencia, argumento en contra con evidencia, contraargumentación), conclusiones (síntesis y postura fundamentada), referencias <!-- feedback: Correct. Esta estructura incluye tesis, evidencia de ambos lados, refutación y referencias, cumpliendo con el estándar académico. -->

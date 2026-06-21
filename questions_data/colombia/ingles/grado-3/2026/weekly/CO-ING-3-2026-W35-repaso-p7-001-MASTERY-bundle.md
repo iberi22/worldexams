@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W35-repaso-p7-001-MASTERY"
+id: "CO-ING-3-2026-W35-repaso-p7-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "repaso-p7"
 periodo: "weekly"
-semana: 35
+week: "W35"
 year: 2026
 protocol_version: "5.2"
 bundle_index: 1
@@ -21,7 +21,10 @@ license: "FREE"
 tier: "mastery"
 creador: "Jules"
 
+bundle_type: "weekly"
+total_questions: 10
 ---
+
 
 # Weekly Pack W35: Repaso P7 (A1)
 
@@ -34,12 +37,12 @@ This bundle is a review of the topics covered in Period 7: Telling Time, Daily R
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
-**Context:** Identifying time.
+**Contexto:** Identifying time.
 
 ### Enunciado
 The clock shows **9:00**. How do you say it?
 
-### Options
+### Opciones
 - [ ] A) It is nine half past <!-- feedback: Incorrect. -->
 - [x] B) It is nine o'clock <!-- feedback: Correct! Exact hours use "o'clock". -->
 - [ ] C) It is nine time <!-- feedback: Incorrect. -->
@@ -55,12 +58,12 @@ Usamos "o'clock" para indicar las horas exactas en inglés.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
-**Context:** Identifying school subjects.
+**Contexto:** Identifying school subjects.
 
 ### Enunciado
 In which subject do you study **numbers** and **calculations**?
 
-### Options
+### Opciones
 - [x] A) Math <!-- feedback: Correct! Math is the subject of numbers. -->
 - [ ] B) Art <!-- feedback: Incorrect. -->
 - [ ] C) Music <!-- feedback: Incorrect. -->
@@ -76,12 +79,12 @@ In which subject do you study **numbers** and **calculations**?
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
-**Context:** Sports review.
+**Contexto:** Sports review.
 
 ### Enunciado
 Which sport do you play with a **ball** and a **hoop** (aro)? 🏀
 
-### Options
+### Opciones
 - [ ] A) Soccer <!-- feedback: Incorrect. -->
 - [x] B) Basketball <!-- feedback: Correct! Basketball is about putting the ball in the hoop. -->
 - [ ] C) Tennis <!-- feedback: Incorrect. -->
@@ -97,12 +100,12 @@ El baloncesto (Basketball) se caracteriza por encestar el balón en un aro.
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
-**Context:** Daily routine review.
+**Contexto:** Daily routine review.
 
 ### Enunciado
 What is the meal you eat at **night** before you go to sleep?
 
-### Options
+### Opciones
 - [ ] A) Breakfast <!-- feedback: Incorrect. -->
 - [ ] B) Lunch <!-- feedback: Incorrect. -->
 - [x] C) Dinner <!-- feedback: Correct! Dinner is the night meal. -->
@@ -118,12 +121,12 @@ La cena (Dinner) es la última comida importante del día.
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
-**Context:** Time review (half past).
+**Contexto:** Time review (half past).
 
 ### Enunciado
 The time is **7:30**. How do you say it?
 
-### Options
+### Opciones
 - [ ] A) Seven o'clock <!-- feedback: Incorrect. -->
 - [x] B) Half past seven <!-- feedback: Correct! "Half past" indicates 30 minutes. -->
 - [ ] C) Seven thirty past <!-- feedback: Incorrect. -->
@@ -139,12 +142,12 @@ The time is **7:30**. How do you say it?
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
-**Context:** School life review.
+**Contexto:** School life review.
 
 ### Enunciado
 You need to **paint a picture** of a house. Which class is this? 🎨
 
-### Options
+### Opciones
 - [ ] A) Science <!-- feedback: Incorrect. -->
 - [ ] B) Math <!-- feedback: Incorrect. -->
 - [x] C) Art <!-- feedback: Correct! Painting and drawing are part of Art class. -->
@@ -160,12 +163,12 @@ La clase de arte (Art) es el espacio para la creatividad visual y la pintura.
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
-**Context:** After school routine.
+**Contexto:** After school routine.
 
 ### Enunciado
 After school, you have to read and write to **practice**. What is this activity?
 
-### Options
+### Opciones
 - [ ] A) Go to sleep <!-- feedback: Incorrect. -->
 - [x] B) Do homework <!-- feedback: Correct! Homework is practice after school. -->
 - [ ] C) Have breakfast <!-- feedback: Incorrect. -->
@@ -181,12 +184,12 @@ Hacer la tarea (Do homework) es la forma en que los estudiantes refuerzan lo apr
 **Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
-**Context:** Identifying sport by equipment.
+**Contexto:** Identifying sport by equipment.
 
 ### Enunciado
 If you have a **racket** and a **yellow ball**, what sport are you playing? 🎾
 
-### Options
+### Opciones
 - [ ] A) Basketball <!-- feedback: Incorrect. -->
 - [ ] B) Soccer <!-- feedback: Incorrect. -->
 - [x] C) Tennis <!-- feedback: Correct! Tennis uses a racket and a yellow ball. -->
@@ -202,12 +205,12 @@ Analizar los implementos deportivos. La raqueta (racket) y la pelota amarilla so
 **Bloom:** Analyze
 **ICFES:** Pragmática
 **Expected_Success:** 0.55
-**Context:** Logic of daily schedules.
+**Contexto:** Logic of daily schedules.
 
 ### Enunciado
 Which action is **NOT** done in the **afternoon**?
 
-### Options
+### Opciones
 - [ ] A) Do homework <!-- feedback: Incorrect. Done in the afternoon. -->
 - [ ] B) Have a snack <!-- feedback: Incorrect. Done in the afternoon. -->
 - [ ] C) Play in the park <!-- feedback: Incorrect. Done in the afternoon. -->
@@ -223,12 +226,12 @@ Analizar la coherencia temporal de las rutinas. Despertarse (Wake up) ocurre al 
 **Bloom:** Evaluate
 **ICFES:** Pragmática
 **Expected_Success:** 0.50
-**Context:** Making a decision about time.
+**Contexto:** Making a decision about time.
 
 ### Enunciado
 You have a soccer game at **four o'clock**. It is **half past three** now. How much time do you have?
 
-### Options
+### Opciones
 - [ ] A) One hour <!-- feedback: Incorrect. -->
 - [x] B) Thirty minutes <!-- feedback: Correct! From 3:30 to 4:00 there are 30 minutes. -->
 - [ ] C) Ten minutes <!-- feedback: Incorrect. -->

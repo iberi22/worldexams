@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W18-repaso-periodo-4-001-MASTERY"
+id: "CO-CIE-6-2026-W18-repaso-periodo-4-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W18 — Repaso P4: Sistema Nervioso y Sentidos
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W18-repaso-periodo-4-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Repaso del periodo 4 sobre sistema nervioso y sentidos.
+**Contexto:** Repaso del periodo 4 sobre sistema nervioso y sentidos.
 
 ### Enunciado
 ¿Qué parte de la neurona recibe las señales de otras neuronas?
 
-### Options
+### Opciones
 - [ ] A) El axón <!-- feedback: El axón transmite señales. -->
 - [x] B) Las dendritas <!-- feedback: Correcto. -->
 - [ ] C) El núcleo <!-- feedback: El núcleo está en el soma. -->
@@ -48,13 +51,14 @@ Las dendritas son extensiones ramificadas de la neurona que reciben señales de 
 
 **ID:** `CO-CIE-6-2026-W18-repaso-periodo-4-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Repaso de los sentidos.
+**Contexto:** Repaso de los sentidos.
 
 ### Enunciado
 ¿Qué parte del ojo contiene los fotorreceptores (conos y bastones)?
 
-### Options
+### Opciones
 - [ ] A) El cristalino <!-- feedback: El cristalino enfoca la luz. -->
 - [ ] B) La córnea <!-- feedback: La córnea protege y refracta. -->
 - [x] C) La retina <!-- feedback: Correcto. -->
@@ -69,13 +73,14 @@ La retina es la capa interna del ojo que contiene conos (visión cromática, 3 t
 
 **ID:** `CO-CIE-6-2026-W18-repaso-periodo-4-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Repaso del sistema nervioso autónomo.
+**Contexto:** Repaso del sistema nervioso autónomo.
 
 ### Enunciado
 ¿Qué división del sistema nervioso se activa durante el ejercicio físico?
 
-### Options
+### Opciones
 - [ ] A) El sistema parasimpático <!-- feedback: Se activa en reposo. -->
 - [x] B) El sistema simpático <!-- feedback: Correcto. -->
 - [ ] C) El sistema somático <!-- feedback: Controla movimientos voluntarios. -->
@@ -90,13 +95,14 @@ El sistema simpático (lucha o huida): aumenta frecuencia cardíaca, dilata bron
 
 **ID:** `CO-CIE-6-2026-W18-repaso-periodo-4-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Repaso sobre transmisión del sonido.
+**Contexto:** Repaso sobre transmisión del sonido.
 
 ### Enunciado
 ¿En qué orden viaja el sonido a través del oído?
 
-### Options
+### Opciones
 - [ ] A) Tímpano → cóclea → huesecillos → nervio <!-- feedback: Orden incorrecto. -->
 - [x] B) Pabellón → tímpano → huesecillos → cóclea → nervio auditivo <!-- feedback: Correcto. -->
 - [ ] C) Cóclea → tímpano → pabellón → nervio <!-- feedback: Orden inverso. -->
@@ -111,13 +117,14 @@ El sonido viaja: pabellón auricular (capta) → conducto auditivo → tímpano 
 
 **ID:** `CO-CIE-6-2026-W18-repaso-periodo-4-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Aplicación sobre riesgos del consumo de alcohol.
+**Contexto:** Aplicación sobre riesgos del consumo de alcohol.
 
 ### Enunciado
 ¿Por qué una persona ebria camina con dificultad?
 
-### Options
+### Opciones
 - [ ] A) Porque los músculos se debilitan <!-- feedback: El alcohol afecta el sistema nervioso, no los músculos. -->
 - [ ] B) Porque el corazón late más lento <!-- feedback: No afecta directamente el equilibrio. -->
 - [x] C) Porque el alcohol afecta el cerebelo, que coordina el equilibrio <!-- feedback: Correcto. -->
@@ -132,13 +139,14 @@ El alcohol deprime el sistema nervioso central, afectando especialmente el cereb
 
 **ID:** `CO-CIE-6-2026-W18-repaso-periodo-4-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Aplicación sobre protección auditiva.
+**Contexto:** Aplicación sobre protección auditiva.
 
 ### Enunciado
 ¿Por qué los trabajadores de construcción deben usar protectores auditivos?
 
-### Options
+### Opciones
 - [ ] A) Para escuchar mejor <!-- feedback: Los protectores reducen el sonido. -->
 - [ ] B) Para evitar que entre polvo <!-- feedback: El polvo no es el riesgo principal. -->
 - [x] C) Porque el ruido de maquinaria (>85 dB) daña permanentemente las células ciliadas de la cóclea <!-- feedback: Correcto. -->
@@ -153,13 +161,14 @@ La exposición prolongada a >85 dB (taladros, martillos neumáticos) daña las c
 
 **ID:** `CO-CIE-6-2026-W18-repaso-periodo-4-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Análisis sobre lesiones cerebrales.
+**Contexto:** Análisis sobre lesiones cerebrales.
 
 ### Enunciado
 Un paciente sufre un accidente y pierde la capacidad de formar nuevos recuerdos, pero recuerda su pasado. ¿Qué estructura cerebral está dañada?
 
-### Options
+### Opciones
 - [ ] A) El cerebelo <!-- feedback: El cerebelo no almacena recuerdos. -->
 - [ ] B) La corteza motora <!-- feedback: Controla movimiento, no memoria. -->
 - [x] C) El hipocampo <!-- feedback: Correcto. -->
@@ -174,13 +183,14 @@ El hipocampo (en el lóbulo temporal) es esencial para la consolidación de nuev
 
 **ID:** `CO-CIE-6-2026-W18-repaso-periodo-4-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Análisis de adaptación sensorial.
+**Contexto:** Análisis de adaptación sensorial.
 
 ### Enunciado
 Al entrar a una piscina, el agua se siente fría pero después de un minuto ya no. ¿Qué explica esto?
 
-### Options
+### Opciones
 - [ ] A) El agua se calienta <!-- feedback: El agua no se calienta tan rápido. -->
 - [ ] B) La piel se duerme <!-- feedback: No es literal. -->
 - [x] C) Adaptación sensorial de los termorreceptores <!-- feedback: Correcto. -->
@@ -195,13 +205,14 @@ Los termorreceptores (corpúsculos de Ruffini para calor, Krause para frío) se 
 
 **ID:** `CO-CIE-6-2026-W18-repaso-periodo-4-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Evaluación ética sobre adicciones.
+**Contexto:** Evaluación ética sobre adicciones.
 
 ### Enunciado
 ¿Cuál es la estrategia MÁS EFECTIVA para prevenir el consumo de drogas en adolescentes?
 
-### Options
+### Opciones
 - [ ] A) Prohibir las drogas sin explicación <!-- feedback: La prohibición sola no educa. -->
 - [ ] B) Amedrentar con videos impactantes <!-- feedback: A veces causa curiosidad. -->
 - [x] C) Educación científica sobre cómo las drogas alteran el cerebro y desarrollo de habilidades socioemocionales <!-- feedback: Correcto. -->
@@ -216,13 +227,14 @@ La prevención efectiva combina: (1) información científica sobre mecanismos d
 
 **ID:** `CO-CIE-6-2026-W18-repaso-periodo-4-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Evaluación sobre tecnologías de asistencia.
+**Contexto:** Evaluación sobre tecnologías de asistencia.
 
 ### Enunciado
 Los implantes cocleares permiten a personas sordas escuchar. ¿Cómo funcionan?
 
-### Options
+### Opciones
 - [ ] A) Amplifican el sonido como un audífono <!-- feedback: Los audífonos amplifican, los implantes son diferentes. -->
 - [x] B) Convierten el sonido en señales eléctricas que estimulan directamente el nervio auditivo, reemplazando la función de las células ciliadas dañadas <!-- feedback: Correcto. -->
 - [ ] C) Regeneran las células ciliadas <!-- feedback: No regeneran. -->

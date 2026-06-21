@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W28-days-week-001-MASTERY"
+id: "CO-ING-3-2026-W28-days-week-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "days-week"
 periodo: "weekly"
-semana: 28
+week: "W28"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "Vocabulary for the seven days of the week and basic time conce
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W28: Days of the Week (A1)
 
@@ -32,11 +37,12 @@ Este bundle evalúa el vocabulario de los días de la semana en inglés.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is the **first** day of the week?
 
-### Options
+### Opciones
 - [x] A) Monday <!-- feedback: Correct! Monday is lunes. -->
 - [ ] B) Friday <!-- feedback: Incorrect. -->
 - [ ] C) Sunday <!-- feedback: Incorrect. -->
@@ -52,11 +58,12 @@ El lunes se dice "Monday". Es el primer día de la semana laboral y escolar.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Sábado"** in English?
 
-### Options
+### Opciones
 - [ ] A) Sunday <!-- feedback: Incorrect. Sunday is domingo. -->
 - [x] B) Saturday <!-- feedback: Correct! Saturday is sábado. -->
 - [ ] C) Thursday <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ El sábado se dice "Saturday".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What day comes after **Tuesday**?
 
-### Options
+### Opciones
 - [ ] A) Monday <!-- feedback: Incorrect. -->
 - [ ] B) Thursday <!-- feedback: Incorrect. -->
 - [x] C) Wednesday <!-- feedback: Correct! Tuesday -> Wednesday. -->
@@ -92,11 +100,12 @@ El miércoles se dice "Wednesday". Va después del martes (Tuesday).
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What day is **"Viernes"**?
 
-### Options
+### Opciones
 - [x] A) Friday <!-- feedback: Correct! Friday is viernes. -->
 - [ ] B) Thursday <!-- feedback: Incorrect. -->
 - [ ] C) Saturday <!-- feedback: Incorrect. -->
@@ -112,11 +121,12 @@ El viernes se dice "Friday". Es el último día de clases de la semana.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 How many days are in a **week**?
 
-### Options
+### Opciones
 - [ ] A) Five <!-- feedback: Incorrect. -->
 - [ ] B) Six <!-- feedback: Incorrect. -->
 - [x] C) Seven <!-- feedback: Correct! -->
@@ -132,11 +142,12 @@ Hay siete (seven) días en una semana.
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What days are the **weekend**?
 
-### Options
+### Opciones
 - [ ] A) Monday and Tuesday <!-- feedback: Incorrect. -->
 - [ ] B) Wednesday and Thursday <!-- feedback: Incorrect. -->
 - [x] C) Saturday and Sunday <!-- feedback: Correct! -->
@@ -152,11 +163,12 @@ El fin de semana (weekend) está compuesto por el sábado (Saturday) y el doming
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What does **"Tomorrow"** mean?
 
-### Options
+### Opciones
 - [ ] A) Hoy <!-- feedback: Incorrect. Hoy is today. -->
 - [x] B) Mañana <!-- feedback: Correct! Tomorrow means the next day. -->
 - [ ] C) Ayer <!-- feedback: Incorrect. Ayer is yesterday. -->
@@ -172,11 +184,12 @@ What does **"Tomorrow"** mean?
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 If today is **Wednesday**, tomorrow is:
 
-### Options
+### Opciones
 - [ ] A) Tuesday <!-- feedback: Incorrect. -->
 - [x] B) Thursday <!-- feedback: Correct! -->
 - [ ] C) Friday <!-- feedback: Incorrect. -->
@@ -192,11 +205,12 @@ Si hoy es miércoles (Wednesday), mañana es jueves (Thursday).
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 If today is **Monday**, yesterday was:
 
-### Options
+### Opciones
 - [ ] A) Tuesday <!-- feedback: Incorrect. -->
 - [ ] B) Saturday <!-- feedback: Incorrect. -->
 - [x] C) Sunday <!-- feedback: Correct! -->
@@ -212,11 +226,12 @@ Si hoy es lunes (Monday), ayer (yesterday) fue domingo (Sunday).
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 I go to school on:
 
-### Options
+### Opciones
 - [x] A) Monday to Friday <!-- feedback: Correct! Weekdays. -->
 - [ ] B) Saturday and Sunday <!-- feedback: Incorrect. No school on weekends. -->
 - [ ] C) Only Sunday <!-- feedback: Incorrect. -->

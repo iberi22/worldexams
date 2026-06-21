@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "republica-liberal"
-semana: "W27"
+week: "W27"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Colombia siglo XX: Republica Liberal (1930-1946)"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W27-republica-liberal-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Quien fue el primer presidente de la Republica Liberal?
@@ -39,12 +44,13 @@ Enrique Olaya Herrera gano las elecciones de 1930 con el apoyo de liberales y co
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W27-republica-liberal-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que fue la Revolucion en Marcha?
@@ -60,12 +66,13 @@ La Revolucion en Marcha fue un conjunto de reformas progresistas: reforma agrari
 
 ---
 
-## Pregunta 3 [D1]
+## Question 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W27-republica-liberal-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que reformas implanto Alfonso Lopez Pumarejo?
@@ -81,12 +88,13 @@ Lopez Pumarejo modernizo el Estado colombiano: promovio la educacion publica lai
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W27-republica-liberal-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que hecho tragico ocurrio el 9 de abril de 1948?
@@ -102,12 +110,13 @@ El 9 de abril de 1948, Jorge Eliecer Gaitan, lider popular liberal, fue asesinad
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W27-republica-liberal-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que fue el 'Bogotazo'?
@@ -123,12 +132,13 @@ El Bogotazo fue una insurreccion popular espontanea. La gente enfurecida destruy
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W27-republica-liberal-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que fue 'La Violencia' en Colombia?
@@ -144,12 +154,13 @@ La Violencia (1946-1958) fue un conflicto armado entre liberales y conservadores
 
 ---
 
-## Pregunta 7 [D1]
+## Question 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W27-republica-liberal-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Quien fue Jorge Eliecer Gaitan?
@@ -165,12 +176,13 @@ Gaitan fue un abogado y politico liberal que denuncio la Masacre de las Bananera
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W27-republica-liberal-001-MASTERY-v8`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cual era el lema de Gaitan?
@@ -186,12 +198,13 @@ Gaitan propugnaba por la justicia social, la moralizacion de la politica y la de
 
 ---
 
-## Pregunta 9 [D1]
+## Question 9 [D1]
 
 **ID:** `CO-SOC-5-2026-W27-republica-liberal-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Como afecto la Republica Liberal a la educacion en Colombia?
@@ -207,12 +220,13 @@ La Republica Liberal impulso la educacion publica. La Ley 39 de 1903 ya habia or
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W27-republica-liberal-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por que la Republica Liberal es importante para Colombia?

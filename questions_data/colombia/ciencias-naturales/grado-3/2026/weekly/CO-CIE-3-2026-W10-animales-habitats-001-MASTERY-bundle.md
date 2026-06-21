@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY"
+id: "CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "animales-habitats"
-semana: "W10"
+week: "W10"
 periodo: 1
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Hábitats animales: tipos (terrestres, acuáticos, aeroterrest
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Los Hábitats de los Animales
 
 Este bundle explora los diferentes lugares donde viven los animales y cómo sus cuerpos y comportamientos están adaptados para sobrevivir en esos ambientes específicos.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una expedición al Parque Tayrona, los niños ven monos en los árboles, peces en el mar y gaviotas volando.
+**Contexto:** En una expedición al Parque Tayrona, los niños ven monos en los árboles, peces en el mar y gaviotas volando.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ El hábitat es la "casa" de los animales en la naturaleza. Cada especie tiene un
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Los delfines, los tiburones y los corales viven toda su vida sumergidos bajo el agua.
+**Contexto:** Los delfines, los tiburones y los corales viven toda su vida sumergidos bajo el agua.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -73,12 +77,12 @@ Los hábitats acuáticos pueden ser de agua salada (mares y océanos) o de agua 
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un oso de anteojos vive en los bosques altos y húmedos de las montañas colombianas.
+**Contexto:** Un oso de anteojos vive en los bosques altos y húmedos de las montañas colombianas.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -98,12 +102,12 @@ Las adaptaciones físicas son cambios en el cuerpo de los animales que les permi
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Si sacamos a un pez payaso del mar y lo ponemos en un jardín con flores y mucho sol.
+**Contexto:** Si sacamos a un pez payaso del mar y lo ponemos en un jardín con flores y mucho sol.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -123,12 +127,12 @@ Cada animal está "programado" para su hábitat. El pez payaso tiene una relaci�
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un camello tiene jorobas donde guarda grasa, pestañas muy largas y patas anchas para no hundirse.
+**Contexto:** Un camello tiene jorobas donde guarda grasa, pestañas muy largas y patas anchas para no hundirse.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -148,12 +152,12 @@ El camello es el rey de la adaptación al desierto. Sus jorobas no guardan agua,
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Los animales aeroterrestres, como las águilas y los murciélagos, pasan mucho tiempo en el aire pero necesitan la tierra para descansar.
+**Contexto:** Los animales aeroterrestres, como las águilas y los murciélagos, pasan mucho tiempo en el aire pero necesitan la tierra para descansar.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -173,12 +177,12 @@ Ningún animal vive 100% en el aire. Los hábitats aeroterrestres combinan la ve
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** En Colombia hay animales que viven en los "Páramos", lugares muy altos donde hace mucho frío, hay mucha niebla y el viento sopla fuerte.
+**Contexto:** En Colombia hay animales que viven en los "Páramos", lugares muy altos donde hace mucho frío, hay mucha niebla y el viento sopla fuerte.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -198,12 +202,12 @@ El páramo es un hábitat difícil. Los animales que viven allí, como el cóndo
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un castor construye una represa de palos y lodo en un río, creando una laguna tranquila donde construye su casa.
+**Contexto:** Un castor construye una represa de palos y lodo en un río, creando una laguna tranquila donde construye su casa.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -223,12 +227,12 @@ Los animales no siempre aceptan el hábitat tal como es. Algunos, como los casto
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Muchos animales de la selva tienen manchas o rayas que se confunden con las luces y sombras de las hojas.
+**Contexto:** Muchos animales de la selva tienen manchas o rayas que se confunden con las luces y sombras de las hojas.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -248,12 +252,12 @@ El camuflaje es una herramienta de relación con el hábitat. Un tigre en la nie
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W10-animales-habitats-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un bosque es talado para construir una carretera y muchos animales se quedan sin árboles.
+**Contexto:** Un bosque es talado para construir una carretera y muchos animales se quedan sin árboles.
 **Expected_Success:** 0.60
 
 ### Enunciado

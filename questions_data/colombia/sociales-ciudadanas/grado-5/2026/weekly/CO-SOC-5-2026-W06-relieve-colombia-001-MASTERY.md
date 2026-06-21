@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "relieve-colombia"
-semana: "W06"
+week: "W06"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Relieve colombiano: cordilleras, valles, llanuras y montanas"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 En cuantas cordilleras se divide la cordillera de los Andes en Colombia?
@@ -39,12 +44,13 @@ Los Andes se dividen en Colombia en tres cordilleras: Occidental, Central y Orie
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que cordillera es la mas alta de Colombia?
@@ -60,12 +66,13 @@ La Cordillera Central tiene los picos mas altos de Colombia, incluyendo los neva
 
 ---
 
-## Pregunta 3 [D1]
+## Question 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cual es la montana mas alta de Colombia?
@@ -81,12 +88,13 @@ El pico mas alto de Colombia es el Pico Simon Bolivar en la Sierra Nevada de San
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es un valle en el relieve colombiano?
@@ -102,12 +110,13 @@ Los valles interandinos mas importantes son el Valle del Magdalena (entre las co
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Donde se encuentran las llanuras en Colombia?
@@ -123,12 +132,13 @@ Las llanuras colombianas incluyen: la llanura del Caribe (al norte), los Llanos 
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es la Sierra Nevada de Santa Marta?
@@ -144,12 +154,13 @@ La Sierra Nevada de Santa Marta es una formacion montanosa independiente de los 
 
 ---
 
-## Pregunta 7 [D1]
+## Question 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es el nudo de los Pastos?
@@ -165,12 +176,13 @@ El Nudo de los Pastos, en el departamento de Narino (sur de Colombia), es el pun
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY-v8`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que rio separa las cordilleras Central y Oriental?
@@ -186,12 +198,13 @@ El rio Magdalena es el principal rio de Colombia. Corre de sur a norte entre las
 
 ---
 
-## Pregunta 9 [D3]
+## Question 9 [D3]
 
 **ID:** `CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por que Colombia tiene un relieve tan variado?
@@ -207,12 +220,13 @@ Colombia tiene un relieve diverso gracias a la presencia de los Andes en tres co
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W06-relieve-colombia-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Como afecta el relieve a la vida de los colombianos?

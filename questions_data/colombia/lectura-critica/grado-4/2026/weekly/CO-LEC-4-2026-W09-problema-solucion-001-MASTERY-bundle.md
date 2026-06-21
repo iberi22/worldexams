@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W09-problema-solucion-001-MASTERY"
+id: "CO-LEC-4-2026-W09-problema-solucion-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "problema-solucion"
-semana: "W09"
+week: "W09"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "problema, solución, conflicto, resolución"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W09: Identificar el problema y la solución
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W09-problema-solucion-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Problema explícito.
+**Contexto:** Problema explícito.
 
 ### Enunciado
 *"En la escuela no hay suficiente agua potable."* ¿Problema?
 
-### Options
-- [ ] A) Mucha agua.
+### Opciones
+- [ ] A) Mucha agua. <!-- feedback: Incorrecto. Mucha agua. -->
 - [x] B) No hay suficiente agua. <!-- feedback: Correcto. -->
-- [ ] C) No estudian.
-- [ ] D) Escuela grande.
+- [ ] C) No estudian. <!-- feedback: Incorrecto. No estudian. -->
+- [ ] D) Escuela grande. <!-- feedback: Incorrecto. Escuela grande. -->
 
 ### Explicación Pedagógica
 Identificar problema.
@@ -49,17 +54,18 @@ Identificar problema.
 
 **ID:** `CO-LEC-4-2026-W09-problema-solucion-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Solución explícita.
+**Contexto:** Solución explícita.
 
 ### Enunciado
 *"Instalaron tanque de agua lluvia. Ahora hay agua."* ¿Solución?
 
-### Options
-- [ ] A) Cerrar escuela.
+### Opciones
+- [ ] A) Cerrar escuela. <!-- feedback: Incorrecto. Cerrar escuela. -->
 - [x] B) Tanque de agua lluvia. <!-- feedback: Correcto. -->
-- [ ] C) Comprar agua.
-- [ ] D) Mudarse.
+- [ ] C) Comprar agua. <!-- feedback: Incorrecto. Comprar agua. -->
+- [ ] D) Mudarse. <!-- feedback: Incorrecto. Mudarse. -->
 
 ### Explicación Pedagógica
 Solución.
@@ -70,17 +76,18 @@ Solución.
 
 **ID:** `CO-LEC-4-2026-W09-problema-solucion-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Problema texto.
+**Contexto:** Problema texto.
 
 ### Enunciado
 *"Cultivos se secaban por falta de lluvia. Construyeron riego."* ¿Problema?
 
-### Options
-- [ ] A) Campesinos no trabajaban.
+### Opciones
+- [ ] A) Campesinos no trabajaban. <!-- feedback: Incorrecto. Campesinos no trabajaban. -->
 - [x] B) Cultivos se secaban. <!-- feedback: Correcto. -->
-- [ ] C) Río se desbordó.
-- [ ] D) Llovía mucho.
+- [ ] C) Río se desbordó. <!-- feedback: Incorrecto. Río se desbordó. -->
+- [ ] D) Llovía mucho. <!-- feedback: Incorrecto. Llovía mucho. -->
 
 ### Explicación Pedagógica
 Problema.
@@ -91,17 +98,18 @@ Problema.
 
 **ID:** `CO-LEC-4-2026-W09-problema-solucion-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Solución pedagógica.
+**Contexto:** Solución pedagógica.
 
 ### Enunciado
 *"No entendían mates. Profe usó juegos. Ahora entienden."* ¿Solución?
 
-### Options
-- [ ] A) Cambiar profe.
+### Opciones
+- [ ] A) Cambiar profe. <!-- feedback: Incorrecto. Cambiar profe. -->
 - [x] B) Usar juegos didácticos. <!-- feedback: Correcto. -->
-- [ ] C) Cancelar mates.
-- [ ] D) Repetir año.
+- [ ] C) Cancelar mates. <!-- feedback: Incorrecto. Cancelar mates. -->
+- [ ] D) Repetir año. <!-- feedback: Incorrecto. Repetir año. -->
 
 ### Explicación Pedagógica
 Solución.
@@ -112,17 +120,18 @@ Solución.
 
 **ID:** `CO-LEC-4-2026-W09-problema-solucion-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Relación P-S.
+**Contexto:** Relación P-S.
 
 ### Enunciado
 *"Basura acumulada. Jornada de reciclaje."* ¿Relación?
 
-### Options
-- [ ] A) Sin relación.
+### Opciones
+- [ ] A) Sin relación. <!-- feedback: Incorrecto. Sin relación. -->
 - [x] B) Reciclaje solucionó basura. <!-- feedback: Correcto. -->
-- [ ] C) Basura fue solución.
-- [ ] D) Colegio cerró.
+- [ ] C) Basura fue solución. <!-- feedback: Incorrecto. Basura fue solución. -->
+- [ ] D) Colegio cerró. <!-- feedback: Incorrecto. Colegio cerró. -->
 
 ### Explicación Pedagógica
 Relacionar P-S.
@@ -133,17 +142,18 @@ Relacionar P-S.
 
 **ID:** `CO-LEC-4-2026-W09-problema-solucion-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Proponer solución.
+**Contexto:** Proponer solución.
 
 ### Enunciado
 *"Parque sin bancas para mayores."* ¿Solución?
 
-### Options
-- [ ] A) Cerrar parque.
+### Opciones
+- [ ] A) Cerrar parque. <!-- feedback: Incorrecto. Cerrar parque. -->
 - [x] B) Instalar bancas. <!-- feedback: Correcto. -->
-- [ ] C) Poner música.
-- [ ] D) Sembrar árboles.
+- [ ] C) Poner música. <!-- feedback: Incorrecto. Poner música. -->
+- [ ] D) Sembrar árboles. <!-- feedback: Incorrecto. Sembrar árboles. -->
 
 ### Explicación Pedagógica
 Proponer solución.
@@ -154,17 +164,18 @@ Proponer solución.
 
 **ID:** `CO-LEC-4-2026-W09-problema-solucion-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Inferir problema.
+**Contexto:** Inferir problema.
 
 ### Enunciado
 *"Niños caminan 2 horas a la escuela."* ¿Problema?
 
-### Options
-- [ ] A) Buen transporte.
+### Opciones
+- [ ] A) Buen transporte. <!-- feedback: Incorrecto. Buen transporte. -->
 - [x] B) Caminan demasiado. <!-- feedback: Correcto. -->
-- [ ] C) Escuela grande.
-- [ ] D) Juegan en camino.
+- [ ] C) Escuela grande. <!-- feedback: Incorrecto. Escuela grande. -->
+- [ ] D) Juegan en camino. <!-- feedback: Incorrecto. Juegan en camino. -->
 
 ### Explicación Pedagógica
 Inferir problema.
@@ -175,17 +186,18 @@ Inferir problema.
 
 **ID:** `CO-LEC-4-2026-W09-problema-solucion-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Evaluar soluciones.
+**Contexto:** Evaluar soluciones.
 
 ### Enunciado
 *"Estudiantes sin libros."* ¿Mejor solución?
 
-### Options
-- [ ] A) No leer.
+### Opciones
+- [ ] A) No leer. <!-- feedback: Incorrecto. No leer. -->
 - [x] B) Biblioteca con donaciones. <!-- feedback: Correcto. -->
-- [ ] C) Cancelar lectura.
-- [ ] D) Comprar libros caros.
+- [ ] C) Cancelar lectura. <!-- feedback: Incorrecto. Cancelar lectura. -->
+- [ ] D) Comprar libros caros. <!-- feedback: Incorrecto. Comprar libros caros. -->
 
 ### Explicación Pedagógica
 Mejor solución.
@@ -196,17 +208,18 @@ Mejor solución.
 
 **ID:** `CO-LEC-4-2026-W09-problema-solucion-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Estructura textual.
+**Contexto:** Estructura textual.
 
 ### Enunciado
 *"Problema: perros callejeros. Solución: refugio."* ¿Tipo?
 
-### Options
-- [ ] A) Descriptivo.
+### Opciones
+- [ ] A) Descriptivo. <!-- feedback: Incorrecto. Descriptivo. -->
 - [x] B) Problema-solución. <!-- feedback: Correcto. -->
-- [ ] C) Poético.
-- [ ] D) Instructivo.
+- [ ] C) Poético. <!-- feedback: Incorrecto. Poético. -->
+- [ ] D) Instructivo. <!-- feedback: Incorrecto. Instructivo. -->
 
 ### Explicación Pedagógica
 Identificar estructura.
@@ -217,17 +230,18 @@ Identificar estructura.
 
 **ID:** `CO-LEC-4-2026-W09-problema-solucion-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Texto incompleto.
+**Contexto:** Texto incompleto.
 
 ### Enunciado
 *"Más carros, más contaminación."* ¿Qué falta?
 
-### Options
-- [ ] A) Nada.
+### Opciones
+- [ ] A) Nada. <!-- feedback: Incorrecto. Nada. -->
 - [x] B) Propuesta de solución. <!-- feedback: Correcto. -->
-- [ ] C) Describir carros.
-- [ ] D) Opinión del autor.
+- [ ] C) Describir carros. <!-- feedback: Incorrecto. Describir carros. -->
+- [ ] D) Opinión del autor. <!-- feedback: Incorrecto. Opinión del autor. -->
 
 ### Explicación Pedagógica
 Estructura incompleta.

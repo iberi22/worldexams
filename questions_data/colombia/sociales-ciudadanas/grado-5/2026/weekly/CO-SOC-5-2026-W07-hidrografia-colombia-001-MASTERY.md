@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "hidrografia-colombia"
-semana: "W07"
+week: "W07"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Hidrografia de Colombia: principales rios y cuencas hidrografi
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W07-hidrografia-colombia-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cual es el rio mas largo e importante de Colombia?
@@ -39,12 +44,13 @@ El rio Magdalena nace en la Laguna de la Magdalena (Huila) y recorre 1.540 km ha
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W07-hidrografia-colombia-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 En que oceano desembocan la mayoria de los rios de Colombia?
@@ -60,12 +66,13 @@ Los rios colombianos desembocan principalmente en el mar Caribe (Magdalena, Cauc
 
 ---
 
-## Pregunta 3 [D1]
+## Question 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W07-hidrografia-colombia-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 A que cuenca hidrografica pertenece el rio Amazonas en Colombia?
@@ -81,12 +88,13 @@ La cuenca del Amazonas en Colombia incluye rios como el Caqueta, Putumayo y el A
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W07-hidrografia-colombia-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cuales son los principales rios de la cuenca del Orinoco en Colombia?
@@ -102,12 +110,13 @@ Los Llanos Orientales son parte de la cuenca del Orinoco. Los rios Meta, Guaviar
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W07-hidrografia-colombia-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es una cuenca hidrografica?
@@ -123,12 +132,13 @@ Una cuenca hidrografica es el area donde toda el agua que cae (lluvia) escurre h
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W07-hidrografia-colombia-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por que son importantes los rios para las comunidades colombianas?
@@ -144,12 +154,13 @@ Los rios son vitales: el Magdalena es una via de transporte, los rios generan en
 
 ---
 
-## Pregunta 7 [D1]
+## Question 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W07-hidrografia-colombia-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es el rio Atrato y donde nace?
@@ -165,12 +176,13 @@ El rio Atrato nace en el Cerro Plateado (Choco) y desemboca en el Golfo de Uraba
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W07-hidrografia-colombia-001-MASTERY-v8`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es la Laguna de la Cocha?
@@ -186,12 +198,13 @@ La Laguna de la Cocha, en Narino, es la laguna natural mas grande de Colombia. E
 
 ---
 
-## Pregunta 9 [D3]
+## Question 9 [D3]
 
 **ID:** `CO-SOC-5-2026-W07-hidrografia-colombia-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por que Colombia tiene tantos rios?
@@ -207,12 +220,13 @@ Colombia es uno de los paises mas lluviosos del mundo. Las montanas hacen que el
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W07-hidrografia-colombia-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Como se relacionan el relieve y la hidrografia de Colombia?

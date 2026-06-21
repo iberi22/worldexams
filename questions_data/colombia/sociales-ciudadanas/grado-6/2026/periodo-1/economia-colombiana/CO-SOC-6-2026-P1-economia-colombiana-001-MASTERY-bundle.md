@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-6-2026-P1-economia-colombiana-001-MASTERY"
+id: "CO-SOC-6-2026-P1-economia-colombiana-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "economia_colombiana, sectores_productivos, recursos_naturales, actividades_economicas, desarrollo_sostenible"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Economía Colombiana
 
@@ -24,17 +31,17 @@ Este bundle cubre los fundamentos de la economía colombiana: los sectores produ
 
 ---
 
-## Question 1
-
+## Question 1 [D1]
 **ID:** `CO-SOC-6-2026-P1-economia-colombiana-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuáles son los tres sectores de la economía?
 
-### Options
+### Opciones
 - [ ] A) Sector público, privado y mixto <!-- feedback: Incorrecto. Esa es una clasificación según la propiedad, no según la actividad. -->
 - [x] B) Sector primario (materias primas), secundario (industria) y terciario (servicios) <!-- feedback: Correcto. Es la clasificación clásica de las actividades económicas. -->
 - [ ] C) Sector norte, sur y centro <!-- feedback: Incorrecto. No existe tal clasificación económica. -->
@@ -45,17 +52,17 @@ La economía se divide en sectores según el tipo de actividad. En Colombia, el 
 
 ---
 
-## Question 2
-
+## Question 2 [D1]
 **ID:** `CO-SOC-6-2026-P1-economia-colombiana-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es el principal producto de exportación de Colombia?
 
-### Options
+### Opciones
 - [ ] A) El trigo <!-- feedback: Incorrecto. Colombia no es un gran productor de trigo. -->
 - [ ] B) El café <!-- feedback: Parcialmente correcto, pero no es el principal actualmente. -->
 - [x] C) El petróleo <!-- feedback: Correcto. El petróleo es el principal producto de exportación de Colombia, seguido por el carbón y el café. -->
@@ -66,17 +73,17 @@ Colombia es un país rico en recursos naturales. El petróleo representa aproxim
 
 ---
 
-## Question 3
-
+## Question 3 [D1]
 **ID:** `CO-SOC-6-2026-P1-economia-colombiana-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué actividad económica pertenece al sector primario?
 
-### Options
+### Opciones
 - [ ] A) Vender ropa en un centro comercial <!-- feedback: Incorrecto. Eso es comercio, que pertenece al sector terciario. -->
 - [ ] B) Enseñar matemáticas en un colegio <!-- feedback: Incorrecto. La educación es un servicio del sector terciario. -->
 - [x] C) Cultivar café en una finca del Eje Cafetero <!-- feedback: Correcto. La agricultura es una actividad del sector primario. -->
@@ -87,17 +94,17 @@ El sector primario incluye actividades que obtienen recursos directamente de la 
 
 ---
 
-## Question 4
-
+## Question 4 [D1]
 **ID:** `CO-SOC-6-2026-P1-economia-colombiana-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Por qué se dice que Colombia es un país "megadiverso"?
 
-### Options
+### Opciones
 - [ ] A) Porque tiene la economía más grande del mundo <!-- feedback: Incorrecto. No es por la economía. -->
 - [x] B) Porque tiene una gran variedad de ecosistemas, especies de flora y fauna, y recursos naturales <!-- feedback: Correcto. Colombia es el segundo país más biodiverso del mundo. -->
 - [ ] C) Porque tiene muchas ciudades grandes <!-- feedback: Incorrecto. La diversidad es biológica, no urbana. -->
@@ -108,17 +115,17 @@ Colombia es uno de los países con mayor biodiversidad del planeta, con ecosiste
 
 ---
 
-## Question 5
-
+## Question 5 [D1]
 **ID:** `CO-SOC-6-2026-P1-economia-colombiana-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué es el PIB (Producto Interno Bruto)?
 
-### Options
+### Opciones
 - [ ] A) El dinero que tiene cada colombiano en su bolsillo <!-- feedback: Incorrecto. No es una medida individual, sino nacional. -->
 - [x] B) El valor total de todos los bienes y servicios finales producidos en el país durante un año <!-- feedback: Correcto. El PIB mide el tamaño de la economía. -->
 - [ ] C) El presupuesto anual del presidente <!-- feedback: Incorrecto. No es el presupuesto de una sola persona. -->
@@ -129,17 +136,17 @@ El PIB es el indicador más utilizado para medir el crecimiento económico de un
 
 ---
 
-## Question 6
-
+## Question 6 [D1]
 **ID:** `CO-SOC-6-2026-P1-economia-colombiana-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Un campesino cultiva tomates en su parcela y los vende directamente en la plaza de mercado de su municipio. ¿En qué sectores económicos está participando?
 
-### Options
+### Opciones
 - [ ] A) Solo en el sector primario <!-- feedback: Incorrecto. También participa en el comercio. -->
 - [ ] B) Solo en el sector terciario <!-- feedback: Incorrecto. Cultivar es primario. -->
 - [x] C) En el sector primario (cultivar) y en el sector terciario (vender) <!-- feedback: Correcto. Produce (primario) y comercializa (terciario). -->
@@ -150,17 +157,17 @@ Muchos campesinos colombianos participan en varios sectores económicos a la vez
 
 ---
 
-## Question 7
-
+## Question 7 [D1]
 **ID:** `CO-SOC-6-2026-P1-economia-colombiana-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 La empresa "Colombiana de Gaseosas" produce bebidas en una fábrica de Bogotá. ¿A qué sector económico pertenece?
 
-### Options
+### Opciones
 - [ ] A) Sector primario <!-- feedback: Incorrecto. No está extrayendo recursos naturales directamente. -->
 - [x] B) Sector secundario (industrial) <!-- feedback: Correcto. Transforma materias primas en productos manufacturados. -->
 - [ ] C) Sector terciario <!-- feedback: Incorrecto. Aunque distribuye, su actividad principal es la producción industrial. -->
@@ -171,17 +178,17 @@ El sector secundario transforma materias primas en productos elaborados. En Colo
 
 ---
 
-## Question 8
-
+## Question 8 [D1]
 **ID:** `CO-SOC-6-2026-P1-economia-colombiana-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Por qué la economía colombiana depende en gran medida de sus recursos naturales?
 
-### Options
+### Opciones
 - [ ] A) Porque los colombianos no saben hacer otra cosa <!-- feedback: Incorrecto. Hay talento y capacidad en muchos sectores. -->
 - [x] B) Porque Colombia tiene abundantes recursos naturales (petróleo, carbón, oro, café, flores) y las exportaciones de estos productos generan ingresos importantes para el país <!-- feedback: Correcto. La dependencia de recursos naturales es una característica de las economías en desarrollo. -->
 - [ ] C) Porque Colombia no tiene industrias <!-- feedback: Incorrecto. Colombia sí tiene industria manufacturera y de servicios. -->
@@ -192,17 +199,17 @@ La dependencia de materias primas es un desafío para Colombia porque los precio
 
 ---
 
-## Question 9
-
+## Question 9 [D1]
 **ID:** `CO-SOC-6-2026-P1-economia-colombiana-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué son las importaciones y por qué son importantes para Colombia?
 
-### Options
+### Opciones
 - [ ] A) Productos que Colombia vende a otros países <!-- feedback: Incorrecto. Eso son las exportaciones. -->
 - [x] B) Productos que Colombia compra a otros países; son importantes para obtener bienes que no se producen localmente (tecnología, maquinaria, algunos alimentos) <!-- feedback: Correcto. Las importaciones complementan la oferta nacional. -->
 - [ ] C) Dinero que el gobierno regala a otros países <!-- feedback: Incorrecto. No son regalos, son compras internacionales. -->
@@ -223,7 +230,7 @@ Colombia importa principalmente maquinaria, equipos de transporte, productos qu�
 ### Enunciado
 Analiza: Colombia es uno de los mayores exportadores de carbón del mundo, pero la minería de carbón causa graves daños ambientales. Al mismo tiempo, el país tiene un gran potencial para generar energía solar y eólica en La Guajira. ¿Qué dilema económico y ambiental enfrenta Colombia?
 
-### Options
+### Opciones
 - [ ] A) Colombia debe elegir entre tener carbón o no tener nada <!-- feedback: Incorrecto. Hay alternativas viables. -->
 - [x] B) El dilema entre los beneficios económicos inmediatos del carbón (empleo, ingresos) y la necesidad de proteger el ambiente y hacer la transición a energías limpias <!-- feedback: Correcto. Este es el debate central del desarrollo sostenible. -->
 - [ ] C) No hay ningún dilema, el carbón es completamente bueno <!-- feedback: Incorrecto. El carbón tiene impactos ambientales graves. -->

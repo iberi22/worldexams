@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY"
+id: "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 4"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Gramática - preposiciones - Grado 4
 
@@ -22,7 +24,7 @@ Este bundle explora el uso de las preposiciones como palabras de enlace que esta
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -33,21 +35,20 @@ Este bundle explora el uso de las preposiciones como palabras de enlace que esta
 ¿Qué son las preposiciones?
 
 ### Opciones
-- [ ] A) Palabras que indican acciones.
-  <!-- feedback: Esos son los verbos. -->
-- [ ] B) Palabras que reemplazan a los nombres.
-  <!-- feedback: Esos son los pronombres. -->
-- [x] C) Palabras invariables que sirven para unir otras palabras y relacionarlas entre sí.
-  <!-- feedback: ¡Correcto! Son nexos que dan sentido a la unión de términos. -->
-- [ ] D) Palabras que siempre llevan tilde.
-  <!-- feedback: La mayoría de las preposiciones no llevan tilde. -->
+- [ ] A) Palabras que indican acciones. <!-- feedback: Incorrecto. Palabras que indican acciones. -->
+
+- [ ] B) Palabras que reemplazan a los nombres. <!-- feedback: Incorrecto. Palabras que reemplazan a los nombres. -->
+
+- [x] C) Palabras invariables que sirven para unir otras palabras y relacionarlas entre sí. <!-- feedback: Correcto! Palabras invariables que sirven para unir otras palabras y r -->
+
+- [ ] D) Palabras que siempre llevan tilde. <!-- feedback: Incorrecto. Palabras que siempre llevan tilde. -->
 
 ### Explicación Pedagogica
 Las preposiciones son categorías gramaticales de enlace cuya función es subordinar una palabra a otra dentro de la oración.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -58,21 +59,20 @@ Las preposiciones son categorías gramaticales de enlace cuya función es subord
 ¿Cuál de las siguientes palabras es una preposición?
 
 ### Opciones
-- [ ] A) Grande
-  <!-- feedback: Es un adjetivo. -->
-- [x] B) Desde
-  <!-- feedback: ¡Muy bien! Indica punto de origen o tiempo. -->
-- [ ] C) Correr
-  <!-- feedback: Es un verbo. -->
-- [ ] D) Nosotros
-  <!-- feedback: Es un pronombre. -->
+- [ ] A) Grande <!-- feedback: Incorrecto. Grande -->
+
+- [x] B) Desde <!-- feedback: Correcto! Desde -->
+
+- [ ] C) Correr <!-- feedback: Incorrecto. Correr -->
+
+- [ ] D) Nosotros <!-- feedback: Incorrecto. Nosotros -->
 
 ### Explicación Pedagogica
 Reconocer las preposiciones (a, ante, bajo, con, contra, de, desde...) es fundamental para el análisis sintáctico.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -83,21 +83,20 @@ Reconocer las preposiciones (a, ante, bajo, con, contra, de, desde...) es fundam
 En la oración "Juan escribe **con** su lápiz", ¿qué tipo de relación establece la preposición "con"?
 
 ### Opciones
-- [ ] A) De lugar (dónde).
-  <!-- feedback: No indica el sitio donde está Juan. -->
-- [x] B) De instrumento (con qué).
-  <!-- feedback: ¡Excelente! Indica el objeto que se usa para realizar la acción. -->
-- [ ] C) De tiempo (cuándo).
-  <!-- feedback: No indica el momento de la escritura. -->
-- [ ] D) De origen (de dónde).
-  <!-- feedback: No indica procedencia. -->
+- [ ] A) De lugar (dónde). <!-- feedback: Incorrecto. De lugar (dónde). -->
+
+- [x] B) De instrumento (con qué). <!-- feedback: Correcto! De instrumento (con qué). -->
+
+- [ ] C) De tiempo (cuándo). <!-- feedback: Incorrecto. De tiempo (cuándo). -->
+
+- [ ] D) De origen (de dónde). <!-- feedback: Incorrecto. De origen (de dónde). -->
 
 ### Explicación Pedagogica
 Una misma preposición puede expresar diferentes significados (compañía, instrumento, modo) según el contexto de la frase.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -109,21 +108,20 @@ Una misma preposición puede expresar diferentes significados (compañía, instr
 "Mañana iré ________ el estadio para jugar ________ el equipo".
 
 ### Opciones
-- [ ] A) en / por
-  <!-- feedback: No indica destino ni compañía correctamente. -->
-- [x] B) a / con
-  <!-- feedback: ¡Correcto! "A" indica destino y "con" indica compañía. -->
-- [ ] C) de / sin
-  <!-- feedback: No tiene sentido lógico en esta situación. -->
-- [ ] D) por / ante
-  <!-- feedback: No es el uso habitual para estas relaciones. -->
+- [ ] A) en / por <!-- feedback: Incorrecto. en / por -->
+
+- [x] B) a / con <!-- feedback: Correcto! a / con -->
+
+- [ ] C) de / sin <!-- feedback: Incorrecto. de / sin -->
+
+- [ ] D) por / ante <!-- feedback: Incorrecto. por / ante -->
 
 ### Explicación Pedagogica
 Saber elegir la preposición adecuada garantiza que el receptor entienda la intención exacta del mensaje.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -134,21 +132,20 @@ Saber elegir la preposición adecuada garantiza que el receptor entienda la inte
 "Esa maleta es ________ mi hermano y la trajo ________ su casa". ¿Qué palabras faltan?
 
 ### Opciones
-- [ ] A) con / para
-  <!-- feedback: No indica posesión ni origen. -->
-- [ ] B) a / por
-  <!-- feedback: No concuerda con el sentido de la frase. -->
-- [x] C) de / desde
-  <!-- feedback: ¡Así es! "De" indica posesión (pertenencia) y "desde" indica el origen del trayecto. -->
-- [ ] D) ante / cabe
-  <!-- feedback: "Cabe" es una preposición antigua y no encaja aquí. -->
+- [ ] A) con / para <!-- feedback: Incorrecto. con / para -->
+
+- [ ] B) a / por <!-- feedback: Incorrecto. a / por -->
+
+- [x] C) de / desde <!-- feedback: Correcto! de / desde -->
+
+- [ ] D) ante / cabe <!-- feedback: Incorrecto. ante / cabe -->
 
 ### Explicación Pedagogica
 Las preposiciones permiten construir oraciones complejas uniendo sustantivos con sus complementos de forma lógica.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -159,21 +156,20 @@ Las preposiciones permiten construir oraciones complejas uniendo sustantivos con
 "El barco viaja **por** el río **entre** las montañas **hacia** el mar". ¿Cuántas preposiciones hay en la frase?
 
 ### Opciones
-- [ ] A) Una.
-  <!-- feedback: Hay más de una. -->
-- [ ] B) Dos.
-  <!-- feedback: Hay tres. -->
-- [x] C) Tres.
-  <!-- feedback: ¡Exacto! Por, entre y hacia son las tres preposiciones que relacionan el viaje. -->
-- [ ] D) Cuatro.
-  <!-- feedback: Solo hay tres preposiciones. -->
+- [ ] A) Una. <!-- feedback: Incorrecto. Una. -->
+
+- [ ] B) Dos. <!-- feedback: Incorrecto. Dos. -->
+
+- [x] C) Tres. <!-- feedback: Correcto! Tres. -->
+
+- [ ] D) Cuatro. <!-- feedback: Incorrecto. Cuatro. -->
 
 ### Explicación Pedagogica
 Analizar textos breves permite reconocer la densidad de elementos de enlace necesarios para dar precisión espacial al relato.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -184,21 +180,20 @@ Analizar textos breves permite reconocer la densidad de elementos de enlace nece
 Si un objeto está escondido, solemos decir que está ________ la mesa. Si está a la vista encima de ella, decimos que está ________ la mesa.
 
 ### Opciones
-- [ ] A) con / sin
-  <!-- feedback: No indican posición física vertical. -->
-- [x] B) bajo / sobre
-  <!-- feedback: ¡Muy bien! Son preposiciones de ubicación espacial opuestas. -->
-- [ ] C) ante / tras
-  <!-- feedback: Indican frente a o detrás de. -->
-- [ ] D) de / a
-  <!-- feedback: No son precisas para la altura. -->
+- [ ] A) con / sin <!-- feedback: Incorrecto. con / sin -->
+
+- [x] B) bajo / sobre <!-- feedback: Correcto! bajo / sobre -->
+
+- [ ] C) ante / tras <!-- feedback: Incorrecto. ante / tras -->
+
+- [ ] D) de / a <!-- feedback: Incorrecto. de / a -->
 
 ### Explicación Pedagogica
 El dominio de las preposiciones espaciales es clave para la descripción técnica y literaria.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -209,21 +204,20 @@ El dominio de las preposiciones espaciales es clave para la descripción técnic
 ¿Qué frase está MAL escrita según el uso correcto de las preposiciones en español?
 
 ### Opciones
-- [ ] A) Vaso de agua.
-  <!-- feedback: Es correcto, indica el contenido. -->
-- [ ] B) Pastillas para la tos.
-  <!-- feedback: Es correcto, indica la finalidad. -->
-- [x] C) Cocina a gas.
-  <!-- feedback: Aunque se usa mucho, lo correcto es "cocina de gas". (Nota pedagógica para nivel avanzado de primaria). -->
-- [ ] D) Comida con sal.
-  <!-- feedback: Es correcto. -->
+- [ ] A) Vaso de agua. <!-- feedback: Incorrecto. Vaso de agua. -->
+
+- [ ] B) Pastillas para la tos. <!-- feedback: Incorrecto. Pastillas para la tos. -->
+
+- [x] C) Cocina a gas. <!-- feedback: Correcto! Cocina a gas. -->
+
+- [ ] D) Comida con sal. <!-- feedback: Incorrecto. Comida con sal. -->
 
 ### Explicación Pedagogica
 Existen usos de preposiciones influenciados por otros idiomas o costumbres que debemos pulir para hablar con propiedad.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -234,21 +228,20 @@ Existen usos de preposiciones influenciados por otros idiomas o costumbres que d
 ¿Cuál es la diferencia entre "Vengo **de** Bogotá" y "Voy **a** Bogotá"?
 
 ### Opciones
-- [ ] A) No hay ninguna diferencia.
-  <!-- feedback: Sí la hay, la dirección cambia totalmente. -->
-- [ ] B) Una es más elegante que la otra.
-  <!-- feedback: No es cuestión de elegancia. -->
-- [x] C) "De" indica el lugar de salida y "a" indica el lugar de llegada.
-  <!-- feedback: ¡Excelente! Las preposiciones definen la dirección de la acción. -->
-- [ ] D) Las dos significan que estoy en Bogotá ahora mismo.
-  <!-- feedback: No, ambas indican movimiento hacia o desde el lugar. -->
+- [ ] A) No hay ninguna diferencia. <!-- feedback: Incorrecto. No hay ninguna diferencia. -->
+
+- [ ] B) Una es más elegante que la otra. <!-- feedback: Incorrecto. Una es más elegante que la otra. -->
+
+- [x] C) "De" indica el lugar de salida y "a" indica el lugar de llegada. <!-- feedback: Correcto! "De" indica el lugar de salida y "a" indica el lugar de lleg -->
+
+- [ ] D) Las dos significan que estoy en Bogotá ahora mismo. <!-- feedback: Incorrecto. Las dos significan que estoy en Bogotá a -->
 
 ### Explicación Pedagogica
 La comprensión de los matices semánticos de las preposiciones es vital para la interpretación de itinerarios y procesos.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -259,14 +252,13 @@ La comprensión de los matices semánticos de las preposiciones es vital para la
 ¿Cuál de estas frases usa correctamente las preposiciones para indicar el horario?
 
 ### Opciones
-- [ ] A) La fiesta es en la tarde por las cinco.
-  <!-- feedback: "Por" no es la preposición adecuada para la hora exacta. -->
-- [x] B) Te espero **desde** las cuatro **hasta** las ocho de la noche.
-  <!-- feedback: ¡Muy bien! Usa preposiciones que marcan el inicio y el fin del tiempo. -->
-- [ ] C) Venir de las cuatro para las ocho.
-  <!-- feedback: Uso incorrecto de las preposiciones para un intervalo. -->
-- [ ] D) La fiesta es ante las cuatro bajo las ocho.
-  <!-- feedback: No tiene sentido temporal. -->
+- [ ] A) La fiesta es en la tarde por las cinco. <!-- feedback: Incorrecto. La fiesta es en la tarde por las cinco. -->
+
+- [x] B) Te espero **desde** las cuatro **hasta** las ocho de la noche. <!-- feedback: Correcto! Te espero desde las cuatro hasta las ocho de la noche. -->
+
+- [ ] C) Venir de las cuatro para las ocho. <!-- feedback: Incorrecto. Venir de las cuatro para las ocho. -->
+
+- [ ] D) La fiesta es ante las cuatro bajo las ocho. <!-- feedback: Incorrecto. La fiesta es ante las cuatro bajo las oc -->
 
 ### Explicación Pedagogica
 La expresión correcta de intervalos temporales requiere el uso coordinado de preposiciones de inicio y término (de... a, desde... hasta).

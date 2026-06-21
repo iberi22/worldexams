@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY"
+id: "CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lengua-castellana"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 8
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W01 — Homónimos y Homófonos
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-v1`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** I.E. Antonio Nariño en Villa de Leyva
+**Contexto:** I.E. Antonio Nariño en Villa de Leyva
 **Expected_Success:** 0.75
 
 ### Enunciado
 En la clase de Lengua Castellana de la I.E. Antonio Nariño, el profesor Carlos escribe en el tablero: "El campesino usó la **hoz** para cortar el trigo, mientras que en la distancia se escuchaba una **voz** fuerte". ¿Qué relación tienen las palabras resaltadas?
 
-### Options
+### Opciones
 - [ ] A) Son palabras sinónimas porque significan lo mismo. <!-- feedback: Incorrecto. Una hoz es una herramienta y una voz es un sonido humano; no significan lo mismo. -->
 - [ ] B) Son palabras antónimas porque tienen significados opuestos. <!-- feedback: Incorrecto. No son significados opuestos, son simplemente palabras distintas con sonidos parecidos. -->
 - [x] C) Son palabras homófonas porque suenan igual (o muy parecido en nuestra región) pero se escriben diferente. <!-- feedback: Correcto. En el español de Colombia, la 'z' se pronuncia igual que la 's', por lo que hoz y voz suenan de forma similar y se diferencian por su escritura y significado. -->
@@ -46,13 +51,13 @@ Las palabras homófonas son aquellas que se escuchan igual pero su escritura y s
 **ID:** `CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** Una tienda de artesanías en Ráquira, Boyacá
+**Contexto:** Una tienda de artesanías en Ráquira, Boyacá
 **Expected_Success:** 0.80
 
 ### Enunciado
 Mariana está en Ráquira y quiere comprar una **vasija** de barro. Su abuelo le dice: "Esa vasija está muy **bella**, pero ten cuidado porque es de **vello** delicado (refiriéndose a una pequeña pelusa decorativa)". ¿Cuál es la diferencia entre "bella" y "vello"?
 
-### Options
+### Opciones
 - [x] A) "Bella" se refiere a la belleza (hermosura) y "vello" se refiere al pelo corto y fino. <!-- feedback: Correcto. Esta es la distinción exacta entre estas dos palabras homófonas. -->
 - [ ] B) Ambas significan lo mismo y se pueden usar indistintamente. <!-- feedback: Incorrecto. Cambiar la 'b' por 'v' en estas palabras cambia totalmente el significado. -->
 - [ ] C) "Bella" es una herramienta de cocina y "vello" es una planta. <!-- feedback: Incorrecto. Ninguna de las definiciones corresponde a los términos presentados. -->
@@ -68,13 +73,13 @@ Diferenciar entre 'b' y 'v' es fundamental para comprender el significado de pal
 **ID:** `CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Un paseo familiar al río Pance en Cali
+**Contexto:** Un paseo familiar al río Pance en Cali
 **Expected_Success:** 0.70
 
 ### Enunciado
 La familia de Juan está de paseo en el río Pance. Juan dice: "Voy a **votar** la basura en el lugar correcto", pero su hermana lo corrige y le dice: "Se dice **botar**, porque **votar** es lo que hacen los adultos en las elecciones". ¿Por qué la hermana tiene razón?
 
-### Options
+### Opciones
 - [ ] A) Porque "votar" solo se escribe con 'v' cuando se habla de basura. <!-- feedback: Incorrecto. Es al revés: "botar" con 'b' es arrojar o lanzar. -->
 - [x] B) Porque "botar" con 'b' significa arrojar y "votar" con 'v' significa dar un voto. <!-- feedback: Correcto. Esta es la diferencia fundamental entre estos dos homófonos muy comunes en Colombia. -->
 - [ ] C) Porque en Colombia siempre se escribe con 'b' sin importar el significado. <!-- feedback: Incorrecto. La ortografía sigue las reglas de la Real Academia Española. -->
@@ -90,13 +95,13 @@ El par homófono botar/votar es uno de los más frecuentes. Identificar el conte
 **ID:** `CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Preparación de una receta de arepas en una cocina de Antioquia
+**Contexto:** Preparación de una receta de arepas en una cocina de Antioquia
 **Expected_Success:** 0.65
 
 ### Enunciado
 En una cocina en Envigado, la abuela dice: "Mijo, primero hay que **cocer** bien el maíz y luego **coser** el delantal que se rompió". ¿Qué indican las palabras resaltadas sobre las acciones que se deben realizar?
 
-### Options
+### Opciones
 - [ ] A) Que ambas acciones se hacen con una aguja e hilo. <!-- feedback: Incorrecto. Cocer el maíz no requiere aguja e hilo. -->
 - [ ] B) Que ambas acciones se hacen en la estufa con agua caliente. <!-- feedback: Incorrecto. Coser el delantal no requiere estufa. -->
 - [x] C) Que la primera es cocinar alimentos y la segunda es unir tela con hilo. <!-- feedback: Correcto. "Cocer" (con C) viene de cocina/calor, y "coser" (con S) viene de costura. -->
@@ -112,13 +117,13 @@ La distinción entre "cocer" y "coser" es vital en textos instructivos y recetas
 **ID:** `CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** Un partido de fútbol en el Estadio Metropolitano de Barranquilla
+**Contexto:** Un partido de fútbol en el Estadio Metropolitano de Barranquilla
 **Expected_Success:** 0.68
 
 ### Enunciado
 Durante un partido en Barranquilla, el narrador dice: "El jugador tiene un gran **as** bajo la manga, es un verdadero **has** del balón". Si analizamos la frase, hay un error. ¿Cuál es la forma correcta de referirse a un campeón o alguien excelente en algo?
 
-### Options
+### Opciones
 - [x] A) Se debe usar **as**, que significa campeón o carta de la baraja. <!-- feedback: Correcto. "As" (sin h y con s) se refiere a la persona que sobresale. -->
 - [ ] B) Se debe usar **has**, que viene del verbo haber. <!-- feedback: Incorrecto. "Has" es una forma verbal (ej: has jugado), no un sustantivo para campeones. -->
 - [ ] C) Se debe usar **haz**, que es una orden del verbo hacer. <!-- feedback: Incorrecto. "Haz" se usa para imperativos (ej: haz la tarea) o para un conjunto de rayos de luz. -->
@@ -134,13 +139,13 @@ El trío as/has/haz suele confundir a los estudiantes. "As" como sustantivo (cam
 **ID:** `CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** Una excursión al Parque Nacional Natural Tayrona
+**Contexto:** Una excursión al Parque Nacional Natural Tayrona
 **Expected_Success:** 0.62
 
 ### Enunciado
 Un guía en el Tayrona explica: "Deben tener cuidado con esa **baya** silvestre, no la coman. Y por favor, no salten la **valla** de protección". ¿Cómo se clasifican estas palabras?
 
-### Options
+### Opciones
 - [ ] A) Como sinónimos de peligro. <!-- feedback: Incorrecto. No son sinónimos, una es un fruto y la otra una cerca. -->
 - [x] B) Como homófonas, porque suenan igual pero "baya" es fruto y "valla" es una cerca. <!-- feedback: Correcto. La distinción entre B/V y Y/LL es clave en este par. -->
 - [ ] C) Como homógrafas, porque se escriben exactamente igual. <!-- feedback: Incorrecto. Se escriben diferente (baya vs valla). -->
@@ -156,13 +161,13 @@ Este ejercicio refuerza la ortografía de palabras que contienen grafemas con so
 **ID:** `CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Una noticia sobre el clima en el Nevado del Ruiz
+**Contexto:** Una noticia sobre el clima en el Nevado del Ruiz
 **Expected_Success:** 0.55
 
 ### Enunciado
 Lee el siguiente titular: "Se espera que **hacia** el mediodía, el viento **asía** con fuerza las nubes frías del nevado". ¿Cuál de las palabras está mal empleada según el contexto de dirección y tiempo?
 
-### Options
+### Opciones
 - [ ] A) "Hacia" está mal, debería ser "Asia" (el continente). <!-- feedback: Incorrecto. "Hacia" es la preposición correcta para indicar dirección o tiempo aproximado. -->
 - [x] B) "Asía" está mal, pues se refiere a agarrar algo; lo correcto sería no usar esa palabra sino una acción climática. <!-- feedback: Correcto. "Asía" viene del verbo asir (agarrar), lo cual no encaja con el viento y las nubes en este contexto. -->
 - [ ] C) Ambas están bien escritas y usadas. <!-- feedback: Incorrecto. Hay una incoherencia semántica con "asía". -->
@@ -178,13 +183,13 @@ Este nivel requiere que el estudiante no solo identifique el sonido, sino que an
 **ID:** `CO-LEN-4-2026-W01-homonimos-homofonos-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** Redacción de un cuento sobre la historia de Cartagena de Indias
+**Contexto:** Redacción de un cuento sobre la historia de Cartagena de Indias
 **Expected_Success:** 0.58
 
 ### Enunciado
 Un estudiante escribe: "El pirata llegó a la **cresta** de la ola y sintió que su **cresta** de gallo en el sombrero se movía". ¿Qué fenómeno ocurre con la palabra "cresta" en este caso?
 
-### Options
+### Opciones
 - [ ] A) Es una palabra homófona porque suena igual pero se escribe diferente. <!-- feedback: Incorrecto. Se escriben exactamente igual, por lo que no es solo homófona. -->
 - [x] B) Es una palabra homónima (específicamente homógrafa), porque se escribe igual pero tiene varios significados relacionados o distintos. <!-- feedback: Correcto. "Cresta" puede ser la parte superior de una ola o el apéndice de un ave. -->
 - [ ] C) Es un error ortográfico, debe usar palabras diferentes. <!-- feedback: Incorrecto. El uso de la misma palabra para diferentes significados es una riqueza del lenguaje. -->

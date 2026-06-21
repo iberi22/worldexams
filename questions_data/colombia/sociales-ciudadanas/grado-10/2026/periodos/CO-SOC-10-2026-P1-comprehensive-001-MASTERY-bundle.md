@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-10-2026-P1-comprehensive-001-MASTERY"
+id: "CO-SOC-10-2026-P1-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 10
 asignatura: "sociales-ciudadanas"
@@ -14,13 +14,18 @@ distractor_profile: "plausible_peer_set"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 20
+year: 2026
+creador: "Jules-Agent"
 ---
+
 # Bundle MASTERY: Filosofia Politica, Colombia Contemporanea (P1)
 
 ## Question 1 (D3)
 **ID:** CO-SOC-10-2026-P1-comprehensive-001-MASTERY-v1
 **Bloom:** Remember | **ICFES:** Pensamiento social
-**Context:** En clase de sociales en un colegio de Ibague.
+**Contexto:** En clase de sociales en un colegio de Ibague.
 **Enunciado:** Segun la Constitucion Politica de Colombia de 1991, Colombia es:
 **Options:**
 - [x] A) Un Estado social de derecho.
@@ -31,7 +36,7 @@ tier: "legacy"
 ## Question 2 (D3)
 **ID:** CO-SOC-10-2026-P1-comprehensive-001-MASTERY-v2
 **Bloom:** Remember | **ICFES:** Pensamiento social
-**Context:** En clase de filosofia politica.
+**Contexto:** En clase de filosofia politica.
 **Enunciado:** El "contrato social" segun Rousseau propone que:
 **Options:**
 - [ ] A) El rey tiene poder absoluto.
@@ -42,7 +47,7 @@ tier: "legacy"
 ## Question 3 (D4)
 **ID:** CO-SOC-10-2026-P1-comprehensive-001-MASTERY-v3
 **Bloom:** Apply | **ICFES:** Pensamiento social
-**Context:** Texto: "La Constitucion de 1991 creo la tutela como mecanismo para proteger los derechos fundamentales. Cualquier persona puede interponerla cuando sienta vulnerados sus derechos."
+**Contexto:** Texto: "La Constitucion de 1991 creo la tutela como mecanismo para proteger los derechos fundamentales. Cualquier persona puede interponerla cuando sienta vulnerados sus derechos."
 **Enunciado:** Un ejemplo de aplicacion de la tutela seria:
 **Options:**
 - [ ] A) Quejarse de un vecino ruidoso.
@@ -53,7 +58,7 @@ tier: "legacy"
 ## Question 4 (D4)
 **ID:** CO-SOC-10-2026-P1-comprehensive-001-MASTERY-v4
 **Bloom:** Understand | **ICFES:** Pensamiento social
-**Context:** "Platon en 'La Republica' propone que los filosofos deben gobernar porque conocen la verdad."
+**Contexto:** "Platon en 'La Republica' propone que los filosofos deben gobernar porque conocen la verdad."
 **Enunciado:** Esta idea se conoce como:
 **Options:**
 - [ ] A) Democracia participativa.
@@ -64,7 +69,7 @@ tier: "legacy"
 ## Question 5 (D5)
 **ID:** CO-SOC-10-2026-P1-comprehensive-001-MASTERY-v5
 **Bloom:** Apply | **ICFES:** Interpretacion y analisis de perspectivas
-**Context:** "El Acuerdo de Paz de 2016 entre el gobierno colombiano y las FARC creo la Jurisdiccion Especial para la Paz (JEP)."
+**Contexto:** "El Acuerdo de Paz de 2016 entre el gobierno colombiano y las FARC creo la Jurisdiccion Especial para la Paz (JEP)."
 **Enunciado:** La JEP tiene como funcion:
 **Options:**
 - [ ] A) Juzgar a todos los delincuentes comunes.
@@ -75,7 +80,7 @@ tier: "legacy"
 ## Question 6 (D5)
 **ID:** CO-SOC-10-2026-P1-comprehensive-001-MASTERY-v6
 **Bloom:** Analyze | **ICFES:** Interpretacion y analisis de perspectivas
-**Context:** "John Locke defendia la propiedad privada como derecho natural. Marx la criticaba como origen de la explotacion."
+**Contexto:** "John Locke defendia la propiedad privada como derecho natural. Marx la criticaba como origen de la explotacion."
 **Enunciado:** La diferencia central entre Locke y Marx es:
 **Options:**
 - [ ] A) Ambos estaban de acuerdo.
@@ -86,7 +91,7 @@ tier: "legacy"
 ## Question 7 (D5)
 **ID:** CO-SOC-10-2026-P1-comprehensive-001-MASTERY-v7
 **Bloom:** Apply | **ICFES:** Pensamiento social
-**Context:** "Colombia tiene tres ramas del poder publico."
+**Contexto:** "Colombia tiene tres ramas del poder publico."
 **Enunciado:** Cuales son?
 **Options:**
 - [ ] A) Ejecutiva, judicial y militar.
@@ -97,7 +102,7 @@ tier: "legacy"
 ## Question 8 (D6)
 **ID:** CO-SOC-10-2026-P1-comprehensive-001-MASTERY-v8
 **Bloom:** Analyze | **ICFES:** Interpretacion y analisis de perspectivas
-**Context:** Texto: "Colombia es una democracia representativa pero con mecanismos de participacion directa como el referendo, el plebiscito y la consulta popular."
+**Contexto:** Texto: "Colombia es una democracia representativa pero con mecanismos de participacion directa como el referendo, el plebiscito y la consulta popular."
 **Enunciado:** Un plebiscito es:
 **Options:**
 - [ ] A) La eleccion de presidente.
@@ -108,7 +113,7 @@ tier: "legacy"
 ## Question 9 (D6)
 **ID:** CO-SOC-10-2026-P1-comprehensive-001-MASTERY-v9
 **Bloom:** Apply | **ICFES:** Pensamiento social
-**Context:** Texto: "La globalizacion ha transformado la soberania de los estados-nacion."
+**Contexto:** Texto: "La globalizacion ha transformado la soberania de los estados-nacion."
 **Enunciado:** La "soberania" se refiere a:
 **Options:**
 - [ ] A) La capacidad de un pais de comprar productos extranjeros.
@@ -119,7 +124,7 @@ tier: "legacy"
 ## Question 10 (D6)
 **ID:** CO-SOC-10-2026-P1-comprehensive-001-MASTERY-v10
 **Bloom:** Understand | **ICFES:** Pensamiento social
-**Context:** "Maquiavelo en 'El Principe' sostiene que el fin justifica los medios."
+**Contexto:** "Maquiavelo en 'El Principe' sostiene que el fin justifica los medios."
 **Enunciado:** Esta frase se interpreta como:
 **Options:**
 - [ ] A) Cualquier accion esta permitida siempre.
@@ -130,7 +135,7 @@ tier: "legacy"
 ## Question 11 (D7)
 **ID:** CO-SOC-10-2026-P1-comprehensive-001-MASTERY-v11
 **Bloom:** Analyze | **ICFES:** Interpretacion y analisis de perspectivas
-**Context:** Texto: "La movilizacion social del Paro Nacional de 2021 en Colombia evidencio el descontento con la reforma tributaria y las politicas del gobierno Duque."
+**Contexto:** Texto: "La movilizacion social del Paro Nacional de 2021 en Colombia evidencio el descontento con la reforma tributaria y las politicas del gobierno Duque."
 **Enunciado:** Las movilizaciones sociales en democracia son:
 **Options:**
 - [ ] A) Actos ilegales que deben reprimirse.
@@ -141,7 +146,7 @@ tier: "legacy"
 ## Question 12 (D7)
 **ID:** CO-SOC-10-2026-P1-comprehensive-001-MASTERY-v12
 **Bloom:** Evaluate | **ICFES:** Interpretacion y analisis de perspectivas
-**Context:** "Hobbes describe el estado de naturaleza como 'la guerra de todos contra todos', donde la vida es solitaria, pobre, desagradable, brutal y corta."
+**Contexto:** "Hobbes describe el estado de naturaleza como 'la guerra de todos contra todos', donde la vida es solitaria, pobre, desagradable, brutal y corta."
 **Enunciado:** Para Hobbes, el Estado surge para:
 **Options:**
 - [ ] A) Maximizar la libertad individual.
@@ -152,7 +157,7 @@ tier: "legacy"
 ## Question 13 (D7)
 **ID:** CO-SOC-10-2026-P1-comprehensive-001-MASTERY-v13
 **Bloom:** Evaluate | **ICFES:** Pensamiento social
-**Context:** "Las regalias del petroleo y la mineria en Colombia deben distribuirse entre las regiones productoras y el gobierno central."
+**Contexto:** "Las regalias del petroleo y la mineria en Colombia deben distribuirse entre las regiones productoras y el gobierno central."
 **Enunciado:** El Sistema General de Regalias busca:
 **Options:**
 - [ ] A) Beneficiar solo a las empresas extractivas.
@@ -163,7 +168,7 @@ tier: "legacy"
 ## Question 14 (D8)
 **ID:** CO-SOC-10-2026-P1-comprehensive-001-MASTERY-v14
 **Bloom:** Evaluate | **ICFES:** Interpretacion y analisis de perspectivas
-**Context:** Texto: "La Ley 1448 de 2011 (Ley de Victimas) reconoce y repara a las victimas del conflicto armado en Colombia."
+**Contexto:** Texto: "La Ley 1448 de 2011 (Ley de Victimas) reconoce y repara a las victimas del conflicto armado en Colombia."
 **Enunciado:** Esta ley es importante porque:
 **Options:**
 - [x] A) Reconocimiento oficial del sufrimiento de las victimas y establece medidas de reparacion.
@@ -174,7 +179,7 @@ tier: "legacy"
 ## Question 15 (D8)
 **ID:** CO-SOC-10-2026-P1-comprehensive-001-MASTERY-v15
 **Bloom:** Evaluate | **ICFES:** Interpretacion y analisis de perspectivas
-**Context:** "Montesquieu propuso la separacion de poderes como garantia contra el abuso. Su modelo inspiro las constituciones modernas."
+**Contexto:** "Montesquieu propuso la separacion de poderes como garantia contra el abuso. Su modelo inspiro las constituciones modernas."
 **Enunciado:** La separacion de poderes evita:
 **Options:**
 - [ ] A) La eficiencia del gobierno.
@@ -185,7 +190,7 @@ tier: "legacy"
 ## Question 16 (D8)
 **ID:** CO-SOC-10-2026-P1-comprehensive-001-MASTERY-v16
 **Bloom:** Analyze | **ICFES:** Pensamiento social
-**Context:** "Colombia experimento el fenomeno del 'clientelismo' donde los votantes intercambian votos por favores."
+**Contexto:** "Colombia experimento el fenomeno del 'clientelismo' donde los votantes intercambian votos por favores."
 **Enunciado:** El clientelismo es problematico porque:
 **Options:**
 - [ ] A) Fortalece la democracia.
@@ -196,7 +201,7 @@ tier: "legacy"
 ## Question 17 (D9)
 **ID:** CO-SOC-10-2026-P1-comprehensive-001-MASTERY-v17
 **Bloom:** Create | **ICFES:** Pensamiento social
-**Context:** Se debe proponer una solucion para aumentar la participacion politica juvenil en Colombia.
+**Contexto:** Se debe proponer una solucion para aumentar la participacion politica juvenil en Colombia.
 **Enunciado:** Cual propuesta seria mas efectiva?
 **Options:**
 - [ ] A) Obligar a votar a los jovenes.
@@ -207,7 +212,7 @@ tier: "legacy"
 ## Question 18 (D9)
 **ID:** CO-SOC-10-2026-P1-comprehensive-001-MASTERY-v18
 **Bloom:** Evaluate | **ICFES:** Interpretacion y analisis de perspectivas
-**Context:** Texto: "La teoria de la justicia de Rawls sostiene que las desigualdades solo se justifican si benefician a los mas desfavorecidos (principio de diferencia)."
+**Contexto:** Texto: "La teoria de la justicia de Rawls sostiene que las desigualdades solo se justifican si benefician a los mas desfavorecidos (principio de diferencia)."
 **Enunciado:** Aplicado a Colombia, este principio justificaria:
 **Options:**
 - [ ] A) Que los ricos paguen menos impuestos.
@@ -218,7 +223,7 @@ tier: "legacy"
 ## Question 19 (D9)
 **ID:** CO-SOC-10-2026-P1-comprehensive-001-MASTERY-v19
 **Bloom:** Create | **ICFES:** Pensamiento social
-**Context:** Un estudiante analiza la polarizacion politica en Colombia durante las elecciones.
+**Contexto:** Un estudiante analiza la polarizacion politica en Colombia durante las elecciones.
 **Enunciado:** La polarizacion puede tener efectos negativos porque:
 **Options:**
 - [ ] A) Genera debate sano.
@@ -229,7 +234,7 @@ tier: "legacy"
 ## Question 20 (D10)
 **ID:** CO-SOC-10-2026-P1-comprehensive-001-MASTERY-v20
 **Bloom:** Evaluate | **ICFES:** Interpretacion y analisis de perspectivas
-**Context:** "Hannah Arendt distinguia entre poder (capacidad colectiva de actuar en concierto) y violencia (instrumento para imponer voluntad). Para ella, cuando un gobierno recurre a la violencia, revela que ha perdido el poder."
+**Contexto:** "Hannah Arendt distinguia entre poder (capacidad colectiva de actuar en concierto) y violencia (instrumento para imponer voluntad). Para ella, cuando un gobierno recurre a la violencia, revela que ha perdido el poder."
 **Enunciado:** Segun Arendt, la diferencia entre poder y violencia es:
 **Options:**
 - [ ] A) Son sinonimos.

@@ -1,28 +1,32 @@
 ---
-id: "CO-LEN-6-2026-W01-mito-leyenda-001-MASTERY"
+id: "CO-LEN-6-2026-W01-mito-leyenda-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lengua"
 tema: "mito-leyenda"
-semana: "W01"
+week: "W01"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Mito y Leyenda - Grado 6
 ## Semana W01
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEN-6-2026-W01-mito-leyenda-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En la clase de Lengua Castellana del Colegio Rafael Uribe Uribe en Bogotá, la profesora Claudia explica que los mitos y las leyendas son narraciones tradicionales que se transmiten de generación en generación.
+**Contexto:** En la clase de Lengua Castellana del Colegio Rafael Uribe Uribe en Bogotá, la profesora Claudia explica que los mitos y las leyendas son narraciones tradicionales que se transmiten de generación en generación.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Los mitos son relatos sagrados que explican el origen del universo, la humanidad
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEN-6-2026-W01-mito-leyenda-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En Sincelejo, los estudiantes de grado sexto de la Institución Educativa Normal Superior están estudiando las leyendas de la región Caribe.
+**Contexto:** En Sincelejo, los estudiantes de grado sexto de la Institución Educativa Normal Superior están estudiando las leyendas de la región Caribe.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -60,11 +64,11 @@ Las leyendas se caracterizan por combinar un hecho histórico real —como la gu
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEN-6-2026-W01-mito-leyenda-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En la Biblioteca Pública de Medellín, un taller de tradición oral presenta el mito Muisca de Bochica.
+**Contexto:** En la Biblioteca Pública de Medellín, un taller de tradición oral presenta el mito Muisca de Bochica.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ Los mitos cumplen una función social y cultural fundamental: transmiten conocim
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEN-6-2026-W01-mito-leyenda-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** Los estudiantes de grado sexto en la Institución Educativa San José de Cúcuta deben clasificar varios relatos tradicionales.
+**Contexto:** Los estudiantes de grado sexto en la Institución Educativa San José de Cúcuta deben clasificar varios relatos tradicionales.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -102,11 +106,11 @@ Colombia tiene leyendas propias como El Mohán (Tolima, Magdalena), La Patasola 
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEN-6-2026-W01-mito-leyenda-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En Pereira, la profesora Angélica pide analizar por qué los mitos y leyendas cambian al contarse en distintas regiones.
+**Contexto:** En Pereira, la profesora Angélica pide analizar por qué los mitos y leyendas cambian al contarse en distintas regiones.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -123,11 +127,11 @@ La tradición oral es dinámica: al transmitirse de generación en generación y
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LEN-6-2026-W01-mito-leyenda-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la Institución Educativa Técnica de Tunja, los estudiantes analizan las características de los mitos fundacionales.
+**Contexto:** En la Institución Educativa Técnica de Tunja, los estudiantes analizan las características de los mitos fundacionales.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ Los mitos se clasifican según su contenido. Los cosmogónicos narran el origen 
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LEN-6-2026-W01-mito-leyenda-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En Cartagena, los estudiantes del Colegio La Salle preparan una exposición sobre leyendas colombianas para la feria cultural.
+**Contexto:** En Cartagena, los estudiantes del Colegio La Salle preparan una exposición sobre leyendas colombianas para la feria cultural.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -165,11 +169,11 @@ Las leyendas son flexibles: pueden adaptarse al contexto cultural de cada regió
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEN-6-2026-W01-mito-leyenda-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Los estudiantes del grado sexto en la Institución Educativa INEM de Pasto analizan la función social de los mitos en la actualidad.
+**Contexto:** Los estudiantes del grado sexto en la Institución Educativa INEM de Pasto analizan la función social de los mitos en la actualidad.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -186,11 +190,11 @@ Los mitos indígenas colombianos son patrimonio cultural inmaterial del país. P
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEN-6-2026-W01-mito-leyenda-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** En Manizales, un debate escolar discute si las leyendas urbanas modernas (como la del "Hombre del Costal" en las ciudades) deben considerarse leyendas tradicionales.
+**Contexto:** En Manizales, un debate escolar discute si las leyendas urbanas modernas (como la del "Hombre del Costal" en las ciudades) deben considerarse leyendas tradicionales.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ Las leyendas no son solo del pasado. Las leyendas urbanas modernas cumplen las m
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEN-6-2026-W01-mito-leyenda-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Los estudiantes de grado sexto en la Institución Educativa Alfonso López de Bucaramanga deben redactar su propia leyenda basada en su barrio.
+**Contexto:** Los estudiantes de grado sexto en la Institución Educativa Alfonso López de Bucaramanga deben redactar su propia leyenda basada en su barrio.
 **Expected_Success:** 0.50
 
 ### Enunciado

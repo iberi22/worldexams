@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W20-sistema-respiratorio-001-MASTERY"
+id: "CO-CIE-6-2026-W20-sistema-respiratorio-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W20 — Sistema Respiratorio
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W20-sistema-respiratorio-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, inician el estudio del sistema respiratorio.
+**Contexto:** En Bogotá, inician el estudio del sistema respiratorio.
 
 ### Enunciado
 ¿Cuál es la función principal del sistema respiratorio?
 
-### Options
+### Opciones
 - [ ] A) Bombear sangre <!-- feedback: Es función del circulatorio. -->
 - [ ] B) Digerir alimentos <!-- feedback: Es función del digestivo. -->
 - [x] C) Intercambiar gases (O2 y CO2) entre el cuerpo y el ambiente <!-- feedback: Correcto. -->
@@ -48,13 +51,14 @@ El sistema respiratorio captura oxígeno del aire y elimina dióxido de carbono.
 
 **ID:** `CO-CIE-6-2026-W20-sistema-respiratorio-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, identifican los órganos respiratorios.
+**Contexto:** En Medellín, identifican los órganos respiratorios.
 
 ### Enunciado
 ¿Dónde ocurre el intercambio de gases en los pulmones?
 
-### Options
+### Opciones
 - [ ] A) En la tráquea <!-- feedback: La tráquea conduce el aire. -->
 - [ ] B) En los bronquios <!-- feedback: Conducen el aire a los pulmones. -->
 - [x] C) En los alvéolos pulmonares <!-- feedback: Correcto. -->
@@ -69,13 +73,14 @@ Los alvéolos son pequeños sacos (300-500 millones) rodeados de capilares sangu
 
 **ID:** `CO-CIE-6-2026-W20-sistema-respiratorio-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, estudian la mecánica respiratoria.
+**Contexto:** En Cali, estudian la mecánica respiratoria.
 
 ### Enunciado
 ¿Qué músculo es el principal responsable de la inhalación?
 
-### Options
+### Opciones
 - [ ] A) El bíceps <!-- feedback: Es del brazo. -->
 - [ ] B) El corazón <!-- feedback: Es del circulatorio, no músculo esquelético. -->
 - [x] C) El diafragma <!-- feedback: Correcto. -->
@@ -90,13 +95,14 @@ El diafragma es un músculo en forma de domo debajo de los pulmones. Al inhalar,
 
 **ID:** `CO-CIE-6-2026-W20-sistema-respiratorio-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, explican la diferencia entre respiración pulmonar y celular.
+**Contexto:** En Barranquilla, explican la diferencia entre respiración pulmonar y celular.
 
 ### Enunciado
 ¿Cuál es la diferencia entre respiración pulmonar y respiración celular?
 
-### Options
+### Opciones
 - [ ] A) Son lo mismo <!-- feedback: Son procesos diferentes. -->
 - [ ] B) La pulmonar ocurre en las células <!-- feedback: Al revés. -->
 - [x] C) La pulmonar intercambia gases en los pulmones; la celular usa oxígeno en las mitocondrias para producir energía <!-- feedback: Correcto. -->
@@ -111,13 +117,14 @@ La respiración pulmonar (ventilación) mueve aire dentro y fuera de los pulmone
 
 **ID:** `CO-CIE-6-2026-W20-sistema-respiratorio-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, aplican sobre contaminación del aire.
+**Contexto:** En Bucaramanga, aplican sobre contaminación del aire.
 
 ### Enunciado
 ¿Por qué la contaminación del aire en Bogotá afecta más a niños y ancianos?
 
-### Options
+### Opciones
 - [ ] A) Porque respiran más lento <!-- feedback: Los niños respiran más rápido. -->
 - [ ] B) Porque sus pulmones no se enferman <!-- feedback: Son más vulnerables. -->
 - [x] C) Porque sus sistemas respiratorio e inmunológico son más vulnerables, y tienen mayor frecuencia respiratoria <!-- feedback: Correcto. -->
@@ -132,13 +139,14 @@ Los niños respiran más veces por minuto y sus pulmones están en desarrollo. L
 
 **ID:** `CO-CIE-6-2026-W20-sistema-respiratorio-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, aplican sobre RCP.
+**Contexto:** En Cartagena, aplican sobre RCP.
 
 ### Enunciado
 En RCP, ¿por qué se debe inclinar la cabeza hacia atrás antes de dar respiración boca a boca?
 
-### Options
+### Opciones
 - [ ] A) Para ver mejor la cara <!-- feedback: No es la razón. -->
 - [ ] B) Para que la persona no vea <!-- feedback: No. -->
 - [x] C) Para abrir la vía aérea, evitando que la lengua bloquee el paso del aire <!-- feedback: Correcto. -->
@@ -153,13 +161,14 @@ La maniobra de inclinación de cabeza y elevación del mentón abre la vía aér
 
 **ID:** `CO-CIE-6-2026-W20-sistema-respiratorio-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan el asma.
+**Contexto:** En Pereira, analizan el asma.
 
 ### Enunciado
 ¿Por qué una persona con asma tiene dificultad para respirar durante una crisis?
 
-### Options
+### Opciones
 - [ ] A) Los pulmones se llenan de líquido <!-- feedback: Eso es el edema pulmonar. -->
 - [ ] B) Los alvéolos se rompen <!-- feedback: Eso es el enfisema. -->
 - [x] C) Los bronquios se inflaman y estrechan por contracción del músculo liso, reduciendo el flujo de aire <!-- feedback: Correcto. -->
@@ -174,13 +183,14 @@ El asma es una enfermedad inflamatoria crónica de las vías respiratorias. En u
 
 **ID:** `CO-CIE-6-2026-W20-sistema-respiratorio-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, analizan los efectos del tabaco.
+**Contexto:** En Manizales, analizan los efectos del tabaco.
 
 ### Enunciado
 ¿Por qué fumar causa enfisema pulmonar?
 
-### Options
+### Opciones
 - [ ] A) Porque el humo calienta los pulmones <!-- feedback: El calor no es el mecanismo principal. -->
 - [ ] B) Porque el humo engrosa la sangre <!-- feedback: No es relevante. -->
 - [x] C) Porque los químicos del tabaco destruyen las paredes de los alvéolos, reduciendo la superficie de intercambio de gases <!-- feedback: Correcto. -->
@@ -195,13 +205,14 @@ El enfisema es una enfermedad pulmonar obstructiva crónica (EPOC) donde los alv
 
 **ID:** `CO-CIE-6-2026-W20-sistema-respiratorio-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan estrategias contra la contaminación.
+**Contexto:** En Cúcuta, evalúan estrategias contra la contaminación.
 
 ### Enunciado
 ¿Cuál es la mejor estrategia para reducir la contaminación del aire en las ciudades colombianas?
 
-### Options
+### Opciones
 - [ ] A) Que todos usen tapabocas <!-- feedback: Protege pero no soluciona. -->
 - [ ] B) Plantar árboles en todas partes <!-- feedback: Ayuda pero no es suficiente. -->
 - [x] C) Reducir emisiones vehiculares (mejorar transporte público, promover bicicletas, revisión técnico-mecánica estricta, tranvías eléctricos) <!-- feedback: Correcto. -->
@@ -216,13 +227,14 @@ En ciudades como Bogotá, Medellín y Cali, los vehículos son la principal fuen
 
 **ID:** `CO-CIE-6-2026-W20-sistema-respiratorio-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan hábitos respiratorios.
+**Contexto:** En Ibagué, evalúan hábitos respiratorios.
 
 ### Enunciado
 ¿Qué hábito protege MÁS la salud respiratoria?
 
-### Options
+### Opciones
 - [ ] A) Hacer gárgaras con agua salada <!-- feedback: Ayuda para garganta pero no previene. -->
 - [ ] B) Respirar por la boca al hacer ejercicio <!-- feedback: Respirar por nariz filtra mejor el aire. -->
 - [x] C) No fumar, hacer ejercicio aeróbico y evitar ambientes contaminados <!-- feedback: Correcto. -->

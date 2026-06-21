@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "colombia-contemporanea"
-semana: "W29"
+week: "W29"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Colombia contemporanea: conflicto armado, proceso de paz, sigl
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que conflicto interno ha vivido Colombia desde mediados del siglo XX?
@@ -39,12 +44,13 @@ Colombia ha vivido un conflicto armado interno de mas de 50 anos que ha involucr
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que fue el proceso de paz con las FARC?
@@ -60,12 +66,13 @@ Tras 4 anos de conversaciones en La Habana (Cuba), el gobierno de Juan Manuel Sa
 
 ---
 
-## Pregunta 3 [D1]
+## Question 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Quien fue presidente de Colombia cuando se firmo el acuerdo de paz con las FARC?
@@ -81,12 +88,13 @@ Juan Manuel Santos (presidente 2010-2018) lidero el proceso de paz con las FARC.
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es el narcotrafico y como afecto a Colombia?
@@ -102,12 +110,13 @@ El narcotrafico ha sido uno de los principales factores de violencia en Colombia
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Quien fue Pablo Escobar?
@@ -123,12 +132,13 @@ Pablo Escobar lidero el Cartel de Medellin en los anos 80 y principios de los 90
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que acciones se tomaron contra el narcotrafico en Colombia?
@@ -144,12 +154,13 @@ Colombia ha combatido el narcotrafico con extradicion a EE.UU., erradicacion de 
 
 ---
 
-## Pregunta 7 [D1]
+## Question 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Como ha sido la Constitucion de 1991 para Colombia?
@@ -165,12 +176,13 @@ La Constitucion de 1991 reemplazo a la de 1886. Reconocio derechos fundamentales
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY-v8`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es la 'Justicia Especial para la Paz' (JEP)?
@@ -186,12 +198,13 @@ La JEP es el sistema de justicia transicional creado por el Acuerdo de Paz con l
 
 ---
 
-## Pregunta 9 [D1]
+## Question 9 [D1]
 
 **ID:** `CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es el 'posconflicto' en Colombia?
@@ -207,12 +220,13 @@ El posconflicto es el proceso de construccion de paz despues del acuerdo. Incluy
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W29-colombia-contemporanea-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cual es el mayor desafio de Colombia en el siglo XXI?

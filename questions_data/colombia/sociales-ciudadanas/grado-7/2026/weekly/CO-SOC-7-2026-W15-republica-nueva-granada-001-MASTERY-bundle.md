@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W15-republica-nueva-granada-001-MASTERY"
+id: "CO-SOC-7-2026-W15-republica-nueva-granada-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-ciudadanas"
 tema: "republica-nueva-granada"
-semana: "W15"
+week: "W15"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026 — Pensamiento Social"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: La República de la Nueva Granada — Grado 7
 ## Semana W15 — La Nueva Granada independiente (1830-1850): organización del Estado y primeras décadas republicanas
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W15-republica-nueva-granada-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En la clase de sociales del Colegio de la Presentación de Bogotá, la profesora pregunta qué pasó después de la disolución de la Gran Colombia.
+**Contexto:** En la clase de sociales del Colegio de la Presentación de Bogotá, la profesora pregunta qué pasó después de la disolución de la Gran Colombia.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Después de la disolución de la Gran Colombia (1830), los territorios que corre
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-SOC-7-2026-W15-republica-nueva-granada-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del colegio de Medellín leen un texto sobre la Constitución de 1832 de la Nueva Granada.
+**Contexto:** Los estudiantes del colegio de Medellín leen un texto sobre la Constitución de 1832 de la Nueva Granada.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ La Constitución de 1832 (promulgada el 1 de marzo de 1832 por la Convención de
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-SOC-7-2026-W15-republica-nueva-granada-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Cali, los estudiantes estudian los gobiernos de la Nueva Granada.
+**Contexto:** En el colegio de Cali, los estudiantes estudian los gobiernos de la Nueva Granada.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -81,11 +85,11 @@ Francisco de Paula Santander (1792-1840) fue elegido primer presidente constituc
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-SOC-7-2026-W15-republica-nueva-granada-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Argumentación
-**Context:** En el colegio de Barranquilla, los estudiantes analizan las causas de la Guerra de los Supremos (1839-1842).
+**Contexto:** En el colegio de Barranquilla, los estudiantes analizan las causas de la Guerra de los Supremos (1839-1842).
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -102,11 +106,11 @@ La Guerra de los Supremos (1839-1842), también conocida como la Guerra de los C
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-SOC-7-2026-W15-republica-nueva-granada-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del colegio de Cartagena leen sobre el gobierno de Pedro Alcántara Herrán (1841-1845).
+**Contexto:** Los estudiantes del colegio de Cartagena leen sobre el gobierno de Pedro Alcántara Herrán (1841-1845).
 **Expected_Success:** 0.77
 
 ### Enunciado
@@ -123,11 +127,11 @@ Pedro Alcántara Herrán (1800-1872), yerno de Santander, fue presidente de la N
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-SOC-7-2026-W15-republica-nueva-granada-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Pereira, los estudiantes analizan las reformas liberales de mediados del siglo XIX.
+**Contexto:** En el colegio de Pereira, los estudiantes analizan las reformas liberales de mediados del siglo XIX.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -144,11 +148,11 @@ José Hilario López (1798-1869), presidente de 1849 a 1853, fue el líder de la
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-SOC-7-2026-W15-republica-nueva-granada-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Bucaramanga, los estudiantes comparan el centralismo y el federalismo en la Nueva Granada.
+**Contexto:** En el colegio de Bucaramanga, los estudiantes comparan el centralismo y el federalismo en la Nueva Granada.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -165,11 +169,11 @@ El movimiento federalista creció en la Nueva Granada como reacción al centrali
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-SOC-7-2026-W15-republica-nueva-granada-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Social
-**Context:** En la I.E. de Villavicencio, los estudiantes analizan las relaciones entre la Iglesia y el Estado en la Nueva Granada.
+**Contexto:** En la I.E. de Villavicencio, los estudiantes analizan las relaciones entre la Iglesia y el Estado en la Nueva Granada.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -186,11 +190,11 @@ Las relaciones entre la Iglesia católica y el Estado en la Nueva Granada fueron
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-SOC-7-2026-W15-republica-nueva-granada-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Cúcuta, los estudiantes analizan un mapa económico de la Nueva Granada a mediados del siglo XIX.
+**Contexto:** En el colegio de Cúcuta, los estudiantes analizan un mapa económico de la Nueva Granada a mediados del siglo XIX.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ La economía de la Nueva Granada (1830-1850) seguía siendo principalmente extra
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W15-republica-nueva-granada-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Manizales, los estudiantes evalúan el gobierno de Tomás Cipriano de Mosquera (1845-1849).
+**Contexto:** En el colegio de Manizales, los estudiantes evalúan el gobierno de Tomás Cipriano de Mosquera (1845-1849).
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -228,11 +232,11 @@ Tomás Cipriano de Mosquera (1798-1878) fue uno de los presidentes más importan
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-SOC-7-2026-W15-republica-nueva-granada-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Sincelejo, la profesora pregunta cómo se formaron los partidos políticos en Colombia.
+**Contexto:** En el colegio de Sincelejo, la profesora pregunta cómo se formaron los partidos políticos en Colombia.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -249,11 +253,11 @@ Los partidos Liberal y Conservador colombianos, dos de los más antiguos del mun
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W15-republica-nueva-granada-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** La profesora de sociales del colegio de Bogotá propone reflexionar sobre los logros y fracasos de la República de la Nueva Granada.
+**Contexto:** La profesora de sociales del colegio de Bogotá propone reflexionar sobre los logros y fracasos de la República de la Nueva Granada.
 **Expected_Success:** 0.42
 
 ### Enunciado

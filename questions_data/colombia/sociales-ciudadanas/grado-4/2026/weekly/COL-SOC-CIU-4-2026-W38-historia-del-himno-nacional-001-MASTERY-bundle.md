@@ -1,5 +1,5 @@
 ---
-id: "COL-SOC-CIU-4-2026-W38-historia-del-himno-nacional-001-MASTERY"
+id: "COL-SOC-CIU-4-2026-W38-historia-del-himno-nacional-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Historia del himno nacional de Colombia: origen, autor, letra 
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Historia del himno nacional de Colombia
 
@@ -30,14 +35,15 @@ Este bundle explica la historia del himno nacional de Colombia, sus autores, su 
 ## Question 1 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W38-historia-del-himno-nacional-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Himno nacional en Valledupar
+**Contexto:** Himno nacional en Valledupar
 
 ### Enunciado
 ¿Quién escribió la letra del himno nacional de Colombia?
 
-### Options
+### Opciones
 - [ ] A) Simón Bolívar. <!-- feedback: Incorrecto. Bolívar no escribió el himno. -->
 - [x] B) Rafael Núñez (presidente de Colombia). <!-- feedback: Correcto. Rafael Núñez escribió la letra del himno en 1887. -->
 - [ ] C) José María Obando. <!-- feedback: Incorrecto. No fue el autor de la letra. -->
@@ -51,14 +57,15 @@ Este bundle explica la historia del himno nacional de Colombia, sus autores, su 
 ## Question 2 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W38-historia-del-himno-nacional-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Compositor del himno
+**Contexto:** Compositor del himno
 
 ### Enunciado
 ¿Quién compuso la música del himno nacional de Colombia?
 
-### Options
+### Opciones
 - [ ] A) Rafael Núñez. <!-- feedback: Incorrecto. Núñez escribió la letra. -->
 - [x] B) Oreste Síndici, un músico italiano radicado en Colombia. <!-- feedback: Correcto. Síndici musicalizó los versos de Núñez. -->
 - [ ] C) Luis A. Calvo. <!-- feedback: Incorrecto. Calvo fue compositor pero no del himno nacional. -->
@@ -72,14 +79,15 @@ Este bundle explica la historia del himno nacional de Colombia, sus autores, su 
 ## Question 3 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W38-historia-del-himno-nacional-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Origen
+**Contexto:** Origen
 
 ### Enunciado
 ¿En qué año se compuso el himno nacional de Colombia?
 
-### Options
+### Opciones
 - [ ] A) 1810. <!-- feedback: Incorrecto. Coincide con la independencia, pero el himno es posterior. -->
 - [x] B) 1887. <!-- feedback: Correcto. El himno fue compuesto en 1887, durante la presidencia de Rafael Núñez. -->
 - [ ] C) 1991. <!-- feedback: Incorrecto. 1991 fue la Constitución. -->
@@ -93,14 +101,15 @@ Este bundle explica la historia del himno nacional de Colombia, sus autores, su 
 ## Question 4 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W38-historia-del-himno-nacional-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Primera estrofa
+**Contexto:** Primera estrofa
 
 ### Enunciado
 ¿Qué dice la primera estrofa del himno nacional: "¡Oh gloria inmarcesible! ¡Oh júbilo inmortal!"?
 
-### Options
+### Opciones
 - [ ] A) Describe un paisaje colombiano. <!-- feedback: Incorrecto. Se refiere a la independencia. -->
 - [x] B) Celebra la independencia y la libertad de Colombia. <!-- feedback: Correcto. El himno exalta la gesta independentista. -->
 - [ ] C) Habla sobre la naturaleza colombiana. <!-- feedback: Incorrecto. Es sobre la lucha por la libertad. -->
@@ -114,14 +123,15 @@ Este bundle explica la historia del himno nacional de Colombia, sus autores, su 
 ## Question 5 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W38-historia-del-himno-nacional-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Coro del himno
+**Contexto:** Coro del himno
 
 ### Enunciado
 ¿Cómo se debe cantar el himno nacional en los actos cívicos?
 
-### Options
+### Opciones
 - [ ] A) Cantarlo rápido y sin atención. <!-- feedback: Incorrecto. Debe hacerse con respeto. -->
 - [x] B) De pie, con respeto, en posición de firmes y con la mano derecha en el corazón. <!-- feedback: Correcto. El himno se canta con respeto y compostura. -->
 - [ ] C) Sentado y en voz baja. <!-- feedback: Incorrecto. Se canta de pie. -->
@@ -135,14 +145,15 @@ Este bundle explica la historia del himno nacional de Colombia, sus autores, su 
 ## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W38-historia-del-himno-nacional-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Coro más conocido
+**Contexto:** Coro más conocido
 
 ### Enunciado
 ¿Cuál es el coro del himno nacional de Colombia?
 
-### Options
+### Opciones
 - [ ] A) "Colombia, tierra querida". <!-- feedback: Incorrecto. Esa es una canción popular, no el himno. -->
 - [x] B) "¡Oh gloria inmarcesible! ¡Oh júbilo inmortal! En surcos de dolores, el bien germina ya." <!-- feedback: Correcto. Ese es el coro del himno nacional. -->
 - [ ] C) "Bella Colombia, tus campos floridos". <!-- feedback: Incorrecto. Esa no es la letra del himno. -->
@@ -156,14 +167,15 @@ Este bundle explica la historia del himno nacional de Colombia, sus autores, su 
 ## Question 7 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W38-historia-del-himno-nacional-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Himno como símbolo
+**Contexto:** Himno como símbolo
 
 ### Enunciado
 ¿Por qué el himno nacional es considerado un símbolo patrio tan importante?
 
-### Options
+### Opciones
 - [ ] A) Porque es una canción bonita. <!-- feedback: Incorrecto. Su importancia va más allá. -->
 - [x] B) Porque su letra narra la lucha por la independencia y representa la identidad y los valores de la nación. <!-- feedback: Correcto. El himno condensa la historia y el espíritu del país. -->
 - [ ] C) Porque es obligatorio cantarlo. <!-- feedback: Incorrecto. No es solo por obligación. -->
@@ -177,14 +189,15 @@ Este bundle explica la historia del himno nacional de Colombia, sus autores, su 
 ## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W38-historia-del-himno-nacional-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Versos del himno
+**Contexto:** Versos del himno
 
 ### Enunciado
 El himno menciona "En surcos de dolores, el bien germina ya". ¿Qué significa esta frase?
 
-### Options
+### Opciones
 - [ ] A) Que el dolor es bueno. <!-- feedback: Incorrecto. Es una metáfora histórica. -->
 - [x] B) Que después de los sufrimientos de la guerra de independencia, finalmente llegó la libertad y el bienestar. <!-- feedback: Correcto. Es una metáfora del sufrimiento que trajo la libertad. -->
 - [ ] C) Que hay que cultivar la tierra con dolor. <!-- feedback: Incorrecto. Es una metáfora, no literal. -->
@@ -198,14 +211,15 @@ El himno menciona "En surcos de dolores, el bien germina ya". ¿Qué significa e
 ## Question 9 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W38-historia-del-himno-nacional-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Sentimiento al cantar el himno
+**Contexto:** Sentimiento al cantar el himno
 
 ### Enunciado
 ¿Crees que los colombianos sienten emoción al cantar el himno nacional?
 
-### Options
+### Opciones
 - [ ] A) No, es solo una rutina. <!-- feedback: Incorrecto. Muchas personas sí sienten emoción. -->
 - [x] B) Muchos sí, especialmente en eventos deportivos o ceremonias importantes, porque les recuerda su identidad nacional. <!-- feedback: Correcto. El himno genera sentimientos de orgullo y pertenencia. -->
 - [ ] C) Solo los deportistas sienten emoción. <!-- feedback: Incorrecto. Personas de todos los ámbitos se emocionan. -->
@@ -220,13 +234,14 @@ El himno menciona "En surcos de dolores, el bien germina ya". ¿Qué significa e
 
 **ID:** `COL-SOC-CIU-4-2026-W38-historia-del-himno-nacional-001-MASTERY-v10`
 **Bloom:** [Create]
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Acto cívico escolar
+**Contexto:** Acto cívico escolar
 
 ### Enunciado
 Diseña un acto cívico para tu colegio donde se honre el himno nacional de una manera especial.
 
-### Options
+### Opciones
 - [ ] A) Cantar el himno sin preparación y rápido para terminar pronto. <!-- feedback: Incorrecto. No honra el himno. -->
 - [x] B) Organizar una izada de bandera con explicación de la historia del himno, su letra y un concurso de canto respetuoso. <!-- feedback: Correcto. Un acto bien preparado honra el himno y educa a los estudiantes. -->
 - [ ] C) Reproducir solo la música sin letra. <!-- feedback: Incorrecto. Cantarlo es parte del homenaje. -->

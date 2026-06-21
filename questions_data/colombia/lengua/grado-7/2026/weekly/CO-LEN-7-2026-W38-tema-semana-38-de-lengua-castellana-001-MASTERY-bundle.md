@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-7-2026-W38-tema-semana-38-de-lengua-castellana-001-MASTERY"
+id: "CO-LEN-7-2026-W38-tema-semana-38-de-lengua-castellana-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lengua-castellana"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 12
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 12
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W38 — Tema Semana 38 de Lengua Castellana
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** I.E. San José en Pereira
+**Contexto:** I.E. San José en Pereira
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. San José en Pereira, se discute sobre Tema Semana 38 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 38 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** Colegio Nacional San Bartolomé en Cartagena
+**Contexto:** Colegio Nacional San Bartolomé en Cartagena
 **Expected_Success:** 0.57
 
 ### Enunciado
 En la clase de Lengua Castellana del Colegio Nacional San Bartolomé en Cartagena, se discute sobre Tema Semana 38 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 38 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Medellín
+**Contexto:** I.E. Santa Luisa de Marillac en Medellín
 **Expected_Success:** 0.63
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Santa Luisa de Marillac en Medellín, se discute sobre Tema Semana 38 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 38 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** Colegio Nacional San Bartolomé en Pereira
+**Contexto:** Colegio Nacional San Bartolomé en Pereira
 **Expected_Success:** 0.73
 
 ### Enunciado
 En la clase de Lengua Castellana del Colegio Nacional San Bartolomé en Pereira, se discute sobre Tema Semana 38 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 38 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Bogotá
+**Contexto:** I.E. Gabriel García Márquez en Bogotá
 **Expected_Success:** 0.51
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Gabriel García Márquez en Bogotá, se discute sobre Tema Semana 38 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 38 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Pasto
+**Contexto:** I.E. Francisco de Paula Santander en Pasto
 **Expected_Success:** 0.70
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Francisco de Paula Santander en Pasto, se discute sobre Tema Semana 38 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 38 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Bogotá
+**Contexto:** Colegio Nacional San Bartolomé en Bogotá
 **Expected_Success:** 0.78
 
 ### Enunciado
 En la clase de Lengua Castellana del Colegio Nacional San Bartolomé en Bogotá, se discute sobre Tema Semana 38 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 38 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** I.E. Santa Luisa de Marillac en Quibdó
+**Contexto:** I.E. Santa Luisa de Marillac en Quibdó
 **Expected_Success:** 0.64
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Santa Luisa de Marillac en Quibdó, se discute sobre Tema Semana 38 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 38 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. Santa Luisa de Marillac en Cúcuta
+**Contexto:** I.E. Santa Luisa de Marillac en Cúcuta
 **Expected_Success:** 0.52
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Santa Luisa de Marillac en Cúcuta, se discute sobre Tema Semana 38 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 38 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Cúcuta
+**Contexto:** I.E. Santa Luisa de Marillac en Cúcuta
 **Expected_Success:** 0.78
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Santa Luisa de Marillac en Cúcuta, se discute sobre Tema Semana 38 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -244,13 +249,13 @@ El tema de Tema Semana 38 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v11`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Manizales
+**Contexto:** Colegio La Presentación en Manizales
 **Expected_Success:** 0.60
 
 ### Enunciado
 En la clase de Lengua Castellana del Colegio La Presentación en Manizales, se discute sobre Tema Semana 38 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -266,13 +271,13 @@ El tema de Tema Semana 38 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v12`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Quibdó
+**Contexto:** I.E. Gabriel García Márquez en Quibdó
 **Expected_Success:** 0.79
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Gabriel García Márquez en Quibdó, se discute sobre Tema Semana 38 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

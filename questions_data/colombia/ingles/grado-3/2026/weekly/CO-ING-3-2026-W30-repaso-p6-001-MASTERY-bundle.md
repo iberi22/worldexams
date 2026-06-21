@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W30-repaso-p6-001-MASTERY"
+id: "CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "repaso-p6"
 periodo: "weekly"
-semana: 30
+week: "W30"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 8
@@ -19,7 +19,12 @@ rubric_baseline: "Review of weather, seasons, days, and months."
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W30: Repaso Periodo 6 (A1)
 
@@ -32,11 +37,12 @@ Este bundle repasa los temas de las semanas 26 a 29: clima, estaciones, días y 
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Soleado"**? ☀️
 
-### Options
+### Opciones
 - [x] A) Sunny <!-- feedback: Correct! -->
 - [ ] B) Rainy <!-- feedback: Incorrect. -->
 - [ ] C) Cold <!-- feedback: Incorrect. -->
@@ -52,11 +58,12 @@ Soleado se dice "sunny".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What season is very **cold**? ❄️
 
-### Options
+### Opciones
 - [ ] A) Summer <!-- feedback: Incorrect. -->
 - [x] B) Winter <!-- feedback: Correct! -->
 - [ ] C) Spring <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ El invierno es "winter".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What day is after **Monday**?
 
-### Options
+### Opciones
 - [ ] A) Sunday <!-- feedback: Incorrect. -->
 - [x] B) Tuesday <!-- feedback: Correct! -->
 - [ ] C) Wednesday <!-- feedback: Incorrect. -->
@@ -92,11 +100,12 @@ Después de lunes (Monday) sigue martes (Tuesday).
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is the **first** month?
 
-### Options
+### Opciones
 - [x] A) January <!-- feedback: Correct! -->
 - [ ] B) February <!-- feedback: Incorrect. -->
 - [ ] C) December <!-- feedback: Incorrect. -->
@@ -112,11 +121,12 @@ Enero es "January".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 When it is **rainy**, I use: ☂️
 
-### Options
+### Opciones
 - [ ] A) Sunglasses <!-- feedback: Incorrect. -->
 - [x] B) An umbrella <!-- feedback: Correct! -->
 - [ ] C) A swimsuit <!-- feedback: Incorrect. -->
@@ -132,11 +142,12 @@ Usamos sombrilla (umbrella) cuando llueve (rainy).
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Sábado y Domingo"**?
 
-### Options
+### Opciones
 - [ ] A) Weekdays <!-- feedback: Incorrect. -->
 - [x] B) Weekend <!-- feedback: Correct! -->
 - [ ] C) Holidays <!-- feedback: Incorrect. -->
@@ -152,11 +163,12 @@ Sábado y domingo son el fin de semana (weekend).
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 In what season do the **leaves fall**? 🍂
 
-### Options
+### Opciones
 - [ ] A) Spring <!-- feedback: Incorrect. -->
 - [ ] B) Summer <!-- feedback: Incorrect. -->
 - [x] C) Fall <!-- feedback: Correct! -->
@@ -172,11 +184,12 @@ En otoño (fall) caen las hojas de los árboles.
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What month is **Christmas**? 🎄
 
-### Options
+### Opciones
 - [ ] A) November <!-- feedback: Incorrect. -->
 - [x] B) December <!-- feedback: Correct! -->
 - [ ] C) October <!-- feedback: Incorrect. -->

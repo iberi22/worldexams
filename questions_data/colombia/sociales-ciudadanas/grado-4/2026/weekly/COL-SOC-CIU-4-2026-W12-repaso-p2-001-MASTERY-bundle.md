@@ -1,5 +1,5 @@
 ---
-id: "COL-SOC-CIU-4-2026-W12-repaso-p2-001-MASTERY"
+id: "COL-SOC-CIU-4-2026-W12-repaso-p2-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Repaso del segundo período: organización territorial, depart
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso P2
 
@@ -30,15 +35,15 @@ Este bundle repasa los temas del segundo período: veredas, corregimientos, muni
 ## Question 1 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W12-repaso-p2-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En Pasto repasan conceptos de organización territorial.
+**Contexto:** En Pasto repasan conceptos de organización territorial.
 
 ### Enunciado
 La unidad territorial más pequeña del área rural es:
 
-### Options
-
+### Opciones
 - [x] A) La vereda. <!-- feedback: La vereda es la división rural más pequeña. -->
 - [ ] B) El municipio. <!-- feedback: Agrupa veredas. -->
 - [ ] C) El departamento. <!-- feedback: Agrupa municipios. -->
@@ -52,15 +57,15 @@ Se evalúa [Remember].
 ## Question 2 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W12-repaso-p2-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En Sincelejo repasan los departamentos.
+**Contexto:** En Sincelejo repasan los departamentos.
 
 ### Enunciado
 ¿Cuántos departamentos tiene Colombia?
 
-### Options
-
+### Opciones
 - [ ] A) 30 departamentos. <!-- feedback: Son 32. -->
 - [x] B) 32 departamentos y Bogotá D.C. <!-- feedback: 32 más Distrito Capital. -->
 - [ ] C) 35 departamentos. <!-- feedback: Son 32. -->
@@ -74,15 +79,15 @@ Se evalúa [Remember].
 ## Question 3 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W12-repaso-p2-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En Neiva repasan diferencias territoriales.
+**Contexto:** En Neiva repasan diferencias territoriales.
 
 ### Enunciado
 ¿Diferencia entre corregimiento y vereda?
 
-### Options
-
+### Opciones
 - [ ] A) La vereda tiene alcalde. <!-- feedback: Ninguno tiene. -->
 - [ ] B) No hay diferencia. <!-- feedback: Sí la hay. -->
 - [x] C) El corregimiento tiene centro poblado; la vereda tiene viviendas dispersas. <!-- feedback: El corregimiento es centro de servicios rurales. -->
@@ -96,15 +101,15 @@ Se evalúa [Understand].
 ## Question 4 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W12-repaso-p2-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En Cali repasan la función de los departamentos.
+**Contexto:** En Cali repasan la función de los departamentos.
 
 ### Enunciado
 ¿Para qué sirven los departamentos?
 
-### Options
-
+### Opciones
 - [ ] A) Para que el presidente trabaje menos. <!-- feedback: No es así. -->
 - [ ] B) Para independizarse. <!-- feedback: No pueden. -->
 - [ ] C) Solo para fútbol. <!-- feedback: Tienen función administrativa. -->
@@ -118,15 +123,15 @@ Se evalúa [Understand].
 ## Question 5 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W12-repaso-p2-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En Honda aplican jerarquía territorial.
+**Contexto:** En Honda aplican jerarquía territorial.
 
 ### Enunciado
 Si una vereda necesita carretera, acude a:
 
-### Options
-
+### Opciones
 - [x] A) Al alcalde municipal. <!-- feedback: La vereda pertenece al municipio. -->
 - [ ] B) Al gobernador. <!-- feedback: Autoridad departamental. -->
 - [ ] C) Al presidente. <!-- feedback: Autoridad nacional. -->
@@ -140,15 +145,15 @@ Se evalúa [Apply].
 ## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W12-repaso-p2-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Viajan de Bogotá al oriente.
+**Contexto:** Viajan de Bogotá al oriente.
 
 ### Enunciado
 El primer departamento al oriente de Cundinamarca es:
 
-### Options
-
+### Opciones
 - [ ] A) Antioquia. <!-- feedback: Noroccidente. -->
 - [x] B) Meta. <!-- feedback: Meta limita al oriente de Cundinamarca. -->
 - [ ] C) Valle del Cauca. <!-- feedback: Occidente. -->
@@ -162,15 +167,15 @@ Se evalúa [Apply].
 ## Question 7 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W12-repaso-p2-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Analizan organización territorial.
+**Contexto:** Analizan organización territorial.
 
 ### Enunciado
 ¿Por qué Colombia se organiza en municipios y departamentos?
 
-### Options
-
+### Opciones
 - [ ] A) Para complicar. <!-- feedback: Es para simplificar. -->
 - [ ] B) Para dar poder a gobernadores. <!-- feedback: No es el objetivo. -->
 - [x] C) Para descentralizar el poder y administrar mejor. <!-- feedback: La descentralización mejora la gestión. -->
@@ -184,15 +189,15 @@ Se evalúa [Analyze].
 ## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W12-repaso-p2-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Comparan estructura de gobierno.
+**Contexto:** Comparan estructura de gobierno.
 
 ### Enunciado
 ¿Qué estructura comparten todos los municipios?
 
-### Options
-
+### Opciones
 - [ ] A) Un rey y una corte. <!-- feedback: Colombia es república. -->
 - [ ] B) Un gobernador y una asamblea. <!-- feedback: Estructura departamental. -->
 - [ ] C) Un presidente y un congreso. <!-- feedback: Estructura nacional. -->
@@ -206,15 +211,15 @@ Se evalúa [Analyze].
 ## Question 9 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W12-repaso-p2-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Evalúan criterios territoriales.
+**Contexto:** Evalúan criterios territoriales.
 
 ### Enunciado
 ¿Qué criterio es clave para que una vereda sea corregimiento?
 
-### Options
-
+### Opciones
 - [x] A) Tener población concentrada y servicios. <!-- feedback: Población concentrada y servicios determinan el cambio. -->
 - [ ] B) Nombre bonito. <!-- feedback: Irrelevante. -->
 - [ ] C) Pagar impuestos. <!-- feedback: No es el criterio. -->
@@ -229,14 +234,14 @@ Se evalúa [Evaluate].
 
 **ID:** `COL-SOC-CIU-4-2026-W12-repaso-p2-001-MASTERY-v10`
 **Bloom:** [Create]
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Solucionan problema de vereda sin escuela.
+**Contexto:** Solucionan problema de vereda sin escuela.
 
 ### Enunciado
 ¿Qué propondrías si los niños de tu vereda caminan dos horas para estudiar?
 
-### Options
-
+### Opciones
 - [ ] A) Que no estudien. <!-- feedback: La educación es un derecho. -->
 - [x] B) Gestionar ante la alcaldía la construcción de una escuela, organizando a la comunidad. <!-- feedback: Gestión organizada es la mejor solución. -->
 - [ ] C) Cerrar la vereda. <!-- feedback: No soluciona. -->

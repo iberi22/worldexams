@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W39-verb-to-be-001-MASTERY"
+id: "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "verb-to-be"
 periodo: "weekly"
-semana: 39
+week: "W39"
 year: 2026
 protocol_version: "5.2"
 bundle_index: 1
@@ -21,7 +21,10 @@ license: "FREE"
 tier: "mastery"
 creador: "Jules"
 
+bundle_type: "weekly"
+total_questions: 10
 ---
+
 
 # Weekly Pack W39: Verb To Be (A1)
 
@@ -34,12 +37,12 @@ This bundle focuses on the basic conjugation and usage of the Verb To Be (am, is
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
-**Context:** Talking about oneself.
+**Contexto:** Talking about oneself.
 
 ### Enunciado
 Complete the sentence: **"I ________ a student."** 👦
 
-### Options
+### Opciones
 - [x] A) am <!-- feedback: Correct! "I am" is the correct conjugation. -->
 - [ ] B) is <!-- feedback: Incorrect. "Is" is for he, she, it. -->
 - [ ] C) are <!-- feedback: Incorrect. "Are" is for you, we, they. -->
@@ -55,12 +58,12 @@ En inglés, el pronombre "I" (yo) siempre se acompaña de la forma "am" del verb
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
-**Context:** Talking about a girl.
+**Contexto:** Talking about a girl.
 
 ### Enunciado
 Complete: **"She ________ my sister."** 👧
 
-### Options
+### Opciones
 - [ ] A) am <!-- feedback: Incorrect. -->
 - [x] B) is <!-- feedback: Correct! "She is" is the correct form. -->
 - [ ] C) are <!-- feedback: Incorrect. -->
@@ -76,12 +79,12 @@ Para la tercera persona del singular (he, she, it), usamos la forma "is".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
-**Context:** Talking about a group.
+**Contexto:** Talking about a group.
 
 ### Enunciado
 Complete: **"We ________ friends."** 👬👭
 
-### Options
+### Opciones
 - [ ] A) is <!-- feedback: Incorrect. -->
 - [ ] B) am <!-- feedback: Incorrect. -->
 - [x] C) are <!-- feedback: Correct! "We are" is for plural. -->
@@ -97,12 +100,12 @@ Para los pronombres plurales (we, they) y "you", usamos la forma "are".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
-**Context:** Describing an animal.
+**Contexto:** Describing an animal.
 
 ### Enunciado
 Complete: **"The dog ________ brown."** 🐕
 
-### Options
+### Opciones
 - [ ] A) am <!-- feedback: Incorrect. -->
 - [x] B) is <!-- feedback: Correct! The dog (it) uses "is". -->
 - [ ] C) are <!-- feedback: Incorrect. -->
@@ -118,13 +121,13 @@ Cuando hablamos de un animal o un objeto en singular, usamos "is" (equivalente a
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
-**Context:** Describing a feeling.
+**Contexto:** Describing a feeling.
 
 ### Enunciado
 **Question:** "Are you happy?"
 **Answer:** "Yes, I ________." 😊
 
-### Options
+### Opciones
 - [x] A) am <!-- feedback: Correct! "I am" matches the answer. -->
 - [ ] B) is <!-- feedback: Incorrect. -->
 - [ ] C) are <!-- feedback: Incorrect. -->
@@ -140,12 +143,12 @@ En respuestas cortas afirmativas, mantenemos la concordancia: "I am".
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
-**Context:** Plural subjects.
+**Contexto:** Plural subjects.
 
 ### Enunciado
 **"The apples ________ red and sweet."** 🍎🍎
 
-### Options
+### Opciones
 - [ ] A) is <!-- feedback: Incorrect. There are many apples. -->
 - [x] B) are <!-- feedback: Correct! Plural subjects use "are". -->
 - [ ] C) am <!-- feedback: Incorrect. -->
@@ -161,12 +164,12 @@ Cuando el sujeto es plural (the apples = they), debemos usar "are".
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
-**Context:** Negative form.
+**Contexto:** Negative form.
 
 ### Enunciado
 How do you say **"Él no es un doctor"**? 👨‍⚕️✖️
 
-### Options
+### Opciones
 - [ ] A) He is a doctor <!-- feedback: Incorrect. This is affirmative. -->
 - [x] B) He is not a doctor <!-- feedback: Correct! We add "not" after the verb. -->
 - [ ] C) He no is a doctor <!-- feedback: Incorrect grammar. -->
@@ -182,12 +185,12 @@ Para negar con el verbo to be, simplemente añadimos la palabra "not" después d
 **Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
-**Context:** Identifying the correct pronoun/verb pair.
+**Contexto:** Identifying the correct pronoun/verb pair.
 
 ### Enunciado
 Which sentence is **grammatically correct**?
 
-### Options
+### Opciones
 - [ ] A) You is a good boy. <!-- feedback: Incorrect. Should be "You are". -->
 - [ ] B) They am at school. <!-- feedback: Incorrect. Should be "They are". -->
 - [x] C) It is a sunny day. <!-- feedback: Correct! "It is" is the right conjugation. -->
@@ -203,14 +206,14 @@ Analizar la concordancia sujeto-verbo. La única opción correcta es "It is a su
 **Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
-**Context:** Interrogative form logic.
+**Contexto:** Interrogative form logic.
 
 ### Enunciado
 To make a **question**, we change the order.
 **Statement:** "You are a teacher."
 **Question:** "________ a teacher?" 👩‍🏫
 
-### Options
+### Opciones
 - [ ] A) Are you <!-- feedback: Correct! In questions, the verb comes first. -->
 - [x] A) Are you <!-- feedback: Wait, let me check the labels. -->
 - [x] A) Are you <!-- feedback: Yes, A is correct. -->
@@ -228,12 +231,12 @@ Analizar la estructura interrogativa. Para preguntar, invertimos el sujeto y el 
 **Bloom:** Evaluate
 **ICFES:** Pragmática
 **Expected_Success:** 0.50
-**Context:** Choosing the right introduction.
+**Contexto:** Choosing the right introduction.
 
 ### Enunciado
 You are presenting your **mother and father** to your friends. What do you say?
 
-### Options
+### Opciones
 - [ ] A) They is my parents. <!-- feedback: Incorrect grammar. -->
 - [x] B) They are my parents. <!-- feedback: Correct! Using plural "They" with "are". -->
 - [ ] C) He are my parents. <!-- feedback: Incorrect pronoun. -->

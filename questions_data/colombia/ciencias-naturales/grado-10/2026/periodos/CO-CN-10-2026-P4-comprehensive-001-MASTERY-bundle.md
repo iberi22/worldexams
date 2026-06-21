@@ -1,5 +1,5 @@
 ---
-id: "CO-CN-10-2026-P4-comprehensive-001-MASTERY"
+id: "CO-CN-10-2026-P4-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 10
 asignatura: "ciencias-naturales"
@@ -14,13 +14,18 @@ distractor_profile: "plausible_peer_set"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 20
+year: 2026
+creador: "Jules-Agent"
 ---
+
 # Bundle MASTERY: Genetica de Poblaciones, Electroquimica, Optica Fisica (P4)
 
 ## Question 1 (D3)
 **ID:** `CO-CN-10-2026-P4-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember | **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** En clase de biologia en la Universidad del Cauca, se estudia genetica de poblaciones.
+**Contexto:** En clase de biologia en la Universidad del Cauca, se estudia genetica de poblaciones.
 **Enunciado:** Que establece el principio de Hardy-Weinberg?
 **Options:**
 - [ ] A) Que los alelos dominantes siempre aumentan su frecuencia. <!-- feedback: Incorrecto. Hardy-Weinberg establece condiciones bajo las cuales las frecuencias alelicas permanecen constantes. -->
@@ -31,7 +36,7 @@ tier: "legacy"
 ## Question 2 (D3)
 **ID:** `CO-CN-10-2026-P4-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember | **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** En clase de optica en el Colegio Montessori de Bucaramanga.
+**Contexto:** En clase de optica en el Colegio Montessori de Bucaramanga.
 **Enunciado:** Una lente que hace converger los rayos de luz se llama:
 **Options:**
 - [x] A) Lente convergente (convexa). <!-- feedback: Correcto. Las lentes convexas (mas gruesas en el centro) hacen converger los rayos paralelos. -->
@@ -42,7 +47,7 @@ tier: "legacy"
 ## Question 3 (D4)
 **ID:** `CO-CN-10-2026-P4-comprehensive-001-MASTERY-v3`
 **Bloom:** Apply | **ICFES:** Explicacion de fenomenos
-**Context:** En el laboratorio de quimica del Colegio INEM de Pereira, se construye una celda electroquimica con Zn/Zn2+ y Cu/Cu2+. E(Zn2+/Zn) = -0.76 V, E(Cu2+/Cu) = +0.34 V.
+**Contexto:** En el laboratorio de quimica del Colegio INEM de Pereira, se construye una celda electroquimica con Zn/Zn2+ y Cu/Cu2+. E(Zn2+/Zn) = -0.76 V, E(Cu2+/Cu) = +0.34 V.
 **Enunciado:** Cual es la fem estandar de la celda?
 **Options:**
 - [ ] A) -0.42 V <!-- feedback: Incorrecto. Ecelda = Ecathodo - Eanodo. El cathodo es Cu (reduccion) y el anodo Zn (oxidacion). -->
@@ -53,7 +58,7 @@ tier: "legacy"
 ## Question 4 (D4)
 **ID:** `CO-CN-10-2026-P4-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand | **ICFES:** Explicacion de fenomenos
-**Context:** En un tanque de agua en la azotea de un colegio en Sincelejo, un lapiz parece quebrado al sumergirse en agua.
+**Contexto:** En un tanque de agua en la azotea de un colegio en Sincelejo, un lapiz parece quebrado al sumergirse en agua.
 **Enunciado:** Este fenomeno se debe a:
 **Options:**
 - [ ] A) Reflexion difusa. <!-- feedback: Incorrecto. La reflexion difusa dispersa la luz en todas direcciones. -->
@@ -64,7 +69,7 @@ tier: "legacy"
 ## Question 5 (D5)
 **ID:** `CO-CN-10-2026-P4-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply | **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** En una poblacion de 400 estudiantes de un colegio de Cali, 36 presentan una condicion genetica recesiva (rr).
+**Contexto:** En una poblacion de 400 estudiantes de un colegio de Cali, 36 presentan una condicion genetica recesiva (rr).
 **Enunciado:** Cual es la frecuencia del alelo recesivo (q) segun Hardy-Weinberg?
 **Options:**
 - [ ] A) 0.09 <!-- feedback: Incorrecto. q2 = 36/400 = 0.09, pero q = sqrt(0.09) = 0.3. -->
@@ -75,7 +80,7 @@ tier: "legacy"
 ## Question 6 (D5)
 **ID:** `CO-CN-10-2026-P4-comprehensive-001-MASTERY-v6`
 **Bloom:** Analyze | **ICFES:** Indagacion
-**Context:** En una celda voltaica, el voltaje medido disminuye con el tiempo de operacion.
+**Contexto:** En una celda voltaica, el voltaje medido disminuye con el tiempo de operacion.
 **Enunciado:** A que se debe la disminucion del voltaje?
 **Options:**
 - [ ] A) Aumenta la concentracion de iones en ambas soluciones. <!-- feedback: Parcialmente correcto pero incompleto. -->
@@ -86,7 +91,7 @@ tier: "legacy"
 ## Question 7 (D5)
 **ID:** `CO-CN-10-2026-P4-comprehensive-001-MASTERY-v7`
 **Bloom:** Apply | **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** Se tiene un espejo concavo con foco a 10 cm. Un objeto se coloca a 30 cm del espejo. 1/f = 1/do + 1/di.
+**Contexto:** Se tiene un espejo concavo con foco a 10 cm. Un objeto se coloca a 30 cm del espejo. 1/f = 1/do + 1/di.
 **Enunciado:** Donde se forma la imagen?
 **Options:**
 - [x] A) di = 15 cm, imagen real <!-- feedback: Correcto. 1/di = 1/10 - 1/30 = 2/30, di = 15 cm. Positivo -> imagen real. -->
@@ -97,7 +102,7 @@ tier: "legacy"
 ## Question 8 (D6)
 **ID:** `CO-CN-10-2026-P4-comprehensive-001-MASTERY-v8`
 **Bloom:** Analyze | **ICFES:** Explicacion de fenomenos
-**Context:** Un estudiante en el Liceo de la Universidad Pedagogica en Bogota realiza un experimento con un prisma triangular. La luz blanca se separa en colores.
+**Contexto:** Un estudiante en el Liceo de la Universidad Pedagogica en Bogota realiza un experimento con un prisma triangular. La luz blanca se separa en colores.
 **Enunciado:** Cual es el orden de los colores de menor a mayor desviacion?
 **Options:**
 - [x] A) Rojo, amarillo, verde, azul, violeta. <!-- feedback: Correcto. El rojo tiene mayor longitud de onda (menor n), se desvia menos. El violeta tiene menor lambda, mayor n y se desvia mas. -->
@@ -108,7 +113,7 @@ tier: "legacy"
 ## Question 9 (D6)
 **ID:** `CO-CN-10-2026-P4-comprehensive-001-MASTERY-v9`
 **Bloom:** Apply | **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** Una celda electrolitica usa corriente de 2 A durante 30 minutos. F = 96,500 C/mol.
+**Contexto:** Una celda electrolitica usa corriente de 2 A durante 30 minutos. F = 96,500 C/mol.
 **Enunciado:** Cuantos moles de electrones pasan? (Q = I*t)
 **Options:**
 - [ ] A) 3600 mol <!-- feedback: Incorrecto. Q = 2*1800 = 3600 C. n(e-) = 3600/96500 = 0.0373 mol. -->
@@ -119,7 +124,7 @@ tier: "legacy"
 ## Question 10 (D6)
 **ID:** `CO-CN-10-2026-P4-comprehensive-001-MASTERY-v10`
 **Bloom:** Understand | **ICFES:** Explicacion de fenomenos
-**Context:** En clase de genetica se estudian las fuerzas evolutivas.
+**Contexto:** En clase de genetica se estudian las fuerzas evolutivas.
 **Enunciado:** Cual de las siguientes NO es una fuerza evolutiva que altera el equilibrio HW?
 **Options:**
 - [ ] A) Seleccion natural. <!-- feedback: Incorrecto. La seleccion natural cambia frecuencias alelicas. -->
@@ -130,7 +135,7 @@ tier: "legacy"
 ## Question 11 (D7)
 **ID:** `CO-CN-10-2026-P4-comprehensive-001-MASTERY-v11`
 **Bloom:** Apply | **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** Se tienen semiceldas: Ag+(1M)/Ag(s) E=+0.80 V y Ni2+(1M)/Ni(s) E=-0.25 V.
+**Contexto:** Se tienen semiceldas: Ag+(1M)/Ag(s) E=+0.80 V y Ni2+(1M)/Ni(s) E=-0.25 V.
 **Enunciado:** Cual es el agente oxidante mas fuerte?
 **Options:**
 - [ ] A) Ni(s) <!-- feedback: Incorrecto. El Ni metalico es un agente reductor, no oxidante. -->
@@ -141,7 +146,7 @@ tier: "legacy"
 ## Question 12 (D7)
 **ID:** `CO-CN-10-2026-P4-comprehensive-001-MASTERY-v12`
 **Bloom:** Analyze | **ICFES:** Indagacion
-**Context:** n1*sen(theta1) = n2*sen(theta2). Un rayo pasa del vidrio (n=1.5) al aire (n=1.0) con incidencia de 50 grados. sen^-1(1/1.5) = 41.8 grados.
+**Contexto:** n1*sen(theta1) = n2*sen(theta2). Un rayo pasa del vidrio (n=1.5) al aire (n=1.0) con incidencia de 50 grados. sen^-1(1/1.5) = 41.8 grados.
 **Enunciado:** Que sucede con el rayo?
 **Options:**
 - [ ] A) Se refracta normalmente hacia el aire. <!-- feedback: Incorrecto. 50 grados > 41.8 grados (angulo critico). -->
@@ -152,7 +157,7 @@ tier: "legacy"
 ## Question 13 (D7)
 **ID:** `CO-CN-10-2026-P4-comprehensive-001-MASTERY-v13`
 **Bloom:** Apply | **ICFES:** Explicacion de fenomenos
-**Context:** Una poblacion de 1000 aves en la Sierra Nevada de Santa Marta: color gris (dominante G) y blanco (recesivo g). Hay 160 aves blancas.
+**Contexto:** Una poblacion de 1000 aves en la Sierra Nevada de Santa Marta: color gris (dominante G) y blanco (recesivo g). Hay 160 aves blancas.
 **Enunciado:** En equilibrio HW, cuantas aves heterocigotas (Gg) se esperan?
 **Options:**
 - [ ] A) 160 <!-- feedback: Incorrecto. 160 es la frecuencia de gg. -->
@@ -163,7 +168,7 @@ tier: "legacy"
 ## Question 14 (D8)
 **ID:** `CO-CN-10-2026-P4-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate | **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** Datos: E(Li+/Li) = -3.04V, E(Cu2+/Cu) = +0.34V, E(Fe2+/Fe) = -0.44V, E(Ag+/Ag) = +0.80V.
+**Contexto:** Datos: E(Li+/Li) = -3.04V, E(Cu2+/Cu) = +0.34V, E(Fe2+/Fe) = -0.44V, E(Ag+/Ag) = +0.80V.
 **Enunciado:** Cual combinacion produce la mayor diferencia de potencial?
 **Options:**
 - [ ] A) Cu/Ag <!-- feedback: Incorrecto. Ecelda = 0.80 - 0.34 = 0.46 V. -->
@@ -174,7 +179,7 @@ tier: "legacy"
 ## Question 15 (D8)
 **ID:** `CO-CN-10-2026-P4-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate | **ICFES:** Indagacion
-**Context:** Un genetista estudia plantas en el Jardin Botanico de Medellin. Tras una sequia severa, la frecuencia de un alelo raro disminuye drasticamente.
+**Contexto:** Un genetista estudia plantas en el Jardin Botanico de Medellin. Tras una sequia severa, la frecuencia de un alelo raro disminuye drasticamente.
 **Enunciado:** Cual es la explicacion mas probable?
 **Options:**
 - [ ] A) Seleccion natural direccional. <!-- feedback: Posible pero no la mas probable. -->
@@ -185,7 +190,7 @@ tier: "legacy"
 ## Question 16 (D8)
 **ID:** `CO-CN-10-2026-P4-comprehensive-001-MASTERY-v16`
 **Bloom:** Analyze | **ICFES:** Explicacion de fenomenos
-**Context:** Objeto a 5 cm de lente convergente de foco 10 cm. 1/f = 1/do + 1/di.
+**Contexto:** Objeto a 5 cm de lente convergente de foco 10 cm. 1/f = 1/do + 1/di.
 **Enunciado:** Que tipo de imagen se forma y donde?
 **Options:**
 - [ ] A) Imagen real a 10 cm del otro lado. <!-- feedback: Incorrecto. 1/di = 1/10 - 1/5 = -1/10, di = -10 cm. -->
@@ -196,7 +201,7 @@ tier: "legacy"
 ## Question 17 (D9)
 **ID:** `CO-CN-10-2026-P4-comprehensive-001-MASTERY-v17`
 **Bloom:** Evaluate | **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** Electrolisis del agua: 2H2O(l) -> 2H2(g) + O2(g). Corriente 0.5 A durante 1930 s. F=96500 C/mol.
+**Contexto:** Electrolisis del agua: 2H2O(l) -> 2H2(g) + O2(g). Corriente 0.5 A durante 1930 s. F=96500 C/mol.
 **Enunciado:** Quien calcula correctamente los moles de H2 producidos? (Reaccion catodica: 2H+ + 2e- -> H2)
 **Options:**
 - [ ] A) Estudiante A: n(H2) = 0.5 mol <!-- feedback: Incorrecto. Q = 0.5*1930 = 965 C. n(e-) = 965/96500 = 0.01 mol. Por cada H2 se requieren 2e-: n(H2) = 0.005 mol. -->
@@ -207,7 +212,7 @@ tier: "legacy"
 ## Question 18 (D9)
 **ID:** `CO-CN-10-2026-P4-comprehensive-001-MASTERY-v18`
 **Bloom:** Evaluate | **ICFES:** Indagacion
-**Context:** Un estudiante dice: "La reflexion total interna no puede ocurrir en fibras opticas si el angulo de incidencia es menor al critico."
+**Contexto:** Un estudiante dice: "La reflexion total interna no puede ocurrir en fibras opticas si el angulo de incidencia es menor al critico."
 **Enunciado:** Evalua esta afirmacion.
 **Options:**
 - [x] A) Es correcta; la reflexion total interna solo ocurre si theta > theta_c. <!-- feedback: Correcto. Si theta < theta_c, la luz se escapa del nucleo al revestimiento. Las fibras opticas mantienen theta > theta_c. -->
@@ -218,7 +223,7 @@ tier: "legacy"
 ## Question 19 (D9)
 **ID:** `CO-CN-10-2026-P4-comprehensive-001-MASTERY-v19`
 **Bloom:** Create | **ICFES:** Indagacion
-**Context:** Disenar un experimento para determinar si una poblacion de mariposas en el Amazonas colombiano esta en equilibrio HW para el color de alas.
+**Contexto:** Disenar un experimento para determinar si una poblacion de mariposas en el Amazonas colombiano esta en equilibrio HW para el color de alas.
 **Enunciado:** Cual es el diseno mas adecuado?
 **Options:**
 - [ ] A) Cruzar mariposas en laboratorio y contar la descendencia. <!-- feedback: Incorrecto. Eso estudia genetica mendeliana, no equilibrio poblacional. -->
@@ -229,7 +234,7 @@ tier: "legacy"
 ## Question 20 (D10)
 **ID:** `CO-CN-10-2026-P4-comprehensive-001-MASTERY-v20`
 **Bloom:** Evaluate | **ICFES:** Explicacion de fenomenos
-**Context:** Tres celdas electroliticas en serie con la misma corriente. Celda 1: Ag+ -> Ag, Celda 2: Cu2+ -> Cu, Celda 3: Al3+ -> Al. Masas atomicas: Ag=107.9, Cu=63.5, Al=27.0.
+**Contexto:** Tres celdas electroliticas en serie con la misma corriente. Celda 1: Ag+ -> Ag, Celda 2: Cu2+ -> Cu, Celda 3: Al3+ -> Al. Masas atomicas: Ag=107.9, Cu=63.5, Al=27.0.
 **Enunciado:** Si la misma cantidad de carga pasa por las tres, cual deposita la mayor masa de metal?
 **Options:**
 - [x] A) Celda 1 (Ag) porque tiene mayor masa atomica. <!-- feedback: Correcto. Todos reciben la misma carga. Ag+ + e- -> Ag: por mol de e- se deposita 1 mol Ag = 107.9 g. Cu2+ + 2e- -> Cu: por mol de e- se deposita 0.5 mol Cu = 31.75 g. Al3+ + 3e- -> Al: por mol de e- se deposita 1/3 mol Al = 9.0 g. -->

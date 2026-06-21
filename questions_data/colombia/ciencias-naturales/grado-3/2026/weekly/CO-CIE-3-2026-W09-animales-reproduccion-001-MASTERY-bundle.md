@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY"
+id: "CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "animales-reproduccion"
-semana: "W09"
+week: "W09"
 periodo: 1
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Reproducción animal: dimorfismo sexual, cortejo y cuidado par
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # La Reproducción y el Cuidado de las Crías
 
 Este bundle explora cómo los animales se preparan para tener crías, las diferencias entre machos y hembras, y cómo algunos padres cuidan a sus hijos para que sobrevivan.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un estanque, vemos que el pavo real macho tiene una cola gigante de colores, mientras que la hembra es de color café sencillo.
+**Contexto:** En un estanque, vemos que el pavo real macho tiene una cola gigante de colores, mientras que la hembra es de color café sencillo.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ El dimorfismo sexual ayuda a los animales a reconocerse. Muchas veces el macho e
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Antes de aparearse, algunos pájaros realizan bailes complicados, cantan canciones especiales o construyen nidos muy bonitos.
+**Contexto:** Antes de aparearse, algunos pájaros realizan bailes complicados, cantan canciones especiales o construyen nidos muy bonitos.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -73,12 +77,12 @@ El cortejo es vital para la supervivencia de la especie. Asegura que los animale
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Después de nacer, un ternero busca la ubre de su madre para tomar leche tibia y nutritiva.
+**Contexto:** Después de nacer, un ternero busca la ubre de su madre para tomar leche tibia y nutritiva.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ La lactancia es una forma de cuidado parental muy avanzada. Permite que la cría
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Algunos peces ponen miles de huevos y se van, dejando que los bebés sobrevivan solos. Los pingüinos cuidan un solo huevo durante meses.
+**Contexto:** Algunos peces ponen miles de huevos y se van, dejando que los bebés sobrevivan solos. Los pingüinos cuidan un solo huevo durante meses.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -123,12 +127,12 @@ Existen dos estrategias en la naturaleza. Tener miles de hijos y no cuidarlos (m
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un cocodrilo hembra carga a sus bebés recién nacidos en su boca para llevarlos desde el nido de arena hasta el agua del río.
+**Contexto:** Un cocodrilo hembra carga a sus bebés recién nacidos en su boca para llevarlos desde el nido de arena hasta el agua del río.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -148,12 +152,12 @@ Aunque asociamos el cuidado de los hijos con los humanos o los perros, muchos ot
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En los caballitos de mar, es el macho el que guarda los huevos en una bolsa de su panza hasta que nacen los bebés.
+**Contexto:** En los caballitos de mar, es el macho el que guarda los huevos en una bolsa de su panza hasta que nacen los bebés.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -173,12 +177,12 @@ La naturaleza es muy variada. No siempre es la hembra la que cuida. En algunas a
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un nido de avispas tiene una "reina" que pone todos los huevos y miles de "obreras" que cuidan a las larvas aunque no sean sus propias hijas.
+**Contexto:** Un nido de avispas tiene una "reina" que pone todos los huevos y miles de "obreras" que cuidan a las larvas aunque no sean sus propias hijas.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -198,12 +202,12 @@ Los animales sociales han llevado el cuidado de las crías a otro nivel. Al trab
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un león macho joven trata de entrar a una manada que ya tiene un jefe. Ambos pelean usando sus garras y rugidos.
+**Contexto:** Un león macho joven trata de entrar a una manada que ya tiene un jefe. Ambos pelean usando sus garras y rugidos.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -223,12 +227,12 @@ La competencia entre machos es común en la naturaleza. Aunque nos parezca viole
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Las tortugas de tierra entierran sus huevos en la arena y se van. Al nacer, las tortuguitas saben perfectamente que deben caminar hacia el refugio.
+**Contexto:** Las tortugas de tierra entierran sus huevos en la arena y se van. Al nacer, las tortuguitas saben perfectamente que deben caminar hacia el refugio.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -248,12 +252,12 @@ Los animales que no reciben cuidado parental nacen con instintos muy fuertes. Sa
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Los humanos cuidamos a nuestros hijos por casi 20 años, mientras que un ratón solo cuida a los suyos por unas pocas semanas.
+**Contexto:** Los humanos cuidamos a nuestros hijos por casi 20 años, mientras que un ratón solo cuida a los suyos por unas pocas semanas.
 **Expected_Success:** 0.55
 
 ### Enunciado

@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY"
+id: "CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "plantas-partes"
-semana: "W02"
+week: "W02"
 periodo: 1
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Partes de la planta (raíz, tallo, hojas, flores y frutos) y s
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Las Partes de las Plantas
 
 Este bundle explora la anatomía de las plantas y cómo cada una de sus partes cumple una función vital para su crecimiento y supervivencia.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Juan observa un árbol de naranjas en el patio de su abuela en el Valle del Cauca y nota que está bien sujeto al suelo.
+**Contexto:** Juan observa un árbol de naranjas en el patio de su abuela en el Valle del Cauca y nota que está bien sujeto al suelo.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ La raíz es el órgano que permite a la planta obtener recursos del suelo. Adem�
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Si cortamos una flor y la ponemos en un florero, el agua sube por una parte central para llegar a los pétalos.
+**Contexto:** Si cortamos una flor y la ponemos en un florero, el agua sube por una parte central para llegar a los pétalos.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -73,12 +77,12 @@ El tallo sirve de soporte para las hojas, flores y frutos. Internamente tiene un
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una ensalada de almuerzo, los niños identifican hojas de lechuga y espinaca.
+**Contexto:** En una ensalada de almuerzo, los niños identifican hojas de lechuga y espinaca.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ Las hojas son las "fábricas" de alimento de la planta. Gracias a una sustancia 
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Un jardinero observa que algunas plantas tienen flores de colores muy brillantes y un olor dulce muy agradable.
+**Contexto:** Un jardinero observa que algunas plantas tienen flores de colores muy brillantes y un olor dulce muy agradable.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -123,12 +127,12 @@ La flor es el órgano reproductor de muchas plantas. Su belleza y fragancia tien
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
-**Context:** Después de que la flor se marchita en un árbol de café, aparece un grano rojo muy conocido en Colombia.
+**Contexto:** Después de que la flor se marchita en un árbol de café, aparece un grano rojo muy conocido en Colombia.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -148,12 +152,12 @@ El fruto es el resultado de la fecundación de la flor. Su misión principal es 
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un estudiante decide cubrir todas las hojas de una pequeña planta con papel aluminio para que no les dé nada de luz.
+**Contexto:** Un estudiante decide cubrir todas las hojas de una pequeña planta con papel aluminio para que no les dé nada de luz.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -173,12 +177,12 @@ Este experimento demuestra que las hojas son fundamentales para la nutrición. A
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Existen plantas como el cactus que tienen espinas en lugar de hojas grandes y verdes.
+**Contexto:** Existen plantas como el cactus que tienen espinas en lugar de hojas grandes y verdes.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -198,12 +202,12 @@ Las partes de las plantas pueden cambiar según el clima. En el desierto, donde 
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
-**Context:** Algunas plantas, como la hiedra, tienen tallos que se enredan en las paredes o en otros árboles para subir muy alto.
+**Contexto:** Algunas plantas, como la hiedra, tienen tallos que se enredan en las paredes o en otros árboles para subir muy alto.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -223,12 +227,12 @@ El tallo tiene una función de ubicación espacial. Al trepar, la planta busca u
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Si comparamos una zanahoria (que es una raíz) con una papa (que es un tallo subterráneo), vemos que ambas guardan alimento.
+**Contexto:** Si comparamos una zanahoria (que es una raíz) con una papa (que es un tallo subterráneo), vemos que ambas guardan alimento.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -248,12 +252,12 @@ Las raíces y tallos de reserva son adaptaciones de supervivencia. Almacenan alm
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un científico crea una planta artificial que tiene raíces de plástico, tallo de metal y hojas de tela verde, pero no puede crecer ni dar semillas.
+**Contexto:** Un científico crea una planta artificial que tiene raíces de plástico, tallo de metal y hojas de tela verde, pero no puede crecer ni dar semillas.
 **Expected_Success:** 0.55
 
 ### Enunciado

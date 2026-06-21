@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY"
+id: "CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "clasificacion-seres-vivos"
-semana: "W02"
+week: "W02"
 protocol_version: "5.2"
 bundle_type: "weekly"
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "clasificacion_seres_vivos, reinos_naturaleza, animales_plantas
 license: "FREE"
 tier: "legacy"
 
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Ciencias Naturales Grado 3 - Semana W02
 
@@ -28,13 +32,14 @@ Semana 2: Clasificación de los seres vivos. Reconocimiento de los reinos de la 
 
 ---
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 
 **ID:** `CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** En la clase de ciencias del Colegio La Salle de Pereira, la profesora presenta una tabla con los reinos de la naturaleza.
+**Contexto:** En la clase de ciencias del Colegio La Salle de Pereira, la profesora presenta una tabla con los reinos de la naturaleza.
 
 ### Enunciado
 ¿En cuál de los siguientes reinos se clasifican las plantas?
@@ -50,13 +55,14 @@ La clasificación de los seres vivos en reinos es una forma de organizar la enor
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 
 **ID:** `CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** La profesora muestra imágenes de diferentes seres vivos: un perro, un rosal, un champiñón y un alga microscópica.
+**Contexto:** La profesora muestra imágenes de diferentes seres vivos: un perro, un rosal, un champiñón y un alga microscópica.
 
 ### Enunciado
 ¿A qué reino pertenecen los hongos como los champiñones?
@@ -72,13 +78,14 @@ El reino Fungi incluye organismos como champiñones, levaduras y mohos. Se difer
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 
 **ID:** `CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** En la huerta escolar del Colegio INEM de Pasto, los estudiantes observan mariquitas sobre las hojas de las lechugas.
+**Contexto:** En la huerta escolar del Colegio INEM de Pasto, los estudiantes observan mariquitas sobre las hojas de las lechugas.
 
 ### Enunciado
 ¿En qué se diferencian las mariquitas de las plantas de lechuga?
@@ -94,13 +101,14 @@ La diferencia fundamental entre animales y plantas está en su forma de obtener 
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 
 **ID:** `CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** Camila encontró un organismo verde y pegajoso creciendo en la pared húmeda del patio de su casa en Sincelejo.
+**Contexto:** Camila encontró un organismo verde y pegajoso creciendo en la pared húmeda del patio de su casa en Sincelejo.
 
 ### Enunciado
 ¿Cómo puede Camila determinar si ese organismo verde es una planta o un hongo?
@@ -116,13 +124,14 @@ Para determinar si un organismo es una planta o un hongo, la mejor estrategia es
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 
 **ID:** `CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** En la clase, los estudiantes deben crear un diagrama de clasificación con las siguientes palabras: perro, rosa, bacteria, champiñón, ameba.
+**Contexto:** En la clase, los estudiantes deben crear un diagrama de clasificación con las siguientes palabras: perro, rosa, bacteria, champiñón, ameba.
 
 ### Enunciado
 Si clasificas estos organismos en reinos, ¿cuántos reinos diferentes estarías representando?
@@ -138,13 +147,14 @@ Los cinco reinos de la naturaleza son: Animal, Plantae, Fungi, Protista y Monera
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 
 **ID:** `CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** La profesora lleva al salón una lombriz de tierra, un helecho y un trozo de pan con moho.
+**Contexto:** La profesora lleva al salón una lombriz de tierra, un helecho y un trozo de pan con moho.
 
 ### Enunciado
 ¿Cuál de los siguientes NO es un criterio válido para clasificar estos tres organismos?
@@ -160,13 +170,14 @@ Un criterio de clasificación debe permitir agrupar o separar organismos según 
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 
 **ID:** `CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** Los estudiantes están clasificando animales según su cubierta corporal: pelos, plumas o escamas.
+**Contexto:** Los estudiantes están clasificando animales según su cubierta corporal: pelos, plumas o escamas.
 
 ### Enunciado
 Un animal cubierto de plumas, con pico y que pone huevos, ¿a qué grupo pertenece?
@@ -182,13 +193,14 @@ Las aves son vertebrados que se caracterizan por tener plumas, pico sin dientes,
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 
 **ID:** `CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
 
-**Context:** En un laboratorio escolar, los estudiantes observan agua estancada de un charco de Villavicencio al microscopio y ven pequeños organismos que se mueven.
+**Contexto:** En un laboratorio escolar, los estudiantes observan agua estancada de un charco de Villavicencio al microscopio y ven pequeños organismos que se mueven.
 
 ### Enunciado
 ¿A qué reino probablemente pertenecen esos organismos microscópicos que se mueven activamente en el agua?
@@ -204,13 +216,14 @@ El reino Protista incluye organismos unicelulares eucariotas (con núcleo defini
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 
 **ID:** `CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** En la clase, se presenta el siguiente dilema: "Un coral marino parece una planta porque no se mueve y tiene forma de rama, pero los biólogos lo clasifican como animal."
+**Contexto:** En la clase, se presenta el siguiente dilema: "Un coral marino parece una planta porque no se mueve y tiene forma de rama, pero los biólogos lo clasifican como animal."
 
 ### Enunciado
 ¿Cuál es la razón más probable por la que los corales se clasifican como animales y no como plantas?
@@ -226,13 +239,14 @@ Los corales (del filo Cnidaria) son animales que se fijan a un sustrato y parece
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 
 **ID:** `CO-CIE-3-2026-W02-clasificacion-seres-vivos-001-MASTERY-v10`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Indagación
 
-**Context:** Un estudiante afirma que las bacterias y los protistas deberían estar en el mismo reino porque ambos son microscópicos y viven en el agua.
+**Contexto:** Un estudiante afirma que las bacterias y los protistas deberían estar en el mismo reino porque ambos son microscópicos y viven en el agua.
 
 ### Enunciado
 ¿Estás de acuerdo con el estudiante? ¿Por qué?

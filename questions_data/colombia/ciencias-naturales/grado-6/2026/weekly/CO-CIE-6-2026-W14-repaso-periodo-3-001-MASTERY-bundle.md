@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W14-repaso-periodo-3-001-MASTERY"
+id: "CO-CIE-6-2026-W14-repaso-periodo-3-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W14 — Repaso P3: Ecosistemas
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W14-repaso-periodo-3-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Repaso del periodo 3 sobre ecosistemas.
+**Contexto:** Repaso del periodo 3 sobre ecosistemas.
 
 ### Enunciado
 ¿Cuál es el ecosistema más extenso de Colombia?
 
-### Options
+### Opciones
 - [ ] A) Páramo <!-- feedback: Incorrecto. Cubre menos del 3%. -->
 - [ ] B) Manglar <!-- feedback: Incorrecto. Cubre aprox 380,000 ha. -->
 - [x] C) Selva amazónica <!-- feedback: Correcto. Cubre ~35% del territorio. -->
@@ -48,13 +51,14 @@ La selva amazónica colombiana (400,000 km², 35% del territorio) es el bioma m�
 
 **ID:** `CO-CIE-6-2026-W14-repaso-periodo-3-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Repaso de niveles tróficos.
+**Contexto:** Repaso de niveles tróficos.
 
 ### Enunciado
 ¿Cuál es el nivel trófico que produce su propio alimento?
 
-### Options
+### Opciones
 - [ ] A) Consumidor primario <!-- feedback: Incorrecto. Los herbívoros son consumidores. -->
 - [ ] B) Consumidor secundario <!-- feedback: Incorrecto. Los carnívoros no producen. -->
 - [x] C) Productor (autótrofo) <!-- feedback: Correcto. Plantas, algas, cianobacterias. -->
@@ -69,13 +73,14 @@ Los productores (autótrofos) fabrican su propio alimento mediante fotosíntesis
 
 **ID:** `CO-CIE-6-2026-W14-repaso-periodo-3-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Repaso sobre flujo de energía.
+**Contexto:** Repaso sobre flujo de energía.
 
 ### Enunciado
 ¿Por qué los grandes carnívoros (como el jaguar) son menos abundantes que los herbívoros?
 
-### Options
+### Opciones
 - [ ] A) Porque se reproducen más lento <!-- feedback: Consecuencia, no causa principal. -->
 - [x] B) Porque la energía disminuye en cada nivel trófico (regla del 10%) <!-- feedback: Correcto. -->
 - [ ] C) Porque son más perseguidos por humanos <!-- feedback: No explica el patrón ecológico. -->
@@ -90,13 +95,14 @@ La regla del 10% explica que solo ~10% de la energía pasa al siguiente nivel. P
 
 **ID:** `CO-CIE-6-2026-W14-repaso-periodo-3-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Repaso sobre descomponedores.
+**Contexto:** Repaso sobre descomponedores.
 
 ### Enunciado
 ¿Qué pasaría en un bosque si no existieran descomponedores?
 
-### Options
+### Opciones
 - [ ] A) Habría más oxígeno <!-- feedback: No está relacionado. -->
 - [ ] B) Los árboles crecerían más rápido <!-- feedback: Los nutrientes se agotarían. -->
 - [x] C) Los nutrientes quedarían atrapados en organismos muertos y las plantas no tendrían nutrientes <!-- feedback: Correcto. -->
@@ -111,13 +117,14 @@ Sin descomponedores (hongos y bacterias), la materia orgánica muerta se acumula
 
 **ID:** `CO-CIE-6-2026-W14-repaso-periodo-3-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Repaso aplicado sobre ecosistemas.
+**Contexto:** Repaso aplicado sobre ecosistemas.
 
 ### Enunciado
 Un estudiante en Bogotá quiere proteger el agua de su ciudad. ¿Qué ecosistema debe priorizar?
 
-### Options
+### Opciones
 - [ ] A) El desierto de La Guajira <!-- feedback: No abastece a Bogotá. -->
 - [ ] B) La selva amazónica <!-- feedback: Importante pero no la fuente directa. -->
 - [x] C) El páramo de Chingaza <!-- feedback: Correcto. Abastece ~80% del agua de Bogotá. -->
@@ -132,13 +139,14 @@ El Páramo de Chingaza suministra el 70-80% del agua de Bogotá a través del Si
 
 **ID:** `CO-CIE-6-2026-W14-repaso-periodo-3-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Repaso de redes alimenticias.
+**Contexto:** Repaso de redes alimenticias.
 
 ### Enunciado
 En un humedal, si desaparecen los peces que comen larvas de mosquito, ¿qué ocurriría?
 
-### Options
+### Opciones
 - [ ] A) Los mosquitos desaparecerían <!-- feedback: Sin peces, aumentan. -->
 - [x] B) Los mosquitos aumentarían descontroladamente <!-- feedback: Correcto. -->
 - [ ] C) Las aves acuáticas se multiplicarían <!-- feedback: Sin peces, las aves disminuyen. -->
@@ -153,13 +161,14 @@ Los peces que comen larvas de mosquito son controladores biológicos. Sin ellos,
 
 **ID:** `CO-CIE-6-2026-W14-repaso-periodo-3-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Repaso de biomagnificación.
+**Contexto:** Repaso de biomagnificación.
 
 ### Enunciado
 ¿Por qué el mercurio de la minería ilegal es más peligroso para los humanos que para las algas?
 
-### Options
+### Opciones
 - [ ] A) Porque los humanos son más sensibles <!-- feedback: Todos se afectan. -->
 - [ ] B) Porque los humanos beben agua del río <!-- feedback: No es la vía principal. -->
 - [x] C) Porque el mercurio se biomagnifica en la cadena alimenticia <!-- feedback: Correcto. -->
@@ -174,13 +183,14 @@ El mercurio se biomagnifica: baja concentración en algas, mayor en peces peque�
 
 **ID:** `CO-CIE-6-2026-W14-repaso-periodo-3-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Repaso de cambio climático.
+**Contexto:** Repaso de cambio climático.
 
 ### Enunciado
 ¿Por qué los manglares son importantes para mitigar el cambio climático?
 
-### Options
+### Opciones
 - [ ] A) Porque son frescos y agradables <!-- feedback: No es argumento climático. -->
 - [ ] B) Porque producen oxígeno <!-- feedback: Cualquier planta produce oxígeno. -->
 - [x] C) Porque almacenan 3-5 veces más carbono por hectárea que bosques terrestres <!-- feedback: Correcto. -->
@@ -195,13 +205,14 @@ Los manglares son sumideros de carbono excepcionales ("carbono azul"). El carbon
 
 **ID:** `CO-CIE-6-2026-W14-repaso-periodo-3-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Repaso evaluativo del periodo.
+**Contexto:** Repaso evaluativo del periodo.
 
 ### Enunciado
 Un proyecto minero propone explotar oro en un páramo. ¿Cuál es el argumento MÁS SÓLIDO para rechazar el proyecto?
 
-### Options
+### Opciones
 - [ ] A) El oro no es importante <!-- feedback: Tiene valor económico. -->
 - [ ] B) Los páramos son bonitos <!-- feedback: Es subjetivo. -->
 - [x] C) El páramo regula el agua de millones; la minería causaría daños irreversibles vs derecho fundamental al agua <!-- feedback: Correcto. -->
@@ -216,13 +227,14 @@ La Corte Constitucional (Sentencia C-035/2016) protege los páramos por ser ecos
 
 **ID:** `CO-CIE-6-2026-W14-repaso-periodo-3-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Evaluación final del periodo.
+**Contexto:** Evaluación final del periodo.
 
 ### Enunciado
 ¿Cuál acción individual contribuye MÁS a proteger los ecosistemas colombianos?
 
-### Options
+### Opciones
 - [ ] A) No bañarse todos los días <!-- feedback: Ahorrar agua es bueno pero no lo más efectivo. -->
 - [ ] B) Comprar productos importados <!-- feedback: Tienen alta huella de carbono. -->
 - [x] C) Consumir local, reducir plásticos, reciclar y apoyar conservación <!-- feedback: Correcto. -->

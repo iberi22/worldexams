@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "repaso-p5"
-semana: "W30"
+week: "W30"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Repaso Colombia siglo XX y contemporanea"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W30-repaso-p5-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que periodo se conoce como Hegemonia Conservadora?
@@ -39,12 +44,13 @@ La Hegemonia Conservadora duro 44 anos bajo la Constitucion de 1886.
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W30-repaso-p5-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que fue la Republica Liberal (1930-1946)?
@@ -60,12 +66,13 @@ Incluyo la 'Revolucion en Marcha' de Lopez Pumarejo con reformas agraria, educat
 
 ---
 
-## Pregunta 3 [D1]
+## Question 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W30-repaso-p5-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que hecho ocurrio el 9 de abril de 1948?
@@ -81,12 +88,13 @@ El asesinato de Jorge Eliecer Gaitan desato el Bogotazo y el inicio de La Violen
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W30-repaso-p5-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que fue el Frente Nacional?
@@ -102,12 +110,13 @@ El Frente Nacional busco superar la violencia bipartidista pero excluyo a tercer
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W30-repaso-p5-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que grupo guerrillero surgio por el presunto fraude electoral de 1970?
@@ -123,12 +132,13 @@ El M-19 (Movimiento 19 de Abril) nacio como respuesta al fraude denunciado por R
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W30-repaso-p5-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 En que ano se firmo el acuerdo de paz con las FARC?
@@ -144,12 +154,13 @@ Firmado en el Teatro Colon de Bogota, el acuerdo puso fin a mas de 50 anos de co
 
 ---
 
-## Pregunta 7 [D1]
+## Question 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W30-repaso-p5-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Quien fue Pablo Escobar?
@@ -165,12 +176,13 @@ Pablo Escobar fue el narcotraficante mas famoso de Colombia, lider del Cartel de
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W30-repaso-p5-001-MASTERY-v8`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es la Constitucion de 1991?
@@ -186,12 +198,13 @@ La Constitucion de 1991 reemplazo a la de 1886. Amplio derechos y creo la tutela
 
 ---
 
-## Pregunta 9 [D4]
+## Question 9 [D4]
 
 **ID:** `CO-SOC-5-2026-W30-repaso-p5-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Compara la Hegemonia Conservadora y la Republica Liberal: cual es la diferencia clave?
@@ -207,12 +220,13 @@ Los conservadores defendian la tradicion y la religion; los liberales promovian 
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W30-repaso-p5-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por que es importante conocer la historia del conflicto armado colombiano?

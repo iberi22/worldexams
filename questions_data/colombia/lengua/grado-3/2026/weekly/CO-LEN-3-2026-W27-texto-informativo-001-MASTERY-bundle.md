@@ -1,10 +1,10 @@
 ---
-id: "CO-LEN-3-2026-W27-texto-informativo-001-MASTERY"
+id: "CO-LEN-3-2026-W27-texto-informativo-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua"
 tema: "texto-informativo"
-semana: "W27"
+week: "W27"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -15,7 +15,12 @@ distractor_profile: "plausible_peer_set"
 rubric_baseline: "Texto informativo - Grado 3"
 license: "FREE"
 
+bundle_type: "weekly"
+total_questions: 8
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Texto informativo - Grado 3
 
@@ -25,7 +30,7 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ---
 
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 **ID:** `CO-LEN-3-2026-W27-texto-informativo-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -36,21 +41,20 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 Un texto sobre texto informativo tiene como propósito:
 
 ### Opciones
-- [x] A) Informar o explicar sobre el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) Solo entretener
-  <!-- feedback: También informa. -->
-- [ ] C) Vender un producto
-  <!-- feedback: No es publicidad. -->
-- [ ] D) Dar órdenes
-  <!-- feedback: No es instructivo necesariamente. -->
+- [x] A) Informar o explicar sobre el tema <!-- feedback: Correcto! Informar o explicar sobre el tema -->
+
+- [ ] B) Solo entretener <!-- feedback: Incorrecto. Solo entretener -->
+
+- [ ] C) Vender un producto <!-- feedback: Incorrecto. Vender un producto -->
+
+- [ ] D) Dar órdenes <!-- feedback: Incorrecto. Dar órdenes -->
 
 ### Explicación Pedagógica
 Los textos expositivos buscan informar y explicar de manera clara y objetiva.
 
 ---
 
-## Pregunta 2 [D2]
+## Question 2 [D2]
 **ID:** `CO-LEN-3-2026-W27-texto-informativo-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -61,21 +65,20 @@ Los textos expositivos buscan informar y explicar de manera clara y objetiva.
 Un texto sobre texto informativo tiene como propósito:
 
 ### Opciones
-- [x] A) Informar o explicar sobre el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) Solo entretener
-  <!-- feedback: También informa. -->
-- [ ] C) Vender un producto
-  <!-- feedback: No es publicidad. -->
-- [ ] D) Dar órdenes
-  <!-- feedback: No es instructivo necesariamente. -->
+- [x] A) Informar o explicar sobre el tema <!-- feedback: Correcto! Informar o explicar sobre el tema -->
+
+- [ ] B) Solo entretener <!-- feedback: Incorrecto. Solo entretener -->
+
+- [ ] C) Vender un producto <!-- feedback: Incorrecto. Vender un producto -->
+
+- [ ] D) Dar órdenes <!-- feedback: Incorrecto. Dar órdenes -->
 
 ### Explicación Pedagógica
 Los textos expositivos buscan informar y explicar de manera clara y objetiva.
 
 ---
 
-## Pregunta 3 [D3]
+## Question 3 [D3]
 **ID:** `CO-LEN-3-2026-W27-texto-informativo-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Comunicación Escrita
@@ -86,21 +89,20 @@ Los textos expositivos buscan informar y explicar de manera clara y objetiva.
 Un texto sobre texto informativo tiene como propósito:
 
 ### Opciones
-- [x] A) Informar o explicar sobre el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) Solo entretener
-  <!-- feedback: También informa. -->
-- [ ] C) Vender un producto
-  <!-- feedback: No es publicidad. -->
-- [ ] D) Dar órdenes
-  <!-- feedback: No es instructivo necesariamente. -->
+- [x] A) Informar o explicar sobre el tema <!-- feedback: Correcto! Informar o explicar sobre el tema -->
+
+- [ ] B) Solo entretener <!-- feedback: Incorrecto. Solo entretener -->
+
+- [ ] C) Vender un producto <!-- feedback: Incorrecto. Vender un producto -->
+
+- [ ] D) Dar órdenes <!-- feedback: Incorrecto. Dar órdenes -->
 
 ### Explicación Pedagógica
 Los textos expositivos buscan informar y explicar de manera clara y objetiva.
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEN-3-2026-W27-texto-informativo-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -111,21 +113,20 @@ Los textos expositivos buscan informar y explicar de manera clara y objetiva.
 Un texto sobre texto informativo tiene como propósito:
 
 ### Opciones
-- [x] A) Informar o explicar sobre el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) Solo entretener
-  <!-- feedback: También informa. -->
-- [ ] C) Vender un producto
-  <!-- feedback: No es publicidad. -->
-- [ ] D) Dar órdenes
-  <!-- feedback: No es instructivo necesariamente. -->
+- [x] A) Informar o explicar sobre el tema <!-- feedback: Correcto! Informar o explicar sobre el tema -->
+
+- [ ] B) Solo entretener <!-- feedback: Incorrecto. Solo entretener -->
+
+- [ ] C) Vender un producto <!-- feedback: Incorrecto. Vender un producto -->
+
+- [ ] D) Dar órdenes <!-- feedback: Incorrecto. Dar órdenes -->
 
 ### Explicación Pedagógica
 Los textos expositivos buscan informar y explicar de manera clara y objetiva.
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEN-3-2026-W27-texto-informativo-001-MASTERY-v5`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -136,21 +137,20 @@ Los textos expositivos buscan informar y explicar de manera clara y objetiva.
 Un texto sobre texto informativo tiene como propósito:
 
 ### Opciones
-- [x] A) Informar o explicar sobre el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) Solo entretener
-  <!-- feedback: También informa. -->
-- [ ] C) Vender un producto
-  <!-- feedback: No es publicidad. -->
-- [ ] D) Dar órdenes
-  <!-- feedback: No es instructivo necesariamente. -->
+- [x] A) Informar o explicar sobre el tema <!-- feedback: Correcto! Informar o explicar sobre el tema -->
+
+- [ ] B) Solo entretener <!-- feedback: Incorrecto. Solo entretener -->
+
+- [ ] C) Vender un producto <!-- feedback: Incorrecto. Vender un producto -->
+
+- [ ] D) Dar órdenes <!-- feedback: Incorrecto. Dar órdenes -->
 
 ### Explicación Pedagógica
 Los textos expositivos buscan informar y explicar de manera clara y objetiva.
 
 ---
 
-## Pregunta 6 [D2-D3]
+## Question 6 [D2-D3]
 **ID:** `CO-LEN-3-2026-W27-texto-informativo-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Comunicación Escrita
@@ -161,21 +161,20 @@ Los textos expositivos buscan informar y explicar de manera clara y objetiva.
 Un texto sobre texto informativo tiene como propósito:
 
 ### Opciones
-- [x] A) Informar o explicar sobre el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) Solo entretener
-  <!-- feedback: También informa. -->
-- [ ] C) Vender un producto
-  <!-- feedback: No es publicidad. -->
-- [ ] D) Dar órdenes
-  <!-- feedback: No es instructivo necesariamente. -->
+- [x] A) Informar o explicar sobre el tema <!-- feedback: Correcto! Informar o explicar sobre el tema -->
+
+- [ ] B) Solo entretener <!-- feedback: Incorrecto. Solo entretener -->
+
+- [ ] C) Vender un producto <!-- feedback: Incorrecto. Vender un producto -->
+
+- [ ] D) Dar órdenes <!-- feedback: Incorrecto. Dar órdenes -->
 
 ### Explicación Pedagógica
 Los textos expositivos buscan informar y explicar de manera clara y objetiva.
 
 ---
 
-## Pregunta 7 [D3-D4]
+## Question 7 [D3-D4]
 **ID:** `CO-LEN-3-2026-W27-texto-informativo-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -186,21 +185,20 @@ Los textos expositivos buscan informar y explicar de manera clara y objetiva.
 Un texto sobre texto informativo tiene como propósito:
 
 ### Opciones
-- [x] A) Informar o explicar sobre el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) Solo entretener
-  <!-- feedback: También informa. -->
-- [ ] C) Vender un producto
-  <!-- feedback: No es publicidad. -->
-- [ ] D) Dar órdenes
-  <!-- feedback: No es instructivo necesariamente. -->
+- [x] A) Informar o explicar sobre el tema <!-- feedback: Correcto! Informar o explicar sobre el tema -->
+
+- [ ] B) Solo entretener <!-- feedback: Incorrecto. Solo entretener -->
+
+- [ ] C) Vender un producto <!-- feedback: Incorrecto. Vender un producto -->
+
+- [ ] D) Dar órdenes <!-- feedback: Incorrecto. Dar órdenes -->
 
 ### Explicación Pedagógica
 Los textos expositivos buscan informar y explicar de manera clara y objetiva.
 
 ---
 
-## Pregunta 8 [D4-D5]
+## Question 8 [D4-D5]
 **ID:** `CO-LEN-3-2026-W27-texto-informativo-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -211,14 +209,13 @@ Los textos expositivos buscan informar y explicar de manera clara y objetiva.
 Un texto sobre texto informativo tiene como propósito:
 
 ### Opciones
-- [x] A) Informar o explicar sobre el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) Solo entretener
-  <!-- feedback: También informa. -->
-- [ ] C) Vender un producto
-  <!-- feedback: No es publicidad. -->
-- [ ] D) Dar órdenes
-  <!-- feedback: No es instructivo necesariamente. -->
+- [x] A) Informar o explicar sobre el tema <!-- feedback: Correcto! Informar o explicar sobre el tema -->
+
+- [ ] B) Solo entretener <!-- feedback: Incorrecto. Solo entretener -->
+
+- [ ] C) Vender un producto <!-- feedback: Incorrecto. Vender un producto -->
+
+- [ ] D) Dar órdenes <!-- feedback: Incorrecto. Dar órdenes -->
 
 ### Explicación Pedagógica
 Los textos expositivos buscan informar y explicar de manera clara y objetiva.

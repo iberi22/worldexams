@@ -1,28 +1,32 @@
 ---
-id: "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY"
+id: "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "matematicas"
 tema: "numeros-enteros"
-semana: "W01"
+week: "W01"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Números Enteros - Grado 7
 ## Semana W01 — Operaciones básicas con números enteros
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el colegio La Salle de Medellín, la profesora Andrea pregunta a sus estudiantes sobre las propiedades de los números enteros.
+**Contexto:** En el colegio La Salle de Medellín, la profesora Andrea pregunta a sus estudiantes sobre las propiedades de los números enteros.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ El conjunto de los números enteros (ℤ) es una ampliación de los números nat
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** En Bogotá, la temperatura en la mañana era de 7°C y al atardecer bajó a -3°C. Santiago registra los cambios en su cuaderno de ciencias.
+**Contexto:** En Bogotá, la temperatura en la mañana era de 7°C y al atardecer bajó a -3°C. Santiago registra los cambios en su cuaderno de ciencias.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ Para calcular la diferencia entre dos temperaturas, una positiva (7°C) y otra n
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Carlos tiene una cuenta de ahorros en un banco de Bucaramanga. El lunes su saldo era de $45.000. El martes retiró $62.000.
+**Contexto:** Carlos tiene una cuenta de ahorros en un banco de Bucaramanga. El lunes su saldo era de $45.000. El martes retiró $62.000.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -81,11 +85,11 @@ Esta situación cotidiana muestra la utilidad de los números negativos. Al reti
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Valentina y su hermano viven en un edificio de apartamentos en Cali. Ella vive en el piso 8 y su hermano en el sótano 3 (piso -3).
+**Contexto:** Valentina y su hermano viven en un edificio de apartamentos en Cali. Ella vive en el piso 8 y su hermano en el sótano 3 (piso -3).
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -102,11 +106,11 @@ Para hallar la distancia entre dos puntos en una recta numérica, se resta el me
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio San José de Sincelejo, el profesor Jaime explica la recta numérica y pide a sus estudiantes ordenar los números: -5, 3, -1, 0, 4, -8.
+**Contexto:** En el Colegio San José de Sincelejo, el profesor Jaime explica la recta numérica y pide a sus estudiantes ordenar los números: -5, 3, -1, 0, 4, -8.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -123,11 +127,11 @@ En la recta numérica, los números aumentan de izquierda a derecha. Los número
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Laura está resolviendo operaciones combinadas con enteros en su taller de matemáticas del colegio de Pereira. Debe calcular: (-15) + 8 - (-3) × 2.
+**Contexto:** Laura está resolviendo operaciones combinadas con enteros en su taller de matemáticas del colegio de Pereira. Debe calcular: (-15) + 8 - (-3) × 2.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ Para resolver operaciones combinadas con enteros se debe respetar la jerarquía:
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una competencia de matemáticas del Colegio San Carlos de Bogotá, se presenta la siguiente igualdad: □ + (-8) = 12. Los estudiantes deben hallar el número que falta.
+**Contexto:** En una competencia de matemáticas del Colegio San Carlos de Bogotá, se presenta la siguiente igualdad: □ + (-8) = 12. Los estudiantes deben hallar el número que falta.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Para hallar el valor desconocido en una ecuación con enteros, se despeja la inc
 
 ---
 
-## Pregunta 8 [D6]
+## Question 8 [D6]
 **ID:** `CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Camila encontró un error en la siguiente operación que resolvió su compañero Sebastián en el colegio Champagnat de Pasto: (-7) × (-3) = -21.
+**Contexto:** Camila encontró un error en la siguiente operación que resolvió su compañero Sebastián en el colegio Champagnat de Pasto: (-7) × (-3) = -21.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -186,11 +190,11 @@ La regla de signos en multiplicación establece que el producto de dos números 
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Andrés afirma que para cualquier número entero n, la expresión n - (-5) siempre será mayor que n + 3. Sus compañeros en el colegio de Ibagué discuten esta afirmación.
+**Contexto:** Andrés afirma que para cualquier número entero n, la expresión n - (-5) siempre será mayor que n + 3. Sus compañeros en el colegio de Ibagué discuten esta afirmación.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ Al simplificar n - (-5) obtenemos n + 5. Comparando con n + 3, vemos que n + 5 =
 
 ---
 
-## Pregunta 10 [D7]
+## Question 10 [D7]
 **ID:** `CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el colegio INEM de Neiva, la profesora Daniela propuso: "Si a = -3 y b = -7, ¿cuál expresión es mayor: a + b o a × b?"
+**Contexto:** En el colegio INEM de Neiva, la profesora Daniela propuso: "Si a = -3 y b = -7, ¿cuál expresión es mayor: a + b o a × b?"
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -228,11 +232,11 @@ La suma de dos números negativos es negativa: -3 + (-7) = -10. Sin embargo, el 
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** María está resolviendo un problema en su cuaderno del colegio de Tunja. Debe encontrar el valor de |−8| + |5| − |−3|.
+**Contexto:** María está resolviendo un problema en su cuaderno del colegio de Tunja. Debe encontrar el valor de |−8| + |5| − |−3|.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -249,11 +253,11 @@ El valor absoluto de un número entero representa su distancia desde el cero en 
 
 ---
 
-## Pregunta 12 [D8]
+## Question 12 [D8]
 **ID:** `CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el Colegio La Presentación de Santa Marta, el profesor plantea un acertijo: "Si multiplico dos números enteros diferentes de cero y el resultado es negativo, ¿qué puedo concluir sobre los factores?"
+**Contexto:** En el Colegio La Presentación de Santa Marta, el profesor plantea un acertijo: "Si multiplico dos números enteros diferentes de cero y el resultado es negativo, ¿qué puedo concluir sobre los factores?"
 **Expected_Success:** 0.45
 
 ### Enunciado

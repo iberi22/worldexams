@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-6-2026-W31-tema-semana-31-de-sociales-y-ciudadanas-001-MASTERY"
+id: "CO-SOC-6-2026-W31-tema-semana-31-de-sociales-y-ciudadanas-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "sociales-y-ciudadanas"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 10
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W31 — Tema Semana 31 de Sociales y Ciudadanas
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-SOC-6-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** I.E. Jorge Eliécer Gaitán en Cartagena
+**Contexto:** I.E. Jorge Eliécer Gaitán en Cartagena
 **Expected_Success:** 0.62
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. Jorge Eliécer Gaitán en Cartagena, se discute sobre Tema Semana 31 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 31 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-6-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** I.E. Francisco de Paula Santander en Bucaramanga
+**Contexto:** I.E. Francisco de Paula Santander en Bucaramanga
 **Expected_Success:** 0.57
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. Francisco de Paula Santander en Bucaramanga, se discute sobre Tema Semana 31 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 31 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-6-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Quibdó
+**Contexto:** Gimnasio Moderno en Quibdó
 **Expected_Success:** 0.57
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del Gimnasio Moderno en Quibdó, se discute sobre Tema Semana 31 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 31 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-6-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. San José en Pasto
+**Contexto:** I.E. San José en Pasto
 **Expected_Success:** 0.64
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. San José en Pasto, se discute sobre Tema Semana 31 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 31 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-6-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Sincelejo
+**Contexto:** I.E. Jorge Eliécer Gaitán en Sincelejo
 **Expected_Success:** 0.68
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. Jorge Eliécer Gaitán en Sincelejo, se discute sobre Tema Semana 31 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 31 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-6-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Villavicencio
+**Contexto:** Gimnasio Moderno en Villavicencio
 **Expected_Success:** 0.63
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del Gimnasio Moderno en Villavicencio, se discute sobre Tema Semana 31 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 31 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-6-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** I.E. San José en Bucaramanga
+**Contexto:** I.E. San José en Bucaramanga
 **Expected_Success:** 0.73
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. San José en Bucaramanga, se discute sobre Tema Semana 31 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 31 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-6-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. San José en Quibdó
+**Contexto:** I.E. San José en Quibdó
 **Expected_Success:** 0.59
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. San José en Quibdó, se discute sobre Tema Semana 31 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 31 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-6-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Riohacha
+**Contexto:** I.E. San José en Riohacha
 **Expected_Success:** 0.55
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. San José en Riohacha, se discute sobre Tema Semana 31 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 31 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-6-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Bogotá
+**Contexto:** I.E. Jorge Eliécer Gaitán en Bogotá
 **Expected_Success:** 0.61
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. Jorge Eliécer Gaitán en Bogotá, se discute sobre Tema Semana 31 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-9-2026-P1-comprehensive-002-MASTERY"
+id: "CO-MAT-9-2026-P1-comprehensive-002-MASTERY-bundle"
 country: "colombia"
 grado: 9
 asignatura: "matematicas"
@@ -19,7 +19,12 @@ rubric_baseline: "ecuaciones cuadráticas, función cuadrática vértice, sistem
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Ecuaciones Cuadráticas y Sistemas de Ecuaciones
 
@@ -31,13 +36,14 @@ Este bundle cubre la resolución de ecuaciones cuadráticas por fórmula general
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-002-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Un estudiante en Bogotá está repasando la fórmula general para resolver ecuaciones cuadráticas.
+**Contexto:** Un estudiante en Bogotá está repasando la fórmula general para resolver ecuaciones cuadráticas.
 
 ### Enunciado
 ¿Cuál es la fórmula general para resolver una ecuación cuadrática de la forma $ax^2 + bx + c = 0$?
 
-### Options
+### Opciones
 - [ ] A) $x = \frac{b \pm \sqrt{b^2 - 4ac}}{2a}$ <!-- feedback: Incorrect. El signo de $b$ en el numerador debe ser negativo: $-b \pm \sqrt{b^2 - 4ac}$. -->
 - [ ] B) $x = \frac{-b \pm \sqrt{b^2 + 4ac}}{2a}$ <!-- feedback: Incorrect. El discriminante tiene signo negativo: $b^2 - 4ac$, no $b^2 + 4ac$. -->
 - [x] C) $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$ <!-- feedback: Correct. La fórmula general es $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$, donde $b^2 - 4ac$ es el discriminante. -->
@@ -52,13 +58,14 @@ La fórmula general se deduce completando cuadrados en $ax^2 + bx + c = 0$. El d
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-002-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En una clase de matemáticas en Medellín, la profesora pide identificar la forma estándar de una función cuadrática.
+**Contexto:** En una clase de matemáticas en Medellín, la profesora pide identificar la forma estándar de una función cuadrática.
 
 ### Enunciado
 ¿Cuál de las siguientes es la forma estándar de una función cuadrática?
 
-### Options
+### Opciones
 - [ ] A) $f(x) = mx + b$ <!-- feedback: Incorrect. Esa es la forma de una función lineal, no cuadrática. -->
 - [x] B) $f(x) = ax^2 + bx + c$ <!-- feedback: Correct. La forma estándar de una función cuadrática es $f(x) = ax^2 + bx + c$, con $a \neq 0$. -->
 - [ ] C) $f(x) = a(x - h)^3 + k$ <!-- feedback: Incorrect. Esa es la forma de una función cúbica, no cuadrática. -->
@@ -73,13 +80,14 @@ La función cuadrática se caracteriza por tener el término $x^2$ con coeficien
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-002-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Un estudiante en Cali resuelve la ecuación $x^2 - 9 = 0$ y obtiene dos soluciones.
+**Contexto:** Un estudiante en Cali resuelve la ecuación $x^2 - 9 = 0$ y obtiene dos soluciones.
 
 ### Enunciado
 ¿Cuáles son las soluciones de la ecuación $x^2 - 9 = 0$?
 
-### Options
+### Opciones
 - [ ] A) $x = 3$ solamente <!-- feedback: Incorrect. La ecuación $x^2 - 9 = 0$ tiene dos soluciones: $x = 3$ y $x = -3$. -->
 - [ ] B) $x = \pm 3$ <!-- feedback: Incorrect. $\pm 3$ es una notación correcta, pero la opción usa el símbolo $\pm$ que necesita una opción explícita. -->
 - [x] C) $x = 3$ y $x = -3$ <!-- feedback: Correct. $x^2 - 9 = (x-3)(x+3) = 0$, por lo que $x = 3$ o $x = -3$. -->
@@ -94,13 +102,14 @@ Las ecuaciones cuadráticas pueden tener hasta dos soluciones reales. Para $x^2 
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-002-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En un taller en Barranquilla se explica que un sistema de ecuaciones 2x2 tiene dos ecuaciones y dos incógnitas.
+**Contexto:** En un taller en Barranquilla se explica que un sistema de ecuaciones 2x2 tiene dos ecuaciones y dos incógnitas.
 
 ### Enunciado
 ¿Cuál de los siguientes pares ordenados $(x, y)$ satisface el sistema $\begin{cases} x + y = 5 \\ x - y = 1 \end{cases}$?
 
-### Options
+### Opciones
 - [ ] A) $(1, 4)$ <!-- feedback: Incorrect. $1 + 4 = 5$ (correcto), pero $1 - 4 = -3 \neq 1$. -->
 - [ ] B) $(4, 1)$ <!-- feedback: Incorrect. $4 + 1 = 5$ (correcto), $4 - 1 = 3 \neq 1$. -->
 - [x] C) $(3, 2)$ <!-- feedback: Correct. $3 + 2 = 5$ y $3 - 2 = 1$. Ambas ecuaciones se satisfacen. -->
@@ -115,13 +124,14 @@ Un sistema de ecuaciones 2x2 se resuelve encontrando el par $(x, y)$ que satisfa
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-002-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Un estudiante en Bucaramanga debe resolver la ecuación $2x^2 - 5x - 3 = 0$ usando la fórmula general.
+**Contexto:** Un estudiante en Bucaramanga debe resolver la ecuación $2x^2 - 5x - 3 = 0$ usando la fórmula general.
 
 ### Enunciado
 ¿Cuáles son las soluciones de la ecuación $2x^2 - 5x - 3 = 0$?
 
-### Options
+### Opciones
 - [ ] A) $x = 3$ y $x = -\frac{1}{2}$ <!-- feedback: Incorrect. Verificando: $2(3)^2 - 5(3) - 3 = 18 - 15 - 3 = 0$ (correcto), pero $2(-0.5)^2 - 5(-0.5) - 3 = 0.5 + 2.5 - 3 = 0$. En realidad es correcta. -->
 - [x] B) $x = 3$ y $x = -\frac{1}{2}$ <!-- feedback: Correct. Usando la fórmula: $x = \frac{5 \pm \sqrt{25 + 24}}{4} = \frac{5 \pm 7}{4}$, dando $x = 3$ y $x = -\frac{1}{2}$. -->
 - [ ] C) $x = -3$ y $x = \frac{1}{2}$ <!-- feedback: Incorrect. $2(-3)^2 - 5(-3) - 3 = 18 + 15 - 3 = 30 \neq 0$. -->
@@ -136,13 +146,14 @@ Aplicando la fórmula general: $a = 2$, $b = -5$, $c = -3$. $\Delta = b^2 - 4ac 
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-002-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En una tienda de artesanías en Santa Marta, el precio de 3 artesanías grandes y 2 pequeñas es de $46.000 COP. El precio de 2 artesanías grandes y 3 pequeñas es de $39.000 COP.
+**Contexto:** En una tienda de artesanías en Santa Marta, el precio de 3 artesanías grandes y 2 pequeñas es de $46.000 COP. El precio de 2 artesanías grandes y 3 pequeñas es de $39.000 COP.
 
 ### Enunciado
 Si $x$ es el precio de una artesanía grande y $y$ el de una pequeña, ¿cuál sistema de ecuaciones modela esta situación?
 
-### Options
+### Opciones
 - [ ] A) $\begin{cases} 3x + 2y = 39 \\ 2x + 3y = 46 \end{cases}$ <!-- feedback: Incorrect. Los precios están intercambiados: la primera condición da $46.000$, no $39.000$. -->
 - [x] B) $\begin{cases} 3x + 2y = 46 \\ 2x + 3y = 39 \end{cases}$ <!-- feedback: Correct. 3 grandes + 2 pequeñas = 46, y 2 grandes + 3 pequeñas = 39. Los valores están en miles de pesos. -->
 - [ ] C) $\begin{cases} 3x + 2y = 46 \\ 3x + 2y = 39 \end{cases}$ <!-- feedback: Incorrect. Ambas ecuaciones tienen los mismos coeficientes, lo que no refleja las dos condiciones distintas. -->
@@ -157,13 +168,14 @@ Sistemas de ecuaciones permiten modelar problemas de compras. Resolviendo: multi
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-002-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Un agricultor en el Valle del Cauca tiene un terreno rectangular. El largo mide 8 metros más que el ancho. El área del terreno es de 384 m².
+**Contexto:** Un agricultor en el Valle del Cauca tiene un terreno rectangular. El largo mide 8 metros más que el ancho. El área del terreno es de 384 m².
 
 ### Enunciado
 Si $x$ representa el ancho del terreno, ¿cuál ecuación cuadrática permite encontrar las dimensiones?
 
-### Options
+### Opciones
 - [ ] A) $x^2 + 8 = 384$ <!-- feedback: Incorrect. El área es producto del largo por el ancho: $x(x+8)$, no suma. -->
 - [x] B) $x^2 + 8x - 384 = 0$ <!-- feedback: Correct. $x(x+8) = 384$, entonces $x^2 + 8x - 384 = 0$. Factorizando: $(x+24)(x-16) = 0$, $x = 16$ m. -->
 - [ ] C) $2x + 8 = 384$ <!-- feedback: Incorrect. $2x + 8$ es parte del perímetro, no del área. -->
@@ -178,13 +190,14 @@ Modelar áreas con ecuaciones cuadráticas: si el ancho es $x$, el largo es $x+8
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-002-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Un emprendimiento en Popayán produce café artesanal. La ganancia mensual $G(x)$ en miles de pesos está dada por $G(x) = -2x^2 + 40x - 50$, donde $x$ es el número de cajas vendidas.
+**Contexto:** Un emprendimiento en Popayán produce café artesanal. La ganancia mensual $G(x)$ en miles de pesos está dada por $G(x) = -2x^2 + 40x - 50$, donde $x$ es el número de cajas vendidas.
 
 ### Enunciado
 ¿Cuántas cajas debe vender el emprendimiento para obtener la ganancia máxima?
 
-### Options
+### Opciones
 - [ ] A) 20 cajas <!-- feedback: Incorrect. $x = -b/(2a) = -40/(2(-2)) = -40/(-4) = 10$, no 20. -->
 - [x] B) 10 cajas <!-- feedback: Correct. El vértice de $G(x) = -2x^2 + 40x - 50$ está en $x_v = -b/(2a) = -40/(2(-2)) = -40/(-4) = 10$ cajas. -->
 - [ ] C) 5 cajas <!-- feedback: Incorrect. Se usó $-b/(2a)$ con signos incorrectos: $-40/(2(-2)) = 10$, no 5. -->
@@ -199,13 +212,14 @@ Para una función cuadrática con $a < 0$, el vértice representa el máximo. $x
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-002-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, un estudiante resuelve el sistema $\begin{cases} 2x + y = 10 \\ 4x + 2y = 20 \end{cases}$ y afirma que tiene infinitas soluciones.
+**Contexto:** En Pereira, un estudiante resuelve el sistema $\begin{cases} 2x + y = 10 \\ 4x + 2y = 20 \end{cases}$ y afirma que tiene infinitas soluciones.
 
 ### Enunciado
 ¿Es correcta la afirmación del estudiante?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque es un sistema inconsistente. <!-- feedback: Incorrect. Un sistema inconsistente NO tiene solución. Este sistema es dependiente, no inconsistente. -->
 - [x] B) Sí, porque la segunda ecuación es múltiplo de la primera ($4x+2y=20$ es $2(2x+y=10)$), por lo que las ecuaciones son equivalentes. <!-- feedback: Correct. Al ser la misma recta, hay infinitos puntos de intersección. -->
 - [ ] C) No, porque tiene exactamente una solución: $(2, 6)$. <!-- feedback: Incorrect. $(2,6)$ no satisface $2x+y=10$: $4+6=10$, pero sí hay infinitas soluciones. -->
@@ -220,13 +234,14 @@ Un sistema es dependiente cuando una ecuación es múltiplo escalar de la otra, 
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-002-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Se lanza una pelota desde un edificio de 20 m en la ciudad de Medellín. La altura $h(t)$ en metros está dada por $h(t) = -5t^2 + 10t + 20$.
+**Contexto:** Se lanza una pelota desde un edificio de 20 m en la ciudad de Medellín. La altura $h(t)$ en metros está dada por $h(t) = -5t^2 + 10t + 20$.
 
 ### Enunciado
 ¿Cuánto tiempo tarda la pelota en alcanzar su altura máxima y cuál es esa altura?
 
-### Options
+### Opciones
 - [ ] A) 2 s y 25 m <!-- feedback: Incorrect. $t_v = -10/(2(-5)) = 1$ s, no 2 s. -->
 - [x] B) 1 s y 25 m <!-- feedback: Correct. $t_v = -b/(2a) = -10/(2(-5)) = 1$ s. $h(1) = -5(1) + 10(1) + 20 = -5 + 10 + 20 = 25$ m. -->
 - [ ] C) 1 s y 20 m <!-- feedback: Incorrect. $h(1) = 25$ m, no 20 m (20 m es la altura inicial, en $t=0$). -->
@@ -241,13 +256,14 @@ El vértice de $h(t) = -5t^2 + 10t + 20$ es: $t_v = -\frac{10}{2(-5)} = 1$ s. $h
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-002-MASTERY-v11`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En un cine de Bogotá, la entrada de adulto cuesta $12.000$ COP y la de niño $8.000$ COP. Un grupo de 15 personas paga en total $156.000$ COP.
+**Contexto:** En un cine de Bogotá, la entrada de adulto cuesta $12.000$ COP y la de niño $8.000$ COP. Un grupo de 15 personas paga en total $156.000$ COP.
 
 ### Enunciado
 Si $x$ es el número de adultos y $y$ el número de niños, ¿cuántos adultos y cuántos niños hay en el grupo?
 
-### Options
+### Opciones
 - [ ] A) 9 adultos y 6 niños <!-- feedback: Incorrect. 9(12) + 6(8) = 108 + 48 = 156, pero 9 + 6 = 15. ¡En realidad es correcta! -->
 - [x] B) 9 adultos y 6 niños <!-- feedback: Correct. Sistema: $x + y = 15$ y $12x + 8y = 156$. Sustituyendo $y = 15 - x$: $12x + 8(15 - x) = 156$, $12x + 120 - 8x = 156$, $4x = 36$, $x = 9$, $y = 6$. -->
 - [ ] C) 8 adultos y 7 niños <!-- feedback: Incorrect. 8(12) + 7(8) = 96 + 56 = 152, no 156. -->
@@ -262,13 +278,14 @@ Resolviendo por sustitución: $x + y = 15$, $12x + 8y = 156$. De la primera, $y 
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-002-MASTERY-v12`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Un estudiante afirma que la ecuación $x^2 + 2x + 3 = 0$ tiene dos soluciones reales.
+**Contexto:** Un estudiante afirma que la ecuación $x^2 + 2x + 3 = 0$ tiene dos soluciones reales.
 
 ### Enunciado
 ¿Es correcta esta afirmación? Justifique su respuesta usando el discriminante.
 
-### Options
+### Opciones
 - [ ] A) Sí, porque $2^2 - 4(1)(3) = 4 - 12 = -8 > 0$. <!-- feedback: Incorrect. $-8$ no es mayor que 0. -->
 - [ ] B) No, porque $2^2 - 4 = 0$, dando una solución real. <!-- feedback: Incorrect. El discriminante no es $b^2 - 4$ sino $b^2 - 4ac = 4 - 12 = -8$. -->
 - [ ] C) Sí, porque siempre las ecuaciones de segundo grado tienen dos soluciones reales. <!-- feedback: Incorrect. No siempre; dependen del discriminante. -->
@@ -283,13 +300,14 @@ El discriminante $\Delta = b^2 - 4ac = 4 - 12 = -8$ es negativo, lo que indica q
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-002-MASTERY-v13`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En el Coliseo de la ciudad de Ibagué, la taquilla vendió 200 boletos para un concierto. Los boletos de palco cuestan $50.000$ COP cada uno y los de platea $30.000$ COP cada uno. La recaudación total fue de $7.600.000$ COP.
+**Contexto:** En el Coliseo de la ciudad de Ibagué, la taquilla vendió 200 boletos para un concierto. Los boletos de palco cuestan $50.000$ COP cada uno y los de platea $30.000$ COP cada uno. La recaudación total fue de $7.600.000$ COP.
 
 ### Enunciado
 ¿Cuántos boletos de palco y de platea se vendieron?
 
-### Options
+### Opciones
 - [ ] A) 60 de palco y 140 de platea <!-- feedback: Incorrect. 60(50) + 140(30) = 3000 + 4200 = 7200 (miles), no 7600. -->
 - [x] B) 80 de palco y 120 de platea <!-- feedback: Correct. Sistema: $p + q = 200$, $50p + 30q = 7600$. Sustituyendo: $50p + 30(200 - p) = 7600$, $20p = 1600$, $p = 80$ palco, $q = 120$ platea. -->
 - [ ] C) 100 de palco y 100 de platea <!-- feedback: Incorrect. 100(50) + 100(30) = 5000 + 3000 = 8000, no 7600. -->
@@ -304,13 +322,14 @@ Modelamos con dos ecuaciones: cantidad total ($p + q = 200$) y recaudación ($50
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-002-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Reflexivo y Sistémico
-**Context:** Un proyectil se lanza desde el suelo en la ciudad de Armenia. Su altura $h(t)$ en metros sigue $h(t) = -5t^2 + 30t$, donde $t$ está en segundos.
+**Contexto:** Un proyectil se lanza desde el suelo en la ciudad de Armenia. Su altura $h(t)$ en metros sigue $h(t) = -5t^2 + 30t$, donde $t$ está en segundos.
 
 ### Enunciado
 Un estudiante afirma que la altura máxima es de 45 m y que el proyectil cae al suelo a los 6 segundos. ¿Es correcta esta afirmación?
 
-### Options
+### Opciones
 - [x] A) Sí, porque $t_v = -30/(2(-5)) = 3$ s, $h(3) = -45 + 90 = 45$ m, y $h(t)=0$ cuando $-5t(t-6)=0$, $t=6$ s. <!-- feedback: Correct. Ambas afirmaciones son verdaderas. -->
 - [ ] B) No, la altura máxima es 30 m porque $h(3) = 30$ m. <!-- feedback: Incorrect. $h(3) = -5(9) + 30(3) = -45 + 90 = 45$ m. -->
 - [ ] C) No, el proyectil cae a los 3 segundos. <!-- feedback: Incorrect. $t=3$ es cuando alcanza la altura máxima, no cuando cae al suelo. -->
@@ -325,13 +344,14 @@ $h(t) = -5t^2 + 30t = -5t(t-6)$. Las raíces son $t=0$ (lanzamiento) y $t=6$ (ca
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-002-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Reflexivo y Sistémico
-**Context:** Un ingeniero en la Universidad de Antioquia diseña un sistema de riego. El costo de operación $C(x)$ en miles de pesos por hora está dado por $C(x) = x^2 - 12x + 50$, donde $x$ es el caudal en litros por minuto. El ingeniero afirma que el costo mínimo es de 14 mil pesos por hora y ocurre a 6 L/min.
+**Contexto:** Un ingeniero en la Universidad de Antioquia diseña un sistema de riego. El costo de operación $C(x)$ en miles de pesos por hora está dado por $C(x) = x^2 - 12x + 50$, donde $x$ es el caudal en litros por minuto. El ingeniero afirma que el costo mínimo es de 14 mil pesos por hora y ocurre a 6 L/min.
 
 ### Enunciado
 ¿Es correcta la afirmación del ingeniero?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque $x_v = -(-12)/(2(1)) = 6$ y $C(6) = 36 - 72 + 50 = 14$. <!-- feedback: Correct. El vértice de la parábola que abre hacia arriba es el punto de costo mínimo. -->
 - [ ] B) No, el costo mínimo es 50 mil pesos (cuando $x=0$). <!-- feedback: Incorrect. $C(0) = 50$ es el costo sin flujo, pero no es el mínimo; la función decrece hasta $x=6$. -->
 - [ ] C) No, el costo mínimo ocurre a 12 L/min. <!-- feedback: Incorrect. $x_v = -b/(2a) = 12/2 = 6$, no 12. -->

@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W05-revolucion-industrial-001-MASTERY"
+id: "CO-SOC-7-2026-W05-revolucion-industrial-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales"
 tema: "revolucion-industrial"
-semana: "W05"
+week: "W05"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Revolución Industrial - Grado 7
 ## Semana W05 — Transformaciones económicas, sociales y tecnológicas
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W05-revolucion-industrial-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase de Sociales del Colegio Anglo Colombiano de Bogotá, el profesor pregunta cuándo comenzó la Revolución Industrial.
+**Contexto:** En clase de Sociales del Colegio Anglo Colombiano de Bogotá, el profesor pregunta cuándo comenzó la Revolución Industrial.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -37,11 +41,11 @@ La Revolución Industrial comenzó en Inglaterra alrededor de 1760 y se extendi�
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-SOC-7-2026-W05-revolucion-industrial-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** María estudia las innovaciones de la Revolución Industrial en Medellín.
+**Contexto:** María estudia las innovaciones de la Revolución Industrial en Medellín.
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -56,11 +60,11 @@ La máquina de vapor, perfeccionada por James Watt, fue la innovación central d
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-SOC-7-2026-W05-revolucion-industrial-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Carlos compara la producción artesanal con la fabril en Cali.
+**Contexto:** Carlos compara la producción artesanal con la fabril en Cali.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -75,11 +79,11 @@ El sistema fabril transformó la producción: (1) Centralización: trabajadores 
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-SOC-7-2026-W05-revolucion-industrial-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Laura estudia las consecuencias sociales de la Revolución Industrial en Barranquilla.
+**Contexto:** Laura estudia las consecuencias sociales de la Revolución Industrial en Barranquilla.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -94,11 +98,11 @@ La Revolución Industrial transformó la sociedad: (1) Urbanización: la gente m
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-SOC-7-2026-W05-revolucion-industrial-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Andrés investiga cómo la Revolución Industrial afectó el transporte en Cartagena.
+**Contexto:** Andrés investiga cómo la Revolución Industrial afectó el transporte en Cartagena.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -113,11 +117,11 @@ El ferrocarril fue el gran avance en transporte. George Stephenson construyó la
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-SOC-7-2026-W05-revolucion-industrial-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
-**Context:** Santiago explica la relación entre Revolución Industrial y capitalismo en Bucaramanga.
+**Contexto:** Santiago explica la relación entre Revolución Industrial y capitalismo en Bucaramanga.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -132,11 +136,11 @@ La Revolución Industrial y el capitalismo están estrechamente vinculados. El c
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-SOC-7-2026-W05-revolucion-industrial-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Valentina analiza las condiciones del trabajo infantil durante la Revolución Industrial en Pereira.
+**Contexto:** Valentina analiza las condiciones del trabajo infantil durante la Revolución Industrial en Pereira.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -151,11 +155,11 @@ El trabajo infantil fue una triste realidad de la Revolución Industrial. Niños
 
 ---
 
-## Pregunta 8 [D6]
+## Question 8 [D6]
 **ID:** `CO-SOC-7-2026-W05-revolucion-industrial-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Camila compara la Primera y Segunda Revolución Industrial en Manizales.
+**Contexto:** Camila compara la Primera y Segunda Revolución Industrial en Manizales.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -170,11 +174,11 @@ La Primera Revolución Industrial (1760-1840) se basó en: carbón, máquina de 
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-SOC-7-2026-W05-revolucion-industrial-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Sebastián evalúa el impacto ambiental de la Revolución Industrial en Ibagué.
+**Contexto:** Sebastián evalúa el impacto ambiental de la Revolución Industrial en Ibagué.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -189,11 +193,11 @@ La Revolución Industrial tuvo un impacto ambiental profundo: (1) Quema masiva d
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W05-revolucion-industrial-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Isabella reflexiona sobre el legado de la Revolución Industrial en Colombia en Neiva.
+**Contexto:** Isabella reflexiona sobre el legado de la Revolución Industrial en Colombia en Neiva.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -208,11 +212,11 @@ Colombia no experimentó una revolución industrial propia en los siglos XVIII-X
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-SOC-7-2026-W05-revolucion-industrial-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Daniel compara el ludismo con los sindicatos modernos en Sincelejo.
+**Contexto:** Daniel compara el ludismo con los sindicatos modernos en Sincelejo.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -227,11 +231,11 @@ Los luditas (seguidores de Ned Ludd) eran trabajadores textiles ingleses que ent
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W05-revolucion-industrial-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase de Sociales en Cúcuta, el profesor pregunta: "¿La Revolución Industrial fue positiva o negativa para la humanidad?"
+**Contexto:** En clase de Sociales en Cúcuta, el profesor pregunta: "¿La Revolución Industrial fue positiva o negativa para la humanidad?"
 **Expected_Success:** 0.42
 
 ### Enunciado

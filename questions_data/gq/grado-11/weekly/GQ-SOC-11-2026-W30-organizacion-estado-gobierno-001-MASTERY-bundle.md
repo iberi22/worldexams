@@ -1,24 +1,32 @@
 ---
-id: "GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY"
+id: "GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY-bundle"
 country: "gq"
 exam: "UNED / Selectividad (sistema espanol) - MECD Guinea Ecuatorial"
 grado: 11
 asignatura: "Historia y Ciencias Sociales"
 tema: "organizacion-estado-gobierno"
-semana: 30
+week: "W30"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "Sistema Educativo Espanol + UNED Selectividad"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle - Historia y Ciencias Sociales: Organizacion Estado Gobierno (W30)
 **20 preguntas | Historia y Ciencias Sociales | UNED / Selectividad (sistema espanol) - MECD Guinea Ecuatorial**
 
 ---
-## Pregunta 1 [D4]
+## Question 1 [D4]
 **ID:** `GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de GQ practicando organizacion estado gobierno.
 
@@ -26,21 +34,22 @@ alignment: "Sistema Educativo Espanol + UNED Selectividad"
 Simplifique: (8)(4x + 23)
 
 ### Opciones
-- [x] **A)** 32x + 184
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 32x + 23
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 12x + 184
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 32x - 184
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 32x + 184 <!-- feedback: Correcto! 32x + 184 -->
+
+- [ ] B) 32x + 23 <!-- feedback: Incorrecto. 32x + 23 -->
+
+- [ ] C) 12x + 184 <!-- feedback: Incorrecto. 12x + 184 -->
+
+- [ ] D) 32x - 184 <!-- feedback: Incorrecto. 32x - 184 -->
 
 **Explicacion:** Aplicar distributiva: (8)(4x + 23) = 32x + 184.
 
 ---
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de GQ practicando organizacion estado gobierno.
 
@@ -48,21 +57,22 @@ Simplifique: (8)(4x + 23)
 Resuelve: 2(x + 6) = 18
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] C) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] D) 5 <!-- feedback: Incorrecto. 5 -->
 
 **Explicacion:** 2(x+6) = 18 -> x+6 = 9 -> x = 3.
 
 ---
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de GQ practicando organizacion estado gobierno.
 
@@ -70,21 +80,22 @@ Resuelve: 2(x + 6) = 18
 Maria compro 7 cuadernos a $7.1 c/u en Ebibeyin. &iquest;Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $49.1
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** $7.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $7.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $14.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $49.1 <!-- feedback: Correcto! $49.1 -->
+
+- [ ] B) $7.1 <!-- feedback: Incorrecto. $7.1 -->
+
+- [ ] C) $7.1 <!-- feedback: Incorrecto. $7.1 -->
+
+- [ ] D) $14.1 <!-- feedback: Incorrecto. $14.1 -->
 
 **Explicacion:** Total = 7 x $7 = $49.1.
 
 ---
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY-v4`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de GQ practicando organizacion estado gobierno.
 
@@ -92,21 +103,22 @@ Maria compro 7 cuadernos a $7.1 c/u en Ebibeyin. &iquest;Cuanto gasto?
 Un estudiante de Instituto de Bicomo en Bicomo grafica f(x) = 8x + 8. &iquest;Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 8
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 16
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 8 <!-- feedback: Correcto! 8 -->
+
+- [ ] B) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] C) 16 <!-- feedback: Incorrecto. 16 -->
+
+- [ ] D) 1 <!-- feedback: Incorrecto. 1 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 8.
 
 ---
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY-v5`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de GQ practicando organizacion estado gobierno.
 
@@ -114,21 +126,22 @@ Un estudiante de Instituto de Bicomo en Bicomo grafica f(x) = 8x + 8. &iquest;Cu
 En un examen EBAU en Bidjabidjan, se pide: si f(x) = 5x^2 + 12x + 7. &iquest;Cual es f(2)?
 
 ### Opciones
-- [x] **A)** 51
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 22
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 17
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 51 <!-- feedback: Correcto! 51 -->
+
+- [ ] B) 22 <!-- feedback: Incorrecto. 22 -->
+
+- [ ] C) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] D) 17 <!-- feedback: Incorrecto. 17 -->
 
 **Explicacion:** Sustituyo x=2: f(2) = 5(4) + 12(2) + 7 = 20 + 24 + 7 = 51.
 
 ---
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de GQ practicando organizacion estado gobierno.
 
@@ -136,21 +149,22 @@ En un examen EBAU en Bidjabidjan, se pide: si f(x) = 5x^2 + 12x + 7. &iquest;Cua
 Resuelve la ecuacion: x^2 - 16x + 48 = 0
 
 ### Opciones
-- [x] **A)** x = 4 y x = 12
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** x = 16 y x = 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** x = 0 y x = 48
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** No tiene solucion
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) x = 4 y x = 12 <!-- feedback: Correcto! x = 4 y x = 12 -->
+
+- [ ] B) x = 16 y x = 8 <!-- feedback: Incorrecto. x = 16 y x = 8 -->
+
+- [ ] C) x = 0 y x = 48 <!-- feedback: Incorrecto. x = 0 y x = 48 -->
+
+- [ ] D) No tiene solucion <!-- feedback: Incorrecto. No tiene solucion -->
 
 **Explicacion:** Ecuacion cuadratica: (x-4)(x-12) = 0, por tanto x = 4 o x = 12.
 
 ---
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY-v7`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de GQ practicando organizacion estado gobierno.
 
@@ -158,21 +172,22 @@ Resuelve la ecuacion: x^2 - 16x + 48 = 0
 Un estudiante de Anisoc obtuvo notas: 4, 27, 16, 8. &iquest;Cual es la media?
 
 ### Opciones
-- [x] **A)** 14.2
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 18
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 21
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 14.2 <!-- feedback: Correcto! 14.2 -->
+
+- [ ] B) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] C) 18 <!-- feedback: Incorrecto. 18 -->
+
+- [ ] D) 21 <!-- feedback: Incorrecto. 21 -->
 
 **Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.
 
 ---
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de GQ practicando organizacion estado gobierno.
 
@@ -180,21 +195,22 @@ Un estudiante de Anisoc obtuvo notas: 4, 27, 16, 8. &iquest;Cual es la media?
 Calcule la derivada de f(x) = 4x^3 + 8x^2 + 0x + 8
 
 ### Opciones
-- [x] **A)** f'(x) = 12x^2 + 16x + 0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** f'(x) = 4x^2 + 8x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** f'(x) = 12x^2 + 8x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** f'(x) = 12x^3 + 16x^2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) f'(x) = 12x^2 + 16x + 0 <!-- feedback: Correcto! f'(x) = 12x^2 + 16x + 0 -->
+
+- [ ] B) f'(x) = 4x^2 + 8x <!-- feedback: Incorrecto. f'(x) = 4x^2 + 8x -->
+
+- [ ] C) f'(x) = 12x^2 + 8x <!-- feedback: Incorrecto. f'(x) = 12x^2 + 8x -->
+
+- [ ] D) f'(x) = 12x^3 + 16x^2 <!-- feedback: Incorrecto. f'(x) = 12x^3 + 16x^2 -->
 
 **Explicacion:** Derivada termino a termino: d/dx(4x^3) = 12x^2, d/dx(8x^2) = 16x, d/dx(0x) = 0, d/dx(8) = 0.
 
 ---
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY-v9`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de GQ practicando organizacion estado gobierno.
 
@@ -202,21 +218,22 @@ Calcule la derivada de f(x) = 4x^3 + 8x^2 + 0x + 8
 &iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0
 
 ### Opciones
-- [x] **A)** Si, es correcta porque f'(0) = 0 y f''(0) > 0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** No, tiene un maximo en x = 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** No, no tiene extremos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** Solo es correcta para x > 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) Si, es correcta porque f'(0) = 0 y f''(0) > 0 <!-- feedback: Correcto! Si, es correcta porque f'(0) = 0 y f''(0) > 0 -->
+
+- [ ] B) No, tiene un maximo en x = 0 <!-- feedback: Incorrecto. No, tiene un maximo en x = 0 -->
+
+- [ ] C) No, no tiene extremos <!-- feedback: Incorrecto. No, no tiene extremos -->
+
+- [ ] D) Solo es correcta para x > 0 <!-- feedback: Incorrecto. Solo es correcta para x > 0 -->
 
 **Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.
 
 ---
-## Pregunta 10 [D3]
+## Question 10 [D3]
 **ID:** `GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de GQ practicando organizacion estado gobierno.
 
@@ -224,21 +241,22 @@ Calcule la derivada de f(x) = 4x^3 + 8x^2 + 0x + 8
 En Moca, un estudiante del Centro de Ensenanza Media de Moca resuelve: 8x + 11 = 51. &iquest;Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **D)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 1 <!-- feedback: Incorrecto. 1 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 9 <!-- feedback: Incorrecto. 9 -->
 
 **Explicacion:** Se resta 11 de ambos lados. Luego se divide por 8: x = 5.
 
 ---
-## Pregunta 11 [D4]
+## Question 11 [D4]
 **ID:** `GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY-v11`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de GQ practicando organizacion estado gobierno.
 
@@ -246,21 +264,22 @@ En Moca, un estudiante del Centro de Ensenanza Media de Moca resuelve: 8x + 11 =
 Simplifique: (5)(9x + 43)
 
 ### Opciones
-- [x] **A)** 45x + 215
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 45x + 43
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 14x + 215
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 45x - 215
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 45x + 215 <!-- feedback: Correcto! 45x + 215 -->
+
+- [ ] B) 45x + 43 <!-- feedback: Incorrecto. 45x + 43 -->
+
+- [ ] C) 14x + 215 <!-- feedback: Incorrecto. 14x + 215 -->
+
+- [ ] D) 45x - 215 <!-- feedback: Incorrecto. 45x - 215 -->
 
 **Explicacion:** Aplicar distributiva: (5)(9x + 43) = 45x + 215.
 
 ---
-## Pregunta 12 [D3]
+## Question 12 [D3]
 **ID:** `GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY-v12`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de GQ practicando organizacion estado gobierno.
 
@@ -268,21 +287,22 @@ Simplifique: (5)(9x + 43)
 Resuelve: 2(x + 4) = 14
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [ ] C) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] D) 3 <!-- feedback: Incorrecto. 3 -->
 
 **Explicacion:** 2(x+4) = 14 -> x+4 = 7 -> x = 3.
 
 ---
-## Pregunta 13 [D4]
+## Question 13 [D4]
 **ID:** `GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY-v13`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de GQ practicando organizacion estado gobierno.
 
@@ -290,21 +310,22 @@ Resuelve: 2(x + 4) = 14
 Maria compro 7 cuadernos a $11.2 c/u en Riaba. &iquest;Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $77.2
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** $7.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $11.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $18.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $77.2 <!-- feedback: Correcto! $77.2 -->
+
+- [ ] B) $7.2 <!-- feedback: Incorrecto. $7.2 -->
+
+- [ ] C) $11.2 <!-- feedback: Incorrecto. $11.2 -->
+
+- [ ] D) $18.2 <!-- feedback: Incorrecto. $18.2 -->
 
 **Explicacion:** Total = 7 x $11 = $77.2.
 
 ---
-## Pregunta 14 [D5]
+## Question 14 [D5]
 **ID:** `GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY-v14`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de GQ practicando organizacion estado gobierno.
 
@@ -312,21 +333,22 @@ Maria compro 7 cuadernos a $11.2 c/u en Riaba. &iquest;Cuanto gasto?
 Un estudiante de Instituto de Bicomo en Bicomo grafica f(x) = 8x + 9. &iquest;Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 8
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 17
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 8 <!-- feedback: Correcto! 8 -->
+
+- [ ] B) 9 <!-- feedback: Incorrecto. 9 -->
+
+- [ ] C) 17 <!-- feedback: Incorrecto. 17 -->
+
+- [ ] D) 2 <!-- feedback: Incorrecto. 2 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 8.
 
 ---
-## Pregunta 15 [D5]
+## Question 15 [D5]
 **ID:** `GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY-v15`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de GQ practicando organizacion estado gobierno.
 
@@ -334,21 +356,22 @@ Un estudiante de Instituto de Bicomo en Bicomo grafica f(x) = 8x + 9. &iquest;Cu
 En un examen EBAU en Evinayong, se pide: si f(x) = 3x^2 + 11x + 8. &iquest;Cual es f(2)?
 
 ### Opciones
-- [x] **A)** 42
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 17
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 14
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 42 <!-- feedback: Correcto! 42 -->
+
+- [ ] B) 17 <!-- feedback: Incorrecto. 17 -->
+
+- [ ] C) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] D) 14 <!-- feedback: Incorrecto. 14 -->
 
 **Explicacion:** Sustituyo x=2: f(2) = 3(4) + 11(2) + 8 = 12 + 22 + 8 = 42.
 
 ---
-## Pregunta 16 [D6]
+## Question 16 [D6]
 **ID:** `GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY-v16`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de GQ practicando organizacion estado gobierno.
 
@@ -356,21 +379,22 @@ En un examen EBAU en Evinayong, se pide: si f(x) = 3x^2 + 11x + 8. &iquest;Cual 
 Resuelve la ecuacion: x^2 - 17x + 60 = 0
 
 ### Opciones
-- [x] **A)** x = 5 y x = 12
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** x = 17 y x = 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** x = 0 y x = 60
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** No tiene solucion
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) x = 5 y x = 12 <!-- feedback: Correcto! x = 5 y x = 12 -->
+
+- [ ] B) x = 17 y x = 7 <!-- feedback: Incorrecto. x = 17 y x = 7 -->
+
+- [ ] C) x = 0 y x = 60 <!-- feedback: Incorrecto. x = 0 y x = 60 -->
+
+- [ ] D) No tiene solucion <!-- feedback: Incorrecto. No tiene solucion -->
 
 **Explicacion:** Ecuacion cuadratica: (x-5)(x-12) = 0, por tanto x = 5 o x = 12.
 
 ---
-## Pregunta 17 [D6]
+## Question 17 [D6]
 **ID:** `GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY-v17`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de GQ practicando organizacion estado gobierno.
 
@@ -378,21 +402,22 @@ Resuelve la ecuacion: x^2 - 17x + 60 = 0
 Un estudiante de Aconibe obtuvo notas: 4, 12, 11, 12. &iquest;Cual es la media?
 
 ### Opciones
-- [x] **A)** 10.2
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 16
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 10.2 <!-- feedback: Correcto! 10.2 -->
+
+- [ ] B) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [ ] C) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] D) 16 <!-- feedback: Incorrecto. 16 -->
 
 **Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.
 
 ---
-## Pregunta 18 [D7]
+## Question 18 [D7]
 **ID:** `GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY-v18`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de GQ practicando organizacion estado gobierno.
 
@@ -400,21 +425,22 @@ Un estudiante de Aconibe obtuvo notas: 4, 12, 11, 12. &iquest;Cual es la media?
 Calcule la derivada de f(x) = 7x^3 + 1x^2 + 5x + 1
 
 ### Opciones
-- [x] **A)** f'(x) = 21x^2 + 2x + 5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** f'(x) = 7x^2 + 1x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** f'(x) = 21x^2 + 1x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** f'(x) = 21x^3 + 2x^2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) f'(x) = 21x^2 + 2x + 5 <!-- feedback: Correcto! f'(x) = 21x^2 + 2x + 5 -->
+
+- [ ] B) f'(x) = 7x^2 + 1x <!-- feedback: Incorrecto. f'(x) = 7x^2 + 1x -->
+
+- [ ] C) f'(x) = 21x^2 + 1x <!-- feedback: Incorrecto. f'(x) = 21x^2 + 1x -->
+
+- [ ] D) f'(x) = 21x^3 + 2x^2 <!-- feedback: Incorrecto. f'(x) = 21x^3 + 2x^2 -->
 
 **Explicacion:** Derivada termino a termino: d/dx(7x^3) = 21x^2, d/dx(1x^2) = 2x, d/dx(5x) = 5, d/dx(1) = 0.
 
 ---
-## Pregunta 19 [D7]
+## Question 19 [D7]
 **ID:** `GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY-v19`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de GQ practicando organizacion estado gobierno.
 
@@ -422,21 +448,22 @@ Calcule la derivada de f(x) = 7x^3 + 1x^2 + 5x + 1
 &iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0
 
 ### Opciones
-- [x] **A)** Si, es correcta porque f'(0) = 0 y f''(0) > 0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** No, tiene un maximo en x = 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** No, no tiene extremos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** Solo es correcta para x > 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) Si, es correcta porque f'(0) = 0 y f''(0) > 0 <!-- feedback: Correcto! Si, es correcta porque f'(0) = 0 y f''(0) > 0 -->
+
+- [ ] B) No, tiene un maximo en x = 0 <!-- feedback: Incorrecto. No, tiene un maximo en x = 0 -->
+
+- [ ] C) No, no tiene extremos <!-- feedback: Incorrecto. No, no tiene extremos -->
+
+- [ ] D) Solo es correcta para x > 0 <!-- feedback: Incorrecto. Solo es correcta para x > 0 -->
 
 **Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.
 
 ---
-## Pregunta 20 [D3]
+## Question 20 [D3]
 **ID:** `GQ-SOC-11-2026-W30-organizacion-estado-gobierno-001-MASTERY-v20`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de GQ practicando organizacion estado gobierno.
 
@@ -444,14 +471,13 @@ Calcule la derivada de f(x) = 7x^3 + 1x^2 + 5x + 1
 En Nsok, un estudiante del Centro de Ensenanza Media de Nsok resuelve: 7x + 7 = 42. &iquest;Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **D)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] B) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 8 <!-- feedback: Incorrecto. 8 -->
 
 **Explicacion:** Se resta 7 de ambos lados. Luego se divide por 7: x = 5.
 

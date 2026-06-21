@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-W30-tema-semana-30-de-lectura-critica-001-MASTERY"
+id: "CO-LEC-6-2026-W30-tema-semana-30-de-lectura-critica-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 10
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W30 — Tema Semana 30 de Lectura Critica
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. San José en Sincelejo
+**Contexto:** I.E. San José en Sincelejo
 **Expected_Success:** 0.50
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. San José en Sincelejo, se discute sobre Tema Semana 30 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 30 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 30 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 30 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 30 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** I.E. Francisco de Paula Santander en Tunja
+**Contexto:** I.E. Francisco de Paula Santander en Tunja
 **Expected_Success:** 0.66
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Tunja, se discute sobre Tema Semana 30 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 30 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 30 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 30 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 30 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Cúcuta
+**Contexto:** I.E. Santa Luisa de Marillac en Cúcuta
 **Expected_Success:** 0.68
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Cúcuta, se discute sobre Tema Semana 30 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 30 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 30 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 30 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 30 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Villavicencio
+**Contexto:** Colegio La Presentación en Villavicencio
 **Expected_Success:** 0.62
 
 ### Enunciado
 En la clase de Lectura Critica del Colegio La Presentación en Villavicencio, se discute sobre Tema Semana 30 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 30 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 30 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 30 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 30 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** Colegio La Presentación en Manizales
+**Contexto:** Colegio La Presentación en Manizales
 **Expected_Success:** 0.56
 
 ### Enunciado
 En la clase de Lectura Critica del Colegio La Presentación en Manizales, se discute sobre Tema Semana 30 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 30 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 30 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 30 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 30 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** I.E. San José en Bogotá
+**Contexto:** I.E. San José en Bogotá
 **Expected_Success:** 0.65
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. San José en Bogotá, se discute sobre Tema Semana 30 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 30 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 30 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 30 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 30 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Sincelejo
+**Contexto:** Colegio Nacional San Bartolomé en Sincelejo
 **Expected_Success:** 0.70
 
 ### Enunciado
 En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Sincelejo, se discute sobre Tema Semana 30 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 30 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 30 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 30 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 30 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Riohacha
+**Contexto:** Colegio Nacional San Bartolomé en Riohacha
 **Expected_Success:** 0.64
 
 ### Enunciado
 En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Riohacha, se discute sobre Tema Semana 30 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 30 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 30 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 30 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 30 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Medellín
+**Contexto:** I.E. Gabriel García Márquez en Medellín
 **Expected_Success:** 0.65
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Gabriel García Márquez en Medellín, se discute sobre Tema Semana 30 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 30 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 30 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 30 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 30 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Tunja
+**Contexto:** Colegio La Presentación en Tunja
 **Expected_Success:** 0.70
 
 ### Enunciado
 En la clase de Lectura Critica del Colegio La Presentación en Tunja, se discute sobre Tema Semana 30 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 30 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 30 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 30 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

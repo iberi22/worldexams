@@ -1,10 +1,10 @@
 ---
-id: "HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY"
+id: "HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY-bundle"
 country: "honduras"
 grado: 11
 asignatura: "matematicas"
 tema: "programacion-lineal"
-semana: "W31"
+week: "W31"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -14,7 +14,12 @@ modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Programacion Lineal - Grado 11 - Matematicas"
 license: "FREE"
+bundle_type: "weekly"
+total_questions: 20
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Programacion Lineal - Grado 11
 
@@ -23,480 +28,500 @@ alineadas con el CNB Honduras (Curriculo Nacional Basico) para Bachillerato 2026
 
 ---
 
-## Pregunta 1 [D4]
+## Question 1 [D4]
 **ID:** `HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY-v1`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **Competencia:** Solucion de Problemas
 **Expected_Success:** 0.92
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 En Siguatepeque, Carmen compra 8 kg de frijoles a L.8/kg. Total?
 
 ### Opciones
-- [x] A) 64
-  <!-- feedback: Correcto. Explicacion pedagogica sobre programacion lineal en el contexto de Siguatepeque, Colon, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 64. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 64. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 64. -->
+- [x] A) 64 <!-- feedback: Correcto! 64 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre programacion lineal en el contexto de Siguatepeque, Colon, Honduras.
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 **ID:** `HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY-v2`
 **Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **Competencia:** Razonamiento
 **Expected_Success:** 0.89
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Resuelve: 3x + 13 = 73. x?
 
 ### Opciones
-- [x] A) 20
-  <!-- feedback: Correcto. Explicacion pedagogica sobre programacion lineal en el contexto de Valle de Angeles, Francisco Morazan, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 20. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 20. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 20. -->
+- [x] A) 20 <!-- feedback: Correcto! 20 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre programacion lineal en el contexto de Valle de Angeles, Francisco Morazan, Honduras.
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY-v3`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.86
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 En Tela, producto L.276. Descuento 6%. Precio final?
 
 ### Opciones
-- [x] A) L.259
-  <!-- feedback: Correcto. Explicacion pedagogica sobre programacion lineal en el contexto de Tela, Copan, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: L.259. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: L.259. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: L.259. -->
+- [x] A) L.259 <!-- feedback: Correcto! L.259 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre programacion lineal en el contexto de Tela, Copan, Honduras.
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY-v4`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **Competencia:** Solucion de Problemas
 **Expected_Success:** 0.83
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 (41+16) x 12 =
 
 ### Opciones
-- [x] A) 684
-  <!-- feedback: Correcto. Explicacion pedagogica sobre programacion lineal en el contexto de Nacaome, Santa Barbara, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 684. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 684. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 684. -->
+- [x] A) 684 <!-- feedback: Correcto! 684 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre programacion lineal en el contexto de Nacaome, Santa Barbara, Honduras.
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY-v5`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.8
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Terreno 9x12m en Yoro. Area?
 
 ### Opciones
-- [x] A) 108 m2
-  <!-- feedback: Correcto. Explicacion pedagogica sobre programacion lineal en el contexto de Yoro, Intibuca, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 108 m2. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 108 m2. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 108 m2. -->
+- [x] A) 108 m2 <!-- feedback: Correcto! 108 m2 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre programacion lineal en el contexto de Yoro, Intibuca, Honduras.
 
 ---
 
-## Pregunta 6 [D2]
+## Question 6 [D2]
 **ID:** `HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY-v6`
 **Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **Competencia:** Solucion de Problemas
 **Expected_Success:** 0.77
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Media de 14,12,2,26,14:
 
 ### Opciones
-- [x] A) 13
-  <!-- feedback: Correcto. Explicacion pedagogica sobre programacion lineal en el contexto de Comayagua, Atlantida, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 13. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 13. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 13. -->
+- [x] A) 13 <!-- feedback: Correcto! 13 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre programacion lineal en el contexto de Comayagua, Atlantida, Honduras.
 
 ---
 
-## Pregunta 7 [D2]
+## Question 7 [D2]
 **ID:** `HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY-v7`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.74
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 En Trujillo, ahorro L.564/mes. En 18 meses?
 
 ### Opciones
-- [x] A) 10152
-  <!-- feedback: Correcto. Explicacion pedagogica sobre programacion lineal en el contexto de Trujillo, Santa Barbara, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 10152. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 10152. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 10152. -->
+- [x] A) 10152 <!-- feedback: Correcto! 10152 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre programacion lineal en el contexto de Trujillo, Santa Barbara, Honduras.
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 **ID:** `HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY-v8`
 **Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **Competencia:** Solucion de Problemas
 **Expected_Success:** 0.71
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 f(x)=47x+25. f(3)?
 
 ### Opciones
-- [x] A) 166
-  <!-- feedback: Correcto. Explicacion pedagogica sobre programacion lineal en el contexto de Villanueva, Comayagua, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 166. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 166. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 166. -->
+- [x] A) 166 <!-- feedback: Correcto! 166 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre programacion lineal en el contexto de Villanueva, Comayagua, Honduras.
 
 ---
 
-## Pregunta 9 [D4]
+## Question 9 [D4]
 **ID:** `HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY-v9`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **Competencia:** Razonamiento
 **Expected_Success:** 0.68
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Poblacion 44000, 13% estudiantes. Cuantos?
 
 ### Opciones
-- [x] A) 5720
-  <!-- feedback: Correcto. Explicacion pedagogica sobre programacion lineal en el contexto de Catacamas, Santa Barbara, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 5720. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 5720. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 5720. -->
+- [x] A) 5720 <!-- feedback: Correcto! 5720 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre programacion lineal en el contexto de Catacamas, Santa Barbara, Honduras.
 
 ---
 
-## Pregunta 10 [D3]
+## Question 10 [D3]
 **ID:** `HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY-v10`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **Competencia:** Razonamiento
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Log_10(100000000000000000000000000000000000000000000) =
 
 ### Opciones
-- [x] A) 44
-  <!-- feedback: Correcto. Explicacion pedagogica sobre programacion lineal en el contexto de Siguatepeque, Colon, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 44. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 44. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 44. -->
+- [x] A) 44 <!-- feedback: Correcto! 44 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre programacion lineal en el contexto de Siguatepeque, Colon, Honduras.
 
 ---
 
-## Pregunta 11 [D5]
+## Question 11 [D5]
 **ID:** `HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY-v11`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.62
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Interes simple L.26000 al 17% por 17 año(s):
 
 ### Opciones
-- [x] A) 75140
-  <!-- feedback: Correcto. Explicacion pedagogica sobre programacion lineal en el contexto de Tela, Olancho, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 75140. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 75140. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 75140. -->
+- [x] A) 75140 <!-- feedback: Correcto! 75140 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre programacion lineal en el contexto de Tela, Olancho, Honduras.
 
 ---
 
-## Pregunta 12 [D1]
+## Question 12 [D1]
 **ID:** `HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY-v12`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.59
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Probabilidad de 16/18 en decimal:
 
 ### Opciones
-- [x] A) 0.89
-  <!-- feedback: Correcto. Explicacion pedagogica sobre programacion lineal en el contexto de Comayagua, Valle, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 0.89. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 0.89. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 0.89. -->
+- [x] A) 0.89 <!-- feedback: Correcto! 0.89 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre programacion lineal en el contexto de Comayagua, Valle, Honduras.
 
 ---
 
-## Pregunta 13 [D4]
+## Question 13 [D4]
 **ID:** `HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY-v13`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **Competencia:** Solucion de Problemas
 **Expected_Success:** 0.56
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Derivada de f(x)=14x^2+10x en x=1:
 
 ### Opciones
-- [x] A) 38
-  <!-- feedback: Correcto. Explicacion pedagogica sobre programacion lineal en el contexto de Trujillo, Intibuca, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 38. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 38. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 38. -->
+- [x] A) 38 <!-- feedback: Correcto! 38 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre programacion lineal en el contexto de Trujillo, Intibuca, Honduras.
 
 ---
 
-## Pregunta 14 [D4]
+## Question 14 [D4]
 **ID:** `HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY-v14`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **Competencia:** Solucion de Problemas
 **Expected_Success:** 0.53
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 En Siguatepeque, 26 obreros producen 130 piezas en 5h. 1 obrero en 1h?
 
 ### Opciones
-- [x] A) 1
-  <!-- feedback: Correcto. Explicacion pedagogica sobre programacion lineal en el contexto de Siguatepeque, Cortes, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 1. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 1. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 1. -->
+- [x] A) 1 <!-- feedback: Correcto! 1 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre programacion lineal en el contexto de Siguatepeque, Cortes, Honduras.
 
 ---
 
-## Pregunta 15 [D4]
+## Question 15 [D4]
 **ID:** `HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY-v15`
 **Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **Competencia:** Solucion de Problemas
 **Expected_Success:** 0.5
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Distancia entre (7,23) y (7,7) en el plano:
 
 ### Opciones
-- [x] A) √(256)
-  <!-- feedback: Correcto. Explicacion pedagogica sobre programacion lineal en el contexto de Choloma, Choluteca, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: √(256). -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: √(256). -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: √(256). -->
+- [x] A) √(256) <!-- feedback: Correcto! √(256) -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre programacion lineal en el contexto de Choloma, Choluteca, Honduras.
 
 ---
 
-## Pregunta 16 [D2]
+## Question 16 [D2]
 **ID:** `HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY-v16`
 **Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **Competencia:** Razonamiento
 **Expected_Success:** 0.47
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Resuelve: x^2 + 65x + 816 = 0. Una raiz?
 
 ### Opciones
-- [x] A) 65
-  <!-- feedback: Correcto. Explicacion pedagogica sobre programacion lineal en el contexto de Marcala, Gracias a Dios, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 65. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 65. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 65. -->
+- [x] A) 65 <!-- feedback: Correcto! 65 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre programacion lineal en el contexto de Marcala, Gracias a Dios, Honduras.
 
 ---
 
-## Pregunta 17 [D4]
+## Question 17 [D4]
 **ID:** `HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY-v17`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **Competencia:** Razonamiento
 **Expected_Success:** 0.44
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 En Puerto Lempira, Diana vende 47 baleadas a L.13 c/u. Ingreso total?
 
 ### Opciones
-- [x] A) 611
-  <!-- feedback: Correcto. Explicacion pedagogica sobre programacion lineal en el contexto de Puerto Lempira, Intibuca, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 611. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 611. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 611. -->
+- [x] A) 611 <!-- feedback: Correcto! 611 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre programacion lineal en el contexto de Puerto Lempira, Intibuca, Honduras.
 
 ---
 
-## Pregunta 18 [D1]
+## Question 18 [D1]
 **ID:** `HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY-v18`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **Competencia:** Solucion de Problemas
 **Expected_Success:** 0.41
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 El 48% de 1800 habitantes de Valle de Angeles:
 
 ### Opciones
-- [x] A) 864
-  <!-- feedback: Correcto. Explicacion pedagogica sobre programacion lineal en el contexto de Valle de Angeles, Cortes, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 864. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 864. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 864. -->
+- [x] A) 864 <!-- feedback: Correcto! 864 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre programacion lineal en el contexto de Valle de Angeles, Cortes, Honduras.
 
 ---
 
-## Pregunta 19 [D5]
+## Question 19 [D5]
 **ID:** `HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY-v19`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **Competencia:** Razonamiento
 **Expected_Success:** 0.38
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Area de circulo radio 17m en Juticalpa:
 
 ### Opciones
-- [x] A) 907.92 m2
-  <!-- feedback: Correcto. Explicacion pedagogica sobre programacion lineal en el contexto de Juticalpa, Santa Barbara, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 907.92 m2. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 907.92 m2. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 907.92 m2. -->
+- [x] A) 907.92 m2 <!-- feedback: Correcto! 907.92 m2 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre programacion lineal en el contexto de Juticalpa, Santa Barbara, Honduras.
 
 ---
 
-## Pregunta 20 [D5]
+## Question 20 [D5]
 **ID:** `HN-MAT-11-2026-W31-programacion-lineal-001-MASTERY-v20`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **Competencia:** Solucion de Problemas
 **Expected_Success:** 0.35
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 En La Ceiba, Carlos corre 47 km en 23 min. Velocidad media (km/h):
 
 ### Opciones
-- [x] A) 122.61 km/h
-  <!-- feedback: Correcto. Explicacion pedagogica sobre programacion lineal en el contexto de La Ceiba, Olancho, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 122.61 km/h. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 122.61 km/h. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 122.61 km/h. -->
+- [x] A) 122.61 km/h <!-- feedback: Correcto! 122.61 km/h -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre programacion lineal en el contexto de La Ceiba, Olancho, Honduras.

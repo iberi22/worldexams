@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W02-renacimiento-001-MASTERY"
+id: "CO-SOC-7-2026-W02-renacimiento-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-ciudadanas"
 tema: "renacimiento"
-semana: "W02"
+week: "W02"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026 — Pensamiento Social"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Renacimiento — Grado 7
 ## Semana W02 — El Renacimiento: arte, ciencia y nueva visión del mundo
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En la clase de sociales del Colegio Champagnat de Bogotá, el profesor pregunta a los estudiantes qué significa la palabra "Renacimiento".
+**Contexto:** En la clase de sociales del Colegio Champagnat de Bogotá, el profesor pregunta a los estudiantes qué significa la palabra "Renacimiento".
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ El Renacimiento (del italiano "Rinascimento", que significa "volver a nacer") fu
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del colegio de Cali leen un fragmento sobre la Italia del Renacimiento y cómo las ciudades-Estado como Florencia se convirtieron en centros culturales.
+**Contexto:** Los estudiantes del colegio de Cali leen un fragmento sobre la Italia del Renacimiento y cómo las ciudades-Estado como Florencia se convirtieron en centros culturales.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ Italia fue la cuna del Renacimiento por varias razones combinadas: (1) su posici
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Medellín, Valentina prepara una exposición sobre los principales artistas del Renacimiento.
+**Contexto:** En el colegio de Medellín, Valentina prepara una exposición sobre los principales artistas del Renacimiento.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -81,11 +85,11 @@ Leonardo da Vinci (1452-1519), Miguel Ángel Buonarroti (1475-1564) y Rafael San
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Argumentación
-**Context:** En el colegio de Barranquilla, la profesora muestra la Mona Lisa de Leonardo da Vinci y pregunta qué características renacentistas se aprecian.
+**Contexto:** En el colegio de Barranquilla, la profesora muestra la Mona Lisa de Leonardo da Vinci y pregunta qué características renacentistas se aprecian.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -102,11 +106,11 @@ El arte renacentista se caracterizó por varias innovaciones: (1) la **perspecti
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes de la I.E. de Bucaramanga leen un texto sobre cómo cambió la visión del mundo durante el Renacimiento.
+**Contexto:** Los estudiantes de la I.E. de Bucaramanga leen un texto sobre cómo cambió la visión del mundo durante el Renacimiento.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -123,11 +127,11 @@ Durante el Renacimiento se produjo un cambio radical en la cosmovisión: se pas�
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Cartagena, Santiago pregunta cómo el Renacimiento influyó en el desarrollo de la ciencia moderna.
+**Contexto:** En el colegio de Cartagena, Santiago pregunta cómo el Renacimiento influyó en el desarrollo de la ciencia moderna.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ El Renacimiento transformó la ciencia al reemplazar la autoridad de los textos 
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Pereira, los estudiantes comparan la arquitectura gótica medieval con la renacentista y deben identificar sus diferencias.
+**Contexto:** En el colegio de Pereira, los estudiantes comparan la arquitectura gótica medieval con la renacentista y deben identificar sus diferencias.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ La arquitectura gótica (siglos XII-XV) se caracterizaba por arcos apuntados, b�
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Social
-**Context:** En la I.E. de Cúcuta, los estudiantes analizan por qué el Renacimiento fue principalmente un fenómeno urbano.
+**Contexto:** En la I.E. de Cúcuta, los estudiantes analizan por qué el Renacimiento fue principalmente un fenómeno urbano.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ El Renacimiento fue un fenómeno urbano porque las ciudades italianas (Florencia
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Interpretación de Textos
-**Context:** La profesora de sociales del colegio de Sincelejo presenta un poema de Petrarca (humanista) y uno medieval anónimo para compararlos.
+**Contexto:** La profesora de sociales del colegio de Sincelejo presenta un poema de Petrarca (humanista) y uno medieval anónimo para compararlos.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -207,11 +211,11 @@ La literatura medieval europea estaba dominada por temas religiosos (vidas de sa
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Manizales, los estudiantes debaten si el Renacimiento benefició a todos los sectores de la sociedad europea.
+**Contexto:** En el colegio de Manizales, los estudiantes debaten si el Renacimiento benefició a todos los sectores de la sociedad europea.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -228,11 +232,11 @@ Aunque el Renacimiento representó un avance cultural enorme, es importante reco
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En la I.E. de Villavicencio, los estudiantes analizan un cuadro de Botticelli (El nacimiento de Venus) y discuten cómo refleja los valores renacentistas.
+**Contexto:** En la I.E. de Villavicencio, los estudiantes analizan un cuadro de Botticelli (El nacimiento de Venus) y discuten cómo refleja los valores renacentistas.
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -249,11 +253,11 @@ Aunque el Renacimiento representó un avance cultural enorme, es importante reco
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** La profesora de sociales del colegio de Bogotá pregunta a los estudiantes qué relación ven entre el Renacimiento europeo y la historia de Colombia.
+**Contexto:** La profesora de sociales del colegio de Bogotá pregunta a los estudiantes qué relación ven entre el Renacimiento europeo y la historia de Colombia.
 **Expected_Success:** 0.42
 
 ### Enunciado

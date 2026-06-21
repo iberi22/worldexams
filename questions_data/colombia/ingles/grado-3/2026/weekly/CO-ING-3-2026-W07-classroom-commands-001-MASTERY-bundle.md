@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W07-classroom-commands-001-MASTERY"
+id: "CO-ING-3-2026-W07-classroom-commands-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "classroom-commands"
 periodo: "weekly"
-semana: 7
+week: "W07"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "Basic classroom commands like sit down, stand up, open your bo
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W07: Classroom Commands (A1)
 
@@ -32,11 +37,12 @@ Este bundle evalúa las instrucciones o comandos básicos que se usan en el sal�
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Siéntate"** in English?
 
-### Options
+### Opciones
 - [ ] A) Stand up <!-- feedback: Incorrect. That is ponerse de pie. -->
 - [x] B) Sit down <!-- feedback: Correct! "Sit down" is siéntate. -->
 - [ ] C) Listen <!-- feedback: Incorrect. That is escucha. -->
@@ -52,11 +58,12 @@ What is **"Siéntate"** in English?
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Levántate"** or **"Ponte de pie"**?
 
-### Options
+### Opciones
 - [x] A) Stand up <!-- feedback: Correct! -->
 - [ ] B) Sit down <!-- feedback: Incorrect. -->
 - [ ] C) Silence <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ What is **"Levántate"** or **"Ponte de pie"**?
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 The teacher says: **"Silence, please"**. What should you do?
 
-### Options
+### Opciones
 - [ ] A) Talk to a friend <!-- feedback: Incorrect. -->
 - [ ] B) Shout <!-- feedback: Incorrect. -->
 - [x] C) Stop talking <!-- feedback: Correct! Silence means no talking. -->
@@ -92,11 +100,12 @@ The teacher says: **"Silence, please"**. What should you do?
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Abre tu libro"**?
 
-### Options
+### Opciones
 - [ ] A) Close your book <!-- feedback: Incorrect. That is cierra tu libro. -->
 - [x] B) Open your book <!-- feedback: Correct! -->
 - [ ] C) Read your book <!-- feedback: Incorrect. That is lee tu libro. -->
@@ -112,11 +121,12 @@ Usamos "Open" para abrir y "Close" para cerrar. "Open your book" es abre tu libr
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Escucha"**?
 
-### Options
+### Opciones
 - [ ] A) Look <!-- feedback: Incorrect. That is mirar. -->
 - [x] B) Listen <!-- feedback: Correct! -->
 - [ ] C) Speak <!-- feedback: Incorrect. That is hablar. -->
@@ -132,11 +142,12 @@ What is **"Escucha"**?
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Escribe tu nombre"**?
 
-### Options
+### Opciones
 - [ ] A) Read your name <!-- feedback: Incorrect. -->
 - [ ] B) Say your name <!-- feedback: Incorrect. -->
 - [x] C) Write your name <!-- feedback: Correct! "Write" means escribir. -->
@@ -152,11 +163,12 @@ What is **"Escribe tu nombre"**?
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 If the teacher says **"Look at the board"**, what do you do?
 
-### Options
+### Opciones
 - [ ] A) Listen to the board <!-- feedback: Incorrect. -->
 - [x] B) Watch the board with your eyes <!-- feedback: Correct! "Look" is mirar. -->
 - [ ] C) Clean the board <!-- feedback: Incorrect. -->
@@ -172,11 +184,12 @@ If the teacher says **"Look at the board"**, what do you do?
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Por favor"** and **"Gracias"**?
 
-### Options
+### Opciones
 - [ ] A) Hello and Bye <!-- feedback: Incorrect. -->
 - [x] B) Please and Thank you <!-- feedback: Correct! -->
 - [ ] C) Sorry and Okay <!-- feedback: Incorrect. -->
@@ -192,11 +205,12 @@ What is **"Por favor"** and **"Gracias"**?
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 How do you say **"Cierra la puerta"**?
 
-### Options
+### Opciones
 - [ ] A) Open the door <!-- feedback: Incorrect. -->
 - [x] B) Close the door <!-- feedback: Correct! "Close" is cerrar. -->
 - [ ] C) Look at the door <!-- feedback: Incorrect. -->
@@ -212,11 +226,12 @@ How do you say **"Cierra la puerta"**?
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 The teacher says: **"Raise your hand"**. Why?
 
-### Options
+### Opciones
 - [x] A) To ask a question or speak <!-- feedback: Correct! Levantar la mano es para pedir la palabra. -->
 - [ ] B) To go to sleep <!-- feedback: Incorrect. -->
 - [ ] C) To say goodbye <!-- feedback: Incorrect. -->

@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "culturas-precolombinas-muiscas"
-semana: "W14"
+week: "W14"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Cultura Muisca y Quimbaya: organizacion politica, economia, or
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W14-culturas-precolombinas-muiscas-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Donde se desarrollo la cultura Muisca?
@@ -39,12 +44,13 @@ El altiplano cundiboyacense, a mas de 2.600 msnm, fue el territorio Muisca. Alli
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W14-culturas-precolombinas-muiscas-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Como se organizaba politicamente la confederacion Muisca?
@@ -60,12 +66,13 @@ Los Muiscas tenian dos gobernantes principales: el Zipa (Bacata/Bogota) y el Zaq
 
 ---
 
-## Pregunta 3 [D1]
+## Question 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W14-culturas-precolombinas-muiscas-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cual era la principal actividad economica de los Muiscas?
@@ -81,12 +88,13 @@ Los Muiscas cultivaban maiz, papa, quinua, cubios, hibias. Construyeron terrazas
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W14-culturas-precolombinas-muiscas-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por que eran famosos los Quimbayas?
@@ -102,12 +110,13 @@ La cultura Quimbaya (actuales Caldas, Risaralda, Quindio) se destaco por su incr
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W14-culturas-precolombinas-muiscas-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que objeto es el simbolo del arte Quimbaya?
@@ -123,12 +132,13 @@ El Poporo Quimbaya (Museo del Oro, Bogota) es una pieza unica de orfebreria prec
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W14-culturas-precolombinas-muiscas-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Donde se ubico la cultura Quimbaya?
@@ -144,12 +154,13 @@ Los Quimbayas habitaron la region del Eje Cafetero, entre los rios Cauca y La Vi
 
 ---
 
-## Pregunta 7 [D1]
+## Question 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W14-culturas-precolombinas-muiscas-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que producto era fundamental en el comercio Muisca?
@@ -165,12 +176,13 @@ La sal era un producto muy valioso. Los Muiscas la intercambiaban por algodon, o
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W14-culturas-precolombinas-muiscas-001-MASTERY-v8`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que materiales usaban los Quimbayas para sus obras de orfebreria?
@@ -186,12 +198,13 @@ Los Quimbayas trabajaban el oro puro y la tumbaga (aleacion de oro y cobre), usa
 
 ---
 
-## Pregunta 9 [D4]
+## Question 9 [D4]
 
 **ID:** `CO-SOC-5-2026-W14-culturas-precolombinas-muiscas-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Compara Muiscas y Quimbayas: cual afirmacion es correcta?
@@ -207,12 +220,13 @@ Los Muiscas habitaban el altiplano frio (2.600 msnm), los Quimbayas el valle tem
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W14-culturas-precolombinas-muiscas-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que legado nos dejaron las culturas Muisca y Quimbaya?

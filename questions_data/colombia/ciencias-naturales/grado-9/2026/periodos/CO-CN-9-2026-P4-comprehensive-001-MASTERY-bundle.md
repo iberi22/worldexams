@@ -1,5 +1,5 @@
 ---
-id: "CO-CN-9-2026-P4-comprehensive-001-MASTERY"
+id: "CO-CN-9-2026-P4-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 9
 asignatura: "ciencias-naturales"
@@ -19,7 +19,12 @@ rubric_baseline: "evolucion por seleccion natural, compuestos organicos fundamen
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Evolucion, Compuestos Organicos y Electricidad
 
@@ -31,13 +36,14 @@ Este bundle cubre la teoria de la evolucion por seleccion natural, los compuesto
 
 **ID:** `CO-CN-9-2026-P4-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** En una clase de biologia en Cali, se estudia la teoria de la evolucion.
+**Contexto:** En una clase de biologia en Cali, se estudia la teoria de la evolucion.
 
 ### Enunciado
 Quien propuso la teoria de la evolucion por seleccion natural?
 
-### Options
+### Opciones
 - [ ] A) Gregor Mendel <!-- feedback: Incorrect. Mendel estudio la herencia genetica, no la evolucion. -->
 - [x] B) Charles Darwin <!-- feedback: Correct. Darwin propuso la seleccion natural como mecanismo de la evolucion en "El origen de las especies" (1859). -->
 - [ ] C) Jean-Baptiste Lamarck <!-- feedback: Incorrect. Lamarck propuso la herencia de caracteres adquiridos, una teoria diferente. -->
@@ -52,13 +58,14 @@ Charles Darwin, basandose en observaciones en las Islas Galapagos y otras region
 
 **ID:** `CO-CN-9-2026-P4-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** En un laboratorio de quimica en Bogota, se estudian los compuestos del carbono.
+**Contexto:** En un laboratorio de quimica en Bogota, se estudian los compuestos del carbono.
 
 ### Enunciado
 Cual es la caracteristica principal del atomo de carbono que le permite formar una gran variedad de compuestos?
 
-### Options
+### Opciones
 - [ ] A) Tiene 6 protones. <!-- feedback: Incorrect. Eso es cierto pero no explica su versatilidad. -->
 - [x] B) Puede formar cuatro enlaces covalentes, permitiendo cadenas largas y estructuras complejas. <!-- feedback: Correct. El carbono tiene 4 electrones de valencia y forma 4 enlaces covalentes, lo que permite una enorme diversidad de moleculas organicas. -->
 - [ ] C) Es el elemento mas abundante en la Tierra. <!-- feedback: Incorrect. El silicio es mas abundante en la corteza terrestre. -->
@@ -73,13 +80,14 @@ El carbono es unico por su capacidad de formar cuatro enlaces covalentes estable
 
 **ID:** `CO-CN-9-2026-P4-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicacion de fenomenos
-**Context:** En el desierto de la Tatacoa en Colombia, ciertas lagartijas tienen coloracion que las camufla con la arena.
+**Contexto:** En el desierto de la Tatacoa en Colombia, ciertas lagartijas tienen coloracion que las camufla con la arena.
 
 ### Enunciado
 Como explica la seleccion natural la coloracion de estas lagartijas?
 
-### Options
+### Opciones
 - [ ] A) Las lagartijas se volvieron color arena individualmente para adaptarse. <!-- feedback: Incorrect. Los cambios no ocurren en individuos durante su vida. -->
 - [x] B) Las lagartijas con coloracion mas similar a la arena sobrevivieron mas y dejaron mas descendencia, aumentando la frecuencia de ese rasgo en la poblacion. <!-- feedback: Correct. La seleccion natural actua sobre la variacion existente: los rasgos ventajosos se vuelven mas comunes. -->
 - [ ] C) El desierto "enseno" a las lagartijas a ser color arena. <!-- feedback: Incorrect. Esto es una idea lamarckiana. La evolucion no es intencional. -->
@@ -94,13 +102,14 @@ La seleccion natural requiere: 1) variacion en la poblacion, 2) herencia de los 
 
 **ID:** `CO-CN-9-2026-P4-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicacion de fenomenos
-**Context:** En una clase de quimica, se explica que los carbohidratos son una biomolecula esencial.
+**Contexto:** En una clase de quimica, se explica que los carbohidratos son una biomolecula esencial.
 
 ### Enunciado
 Cual es la funcion principal de los carbohidratos en los seres vivos?
 
-### Options
+### Opciones
 - [ ] A) Almacenar informacion genetica. <!-- feedback: Incorrect. Esa es la funcion de los acidos nucleicos (ADN, ARN). -->
 - [x] B) Proporcionar energia inmediata y de reserva. <!-- feedback: Correct. Los carbohidratos (glucosa, almidon, glucogeno) son la principal fuente de energia celular. -->
 - [ ] C) Transportar oxigeno en la sangre. <!-- feedback: Incorrect. Esa es la funcion de las proteinas (hemoglobina). -->
@@ -115,13 +124,14 @@ Los carbohidratos incluyen azucares simples (glucosa, fructosa) y complejos (alm
 
 **ID:** `CO-CN-9-2026-P4-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** En un circuito electrico simple, se conecta una resistencia de 10 ohmios a una bateria de 12 voltios.
+**Contexto:** En un circuito electrico simple, se conecta una resistencia de 10 ohmios a una bateria de 12 voltios.
 
 ### Enunciado
 Usando la ley de Ohm (V = I*R), cual es la corriente que circula por el circuito?
 
-### Options
+### Opciones
 - [ ] A) 120 A <!-- feedback: Incorrect. Se multiplicaron voltaje y resistencia (12x10=120), pero la formula es I=V/R. -->
 - [ ] B) 22 A <!-- feedback: Incorrect. Se sumaron los valores (12+10=22). -->
 - [x] C) 1.2 A <!-- feedback: Correct. I = V/R = 12/10 = 1.2 amperios. -->
@@ -136,13 +146,14 @@ La ley de Ohm establece que la corriente es directamente proporcional al voltaje
 
 **ID:** `CO-CN-9-2026-P4-comprehensive-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagacion
-**Context:** Un biologo marino en el Pacifico colombiano estudia dos especies de peces en diferentes rios. Observa que a pesar de ser de la misma especie ancestral, han desarrollado diferencias.
+**Contexto:** Un biologo marino en el Pacifico colombiano estudia dos especies de peces en diferentes rios. Observa que a pesar de ser de la misma especie ancestral, han desarrollado diferencias.
 
 ### Enunciado
 Que proceso evolutivo explica que dos poblaciones separadas geograficamente se vuelvan diferentes?
 
-### Options
+### Opciones
 - [ ] A) Seleccion estabilizadora <!-- feedback: Incorrect. La seleccion estabilizadora mantiene el fenotipo promedio, no crea diferencias. -->
 - [x] B) Especiacion alopatrica <!-- feedback: Correct. La separacion geografica (rios diferentes) impide el flujo genetico, permitiendo que las poblaciones evolucionen independientemente. -->
 - [ ] C) Deriva genetica solo <!-- feedback: Incorrect. La deriva genetica contribuye, pero el aislamiento geografico es el factor clave de la especiacion alopatrica. -->
@@ -157,13 +168,14 @@ La especiacion alopatrica ocurre cuando una barrera fisica (geografica) separa u
 
 **ID:** `CO-CN-9-2026-P4-comprehensive-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** Se tienen tres resistencias identicas de 6 ohmios conectadas en serie a una fuente de 18 V.
+**Contexto:** Se tienen tres resistencias identicas de 6 ohmios conectadas en serie a una fuente de 18 V.
 
 ### Enunciado
 Cual es la resistencia equivalente del circuito?
 
-### Options
+### Opciones
 - [ ] A) 2 ohmios <!-- feedback: Incorrect. En serie, las resistencias se suman, no se promedian. -->
 - [x] B) 18 ohmios <!-- feedback: Correct. En serie: Req = R1 + R2 + R3 = 6+6+6 = 18 ohmios. -->
 - [ ] C) 6 ohmios <!-- feedback: Incorrect. Esa es la resistencia individual, no la equivalente. -->
@@ -178,13 +190,14 @@ En circuitos en serie, la resistencia equivalente es la suma de todas las resist
 
 **ID:** `CO-CN-9-2026-P4-comprehensive-001-MASTERY-v8`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicacion de fenomenos
-**Context:** Un estudiante observa que al frotar un globo contra su cabello, el globo atrae pequenos pedazos de papel.
+**Contexto:** Un estudiante observa que al frotar un globo contra su cabello, el globo atrae pequenos pedazos de papel.
 
 ### Enunciado
 Que explica este fenomeno?
 
-### Options
+### Opciones
 - [ ] A) El globo genera un campo magnetico. <!-- feedback: Incorrect. La atraccion es electrostica, no magnetica. -->
 - [x] B) El globo se carga electricamente por frotamiento (triboelectricidad) y atrae objetos neutros por induccion. <!-- feedback: Correct. Al frotar, el globo gana electrones (carga negativa) y los objetos neutros se polarizan, siendo atraidos. -->
 - [ ] C) El globo se calienta y el aire caliente atrae el papel. <!-- feedback: Incorrect. El efecto no es termico, es electrico. -->
@@ -199,13 +212,14 @@ La electricidad estatica se produce por la transferencia de electrones entre mat
 
 **ID:** `CO-CN-9-2026-P4-comprehensive-001-MASTERY-v9`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicacion de fenomenos
-**Context:** En la sabana de Bogota, se observa que los pinos introducidos (especie exotica) crecen mas rapido que los robles nativos.
+**Contexto:** En la sabana de Bogota, se observa que los pinos introducidos (especie exotica) crecen mas rapido que los robles nativos.
 
 ### Enunciado
 Que ventaja evolutiva podria tener el pino sobre el roble en este ambiente?
 
-### Options
+### Opciones
 - [ ] A) El pino es intrinsecamente superior al roble. <!-- feedback: Incorrect. La superioridad depende del ambiente. -->
 - [x] B) El pino puede tener adaptaciones preexistentes que le dan ventaja en este ambiente especifico. <!-- feedback: Correct. Las especies exoticas pueden tener caracteristicas que les permiten prosperar en un nuevo ambiente donde no tienen competidores o depredadores naturales. -->
 - [ ] C) El roble no ha evolucionado. <!-- feedback: Incorrect. Todas las especies evolucionan continuamente. -->
@@ -220,13 +234,14 @@ La adaptacion es relativa al ambiente. Una especie exotica puede tener exito en 
 
 **ID:** `CO-CN-9-2026-P4-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** Se conectan dos resistencias de 4 ohmios y 6 ohmios en paralelo a una bateria de 12 V.
+**Contexto:** Se conectan dos resistencias de 4 ohmios y 6 ohmios en paralelo a una bateria de 12 V.
 
 ### Enunciado
 Cual es la resistencia equivalente de este circuito?
 
-### Options
+### Opciones
 - [ ] A) 10 ohmios <!-- feedback: Incorrect. En paralelo, la resistencia equivalente es menor que la menor de las resistencias. -->
 - [ ] B) 2.4 ohmios <!-- feedback: Correct. 1/Req = 1/4 + 1/6 = 3/12 + 2/12 = 5/12. Req = 12/5 = 2.4 ohmios. -->
 - [ ] C) 24 ohmios <!-- feedback: Incorrect. Se multiplicaron las resistencias. -->
@@ -241,13 +256,14 @@ En circuitos en paralelo, la resistencia equivalente se calcula como: 1/Req = 1/
 
 **ID:** `CO-CN-9-2026-P4-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Explicacion de fenomenos
-**Context:** Un biologo encuentra fosiles de animales marinos en la cima de una montana en Colombia.
+**Contexto:** Un biologo encuentra fosiles de animales marinos en la cima de una montana en Colombia.
 
 ### Enunciado
 Cual es la explicacion evolutiva y geologica mas probable para este hallazgo?
 
-### Options
+### Opciones
 - [ ] A) Los animales marinos evolucionaron para vivir en montanas. <!-- feedback: Incorrect. La evolucion no explica cambios geologicos. -->
 - [ ] B) Los fosiles fueron llevados alli por humanos antiguos. <!-- feedback: Incorrect. No hay evidencia de ello y la escala es demasiado grande. -->
 - [x] C) La zona estuvo cubierta por el mar en el pasado y luego se elevo por movimientos tectonicos. <!-- feedback: Correct. Los fosiles marinos en montanas evidencian que esa area estuvo sumergida y luego se elevo por la tectonica de placas. -->
@@ -262,13 +278,14 @@ Los fosiles son evidencia de la vida pasada y de los cambios geologicos. Encontr
 
 **ID:** `CO-CN-9-2026-P4-comprehensive-001-MASTERY-v12`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Indagacion
-**Context:** En un laboratorio, se tiene un circuito con una resistencia desconocida. Al aplicar 9 V, circula una corriente de 0.3 A.
+**Contexto:** En un laboratorio, se tiene un circuito con una resistencia desconocida. Al aplicar 9 V, circula una corriente de 0.3 A.
 
 ### Enunciado
 Cual es el valor de la resistencia?
 
-### Options
+### Opciones
 - [ ] A) 2.7 ohmios <!-- feedback: Incorrect. Se multiplicaron los valores. La formula es R = V/I. -->
 - [ ] B) 0.033 ohmios <!-- feedback: Incorrect. Se dividio I/V en lugar de V/I. -->
 - [x] C) 30 ohmios <!-- feedback: Correct. R = V/I = 9/0.3 = 30 ohmios. -->
@@ -283,13 +300,14 @@ La ley de Ohm permite despejar cualquier variable: V = I*R, I = V/R, R = V/I. Es
 
 **ID:** `CO-CN-9-2026-P4-comprehensive-001-MASTERY-v13`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** Un estudiante afirma que la evolucion es "solo una teoria" y que no esta comprobada.
+**Contexto:** Un estudiante afirma que la evolucion es "solo una teoria" y que no esta comprobada.
 
 ### Enunciado
 Es correcta esta afirmacion sobre la evolucion?
 
-### Options
+### Opciones
 - [ ] A) Si, porque no se puede observar directamente. <!-- feedback: Incorrect. La evolucion se observa directamente en laboratorio y en la naturaleza. -->
 - [x] B) No, porque en ciencia una teoria es un cuerpo de conocimiento bien fundamentado con multiples evidencias. La evolucion tiene evidencia fosil, genetica, anatomica y observacional. <!-- feedback: Correct. En el lenguaje cientifico, "teoria" es el nivel mas alto de explicacion, no una simple especulacion. -->
 - [ ] C) Si, porque hay muchas teorias diferentes. <!-- feedback: Incorrect. La teoria de la evolucion es la unica que explica la diversidad de la vida con soporte cientifico. -->
@@ -304,13 +322,14 @@ En el metodo cientifico, una "teoria" es una explicacion bien fundamentada que i
 
 **ID:** `CO-CN-9-2026-P4-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** Se tienen dos circuitos con la misma fuente de 12 V. El circuito A tiene una resistencia de 4 ohmios y el B tiene dos resistencias de 4 ohmios en serie.
+**Contexto:** Se tienen dos circuitos con la misma fuente de 12 V. El circuito A tiene una resistencia de 4 ohmios y el B tiene dos resistencias de 4 ohmios en serie.
 
 ### Enunciado
 Cual circuito consume mas potencia? (P = V*I = V^2/R)
 
-### Options
+### Opciones
 - [ ] A) El circuito A, porque tiene menor resistencia y por tanto mayor corriente. <!-- feedback: Correct. P = V^2/R. Para el circuito A: P = 144/4 = 36 W. Para B: Req=8 ohmios, P = 144/8 = 18 W. A consume el doble. -->
 - [ ] B) El circuito B, porque tiene mas resistencias. <!-- feedback: Incorrect. Mas resistencia significa menos corriente y menor potencia. -->
 - [ ] C) Ambos consumen la misma potencia porque tienen la misma fuente. <!-- feedback: Incorrect. La potencia depende de la resistencia total del circuito. -->
@@ -325,13 +344,14 @@ La potencia electrica se puede calcular con P = V*I = I^2*R = V^2/R. A menor res
 
 **ID:** `CO-CN-9-2026-P4-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** Un investigador en el Choco biogeografico encuentra que una poblacion de ranas tiene una coloracion mas brillante que sus ancestros. Descubre que los depredadores evitan las ranas brillantes porque son venenosas.
+**Contexto:** Un investigador en el Choco biogeografico encuentra que una poblacion de ranas tiene una coloracion mas brillante que sus ancestros. Descubre que los depredadores evitan las ranas brillantes porque son venenosas.
 
 ### Enunciado
 Que tipo de seleccion natural esta actuando?
 
-### Options
+### Opciones
 - [x] A) Seleccion direccional, favoreciendo el aumento de la coloracion brillante. <!-- feedback: Correct. La seleccion direccional favorece un extremo del rango de variacion (mas brillante). -->
 - [ ] B) Seleccion estabilizadora, manteniendo la coloracion promedio. <!-- feedback: Incorrect. La seleccion estabilizadora favorece el fenotipo intermedio, no un extremo. -->
 - [ ] C) Seleccion disruptiva, favoreciendo ambos extremos. <!-- feedback: Incorrect. La seleccion disruptiva favorece los fenotipos extremos en detrimento del intermedio. -->

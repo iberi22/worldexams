@@ -5,436 +5,502 @@ exam: "NSC Matric — English Home Language (CAPS)"
 grado: 12
 asignatura: "English Home Language"
 tema: "comprehension-skills"
-semana: 1
+week: "W01"
 periodo: 1
 bundle_index: 1
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "CAPS Grade 12 English Home Language (DBE 2026)"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle — Comprehension & Critical Reading
 **Difficulty: D3-D10 | 20 Questions | English Home Language — NSC Matric**
 
 ---
 
-## Question 1 — D3
+## Question 1 [D3]
 **ID:** `ZA-ENG-12-2026-W01-comprehension-skills-001-MASTERY-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Transactional writing in a Durban classroom.
+**Contexto:** T### Opciones
+ransactional writing in a Durban classroom.
 
-**Stem:** Appropriate tone for a formal complaint letter:
+### Enunciado
+Appropriate tone for a formal complaint letter:
 
-- [x] **A)** Respectful and firm
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Angry and aggressive
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Casual and friendly
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Humorous
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Respectful and firm <!-- feedback: Correcto! Respectful and firm -->
 
-**Explanation:** Formal letters require a respectful yet firm tone.
+- [ ] B) Angry and aggressive <!-- feedback: Incorrecto. Angry and aggressive -->
+
+- [ ] C) Casual and friendly <!-- feedback: Incorrecto. Casual and friendly -->
+
+- [ ] D) Humorous <!-- feedback: Incorrecto. Humorous -->
+
+### Explicacion Pedagogica Formal letters require a respectful yet firm tone.
 
 ---
 
-## Question 2 — D3
+## Question 2 [D3]
 **ID:** `ZA-ENG-12-2026-W01-comprehension-skills-001-MASTERY-v2`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Character analysis in a prescribed novel.
+**Contexto:*### Opciones
+* Character analysis in a prescribed novel.
 
-**Stem:** Protagonist's internal conflict is best described as:
+### Enunciado
+Protagonist's internal conflict is best described as:
 
-- [x] **A)** Person vs self
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Person vs person
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Person vs society
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Person vs nature
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Person vs self <!-- feedback: Correcto! Person vs self -->
 
-**Explanation:** Internal conflict occurs within the character.
+- [ ] B) Person vs person <!-- feedback: Incorrecto. Person vs person -->
+
+- [ ] C) Person vs society <!-- feedback: Incorrecto. Person vs society -->
+
+- [ ] D) Person vs nature <!-- feedback: Incorrecto. Person vs nature -->
+
+### Explicacion Pedagogica Internal conflict occurs within the character.
 
 ---
 
-## Question 3 — D4
+## Question 3 [D4]
 **ID:** `ZA-ENG-12-2026-W01-comprehension-skills-001-MASTERY-v3`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Analysing mood in literature.
+### Opciones
+**Contexto:** Analysing mood in literature.
 
-**Stem:** The mood created in a text refers to:
+### Enunciado
+The mood created in a text refers to:
 
-- [x] **A)** The emotional atmosphere
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** The author's attitude
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** The main character's feelings
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** The setting description
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) The emotional atmosphere <!-- feedback: Correcto! The emotional atmosphere -->
 
-**Explanation:** Mood is the feeling the reader experiences.
+- [ ] B) The author's attitude <!-- feedback: Incorrecto. The author's attitude -->
+
+- [ ] C) The main character's feelings <!-- feedback: Incorrecto. The main character's feelings -->
+
+- [ ] D) The setting description <!-- feedback: Incorrecto. The setting description -->
+
+### Explicacion Pedagogica Mood is the feeling the reader experiences.
 
 ---
 
-## Question 4 — D4
+## Question 4 [D4]
 **ID:** `ZA-ENG-12-2026-W01-comprehension-skills-001-MASTERY-v4`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Visual literacy in a Cape Town classroom.
+**Contexto:*### Opciones
+* Visual literacy in a Cape Town classroom.
 
-**Stem:** Salience in an image refers to:
+### Enunciado
+Salience in an image refers to:
 
-- [x] **A)** What stands out most to the viewer
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** The colour scheme
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** The font style
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** The background texture
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) What stands out most to the viewer <!-- feedback: Correcto! What stands out most to the viewer -->
 
-**Explanation:** Salience is what grabs attention in a visual.
+- [ ] B) The colour scheme <!-- feedback: Incorrecto. The colour scheme -->
+
+- [ ] C) The font style <!-- feedback: Incorrecto. The font style -->
+
+- [ ] D) The background texture <!-- feedback: Incorrecto. The background texture -->
+
+### Explicacion Pedagogica Salience is what grabs attention in a visual.
 
 ---
 
-## Question 5 — D4
+## Question 5 [D4]
 **ID:** `ZA-ENG-12-2026-W01-comprehension-skills-001-MASTERY-v5`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Studying dramatic texts in Soweto.
+**Con### Opciones
+texto:** Studying dramatic texts in Soweto.
 
-**Stem:** A soliloquy is:
+### Enunciado
+A soliloquy is:
 
-- [x] **A)** A speech by a character alone on stage
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** A conversation between two characters
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** A short comment to the audience
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** A stage direction
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) A speech by a character alone on stage <!-- feedback: Correcto! A speech by a character alone on stage -->
 
-**Explanation:** A soliloquy reveals a character's inner thoughts.
+- [ ] B) A conversation between two characters <!-- feedback: Incorrecto. A conversation between two characters -->
+
+- [ ] C) A short comment to the audience <!-- feedback: Incorrecto. A short comment to the audience -->
+
+- [ ] D) A stage direction <!-- feedback: Incorrecto. A stage direction -->
+
+### Explicacion Pedagogica A soliloquy reveals a character's inner thoughts.
 
 ---
 
-## Question 6 — D5
+## Question 6 [D5]
 **ID:** `ZA-ENG-12-2026-W01-comprehension-skills-001-MASTERY-v6`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Vocabulary study in an English HL class.
+**Contexto:### Opciones
+** Vocabulary study in an English HL class.
 
-**Stem:** The prefix 'un-' in 'unbelievable' means:
+### Enunciado
+The prefix 'un-' in 'unbelievable' means:
 
-- [x] **A)** Not
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Before
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Again
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Under
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Not <!-- feedback: Correcto! Not -->
 
-**Explanation:** 'un-' is a negative prefix meaning 'not'.
+- [ ] B) Before <!-- feedback: Incorrecto. Before -->
+
+- [ ] C) Again <!-- feedback: Incorrecto. Again -->
+
+- [ ] D) Under <!-- feedback: Incorrecto. Under -->
+
+### Explicacion Pedagogica 'un-' is a negative prefix meaning 'not'.
 
 ---
 
-## Question 7 — D5
+## Question 7 [D5]
 **ID:** `ZA-ENG-12-2026-W01-comprehension-skills-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Morphology in language study.
+### Opciones
+**Contexto:** Morphology in language study.
 
-**Stem:** Suffix '-tion' in 'education' indicates:
+### Enunciado
+Suffix '-tion' in 'education' indicates:
 
-- [x] **A)** A process or state
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** A person who does something
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** The opposite of
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** A small version of
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) A process or state <!-- feedback: Correcto! A process or state -->
 
-**Explanation:** '-tion' forms nouns meaning a process.
+- [ ] B) A person who does something <!-- feedback: Incorrecto. A person who does something -->
+
+- [ ] C) The opposite of <!-- feedback: Incorrecto. The opposite of -->
+
+- [ ] D) A small version of <!-- feedback: Incorrecto. A small version of -->
+
+### Explicacion Pedagogica '-tion' forms nouns meaning a process.
 
 ---
 
-## Question 8 — D5
+## Question 8 [D5]
 **ID:** `ZA-ENG-12-2026-W01-comprehension-skills-001-MASTERY-v8`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Figurative language revision.
+### Opciones
+**Contexto:** Figurative language revision.
 
-**Stem:** What is a metaphor?
+### Enunciado
+What is a metaphor?
 
-- [x] **A)** A direct comparison without 'like' or 'as'
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** A comparison using 'like' or 'as'
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** An extreme exaggeration
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** A repeated consonant sound
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) A direct comparison without 'like' or 'as' <!-- feedback: Correcto! A direct comparison without 'like' or 'as' -->
 
-**Explanation:** A metaphor states something is something else.
+- [ ] B) A comparison using 'like' or 'as' <!-- feedback: Incorrecto. A comparison using 'like' or 'as' -->
+
+- [ ] C) An extreme exaggeration <!-- feedback: Incorrecto. An extreme exaggeration -->
+
+- [ ] D) A repeated consonant sound <!-- feedback: Incorrecto. A repeated consonant sound -->
+
+### Explicacion Pedagogica A metaphor states something is something else.
 
 ---
 
-## Question 9 — D6
+## Question 9 [D6]
 **ID:** `ZA-ENG-12-2026-W01-comprehension-skills-001-MASTERY-v9`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
+### Opciones
 
-**Context:** Poetry analysis in Grade 12.
+**Contexto:** Poetry analysis in Grade 12.
 
-**Stem:** A group of lines forming a unit in poetry:
+### Enunciado
+A group of lines forming a unit in poetry:
 
-- [x] **A)** Stanza
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Verse
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Couplet
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Paragraph
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Stanza <!-- feedback: Correcto! Stanza -->
 
-**Explanation:** A stanza is a grouped set of lines in poetry.
+- [ ] B) Verse <!-- feedback: Incorrecto. Verse -->
+
+- [ ] C) Couplet <!-- feedback: Incorrecto. Couplet -->
+
+- [ ] D) Paragraph <!-- feedback: Incorrecto. Paragraph -->
+
+### Explicacion Pedagogica A stanza is a grouped set of lines in poetry.
 
 ---
 
-## Question 10 — D6
+## Question 10 [D6]
 **ID:** `ZA-ENG-12-2026-W01-comprehension-skills-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Rhetorical devices in argumentative writing.
+**Contexto:** R### Opciones
+hetorical devices in argumentative writing.
 
-**Stem:** Purpose of a rhetorical question:
+### Enunciado
+Purpose of a rhetorical question:
 
-- [x] **A)** To make the reader think without expecting an answer
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** To request information
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** To show confusion
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** To ask for clarification
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) To make the reader think without expecting an answer <!-- feedback: Correcto! To make the reader think without expecting an answer -->
 
-**Explanation:** Rhetorical questions engage the reader.
+- [ ] B) To request information <!-- feedback: Incorrecto. To request information -->
+
+- [ ] C) To show confusion <!-- feedback: Incorrecto. To show confusion -->
+
+- [ ] D) To ask for clarification <!-- feedback: Incorrecto. To ask for clarification -->
+
+### Explicacion Pedagogica Rhetorical questions engage the reader.
 
 ---
 
-## Question 11 — D6
+## Question 11 [D6]
 **ID:** `ZA-ENG-12-2026-W01-comprehension-skills-001-MASTERY-v11`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Analysing sentence structures.
+*### Opciones
+*Contexto:** Analysing sentence structures.
 
-**Stem:** Which is a complex sentence?
+### Enunciado
+Which is a complex sentence?
 
-- [x] **A)** Because she was tired, she went to bed.
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** She was tired and went to bed.
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** She went to bed.
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Tired, she slept.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Because she was tired, she went to bed. <!-- feedback: Correcto! Because she was tired, she went to bed. -->
 
-**Explanation:** One dependent clause + one independent clause = complex sentence.
+- [ ] B) She was tired and went to bed. <!-- feedback: Incorrecto. She was tired and went to bed. -->
+
+- [ ] C) She went to bed. <!-- feedback: Incorrecto. She went to bed. -->
+
+- [ ] D) Tired, she slept. <!-- feedback: Incorrecto. Tired, she slept. -->
+
+### Explicacion Pedagogica One dependent clause + one independent clause = complex sentence.
 
 ---
 
-## Question 12 — D7
+## Question 12 [D7]
 **ID:** `ZA-ENG-12-2026-W01-comprehension-skills-001-MASTERY-v12`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Grammar revision for Paper 1.
+### Opciones
+**Contexto:** Grammar revision for Paper 1.
 
-**Stem:** In 'He ran quickly', 'quickly' is:
+### Enunciado
+In 'He ran quickly', 'quickly' is:
 
-- [x] **A)** An adverb
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** An adjective
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** A verb
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** A noun
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) An adverb <!-- feedback: Correcto! An adverb -->
 
-**Explanation:** Adverbs modify verbs; 'quickly' modifies 'ran'.
+- [ ] B) An adjective <!-- feedback: Incorrecto. An adjective -->
+
+- [ ] C) A verb <!-- feedback: Incorrecto. A verb -->
+
+- [ ] D) A noun <!-- feedback: Incorrecto. A noun -->
+
+### Explicacion Pedagogica Adverbs modify verbs; 'quickly' modifies 'ran'.
 
 ---
 
-## Question 13 — D7
+## Question 13 [D7]
 **ID:** `ZA-ENG-12-2026-W01-comprehension-skills-001-MASTERY-v13`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Analysing figurative language.
+*### Opciones
+*Contexto:** Analysing figurative language.
 
-**Stem:** A metaphor differs from a simile because it:
+### Enunciado
+A metaphor differs from a simile because it:
 
-- [x] **A)** Does not use 'like' or 'as'
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Compares unlike things
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Uses exaggeration
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Repeats consonant sounds
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Does not use 'like' or 'as' <!-- feedback: Correcto! Does not use 'like' or 'as' -->
 
-**Explanation:** Metaphors compare directly without 'like' or 'as'.
+- [ ] B) Compares unlike things <!-- feedback: Incorrecto. Compares unlike things -->
+
+- [ ] C) Uses exaggeration <!-- feedback: Incorrecto. Uses exaggeration -->
+
+- [ ] D) Repeats consonant sounds <!-- feedback: Incorrecto. Repeats consonant sounds -->
+
+### Explicacion Pedagogica Metaphors compare directly without 'like' or 'as'.
 
 ---
 
-## Question 14 — D7
+## Question 14 [D7]
 **ID:** `ZA-ENG-12-2026-W01-comprehension-skills-001-MASTERY-v14`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Novel study: identifying themes.
+**C### Opciones
+ontexto:** Novel study: identifying themes.
 
-**Stem:** Theme of a literary work refers to:
+### Enunciado
+Theme of a literary work refers to:
 
-- [x] **A)** The central idea or message
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** The sequence of events
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** The main character
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** The setting
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) The central idea or message <!-- feedback: Correcto! The central idea or message -->
 
-**Explanation:** Theme is the underlying message explored in the text.
+- [ ] B) The sequence of events <!-- feedback: Incorrecto. The sequence of events -->
+
+- [ ] C) The main character <!-- feedback: Incorrecto. The main character -->
+
+- [ ] D) The setting <!-- feedback: Incorrecto. The setting -->
+
+### Explicacion Pedagogica Theme is the underlying message explored in the text.
 
 ---
 
-## Question 15 — D8
+## Question 15 [D8]
 **ID:** `ZA-ENG-12-2026-W01-comprehension-skills-001-MASTERY-v15`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Sentence structure and editing.
+**### Opciones
+Contexto:** Sentence structure and editing.
 
-**Stem:** Correct the comma splice: 'I went home, I was tired.'
+### Enunciado
+Correct the comma splice: 'I went home, I was tired.'
 
-- [x] **A)** I went home because I was tired.
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** I went home I was tired.
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** I went home; tired.
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** I went home, tired I was.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) I went home because I was tired. <!-- feedback: Correcto! I went home because I was tired. -->
 
-**Explanation:** A subordinating conjunction fixes a comma splice.
+- [ ] B) I went home I was tired. <!-- feedback: Incorrecto. I went home I was tired. -->
+
+- [ ] C) I went home; tired. <!-- feedback: Incorrecto. I went home; tired. -->
+
+- [ ] D) I went home, tired I was. <!-- feedback: Incorrecto. I went home, tired I was. -->
+
+### Explicacion Pedagogica A subordinating conjunction fixes a comma splice.
 
 ---
 
-## Question 16 — D8
+## Question 16 [D8]
 **ID:** `ZA-ENG-12-2026-W01-comprehension-skills-001-MASTERY-v16`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Subject-verb agreement practice.
+**C### Opciones
+ontexto:** Subject-verb agreement practice.
 
-**Stem:** Correct: 'Neither the teacher nor the students was present.'
+### Enunciado
+Correct: 'Neither the teacher nor the students was present.'
 
-- [x] **A)** were present
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** is present
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** have present
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** are been present
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) were present <!-- feedback: Correcto! were present -->
 
-**Explanation:** Verb agrees with closest subject (students) -> 'were'.
+- [ ] B) is present <!-- feedback: Incorrecto. is present -->
+
+- [ ] C) have present <!-- feedback: Incorrecto. have present -->
+
+- [ ] D) are been present <!-- feedback: Incorrecto. are been present -->
+
+### Explicacion Pedagogica Verb agrees with closest subject (students) -> 'were'.
 
 ---
 
-## Question 17 — D8
+## Question 17 [D8]
 **ID:** `ZA-ENG-12-2026-W01-comprehension-skills-001-MASTERY-v17`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Visual literacy and media analysis.
+**Cont### Opciones
+exto:** Visual literacy and media analysis.
 
-**Stem:** An ad using a celebrity employs which technique?
+### Enunciado
+An ad using a celebrity employs which technique?
 
-- [x] **A)** Appeal to authority
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Appeal to fear
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Bandwagon
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Loaded language
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Appeal to authority <!-- feedback: Correcto! Appeal to authority -->
 
-**Explanation:** Celebrity endorsement is an appeal to authority.
+- [ ] B) Appeal to fear <!-- feedback: Incorrecto. Appeal to fear -->
+
+- [ ] C) Bandwagon <!-- feedback: Incorrecto. Bandwagon -->
+
+- [ ] D) Loaded language <!-- feedback: Incorrecto. Loaded language -->
+
+### Explicacion Pedagogica Celebrity endorsement is an appeal to authority.
 
 ---
 
-## Question 18 — D9
+## Question 18 [D9]
 **ID:** `ZA-ENG-12-2026-W01-comprehension-skills-001-MASTERY-v18`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimien### Opciones
+tos
 
-**Context:** Poetic devices analysis.
+**Contexto:** Poetic devices analysis.
 
-**Stem:** What is the effect of alliteration?
+### Enunciado
+What is the effect of alliteration?
 
-- [x] **A)** Creates rhythm and emphasis
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Compares two unlike things
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Shows contrast
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Exaggerates for effect
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Creates rhythm and emphasis <!-- feedback: Correcto! Creates rhythm and emphasis -->
 
-**Explanation:** Alliteration repeats initial sounds for musical effect.
+- [ ] B) Compares two unlike things <!-- feedback: Incorrecto. Compares two unlike things -->
+
+- [ ] C) Shows contrast <!-- feedback: Incorrecto. Shows contrast -->
+
+- [ ] D) Exaggerates for effect <!-- feedback: Incorrecto. Exaggerates for effect -->
+
+### Explicacion Pedagogica Alliteration repeats initial sounds for musical effect.
 
 ---
 
-## Question 19 — D9
+## Question 19 [D9]
 **ID:** `ZA-ENG-12-2026-W01-comprehension-skills-001-MASTERY-v19`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Punctuation practice for the NSC exams.
+**Contexto### Opciones
+:** Punctuation practice for the NSC exams.
 
-**Stem:** Punctuation to join two independent clauses without conjunction:
+### Enunciado
+Punctuation to join two independent clauses without conjunction:
 
-- [x] **A)** Semicolon
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Comma
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Colon
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Full stop
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Semicolon <!-- feedback: Correcto! Semicolon -->
 
-**Explanation:** A semicolon joins related independent clauses.
+- [ ] B) Comma <!-- feedback: Incorrecto. Comma -->
+
+- [ ] C) Colon <!-- feedback: Incorrecto. Colon -->
+
+- [ ] D) Full stop <!-- feedback: Incorrecto. Full stop -->
+
+### Explicacion Pedagogica A semicolon joins related independent clauses.
 
 ---
 
-## Question 20 — D10
+## Question 20 [D10]
 **ID:** `ZA-ENG-12-2026-W01-comprehension-skills-001-MASTERY-v20`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
+### Opciones
 
-**Context:** Drama study for NSC English.
+**Contexto:** Drama study for NSC English.
 
-**Stem:** Climax of a dramatic plot:
+### Enunciado
+Climax of a dramatic plot:
 
-- [x] **A)** The moment of highest tension or turning point
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** The introduction of characters
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** The resolution of the conflict
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** The falling action
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) The moment of highest tension or turning point <!-- feedback: Correcto! The moment of highest tension or turning point -->
 
-**Explanation:** The climax is the peak of dramatic tension.
+- [ ] B) The introduction of characters <!-- feedback: Incorrecto. The introduction of characters -->
+
+- [ ] C) The resolution of the conflict <!-- feedback: Incorrecto. The resolution of the conflict -->
+
+- [ ] D) The falling action <!-- feedback: Incorrecto. The falling action -->
+
+### Explicacion Pedagogica The climax is the peak of dramatic tension.
 
 ---

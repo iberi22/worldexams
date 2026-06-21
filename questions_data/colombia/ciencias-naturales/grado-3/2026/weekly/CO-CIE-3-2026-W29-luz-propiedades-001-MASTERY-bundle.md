@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY"
+id: "CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "luz-propiedades"
-semana: "W29"
+week: "W29"
 periodo: 3
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Propiedades de la luz: reflexión, refracción y descomposici�
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Propiedades de la Luz
 
 Este bundle explora los fenómenos físicos de la luz cuando interactúa con diferentes superficies y medios, permitiéndonos entender cómo funcionan los espejos, los lentes y el arcoíris.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Mariana se mira en el espejo del baño todas las mañanas para peinarse.
+**Contexto:** Mariana se mira en el espejo del baño todas las mañanas para peinarse.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ La reflexión es lo que nos permite vernos. Los espejos son vidrios con una capa
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Si metes un pitillo en un vaso con agua, notarás que desde afuera el pitillo parece estar "quebrado" o doblado justo donde entra al líquido.
+**Contexto:** Si metes un pitillo en un vaso con agua, notarás que desde afuera el pitillo parece estar "quebrado" o doblado justo donde entra al líquido.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -73,12 +77,12 @@ La luz viaja más lento en el agua que en el aire. Ese cambio de velocidad hace 
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Después de una tarde de lluvia en la sabana de Bogotá, sale el sol y aparece un hermoso arcoíris en el cielo.
+**Contexto:** Después de una tarde de lluvia en la sabana de Bogotá, sale el sol y aparece un hermoso arcoíris en el cielo.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ Las gotas de lluvia funcionan como pequeños prismas de cristal. Cuando la luz e
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Juan tiene dos láminas: una de metal pulido y otra de papel lija negro y rasposo. Alumbra ambas con una linterna.
+**Contexto:** Juan tiene dos láminas: una de metal pulido y otra de papel lija negro y rasposo. Alumbra ambas con una linterna.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ Existen dos tipos de reflexión. La especular (en espejos o metal liso) que crea
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Mariana usa unas gafas para poder leer mejor sus libros favoritos. Las gafas tienen unos cristales curvos llamados lentes.
+**Contexto:** Mariana usa unas gafas para poder leer mejor sus libros favoritos. Las gafas tienen unos cristales curvos llamados lentes.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -148,12 +152,12 @@ Los lentes son "maestros de la refracción". Su forma curva obliga a la luz a do
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En un día muy caluroso, a veces parece que hubiera charcos de agua sobre el asfalto de la carretera, pero al acercarnos la carretera está seca.
+**Contexto:** En un día muy caluroso, a veces parece que hubiera charcos de agua sobre el asfalto de la carretera, pero al acercarnos la carretera está seca.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -173,12 +177,12 @@ La luz no solo se refracta en el agua o vidrio; también lo hace en el aire si l
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Los periscopios de los submarinos usan dos espejos colocados en ángulos especiales para ver qué hay en la superficie sin salir del agua.
+**Contexto:** Los periscopios de los submarinos usan dos espejos colocados en ángulos especiales para ver qué hay en la superficie sin salir del agua.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -198,12 +202,12 @@ El periscopio es una aplicación brillante de la reflexión. Nos permite "llevar
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Si iluminas una manzana roja con una luz blanca, la vemos roja. Si la iluminas en un cuarto totalmente oscuro con una luz azul pura, la manzana se verá casi negra.
+**Contexto:** Si iluminas una manzana roja con una luz blanca, la vemos roja. Si la iluminas en un cuarto totalmente oscuro con una luz azul pura, la manzana se verá casi negra.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -223,12 +227,12 @@ El color de un objeto es en realidad el color de la luz que ese objeto "no quiso
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un diamante brilla muchísimo más que un trozo de vidrio común, aunque ambos sean transparentes.
+**Contexto:** Un diamante brilla muchísimo más que un trozo de vidrio común, aunque ambos sean transparentes.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -248,12 +252,12 @@ A esto se le llama reflexión interna total y alta dispersión. El diamante es c
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W29-luz-propiedades-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un niño dice: "Los arcoíris son puentes sólidos que aparecen en el cielo para que los pájaros caminen sobre ellos".
+**Contexto:** Un niño dice: "Los arcoíris son puentes sólidos que aparecen en el cielo para que los pájaros caminen sobre ellos".
 **Expected_Success:** 0.55
 
 ### Enunciado

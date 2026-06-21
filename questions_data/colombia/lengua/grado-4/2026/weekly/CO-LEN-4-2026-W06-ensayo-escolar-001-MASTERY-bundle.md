@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-4-2026-W06-ensayo-escolar-001-MASTERY"
+id: "CO-LEN-4-2026-W06-ensayo-escolar-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lengua-castellana"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 8
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W06 — El Ensayo Escolar
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEN-4-2026-W06-ensayo-escolar-001-MASTERY-v1`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** Taller de escritura en la I.E. San José en Cali
+**Contexto:** Taller de escritura en la I.E. San José en Cali
 **Expected_Success:** 0.80
 
 ### Enunciado
 El profesor explica que un **ensayo escolar** es un texto donde el autor expresa su opinión personal sobre un tema. ¿Cuál es el primer paso para escribir un buen ensayo?
 
-### Options
+### Opciones
 - [ ] A) Escribir las conclusiones finales. <!-- feedback: Incorrecto. Las conclusiones son el paso final, no el primero. -->
 - [x] B) Elegir un tema que nos interese e investigar sobre él. <!-- feedback: Correcto. Sin un tema y conocimiento previo no se puede opinar con argumentos. -->
 - [ ] C) Dibujar la portada del libro. <!-- feedback: Incorrecto. El dibujo es un complemento, pero no es la base de la escritura del ensayo. -->
@@ -46,13 +51,13 @@ La planeación es fundamental en la escritura. El estudiante debe entender que l
 **ID:** `CO-LEN-4-2026-W06-ensayo-escolar-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** La estructura de un ensayo sobre el cuidado de los parques en Medellín
+**Contexto:** La estructura de un ensayo sobre el cuidado de los parques en Medellín
 **Expected_Success:** 0.75
 
 ### Enunciado
 Un ensayo escolar suele tener tres partes principales. Si estás escribiendo la parte donde presentas el tema y dices qué piensas (tu idea principal), ¿en qué parte del ensayo estás?
 
-### Options
+### Opciones
 - [x] A) Introducción. <!-- feedback: Correcto. En la introducción se presenta el tema y la tesis (opinión) del autor. -->
 - [ ] B) Desarrollo. <!-- feedback: Incorrecto. En el desarrollo se explican los argumentos con detalle. -->
 - [ ] C) Conclusión. <!-- feedback: Incorrecto. En la conclusión se resumen las ideas finales. -->
@@ -68,13 +73,13 @@ Identificar la estructura básica del ensayo (Introducción, Desarrollo, Conclus
 **ID:** `CO-LEN-4-2026-W06-ensayo-escolar-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Un ensayo sobre por qué es importante reciclar en Barranquilla
+**Contexto:** Un ensayo sobre por qué es importante reciclar en Barranquilla
 **Expected_Success:** 0.70
 
 ### Enunciado
 Juan escribió: "Yo creo que debemos reciclar porque así evitamos que la basura llegue a nuestras playas y dañe a los animales". ¿Cómo se le llama a esta idea que Juan defiende?
 
-### Options
+### Opciones
 - [ ] A) Un cuento fantástico. <!-- feedback: Incorrecto. No es una narración de hechos imaginarios. -->
 - [x] B) Una tesis u opinión. <!-- feedback: Correcto. La tesis es la idea principal que el autor quiere demostrar o defender en su ensayo. -->
 - [ ] C) Un dictado del profesor. <!-- feedback: Incorrecto. Es una idea propia del estudiante. -->
@@ -90,13 +95,13 @@ Conceptos como "tesis" u "opinión central" deben ser introducidos de forma senc
 **ID:** `CO-LEN-4-2026-W06-ensayo-escolar-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Uso de conectores en un ensayo sobre el uso de celulares en el salón
+**Contexto:** Uso de conectores en un ensayo sobre el uso de celulares en el salón
 **Expected_Success:** 0.65
 
 ### Enunciado
 "Los celulares son útiles para investigar; **sin embargo**, pueden distraer a los estudiantes si se usan para jugar en clase". ¿Qué función cumple la palabra en negrita?
 
-### Options
+### Opciones
 - [ ] A) Iniciar el texto. <!-- feedback: Incorrecto. "Sin embargo" no se usa para empezar, sino para conectar ideas. -->
 - [x] B) Mostrar una idea contraria u oposición. <!-- feedback: Correcto. Es un conector adversativo que permite presentar los dos lados de una opinión. -->
 - [ ] C) Repetir lo que ya se dijo. <!-- feedback: Incorrecto. Al contrario, añade una perspectiva diferente. -->
@@ -112,13 +117,13 @@ Los conectores lógicos son esenciales para la cohesión del ensayo. El estudian
 **ID:** `CO-LEN-4-2026-W06-ensayo-escolar-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Un ensayo sobre la importancia de la lectura en Colombia
+**Contexto:** Un ensayo sobre la importancia de la lectura en Colombia
 **Expected_Success:** 0.68
 
 ### Enunciado
 En el **desarrollo** de un ensayo, es necesario dar razones para convencer al lector. ¿Cuál de estas frases es un buen **argumento** para decir que leer es bueno?
 
-### Options
+### Opciones
 - [ ] A) A mi mamá le gusta que yo lea. <!-- feedback: Incorrecto. Es una razón personal, pero no es un argumento sólido sobre la lectura. -->
 - [x] B) Leer mejora nuestro vocabulario y nos ayuda a entender mejor el mundo. <!-- feedback: Correcto. Es una razón lógica y universal que apoya la idea de que leer es beneficioso. -->
 - [ ] C) Los libros tienen muchas páginas y colores. <!-- feedback: Incorrecto. Es una característica física de los libros, no un argumento sobre su beneficio. -->
@@ -134,13 +139,13 @@ Distinguir entre gustos personales y argumentos lógicos es un avance importante
 **ID:** `CO-LEN-4-2026-W06-ensayo-escolar-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Diferencia entre un ensayo y una noticia
+**Contexto:** Diferencia entre un ensayo y una noticia
 **Expected_Success:** 0.62
 
 ### Enunciado
 ¿Cuál es la principal diferencia entre un ensayo escolar y una noticia de un periódico como *El Tiempo*?
 
-### Options
+### Opciones
 - [ ] A) Que el ensayo es más corto. <!-- feedback: Incorrecto. No siempre es así, depende del tema. -->
 - [ ] B) Que la noticia es aburrida y el ensayo no. <!-- feedback: Incorrecto. Es una opinión subjetiva. -->
 - [x] C) Que en el ensayo el autor da su opinión, mientras que en la noticia se deben contar los hechos tal como pasaron. <!-- feedback: Correcto. El ensayo es subjetivo (opinión) y la noticia busca ser objetiva (hechos). -->
@@ -156,13 +161,13 @@ Comparar tipos de texto ayuda al estudiante a entender la intencionalidad comuni
 **ID:** `CO-LEN-4-2026-W06-ensayo-escolar-001-MASTERY-v7`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** La conclusión de un ensayo sobre la protección de los animales silvestres
+**Contexto:** La conclusión de un ensayo sobre la protección de los animales silvestres
 **Expected_Success:** 0.58
 
 ### Enunciado
 Lee esta conclusión: "**En conclusión**, todos somos responsables de cuidar la fauna de nuestro país". ¿Por qué es importante usar frases como "en conclusión" o "para terminar" al final de un ensayo?
 
-### Options
+### Opciones
 - [ ] A) Para que el profesor sepa que ya terminamos de escribir. <!-- feedback: Incorrecto. El profesor lo sabría por el punto final, no es la razón principal. -->
 - [ ] B) Para que el ensayo se vea más largo. <!-- feedback: Incorrecto. No se trata de cantidad sino de claridad. -->
 - [x] C) Para avisarle al lector que el texto está llegando a su fin y resumir la idea principal. <!-- feedback: Correcto. Los conectores de conclusión ayudan a cerrar el ciclo del pensamiento presentado. -->
@@ -178,13 +183,13 @@ El cierre textual es vital. El estudiante debe reconocer que la conclusión reaf
 **ID:** `CO-LEN-4-2026-W06-ensayo-escolar-001-MASTERY-v8`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** Revisión de un ensayo sobre el uso del uniforme escolar
+**Contexto:** Revisión de un ensayo sobre el uso del uniforme escolar
 **Expected_Success:** 0.55
 
 ### Enunciado
 Si después de escribir tu ensayo notas que repetiste muchas veces la palabra **"escuela"**, ¿qué estrategia podrías usar para mejorar tu texto?
 
-### Options
+### Opciones
 - [ ] A) Borrar todas las veces que dice escuela. <!-- feedback: Incorrecto. El texto perdería el sentido. -->
 - [x] B) Usar sinónimos como "colegio", "institución educativa" o "centro de enseñanza". <!-- feedback: Correcto. La sustitución por sinónimos evita la monotonía y mejora el estilo del ensayo. -->
 - [ ] C) Escribir el ensayo de nuevo con un tema diferente. <!-- feedback: Incorrecto. No es necesario cambiar el tema, solo mejorar la redacción. -->

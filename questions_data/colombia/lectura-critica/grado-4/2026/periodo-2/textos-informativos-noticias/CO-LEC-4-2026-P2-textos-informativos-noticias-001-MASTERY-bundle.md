@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-4-2026-P2-textos-informativos-noticias-001-MASTERY"
+id: "CO-LEC-4-2026-P2-textos-informativos-noticias-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "noticias, textos informativos, preguntas básicas (qué, quién, cuándo, dónde, por qué), estructura noticiosa"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4: La Noticia del Parque del Agua
 
@@ -36,13 +43,14 @@ rubric_baseline: "noticias, textos informativos, preguntas básicas (qué, quié
 
 **ID:** `CO-LC-4-2026-P2-textos-informativos-noticias-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Datos básicos de la noticia.
+**Contexto:** Datos básicos de la noticia.
 
 ### Enunciado
 ¿Qué se inauguró en la Institución Educativa La Esperanza?
 
-### Options
+### Opciones
 - [ ] A) Una biblioteca nueva. <!-- feedback: Incorrecto. La noticia no habla de una biblioteca, sino de un espacio diferente. -->
 - [ ] B) Un laboratorio de ciencias. <!-- feedback: Incorrecto. Aunque tiene un componente científico, no es un laboratorio sino un espacio interactivo al aire libre. -->
 - [x] C) Un parque temático del agua. <!-- feedback: Correcto. La noticia se titula "Niños construyen parque temático del agua" y lo describe como un espacio interactivo. -->
@@ -57,13 +65,14 @@ Se evalúa la identificación del hecho principal de la noticia, que corresponde
 
 **ID:** `CO-LC-4-2026-P2-textos-informativos-noticias-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Fecha y lugar.
+**Contexto:** Fecha y lugar.
 
 ### Enunciado
 ¿En qué ciudad ocurrió la noticia?
 
-### Options
+### Opciones
 - [ ] A) Bogotá. <!-- feedback: Incorrecto. La noticia no ocurre en Bogotá, sino en una ciudad de Santander. -->
 - [x] B) Bucaramanga. <!-- feedback: Correcto. La noticia está fechada en Bucaramanga, que es la capital del departamento de Santander. -->
 - [ ] C) Medellín. <!-- feedback: Incorrecto. Medellín es la capital de Antioquia, no el lugar de esta noticia. -->
@@ -78,13 +87,14 @@ Se evalúa la localización del lugar de la noticia, que aparece al inicio del t
 
 **ID:** `CO-LC-4-2026-P2-textos-informativos-noticias-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Materiales y construcción.
+**Contexto:** Materiales y construcción.
 
 ### Enunciado
 ¿Con qué materiales se construyó la cascada artificial del parque?
 
-### Options
+### Opciones
 - [ ] A) Con ladrillos y cemento. <!-- feedback: Incorrecto. El texto menciona materiales reciclados específicos, no materiales de construcción tradicionales. -->
 - [x] B) Con botellas plásticas. <!-- feedback: Correcto. La noticia dice que la cascada artificial fue "hecha con botellas plásticas". -->
 - [ ] C) Con tubos de metal. <!-- feedback: Incorrecto. No se mencionan tubos de metal en la construcción del parque. -->
@@ -99,13 +109,14 @@ Se evalúa la capacidad de encontrar un detalle específico dentro del texto inf
 
 **ID:** `CO-LC-4-2026-P2-textos-informativos-noticias-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Propósito del proyecto.
+**Contexto:** Propósito del proyecto.
 
 ### Enunciado
 ¿Cuál era el objetivo principal del proyecto "Parque del Agua"?
 
-### Options
+### Opciones
 - [ ] A) Tener un lugar para jugar fútbol. <!-- feedback: Incorrecto. El parque no es un espacio deportivo, sino educativo sobre el agua. -->
 - [ ] B) Recolectar botellas plásticas para venderlas. <!-- feedback: Incorrecto. Las botellas se usaron para construir, no para vender. -->
 - [x] C) Enseñar sobre el cuidado del agua y su ciclo. <!-- feedback: Correcto. La profesora dice que investigaron sobre el cuidado del agua y el mural explica el ciclo del agua. -->
@@ -120,13 +131,14 @@ Se evalúa la comprensión del propósito del proyecto descrito en la noticia. L
 
 **ID:** `CO-LC-4-2026-P2-textos-informativos-noticias-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Participación de los estudiantes.
+**Contexto:** Participación de los estudiantes.
 
 ### Enunciado
 ¿Quiénes construyeron el Parque del Agua?
 
-### Options
+### Opciones
 - [ ] A) Solo los profesores del colegio. <!-- feedback: Incorrecto. Los profesores acompañaron, pero no construyeron solos. -->
 - [ ] B) Una empresa constructora de Bucaramanga. <!-- feedback: Incorrecto. No se menciona ninguna empresa externa. -->
 - [x] C) Los estudiantes de cuarto grado con sus profesores y padres. <!-- feedback: Correcto. La noticia dice: "Los estudiantes de cuarto grado, en compañía de sus profesores y padres de familia". -->
@@ -141,13 +153,14 @@ Se evalúa la identificación de los protagonistas de la noticia. La respuesta e
 
 **ID:** `CO-LC-4-2026-P2-textos-informativos-noticias-001-MASTERY-v6`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** El mensaje de la noticia.
+**Contexto:** El mensaje de la noticia.
 
 ### Enunciado
 Según la noticia, ¿por qué es importante el Parque del Agua para la comunidad?
 
-### Options
+### Opciones
 - [ ] A) Porque es el parque más grande de Bucaramanga. <!-- feedback: Incorrecto. No se compara su tamaño con otros parques. -->
 - [ ] B) Porque genera mucha electricidad. <!-- feedback: Incorrecto. La fuente funciona con energía solar, pero no es una planta de energía. -->
 - [x] C) Porque enseña a cuidar el agua y estará abierto a la comunidad gratuitamente. <!-- feedback: Correcto. La noticia destaca el valor educativo y que estará abierto al público los sábados. -->
@@ -162,13 +175,14 @@ Se evalúa la capacidad de inferir el valor social del proyecto. La respuesta co
 
 **ID:** `CO-LC-4-2026-P2-textos-informativos-noticias-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Datos curiosos.
+**Contexto:** Datos curiosos.
 
 ### Enunciado
 ¿Qué dato aprendió Sofía sobre el agua?
 
-### Options
+### Opciones
 - [ ] A) Que el agua de mar es salada. <!-- feedback: Incorrecto. Eso es un dato conocido, pero no es lo que aprendió Sofía. -->
 - [ ] B) Que las botellas se derriten con el agua caliente. <!-- feedback: Incorrecto. No se menciona nada sobre botellas derritiéndose. -->
 - [x] C) Que el agua de un baño de 10 minutos podría llenar 100 botellas. <!-- feedback: Correcto. Sofía dice exactamente esa frase: "El agua que gastamos en un baño de 10 minutos podría llenar 100 botellas". -->
@@ -183,13 +197,14 @@ Se evalúa la localización de una cita textual de un personaje mencionado en la
 
 **ID:** `CO-LC-4-2026-P2-textos-informativos-noticias-001-MASTERY-v8`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Estructura de la noticia.
+**Contexto:** Estructura de la noticia.
 
 ### Enunciado
 ¿Cuánto tiempo duró la investigación de los niños para este proyecto?
 
-### Options
+### Opciones
 - [ ] A) Una semana. <!-- feedback: Incorrecto. El tiempo fue mucho mayor que una semana. -->
 - [ ] B) Un mes. <!-- feedback: Incorrecto. Aunque el parque abre en abril, la investigación duró más. -->
 - [x] C) Tres meses. <!-- feedback: Correcto. La profesora Marcela dice: "Los niños investigaron durante tres meses sobre el cuidado del agua en Santander". -->
@@ -204,13 +219,14 @@ Se evalúa la identificación de un dato de tiempo explícito en el texto. La in
 
 **ID:** `CO-LC-4-2026-P2-textos-informativos-noticias-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Relaciones de causa y efecto.
+**Contexto:** Relaciones de causa y efecto.
 
 ### Enunciado
 ¿Por qué los niños de cuarto grado construyeron el parque con materiales reciclados?
 
-### Options
+### Opciones
 - [ ] A) Porque no tenían dinero para comprar materiales nuevos. <!-- feedback: Incorrecto. El texto no dice que fuera por falta de dinero. -->
 - [x] B) Para enseñar que se puede reutilizar y cuidar el medio ambiente. <!-- feedback: Correcto. Usar materiales reciclados está alineado con el tema del cuidado del agua y el medio ambiente. -->
 - [ ] C) Porque los materiales reciclados son más resistentes. <!-- feedback: Incorrecto. No se menciona la resistencia como razón. -->
@@ -225,13 +241,14 @@ Se evalúa la inferencia de la intención detrás de las decisiones del proyecto
 
 **ID:** `CO-LC-4-2026-P2-textos-informativos-noticias-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Impacto en la comunidad.
+**Contexto:** Impacto en la comunidad.
 
 ### Enunciado
 ¿Qué tipo de texto es "La Voz de los Niños" donde apareció esta noticia?
 
-### Options
+### Opciones
 - [ ] A) Un programa de televisión. <!-- feedback: Incorrecto. "La Voz de los Niños" es el nombre del medio donde se publicó la noticia, no un programa de TV. -->
 - [ ] B) Una emisora de radio escolar. <!-- feedback: Incorrecto. No se menciona que sea una emisora de radio. -->
 - [x] C) Un periódico escolar. <!-- feedback: Correcto. El texto dice "En el periódico escolar La Voz de los Niños apareció la siguiente noticia". -->

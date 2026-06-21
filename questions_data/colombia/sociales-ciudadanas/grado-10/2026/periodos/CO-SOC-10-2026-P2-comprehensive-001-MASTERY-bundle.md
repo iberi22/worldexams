@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-10-2026-P2-comprehensive-001-MASTERY"
+id: "CO-SOC-10-2026-P2-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 10
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "democracia_representativa, democracia_participativa, derechos_
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 20
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Sociales Ciudadanas Grado 10 - Periodo 2
 
@@ -34,12 +39,12 @@ Cubre democracia moderna, derechos humanos y Constitución colombiana.
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 
-**Context:** En clase de ciencias sociales en el Colegio INEM de Bucaramanga, la profesora explica los modelos de democracia.
+**Contexto:** En clase de ciencias sociales en el Colegio INEM de Bucaramanga, la profesora explica los modelos de democracia.
 
 ### Enunciado
 ¿Cuál es la diferencia fundamental entre democracia directa y democracia representativa?
 
-### Options
+### Opciones
 - [ ] A) En la democracia directa solo votan los hombres, en la representativa votan todos. <!-- feedback: Incorrecto. El género no define la diferencia entre estos modelos. -->
 - [ ] B) No hay diferencia, son lo mismo. <!-- feedback: Incorrecto. Son modelos distintos de participación ciudadana. -->
 - [x] C) En la democracia directa los ciudadanos deciden sin intermediarios; en la representativa eligen representantes que toman decisiones. <!-- feedback: Correcto. La democracia directa implica decisión ciudadana sin mediación, mientras que la representativa delega la decisión en representantes electos. -->
@@ -56,12 +61,12 @@ La democracia directa (como en la antigua Atenas o los cabildos abiertos) implic
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 
-**Context:** En clase de Constitución Política, se estudian los mecanismos de participación ciudadana en Colombia.
+**Contexto:** En clase de Constitución Política, se estudian los mecanismos de participación ciudadana en Colombia.
 
 ### Enunciado
 ¿Cuál de los siguientes es un mecanismo de participación ciudadana establecido en la Constitución de 1991?
 
-### Options
+### Opciones
 - [ ] A) La revocatoria del mandato. <!-- feedback: Correcto. La revocatoria del mandato es un mecanismo de participación ciudadana que permite a los ciudadanos destituir a un funcionario electo antes de que termine su período. -->
 - [ ] B) La huelga general. <!-- feedback: Incorrecto. La huelga es un derecho laboral, no un mecanismo de participación constitucional específico. -->
 - [ ] C) El golpe de Estado. <!-- feedback: Incorrecto. El golpe de Estado es ilegal y va contra la democracia. -->
@@ -78,12 +83,12 @@ La Constitución de 1991 estableció mecanismos de participación ciudadana: vot
 **Bloom:** Understand
 **ICFES:** Interpretación y análisis de perspectivas
 
-**Context:** Texto: "La Declaración Universal de los Derechos Humanos (1948) establece que 'todos los seres humanos nacen libres e iguales en dignidad y derechos'. Sin embargo, en Colombia persisten desigualdades significativas en el acceso a derechos como la salud, la educación y la vivienda."
+**Contexto:** Texto: "La Declaración Universal de los Derechos Humanos (1948) establece que 'todos los seres humanos nacen libres e iguales en dignidad y derechos'. Sin embargo, en Colombia persisten desigualdades significativas en el acceso a derechos como la salud, la educación y la vivienda."
 
 ### Enunciado
 Según el texto, ¿cuál es la contradicción que se presenta en Colombia respecto a los derechos humanos?
 
-### Options
+### Opciones
 - [ ] A) Los derechos humanos no son importantes en Colombia. <!-- feedback: Incorrecto. El texto no afirma eso. -->
 - [ ] B) La Declaración no aplica en Colombia. <!-- feedback: Incorrecto. Colombia es firmante de la Declaración. -->
 - [x] C) Existe una brecha entre los derechos declarados y su realización efectiva para gran parte de la población. <!-- feedback: Correcto. El texto contrasta el principio de igualdad de la DUDH con la realidad de desigualdad en Colombia. -->
@@ -100,12 +105,12 @@ Los derechos humanos tienen una dimensión formal (declarados en documentos) y u
 **Bloom:** Apply
 **ICFES:** Pensamiento social
 
-**Context:** En un colegio de Cartagena, los estudiantes de grado 10 organizan un cabildo abierto para discutir el problema de la falta de espacios deportivos en la institución.
+**Contexto:** En un colegio de Cartagena, los estudiantes de grado 10 organizan un cabildo abierto para discutir el problema de la falta de espacios deportivos en la institución.
 
 ### Enunciado
 ¿Por qué el cabildo abierto es el mecanismo adecuado para esta situación?
 
-### Options
+### Opciones
 - [ ] A) Porque es el único mecanismo de participación que existe. <!-- feedback: Incorrecto. Existen varios mecanismos. -->
 - [x] B) Porque permite que estudiantes, profesores y directivos discutan abiertamente el problema y propongan soluciones en un espacio público. <!-- feedback: Correcto. El cabildo abierto es una reunión pública donde la comunidad discute temas de interés común y propone soluciones. -->
 - [ ] C) Porque con el cabildo se destituye al rector. <!-- feedback: Incorrecto. La revocatoria del mandato es para destituir funcionarios, no el cabildo abierto. -->
@@ -122,12 +127,12 @@ El cabildo abierto (Artículo 318 CP) es una reunión pública de concejos munic
 **Bloom:** Apply
 **ICFES:** Pensamiento social
 
-**Context:** Texto: "La Constitución de 1991 creó la Corte Constitucional como guardiana de la integridad de la Carta Magna. Esta corte puede revisar leyes del Congreso y decretos del Ejecutivo para determinar si son constitucionales."
+**Contexto:** Texto: "La Constitución de 1991 creó la Corte Constitucional como guardiana de la integridad de la Carta Magna. Esta corte puede revisar leyes del Congreso y decretos del Ejecutivo para determinar si son constitucionales."
 
 ### Enunciado
 Un proyecto de ley que limita el derecho a la protesta pacífica es aprobado por el Congreso. Según el texto, ¿qué institución podría revisar esta ley?
 
-### Options
+### Opciones
 - [ ] A) El presidente de la República. <!-- feedback: Incorrecto. El presidente puede objetar leyes, pero la revisión constitucional corresponde a la Corte Constitucional. -->
 - [ ] B) La Policía Nacional. <!-- feedback: Incorrecto. La Policía ejecuta las leyes, no las revisa. -->
 - [x] C) La Corte Constitucional. <!-- feedback: Correcto. Según el texto, la Corte Constitucional revisa leyes para determinar si son constitucionales. -->
@@ -144,12 +149,12 @@ La Constitución establece un sistema de pesos y contrapesos. La Corte Constituc
 **Bloom:** Apply
 **ICFES:** Interpretación y análisis de perspectivas
 
-**Context:** Texto: "La teoría de las tres generaciones de derechos humanos clasifica: primera generación (derechos civiles y políticos: vida, libertad, voto), segunda generación (derechos económicos, sociales y culturales: salud, educación, trabajo), y tercera generación (derechos de solidaridad: paz, medio ambiente, desarrollo)."
+**Contexto:** Texto: "La teoría de las tres generaciones de derechos humanos clasifica: primera generación (derechos civiles y políticos: vida, libertad, voto), segunda generación (derechos económicos, sociales y culturales: salud, educación, trabajo), y tercera generación (derechos de solidaridad: paz, medio ambiente, desarrollo)."
 
 ### Enunciado
 Si un ciudadano en Bogotá exige al Estado que garantice el derecho a un medio ambiente sano, ¿a qué generación de derechos humanos está apelando?
 
-### Options
+### Opciones
 - [ ] A) Primera generación. <!-- feedback: Incorrecto. La primera generación son derechos civiles y políticos. -->
 - [ ] B) Segunda generación. <!-- feedback: Incorrecto. La segunda generación son derechos económicos, sociales y culturales. -->
 - [x] C) Tercera generación. <!-- feedback: Correcto. El medio ambiente sano es un derecho de solidaridad o tercera generación. -->
@@ -166,12 +171,12 @@ Los derechos humanos se han clasificado en generaciones según su orden de recon
 **Bloom:** Analyze
 **ICFES:** Interpretación y análisis de perspectivas
 
-**Context:** Texto: "Robert Dahl, politólogo estadounidense, propuso que la democracia ideal requiere: (1) participación efectiva, (2) igualdad de voto, (3) comprensión informada, (4) control de la agenda y (5) inclusión de todos los adultos. Dahl reconocía que ninguna democracia real cumple perfectamente estos criterios."
+**Contexto:** Texto: "Robert Dahl, politólogo estadounidense, propuso que la democracia ideal requiere: (1) participación efectiva, (2) igualdad de voto, (3) comprensión informada, (4) control de la agenda y (5) inclusión de todos los adultos. Dahl reconocía que ninguna democracia real cumple perfectamente estos criterios."
 
 ### Enunciado
 Según Dahl, ¿por qué ninguna democracia real cumple perfectamente los criterios ideales?
 
-### Options
+### Opciones
 - [ ] A) Porque los políticos son corruptos. <!-- feedback: Incorrecto. Dahl no reduce el problema a la corrupción. -->
 - [ ] B) Porque la democracia no es un sistema político válido. <!-- feedback: Incorrecto. Dahl defiende la democracia como sistema. -->
 - [x] C) Porque los criterios son un ideal normativo, y las condiciones reales (desigualdad, desinformación, acceso desigual) limitan su cumplimiento. <!-- feedback: Correcto. Dahl concibió su modelo como un ideal contra el cual medir las democracias reales, sabiendo que ninguna las cumple plenamente. -->
@@ -188,12 +193,12 @@ Dahl distingue entre democracia ideal (poliarquía como horizonte normativo) y d
 **Bloom:** Analyze
 **ICFES:** Pensamiento social
 
-**Context:** Un estudiante en Manizales investiga sobre la tutela en Colombia. Encuentra que en 2023 se interpusieron más de 700,000 tutelas, la mayoría relacionadas con salud (42%) y derecho de petición (28%).
+**Contexto:** Un estudiante en Manizales investiga sobre la tutela en Colombia. Encuentra que en 2023 se interpusieron más de 700,000 tutelas, la mayoría relacionadas con salud (42%) y derecho de petición (28%).
 
 ### Enunciado
 ¿Qué revela la alta cantidad de tutelas en salud sobre el sistema de salud colombiano?
 
-### Options
+### Opciones
 - [ ] A) Que la tutela es un mecanismo que se usa incorrectamente. <!-- feedback: Incorrecto. La alta cantidad sugiere problemas estructurales, no mal uso necesariamente. -->
 - [ ] B) Que el sistema de salud funciona perfectamente. <!-- feedback: Incorrecto. Si funcionara perfectamente, no se necesitarían tantas tutelas. -->
 - [x] C) Que existe una brecha entre los derechos establecidos en la ley y su cumplimiento efectivo por parte de las EPS. <!-- feedback: Correcto. Las tutelas en salud evidencian que las EPS niegan servicios que legalmente deberían cubrir, obligando a los ciudadanos a recurrir a la justicia. -->
@@ -210,12 +215,12 @@ La tutela es un mecanismo constitucional para proteger derechos fundamentales. Q
 **Bloom:** Analyze
 **ICFES:** Interpretación y análisis de perspectivas
 
-**Context:** Texto: "La Constitución de 1991 reconoció a Colombia como un Estado pluriétnico y multicultural. Esto significó un cambio radical respecto a la Constitución de 1886, que promovía la homogeneidad cultural. El reconocimiento de territorios indígenas y negritudes fue uno de los avances más significativos."
+**Contexto:** Texto: "La Constitución de 1991 reconoció a Colombia como un Estado pluriétnico y multicultural. Esto significó un cambio radical respecto a la Constitución de 1886, que promovía la homogeneidad cultural. El reconocimiento de territorios indígenas y negritudes fue uno de los avances más significativos."
 
 ### Enunciado
 ¿Cuál fue la principal transformación que introdujo la Constitución de 1991 respecto a la diversidad cultural?
 
-### Options
+### Opciones
 - [ ] A) Eliminó todas las comunidades indígenas. <!-- feedback: Incorrecto. Fue lo opuesto: las reconoció y protegió. -->
 - [ ] B) Mantuvo el mismo modelo de homogeneidad cultural de 1886. <!-- feedback: Incorrecto. El texto dice que fue un cambio radical. -->
 - [x] C) Pasó de un modelo de homogeneidad cultural a uno que reconoce y protege la diversidad étnica y cultural. <!-- feedback: Correcto. La Constitución de 1991 reconoció la diversidad étnica y cultural de la nación, otorgando derechos territoriales y políticos a comunidades indígenas y afrocolombianas. -->
@@ -232,12 +237,12 @@ El cambio de 1886 a 1991 refleja una transformación en la concepción de nació
 **Bloom:** Apply
 **ICFES:** Pensamiento social
 
-**Context:** Un concejal en Pereira propone un proyecto de acuerdo municipal para aumentar el presupuesto de educación. Un ciudadano se opone argumentando que "eso le corresponde al gobierno nacional, no al municipio".
+**Contexto:** Un concejal en Pereira propone un proyecto de acuerdo municipal para aumentar el presupuesto de educación. Un ciudadano se opone argumentando que "eso le corresponde al gobierno nacional, no al municipio".
 
 ### Enunciado
 Según la estructura del Estado colombiano, ¿quién es responsable de la educación?
 
-### Options
+### Opciones
 - [ ] A) Solo el gobierno nacional. <!-- feedback: Incorrecto. La educación es responsabilidad concurrente. -->
 - [ ] B) Solo el municipio. <!-- feedback: Incorrecto. El municipio tiene responsabilidades pero no es el único. -->
 - [x] C) Es una responsabilidad compartida entre la nación, el departamento y el municipio, según el principio de descentralización. <!-- feedback: Correcto. Colombia es un Estado descentralizado: la nación define políticas, los departamentos coordinan y los municipios ejecutan. La educación es competencia de los tres niveles. -->
@@ -254,12 +259,12 @@ Colombia es un Estado unitario descentralizado: las responsabilidades se distrib
 **Bloom:** Analyze
 **ICFES:** Interpretación y análisis de perspectivas
 
-**Context:** Texto: "La Declaración Universal de Derechos Humanos de 1948 surgió después de la Segunda Guerra Mundial como respuesta a las atrocidades del nazismo. Por primera vez, la comunidad internacional acordó un conjunto de derechos que todos los Estados deben respetar, independientemente de su sistema político."
+**Contexto:** Texto: "La Declaración Universal de Derechos Humanos de 1948 surgió después de la Segunda Guerra Mundial como respuesta a las atrocidades del nazismo. Por primera vez, la comunidad internacional acordó un conjunto de derechos que todos los Estados deben respetar, independientemente de su sistema político."
 
 ### Enunciado
 ¿Por qué fue necesario crear una declaración universal de derechos humanos después de la Segunda Guerra Mundial?
 
-### Options
+### Opciones
 - [ ] A) Porque antes de 1948 no existían derechos en ningún país. <!-- feedback: Incorrecto. Muchos países tenían declaraciones de derechos antes de 1948. -->
 - [ ] B) Porque Alemania perdió la guerra. <!-- feedback: Incorrecto. La declaración no fue un castigo a Alemania. -->
 - [x] C) Porque el Holocausto demostró que la soberanía nacional no es suficiente para proteger a las personas, y se necesitaba un estándar internacional. <!-- feedback: Correcto. Las atrocidades nazis mostraron que cuando un Estado viola derechos de sus ciudadanos, la comunidad internacional debe tener herramientas para intervenir o al menos condenar. -->
@@ -276,12 +281,12 @@ La DUDH marcó un hito: los derechos humanos dejaron de ser un asunto exclusivam
 **Bloom:** Analyze
 **ICFES:** Pensamiento social
 
-**Context:** Texto: "La Corte Interamericana de Derechos Humanos ha emitido varias sentencias contra Colombia por violaciones a derechos humanos. La sentencia más conocida es el caso de la masacre de Mapiripán (2005), donde el Estado fue hallado responsable por acción y omisión."
+**Contexto:** Texto: "La Corte Interamericana de Derechos Humanos ha emitido varias sentencias contra Colombia por violaciones a derechos humanos. La sentencia más conocida es el caso de la masacre de Mapiripán (2005), donde el Estado fue hallado responsable por acción y omisión."
 
 ### Enunciado
 ¿Qué implicación tiene que una corte internacional condene a Colombia por violaciones de derechos humanos?
 
-### Options
+### Opciones
 - [ ] A) Colombia debe retirarse de la OEA. <!-- feedback: Incorrecto. Las sentencias buscan reparación, no salida del sistema. -->
 - [ ] B) La sentencia no tiene ningún efecto porque Colombia es soberana. <!-- feedback: Incorrecto. Colombia reconoce la competencia de la Corte IDH y está obligada a cumplir sus sentencias. -->
 - [x] C) Colombia debe reparar a las víctimas, investigar los hechos y garantizar que no se repitan, además de adecuar su legislación a los estándares internacionales. <!-- feedback: Correcto. Las sentencias de la Corte IDH son vinculantes y ordenan medidas de reparación, no repetición y adecuación normativa. -->
@@ -298,12 +303,12 @@ Colombia está sometida a la jurisdicción de la Corte Interamericana de Derecho
 **Bloom:** Analyze
 **ICFES:** Interpretación y análisis de perspectivas
 
-**Context:** Texto: "El Estado colombiano está compuesto por tres ramas del poder público: Rama Ejecutiva (Presidente, ministros, gobernadores, alcaldes), Rama Legislativa (Congreso, Asambleas, Concejos) y Rama Judicial (Cortes, tribunales, jueces)."
+**Contexto:** Texto: "El Estado colombiano está compuesto por tres ramas del poder público: Rama Ejecutiva (Presidente, ministros, gobernadores, alcaldes), Rama Legislativa (Congreso, Asambleas, Concejos) y Rama Judicial (Cortes, tribunales, jueces)."
 
 ### Enunciado
 Un alcalde municipal expide un decreto que contradice una ley aprobada por el Congreso. ¿Qué principio constitucional se está vulnerando?
 
-### Options
+### Opciones
 - [ ] A) El principio de soberanía nacional. <!-- feedback: Incorrecto. La soberanía nacional no permite que un alcalde incumpla leyes. -->
 - [ ] B) El principio de separación de poderes, específicamente la jerarquía normativa (la ley del Congreso está por encima del decreto del alcalde). <!-- feedback: Correcto. Las normas tienen jerarquía: la Constitución está en la cima, luego las leyes del Congreso, luego los decretos del Ejecutivo. Un alcalde no puede contradecir una ley. -->
 - [ ] C) El principio de descentralización. <!-- feedback: Incorrecto. La descentralización permite autonomía, pero dentro del marco legal. -->
@@ -320,12 +325,12 @@ La pirámide normativa colombiana: (1) Constitución, (2) tratados internacional
 **Bloom:** Analyze
 **ICFES:** Pensamiento social
 
-**Context:** Texto: "El referendo es un mecanismo de participación ciudadana mediante el cual el pueblo convoca y vota para aprobar o rechazar un proyecto de ley o una reforma constitucional. En 2016, Colombia realizó un plebiscito (no referendo) para refrendar el Acuerdo de Paz con las FARC."
+**Contexto:** Texto: "El referendo es un mecanismo de participación ciudadana mediante el cual el pueblo convoca y vota para aprobar o rechazar un proyecto de ley o una reforma constitucional. En 2016, Colombia realizó un plebiscito (no referendo) para refrendar el Acuerdo de Paz con las FARC."
 
 ### Enunciado
 ¿Cuál es la diferencia clave entre un referendo y un plebiscito en Colombia?
 
-### Options
+### Opciones
 - [ ] A) No hay diferencia, son sinónimos. <!-- feedback: Incorrecto. Son mecanismos distintos. -->
 - [x] B) El referendo es sobre un proyecto de norma específico que se aprueba o rechaza; el plebiscito es una consulta sobre una decisión política del gobierno, sin texto normativo. <!-- feedback: Correcto. El referendo somete a votación popular un texto normativo concreto; el plebiscito consulta una decisión política del ejecutivo. -->
 - [ ] C) El referendo lo convoca el presidente, el plebiscito el Congreso. <!-- feedback: Incorrecto. Ambos pueden ser convocados por diversas autoridades. -->
@@ -342,12 +347,12 @@ Diferenciar mecanismos de participación es clave para la educación ciudadana. 
 **Bloom:** Evaluate
 **ICFES:** Pensamiento crítico y reflexivo
 
-**Context:** Texto: "En 2024, el gobierno colombiano anunció la creación de un Ministerio de la Igualdad para abordar las brechas de género, raza y territorio. Críticos señalan que la creación de ministerios no garantiza resultados si no hay presupuesto y voluntad política. Defensores argumentan que es un avance institucional necesario."
+**Contexto:** Texto: "En 2024, el gobierno colombiano anunció la creación de un Ministerio de la Igualdad para abordar las brechas de género, raza y territorio. Críticos señalan que la creación de ministerios no garantiza resultados si no hay presupuesto y voluntad política. Defensores argumentan que es un avance institucional necesario."
 
 ### Enunciado
 ¿Cuál es el debate de fondo que plantea el texto?
 
-### Options
+### Opciones
 - [ ] A) Si el nuevo ministerio debe llamarse de otra forma. <!-- feedback: Incorrecto. El debate no es sobre el nombre. -->
 - [ ] B) Si la igualdad es un objetivo deseable. <!-- feedback: Incorrecto. Hay consenso en que la igualdad es deseable. -->
 - [x] C) La tensión entre la creación de instituciones formales y la capacidad real de transformar las condiciones materiales de desigualdad. <!-- feedback: Correcto. El debate es si una institución formal (ministerio) puede por sí misma generar cambios estructurales o si requiere condiciones adicionales. -->
@@ -364,12 +369,12 @@ Evaluar críticamente implica analizar la tensión entre forma y sustancia. Crea
 **Bloom:** Evaluate
 **ICFES:** Interpretación y análisis de perspectivas
 
-**Context:** Texto: "El artículo 49 de la Constitución colombiana establece que la atención en salud es un servicio público a cargo del Estado, que debe garantizar el acceso a todos los habitantes. Sin embargo, Colombia tiene un sistema mixto donde coexisten EPS públicas y privadas, y más del 50% de la afiliación está en EPS privadas."
+**Contexto:** Texto: "El artículo 49 de la Constitución colombiana establece que la atención en salud es un servicio público a cargo del Estado, que debe garantizar el acceso a todos los habitantes. Sin embargo, Colombia tiene un sistema mixto donde coexisten EPS públicas y privadas, y más del 50% de la afiliación está en EPS privadas."
 
 ### Enunciado
 ¿Qué tensión se evidencia entre el texto constitucional y la estructura real del sistema de salud?
 
-### Options
+### Opciones
 - [ ] A) La Constitución prohíbe la salud privada, pero existe. <!-- feedback: Incorrecto. La Constitución no prohíbe la participación privada. -->
 - [ ] B) El sistema funciona exactamente como la Constitución lo describe. <!-- feedback: Incorrecto. Hay una brecha entre la norma y la realidad. -->
 - [x] C) La Constitución pone la salud a cargo del Estado, pero el sistema real delega gran parte de la prestación en entidades privadas con ánimo de lucro, lo que genera tensiones entre derecho social y mercado. <!-- feedback: Correcto. La Constitución concibe la salud como un derecho a cargo del Estado, pero el modelo real introduce lógicas de mercado a través de EPS privadas. -->
@@ -386,12 +391,12 @@ Evaluar la relación entre derecho formal y realidad material es central. La Con
 **Bloom:** Create
 **ICFES:** Pensamiento crítico y reflexivo
 
-**Context:** Un colegio en Quibdó quiere diseñar una propuesta de participación ciudadana para mejorar las condiciones del barrio. Los estudiantes deben presentar una iniciativa ante el Concejo Municipal.
+**Contexto:** Un colegio en Quibdó quiere diseñar una propuesta de participación ciudadana para mejorar las condiciones del barrio. Los estudiantes deben presentar una iniciativa ante el Concejo Municipal.
 
 ### Enunciado
 ¿Cuál sería la estrategia más efectiva para que los estudiantes incidan en las decisiones del Concejo Municipal?
 
-### Options
+### Opciones
 - [ ] A) Publicar una carta en el periódico local. <!-- feedback: Incorrecto. La carta es opinión, no tiene poder vinculante. -->
 - [ ] B) Hacer una protesta frente al Concejo sin propuesta concreta. <!-- feedback: Incorrecto. La protesta sin propuesta tiene menos impacto que una iniciativa estructurada. -->
 - [x] C) Usar el cabildo abierto para presentar la iniciativa ante el Concejo, respaldada con firmas de la comunidad y datos sobre el problema. <!-- feedback: Correcto. El cabildo abierto permite participación directa; respaldar la propuesta con firmas y datos aumenta su legitimidad y probabilidad de ser acogida. -->
@@ -408,12 +413,12 @@ La participación ciudadana efectiva combina: (1) uso de mecanismos formales (ca
 **Bloom:** Create
 **ICFES:** Pensamiento social
 
-**Context:** Un grupo de estudiantes en Bogotá propone un proyecto de acuerdo para que el Concejo Distrital destine el 5% del presupuesto anual a programas de salud mental juvenil. Deben presentar la propuesta formalmente.
+**Contexto:** Un grupo de estudiantes en Bogotá propone un proyecto de acuerdo para que el Concejo Distrital destine el 5% del presupuesto anual a programas de salud mental juvenil. Deben presentar la propuesta formalmente.
 
 ### Enunciado
 ¿Qué pasos debe seguir el grupo para que su propuesta sea considerada formalmente?
 
-### Options
+### Opciones
 - [ ] A) Solo necesita la aprobación del rector del colegio. <!-- feedback: Incorrecto. El rector no tiene competencia sobre el presupuesto distrital. -->
 - [ ] B) Publicar la idea en redes sociales y esperar. <!-- feedback: Incorrecto. Las redes sociales generan visibilidad pero no son un mecanismo formal. -->
 - [x] C) Recoger firmas de la comunidad educativa, presentar la iniciativa formalmente al Concejo a través de la figura de iniciativa legislativa popular, y hacer seguimiento en las sesiones del Concejo. <!-- feedback: Correcto. La iniciativa legislativa popular requiere mínimo 0.1% del censo electoral; si no se alcanza, se puede presentar como propuesta a un concejal que la patrocine. -->
@@ -430,12 +435,12 @@ La participación ciudadana tiene rutas formales. La iniciativa legislativa popu
 **Bloom:** Evaluate
 **ICFES:** Pensamiento crítico y reflexivo
 
-**Context:** Texto: "Colombia es el segundo país más desigual de América Latina según el coeficiente Gini. Mientras el 10% más rico gana 12 veces más que el 10% más pobre, la Constitución de 1991 consagra la igualdad como principio fundamental."
+**Contexto:** Texto: "Colombia es el segundo país más desigual de América Latina según el coeficiente Gini. Mientras el 10% más rico gana 12 veces más que el 10% más pobre, la Constitución de 1991 consagra la igualdad como principio fundamental."
 
 ### Enunciado
 Según el texto, ¿qué crítica se puede hacer a la relación entre la Constitución y la realidad colombiana en materia de igualdad?
 
-### Options
+### Opciones
 - [ ] A) La Constitución es la culpable de la desigualdad. <!-- feedback: Incorrecto. La Constitución consagra principios de igualdad, no los causa. -->
 - [ ] B) El coeficiente Gini demuestra que la Constitución no se necesita. <!-- feedback: Incorrecto. La Constitución establece el marco para luchar contra la desigualdad. -->
 - [x] C) Existe una contradicción entre los principios constitucionales de igualdad y la realidad de alta concentración de la riqueza, lo que revela que la norma jurídica no basta para transformar la estructura económica. <!-- feedback: Correcto. La crítica revela que los principios constitucionales no se traducen automáticamente en igualdad material; se requieren políticas públicas redistributivas. -->
@@ -452,7 +457,7 @@ La brecha entre derecho formal y realidad material es una crítica recurrente en
 **Bloom:** Evaluate
 **ICFES:** Pensamiento crítico y reflexivo
 
-**Context:** Un estudiante de grado 10 en Popayán debe escribir un ensayo sobre la efectividad de los mecanismos de participación ciudadana en Colombia. Tiene dos fuentes:
+**Contexto:** Un estudiante de grado 10 en Popayán debe escribir un ensayo sobre la efectividad de los mecanismos de participación ciudadana en Colombia. Tiene dos fuentes:
 
 Fuente A (artículo académico): "La revocatoria del mandato en Colombia ha sido solicitada 147 veces desde 1991, pero solo 8 han llegado a votación y ninguna ha logrado la revocación efectiva de un alcalde."
 
@@ -461,7 +466,7 @@ Fuente B (informe gubernamental): "Colombia tiene uno de los marcos constitucion
 ### Enunciado
 ¿Qué tesis integradora presentaría el estudiante en su ensayo?
 
-### Options
+### Opciones
 - [ ] A) Los mecanismos de participación son inútiles porque nunca funcionan. <!-- feedback: Incorrecto. Ignora que algunos mecanismos (tutela) sí han sido efectivos. -->
 - [ ] B) Colombia tiene los mejores mecanismos de participación de América Latina. <!-- feedback: Incorrecto. Ignora los problemas de implementación que muestra la Fuente A. -->
 - [x] C) Colombia tiene un marco constitucional sólido en participación ciudadana, pero la implementación efectiva enfrenta barreras significativas, lo que revela una brecha entre la norma y la práctica. <!-- feedback: Correcto. Una tesis integradora reconoce tanto el avance normativo como las dificultades de implementación, explicando la brecha entre derecho formal y realidad. -->

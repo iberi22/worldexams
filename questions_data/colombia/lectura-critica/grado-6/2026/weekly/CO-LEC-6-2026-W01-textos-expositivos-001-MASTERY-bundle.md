@@ -1,28 +1,32 @@
 ---
-id: "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY"
+id: "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "textos-expositivos"
-semana: "W01"
+week: "W01"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Expositivos - Grado 6
 ## Semana W01
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio Los Nogales de Bogotá, la profesora Andrea explica que los textos pueden clasificarse según su propósito.
+**Contexto:** En el Colegio Los Nogales de Bogotá, la profesora Andrea explica que los textos pueden clasificarse según su propósito.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Los textos expositivos son aquellos que tienen como objetivo informar o explicar
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En la Biblioteca Pública Piloto de Medellín, los estudiantes buscan ejemplos de textos expositivos.
+**Contexto:** En la Biblioteca Pública Piloto de Medellín, los estudiantes buscan ejemplos de textos expositivos.
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -60,11 +64,11 @@ Los textos expositivos son informativos y objetivos. Ejemplos comunes: artículo
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** Los estudiantes de grado sexto del Colegio La Salle de Barranquilla leen un texto expositivo sobre el Carnaval.
+**Contexto:** Los estudiantes de grado sexto del Colegio La Salle de Barranquilla leen un texto expositivo sobre el Carnaval.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ Los textos expositivos presentan información organizada sobre un tema. Para ide
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En la Institución Educativa San Miguel de Cúcuta, los estudiantes deben organizar información en un texto expositivo.
+**Contexto:** En la Institución Educativa San Miguel de Cúcuta, los estudiantes deben organizar información en un texto expositivo.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -102,11 +106,11 @@ La estructura del texto expositivo es: introducción (presentación del tema), d
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio San José de Sincelejo, los estudiantes analizan los recursos propios de los textos expositivos.
+**Contexto:** En el Colegio San José de Sincelejo, los estudiantes analizan los recursos propios de los textos expositivos.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -123,11 +127,11 @@ Los textos expositivos se apoyan en recursos como: definiciones (para aclarar co
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. INEM de Neiva, los estudiantes comparan un texto expositivo con uno narrativo sobre el mismo tema.
+**Contexto:** En la I.E. INEM de Neiva, los estudiantes comparan un texto expositivo con uno narrativo sobre el mismo tema.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ El texto expositivo se centra en informar con objetividad, usando datos, definic
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** Los estudiantes del Colegio Cambridge de Villavicencio analizan un texto expositivo sobre los Llanos Orientales.
+**Contexto:** Los estudiantes del Colegio Cambridge de Villavicencio analizan un texto expositivo sobre los Llanos Orientales.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Los textos expositivos pueden organizarse de varias formas: descriptiva (describ
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio la Salle de Montería, la profesora pregunta por qué los textos expositivos evitan las opiniones personales.
+**Contexto:** En el Colegio la Salle de Montería, la profesora pregunta por qué los textos expositivos evitan las opiniones personales.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ La objetividad es la característica central del texto expositivo. El autor debe
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio INEM de Pasto, un estudiante presenta un texto sobre el volcán Galeras.
+**Contexto:** En el Colegio INEM de Pasto, un estudiante presenta un texto sobre el volcán Galeras.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ Un texto expositivo puro debe mantenerse objetivo de principio a fin. Frases com
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En el Colegio Anglo Colombiano de Bogotá, los estudiantes deben crear un texto expositivo sobre la biodiversidad colombiana.
+**Contexto:** En el Colegio Anglo Colombiano de Bogotá, los estudiantes deben crear un texto expositivo sobre la biodiversidad colombiana.
 **Expected_Success:** 0.48
 
 ### Enunciado

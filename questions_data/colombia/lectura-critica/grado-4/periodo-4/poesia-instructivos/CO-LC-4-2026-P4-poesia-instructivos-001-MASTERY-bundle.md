@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-4-2026-P4-poesia-instructivos-001-MASTERY"
+id: "CO-LC-4-2026-P4-poesia-instructivos-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Dimensión textual, Dimensión crítica"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Parte 1: Poesía - El Río Magdalena
 
@@ -35,14 +42,15 @@ rubric_baseline: "Dimensión textual, Dimensión crítica"
 ## Question 1 [D3]
 
 **ID:** `CO-LC-4-2026-P4-poesia-instructivos-001-MASTERY-v1`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Dimensión textual]
-**Context:** Lectura del poema "El Río Magdalena".
+**Contexto:** Lectura del poema "El Río Magdalena".
 
 ### Enunciado
 En el poema, ¿con qué se compara al río en el segundo verso?
 
-### Options
+### Opciones
 - [ ] A) Con un camino de tierra. <!-- feedback: Incorrect. El poema dice "caminito de cristal", no de tierra. -->
 - [x] B) Con un camino de cristal. <!-- feedback: Correct. El segundo verso dice explícitamente "caminito de cristal", comparando la transparencia del agua con el cristal. -->
 - [ ] C) Con una serpiente de colores. <!-- feedback: Incorrect. Aunque es una metáfora común para los ríos, no es la que aparece en este poema específico. -->
@@ -56,14 +64,15 @@ Se evalúa la identificación de figuras literarias sencillas (metáfora/símil)
 ## Question 2 [D4]
 
 **ID:** `CO-LC-4-2026-P4-poesia-instructivos-001-MASTERY-v2`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Dimensión inferencial]
-**Context:** Significado de los versos.
+**Contexto:** Significado de los versos.
 
 ### Enunciado
 Cuando el poema dice que el río lleva "peces de plata y de sol", ¿a qué se refiere probablemente el autor?
 
-### Options
+### Opciones
 - [ ] A) A que los peces están hechos de metales preciosos. <!-- feedback: Incorrect. Es una interpretación literal de un lenguaje figurado; los peces son seres vivos, no metal. -->
 - [x] B) Al brillo de los peces bajo la luz solar en el agua. <!-- feedback: Correct. El color plata y sol representan el brillo metálico de las escamas y el reflejo del sol sobre los peces mientras nadan. -->
 - [ ] C) A que el río está contaminado con monedas de plata. <!-- feedback: Incorrect. El tono del poema es alegre y de celebración de la naturaleza, no de denuncia de contaminación. -->
@@ -87,14 +96,15 @@ Se evalúa la capacidad de interpretar el lenguaje figurado y los adjetivos poé
 ## Question 3 [D3]
 
 **ID:** `CO-LC-4-2026-P4-poesia-instructivos-001-MASTERY-v3`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Dimensión textual]
-**Context:** Siguiendo las instrucciones de siembra.
+**Contexto:** Siguiendo las instrucciones de siembra.
 
 ### Enunciado
 Según el instructivo, ¿qué es lo primero que debes hacer antes de empezar a cavar?
 
-### Options
+### Opciones
 - [ ] A) Regar el lugar con mucha agua. <!-- feedback: Incorrect. Regar es el paso final (número 5), no el inicial. -->
 - [x] B) Elegir un lugar adecuado con luz y espacio. <!-- feedback: Correct. El paso número 1 dice explícitamente: "Elige un lugar con buena luz y espacio". -->
 - [ ] C) Presionar la tierra con los pies. <!-- feedback: Incorrect. Esto se hace después de cubrir el hueco con tierra (paso 4). -->
@@ -108,14 +118,15 @@ Se evalúa la capacidad de seguir una secuencia de pasos en un texto instructivo
 ## Question 4 [D4]
 
 **ID:** `CO-LC-4-2026-P4-poesia-instructivos-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Dimensión textual]
-**Context:** Detalles del proceso técnico.
+**Contexto:** Detalles del proceso técnico.
 
 ### Enunciado
 ¿De qué tamaño debe ser el hueco que se debe abrir para sembrar el árbol?
 
-### Options
+### Opciones
 - [ ] A) Muy profundo, hasta que ya no se vea la pala. <!-- feedback: Incorrect. El texto da una medida relativa a la raíz, no una profundidad arbitraria. -->
 - [x] B) El doble de ancho que la raíz del árbol. <!-- feedback: Correct. El paso 2 indica claramente: "Abre un hueco que sea el doble de ancho que la raíz". -->
 - [ ] C) Del mismo tamaño que una moneda pequeña. <!-- feedback: Incorrect. Un hueco tan pequeño no permitiría que el árbol crezca o se sostenga. -->
@@ -129,14 +140,15 @@ Se evalúa la precisión en la lectura de datos técnicos dentro de una instrucc
 ## Question 5 [D4]
 
 **ID:** `CO-LC-4-2026-P4-poesia-instructivos-001-MASTERY-v5`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Dimensión inferencial]
-**Context:** Propósito de una acción específica.
+**Contexto:** Propósito de una acción específica.
 
 ### Enunciado
 ¿Para qué se debe presionar la tierra suavemente con los pies después de cubrir el hueco?
 
-### Options
+### Opciones
 - [ ] A) Para hacer ejercicio mientras se trabaja. <!-- feedback: Incorrect. El propósito no es la salud del humano, sino la estabilidad de la planta. -->
 - [ ] B) Para que las hormigas no puedan salir. <!-- feedback: Incorrect. No se menciona a las hormigas; el objetivo es puramente estructural para el árbol. -->
 - [x] C) Para que el árbol quede firme y no queden burbujas de aire. <!-- feedback: Correct. Presionar la tierra asegura que las raíces tengan contacto con el suelo y que el árbol no se caiga con el viento. -->
@@ -150,14 +162,15 @@ Se evalúa la inferencia sobre el propósito de una instrucción específica. La
 ## Question 6 [D5]
 
 **ID:** `CO-LC-4-2026-P4-poesia-instructivos-001-MASTERY-v6`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Reflexión sobre el contenido]
-**Context:** Comparando tipos de textos.
+**Contexto:** Comparando tipos de textos.
 
 ### Enunciado
 ¿En qué se diferencia principalmente el poema del Río Magdalena del instructivo para sembrar un árbol?
 
-### Options
+### Opciones
 - [ ] A) El poema es más largo y tiene más palabras difíciles. <!-- feedback: Incorrect. La diferencia no es de longitud, sino de forma y propósito. -->
 - [x] B) El poema expresa sentimientos y belleza, mientras que el instructivo da órdenes para realizar una tarea. <!-- feedback: Correct. El poema pertenece al género lírico (sentimientos/arte) y el instructivo al apelativo/normativo (guía de acciones). -->
 - [ ] C) El poema es solo para niños y el instructivo solo para adultos. <!-- feedback: Incorrect. Ambos tipos de textos pueden ser leídos y comprendidos por personas de cualquier edad. -->
@@ -171,14 +184,15 @@ Se evalúa la capacidad de distinguir entre diferentes funciones del lenguaje y 
 ## Question 7 [D4]
 
 **ID:** `CO-LC-4-2026-P4-poesia-instructivos-001-MASTERY-v7`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Dimensión textual]
-**Context:** Vocabulario en el poema.
+**Contexto:** Vocabulario en el poema.
 
 ### Enunciado
 En el poema, la palabra **cauce** se refiere a:
 
-### Options
+### Opciones
 - [ ] A) Los peces que saltan fuera del agua. <!-- feedback: Incorrect. Los peces viven dentro, pero el cauce es el contenedor o camino. -->
 - [x] B) El camino o lecho por donde corre el agua del río. <!-- feedback: Correct. El cauce es el espacio físico ocupado por las aguas de un río. -->
 - [ ] C) El ruido que hace el río al golpear las piedras. <!-- feedback: Incorrect. El ruido se suele llamar murmullo o estruendo, no cauce. -->
@@ -192,14 +206,15 @@ Se evalúa el conocimiento de vocabulario específico relacionado con la geograf
 ## Question 8 [D5]
 
 **ID:** `CO-LC-4-2026-P4-poesia-instructivos-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Dimensión inferencial]
-**Context:** Análisis de la rima en el poema.
+**Contexto:** Análisis de la rima en el poema.
 
 ### Enunciado
 Observa la primera estrofa del poema. ¿Qué palabras riman entre sí?
 
-### Options
+### Opciones
 - [ ] A) Sierra y Cristal. <!-- feedback: Incorrect. No tienen sonidos finales similares que produzcan rima. -->
 - [x] B) Sierra - Tierra / Cristal - Coral. <!-- feedback: Correct. Estas palabras comparten sonidos finales (er-ra y al), creando la rima consonante del poema. -->
 - [ ] C) Sierra y Canto. <!-- feedback: Incorrect. Sus finales son totalmente diferentes en sonido y escritura. -->
@@ -213,14 +228,15 @@ Se evalúa el reconocimiento de la rima como elemento constitutivo del verso. La
 ## Question 9 [D5]
 
 **ID:** `CO-LC-4-2026-P4-poesia-instructivos-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Reflexión sobre el contenido]
-**Context:** Aplicabilidad de las instrucciones.
+**Contexto:** Aplicabilidad de las instrucciones.
 
 ### Enunciado
 Si una persona olvida realizar el **paso número 5** del instructivo, ¿qué es lo más probable que le ocurra al árbol?
 
-### Options
+### Opciones
 - [ ] A) Que crezca más rápido porque no tiene peso de agua. <!-- feedback: Incorrect. El agua es vital para la planta; su falta no acelera el crecimiento sino que lo detiene. -->
 - [ ] B) Que se convierta en una flor pequeña en lugar de un árbol. <!-- feedback: Incorrect. La especie no cambia por falta de riego; la planta simplemente se enferma o muere. -->
 - [x] C) Que se seque y muera por falta de hidratación después de la siembra. <!-- feedback: Correct. El riego inicial es crítico para que las raíces se asienten y la planta sobreviva al estrés del trasplante. -->
@@ -234,14 +250,15 @@ Se evalúa la capacidad de predecir consecuencias por la omisión de pasos en un
 ## Question 10 [D5]
 
 **ID:** `CO-LC-4-2026-P4-poesia-instructivos-001-MASTERY-v10`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Dimensión crítica]
-**Context:** Tono y lenguaje.
+**Contexto:** Tono y lenguaje.
 
 ### Enunciado
 ¿Cuál de los dos textos utiliza un lenguaje más **objetivo y directo**, sin adornos literarios?
 
-### Options
+### Opciones
 - [ ] A) El poema "El Río Magdalena". <!-- feedback: Incorrect. El poema usa metáforas, rimas y personificaciones, lo cual es un lenguaje subjetivo y artístico. -->
 - [x] B) El instructivo "Cómo sembrar un árbol". <!-- feedback: Correct. El instructivo usa verbos en imperativo (Elige, Abre, Coloca) y descripciones técnicas claras para que cualquiera pueda realizar la tarea sin confusiones. -->
 - [ ] C) Ambos textos usan exactamente el mismo tipo de lenguaje. <!-- feedback: Incorrect. Son géneros opuestos con funciones del lenguaje muy diferentes (poética vs apelativa). -->

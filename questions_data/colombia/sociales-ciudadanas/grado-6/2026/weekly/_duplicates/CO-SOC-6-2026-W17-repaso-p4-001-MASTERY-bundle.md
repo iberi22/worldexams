@@ -1,10 +1,10 @@
 ---
-id: "CO-SOC-6-2026-W17-repaso-p4-001-MASTERY"
+id: "CO-SOC-6-2026-W17-repaso-p4-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "sociales-ciudadanas"
 tema: "repaso-p4"
-semana: 17
+week: "W17"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso_periodo_4, constitucion_1991, ramas_poder_publico, mecanismos_participacion_ciudadana, derechos_humanos, estado_social_derecho, accion_tutela, corte_constitucional, democracia_participativa, DIH"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: REPASO Periodo 4 — Instituciones y Democracia
 
@@ -24,17 +31,17 @@ Este bundle de repaso integra los temas del cuarto periodo académico: la Consti
 
 ---
 
-## Question 1
-
+## Question 1 [D1]
 **ID:** `CO-SOC-6-2026-W17-repaso-p4-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuántas ramas del poder público existen en Colombia según la Constitución de 1991?
 
-### Options
+### Opciones
 - [ ] A) Dos: el presidente y el Congreso <!-- feedback: Incorrecto. En Colombia hay tres ramas del poder. -->
 - [x] B) Tres: la Rama Ejecutiva, la Rama Legislativa y la Rama Judicial <!-- feedback: Correcto. La Constitución de 1991 establece tres ramas separadas. -->
 - [ ] C) Cuatro: Ejecutiva, Legislativa, Judicial y Electoral <!-- feedback: Incorrecto. Los organismos electorales son parte de la Rama Electoral como órgano autónomo, pero las ramas son tres. -->
@@ -45,17 +52,17 @@ La Constitución de 1991 (artículo 113) establece la separación de poderes en 
 
 ---
 
-## Question 2
-
+## Question 2 [D1]
 **ID:** `CO-SOC-6-2026-W17-repaso-p4-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál fue el mecanismo que permitió a los estudiantes universitarios en 1990 impulsar una nueva Constitución en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Un referendo constitucional <!-- feedback: Incorrecto. El referendo fue posterior. -->
 - [x] B) La Séptima Papeleta, una papeleta no oficial que los ciudadanos depositaron en las urnas para apoyar una Asamblea Constituyente <!-- feedback: Correcto. La Séptima Papeleta fue el mecanismo ciudadano que detonó la Constitución de 1991. -->
 - [ ] C) Una revolución armada <!-- feedback: Incorrecto. Fue un movimiento pacífico y democrático. -->
@@ -66,17 +73,17 @@ La Séptima Papeleta fue un movimiento estudiantil que en las elecciones de marz
 
 ---
 
-## Question 3
-
+## Question 3 [D1]
 **ID:** `CO-SOC-6-2026-W17-repaso-p4-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué diferencia hay entre un plebiscito y un referendo?
 
-### Options
+### Opciones
 - [ ] A) No hay diferencia; son el mismo mecanismo con nombres diferentes <!-- feedback: Incorrecto. Son mecanismos distintos. -->
 - [ ] B) El plebiscito es para reformar la Constitución y el referendo para aprobar leyes ordinarias <!-- feedback: Incorrecto. El referendo también puede reformar la Constitución. -->
 - [x] C) El plebiscito lo convoca el presidente para consultar al pueblo sobre una decisión de su gobierno; el referendo se usa para aprobar o rechazar una ley o reforma constitucional específica <!-- feedback: Correcto. Cada mecanismo tiene un propósito y un convocante específico. -->
@@ -87,17 +94,17 @@ El plebiscito (artículo 7 Ley 134/1994) es convocado exclusivamente por el pres
 
 ---
 
-## Question 4
-
+## Question 4 [D1]
 **ID:** `CO-SOC-6-2026-W17-repaso-p4-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál de los siguientes NO es un mecanismo de participación ciudadana en Colombia?
 
-### Options
+### Opciones
 - [ ] A) El cabildo abierto <!-- feedback: Incorrecto. Sí es un mecanismo de participación ciudadana. -->
 - [ ] B) La revocatoria del mandato <!-- feedback: Incorrecto. Sí es un mecanismo de participación. -->
 - [ ] C) La consulta popular <!-- feedback: Incorrecto. Sí es un mecanismo de participación. -->
@@ -108,17 +115,17 @@ Los mecanismos de participación ciudadana están definidos en el artículo 103 
 
 ---
 
-## Question 5
-
+## Question 5 [D1]
 **ID:** `CO-SOC-6-2026-W17-repaso-p4-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 La Constitución de 1991 define a Colombia como un "Estado Social de Derecho". ¿Qué implica esto en la práctica?
 
-### Options
+### Opciones
 - [ ] A) Que el gobierno puede hacer lo que quiera sin límites <!-- feedback: Incorrecto. El Estado de Derecho impone límites al poder. -->
 - [ ] B) Que solo las personas con dinero tienen derechos <!-- feedback: Incorrecto. Los derechos son para todos los ciudadanos. -->
 - [x] C) Que el Estado no solo debe respetar la ley, sino también promover activamente la igualdad, la justicia social y el bienestar de todos los ciudadanos, especialmente de los más vulnerables <!-- feedback: Correcto. El Estado Social de Derecho combina legalidad con justicia social. -->
@@ -129,17 +136,17 @@ El Estado Social de Derecho (artículo 1 de la Constitución) significa que Colo
 
 ---
 
-## Question 6
-
+## Question 6 [D1]
 **ID:** `CO-SOC-6-2026-W17-repaso-p4-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Un ciudadano colombiano considera que una ley aprobada por el Congreso viola sus derechos fundamentales. ¿A qué órgano del poder público debe acudir para impugnar la ley?
 
-### Options
+### Opciones
 - [ ] A) A la Rama Ejecutiva, pidiéndole al presidente que vete la ley <!-- feedback: Incorrecto. El presidente ya sancionó la ley; ya no puede vetarla. -->
 - [ ] B) Al Congreso, solicitando que deroguen la ley <!-- feedback: Incorrecto. El Congreso puede derogar leyes, pero no por petición individual de un ciudadano. -->
 - [x] C) A la Corte Constitucional, mediante una acción pública de inconstitucionalidad, para que revise si la ley se ajusta a la Constitución <!-- feedback: Correcto. La acción de inconstitucionalidad es el mecanismo para impugnar leyes ante la Corte Constitucional. -->
@@ -150,17 +157,17 @@ La acción pública de inconstitucionalidad (artículo 241 de la Constitución) 
 
 ---
 
-## Question 7
-
+## Question 7 [D1]
 **ID:** `CO-SOC-6-2026-W17-repaso-p4-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Una persona indígena de la comunidad Wayúu es desplazada por la violencia de su territorio en La Guajira y llega a Bogotá sin recursos. ¿Qué derechos tiene según la Constitución de 1991?
 
-### Options
+### Opciones
 - [ ] A) Solo puede recibir la misma ayuda que cualquier otro ciudadano <!-- feedback: Incorrecto. Tiene derechos especiales como persona indígena y desplazada. -->
 - [ ] B) No tiene derechos especiales porque está fuera de su territorio indígena <!-- feedback: Incorrecto. Los derechos indígenas no se pierden al salir del territorio. -->
 - [x] C) Tiene derecho a recibir atención humanitaria de emergencia, al respeto de su identidad cultural y a la protección especial que la Constitución otorga a las comunidades étnicas, además de los derechos de cualquier persona en situación de desplazamiento <!-- feedback: Correcto. La Constitución protege la diversidad étnica y cultural del país. -->
@@ -171,17 +178,17 @@ La Constitución de 1991 reconoce a Colombia como un país pluriétnico y multic
 
 ---
 
-## Question 8
-
+## Question 8 [D1]
 **ID:** `CO-SOC-6-2026-W17-repaso-p4-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 La Constitución de 1991 creó la acción de tutela para proteger derechos fundamentales. La Corte Constitucional ha usado la tutela para proteger la salud, la vivienda digna e incluso el mínimo vital. ¿Qué cambio en la relación entre el Estado y los ciudadanos representa la tutela?
 
-### Options
+### Opciones
 - [ ] A) Que los jueces pueden tomar decisiones políticas arbitrarias <!-- feedback: Incorrecto. La tutela tiene fundamento constitucional. -->
 - [ ] B) Que los ciudadanos pueden demandar al Estado por cualquier motivo <!-- feedback: Incorrecto. La tutela solo protege derechos fundamentales vulnerados o amenazados. -->
 - [x] C) Que los ciudadanos dejaron de ser súbditos pasivos del Estado y se convirtieron en titulares de derechos exigibles ante los jueces, empoderando a cualquier persona para detener abusos del poder público o privado <!-- feedback: Correcto. La tutela es una herramienta de empoderamiento ciudadano. -->
@@ -192,17 +199,17 @@ La acción de tutela (artículo 86) revolucionó la relación Estado-ciudadano e
 
 ---
 
-## Question 9
-
+## Question 9 [D1]
 **ID:** `CO-SOC-6-2026-W17-repaso-p4-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Compara la Constitución de 1886, que definía a Colombia como un "Estado católico", con la de 1991, que la define como un "Estado pluralista". ¿Qué cambio social refleja esta diferencia?
 
-### Options
+### Opciones
 - [ ] A) Que en 1991 todos los colombianos dejaron de ser católicos <!-- feedback: Incorrecto. La mayoría sigue siendo católica; el cambio es en el reconocimiento legal del pluralismo. -->
 - [x] B) Que Colombia pasó de un modelo donde una sola religión era oficial y las minorías no tenían reconocimiento, a un modelo que respeta la diversidad religiosa, étnica, cultural y política, reflejando una sociedad más diversa <!-- feedback: Correcto. La Constitución de 1991 reconoce la pluralidad de la sociedad colombiana. -->
 - [ ] C) Que la religión católica fue prohibida en Colombia <!-- feedback: Incorrecto. La libertad de cultos protege también a la Iglesia Católica. -->
@@ -223,7 +230,7 @@ El cambio de Constitución refleja la transición de una sociedad homogénea y j
 ### Enunciado
 Colombia tiene una Constitución avanzada, múltiples mecanismos de participación y una Corte Constitucional activa. Sin embargo, el país sigue teniendo problemas de corrupción, desigualdad y violación de derechos humanos. ¿Cómo se explica que un buen diseño institucional no produzca automáticamente una mejor realidad social?
 
-### Options
+### Opciones
 - [ ] A) La Constitución de 1991 fue un fracaso que debería remplazarse por completo <!-- feedback: Incorrecto. La Constitución tiene logros importantes; los problemas son de implementación, no de diseño. -->
 - [ ] B) Los derechos constitucionales no existen en la realidad porque son solo ideas abstractas <!-- feedback: Incorrecto. Los derechos tienen efectos reales aunque insuficientes. -->
 - [x] C) Las instituciones, por sí solas, no transforman la realidad; se necesita cultura democrática, voluntad política, instituciones fuertes con recursos, participación ciudadana activa y políticas públicas efectivas para materializar los derechos <!-- feedback: Correcto. El diseño institucional es necesario pero no suficiente. -->

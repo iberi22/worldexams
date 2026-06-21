@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W33-textos-expositivos-001-MASTERY"
+id: "CO-LEC-3-2026-W33-textos-expositivos-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 33
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Expositivos
 
@@ -25,6 +30,7 @@ Este bundle evalúa la comprensión de textos cuyo objetivo es explicar un tema 
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **¿Qué es el ciclo del agua?**
@@ -33,7 +39,7 @@ Este bundle evalúa la comprensión de textos cuyo objetivo es explicar un tema 
 ### Enunciado
 Según el texto, ¿qué significa la palabra **precipitación**?
 
-### Options
+### Opciones
 - [ ] A) Que el agua se calienta mucho. <!-- feedback: Incorrecto. Eso sería parte de la evaporación. -->
 - [ ] B) Que el agua desaparece de los ríos. <!-- feedback: Incorrecto. El agua cambia de estado pero no desaparece. -->
 - [x] C) La caída del agua en forma de lluvia. <!-- feedback: ¡Correcto! El texto asocia entre paréntesis la precipitación con la lluvia. -->
@@ -49,6 +55,7 @@ Identificar definiciones explícitas dentro de un texto expositivo es una habili
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Los insectos son animales invertebrados (no tienen huesos) que tienen el cuerpo dividido en tres partes: cabeza, tórax y abdomen. Además, todos los insectos adultos tienen seis patas y un par de antenas".
@@ -56,7 +63,7 @@ Identificar definiciones explícitas dentro de un texto expositivo es una habili
 ### Enunciado
 ¿Cuál de las siguientes es una característica **física** de todos los insectos según el texto?
 
-### Options
+### Opciones
 - [ ] A) Que son muy grandes y pesados. <!-- feedback: Incorrecto. El texto no menciona el tamaño, y muchos insectos son pequeños. -->
 - [x] B) Que tienen seis patas y antenas. <!-- feedback: ¡Correcto! El texto enumera estas partes del cuerpo como características comunes de los insectos. -->
 - [ ] C) Que tienen un esqueleto de huesos fuertes. <!-- feedback: Incorrecto. El texto dice que son invertebrados, es decir, que NO tienen huesos. -->
@@ -72,6 +79,7 @@ Extraer características de una categoría (los insectos) permite al estudiante 
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Existen diferentes tipos de energía. La energía solar proviene del sol, la energía eólica se obtiene del viento y la energía hidráulica se produce gracias al movimiento del agua en los ríos".
@@ -79,7 +87,7 @@ Extraer características de una categoría (los insectos) permite al estudiante 
 ### Enunciado
 ¿Cuál es la función principal de este párrafo?
 
-### Options
+### Opciones
 - [ ] A) Contar una historia sobre un molino de viento. <!-- feedback: Incorrecto. No hay personajes ni narración de hechos fantásticos. -->
 - [x] B) Explicar y dar ejemplos de diferentes fuentes de energía. <!-- feedback: ¡Correcto! Es un texto expositivo que clasifica y define conceptos reales. -->
 - [ ] C) Convencer a la gente de que apague las luces. <!-- feedback: Incorrecto. El texto informa sobre los tipos de energía, no da órdenes de ahorro. -->
@@ -95,6 +103,7 @@ Identificar la intención comunicativa de los textos expositivos ayuda a los est
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Para que una planta realice la fotosíntesis necesita: luz, agua y dióxido de carbono. Como resultado de este proceso, la planta libera oxígeno al aire, el cual es necesario para que los seres humanos podamos respirar".
@@ -102,7 +111,7 @@ Identificar la intención comunicativa de los textos expositivos ayuda a los est
 ### Enunciado
 Según el texto, ¿qué beneficio recibimos los seres humanos del proceso de las plantas?
 
-### Options
+### Opciones
 - [ ] A) Recibimos luz solar a través de ellas. <!-- feedback: Incorrecto. La luz viene del sol, no de las plantas. -->
 - [x] B) Obtenemos el oxígeno necesario para respirar. <!-- feedback: ¡Correcto! El texto indica que la liberación de oxígeno es el resultado beneficioso para nosotros. -->
 - [ ] C) Las plantas nos dan dióxido de carbono. <!-- feedback: Incorrecto. Eso es lo que las plantas necesitan, no lo que nos dan. -->
@@ -118,6 +127,7 @@ Identificar relaciones de utilidad o beneficio en textos de ciencias naturales r
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Los diccionarios son libros que explican el significado de las palabras. Están organizados en orden alfabético para que sea más fácil encontrar lo que buscamos. Cada palabra explicada se llama 'entrada'".
@@ -125,7 +135,7 @@ Identificar relaciones de utilidad o beneficio en textos de ciencias naturales r
 ### Enunciado
 Si quieres saber el significado de una palabra que empieza con la letra "**M**", ¿en qué parte del diccionario deberías buscarla?
 
-### Options
+### Opciones
 - [ ] A) Al principio del libro, cerca de la letra A. <!-- feedback: Incorrecto. La M está mucho más adelante en el abecedario. -->
 - [ ] B) Al final del libro, después de la letra Z. <!-- feedback: Incorrecto. La Z es la última letra; nada va después. -->
 - [x] C) En la parte media del libro, después de la L y antes de la N. <!-- feedback: ¡Correcto! El estudiante aplica la regla del orden alfabético mencionada en el texto. -->
@@ -141,6 +151,7 @@ Aplicar una regla de organización descrita en el texto (orden alfabético) a un
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "A diferencia de los cuentos, que pueden ser inventados, los textos expositivos siempre deben basarse en hechos reales y comprobables. No usan un lenguaje de fantasía, sino un lenguaje preciso".
@@ -148,7 +159,7 @@ Aplicar una regla de organización descrita en el texto (orden alfabético) a un
 ### Enunciado
 ¿Cuál de estos títulos corresponde probablemente a un **texto expositivo**?
 
-### Options
+### Opciones
 - [ ] A) El dragón que no podía echar fuego. <!-- feedback: Incorrecto. Los dragones son seres de fantasía, típicos de cuentos. -->
 - [x] B) Cómo se produce la energía eléctrica. <!-- feedback: ¡Correcto! Es un tema real que requiere una explicación técnica y objetiva. -->
 - [ ] C) Mi mejor amigo es un duende verde. <!-- feedback: Incorrecto. Los duendes son personajes imaginarios. -->
@@ -164,6 +175,7 @@ Diferenciar títulos por género textual permite al estudiante predecir el conte
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Los computadores portátiles tienen varias ventajas sobre los de escritorio: son livianos, ocupan menos espacio y tienen una batería que les permite funcionar sin estar conectados a la electricidad por unas horas".
@@ -171,7 +183,7 @@ Diferenciar títulos por género textual permite al estudiante predecir el conte
 ### Enunciado
 ¿Qué recurso está usando el autor en este fragmento para explicar el tema?
 
-### Options
+### Opciones
 - [ ] A) Una definición de qué es un computador. <!-- feedback: Incorrecto. No dice qué es, asume que ya lo sabemos. -->
 - [x] B) Una comparación de características entre dos tipos de objetos. <!-- feedback: ¡Correcto! El autor resalta las diferencias positivas (ventajas) de uno frente al otro. -->
 - [ ] C) Una lista de precios de diferentes marcas. <!-- feedback: Incorrecto. No se menciona dinero ni marcas específicas. -->
@@ -187,6 +199,7 @@ Analizar las estrategias explicativas (como la comparación o la enumeración de
 **Bloom:** Evaluate
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un texto expositivo sobre los perros dice: "Son los mejores amigos del hombre porque son leales". Otro texto sobre el mismo tema dice: "Los perros son mamíferos carnívoros domesticados hace miles de años".
@@ -194,7 +207,7 @@ Un texto expositivo sobre los perros dice: "Son los mejores amigos del hombre po
 ### Enunciado
 ¿Cuál de los dos textos es más **adecuado** para un libro de ciencias naturales y por qué?
 
-### Options
+### Opciones
 - [ ] A) El primero, porque es más bonito decir que son amigos. <!-- feedback: Incorrecto. La belleza o el sentimiento no son criterios de la ciencia. -->
 - [x] B) El segundo, porque usa términos científicos (mamífero, carnívoro) y datos históricos. <!-- feedback: ¡Correcto! El lenguaje técnico y objetivo es el propio de los textos expositivos de ciencias. -->
 - [ ] C) Los dos son iguales porque hablan de lo mismo. <!-- feedback: Incorrecto. El enfoque y el lenguaje cambian totalmente el tipo de texto. -->

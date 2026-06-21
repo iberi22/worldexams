@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W09-potenciacion-propiedades-001-MASTERY"
+id: "CO-MAT-6-2026-W09-potenciacion-propiedades-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W09 — Potenciacion: Propiedades
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W09-potenciacion-propiedades-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Producto de potencias igual base
+**Contexto:** Producto de potencias igual base
 
 ### Enunciado
 ¿Cual es el resultado de 2³ × 2²?
 
-### Options
+### Opciones
 - [x] A) 2⁵ <!-- feedback: Correct. Producto de potencias de igual base: se conserva la base y se suman los exponentes: 2³×2² = 2³⁺² = 2⁵. -->
 - [ ] B) 2⁶ <!-- feedback: Incorrect. Sumar mal los exponentes: 3+2=5, no 6. 2³×2²=2⁵. -->
 - [ ] C) 4⁵ <!-- feedback: Incorrect. Multiplicar las bases: 2×2=4 y sumar exponentes: 3+2=5. La base se conserva, no se multiplica. -->
@@ -51,13 +54,14 @@ Verificacion: 2³=8, 2²=4, 8×4=32=2⁵. ✓
 
 **ID:** `CO-MAT-6-2026-W09-potenciacion-propiedades-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Cociente de potencias igual base
+**Contexto:** Cociente de potencias igual base
 
 ### Enunciado
 ¿Cual es el resultado de 3⁵ ÷ 3²?
 
-### Options
+### Opciones
 - [ ] A) 3⁷ <!-- feedback: Incorrect. Sumar exponentes: 5+2=7. En division de potencias de igual base, los exponentes se RESTAN, no se suman. -->
 - [x] B) 3³ <!-- feedback: Correct. 3⁵ ÷ 3² = 3⁵⁻² = 3³. -->
 - [ ] C) 3¹⁰ <!-- feedback: Incorrect. Multiplicar exponentes: 5×2=10. En division de potencias de igual base, los exponentes se restan. -->
@@ -75,13 +79,14 @@ Verificacion: 3⁵=243, 3²=9, 243÷9=27=3³. ✓
 
 **ID:** `CO-MAT-6-2026-W09-potenciacion-propiedades-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Potencia de una potencia
+**Contexto:** Potencia de una potencia
 
 ### Enunciado
 ¿Cual es el resultado de (2³)²?
 
-### Options
+### Opciones
 - [ ] A) 2⁵ <!-- feedback: Incorrect. Sumar exponentes: 3+2=5. En potencia de una potencia, los exponentes se MULTIPLICAN. -->
 - [ ] B) 2⁶ <!-- feedback: Correct. (2³)² = 2³×² = 2⁶ = 64. -->
 - [x] C) 2⁹ <!-- feedback: Incorrect. Error: 3²=9. (2³)² = 2³×² = 2⁶, no 2⁹. -->
@@ -99,13 +104,14 @@ Verificacion: 2³=8, 8²=64=2⁶. ✓
 
 **ID:** `CO-MAT-6-2026-W09-potenciacion-propiedades-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Potencia de un producto
+**Contexto:** Potencia de un producto
 
 ### Enunciado
 ¿Cual es la forma desarrollada de (2×3)²?
 
-### Options
+### Opciones
 - [x] A) 2² × 3² <!-- feedback: Correct. (2×3)² = 2²×3² = 4×9 = 36. La potencia se distribuye a cada factor. -->
 - [ ] B) 2×3² <!-- feedback: Incorrect. Solo elevar al cuadrado el 3: 2×3²=2×9=18. La potencia aplica a todo el producto. -->
 - [ ] C) 2²×3 <!-- feedback: Incorrect. Solo elevar al cuadrado el 2: 2²×3=4×3=12. La potencia aplica a todo el producto. -->
@@ -123,13 +129,14 @@ Verificacion directa: (2×3)² = 6² = 36. ✓
 
 **ID:** `CO-MAT-6-2026-W09-potenciacion-propiedades-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Exponente cero
+**Contexto:** Exponente cero
 
 ### Enunciado
 ¿Cual es el valor de 5⁰?
 
-### Options
+### Opciones
 - [ ] A) 0 <!-- feedback: Incorrect. Error comun pensar que cualquier numero elevado a 0 da 0. 5⁰ = 1. Solo el 0⁰ no esta definido. -->
 - [ ] B) 5 <!-- feedback: Incorrect. Error comun: pensar que 5⁰ = 5. Cualquier numero distinto de cero elevado a la 0 es 1. -->
 - [x] C) 1 <!-- feedback: Correct. Cualquier numero (excepto 0) elevado a la 0 es igual a 1. 5⁰ = 1. -->
@@ -147,13 +154,14 @@ Explicacion: 5³÷5³ = 5^(3-3) = 5⁰, pero tambien 125÷125=1. Por lo tanto 5�
 
 **ID:** `CO-MAT-6-2026-W09-potenciacion-propiedades-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Ahorro con potencias
+**Contexto:** Ahorro con potencias
 
 ### Enunciado
 $2.000 se multiplican por 2 cada año en una inversion. Usando propiedades de potencias, ¿cuanto dinero habra despues de 4 años si se invierten $2.000?
 
-### Options
+### Opciones
 - [ ] A) $16.000 <!-- feedback: Incorrect. 2.000×2⁴ = 2.000×16 = 32.000. Error: 2⁴=16, no 8. 2⁴=2×2×2×2=16. -->
 - [ ] B) $8.000 <!-- feedback: Incorrect. 2.000×2² = 2.000×4=8.000. Eso seria despues de 2 años, no 4. -->
 - [x] C) $32.000 <!-- feedback: Correct. 2.000×2⁴ = 2.000×16 = 32.000. Usando que 2⁴ = 16. -->
@@ -174,13 +182,14 @@ Despues de 4 años hay $32.000.
 
 **ID:** `CO-MAT-6-2026-W09-potenciacion-propiedades-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Simplificar expresiones
+**Contexto:** Simplificar expresiones
 
 ### Enunciado
 Simplifica la expresion: 2⁴ × 2³ ÷ 2² usando propiedades de potencias.
 
-### Options
+### Opciones
 - [ ] A) 2⁵ <!-- feedback: Correct. 2⁴×2³=2⁷; 2⁷÷2²=2⁵=32. -->
 - [ ] B) 2⁹ <!-- feedback: Incorrect. Sumar todos los exponentes: 4+3+2=9. Pero la division RESTA exponentes: 4+3-2=5, no 9. -->
 - [x] C) 2²⁴ <!-- feedback: Incorrect. Multiplicar todos los exponentes: 4×3×2=24. No se multiplican exponentes en estas operaciones. En producto se suman, en division se restan. -->
@@ -199,13 +208,14 @@ Orden de las propiedades: primero multiplicacion (suma exponentes), luego divisi
 
 **ID:** `CO-MAT-6-2026-W09-potenciacion-propiedades-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Area de cuadrado expandido
+**Contexto:** Area de cuadrado expandido
 
 ### Enunciado
 Don Jose tiene un terreno cuadrado de 5 m de lado. Si decide agrandar cada lado al doble, ¿cuantas veces mas grande sera el area del nuevo terreno?
 
-### Options
+### Opciones
 - [ ] A) 2 veces mas grande <!-- feedback: Incorrect. Si el lado se duplica, el area se multiplica por 2²=4, no por 2. Area crece al cuadrado del factor de escala. -->
 - [x] B) 4 veces mas grande <!-- feedback: Correct. (2×5)² = 2²×5² = 4×25 = 100 m². El area original es 25 m². 100÷25=4. El area es 4 veces mayor. -->
 - [ ] C) 8 veces mas grande <!-- feedback: Incorrect. (2×5)² = 2²×5² = 4×25. El factor es 2²=4, no 2³=8. Solo si fuera volumen (lado al cubo) se multiplicaria por 8. -->
@@ -224,13 +234,14 @@ El area se hace 4 veces mas grande. Esto es porque el area depende del cuadrado 
 
 **ID:** `CO-MAT-6-2026-W09-potenciacion-propiedades-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Verificar igualdades
+**Contexto:** Verificar igualdades
 
 ### Enunciado
 Cual de las siguientes igualdades es VERDADERA?
 
-### Options
+### Opciones
 - [ ] A) 2⁴ × 2³ = 4⁷ <!-- feedback: Incorrect. 2⁴×2³=2⁷. 4⁷=(2²)⁷=2¹⁴. Son diferentes. Error comun: multiplicar bases (2×2=4) y sumar exponentes (4+3=7). -->
 - [ ] B) (3²)³ = 3⁵ <!-- feedback: Incorrect. (3²)³ = 3²×³ = 3⁶. 3⁵=243. Error: sumar en vez de multiplicar: 2+3=5. -->
 - [x] C) 5⁰ × 5³ = 5³ <!-- feedback: Correct. 5⁰=1, entonces 5⁰×5³ = 1×5³ = 5³. Tambien por propiedad: 5⁰⁺³=5³. -->
@@ -250,8 +261,9 @@ La unica igualdad verdadera es C.
 
 **ID:** `CO-MAT-6-2026-W09-potenciacion-propiedades-010-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Error en tarea de potencias
+**Contexto:** Error en tarea de potencias
 
 ### Enunciado
 En la tarea, deben simplificar (2⁴ × 2²) ÷ 2³. Cuatro estudiantes responden:
@@ -261,7 +273,7 @@ En la tarea, deben simplificar (2⁴ × 2²) ÷ 2³. Cuatro estudiantes responde
 - Juan: 2⁶
 ¿Quien tiene la respuesta correcta?
 
-### Options
+### Opciones
 - [ ] A) Ana: 2⁸ <!-- feedback: Incorrect. Error: multiplicar todos los exponentes: 4×2=8 y 8÷3... no, Ana hizo 4+2+3=9, no 8. Posible: (4×2)×3... confuso. El procedimiento correcto: 4+2-3=3. -->
 - [x] B) Carlos: 2³ <!-- feedback: Correct. (2⁴×2²)÷2³ = 2⁴⁺²⁻³ = 2³. -->
 - [ ] C) Maria: 2⁹ <!-- feedback: Incorrect. Sumar todos los exponentes sin considerar la division: 4+2+3=9. En la division, los exponentes se RESTAN, no se suman. -->

@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-10-2026-W07-textos-continuos-y-discontinuos-001-MASTERY"
+id: "CO-LEC-10-2026-W07-textos-continuos-y-discontinuos-001-MASTERY-bundle"
 country: "colombia"
 grado: 10
 asignatura: "lectura-critica"
 tema: "textos-continuos-y-discontinuos"
-semana: 7
+week: "W07"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,15 +16,20 @@ rubric_baseline: "textos continuos, textos discontinuos, graficas, tablas, infog
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Continuos y Discontinuos — Grado 10
 ## Semana W07
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 
 **ID:** `CO-LEC-10-2026-W07-textos-continuos-y-discontinuos-001-MASTERY-v1`  
 **Bloom:** Analyze  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -33,10 +38,10 @@ Infografía muestra agua 70 %, texto dice 65 %. ¿Inferencia?
 
 ### Opciones
 
-- [ ] A) Texto está mal
-- [x] B) Inconsistencia que debe resolverse
-- [ ] C) Infografía es más confiable
-- [ ] D) Ambos están bien
+- [ ] A) Texto está mal <!-- feedback: Incorrecto. Texto está mal -->
+- [x] B) Inconsistencia que debe resolverse <!-- feedback: Correcto! Inconsistencia que debe resolverse -->
+- [ ] C) Infografía es más confiable <!-- feedback: Incorrecto. Infografía es más confiable -->
+- [ ] D) Ambos están bien <!-- feedback: Incorrecto. Ambos están bien -->
 
 ### Explicación Pedagógica
 
@@ -44,10 +49,11 @@ La discrepancia requiere verificar fuentes; puede ser error de representación.
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 
 **ID:** `CO-LEC-10-2026-W07-textos-continuos-y-discontinuos-001-MASTERY-v2`  
 **Bloom:** Analyze  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -56,10 +62,10 @@ La discrepancia requiere verificar fuentes; puede ser error de representación.
 
 ### Opciones
 
-- [ ] A) Confunde al lector
-- [x] B) Atiende diferentes estilos de aprendizaje
-- [ ] C) Es más barato
-- [ ] D) Ocupa menos espacio
+- [ ] A) Confunde al lector <!-- feedback: Incorrecto. Confunde al lector -->
+- [x] B) Atiende diferentes estilos de aprendizaje <!-- feedback: Correcto! Atiende diferentes estilos de aprendizaje -->
+- [ ] C) Es más barato <!-- feedback: Incorrecto. Es más barato -->
+- [ ] D) Ocupa menos espacio <!-- feedback: Incorrecto. Ocupa menos espacio -->
 
 ### Explicación Pedagógica
 
@@ -67,10 +73,11 @@ Atiende múltiples estilos de aprendizaje y profundiza la comprensión.
 
 ---
 
-## Pregunta 3 [D3]
+## Question 3 [D3]
 
 **ID:** `CO-LEC-10-2026-W07-textos-continuos-y-discontinuos-001-MASTERY-v3`  
 **Bloom:** Evaluate  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -79,10 +86,10 @@ Artículo usa solo texto continuo para datos complejos. ¿Es suficiente?
 
 ### Opciones
 
-- [ ] A) Sí
-- [x] B) No; tabla o gráfica complementaría
-- [ ] C) Depende del lector
-- [ ] D) Solo si es largo
+- [ ] A) Sí <!-- feedback: Incorrecto. Sí -->
+- [x] B) No; tabla o gráfica complementaría <!-- feedback: Correcto! No; tabla o gráfica complementaría -->
+- [ ] C) Depende del lector <!-- feedback: Incorrecto. Depende del lector -->
+- [ ] D) Solo si es largo <!-- feedback: Incorrecto. Solo si es largo -->
 
 ### Explicación Pedagógica
 
@@ -90,10 +97,11 @@ Para datos complejos, formatos gráficos facilitan la comprensión visual.
 
 ---
 
-## Pregunta 4 [D3]
+## Question 4 [D3]
 
 **ID:** `CO-LEC-10-2026-W07-textos-continuos-y-discontinuos-001-MASTERY-v4`  
 **Bloom:** Evaluate  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -102,10 +110,10 @@ Para datos complejos, formatos gráficos facilitan la comprensión visual.
 
 ### Opciones
 
-- [ ] A) Nunca
-- [x] B) Para argumentos detallados o narrativas
-- [ ] C) Siempre gráficas
-- [ ] D) Solo en documentos legales
+- [ ] A) Nunca <!-- feedback: Incorrecto. Nunca -->
+- [x] B) Para argumentos detallados o narrativas <!-- feedback: Correcto! Para argumentos detallados o narrativas -->
+- [ ] C) Siempre gráficas <!-- feedback: Incorrecto. Siempre gráficas -->
+- [ ] D) Solo en documentos legales <!-- feedback: Incorrecto. Solo en documentos legales -->
 
 ### Explicación Pedagógica
 
@@ -113,10 +121,11 @@ Texto continuo es superior para desarrollar argumentos complejos con secuencia l
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-LEC-10-2026-W07-textos-continuos-y-discontinuos-001-MASTERY-v5`  
 **Bloom:** Remember  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -125,10 +134,10 @@ Texto continuo es superior para desarrollar argumentos complejos con secuencia l
 
 ### Opciones
 
-- [ ] A) Texto sin párrafos
-- [x] B) Texto que combina lenguaje verbal con elementos gráficos, tablas o diagramas
-- [ ] C) Texto sin sentido
-- [ ] D) Carta formal
+- [ ] A) Texto sin párrafos <!-- feedback: Incorrecto. Texto sin párrafos -->
+- [x] B) Texto que combina lenguaje verbal con elementos gráficos, tablas o diagramas <!-- feedback: Correcto! Texto que combina lenguaje verbal con elementos gráficos, ta -->
+- [ ] C) Texto sin sentido <!-- feedback: Incorrecto. Texto sin sentido -->
+- [ ] D) Carta formal <!-- feedback: Incorrecto. Carta formal -->
 
 ### Explicación Pedagógica
 
@@ -136,10 +145,11 @@ Integra elementos visuales junto con texto verbal.
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-LEC-10-2026-W07-textos-continuos-y-discontinuos-001-MASTERY-v6`  
 **Bloom:** Remember  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -148,10 +158,10 @@ Una infografía combina:
 
 ### Opciones
 
-- [ ] A) Solo imágenes
-- [x] B) Imágenes, textos breves y datos visuales
-- [ ] C) Solo texto
-- [ ] D) Solo números
+- [ ] A) Solo imágenes <!-- feedback: Incorrecto. Solo imágenes -->
+- [x] B) Imágenes, textos breves y datos visuales <!-- feedback: Correcto! Imágenes, textos breves y datos visuales -->
+- [ ] C) Solo texto <!-- feedback: Incorrecto. Solo texto -->
+- [ ] D) Solo números <!-- feedback: Incorrecto. Solo números -->
 
 ### Explicación Pedagógica
 
@@ -159,10 +169,11 @@ La infografía integra elementos visuales con textos cortos y datos gráficos.
 
 ---
 
-## Pregunta 7 [D2]
+## Question 7 [D2]
 
 **ID:** `CO-LEC-10-2026-W07-textos-continuos-y-discontinuos-001-MASTERY-v7`  
 **Bloom:** Understand  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -171,10 +182,10 @@ La infografía integra elementos visuales con textos cortos y datos gráficos.
 
 ### Opciones
 
-- [ ] A) Ocupa más espacio
-- [x] B) Permite comparar datos rápidamente
-- [ ] C) Es más entretenida
-- [ ] D) No necesita explicación
+- [ ] A) Ocupa más espacio <!-- feedback: Incorrecto. Ocupa más espacio -->
+- [x] B) Permite comparar datos rápidamente <!-- feedback: Correcto! Permite comparar datos rápidamente -->
+- [ ] C) Es más entretenida <!-- feedback: Incorrecto. Es más entretenida -->
+- [ ] D) No necesita explicación <!-- feedback: Incorrecto. No necesita explicación -->
 
 ### Explicación Pedagógica
 
@@ -182,10 +193,11 @@ La tabla organiza datos facilitando la comparación visual rápida.
 
 ---
 
-## Pregunta 8 [D2]
+## Question 8 [D2]
 
 **ID:** `CO-LEC-10-2026-W07-textos-continuos-y-discontinuos-001-MASTERY-v8`  
 **Bloom:** Understand  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -194,10 +206,10 @@ Gráfica de barras sobre deforestación 2020-2025 muestra:
 
 ### Opciones
 
-- [ ] A) Las causas
-- [x] B) Tendencia temporal del fenómeno
-- [ ] C) Opinión de ecologistas
-- [ ] D) Nombres de árboles
+- [ ] A) Las causas <!-- feedback: Incorrecto. Las causas -->
+- [x] B) Tendencia temporal del fenómeno <!-- feedback: Correcto! Tendencia temporal del fenómeno -->
+- [ ] C) Opinión de ecologistas <!-- feedback: Incorrecto. Opinión de ecologistas -->
+- [ ] D) Nombres de árboles <!-- feedback: Incorrecto. Nombres de árboles -->
 
 ### Explicación Pedagógica
 
@@ -205,10 +217,11 @@ Las gráficas de barras muestran tendencias cuantitativas en el tiempo.
 
 ---
 
-## Pregunta 9 [D2]
+## Question 9 [D2]
 
 **ID:** `CO-LEC-10-2026-W07-textos-continuos-y-discontinuos-001-MASTERY-v9`  
 **Bloom:** Apply  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -217,10 +230,10 @@ Artículo sobre cambio climático incluye gráfica de temperatura y mapa de zona
 
 ### Opciones
 
-- [ ] A) Solo leer texto
-- [x] B) Interpretar información verbal y visual integrada
-- [ ] C) Memorizar datos
-- [ ] D) Copiar gráfica
+- [ ] A) Solo leer texto <!-- feedback: Incorrecto. Solo leer texto -->
+- [x] B) Interpretar información verbal y visual integrada <!-- feedback: Correcto! Interpretar información verbal y visual integrada -->
+- [ ] C) Memorizar datos <!-- feedback: Incorrecto. Memorizar datos -->
+- [ ] D) Copiar gráfica <!-- feedback: Incorrecto. Copiar gráfica -->
 
 ### Explicación Pedagógica
 
@@ -228,10 +241,11 @@ Exige alfabetización multimodal: integrar información de varios formatos.
 
 ---
 
-## Pregunta 10 [D2]
+## Question 10 [D2]
 
 **ID:** `CO-LEC-10-2026-W07-textos-continuos-y-discontinuos-001-MASTERY-v10`  
 **Bloom:** Apply  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -240,10 +254,10 @@ Exige alfabetización multimodal: integrar información de varios formatos.
 
 ### Opciones
 
-- [ ] A) Cuento
-- [x] B) Tabla con porcentajes y gráfica circular
-- [ ] C) Poema
-- [ ] D) Discurso
+- [ ] A) Cuento <!-- feedback: Incorrecto. Cuento -->
+- [x] B) Tabla con porcentajes y gráfica circular <!-- feedback: Correcto! Tabla con porcentajes y gráfica circular -->
+- [ ] C) Poema <!-- feedback: Incorrecto. Poema -->
+- [ ] D) Discurso <!-- feedback: Incorrecto. Discurso -->
 
 ### Explicación Pedagógica
 

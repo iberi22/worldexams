@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-10-2026-W11-analisis-de-propaganda-y-publicidad-001-MASTERY"
+id: "CO-LEC-10-2026-W11-analisis-de-propaganda-y-publicidad-001-MASTERY-bundle"
 country: "colombia"
 grado: 10
 asignatura: "lectura-critica"
 tema: "analisis-de-propaganda-y-publicidad"
-semana: 11
+week: "W11"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,15 +16,20 @@ rubric_baseline: "propaganda, publicidad, discurso persuasivo, retorica visual, 
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Análisis de Propaganda y Publicidad — Grado 10
 ## Semana W11
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 
 **ID:** `CO-LEC-10-2026-W11-analisis-de-propaganda-y-publicidad-001-MASTERY-v1`  
 **Bloom:** Remember  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -33,10 +38,10 @@ tier: "legacy"
 
 ### Opciones
 
-- [ ] A) Publicidad comercial
-- [x] B) Comunicación para influir en opinión sobre ideas políticas o sociales
-- [ ] C) Género literario
-- [ ] D) Tipo de noticia
+- [ ] A) Publicidad comercial <!-- feedback: Incorrecto. Publicidad comercial -->
+- [x] B) Comunicación para influir en opinión sobre ideas políticas o sociales <!-- feedback: Correcto! Comunicación para influir en opinión sobre ideas políticas o -->
+- [ ] C) Género literario <!-- feedback: Incorrecto. Género literario -->
+- [ ] D) Tipo de noticia <!-- feedback: Incorrecto. Tipo de noticia -->
 
 ### Explicación Pedagógica
 
@@ -44,10 +49,11 @@ La propaganda persuade sobre ideas o causas, distinta de la publicidad comercial
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-LEC-10-2026-W11-analisis-de-propaganda-y-publicidad-001-MASTERY-v2`  
 **Bloom:** Remember  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -56,10 +62,10 @@ El 'llamado a la acción' en publicidad es:
 
 ### Opciones
 
-- [x] A) Mensaje que invita a realizar una acción
-- [ ] B) Título llamativo
-- [ ] C) Imagen decorativa
-- [ ] D) Letra pequeña
+- [x] A) Mensaje que invita a realizar una acción <!-- feedback: Correcto! Mensaje que invita a realizar una acción -->
+- [ ] B) Título llamativo <!-- feedback: Incorrecto. Título llamativo -->
+- [ ] C) Imagen decorativa <!-- feedback: Incorrecto. Imagen decorativa -->
+- [ ] D) Letra pequeña <!-- feedback: Incorrecto. Letra pequeña -->
 
 ### Explicación Pedagógica
 
@@ -67,10 +73,11 @@ Insta al receptor a hacer algo: comprar, suscribirse, votar.
 
 ---
 
-## Pregunta 3 [D2]
+## Question 3 [D2]
 
 **ID:** `CO-LEC-10-2026-W11-analisis-de-propaganda-y-publicidad-001-MASTERY-v3`  
 **Bloom:** Understand  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -79,10 +86,10 @@ Anuncio con modelo famosa usando producto. ¿Recurso?
 
 ### Opciones
 
-- [x] A) Apelación a celebridad
-- [ ] B) Apelación a lógica
-- [ ] C) Apelación al miedo
-- [ ] D) Humor
+- [x] A) Apelación a celebridad <!-- feedback: Correcto! Apelación a celebridad -->
+- [ ] B) Apelación a lógica <!-- feedback: Incorrecto. Apelación a lógica -->
+- [ ] C) Apelación al miedo <!-- feedback: Incorrecto. Apelación al miedo -->
+- [ ] D) Humor <!-- feedback: Incorrecto. Humor -->
 
 ### Explicación Pedagógica
 
@@ -90,10 +97,11 @@ Usa el prestigio de una celebridad para asociarlo al producto (testimonial).
 
 ---
 
-## Pregunta 4 [D2]
+## Question 4 [D2]
 
 **ID:** `CO-LEC-10-2026-W11-analisis-de-propaganda-y-publicidad-001-MASTERY-v4`  
 **Bloom:** Understand  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -102,10 +110,10 @@ Usa el prestigio de una celebridad para asociarlo al producto (testimonial).
 
 ### Opciones
 
-- [x] A) Falacia de asociación: vincula compra con emoción
-- [ ] B) Argumento lógico
-- [ ] C) Definición objetiva
-- [ ] D) Dato estadístico
+- [x] A) Falacia de asociación: vincula compra con emoción <!-- feedback: Correcto! Falacia de asociación: vincula compra con emoción -->
+- [ ] B) Argumento lógico <!-- feedback: Incorrecto. Argumento lógico -->
+- [ ] C) Definición objetiva <!-- feedback: Incorrecto. Definición objetiva -->
+- [ ] D) Dato estadístico <!-- feedback: Incorrecto. Dato estadístico -->
 
 ### Explicación Pedagógica
 
@@ -113,10 +121,11 @@ Asocia compra con felicidad sin evidencia causal.
 
 ---
 
-## Pregunta 5 [D2]
+## Question 5 [D2]
 
 **ID:** `CO-LEC-10-2026-W11-analisis-de-propaganda-y-publicidad-001-MASTERY-v5`  
 **Bloom:** Apply  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -125,10 +134,10 @@ Candidato usa bandera, música patriótica, 'Por un mejor país'. ¿Estrategia?
 
 ### Opciones
 
-- [ ] A) Argumentación racional
-- [x] B) Creación de identidad con símbolos patrios
-- [ ] C) Presentación de datos
-- [ ] D) Refutación
+- [ ] A) Argumentación racional <!-- feedback: Incorrecto. Argumentación racional -->
+- [x] B) Creación de identidad con símbolos patrios <!-- feedback: Correcto! Creación de identidad con símbolos patrios -->
+- [ ] C) Presentación de datos <!-- feedback: Incorrecto. Presentación de datos -->
+- [ ] D) Refutación <!-- feedback: Incorrecto. Refutación -->
 
 ### Explicación Pedagógica
 
@@ -136,10 +145,11 @@ Apela al nacionalismo usando símbolos patrios para asociaciones emocionales.
 
 ---
 
-## Pregunta 6 [D2]
+## Question 6 [D2]
 
 **ID:** `CO-LEC-10-2026-W11-analisis-de-propaganda-y-publicidad-001-MASTERY-v6`  
 **Bloom:** Apply  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -148,10 +158,10 @@ Apela al nacionalismo usando símbolos patrios para asociaciones emocionales.
 
 ### Opciones
 
-- [ ] A) No se puede
-- [x] B) Anuncio busca vender/persuadir; informativo busca educar
-- [ ] C) Por extensión
-- [ ] D) Por color
+- [ ] A) No se puede <!-- feedback: Incorrecto. No se puede -->
+- [x] B) Anuncio busca vender/persuadir; informativo busca educar <!-- feedback: Correcto! Anuncio busca vender/persuadir; informativo busca educar -->
+- [ ] C) Por extensión <!-- feedback: Incorrecto. Por extensión -->
+- [ ] D) Por color <!-- feedback: Incorrecto. Por color -->
 
 ### Explicación Pedagógica
 
@@ -159,10 +169,11 @@ La intencionalidad es clave: persuadir vs. informar.
 
 ---
 
-## Pregunta 7 [D3]
+## Question 7 [D3]
 
 **ID:** `CO-LEC-10-2026-W11-analisis-de-propaganda-y-publicidad-001-MASTERY-v7`  
 **Bloom:** Analyze  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -171,10 +182,10 @@ Anuncio de cigarrillos electrónicos muestra jóvenes deportistas. ¿Análisis?
 
 ### Opciones
 
-- [ ] A) Promueve vida saludable
-- [x] B) Contradice riesgos asociando producto con salud
-- [ ] C) Es entretenimiento
-- [ ] D) No necesita análisis
+- [ ] A) Promueve vida saludable <!-- feedback: Incorrecto. Promueve vida saludable -->
+- [x] B) Contradice riesgos asociando producto con salud <!-- feedback: Correcto! Contradice riesgos asociando producto con salud -->
+- [ ] C) Es entretenimiento <!-- feedback: Incorrecto. Es entretenimiento -->
+- [ ] D) No necesita análisis <!-- feedback: Incorrecto. No necesita análisis -->
 
 ### Explicación Pedagógica
 
@@ -182,10 +193,11 @@ Publicidad engañosa que contradice la evidencia científica sobre riesgos.
 
 ---
 
-## Pregunta 8 [D3]
+## Question 8 [D3]
 
 **ID:** `CO-LEC-10-2026-W11-analisis-de-propaganda-y-publicidad-001-MASTERY-v8`  
 **Bloom:** Analyze  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -194,10 +206,10 @@ Campaña: imágenes impactantes de accidentes, 'No maneje ebrio'. ¿Recurso?
 
 ### Opciones
 
-- [x] A) Apelación al miedo
-- [ ] B) Humor negro
-- [ ] C) Datos estadísticos
-- [ ] D) Testimonio
+- [x] A) Apelación al miedo <!-- feedback: Correcto! Apelación al miedo -->
+- [ ] B) Humor negro <!-- feedback: Incorrecto. Humor negro -->
+- [ ] C) Datos estadísticos <!-- feedback: Incorrecto. Datos estadísticos -->
+- [ ] D) Testimonio <!-- feedback: Incorrecto. Testimonio -->
 
 ### Explicación Pedagógica
 
@@ -205,10 +217,11 @@ Apelación al miedo para disuadir mostrando consecuencias negativas.
 
 ---
 
-## Pregunta 9 [D3]
+## Question 9 [D3]
 
 **ID:** `CO-LEC-10-2026-W11-analisis-de-propaganda-y-publicidad-001-MASTERY-v9`  
 **Bloom:** Evaluate  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -217,10 +230,10 @@ Apelación al miedo para disuadir mostrando consecuencias negativas.
 
 ### Opciones
 
-- [ ] A) Sí, es estrategia
-- [x] B) No, viola principios democráticos
-- [ ] C) Depende
-- [ ] D) Solo en redes
+- [ ] A) Sí, es estrategia <!-- feedback: Incorrecto. Sí, es estrategia -->
+- [x] B) No, viola principios democráticos <!-- feedback: Correcto! No, viola principios democráticos -->
+- [ ] C) Depende <!-- feedback: Incorrecto. Depende -->
+- [ ] D) Solo en redes <!-- feedback: Incorrecto. Solo en redes -->
 
 ### Explicación Pedagógica
 
@@ -228,10 +241,11 @@ Atenta contra el derecho a información veraz, esencial para la democracia.
 
 ---
 
-## Pregunta 10 [D3]
+## Question 10 [D3]
 
 **ID:** `CO-LEC-10-2026-W11-analisis-de-propaganda-y-publicidad-001-MASTERY-v10`  
 **Bloom:** Evaluate  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -240,10 +254,10 @@ Anuncio infantil de comida chatarra con personajes animados. ¿Evaluación?
 
 ### Opciones
 
-- [ ] A) Aceptable
-- [x] B) Explota vulnerabilidad infantil para productos no saludables
-- [ ] C) No es publicidad
-- [ ] D) Es educativo
+- [ ] A) Aceptable <!-- feedback: Incorrecto. Aceptable -->
+- [x] B) Explota vulnerabilidad infantil para productos no saludables <!-- feedback: Correcto! Explota vulnerabilidad infantil para productos no saludables -->
+- [ ] C) No es publicidad <!-- feedback: Incorrecto. No es publicidad -->
+- [ ] D) Es educativo <!-- feedback: Incorrecto. Es educativo -->
 
 ### Explicación Pedagógica
 

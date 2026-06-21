@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-7-2026-W38-tema-semana-38-de-ciencias-naturales-001-MASTERY"
+id: "CO-CIE-7-2026-W38-tema-semana-38-de-ciencias-naturales-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "ciencias-naturales"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 12
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 12
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W38 — Tema Semana 38 de Ciencias Naturales
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-CIE-7-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** I.E. Francisco de Paula Santander en Bucaramanga
+**Contexto:** I.E. Francisco de Paula Santander en Bucaramanga
 **Expected_Success:** 0.71
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Bucaramanga, se discute sobre Tema Semana 38 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 38 de Ciencias Naturales es central en el currículo de 7
 **ID:** `CO-CIE-7-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Pereira
+**Contexto:** Colegio Nacional San Bartolomé en Pereira
 **Expected_Success:** 0.58
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Pereira, se discute sobre Tema Semana 38 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 38 de Ciencias Naturales es central en el currículo de 7
 **ID:** `CO-CIE-7-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Barranquilla
+**Contexto:** I.E. Gabriel García Márquez en Barranquilla
 **Expected_Success:** 0.55
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Barranquilla, se discute sobre Tema Semana 38 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 38 de Ciencias Naturales es central en el currículo de 7
 **ID:** `CO-CIE-7-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Cúcuta
+**Contexto:** Gimnasio Moderno en Cúcuta
 **Expected_Success:** 0.76
 
 ### Enunciado
 En la clase de Ciencias Naturales del Gimnasio Moderno en Cúcuta, se discute sobre Tema Semana 38 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 38 de Ciencias Naturales es central en el currículo de 7
 **ID:** `CO-CIE-7-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** I.E. Santa Luisa de Marillac en Medellín
+**Contexto:** I.E. Santa Luisa de Marillac en Medellín
 **Expected_Success:** 0.65
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Medellín, se discute sobre Tema Semana 38 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 38 de Ciencias Naturales es central en el currículo de 7
 **ID:** `CO-CIE-7-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** Colegio Nacional San Bartolomé en Cartagena
+**Contexto:** Colegio Nacional San Bartolomé en Cartagena
 **Expected_Success:** 0.59
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Cartagena, se discute sobre Tema Semana 38 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 38 de Ciencias Naturales es central en el currículo de 7
 **ID:** `CO-CIE-7-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** I.E. San José en Pereira
+**Contexto:** I.E. San José en Pereira
 **Expected_Success:** 0.75
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. San José en Pereira, se discute sobre Tema Semana 38 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 38 de Ciencias Naturales es central en el currículo de 7
 **ID:** `CO-CIE-7-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** I.E. Francisco de Paula Santander en Medellín
+**Contexto:** I.E. Francisco de Paula Santander en Medellín
 **Expected_Success:** 0.70
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Medellín, se discute sobre Tema Semana 38 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 38 de Ciencias Naturales es central en el currículo de 7
 **ID:** `CO-CIE-7-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Ibagué
+**Contexto:** Gimnasio Moderno en Ibagué
 **Expected_Success:** 0.76
 
 ### Enunciado
 En la clase de Ciencias Naturales del Gimnasio Moderno en Ibagué, se discute sobre Tema Semana 38 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 38 de Ciencias Naturales es central en el currículo de 7
 **ID:** `CO-CIE-7-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Sincelejo
+**Contexto:** I.E. Francisco de Paula Santander en Sincelejo
 **Expected_Success:** 0.62
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Sincelejo, se discute sobre Tema Semana 38 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -244,13 +249,13 @@ El tema de Tema Semana 38 de Ciencias Naturales es central en el currículo de 7
 **ID:** `CO-CIE-7-2026-W00-tema seman-001-MASTERY-v11`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Sincelejo
+**Contexto:** I.E. Santa Luisa de Marillac en Sincelejo
 **Expected_Success:** 0.70
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Sincelejo, se discute sobre Tema Semana 38 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -266,13 +271,13 @@ El tema de Tema Semana 38 de Ciencias Naturales es central en el currículo de 7
 **ID:** `CO-CIE-7-2026-W00-tema seman-001-MASTERY-v12`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Pasto
+**Contexto:** I.E. Jorge Eliécer Gaitán en Pasto
 **Expected_Success:** 0.61
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Pasto, se discute sobre Tema Semana 38 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 38 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 38 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

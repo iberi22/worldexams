@@ -1,24 +1,32 @@
 ---
-id: "EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY"
+id: "EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY-bundle"
 country: "ecuador"
 exam: "BGU - Ministerio de Educacion"
 grado: 11
 asignatura: "Ciencias Naturales"
 tema: "ecosistemas-ecuador"
-semana: 17
+week: "W17"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "BGU - Ministerio de Educacion Ecuador / Senescyt"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle - Ciencias Naturales: Ecosistemas Ecuador (W17)
 **20 preguntas | Ciencias Naturales | BGU - Ministerio de Educacion**
 
 ---
-## Pregunta 1 [D4]
+## Question 1 [D4]
 **ID:** `EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando ecosistemas ecuador.
 
@@ -26,21 +34,22 @@ alignment: "BGU - Ministerio de Educacion Ecuador / Senescyt"
 Simplifique: (2)(12x + 50)
 
 ### Opciones
-- [x] **A)** 24x + 100
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 24x + 50
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 14x + 100
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 24x - 100
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 24x + 100 <!-- feedback: Correcto! 24x + 100 -->
+
+- [ ] B) 24x + 50 <!-- feedback: Incorrecto. 24x + 50 -->
+
+- [ ] C) 14x + 100 <!-- feedback: Incorrecto. 14x + 100 -->
+
+- [ ] D) 24x - 100 <!-- feedback: Incorrecto. 24x - 100 -->
 
 **Explicacion:** Aplicar distributiva: (2)(12x + 50) = 24x + 100.
 
 ---
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando ecosistemas ecuador.
 
@@ -48,21 +57,22 @@ Simplifique: (2)(12x + 50)
 Resuelve: 2(x + 2) = 10
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] C) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [ ] D) 1 <!-- feedback: Incorrecto. 1 -->
 
 **Explicacion:** 2(x+2) = 10 -> x+2 = 5 -> x = 3.
 
 ---
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando ecosistemas ecuador.
 
@@ -70,21 +80,22 @@ Resuelve: 2(x + 2) = 10
 Maria compro 2 cuadernos a $9.2 c/u en Loja. Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $18.2
-  <!-- feedback: Correcto! -->
-- [ ] **B)** $2.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $9.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $11.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $18.2 <!-- feedback: Correcto! $18.2 -->
+
+- [ ] B) $2.2 <!-- feedback: Incorrecto. $2.2 -->
+
+- [ ] C) $9.2 <!-- feedback: Incorrecto. $9.2 -->
+
+- [ ] D) $11.2 <!-- feedback: Incorrecto. $11.2 -->
 
 **Explicacion:** Total = 2 x 9 = $18.2.
 
 ---
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY-v4`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando ecosistemas ecuador.
 
@@ -92,21 +103,22 @@ Maria compro 2 cuadernos a $9.2 c/u en Loja. Cuanto gasto?
 Un estudiante de Colegio Nacional Manta en Manta grafica f(x) = 5x + 9. Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 14
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] B) 9 <!-- feedback: Incorrecto. 9 -->
+
+- [ ] C) 14 <!-- feedback: Incorrecto. 14 -->
+
+- [ ] D) 5 <!-- feedback: Incorrecto. 5 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 5.
 
 ---
-## Pregunta 5 [D3]
+## Question 5 [D3]
 **ID:** `EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando ecosistemas ecuador.
 
@@ -114,21 +126,22 @@ Un estudiante de Colegio Nacional Manta en Manta grafica f(x) = 5x + 9. Cual es 
 En Ambato, un estudiante del Colegio Nacional Bolivar resuelve: 4x + 2 = 22. Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **D)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 1 <!-- feedback: Incorrecto. 1 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 8 <!-- feedback: Incorrecto. 8 -->
 
 **Explicacion:** Se resta 2 de ambos lados. Luego se divide por 4: x = 5.
 
 ---
-## Pregunta 6 [D4]
+## Question 6 [D4]
 **ID:** `EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando ecosistemas ecuador.
 
@@ -136,21 +149,22 @@ En Ambato, un estudiante del Colegio Nacional Bolivar resuelve: 4x + 2 = 22. Cua
 Simplifique: (5)(11x + 29)
 
 ### Opciones
-- [x] **A)** 55x + 145
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 55x + 29
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 16x + 145
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 55x - 145
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 55x + 145 <!-- feedback: Correcto! 55x + 145 -->
+
+- [ ] B) 55x + 29 <!-- feedback: Incorrecto. 55x + 29 -->
+
+- [ ] C) 16x + 145 <!-- feedback: Incorrecto. 16x + 145 -->
+
+- [ ] D) 55x - 145 <!-- feedback: Incorrecto. 55x - 145 -->
 
 **Explicacion:** Aplicar distributiva: (5)(11x + 29) = 55x + 145.
 
 ---
-## Pregunta 7 [D3]
+## Question 7 [D3]
 **ID:** `EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando ecosistemas ecuador.
 
@@ -158,21 +172,22 @@ Simplifique: (5)(11x + 29)
 Resuelve: 2(x + 4) = 14
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [ ] C) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] D) 3 <!-- feedback: Incorrecto. 3 -->
 
 **Explicacion:** 2(x+4) = 14 -> x+4 = 7 -> x = 3.
 
 ---
-## Pregunta 8 [D4]
+## Question 8 [D4]
 **ID:** `EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando ecosistemas ecuador.
 
@@ -180,21 +195,22 @@ Resuelve: 2(x + 4) = 14
 Maria compro 2 cuadernos a $6.4 c/u en Ibarra. Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $12.4
-  <!-- feedback: Correcto! -->
-- [ ] **B)** $2.4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $6.4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $8.4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $12.4 <!-- feedback: Correcto! $12.4 -->
+
+- [ ] B) $2.4 <!-- feedback: Incorrecto. $2.4 -->
+
+- [ ] C) $6.4 <!-- feedback: Incorrecto. $6.4 -->
+
+- [ ] D) $8.4 <!-- feedback: Incorrecto. $8.4 -->
 
 **Explicacion:** Total = 2 x 6 = $12.4.
 
 ---
-## Pregunta 9 [D5]
+## Question 9 [D5]
 **ID:** `EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando ecosistemas ecuador.
 
@@ -202,21 +218,22 @@ Maria compro 2 cuadernos a $6.4 c/u en Ibarra. Cuanto gasto?
 Un estudiante de Colegio Nacional Olmedo en Portoviejo grafica f(x) = 2x + 2. Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 2
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 2 <!-- feedback: Correcto! 2 -->
+
+- [ ] B) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] C) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [ ] D) 1 <!-- feedback: Incorrecto. 1 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 2.
 
 ---
-## Pregunta 10 [D3]
+## Question 10 [D3]
 **ID:** `EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando ecosistemas ecuador.
 
@@ -224,21 +241,22 @@ Un estudiante de Colegio Nacional Olmedo en Portoviejo grafica f(x) = 2x + 2. Cu
 En Portoviejo, un estudiante del Colegio Nacional Olmedo resuelve: 8x + 2 = 42. Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **D)** 10
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] B) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 10 <!-- feedback: Incorrecto. 10 -->
 
 **Explicacion:** Se resta 2 de ambos lados. Luego se divide por 8: x = 5.
 
 ---
-## Pregunta 11 [D4]
+## Question 11 [D4]
 **ID:** `EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY-v11`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando ecosistemas ecuador.
 
@@ -246,21 +264,22 @@ En Portoviejo, un estudiante del Colegio Nacional Olmedo resuelve: 8x + 2 = 42. 
 Simplifique: (7)(3x + 38)
 
 ### Opciones
-- [x] **A)** 21x + 266
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 21x + 38
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 10x + 266
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 21x - 266
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 21x + 266 <!-- feedback: Correcto! 21x + 266 -->
+
+- [ ] B) 21x + 38 <!-- feedback: Incorrecto. 21x + 38 -->
+
+- [ ] C) 10x + 266 <!-- feedback: Incorrecto. 10x + 266 -->
+
+- [ ] D) 21x - 266 <!-- feedback: Incorrecto. 21x - 266 -->
 
 **Explicacion:** Aplicar distributiva: (7)(3x + 38) = 21x + 266.
 
 ---
-## Pregunta 12 [D3]
+## Question 12 [D3]
 **ID:** `EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY-v12`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando ecosistemas ecuador.
 
@@ -268,21 +287,22 @@ Simplifique: (7)(3x + 38)
 Resuelve: 2(x + 4) = 14
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [ ] C) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] D) 3 <!-- feedback: Incorrecto. 3 -->
 
 **Explicacion:** 2(x+4) = 14 -> x+4 = 7 -> x = 3.
 
 ---
-## Pregunta 13 [D4]
+## Question 13 [D4]
 **ID:** `EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY-v13`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando ecosistemas ecuador.
 
@@ -290,21 +310,22 @@ Resuelve: 2(x + 4) = 14
 Maria compro 7 cuadernos a $5.2 c/u en Santo Domingo. Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $35.2
-  <!-- feedback: Correcto! -->
-- [ ] **B)** $7.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $5.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $12.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $35.2 <!-- feedback: Correcto! $35.2 -->
+
+- [ ] B) $7.2 <!-- feedback: Incorrecto. $7.2 -->
+
+- [ ] C) $5.2 <!-- feedback: Incorrecto. $5.2 -->
+
+- [ ] D) $12.2 <!-- feedback: Incorrecto. $12.2 -->
 
 **Explicacion:** Total = 7 x 5 = $35.2.
 
 ---
-## Pregunta 14 [D5]
+## Question 14 [D5]
 **ID:** `EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY-v14`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando ecosistemas ecuador.
 
@@ -312,21 +333,22 @@ Maria compro 7 cuadernos a $5.2 c/u en Santo Domingo. Cuanto gasto?
 Un estudiante de Colegio Nacional Manta en Manta grafica f(x) = 2x + 8. Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 2
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 10
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 2 <!-- feedback: Correcto! 2 -->
+
+- [ ] B) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] C) 10 <!-- feedback: Incorrecto. 10 -->
+
+- [ ] D) 7 <!-- feedback: Incorrecto. 7 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 2.
 
 ---
-## Pregunta 15 [D3]
+## Question 15 [D3]
 **ID:** `EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY-v15`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando ecosistemas ecuador.
 
@@ -334,21 +356,22 @@ Un estudiante de Colegio Nacional Manta en Manta grafica f(x) = 2x + 8. Cual es 
 En Ibarra, un estudiante del Colegio Nacional Teodoro Gomez de la Torre resuelve: 4x + 4 = 24. Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **D)** 10
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 1 <!-- feedback: Incorrecto. 1 -->
+
+- [ ] B) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 10 <!-- feedback: Incorrecto. 10 -->
 
 **Explicacion:** Se resta 4 de ambos lados. Luego se divide por 4: x = 5.
 
 ---
-## Pregunta 16 [D4]
+## Question 16 [D4]
 **ID:** `EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY-v16`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando ecosistemas ecuador.
 
@@ -356,21 +379,22 @@ En Ibarra, un estudiante del Colegio Nacional Teodoro Gomez de la Torre resuelve
 Simplifique: (5)(4x + 17)
 
 ### Opciones
-- [x] **A)** 20x + 85
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 20x + 17
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 9x + 85
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 20x - 85
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 20x + 85 <!-- feedback: Correcto! 20x + 85 -->
+
+- [ ] B) 20x + 17 <!-- feedback: Incorrecto. 20x + 17 -->
+
+- [ ] C) 9x + 85 <!-- feedback: Incorrecto. 9x + 85 -->
+
+- [ ] D) 20x - 85 <!-- feedback: Incorrecto. 20x - 85 -->
 
 **Explicacion:** Aplicar distributiva: (5)(4x + 17) = 20x + 85.
 
 ---
-## Pregunta 17 [D3]
+## Question 17 [D3]
 **ID:** `EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY-v17`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando ecosistemas ecuador.
 
@@ -378,21 +402,22 @@ Simplifique: (5)(4x + 17)
 Resuelve: 2(x + 6) = 18
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] C) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] D) 5 <!-- feedback: Incorrecto. 5 -->
 
 **Explicacion:** 2(x+6) = 18 -> x+6 = 9 -> x = 3.
 
 ---
-## Pregunta 18 [D4]
+## Question 18 [D4]
 **ID:** `EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY-v18`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando ecosistemas ecuador.
 
@@ -400,21 +425,22 @@ Resuelve: 2(x + 6) = 18
 Maria compro 5 cuadernos a $5.3 c/u en Ibarra. Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $25.3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** $5.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $5.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $10.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $25.3 <!-- feedback: Correcto! $25.3 -->
+
+- [ ] B) $5.3 <!-- feedback: Incorrecto. $5.3 -->
+
+- [ ] C) $5.3 <!-- feedback: Incorrecto. $5.3 -->
+
+- [ ] D) $10.3 <!-- feedback: Incorrecto. $10.3 -->
 
 **Explicacion:** Total = 5 x 5 = $25.3.
 
 ---
-## Pregunta 19 [D5]
+## Question 19 [D5]
 **ID:** `EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY-v19`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando ecosistemas ecuador.
 
@@ -422,21 +448,22 @@ Maria compro 5 cuadernos a $5.3 c/u en Ibarra. Cuanto gasto?
 Un estudiante de Colegio Nacional Manta en Manta grafica f(x) = 2x + 1. Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 2
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 2 <!-- feedback: Correcto! 2 -->
+
+- [ ] B) 1 <!-- feedback: Incorrecto. 1 -->
+
+- [ ] C) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] D) 2 <!-- feedback: Incorrecto. 2 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 2.
 
 ---
-## Pregunta 20 [D3]
+## Question 20 [D3]
 **ID:** `EC-CIE-11-2026-W17-ecosistemas-ecuador-001-MASTERY-v20`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de EC practicando ecosistemas ecuador.
 
@@ -444,14 +471,13 @@ Un estudiante de Colegio Nacional Manta en Manta grafica f(x) = 2x + 1. Cual es 
 En Riobamba, un estudiante del Colegio Nacional Maldonado resuelve: 5x + 5 = 30. Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **D)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] B) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 9 <!-- feedback: Incorrecto. 9 -->
 
 **Explicacion:** Se resta 5 de ambos lados. Luego se divide por 5: x = 5.
 

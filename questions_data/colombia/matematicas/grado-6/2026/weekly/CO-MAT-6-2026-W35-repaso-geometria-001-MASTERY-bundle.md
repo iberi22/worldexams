@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W35-repaso-geometria-001-MASTERY"
+id: "CO-MAT-6-2026-W35-repaso-geometria-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W35 — Repaso de Geometria
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W35-repaso-geometria-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Clasificacion de poligonos
+**Contexto:** Clasificacion de poligonos
 
 ### Enunciado
 ¿Cual de las siguientes figuras tiene 5 lados?
 
-### Options
+### Opciones
 - [ ] A) Cuadrilatero <!-- feedback: Incorrect. Un cuadrilatero tiene 4 lados (cuadrado, rectangulo, rombo, trapecio). -->
 - [ ] B) Hexagono <!-- feedback: Incorrect. Un hexagono tiene 6 lados. El prefijo "hexa" significa seis. -->
 - [x] C) Pentagono <!-- feedback: Correct. Un pentagono es un poligono de 5 lados. "Penta" significa cinco en griego. -->
@@ -48,13 +51,14 @@ Los poligonos se nombran segun su numero de lados: triangulo (3), cuadrilatero (
 
 **ID:** `CO-MAT-6-2026-W35-repaso-geometria-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Formula del perimetro del rectangulo
+**Contexto:** Formula del perimetro del rectangulo
 
 ### Enunciado
 Un lote en un barrio de Barranquilla mide 15 m de frente y 25 m de fondo. ¿Cuanto alambre se necesita para cercarlo completamente?
 
-### Options
+### Opciones
 - [ ] A) 40 m <!-- feedback: Incorrect. Se sumaron solo frente + fondo = 15 + 25 = 40, que es media vuelta. -->
 - [x] B) 80 m <!-- feedback: Correct. Perimetro = 2 × (15 + 25) = 2 × 40 = 80 m. -->
 - [ ] C) 375 m <!-- feedback: Incorrect. Se calculo el area (15 × 25 = 375), no el perimetro. -->
@@ -69,13 +73,14 @@ El perimetro de un rectangulo es la suma de todos sus lados: P = 2 × (largo + a
 
 **ID:** `CO-MAT-6-2026-W35-repaso-geometria-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Area de figuras compuestas
+**Contexto:** Area de figuras compuestas
 
 ### Enunciado
 Un mural en un colegio de Pasto tiene forma de rectangulo de 3 m × 2 m con un triangulo en la parte superior de 3 m de base y 1 m de altura. ¿Cual es el area total del mural?
 
-### Options
+### Opciones
 - [ ] A) 6 m² <!-- feedback: Incorrect. Solo se calculo el area del rectangulo (3 × 2 = 6), olvidando el triangulo. -->
 - [x] B) 7.5 m² <!-- feedback: Correct. Rectangulo: 3 × 2 = 6 m². Triangulo: (3 × 1) ÷ 2 = 1.5 m². Total: 6 + 1.5 = 7.5 m². -->
 - [ ] C) 9 m² <!-- feedback: Incorrect. Se sumo 3 + 2 + 3 + 1 = 9, confundiendo medidas con sumas. -->
@@ -93,13 +98,14 @@ La figura compuesta se descompone en dos figuras simples:
 
 **ID:** `CO-MAT-6-2026-W35-repaso-geometria-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Volumen de un contenedor
+**Contexto:** Volumen de un contenedor
 
 ### Enunciado
 Un contenedor de carga en el puerto de Buenaventura mide 6 m de largo, 2.5 m de ancho y 2.5 m de alto. ¿Cual es su volumen?
 
-### Options
+### Opciones
 - [ ] A) 15 m³ <!-- feedback: Incorrect. Se multiplico 6 × 2.5 = 15, olvidando la tercera dimension (alto). -->
 - [ ] B) 11 m³ <!-- feedback: Incorrect. Se sumaron las dimensiones: 6 + 2.5 + 2.5 = 11. -->
 - [x] C) 37.5 m³ <!-- feedback: Correct. V = 6 × 2.5 × 2.5 = 6 × 6.25 = 37.5 m³. -->
@@ -114,13 +120,14 @@ Volumen de un prisma rectangular: V = largo × ancho × alto = 6 × 2.5 × 2.5. 
 
 **ID:** `CO-MAT-6-2026-W35-repaso-geometria-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Circulo en un parque
+**Contexto:** Circulo en un parque
 
 ### Enunciado
 Un parque infantil en Ibagu tiene una zona de juegos circular de 5 m de radio. Quieren poner cesped en toda la zona. ¿Cuantos metros cuadrados de cesped necesitan? (Usa π = 3.14)
 
-### Options
+### Opciones
 - [ ] A) 31.4 m² <!-- feedback: Incorrect. Se calculo 3.14 × 10 = 31.4, confundiendo con la circunferencia (perimetro). -->
 - [ ] B) 15.7 m² <!-- feedback: Incorrect. Se calculo π × r = 3.14 × 5 = 15.7, olvidando elevar al cuadrado. -->
 - [x] C) 78.5 m² <!-- feedback: Correct. A = π × r² = 3.14 × 25 = 78.5 m². -->
@@ -135,13 +142,14 @@ Area del circulo: A = π × r² = 3.14 × 5² = 3.14 × 25 = 78.5 m². Se necesi
 
 **ID:** `CO-MAT-6-2026-W35-repaso-geometria-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Mosaico hexagonal
+**Contexto:** Mosaico hexagonal
 
 ### Enunciado
 Un artesano en la Guajira fabrica mosaicos con forma de hexagono regular. Cada mosaico se puede dividir en 6 triangulos equilateros de 4 cm de base y 3.5 cm de altura cada uno. ¿Cual es el area de un mosaico?
 
-### Options
+### Opciones
 - [ ] A) 42 cm² <!-- feedback: Correct. Area de cada triangulo = (4 × 3.5) ÷ 2 = 7 cm². 6 triangulos × 7 cm² = 42 cm². -->
 - [x] B) 42 cm² <!-- feedback: Correct. Area de cada triangulo = (4 × 3.5) ÷ 2 = 7 cm². 6 triangulos × 7 cm² = 42 cm². -->
 - [ ] C) 84 cm² <!-- feedback: Incorrect. Se calculo el area de cada triangulo sin dividir entre 2: 4 × 3.5 = 14 cm²; 14 × 6 = 84 cm². -->
@@ -158,13 +166,14 @@ Area total del hexagono: 6 × 7 = 42 cm².
 
 **ID:** `CO-MAT-6-2026-W35-repaso-geometria-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Capacidad de un poceta
+**Contexto:** Capacidad de un poceta
 
 ### Enunciado
 Una poceta de forma cilindrica en una vereda de Boyaca tiene radio de 4 m y profundidad de 3 m. ¿Cuantos litros de agua puede almacenar? (1 m³ = 1,000 L, π = 3.14)
 
-### Options
+### Opciones
 - [ ] A) 37,680 L <!-- feedback: Incorrect. Se calculo como cono en vez de cilindro: (3.14 × 16 × 3) ÷ 3 = 50.24, 50.24 × 1000 = 50,240 L, pero dio otro valor. -->
 - [x] B) 150,720 L <!-- feedback: Correct. V = 3.14 × 16 × 3 = 150.72 m³. En litros: 150.72 × 1,000 = 150,720 L. -->
 - [ ] C) 50,240 L <!-- feedback: Incorrect. Se calculo el volumen del cono en vez del cilindro: (3.14 × 16 × 3) ÷ 3 = 50.24 m³ = 50,240 L. -->
@@ -179,8 +188,9 @@ Volumen del cilindro: V = π × r² × h = 3.14 × 16 × 3 = 150.72 m³. Convers
 
 **ID:** `CO-MAT-6-2026-W35-repaso-geometria-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Comparacion de envases
+**Contexto:** Comparacion de envases
 
 ### Enunciado
 Una fabrica de yogurt en Colombia vende dos presentaciones:
@@ -189,7 +199,7 @@ Una fabrica de yogurt en Colombia vende dos presentaciones:
 
 ¿Que envase tiene mayor volumen y por cuanto?
 
-### Options
+### Opciones
 - [ ] A) Envase A, por 17.6 cm³ <!-- feedback: Correct. Envase A: 8 × 6 × 10 = 480 cm³. Envase B: 3.14 × 16 × 10 = 502.4 cm³. Envase B es mayor por 22.4 cm³. Recalculando: 502.4 - 480 = 22.4. -->
 - [x] B) Envase B, por 22.4 cm³ <!-- feedback: Correct. Envase A = 480 cm³. Envase B = 3.14 × 16 × 10 = 502.4 cm³. Diferencia = 502.4 - 480 = 22.4 cm³. -->
 - [ ] C) Envase A, por 20 cm³ <!-- feedback: Incorrect. Envase A = 480, no es mayor que 502.4. -->
@@ -207,13 +217,14 @@ El envase cilindrico (B) tiene 22.4 cm³ mas de capacidad que el prisma rectangu
 
 **ID:** `CO-MAT-6-2026-W35-repaso-geometria-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Conversion de unidades de area
+**Contexto:** Conversion de unidades de area
 
 ### Enunciado
 Un lote en Bogota tiene un area de 0.5 hectareas. Si 1 hectarea = 10,000 m², ¿cuantos metros cuadrados tiene el lote?
 
-### Options
+### Opciones
 - [ ] A) 500 m² <!-- feedback: Incorrect. Se multiplico 0.5 × 1,000 = 500, usando 1,000 en vez de 10,000. -->
 - [x] B) 5,000 m² <!-- feedback: Correct. 0.5 × 10,000 = 5,000 m². -->
 - [ ] C) 50,000 m² <!-- feedback: Incorrect. Se multiplico 0.5 × 100,000 = 50,000, confundiendo la conversion. -->
@@ -228,13 +239,14 @@ La hectarea es una unidad de area comunmente usada para terrenos. 1 ha = 10,000 
 
 **ID:** `CO-MAT-6-2026-W35-repaso-geometria-010-v1`
 **Bloom:** Synthesize
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Diseno de una jardinera
+**Contexto:** Diseno de una jardinera
 
 ### Enunciado
 Don Pedro quiere construir una jardinera en su casa de Medellin con la siguiente forma: un semicirculo de radio 2 m unido a un rectangulo de 4 m de largo y 2 m de ancho (el diametro del semicirculo coincide con el ancho del rectangulo). Ademas, quiere cubrir el fondo con tierra de 30 cm de profundidad. ¿Cuantos metros cubicos de tierra necesita? (Usa π = 3.14)
 
-### Options
+### Opciones
 - [ ] A) 4.284 m³ <!-- feedback: Correct. Area de la base: rectangulo 4 × 2 = 8 m². Semicirculo: (3.14 × 4) ÷ 2 = 6.28 m². Area total: 14.28 m². Volumen con profundidad 0.3 m: 14.28 × 0.3 = 4.284 m³. -->
 - [x] B) 4.284 m³ <!-- feedback: Correct. Area base: rectangulo 4 × 2 = 8 m². Semicirculo: (3.14 × 4) ÷ 2 = 6.28 m². Total area = 14.28 m². Volumen = 14.28 × 0.3 = 4.284 m³. -->
 - [ ] C) 14.28 m³ <!-- feedback: Incorrect. Se calculo solo el area de la base (14.28 m²), sin multiplicar por la profundidad de tierra. -->

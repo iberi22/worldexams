@@ -1,10 +1,10 @@
 ---
-id: "CO-MAT-8-2026-W34-eventos-excluyentes-001-MASTERY"
+id: "CO-MAT-8-2026-W34-eventos-excluyentes-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "matematicas"
 tema: "eventos-excluyentes"
-semana: "W34"
+week: "W34"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -15,7 +15,12 @@ distractor_profile: "plausible_peer_set"
 rubric_baseline: "Eventos excluyentes - Grado 8 - matematicas"
 license: "FREE"
 
+bundle_type: "weekly"
+total_questions: 12
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Eventos excluyentes - Grado 8
 
@@ -25,252 +30,264 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ---
 
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 **ID:** `CO-MAT-8-2026-W34-eventos-excluyentes-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comunicación
 **Expected_Success:** 0.92
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 En Bogotá, un estudiante registró edades: 12, 13, 14, 12, 13, 14, 15. Calcula la media.
 
 ### Opciones
-- [x] A) 13
-  <!-- feedback: Ok -->
-- [ ] B) 14
-- [ ] C) 12
-- [ ] D) 15
+- [x] A) 13 <!-- feedback: Correcto! 13 -->
+
+- [ ] B) 14 <!-- feedback: Incorrecto. 14 -->
+- [ ] C) 12 <!-- feedback: Incorrecto. 12 -->
+- [ ] D) 15 <!-- feedback: Incorrecto. 15 -->
 
 ### Explicación Pedagógica
 Media = suma/cantidad
 
 ---
 
-## Pregunta 2 [D2]
+## Question 2 [D2]
 **ID:** `CO-MAT-8-2026-W34-eventos-excluyentes-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Solución de Problemas
 **Expected_Success:** 0.9
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Un triángulo rectángulo tiene catetos 3 y 4. ¿Hipotenusa?
 
 ### Opciones
-- [x] A) 5
-  <!-- feedback: √(9+16)=5 -->
-- [ ] B) 6
-- [ ] C) 7
-- [ ] D) 25
+- [x] A) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+- [ ] C) 7 <!-- feedback: Incorrecto. 7 -->
+- [ ] D) 25 <!-- feedback: Incorrecto. 25 -->
 
 ### Explicación Pedagógica
 Teorema de Pitágoras
 
 ---
 
-## Pregunta 3 [D3]
+## Question 3 [D3]
 **ID:** `CO-MAT-8-2026-W34-eventos-excluyentes-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Razonamiento
 **Expected_Success:** 0.87
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Si f(x)=2x+3, ¿cuánto es f(4)?
 
 ### Opciones
-- [x] A) 11
-  <!-- feedback: 2(4)+3=11 -->
-- [ ] B) 8
-- [ ] C) 7
-- [ ] D) 14
+- [x] A) 11 <!-- feedback: Correcto! 11 -->
+
+- [ ] B) 8 <!-- feedback: Incorrecto. 8 -->
+- [ ] C) 7 <!-- feedback: Incorrecto. 7 -->
+- [ ] D) 14 <!-- feedback: Incorrecto. 14 -->
 
 ### Explicación Pedagógica
 Sustituir x por 4
 
 ---
 
-## Pregunta 4 [D3]
+## Question 4 [D3]
 **ID:** `CO-MAT-8-2026-W34-eventos-excluyentes-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Comunicación
 **Expected_Success:** 0.84
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es el valor de √144?
 
 ### Opciones
-- [x] A) 12
-  <!-- feedback: 12×12=144 -->
-- [ ] B) 14
-- [ ] C) 11
-- [ ] D) 13
+- [x] A) 12 <!-- feedback: Correcto! 12 -->
+
+- [ ] B) 14 <!-- feedback: Incorrecto. 14 -->
+- [ ] C) 11 <!-- feedback: Incorrecto. 11 -->
+- [ ] D) 13 <!-- feedback: Incorrecto. 13 -->
 
 ### Explicación Pedagógica
 Raíz cuadrada de 144
 
 ---
 
-## Pregunta 5 [D4]
+## Question 5 [D4]
 **ID:** `CO-MAT-8-2026-W34-eventos-excluyentes-001-MASTERY-v5`
 **Bloom:** Evaluate
 **ICFES:** Solución de Problemas
 **Expected_Success:** 0.82
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 En Bogotá, un estudiante registró edades: 12, 13, 14, 12, 13, 14, 15. Calcula la media.
 
 ### Opciones
-- [x] A) 13
-  <!-- feedback: Ok -->
-- [ ] B) 14
-- [ ] C) 12
-- [ ] D) 15
+- [x] A) 13 <!-- feedback: Correcto! 13 -->
+
+- [ ] B) 14 <!-- feedback: Incorrecto. 14 -->
+- [ ] C) 12 <!-- feedback: Incorrecto. 12 -->
+- [ ] D) 15 <!-- feedback: Incorrecto. 15 -->
 
 ### Explicación Pedagógica
 Media = suma/cantidad
 
 ---
 
-## Pregunta 6 [D4]
+## Question 6 [D4]
 **ID:** `CO-MAT-8-2026-W34-eventos-excluyentes-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Razonamiento
 **Expected_Success:** 0.8
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Un triángulo rectángulo tiene catetos 3 y 4. ¿Hipotenusa?
 
 ### Opciones
-- [x] A) 5
-  <!-- feedback: √(9+16)=5 -->
-- [ ] B) 6
-- [ ] C) 7
-- [ ] D) 25
+- [x] A) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+- [ ] C) 7 <!-- feedback: Incorrecto. 7 -->
+- [ ] D) 25 <!-- feedback: Incorrecto. 25 -->
 
 ### Explicación Pedagógica
 Teorema de Pitágoras
 
 ---
 
-## Pregunta 7 [D5]
+## Question 7 [D5]
 **ID:** `CO-MAT-8-2026-W34-eventos-excluyentes-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Comunicación
 **Expected_Success:** 0.77
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Si f(x)=2x+3, ¿cuánto es f(4)?
 
 ### Opciones
-- [x] A) 11
-  <!-- feedback: 2(4)+3=11 -->
-- [ ] B) 8
-- [ ] C) 7
-- [ ] D) 14
+- [x] A) 11 <!-- feedback: Correcto! 11 -->
+
+- [ ] B) 8 <!-- feedback: Incorrecto. 8 -->
+- [ ] C) 7 <!-- feedback: Incorrecto. 7 -->
+- [ ] D) 14 <!-- feedback: Incorrecto. 14 -->
 
 ### Explicación Pedagógica
 Sustituir x por 4
 
 ---
 
-## Pregunta 8 [D4-D5]
+## Question 8 [D4-D5]
 **ID:** `CO-MAT-8-2026-W34-eventos-excluyentes-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Solución de Problemas
 **Expected_Success:** 0.74
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es el valor de √144?
 
 ### Opciones
-- [x] A) 12
-  <!-- feedback: 12×12=144 -->
-- [ ] B) 14
-- [ ] C) 11
-- [ ] D) 13
+- [x] A) 12 <!-- feedback: Correcto! 12 -->
+
+- [ ] B) 14 <!-- feedback: Incorrecto. 14 -->
+- [ ] C) 11 <!-- feedback: Incorrecto. 11 -->
+- [ ] D) 13 <!-- feedback: Incorrecto. 13 -->
 
 ### Explicación Pedagógica
 Raíz cuadrada de 144
 
 ---
 
-## Pregunta 9 [D2-D3]
+## Question 9 [D2-D3]
 **ID:** `CO-MAT-8-2026-W34-eventos-excluyentes-001-MASTERY-v9`
 **Bloom:** Remember
 **ICFES:** Razonamiento
 **Expected_Success:** 0.72
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 En Bogotá, un estudiante registró edades: 12, 13, 14, 12, 13, 14, 15. Calcula la media.
 
 ### Opciones
-- [x] A) 13
-  <!-- feedback: Ok -->
-- [ ] B) 14
-- [ ] C) 12
-- [ ] D) 15
+- [x] A) 13 <!-- feedback: Correcto! 13 -->
+
+- [ ] B) 14 <!-- feedback: Incorrecto. 14 -->
+- [ ] C) 12 <!-- feedback: Incorrecto. 12 -->
+- [ ] D) 15 <!-- feedback: Incorrecto. 15 -->
 
 ### Explicación Pedagógica
 Media = suma/cantidad
 
 ---
 
-## Pregunta 10 [D3-D4]
+## Question 10 [D3-D4]
 **ID:** `CO-MAT-8-2026-W34-eventos-excluyentes-001-MASTERY-v10`
 **Bloom:** Understand
 **ICFES:** Comunicación
 **Expected_Success:** 0.7
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Un triángulo rectángulo tiene catetos 3 y 4. ¿Hipotenusa?
 
 ### Opciones
-- [x] A) 5
-  <!-- feedback: √(9+16)=5 -->
-- [ ] B) 6
-- [ ] C) 7
-- [ ] D) 25
+- [x] A) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+- [ ] C) 7 <!-- feedback: Incorrecto. 7 -->
+- [ ] D) 25 <!-- feedback: Incorrecto. 25 -->
 
 ### Explicación Pedagógica
 Teorema de Pitágoras
 
 ---
 
-## Pregunta 11 [D5]
+## Question 11 [D5]
 **ID:** `CO-MAT-8-2026-W34-eventos-excluyentes-001-MASTERY-v11`
 **Bloom:** Apply
 **ICFES:** Solución de Problemas
 **Expected_Success:** 0.67
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Si f(x)=2x+3, ¿cuánto es f(4)?
 
 ### Opciones
-- [x] A) 11
-  <!-- feedback: 2(4)+3=11 -->
-- [ ] B) 8
-- [ ] C) 7
-- [ ] D) 14
+- [x] A) 11 <!-- feedback: Correcto! 11 -->
+
+- [ ] B) 8 <!-- feedback: Incorrecto. 8 -->
+- [ ] C) 7 <!-- feedback: Incorrecto. 7 -->
+- [ ] D) 14 <!-- feedback: Incorrecto. 14 -->
 
 ### Explicación Pedagógica
 Sustituir x por 4
 
 ---
 
-## Pregunta 12 [D4-D5]
+## Question 12 [D4-D5]
 **ID:** `CO-MAT-8-2026-W34-eventos-excluyentes-001-MASTERY-v12`
 **Bloom:** Analyze
 **ICFES:** Razonamiento
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es el valor de √144?
 
 ### Opciones
-- [x] A) 12
-  <!-- feedback: 12×12=144 -->
-- [ ] B) 14
-- [ ] C) 11
-- [ ] D) 13
+- [x] A) 12 <!-- feedback: Correcto! 12 -->
+
+- [ ] B) 14 <!-- feedback: Incorrecto. 14 -->
+- [ ] C) 11 <!-- feedback: Incorrecto. 11 -->
+- [ ] D) 13 <!-- feedback: Incorrecto. 13 -->
 
 ### Explicación Pedagógica
 Raíz cuadrada de 144

@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-9-2026-P1-comprehensive-001-MASTERY"
+id: "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 9
 asignatura: "lectura-critica"
@@ -19,7 +19,12 @@ rubric_baseline: "estructura del ensayo, textos filosóficos básicos, pensamien
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Introducción al Ensayo y Textos Filosóficos
 
@@ -31,13 +36,14 @@ Este bundle cubre la estructura del ensayo, los textos filosóficos fundamentale
 
 **ID:** `CO-LC-9-2026-P1-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** En clase de lenguaje en Bogotá, la profesora explica la estructura del ensayo.
+**Contexto:** En clase de lenguaje en Bogotá, la profesora explica la estructura del ensayo.
 
 ### Enunciado
 ¿Cuáles son las tres partes fundamentales de un ensayo?
 
-### Options
+### Opciones
 - [ ] A) Sujeto, verbo y predicado <!-- feedback: Incorrect. Esos son elementos de la oración, no del ensayo. -->
 - [x] B) Introducción, desarrollo (cuerpo argumentativo) y conclusión <!-- feedback: Correct. El ensayo tiene una estructura de tres partes: introduce el tema, lo desarrolla argumentativamente y cierra con una conclusión. -->
 - [ ] C) Planteamiento, nudo y desenlace <!-- feedback: Incorrect. Esa es la estructura de la narración, no del ensayo. -->
@@ -52,13 +58,14 @@ El ensayo es un texto argumentativo breve donde el autor expone su punto de vist
 
 **ID:** `CO-LC-9-2026-P1-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Se estudian las principales corrientes filosóficas de la antigüedad.
+**Contexto:** Se estudian las principales corrientes filosóficas de la antigüedad.
 
 ### Enunciado
 ¿Quién fue el filósofo griego que desarrolló el método de la mayéutica (diálogo para llegar a la verdad)?
 
-### Options
+### Opciones
 - [ ] A) Aristóteles <!-- feedback: Incorrect. Aristóteles desarrolló la lógica formal, no la mayéutica. -->
 - [x] B) Sócrates <!-- feedback: Correct. Sócrates usaba el diálogo y la mayéutica para hacer que sus interlocutores descubrieran la verdad por sí mismos. -->
 - [ ] C) Platón <!-- feedback: Incorrect. Platón escribió los diálogos socráticos pero el método mayéutico es de Sócrates. -->
@@ -73,13 +80,14 @@ Sócrates (470-399 a.C.) no escribió libros, pero su método de enseñanza (may
 
 **ID:** `CO-LC-9-2026-P1-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Un estudiante lee el siguiente fragmento: "El hombre es un ser social por naturaleza. Quien vive aislado no es ni un animal ni un dios, sino una bestia o una divinidad."
+**Contexto:** Un estudiante lee el siguiente fragmento: "El hombre es un ser social por naturaleza. Quien vive aislado no es ni un animal ni un dios, sino una bestia o una divinidad."
 
 ### Enunciado
 Según el texto, ¿qué implica que el ser humano sea "social por naturaleza"?
 
-### Options
+### Opciones
 - [ ] A) Que puede elegir si vivir en sociedad o no. <!-- feedback: Incorrect. "Por naturaleza" implica que no es opcional. -->
 - [x] B) Que la sociabilidad es inherente al ser humano, no puede desarrollarse plenamente fuera de la sociedad. <!-- feedback: Correct. La frase sugiere que la vida en sociedad es esencial para la realización humana. -->
 - [ ] C) Que todos los humanos son iguales en sociedad. <!-- feedback: Incorrect. El texto no habla de igualdad. -->
@@ -94,13 +102,14 @@ Aristóteles afirmó en su "Política" que el ser humano es un "animal político
 
 **ID:** `CO-LC-9-2026-P1-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Se analiza un ensayo corto sobre el impacto de las redes sociales. El autor afirma en la introducción: "Las redes sociales han transformado la comunicación, pero también han generado nuevas formas de aislamiento social."
+**Contexto:** Se analiza un ensayo corto sobre el impacto de las redes sociales. El autor afirma en la introducción: "Las redes sociales han transformado la comunicación, pero también han generado nuevas formas de aislamiento social."
 
 ### Enunciado
 ¿Cuál es la tesis del ensayo?
 
-### Options
+### Opciones
 - [ ] A) Las redes sociales son malas y deben eliminarse <!-- feedback: Incorrect. La tesis es más matizada. -->
 - [ ] B) Las redes sociales solo tienen efectos positivos <!-- feedback: Incorrect. La tesis menciona también aspectos negativos. -->
 - [x] C) Las redes sociales han transformado la comunicación pero también generan aislamiento <!-- feedback: Correct. La tesis presenta una postura equilibrada: reconoce beneficios y problemas. -->
@@ -115,13 +124,14 @@ La tesis es la idea principal que el autor defiende en un ensayo. Se presenta ge
 
 **ID:** `CO-LC-9-2026-P1-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Un estudiante debe escribir un ensayo sobre el cuidado del medio ambiente en Colombia.
+**Contexto:** Un estudiante debe escribir un ensayo sobre el cuidado del medio ambiente en Colombia.
 
 ### Enunciado
 ¿Cuál de las siguientes sería una tesis adecuada para este ensayo?
 
-### Options
+### Opciones
 - [ ] A) "El medio ambiente es importante." <!-- feedback: Incorrect. Es muy general y no es debatible. -->
 - [ ] B) "Colombia es un país con mucha agua." <!-- feedback: Incorrect. Es un hecho, no una tesis argumentativa. -->
 - [x] C) "La deforestación en la Amazonía colombiana requiere políticas más estrictas y una mayor participación de las comunidades indígenas para ser detenida." <!-- feedback: Correct. Es específica, debatible y plantea una postura clara que se puede argumentar. -->
@@ -136,13 +146,14 @@ Una tesis efectiva debe ser: 1) Específica (no general), 2) Debatible (no un he
 
 **ID:** `CO-LC-9-2026-P1-comprehensive-001-MASTERY-v6`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Se lee un fragmento del "Mito de la Caverna" de Platón, donde unos prisioneros solo ven sombras en una pared y creen que esa es la realidad.
+**Contexto:** Se lee un fragmento del "Mito de la Caverna" de Platón, donde unos prisioneros solo ven sombras en una pared y creen que esa es la realidad.
 
 ### Enunciado
 ¿Qué representa el "Mito de la Caverna" de Platón?
 
-### Options
+### Opciones
 - [ ] A) Que el conocimiento verdadero se obtiene solo a través de los sentidos <!-- feedback: Incorrect. Platón criticaba el conocimiento basado solo en sentidos. -->
 - [x] B) La diferencia entre la apariencia (mundo sensible) y la realidad verdadera (mundo de las Ideas), y el proceso de acceder al conocimiento auténtico <!-- feedback: Correct. La caverna representa el mundo de las apariencias; salir de ella, el camino hacia el conocimiento verdadero. -->
 - [ ] C) Que es mejor permanecer en la ignorancia porque la verdad duele <!-- feedback: Incorrect. Platón defendía la búsqueda de la verdad. -->
@@ -157,13 +168,14 @@ El Mito de la Caverna (Libro VII de "La República") es una alegoría sobre el c
 
 **ID:** `CO-LC-9-2026-P1-comprehensive-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento crítico
-**Context:** Se presenta un argumento: "Todos los estudiantes de noveno grado deben usar uniforme. María es estudiante de noveno grado. Por lo tanto, María debe usar uniforme."
+**Contexto:** Se presenta un argumento: "Todos los estudiantes de noveno grado deben usar uniforme. María es estudiante de noveno grado. Por lo tanto, María debe usar uniforme."
 
 ### Enunciado
 ¿Qué tipo de razonamiento se emplea en este argumento?
 
-### Options
+### Opciones
 - [ ] A) Razonamiento inductivo (de lo particular a lo general) <!-- feedback: Incorrect. Va de lo general a lo particular. -->
 - [x] B) Razonamiento deductivo (silogismo: de una premisa general a una conclusión particular) <!-- feedback: Correct. Es un silogismo clásico: premisa mayor, premisa menor y conclusión. -->
 - [ ] C) Razonamiento analógico (comparación) <!-- feedback: Incorrect. No hay comparación entre dos casos. -->
@@ -178,13 +190,14 @@ El razonamiento deductivo va de lo general a lo particular. El silogismo fue des
 
 **ID:** `CO-LC-9-2026-P1-comprehensive-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Un ensayo argumenta que "la tecnología está destruyendo la capacidad de concentración de los jóvenes." Como evidencia, el autor cita un estudio que muestra que los jóvenes pasan 6 horas diarias en redes sociales.
+**Contexto:** Un ensayo argumenta que "la tecnología está destruyendo la capacidad de concentración de los jóvenes." Como evidencia, el autor cita un estudio que muestra que los jóvenes pasan 6 horas diarias en redes sociales.
 
 ### Enunciado
 ¿Qué tipo de evidencia usa el autor y es suficiente para sostener su tesis?
 
-### Options
+### Opciones
 - [ ] A) Evidencia estadística suficiente: 6 horas en redes sociales demuestra falta de concentración <!-- feedback: Incorrect. Las horas en redes no miden directamente la capacidad de concentración. -->
 - [ ] B) Evidencia anecdótica: suficiente porque todos los jóvenes usan tecnología <!-- feedback: Incorrect. Las anécdotas no son evidencia suficiente. -->
 - [x] C) Evidencia estadística, pero insuficiente: correlación no implica causalidad. Las horas en redes no demuestran que la capacidad de concentración haya disminuido. <!-- feedback: Correct. Se necesitaría medir la capacidad de concentración antes y después, no solo el tiempo en redes sociales. -->
@@ -199,13 +212,14 @@ En un ensayo argumentativo, la evidencia debe ser suficiente, pertinente y fiabl
 
 **ID:** `CO-LC-9-2026-P1-comprehensive-001-MASTERY-v9`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento crítico
-**Context:** Se estudia la falacia del "falso dilema": "O estás con nosotros o estás contra nosotros."
+**Contexto:** Se estudia la falacia del "falso dilema": "O estás con nosotros o estás contra nosotros."
 
 ### Enunciado
 ¿En qué consiste la falacia del falso dilema?
 
-### Options
+### Opciones
 - [ ] A) Presentar solo dos opciones cuando existen más alternativas <!-- feedback: Correct. Esta falacia reduce artificialmente las opciones posibles. -->
 - [ ] B) Atacar a la persona que argumenta en lugar de al argumento <!-- feedback: Incorrect. Esa es la falacia ad hominem. -->
 - [ ] C) Repetir una idea muchas veces para que parezca verdadera <!-- feedback: Incorrect. Esa es la falacia de repetición. -->
@@ -220,13 +234,14 @@ Identificar falacias es una habilidad clave del pensamiento crítico. El falso d
 
 **ID:** `CO-LC-9-2026-P1-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento crítico
-**Context:** Un político dice: "No debemos escuchar las críticas de mi oponente porque él fue condenado por evasión de impuestos hace 10 años."
+**Contexto:** Un político dice: "No debemos escuchar las críticas de mi oponente porque él fue condenado por evasión de impuestos hace 10 años."
 
 ### Enunciado
 ¿Qué falacia lógica se está cometiendo?
 
-### Options
+### Opciones
 - [ ] A) Falso dilema <!-- feedback: Incorrect. No se presentan solo dos opciones. -->
 - [ ] B) Petición de principio <!-- feedback: Incorrect. No se asume la conclusión como premisa. -->
 - [x] C) Ad hominem (atacar a la persona en lugar de al argumento) <!-- feedback: Correct. En lugar de refutar la crítica, se ataca al crítico por su pasado. -->
@@ -241,13 +256,14 @@ La falacia ad hominem (literalmente "contra el hombre") ocurre cuando se ataca a
 
 **ID:** `CO-LC-9-2026-P1-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento crítico
-**Context:** Se analiza un texto que dice: "El calentamiento global es un mito. Hace unos días nevó en Bogotá, lo que demuestra que el clima no se está calentando."
+**Contexto:** Se analiza un texto que dice: "El calentamiento global es un mito. Hace unos días nevó en Bogotá, lo que demuestra que el clima no se está calentando."
 
 ### Enunciado
 ¿Qué error de razonamiento contiene este argumento?
 
-### Options
+### Opciones
 - [ ] A) Es un argumento válido científicamente <!-- feedback: Incorrect. La nieve en un lugar no contradice el calentamiento global. -->
 - [x] B) Confunde clima (tendencias a largo plazo) con tiempo meteorológico (eventos locales y cortos). Una nevada local no refuta el calentamiento global. <!-- feedback: Correct. El clima se mide en décadas, el tiempo atmosférico en días. -->
 - [ ] C) Usa evidencia estadística sólida <!-- feedback: Incorrect. Usa una anécdota como si fuera evidencia global. -->
@@ -262,13 +278,14 @@ La falacia de "confundir clima con tiempo" es común en debates sobre cambio cli
 
 **ID:** `CO-LC-9-2026-P1-comprehensive-001-MASTERY-v12`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Se lee: "El filósofo Descartes afirmó 'Pienso, luego existo' (Cogito, ergo sum) como primera certeza indudable."
+**Contexto:** Se lee: "El filósofo Descartes afirmó 'Pienso, luego existo' (Cogito, ergo sum) como primera certeza indudable."
 
 ### Enunciado
 ¿Qué problema buscaba resolver Descartes con esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Demostrar que Dios existe <!-- feedback: Incorrect. Descartes usó el cogito como base, luego demostró a Dios. -->
 - [ ] B) Probar que todo conocimiento es imposible <!-- feedback: Incorrect. Buscaba una base segura para el conocimiento. -->
 - [x] C) Encontrar una verdad indudable a partir de la cual construir todo el conocimiento, después de dudar metódicamente de todo <!-- feedback: Correct. Descartes dudó de todo (duda metódica) hasta encontrar el cogito como primera certeza. -->
@@ -283,13 +300,14 @@ René Descartes (1596-1650), considerado el padre de la filosofía moderna, usó
 
 **ID:** `CO-LC-9-2026-P1-comprehensive-001-MASTERY-v13`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento crítico
-**Context:** Un ensayo concluye: "La educación virtual es superior a la presencial. Esto se demuestra porque durante la pandemia los estudiantes aprendieron desde casa."
+**Contexto:** Un ensayo concluye: "La educación virtual es superior a la presencial. Esto se demuestra porque durante la pandemia los estudiantes aprendieron desde casa."
 
 ### Enunciado
 Evalúe la validez de esta conclusión.
 
-### Options
+### Opciones
 - [ ] A) La conclusión es válida porque la pandemia demostró que se puede aprender desde casa <!-- feedback: Incorrect. Sobrevivir no equivale a superioridad. -->
 - [ ] B) La conclusión es válida porque hay evidencia estadística <!-- feedback: Incorrect. No se presentan estadísticas comparativas. -->
 - [x] C) La conclusión no es válida. La pandemia fue una situación de emergencia, no un experimento controlado. Además, "aprender desde casa" no demuestra que la educación virtual sea superior en calidad. <!-- feedback: Correct. Se necesita evidencia comparativa de resultados de aprendizaje, no solo la factibilidad. -->
@@ -304,13 +322,14 @@ Evaluar argumentos requiere examinar si la evidencia respalda la conclusión. Aq
 
 **ID:** `CO-LC-9-2026-P1-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Se analiza un texto que contiene múltiples argumentos: "Colombia debe invertir más en educación rural porque: 1) reduce la desigualdad, 2) mejora la productividad agrícola, 3) disminuye la migración forzada a las ciudades."
+**Contexto:** Se analiza un texto que contiene múltiples argumentos: "Colombia debe invertir más en educación rural porque: 1) reduce la desigualdad, 2) mejora la productividad agrícola, 3) disminuye la migración forzada a las ciudades."
 
 ### Enunciado
 ¿Qué tipo de estructura argumentativa tiene este texto?
 
-### Options
+### Opciones
 - [ ] A) Estructura narrativa: cuenta una historia sobre la educación rural <!-- feedback: Incorrect. No hay narración de eventos. -->
 - [x] B) Estructura argumentativa múltiple: una tesis respaldada por varias razones independientes (argumentos en paralelo) <!-- feedback: Correct. La tesis se apoya en tres argumentos diferentes que convergen en la misma conclusión. -->
 - [ ] C) Estructura contraargumentativa: presenta y refuta objeciones <!-- feedback: Incorrect. Solo presenta argumentos a favor. -->
@@ -325,13 +344,14 @@ Los textos argumentativos pueden tener diferentes estructuras: argumentación en
 
 **ID:** `CO-LC-9-2026-P1-comprehensive-001-MASTERY-v15`
 **Bloom:** Create
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento crítico
-**Context:** Un estudiante debe escribir un ensayo sobre la pregunta: "¿Es la inteligencia artificial una amenaza para el empleo juvenil en Colombia?" Debe planificar su estructura argumentativa.
+**Contexto:** Un estudiante debe escribir un ensayo sobre la pregunta: "¿Es la inteligencia artificial una amenaza para el empleo juvenil en Colombia?" Debe planificar su estructura argumentativa.
 
 ### Enunciado
 ¿Cuál de los siguientes esquemas representa la mejor estructura para un ensayo argumentativo sobre este tema?
 
-### Options
+### Opciones
 - [ ] A) Introducción (cuento personal), desarrollo (anécdotas), conclusión (opinión) <!-- feedback: Incorrect. Un ensayo académico requiere argumentos, no solo anécdotas. -->
 - [x] B) Introducción (contexto + tesis clara), desarrollo (argumento 1: IA elimina empleos rutinarios, argumento 2: IA crea nuevos empleos tecnológicos, contraargumento y refutación), conclusión (síntesis y postura final) <!-- feedback: Correct. Esta estructura presenta tesis, argumentos, reconoce posiciones contrarias y cierra con una conclusión sólida. -->
 - [ ] C) Solo una lista de ventajas y desventajas sin conclusión <!-- feedback: Incorrect. Un ensayo debe tener una tesis y una conclusión. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY"
+id: "CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 3"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Comunicación no verbal - Grado 3
 
@@ -22,7 +24,7 @@ Este bundle explora las formas de comunicación que no usan palabras: gestos, im
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comunicación Escrita
@@ -33,21 +35,20 @@ Este bundle explora las formas de comunicación que no usan palabras: gestos, im
 ¿Qué mensaje le está enviando la mamá al niño solo con su sonrisa?
 
 ### Opciones
-- [ ] A) Que está muy enojada.
-  <!-- feedback: Una sonrisa no suele indicar enojo. -->
-- [x] B) Que está feliz y orgullosa de él.
-  <!-- feedback: ¡Correcto! La sonrisa es un gesto de alegría y aprobación. -->
-- [ ] C) Que tiene mucha hambre.
-  <!-- feedback: El hambre no se expresa principalmente con una sonrisa. -->
-- [ ] D) Que ya es hora de irse a dormir.
-  <!-- feedback: Esto requeriría otros gestos o palabras. -->
+- [ ] A) Que está muy enojada. <!-- feedback: Incorrecto. Que está muy enojada. -->
+
+- [x] B) Que está feliz y orgullosa de él. <!-- feedback: Correcto! Que está feliz y orgullosa de él. -->
+
+- [ ] C) Que tiene mucha hambre. <!-- feedback: Incorrecto. Que tiene mucha hambre. -->
+
+- [ ] D) Que ya es hora de irse a dormir. <!-- feedback: Incorrecto. Que ya es hora de irse a dormir. -->
 
 ### Explicación Pedagogica
 Los gestos faciales son una forma poderosa de comunicación no verbal que transmite emociones de forma inmediata.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Comunicación Escrita
@@ -58,21 +59,20 @@ Los gestos faciales son una forma poderosa de comunicación no verbal que transm
 En un semáforo, ¿qué significa la luz roja para los conductores?
 
 ### Opciones
-- [ ] A) Que pueden seguir conduciendo rápido.
-  <!-- feedback: No, eso sería peligroso. -->
-- [ ] B) Que deben tener precaución porque va a cambiar.
-  <!-- feedback: Eso lo indica la luz amarilla. -->
-- [x] C) Que deben detenerse por completo.
-  <!-- feedback: ¡Muy bien! El color rojo es una señal universal de "pare". -->
-- [ ] D) Que pueden girar a la izquierda solamente.
-  <!-- feedback: No es el significado general de la luz roja. -->
+- [ ] A) Que pueden seguir conduciendo rápido. <!-- feedback: Incorrecto. Que pueden seguir conduciendo rápido. -->
+
+- [ ] B) Que deben tener precaución porque va a cambiar. <!-- feedback: Incorrecto. Que deben tener precaución porque va a c -->
+
+- [x] C) Que deben detenerse por completo. <!-- feedback: Correcto! Que deben detenerse por completo. -->
+
+- [ ] D) Que pueden girar a la izquierda solamente. <!-- feedback: Incorrecto. Que pueden girar a la izquierda solament -->
 
 ### Explicación Pedagogica
 Los colores se utilizan como códigos visuales en los sistemas de señalización para organizar la convivencia ciudadana.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comunicación Escrita
@@ -83,21 +83,20 @@ Los colores se utilizan como códigos visuales en los sistemas de señalización
 ¿Qué tipo de lenguaje está usando el árbitro para comunicarse con el jugador?
 
 ### Opciones
-- [ ] A) Lenguaje oral.
-  <!-- feedback: El árbitro no está usando palabras en este momento. -->
-- [ ] B) Lenguaje escrito.
-  <!-- feedback: No hay texto escrito en la tarjeta que el jugador deba leer. -->
-- [x] C) Lenguaje visual o por señales.
-  <!-- feedback: ¡Excelente! La tarjeta es un símbolo visual que todos entienden. -->
-- [ ] D) Lenguaje de señas oficial (LSC).
-  <!-- feedback: El LSC es para personas con discapacidad auditiva y es más complejo. -->
+- [ ] A) Lenguaje oral. <!-- feedback: Incorrecto. Lenguaje oral. -->
+
+- [ ] B) Lenguaje escrito. <!-- feedback: Incorrecto. Lenguaje escrito. -->
+
+- [x] C) Lenguaje visual o por señales. <!-- feedback: Correcto! Lenguaje visual o por señales. -->
+
+- [ ] D) Lenguaje de señas oficial (LSC). <!-- feedback: Incorrecto. Lenguaje de señas oficial (LSC). -->
 
 ### Explicación Pedagogica
 El lenguaje visual utiliza símbolos y colores para transmitir mensajes rápidos y claros en situaciones específicas como el deporte.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicación Escrita
@@ -108,21 +107,20 @@ El lenguaje visual utiliza símbolos y colores para transmitir mensajes rápidos
 Si el mimo se pone la mano en la mejilla y cierra los ojos, ¿qué nos está queriendo decir sin hablar?
 
 ### Opciones
-- [ ] A) Que le duele la muela.
-  <!-- feedback: Podría ser, pero cerrar los ojos sugiere otra cosa. -->
-- [x] B) Que tiene sueño o quiere dormir.
-  <!-- feedback: ¡Correcto! Es el gesto universal para representar el sueño. -->
-- [ ] C) Que está escuchando una música lejana.
-  <!-- feedback: Para eso se pondría la mano detrás de la oreja. -->
-- [ ] D) Que está pensando en la tarea de matemáticas.
-  <!-- feedback: El gesto de pensar suele ser diferente. -->
+- [ ] A) Que le duele la muela. <!-- feedback: Incorrecto. Que le duele la muela. -->
+
+- [x] B) Que tiene sueño o quiere dormir. <!-- feedback: Correcto! Que tiene sueño o quiere dormir. -->
+
+- [ ] C) Que está escuchando una música lejana. <!-- feedback: Incorrecto. Que está escuchando una música lejana. -->
+
+- [ ] D) Que está pensando en la tarea de matemáticas. <!-- feedback: Incorrecto. Que está pensando en la tarea de matemát -->
 
 ### Explicación Pedagogica
 El lenguaje corporal incluye posturas y movimientos que sustituyen o refuerzan el lenguaje hablado.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Comunicación Escrita
@@ -133,21 +131,20 @@ El lenguaje corporal incluye posturas y movimientos que sustituyen o refuerzan e
 Ves un letrero con un dibujo de dos niños con maletas caminando. ¿Qué mensaje transmite esta imagen?
 
 ### Opciones
-- [ ] A) Que hay una fiesta de cumpleaños cerca.
-  <!-- feedback: El dibujo no muestra globos ni pasteles. -->
-- [x] B) ¡Atención! Zona escolar, niños cruzando la calle.
-  <!-- feedback: ¡Así es! Es una señal preventiva para los conductores. -->
-- [ ] C) Que se venden maletas de todos los colores.
-  <!-- feedback: No es un anuncio comercial, es una señal de tránsito. -->
-- [ ] D) Que los niños deben correr más rápido.
-  <!-- feedback: Al contrario, pide a los conductores ir más despacio. -->
+- [ ] A) Que hay una fiesta de cumpleaños cerca. <!-- feedback: Incorrecto. Que hay una fiesta de cumpleaños cerca. -->
+
+- [x] B) ¡Atención! Zona escolar, niños cruzando la calle. <!-- feedback: Correcto! ¡Atención! Zona escolar, niños cruzando la calle. -->
+
+- [ ] C) Que se venden maletas de todos los colores. <!-- feedback: Incorrecto. Que se venden maletas de todos los color -->
+
+- [ ] D) Que los niños deben correr más rápido. <!-- feedback: Incorrecto. Que los niños deben correr más rápido. -->
 
 ### Explicación Pedagogica
 Los pictogramas son dibujos sencillos que transmiten una información clara sin necesidad de usar palabras.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comunicación Escrita
@@ -158,21 +155,20 @@ Los pictogramas son dibujos sencillos que transmiten una información clara sin 
 Escuchas una sirena muy fuerte de un vehículo que se acerca. ¿Qué comunicación no verbal estás recibiendo?
 
 ### Opciones
-- [ ] A) Que es mediodía y hay que almorzar.
-  <!-- feedback: La sirena no marca la hora de almuerzo. -->
-- [x] B) Que una ambulancia o bomberos piden paso por una emergencia.
-  <!-- feedback: ¡Exacto! El sonido de la sirena es una señal de alerta y urgencia. -->
-- [ ] C) Que el heladero está pasando por la calle.
-  <!-- feedback: El sonido del heladero suele ser musical y más suave. -->
-- [ ] D) Que alguien está celebrando un gol.
-  <!-- feedback: Los gritos de gol son diferentes a una sirena constante. -->
+- [ ] A) Que es mediodía y hay que almorzar. <!-- feedback: Incorrecto. Que es mediodía y hay que almorzar. -->
+
+- [x] B) Que una ambulancia o bomberos piden paso por una emergencia. <!-- feedback: Correcto! Que una ambulancia o bomberos piden paso por una emergencia. -->
+
+- [ ] C) Que el heladero está pasando por la calle. <!-- feedback: Incorrecto. Que el heladero está pasando por la call -->
+
+- [ ] D) Que alguien está celebrando un gol. <!-- feedback: Incorrecto. Que alguien está celebrando un gol. -->
 
 ### Explicación Pedagogica
 El lenguaje auditivo no verbal utiliza sonidos (timbres, sirenas, silbatos) para comunicar mensajes de alerta o instrucción.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Comunicación Escrita
@@ -183,21 +179,20 @@ El lenguaje auditivo no verbal utiliza sonidos (timbres, sirenas, silbatos) para
 Si un amigo te envía un emoji de una carita con corazones en los ojos 😍, ¿qué te está comunicando?
 
 ### Opciones
-- [ ] A) Que tiene una enfermedad en la vista.
-  <!-- feedback: No, es un símbolo de sentimiento. -->
-- [ ] B) Que está muy triste y quiere llorar.
-  <!-- feedback: Para eso hay otros emojis con lágrimas. -->
-- [x] C) Que algo le encanta o le gusta muchísimo.
-  <!-- feedback: ¡Muy bien! Los emojis ayudan a expresar emociones en los mensajes escritos. -->
-- [ ] D) Que necesita ir al médico urgente.
-  <!-- feedback: No es el significado de ese emoji. -->
+- [ ] A) Que tiene una enfermedad en la vista. <!-- feedback: Incorrecto. Que tiene una enfermedad en la vista. -->
+
+- [ ] B) Que está muy triste y quiere llorar. <!-- feedback: Incorrecto. Que está muy triste y quiere llorar. -->
+
+- [x] C) Que algo le encanta o le gusta muchísimo. <!-- feedback: Correcto! Que algo le encanta o le gusta muchísimo. -->
+
+- [ ] D) Que necesita ir al médico urgente. <!-- feedback: Incorrecto. Que necesita ir al médico urgente. -->
 
 ### Explicación Pedagogica
 Los emojis son una adaptación moderna de la comunicación no verbal al mundo digital, ayudando a dar tono emocional al texto.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Comunicación Escrita
@@ -208,21 +203,20 @@ Los emojis son una adaptación moderna de la comunicación no verbal al mundo di
 Ves a una persona vestida con un delantal blanco y un estetoscopio en el cuello. ¿Qué te comunica su vestimenta?
 
 ### Opciones
-- [ ] A) Que es un deportista que va a correr.
-  <!-- feedback: El uniforme de deportista es diferente. -->
-- [x] B) Que es una persona que trabaja en medicina (médico o enfermera).
-  <!-- feedback: ¡Excelente! La ropa también es una forma de comunicación no verbal que indica roles. -->
-- [ ] C) Que es un chef que va a cocinar una paella.
-  <!-- feedback: El chef usa gorro alto y no usa estetoscopio. -->
-- [ ] D) Que es un astronauta listo para viajar.
-  <!-- feedback: El traje de astronauta es muy distinto. -->
+- [ ] A) Que es un deportista que va a correr. <!-- feedback: Incorrecto. Que es un deportista que va a correr. -->
+
+- [x] B) Que es una persona que trabaja en medicina (médico o enfermera). <!-- feedback: Correcto! Que es una persona que trabaja en medicina (médico o enferme -->
+
+- [ ] C) Que es un chef que va a cocinar una paella. <!-- feedback: Incorrecto. Que es un chef que va a cocinar una pael -->
+
+- [ ] D) Que es un astronauta listo para viajar. <!-- feedback: Incorrecto. Que es un astronauta listo para viajar. -->
 
 ### Explicación Pedagogica
 La apariencia personal y el vestuario comunican información sobre la profesión, la cultura o la situación social de las personas.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Comunicación Escrita
@@ -233,21 +227,20 @@ La apariencia personal y el vestuario comunican información sobre la profesión
 Si alguien se aleja mucho mientras le hablas, ¿qué mensaje no verbal te está dando probablemente?
 
 ### Opciones
-- [ ] A) Que te escucha mejor desde lejos.
-  <!-- feedback: Normalmente se escucha mejor de cerca. -->
-- [x] B) Que se siente incómodo o tiene prisa por irse.
-  <!-- feedback: ¡Correcto! La distancia física (proxemia) también comunica nuestros sentimientos. -->
-- [ ] C) Que quiere jugar a las carreras contigo.
-  <!-- feedback: En una conversación, alejarse no suele ser una invitación al juego. -->
-- [ ] D) Que es una persona muy alta.
-  <!-- feedback: La estatura no obliga a alejarse de esa manera. -->
+- [ ] A) Que te escucha mejor desde lejos. <!-- feedback: Incorrecto. Que te escucha mejor desde lejos. -->
+
+- [x] B) Que se siente incómodo o tiene prisa por irse. <!-- feedback: Correcto! Que se siente incómodo o tiene prisa por irse. -->
+
+- [ ] C) Que quiere jugar a las carreras contigo. <!-- feedback: Incorrecto. Que quiere jugar a las carreras contigo. -->
+
+- [ ] D) Que es una persona muy alta. <!-- feedback: Incorrecto. Que es una persona muy alta. -->
 
 ### Explicación Pedagogica
 La proxemia es el estudio de cómo usamos el espacio físico para comunicarnos y marcar nuestra confianza con los demás.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-3-2026-W20-comunicacion-no-verbal-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Comunicación Escrita
@@ -258,14 +251,13 @@ La proxemia es el estudio de cómo usamos el espacio físico para comunicarnos y
 Tu papá te dice "Sí, claro, puedes ir", pero está frunciendo el ceño y tiene los brazos cruzados. ¿A qué deberías prestarle más atención para saber la verdad?
 
 ### Opciones
-- [ ] A) Solo a sus palabras, porque dijo que sí.
-  <!-- feedback: Las palabras pueden engañar, pero los gestos suelen decir la verdad. -->
-- [x] B) A sus gestos, porque muestran que en realidad no está muy convencido o está molesto.
-  <!-- feedback: ¡Muy bien! Cuando las palabras y los gestos dicen cosas diferentes, solemos creerle a los gestos. -->
-- [ ] C) A ninguna de las dos cosas.
-  <!-- feedback: Ambas son importantes, pero los gestos dan la clave emocional. -->
-- [ ] D) A lo que diga la televisión en ese momento.
-  <!-- feedback: La televisión no tiene nada que ver con la comunicación de tu papá. -->
+- [ ] A) Solo a sus palabras, porque dijo que sí. <!-- feedback: Incorrecto. Solo a sus palabras, porque dijo que sí. -->
+
+- [x] B) A sus gestos, porque muestran que en realidad no está muy convencido o está molesto. <!-- feedback: Correcto! A sus gestos, porque muestran que en realidad no está muy co -->
+
+- [ ] C) A ninguna de las dos cosas. <!-- feedback: Incorrecto. A ninguna de las dos cosas. -->
+
+- [ ] D) A lo que diga la televisión en ese momento. <!-- feedback: Incorrecto. A lo que diga la televisión en ese momen -->
 
 ### Explicación Pedagogica
 En la comunicación efectiva, es fundamental que exista coherencia entre el lenguaje verbal y el no verbal para que el mensaje sea creíble.

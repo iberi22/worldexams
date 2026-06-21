@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-P4-mapas-conceptuales-INDEX-MASTERY"
+id: "CO-LEC-6-2026-P4-mapas-conceptuales-INDEX-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "mapas conceptuales, organización jerárquica, conceptos, conexiones, relaciones, categorización"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G6 — Mapas Conceptuales
 
@@ -41,12 +48,13 @@ rubric_baseline: "mapas conceptuales, organización jerárquica, conceptos, cone
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Cuántas regiones naturales tiene Colombia según el texto?
 
-### Options
+### Opciones
 - [ ] A) 4. <!-- feedback: Incorrecto. -->
 - [ ] B) 5. <!-- feedback: Incorrecto. -->
 - [x] C) 6. <!-- feedback: Correcto. -->
@@ -58,12 +66,13 @@ Identificación de un dato numérico organizador del texto.
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Cuál es la ciudad más importante de la Región Orinoquía?
 
-### Options
+### Opciones
 - [ ] A) Bogotá. <!-- feedback: Incorrecto. -->
 - [x] B) Villavicencio. <!-- feedback: Correcto. -->
 - [ ] C) Leticia. <!-- feedback: Incorrecto. -->
@@ -75,12 +84,13 @@ Identificación de datos específicos de una región.
 ## Question 3 [D4 - Organización]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Cómo está organizada la información en este texto?
 
-### Options
+### Opciones
 - [ ] A) Cronológicamente (por fechas). <!-- feedback: Incorrecto. -->
 - [x] B) Por categorías: cada región natural se describe por separado. <!-- feedback: Correcto. -->
 - [ ] C) En orden alfabético. <!-- feedback: Incorrecto. -->
@@ -92,12 +102,13 @@ Identificación de la estructura organizativa del texto (categorización).
 ## Question 4 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Qué regiones comparten clima cálido?
 
-### Options
+### Opciones
 - [ ] A) Solo el Caribe. <!-- feedback: Incorrecto. -->
 - [x] B) Caribe, Pacífica, Orinoquía, Amazónica e Insular. <!-- feedback: Correcto. -->
 - [ ] C) Solo la Andina. <!-- feedback: Incorrecto. -->
@@ -109,12 +120,13 @@ Agrupación de regiones por características compartidas.
 ## Question 5 [D5 - Mapa conceptual]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 Si hicieras un mapa conceptual, ¿cuál sería el concepto principal?
 
-### Options
+### Opciones
 - [ ] A) Música colombiana. <!-- feedback: Incorrecto. -->
 - [x] B) Regiones naturales de Colombia. <!-- feedback: Correcto. -->
 - [ ] C) Ciudades importantes. <!-- feedback: Incorrecto. -->
@@ -126,12 +138,13 @@ Identificación del concepto-raíz en una jerarquía conceptual.
 ## Question 6 [D5 - Jerarquía]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué subcategorías podrías incluir para cada región en un mapa conceptual?
 
-### Options
+### Opciones
 - [ ] A) Solo el nombre. <!-- feedback: Incorrecto. -->
 - [x] B) Ubicación, clima, música, comida y ciudad principal. <!-- feedback: Correcto. -->
 - [ ] C) Solo la comida. <!-- feedback: Incorrecto. -->
@@ -143,12 +156,13 @@ Identificación de las categorías secundarias que organizan la información de 
 ## Question 7 [D5 - Relaciones]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué relación existe entre la ubicación geográfica y el clima de cada región?
 
-### Options
+### Opciones
 - [ ] A) No hay relación. <!-- feedback: Incorrecto. -->
 - [x] B) La ubicación (costa, montaña, selva, llano) determina el clima de cada región. <!-- feedback: Correcto. -->
 - [ ] C) Todas tienen el mismo clima. <!-- feedback: Incorrecto. -->
@@ -160,12 +174,13 @@ Inferencia de la relación entre dos conceptos (ubicación ↔ clima).
 ## Question 8 [D5 - Categorización]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 Si tuvieras que agrupar las regiones por su biodiversidad, ¿cuál se destacaría más?
 
-### Options
+### Opciones
 - [ ] A) La Caribe. <!-- feedback: Incorrecto. -->
 - [x] B) La Amazónica, por ser la región con mayor biodiversidad. <!-- feedback: Correcto. -->
 - [ ] C) La Insular. <!-- feedback: Incorrecto. -->
@@ -177,12 +192,13 @@ Uso de información textual para categorizar por un criterio específico.
 ## Question 9 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué elemento cultural comparten la Región Caribe y la Región Pacífica?
 
-### Options
+### Opciones
 - [ ] A) El vallenato. <!-- feedback: Incorrecto (solo Caribe). -->
 - [ ] B) El café. <!-- feedback: Incorrecto. -->
 - [x] C) Ambas tienen música y comida influenciadas por su ubicación costera. <!-- feedback: Correcto. -->
@@ -194,12 +210,13 @@ Establecimiento de conexiones entre categorías diferentes.
 ## Question 10 [D5 - Evaluación]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Por qué los mapas conceptuales ayudan a entender textos como este?
 
-### Options
+### Opciones
 - [ ] A) Porque son bonitos. <!-- feedback: Incorrecto. -->
 - [x] B) Porque organizan visualmente la información jerárquica, facilitando la comprensión de relaciones. <!-- feedback: Correcto. -->
 - [ ] C) Porque reemplazan la lectura. <!-- feedback: Incorrecto. -->

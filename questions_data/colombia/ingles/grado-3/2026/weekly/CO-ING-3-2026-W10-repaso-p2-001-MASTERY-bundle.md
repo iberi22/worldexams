@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W10-repaso-p2-001-MASTERY"
+id: "CO-ING-3-2026-W10-repaso-p2-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "repaso-p2"
 periodo: "weekly"
-semana: 10
+week: "W10"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 8
@@ -19,7 +19,12 @@ rubric_baseline: "Review of classroom objects, commands, and family members."
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W10: Repaso Periodo 2 (A1)
 
@@ -32,11 +37,12 @@ Este bundle repasa los temas de las semanas 6 a 9: objetos del salón, comandos 
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What do you use to write?
 
-### Options
+### Opciones
 - [x] A) Pencil <!-- feedback: Correct! -->
 - [ ] B) Eraser <!-- feedback: Incorrect. -->
 - [ ] C) Chair <!-- feedback: Incorrect. -->
@@ -52,11 +58,12 @@ Usamos el lápiz (pencil) para escribir en el cuaderno.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 The teacher says **"Open your book"**. What do you do?
 
-### Options
+### Opciones
 - [ ] A) Cerrar el libro <!-- feedback: Incorrect. -->
 - [x] B) Abrir el libro <!-- feedback: Correct! "Open" is abrir. -->
 - [ ] C) Guardar el libro <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ The teacher says **"Open your book"**. What do you do?
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Who is your father's father?
 
-### Options
+### Opciones
 - [ ] A) Uncle <!-- feedback: Incorrect. -->
 - [ ] B) Father <!-- feedback: Incorrect. -->
 - [x] C) Grandfather <!-- feedback: Correct! Your dad's dad is your grandpa. -->
@@ -92,11 +100,12 @@ El papá de tu papá es tu abuelo (grandfather).
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Cartuchera"**?
 
-### Options
+### Opciones
 - [ ] A) Backpack <!-- feedback: Incorrect. -->
 - [x] B) Pencil case <!-- feedback: Correct! -->
 - [ ] C) Sharpener <!-- feedback: Incorrect. -->
@@ -112,11 +121,12 @@ La cartuchera se dice "pencil case".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 How do you say **"Siéntense"** to the whole class?
 
-### Options
+### Opciones
 - [ ] A) Stand up <!-- feedback: Incorrect. -->
 - [x] B) Sit down <!-- feedback: Correct! -->
 - [ ] C) Silence <!-- feedback: Incorrect. -->
@@ -132,11 +142,12 @@ How do you say **"Siéntense"** to the whole class?
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 My mother's sister is my:
 
-### Options
+### Opciones
 - [x] A) Aunt <!-- feedback: Correct! -->
 - [ ] B) Uncle <!-- feedback: Incorrect. -->
 - [ ] C) Cousin <!-- feedback: Incorrect. -->
@@ -152,11 +163,12 @@ La hermana de tu mamá es tu tía (aunt).
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Complete: **"I have a _____"** (HERMANO).
 
-### Options
+### Opciones
 - [ ] A) Sister <!-- feedback: Incorrect. -->
 - [x] B) Brother <!-- feedback: Correct! -->
 - [ ] C) Mother <!-- feedback: Incorrect. -->
@@ -172,11 +184,12 @@ Hermano en inglés se escribe "brother".
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Which object is used to **erase**?
 
-### Options
+### Opciones
 - [ ] A) Ruler <!-- feedback: Incorrect. -->
 - [ ] B) Pen <!-- feedback: Incorrect. -->
 - [x] C) Eraser <!-- feedback: Correct! -->

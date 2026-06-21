@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-W32-textos-multimodales-001-MASTERY"
+id: "CO-LEC-6-2026-W32-textos-multimodales-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -12,7 +12,11 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W32 — Textos Multimodales
 
@@ -24,14 +28,15 @@ alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
 
 **ID:** `CO-LEC-6-2026-W32-textos-multimodales-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de tipos de texto
-**Context:** Definición de texto multimodal
+**Contexto:** Definición de texto multimodal
 
 ### Enunciado
 
 ¿Qué es un texto multimodal?
 
-### Options
+### Opciones
 - [ ] A) Un texto que solo usa palabras escritas <!-- feedback: Incorrecto. Un texto que solo usa palabras escritas es un texto unimodal (un solo modo). El multimodal combina varios modos de comunicación. -->
 - [ ] B) Un texto que tiene muchas páginas <!-- feedback: Incorrecto. La cantidad de páginas no define si un texto es multimodal. Un libro extenso solo con texto sigue siendo unimodal. -->
 - [x] C) Un texto que combina dos o más modos de comunicación: palabras, imágenes, sonidos, videos o gráficos <!-- feedback: ¡Correcto! Los textos multimodales integran diferentes lenguajes: verbal (texto escrito), visual (imágenes, colores), auditivo (sonidos) y gestual (movimientos). Ejemplos: páginas web, infografías, videos educativos. -->
@@ -47,14 +52,15 @@ Vivimos rodeados de textos multimodales. Un meme combina imagen y texto. Un vide
 
 **ID:** `CO-LEC-6-2026-W32-textos-multimodales-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de elementos visuales
-**Context:** Elementos de una infografía
+**Contexto:** Elementos de una infografía
 
 ### Enunciado
 
 ¿Cuáles de los siguientes elementos se encuentran comúnmente en una infografía?
 
-### Options
+### Opciones
 - [ ] A) Solo texto escrito sin imágenes <!-- feedback: Incorrecto. Si solo tuviera texto, sería un artículo o párrafo, no una infografía. Las infografías combinan texto e imágenes. -->
 - [ ] B) Solamente fotografías sin palabras <!-- feedback: Incorrecto. Una galería de fotos no es una infografía. Las infografías integran información visual y textual para explicar un tema. -->
 - [x] C) Combinación de imágenes, gráficos, íconos y texto breve que explica un tema de forma visual <!-- feedback: ¡Correcto! La infografía es un género multimodal que organiza información visualmente, usando jerarquías de tamaño, color y posición para guiar la lectura y facilitar la comprensión. -->
@@ -70,8 +76,9 @@ Las infografías son uno de los textos multimodales más comunes en la educació
 
 **ID:** `CO-LEC-6-2026-W32-textos-multimodales-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de infografía
-**Context:** Infografía sobre el agua en Colombia
+**Contexto:** Infografía sobre el agua en Colombia
 
 ### Enunciado
 
@@ -84,7 +91,7 @@ Imagina una infografía sobre el agua en Colombia que tiene:
 
 ¿Qué información transmite la imagen del páramo combinada con el grifo seco?
 
-### Options
+### Opciones
 - [ ] A) Que en Colombia hay mucha agua y no hay problemas <!-- feedback: Incorrecto. La imagen del grifo seco sugiere lo contrario: que sí hay problemas de acceso al agua en algunas regiones. -->
 - [x] B) Que aunque Colombia tiene abundante agua en los páramos, muchas personas aún no tienen acceso a ella <!-- feedback: ¡Correcto! La combinación de las dos imágenes crea un contraste significativo: el páramo (fuente abundante) y el grifo seco (falta de acceso). Esta yuxtaposición visual comunica la paradoja de la riqueza hídrica con la desigualdad en el acceso. -->
 - [ ] C) Que los páramos producen agua para los grifos <!-- feedback: Incorrecto. Aunque es cierto que los páramos producen agua, la imagen del grifo seco muestra que esa agua no llega a todos, contradiciendo la idea de que el páramo abastece a todos. -->
@@ -100,8 +107,9 @@ En los textos multimodales, las imágenes no son meramente decorativas. Cada ele
 
 **ID:** `CO-LEC-6-2026-W32-textos-multimodales-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Interpretación de símbolos e íconos
-**Context:** Íconos en señalización
+**Contexto:** Íconos en señalización
 
 ### Enunciado
 
@@ -109,7 +117,7 @@ En un aeropuerto, ves los siguientes íconos: 🚻 (dos figuras, una con vestido
 
 Si ves estos íconos juntos en un letrero, ¿qué están comunicando?
 
-### Options
+### Opciones
 - [ ] A) Que en el aeropuerto hay vuelos a muchos destinos <!-- feedback: Incorrecto. El ícono del avión indica la presencia del aeropuerto, pero los otros íconos no se relacionan con destinos de viaje. -->
 - [ ] B) Que en esa área hay maletas perdidas y café gratis <!-- feedback: Incorrecto. La maleta indica equipaje en general o reclamo de equipaje, no maletas perdidas. Y no dice que el café sea gratis. -->
 - [x] C) Que en esa zona hay baños públicos, reclamo de equipaje, mostrador de la aerolínea y una cafetería <!-- feedback: ¡Correcto! Los íconos son símbolos universales que comunican servicios disponibles. Cada ícono representa un servicio específico: baños, equipaje, mostrador de vuelo (o sala de abordaje) y cafetería. -->
@@ -125,8 +133,9 @@ Los íconos y pictogramas son un lenguaje visual que comunica de forma rápida y
 
 **ID:** `CO-LEC-6-2026-W32-textos-multimodales-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Relación entre imagen y texto
-**Context:** Afiche publicitario
+**Contexto:** Afiche publicitario
 
 ### Enunciado
 
@@ -134,7 +143,7 @@ Un afiche muestra la imagen de un niño sonriente comiendo una manzana, con un t
 
 ¿Qué relación hay entre la imagen y el texto en este afiche?
 
-### Options
+### Opciones
 - [ ] A) La imagen contradice el texto porque el niño sonríe <!-- feedback: Incorrecto. La sonrisa del niño refuerza el mensaje "vive feliz". No hay contradicción. -->
 - [ ] B) No hay relación; la imagen y el texto son independientes <!-- feedback: Incorrecto. La imagen y el texto están cuidadosamente diseñados para complementarse. La imagen muestra el resultado de seguir el consejo del texto. -->
 - [x] C) La imagen ilustra el mensaje del texto: muestra a un niño feliz y saludable comiendo una fruta, que es justo lo que el texto promueve <!-- feedback: ¡Correcto! La imagen funciona como ejemplo concreto del mensaje abstracto. El texto dice "come saludable, vive feliz" y la imagen muestra exactamente eso: un niño comiendo saludable (manzana) y viviendo feliz (sonrisa). Es una relación de refuerzo. -->
@@ -150,8 +159,9 @@ En los textos multimodales, la relación entre imagen y texto puede ser de: 1) R
 
 **ID:** `CO-LEC-6-2026-W32-textos-multimodales-006-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Interpretación de memes
-**Context:** Meme como texto multimodal
+**Contexto:** Meme como texto multimodal
 
 ### Enunciado
 
@@ -161,7 +171,7 @@ Observa la siguiente descripción de un meme:
 
 ¿Qué comunica este meme?
 
-### Options
+### Opciones
 - [ ] A) Que los gatos saben usar computadoras <!-- feedback: Incorrecto. La imagen del gato es un recurso humorístico, no una afirmación literal sobre las capacidades de los gatos. -->
 - [ ] B) Que estudiar de noche es bueno para los exámenes <!-- feedback: Incorrecto. El meme muestra procrastinación, no estudio. "Ver memes" es lo contrario de estudiar. -->
 - [x] C) La contradicción entre saber que debemos estudiar (texto abajo) y la tentación de distraernos (texto arriba), usando el gato como representación humorística de esa situación <!-- feedback: ¡Correcto! El meme combina imagen (gato) y dos textos para crear un mensaje humorístico sobre la procrastinación: sabemos que debemos hacer algo importante pero elegimos distraernos. La imagen del gato añade un tono ligero y divertido. -->
@@ -177,8 +187,9 @@ Los memes son un género multimodal muy popular. Combinan imagen (generalmente u
 
 **ID:** `CO-LEC-6-2026-W32-textos-multimodales-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Creación e interpretación de textos multimodales
-**Context:** Diseñar una infografía escolar
+**Contexto:** Diseñar una infografía escolar
 
 ### Enunciado
 
@@ -193,7 +204,7 @@ Tienes que hacer una infografía para tu colegio sobre "Cómo cuidar el agua en 
 
 ¿Cuál sería la organización MÁS efectiva de estos elementos?
 
-### Options
+### Opciones
 - [ ] A) Poner solo los textos, sin imágenes, para que la información sea clara <!-- feedback: Incorrecto. Una infografía sin imágenes pierde su carácter multimodal. Las imágenes ayudan a captar la atención y facilitan la comprensión. -->
 - [ ] B) Poner todas las imágenes juntas en una esquina y todos los textos en otra <!-- feedback: Incorrecto. Separar imagen y texto dificulta la relación entre ambos. En una infografía, los elementos relacionados deben estar cerca. -->
 - [x] C) Agrupar la imagen del grifo goteando con el texto "30 litros al día" y el ícono 30 L; y la imagen del cepillo con el texto "cierra la llave" y el ícono del calendario, creando dos bloques visuales <!-- feedback: ¡Correcto! Agrupar elementos relacionados facilita la lectura. Cada bloque combina imagen (impacto visual), texto (explicación) e ícono (dato concreto), formando unidades de significado independientes pero complementarias. -->
@@ -209,8 +220,9 @@ Diseñar un texto multimodal requiere pensar en cómo se relacionan los diferent
 
 **ID:** `CO-LEC-6-2026-W32-textos-multimodales-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Análisis de página web
-**Context:** Interpretar elementos multimodales en una web
+**Contexto:** Interpretar elementos multimodales en una web
 
 ### Enunciado
 
@@ -225,7 +237,7 @@ Una página web sobre el Parque Nacional Natural Tayrona tiene:
 
 ¿Cuál es el propósito del botón verde grande "RESERVA AHORA"?
 
-### Options
+### Opciones
 - [ ] A) Informar sobre la historia del parque <!-- feedback: Incorrecto. El botón no informa, sino que invita a una acción. Si su propósito fuera informar, sería un enlace de texto común. -->
 - [ ] B) Decorar la página (es solo un elemento estético) <!-- feedback: Incorrecto. El tamaño grande y el color verde no son casualidad. Están diseñados para llamar la atención y guiar al usuario a realizar una acción específica. -->
 - [x] C) Guiar al usuario hacia la acción principal que el sitio web quiere que realice: hacer una reserva <!-- feedback: ¡Correcto! En diseño web, los botones grandes y llamativos se llaman "call to action" (llamado a la acción). El color verde transmite confianza y naturaleza. El tamaño grande garantiza que sea lo primero que el usuario vea después de explorar el contenido. -->
@@ -241,8 +253,9 @@ Las páginas web son textos multimodales complejos donde cada elemento (color, t
 
 **ID:** `CO-LEC-6-2026-W32-textos-multimodales-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Comparación de modos comunicativos
-**Context:** Misma información en diferentes formatos
+**Contexto:** Misma información en diferentes formatos
 
 ### Enunciado
 
@@ -256,7 +269,7 @@ Una misma noticia aparece en:
 
 ¿Qué versión logra el mayor impacto emocional?
 
-### Options
+### Opciones
 - [ ] A) La versión B (periódico) porque la letra impresa es más seria <!-- feedback: Incorrecto. El texto impreso sin imágenes es el formato más neutral. Genera menos impacto emocional que los otros. -->
 - [ ] B) La versión C (TV) porque tiene más información detallada <!-- feedback: Incorrecto. Aunque la TV tiene más información, el impacto emocional no viene solo de la cantidad de datos, sino de cómo se presentan. -->
 - [x] C) La versión A (radio) porque el sonido de las alarmas de fondo genera tensión y urgencia de manera inmediata <!-- feedback: ¡Correcto! El sonido es un modo comunicativo poderoso para generar emociones. Las alarmas crean una sensación de urgencia y peligro que el texto impreso no logra. La radio usa el sonido para crear una atmósfera que el oyente imagina. -->
@@ -272,8 +285,9 @@ Cada modo de comunicación tiene efectos diferentes en el receptor. El texto esc
 
 **ID:** `CO-LEC-6-2026-W32-textos-multimodales-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Valoración crítica de textos multimodales
-**Context:** Evaluar la efectividad de un afiche
+**Contexto:** Evaluar la efectividad de un afiche
 
 ### Enunciado
 
@@ -285,7 +299,7 @@ Evalúa este afiche de prevención de incendios forestales:
 
 ¿Cuál afiche es MÁS efectivo y por qué?
 
-### Options
+### Opciones
 - [ ] A) El afiche A, porque el texto grande en fondo negro se lee mejor <!-- feedback: Incorrecto. La legibilidad no lo es todo. Un afiche debe comunicar un mensaje que impacte y se recuerde. El texto sin imágenes puede pasar desapercibido. -->
 - [x] B) El afiche B, porque la imagen impactante genera una reacción emocional que hace que el mensaje sea más memorable y persuasivo <!-- feedback: ¡Correcto! El afiche B usa una imagen poderosa (pathos) para crear conciencia. La fotografía muestra las consecuencias reales de las acciones imprudentes, lo que tiene más impacto que un texto genérico en fondo negro. La combinación de imagen + texto breve es multimodal y más efectiva. -->
 - [ ] C) Ambos son igual de efectivos porque dicen lo mismo <!-- feedback: Incorrecto. Aunque el mensaje central es similar, la forma de comunicarlo es muy diferente. La imagen añade una capa de significado y emoción que el solo texto no tiene. -->

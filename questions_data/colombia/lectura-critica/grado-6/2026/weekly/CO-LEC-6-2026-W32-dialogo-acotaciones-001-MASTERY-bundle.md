@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-W32-dialogo-acotaciones-001-MASTERY"
+id: "CO-LEC-6-2026-W32-dialogo-acotaciones-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -15,7 +15,9 @@ alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W32 — Diálogo y Acotaciones
 
@@ -29,14 +31,15 @@ tier: "legacy"
 
 **ID:** `CO-LEC-6-2026-W32-dialogo-acotaciones-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de acotaciones
-**Context:** Reconocer acotaciones en un texto teatral
+**Contexto:** Reconocer acotaciones en un texto teatral
 
 ### Enunciado
 
 En un texto teatral, ¿cómo se reconocen las acotaciones (indicaciones para actores y directores)?
 
-### Options
+### Opciones
 - [ ] A) Están escritas en el centro del texto <!-- feedback: Incorrecto. Las acotaciones no se identifican por su ubicación en la página, sino por su formato. -->
 - [x] B) Generalmente van entre paréntesis o en cursiva y describen acciones, emociones o escenario <!-- feedback: ¡Correcto! Las acotaciones o didascalias son indicaciones del dramaturgo escritas entre paréntesis, en cursiva o con otro formato distintivo. No son dichas por los actores. -->
 - [ ] C) Son los nombres de los personajes en mayúscula <!-- feedback: Incorrecto. Los nombres en mayúscula indican quién habla, pero no son acotaciones. La acotación es la instrucción que acompaña al nombre o al diálogo. -->
@@ -52,14 +55,15 @@ Las acotaciones (o didascalias) son las instrucciones que el dramaturgo escribe 
 
 **ID:** `CO-LEC-6-2026-W32-dialogo-acotaciones-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de diálogo
-**Context:** Características del diálogo teatral
+**Contexto:** Características del diálogo teatral
 
 ### Enunciado
 
 ¿Cuál es la función principal del diálogo en una obra de teatro?
 
-### Options
+### Opciones
 - [ ] A) Hacer que la obra sea más larga <!-- feedback: Incorrecto. La extensión no es la función del diálogo. Un diálogo breve puede ser muy efectivo. -->
 - [ ] B) Describir cómo se visten los personajes <!-- feedback: Incorrecto. Las descripciones de vestuario van en las acotaciones, no en los diálogos. -->
 - [x] C) Hacer avanzar la historia y revelar lo que piensan y sienten los personajes <!-- feedback: ¡Correcto! En el teatro no hay narrador, así que los personajes deben comunicar todo a través de lo que dicen: sus emociones, sus planes, sus conflictos, la información necesaria para entender la historia. -->
@@ -75,8 +79,9 @@ A diferencia de un cuento, donde un narrador puede decirnos "el personaje estaba
 
 **ID:** `CO-LEC-6-2026-W32-dialogo-acotaciones-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Función de las acotaciones
-**Context:** Comprender para qué sirven las acotaciones
+**Contexto:** Comprender para qué sirven las acotaciones
 
 ### Enunciado
 
@@ -88,7 +93,7 @@ Lee el siguiente fragmento:
 
 Si eliminamos las acotaciones, ¿qué información perdería el actor?
 
-### Options
+### Opciones
 - [ ] A) El nombre de los personajes <!-- feedback: Incorrecto. Los nombres están fuera de las acotaciones y se conservarían. -->
 - [ ] B) Lo que dicen los personajes <!-- feedback: Incorrecto. El diálogo (el texto que dice cada personaje) se conserva sin las acotaciones. -->
 - [x] C) La emoción y el lenguaje corporal de los personajes al hablar <!-- feedback: ¡Correcto! Las acotaciones "con voz temblorosa", "manos apretadas contra el pecho" y "suspirando profundamente" indican CÓMO se dicen las líneas. Sin ellas, el actor tendría que adivinar la emoción. -->
@@ -104,8 +109,9 @@ Las acotaciones son como las instrucciones de un manual de actuación. Le dicen 
 
 **ID:** `CO-LEC-6-2026-W32-dialogo-acotaciones-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Diferencia entre diálogo y acotación
-**Context:** Distinguir qué se dice y qué se indica
+**Contexto:** Distinguir qué se dice y qué se indica
 
 ### Enunciado
 
@@ -115,7 +121,7 @@ Las acotaciones son como las instrucciones de un manual de actuación. Le dicen 
 
 ¿Cuál de estos elementos es una acotación?
 
-### Options
+### Opciones
 - [ ] A) "¡Llegué tarde otra vez!" <!-- feedback: Incorrecto. Esto es diálogo, es lo que el personaje DICE. El público lo escucha. -->
 - [ ] B) "Esto ya es la tercera vez esta semana" <!-- feedback: Incorrecto. Esto también es diálogo. Es lo que dice la Maestra. -->
 - [x] C) "(Entrando corriendo y sin aliento)" y "(Mirando el reloj con seriedad)" <!-- feedback: ¡Correcto! Ambas son acotaciones: describen acciones y estados de ánimo que los actores deben representar, pero que no son dichas en voz alta. -->
@@ -131,8 +137,9 @@ Una regla simple para distinguir: si el público lo OYE, es diálogo. Si es una 
 
 **ID:** `CO-LEC-6-2026-W32-dialogo-acotaciones-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Interpretación de acotaciones
-**Context:** Inferir emociones a partir de acotaciones
+**Contexto:** Inferir emociones a partir de acotaciones
 
 ### Enunciado
 
@@ -142,7 +149,7 @@ Una regla simple para distinguir: si el público lo OYE, es diálogo. Si es una 
 
 ¿Qué emoción transmiten las acotaciones?
 
-### Options
+### Opciones
 - [ ] A) Tristeza y decepción <!-- feedback: Incorrecto. "Ojos brillantes", "sonrisa", "saltando" no indican tristeza. -->
 - [ ] B) Miedo y preocupación <!-- feedback: Incorrecto. Las acotaciones describen alegría, no temor. -->
 - [x] C) Alegría y emoción contenida (Carmen) y euforia desbordada (Pablo) <!-- feedback: ¡Correcto! Carmen muestra alegría contenida ("ojos brillantes", "sonrisa que no puede ocultar") mientras Pablo expresa euforia total ("saltando", "agitando los brazos"). Las acotaciones revelan matices diferentes de la misma emoción. -->
@@ -158,8 +165,9 @@ Las acotaciones permiten matices muy finos en la interpretación. Aquí, dos per
 
 **ID:** `CO-LEC-6-2026-W32-dialogo-acotaciones-006-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Función de las acotaciones de escenario
-**Context:** Acotaciones que describen el espacio
+**Contexto:** Acotaciones que describen el espacio
 
 ### Enunciado
 
@@ -167,7 +175,7 @@ Las acotaciones permiten matices muy finos en la interpretación. Aquí, dos per
 
 ¿Qué función cumplen estas acotaciones?
 
-### Options
+### Opciones
 - [ ] A) Son parte del diálogo que los personajes dirán al público <!-- feedback: Incorrecto. Estas acotaciones no las dice ningún personaje; son instrucciones para la escenografía. -->
 - [ ] B) Indican qué deben hacer los actores en el escenario <!-- feedback: Parcialmente, pero principalmente describen el espacio y ambiente. Lo más específico es describir la escenografía. -->
 - [x] C) Describen la escenografía, la época y la atmósfera de la obra <!-- feedback: ¡Correcto! Informan al equipo de producción cómo debe ser el escenario (cocina campesina, fogón, mesa), la época (mañana) y la atmósfera sonora (gallos). Estos detalles son cruciales para crear el mundo de la obra. -->
@@ -183,8 +191,9 @@ Las acotaciones no solo guían a los actores; también guían a los diseñadores
 
 **ID:** `CO-LEC-6-2026-W32-dialogo-acotaciones-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso de acotaciones
-**Context:** Aplicar acotaciones a un diálogo
+**Contexto:** Aplicar acotaciones a un diálogo
 
 ### Enunciado
 
@@ -196,7 +205,7 @@ Un estudiante escribió este diálogo teatral:
 
 Sin embargo, la escena resulta plana. ¿Qué acotaciones podrían mejorarla?
 
-### Options
+### Opciones
 - [ ] A) "Ana dijo" y "Mamá respondió" <!-- feedback: Incorrecto. En el teatro no se usan verbos de habla como "dijo" o "respondió". Los nombres ya indican quién habla. -->
 - [x] B) **ANA:** (Con la cabeza gacha y voz apagada) No quiero ir a la escuela hoy. **MAMÁ:** (Arrodillándose para quedar a su altura, con tono suave pero firme) Tienes que ir. Es importante. **ANA:** (Encogiéndose de hombros, evitando la mirada) No me importa. <!-- feedback: ¡Correcto! Las acotaciones añaden capas de significado: la tristeza de Ana, la comprensión de la mamá. Ahora sabemos que Ana no solo es rebelde, sino que probablemente tiene un problema. -->
 - [ ] C) Ana debe hablar más fuerte y la mamá debe gritar <!-- feedback: Incorrecto. Indicar volumen de voz podría ser útil, pero no es suficiente. Las acotaciones deben describir acciones y emociones completas. -->
@@ -212,8 +221,9 @@ Las acotaciones transforman un diálogo plano en una escena con profundidad emoc
 
 **ID:** `CO-LEC-6-2026-W32-dialogo-acotaciones-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Análisis de la función del diálogo
-**Context:** Analizar la información que revela el diálogo
+**Contexto:** Analizar la información que revela el diálogo
 
 ### Enunciado
 
@@ -227,7 +237,7 @@ Lee este fragmento de una obra:
 
 ¿Qué información relevante para la historia revela este diálogo?
 
-### Options
+### Opciones
 - [ ] A) Marcela y Don Ramón están leyendo el periódico <!-- feedback: Incorrecto. Solo Don Ramón leía el periódico, y es un detalle menor. La información relevante es otra. -->
 - [ ] B) Que Marcela no quiere ir a la universidad <!-- feedback: Incorrecto. Marcela está emocionada y feliz. Claramente quiere ir. -->
 - [x] C) Que Marcela solicitó una beca universitaria completa, fue aprobada, y la beca cubre todos los gastos (pasajes, matrícula, libros, vivienda) <!-- feedback: ¡Correcto! El diálogo revela información crucial para la trama: el logro de Marcela, el tipo de beca, y la alegría de ambos personajes. Esto probablemente desencadenará los siguientes eventos. -->
@@ -243,8 +253,9 @@ En el teatro, el diálogo cumple una función narrativa: revela información que
 
 **ID:** `CO-LEC-6-2026-W32-dialogo-acotaciones-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Efecto de las acotaciones en la caracterización
-**Context:** Relación entre acotación y personalidad
+**Contexto:** Relación entre acotación y personalidad
 
 ### Enunciado
 
@@ -256,7 +267,7 @@ Compara estas dos versiones de la misma escena:
 
 ¿Qué revelan las diferentes acotaciones sobre el carácter de Sofía?
 
-### Options
+### Opciones
 - [ ] A) En ambas versiones Sofía es igual de organizada <!-- feedback: Incorrecto. Las acotaciones muestran comportamientos opuestos. -->
 - [x] B) En la Versión A, Sofía es meticulosa y organizada; en la Versión B, es despreocupada e improvisada <!-- feedback: ¡Correcto! "Revisando cada detalle", "verificando la lista dos veces" muestra una persona ordenada. "Tirando todo sin mirar" muestra una persona despreocupada. La misma actriz podría interpretar a dos personajes completamente distintos solo cambiando las acotaciones. -->
 - [ ] C) En la Versión B, Sofía tiene más prisa que en la A <!-- feedback: Parcialmente cierto, pero la diferencia es más profunda: no es solo tiempo, es personalidad. -->
@@ -272,8 +283,9 @@ Las acotaciones son una herramienta poderosa para construir la personalidad de u
 
 **ID:** `CO-LEC-6-2026-W32-dialogo-acotaciones-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Valoración crítica de acotaciones
-**Context:** Evaluar si las acotaciones son efectivas
+**Contexto:** Evaluar si las acotaciones son efectivas
 
 ### Enunciado
 
@@ -287,7 +299,7 @@ Un estudiante escribió esta escena para un concurso de teatro escolar:
 
 ¿Qué problema tienen las acotaciones en este texto?
 
-### Options
+### Opciones
 - [ ] A) Hay demasiadas acotaciones <!-- feedback: Incorrecto. Aunque son muchas, el problema es su contenido, no su cantidad. -->
 - [x] B) Las acotaciones son muy vagas y no aportan información útil para los actores: "Entra", "Está ahí", "Hace algo", "Reacciona" no describen acciones ni emociones específicas <!-- feedback: ¡Correcto! Una buena acotación debe describir CÓMO se hace algo, no solo QUÉ se hace. "Entra" podría ser "(Entra saltando de alegría)" o "(Entra arrastrando los pies, cabizbajo)". "Hace algo" no le dice nada al actor. -->
 - [ ] C) No hay suficientes acotaciones <!-- feedback: Incorrecto. El problema no es la cantidad sino la calidad. Cada línea tiene acotación, pero son pobres. -->

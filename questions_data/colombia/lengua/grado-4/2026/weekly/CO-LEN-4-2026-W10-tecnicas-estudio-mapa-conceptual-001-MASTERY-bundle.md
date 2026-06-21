@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-4-2026-W10-tecnicas-estudio-mapa-conceptual-001-MASTERY"
+id: "CO-LEN-4-2026-W10-tecnicas-estudio-mapa-conceptual-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lengua-castellana"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 8
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W10 — Técnicas de Estudio: El Mapa Conceptual
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEN-4-2026-W10-tecnicas-estudio-mapa-conceptual-001-MASTERY-v1`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** Taller de estudio en la I.E. San Simón de Ibagué
+**Contexto:** Taller de estudio en la I.E. San Simón de Ibagué
 **Expected_Success:** 0.85
 
 ### Enunciado
 El profesor enseña que un **mapa conceptual** es una red de ideas. ¿Cuál es la forma correcta de organizar la información en un mapa conceptual?
 
-### Options
+### Opciones
 - [ ] A) De izquierda a derecha, como si fuera un renglón largo. <!-- feedback: Incorrecto. Aunque puede tener cierta horizontalidad, no es su característica principal. -->
 - [x] B) De arriba hacia abajo, colocando lo más general arriba y lo más específico abajo. <!-- feedback: Correcto. Los mapas conceptuales son jerárquicos: las ideas más importantes van arriba. -->
 - [ ] C) En desorden, para que el cerebro trabaje más. <!-- feedback: Incorrecto. El orden es fundamental para la claridad y el estudio. -->
@@ -46,13 +51,13 @@ La jerarquía es el principio organizador del mapa conceptual. El estudiante deb
 **ID:** `CO-LEN-4-2026-W10-tecnicas-estudio-mapa-conceptual-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** Elementos de un mapa conceptual sobre la fauna colombiana
+**Contexto:** Elementos de un mapa conceptual sobre la fauna colombiana
 **Expected_Success:** 0.82
 
 ### Enunciado
 En un mapa conceptual, los nombres de los temas van encerrados en cuadros o círculos. ¿Cómo se les llama a estas cajas de texto?
 
-### Options
+### Opciones
 - [ ] A) Nubes informativas. <!-- feedback: Incorrecto. Aunque pueden tener forma de nube, el término técnico es otro. -->
 - [ ] B) Enlaces. <!-- feedback: Incorrecto. Los enlaces son las líneas que unen los cuadros. -->
 - [x] C) Conceptos. <!-- feedback: Correcto. Cada cuadro representa un concepto o idea clave del tema. -->
@@ -68,13 +73,13 @@ Identificar las partes del mapa conceptual (conceptos, líneas de enlace, palabr
 **ID:** `CO-LEN-4-2026-W10-tecnicas-estudio-mapa-conceptual-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Un mapa conceptual sobre los recursos naturales en Arauca
+**Contexto:** Un mapa conceptual sobre los recursos naturales en Arauca
 **Expected_Success:** 0.78
 
 ### Enunciado
 Entre el cuadro de "Recursos Naturales" y el cuadro de "Renovables", hay una pequeña palabra escrita sobre la línea que dice: "**son**". ¿Qué función cumple esta palabra?
 
-### Options
+### Opciones
 - [ ] A) Es el nombre del autor del mapa. <!-- feedback: Incorrecto. El nombre del autor no va entre conceptos. -->
 - [x] B) Es una palabra de enlace que ayuda a leer la relación como una oración: "Los recursos naturales **son** renovables". <!-- feedback: Correcto. Las palabras de enlace dan sentido lógico a la unión de conceptos. -->
 - [ ] C) Es un error porque no debe haber palabras fuera de los cuadros. <!-- feedback: Incorrecto. Al contrario, son fundamentales para la coherencia. -->
@@ -90,13 +95,13 @@ Las palabras de enlace permiten la lectura proposicional del mapa conceptual. El
 **ID:** `CO-LEN-4-2026-W10-tecnicas-estudio-mapa-conceptual-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Comparación entre un mapa conceptual y una lista de mercado
+**Contexto:** Comparación entre un mapa conceptual y una lista de mercado
 **Expected_Success:** 0.70
 
 ### Enunciado
 ¿Cuál es la principal ventaja de estudiar un tema (como los pisos térmicos) con un mapa conceptual en lugar de solo leer una lista de datos?
 
-### Options
+### Opciones
 - [ ] A) Que el mapa conceptual usa menos papel. <!-- feedback: Incorrecto. No siempre es así, a veces ocupa más espacio. -->
 - [x] B) Que el mapa muestra visualmente cómo se relacionan las ideas entre sí. <!-- feedback: Correcto. La visualización de relaciones facilita la comprensión profunda y la memoria. -->
 - [ ] C) Que no hay que leer nada en el mapa conceptual. <!-- feedback: Incorrecto. Hay que leer conceptos y enlaces. -->
@@ -112,13 +117,13 @@ La visualización de relaciones jerárquicas y asociativas es la fortaleza pedag
 **ID:** `CO-LEN-4-2026-W10-tecnicas-estudio-mapa-conceptual-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Creación de un mapa conceptual sobre el sistema solar en una escuela de Neiva
+**Contexto:** Creación de un mapa conceptual sobre el sistema solar en una escuela de Neiva
 **Expected_Success:** 0.72
 
 ### Enunciado
 Si estás haciendo un mapa conceptual sobre el "Sistema Solar", ¿cuál de estos conceptos debería ir en la parte más alta del mapa?
 
-### Options
+### Opciones
 - [ ] A) La Tierra. <!-- feedback: Incorrecto. Es un planeta específico, no el tema general. -->
 - [ ] B) Los anillos de Saturno. <!-- feedback: Incorrecto. Es un detalle muy específico que iría abajo. -->
 - [x] C) Sistema Solar. <!-- feedback: Correcto. El tema principal o más general siempre encabeza el mapa conceptual. -->
@@ -134,13 +139,13 @@ La habilidad de jerarquizar es central. El estudiante debe ser capaz de identifi
 **ID:** `CO-LEN-4-2026-W10-tecnicas-estudio-mapa-conceptual-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Errores comunes en la creación de mapas conceptuales
+**Contexto:** Errores comunes en la creación de mapas conceptuales
 **Expected_Success:** 0.65
 
 ### Enunciado
 Marta hizo un mapa conceptual pero puso párrafos enteros de 5 renglones dentro de cada cuadro. ¿Por qué esto es un error según las reglas de esta técnica?
 
-### Options
+### Opciones
 - [ ] A) Porque se gasta mucha tinta escribiendo tanto. <!-- feedback: Incorrecto. El problema no es el gasto de tinta sino la falta de síntesis. -->
 - [x] B) Porque los cuadros deben contener conceptos breves (palabras clave), no textos largos. <!-- feedback: Correcto. La función del mapa es sintetizar; para textos largos ya están los libros. -->
 - [ ] C) Porque los cuadros se ven muy grandes y feos. <!-- feedback: Incorrecto. Es un problema de contenido y función, no de estética. -->
@@ -156,13 +161,13 @@ La capacidad de síntesis es vital. El mapa conceptual obliga al estudiante a ex
 **ID:** `CO-LEN-4-2026-W10-tecnicas-estudio-mapa-conceptual-001-MASTERY-v7`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** Evaluación de la coherencia en un mapa sobre la historia de la independencia
+**Contexto:** Evaluación de la coherencia en un mapa sobre la historia de la independencia
 **Expected_Success:** 0.60
 
 ### Enunciado
 Observa esta parte de un mapa: [Simón Bolívar] --(fue un)-- [Pintor famoso]. ¿Qué problema encuentras en esta relación del mapa conceptual?
 
-### Options
+### Opciones
 - [ ] A) Que falta poner la fecha de nacimiento. <!-- feedback: Incorrecto. No es obligatorio en todos los mapas. -->
 - [ ] B) Que la palabra de enlace "fue un" está muy corta. <!-- feedback: Incorrecto. Las palabras de enlace deben ser breves. -->
 - [x] C) Que la relación es falsa, pues Bolívar fue un militar y político, no un pintor. <!-- feedback: Correcto. Los mapas conceptuales deben representar información veraz y coherente con el tema. -->
@@ -178,13 +183,13 @@ La veracidad del contenido es fundamental. Un mapa conceptual es una herramienta
 **ID:** `CO-LEN-4-2026-W10-tecnicas-estudio-mapa-conceptual-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** Transformación de un texto sobre el ciclo de la vida en un mapa
+**Contexto:** Transformación de un texto sobre el ciclo de la vida en un mapa
 **Expected_Success:** 0.58
 
 ### Enunciado
 "Los seres vivos nacen, crecen, se reproducen y mueren". Si pasamos esto a un mapa conceptual con el título "Ciclo de la Vida", ¿cuántas líneas de enlace saldrían del concepto principal para mostrar estas etapas?
 
-### Options
+### Opciones
 - [ ] A) Una sola línea que diga todo. <!-- feedback: Incorrecto. Cada etapa es un concepto diferente que debe separarse. -->
 - [ ] B) Dos líneas, una para nacer y otra para morir. <!-- feedback: Incorrecto. Se perderían las etapas intermedias. -->
 - [x] C) Cuatro líneas, una para cada una de las etapas mencionadas. <!-- feedback: Correcto. Cada verbo representa una acción o estado que debe estar conectado al concepto principal. -->

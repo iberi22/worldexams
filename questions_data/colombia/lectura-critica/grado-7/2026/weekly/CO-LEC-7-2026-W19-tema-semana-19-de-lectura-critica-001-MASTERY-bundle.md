@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-7-2026-W19-tema-semana-19-de-lectura-critica-001-MASTERY"
+id: "CO-LEC-7-2026-W19-tema-semana-19-de-lectura-critica-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 12
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 12
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W19 — Tema Semana 19 de Lectura Critica
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Ibagué
+**Contexto:** Gimnasio Moderno en Ibagué
 **Expected_Success:** 0.71
 
 ### Enunciado
 En la clase de Lectura Critica del Gimnasio Moderno en Ibagué, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 19 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Pereira
+**Contexto:** I.E. Gabriel García Márquez en Pereira
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Gabriel García Márquez en Pereira, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 19 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. Jorge Eliécer Gaitán en Manizales
+**Contexto:** I.E. Jorge Eliécer Gaitán en Manizales
 **Expected_Success:** 0.51
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Jorge Eliécer Gaitán en Manizales, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 19 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** I.E. Santa Luisa de Marillac en Bucaramanga
+**Contexto:** I.E. Santa Luisa de Marillac en Bucaramanga
 **Expected_Success:** 0.63
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Bucaramanga, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 19 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** Colegio Nacional San Bartolomé en Riohacha
+**Contexto:** Colegio Nacional San Bartolomé en Riohacha
 **Expected_Success:** 0.76
 
 ### Enunciado
 En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Riohacha, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 19 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Cali
+**Contexto:** Colegio Nacional San Bartolomé en Cali
 **Expected_Success:** 0.53
 
 ### Enunciado
 En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Cali, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 19 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Quibdó
+**Contexto:** Gimnasio Moderno en Quibdó
 **Expected_Success:** 0.53
 
 ### Enunciado
 En la clase de Lectura Critica del Gimnasio Moderno en Quibdó, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 19 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Neiva
+**Contexto:** Colegio La Presentación en Neiva
 **Expected_Success:** 0.56
 
 ### Enunciado
 En la clase de Lectura Critica del Colegio La Presentación en Neiva, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 19 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. Francisco de Paula Santander en Manizales
+**Contexto:** I.E. Francisco de Paula Santander en Manizales
 **Expected_Success:** 0.66
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Manizales, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 19 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** I.E. San José en Cúcuta
+**Contexto:** I.E. San José en Cúcuta
 **Expected_Success:** 0.61
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. San José en Cúcuta, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -244,13 +249,13 @@ El tema de Tema Semana 19 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v11`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Cartagena
+**Contexto:** Gimnasio Moderno en Cartagena
 **Expected_Success:** 0.80
 
 ### Enunciado
 En la clase de Lectura Critica del Gimnasio Moderno en Cartagena, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -266,13 +271,13 @@ El tema de Tema Semana 19 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** I.E. San José en Barranquilla
+**Contexto:** I.E. San José en Barranquilla
 **Expected_Success:** 0.79
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. San José en Barranquilla, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

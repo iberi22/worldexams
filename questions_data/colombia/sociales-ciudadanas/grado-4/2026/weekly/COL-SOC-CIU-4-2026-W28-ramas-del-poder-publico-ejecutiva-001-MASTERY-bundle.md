@@ -1,5 +1,5 @@
 ---
-id: "COL-SOC-CIU-4-2026-W28-ramas-del-poder-publico-ejecutiva-001-MASTERY"
+id: "COL-SOC-CIU-4-2026-W28-ramas-del-poder-publico-ejecutiva-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Rama Ejecutiva del poder público: presidente, ministros, gobe
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Rama Ejecutiva del poder público
 
@@ -30,14 +35,15 @@ Este bundle explica la Rama Ejecutiva del poder público en Colombia.
 ## Question 1 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W28-ramas-del-poder-publico-ejecutiva-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Rama Ejecutiva en Sincelejo
+**Contexto:** Rama Ejecutiva en Sincelejo
 
 ### Enunciado
 ¿Quién es la máxima autoridad de la Rama Ejecutiva en Colombia?
 
-### Options
+### Opciones
 - [ ] A) El presidente del Congreso. <!-- feedback: Incorrecto. Esa es una autoridad legislativa. -->
 - [x] B) El presidente de la república. <!-- feedback: Correcto. El presidente es el jefe del gobierno y de la Rama Ejecutiva. -->
 - [ ] C) El presidente de la Corte Suprema. <!-- feedback: Incorrecto. Esa es una autoridad judicial. -->
@@ -51,14 +57,15 @@ Este bundle explica la Rama Ejecutiva del poder público en Colombia.
 ## Question 2 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W28-ramas-del-poder-publico-ejecutiva-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Funciones del presidente
+**Contexto:** Funciones del presidente
 
 ### Enunciado
 ¿Cuál es la función principal del presidente de Colombia?
 
-### Options
+### Opciones
 - [ ] A) Hacer las leyes. <!-- feedback: Incorrecto. Hacer leyes es función del Congreso. -->
 - [ ] B) Juzgar a los delincuentes. <!-- feedback: Incorrecto. Juzgar es función de los jueces. -->
 - [x] C) Gobernar el país, hacer cumplir las leyes y administrar los recursos del Estado. <!-- feedback: Correcto. El presidente ejecuta las leyes y dirige el gobierno. -->
@@ -72,14 +79,15 @@ Este bundle explica la Rama Ejecutiva del poder público en Colombia.
 ## Question 3 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W28-ramas-del-poder-publico-ejecutiva-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Ministros
+**Contexto:** Ministros
 
 ### Enunciado
 ¿Qué son los ministerios y qué hacen?
 
-### Options
+### Opciones
 - [ ] A) Tiendas del gobierno. <!-- feedback: Incorrecto. No son comercios. -->
 - [x] B) Oficinas que ayudan al presidente a gobernar en áreas específicas como educación, salud y defensa. <!-- feedback: Correcto. Cada ministerio se encarga de un tema específico. -->
 - [ ] C) Escuelas para políticos. <!-- feedback: Incorrecto. No son instituciones educativas. -->
@@ -93,14 +101,15 @@ Este bundle explica la Rama Ejecutiva del poder público en Colombia.
 ## Question 4 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W28-ramas-del-poder-publico-ejecutiva-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Gobernadores
+**Contexto:** Gobernadores
 
 ### Enunciado
 ¿Quién es la máxima autoridad ejecutiva en un departamento?
 
-### Options
+### Opciones
 - [ ] A) El alcalde. <!-- feedback: Incorrecto. El alcalde es municipal. -->
 - [x] B) El gobernador. <!-- feedback: Correcto. El gobernador es el jefe de la administración departamental. -->
 - [ ] C) El senador. <!-- feedback: Incorrecto. El senador es legislador nacional. -->
@@ -114,14 +123,15 @@ Este bundle explica la Rama Ejecutiva del poder público en Colombia.
 ## Question 5 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W28-ramas-del-poder-publico-ejecutiva-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Alcalde municipal
+**Contexto:** Alcalde municipal
 
 ### Enunciado
 ¿Quién es la máxima autoridad ejecutiva en un municipio?
 
-### Options
+### Opciones
 - [ ] A) El concejal. <!-- feedback: Incorrecto. El concejal es miembro del concejo (legislativo local). -->
 - [ ] B) El diputado. <!-- feedback: Incorrecto. El diputado está en la asamblea departamental. -->
 - [x] C) El alcalde. <!-- feedback: Correcto. El alcalde es la primera autoridad ejecutiva del municipio. -->
@@ -135,14 +145,15 @@ Este bundle explica la Rama Ejecutiva del poder público en Colombia.
 ## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W28-ramas-del-poder-publico-ejecutiva-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** ¿Qué hace un alcalde?
+**Contexto:** ¿Qué hace un alcalde?
 
 ### Enunciado
 ¿Cuál es una función del alcalde municipal?
 
-### Options
+### Opciones
 - [ ] A) Declarar la guerra. <!-- feedback: Incorrecto. Es función del presidente. -->
 - [ ] B) Crear leyes nacionales. <!-- feedback: Incorrecto. Es función del Congreso. -->
 - [x] C) Administrar los servicios públicos del municipio, como el agua, el aseo y las vías. <!-- feedback: Correcto. El alcalde gestiona los servicios y obras del municipio. -->
@@ -156,14 +167,15 @@ Este bundle explica la Rama Ejecutiva del poder público en Colombia.
 ## Question 7 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W28-ramas-del-poder-publico-ejecutiva-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Separación de poderes
+**Contexto:** Separación de poderes
 
 ### Enunciado
 ¿Por qué el presidente no puede hacer leyes por sí mismo?
 
-### Options
+### Opciones
 - [ ] A) Porque no sabe hacer leyes. <!-- feedback: Incorrecto. Es por el principio de separación de poderes. -->
 - [x] B) Porque la Constitución establece que la función de hacer leyes es del Congreso, para evitar que una sola persona concentre todo el poder. <!-- feedback: Correcto. La separación de poderes evita la concentración del poder. -->
 - [ ] C) Porque los ministros no lo dejan. <!-- feedback: Incorrecto. Es un principio constitucional. -->
@@ -177,14 +189,15 @@ Este bundle explica la Rama Ejecutiva del poder público en Colombia.
 ## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W28-ramas-del-poder-publico-ejecutiva-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Niveles del Ejecutivo
+**Contexto:** Niveles del Ejecutivo
 
 ### Enunciado
 La Rama Ejecutiva tiene tres niveles: nacional, departamental y municipal. ¿Por qué es importante esta organización?
 
-### Options
+### Opciones
 - [ ] A) No es importante, todos deberían hacer lo mismo. <!-- feedback: Incorrecto. Cada nivel tiene su función. -->
 - [ ] B) Es confuso y no funciona. <!-- feedback: Incorrecto. La organización territorial es clave. -->
 - [x] C) Porque cada nivel atiende las necesidades específicas de su territorio, acercando el gobierno a los ciudadanos. <!-- feedback: Correcto. La descentralización permite una gestión más cercana. -->
@@ -198,14 +211,15 @@ La Rama Ejecutiva tiene tres niveles: nacional, departamental y municipal. ¿Por
 ## Question 9 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W28-ramas-del-poder-publico-ejecutiva-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Rendición de cuentas
+**Contexto:** Rendición de cuentas
 
 ### Enunciado
 ¿Crees que los gobernantes deben rendir cuentas a los ciudadanos?
 
-### Options
+### Opciones
 - [ ] A) No, porque fueron elegidos y ya. <!-- feedback: Incorrecto. La rendición de cuentas es fundamental. -->
 - [x] B) Sí, porque los ciudadanos tenemos derecho a saber cómo se están usando los recursos y qué resultados está dando el gobierno. <!-- feedback: Correcto. La rendición de cuentas es un principio de transparencia. -->
 - [ ] C) Solo los alcaldes deben rendir cuentas. <!-- feedback: Incorrecto. Todos los niveles deben hacerlo. -->
@@ -220,13 +234,14 @@ La Rama Ejecutiva tiene tres niveles: nacional, departamental y municipal. ¿Por
 
 **ID:** `COL-SOC-CIU-4-2026-W28-ramas-del-poder-publico-ejecutiva-001-MASTERY-v10`
 **Bloom:** [Create]
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Candidato a personero
+**Contexto:** Candidato a personero
 
 ### Enunciado
 Si fueras candidato a personero estudiantil, ¿qué propuestas harías para mejorar tu colegio?
 
-### Options
+### Opciones
 - [ ] A) Prometer que no habrá clase. <!-- feedback: Incorrecto. No es una propuesta viable. -->
 - [x] B) Proponer mejoras en el restaurante escolar, crear un buzón de sugerencias y organizar jornadas de reciclaje. <!-- feedback: Correcto. Propuestas concretas y realizables demuestran liderazgo. -->
 - [ ] C) Decir que no harás nada. <!-- feedback: Incorrecto. Un líder debe proponer. -->

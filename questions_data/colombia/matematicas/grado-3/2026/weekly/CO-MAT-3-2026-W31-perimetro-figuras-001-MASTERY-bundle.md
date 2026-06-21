@@ -1,11 +1,11 @@
 ---
-id: "CO-MAT-3-2026-W31-perimetro-figuras-001-MASTERY"
+id: "CO-MAT-3-2026-W31-perimetro-figuras-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "matematicas"
 tema: "perimetro-figuras"
 periodo: "weekly"
-semana: 31
+week: "W31"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -20,7 +20,12 @@ rubric_baseline: "calculo del perimetro de figuras planas"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W31: Perimetro de Figuras
 
@@ -31,12 +36,12 @@ Este bundle evalua calculo del perimetro de figuras planas, en contextos cotidia
 **Bloom:** Remember
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.95
-**Context:** En Colegio El Rosario de Ibague de Ibague
+**Contexto:** En Colegio El Rosario de Ibague de Ibague
 
 ### Enunciado
 Un cuadrado tiene 4 lados de 5 cm cada uno. Cual es su perimetro?
 
-### Options
+### Opciones
 - [x] A) 20 cm <!-- feedback: Correcto! 5+5+5+5=20 cm. -->
 - [ ] B) 25 cm <!-- feedback: 5x5=25 es el area. -->
 - [ ] C) 15 cm <!-- feedback: 5+5+5=15, faltaria un lado. -->
@@ -51,12 +56,12 @@ Perimetro es la suma de todos los lados. Cuadrado: 4 x 5 = 20 cm.
 **Bloom:** Understand
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.91
-**Context:** En Colegio San Agustin de Sincelejo de Sincelejo
+**Contexto:** En Colegio San Agustin de Sincelejo de Sincelejo
 
 ### Enunciado
 Un rectangulo mide 6 cm de largo y 3 cm de ancho. Cual es su perimetro?
 
-### Options
+### Opciones
 - [x] A) 18 cm <!-- feedback: Correcto! 6+3+6+3=18 cm. -->
 - [ ] B) 9 cm <!-- feedback: 6+3=9, solo dos lados. -->
 - [ ] C) 12 cm <!-- feedback: 6+6=12, faltan los otros dos. -->
@@ -71,12 +76,12 @@ Perimetro: suma de todos los lados. 6+3+6+3 = 18 cm.
 **Bloom:** Apply
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.87
-**Context:** En Colegio Simon Bolivar de Bucaramanga de Sincelejo
+**Contexto:** En Colegio Simon Bolivar de Bucaramanga de Sincelejo
 
 ### Enunciado
 En una cuadricula, una figura cubre 8 cuadrados. Cual es su area?
 
-### Options
+### Opciones
 - [x] A) 8 unidades cuadradas <!-- feedback: Correcto! Area = conteo de cuadrados = 8. -->
 - [ ] B) 8 unidades lineales <!-- feedback: El area se mide en unidades cuadradas, no lineales. -->
 - [ ] C) 4 unidades <!-- feedback: Debes contar todos los cuadrados. -->
@@ -91,12 +96,12 @@ El area se calcula contando los cuadrados unitarios dentro de la figura. Area = 
 **Bloom:** Analyze
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.83
-**Context:** En Colegio San Luis Gonzaga de Manizales de Cartagena
+**Contexto:** En Colegio San Luis Gonzaga de Manizales de Cartagena
 
 ### Enunciado
 Un rectangulo tiene 4 filas de 3 cuadrados cada una. Cual es su area?
 
-### Options
+### Opciones
 - [x] A) 12 unidades cuadradas <!-- feedback: Correcto! 4 x 3 = 12 cuadrados. -->
 - [ ] B) 7 unidades <!-- feedback: 4+3=7, no es area. -->
 - [ ] C) 14 unidades <!-- feedback: 4x3=12, no 14. -->
@@ -111,12 +116,12 @@ Area = largo x ancho = 4 x 3 = 12 unidades cuadradas.
 **Bloom:** Evaluate
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.79
-**Context:** En Colegio Rafael Nunez de Cartagena de Bogota
+**Contexto:** En Colegio Rafael Nunez de Cartagena de Bogota
 
 ### Enunciado
 Un cuadrado tiene 4 lados de 5 cm cada uno. Cual es su perimetro?
 
-### Options
+### Opciones
 - [x] A) 20 cm <!-- feedback: Correcto! 5+5+5+5=20 cm. -->
 - [ ] B) 25 cm <!-- feedback: 5x5=25 es el area. -->
 - [ ] C) 15 cm <!-- feedback: 5+5+5=15, faltaria un lado. -->
@@ -131,12 +136,12 @@ Perimetro es la suma de todos los lados. Cuadrado: 4 x 5 = 20 cm.
 **Bloom:** Remember
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.75
-**Context:** En Colegio Simon Bolivar de Bucaramanga de Bogota
+**Contexto:** En Colegio Simon Bolivar de Bucaramanga de Bogota
 
 ### Enunciado
 Un rectangulo mide 6 cm de largo y 3 cm de ancho. Cual es su perimetro?
 
-### Options
+### Opciones
 - [x] A) 18 cm <!-- feedback: Correcto! 6+3+6+3=18 cm. -->
 - [ ] B) 9 cm <!-- feedback: 6+3=9, solo dos lados. -->
 - [ ] C) 12 cm <!-- feedback: 6+6=12, faltan los otros dos. -->
@@ -151,12 +156,12 @@ Perimetro: suma de todos los lados. 6+3+6+3 = 18 cm.
 **Bloom:** Understand
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.71
-**Context:** En Colegio Rafael Nunez de Cartagena de Barranquilla
+**Contexto:** En Colegio Rafael Nunez de Cartagena de Barranquilla
 
 ### Enunciado
 En una cuadricula, una figura cubre 8 cuadrados. Cual es su area?
 
-### Options
+### Opciones
 - [x] A) 8 unidades cuadradas <!-- feedback: Correcto! Area = conteo de cuadrados = 8. -->
 - [ ] B) 8 unidades lineales <!-- feedback: El area se mide en unidades cuadradas, no lineales. -->
 - [ ] C) 4 unidades <!-- feedback: Debes contar todos los cuadrados. -->
@@ -171,12 +176,12 @@ El area se calcula contando los cuadrados unitarios dentro de la figura. Area = 
 **Bloom:** Apply
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.67
-**Context:** En Colegio San Luis Gonzaga de Manizales de Sincelejo
+**Contexto:** En Colegio San Luis Gonzaga de Manizales de Sincelejo
 
 ### Enunciado
 Un rectangulo tiene 4 filas de 3 cuadrados cada una. Cual es su area?
 
-### Options
+### Opciones
 - [x] A) 12 unidades cuadradas <!-- feedback: Correcto! 4 x 3 = 12 cuadrados. -->
 - [ ] B) 7 unidades <!-- feedback: 4+3=7, no es area. -->
 - [ ] C) 14 unidades <!-- feedback: 4x3=12, no 14. -->
@@ -191,12 +196,12 @@ Area = largo x ancho = 4 x 3 = 12 unidades cuadradas.
 **Bloom:** Analyze
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.63
-**Context:** En Inem Santiago Perez de Armenia de Popayan
+**Contexto:** En Inem Santiago Perez de Armenia de Popayan
 
 ### Enunciado
 Un cuadrado tiene 4 lados de 5 cm cada uno. Cual es su perimetro?
 
-### Options
+### Opciones
 - [x] A) 20 cm <!-- feedback: Correcto! 5+5+5+5=20 cm. -->
 - [ ] B) 25 cm <!-- feedback: 5x5=25 es el area. -->
 - [ ] C) 15 cm <!-- feedback: 5+5+5=15, faltaria un lado. -->
@@ -211,12 +216,12 @@ Perimetro es la suma de todos los lados. Cuadrado: 4 x 5 = 20 cm.
 **Bloom:** Evaluate
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.59
-**Context:** En Colegio San Luis Gonzaga de Manizales de Barranquilla
+**Contexto:** En Colegio San Luis Gonzaga de Manizales de Barranquilla
 
 ### Enunciado
 Un rectangulo mide 6 cm de largo y 3 cm de ancho. Cual es su perimetro?
 
-### Options
+### Opciones
 - [x] A) 18 cm <!-- feedback: Correcto! 6+3+6+3=18 cm. -->
 - [ ] B) 9 cm <!-- feedback: 6+3=9, solo dos lados. -->
 - [ ] C) 12 cm <!-- feedback: 6+6=12, faltan los otros dos. -->

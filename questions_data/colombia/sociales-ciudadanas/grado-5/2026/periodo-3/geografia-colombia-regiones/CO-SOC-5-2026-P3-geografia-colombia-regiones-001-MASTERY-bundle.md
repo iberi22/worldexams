@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-5-2026-P3-geografia-colombia-regiones-001-MASTERY"
+id: "CO-SOC-5-2026-P3-geografia-colombia-regiones-001-MASTERY-bundle"
 country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Geografía de Colombia, regiones geográficas, relieve, clima, hidrografía, biodiversidad, localización, fronteras, división política"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Geografía de Colombia - Regiones
 
@@ -27,14 +34,15 @@ Este bundle cubre la geografía de Colombia: su localización en el mundo, lími
 ## Question 1 [D3]
 
 **ID:** `CO-SOC-5-2026-P3-geografia-colombia-regiones-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Normal Superior de Bucaramanga, la profesora pregunta por la ubicación de Colombia en el mundo.
+**Contexto:** En la clase de sociales de la I.E. Normal Superior de Bucaramanga, la profesora pregunta por la ubicación de Colombia en el mundo.
 
 ### Enunciado
 Colombia está ubicada en:
 
-### Options
+### Opciones
 - [ ] A) El hemisferio sur, al norte de la Antártida. <!-- feedback: Incorrecto. Colombia está en el hemisferio norte, cerca del Ecuador. -->
 - [x] B) El extremo noroccidental de Sudamérica, en la zona tropical, atravesada por la línea del Ecuador. <!-- feedback: Correcto. Colombia está ubicada en el noroccidente de Sudamérica, con costas en dos océanos, y está atravesada por la línea ecuatorial, lo que le da un clima tropical sin estaciones. -->
 - [ ] C) El centro de África, al sur del Sahara. <!-- feedback: Incorrecto. Colombia está en Sudamérica, no en África. -->
@@ -48,14 +56,15 @@ Se evalúa el conocimiento de la localización de Colombia. La respuesta correct
 ## Question 2 [D3]
 
 **ID:** `CO-SOC-5-2026-P3-geografia-colombia-regiones-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. José María Córdoba del Socorro, el profesor pregunta cuántos países tiene Colombia como frontera.
+**Contexto:** En la clase de sociales de la I.E. José María Córdoba del Socorro, el profesor pregunta cuántos países tiene Colombia como frontera.
 
 ### Enunciado
 Colombia comparte fronteras terrestres con:
 
-### Options
+### Opciones
 - [ ] A) 3 países: Ecuador, Perú y Brasil. <!-- feedback: Incorrecto. Colombia tiene más de 3 fronteras terrestres. -->
 - [ ] B) 4 países: Venezuela, Brasil, Perú y Ecuador. <!-- feedback: Cerca, pero falta uno. -->
 - [x] C) 5 países: Venezuela, Brasil, Perú, Ecuador y Panamá. <!-- feedback: Correcto. Colombia tiene fronteras terrestres con Venezuela, Brasil, Perú, Ecuador y Panamá. Además tiene fronteras marítimas con varios países del Caribe y Centroamérica. -->
@@ -69,14 +78,15 @@ Se evalúa el conocimiento de los países fronterizos de Colombia. La respuesta 
 ## Question 3 [D4]
 
 **ID:** `CO-SOC-5-2026-P3-geografia-colombia-regiones-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales de la I.E. Gabriel García Márquez de Santa Marta, la profesora explica las regiones naturales de Colombia.
+**Contexto:** En la clase de sociales de la I.E. Gabriel García Márquez de Santa Marta, la profesora explica las regiones naturales de Colombia.
 
 ### Enunciado
 Colombia se divide en seis regiones naturales. ¿Cuáles son?
 
-### Options
+### Opciones
 - [ ] A) Norte, Sur, Este, Oeste, Centro y Occidente. <!-- feedback: Incorrecto. Esas son divisiones por puntos cardinales, no regiones naturales. -->
 - [x] B) Andina, Caribe, Pacífica, Orinoquía, Amazonía e Insular. <!-- feedback: Correcto. Las seis regiones naturales de Colombia son: Andina (montañas), Caribe (costa norte), Pacífica (costa oeste), Orinoquía (llanos orientales), Amazonía (selva sur) e Insular (islas). -->
 - [ ] C) Bogotá, Medellín, Cali, Barranquilla, Cartagena y Bucaramanga. <!-- feedback: Incorrecto. Esas son ciudades, no regiones naturales. -->
@@ -90,14 +100,15 @@ Se evalúa la comprensión de las regiones naturales de Colombia. La respuesta c
 ## Question 4 [D4]
 
 **ID:** `CO-SOC-5-2026-P3-geografia-colombia-regiones-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Técnica de Segovia, Antioquia, la profesora pregunta características de la región Andina.
+**Contexto:** En la clase de sociales de la I.E. Técnica de Segovia, Antioquia, la profesora pregunta características de la región Andina.
 
 ### Enunciado
 La región Andina se caracteriza por:
 
-### Options
+### Opciones
 - [ ] A) Ser una extensa llanura plana sin montañas. <!-- feedback: Incorrecto. La región Andina es montañosa. -->
 - [ ] B) Estar formada por islas dispersas en el océano. <!-- feedback: Incorrecto. La región Insular es la que tiene islas. -->
 - [x] C) Estar atravesada por las tres cordilleras de los Andes (Occidental, Central, Oriental), tener gran variedad de pisos térmicos y concentrar la mayor parte de la población colombiana. <!-- feedback: Correcto. La región Andina es la más poblada y diversa en climas, con valles, altiplanos (como la Sabana de Bogotá) y nevados. -->
@@ -111,14 +122,15 @@ Se evalúa la comprensión de las características de la región Andina. La resp
 ## Question 5 [D4]
 
 **ID:** `CO-SOC-5-2026-P3-geografia-colombia-regiones-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. San Juan de Pasto, los estudiantes comparan las regiones Caribe y Pacífica.
+**Contexto:** En la clase de sociales de la I.E. San Juan de Pasto, los estudiantes comparan las regiones Caribe y Pacífica.
 
 ### Enunciado
 Una diferencia importante entre la región Caribe y la región Pacífica es:
 
-### Options
+### Opciones
 - [ ] A) No hay diferencias, son iguales. <!-- feedback: Incorrecto. Tienen características distintas. -->
 - [ ] B) La Caribe es montañosa y la Pacífica es plana. <!-- feedback: Incorrecto. La Caribe tiene llanuras y montañas (Sierra Nevada), la Pacífica es mayormente selva. -->
 - [x] C) La región Caribe tiene un clima más seco con zonas desérticas (La Guajira) y sabanas, mientras que la región Pacífica es una de las zonas más lluviosas del mundo, con selva húmeda tropical. <!-- feedback: Correcto. La Caribe presenta variedad de paisajes (desierto, sabanas, montañas) mientras que la Pacífica es extremadamente lluviosa y selvática. -->
@@ -132,14 +144,15 @@ Se evalúa la capacidad de comparar regiones. La respuesta correcta contrasta lo
 ## Question 6 [D4]
 
 **ID:** `CO-SOC-5-2026-P3-geografia-colombia-regiones-001-MASTERY-v6`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales de la I.E. Técnica de Puerto Carreño, Vichada, el profesor explica la Orinoquía.
+**Contexto:** En la clase de sociales de la I.E. Técnica de Puerto Carreño, Vichada, el profesor explica la Orinoquía.
 
 ### Enunciado
 La región de la Orinoquía, también conocida como los Llanos Orientales, se caracteriza por:
 
-### Options
+### Opciones
 - [ ] A) Altas montañas y nieves perpetuas. <!-- feedback: Incorrecto. Es una región de llanura, no de montañas. -->
 - [ ] B) Grandes ciudades industriales. <!-- feedback: Incorrecto. La Orinoquía tiene baja densidad poblacional. -->
 - [x] C) Extensas sabanas planas ideales para la ganadería, un clima cálido con temporada seca y de lluvias, y ríos que desembocan en el Orinoco. <!-- feedback: Correcto. Los Llanos Orientales son llanuras que se extienden desde la Cordillera Oriental hasta el río Orinoco, con sabanas dedicadas a la ganadería extensiva. -->
@@ -153,14 +166,15 @@ Se evalúa la comprensión de las características de la Orinoquía. La respuest
 ## Question 7 [D4]
 
 **ID:** `CO-SOC-5-2026-P3-geografia-colombia-regiones-001-MASTERY-v7`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. José Celestino Mutis de Leticia, Amazonas, los estudiantes estudian la Amazonía colombiana.
+**Contexto:** En la clase de sociales de la I.E. José Celestino Mutis de Leticia, Amazonas, los estudiantes estudian la Amazonía colombiana.
 
 ### Enunciado
 La región Amazónica colombiana se caracteriza por:
 
-### Options
+### Opciones
 - [ ] A) Ser la región más poblada y desarrollada del país. <!-- feedback: Incorrecto. Es la región menos poblada. -->
 - [ ] B) Tener un clima frío y seco la mayor parte del año. <!-- feedback: Incorrecto. La Amazonía es cálida y muy húmeda. -->
 - [x] C) Tener selva tropical lluviosa, alta biodiversidad, ríos caudalosos como el Amazonas y una baja densidad de población, con predominio de comunidades indígenas. <!-- feedback: Correcto. La Amazonía colombiana cubre el 42% del territorio nacional pero alberga menos del 2% de la población, principalmente comunidades indígenas. Es una de las zonas con mayor biodiversidad del planeta. -->
@@ -174,14 +188,15 @@ Se evalúa la capacidad de describir la Amazonía colombiana. La respuesta corre
 ## Question 8 [D5]
 
 **ID:** `CO-SOC-5-2026-P3-geografia-colombia-regiones-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En la clase de sociales de la I.E. INEM de Medellín, la profesora pregunta por qué Colombia es considerada un país megadiverso.
+**Contexto:** En la clase de sociales de la I.E. INEM de Medellín, la profesora pregunta por qué Colombia es considerada un país megadiverso.
 
 ### Enunciado
 Colombia es considerada uno de los países megadiversos del mundo porque:
 
-### Options
+### Opciones
 - [ ] A) Es el país más grande de Sudamérica. <!-- feedback: Incorrecto. Brasil es el más grande, Colombia ocupa el cuarto lugar. -->
 - [ ] B) Tiene la mayor cantidad de habitantes del continente. <!-- feedback: Incorrecto. La biodiversidad no está relacionada con la población. -->
 - [x] C) Tiene una enorme variedad de ecosistemas (selvas, páramos, sabanas, bosques, arrecifes), ocupa el primer lugar en aves y orquídeas del mundo, y alberga aproximadamente el 10% de las especies del planeta. <!-- feedback: Correcto. Colombia es el país más biodiverso por kilómetro cuadrado, primero en aves, mariposas y orquídeas, segundo en plantas, anfibios y peces de agua dulce. -->
@@ -195,14 +210,15 @@ Se evalúa la capacidad de analizar la megadiversidad colombiana. La respuesta c
 ## Question 9 [D5]
 
 **ID:** `CO-SOC-5-2026-P3-geografia-colombia-regiones-001-MASTERY-v9`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. San José de Cúcuta, los estudiantes analizan el relieve de la región Andina.
+**Contexto:** En la clase de sociales de la I.E. San José de Cúcuta, los estudiantes analizan el relieve de la región Andina.
 
 ### Enunciado
 La región Andina es la más poblada de Colombia. Una razón para esto es:
 
-### Options
+### Opciones
 - [ ] A) Tiene el clima más extremo y difícil del país. <!-- feedback: Incorrecto. El clima extremo no atrae población. -->
 - [ ] B) No tiene recursos naturales. <!-- feedback: Incorrecto. Sí tiene recursos. -->
 - [x] C) Tiene suelos fértiles en los valles y altiplanos, clima templado en muchas zonas, concentración de vías de comunicación y las principales ciudades (Bogotá, Medellín, Cali). <!-- feedback: Correcto. La región Andina concentra las principales ciudades, la mayoría de la industria y el comercio, y las mejores vías de comunicación, lo que atrae a la población. -->
@@ -216,14 +232,15 @@ Se evalúa la capacidad de analizar por qué la región Andina concentra la pobl
 ## Question 10 [D5]
 
 **ID:** `CO-SOC-5-2026-P3-geografia-colombia-regiones-001-MASTERY-v10`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de formación ciudadana de la I.E. La Salle de Sincelejo, la profesora pregunta cómo la geografía influye en la cultura.
+**Contexto:** En la clase de formación ciudadana de la I.E. La Salle de Sincelejo, la profesora pregunta cómo la geografía influye en la cultura.
 
 ### Enunciado
 La geografía de cada región de Colombia influye en las costumbres de sus habitantes. Por ejemplo:
 
-### Options
+### Opciones
 - [ ] A) En todas las regiones se come exactamente lo mismo. <!-- feedback: Incorrecto. La gastronomía varía por región. -->
 - [ ] B) La geografía no tiene influencia en la cultura. <!-- feedback: Incorrecto. La geografía influye fuertemente en la cultura. -->
 - [x] C) En la región Caribe se baila cumbia, se come pescado frito y arroz de coco por su cercanía al mar; en la región Andina se consume ajiaco y se baila bambuco, adaptados al clima frío de las montañas. <!-- feedback: Correcto. La geografía determina los recursos disponibles, el clima, la vestimenta, la música, la gastronomía y las tradiciones de cada región. -->

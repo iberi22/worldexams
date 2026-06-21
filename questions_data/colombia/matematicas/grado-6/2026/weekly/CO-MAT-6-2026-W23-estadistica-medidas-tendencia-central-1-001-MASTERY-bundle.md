@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W23 -- Estadistica: Medidas de Tendencia Central (Parte 1)
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W23-estadistica-medidas-tendencia-central-1-001-MASTERY-bundle-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Definicion de media
+**Contexto:** Definicion de media
 
 ### Enunciado
 Que es la media aritmetica?
 
-### Options
+### Opciones
 - [x] A) Suma de datos dividida entre el numero de datos <!-- feedback: Correcto. -->
 - [ ] B) El valor que mas se repite <!-- feedback: Incorrecto, es moda. -->
 - [ ] C) Valor central ordenado <!-- feedback: Incorrecto, es mediana. -->
@@ -48,13 +51,14 @@ Media = suma de datos / cantidad de datos.
 
 **ID:** `CO-MAT-6-2026-W23-estadistica-medidas-tendencia-central-1-001-MASTERY-bundle-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Definicion de moda
+**Contexto:** Definicion de moda
 
 ### Enunciado
 Que es la moda?
 
-### Options
+### Opciones
 - [x] A) Valor que aparece con mayor frecuencia <!-- feedback: Correcto. -->
 - [ ] B) Valor que divide datos en dos partes <!-- feedback: Incorrecto, es mediana. -->
 - [ ] C) Promedio de todos los datos <!-- feedback: Incorrecto, es media. -->
@@ -69,13 +73,14 @@ La moda es el valor que mas se repite.
 
 **ID:** `CO-MAT-6-2026-W23-estadistica-medidas-tendencia-central-1-001-MASTERY-bundle-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Calcular media
+**Contexto:** Calcular media
 
 ### Enunciado
 Edades: 10, 11, 10, 12, 12. Promedio?
 
-### Options
+### Opciones
 - [x] A) 11 anos <!-- feedback: Correcto. Suma=55, media=55/5=11. -->
 - [ ] B) 10 anos <!-- feedback: Incorrecto. -->
 - [ ] C) 12 anos <!-- feedback: Incorrecto. -->
@@ -90,13 +95,14 @@ Edades: 10, 11, 10, 12, 12. Promedio?
 
 **ID:** `CO-MAT-6-2026-W23-estadistica-medidas-tendencia-central-1-001-MASTERY-bundle-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Calcular moda
+**Contexto:** Calcular moda
 
 ### Enunciado
 Notas: 4.0, 3.5, 4.5, 4.0, 3.0, 4.0, 5.0, 3.5. Moda?
 
-### Options
+### Opciones
 - [x] A) 4.0 (3 veces) <!-- feedback: Correcto. -->
 - [ ] B) 3.5 (2 veces) <!-- feedback: Incorrecto. -->
 - [ ] C) 5.0 (1 vez) <!-- feedback: Incorrecto. -->
@@ -111,13 +117,14 @@ Notas: 4.0, 3.5, 4.5, 4.0, 3.0, 4.0, 5.0, 3.5. Moda?
 
 **ID:** `CO-MAT-6-2026-W23-estadistica-medidas-tendencia-central-1-001-MASTERY-bundle-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Media en contexto
+**Contexto:** Media en contexto
 
 ### Enunciado
 Temperaturas: 28, 31, 29, 32, 30. Media?
 
-### Options
+### Opciones
 - [x] A) 30 grados <!-- feedback: Correcto. Suma=150, media=30. -->
 - [ ] B) 29 <!-- feedback: Incorrecto. -->
 - [ ] C) 31 <!-- feedback: Incorrecto. -->
@@ -132,13 +139,14 @@ Temperaturas: 28, 31, 29, 32, 30. Media?
 
 **ID:** `CO-MAT-6-2026-W23-estadistica-medidas-tendencia-central-1-001-MASTERY-bundle-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Moda en contexto
+**Contexto:** Moda en contexto
 
 ### Enunciado
 Calzado: 36, 37, 36, 38, 37, 36, 39, 37, 36, 38. Talla mas comun?
 
-### Options
+### Opciones
 - [x] A) 36 (4 veces) <!-- feedback: Correcto. -->
 - [ ] B) 37 (3 veces) <!-- feedback: Incorrecto. -->
 - [ ] C) 38 (2 veces) <!-- feedback: Incorrecto. -->
@@ -153,13 +161,14 @@ Calzado: 36, 37, 36, 38, 37, 36, 39, 37, 36, 38. Talla mas comun?
 
 **ID:** `CO-MAT-6-2026-W23-estadistica-medidas-tendencia-central-1-001-MASTERY-bundle-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Dato faltante
+**Contexto:** Dato faltante
 
 ### Enunciado
 Promedio de 4 notas = 3.5. Tres notas: 3.0, 4.0, 3.5. Cuarta nota?
 
-### Options
+### Opciones
 - [x] A) 3.5 <!-- feedback: Correcto. Suma=14. 14-10.5=3.5. -->
 - [ ] B) 4.0 <!-- feedback: Incorrecto. -->
 - [ ] C) 3.0 <!-- feedback: Incorrecto. -->
@@ -174,13 +183,14 @@ Promedio de 4 notas = 3.5. Tres notas: 3.0, 4.0, 3.5. Cuarta nota?
 
 **ID:** `CO-MAT-6-2026-W23-estadistica-medidas-tendencia-central-1-001-MASTERY-bundle-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Media ponderada
+**Contexto:** Media ponderada
 
 ### Enunciado
 3 estudiantes: 14s, 2: 15s, 1: 16s. Tiempo promedio?
 
-### Options
+### Opciones
 - [x] A) 14.67 s <!-- feedback: Correcto. -->
 - [ ] B) 15 s <!-- feedback: Incorrecto. -->
 - [ ] C) 14 s <!-- feedback: Incorrecto. -->

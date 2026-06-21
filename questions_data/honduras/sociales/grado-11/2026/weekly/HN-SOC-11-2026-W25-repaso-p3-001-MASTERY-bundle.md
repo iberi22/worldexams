@@ -20,6 +20,7 @@ tier: "legacy"
 creador: "Jules-Agent"
 ---
 
+
 # Bundle MASTERY: Repaso P3 - Grado 11
 
 Este bundle contiene 20 preguntas sobre **repaso p3** para grado 11,
@@ -38,14 +39,13 @@ alineadas con el CNB Honduras (Curriculo Nacional Basico) para Bachillerato 2026
 Según la Constitución de la República de Honduras, ¿cuáles son los tres poderes independientes que conforman el Gobierno?
 
 ### Opciones
-- [ ] A) Ejecutivo, Militar y Judicial.
-  <!-- feedback: Incorrecto. El poder militar no es un poder del Estado independiente en el marco democrático actual. -->
-- [x] B) Legislativo, Ejecutivo y Judicial.
-  <!-- feedback: ¡Correcto! Estos son los tres poderes clásicos que garantizan el equilibrio democrático en Honduras. -->
-- [ ] C) Legislativo, Municipal y Ejecutivo.
-  <!-- feedback: Incorrecto. El nivel municipal es una división administrativa, no un poder del Estado central. -->
-- [ ] D) Electoral, Judicial y Ciudadano.
-  <!-- feedback: Incorrecto. Aunque existen órganos electorales, la tríada fundamental es Legislativo, Ejecutivo y Judicial. -->
+- [ ] A) Ejecutivo, Militar y Judicial. <!-- feedback: Incorrecto. Ejecutivo, Militar y Judicial. -->
+
+- [x] B) Legislativo, Ejecutivo y Judicial. <!-- feedback: Correcto! Legislativo, Ejecutivo y Judicial. -->
+
+- [ ] C) Legislativo, Municipal y Ejecutivo. <!-- feedback: Incorrecto. Legislativo, Municipal y Ejecutivo. -->
+
+- [ ] D) Electoral, Judicial y Ciudadano. <!-- feedback: Incorrecto. Electoral, Judicial y Ciudadano. -->
 
 ### Explicacion Pedagogica
 La división de poderes es un principio fundamental del Estado de Derecho en Honduras, diseñado para evitar la concentración de poder y asegurar la democracia.
@@ -63,14 +63,13 @@ La división de poderes es un principio fundamental del Estado de Derecho en Hon
 ¿Cuál es la función primordial de la Constitución Política en una nación como Honduras?
 
 ### Opciones
-- [ ] A) Establecer únicamente los impuestos que deben pagar los ciudadanos.
-  <!-- feedback: Incorrecto. Esta es solo una función administrativa menor dentro de todo el marco constitucional. -->
-- [x] B) Ser la ley suprema que organiza el Estado y garantiza los derechos y deberes de los habitantes.
-  <!-- feedback: ¡Correcto! La Constitución es la "Carta Magna" que rige toda la estructura legal y social del país. -->
-- [ ] C) Dictar las sentencias en los juicios por delitos comunes.
-  <!-- feedback: Incorrecto. Esa es función del Poder Judicial a través de las leyes penales, no de la Constitución directamente. -->
-- [ ] D) Elegir directamente a los alcaldes de cada municipio.
-  <!-- feedback: Incorrecto. La Constitución define el proceso, pero no realiza la elección. -->
+- [ ] A) Establecer únicamente los impuestos que deben pagar los ciudadanos. <!-- feedback: Incorrecto. Establecer únicamente los impuestos que  -->
+
+- [x] B) Ser la ley suprema que organiza el Estado y garantiza los derechos y deberes de los habitantes. <!-- feedback: Correcto! Ser la ley suprema que organiza el Estado y garantiza los de -->
+
+- [ ] C) Dictar las sentencias en los juicios por delitos comunes. <!-- feedback: Incorrecto. Dictar las sentencias en los juicios por -->
+
+- [ ] D) Elegir directamente a los alcaldes de cada municipio. <!-- feedback: Incorrecto. Elegir directamente a los alcaldes de ca -->
 
 ### Explicacion Pedagogica
 La Constitución es el contrato social supremo que define la identidad del Estado hondureño y protege las libertades fundamentales de sus ciudadanos.
@@ -88,14 +87,13 @@ La Constitución es el contrato social supremo que define la identidad del Estad
 ¿Qué civilización mesoamericana alcanzó su máximo esplendor en el territorio del actual occidente de Honduras durante el período Clásico?
 
 ### Opciones
-- [ ] A) Azteca
-  <!-- feedback: Incorrecto. Los aztecas se establecieron principalmente en el centro de México. -->
-- [ ] B) Inca
-  <!-- feedback: Incorrecto. Los incas fueron la civilización dominante en la región andina de Suramérica. -->
-- [x] C) Maya
-  <!-- feedback: ¡Correcto! Copán fue una de las ciudades-estado más importantes de la civilización maya. -->
-- [ ] D) Lenca
-  <!-- feedback: Incorrecto. Aunque son un pueblo originario clave de Honduras, los mayas son los constructores de las grandes ruinas del occidente. -->
+- [ ] A) Azteca <!-- feedback: Incorrecto. Azteca -->
+
+- [ ] B) Inca <!-- feedback: Incorrecto. Inca -->
+
+- [x] C) Maya <!-- feedback: Correcto! Maya -->
+
+- [ ] D) Lenca <!-- feedback: Incorrecto. Lenca -->
 
 ### Explicacion Pedagogica
 Los mayas en Copán destacaron en astronomía, matemáticas y arquitectura, dejando un legado cultural que es Patrimonio de la Humanidad en Honduras.
@@ -113,14 +111,13 @@ Los mayas en Copán destacaron en astronomía, matemáticas y arquitectura, deja
 ¿Cuál fue uno de los objetivos principales de la Reforma Liberal en Honduras a finales del siglo XIX?
 
 ### Opciones
-- [ ] A) Regresar al sistema de encomiendas de la época colonial.
-  <!-- feedback: Incorrecto. La Reforma buscaba precisamente romper con estructuras coloniales atrasadas. -->
-- [x] B) Modernizar el Estado, fomentar la educación laica e incentivar la inversión extranjera.
-  <!-- feedback: ¡Correcto! Se buscaba integrar a Honduras en el mercado mundial y fortalecer la institucionalidad. -->
-- [ ] C) Prohibir el cultivo de banano en toda la costa norte.
-  <!-- feedback: Incorrecto. Al contrario, se incentivaron los cultivos de exportación. -->
-- [ ] D) Declarar la guerra a todos los países vecinos de Centroamérica.
-  <!-- feedback: Incorrecto. El enfoque era el progreso interno y la estabilidad administrativa. -->
+- [ ] A) Regresar al sistema de encomiendas de la época colonial. <!-- feedback: Incorrecto. Regresar al sistema de encomiendas de la -->
+
+- [x] B) Modernizar el Estado, fomentar la educación laica e incentivar la inversión extranjera. <!-- feedback: Correcto! Modernizar el Estado, fomentar la educación laica e incentiv -->
+
+- [ ] C) Prohibir el cultivo de banano en toda la costa norte. <!-- feedback: Incorrecto. Prohibir el cultivo de banano en toda la -->
+
+- [ ] D) Declarar la guerra a todos los países vecinos de Centroamérica. <!-- feedback: Incorrecto. Declarar la guerra a todos los países ve -->
 
 ### Explicacion Pedagogica
 La Reforma Liberal marcó el inicio del Estado moderno en Honduras, introduciendo cambios profundos en la economía, la educación (como la creación de la Universidad) y las leyes.
@@ -138,14 +135,13 @@ La Reforma Liberal marcó el inicio del Estado moderno en Honduras, introduciend
 ¿Cuál es la región geográfica de Honduras que se caracteriza por ser una llanura aluvial extensa, con alta productividad agrícola y sede de las principales compañías bananeras históricamente?
 
 ### Opciones
-- [ ] A) Región Sur o del Pacífico.
-  <!-- feedback: Incorrecto. Esta región es más seca y montañosa cerca de la costa. -->
-- [ ] B) Región de la Mosquitia.
-  <!-- feedback: Incorrecto. Es una región selvática y pantanosa, no enfocada en la agroindustria bananera masiva. -->
-- [x] C) Región del Litoral Atlántico o Costa Norte.
-  <!-- feedback: ¡Correcto! Los valles de Sula y del Aguán son el corazón de la producción agrícola del país. -->
-- [ ] D) Meseta Central.
-  <!-- feedback: Incorrecto. Es la zona montañosa donde se encuentra la capital. -->
+- [ ] A) Región Sur o del Pacífico. <!-- feedback: Incorrecto. Región Sur o del Pacífico. -->
+
+- [ ] B) Región de la Mosquitia. <!-- feedback: Incorrecto. Región de la Mosquitia. -->
+
+- [x] C) Región del Litoral Atlántico o Costa Norte. <!-- feedback: Correcto! Región del Litoral Atlántico o Costa Norte. -->
+
+- [ ] D) Meseta Central. <!-- feedback: Incorrecto. Meseta Central. -->
 
 ### Explicacion Pedagogica
 La geografía de la Costa Norte ha determinado gran parte de la historia económica y social de Honduras, especialmente por el desarrollo de los "enclaves bananeros".
@@ -163,14 +159,13 @@ La geografía de la Costa Norte ha determinado gran parte de la historia económ
 ¿Cuál de los siguientes se clasifica como un derecho civil de primera generación garantizado por el Estado hondureño?
 
 ### Opciones
-- [ ] A) El derecho a vacaciones pagadas.
-  <!-- feedback: Incorrecto. Este es un derecho social y económico (segunda generación). -->
-- [x] B) El derecho a la vida y a la libertad personal.
-  <!-- feedback: ¡Correcto! Son los derechos fundamentales que protegen la integridad del individuo frente al Estado. -->
-- [ ] C) El derecho a un medio ambiente sano.
-  <!-- feedback: Incorrecto. Este es un derecho de solidaridad o colectividad (tercera generación). -->
-- [ ] D) El derecho a huelga por mejores salarios.
-  <!-- feedback: Incorrecto. Es un derecho laboral/económico. -->
+- [ ] A) El derecho a vacaciones pagadas. <!-- feedback: Incorrecto. El derecho a vacaciones pagadas. -->
+
+- [x] B) El derecho a la vida y a la libertad personal. <!-- feedback: Correcto! El derecho a la vida y a la libertad personal. -->
+
+- [ ] C) El derecho a un medio ambiente sano. <!-- feedback: Incorrecto. El derecho a un medio ambiente sano. -->
+
+- [ ] D) El derecho a huelga por mejores salarios. <!-- feedback: Incorrecto. El derecho a huelga por mejores salarios -->
 
 ### Explicacion Pedagogica
 Los derechos de primera generación se centran en las libertades individuales y civiles, siendo la base de la protección legal de cada ciudadano hondureño.
@@ -188,14 +183,13 @@ Los derechos de primera generación se centran en las libertades individuales y 
 Además del banano, ¿cuál es el producto agrícola que históricamente ha sido el principal generador de divisas y empleo en las zonas rurales de Honduras?
 
 ### Opciones
-- [ ] A) Uva
-  <!-- feedback: Incorrecto. No es un cultivo tradicional ni masivo en Honduras. -->
-- [ ] B) Trigo
-  <!-- feedback: Incorrecto. Honduras importa trigo, no lo produce a gran escala. -->
-- [x] C) Café
-  <!-- feedback: ¡Correcto! Honduras es uno de los mayores productores mundiales de café arábica de alta calidad. -->
-- [ ] D) Petróleo
-  <!-- feedback: Incorrecto. El petróleo es un recurso mineral, no un producto agrícola, y Honduras no es productor masivo. -->
+- [ ] A) Uva <!-- feedback: Incorrecto. Uva -->
+
+- [ ] B) Trigo <!-- feedback: Incorrecto. Trigo -->
+
+- [x] C) Café <!-- feedback: Correcto! Café -->
+
+- [ ] D) Petróleo <!-- feedback: Incorrecto. Petróleo -->
 
 ### Explicacion Pedagogica
 La caficultura es fundamental para la estabilidad socioeconómica de miles de familias hondureñas, especialmente en los departamentos de Olancho, Comayagua y El Paraíso.
@@ -213,14 +207,13 @@ La caficultura es fundamental para la estabilidad socioeconómica de miles de fa
 ¿Cuál es la causa multicausal más frecuente que motiva la migración de hondureños hacia países como Estados Unidos o España?
 
 ### Opciones
-- [ ] A) El deseo de conocer climas más fríos.
-  <!-- feedback: Incorrecto. La migración no suele ser motivada por turismo climático en estos contextos. -->
-- [x] B) La búsqueda de mejores oportunidades económicas y condiciones de seguridad.
-  <!-- feedback: ¡Correcto! La falta de empleo y la violencia son los principales "motores de expulsión". -->
-- [ ] C) El cumplimiento de una ley que obliga a los jóvenes a salir del país.
-  <!-- feedback: Incorrecto. No existe ninguna ley de ese tipo en Honduras. -->
-- [ ] D) La falta de playas en el territorio nacional.
-  <!-- feedback: Incorrecto. Honduras cuenta con amplias costas en ambos océanos. -->
+- [ ] A) El deseo de conocer climas más fríos. <!-- feedback: Incorrecto. El deseo de conocer climas más fríos. -->
+
+- [x] B) La búsqueda de mejores oportunidades económicas y condiciones de seguridad. <!-- feedback: Correcto! La búsqueda de mejores oportunidades económicas y condicione -->
+
+- [ ] C) El cumplimiento de una ley que obliga a los jóvenes a salir del país. <!-- feedback: Incorrecto. El cumplimiento de una ley que obliga a  -->
+
+- [ ] D) La falta de playas en el territorio nacional. <!-- feedback: Incorrecto. La falta de playas en el territorio naci -->
 
 ### Explicacion Pedagogica
 La migración es un fenómeno social complejo con profundas raíces económicas que genera tanto desafíos (desintegración familiar) como beneficios (remesas) para Honduras.
@@ -238,14 +231,13 @@ La migración es un fenómeno social complejo con profundas raíces económicas 
 ¿Qué grupo étnico de Honduras es descendiente de africanos y aborígenes caribes, poseedor de una lengua, danza (punta) y gastronomía declaradas Patrimonio de la Humanidad?
 
 ### Opciones
-- [ ] A) Misquitos
-  <!-- feedback: Incorrecto. Tienen su propia cultura pero no se asocian principalmente con la danza punta. -->
-- [ ] B) Chortís
-  <!-- feedback: Incorrecto. Son descendientes directos de los mayas en el occidente. -->
-- [x] C) Garífunas
-  <!-- feedback: ¡Correcto! Ubicados principalmente en el litoral atlántico, su cultura es un pilar de la identidad nacional. -->
-- [ ] D) Pech
-  <!-- feedback: Incorrecto. Es un grupo originario con una lengua de raíz macro-chibcha. -->
+- [ ] A) Misquitos <!-- feedback: Incorrecto. Misquitos -->
+
+- [ ] B) Chortís <!-- feedback: Incorrecto. Chortís -->
+
+- [x] C) Garífunas <!-- feedback: Correcto! Garífunas -->
+
+- [ ] D) Pech <!-- feedback: Incorrecto. Pech -->
 
 ### Explicacion Pedagogica
 La cultura Garífuna es un ejemplo de resistencia y riqueza cultural que enriquece la diversidad étnica de Honduras.
@@ -263,14 +255,13 @@ La cultura Garífuna es un ejemplo de resistencia y riqueza cultural que enrique
 ¿En qué fecha se redactó y firmó el Acta de Independencia de las provincias de Centroamérica del dominio español?
 
 ### Opciones
-- [ ] A) 20 de julio de 1810
-  <!-- feedback: Incorrecto. Esta fecha corresponde a la independencia de Colombia. -->
-- [x] B) 15 de septiembre de 1821
-  <!-- feedback: ¡Correcto! Es la fecha nacional que celebran Honduras y sus países hermanos de la región. -->
-- [ ] C) 1 de julio de 1823
-  <!-- feedback: Incorrecto. Esta es la fecha de la independencia absoluta de México. -->
-- [ ] D) 3 de octubre de 1892
-  <!-- feedback: Incorrecto. No corresponde a los procesos independentistas. -->
+- [ ] A) 20 de julio de 1810 <!-- feedback: Incorrecto. 20 de julio de 1810 -->
+
+- [x] B) 15 de septiembre de 1821 <!-- feedback: Correcto! 15 de septiembre de 1821 -->
+
+- [ ] C) 1 de julio de 1823 <!-- feedback: Incorrecto. 1 de julio de 1823 -->
+
+- [ ] D) 3 de octubre de 1892 <!-- feedback: Incorrecto. 3 de octubre de 1892 -->
 
 ### Explicacion Pedagogica
 La independencia de 1821 marcó el fin del período colonial y el inicio de la búsqueda de soberanía para las naciones centroamericanas.
@@ -288,14 +279,13 @@ La independencia de 1821 marcó el fin del período colonial y el inicio de la b
 ¿Cuál de las siguientes acciones describe mejor la aplicación del Desarrollo Sostenible en Honduras?
 
 ### Opciones
-- [ ] A) Cortar todos los árboles de una montaña para construir un centro comercial de lujo.
-  <!-- feedback: Incorrecto. Esto prioriza el beneficio económico inmediato sobre el ambiental. -->
-- [x] B) Utilizar los recursos naturales actuales para satisfacer necesidades sin comprometer la capacidad de las futuras generaciones.
-  <!-- feedback: ¡Correcto! Es el equilibrio entre economía, sociedad y medio ambiente. -->
-- [ ] C) Prohibir cualquier tipo de actividad económica en todo el país.
-  <!-- feedback: Incorrecto. El desarrollo sostenible permite la economía, pero de forma responsable. -->
-- [ ] D) Importar todos los alimentos para no usar la tierra hondureña.
-  <!-- feedback: Incorrecto. No es una solución de desarrollo integral ni sostenible. -->
+- [ ] A) Cortar todos los árboles de una montaña para construir un centro comercial de lujo. <!-- feedback: Incorrecto. Cortar todos los árboles de una montaña  -->
+
+- [x] B) Utilizar los recursos naturales actuales para satisfacer necesidades sin comprometer la capacidad de las futuras generaciones. <!-- feedback: Correcto! Utilizar los recursos naturales actuales para satisfacer nec -->
+
+- [ ] C) Prohibir cualquier tipo de actividad económica en todo el país. <!-- feedback: Incorrecto. Prohibir cualquier tipo de actividad eco -->
+
+- [ ] D) Importar todos los alimentos para no usar la tierra hondureña. <!-- feedback: Incorrecto. Importar todos los alimentos para no usa -->
 
 ### Explicacion Pedagogica
 El desarrollo sostenible es clave para Honduras, un país vulnerable al cambio climático, para asegurar que sus bosques y ríos perduren.
@@ -313,14 +303,13 @@ El desarrollo sostenible es clave para Honduras, un país vulnerable al cambio c
 En el sistema democrático hondureño, ¿cuál es el organismo encargado de organizar, dirigir y supervisar los procesos electorales?
 
 ### Opciones
-- [ ] A) La Corte Suprema de Justicia.
-  <!-- feedback: Incorrecto. Su función es la aplicación de la ley judicial, no electoral. -->
-- [ ] B) El Estado Mayor Conjunto.
-  <!-- feedback: Incorrecto. Las Fuerzas Armadas solo custodian el material, no dirigen la elección. -->
-- [x] C) El Consejo Nacional Electoral (CNE).
-  <!-- feedback: ¡Correcto! Es el ente autónomo rector de la voluntad popular en las urnas. -->
-- [ ] D) El Congreso Nacional.
-  <!-- feedback: Incorrecto. Es un poder político que emite leyes, pero no supervisa las elecciones directamente. -->
+- [ ] A) La Corte Suprema de Justicia. <!-- feedback: Incorrecto. La Corte Suprema de Justicia. -->
+
+- [ ] B) El Estado Mayor Conjunto. <!-- feedback: Incorrecto. El Estado Mayor Conjunto. -->
+
+- [x] C) El Consejo Nacional Electoral (CNE). <!-- feedback: Correcto! El Consejo Nacional Electoral (CNE). -->
+
+- [ ] D) El Congreso Nacional. <!-- feedback: Incorrecto. El Congreso Nacional. -->
 
 ### Explicacion Pedagogica
 La transparencia y eficiencia del CNE son vitales para fortalecer la confianza de la ciudadanía hondureña en sus representantes electos.
@@ -338,14 +327,13 @@ La transparencia y eficiencia del CNE son vitales para fortalecer la confianza d
 ¿Cuál es uno de los propósitos principales de Honduras al pertenecer a organismos de integración como el SICA o la integración económica regional?
 
 ### Opciones
-- [ ] A) Cerrar las fronteras con todos los países vecinos permanentemente.
-  <!-- feedback: Incorrecto. La integración busca precisamente la apertura y cooperación. -->
-- [x] B) Fortalecer el comercio, la seguridad regional y abordar problemas comunes de manera conjunta.
-  <!-- feedback: ¡Correcto! La unión regional permite a Honduras tener más peso en el escenario internacional. -->
-- [ ] C) Cambiar la moneda nacional (Lempira) por el Euro.
-  <!-- feedback: Incorrecto. No es un objetivo de los tratados centroamericanos actuales. -->
-- [ ] D) Eliminar la bandera nacional de Honduras.
-  <!-- feedback: Incorrecto. La integración respeta los símbolos patrios de cada nación. -->
+- [ ] A) Cerrar las fronteras con todos los países vecinos permanentemente. <!-- feedback: Incorrecto. Cerrar las fronteras con todos los paíse -->
+
+- [x] B) Fortalecer el comercio, la seguridad regional y abordar problemas comunes de manera conjunta. <!-- feedback: Correcto! Fortalecer el comercio, la seguridad regional y abordar prob -->
+
+- [ ] C) Cambiar la moneda nacional (Lempira) por el Euro. <!-- feedback: Incorrecto. Cambiar la moneda nacional (Lempira) por -->
+
+- [ ] D) Eliminar la bandera nacional de Honduras. <!-- feedback: Incorrecto. Eliminar la bandera nacional de Honduras -->
 
 ### Explicacion Pedagogica
 Honduras, por su posición geográfica central, juega un papel estratégico en los procesos de unión centroamericana para el progreso mutuo.
@@ -363,14 +351,13 @@ Honduras, por su posición geográfica central, juega un papel estratégico en l
 Desde una perspectiva social y económica, ¿cuál fue la lección más importante que dejó el desastre del Huracán Mitch para el Estado de Honduras?
 
 ### Opciones
-- [ ] A) Que los huracanes solo afectan a las zonas costeras.
-  <!-- feedback: Incorrecto. El Mitch demostró que las inundaciones y deslaves afectaron a todo el país, incluyendo la capital. -->
-- [x] B) La necesidad urgente de implementar planes de gestión de riesgos y ordenamiento territorial.
-  <!-- feedback: ¡Correcto! Se evidenció la vulnerabilidad ante la falta de planificación urbana y ambiental. -->
-- [ ] C) Que no se debe construir ninguna casa en todo el territorio nacional.
-  <!-- feedback: Incorrecto. Es una conclusión extremista e irrealizable. -->
-- [ ] D) Que la ayuda internacional no es necesaria en caso de desastres.
-  <!-- feedback: Incorrecto. La cooperación internacional fue fundamental para la reconstrucción. -->
+- [ ] A) Que los huracanes solo afectan a las zonas costeras. <!-- feedback: Incorrecto. Que los huracanes solo afectan a las zon -->
+
+- [x] B) La necesidad urgente de implementar planes de gestión de riesgos y ordenamiento territorial. <!-- feedback: Correcto! La necesidad urgente de implementar planes de gestión de rie -->
+
+- [ ] C) Que no se debe construir ninguna casa en todo el territorio nacional. <!-- feedback: Incorrecto. Que no se debe construir ninguna casa en -->
+
+- [ ] D) Que la ayuda internacional no es necesaria en caso de desastres. <!-- feedback: Incorrecto. Que la ayuda internacional no es necesar -->
 
 ### Explicacion Pedagogica
 El Huracán Mitch marcó un antes y un después en Honduras, impulsando la creación de instituciones como COPECO y una mayor conciencia sobre la prevención.
@@ -388,14 +375,13 @@ El Huracán Mitch marcó un antes y un después en Honduras, impulsando la creac
 ¿Cuál es el mecanismo ciudadano por el cual se puede solicitar información sobre el uso de los fondos públicos a las instituciones del Estado?
 
 ### Opciones
-- [ ] A) La Ley de Secretividad absoluta.
-  <!-- feedback: Incorrecto. Esto impediría el acceso a la información. -->
-- [x] B) La Ley de Transparencia y Acceso a la Información Pública (IAIP).
-  <!-- feedback: ¡Correcto! Permite que cualquier ciudadano hondureño audite la gestión de sus gobernantes. -->
-- [ ] C) El Código de Comercio.
-  <!-- feedback: Incorrecto. Regula las actividades mercantiles privadas. -->
-- [ ] D) La Ley de Tránsito.
-  <!-- feedback: Incorrecto. Regula la circulación de vehículos. -->
+- [ ] A) La Ley de Secretividad absoluta. <!-- feedback: Incorrecto. La Ley de Secretividad absoluta. -->
+
+- [x] B) La Ley de Transparencia y Acceso a la Información Pública (IAIP). <!-- feedback: Correcto! La Ley de Transparencia y Acceso a la Información Pública (I -->
+
+- [ ] C) El Código de Comercio. <!-- feedback: Incorrecto. El Código de Comercio. -->
+
+- [ ] D) La Ley de Tránsito. <!-- feedback: Incorrecto. La Ley de Tránsito. -->
 
 ### Explicacion Pedagogica
 La transparencia es un pilar de la democracia que permite combatir la corrupción y mejorar la eficiencia de los servicios públicos en Honduras.
@@ -413,14 +399,13 @@ La transparencia es un pilar de la democracia que permite combatir la corrupció
 ¿Cuál de los siguientes es un héroe nacional de Honduras, conocido por su lucha en defensa de la soberanía nacional contra la invasión de los conquistadores españoles?
 
 ### Opciones
-- [ ] A) Francisco Morazán
-  <!-- feedback: Incorrecto. Es el paladín de la unión centroamericana, pero de la época republicana. -->
-- [x] B) Lempira
-  <!-- feedback: ¡Correcto! El cacique que lideró la resistencia indígena en la región de los Lencas. -->
-- [ ] C) José Cecilio del Valle
-  <!-- feedback: Incorrecto. Es el redactor del Acta de Independencia, un intelectual. -->
-- [ ] D) Dionisio de Herrera
-  <!-- feedback: Incorrecto. Fue el primer Jefe de Estado de Honduras. -->
+- [ ] A) Francisco Morazán <!-- feedback: Incorrecto. Francisco Morazán -->
+
+- [x] B) Lempira <!-- feedback: Correcto! Lempira -->
+
+- [ ] C) José Cecilio del Valle <!-- feedback: Incorrecto. José Cecilio del Valle -->
+
+- [ ] D) Dionisio de Herrera <!-- feedback: Incorrecto. Dionisio de Herrera -->
 
 ### Explicacion Pedagogica
 La figura de Lempira simboliza la valentía y el amor a la tierra, siendo un referente de la identidad nacional hondureña desde la educación primaria.
@@ -438,14 +423,13 @@ La figura de Lempira simboliza la valentía y el amor a la tierra, siendo un ref
 ¿Cómo ha afectado principalmente la instalación de "maquilas" en el Valle de Sula a la estructura social y económica del país?
 
 ### Opciones
-- [ ] A) Ha causado que todas las personas abandonen la agricultura definitivamente.
-  <!-- feedback: Incorrecto. La agricultura sigue siendo un sector clave. -->
-- [x] B) Ha generado miles de empleos, pero también ha creado dependencia de mercados externos y desafíos laborales.
-  <!-- feedback: ¡Correcto! Es un modelo de industrialización por invitación con pros y contras. -->
-- [ ] C) Ha impedido que Honduras use internet.
-  <!-- feedback: Incorrecto. No tiene relación con el acceso a la tecnología digital. -->
-- [ ] D) Ha provocado la desaparición del idioma español en la zona norte.
-  <!-- feedback: Incorrecto. El español sigue siendo la lengua dominante. -->
+- [ ] A) Ha causado que todas las personas abandonen la agricultura definitivamente. <!-- feedback: Incorrecto. Ha causado que todas las personas abando -->
+
+- [x] B) Ha generado miles de empleos, pero también ha creado dependencia de mercados externos y desafíos laborales. <!-- feedback: Correcto! Ha generado miles de empleos, pero también ha creado depende -->
+
+- [ ] C) Ha impedido que Honduras use internet. <!-- feedback: Incorrecto. Ha impedido que Honduras use internet. -->
+
+- [ ] D) Ha provocado la desaparición del idioma español en la zona norte. <!-- feedback: Incorrecto. Ha provocado la desaparición del idioma  -->
 
 ### Explicacion Pedagogica
 El sector de la maquila es un componente importante del PIB hondureño, reflejando cómo Honduras se inserta en las cadenas de producción globales.
@@ -463,14 +447,13 @@ El sector de la maquila es un componente importante del PIB hondureño, reflejan
 ¿Por qué se considera que la inversión en educación es el factor más determinante para reducir la brecha de desigualdad en Honduras?
 
 ### Opciones
-- [ ] A) Porque así los libros son más caros.
-  <!-- feedback: Incorrecto. El costo de los materiales no es el beneficio del desarrollo. -->
-- [x] B) Porque aumenta el capital humano, permitiendo mejores empleos y pensamiento crítico.
-  <!-- feedback: ¡Correcto! Una población educada es más productiva y consciente de sus derechos. -->
-- [ ] C) Porque obliga a todos a vivir en la misma ciudad.
-  <!-- feedback: Incorrecto. La educación fomenta la movilidad, no el sedentarismo obligatorio. -->
-- [ ] D) Porque reduce la cantidad de días festivos en el año.
-  <!-- feedback: Incorrecto. No tiene relación con el calendario de asuetos. -->
+- [ ] A) Porque así los libros son más caros. <!-- feedback: Incorrecto. Porque así los libros son más caros. -->
+
+- [x] B) Porque aumenta el capital humano, permitiendo mejores empleos y pensamiento crítico. <!-- feedback: Correcto! Porque aumenta el capital humano, permitiendo mejores empleo -->
+
+- [ ] C) Porque obliga a todos a vivir en la misma ciudad. <!-- feedback: Incorrecto. Porque obliga a todos a vivir en la mism -->
+
+- [ ] D) Porque reduce la cantidad de días festivos en el año. <!-- feedback: Incorrecto. Porque reduce la cantidad de días festiv -->
 
 ### Explicacion Pedagogica
 El desarrollo humano integral depende de la capacidad del Estado para brindar educación de calidad, equitativa e inclusiva a todos los jóvenes hondureños.
@@ -488,14 +471,13 @@ El desarrollo humano integral depende de la capacidad del Estado para brindar ed
 ¿Cuál es la importancia de la descentralización administrativa hacia los municipios en Honduras?
 
 ### Opciones
-- [ ] A) Que el gobierno central ya no tenga que hacer nada.
-  <!-- feedback: Incorrecto. El gobierno central mantiene funciones de coordinación y políticas nacionales. -->
-- [x] B) Permitir que las autoridades locales respondan de forma más directa y rápida a las necesidades específicas de su comunidad.
-  <!-- feedback: ¡Correcto! El alcalde y su corporación conocen mejor la realidad de su pueblo o ciudad. -->
-- [ ] C) Que cada municipio pueda tener su propio ejército independiente.
-  <!-- feedback: Incorrecto. La seguridad nacional es una función unificada del Estado. -->
-- [ ] D) Eliminar el pago de impuestos nacionales.
-  <!-- feedback: Incorrecto. La descentralización no elimina las obligaciones fiscales nacionales. -->
+- [ ] A) Que el gobierno central ya no tenga que hacer nada. <!-- feedback: Incorrecto. Que el gobierno central ya no tenga que  -->
+
+- [x] B) Permitir que las autoridades locales respondan de forma más directa y rápida a las necesidades específicas de su comunidad. <!-- feedback: Correcto! Permitir que las autoridades locales respondan de forma más  -->
+
+- [ ] C) Que cada municipio pueda tener su propio ejército independiente. <!-- feedback: Incorrecto. Que cada municipio pueda tener su propio -->
+
+- [ ] D) Eliminar el pago de impuestos nacionales. <!-- feedback: Incorrecto. Eliminar el pago de impuestos nacionales -->
 
 ### Explicacion Pedagogica
 El fortalecimiento de los gobiernos locales es vital para el desarrollo de proyectos de infraestructura y bienestar social adaptados a cada región de Honduras.
@@ -513,14 +495,13 @@ El fortalecimiento de los gobiernos locales es vital para el desarrollo de proye
 ¿Cuál es una de las principales consecuencias de que un alto porcentaje del Presupuesto Nacional de Honduras se destine al pago del servicio de la deuda externa?
 
 ### Opciones
-- [ ] A) Que el país se vuelve más rico automáticamente.
-  <!-- feedback: Incorrecto. El pago de intereses no genera riqueza interna inmediata. -->
-- [x] B) Se reduce la disponibilidad de recursos para inversión en sectores críticos como salud, educación e infraestructura.
-  <!-- feedback: ¡Correcto! El costo de oportunidad afecta el desarrollo social del país. -->
-- [ ] C) Que Honduras ya no necesita producir alimentos.
-  <!-- feedback: Incorrecto. La seguridad alimentaria sigue siendo una prioridad nacional. -->
-- [ ] D) Que el Lempira valga más que el Dólar.
-  <!-- feedback: Incorrecto. La deuda suele presionar la devaluación de la moneda, no su apreciación. -->
+- [ ] A) Que el país se vuelve más rico automáticamente. <!-- feedback: Incorrecto. Que el país se vuelve más rico automátic -->
+
+- [x] B) Se reduce la disponibilidad de recursos para inversión en sectores críticos como salud, educación e infraestructura. <!-- feedback: Correcto! Se reduce la disponibilidad de recursos para inversión en se -->
+
+- [ ] C) Que Honduras ya no necesita producir alimentos. <!-- feedback: Incorrecto. Que Honduras ya no necesita producir ali -->
+
+- [ ] D) Que el Lempira valga más que el Dólar. <!-- feedback: Incorrecto. Que el Lempira valga más que el Dólar. -->
 
 ### Explicacion Pedagogica
 La gestión responsable de las finanzas públicas es un desafío constante para el Estado hondureño, buscando equilibrar el cumplimiento de compromisos con la inversión social.

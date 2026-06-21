@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W28 -- Divisibilidad: Criterios, mcm y mcd
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W28-divisibilidad-criterios-mcm-mcd-001-MASTERY-bundle-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Criterio del 2
+**Contexto:** Criterio del 2
 
 ### Enunciado
 Cuando un numero es divisible entre 2?
 
-### Options
+### Opciones
 - [x] A) Cuando termina en 0, 2, 4, 6 u 8 <!-- feedback: Correcto. -->
 - [ ] B) Cuando termina en 0 o 5 <!-- feedback: Incorrecto, eso es el 5. -->
 - [ ] C) Cuando la suma de digitos es multiplo de 2 <!-- feedback: Incorrecto. -->
@@ -48,13 +51,14 @@ Un numero es divisible entre 2 si es par (termina en cifra par).
 
 **ID:** `CO-MAT-6-2026-W28-divisibilidad-criterios-mcm-mcd-001-MASTERY-bundle-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Criterio del 3
+**Contexto:** Criterio del 3
 
 ### Enunciado
 Cuando un numero es divisible entre 3?
 
-### Options
+### Opciones
 - [x] A) Cuando la suma de sus digitos es multiplo de 3 <!-- feedback: Correcto. -->
 - [ ] B) Cuando termina en 3 <!-- feedback: Incorrecto. -->
 - [ ] C) Cuando termina en 3, 6 o 9 <!-- feedback: Incorrecto. -->
@@ -69,13 +73,14 @@ Ejemplo: 123 -> 1+2+3=6, 6 es multiplo de 3.
 
 **ID:** `CO-MAT-6-2026-W28-divisibilidad-criterios-mcm-mcd-001-MASTERY-bundle-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Criterio del 5
+**Contexto:** Criterio del 5
 
 ### Enunciado
 El numero 845 es divisible entre 5?
 
-### Options
+### Opciones
 - [x] A) Si, termina en 5 <!-- feedback: Correcto. -->
 - [ ] B) No, 8+4+5=17 no es multiplo de 5 <!-- feedback: Incorrecto. -->
 - [ ] C) Solo si termina en 0 <!-- feedback: Incorrecto. -->
@@ -90,13 +95,14 @@ Divisible entre 5 si termina en 0 o 5. 845 termina en 5, si es divisible.
 
 **ID:** `CO-MAT-6-2026-W28-divisibilidad-criterios-mcm-mcd-001-MASTERY-bundle-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Aplicar criterios
+**Contexto:** Aplicar criterios
 
 ### Enunciado
 De estos numeros, cual es divisible entre 2 y 3?
 
-### Options
+### Opciones
 - [x] A) 24 <!-- feedback: Correcto. Par y 2+4=6 multiplo de 3. -->
 - [ ] B) 15 <!-- feedback: No es par. -->
 - [ ] C) 22 <!-- feedback: 2+2=4 no es multiplo de 3. -->
@@ -111,13 +117,14 @@ De estos numeros, cual es divisible entre 2 y 3?
 
 **ID:** `CO-MAT-6-2026-W28-divisibilidad-criterios-mcm-mcd-001-MASTERY-bundle-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Criterio del 6
+**Contexto:** Criterio del 6
 
 ### Enunciado
 Un numero es divisible entre 6 si...
 
-### Options
+### Opciones
 - [x] A) Es divisible entre 2 y 3 simultaneamente <!-- feedback: Correcto. -->
 - [ ] B) Termina en 6 <!-- feedback: Incorrecto. -->
 - [ ] C) La suma de digitos da 6 <!-- feedback: Incorrecto. -->
@@ -132,13 +139,14 @@ Divisible entre 6 = divisible entre 2 y 3. Ej: 24, 36, 42.
 
 **ID:** `CO-MAT-6-2026-W28-divisibilidad-criterios-mcm-mcd-001-MASTERY-bundle-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Calcular mcm
+**Contexto:** Calcular mcm
 
 ### Enunciado
 mcm(6,9)?
 
-### Options
+### Opciones
 - [x] A) 18 <!-- feedback: Correcto. 6=2x3, 9=3^2. mcm=2x3^2=18. -->
 - [ ] B) 3 <!-- feedback: Incorrecto. -->
 - [ ] C) 54 <!-- feedback: Incorrecto. -->
@@ -153,13 +161,14 @@ mcm(6,9)?
 
 **ID:** `CO-MAT-6-2026-W28-divisibilidad-criterios-mcm-mcd-001-MASTERY-bundle-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Calcular mcd
+**Contexto:** Calcular mcd
 
 ### Enunciado
 mcd(24,36)?
 
-### Options
+### Opciones
 - [x] A) 12 <!-- feedback: Correcto. 24=2^3x3, 36=2^2x3^2. mcd=2^2x3=12. -->
 - [ ] B) 6 <!-- feedback: Incorrecto. -->
 - [ ] C) 72 <!-- feedback: Incorrecto. -->
@@ -174,13 +183,14 @@ mcd(24,36)?
 
 **ID:** `CO-MAT-6-2026-W28-divisibilidad-criterios-mcm-mcd-001-MASTERY-bundle-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** mcm aplicado
+**Contexto:** mcm aplicado
 
 ### Enunciado
 Dos luces parpadean cada 10s y 15s. Si encienden juntas, cada cuantos segundos coinciden?
 
-### Options
+### Opciones
 - [x] A) Cada 30 segundos (mcm=30) <!-- feedback: Correcto. -->
 - [ ] B) Cada 15s <!-- feedback: Incorrecto. -->
 - [ ] C) Cada 10s <!-- feedback: Incorrecto. -->
@@ -195,13 +205,14 @@ mcm(10,15): 10=2x5, 15=3x5. mcm=2x3x5=30s.
 
 **ID:** `CO-MAT-6-2026-W28-divisibilidad-criterios-mcm-mcd-001-MASTERY-bundle-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** mcd aplicado
+**Contexto:** mcd aplicado
 
 ### Enunciado
 Se cortan dos listones de 60 cm y 84 cm en pedazos iguales del mayor tamano posible. Cuanto mide cada pedazo?
 
-### Options
+### Opciones
 - [x] A) 12 cm (mcd=12) <!-- feedback: Correcto. mcd(60,84)=12. -->
 - [ ] B) 6 cm <!-- feedback: Incorrecto. -->
 - [ ] C) 24 cm <!-- feedback: Incorrecto. -->
@@ -216,13 +227,14 @@ Se cortan dos listones de 60 cm y 84 cm en pedazos iguales del mayor tamano posi
 
 **ID:** `CO-MAT-6-2026-W28-divisibilidad-criterios-mcm-mcd-001-MASTERY-bundle-010-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Demostracion
+**Contexto:** Demostracion
 
 ### Enunciado
 Si mcm(a,b)=a x b, que podemos decir de a y b?
 
-### Options
+### Opciones
 - [x] A) Son primos entre si (no tienen factores comunes) <!-- feedback: Correcto. -->
 - [ ] B) Uno es multiplo del otro <!-- feedback: Incorrecto. -->
 - [ ] C) Son numeros pares <!-- feedback: Incorrecto. -->

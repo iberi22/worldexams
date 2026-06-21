@@ -1,28 +1,32 @@
 ---
-id: "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY"
+id: "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "matematicas"
 tema: "proporcionalidad"
-semana: "W05"
+week: "W05"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Proporcionalidad - Grado 7
 ## Semana W05 — Razones, proporciones y regla de tres
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase de matemáticas del Colegio Helvetia de Bogotá, la profesora explica qué es una razón.
+**Contexto:** En clase de matemáticas del Colegio Helvetia de Bogotá, la profesora explica qué es una razón.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -37,11 +41,11 @@ Una razón es una comparación entre dos cantidades mediante división. Se escri
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** María está aprendiendo proporciones en su colegio de Medellín.
+**Contexto:** María está aprendiendo proporciones en su colegio de Medellín.
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -56,11 +60,11 @@ Una proporción es una ecuación que expresa la igualdad de dos razones. Se escr
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Carlos debe verificar si 3/5 y 6/10 forman una proporción en su clase de Cali.
+**Contexto:** Carlos debe verificar si 3/5 y 6/10 forman una proporción en su clase de Cali.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -75,11 +79,11 @@ Para verificar si dos razones forman una proporción, aplicamos la regla: produc
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Laura necesita encontrar el valor de x en 2/5 = 6/x en Barranquilla.
+**Contexto:** Laura necesita encontrar el valor de x en 2/5 = 6/x en Barranquilla.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -94,11 +98,11 @@ Aplicamos la regla de productos cruzados: 2/5 = 6/x → 2 × x = 5 × 6 → 2x =
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Andrés va a la tienda en Cartagena: 3 libras de arroz cuestan $6,000. Quiere saber cuánto cuestan 7 libras.
+**Contexto:** Andrés va a la tienda en Cartagena: 3 libras de arroz cuestan $6,000. Quiere saber cuánto cuestan 7 libras.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -113,11 +117,11 @@ Regla de tres directa: 3 libras → $6,000; 7 libras → x. La proporción es 3/
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
-**Context:** Santiago compara proporcionalidad directa e inversa en Bucaramanga.
+**Contexto:** Santiago compara proporcionalidad directa e inversa en Bucaramanga.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -132,11 +136,11 @@ Este es un ejemplo de proporcionalidad INVERSA: a más trabajadores, menos días
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Valentina debe identificar si una tabla de valores es proporcional en Pereira.
+**Contexto:** Valentina debe identificar si una tabla de valores es proporcional en Pereira.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -151,11 +155,11 @@ Para identificar proporcionalidad directa, calculamos el cociente y/x. Si es con
 
 ---
 
-## Pregunta 8 [D6]
+## Question 8 [D6]
 **ID:** `CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Camila analiza la escala de un mapa en Manizales. El mapa dice 1:100,000.
+**Contexto:** Camila analiza la escala de un mapa en Manizales. El mapa dice 1:100,000.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -170,11 +174,11 @@ Escala 1:100,000 significa que 1 cm en el mapa equivale a 100,000 cm reales = 1 
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Sebastián necesita mezclar pintura: por cada 3 partes de azul, 2 de blanco. Tiene 12 litros de azul en Ibagué.
+**Contexto:** Sebastián necesita mezclar pintura: por cada 3 partes de azul, 2 de blanco. Tiene 12 litros de azul en Ibagué.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -189,11 +193,11 @@ La razón es 3:2 (azul:blanco). Usando proporción: 3/2 = 12/x → 3x = 24 → x
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Isabella argumenta que todo es proporcional en la vida. Su profesor en Neiva le pide ejemplos.
+**Contexto:** Isabella argumenta que todo es proporcional en la vida. Su profesor en Neiva le pide ejemplos.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -208,11 +212,11 @@ No todas las relaciones son proporcionales. Ejemplos de relaciones NO proporcion
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Daniel debe calcular el 15% de 80,000 usando proporciones en Sincelejo.
+**Contexto:** Daniel debe calcular el 15% de 80,000 usando proporciones en Sincelejo.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -227,11 +231,11 @@ Porcentajes son proporciones donde el denominador es 100. 15% significa 15/100. 
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En clase de Tunja, el profesor pregunta: "¿Un rectángulo de 3×4 y otro de 6×8 son semejantes?"
+**Contexto:** En clase de Tunja, el profesor pregunta: "¿Un rectángulo de 3×4 y otro de 6×8 son semejantes?"
 **Expected_Success:** 0.42
 
 ### Enunciado

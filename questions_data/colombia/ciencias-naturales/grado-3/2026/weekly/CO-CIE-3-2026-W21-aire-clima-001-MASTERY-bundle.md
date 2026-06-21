@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W21-aire-clima-001-MASTERY"
+id: "CO-CIE-3-2026-W21-aire-clima-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "aire-clima"
-semana: "W21"
+week: "W21"
 periodo: 3
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Elementos del clima: temperatura, humedad y viento. Influencia
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # El Aire y el Clima
 
 Este bundle explora cómo las condiciones del aire (temperatura, humedad y movimiento) determinan el clima y el estado del tiempo en diferentes regiones de Colombia.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W21-aire-clima-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En las noticias de la mañana, el presentador dice que hoy en Barranquilla habrá mucho calor y mucha humedad.
+**Contexto:** En las noticias de la mañana, el presentador dice que hoy en Barranquilla habrá mucho calor y mucha humedad.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ La humedad es lo que hace que sintamos que el aire está "pesado" o que sudemos 
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W21-aire-clima-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Para saber si debemos salir con chaqueta o con ropa ligera, consultamos un instrumento que mide el calor del aire.
+**Contexto:** Para saber si debemos salir con chaqueta o con ropa ligera, consultamos un instrumento que mide el calor del aire.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -73,12 +77,12 @@ El termómetro nos dice qué tan rápido se mueven las partículas del aire. Si 
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W21-aire-clima-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Juan vive en Bogotá (frío) y viaja a visitar a sus tíos en Girardot (caliente). Nota que en Girardot el aire se siente muy diferente.
+**Contexto:** Juan vive en Bogotá (frío) y viaja a visitar a sus tíos en Girardot (caliente). Nota que en Girardot el aire se siente muy diferente.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ En Colombia, el clima depende mucho de la altura de las montañas. Es lo que lla
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W21-aire-clima-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Un día el cielo está muy nublado y el viento sopla fuerte. Al día siguiente, el sol brilla y no hay ni una nube.
+**Contexto:** Un día el cielo está muy nublado y el viento sopla fuerte. Al día siguiente, el sol brilla y no hay ni una nube.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ Es importante diferenciar clima de tiempo. El clima de Medellín es templado (si
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W21-aire-clima-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Si el higrómetro (aparato para la humedad) marca un 95%, significa que el aire está casi saturado de agua.
+**Contexto:** Si el higrómetro (aparato para la humedad) marca un 95%, significa que el aire está casi saturado de agua.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -148,12 +152,12 @@ La humedad alta es el "combustible" de las tormentas. Cuando el aire ya no puede
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W21-aire-clima-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En los desiertos, el aire es extremadamente seco. Por el día hace un calor insoportable y por la noche hace un frío intenso.
+**Contexto:** En los desiertos, el aire es extremadamente seco. Por el día hace un calor insoportable y por la noche hace un frío intenso.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -173,12 +177,12 @@ La humedad es un regulador térmico. En lugares húmedos como la selva, el calor
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W21-aire-clima-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un anemómetro es un aparato que tiene unas cazoletas que giran muy rápido cuando el aire se mueve con fuerza.
+**Contexto:** Un anemómetro es un aparato que tiene unas cazoletas que giran muy rápido cuando el aire se mueve con fuerza.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -198,12 +202,12 @@ Medir la velocidad del viento es vital para los aeropuertos y para prevenir desa
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W21-aire-clima-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Mariana observa que cuando el aire está muy quieto por varios días en su ciudad, la contaminación se ve mucho más fuerte.
+**Contexto:** Mariana observa que cuando el aire está muy quieto por varios días en su ciudad, la contaminación se ve mucho más fuerte.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -223,12 +227,12 @@ El viento es el "barrendero" de la atmósfera. En ciudades encerradas por monta�
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W21-aire-clima-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Los científicos dicen que el aire caliente siempre trata de subir, mientras que el aire frío tiende a bajar.
+**Contexto:** Los científicos dicen que el aire caliente siempre trata de subir, mientras que el aire frío tiende a bajar.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -248,12 +252,12 @@ La atmósfera es un motor de calor. El sol calienta el aire, este sube, y el air
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W21-aire-clima-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un constructor dice: "No importa si cortamos este pequeño bosque, el clima de la ciudad seguirá igual porque el aire viene de lejos".
+**Contexto:** Un constructor dice: "No importa si cortamos este pequeño bosque, el clima de la ciudad seguirá igual porque el aire viene de lejos".
 **Expected_Success:** 0.60
 
 ### Enunciado

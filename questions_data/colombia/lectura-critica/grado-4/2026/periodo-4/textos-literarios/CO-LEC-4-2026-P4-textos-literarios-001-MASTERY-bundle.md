@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-4-2026-P4-textos-literarios-001-MASTERY"
+id: "CO-LEC-4-2026-P4-textos-literarios-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "texto literario, cuento, personificación, diálogo, narrador, recursos literarios, lenguaje figurado"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4: El Río que Cantaba
 
@@ -34,13 +41,14 @@ rubric_baseline: "texto literario, cuento, personificación, diálogo, narrador,
 
 **ID:** `CO-LC-4-2026-P4-textos-literarios-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Personajes del cuento.
+**Contexto:** Personajes del cuento.
 
 ### Enunciado
 ¿Cómo se llama la niña protagonista del cuento?
 
-### Options
+### Opciones
 - [ ] A) Evaristo. <!-- feedback: Incorrecto. Evaristo es el nombre del abuelo pescador. -->
 - [ ] B) Coello. <!-- feedback: Incorrecto. Coello es el nombre del río, no de la niña. -->
 - [x] C) Dulcía. <!-- feedback: Correcto. El cuento comienza presentando a "una niña llamada Dulcía". -->
@@ -55,13 +63,14 @@ Se evalúa la identificación del personaje principal. La respuesta aparece en l
 
 **ID:** `CO-LC-4-2026-P4-textos-literarios-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Actividad del abuelo.
+**Contexto:** Actividad del abuelo.
 
 ### Enunciado
 ¿Qué hacía don Evaristo todas las tardes a la orilla del río?
 
-### Options
+### Opciones
 - [ ] A) Pescar para vender los peces. <!-- feedback: Incorrecto. Aunque es pescador, en las tardes no se menciona que pesque. -->
 - [ ] B) Dormir la siesta. <!-- feedback: Incorrecto. No se menciona que duerma. -->
 - [x] C) Sentarse a escuchar el río. <!-- feedback: Correcto. El texto dice: "todas las tardes se sentaba a la orilla del río a escuchar". -->
@@ -76,13 +85,14 @@ Se evalúa la identificación de una acción recurrente del personaje. El detall
 
 **ID:** `CO-LC-4-2026-P4-textos-literarios-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** El descubrimiento de Dulcía.
+**Contexto:** El descubrimiento de Dulcía.
 
 ### Enunciado
 ¿Qué descubrió Dulcía cuando se sentó sola a la orilla del río?
 
-### Options
+### Opciones
 - [ ] A) Que el río estaba seco. <!-- feedback: Incorrecto. El río tiene agua y corriente en el cuento. -->
 - [ ] B) Que su abuelo le había mentido. <!-- feedback: Incorrecto. Al contrario, Dulcía confirma lo que su abuelo decía. -->
 - [x] C) Que el río realmente producía diferentes sonidos, como si cantara. <!-- feedback: Correcto. Dulcía empezó a distinguir sonidos: chapoteo como risa, murmullo como voz, tintineo como campanitas. -->
@@ -97,13 +107,14 @@ Se evalúa la comprensión del momento de revelación en el cuento. Dulcía pasa
 
 **ID:** `CO-LC-4-2026-P4-textos-literarios-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** El sueño de Dulcía.
+**Contexto:** El sueño de Dulcía.
 
 ### Enunciado
 ¿Qué forma tenía el río en el sueño de Dulcía?
 
-### Options
+### Opciones
 - [ ] A) Forma de un pez gigante. <!-- feedback: Incorrecto. El río no tenía forma de pez, sino de persona con rasgos de pez. -->
 - [ ] B) Forma de un niño pequeño. <!-- feedback: Incorrecto. El río tenía forma de señor alto. -->
 - [x] C) Forma de un señor alto y transparente, con ojos de pez y cabellos de algas. <!-- feedback: Correcto. El texto describe al río personificado como un señor alto y transparente. -->
@@ -118,13 +129,14 @@ Se evalúa la retención de detalles descriptivos de una escena onírica. La per
 
 **ID:** `CO-LC-4-2026-P4-textos-literarios-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** El diálogo del río.
+**Contexto:** El diálogo del río.
 
 ### Enunciado
 ¿Qué dijo el río en el sueño que cantaba?
 
-### Options
+### Opciones
 - [ ] A) Canciones de la televisión. <!-- feedback: Incorrecto. El río canta historias de la naturaleza y la historia, no de televisión. -->
 - [x] B) Las historias de los indígenas pijaos, las semillas que lleva y los peces. <!-- feedback: Correcto. El río dice: "Canto las historias de los indígenas pijaos... canto las semillas... canto los peces". -->
 - [ ] C) Las noticias del periódico. <!-- feedback: Incorrecto. El río no canta noticias periodísticas. -->
@@ -139,13 +151,14 @@ Se evalúa la identificación de lo que dice el personaje del río en el diálog
 
 **ID:** `CO-LC-4-2026-P4-textos-literarios-001-MASTERY-v6`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Recurso literario: personificación.
+**Contexto:** Recurso literario: personificación.
 
 ### Enunciado
 En el cuento, el río aparece como un señor que habla y canta. ¿Cómo se llama este recurso literario en el que se le da cualidades humanas a algo que no lo es?
 
-### Options
+### Opciones
 - [ ] A) Comparación. <!-- feedback: Incorrecto. La comparación usa "como" para relacionar dos elementos; aquí el río directamente actúa como humano. -->
 - [ ] B) Rima. <!-- feedback: Incorrecto. La rima es la repetición de sonidos al final de los versos, no aplica aquí. -->
 - [x] C) Personificación. <!-- feedback: Correcto. La personificación es el recurso que atribuye cualidades humanas a seres no humanos, como el río que habla y canta. -->
@@ -160,13 +173,14 @@ Se evalúa la identificación del recurso literario de la personificación. Los 
 
 **ID:** `CO-LC-4-2026-P4-textos-literarios-001-MASTERY-v7`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Significado del final.
+**Contexto:** Significado del final.
 
 ### Enunciado
 Al final, don Evaristo dice: "Ahora el río tiene dos voces: la del agua y la tuya". ¿Qué quiere decir con eso?
 
-### Options
+### Opciones
 - [ ] A) Que Dulcía aprendió a imitar el sonido del río. <!-- feedback: Incorrecto. No se trata de imitar sonidos. -->
 - [x] B) Que Dulcía, con su poema, se convirtió en la voz que cuenta las historias del río. <!-- feedback: Correcto. El poema de Dulcía es una nueva forma de expresar lo que el río "canta", sumando la voz poética a la voz natural del agua. -->
 - [ ] C) Que Dulcía habla muy fuerte como el río. <!-- feedback: Incorrecto. Es una interpretación demasiado literal. -->
@@ -181,13 +195,14 @@ Se evalúa la interpretación del mensaje metafórico al final del cuento. La re
 
 **ID:** `CO-LC-4-2026-P4-textos-literarios-001-MASTERY-v8`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Vocabulario en contexto.
+**Contexto:** Vocabulario en contexto.
 
 ### Enunciado
 En el cuento, la palabra "murmullo" significa:
 
-### Options
+### Opciones
 - [ ] A) Un sonido muy fuerte y molesto. <!-- feedback: Incorrecto. "Murmullo" no es un sonido fuerte, sino suave. -->
 - [x] B) Un sonido suave y continuo, como el que hace el agua al fluir. <!-- feedback: Correcto. "Murmullo" describe un sonido bajo, constante y apacible. -->
 - [ ] C) Un silencio total. <!-- feedback: Incorrecto. "Murmullo" implica que hay sonido, no silencio. -->
@@ -202,13 +217,14 @@ Se evalúa el significado de una palabra en el contexto del cuento. "Murmullo" d
 
 **ID:** `CO-LC-4-2026-P4-textos-literarios-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Tipo de narrador.
+**Contexto:** Tipo de narrador.
 
 ### Enunciado
 ¿Quién cuenta la historia de Dulcía y el río?
 
-### Options
+### Opciones
 - [ ] A) Dulcía misma, en primera persona. <!-- feedback: Incorrecto. Dulcía no narra; ella es un personaje dentro de la historia. -->
 - [ ] B) El río, en primera persona. <!-- feedback: Incorrecto. El río habla dentro de un sueño, pero no narra toda la historia. -->
 - [x] C) Un narrador externo que no participa en la historia. <!-- feedback: Correcto. El cuento está narrado en tercera persona ("vivía una niña", "Dulcía se sentó", "dijo el abuelo"). -->
@@ -223,13 +239,14 @@ Se evalúa la identificación del tipo de narrador. El uso de la tercera persona
 
 **ID:** `CO-LC-4-2026-P4-textos-literarios-001-MASTERY-v10`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Propósito del cuento.
+**Contexto:** Propósito del cuento.
 
 ### Enunciado
 ¿Qué enseñanza o mensaje principal nos deja este cuento literario?
 
-### Options
+### Opciones
 - [ ] A) Que los ríos son peligrosos y no hay que acercarse. <!-- feedback: Incorrecto. El cuento presenta el río como algo hermoso y mágico. -->
 - [ ] B) Que hay que aprender a pescar como don Evaristo. <!-- feedback: Incorrecto. La pesca no es el tema central. -->
 - [x] C) Que la naturaleza tiene belleza y secretos que podemos descubrir si aprendemos a escuchar con atención. <!-- feedback: Correcto. El mensaje central es que la escucha atenta de la naturaleza revela su belleza y podemos expresarla a través del arte. -->

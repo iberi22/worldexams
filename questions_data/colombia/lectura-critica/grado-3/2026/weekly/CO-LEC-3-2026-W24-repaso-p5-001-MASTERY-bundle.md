@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W24-repaso-p5-001-MASTERY"
+id: "CO-LEC-3-2026-W24-repaso-p5-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 24
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso de Periodo 5
 
@@ -25,6 +30,7 @@ Este bundle integra los conocimientos de las semanas 21 a 23: inferencias, causa
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **NOTICIA:** "La selección de fútbol ganó su último partido. Al llegar al aeropuerto, los jugadores fueron recibidos por una multitud de hinchas con banderas, trompetas y cantos de victoria".
@@ -32,7 +38,7 @@ Este bundle integra los conocimientos de las semanas 21 a 23: inferencias, causa
 ### Enunciado
 ¿Quiénes recibieron a los jugadores en el aeropuerto según el texto?
 
-### Options
+### Opciones
 - [ ] A) Sus familiares cercanos. <!-- feedback: Incorrecto. El texto no menciona a la familia, sino a una "multitud de hinchas". -->
 - [x] B) Una multitud de hinchas. <!-- feedback: ¡Correcto! Es el dato literal que proporciona la noticia. -->
 - [ ] C) Los periodistas deportivos. <!-- feedback: Incorrecto. Aunque suele haber periodistas, el texto destaca a los hinchas. -->
@@ -48,6 +54,7 @@ Repaso de comprensión literal en textos periodísticos (Semana 23). Identificar
 **Bloom:** Understand
 **ICFES:** Inferencial
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Juan entró a su casa chorreando agua. Dejó sus botas embarradas en la puerta y puso su paraguas abierto en el patio para que se secara".
@@ -55,7 +62,7 @@ Repaso de comprensión literal en textos periodísticos (Semana 23). Identificar
 ### Enunciado
 ¿Qué podemos **inferir** sobre lo que estaba haciendo Juan antes de entrar a su casa?
 
-### Options
+### Opciones
 - [ ] A) Estaba nadando en una piscina. <!-- feedback: Incorrecto. No entraría con botas y paraguas a una piscina. -->
 - [x] B) Estaba caminando bajo la lluvia. <!-- feedback: ¡Correcto! El agua, el barro y el paraguas son pistas claras de que afuera estaba lloviendo. -->
 - [ ] C) Estaba lavando su carro con una manguera. <!-- feedback: Incorrecto. No necesitaría paraguas para lavar un carro. -->
@@ -71,6 +78,7 @@ Repaso de inferencias (Semana 21). El estudiante debe conectar los objetos descr
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Como Felipe no desayunó antes de ir al colegio, a mitad de la mañana empezó a sentir un fuerte dolor de estómago y no podía concentrarse en la explicación del profesor".
@@ -78,7 +86,7 @@ Repaso de inferencias (Semana 21). El estudiante debe conectar los objetos descr
 ### Enunciado
 ¿Cuál fue la **causa** del dolor de estómago de Felipe?
 
-### Options
+### Opciones
 - [ ] A) Que el profesor explicaba muy mal. <!-- feedback: Incorrecto. Esa es una opinión sobre la clase, no la causa del dolor físico. -->
 - [x] B) El hecho de no haber desayunado. <!-- feedback: ¡Correcto! El texto vincula la falta de alimento con el malestar posterior. -->
 - [ ] C) Que comió demasiados dulces en el recreo. <!-- feedback: Incorrecto. El texto dice que "no desayunó", no menciona dulces. -->
@@ -94,6 +102,7 @@ Repaso de causa-efecto (Semana 22). Identificar la raíz de un problema cotidian
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "¡El festival de música de este año fue un desastre total! El sonido era pésimo, los artistas llegaron tarde y la comida estaba fría. Nadie debería volver a ese evento".
@@ -101,7 +110,7 @@ Repaso de causa-efecto (Semana 22). Identificar la raíz de un problema cotidian
 ### Enunciado
 ¿Cuál de las siguientes frases del texto es una **opinión**?
 
-### Options
+### Opciones
 - [ ] A) Los artistas llegaron tarde. <!-- feedback: Incorrecto. Esto es un hecho que se puede comprobar con un reloj. -->
 - [ ] B) La comida estaba fría. <!-- feedback: Incorrecto. Es un estado físico de la comida que se puede medir. -->
 - [x] C) ¡El festival fue un desastre total! <!-- feedback: ¡Correcto! "Desastre" es un juicio de valor personal; para otra persona pudo haber sido aceptable. -->
@@ -117,6 +126,7 @@ Repaso de textos periodísticos (Semana 23). Distinguir entre el relato de hecho
 **Bloom:** Apply
 **ICFES:** Inferencial
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "La profesora entró al salón con una gran sonrisa y una caja llena de helados. Todos los niños dejaron de hablar inmediatamente y se sentaron muy derechos en sus puestos".
@@ -124,7 +134,7 @@ Repaso de textos periodísticos (Semana 23). Distinguir entre el relato de hecho
 ### Enunciado
 ¿Por qué los niños se portaron tan bien de repente?
 
-### Options
+### Opciones
 - [ ] A) Porque tenían mucho miedo de la profesora. <!-- feedback: Incorrecto. La profesora tiene una sonrisa y trae helados, no parece aterradora. -->
 - [ ] B) Porque estaban muy cansados de hablar. <!-- feedback: Incorrecto. El cambio fue repentino al ver la caja de helados. -->
 - [x] C) Porque esperan recibir un helado como premio por su buen comportamiento. <!-- feedback: ¡Correcto! Infieren que la profesora les dará helados si se portan bien. -->
@@ -140,6 +150,7 @@ Las inferencias sobre las motivaciones de los personajes ayudan a comprender la 
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Si apagamos los grifos mientras nos enjabonamos las manos o nos cepillamos los dientes, podemos ahorrar hasta 10 litros de agua por día. De esta manera, ayudamos a que los ríos no se sequen".
@@ -147,7 +158,7 @@ Las inferencias sobre las motivaciones de los personajes ayudan a comprender la 
 ### Enunciado
 ¿Cuál es la relación de **causa-efecto** que plantea el autor para salvar los ríos?
 
-### Options
+### Opciones
 - [ ] A) El río se seca -> Nosotros ahorramos agua. <!-- feedback: Incorrecto. El ahorro debe ser antes para que el río no se seque. -->
 - [x] B) Ahorrar agua en casa -> Evitar que los ríos se sequen. <!-- feedback: ¡Correcto! La acción individual (ahorro) tiene un impacto ambiental positivo (salud del río). -->
 - [ ] C) Cepillarse los dientes -> El agua se acaba. <!-- feedback: Incorrecto. El problema no es el cepillado, sino el desperdicio durante la acción. -->
@@ -163,6 +174,7 @@ Repaso de causa-efecto (Semana 22). Identificar la cadena lógica en textos de c
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Dos titulares de prensa sobre el mismo hecho:**
@@ -172,7 +184,7 @@ Repaso de causa-efecto (Semana 22). Identificar la cadena lógica en textos de c
 ### Enunciado
 ¿Qué información adicional nos da el Titular B que **no** está en el Titular A?
 
-### Options
+### Opciones
 - [ ] A) La razón por la que cerraron la calle. <!-- feedback: Incorrecto. El Titular A es el que dice que es por la tubería. -->
 - [ ] B) El nombre de la calle que cerraron. <!-- feedback: Incorrecto. Ninguno de los dos da el nombre de la calle en el ejemplo. -->
 - [x] C) La reacción emocional de las personas (enfurecidos) y la queja sobre el aviso. <!-- feedback: ¡Correcto! El Titular B añade el elemento del conflicto humano y la emoción. -->
@@ -188,6 +200,7 @@ Repaso de textos periodísticos (Semana 23). Comparar fuentes permite notar cóm
 **Bloom:** Analyze
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un científico dice: "La temperatura de la Tierra ha subido un grado en los últimos cien años debido a la contaminación". Un niño dice: "Hoy hace mucho calor, seguro es por la contaminación que dice el científico".
@@ -195,7 +208,7 @@ Un científico dice: "La temperatura de la Tierra ha subido un grado en los últ
 ### Enunciado
 ¿En qué se basa el niño para hacer su **inferencia**?
 
-### Options
+### Opciones
 - [ ] A) En lo que él mismo investigó en un laboratorio. <!-- feedback: Incorrecto. El niño se basa en lo que escuchó del científico. -->
 - [ ] B) En que a él no le gusta el calor. <!-- feedback: Incorrecto. Su conclusión tiene una base informativa. -->
 - [x] C) En unir su experiencia personal (hace calor hoy) con una información externa (lo que dijo el científico). <!-- feedback: ¡Correcto! La inferencia surge de combinar el conocimiento previo (la teoría del científico) con la observación del momento. -->

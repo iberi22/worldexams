@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY"
+id: "CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 4"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Reglas ortográficas avanzadas - Grado 4
 
@@ -22,7 +24,7 @@ Este bundle explora reglas ortográficas más complejas, como el uso de la **h**
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -33,21 +35,20 @@ Este bundle explora reglas ortográficas más complejas, como el uso de la **h**
 ¿Cuál es la regla correcta para usar la letra **"m"** en medio de una palabra?
 
 ### Opciones
-- [ ] A) Se escribe m antes de cualquier vocal.
-  <!-- feedback: No, esa no es la regla de combinación de consonantes. -->
-- [x] B) Se escribe siempre m antes de las letras p y b.
-  <!-- feedback: ¡Correcto! Como en "campo" o "tambor". -->
-- [ ] C) Se escribe m al final de todas las palabras.
-  <!-- feedback: En español la mayoría de palabras terminan en n. -->
-- [ ] D) Solo se usa m al principio de la oración.
-  <!-- feedback: No, se usa en cualquier posición. -->
+- [ ] A) Se escribe m antes de cualquier vocal. <!-- feedback: Incorrecto. Se escribe m antes de cualquier vocal. -->
+
+- [x] B) Se escribe siempre m antes de las letras p y b. <!-- feedback: Correcto! Se escribe siempre m antes de las letras p y b. -->
+
+- [ ] C) Se escribe m al final de todas las palabras. <!-- feedback: Incorrecto. Se escribe m al final de todas las palab -->
+
+- [ ] D) Solo se usa m al principio de la oración. <!-- feedback: Incorrecto. Solo se usa m al principio de la oración -->
 
 ### Explicación Pedagogica
 La combinación mp y mb es una regla fija del sistema ortográfico español que evita el uso de la n en esas posiciones.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -58,21 +59,20 @@ La combinación mp y mb es una regla fija del sistema ortográfico español que 
 ¿Qué palabras deben escribirse siempre con **h** inicial según la regla de los diptongos?
 
 ### Opciones
-- [ ] A) Las que empiezan por vocal a solo.
-  <!-- feedback: No todas las palabras con a llevan h. -->
-- [x] B) Las que empiezan por los diptongos hia-, hie-, hue-, hui-.
-  <!-- feedback: ¡Muy bien! Como en "hielo", "huevo" o "huida". -->
-- [ ] C) Las que empiezan por la letra o.
-  <!-- feedback: Muchas palabras con o no llevan h. -->
-- [ ] D) Ninguna, la h no es obligatoria porque no suena.
-  <!-- feedback: Aunque sea muda, su uso es obligatorio según la norma. -->
+- [ ] A) Las que empiezan por vocal a solo. <!-- feedback: Incorrecto. Las que empiezan por vocal a solo. -->
+
+- [x] B) Las que empiezan por los diptongos hia-, hie-, hue-, hui-. <!-- feedback: Correcto! Las que empiezan por los diptongos hia-, hie-, hue-, hui-. -->
+
+- [ ] C) Las que empiezan por la letra o. <!-- feedback: Incorrecto. Las que empiezan por la letra o. -->
+
+- [ ] D) Ninguna, la h no es obligatoria porque no suena. <!-- feedback: Incorrecto. Ninguna, la h no es obligatoria porque n -->
 
 ### Explicación Pedagogica
 El uso de la h inicial ante ciertos diptongos es una convención ortográfica histórica que se mantiene en el idioma.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -83,21 +83,20 @@ El uso de la h inicial ante ciertos diptongos es una convención ortográfica hi
 ¿Cuándo se escribe **"y"** al final de una palabra en lugar de "i"?
 
 ### Opciones
-- [ ] A) Siempre que la palabra sea muy larga.
-  <!-- feedback: No depende de la extensión. -->
-- [x] B) Cuando la palabra termina en diptongo o triptongo y la "i" no tiene el acento.
-  <!-- feedback: ¡Excelente! Como en "soy", "rey", "muy", "Paraguay". -->
-- [ ] C) Solo en los nombres de países.
-  <!-- feedback: Se usa en muchas palabras comunes. -->
-- [ ] D) Nunca, siempre se debe usar la i latina.
-  <!-- feedback: Hay muchas palabras que requieren la y final. -->
+- [ ] A) Siempre que la palabra sea muy larga. <!-- feedback: Incorrecto. Siempre que la palabra sea muy larga. -->
+
+- [x] B) Cuando la palabra termina en diptongo o triptongo y la "i" no tiene el acento. <!-- feedback: Correcto! Cuando la palabra termina en diptongo o triptongo y la "i" n -->
+
+- [ ] C) Solo en los nombres de países. <!-- feedback: Incorrecto. Solo en los nombres de países. -->
+
+- [ ] D) Nunca, siempre se debe usar la i latina. <!-- feedback: Incorrecto. Nunca, siempre se debe usar la i latina. -->
 
 ### Explicación Pedagogica
 La y final funciona como una semiconsonante en diptongos decrecientes al final de palabra.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -108,21 +107,20 @@ La y final funciona como una semiconsonante en diptongos decrecientes al final d
 ¿Cuál es la forma correcta de decir que algo existe en un lugar?
 
 ### Opciones
-- [ ] A) Ahí (lugar).
-  <!-- feedback: "Ahí" indica ubicación, no existencia. -->
-- [ ] B) Ay (exclamación).
-  <!-- feedback: "Ay" indica dolor o sorpresa. -->
-- [x] C) Hay (del verbo haber).
-  <!-- feedback: ¡Correcto! "Hay" indica existencia o cantidad. -->
-- [ ] D) Allay.
-  <!-- feedback: Esa palabra no existe. -->
+- [ ] A) Ahí (lugar). <!-- feedback: Incorrecto. Ahí (lugar). -->
+
+- [ ] B) Ay (exclamación). <!-- feedback: Incorrecto. Ay (exclamación). -->
+
+- [x] C) Hay (del verbo haber). <!-- feedback: Correcto! Hay (del verbo haber). -->
+
+- [ ] D) Allay. <!-- feedback: Incorrecto. Allay. -->
 
 ### Explicación Pedagogica
 Diferenciar los homófonos hay/ahí/ay es uno de los retos ortográficos más importantes en la educación primaria.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -133,21 +131,20 @@ Diferenciar los homófonos hay/ahí/ay es uno de los retos ortográficos más im
 ¿Cuál de estas oraciones está escrita CORRECTAMENTE?
 
 ### Opciones
-- [ ] A) El canpo está lleno de flores y el tanbor suena fuerte.
-  <!-- feedback: Errores de m antes de p y b. -->
-- [x] B) El campo está lleno de flores y el tambor suena fuerte.
-  <!-- feedback: ¡Así es! Campo (mp) y tambor (mb) siguen la regla perfectamente. -->
-- [ ] C) El cambo está lleno de flores y el tampor suena fuerte.
-  <!-- feedback: Intercambió las letras incorrectamente. -->
-- [ ] D) El canpo esta lleno de flores y el tanbor suena fuerte.
-  <!-- feedback: Errores de consonantes y falta de tildes. -->
+- [ ] A) El canpo está lleno de flores y el tanbor suena fuerte. <!-- feedback: Incorrecto. El canpo está lleno de flores y el tanbo -->
+
+- [x] B) El campo está lleno de flores y el tambor suena fuerte. <!-- feedback: Correcto! El campo está lleno de flores y el tambor suena fuerte. -->
+
+- [ ] C) El cambo está lleno de flores y el tampor suena fuerte. <!-- feedback: Incorrecto. El cambo está lleno de flores y el tampo -->
+
+- [ ] D) El canpo esta lleno de flores y el tanbor suena fuerte. <!-- feedback: Incorrecto. El canpo esta lleno de flores y el tanbo -->
 
 ### Explicación Pedagogica
 La automatización de las reglas de combinación de consonantes mejora la fluidez y corrección de la escritura.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -158,21 +155,20 @@ La automatización de las reglas de combinación de consonantes mejora la fluide
 ¿Cuál de estos grupos de verbos debe escribirse siempre con **h** inicial en todas sus formas?
 
 ### Opciones
-- [ ] A) Andar, armar, amar.
-  <!-- feedback: Ninguno de estos lleva h. -->
-- [x] B) Hacer, haber, hablar, habitar.
-  <!-- feedback: ¡Exacto! Son verbos con h inicial obligatoria por su origen. -->
-- [ ] C) Ir, imaginar, imitar.
-  <!-- feedback: Ninguno de estos lleva h inicial. -->
-- [ ] D) Escribir, escuchar, estudiar.
-  <!-- feedback: Empiezan con e, no con h. -->
+- [ ] A) Andar, armar, amar. <!-- feedback: Incorrecto. Andar, armar, amar. -->
+
+- [x] B) Hacer, haber, hablar, habitar. <!-- feedback: Correcto! Hacer, haber, hablar, habitar. -->
+
+- [ ] C) Ir, imaginar, imitar. <!-- feedback: Incorrecto. Ir, imaginar, imitar. -->
+
+- [ ] D) Escribir, escuchar, estudiar. <!-- feedback: Incorrecto. Escribir, escuchar, estudiar. -->
 
 ### Explicación Pedagogica
 Los verbos de alta frecuencia que llevan h suelen ser fuente de errores recurrentes; conocerlos como grupo facilita su memorización.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -183,22 +179,21 @@ Los verbos de alta frecuencia que llevan h suelen ser fuente de errores recurren
 ¿Cuál es la forma correcta de escribir la palabra que significa "persona que no tiene miedo"?
 
 ### Opciones
-- [ ] A) Alcoool.
-  <!-- feedback: No tiene h ni significa eso. -->
-- [ ] B) Ahorrar.
-  <!-- feedback: Significa guardar dinero. -->
-- [x] C) Almohadi... no, espera: **Zanahoria** o **Almohada**. Busquemos la de "miedo": **Desahuciado**? No, muy difícil. Vamos con: **Prohibir**.
-- [x] C) Prohibir
-  <!-- feedback: ¡Muy bien! Lleva h intercalada entre la o y la i. -->
-- [ ] D) Proivir.
-  <!-- feedback: Falta la h intercalada. -->
+- [ ] A) Alcoool. <!-- feedback: Incorrecto. Alcoool. -->
+
+- [ ] B) Ahorrar. <!-- feedback: Incorrecto. Ahorrar. -->
+
+- [x] C) Almohadi... no, espera: **Zanahoria** o **Almohada**. Busquemos la de "miedo": **Desahuciado**? No, muy difícil. Vamos con: **Prohibir**. <!-- feedback: Correcto! Almohadi... no, espera: Zanahoria o Almohada. Busquemos la d -->
+- [x] C) Prohibir <!-- feedback: Correcto! Prohibir -->
+
+- [ ] D) Proivir. <!-- feedback: Incorrecto. Proivir. -->
 
 ### Explicación Pedagogica
 La h intercalada suele aparecer entre vocales para marcar separaciones históricas o silábicas, aunque no tenga sonido.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -209,21 +204,20 @@ La h intercalada suele aparecer entre vocales para marcar separaciones históric
 "¿________ no viniste a clase? No vine ________ estaba enfermo". ¿Qué palabras completan los espacios en orden?
 
 ### Opciones
-- [ ] A) Porque / por qué.
-  <!-- feedback: El orden está invertido. -->
-- [x] B) Por qué (separado y con tilde) / porque (pegado y sin tilde).
-  <!-- feedback: ¡Excelente! "Por qué" es para preguntar y "porque" para responder o dar razones. -->
-- [ ] C) Porqué / porqué.
-  <!-- feedback: "Porqué" con tilde y pegado es un sustantivo (el motivo). -->
-- [ ] D) Porque / porque.
-  <!-- feedback: Falta diferenciar la pregunta de la respuesta. -->
+- [ ] A) Porque / por qué. <!-- feedback: Incorrecto. Porque / por qué. -->
+
+- [x] B) Por qué (separado y con tilde) / porque (pegado y sin tilde). <!-- feedback: Correcto! Por qué (separado y con tilde) / porque (pegado y sin tilde) -->
+
+- [ ] C) Porqué / porqué. <!-- feedback: Incorrecto. Porqué / porqué. -->
+
+- [ ] D) Porque / porque. <!-- feedback: Incorrecto. Porque / porque. -->
 
 ### Explicación Pedagogica
 El dominio de los "porqués" es un indicador de un nivel avanzado de ortografía y comprensión sintáctica.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -234,21 +228,20 @@ El dominio de los "porqués" es un indicador de un nivel avanzado de ortografía
 "El **umano** tenía un **onbro** muy grande y **conpro** un **reloi**". ¿Cuántos errores ortográficos graves hay en la frase?
 
 ### Opciones
-- [ ] A) Dos errores.
-  <!-- feedback: Hay más. -->
-- [ ] B) Tres errores.
-  <!-- feedback: Hay más. -->
-- [x] C) Cuatro errores.
-  <!-- feedback: ¡Correcto! Humano (falta h), hombro (falta h y es mb), compró (debe ser mp) y reloj (termina en j, no i). -->
-- [ ] D) Cinco errores.
-  <!-- feedback: Solo hay cuatro. -->
+- [ ] A) Dos errores. <!-- feedback: Incorrecto. Dos errores. -->
+
+- [ ] B) Tres errores. <!-- feedback: Incorrecto. Tres errores. -->
+
+- [x] C) Cuatro errores. <!-- feedback: Correcto! Cuatro errores. -->
+
+- [ ] D) Cinco errores. <!-- feedback: Incorrecto. Cinco errores. -->
 
 ### Explicación Pedagogica
 La revisión de textos con errores deliberados obliga al estudiante a aplicar simultáneamente varias reglas ortográficas.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-4-2026-W28-reglas-ortograficas-avanzadas-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -259,14 +252,13 @@ La revisión de textos con errores deliberados obliga al estudiante a aplicar si
 ¿Cuál de estas frases es un ejemplo de ortografía AVANZADA y CORRECTA?
 
 ### Opciones
-- [ ] A) Hay mucha jente ahí que no sabe porqué.
-  <!-- feedback: Errores en gente y porqué. -->
-- [x] B) He hallado una herramienta muy útil en el garaje.
-  <!-- feedback: ¡Excelente! He (haber), hallado (encontrar), herramienta (h y rr), garaje (termina en j). Todo perfecto. -->
-- [ ] C) E hallado una erramienta muy util en el garaje.
-  <!-- feedback: Faltan las haches. -->
-- [ ] D) He ayado una herramienta muy util en el garaje.
-  <!-- feedback: Error en "ayado" (debe ser hallado con ll). -->
+- [ ] A) Hay mucha jente ahí que no sabe porqué. <!-- feedback: Incorrecto. Hay mucha jente ahí que no sabe porqué. -->
+
+- [x] B) He hallado una herramienta muy útil en el garaje. <!-- feedback: Correcto! He hallado una herramienta muy útil en el garaje. -->
+
+- [ ] C) E hallado una erramienta muy util en el garaje. <!-- feedback: Incorrecto. E hallado una erramienta muy util en el  -->
+
+- [ ] D) He ayado una herramienta muy util en el garaje. <!-- feedback: Incorrecto. He ayado una herramienta muy util en el  -->
 
 ### Explicación Pedagogica
 La combinación de diferentes reglas (haches, ll/y, tildes, terminaciones) en una sola frase demuestra un dominio integral del sistema escrito.

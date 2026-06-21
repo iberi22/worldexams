@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W07-personajes-001-MASTERY"
+id: "CO-LEC-3-2026-W07-personajes-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 7
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Personajes en la Narración
 
@@ -25,6 +30,7 @@ Este bundle evalúa la capacidad de identificar personajes principales y secunda
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **La Hormiga y el Grano de Azúcar**
@@ -33,7 +39,7 @@ La hormiga Tita encontró un grano de azúcar muy pesado. Sus amigas, las otras 
 ### Enunciado
 ¿Quién es el personaje principal (protagonista) de esta historia?
 
-### Options
+### Opciones
 - [ ] A) El caracol <!-- feedback: Incorrecto. El caracol solo aparece un momento y no realiza la acción central. -->
 - [x] B) La hormiga Tita <!-- feedback: ¡Correcto! La historia se centra en lo que le sucede a Tita y su hallazgo del azúcar. -->
 - [ ] C) El azúcar <!-- feedback: Incorrecto. El azúcar es un objeto, no un personaje con sentimientos o acciones propias. -->
@@ -49,6 +55,7 @@ El protagonista es el personaje sobre el cual gira la historia y quien enfrenta 
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Don Rafael es el panadero del pueblo. Siempre usa un delantal blanco manchado de harina, tiene unas manos grandes y fuertes, y una sonrisa que alegra a todos los clientes que entran a su local".
@@ -56,7 +63,7 @@ El protagonista es el personaje sobre el cual gira la historia y quien enfrenta 
 ### Enunciado
 Según el texto, ¿cuál es una característica **física** de Don Rafael?
 
-### Options
+### Opciones
 - [ ] A) Que es muy alegre. <!-- feedback: Incorrecto. Ser alegre es una característica de su personalidad (psicológica), no de su cuerpo. -->
 - [x] B) Que tiene manos grandes y fuertes. <!-- feedback: ¡Correcto! Las características físicas son las que podemos ver u observar en el cuerpo de una persona. -->
 - [ ] C) Que sabe hacer pan delicioso. <!-- feedback: Incorrecto. Esa es una habilidad o profesión, no una característica física. -->
@@ -72,6 +79,7 @@ Diferenciar entre rasgos físicos (apariencia) y psicológicos (personalidad/car
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En un cuento sobre el reciclaje, el "Monstruo de la Basura" intenta ensuciar los ríos de Colombia. Sin embargo, un grupo de niños llamados "Los Guardianes del Agua" trabajan juntos para limpiar las orillas y proteger a los peces.
@@ -79,7 +87,7 @@ En un cuento sobre el reciclaje, el "Monstruo de la Basura" intenta ensuciar los
 ### Enunciado
 ¿Qué papel cumple el "Monstruo de la Basura" en esta historia?
 
-### Options
+### Opciones
 - [ ] A) Es el héroe que salva el día. <!-- feedback: Incorrecto. El monstruo quiere ensuciar, lo que hace daño al medio ambiente. -->
 - [x] B) Es el antagonista (el que se opone a los buenos). <!-- feedback: ¡Correcto! El antagonista es el personaje que crea problemas o intenta evitar que el protagonista logre su objetivo. -->
 - [ ] C) Es un personaje secundario sin importancia. <!-- feedback: Incorrecto. Su papel es central porque genera el conflicto que los niños deben resolver. -->
@@ -95,6 +103,7 @@ Reconocer los roles de los personajes (protagonista y antagonista) ayuda a enten
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "El pequeño colibrí volaba de flor en flor. Era muy **inquieto** y **curioso**. No podía quedarse quieto ni un segundo porque siempre quería descubrir nuevos colores en el jardín".
@@ -102,7 +111,7 @@ Reconocer los roles de los personajes (protagonista y antagonista) ayuda a enten
 ### Enunciado
 ¿Qué palabras describen la **personalidad** (rasgos psicológicos) del colibrí?
 
-### Options
+### Opciones
 - [ ] A) Pequeño y colorido. <!-- feedback: Incorrecto. Estas son características físicas, no de personalidad. -->
 - [x] B) Inquieto y curioso. <!-- feedback: ¡Correcto! Estas palabras describen cómo se comporta y cómo piensa el personaje. -->
 - [ ] C) Volador y rápido. <!-- feedback: Incorrecto. Estas son acciones o capacidades físicas. -->
@@ -118,6 +127,7 @@ La descripción de la personalidad se basa en adjetivos que indican comportamien
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En la historia de "La Tortuga Sabia", ella aconseja a todos los animales del bosque cuando tienen problemas. Un día, el conejo llega llorando porque perdió su camino. La tortuga, con mucha paciencia, le enseña a mirar las estrellas para orientarse.
@@ -125,7 +135,7 @@ En la historia de "La Tortuga Sabia", ella aconseja a todos los animales del bos
 ### Enunciado
 ¿Cuál es la principal cualidad de la tortuga según sus acciones en la historia?
 
-### Options
+### Opciones
 - [ ] A) La rapidez para correr. <!-- feedback: Incorrecto. Las tortugas no son conocidas por su rapidez, y el texto no menciona que corra. -->
 - [ ] B) La fuerza para cargar cosas. <!-- feedback: Incorrecto. El texto se centra en su conocimiento y ayuda. -->
 - [x] C) La sabiduría y la paciencia. <!-- feedback: ¡Correcto! El texto dice que es "sabia" y que enseña con "paciencia". -->
@@ -141,6 +151,7 @@ Inferir cualidades a partir de las acciones es una habilidad de comprensión má
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En un cuento, los personajes principales son un niño y su perro. Los personajes **secundarios** son el cartero que entrega una carta importante y la vecina que saluda desde la ventana.
@@ -148,7 +159,7 @@ En un cuento, los personajes principales son un niño y su perro. Los personajes
 ### Enunciado
 ¿Cuál es la función de los personajes **secundarios** en una historia?
 
-### Options
+### Opciones
 - [ ] A) Hacer que la historia sea más larga y aburrida. <!-- feedback: Incorrecto. Todo elemento en un buen cuento tiene un propósito. -->
 - [x] B) Ayudar a que la historia avance o dar detalles sobre el ambiente. <!-- feedback: ¡Correcto! Los personajes secundarios apoyan al protagonista o ayudan a crear un contexto más rico. -->
 - [ ] C) No sirven de nada, se pueden quitar y no pasa nada. <!-- feedback: Incorrecto. Aunque no son los más importantes, suelen tener funciones clave como entregar la carta en este ejemplo. -->
@@ -164,6 +175,7 @@ Comprender la jerarquía de los personajes permite al estudiante enfocar su aten
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "El viejo roble del parque ha visto pasar muchas generaciones. Sus ramas son como brazos que protegen a los pájaros, y su tronco rugoso guarda el secreto de cien años de historia".
@@ -171,7 +183,7 @@ Comprender la jerarquía de los personajes permite al estudiante enfocar su aten
 ### Enunciado
 En este texto, el roble es tratado como un personaje porque:
 
-### Options
+### Opciones
 - [ ] A) Es una planta que produce oxígeno. <!-- feedback: Incorrecto. Eso es un hecho biológico, pero no lo convierte en personaje literario. -->
 - [x] B) Se le dan cualidades humanas como "proteger" o "guardar secretos". <!-- feedback: ¡Correcto! Esto se llama personificación y es cuando un objeto o planta actúa como si fuera una persona en un cuento. -->
 - [ ] C) Es muy grande y viejo. <!-- feedback: Incorrecto. Ser grande no te hace personaje automáticamente. -->
@@ -187,6 +199,7 @@ La personificación es un recurso literario común en cuentos infantiles y fábu
 **Bloom:** Evaluate
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Imagina un cuento donde un zorro engaña a una gallina para entrar al gallinero, pero al final la gallina se da cuenta y llama a los perros guardianes para defenderse.
@@ -194,7 +207,7 @@ Imagina un cuento donde un zorro engaña a una gallina para entrar al gallinero,
 ### Enunciado
 Si tuvieras que describir a la gallina al final de la historia, ¿qué adjetivo usarías?
 
-### Options
+### Opciones
 - [ ] A) Tonta. <!-- feedback: Incorrecto. Si fuera tonta, se habría dejado comer por el zorro. -->
 - [ ] B) Miedosa. <!-- feedback: Incorrecto. Aunque pudo tener miedo, actuó con valentía para defenderse. -->
 - [x] C) Astuta. <!-- feedback: ¡Correcto! Fue capaz de notar el engaño y reaccionar de forma inteligente para salvarse. -->

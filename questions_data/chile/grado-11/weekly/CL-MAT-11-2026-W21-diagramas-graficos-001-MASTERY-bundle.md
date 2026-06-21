@@ -1,24 +1,32 @@
 ---
-id: "CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY"
+id: "CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY-bundle"
 country: "chile"
 exam: "PAES DEMRE - MINEDUC"
 grado: 11
 asignatura: "Matematica"
 tema: "diagramas-graficos"
-semana: 21
+week: "W21"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "PAES DEMRE + MINEDUC Bases Curriculares"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle - Matematica: Diagramas Graficos (W21)
 **20 preguntas | Matematica | PAES DEMRE - MINEDUC**
 
 ---
-## Pregunta 1 [D4]
+## Question 1 [D4]
 **ID:** `CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando diagramas graficos.
 
@@ -26,21 +34,22 @@ alignment: "PAES DEMRE + MINEDUC Bases Curriculares"
 Simplifique: (8)(8x + 14)
 
 ### Opciones
-- [x] **A)** 64x + 112
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 64x + 14
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 16x + 112
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 64x - 112
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 64x + 112 <!-- feedback: Correcto! 64x + 112 -->
+
+- [ ] B) 64x + 14 <!-- feedback: Incorrecto. 64x + 14 -->
+
+- [ ] C) 16x + 112 <!-- feedback: Incorrecto. 16x + 112 -->
+
+- [ ] D) 64x - 112 <!-- feedback: Incorrecto. 64x - 112 -->
 
 **Explicacion:** Aplicar distributiva: (8)(8x + 14) = 64x + 112.
 
 ---
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando diagramas graficos.
 
@@ -48,21 +57,22 @@ Simplifique: (8)(8x + 14)
 Resuelve: 2(x + 8) = 22
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 10
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] C) 10 <!-- feedback: Incorrecto. 10 -->
+
+- [ ] D) 7 <!-- feedback: Incorrecto. 7 -->
 
 **Explicacion:** 2(x+8) = 22 -> x+8 = 11 -> x = 3.
 
 ---
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando diagramas graficos.
 
@@ -70,21 +80,22 @@ Resuelve: 2(x + 8) = 22
 Maria compro 7 cuadernos a $10.3 c/u en Puerto Montt. Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $70.3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** $7.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $10.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $17.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $70.3 <!-- feedback: Correcto! $70.3 -->
+
+- [ ] B) $7.3 <!-- feedback: Incorrecto. $7.3 -->
+
+- [ ] C) $10.3 <!-- feedback: Incorrecto. $10.3 -->
+
+- [ ] D) $17.3 <!-- feedback: Incorrecto. $17.3 -->
 
 **Explicacion:** Total = 7 x 10 = $70.3.
 
 ---
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY-v4`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando diagramas graficos.
 
@@ -92,21 +103,22 @@ Maria compro 7 cuadernos a $10.3 c/u en Puerto Montt. Cuanto gasto?
 Un estudiante de Liceo Mario Bahamonde en Antofagasta grafica f(x) = 4x + 5. Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 4
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 4 <!-- feedback: Correcto! 4 -->
+
+- [ ] B) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [ ] C) 9 <!-- feedback: Incorrecto. 9 -->
+
+- [ ] D) 2 <!-- feedback: Incorrecto. 2 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 4.
 
 ---
-## Pregunta 5 [D3]
+## Question 5 [D3]
 **ID:** `CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando diagramas graficos.
 
@@ -114,21 +126,22 @@ Un estudiante de Liceo Mario Bahamonde en Antofagasta grafica f(x) = 4x + 5. Cua
 En La Serena, un estudiante del Liceo Gregorio Cordovez resuelve: 8x + 11 = 51. Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **D)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 7 <!-- feedback: Incorrecto. 7 -->
 
 **Explicacion:** Se resta 11 de ambos lados. Luego se divide por 8: x = 5.
 
 ---
-## Pregunta 6 [D4]
+## Question 6 [D4]
 **ID:** `CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando diagramas graficos.
 
@@ -136,21 +149,22 @@ En La Serena, un estudiante del Liceo Gregorio Cordovez resuelve: 8x + 11 = 51. 
 Simplifique: (8)(4x + 18)
 
 ### Opciones
-- [x] **A)** 32x + 144
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 32x + 18
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 12x + 144
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 32x - 144
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 32x + 144 <!-- feedback: Correcto! 32x + 144 -->
+
+- [ ] B) 32x + 18 <!-- feedback: Incorrecto. 32x + 18 -->
+
+- [ ] C) 12x + 144 <!-- feedback: Incorrecto. 12x + 144 -->
+
+- [ ] D) 32x - 144 <!-- feedback: Incorrecto. 32x - 144 -->
 
 **Explicacion:** Aplicar distributiva: (8)(4x + 18) = 32x + 144.
 
 ---
-## Pregunta 7 [D3]
+## Question 7 [D3]
 **ID:** `CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando diagramas graficos.
 
@@ -158,21 +172,22 @@ Simplifique: (8)(4x + 18)
 Resuelve: 2(x + 7) = 20
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] C) 9 <!-- feedback: Incorrecto. 9 -->
+
+- [ ] D) 6 <!-- feedback: Incorrecto. 6 -->
 
 **Explicacion:** 2(x+7) = 20 -> x+7 = 10 -> x = 3.
 
 ---
-## Pregunta 8 [D4]
+## Question 8 [D4]
 **ID:** `CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando diagramas graficos.
 
@@ -180,21 +195,22 @@ Resuelve: 2(x + 7) = 20
 Maria compro 7 cuadernos a $4.2 c/u en Chillan. Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $28.2
-  <!-- feedback: Correcto! -->
-- [ ] **B)** $7.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $4.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $11.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $28.2 <!-- feedback: Correcto! $28.2 -->
+
+- [ ] B) $7.2 <!-- feedback: Incorrecto. $7.2 -->
+
+- [ ] C) $4.2 <!-- feedback: Incorrecto. $4.2 -->
+
+- [ ] D) $11.2 <!-- feedback: Incorrecto. $11.2 -->
 
 **Explicacion:** Total = 7 x 4 = $28.2.
 
 ---
-## Pregunta 9 [D5]
+## Question 9 [D5]
 **ID:** `CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando diagramas graficos.
 
@@ -202,21 +218,22 @@ Maria compro 7 cuadernos a $4.2 c/u en Chillan. Cuanto gasto?
 Un estudiante de Liceo Enrique Molina en Concepcion grafica f(x) = 2x + 9. Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 2
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 11
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 2 <!-- feedback: Correcto! 2 -->
+
+- [ ] B) 9 <!-- feedback: Incorrecto. 9 -->
+
+- [ ] C) 11 <!-- feedback: Incorrecto. 11 -->
+
+- [ ] D) 8 <!-- feedback: Incorrecto. 8 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 2.
 
 ---
-## Pregunta 10 [D3]
+## Question 10 [D3]
 **ID:** `CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando diagramas graficos.
 
@@ -224,21 +241,22 @@ Un estudiante de Liceo Enrique Molina en Concepcion grafica f(x) = 2x + 9. Cual 
 En Concepcion, un estudiante del Liceo Enrique Molina resuelve: 8x + 10 = 50. Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **D)** 11
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 11 <!-- feedback: Incorrecto. 11 -->
 
 **Explicacion:** Se resta 10 de ambos lados. Luego se divide por 8: x = 5.
 
 ---
-## Pregunta 11 [D4]
+## Question 11 [D4]
 **ID:** `CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY-v11`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando diagramas graficos.
 
@@ -246,21 +264,22 @@ En Concepcion, un estudiante del Liceo Enrique Molina resuelve: 8x + 10 = 50. Cu
 Simplifique: (3)(12x + 47)
 
 ### Opciones
-- [x] **A)** 36x + 141
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 36x + 47
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 15x + 141
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 36x - 141
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 36x + 141 <!-- feedback: Correcto! 36x + 141 -->
+
+- [ ] B) 36x + 47 <!-- feedback: Incorrecto. 36x + 47 -->
+
+- [ ] C) 15x + 141 <!-- feedback: Incorrecto. 15x + 141 -->
+
+- [ ] D) 36x - 141 <!-- feedback: Incorrecto. 36x - 141 -->
 
 **Explicacion:** Aplicar distributiva: (3)(12x + 47) = 36x + 141.
 
 ---
-## Pregunta 12 [D3]
+## Question 12 [D3]
 **ID:** `CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY-v12`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando diagramas graficos.
 
@@ -268,21 +287,22 @@ Simplifique: (3)(12x + 47)
 Resuelve: 2(x + 7) = 20
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] C) 9 <!-- feedback: Incorrecto. 9 -->
+
+- [ ] D) 6 <!-- feedback: Incorrecto. 6 -->
 
 **Explicacion:** 2(x+7) = 20 -> x+7 = 10 -> x = 3.
 
 ---
-## Pregunta 13 [D4]
+## Question 13 [D4]
 **ID:** `CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY-v13`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando diagramas graficos.
 
@@ -290,21 +310,22 @@ Resuelve: 2(x + 7) = 20
 Maria compro 5 cuadernos a $9.2 c/u en Punta Arenas. Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $45.2
-  <!-- feedback: Correcto! -->
-- [ ] **B)** $5.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $9.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $14.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $45.2 <!-- feedback: Correcto! $45.2 -->
+
+- [ ] B) $5.2 <!-- feedback: Incorrecto. $5.2 -->
+
+- [ ] C) $9.2 <!-- feedback: Incorrecto. $9.2 -->
+
+- [ ] D) $14.2 <!-- feedback: Incorrecto. $14.2 -->
 
 **Explicacion:** Total = 5 x 9 = $45.2.
 
 ---
-## Pregunta 14 [D5]
+## Question 14 [D5]
 **ID:** `CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY-v14`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando diagramas graficos.
 
@@ -312,21 +333,22 @@ Maria compro 5 cuadernos a $9.2 c/u en Punta Arenas. Cuanto gasto?
 Un estudiante de Instituto Comercial Valdivia en Valdivia grafica f(x) = 8x + 7. Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 8
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 15
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 8 <!-- feedback: Correcto! 8 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] C) 15 <!-- feedback: Incorrecto. 15 -->
+
+- [ ] D) 2 <!-- feedback: Incorrecto. 2 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 8.
 
 ---
-## Pregunta 15 [D3]
+## Question 15 [D3]
 **ID:** `CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY-v15`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando diagramas graficos.
 
@@ -334,21 +356,22 @@ Un estudiante de Instituto Comercial Valdivia en Valdivia grafica f(x) = 8x + 7.
 En La Serena, un estudiante del Liceo Gregorio Cordovez resuelve: 8x + 7 = 47. Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **D)** 12
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] B) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 12 <!-- feedback: Incorrecto. 12 -->
 
 **Explicacion:** Se resta 7 de ambos lados. Luego se divide por 8: x = 5.
 
 ---
-## Pregunta 16 [D4]
+## Question 16 [D4]
 **ID:** `CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY-v16`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando diagramas graficos.
 
@@ -356,21 +379,22 @@ En La Serena, un estudiante del Liceo Gregorio Cordovez resuelve: 8x + 7 = 47. C
 Simplifique: (4)(10x + 33)
 
 ### Opciones
-- [x] **A)** 40x + 132
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 40x + 33
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 14x + 132
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 40x - 132
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 40x + 132 <!-- feedback: Correcto! 40x + 132 -->
+
+- [ ] B) 40x + 33 <!-- feedback: Incorrecto. 40x + 33 -->
+
+- [ ] C) 14x + 132 <!-- feedback: Incorrecto. 14x + 132 -->
+
+- [ ] D) 40x - 132 <!-- feedback: Incorrecto. 40x - 132 -->
 
 **Explicacion:** Aplicar distributiva: (4)(10x + 33) = 40x + 132.
 
 ---
-## Pregunta 17 [D3]
+## Question 17 [D3]
 **ID:** `CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY-v17`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando diagramas graficos.
 
@@ -378,21 +402,22 @@ Simplifique: (4)(10x + 33)
 Resuelve: 2(x + 3) = 12
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] C) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [ ] D) 2 <!-- feedback: Incorrecto. 2 -->
 
 **Explicacion:** 2(x+3) = 12 -> x+3 = 6 -> x = 3.
 
 ---
-## Pregunta 18 [D4]
+## Question 18 [D4]
 **ID:** `CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY-v18`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando diagramas graficos.
 
@@ -400,21 +425,22 @@ Resuelve: 2(x + 3) = 12
 Maria compro 6 cuadernos a $3.3 c/u en Arica. Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $18.3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** $6.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $3.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $9.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $18.3 <!-- feedback: Correcto! $18.3 -->
+
+- [ ] B) $6.3 <!-- feedback: Incorrecto. $6.3 -->
+
+- [ ] C) $3.3 <!-- feedback: Incorrecto. $3.3 -->
+
+- [ ] D) $9.3 <!-- feedback: Incorrecto. $9.3 -->
 
 **Explicacion:** Total = 6 x 3 = $18.3.
 
 ---
-## Pregunta 19 [D5]
+## Question 19 [D5]
 **ID:** `CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY-v19`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando diagramas graficos.
 
@@ -422,21 +448,22 @@ Maria compro 6 cuadernos a $3.3 c/u en Arica. Cuanto gasto?
 Un estudiante de Liceo Bernardo O'Higgins en Iquique grafica f(x) = 2x + 10. Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 2
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 10
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 12
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 2 <!-- feedback: Correcto! 2 -->
+
+- [ ] B) 10 <!-- feedback: Incorrecto. 10 -->
+
+- [ ] C) 12 <!-- feedback: Incorrecto. 12 -->
+
+- [ ] D) 9 <!-- feedback: Incorrecto. 9 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 2.
 
 ---
-## Pregunta 20 [D3]
+## Question 20 [D3]
 **ID:** `CL-MAT-11-2026-W21-diagramas-graficos-001-MASTERY-v20`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando diagramas graficos.
 
@@ -444,14 +471,13 @@ Un estudiante de Liceo Bernardo O'Higgins en Iquique grafica f(x) = 2x + 10. Cua
 En Iquique, un estudiante del Liceo Bernardo O'Higgins resuelve: 5x + 10 = 35. Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **D)** 12
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 12 <!-- feedback: Incorrecto. 12 -->
 
 **Explicacion:** Se resta 10 de ambos lados. Luego se divide por 5: x = 5.
 

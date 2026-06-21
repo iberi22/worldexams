@@ -1,5 +1,5 @@
 ---
-id: "CO-CN-8-2026-P1-comprehensive-001-MASTERY"
+id: "CO-CN-8-2026-P1-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "ciencias-naturales"
@@ -19,7 +19,12 @@ rubric_baseline: "genética básica, enlaces químicos, leyes de Newton, ADN, fu
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Genética Básica, Enlaces Químicos y Leyes de Newton
 
@@ -31,13 +36,14 @@ Este bundle cubre genética básica (ADN y genes), enlaces químicos (iónico y 
 
 **ID:** `CO-CN-8-2026-P1-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En una clase de biología en un colegio de Bogotá, el profesor explica la estructura del ADN.
+**Contexto:** En una clase de biología en un colegio de Bogotá, el profesor explica la estructura del ADN.
 
 ### Enunciado
 ¿Cuál es la función principal del ADN en los seres vivos?
 
-### Options
+### Opciones
 - [ ] A) Producir energía para la célula. <!-- feedback: Incorrect. La producción de energía es función de las mitocondrias. -->
 - [x] B) Almacenar y transmitir la información genética. <!-- feedback: Correct. El ADN contiene las instrucciones para el desarrollo y funcionamiento de los organismos. -->
 - [ ] C) Transportar oxígeno en la sangre. <!-- feedback: Incorrect. El transporte de oxígeno es función de los glóbulos rojos y la hemoglobina. -->
@@ -52,13 +58,14 @@ El ADN (ácido desoxirribonucleico) es la molécula que contiene la información
 
 **ID:** `CO-CN-8-2026-P1-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** Un estudiante en Medellín estudia los tipos de enlaces químicos para su examen.
+**Contexto:** Un estudiante en Medellín estudia los tipos de enlaces químicos para su examen.
 
 ### Enunciado
 ¿Qué tipo de enlace se forma cuando dos átomos comparten electrones?
 
-### Options
+### Opciones
 - [ ] A) Enlace iónico. <!-- feedback: Incorrect. En el enlace iónico hay transferencia de electrones, no compartición. -->
 - [x] B) Enlace covalente. <!-- feedback: Correct. En el enlace covalente, los átomos comparten uno o más pares de electrones. -->
 - [ ] C) Enlace metálico. <!-- feedback: Incorrect. En el enlace metálico los electrones se mueven libremente entre los átomos del metal. -->
@@ -73,13 +80,14 @@ Los enlaces covalentes se forman cuando átomos no metálicos comparten electron
 
 **ID:** `CO-CN-8-2026-P1-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En un laboratorio escolar en Cali, los estudiantes observan la estructura del ADN en un modelo.
+**Contexto:** En un laboratorio escolar en Cali, los estudiantes observan la estructura del ADN en un modelo.
 
 ### Enunciado
 ¿Qué forma tiene la molécula de ADN?
 
-### Options
+### Opciones
 - [ ] A) Lineal simple. <!-- feedback: Incorrect. Aunque se representa lineal, su estructura tridimensional es diferente. -->
 - [ ] B) Circular. <!-- feedback: Incorrect. El ADN de las bacterias puede ser circular, pero el humano es diferente. -->
 - [x] C) Doble hélice. <!-- feedback: Correct. El ADN tiene forma de doble hélice, como una escalera retorcida. -->
@@ -94,13 +102,14 @@ La estructura de doble hélice del ADN fue descubierta por Watson y Crick en 195
 
 **ID:** `CO-CN-8-2026-P1-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** Un profesor en Barranquilla explica las diferencias entre enlace iónico y covalente.
+**Contexto:** Un profesor en Barranquilla explica las diferencias entre enlace iónico y covalente.
 
 ### Enunciado
 ¿Cuál de las siguientes sustancias presenta enlace iónico?
 
-### Options
+### Opciones
 - [ ] A) Agua (H₂O). <!-- feedback: Incorrect. El agua tiene enlaces covalentes entre el oxígeno y los hidrógenos. -->
 - [ ] B) Oxígeno molecular (O₂). <!-- feedback: Incorrect. El O₂ tiene un enlace covalente doble. -->
 - [x] C) Cloruro de sodio (NaCl). <!-- feedback: Correct. El NaCl tiene enlace iónico: el sodio cede un electrón al cloro. -->
@@ -115,13 +124,14 @@ El enlace iónico se forma cuando un metal transfiere electrones a un no metal. 
 
 **ID:** `CO-CN-8-2026-P1-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** Un experimento en un colegio de Bucaramanga muestra que un carro de juguete acelera más cuando se le aplica mayor fuerza.
+**Contexto:** Un experimento en un colegio de Bucaramanga muestra que un carro de juguete acelera más cuando se le aplica mayor fuerza.
 
 ### Enunciado
 ¿Qué ley de Newton explica esta observación?
 
-### Options
+### Opciones
 - [ ] A) Primera ley (ley de la inercia). <!-- feedback: Incorrect. La primera ley explica que un objeto en reposo tiende a permanecer en reposo. -->
 - [x] B) Segunda ley (F = ma). <!-- feedback: Correct. La segunda ley establece que la aceleración es directamente proporcional a la fuerza neta aplicada. -->
 - [ ] C) Tercera ley (acción y reacción). <!-- feedback: Incorrect. La tercera ley explica que a toda acción corresponde una reacción igual y opuesta. -->
@@ -136,13 +146,14 @@ La segunda ley de Newton, $F = ma$, establece que la aceleración de un objeto e
 
 **ID:** `CO-CN-8-2026-P1-comprehensive-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** Un estudiante empuja una pared con una fuerza de 50 N y la pared no se mueve.
+**Contexto:** Un estudiante empuja una pared con una fuerza de 50 N y la pared no se mueve.
 
 ### Enunciado
 ¿Qué ley de Newton explica que la pared ejerce una fuerza igual sobre el estudiante?
 
-### Options
+### Opciones
 - [ ] A) Primera ley, porque la pared está en reposo. <!-- feedback: Incorrect. La primera ley no explica la interacción entre cuerpos. -->
 - [ ] B) Segunda ley, porque no hay aceleración. <!-- feedback: Incorrect. Aunque no hay aceleración, la explicación es otra. -->
 - [x] C) Tercera ley, porque la pared ejerce una fuerza de reacción igual y opuesta. <!-- feedback: Correct. La tercera ley dice que si A ejerce una fuerza sobre B, B ejerce una fuerza igual y opuesta sobre A. -->
@@ -157,13 +168,14 @@ La tercera ley de Newton (acción-reacción) establece que las fuerzas siempre s
 
 **ID:** `CO-CN-8-2026-P1-comprehensive-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** En una clase de genética en Pereira, se explica que los genes son segmentos de ADN.
+**Contexto:** En una clase de genética en Pereira, se explica que los genes son segmentos de ADN.
 
 ### Enunciado
 ¿Qué son los genes?
 
-### Options
+### Opciones
 - [ ] A) Moléculas que transportan oxígeno. <!-- feedback: Incorrect. Esa es la función de la hemoglobina. -->
 - [ ] B) Proteínas que forman los músculos. <!-- feedback: Incorrect. Los genes contienen instrucciones para producir proteínas, pero no son proteínas. -->
 - [x] C) Segmentos de ADN que contienen información para producir proteínas. <!-- feedback: Correct. Cada gen es una secuencia de ADN que codifica una proteína específica. -->
@@ -178,13 +190,14 @@ Un gen es la unidad básica de la herencia. Es un segmento específico de ADN qu
 
 **ID:** `CO-CN-8-2026-P1-comprehensive-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En un laboratorio de química en Bogotá, se mezcla sodio (Na) con cloro (Cl₂). Se produce una reacción violenta formando un sólido blanco.
+**Contexto:** En un laboratorio de química en Bogotá, se mezcla sodio (Na) con cloro (Cl₂). Se produce una reacción violenta formando un sólido blanco.
 
 ### Enunciado
 ¿Qué tipo de enlace se forma en el compuesto resultante?
 
-### Options
+### Opciones
 - [ ] A) Enlace covalente polar. <!-- feedback: Incorrect. El Na es un metal y el Cl es un no metal; la diferencia de electronegatividad es grande. -->
 - [x] B) Enlace iónico. <!-- feedback: Correct. El Na (metal alcalino) cede un electrón al Cl (halógeno), formando Na⁺ y Cl⁻. -->
 - [ ] C) Enlace covalente apolar. <!-- feedback: Incorrect. No puede haber enlace covalente porque el Na es un metal. -->
@@ -199,13 +212,14 @@ Los metales alcalinos (grupo 1) reaccionan violentamente con los halógenos (gru
 
 **ID:** `CO-CN-8-2026-P1-comprehensive-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante afirma que si un objeto está en reposo, no actúan fuerzas sobre él.
+**Contexto:** Un estudiante afirma que si un objeto está en reposo, no actúan fuerzas sobre él.
 
 ### Enunciado
 ¿Es correcta esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque si hay fuerzas el objeto se movería. <!-- feedback: Incorrect. Un objeto puede estar en reposo con fuerzas actuando sobre él si están equilibradas. -->
 - [x] B) No, porque pueden actuar fuerzas equilibradas cuya suma neta es cero. <!-- feedback: Correct. La primera ley dice que si la fuerza neta es cero, el objeto mantiene su estado de reposo o movimiento uniforme. -->
 - [ ] C) No, porque la gravedad siempre actúa y hace que los objetos se muevan. <!-- feedback: Incorrect. La gravedad actúa, pero puede ser equilibrada por otras fuerzas como la normal. -->
@@ -220,13 +234,14 @@ La primera ley de Newton (ley de la inercia) establece que un objeto permanece e
 
 **ID:** `CO-CN-8-2026-P1-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** Se aplica una fuerza de 20 N a un objeto de 5 kg de masa.
+**Contexto:** Se aplica una fuerza de 20 N a un objeto de 5 kg de masa.
 
 ### Enunciado
 Según la segunda ley de Newton, ¿cuál es la aceleración del objeto?
 
-### Options
+### Opciones
 - [ ] A) 100 m/s² <!-- feedback: Incorrect. $a = F/m$, no $F \times m$. $20 \times 5 = 100$ m/s² es incorrecto. -->
 - [ ] B) 0.25 m/s² <!-- feedback: Incorrect. $a = m/F = 5/20 = 0.25$ m/s², se invirtió la fórmula. -->
 - [x] C) 4 m/s² <!-- feedback: Correct. $a = F/m = 20/5 = 4$ m/s². -->
@@ -241,13 +256,14 @@ La segunda ley de Newton se expresa como $F = ma$, donde $F$ es la fuerza neta e
 
 **ID:** `CO-CN-8-2026-P1-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** En la especie humana, el color de ojos marrón (M) es dominante sobre el color azul (m).
+**Contexto:** En la especie humana, el color de ojos marrón (M) es dominante sobre el color azul (m).
 
 ### Enunciado
 Si ambos padres son heterocigotos (Mm), ¿cuál es la probabilidad de que tengan un hijo con ojos azules?
 
-### Options
+### Opciones
 - [ ] A) 0% <!-- feedback: Incorrect. Ambos padres tienen el alelo recesivo m. -->
 - [ ] B) 25% <!-- feedback: Correct. Cruzando Mm × Mm, las combinaciones son: MM (25%), Mm (50%), mm (25%). Solo mm da ojos azules. -->
 - [ ] C) 50% <!-- feedback: Incorrect. 50% es la probabilidad de que herede al menos un alelo m, pero se requieren dos. -->
@@ -262,13 +278,14 @@ Los cuadros de Punnett permiten calcular las proporciones genotípicas y fenotí
 
 **ID:** `CO-CN-8-2026-P1-comprehensive-001-MASTERY-v12`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** Una persona empuja un carrito de supermercado con una fuerza de 30 N. El carrito tiene una masa de 15 kg y la fricción es de 5 N.
+**Contexto:** Una persona empuja un carrito de supermercado con una fuerza de 30 N. El carrito tiene una masa de 15 kg y la fricción es de 5 N.
 
 ### Enunciado
 ¿Cuál es la aceleración del carrito?
 
-### Options
+### Opciones
 - [ ] A) 2 m/s² <!-- feedback: Incorrect. $30/15 = 2$, pero no se consideró la fricción. -->
 - [ ] B) 1.67 m/s² <!-- feedback: Correct. Fuerza neta = 30 - 5 = 25 N. $a = 25/15 \approx 1.67$ m/s². -->
 - [ ] C) 0.5 m/s² <!-- feedback: Incorrect. $15/30 = 0.5$, fórmula invertida y sin considerar fricción. -->
@@ -283,13 +300,14 @@ Para aplicar la segunda ley de Newton, se debe usar la fuerza neta (suma vectori
 
 **ID:** `CO-CN-8-2026-P1-comprehensive-001-MASTERY-v13`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante en Cartagena dice: "El agua (H₂O) tiene enlace covalente porque comparte electrones, pero el NaCl tiene enlace iónico porque transfiere electrones."
+**Contexto:** Un estudiante en Cartagena dice: "El agua (H₂O) tiene enlace covalente porque comparte electrones, pero el NaCl tiene enlace iónico porque transfiere electrones."
 
 ### Enunciado
 ¿Es correcta esta caracterización?
 
-### Options
+### Opciones
 - [x] A) Sí, el H₂O tiene enlaces covalentes polares entre O e H, y el NaCl tiene enlace iónico. <!-- feedback: Correct. La diferencia de electronegatividad entre O y H es moderada (covalente polar), y entre Na y Cl es grande (iónico). -->
 - [ ] B) No, el H₂O tiene enlace iónico porque el oxígeno atrae fuertemente los electrones. <!-- feedback: Incorrect. Aunque hay polaridad, sigue siendo un enlace covalente. -->
 - [ ] C) No, ambos tienen enlace covalente. <!-- feedback: Incorrect. El NaCl claramente tiene enlace iónico. -->
@@ -304,13 +322,14 @@ La diferencia de electronegatividad determina el tipo de enlace: >1.7 es iónico
 
 **ID:** `CO-CN-8-2026-P1-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante dice: "Si un astronauta está en el espacio sin gravedad, su masa es cero, por lo que puede flotar."
+**Contexto:** Un estudiante dice: "Si un astronauta está en el espacio sin gravedad, su masa es cero, por lo que puede flotar."
 
 ### Enunciado
 ¿Es correcta esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque la masa depende de la gravedad. <!-- feedback: Incorrect. La masa es constante, el peso depende de la gravedad. -->
 - [ ] B) No, la masa del astronauta es la misma; lo que cambia es su peso porque no hay gravedad. <!-- feedback: Correct. La masa es la cantidad de materia y no cambia. El peso = masa × gravedad. -->
 - [ ] C) Sí, porque la ingravidez significa que no hay masa. <!-- feedback: Incorrect. Ingravidez = peso aparente cero, no masa cero. -->
@@ -325,13 +344,14 @@ La masa es una propiedad intrínseca de la materia que no cambia con la ubicaci�
 
 **ID:** `CO-CN-8-2026-P1-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Reflexivo
-**Context:** Un agricultor en el Valle del Cauca tiene un cultivo de maíz que produce granos amarillos (dominante, A) y blancos (recesivo, a). Al cruzar dos plantas heterocigotas (Aa), obtiene 400 semillas.
+**Contexto:** Un agricultor en el Valle del Cauca tiene un cultivo de maíz que produce granos amarillos (dominante, A) y blancos (recesivo, a). Al cruzar dos plantas heterocigotas (Aa), obtiene 400 semillas.
 
 ### Enunciado
 ¿Cuántas semillas se espera que sean de color blanco según las leyes de Mendel?
 
-### Options
+### Opciones
 - [ ] A) 300 <!-- feedback: Incorrect. 300 sería el 75% (color amarillo). -->
 - [ ] B) 200 <!-- feedback: Incorrect. 200 sería el 50%. -->
 - [x] C) 100 <!-- feedback: Correct. De 400 semillas, 25% serán aa = 100 semillas blancas. -->

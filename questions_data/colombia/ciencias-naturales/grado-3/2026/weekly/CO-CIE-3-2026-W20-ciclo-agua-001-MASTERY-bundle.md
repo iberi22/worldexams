@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W20-ciclo-agua-001-MASTERY"
+id: "CO-CIE-3-2026-W20-ciclo-agua-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "ciclo-agua"
-semana: "W20"
+week: "W20"
 periodo: 2
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Repaso y profundización del ciclo del agua: procesos, cambios
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # El Ciclo Vital del Agua
 
 Este bundle profundiza en el movimiento constante del agua en la naturaleza, conectando los procesos físicos con la importancia de mantener este ciclo saludable para todos los seres vivos.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W20-ciclo-agua-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una tarde calurosa en Cali, un charco de agua en la calle desaparece después de unas horas de sol.
+**Contexto:** En una tarde calurosa en Cali, un charco de agua en la calle desaparece después de unas horas de sol.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ La evaporación es el primer paso para limpiar el agua en la naturaleza. El sol 
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W20-ciclo-agua-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Al subir a una montaña alta, como el Nevado del Cocuy, el vapor de agua se enfría tanto que forma pequeños cristales de nieve.
+**Contexto:** Al subir a una montaña alta, como el Nevado del Cocuy, el vapor de agua se enfría tanto que forma pequeños cristales de nieve.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -73,12 +77,12 @@ La condensación es un proceso de "pérdida de energía". Al enfriarse, las mol�
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W20-ciclo-agua-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Tienes que ordenar los pasos del ciclo del agua para explicarle a un compañero cómo llega el agua del mar a su vaso.
+**Contexto:** Tienes que ordenar los pasos del ciclo del agua para explicarle a un compañero cómo llega el agua del mar a su vaso.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ El ciclo del agua es como un círculo que nunca termina. Cada paso es consecuenc
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W20-ciclo-agua-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** En el Chocó, una de las zonas más lluviosas del mundo, el ciclo del agua ocurre muy rápido debido a la gran humedad y el calor.
+**Contexto:** En el Chocó, una de las zonas más lluviosas del mundo, el ciclo del agua ocurre muy rápido debido a la gran humedad y el calor.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ La lluvia es el motor de la biodiversidad en Colombia. Gracias a las abundantes 
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W20-ciclo-agua-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Los frailejones en los páramos actúan como "atrapanieblas". Sus hojas capturan las gotas de las nubes y las llevan al suelo.
+**Contexto:** Los frailejones en los páramos actúan como "atrapanieblas". Sus hojas capturan las gotas de las nubes y las llevan al suelo.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -148,12 +152,12 @@ Los páramos son los reguladores del ciclo del agua en Colombia. Funcionan como 
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W20-ciclo-agua-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Mariana pone una tapa fría sobre una olla de sopa caliente que está hirviendo. Al levantar la tapa, ve que gotea agua.
+**Contexto:** Mariana pone una tapa fría sobre una olla de sopa caliente que está hirviendo. Al levantar la tapa, ve que gotea agua.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -173,12 +177,12 @@ Podemos observar el ciclo del agua en nuestra casa. Este experimento sencillo no
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W20-ciclo-agua-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** En la etapa de "transpiración", los seres vivos también aportan agua al ciclo.
+**Contexto:** En la etapa de "transpiración", los seres vivos también aportan agua al ciclo.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -198,12 +202,12 @@ Los bosques son "bombas de agua". Un árbol grande puede transpirar cientos de l
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W20-ciclo-agua-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Si el ciclo del agua se detuviera y el agua se quedara quieta en los océanos para siempre.
+**Contexto:** Si el ciclo del agua se detuviera y el agua se quedara quieta en los océanos para siempre.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -223,12 +227,12 @@ El ciclo del agua es el sistema de entrega de vida del planeta. Transporta el ag
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W20-ciclo-agua-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** El cambio climático está calentando demasiado la atmósfera de la Tierra.
+**Contexto:** El cambio climático está calentando demasiado la atmósfera de la Tierra.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -248,12 +252,12 @@ El equilibrio es la clave. El ciclo del agua funciona bien cuando las temperatur
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W20-ciclo-agua-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un comercial dice: "Nuestra agua es nueva, fabricada hoy mismo en nuestro laboratorio".
+**Contexto:** Un comercial dice: "Nuestra agua es nueva, fabricada hoy mismo en nuestro laboratorio".
 **Expected_Success:** 0.60
 
 ### Enunciado

@@ -1,5 +1,5 @@
 ---
-id: "CO-CN-6-2026-P3-matter-001-MASTERY"
+id: "CO-CN-6-2026-P3-matter-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -19,7 +19,12 @@ rubric_baseline: "matter, states, properties, mixtures, solutions, physical/chem
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Matter
 
@@ -30,13 +35,14 @@ This bundle covers matter: states of matter, physical and chemical properties, m
 
 **ID:** `CO-CN-6-2026-P3-matter-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** In science class in Bogotá they study matter.
+**Contexto:** In science class in Bogotá they study matter.
 
 ### Enunciado
 What are the three states of matter?
 
-### Options
+### Opciones
 - [x] A) Solid, liquid, gas <!-- feedback: Correcto. -->
 - [ ] B) Earth, water, air <!-- feedback: No. -->
 - [ ] C) Rock, fire, ice <!-- feedback: No. -->
@@ -52,13 +58,14 @@ Matter exists as solid (fixed shape), liquid (flows), and gas (expands).
 
 **ID:** `CO-CN-6-2026-P3-matter-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** In Medellín they experiment with melting ice.
+**Contexto:** In Medellín they experiment with melting ice.
 
 ### Enunciado
 Melting is a change from ___ to ___.
 
-### Options
+### Opciones
 - [ ] A) Gas to liquid <!-- feedback: Condensation. -->
 - [x] B) Solid to liquid <!-- feedback: Correcto. -->
 - [ ] C) Liquid to gas <!-- feedback: Evaporation. -->
@@ -74,13 +81,14 @@ Melting: solid absorbs heat and changes to liquid (ice → water).
 
 **ID:** `CO-CN-6-2026-P3-matter-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** In Cali they study boiling water.
+**Contexto:** In Cali they study boiling water.
 
 ### Enunciado
 At what temperature does water boil at sea level?
 
-### Options
+### Opciones
 - [ ] A) 50°C <!-- feedback: No. -->
 - [x] B) 100°C <!-- feedback: Correcto. -->
 - [ ] C) 0°C <!-- feedback: Freezing point. -->
@@ -96,13 +104,14 @@ Water boils at 100°C (212°F) at standard atmospheric pressure.
 
 **ID:** `CO-CN-6-2026-P3-matter-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** In Barranquilla they learn about density.
+**Contexto:** In Barranquilla they learn about density.
 
 ### Enunciado
 Oil floats on water because oil is ___.
 
-### Options
+### Opciones
 - [x] A) Less dense than water <!-- feedback: Correcto. -->
 - [ ] B) More dense <!-- feedback: No. -->
 - [ ] C) Heavier <!-- feedback: No. -->
@@ -118,13 +127,14 @@ Density = mass/volume. Oil is less dense than water, so it floats.
 
 **ID:** `CO-CN-6-2026-P3-matter-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** In Bucaramanga they classify changes.
+**Contexto:** In Bucaramanga they classify changes.
 
 ### Enunciado
 Burning wood is a ___ change.
 
-### Options
+### Opciones
 - [ ] A) Physical <!-- feedback: No, composition changes. -->
 - [x] B) Chemical <!-- feedback: Correcto. -->
 - [ ] C) Reversible <!-- feedback: No. -->
@@ -140,13 +150,14 @@ Chemical change produces new substances (ash, smoke), not easily reversible.
 
 **ID:** `CO-CN-6-2026-P3-matter-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** In Cartagena they study atoms.
+**Contexto:** In Cartagena they study atoms.
 
 ### Enunciado
 What particles make up an atom?
 
-### Options
+### Opciones
 - [x] A) Protons, neutrons, electrons <!-- feedback: Correcto. -->
 - [ ] B) Cells, tissue, organs <!-- feedback: Biology. -->
 - [ ] C) Elements, compounds, mixtures <!-- feedback: No. -->
@@ -162,13 +173,14 @@ Atoms have: protons (+) and neutrons in nucleus; electrons (-) orbiting.
 
 **ID:** `CO-CN-6-2026-P3-matter-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** In Pereira they explore mixtures.
+**Contexto:** In Pereira they explore mixtures.
 
 ### Enunciado
 Sand and water is an example of a ___.
 
-### Options
+### Opciones
 - [ ] A) Compound <!-- feedback: No. -->
 - [ ] B) Element <!-- feedback: No. -->
 - [x] C) Heterogeneous mixture <!-- feedback: Correcto. -->
@@ -184,13 +196,14 @@ Heterogeneous: components are visible and can be separated.
 
 **ID:** `CO-CN-6-2026-P3-matter-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** In Manizales they study solubility.
+**Contexto:** In Manizales they study solubility.
 
 ### Enunciado
 Sugar dissolves in water because it is ___.
 
-### Options
+### Opciones
 - [ ] A) Insoluble <!-- feedback: No. -->
 - [x] B) Soluble <!-- feedback: Correcto. -->
 - [ ] C) Solid <!-- feedback: No. -->
@@ -206,13 +219,14 @@ Solubility: ability to dissolve. Sugar is soluble in water; oil is not.
 
 **ID:** `CO-CN-6-2026-P3-matter-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** In Cúcuta they learn about elements.
+**Contexto:** In Cúcuta they learn about elements.
 
 ### Enunciado
 Water (H₂O) is made of what elements?
 
-### Options
+### Opciones
 - [ ] A) Helium and oxygen <!-- feedback: No. -->
 - [x] B) Hydrogen and oxygen <!-- feedback: Correcto. -->
 - [ ] C) Hydrogen and nitrogen <!-- feedback: No. -->
@@ -228,13 +242,14 @@ Water = 2 hydrogen atoms + 1 oxygen atom.
 
 **ID:** `CO-CN-6-2026-P3-matter-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** In Ibagué they analyze conservation of mass.
+**Contexto:** In Ibagué they analyze conservation of mass.
 
 ### Enunciado
 If 10g of wood burns, the mass of products (ash+gas) is ___.
 
-### Options
+### Opciones
 - [ ] A) Less than 10g <!-- feedback: No. -->
 - [x] B) About 10g <!-- feedback: Correcto, mass is conserved. -->
 - [ ] C) More than 10g <!-- feedback: No. -->

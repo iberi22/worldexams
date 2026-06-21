@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-10-2026-W32-analisis-de-medios-y-redes-sociales-001-MASTERY"
+id: "CO-LEC-10-2026-W32-analisis-de-medios-y-redes-sociales-001-MASTERY-bundle"
 country: "colombia"
 grado: 10
 asignatura: "lectura-critica"
 tema: "analisis-de-medios-y-redes-sociales"
-semana: 32
+week: "W32"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,15 +16,20 @@ rubric_baseline: "medios masivos, redes sociales, analisis critico, desinformaci
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Análisis de Medios y Redes Sociales — Grado 10
 ## Semana W32
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 
 **ID:** `CO-LEC-10-2026-W32-analisis-de-medios-y-redes-sociales-001-MASTERY-v1`  
 **Bloom:** Remember  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -33,10 +38,10 @@ tier: "legacy"
 
 ### Opciones
 
-- [ ] A) Información veraz
-- [x] B) Información falsa difundida intencionalmente
-- [ ] C) Chiste
-- [ ] D) Opinión
+- [ ] A) Información veraz <!-- feedback: Incorrecto. Información veraz -->
+- [x] B) Información falsa difundida intencionalmente <!-- feedback: Correcto! Información falsa difundida intencionalmente -->
+- [ ] C) Chiste <!-- feedback: Incorrecto. Chiste -->
+- [ ] D) Opinión <!-- feedback: Incorrecto. Opinión -->
 
 ### Explicación Pedagógica
 
@@ -44,10 +49,11 @@ Se distingue por la intencionalidad de engañar.
 
 ---
 
-## Pregunta 2 [D2]
+## Question 2 [D2]
 
 **ID:** `CO-LEC-10-2026-W32-analisis-de-medios-y-redes-sociales-001-MASTERY-v2`  
 **Bloom:** Understand  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -56,10 +62,10 @@ Se distingue por la intencionalidad de engañar.
 
 ### Opciones
 
-- [ ] A) Son más cortas
-- [x] B) Apelan a emociones intensas y sesgos de confirmación
-- [ ] C) Son aburridas
-- [ ] D) No necesitan fuentes
+- [ ] A) Son más cortas <!-- feedback: Incorrecto. Son más cortas -->
+- [x] B) Apelan a emociones intensas y sesgos de confirmación <!-- feedback: Correcto! Apelan a emociones intensas y sesgos de confirmación -->
+- [ ] C) Son aburridas <!-- feedback: Incorrecto. Son aburridas -->
+- [ ] D) No necesitan fuentes <!-- feedback: Incorrecto. No necesitan fuentes -->
 
 ### Explicación Pedagógica
 
@@ -67,10 +73,11 @@ Contenido emocional llamativo que confirma sesgos preexistentes.
 
 ---
 
-## Pregunta 3 [D2]
+## Question 3 [D2]
 
 **ID:** `CO-LEC-10-2026-W32-analisis-de-medios-y-redes-sociales-001-MASTERY-v3`  
 **Bloom:** Understand  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -79,10 +86,10 @@ Verificar noticia antes de compartir es:
 
 ### Opciones
 
-- [ ] A) Pérdida de tiempo
-- [x] B) Ciudadanía digital responsable
-- [ ] C) Exageración
-- [ ] D) Desconfianza
+- [ ] A) Pérdida de tiempo <!-- feedback: Incorrecto. Pérdida de tiempo -->
+- [x] B) Ciudadanía digital responsable <!-- feedback: Correcto! Ciudadanía digital responsable -->
+- [ ] C) Exageración <!-- feedback: Incorrecto. Exageración -->
+- [ ] D) Desconfianza <!-- feedback: Incorrecto. Desconfianza -->
 
 ### Explicación Pedagógica
 
@@ -90,10 +97,11 @@ Parte de la alfabetización mediática y responsabilidad digital.
 
 ---
 
-## Pregunta 4 [D2]
+## Question 4 [D2]
 
 **ID:** `CO-LEC-10-2026-W32-analisis-de-medios-y-redes-sociales-001-MASTERY-v4`  
 **Bloom:** Apply  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -102,10 +110,10 @@ Amigo comparte noticia alarmista sin fuente. ¿Qué hacer?
 
 ### Opciones
 
-- [ ] A) Compartirla
-- [x] B) Verificar y explicar por qué es falsa
-- [ ] C) Ignorar
-- [ ] D) Enojarse
+- [ ] A) Compartirla <!-- feedback: Incorrecto. Compartirla -->
+- [x] B) Verificar y explicar por qué es falsa <!-- feedback: Correcto! Verificar y explicar por qué es falsa -->
+- [ ] C) Ignorar <!-- feedback: Incorrecto. Ignorar -->
+- [ ] D) Enojarse <!-- feedback: Incorrecto. Enojarse -->
 
 ### Explicación Pedagógica
 
@@ -113,10 +121,11 @@ Verificar la información y educar promoviendo pensamiento crítico.
 
 ---
 
-## Pregunta 5 [D2]
+## Question 5 [D2]
 
 **ID:** `CO-LEC-10-2026-W32-analisis-de-medios-y-redes-sociales-001-MASTERY-v5`  
 **Bloom:** Apply  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -125,10 +134,10 @@ Verificar la información y educar promoviendo pensamiento crítico.
 
 ### Opciones
 
-- [ ] A) Compartir rápido
-- [x] B) Búsqueda inversa y sitios de fact-checking
-- [ ] C) Guardarla
-- [ ] D) Comentarla
+- [ ] A) Compartir rápido <!-- feedback: Incorrecto. Compartir rápido -->
+- [x] B) Búsqueda inversa y sitios de fact-checking <!-- feedback: Correcto! Búsqueda inversa y sitios de fact-checking -->
+- [ ] C) Guardarla <!-- feedback: Incorrecto. Guardarla -->
+- [ ] D) Comentarla <!-- feedback: Incorrecto. Comentarla -->
 
 ### Explicación Pedagógica
 
@@ -136,10 +145,11 @@ Búsqueda inversa de imágenes y consultar Colombiacheck.
 
 ---
 
-## Pregunta 6 [D3]
+## Question 6 [D3]
 
 **ID:** `CO-LEC-10-2026-W32-analisis-de-medios-y-redes-sociales-001-MASTERY-v6`  
 **Bloom:** Analyze  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -148,10 +158,10 @@ Influencer promociona producto milagroso. ¿Análisis?
 
 ### Opciones
 
-- [ ] A) Comprarlo
-- [x] B) Usa credibilidad para promover algo sin respaldo
-- [ ] C) Ignorarlo
-- [ ] D) Recomendarlo
+- [ ] A) Comprarlo <!-- feedback: Incorrecto. Comprarlo -->
+- [x] B) Usa credibilidad para promover algo sin respaldo <!-- feedback: Correcto! Usa credibilidad para promover algo sin respaldo -->
+- [ ] C) Ignorarlo <!-- feedback: Incorrecto. Ignorarlo -->
+- [ ] D) Recomendarlo <!-- feedback: Incorrecto. Recomendarlo -->
 
 ### Explicación Pedagógica
 
@@ -159,10 +169,11 @@ Explota credibilidad para promover productos sin sustento científico.
 
 ---
 
-## Pregunta 7 [D3]
+## Question 7 [D3]
 
 **ID:** `CO-LEC-10-2026-W32-analisis-de-medios-y-redes-sociales-001-MASTERY-v7`  
 **Bloom:** Analyze  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -171,10 +182,10 @@ Titular TikTok: 'Esto pasará mañana'. ¿Inferencia?
 
 ### Opciones
 
-- [ ] A) Profecía confiable
-- [x] B) Contenido sensacionalista sin verificación
-- [ ] C) Entretenimiento inofensivo
-- [ ] D) Compartirlo
+- [ ] A) Profecía confiable <!-- feedback: Incorrecto. Profecía confiable -->
+- [x] B) Contenido sensacionalista sin verificación <!-- feedback: Correcto! Contenido sensacionalista sin verificación -->
+- [ ] C) Entretenimiento inofensivo <!-- feedback: Incorrecto. Entretenimiento inofensivo -->
+- [ ] D) Compartirlo <!-- feedback: Incorrecto. Compartirlo -->
 
 ### Explicación Pedagógica
 
@@ -182,10 +193,11 @@ Titulares predictivos sin fuentes son desinformación típica.
 
 ---
 
-## Pregunta 8 [D3]
+## Question 8 [D3]
 
 **ID:** `CO-LEC-10-2026-W32-analisis-de-medios-y-redes-sociales-001-MASTERY-v8`  
 **Bloom:** Evaluate  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -194,10 +206,10 @@ Titulares predictivos sin fuentes son desinformación típica.
 
 ### Opciones
 
-- [ ] A) Ninguno
-- [x] B) Crean cámaras de eco que polarizan
-- [ ] C) Muestran ambas caras
-- [ ] D) Solo afecta jóvenes
+- [ ] A) Ninguno <!-- feedback: Incorrecto. Ninguno -->
+- [x] B) Crean cámaras de eco que polarizan <!-- feedback: Correcto! Crean cámaras de eco que polarizan -->
+- [ ] C) Muestran ambas caras <!-- feedback: Incorrecto. Muestran ambas caras -->
+- [ ] D) Solo afecta jóvenes <!-- feedback: Incorrecto. Solo afecta jóvenes -->
 
 ### Explicación Pedagógica
 
@@ -205,10 +217,11 @@ Refuerzan creencias previas, profundizando la polarización.
 
 ---
 
-## Pregunta 9 [D3]
+## Question 9 [D3]
 
 **ID:** `CO-LEC-10-2026-W32-analisis-de-medios-y-redes-sociales-001-MASTERY-v9`  
 **Bloom:** Evaluate  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -217,10 +230,10 @@ Refuerzan creencias previas, profundizando la polarización.
 
 ### Opciones
 
-- [ ] A) Saber tomar fotos
-- [x] B) Pensamiento crítico y verificación
-- [ ] C) Tener seguidores
-- [ ] D) Postear diario
+- [ ] A) Saber tomar fotos <!-- feedback: Incorrecto. Saber tomar fotos -->
+- [x] B) Pensamiento crítico y verificación <!-- feedback: Correcto! Pensamiento crítico y verificación -->
+- [ ] C) Tener seguidores <!-- feedback: Incorrecto. Tener seguidores -->
+- [ ] D) Postear diario <!-- feedback: Incorrecto. Postear diario -->
 
 ### Explicación Pedagógica
 
@@ -228,10 +241,11 @@ Pensamiento crítico y verificación son fundamentales.
 
 ---
 
-## Pregunta 10 [D1]
+## Question 10 [D1]
 
 **ID:** `CO-LEC-10-2026-W32-analisis-de-medios-y-redes-sociales-001-MASTERY-v10`  
 **Bloom:** Remember  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -240,10 +254,10 @@ Pensamiento crítico y verificación son fundamentales.
 
 ### Opciones
 
-- [ ] A) Efectos de edición
-- [x] B) Algoritmos que muestran contenido similar limitando diversidad
-- [ ] C) Publicidad
-- [ ] D) Grupos
+- [ ] A) Efectos de edición <!-- feedback: Incorrecto. Efectos de edición -->
+- [x] B) Algoritmos que muestran contenido similar limitando diversidad <!-- feedback: Correcto! Algoritmos que muestran contenido similar limitando diversid -->
+- [ ] C) Publicidad <!-- feedback: Incorrecto. Publicidad -->
+- [ ] D) Grupos <!-- feedback: Incorrecto. Grupos -->
 
 ### Explicación Pedagógica
 

@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-4-2026-P4-textos-expositivos-001-MASTERY"
+id: "CO-LEC-4-2026-P4-textos-expositivos-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "texto expositivo, definición, clasificación, datos, explicación, divulgación científica"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4: ¿Cómo se Forman los Arrecifes de Coral en Colombia?
 
@@ -34,13 +41,14 @@ rubric_baseline: "texto expositivo, definición, clasificación, datos, explicac
 
 **ID:** `CO-LC-4-2026-P4-textos-expositivos-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Definición de coral.
+**Contexto:** Definición de coral.
 
 ### Enunciado
 Según el texto, ¿qué son realmente los corales?
 
-### Options
+### Opciones
 - [ ] A) Plantas marinas de colores. <!-- feedback: Incorrecto. El texto dice explícitamente que "los corales no son plantas". -->
 - [ ] B) Piedras que crecen en el mar. <!-- feedback: Incorrecto. El texto dice que "no son piedras". -->
 - [x] C) Animales muy pequeños llamados pólipos. <!-- feedback: Correcto. El texto explica que los corales "son animales muy pequeños llamados pólipos". -->
@@ -55,13 +63,14 @@ Se evalúa la comprensión de la definición de un concepto científico presenta
 
 **ID:** `CO-LC-4-2026-P4-textos-expositivos-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Lugares donde hay corales en Colombia.
+**Contexto:** Lugares donde hay corales en Colombia.
 
 ### Enunciado
 ¿En qué mar de Colombia se encuentran los arrecifes de coral mencionados en el texto?
 
-### Options
+### Opciones
 - [ ] A) En el Océano Pacífico. <!-- feedback: Incorrecto. El texto menciona el mar Caribe, no el Pacífico. -->
 - [x] B) En el mar Caribe. <!-- feedback: Correcto. El texto dice: "Tenemos arrecifes... en el mar Caribe". -->
 - [ ] C) En el río Magdalena. <!-- feedback: Incorrecto. Los arrecifes de coral son de agua salada, no de río. -->
@@ -76,13 +85,14 @@ Se evalúa la localización de un dato geográfico explícito. El estudiante deb
 
 **ID:** `CO-LC-4-2026-P4-textos-expositivos-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Cómo se forman los arrecifes.
+**Contexto:** Cómo se forman los arrecifes.
 
 ### Enunciado
 ¿Cómo se forman los arrecifes de coral según el texto?
 
-### Options
+### Opciones
 - [ ] A) Crecen como las plantas. <!-- feedback: Incorrecto. Los corales no son plantas y no crecen de esa manera. -->
 - [x] B) Los pólipos construyen esqueletos duros y, al morir, nuevos pólipos construyen encima durante cientos de años. <!-- feedback: Correcto. El texto describe el proceso de acumulación de esqueletos a lo largo del tiempo. -->
 - [ ] C) Son rocas que el mar empuja hasta formar montañas. <!-- feedback: Incorrecto. No son rocas empujadas por el mar. -->
@@ -97,13 +107,14 @@ Se evalúa la comprensión de un proceso explicado en el texto. La respuesta cor
 
 **ID:** `CO-LC-4-2026-P4-textos-expositivos-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Material del esqueleto del coral.
+**Contexto:** Material del esqueleto del coral.
 
 ### Enunciado
 ¿De qué material están hechos los esqueletos de los corales?
 
-### Options
+### Opciones
 - [ ] A) De madera. <!-- feedback: Incorrecto. Los corales no tienen esqueleto de madera. -->
 - [ ] B) De plástico. <!-- feedback: Incorrecto. El plástico no es natural de los corales. -->
 - [x] C) De carbonato de calcio. <!-- feedback: Correcto. El texto dice que los pólipos "construyen un esqueleto duro de carbonato de calcio, que es el mismo material de la tiza". -->
@@ -118,13 +129,14 @@ Se evalúa la identificación de un dato científico específico. La comparació
 
 **ID:** `CO-LC-4-2026-P4-textos-expositivos-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** La importancia de los arrecifes.
+**Contexto:** La importancia de los arrecifes.
 
 ### Enunciado
 El texto compara los arrecifes de coral con "ciudades del mar". ¿Qué quiere decir con esa comparación?
 
-### Options
+### Opciones
 - [ ] A) Que los corales tienen calles y casas como las personas. <!-- feedback: Incorrecto. Es una comparación, no una descripción literal. -->
 - [x] B) Que en los arrecifes viven muchas especies diferentes, como en una ciudad viven muchas personas. <!-- feedback: Correcto. La comparación resalta la gran biodiversidad que albergan los arrecifes. -->
 - [ ] C) Que los corales están construidos por ingenieros. <!-- feedback: Incorrecto. No hay ingenieros construyendo arrecifes. -->
@@ -139,13 +151,14 @@ Se evalúa la comprensión de una metáfora explicativa en un texto expositivo. 
 
 **ID:** `CO-LC-4-2026-P4-textos-expositivos-001-MASTERY-v6`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Amenazas a los arrecifes.
+**Contexto:** Amenazas a los arrecifes.
 
 ### Enunciado
 Según el texto, ¿por qué los bloqueadores solares comunes dañan los corales?
 
-### Options
+### Opciones
 - [ ] A) Porque son muy caros. <!-- feedback: Incorrecto. El precio no es un factor ecológico. -->
 - [ ] B) Porque huelen muy fuerte. <!-- feedback: Incorrecto. El olor no es la razón del daño. -->
 - [x] C) Porque contienen químicos que contaminan el agua y dañan los pólipos. <!-- feedback: Correcto. El texto menciona la contaminación del agua como una de las causas del daño a los corales, y los bloqueadores contribuyen a esa contaminación. -->
@@ -160,13 +173,14 @@ Se evalúa la capacidad de inferir una relación de causa y efecto a partir de l
 
 **ID:** `CO-LC-4-2026-P4-textos-expositivos-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Soluciones para proteger los corales.
+**Contexto:** Soluciones para proteger los corales.
 
 ### Enunciado
 ¿Qué están haciendo los científicos colombianos para restaurar los arrecifes dañados?
 
-### Options
+### Opciones
 - [ ] A) Están sacando los corales del mar. <!-- feedback: Incorrecto. Sacarlos del mar los mataría. -->
 - [ ] B) Están prohibiendo el turismo en San Andrés. <!-- feedback: Incorrecto. No se menciona prohibición del turismo. -->
 - [x] C) Tienen viveros de coral donde cultivan fragmentos para restaurar los arrecifes. <!-- feedback: Correcto. El texto dice que "los científicos colombianos trabajan en viveros de coral donde cultivan fragmentos para restaurar los arrecifes". -->
@@ -181,13 +195,14 @@ Se evalúa la identificación de una solución presentada en el texto. La respue
 
 **ID:** `CO-LC-4-2026-P4-textos-expositivos-001-MASTERY-v8`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Propósito del texto.
+**Contexto:** Propósito del texto.
 
 ### Enunciado
 ¿Cuál es el propósito principal de este texto?
 
-### Options
+### Opciones
 - [ ] A) Contar una historia sobre un buceo en San Andrés. <!-- feedback: Incorrecto. No es una narración, es un texto informativo. -->
 - [x] B) Explicar qué son los corales, cómo se forman, por qué son importantes y cómo cuidarlos. <!-- feedback: Correcto. El texto expositivo cumple la función de informar y explicar sobre un tema científico. -->
 - [ ] C) Enseñar a bucear en el mar Caribe. <!-- feedback: Incorrecto. El texto no da instrucciones para bucear. -->
@@ -202,13 +217,14 @@ Se evalúa la identificación del propósito de un texto expositivo. A diferenci
 
 **ID:** `CO-LC-4-2026-P4-textos-expositivos-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Organización del texto expositivo.
+**Contexto:** Organización del texto expositivo.
 
 ### Enunciado
 El texto está dividido en cuatro secciones con preguntas como "¿Qué son los corales?", "¿Por qué son importantes?", "¿Cómo podemos cuidarlos?". ¿Cómo se llama esta forma de organizar un texto?
 
-### Options
+### Opciones
 - [ ] A) Orden cronológico. <!-- feedback: Incorrecto. El texto no sigue una línea de tiempo, sino que responde preguntas. -->
 - [ ] B) Dialogado (preguntas y respuestas). <!-- feedback: Incorrecto. Aunque usa preguntas como títulos, no es un diálogo entre personajes. -->
 - [x] C) Estructura de pregunta-respuesta o de tema-subtema. <!-- feedback: Correcto. Cada sección comienza con una pregunta que introduce el tema a explicar, organizando la información de forma clara. -->
@@ -223,13 +239,14 @@ Se evalúa el reconocimiento de la estructura organizativa de un texto expositiv
 
 **ID:** `CO-LC-4-2026-P4-textos-expositivos-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Aplicación de la información.
+**Contexto:** Aplicación de la información.
 
 ### Enunciado
 Si un estudiante quiere ayudar a proteger los arrecifes de coral, ¿qué acción de las siguientes sería más útil según el texto?
 
-### Options
+### Opciones
 - [ ] A) Llevar muchos peces al mar desde su casa. <!-- feedback: Incorrecto. El texto no menciona la introducción de peces. -->
 - [ ] B) No visitar nunca la costa Caribe. <!-- feedback: Incorrecto. El texto no dice que no se deba visitar; al contrario, el turismo responsable es posible. -->
 - [x] C) Usar bloqueador solar ecológico y no tocar los corales al bucear. <!-- feedback: Correcto. El texto menciona que los turistas pueden "usar bloqueadores ecológicos y no tocando los corales al bucear". -->

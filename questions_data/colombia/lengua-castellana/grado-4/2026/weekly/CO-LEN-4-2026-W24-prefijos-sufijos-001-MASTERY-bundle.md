@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY"
+id: "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 4"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Prefijos y sufijos - Grado 4
 
@@ -22,7 +24,7 @@ Este bundle explora la morfología de las palabras, analizando cómo los prefijo
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -33,21 +35,20 @@ Este bundle explora la morfología de las palabras, analizando cómo los prefijo
 ¿Cómo se llaman las partículas que se añaden **al principio** de una palabra para cambiar su significado?
 
 ### Opciones
-- [ ] A) Sufijos.
-  <!-- feedback: Los sufijos se añaden al final. -->
-- [x] B) Prefijos.
-  <!-- feedback: ¡Correcto! "Pre" significa antes. -->
-- [ ] C) Raíces.
-  <!-- feedback: La raíz es la parte base de la palabra. -->
-- [ ] D) Tildes.
-  <!-- feedback: La tilde es un signo ortográfico de acento. -->
+- [ ] A) Sufijos. <!-- feedback: Incorrecto. Sufijos. -->
+
+- [x] B) Prefijos. <!-- feedback: Correcto! Prefijos. -->
+
+- [ ] C) Raíces. <!-- feedback: Incorrecto. Raíces. -->
+
+- [ ] D) Tildes. <!-- feedback: Incorrecto. Tildes. -->
 
 ### Explicación Pedagogica
 Los prefijos son afijos que se anteponen a la raíz o lexema para formar palabras derivadas con nuevos significados.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -58,21 +59,20 @@ Los prefijos son afijos que se anteponen a la raíz o lexema para formar palabra
 ¿Cómo se llaman las partículas que se añaden **al final** de una palabra para formar otra nueva?
 
 ### Opciones
-- [ ] A) Prefijos.
-  <!-- feedback: Los prefijos van al inicio. -->
-- [x] B) Sufijos.
-  <!-- feedback: ¡Muy bien! Se agregan después de la raíz. -->
-- [ ] C) Comas.
-  <!-- feedback: La coma es un signo de puntuación. -->
-- [ ] D) Artículos.
-  <!-- feedback: Los artículos son palabras independientes que van antes del sustantivo. -->
+- [ ] A) Prefijos. <!-- feedback: Incorrecto. Prefijos. -->
+
+- [x] B) Sufijos. <!-- feedback: Correcto! Sufijos. -->
+
+- [ ] C) Comas. <!-- feedback: Incorrecto. Comas. -->
+
+- [ ] D) Artículos. <!-- feedback: Incorrecto. Artículos. -->
 
 ### Explicación Pedagogica
 Los sufijos permiten crear sustantivos, adjetivos o verbos a partir de otras palabras base.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -83,21 +83,20 @@ Los sufijos permiten crear sustantivos, adjetivos o verbos a partir de otras pal
 Si el prefijo **"des-"** significa lo contrario o la negación de algo, ¿qué significa la palabra **"desorden"**?
 
 ### Opciones
-- [ ] A) Que todo está muy bien puesto.
-  <!-- feedback: Eso sería orden. -->
-- [x] B) La falta de orden o lo contrario al orden.
-  <!-- feedback: ¡Excelente! El prefijo invierte el sentido de la palabra base. -->
-- [ ] C) Un tipo de comida colombiana.
-  <!-- feedback: No tiene relación con la alimentación. -->
-- [ ] D) El nombre de un niño muy juicioso.
-  <!-- feedback: No, se refiere al estado de las cosas. -->
+- [ ] A) Que todo está muy bien puesto. <!-- feedback: Incorrecto. Que todo está muy bien puesto. -->
+
+- [x] B) La falta de orden o lo contrario al orden. <!-- feedback: Correcto! La falta de orden o lo contrario al orden. -->
+
+- [ ] C) Un tipo de comida colombiana. <!-- feedback: Incorrecto. Un tipo de comida colombiana. -->
+
+- [ ] D) El nombre de un niño muy juicioso. <!-- feedback: Incorrecto. El nombre de un niño muy juicioso. -->
 
 ### Explicación Pedagogica
 Reconocer el valor semántico de los prefijos facilita la comprensión de palabras desconocidas que los contengan.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -108,21 +107,20 @@ Reconocer el valor semántico de los prefijos facilita la comprensión de palabr
 Muchos sufijos como **"-ero"** indican una profesión u oficio. ¿Cuál de estas palabras indica una persona que tiene un oficio?
 
 ### Opciones
-- [ ] A) Florero.
-  <!-- feedback: Aquí indica el objeto donde se ponen flores. -->
-- [x] B) Panadero.
-  <!-- feedback: ¡Correcto! Es la persona que hace o vende pan. -->
-- [ ] C) Salero.
-  <!-- feedback: Es el objeto para la sal. -->
-- [ ] D) Perro.
-  <!-- feedback: Es una palabra simple. -->
+- [ ] A) Florero. <!-- feedback: Incorrecto. Florero. -->
+
+- [x] B) Panadero. <!-- feedback: Correcto! Panadero. -->
+
+- [ ] C) Salero. <!-- feedback: Incorrecto. Salero. -->
+
+- [ ] D) Perro. <!-- feedback: Incorrecto. Perro. -->
 
 ### Explicación Pedagogica
 Un mismo sufijo puede tener diferentes funciones (lugar, objeto, oficio) según la raíz a la que se una.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -133,21 +131,20 @@ Un mismo sufijo puede tener diferentes funciones (lugar, objeto, oficio) según 
 El prefijo **"sub-"** significa "debajo de". ¿Qué palabra significa un tren que va por debajo de la tierra?
 
 ### Opciones
-- [ ] A) Supertren.
-  <!-- feedback: Significa un tren muy grande o superior. -->
-- [x] B) Subterráneo o Subte.
-  <!-- feedback: ¡Así es! "Sub" (debajo) + "terra" (tierra). -->
-- [ ] C) Pantano.
-  <!-- feedback: No tiene prefijo sub-. -->
-- [ ] D) Avión.
-  <!-- feedback: El avión va por arriba. -->
+- [ ] A) Supertren. <!-- feedback: Incorrecto. Supertren. -->
+
+- [x] B) Subterráneo o Subte. <!-- feedback: Correcto! Subterráneo o Subte. -->
+
+- [ ] C) Pantano. <!-- feedback: Incorrecto. Pantano. -->
+
+- [ ] D) Avión. <!-- feedback: Incorrecto. Avión. -->
 
 ### Explicación Pedagogica
 La etimología y el análisis de prefijos ayudan a entender términos tecnológicos y de infraestructura.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -158,21 +155,20 @@ La etimología y el análisis de prefijos ayudan a entender términos tecnológi
 En la frase "El nevado es **hermosísimo**", ¿qué función cumple el sufijo resaltado?
 
 ### Opciones
-- [ ] A) Indica que el nevado es pequeño.
-  <!-- feedback: Eso sería "hermosito". -->
-- [x] B) Indica un grado máximo o muy alto de la cualidad (superlativo).
-  <!-- feedback: ¡Exacto! Significa "muy pero muy hermoso". -->
-- [ ] C) Indica que el nevado es feo.
-  <!-- feedback: No cambia el sentido a lo contrario. -->
-- [ ] D) Indica que hay muchos nevados.
-  <!-- feedback: El plural se marca con "s", no con "-ísimo". -->
+- [ ] A) Indica que el nevado es pequeño. <!-- feedback: Incorrecto. Indica que el nevado es pequeño. -->
+
+- [x] B) Indica un grado máximo o muy alto de la cualidad (superlativo). <!-- feedback: Correcto! Indica un grado máximo o muy alto de la cualidad (superlativ -->
+
+- [ ] C) Indica que el nevado es feo. <!-- feedback: Incorrecto. Indica que el nevado es feo. -->
+
+- [ ] D) Indica que hay muchos nevados. <!-- feedback: Incorrecto. Indica que hay muchos nevados. -->
 
 ### Explicación Pedagogica
 Los sufijos derivativos también sirven para expresar intensidad o afectividad en los adjetivos.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -183,21 +179,20 @@ Los sufijos derivativos también sirven para expresar intensidad o afectividad e
 ¿Cuál es la palabra que usa un prefijo para decir que algo tiene **muchos** colores?
 
 ### Opciones
-- [ ] A) Bicolor.
-  <!-- feedback: Significa dos colores. -->
-- [ ] B) Unicolor.
-  <!-- feedback: Significa un solo color. -->
-- [x] C) Multicolores o Policromado.
-  <!-- feedback: ¡Muy bien! "Multi" y "Poli" significan muchos. -->
-- [ ] D) Sincolor.
-  <!-- feedback: Indica falta de color. -->
+- [ ] A) Bicolor. <!-- feedback: Incorrecto. Bicolor. -->
+
+- [ ] B) Unicolor. <!-- feedback: Incorrecto. Unicolor. -->
+
+- [x] C) Multicolores o Policromado. <!-- feedback: Correcto! Multicolores o Policromado. -->
+
+- [ ] D) Sincolor. <!-- feedback: Incorrecto. Sincolor. -->
 
 ### Explicación Pedagogica
 Los prefijos numerales o de cantidad permiten categorizar objetos según sus propiedades numéricas.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -208,21 +203,20 @@ Los prefijos numerales o de cantidad permiten categorizar objetos según sus pro
 ¿Cuál es la **palabra primitiva** de la que nacen: **relojero, relojería, relojito**?
 
 ### Opciones
-- [ ] A) Tiempo.
-  <!-- feedback: Es un significado relacionado, pero no la raíz física de la palabra. -->
-- [x] B) Reloj.
-  <!-- feedback: ¡Correcto! Es la palabra base que no viene de ninguna otra. -->
-- [ ] C) Arena.
-  <!-- feedback: Solo se relaciona con los relojes antiguos. -->
-- [ ] D) Relojería.
-  <!-- feedback: Esta es una palabra derivada, no la primitiva. -->
+- [ ] A) Tiempo. <!-- feedback: Incorrecto. Tiempo. -->
+
+- [x] B) Reloj. <!-- feedback: Correcto! Reloj. -->
+
+- [ ] C) Arena. <!-- feedback: Incorrecto. Arena. -->
+
+- [ ] D) Relojería. <!-- feedback: Incorrecto. Relojería. -->
 
 ### Explicación Pedagogica
 Toda familia de palabras con prefijos y sufijos tiene como origen una palabra simple o primitiva.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -233,21 +227,20 @@ Toda familia de palabras con prefijos y sufijos tiene como origen una palabra si
 ¿Qué ocurre con la palabra **"feliz"** cuando le añadimos el sufijo **"-mente"**?
 
 ### Opciones
-- [ ] A) Se escribe "felismente" con s.
-  <!-- feedback: No, se debe respetar la letra de la raíz. -->
-- [x] B) Se escribe "felizmente" conservando la z de la raíz.
-  <!-- feedback: ¡Excelente! En este caso la z se mantiene antes de la m. -->
-- [ ] C) Se le quita la z.
-  <!-- feedback: Quedaría incompleta. -->
-- [ ] D) Cambia a "felicemente".
-  <!-- feedback: No es correcto. -->
+- [ ] A) Se escribe "felismente" con s. <!-- feedback: Incorrecto. Se escribe "felismente" con s. -->
+
+- [x] B) Se escribe "felizmente" conservando la z de la raíz. <!-- feedback: Correcto! Se escribe "felizmente" conservando la z de la raíz. -->
+
+- [ ] C) Se le quita la z. <!-- feedback: Incorrecto. Se le quita la z. -->
+
+- [ ] D) Cambia a "felicemente". <!-- feedback: Incorrecto. Cambia a "felicemente". -->
 
 ### Explicación Pedagogica
 Al añadir afijos, es vital mantener la coherencia ortográfica de la raíz de la palabra original.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -258,14 +251,13 @@ Al añadir afijos, es vital mantener la coherencia ortográfica de la raíz de l
 Usando prefijos y sufijos, ¿cuál sería el nombre más creativo y correcto para tu invento?
 
 ### Opciones
-- [ ] A) Aburrimiento no.
-  <!-- feedback: Es una frase, no una palabra nueva. -->
-- [ ] B) Divertido máquina.
-  <!-- feedback: No es una formación morfológica. -->
-- [x] C) Desaburridor o Antiaburrimiento.
-  <!-- feedback: ¡Muy bien! Usas prefijos (des-, anti-) y sufijos (-dor) de forma lógica. -->
-- [ ] D) Aburrido.
-  <!-- feedback: Es la palabra original, no el nombre del invento. -->
+- [ ] A) Aburrimiento no. <!-- feedback: Incorrecto. Aburrimiento no. -->
+
+- [ ] B) Divertido máquina. <!-- feedback: Incorrecto. Divertido máquina. -->
+
+- [x] C) Desaburridor o Antiaburrimiento. <!-- feedback: Correcto! Desaburridor o Antiaburrimiento. -->
+
+- [ ] D) Aburrido. <!-- feedback: Incorrecto. Aburrido. -->
 
 ### Explicación Pedagogica
 El dominio de los mecanismos de formación de palabras permite al estudiante jugar con el lenguaje y crear significados potentes.

@@ -1,5 +1,5 @@
 ---
-id: "CO-CNA-6-P4-energia-001-MASTERY"
+id: "CO-CNA-6-P4-energia-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "fisica_basica, formas_energia, transformacion_energia, conservacion"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Energía y sus Manifestaciones
 
@@ -33,7 +40,7 @@ Este bundle evalúa el concepto de energía, las diferentes formas en que se man
 ### Enunciado
 ¿Qué es la **energía** según la física?
 
-### Options
+### Opciones
 - [ ] A) La comida que nos da fuerza para jugar. <!-- feedback: Incorrecto. Esta es una fuente de energía, no la definición general. -->
 - [ ] B) Algo que solo tienen las pilas y las baterías. <!-- feedback: Incorrecto. Todo en el universo implica energía. -->
 - [x] C) La capacidad que tienen los cuerpos para realizar un trabajo o producir cambios. <!-- feedback: Correcto. La energía se manifiesta al mover objetos, calentar cosas o iluminar. -->
@@ -53,7 +60,7 @@ La energía no se puede ver directamente, solo se perciben sus efectos cuando se
 ### Enunciado
 ¿Cuál es la principal fuente de energía natural para la Tierra?
 
-### Options
+### Opciones
 - [ ] A) El viento. <!-- feedback: Incorrecto. Es una fuente secundaria. -->
 - [x] B) El Sol. <!-- feedback: Correcto. El sol provee luz y calor, motores de casi toda la vida y el clima en el planeta. -->
 - [ ] C) El petróleo. <!-- feedback: Incorrecto. Es una fuente fósil y finita. -->
@@ -73,7 +80,7 @@ Casi todas las formas de energía que conocemos provienen directa o indirectamen
 ### Enunciado
 ¿Cómo se llama la energía que posee un cuerpo debido a su **movimiento**?
 
-### Options
+### Opciones
 - [x] A) Energía cinética. <!-- feedback: Correcto. Entre más rápido se mueva un objeto y más masa tenga, mayor será su energía cinética. -->
 - [ ] B) Energía potencial. <!-- feedback: Incorrecto. Esta depende de la posición o altura, no del movimiento. -->
 - [ ] C) Energía química. <!-- feedback: Incorrecto. Esta se encuentra almacenada en los enlaces de las moléculas. -->
@@ -93,7 +100,7 @@ Cualquier objeto que se esté desplazando (un carro, una pelota, el viento) pose
 ### Enunciado
 ¿Qué tipo de energía tiene una piedra que está en lo alto de una montaña pero quieta?
 
-### Options
+### Opciones
 - [ ] A) Energía cinética. <!-- feedback: Incorrecto. La piedra no se está moviendo. -->
 - [x] B) Energía potencial gravitatoria. <!-- feedback: Correcto. Es la energía almacenada debido a su altura respecto al suelo. -->
 - [ ] C) Energía eléctrica. <!-- feedback: Incorrecto. Las piedras no tienen corriente eléctrica por estar quietas. -->
@@ -116,7 +123,7 @@ Enchufas una bombilla y esta se enciende, dando luz y calentándose un poco.
 ### Enunciado
 ¿Cuál es la **transformación de energía** principal que ocurre?
 
-### Options
+### Opciones
 - [ ] A) De energía lumínica a eléctrica. <!-- feedback: Incorrecto. La energía entra como electricidad. -->
 - [x] B) De energía eléctrica a lumínica y térmica. <!-- feedback: Correcto. La electricidad se convierte en luz (lo buscado) y calor (desperdicio). -->
 - [ ] C) De energía cinética a potencial. <!-- feedback: Incorrecto. No hay cambios significativos de altura o movimiento. -->
@@ -136,7 +143,7 @@ Los artefactos humanos son máquinas diseñadas para transformar una forma de en
 ### Enunciado
 ¿Qué dice la famosa **Ley de Conservación de la Energía**?
 
-### Options
+### Opciones
 - [ ] A) Que la energía se gasta y desaparece cuando la usamos. <!-- feedback: Incorrecto. La energía nunca desaparece. -->
 - [x] B) Que la energía no se crea ni se destruye, solo se transforma. <!-- feedback: Correcto. La cantidad total de energía en el universo permanece constante. -->
 - [ ] C) Que debemos ahorrar energía apagando las luces. <!-- feedback: Incorrecto. Esta es una recomendación ambiental, no la ley física. -->
@@ -159,7 +166,7 @@ Un ventilador está funcionando en una habitación.
 ### Enunciado
 ¿Cuál es el flujo correcto de transformación de energía?
 
-### Options
+### Opciones
 - [ ] A) Cinética -> Eléctrica -> Térmica. <!-- feedback: Incorrecto. La energía comienza como eléctrica desde el enchufe. -->
 - [x] B) Eléctrica -> Cinética (del motor) -> Cinética (del aire). <!-- feedback: Correcto. La electricidad mueve el motor, que mueve las aspas, que mueven el aire. -->
 - [ ] C) Química -> Lumínica -> Eléctrica. <!-- feedback: Incorrecto. No hay reacciones químicas ni luz involucradas en el funcionamiento básico. -->
@@ -182,7 +189,7 @@ Se frota una mano contra la otra rápidamente.
 ### Enunciado
 ¿Qué tipo de energía se está produciendo y por qué?
 
-### Options
+### Opciones
 - [ ] A) Energía lumínica por el brillo de la piel. <!-- feedback: Incorrecto. Frotar las manos no produce luz visible. -->
 - [x] B) Energía térmica (calor) debido a la fricción o rozamiento. <!-- feedback: Correcto. Parte de la energía del movimiento se convierte en calor por el contacto entre las superficies. -->
 - [ ] C) Energía nuclear. <!-- feedback: Incorrecto. No estamos alterando los núcleos de los átomos. -->
@@ -205,7 +212,7 @@ Se compara una bombilla antigua (incandescente) con una moderna (LED). Ambas dan
 ### Enunciado
 ¿Cuál de las dos es más **eficiente** energéticamente?
 
-### Options
+### Opciones
 - [ ] A) La antigua, porque calienta la habitación además de iluminar. <!-- feedback: Incorrecto. El calor es un desperdicio si el objetivo es solo iluminar. -->
 - [x] B) La LED, porque transforma más parte de la energía eléctrica en luz y menos en calor desperdiciado. <!-- feedback: Correcto. La eficiencia mide cuánta energía se convierte en el fin deseado. -->
 - [ ] C) Ambas son iguales. <!-- feedback: Incorrecto. Una gasta mucho más energía para el mismo resultado de luz. -->
@@ -225,7 +232,7 @@ La eficiencia energética es clave para el desarrollo sostenible, buscando obten
 ### Enunciado
 ¿Cuál de las siguientes es una fuente de **energía renovable**?
 
-### Options
+### Opciones
 - [ ] A) El carbón. <!-- feedback: Incorrecto. Tarda millones de años en formarse y se agota al usarlo. -->
 - [ ] B) El gas natural. <!-- feedback: Incorrecto. Es un combustible fósil no renovable. -->
 - [x] C) La energía hidráulica (del agua en movimiento). <!-- feedback: Correcto. El ciclo del agua permite que esta fuente se regenere constantemente. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-ING-4-2026-P2-daily-routines-001-MASTERY"
+id: "CO-ING-4-2026-P2-daily-routines-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "ingles"
@@ -17,19 +17,27 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Language and Communication"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 ## Question 1 [D3]
 
 **ID:** `CO-ING-4-2026-P2-daily-routines-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Morning actions.
+**Contexto:** Morning actions.
 
 ### Enunciado
 Every morning, I ________ at 6:00 AM and then I brush my teeth.
 
-### Options
+### Opciones
 - [ ] A) go to sleep <!-- feedback: Incorrect. You don't "go to sleep" at 6:00 AM to start your day; that's what you do at night. -->
 - [x] B) wake up <!-- feedback: Correct. "Wake up" is the first action of the day when you stop sleeping. -->
 - [ ] C) have dinner <!-- feedback: Incorrect. Dinner is the meal you have in the evening or night, not at 6:00 AM. -->
@@ -43,14 +51,15 @@ This question evaluates basic daily routine verbs. The student must identify the
 ## Question 2 [D3]
 
 **ID:** `CO-ING-4-2026-P2-daily-routines-001-MASTERY-v2`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Telling the time for school.
+**Contexto:** Telling the time for school.
 
 ### Enunciado
 My classes start at ________ (7:30).
 
-### Options
+### Opciones
 - [ ] A) seven o'clock <!-- feedback: Incorrect. "Seven o'clock" means 7:00, not 7:30. -->
 - [x] B) seven thirty <!-- feedback: Correct. 7:30 is read as "seven" (the hour) and "thirty" (the minutes). -->
 - [ ] C) seven fifteen <!-- feedback: Incorrect. "Seven fifteen" means 7:15. -->
@@ -64,14 +73,15 @@ This question evaluates the ability to tell the time in English. The student mus
 ## Question 3 [D4]
 
 **ID:** `CO-ING-4-2026-P2-daily-routines-001-MASTERY-v3`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Using the third person (he/she).
+**Contexto:** Using the third person (he/she).
 
 ### Enunciado
 My mother ________ breakfast for the family at 6:30 AM.
 
-### Options
+### Opciones
 - [ ] A) cook <!-- feedback: Incorrect. In the present simple, we add an "-s" to the verb when the subject is he, she, or it (my mother). -->
 - [x] B) cooks <!-- feedback: Correct. "My mother" is a third-person singular subject (she), so the verb "cook" becomes "cooks". -->
 - [ ] C) cooking <!-- feedback: Incorrect. "Cooking" needs the verb "to be" (is cooking) and is used for actions happening right now. -->
@@ -85,14 +95,15 @@ This question evaluates the present simple third-person singular rule. The stude
 ## Question 4 [D4]
 
 **ID:** `CO-ING-4-2026-P2-daily-routines-001-MASTERY-v4`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Sequence of actions.
+**Contexto:** Sequence of actions.
 
 ### Enunciado
 First, I take a shower. ________, I get dressed and go to school.
 
-### Options
+### Opciones
 - [ ] A) Before <!-- feedback: Incorrect. "Before" means earlier. Getting dressed happens AFTER the shower, not before. -->
 - [x] B) Then <!-- feedback: Correct. "Then" is used to show the next action in a sequence. -->
 - [ ] C) Never <!-- feedback: Incorrect. "Never" is an adverb of frequency that doesn't fit the sequence of actions. -->
@@ -106,14 +117,15 @@ This question evaluates the use of sequence connectors like "First" and "Then". 
 ## Question 5 [D4]
 
 **ID:** `CO-ING-4-2026-P2-daily-routines-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Transportation to school.
+**Contexto:** Transportation to school.
 
 ### Enunciado
 I ________ to school by bus every day.
 
-### Options
+### Opciones
 - [x] A) go <!-- feedback: Correct. "Go to school" is the standard phrase for the routine of attending classes. -->
 - [ ] B) goes <!-- feedback: Incorrect. We only add "-s" for he, she, or it. For "I", we use the base form "go". -->
 - [ ] C) going <!-- feedback: Incorrect. "Going" requires a helper verb like "am going" and is not used for general routines. -->
@@ -127,14 +139,15 @@ This question evaluates the present simple for the first person "I". The student
 ## Question 6 [D5]
 
 **ID:** `CO-ING-4-2026-P2-daily-routines-001-MASTERY-v6`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Adverbs of frequency.
+**Contexto:** Adverbs of frequency.
 
 ### Enunciado
 I ________ brush my teeth after every meal. It is very important for my health!
 
-### Options
+### Opciones
 - [ ] A) never <!-- feedback: Incorrect. "Never" means 0% of the time. If it is important for health, you should do it more often. -->
 - [ ] B) sometimes <!-- feedback: Incorrect. "Sometimes" means occasionally. For a healthy routine, a higher frequency is expected. -->
 - [x] C) always <!-- feedback: Correct. "Always" means 100% of the time, which fits the context of an important health routine. -->
@@ -148,14 +161,15 @@ This question evaluates the use of adverbs of frequency (always, sometimes, neve
 ## Question 7 [D5]
 
 **ID:** `CO-ING-4-2026-P2-daily-routines-001-MASTERY-v7`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Night routine.
+**Contexto:** Night routine.
 
 ### Enunciado
 At 9:00 PM, my brother ________ his pajamas and goes to bed.
 
-### Options
+### Opciones
 - [ ] A) puts with <!-- feedback: Incorrect. "Puts with" is not a correct phrasal verb for dressing. -->
 - [x] B) puts on <!-- feedback: Correct. "Put on" means to dress yourself with a piece of clothing like pajamas. -->
 - [ ] C) puts in <!-- feedback: Incorrect. "Put in" means to place something inside a container. -->
@@ -169,15 +183,16 @@ This question evaluates the phrasal verb "put on" and the third-person singular 
 ## Question 8 [D4]
 
 **ID:** `CO-ING-4-2026-P2-daily-routines-001-MASTERY-v8`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** School activities.
+**Contexto:** School activities.
 
 ### Enunciado
 What do you do at 12:30 PM in school?
 "I ________ with my friends in the cafeteria."
 
-### Options
+### Opciones
 - [ ] A) sleep <!-- feedback: Incorrect. Students usually don't sleep in the cafeteria at noon; that's for lunchtime. -->
 - [x] B) have lunch <!-- feedback: Correct. 12:30 PM is the typical time for lunch, and the cafeteria is the place to eat. -->
 - [ ] C) take a shower <!-- feedback: Incorrect. Showers are taken at home, not in the school cafeteria. -->
@@ -191,14 +206,15 @@ This question evaluates the ability to associate a time (12:30 PM) and a place (
 ## Question 9 [D5]
 
 **ID:** `CO-ING-4-2026-P2-daily-routines-001-MASTERY-v9`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Weekend routines.
+**Contexto:** Weekend routines.
 
 ### Enunciado
 On Saturdays, I ________ (not / go) to school. I stay at home.
 
-### Options
+### Opciones
 - [ ] A) no go <!-- feedback: Incorrect. To make a negative in the present simple, we need the auxiliary verb "do/does". -->
 - [x] B) don't go <!-- feedback: Correct. "Don't" (do not) is the correct auxiliary to negate a verb with the subject "I". -->
 - [ ] C) doesn't go <!-- feedback: Incorrect. "Doesn't" is used for he, she, or it, not for "I". -->
@@ -212,14 +228,15 @@ This question evaluates negative sentences in the present simple. The student mu
 ## Question 10 [D5]
 
 **ID:** `CO-ING-4-2026-P2-daily-routines-001-MASTERY-v10`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Asking about a routine.
+**Contexto:** Asking about a routine.
 
 ### Enunciado
 Choose the correct question:
 
-### Options
+### Opciones
 - [ ] A) You wake up at what time? <!-- feedback: Incorrect. This follows Spanish word order. In English, the question word comes first and we need "do". -->
 - [ ] B) What time do you wakes up? <!-- feedback: Incorrect. In a question with "do", we don't add "-s" to the main verb, even if the subject was he/she. Also, here the subject is "you". -->
 - [x] C) What time do you wake up? <!-- feedback: Correct. This is the standard structure for a question in the present simple: Question word + do + subject + verb. -->

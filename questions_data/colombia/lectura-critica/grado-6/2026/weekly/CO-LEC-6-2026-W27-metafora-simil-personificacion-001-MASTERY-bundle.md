@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-6-2026-W27-metafora-simil-personificacion-001-MASTERY"
+id: "CO-LEC-6-2026-W27-metafora-simil-personificacion-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "metafora-simil-personificacion"
-semana: 27
+week: "W27"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "metáfora, símil, personificación, lenguaje figurado, imáge
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G6 — Metáfora, Símil y Personificación
 
@@ -45,12 +50,13 @@ tier: "legacy"
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 En el Texto A, ¿a qué se compara la voz de la abuela?
 
-### Options
+### Opciones
 - [ ] A) A un nido cálido. <!-- feedback: Incorrecto. Las MANOS son comparadas con nidos, no la voz. -->
 - [ ] B) A un mapa. <!-- feedback: Incorrecto. Las arrugas son comparadas con mapas. -->
 - [x] C) A un arrullo de paloma. <!-- feedback: Correcto. El texto dice: "Tu voz es como un arrullo de paloma". -->
@@ -62,12 +68,13 @@ Identificación de una comparación explícita: la voz de la abuela se compara c
 ## Question 2 [D3]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 En el Texto A, la frase "Tus arrugas son mapas de todos los caminos que has recorrido" es una:
 
-### Options
+### Opciones
 - [x] A) Metáfora: las arrugas no son literalmente mapas, sino que REPRESENTAN la experiencia y los años de vida de la abuela. <!-- feedback: Correcto. Es una metáfora porque identifica directamente las arrugas con mapas, sin usar "como". -->
 - [ ] B) Símil: compara las arrugas con mapas usando la palabra "como". <!-- feedback: Incorrecto. No usa "como". La frase es "son", no "son como". -->
 - [ ] C) Personificación: las arrugas tienen cualidades humanas. <!-- feedback: Incorrecto. Las arrugas no realizan acciones humanas aquí; son descritas como mapas. -->
@@ -79,12 +86,13 @@ Distinción clave: la metáfora establece una identificación directa entre dos 
 ## Question 3 [D4 - Identificación de símil]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 En el Texto A, ¿qué verso contiene un símil (comparación con "como")?
 
-### Options
+### Opciones
 - [ ] A) "Abuela, tus manos son dos nidos cálidos" <!-- feedback: Incorrecto. Esa es una metáfora (son, no como). -->
 - [ ] B) "Tus arrugas son mapas" <!-- feedback: Incorrecto. Esa también es una metáfora. -->
 - [x] C) "Tu voz es como un arrullo de paloma" <!-- feedback: Correcto. Usa la palabra "como", lo que lo convierte en un símil. -->
@@ -96,12 +104,13 @@ El símil se reconoce por palabras comparativas: "como", "tal cual", "parece", "
 ## Question 4 [D4 - Identificación de personificación]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 En el Texto A, la frase "las flores del jardín se despiertan para escucharte" es una personificación porque:
 
-### Options
+### Opciones
 - [ ] A) Describe las flores con colores brillantes. <!-- feedback: Incorrecto. -->
 - [x] B) Atribuye acciones humanas (despertarse, escuchar) a las flores, que son seres vegetales. <!-- feedback: Correcto. Las flores no tienen capacidad de despertarse ni de escuchar. Son cualidades humanas que el autor les atribuye para crear una imagen. -->
 - [ ] C) Compara las flores con un jardín. <!-- feedback: Incorrecto. -->
@@ -113,12 +122,13 @@ La personificación da vida y cualidades humanas a objetos inanimados, animales 
 ## Question 5 [D4 - Contraste metáfora vs. símil]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 En el Texto B, compara: "Las matas de café [...] son como soldados verdes formados en filas" (símil) y "Los granos maduros son rubíes escondidos entre las hojas" (metáfora). ¿Qué efecto diferente producen?
 
-### Options
+### Opciones
 - [ ] A) El símil es más corto que la metáfora. <!-- feedback: Incorrecto. La extensión no es el factor relevante. -->
 - [x] B) El símil sugiere una semejanza (se PARECEN a soldados), mientras que la metáfora identifica directamente (los granos SON rubíes), haciendo la comparación más fuerte y poética. <!-- feedback: Correcto. El símil dice "como", dejando espacio para la imaginación; la metáfora afirma directamente, haciendo la identificación más contundente. -->
 - [ ] C) La metáfora usa palabras más difíciles. <!-- feedback: Incorrecto. -->
@@ -130,12 +140,13 @@ Diferencia de efecto: el símil es más suave y sugerente ("se parecen a"); la m
 ## Question 6 [D4 - Identificación de personificación]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 En el Texto B, identifica la personificación:
 
-### Options
+### Opciones
 - [ ] A) "Los granos maduros son rubíes escondidos entre las hojas" <!-- feedback: Incorrecto. Es una metáfora. -->
 - [ ] B) "Las matas de café [...] son como soldados verdes formados en filas" <!-- feedback: Incorrecto. Es un símil. -->
 - [x] C) "Los cafetos susurran secretos entre ellos" y "El sol, curioso, se asoma entre las ramas" <!-- feedback: Correcto. Susurrar, tener secretos, ser curioso y asomarse son acciones y cualidades humanas atribuidas a los cafetos (plantas) y al sol (astro). -->
@@ -147,12 +158,13 @@ Las personificaciones dan vida a lo inanimado. En la literatura colombiana sobre
 ## Question 7 [D5 - Metáfora en publicidad]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 En el Texto C (anuncio de mochilas Wayúu), "Cada mochila es un tejido de sueños ancestrales" y "Los hilos son caminos que unen generaciones". ¿Qué mensaje implícito transmiten estas metáforas?
 
-### Options
+### Opciones
 - [ ] A) Que las mochilas están mal hechas. <!-- feedback: Incorrecto. -->
 - [ ] B) Que las mochilas son baratas. <!-- feedback: Incorrecto. -->
 - [x] C) Que las mochilas no son simples objetos: representan la historia, la cultura y la conexión entre generaciones del pueblo Wayúu. Comprar una mochila es adquirir un pedazo de esa herencia cultural. <!-- feedback: Correcto. Las metáforas transforman un objeto comercial en un símbolo cultural, elevando su valor más allá de lo material. -->
@@ -164,12 +176,13 @@ Las metáforas en publicidad no solo embellecen el mensaje: crean significado y 
 ## Question 8 [D5 - Comparación de efectos entre textos]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 El Texto A y el Texto B describen cosas muy distintas (una abuela vs. una finca de café), pero ambas usan metáforas, símiles y personificaciones. ¿Qué tienen en común en su efecto?
 
-### Options
+### Opciones
 - [ ] A) Ambos textos buscan informar objetivamente. <!-- feedback: Incorrecto. Ambos usan lenguaje figurado, no buscan informar objetivamente. -->
 - [ ] B) Ambos textos usan solo símiles. <!-- feedback: Incorrecto. Usan las tres figuras. -->
 - [x] C) Ambos textos transforman lo cotidiano (una abuela, una planta de café) en algo bello, valioso y digno de admiración mediante el lenguaje figurado. Elevan lo simple a lo extraordinario. <!-- feedback: Correcto. La función principal de estas figuras es revelar la belleza y el valor ocultos en lo ordinario. -->
@@ -181,12 +194,13 @@ La función transformadora del lenguaje figurado: tanto una abuela como una mata
 ## Question 9 [D5 - Identificación de figura en lenguaje cotidiano]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 En el lenguaje cotidiano colombiano decimos frases como "me duele el alma", "el tiempo vuela", "se me parte el corazón" o "tienes el corazón de oro". ¿Qué figura literaria predomina en estas expresiones?
 
-### Options
+### Opciones
 - [ ] A) Símil (comparan con "como"). <!-- feedback: Incorrecto. No usan "como". -->
 - [x] B) Metáfora (identifican una cosa con otra: el corazón es de oro, el tiempo es un pájaro que vuela). También hay personificación ("el tiempo vuela"). <!-- feedback: Correcto. El lenguaje cotidiano está lleno de metáforas y personificaciones que usamos sin darnos cuenta. Los lingüistas llaman a esto "metáforas conceptuales" o "muertas" porque ya no las sentimos como figuras literarias. -->
 - [ ] C) Hipérbole solamente. <!-- feedback: Incorrecto. "Me duele el alma" puede tener hipérbole, pero la estructura es de metáfora. -->
@@ -198,12 +212,13 @@ Las figuras literarias no son solo para poemas. Hablamos en metáforas todo el t
 ## Question 10 [D5]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 Un estudiante escribió: "La lluvia caía fuerte". Su profesor le sugirió usar una figura literaria. ¿Cuál de las siguientes opciones transforma mejor la frase usando una figura literaria?
 
-### Options
+### Opciones
 - [ ] A) "La lluvia caía." (es más corta) <!-- feedback: Incorrecto. Acortar no es usar una figura literaria. -->
 - [ ] B) "La lluvia caía con una intensidad de 50 mm/h según el Ideam." <!-- feedback: Incorrecto. Es un dato científico, no una figura literaria. -->
 - [x] C) "La lluvia lloraba sobre los techos de Bahía Solano" (personificación: la lluvia "llora") o "La lluvia era un telón de plata que ocultaba el mar" (metáfora: la lluvia es un telón de plata). <!-- feedback: Correcto. Ambas opciones transforman una descripción literal en una imagen poética. La personificación da emoción (llorar); la metáfora crea una imagen visual (telón de plata). -->

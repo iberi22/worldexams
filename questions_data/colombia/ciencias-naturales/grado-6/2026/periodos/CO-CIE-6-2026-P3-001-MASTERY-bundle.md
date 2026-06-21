@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W30-examen-periodo-3-001-MASTERY"
+id: "CO-CIE-6-2026-P3-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 20
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W30 — Examen Periodo 3
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v1`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Villavicencio
+**Contexto:** Gimnasio Moderno en Villavicencio
 **Expected_Success:** 0.50
 
 ### Enunciado
 En la clase de Ciencias Naturales del Gimnasio Moderno en Villavicencio, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Cúcuta
+**Contexto:** I.E. Gabriel García Márquez en Cúcuta
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Cúcuta, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Armenia
+**Contexto:** I.E. Francisco de Paula Santander en Armenia
 **Expected_Success:** 0.68
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Armenia, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v4`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** Colegio Nacional San Bartolomé en Villavicencio
+**Contexto:** Colegio Nacional San Bartolomé en Villavicencio
 **Expected_Success:** 0.72
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Villavicencio, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. Jorge Eliécer Gaitán en Barranquilla
+**Contexto:** I.E. Jorge Eliécer Gaitán en Barranquilla
 **Expected_Success:** 0.71
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Barranquilla, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Armenia
+**Contexto:** Colegio La Presentación en Armenia
 **Expected_Success:** 0.61
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio La Presentación en Armenia, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v7`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Riohacha
+**Contexto:** Colegio La Presentación en Riohacha
 **Expected_Success:** 0.53
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio La Presentación en Riohacha, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v8`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Cartagena
+**Contexto:** Colegio La Presentación en Cartagena
 **Expected_Success:** 0.76
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio La Presentación en Cartagena, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v9`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. San José en Riohacha
+**Contexto:** I.E. San José en Riohacha
 **Expected_Success:** 0.74
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. San José en Riohacha, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Ibagué
+**Contexto:** I.E. Gabriel García Márquez en Ibagué
 **Expected_Success:** 0.75
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Ibagué, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -244,13 +249,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v11`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** I.E. Gabriel García Márquez en Quibdó
+**Contexto:** I.E. Gabriel García Márquez en Quibdó
 **Expected_Success:** 0.61
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Quibdó, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -266,13 +271,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v12`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Armenia
+**Contexto:** I.E. Gabriel García Márquez en Armenia
 **Expected_Success:** 0.59
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Armenia, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -288,13 +293,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v13`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** I.E. Gabriel García Márquez en Bogotá
+**Contexto:** I.E. Gabriel García Márquez en Bogotá
 **Expected_Success:** 0.60
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Bogotá, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -310,13 +315,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v14`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** I.E. San José en Riohacha
+**Contexto:** I.E. San José en Riohacha
 **Expected_Success:** 0.58
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. San José en Riohacha, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -332,13 +337,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v15`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** Colegio Nacional San Bartolomé en Cúcuta
+**Contexto:** Colegio Nacional San Bartolomé en Cúcuta
 **Expected_Success:** 0.59
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Cúcuta, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -354,13 +359,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v16`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Riohacha
+**Contexto:** I.E. Jorge Eliécer Gaitán en Riohacha
 **Expected_Success:** 0.52
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Riohacha, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -376,13 +381,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v17`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** I.E. Francisco de Paula Santander en Armenia
+**Contexto:** I.E. Francisco de Paula Santander en Armenia
 **Expected_Success:** 0.64
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Armenia, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -398,13 +403,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v18`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Cartagena
+**Contexto:** Gimnasio Moderno en Cartagena
 **Expected_Success:** 0.59
 
 ### Enunciado
 En la clase de Ciencias Naturales del Gimnasio Moderno en Cartagena, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -420,13 +425,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v19`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. Santa Luisa de Marillac en Tunja
+**Contexto:** I.E. Santa Luisa de Marillac en Tunja
 **Expected_Success:** 0.52
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Tunja, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -442,13 +447,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v20`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** I.E. Francisco de Paula Santander en Villavicencio
+**Contexto:** I.E. Francisco de Paula Santander en Villavicencio
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Villavicencio, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

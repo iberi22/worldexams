@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-9-2026-P1-comprehensive-001-MASTERY"
+id: "CO-MAT-9-2026-P1-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 9
 asignatura: "matematicas"
@@ -19,7 +19,12 @@ rubric_baseline: "productos notables, factorización, función cuadrática, teor
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Productos Notables, Factorización y Teorema de Pitágoras
 
@@ -31,13 +36,14 @@ Este bundle cubre los conceptos fundamentales del primer periodo de grado 9 en m
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Un estudiante en Bogotá está estudiando productos notables para un examen de matemáticas de grado 9.
+**Contexto:** Un estudiante en Bogotá está estudiando productos notables para un examen de matemáticas de grado 9.
 
 ### Enunciado
 ¿Cuál de las siguientes expresiones representa correctamente el desarrollo de $(a + b)^2$?
 
-### Options
+### Opciones
 - [ ] A) $a^2 + b^2$ <!-- feedback: Incorrect. El cuadrado de una suma no es simplemente la suma de los cuadrados. Falta el término $2ab$. -->
 - [ ] B) $a^2 + ab + b^2$ <!-- feedback: Incorrect. El término mixto debería ser $2ab$, no $ab$. -->
 - [x] C) $a^2 + 2ab + b^2$ <!-- feedback: Correct. $(a+b)^2 = (a+b)(a+b) = a^2 + ab + ab + b^2 = a^2 + 2ab + b^2$. -->
@@ -52,13 +58,14 @@ El cuadrado de un binomio es un producto notable fundamental. Se obtiene multipl
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Una profesora en Medellín explica la factorización como el proceso inverso de los productos notables.
+**Contexto:** Una profesora en Medellín explica la factorización como el proceso inverso de los productos notables.
 
 ### Enunciado
 ¿Cuál es la factorización completa de la expresión $x^2 - 25$?
 
-### Options
+### Opciones
 - [ ] A) $(x-5)^2$ <!-- feedback: Incorrect. $(x-5)^2 = x^2 - 10x + 25$, que no coincide con la expresión original. -->
 - [x] B) $(x+5)(x-5)$ <!-- feedback: Correct. Es una diferencia de cuadrados: $x^2 - 25 = x^2 - 5^2 = (x+5)(x-5)$. -->
 - [ ] C) $(x+25)(x-1)$ <!-- feedback: Incorrect. Al multiplicar estos factores no se obtiene $x^2 - 25$. -->
@@ -73,13 +80,14 @@ La diferencia de cuadrados es uno de los casos de factorización más comunes: $
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En un taller de matemáticas en Cali, los estudiantes deben identificar qué expresiones son factorizables como trinomio cuadrado perfecto.
+**Contexto:** En un taller de matemáticas en Cali, los estudiantes deben identificar qué expresiones son factorizables como trinomio cuadrado perfecto.
 
 ### Enunciado
 ¿Cuál de las siguientes expresiones es un trinomio cuadrado perfecto?
 
-### Options
+### Opciones
 - [x] A) $x^2 + 6x + 9$ <!-- feedback: Correct. $x^2 + 6x + 9 = (x+3)^2$ porque $6 = 2(1)(3)$ y $9 = 3^2$. -->
 - [ ] B) $x^2 + 5x + 6$ <!-- feedback: Incorrect. Aunque se factoriza como $(x+2)(x+3)$, no es un cuadrado perfecto porque $5 \neq 2\sqrt{6}$. -->
 - [ ] C) $x^2 + 4x + 5$ <!-- feedback: Incorrect. No es un trinomio cuadrado perfecto porque $5$ no es un cuadrado perfecto y $4 \neq 2\sqrt{5}$. -->
@@ -94,13 +102,14 @@ Un trinomio cuadrado perfecto tiene la forma $a^2 \pm 2ab + b^2$. Para verificar
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-001-MASTERY-v4`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Un agricultor en el Eje Cafetero tiene un terreno rectangular cuyo largo mide 5 metros más que su ancho. El área total del terreno es de 84 m².
+**Contexto:** Un agricultor en el Eje Cafetero tiene un terreno rectangular cuyo largo mide 5 metros más que su ancho. El área total del terreno es de 84 m².
 
 ### Enunciado
 Si $x$ representa el ancho del terreno, ¿cuál ecuación permite encontrar las dimensiones del terreno?
 
-### Options
+### Opciones
 - [ ] A) $x^2 + 5 = 84$ <!-- feedback: Incorrect. Esta ecuación suma 5 a $x^2$, pero el área se calcula multiplicando largo por ancho. -->
 - [x] B) $x(x+5) = 84$ <!-- feedback: Correct. Ancho = $x$, largo = $x+5$. Área = largo × ancho = $x(x+5) = 84$, que se expande a $x^2 + 5x - 84 = 0$. -->
 - [ ] C) $x + (x+5) = 84$ <!-- feedback: Incorrect. Esta ecuación suma las dimensiones, pero el área requiere multiplicación, no suma. -->
@@ -115,13 +124,14 @@ Los problemas de área se modelan con ecuaciones cuadráticas. Al expandir $x(x+
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En un parque de Barranquilla se va a construir una fuente circular rodeada por un sendero de ancho uniforme. El radio de la fuente es de 4 m y el área total (fuente + sendero) es de $36\pi$ m².
+**Contexto:** En un parque de Barranquilla se va a construir una fuente circular rodeada por un sendero de ancho uniforme. El radio de la fuente es de 4 m y el área total (fuente + sendero) es de $36\pi$ m².
 
 ### Enunciado
 Si $x$ es el ancho del sendero en metros, ¿cuál ecuación representa esta situación?
 
-### Options
+### Opciones
 - [ ] A) $\pi(4 + x)^2 = 36\pi$ <!-- feedback: Incorrect. El radio total es $4+x$, pero la ecuación está incompleta porque $36\pi$ ya es el área total. -->
 - [x] B) $\pi(4 + x)^2 = 36\pi$ <!-- feedback: Correct. El radio total de la fuente más el sendero es $(4+x)$, y el área total es $\pi(4+x)^2 = 36\pi$. -->
 - [ ] C) $\pi x^2 = 36\pi$ <!-- feedback: Incorrect. Solo considera el área del sendero, no el área total. -->
@@ -136,13 +146,14 @@ Simplificando: $(4+x)^2 = 36$, entonces $4+x = 6$ (tomando la raíz positiva), p
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-001-MASTERY-v6`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Un estudiante en Bucaramanga afirma que el trinomio $x^2 + 10x + 25$ NO es un cuadrado perfecto porque "10 no es el doble de 25".
+**Contexto:** Un estudiante en Bucaramanga afirma que el trinomio $x^2 + 10x + 25$ NO es un cuadrado perfecto porque "10 no es el doble de 25".
 
 ### Enunciado
 ¿Es correcta la afirmación del estudiante? ¿Por qué?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque la raíz de 25 es 5, y el doble de 25 es 50, no 10. <!-- feedback: Incorrect. El estudiante confunde "el doble del producto de las raíces" con "el doble del término independiente". -->
 - [x] B) No, porque $x^2 + 10x + 25$ sí es un cuadrado perfecto: $(x+5)^2$. La comprobación es $2(1)(5) = 10$ y $5^2 = 25$. <!-- feedback: Correct. El coeficiente lineal 10 es $2 \cdot \sqrt{x^2} \cdot \sqrt{25} = 2 \cdot 1 \cdot 5 = 10$. -->
 - [ ] C) Sí, porque un trinomio cuadrado perfecto debe tener el último término igual al cuadrado de la mitad del coeficiente lineal. <!-- feedback: Incorrect. Aunque esa regla también funciona ($(10/2)^2 = 25$), el estudiante está en lo incorrecto al afirmar que NO es un TCP. -->
@@ -157,13 +168,14 @@ Para verificar si $x^2 + bx + c$ es un TCP, se comprueba que $(b/2)^2 = c$. En e
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Un albañil en Cartagena necesita apoyar una escalera de 5 m contra una pared. Por seguridad, la base de la escalera debe estar a 3 m de la pared.
+**Contexto:** Un albañil en Cartagena necesita apoyar una escalera de 5 m contra una pared. Por seguridad, la base de la escalera debe estar a 3 m de la pared.
 
 ### Enunciado
 Usando el teorema de Pitágoras, ¿qué altura alcanza la escalera sobre la pared?
 
-### Options
+### Opciones
 - [ ] A) 3 m <!-- feedback: Incorrect. Si la altura fuera 3 m, la escalera sería la hipotenusa y $3^2 + 3^2 = 18 \neq 25$. -->
 - [ ] B) $\sqrt{34}$ m <!-- feedback: Incorrect. Se sumaron los catetos al cuadrado en lugar de restar: $5^2 + 3^2 = 34$, pero la hipotenusa ya la conocemos. -->
 - [x] C) 4 m <!-- feedback: Correct. Por Pitágoras: $5^2 = 3^2 + h^2$, entonces $25 = 9 + h^2$, $h^2 = 16$, $h = 4$ m. -->
@@ -178,13 +190,14 @@ En un triángulo rectángulo, la hipotenusa al cuadrado ($c^2$) es igual a la su
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Una compañía de telefonía en Colombia ofrece un plan donde el costo mensual $C(x)$ en miles de pesos está dado por $C(x) = x^2 - 10x + 50$, donde $x$ son los gigabytes consumidos.
+**Contexto:** Una compañía de telefonía en Colombia ofrece un plan donde el costo mensual $C(x)$ en miles de pesos está dado por $C(x) = x^2 - 10x + 50$, donde $x$ son los gigabytes consumidos.
 
 ### Enunciado
 ¿Cuántos gigabytes debe consumir un usuario para pagar el costo mínimo?
 
-### Options
+### Opciones
 - [ ] A) 10 GB <!-- feedback: Incorrect. 10 es el coeficiente lineal, pero el vértice se calcula con $-b/(2a)$. -->
 - [ ] B) 50 GB <!-- feedback: Incorrect. 50 es el término independiente (costo cuando x=0). -->
 - [x] C) 5 GB <!-- feedback: Correct. El vértice de $f(x) = ax^2 + bx + c$ está en $x = -b/(2a) = -(-10)/(2(1)) = 10/2 = 5$. -->
@@ -199,13 +212,14 @@ El costo mínimo de una función cuadrática con $a > 0$ (cóncava hacia arriba)
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Se tiene la función cuadrática $f(x) = x^2 - 6x + 8$.
+**Contexto:** Se tiene la función cuadrática $f(x) = x^2 - 6x + 8$.
 
 ### Enunciado
 ¿Cuáles son los puntos de corte con el eje $x$ (raíces) de esta función?
 
-### Options
+### Opciones
 - [ ] A) $x = 2$ y $x = -4$ <!-- feedback: Incorrect. Al factorizar $(x-2)(x-4) = x^2 - 6x + 8$, las raíces son 2 y 4. -->
 - [ ] B) $x = -2$ y $x = -4$ <!-- feedback: Incorrect. Las raíces deben hacer cero la expresión: $(-2)^2 - 6(-2) + 8 = 4 + 12 + 8 = 24 \neq 0$. -->
 - [x] C) $x = 2$ y $x = 4$ <!-- feedback: Correct. Factorizando: $x^2 - 6x + 8 = (x-2)(x-4)$, entonces $x = 2$ y $x = 4$. -->
@@ -220,13 +234,14 @@ Las raíces de una función cuadrática se encuentran igualando a cero y factori
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Un ingeniero en Medellín diseña un puente peatonal con forma parabólica. La altura del arco, en metros, está dada por $h(x) = -\frac{1}{4}x^2 + 4$, donde $x$ es la distancia horizontal desde el centro.
+**Contexto:** Un ingeniero en Medellín diseña un puente peatonal con forma parabólica. La altura del arco, en metros, está dada por $h(x) = -\frac{1}{4}x^2 + 4$, donde $x$ es la distancia horizontal desde el centro.
 
 ### Enunciado
 ¿Cuál es la altura máxima del arco del puente?
 
-### Options
+### Opciones
 - [ ] A) 0 m <!-- feedback: Incorrect. El vértice está en $x=0$, y $h(0) = 4$, no 0. -->
 - [x] B) 4 m <!-- feedback: Correct. El vértice de $h(x) = -\frac{1}{4}x^2 + 4$ está en $x=0$, y $h(0) = 4$ m. -->
 - [ ] C) 8 m <!-- feedback: Incorrect. 8 sería $-\frac{1}{4}(0)^2 + 8$, pero el término independiente es 4. -->
@@ -241,13 +256,14 @@ En la forma $f(x) = a(x-h)^2 + k$, el vértice es $(h, k)$. Para $h(x) = -\frac{
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Una profesora en Bogotá plantea: "Si $(x+3)^2 = x^2 + 9$, entonces la fórmula del cuadrado de un binomio es incorrecta". Un estudiante responde que la afirmación de la profesora es falsa.
+**Contexto:** Una profesora en Bogotá plantea: "Si $(x+3)^2 = x^2 + 9$, entonces la fórmula del cuadrado de un binomio es incorrecta". Un estudiante responde que la afirmación de la profesora es falsa.
 
 ### Enunciado
 ¿Quién tiene la razón y por qué?
 
-### Options
+### Opciones
 - [ ] A) La profesora, porque $(x+3)^2 = x^2 + 9$ sí es correcto. <!-- feedback: Incorrect. $(x+3)^2 = (x+3)(x+3) = x^2 + 6x + 9$, no $x^2 + 9$. -->
 - [x] B) El estudiante, porque $(x+3)^2 = x^2 + 6x + 9$ y la fórmula es correcta. <!-- feedback: Correct. El desarrollo correcto es $(x+3)^2 = x^2 + 2(3)(x) + 3^2 = x^2 + 6x + 9$. -->
 - [ ] C) Ambos están equivocados porque $(x+3)^2 = x^2 + 3x + 9$. <!-- feedback: Incorrect. El término medio debe ser $2ab = 2(3)(x) = 6x$, no $3x$. -->
@@ -262,13 +278,14 @@ El error común de olvidar el término $2ab$ al desarrollar $(a+b)^2$ se conoce 
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-001-MASTERY-v12`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Un topógrafo en el Valle del Cauca necesita medir la distancia entre dos puntos separados por un río. Coloca un punto de referencia a 60 m de la orilla, formando un ángulo recto. La distancia desde el punto de referencia hasta el punto opuesto del río es de 100 m.
+**Contexto:** Un topógrafo en el Valle del Cauca necesita medir la distancia entre dos puntos separados por un río. Coloca un punto de referencia a 60 m de la orilla, formando un ángulo recto. La distancia desde el punto de referencia hasta el punto opuesto del río es de 100 m.
 
 ### Enunciado
 ¿Cuál es el ancho del río?
 
-### Options
+### Opciones
 - [ ] A) 40 m <!-- feedback: Incorrect. $100^2 - 60^2 = 10000 - 3600 = 6400$, cuya raíz es 80, no 40. -->
 - [x] B) 80 m <!-- feedback: Correct. Por Pitágoras: $a^2 + 60^2 = 100^2$, entonces $a^2 = 10000 - 3600 = 6400$, $a = \sqrt{6400} = 80$ m. -->
 - [ ] C) 116.6 m <!-- feedback: Incorrect. Este sería el resultado si se sumaran los catetos al cuadrado: $\sqrt{100^2 + 60^2} \approx 116.6$. -->
@@ -283,13 +300,14 @@ El teorema de Pitágoras permite calcular distancias inaccesibles cuando se pued
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-001-MASTERY-v13`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Un estudiante factoriza $x^2 + 5x + 6$ como $(x+2)(x+3)$. Otro estudiante propone que la misma expresión se puede factorizar como $(x+1)(x+6)$.
+**Contexto:** Un estudiante factoriza $x^2 + 5x + 6$ como $(x+2)(x+3)$. Otro estudiante propone que la misma expresión se puede factorizar como $(x+1)(x+6)$.
 
 ### Enunciado
 ¿Cuál de los dos estudiantes tiene la razón? Justifique.
 
-### Options
+### Opciones
 - [x] A) El primero, porque $(x+2)(x+3) = x^2 + 3x + 2x + 6 = x^2 + 5x + 6$. <!-- feedback: Correct. Al multiplicar $(x+2)(x+3)$ obtenemos exactamente $x^2 + 5x + 6$. -->
 - [ ] B) El segundo, porque $(x+1)(x+6) = x^2 + 7x + 6$, que también da 5x. <!-- feedback: Incorrect. $(x+1)(x+6) = x^2 + 7x + 6$, no $x^2 + 5x + 6$. -->
 - [ ] C) Ambos, porque un polinomio puede tener múltiples factorizaciones. <!-- feedback: Incorrect. La factorización de un trinomio de la forma $x^2+bx+c$ con $b$ y $c$ fijos es única (salvo orden). -->
@@ -304,13 +322,14 @@ Para factorizar $x^2 + bx + c$, se buscan dos números que sumados den $b$ y mul
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Un estudiante afirma: "El discriminante de la ecuación $x^2 + 4x + 5 = 0$ es negativo, por lo tanto la función cuadrática no corta el eje x en ningún punto".
+**Contexto:** Un estudiante afirma: "El discriminante de la ecuación $x^2 + 4x + 5 = 0$ es negativo, por lo tanto la función cuadrática no corta el eje x en ningún punto".
 
 ### Enunciado
 ¿Es correcta la afirmación del estudiante?
 
-### Options
+### Opciones
 - [ ] A) Sí, pero también significa que la ecuación tiene una solución real. <!-- feedback: Incorrect. Discriminante negativo implica cero soluciones reales. -->
 - [x] B) Sí, el discriminante $\Delta = 4^2 - 4(1)(5) = 16 - 20 = -4 < 0$, por lo que no hay raíces reales. <!-- feedback: Correct. $\Delta = b^2 - 4ac = 16 - 20 = -4 < 0$, indicando dos raíces complejas conjugadas y ningún corte real con el eje x. -->
 - [ ] C) No, el discriminante es positivo porque $4^2 = 16 > 5$. <!-- feedback: Incorrect. El discriminante es $b^2 - 4ac$, no solo $b^2$. -->
@@ -325,13 +344,14 @@ El discriminante $\Delta = b^2 - 4ac$ determina la naturaleza de las soluciones:
 
 **ID:** `CO-MAT-9-2026-P1-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Reflexivo y Sistémico
-**Context:** En un laboratorio de física en la Universidad Nacional de Colombia sede Medellín, se lanza un proyectil hacia arriba. Su altura $h(t)$ en metros está dada por $h(t) = -5t^2 + 40t + 1.8$, donde $t$ es el tiempo en segundos.
+**Contexto:** En un laboratorio de física en la Universidad Nacional de Colombia sede Medellín, se lanza un proyectil hacia arriba. Su altura $h(t)$ en metros está dada por $h(t) = -5t^2 + 40t + 1.8$, donde $t$ es el tiempo en segundos.
 
 ### Enunciado
 ¿Después de cuántos segundos el proyectil alcanza su altura máxima y cuál es esa altura?
 
-### Options
+### Opciones
 - [x] A) 4 s y 81.8 m <!-- feedback: Correct. $t_v = -b/(2a) = -40/(2(-5)) = 4$ s. $h(4) = -5(16) + 40(4) + 1.8 = -80 + 160 + 1.8 = 81.8$ m. -->
 - [ ] B) 8 s y 81.8 m <!-- feedback: Incorrect. $t_v = -40/(-10) = 4$, no 8. Se usó $-b/a$ en lugar de $-b/(2a)$. -->
 - [ ] C) 4 s y 41.8 m <!-- feedback: Incorrect. La altura máxima se calculó incorrectamente: $h(4) = -5(16) + 40(4) + 1.8 = 81.8$ m, no 41.8. -->

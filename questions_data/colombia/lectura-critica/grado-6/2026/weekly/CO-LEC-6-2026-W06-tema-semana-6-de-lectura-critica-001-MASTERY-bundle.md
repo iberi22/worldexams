@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-W06-tema-semana-6-de-lectura-critica-001-MASTERY"
+id: "CO-LEC-6-2026-W06-tema-semana-6-de-lectura-critica-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 10
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W06 — Tema Semana 6 de Lectura Critica
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** I.E. Gabriel García Márquez en Riohacha
+**Contexto:** I.E. Gabriel García Márquez en Riohacha
 **Expected_Success:** 0.69
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Gabriel García Márquez en Riohacha, se discute sobre Tema Semana 6 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 6 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 6 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 6 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 6 de Lectura Critica es central en el currículo de 6°. 
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Neiva
+**Contexto:** Colegio Nacional San Bartolomé en Neiva
 **Expected_Success:** 0.58
 
 ### Enunciado
 En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Neiva, se discute sobre Tema Semana 6 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 6 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 6 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 6 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 6 de Lectura Critica es central en el currículo de 6°. 
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Villavicencio
+**Contexto:** Colegio La Presentación en Villavicencio
 **Expected_Success:** 0.73
 
 ### Enunciado
 En la clase de Lectura Critica del Colegio La Presentación en Villavicencio, se discute sobre Tema Semana 6 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 6 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 6 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 6 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 6 de Lectura Critica es central en el currículo de 6°. 
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Medellín
+**Contexto:** Colegio La Presentación en Medellín
 **Expected_Success:** 0.65
 
 ### Enunciado
 En la clase de Lectura Critica del Colegio La Presentación en Medellín, se discute sobre Tema Semana 6 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 6 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 6 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 6 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 6 de Lectura Critica es central en el currículo de 6°. 
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Tunja
+**Contexto:** I.E. Jorge Eliécer Gaitán en Tunja
 **Expected_Success:** 0.51
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Jorge Eliécer Gaitán en Tunja, se discute sobre Tema Semana 6 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 6 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 6 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 6 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 6 de Lectura Critica es central en el currículo de 6°. 
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Manizales
+**Contexto:** I.E. Santa Luisa de Marillac en Manizales
 **Expected_Success:** 0.72
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Manizales, se discute sobre Tema Semana 6 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 6 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 6 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 6 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 6 de Lectura Critica es central en el currículo de 6°. 
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** Colegio La Presentación en Manizales
+**Contexto:** Colegio La Presentación en Manizales
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Lectura Critica del Colegio La Presentación en Manizales, se discute sobre Tema Semana 6 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 6 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 6 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 6 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 6 de Lectura Critica es central en el currículo de 6°. 
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Cúcuta
+**Contexto:** Colegio La Presentación en Cúcuta
 **Expected_Success:** 0.55
 
 ### Enunciado
 En la clase de Lectura Critica del Colegio La Presentación en Cúcuta, se discute sobre Tema Semana 6 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 6 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 6 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 6 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 6 de Lectura Critica es central en el currículo de 6°. 
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** I.E. Gabriel García Márquez en Neiva
+**Contexto:** I.E. Gabriel García Márquez en Neiva
 **Expected_Success:** 0.58
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Gabriel García Márquez en Neiva, se discute sobre Tema Semana 6 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 6 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 6 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 6 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 6 de Lectura Critica es central en el currículo de 6°. 
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Armenia
+**Contexto:** I.E. Santa Luisa de Marillac en Armenia
 **Expected_Success:** 0.60
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Armenia, se discute sobre Tema Semana 6 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 6 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 6 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 6 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W06-tema-semana-6-de-ciencias-naturales-001-MASTERY"
+id: "CO-CIE-6-2026-W06-tema-semana-6-de-ciencias-naturales-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 10
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W06 — Tema Semana 6 de Ciencias Naturales
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** Gimnasio Moderno en Ibagué
+**Contexto:** Gimnasio Moderno en Ibagué
 **Expected_Success:** 0.50
 
 ### Enunciado
 En la clase de Ciencias Naturales del Gimnasio Moderno en Ibagué, se discute sobre Tema Semana 6 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 6 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 6 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 6 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 6 de Ciencias Naturales es central en el currículo de 6�
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** Colegio La Presentación en Neiva
+**Contexto:** Colegio La Presentación en Neiva
 **Expected_Success:** 0.71
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio La Presentación en Neiva, se discute sobre Tema Semana 6 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 6 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 6 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 6 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 6 de Ciencias Naturales es central en el currículo de 6�
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. Jorge Eliécer Gaitán en Sincelejo
+**Contexto:** I.E. Jorge Eliécer Gaitán en Sincelejo
 **Expected_Success:** 0.77
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Sincelejo, se discute sobre Tema Semana 6 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 6 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 6 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 6 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 6 de Ciencias Naturales es central en el currículo de 6�
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** I.E. Gabriel García Márquez en Manizales
+**Contexto:** I.E. Gabriel García Márquez en Manizales
 **Expected_Success:** 0.64
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Manizales, se discute sobre Tema Semana 6 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 6 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 6 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 6 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 6 de Ciencias Naturales es central en el currículo de 6�
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** I.E. Gabriel García Márquez en Barranquilla
+**Contexto:** I.E. Gabriel García Márquez en Barranquilla
 **Expected_Success:** 0.71
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Barranquilla, se discute sobre Tema Semana 6 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 6 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 6 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 6 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 6 de Ciencias Naturales es central en el currículo de 6�
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** I.E. San José en Armenia
+**Contexto:** I.E. San José en Armenia
 **Expected_Success:** 0.61
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. San José en Armenia, se discute sobre Tema Semana 6 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 6 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 6 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 6 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 6 de Ciencias Naturales es central en el currículo de 6�
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** I.E. San José en Riohacha
+**Contexto:** I.E. San José en Riohacha
 **Expected_Success:** 0.58
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. San José en Riohacha, se discute sobre Tema Semana 6 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 6 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 6 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 6 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 6 de Ciencias Naturales es central en el currículo de 6�
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Neiva
+**Contexto:** I.E. Santa Luisa de Marillac en Neiva
 **Expected_Success:** 0.76
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Neiva, se discute sobre Tema Semana 6 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 6 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 6 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 6 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 6 de Ciencias Naturales es central en el currículo de 6�
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Barranquilla
+**Contexto:** I.E. Gabriel García Márquez en Barranquilla
 **Expected_Success:** 0.78
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Barranquilla, se discute sobre Tema Semana 6 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 6 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 6 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 6 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 6 de Ciencias Naturales es central en el currículo de 6�
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Cartagena
+**Contexto:** I.E. Santa Luisa de Marillac en Cartagena
 **Expected_Success:** 0.60
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Cartagena, se discute sobre Tema Semana 6 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 6 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 6 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 6 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

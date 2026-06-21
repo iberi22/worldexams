@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W15-discurso-publicitario-001-MASTERY"
+id: "CO-LC-7-2026-W15-discurso-publicitario-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "discurso-publicitario"
-semana: "W15"
+week: "W15"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Discurso Publicitario - Grado 7
 ## Semana W15 — Análisis crítico de la publicidad
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W15-discurso-publicitario-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el Colegio Ciudadela Educativa de Bosa, la profesora explica las características del discurso publicitario.
+**Contexto:** En el Colegio Ciudadela Educativa de Bosa, la profesora explica las características del discurso publicitario.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La publicidad es un tipo de comunicación persuasiva cuyo objetivo principal es 
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W15-discurso-publicitario-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un comercial de televisión colombiano muestra a una familia feliz alrededor de una mesa con gaseosas, mientras todos ríen y comparten.
+**Contexto:** Un comercial de televisión colombiano muestra a una familia feliz alrededor de una mesa con gaseosas, mientras todos ríen y comparten.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ Esta es una de las estrategias más comunes en publicidad: la asociación emocio
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W15-discurso-publicitario-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un aviso en la calle de Bogotá dice: "¡Últimos días! Llévate dos pares de zapatos al precio de uno. Oferta válida solo hasta agotar existencias."
+**Contexto:** Un aviso en la calle de Bogotá dice: "¡Últimos días! Llévate dos pares de zapatos al precio de uno. Oferta válida solo hasta agotar existencias."
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ La creación de urgencia (scarcity) es una táctica publicitaria muy efectiva. A
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W15-discurso-publicitario-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Camila ve en Instagram un anuncio de un "té milagroso" que promete bajar 10 kilos en una semana. El anuncio muestra fotos del "antes y después" de una persona que supuestamente usó el producto.
+**Contexto:** Camila ve en Instagram un anuncio de un "té milagroso" que promete bajar 10 kilos en una semana. El anuncio muestra fotos del "antes y después" de una persona que supuestamente usó el producto.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -102,11 +106,11 @@ Los anuncios de productos "milagro" son una señal de alerta. Perder 10 kilos en
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W15-discurso-publicitario-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el colegio de Cali, los estudiantes analizan un anuncio de pasta dental que dice: "9 de cada 10 dentistas recomiendan nuestra marca."
+**Contexto:** En el colegio de Cali, los estudiantes analizan un anuncio de pasta dental que dice: "9 de cada 10 dentistas recomiendan nuestra marca."
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -123,11 +127,11 @@ Los anuncios de productos "milagro" son una señal de alerta. Perder 10 kilos en
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W15-discurso-publicitario-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un anuncio de una marca de ropa deportiva muestra a un atleta famoso colombiano usando sus productos mientras corre por las montañas de Antioquia.
+**Contexto:** Un anuncio de una marca de ropa deportiva muestra a un atleta famoso colombiano usando sus productos mientras corre por las montañas de Antioquia.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -144,11 +148,11 @@ El uso de figuras famosas o "influencers" es una estrategia publicitaria que com
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W15-discurso-publicitario-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** En clase de Lectura Crítica del Colegio San Pedro de Pasto, los estudiantes ven un anuncio que dice: "Nuestro celular tiene una cámara de 108 megapíxeles, ¡la mejor del mercado!"
+**Contexto:** En clase de Lectura Crítica del Colegio San Pedro de Pasto, los estudiantes ven un anuncio que dice: "Nuestro celular tiene una cámara de 108 megapíxeles, ¡la mejor del mercado!"
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -165,11 +169,11 @@ La publicidad técnica usa números impresionantes que pueden ser engañosos. 10
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W15-discurso-publicitario-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Una empresa de productos de limpieza anuncia: "Si no usa nuestro producto, su casa estará llena de gérmenes peligrosos. ¡Protéjase!"
+**Contexto:** Una empresa de productos de limpieza anuncia: "Si no usa nuestro producto, su casa estará llena de gérmenes peligrosos. ¡Protéjase!"
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -186,11 +190,11 @@ La apelación al miedo (fear appeal) es una estrategia publicitaria que busca ge
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W15-discurso-publicitario-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un anuncio de una cadena de comida rápida colombiana dice: "Nuestra nueva hamburguesa tiene solo 350 calorías. ¡Perfecta para quienes cuidan su figura!"
+**Contexto:** Un anuncio de una cadena de comida rápida colombiana dice: "Nuestra nueva hamburguesa tiene solo 350 calorías. ¡Perfecta para quienes cuidan su figura!"
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -207,11 +211,11 @@ La publicidad selectiva presenta solo la información que favorece al producto y
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W15-discurso-publicitario-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En el Colegio Técnico de Sogamoso, los estudiantes ven un anuncio institucional del gobierno que dice: "Colombia Avanza: por un país con más oportunidades."
+**Contexto:** En el Colegio Técnico de Sogamoso, los estudiantes ven un anuncio institucional del gobierno que dice: "Colombia Avanza: por un país con más oportunidades."
 **Expected_Success:** 0.45
 
 ### Enunciado
@@ -228,11 +232,11 @@ La publicidad institucional o gubernamental no vende productos sino ideas, imág
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W15-discurso-publicitario-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Una empresa de bebidas azucaradas patrocina un programa educativo sobre "vida saludable" en escuelas de Barranquilla.
+**Contexto:** Una empresa de bebidas azucaradas patrocina un programa educativo sobre "vida saludable" en escuelas de Barranquilla.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -249,11 +253,11 @@ Este fenómeno se conoce como "lavado de imagen" o greenwashing/social washing. 
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W15-discurso-publicitario-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio Nacional de Rionegro, los estudiantes deben diseñar un contra-anuncio que exponga las estrategias engañosas de la publicidad.
+**Contexto:** En el Colegio Nacional de Rionegro, los estudiantes deben diseñar un contra-anuncio que exponga las estrategias engañosas de la publicidad.
 **Expected_Success:** 0.38
 
 ### Enunciado

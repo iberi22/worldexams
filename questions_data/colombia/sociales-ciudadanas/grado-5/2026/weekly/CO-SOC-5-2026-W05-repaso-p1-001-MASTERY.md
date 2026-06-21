@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "repaso-p1"
-semana: "W05"
+week: "W05"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Repaso general conceptos geográficos básicos: continentes, o
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W05-repaso-p1-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Cuántos océanos principales reconocemos en el planeta?
@@ -39,12 +44,13 @@ Los 5 océanos del mundo son: Pacífico (el más grande), Atlántico (segundo), 
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W05-repaso-p1-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Qué instrumento utilizaban los navegantes para orientarse en el mar antes de la invención del GPS?
@@ -60,12 +66,13 @@ La brújula fue inventada por los chinos y llegó a Europa en la Edad Media. Su 
 
 ---
 
-## Pregunta 3 [D2]
+## Question 3 [D2]
 
 **ID:** `CO-SOC-5-2026-W05-repaso-p1-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Cuál de los siguientes NO es un punto cardinal?
@@ -81,12 +88,13 @@ Los puntos cardinales son Norte, Sur, Este y Oeste. 'Arriba' y 'abajo' son direc
 
 ---
 
-## Pregunta 4 [D2]
+## Question 4 [D2]
 
 **ID:** `CO-SOC-5-2026-W05-repaso-p1-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Qué representa la leyenda de un mapa?
@@ -102,12 +110,13 @@ La leyenda o convenciones de un mapa explica qué representa cada símbolo, colo
 
 ---
 
-## Pregunta 5 [D2]
+## Question 5 [D2]
 
 **ID:** `CO-SOC-5-2026-W05-repaso-p1-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Qué continente rodea completamente el Polo Sur?
@@ -123,12 +132,13 @@ La Antártida es el continente más austral, ubicado alrededor del Polo Sur. Es 
 
 ---
 
-## Pregunta 6 [D3]
+## Question 6 [D3]
 
 **ID:** `CO-SOC-5-2026-W05-repaso-p1-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Un grupo de estudiantes hace una excursión a la Sierra Nevada de Santa Marta. A las 6 de la mañana ven salir el Sol. ¿Hacia qué punto cardinal deben mirar?
@@ -144,12 +154,13 @@ El Sol sale por el Este todos los días debido al movimiento de rotación de la 
 
 ---
 
-## Pregunta 7 [D3]
+## Question 7 [D3]
 
 **ID:** `CO-SOC-5-2026-W05-repaso-p1-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Cuál es la diferencia principal entre un globo terráqueo y un mapamundi?
@@ -165,12 +176,13 @@ El globo terráqueo representa la Tierra en tres dimensiones (esfera), conservan
 
 ---
 
-## Pregunta 8 [D3]
+## Question 8 [D3]
 
 **ID:** `CO-SOC-5-2026-W05-repaso-p1-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Si en un mapa de Colombia la escala es 1:4.000.000 y la distancia entre Bogotá y Medellín en el mapa es de 10 cm, ¿cuál es la distancia real aproximada?
@@ -186,12 +198,13 @@ Para calcular la distancia real: distancia en el mapa × denominador de la escal
 
 ---
 
-## Pregunta 9 [D4]
+## Question 9 [D4]
 
 **ID:** `CO-SOC-5-2026-W05-repaso-p1-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Un explorador está perdido en la selva amazónica colombiana. Tiene una brújula pero su reloj se dañó y no sabe si es de día o de noche. ¿Qué problema podría tener para orientarse?
@@ -207,12 +220,13 @@ La brújula funciona con el campo magnético terrestre, independientemente de la
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W05-repaso-p1-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Colombia está ubicada en el hemisferio norte, cerca del Ecuador. También está al occidente del meridiano de Greenwich. ¿En qué hemisferios se ubica Colombia?

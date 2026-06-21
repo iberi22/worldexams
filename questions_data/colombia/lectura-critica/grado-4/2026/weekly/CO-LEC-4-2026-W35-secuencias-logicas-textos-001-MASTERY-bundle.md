@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY"
+id: "CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "secuencias-logicas-textos"
-semana: "W35"
+week: "W35"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "secuencia lógica, orden, coherencia, conectores, causa-efecto
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W35: Secuencias lógicas en textos
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Secuencia lógica.
+**Contexto:** Secuencia lógica.
 
 ### Enunciado
 *"¿Qué es una secuencia lógica?"*
 
-### Options
-- [ ] A) Un orden sin sentido.
+### Opciones
+- [ ] A) Un orden sin sentido. <!-- feedback: Incorrecto. Un orden sin sentido. -->
 - [x] B) Un orden que tiene coherencia. <!-- feedback: Correcto. -->
-- [ ] C) Poner palabras al azar.
-- [ ] D) Saltarse pasos.
+- [ ] C) Poner palabras al azar. <!-- feedback: Incorrecto. Poner palabras al azar. -->
+- [ ] D) Saltarse pasos. <!-- feedback: Incorrecto. Saltarse pasos. -->
 
 ### Explicación Pedagógica
 Definición.
@@ -49,17 +54,18 @@ Definición.
 
 **ID:** `CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Orden.
+**Contexto:** Orden.
 
 ### Enunciado
 *"¿Qué conector se usa para ordenar?"*
 
-### Options
-- [ ] A) sin embargo.
+### Opciones
+- [ ] A) sin embargo. <!-- feedback: Incorrecto. sin embargo. -->
 - [x] B) primero. <!-- feedback: Correcto. -->
-- [ ] C) porque.
-- [ ] D) pero.
+- [ ] C) porque. <!-- feedback: Incorrecto. porque. -->
+- [ ] D) pero. <!-- feedback: Incorrecto. pero. -->
 
 ### Explicación Pedagógica
 Conector orden.
@@ -70,17 +76,18 @@ Conector orden.
 
 **ID:** `CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Causa-efecto.
+**Contexto:** Causa-efecto.
 
 ### Enunciado
 *"Si llueve, el piso se moja. ¿Qué relación hay?"*
 
-### Options
-- [ ] A) Secuencia temporal.
+### Opciones
+- [ ] A) Secuencia temporal. <!-- feedback: Incorrecto. Secuencia temporal. -->
 - [x] B) Causa-efecto. <!-- feedback: Correcto. -->
-- [ ] C) Contraste.
-- [ ] D) Opinión.
+- [ ] C) Contraste. <!-- feedback: Incorrecto. Contraste. -->
+- [ ] D) Opinión. <!-- feedback: Incorrecto. Opinión. -->
 
 ### Explicación Pedagógica
 Causa-efecto.
@@ -91,17 +98,18 @@ Causa-efecto.
 
 **ID:** `CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Orden incorrecto.
+**Contexto:** Orden incorrecto.
 
 ### Enunciado
 *"Me vestí, me bañé. ¿Es lógico?"*
 
-### Options
-- [ ] A) Sí, perfecto.
+### Opciones
+- [ ] A) Sí, perfecto. <!-- feedback: Incorrecto. Sí, perfecto. -->
 - [x] B) No, primero bañarse, luego vestirse. <!-- feedback: Correcto. -->
-- [ ] C) Da igual.
-- [ ] D) Solo si estás limpio.
+- [ ] C) Da igual. <!-- feedback: Incorrecto. Da igual. -->
+- [ ] D) Solo si estás limpio. <!-- feedback: Incorrecto. Solo si estás limpio. -->
 
 ### Explicación Pedagógica
 Orden ilógico.
@@ -112,17 +120,18 @@ Orden ilógico.
 
 **ID:** `CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Completar secuencia.
+**Contexto:** Completar secuencia.
 
 ### Enunciado
 *"1. Comprar ingredientes. 2. _________. 3. Servir."* ¿Qué falta?"*
 
-### Options
-- [ ] A) Jugar.
+### Opciones
+- [ ] A) Jugar. <!-- feedback: Incorrecto. Jugar. -->
 - [x] B) Cocinar. <!-- feedback: Correcto. -->
-- [ ] C) Dormir.
-- [ ] D) Caminar.
+- [ ] C) Dormir. <!-- feedback: Incorrecto. Dormir. -->
+- [ ] D) Caminar. <!-- feedback: Incorrecto. Caminar. -->
 
 ### Explicación Pedagógica
 Completar.
@@ -133,17 +142,18 @@ Completar.
 
 **ID:** `CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Reordenar.
+**Contexto:** Reordenar.
 
 ### Enunciado
 *"A) Salir B) Despertar C) Desayunar. ¿Orden lógico?"*
 
-### Options
-- [ ] A) A,B,C.
+### Opciones
+- [ ] A) A,B,C. <!-- feedback: Incorrecto. A,B,C. -->
 - [x] B) B,C,A. <!-- feedback: Correcto. -->
-- [ ] C) C,B,A.
-- [ ] D) A,C,B.
+- [ ] C) C,B,A. <!-- feedback: Incorrecto. C,B,A. -->
+- [ ] D) A,C,B. <!-- feedback: Incorrecto. A,C,B. -->
 
 ### Explicación Pedagógica
 Reordenar.
@@ -154,17 +164,18 @@ Reordenar.
 
 **ID:** `CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Secuencia ilógica.
+**Contexto:** Secuencia ilógica.
 
 ### Enunciado
 *"Texto: ‘Fue a la playa. Se puso los zapatos. Se metió al agua con abrigo.’ ¿Qué falla?"*
 
-### Options
-- [ ] A) Nada, todo bien.
+### Opciones
+- [ ] A) Nada, todo bien. <!-- feedback: Incorrecto. Nada, todo bien. -->
 - [x] B) La secuencia no es lógica. <!-- feedback: Correcto. -->
-- [ ] C) Bien escrito.
-- [ ] D) Es poesía.
+- [ ] C) Bien escrito. <!-- feedback: Incorrecto. Bien escrito. -->
+- [ ] D) Es poesía. <!-- feedback: Incorrecto. Es poesía. -->
 
 ### Explicación Pedagógica
 Detectar ilógico.
@@ -175,17 +186,18 @@ Detectar ilógico.
 
 **ID:** `CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Analizar coherencia.
+**Contexto:** Analizar coherencia.
 
 ### Enunciado
 *"Texto: Juan nació, caminó, gateó. ¿Problema?"*
 
-### Options
-- [ ] A) Ninguno.
+### Opciones
+- [ ] A) Ninguno. <!-- feedback: Incorrecto. Ninguno. -->
 - [x] B) Primero gatea, luego camina. <!-- feedback: Correcto. -->
-- [ ] C) Está bien.
-- [ ] D) Da igual.
+- [ ] C) Está bien. <!-- feedback: Incorrecto. Está bien. -->
+- [ ] D) Da igual. <!-- feedback: Incorrecto. Da igual. -->
 
 ### Explicación Pedagógica
 Analizar orden.
@@ -196,17 +208,18 @@ Analizar orden.
 
 **ID:** `CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Evaluar importancia.
+**Contexto:** Evaluar importancia.
 
 ### Enunciado
 *"¿Por qué es importante la secuencia lógica en un instructivo?"*
 
-### Options
-- [ ] A) No lo es.
+### Opciones
+- [ ] A) No lo es. <!-- feedback: Incorrecto. No lo es. -->
 - [x] B) Para que funcione el resultado. <!-- feedback: Correcto. -->
-- [ ] C) Para que sea bonito.
-- [ ] D) Es opcional.
+- [ ] C) Para que sea bonito. <!-- feedback: Incorrecto. Para que sea bonito. -->
+- [ ] D) Es opcional. <!-- feedback: Incorrecto. Es opcional. -->
 
 ### Explicación Pedagógica
 Importancia.
@@ -217,17 +230,18 @@ Importancia.
 
 **ID:** `CO-LEC-4-2026-W35-secuencias-logicas-textos-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Crear.
+**Contexto:** Crear.
 
 ### Enunciado
 *"Ordena: preparar maleta, comprar tiquete, viajar. ¿Cuál es correcto?"*
 
-### Options
+### Opciones
 - [x] A) Comprar, preparar, viajar. <!-- feedback: Correcto. -->
-- [ ] B) Preparar, viajar, comprar.
-- [ ] C) Viajar, comprar, preparar.
-- [ ] D) Preparar, comprar, viajar.
+- [ ] B) Preparar, viajar, comprar. <!-- feedback: Incorrecto. Preparar, viajar, comprar. -->
+- [ ] C) Viajar, comprar, preparar. <!-- feedback: Incorrecto. Viajar, comprar, preparar. -->
+- [ ] D) Preparar, comprar, viajar. <!-- feedback: Incorrecto. Preparar, comprar, viajar. -->
 
 ### Explicación Pedagógica
 Crear secuencia.

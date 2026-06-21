@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY"
+id: "CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "plantas-utilidad"
-semana: "W12"
+week: "W12"
 periodo: 2
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Utilidad de las plantas para el ser humano: alimenticias, medi
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # La Utilidad de las Plantas
 
 Este bundle explora los diversos beneficios que las plantas ofrecen a los seres humanos, clasificándolas según su uso en la alimentación, la salud, la industria y la decoración.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el mercado del barrio, Mariana ve puestos con papas, zanahorias, manzanas y arroz.
+**Contexto:** En el mercado del barrio, Mariana ve puestos con papas, zanahorias, manzanas y arroz.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ Las plantas alimenticias son la base de nuestra dieta. De ellas obtenemos vitami
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Cuando a un niño le duele la barriga, su abuela le prepara un agua caliente con hojas de menta o manzanilla.
+**Contexto:** Cuando a un niño le duele la barriga, su abuela le prepara un agua caliente con hojas de menta o manzanilla.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -73,12 +77,12 @@ Colombia es muy rica en plantas medicinales. Desde hace siglos, comunidades ind�
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** El papá de Juan trabaja en una fábrica donde convierten el tronco de los pinos en tablas para hacer camas y mesas.
+**Contexto:** El papá de Juan trabaja en una fábrica donde convierten el tronco de los pinos en tablas para hacer camas y mesas.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ Las plantas industriales nos dan materia prima. No solo madera, sino también fi
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Para celebrar el cumpleaños de la mamá, los niños compran un ramo de rosas rojas y orquídeas para poner en la sala.
+**Contexto:** Para celebrar el cumpleaños de la mamá, los niños compran un ramo de rosas rojas y orquídeas para poner en la sala.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ Las plantas ornamentales mejoran nuestra calidad de vida y estado de ánimo. Col
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** El algodón es una planta que produce una mota blanca y suave. Esta mota se hila y se teje en grandes máquinas.
+**Contexto:** El algodón es una planta que produce una mota blanca y suave. Esta mota se hila y se teje en grandes máquinas.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -148,12 +152,12 @@ El algodón es un gran ejemplo de planta industrial. Demuestra que las plantas n
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En las orillas de los ríos, los árboles con raíces profundas evitan que el agua se lleve la tierra y cause derrumbes.
+**Contexto:** En las orillas de los ríos, los árboles con raíces profundas evitan que el agua se lleve la tierra y cause derrumbes.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -173,12 +177,12 @@ A veces olvidamos que las plantas tienen utilidades ecológicas. Protegen el agu
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Imagina que vas a una isla desierta. Tienes semillas de: 1. Orquídea, 2. Limonaria (medicina), 3. Maíz y 4. Roble.
+**Contexto:** Imagina que vas a una isla desierta. Tienes semillas de: 1. Orquídea, 2. Limonaria (medicina), 3. Maíz y 4. Roble.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -198,12 +202,12 @@ En situaciones de supervivencia, las plantas alimenticias son la prioridad. El m
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un científico descubre una flor en la selva que huele muy rico y el aroma dura muchos días.
+**Contexto:** Un científico descubre una flor en la selva que huele muy rico y el aroma dura muchos días.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -223,12 +227,12 @@ Las plantas nos dan utilidades sutiles como los aromas. Muchas esencias que usam
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Algunas plantas como la sábila (Aloe vera) se usan tanto para calmar quemaduras como para hacer champú para el cabello.
+**Contexto:** Algunas plantas como la sábila (Aloe vera) se usan tanto para calmar quemaduras como para hacer champú para el cabello.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -248,12 +252,12 @@ Muchas plantas tienen utilidades múltiples. Conocerlas nos ayuda a valorar más
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W12-plantas-utilidad-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un pueblo decide cambiar todos sus bosques naturales por cultivos de flores ornamentales para vender y ganar mucho dinero.
+**Contexto:** Un pueblo decide cambiar todos sus bosques naturales por cultivos de flores ornamentales para vender y ganar mucho dinero.
 **Expected_Success:** 0.55
 
 ### Enunciado

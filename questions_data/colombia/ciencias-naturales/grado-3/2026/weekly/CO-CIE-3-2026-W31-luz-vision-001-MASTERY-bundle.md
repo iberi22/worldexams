@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W31-luz-vision-001-MASTERY"
+id: "CO-CIE-3-2026-W31-luz-vision-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "luz-vision"
-semana: "W31"
+week: "W31"
 periodo: 4
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "La luz y el sentido de la vista: anatomía básica del ojo y p
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # La Luz y el Sentido de la Vista
 
 Este bundle explora la estrecha relación entre la energía lumínica y nuestra capacidad de ver, analizando cómo el ojo humano procesa la luz para informarnos sobre el mundo.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W31-luz-vision-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de anatomía, Mariana usa un espejo para observar sus propios ojos de cerca.
+**Contexto:** En la clase de anatomía, Mariana usa un espejo para observar sus propios ojos de cerca.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ El ojo funciona como una cámara fotográfica biológica. Recibe los rayos de lu
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W31-luz-vision-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Juan nota que el centro negro de su ojo se hace muy pequeñito cuando sale al patio con mucho sol.
+**Contexto:** Juan nota que el centro negro de su ojo se hace muy pequeñito cuando sale al patio con mucho sol.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -73,12 +77,12 @@ La pupila es un regulador de luz automático. Si hay mucha luz, se cierra para q
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W31-luz-vision-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Al entrar a un cine oscuro, al principio no vemos nada, pero después de un minuto empezamos a distinguir las sillas y a la gente.
+**Contexto:** Al entrar a un cine oscuro, al principio no vemos nada, pero después de un minuto empezamos a distinguir las sillas y a la gente.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ Esta es una respuesta de la función de relación de nuestro cuerpo. El ojo se a
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W31-luz-vision-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** El cristalino es una parte del ojo que funciona como una lente transparente y elástica detrás de la pupila.
+**Contexto:** El cristalino es una parte del ojo que funciona como una lente transparente y elástica detrás de la pupila.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ El cristalino es como el lente de aumento de una cámara. Gracias a unos múscul
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W31-luz-vision-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Mariana tiene los ojos de color café oscuro y su mejor amigo los tiene de color azul claro.
+**Contexto:** Mariana tiene los ojos de color café oscuro y su mejor amigo los tiene de color azul claro.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -148,12 +152,12 @@ El iris no es solo para verse bien; es un músculo que controla a la pupila. Su 
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W31-luz-vision-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Si cerramos los ojos, el mundo "desaparece" para nosotros, aunque todo siga en su lugar.
+**Contexto:** Si cerramos los ojos, el mundo "desaparece" para nosotros, aunque todo siga en su lugar.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -173,12 +177,12 @@ La visión es el resultado de procesar luz. Si bloqueamos la luz (cerrando los o
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W31-luz-vision-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** El fondo del ojo se llama retina. Allí es donde la luz se convierte en impulsos eléctricos.
+**Contexto:** El fondo del ojo se llama retina. Allí es donde la luz se convierte en impulsos eléctricos.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -198,12 +202,12 @@ Ver es un trabajo en equipo entre el ojo y el cerebro. El ojo captura la luz y e
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W31-luz-vision-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Juan lee un libro con muy poca luz y después de un rato le duelen los ojos y la cabeza.
+**Contexto:** Juan lee un libro con muy poca luz y después de un rato le duelen los ojos y la cabeza.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -223,12 +227,12 @@ La higiene visual es importante. Debemos evitar leer en la oscuridad y también 
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W31-luz-vision-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Los gatos ven mucho mejor que los humanos en la oscuridad de la noche. Tienen una capa brillante al fondo del ojo que refleja la luz.
+**Contexto:** Los gatos ven mucho mejor que los humanos en la oscuridad de la noche. Tienen una capa brillante al fondo del ojo que refleja la luz.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -248,12 +252,12 @@ Los depredadores nocturnos tienen adaptaciones especiales. Al reflejar la luz de
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W31-luz-vision-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una persona dice: "Yo no necesito luz para ver, porque yo me imagino las cosas perfectamente con los ojos cerrados".
+**Contexto:** Una persona dice: "Yo no necesito luz para ver, porque yo me imagino las cosas perfectamente con los ojos cerrados".
 **Expected_Success:** 0.60
 
 ### Enunciado

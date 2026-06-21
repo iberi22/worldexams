@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W30 -- REPASO: Divisibilidad, mcm, mcd y Factorizacion
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W30-repaso-divisibilidad-001-MASTERY-bundle-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Criterios
+**Contexto:** Criterios
 
 ### Enunciado
 Cual numero es divisible entre 4?
 
-### Options
+### Opciones
 - [x] A) 124 (termina en 24, 24/4=6) <!-- feedback: Correcto. -->
 - [ ] B) 122 (22/4 no es exacto) <!-- feedback: Incorrecto. -->
 - [ ] C) 123 (23/4 no es exacto) <!-- feedback: Incorrecto. -->
@@ -48,13 +51,14 @@ Divisible entre 4 si sus ultimas 2 cifras forman multiplo de 4.
 
 **ID:** `CO-MAT-6-2026-W30-repaso-divisibilidad-001-MASTERY-bundle-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Multiplos
+**Contexto:** Multiplos
 
 ### Enunciado
 El mcm de dos numeros primos entre si es:
 
-### Options
+### Opciones
 - [x] A) Su producto <!-- feedback: Correcto. -->
 - [ ] B) El menor <!-- feedback: Incorrecto. -->
 - [ ] C) El mayor <!-- feedback: Incorrecto. -->
@@ -69,13 +73,14 @@ Si mcd(a,b)=1, entonces mcm(a,b)=axb. Ej: mcm(4,9)=36.
 
 **ID:** `CO-MAT-6-2026-W30-repaso-divisibilidad-001-MASTERY-bundle-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** mcm
+**Contexto:** mcm
 
 ### Enunciado
 mcm(12,18)?
 
-### Options
+### Opciones
 - [x] A) 36 <!-- feedback: Correcto. -->
 - [ ] B) 6 <!-- feedback: Incorrecto. -->
 - [ ] C) 24 <!-- feedback: Incorrecto. -->
@@ -90,13 +95,14 @@ mcm(12,18)?
 
 **ID:** `CO-MAT-6-2026-W30-repaso-divisibilidad-001-MASTERY-bundle-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** mcd
+**Contexto:** mcd
 
 ### Enunciado
 mcd(48,64)?
 
-### Options
+### Opciones
 - [x] A) 16 <!-- feedback: Correcto. 48=2^4x3, 64=2^6. mcd=2^4=16. -->
 - [ ] B) 8 <!-- feedback: Incorrecto. -->
 - [ ] C) 4 <!-- feedback: Incorrecto. -->
@@ -111,13 +117,14 @@ mcd(48,64)?
 
 **ID:** `CO-MAT-6-2026-W30-repaso-divisibilidad-001-MASTERY-bundle-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Divisores
+**Contexto:** Divisores
 
 ### Enunciado
 Divisores de 30?
 
-### Options
+### Opciones
 - [x] A) 1,2,3,5,6,10,15,30 <!-- feedback: Correcto. -->
 - [ ] B) 1,30,2,15 <!-- feedback: Incompleto. -->
 - [ ] C) 2,3,5,6,10,15 <!-- feedback: Faltan 1 y 30. -->
@@ -132,13 +139,14 @@ Divisores de 30?
 
 **ID:** `CO-MAT-6-2026-W30-repaso-divisibilidad-001-MASTERY-bundle-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Factorizar 48
+**Contexto:** Factorizar 48
 
 ### Enunciado
 Factorizacion prima de 48?
 
-### Options
+### Opciones
 - [x] A) 2^4 x 3 <!-- feedback: Correcto. 48=2x24=2x2x12=2x2x2x6=2^4x3. -->
 - [ ] B) 2^3 x 3 <!-- feedback: 8x3=24. -->
 - [ ] C) 2^2 x 3 x 4 <!-- feedback: 4 no es primo. -->
@@ -153,13 +161,14 @@ Factorizacion prima de 48?
 
 **ID:** `CO-MAT-6-2026-W30-repaso-divisibilidad-001-MASTERY-bundle-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Problema mcd
+**Contexto:** Problema mcd
 
 ### Enunciado
 Se tienen 54 chocolates y 72 caramelos. Cuantas bolsas iguales se pueden hacer sin que sobre nada?
 
-### Options
+### Opciones
 - [x] A) 18 (mcd=18) <!-- feedback: Correcto. mcd(54,72)=18. -->
 - [ ] B) 6 <!-- feedback: Incorrecto. -->
 - [ ] C) 9 <!-- feedback: Incorrecto. -->
@@ -174,13 +183,14 @@ Se tienen 54 chocolates y 72 caramelos. Cuantas bolsas iguales se pueden hacer s
 
 **ID:** `CO-MAT-6-2026-W30-repaso-divisibilidad-001-MASTERY-bundle-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Problema mcm
+**Contexto:** Problema mcm
 
 ### Enunciado
 Un semaforo se pone en verde cada 45s y otro cada 60s. Coinciden en verde a las 9am. Cuando volveran?
 
-### Options
+### Opciones
 - [x] A) 9:03 am (mcm=180s=3min) <!-- feedback: Correcto. -->
 - [ ] B) 9:01 <!-- feedback: Incorrecto. -->
 - [ ] C) 9:02 <!-- feedback: Incorrecto. -->
@@ -195,13 +205,14 @@ Un semaforo se pone en verde cada 45s y otro cada 60s. Coinciden en verde a las 
 
 **ID:** `CO-MAT-6-2026-W30-repaso-divisibilidad-001-MASTERY-bundle-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** primo o compuesto
+**Contexto:** primo o compuesto
 
 ### Enunciado
 El numero 91 es primo o compuesto?
 
-### Options
+### Opciones
 - [x] A) Compuesto (7x13=91) <!-- feedback: Correcto. -->
 - [ ] B) Primo <!-- feedback: Incorrecto. -->
 - [ ] C) No se puede saber <!-- feedback: Incorrecto. -->
@@ -216,13 +227,14 @@ El numero 91 es primo o compuesto?
 
 **ID:** `CO-MAT-6-2026-W30-repaso-divisibilidad-001-MASTERY-bundle-010-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Descomposicion
+**Contexto:** Descomposicion
 
 ### Enunciado
 Cuantos divisores tiene 180?
 
-### Options
+### Opciones
 - [x] A) 18 divisores <!-- feedback: Correcto. 180=2^2x3^2x5. (2+1)(2+1)(1+1)=3x3x2=18. -->
 - [ ] B) 12 <!-- feedback: Incorrecto. -->
 - [ ] C) 24 <!-- feedback: Incorrecto. -->

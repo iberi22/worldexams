@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY"
+id: "CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lengua-castellana"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 8
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W12 — Evaluación Integral de Repaso
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-v1`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Repaso de homófonos en un cuento sobre el río Amazonas
+**Contexto:** Repaso de homófonos en un cuento sobre el río Amazonas
 **Expected_Success:** 0.75
 
 ### Enunciado
 "El delfín rosado salta sobre la **ola**, mientras el turista lo saluda con un **hola**". ¿Cuál es la diferencia entre estas dos palabras?
 
-### Options
+### Opciones
 - [ ] A) Ninguna, se pueden escribir de las dos formas. <!-- feedback: Incorrecto. La ortografía determina el significado. -->
 - [x] B) **Ola** (sin H) es el movimiento del agua y **Hola** (con H) es un saludo. <!-- feedback: Correcto. Es un par homófono básico pero importante. -->
 - [ ] C) **Ola** es un animal y **Hola** es una planta. <!-- feedback: Incorrecto. Ninguna de las dos palabras se refiere a seres vivos. -->
@@ -46,13 +51,13 @@ Diferenciar homófonos comunes mediante el contexto asegura que el estudiante no
 **ID:** `CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** Lectura de una gráfica sobre el clima en el Nevado del Cocuy
+**Contexto:** Lectura de una gráfica sobre el clima en el Nevado del Cocuy
 **Expected_Success:** 0.82
 
 ### Enunciado
 En una gráfica de líneas sobre el Nevado del Cocuy, la línea cae bruscamente durante los últimos años. ¿Qué nos indica esto sobre la nieve del nevado?
 
-### Options
+### Opciones
 - [ ] A) Que está nevando más que antes. <!-- feedback: Incorrecto. Si nevara más, la línea subiría. -->
 - [x] B) Que la cantidad de nieve está disminuyendo (se está derritiendo). <!-- feedback: Correcto. La caída de la línea representa una reducción en el valor medido (cantidad de nieve). -->
 - [ ] C) Que el nevado es muy alto. <!-- feedback: Incorrecto. La altura no cambia bruscamente en pocos años. -->
@@ -68,13 +73,13 @@ La interpretación de tendencias en gráficas (subidas y bajadas) es una habilid
 **ID:** `CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Uso de la palabra "hoja" en una clase de arte en Cali
+**Contexto:** Uso de la palabra "hoja" en una clase de arte en Cali
 **Expected_Success:** 0.78
 
 ### Enunciado
 El profesor de arte dice: "Dibujen una **hoja** en su **hoja** de papel". ¿Cómo se clasifica la palabra resaltada?
 
-### Options
+### Opciones
 - [ ] A) Como un sinónimo. <!-- feedback: Incorrecto. No son palabras diferentes con el mismo significado, sino la misma palabra con varios significados. -->
 - [ ] B) Como un antónimo. <!-- feedback: Incorrecto. No son significados opuestos. -->
 - [x] C) Como una palabra polisémica. <!-- feedback: Correcto. "Hoja" tiene múltiples acepciones (parte de planta, papel, herramienta). -->
@@ -90,13 +95,13 @@ La polisemia permite entender la flexibilidad del lenguaje. Reconocer estos usos
 **ID:** `CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Estructura de un ensayo sobre la paz en el colegio
+**Contexto:** Estructura de un ensayo sobre la paz en el colegio
 **Expected_Success:** 0.68
 
 ### Enunciado
 ¿Cuál es la función de los **argumentos** en un ensayo escolar?
 
-### Options
+### Opciones
 - [ ] A) Hacer que el texto sea más largo y difícil de leer. <!-- feedback: Incorrecto. El objetivo no es la longitud sino la persuasión. -->
 - [ ] B) Contar chistes para que el lector no se aburra. <!-- feedback: Incorrecto. Los argumentos deben ser razones serias y lógicas. -->
 - [x] C) Dar razones válidas para apoyar la opinión (tesis) del autor. <!-- feedback: Correcto. Los argumentos son el sustento de la opinión en un texto argumentativo. -->
@@ -112,13 +117,13 @@ Entender la función de la argumentación diferencia al ensayo de otros tipos de
 **ID:** `CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** El lenguaje de una carta formal dirigida al Ministerio de Cultura
+**Contexto:** El lenguaje de una carta formal dirigida al Ministerio de Cultura
 **Expected_Success:** 0.70
 
 ### Enunciado
 Estás escribiendo una carta formal para pedir apoyo para un grupo de danza folclórica. ¿Cuál es la forma más respetuosa de referirse a la persona que recibirá la carta?
 
-### Options
+### Opciones
 - [ ] A) Oye, tú. <!-- feedback: Incorrecto. Es irrespetuoso y demasiado informal. -->
 - [ ] B) Querido amigo del Ministerio. <!-- feedback: Incorrecto. Es demasiado cercano para una comunicación institucional. -->
 - [x] C) Distinguido señor Ministro o Respetada autoridad: <!-- feedback: Correcto. El uso de cargos y adjetivos de cortesía es obligatorio en la carta formal. -->
@@ -134,13 +139,13 @@ El registro formal es una competencia social. El estudiante debe saber elegir la
 **ID:** `CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Organización de un mapa conceptual sobre el ciclo del agua
+**Contexto:** Organización de un mapa conceptual sobre el ciclo del agua
 **Expected_Success:** 0.65
 
 ### Enunciado
 En un mapa conceptual sobre el ciclo del agua, ¿dónde debería ir el concepto "Evaporación" si queremos seguir un orden lógico?
 
-### Options
+### Opciones
 - [ ] A) En un rincón apartado del mapa. <!-- feedback: Incorrecto. Debe estar conectado a los demás procesos. -->
 - [x] B) Conectado al concepto principal "Ciclo del Agua" como una de sus etapas. <!-- feedback: Correcto. Todas las etapas deben depender jerárquicamente del tema central. -->
 - [ ] C) Dentro del cuadro del título. <!-- feedback: Incorrecto. El título debe ser único y breve. -->
@@ -156,13 +161,13 @@ La estructura jerárquica y lógica del mapa conceptual ayuda a organizar el con
 **ID:** `CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-v7`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** Selección de la técnica de estudio adecuada para un examen de historia
+**Contexto:** Selección de la técnica de estudio adecuada para un examen de historia
 **Expected_Success:** 0.60
 
 ### Enunciado
 Tienes que estudiar la vida de 5 personajes históricos de Colombia y recordar sus fechas y logros. ¿Qué combinación de técnicas sería la más efectiva?
 
-### Options
+### Opciones
 - [ ] A) Solo leer el libro muchas veces hasta cansarse. <!-- feedback: Incorrecto. La lectura pasiva es la técnica menos efectiva para memorizar datos específicos. -->
 - [x] B) Subrayar los logros en el texto y luego hacer un cuadro comparativo o una línea de tiempo. <!-- feedback: Correcto. El subrayado localiza la información y el cuadro/línea la organiza para el estudio. -->
 - [ ] C) Dibujar a los personajes con ropa de superhéroes. <!-- feedback: Incorrecto. Es una actividad creativa pero no ayuda directamente con los datos históricos. -->
@@ -178,13 +183,13 @@ La metacognición (saber cómo estudiar mejor) es el nivel más alto de las téc
 **ID:** `CO-LEN-4-2026-W12-evaluacion-integral-repaso-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Análisis de un texto académico sobre la biodiversidad en la Sierra Nevada
+**Contexto:** Análisis de un texto académico sobre la biodiversidad en la Sierra Nevada
 **Expected_Success:** 0.58
 
 ### Enunciado
 Lee: "La Sierra Nevada de Santa Marta es un sistema montañoso aislado de los Andes. Es la montaña costera más alta del mundo". ¿Cuál de las siguientes es una **conclusión lógica** que se puede sacar de este texto?
 
-### Options
+### Opciones
 - [ ] A) Que en la Sierra Nevada no hace frío. <!-- feedback: Incorrecto. Si es la más alta, seguramente tiene climas fríos en la cima. -->
 - [x] B) Que la Sierra Nevada tiene características únicas porque no está pegada a las otras montañas de los Andes. <!-- feedback: Correcto. El texto dice que está "aislada", lo que implica una diferencia con el resto del sistema. -->
 - [ ] C) Que los Andes son más pequeños que un edificio. <!-- feedback: Incorrecto. Es una comparación sin sentido basada en el texto. -->

@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY"
+id: "CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "animales-ciclos-vida"
-semana: "W09"
+week: "W09"
 periodo: 1
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Ciclos de vida de los animales: etapas (nacimiento, crecimient
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Ciclos de Vida de los Animales
 
 Este bundle explora las diferentes etapas por las que pasan los animales desde que nacen hasta que mueren, incluyendo los asombrosos cambios de forma que sufren algunos de ellos.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una finca en el Eje Cafetero, los niños ven un huevo, luego un pollito pequeño y finalmente un gallo grande que canta.
+**Contexto:** En una finca en el Eje Cafetero, los niños ven un huevo, luego un pollito pequeño y finalmente un gallo grande que canta.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ El ciclo de vida es una característica fundamental de los seres vivos. Asegura 
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un gatito nace ciego y muy pequeño, pero después de unas semanas abre los ojos y empieza a jugar y a comer comida sólida.
+**Contexto:** Un gatito nace ciego y muy pequeño, pero después de unas semanas abre los ojos y empieza a jugar y a comer comida sólida.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -73,12 +77,12 @@ El crecimiento no es solo volverse más grande. También incluye el desarrollo, 
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Las mariposas ponen huevos de los cuales salen orugas que comen muchas hojas antes de encerrarse en una crisálida.
+**Contexto:** Las mariposas ponen huevos de los cuales salen orugas que comen muchas hojas antes de encerrarse en una crisálida.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -98,12 +102,12 @@ La metamorfosis es asombrosa porque permite que un animal tenga "dos vidas". Com
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Ordena las etapas de la vida de una rana: 1. Rana adulta, 2. Huevo, 3. Renacuajo con cola, 4. Renacuajo con patas.
+**Contexto:** Ordena las etapas de la vida de una rana: 1. Rana adulta, 2. Huevo, 3. Renacuajo con cola, 4. Renacuajo con patas.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -123,12 +127,12 @@ Entender el orden del ciclo de vida ayuda a comprender cómo los animales se ada
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Un mosquito hembra necesita agua estancada (como en una llanta vieja o un florero) para poner sus huevos.
+**Contexto:** Un mosquito hembra necesita agua estancada (como en una llanta vieja o un florero) para poner sus huevos.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -148,12 +152,12 @@ Controlar el ciclo de vida de algunos animales es importante para la salud. Como
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Los elefantes viven hasta 70 años, mientras que algunas moscas solo viven 15 o 30 días.
+**Contexto:** Los elefantes viven hasta 70 años, mientras que algunas moscas solo viven 15 o 30 días.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -173,12 +177,12 @@ La naturaleza es diversa. Algunos animales tienen ciclos de vida rápidos para p
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Durante la etapa de reproducción, los animales gastan mucha energía buscando pareja, peleando por territorio o construyendo nidos.
+**Contexto:** Durante la etapa de reproducción, los animales gastan mucha energía buscando pareja, peleando por territorio o construyendo nidos.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -198,12 +202,12 @@ La reproducción es la etapa más importante para el grupo. Mientras que nacer y
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un salmón nace en un río, viaja miles de kilómetros hasta el mar para crecer, y años después vuelve al mismo río solo para poner huevos y morir.
+**Contexto:** Un salmón nace en un río, viaja miles de kilómetros hasta el mar para crecer, y años después vuelve al mismo río solo para poner huevos y morir.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -223,12 +227,12 @@ El ciclo de vida puede estar conectado con la geografía. Muchos animales migran
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un perro adulto empieza a tener canas en su hocico, se mueve más lento y ya no quiere jugar tanto como cuando era un cachorro.
+**Contexto:** Un perro adulto empieza a tener canas en su hocico, se mueve más lento y ya no quiere jugar tanto como cuando era un cachorro.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -248,12 +252,12 @@ La vejez es la parte final del crecimiento. Es un proceso natural donde el cuerp
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W09-animales-ciclos-vida-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una mariposa de seda vive solo unos días como adulto, tiempo en el cual ni siquiera tiene boca para comer; solo se dedica a buscar pareja.
+**Contexto:** Una mariposa de seda vive solo unos días como adulto, tiempo en el cual ni siquiera tiene boca para comer; solo se dedica a buscar pareja.
 **Expected_Success:** 0.55
 
 ### Enunciado

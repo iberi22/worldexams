@@ -1,5 +1,5 @@
 ---
-id: "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY"
+id: "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "lectura-critica"
@@ -19,7 +19,12 @@ rubric_baseline: "Oratoria, argumentación, figuras literarias, sintaxis avanzad
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Oratoria, Argumentación, Figuras Literarias y Sintaxis Avanzada
 
@@ -31,13 +36,14 @@ Este bundle cubre oratoria, argumentación, figuras literarias y sintaxis avanza
 
 **ID:** `CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En clase de lenguaje en Bogotá, la profesora pregunta sobre las figuras literarias.
+**Contexto:** En clase de lenguaje en Bogotá, la profesora pregunta sobre las figuras literarias.
 
 ### Enunciado
 ¿Qué figura literaria consiste en comparar dos elementos usando "como"?
 
-### Options
+### Opciones
 - [ ] A) Metáfora. <!-- feedback: Incorrect. La metáfora no usa "como". -->
 - [x] B) Símil o comparación. <!-- feedback: Correct. El símil usa "como", "tal cual", "parece" para comparar. -->
 - [ ] C) Hipérbole. <!-- feedback: Incorrect. La hipérbole es una exageración. -->
@@ -52,13 +58,14 @@ El símil (o comparación) es una figura literaria que establece una relación d
 
 **ID:** `CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** Un estudiante en Medellín estudia los elementos de la oratoria.
+**Contexto:** Un estudiante en Medellín estudia los elementos de la oratoria.
 
 ### Enunciado
 ¿Cuál de los siguientes es un elemento fundamental de la oratoria?
 
-### Options
+### Opciones
 - [ ] A) La escritura en tercera persona. <!-- feedback: Incorrect. No es exclusivo de la oratoria. -->
 - [x] B) La voz, los gestos y la postura corporal. <!-- feedback: Correct. La oratoria implica comunicación verbal y no verbal. -->
 - [ ] C) El uso de gráficos estadísticos. <!-- feedback: Incorrect. Es más propio de presentaciones académicas. -->
@@ -73,13 +80,14 @@ La oratoria es el arte de hablar en público de manera elocuente y persuasiva. S
 
 **ID:** `CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En un debate escolar en Cali sobre el servicio militar obligatorio, un estudiante argumenta.
+**Contexto:** En un debate escolar en Cali sobre el servicio militar obligatorio, un estudiante argumenta.
 
 ### Enunciado
 ¿Cuál de las siguientes es una tesis argumentativa?
 
-### Options
+### Opciones
 - [ ] A) "Hoy es martes." <!-- feedback: Incorrect. Es un hecho, no una tesis. -->
 - [ ] B) "Colombia tiene 48 millones de habitantes." <!-- feedback: Incorrect. Es un dato estadístico. -->
 - [x] C) "El servicio militar obligatorio debe eliminarse porque viola la libertad individual." <!-- feedback: Correct. Una tesis es una afirmación que se defiende con argumentos. -->
@@ -94,13 +102,14 @@ Una tesis es una afirmación que expresa una postura frente a un tema controvert
 
 **ID:** `CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En clase de lenguaje en Barranquilla, se analiza una oración compleja.
+**Contexto:** En clase de lenguaje en Barranquilla, se analiza una oración compleja.
 
 ### Enunciado
 ¿Cuál de las siguientes oraciones es compuesta (tiene más de una proposición)?
 
-### Options
+### Opciones
 - [ ] A) "El perro corre." <!-- feedback: Incorrect. Es una oración simple. -->
 - [ ] B) "María estudia matemáticas." <!-- feedback: Incorrect. Es una oración simple. -->
 - [x] C) "Juan llegó temprano porque quería hablar con el profesor." <!-- feedback: Correct. Tiene dos proposiciones unidas por "porque". -->
@@ -115,13 +124,14 @@ Las oraciones compuestas tienen dos o más proposiciones (verbos conjugados) uni
 
 **ID:** `CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En un taller de escritura en Bucaramanga, un estudiante escribe un discurso persuasivo.
+**Contexto:** En un taller de escritura en Bucaramanga, un estudiante escribe un discurso persuasivo.
 
 ### Enunciado
 ¿Qué tipo de argumento se usa cuando se dice: "El 80% de los colombianos está de acuerdo con la jornada laboral de 4 días"?
 
-### Options
+### Opciones
 - [ ] A) Argumento de autoridad. <!-- feedback: Incorrect. La autoridad se basa en una persona experta. -->
 - [x] B) Argumento estadístico o cuantitativo. <!-- feedback: Correct. Usa datos numéricos para respaldar la afirmación. -->
 - [ ] C) Argumento emocional. <!-- feedback: Incorrect. Apela a sentimientos, no a números. -->
@@ -136,13 +146,14 @@ Los argumentos estadísticos usan datos numéricos, porcentajes y encuestas para
 
 **ID:** `CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En clase de literatura, se analiza un poema de Gabriel García Márquez.
+**Contexto:** En clase de literatura, se analiza un poema de Gabriel García Márquez.
 
 ### Enunciado
 ¿Qué figura literaria se utiliza en la frase: "El tiempo se detuvo en sus ojos"?
 
-### Options
+### Opciones
 - [ ] A) Símil. <!-- feedback: Incorrect. No usa "como". -->
 - [ ] B) Hipérbole. <!-- feedback: Correct. La hipérbole exagera: el tiempo no puede detenerse realmente. -->
 - [ ] C) Metáfora pura. <!-- feedback: Incorrect. Aunque tiene un elemento metafórico, la exageración es lo predominante. -->
@@ -157,13 +168,14 @@ La hipérbole es una figura retórica que consiste en exagerar la realidad para 
 
 **ID:** `CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un profesor en Pereira explica la diferencia entre hecho y opinión.
+**Contexto:** Un profesor en Pereira explica la diferencia entre hecho y opinión.
 
 ### Enunciado
 ¿Cuál de las siguientes afirmaciones es un hecho (no una opinión)?
 
-### Options
+### Opciones
 - [ ] A) "La música clásica es la mejor." <!-- feedback: Incorrect. Es una opinión subjetiva. -->
 - [x] B) "Colombia tiene 32 departamentos." <!-- feedback: Correct. Es un hecho verificable. -->
 - [ ] C) "El café colombiano es el más rico del mundo." <!-- feedback: Incorrect. Es una opinión. -->
@@ -178,13 +190,14 @@ Los hechos son afirmaciones verificables objetivamente, independientemente de la
 
 **ID:** `CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se analiza el discurso de posesión de un alcalde colombiano que usa frases como "juntos construiremos el futuro", "la esperanza llegó", "el cambio está en nuestras manos".
+**Contexto:** Se analiza el discurso de posesión de un alcalde colombiano que usa frases como "juntos construiremos el futuro", "la esperanza llegó", "el cambio está en nuestras manos".
 
 ### Enunciado
 ¿Qué tipo de recursos retóricos predominan en este discurso?
 
-### Options
+### Opciones
 - [ ] A) Recursos estadísticos y datos concretos. <!-- feedback: Incorrect. No hay datos. -->
 - [x] B) Recursos emocionales y de llamado a la acción (pathos). <!-- feedback: Correct. Apela a las emociones y a la unidad. -->
 - [ ] C) Recursos humorísticos. <!-- feedback: Incorrect. No hay humor. -->
@@ -199,13 +212,14 @@ Los discursos políticos suelen usar el pathos (apelación a las emociones) para
 
 **ID:** `CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se analiza un artículo de opinión en El Tiempo que dice: "Si no aprobamos esta reforma, el país colapsará. No hay otra opción."
+**Contexto:** Se analiza un artículo de opinión en El Tiempo que dice: "Si no aprobamos esta reforma, el país colapsará. No hay otra opción."
 
 ### Enunciado
 ¿Qué falacia lógica se identifica en este argumento?
 
-### Options
+### Opciones
 - [ ] A) Falacia ad hominem. <!-- feedback: Incorrect. Ataca a la persona, no al argumento. -->
 - [ ] B) Falacia de autoridad. <!-- feedback: Incorrect. No apela a una autoridad. -->
 - [x] C) Falso dilema (falsa dicotomía). <!-- feedback: Correct. Presenta solo dos opciones cuando pueden haber más. -->
@@ -220,13 +234,14 @@ La falacia de falso dilema (o falsa dicotomía) presenta una situación como si 
 
 **ID:** `CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** Un estudiante en Cartagena escribe un texto argumentativo. Debe organizar sus ideas.
+**Contexto:** Un estudiante en Cartagena escribe un texto argumentativo. Debe organizar sus ideas.
 
 ### Enunciado
 ¿Cuál es la estructura típica de un texto argumentativo?
 
-### Options
+### Opciones
 - [ ] A) Inicio, nudo, desenlace. <!-- feedback: Incorrect. Esa es la estructura narrativa. -->
 - [ ] B) Planteamiento, desarrollo, conclusión. <!-- feedback: Incorrect. Es muy general. -->
 - [x] C) Introducción (tesis), desarrollo (argumentos), conclusión (reafirmación de la tesis). <!-- feedback: Correct. Es la estructura argumentativa clásica. -->
@@ -241,13 +256,14 @@ El texto argumentativo tiene tres partes: introducción (presenta el tema y la t
 
 **ID:** `CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante afirma: "La metáfora y el símil son lo mismo porque ambos comparan."
+**Contexto:** Un estudiante afirma: "La metáfora y el símil son lo mismo porque ambos comparan."
 
 ### Enunciado
 ¿Es correcta esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Sí, son exactamente iguales. <!-- feedback: Incorrect. Tienen diferencias importantes. -->
 - [ ] B) No, la metáfora solo se usa en poesía. <!-- feedback: Incorrect. También se usa en prosa. -->
 - [x] C) No. El símil usa conectores como "como" (comparación explícita), mientras que la metáfora identifica directamente un término con otro (comparación implícita). <!-- feedback: Correct. Ej: "Tus ojos son dos luceros" (metáfora) vs. "Tus ojos como dos luceros" (símil). -->
@@ -262,13 +278,14 @@ La metáfora establece una identificación directa entre dos términos ("sus ojo
 
 **ID:** `CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v12`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se analiza una oración: "Aunque había estudiado toda la noche, el examen le pareció difícil."
+**Contexto:** Se analiza una oración: "Aunque había estudiado toda la noche, el examen le pareció difícil."
 
 ### Enunciado
 ¿Qué tipo de oración compuesta es?
 
-### Options
+### Opciones
 - [ ] A) Oración coordinada copulativa. <!-- feedback: Incorrect. Las coordinadas copulativas usan "y". -->
 - [ ] B) Oración yuxtapuesta. <!-- feedback: Incorrect. Las yuxtapuestas no tienen conectores explícitos. -->
 - [x] C) Oración subordinada concesiva. <!-- feedback: Correct. "Aunque" introduce una concesión (obstáculo que no impide). -->
@@ -283,13 +300,14 @@ Las oraciones subordinadas concesivas expresan una dificultad u obstáculo que n
 
 **ID:** `CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v13`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se comparan dos discursos: uno de un líder político que dice "he trabajado incansablemente por ustedes" y otro que dice "juntos hemos logrado estos avances".
+**Contexto:** Se comparan dos discursos: uno de un líder político que dice "he trabajado incansablemente por ustedes" y otro que dice "juntos hemos logrado estos avances".
 
 ### Enunciado
 ¿Qué estrategia retórica diferente usa cada orador?
 
-### Options
+### Opciones
 - [ ] A) El primero usa ironía, el segundo usa humor. <!-- feedback: Incorrect. No hay indicios de eso. -->
 - [x] B) El primero usa un discurso centrado en sí mismo (yo), el segundo usa un discurso inclusivo (nosotros). <!-- feedback: Correct. La primera persona singular vs. plural cambia la relación con la audiencia. -->
 - [ ] C) El primero es verdadero, el segundo es falso. <!-- feedback: Incorrect. No podemos determinar veracidad. -->
@@ -304,13 +322,14 @@ El uso del "yo" versus "nosotros" es una estrategia retórica fundamental. El "y
 
 **ID:** `CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante dice: "Los discursos políticos siempre mienten, por lo tanto no merece la pena escucharlos."
+**Contexto:** Un estudiante dice: "Los discursos políticos siempre mienten, por lo tanto no merece la pena escucharlos."
 
 ### Enunciado
 ¿Es correcta esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Sí, todos los políticos mienten siempre. <!-- feedback: Incorrect. Es una generalización excesiva. -->
 - [x] B) No. Es una generalización excesiva. Aunque algunos discursos contienen medias verdades o promesas incumplidas, analizarlos críticamente es importante para tomar decisiones informadas. <!-- feedback: Correct. La lectura crítica permite identificar falacias sin descalificar todo. -->
 - [ ] C) Sí, porque la política es inherentemente corrupta. <!-- feedback: Incorrect. Es una postura extremista. -->
@@ -325,13 +344,14 @@ La postura crítica no es sinónimo de descalificación total. Un lector crític
 
 **ID:** `CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Reflexivo
-**Context:** Un analista político afirma: "En la Colombia actual, saber argumentar y leer críticamente es más importante que nunca porque vivimos en la era de la posverdad."
+**Contexto:** Un analista político afirma: "En la Colombia actual, saber argumentar y leer críticamente es más importante que nunca porque vivimos en la era de la posverdad."
 
 ### Enunciado
 ¿Qué significa "posverdad" en este contexto?
 
-### Options
+### Opciones
 - [ ] A) Que la verdad ya no existe. <!-- feedback: Incorrect. No significa eso. -->
 - [x] B) Que en el debate público, las emociones y creencias personales influyen más que los hechos objetivos. <!-- feedback: Correct. La posverdad describe un contexto donde la apelación a las emociones prevalece sobre la verificación de hechos. -->
 - [ ] C) Que la verdad es más importante que nunca. <!-- feedback: Incorrect. El término describe lo opuesto. -->

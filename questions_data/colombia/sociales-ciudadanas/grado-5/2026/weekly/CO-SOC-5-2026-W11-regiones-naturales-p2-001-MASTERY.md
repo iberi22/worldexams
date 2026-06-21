@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "regiones-naturales-p2"
-semana: "W11"
+week: "W11"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Regiones naturales: Orinoquía, Amazonía, Insular"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W11-regiones-naturales-p2-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Qué región natural de Colombia se caracteriza por ser una extensa llanura con sabanas y ganadería?
@@ -39,12 +44,13 @@ La Orinoquía cubre los departamentos de Meta, Casanare, Arauca, Vichada. Es ide
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W11-regiones-naturales-p2-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Qué región natural colombiana tiene la selva tropical más extensa?
@@ -60,12 +66,13 @@ La Amazonía colombiana cubre los departamentos de Amazonas, Caquetá, Putumayo,
 
 ---
 
-## Pregunta 3 [D1]
+## Question 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W11-regiones-naturales-p2-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cuáles son las islas que forman la región Insular de Colombia?
@@ -81,12 +88,13 @@ La región Insular incluye San Andrés, Providencia y Santa Catalina en el Carib
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W11-regiones-naturales-p2-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Qué departamentos forman la región de la Orinoquía?
@@ -102,12 +110,13 @@ La Orinoquía (Llanos Orientales) comprende Meta, Casanare, Arauca y Vichada.
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W11-regiones-naturales-p2-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Qué caracteriza a la región Amazonía colombiana?
@@ -123,12 +132,13 @@ La Amazonía tiene la mayor biodiversidad del mundo pero muy baja densidad de po
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W11-regiones-naturales-p2-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Qué archipiélago del Pacífico hace parte de la región Insular?
@@ -144,12 +154,13 @@ Malpelo y Gorgona son santuarios de fauna marina en el océano Pacífico colombi
 
 ---
 
-## Pregunta 7 [D1]
+## Question 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W11-regiones-naturales-p2-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por qué la Orinoquía es ideal para la ganadería?
@@ -165,12 +176,13 @@ Las extensas llanuras de la Orinoquía tienen pastos naturales que alimentan al 
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W11-regiones-naturales-p2-001-MASTERY-v8`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cómo se llama el río más importante de la Amazonía colombiana?
@@ -186,12 +198,13 @@ El río Amazonas bordea el sur de Colombia y es la principal vía fluvial de la 
 
 ---
 
-## Pregunta 9 [D4]
+## Question 9 [D4]
 
 **ID:** `CO-SOC-5-2026-W11-regiones-naturales-p2-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Compara la Orinoquía y la Amazonía: ¿cuál afirmación es correcta?
@@ -207,12 +220,13 @@ La Orinoquía son llanuras de sabana; la Amazonía es selva tropical dense.
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W11-regiones-naturales-p2-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por qué la región Insular colombiana es importante para la biodiversidad marina?

@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W16-sociedad-colonial-001-MASTERY"
+id: "CO-SOC-7-2026-W16-sociedad-colonial-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-ciudadanas"
 tema: "sociedad-colonial"
-semana: "W16"
+week: "W16"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026 — Pensamiento Social"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Sociedad Colonial en la Nueva Granada — Grado 7
 ## Semana W16 — Organización social, grupos étnicos y vida cotidiana en la colonia
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W16-sociedad-colonial-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En la clase de sociales del Colegio San Jorge de Bogotá, la profesora pregunta cómo estaba organizada la sociedad colonial.
+**Contexto:** En la clase de sociales del Colegio San Jorge de Bogotá, la profesora pregunta cómo estaba organizada la sociedad colonial.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La sociedad colonial en la Nueva Granada (siglos XVI-XVIII) era una sociedad **e
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-SOC-7-2026-W16-sociedad-colonial-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del colegio de Cali leen un texto sobre los peninsulares en la Nueva Granada.
+**Contexto:** Los estudiantes del colegio de Cali leen un texto sobre los peninsulares en la Nueva Granada.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ Los **peninsulares** (españoles nacidos en España) constituían la élite máx
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-SOC-7-2026-W16-sociedad-colonial-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Medellín, los estudiantes estudian el grupo de los criollos en la colonia.
+**Contexto:** En el colegio de Medellín, los estudiantes estudian el grupo de los criollos en la colonia.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -81,11 +85,11 @@ Los **criollos** eran los descendientes de españoles nacidos en América. Aunqu
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-SOC-7-2026-W16-sociedad-colonial-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Argumentación
-**Context:** En el colegio de Barranquilla, los estudiantes analizan la situación de los mestizos en la colonia.
+**Contexto:** En el colegio de Barranquilla, los estudiantes analizan la situación de los mestizos en la colonia.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -102,11 +106,11 @@ Los **mestizos** (hijos de español e indígena) constituían un grupo numeroso 
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-SOC-7-2026-W16-sociedad-colonial-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del colegio de Cartagena leen un texto sobre la vida de los indígenas en la colonia.
+**Contexto:** Los estudiantes del colegio de Cartagena leen un texto sobre la vida de los indígenas en la colonia.
 **Expected_Success:** 0.77
 
 ### Enunciado
@@ -123,11 +127,11 @@ La situación legal de los indígenas en la Nueva Granada colonial era compleja 
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-SOC-7-2026-W16-sociedad-colonial-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Pereira, los estudiantes analizan la esclavitud africana en la Nueva Granada.
+**Contexto:** En el colegio de Pereira, los estudiantes analizan la esclavitud africana en la Nueva Granada.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ La introducción masiva de esclavos africanos en la América española (incluyen
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-SOC-7-2026-W16-sociedad-colonial-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Bucaramanga, los estudiantes analizan el papel de la mujer en la sociedad colonial.
+**Contexto:** En el colegio de Bucaramanga, los estudiantes analizan el papel de la mujer en la sociedad colonial.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -165,11 +169,11 @@ La situación de la mujer en la Nueva Granada colonial estaba determinada por el
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-SOC-7-2026-W16-sociedad-colonial-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Social
-**Context:** En la I.E. de Villavicencio, los estudiantes analizan el papel de la Iglesia en la vida cotidiana colonial.
+**Contexto:** En la I.E. de Villavicencio, los estudiantes analizan el papel de la Iglesia en la vida cotidiana colonial.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -186,11 +190,11 @@ La Iglesia católica fue una institución omnipresente y poderosa en la Nueva Gr
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-SOC-7-2026-W16-sociedad-colonial-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Cúcuta, los estudiantes analizan un texto sobre la vida en las ciudades coloniales.
+**Contexto:** En el colegio de Cúcuta, los estudiantes analizan un texto sobre la vida en las ciudades coloniales.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ Las ciudades coloniales de la Nueva Granada seguían el modelo urbano español d
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W16-sociedad-colonial-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Manizales, los estudiantes evalúan el mestizaje como fenómeno social en la colonia.
+**Contexto:** En el colegio de Manizales, los estudiantes evalúan el mestizaje como fenómeno social en la colonia.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -228,11 +232,11 @@ El mestizaje en la Nueva Granada fue un proceso biológico y cultural masivo que
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-SOC-7-2026-W16-sociedad-colonial-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Sincelejo, la profesora pregunta por la resistencia de los indígenas al dominio colonial.
+**Contexto:** En el colegio de Sincelejo, la profesora pregunta por la resistencia de los indígenas al dominio colonial.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -249,11 +253,11 @@ La resistencia indígena al dominio colonial no fue pasiva, sino que adoptó mú
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W16-sociedad-colonial-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** La profesora de sociales del colegio de Bogotá propone reflexionar sobre la herencia colonial en la Colombia actual.
+**Contexto:** La profesora de sociales del colegio de Bogotá propone reflexionar sobre la herencia colonial en la Colombia actual.
 **Expected_Success:** 0.42
 
 ### Enunciado

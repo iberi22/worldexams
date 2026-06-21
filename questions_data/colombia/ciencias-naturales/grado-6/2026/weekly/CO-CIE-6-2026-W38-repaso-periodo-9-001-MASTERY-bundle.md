@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W38-repaso-periodo-9-001-MASTERY"
+id: "CO-CIE-6-2026-W38-repaso-periodo-9-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W38 — Repaso Periodo 9: Energía, Calor y sus Transformaciones
 
@@ -27,8 +29,9 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W38-repaso-periodo-9-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, estudiantes repasan las formas de energía.
+**Contexto:** En Bogotá, estudiantes repasan las formas de energía.
 
 ### Enunciado
 Empareja cada situación con el tipo de energía principal que representa:
@@ -37,7 +40,7 @@ Empareja cada situación con el tipo de energía principal que representa:
 - (3) Un bombillo encendido
 - (4) Una cuerda de guitarra vibrando
 
-### Options
+### Opciones
 - [ ] A) (1) Cinética, (2) Potencial, (3) Térmica, (4) Química <!-- feedback: Incorrecto. Los frijoles tienen energía química, no cinética. -->
 - [ ] B) (1) Térmica, (2) Cinética, (3) Luminosa, (4) Potencial <!-- feedback: La cuerda vibrando tiene energía sonora, no potencial. -->
 - [x] C) (1) Química, (2) Cinética, (3) Luminosa, (4) Sonora <!-- feedback: Correcto. Cada ejemplo corresponde al tipo de energía principal. -->
@@ -56,13 +59,14 @@ Para relacionar correctamente las formas de energía con situaciones cotidianas:
 
 **ID:** `CO-CIE-6-2026-W38-repaso-periodo-9-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, estudiantes recuerdan las fuentes de energía renovables de Colombia.
+**Contexto:** En Medellín, estudiantes recuerdan las fuentes de energía renovables de Colombia.
 
 ### Enunciado
 ¿Cuál de las siguientes NO es una fuente de energía que se use comercialmente en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Hidroeléctrica <!-- feedback: Es la principal fuente de electricidad en Colombia (≈65-70%). -->
 - [ ] B) Térmica (gas natural, carbón) <!-- feedback: Segunda fuente más importante (≈30%). -->
 - [ ] C) Eólica <!-- feedback: Se usa en Jepírachi (La Guajira) y hay proyectos en desarrollo. -->
@@ -84,13 +88,14 @@ La **geotérmica** tiene un potencial estimado de 1200 MW (Nevado del Ruiz, Cerr
 
 **ID:** `CO-CIE-6-2026-W38-repaso-periodo-9-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de Fenómenos
-**Context:** En Cali, estudiantes repasan la conservación de la energía.
+**Contexto:** En Cali, estudiantes repasan la conservación de la energía.
 
 ### Enunciado
 Una niña en un columpio alcanza su punto más alto, se detiene un instante, y luego baja. En el punto más alto, ¿qué tipo(s) de energía tiene?
 
-### Options
+### Opciones
 - [ ] A) Solo energía cinética <!-- feedback: En el punto más alto está detenida (v=0), no tiene energía cinética. -->
 - [ ] B) Solo energía térmica <!-- feedback: No hay cambios térmicos significativos en un columpio. -->
 - [x] C) Máxima energía potencial gravitatoria y mínima energía cinética <!-- feedback: Correcto. Al estar en el punto más alto y detenida, la energía es casi toda potencial. -->
@@ -110,13 +115,14 @@ En el **columpio** (como los que hay en parques infantiles de Colombia), se obse
 
 **ID:** `CO-CIE-6-2026-W38-repaso-periodo-9-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de Fenómenos
-**Context:** En Barranquilla, estudiantes repasan los mecanismos de transferencia de calor.
+**Contexto:** En Barranquilla, estudiantes repasan los mecanismos de transferencia de calor.
 
 ### Enunciado
 ¿Cuál de los siguientes es un ejemplo de **radiación térmica**?
 
-### Options
+### Opciones
 - [ ] A) La sopa caliente que calienta la cuchara metálica <!-- feedback: Eso es conducción: calor a través del metal. -->
 - [ ] B) El agua hirviendo que forma burbujas que suben y bajan <!-- feedback: Eso es convección: movimiento del fluido caliente. -->
 - [x] C) El calor que sentimos del sol en una mañana en la playa de Santa Marta <!-- feedback: Correcto. La radiación viaja por el espacio sin necesidad de medio material. -->
@@ -134,13 +140,14 @@ Recordemos los **tres mecanismos de transferencia de calor**:
 
 **ID:** `CO-CIE-6-2026-W38-repaso-periodo-9-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En Cúcuta, estudiantes aplican conceptos de energía al ahorro doméstico.
+**Contexto:** En Cúcuta, estudiantes aplican conceptos de energía al ahorro doméstico.
 
 ### Enunciado
 Una familia en Cúcuta recibe una factura de electricidad muy alta. ¿Cuál de las siguientes medidas de ahorro energético es más efectiva?
 
-### Options
+### Opciones
 - [ ] A) Dejar los bombillos prendidos todo el día para que duren más <!-- feedback: Dejar los bombillos prendidos gasta electricidad innecesariamente. -->
 - [x] B) Cambiar bombillas incandescentes por LED, apagar luces en habitaciones vacías, desconectar electrodomésticos en stand-by, y usar adecuadamente el aire acondicionado <!-- feedback: Correcto. Combinación de medidas de eficiencia y cambio de hábitos. -->
 - [ ] C) Usar electrodomésticos solo los fines de semana <!-- feedback: No es práctico ni realista para la mayoría de familias. -->
@@ -162,13 +169,14 @@ En Cúcuta (clima cálido), el aire acondicionado y la nevera son los mayores co
 
 **ID:** `CO-CIE-6-2026-W38-repaso-periodo-9-006-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de Fenómenos
-**Context:** En Cartagena, estudiantes repasan la energía eólica.
+**Contexto:** En Cartagena, estudiantes repasan la energía eólica.
 
 ### Enunciado
 ¿Por qué La Guajira es el lugar ideal para la energía eólica en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Porque tiene muchas montañas que aceleran el viento <!-- feedback: La Guajira es plana y desértica, no montañosa. -->
 - [x] B) Porque tiene vientos constantes y fuertes (6-10 m/s) durante todo el año, impulsados por los vientos alisios del Caribe <!-- feedback: Correcto. La constancia y velocidad del viento son ideales. -->
 - [ ] C) Porque tiene alta radiación solar <!-- feedback: La radiación solar es para energía solar, no eólica. -->
@@ -187,13 +195,14 @@ La **Guajira** (península más norte de Colombia) es considerada uno de los mej
 
 **ID:** `CO-CIE-6-2026-W38-repaso-periodo-9-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En Ibagué, estudiantes analizan la relación entre fotosíntesis y respiración.
+**Contexto:** En Ibagué, estudiantes analizan la relación entre fotosíntesis y respiración.
 
 ### Enunciado
 ¿Por qué la deforestación de la Amazonía colombiana contribuye al cambio climático global?
 
-### Options
+### Opciones
 - [ ] A) Porque los árboles talados liberan gases tóxicos <!-- feedback: No liberan gases tóxicos al talarlos; la quema libera CO₂. -->
 - [ ] B) Porque los árboles consumen oxígeno del aire <!-- feedback: Los árboles producen O₂ en la fotosíntesis, no lo consumen. -->
 - [x] C) Porque los árboles capturan CO₂ de la atmósfera mediante fotosíntesis; al deforestar, se reduce la capacidad de captura de carbono y además se libera el carbono almacenado en la biomasa <!-- feedback: Correcto. Los bosques son sumideros de carbono. -->
@@ -214,13 +223,14 @@ Colombia perdió aproximadamente 100,000 hectáreas de bosque por año en la úl
 
 **ID:** `CO-CIE-6-2026-W38-repaso-periodo-9-008-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bucaramanga, estudiantes repasan las unidades de energía.
+**Contexto:** En Bucaramanga, estudiantes repasan las unidades de energía.
 
 ### Enunciado
 ¿Cuál es la unidad de energía en el Sistema Internacional (SI)?
 
-### Options
+### Opciones
 - [ ] A) Watt (W) <!-- feedback: El Watt es unidad de potencia (energía por tiempo: J/s). -->
 - [ ] B) Grado Celsius (°C) <!-- feedback: El grado Celsius mide temperatura, no energía. -->
 - [x] C) Joule (J) <!-- feedback: Correcto. El Joule es la unidad SI de energía y trabajo. -->
@@ -242,13 +252,14 @@ Un adulto necesita aproximadamente 8,500 kJ/día (≈2000 kcal/día). Un bombill
 
 **ID:** `CO-CIE-6-2026-W38-repaso-periodo-9-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En Manizales, estudiantes evalúan la mejor opción energética.
+**Contexto:** En Manizales, estudiantes evalúan la mejor opción energética.
 
 ### Enunciado
 Una pequeña comunidad rural en Caldas no tiene conexión a la red eléctrica nacional. ¿Cuál sería la opción más sostenible y económica para generar electricidad localmente?
 
-### Options
+### Opciones
 - [ ] A) Un generador diésel que funciona 24 horas <!-- feedback: Costoso, contaminante, requiere combustible continuo. -->
 - [ ] B) Una planta de carbón pequeña <!-- feedback: Muy contaminante y requiere transporte de carbón. -->
 - [x] C) Un sistema híbrido de paneles solares (día) con baterías de almacenamiento (noche) <!-- feedback: Correcto. Es limpio, renovable, de bajo mantenimiento y cada vez más económico. -->
@@ -268,13 +279,14 @@ El gobierno colombiano, a través del **IPSE (Instituto de Planificación y Prom
 
 **ID:** `CO-CIE-6-2026-W38-repaso-periodo-9-010-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de Fenómenos
-**Context:** En Sincelejo (Sucre), estudiantes repasan el concepto de energía y trabajo.
+**Contexto:** En Sincelejo (Sucre), estudiantes repasan el concepto de energía y trabajo.
 
 ### Enunciado
 Dos personas suben 10 kg de carga al segundo piso de una casa. Una las sube por las escaleras (tarda 30 segundos), la otra usa un ascensor (tarda 10 segundos). ¿Quién realiza más trabajo?
 
-### Options
+### Opciones
 - [ ] A) Quien sube por las escaleras, porque tarda más tiempo <!-- feedback: El tiempo no determina el trabajo; la potencia sí depende del tiempo. -->
 - [ ] B) Quien usa el ascensor, porque es más rápido <!-- feedback: La velocidad no determina el trabajo. -->
 - [x] C) Ambos realizan el mismo trabajo: levantar la misma masa (10 kg) a la misma altura (fuerza × distancia) <!-- feedback: Correcto. El trabajo depende de la fuerza y la distancia, no del tiempo. -->

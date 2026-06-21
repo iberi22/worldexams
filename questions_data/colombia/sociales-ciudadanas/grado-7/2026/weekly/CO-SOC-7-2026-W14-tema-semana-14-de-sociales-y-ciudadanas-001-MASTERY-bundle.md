@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-7-2026-W14-tema-semana-14-de-sociales-y-ciudadanas-001-MASTERY"
+id: "CO-SOC-7-2026-W14-tema-semana-14-de-sociales-y-ciudadanas-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-y-ciudadanas"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 12
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 12
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W14 — Tema Semana 14 de Sociales y Ciudadanas
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Medellín
+**Contexto:** Colegio La Presentación en Medellín
 **Expected_Success:** 0.56
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del Colegio La Presentación en Medellín, se discute sobre Tema Semana 14 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 14 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Neiva
+**Contexto:** I.E. Santa Luisa de Marillac en Neiva
 **Expected_Success:** 0.64
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. Santa Luisa de Marillac en Neiva, se discute sobre Tema Semana 14 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 14 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Pasto
+**Contexto:** I.E. Francisco de Paula Santander en Pasto
 **Expected_Success:** 0.56
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. Francisco de Paula Santander en Pasto, se discute sobre Tema Semana 14 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 14 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. San José en Cartagena
+**Contexto:** I.E. San José en Cartagena
 **Expected_Success:** 0.75
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. San José en Cartagena, se discute sobre Tema Semana 14 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 14 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Cúcuta
+**Contexto:** I.E. Gabriel García Márquez en Cúcuta
 **Expected_Success:** 0.76
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. Gabriel García Márquez en Cúcuta, se discute sobre Tema Semana 14 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 14 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Neiva
+**Contexto:** Gimnasio Moderno en Neiva
 **Expected_Success:** 0.77
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del Gimnasio Moderno en Neiva, se discute sobre Tema Semana 14 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 14 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Colegio La Presentación en Tunja
+**Contexto:** Colegio La Presentación en Tunja
 **Expected_Success:** 0.62
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del Colegio La Presentación en Tunja, se discute sobre Tema Semana 14 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 14 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Manizales
+**Contexto:** I.E. Santa Luisa de Marillac en Manizales
 **Expected_Success:** 0.78
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. Santa Luisa de Marillac en Manizales, se discute sobre Tema Semana 14 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 14 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Bucaramanga
+**Contexto:** Colegio La Presentación en Bucaramanga
 **Expected_Success:** 0.75
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del Colegio La Presentación en Bucaramanga, se discute sobre Tema Semana 14 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 14 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Tunja
+**Contexto:** I.E. Francisco de Paula Santander en Tunja
 **Expected_Success:** 0.70
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. Francisco de Paula Santander en Tunja, se discute sobre Tema Semana 14 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -244,13 +249,13 @@ El tema de Tema Semana 14 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v11`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Medellín
+**Contexto:** I.E. Gabriel García Márquez en Medellín
 **Expected_Success:** 0.80
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. Gabriel García Márquez en Medellín, se discute sobre Tema Semana 14 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -266,13 +271,13 @@ El tema de Tema Semana 14 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v12`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** I.E. Jorge Eliécer Gaitán en Pasto
+**Contexto:** I.E. Jorge Eliécer Gaitán en Pasto
 **Expected_Success:** 0.55
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. Jorge Eliécer Gaitán en Pasto, se discute sobre Tema Semana 14 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 14 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

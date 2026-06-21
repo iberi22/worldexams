@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-4-2026-P2-ideas-principales-001-MASTERY"
+id: "CO-LEC-4-2026-P2-ideas-principales-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "idea principal, idea secundaria, tema central, resumen, jerarquía de información"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4: Los Guardianes del Páramo
 
@@ -34,13 +41,14 @@ rubric_baseline: "idea principal, idea secundaria, tema central, resumen, jerarq
 
 **ID:** `CO-LC-4-2026-P2-ideas-principales-001-MASTERY-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** El tema principal del texto.
+**Contexto:** El tema principal del texto.
 
 ### Enunciado
 ¿De qué trata principalmente este texto?
 
-### Options
+### Opciones
 - [ ] A) De cómo sembrar papas en los páramos. <!-- feedback: Incorrecto. El texto menciona la siembra de papas como un problema, no como el tema principal. -->
 - [ ] B) De los niños que juegan en las montañas. <!-- feedback: Incorrecto. Los niños aparecen, pero no es el tema central. -->
 - [x] C) De los frailejones y su importancia para el agua. <!-- feedback: Correcto. El texto explica qué son los frailejones, cómo funcionan y por qué son importantes. -->
@@ -55,13 +63,14 @@ Se evalúa la identificación del tema general del texto. La respuesta correcta 
 
 **ID:** `CO-LC-4-2026-P2-ideas-principales-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Idea principal del primer párrafo.
+**Contexto:** Idea principal del primer párrafo.
 
 ### Enunciado
 ¿Cuál es la idea más importante del primer párrafo?
 
-### Options
+### Opciones
 - [ ] A) Que los frailejones tienen hojas peludas. <!-- feedback: Incorrecto. Eso es un detalle descriptivo, no la idea principal del párrafo. -->
 - [x] B) Que los frailejones atrapan la niebla y ayudan a formar los ríos. <!-- feedback: Correcto. La idea principal es que los frailejones son importantes porque producen agua para las ciudades. -->
 - [ ] C) Que los frailejones crecen en Colombia, Ecuador y Venezuela. <!-- feedback: Incorrecto. Eso es información secundaria sobre su ubicación, no la idea central. -->
@@ -76,13 +85,14 @@ Se evalúa la capacidad de distinguir la idea principal de los detalles secundar
 
 **ID:** `CO-LC-4-2026-P2-ideas-principales-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Idea principal del segundo párrafo.
+**Contexto:** Idea principal del segundo párrafo.
 
 ### Enunciado
 Según el segundo párrafo, ¿cuál es el problema que enfrentan los frailejones?
 
-### Options
+### Opciones
 - [ ] A) Que crecen demasiado rápido. <!-- feedback: Incorrecto. El texto dice que crecen muy despacio, no rápido. -->
 - [ ] B) Que los animales se los comen. <!-- feedback: Incorrecto. No se mencionan animales que se coman los frailejones. -->
 - [x] C) Que las personas queman los páramos para sembrar y criar ganado. <!-- feedback: Correcto. El texto dice que "muchas personas queman los páramos para sembrar papas o criar ganado y eso destruye a los frailejones". -->
@@ -97,13 +107,14 @@ Se evalúa la identificación del conflicto o problema principal presentado en e
 
 **ID:** `CO-LC-4-2026-P2-ideas-principales-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Solución al problema.
+**Contexto:** Solución al problema.
 
 ### Enunciado
 ¿Qué solución se menciona en el texto para proteger a los frailejones?
 
-### Options
+### Opciones
 - [ ] A) Sembrar más papas alrededor de los frailejones. <!-- feedback: Incorrecto. Eso es parte del problema, no de la solución. -->
 - [ ] B) Tumbar los árboles del páramo. <!-- feedback: Incorrecto. Tumbar árboles empeoraría la situación. -->
 - [x] C) Que los niños se conviertan en "guardianes del páramo". <!-- feedback: Correcto. El texto dice que los niños cuidan las plantas, recogen semillas y enseñan a no quemar. -->
@@ -118,13 +129,14 @@ Se evalúa la identificación de la solución propuesta en el texto. Los estudia
 
 **ID:** `CO-LC-4-2026-P2-ideas-principales-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Datos específicos.
+**Contexto:** Datos específicos.
 
 ### Enunciado
 ¿Cuánto crece un frailejón en un año?
 
-### Options
+### Opciones
 - [ ] A) Diez centímetros. <!-- feedback: Incorrecto. El crecimiento es mucho más lento. -->
 - [x] B) Un centímetro. <!-- feedback: Correcto. El texto dice explícitamente: "crecen muy despacio, apenas un centímetro por año". -->
 - [ ] C) Medio metro. <!-- feedback: Incorrecto. Eso sería crecimiento de 50 cm en un año, muy lejos del crecimiento real. -->
@@ -139,13 +151,14 @@ Se evalúa la localización de un dato numérico explícito. La respuesta requie
 
 **ID:** `CO-LC-4-2026-P2-ideas-principales-001-MASTERY-v6`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Relación entre las ideas.
+**Contexto:** Relación entre las ideas.
 
 ### Enunciado
 ¿Por qué el autor compara los frailejones con "esponjas gigantes"?
 
-### Options
+### Opciones
 - [ ] A) Porque los frailejones son suaves al tacto. <!-- feedback: Incorrecto. La comparación no es por la textura, sino por la función. -->
 - [x] B) Porque los frailejones absorben agua como lo haría una esponja. <!-- feedback: Correcto. La comparación explica cómo atrapan la niebla y luego la sueltan al suelo, igual que una esponja. -->
 - [ ] C) Porque los frailejones tienen forma redondeada. <!-- feedback: Incorrecto. La forma no es el motivo de la comparación. -->
@@ -160,13 +173,14 @@ Se evalúa la comprensión de una comparación (símil) usada para explicar una 
 
 **ID:** `CO-LC-4-2026-P2-ideas-principales-001-MASTERY-v7`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Jerarquía de información.
+**Contexto:** Jerarquía de información.
 
 ### Enunciado
 De las siguientes ideas, ¿cuál es la más importante de todo el texto?
 
-### Options
+### Opciones
 - [ ] A) Los frailejones tienen hojas peludas. <!-- feedback: Incorrecto. Eso es un detalle menor que ayuda a describir la planta, pero no es la idea central del texto. -->
 - [ ] B) Los niños de Boyacá tienen un vivero. <!-- feedback: Incorrecto. Es un ejemplo específico, no la idea que resume todo el texto. -->
 - [x] C) Los frailejones son esenciales para producir agua y debemos protegerlos. <!-- feedback: Correcto. Esta idea une la función de los frailejones con la necesidad de cuidarlos, que es el mensaje central. -->
@@ -181,13 +195,14 @@ Se evalúa la jerarquización de la información, distinguiendo entre la idea ce
 
 **ID:** `CO-LC-4-2026-P2-ideas-principales-001-MASTERY-v8`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Ideas secundarias.
+**Contexto:** Ideas secundarias.
 
 ### Enunciado
 ¿Qué hacen los niños guardianes del páramo en el colegio de la vereda El Bosque?
 
-### Options
+### Opciones
 - [ ] A) Jugar fútbol en el páramo. <!-- feedback: Incorrecto. Los niños no van a jugar, van a cuidar las plantas. -->
 - [ ] B) Pintar murales sobre el agua. <!-- feedback: Incorrecto. Aunque podría ser una actividad, el texto no menciona murales. -->
 - [x] C) Tienen un vivero de frailejones para sembrarlos después en el páramo. <!-- feedback: Correcto. El texto dice que "cultivan plantas bebés para después sembrarlas en el páramo". -->
@@ -202,13 +217,14 @@ Se evalúa la identificación de una idea secundaria que apoya la idea principal
 
 **ID:** `CO-LC-4-2026-P2-ideas-principales-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Propósito del autor.
+**Contexto:** Propósito del autor.
 
 ### Enunciado
 ¿Con qué propósito el autor escribió este texto?
 
-### Options
+### Opciones
 - [ ] A) Para entretener con una historia de aventuras. <!-- feedback: Incorrecto. El texto es informativo, no una historia de ficción. -->
 - [x] B) Para informar y crear conciencia sobre la importancia de los frailejones. <!-- feedback: Correcto. El texto entrega datos científicos y promueve el cuidado de estas plantas. -->
 - [ ] C) Para vender frailejones en las tiendas. <!-- feedback: Incorrecto. No hay intención comercial en el texto. -->
@@ -223,13 +239,14 @@ Se evalúa la identificación del propósito comunicativo del texto. La combinac
 
 **ID:** `CO-LC-4-2026-P2-ideas-principales-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Relación con el título.
+**Contexto:** Relación con el título.
 
 ### Enunciado
 El título del texto es "Los Guardianes del Páramo". ¿Quiénes son esos guardianes?
 
-### Options
+### Opciones
 - [ ] A) Los frailejones. <!-- feedback: Incorrecto. Los frailejones son las plantas que necesitan protección, no los guardianes. -->
 - [x] B) Los niños y niñas que cuidan los frailejones. <!-- feedback: Correcto. El texto explica que los niños de las escuelas se han convertido en "guardianes del páramo". -->
 - [ ] C) Los profesores de las escuelas. <!-- feedback: Incorrecto. Los profesores apoyan, pero el texto identifica específicamente a los niños como guardianes. -->

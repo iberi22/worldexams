@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W01-tema-semana-1-de-matematicas-001-MASTERY"
+id: "CO-MAT-6-2026-W01-tema-semana-1-de-matematicas-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 10
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W01 — Tema Semana 1 de Matematicas
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** Gimnasio Moderno en Barranquilla
+**Contexto:** Gimnasio Moderno en Barranquilla
 **Expected_Success:** 0.79
 
 ### Enunciado
 En la clase de Matematicas del Gimnasio Moderno en Barranquilla, se discute sobre Tema Semana 1 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 1 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 1 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 1 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 1 de Matematicas es central en el currículo de 6°. La r
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. Francisco de Paula Santander en Pasto
+**Contexto:** I.E. Francisco de Paula Santander en Pasto
 **Expected_Success:** 0.79
 
 ### Enunciado
 En la clase de Matematicas del I.E. Francisco de Paula Santander en Pasto, se discute sobre Tema Semana 1 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 1 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 1 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 1 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 1 de Matematicas es central en el currículo de 6°. La r
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Ibagué
+**Contexto:** I.E. San José en Ibagué
 **Expected_Success:** 0.53
 
 ### Enunciado
 En la clase de Matematicas del I.E. San José en Ibagué, se discute sobre Tema Semana 1 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 1 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 1 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 1 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 1 de Matematicas es central en el currículo de 6°. La r
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Medellín
+**Contexto:** I.E. Santa Luisa de Marillac en Medellín
 **Expected_Success:** 0.65
 
 ### Enunciado
 En la clase de Matematicas del I.E. Santa Luisa de Marillac en Medellín, se discute sobre Tema Semana 1 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 1 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 1 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 1 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 1 de Matematicas es central en el currículo de 6°. La r
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. Francisco de Paula Santander en Armenia
+**Contexto:** I.E. Francisco de Paula Santander en Armenia
 **Expected_Success:** 0.57
 
 ### Enunciado
 En la clase de Matematicas del I.E. Francisco de Paula Santander en Armenia, se discute sobre Tema Semana 1 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 1 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 1 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 1 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 1 de Matematicas es central en el currículo de 6°. La r
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** Colegio La Presentación en Medellín
+**Contexto:** Colegio La Presentación en Medellín
 **Expected_Success:** 0.61
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Medellín, se discute sobre Tema Semana 1 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 1 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 1 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 1 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 1 de Matematicas es central en el currículo de 6°. La r
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Riohacha
+**Contexto:** I.E. Jorge Eliécer Gaitán en Riohacha
 **Expected_Success:** 0.64
 
 ### Enunciado
 En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Riohacha, se discute sobre Tema Semana 1 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 1 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 1 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 1 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 1 de Matematicas es central en el currículo de 6°. La r
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** Gimnasio Moderno en Neiva
+**Contexto:** Gimnasio Moderno en Neiva
 **Expected_Success:** 0.66
 
 ### Enunciado
 En la clase de Matematicas del Gimnasio Moderno en Neiva, se discute sobre Tema Semana 1 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 1 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 1 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 1 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 1 de Matematicas es central en el currículo de 6°. La r
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Neiva
+**Contexto:** Colegio La Presentación en Neiva
 **Expected_Success:** 0.55
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Neiva, se discute sobre Tema Semana 1 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 1 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 1 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 1 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 1 de Matematicas es central en el currículo de 6°. La r
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Villavicencio
+**Contexto:** I.E. Jorge Eliécer Gaitán en Villavicencio
 **Expected_Success:** 0.58
 
 ### Enunciado
 En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Villavicencio, se discute sobre Tema Semana 1 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 1 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 1 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 1 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

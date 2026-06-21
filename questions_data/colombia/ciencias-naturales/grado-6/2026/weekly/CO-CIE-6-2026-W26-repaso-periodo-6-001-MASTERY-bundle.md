@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W26-repaso-periodo-6-001-MASTERY"
+id: "CO-CIE-6-2026-W26-repaso-periodo-6-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W26 — Repaso P6: Digestivo y Excretor
 
@@ -26,10 +28,11 @@ tier: "legacy"
 ## Question 1 [D1]
 **ID:** `CO-CIE-6-2026-W26-repaso-periodo-6-001-v1`
 **Bloom:** Remember | **ICFES:** Comunicación y Representación
-**Context:** Repaso P6: sistemas digestivo y excretor.
+**Expected_Success:** 0.75
+**Contexto:** Repaso P6: sistemas digestivo y excretor.
 ### Enunciado
 ¿Dónde comienza la digestión?
-### Options
+### Opciones
 - [ ] A) Estómago <!-- feedback: Empieza antes. -->
 - [ ] B) Intestino <!-- feedback: Después. -->
 - [x] C) Boca <!-- feedback: Correcto. -->
@@ -42,10 +45,11 @@ La digestión comienza en la boca con masticación y amilasa salival que descomp
 ## Question 2 [D1]
 **ID:** `CO-CIE-6-2026-W26-repaso-periodo-6-002-v1`
 **Bloom:** Remember | **ICFES:** Comunicación y Representación
-**Context:** Repaso de riñones.
+**Expected_Success:** 0.75
+**Contexto:** Repaso de riñones.
 ### Enunciado
 ¿Unidad funcional del riñón?
-### Options
+### Opciones
 - [ ] A) Glomérulo <!-- feedback: Parte de la nefrona. -->
 - [x] B) Nefrona <!-- feedback: Correcto. -->
 - [ ] C) Uréter <!-- feedback: Transporta orina. -->
@@ -58,10 +62,11 @@ Cada riñón tiene ~1 millón de nefronas, cada una con glomérulo (filtra), tú
 ## Question 3 [D2]
 **ID:** `CO-CIE-6-2026-W26-repaso-periodo-6-003-v1`
 **Bloom:** Understand | **ICFES:** Comunicación y Representación
-**Context:** Repaso de absorción.
+**Expected_Success:** 0.75
+**Contexto:** Repaso de absorción.
 ### Enunciado
 ¿Dónde se absorben la mayoría de nutrientes?
-### Options
+### Opciones
 - [ ] A) Estómago <!-- feedback: Poco. -->
 - [x] B) Intestino delgado <!-- feedback: Correcto. -->
 - [ ] C) Intestino grueso <!-- feedback: Agua y sales. -->
@@ -74,10 +79,11 @@ El intestino delgado (6-7 m) tiene vellosidades y microvellosidades que dan ~300
 ## Question 4 [D2]
 **ID:** `CO-CIE-6-2026-W26-repaso-periodo-6-004-v1`
 **Bloom:** Understand | **ICFES:** Comunicación y Representación
-**Context:** Repaso de orina.
+**Expected_Success:** 0.75
+**Contexto:** Repaso de orina.
 ### Enunciado
 ¿Por qué la orina es amarilla?
-### Options
+### Opciones
 - [ ] A) Tiene sangre <!-- feedback: Anormal. -->
 - [ ] B) Tiene bilis <!-- feedback: La bilis es digestiva. -->
 - [x] C) Tiene urocromo (pigmento) <!-- feedback: Correcto. -->
@@ -90,10 +96,11 @@ El urocromo es un pigmento que da color amarillo a la orina. La concentración v
 ## Question 5 [D3]
 **ID:** `CO-CIE-6-2026-W26-repaso-periodo-6-005-v1`
 **Bloom:** Apply | **ICFES:** Formulación y Ejecución
-**Context:** Aplicación sobre enzimas.
+**Expected_Success:** 0.75
+**Contexto:** Aplicación sobre enzimas.
 ### Enunciado
 Masticar bien los alimentos ayuda a la digestión porque:
-### Options
+### Opciones
 - [ ] A) Hace que la comida sepa mejor <!-- feedback: Efecto secundario. -->
 - [ ] B) Aumenta el tamaño de las partículas <!-- feedback: Las reduce. -->
 - [x] C) Aumenta la superficie de contacto para las enzimas digestivas <!-- feedback: Correcto. -->
@@ -106,10 +113,11 @@ Masticar reduce el tamaño de partículas, aumentando la superficie para que las
 ## Question 6 [D3]
 **ID:** `CO-CIE-6-2026-W26-repaso-periodo-6-006-v1`
 **Bloom:** Apply | **ICFES:** Formulación y Ejecución
-**Context:** Aplicación sobre hidratación.
+**Expected_Success:** 0.75
+**Contexto:** Aplicación sobre hidratación.
 ### Enunciado
 ¿Cuánto se recomienda beber agua al día?
-### Options
+### Opciones
 - [ ] A) 500 ml <!-- feedback: Insuficiente. -->
 - [ ] B) 1 L <!-- feedback: Poco. -->
 - [x] C) 1.5-2 L <!-- feedback: Correcto. -->
@@ -122,10 +130,11 @@ Recomendación: 1.5-2 L (8 vasos) de agua al día para adultos. Varía según cl
 ## Question 7 [D4]
 **ID:** `CO-CIE-6-2026-W26-repaso-periodo-6-007-v1`
 **Bloom:** Analyze | **ICFES:** Razonamiento y Argumentación
-**Context:** Análisis sobre H. pylori.
+**Expected_Success:** 0.75
+**Contexto:** Análisis sobre H. pylori.
 ### Enunciado
 ¿Por qué fue un descubrimiento importante que H. pylori cause úlceras?
-### Options
+### Opciones
 - [ ] A) Porque es un virus <!-- feedback: Es bacteria. -->
 - [x] B) Porque cambió el tratamiento de úlceras de cirugía/antiácidos a antibióticos curativos <!-- feedback: Correcto. -->
 - [ ] C) Porque demostró que el estrés no existe <!-- feedback: No. -->
@@ -138,10 +147,11 @@ Marshall (Nobel 2005) demostró que H. pylori causa úlceras, contradiciendo dé
 ## Question 8 [D4]
 **ID:** `CO-CIE-6-2026-W26-repaso-periodo-6-008-v1`
 **Bloom:** Analyze | **ICFES:** Razonamiento y Argumentación
-**Context:** Análisis sobre cirrosis.
+**Expected_Success:** 0.75
+**Contexto:** Análisis sobre cirrosis.
 ### Enunciado
 ¿Por qué la cirrosis es irreversible?
-### Options
+### Opciones
 - [ ] A) El hígado no puede repararse <!-- feedback: Sí puede, hasta cierto punto. -->
 - [x] B) El tejido cicatricial (fibrosis) reemplaza hepatocitos, y el daño extenso impide la regeneración <!-- feedback: Correcto. -->
 - [ ] C) Las células hepáticas mueren para siempre <!-- feedback: Los hepatocitos se regeneran. -->
@@ -154,10 +164,11 @@ En etapas tempranas, el hígado graso y la hepatitis alcohólica son reversibles
 ## Question 9 [D5]
 **ID:** `CO-CIE-6-2026-W26-repaso-periodo-6-009-v1`
 **Bloom:** Evaluate | **ICFES:** Razonamiento y Argumentación
-**Context:** Evaluación sobre prevención.
+**Expected_Success:** 0.75
+**Contexto:** Evaluación sobre prevención.
 ### Enunciado
 ¿Mejor prevención de enfermedad renal?
-### Options
+### Opciones
 - [ ] A) Dieta alta en proteínas <!-- feedback: Sobrecarga riñones. -->
 - [ ] B) Beber mucha gaseosa <!-- feedback: Azúcar daña riñones. -->
 - [x] C) Controlar diabetes, presión arterial, beber agua y no fumar <!-- feedback: Correcto. -->
@@ -170,10 +181,11 @@ Diabetes e hipertensión causan ~70% de enfermedad renal. Prevención: control g
 ## Question 10 [D5]
 **ID:** `CO-CIE-6-2026-W26-repaso-periodo-6-010-v1`
 **Bloom:** Evaluate | **ICFES:** Razonamiento y Argumentación
-**Context:** Evaluación final del periodo.
+**Expected_Success:** 0.75
+**Contexto:** Evaluación final del periodo.
 ### Enunciado
 ¿Hábito MÁS dañino para digestivo y excretor?
-### Options
+### Opciones
 - [ ] A) Comer mucha fruta <!-- feedback: Saludable. -->
 - [ ] B) Beber café <!-- feedback: Moderado es seguro. -->
 - [x] C) Consumo excesivo de alcohol y tabaco <!-- feedback: Correcto. -->

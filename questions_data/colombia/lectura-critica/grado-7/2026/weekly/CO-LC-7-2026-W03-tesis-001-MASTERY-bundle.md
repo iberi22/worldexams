@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W03-tesis-001-MASTERY"
+id: "CO-LC-7-2026-W03-tesis-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "tesis"
-semana: "W03"
+week: "W03"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Tesis - Grado 7
 ## Semana W03 — Identificación y análisis de tesis en textos
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W03-tesis-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase de Lectura Crítica del Colegio San Carlos de Bogotá, la profesora explica qué es una tesis.
+**Contexto:** En clase de Lectura Crítica del Colegio San Carlos de Bogotá, la profesora explica qué es una tesis.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La tesis es la afirmación central que el autor sostiene y busca demostrar. Es l
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LC-7-2026-W03-tesis-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** María está aprendiendo a diferenciar una tesis de otros elementos del texto en Medellín.
+**Contexto:** María está aprendiendo a diferenciar una tesis de otros elementos del texto en Medellín.
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -60,11 +64,11 @@ Una tesis debe ser una afirmación que admite discusión y que se puede defender
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W03-tesis-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Carlos lee: "Las redes sociales tienen efectos negativos en la salud mental de los adolescentes porque fomentan la comparación constante y disminuyen la autoestima."
+**Contexto:** Carlos lee: "Las redes sociales tienen efectos negativos en la salud mental de los adolescentes porque fomentan la comparación constante y disminuyen la autoestima."
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -81,11 +85,11 @@ La tesis es la afirmación principal: "las redes sociales tienen efectos negativ
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LC-7-2026-W03-tesis-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Laura debe identificar si una tesis está explícita o implícita. Su profesor en Cali le da un ejemplo.
+**Contexto:** Laura debe identificar si una tesis está explícita o implícita. Su profesor en Cali le da un ejemplo.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -102,11 +106,11 @@ La tesis explícita se expresa directamente en el texto (por ejemplo: "En este e
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W03-tesis-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Andrés analiza un discurso del alcalde de Barranquilla que describe los problemas de movilidad pero no dice explícitamente su postura.
+**Contexto:** Andrés analiza un discurso del alcalde de Barranquilla que describe los problemas de movilidad pero no dice explícitamente su postura.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -123,11 +127,11 @@ Cuando un texto solo presenta evidencias que apuntan en una dirección, la tesis
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LC-7-2026-W03-tesis-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
-**Context:** Santiago debe redactar una tesis para su ensayo sobre el trabajo infantil en Cartagena.
+**Contexto:** Santiago debe redactar una tesis para su ensayo sobre el trabajo infantil en Cartagena.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -144,11 +148,11 @@ Una tesis bien formulada debe: (1) Tomar una postura clara (estar a favor o en c
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W03-tesis-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Valentina compara dos tesis: Tesis A: "Los videojuegos son malos." Tesis B: "Los videojuegos violentos pueden aumentar conductas agresivas en niños menores de 12 años si no hay supervisión parental."
+**Contexto:** Valentina compara dos tesis: Tesis A: "Los videojuegos son malos." Tesis B: "Los videojuegos violentos pueden aumentar conductas agresivas en niños menores de 12 años si no hay supervisión parental."
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -165,11 +169,11 @@ La tesis B es superior porque: (1) Es específica (videojuegos violentos, no tod
 
 ---
 
-## Pregunta 8 [D6]
+## Question 8 [D6]
 **ID:** `CO-LC-7-2026-W03-tesis-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Camila encuentra un texto que dice: "La pena de muerte no debe aplicarse. Aunque algunos criminales cometan delitos atroces, el Estado no tiene derecho a quitar la vida."
+**Contexto:** Camila encuentra un texto que dice: "La pena de muerte no debe aplicarse. Aunque algunos criminales cometan delitos atroces, el Estado no tiene derecho a quitar la vida."
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -186,11 +190,11 @@ La estructura más común en textos argumentativos es presentar la tesis al inic
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W03-tesis-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Sebastián lee: "Los perros son mejores mascotas que los gatos porque son más leales, protectores y divertidos."
+**Contexto:** Sebastián lee: "Los perros son mejores mascotas que los gatos porque son más leales, protectores y divertidos."
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ El problema es que palabras como "mejores" y "divertidos" son subjetivas: lo que
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W03-tesis-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Isabella lee un texto donde el autor cambia de tema a la mitad. Empieza defendiendo la educación pública y termina hablando de presupuesto nacional.
+**Contexto:** Isabella lee un texto donde el autor cambia de tema a la mitad. Empieza defendiendo la educación pública y termina hablando de presupuesto nacional.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -228,11 +232,11 @@ Un texto argumentativo debe mantener una tesis coherente de principio a fin. Si 
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W03-tesis-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Daniel revisa su propio ensayo y encuentra que su tesis es: "El reciclaje es importante." Su profesor en Pereira le dice que la mejore.
+**Contexto:** Daniel revisa su propio ensayo y encuentra que su tesis es: "El reciclaje es importante." Su profesor en Pereira le dice que la mejore.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -249,11 +253,11 @@ Un texto argumentativo debe mantener una tesis coherente de principio a fin. Si 
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W03-tesis-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el colegio de Sincelejo, el profesor pregunta: "¿Una tesis controversial es mejor que una tesis con la que todos están de acuerdo?"
+**Contexto:** En el colegio de Sincelejo, el profesor pregunta: "¿Una tesis controversial es mejor que una tesis con la que todos están de acuerdo?"
 **Expected_Success:** 0.42
 
 ### Enunciado

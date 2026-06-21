@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY"
+id: "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 3"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Comprensión lectora literal - Grado 3
 
@@ -27,7 +29,7 @@ Este bundle evalúa la capacidad de extraer información explícita de un texto 
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -38,21 +40,20 @@ Este bundle evalúa la capacidad de extraer información explícita de un texto 
 ¿A qué lugar viajó la familia de Mateo?
 
 ### Opciones
-- [ ] A) A Cartagena
-  <!-- feedback: El texto dice que fueron al Quindío. -->
-- [x] B) A una finca en el Quindío
-  <!-- feedback: ¡Correcto! La información aparece tal cual en el texto. -->
-- [ ] C) Al Amazonas
-  <!-- feedback: No se menciona este lugar. -->
-- [ ] D) Se quedaron en Bogotá
-  <!-- feedback: El texto dice que salieron de Bogotá hacia otro lugar. -->
+- [ ] A) A Cartagena <!-- feedback: Incorrecto. A Cartagena -->
+
+- [x] B) A una finca en el Quindío <!-- feedback: Correcto! A una finca en el Quindío -->
+
+- [ ] C) Al Amazonas <!-- feedback: Incorrecto. Al Amazonas -->
+
+- [ ] D) Se quedaron en Bogotá <!-- feedback: Incorrecto. Se quedaron en Bogotá -->
 
 ### Explicación Pedagogica
 La comprensión literal consiste en identificar información que aparece escrita directamente en el texto.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -63,21 +64,20 @@ La comprensión literal consiste en identificar información que aparece escrita
 ¿Qué día de la semana realizaron el viaje?
 
 ### Opciones
-- [ ] A) El domingo
-  <!-- feedback: El texto dice que fue el sábado. -->
-- [ ] B) El viernes
-  <!-- feedback: No es el día mencionado. -->
-- [x] C) El sábado
-  <!-- feedback: ¡Muy bien! Es el dato exacto que da la primera oración. -->
-- [ ] D) No dice el día
-  <!-- feedback: Sí lo dice, fue el sábado. -->
+- [ ] A) El domingo <!-- feedback: Incorrecto. El domingo -->
+
+- [ ] B) El viernes <!-- feedback: Incorrecto. El viernes -->
+
+- [x] C) El sábado <!-- feedback: Correcto! El sábado -->
+
+- [ ] D) No dice el día <!-- feedback: Incorrecto. No dice el día -->
 
 ### Explicación Pedagogica
 Identificar datos temporales es parte fundamental de la lectura de nivel literal.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -88,21 +88,20 @@ Identificar datos temporales es parte fundamental de la lectura de nivel literal
 ¿De qué color era el carro en el que viajaron?
 
 ### Opciones
-- [ ] A) Azul
-  <!-- feedback: El texto especifica otro color. -->
-- [x] B) Rojo
-  <!-- feedback: ¡Excelente! El texto dice "carro rojo". -->
-- [ ] C) Blanco
-  <!-- feedback: No es el color mencionado. -->
-- [ ] D) Amarillo
-  <!-- feedback: No es el color mencionado. -->
+- [ ] A) Azul <!-- feedback: Incorrecto. Azul -->
+
+- [x] B) Rojo <!-- feedback: Correcto! Rojo -->
+
+- [ ] C) Blanco <!-- feedback: Incorrecto. Blanco -->
+
+- [ ] D) Amarillo <!-- feedback: Incorrecto. Amarillo -->
 
 ### Explicación Pedagogica
 Los adjetivos descriptivos en el texto proporcionan detalles importantes para la comprensión literal.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-v4`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -113,21 +112,20 @@ Los adjetivos descriptivos en el texto proporcionan detalles importantes para la
 ¿Quién esperaba a la familia en la finca?
 
 ### Opciones
-- [ ] A) Una tía
-  <!-- feedback: El texto menciona al abuelo. -->
-- [ ] B) Unos amigos
-  <!-- feedback: No se mencionan amigos esperando. -->
-- [x] C) El abuelo José
-  <!-- feedback: ¡Correcto! El texto menciona su nombre y parentesco. -->
-- [ ] D) El perro Mateo
-  <!-- feedback: Mateo es el niño protagonista, no un perro. -->
+- [ ] A) Una tía <!-- feedback: Incorrecto. Una tía -->
+
+- [ ] B) Unos amigos <!-- feedback: Incorrecto. Unos amigos -->
+
+- [x] C) El abuelo José <!-- feedback: Correcto! El abuelo José -->
+
+- [ ] D) El perro Mateo <!-- feedback: Incorrecto. El perro Mateo -->
 
 ### Explicación Pedagogica
 Identificar a los personajes y sus nombres es una tarea básica de localización de información.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -138,21 +136,20 @@ Identificar a los personajes y sus nombres es una tarea básica de localización
 Según el texto, ¿qué fue lo primero que vieron al llegar a la finca?
 
 ### Opciones
-- [x] A) Cafetales y pájaros de colores
-  <!-- feedback: ¡Así es! Es lo que describe el texto justo después de llegar. -->
-- [ ] B) El chocolate caliente
-  <!-- feedback: Eso fue después, cuando el abuelo los recibió. -->
-- [ ] C) Otros carros rojos
-  <!-- feedback: El texto no menciona otros carros. -->
-- [ ] D) Una piscina grande
-  <!-- feedback: No se menciona una piscina en el texto. -->
+- [x] A) Cafetales y pájaros de colores <!-- feedback: Correcto! Cafetales y pájaros de colores -->
+
+- [ ] B) El chocolate caliente <!-- feedback: Incorrecto. El chocolate caliente -->
+
+- [ ] C) Otros carros rojos <!-- feedback: Incorrecto. Otros carros rojos -->
+
+- [ ] D) Una piscina grande <!-- feedback: Incorrecto. Una piscina grande -->
 
 ### Explicación Pedagogica
 Seguir la secuencia de eventos tal como se narran es importante para la comprensión del relato.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -163,21 +160,20 @@ Seguir la secuencia de eventos tal como se narran es importante para la comprens
 ¿Qué les ofreció el abuelo para comer y beber?
 
 ### Opciones
-- [ ] A) Jugo de naranja y pan
-  <!-- feedback: No es lo que dice el texto. -->
-- [x] B) Chocolate caliente y arepas
-  <!-- feedback: ¡Exacto! Son los alimentos típicos que menciona el texto. -->
-- [ ] C) Café y galletas
-  <!-- feedback: Menciona cafetales, pero les dio chocolate. -->
-- [ ] D) Almuerzo y postre
-  <!-- feedback: El texto es más específico sobre qué les dio. -->
+- [ ] A) Jugo de naranja y pan <!-- feedback: Incorrecto. Jugo de naranja y pan -->
+
+- [x] B) Chocolate caliente y arepas <!-- feedback: Correcto! Chocolate caliente y arepas -->
+
+- [ ] C) Café y galletas <!-- feedback: Incorrecto. Café y galletas -->
+
+- [ ] D) Almuerzo y postre <!-- feedback: Incorrecto. Almuerzo y postre -->
 
 ### Explicación Pedagogica
 Los detalles sobre objetos o alimentos en una narración enriquecen la comprensión del escenario.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -188,21 +184,20 @@ Los detalles sobre objetos o alimentos en una narración enriquecen la comprensi
 ¿Desde qué ciudad salió la familia de Mateo?
 
 ### Opciones
-- [ ] A) Armenia
-  <!-- feedback: Fueron hacia el Quindío (donde queda Armenia), pero salieron de otro lugar. -->
-- [x] B) Bogotá
-  <!-- feedback: ¡Muy bien! El texto dice "Salieron... de Bogotá". -->
-- [ ] C) Cali
-  <!-- feedback: No se menciona Cali. -->
-- [ ] D) Medellín
-  <!-- feedback: No se menciona Medellín. -->
+- [ ] A) Armenia <!-- feedback: Incorrecto. Armenia -->
+
+- [x] B) Bogotá <!-- feedback: Correcto! Bogotá -->
+
+- [ ] C) Cali <!-- feedback: Incorrecto. Cali -->
+
+- [ ] D) Medellín <!-- feedback: Incorrecto. Medellín -->
 
 ### Explicación Pedagogica
 Distinguir entre el punto de origen y el punto de destino es clave en textos de viajes.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-v8`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -213,21 +208,20 @@ Distinguir entre el punto de origen y el punto de destino es clave en textos de 
 ¿Cómo era el horario de salida de la familia?
 
 ### Opciones
-- [ ] A) Al mediodía
-  <!-- feedback: No, salieron temprano. -->
-- [ ] B) En la noche
-  <!-- feedback: No, el texto dice otra cosa. -->
-- [x] C) Muy temprano
-  <!-- feedback: ¡Correcto! El texto usa esa expresión exacta. -->
-- [ ] D) No lo mencionan
-  <!-- feedback: Sí lo mencionan en la segunda oración. -->
+- [ ] A) Al mediodía <!-- feedback: Incorrecto. Al mediodía -->
+
+- [ ] B) En la noche <!-- feedback: Incorrecto. En la noche -->
+
+- [x] C) Muy temprano <!-- feedback: Correcto! Muy temprano -->
+
+- [ ] D) No lo mencionan <!-- feedback: Incorrecto. No lo mencionan -->
 
 ### Explicación Pedagogica
 Las expresiones de tiempo ("muy temprano", "tarde") ayudan a situar la acción en el día.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -238,21 +232,20 @@ Las expresiones de tiempo ("muy temprano", "tarde") ayudan a situar la acción e
 ¿Cuál de las siguientes afirmaciones es FALSA según el texto?
 
 ### Opciones
-- [ ] A) Viajaron en un carro rojo.
-  <!-- feedback: Esta es verdadera. -->
-- [x] B) El abuelo José viajó con ellos desde Bogotá.
-  <!-- feedback: ¡Excelente! El abuelo los esperaba allá, no viajó con ellos. -->
-- [ ] C) En la finca había cafetales.
-  <!-- feedback: Esta es verdadera. -->
-- [ ] D) El viaje fue un día de fin de semana.
-  <!-- feedback: Esta es verdadera (el sábado). -->
+- [ ] A) Viajaron en un carro rojo. <!-- feedback: Incorrecto. Viajaron en un carro rojo. -->
+
+- [x] B) El abuelo José viajó con ellos desde Bogotá. <!-- feedback: Correcto! El abuelo José viajó con ellos desde Bogotá. -->
+
+- [ ] C) En la finca había cafetales. <!-- feedback: Incorrecto. En la finca había cafetales. -->
+
+- [ ] D) El viaje fue un día de fin de semana. <!-- feedback: Incorrecto. El viaje fue un día de fin de semana. -->
 
 ### Explicación Pedagogica
 Comparar afirmaciones con el contenido del texto permite verificar la precisión de la lectura.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Comprensión Lectora
@@ -263,14 +256,13 @@ Comparar afirmaciones con el contenido del texto permite verificar la precisión
 ¿Cuál sería el mejor título para este pequeño texto si queremos que sea muy descriptivo?
 
 ### Opciones
-- [ ] A) El carro rojo de papá.
-  <!-- feedback: Solo se enfoca en un detalle pequeño. -->
-- [x] B) El viaje de la familia de Mateo al Quindío.
-  <!-- feedback: ¡Muy bien! Resume los elementos principales (quién y a dónde). -->
-- [ ] C) El chocolate caliente del abuelo.
-  <!-- feedback: Es solo un detalle del final. -->
-- [ ] D) Los pájaros de colores.
-  <!-- feedback: Es un detalle del paisaje, no el tema central. -->
+- [ ] A) El carro rojo de papá. <!-- feedback: Incorrecto. El carro rojo de papá. -->
+
+- [x] B) El viaje de la familia de Mateo al Quindío. <!-- feedback: Correcto! El viaje de la familia de Mateo al Quindío. -->
+
+- [ ] C) El chocolate caliente del abuelo. <!-- feedback: Incorrecto. El chocolate caliente del abuelo. -->
+
+- [ ] D) Los pájaros de colores. <!-- feedback: Incorrecto. Los pájaros de colores. -->
 
 ### Explicación Pedagogica
 Elegir un título adecuado requiere sintetizar la información literal más importante del texto.

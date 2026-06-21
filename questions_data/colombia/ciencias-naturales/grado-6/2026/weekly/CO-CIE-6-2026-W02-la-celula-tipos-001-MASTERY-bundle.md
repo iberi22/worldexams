@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W02-la-celula-tipos-001-MASTERY"
+id: "CO-CIE-6-2026-W02-la-celula-tipos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W02 — La Célula: Tipos de Células
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W02-la-celula-tipos-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, los estudiantes repasan los tipos de células según su organización.
+**Contexto:** En Bogotá, los estudiantes repasan los tipos de células según su organización.
 
 ### Enunciado
 ¿Cuáles son los dos grandes tipos de células según la presencia de núcleo?
 
-### Options
+### Opciones
 - [ ] A) Animales y vegetales <!-- feedback: Incorrecto. Animal y vegetal son subtipos de células eucariotas. -->
 - [x] B) Procariotas y eucariotas <!-- feedback: Correcto. Esta es la clasificación principal según la presencia de núcleo. -->
 - [ ] C) Pequeñas y grandes <!-- feedback: Incorrecto. El tamaño no es el criterio de clasificación principal. -->
@@ -52,13 +55,14 @@ Esta clasificación fue propuesta por Robert Whittaker y refinada con el sistema
 
 **ID:** `CO-CIE-6-2026-W02-la-celula-tipos-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, estudiantes usan una app interactiva para identificar tipos celulares.
+**Contexto:** En Medellín, estudiantes usan una app interactiva para identificar tipos celulares.
 
 ### Enunciado
 ¿Qué tipo de célula es una bacteria?
 
-### Options
+### Opciones
 - [ ] A) Eucariota animal <!-- feedback: Incorrecto. Las bacterias no son eucariotas. -->
 - [x] B) Procariota <!-- feedback: Correcto. Las bacterias son organismos procariotas unicelulares. -->
 - [ ] C) Eucariota vegetal <!-- feedback: Incorrecto. Las bacterias no tienen pared celular de celulosa ni cloroplastos. -->
@@ -81,13 +85,14 @@ Las bacterias son esenciales para los ecosistemas: descomponen materia orgánica
 
 **ID:** `CO-CIE-6-2026-W02-la-celula-tipos-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, los estudiantes clasifican imágenes de células en la pizarra digital.
+**Contexto:** En Cali, los estudiantes clasifican imágenes de células en la pizarra digital.
 
 ### Enunciado
 ¿Cuál de los siguientes organismos está formado por células eucariotas?
 
-### Options
+### Opciones
 - [ ] A) Escherichia coli (bacteria intestinal) <!-- feedback: Incorrecto. E. coli es una bacteria procariota. -->
 - [ ] B) Lactobacillus (bacteria del yogur) <!-- feedback: Incorrecto. Lactobacillus es una bacteria procariota. -->
 - [x] C) Saccharomyces cerevisiae (levadura del pan) <!-- feedback: Correcto. Las levaduras son hongos unicelulares eucariotas. -->
@@ -102,13 +107,14 @@ Las levaduras, como Saccharomyces cerevisiae, son hongos unicelulares eucariotas
 
 **ID:** `CO-CIE-6-2026-W02-la-celula-tipos-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, estudiantes comparan láminas de diferentes tipos de células.
+**Contexto:** En Barranquilla, estudiantes comparan láminas de diferentes tipos de células.
 
 ### Enunciado
 ¿Qué característica comparten todas las células procariotas y eucariotas?
 
-### Options
+### Opciones
 - [ ] A) Tienen mitocondrias <!-- feedback: Incorrecto. Las procariotas no tienen mitocondrias. -->
 - [ ] B) Tienen núcleo definido <!-- feedback: Incorrecto. Las procariotas no tienen núcleo definido. -->
 - [x] C) Tienen membrana celular y material genético (ADN) <!-- feedback: Correcto. Todas las células tienen membrana y ADN. -->
@@ -128,13 +134,14 @@ Estas características definen a la célula como unidad de vida. La teoría celu
 
 **ID:** `CO-CIE-6-2026-W02-la-celula-tipos-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, estudiantes observan agua estancada al microscopio y ven organismos moviéndose.
+**Contexto:** En Bucaramanga, estudiantes observan agua estancada al microscopio y ven organismos moviéndose.
 
 ### Enunciado
 Un estudiante observa en el microscopio un organismo unicelular que se mueve activamente y tiene núcleo visible. ¿Qué tipo de célula es?
 
-### Options
+### Opciones
 - [ ] A) Bacteria procariota <!-- feedback: Incorrecto. Las bacterias no tienen núcleo visible. -->
 - [x] B) Protozoo eucariota <!-- feedback: Correcto. Un protozoo es un organismo unicelular eucariota. -->
 - [ ] C) Virus <!-- feedback: Incorrecto. Los virus no son células y no se observan con microscopio óptico. -->
@@ -155,13 +162,14 @@ Los protozoos son importantes en las cadenas alimenticias acuáticas y algunos c
 
 **ID:** `CO-CIE-6-2026-W02-la-celula-tipos-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, estudiantes relacionan el tamaño de las células con su tipo.
+**Contexto:** En Cartagena, estudiantes relacionan el tamaño de las células con su tipo.
 
 ### Enunciado
 ¿Por qué las células procariotas son generalmente más pequeñas que las eucariotas?
 
-### Options
+### Opciones
 - [ ] A) Porque no necesitan energía <!-- feedback: Incorrecto. Todas las células necesitan energía. -->
 - [ ] B) Porque se reproducen más lento <!-- feedback: Incorrecto. Las procariotas se reproducen más rápido. -->
 - [x] C) Porque al no tener compartimentos internos (orgánulos), la difusión es más eficiente en células pequeñas <!-- feedback: Correcto. El tamaño pequeño facilita el intercambio de sustancias. -->
@@ -182,13 +190,14 @@ Esta diferencia de tamaño es la razón por la que necesitamos microscopios elec
 
 **ID:** `CO-CIE-6-2026-W02-la-celula-tipos-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, estudiantes analizan por qué los antibióticos afectan bacterias pero no nuestras células.
+**Contexto:** En Pereira, estudiantes analizan por qué los antibióticos afectan bacterias pero no nuestras células.
 
 ### Enunciado
 ¿Por qué algunos antibióticos matan bacterias pero no dañan nuestras células?
 
-### Options
+### Opciones
 - [ ] A) Porque nuestras células son más resistentes <!-- feedback: Incorrecto. No es cuestión de resistencia. -->
 - [x] B) Porque los antibióticos atacan estructuras específicas de las bacterias (procariotas) que no están presentes en nuestras células (eucariotas) <!-- feedback: Correcto. La diferencia celular permite atacar selectivamente. -->
 - [ ] C) Porque el sistema inmune nos protege <!-- feedback: Incorrecto. El sistema inmune ayuda, pero el antibiótico actúa directamente. -->
@@ -208,13 +217,14 @@ Esta "toxicidad selectiva" es lo que permite que los antibióticos maten bacteri
 
 **ID:** `CO-CIE-6-2026-W02-la-celula-tipos-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, estudiantes analizan la teoría endosimbiótica en clase.
+**Contexto:** En Manizales, estudiantes analizan la teoría endosimbiótica en clase.
 
 ### Enunciado
 La teoría endosimbiótica explica que las mitocondrias y cloroplastos evolucionaron a partir de bacterias. ¿Qué evidencia apoya esta teoría?
 
-### Options
+### Opciones
 - [ ] A) Son del mismo tamaño que las células <!-- feedback: Incorrecto. Son más pequeñas y hay evidencia más específica. -->
 - [ ] B) No tienen ADN <!-- feedback: Incorrecto. Precisamente TIENEN su propio ADN. -->
 - [x] C) Tienen su propio ADN circular y ribosomas 70S, como las bacterias <!-- feedback: Correcto. Son evidencias de su origen bacteriano. -->
@@ -235,13 +245,14 @@ Esta teoría revolucionó nuestra comprensión de la evolución celular y está 
 
 **ID:** `CO-CIE-6-2026-W02-la-celula-tipos-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, estudiantes evalúan la clasificación de organismos en el sistema de tres dominios.
+**Contexto:** En Cúcuta, estudiantes evalúan la clasificación de organismos en el sistema de tres dominios.
 
 ### Enunciado
 ¿Por qué las arqueas se clasifican en un dominio diferente al de las bacterias, si ambas son procariotas?
 
-### Options
+### Opciones
 - [ ] A) Porque las arqueas son más grandes <!-- feedback: Incorrecto. El tamaño no es el criterio de separación. -->
 - [ ] B) Porque solo las bacterias causan enfermedades <!-- feedback: Incorrecto. Algunas arqueas también pueden ser patógenas. -->
 - [x] C) Porque las arqueas tienen diferencias genéticas y bioquímicas fundamentales con las bacterias (distinta composición de pared celular y ARN ribosómico) <!-- feedback: Correcto. Las diferencias moleculares son profundas. -->
@@ -263,13 +274,14 @@ Muchas arqueas viven en ambientes extremos (termófilas en aguas termales, haló
 
 **ID:** `CO-CIE-6-2026-W02-la-celula-tipos-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, estudiantes discuten sobre células procariotas en la producción de insulina.
+**Contexto:** En Ibagué, estudiantes discuten sobre células procariotas en la producción de insulina.
 
 ### Enunciado
 ¿Por qué los científicos usan bacterias (procariotas) para producir insulina humana?
 
-### Options
+### Opciones
 - [ ] A) Porque las bacterias son más inteligentes <!-- feedback: Incorrecto. No se trata de inteligencia. -->
 - [x] B) Porque las bacterias se reproducen rápidamente y su ADN se puede modificar genéticamente para que produzcan proteínas humanas <!-- feedback: Correcto. Son fábricas biológicas eficientes. -->
 - [ ] C) Porque las bacterias producen insulina naturalmente <!-- feedback: Incorrecto. Las bacterias no producen insulina humana naturalmente. -->

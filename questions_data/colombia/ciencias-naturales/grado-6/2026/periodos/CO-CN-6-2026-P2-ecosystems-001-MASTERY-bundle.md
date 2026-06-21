@@ -1,5 +1,5 @@
 ---
-id: "CO-CN-6-2026-P2-ecosystems-001-MASTERY"
+id: "CO-CN-6-2026-P2-ecosystems-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -19,7 +19,12 @@ rubric_baseline: "ecosystems, biomes, food webs, trophic levels, energy flow, nu
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Ecosystems
 
@@ -30,13 +35,14 @@ This bundle covers ecosystems: biomes, food webs, trophic levels, energy flow an
 
 **ID:** `CO-CN-6-2026-P2-ecosystems-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** In science in Bogotá they study ecosystems.
+**Contexto:** In science in Bogotá they study ecosystems.
 
 ### Enunciado
 What is a BIOTIC factor in an ecosystem?
 
-### Options
+### Opciones
 - [ ] A) Water <!-- feedback: Abiotic. -->
 - [ ] B) Sunlight <!-- feedback: Abiotic. -->
 - [x] C) Trees <!-- feedback: Correcto, living. -->
@@ -52,13 +58,14 @@ Biotic = living (plants, animals, bacteria). Abiotic = non-living (water, sun, s
 
 **ID:** `CO-CN-6-2026-P2-ecosystems-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** In Medellín they study the food web.
+**Contexto:** In Medellín they study the food web.
 
 ### Enunciado
 Which organism is a producer?
 
-### Options
+### Opciones
 - [ ] A) Fox <!-- feedback: Consumer. -->
 - [x] B) Grass <!-- feedback: Correcto. -->
 - [ ] C) Rabbit <!-- feedback: Consumer. -->
@@ -74,13 +81,14 @@ Producers (plants) make their own food via photosynthesis.
 
 **ID:** `CO-CN-6-2026-P2-ecosystems-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** In Cali they analyze energy flow.
+**Contexto:** In Cali they analyze energy flow.
 
 ### Enunciado
 How much energy passes from one trophic level to the next?
 
-### Options
+### Opciones
 - [ ] A) 90% <!-- feedback: No. -->
 - [ ] B) 50% <!-- feedback: No. -->
 - [x] C) 10% <!-- feedback: Correcto. -->
@@ -96,13 +104,14 @@ Only about 10% of energy transfers between trophic levels (10% rule).
 
 **ID:** `CO-CN-6-2026-P2-ecosystems-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** In Barranquilla they study the mangrove ecosystem.
+**Contexto:** In Barranquilla they study the mangrove ecosystem.
 
 ### Enunciado
 Why are mangroves important for coastal protection?
 
-### Options
+### Opciones
 - [ ] A) They produce oil <!-- feedback: No. -->
 - [x] B) Roots prevent erosion <!-- feedback: Correcto. -->
 - [ ] C) They attract tourists <!-- feedback: Not main. -->
@@ -118,13 +127,14 @@ Mangrove roots trap sediment and reduce coastal erosion from waves.
 
 **ID:** `CO-CN-6-2026-P2-ecosystems-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** In Bucaramanga they identify ecological relationships.
+**Contexto:** In Bucaramanga they identify ecological relationships.
 
 ### Enunciado
 A lion eating a zebra is an example of ___.
 
-### Options
+### Opciones
 - [ ] A) Mutualism <!-- feedback: Both benefit. -->
 - [ ] B) Commensalism <!-- feedback: One benefits. -->
 - [x] C) Predation <!-- feedback: Correcto. -->
@@ -140,13 +150,14 @@ Predation: one organism (predator) kills and eats another (prey).
 
 **ID:** `CO-CN-6-2026-P2-ecosystems-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** In Cartagena they study nutrient cycles.
+**Contexto:** In Cartagena they study nutrient cycles.
 
 ### Enunciado
 What do decomposers do in an ecosystem?
 
-### Options
+### Opciones
 - [ ] A) Produce oxygen <!-- feedback: No. -->
 - [x] B) Break down dead organisms <!-- feedback: Correcto. -->
 - [ ] C) Hunt prey <!-- feedback: No. -->
@@ -162,13 +173,14 @@ Decomposers (bacteria/fungi) recycle nutrients by breaking down dead matter.
 
 **ID:** `CO-CN-6-2026-P2-ecosystems-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** In Pereira they study human impact.
+**Contexto:** In Pereira they study human impact.
 
 ### Enunciado
 Deforestation affects the carbon cycle by ___.
 
-### Options
+### Opciones
 - [x] A) Increasing CO2 in atmosphere <!-- feedback: Correcto. -->
 - [ ] B) Reducing CO2 <!-- feedback: No. -->
 - [ ] C) Creating more oxygen <!-- feedback: No. -->
@@ -184,13 +196,14 @@ Trees absorb CO2. Deforestation releases stored carbon and reduces CO2 absorptio
 
 **ID:** `CO-CN-6-2026-P2-ecosystems-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** In Manizales they analyze population dynamics.
+**Contexto:** In Manizales they analyze population dynamics.
 
 ### Enunciado
 What happens when prey population increases?
 
-### Options
+### Opciones
 - [ ] A) Predators decrease <!-- feedback: No. -->
 - [x] B) Predators may increase <!-- feedback: Correcto. -->
 - [ ] C) Nothing changes <!-- feedback: No. -->
@@ -206,13 +219,14 @@ More prey available = more food for predators, so predator population may grow.
 
 **ID:** `CO-CN-6-2026-P2-ecosystems-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** In Cúcuta they study succession.
+**Contexto:** In Cúcuta they study succession.
 
 ### Enunciado
 Primary succession begins on ___.
 
-### Options
+### Opciones
 - [ ] A) Existing soil <!-- feedback: Secondary. -->
 - [x] B) Bare rock <!-- feedback: Correcto. -->
 - [ ] C) A forest clearing <!-- feedback: No. -->
@@ -228,13 +242,14 @@ Primary succession starts on surfaces with no soil (bare rock, lava).
 
 **ID:** `CO-CN-6-2026-P2-ecosystems-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** In Ibagué they study biomes.
+**Contexto:** In Ibagué they study biomes.
 
 ### Enunciado
 The Colombian páramo is a unique ___.
 
-### Options
+### Opciones
 - [ ] A) Desert <!-- feedback: No. -->
 - [x] B) High-altitude ecosystem <!-- feedback: Correcto. -->
 - [ ] C) Coral reef <!-- feedback: No. -->

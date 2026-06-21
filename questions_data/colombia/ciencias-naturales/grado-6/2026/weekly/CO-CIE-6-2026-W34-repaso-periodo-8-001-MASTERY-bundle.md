@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W34-repaso-periodo-8-001-MASTERY"
+id: "CO-CIE-6-2026-W34-repaso-periodo-8-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W34 — Repaso Periodo 8: Mezclas, Separación y sus Aplicaciones
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W34-repaso-periodo-8-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, estudiantes repasan la clasificación de mezclas.
+**Contexto:** En Bogotá, estudiantes repasan la clasificación de mezclas.
 
 ### Enunciado
 ¿Qué diferencia a una mezcla homogénea de una heterogénea?
 
-### Options
+### Opciones
 - [ ] A) La mezcla homogénea tiene componentes que reaccionan químicamente <!-- feedback: En las mezclas no hay reacciones químicas entre componentes. -->
 - [x] B) En la mezcla homogénea los componentes no se distinguen a simple vista (una fase), mientras que en la heterogénea sí se distinguen (dos o más fases) <!-- feedback: Correcto. La uniformidad visual es la diferencia clave. -->
 - [ ] C) La mezcla homogénea solo tiene dos componentes <!-- feedback: Puede tener múltiples componentes y seguir siendo homogénea. -->
@@ -48,13 +51,14 @@ La clasificación de mezclas se basa en el número de **fases** visibles. Una **
 
 **ID:** `CO-CIE-6-2026-W34-repaso-periodo-8-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, estudiantes repasan los métodos de separación.
+**Contexto:** En Medellín, estudiantes repasan los métodos de separación.
 
 ### Enunciado
 ¿Qué método de separación usarías para separar una mezcla de piedras pequeñas y arena seca?
 
-### Options
+### Opciones
 - [ ] A) Destilación <!-- feedback: La destilación separa líquidos homogéneos, no sólidos mezclados. -->
 - [x] B) Tamizado o cribado <!-- feedback: Correcto. El tamiz con agujeros del tamaño adecuado deja pasar la arena y retiene las piedras. -->
 - [ ] C) Imantación <!-- feedback: Las piedras y la arena no son magnéticas. -->
@@ -69,13 +73,14 @@ El **tamizado** (o cribado) es un método mecánico de separación que utiliza u
 
 **ID:** `CO-CIE-6-2026-W34-repaso-periodo-8-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de Fenómenos
-**Context:** En Cali, estudiantes repasan la diferencia entre mezcla y compuesto.
+**Contexto:** En Cali, estudiantes repasan la diferencia entre mezcla y compuesto.
 
 ### Enunciado
 ¿Por qué el agua oxigenada (peróxido de hidrógeno, H₂O₂) es un compuesto y no una mezcla de agua y oxígeno?
 
-### Options
+### Opciones
 - [ ] A) Porque contiene dos elementos diferentes <!-- feedback: El hecho de tener dos elementos no la hace un compuesto; el aire también tiene varios elementos y es una mezcla. -->
 - [x] B) Porque los átomos están unidos por enlaces químicos (covalentes) formando una molécula con propiedades diferentes a sus elementos <!-- feedback: Correcto. El H₂O₂ es una molécula con enlaces covalentes específicos. -->
 - [ ] C) Porque es un líquido <!-- feedback: Las mezclas también pueden ser líquidas (agua con sal). -->
@@ -90,13 +95,14 @@ El **peróxido de hidrógeno** (H₂O₂) o agua oxigenada es un **compuesto qu�
 
 **ID:** `CO-CIE-6-2026-W34-repaso-periodo-8-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de Fenómenos
-**Context:** En Barranquilla, estudiantes repasan la solubilidad.
+**Contexto:** En Barranquilla, estudiantes repasan la solubilidad.
 
 ### Enunciado
 ¿Por qué el aceite no se disuelve en agua?
 
-### Options
+### Opciones
 - [ ] A) Porque el aceite es menos denso que el agua <!-- feedback: La densidad explica que flote, no por qué no se disuelve. -->
 - [x] B) Porque el agua es polar y el aceite es apolar (no polar), y "lo similar disuelve a lo similar" <!-- feedback: Correcto. Sustancias polares y apolares no se mezclan. -->
 - [ ] C) Porque el agua está más caliente que el aceite a la misma temperatura <!-- feedback: La temperatura afecta la solubilidad, pero agua y aceite no se disuelven ni a altas temperaturas. -->
@@ -111,13 +117,14 @@ La **polaridad** es la clave para entender la solubilidad: "**lo similar disuelv
 
 **ID:** `CO-CIE-6-2026-W34-repaso-periodo-8-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En Cúcuta, estudiantes aplican conocimientos de separación a un problema real.
+**Contexto:** En Cúcuta, estudiantes aplican conocimientos de separación a un problema real.
 
 ### Enunciado
 Un agricultor de Norte de Santander tiene una mezcla de semillas de frijol y lentejas. Quiere separarlas para venderlas por separado, pero ambas son del mismo color similar y tamaño cercano. ¿Qué método de separación NO serviría?
 
-### Options
+### Opciones
 - [ ] A) Selección manual <!-- feedback: Sería efectivo pero lento; sí serviría, aunque no es el más eficiente. -->
 - [x] B) Tamizado (cribado) <!-- feedback: Correcto. Si son de tamaño similar, el tamiz no las separará efectivamente. -->
 - [ ] C) Separación por densidad en agua <!-- feedback: Si tienen densidades diferentes, flotarán o se hundirán a diferentes velocidades, podría funcionar. -->
@@ -132,13 +139,14 @@ La elección del método de separación depende de las **propiedades físicas** 
 
 **ID:** `CO-CIE-6-2026-W34-repaso-periodo-8-006-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Ibagué, estudiantes recuerdan la función del disolvente.
+**Contexto:** En Ibagué, estudiantes recuerdan la función del disolvente.
 
 ### Enunciado
 En una mezcla homogénea de agua con alcohol, ¿cuál es el solvente?
 
-### Options
+### Opciones
 - [ ] A) El alcohol porque es más volátil <!-- feedback: La volatilidad no determina cuál es el solvente. -->
 - [x] B) El agua, porque está en mayor proporción (generalmente 70% agua, 30% alcohol en alcohol antiséptico) <!-- feedback: Correcto. El solvente es el componente que está en mayor cantidad. -->
 - [ ] C) Ninguno, porque el alcohol y el agua se disuelven mutuamente <!-- feedback: Cuando un componente está en mayor cantidad, ese es el solvente. -->
@@ -153,13 +161,14 @@ En una disolución, el **solvente** es el componente que está en **mayor propor
 
 **ID:** `CO-CIE-6-2026-W34-repaso-periodo-8-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En Neiva (Huila), estudiantes analizan la separación en la producción de biocombustibles.
+**Contexto:** En Neiva (Huila), estudiantes analizan la separación en la producción de biocombustibles.
 
 ### Enunciado
 Para producir etanol (biocombustible) a partir de la caña de azúcar, se fermenta el jugo y luego se separa el etanol del agua. ¿Qué propiedad física permite esta separación?
 
-### Options
+### Opciones
 - [ ] A) El color: el etanol es incoloro y el agua también <!-- feedback: Ambos son incoloros, no se separan por color. -->
 - [ ] B) La densidad: el etanol es menos denso que el agua <!-- feedback: La diferencia de densidad (etanol 0.789 g/mL, agua 1.0 g/mL) no es suficiente para decantación efectiva porque son miscibles. -->
 - [x] C) El punto de ebullición: el etanol hierve a 78°C y el agua a 100°C <!-- feedback: Correcto. La destilación aprovecha la diferencia en puntos de ebullición. -->
@@ -174,13 +183,14 @@ La producción de **bioetanol** en Colombia (Ingenios del Valle del Cauca como M
 
 **ID:** `CO-CIE-6-2026-W34-repaso-periodo-8-008-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de Fenómenos
-**Context:** En Pasto, estudiantes explican por qué el agua de mar sabe salada.
+**Contexto:** En Pasto, estudiantes explican por qué el agua de mar sabe salada.
 
 ### Enunciado
 ¿Por qué el agua de mar sabe salada y no podemos beberla directamente?
 
-### Options
+### Opciones
 - [ ] A) Porque contiene arena disuelta <!-- feedback: La arena no se disuelve en agua, está en suspensión. -->
 - [x] B) Porque contiene sales minerales disueltas (principalmente cloruro de sodio) que forman una disolución homogénea <!-- feedback: Correcto. Las sales están disueltas en forma iónica. -->
 - [ ] C) Porque el mar tiene ácidos que la hacen salada <!-- feedback: El mar no tiene ácidos en concentración significativa; su pH es ligeramente alcalino (8.1-8.3). -->
@@ -195,13 +205,14 @@ El **agua de mar** contiene aproximadamente 35 gramos de sales disueltas por cad
 
 **ID:** `CO-CIE-6-2026-W34-repaso-periodo-8-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En Manizales, estudiantes evalúan el método más eficiente según el contexto.
+**Contexto:** En Manizales, estudiantes evalúan el método más eficiente según el contexto.
 
 ### Enunciado
 En una comunidad rural de Caldas sin electricidad, necesitan purificar agua del río que tiene sedimentos visibles y bacterias. ¿Qué combinación de métodos deberían usar, en orden?
 
-### Options
+### Opciones
 - [ ] A) Destilación y luego filtración <!-- feedback: La destilación requiere calentar, posible con leña, pero es costosa y lenta. -->
 - [x] B) Filtración con tela para sedimentos, luego hervido para eliminar bacterias, o desinfección solar (SODIS) <!-- feedback: Correcto. Usa recursos disponibles sin electricidad. -->
 - [ ] C) Centrifugación y luego destilación <!-- feedback: La centrifugación requiere electricidad, no disponible. -->
@@ -219,8 +230,9 @@ Para comunidades sin acceso a electricidad ni agua potable (como algunas veredas
 
 **ID:** `CO-CIE-6-2026-W34-repaso-periodo-8-010-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Sincelejo, estudiantes repasan conceptos integradores de mezclas.
+**Contexto:** En Sincelejo, estudiantes repasan conceptos integradores de mezclas.
 
 ### Enunciado
 Une con líneas los siguientes conceptos con su ejemplo correcto:
@@ -229,7 +241,7 @@ Une con líneas los siguientes conceptos con su ejemplo correcto:
 - (3) Método de separación por densidad
 - (4) Método de separación por tamaño de partícula
 
-### Options
+### Opciones
 - [ ] A) (1) Ensalada, (2) Acero, (3) Tamizado, (4) Decantación <!-- feedback: Ensalada es heterogénea, acero homogéneo. -->
 - [ ] B) (1) Aire, (2) Agua con aceite, (3) Filtración, (4) Destilación <!-- feedback: Filtración separa por tamaño, no por densidad. -->
 - [x] C) (1) Gaseosa, (2) Granola, (3) Decantación, (4) Tamizado <!-- feedback: Correcto. Gaseosa es homogénea, granola heterogénea, decantación por densidad, tamizado por tamaño. -->

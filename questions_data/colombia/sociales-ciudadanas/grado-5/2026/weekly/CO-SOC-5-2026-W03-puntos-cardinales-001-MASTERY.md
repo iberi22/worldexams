@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "puntos cardinales y orientacion"
-semana: "W03"
+week: "W03"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Puntos cardinales: norte, sur, este, oeste. Orientación en ma
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Cuáles son los cuatro puntos cardinales principales?
@@ -39,12 +44,13 @@ Los cuatro puntos cardinales principales son: Norte (N), Sur (S), Este (E) y Oes
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Cómo se llama el instrumento que sirve para orientarse señalando el norte magnético?
@@ -60,12 +66,13 @@ La brújula es el instrumento tradicional de orientación. Su aguja imantada sie
 
 ---
 
-## Pregunta 3 [D2]
+## Question 3 [D2]
 
 **ID:** `CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Si el Sol sale por el Este, ¿hacia qué punto cardinal se pone al atardecer?
@@ -81,12 +88,13 @@ El Sol sale por el Este (oriente) y se oculta por el Oeste (occidente). Esto se 
 
 ---
 
-## Pregunta 4 [D2]
+## Question 4 [D2]
 
 **ID:** `CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Qué puntos cardinales laterales se encuentran entre el Norte y el Este?
@@ -102,12 +110,13 @@ Los puntos cardinales laterales o secundarios son: Noreste (NE) entre Norte y Es
 
 ---
 
-## Pregunta 5 [D2]
+## Question 5 [D2]
 
 **ID:** `CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 María está en la ciudad de Bogotá y quiere ir a la ciudad de Medellín. Sabe que Medellín está al noroeste de Bogotá. ¿Hacia dónde debe dirigirse?
@@ -123,12 +132,13 @@ La dirección noroeste (NO) es la combinación de Norte y Oeste. Medellín se en
 
 ---
 
-## Pregunta 6 [D3]
+## Question 6 [D3]
 
 **ID:** `CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Un grupo de estudiantes está en el Parque Nacional Natural Tayrona, en la costa Caribe colombiana. Son las 12 del mediodía y el Sol está en lo más alto. ¿Cuál es la mejor manera de orientarse?
@@ -144,12 +154,13 @@ En el hemisferio norte (donde está Colombia), al mediodía el Sol se encuentra 
 
 ---
 
-## Pregunta 7 [D3]
+## Question 7 [D3]
 
 **ID:** `CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 En un mapa físico de Colombia, la rosa de los vientos muestra el Norte hacia arriba. Si una ciudad está en la parte superior del mapa, ¿hacia qué punto cardinal se encuentra?
@@ -165,12 +176,13 @@ Por convención internacional, en los mapas el norte se coloca en la parte super
 
 ---
 
-## Pregunta 8 [D3]
+## Question 8 [D3]
 
 **ID:** `CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Un estudiante está en San Andrés y quiere viajar a Bogotá. Mirando un mapa, observa que San Andrés está al noroeste de Bogotá. Si viaja de San Andrés a Bogotá, ¿en qué dirección se desplaza?
@@ -186,12 +198,13 @@ La orientación es relativa. Si un lugar A está al noroeste de B, entonces B es
 
 ---
 
-## Pregunta 9 [D4]
+## Question 9 [D4]
 
 **ID:** `CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Un explorador camina 3 km hacia el Norte, luego 4 km hacia el Este y finalmente 3 km hacia el Sur. ¿A qué distancia y en qué dirección está de su punto de partida?
@@ -207,12 +220,13 @@ Al desplazarse 3 km al norte y luego 3 km al sur, estos movimientos se cancelan 
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W03-puntos-cardinales-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Por qué una brújula NO funciona correctamente cerca de objetos metálicos grandes o dispositivos electrónicos?

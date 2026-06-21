@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W40-repaso-integral-001-MASTERY"
+id: "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "repaso integral anual"
-semana: "W40"
+week: "W40"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso Integral Anual - Grado 7
 ## Semana W40 — Síntesis y aplicación crítica de todas las competencias de lectura crítica trabajadas en el año
 
-## Pregunta 1 [D5]
+## Question 1 [D5]
 **ID:** `CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v1`
 **Bloom:** Understand
 **ICFES:** Identificación de contenidos locales
-**Context:** Al final del año escolar, los estudiantes del Colegio La Enseñanza de Villavicencio deben demostrar su capacidad para distinguir entre diferentes tipos de texto y sus propósitos comunicativos.
+**Contexto:** Al final del año escolar, los estudiantes del Colegio La Enseñanza de Villavicencio deben demostrar su capacidad para distinguir entre diferentes tipos de texto y sus propósitos comunicativos.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -42,11 +46,11 @@ Esta pregunta evalúa la competencia fundamental de identificar el propósito co
 
 ---
 
-## Pregunta 2 [D6]
+## Question 2 [D6]
 **ID:** `CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v2`
 **Bloom:** Analyze
 **ICFES:** Comprensión del sentido global
-**Context:** Un texto publicitario de una marca colombiana dice: "Apoyamos el talento nacional. Porque cuando compras colombiano, construyes país." La imagen muestra a un artesano tejiendo.
+**Contexto:** Un texto publicitario de una marca colombiana dice: "Apoyamos el talento nacional. Porque cuando compras colombiano, construyes país." La imagen muestra a un artesano tejiendo.
 **Expected_Success:** 0.64
 
 ### Enunciado
@@ -63,11 +67,11 @@ La apelación al patriotismo es uno de los recursos retóricos más poderosos en
 
 ---
 
-## Pregunta 3 [D6]
+## Question 3 [D6]
 **ID:** `CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v3`
 **Bloom:** Analyze
 **ICFES:** Configuración textual
-**Context:** Un editorial de un periódico de Cali afirma: "La seguridad en la ciudad no puede esperar más. Necesitamos una política integral que combine prevención, inversión social y presencia policial efectiva."
+**Contexto:** Un editorial de un periódico de Cali afirma: "La seguridad en la ciudad no puede esperar más. Necesitamos una política integral que combine prevención, inversión social y presencia policial efectiva."
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -84,11 +88,11 @@ La marca textual del editorial es el lenguaje deóntico: expresiones de obligaci
 
 ---
 
-## Pregunta 4 [D6]
+## Question 4 [D6]
 **ID:** `CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Dimensión inferencial
-**Context:** Una propaganda de la Alcaldía de Pasto muestra varias obras de infraestructura con el eslogan "Pastosí". No menciona la deuda pública ni los sobrecostos de las obras.
+**Contexto:** Una propaganda de la Alcaldía de Pasto muestra varias obras de infraestructura con el eslogan "Pastosí". No menciona la deuda pública ni los sobrecostos de las obras.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -105,11 +109,11 @@ La omisión selectiva de información es una de las técnicas más comunes en pr
 
 ---
 
-## Pregunta 5 [D7]
+## Question 5 [D7]
 **ID:** `CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Dimensión inferencial
-**Context:** Un texto dice: "El Hospital San Juan de Dios de Cali atiende a 500 pacientes diarios en urgencias. Sin embargo, solo cuenta con 3 médicos por turno. La Defensoría del Pueblo ha emitido tres alertas sobre la situación."
+**Contexto:** Un texto dice: "El Hospital San Juan de Dios de Cali atiende a 500 pacientes diarios en urgencias. Sin embargo, solo cuenta con 3 médicos por turno. La Defensoría del Pueblo ha emitido tres alertas sobre la situación."
 **Expected_Success:** 0.56
 
 ### Enunciado
@@ -126,11 +130,11 @@ Esta pregunta evalúa dos habilidades combinadas: identificación del género (n
 
 ---
 
-## Pregunta 6 [D7]
+## Question 6 [D7]
 **ID:** `CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Configuración textual
-**Context:** Un reportaje sobre la deserción escolar en Sincelejo incluye: testimonio de una madre cabeza de familia, datos de la Secretaría de Educación, análisis de una socióloga, fotografías de aulas vacías y una línea de tiempo de las políticas educativas en la última década.
+**Contexto:** Un reportaje sobre la deserción escolar en Sincelejo incluye: testimonio de una madre cabeza de familia, datos de la Secretaría de Educación, análisis de una socióloga, fotografías de aulas vacías y una línea de tiempo de las políticas educativas en la última década.
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -147,11 +151,11 @@ El reportaje se distingue por su capacidad de integrar diferentes formatos y rec
 
 ---
 
-## Pregunta 7 [D7]
+## Question 7 [D7]
 **ID:** `CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v7`
 **Bloom:** Evaluate
 **ICFES:** Dimensión inferencial
-**Context:** Una entrevista a una jueza de la República publicada en una revista comienza con: "La justicia en Colombia no es ciega: tiene clase y color". La jueza desarrolla esta idea durante la entrevista.
+**Contexto:** Una entrevista a una jueza de la República publicada en una revista comienza con: "La justicia en Colombia no es ciega: tiene clase y color". La jueza desarrolla esta idea durante la entrevista.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -168,11 +172,11 @@ Esta pregunta evalúa la comprensión de una metáfora crítica. La imagen tradi
 
 ---
 
-## Pregunta 8 [D8]
+## Question 8 [D8]
 **ID:** `CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** Un reportaje sobre la Amazonía colombiana es publicado por una fundación ambientalista que recibe donaciones de empresas petroleras. El reportaje critica la deforestación pero no menciona el impacto de la explotación petrolera.
+**Contexto:** Un reportaje sobre la Amazonía colombiana es publicado por una fundación ambientalista que recibe donaciones de empresas petroleras. El reportaje critica la deforestación pero no menciona el impacto de la explotación petrolera.
 **Expected_Success:** 0.44
 
 ### Enunciado
@@ -189,11 +193,11 @@ Identificar conflictos de interés es una habilidad avanzada de lectura crítica
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** Cuatro estudiantes debaten sobre qué medio usar para un proyecto. Uno propone solo usar redes sociales. Otro propone usar medios tradicionales (prensa, TV). Otro propone una combinación. El último propone solo fuentes oficiales del gobierno.
+**Contexto:** Cuatro estudiantes debaten sobre qué medio usar para un proyecto. Uno propone solo usar redes sociales. Otro propone usar medios tradicionales (prensa, TV). Otro propone una combinación. El último propone solo fuentes oficiales del gobierno.
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -210,11 +214,11 @@ La estrategia de "triangulación de fuentes" es la más robusta para obtener inf
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** Dos medios cubren el anuncio de un nuevo impuesto. Medio A: "Gobierno anuncia nuevo impuesto a bebidas azucaradas para combatir la obesidad". Medio B: "Nuevo impuesto golpeará a familias de bajos ingresos".
+**Contexto:** Dos medios cubren el anuncio de un nuevo impuesto. Medio A: "Gobierno anuncia nuevo impuesto a bebidas azucaradas para combatir la obesidad". Medio B: "Nuevo impuesto golpeará a familias de bajos ingresos".
 **Expected_Success:** 0.40
 
 ### Enunciado
@@ -231,11 +235,11 @@ Esta pregunta evalúa la capacidad de síntesis y pensamiento complejo. Cada med
 
 ---
 
-## Pregunta 11 [D9]
+## Question 11 [D9]
 **ID:** `CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v11`
 **Bloom:** Create
 **ICFES:** Reflexión sobre el contenido
-**Context:** Como evaluación final del año, el profesor pide a los estudiantes diseñar un "plan de lectura crítica" para analizar cualquier noticia que encuentren en redes sociales durante las vacaciones.
+**Contexto:** Como evaluación final del año, el profesor pide a los estudiantes diseñar un "plan de lectura crítica" para analizar cualquier noticia que encuentren en redes sociales durante las vacaciones.
 **Expected_Success:** 0.38
 
 ### Enunciado
@@ -252,11 +256,11 @@ Este plan de 5 pasos condensa todas las habilidades trabajadas durante el año e
 
 ---
 
-## Pregunta 12 [D9-D10]
+## Question 12 [D9-D10]
 **ID:** `CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Reflexión sobre el contenido
-**Context:** Como proyecto final del año, los estudiantes del Colegio San Pedro Claver de Bucaramanga deben crear un texto original que demuestre dominio de los géneros periodísticos estudiados. Deben elegir un tema de actualidad colombiana.
+**Contexto:** Como proyecto final del año, los estudiantes del Colegio San Pedro Claver de Bucaramanga deben crear un texto original que demuestre dominio de los géneros periodísticos estudiados. Deben elegir un tema de actualidad colombiana.
 **Expected_Success:** 0.34
 
 ### Enunciado

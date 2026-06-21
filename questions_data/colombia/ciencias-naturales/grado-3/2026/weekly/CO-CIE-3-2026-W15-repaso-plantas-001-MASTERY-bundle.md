@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W15-repaso-plantas-001-MASTERY"
+id: "CO-CIE-3-2026-W15-repaso-plantas-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "repaso-plantas"
-semana: "W15"
+week: "W15"
 periodo: 2
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Repaso integral de las plantas: partes, fotosíntesis, adaptac
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Repaso Integral: El Mundo Vegetal
 
 Este bundle resume los conceptos clave sobre las plantas, su funcionamiento biológico y su importancia para el ser humano y el planeta.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W15-repaso-plantas-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un examen de ciencias, los niños deben unir cada parte de la planta con su trabajo principal.
+**Contexto:** En un examen de ciencias, los niños deben unir cada parte de la planta con su trabajo principal.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ Las hojas son los laboratorios químicos de la planta. Gracias a la clorofila, c
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W15-repaso-plantas-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un jardinero nota que si no riega sus plantas, estas se marchitan y sus hojas se ponen tristes y caídas.
+**Contexto:** Un jardinero nota que si no riega sus plantas, estas se marchitan y sus hojas se ponen tristes y caídas.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -73,12 +77,12 @@ El agua cumple dos papeles: es materia prima para la fotosíntesis y es el vehí
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W15-repaso-plantas-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Las plantas se clasifican según su utilidad. Una persona tiene un jardín con Rosas, Yerbabuena, Maíz y un Pino.
+**Contexto:** Las plantas se clasifican según su utilidad. Una persona tiene un jardín con Rosas, Yerbabuena, Maíz y un Pino.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ Saber para qué sirve cada planta es parte de la cultura y la ciencia. La yerbab
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W15-repaso-plantas-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Los cactus tienen tallos verdes muy gruesos que parecen estar llenos de agua por dentro.
+**Contexto:** Los cactus tienen tallos verdes muy gruesos que parecen estar llenos de agua por dentro.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -123,12 +127,12 @@ En el desierto, la adaptación se trata de ahorrar. El tallo suculento (gordo) d
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W15-repaso-plantas-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Mariana siembra una semilla de frijol. Al tercer día sale una raíz, al quinto un tallo y al séptimo dos hojas verdes.
+**Contexto:** Mariana siembra una semilla de frijol. Al tercer día sale una raíz, al quinto un tallo y al séptimo dos hojas verdes.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -148,12 +152,12 @@ La germinación termina y comienza la vida autónoma de la planta cuando sus hoj
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W15-repaso-plantas-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Si una planta de interior se deja en un lugar sin nada de luz, sus hojas se vuelven blancas o amarillas muy pálidas.
+**Contexto:** Si una planta de interior se deja en un lugar sin nada de luz, sus hojas se vuelven blancas o amarillas muy pálidas.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -173,12 +177,12 @@ El color verde es señal de trabajo. La clorofila solo es útil si hay luz. Cuan
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W15-repaso-plantas-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** El algodón y el caucho son plantas muy importantes para nuestras fábricas en Colombia.
+**Contexto:** El algodón y el caucho son plantas muy importantes para nuestras fábricas en Colombia.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -198,12 +202,12 @@ Las plantas industriales son el motor de muchas fábricas. El algodón nos viste
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W15-repaso-plantas-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** En un bosque quemado, no quedan plantas. Un mes después, comienza a llover muy fuerte sobre las cenizas.
+**Contexto:** En un bosque quemado, no quedan plantas. Un mes después, comienza a llover muy fuerte sobre las cenizas.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -223,12 +227,12 @@ Las plantas son los "guardianes del suelo". Sus raíces forman una red que evita
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W15-repaso-plantas-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Una abeja entra a una flor, se ensucia de polen y luego vuela a otra flor igual en un árbol vecino.
+**Contexto:** Una abeja entra a una flor, se ensucia de polen y luego vuela a otra flor igual en un árbol vecino.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -248,12 +252,12 @@ Este proceso es la polinización. Es una colaboración asombrosa entre animales 
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W15-repaso-plantas-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un científico dice: "Si cuidamos las plantas, estamos cuidando nuestra propia respiración".
+**Contexto:** Un científico dice: "Si cuidamos las plantas, estamos cuidando nuestra propia respiración".
 **Expected_Success:** 0.60
 
 ### Enunciado

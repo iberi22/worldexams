@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY"
+id: "CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "suelo-composicion"
-semana: "W07"
+week: "W07"
 periodo: 1
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Composición del suelo: materia orgánica (humus), materia ino
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # ¿De qué está hecho el suelo?
 
 Este bundle explora los componentes fundamentales del suelo y cómo la mezcla de diferentes materiales permite que crezcan las plantas y vivan muchos animales.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la huerta de la escuela, los estudiantes de grado 3 cavan un poco y notan que el suelo no es solo "tierra" negra.
+**Contexto:** En la huerta de la escuela, los estudiantes de grado 3 cavan un poco y notan que el suelo no es solo "tierra" negra.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ El suelo es una mezcla compleja. El humus es la parte orgánica; es como el "ali
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Si pones un poco de suelo seco en un vaso con agua, notarás que salen pequeñas burbujas hacia la superficie.
+**Contexto:** Si pones un poco de suelo seco en un vaso con agua, notarás que salen pequeñas burbujas hacia la superficie.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -73,12 +77,12 @@ Aunque parezca sólido, el suelo tiene muchos espacios diminutos. Estos espacios
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de ciencias, los niños tocan diferentes materiales: unos granos grandes y rasposos, y otros muy finos que parecen harina.
+**Contexto:** En la clase de ciencias, los niños tocan diferentes materiales: unos granos grandes y rasposos, y otros muy finos que parecen harina.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ La parte mineral del suelo viene de la desintegración de las rocas durante mile
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Un agricultor nota que después de una lluvia, el agua desaparece muy rápido en una parte del campo, pero en otra se forman charcos que duran muchos días.
+**Contexto:** Un agricultor nota que después de una lluvia, el agua desaparece muy rápido en una parte del campo, pero en otra se forman charcos que duran muchos días.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -123,12 +127,12 @@ La capacidad de filtrar agua se llama permeabilidad. Los suelos con mucha arcill
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Si quemas un poco de tierra en una cuchara vieja, notarás que sale un poco de vapor y la tierra se vuelve más clara y seca.
+**Contexto:** Si quemas un poco de tierra en una cuchara vieja, notarás que sale un poco de vapor y la tierra se vuelve más clara y seca.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -148,12 +152,12 @@ Este experimento casero muestra que el suelo tiene "vida" y humedad. Al eliminar
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En un bosque nativo, el suelo está cubierto de hojas secas, ramas caídas y restos de insectos.
+**Contexto:** En un bosque nativo, el suelo está cubierto de hojas secas, ramas caídas y restos de insectos.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -173,12 +177,12 @@ Este proceso se llama el ciclo de la materia. Las plantas toman nutrientes del s
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un científico analiza dos suelos. El Suelo A tiene 80% de arena. El Suelo B tiene 40% de arena, 40% de arcilla y 20% de humus.
+**Contexto:** Un científico analiza dos suelos. El Suelo A tiene 80% de arena. El Suelo B tiene 40% de arena, 40% de arcilla y 20% de humus.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -198,12 +202,12 @@ El suelo ideal se llama "suelo franco". Es aquel que no es ni pura arena ni pura
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Las lombrices de tierra cavan túneles todo el día, comiendo tierra y restos de hojas.
+**Contexto:** Las lombrices de tierra cavan túneles todo el día, comiendo tierra y restos de hojas.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -223,12 +227,12 @@ Las lombrices son llamadas "los ingenieros del suelo". Su trabajo constante de m
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** En las playas de San Andrés, el suelo es casi pura arena blanca formada por restos de corales y caracoles triturados.
+**Contexto:** En las playas de San Andrés, el suelo es casi pura arena blanca formada por restos de corales y caracoles triturados.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -248,12 +252,12 @@ Cada ecosistema tiene un suelo diferente. Las plantas de playa, como las palmera
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-composicion-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un constructor dice que el suelo es solo un estorbo y que sería mejor cubrir todo el mundo con asfalto y cemento para que sea más limpio.
+**Contexto:** Un constructor dice que el suelo es solo un estorbo y que sería mejor cubrir todo el mundo con asfalto y cemento para que sea más limpio.
 **Expected_Success:** 0.55
 
 ### Enunciado

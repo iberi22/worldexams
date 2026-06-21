@@ -1,10 +1,10 @@
 ---
-id: "CO-LEN-8-2026-W02-popol-vuh-001-MASTERY"
+id: "CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "lengua"
 tema: "popol-vuh"
-semana: "W02"
+week: "W02"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
@@ -16,7 +16,12 @@ distractor_profile: "plausible_peer_set"
 rubric_baseline: "Popol Vuh - Grado 8 - lengua"
 license: "FREE"
 
+bundle_type: "weekly"
+total_questions: 12
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Popol Vuh - Grado 8
 
@@ -26,246 +31,258 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ---
 
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 **ID:** `CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comunicación Escrita
 **Expected_Success:** 0.92
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Quién escribió 'Cien años de soledad'?
 
 ### Opciones
-- [x] A) Gabriel García Márquez
-  <!-- feedback: Nobel 1982 -->
-- [ ] B) Jorge Luis Borges
-- [ ] C) Mario Vargas Llosa
-- [ ] D) Julio Cortázar
+- [x] A) Gabriel García Márquez <!-- feedback: Correcto! Gabriel García Márquez -->
+
+- [ ] B) Jorge Luis Borges <!-- feedback: Incorrecto. Jorge Luis Borges -->
+- [ ] C) Mario Vargas Llosa <!-- feedback: Incorrecto. Mario Vargas Llosa -->
+- [ ] D) Julio Cortázar <!-- feedback: Incorrecto. Julio Cortázar -->
 
 ### Explicación Pedagógica
 Gabo, Nobel colombiano
 
 ---
 
-## Pregunta 2 [D2]
+## Question 2 [D2]
 **ID:** `CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
 **Expected_Success:** 0.9
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Figura: 'tus ojos son dos luceros'
 
 ### Opciones
-- [x] A) Metáfora
-- [ ] B) Símil
-- [ ] C) Hipérbole
-- [ ] D) Personificación
+- [x] A) Metáfora <!-- feedback: Correcto! Metáfora -->
+- [ ] B) Símil <!-- feedback: Incorrecto. Símil -->
+- [ ] C) Hipérbole <!-- feedback: Incorrecto. Hipérbole -->
+- [ ] D) Personificación <!-- feedback: Incorrecto. Personificación -->
 
 ### Explicación Pedagógica
 Comparación implícita
 
 ---
 
-## Pregunta 3 [D3]
+## Question 3 [D3]
 **ID:** `CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Producción Textual
 **Expected_Success:** 0.87
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué es el Modernismo?
 
 ### Opciones
-- [x] A) Renovación estética hispanoamericana
-- [ ] B) Literatura medieval
-- [ ] C) Género literario
-- [ ] D) Escritura automática
+- [x] A) Renovación estética hispanoamericana <!-- feedback: Correcto! Renovación estética hispanoamericana -->
+- [ ] B) Literatura medieval <!-- feedback: Incorrecto. Literatura medieval -->
+- [ ] C) Género literario <!-- feedback: Incorrecto. Género literario -->
+- [ ] D) Escritura automática <!-- feedback: Incorrecto. Escritura automática -->
 
 ### Explicación Pedagógica
 Rubén Darío, finales s.XIX
 
 ---
 
-## Pregunta 4 [D3]
+## Question 4 [D3]
 **ID:** `CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Comunicación Escrita
 **Expected_Success:** 0.84
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuántas letras tiene el abecedario español?
 
 ### Opciones
-- [x] A) 27
-  <!-- feedback: A-Z -->
-- [ ] B) 30
-- [ ] C) 25
-- [ ] D) 29
+- [x] A) 27 <!-- feedback: Correcto! 27 -->
+
+- [ ] B) 30 <!-- feedback: Incorrecto. 30 -->
+- [ ] C) 25 <!-- feedback: Incorrecto. 25 -->
+- [ ] D) 29 <!-- feedback: Incorrecto. 29 -->
 
 ### Explicación Pedagógica
 27 letras
 
 ---
 
-## Pregunta 5 [D4]
+## Question 5 [D4]
 **ID:** `CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-v5`
 **Bloom:** Evaluate
 **ICFES:** Comprensión Lectora
 **Expected_Success:** 0.82
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Quién escribió 'Cien años de soledad'?
 
 ### Opciones
-- [x] A) Gabriel García Márquez
-  <!-- feedback: Nobel 1982 -->
-- [ ] B) Jorge Luis Borges
-- [ ] C) Mario Vargas Llosa
-- [ ] D) Julio Cortázar
+- [x] A) Gabriel García Márquez <!-- feedback: Correcto! Gabriel García Márquez -->
+
+- [ ] B) Jorge Luis Borges <!-- feedback: Incorrecto. Jorge Luis Borges -->
+- [ ] C) Mario Vargas Llosa <!-- feedback: Incorrecto. Mario Vargas Llosa -->
+- [ ] D) Julio Cortázar <!-- feedback: Incorrecto. Julio Cortázar -->
 
 ### Explicación Pedagógica
 Gabo, Nobel colombiano
 
 ---
 
-## Pregunta 6 [D4]
+## Question 6 [D4]
 **ID:** `CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Producción Textual
 **Expected_Success:** 0.8
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Figura: 'tus ojos son dos luceros'
 
 ### Opciones
-- [x] A) Metáfora
-- [ ] B) Símil
-- [ ] C) Hipérbole
-- [ ] D) Personificación
+- [x] A) Metáfora <!-- feedback: Correcto! Metáfora -->
+- [ ] B) Símil <!-- feedback: Incorrecto. Símil -->
+- [ ] C) Hipérbole <!-- feedback: Incorrecto. Hipérbole -->
+- [ ] D) Personificación <!-- feedback: Incorrecto. Personificación -->
 
 ### Explicación Pedagógica
 Comparación implícita
 
 ---
 
-## Pregunta 7 [D5]
+## Question 7 [D5]
 **ID:** `CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Comunicación Escrita
 **Expected_Success:** 0.77
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué es el Modernismo?
 
 ### Opciones
-- [x] A) Renovación estética hispanoamericana
-- [ ] B) Literatura medieval
-- [ ] C) Género literario
-- [ ] D) Escritura automática
+- [x] A) Renovación estética hispanoamericana <!-- feedback: Correcto! Renovación estética hispanoamericana -->
+- [ ] B) Literatura medieval <!-- feedback: Incorrecto. Literatura medieval -->
+- [ ] C) Género literario <!-- feedback: Incorrecto. Género literario -->
+- [ ] D) Escritura automática <!-- feedback: Incorrecto. Escritura automática -->
 
 ### Explicación Pedagógica
 Rubén Darío, finales s.XIX
 
 ---
 
-## Pregunta 8 [D4-D5]
+## Question 8 [D4-D5]
 **ID:** `CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Comprensión Lectora
 **Expected_Success:** 0.74
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuántas letras tiene el abecedario español?
 
 ### Opciones
-- [x] A) 27
-  <!-- feedback: A-Z -->
-- [ ] B) 30
-- [ ] C) 25
-- [ ] D) 29
+- [x] A) 27 <!-- feedback: Correcto! 27 -->
+
+- [ ] B) 30 <!-- feedback: Incorrecto. 30 -->
+- [ ] C) 25 <!-- feedback: Incorrecto. 25 -->
+- [ ] D) 29 <!-- feedback: Incorrecto. 29 -->
 
 ### Explicación Pedagógica
 27 letras
 
 ---
 
-## Pregunta 9 [D2-D3]
+## Question 9 [D2-D3]
 **ID:** `CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-v9`
 **Bloom:** Remember
 **ICFES:** Producción Textual
 **Expected_Success:** 0.72
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Quién escribió 'Cien años de soledad'?
 
 ### Opciones
-- [x] A) Gabriel García Márquez
-  <!-- feedback: Nobel 1982 -->
-- [ ] B) Jorge Luis Borges
-- [ ] C) Mario Vargas Llosa
-- [ ] D) Julio Cortázar
+- [x] A) Gabriel García Márquez <!-- feedback: Correcto! Gabriel García Márquez -->
+
+- [ ] B) Jorge Luis Borges <!-- feedback: Incorrecto. Jorge Luis Borges -->
+- [ ] C) Mario Vargas Llosa <!-- feedback: Incorrecto. Mario Vargas Llosa -->
+- [ ] D) Julio Cortázar <!-- feedback: Incorrecto. Julio Cortázar -->
 
 ### Explicación Pedagógica
 Gabo, Nobel colombiano
 
 ---
 
-## Pregunta 10 [D3-D4]
+## Question 10 [D3-D4]
 **ID:** `CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-v10`
 **Bloom:** Understand
 **ICFES:** Comunicación Escrita
 **Expected_Success:** 0.7
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Figura: 'tus ojos son dos luceros'
 
 ### Opciones
-- [x] A) Metáfora
-- [ ] B) Símil
-- [ ] C) Hipérbole
-- [ ] D) Personificación
+- [x] A) Metáfora <!-- feedback: Correcto! Metáfora -->
+- [ ] B) Símil <!-- feedback: Incorrecto. Símil -->
+- [ ] C) Hipérbole <!-- feedback: Incorrecto. Hipérbole -->
+- [ ] D) Personificación <!-- feedback: Incorrecto. Personificación -->
 
 ### Explicación Pedagógica
 Comparación implícita
 
 ---
 
-## Pregunta 11 [D5]
+## Question 11 [D5]
 **ID:** `CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-v11`
 **Bloom:** Apply
 **ICFES:** Comprensión Lectora
 **Expected_Success:** 0.67
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué es el Modernismo?
 
 ### Opciones
-- [x] A) Renovación estética hispanoamericana
-- [ ] B) Literatura medieval
-- [ ] C) Género literario
-- [ ] D) Escritura automática
+- [x] A) Renovación estética hispanoamericana <!-- feedback: Correcto! Renovación estética hispanoamericana -->
+- [ ] B) Literatura medieval <!-- feedback: Incorrecto. Literatura medieval -->
+- [ ] C) Género literario <!-- feedback: Incorrecto. Género literario -->
+- [ ] D) Escritura automática <!-- feedback: Incorrecto. Escritura automática -->
 
 ### Explicación Pedagógica
 Rubén Darío, finales s.XIX
 
 ---
 
-## Pregunta 12 [D4-D5]
+## Question 12 [D4-D5]
 **ID:** `CO-LEN-8-2026-W02-popol-vuh-001-MASTERY-v12`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuántas letras tiene el abecedario español?
 
 ### Opciones
-- [x] A) 27
-  <!-- feedback: A-Z -->
-- [ ] B) 30
-- [ ] C) 25
-- [ ] D) 29
+- [x] A) 27 <!-- feedback: Correcto! 27 -->
+
+- [ ] B) 30 <!-- feedback: Incorrecto. 30 -->
+- [ ] C) 25 <!-- feedback: Incorrecto. 25 -->
+- [ ] D) 29 <!-- feedback: Incorrecto. 29 -->
 
 ### Explicación Pedagógica
 27 letras

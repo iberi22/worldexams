@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-W34-fuentes-confiables-001-MASTERY"
+id: "CO-LEC-6-2026-W34-fuentes-confiables-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -15,7 +15,9 @@ alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W34 — Fuentes Confiables
 
@@ -27,14 +29,15 @@ tier: "legacy"
 
 **ID:** `CO-LEC-6-2026-W34-fuentes-confiables-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de fuentes de información
-**Context:** Definición de fuente confiable
+**Contexto:** Definición de fuente confiable
 
 ### Enunciado
 
 ¿Qué es una fuente de información confiable?
 
-### Options
+### Opciones
 - [ ] A) Cualquier texto que aparece en Internet <!-- feedback: Incorrecto. No toda la información en Internet es confiable. Cualquier persona puede publicar contenido sin verificación. -->
 - [ ] B) Un texto escrito por alguien famoso <!-- feedback: Incorrecto. La fama no garantiza confiabilidad. Una persona famosa puede estar equivocada o no ser experta en el tema. -->
 - [x] C) Una fuente que ofrece información verificada, precisa y respaldada por expertos o instituciones reconocidas <!-- feedback: ¡Correcto! Una fuente confiable se caracteriza por: autores con credenciales en el tema, respaldo de instituciones reconocidas (universidades, centros de investigación, organismos oficiales), información verificable y actualizada, y transparencia sobre sus métodos y fuentes. -->
@@ -50,14 +53,15 @@ En la era de la información, diferenciar fuentes confiables de las que no lo so
 
 **ID:** `CO-LEC-6-2026-W34-fuentes-confiables-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de tipos de fuentes
-**Context:** Fuentes primarias y secundarias
+**Contexto:** Fuentes primarias y secundarias
 
 ### Enunciado
 
 ¿Cuál de los siguientes es un ejemplo de fuente PRIMARIA?
 
-### Options
+### Opciones
 - [ ] A) Un artículo de Wikipedia sobre la independencia de Colombia <!-- feedback: Incorrecto. Wikipedia es una fuente secundaria o terciaria. Recopila y resume información de otras fuentes. -->
 - [ ] B) Un libro de texto de historia de grado 6 <!-- feedback: Incorrecto. Un libro de texto es una fuente secundaria: interpreta y organiza información de fuentes primarias para fines educativos. -->
 - [x] C) El diario personal de Simón Bolívar escrito durante la Campaña Libertadora <!-- feedback: ¡Correcto! Una fuente primaria es un documento o testimonio creado durante el período que se estudia, por alguien que vivió los hechos. El diario de Bolívar es un testimonio directo de la época. -->
@@ -73,8 +77,9 @@ Las FUENTES PRIMARIAS son testimonios directos de la época o el evento: cartas,
 
 **ID:** `CO-LEC-6-2026-W34-fuentes-confiables-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Evaluación básica de confiabilidad
-**Context:** Identificar señales de confiabilidad
+**Contexto:** Identificar señales de confiabilidad
 
 ### Enunciado
 
@@ -86,7 +91,7 @@ Estás investigando sobre la deforestación en la Amazonía colombiana. Encuentr
 
 ¿Cuál sitio es más confiable?
 
-### Options
+### Opciones
 - [ ] A) El Sitio A, porque su mensaje es urgente y llama la atención <!-- feedback: Incorrecto. La urgencia exagerada y el lenguaje alarmista son señales de alerta, no de confiabilidad. -->
 - [ ] B) El Sitio B, porque tiene un diseño más bonito <!-- feedback: Incorrecto. El diseño no es un indicador de confiabilidad. Un sitio con buen diseño puede tener información falsa y viceversa. -->
 - [x] C) El Sitio B, porque está respaldado por una institución científica reconocida (SINCHI), tiene datos actualizados y metodología transparente <!-- feedback: ¡Correcto! SINCHI es una institución oficial de investigación. La presencia de fecha, autoría institucional y metodología transparente son señales de confiabilidad. El Sitio A tiene múltiples banderas rojas: anonimato, sensacionalismo, intereses comerciales. -->
@@ -102,8 +107,9 @@ Para evaluar rápidamente la confiabilidad de un sitio web, usa el método de la
 
 **ID:** `CO-LEC-6-2026-W34-fuentes-confiables-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Diferenciar información verificada de no verificada
-**Context:** Noticia falsa vs. noticia real
+**Contexto:** Noticia falsa vs. noticia real
 
 ### Enunciado
 
@@ -115,7 +121,7 @@ Dos publicaciones en redes sociales hablan sobre el mismo tema:
 
 ¿Qué características hacen que la Publicación 2 sea más confiable?
 
-### Options
+### Opciones
 - [ ] A) Que tiene menos signos de exclamación <!-- feedback: Incorrecto. Aunque es cierto que la Publicación 1 usa exclamaciones excesivas, la ausencia de ellas no es suficiente para ser confiable. La clave está en la fuente y el lenguaje. -->
 - [ ] B) Que da una fecha específica (2027) <!-- feedback: Incorrecto. Ambas publicaciones mencionan 2027. Dar una fecha no hace que la información sea verdadera. La desinformación también usa fechas específicas para parecer real. -->
 - [x] C) Que cita una fuente oficial (Ministerio de Educación) e invita a verificar en el sitio web oficial, mientras que la Publicación 1 usa lenguaje sensacionalista y pide compartir sin verificar <!-- feedback: ¡Correcto! La Publicación 2 ofrece una fuente verificable y no pide compartir ciegamente. La Publicación 1 usa todas las señales de desinformación: URGENTE, mayúsculas, exclamaciones múltiples, llamado a compartir sin verificar. -->
@@ -131,14 +137,15 @@ La desinformación suele usar estas tácticas: 1) Lenguaje URGENTE y SENSACIONAL
 
 **ID:** `CO-LEC-6-2026-W34-fuentes-confiables-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de sesgo en fuentes
-**Context:** Fuente con conflicto de interés
+**Contexto:** Fuente con conflicto de interés
 
 ### Enunciado
 
 Un artículo titulado "Los beneficios de los alimentos procesados" fue escrito por la Asociación de Fabricantes de Alimentos Procesados. ¿Por qué deberíamos leer este artículo con precaución?
 
-### Options
+### Opciones
 - [ ] A) Porque los alimentos procesados no tienen ningún beneficio <!-- feedback: Incorrecto. Esa afirmación es una generalización. Algunos alimentos procesados (como la leche pasteurizada) sí tienen beneficios. No podemos descartar todo. -->
 - [ ] B) Porque los fabricantes no tienen conocimiento sobre alimentos <!-- feedback: Incorrecto. Los fabricantes conocen sus productos, pero su conocimiento puede estar sesgado por su interés en vender. -->
 - [x] C) Porque la fuente tiene un conflicto de interés: la Asociación de Fabricantes se beneficia si las personas compran más alimentos procesados, por lo que el artículo probablemente omitirá los aspectos negativos <!-- feedback: ¡Correcto! Un conflicto de interés ocurre cuando quien publica la información puede beneficiarse de que el lector adopte cierta postura. Esto no significa que la información sea falsa, pero debemos leerla sabiendo que hay un sesgo favorable. -->
@@ -154,14 +161,15 @@ Un conflicto de interés no invalida automáticamente una fuente, pero exige una
 
 **ID:** `CO-LEC-6-2026-W34-fuentes-confiables-006-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Verificación cruzada de información
-**Context:** Corroborar información
+**Contexto:** Corroborar información
 
 ### Enunciado
 
 Encuentras esta afirmación en redes sociales: "Comer huevos todos los días es malo para la salud porque aumenta el colesterol." ¿Cuál es la mejor manera de verificar esta información?
 
-### Options
+### Opciones
 - [ ] A) Compartir la publicación para que otros opinen <!-- feedback: Incorrecto. Compartir no verifica. Las opiniones de otros en redes sociales no son evidencia confiable. Esto solo contribuye a la difusión de información no verificada. -->
 - [ ] B) Buscar un video en TikTok que hable sobre huevos <!-- feedback: Incorrecto. TikTok no es un medio de verificación confiable. Los creadores de contenido no necesariamente tienen formación en nutrición. -->
 - [x] C) Consultar fuentes como la Organización Mundial de la Salud (OMS), el Ministerio de Salud de Colombia, o estudios publicados en revistas científicas de nutrición <!-- feedback: ¡Correcto! La verificación cruzada consiste en contrastar la información con fuentes autorizadas e independientes. La OMS, el Ministerio de Salud y las revistas científicas son fuentes confiables porque sus publicaciones pasan por procesos de revisión y tienen respaldo institucional. -->
@@ -177,8 +185,9 @@ La verificación cruzada (o cross-checking) es el proceso de contrastar una afir
 
 **ID:** `CO-LEC-6-2026-W34-fuentes-confiables-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Selección de fuentes para un trabajo escolar
-**Context:** Elegir fuentes para una investigación
+**Contexto:** Elegir fuentes para una investigación
 
 ### Enunciado
 
@@ -191,7 +200,7 @@ Tienes que hacer un trabajo escolar sobre "La biodiversidad en Colombia". ¿Cuá
 5. Un tweet de un político
 6. Una entrada de Wikipedia citando fuentes oficiales
 
-### Options
+### Opciones
 - [ ] A) 1, 3 y 5, porque son fáciles de entender <!-- feedback: Incorrecto. La facilidad no es un criterio de confiabilidad. Los videos de youtubers, comentarios anónimos y tweets no son fuentes académicas adecuadas. -->
 - [ ] B) Solo la 2, porque es del gobierno <!-- feedback: Incorrecto. Aunque la fuente 2 es buena, la 4 y la 6 también son válidas. Limitarse a una sola fuente no es buena práctica de investigación. -->
 - [x] C) 2 (MinAmbiente), 4 (Instituto Humboldt) y 6 (Wikipedia con fuentes), porque son fuentes institucionales, científicas o con referencias verificables <!-- feedback: ¡Correcto! MinAmbiente es una fuente oficial del gobierno; Instituto Humboldt es un centro de investigación científica reconocido; Wikipedia con citas de fuentes oficiales puede ser un buen punto de partida (aunque debe verificarse). Estas tres fuentes son adecuadas para un trabajo escolar. -->
@@ -207,8 +216,9 @@ Para un trabajo escolar, la jerarquía de fuentes recomendada es: 1) Institucion
 
 **ID:** `CO-LEC-6-2026-W34-fuentes-confiables-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Análisis de cadena de fuentes
-**Context:** Rastrear el origen de la información
+**Contexto:** Rastrear el origen de la información
 
 ### Enunciado
 
@@ -216,7 +226,7 @@ Un periódico publica: "Según un estudio de la Universidad de los Andes, el 70%
 
 ¿Por qué esta noticia es más confiable que una publicación anónima en redes sociales que dice lo mismo?
 
-### Options
+### Opciones
 - [ ] A) Porque los periódicos nunca se equivocan <!-- feedback: Incorrecto. Los periódicos también pueden cometer errores. La diferencia es que tienen mecanismos de verificación y corrección. -->
 - [ ] B) Porque el periódico tiene más lectores que la red social <!-- feedback: Incorrecto. La cantidad de lectores no es un indicador de veracidad. Las noticias falsas a veces llegan a más personas que las verdaderas. -->
 - [x] C) Porque podemos rastrear la fuente original (Universidad de los Andes), verificar quién hizo el estudio y consultar la metodología, lo que permite confirmar la información <!-- feedback: ¡Correcto! La posibilidad de rastrear la fuente original es clave. Podemos ir al estudio de la Universidad de los Andes, ver cómo se hizo la encuesta (metodología), qué preguntas se hicieron, y si realmente el 70% es un dato correcto. La cadena de fuentes es transparente y verificable. -->
@@ -232,8 +242,9 @@ Una información confiable permite rastrear su origen hasta la fuente primaria. 
 
 **ID:** `CO-LEC-6-2026-W34-fuentes-confiables-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Evaluación de la actualidad de la fuente
-**Context:** Información desactualizada
+**Contexto:** Información desactualizada
 
 ### Enunciado
 
@@ -245,7 +256,7 @@ Estás investigando la población de Colombia y encuentras dos fuentes:
 
 ¿Cuál fuente es más adecuada para tu trabajo actual?
 
-### Options
+### Opciones
 - [ ] A) La Fuente A, porque los números más pequeños son más fáciles de recordar <!-- feedback: Incorrecto. La facilidad de memorización no es un criterio de selección de fuentes. Lo importante es la precisión y actualidad. -->
 - [ ] B) La Fuente B, porque el número es más grande <!-- feedback: Incorrecto. Que el número sea más grande no lo hace más correcto. La diferencia se debe al crecimiento poblacional en 20 años. -->
 - [x] C) La Fuente B, porque es la más reciente y proviene de la misma institución oficial (DANE), reflejando el crecimiento poblacional de dos décadas <!-- feedback: ¡Correcto! La población cambia con el tiempo (nacimientos, muertes, migraciones). Una fuente de 2005 está desactualizada. La fuente B de 2025 del DANE (Departamento Administrativo Nacional de Estadística, la entidad oficial) es la adecuada. La fuente A no está "equivocada" para su época, pero está desactualizada. -->
@@ -261,8 +272,9 @@ La actualidad de una fuente depende del tema. Para datos demográficos, económi
 
 **ID:** `CO-LEC-6-2026-W34-fuentes-confiables-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Valoración crítica de múltiples fuentes
-**Context:** Evaluar credibilidad de fuentes sobre un mismo tema
+**Contexto:** Evaluar credibilidad de fuentes sobre un mismo tema
 
 ### Enunciado
 
@@ -278,7 +290,7 @@ Estás investigando si el consumo de azúcar es dañino para la salud. Encuentra
 
 Ordénalas de MÁS confiable a MENOS confiable:
 
-### Options
+### Opciones
 - [ ] A) 2, 4, 3, 1 <!-- feedback: Incorrecto. Esta ordenación pone al influencer y a la asociación de productores por encima de la OMS y la Universidad Nacional, lo cual es incorrecto. -->
 - [ ] B) 4, 2, 1, 3 <!-- feedback: Incorrecto. La asociación de productores tiene conflicto de interés y el influencer carece de credenciales. No deberían estar por encima de la OMS. -->
 - [x] C) 1 (OMS) y 3 (Universidad Nacional), seguidas de 4 (productores con conflicto de interés) y finalmente 2 (influencer sin credenciales) <!-- feedback: ¡Correcto! La OMS es una autoridad sanitaria mundial. La Universidad Nacional publica en revista revisada por pares. La Asociación de Productores tiene conflicto de interés pero al menos representa una posición institucional. El influencer no tiene credenciales y vende un curso, lo que lo hace la fuente menos confiable. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-8-2026-P2-colonizacion-america-001-MASTERY"
+id: "CO-SOC-8-2026-P2-colonizacion-america-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "colonizacion_america, conquista, virreinatos, colonias_espanolas, portuguesas, inglesas, extractivismo, mestizaje_encomienda"
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Colonización de América
 
@@ -24,17 +31,17 @@ Este bundle cubre la colonización europea de América: la conquista, la organiz
 
 ---
 
-## Question 1
-
+## Question 1 [D1]
 **ID:** `CO-SOC-8-2026-P2-colonizacion-america-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál fue el primer imperio europeo en colonizar América?
 
-### Options
+### Opciones
 - [ ] A) Inglaterra <!-- feedback: Incorrecto. Inglaterra comenzó su colonización en el siglo XVII. -->
 - [ ] B) Francia <!-- feedback: Incorrecto. Francia colonizó después. -->
 - [x] C) España y Portugal, tras el Tratado de Tordesillas (1494) <!-- feedback: Correcto. España y Portugal fueron los primeros en colonizar América. -->
@@ -45,17 +52,17 @@ El Tratado de Tordesillas (1494) dividió el mundo entre España y Portugal. Esp
 
 ---
 
-## Question 2
-
+## Question 2 [D1]
 **ID:** `CO-SOC-8-2026-P2-colonizacion-america-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue la encomienda?
 
-### Options
+### Opciones
 - [ ] A) Un sistema de comercio libre entre indígenas y españoles <!-- feedback: Incorrecto. No era un sistema comercial. -->
 - [ ] B) Una escuela para educar a los hijos de los indígenas <!-- feedback: Incorrecto. No era una institución educativa. -->
 - [x] C) Un sistema por el cual la Corona española asignaba un grupo de indígenas a un español (encomendero) para que trabajaran para él a cambio de evangelización y protección <!-- feedback: Correcto. La encomienda fue la base de la explotación laboral indígena. -->
@@ -66,17 +73,17 @@ La encomienda fue una institución clave de la colonización española. En teor�
 
 ---
 
-## Question 3
-
+## Question 3 [D1]
 **ID:** `CO-SOC-8-2026-P2-colonizacion-america-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué consecuencias demográficas tuvo la llegada de los europeos a América?
 
-### Options
+### Opciones
 - [ ] A) La población indígena aumentó por el contacto con europeos <!-- feedback: Incorrecto. El efecto fue catastrófico. -->
 - [x] B) La población indígena se redujo drásticamente (entre 50% y 90%) debido a enfermedades (viruela, sarampión), guerras y trabajos forzados <!-- feedback: Correcto. Fue una catástrofe demográfica de proporciones bíblicas. -->
 - [ ] C) No hubo cambios demográficos significativos <!-- feedback: Incorrecto. El cambio fue enorme. -->
@@ -87,17 +94,17 @@ Los indígenas americanos no tenían defensas inmunológicas contra las enfermed
 
 ---
 
-## Question 4
-
+## Question 4 [D1]
 **ID:** `CO-SOC-8-2026-P2-colonizacion-america-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cómo se organizó administrativamente el Imperio español en América?
 
-### Options
+### Opciones
 - [ ] A) Cada territorio era independiente y gobernado por sus propios reyes indígenas <!-- feedback: Incorrecto. La administración era centralizada. -->
 - [ ] B) Todo el territorio se gobernaba desde España sin división administrativa <!-- feedback: Incorrecto. Había división administrativa. -->
 - [x] C) Se crearon virreinatos (Nueva España, Perú, Nueva Granada, Río de la Plata), gobernaciones y capitanías generales, gobernados por autoridades nombradas por el rey <!-- feedback: Correcto. La organización virreinal era jerárquica y centralizada. -->
@@ -108,17 +115,17 @@ El territorio de la actual Colombia pertenecía al Virreinato de la Nueva Granad
 
 ---
 
-## Question 5
-
+## Question 5 [D1]
 **ID:** `CO-SOC-8-2026-P2-colonizacion-america-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue el comercio triangular en la colonización de América?
 
-### Options
+### Opciones
 - [ ] A) El comercio de tres productos agrícolas: trigo, maíz y arroz <!-- feedback: Incorrecto. No se trata de productos específicos. -->
 - [x] B) La ruta comercial entre Europa, África y América: Europa enviaba manufacturas a África, donde compraban esclavos que llevaban a América, y de América llevaban materias primas a Europa <!-- feedback: Correcto. El comercio triangular fue la base de la economía colonial temprana. -->
 - [ ] C) El comercio entre los tres virreinatos americanos <!-- feedback: Incorrecto. Era entre tres continentes. -->
@@ -129,17 +136,17 @@ El comercio triangular conectaba tres continentes en un circuito de explotación
 
 ---
 
-## Question 6
-
+## Question 6 [D1]
 **ID:** `CO-SOC-8-2026-P2-colonizacion-america-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál fue la diferencia entre la colonización española y la colonización inglesa en América del Norte?
 
-### Options
+### Opciones
 - [ ] A) No hubo diferencias, ambas fueron iguales <!-- feedback: Incorrecto. Hubo diferencias fundamentales. -->
 - [ ] B) La española fue más violenta; la inglesa fue pacífica <!-- feedback: Incorrecto. Ambas fueron violentas, aunque de formas diferentes. -->
 - [x] C) La española creó una sociedad jerarquizada con mestizaje, mientras la inglesa estableció colonias de población blanca con segregación racial y desplazamiento de indígenas <!-- feedback: Correcto. Los modelos coloniales fueron diferentes. -->
@@ -150,17 +157,17 @@ España colonizó áreas densamente pobladas (México, Perú), creando una socie
 
 ---
 
-## Question 7
-
+## Question 7 [D1]
 **ID:** `CO-SOC-8-2026-P2-colonizacion-america-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue la "empresa de las Indias" que llegó al territorio de la actual Colombia?
 
-### Options
+### Opciones
 - [ ] A) Una compañía comercial inglesa <!-- feedback: Incorrecto. Fueron expediciones españolas. -->
 - [ ] B) Una ruta de exploración portuguesa <!-- feedback: Incorrecto. Fue de la Corona española. -->
 - [x] C) Las expediciones de conquista financiadas por particulares bajo autorización de la Corona, como la de Gonzalo Jiménez de Quesada (conquista del altiplano cundiboyacense, 1536-1537) <!-- feedback: Correcto. La conquista se realizó mediante capitulaciones. -->
@@ -171,17 +178,17 @@ La conquista de Colombia fue realizada por varias expediciones: Gonzalo Jiménez
 
 ---
 
-## Question 8
-
+## Question 8 [D1]
 **ID:** `CO-SOC-8-2026-P2-colonizacion-america-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué papel jugaron los esclavos africanos en la economía colonial?
 
-### Options
+### Opciones
 - [ ] A) Eran comerciantes libres que viajaban entre América y África <!-- feedback: Incorrecto. Eran esclavizados forzados a trabajar. -->
 - [ ] B) No tuvieron ningún papel en la economía colonial <!-- feedback: Incorrecto. Fueron fundamentales. -->
 - [x] C) Fueron la principal fuerza de trabajo en las minas de oro (Antioquia, Cauca, Chocó) y las plantaciones de caña de azúcar, especialmente donde la población indígena había sido diezmada <!-- feedback: Correcto. Los esclavos fueron la columna vertebral de la economía extractiva. -->
@@ -192,17 +199,17 @@ La esclavitud africana fue masiva en Colombia, especialmente en la minería del 
 
 ---
 
-## Question 9
-
+## Question 9 [D1]
 **ID:** `CO-SOC-8-2026-P2-colonizacion-america-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue el "extractivismo" colonial y cómo afectó a América?
 
-### Options
+### Opciones
 - [ ] A) Un sistema de protección de los recursos naturales <!-- feedback: Incorrecto. Era lo opuesto. -->
 - [ ] B) La exportación de productos manufacturados desde América a Europa <!-- feedback: Incorrecto. América exportaba materias primas. -->
 - [x] C) Un modelo económico basado en la extracción intensiva de recursos naturales (oro, plata, madera) para beneficio de la metrópoli europea, sin desarrollar industrias locales ni reinvertir en las colonias <!-- feedback: Correcto. El extractivismo definió la economía colonial. -->
@@ -213,17 +220,17 @@ España extrajo inmensas riquezas de América: se estima que entre 1500 y 1800 l
 
 ---
 
-## Question 10
-
+## Question 10 [D1]
 **ID:** `CO-SOC-8-2026-P2-colonizacion-america-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue el "mestizaje" en la América colonial?
 
-### Options
+### Opciones
 - [ ] A) La unión pacífica y voluntaria de todos los grupos étnicos en igualdad de condiciones <!-- feedback: Incorrecto. El mestizaje ocurrió en un contexto de desigualdad. -->
 - [ ] B) La separación total de razas sin mezcla alguna <!-- feedback: Incorrecto. Hubo una intensa mezcla. -->
 - [x] C) La mezcla biológica y cultural entre españoles, indígenas y africanos que dio origen a nuevas identidades y castas, aunque en un contexto de jerarquización social <!-- feedback: Correcto. El mestizaje fue masivo pero jerarquizado. -->
@@ -234,17 +241,17 @@ El mestizaje en la América española fue mucho más intenso que en las colonias
 
 ---
 
-## Question 11
-
+## Question 11 [D1]
 **ID:** `CO-SOC-8-2026-P2-colonizacion-america-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue el "Palenque" y por qué fue importante en la resistencia afrocolombiana?
 
-### Options
+### Opciones
 - [ ] A) Una danza tradicional africana <!-- feedback: Incorrecto. No es una danza. -->
 - [ ] B) Una fortaleza española para proteger puertos <!-- feedback: Incorrecto. Era un asentamiento de esclavos fugitivos. -->
 - [x] C) Un asentamiento fortificado de esclavos africanos fugitivos (cimarrones) que resistían al sistema colonial. El más famoso es San Basilio de Palenque (Bolívar) <!-- feedback: Correcto. Los palenques fueron espacios de libertad en medio de la esclavitud. -->
@@ -255,17 +262,17 @@ San Basilio de Palenque, fundado por Benkos Biohó hacia 1600, fue el primer pue
 
 ---
 
-## Question 12
-
+## Question 12 [D1]
 **ID:** `CO-SOC-8-2026-P2-colonizacion-america-001-MASTERY-v12`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cómo afectó la colonización al medio ambiente americano?
 
-### Options
+### Opciones
 - [ ] A) No tuvo ningún impacto ambiental <!-- feedback: Incorrecto. El impacto fue enorme. -->
 - [ ] B) Los europeos protegieron los bosques mejor que los indígenas <!-- feedback: Incorrecto. Introdujeron cambios drásticos. -->
 - [x] C) La colonización transformó profundamente el paisaje: deforestación para agricultura y minería, introducción de especies animales y vegetales (caballos, vacas, trigo, caña de azúcar), y contaminación por mercurio en la minería de plata <!-- feedback: Correcto. El "intercambio colombino" transformó los ecosistemas americanos. -->
@@ -276,17 +283,17 @@ El "Intercambio Colombino" (término acuñado por Alfred Crosby) transformó rad
 
 ---
 
-## Question 13
-
+## Question 13 [D1]
 **ID:** `CO-SOC-8-2026-P2-colonizacion-america-001-MASTERY-v13`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue la "tasa" o el "tributo indígena" y cómo funcionaba?
 
-### Options
+### Opciones
 - [ ] A) Un impuesto que los españoles pagaban a los indígenas por el uso de la tierra <!-- feedback: Incorrecto. Eran los indígenas quienes debían pagar. -->
 - [ ] B) Una contribución voluntaria que los indígenas hacían a la iglesia <!-- feedback: Incorrecto. Era obligatorio e impuesto. -->
 - [x] C) Un impuesto que los indígenas varones adultos debían pagar a la Corona española por el hecho de ser súbditos. Podía pagarse en especie (productos) o en trabajo <!-- feedback: Correcto. El tributo era la base de la relación colonial con los indígenas. -->
@@ -297,17 +304,17 @@ El tributo indígena era la principal forma de integración de los indígenas al
 
 ---
 
-## Question 14
-
+## Question 14 [D1]
 **ID:** `CO-SOC-8-2026-P2-colonizacion-america-001-MASTERY-v14`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.40
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Analiza: la colonización produjo un inmenso sufrimiento (muertes masivas, esclavitud, destrucción cultural), pero también creó nuevas sociedades sincréticas, lenguas, cocinas y culturas híbridas. ¿Cómo deberíamos evaluar este período histórico?
 
-### Options
+### Opciones
 - [ ] A) La colonización fue completamente buena porque trajo el cristianismo y la civilización <!-- feedback: Incorrecto. Ignora el sufrimiento y la destrucción. -->
 - [ ] B) La colonización fue completamente mala y no produjo nada positivo <!-- feedback: Incorrecto. Ignora la creación de nuevas síntesis culturales. -->
 - [x] C) La colonización debe evaluarse en toda su complejidad: reconociendo el inmenso daño y sufrimiento causado, pero también entendiendo las nuevas realidades culturales que surgieron de ese encuentro violento <!-- feedback: Correcto. La historia requiere análisis multidimensional. -->
@@ -328,7 +335,7 @@ Evaluar la colonización es un ejercicio histórico complejo. Por un lado, fue u
 ### Enunciado
 Analiza el siguiente dilema histórico: cuando los españoles llegaron a América, se enfrentaron a un dilema moral: ¿los indígenas tenían alma? ¿eran seres humanos completos? Fray Bartolomé de las Casas defendió sus derechos, mientras otros justificaron la conquista y la esclavitud. Este debate en la Universidad de Salamanca (siglo XVI) fue el primer debate sobre derechos humanos de la historia moderna. ¿Qué nos dice sobre la relación entre ética y colonización?
 
-### Options
+### Opciones
 - [ ] A) Que los españoles nunca se cuestionaron la moralidad de la colonización <!-- feedback: Incorrecto. Hubo un intenso debate ético. -->
 - [ ] B) Que los indígenas fueron tratados con total respeto y dignidad <!-- feedback: Incorrecto. Hubo abusos masivos a pesar del debate. -->
 - [x] C) Que hubo un conflicto entre los ideales éticos (derechos humanos universales) y los intereses económicos y políticos de la colonización. El debate existió, pero en la práctica prevalecieron los intereses <!-- feedback: Correcto. La tensión entre ética e intereses es una constante histórica. -->

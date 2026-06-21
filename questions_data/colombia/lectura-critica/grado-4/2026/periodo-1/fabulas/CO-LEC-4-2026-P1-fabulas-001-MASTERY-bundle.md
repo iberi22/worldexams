@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-4-2026-P1-fabulas-001-MASTERY"
+id: "CO-LEC-4-2026-P1-fabulas-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "fábulas, moraleja, personajes animales, enseñanza, valores"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4: El Armadillo y la Danta
 
@@ -28,13 +35,14 @@ rubric_baseline: "fábulas, moraleja, personajes animales, enseñanza, valores"
 
 **ID:** `CO-LC-4-2026-P1-fabulas-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Inicio de la fábula.
+**Contexto:** Inicio de la fábula.
 
 ### Enunciado
 ¿Cómo se llama el armadillo protagonista de esta fábula?
 
-### Options
+### Opciones
 - [ ] A) Martín. <!-- feedback: Incorrecto. Martín es el nombre de la danta, no del armadillo. -->
 - [ ] B) Ciro. <!-- feedback: Incorrecto. Ciro no aparece en esta fábula. -->
 - [x] C) Tavo. <!-- feedback: Correcto. El armadillo se llama Tavo, como se menciona al inicio del texto. -->
@@ -49,13 +57,14 @@ Se evalúa la identificación de información explícita sobre los personajes. E
 
 **ID:** `CO-LC-4-2026-P1-fabulas-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** La carrera entre Tavo y Martina.
+**Contexto:** La carrera entre Tavo y Martina.
 
 ### Enunciado
 ¿Cuál era el premio de la carrera entre Tavo y Martina?
 
-### Options
+### Opciones
 - [ ] A) Un tesoro escondido en la quebrada. <!-- feedback: Incorrecto. El premio no era un tesoro, era comida. -->
 - [x] B) Las guayabas más dulces. <!-- feedback: Correcto. Martina dijo: "El que llegue primero se gana las guayabas más dulces". -->
 - [ ] C) Semillas de cacao. <!-- feedback: Incorrecto. Las semillas de cacao son lo que Tavo recoge para su mamá, no el premio de la carrera. -->
@@ -70,13 +79,14 @@ Se evalúa la localización de un detalle específico sobre las condiciones de l
 
 **ID:** `CO-LC-4-2026-P1-fabulas-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Las acciones de Tavo durante la carrera.
+**Contexto:** Las acciones de Tavo durante la carrera.
 
 ### Enunciado
 ¿Por qué Tavo no llegó primero a la quebrada?
 
-### Options
+### Opciones
 - [ ] A) Porque se quedó dormido bajo un árbol. <!-- feedback: Incorrecto. Tavo no se durmió; estuvo activo ayudando a otros animales. -->
 - [ ] B) Porque se perdió en el camino. <!-- feedback: Incorrecto. No se perdió, simplemente se detuvo varias veces para ayudar. -->
 - [x] C) Porque se detuvo a ayudar a otros animales en el camino. <!-- feedback: Correcto. Tavo ayudó a una tortuga, recogió semillas para su mamá y espantó a un zorro. -->
@@ -91,13 +101,14 @@ Se evalúa la comprensión de las causas de las acciones del personaje. La respu
 
 **ID:** `CO-LC-4-2026-P1-fabulas-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** El desenlace de la fábula.
+**Contexto:** El desenlace de la fábula.
 
 ### Enunciado
 ¿Qué hizo Martina al ver que Tavo había ayudado a tantos animales?
 
-### Options
+### Opciones
 - [ ] A) Se enojó y no le habló más. <!-- feedback: Incorrecto. Martina no se enojó; por el contrario, tuvo un gesto generoso. -->
 - [ ] B) Se fue sin decir nada. <!-- feedback: Incorrecto. Martina se quedó y compartió con Tavo. -->
 - [x] C) Compartió las guayabas con Tavo. <!-- feedback: Correcto. Al darse cuenta de las buenas acciones de Tavo, Martina decidió compartir el premio. -->
@@ -112,13 +123,14 @@ Se evalúa la identificación del desenlace de la fábula. La respuesta correcta
 
 **ID:** `CO-LC-4-2026-P1-fabulas-001-MASTERY-v5`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** La moraleja de la fábula.
+**Contexto:** La moraleja de la fábula.
 
 ### Enunciado
 ¿Cuál es la moraleja o enseñanza principal de esta fábula?
 
-### Options
+### Opciones
 - [ ] A) Que hay que correr muy rápido para ganar siempre. <!-- feedback: Incorrecto. La fábula muestra que ganar no es lo más importante. -->
 - [ ] B) Que las carreras en la selva son peligrosas. <!-- feedback: Incorrecto. No hay peligro en la carrera, el mensaje es sobre valores. -->
 - [x] C) Que ayudar a los demás es más importante que ganar o llegar primero. <!-- feedback: Correcto. La moraleja se expresa cuando Tavo dice: "Lo importante es cómo llegas". -->
@@ -133,13 +145,14 @@ Se evalúa la capacidad de extraer la moraleja, que es el elemento central de la
 
 **ID:** `CO-LC-4-2026-P1-fabulas-001-MASTERY-v6`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Características de los personajes.
+**Contexto:** Características de los personajes.
 
 ### Enunciado
 ¿Qué cualidad de Tavo se muestra a lo largo de toda la fábula?
 
-### Options
+### Opciones
 - [ ] A) La pereza. <!-- feedback: Incorrecto. Tavo no es perezoso; se mueve y hace muchas cosas, aunque no siempre avanzando en la carrera. -->
 - [ ] B) La competitividad. <!-- feedback: Incorrecto. Aunque acepta la carrera, no actúa de forma competitiva durante el trayecto. -->
 - [x] C) La solidaridad. <!-- feedback: Correcto. Tavo ayuda constantemente a otros animales, mostrando que es un personaje solidario y generoso. -->
@@ -154,13 +167,14 @@ Se evalúa la inferencia de rasgos de carácter a partir de las acciones repetid
 
 **ID:** `CO-LC-4-2026-P1-fabulas-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Vocabulario en contexto.
+**Contexto:** Vocabulario en contexto.
 
 ### Enunciado
 En la frase "Martina lo retó a una carrera", la palabra "retó" significa:
 
-### Options
+### Opciones
 - [ ] A) Que Martina se enojó con Tavo. <!-- feedback: Incorrecto. "Retar" en este contexto no significa enojarse, sino invitar a competir. -->
 - [x] B) Que Martina lo desafió o lo invitó a competir. <!-- feedback: Correcto. "Retar" en este caso significa desafiar a una competencia amistosa. -->
 - [ ] C) Que Martina le pidió perdón. <!-- feedback: Incorrecto. No hay una disculpa, sino una invitación a una carrera. -->
@@ -175,13 +189,14 @@ Se evalúa el significado de una palabra en el contexto de la fábula. "Retar" p
 
 **ID:** `CO-LC-4-2026-P1-fabulas-001-MASTERY-v8`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Los animales de la selva chocoana.
+**Contexto:** Los animales de la selva chocoana.
 
 ### Enunciado
 ¿A cuál de estos animales ayudó Tavo durante su recorrido?
 
-### Options
+### Opciones
 - [x] A) A una tortuga que se había volteado. <!-- feedback: Correcto. Tavo ayudó a una tortuga que se había volteado, mostrando su espíritu solidario. -->
 - [ ] B) A un tigre que tenía hambre. <!-- feedback: Incorrecto. No hay un tigre en la historia. -->
 - [ ] C) A un mono que había perdido su banana. <!-- feedback: Incorrecto. No se menciona ningún mono en la fábula. -->
@@ -196,13 +211,14 @@ Se evalúa la retención de detalles específicos sobre las acciones del protago
 
 **ID:** `CO-LC-4-2026-P1-fabulas-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Comparación entre personajes.
+**Contexto:** Comparación entre personajes.
 
 ### Enunciado
 ¿En qué se diferencia Tavo de Martina al principio de la fábula?
 
-### Options
+### Opciones
 - [ ] A) Tavo es más grande que Martina. <!-- feedback: Incorrecto. No se menciona el tamaño de ninguno. -->
 - [x] B) Tavo se preocupa por los demás, mientras Martina solo piensa en ganar. <!-- feedback: Correcto. Tavo se distrae ayudando, mientras Martina se enfoca en llegar primera. -->
 - [ ] C) Martina es más amigable que Tavo. <!-- feedback: Incorrecto. Tavo es muy amigable y saluda a todos; Martina es competitiva. -->
@@ -217,13 +233,14 @@ Se evalúa la capacidad de contrastar los valores y actitudes de dos personajes.
 
 **ID:** `CO-LC-4-2026-P1-fabulas-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** La relación entre la fábula y la vida real.
+**Contexto:** La relación entre la fábula y la vida real.
 
 ### Enunciado
 En la vida real, ¿qué nos enseña esta fábula sobre cómo debemos actuar con las personas que nos rodean?
 
-### Options
+### Opciones
 - [ ] A) Que siempre debemos intentar ganar en todo lo que hacemos. <!-- feedback: Incorrecto. La fábula muestra exactamente lo contrario. -->
 - [ ] B) Que debemos ayudar solo si nos van a dar un premio. <!-- feedback: Incorrecto. Tavo ayudó sin esperar nada a cambio. -->
 - [x] C) Que ser solidario y ayudar a los demás es más valioso que la competencia. <!-- feedback: Correcto. La fábula nos invita a valorar la ayuda mutua por encima de la rivalidad. -->

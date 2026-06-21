@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-001-MASTERY"
+id: "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W31 — Mezclas Homogéneas y Heterogéneas
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, estudiantes definen qué es una mezcla.
+**Contexto:** En Bogotá, estudiantes definen qué es una mezcla.
 
 ### Enunciado
 ¿Qué es una mezcla?
 
-### Options
+### Opciones
 - [ ] A) Una sustancia pura formada por un solo tipo de átomo <!-- feedback: Eso es un elemento químico, no una mezcla. -->
 - [ ] B) Una combinación química de dos o más elementos <!-- feedback: Eso es un compuesto químico (reacción química). -->
 - [x] C) Una combinación de dos o más sustancias que mantienen sus propiedades individuales y pueden separarse por métodos físicos <!-- feedback: Correcto. En una mezcla no hay reacción química. -->
@@ -48,13 +51,14 @@ Una **mezcla** es la combinación de dos o más sustancias (elementos o compuest
 
 **ID:** `CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, estudiantes clasifican mezclas.
+**Contexto:** En Medellín, estudiantes clasifican mezclas.
 
 ### Enunciado
 ¿Cómo se llama una mezcla en la que no se pueden distinguir sus componentes a simple vista?
 
-### Options
+### Opciones
 - [ ] A) Heterogénea <!-- feedback: En las heterogéneas SÍ se distinguen los componentes. -->
 - [x] B) Homogénea <!-- feedback: Correcto. Las mezclas homogéneas son uniformes a simple vista. -->
 - [ ] C) Coloide <!-- feedback: Un coloide es un tipo específico de mezcla heterogénea con partículas intermedias. -->
@@ -75,13 +79,14 @@ Los **coloides** son un caso intermedio: partículas más grandes que las de una
 
 **ID:** `CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, estudiantes identifican mezclas en la vida cotidiana.
+**Contexto:** En Cali, estudiantes identifican mezclas en la vida cotidiana.
 
 ### Enunciado
 ¿Cuál de los siguientes ejemplos es una mezcla homogénea?
 
-### Options
+### Opciones
 - [ ] A) Una ensalada de verduras <!-- feedback: Incorrecto. Se distinguen los ingredientes a simple vista. -->
 - [ ] B) Agua y aceite <!-- feedback: Incorrecto. Se forman dos fases visibles. -->
 - [x] C) Agua con sal disuelta <!-- feedback: Correcto. La sal se disuelve completamente y no se ve. -->
@@ -107,13 +112,14 @@ Una forma práctica de identificar mezclas homogéneas: si al enfriarla o dejarl
 
 **ID:** `CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, estudiantes diferencian mezclas de compuestos.
+**Contexto:** En Barranquilla, estudiantes diferencian mezclas de compuestos.
 
 ### Enunciado
 ¿Cuál es la diferencia principal entre una mezcla y un compuesto químico?
 
-### Options
+### Opciones
 - [ ] A) No hay diferencia, son sinónimos <!-- feedback: Son conceptos diferentes. -->
 - [ ] B) Las mezclas son líquidas y los compuestos son sólidos <!-- feedback: Ambos pueden estar en cualquier estado. -->
 - [x] C) En una mezcla los componentes conservan sus propiedades y pueden separarse por métodos físicos; en un compuesto, los elementos se unen químicamente y solo se separan por reacciones químicas <!-- feedback: Correcto. -->
@@ -137,13 +143,14 @@ Ejemplo clásico: el **agua** (H₂O) es un compuesto; el **agua con sal** es un
 
 **ID:** `CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, estudiantes aplican el concepto de solubilidad.
+**Contexto:** En Bucaramanga, estudiantes aplican el concepto de solubilidad.
 
 ### Enunciado
 ¿Por qué el azúcar se disuelve en agua caliente más rápido que en agua fría?
 
-### Options
+### Opciones
 - [ ] A) Porque el agua caliente tiene más moléculas <!-- feedback: No, tiene las mismas moléculas pero más separadas. -->
 - [ ] B) Porque el azúcar se derrite con el calor <!-- feedback: El azúcar no se derrite a temperaturas del agua caliente. -->
 - [x] C) Porque las moléculas de agua caliente se mueven más rápido, chocan con el azúcar con más energía y separan sus moléculas más rápidamente <!-- feedback: Correcto. La temperatura aumenta la velocidad molecular y la solubilidad. -->
@@ -166,13 +173,14 @@ Sin embargo, la solubilidad de los gases en líquidos disminuye al aumentar la t
 
 **ID:** `CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, estudiantes aplican conceptos a la cocina.
+**Contexto:** En Cartagena, estudiantes aplican conceptos a la cocina.
 
 ### Enunciado
 Una persona prepara una limonada: exprime limones en agua y agrega azúcar. ¿Qué tipo de mezcla obtiene?
 
-### Options
+### Opciones
 - [ ] A) Heterogénea, porque tiene pulpa de limón <!-- feedback: Si tiene pulpa visible sería heterogénea, pero la pregunta es sobre una limonada colada. -->
 - [ ] B) Heterogénea, porque el limón y el agua no se mezclan <!-- feedback: El jugo de limón sí se mezcla con agua. -->
 - [x] C) Homogénea, si cuela la pulpa y el azúcar se disuelve completamente <!-- feedback: Correcto. Es una disolución si los componentes no se distinguen. -->
@@ -198,13 +206,14 @@ La clasificación depende del tamaño de las partículas y de si se pueden disti
 
 **ID:** `CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan aleaciones como mezclas.
+**Contexto:** En Pereira, analizan aleaciones como mezclas.
 
 ### Enunciado
 ¿Por qué el bronce (cobre + estaño) se considera una mezcla homogénea y no un compuesto?
 
-### Options
+### Opciones
 - [ ] A) Porque el bronce es un elemento químico <!-- feedback: No, el bronce contiene dos elementos. -->
 - [ ] B) Porque los metales se disuelven uno en el otro formando una disolución sólida uniforme (aleación), conservando las propiedades de cada metal <!-- feedback: Correcto. -->
 - [ ] C) Porque se puede separar con un imán <!-- feedback: El cobre y el estaño no son magnéticos. -->
@@ -231,13 +240,14 @@ Las aleaciones han sido fundamentales en la historia humana: la Edad de Bronce y
 
 **ID:** `CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, analizan el efecto Tyndall.
+**Contexto:** En Manizales, analizan el efecto Tyndall.
 
 ### Enunciado
 ¿Por qué la leche parece homogénea pero en realidad es una mezcla heterogénea (coloide)?
 
-### Options
+### Opciones
 - [ ] A) Porque la leche es blanca y las mezclas heterogéneas nunca son blancas <!-- feedback: Incorrecto. El color no determina el tipo de mezcla. -->
 - [x] B) Porque la leche dispersa la luz (efecto Tyndall) debido a las partículas de grasa y proteínas en suspensión, que son más grandes que las moléculas de una disolución verdadera <!-- feedback: Correcto. La leche es un coloide. -->
 - [ ] C) Porque la leche se separa en capas al dejarla reposar <!-- feedback: La leche homogeneizada no se separa fácilmente. -->
@@ -265,13 +275,14 @@ La leche homogeneizada tiene las gotitas de grasa tan pequeñas que no se separa
 
 **ID:** `CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan la importancia de las disoluciones en la vida diaria.
+**Contexto:** En Cúcuta, evalúan la importancia de las disoluciones en la vida diaria.
 
 ### Enunciado
 ¿Por qué el agua potable es considerada una mezcla aunque parezca pura?
 
-### Options
+### Opciones
 - [ ] A) Porque el agua potable no es una mezcla, es agua pura H₂O <!-- feedback: Incorrecto. El agua potable contiene minerales disueltos. -->
 - [ ] B) Porque contiene minerales disueltos (calcio, magnesio, flúor) que la hacen una disolución (mezcla homogénea) <!-- feedback: Correcto. -->
 - [ ] C) Porque contiene microbios visibles <!-- feedback: Si tuviera microbios visibles no sería potable. -->
@@ -296,13 +307,14 @@ En Colombia, el agua potable es tratada en plantas de potabilización (como la P
 
 **ID:** `CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan la separación de mezclas en la industria.
+**Contexto:** En Ibagué, evalúan la separación de mezclas en la industria.
 
 ### Enunciado
 En la industria petrolera, el petróleo crudo se separa en sus componentes (gasolina, diésel, queroseno, asfalto) mediante destilación fraccionada. ¿Qué tipo de mezcla es el petróleo crudo?
 
-### Options
+### Opciones
 - [ ] A) Una mezcla homogénea, porque todos los componentes son hidrocarburos líquidos <!-- feedback: Incorrecto. Aunque todos son hidrocarburos, tienen diferentes puntos de ebullición y densidad. -->
 - [x] B) Una mezcla homogénea (disolución) de muchos hidrocarburos diferentes, que se aprovecha separándolos por sus diferentes puntos de ebullición <!-- feedback: Correcto. Es una mezcla homogénea compleja. -->
 - [ ] C) Una mezcla heterogénea, porque contiene gas, líquido y sólido <!-- feedback: A temperatura ambiente es principalmente líquido. -->

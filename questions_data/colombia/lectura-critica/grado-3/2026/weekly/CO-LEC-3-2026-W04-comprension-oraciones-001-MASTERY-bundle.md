@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W04-comprension-oraciones-001-MASTERY"
+id: "CO-LEC-3-2026-W04-comprension-oraciones-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 4
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Comprensión de Oraciones
 
@@ -25,6 +30,7 @@ Este bundle evalúa la capacidad de comprender el sentido completo de oraciones 
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En el patio del colegio, un niño le dice a otro: "El **gato negro** salta sobre la cerca".
@@ -32,7 +38,7 @@ En el patio del colegio, un niño le dice a otro: "El **gato negro** salta sobre
 ### Enunciado
 ¿De qué color es el animal que menciona la oración?
 
-### Options
+### Opciones
 - [ ] A) Blanco <!-- feedback: Incorrecto. La oración dice claramente que el gato es de color negro. -->
 - [x] B) Negro <!-- feedback: ¡Correcto! La oración especifica que el gato es negro. -->
 - [ ] C) Gris <!-- feedback: Incorrecto. Aunque hay gatos grises, la oración menciona el color negro. -->
@@ -48,6 +54,7 @@ La comprensión literal de una oración implica identificar los adjetivos que ca
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 La profesora escribe en el tablero: "**Mariana y su mamá** compran flores en la plaza de mercado".
@@ -55,7 +62,7 @@ La profesora escribe en el tablero: "**Mariana y su mamá** compran flores en la
 ### Enunciado
 ¿Quiénes están realizando la acción en esta oración?
 
-### Options
+### Opciones
 - [ ] A) Solo Mariana <!-- feedback: Incorrecto. La oración dice "Mariana y su mamá", lo que indica que son dos personas. -->
 - [x] B) Mariana y su mamá <!-- feedback: ¡Correcto! El sujeto de la oración está compuesto por dos personas que realizan la acción juntas. -->
 - [ ] C) Solo la mamá <!-- feedback: Incorrecto. Mariana también está presente en la oración comprando flores. -->
@@ -71,6 +78,7 @@ Identificar el sujeto (quién realiza la acción) es fundamental para comprender
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Lees el siguiente aviso en la puerta de una casa: "**Cuidado con el perro**, es muy juguetón pero puede asustarte".
@@ -78,7 +86,7 @@ Lees el siguiente aviso en la puerta de una casa: "**Cuidado con el perro**, es 
 ### Enunciado
 ¿Qué nos está advirtiendo el aviso sobre el perro?
 
-### Options
+### Opciones
 - [ ] A) Que el perro es muy agresivo y muerde. <!-- feedback: Incorrecto. El aviso dice que es "juguetón", lo que sugiere que no tiene mala intención. -->
 - [ ] B) Que el perro está enfermo y no hay que tocarlo. <!-- feedback: Incorrecto. No se menciona nada sobre la salud del animal. -->
 - [x] C) Que aunque le gusta jugar, su comportamiento puede dar miedo. <!-- feedback: ¡Correcto! El aviso equilibra el hecho de ser juguetón con la posibilidad de asustar a las personas. -->
@@ -94,6 +102,7 @@ Comprender la intención comunicativa de un mensaje requiere ir más allá de la
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Ordena las siguientes palabras para formar una oración con sentido: **colombiano - delicioso - El - es - café**.
@@ -101,7 +110,7 @@ Ordena las siguientes palabras para formar una oración con sentido: **colombian
 ### Enunciado
 ¿Cuál es la forma correcta de organizar estas palabras?
 
-### Options
+### Opciones
 - [ ] A) Delicioso café es el colombiano. <!-- feedback: Incorrecto. Aunque se entiende, no sigue el orden más natural del español (Sujeto + Verbo + Complemento). -->
 - [x] B) El café colombiano es delicioso. <!-- feedback: ¡Correcto! Esta oración tiene una estructura clara: Sujeto (El café colombiano) + Verbo (es) + Adjetivo (delicioso). -->
 - [ ] C) Colombiano café el es delicioso. <!-- feedback: Incorrecto. El artículo "el" debe ir antes del sustantivo "café" para que suene bien. -->
@@ -117,6 +126,7 @@ La sintaxis es el orden lógico de las palabras. Al organizar la oración, el es
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Observa la siguiente oración incompleta: "Los estudiantes de tercero __________ un baile típico de Colombia para la fiesta del colegio".
@@ -124,7 +134,7 @@ Observa la siguiente oración incompleta: "Los estudiantes de tercero __________
 ### Enunciado
 ¿Cuál es la palabra que completa mejor la oración para que tenga sentido?
 
-### Options
+### Opciones
 - [ ] A) escriben <!-- feedback: Incorrecto. Un baile no se escribe, se realiza o se practica. -->
 - [x] B) ensayan <!-- feedback: ¡Correcto! "Ensayan" es la acción lógica que hacen los estudiantes antes de una presentación de baile. -->
 - [ ] C) comen <!-- feedback: Incorrecto. No se puede "comer" un baile. -->
@@ -140,6 +150,7 @@ El uso de verbos adecuados al contexto es esencial para la coherencia. El estudi
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Lee esta oración: "**A pesar de la lluvia**, los niños salieron a jugar fútbol al parque".
@@ -147,7 +158,7 @@ Lee esta oración: "**A pesar de la lluvia**, los niños salieron a jugar fútbo
 ### Enunciado
 ¿Qué nos indica la expresión resaltada en negrita "**A pesar de la lluvia**"?
 
-### Options
+### Opciones
 - [ ] A) Que los niños no salieron porque estaba lloviendo. <!-- feedback: Incorrecto. La oración dice que sí salieron. -->
 - [x] B) Que la lluvia no detuvo a los niños para ir a jugar. <!-- feedback: ¡Correcto! La expresión indica que hubo un obstáculo (la lluvia), pero la acción se realizó de todos modos. -->
 - [ ] C) Que los niños prefieren jugar cuando llueve. <!-- feedback: Incorrecto. La oración no habla de preferencias, sino de un hecho que ocurrió aunque llovía. -->
@@ -163,6 +174,7 @@ Comprender conectores adversativos y concesivos básicos (como "a pesar de") per
 **Bloom:** Analyze
 **ICFES:** Sintáctico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Analiza la siguiente pareja de oraciones:
@@ -172,7 +184,7 @@ Analiza la siguiente pareja de oraciones:
 ### Enunciado
 ¿Qué podemos decir sobre el significado de estas dos oraciones?
 
-### Options
+### Opciones
 - [ ] A) Significan cosas totalmente diferentes. <!-- feedback: Incorrecto. En ambas oraciones la acción de llamar la hace Juan y la recibe su hermana. -->
 - [x] B) Dicen lo mismo, pero de forma diferente. <!-- feedback: ¡Correcto! La primera está en voz activa y la segunda en voz pasiva, pero el mensaje es el mismo. -->
 - [ ] C) En la segunda oración, la hermana es la que llama. <!-- feedback: Incorrecto. La oración dice "por Juan", lo que indica que él sigue siendo quien llama. -->
@@ -188,6 +200,7 @@ Reconocer la equivalencia semántica entre diferentes estructuras sintácticas (
 **Bloom:** Evaluate
 **ICFES:** Pragmático
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un niño le pregunta a su papá: "¿Podemos ir mañana a cine?". El papá responde: "**Si terminas toda tu tarea hoy**, iremos".
@@ -195,7 +208,7 @@ Un niño le pregunta a su papá: "¿Podemos ir mañana a cine?". El papá respon
 ### Enunciado
 ¿Cuál es la **condición** que pone el papá para ir al cine?
 
-### Options
+### Opciones
 - [ ] A) Que mañana sea un día bonito. <!-- feedback: Incorrecto. El papá no menciona el clima en su respuesta. -->
 - [ ] B) Que el niño se levante temprano. <!-- feedback: Incorrecto. No se habla de la hora de levantarse. -->
 - [x] C) Que el niño finalice sus deberes escolares hoy mismo. <!-- feedback: ¡Correcto! La palabra "Si" introduce una condición necesaria: terminar la tarea para obtener la recompensa. -->

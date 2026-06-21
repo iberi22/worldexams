@@ -1,28 +1,32 @@
 ---
-id: "CO-LEN-6-2026-W22-palabras-homofonas-001-MASTERY"
+id: "CO-LEN-6-2026-W22-palabras-homofonas-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lengua"
 tema: "palabras-homofonas"
-semana: "W22"
+week: "W22"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Palabras Homófonas - Grado 6
 ## Semana W22
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEN-6-2026-W22-palabras-homofonas-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio Santa Rosa de Lima de Bogotá, la profesora Elena introduce el tema de palabras homófonas.
+**Contexto:** En el Colegio Santa Rosa de Lima de Bogotá, la profesora Elena introduce el tema de palabras homófonas.
 **Expected_Success:** 0.86
 
 ### Enunciado
@@ -39,11 +43,11 @@ Las palabras homófonas son aquellas que se pronuncian igual pero se escriben de
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEN-6-2026-W22-palabras-homofonas-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En la I.E. José Antonio Galán de Barrancabermeja, clasifican las palabras homófonas más comunes.
+**Contexto:** En la I.E. José Antonio Galán de Barrancabermeja, clasifican las palabras homófonas más comunes.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -60,11 +64,11 @@ Las palabras homófonas son aquellas que se pronuncian igual pero se escriben de
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEN-6-2026-W22-palabras-homofonas-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio San Francisco de Asís de Pasto, los estudiantes identifican homófonas en un texto.
+**Contexto:** En el Colegio San Francisco de Asís de Pasto, los estudiantes identifican homófonas en un texto.
 **Expected_Success:** 0.79
 
 ### Enunciado
@@ -81,11 +85,11 @@ La confusión entre B y V es la causa más común de errores ortográficos en es
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEN-6-2026-W22-palabras-homofonas-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En la I.E. Liceo Nacional de Bucaramanga, los estudiantes completan oraciones con la homófona correcta.
+**Contexto:** En la I.E. Liceo Nacional de Bucaramanga, los estudiantes completan oraciones con la homófona correcta.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -103,11 +107,11 @@ Selecciona la palabra correcta para completar la oración: "El profesor pidió q
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEN-6-2026-W22-palabras-homofonas-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Nuestra Señora del Carmen de Aguachica, los estudiantes analizan un texto con errores de homófonas.
+**Contexto:** En el Colegio Nuestra Señora del Carmen de Aguachica, los estudiantes analizan un texto con errores de homófonas.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -125,11 +129,11 @@ Un estudiante escribió: "El tubo una idea muy buena para el proyecto de ciencia
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LEN-6-2026-W22-palabras-homofonas-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En la Institución Educativa Inem de Pasto, los estudiantes aprenden las diferencias entre homófonas con H.
+**Contexto:** En la Institución Educativa Inem de Pasto, los estudiantes aprenden las diferencias entre homófonas con H.
 **Expected_Success:** 0.71
 
 ### Enunciado
@@ -146,11 +150,11 @@ Un estudiante escribió: "El tubo una idea muy buena para el proyecto de ciencia
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LEN-6-2026-W22-palabras-homofonas-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En el Colegio José María Córdoba de Popayán, los estudiantes corrigen errores de homófonas en un texto.
+**Contexto:** En el Colegio José María Córdoba de Popayán, los estudiantes corrigen errores de homófonas en un texto.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -171,11 +175,11 @@ Las cuatro palabras homófonas "haya", "halla", "allá" y "aya" son un desafío 
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEN-6-2026-W22-palabras-homofonas-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. Santa Teresita de Sincelejo, los estudiantes analizan un poema que usa homófonas intencionalmente.
+**Contexto:** En la I.E. Santa Teresita de Sincelejo, los estudiantes analizan un poema que usa homófonas intencionalmente.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -192,11 +196,11 @@ Las tildes diacríticas diferencian palabras que se escriben igual pero tienen f
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEN-6-2026-W22-palabras-homofonas-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio San Carlos de Bogotá, los estudiantes discuten por qué es importante distinguir las homófonas.
+**Contexto:** En el Colegio San Carlos de Bogotá, los estudiantes discuten por qué es importante distinguir las homófonas.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -213,11 +217,11 @@ La ortografía no es un adorno: es una herramienta de precisión comunicativa. U
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEN-6-2026-W22-palabras-homofonas-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio Comfamiliar de Sincelejo, los estudiantes crean una guía práctica de homófonas.
+**Contexto:** En el Colegio Comfamiliar de Sincelejo, los estudiantes crean una guía práctica de homófonas.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -226,7 +230,7 @@ Debes crear un cartel informativo para ayudar a tus compañeros a recordar la di
 ### Opciones
 - [ ] A) Un texto largo explicando el origen etimológico de cada forma. <!-- feedback: Incorrecto. Demasiado técnico para un cartel informativo de ayuda rápida. -->
 - [ ] B) Una lista sin explicaciones: "porqué, porque, por qué, por que". <!-- feedback: Incorrecto. No ofrece ayuda práctica para distinguirlos. -->
-- [x] C) Un cartel dividido en cuatro secciones con ejemplos claros:
+- [x] C) Un cartel dividido en cuatro secciones con ejemplos claros: <!-- feedback: Correcto! Un cartel dividido en cuatro secciones con ejemplos claros: -->
 **PORQUÉ** (sustantivo, lleva tilde): "No entiendo el porqué de tu enojo." = "la razón"
 **PORQUE** (conjunción causal, sin tilde): "Llegué tarde porque había tráfico." = "ya que"
 **POR QUÉ** (preposición + interrogativo, tilde): "¿Por qué no viniste?" = "con qué motivo"

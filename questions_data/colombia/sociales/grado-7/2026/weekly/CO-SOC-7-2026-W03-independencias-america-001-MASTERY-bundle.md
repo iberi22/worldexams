@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W03-independencias-america-001-MASTERY"
+id: "CO-SOC-7-2026-W03-independencias-america-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales"
 tema: "independencias-america"
-semana: "W03"
+week: "W03"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Independencias de América - Grado 7
 ## Semana W03 — Causas, desarrollo y consecuencias de la independencia
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W03-independencias-america-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de Sociales del Colegio La Salle de Bogotá, el profesor pregunta cuándo comenzaron los movimientos de independencia en América Latina.
+**Contexto:** En la clase de Sociales del Colegio La Salle de Bogotá, el profesor pregunta cuándo comenzaron los movimientos de independencia en América Latina.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La mayoría de los procesos de independencia en América Latina ocurrieron entre
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-SOC-7-2026-W03-independencias-america-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** María repasa las causas de la independencia para su examen en Medellín.
+**Contexto:** María repasa las causas de la independencia para su examen en Medellín.
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -60,11 +64,11 @@ Las causas de la independencia se dividen en externas e internas. Causas EXTERNA
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-SOC-7-2026-W03-independencias-america-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Carlos pregunta en clase de Cali: "¿Por qué los criollos lideraron la independencia y no los indígenas o esclavos?"
+**Contexto:** Carlos pregunta en clase de Cali: "¿Por qué los criollos lideraron la independencia y no los indígenas o esclavos?"
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -81,11 +85,11 @@ Los criollos (hijos de españoles nacidos en América) eran un grupo social con 
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-SOC-7-2026-W03-independencias-america-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Laura estudia el papel de Simón Bolívar en la independencia de Colombia en el colegio de Barranquilla.
+**Contexto:** Laura estudia el papel de Simón Bolívar en la independencia de Colombia en el colegio de Barranquilla.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -102,11 +106,11 @@ La Batalla de Boyacá (7 de agosto de 1819) fue el enfrentamiento decisivo que a
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-SOC-7-2026-W03-independencias-america-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Andrés compara los procesos de independencia de Colombia y Estados Unidos en el colegio de Cartagena.
+**Contexto:** Andrés compara los procesos de independencia de Colombia y Estados Unidos en el colegio de Cartagena.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -123,11 +127,11 @@ Aunque ambos procesos compartieron influencias ilustradas, hubo diferencias clav
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-SOC-7-2026-W03-independencias-america-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
-**Context:** Santiago debe explicar el concepto de "Patria Boba" en su clase de Bucaramanga.
+**Contexto:** Santiago debe explicar el concepto de "Patria Boba" en su clase de Bucaramanga.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -144,11 +148,11 @@ La "Patria Boba" (1811-1816) fue el período posterior a la declaración de inde
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-SOC-7-2026-W03-independencias-america-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Valentina analiza el papel de Francisco de Paula Santander en la independencia. Su clase es en Pereira.
+**Contexto:** Valentina analiza el papel de Francisco de Paula Santander en la independencia. Su clase es en Pereira.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -165,11 +169,11 @@ Francisco de Paula Santander fue un líder militar y político clave en la indep
 
 ---
 
-## Pregunta 8 [D6]
+## Question 8 [D6]
 **ID:** `CO-SOC-7-2026-W03-independencias-america-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Camila compara el proyecto de la Gran Colombia con las repúblicas independientes que surgieron después.
+**Contexto:** Camila compara el proyecto de la Gran Colombia con las repúblicas independientes que surgieron después.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -186,11 +190,11 @@ La Gran Colombia fue creada por Simón Bolívar en el Congreso de Angostura (181
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-SOC-7-2026-W03-independencias-america-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Sebastián argumenta en clase de Ibagué que la independencia no cambió la estructura social de Colombia.
+**Contexto:** Sebastián argumenta en clase de Ibagué que la independencia no cambió la estructura social de Colombia.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ La independencia cambió el sistema político (de monarquía a república) pero 
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W03-independencias-america-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Isabella analiza por qué el Grito de Independencia del 20 de julio de 1810 es una fecha clave pero no el inicio real de la independencia.
+**Contexto:** Isabella analiza por qué el Grito de Independencia del 20 de julio de 1810 es una fecha clave pero no el inicio real de la independencia.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -228,11 +232,11 @@ El 20 de julio de 1810 fue el día del "Grito de Independencia": se creó una Ju
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-SOC-7-2026-W03-independencias-america-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Daniel compara los roles de José de San Martín y Simón Bolívar en las independencias suramericanas.
+**Contexto:** Daniel compara los roles de José de San Martín y Simón Bolívar en las independencias suramericanas.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -249,11 +253,11 @@ José de San Martín lideró las independencias del sur: Argentina (declarada en
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W03-independencias-america-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el colegio de Sincelejo, el profesor pregunta si las independencias realmente mejoraron la vida de los ciudadanos comunes.
+**Contexto:** En el colegio de Sincelejo, el profesor pregunta si las independencias realmente mejoraron la vida de los ciudadanos comunes.
 **Expected_Success:** 0.42
 
 ### Enunciado

@@ -1,5 +1,5 @@
 ---
-id: "COL-SOC-CIU-4-2026-W14-autoridades-municipales-alcalde-y-concejo-001-MASTERY"
+id: "COL-SOC-CIU-4-2026-W14-autoridades-municipales-alcalde-y-concejo-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Autoridades del municipio colombiano: el alcalde y el concejo 
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Autoridades municipales (alcalde y concejo)
 
@@ -30,15 +35,15 @@ Este bundle se enfoca en las autoridades del municipio colombiano: el alcalde co
 ## Question 1 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W14-autoridades-municipales-alcalde-y-concejo-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En Sincelejo explican autoridades municipales.
+**Contexto:** En Sincelejo explican autoridades municipales.
 
 ### Enunciado
 ¿Quién es la máxima autoridad del municipio?
 
-### Options
-
+### Opciones
 - [x] A) El alcalde. <!-- feedback: El alcalde es la máxima autoridad municipal. -->
 - [ ] B) El gobernador. <!-- feedback: Autoridad departamental. -->
 - [ ] C) El presidente. <!-- feedback: Autoridad nacional. -->
@@ -52,15 +57,15 @@ Se evalúa [Remember].
 ## Question 2 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W14-autoridades-municipales-alcalde-y-concejo-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Preguntan sobre el concejo municipal.
+**Contexto:** Preguntan sobre el concejo municipal.
 
 ### Enunciado
 ¿Qué es el concejo municipal?
 
-### Options
-
+### Opciones
 - [ ] A) Un grupo de amigos del alcalde. <!-- feedback: Es oficial. -->
 - [x] B) Corporación de elección popular que expide acuerdos. <!-- feedback: El concejo legisla y controla al alcalde. -->
 - [ ] C) Oficina del gobierno nacional. <!-- feedback: Es municipal. -->
@@ -74,15 +79,15 @@ Se evalúa [Remember].
 ## Question 3 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W14-autoridades-municipales-alcalde-y-concejo-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Analizan funciones del alcalde.
+**Contexto:** Analizan funciones del alcalde.
 
 ### Enunciado
 ¿Cuál es función del alcalde?
 
-### Options
-
+### Opciones
 - [ ] A) Juzgar infractores. <!-- feedback: Función de jueces. -->
 - [ ] B) Hacer leyes nacionales. <!-- feedback: Función del Congreso. -->
 - [x] C) Administrar recursos y garantizar servicios públicos. <!-- feedback: El alcalde es administrador del municipio. -->
@@ -96,15 +101,15 @@ Se evalúa [Understand].
 ## Question 4 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W14-autoridades-municipales-alcalde-y-concejo-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Reflexionan sobre el concejo.
+**Contexto:** Reflexionan sobre el concejo.
 
 ### Enunciado
 ¿Para qué sirve el concejo municipal?
 
-### Options
-
+### Opciones
 - [ ] A) Juzgar delitos. <!-- feedback: Función judicial. -->
 - [ ] B) Elegir al Presidente. <!-- feedback: Es nacional. -->
 - [ ] C) Administrar hospitales. <!-- feedback: Función del alcalde. -->
@@ -118,15 +123,15 @@ Se evalúa [Understand].
 ## Question 5 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W14-autoridades-municipales-alcalde-y-concejo-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Simulan reunión del concejo.
+**Contexto:** Simulan reunión del concejo.
 
 ### Enunciado
 Si el concejo quiere mejorar alumbrado público:
 
-### Options
-
+### Opciones
 - [x] A) Expedir acuerdo que autorice gasto y el alcalde lo ejecuta. <!-- feedback: El concejo expide acuerdos, el alcalde ejecuta. -->
 - [ ] B) Pedirle al Presidente. <!-- feedback: Asunto local. -->
 - [ ] C) Que vecinos paguen. <!-- feedback: Debe haber proceso legal. -->
@@ -140,15 +145,15 @@ Se evalúa [Apply].
 ## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W14-autoridades-municipales-alcalde-y-concejo-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Analizan elección del alcalde.
+**Contexto:** Analizan elección del alcalde.
 
 ### Enunciado
 ¿Cómo se elige al alcalde?
 
-### Options
-
+### Opciones
 - [ ] A) Lo nombra el gobernador. <!-- feedback: El gobernador no nombra alcaldes. -->
 - [x] B) Por voto popular cada cuatro años. <!-- feedback: El alcalde se elige por votación popular. -->
 - [ ] C) Lo elige el concejo. <!-- feedback: Lo elige el pueblo. -->
@@ -162,15 +167,15 @@ Se evalúa [Apply].
 ## Question 7 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W14-autoridades-municipales-alcalde-y-concejo-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Analizan relación alcalde-concejo.
+**Contexto:** Analizan relación alcalde-concejo.
 
 ### Enunciado
 ¿Qué relación existe entre alcalde y concejo?
 
-### Options
-
+### Opciones
 - [ ] A) El concejo obedece al alcalde. <!-- feedback: Es independiente. -->
 - [ ] B) El alcalde obedece al concejo. <!-- feedback: Cada uno tiene sus funciones. -->
 - [x] C) El alcalde ejecuta y el concejo controla y expide normas. <!-- feedback: Hay equilibrio de poderes local. -->
@@ -184,15 +189,15 @@ Se evalúa [Analyze].
 ## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W14-autoridades-municipales-alcalde-y-concejo-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Comparan autoridades locales.
+**Contexto:** Comparan autoridades locales.
 
 ### Enunciado
 ¿En qué se parecen alcalde y gobernador?
 
-### Options
-
+### Opciones
 - [ ] A) Ambos los nombra el Presidente. <!-- feedback: No. -->
 - [ ] B) Ambos hacen leyes nacionales. <!-- feedback: No. -->
 - [ ] C) Ambos son jueces. <!-- feedback: No. -->
@@ -206,15 +211,15 @@ Se evalúa [Analyze].
 ## Question 9 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W14-autoridades-municipales-alcalde-y-concejo-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Evalúan importancia del concejo.
+**Contexto:** Evalúan importancia del concejo.
 
 ### Enunciado
 ¿Por qué es importante el concejo municipal?
 
-### Options
-
+### Opciones
 - [x] A) Para equilibrar el poder del alcalde y representar a la comunidad. <!-- feedback: El concejo es contrapeso del alcalde. -->
 - [ ] B) El alcalde no puede solo. <!-- feedback: Sí puede, pero el control es importante. -->
 - [ ] C) Para más empleados. <!-- feedback: No es el propósito. -->
@@ -229,14 +234,14 @@ Se evalúa [Evaluate].
 
 **ID:** `COL-SOC-CIU-4-2026-W14-autoridades-municipales-alcalde-y-concejo-001-MASTERY-v10`
 **Bloom:** [Create]
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Proponen solución municipal.
+**Contexto:** Proponen solución municipal.
 
 ### Enunciado
 Si fueras concejal y el parque está abandonado, ¿qué haces?
 
-### Options
-
+### Opciones
 - [ ] A) Cerrar el parque. <!-- feedback: No soluciona. -->
 - [x] B) Presentar proyecto de acuerdo para recuperarlo con presupuesto. <!-- feedback: Propuesta legislativa es la vía correcta. -->
 - [ ] C) Que los vecinos paguen. <!-- feedback: Presupuesto debe cubrirlo. -->

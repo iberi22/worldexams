@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W34-publicidad-001-MASTERY"
+id: "CO-LC-7-2026-W34-publicidad-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "publicidad"
-semana: "W34"
+week: "W34"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Publicidad - Grado 7
 ## Semana W34 — Análisis crítico del discurso publicitario comercial en Colombia
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W34-publicidad-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En clase de Lectura Crítica, se analiza un comercial de televisión de una marca colombiana de arepas que dice: "Arepas Ricas: el sabor de nuestra tierra".
+**Contexto:** En clase de Lectura Crítica, se analiza un comercial de televisión de una marca colombiana de arepas que dice: "Arepas Ricas: el sabor de nuestra tierra".
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La publicidad comercial tiene un propósito fundamental: persuadir a la audienci
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W34-publicidad-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión del sentido global
-**Context:** Un anuncio de una aerolínea low-cost colombiana muestra: pasajes desde $49.000 y en letra pequeña: "Aplican restricciones. Impuestos no incluidos. Sujeto a disponibilidad."
+**Contexto:** Un anuncio de una aerolínea low-cost colombiana muestra: pasajes desde $49.000 y en letra pequeña: "Aplican restricciones. Impuestos no incluidos. Sujeto a disponibilidad."
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -60,11 +64,11 @@ La relación entre el mensaje principal y la letra pequeña es un aspecto críti
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W34-publicidad-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Configuración textual
-**Context:** Un anuncio de jugos Hit muestra a un niño sonriente bebiendo el producto. El texto dice: "Hit: la energía natural que tus hijos necesitan".
+**Contexto:** Un anuncio de jugos Hit muestra a un niño sonriente bebiendo el producto. El texto dice: "Hit: la energía natural que tus hijos necesitan".
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -81,11 +85,11 @@ La publicidad de alimentos dirigida a familias usa frecuentemente imágenes de n
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W34-publicidad-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Dimensión inferencial
-**Context:** Un comercial de una marca de champú muestra a una modelo famosa colombiana diciendo: "Yo uso Champú Brillo y mi cabello luce espectacular".
+**Contexto:** Un comercial de una marca de champú muestra a una modelo famosa colombiana diciendo: "Yo uso Champú Brillo y mi cabello luce espectacular".
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -102,11 +106,11 @@ El "testimonio de celebridad" es una técnica publicitaria clásica que transfie
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W34-publicidad-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Dimensión inferencial
-**Context:** Un anuncio de gaseosa Postobón dice: "Todavía no es Colombia sin una Postobón". La imagen muestra una familia reunida alrededor de la mesa con la botella en el centro.
+**Contexto:** Un anuncio de gaseosa Postobón dice: "Todavía no es Colombia sin una Postobón". La imagen muestra una familia reunida alrededor de la mesa con la botella en el centro.
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -123,11 +127,11 @@ La técnica de "identidad nacional" asocia el producto con símbolos patrios o c
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W34-publicidad-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Dimensión inferencial
-**Context:** Una propaganda política dice "Unidos venceremos la corrupción". Una publicidad de un banco dice "Unidos haremos crecer tu dinero".
+**Contexto:** Una propaganda política dice "Unidos venceremos la corrupción". Una publicidad de un banco dice "Unidos haremos crecer tu dinero".
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -144,11 +148,11 @@ Aunque propaganda y publicidad comparten técnicas persuasivas, su finalidad es 
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W34-publicidad-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Configuración textual
-**Context:** Un anuncio impreso de una marca de ropa deportiva muestra: 1) un deportista en acción, 2) el logo grande de la marca, 3) el texto "Rendimiento sin límites", 4) el precio pequeño en la esquina inferior derecha.
+**Contexto:** Un anuncio impreso de una marca de ropa deportiva muestra: 1) un deportista en acción, 2) el logo grande de la marca, 3) el texto "Rendimiento sin límites", 4) el precio pequeño en la esquina inferior derecha.
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -165,11 +169,11 @@ El diseño de un anuncio publicitario no es casual: cada elemento tiene una ubic
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W34-publicidad-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Dimensión inferencial
-**Context:** Una influencer colombiana publica en Instagram una foto usando un bloqueador solar con el texto: "#patrocinado por SolCare, mi bloqueador favorito". La foto tiene 50.000 likes.
+**Contexto:** Una influencer colombiana publica en Instagram una foto usando un bloqueador solar con el texto: "#patrocinado por SolCare, mi bloqueador favorito". La foto tiene 50.000 likes.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -186,11 +190,11 @@ La publicidad en redes sociales ha creado una nueva forma de persuasión: el mar
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W34-publicidad-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** Un anuncio de TV de una marca de cereales dice: "Parte de un desayuno balanceado". La imagen muestra el cereal con frutas y leche. No menciona que el cereal tiene 12 gramos de azúcar por porción.
+**Contexto:** Un anuncio de TV de una marca de cereales dice: "Parte de un desayuno balanceado". La imagen muestra el cereal con frutas y leche. No menciona que el cereal tiene 12 gramos de azúcar por porción.
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -207,11 +211,11 @@ La publicidad engañosa no siempre miente abiertamente; a menudo omite informaci
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W34-publicidad-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** En redes sociales, un anuncio dirigido a adolescentes dice: "Todos los genios usan SmartWatch Z. ¿Tú qué esperas?" El reloj cuesta $850.000.
+**Contexto:** En redes sociales, un anuncio dirigido a adolescentes dice: "Todos los genios usan SmartWatch Z. ¿Tú qué esperas?" El reloj cuesta $850.000.
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ La publicidad dirigida a adolescentes requiere un análisis ético especial porq
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W34-publicidad-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** Un anuncio de una app de aprendizaje de inglés muestra la imagen de una persona sosteniendo un título universitario, con el texto: "Aprende inglés en 3 meses. Garantizado o te devolvemos tu dinero".
+**Contexto:** Un anuncio de una app de aprendizaje de inglés muestra la imagen de una persona sosteniendo un título universitario, con el texto: "Aprende inglés en 3 meses. Garantizado o te devolvemos tu dinero".
 **Expected_Success:** 0.40
 
 ### Enunciado
@@ -249,11 +253,11 @@ La publicidad de productos educativos y de desarrollo personal requiere especial
 
 ---
 
-## Pregunta 12 [D9-D10]
+## Question 12 [D9-D10]
 **ID:** `CO-LC-7-2026-W34-publicidad-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Reflexión sobre el contenido
-**Context:** El Consejo Estudiantil del Colegio Alfonso López de Barrancabermeja quiere crear una campaña de "contrapublicidad" que critique el consumo excesivo de bebidas azucaradas en la cafetería escolar.
+**Contexto:** El Consejo Estudiantil del Colegio Alfonso López de Barrancabermeja quiere crear una campaña de "contrapublicidad" que critique el consumo excesivo de bebidas azucaradas en la cafetería escolar.
 **Expected_Success:** 0.36
 
 ### Enunciado

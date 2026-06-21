@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-7-2026-W15-tema-semana-15-de-lectura-critica-001-MASTERY"
+id: "CO-LEC-7-2026-W15-tema-semana-15-de-lectura-critica-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 12
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 12
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W15 — Tema Semana 15 de Lectura Critica
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Pereira
+**Contexto:** Gimnasio Moderno en Pereira
 **Expected_Success:** 0.56
 
 ### Enunciado
 En la clase de Lectura Critica del Gimnasio Moderno en Pereira, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 15 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 15 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** I.E. Francisco de Paula Santander en Quibdó
+**Contexto:** I.E. Francisco de Paula Santander en Quibdó
 **Expected_Success:** 0.79
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Quibdó, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 15 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 15 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. Jorge Eliécer Gaitán en Riohacha
+**Contexto:** I.E. Jorge Eliécer Gaitán en Riohacha
 **Expected_Success:** 0.57
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Jorge Eliécer Gaitán en Riohacha, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 15 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 15 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** Gimnasio Moderno en Pasto
+**Contexto:** Gimnasio Moderno en Pasto
 **Expected_Success:** 0.79
 
 ### Enunciado
 En la clase de Lectura Critica del Gimnasio Moderno en Pasto, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 15 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 15 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Quibdó
+**Contexto:** I.E. Santa Luisa de Marillac en Quibdó
 **Expected_Success:** 0.56
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Quibdó, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 15 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 15 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Cali
+**Contexto:** I.E. Gabriel García Márquez en Cali
 **Expected_Success:** 0.65
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Gabriel García Márquez en Cali, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 15 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 15 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** I.E. San José en Manizales
+**Contexto:** I.E. San José en Manizales
 **Expected_Success:** 0.55
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. San José en Manizales, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 15 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 15 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Sincelejo
+**Contexto:** Gimnasio Moderno en Sincelejo
 **Expected_Success:** 0.56
 
 ### Enunciado
 En la clase de Lectura Critica del Gimnasio Moderno en Sincelejo, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 15 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 15 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Neiva
+**Contexto:** I.E. Jorge Eliécer Gaitán en Neiva
 **Expected_Success:** 0.71
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Jorge Eliécer Gaitán en Neiva, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 15 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 15 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Neiva
+**Contexto:** I.E. Santa Luisa de Marillac en Neiva
 **Expected_Success:** 0.52
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Neiva, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 15 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -244,13 +249,13 @@ El tema de Tema Semana 15 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. Gabriel García Márquez en Cúcuta
+**Contexto:** I.E. Gabriel García Márquez en Cúcuta
 **Expected_Success:** 0.70
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Gabriel García Márquez en Cúcuta, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 15 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -266,13 +271,13 @@ El tema de Tema Semana 15 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. Santa Luisa de Marillac en Quibdó
+**Contexto:** I.E. Santa Luisa de Marillac en Quibdó
 **Expected_Success:** 0.72
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Quibdó, se discute sobre Tema Semana 15 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 15 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 15 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

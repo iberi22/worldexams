@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-8-2026-P1-edad-media-civilizaciones-001-MASTERY"
+id: "CO-SOC-8-2026-P1-edad-media-civilizaciones-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "edad_media, feudalismo, imperio_bizantino, islam, cruzadas, edad_media_europa, baja_edad_media"
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Edad Media y Civilizaciones Medievales
 
@@ -24,17 +31,17 @@ Este bundle cubre la Edad Media europea: el feudalismo, el Imperio Bizantino, el
 
 ---
 
-## Question 1
-
+## Question 1 [D1]
 **ID:** `CO-SOC-8-2026-P1-edad-media-civilizaciones-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Entre qué siglos se desarrolló la Edad Media en Europa?
 
-### Options
+### Opciones
 - [ ] A) Entre el siglo V a.C. y el siglo I a.C. <!-- feedback: Incorrecto. Eso es la Edad Antigua clásica. -->
 - [x] B) Entre el siglo V (caída del Imperio Romano de Occidente, 476 d.C.) y el siglo XV (caída de Constantinopla, 1453) <!-- feedback: Correcto. La Edad Media duró aproximadamente 1000 años. -->
 - [ ] C) Entre el siglo XVI y el siglo XVIII <!-- feedback: Incorrecto. Eso es la Edad Moderna. -->
@@ -45,17 +52,17 @@ La Edad Media comenzó con la caída del Imperio Romano de Occidente (476 d.C.) 
 
 ---
 
-## Question 2
-
+## Question 2 [D1]
 **ID:** `CO-SOC-8-2026-P1-edad-media-civilizaciones-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue el feudalismo?
 
-### Options
+### Opciones
 - [ ] A) Un sistema de gobierno donde el rey tenía todo el poder absoluto <!-- feedback: Incorrecto. El poder estaba descentralizado. -->
 - [x] B) Un sistema político, económico y social basado en relaciones de vasallaje entre señores y siervos, donde la tierra era la principal fuente de riqueza y poder <!-- feedback: Correcto. El feudalismo definió la organización social medieval. -->
 - [ ] C) Un sistema de comercio marítimo entre Europa y Asia <!-- feedback: Incorrecto. El feudalismo era un sistema de organización rural. -->
@@ -66,17 +73,17 @@ En el feudalismo, el rey entregaba tierras (feudos) a los nobles a cambio de lea
 
 ---
 
-## Question 3
-
+## Question 3 [D1]
 **ID:** `CO-SOC-8-2026-P1-edad-media-civilizaciones-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué papel jugó la Iglesia Católica durante la Edad Media?
 
-### Options
+### Opciones
 - [ ] A) Era irrelevante y no tenía influencia en la sociedad <!-- feedback: Incorrecto. La Iglesia era la institución más poderosa. -->
 - [ ] B) Solo se dedicaba a actividades caritativas sin poder político <!-- feedback: Incorrecto. Tenía enorme poder político y económico. -->
 - [x] C) Era la institución más importante: controlaba la educación, poseía grandes extensiones de tierra, influía en las decisiones políticas y era el principal centro cultural <!-- feedback: Correcto. La Iglesia católica fue el pilar de la sociedad medieval. -->
@@ -87,17 +94,17 @@ La Iglesia católica era la única institución que unificaba a toda Europa medi
 
 ---
 
-## Question 4
-
+## Question 4 [D1]
 **ID:** `CO-SOC-8-2026-P1-edad-media-civilizaciones-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue el Imperio Bizantino y dónde estaba ubicado?
 
-### Options
+### Opciones
 - [ ] A) Un imperio indígena en América del Sur <!-- feedback: Incorrecto. Bizancio estaba en Eurasia. -->
 - [ ] B) La parte occidental del Imperio Romano que sobrevivió hasta el siglo V <!-- feedback: Incorrecto. La parte occidental cayó en 476. -->
 - [x] C) La parte oriental del Imperio Romano que continuó existiendo hasta 1453, con capital en Constantinopla (actual Estambul) <!-- feedback: Correcto. El Imperio Bizantino preservó la cultura grecorromana. -->
@@ -108,17 +115,17 @@ El Imperio Bizantino preservó y transmitió la herencia griega y romana durante
 
 ---
 
-## Question 5
-
+## Question 5 [D1]
 **ID:** `CO-SOC-8-2026-P1-edad-media-civilizaciones-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue el Islam y cómo surgió?
 
-### Options
+### Opciones
 - [ ] A) Una religión politeísta que surgió en Europa en el siglo XV <!-- feedback: Incorrecto. El Islam es monoteísta y surgió en Arabia. -->
 - [ ] B) Un imperio africano que conquistó Europa <!-- feedback: Incorrecto. El Islam es una religión, no un imperio. -->
 - [x] C) Una religión monoteísta fundada por el profeta Mahoma en el siglo VII en la Península Arábiga, que se expandió rápidamente por Asia, África y Europa <!-- feedback: Correcto. El Islam transformó el mundo medieval. -->
@@ -129,17 +136,17 @@ El Islam surgió en el siglo VII en La Meca (actual Arabia Saudita). Después de
 
 ---
 
-## Question 6
-
+## Question 6 [D1]
 **ID:** `CO-SOC-8-2026-P1-edad-media-civilizaciones-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fueron las Cruzadas y cuál fue su propósito?
 
-### Options
+### Opciones
 - [ ] A) Expediciones comerciales entre Europa y América <!-- feedback: Incorrecto. No hubo contacto con América en la Edad Media. -->
 - [ ] B) Guerras entre reinos europeos por el control de territorios <!-- feedback: Incorrecto. Las Cruzadas tenían un objetivo religioso. -->
 - [x] C) Expediciones militares organizadas por la Iglesia católica europea para recuperar Tierra Santa (Jerusalén) del control musulmán (siglos XI-XIII) <!-- feedback: Correcto. Las Cruzadas fueron guerras religiosas con motivaciones políticas y económicas. -->
@@ -150,17 +157,17 @@ Las Cruzadas (1096-1291) fueron ocho expediciones militares principales. Aunque 
 
 ---
 
-## Question 7
-
+## Question 7 [D1]
 **ID:** `CO-SOC-8-2026-P1-edad-media-civilizaciones-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cómo se organizaba la economía en el sistema feudal?
 
-### Options
+### Opciones
 - [ ] A) A través del comercio internacional y las grandes empresas <!-- feedback: Incorrecto. El comercio era limitado. -->
 - [ ] B) Mediante un sistema monetario avanzado con bancos internacionales <!-- feedback: Incorrecto. La economía era predominantemente de subsistencia. -->
 - [x] C) La economía era principalmente agrícola y de subsistencia, organizada alrededor del feudo: los siervos trabajaban la tierra del señor a cambio de protección <!-- feedback: Correcto. La autosuficiencia era la norma en el feudo. -->
@@ -171,17 +178,17 @@ En el feudo medieval, todo lo necesario se producía localmente: el pan se molí
 
 ---
 
-## Question 8
-
+## Question 8 [D1]
 **ID:** `CO-SOC-8-2026-P1-edad-media-civilizaciones-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue la Peste Negra (1347-1351) y qué consecuencias tuvo?
 
-### Options
+### Opciones
 - [ ] A) Una guerra entre Francia e Inglaterra <!-- feedback: Incorrecto. Eso fue la Guerra de los Cien Años. -->
 - [ ] B) Una plaga de langostas que destruyó cultivos en África <!-- feedback: Incorrecto. Fue una epidemia humana. -->
 - [x] C) Una pandemia de peste bubónica que mató a aproximadamente un tercio de la población europea, causando una crisis demográfica, económica y social que transformó el feudalismo <!-- feedback: Correcto. La Peste Negra cambió el rumbo de la historia europea. -->
@@ -192,17 +199,17 @@ La Peste Negra fue una catástrofe demográfica sin precedentes. La muerte masiv
 
 ---
 
-## Question 9
-
+## Question 9 [D1]
 **ID:** `CO-SOC-8-2026-P1-edad-media-civilizaciones-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué papel jugó el mundo islámico en la preservación y transmisión del conocimiento durante la Edad Media?
 
-### Options
+### Opciones
 - [ ] A) No tuvo ningún papel; todo el conocimiento se preservó en Europa <!-- feedback: Incorrecto. Europa perdió gran parte del conocimiento clásico. -->
 - [ ] B) Los musulmanes destruyeron todo el conocimiento antiguo <!-- feedback: Incorrecto. Los musulmanes preservaron y desarrollaron el conocimiento. -->
 - [x] C) Los eruditos musulmanes tradujeron y preservaron obras griegas y romanas, hicieron avances en matemáticas, medicina, astronomía, química y filosofía, y transmitieron este conocimiento a Europa <!-- feedback: Correcto. El mundo islámico fue el puente del conocimiento hacia Europa. -->
@@ -213,17 +220,17 @@ Mientras Europa atravesaba la "Edad Oscura", el mundo islámico vivía su "Edad 
 
 ---
 
-## Question 10
-
+## Question 10 [D1]
 **ID:** `CO-SOC-8-2026-P1-edad-media-civilizaciones-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué importancia tuvieron las universidades medievales?
 
-### Options
+### Opciones
 - [ ] A) Fueron escuelas primarias para enseñar a leer a los campesinos <!-- feedback: Incorrecto. Las universidades eran instituciones de educación superior. -->
 - [ ] B) Eran instituciones exclusivamente religiosas sin influencia intelectual <!-- feedback: Incorrecto. Fueron centros de debate intelectual. -->
 - [x] C) Las universidades medievales (Bolonia, París, Oxford) formaron a clérigos, abogados y médicos, y se convirtieron en centros de debate filosófico y científico que sentaron las bases de la educación superior moderna <!-- feedback: Correcto. La universidad es una invención medieval. -->
@@ -234,17 +241,17 @@ Las primeras universidades europeas surgieron en los siglos XII y XIII. La Unive
 
 ---
 
-## Question 11
-
+## Question 11 [D1]
 **ID:** `CO-SOC-8-2026-P1-edad-media-civilizaciones-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué relación existe entre el feudalismo y el surgimiento de las lenguas romances (español, francés, italiano)?
 
-### Options
+### Opciones
 - [ ] A) No hay ninguna relación, las lenguas surgieron de forma independiente <!-- feedback: Incorrecto. Hay una relación directa. -->
 - [ ] B) Las lenguas romances fueron impuestas por los árabes en España <!-- feedback: Incorrecto. Surgieron del latín vulgar. -->
 - [x] C) Con la fragmentación del Imperio Romano y el aislamiento del sistema feudal, el latín vulgar evolucionó de manera diferente en cada región, dando origen a las lenguas romances <!-- feedback: Correcto. El feudalismo contribuyó a la diversificación lingüística. -->
@@ -255,17 +262,17 @@ Durante la Edad Media, el latín seguía siendo la lengua culta y eclesiástica,
 
 ---
 
-## Question 12
-
+## Question 12 [D1]
 **ID:** `CO-SOC-8-2026-P1-edad-media-civilizaciones-001-MASTERY-v12`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue la Baja Edad Media (siglos XI-XV) y qué cambios importantes trajo?
 
-### Options
+### Opciones
 - [ ] A) Un período de estancamiento total sin ningún cambio <!-- feedback: Incorrecto. Fue un período de grandes transformaciones. -->
 - [ ] B) El momento de máximo esplendor del feudalismo sin cambios <!-- feedback: Incorrecto. El feudalismo comenzó a declinar. -->
 - [x] C) Un período de grandes transformaciones: resurgimiento del comercio, crecimiento de las ciudades (burgos), aparición de la burguesía, crisis del feudalismo y surgimiento de las monarquías nacionales <!-- feedback: Correcto. La Baja Edad Media preparó el camino a la modernidad. -->
@@ -276,17 +283,17 @@ La Baja Edad Media fue una época de cambios profundos. El comercio resurgió, l
 
 ---
 
-## Question 13
-
+## Question 13 [D1]
 **ID:** `CO-SOC-8-2026-P1-edad-media-civilizaciones-001-MASTERY-v13`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cómo influyó el Imperio Bizantino en el desarrollo de Europa del Este y Rusia?
 
-### Options
+### Opciones
 - [ ] A) No tuvo ninguna influencia <!-- feedback: Incorrecto. La influencia fue enorme. -->
 - [ ] B) Bizancio conquistó y colonizó toda Europa del Este <!-- feedback: Incorrecto. Bizancio influyó cultural pero no colonizó la región. -->
 - [x] C) Bizancio difundió el cristianismo ortodoxo, el alfabeto cirílico (creado por los misioneros Cirilo y Metodio) y el derecho romano entre los pueblos eslavos <!-- feedback: Correcto. La herencia bizantina define a Rusia y Europa del Este. -->
@@ -297,17 +304,17 @@ El Imperio Bizantino evangelizó a los pueblos eslavos a través de los santos C
 
 ---
 
-## Question 14
-
+## Question 14 [D1]
 **ID:** `CO-SOC-8-2026-P1-edad-media-civilizaciones-001-MASTERY-v14`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.40
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Analiza: algunos historiadores llaman a la Edad Media "la Edad Oscura" (oscurantismo), mientras otros la consideran una época de grandes logros culturales, tecnológicos y sociales. ¿Cuál de estas visiones es más acertada?
 
-### Options
+### Opciones
 - [ ] A) La Edad Media fue completamente oscura y no hubo ningún progreso <!-- feedback: Incorrecto. Hubo avances importantes. -->
 - [ ] B) La Edad Media fue una época ideal, sin problemas ni conflictos <!-- feedback: Incorrecto. Tuvo graves problemas como la peste y la guerra. -->
 - [x] C) Ambas visiones son parciales: la Edad Media tuvo aspectos oscuros (peste, guerras, intolerancia religiosa) pero también logros importantes (universidades, catedrales góticas, preservación del conocimiento) <!-- feedback: Correcto. La historia no es en blanco y negro. -->
@@ -328,7 +335,7 @@ La visión de la Edad Media como "oscura" fue promovida por los humanistas del R
 ### Enunciado
 Analiza el siguiente dilema histórico: durante la Edad Media, mientras en Europa el feudalismo limitaba la movilidad social y el conocimiento estaba controlado por la Iglesia, el mundo islámico vivía una Edad de Oro con avances científicos y tolerancia relativa hacia otras religiones. Sin embargo, para el siglo XV, Europa comenzó su expansión (Renacimiento, exploraciones) mientras el mundo islámico iniciaba un declive relativo. ¿Qué factores explican este cambio histórico?
 
-### Options
+### Opciones
 - [ ] A) Los musulmanes se volvieron perezosos y dejaron de innovar <!-- feedback: Incorrecto. El declive tiene causas estructurales complejas. -->
 - [ ] B) La Edad Media nunca terminó realmente en el mundo islámico <!-- feedback: Incorrecto. Es una generalización simplista. -->
 - [x] C) Factores como el auge del comercio atlántico (que desplazó las rutas mediterráneas controladas por los musulmanes), la invención de la imprenta en Europa y las dinámicas políticas internas del mundo islámico contribuyeron a este cambio <!-- feedback: Correcto. El cambio de eje económico del Mediterráneo al Atlántico fue clave. -->

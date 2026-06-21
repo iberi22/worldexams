@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W33-cambios-fisicos-quimicos-001-MASTERY"
+id: "CO-CIE-6-2026-W33-cambios-fisicos-quimicos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W33 — Cambios Físicos y Químicos
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W33-cambios-fisicos-quimicos-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, estudiantes definen cambio físico.
+**Contexto:** En Bogotá, estudiantes definen cambio físico.
 
 ### Enunciado
 ¿Qué es un cambio físico?
 
-### Options
+### Opciones
 - [ ] A) Un cambio en el que se forman sustancias nuevas con propiedades diferentes <!-- feedback: Eso es un cambio químico. -->
 - [x] B) Un cambio en el que la materia altera su forma, estado o apariencia, pero su composición química sigue siendo la misma <!-- feedback: Correcto. No se crean nuevas sustancias. -->
 - [ ] C) Un cambio que solo ocurre a altas temperaturas <!-- feedback: Los cambios físicos pueden ocurrir a cualquier temperatura. -->
@@ -54,13 +57,14 @@ Los cambios físicos suelen ser **reversibles** (el agua congelada se puede volv
 
 **ID:** `CO-CIE-6-2026-W33-cambios-fisicos-quimicos-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, estudiantes definen cambio químico.
+**Contexto:** En Medellín, estudiantes definen cambio químico.
 
 ### Enunciado
 ¿Qué es un cambio químico?
 
-### Options
+### Opciones
 - [ ] A) Un cambio en el que la materia cambia de estado (sólido, líquido, gas) <!-- feedback: Eso es un cambio físico. -->
 - [ ] B) Un cambio en el que la materia se divide en partes más pequeñas <!-- feedback: Eso es un cambio físico (triturar, moler). -->
 - [x] C) Un cambio en el que una o más sustancias se transforman en sustancias nuevas con propiedades diferentes <!-- feedback: Correcto. Se producen reacciones químicas. -->
@@ -81,13 +85,14 @@ Los cambios químicos suelen ser **irreversibles** (no puedes "desquemar" un pap
 
 **ID:** `CO-CIE-6-2026-W33-cambios-fisicos-quimicos-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, estudiantes clasifican ejemplos cotidianos.
+**Contexto:** En Cali, estudiantes clasifican ejemplos cotidianos.
 
 ### Enunciado
 ¿Cuál de los siguientes es un ejemplo de cambio físico?
 
-### Options
+### Opciones
 - [ ] A) La madera ardiendo <!-- feedback: Eso es combustión (cambio químico). Se forman nuevas sustancias. -->
 - [ ] B) Un huevo cocinándose <!-- feedback: Eso es cambio químico. Las proteínas se desnaturalizan y cambian su estructura. -->
 - [x] C) Hielo derritiéndose <!-- feedback: Correcto. El agua sólida se vuelve líquida, pero sigue siendo H₂O. -->
@@ -112,13 +117,14 @@ Una regla útil: si el cambio es reversible y la sustancia sigue siendo la misma
 
 **ID:** `CO-CIE-6-2026-W33-cambios-fisicos-quimicos-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, estudiantes identifican cambios químicos.
+**Contexto:** En Barranquilla, estudiantes identifican cambios químicos.
 
 ### Enunciado
 ¿Cuál de los siguientes NO es un cambio químico?
 
-### Options
+### Opciones
 - [ ] A) La oxidación de un clavo de hierro <!-- feedback: El hierro se combina con oxígeno formando óxido de hierro (herrumbre). Es químico. -->
 - [ ] B) La fotosíntesis en las plantas <!-- feedback: CO₂ + H₂O → glucosa + O₂. Es una reacción química compleja. -->
 - [x] C) Un resorte estirándose <!-- feedback: Correcto. El metal solo cambia de forma, no de composición. -->
@@ -146,13 +152,14 @@ No todos los indicadores aparecen en cada cambio químico, pero la presencia de 
 
 **ID:** `CO-CIE-6-2026-W33-cambios-fisicos-quimicos-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, estudiantes aplican conceptos a la cocina.
+**Contexto:** En Bucaramanga, estudiantes aplican conceptos a la cocina.
 
 ### Enunciado
 Cuando se fríe un huevo, la clara líquida se vuelve sólida y blanca. ¿Qué tipo de cambio ocurre?
 
-### Options
+### Opciones
 - [ ] A) Cambio físico, porque cambia la forma del huevo <!-- feedback: No es solo un cambio de forma. La composición química cambia. -->
 - [ ] B) Cambio físico, porque la clara se puede volver líquida al enfriarse <!-- feedback: No, la clara cocida no vuelve a ser líquida al enfriarse. -->
 - [x] C) Cambio químico, porque las proteínas de la clara se desnaturalizan irreversiblemente, cambiando su estructura molecular <!-- feedback: Correcto. La desnaturalización de proteínas es un cambio químico. -->
@@ -179,13 +186,14 @@ La cocina está llena de cambios químicos: caramelizar azúcar, dorar pan (reac
 
 **ID:** `CO-CIE-6-2026-W33-cambios-fisicos-quimicos-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, estudiantes aplican conceptos a la oxidación.
+**Contexto:** En Cartagena, estudiantes aplican conceptos a la oxidación.
 
 ### Enunciado
 Un clavo de hierro se deja a la intemperie y con el tiempo se cubre de óxido marrón. ¿Qué tipo de cambio ocurre y qué se forma?
 
-### Options
+### Opciones
 - [ ] A) Cambio físico: el hierro se pinta de marrón por la lluvia <!-- feedback: No, el marrón no es pintura, es una nueva sustancia. -->
 - [ ] B) Cambio físico: el hierro se desgasta por el viento <!-- feedback: El desgaste es físico, pero la oxidación es química. -->
 - [x] C) Cambio químico: el hierro (Fe) reacciona con el oxígeno (O₂) del aire y el agua formando óxido de hierro (Fe₂O₃·nH₂O), una sustancia diferente <!-- feedback: Correcto. Es una reacción de oxidación. -->
@@ -220,13 +228,14 @@ Ejemplo colombiano: el Castillo de San Felipe en Cartagena, construido en piedra
 
 **ID:** `CO-CIE-6-2026-W33-cambios-fisicos-quimicos-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan la combustión.
+**Contexto:** En Pereira, analizan la combustión.
 
 ### Enunciado
 ¿Por qué la combustión (quemar madera, gasolina, carbón) se considera un cambio químico?
 
-### Options
+### Opciones
 - [ ] A) Porque produce calor y luz <!-- feedback: Son indicadores, pero no definen un cambio químico. -->
 - [ ] B) Porque la madera se vuelve más pequeña <!-- feedback: Eso es un efecto visible, no la definición. -->
 - [x] C) Porque los hidrocarburos (madera, gasolina) reaccionan con el oxígeno y se transforman en dióxido de carbono (CO₂) y agua (H₂O), sustancias completamente diferentes <!-- feedback: Correcto. Se forman nuevas sustancias. -->
@@ -255,13 +264,14 @@ La combustión de combustibles fósiles (gasolina, carbón, gas natural) es la p
 
 **ID:** `CO-CIE-6-2026-W33-cambios-fisicos-quimicos-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, analizan la fotosíntesis como cambio químico.
+**Contexto:** En Manizales, analizan la fotosíntesis como cambio químico.
 
 ### Enunciado
 La fotosíntesis convierte CO₂ y agua en glucosa y oxígeno usando luz solar. ¿Qué tipo de cambio es y por qué es importante?
 
-### Options
+### Opciones
 - [ ] A) Cambio físico, porque las plantas solo absorben agua <!-- feedback: No, hay transformación de sustancias. -->
 - [ ] B) Cambio químico endotérmico, porque la planta absorbe energía solar para transformar CO₂ y agua en glucosa y oxígeno <!-- feedback: Correcto. -->
 - [ ] C) Cambio físico, porque la luz solar no altera la composición <!-- feedback: La luz solar es la fuente de energía, no la que cambia. -->
@@ -295,13 +305,14 @@ La fotosíntesis y la respiración celular son procesos opuestos: una captura en
 
 **ID:** `CO-CIE-6-2026-W33-cambios-fisicos-quimicos-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan cambios en la industria alimentaria.
+**Contexto:** En Cúcuta, evalúan cambios en la industria alimentaria.
 
 ### Enunciado
 El pan se prepara mezclando harina, agua, levadura y sal, luego se deja reposar (fermentar) y finalmente se hornea. ¿Cuáles de estos pasos son cambios químicos?
 
-### Options
+### Opciones
 - [ ] A) Solo el horneado <!-- feedback: La fermentación también es cambio químico. -->
 - [ ] B) Solo la mezcla de ingredientes <!-- feedback: Mezclar es físico. -->
 - [x] C) La fermentación (levadura convierte azúcares en CO₂ y alcohol) y el horneado (desnaturalización de proteínas, reacción de Maillard) <!-- feedback: Correcto. Ambos son cambios químicos. -->
@@ -330,13 +341,14 @@ Es un excelente ejemplo de cómo los cambios físicos y químicos ocurren simult
 
 **ID:** `CO-CIE-6-2026-W33-cambios-fisicos-quimicos-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan la importancia de distinguir cambios físicos de químicos.
+**Contexto:** En Ibagué, evalúan la importancia de distinguir cambios físicos de químicos.
 
 ### Enunciado
 ¿Por qué es importante distinguir entre cambios físicos y químicos en el reciclaje de materiales?
 
-### Options
+### Opciones
 - [ ] A) Porque los cambios físicos producen más contaminación <!-- feedback: No es correcto. -->
 - [ ] B) Porque los cambios químicos siempre son más costosos <!-- feedback: No siempre. -->
 - [x] C) Porque los materiales separados por métodos físicos (triturar, fundir, separar) conservan sus propiedades originales y pueden reprocesarse; los cambios químicos transforman los materiales en sustancias diferentes <!-- feedback: Correcto. Cada tipo de cambio tiene implicaciones diferentes para el reciclaje. -->

@@ -1,28 +1,32 @@
 ---
-id: "CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY"
+id: "CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "opinion-argumento"
-semana: "W24"
+week: "W24"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Opinión y Argumento - Grado 6
 ## Semana W24
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio San José de Yopal, la profesora explica la diferencia entre opinión y argumento.
+**Contexto:** En el Colegio San José de Yopal, la profesora explica la diferencia entre opinión y argumento.
 **Expected_Success:** 0.86
 
 ### Enunciado
@@ -39,11 +43,11 @@ Opinión: "Creo que la pizza es mejor que la hamburguesa." (juicio personal, no 
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** Los estudiantes del Colegio Luis Carlos Galán de Soacha analizan frases cotidianas.
+**Contexto:** Los estudiantes del Colegio Luis Carlos Galán de Soacha analizan frases cotidianas.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ Identificar opiniones vs. argumentos es una habilidad crítica. Las opiniones su
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. José María Obando de Popayán, los estudiantes analizan un texto sobre la jornada única escolar.
+**Contexto:** En la I.E. José María Obando de Popayán, los estudiantes analizan un texto sobre la jornada única escolar.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ La estructura básica de un argumento es: TESIS (afirmación) + RAZÓN (respaldo
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En el Colegio Metropolitano de Soledad, los estudiantes deben convertir una opinión en un argumento.
+**Contexto:** En el Colegio Metropolitano de Soledad, los estudiantes deben convertir una opinión en un argumento.
 **Expected_Success:** 0.73
 
 ### Enunciado
@@ -102,11 +106,11 @@ Convertir opiniones en argumentos es una habilidad fundamental para la escritura
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. Francisco de Paula Santander de Ocaña, los estudiantes analizan las partes de un texto argumentativo.
+**Contexto:** En la I.E. Francisco de Paula Santander de Ocaña, los estudiantes analizan las partes de un texto argumentativo.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -123,11 +127,11 @@ Un texto argumentativo se organiza así: 1) TESIS: la postura del autor ("deber�
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio San Fernando de Ibagué, los estudiantes discuten por qué los argumentos son más fuertes que las opiniones.
+**Contexto:** En el Colegio San Fernando de Ibagué, los estudiantes discuten por qué los argumentos son más fuertes que las opiniones.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -144,11 +148,11 @@ Un argumento invita al diálogo racional porque ofrece razones que pueden ser ex
 
 ---
 
-## Pregunta 7 [D7]
+## Question 7 [D7]
 **ID:** `CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En la I.E. San Juan de Rioseco, los estudiantes analizan cómo identificar argumentos débiles o falacias.
+**Contexto:** En la I.E. San Juan de Rioseco, los estudiantes analizan cómo identificar argumentos débiles o falacias.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -165,11 +169,11 @@ No todos los argumentos son igualmente válidos. Un argumento puede tener la est
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio La Enseñanza de Bogotá, los estudiantes evalúan la solidez de argumentos en un debate simulado.
+**Contexto:** En el Colegio La Enseñanza de Bogotá, los estudiantes evalúan la solidez de argumentos en un debate simulado.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -190,11 +194,11 @@ Evaluar la solidez de un argumento implica: 1) ¿la razón es verdadera o verifi
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En la Institución Educativa Rural de San Bernardo, los estudiantes investigan cómo diferenciar hechos de opiniones en un texto político.
+**Contexto:** En la Institución Educativa Rural de San Bernardo, los estudiantes investigan cómo diferenciar hechos de opiniones en un texto político.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -211,11 +215,11 @@ Distinguir hechos de opiniones es una habilidad democrática fundamental. Los HE
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio Enrique Olaya Herrera de Bogotá, el proyecto final es escribir una carta al editor del periódico escolar.
+**Contexto:** En el Colegio Enrique Olaya Herrera de Bogotá, el proyecto final es escribir una carta al editor del periódico escolar.
 **Expected_Success:** 0.43
 
 ### Enunciado

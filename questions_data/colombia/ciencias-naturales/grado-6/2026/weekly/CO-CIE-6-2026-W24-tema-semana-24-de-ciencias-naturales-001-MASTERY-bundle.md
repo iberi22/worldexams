@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W24-tema-semana-24-de-ciencias-naturales-001-MASTERY"
+id: "CO-CIE-6-2026-W24-tema-semana-24-de-ciencias-naturales-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 10
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W24 — Tema Semana 24 de Ciencias Naturales
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Pasto
+**Contexto:** Colegio La Presentación en Pasto
 **Expected_Success:** 0.55
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio La Presentación en Pasto, se discute sobre Tema Semana 24 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 24 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 24 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 24 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 24 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** I.E. Jorge Eliécer Gaitán en Barranquilla
+**Contexto:** I.E. Jorge Eliécer Gaitán en Barranquilla
 **Expected_Success:** 0.68
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Barranquilla, se discute sobre Tema Semana 24 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 24 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 24 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 24 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 24 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Barranquilla
+**Contexto:** Colegio La Presentación en Barranquilla
 **Expected_Success:** 0.76
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio La Presentación en Barranquilla, se discute sobre Tema Semana 24 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 24 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 24 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 24 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 24 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Colegio La Presentación en Cúcuta
+**Contexto:** Colegio La Presentación en Cúcuta
 **Expected_Success:** 0.61
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio La Presentación en Cúcuta, se discute sobre Tema Semana 24 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 24 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 24 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 24 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 24 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. San José en Bucaramanga
+**Contexto:** I.E. San José en Bucaramanga
 **Expected_Success:** 0.68
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. San José en Bucaramanga, se discute sobre Tema Semana 24 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 24 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 24 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 24 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 24 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** Colegio Nacional San Bartolomé en Sincelejo
+**Contexto:** Colegio Nacional San Bartolomé en Sincelejo
 **Expected_Success:** 0.52
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Sincelejo, se discute sobre Tema Semana 24 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 24 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 24 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 24 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 24 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** I.E. Santa Luisa de Marillac en Sincelejo
+**Contexto:** I.E. Santa Luisa de Marillac en Sincelejo
 **Expected_Success:** 0.78
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Sincelejo, se discute sobre Tema Semana 24 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 24 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 24 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 24 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 24 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Bucaramanga
+**Contexto:** I.E. Francisco de Paula Santander en Bucaramanga
 **Expected_Success:** 0.70
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Bucaramanga, se discute sobre Tema Semana 24 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 24 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 24 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 24 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 24 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Tunja
+**Contexto:** Colegio Nacional San Bartolomé en Tunja
 **Expected_Success:** 0.66
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Tunja, se discute sobre Tema Semana 24 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 24 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 24 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 24 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 24 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Ibagué
+**Contexto:** Colegio La Presentación en Ibagué
 **Expected_Success:** 0.68
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio La Presentación en Ibagué, se discute sobre Tema Semana 24 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 24 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 24 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 24 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

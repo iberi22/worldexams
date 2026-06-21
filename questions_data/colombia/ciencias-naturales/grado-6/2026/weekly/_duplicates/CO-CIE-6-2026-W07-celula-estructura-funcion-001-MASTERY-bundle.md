@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W07-celula-estructura-funcion-001-MASTERY"
+id: "CO-CIE-6-2026-W07-celula-estructura-funcion-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -12,7 +12,11 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W07 — La Célula: Estructura y Función
 
@@ -24,13 +28,14 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 
 **ID:** `CO-CIE-6-2026-W07-celula-estructura-funcion-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, la profesora muestra un diagrama de la célula en el tablero.
+**Contexto:** En Bogotá, la profesora muestra un diagrama de la célula en el tablero.
 
 ### Enunciado
 ¿Cuál es la función principal del núcleo celular?
 
-### Options
+### Opciones
 - [ ] A) Producir energía para la célula <!-- feedback: Incorrecto. Esa es función de las mitocondrias. -->
 - [ ] B) Realizar la fotosíntesis <!-- feedback: Incorrecto. La fotosíntesis ocurre en los cloroplastos. -->
 - [x] C) Controlar las actividades de la célula y contener el material genético <!-- feedback: Correcto. El núcleo dirige las funciones celulares. -->
@@ -45,13 +50,14 @@ El núcleo es el "centro de control" de la célula. Contiene el ADN (material ge
 
 **ID:** `CO-CIE-6-2026-W07-celula-estructura-funcion-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, los estudiantes identifican organelos en una maqueta de célula.
+**Contexto:** En Medellín, los estudiantes identifican organelos en una maqueta de célula.
 
 ### Enunciado
 ¿Qué organelo se encarga de producir energía en la célula?
 
-### Options
+### Opciones
 - [ ] A) El núcleo <!-- feedback: Incorrecto. El núcleo contiene el ADN, no produce energía. -->
 - [ ] B) El aparato de Golgi <!-- feedback: Incorrecto. El aparato de Golgi empaca y distribuye sustancias. -->
 - [x] C) La mitocondria <!-- feedback: Correcto. Las mitocondrias producen energía mediante la respiración celular. -->
@@ -66,13 +72,14 @@ Las mitocondrias son conocidas como las "centrales energéticas" de la célula. 
 
 **ID:** `CO-CIE-6-2026-W07-celula-estructura-funcion-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali comparan una célula vegetal de cebolla y una célula animal de epitelio bucal al microscopio.
+**Contexto:** En Cali comparan una célula vegetal de cebolla y una célula animal de epitelio bucal al microscopio.
 
 ### Enunciado
 ¿Qué estructura está presente en la célula vegetal pero NO en la célula animal?
 
-### Options
+### Opciones
 - [x] A) Pared celular de celulosa <!-- feedback: Correcto. La pared celular rodea la membrana en células vegetales. -->
 - [ ] B) Membrana plasmática <!-- feedback: Incorrecto. Ambos tipos de células tienen membrana plasmática. -->
 - [ ] C) Núcleo <!-- feedback: Incorrecto. Ambos tienen núcleo definido. -->
@@ -87,13 +94,14 @@ La pared celular de celulosa es una estructura rígida que rodea la membrana pla
 
 **ID:** `CO-CIE-6-2026-W07-celula-estructura-funcion-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla estudian la función de los organelos celulares.
+**Contexto:** En Barranquilla estudian la función de los organelos celulares.
 
 ### Enunciado
 ¿Qué función cumple el aparato de Golgi en la célula?
 
-### Options
+### Opciones
 - [ ] A) Degradar sustancias y reciclar partes celulares <!-- feedback: Incorrecto. Esa es función de los lisosomas. -->
 - [x] B) Empacar, modificar y distribuir proteínas y lípidos <!-- feedback: Correcto. El aparato de Golgi es el centro de empaque de la célula. -->
 - [ ] C) Realizar la fotosíntesis <!-- feedback: Incorrecto. La fotosíntesis ocurre en los cloroplastos. -->
@@ -108,13 +116,14 @@ El aparato de Golgi se puede imaginar como el "centro de empaque y envío" de la
 
 **ID:** `CO-CIE-6-2026-W07-celula-estructura-funcion-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, los estudiantes identifican una célula como animal o vegetal observando sus características.
+**Contexto:** En Bucaramanga, los estudiantes identifican una célula como animal o vegetal observando sus características.
 
 ### Enunciado
 Observan una célula con las siguientes características: tiene forma irregular, no tiene pared celular y tiene pequeñas vacuolas. ¿Qué tipo de célula es?
 
-### Options
+### Opciones
 - [x] A) Célula animal <!-- feedback: Correcto. Las células animales tienen forma irregular, sin pared celular y con vacuolas pequeñas. -->
 - [ ] B) Célula vegetal <!-- feedback: Incorrecto. Las células vegetales tienen pared celular, forma regular y vacuolas grandes. -->
 - [ ] C) Célula bacteriana <!-- feedback: Incorrecto. Las bacterias son procariotas y tienen pared celular de peptidoglicano. -->
@@ -129,13 +138,14 @@ Las células animales se caracterizan por: forma irregular o variable (no tienen
 
 **ID:** `CO-CIE-6-2026-W07-celula-estructura-funcion-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, estudiantes relacionan cada organelo con su función mediante tarjetas.
+**Contexto:** En Cartagena, estudiantes relacionan cada organelo con su función mediante tarjetas.
 
 ### Enunciado
 Relaciona: si una célula necesita digerir y reciclar partes viejas, ¿qué organelo debe tener?
 
-### Options
+### Opciones
 - [ ] A) Mitocondria <!-- feedback: Incorrecto. La mitocondria produce energía, no digiere desechos. -->
 - [ ] B) Cloroplasto <!-- feedback: Incorrecto. El cloroplasto realiza fotosíntesis. -->
 - [x] C) Lisosoma <!-- feedback: Correcto. Los lisosomas contienen enzimas digestivas para reciclar materiales. -->
@@ -150,13 +160,14 @@ Los lisosomas son "bolsas" llenas de enzimas digestivas que funcionan como el si
 
 **ID:** `CO-CIE-6-2026-W07-celula-estructura-funcion-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, un grupo de estudiantes debate por qué las células vegetales son verdes.
+**Contexto:** En Pereira, un grupo de estudiantes debate por qué las células vegetales son verdes.
 
 ### Enunciado
 ¿Por qué las células vegetales son de color verde?
 
-### Options
+### Opciones
 - [ ] A) Porque tienen pared celular verde <!-- feedback: Incorrecto. La pared celular es incolora o blanca. -->
 - [x] B) Porque contienen cloroplastos con clorofila <!-- feedback: Correcto. La clorofila es el pigmento verde que capta la luz solar. -->
 - [ ] C) Porque las vacuolas almacenan líquido verde <!-- feedback: Incorrecto. El líquido vacuolar no es verde. -->
@@ -171,13 +182,14 @@ El color verde de las células vegetales se debe a los cloroplastos, organelos q
 
 **ID:** `CO-CIE-6-2026-W07-celula-estructura-funcion-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, estudiantes comparan la membrana celular con un colador.
+**Contexto:** En Manizales, estudiantes comparan la membrana celular con un colador.
 
 ### Enunciado
 ¿Qué propiedad de la membrana celular permite que entre oxígeno pero no entren bacterias?
 
-### Options
+### Opciones
 - [ ] A) Es completamente permeable, deja pasar todo <!-- feedback: Incorrecto. Si fuera así, cualquier bacteria entraría. -->
 - [ ] B) Es completamente impermeable <!-- feedback: Incorrecto. Si fuera impermeable, no entraría el oxígeno. -->
 - [x] C) Es semipermeable o de permeabilidad selectiva <!-- feedback: Correcto. La membrana selecciona qué entra y qué sale. -->
@@ -192,13 +204,14 @@ La membrana plasmática es una estructura que rodea la célula y regula el inter
 
 **ID:** `CO-CIE-6-2026-W07-celula-estructura-funcion-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, un estudiante dice: "las bacterias tienen el mismo tipo de células que las plantas".
+**Contexto:** En Cúcuta, un estudiante dice: "las bacterias tienen el mismo tipo de células que las plantas".
 
 ### Enunciado
 ¿Qué argumento científico refuta esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Las bacterias son más pequeñas que las plantas <!-- feedback: Incorrecto. El tamaño no determina el tipo celular. -->
 - [x] B) Las bacterias son procariotas (sin núcleo) y las plantas son eucariotas (con núcleo) <!-- feedback: Correcto. La diferencia es el tipo de organización celular. -->
 - [ ] C) Las bacterias viven en el suelo y las plantas no <!-- feedback: Incorrecto. Muchas plantas también viven en el suelo. -->
@@ -213,13 +226,14 @@ La afirmación es incorrecta porque las bacterias y las plantas tienen tipos cel
 
 **ID:** `CO-CIE-6-2026-W07-celula-estructura-funcion-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, estudiantes deben diseñar un modelo de célula con materiales reciclables y explicar por qué eligieron cada material.
+**Contexto:** En Ibagué, estudiantes deben diseñar un modelo de célula con materiales reciclables y explicar por qué eligieron cada material.
 
 ### Enunciado
 Para representar el retículo endoplasmático en la maqueta, ¿qué material representa mejor su estructura y función?
 
-### Options
+### Opciones
 - [ ] A) Una esfera de icopor grande para representar el núcleo <!-- feedback: Incorrecto. El retículo endoplasmático no es una esfera. -->
 - [x] B) Tubos y bolsas interconectados para representar el sistema de membranas que transporta sustancias <!-- feedback: Correcto. El RE es una red de membranas que transporta y sintetiza. -->
 - [ ] C) Un frasco con agua para representar el citoplasma <!-- feedback: Incorrecto. Eso representaría el citoplasma o la vacuola. -->

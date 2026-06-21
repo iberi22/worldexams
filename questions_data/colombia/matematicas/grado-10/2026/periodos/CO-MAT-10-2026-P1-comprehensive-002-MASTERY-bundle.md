@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-10-2026-P1-comprehensive-002-MASTERY"
+id: "CO-MAT-10-2026-P1-comprehensive-002-MASTERY-bundle"
 country: "colombia"
 grado: 10
 asignatura: "matematicas"
@@ -19,7 +19,12 @@ rubric_baseline: "recta_parametrizacion_vectorial, producto_punto_vectores, circ
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 20
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY Grado 10 — Matematicas, Periodo 1, Bundle 002
 
@@ -33,7 +38,7 @@ Bundle de periodo 1 para grado 10, alineado con DBA MEN y preparacion Pre-Saber 
 **Bloom:** Remember
 **ICFES:** Comunicacion y Representacion
 
-**Context:** En clase de geometria vectorial en el Colegio INEM de Cali, el profesor escribe en el tablero una ecuacion parametrica.
+**Contexto:** En clase de geometria vectorial en el Colegio INEM de Cali, el profesor escribe en el tablero una ecuacion parametrica.
 
 ### Enunciado
 Una recta en el plano se expresa parametricamente como:
@@ -45,7 +50,7 @@ y = -1 + 4t
 \]
 Que representa el vector (3, 4) en esta parametrizacion?
 
-### Options
+### Opciones
 - [ ] A) Un punto por donde pasa la recta <!-- feedback: Incorrecto. El punto por donde pasa la recta esta dado por (2, -1) cuando t=0. -->
 - [x] B) El vector director de la recta <!-- feedback: Correcto. En la ecuacion parametrica (x, y) = (x0, y0) + t-(a, b), el vector (a, b) es el vector director que indica la direccion de la recta. -->
 - [ ] C) La pendiente de la recta <!-- feedback: Incorrecto. La pendiente se deriva de la direccion, pero el vector (3,4) especificamente es el vector director, no la pendiente. -->
@@ -62,12 +67,12 @@ La ecuacion parametrica de una recta tiene la forma P = P0 + t-v, donde P0 es un
 **Bloom:** Remember
 **ICFES:** Comunicacion y Representacion
 
-**Context:** En el laboratorio de matematicas del Colegio San Jose de Barranquilla, los estudiantes exploran operaciones con vectores.
+**Contexto:** En el laboratorio de matematicas del Colegio San Jose de Barranquilla, los estudiantes exploran operaciones con vectores.
 
 ### Enunciado
 Dados dos vectores \(\vec{u} = (3, -2)\) y \(\vec{v} = (1, 4)\), cual es el resultado del producto punto \(\vec{u} \cdot \vec{v}\)?
 
-### Options
+### Opciones
 - [ ] A) 14 <!-- feedback: Incorrecto. 3(1) + (-2)(4) = 3 - 8 = -5, no 14. Probablemente sumaste sin considerar los signos. -->
 - [x] B) -5 <!-- feedback: Correcto. \(\vec{u} \cdot \vec{v} = 3(1) + (-2)(4) = 3 - 8 = -5\). -->
 - [ ] C) 11 <!-- feedback: Incorrecto. 3+4+(-2)+1 no es la forma correcta de calcular el producto punto. -->
@@ -84,12 +89,12 @@ El producto punto entre dos vectores en R^2 se calcula como la suma de los produ
 **Bloom:** Understand
 **ICFES:** Razonamiento y Argumentacion
 
-**Context:** En clase de algebra en un colegio de Bogota, la profesora explica las propiedades de los logaritmos.
+**Contexto:** En clase de algebra en un colegio de Bogota, la profesora explica las propiedades de los logaritmos.
 
 ### Enunciado
 Cual de las siguientes expresiones es equivalente a \(\log_2(8) + \log_2(4)\)?
 
-### Options
+### Opciones
 - [ ] A) \(\log_2(12)\) <!-- feedback: Incorrecto. Los logaritmos no se suman sumando sus argumentos. -->
 - [x] B) 5 <!-- feedback: Correcto. \(\log_2(8) = 3\) porque \(2^3 = 8\), y \(\log_2(4) = 2\) porque \(2^2 = 4\). 3 + 2 = 5. -->
 - [ ] C) \(\log_2(32)\) <!-- feedback: Incorrecto. Aunque \(\log_2(8) + \log_2(4) = \log_2(32) = 5\), la expresion simplificada es 5. -->
@@ -106,12 +111,12 @@ Por definicion, \(\log_b(a) = c\) significa que \(b^c = a\). Asi, \(\log_2(8) = 
 **Bloom:** Understand
 **ICFES:** Razonamiento y Argumentacion
 
-**Context:** En la clase de geometria analitica en Medellin, se estudian las secciones conicas.
+**Contexto:** En la clase de geometria analitica en Medellin, se estudian las secciones conicas.
 
 ### Enunciado
 Cual de las siguientes ecuaciones representa una circunferencia con centro en (2, -3) y radio 5?
 
-### Options
+### Opciones
 - [ ] A) \((x + 2)^2 + (y - 3)^2 = 5\) <!-- feedback: Incorrecto. Los signos indican centro en (-2, 3) y radio \(\sqrt{5}\). -->
 - [x] B) \((x - 2)^2 + (y + 3)^2 = 25\) <!-- feedback: Correcto. La ecuacion canonica de la circunferencia es (x - h)^2 + (y - k)^2 = r^2. -->
 - [ ] C) \((x - 2)^2 + (y - 3)^2 = 25\) <!-- feedback: Incorrecto. El centro seria (2, 3), cuando deberia ser (2, -3). -->
@@ -128,12 +133,12 @@ La ecuacion canonica de una circunferencia con centro en (h, k) y radio r es \((
 **Bloom:** Apply
 **ICFES:** Resolucion de Problemas
 
-**Context:** Un ingeniero en construccion en Pereira necesita determinar si dos paredes son perpendiculares usando vectores de posicion.
+**Contexto:** Un ingeniero en construccion en Pereira necesita determinar si dos paredes son perpendiculares usando vectores de posicion.
 
 ### Enunciado
 Dos vectores representan las direcciones de dos paredes: \(\vec{a} = (6, 2)\) y \(\vec{b} = (-1, 3)\). Son perpendiculares estos dos vectores?
 
-### Options
+### Opciones
 - [x] A) Si, porque el producto punto es cero <!-- feedback: Correcto. \(\vec{a} \cdot \vec{b} = 6(-1) + 2(3) = -6 + 6 = 0\). Dos vectores son perpendiculares si su producto punto es 0. -->
 - [ ] B) No, porque las magnitudes son diferentes <!-- feedback: Incorrecto. La perpendicularidad no depende de la magnitud de los vectores sino de su producto punto. -->
 - [ ] C) Si, porque las pendientes son inversas <!-- feedback: Incorrecto. La condicion de perpendicularidad es que el producto de las pendientes sea -1, no que sean inversas. Pendiente de a es 1/3, de b es -3, y (1/3)(-3) = -1, asi que en este caso si son perpendiculares, pero la razon correcta es que el producto punto es 0. -->
@@ -150,12 +155,12 @@ Dos vectores son perpendiculares (ortogonales) si y solo si su producto punto es
 **Bloom:** Apply
 **ICFES:** Resolucion de Problemas
 
-**Context:** En un experimento de fisica en el Colegio de La Salle en Bogota, los estudiantes calculan trayectorias parabolica.
+**Contexto:** En un experimento de fisica en el Colegio de La Salle en Bogota, los estudiantes calculan trayectorias parabolica.
 
 ### Enunciado
 Una pelota se lanza desde el origen con velocidad inicial dada por el vector \(\vec{v} = (10, 15)\) m/s. Cual es la rapidez (magnitud de la velocidad) inicial de la pelota?
 
-### Options
+### Opciones
 - [x] A) \(\sqrt{325}\) m/s \(\approx\) 18.03 m/s <!-- feedback: Correcto. La magnitud de un vector (a, b) es \(\sqrt{a^2 + b^2} = \sqrt{10^2 + 15^2} = \sqrt{100 + 225} = \sqrt{325}\). -->
 - [ ] B) 25 m/s <!-- feedback: Incorrecto. Esto seria 10 + 15, pero la magnitud no es la suma de componentes, sino la raiz cuadrada de la suma de cuadrados. -->
 - [ ] C) 12.5 m/s <!-- feedback: Incorrecto. Calculaste el promedio de las componentes, no la magnitud del vector. -->
@@ -172,12 +177,12 @@ La magnitud (o norma) de un vector \(\vec{v} = (v_x, v_y)\) en el plano se calcu
 **Bloom:** Apply
 **ICFES:** Comunicacion y Representacion
 
-**Context:** En un taller de matematicas en Cartagena, los estudiantes resuelven ecuaciones logaritmicas.
+**Contexto:** En un taller de matematicas en Cartagena, los estudiantes resuelven ecuaciones logaritmicas.
 
 ### Enunciado
 Resuelve la ecuacion: \(\log_3(x) = 4\)
 
-### Options
+### Opciones
 - [ ] A) 12 <!-- feedback: Incorrecto. Estas confundiendo logaritmo con multiplicacion: \(3 \times 4 = 12\), pero eso no es correcto. -->
 - [x] B) 81 <!-- feedback: Correcto. \(\log_3(x) = 4\) implica que \(x = 3^4 = 81\). -->
 - [ ] C) 64 <!-- feedback: Incorrecto. \(4^3 = 64\), pero la base es 3, no 4. Se debe calcular \(3^4\). -->
@@ -194,12 +199,12 @@ Para resolver una ecuacion logaritmica simple como \(\log_b(x) = c\), se usa la 
 **Bloom:** Apply
 **ICFES:** Resolucion de Problemas
 
-**Context:** En un colegio de Bucaramanga, la profesora de matematicas pide calcular la distancia entre un punto y una recta usando proyecciones vectoriales.
+**Contexto:** En un colegio de Bucaramanga, la profesora de matematicas pide calcular la distancia entre un punto y una recta usando proyecciones vectoriales.
 
 ### Enunciado
 Dados el punto \(P(1, 2)\) y la recta \(r\) que pasa por \(A(0, 0)\) con vector director \(\vec{v} = (3, 4)\), cual es la distancia perpendicular del punto P a la recta r?
 
-### Options
+### Opciones
 - [ ] A) \(\sqrt{5}\) <!-- feedback: Incorrecto. La distancia no es la magnitud del vector AP sin proyectar. Debes proyectar sobre un vector normal. -->
 - [ ] B) \(\sqrt{5}\) <!-- feedback: Incorrecto. La distancia no es la magnitud del vector AP sin proyectar. Usa un vector normal. -->
 - [x] C) \(\frac{2}{5}\) <!-- feedback: Correcto. Con vector normal \(\vec{n}=(-4,3)\), \(\vec{AP}=(1,2)\), \(d = |\vec{AP} \cdot \vec{n}| / |\vec{v}| = |-4+6|/5 = 2/5\). -->
@@ -216,12 +221,12 @@ La distancia de un punto a una recta se calcula usando un vector normal. Para \(
 **Bloom:** Apply
 **ICFES:** Resolucion de Problemas
 
-**Context:** En un proyecto escolar de diseno grafico en Manizales, los estudiantes usan transformaciones geometricas con vectores.
+**Contexto:** En un proyecto escolar de diseno grafico en Manizales, los estudiantes usan transformaciones geometricas con vectores.
 
 ### Enunciado
 Un disenador quiere reflejar un punto \(A(3, 2)\) con respecto al origen de coordenadas. Usando vectores, cuales son las coordenadas del punto reflejado A'?
 
-### Options
+### Opciones
 - [ ] A) (3, -2) <!-- feedback: Incorrecto. Esto seria una reflexion sobre el eje X, no sobre el origen. -->
 - [ ] B) (-3, 2) <!-- feedback: Incorrecto. Esto seria una reflexion sobre el eje Y, no sobre el origen. -->
 - [x] C) (-3, -2) <!-- feedback: Correcto. Reflejar sobre el origen equivale a multiplicar el vector de posicion por -1: \(-(3, 2) = (-3, -2)\). -->
@@ -238,12 +243,12 @@ Reflejar un punto con respecto al origen de coordenadas equivale a aplicar la tr
 **Bloom:** Apply
 **ICFES:** Resolucion de Problemas
 
-**Context:** Un profesor en Neiva explica que la intensidad del sonido se mide en decibelios usando logaritmos.
+**Contexto:** Un profesor en Neiva explica que la intensidad del sonido se mide en decibelios usando logaritmos.
 
 ### Enunciado
 La formula para calcular decibelios es \(dB = 10 \cdot \log_{10}\left(\frac{I}{I_0}\right)\), donde \(I_0\) es la intensidad de referencia. Si un sonido tiene una intensidad \(I = 1000 I_0\), cuantos decibelios produce?
 
-### Options
+### Opciones
 - [ ] A) 10 dB <!-- feedback: Incorrecto. \(\log_{10}(1000) = 3\), no 1. -->
 - [x] B) 30 dB <!-- feedback: Correcto. \(\log_{10}(1000) = 3\), y \(10 \times 3 = 30\) dB. -->
 - [ ] C) 1000 dB <!-- feedback: Incorrecto. No se reemplaza directamente I por 1000. La formula usa el logaritmo de la razon. -->
@@ -260,12 +265,12 @@ La escala de decibelios es logaritmica porque el oido humano percibe los sonidos
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentacion
 
-**Context:** En la clase de geometria vectorial en Popayan, se analizan las propiedades del producto punto.
+**Contexto:** En la clase de geometria vectorial en Popayan, se analizan las propiedades del producto punto.
 
 ### Enunciado
 Sean \(\vec{u}\) y \(\vec{v}\) dos vectores no nulos tales que \(\vec{u} \cdot \vec{v} = |\vec{u}||\vec{v}|\). Que se puede afirmar sobre estos vectores?
 
-### Options
+### Opciones
 - [ ] A) Son perpendiculares <!-- feedback: Incorrecto. Para vectores perpendiculares el producto punto es 0. -->
 - [x] B) Son paralelos y apuntan en la misma direccion <!-- feedback: Correcto. \(\vec{u} \cdot \vec{v} = |\vec{u}||\vec{v}|\cos\theta = |\vec{u}||\vec{v}|\) implica que \(\cos\theta = 1\), por lo que \(\theta = 0^\circ\). -->
 - [ ] C) Son paralelos y apuntan en direcciones opuestas <!-- feedback: Incorrecto. Si apuntaran en direcciones opuestas, \(\cos 180^\circ = -1\) y el producto punto seria \(-|\vec{u}||\vec{v}|\). -->
@@ -282,12 +287,12 @@ El producto punto tiene una definicion equivalente: \(\vec{u} \cdot \vec{v} = |\
 **Bloom:** Analyze
 **ICFES:** Comunicacion y Representacion
 
-**Context:** En una clase de calculo en el Colegio Champagnat de Bogota, se analiza la ecuacion general de las conicas.
+**Contexto:** En una clase de calculo en el Colegio Champagnat de Bogota, se analiza la ecuacion general de las conicas.
 
 ### Enunciado
 La ecuacion \(x^2 + y^2 - 6x + 4y - 12 = 0\) corresponde a:
 
-### Options
+### Opciones
 - [ ] A) Una parabola <!-- feedback: Incorrecto. La ecuacion tiene terminos cuadraticos en ambas variables (\(x^2\) y \(y^2\)), lo que no corresponde a una parabola. -->
 - [x] B) Una circunferencia con centro en (3, -2) y radio 5 <!-- feedback: Correcto. Completando cuadrados: \((x-3)^2 + (y+2)^2 = 25\). -->
 - [ ] C) Una elipse <!-- feedback: Incorrecto. Los coeficientes de \(x^2\) y \(y^2\) son iguales (ambos 1), lo que sugiere una circunferencia, no una elipse. -->
@@ -308,12 +313,12 @@ Es una circunferencia con centro C(3, -2) y radio r = 5. Como los coeficientes d
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentacion
 
-**Context:** En un laboratorio de ciencias en Ibague, se modela el decaimiento de una muestra con \(\log_{10}(N) = -0.03t + 2\), donde N es la cantidad y t el tiempo en horas.
+**Contexto:** En un laboratorio de ciencias en Ibague, se modela el decaimiento de una muestra con \(\log_{10}(N) = -0.03t + 2\), donde N es la cantidad y t el tiempo en horas.
 
 ### Enunciado
 Despues de cuantas horas la cantidad N sera 1?
 
-### Options
+### Opciones
 - [ ] A) Aproximadamente 33.3 horas <!-- feedback: Incorrecto. Resuelve correctamente: \(\log_{10}(1) = 0\), entonces \(0 = -0.03t + 2\), \(t = 2/0.03 = 66.67\). -->
 - [ ] B) 2 horas <!-- feedback: Incorrecto. Confundiste el logaritmo con el valor de la variable. -->
 - [x] C) Aproximadamente 66.67 horas <!-- feedback: Correcto. \(\log_{10}(1) = 0\), entonces \(0 = -0.03t + 2\), \(2 = 0.03t\), \(t = 2/0.03 = 66.67\) horas. -->
@@ -330,12 +335,12 @@ Cuando N = 1, \(\log_{10}(1) = 0\) porque \(10^0 = 1\). Sustituyendo: \(0 = -0.0
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentacion
 
-**Context:** En clase de geometria vectorial en Santa Marta, se analiza una propiedad fundamental del producto punto.
+**Contexto:** En clase de geometria vectorial en Santa Marta, se analiza una propiedad fundamental del producto punto.
 
 ### Enunciado
 Dados los vectores \(\vec{a} = (2, -1, 3)\), \(\vec{b} = (1, 4, -2)\) y \(\vec{c} = (1, -1, -1)\), cual de las siguientes afirmaciones es correcta?
 
-### Options
+### Opciones
 - [ ] A) \(\vec{a}\) y \(\vec{b}\) son ortogonales <!-- feedback: Incorrecto. \(\vec{a} \cdot \vec{b} = 2(1) + (-1)(4) + 3(-2) = 2 - 4 - 6 = -8 \neq 0\). -->
 - [ ] B) \(\vec{a}\) y \(\vec{c}\) son ortogonales <!-- feedback: Incorrecto. Aunque en este caso particular \(\vec{a} \cdot \vec{c} = 0\), esta opcion esta aqui como distractor. -->
 - [x] C) \(\vec{b}\) y \(\vec{c}\) son ortogonales <!-- feedback: Incorrecto. \(\vec{b} \cdot \vec{c} = 1(1) + 4(-1) + (-2)(-1) = 1 - 4 + 2 = -1 \neq 0\). -->
@@ -355,12 +360,12 @@ Dos vectores son ortogonales si su producto punto es cero. Calculamos:
 **Bloom:** Evaluate
 **ICFES:** Razonamiento y Argumentacion
 
-**Context:** Una empresa de logistica en Medellin usa vectores para optimizar rutas de entrega.
+**Contexto:** Una empresa de logistica en Medellin usa vectores para optimizar rutas de entrega.
 
 ### Enunciado
 Un camion de reparto hace dos desplazamientos consecutivos. Primero se desplaza 4 km al este y 3 km al norte (\(\vec{d_1} = (4, 3)\)), luego 2 km al oeste y 5 km al sur (\(\vec{d_2} = (-2, -5)\)). Cual es el desplazamiento neto del camion?
 
-### Options
+### Opciones
 - [ ] A) (6, 8) km <!-- feedback: Incorrecto. Sumaste las componentes sin considerar los signos negativos del segundo desplazamiento. -->
 - [x] B) (2, -2) km <!-- feedback: Correcto. \(\vec{d}_{neto} = (4 + (-2), 3 + (-5)) = (2, -2)\). El camion termino 2 km al este y 2 km al sur de su punto de partida. -->
 - [ ] C) (6, -2) km <!-- feedback: Incorrecto. Sumaste las componentes x como positivas: 4 + (-2) = 2, no 6. -->
@@ -377,12 +382,12 @@ El desplazamiento neto es la suma vectorial de los desplazamientos individuales:
 **Bloom:** Evaluate
 **ICFES:** Resolucion de Problemas
 
-**Context:** Un arquitecto en Cartagena esta disenando una plaza circular. En el plano, la plaza esta delimitada por la ecuacion \(x^2 + y^2 - 10x + 6y + 9 = 0\).
+**Contexto:** Un arquitecto en Cartagena esta disenando una plaza circular. En el plano, la plaza esta delimitada por la ecuacion \(x^2 + y^2 - 10x + 6y + 9 = 0\).
 
 ### Enunciado
 Cual es el area de la plaza circular?
 
-### Options
+### Opciones
 - [ ] A) \(9\pi\) unidades cuadradas <!-- feedback: Incorrecto. El 9 en la ecuacion original no es el radio al cuadrado. Hay que completar cuadrados. -->
 - [ ] B) \(16\pi\) unidades cuadradas <!-- feedback: Incorrecto. Completando: \((x-5)^2 + (y+3)^2 = 25\). El radio es 5, no 4. -->
 - [x] C) \(25\pi\) unidades cuadradas <!-- feedback: Correcto. Completando cuadrados: \((x^2 - 10x + 25) + (y^2 + 6y + 9) = -9 + 25 + 9 = 25\). Radio r = 5, area = \(\pi \cdot 5^2 = 25\pi\). -->
@@ -403,7 +408,7 @@ Radio r = 5. Area = \(\pi r^2 = \pi \cdot 25 = 25\pi\) unidades cuadradas.
 **Bloom:** Evaluate
 **ICFES:** Razonamiento y Argumentacion
 
-**Context:** En una competencia de robotica en Bogota, un robot debe moverse siguiendo la trayectoria definida por la ecuacion parametrica de una elipse.
+**Contexto:** En una competencia de robotica en Bogota, un robot debe moverse siguiendo la trayectoria definida por la ecuacion parametrica de una elipse.
 
 ### Enunciado
 La trayectoria de un robot esta dada por:
@@ -415,7 +420,7 @@ y = -1 + 3\sin(t)
 \]
 Cual es la ecuacion cartesiana de la trayectoria?
 
-### Options
+### Opciones
 - [ ] A) \(\frac{(x-3)^2}{9} + \frac{(y+1)^2}{16} = 1\) <!-- feedback: Incorrecto. Los semiejes estan intercambiados: a=4 (con x) y b=3 (con y). -->
 - [ ] B) \(\frac{(x+3)^2}{4} + \frac{(y-1)^2}{3} = 1\) <!-- feedback: Incorrecto. Los signos del centro estan invertidos y los denominadores no estan al cuadrado. -->
 - [x] C) \(\frac{(x-3)^2}{16} + \frac{(y+1)^2}{9} = 1\) <!-- feedback: Correcto. \(\cos t = (x-3)/4\), \(\sin t = (y+1)/3\), y \(\cos^2 t + \sin^2 t = 1\). -->
@@ -434,12 +439,12 @@ Es una elipse con centro en C(3, -1), semieje mayor a = 4 en direccion horizonta
 **Bloom:** Evaluate
 **ICFES:** Razonamiento y Argumentacion
 
-**Context:** En un proyecto de fisica en Pereira, los estudiantes combinan vectores de fuerza para determinar el equilibrio de un objeto.
+**Contexto:** En un proyecto de fisica en Pereira, los estudiantes combinan vectores de fuerza para determinar el equilibrio de un objeto.
 
 ### Enunciado
 Sobre un cuerpo actuan dos fuerzas: \(\vec{F_1} = (8, -3)\) N y \(\vec{F_2} = (-2, 5)\) N. Si se desea que el cuerpo este en equilibrio, se necesita una tercera fuerza \(\vec{F_3}\) tal que \(\vec{F_1} + \vec{F_2} + \vec{F_3} = 0\). Cual debe ser \(\vec{F_3}\)?
 
-### Options
+### Opciones
 - [ ] A) (6, 2) N <!-- feedback: Incorrecto. Calculaste la suma parcial como (8-2, -3+5) = (6, 2), pero esa no es la fuerza de equilibrio. -->
 - [x] B) (-6, -2) N <!-- feedback: Correcto. \(\vec{F_1} + \vec{F_2} = (6, 2)\), por lo tanto \(\vec{F_3} = -(\vec{F_1} + \vec{F_2}) = (-6, -2)\). -->
 - [ ] C) (-8, 3) N <!-- feedback: Incorrecto. Este es el negativo de unicamente \(\vec{F_1}\), no de la suma de ambas fuerzas. -->
@@ -456,12 +461,12 @@ Para el equilibrio, la suma vectorial de todas las fuerzas debe ser cero: \(\sum
 **Bloom:** Evaluate
 **ICFES:** Resolucion de Problemas
 
-**Context:** Un estudiante en Tunja esta resolviendo un problema de optica donde la intensidad de la luz al pasar por un filtro se modela con logaritmos.
+**Contexto:** Un estudiante en Tunja esta resolviendo un problema de optica donde la intensidad de la luz al pasar por un filtro se modela con logaritmos.
 
 ### Enunciado
 La intensidad de la luz despues de pasar por un filtro de espesor x se modela como \(I(x) = I_0 \cdot 10^{-0.5x}\). Cual es la expresion de la intensidad en terminos de logaritmos base 10?
 
-### Options
+### Opciones
 - [ ] A) \(\log_{10}(I) = \log_{10}(I_0) + 0.5x\) <!-- feedback: Incorrecto. El exponente -0.5x da lugar a un termino \(-0.5x\), no positivo. -->
 - [ ] B) \(\log_{10}(I) = 0.5x \cdot \log_{10}(I_0)\) <!-- feedback: Incorrecto. El logaritmo del producto NO es el producto de los logaritmos. -->
 - [x] C) \(\log_{10}(I) = \log_{10}(I_0) - 0.5x\) <!-- feedback: Correcto. Aplicando logaritmo: \(\log_{10}(I_0 \cdot 10^{-0.5x}) = \log_{10}(I_0) + \log_{10}(10^{-0.5x}) = \log_{10}(I_0) - 0.5x\). -->
@@ -483,12 +488,12 @@ Y como \(\log_{10}(10^y) = y\):
 **Bloom:** Evaluate
 **ICFES:** Razonamiento y Argumentacion
 
-**Context:** En la clase de matematicas de grado 10 en el Colegio La Salle de Medellin, el profesor desafia a los estudiantes con un problema integral de vectores y conicas.
+**Contexto:** En la clase de matematicas de grado 10 en el Colegio La Salle de Medellin, el profesor desafia a los estudiantes con un problema integral de vectores y conicas.
 
 ### Enunciado
 Un punto P se mueve en el plano de tal manera que la suma de los cuadrados de sus distancias a dos puntos fijos F1(2, 0) y F2(-2, 0) siempre es igual a 20. Cual es la ecuacion del lugar geometrico descrito por P?
 
-### Options
+### Opciones
 - [ ] A) \(\frac{x^2}{16} + \frac{y^2}{12} = 1\) <!-- feedback: Incorrecto. Esta seria la ecuacion usando la definicion de elipse (suma de distancias constante), pero la condicion es suma de cuadrados de distancias. -->
 - [ ] B) \(x^2 + y^2 = 4\) <!-- feedback: Incorrecto. Prueba con (0,0): distancias al cuadrado son 4+4=8, no 20. -->
 - [x] C) \(x^2 + y^2 = 6\) <!-- feedback: Correcto. Sea P(x,y): \([(x-2)^2+y^2] + [(x+2)^2+y^2] = 20\). Simplificando: \(2x^2 + 2y^2 + 8 = 20\), \(x^2 + y^2 = 6\). -->

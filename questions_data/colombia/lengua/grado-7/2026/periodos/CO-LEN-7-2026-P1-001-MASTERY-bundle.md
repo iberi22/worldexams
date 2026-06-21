@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-7-2026-W10-examen-periodo-1-001-MASTERY"
+id: "CO-LEN-7-2026-P1-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lengua-castellana"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 20
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W10 — Examen Periodo 1
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEN-7-2026-W00-examen per-001-MASTERY-v1`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Quibdó
+**Contexto:** Gimnasio Moderno en Quibdó
 **Expected_Success:** 0.70
 
 ### Enunciado
 En la clase de Lengua Castellana del Gimnasio Moderno en Quibdó, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Examen Periodo 1 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-LEN-7-2026-W00-examen per-001-MASTERY-v2`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Medellín
+**Contexto:** I.E. Jorge Eliécer Gaitán en Medellín
 **Expected_Success:** 0.75
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Jorge Eliécer Gaitán en Medellín, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Examen Periodo 1 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-LEN-7-2026-W00-examen per-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Quibdó
+**Contexto:** I.E. San José en Quibdó
 **Expected_Success:** 0.51
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. San José en Quibdó, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Examen Periodo 1 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-LEN-7-2026-W00-examen per-001-MASTERY-v4`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Quibdó
+**Contexto:** Gimnasio Moderno en Quibdó
 **Expected_Success:** 0.52
 
 ### Enunciado
 En la clase de Lengua Castellana del Gimnasio Moderno en Quibdó, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Examen Periodo 1 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-LEN-7-2026-W00-examen per-001-MASTERY-v5`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** I.E. San José en Barranquilla
+**Contexto:** I.E. San José en Barranquilla
 **Expected_Success:** 0.51
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. San José en Barranquilla, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Examen Periodo 1 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-LEN-7-2026-W00-examen per-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** Gimnasio Moderno en Cartagena
+**Contexto:** Gimnasio Moderno en Cartagena
 **Expected_Success:** 0.61
 
 ### Enunciado
 En la clase de Lengua Castellana del Gimnasio Moderno en Cartagena, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Examen Periodo 1 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-LEN-7-2026-W00-examen per-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Villavicencio
+**Contexto:** Gimnasio Moderno en Villavicencio
 **Expected_Success:** 0.50
 
 ### Enunciado
 En la clase de Lengua Castellana del Gimnasio Moderno en Villavicencio, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Examen Periodo 1 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-LEN-7-2026-W00-examen per-001-MASTERY-v8`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Armenia
+**Contexto:** I.E. Gabriel García Márquez en Armenia
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Gabriel García Márquez en Armenia, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Examen Periodo 1 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-LEN-7-2026-W00-examen per-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** I.E. Francisco de Paula Santander en Neiva
+**Contexto:** I.E. Francisco de Paula Santander en Neiva
 **Expected_Success:** 0.67
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Francisco de Paula Santander en Neiva, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Examen Periodo 1 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-LEN-7-2026-W00-examen per-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Sincelejo
+**Contexto:** I.E. Jorge Eliécer Gaitán en Sincelejo
 **Expected_Success:** 0.72
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Jorge Eliécer Gaitán en Sincelejo, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -244,13 +249,13 @@ El tema de Examen Periodo 1 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-LEN-7-2026-W00-examen per-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Medellín
+**Contexto:** Colegio Nacional San Bartolomé en Medellín
 **Expected_Success:** 0.59
 
 ### Enunciado
 En la clase de Lengua Castellana del Colegio Nacional San Bartolomé en Medellín, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -266,13 +271,13 @@ El tema de Examen Periodo 1 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-LEN-7-2026-W00-examen per-001-MASTERY-v12`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Bucaramanga
+**Contexto:** I.E. Santa Luisa de Marillac en Bucaramanga
 **Expected_Success:** 0.52
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Santa Luisa de Marillac en Bucaramanga, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -288,13 +293,13 @@ El tema de Examen Periodo 1 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-LEN-7-2026-W00-examen per-001-MASTERY-v13`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Cartagena
+**Contexto:** I.E. Jorge Eliécer Gaitán en Cartagena
 **Expected_Success:** 0.64
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Jorge Eliécer Gaitán en Cartagena, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -310,13 +315,13 @@ El tema de Examen Periodo 1 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-LEN-7-2026-W00-examen per-001-MASTERY-v14`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Bucaramanga
+**Contexto:** I.E. Jorge Eliécer Gaitán en Bucaramanga
 **Expected_Success:** 0.77
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Jorge Eliécer Gaitán en Bucaramanga, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -332,13 +337,13 @@ El tema de Examen Periodo 1 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-LEN-7-2026-W00-examen per-001-MASTERY-v15`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Manizales
+**Contexto:** I.E. Jorge Eliécer Gaitán en Manizales
 **Expected_Success:** 0.73
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Jorge Eliécer Gaitán en Manizales, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -354,13 +359,13 @@ El tema de Examen Periodo 1 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-LEN-7-2026-W00-examen per-001-MASTERY-v16`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Sincelejo
+**Contexto:** Colegio La Presentación en Sincelejo
 **Expected_Success:** 0.76
 
 ### Enunciado
 En la clase de Lengua Castellana del Colegio La Presentación en Sincelejo, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -376,13 +381,13 @@ El tema de Examen Periodo 1 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-LEN-7-2026-W00-examen per-001-MASTERY-v17`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Cúcuta
+**Contexto:** Gimnasio Moderno en Cúcuta
 **Expected_Success:** 0.64
 
 ### Enunciado
 En la clase de Lengua Castellana del Gimnasio Moderno en Cúcuta, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -398,13 +403,13 @@ El tema de Examen Periodo 1 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-LEN-7-2026-W00-examen per-001-MASTERY-v18`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Villavicencio
+**Contexto:** I.E. Jorge Eliécer Gaitán en Villavicencio
 **Expected_Success:** 0.64
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Jorge Eliécer Gaitán en Villavicencio, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -420,13 +425,13 @@ El tema de Examen Periodo 1 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-LEN-7-2026-W00-examen per-001-MASTERY-v19`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Cartagena
+**Contexto:** Gimnasio Moderno en Cartagena
 **Expected_Success:** 0.66
 
 ### Enunciado
 En la clase de Lengua Castellana del Gimnasio Moderno en Cartagena, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -442,13 +447,13 @@ El tema de Examen Periodo 1 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-LEN-7-2026-W00-examen per-001-MASTERY-v20`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Armenia
+**Contexto:** I.E. San José en Armenia
 **Expected_Success:** 0.61
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. San José en Armenia, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

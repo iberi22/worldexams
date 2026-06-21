@@ -1,10 +1,10 @@
 ---
-id: "HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY"
+id: "HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY-bundle"
 country: "honduras"
 grado: 11
 asignatura: "lengua"
 tema: "coherencia-cohesion"
-semana: "W24"
+week: "W24"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -14,7 +14,12 @@ modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Coherencia Cohesion - Grado 11 - Lengua y Literatura"
 license: "FREE"
+bundle_type: "weekly"
+total_questions: 20
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Coherencia Cohesion - Grado 11
 
@@ -23,480 +28,500 @@ alineadas con el CNB Honduras (Curriculo Nacional Basico) para Bachillerato 2026
 
 ---
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 **ID:** `HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY-v1`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **Competencia:** Interpretacion Textual
 **Expected_Success:** 0.92
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 En texto sobre Gracias, la idea principal del parrafo sobre coherencia-cohesion:
 
 ### Opciones
-- [x] A) Practicas culturales de Honduras
-  <!-- feedback: Correcto. Explicacion pedagogica sobre coherencia cohesion en el contexto de Gracias, Copan, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Practicas culturales de Honduras. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Practicas culturales de Honduras. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Practicas culturales de Honduras. -->
+- [x] A) Practicas culturales de Honduras <!-- feedback: Correcto! Practicas culturales de Honduras -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre coherencia cohesion en el contexto de Gracias, Copan, Honduras.
 
 ---
 
-## Pregunta 2 [D2]
+## Question 2 [D2]
 **ID:** `HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY-v2`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.89
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 'El canto del pueblo' de Roberto Sosa es poesia:
 
 ### Opciones
-- [x] A) Lirica
-  <!-- feedback: Correcto. Explicacion pedagogica sobre coherencia cohesion en el contexto de Trujillo, Valle, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Lirica. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Lirica. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Lirica. -->
+- [x] A) Lirica <!-- feedback: Correcto! Lirica -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre coherencia cohesion en el contexto de Trujillo, Valle, Honduras.
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY-v3`
 **Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **Competencia:** Interpretacion Textual
 **Expected_Success:** 0.86
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 'Danli' es palabra aguda. Lleva tilde?
 
 ### Opciones
-- [x] A) grave, lleva tilde
-  <!-- feedback: Correcto. Explicacion pedagogica sobre coherencia cohesion en el contexto de Danli, La Paz, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: grave, lleva tilde. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: grave, lleva tilde. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: grave, lleva tilde. -->
+- [x] A) grave, lleva tilde <!-- feedback: Correcto! grave, lleva tilde -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre coherencia cohesion en el contexto de Danli, La Paz, Honduras.
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY-v4`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **Competencia:** Produccion Textual
 **Expected_Success:** 0.83
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 'Fernando lee un libro en Catacamas'. Sujeto de la oracion?
 
 ### Opciones
-- [x] A) Fernando
-  <!-- feedback: Correcto. Explicacion pedagogica sobre coherencia cohesion en el contexto de Catacamas, Yoro, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Fernando. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Fernando. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Fernando. -->
+- [x] A) Fernando <!-- feedback: Correcto! Fernando -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre coherencia cohesion en el contexto de Catacamas, Yoro, Honduras.
 
 ---
 
-## Pregunta 5 [D2]
+## Question 5 [D2]
 **ID:** `HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY-v5`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.8
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 'Sus ojos son luceros' contiene:
 
 ### Opciones
-- [x] A) Metafora
-  <!-- feedback: Correcto. Explicacion pedagogica sobre coherencia cohesion en el contexto de Puerto Lempira, Francisco Morazan, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Metafora. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Metafora. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Metafora. -->
+- [x] A) Metafora <!-- feedback: Correcto! Metafora -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre coherencia cohesion en el contexto de Puerto Lempira, Francisco Morazan, Honduras.
 
 ---
 
-## Pregunta 6 [D2]
+## Question 6 [D2]
 **ID:** `HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY-v6`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **Competencia:** Produccion Textual
 **Expected_Success:** 0.77
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Sinonimo de 'efimero'?
 
 ### Opciones
-- [x] A) Sobrio
-  <!-- feedback: Correcto. Explicacion pedagogica sobre coherencia cohesion en el contexto de Puerto Cortes, Gracias a Dios, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Sobrio. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Sobrio. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Sobrio. -->
+- [x] A) Sobrio <!-- feedback: Correcto! Sobrio -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre coherencia cohesion en el contexto de Puerto Cortes, Gracias a Dios, Honduras.
 
 ---
 
-## Pregunta 7 [D5]
+## Question 7 [D5]
 **ID:** `HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY-v7`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **Competencia:** Produccion Textual
 **Expected_Success:** 0.74
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 'Por que' separado se usa en preguntas y 'porque' junto es:
 
 ### Opciones
-- [x] A) Conjuncion causal
-  <!-- feedback: Correcto. Explicacion pedagogica sobre coherencia cohesion en el contexto de Roatan, Valle, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Conjuncion causal. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Conjuncion causal. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Conjuncion causal. -->
+- [x] A) Conjuncion causal <!-- feedback: Correcto! Conjuncion causal -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre coherencia cohesion en el contexto de Roatan, Valle, Honduras.
 
 ---
 
-## Pregunta 8 [D5]
+## Question 8 [D5]
 **ID:** `HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY-v8`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **Competencia:** Produccion Textual
 **Expected_Success:** 0.71
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 'Sandra fue a Yoro ayer'. 'Ayer' es adverbio de:
 
 ### Opciones
-- [x] A) Tiempo
-  <!-- feedback: Correcto. Explicacion pedagogica sobre coherencia cohesion en el contexto de Yoro, Choluteca, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Tiempo. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Tiempo. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Tiempo. -->
+- [x] A) Tiempo <!-- feedback: Correcto! Tiempo -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre coherencia cohesion en el contexto de Yoro, Choluteca, Honduras.
 
 ---
 
-## Pregunta 9 [D2]
+## Question 9 [D2]
 **ID:** `HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY-v9`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **Competencia:** Produccion Textual
 **Expected_Success:** 0.68
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 'Sin embargo' es conector de:
 
 ### Opciones
-- [x] A) Oposicion o contraste
-  <!-- feedback: Correcto. Explicacion pedagogica sobre coherencia cohesion en el contexto de Santa Rita, El Paraiso, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Oposicion o contraste. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Oposicion o contraste. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Oposicion o contraste. -->
+- [x] A) Oposicion o contraste <!-- feedback: Correcto! Oposicion o contraste -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre coherencia cohesion en el contexto de Santa Rita, El Paraiso, Honduras.
 
 ---
 
-## Pregunta 10 [D1]
+## Question 10 [D1]
 **ID:** `HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY-v10`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 En Honduras se usa 'vos' en lugar de 'tu'. Esto se llama:
 
 ### Opciones
-- [x] A) Voseo
-  <!-- feedback: Correcto. Explicacion pedagogica sobre coherencia cohesion en el contexto de Trujillo, Colon, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Voseo. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Voseo. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Voseo. -->
+- [x] A) Voseo <!-- feedback: Correcto! Voseo -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre coherencia cohesion en el contexto de Trujillo, Colon, Honduras.
 
 ---
 
-## Pregunta 11 [D3]
+## Question 11 [D3]
 **ID:** `HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY-v11`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.62
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 'Grande' es adjetivo:
 
 ### Opciones
-- [x] A) Calificativo
-  <!-- feedback: Correcto. Explicacion pedagogica sobre coherencia cohesion en el contexto de La Esperanza, Cortes, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Calificativo. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Calificativo. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Calificativo. -->
+- [x] A) Calificativo <!-- feedback: Correcto! Calificativo -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre coherencia cohesion en el contexto de La Esperanza, Cortes, Honduras.
 
 ---
 
-## Pregunta 12 [D1]
+## Question 12 [D1]
 **ID:** `HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY-v12`
 **Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.59
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 La obra 'Prisión Verde' de Ramon Amaya Amador es una novela de:
 
 ### Opciones
-- [x] A) Denuncia social
-  <!-- feedback: Correcto. Explicacion pedagogica sobre coherencia cohesion en el contexto de Yoro, Islas de la Bahia, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Denuncia social. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Denuncia social. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Denuncia social. -->
+- [x] A) Denuncia social <!-- feedback: Correcto! Denuncia social -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre coherencia cohesion en el contexto de Yoro, Islas de la Bahia, Honduras.
 
 ---
 
-## Pregunta 13 [D4]
+## Question 13 [D4]
 **ID:** `HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY-v13`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **Competencia:** Produccion Textual
 **Expected_Success:** 0.56
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 'Julio, ve a Tegucigalpa por favor' expresa:
 
 ### Opciones
-- [x] A) Ruego o mandato
-  <!-- feedback: Correcto. Explicacion pedagogica sobre coherencia cohesion en el contexto de Tegucigalpa, La Paz, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Ruego o mandato. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Ruego o mandato. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Ruego o mandato. -->
+- [x] A) Ruego o mandato <!-- feedback: Correcto! Ruego o mandato -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre coherencia cohesion en el contexto de Tegucigalpa, La Paz, Honduras.
 
 ---
 
-## Pregunta 14 [D3]
+## Question 14 [D3]
 **ID:** `HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY-v14`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.53
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 El prefijo 'pre-' en 'precolombino' significa:
 
 ### Opciones
-- [x] A) Antes o anterior
-  <!-- feedback: Correcto. Explicacion pedagogica sobre coherencia cohesion en el contexto de Nacaome, Colon, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Antes o anterior. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Antes o anterior. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Antes o anterior. -->
+- [x] A) Antes o anterior <!-- feedback: Correcto! Antes o anterior -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre coherencia cohesion en el contexto de Nacaome, Colon, Honduras.
 
 ---
 
-## Pregunta 15 [D1]
+## Question 15 [D1]
 **ID:** `HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY-v15`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.5
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 'Para que' indica:
 
 ### Opciones
-- [x] A) Concesion
-  <!-- feedback: Correcto. Explicacion pedagogica sobre coherencia cohesion en el contexto de Siguatepeque, Yoro, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Concesion. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Concesion. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Concesion. -->
+- [x] A) Concesion <!-- feedback: Correcto! Concesion -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre coherencia cohesion en el contexto de Siguatepeque, Yoro, Honduras.
 
 ---
 
-## Pregunta 16 [D1]
+## Question 16 [D1]
 **ID:** `HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY-v16`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.47
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 La palabra 'cantante' se forma por derivacion:
 
 ### Opciones
-- [x] A) Sufijacion
-  <!-- feedback: Correcto. Explicacion pedagogica sobre coherencia cohesion en el contexto de Trujillo, Gracias a Dios, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Sufijacion. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Sufijacion. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Sufijacion. -->
+- [x] A) Sufijacion <!-- feedback: Correcto! Sufijacion -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre coherencia cohesion en el contexto de Trujillo, Gracias a Dios, Honduras.
 
 ---
 
-## Pregunta 17 [D2]
+## Question 17 [D2]
 **ID:** `HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY-v17`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **Competencia:** Produccion Textual
 **Expected_Success:** 0.44
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 'El' es articulo definido en espanol:
 
 ### Opciones
-- [x] A) El
-  <!-- feedback: Correcto. Explicacion pedagogica sobre coherencia cohesion en el contexto de Intibuca, Atlantida, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: El. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: El. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: El. -->
+- [x] A) El <!-- feedback: Correcto! El -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre coherencia cohesion en el contexto de Intibuca, Atlantida, Honduras.
 
 ---
 
-## Pregunta 18 [D2]
+## Question 18 [D2]
 **ID:** `HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY-v18`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.41
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 'Compuesta' tiene un verbo conjugado:
 
 ### Opciones
-- [x] A) Oracion simple
-  <!-- feedback: Correcto. Explicacion pedagogica sobre coherencia cohesion en el contexto de Choloma, Intibuca, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Oracion simple. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Oracion simple. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Oracion simple. -->
+- [x] A) Oracion simple <!-- feedback: Correcto! Oracion simple -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre coherencia cohesion en el contexto de Choloma, Intibuca, Honduras.
 
 ---
 
-## Pregunta 19 [D1]
+## Question 19 [D1]
 **ID:** `HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY-v19`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.38
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 La literatura de Clementina Suarez pertenece al siglo:
 
 ### Opciones
-- [x] A) XX o XIX segun autor
-  <!-- feedback: Correcto. Explicacion pedagogica sobre coherencia cohesion en el contexto de Siguatepeque, Cortes, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: XX o XIX segun autor. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: XX o XIX segun autor. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: XX o XIX segun autor. -->
+- [x] A) XX o XIX segun autor <!-- feedback: Correcto! XX o XIX segun autor -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre coherencia cohesion en el contexto de Siguatepeque, Cortes, Honduras.
 
 ---
 
-## Pregunta 20 [D2]
+## Question 20 [D2]
 **ID:** `HN-LEN-11-2026-W24-coherencia-cohesion-001-MASTERY-v20`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **Competencia:** Produccion Textual
 **Expected_Success:** 0.35
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 'El Sisimite' es una leyenda hondurena:
 
 ### Opciones
-- [x] A) Leyenda tradicional hondurena
-  <!-- feedback: Correcto. Explicacion pedagogica sobre coherencia cohesion en el contexto de Villanueva, Yoro, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: Leyenda tradicional hondurena. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: Leyenda tradicional hondurena. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: Leyenda tradicional hondurena. -->
+- [x] A) Leyenda tradicional hondurena <!-- feedback: Correcto! Leyenda tradicional hondurena -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre coherencia cohesion en el contexto de Villanueva, Yoro, Honduras.

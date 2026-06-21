@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W13-tema-semana-13-de-matematicas-001-MASTERY"
+id: "CO-MAT-6-2026-W13-tema-semana-13-de-matematicas-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 10
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W13 — Tema Semana 13 de Matematicas
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Cúcuta
+**Contexto:** I.E. Jorge Eliécer Gaitán en Cúcuta
 **Expected_Success:** 0.56
 
 ### Enunciado
 En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Cúcuta, se discute sobre Tema Semana 13 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 13 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 13 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 13 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 13 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** I.E. Santa Luisa de Marillac en Cali
+**Contexto:** I.E. Santa Luisa de Marillac en Cali
 **Expected_Success:** 0.68
 
 ### Enunciado
 En la clase de Matematicas del I.E. Santa Luisa de Marillac en Cali, se discute sobre Tema Semana 13 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 13 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 13 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 13 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 13 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** Colegio Nacional San Bartolomé en Barranquilla
+**Contexto:** Colegio Nacional San Bartolomé en Barranquilla
 **Expected_Success:** 0.62
 
 ### Enunciado
 En la clase de Matematicas del Colegio Nacional San Bartolomé en Barranquilla, se discute sobre Tema Semana 13 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 13 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 13 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 13 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 13 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. Jorge Eliécer Gaitán en Armenia
+**Contexto:** I.E. Jorge Eliécer Gaitán en Armenia
 **Expected_Success:** 0.52
 
 ### Enunciado
 En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Armenia, se discute sobre Tema Semana 13 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 13 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 13 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 13 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 13 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Pasto
+**Contexto:** Colegio La Presentación en Pasto
 **Expected_Success:** 0.78
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Pasto, se discute sobre Tema Semana 13 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 13 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 13 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 13 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 13 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. Santa Luisa de Marillac en Armenia
+**Contexto:** I.E. Santa Luisa de Marillac en Armenia
 **Expected_Success:** 0.64
 
 ### Enunciado
 En la clase de Matematicas del I.E. Santa Luisa de Marillac en Armenia, se discute sobre Tema Semana 13 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 13 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 13 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 13 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 13 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Neiva
+**Contexto:** Colegio La Presentación en Neiva
 **Expected_Success:** 0.52
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Neiva, se discute sobre Tema Semana 13 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 13 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 13 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 13 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 13 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Ibagué
+**Contexto:** Colegio La Presentación en Ibagué
 **Expected_Success:** 0.56
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Ibagué, se discute sobre Tema Semana 13 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 13 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 13 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 13 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 13 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Pereira
+**Contexto:** I.E. Santa Luisa de Marillac en Pereira
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Matematicas del I.E. Santa Luisa de Marillac en Pereira, se discute sobre Tema Semana 13 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 13 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 13 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 13 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 13 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. San José en Medellín
+**Contexto:** I.E. San José en Medellín
 **Expected_Success:** 0.74
 
 ### Enunciado
 En la clase de Matematicas del I.E. San José en Medellín, se discute sobre Tema Semana 13 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 13 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 13 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 13 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

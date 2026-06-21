@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-W29-argumentacion-basica-001-MASTERY"
+id: "CO-LEC-6-2026-W29-argumentacion-basica-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -15,7 +15,9 @@ alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W29 — Argumentación Básica
 
@@ -27,14 +29,15 @@ tier: "legacy"
 
 **ID:** `CO-LEC-6-2026-W29-argumentacion-basica-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de tipos de texto
-**Context:** Definición de argumentación
+**Contexto:** Definición de argumentación
 
 ### Enunciado
 
 ¿Qué es un texto argumentativo?
 
-### Options
+### Opciones
 - [ ] A) Un texto que narra una historia con personajes <!-- feedback: Incorrecto. Eso es un texto narrativo. El texto argumentativo busca convencer, no contar una historia. -->
 - [x] B) Un texto que defiende una opinión o postura usando razones para convencer al lector <!-- feedback: ¡Correcto! La argumentación consiste en presentar una tesis u opinión y apoyarla con argumentos o razones para persuadir a quien lee o escucha. -->
 - [ ] C) Un texto que explica cómo hacer algo paso a paso <!-- feedback: Incorrecto. Eso es un texto instructivo. El propósito de la argumentación es convencer, no instruir. -->
@@ -50,14 +53,15 @@ El texto argumentativo tiene un propósito persuasivo. Su estructura típica inc
 
 **ID:** `CO-LEC-6-2026-W29-argumentacion-basica-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de elementos textuales
-**Context:** Tesis y argumentos
+**Contexto:** Tesis y argumentos
 
 ### Enunciado
 
 En un texto argumentativo, la tesis es:
 
-### Options
+### Opciones
 - [ ] A) La historia que se cuenta para entretener <!-- feedback: Incorrecto. La tesis no es una historia. Es la idea principal que se quiere defender en la argumentación. -->
 - [ ] B) La lista de materiales necesarios <!-- feedback: Incorrecto. Eso corresponde a un texto instructivo, no a un texto argumentativo. -->
 - [x] C) La idea u opinión que el autor defiende a lo largo del texto <!-- feedback: ¡Correcto! La tesis es la postura del autor frente a un tema. Es la afirmación central que necesita ser respaldada con argumentos. -->
@@ -73,8 +77,9 @@ Identificar la tesis es el primer paso para analizar un texto argumentativo. Par
 
 **ID:** `CO-LEC-6-2026-W29-argumentacion-basica-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de la tesis
-**Context:** Texto argumentativo escolar
+**Contexto:** Texto argumentativo escolar
 
 ### Enunciado
 
@@ -84,7 +89,7 @@ Identificar la tesis es el primer paso para analizar un texto argumentativo. Par
 
 ¿Cuál es la tesis del texto anterior?
 
-### Options
+### Opciones
 - [ ] A) Los estudiantes no quieren hacer tareas <!-- feedback: Incorrecto. Esa es una opinión de algunos estudiantes, no la tesis del autor. El autor defiende lo contrario. -->
 - [x] B) Las tareas escolares son fundamentales y deben seguir siendo parte de la formación <!-- feedback: ¡Correcto! La tesis aparece al inicio: "las tareas son fundamentales para el aprendizaje" y al final: "deben seguir siendo parte de la formación". -->
 - [ ] C) Los padres deben ayudar a sus hijos con las tareas <!-- feedback: Incorrecto. Eso es solo uno de los argumentos, no la tesis principal. La tesis es más amplia. -->
@@ -100,14 +105,15 @@ Para identificar la tesis, busca la oración que resume la postura del autor. A 
 
 **ID:** `CO-LEC-6-2026-W29-argumentacion-basica-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de argumentos
-**Context:** Reconocer razones que apoyan la tesis
+**Contexto:** Reconocer razones que apoyan la tesis
 
 ### Enunciado
 
 Relee el texto anterior sobre las tareas escolares. ¿Cuántos argumentos usa el autor para defender su tesis?
 
-### Options
+### Opciones
 - [ ] A) Uno: que los estudiantes necesitan repasar <!-- feedback: Incorrecto. El autor da más de un argumento. Hay que contar todas las razones que menciona. -->
 - [x] B) Tres: repasar lo visto, organizar el tiempo e involucrar a los padres <!-- feedback: ¡Correcto! El autor presenta tres argumentos marcados con "En primer lugar", "En segundo lugar" y "Finalmente". Cada uno es una razón independiente que apoya la tesis. -->
 - [ ] C) Cuatro: incluyendo la opinión de los estudiantes <!-- feedback: Incorrecto. La opinión de los estudiantes ("creen que es pérdida de tiempo") no es un argumento del autor. Es la postura contraria que introduce el tema. -->
@@ -123,8 +129,9 @@ Los textos argumentativos se apoyan en palabras clave como "en primer lugar", "a
 
 **ID:** `CO-LEC-6-2026-W29-argumentacion-basica-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Diferenciar hecho de opinión
-**Context:** Hechos vs. opiniones en argumentación
+**Contexto:** Hechos vs. opiniones en argumentación
 
 ### Enunciado
 
@@ -132,7 +139,7 @@ Los textos argumentativos se apoyan en palabras clave como "en primer lugar", "a
 
 ¿Cuál de las siguientes afirmaciones del texto es un HECHO y cuál es una OPINIÓN?
 
-### Options
+### Opciones
 - [ ] A) Ambas son opiniones porque expresan lo que alguien piensa <!-- feedback: Incorrecto. El primer dato (aumento del 15%) se puede verificar, por lo tanto es un hecho. Solo la segunda parte es opinión. -->
 - [x] B) "El reciclaje ha aumentado un 15%" es un hecho verificable; "todos los colegios deberían tener programas" es una opinión <!-- feedback: ¡Correcto! Un hecho se puede comprobar con datos y evidencias. Una opinión expresa un punto de vista personal que puede ser debatido. -->
 - [ ] C) Ambas son hechos porque el texto las presenta como verdaderas <!-- feedback: Incorrecto. Que algo se presente como verdadero no lo convierte automáticamente en un hecho. Las opiniones son juicios personales, aunque estén bien argumentadas. -->
@@ -148,8 +155,9 @@ Diferenciar entre hechos y opiniones es clave para la lectura crítica. Los HECH
 
 **ID:** `CO-LEC-6-2026-W29-argumentacion-basica-006-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Reconocimiento de argumentos a favor y en contra
-**Context:** Posturas opuestas
+**Contexto:** Posturas opuestas
 
 ### Enunciado
 
@@ -161,7 +169,7 @@ Diferenciar entre hechos y opiniones es clave para la lectura crítica. Los HECH
 
 ¿Cuál de los siguientes NO es un argumento del texto?
 
-### Options
+### Opciones
 - [ ] A) Reduce la contaminación del aire <!-- feedback: Incorrecto. Ese SÍ es un argumento a favor que aparece en el texto. -->
 - [ ] B) Afecta a quienes viven lejos de su trabajo <!-- feedback: Incorrecto. Ese SÍ es un argumento en contra que aparece en el texto. -->
 - [x] C) Las bicicletas son peligrosas en Bogotá <!-- feedback: ¡Correcto! Este argumento NO aparece en el texto. El texto menciona bicicletas como una alternativa positiva, no como algo peligroso. -->
@@ -177,8 +185,9 @@ Un mismo tema puede tener argumentos a favor y en contra. La lectura crítica im
 
 **ID:** `CO-LEC-6-2026-W29-argumentacion-basica-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Evaluación de la solidez de un argumento
-**Context:** Juzgar si un argumento es válido
+**Contexto:** Juzgar si un argumento es válido
 
 ### Enunciado
 
@@ -188,7 +197,7 @@ Lee el siguiente argumento:
 
 ¿Este argumento es válido?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque cada persona puede opinar sobre lo que no le gusta <!-- feedback: Incorrecto. Una opinión personal no es necesariamente un argumento válido. La validez depende de si la razón es sólida y pertinente. -->
 - [ ] B) Sí, porque si una persona no es buena en algo, nadie más debe hacerlo <!-- feedback: Incorrecto. Eso no es razonable. Que una persona no sea buena en algo no significa que los demás no deban practicarlo. -->
 - [x] C) No, porque la experiencia personal de una persona no es razón suficiente para eliminar una materia para todos <!-- feedback: ¡Correcto! Un argumento válido debe tener razones que afecten a todos o a la mayoría. La experiencia individual no es suficiente para tomar una decisión general. -->
@@ -204,8 +213,9 @@ No todos los argumentos son igual de sólidos. Un argumento débil se basa en ex
 
 **ID:** `CO-LEC-6-2026-W29-argumentacion-basica-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Análisis de estructura argumentativa
-**Context:** Identificar tesis, argumentos y conclusión
+**Contexto:** Identificar tesis, argumentos y conclusión
 
 ### Enunciado
 
@@ -215,7 +225,7 @@ No todos los argumentos son igual de sólidos. Un argumento débil se basa en ex
 
 ¿Cuál de las siguientes opciones describe correctamente la estructura del texto?
 
-### Options
+### Opciones
 - [ ] A) (1) Argumento, (2) Tesis, (3) Argumento, (4) Argumento, (5) Conclusión <!-- feedback: Incorrecto. La oración (1) introduce el contexto del problema, no es un argumento. Y (2) contiene la tesis, no un argumento. -->
 - [x] B) (1) Contexto, (2) Tesis, (3) Argumento, (4) Argumento, (5) Conclusión <!-- feedback: ¡Correcto! La oración (1) presenta el contexto (cómo funciona el servicio incluido), (2) es la tesis (debería eliminarse), (3) y (4) son argumentos que la apoyan, y (5) es la conclusión que retoma la tesis. -->
 - [ ] C) (1) Tesis, (2) Argumento, (3) Argumento, (4) Conclusión, (5) Opinión <!-- feedback: Incorrecto. (1) no es la tesis, es el contexto. Y (4) no es conclusión, es otro argumento. -->
@@ -231,8 +241,9 @@ Los textos argumentativos tienen una estructura reconocible. El contexto present
 
 **ID:** `CO-LEC-6-2026-W29-argumentacion-basica-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contraargumentos
-**Context:** Anticipar objeciones
+**Contexto:** Anticipar objeciones
 
 ### Enunciado
 
@@ -240,7 +251,7 @@ Un estudiante escribe: "Los perros deberían poder entrar a todos los parques de
 
 ¿Cuál de las siguientes opciones sería un buen CONTRAARGUMENTO (una objeción razonable a su postura)?
 
-### Options
+### Opciones
 - [ ] A) "Los perros son los mejores amigos del hombre" <!-- feedback: Incorrecto. Eso apoya la postura del estudiante, no es una objeción. Un contraargumento debe dar razones en contra. -->
 - [ ] B) "Prefiero los gatos a los perros" <!-- feedback: Incorrecto. Eso es una preferencia personal, no un argumento razonado en contra. No aporta razones válidas. -->
 - [x] C) "Algunas personas tienen miedo a los perros o son alérgicas, y los parques son espacios públicos para todos" <!-- feedback: ¡Correcto! Este es un contraargumento válido porque presenta una razón (seguridad y alergias) por la cual la propuesta podría no ser adecuada para todos los parques. -->
@@ -256,14 +267,15 @@ Un contraargumento es una razón que se opone a la tesis del autor. Reconocer po
 
 **ID:** `CO-LEC-6-2026-W29-argumentacion-basica-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Valoración crítica de argumentos
-**Context:** Elegir el mejor argumento
+**Contexto:** Elegir el mejor argumento
 
 ### Enunciado
 
 Imagina que debes escribir una carta al rector de tu colegio pidiendo que instalen más canecas de reciclaje. ¿Cuál de los siguientes sería el argumento MÁS convincente?
 
-### Options
+### Opciones
 - [ ] A) "No me gusta ver basura en el piso" <!-- feedback: Incorrecto. Es una opinión personal basada en el gusto. No es un argumento sólido para convencer a un rector, que necesita razones objetivas. -->
 - [ ] B) "En otros colegios hay más canecas" <!-- feedback: Incorrecto. Es una comparación débil. No explica por qué eso es necesario ni qué beneficios traería. -->
 - [x] C) "El reciclaje reduce la contaminación y los colegios que reciclan reciben incentivos de la Alcaldía, lo que beneficiaría económicamente a la institución" <!-- feedback: ¡Correcto! Este argumento combina un beneficio ambiental (reducir contaminación) con un beneficio práctico (incentivos económicos). Es concreto, verificable y apela al interés de la institución. -->

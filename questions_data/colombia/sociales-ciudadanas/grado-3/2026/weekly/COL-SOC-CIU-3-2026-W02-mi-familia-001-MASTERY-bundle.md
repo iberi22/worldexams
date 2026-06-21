@@ -1,10 +1,10 @@
 ---
-id: "COL-SOC-CIU-3-2026-W02-mi-familia-001-MASTERY"
+id: "COL-SOC-CIU-3-2026-W02-mi-familia-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "sociales-ciudadanas"
 tema: "mi-familia"
-semana: "W02"
+week: "W02"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 8
@@ -19,7 +19,12 @@ rubric_baseline: "mi_familia, tipos_de_familia, roles_familiares, parentesco, va
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Mi Familia
 
@@ -27,13 +32,14 @@ Este bundle cubre el tema de la familia como núcleo fundamental de la sociedad 
 
 ---
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 
 **ID:** `COL-SOC-CIU-3-2026-W02-mi-familia-001-MASTERY-v1`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento social
 **Expected_Success:** 0.85
-**Context:** En la clase de Sociales de la I.E. Francisco José de Caldas de Manizales, la profesora pregunta sobre los miembros de la familia.
+**Contexto:** En la clase de Sociales de la I.E. Francisco José de Caldas de Manizales, la profesora pregunta sobre los miembros de la familia.
 
 ### Enunciado
 ¿Cuáles son los miembros más comunes de una familia?
@@ -49,13 +55,14 @@ Se evalúa el reconocimiento de los miembros básicos de la familia. En Colombia
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `COL-SOC-CIU-3-2026-W02-mi-familia-001-MASTERY-v2`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento social
 **Expected_Success:** 0.82
-**Context:** En la I.E. San Pedro Claver de Popayán, los estudiantes de grado 3 están aprendiendo sobre los lazos familiares.
+**Contexto:** En la I.E. San Pedro Claver de Popayán, los estudiantes de grado 3 están aprendiendo sobre los lazos familiares.
 
 ### Enunciado
 Los lazos de parentesco son las relaciones que existen entre los miembros de una familia. ¿Cuál de estas es una relación de parentesco?
@@ -71,13 +78,14 @@ Se evalúa la identificación de las relaciones de parentesco. En Colombia, los 
 
 ---
 
-## Pregunta 3 [D2]
+## Question 3 [D2]
 
 **ID:** `COL-SOC-CIU-3-2026-W02-mi-familia-001-MASTERY-v3`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Interpretación y análisis de perspectivas
 **Expected_Success:** 0.78
-**Context:** La profesora de la I.E. La Salle de Cúcuta explica que existen diferentes tipos de familia en Colombia.
+**Contexto:** La profesora de la I.E. La Salle de Cúcuta explica que existen diferentes tipos de familia en Colombia.
 
 ### Enunciado
 En Colombia existen diferentes tipos de familia. ¿Cuál de las siguientes descripciones corresponde a una familia monoparental?
@@ -93,13 +101,14 @@ En la sociedad colombiana actual existen diversos tipos de familia. La familia m
 
 ---
 
-## Pregunta 4 [D2]
+## Question 4 [D2]
 
 **ID:** `COL-SOC-CIU-3-2026-W02-mi-familia-001-MASTERY-v4`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Interpretación y análisis de perspectivas
 **Expected_Success:** 0.75
-**Context:** En la I.E. Técnica Industrial de Sogamoso, el profesor de Sociales pregunta sobre la importancia de la familia.
+**Contexto:** En la I.E. Técnica Industrial de Sogamoso, el profesor de Sociales pregunta sobre la importancia de la familia.
 
 ### Enunciado
 ¿Por qué la familia es importante para la sociedad colombiana?
@@ -115,13 +124,14 @@ La familia es reconocida por la Constitución Política de Colombia como el núc
 
 ---
 
-## Pregunta 5 [D3]
+## Question 5 [D3]
 
 **ID:** `COL-SOC-CIU-3-2026-W02-mi-familia-001-MASTERY-v5`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.65
-**Context:** En la I.E. Normal Superior de Sincelejo, la profesora pide a los estudiantes que describan las responsabilidades que tienen en casa.
+**Contexto:** En la I.E. Normal Superior de Sincelejo, la profesora pide a los estudiantes que describan las responsabilidades que tienen en casa.
 
 ### Enunciado
 ¿Cuál de las siguientes es una responsabilidad que un niño de grado 3 puede tener en su casa para ayudar a su familia?
@@ -137,13 +147,14 @@ Los niños pueden contribuir en el hogar con tareas sencillas y adecuadas a su e
 
 ---
 
-## Pregunta 6 [D3]
+## Question 6 [D3]
 
 **ID:** `COL-SOC-CIU-3-2026-W02-mi-familia-001-MASTERY-v6`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.62
-**Context:** En el colegio Camilo Torres de Tunja, los estudiantes hablan sobre cómo celebrar en familia el Día de la Madre.
+**Contexto:** En el colegio Camilo Torres de Tunja, los estudiantes hablan sobre cómo celebrar en familia el Día de la Madre.
 
 ### Enunciado
 La familia colombiana celebra fechas especiales como el Día de la Madre, el Día del Padre o la Navidad. ¿Por qué son importantes estas celebraciones?
@@ -159,13 +170,14 @@ Las celebraciones familiares son tradiciones que fortalecen los vínculos afecti
 
 ---
 
-## Pregunta 7 [D4]
+## Question 7 [D4]
 
 **ID:** `COL-SOC-CIU-3-2026-W02-mi-familia-001-MASTERY-v7`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **ICFES category:** Razonamiento y Argumentación
 **Expected_Success:** 0.52
-**Context:** En la I.E. Rafael Uribe Uribe de Bogotá, el profesor de Sociales pregunta por qué las familias han cambiado con el tiempo en Colombia.
+**Contexto:** En la I.E. Rafael Uribe Uribe de Bogotá, el profesor de Sociales pregunta por qué las familias han cambiado con el tiempo en Colombia.
 
 ### Enunciado
 ¿Por qué en la Colombia actual existen familias de diferentes tipos (nucleares, monoparentales, extensas, etc.)?
@@ -181,13 +193,14 @@ La familia colombiana ha experimentado transformaciones importantes en las últi
 
 ---
 
-## Pregunta 8 [D5]
+## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-3-2026-W02-mi-familia-001-MASTERY-v8`
 **Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.42
-**Context:** En la I.E. La Inmaculada de Pereira, los estudiantes de grado 3 debaten sobre si todas las familias son iguales.
+**Contexto:** En la I.E. La Inmaculada de Pereira, los estudiantes de grado 3 debaten sobre si todas las familias son iguales.
 
 ### Enunciado
 Tatiana dice: "Mi familia no es como la de mis amigos porque yo vivo solo con mi mamá y mi abuela, mientras que mis amigos viven con su papá y su mamá". ¿Qué es lo más importante que deben entender los compañeros de Tatiana?

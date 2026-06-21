@@ -1,5 +1,5 @@
 ---
-id: "COL-SOC-CIU-4-2026-W08-organizacion-territorial-veredas-corregimientos-municipios-001-MASTERY"
+id: "COL-SOC-CIU-4-2026-W08-organizacion-territorial-veredas-corregimientos-municipios-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Organización territorial colombiana: veredas, corregimientos,
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Organización territorial: veredas, corregimientos, municipios
 
@@ -30,15 +35,15 @@ Este bundle cubre las unidades de organización territorial en Colombia. Desde l
 ## Question 1 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W08-organizacion-territorial-veredas-corregimientos-municipios-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la I.E. San Luis Gonzaga de Caldas explican la vereda.
+**Contexto:** En la I.E. San Luis Gonzaga de Caldas explican la vereda.
 
 ### Enunciado
 ¿Qué es una vereda?
 
-### Options
-
+### Opciones
 - [x] A) La división territorial más pequeña del área rural. <!-- feedback: La vereda agrupa predios rurales. -->
 - [ ] B) Un barrio de la ciudad. <!-- feedback: El barrio es área urbana. -->
 - [ ] C) Un municipio pequeño. <!-- feedback: El municipio contiene veredas. -->
@@ -52,15 +57,15 @@ Se evalúa [Remember] con el tema de la pregunta.
 ## Question 2 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W08-organizacion-territorial-veredas-corregimientos-municipios-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** La profesora pregunta sobre el corregimiento.
+**Contexto:** La profesora pregunta sobre el corregimiento.
 
 ### Enunciado
 ¿Qué caracteriza a un corregimiento?
 
-### Options
-
+### Opciones
 - [ ] A) Es igual a una vereda. <!-- feedback: Tiene un centro poblado, la vereda no. -->
 - [x] B) Tiene un centro poblado con servicios. <!-- feedback: El corregimiento es un centro de servicios rural. -->
 - [ ] C) Tiene alcalde propio. <!-- feedback: No tiene alcalde propio. -->
@@ -74,15 +79,15 @@ Se evalúa [Remember] con el tema de la pregunta.
 ## Question 3 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W08-organizacion-territorial-veredas-corregimientos-municipios-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En la I.E. de Une, Cundinamarca, explican la jerarquía territorial.
+**Contexto:** En la I.E. de Une, Cundinamarca, explican la jerarquía territorial.
 
 ### Enunciado
 ¿Cómo se organizan las unidades territoriales de menor a mayor?
 
-### Options
-
+### Opciones
 - [ ] A) Departamento, municipio, vereda. <!-- feedback: Es al revés. -->
 - [ ] B) Municipio, vereda, departamento. <!-- feedback: La vereda es la más pequeña. -->
 - [x] C) Vereda, corregimiento, municipio, departamento. <!-- feedback: De menor a mayor: vereda, corregimiento, municipio, departamento. -->
@@ -96,15 +101,15 @@ Se evalúa [Understand] con el tema de la pregunta.
 ## Question 4 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W08-organizacion-territorial-veredas-corregimientos-municipios-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Analizan por qué existen diferentes divisiones territoriales.
+**Contexto:** Analizan por qué existen diferentes divisiones territoriales.
 
 ### Enunciado
 ¿Para qué sirve dividir el territorio en veredas, corregimientos y municipios?
 
-### Options
-
+### Opciones
 - [ ] A) Para cobrar más impuestos. <!-- feedback: No es el propósito. -->
 - [ ] B) Para confundir a las personas. <!-- feedback: Es para organizar, no para confundir. -->
 - [ ] C) Para que los niños aprendan geografía. <!-- feedback: No es el propósito principal. -->
@@ -118,15 +123,15 @@ Se evalúa [Understand] con el tema de la pregunta.
 ## Question 5 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W08-organizacion-territorial-veredas-corregimientos-municipios-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Un estudiante de la I.E. La Merced de Cali ubica su vereda.
+**Contexto:** Un estudiante de la I.E. La Merced de Cali ubica su vereda.
 
 ### Enunciado
 Si vives en una vereda y necesitas un servicio, ¿a qué municipio perteneces?
 
-### Options
-
+### Opciones
 - [x] A) Al municipio que tiene jurisdicción sobre esa vereda. <!-- feedback: Cada vereda pertenece a un municipio. -->
 - [ ] B) A cualquier municipio que quieras. <!-- feedback: Tiene un municipio asignado. -->
 - [ ] C) A ninguno, las veredas son independientes. <!-- feedback: Pertenecen a un municipio. -->
@@ -140,15 +145,15 @@ Se evalúa [Apply] con el tema de la pregunta.
 ## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W08-organizacion-territorial-veredas-corregimientos-municipios-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Los estudiantes de la I.E. Técnica de Chaparral aplican el concepto de unidad territorial.
+**Contexto:** Los estudiantes de la I.E. Técnica de Chaparral aplican el concepto de unidad territorial.
 
 ### Enunciado
 ¿Cuántas veredas puede tener un municipio?
 
-### Options
-
+### Opciones
 - [ ] A) Solo 5 veredas. <!-- feedback: No hay un número fijo. -->
 - [x] B) Puede tener muchas, depende de su extensión y población rural. <!-- feedback: Cada municipio tiene diferentes números de veredas. -->
 - [ ] C) Ninguna, las veredas son de los departamentos. <!-- feedback: Las veredas son parte del municipio. -->
@@ -162,15 +167,15 @@ Se evalúa [Apply] con el tema de la pregunta.
 ## Question 7 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W08-organizacion-territorial-veredas-corregimientos-municipios-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Analizan la organización territorial de Colombia.
+**Contexto:** Analizan la organización territorial de Colombia.
 
 ### Enunciado
 ¿Qué tienen en común todas las veredas de Colombia?
 
-### Options
-
+### Opciones
 - [ ] A) Todas tienen escuela y hospital. <!-- feedback: No todas tienen servicios. -->
 - [ ] B) Todas tienen más de 1000 habitantes. <!-- feedback: Pueden tener pocos habitantes. -->
 - [x] C) Son áreas rurales que pertenecen a un municipio. <!-- feedback: Todas las veredas son áreas rurales municipales. -->
@@ -184,15 +189,15 @@ Se evalúa [Analyze] con el tema de la pregunta.
 ## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W08-organizacion-territorial-veredas-corregimientos-municipios-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Comparan la organización de un municipio grande y uno pequeño.
+**Contexto:** Comparan la organización de un municipio grande y uno pequeño.
 
 ### Enunciado
 ¿Qué determina si un municipio tiene corregimientos o solo veredas?
 
-### Options
-
+### Opciones
 - [ ] A) El número de ríos que tiene. <!-- feedback: No es el factor determinante. -->
 - [ ] B) El color de su bandera. <!-- feedback: Eso no tiene relación. -->
 - [ ] C) La altura sobre el nivel del mar. <!-- feedback: No determina la organización territorial. -->
@@ -206,15 +211,15 @@ Se evalúa [Analyze] con el tema de la pregunta.
 ## Question 9 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W08-organizacion-territorial-veredas-corregimientos-municipios-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Evalúan la importancia de la organización territorial.
+**Contexto:** Evalúan la importancia de la organización territorial.
 
 ### Enunciado
 ¿Por qué es útil que Colombia se divida en municipios?
 
-### Options
-
+### Opciones
 - [x] A) Porque permite un gobierno local más cercano a las comunidades. <!-- feedback: El municipio es el nivel de gobierno más cercano al ciudadano. -->
 - [ ] B) Para que cada pueblo tenga su propio presidente. <!-- feedback: Los presidentes son solo uno nacional. -->
 - [ ] C) Para que sea más fácil contar a la población. <!-- feedback: No es el principal propósito. -->
@@ -229,14 +234,14 @@ Se evalúa [Evaluate] con el tema de la pregunta.
 
 **ID:** `COL-SOC-CIU-4-2026-W08-organizacion-territorial-veredas-corregimientos-municipios-001-MASTERY-v10`
 **Bloom:** [Create]
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Proponen una solución para una vereda sin acceso a servicios.
+**Contexto:** Proponen una solución para una vereda sin acceso a servicios.
 
 ### Enunciado
 ¿Cómo podrían los habitantes de una vereda conseguir un puesto de salud?
 
-### Options
-
+### Opciones
 - [ ] A) Declarar la vereda independiente. <!-- feedback: No es posible. -->
 - [x] B) Organizarse y solicitarlo al alcalde municipal. <!-- feedback: La gestión organizada ante la alcaldía es el camino correcto. -->
 - [ ] C) Esperar a que el presidente venga. <!-- feedback: El presidente no gestiona servicios locales. -->

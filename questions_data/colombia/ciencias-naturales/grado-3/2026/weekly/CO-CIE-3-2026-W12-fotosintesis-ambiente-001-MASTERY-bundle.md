@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY"
+id: "CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "fotosintesis-ambiente"
-semana: "W12"
+week: "W12"
 periodo: 2
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Importancia de la fotosíntesis en el ecosistema, equilibrio d
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # La Fotosíntesis y el Medio Ambiente
 
 Este bundle explora cómo el proceso de la fotosíntesis mantiene el equilibrio de la vida en la Tierra, purificando el aire y sirviendo como el primer eslabón de toda la alimentación animal.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En las grandes ciudades como Bogotá, hay muchos carros que lanzan humo invisible llamado dióxido de carbono al aire.
+**Contexto:** En las grandes ciudades como Bogotá, hay muchos carros que lanzan humo invisible llamado dióxido de carbono al aire.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -48,12 +52,12 @@ Las plantas son purificadoras naturales. Lo que para nosotros es un desecho tóx
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Sin las plantas, los animales carnívoros como los leones tampoco podrían existir, aunque ellos no comen hojas.
+**Contexto:** Sin las plantas, los animales carnívoros como los leones tampoco podrían existir, aunque ellos no comen hojas.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -73,12 +77,12 @@ Esto se llama cadena alimentaria. La energía del sol es capturada por las plant
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el Amazonas, los científicos llaman a la selva "el pulmón del mundo".
+**Contexto:** En el Amazonas, los científicos llaman a la selva "el pulmón del mundo".
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -98,12 +102,12 @@ Un pulmón sirve para intercambiar gases. Las selvas realizan esta tarea a una e
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Un agricultor decide cortar todos los árboles de un monte para que el sol le dé directo a su casa, pero ahora nota que el lugar es mucho más caliente y seco.
+**Contexto:** Un agricultor decide cortar todos los árboles de un monte para que el sol le dé directo a su casa, pero ahora nota que el lugar es mucho más caliente y seco.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -123,12 +127,12 @@ Las plantas son reguladoras del clima local. Al realizar fotosíntesis y transpi
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un experimento, se coloca una planta pequeña dentro de un frasco de vidrio cerrado con una vela encendida. La vela se apaga rápido cuando el oxígeno se acaba.
+**Contexto:** En un experimento, se coloca una planta pequeña dentro de un frasco de vidrio cerrado con una vela encendida. La vela se apaga rápido cuando el oxígeno se acaba.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -148,12 +152,12 @@ Este es un experimento clásico que demuestra que las plantas producen oxígeno.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Los arrecifes de coral en el mar Caribe dependen de unas algas microscópicas que viven dentro de ellos y hacen fotosíntesis.
+**Contexto:** Los arrecifes de coral en el mar Caribe dependen de unas algas microscópicas que viven dentro de ellos y hacen fotosíntesis.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -173,12 +177,12 @@ Este es un ejemplo de interdependencia. La fotosíntesis no solo alimenta a la p
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Algunos científicos dicen que los océanos producen más oxígeno para el mundo que todos los bosques de la tierra juntos.
+**Contexto:** Algunos científicos dicen que los océanos producen más oxígeno para el mundo que todos los bosques de la tierra juntos.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -198,12 +202,12 @@ A veces lo más pequeño es lo más importante. Miles de millones de seres micro
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Cuando quemamos basura o madera, estamos liberando el gas carbónico que la planta había guardado hace mucho tiempo.
+**Contexto:** Cuando quemamos basura o madera, estamos liberando el gas carbónico que la planta había guardado hace mucho tiempo.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -223,12 +227,12 @@ Los árboles son como "bodegas" de carbono. Al realizar fotosíntesis, toman el 
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** En otoño o en épocas de mucha sequía en Colombia, algunos árboles pierden todas sus hojas y parecen estar muertos.
+**Contexto:** En otoño o en épocas de mucha sequía en Colombia, algunos árboles pierden todas sus hojas y parecen estar muertos.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -248,12 +252,12 @@ Este es un ejemplo de ahorro de energía. Cuando no hay buenas condiciones para 
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W12-fotosintesis-ambiente-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un inventor propone llenar el cielo de nubes artificiales permanentes para que no haga tanto calor en las ciudades.
+**Contexto:** Un inventor propone llenar el cielo de nubes artificiales permanentes para que no haga tanto calor en las ciudades.
 **Expected_Success:** 0.50
 
 ### Enunciado

@@ -1,5 +1,5 @@
 ---
-id: "COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY"
+id: "COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Regiones naturales de Colombia: Caribe, Pacífica, Andina, Ori
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Regiones naturales de Colombia
 
@@ -30,14 +35,15 @@ Este bundle explica las seis regiones naturales de Colombia: características, r
 ## Question 1 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Regiones naturales en Manizales
+**Contexto:** Regiones naturales en Manizales
 
 ### Enunciado
 ¿Cuántas regiones naturales tiene Colombia?
 
-### Options
+### Opciones
 - [ ] A) Cuatro regiones. <!-- feedback: Incorrecto. Colombia tiene 6 regiones. -->
 - [x] B) Seis regiones: Caribe, Pacífica, Andina, Orinoquía, Amazonía e Insular. <!-- feedback: Correcto. Colombia se divide en seis regiones naturales. -->
 - [ ] C) Cinco regiones. <!-- feedback: Incorrecto. Son seis. -->
@@ -51,14 +57,15 @@ Este bundle explica las seis regiones naturales de Colombia: características, r
 ## Question 2 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Región Andina
+**Contexto:** Región Andina
 
 ### Enunciado
 ¿Cuál es la región más poblada de Colombia?
 
-### Options
+### Opciones
 - [ ] A) Región Caribe. <!-- feedback: Incorrecto. Aunque tiene ciudades importantes, no es la más poblada. -->
 - [x] B) Región Andina. <!-- feedback: Correcto. La región Andina concentra las principales ciudades y la mayor parte de la población. -->
 - [ ] C) Región Pacífica. <!-- feedback: Incorrecto. Es menos poblada. -->
@@ -72,14 +79,15 @@ Este bundle explica las seis regiones naturales de Colombia: características, r
 ## Question 3 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Región Caribe
+**Contexto:** Región Caribe
 
 ### Enunciado
 ¿Qué caracteriza a la región Caribe colombiana?
 
-### Options
+### Opciones
 - [ ] A) Clima frío y montañoso. <!-- feedback: Incorrecto. El Caribe es cálido. -->
 - [x] B) Clima cálido, costas sobre el Mar Caribe, cultura afrocolombiana e indígenas wayúu, música vallenato y cumbia. <!-- feedback: Correcto. La región Caribe es diversa en cultura y geografía. -->
 - [ ] C) Selva amazónica densa. <!-- feedback: Incorrecto. Esa es la Amazonía. -->
@@ -93,14 +101,15 @@ Este bundle explica las seis regiones naturales de Colombia: características, r
 ## Question 4 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Región Pacífica
+**Contexto:** Región Pacífica
 
 ### Enunciado
 ¿Qué caracteriza a la región Pacífica colombiana?
 
-### Options
+### Opciones
 - [ ] A) Grandes centros comerciales. <!-- feedback: Incorrecto. Es una región con alta biodiversidad y cultura afro. -->
 - [ ] B) Clima templado y cultivo de café. <!-- feedback: Incorrecto. El café es andino. -->
 - [x] C) Alta pluviosidad, selvas húmedas, población afrocolombiana, música currulao y puertos como Buenaventura. <!-- feedback: Correcto. El Pacífico es una región muy lluviosa y biodiversa. -->
@@ -114,14 +123,15 @@ Este bundle explica las seis regiones naturales de Colombia: características, r
 ## Question 5 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Región Orinoquía
+**Contexto:** Región Orinoquía
 
 ### Enunciado
 ¿Qué actividad económica predomina en la región de la Orinoquía (Llanos Orientales)?
 
-### Options
+### Opciones
 - [ ] A) Pesca marítima. <!-- feedback: Incorrecto. La Orinoquía no tiene costa. -->
 - [x] B) Ganadería extensiva y agricultura. <!-- feedback: Correcto. Los Llanos Orientales son conocidos por la ganadería y el cultivo de arroz y palma. -->
 - [ ] C) Minería de carbón. <!-- feedback: Incorrecto. Eso es más común en La Guajira. -->
@@ -135,14 +145,15 @@ Este bundle explica las seis regiones naturales de Colombia: características, r
 ## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Región Insular
+**Contexto:** Región Insular
 
 ### Enunciado
 ¿Qué territorios hacen parte de la región Insular de Colombia?
 
-### Options
+### Opciones
 - [ ] A) Solo la Isla de San Andrés. <!-- feedback: Incorrecto. Hay más islas. -->
 - [x] B) El archipiélago de San Andrés, Providencia y Santa Catalina en el Caribe, y las islas Malpelo y Gorgona en el Pacífico. <!-- feedback: Correcto. La región Insular incluye islas en ambos océanos. -->
 - [ ] C) La isla de Margarita. <!-- feedback: Incorrecto. Esa isla es de Venezuela. -->
@@ -156,14 +167,15 @@ Este bundle explica las seis regiones naturales de Colombia: características, r
 ## Question 7 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Amazonía colombiana
+**Contexto:** Amazonía colombiana
 
 ### Enunciado
 ¿Por qué la región Amazónica es importante para el mundo?
 
-### Options
+### Opciones
 - [ ] A) Porque tiene grandes ciudades. <!-- feedback: Incorrecto. La Amazonía tiene poca población urbana. -->
 - [x] B) Porque es una de las reservas de biodiversidad más importantes del planeta y produce oxígeno. <!-- feedback: Correcto. El Amazonas es el pulmón del mundo. -->
 - [ ] C) Porque allí se cultiva café. <!-- feedback: Incorrecto. El café no es amazónico. -->
@@ -177,14 +189,15 @@ Este bundle explica las seis regiones naturales de Colombia: características, r
 ## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Diferencias regionales
+**Contexto:** Diferencias regionales
 
 ### Enunciado
 ¿Por qué hay tantas diferencias culturales entre las regiones naturales de Colombia?
 
-### Options
+### Opciones
 - [ ] A) Porque están en diferentes continentes. <!-- feedback: Incorrecto. Todas están en el mismo país. -->
 - [ ] B) No hay diferencias, todas las regiones son iguales. <!-- feedback: Incorrecto. Hay grandes diferencias. -->
 - [x] C) Por las diferencias de clima, relieve, historia, grupos étnicos y actividades económicas de cada región. <!-- feedback: Correcto. Múltiples factores crean identidades regionales distintas. -->
@@ -198,14 +211,15 @@ Este bundle explica las seis regiones naturales de Colombia: características, r
 ## Question 9 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Desarrollo regional
+**Contexto:** Desarrollo regional
 
 ### Enunciado
 ¿Crees que todas las regiones de Colombia tienen las mismas oportunidades de desarrollo?
 
-### Options
+### Opciones
 - [ ] A) Sí, todas están igual de desarrolladas. <!-- feedback: Incorrecto. Hay grandes disparidades. -->
 - [x] B) No, la región Andina y Caribe tienen más desarrollo económico, mientras que la Pacífica y Amazonía enfrentan mayores desafíos. <!-- feedback: Correcto. Hay desigualdades regionales significativas. -->
 - [ ] C) La Amazonía es la más desarrollada. <!-- feedback: Incorrecto. Es la menos desarrollada. -->
@@ -220,13 +234,14 @@ Este bundle explica las seis regiones naturales de Colombia: características, r
 
 **ID:** `COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY-v10`
 **Bloom:** [Create]
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Feria de regiones
+**Contexto:** Feria de regiones
 
 ### Enunciado
 Diseña una feria de las regiones naturales para tu colegio. ¿Qué incluirías?
 
-### Options
+### Opciones
 - [ ] A) Solo mapas dibujados en cartulina. <!-- feedback: Incorrecto. Se pueden incluir más elementos interactivos. -->
 - [x] B) Muestras de comidas típicas, trajes regionales, música, bailes, maquetas del relieve y explicaciones sobre cada región. <!-- feedback: Correcto. Una feria interactiva permite experimentar la diversidad regional. -->
 - [ ] C) Un examen escrito sobre regiones. <!-- feedback: Incorrecto. No es una feria, es una evaluación. -->

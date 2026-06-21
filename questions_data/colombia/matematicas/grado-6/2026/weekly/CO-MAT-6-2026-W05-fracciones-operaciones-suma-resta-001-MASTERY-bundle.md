@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W05-fracciones-operaciones-suma-resta-001-MASTERY"
+id: "CO-MAT-6-2026-W05-fracciones-operaciones-suma-resta-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W05 â€” Fracciones: Suma y Resta
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W05-fracciones-operaciones-suma-resta-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Suma de fracciones homogeneas
+**Contexto:** Suma de fracciones homogeneas
 
 ### Enunciado
 Si tienes 2/8 de una torta y te regalan 3/8 de la misma torta, Â¿cuanta torta tienes en total?
 
-### Options
+### Opciones
 - [ ] A) 5/16 <!-- feedback: Incorrect. Error comun: sumar numeradores Y denominadores: 2+3=5 y 8+8=16, dando 5/16. En fracciones homogeneas (mismo denominador), solo se suman los numeradores. El denominador se mantiene igual. -->
 - [x] B) 5/8 <!-- feedback: Correct. Fracciones homogeneas (mismo denominador 8): 2/8 + 3/8 = (2+3)/8 = 5/8. -->
 - [ ] C) 6/8 <!-- feedback: Incorrect. Error: sumar 2 + 3 + 1 = 6/8, o confundir 2/8 + 3/8 con 2/8 + 4/8 = 6/8. 2+3 = 5, no 6. -->
@@ -50,13 +53,14 @@ Esto es como decir: tengo 2 rebanadas de una torta dividida en 8 partes, y me da
 
 **ID:** `CO-MAT-6-2026-W05-fracciones-operaciones-suma-resta-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Resta de fracciones homogeneas
+**Contexto:** Resta de fracciones homogeneas
 
 ### Enunciado
 De un tuper con 7/10 de arroz, te comes 3/10. Â¿Cuanto arroz queda en el tuper?
 
-### Options
+### Opciones
 - [ ] A) 4/0 <!-- feedback: Incorrect. Error grave: restar denominadores tambien: 7-3=4 y 10-10=0, dando 4/0 que no tiene sentido matematico (division entre cero). -->
 - [x] B) 4/10 <!-- feedback: Correct. 7/10 - 3/10 = (7-3)/10 = 4/10 = 2/5 (simplificando). -->
 - [ ] C) 10/0 <!-- feedback: Incorrect. Error de calculo: restar denominadores y numeradores de forma cruzada, o pensar que 7/10 - 3/10 = (7-3)/(10-10) = 4/0 que no tiene sentido matematico. -->
@@ -74,13 +78,14 @@ Quedan 4/10 del arroz, que es equivalente a 2/5 del contenido original.
 
 **ID:** `CO-MAT-6-2026-W05-fracciones-operaciones-suma-resta-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Suma de fracciones heterogeneas
+**Contexto:** Suma de fracciones heterogeneas
 
 ### Enunciado
 Para preparar una limonada, Sofia usa 1/4 de taza de jugo de limon y 1/2 taza de agua. Â¿Que cantidad total de liquido usa?
 
-### Options
+### Opciones
 - [ ] A) 2/6 de taza <!-- feedback: Incorrect. Error comun: sumar numeradores y denominadores directamente: 1+1=2 y 4+2=6 â†’ 2/6. Las fracciones con diferente denominador no se suman asi. -->
 - [x] B) 3/4 de taza <!-- feedback: Correct. Convertimos a denominador comun (mcm de 4 y 2 = 4). 1/2 = 2/4. Entonces 1/4 + 2/4 = 3/4 de taza. -->
 - [ ] C) 1/6 de taza <!-- feedback: Incorrect. Error: 1/4 + 1/2 = 0.25 + 0.5 = 0.75 = 3/4. 1/6 = 0.167, que es mucho menor. Error al no encontrar el denominador comun correcto. -->
@@ -101,13 +106,14 @@ Sofia usa 3/4 de taza de liquido en total.
 
 **ID:** `CO-MAT-6-2026-W05-fracciones-operaciones-suma-resta-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Diferencia de peso entre ingredientes
+**Contexto:** Diferencia de peso entre ingredientes
 
 ### Enunciado
 Para una receta de arepas, se necesitan 3/4 de kilo de harina y 1/3 de kilo de queso. Â¿Cuanta mas harina que queso se necesita?
 
-### Options
+### Opciones
 - [ ] A) 2/1 de kilo <!-- feedback: Incorrect. 3/4 - 1/3 NO es 2/1. Error: restar numeradores y denominadores directamente: 3-1=2 y 4-3=1 â†’ 2/1 = 2 kg. Las fracciones heterogeneas no se restan asi. -->
 - [x] B) 5/12 de kilo <!-- feedback: Correct. mcm(4,3)=12. 3/4 = 9/12. 1/3 = 4/12. Diferencia: 9/12 - 4/12 = 5/12 de kilo. -->
 - [ ] C) 4/7 de kilo <!-- feedback: Incorrect. Error comun: sumar denominadores y numeradores como si fuera suma: (3+1)/(4+3) = 4/7. Esto seria sumar las fracciones de forma incorrecta, y ademas el problema pide resta. -->
@@ -128,13 +134,14 @@ Se necesita 5/12 de kilo mas de harina que de queso.
 
 **ID:** `CO-MAT-6-2026-W05-fracciones-operaciones-suma-resta-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Compra de tela en la tienda
+**Contexto:** Compra de tela en la tienda
 
 ### Enunciado
 En una tienda de telas, Valentina compra 3/5 de metro de tela azul y 1/4 de metro de tela roja. Â¿Cuanto compro en total?
 
-### Options
+### Opciones
 - [ ] A) 4/9 de metro <!-- feedback: Incorrect. Sumar numeradores y denominadores directamente: 3+1=4 y 5+4=9. Error tipico de estudiantes que no han aprendido el denominador comun. -->
 - [x] B) 17/20 de metro <!-- feedback: Correct. mcm(5,4)=20. 3/5 = 12/20. 1/4 = 5/20. Total: 12/20 + 5/20 = 17/20 de metro. -->
 - [ ] C) 1 metro exacto <!-- feedback: Incorrect. 3/5 + 1/4 = 0.6 + 0.25 = 0.85, que es menos de 1 metro. Para llegar a 1 metro (20/20) necesitarian 3/20 mas. -->
@@ -159,8 +166,9 @@ Valentina compro 17/20 de metro de tela en total.
 
 **ID:** `CO-MAT-6-2026-W05-fracciones-operaciones-suma-resta-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Receta familiar de natilla
+**Contexto:** Receta familiar de natilla
 
 ### Enunciado
 La receta de natilla de la abuela de Lucia requiere:
@@ -170,7 +178,7 @@ La receta de natilla de la abuela de Lucia requiere:
 
 Lucia quiere saber si puede usar una sola taza medidora para todos los ingredientes. Â¿Cual es el volumen total de los ingredientes liquidos?
 
-### Options
+### Opciones
 - [x] A) 13/12 de taza <!-- feedback: Correct. mcm(3,4,6)=12. 2/3=8/12; 1/4=3/12; 1/6=2/12. Total: 8/12+3/12+2/12=13/12 de taza. Esto es 1 taza y 1/12 mas. -->
 - [ ] B) 4/13 de taza <!-- feedback: Incorrect. Invertir la fraccion del total: sumar denominadores y numeradores (2+1+1=4 y 3+4+6=13) â†’ 4/13. Error grave de procedimiento. -->
 - [ ] C) 1 taza exacta <!-- feedback: Incorrect. 13/12 = 1.083 tazas, que es un poco mas de 1 taza. No cabe en una sola taza medidora de 1 taza, necesitaria una taza y 1/12 mas. -->
@@ -195,13 +203,14 @@ Sumamos: 8/12 + 3/12 + 2/12 = 13/12.
 
 **ID:** `CO-MAT-6-2026-W05-fracciones-operaciones-suma-resta-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Reparticion de un pastel
+**Contexto:** Reparticion de un pastel
 
 ### Enunciado
 En el cumpleanos de Mateo, su pastel se parte en partes iguales. Papa comio 1/6 del pastel, mama comio 1/4 y Mateo comio 1/3. Â¿Que fraccion del pastel sobro?
 
-### Options
+### Opciones
 - [ ] A) 1/2 del pastel <!-- feedback: Incorrect. 1/6+1/4+1/3 = 2/12+3/12+4/12 = 9/12 = 3/4. Lo que sobra es 1 - 3/4 = 1/4, no 1/2. -->
 - [x] B) 1/4 del pastel <!-- feedback: Correct. mcm(6,4,3)=12. 1/6=2/12; 1/4=3/12; 1/3=4/12. Total comido: 2/12+3/12+4/12=9/12=3/4. Sobra: 1-3/4=1/4. -->
 - [ ] C) 3/4 del pastel <!-- feedback: Incorrect. Esto es lo que se comieron entre todos, no lo que sobro. La fraccion comida es 3/4, entonces la que sobra es 1/4. -->
@@ -225,13 +234,14 @@ Sobra 1/4 del pastel.
 
 **ID:** `CO-MAT-6-2026-W05-fracciones-operaciones-suma-resta-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Ruta escolar
+**Contexto:** Ruta escolar
 
 ### Enunciado
 Santiago vive a 7/8 de km del colegio. Ya camino 2/5 de km. Â¿Que distancia le falta por recorrer?
 
-### Options
+### Opciones
 - [ ] A) 5/3 de km <!-- feedback: Incorrect. Restar numeradores y denominadores: 7-2=5 y 8-5=3 â†’ 5/3. Esto es mayor que 1 km, pero la distancia total es solo 7/8 km, asi que no puede faltar mas que el total. -->
 - [x] B) 19/40 de km <!-- feedback: Correct. mcm(8,5)=40. 7/8=35/40; 2/5=16/40. Diferencia: 35/40-16/40=19/40 de km. -->
 - [ ] C) 9/13 de km <!-- feedback: Incorrect. Error: 7+2=9 y 8+5=13 â†’ 9/13. Esto mezcla suma de numeradores y denominadores pero la operacion es resta. -->
@@ -253,13 +263,14 @@ A Santiago le falta recorrer 19/40 de km. Verificacion: 19/40 = 0.475 km = 475 m
 
 **ID:** `CO-MAT-6-2026-W05-fracciones-operaciones-suma-resta-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Analisis de errores en suma de fracciones
+**Contexto:** Analisis de errores en suma de fracciones
 
 ### Enunciado
 Carlos dice que 3/8 + 1/3 = 4/11 y Maria Jose dice que 3/8 + 1/3 = 17/24. Â¿Quien tiene la razon?
 
-### Options
+### Opciones
 - [ ] A) Carlos, porque 3+1=4 y 8+3=11 <!-- feedback: Incorrect. Esta es la forma INCORRECTA de sumar fracciones. No se suman numeradores y denominadores por separado. La suma directa solo funciona con el mismo denominador. -->
 - [x] B) Maria Jose, porque el resultado correcto es 17/24 <!-- feedback: Correct. mcm(8,3)=24. 3/8=9/24; 1/3=8/24. 9/24+8/24=17/24. -->
 - [ ] C) Ambos, porque las fracciones se pueden sumar de diferentes formas <!-- feedback: Incorrect. Solo hay una forma correcta de sumar fracciones: usando el denominador comun. Carlos cometio el error tipico de sumar numeradores y denominadores directamente. -->
@@ -278,13 +289,14 @@ Maria Jose tiene la razon. El error de Carlos es el mas comun entre estudiantes:
 
 **ID:** `CO-MAT-6-2026-W05-fracciones-operaciones-suma-resta-010-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Combinacion de metodos de transporte
+**Contexto:** Combinacion de metodos de transporte
 
 ### Enunciado
 Para ir de su casa al colegio, Juan Pablo usa dos medios de transporte: camina 1/3 de la distancia total y luego toma el bus que recorre 3/5 de la distancia total. Cuando llega al colegio, Â¿que fraccion de la distancia total ha recorrido? Â¿Recorrio mas de la distancia total, exactamente la distancia total, o menos?
 
-### Options
+### Opciones
 - [ ] A) Recorrio menos de la distancia total porque 1/3 + 3/5 = 7/15 < 1 <!-- feedback: Incorrect. 1/3 = 5/15 y 3/5 = 9/15. 5/15 + 9/15 = 14/15, no 7/15. Error al convertir las fracciones. -->
 - [x] B) Recorrio menos de la distancia total porque 1/3 + 3/5 = 14/15 < 1 <!-- feedback: Correct. mcm(3,5)=15. 1/3=5/15; 3/5=9/15. 5/15+9/15=14/15. Le falta 1/15 de la distancia total al colegio. -->
 - [ ] C) Recorrio exactamente la distancia total porque 1/3 + 3/5 = 1 <!-- feedback: Incorrect. 1/3 + 3/5 = 5/15 + 9/15 = 14/15, no 1. La suma da menos de 1, no exactamente 1. -->

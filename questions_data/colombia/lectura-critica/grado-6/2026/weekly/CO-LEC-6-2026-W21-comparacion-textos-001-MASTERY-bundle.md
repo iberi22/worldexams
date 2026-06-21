@@ -1,28 +1,32 @@
 ---
-id: "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY"
+id: "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "comparacion-textos"
-semana: "W21"
+week: "W21"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Comparación de Textos - Grado 6
 ## Semana W21
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio Santa Ana de Piedecuesta, la profesora inicia la unidad de comparación textual.
+**Contexto:** En el Colegio Santa Ana de Piedecuesta, la profesora inicia la unidad de comparación textual.
 **Expected_Success:** 0.86
 
 ### Enunciado
@@ -39,11 +43,11 @@ Comparar textos es una habilidad fundamental de lectura crítica. Implica identi
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** Los estudiantes de la I.E. Simón Bolívar de Popayán comparan dos textos sobre el café.
+**Contexto:** Los estudiantes de la I.E. Simón Bolívar de Popayán comparan dos textos sobre el café.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -63,11 +67,11 @@ Al comparar textos, el primer paso es identificar el propósito de cada uno. El 
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Cooperativo de Duitama, los estudiantes comparan el tratamiento del mismo tema en distintos textos.
+**Contexto:** En el Colegio Cooperativo de Duitama, los estudiantes comparan el tratamiento del mismo tema en distintos textos.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -87,11 +91,11 @@ Para comparar textos de manera significativa, hay que identificar semejanzas de 
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En el Colegio Oficial de Tunja, los estudiantes deben llenar una tabla comparativa de dos textos.
+**Contexto:** En el Colegio Oficial de Tunja, los estudiantes deben llenar una tabla comparativa de dos textos.
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -113,11 +117,11 @@ Confundir las categorías es un error común que los estudiantes deben evitar.
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. Gustavo Cote de Bucaramanga, los estudiantes analizan cómo el mismo evento se reporta de distintas maneras.
+**Contexto:** En la I.E. Gustavo Cote de Bucaramanga, los estudiantes analizan cómo el mismo evento se reporta de distintas maneras.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -138,11 +142,11 @@ Una misma realidad puede ser descrita desde múltiples perspectivas. El enfoque 
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio San José de Pamplona, los estudiantes explican por qué dos textos sobre el mismo tema pueden tener propósitos distintos.
+**Contexto:** En el Colegio San José de Pamplona, los estudiantes explican por qué dos textos sobre el mismo tema pueden tener propósitos distintos.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -159,11 +163,11 @@ La realidad ofrece infinitas posibilidades de tratamiento textual. Un accidente 
 
 ---
 
-## Pregunta 7 [D7]
+## Question 7 [D7]
 **ID:** `CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En la I.E. Técnica de Sabanalarga, se comparan textos sobre un tema polémico: el fracking en Colombia.
+**Contexto:** En la I.E. Técnica de Sabanalarga, se comparan textos sobre un tema polémico: el fracking en Colombia.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -183,11 +187,11 @@ Comparar textos con distintas posturas sobre un tema polémico es una habilidad 
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio La Anunciación de Palmira, los estudiantes evalúan dos textos sobre nutrición escolar.
+**Contexto:** En el Colegio La Anunciación de Palmira, los estudiantes evalúan dos textos sobre nutrición escolar.
 **Expected_Success:** 0.56
 
 ### Enunciado
@@ -207,11 +211,11 @@ Al comparar textos, es crucial identificar la intención de cada uno. Un texto p
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En la Institución Educativa San Bartolomé de Villavicencio, los estudiantes comparan un mito y un texto científico sobre el arcoíris.
+**Contexto:** En la Institución Educativa San Bartolomé de Villavicencio, los estudiantes comparan un mito y un texto científico sobre el arcoíris.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -231,11 +235,11 @@ La comparación entre mito y ciencia es un excelente ejercicio de pensamiento cr
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio Nuevo Cambridge de Floridablanca, los estudiantes crean un texto que integre dos perspectivas sobre un tema.
+**Contexto:** En el Colegio Nuevo Cambridge de Floridablanca, los estudiantes crean un texto que integre dos perspectivas sobre un tema.
 **Expected_Success:** 0.43
 
 ### Enunciado

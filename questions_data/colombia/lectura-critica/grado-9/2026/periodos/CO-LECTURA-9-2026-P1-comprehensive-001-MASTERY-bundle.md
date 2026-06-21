@@ -1,5 +1,5 @@
 ---
-id: "CO-LECTURA-9-2026-P1-comprehensive-001-MASTERY"
+id: "CO-LECTURA-9-2026-P1-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 9
 asignatura: "lectura-critica"
@@ -19,7 +19,12 @@ rubric_baseline: "Estructura del ensayo, textos filosóficos introductorios, an�
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Ensayo, Textos Filosóficos y Análisis Argumentativo
 
@@ -31,13 +36,14 @@ Este bundle cubre los temas del primer periodo de grado 9 en Lectura Crítica: l
 
 **ID:** `CO-LECTURA-9-2026-P1-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Un estudiante está aprendiendo sobre la estructura del ensayo en clase de lengua.
+**Contexto:** Un estudiante está aprendiendo sobre la estructura del ensayo en clase de lengua.
 
 ### Enunciado
 ¿Cuáles son las tres partes fundamentales de un ensayo académico?
 
-### Options
+### Opciones
 - [ ] A) Planteamiento, nudo y desenlace <!-- feedback: Incorrect. Esa estructura corresponde a la narración (cuentos, novelas), no al ensayo. -->
 - [x] B) Introducción, desarrollo y conclusión <!-- feedback: Correct. El ensayo académico tiene una estructura tripartita: introducción (presenta el tema y la tesis), desarrollo (argumenta y sustenta la tesis) y conclusión (sintetiza y reafirma la posición). -->
 - [ ] C) Tesis, antítesis y síntesis <!-- feedback: Incorrect. Aunque la tesis y antítesis pueden aparecer, no son las partes estructurales del ensayo sino un método dialéctico. -->
@@ -52,13 +58,14 @@ La estructura del ensayo permite organizar las ideas de manera coherente. La int
 
 **ID:** `CO-LECTURA-9-2026-P1-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** En clase, la profesora explica qué es una tesis en un texto argumentativo.
+**Contexto:** En clase, la profesora explica qué es una tesis en un texto argumentativo.
 
 ### Enunciado
 ¿Qué es la tesis en un texto argumentativo?
 
-### Options
+### Opciones
 - [ ] A) La historia de fondo del autor del texto <!-- feedback: Incorrect. La tesis no es la biografía del autor. -->
 - [x] B) La idea central o posición que el autor defiende a lo largo del texto mediante argumentos <!-- feedback: Correct. La tesis es la afirmación principal que el autor busca demostrar. Puede estar explícita o implícita, y todos los argumentos del texto deben respaldarla. -->
 - [ ] C) La lista de fuentes bibliográficas utilizadas en el texto <!-- feedback: Incorrect. Eso son las referencias o bibliografía. -->
@@ -73,13 +80,14 @@ Identificar la tesis es la primera habilidad de lectura crítica. Preguntas clav
 
 **ID:** `CO-LECTURA-9-2026-P1-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Los estudiantes leen un fragmento de la "Apología de Sócrates" de Platón.
+**Contexto:** Los estudiantes leen un fragmento de la "Apología de Sócrates" de Platón.
 
 ### Enunciado
 En el siguiente fragmento, Sócrates dice: "No sé nada, excepto el hecho de que no sé nada". ¿Qué tipo de afirmación filosófica es esta?
 
-### Options
+### Opciones
 - [ ] A) Un dogma religioso <!-- feedback: Incorrect. No es una afirmación religiosa, sino filosófica. -->
 - [x] B) Una paradoja que expresa la conciencia de la propia ignorancia como punto de partida del conocimiento (mayéutica socrática) <!-- feedback: Correct. La afirmación refleja el método socrático: reconocer la ignorancia es el primer paso para buscar la verdad. Sócrates usaba la ironía y la mayéutica para mostrar a sus interlocutores que creían saber pero no sabían. -->
 - [ ] C) Una afirmación científica demostrable <!-- feedback: Incorrect. No es verificable científicamente; es una postura filosófica. -->
@@ -94,13 +102,14 @@ La "ignorancia socrática" es un concepto filosófico fundamental. Sócrates se 
 
 **ID:** `CO-LECTURA-9-2026-P1-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión global
-**Context:** Una estudiante lee un ensayo sobre la justicia de John Rawls y necesita identificar los argumentos principales.
+**Contexto:** Una estudiante lee un ensayo sobre la justicia de John Rawls y necesita identificar los argumentos principales.
 
 ### Enunciado
 ¿Cuál de las siguientes opciones describe mejor la función de un argumento en un texto?
 
-### Options
+### Opciones
 - [ ] A) Repetir la tesis con diferentes palabras sin añadir nueva información <!-- feedback: Incorrect. Repetir no es argumentar; un argumento debe aportar razones. -->
 - [x] B) Proporcionar razones o evidencia que apoyen la tesis, con el objetivo de persuadir al lector <!-- feedback: Correct. Un argumento es un conjunto de premisas que llevan a una conclusión. Su función es ofrecer razones lógicas o evidencia que hagan creíble la tesis. -->
 - [ ] C) Presentar información biográfica irrelevante sobre el autor <!-- feedback: Incorrect. Los argumentos deben ser relevantes para la tesis, no biográficos. -->
@@ -115,15 +124,16 @@ Los argumentos son la columna vertebral de un texto argumentativo. Se pueden cla
 
 **ID:** `CO-LECTURA-9-2026-P1-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Identificación de estructuras
-**Context:** Un estudiante debe identificar el tipo de argumento en un fragmento de un ensayo filosófico.
+**Contexto:** Un estudiante debe identificar el tipo de argumento en un fragmento de un ensayo filosófico.
 
 **Fragmento: "Según Aristóteles, el ser humano es un animal político por naturaleza. Por lo tanto, la vida en sociedad no es una elección sino una necesidad inherente a nuestra condición."**
 
 ### Enunciado
 ¿Qué tipo de argumento predomina en el fragmento anterior?
 
-### Options
+### Opciones
 - [ ] A) Argumento deductivo que va de un caso particular a una conclusión general <!-- feedback: Incorrect. Va de una premisa general (Aristóteles dice) a una conclusión particular. -->
 - [x] B) Argumento de autoridad, basado en la opinión de un filósofo reconocido para sustentar la conclusión <!-- feedback: Correct. El autor cita a Aristóteles como autoridad en la materia para respaldar su afirmación de que la sociabilidad es inherente al ser humano. -->
 - [ ] C) Argumento causal que establece una relación de causa y efecto <!-- feedback: Incorrect. No hay una relación causal explícita (causa → efecto). -->
@@ -138,15 +148,16 @@ El argumento de autoridad utiliza la credibilidad de una figura experta para res
 
 **ID:** `CO-LECTURA-9-2026-P1-comprehensive-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Comprensión global
-**Context:** Los estudiantes analizan un ensayo corto y deben identificar la tesis.
+**Contexto:** Los estudiantes analizan un ensayo corto y deben identificar la tesis.
 
 **Fragmento: "La educación virtual llegó para quedarse. Aunque muchos señalan sus desventajas, como la falta de interacción presencial, lo cierto es que ha democratizado el acceso al conocimiento. Personas en zonas rurales de Colombia ahora pueden acceder a cursos de universidades de todo el mundo. Por eso, en lugar de resistirnos, debemos invertir en mejorar la conectividad y formar docentes en metodologías virtuales."**
 
 ### Enunciado
 ¿Cuál es la tesis del fragmento anterior?
 
-### Options
+### Opciones
 - [ ] A) La educación virtual tiene desventajas como la falta de interacción presencial <!-- feedback: Incorrect. Eso es un contraargumento que el autor menciona para refutarlo, no su tesis. -->
 - [x] B) La educación virtual debe ser aceptada y fortalecida porque ha democratizado el acceso al conocimiento <!-- feedback: Correct. El autor defiende que la educación virtual es positiva y que debemos invertir en ella. La tesis es su posición principal: aceptar y mejorar la educación virtual. -->
 - [ ] C) Las personas en zonas rurales de Colombia necesitan cursos universitarios <!-- feedback: Incorrect. Es un ejemplo que apoya la tesis, no la tesis misma. -->
@@ -161,13 +172,14 @@ Para identificar la tesis, pregúntate: ¿qué es lo que el autor quiere que yo 
 
 **ID:** `CO-LECTURA-9-2026-P1-comprehensive-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Identificación de estructuras
-**Context:** Un estudiante analiza la estructura de un ensayo argumentativo.
+**Contexto:** Un estudiante analiza la estructura de un ensayo argumentativo.
 
 ### Enunciado
 En un ensayo bien estructurado, ¿dónde se presenta generalmente la tesis y dónde se refuerza?
 
-### Options
+### Opciones
 - [ ] A) La tesis solo aparece al final del texto, como revelación sorpresa <!-- feedback: Incorrect. En un ensayo académico, la tesis no se oculta; se presenta temprano. -->
 - [x] B) La tesis se presenta en la introducción y se refuerza en la conclusión, creando un círculo argumentativo <!-- feedback: Correct. En la estructura clásica del ensayo, la introducción anuncia la tesis, el desarrollo la demuestra y la conclusión la reafirma. Esto da cohesión y claridad al texto. -->
 - [ ] C) La tesis aparece solo en el desarrollo, escondida entre los argumentos <!-- feedback: Incorrect. Ocultar la tesis va contra la claridad que busca el ensayo académico. -->
@@ -182,15 +194,16 @@ La estructura canónica del ensayo ubica la tesis en la introducción (generalme
 
 **ID:** `CO-LECTURA-9-2026-P1-comprehensive-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Comprensión global
-**Context:** Los estudiantes leen un texto sobre la filosofía de Descartes y deben analizarlo críticamente.
+**Contexto:** Los estudiantes leen un texto sobre la filosofía de Descartes y deben analizarlo críticamente.
 
 **Fragmento: "Descartes dudó de todo lo que podía ser dudado: los sentidos, la realidad externa, incluso su propio cuerpo. Sin embargo, encontró una certeza indubitable: 'Pienso, luego existo' (Cogito, ergo sum)."**
 
 ### Enunciado
 ¿Cuál es la función de la duda en el método cartesiano?
 
-### Options
+### Opciones
 - [ ] A) Demostrar que nada es real y que todo es una ilusión <!-- feedback: Incorrect. Descartes no era nihilista; usaba la duda como herramienta metodológica. -->
 - [x] B) Servir como método para encontrar una certeza fundamental e indudable desde la cual reconstruir todo el conocimiento <!-- feedback: Correct. Descartes aplicó la duda metódica (dudar de todo lo dudable) para encontrar un fundamento sólido del conocimiento. Al encontrar que no podía dudar de que estaba dudando (y por tanto pensando), estableció el "Cogito" como primera certeza. -->
 - [ ] C) Refutar la existencia de Dios mediante la razón <!-- feedback: Incorrect. Descartes usó el Cogito para demostrar la existencia de Dios, no para refutarla. -->
@@ -205,13 +218,14 @@ La duda cartesiana es "metódica", no "escéptica". No duda por dudar, sino para
 
 **ID:** `CO-LECTURA-9-2026-P1-comprehensive-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Identificación de estructuras
-**Context:** Un grupo de estudiantes analiza los tipos de falacias en textos argumentativos.
+**Contexto:** Un grupo de estudiantes analiza los tipos de falacias en textos argumentativos.
 
 ### Enunciado
 ¿Qué tipo de falacia lógica se presenta en el siguiente argumento? "Todos los políticos son corruptos. María es política. Por lo tanto, María es corrupta."
 
-### Options
+### Opciones
 - [ ] A) Falacia de autoridad (apelación a una autoridad no experta) <!-- feedback: Incorrect. No se apela a ninguna autoridad. -->
 - [ ] B) Falacia de generalización apresurada <!-- feedback: Incorrect. Aunque la premisa "todos los políticos son corruptos" es una generalización, el argumento es válido en su forma (si la premisa fuera cierta, la conclusión sería cierta). -->
 - [x] C) No es una falacia lógica en su estructura; el argumento es válido (silogismo), pero la premisa inicial es falsa o generalización injusta <!-- feedback: Correct. Lógicamente, el silogismo es válido: si todos los políticos son corruptos y María es política, entonces María es corrupta. El problema no es la forma lógica sino la veracidad de la premisa "todos los políticos son corruptos". -->
@@ -226,15 +240,16 @@ La validez lógica es diferente de la verdad de las premisas. Un argumento puede
 
 **ID:** `CO-LECTURA-9-2026-P1-comprehensive-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Comprensión global
-**Context:** Los estudiantes analizan un texto filosófico de Platón sobre el mito de la caverna.
+**Contexto:** Los estudiantes analizan un texto filosófico de Platón sobre el mito de la caverna.
 
 **Fragmento: "Imagina una caverna subterránea donde unos prisioneros encadenados solo pueden ver las sombras proyectadas en la pared. Para ellos, las sombras son la única realidad. Si uno de ellos lograra liberarse y salir a la luz del sol, al principio quedaría cegado, pero luego podría ver el mundo real."**
 
 ### Enunciado
 ¿Qué representa el sol en el mito de la caverna de Platón?
 
-### Options
+### Opciones
 - [ ] A) La riqueza material <!-- feedback: Incorrect. Para Platón, la riqueza material es una sombra, no la iluminación. -->
 - [x] B) La idea del Bien, la fuente última del conocimiento y la verdad, que ilumina todas las demás ideas <!-- feedback: Correct. En la filosofía platónica, el sol simboliza la Idea del Bien, la más elevada de todas las ideas. Así como el sol permite ver el mundo físico, la Idea del Bien permite conocer la verdad. -->
 - [ ] C) El fuego que los esclavizadores usan para proyectar sombras <!-- feedback: Incorrect. El fuego dentro de la caverna representa la iluminación artificial de la doxa (opinión), no la verdadera luz del conocimiento. -->
@@ -249,15 +264,16 @@ El mito de la caverna (República, Libro VII) es una alegoría del proceso educa
 
 **ID:** `CO-LECTURA-9-2026-P1-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Identificación de estructuras
-**Context:** Una estudiante debe identificar el tipo de relación lógica en un texto argumentativo.
+**Contexto:** Una estudiante debe identificar el tipo de relación lógica en un texto argumentativo.
 
 **Fragmento: "Si aumentamos el presupuesto para educación, mejorarán los resultados en las pruebas Saber. Hemos aumentado el presupuesto. Por lo tanto, los resultados mejorarán."**
 
 ### Enunciado
 ¿Qué tipo de razonamiento lógico se presenta en el fragmento?
 
-### Options
+### Opciones
 - [ ] A) Razonamiento inductivo (de casos particulares a una conclusión general) <!-- feedback: Incorrect. No se parte de casos particulares para llegar a una generalización. -->
 - [x] B) Razonamiento deductivo en forma de silogismo condicional (Modus Ponens: si A entonces B, A, por lo tanto B) <!-- feedback: Correct. El texto sigue la estructura lógica del Modus Ponens: Premisa 1: Si A (aumentar presupuesto) entonces B (mejores resultados). Premisa 2: A (aumentamos presupuesto). Conclusión: B (mejorarán resultados). -->
 - [ ] C) Razonamiento por analogía (comparación entre dos situaciones similares) <!-- feedback: Incorrect. No hay comparación entre dos situaciones similares. -->
@@ -272,13 +288,14 @@ El Modus Ponens es una de las formas básicas de argumentación válida. Reconoc
 
 **ID:** `CO-LECTURA-9-2026-P1-comprehensive-001-MASTERY-v12`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Comprensión global
-**Context:** Durante la clase, los estudiantes practican la identificación de contraargumentos.
+**Contexto:** Durante la clase, los estudiantes practican la identificación de contraargumentos.
 
 ### Enunciado
 En un texto que defiende la legalización de la marihuana medicinal, el autor menciona: "Algunos críticos sostienen que la legalización enviaría un mensaje equivocado a los jóvenes. Sin embargo, estudios de la OMS muestran que no hay correlación entre legalización medicinal y aumento del consumo juvenil." ¿Qué función cumple la primera oración en el texto?
 
-### Options
+### Opciones
 - [ ] A) Es la tesis principal del texto <!-- feedback: Incorrect. La tesis es la defensa de la legalización, no la opinión de los críticos. -->
 - [x] B) Es un contraargumento que el autor presenta para luego refutarlo con evidencia <!-- feedback: Correct. El autor muestra que conoce las objeciones a su posición y las refuta. Esto fortalece su argumentación al demostrar que ha considerado perspectivas opuestas. -->
 - [ ] C) Es una conclusión anticipada del texto <!-- feedback: Incorrect. No es una conclusión, sino un punto de vista contrario que se refutará. -->
@@ -293,13 +310,14 @@ Presentar y refutar contraargumentos es una técnica argumentativa avanzada. Mue
 
 **ID:** `CO-LECTURA-9-2026-P1-comprehensive-001-MASTERY-v13`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Comprensión global
-**Context:** Los estudiantes leen un texto filosófico de Nietzsche y deben interpretar su significado.
+**Contexto:** Los estudiantes leen un texto filosófico de Nietzsche y deben interpretar su significado.
 
 ### Enunciado
 Nietzsche escribió: "Dios ha muerto. Dios permanece muerto. Y nosotros lo hemos matado." ¿Qué interpretación es más adecuada para esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Nietzsche celebra el asesinato de una deidad literal <!-- feedback: Incorrect. No se refiere a un asesinato literal; es una metáfora filosófica. -->
 - [x] B) Nietzsche anuncia el fin de la era de la fe religiosa como fundamento de los valores y la moral en Occidente, y la crisis de sentido que esto genera <!-- feedback: Correct. "Dios ha muerto" es una metáfora del colapso de la cosmovisión cristiana como fundamento de la moral y el sentido de la vida en la modernidad. Nietzsche no celebra esto, sino que alerta sobre el nihilismo que seguirá. -->
 - [ ] C) Nietzsche afirma que Dios nunca existió <!-- feedback: Incorrect. No es un debate sobre la existencia literal de Dios, sino sobre la función cultural de la religión. -->
@@ -314,15 +332,16 @@ El "Dios ha muerto" de Nietzsche es una de las afirmaciones filosóficas más fa
 
 **ID:** `CO-LECTURA-9-2026-P1-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión crítica
-**Context:** Una estudiante debe evaluar la solidez de un argumento presentado en un ensayo.
+**Contexto:** Una estudiante debe evaluar la solidez de un argumento presentado en un ensayo.
 
 **Argumento: "Hemos realizado una encuesta entre 20 estudiantes del colegio y el 80% prefiere la jornada única. Por lo tanto, todos los estudiantes de Colombia prefieren la jornada única."**
 
 ### Enunciado
 ¿Qué problema tiene este argumento?
 
-### Options
+### Opciones
 - [ ] A) Es un argumento de autoridad no válido <!-- feedback: Incorrect. No se apela a ninguna autoridad. -->
 - [x] B) Es una generalización apresurada: la muestra de 20 estudiantes de un solo colegio no es representativa de todos los estudiantes colombianos <!-- feedback: Correct. El argumento presenta una falacia de generalización apresurada. Una muestra de 20 estudiantes del mismo colegio no puede representar la diversidad de todos los estudiantes del país (urbano/rural, región, estrato, etc.). -->
 - [ ] C) Es un argumento circular que asume lo que quiere probar <!-- feedback: Incorrect. No hay circularidad; simplemente la muestra es insuficiente. -->
@@ -337,13 +356,14 @@ Las generalizaciones requieren muestras representativas. Para afirmar algo sobre
 
 **ID:** `CO-LECTURA-9-2026-P1-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión crítica
-**Context:** En un debate, los estudiantes deben evaluar críticamente la calidad argumentativa de un discurso.
+**Contexto:** En un debate, los estudiantes deben evaluar críticamente la calidad argumentativa de un discurso.
 
 ### Enunciado
 ¿Cuál de los siguientes criterios es más importante para evaluar la calidad de un argumento en un texto académico?
 
-### Options
+### Opciones
 - [ ] A) Que el autor sea famoso o reconocido socialmente <!-- feedback: Incorrect. La fama del autor no determina la calidad del argumento. -->
 - [ ] B) Que el argumento sea emocionalmente convincente <!-- feedback: Incorrect. La emoción puede persuadir, pero no necesariamente indica un argumento sólido. -->
 - [x] C) Que las premisas sean verdaderas, relevantes y suficientes para sostener la conclusión, y que la estructura lógica sea válida <!-- feedback: Correct. Un buen argumento debe tener: premisas verdaderas (o al menos plausibles), relevantes (relacionadas con la conclusión) y suficientes (no hacer generalizaciones apresuradas), y una estructura lógica que conecte premisas con conclusión. -->

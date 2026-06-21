@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY"
+id: "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "mapas conceptuales"
-semana: "W32"
+week: "W32"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Mapas Conceptuales - Grado 7
 ## Semana W32 — Construcción e interpretación crítica de mapas conceptuales y organizadores gráficos
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de Lectura Crítica del Colegio La Presentación de Bucaramanga, la profesora introduce los mapas conceptuales.
+**Contexto:** En la clase de Lectura Crítica del Colegio La Presentación de Bucaramanga, la profesora introduce los mapas conceptuales.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Un mapa conceptual es una representación gráfica del conocimiento que organiza
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un estudiante crea un mapa conceptual sobre los mamíferos. En la parte superior coloca "Mamíferos", luego "Terrestres" y "Acuáticos", y de ahí se ramifican ejemplos como "Perro", "Gato", "Ballena", "Delfín".
+**Contexto:** Un estudiante crea un mapa conceptual sobre los mamíferos. En la parte superior coloca "Mamíferos", luego "Terrestres" y "Acuáticos", y de ahí se ramifican ejemplos como "Perro", "Gato", "Ballena", "Delfín".
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -60,11 +64,11 @@ La jerarquía es una de las características fundamentales de los mapas conceptu
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un mapa conceptual sobre el ciclo del agua, entre los conceptos "Sol" y "Evaporación" hay una línea con la palabra "causa".
+**Contexto:** En un mapa conceptual sobre el ciclo del agua, entre los conceptos "Sol" y "Evaporación" hay una línea con la palabra "causa".
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -81,11 +85,11 @@ Las palabras de enlace son el componente que distingue a los mapas conceptuales 
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Un estudiante debe crear un mapa conceptual a partir del siguiente texto: "La célula es la unidad básica de los seres vivos. Hay dos tipos: procariota y eucariota. Las células eucariotas tienen núcleo, las procariotas no."
+**Contexto:** Un estudiante debe crear un mapa conceptual a partir del siguiente texto: "La célula es la unidad básica de los seres vivos. Hay dos tipos: procariota y eucariota. Las células eucariotas tienen núcleo, las procariotas no."
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -102,11 +106,11 @@ Al construir un mapa conceptual, el primer paso es identificar el concepto más 
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un mapa conceptual sobre el ecosistema tiene conceptos como "Ecosistema", "Factores bióticos", "Factores abióticos", y debajo "Plantas", "Animales", "Agua", "Suelo".
+**Contexto:** Un mapa conceptual sobre el ecosistema tiene conceptos como "Ecosistema", "Factores bióticos", "Factores abióticos", y debajo "Plantas", "Animales", "Agua", "Suelo".
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -123,11 +127,11 @@ En los mapas conceptuales, las líneas y palabras de enlace pueden representar d
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un estudiante recibe un mapa conceptual sobre la Independencia de Colombia que tiene solo tres conceptos: "Independencia", "Causas" y "Consecuencias", conectados en línea recta.
+**Contexto:** Un estudiante recibe un mapa conceptual sobre la Independencia de Colombia que tiene solo tres conceptos: "Independencia", "Causas" y "Consecuencias", conectados en línea recta.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -144,11 +148,11 @@ Un mapa conceptual debe representar la complejidad del conocimiento, no simplifi
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un mapa conceptual sobre la nutrición tiene dos ramas principales: "Nutrientes" y "Alimentación". De "Nutrientes" salen "Proteínas" y "Carbohidratos". De "Alimentación" salen "Saludable" y "No saludable". No hay conexiones entre las ramas.
+**Contexto:** Un mapa conceptual sobre la nutrición tiene dos ramas principales: "Nutrientes" y "Alimentación". De "Nutrientes" salen "Proteínas" y "Carbohidratos". De "Alimentación" salen "Saludable" y "No saludable". No hay conexiones entre las ramas.
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -165,11 +169,11 @@ Una de las grandes ventajas de los mapas conceptuales frente a otros organizador
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Dos estudiantes crean mapas conceptuales sobre el calentamiento global. El primero es simple pero correcto. El segundo es muy detallado y tiene múltiples conexiones, pero tiene errores en algunas relaciones causales.
+**Contexto:** Dos estudiantes crean mapas conceptuales sobre el calentamiento global. El primero es simple pero correcto. El segundo es muy detallado y tiene múltiples conexiones, pero tiene errores en algunas relaciones causales.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -186,11 +190,11 @@ La calidad de un mapa conceptual se evalúa principalmente por su precisión con
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un profesor entrega un mapa conceptual ya hecho y pide a los estudiantes que lo evalúen. El mapa tiene "Democracia" en la parte superior, "Participación" y "Elecciones" debajo, pero no menciona "Derechos humanos" ni "División de poderes".
+**Contexto:** Un profesor entrega un mapa conceptual ya hecho y pide a los estudiantes que lo evalúen. El mapa tiene "Democracia" en la parte superior, "Participación" y "Elecciones" debajo, pero no menciona "Derechos humanos" ni "División de poderes".
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -207,11 +211,11 @@ Los mapas conceptuales no son neutrales: reflejan la comprensión y la perspecti
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Un estudiante debe elegir entre un mapa conceptual y un texto continuo para estudiar para un examen sobre el sistema solar.
+**Contexto:** Un estudiante debe elegir entre un mapa conceptual y un texto continuo para estudiar para un examen sobre el sistema solar.
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ Los mapas conceptuales y los textos continuos tienen fortalezas distintas. El ma
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Un mapa conceptual sobre "Redes sociales" tiene en la parte superior "Redes sociales", y debajo "WhatsApp", "Instagram", "TikTok", "Facebook", todos al mismo nivel.
+**Contexto:** Un mapa conceptual sobre "Redes sociales" tiene en la parte superior "Redes sociales", y debajo "WhatsApp", "Instagram", "TikTok", "Facebook", todos al mismo nivel.
 **Expected_Success:** 0.40
 
 ### Enunciado
@@ -249,11 +253,11 @@ Un mapa conceptual plano (todos los conceptos al mismo nivel) desperdicia la pri
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** Como proyecto final de la semana, los estudiantes deben crear un mapa conceptual que sintetice un tema estudiado durante el período 4, usando al menos 10 conceptos, palabras de enlace precisas y al menos 2 conexiones transversales.
+**Contexto:** Como proyecto final de la semana, los estudiantes deben crear un mapa conceptual que sintetice un tema estudiado durante el período 4, usando al menos 10 conceptos, palabras de enlace precisas y al menos 2 conexiones transversales.
 **Expected_Success:** 0.36
 
 ### Enunciado

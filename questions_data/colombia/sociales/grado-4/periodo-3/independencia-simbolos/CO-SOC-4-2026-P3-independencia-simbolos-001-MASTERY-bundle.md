@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-4-2026-P3-independencia-simbolos-001-MASTERY"
+id: "CO-SOC-4-2026-P3-independencia-simbolos-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales"
@@ -16,19 +16,27 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Relaciones con la historia y las culturas, Relaciones ético-políticas"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 ## Question 1 [D3]
 
 **ID:** `CO-SOC-4-2026-P3-independencia-simbolos-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** El Grito de Independencia en Bogotá.
+**Contexto:** El Grito de Independencia en Bogotá.
 
 ### Enunciado
 ¿Qué fecha celebramos los colombianos como el inicio del proceso de Independencia, recordada por el incidente del "Florero de Llorente"?
 
-### Options
+### Opciones
 - [ ] A) 7 de agosto <!-- feedback: Incorrect. El 7 de agosto se celebra la Batalla de Boyacá, que fue el enfrentamiento militar final, pero no el inicio. -->
 - [x] B) 20 de julio <!-- feedback: Correct. El 20 de julio de 1810 se dio el "Grito de Independencia" en Bogotá, cuando los criollos se organizaron para pedir un gobierno propio. -->
 - [ ] C) 1 de enero <!-- feedback: Incorrect. El 1 de enero celebramos el Año Nuevo, pero no tiene relación con el proceso histórico de independencia nacional. -->
@@ -42,14 +50,15 @@ Se evalúa la identificación de las fechas patrias fundamentales de Colombia. L
 ## Question 2 [D3]
 
 **ID:** `CO-SOC-4-2026-P3-independencia-simbolos-001-MASTERY-v2`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Personajes de la gesta libertadora.
+**Contexto:** Personajes de la gesta libertadora.
 
 ### Enunciado
 ¿Quién es conocido como el "Libertador" de Colombia y otros países suramericanos por liderar los ejércitos contra el dominio español?
 
-### Options
+### Opciones
 - [ ] A) Cristóbal Colón <!-- feedback: Incorrect. Colón fue quien llegó a América representando a España, no quien luchó para independizarla. -->
 - [ ] B) Pablo Morillo <!-- feedback: Incorrect. Morillo fue el general español encargado de la "Reconquista" para volver a someter a los americanos al Rey. -->
 - [x] C) Simón Bolívar <!-- feedback: Correct. Bolívar fue el líder político y militar que comandó la campaña libertadora para expulsar definitivamente a los españoles del territorio. -->
@@ -63,14 +72,15 @@ Se evalúa el reconocimiento de figuras históricas clave. La respuesta correcta
 ## Question 3 [D4]
 
 **ID:** `CO-SOC-4-2026-P3-independencia-simbolos-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** La Batalla de Boyacá.
+**Contexto:** La Batalla de Boyacá.
 
 ### Enunciado
 ¿Cuál fue la importancia de la Batalla de Boyacá ocurrida el 7 de agosto de 1819?
 
-### Options
+### Opciones
 - [ ] A) Fue la primera vez que los españoles llegaron a Colombia. <!-- feedback: Incorrect. Eso ocurrió casi 300 años antes de esta batalla. -->
 - [x] B) Fue la victoria definitiva del ejército patriota que selló la independencia de Colombia. <!-- feedback: Correct. Con esta victoria en el puente de Boyacá, los patriotas lograron derrotar al ejército real y tomar el control definitivo de Bogotá. -->
 - [ ] C) Fue una batalla donde todos los soldados se hicieron amigos. <!-- feedback: Incorrect. Fue un enfrentamiento militar serio con bajas en ambos lados, no un encuentro social. -->
@@ -84,14 +94,15 @@ Se evalúa la comprensión del impacto histórico de eventos militares específi
 ## Question 4 [D4]
 
 **ID:** `CO-SOC-4-2026-P3-independencia-simbolos-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** El significado de la Bandera Nacional.
+**Contexto:** El significado de la Bandera Nacional.
 
 ### Enunciado
 La bandera de Colombia tiene tres colores: amarillo, azul y rojo. ¿Qué representa tradicionalmente el color **amarillo** en nuestra bandera?
 
-### Options
+### Opciones
 - [ ] A) La sangre de los héroes de la independencia. <!-- feedback: Incorrect. Este es el significado tradicional del color rojo en la bandera. -->
 - [ ] B) El cielo y los mares que rodean al país. <!-- feedback: Incorrect. Este es el significado tradicional del color azul. -->
 - [x] C) Las riquezas del suelo, el sol y el oro de nuestros ancestros. <!-- feedback: Correct. El amarillo ocupa la mitad superior de la bandera y simboliza la abundancia y riqueza de los recursos naturales del país. -->
@@ -105,14 +116,15 @@ Se evalúa el conocimiento de los símbolos patrios y su carga simbólica. La re
 ## Question 5 [D4]
 
 **ID:** `CO-SOC-4-2026-P3-independencia-simbolos-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** El Himno Nacional de Colombia.
+**Contexto:** El Himno Nacional de Colombia.
 
 ### Enunciado
 El Himno Nacional de Colombia es considerado uno de los más bellos del mundo. ¿Quién escribió la letra de sus estrofas?
 
-### Options
+### Opciones
 - [ ] A) Shakira <!-- feedback: Incorrect. Shakira es una cantante de música pop actual; no vivió en el siglo XIX cuando se escribió el himno. -->
 - [ ] B) Simón Bolívar <!-- feedback: Incorrect. Aunque Bolívar fue el libertador, él no fue el autor de los versos del himno nacional. -->
 - [x] C) Rafael Núñez <!-- feedback: Correct. Rafael Núñez, quien fue presidente de Colombia, escribió los versos que luego se convirtieron en la letra oficial del himno. -->
@@ -126,14 +138,15 @@ Se evalúa el conocimiento sobre los autores de los símbolos patrios. La respue
 ## Question 6 [D4]
 
 **ID:** `CO-SOC-4-2026-P3-independencia-simbolos-001-MASTERY-v6`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** El Escudo de Colombia.
+**Contexto:** El Escudo de Colombia.
 
 ### Enunciado
 En el Escudo Nacional de Colombia, en la franja del medio, aparece un gorro rojo sostenido por una lanza. ¿Qué significa este símbolo conocido como el "gorro frigio"?
 
-### Options
+### Opciones
 - [ ] A) Que a los colombianos les gusta mucho el frío. <!-- feedback: Incorrect. "Frigio" es el nombre de una región antigua de Turquía, no tiene relación con la temperatura. -->
 - [x] B) Representa la libertad de los ciudadanos. <!-- feedback: Correct. Históricamente, desde la Revolución Francesa, el gorro frigio es el símbolo universal de la libertad y la república. -->
 - [ ] C) Es el gorro que usaban los mineros para sacar oro. <!-- feedback: Incorrect. No es un implemento de trabajo minero, sino un emblema político decorativo. -->
@@ -147,14 +160,15 @@ Se evalúa la interpretación de la iconografía de los símbolos patrios. La re
 ## Question 7 [D5]
 
 **ID:** `CO-SOC-4-2026-P3-independencia-simbolos-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Las causas de la Independencia.
+**Contexto:** Las causas de la Independencia.
 
 ### Enunciado
 ¿Por qué los criollos (hijos de españoles nacidos en América) querían independizarse del Rey de España?
 
-### Options
+### Opciones
 - [ ] A) Porque querían viajar a la Luna y el Rey no los dejaba. <!-- feedback: Incorrect. Los viajes espaciales eran imposibles e impensables en el año 1810. -->
 - [x] B) Porque querían gobernar su propia tierra y no pagar tantos impuestos a España. <!-- feedback: Correct. Los criollos sentían que no tenían los mismos derechos políticos que los españoles y estaban cansados de que las riquezas se fueran a Europa. -->
 - [ ] C) Porque no les gustaba el color de la ropa de los españoles. <!-- feedback: Incorrect. Los motivos de una revolución son políticos y económicos, no por gustos de moda o estética. -->
@@ -168,14 +182,15 @@ Se evalúa la comprensión de las causas políticas y económicas de la revoluci
 ## Question 8 [D5]
 
 **ID:** `CO-SOC-4-2026-P3-independencia-simbolos-001-MASTERY-v8`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Relaciones ético-políticas]
-**Context:** El concepto de República.
+**Contexto:** El concepto de República.
 
 ### Enunciado
 Después de la Independencia, Colombia dejó de ser una colonia del Rey y se convirtió en una **República**. ¿Cuál es la principal característica de una República?
 
-### Options
+### Opciones
 - [ ] A) Que el gobernante hereda el poder de su padre y manda para siempre. <!-- feedback: Incorrect. Esto describe a una Monarquía, que fue el sistema del cual nos independizamos. -->
 - [x] B) Que los gobernantes son elegidos por los ciudadanos y el poder se divide. <!-- feedback: Correct. En una república, el pueblo elige a sus representantes y no hay un solo jefe supremo absoluto, sino leyes que todos deben cumplir. -->
 - [ ] C) Que no hay leyes y cada persona hace lo que quiera. <!-- feedback: Incorrect. Esto sería anarquía, no una república; las repúblicas se basan precisamente en la Constitución y las leyes. -->
@@ -189,14 +204,15 @@ Se evalúa la comprensión de los sistemas de gobierno post-independencia. La re
 ## Question 9 [D5]
 
 **ID:** `CO-SOC-4-2026-P3-independencia-simbolos-001-MASTERY-v9`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Símbolos naturales de Colombia.
+**Contexto:** Símbolos naturales de Colombia.
 
 ### Enunciado
 Además de la bandera y el himno, Colombia tiene símbolos naturales únicos. ¿Cuál es el Árbol Nacional de Colombia y dónde se encuentra principalmente?
 
-### Options
+### Opciones
 - [ ] A) El Pino de Navidad en las montañas de Boyacá. <!-- feedback: Incorrect. El pino no es el árbol nacional ni es nativo de las selvas colombianas. -->
 - [ ] B) El Frailejón de los páramos de Ocetá. <!-- feedback: Incorrect. Aunque es una planta muy importante, no ha sido declarada oficialmente como el Árbol Nacional de la República. -->
 - [x] C) La Palma de Cera en el Valle de Cocora (Quindío). <!-- feedback: Correct. La Palma de Cera del Quindío es el árbol nacional; es la palma más alta del mundo y está protegida por la ley. -->
@@ -210,14 +226,15 @@ Se evalúa el conocimiento sobre los símbolos naturales protegidos. La respuest
 ## Question 10 [D5]
 
 **ID:** `CO-SOC-4-2026-P3-independencia-simbolos-001-MASTERY-v10`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Relaciones ético-políticas]
-**Context:** Heroínas de la independencia.
+**Contexto:** Heroínas de la independencia.
 
 ### Enunciado
 En la independencia no solo participaron hombres. Una mujer muy valiente llamada Policarpa Salavarrieta ayudó a los patriotas como espía antes de ser capturada por los españoles. ¿Cómo es conocida cariñosamente por los colombianos?
 
-### Options
+### Opciones
 - [ ] A) La Gaitana <!-- feedback: Incorrect. La Gaitana fue una líder indígena que luchó contra los españoles durante la Conquista, mucho tiempo antes de la independencia. -->
 - [x] B) La Pola <!-- feedback: Correct. Policarpa Salavarrieta es una de las máximas heroínas de la independencia y es recordada por su valentía en Bogotá, donde su rostro aparece hoy en los billetes de 10.000 pesos. -->
 - [ ] C) Antonia Santos <!-- feedback: Incorrect. Antonia Santos también fue una heroína de la independencia, pero no es a quien se le llama "La Pola". -->

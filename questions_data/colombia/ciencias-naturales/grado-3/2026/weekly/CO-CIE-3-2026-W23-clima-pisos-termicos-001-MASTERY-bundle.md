@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY"
+id: "CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "clima-pisos-termicos"
-semana: "W23"
+week: "W23"
 periodo: 3
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Pisos térmicos en Colombia: relación entre altitud y tempera
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Los Pisos Térmicos en Colombia
 
 Este bundle explora cómo la altura de las montañas en Colombia cambia la temperatura del aire y permite que existan diferentes tipos de vida y cultivos en un solo país.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Colombia es un país con tres cordilleras de montañas muy altas que atraviesan todo el territorio.
+**Contexto:** Colombia es un país con tres cordilleras de montañas muy altas que atraviesan todo el territorio.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ Este fenómeno ocurre porque a mayor altura hay menos atmósfera encima de nosot
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Juan vive en una ciudad donde se cultiva mucho café y plátano, y el clima es templado (ni muy frío ni muy caliente).
+**Contexto:** Juan vive en una ciudad donde se cultiva mucho café y plátano, y el clima es templado (ni muy frío ni muy caliente).
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -73,12 +77,12 @@ Los pisos térmicos nos dicen qué podemos sembrar. Colombia es famosa por su ca
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Mariana viaja de Santa Marta (al nivel del mar) hacia la Sierra Nevada (una montaña muy alta frente al mar).
+**Contexto:** Mariana viaja de Santa Marta (al nivel del mar) hacia la Sierra Nevada (una montaña muy alta frente al mar).
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -98,12 +102,12 @@ La Sierra Nevada de Santa Marta es única porque tiene todos los pisos térmicos
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** En el Piso Páramo (más de 3.000 metros), el aire es muy frío, hay mucha niebla y el viento sopla con fuerza.
+**Contexto:** En el Piso Páramo (más de 3.000 metros), el aire es muy frío, hay mucha niebla y el viento sopla con fuerza.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ Los frailejones son los "reyes del páramo". Son una adaptación asombrosa a la 
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Tienes una canasta con: Coco, Papa, Café y Manzana.
+**Contexto:** Tienes una canasta con: Coco, Papa, Café y Manzana.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -148,12 +152,12 @@ La variedad de nuestra comida se debe a los pisos térmicos. En un solo almuerzo
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Los animales también se reparten por los pisos térmicos. Un cóndor vuela en las cumbres, mientras que una iguana prefiere las piedras calientes de la costa.
+**Contexto:** Los animales también se reparten por los pisos térmicos. Un cóndor vuela en las cumbres, mientras que una iguana prefiere las piedras calientes de la costa.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -173,12 +177,12 @@ Los reptiles dependen del calor ambiental. Por eso abundan en los pisos cálidos
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un científico dice: "Colombia no tiene estaciones como otros países, pero tiene todos los climas del mundo en sus montañas".
+**Contexto:** Un científico dice: "Colombia no tiene estaciones como otros países, pero tiene todos los climas del mundo en sus montañas".
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -198,12 +202,12 @@ Al estar cerca de la línea del ecuador, recibimos luz solar pareja todo el año
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Tienes que planear una expedición al Piso Glacial (más de 4.000 metros de altura).
+**Contexto:** Tienes que planear una expedición al Piso Glacial (más de 4.000 metros de altura).
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -223,12 +227,12 @@ El piso glacial es el más hostil para la vida humana. No hay vegetación y el o
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** El calentamiento global está haciendo que la línea de nieve de los volcanes colombianos suba cada vez más hacia la cima.
+**Contexto:** El calentamiento global está haciendo que la línea de nieve de los volcanes colombianos suba cada vez más hacia la cima.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -248,12 +252,12 @@ Este es un problema grave para los frailejones y los animales de páramo. Como e
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W23-clima-pisos-termicos-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un comercial dice: "Ven a Colombia, el único lugar donde puedes desayunar en el frío, almorzar en el calor y volver al frío para dormir en un solo día".
+**Contexto:** Un comercial dice: "Ven a Colombia, el único lugar donde puedes desayunar en el frío, almorzar en el calor y volver al frío para dormir en un solo día".
 **Expected_Success:** 0.60
 
 ### Enunciado

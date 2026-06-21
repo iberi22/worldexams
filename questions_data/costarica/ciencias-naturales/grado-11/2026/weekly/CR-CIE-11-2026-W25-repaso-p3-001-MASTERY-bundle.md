@@ -22,6 +22,7 @@ tier: "legacy"
 creador: "Jules-Agent"
 ---
 
+
 # Bundle MASTERY: Repaso P3 - Grado 11
 
 Este bundle contiene 20 preguntas sobre **repaso p3** para grado 11,
@@ -40,14 +41,13 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ¿Cuál es el nivel de organización biológica que comprende a todos los individuos de la misma especie (como los monos cariblanca) que viven en un área determinada?
 
 ### Opciones
-- [ ] A) Comunidad
-  <!-- feedback: Incorrecto. La comunidad incluye a todas las poblaciones de diferentes especies en un área. -->
-- [ ] B) Ecosistema
-  <!-- feedback: Incorrecto. El ecosistema incluye tanto los factores bióticos como los abióticos. -->
-- [x] C) Población
-  <!-- feedback: ¡Correcto! Una población se define como el conjunto de individuos de la misma especie que comparten un espacio y tiempo. -->
-- [ ] D) Biósfera
-  <!-- feedback: Incorrecto. La biósfera es el nivel más alto de organización que engloba toda la vida en el planeta. -->
+- [ ] A) Comunidad <!-- feedback: Incorrecto. Comunidad -->
+
+- [ ] B) Ecosistema <!-- feedback: Incorrecto. Ecosistema -->
+
+- [x] C) Población <!-- feedback: Correcto! Población -->
+
+- [ ] D) Biósfera <!-- feedback: Incorrecto. Biósfera -->
 
 ### Explicacion Pedagogica
 El nivel de población se refiere específicamente a individuos de la misma especie en un lugar determinado. Es fundamental para estudios ecológicos y de conservación en áreas protegidas de Costa Rica.
@@ -65,14 +65,13 @@ El nivel de población se refiere específicamente a individuos de la misma espe
 ¿Cuál organela celular es responsable de realizar la fotosíntesis, proceso vital para la producción de energía en las plantas?
 
 ### Opciones
-- [ ] A) Mitocondria
-  <!-- feedback: Incorrecto. La mitocondria se encarga de la respiración celular. -->
-- [x] B) Cloroplasto
-  <!-- feedback: ¡Correcto! Los cloroplastos contienen clorofila y son el sitio donde ocurre la fotosíntesis. -->
-- [ ] C) Aparato de Golgi
-  <!-- feedback: Incorrecto. Se encarga del empaque y distribución de proteínas. -->
-- [ ] D) Ribosoma
-  <!-- feedback: Incorrecto. Su función principal es la síntesis de proteínas. -->
+- [ ] A) Mitocondria <!-- feedback: Incorrecto. Mitocondria -->
+
+- [x] B) Cloroplasto <!-- feedback: Correcto! Cloroplasto -->
+
+- [ ] C) Aparato de Golgi <!-- feedback: Incorrecto. Aparato de Golgi -->
+
+- [ ] D) Ribosoma <!-- feedback: Incorrecto. Ribosoma -->
 
 ### Explicacion Pedagogica
 Los cloroplastos son organelas exclusivas de células vegetales y algunos protistas. Son esenciales para transformar la energía lumínica en energía química (glucosa).
@@ -90,14 +89,13 @@ Los cloroplastos son organelas exclusivas de células vegetales y algunos protis
 ¿Cómo se denomina el proceso de división celular que da como resultado dos células hijas genéticamente idénticas a la célula madre?
 
 ### Opciones
-- [x] A) Mitosis
-  <!-- feedback: ¡Correcto! La mitosis mantiene el número cromosómico y la información genética original. -->
-- [ ] B) Meiosis
-  <!-- feedback: Incorrecto. La meiosis produce células haploides (gametos) con variabilidad genética. -->
-- [ ] C) Fisión binaria
-  <!-- feedback: Incorrecto. Aunque similar, es el término usado principalmente para organismos procariotas como bacterias. -->
-- [ ] D) Citocinesis
-  <!-- feedback: Incorrecto. Este es el proceso de división del citoplasma que ocurre al final de la mitosis o meiosis. -->
+- [x] A) Mitosis <!-- feedback: Correcto! Mitosis -->
+
+- [ ] B) Meiosis <!-- feedback: Incorrecto. Meiosis -->
+
+- [ ] C) Fisión binaria <!-- feedback: Incorrecto. Fisión binaria -->
+
+- [ ] D) Citocinesis <!-- feedback: Incorrecto. Citocinesis -->
 
 ### Explicacion Pedagogica
 La mitosis es el mecanismo por el cual los organismos pluricelulares crecen y reparan sus tejidos, asegurando que cada célula nueva tenga el mismo ADN.
@@ -115,14 +113,13 @@ La mitosis es el mecanismo por el cual los organismos pluricelulares crecen y re
 ¿Cuál es el proceso mediante el cual el carbono es retirado de la atmósfera y fijado en compuestos orgánicos por los productores?
 
 ### Opciones
-- [ ] A) Respiración celular
-  <!-- feedback: Incorrecto. La respiración libera CO2 a la atmósfera. -->
-- [ ] B) Combustión
-  <!-- feedback: Incorrecto. La combustión de biomasa o combustibles fósiles libera carbono. -->
-- [x] C) Fotosíntesis
-  <!-- feedback: ¡Correcto! Las plantas usan el CO2 atmosférico para fabricar carbohidratos. -->
-- [ ] D) Descomposición
-  <!-- feedback: Incorrecto. La descomposición libera carbono al suelo y a la atmósfera. -->
+- [ ] A) Respiración celular <!-- feedback: Incorrecto. Respiración celular -->
+
+- [ ] B) Combustión <!-- feedback: Incorrecto. Combustión -->
+
+- [x] C) Fotosíntesis <!-- feedback: Correcto! Fotosíntesis -->
+
+- [ ] D) Descomposición <!-- feedback: Incorrecto. Descomposición -->
 
 ### Explicacion Pedagogica
 La fotosíntesis es la principal vía de entrada del carbono al ciclo biótico, contrarrestando el efecto invernadero al capturar CO2.
@@ -140,14 +137,13 @@ La fotosíntesis es la principal vía de entrada del carbono al ciclo biótico, 
 Si cruzamos dos plantas de guisante heterocigotas para el color de la semilla (Aa), ¿cuál es la probabilidad genotípica de obtener un individuo homocigoto recesivo (aa)?
 
 ### Opciones
-- [ ] A) 100%
-  <!-- feedback: Incorrecto. Esto solo ocurriría si ambos padres fueran aa. -->
-- [ ] B) 50%
-  <!-- feedback: Incorrecto. El 50% será heterocigoto (Aa). -->
-- [x] C) 25%
-  <!-- feedback: ¡Correcto! Según el cuadro de Punnett: 1/4 AA, 2/4 Aa y 1/4 aa. -->
-- [ ] D) 75%
-  <!-- feedback: Incorrecto. El 75% mostrará el fenotipo dominante. -->
+- [ ] A) 100% <!-- feedback: Incorrecto. 100% -->
+
+- [ ] B) 50% <!-- feedback: Incorrecto. 50% -->
+
+- [x] C) 25% <!-- feedback: Correcto! 25% -->
+
+- [ ] D) 75% <!-- feedback: Incorrecto. 75% -->
 
 ### Explicacion Pedagogica
 En un cruce monohíbrido de heterocigotos, las proporciones mendelianas clásicas son 1:2:1 para el genotipo y 3:1 para el fenotipo.
@@ -165,14 +161,13 @@ En un cruce monohíbrido de heterocigotos, las proporciones mendelianas clásica
 ¿Qué nombre reciben los organismos que obtienen su energía descomponiendo materia orgánica muerta y reciclando nutrientes al suelo o agua?
 
 ### Opciones
-- [ ] A) Productores primarios
-  <!-- feedback: Incorrecto. Estos fabrican su propio alimento (autótrofos). -->
-- [ ] B) Consumidores secundarios
-  <!-- feedback: Incorrecto. Estos son carnívoros que comen herbívoros. -->
-- [x] C) Descomponedores
-  <!-- feedback: ¡Correcto! Hongos y bacterias transforman la materia orgánica en inorgánica. -->
-- [ ] D) Omnívoros
-  <!-- feedback: Incorrecto. Estos consumen tanto plantas como animales. -->
+- [ ] A) Productores primarios <!-- feedback: Incorrecto. Productores primarios -->
+
+- [ ] B) Consumidores secundarios <!-- feedback: Incorrecto. Consumidores secundarios -->
+
+- [x] C) Descomponedores <!-- feedback: Correcto! Descomponedores -->
+
+- [ ] D) Omnívoros <!-- feedback: Incorrecto. Omnívoros -->
 
 ### Explicacion Pedagogica
 Los descomponedores cierran el ciclo de la materia en los ecosistemas, permitiendo que los nutrientes vuelvan a estar disponibles para los productores.
@@ -190,14 +185,13 @@ Los descomponedores cierran el ciclo de la materia en los ecosistemas, permitien
 ¿Cuál es el principal gas de efecto invernadero producido por la quema de combustibles fósiles y la deforestación?
 
 ### Opciones
-- [ ] A) Oxígeno
-  <!-- feedback: Incorrecto. El oxígeno no es un gas de efecto invernadero. -->
-- [x] B) Dióxido de carbono (CO2)
-  <!-- feedback: ¡Correcto! Su acumulación excesiva atrapa el calor en la atmósfera. -->
-- [ ] C) Nitrógeno
-  <!-- feedback: Incorrecto. Es el gas más abundante pero no contribuye al efecto invernadero. -->
-- [ ] D) Argón
-  <!-- feedback: Incorrecto. Es un gas noble inerte. -->
+- [ ] A) Oxígeno <!-- feedback: Incorrecto. Oxígeno -->
+
+- [x] B) Dióxido de carbono (CO2) <!-- feedback: Correcto! Dióxido de carbono (CO2) -->
+
+- [ ] C) Nitrógeno <!-- feedback: Incorrecto. Nitrógeno -->
+
+- [ ] D) Argón <!-- feedback: Incorrecto. Argón -->
 
 ### Explicacion Pedagogica
 El aumento del CO2 atmosférico desde la revolución industrial es la causa principal del calentamiento global antropogénico.
@@ -215,14 +209,13 @@ El aumento del CO2 atmosférico desde la revolución industrial es la causa prin
 ¿Cuál biomolécula es la principal fuente de energía inmediata para las células humanas y se encuentra en alimentos como el arroz y los frijoles?
 
 ### Opciones
-- [x] A) Carbohidratos
-  <!-- feedback: ¡Correcto! Glúcidos como el almidón proporcionan glucosa rápidamente. -->
-- [ ] B) Proteínas
-  <!-- feedback: Incorrecto. Tienen principalmente funciones estructurales y enzimáticas. -->
-- [ ] C) Lípidos
-  <!-- feedback: Incorrecto. Son reserva de energía a largo plazo y forman membranas. -->
-- [ ] D) Ácidos nucleicos
-  <!-- feedback: Incorrecto. Almacenan y transmiten la información genética (ADN/ARN). -->
+- [x] A) Carbohidratos <!-- feedback: Correcto! Carbohidratos -->
+
+- [ ] B) Proteínas <!-- feedback: Incorrecto. Proteínas -->
+
+- [ ] C) Lípidos <!-- feedback: Incorrecto. Lípidos -->
+
+- [ ] D) Ácidos nucleicos <!-- feedback: Incorrecto. Ácidos nucleicos -->
 
 ### Explicacion Pedagogica
 Los carbohidratos son esenciales para el metabolismo celular. En la dieta tica, el gallo pinto es una fuente excelente de carbohidratos complejos y fibra.
@@ -240,14 +233,13 @@ Los carbohidratos son esenciales para el metabolismo celular. En la dieta tica, 
 ¿Qué cambio se observa típicamente en las precipitaciones de la vertiente del Pacífico costarricense durante un evento de El Niño?
 
 ### Opciones
-- [ ] A) Aumento extremo de lluvias (inundaciones).
-  <!-- feedback: Incorrecto. Esto ocurre usualmente durante La Niña en esa zona. -->
-- [x] B) Disminución significativa de lluvias (sequía).
-  <!-- feedback: ¡Correcto! El Niño suele traer déficit hídrico al Pacífico y Guanacaste. -->
-- [ ] C) No hay cambios perceptibles.
-  <!-- feedback: Incorrecto. El clima de Costa Rica es muy sensible a estos fenómenos. -->
-- [ ] D) Nevadas en las cumbres más altas.
-  <!-- feedback: Incorrecto. Las nevadas no son características del clima costarricense bajo El Niño. -->
+- [ ] A) Aumento extremo de lluvias (inundaciones). <!-- feedback: Incorrecto. Aumento extremo de lluvias (inundaciones -->
+
+- [x] B) Disminución significativa de lluvias (sequía). <!-- feedback: Correcto! Disminución significativa de lluvias (sequía). -->
+
+- [ ] C) No hay cambios perceptibles. <!-- feedback: Incorrecto. No hay cambios perceptibles. -->
+
+- [ ] D) Nevadas en las cumbres más altas. <!-- feedback: Incorrecto. Nevadas en las cumbres más altas. -->
 
 ### Explicacion Pedagogica
 El fenómeno ENOS (El Niño-Oscilación del Sur) altera los patrones de viento y temperatura del mar, provocando sequías en el Pacífico y a menudo excesos de lluvia en el Caribe.
@@ -265,14 +257,13 @@ El fenómeno ENOS (El Niño-Oscilación del Sur) altera los patrones de viento y
 ¿Cuál es la capa de la Tierra compuesta principalmente por hierro y níquel, responsable del campo magnético terrestre?
 
 ### Opciones
-- [ ] A) Corteza
-  <!-- feedback: Incorrecto. Es la capa más externa y delgada. -->
-- [ ] B) Manto
-  <!-- feedback: Incorrecto. Es la capa intermedia compuesta por silicatos. -->
-- [x] C) Núcleo
-  <!-- feedback: ¡Correcto! Especialmente el núcleo externo líquido genera el geomagnetismo. -->
-- [ ] D) Litósfera
-  <!-- feedback: Incorrecto. Es una capa rígida que incluye la corteza y parte del manto superior. -->
+- [ ] A) Corteza <!-- feedback: Incorrecto. Corteza -->
+
+- [ ] B) Manto <!-- feedback: Incorrecto. Manto -->
+
+- [x] C) Núcleo <!-- feedback: Correcto! Núcleo -->
+
+- [ ] D) Litósfera <!-- feedback: Incorrecto. Litósfera -->
 
 ### Explicacion Pedagogica
 El núcleo terrestre es una esfera metálica a temperaturas altísimas. Los movimientos en el núcleo externo generan las corrientes eléctricas que crean el campo magnético protector del planeta.
@@ -290,14 +281,13 @@ El núcleo terrestre es una esfera metálica a temperaturas altísimas. Los movi
 Si un corredor parte del reposo y alcanza una velocidad de 10 m/s en 5 segundos, ¿cuál fue su aceleración constante?
 
 ### Opciones
-- [x] A) 2 m/s²
-  <!-- feedback: ¡Correcto! a = (Vf - Vi) / t = (10 - 0) / 5 = 2. -->
-- [ ] B) 5 m/s²
-  <!-- feedback: Incorrecto. Dividiste la velocidad entre un número equivocado o invertiste los datos. -->
-- [ ] C) 50 m/s²
-  <!-- feedback: Incorrecto. Multiplicaste velocidad por tiempo en lugar de dividir. -->
-- [ ] D) 0.5 m/s²
-  <!-- feedback: Incorrecto. Dividiste el tiempo entre la velocidad. -->
+- [x] A) 2 m/s² <!-- feedback: Correcto! 2 m/s² -->
+
+- [ ] B) 5 m/s² <!-- feedback: Incorrecto. 5 m/s² -->
+
+- [ ] C) 50 m/s² <!-- feedback: Incorrecto. 50 m/s² -->
+
+- [ ] D) 0.5 m/s² <!-- feedback: Incorrecto. 0.5 m/s² -->
 
 ### Explicacion Pedagogica
 La aceleración es el cambio de velocidad por unidad de tiempo. En este caso, el corredor aumenta su velocidad en 2 metros por segundo cada segundo.
@@ -315,14 +305,13 @@ La aceleración es el cambio de velocidad por unidad de tiempo. En este caso, el
 ¿Qué fenómeno óptico ocurre cuando la luz blanca del sol se separa en sus diferentes colores al atravesar las gotas de agua?
 
 ### Opciones
-- [ ] A) Reflexión
-  <!-- feedback: Incorrecto. Es el rebote de la luz en una superficie. -->
-- [x] B) Dispersión
-  <!-- feedback: ¡Correcto! La descomposición de la luz en colores debido a la refracción en un medio. -->
-- [ ] C) Difracción
-  <!-- feedback: Incorrecto. Es el curvado de las ondas alrededor de un obstáculo. -->
-- [ ] D) Polarización
-  <!-- feedback: Incorrecto. Es la orientación de las oscilaciones de la onda lumínica. -->
+- [ ] A) Reflexión <!-- feedback: Incorrecto. Reflexión -->
+
+- [x] B) Dispersión <!-- feedback: Correcto! Dispersión -->
+
+- [ ] C) Difracción <!-- feedback: Incorrecto. Difracción -->
+
+- [ ] D) Polarización <!-- feedback: Incorrecto. Polarización -->
 
 ### Explicacion Pedagogica
 La dispersión ocurre porque cada color (frecuencia) de la luz viaja a una velocidad ligeramente diferente en el agua, refractándose en ángulos distintos.
@@ -340,14 +329,13 @@ La dispersión ocurre porque cada color (frecuencia) de la luz viaja a una veloc
 ¿Qué propiedad periódica define la tendencia de un átomo a atraer electrones hacia sí mismo cuando forma un enlace químico?
 
 ### Opciones
-- [ ] A) Radio atómico
-  <!-- feedback: Incorrecto. Se refiere al tamaño del átomo. -->
-- [ ] B) Energía de ionización
-  <!-- feedback: Incorrecto. Es la energía necesaria para arrancar un electrón. -->
-- [x] C) Electronegatividad
-  <!-- feedback: ¡Correcto! El flúor es el elemento más electronegativo. -->
-- [ ] D) Afinidad electrónica
-  <!-- feedback: Incorrecto. Es el cambio de energía cuando un átomo neutro gana un electrón. -->
+- [ ] A) Radio atómico <!-- feedback: Incorrecto. Radio atómico -->
+
+- [ ] B) Energía de ionización <!-- feedback: Incorrecto. Energía de ionización -->
+
+- [x] C) Electronegatividad <!-- feedback: Correcto! Electronegatividad -->
+
+- [ ] D) Afinidad electrónica <!-- feedback: Incorrecto. Afinidad electrónica -->
 
 ### Explicacion Pedagogica
 La electronegatividad determina el tipo de enlace (iónico o covalente). Átomos con gran diferencia de electronegatividad suelen formar enlaces iónicos.
@@ -365,14 +353,13 @@ La electronegatividad determina el tipo de enlace (iónico o covalente). Átomos
 ¿Cómo actúan las vacunas en el sistema inmunológico humano para prevenir enfermedades?
 
 ### Opciones
-- [ ] A) Matan directamente a las bacterias y virus que entran al cuerpo.
-  <!-- feedback: Incorrecto. Esto es lo que hacen los antibióticos o antivirales. -->
-- [x] B) Estimulan la producción de anticuerpos y células de memoria sin causar la enfermedad.
-  <!-- feedback: ¡Correcto! "Entrenan" al sistema inmune para reconocer al patógeno real. -->
-- [ ] C) Modifican el ADN de las personas para que sean resistentes.
-  <!-- feedback: Incorrecto. Las vacunas convencionales no alteran el código genético. -->
-- [ ] D) Crean una barrera física en la piel que impide la entrada de gérmenes.
-  <!-- feedback: Incorrecto. La piel es una barrera natural, pero no depende de las vacunas. -->
+- [ ] A) Matan directamente a las bacterias y virus que entran al cuerpo. <!-- feedback: Incorrecto. Matan directamente a las bacterias y vir -->
+
+- [x] B) Estimulan la producción de anticuerpos y células de memoria sin causar la enfermedad. <!-- feedback: Correcto! Estimulan la producción de anticuerpos y células de memoria  -->
+
+- [ ] C) Modifican el ADN de las personas para que sean resistentes. <!-- feedback: Incorrecto. Modifican el ADN de las personas para qu -->
+
+- [ ] D) Crean una barrera física en la piel que impide la entrada de gérmenes. <!-- feedback: Incorrecto. Crean una barrera física en la piel que  -->
 
 ### Explicacion Pedagogica
 Las vacunas exponen al cuerpo a versiones debilitadas o fragmentos de patógenos, permitiendo que el sistema inmune genere defensas específicas (memoria inmunológica).
@@ -390,14 +377,13 @@ Las vacunas exponen al cuerpo a versiones debilitadas o fragmentos de patógenos
 ¿Cuál es una ventaja principal de la energía geotérmica, muy utilizada en Costa Rica gracias a sus volcanes?
 
 ### Opciones
-- [x] A) Es una fuente de energía constante y disponible las 24 horas del día.
-  <!-- feedback: ¡Correcto! A diferencia de la solar o eólica, no depende del clima. -->
-- [ ] B) Puede instalarse en cualquier casa de la ciudad fácilmente.
-  <!-- feedback: Incorrecto. Requiere ubicaciones específicas cerca de actividad volcánica. -->
-- [ ] C) Produce grandes cantidades de dióxido de carbono.
-  <!-- feedback: Incorrecto. Es una energía con bajas emisiones de gases invernadero. -->
-- [ ] D) No requiere ninguna inversión económica inicial.
-  <!-- feedback: Incorrecto. La construcción de plantas geotérmicas es muy costosa. -->
+- [x] A) Es una fuente de energía constante y disponible las 24 horas del día. <!-- feedback: Correcto! Es una fuente de energía constante y disponible las 24 horas -->
+
+- [ ] B) Puede instalarse en cualquier casa de la ciudad fácilmente. <!-- feedback: Incorrecto. Puede instalarse en cualquier casa de la -->
+
+- [ ] C) Produce grandes cantidades de dióxido de carbono. <!-- feedback: Incorrecto. Produce grandes cantidades de dióxido de -->
+
+- [ ] D) No requiere ninguna inversión económica inicial. <!-- feedback: Incorrecto. No requiere ninguna inversión económica  -->
 
 ### Explicacion Pedagogica
 Costa Rica es líder mundial en energía renovable. La geotermia aprovecha el calor interno de la tierra (vapor de agua) para mover turbinas y generar electricidad de forma continua.
@@ -415,14 +401,13 @@ Costa Rica es líder mundial en energía renovable. La geotermia aprovecha el ca
 ¿Cuáles son las cuatro bases nitrogenadas que forman la secuencia del ADN?
 
 ### Opciones
-- [ ] A) Adenina, Uracilo, Citosina, Guanina
-  <!-- feedback: Incorrecto. El uracilo es exclusivo del ARN. -->
-- [x] B) Adenina, Timina, Citosina, Guanina
-  <!-- feedback: ¡Correcto! A se aparea con T, y C con G. -->
-- [ ] C) Adenina, Timina, Proteína, Guanina
-  <!-- feedback: Incorrecto. La proteína es una biomolécula diferente, no una base del ADN. -->
-- [ ] D) Glucosa, Fosfato, Timina, Citosina
-  <!-- feedback: Incorrecto. Glucosa y fosfato son partes del nucleótido, pero no son las cuatro bases. -->
+- [ ] A) Adenina, Uracilo, Citosina, Guanina <!-- feedback: Incorrecto. Adenina, Uracilo, Citosina, Guanina -->
+
+- [x] B) Adenina, Timina, Citosina, Guanina <!-- feedback: Correcto! Adenina, Timina, Citosina, Guanina -->
+
+- [ ] C) Adenina, Timina, Proteína, Guanina <!-- feedback: Incorrecto. Adenina, Timina, Proteína, Guanina -->
+
+- [ ] D) Glucosa, Fosfato, Timina, Citosina <!-- feedback: Incorrecto. Glucosa, Fosfato, Timina, Citosina -->
 
 ### Explicacion Pedagogica
 El ADN es una doble hélice donde la información se codifica en el orden de estas cuatro bases nitrogenadas. La timina es la base que lo diferencia del ARN.
@@ -440,14 +425,13 @@ El ADN es una doble hélice donde la información se codifica en el orden de est
 ¿Qué tipo de límite de placas ocurre cuando dos placas chocan y una se desliza por debajo de la otra (subducción), como sucede en la costa pacífica de Costa Rica?
 
 ### Opciones
-- [ ] A) Límite Divergente
-  <!-- feedback: Incorrecto. En este las placas se separan. -->
-- [x] B) Límite Convergente
-  <!-- feedback: ¡Correcto! El choque de placas genera volcanes y sismos fuertes. -->
-- [ ] C) Límite Transformante
-  <!-- feedback: Incorrecto. Las placas se deslizan lateralmente (como la Falla de San Andrés). -->
-- [ ] D) Punto Caliente
-  <!-- feedback: Incorrecto. Es actividad volcánica intraplaca (como Hawái). -->
+- [ ] A) Límite Divergente <!-- feedback: Incorrecto. Límite Divergente -->
+
+- [x] B) Límite Convergente <!-- feedback: Correcto! Límite Convergente -->
+
+- [ ] C) Límite Transformante <!-- feedback: Incorrecto. Límite Transformante -->
+
+- [ ] D) Punto Caliente <!-- feedback: Incorrecto. Punto Caliente -->
 
 ### Explicacion Pedagogica
 La subducción de la Placa del Coco bajo la Placa del Caribe es la responsable de la formación de la cordillera volcánica y la alta sismicidad de Costa Rica.
@@ -465,14 +449,13 @@ La subducción de la Placa del Coco bajo la Placa del Caribe es la responsable d
 Si un aparato eléctrico funciona con un voltaje de 120 V y consume una corriente de 2 A, ¿cuál es su resistencia eléctrica según la Ley de Ohm?
 
 ### Opciones
-- [ ] A) 240 Ω
-  <!-- feedback: Incorrecto. Multiplicaste voltaje por corriente. -->
-- [ ] B) 0.016 Ω
-  <!-- feedback: Incorrecto. Dividiste corriente entre voltaje. -->
-- [x] C) 60 Ω
-  <!-- feedback: ¡Correcto! R = V / I = 120 / 2 = 60. -->
-- [ ] D) 118 Ω
-  <!-- feedback: Incorrecto. Restaste los valores. -->
+- [ ] A) 240 Ω <!-- feedback: Incorrecto. 240 Ω -->
+
+- [ ] B) 0.016 Ω <!-- feedback: Incorrecto. 0.016 Ω -->
+
+- [x] C) 60 Ω <!-- feedback: Correcto! 60 Ω -->
+
+- [ ] D) 118 Ω <!-- feedback: Incorrecto. 118 Ω -->
 
 ### Explicacion Pedagogica
 La Ley de Ohm establece que V = I * R. Por lo tanto, para hallar la resistencia, dividimos el voltaje entre la intensidad de corriente.
@@ -490,14 +473,13 @@ La Ley de Ohm establece que V = I * R. Por lo tanto, para hallar la resistencia,
 ¿Qué ácidos se forman principalmente en la atmósfera cuando los óxidos de nitrógeno y azufre reaccionan con el vapor de agua?
 
 ### Opciones
-- [ ] A) Ácido clorhídrico y ácido acético.
-  <!-- feedback: Incorrecto. Estos no son los componentes típicos de la lluvia ácida. -->
-- [x] B) Ácido nítrico y ácido sulfúrico.
-  <!-- feedback: ¡Correcto! Son ácidos fuertes que bajan el pH de la lluvia. -->
-- [ ] C) Ácido cítrico y ácido carbónico.
-  <!-- feedback: Incorrecto. El ácido carbónico es natural en la lluvia, pero no causa la "lluvia ácida" dañina. -->
-- [ ] D) Ácido láctico y ácido fórmico.
-  <!-- feedback: Incorrecto. Son ácidos orgánicos que no provienen de estas emisiones industriales. -->
+- [ ] A) Ácido clorhídrico y ácido acético. <!-- feedback: Incorrecto. Ácido clorhídrico y ácido acético. -->
+
+- [x] B) Ácido nítrico y ácido sulfúrico. <!-- feedback: Correcto! Ácido nítrico y ácido sulfúrico. -->
+
+- [ ] C) Ácido cítrico y ácido carbónico. <!-- feedback: Incorrecto. Ácido cítrico y ácido carbónico. -->
+
+- [ ] D) Ácido láctico y ácido fórmico. <!-- feedback: Incorrecto. Ácido láctico y ácido fórmico. -->
 
 ### Explicacion Pedagogica
 La lluvia ácida daña bosques, suelos y monumentos, y es el resultado de la contaminación del aire por procesos industriales y erupciones volcánicas.
@@ -515,14 +497,13 @@ La lluvia ácida daña bosques, suelos y monumentos, y es el resultado de la con
 ¿Cuál es un riesgo potencial para el medio ambiente asociado con el cultivo de plantas transgénicas?
 
 ### Opciones
-- [ ] A) Aumento de la biodiversidad local.
-  <!-- feedback: Incorrecto. Generalmente tiende a disminuirla debido al monocultivo. -->
-- [x] B) Transferencia de genes a parientes silvestres (flujo génico) creando "supermalezas".
-  <!-- feedback: ¡Correcto! Los genes de resistencia a herbicidas podrían pasar a malezas cercanas. -->
-- [ ] C) Que las plantas empiecen a producir oxígeno tóxico.
-  <!-- feedback: Incorrecto. No hay base científica para esto. -->
-- [ ] D) Que la tierra se vuelva estéril para siempre en una sola cosecha.
-  <!-- feedback: Incorrecto. Si bien el suelo se agota, el término "estéril para siempre" es una exageración. -->
+- [ ] A) Aumento de la biodiversidad local. <!-- feedback: Incorrecto. Aumento de la biodiversidad local. -->
+
+- [x] B) Transferencia de genes a parientes silvestres (flujo génico) creando "supermalezas". <!-- feedback: Correcto! Transferencia de genes a parientes silvestres (flujo génico) -->
+
+- [ ] C) Que las plantas empiecen a producir oxígeno tóxico. <!-- feedback: Incorrecto. Que las plantas empiecen a producir oxíg -->
+
+- [ ] D) Que la tierra se vuelva estéril para siempre en una sola cosecha. <!-- feedback: Incorrecto. Que la tierra se vuelva estéril para sie -->
 
 ### Explicacion Pedagogica
 La biotecnología ofrece soluciones pero también desafíos éticos y ambientales. El flujo génico es una de las principales preocupaciones de los ecólogos respecto a los cultivos OGM.

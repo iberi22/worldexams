@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W37-reportaje-001-MASTERY"
+id: "CO-LC-7-2026-W37-reportaje-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "reportaje"
-semana: "W37"
+week: "W37"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: El Reportaje - Grado 7
 ## Semana W37 — Análisis crítico del reportaje como género interpretativo y de profundidad
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W37-reportaje-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En clase de Lectura Crítica del Colegio San José de Cúcuta se analiza el reportaje "Los últimos guías del páramo", publicado en la revista Semana Rural.
+**Contexto:** En clase de Lectura Crítica del Colegio San José de Cúcuta se analiza el reportaje "Los últimos guías del páramo", publicado en la revista Semana Rural.
 **Expected_Success:** 0.84
 
 ### Enunciado
@@ -39,11 +43,11 @@ La diferencia entre noticia y reportaje no es de verdad vs falsedad, sino de pro
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W37-reportaje-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión del sentido global
-**Context:** Un reportaje sobre la minería ilegal en el Chocó incluye: datos de deforestación, testimonios de mineros, declaraciones de autoridades ambientales, fotografías del terreno, contexto histórico de la región y análisis del impacto en comunidades afrocolombianas.
+**Contexto:** Un reportaje sobre la minería ilegal en el Chocó incluye: datos de deforestación, testimonios de mineros, declaraciones de autoridades ambientales, fotografías del terreno, contexto histórico de la región y análisis del impacto en comunidades afrocolombianas.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -60,11 +64,11 @@ El reportaje se caracteriza por su enfoque multidimensional. A diferencia de la 
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W37-reportaje-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Configuración textual
-**Context:** Un reportaje sobre las bibliotecas comunitarias en Medellín comienza con la descripción de una tarde de lectura en la Biblioteca España de la comuna 1, luego narra la historia de su fundación, y finalmente analiza el impacto de estas bibliotecas en la reducción de la violencia.
+**Contexto:** Un reportaje sobre las bibliotecas comunitarias en Medellín comienza con la descripción de una tarde de lectura en la Biblioteca España de la comuna 1, luego narra la historia de su fundación, y finalmente analiza el impacto de estas bibliotecas en la reducción de la violencia.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -81,11 +85,11 @@ A diferencia de la noticia (pirámide invertida), el reportaje suele usar estruc
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W37-reportaje-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Dimensión inferencial
-**Context:** Un reportaje sobre la producción de café en Colombia incluye la siguiente cita de un campesino de Quindío: "Antes, el café era vida. Ahora, con el cambio climático, no sabemos si vamos a poder seguir sembrando".
+**Contexto:** Un reportaje sobre la producción de café en Colombia incluye la siguiente cita de un campesino de Quindío: "Antes, el café era vida. Ahora, con el cambio climático, no sabemos si vamos a poder seguir sembrando".
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -102,11 +106,11 @@ Los testimonios en el reportaje cumplen funciones que los datos fríos no pueden
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W37-reportaje-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Dimensión inferencial
-**Context:** Un reportaje sobre las basuras electrónicas en Bogotá describe cómo se desmantelan computadores en un barrio popular. El periodista menciona que los trabajadores no usan protección y que los residuos tóxicos se vierten en el alcantarillado.
+**Contexto:** Un reportaje sobre las basuras electrónicas en Bogotá describe cómo se desmantelan computadores en un barrio popular. El periodista menciona que los trabajadores no usan protección y que los residuos tóxicos se vierten en el alcantarillado.
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -123,11 +127,11 @@ El reportaje de campo o inmersivo implica que el periodista se desplaza al lugar
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W37-reportaje-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Configuración textual
-**Context:** Un reportaje de 8 páginas titulado "El viaje del plástico" muestra: página 1: foto de una playa llena de plástico; página 2: datos de producción global; página 3: testimonios de recicladores; página 4: infografía del ciclo del plástico; página 5: contexto de la industria petroquímica; página 6-7: propuestas de solución; página 8: créditos y fuentes.
+**Contexto:** Un reportaje de 8 páginas titulado "El viaje del plástico" muestra: página 1: foto de una playa llena de plástico; página 2: datos de producción global; página 3: testimonios de recicladores; página 4: infografía del ciclo del plástico; página 5: contexto de la industria petroquímica; página 6-7: propuestas de solución; página 8: créditos y fuentes.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -144,11 +148,11 @@ El reportaje moderno, especialmente en revistas y medios digitales, combina múl
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W37-reportaje-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Dimensión inferencial
-**Context:** Dos reportajes sobre el mismo tema (el estallido social de 2021 en Colombia): el primero se titula "Las heridas que no cierran" y el segundo "Lecciones para la democracia".
+**Contexto:** Dos reportajes sobre el mismo tema (el estallido social de 2021 en Colombia): el primero se titula "Las heridas que no cierran" y el segundo "Lecciones para la democracia".
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -165,11 +169,11 @@ El título de un reportaje no es neutral: revela el enfoque, la perspectiva y la
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W37-reportaje-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Dimensión inferencial
-**Context:** Un reportaje sobre el desplazamiento forzado en Colombia cita a: una madre desplazada, un líder comunitario, un funcionario de la Unidad de Víctimas, un académico experto en conflicto y un documento de la Comisión de la Verdad.
+**Contexto:** Un reportaje sobre el desplazamiento forzado en Colombia cita a: una madre desplazada, un líder comunitario, un funcionario de la Unidad de Víctimas, un académico experto en conflicto y un documento de la Comisión de la Verdad.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -186,11 +190,11 @@ La triangulación de fuentes es un criterio de calidad en periodismo de investig
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W37-reportaje-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** Un reportaje de una revista de moda sobre la industria textil en Colombia solo entrevista a dueños de fábricas y diseñadores, que afirman que las condiciones laborales son excelentes. No hay testimonios de trabajadores ni datos de sindicatos.
+**Contexto:** Un reportaje de una revista de moda sobre la industria textil en Colombia solo entrevista a dueños de fábricas y diseñadores, que afirman que las condiciones laborales son excelentes. No hay testimonios de trabajadores ni datos de sindicatos.
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -207,11 +211,11 @@ Un reportaje que solo incluye una perspectiva sobre un tema controvertido no es 
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W37-reportaje-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** Un reportaje titulado "Colombia, país de contrastes" alterna párrafos sobre la riqueza cultural colombiana con párrafos sobre la desigualdad social. Al final, sugiere que el lector reflexione sobre ambos.
+**Contexto:** Un reportaje titulado "Colombia, país de contrastes" alterna párrafos sobre la riqueza cultural colombiana con párrafos sobre la desigualdad social. Al final, sugiere que el lector reflexione sobre ambos.
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ La objetividad absoluta en periodismo no existe, porque toda selección de infor
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W37-reportaje-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** Un reportaje digital sobre la desaparición de las nieves perpetuas en el Parque Los Nevados incluye un video de 360°, una línea de tiempo interactiva y gráficos animados de la pérdida de glaciar.
+**Contexto:** Un reportaje digital sobre la desaparición de las nieves perpetuas en el Parque Los Nevados incluye un video de 360°, una línea de tiempo interactiva y gráficos animados de la pérdida de glaciar.
 **Expected_Success:** 0.40
 
 ### Enunciado
@@ -249,11 +253,11 @@ El reportaje multimedia interactivo representa una evolución del género. Sus v
 
 ---
 
-## Pregunta 12 [D9-D10]
+## Question 12 [D9-D10]
 **ID:** `CO-LC-7-2026-W37-reportaje-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Reflexión sobre el contenido
-**Context:** Como proyecto final de la unidad, los estudiantes del Colegio Champagnat de Bogotá deben planear un reportaje corto sobre la tienda escolar: sus orígenes, cómo funciona, quiénes trabajan allí, qué productos venden y qué impacto tiene en la comunidad educativa.
+**Contexto:** Como proyecto final de la unidad, los estudiantes del Colegio Champagnat de Bogotá deben planear un reportaje corto sobre la tienda escolar: sus orígenes, cómo funciona, quiénes trabajan allí, qué productos venden y qué impacto tiene en la comunidad educativa.
 **Expected_Success:** 0.36
 
 ### Enunciado

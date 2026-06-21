@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W32-repaso-p7-001-MASTERY"
+id: "CO-LEC-3-2026-W32-repaso-p7-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 32
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso de Periodo 7
 
@@ -25,6 +30,7 @@ Este bundle integra los conocimientos de las semanas 29 a 31: poesía (verso/est
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Sana que sana,
@@ -35,7 +41,7 @@ sanará mañana".
 ### Enunciado
 ¿Cuál es la característica principal de este texto literario?
 
-### Options
+### Opciones
 - [ ] A) Que cuenta una noticia sobre una rana. <!-- feedback: Incorrecto. Es un texto tradicional con ritmo y rima, no una noticia. -->
 - [x] B) Que es un fragmento poético con rima y versos cortos. <!-- feedback: ¡Correcto! La estructura y el sonido indican que es parte del género lírico. -->
 - [ ] C) Que da instrucciones para curar animales. <!-- feedback: Incorrecto. Es una expresión cariñosa, no un manual médico. -->
@@ -51,6 +57,7 @@ Repaso de poesía (Semana 29). Identificar las marcas del género lírico (rima,
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Fragmento Teatral:**
@@ -60,7 +67,7 @@ Repaso de poesía (Semana 29). Identificar las marcas del género lírico (rima,
 ### Enunciado
 ¿Qué información nos dan las palabras entre paréntesis en este texto?
 
-### Options
+### Opciones
 - [ ] A) Los nombres de los juguetes de Juan. <!-- feedback: Incorrecto. Solo se menciona un oso al final, no entre paréntesis. -->
 - [x] B) Cómo se sienten los personajes o qué acciones realizan. <!-- feedback: ¡Correcto! Las acotaciones indican la emoción (asustado, sonriendo) y la acción (entrando). -->
 - [ ] C) Lo que los personajes deben decir en voz muy alta. <!-- feedback: Incorrecto. Lo que se dice en voz alta es el diálogo fuera del paréntesis. -->
@@ -76,6 +83,7 @@ Repaso de textos teatrales (Semana 31). Comprender la función de las acotacione
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Mi hermano es un **lince** para encontrar las llaves perdidas; las ve antes que todos nosotros".
@@ -83,7 +91,7 @@ Repaso de textos teatrales (Semana 31). Comprender la función de las acotacione
 ### Enunciado
 ¿Qué significa que el hermano sea un "**lince**" en esta oración?
 
-### Options
+### Opciones
 - [ ] A) Que tiene mucho pelo y orejas puntiagudas. <!-- feedback: Incorrecto. Es un uso figurado de la palabra. -->
 - [x] B) Que tiene una vista muy aguda y es muy ágil encontrando cosas. <!-- feedback: ¡Correcto! Se usa el animal (famoso por su vista) para resaltar la habilidad del hermano. -->
 - [ ] C) Que es un animal salvaje que vive en la casa. <!-- feedback: Incorrecto. El hermano es un ser humano. -->
@@ -99,6 +107,7 @@ Repaso de lenguaje figurado (Semana 30). Identificar la cualidad compartida entr
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Tengo una hormiguita en la panza
@@ -109,7 +118,7 @@ ella no para de andar".
 ### Enunciado
 ¿Cuántos **versos** tiene la estrofa anterior?
 
-### Options
+### Opciones
 - [ ] A) 2 versos. <!-- feedback: Incorrecto. Cuenta cada una de las líneas del fragmento. -->
 - [x] B) 4 versos. <!-- feedback: ¡Correcto! Hay cuatro líneas de texto, por lo tanto, cuatro versos. -->
 - [ ] C) 1 verso. <!-- feedback: Incorrecto. El conjunto es una estrofa, pero tiene varias líneas. -->
@@ -125,6 +134,7 @@ Repaso de estructura poética (Semana 29). Contar versos es una habilidad técni
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "El pueblo entero estaba de **fiesta** porque el río por fin traía agua limpia".
@@ -132,7 +142,7 @@ Repaso de estructura poética (Semana 29). Contar versos es una habilidad técni
 ### Enunciado
 Si quisiéramos decir lo mismo usando **lenguaje figurado**, ¿cuál de estas opciones elegirías?
 
-### Options
+### Opciones
 - [ ] A) La gente estaba muy contenta por el agua. <!-- feedback: Incorrecto. Este es lenguaje literal, dice lo mismo de forma sencilla. -->
 - [ ] B) El agua del río ya no estaba sucia ni contaminada. <!-- feedback: Incorrecto. Sigue siendo lenguaje literal explicativo. -->
 - [x] C) El pueblo entero tenía el corazón saltando de alegría. <!-- feedback: ¡Correcto! La expresión "corazón saltando de alegría" es una metáfora de la felicidad. -->
@@ -148,6 +158,7 @@ Transformar lenguaje literal en figurado requiere creatividad y comprensión del
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Imagina que estás escribiendo una obra de teatro sobre un astronauta que llega a la Luna.
@@ -155,7 +166,7 @@ Imagina que estás escribiendo una obra de teatro sobre un astronauta que llega 
 ### Enunciado
 ¿Cuál sería la **acotación** más adecuada para el momento en que el astronauta baja de la nave?
 
-### Options
+### Opciones
 - [ ] A) ASTRONAUTA: Por fin he llegado a este lugar tan blanco. <!-- feedback: Incorrecto. Esto es un diálogo, no una instrucción de actuación. -->
 - [x] B) (Baja lentamente la escalera y da un pequeño salto sobre el suelo gris) <!-- feedback: ¡Correcto! Es una instrucción de movimiento físico y ambiente que guía al actor. -->
 - [ ] C) Los astronautas usan trajes espaciales muy pesados. <!-- feedback: Incorrecto. Esto es un dato informativo, no una acotación teatral. -->
@@ -171,6 +182,7 @@ Repaso de textos teatrales (Semana 31). Diferenciar entre lo que se dice (diálo
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Las perlas de tu boca brillan cuando ríes".
@@ -178,7 +190,7 @@ Repaso de textos teatrales (Semana 31). Diferenciar entre lo que se dice (diálo
 ### Enunciado
 ¿Qué término real está sustituyendo la palabra "**perlas**" en este verso?
 
-### Options
+### Opciones
 - [ ] A) Los ojos. <!-- feedback: Incorrecto. Los ojos no están en la boca. -->
 - [ ] B) Las orejas. <!-- feedback: Incorrecto. No brillan al reír ni están en la boca. -->
 - [x] C) Los dientes. <!-- feedback: ¡Correcto! Se comparan los dientes blancos y brillantes con perlas preciosas. -->
@@ -194,6 +206,7 @@ Analizar metáforas clásicas ayuda al estudiante a entender cómo se embellece 
 **Bloom:** Evaluate
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un autor escribe este poema:
@@ -205,7 +218,7 @@ yo le presto mi atención".
 ### Enunciado
 ¿Qué recurso literario está usando el autor al decir que el "**televisor lo mira**"?
 
-### Options
+### Opciones
 - [ ] A) Metáfora, porque compara el televisor con un ojo. <!-- feedback: Incorrecto. No hay una comparación directa de objetos. -->
 - [x] B) Personificación, porque le da una acción humana (mirar) a un objeto inanimado. <!-- feedback: ¡Correcto! Dar cualidades de seres vivos a objetos es propio de la personificación. -->
 - [ ] C) Rima, porque mirar suena como televisor. <!-- feedback: Incorrecto. Esas palabras no riman entre sí. -->

@@ -1,28 +1,32 @@
 ---
-id: "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY"
+id: "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lengua"
 tema: "palabras-homografas"
-semana: "W23"
+week: "W23"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Palabras Homógrafas - Grado 6
 ## Semana W23
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio La Candelaria de Bogotá, la profesora Marcela inicia la clase preguntando sobre palabras homógrafas.
+**Contexto:** En el Colegio La Candelaria de Bogotá, la profesora Marcela inicia la clase preguntando sobre palabras homógrafas.
 **Expected_Success:** 0.86
 
 ### Enunciado
@@ -39,11 +43,11 @@ Las palabras homógrafas son aquellas que tienen la misma escritura pero diferen
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En la Institución Educativa El Pedregal de Medellín, los estudiantes dan ejemplos de homógrafas.
+**Contexto:** En la Institución Educativa El Pedregal de Medellín, los estudiantes dan ejemplos de homógrafas.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -60,11 +64,11 @@ Las palabras homógrafas se reconocen por su escritura idéntica. A diferencia d
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio San José de Cúcuta, los estudiantes identifican homógrafas en un texto cotidiano.
+**Contexto:** En el Colegio San José de Cúcuta, los estudiantes identifican homógrafas en un texto cotidiano.
 **Expected_Success:** 0.79
 
 ### Enunciado
@@ -72,7 +76,7 @@ Lee: "Fui al banco a retirar dinero. Luego me senté en un banco de la plaza a e
 
 ### Opciones
 - [ ] A) "Dinero" y "plaza". <!-- feedback: Incorrecto. No son homógrafas. -->
-- [x] B) "Banco", que tiene al menos tres significados diferentes: institución financiera (banco), asiento (banco de la plaza) y conjunto de peces (banco de peces). <!--- feedback: Correcto. "Banco" es un ejemplo clásico de palabra homógrafa (polisemia, para ser precisos, aunque aquí los significados no están relacionados etimológicamente). La palabra "banco" tiene múltiples significados que se distinguen solo por el contexto en que aparece. Es una de las palabras más polisémicas del español. -->
+- [x] B) "Banco", que tiene al menos tres significados diferentes: institución financiera (banco), asiento (banco de la plaza) y conjunto de peces (banco de peces). <!--- feedback: Correcto. "Banco" es un ejemplo clásico de palabra homógrafa (polisemia, para ser precisos, aunque aquí los significados no están relacionados etimológicamente). La palabra "banco" tiene múltiples significados que se distinguen solo por el contexto en que aparece. Es una de las palabras más polisémicas del español. --> <!-- feedback: Correcto! "Banco", que tiene al menos tres significados diferentes: in -->
 - [ ] C) "Fui" y "senté". <!-- feedback: Incorrecto. No son homógrafas. -->
 - [ ] D) "Retirar" y "esperar". <!-- feedback: Incorrecto. No son homógrafas. -->
 
@@ -81,11 +85,11 @@ Lee: "Fui al banco a retirar dinero. Luego me senté en un banco de la plaza a e
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En la I.E. Humberto Jordán de Cali, los estudiantes determinan el significado de una homógrafa según el contexto.
+**Contexto:** En la I.E. Humberto Jordán de Cali, los estudiantes determinan el significado de una homógrafa según el contexto.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -102,11 +106,11 @@ Los adjetivos también pueden ser homógrafos cuando su significado varía segú
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Alfonso López Pumarejo de Valledupar, los estudiantes analizan el fenómeno de la homografía en verbos.
+**Contexto:** En el Colegio Alfonso López Pumarejo de Valledupar, los estudiantes analizan el fenómeno de la homografía en verbos.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -123,11 +127,11 @@ Analiza: "Yo como frutas todos los días." / "Él come como si no hubiera un ma�
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En la Institución Educativa San Gabriel de Facatativá, los estudiantes clasifican homógrafas según su categoría gramatical.
+**Contexto:** En la Institución Educativa San Gabriel de Facatativá, los estudiantes clasifican homógrafas según su categoría gramatical.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -146,11 +150,11 @@ Las palabras homógrafas no siempre pertenecen a la misma categoría gramatical.
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En el Colegio León de Greiff de Bogotá, los estudiantes usan homógrafas en oraciones para mostrar su significado.
+**Contexto:** En el Colegio León de Greiff de Bogotá, los estudiantes usan homógrafas en oraciones para mostrar su significado.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -167,11 +171,11 @@ Escribe dos oraciones que demuestren dos significados diferentes de la palabra "
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. Francisco de Paula Santander de Ocaña, los estudiantes analizan un texto satírico que juega con homógrafas.
+**Contexto:** En la I.E. Francisco de Paula Santander de Ocaña, los estudiantes analizan un texto satírico que juega con homógrafas.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -188,11 +192,11 @@ El humor lingüístico a menudo explota la homografía. En este caso, la palabra
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio Mayor de Barranquilla, los estudiantes debaten sobre la utilidad de aprender homógrafas.
+**Contexto:** En el Colegio Mayor de Barranquilla, los estudiantes debaten sobre la utilidad de aprender homógrafas.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -209,11 +213,11 @@ Las palabras homógrafas no son un problema del idioma sino una muestra de su ri
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio Gimnasio Moderno de Bogotá, los estudiantes crean un juego de adivinanzas con homógrafas.
+**Contexto:** En el Colegio Gimnasio Moderno de Bogotá, los estudiantes crean un juego de adivinanzas con homógrafas.
 **Expected_Success:** 0.48
 
 ### Enunciado

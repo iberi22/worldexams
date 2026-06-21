@@ -17,6 +17,7 @@ tier: "legacy"
 creador: "Jules-Agent"
 ---
 
+
 ## Question 1 [D3]
 **ID:** AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v1
 **Bloom:** Remember
@@ -28,14 +29,13 @@ creador: "Jules-Agent"
 ¿Cuál es la definición científica más aceptada de energía?
 
 ### Opciones
-- [ ] A) Es una sustancia líquida que fluye por los cables eléctricos.
-  <!-- feedback: No, la energía no es una sustancia material. -->
-- [x] B) Es la capacidad de los objetos o sistemas para realizar cambios o producir trabajo.
-  <!-- feedback: ¡Correcto! La energía se manifiesta a través de los cambios que produce. -->
-- [ ] C) Es una fuerza invisible que solo los seres vivos poseen.
-  <!-- feedback: Incorrecto. Los objetos inanimados también tienen y transforman energía. -->
-- [ ] D) Es un tipo de materia que no tiene peso.
-  <!-- feedback: No, la energía no es materia; son conceptos diferentes. -->
+- [ ] A) Es una sustancia líquida que fluye por los cables eléctricos. <!-- feedback: Incorrecto. Es una sustancia líquida que fluye por l -->
+
+- [x] B) Es la capacidad de los objetos o sistemas para realizar cambios o producir trabajo. <!-- feedback: Correcto! Es la capacidad de los objetos o sistemas para realizar camb -->
+
+- [ ] C) Es una fuerza invisible que solo los seres vivos poseen. <!-- feedback: Incorrecto. Es una fuerza invisible que solo los ser -->
+
+- [ ] D) Es un tipo de materia que no tiene peso. <!-- feedback: Incorrecto. Es un tipo de materia que no tiene peso. -->
 
 ### Explicación Pedagógica
 La energía no se puede ver ni tocar directamente, pero se reconoce por sus efectos. Es lo que permite que un auto se mueva, que una lámpara alumbre o que el agua hierva.
@@ -53,14 +53,13 @@ La energía no se puede ver ni tocar directamente, pero se reconoce por sus efec
 ¿Qué tipo de energía tiene la pelota cuando está en su punto más alto, justo antes de empezar a caer?
 
 ### Opciones
-- [ ] A) Energía cinética
-  <!-- feedback: No, la energía cinética es la energía del movimiento. En el punto más alto, la velocidad es cero. -->
-- [x] B) Energía potencial gravitatoria
-  <!-- feedback: ¡Correcto! Es la energía que posee un cuerpo debido a su posición en altura respecto al suelo. -->
-- [ ] C) Energía eléctrica
-  <!-- feedback: No, una pelota de fútbol no funciona con electricidad. -->
-- [ ] D) Energía nuclear
-  <!-- feedback: Incorrecto. La energía nuclear está contenida en el núcleo de los átomos. -->
+- [ ] A) Energía cinética <!-- feedback: Incorrecto. Energía cinética -->
+
+- [x] B) Energía potencial gravitatoria <!-- feedback: Correcto! Energía potencial gravitatoria -->
+
+- [ ] C) Energía eléctrica <!-- feedback: Incorrecto. Energía eléctrica -->
+
+- [ ] D) Energía nuclear <!-- feedback: Incorrecto. Energía nuclear -->
 
 ### Explicación Pedagógica
 La energía mecánica total es la suma de la cinética (movimiento) y la potencial (posición). Al subir, la cinética se transforma en potencial. En la altura máxima, toda la energía es potencial gravitatoria.
@@ -78,14 +77,13 @@ La energía mecánica total es la suma de la cinética (movimiento) y la potenci
 ¿Cuál es la transformación de energía que ocurre en este proceso?
 
 ### Opciones
-- [x] A) Energía cinética del viento en energía eléctrica.
-  <!-- feedback: ¡Muy bien! El movimiento de las aspas acciona un generador eléctrico. -->
-- [ ] B) Energía solar en energía química.
-  <!-- feedback: No, esa es la transformación que ocurre en la fotosíntesis. -->
-- [ ] C) Energía eléctrica en energía sonora.
-  <!-- feedback: Incorrecto. Eso ocurriría en un parlante o radio. -->
-- [ ] D) Energía potencial en energía calórica directamente.
-  <!-- feedback: No es el proceso principal de un aerogenerador. -->
+- [x] A) Energía cinética del viento en energía eléctrica. <!-- feedback: Correcto! Energía cinética del viento en energía eléctrica. -->
+
+- [ ] B) Energía solar en energía química. <!-- feedback: Incorrecto. Energía solar en energía química. -->
+
+- [ ] C) Energía eléctrica en energía sonora. <!-- feedback: Incorrecto. Energía eléctrica en energía sonora. -->
+
+- [ ] D) Energía potencial en energía calórica directamente. <!-- feedback: Incorrecto. Energía potencial en energía calórica di -->
 
 ### Explicación Pedagógica
 Los aerogeneradores aprovechan la energía cinética (de movimiento) del viento. Al girar las aspas, esta energía se transmite a un eje que, mediante un generador, se convierte en energía eléctrica lista para usar.
@@ -103,14 +101,13 @@ Los aerogeneradores aprovechan la energía cinética (de movimiento) del viento.
 ¿Qué tipo de energía proveniente del Sol se está transformando en energía térmica (calor) para quemar el papel?
 
 ### Opciones
-- [ ] A) Energía sonora
-  <!-- feedback: No, el sol no transmite sonido a través del vacío del espacio. -->
-- [x] B) Energía lumínica (radiante)
-  <!-- feedback: ¡Exacto! La luz transporta energía que puede concentrarse y transformarse en calor. -->
-- [ ] C) Energía mecánica
-  <!-- feedback: Incorrecto. No hay movimiento físico de objetos involucrado en el rayo de luz. -->
-- [ ] D) Energía hidráulica
-  <!-- feedback: No, la energía hidráulica es la del agua en movimiento. -->
+- [ ] A) Energía sonora <!-- feedback: Incorrecto. Energía sonora -->
+
+- [x] B) Energía lumínica (radiante) <!-- feedback: Correcto! Energía lumínica (radiante) -->
+
+- [ ] C) Energía mecánica <!-- feedback: Incorrecto. Energía mecánica -->
+
+- [ ] D) Energía hidráulica <!-- feedback: Incorrecto. Energía hidráulica -->
 
 ### Explicación Pedagógica
 La energía radiante del Sol viaja en forma de ondas electromagnéticas. Al ser concentrada por la lupa sobre el papel, las moléculas de este aumentan su agitación, transformando la energía lumínica en energía térmica.
@@ -128,14 +125,13 @@ La energía radiante del Sol viaja en forma de ondas electromagnéticas. Al ser 
 Si ambas lamparitas transforman energía eléctrica en luz, ¿por qué la LED es más eficiente según el concepto de transformación de energía?
 
 ### Opciones
-- [ ] A) Porque la LED fabrica su propia energía.
-  <!-- feedback: Falso. Ningún dispositivo fabrica energía, solo la transforma. -->
-- [x] B) Porque transforma un mayor porcentaje de energía en luz y pierde menos en forma de calor.
-  <!-- feedback: ¡Correcto! La eficiencia es la relación entre la energía útil y la energía total consumida. -->
-- [ ] C) Porque la LED no necesita electricidad para funcionar.
-  <!-- feedback: Incorrecto. Ambos tipos de lámparas necesitan suministro eléctrico. -->
-- [ ] D) Porque las antiguas lamparitas transformaban la luz en electricidad.
-  <!-- feedback: No, era al revés: la electricidad se transformaba en luz y (mucha) energía térmica. -->
+- [ ] A) Porque la LED fabrica su propia energía. <!-- feedback: Incorrecto. Porque la LED fabrica su propia energía. -->
+
+- [x] B) Porque transforma un mayor porcentaje de energía en luz y pierde menos en forma de calor. <!-- feedback: Correcto! Porque transforma un mayor porcentaje de energía en luz y pi -->
+
+- [ ] C) Porque la LED no necesita electricidad para funcionar. <!-- feedback: Incorrecto. Porque la LED no necesita electricidad p -->
+
+- [ ] D) Porque las antiguas lamparitas transformaban la luz en electricidad. <!-- feedback: Incorrecto. Porque las antiguas lamparitas transform -->
 
 ### Explicación Pedagógica
 En toda transformación de energía hay una parte que no se aprovecha para el fin deseado (energía degradada, generalmente calor). Las luces LED son eficientes porque casi toda la electricidad se vuelve luz, mientras que las incandescentes se calentaban mucho, desperdiciando energía.
@@ -153,14 +149,13 @@ En toda transformación de energía hay una parte que no se aprovecha para el fi
 ¿Cuál es la cadena de transformación de energía que explica este fenómeno?
 
 ### Opciones
-- [ ] A) Energía térmica -> Energía química
-  <!-- feedback: No, es el proceso inverso al que ocurre en este caso. -->
-- [ ] B) Energía sonora -> Energía lumínica
-  <!-- feedback: Incorrecto. No estás produciendo luz al frotar las manos. -->
-- [x] C) Energía química (alimentos) -> Energía cinética (movimiento) -> Energía térmica (calor)
-  <!-- feedback: ¡Excelente! Usás la energía de los alimentos para mover los músculos y la fricción genera calor. -->
-- [ ] D) Energía potencial -> Energía nuclear
-  <!-- feedback: No tiene relación con el frotamiento de las manos. -->
+- [ ] A) Energía térmica -> Energía química <!-- feedback: Incorrecto. Energía térmica -> Energía química -->
+
+- [ ] B) Energía sonora -> Energía lumínica <!-- feedback: Incorrecto. Energía sonora -> Energía lumínica -->
+
+- [x] C) Energía química (alimentos) -> Energía cinética (movimiento) -> Energía térmica (calor) <!-- feedback: Correcto! Energía química (alimentos) -> Energía cinética (movimiento) -->
+
+- [ ] D) Energía potencial -> Energía nuclear <!-- feedback: Incorrecto. Energía potencial -> Energía nuclear -->
 
 ### Explicación Pedagógica
 Tu cuerpo transforma la energía química de los alimentos en energía cinética para mover las manos. El rozamiento (fricción) entre las superficies de la piel hace que parte de esa energía cinética se degrade en energía térmica, aumentando la temperatura local.
@@ -178,14 +173,13 @@ Tu cuerpo transforma la energía química de los alimentos en energía cinética
 ¿Cómo se denomina el mecanismo de transferencia de calor que ocurre a través del metal de la pava (un sólido)?
 
 ### Opciones
-- [ ] A) Convección
-  <!-- feedback: No, la convección ocurre en líquidos y gases por el movimiento de masas calientes. -->
-- [x] B) Conducción
-  <!-- feedback: ¡Correcto! Es la transferencia de calor por contacto directo en materiales sólidos. -->
-- [ ] C) Radiación
-  <!-- feedback: Incorrecto. La radiación no requiere un medio material (ej. el calor del sol). -->
-- [ ] D) Aislamiento
-  <!-- feedback: El aislamiento es lo opuesto; es impedir que el calor pase. -->
+- [ ] A) Convección <!-- feedback: Incorrecto. Convección -->
+
+- [x] B) Conducción <!-- feedback: Correcto! Conducción -->
+
+- [ ] C) Radiación <!-- feedback: Incorrecto. Radiación -->
+
+- [ ] D) Aislamiento <!-- feedback: Incorrecto. Aislamiento -->
 
 ### Explicación Pedagógica
 La conducción ocurre cuando las partículas vibran y chocan entre sí, transmitiendo energía térmica a sus vecinas sin que la materia se desplace. Los metales son excelentes conductores térmicos.
@@ -203,14 +197,13 @@ La conducción ocurre cuando las partículas vibran y chocan entre sí, transmit
 ¿A qué se debe esta diferencia de temperatura si el sol calienta a ambos por igual?
 
 ### Opciones
-- [ ] A) A que la arena tiene más energía que el agua.
-  <!-- feedback: No necesariamente; la temperatura no es lo mismo que la energía total. -->
-- [ ] B) A que el agua del mar refleja toda la luz y no absorbe calor.
-  <!-- feedback: Falso. El agua absorbe mucha energía, pero la usa de forma diferente. -->
-- [x] C) A que el agua tiene un mayor calor específico y tarda más en cambiar su temperatura.
-  <!-- feedback: ¡Correcto! El agua necesita mucha más energía que la arena para subir un grado su temperatura. -->
-- [ ] D) A que la arena está más cerca del Sol que el agua.
-  <!-- feedback: Incorrecto. La distancia al sol es prácticamente la misma para ambas. -->
+- [ ] A) A que la arena tiene más energía que el agua. <!-- feedback: Incorrecto. A que la arena tiene más energía que el  -->
+
+- [ ] B) A que el agua del mar refleja toda la luz y no absorbe calor. <!-- feedback: Incorrecto. A que el agua del mar refleja toda la lu -->
+
+- [x] C) A que el agua tiene un mayor calor específico y tarda más en cambiar su temperatura. <!-- feedback: Correcto! A que el agua tiene un mayor calor específico y tarda más en -->
+
+- [ ] D) A que la arena está más cerca del Sol que el agua. <!-- feedback: Incorrecto. A que la arena está más cerca del Sol qu -->
 
 ### Explicación Pedagógica
 El calor específico es una propiedad de los materiales. El agua tiene un calor específico muy alto, lo que significa que es un buen regulador térmico: se calienta y se enfría lentamente comparada con los sólidos como la arena.
@@ -228,14 +221,13 @@ El calor específico es una propiedad de los materiales. El agua tiene un calor 
 ¿Cuál es la principal ventaja ambiental de usar energía solar térmica en lugar de quemar gas natural para calentar agua?
 
 ### Opciones
-- [ ] A) Que el agua sale más limpia si se calienta con el sol.
-  <!-- feedback: No, la pureza del agua depende del filtrado, no de la fuente de calor. -->
-- [ ] B) Que los paneles solares térmicos son indestructibles y duran para siempre.
-  <!-- feedback: Falso. Todos los dispositivos tienen una vida útil y se desgastan. -->
-- [x] C) Que es una fuente renovable que no emite gases de efecto invernadero durante su funcionamiento.
-  <!-- feedback: ¡Excelente! Ayuda a combatir el cambio climático al reducir el uso de combustibles fósiles. -->
-- [ ] D) Que la energía solar es más potente y calienta el agua en un segundo.
-  <!-- feedback: No, el calentamiento solar suele ser más lento que un termotanque a gas potente. -->
+- [ ] A) Que el agua sale más limpia si se calienta con el sol. <!-- feedback: Incorrecto. Que el agua sale más limpia si se calien -->
+
+- [ ] B) Que los paneles solares térmicos son indestructibles y duran para siempre. <!-- feedback: Incorrecto. Que los paneles solares térmicos son ind -->
+
+- [x] C) Que es una fuente renovable que no emite gases de efecto invernadero durante su funcionamiento. <!-- feedback: Correcto! Que es una fuente renovable que no emite gases de efecto inv -->
+
+- [ ] D) Que la energía solar es más potente y calienta el agua en un segundo. <!-- feedback: Incorrecto. Que la energía solar es más potente y ca -->
 
 ### Explicación Pedagógica
 Las energías renovables son fundamentales para la sostenibilidad. A diferencia del gas (combustible fósil), el sol es una fuente inagotable a escala humana y su uso no libera dióxido de carbono a la atmósfera.
@@ -253,14 +245,13 @@ Las energías renovables son fundamentales para la sostenibilidad. A diferencia 
 ¿Qué propiedad deberías priorizar en los materiales de construcción para evitar que el calor de la calefacción se escape al exterior?
 
 ### Opciones
-- [ ] A) Que sean buenos conductores térmicos como el hierro.
-  <!-- feedback: No, si conducen bien el calor, este se escaparía rápidamente hacia afuera. -->
-- [x] B) Que sean aislantes térmicos con baja conductividad, como el telgopor o la lana de vidrio.
-  <!-- feedback: ¡Correcto! Estos materiales dificultan el paso del calor, manteniendo la casa caliente. -->
-- [ ] C) Que sean materiales muy brillantes que reflejen la luz solar.
-  <!-- feedback: Esto podría ayudar con la radiación, pero para las paredes el problema principal es la conducción. -->
-- [ ] D) Que sean materiales muy densos y pesados para que el viento no los mueva.
-  <!-- feedback: La densidad no garantiza necesariamente un buen aislamiento térmico. -->
+- [ ] A) Que sean buenos conductores térmicos como el hierro. <!-- feedback: Incorrecto. Que sean buenos conductores térmicos com -->
+
+- [x] B) Que sean aislantes térmicos con baja conductividad, como el telgopor o la lana de vidrio. <!-- feedback: Correcto! Que sean aislantes térmicos con baja conductividad, como el  -->
+
+- [ ] C) Que sean materiales muy brillantes que reflejen la luz solar. <!-- feedback: Incorrecto. Que sean materiales muy brillantes que r -->
+
+- [ ] D) Que sean materiales muy densos y pesados para que el viento no los mueva. <!-- feedback: Incorrecto. Que sean materiales muy densos y pesados -->
 
 ### Explicación Pedagógica
 En zonas frías, el uso de aislantes térmicos es clave para la eficiencia energética. Al tener baja conductividad, estos materiales reducen la transferencia de calor por conducción desde el interior cálido hacia el exterior frío.

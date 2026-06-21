@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "organismos-internacionales"
-semana: "W36"
+week: "W36"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Organismos internacionales: ONU, OEA, UNICEF, derechos humanos
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W36-organismos-internacionales-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que significa ONU?
@@ -39,12 +44,13 @@ La ONU fue fundada en 1945 despues de la Segunda Guerra Mundial para mantener la
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W36-organismos-internacionales-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cuantos paises son miembros de la ONU?
@@ -60,12 +66,13 @@ La ONU tiene 193 Estados miembros. Colombia es miembro fundador desde 1945.
 
 ---
 
-## Pregunta 3 [D1]
+## Question 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W36-organismos-internacionales-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que funcion principal tiene la ONU?
@@ -81,12 +88,13 @@ La ONU busca prevenir conflictos, proteger los derechos humanos, promover el des
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W36-organismos-internacionales-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es UNICEF?
@@ -102,12 +110,13 @@ UNICEF trabaja en todo el mundo para proteger los derechos de los ninos: educaci
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W36-organismos-internacionales-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es la OEA?
@@ -123,12 +132,13 @@ La OEA fue fundada en 1948 (Bogota) y reune a 35 paises de America.
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W36-organismos-internacionales-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es la Declaracion Universal de los Derechos Humanos?
@@ -144,12 +154,13 @@ La DUDH fue adoptada por la Asamblea General de la ONU el 10 de diciembre de 194
 
 ---
 
-## Pregunta 7 [D1]
+## Question 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W36-organismos-internacionales-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cuales son algunos derechos humanos fundamentales?
@@ -165,12 +176,13 @@ La DUDH incluye: derecho a la vida, libertad, igualdad ante la ley, educacion, s
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W36-organismos-internacionales-001-MASTERY-v8`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es la UNESCO?
@@ -186,12 +198,13 @@ UNESCO promueve la educacion, la ciencia, la cultura y la comunicacion. Protege 
 
 ---
 
-## Pregunta 9 [D1]
+## Question 9 [D1]
 
 **ID:** `CO-SOC-5-2026-W36-organismos-internacionales-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Como contribuye Colombia a los organismos internacionales?
@@ -207,12 +220,13 @@ Colombia es miembro activo de la ONU, OEA, CAN, Alianza del Pacifico. Participa 
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W36-organismos-internacionales-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por que son importantes los organismos internacionales para Colombia?

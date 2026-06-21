@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-3-2026-W04-sustantivos-001-MASTERY"
+id: "CO-LEN-3-2026-W04-sustantivos-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 3"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Gramática - sustantivos - Grado 3
 
@@ -22,7 +24,7 @@ Este bundle explora el uso de los sustantivos (comunes, propios, género y núme
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-3-2026-W04-sustantivos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -33,21 +35,20 @@ Este bundle explora el uso de los sustantivos (comunes, propios, género y núme
 ¿Cuál de las siguientes palabras es un sustantivo?
 
 ### Opciones
-- [ ] A) Correr
-  <!-- feedback: No, esta palabra indica una acción (verbo). -->
-- [ ] B) Grande
-  <!-- feedback: No, esta palabra describe una cualidad (adjetivo). -->
-- [x] C) Mesa
-  <!-- feedback: ¡Correcto! Es el nombre de un objeto. -->
-- [ ] D) Ayer
-  <!-- feedback: No, es un adverbio de tiempo. -->
+- [ ] A) Correr <!-- feedback: Incorrecto. Correr -->
+
+- [ ] B) Grande <!-- feedback: Incorrecto. Grande -->
+
+- [x] C) Mesa <!-- feedback: Correcto! Mesa -->
+
+- [ ] D) Ayer <!-- feedback: Incorrecto. Ayer -->
 
 ### Explicación Pedagogica
 Los sustantivos son palabras que sirven para nombrar personas, animales, objetos, lugares o ideas.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-3-2026-W04-sustantivos-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -58,21 +59,20 @@ Los sustantivos son palabras que sirven para nombrar personas, animales, objetos
 ¿Qué palabra es un sustantivo propio?
 
 ### Opciones
-- [ ] A) Perro
-  <!-- feedback: Es un sustantivo común porque se refiere a cualquier perro. -->
-- [x] B) Bogotá
-  <!-- feedback: ¡Muy bien! Es el nombre específico de una ciudad, por eso es propio. -->
-- [ ] C) Ciudad
-  <!-- feedback: Es un sustantivo común. -->
-- [ ] D) Amigo
-  <!-- feedback: Es un sustantivo común. -->
+- [ ] A) Perro <!-- feedback: Incorrecto. Perro -->
+
+- [x] B) Bogotá <!-- feedback: Correcto! Bogotá -->
+
+- [ ] C) Ciudad <!-- feedback: Incorrecto. Ciudad -->
+
+- [ ] D) Amigo <!-- feedback: Incorrecto. Amigo -->
 
 ### Explicación Pedagogica
 Los sustantivos propios nombran a un ser u objeto de forma individual, distinguiéndolo de los demás de su misma especie. Siempre se escriben con mayúscula.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-3-2026-W04-sustantivos-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -83,21 +83,20 @@ Los sustantivos propios nombran a un ser u objeto de forma individual, distingui
 En la frase "Agrega la sal al arroz", ¿cuáles son los sustantivos?
 
 ### Opciones
-- [ ] A) Agrega y sal
-  <!-- feedback: Agrega es un verbo. -->
-- [x] B) Sal y arroz
-  <!-- feedback: ¡Excelente! Ambas son palabras que nombran ingredientes (cosas). -->
-- [ ] C) La y al
-  <!-- feedback: Son artículos o preposiciones. -->
-- [ ] D) Sal y la
-  <!-- feedback: La es un artículo. -->
+- [ ] A) Agrega y sal <!-- feedback: Incorrecto. Agrega y sal -->
+
+- [x] B) Sal y arroz <!-- feedback: Correcto! Sal y arroz -->
+
+- [ ] C) La y al <!-- feedback: Incorrecto. La y al -->
+
+- [ ] D) Sal y la <!-- feedback: Incorrecto. Sal y la -->
 
 ### Explicación Pedagogica
 Identificar sustantivos en una oración permite reconocer los elementos principales de los que se está hablando.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-3-2026-W04-sustantivos-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -108,21 +107,20 @@ Identificar sustantivos en una oración permite reconocer los elementos principa
 ¿Cuál es el género del sustantivo "vaca"?
 
 ### Opciones
-- [ ] A) Masculino
-  <!-- feedback: El masculino sería "toro". -->
-- [x] B) Femenino
-  <!-- feedback: ¡Correcto! Decimos "la vaca". -->
-- [ ] C) Neutro
-  <!-- feedback: En español los sustantivos suelen ser masculinos o femeninos. -->
-- [ ] D) Plural
-  <!-- feedback: "Vaca" está en singular. -->
+- [ ] A) Masculino <!-- feedback: Incorrecto. Masculino -->
+
+- [x] B) Femenino <!-- feedback: Correcto! Femenino -->
+
+- [ ] C) Neutro <!-- feedback: Incorrecto. Neutro -->
+
+- [ ] D) Plural <!-- feedback: Incorrecto. Plural -->
 
 ### Explicación Pedagogica
 El género de los sustantivos indica si son masculinos o femeninos, lo cual suele identificarse por el artículo que los acompaña.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-3-2026-W04-sustantivos-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -133,21 +131,20 @@ El género de los sustantivos indica si son masculinos o femeninos, lo cual suel
 ¿Cuál es el plural del sustantivo "lápiz"?
 
 ### Opciones
-- [ ] A) Lápizes
-  <!-- feedback: Casi, pero recuerda que la 'z' cambia a 'c' antes de 'es'. -->
-- [ ] B) Lápizs
-  <!-- feedback: No es correcto agregar solo una 's'. -->
-- [x] C) Lápices
-  <!-- feedback: ¡Muy bien! Cambiamos 'z' por 'c' y agregamos 'es'. -->
-- [ ] D) Lapices
-  <!-- feedback: Falta la tilde que lleva la palabra original. -->
+- [ ] A) Lápizes <!-- feedback: Incorrecto. Lápizes -->
+
+- [ ] B) Lápizs <!-- feedback: Incorrecto. Lápizs -->
+
+- [x] C) Lápices <!-- feedback: Correcto! Lápices -->
+
+- [ ] D) Lapices <!-- feedback: Incorrecto. Lapices -->
 
 ### Explicación Pedagogica
 Para formar el plural de sustantivos terminados en 'z', se cambia la 'z' por 'c' y se añade la terminación '-es'.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-3-2026-W04-sustantivos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -158,21 +155,20 @@ Para formar el plural de sustantivos terminados en 'z', se cambia la 'z' por 'c'
 ¿Cuál de estos sustantivos es común?
 
 ### Opciones
-- [x] A) río
-  <!-- feedback: ¡Exacto! Nombra a cualquier río de forma general. -->
-- [ ] B) Magdalena
-  <!-- feedback: Es propio, nombra a un río específico. -->
-- [ ] C) Colombia
-  <!-- feedback: Es propio, nombra a un país específico. -->
-- [ ] D) Tequendama
-  <!-- feedback: Es propio, nombra a un lugar específico. -->
+- [x] A) río <!-- feedback: Correcto! río -->
+
+- [ ] B) Magdalena <!-- feedback: Incorrecto. Magdalena -->
+
+- [ ] C) Colombia <!-- feedback: Incorrecto. Colombia -->
+
+- [ ] D) Tequendama <!-- feedback: Incorrecto. Tequendama -->
 
 ### Explicación Pedagogica
 Los sustantivos comunes nombran a las personas, animales o cosas de una misma clase o especie sin distinguirlos de los demás.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-3-2026-W04-sustantivos-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -184,21 +180,20 @@ Los sustantivos comunes nombran a las personas, animales o cosas de una misma cl
 "Mi primo vive en ____________."
 
 ### Opciones
-- [ ] A) la ciudad
-  <!-- feedback: "ciudad" es un sustantivo común. -->
-- [ ] B) un barrio
-  <!-- feedback: "barrio" es un sustantivo común. -->
-- [x] C) Barranquilla
-  <!-- feedback: ¡Correcto! Es un nombre propio de lugar. -->
-- [ ] D) colombia
-  <!-- feedback: Debería empezar con mayúscula (Colombia) para ser correcto. -->
+- [ ] A) la ciudad <!-- feedback: Incorrecto. la ciudad -->
+
+- [ ] B) un barrio <!-- feedback: Incorrecto. un barrio -->
+
+- [x] C) Barranquilla <!-- feedback: Correcto! Barranquilla -->
+
+- [ ] D) colombia <!-- feedback: Incorrecto. colombia -->
 
 ### Explicación Pedagogica
 Los nombres de ciudades, países y personas son sustantivos propios y siempre deben llevar mayúscula inicial.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-3-2026-W04-sustantivos-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -209,21 +204,20 @@ Los nombres de ciudades, países y personas son sustantivos propios y siempre de
 ¿Qué tienen en común los sustantivos: **niño, gato, pelota, parque**?
 
 ### Opciones
-- [ ] A) Todos son sustantivos propios.
-  <!-- feedback: Ninguno es propio, todos nombran de forma general. -->
-- [x] B) Todos son sustantivos comunes.
-  <!-- feedback: ¡Muy bien! Todos se refieren a categorías generales. -->
-- [ ] C) Todos son de género femenino.
-  <!-- feedback: "niño", "gato" y "parque" son masculinos. -->
-- [ ] D) Todos están en plural.
-  <!-- feedback: Todos están en singular. -->
+- [ ] A) Todos son sustantivos propios. <!-- feedback: Incorrecto. Todos son sustantivos propios. -->
+
+- [x] B) Todos son sustantivos comunes. <!-- feedback: Correcto! Todos son sustantivos comunes. -->
+
+- [ ] C) Todos son de género femenino. <!-- feedback: Incorrecto. Todos son de género femenino. -->
+
+- [ ] D) Todos están en plural. <!-- feedback: Incorrecto. Todos están en plural. -->
 
 ### Explicación Pedagogica
 Identificar las categorías gramaticales ayuda a entender cómo se organiza nuestro lenguaje.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-3-2026-W04-sustantivos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -234,21 +228,20 @@ Identificar las categorías gramaticales ayuda a entender cómo se organiza nues
 ¿Cuál es el error en la siguiente frase: "Los chigüiro corren por la llanura"?
 
 ### Opciones
-- [ ] A) El sustantivo "llanura" debe ser propio.
-  <!-- feedback: No, llanura es un nombre común de lugar. -->
-- [x] B) El sustantivo "chigüiro" debe estar en plural (chigüiros).
-  <!-- feedback: ¡Correcto! El artículo "Los" indica que el sustantivo debe ser plural. -->
-- [ ] C) La palabra "corren" es un sustantivo.
-  <!-- feedback: No, "corren" es un verbo. -->
-- [ ] D) No hay ningún error.
-  <!-- feedback: Sí hay un error de concordancia en número. -->
+- [ ] A) El sustantivo "llanura" debe ser propio. <!-- feedback: Incorrecto. El sustantivo "llanura" debe ser propio. -->
+
+- [x] B) El sustantivo "chigüiro" debe estar en plural (chigüiros). <!-- feedback: Correcto! El sustantivo "chigüiro" debe estar en plural (chigüiros). -->
+
+- [ ] C) La palabra "corren" es un sustantivo. <!-- feedback: Incorrecto. La palabra "corren" es un sustantivo. -->
+
+- [ ] D) No hay ningún error. <!-- feedback: Incorrecto. No hay ningún error. -->
 
 ### Explicación Pedagogica
 El sustantivo debe concordar en número (singular o plural) con el artículo y el verbo que lo acompañan.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-3-2026-W04-sustantivos-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -259,14 +252,13 @@ El sustantivo debe concordar en número (singular o plural) con el artículo y e
 Si quieres crear un nombre propio para un delfín rosado, ¿cuál de estos sería el más apropiado gramaticalmente?
 
 ### Opciones
-- [ ] A) el delfín rosado
-  <!-- feedback: Esto es una descripción con sustantivos comunes. -->
-- [x] B) Rosita el Delfín
-  <!-- feedback: ¡Excelente! "Rosita" funciona como sustantivo propio. -->
-- [ ] C) rosado animal
-  <!-- feedback: Son adjetivo y sustantivo común. -->
-- [ ] D) nadar en el río
-  <!-- feedback: Esto es una acción en un lugar. -->
+- [ ] A) el delfín rosado <!-- feedback: Incorrecto. el delfín rosado -->
+
+- [x] B) Rosita el Delfín <!-- feedback: Correcto! Rosita el Delfín -->
+
+- [ ] C) rosado animal <!-- feedback: Incorrecto. rosado animal -->
+
+- [ ] D) nadar en el río <!-- feedback: Incorrecto. nadar en el río -->
 
 ### Explicación Pedagogica
 Los sustantivos propios nos permiten darle identidad y personalidad a seres u objetos en nuestras creaciones literarias.

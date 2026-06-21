@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-W26-textos-publicitarios-001-MASTERY"
+id: "CO-LEC-6-2026-W38-textos-publicitarios-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -15,7 +15,9 @@ alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W38 — Textos Publicitarios
 
@@ -29,14 +31,15 @@ tier: "legacy"
 
 **ID:** `CO-LEC-6-2026-W26-textos-publicitarios-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de propósito publicitario
-**Context:** Reconocer la intención de un anuncio
+**Contexto:** Reconocer la intención de un anuncio
 
 ### Enunciado
 
 ¿Cuál es el PROPÓSITO principal de un texto publicitario?
 
-### Options
+### Opciones
 - [ ] A) Informar objetivamente sobre las características de un producto <!-- feedback: Incorrecto. Aunque la publicidad puede incluir información, su propósito principal no es informar objetivamente, sino persuadir. -->
 - [ ] B) Entretener al público con imágenes creativas <!-- feedback: Incorrecto. Entre tener puede ser un medio, pero no el fin. La publicidad busca un objetivo comercial. -->
 - [x] C) Persuadir al público para que compre un producto o adopte una idea <!-- feedback: ¡Correcto! El propósito de la publicidad es persuadir: convencer al público de que compre algo, use un servicio o adopte una conducta. Todo lo demás (imágenes, música, información) está al servicio de ese objetivo. -->
@@ -52,14 +55,15 @@ La función principal de la publicidad es PERSUASIVA o APELATIVA. Mientras que u
 
 **ID:** `CO-LEC-6-2026-W26-textos-publicitarios-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Elementos del anuncio publicitario
-**Context:** Identificar componentes básicos
+**Contexto:** Identificar componentes básicos
 
 ### Enunciado
 
 ¿Cuál de los siguientes NO es un elemento típico de un anuncio publicitario impreso?
 
-### Options
+### Opciones
 - [ ] A) Un eslogan o frase llamativa <!-- feedback: Incorrecto. El eslogan es un elemento central de la publicidad. Es una frase corta y fácil de recordar que resume el mensaje. -->
 - [ ] B) Una imagen o ilustración del producto <!-- feedback: Incorrecto. Las imágenes son fundamentales en la publicidad impresa. Captan la atención y muestran el producto. -->
 - [ ] C) Información sobre el precio y dónde comprar <!-- feedback: Incorrecto. El precio y los puntos de venta son elementos comunes, especialmente en publicidad promocional. -->
@@ -75,8 +79,9 @@ Los anuncios publicitarios se caracterizan por ser breves, visuales y persuasivo
 
 **ID:** `CO-LEC-6-2026-W26-textos-publicitarios-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación del público objetivo
-**Context:** Deducir a quién va dirigido un anuncio
+**Contexto:** Deducir a quién va dirigido un anuncio
 
 ### Enunciado
 
@@ -84,7 +89,7 @@ Los anuncios publicitarios se caracterizan por ser breves, visuales y persuasivo
 
 Según el eslogan, ¿a qué público está dirigido principalmente este anuncio?
 
-### Options
+### Opciones
 - [ ] A) A niños pequeños que les gusta la comida suave <!-- feedback: Incorrecto. "Para valientes" y "salsa BBQ picante" no son atractivos para niños pequeños que prefieren sabores suaves. -->
 - [ ] B) A vegetarianos <!-- feedback: Incorrecto. Una hamburguesa con queso doble no está dirigida a vegetarianos. El producto no se alinea con sus preferencias alimenticias. -->
 - [x] C) A jóvenes o adultos que disfrutan de comidas picantes y buscan experiencias intensas <!-- feedback: ¡Correcto! "Explosivo", "salsa BBQ picante" y "solo para valientes" usan un lenguaje aventurero que apela a jóvenes y adultos que buscan emociones fuertes y sabores intensos. -->
@@ -100,8 +105,9 @@ El público objetivo se identifica analizando el lenguaje, las imágenes y el pr
 
 **ID:** `CO-LEC-6-2026-W26-textos-publicitarios-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Recursos persuasivos: apelación emocional
-**Context:** Identificar apelación a las emociones
+**Contexto:** Identificar apelación a las emociones
 
 ### Enunciado
 
@@ -109,7 +115,7 @@ El público objetivo se identifica analizando el lenguaje, las imágenes y el pr
 
 ¿Qué recurso persuasivo utiliza principalmente este anuncio?
 
-### Options
+### Opciones
 - [ ] A) Datos estadísticos sobre la calidad del producto <!-- feedback: Incorrecto. El anuncio no usa números ni estadísticas. No dice "99% de los pediatras recomiendan" ni nada similar. -->
 - [ ] B) Amenaza o miedo <!-- feedback: Incorrecto. No hay amenazas. No dice "si no usas esto, le pasará algo malo a tu bebé". El tono es positivo, no intimidante. -->
 - [x] C) Apelación emocional: amor de madre/padre hacia el bebé <!-- feedback: ¡Correcto! "Tu bebé merece lo mejor", "su piel es suave como un pétalo" y "cuídala" apelan al amor y la protección que sienten los padres. La emoción es el vehículo del mensaje. -->
@@ -125,8 +131,9 @@ La publicidad usa diferentes recursos para persuadir: emociones (amor, miedo, fe
 
 **ID:** `CO-LEC-6-2026-W26-textos-publicitarios-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Análisis de eslogan
-**Context:** Interpretar el mensaje de un eslogan
+**Contexto:** Interpretar el mensaje de un eslogan
 
 ### Enunciado
 
@@ -134,7 +141,7 @@ La publicidad usa diferentes recursos para persuadir: emociones (amor, miedo, fe
 
 ¿Qué mensaje transmite este eslogan?
 
-### Options
+### Opciones
 - [ ] A) Que el café es barato <!-- feedback: Incorrecto. El eslogan no menciona precio. No dice nada sobre costo o economía. -->
 - [ ] B) Que el café se cultiva en todas las regiones de Colombia <!-- feedback: Incorrecto. "El sabor de Colombia" no significa que venga de todas las regiones. Es una expresión simbólica, no literal. -->
 - [x] C) Que el café representa la identidad y calidad colombiana, evocando orgullo nacional <!-- feedback: ¡Correcto! "El sabor de Colombia" asocia el producto con la identidad nacional. Transmite que tomar este café es conectarse con lo colombiano, apelando al orgullo patrio. Es un recurso de identidad nacional. -->
@@ -150,8 +157,9 @@ Los eslóganes usan un lenguaje breve pero cargado de significado. "El sabor de 
 
 **ID:** `CO-LEC-6-2026-W26-textos-publicitarios-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Recursos persuasivos: identificación de falacias
-**Context:** Identificar una falacia publicitaria
+**Contexto:** Identificar una falacia publicitaria
 
 ### Enunciado
 
@@ -159,7 +167,7 @@ Los eslóganes usan un lenguaje breve pero cargado de significado. "El sabor de 
 
 ¿Qué posible problema tiene este argumento publicitario?
 
-### Options
+### Opciones
 - [ ] A) Que 9 de cada 10 es una cifra muy baja <!-- feedback: Incorrecto. 9 de cada 10 (90%) es una cifra alta. Ese no es el problema. -->
 - [ ] B) Que los dentistas no entienden de cremas dentales <!-- feedback: Incorrecto. Los dentistas SÍ son expertos en salud bucal. Serían una autoridad válida. -->
 - [x] C) El anuncio no dice cuántos dentistas fueron encuestados, ni cómo se seleccionaron, ni si la encuesta fue independiente o pagada por la marca <!-- feedback: ¡Correcto! "9 de cada 10" suena impresionante, pero sin contexto puede ser engañoso. ¿Encuestaron a 10 dentistas (9 opinaron) o a 10.000? ¿Eran dentistas independientes o empleados de la marca? La falta de transparencia es el problema. -->
@@ -175,8 +183,9 @@ Las estadísticas en publicidad pueden ser engañosas si no se presenta el conte
 
 **ID:** `CO-LEC-6-2026-W26-textos-publicitarios-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Comparación de lenguaje informativo vs publicitario
-**Context:** Distinguir entre describir y persuadir
+**Contexto:** Distinguir entre describir y persuadir
 
 ### Enunciado
 
@@ -188,7 +197,7 @@ Compara las siguientes descripciones del mismo producto:
 
 ¿Cuál es la diferencia fundamental entre ambos textos?
 
-### Options
+### Opciones
 - [ ] A) El Texto A es más corto que el Texto B <!-- feedback: Incorrecto. La extensión no es la diferencia fundamental. Ambos tienen longitud similar. -->
 - [x] B) El Texto A describe características objetivas; el Texto B usa lenguaje persuasivo y emocional para convencer <!-- feedback: ¡Correcto! El Texto A usa datos específicos (40 litros, poliéster, 500 g) que se pueden verificar. El Texto B usa exclamaciones, adjetivos valorativos (ligera, resistente) y un llamado a la acción ("llévala a todas partes"). -->
 - [ ] C) El Texto A está mal escrito y el Texto B está bien escrito <!-- feedback: Incorrecto. Ambos están correctamente escritos. La diferencia es de propósito: informar vs persuadir. -->
@@ -204,8 +213,9 @@ El lenguaje INFORMATIVO usa datos objetivos, medibles y verificables. El lenguaj
 
 **ID:** `CO-LEC-6-2026-W26-textos-publicitarios-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Identificación de valores y estereotipos en publicidad
-**Context:** Analizar qué valores transmite un anuncio
+**Contexto:** Analizar qué valores transmite un anuncio
 
 ### Enunciado
 
@@ -213,7 +223,7 @@ El lenguaje INFORMATIVO usa datos objetivos, medibles y verificables. El lenguaj
 
 ¿Qué valores o estereotipos promueve este anuncio?
 
-### Options
+### Opciones
 - [ ] A) La igualdad de género y la diversidad <!-- feedback: Incorrecto. El anuncio no promueve igualdad ni diversidad. Por el contrario, refuerza un estereotipo tradicional de masculinidad. -->
 - [ ] B) La humildad y la sencillez <!-- feedback: Incorrecto. "Éxito", "Poder" y "Admiración" son valores opuestos a la humildad. Promueve una imagen de superioridad y logro. -->
 - [x] C) La idea de que el éxito, el poder y la admiración están asociados con la imagen y el consumo, y refuerza un estereotipo masculino tradicional <!-- feedback: ¡Correcto! El anuncio vincula la fragancia con valores como poder y éxito, sugiriendo que comprar el perfume da acceso a esas cualidades. Además, va dirigido explícitamente al "hombre", reforzando roles de género tradicionales. -->
@@ -229,8 +239,9 @@ La publicidad no solo vende productos, también transmite valores y estereotipos
 
 **ID:** `CO-LEC-6-2026-W26-textos-publicitarios-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Comparación de dos anuncios del mismo producto
-**Context:** Analizar diferentes estrategias publicitarias
+**Contexto:** Analizar diferentes estrategias publicitarias
 
 ### Enunciado
 
@@ -240,7 +251,7 @@ La publicidad no solo vende productos, también transmite valores y estereotipos
 
 ¿Qué estrategias publicitarias diferentes usan estos anuncios?
 
-### Options
+### Opciones
 - [ ] A) El Anuncio A usa datos y el Anuncio B usa emociones <!-- feedback: Incorrecto. Es al revés: el Anuncio A usa emociones ("favorita", "te acompaña") y el B usa datos objetivos (0 calorías, 0 azúcar). -->
 - [ ] B) Ambos anuncios usan la misma estrategia: apelar a la salud <!-- feedback: Incorrecto. Solo el Anuncio B apela a la salud. El Anuncio A apela a la popularidad y el sabor. -->
 - [x] C) El Anuncio A apela a la popularidad y al sabor (estrategia emocional-social); el Anuncio B apela a la salud y los beneficios racionales (estrategia informativa) <!-- feedback: ¡Correcto! A busca vender diversión y pertenencia ("favorita de los jóvenes"). B busca vender salud y responsabilidad ("opción inteligente", "estilo de vida saludable"). Son estrategias distintas para diferentes públicos. -->
@@ -256,8 +267,9 @@ Dos productos similares (gaseosas) pueden usar estrategias publicitarias complet
 
 **ID:** `CO-LEC-6-2026-W26-textos-publicitarios-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Evaluación de publicidad engañosa
-**Context:** Juzgar si un anuncio es ético o engañoso
+**Contexto:** Juzgar si un anuncio es ético o engañoso
 
 ### Enunciado
 
@@ -267,7 +279,7 @@ Dos productos similares (gaseosas) pueden usar estrategias publicitarias complet
 
 ¿Por qué este anuncio podría considerarse ENGAÑOSO?
 
-### Options
+### Opciones
 - [ ] A) Porque dice "100% fruta natural" pero el producto solo tiene 5% de fruta real <!-- feedback: ¡Correcto! Pero sigue leyendo las otras opciones para ver todos los problemas. -->
 - [ ] B) Porque dice "contiene vitaminas" y sí las contiene, aunque sean sintéticas <!-- feedback: Parcialmente correcto, pero el problema principal es la afirmación de "100% fruta natural". Además, "el sabor del campo" sugiere un producto artesanal que no es. -->
 - [ ] C) Porque usa la imagen de frutas frescas que no corresponden al producto real <!-- feedback: También es cierto, pero hay que considerar todos los elementos. -->

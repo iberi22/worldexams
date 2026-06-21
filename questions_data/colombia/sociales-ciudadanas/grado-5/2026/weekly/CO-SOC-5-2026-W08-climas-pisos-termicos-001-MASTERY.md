@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "climas-pisos-termicos"
-semana: "W08"
+week: "W08"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Climas y pisos termicos en Colombia: relaciones clima-altitud"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W08-climas-pisos-termicos-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por que Colombia tiene clima calido en la mayor parte del territorio?
@@ -39,12 +44,13 @@ Colombia esta ubicada en la zona tropical, cerca de la linea del Ecuador (latitu
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W08-climas-pisos-termicos-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es un piso termico?
@@ -60,12 +66,13 @@ Los pisos termicos son franjas climaticas que cambian con la altitud. Al subir u
 
 ---
 
-## Pregunta 3 [D1]
+## Question 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W08-climas-pisos-termicos-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cual es el piso termico de las tierras bajas (0-1.000 m)?
@@ -81,12 +88,13 @@ El piso calido (0 a 1.000 m de altitud) tiene temperaturas superiores a 24 grado
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W08-climas-pisos-termicos-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 A que altitud se encuentra el piso templado?
@@ -102,12 +110,13 @@ El piso templado (1.000 a 2.000 m) tiene temperaturas entre 18 y 24 grados. Es i
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W08-climas-pisos-termicos-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que ciudades colombianas estan en el piso frio?
@@ -123,12 +132,13 @@ El piso frio (2.000 a 3.000 m) tiene temperaturas entre 12 y 18 grados. Bogota (
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W08-climas-pisos-termicos-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es el paramo?
@@ -144,12 +154,13 @@ El paramo es un ecosistema unico de alta montana tropical. Tiene frailejones y t
 
 ---
 
-## Pregunta 7 [D1]
+## Question 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W08-climas-pisos-termicos-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por que los paramos son importantes para Colombia?
@@ -165,12 +176,13 @@ Los paramos son las 'fabricas de agua' de Colombia. Almacenan la lluvia y la nie
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W08-climas-pisos-termicos-001-MASTERY-v8`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que son las nieves perpetuas?
@@ -186,12 +198,13 @@ Las nieves perpetuas estan en los picos mas altos (mas de 4.700 m), como los nev
 
 ---
 
-## Pregunta 9 [D3]
+## Question 9 [D3]
 
 **ID:** `CO-SOC-5-2026-W08-climas-pisos-termicos-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Como afecta el cambio climatico a los pisos termicos en Colombia?
@@ -207,12 +220,13 @@ El cambio climatico esta causando el retroceso de los nevados colombianos (vario
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W08-climas-pisos-termicos-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por que la ubicacion de Colombia cerca del Ecuador y su relieve diverso crean climas variados?

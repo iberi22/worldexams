@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-4-2026-W09-tejidos-animales-vegetales-001-MASTERY"
+id: "CO-CIE-4-2026-W09-tejidos-animales-vegetales-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "ciencias-naturales"
 tema: "tejidos-animales-vegetales"
-semana: "W09"
+week: "W09"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,266 +16,270 @@ rubric_baseline: "tejidos, tipos de tejidos, animales, vegetales, epitelial, mus
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Tejidos animales y vegetales â€” Grado 4 â€” W09
 
 10 preguntas sobre tejidos animales y vegetales.
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 
 **ID:** `CO-CIE-4-2026-W09-tejidos-animales-vegetales-001-MASTERY-v1`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Colegio de la PresentaciÃ³n en Sincelejo, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio de la PresentaciÃ³n en Sincelejo, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Un tejido es un grupo de:
 
 ### Opciones
-- [ ] A) Ã“rganos
-  <!-- feedback: No. -->
-- [x] B) CÃ©lulas similares
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Sistemas
-  <!-- feedback: No. -->
-- [ ] D) Organismos
-  <!-- feedback: No. -->
+- [ ] A) Ã“rganos <!-- feedback: Incorrecto. Ã“rganos -->
+
+- [x] B) CÃ©lulas similares <!-- feedback: Correcto! CÃ©lulas similares -->
+
+- [ ] C) Sistemas <!-- feedback: Incorrecto. Sistemas -->
+
+- [ ] D) Organismos <!-- feedback: Incorrecto. Organismos -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Tejido: cÃ©lulas parecidas.
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-CIE-4-2026-W09-tejidos-animales-vegetales-001-MASTERY-v2`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Colegio Nacional en Leticia, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio Nacional en Leticia, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Ejemplo de tejido animal:
 
 ### Opciones
-- [ ] A) Tejido conductor
-  <!-- feedback: Es vegetal. -->
-- [x] B) Tejido muscular
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Tejido meristemÃ¡tico
-  <!-- feedback: Es vegetal. -->
-- [ ] D) ParÃ©nquima
-  <!-- feedback: Es vegetal. -->
+- [ ] A) Tejido conductor <!-- feedback: Incorrecto. Tejido conductor -->
+
+- [x] B) Tejido muscular <!-- feedback: Correcto! Tejido muscular -->
+
+- [ ] C) Tejido meristemÃ¡tico <!-- feedback: Incorrecto. Tejido meristemÃ¡tico -->
+
+- [ ] D) ParÃ©nquima <!-- feedback: Incorrecto. ParÃ©nquima -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Muscular: tejido animal.
 
 ---
 
-## Pregunta 3 [D2]
+## Question 3 [D2]
 
 **ID:** `CO-CIE-4-2026-W09-tejidos-animales-vegetales-001-MASTERY-v3`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio Franciscano en MonterÃ­a, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio Franciscano en MonterÃ­a, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 El tejido epitelial recubre y:
 
 ### Opciones
-- [ ] A) Produce movimiento
-  <!-- feedback: No. -->
-- [x] B) Protege superficies
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Transporta agua
-  <!-- feedback: No. -->
-- [ ] D) Almacena energÃ­a
-  <!-- feedback: No. -->
+- [ ] A) Produce movimiento <!-- feedback: Incorrecto. Produce movimiento -->
+
+- [x] B) Protege superficies <!-- feedback: Correcto! Protege superficies -->
+
+- [ ] C) Transporta agua <!-- feedback: Incorrecto. Transporta agua -->
+
+- [ ] D) Almacena energÃ­a <!-- feedback: Incorrecto. Almacena energÃ­a -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Epitelio: protecciÃ³n y recubrimiento.
 
 ---
 
-## Pregunta 4 [D2]
+## Question 4 [D2]
 
 **ID:** `CO-CIE-4-2026-W09-tejidos-animales-vegetales-001-MASTERY-v4`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio Nacional en QuibdÃ³, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio Nacional en QuibdÃ³, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 El tejido nervioso transmite:
 
 ### Opciones
-- [ ] A) Sangre
-  <!-- feedback: No. -->
-- [x] B) Impulsos elÃ©ctricos
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Nutrientes
-  <!-- feedback: No. -->
-- [ ] D) OxÃ­geno
-  <!-- feedback: No. -->
+- [ ] A) Sangre <!-- feedback: Incorrecto. Sangre -->
+
+- [x] B) Impulsos elÃ©ctricos <!-- feedback: Correcto! Impulsos elÃ©ctricos -->
+
+- [ ] C) Nutrientes <!-- feedback: Incorrecto. Nutrientes -->
+
+- [ ] D) OxÃ­geno <!-- feedback: Incorrecto. OxÃ­geno -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Nervioso: impulsos.
 
 ---
 
-## Pregunta 5 [D2]
+## Question 5 [D2]
 
 **ID:** `CO-CIE-4-2026-W09-tejidos-animales-vegetales-001-MASTERY-v5`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Escuela Rural en CÃºcuta, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Escuela Rural en CÃºcuta, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 En las plantas, el xilema transporta:
 
 ### Opciones
-- [ ] A) Savia elaborada
-  <!-- feedback: No. -->
-- [x] B) Agua y minerales
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) OxÃ­geno
-  <!-- feedback: No. -->
-- [ ] D) COâ‚‚
-  <!-- feedback: No. -->
+- [ ] A) Savia elaborada <!-- feedback: Incorrecto. Savia elaborada -->
+
+- [x] B) Agua y minerales <!-- feedback: Correcto! Agua y minerales -->
+
+- [ ] C) OxÃ­geno <!-- feedback: Incorrecto. OxÃ­geno -->
+
+- [ ] D) COâ‚‚ <!-- feedback: Incorrecto. COâ‚‚ -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Xilema: agua y minerales.
 
 ---
 
-## Pregunta 6 [D3]
+## Question 6 [D3]
 
 **ID:** `CO-CIE-4-2026-W09-tejidos-animales-vegetales-001-MASTERY-v6`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio Franciscano en Leticia, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio Franciscano en Leticia, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 El floema transporta savia:
 
 ### Opciones
-- [ ] A) Bruta
-  <!-- feedback: No. -->
-- [x] B) Elaborada (azÃºcares)
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Solo agua
-  <!-- feedback: No. -->
-- [ ] D) Solo minerales
-  <!-- feedback: No. -->
+- [ ] A) Bruta <!-- feedback: Incorrecto. Bruta -->
+
+- [x] B) Elaborada (azÃºcares) <!-- feedback: Correcto! Elaborada (azÃºcares) -->
+
+- [ ] C) Solo agua <!-- feedback: Incorrecto. Solo agua -->
+
+- [ ] D) Solo minerales <!-- feedback: Incorrecto. Solo minerales -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Floema: savia elaborada.
 
 ---
 
-## Pregunta 7 [D3]
+## Question 7 [D3]
 
 **ID:** `CO-CIE-4-2026-W09-tejidos-animales-vegetales-001-MASTERY-v7`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio de la PresentaciÃ³n en PopayÃ¡n, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio de la PresentaciÃ³n en PopayÃ¡n, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 El tejido muscular permite:
 
 ### Opciones
-- [ ] A) Pensar
-  <!-- feedback: No. -->
-- [x] B) Movimiento
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Proteger
-  <!-- feedback: No. -->
-- [ ] D) Recubrir
-  <!-- feedback: No. -->
+- [ ] A) Pensar <!-- feedback: Incorrecto. Pensar -->
+
+- [x] B) Movimiento <!-- feedback: Correcto! Movimiento -->
+
+- [ ] C) Proteger <!-- feedback: Incorrecto. Proteger -->
+
+- [ ] D) Recubrir <!-- feedback: Incorrecto. Recubrir -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Muscular: movimiento.
 
 ---
 
-## Pregunta 8 [D3]
+## Question 8 [D3]
 
 **ID:** `CO-CIE-4-2026-W09-tejidos-animales-vegetales-001-MASTERY-v8`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en FusagasugÃ¡, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en FusagasugÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 La piel humana es un ejemplo de tejido:
 
 ### Opciones
-- [ ] A) Muscular
-  <!-- feedback: No. -->
-- [x] B) Epitelial
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Nervioso
-  <!-- feedback: No. -->
-- [ ] D) Conectivo
-  <!-- feedback: No. -->
+- [ ] A) Muscular <!-- feedback: Incorrecto. Muscular -->
+
+- [x] B) Epitelial <!-- feedback: Correcto! Epitelial -->
+
+- [ ] C) Nervioso <!-- feedback: Incorrecto. Nervioso -->
+
+- [ ] D) Conectivo <!-- feedback: Incorrecto. Conectivo -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Piel: epitelial.
 
 ---
 
-## Pregunta 9 [D4]
+## Question 9 [D4]
 
 **ID:** `CO-CIE-4-2026-W09-tejidos-animales-vegetales-001-MASTERY-v9`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Colegio BilingÃ¼e en MonterÃ­a, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio BilingÃ¼e en MonterÃ­a, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Â¿Por quÃ© los tejidos vegetales conductores son importantes?
 
 ### Opciones
-- [ ] A) No lo son
-  <!-- feedback: No. -->
-- [x] B) Transportan nutrientes y agua por toda la planta
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Producen alimento
-  <!-- feedback: No. -->
-- [ ] D) Dan soporte
-  <!-- feedback: No. -->
+- [ ] A) No lo son <!-- feedback: Incorrecto. No lo son -->
+
+- [x] B) Transportan nutrientes y agua por toda la planta <!-- feedback: Correcto! Transportan nutrientes y agua por toda la planta -->
+
+- [ ] C) Producen alimento <!-- feedback: Incorrecto. Producen alimento -->
+
+- [ ] D) Dan soporte <!-- feedback: Incorrecto. Dan soporte -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Conductores: transporte.
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-CIE-4-2026-W09-tejidos-animales-vegetales-001-MASTERY-v10`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Colegio BilingÃ¼e en IbaguÃ©, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio BilingÃ¼e en IbaguÃ©, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Diferencia entre tejido animal y vegetal:
 
 ### Opciones
-- [ ] A) Son iguales
-  <!-- feedback: No. -->
-- [x] B) Vegetales tienen tejidos conductores; animales tienen nervioso y muscular
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Animales tienen pared celular
-  <!-- feedback: No. -->
-- [ ] D) Vegetales no tienen tejidos
-  <!-- feedback: No. -->
+- [ ] A) Son iguales <!-- feedback: Incorrecto. Son iguales -->
+
+- [x] B) Vegetales tienen tejidos conductores; animales tienen nervioso y muscular <!-- feedback: Correcto! Vegetales tienen tejidos conductores; animales tienen nervio -->
+
+- [ ] C) Animales tienen pared celular <!-- feedback: Incorrecto. Animales tienen pared celular -->
+
+- [ ] D) Vegetales no tienen tejidos <!-- feedback: Incorrecto. Vegetales no tienen tejidos -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Diferencias estructurales.

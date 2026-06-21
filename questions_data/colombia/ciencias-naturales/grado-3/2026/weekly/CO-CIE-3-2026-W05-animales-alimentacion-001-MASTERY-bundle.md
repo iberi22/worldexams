@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY"
+id: "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "animales-alimentacion"
-semana: "W05"
+week: "W05"
 protocol_version: "5.2"
 bundle_type: "weekly"
 bundle_index: 1
@@ -20,17 +20,22 @@ rubric_baseline: "animales_alimentacion"
 license: "FREE"
 tier: "legacy"
 
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Ciencias Naturales Grado 3 - Semana W05
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 
 **ID:** `CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** La profesora explica los grupos de animales según su alimentación.
+**Contexto:** La profesora explica los grupos de animales según su alimentación.
 
 ### Enunciado
 ¿Cómo se llaman los animales que se alimentan principalmente de plantas?
@@ -46,13 +51,14 @@ Los herbívoros tienen adaptaciones como molares planos para moler plantas y sis
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 
 **ID:** `CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** Los estudiantes identifican la alimentación del jaguar.
+**Contexto:** Los estudiantes identifican la alimentación del jaguar.
 
 ### Enunciado
 El jaguar, que caza y se alimenta de otros animales, es un animal:
@@ -68,13 +74,14 @@ El jaguar (Panthera onca) es el felino más grande de América y habita en selva
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 
 **ID:** `CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** Sofía tiene un perro que come concentrado y un conejo que come zanahorias.
+**Contexto:** Sofía tiene un perro que come concentrado y un conejo que come zanahorias.
 
 ### Enunciado
 ¿Cómo se clasifican el perro y el conejo según su alimentación?
@@ -90,13 +97,14 @@ El perro doméstico desciende del lobo, carnívoro por naturaleza, pero la domes
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 
 **ID:** `CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** En la cafetería del colegio, las palomas comen pan, semillas e insectos.
+**Contexto:** En la cafetería del colegio, las palomas comen pan, semillas e insectos.
 
 ### Enunciado
 ¿Qué tipo de alimentación tienen las palomas?
@@ -112,13 +120,14 @@ Los animales omnívoros tienen dieta variada, lo que les da ventaja adaptativa. 
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 
 **ID:** `CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** Los estudiantes agrupan animales según alimentación: vaca, león, cerdo, oso, oveja, tigre.
+**Contexto:** Los estudiantes agrupan animales según alimentación: vaca, león, cerdo, oso, oveja, tigre.
 
 ### Enunciado
 ¿Cuál grupo contiene solo herbívoros?
@@ -134,13 +143,14 @@ Los rumiantes como vacas y ovejas tienen un estómago con cuatro compartimentos 
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 
 **ID:** `CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** La profesora muestra dentaduras de animales.
+**Contexto:** La profesora muestra dentaduras de animales.
 
 ### Enunciado
 Un animal con colmillos afilados y molares puntiagudos probablemente es:
@@ -156,13 +166,14 @@ La dentadura refleja la dieta. Los carnívoros tienen caninos desarrollados para
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 
 **ID:** `CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** En una vereda de Antioquia, un campesino nota que sus gallinas picotean granos y lombrices.
+**Contexto:** En una vereda de Antioquia, un campesino nota que sus gallinas picotean granos y lombrices.
 
 ### Enunciado
 ¿Por qué las gallinas comen tanto granos como lombrices?
@@ -178,13 +189,14 @@ Las gallinas son omnívoras. En libertad complementan su dieta de granos con ins
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 
 **ID:** `CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
 
-**Context:** Los estudiantes investigan si los osos de anteojos de Colombia engordan antes del invierno.
+**Contexto:** Los estudiantes investigan si los osos de anteojos de Colombia engordan antes del invierno.
 
 ### Enunciado
 ¿Los osos de anteojos engordan antes del invierno como los osos del norte?
@@ -200,13 +212,14 @@ El oso de anteojos (Tremarctos ornatus) es la única especie de oso en Suraméri
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 
 **ID:** `CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** Un estudiante pregunta: 'Si las vacas solo comen pasto, ¿cómo producen proteína en su leche?'
+**Contexto:** Un estudiante pregunta: 'Si las vacas solo comen pasto, ¿cómo producen proteína en su leche?'
 
 ### Enunciado
 ¿Cómo obtienen las vacas la proteína?
@@ -222,13 +235,14 @@ Las vacas son rumiantes. En el rumen viven billones de microorganismos que ferme
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 
 **ID:** `CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-v10`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Indagación
 
-**Context:** Un estudiante dice: 'Los carnívoros son malos porque matan animales.'
+**Contexto:** Un estudiante dice: 'Los carnívoros son malos porque matan animales.'
 
 ### Enunciado
 ¿Qué opinas?

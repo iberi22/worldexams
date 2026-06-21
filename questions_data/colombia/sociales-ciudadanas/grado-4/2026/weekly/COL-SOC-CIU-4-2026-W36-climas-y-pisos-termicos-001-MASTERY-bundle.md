@@ -1,5 +1,5 @@
 ---
-id: "COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY"
+id: "COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Climas y pisos térmicos de Colombia"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Climas y pisos térmicos de Colombia
 
@@ -30,14 +35,15 @@ Este bundle explica los pisos térmicos y la variedad de climas en Colombia debi
 ## Question 1 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Diversidad climática en Tunja
+**Contexto:** Diversidad climática en Tunja
 
 ### Enunciado
 ¿Cuántos pisos térmicos existen en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Dos: cálido y frío. <!-- feedback: Incorrecto. Hay más pisos térmicos. -->
 - [x] B) Cinco: cálido, templado, frío, páramo y nieves perpetuas. <!-- feedback: Correcto. Colombia tiene cinco pisos térmicos bien definidos. -->
 - [ ] C) Tres: cálido, templado y frío. <!-- feedback: Incorrecto. Hay dos adicionales. -->
@@ -51,14 +57,15 @@ Este bundle explica los pisos térmicos y la variedad de climas en Colombia debi
 ## Question 2 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Piso térmico cálido
+**Contexto:** Piso térmico cálido
 
 ### Enunciado
 ¿Cuál es el piso térmico predominante en las costas colombianas?
 
-### Options
+### Opciones
 - [ ] A) Piso frío. <!-- feedback: Incorrecto. Las costas son cálidas. -->
 - [x] B) Piso cálido. <!-- feedback: Correcto. Las costas del Caribe y Pacífico tienen clima cálido. -->
 - [ ] C) Páramo. <!-- feedback: Incorrecto. Los páramos están en las altas montañas. -->
@@ -72,14 +79,15 @@ Este bundle explica los pisos térmicos y la variedad de climas en Colombia debi
 ## Question 3 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Pisos térmicos y altura
+**Contexto:** Pisos térmicos y altura
 
 ### Enunciado
 ¿Qué determina los pisos térmicos en Colombia?
 
-### Options
+### Opciones
 - [ ] A) La distancia al mar. <!-- feedback: Parcialmente, pero el principal factor es otro. -->
 - [x] B) La altura sobre el nivel del mar. <!-- feedback: Correcto. A mayor altura, menor temperatura. -->
 - [ ] C) La cantidad de lluvia. <!-- feedback: Incorrecto. Las lluvias dependen de otros factores. -->
@@ -93,14 +101,15 @@ Este bundle explica los pisos térmicos y la variedad de climas en Colombia debi
 ## Question 4 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Páramo
+**Contexto:** Páramo
 
 ### Enunciado
 ¿Qué es un páramo y por qué es importante para Colombia?
 
-### Options
+### Opciones
 - [ ] A) Una zona desértica muy caliente. <!-- feedback: Incorrecto. El páramo es frío y húmedo. -->
 - [ ] B) Un bosque seco tropical. <!-- feedback: Incorrecto. El páramo está en alta montaña. -->
 - [x] C) Un ecosistema de alta montaña que regula el agua que consumen millones de colombianos. <!-- feedback: Correcto. Los páramos son fábricas de agua fundamentales para el país. -->
@@ -114,14 +123,15 @@ Este bundle explica los pisos térmicos y la variedad de climas en Colombia debi
 ## Question 5 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Cultivos según el clima
+**Contexto:** Cultivos según el clima
 
 ### Enunciado
 ¿Qué cultivo es típico del piso térmico templado en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Coco y plátano. <!-- feedback: Incorrecto. Esos son de clima cálido. -->
 - [x] B) Café y maíz. <!-- feedback: Correcto. El café se cultiva en clima templado (800-1800 msnm). -->
 - [ ] C) Papa y trigo. <!-- feedback: Incorrecto. Esos son de clima frío. -->
@@ -135,14 +145,15 @@ Este bundle explica los pisos térmicos y la variedad de climas en Colombia debi
 ## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Ciudades y pisos térmicos
+**Contexto:** Ciudades y pisos térmicos
 
 ### Enunciado
 Bogotá está a 2600 msnm. ¿En qué piso térmico se encuentra?
 
-### Options
+### Opciones
 - [ ] A) Cálido. <!-- feedback: Incorrecto. Bogotá es fría. -->
 - [ ] B) Templado. <!-- feedback: Incorrecto. El templado va hasta 2000 msnm. -->
 - [x] C) Frío. <!-- feedback: Correcto. Bogotá está en el piso frío (2000-3000 msnm). -->
@@ -156,14 +167,15 @@ Bogotá está a 2600 msnm. ¿En qué piso térmico se encuentra?
 ## Question 7 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Biodiversidad y clima
+**Contexto:** Biodiversidad y clima
 
 ### Enunciado
 ¿Por qué Colombia tiene tanta biodiversidad?
 
-### Options
+### Opciones
 - [ ] A) Porque es un país pequeño. <!-- feedback: Incorrecto. El tamaño no explica la biodiversidad. -->
 - [x] B) Porque tiene múltiples pisos térmicos, variedad de climas y ecosistemas. <!-- feedback: Correcto. La variedad de climas y relieves crea múltiples hábitats. -->
 - [ ] C) Solo por estar en el Ecuador. <!-- feedback: Parcialmente, pero hay más factores. -->
@@ -177,14 +189,15 @@ Bogotá está a 2600 msnm. ¿En qué piso térmico se encuentra?
 ## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Cambio climático
+**Contexto:** Cambio climático
 
 ### Enunciado
 ¿Cómo afecta el cambio climático a los pisos térmicos colombianos?
 
-### Options
+### Opciones
 - [ ] A) No los afecta en absoluto. <!-- feedback: Incorrecto. El cambio climático afecta a todos los ecosistemas. -->
 - [ ] B) Solo afecta las costas. <!-- feedback: Incorrecto. Afecta todos los pisos térmicos. -->
 - [x] C) El calentamiento global hace que los pisos térmicos se desplacen hacia arriba, afectando los cultivos y los páramos. <!-- feedback: Correcto. El cambio climático altera los patrones climáticos tradicionales. -->
@@ -198,14 +211,15 @@ Bogotá está a 2600 msnm. ¿En qué piso térmico se encuentra?
 ## Question 9 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Vivir en diferentes climas
+**Contexto:** Vivir en diferentes climas
 
 ### Enunciado
 ¿Crees que la variedad de climas es una ventaja para Colombia?
 
-### Options
+### Opciones
 - [ ] A) No, es un problema porque dificulta la comunicación. <!-- feedback: Incorrecto. La variedad de climas es una riqueza. -->
 - [x] B) Sí, porque permite cultivar diversos productos, atrae turismo y genera variedad de ecosistemas. <!-- feedback: Correcto. La diversidad climática es una gran ventaja para el país. -->
 - [ ] C) No tiene ninguna ventaja. <!-- feedback: Incorrecto. Tiene múltiples ventajas. -->
@@ -220,13 +234,14 @@ Bogotá está a 2600 msnm. ¿En qué piso térmico se encuentra?
 
 **ID:** `COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY-v10`
 **Bloom:** [Create]
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Mapa de pisos térmicos
+**Contexto:** Mapa de pisos térmicos
 
 ### Enunciado
 Diseña una actividad para que tus compañeros aprendan los pisos térmicos de forma divertida.
 
-### Options
+### Opciones
 - [ ] A) Leer un largo texto explicativo. <!-- feedback: Incorrecto. Hay formas más interactivas. -->
 - [x] B) Construir una torre de pisos térmicos con materiales reciclados, donde cada nivel representa un piso con sus cultivos y animales característicos. <!-- feedback: Correcto. Una maqueta tridimensional ayuda a visualizar y aprender. -->
 - [ ] C) Ver un documental aburrido. <!-- feedback: Incorrecto. No todos los documentales son aburridos, pero la actividad práctica es mejor. -->

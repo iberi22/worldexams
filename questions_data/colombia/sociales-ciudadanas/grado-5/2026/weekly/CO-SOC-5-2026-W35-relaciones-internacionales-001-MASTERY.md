@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "relaciones-internacionales"
-semana: "W35"
+week: "W35"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Colombia y sus relaciones internacionales: fronteras, tratados
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W35-relaciones-internacionales-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Con cuantos paises limita Colombia por tierra?
@@ -39,12 +44,13 @@ Colombia limita con 5 paises: Panama, Venezuela, Brasil, Peru y Ecuador. Tambien
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W35-relaciones-internacionales-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que pais separa a Colombia de America Central?
@@ -60,12 +66,13 @@ Panama, que era parte de Colombia, conecta Sudamerica con Centroamerica.
 
 ---
 
-## Pregunta 3 [D1]
+## Question 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W35-relaciones-internacionales-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es la CAN?
@@ -81,12 +88,13 @@ La CAN busca la integracion economica y social de los paises andinos.
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W35-relaciones-internacionales-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que fue el conflicto de Leticia?
@@ -102,12 +110,13 @@ Civiles peruanos tomaron Leticia en 1932. Se resolvio diplomaticamente con el Pr
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W35-relaciones-internacionales-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Colombia es miembro de la Alianza del Pacifico?
@@ -123,12 +132,13 @@ La Alianza del Pacifico (2011) fortalece el comercio con Asia-Pacifico.
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W35-relaciones-internacionales-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es MERCOSUR y cual es la relacion de Colombia?
@@ -144,12 +154,13 @@ MERCOSUR integra a Brasil, Argentina, Paraguay, Uruguay. Colombia es asociado.
 
 ---
 
-## Pregunta 7 [D1]
+## Question 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W35-relaciones-internacionales-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es la OEA?
@@ -165,12 +176,13 @@ La OEA reune a los paises de America para promover democracia y derechos humanos
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W35-relaciones-internacionales-001-MASTERY-v8`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que frontera maritima es controversial?
@@ -186,12 +198,13 @@ Las fronteras maritimas en el Golfo de Venezuela han sido tema de controversia.
 
 ---
 
-## Pregunta 9 [D3]
+## Question 9 [D3]
 
 **ID:** `CO-SOC-5-2026-W35-relaciones-internacionales-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por que son importantes las relaciones internacionales?
@@ -207,12 +220,13 @@ Las relaciones internacionales son clave: comercio, inversion, cooperacion tecni
 
 ---
 
-## Pregunta 10 [D3]
+## Question 10 [D3]
 
 **ID:** `CO-SOC-5-2026-W35-relaciones-internacionales-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es la diplomacia?

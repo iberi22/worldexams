@@ -1,11 +1,11 @@
 ---
-id: "CO-MAT-3-2026-W19-tiempo-reloj-001-MASTERY"
+id: "CO-MAT-3-2026-W19-tiempo-reloj-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "matematicas"
 tema: "tiempo-reloj"
 periodo: "weekly"
-semana: 19
+week: "W19"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -20,7 +20,12 @@ rubric_baseline: "lectura de reloj analogico y digital, hora en punto, media hor
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W19: Tiempo: Lectura del Reloj
 
@@ -31,12 +36,12 @@ Este bundle evalua lectura de reloj analogico y digital, hora en punto, media ho
 **Bloom:** Remember
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.95
-**Context:** En Colegio San Agustin de Sincelejo de Tunja
+**Contexto:** En Colegio San Agustin de Sincelejo de Tunja
 
 ### Enunciado
 Cuantos minutos tiene una hora?
 
-### Options
+### Opciones
 - [x] A) 60 <!-- feedback: Correcto! 1 hora = 60 minutos. -->
 - [ ] B) 30 <!-- feedback: 30 minutos es media hora. -->
 - [ ] C) 100 <!-- feedback: No, 1 hora = 60 minutos. -->
@@ -51,12 +56,12 @@ Cuantos minutos tiene una hora?
 **Bloom:** Understand
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.91
-**Context:** En Colegio San Luis Gonzaga de Manizales de Medellin
+**Contexto:** En Colegio San Luis Gonzaga de Manizales de Medellin
 
 ### Enunciado
 Si son las 10:30, donde esta la manecilla de los minutos?
 
-### Options
+### Opciones
 - [x] A) En el 6 <!-- feedback: Correcto! 30 minutos = manecilla en el 6. -->
 - [ ] B) En el 3 <!-- feedback: 3 = 15 minutos. -->
 - [ ] C) En el 10 <!-- feedback: 10 = 50 minutos. -->
@@ -71,12 +76,12 @@ Cada numero en el reloj = 5 minutos. Para 30: 30÷5=6. Manecilla en el 6.
 **Bloom:** Apply
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.87
-**Context:** En Colegio La Salle de Medellin de Ibague
+**Contexto:** En Colegio La Salle de Medellin de Ibague
 
 ### Enunciado
 Cuantos dias tiene una semana?
 
-### Options
+### Opciones
 - [x] A) 7 <!-- feedback: Correcto! Una semana tiene 7 dias. -->
 - [ ] B) 5 <!-- feedback: 5 son los dias laborales. -->
 - [ ] C) 10 <!-- feedback: No, una semana son 7 dias. -->
@@ -91,12 +96,12 @@ Semana: lunes, martes, miercoles, jueves, viernes, sabado, domingo = 7 dias.
 **Bloom:** Analyze
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.83
-**Context:** En Colegio Simon Bolivar de Bucaramanga de Pereira
+**Contexto:** En Colegio Simon Bolivar de Bucaramanga de Pereira
 
 ### Enunciado
 Si hoy es lunes, que dia sera manana?
 
-### Options
+### Opciones
 - [x] A) Martes <!-- feedback: Correcto! Despues de lunes viene martes. -->
 - [ ] B) Miercoles <!-- feedback: Miercoles es pasado manana. -->
 - [ ] C) Domingo <!-- feedback: Domingo es 6 dias despues. -->
@@ -111,12 +116,12 @@ Los dias de la semana en orden: lunes, martes, miercoles, jueves, viernes, sabad
 **Bloom:** Evaluate
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.79
-**Context:** En Colegio Nuestra Senora del Rosario de Tunja
+**Contexto:** En Colegio Nuestra Senora del Rosario de Tunja
 
 ### Enunciado
 Cuantos meses tiene un ano?
 
-### Options
+### Opciones
 - [x] A) 12 <!-- feedback: Correcto! Un ano tiene 12 meses. -->
 - [ ] B) 10 <!-- feedback: No, son 12 meses. -->
 - [ ] C) 30 <!-- feedback: 30 son los dias de un mes. -->
@@ -131,12 +136,12 @@ Enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, n
 **Bloom:** Remember
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.75
-**Context:** En Colegio San Francisco de Asis de Popayan de Bucaramanga
+**Contexto:** En Colegio San Francisco de Asis de Popayan de Bucaramanga
 
 ### Enunciado
 Si son las 3:00, que hora es?
 
-### Options
+### Opciones
 - [x] A) Las 3 en punto <!-- feedback: Correcto! 3:00 = las 3 en punto. -->
 - [ ] B) Las 3 y media <!-- feedback: 3:30 seria las 3 y media. -->
 - [ ] C) Las 3 y cuarto <!-- feedback: 3:15 seria las 3 y cuarto. -->
@@ -151,12 +156,12 @@ Cuando el minutero esta en el 12, es la hora en punto. 3:00 = las 3 en punto.
 **Bloom:** Understand
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.71
-**Context:** En Instituto Tecnico Industrial de Tunja
+**Contexto:** En Instituto Tecnico Industrial de Tunja
 
 ### Enunciado
 Un cuarto de hora son cuantos minutos?
 
-### Options
+### Opciones
 - [x] A) 15 <!-- feedback: Correcto! 1/4 de hora = 60/4 = 15 minutos. -->
 - [ ] B) 30 <!-- feedback: 30 minutos = media hora. -->
 - [ ] C) 45 <!-- feedback: 45 minutos = tres cuartos de hora. -->
@@ -171,12 +176,12 @@ Un cuarto de hora son cuantos minutos?
 **Bloom:** Apply
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.67
-**Context:** En Colegio INEM de Pereira de Cartagena
+**Contexto:** En Colegio INEM de Pereira de Cartagena
 
 ### Enunciado
 Si el reloj digital marca 2:45, como se lee?
 
-### Options
+### Opciones
 - [x] A) Las 2 y 45 minutos <!-- feedback: Correcto! 2:45 = 2 horas y 45 minutos. Falta un cuarto para las 3. -->
 - [ ] B) Las 2 y cuarto <!-- feedback: 2:15 = 2 y cuarto. -->
 - [ ] C) Las 3 en punto <!-- feedback: 3:00 = 3 en punto. -->
@@ -191,12 +196,12 @@ Si el reloj digital marca 2:45, como se lee?
 **Bloom:** Analyze
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.63
-**Context:** En Colegio Simon Bolivar de Bucaramanga de Pereira
+**Contexto:** En Colegio Simon Bolivar de Bucaramanga de Pereira
 
 ### Enunciado
 Si son las 8:30, cuantos minutos faltan para las 9:00?
 
-### Options
+### Opciones
 - [x] A) 30 <!-- feedback: Correcto! 9:00 - 8:30 = 30 minutos. -->
 - [ ] B) 60 <!-- feedback: 60 minutos es una hora. Solo faltan 30. -->
 - [ ] C) 15 <!-- feedback: 15 minutos = un cuarto. Aqui es media hora. -->
@@ -211,12 +216,12 @@ De 8:30 a 9:00 hay 30 minutos (media hora).
 **Bloom:** Evaluate
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.59
-**Context:** En Colegio INEM de Pereira de Cali
+**Contexto:** En Colegio INEM de Pereira de Cali
 
 ### Enunciado
 En el calendario, si hoy es 15 de marzo, en que mes estaremos en 30 dias?
 
-### Options
+### Opciones
 - [x] A) Abril <!-- feedback: Correcto! Marzo tiene 31 dias. 15 + 30 = 45. 45 - 31 = 14 de abril. -->
 - [ ] B) Marzo <!-- feedback: Marzo tiene 31 dias, 15+30=45 que es mas de 31. -->
 - [ ] C) Febrero <!-- feedback: Estamos en marzo, no febrero. -->

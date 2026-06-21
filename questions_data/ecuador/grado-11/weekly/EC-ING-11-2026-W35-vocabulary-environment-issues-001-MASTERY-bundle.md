@@ -1,24 +1,32 @@
 ---
-id: "EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY"
+id: "EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY-bundle"
 country: "ecuador"
 exam: "BGU - Ministerio de Educacion"
 grado: 11
 asignatura: "Ingles"
 tema: "vocabulary-environment-issues"
-semana: 35
+week: "W35"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "BGU - Ministerio de Educacion Ecuador / Senescyt"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle - Ingles: Vocabulary Environment Issues (W35)
 **20 preguntas | Ingles | BGU - Ministerio de Educacion**
 
 ---
-## Pregunta 1 [D4]
+## Question 1 [D4]
 **ID:** `EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Clase de lenguaje en EC.
 
@@ -26,21 +34,22 @@ alignment: "BGU - Ministerio de Educacion Ecuador / Senescyt"
 En una lectura en Quito: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?
 
 ### Opciones
-- [x] **A)** Crear una atmosfera o ambiente
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Presentar un argumento
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Narrar una secuencia
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Describir un dialogo
-  <!-- feedback: Incorrecto. -->
+- [x] A) Crear una atmosfera o ambiente <!-- feedback: Correcto! Crear una atmosfera o ambiente -->
+
+- [ ] B) Presentar un argumento <!-- feedback: Incorrecto. Presentar un argumento -->
+
+- [ ] C) Narrar una secuencia <!-- feedback: Incorrecto. Narrar una secuencia -->
+
+- [ ] D) Describir un dialogo <!-- feedback: Incorrecto. Describir un dialogo -->
 
 **Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.
 
 ---
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Clase de lenguaje en EC.
 
@@ -48,21 +57,22 @@ En una lectura en Quito: El sol brillaba mientras los pajaros cantaban. Que func
 Cual es la funcion del lenguaje en: Feliz cumpleaños!
 
 ### Opciones
-- [x] **A)** Funcion expresiva o emotiva
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Funcion referencial
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Funcion apelativa
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Funcion metalinguistica
-  <!-- feedback: Incorrecto. -->
+- [x] A) Funcion expresiva o emotiva <!-- feedback: Correcto! Funcion expresiva o emotiva -->
+
+- [ ] B) Funcion referencial <!-- feedback: Incorrecto. Funcion referencial -->
+
+- [ ] C) Funcion apelativa <!-- feedback: Incorrecto. Funcion apelativa -->
+
+- [ ] D) Funcion metalinguistica <!-- feedback: Incorrecto. Funcion metalinguistica -->
 
 **Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.
 
 ---
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Clase de lenguaje en EC.
 
@@ -70,21 +80,22 @@ Cual es la funcion del lenguaje en: Feliz cumpleaños!
 Identifica el conector: Manta es hermosa, ____ su gente es acogedora.
 
 ### Opciones
-- [x] **A)** ademas
-  <!-- feedback: Correcto! -->
-- [ ] **B)** sin embargo
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** por lo tanto
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** aunque
-  <!-- feedback: Incorrecto. -->
+- [x] A) ademas <!-- feedback: Correcto! ademas -->
+
+- [ ] B) sin embargo <!-- feedback: Incorrecto. sin embargo -->
+
+- [ ] C) por lo tanto <!-- feedback: Incorrecto. por lo tanto -->
+
+- [ ] D) aunque <!-- feedback: Incorrecto. aunque -->
 
 **Explicacion:** El conector 'ademas' anade informacion complementaria.
 
 ---
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY-v4`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Clase de lenguaje en EC.
 
@@ -92,21 +103,22 @@ Identifica el conector: Manta es hermosa, ____ su gente es acogedora.
 Cual oracion esta correctamente escrita?
 
 ### Opciones
-- [x] **A)** Los estudiantes del Colegio Nacional Manta estudian mucho.
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Los estudiantes del Colegio Nacional Manta estudian mucho.
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Los estudiantes del school estudian mucho.
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Los estudiantes del school estudian mucho.
-  <!-- feedback: Incorrecto. -->
+- [x] A) Los estudiantes del Colegio Nacional Manta estudian mucho. <!-- feedback: Correcto! Los estudiantes del Colegio Nacional Manta estudian mucho. -->
+
+- [ ] B) Los estudiantes del Colegio Nacional Manta estudian mucho. <!-- feedback: Incorrecto. Los estudiantes del Colegio Nacional Man -->
+
+- [ ] C) Los estudiantes del school estudian mucho. <!-- feedback: Incorrecto. Los estudiantes del school estudian much -->
+
+- [ ] D) Los estudiantes del school estudian mucho. <!-- feedback: Incorrecto. Los estudiantes del school estudian much -->
 
 **Explicacion:** La opcion A sigue las normas ortograficas correctamente.
 
 ---
-## Pregunta 5 [D3]
+## Question 5 [D3]
 **ID:** `EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Clase de lenguaje en EC.
 
@@ -114,21 +126,22 @@ Cual oracion esta correctamente escrita?
 En el Colegio Nacional Olmedo de Portoviejo, analizando un texto. Cual es la idea principal?
 
 ### Opciones
-- [x] **A)** El agua es esencial para la vida y debe cuidarse
-  <!-- feedback: Correcto! -->
-- [ ] **B)** El agua solo se usa para beber
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** El agua no es importante
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** El agua es un recurso infinito
-  <!-- feedback: Incorrecto. -->
+- [x] A) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto! El agua es esencial para la vida y debe cuidarse -->
+
+- [ ] B) El agua solo se usa para beber <!-- feedback: Incorrecto. El agua solo se usa para beber -->
+
+- [ ] C) El agua no es importante <!-- feedback: Incorrecto. El agua no es importante -->
+
+- [ ] D) El agua es un recurso infinito <!-- feedback: Incorrecto. El agua es un recurso infinito -->
 
 **Explicacion:** El texto destaca la importancia del agua como recurso vital.
 
 ---
-## Pregunta 6 [D4]
+## Question 6 [D4]
 **ID:** `EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY-v6`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Clase de lenguaje en EC.
 
@@ -136,21 +149,22 @@ En el Colegio Nacional Olmedo de Portoviejo, analizando un texto. Cual es la ide
 En una lectura en Esmeraldas: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?
 
 ### Opciones
-- [x] **A)** Crear una atmosfera o ambiente
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Presentar un argumento
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Narrar una secuencia
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Describir un dialogo
-  <!-- feedback: Incorrecto. -->
+- [x] A) Crear una atmosfera o ambiente <!-- feedback: Correcto! Crear una atmosfera o ambiente -->
+
+- [ ] B) Presentar un argumento <!-- feedback: Incorrecto. Presentar un argumento -->
+
+- [ ] C) Narrar una secuencia <!-- feedback: Incorrecto. Narrar una secuencia -->
+
+- [ ] D) Describir un dialogo <!-- feedback: Incorrecto. Describir un dialogo -->
 
 **Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.
 
 ---
-## Pregunta 7 [D3]
+## Question 7 [D3]
 **ID:** `EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Clase de lenguaje en EC.
 
@@ -158,21 +172,22 @@ En una lectura en Esmeraldas: El sol brillaba mientras los pajaros cantaban. Que
 Cual es la funcion del lenguaje en: Feliz cumpleaños!
 
 ### Opciones
-- [x] **A)** Funcion expresiva o emotiva
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Funcion referencial
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Funcion apelativa
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Funcion metalinguistica
-  <!-- feedback: Incorrecto. -->
+- [x] A) Funcion expresiva o emotiva <!-- feedback: Correcto! Funcion expresiva o emotiva -->
+
+- [ ] B) Funcion referencial <!-- feedback: Incorrecto. Funcion referencial -->
+
+- [ ] C) Funcion apelativa <!-- feedback: Incorrecto. Funcion apelativa -->
+
+- [ ] D) Funcion metalinguistica <!-- feedback: Incorrecto. Funcion metalinguistica -->
 
 **Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.
 
 ---
-## Pregunta 8 [D4]
+## Question 8 [D4]
 **ID:** `EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Clase de lenguaje en EC.
 
@@ -180,21 +195,22 @@ Cual es la funcion del lenguaje en: Feliz cumpleaños!
 Identifica el conector: Ibarra es hermosa, ____ su gente es acogedora.
 
 ### Opciones
-- [x] **A)** ademas
-  <!-- feedback: Correcto! -->
-- [ ] **B)** sin embargo
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** por lo tanto
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** aunque
-  <!-- feedback: Incorrecto. -->
+- [x] A) ademas <!-- feedback: Correcto! ademas -->
+
+- [ ] B) sin embargo <!-- feedback: Incorrecto. sin embargo -->
+
+- [ ] C) por lo tanto <!-- feedback: Incorrecto. por lo tanto -->
+
+- [ ] D) aunque <!-- feedback: Incorrecto. aunque -->
 
 **Explicacion:** El conector 'ademas' anade informacion complementaria.
 
 ---
-## Pregunta 9 [D5]
+## Question 9 [D5]
 **ID:** `EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY-v9`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Clase de lenguaje en EC.
 
@@ -202,21 +218,22 @@ Identifica el conector: Ibarra es hermosa, ____ su gente es acogedora.
 Cual oracion esta correctamente escrita?
 
 ### Opciones
-- [x] **A)** Los estudiantes del Colegio Benigno Malo estudian mucho.
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Los estudiantes del Colegio Benigno Malo estudian mucho.
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Los estudiantes del school estudian mucho.
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Los estudiantes del school estudian mucho.
-  <!-- feedback: Incorrecto. -->
+- [x] A) Los estudiantes del Colegio Benigno Malo estudian mucho. <!-- feedback: Correcto! Los estudiantes del Colegio Benigno Malo estudian mucho. -->
+
+- [ ] B) Los estudiantes del Colegio Benigno Malo estudian mucho. <!-- feedback: Incorrecto. Los estudiantes del Colegio Benigno Malo -->
+
+- [ ] C) Los estudiantes del school estudian mucho. <!-- feedback: Incorrecto. Los estudiantes del school estudian much -->
+
+- [ ] D) Los estudiantes del school estudian mucho. <!-- feedback: Incorrecto. Los estudiantes del school estudian much -->
 
 **Explicacion:** La opcion A sigue las normas ortograficas correctamente.
 
 ---
-## Pregunta 10 [D3]
+## Question 10 [D3]
 **ID:** `EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY-v10`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Clase de lenguaje en EC.
 
@@ -224,21 +241,22 @@ Cual oracion esta correctamente escrita?
 En el Colegio Nacional Maldonado de Riobamba, analizando un texto. Cual es la idea principal?
 
 ### Opciones
-- [x] **A)** El agua es esencial para la vida y debe cuidarse
-  <!-- feedback: Correcto! -->
-- [ ] **B)** El agua solo se usa para beber
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** El agua no es importante
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** El agua es un recurso infinito
-  <!-- feedback: Incorrecto. -->
+- [x] A) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto! El agua es esencial para la vida y debe cuidarse -->
+
+- [ ] B) El agua solo se usa para beber <!-- feedback: Incorrecto. El agua solo se usa para beber -->
+
+- [ ] C) El agua no es importante <!-- feedback: Incorrecto. El agua no es importante -->
+
+- [ ] D) El agua es un recurso infinito <!-- feedback: Incorrecto. El agua es un recurso infinito -->
 
 **Explicacion:** El texto destaca la importancia del agua como recurso vital.
 
 ---
-## Pregunta 11 [D4]
+## Question 11 [D4]
 **ID:** `EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Clase de lenguaje en EC.
 
@@ -246,21 +264,22 @@ En el Colegio Nacional Maldonado de Riobamba, analizando un texto. Cual es la id
 En una lectura en Cuenca: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?
 
 ### Opciones
-- [x] **A)** Crear una atmosfera o ambiente
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Presentar un argumento
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Narrar una secuencia
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Describir un dialogo
-  <!-- feedback: Incorrecto. -->
+- [x] A) Crear una atmosfera o ambiente <!-- feedback: Correcto! Crear una atmosfera o ambiente -->
+
+- [ ] B) Presentar un argumento <!-- feedback: Incorrecto. Presentar un argumento -->
+
+- [ ] C) Narrar una secuencia <!-- feedback: Incorrecto. Narrar una secuencia -->
+
+- [ ] D) Describir un dialogo <!-- feedback: Incorrecto. Describir un dialogo -->
 
 **Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.
 
 ---
-## Pregunta 12 [D3]
+## Question 12 [D3]
 **ID:** `EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY-v12`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Clase de lenguaje en EC.
 
@@ -268,21 +287,22 @@ En una lectura en Cuenca: El sol brillaba mientras los pajaros cantaban. Que fun
 Cual es la funcion del lenguaje en: Feliz cumpleaños!
 
 ### Opciones
-- [x] **A)** Funcion expresiva o emotiva
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Funcion referencial
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Funcion apelativa
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Funcion metalinguistica
-  <!-- feedback: Incorrecto. -->
+- [x] A) Funcion expresiva o emotiva <!-- feedback: Correcto! Funcion expresiva o emotiva -->
+
+- [ ] B) Funcion referencial <!-- feedback: Incorrecto. Funcion referencial -->
+
+- [ ] C) Funcion apelativa <!-- feedback: Incorrecto. Funcion apelativa -->
+
+- [ ] D) Funcion metalinguistica <!-- feedback: Incorrecto. Funcion metalinguistica -->
 
 **Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.
 
 ---
-## Pregunta 13 [D4]
+## Question 13 [D4]
 **ID:** `EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY-v13`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Clase de lenguaje en EC.
 
@@ -290,21 +310,22 @@ Cual es la funcion del lenguaje en: Feliz cumpleaños!
 Identifica el conector: Quito es hermosa, ____ su gente es acogedora.
 
 ### Opciones
-- [x] **A)** ademas
-  <!-- feedback: Correcto! -->
-- [ ] **B)** sin embargo
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** por lo tanto
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** aunque
-  <!-- feedback: Incorrecto. -->
+- [x] A) ademas <!-- feedback: Correcto! ademas -->
+
+- [ ] B) sin embargo <!-- feedback: Incorrecto. sin embargo -->
+
+- [ ] C) por lo tanto <!-- feedback: Incorrecto. por lo tanto -->
+
+- [ ] D) aunque <!-- feedback: Incorrecto. aunque -->
 
 **Explicacion:** El conector 'ademas' anade informacion complementaria.
 
 ---
-## Pregunta 14 [D5]
+## Question 14 [D5]
 **ID:** `EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Clase de lenguaje en EC.
 
@@ -312,21 +333,22 @@ Identifica el conector: Quito es hermosa, ____ su gente es acogedora.
 Cual oracion esta correctamente escrita?
 
 ### Opciones
-- [x] **A)** Los estudiantes del Colegio Nacional Nueve de Octubre estudian mucho.
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Los estudiantes del Colegio Nacional Nueve de Octubre estudian mucho.
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Los estudiantes del school estudian mucho.
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Los estudiantes del school estudian mucho.
-  <!-- feedback: Incorrecto. -->
+- [x] A) Los estudiantes del Colegio Nacional Nueve de Octubre estudian mucho. <!-- feedback: Correcto! Los estudiantes del Colegio Nacional Nueve de Octubre estudi -->
+
+- [ ] B) Los estudiantes del Colegio Nacional Nueve de Octubre estudian mucho. <!-- feedback: Incorrecto. Los estudiantes del Colegio Nacional Nue -->
+
+- [ ] C) Los estudiantes del school estudian mucho. <!-- feedback: Incorrecto. Los estudiantes del school estudian much -->
+
+- [ ] D) Los estudiantes del school estudian mucho. <!-- feedback: Incorrecto. Los estudiantes del school estudian much -->
 
 **Explicacion:** La opcion A sigue las normas ortograficas correctamente.
 
 ---
-## Pregunta 15 [D3]
+## Question 15 [D3]
 **ID:** `EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY-v15`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Clase de lenguaje en EC.
 
@@ -334,21 +356,22 @@ Cual oracion esta correctamente escrita?
 En el Colegio Nacional Luis Vargas Torres de Esmeraldas, analizando un texto. Cual es la idea principal?
 
 ### Opciones
-- [x] **A)** El agua es esencial para la vida y debe cuidarse
-  <!-- feedback: Correcto! -->
-- [ ] **B)** El agua solo se usa para beber
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** El agua no es importante
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** El agua es un recurso infinito
-  <!-- feedback: Incorrecto. -->
+- [x] A) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto! El agua es esencial para la vida y debe cuidarse -->
+
+- [ ] B) El agua solo se usa para beber <!-- feedback: Incorrecto. El agua solo se usa para beber -->
+
+- [ ] C) El agua no es importante <!-- feedback: Incorrecto. El agua no es importante -->
+
+- [ ] D) El agua es un recurso infinito <!-- feedback: Incorrecto. El agua es un recurso infinito -->
 
 **Explicacion:** El texto destaca la importancia del agua como recurso vital.
 
 ---
-## Pregunta 16 [D4]
+## Question 16 [D4]
 **ID:** `EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY-v16`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Clase de lenguaje en EC.
 
@@ -356,21 +379,22 @@ En el Colegio Nacional Luis Vargas Torres de Esmeraldas, analizando un texto. Cu
 En una lectura en Ibarra: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?
 
 ### Opciones
-- [x] **A)** Crear una atmosfera o ambiente
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Presentar un argumento
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Narrar una secuencia
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Describir un dialogo
-  <!-- feedback: Incorrecto. -->
+- [x] A) Crear una atmosfera o ambiente <!-- feedback: Correcto! Crear una atmosfera o ambiente -->
+
+- [ ] B) Presentar un argumento <!-- feedback: Incorrecto. Presentar un argumento -->
+
+- [ ] C) Narrar una secuencia <!-- feedback: Incorrecto. Narrar una secuencia -->
+
+- [ ] D) Describir un dialogo <!-- feedback: Incorrecto. Describir un dialogo -->
 
 **Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.
 
 ---
-## Pregunta 17 [D3]
+## Question 17 [D3]
 **ID:** `EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY-v17`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Clase de lenguaje en EC.
 
@@ -378,21 +402,22 @@ En una lectura en Ibarra: El sol brillaba mientras los pajaros cantaban. Que fun
 Cual es la funcion del lenguaje en: Feliz cumpleaños!
 
 ### Opciones
-- [x] **A)** Funcion expresiva o emotiva
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Funcion referencial
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Funcion apelativa
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Funcion metalinguistica
-  <!-- feedback: Incorrecto. -->
+- [x] A) Funcion expresiva o emotiva <!-- feedback: Correcto! Funcion expresiva o emotiva -->
+
+- [ ] B) Funcion referencial <!-- feedback: Incorrecto. Funcion referencial -->
+
+- [ ] C) Funcion apelativa <!-- feedback: Incorrecto. Funcion apelativa -->
+
+- [ ] D) Funcion metalinguistica <!-- feedback: Incorrecto. Funcion metalinguistica -->
 
 **Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.
 
 ---
-## Pregunta 18 [D4]
+## Question 18 [D4]
 **ID:** `EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY-v18`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Clase de lenguaje en EC.
 
@@ -400,21 +425,22 @@ Cual es la funcion del lenguaje en: Feliz cumpleaños!
 Identifica el conector: Guayaquil es hermosa, ____ su gente es acogedora.
 
 ### Opciones
-- [x] **A)** ademas
-  <!-- feedback: Correcto! -->
-- [ ] **B)** sin embargo
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** por lo tanto
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** aunque
-  <!-- feedback: Incorrecto. -->
+- [x] A) ademas <!-- feedback: Correcto! ademas -->
+
+- [ ] B) sin embargo <!-- feedback: Incorrecto. sin embargo -->
+
+- [ ] C) por lo tanto <!-- feedback: Incorrecto. por lo tanto -->
+
+- [ ] D) aunque <!-- feedback: Incorrecto. aunque -->
 
 **Explicacion:** El conector 'ademas' anade informacion complementaria.
 
 ---
-## Pregunta 19 [D5]
+## Question 19 [D5]
 **ID:** `EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY-v19`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Clase de lenguaje en EC.
 
@@ -422,21 +448,22 @@ Identifica el conector: Guayaquil es hermosa, ____ su gente es acogedora.
 Cual oracion esta correctamente escrita?
 
 ### Opciones
-- [x] **A)** Los estudiantes del Unidad Educativa Santo Domingo estudian mucho.
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Los estudiantes del Unidad Educativa Santo Domingo estudian mucho.
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Los estudiantes del school estudian mucho.
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Los estudiantes del school estudian mucho.
-  <!-- feedback: Incorrecto. -->
+- [x] A) Los estudiantes del Unidad Educativa Santo Domingo estudian mucho. <!-- feedback: Correcto! Los estudiantes del Unidad Educativa Santo Domingo estudian  -->
+
+- [ ] B) Los estudiantes del Unidad Educativa Santo Domingo estudian mucho. <!-- feedback: Incorrecto. Los estudiantes del Unidad Educativa San -->
+
+- [ ] C) Los estudiantes del school estudian mucho. <!-- feedback: Incorrecto. Los estudiantes del school estudian much -->
+
+- [ ] D) Los estudiantes del school estudian mucho. <!-- feedback: Incorrecto. Los estudiantes del school estudian much -->
 
 **Explicacion:** La opcion A sigue las normas ortograficas correctamente.
 
 ---
-## Pregunta 20 [D3]
+## Question 20 [D3]
 **ID:** `EC-ING-11-2026-W35-vocabulary-environment-issues-001-MASTERY-v20`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Clase de lenguaje en EC.
 
@@ -444,14 +471,13 @@ Cual oracion esta correctamente escrita?
 En el Colegio Nacional Bernardo Valdivieso de Loja, analizando un texto. Cual es la idea principal?
 
 ### Opciones
-- [x] **A)** El agua es esencial para la vida y debe cuidarse
-  <!-- feedback: Correcto! -->
-- [ ] **B)** El agua solo se usa para beber
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** El agua no es importante
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** El agua es un recurso infinito
-  <!-- feedback: Incorrecto. -->
+- [x] A) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto! El agua es esencial para la vida y debe cuidarse -->
+
+- [ ] B) El agua solo se usa para beber <!-- feedback: Incorrecto. El agua solo se usa para beber -->
+
+- [ ] C) El agua no es importante <!-- feedback: Incorrecto. El agua no es importante -->
+
+- [ ] D) El agua es un recurso infinito <!-- feedback: Incorrecto. El agua es un recurso infinito -->
 
 **Explicacion:** El texto destaca la importancia del agua como recurso vital.
 

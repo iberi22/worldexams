@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W01-seres-vivos-001-MASTERY"
+id: "CO-CIE-3-2026-W01-seres-vivos-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "seres-vivos"
-semana: "W01"
+week: "W01"
 periodo: 1
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Características de los seres vivos, diferencias entre seres v
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Seres Vivos: Características Fundamentales
 
 Este bundle explora cómo identificar a los seres vivos y qué los diferencia de los objetos inertes en su entorno cotidiano.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W01-seres-vivos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un jardín botánico de Medellín, un grupo de niños observa diferentes elementos a su alrededor.
+**Contexto:** En un jardín botánico de Medellín, un grupo de niños observa diferentes elementos a su alrededor.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -48,12 +52,12 @@ Los seres vivos se distinguen por cumplir un ciclo vital que incluye nacer, crec
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W01-seres-vivos-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un estudiante observa que su mascota (un gato) corre cuando escucha el sonido de su plato de comida.
+**Contexto:** Un estudiante observa que su mascota (un gato) corre cuando escucha el sonido de su plato de comida.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -73,12 +77,12 @@ La irritabilidad es la función que permite a los seres vivos detectar cambios e
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W01-seres-vivos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** En la clase de ciencias, los niños comparan una planta de frijol con un juguete de plástico que camina con pilas.
+**Contexto:** En la clase de ciencias, los niños comparan una planta de frijol con un juguete de plástico que camina con pilas.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -98,12 +102,12 @@ Para clasificar algo como vivo, debe cumplir con funciones biológicas esenciale
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W01-seres-vivos-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Mariana siembra una semilla y, después de una semana, nota que ha salido una pequeña raíz y un tallo verde.
+**Contexto:** Mariana siembra una semilla y, después de una semana, nota que ha salido una pequeña raíz y un tallo verde.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -123,12 +127,12 @@ El ciclo de vida comienza con el nacimiento (o germinación en plantas) y contin
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W01-seres-vivos-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un grupo de investigadores encuentra un objeto extraño en el desierto que no se mueve, no respira y no cambia de tamaño en un año.
+**Contexto:** Un grupo de investigadores encuentra un objeto extraño en el desierto que no se mueve, no respira y no cambia de tamaño en un año.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -148,12 +152,12 @@ La ausencia de funciones vitales observables como el metabolismo, el crecimiento
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W01-seres-vivos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** En una expedición al río Amazonas, los estudiantes ven peces, algas, rocas en el fondo y burbujas de oxígeno.
+**Contexto:** En una expedición al río Amazonas, los estudiantes ven peces, algas, rocas en el fondo y burbujas de oxígeno.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -173,12 +177,12 @@ La teoría celular establece que todos los seres vivos están formados por una o
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W01-seres-vivos-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un árbol de mango en una finca en el Huila produce frutos cada año para que nazcan nuevos árboles.
+**Contexto:** Un árbol de mango en una finca en el Huila produce frutos cada año para que nazcan nuevos árboles.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -198,12 +202,12 @@ La reproducción es una de las tres funciones vitales universales. A través de 
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W01-seres-vivos-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
-**Context:** Durante una fuerte lluvia, un caracol se esconde dentro de su concha para protegerse de la humedad excesiva y los golpes de las gotas.
+**Contexto:** Durante una fuerte lluvia, un caracol se esconde dentro de su concha para protegerse de la humedad excesiva y los golpes de las gotas.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -223,12 +227,12 @@ La función de relación permite a los seres vivos recibir información de su en
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W01-seres-vivos-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** En un experimento, se coloca una planta cerca de una ventana y se observa que después de unos días el tallo se ha inclinado hacia la luz.
+**Contexto:** En un experimento, se coloca una planta cerca de una ventana y se observa que después de unos días el tallo se ha inclinado hacia la luz.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -248,12 +252,12 @@ Incluso las plantas, que parecen estáticas, muestran funciones de relación. La
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W01-seres-vivos-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un robot moderno puede hablar, caminar y recargar su batería con el sol, al igual que los humanos comen.
+**Contexto:** Un robot moderno puede hablar, caminar y recargar su batería con el sol, al igual que los humanos comen.
 **Expected_Success:** 0.55
 
 ### Enunciado

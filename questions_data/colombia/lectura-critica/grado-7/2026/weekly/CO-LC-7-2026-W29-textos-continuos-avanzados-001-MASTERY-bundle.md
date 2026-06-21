@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W29-textos-continuos-avanzados-001-MASTERY"
+id: "CO-LC-7-2026-W29-textos-continuos-avanzados-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "textos continuos avanzados"
-semana: "W29"
+week: "W29"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Continuos Avanzados - Grado 7
 ## Semana W29 — Análisis crítico de textos continuos: estructura, coherencia, cohesión y tipología
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W29-textos-continuos-avanzados-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de Lectura Crítica del Colegio San José de Barranquilla, la profesora explica las características de los textos continuos.
+**Contexto:** En la clase de Lectura Crítica del Colegio San José de Barranquilla, la profesora explica las características de los textos continuos.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Los textos continuos son aquellos que se organizan en secuencias de oraciones y 
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W29-textos-continuos-avanzados-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un estudiante lee un texto que comienza así: "En primer lugar, es importante entender que el calentamiento global no es un fenómeno reciente. Sin embargo, la velocidad actual del cambio no tiene precedentes."
+**Contexto:** Un estudiante lee un texto que comienza así: "En primer lugar, es importante entender que el calentamiento global no es un fenómeno reciente. Sin embargo, la velocidad actual del cambio no tiene precedentes."
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -60,11 +64,11 @@ Los conectores textuales son palabras o expresiones que establecen relaciones l�
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W29-textos-continuos-avanzados-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un estudiante compara un cuento corto con un artículo de enciclopedia sobre el mismo tema: los delfines.
+**Contexto:** Un estudiante compara un cuento corto con un artículo de enciclopedia sobre el mismo tema: los delfines.
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -81,11 +85,11 @@ Los textos continuos se clasifican en tipologías según su propósito comunicat
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W29-textos-continuos-avanzados-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Un estudiante lee un texto continuo y debe identificar la oración principal de cada párrafo para hacer un resumen.
+**Contexto:** Un estudiante lee un texto continuo y debe identificar la oración principal de cada párrafo para hacer un resumen.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -102,11 +106,11 @@ En la mayoría de los textos expositivos y argumentativos, la oración principal
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W29-textos-continuos-avanzados-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un texto continuo tiene el siguiente párrafo: "La capital de Colombia es Bogotá. Bogotá es una ciudad grande. En Bogotá viven muchas personas. Las personas usan TransMilenio para movilizarse."
+**Contexto:** Un texto continuo tiene el siguiente párrafo: "La capital de Colombia es Bogotá. Bogotá es una ciudad grande. En Bogotá viven muchas personas. Las personas usan TransMilenio para movilizarse."
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -123,11 +127,11 @@ La cohesión textual se logra mediante mecanismos como la sustitución (pronombr
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W29-textos-continuos-avanzados-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un artículo de opinión dice: "La reforma educativa es necesaria. Nuestros estudiantes ocupan los últimos lugares en pruebas internacionales. Singapur, con un sistema diferente, ocupa los primeros. Por lo tanto, debemos copiar el sistema de Singapur."
+**Contexto:** Un artículo de opinión dice: "La reforma educativa es necesaria. Nuestros estudiantes ocupan los últimos lugares en pruebas internacionales. Singapur, con un sistema diferente, ocupa los primeros. Por lo tanto, debemos copiar el sistema de Singapur."
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -144,11 +148,11 @@ La coherencia global es la propiedad por la cual todas las partes de un texto co
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W29-textos-continuos-avanzados-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un estudiante lee un texto continuo que describe un experimento científico. El texto tiene la siguiente estructura: objetivo, materiales, procedimiento, resultados, discusión.
+**Contexto:** Un estudiante lee un texto continuo que describe un experimento científico. El texto tiene la siguiente estructura: objetivo, materiales, procedimiento, resultados, discusión.
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -165,11 +169,11 @@ Los textos continuos tienen estructuras que responden a su propósito. El inform
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W29-textos-continuos-avanzados-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un texto continuo describe el proceso de fabricación del café soluble. Comienza con la recolección del grano y termina con el empaquetado.
+**Contexto:** Un texto continuo describe el proceso de fabricación del café soluble. Comienza con la recolección del grano y termina con el empaquetado.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -186,11 +190,11 @@ Los textos de proceso o secuencia temporal organizan la información siguiendo e
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W29-textos-continuos-avanzados-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Dos textos continuos tratan el mismo tema: la contaminación del río Bogotá. El primero es un artículo científico; el segundo es un cuento infantil que personifica el río como un personaje triste.
+**Contexto:** Dos textos continuos tratan el mismo tema: la contaminación del río Bogotá. El primero es un artículo científico; el segundo es un cuento infantil que personifica el río como un personaje triste.
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -207,11 +211,11 @@ La evaluación de la adecuación de un texto continuo depende de su propósito y
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W29-textos-continuos-avanzados-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Un texto continuo argumentativo presenta la siguiente tesis: "Debemos reducir el consumo de plásticos de un solo uso." La evidencia que presenta son citas de activistas ambientales.
+**Contexto:** Un texto continuo argumentativo presenta la siguiente tesis: "Debemos reducir el consumo de plásticos de un solo uso." La evidencia que presenta son citas de activistas ambientales.
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ La calidad de la evidencia en un texto argumentativo depende no solo de que sea 
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W29-textos-continuos-avanzados-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Un texto continuo de 500 palabras usa exclusivamente oraciones simples y cortas, sin conectores complejos. El tema es la teoría de la relatividad.
+**Contexto:** Un texto continuo de 500 palabras usa exclusivamente oraciones simples y cortas, sin conectores complejos. El tema es la teoría de la relatividad.
 **Expected_Success:** 0.40
 
 ### Enunciado
@@ -249,11 +253,11 @@ La evaluación de la calidad de un texto continuo depende en gran medida de su a
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W29-textos-continuos-avanzados-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** Como proyecto de la semana, los estudiantes deben transformar un texto continuo mal cohesionado en uno bien cohesionado, aplicando los mecanismos de cohesión estudiados.
+**Contexto:** Como proyecto de la semana, los estudiantes deben transformar un texto continuo mal cohesionado en uno bien cohesionado, aplicando los mecanismos de cohesión estudiados.
 **Expected_Success:** 0.36
 
 ### Enunciado

@@ -1,5 +1,5 @@
 ---
-id: "COL-SOC-CIU-4-2026-W30-repaso-p6-001-MASTERY"
+id: "COL-SOC-CIU-4-2026-W30-repaso-p6-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Repaso P6: Constitución y ramas del poder público"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso P6 — Constitución y ramas del poder público
 
@@ -30,14 +35,15 @@ Repaso de la Constitución Política, derechos, deberes y las tres ramas del pod
 ## Question 1 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W30-repaso-p6-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Repaso en Pasto
+**Contexto:** Repaso en Pasto
 
 ### Enunciado
 ¿En qué año se aprobó la Constitución Política de Colombia que está vigente?
 
-### Options
+### Opciones
 - [ ] A) 1810. <!-- feedback: Incorrecto. 1810 fue el grito de independencia. -->
 - [ ] B) 1886. <!-- feedback: Incorrecto. Esa era la Constitución anterior. -->
 - [x] C) 1991. <!-- feedback: Correcto. La Constitución actual fue aprobada en 1991. -->
@@ -51,14 +57,15 @@ Repaso de la Constitución Política, derechos, deberes y las tres ramas del pod
 ## Question 2 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W30-repaso-p6-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Ramas del poder
+**Contexto:** Ramas del poder
 
 ### Enunciado
 ¿Cuántas ramas del poder público existen en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Dos: Ejecutiva y Judicial. <!-- feedback: Incorrecto. Falta la Legislativa. -->
 - [ ] B) Cuatro: Ejecutiva, Legislativa, Judicial y Electoral. <!-- feedback: Incorrecto. La Electoral es parte de la organización, pero no es una cuarta rama. -->
 - [x] C) Tres: Ejecutiva, Legislativa y Judicial. <!-- feedback: Correcto. Las tres ramas son independientes y separadas. -->
@@ -72,14 +79,15 @@ Repaso de la Constitución Política, derechos, deberes y las tres ramas del pod
 ## Question 3 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W30-repaso-p6-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Derechos fundamentales
+**Contexto:** Derechos fundamentales
 
 ### Enunciado
 ¿Qué son los derechos fundamentales según la Constitución?
 
-### Options
+### Opciones
 - [ ] A) Privilegios para algunas personas. <!-- feedback: Incorrecto. Son derechos de todos. -->
 - [ ] B) Normas que solo aplican en Bogotá. <!-- feedback: Incorrecto. Aplican en todo el país. -->
 - [x] C) Derechos que tienen todas las personas por el solo hecho de ser humanos, como la vida, la libertad y la igualdad. <!-- feedback: Correcto. Los derechos fundamentales son inherentes a la persona. -->
@@ -93,14 +101,15 @@ Repaso de la Constitución Política, derechos, deberes y las tres ramas del pod
 ## Question 4 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W30-repaso-p6-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Deberes ciudadanos
+**Contexto:** Deberes ciudadanos
 
 ### Enunciado
 ¿Cuál es un ejemplo de un deber ciudadano?
 
-### Options
+### Opciones
 - [ ] A) Tener una mascota. <!-- feedback: Incorrecto. No es un deber constitucional. -->
 - [x] B) Respetar los derechos ajenos y no abusar de los propios. <!-- feedback: Correcto. Respetar los derechos de los demás es un deber fundamental. -->
 - [ ] C) Viajar al exterior. <!-- feedback: Incorrecto. No es un deber. -->
@@ -114,14 +123,15 @@ Repaso de la Constitución Política, derechos, deberes y las tres ramas del pod
 ## Question 5 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W30-repaso-p6-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Aplicación de derechos
+**Contexto:** Aplicación de derechos
 
 ### Enunciado
 Si un niño no puede ir a la escuela porque no hay cupo, ¿qué derecho se está vulnerando?
 
-### Options
+### Opciones
 - [ ] A) Derecho al voto. <!-- feedback: Incorrecto. Los niños no votan. -->
 - [ ] B) Derecho al trabajo. <!-- feedback: Incorrecto. Los niños no deben trabajar. -->
 - [x] C) Derecho a la educación. <!-- feedback: Correcto. Todos los niños tienen derecho a la educación. -->
@@ -135,14 +145,15 @@ Si un niño no puede ir a la escuela porque no hay cupo, ¿qué derecho se está
 ## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W30-repaso-p6-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Función del Congreso
+**Contexto:** Función del Congreso
 
 ### Enunciado
 El Congreso aprobó una nueva ley. ¿Qué rama del poder actuó?
 
-### Options
+### Opciones
 - [ ] A) Rama Ejecutiva. <!-- feedback: Incorrecto. El Ejecutivo ejecuta, no legisla. -->
 - [x] B) Rama Legislativa. <!-- feedback: Correcto. El Congreso (Legislativo) crea las leyes. -->
 - [ ] C) Rama Judicial. <!-- feedback: Incorrecto. La Judicial aplica las leyes. -->
@@ -156,14 +167,15 @@ El Congreso aprobó una nueva ley. ¿Qué rama del poder actuó?
 ## Question 7 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W30-repaso-p6-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Separación de poderes
+**Contexto:** Separación de poderes
 
 ### Enunciado
 ¿Por qué la Constitución de 1991 es considerada una Constitución de derechos?
 
-### Options
+### Opciones
 - [ ] A) Porque solo habla de derechos y no de deberes. <!-- feedback: Incorrecto. También habla de deberes. -->
 - [x] B) Porque incluye una amplia carta de derechos fundamentales, sociales, económicos y culturales, con mecanismos para protegerlos. <!-- feedback: Correcto. La Constitución de 1991 es conocida por su énfasis en los derechos humanos. -->
 - [ ] C) Porque todos los derechos se cumplen perfectamente. <!-- feedback: Incorrecto. Hay retos en la implementación. -->
@@ -177,14 +189,15 @@ El Congreso aprobó una nueva ley. ¿Qué rama del poder actuó?
 ## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W30-repaso-p6-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Control entre ramas
+**Contexto:** Control entre ramas
 
 ### Enunciado
 ¿Qué pasa si el presidente expide un decreto que va contra la Constitución?
 
-### Options
+### Opciones
 - [ ] A) Se aplica igual porque lo dijo el presidente. <!-- feedback: Incorrecto. Nadie está por encima de la Constitución. -->
 - [ ] B) El Congreso lo aplaude. <!-- feedback: Incorrecto. El Congreso y la Judicial controlan. -->
 - [x] C) La Corte Constitucional puede declararlo inexequible (sin efecto). <!-- feedback: Correcto. La Corte Constitucional controla que los actos del gobierno sean constitucionales. -->
@@ -198,14 +211,15 @@ El Congreso aprobó una nueva ley. ¿Qué rama del poder actuó?
 ## Question 9 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W30-repaso-p6-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Importancia de la Constitución
+**Contexto:** Importancia de la Constitución
 
 ### Enunciado
 ¿Crees que la Constitución es importante para la vida de los colombianos?
 
-### Options
+### Opciones
 - [ ] A) No, es solo un papel que nadie lee. <!-- feedback: Incorrecto. Es la norma fundamental que nos protege. -->
 - [ ] B) Solo es importante para los abogados. <!-- feedback: Incorrecto. Aplica a todos los ciudadanos. -->
 - [x] C) Sí, porque establece nuestros derechos, deberes y la organización del Estado, protegiendo nuestra libertad y dignidad. <!-- feedback: Correcto. La Constitución es el fundamento de la convivencia. -->
@@ -220,13 +234,14 @@ El Congreso aprobó una nueva ley. ¿Qué rama del poder actuó?
 
 **ID:** `COL-SOC-CIU-4-2026-W30-repaso-p6-001-MASTERY-v10`
 **Bloom:** [Create]
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Constitución escolar
+**Contexto:** Constitución escolar
 
 ### Enunciado
 Diseña una mini constitución para tu salón de clases. ¿Qué incluirías?
 
-### Options
+### Opciones
 - [ ] A) Solo normas para castigar a los que hablan en clase. <!-- feedback: Incorrecto. Una constitución debe ser más completa. -->
 - [x] B) Derechos de los estudiantes (a ser escuchados, a aprender), deberes (respetar, estudiar), y la organización del gobierno del salón. <!-- feedback: Correcto. Una mini constitución debe incluir derechos, deberes y organización. -->
 - [ ] C) Una lista de los estudiantes más populares. <!-- feedback: Incorrecto. No es una constitución. -->

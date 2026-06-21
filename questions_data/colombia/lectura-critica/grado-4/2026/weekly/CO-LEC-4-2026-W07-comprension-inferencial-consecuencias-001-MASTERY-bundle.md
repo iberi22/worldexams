@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY"
+id: "CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "comprension-inferencial-consecuencias"
-semana: "W07"
+week: "W07"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "inferencia, consecuencias, efectos, resultados"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W07: Comprensión inferencial: inferir consecuencias
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Consecuencia explícita.
+**Contexto:** Consecuencia explícita.
 
 ### Enunciado
 *"No estudió, por eso sacó nota baja."* ¿Consecuencia?
 
-### Options
-- [ ] A) Nota alta.
+### Opciones
+- [ ] A) Nota alta. <!-- feedback: Incorrecto. Nota alta. -->
 - [x] B) Nota baja. <!-- feedback: Correcto. -->
-- [ ] C) Premio.
-- [ ] D) Felicitaciones.
+- [ ] C) Premio. <!-- feedback: Incorrecto. Premio. -->
+- [ ] D) Felicitaciones. <!-- feedback: Incorrecto. Felicitaciones. -->
 
 ### Explicación Pedagógica
 Consecuencia explícita.
@@ -49,17 +54,18 @@ Consecuencia explícita.
 
 **ID:** `CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Consecuencia lluvia.
+**Contexto:** Consecuencia lluvia.
 
 ### Enunciado
 *"Llovió toda la noche, el río creció y calles se inundaron."* ¿Consecuencia?
 
-### Options
-- [ ] A) Hizo sol.
+### Opciones
+- [ ] A) Hizo sol. <!-- feedback: Incorrecto. Hizo sol. -->
 - [x] B) Río creció y calles se inundaron. <!-- feedback: Correcto. -->
-- [ ] C) Niños jugaron.
-- [ ] D) Paseo.
+- [ ] C) Niños jugaron. <!-- feedback: Incorrecto. Niños jugaron. -->
+- [ ] D) Paseo. <!-- feedback: Incorrecto. Paseo. -->
 
 ### Explicación Pedagógica
 Consecuencia explícita.
@@ -70,17 +76,18 @@ Consecuencia explícita.
 
 **ID:** `CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Consecuencia positiva.
+**Contexto:** Consecuencia positiva.
 
 ### Enunciado
 *"Sembraron árboles, hubo menos deslizamientos."* ¿Consecuencia?
 
-### Options
-- [ ] A) Más deslizamientos.
+### Opciones
+- [ ] A) Más deslizamientos. <!-- feedback: Incorrecto. Más deslizamientos. -->
 - [x] B) Menos deslizamientos. <!-- feedback: Correcto. -->
-- [ ] C) Nada.
-- [ ] D) Árboles se secaron.
+- [ ] C) Nada. <!-- feedback: Incorrecto. Nada. -->
+- [ ] D) Árboles se secaron. <!-- feedback: Incorrecto. Árboles se secaron. -->
 
 ### Explicación Pedagógica
 Consecuencia positiva.
@@ -91,17 +98,18 @@ Consecuencia positiva.
 
 **ID:** `CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Consecuencia limpieza.
+**Contexto:** Consecuencia limpieza.
 
 ### Enunciado
 *"Recogieron basura del patio. Colegio limpio."* ¿Consecuencia?
 
-### Options
-- [ ] A) Colegio sucio.
+### Opciones
+- [ ] A) Colegio sucio. <!-- feedback: Incorrecto. Colegio sucio. -->
 - [x] B) Colegio limpio. <!-- feedback: Correcto. -->
-- [ ] C) Estudiantes se fueron.
-- [ ] D) Llegó basura.
+- [ ] C) Estudiantes se fueron. <!-- feedback: Incorrecto. Estudiantes se fueron. -->
+- [ ] D) Llegó basura. <!-- feedback: Incorrecto. Llegó basura. -->
 
 ### Explicación Pedagógica
 Consecuencia positiva.
@@ -112,17 +120,18 @@ Consecuencia positiva.
 
 **ID:** `CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Conector consecuencia.
+**Contexto:** Conector consecuencia.
 
 ### Enunciado
 *"El volcán hizo erupción, por lo tanto ceniza cubrió cultivos."* ¿Conector?
 
-### Options
-- [ ] A) volcán
-- [ ] B) erupción
+### Opciones
+- [ ] A) volcán <!-- feedback: Incorrecto. volcán -->
+- [ ] B) erupción <!-- feedback: Incorrecto. erupción -->
 - [x] C) por lo tanto <!-- feedback: Correcto. -->
-- [ ] D) cultivos
+- [ ] D) cultivos <!-- feedback: Incorrecto. cultivos -->
 
 ### Explicación Pedagógica
 Conector de consecuencia.
@@ -133,17 +142,18 @@ Conector de consecuencia.
 
 **ID:** `CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Predecir peligro.
+**Contexto:** Predecir peligro.
 
 ### Enunciado
 *"Doña Marta dejó la olla en el fogón encendido y salió."* ¿Qué podría pasar?
 
-### Options
-- [ ] A) Comida se enfrió.
+### Opciones
+- [ ] A) Comida se enfrió. <!-- feedback: Incorrecto. Comida se enfrió. -->
 - [x] B) Podría quemarse y causar incendio. <!-- feedback: Correcto. -->
-- [ ] C) Nada grave.
-- [ ] D) Llegaron visitas.
+- [ ] C) Nada grave. <!-- feedback: Incorrecto. Nada grave. -->
+- [ ] D) Llegaron visitas. <!-- feedback: Incorrecto. Llegaron visitas. -->
 
 ### Explicación Pedagógica
 Predecir consecuencia peligrosa.
@@ -154,17 +164,18 @@ Predecir consecuencia peligrosa.
 
 **ID:** `CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Consecuencia lógica.
+**Contexto:** Consecuencia lógica.
 
 ### Enunciado
 *"Niños jugaron con arena mojada y se ensuciaron. Mamá estricta."* ¿Qué pasa?
 
-### Options
-- [ ] A) Los felicitó.
+### Opciones
+- [ ] A) Los felicitó. <!-- feedback: Incorrecto. Los felicitó. -->
 - [x] B) Les llamó la atención. <!-- feedback: Correcto. -->
-- [ ] C) No se dio cuenta.
-- [ ] D) Compró ropa nueva.
+- [ ] C) No se dio cuenta. <!-- feedback: Incorrecto. No se dio cuenta. -->
+- [ ] D) Compró ropa nueva. <!-- feedback: Incorrecto. Compró ropa nueva. -->
 
 ### Explicación Pedagógica
 Inferir consecuencia lógica.
@@ -175,17 +186,18 @@ Inferir consecuencia lógica.
 
 **ID:** `CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Cadena de consecuencias.
+**Contexto:** Cadena de consecuencias.
 
 ### Enunciado
 *"No desayunó. En ed. física se sintió débil."* ¿Cadena?
 
-### Options
+### Opciones
 - [x] A) No desayunar -> débil -> bajo rendimiento. <!-- feedback: Correcto. -->
 - [ ] B) Ed.física -> no desayunar. <!-- feedback: Invertido. -->
 - [ ] C) Débil -> no desayunar. <!-- feedback: Invertido. -->
-- [ ] D) No hay relación.
+- [ ] D) No hay relación. <!-- feedback: Incorrecto. No hay relación. -->
 
 ### Explicación Pedagógica
 Cadena causal.
@@ -196,17 +208,18 @@ Cadena causal.
 
 **ID:** `CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Causa vs consecuencia.
+**Contexto:** Causa vs consecuencia.
 
 ### Enunciado
 *"Golpearon ventana con piedra y el vidrio se rompió."* ¿CONSECUENCIA?
 
-### Options
+### Opciones
 - [ ] A) Golpearon con piedra. <!-- feedback: Causa. -->
 - [x] B) Vidrio se rompió. <!-- feedback: Correcto. -->
-- [ ] C) Piedra era grande.
-- [ ] D) Ventana frágil.
+- [ ] C) Piedra era grande. <!-- feedback: Incorrecto. Piedra era grande. -->
+- [ ] D) Ventana frágil. <!-- feedback: Incorrecto. Ventana frágil. -->
 
 ### Explicación Pedagógica
 Diferenciar.
@@ -217,17 +230,18 @@ Diferenciar.
 
 **ID:** `CO-LEC-4-2026-W07-comprension-inferencial-consecuencias-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Consecuencia sequía.
+**Contexto:** Consecuencia sequía.
 
 ### Enunciado
 *"En la Guajira no ha llovido en 6 meses."* ¿Consecuencia posible?
 
-### Options
-- [ ] A) Cultivos crecieron.
+### Opciones
+- [ ] A) Cultivos crecieron. <!-- feedback: Incorrecto. Cultivos crecieron. -->
 - [x] B) Escasez de agua, cultivos se secan. <!-- feedback: Correcto. -->
-- [ ] C) Ríos crecieron.
-- [ ] D) Hace frío.
+- [ ] C) Ríos crecieron. <!-- feedback: Incorrecto. Ríos crecieron. -->
+- [ ] D) Hace frío. <!-- feedback: Incorrecto. Hace frío. -->
 
 ### Explicación Pedagógica
 Consecuencia de sequía.

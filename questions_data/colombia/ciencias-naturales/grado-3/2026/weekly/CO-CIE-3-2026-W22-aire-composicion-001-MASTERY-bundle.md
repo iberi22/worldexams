@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY"
+id: "CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "aire-composicion"
-semana: "W22"
+week: "W22"
 periodo: 3
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Composición del aire: mezcla de gases, partículas en suspens
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # ¿De qué está hecho el aire?
 
 Este bundle profundiza en la composición química del aire, identificando los diferentes gases que lo forman y las partículas que viajan en él, esenciales para la vida y el equilibrio planetario.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un libro de ciencias, Juan lee que el aire no es una sustancia pura, sino una combinación de muchos elementos invisibles.
+**Contexto:** En un libro de ciencias, Juan lee que el aire no es una sustancia pura, sino una combinación de muchos elementos invisibles.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ El aire es una mezcla. Esto significa que diferentes sustancias están juntas pe
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Los buzos y astronautas deben llevar tanques con la mezcla exacta de aire para no morir.
+**Contexto:** Los buzos y astronautas deben llevar tanques con la mezcla exacta de aire para no morir.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -73,12 +77,12 @@ Aunque el oxígeno no es el gas más abundante, es el más importante para la vi
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** A veces, cuando un rayo de sol entra por la ventana, podemos ver pequeñas motitas brillantes flotando en el aire.
+**Contexto:** A veces, cuando un rayo de sol entra por la ventana, podemos ver pequeñas motitas brillantes flotando en el aire.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ El aire también actúa como un sistema de transporte. Lleva partículas sólida
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** El gas carbónico (CO2) es una parte muy pequeña del aire, pero es el ingrediente secreto para que el mundo sea verde.
+**Contexto:** El gas carbónico (CO2) es una parte muy pequeña del aire, pero es el ingrediente secreto para que el mundo sea verde.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ El aire es un sistema de equilibrio. Las plantas toman el CO2 y lo transforman, 
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un experimento, se analiza el aire dentro de un hospital y el aire de una calle con mucho tráfico.
+**Contexto:** En un experimento, se analiza el aire dentro de un hospital y el aire de una calle con mucho tráfico.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -148,12 +152,12 @@ La contaminación cambia la "receta" natural del aire. Al añadir humos y quími
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** El vapor de agua es un gas que forma parte del aire. En la selva del Chocó hay mucho, pero en el desierto de la Tatacoa hay muy poco.
+**Contexto:** El vapor de agua es un gas que forma parte del aire. En la selva del Chocó hay mucho, pero en el desierto de la Tatacoa hay muy poco.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -173,12 +177,12 @@ La humedad es agua en forma de gas mezclada con el aire. En Colombia tenemos cli
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** El ozono es un gas especial formado por tres átomos de oxígeno unidos. Se encuentra muy arriba en la atmósfera.
+**Contexto:** El ozono es un gas especial formado por tres átomos de oxígeno unidos. Se encuentra muy arriba en la atmósfera.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -198,12 +202,12 @@ Aunque el ozono es una forma de oxígeno, no sirve para respirar (de hecho, es i
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Si dejas un trozo de hierro húmedo a la intemperie (al aire libre), notarás que después de unos días se llena de una capa roja llamada óxido.
+**Contexto:** Si dejas un trozo de hierro húmedo a la intemperie (al aire libre), notarás que después de unos días se llena de una capa roja llamada óxido.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -223,12 +227,12 @@ El oxígeno es un gas "agresivo" químicamente. Ataca a los metales y también p
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En la cima de las montañas más altas de los Andes, el aire tiene la misma "receta" de gases, pero las moléculas están mucho más separadas.
+**Contexto:** En la cima de las montañas más altas de los Andes, el aire tiene la misma "receta" de gases, pero las moléculas están mucho más separadas.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -248,12 +252,12 @@ Esto se llama presión atmosférica. En la costa, el aire está "apretado" y hay
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un científico dice: "Si el aire fuera 100% oxígeno puro, la vida como la conocemos sería imposible y todo se quemaría muy fácil".
+**Contexto:** Un científico dice: "Si el aire fuera 100% oxígeno puro, la vida como la conocemos sería imposible y todo se quemaría muy fácil".
 **Expected_Success:** 0.60
 
 ### Enunciado

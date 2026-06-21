@@ -1,24 +1,32 @@
 ---
-id: "PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY"
+id: "PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY-bundle"
 country: "pr"
 exam: "College Board - Puerto Rico Department of Education"
 grado: 11
 asignatura: "Historia y Ciencias Sociales"
 tema: "desarrollo-sostenible"
-semana: 37
+week: "W37"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "Puerto Rico Core Standards + College Board SAT"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle - Historia y Ciencias Sociales: Desarrollo Sostenible (W37)
 **20 preguntas | Historia y Ciencias Sociales | College Board - Puerto Rico Department of Education**
 
 ---
-## Pregunta 1 [D4]
+## Question 1 [D4]
 **ID:** `PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando desarrollo sostenible.
 
@@ -26,21 +34,22 @@ alignment: "Puerto Rico Core Standards + College Board SAT"
 Simplifique: (6)(10x + 45)
 
 ### Opciones
-- [x] **A)** 60x + 270
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 60x + 45
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 16x + 270
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 60x - 270
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 60x + 270 <!-- feedback: Correcto! 60x + 270 -->
+
+- [ ] B) 60x + 45 <!-- feedback: Incorrecto. 60x + 45 -->
+
+- [ ] C) 16x + 270 <!-- feedback: Incorrecto. 16x + 270 -->
+
+- [ ] D) 60x - 270 <!-- feedback: Incorrecto. 60x - 270 -->
 
 **Explicacion:** Aplicar distributiva: (6)(10x + 45) = 60x + 270.
 
 ---
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando desarrollo sostenible.
 
@@ -48,21 +57,22 @@ Simplifique: (6)(10x + 45)
 Resuelve: 2(x + 4) = 14
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [ ] C) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] D) 3 <!-- feedback: Incorrecto. 3 -->
 
 **Explicacion:** 2(x+4) = 14 -> x+4 = 7 -> x = 3.
 
 ---
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando desarrollo sostenible.
 
@@ -70,21 +80,22 @@ Resuelve: 2(x + 4) = 14
 Maria compro 8 cuadernos a $5.4 c/u en Fajardo. &iquest;Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $40.4
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** $8.4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $5.4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $13.4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $40.4 <!-- feedback: Correcto! $40.4 -->
+
+- [ ] B) $8.4 <!-- feedback: Incorrecto. $8.4 -->
+
+- [ ] C) $5.4 <!-- feedback: Incorrecto. $5.4 -->
+
+- [ ] D) $13.4 <!-- feedback: Incorrecto. $13.4 -->
 
 **Explicacion:** Total = 8 x $5 = $40.4.
 
 ---
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY-v4`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando desarrollo sostenible.
 
@@ -92,21 +103,22 @@ Maria compro 8 cuadernos a $5.4 c/u en Fajardo. &iquest;Cuanto gasto?
 Un estudiante de Escuela Superior de Yauco en Yauco grafica f(x) = 7x + 1. &iquest;Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 7
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 7 <!-- feedback: Correcto! 7 -->
+
+- [ ] B) 1 <!-- feedback: Incorrecto. 1 -->
+
+- [ ] C) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] D) 7 <!-- feedback: Incorrecto. 7 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 7.
 
 ---
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY-v5`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando desarrollo sostenible.
 
@@ -114,21 +126,22 @@ Un estudiante de Escuela Superior de Yauco en Yauco grafica f(x) = 7x + 1. &ique
 En un examen EBAU en Arecibo, se pide: si f(x) = 6x^2 + 3x + 5. &iquest;Cual es f(2)?
 
 ### Opciones
-- [x] **A)** 35
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 15
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 35 <!-- feedback: Correcto! 35 -->
+
+- [ ] B) 15 <!-- feedback: Incorrecto. 15 -->
+
+- [ ] C) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [ ] D) 9 <!-- feedback: Incorrecto. 9 -->
 
 **Explicacion:** Sustituyo x=2: f(2) = 6(4) + 3(2) + 5 = 24 + 6 + 5 = 35.
 
 ---
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando desarrollo sostenible.
 
@@ -136,21 +149,22 @@ En un examen EBAU en Arecibo, se pide: si f(x) = 6x^2 + 3x + 5. &iquest;Cual es 
 Resuelve la ecuacion: x^2 - 20x + 96 = 0
 
 ### Opciones
-- [x] **A)** x = 8 y x = 12
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** x = 20 y x = 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** x = 0 y x = 96
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** No tiene solucion
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) x = 8 y x = 12 <!-- feedback: Correcto! x = 8 y x = 12 -->
+
+- [ ] B) x = 20 y x = 4 <!-- feedback: Incorrecto. x = 20 y x = 4 -->
+
+- [ ] C) x = 0 y x = 96 <!-- feedback: Incorrecto. x = 0 y x = 96 -->
+
+- [ ] D) No tiene solucion <!-- feedback: Incorrecto. No tiene solucion -->
 
 **Explicacion:** Ecuacion cuadratica: (x-8)(x-12) = 0, por tanto x = 8 o x = 12.
 
 ---
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY-v7`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando desarrollo sostenible.
 
@@ -158,21 +172,22 @@ Resuelve la ecuacion: x^2 - 20x + 96 = 0
 Un estudiante de Mayaguez obtuvo notas: 4, 15, 12, 12. &iquest;Cual es la media?
 
 ### Opciones
-- [x] **A)** 10.0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 10
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 17
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 10.0 <!-- feedback: Correcto! 10.0 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] C) 10 <!-- feedback: Incorrecto. 10 -->
+
+- [ ] D) 17 <!-- feedback: Incorrecto. 17 -->
 
 **Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.
 
 ---
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando desarrollo sostenible.
 
@@ -180,21 +195,22 @@ Un estudiante de Mayaguez obtuvo notas: 4, 15, 12, 12. &iquest;Cual es la media?
 Calcule la derivada de f(x) = 8x^3 + 3x^2 + 0x + 3
 
 ### Opciones
-- [x] **A)** f'(x) = 24x^2 + 6x + 0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** f'(x) = 8x^2 + 3x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** f'(x) = 24x^2 + 3x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** f'(x) = 24x^3 + 6x^2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) f'(x) = 24x^2 + 6x + 0 <!-- feedback: Correcto! f'(x) = 24x^2 + 6x + 0 -->
+
+- [ ] B) f'(x) = 8x^2 + 3x <!-- feedback: Incorrecto. f'(x) = 8x^2 + 3x -->
+
+- [ ] C) f'(x) = 24x^2 + 3x <!-- feedback: Incorrecto. f'(x) = 24x^2 + 3x -->
+
+- [ ] D) f'(x) = 24x^3 + 6x^2 <!-- feedback: Incorrecto. f'(x) = 24x^3 + 6x^2 -->
 
 **Explicacion:** Derivada termino a termino: d/dx(8x^3) = 24x^2, d/dx(3x^2) = 6x, d/dx(0x) = 0, d/dx(3) = 0.
 
 ---
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY-v9`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando desarrollo sostenible.
 
@@ -202,21 +218,22 @@ Calcule la derivada de f(x) = 8x^3 + 3x^2 + 0x + 3
 &iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0
 
 ### Opciones
-- [x] **A)** Si, es correcta porque f'(0) = 0 y f''(0) > 0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** No, tiene un maximo en x = 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** No, no tiene extremos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** Solo es correcta para x > 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) Si, es correcta porque f'(0) = 0 y f''(0) > 0 <!-- feedback: Correcto! Si, es correcta porque f'(0) = 0 y f''(0) > 0 -->
+
+- [ ] B) No, tiene un maximo en x = 0 <!-- feedback: Incorrecto. No, tiene un maximo en x = 0 -->
+
+- [ ] C) No, no tiene extremos <!-- feedback: Incorrecto. No, no tiene extremos -->
+
+- [ ] D) Solo es correcta para x > 0 <!-- feedback: Incorrecto. Solo es correcta para x > 0 -->
 
 **Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.
 
 ---
-## Pregunta 10 [D3]
+## Question 10 [D3]
 **ID:** `PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando desarrollo sostenible.
 
@@ -224,21 +241,22 @@ Calcule la derivada de f(x) = 8x^3 + 3x^2 + 0x + 3
 En Yauco, un estudiante del Escuela Superior de Yauco resuelve: 5x + 8 = 33. &iquest;Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **D)** 12
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] B) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 12 <!-- feedback: Incorrecto. 12 -->
 
 **Explicacion:** Se resta 8 de ambos lados. Luego se divide por 5: x = 5.
 
 ---
-## Pregunta 11 [D4]
+## Question 11 [D4]
 **ID:** `PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY-v11`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando desarrollo sostenible.
 
@@ -246,21 +264,22 @@ En Yauco, un estudiante del Escuela Superior de Yauco resuelve: 5x + 8 = 33. &iq
 Simplifique: (5)(11x + 24)
 
 ### Opciones
-- [x] **A)** 55x + 120
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 55x + 24
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 16x + 120
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 55x - 120
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 55x + 120 <!-- feedback: Correcto! 55x + 120 -->
+
+- [ ] B) 55x + 24 <!-- feedback: Incorrecto. 55x + 24 -->
+
+- [ ] C) 16x + 120 <!-- feedback: Incorrecto. 16x + 120 -->
+
+- [ ] D) 55x - 120 <!-- feedback: Incorrecto. 55x - 120 -->
 
 **Explicacion:** Aplicar distributiva: (5)(11x + 24) = 55x + 120.
 
 ---
-## Pregunta 12 [D3]
+## Question 12 [D3]
 **ID:** `PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY-v12`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando desarrollo sostenible.
 
@@ -268,21 +287,22 @@ Simplifique: (5)(11x + 24)
 Resuelve: 2(x + 3) = 12
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] C) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [ ] D) 2 <!-- feedback: Incorrecto. 2 -->
 
 **Explicacion:** 2(x+3) = 12 -> x+3 = 6 -> x = 3.
 
 ---
-## Pregunta 13 [D4]
+## Question 13 [D4]
 **ID:** `PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY-v13`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando desarrollo sostenible.
 
@@ -290,21 +310,22 @@ Resuelve: 2(x + 3) = 12
 Maria compro 2 cuadernos a $1.4 c/u en Ponce. &iquest;Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $2.4
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** $2.4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $1.4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $3.4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $2.4 <!-- feedback: Correcto! $2.4 -->
+
+- [ ] B) $2.4 <!-- feedback: Incorrecto. $2.4 -->
+
+- [ ] C) $1.4 <!-- feedback: Incorrecto. $1.4 -->
+
+- [ ] D) $3.4 <!-- feedback: Incorrecto. $3.4 -->
 
 **Explicacion:** Total = 2 x $1 = $2.4.
 
 ---
-## Pregunta 14 [D5]
+## Question 14 [D5]
 **ID:** `PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY-v14`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando desarrollo sostenible.
 
@@ -312,21 +333,22 @@ Maria compro 2 cuadernos a $1.4 c/u en Ponce. &iquest;Cuanto gasto?
 Un estudiante de Escuela Superior de Guaynabo en Guaynabo grafica f(x) = 2x + 8. &iquest;Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 2
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 10
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 2 <!-- feedback: Correcto! 2 -->
+
+- [ ] B) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] C) 10 <!-- feedback: Incorrecto. 10 -->
+
+- [ ] D) 7 <!-- feedback: Incorrecto. 7 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 2.
 
 ---
-## Pregunta 15 [D5]
+## Question 15 [D5]
 **ID:** `PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY-v15`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando desarrollo sostenible.
 
@@ -334,21 +356,22 @@ Un estudiante de Escuela Superior de Guaynabo en Guaynabo grafica f(x) = 2x + 8.
 En un examen EBAU en Carolina, se pide: si f(x) = 6x^2 + 10x + 4. &iquest;Cual es f(2)?
 
 ### Opciones
-- [x] **A)** 48
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 22
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 16
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 48 <!-- feedback: Correcto! 48 -->
+
+- [ ] B) 22 <!-- feedback: Incorrecto. 22 -->
+
+- [ ] C) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [ ] D) 16 <!-- feedback: Incorrecto. 16 -->
 
 **Explicacion:** Sustituyo x=2: f(2) = 6(4) + 10(2) + 4 = 24 + 20 + 4 = 48.
 
 ---
-## Pregunta 16 [D6]
+## Question 16 [D6]
 **ID:** `PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY-v16`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando desarrollo sostenible.
 
@@ -356,21 +379,22 @@ En un examen EBAU en Carolina, se pide: si f(x) = 6x^2 + 10x + 4. &iquest;Cual e
 Resuelve la ecuacion: x^2 - 15x + 54 = 0
 
 ### Opciones
-- [x] **A)** x = 6 y x = 9
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** x = 15 y x = 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** x = 0 y x = 54
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** No tiene solucion
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) x = 6 y x = 9 <!-- feedback: Correcto! x = 6 y x = 9 -->
+
+- [ ] B) x = 15 y x = 3 <!-- feedback: Incorrecto. x = 15 y x = 3 -->
+
+- [ ] C) x = 0 y x = 54 <!-- feedback: Incorrecto. x = 0 y x = 54 -->
+
+- [ ] D) No tiene solucion <!-- feedback: Incorrecto. No tiene solucion -->
 
 **Explicacion:** Ecuacion cuadratica: (x-6)(x-9) = 0, por tanto x = 6 o x = 9.
 
 ---
-## Pregunta 17 [D6]
+## Question 17 [D6]
 **ID:** `PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY-v17`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando desarrollo sostenible.
 
@@ -378,21 +402,22 @@ Resuelve la ecuacion: x^2 - 15x + 54 = 0
 Un estudiante de Yauco obtuvo notas: 6, 21, 15, 13. &iquest;Cual es la media?
 
 ### Opciones
-- [x] **A)** 14.2
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 21
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 20
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 14.2 <!-- feedback: Correcto! 14.2 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] C) 21 <!-- feedback: Incorrecto. 21 -->
+
+- [ ] D) 20 <!-- feedback: Incorrecto. 20 -->
 
 **Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.
 
 ---
-## Pregunta 18 [D7]
+## Question 18 [D7]
 **ID:** `PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY-v18`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando desarrollo sostenible.
 
@@ -400,21 +425,22 @@ Un estudiante de Yauco obtuvo notas: 6, 21, 15, 13. &iquest;Cual es la media?
 Calcule la derivada de f(x) = 2x^3 + 11x^2 + 4x + 11
 
 ### Opciones
-- [x] **A)** f'(x) = 6x^2 + 22x + 4
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** f'(x) = 2x^2 + 11x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** f'(x) = 6x^2 + 11x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** f'(x) = 6x^3 + 22x^2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) f'(x) = 6x^2 + 22x + 4 <!-- feedback: Correcto! f'(x) = 6x^2 + 22x + 4 -->
+
+- [ ] B) f'(x) = 2x^2 + 11x <!-- feedback: Incorrecto. f'(x) = 2x^2 + 11x -->
+
+- [ ] C) f'(x) = 6x^2 + 11x <!-- feedback: Incorrecto. f'(x) = 6x^2 + 11x -->
+
+- [ ] D) f'(x) = 6x^3 + 22x^2 <!-- feedback: Incorrecto. f'(x) = 6x^3 + 22x^2 -->
 
 **Explicacion:** Derivada termino a termino: d/dx(2x^3) = 6x^2, d/dx(11x^2) = 22x, d/dx(4x) = 4, d/dx(11) = 0.
 
 ---
-## Pregunta 19 [D7]
+## Question 19 [D7]
 **ID:** `PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY-v19`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando desarrollo sostenible.
 
@@ -422,21 +448,22 @@ Calcule la derivada de f(x) = 2x^3 + 11x^2 + 4x + 11
 &iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0
 
 ### Opciones
-- [x] **A)** Si, es correcta porque f'(0) = 0 y f''(0) > 0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** No, tiene un maximo en x = 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** No, no tiene extremos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** Solo es correcta para x > 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) Si, es correcta porque f'(0) = 0 y f''(0) > 0 <!-- feedback: Correcto! Si, es correcta porque f'(0) = 0 y f''(0) > 0 -->
+
+- [ ] B) No, tiene un maximo en x = 0 <!-- feedback: Incorrecto. No, tiene un maximo en x = 0 -->
+
+- [ ] C) No, no tiene extremos <!-- feedback: Incorrecto. No, no tiene extremos -->
+
+- [ ] D) Solo es correcta para x > 0 <!-- feedback: Incorrecto. Solo es correcta para x > 0 -->
 
 **Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.
 
 ---
-## Pregunta 20 [D3]
+## Question 20 [D3]
 **ID:** `PR-SOC-11-2026-W37-desarrollo-sostenible-001-MASTERY-v20`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando desarrollo sostenible.
 
@@ -444,14 +471,13 @@ Calcule la derivada de f(x) = 2x^3 + 11x^2 + 4x + 11
 En Toa Baja, un estudiante del Escuela Superior Juan Suarez Pelegrina resuelve: 6x + 4 = 34. &iquest;Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **D)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] B) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 9 <!-- feedback: Incorrecto. 9 -->
 
 **Explicacion:** Se resta 4 de ambos lados. Luego se divide por 6: x = 5.
 

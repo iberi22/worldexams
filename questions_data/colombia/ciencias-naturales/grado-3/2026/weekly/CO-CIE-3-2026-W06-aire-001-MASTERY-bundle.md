@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W06-aire-001-MASTERY"
+id: "CO-CIE-3-2026-W06-aire-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "aire"
-semana: "W06"
+week: "W06"
 protocol_version: "5.2"
 bundle_type: "weekly"
 bundle_index: 1
@@ -20,17 +20,22 @@ rubric_baseline: "aire"
 license: "FREE"
 tier: "legacy"
 
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Ciencias Naturales Grado 3 - Semana W06
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 
 **ID:** `CO-CIE-3-2026-W06-aire-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** La profesora pregunta qué hay en una bolsa 'vacía'.
+**Contexto:** La profesora pregunta qué hay en una bolsa 'vacía'.
 
 ### Enunciado
 El aire que respiramos está compuesto principalmente por:
@@ -46,13 +51,14 @@ La atmósfera terrestre es 78% nitrógeno (N₂), 21% oxígeno (O₂), 0.93% arg
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 
 **ID:** `CO-CIE-3-2026-W06-aire-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** Los estudiantes inflan globos.
+**Contexto:** Los estudiantes inflan globos.
 
 ### Enunciado
 ¿Qué propiedad del aire se demuestra al inflar un globo?
@@ -68,13 +74,14 @@ El aire es materia y ocupa espacio (volumen) y tiene masa. Inflar un globo demue
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 
 **ID:** `CO-CIE-3-2026-W06-aire-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** En Fusagasugá, los estudiantes sumergen un vaso boca abajo en agua.
+**Contexto:** En Fusagasugá, los estudiantes sumergen un vaso boca abajo en agua.
 
 ### Enunciado
 ¿Por qué no entra agua al vaso?
@@ -90,13 +97,14 @@ El vaso contiene aire que no puede escapar y ejerce presión, ocupando el volume
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 
 **ID:** `CO-CIE-3-2026-W06-aire-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** En La Candelaria (Bogotá), los niños notan que la ropa se seca más rápido con viento.
+**Contexto:** En La Candelaria (Bogotá), los niños notan que la ropa se seca más rápido con viento.
 
 ### Enunciado
 ¿Por qué el viento seca la ropa más rápido?
@@ -112,13 +120,14 @@ La evaporación es el paso de agua líquida a vapor. El viento acelera el proces
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 
 **ID:** `CO-CIE-3-2026-W06-aire-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** Los estudiantes dan ejemplos de usos del aire.
+**Contexto:** Los estudiantes dan ejemplos de usos del aire.
 
 ### Enunciado
 ¿Cuál NO es una forma de usar el aire?
@@ -134,13 +143,14 @@ El aire tiene muchos usos: inflar objetos, energía eólica, secado, combustión
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 
 **ID:** `CO-CIE-3-2026-W06-aire-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** Explican la diferencia entre aire inhalado y exhalado.
+**Contexto:** Explican la diferencia entre aire inhalado y exhalado.
 
 ### Enunciado
 ¿Qué exhalamos principalmente?
@@ -156,13 +166,14 @@ Inhalamos 21% O₂. Las células usan O₂ en respiración celular y producen CO
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 
 **ID:** `CO-CIE-3-2026-W06-aire-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** En Pereira, un niño tapa una jeringa y no puede empujar el émbolo.
+**Contexto:** En Pereira, un niño tapa una jeringa y no puede empujar el émbolo.
 
 ### Enunciado
 ¿Por qué?
@@ -178,13 +189,14 @@ Al tapar la salida y empujar, las moléculas de aire se juntan y la presión aum
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 
 **ID:** `CO-CIE-3-2026-W06-aire-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
 
-**Context:** Investigan por qué en el Nevado del Ruiz cuesta respirar.
+**Contexto:** Investigan por qué en el Nevado del Ruiz cuesta respirar.
 
 ### Enunciado
 ¿Por qué es más difícil respirar en altitud?
@@ -200,13 +212,14 @@ La presión atmosférica disminuye con la altitud. En Bogotá (2600m) es menor q
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 
 **ID:** `CO-CIE-3-2026-W06-aire-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** Un incendio en el Valle del Cauca se extiende rápido con viento.
+**Contexto:** Un incendio en el Valle del Cauca se extiende rápido con viento.
 
 ### Enunciado
 ¿Por qué el viento propaga el fuego?
@@ -222,13 +235,14 @@ El fuego necesita combustible, oxígeno y calor (triángulo del fuego). El vient
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 
 **ID:** `CO-CIE-3-2026-W06-aire-001-MASTERY-v10`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Indagación
 
-**Context:** Un estudiante dice: 'Como el viento no se ve, no existe.'
+**Contexto:** Un estudiante dice: 'Como el viento no se ve, no existe.'
 
 ### Enunciado
 ¿Qué le responderías?

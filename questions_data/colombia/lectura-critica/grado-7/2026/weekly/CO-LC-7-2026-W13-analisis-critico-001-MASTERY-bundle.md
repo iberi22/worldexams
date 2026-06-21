@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W13-analisis-critico-001-MASTERY"
+id: "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "analisis-critico"
-semana: "W13"
+week: "W13"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Análisis Crítico - Grado 7
 ## Semana W13 — Elementos del pensamiento crítico en la lectura
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el Colegio León de Greiff de Bogotá, la profesora de Lectura Crítica explica los elementos básicos del análisis crítico.
+**Contexto:** En el Colegio León de Greiff de Bogotá, la profesora de Lectura Crítica explica los elementos básicos del análisis crítico.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ El análisis crítico va más allá de la comprensión literal. Implica tres pro
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Santiago lee en El País de Cali una carta al editor que dice: "Los jóvenes de hoy no leen porque prefieren las pantallas. Esto es grave para el futuro del país."
+**Contexto:** Santiago lee en El País de Cali una carta al editor que dice: "Los jóvenes de hoy no leen porque prefieren las pantallas. Esto es grave para el futuro del país."
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ Identificar supuestos es una habilidad clave del análisis crítico. Un supuesto
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el Colegio INEM José Félix de Restrepo de Medellín, los estudiantes analizan un anuncio que dice: "Nueve de cada diez colombianos prefieren nuestra marca de café."
+**Contexto:** En el Colegio INEM José Félix de Restrepo de Medellín, los estudiantes analizan un anuncio que dice: "Nueve de cada diez colombianos prefieren nuestra marca de café."
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ Las estadísticas pueden ser engañosas. Un lector crítico debe preguntarse: ¿
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Valentina encuentra en internet un artículo que afirma: "El cambio climático es un mito creado por los gobiernos." El artículo no cita fuentes ni menciona autores.
+**Contexto:** Valentina encuentra en internet un artículo que afirma: "El cambio climático es un mito creado por los gobiernos." El artículo no cita fuentes ni menciona autores.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -102,11 +106,11 @@ Un lector crítico no acepta información solo porque está publicada, ni la rec
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el colegio de Bucaramanga, el profesor muestra un texto: "La reforma tributaria es necesaria porque sin ella el país no podrá financiar la educación. La educación es la base del desarrollo. Por lo tanto, la reforma es indispensable."
+**Contexto:** En el colegio de Bucaramanga, el profesor muestra un texto: "La reforma tributaria es necesaria porque sin ella el país no podrá financiar la educación. La educación es la base del desarrollo. Por lo tanto, la reforma es indispensable."
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -123,11 +127,11 @@ El análisis crítico examina las conexiones lógicas entre premisas y conclusio
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Camila compara dos noticias sobre el mismo evento: una de El Tiempo y otra de un blog sin identificación. La noticia de El Tiempo cita fuentes oficiales; el blog solo expresa opiniones.
+**Contexto:** Camila compara dos noticias sobre el mismo evento: una de El Tiempo y otra de un blog sin identificación. La noticia de El Tiempo cita fuentes oficiales; el blog solo expresa opiniones.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -144,11 +148,11 @@ No todas las fuentes tienen la misma credibilidad. Para evaluar una fuente, un l
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** En el colegio de Pereira, Andrés lee un discurso del alcalde donde dice: "En mi administración, la ciudad ha mejorado en todos los aspectos. La gente está más feliz, las calles están más limpias y la economía crece."
+**Contexto:** En el colegio de Pereira, Andrés lee un discurso del alcalde donde dice: "En mi administración, la ciudad ha mejorado en todos los aspectos. La gente está más feliz, las calles están más limpias y la economía crece."
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -165,11 +169,11 @@ Las afirmaciones sin evidencia son una señal de alerta para el lector crítico.
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio La Presentación de Cartago, los estudiantes debaten sobre un texto que dice: "Las mujeres son mejores conductoras porque son más cuidadosas. Los hombres son mejores en deportes porque son más fuertes."
+**Contexto:** En el Colegio La Presentación de Cartago, los estudiantes debaten sobre un texto que dice: "Las mujeres son mejores conductoras porque son más cuidadosas. Los hombres son mejores en deportes porque son más fuertes."
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -186,11 +190,11 @@ El sesgo de género se manifiesta cuando se atribuyen características, habilida
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Isabella encuentra en redes sociales una cadena que dice: "Comparte esto o te pasará algo malo. A María no le importó y al día siguiente tuvo un accidente."
+**Contexto:** Isabella encuentra en redes sociales una cadena que dice: "Comparte esto o te pasará algo malo. A María no le importó y al día siguiente tuvo un accidente."
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -207,11 +211,11 @@ Este mensaje utiliza la falacia post hoc ergo propter hoc ("después de esto, en
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En el colegio de Ibagué, el profesor presenta dos textos sobre la minería en Colombia. El primero es de una organización ambientalista; el segundo, de una empresa minera. Ambos usan estadísticas diferentes.
+**Contexto:** En el colegio de Ibagué, el profesor presenta dos textos sobre la minería en Colombia. El primero es de una organización ambientalista; el segundo, de una empresa minera. Ambos usan estadísticas diferentes.
 **Expected_Success:** 0.45
 
 ### Enunciado
@@ -228,11 +232,11 @@ Todo texto tiene un propósito y un punto de vista. La organización ambientalis
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Daniela analiza un artículo de opinión que dice: "Colombia necesita más vías. Sin carreteras, el campo no se desarrolla. Sin desarrollo rural, la paz no es posible."
+**Contexto:** Daniela analiza un artículo de opinión que dice: "Colombia necesita más vías. Sin carreteras, el campo no se desarrolla. Sin desarrollo rural, la paz no es posible."
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -249,11 +253,11 @@ Este razonamiento comete la falacia de simplificación excesiva o reduccionismo.
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio Técnico Industrial de Pasto, los estudiantes deben diseñar una guía de preguntas críticas para evaluar cualquier texto informativo.
+**Contexto:** En el Colegio Técnico Industrial de Pasto, los estudiantes deben diseñar una guía de preguntas críticas para evaluar cualquier texto informativo.
 **Expected_Success:** 0.38
 
 ### Enunciado

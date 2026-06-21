@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-10-2026-P3-economia-mercados-001-MASTERY"
+id: "CO-SOC-10-2026-P3-economia-mercados-001-MASTERY-bundle"
 country: "colombia"
 grado: 10
 asignatura: "sociales-ciudadanas"
@@ -12,7 +12,14 @@ alignment: "DBA MEN Grado 10 + Pre-ICFES Saber 11"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "economia_mercados, oferta_demanda, mercados_colombia, competencia, inflacion, empleo, crecimiento_economico"
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Economía y Mercados — Grado 10
 
@@ -26,12 +33,12 @@ Bundle de 15 preguntas sobre economía y mercados, alineado con DBA MEN Grado 10
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 
-**Context:** En clase de ciencias sociales en el Colegio Champagnat de Pereira, el profesor explica los conceptos básicos de economía.
+**Contexto:** En clase de ciencias sociales en el Colegio Champagnat de Pereira, el profesor explica los conceptos básicos de economía.
 
 ### Enunciado
 La economía es la ciencia que estudia:
 
-### Options
+### Opciones
 - [ ] A) Cómo acumular la mayor cantidad de dinero posible. <!-- feedback: Incorrecto. Acumular dinero es un objetivo personal, no el objeto de estudio de la economía. -->
 - [ ] B) La producción exclusiva de bienes agrícolas. <!-- feedback: Incorrecto. La economía estudia la producción de todo tipo de bienes y servicios, no solo agrícolas. -->
 - [x] C) La administración de recursos escasos para satisfacer necesidades humanas ilimitadas. <!-- feedback: Correcto. La economía estudia cómo las sociedades asignan recursos limitados para producir bienes y servicios y distribuirlos entre los miembros de la sociedad. -->
@@ -48,12 +55,12 @@ La escasez es el concepto fundamental de la economía: los recursos son limitado
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 
-**Context:** La profesora explica la ley de oferta y demanda en un salón de clases de Bucaramanga.
+**Contexto:** La profesora explica la ley de oferta y demanda en un salón de clases de Bucaramanga.
 
 ### Enunciado
 Según la ley de la oferta y la demanda, cuando aumenta el precio de un producto:
 
-### Options
+### Opciones
 - [x] A) La cantidad demandada disminuye y la cantidad ofrecida aumenta (en condiciones normales). <!-- feedback: Correcto. La ley de la demanda establece que a mayor precio, menor cantidad demandada. La ley de la oferta establece que a mayor precio, mayor cantidad ofrecida. -->
 - [ ] B) La cantidad demandada aumenta y la cantidad ofrecida disminuye. <!-- feedback: Incorrecto. Es al revés: cuando el precio sube, los consumidores compran menos y los productores ofrecen más. -->
 - [ ] C) Tanto la oferta como la demanda aumentan. <!-- feedback: Incorrecto. La oferta aumenta pero la demanda disminuye cuando sube el precio. -->
@@ -70,12 +77,12 @@ La ley de oferta y demanda es el mecanismo básico de los mercados. En Colombia,
 **Bloom:** Understand
 **ICFES:** Interpretación y análisis de perspectivas
 
-**Context:** En Colombia, la producción de café está concentrada en el Eje Cafetero. Un año de fuertes lluvias reduce drásticamente la cosecha.
+**Contexto:** En Colombia, la producción de café está concentrada en el Eje Cafetero. Un año de fuertes lluvias reduce drásticamente la cosecha.
 
 ### Enunciado
 Según la ley de oferta y demanda, el efecto más probable en el mercado del café colombiano será:
 
-### Options
+### Opciones
 - [ ] A) El precio del café baja porque hay menos producto. <!-- feedback: Incorrecto. Cuando la oferta se reduce, el precio tiende a subir, no a bajar. -->
 - [x] B) El precio del café sube porque la oferta disminuye mientras la demanda se mantiene. <!-- feedback: Correcto. Al reducirse la cosecha, el café escasea y su precio aumenta, beneficiando a los productores que lograron cosechar. -->
 - [ ] C) La demanda de café aumenta para compensar la menor oferta. <!-- feedback: Incorrecto. La demanda no aumenta automáticamente por la menor oferta; al subir el precio, la cantidad demandada disminuye. -->
@@ -92,12 +99,12 @@ El caso del café colombiano ilustra cómo shocks de oferta afectan los precios.
 **Bloom:** Understand
 **ICFES:** Pensamiento social
 
-**Context:** En Colombia, el salario mínimo es fijado cada año por el gobierno en acuerdo con empresarios y trabajadores.
+**Contexto:** En Colombia, el salario mínimo es fijado cada año por el gobierno en acuerdo con empresarios y trabajadores.
 
 ### Enunciado
 El salario mínimo es un ejemplo de:
 
-### Options
+### Opciones
 - [ ] A) Precio de equilibrio de mercado. <!-- feedback: Incorrecto. El salario mínimo no surge del libre mercado sino de una decisión gubernamental. -->
 - [ ] B) Precio máximo, porque los trabajadores no pueden ganar menos. <!-- feedback: Incorrecto. El salario mínimo es un precio mínimo, no máximo: establece un piso por debajo del cual no se puede pagar. -->
 - [x] C) Precio mínimo o precio piso fijado por el Estado para garantizar un ingreso básico a los trabajadores. <!-- feedback: Correcto. El salario mínimo es un precio mínimo que busca evitar la explotación laboral y garantizar condiciones de vida dignas, aunque puede generar desempleo si está por encima del equilibrio de mercado. -->
@@ -114,12 +121,12 @@ El salario mínimo en Colombia es fijado anualmente mediante negociación entre 
 **Bloom:** Apply
 **ICFES:** Pensamiento social
 
-**Context:** En un barrio de Bogotá, una tienda de barrio vende pan a $500 la unidad. Al frente, abre un supermercado de cadena que vende el mismo pan a $400.
+**Contexto:** En un barrio de Bogotá, una tienda de barrio vende pan a $500 la unidad. Al frente, abre un supermercado de cadena que vende el mismo pan a $400.
 
 ### Enunciado
 El concepto económico que mejor explica la capacidad del supermercado de vender más barato es:
 
-### Options
+### Opciones
 - [ ] A) Monopolio, porque el supermercado tiene el control del mercado. <!-- feedback: Incorrecto. No es monopolio porque la tienda de barrio compite con el supermercado. -->
 - [ ] B) Inflación, porque los precios están subiendo en general. <!-- feedback: Incorrecto. El fenómeno descrito es de diferencias de precio entre competidores, no de aumento generalizado de precios. -->
 - [x] C) Economías de escala: el supermercado compra y vende grandes volúmenes, reduciendo su costo unitario. <!-- feedback: Correcto. Las economías de escala ocurren cuando producir o comprar en mayor volumen reduce el costo por unidad, permitiendo precios más bajos. -->
@@ -136,12 +143,12 @@ Las economías de escala explican por qué los grandes almacenes de cadena puede
 **Bloom:** Apply
 **ICFES:** Interpretación y análisis de perspectivas
 
-**Context:** En 2022 y 2023, Colombia experimentó una inflación superior al 10%, la más alta en décadas.
+**Contexto:** En 2022 y 2023, Colombia experimentó una inflación superior al 10%, la más alta en décadas.
 
 ### Enunciado
 La inflación se define como:
 
-### Options
+### Opciones
 - [ ] A) El aumento del precio de un producto específico, como la gasolina. <!-- feedback: Incorrecto. El aumento de un precio específico no es inflación; la inflación es el aumento generalizado y sostenido de los precios. -->
 - [ ] B) La disminución del poder adquisitivo de la moneda nacional. <!-- feedback: Correcto. La inflación reduce el valor real del dinero: con la misma cantidad de pesos se pueden comprar menos bienes y servicios que antes. -->
 - [ ] C) El aumento de los salarios de los trabajadores. <!-- feedback: Incorrecto. El aumento de salarios puede ser una causa o consecuencia de la inflación, pero no es la inflación misma. -->
@@ -158,12 +165,12 @@ Colombia ha enfrentado episodios de alta inflación (como la hiperinflación de 
 **Bloom:** Analyze
 **ICFES:** Interpretación y análisis de perspectivas
 
-**Context:** El Banco de la República subió las tasas de interés del 3% al 13% entre 2021 y 2023 para controlar la inflación.
+**Contexto:** El Banco de la República subió las tasas de interés del 3% al 13% entre 2021 y 2023 para controlar la inflación.
 
 ### Enunciado
 ¿Cuál es el mecanismo económico detrás de esta decisión?
 
-### Options
+### Opciones
 - [ ] A) Subir las tasas de interés aumenta el consumo porque la gente tiene más ingresos. <!-- feedback: Incorrecto. Subir las tasas de interés encarece los créditos, lo que reduce el consumo. -->
 - [x] B) Subir las tasas de interés encarece el crédito, reduce el consumo y la inversión, lo que disminuye la presión sobre los precios y controla la inflación. <!-- feedback: Correcto. Al encarecer el crédito, las personas y empresas consumen e invierten menos, reduciendo la demanda agregada y, con ello, la presión inflacionaria. -->
 - [ ] C) Subir las tasas de interés aumenta la oferta de productos porque las empresas producen más. <!-- feedback: Incorrecto. Tasas altas desincentivan la inversión productiva, reduciendo la oferta. -->
@@ -180,12 +187,12 @@ La política monetaria del Banco de la República es la principal herramienta pa
 **Bloom:** Analyze
 **ICFES:** Interpretación y análisis de perspectivas
 
-**Context:** En Colombia, el DANE publica trimestralmente la tasa de desempleo. En 2023, la tasa fue cercana al 10%.
+**Contexto:** En Colombia, el DANE publica trimestralmente la tasa de desempleo. En 2023, la tasa fue cercana al 10%.
 
 ### Enunciado
 La tasa de desempleo mide:
 
-### Options
+### Opciones
 - [ ] A) El porcentaje de la población total que no tiene trabajo. <!-- feedback: Incorrecto. No se mide sobre la población total sino sobre la población económicamente activa. -->
 - [x] B) El porcentaje de la población económicamente activa (personas en edad de trabajar que buscan empleo activamente) que no tiene trabajo remunerado. <!-- feedback: Correcto. La tasa de desempleo es la relación entre las personas desocupadas que buscan trabajo y el total de la población económicamente activa. -->
 - [ ] C) El número de personas que reciben subsidios del Estado. <!-- feedback: Incorrecto. El desempleo mide la falta de trabajo, no quienes reciben subsidios. -->
@@ -202,12 +209,12 @@ Colombia históricamente ha tenido tasas de desempleo de dos dígitos, una de la
 **Bloom:** Apply
 **ICFES:** Pensamiento social
 
-**Context:** En Colombia, los mercados de San Andresito venden productos electrónicos sin factura y a precios más bajos que los almacenes de cadena.
+**Contexto:** En Colombia, los mercados de San Andresito venden productos electrónicos sin factura y a precios más bajos que los almacenes de cadena.
 
 ### Enunciado
 Este tipo de comercio se clasifica como:
 
-### Options
+### Opciones
 - [ ] A) Mercado formal, porque paga impuestos a la DIAN. <!-- feedback: Incorrecto. El comercio sin factura precisamente evade impuestos. -->
 - [x] B) Economía informal, porque opera al margen de los registros tributarios y laborales del Estado. <!-- feedback: Correcto. La economía informal incluye actividades no registradas que no pagan impuestos ni cumplen regulaciones laborales. -->
 - [ ] C) Monopolio, porque controla el mercado de electrónicos. <!-- feedback: Incorrecto. No hay control monopólico; hay muchos vendedores compitiendo entre sí. -->
@@ -224,12 +231,12 @@ La economía informal en Colombia representa aproximadamente el 60% del empleo t
 **Bloom:** Analyze
 **ICFES:** Pensamiento reflexivo y sistémico
 
-**Context:** "Colombia firmó el Tratado de Libre Comercio (TLC) con Estados Unidos en 2006, que entró en vigor en 2012. El TLC eliminó gradualmente los aranceles para la mayoría de los productos."
+**Contexto:** "Colombia firmó el Tratado de Libre Comercio (TLC) con Estados Unidos en 2006, que entró en vigor en 2012. El TLC eliminó gradualmente los aranceles para la mayoría de los productos."
 
 ### Enunciado
 Desde la teoría económica del libre comercio (David Ricardo, ventaja comparativa), el TLC con Estados Unidos debería:
 
-### Options
+### Opciones
 - [ ] A) Beneficiar solo a Estados Unidos porque su economía es más grande. <!-- feedback: Incorrecto. La teoría del libre comercio sostiene que ambos países se benefician si se especializan en lo que hacen mejor. -->
 - [ ] B) Proteger la industria colombiana de la competencia extranjera. <!-- feedback: Incorrecto. El libre comercio es lo opuesto a la protección; elimina barreras y expone a la industria nacional a la competencia. -->
 - [x] C) Beneficiar a Colombia si se especializa en producir aquellos bienes en los que tiene ventaja comparativa (como café, flores, frutas) e importa aquellos en los que Estados Unidos es más eficiente. <!-- feedback: Correcto. La ventaja comparativa (Ricardo) sostiene que los países ganan comerciando si se especializan en lo que producen relativamente mejor. -->
@@ -246,12 +253,12 @@ El TLC Colombia-Estados Unidos ha sido muy debatido en el país. Mientras sector
 **Bloom:** Analyze
 **ICFES:** Pensamiento reflexivo y sistémico
 
-**Context:** "Una empresa colombiana de textiles en Medellín importa telas de China, las transforma en prendas de vestir y las exporta a Ecuador."
+**Contexto:** "Una empresa colombiana de textiles en Medellín importa telas de China, las transforma en prendas de vestir y las exporta a Ecuador."
 
 ### Enunciado
 La actividad de transformar materias primas importadas para exportar productos terminados se conoce como:
 
-### Options
+### Opciones
 - [ ] A) Comercio de subsistencia. <!-- feedback: Incorrecto. Es un comercio internacional organizado, no de subsistencia. -->
 - [ ] B) Maquila o proceso de transformación productiva que agrega valor nacional a insumos extranjeros. <!-- feedback: Correcto. La empresa agrega valor al transformar insumos importados en productos terminados, generando empleo y exportaciones. -->
 - [ ] C) Contrabando, porque los insumos vienen de China. <!-- feedback: Incorrecto. Importar legalmente y pagar aranceles no es contrabando. -->
@@ -268,12 +275,12 @@ Colombia tiene un déficit en su balanza comercial: importa más bienes manufact
 **Bloom:** Evaluate
 **ICFES:** Pensamiento reflexivo y sistémico
 
-**Context:** "Colombia tiene una alta concentración del mercado en varios sectores. Por ejemplo, el mercado de telefonía móvil está dominado por Claro, Tigo y Movistar, que controlan más del 90% del mercado."
+**Contexto:** "Colombia tiene una alta concentración del mercado en varios sectores. Por ejemplo, el mercado de telefonía móvil está dominado por Claro, Tigo y Movistar, que controlan más del 90% del mercado."
 
 ### Enunciado
 Este tipo de estructura de mercado se conoce como:
 
-### Options
+### Opciones
 - [ ] A) Competencia perfecta, porque hay muchas empresas. <!-- feedback: Incorrecto. Solo hay tres empresas principales, lo que no es competencia perfecta. -->
 - [x] B) Oligopolio, porque el mercado está dominado por un pequeño número de grandes empresas que tienen poder para influir en los precios. <!-- feedback: Correcto. Un oligopolio es un mercado con pocos vendedores que tienen poder de mercado y cuyas decisiones afectan a los competidores. -->
 - [ ] C) Monopolio, porque una sola empresa controla el mercado. <!-- feedback: Incorrecto. No es una sola empresa sino unas pocas (tres) que dominan el mercado. -->
@@ -290,12 +297,12 @@ Los oligopolios son comunes en Colombia: telecomunicaciones, banca, cerveza, gas
 **Bloom:** Evaluate
 **ICFES:** Pensamiento reflexivo y sistémico
 
-**Context:** "Un estudiante de grado 10 en Villavicencio debe elegir entre estudiar una carrera universitaria de 5 años en la ciudad o quedarse a trabajar en el negocio familiar de ganadería que le genera ingresos inmediatos."
+**Contexto:** "Un estudiante de grado 10 en Villavicencio debe elegir entre estudiar una carrera universitaria de 5 años en la ciudad o quedarse a trabajar en el negocio familiar de ganadería que le genera ingresos inmediatos."
 
 ### Enunciado
 El concepto económico que mejor describe el costo de elegir estudiar la carrera universitaria es:
 
-### Options
+### Opciones
 - [ ] A) Inflación, porque el dinero perderá valor con el tiempo. <!-- feedback: Incorrecto. La inflación puede afectar, pero no es el concepto central aquí. -->
 - [ ] B) Déficit fiscal, porque el estudiante se endeudará. <!-- feedback: Incorrecto. El déficit fiscal se refiere al gobierno, no a las decisiones individuales. -->
 - [x] C) Costo de oportunidad: los ingresos que el estudiante deja de percibir al no trabajar en el negocio familiar durante los 5 años de estudio. <!-- feedback: Correcto. El costo de oportunidad es el valor de la mejor alternativa sacrificada al tomar una decisión. En este caso, son los ingresos del negocio familiar que se dejan de recibir. -->
@@ -312,12 +319,12 @@ El costo de oportunidad es uno de los conceptos más importantes de la economía
 **Bloom:** Evaluate
 **ICFES:** Pensamiento reflexivo y sistémico
 
-**Context:** "El Producto Interno Bruto (PIB) de Colombia creció un 0.6% en 2023, una de las tasas más bajas de los últimos años. El PIB per cápita fue de aproximadamente USD 6.600."
+**Contexto:** "El Producto Interno Bruto (PIB) de Colombia creció un 0.6% en 2023, una de las tasas más bajas de los últimos años. El PIB per cápita fue de aproximadamente USD 6.600."
 
 ### Enunciado
 Una limitación importante del PIB como indicador de bienestar es que:
 
-### Options
+### Opciones
 - [ ] A) Mide la producción total de bienes y servicios, pero no captura la distribución de la riqueza ni la calidad de vida. <!-- feedback: Correcto. El PIB puede crecer mientras la desigualdad aumenta y la calidad de vida de la mayoría empeora. -->
 - [ ] B) Es un indicador demasiado preciso que solo usan los economistas. <!-- feedback: Incorrecto. El PIB es un indicador ampliamente utilizado pero con limitaciones reconocidas. -->
 - [ ] C) No incluye el sector agropecuario. <!-- feedback: Incorrecto. El PIB sí incluye el sector agropecuario. -->
@@ -334,12 +341,12 @@ El PIB es un indicador útil pero insuficiente. No refleja la desigualdad (Colom
 **Bloom:** Evaluate
 **ICFES:** Pensamiento reflexivo y sistémico
 
-**Context:** "En Colombia, el precio del dólar pasó de $3.000 COP a $4.500 COP entre 2020 y 2023, una devaluación superior al 50%. Esto afectó los precios de productos importados como alimentos, electrónicos y medicamentos."
+**Contexto:** "En Colombia, el precio del dólar pasó de $3.000 COP a $4.500 COP entre 2020 y 2023, una devaluación superior al 50%. Esto afectó los precios de productos importados como alimentos, electrónicos y medicamentos."
 
 ### Enunciado
 Considerando la información anterior, ¿cuál de las siguientes afirmaciones sobre el efecto de la devaluación en la economía colombiana es la más precisa?
 
-### Options
+### Opciones
 - [ ] A) La devaluación solo afecta a quienes viajan al exterior, no tiene impacto en la economía interna. <!-- feedback: Incorrecto. La devaluación afecta toda la economía porque muchos insumos y productos son importados. -->
 - [ ] B) La devaluación beneficia a todos los colombianos porque las exportaciones se vuelven más baratas. <!-- feedback: Incorrecto. Aunque beneficia a exportadores, perjudica a consumidores de productos importados y a quienes tienen deudas en dólares. -->
 - [x] C) La devaluación tiene efectos mixtos: beneficia a exportadores (café, flores, petróleo) y a quienes reciben remesas del exterior, pero perjudica a consumidores de productos importados, a importadores y a quienes tienen deudas en dólares. <!-- feedback: Correcto. La devaluación es un fenómeno complejo con ganadores y perdedores. Afecta diferencialmente a sectores económicos y grupos sociales en Colombia. -->

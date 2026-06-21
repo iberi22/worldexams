@@ -1,28 +1,32 @@
 ---
-id: "CO-MAT-7-2026-W03-algebra-basica-001-MASTERY"
+id: "CO-MAT-7-2026-W03-algebra-basica-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "matematicas"
 tema: "algebra-basica"
-semana: "W03"
+week: "W03"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Álgebra Básica - Grado 7
 ## Semana W03 — Expresiones algebraicas y operaciones básicas
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-MAT-7-2026-W03-algebra-basica-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de matemáticas del Colegio San José de Bogotá, la profesora explica qué es una expresión algebraica.
+**Contexto:** En la clase de matemáticas del Colegio San José de Bogotá, la profesora explica qué es una expresión algebraica.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Una expresión algebraica es una combinación de constantes (números), variable
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-MAT-7-2026-W03-algebra-basica-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** María está aprendiendo los términos de una expresión algebraica en su colegio de Medellín.
+**Contexto:** María está aprendiendo los términos de una expresión algebraica en su colegio de Medellín.
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -60,11 +64,11 @@ En una expresión algebraica, el coeficiente es el número que multiplica a la v
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-MAT-7-2026-W03-algebra-basica-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Carlos quiere escribir algebraicamente: "el doble de un número aumentado en cinco".
+**Contexto:** Carlos quiere escribir algebraicamente: "el doble de un número aumentado en cinco".
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -81,11 +85,11 @@ Para traducir del lenguaje natural al algebraico: "el doble de un número" = 2x 
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-MAT-7-2026-W03-algebra-basica-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Laura debe simplificar la expresión 5a + 3b − 2a + b en su clase de Cali.
+**Contexto:** Laura debe simplificar la expresión 5a + 3b − 2a + b en su clase de Cali.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -102,11 +106,11 @@ Los términos semejantes son aquellos que tienen las mismas variables con los mi
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-MAT-7-2026-W03-algebra-basica-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Andrés necesita calcular el valor numérico de 3x − 5 cuando x = 7, para un problema en el colegio de Barranquilla.
+**Contexto:** Andrés necesita calcular el valor numérico de 3x − 5 cuando x = 7, para un problema en el colegio de Barranquilla.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -123,11 +127,11 @@ Calcular el valor numérico de una expresión consiste en reemplazar las variabl
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-MAT-7-2026-W03-algebra-basica-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
-**Context:** Santiago tiene una expresión algebraica que representa el área de un rectángulo: largo = (x + 3), ancho = 4. Su profesor en Cartagena le pide que la simplifique.
+**Contexto:** Santiago tiene una expresión algebraica que representa el área de un rectángulo: largo = (x + 3), ancho = 4. Su profesor en Cartagena le pide que la simplifique.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -144,11 +148,11 @@ El área del rectángulo se calcula como largo × ancho = (x + 3) × 4. Usando l
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-MAT-7-2026-W03-algebra-basica-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Valentina debe determinar si 3x + 5 y 5 + 3x son expresiones equivalentes. Discute con su compañera en el colegio de Bucaramanga.
+**Contexto:** Valentina debe determinar si 3x + 5 y 5 + 3x son expresiones equivalentes. Discute con su compañera en el colegio de Bucaramanga.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Dos expresiones son equivalentes si tienen el mismo valor para cualquier valor d
 
 ---
 
-## Pregunta 8 [D6]
+## Question 8 [D6]
 **ID:** `CO-MAT-7-2026-W03-algebra-basica-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Camila está resolviendo: 2(x + 4) − 3(x − 1). Su profesor en Pereira le dice que simplifique.
+**Contexto:** Camila está resolviendo: 2(x + 4) − 3(x − 1). Su profesor en Pereira le dice que simplifique.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -186,11 +190,11 @@ Al simplificar: 2(x + 4) − 3(x − 1). Primero distribuir: 2(x) + 2(4) = 2x + 
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-MAT-7-2026-W03-algebra-basica-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Sebastián trabaja en la tienda de su familia en Ibagué. El precio de un producto es $p y tienen un descuento del 15%.
+**Contexto:** Sebastián trabaja en la tienda de su familia en Ibagué. El precio de un producto es $p y tienen un descuento del 15%.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ Si el precio original es p y hay un 15% de descuento, se paga el 85% del precio 
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-MAT-7-2026-W03-algebra-basica-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Isabella y su amiga discuten: "¿Es lo mismo x² que 2x?" Su profesor en Neiva les pide que lo resuelvan.
+**Contexto:** Isabella y su amiga discuten: "¿Es lo mismo x² que 2x?" Su profesor en Neiva les pide que lo resuelvan.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -228,11 +232,11 @@ x² (x al cuadrado) significa x multiplicado por sí mismo: x · x. 2x significa
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-MAT-7-2026-W03-algebra-basica-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase de álgebra en Sincelejo, la profesora escribe: 3a² + 5a − 2a² + 3a y pide simplificar.
+**Contexto:** En clase de álgebra en Sincelejo, la profesora escribe: 3a² + 5a − 2a² + 3a y pide simplificar.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -249,11 +253,11 @@ Para simplificar, se combinan términos semejantes. Términos con a²: 3a² − 
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-MAT-7-2026-W03-algebra-basica-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Daniel tiene un rectángulo con área (2x² + 6x) y su profesor en Tunja pregunta si puede factorizarse.
+**Contexto:** Daniel tiene un rectángulo con área (2x² + 6x) y su profesor en Tunja pregunta si puede factorizarse.
 **Expected_Success:** 0.42
 
 ### Enunciado

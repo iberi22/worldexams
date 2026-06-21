@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY"
+id: "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 3"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Tipos de lenguaje - Grado 3
 
@@ -22,7 +24,7 @@ Este bundle explora las diferentes formas de lenguaje (verbal, no verbal, señas
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comunicación Escrita
@@ -33,21 +35,20 @@ Este bundle explora las diferentes formas de lenguaje (verbal, no verbal, señas
 ¿A qué tipo de lenguaje pertenecen las palabras escritas en un libro?
 
 ### Opciones
-- [x] A) Lenguaje verbal (escrito)
-  <!-- feedback: ¡Correcto! El lenguaje verbal usa palabras, ya sean habladas o escritas. -->
-- [ ] B) Lenguaje de señas
-  <!-- feedback: No, el lenguaje de señas usa movimientos de manos. -->
-- [ ] C) Lenguaje corporal
-  <!-- feedback: No, el lenguaje corporal usa gestos del cuerpo. -->
-- [ ] D) Lenguaje icónico
-  <!-- feedback: El lenguaje icónico usa dibujos o imágenes. -->
+- [x] A) Lenguaje verbal (escrito) <!-- feedback: Correcto! Lenguaje verbal (escrito) -->
+
+- [ ] B) Lenguaje de señas <!-- feedback: Incorrecto. Lenguaje de señas -->
+
+- [ ] C) Lenguaje corporal <!-- feedback: Incorrecto. Lenguaje corporal -->
+
+- [ ] D) Lenguaje icónico <!-- feedback: Incorrecto. Lenguaje icónico -->
 
 ### Explicación Pedagogica
 El lenguaje verbal es aquel que utiliza signos lingüísticos (palabras) para transmitir mensajes. Puede ser oral o escrito.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Comunicación Escrita
@@ -58,21 +59,20 @@ El lenguaje verbal es aquel que utiliza signos lingüísticos (palabras) para tr
 Cuando nos comunicamos usando solo gestos, posturas y movimientos del cuerpo, estamos usando:
 
 ### Opciones
-- [ ] A) Lenguaje verbal
-  <!-- feedback: No, porque no se usan palabras. -->
-- [x] B) Lenguaje no verbal (corporal)
-  <!-- feedback: ¡Muy bien! Los gestos son parte esencial de la comunicación no verbal. -->
-- [ ] C) Lenguaje matemático
-  <!-- feedback: El lenguaje matemático usa números y símbolos. -->
-- [ ] D) Lenguaje de programación
-  <!-- feedback: Se usa para dar instrucciones a computadoras. -->
+- [ ] A) Lenguaje verbal <!-- feedback: Incorrecto. Lenguaje verbal -->
+
+- [x] B) Lenguaje no verbal (corporal) <!-- feedback: Correcto! Lenguaje no verbal (corporal) -->
+
+- [ ] C) Lenguaje matemático <!-- feedback: Incorrecto. Lenguaje matemático -->
+
+- [ ] D) Lenguaje de programación <!-- feedback: Incorrecto. Lenguaje de programación -->
 
 ### Explicación Pedagogica
 El lenguaje no verbal corporal permite transmitir estados de ánimo y mensajes sin necesidad de emitir sonidos o escribir.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comunicación Escrita
@@ -83,21 +83,20 @@ El lenguaje no verbal corporal permite transmitir estados de ánimo y mensajes s
 ¿Cómo se llama el tipo de lenguaje que utiliza imágenes, dibujos o símbolos para dar un mensaje?
 
 ### Opciones
-- [ ] A) Lenguaje sonoro
-  <!-- feedback: El lenguaje sonoro usa ruidos o música. -->
-- [ ] B) Lenguaje escrito
-  <!-- feedback: El lenguaje escrito usa letras. -->
-- [x] C) Lenguaje icónico
-  <!-- feedback: ¡Excelente! Los íconos o imágenes son la base de este lenguaje. -->
-- [ ] D) Lenguaje de humo
-  <!-- feedback: Era una forma antigua, pero no es la respuesta correcta aquí. -->
+- [ ] A) Lenguaje sonoro <!-- feedback: Incorrecto. Lenguaje sonoro -->
+
+- [ ] B) Lenguaje escrito <!-- feedback: Incorrecto. Lenguaje escrito -->
+
+- [x] C) Lenguaje icónico <!-- feedback: Correcto! Lenguaje icónico -->
+
+- [ ] D) Lenguaje de humo <!-- feedback: Incorrecto. Lenguaje de humo -->
 
 ### Explicación Pedagogica
 El lenguaje icónico es fundamental en la señalización pública, ya que permite que personas de diferentes idiomas entiendan el mismo mensaje.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicación Escrita
@@ -108,21 +107,20 @@ El lenguaje icónico es fundamental en la señalización pública, ya que permit
 ¿Qué tipo de lenguaje predomina en una transmisión radial?
 
 ### Opciones
-- [x] A) Lenguaje verbal oral
-  <!-- feedback: ¡Correcto! El locutor se comunica principalmente a través de la voz. -->
-- [ ] B) Lenguaje visual
-  <!-- feedback: En la radio no podemos ver al locutor, solo escucharlo. -->
-- [ ] C) Lenguaje de señas
-  <!-- feedback: No se puede transmitir por radio tradicional. -->
-- [ ] D) Lenguaje escrito
-  <!-- feedback: Aunque el locutor lea un guion, nosotros escuchamos sonidos. -->
+- [x] A) Lenguaje verbal oral <!-- feedback: Correcto! Lenguaje verbal oral -->
+
+- [ ] B) Lenguaje visual <!-- feedback: Incorrecto. Lenguaje visual -->
+
+- [ ] C) Lenguaje de señas <!-- feedback: Incorrecto. Lenguaje de señas -->
+
+- [ ] D) Lenguaje escrito <!-- feedback: Incorrecto. Lenguaje escrito -->
 
 ### Explicación Pedagogica
 El lenguaje verbal oral se basa en la emisión y recepción de sonidos articulados que forman palabras.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Comunicación Escrita
@@ -133,21 +131,20 @@ El lenguaje verbal oral se basa en la emisión y recepción de sonidos articulad
 Si Carlos no dice ninguna palabra pero mueve su mano para despedirse, ¿qué está ocurriendo?
 
 ### Opciones
-- [ ] A) No hay comunicación porque no habló.
-  <!-- feedback: Sí hay comunicación, el mensaje se entendió. -->
-- [ ] B) Es un lenguaje verbal incompleto.
-  <!-- feedback: No es lenguaje verbal, es otro tipo. -->
-- [x] C) Está usando lenguaje no verbal (gestual) para enviar un mensaje.
-  <!-- feedback: ¡Así es! El movimiento de la mano es un gesto con significado claro. -->
-- [ ] D) Está practicando gimnasia para la mano.
-  <!-- feedback: En este contexto, el movimiento tiene un fin comunicativo. -->
+- [ ] A) No hay comunicación porque no habló. <!-- feedback: Incorrecto. No hay comunicación porque no habló. -->
+
+- [ ] B) Es un lenguaje verbal incompleto. <!-- feedback: Incorrecto. Es un lenguaje verbal incompleto. -->
+
+- [x] C) Está usando lenguaje no verbal (gestual) para enviar un mensaje. <!-- feedback: Correcto! Está usando lenguaje no verbal (gestual) para enviar un mens -->
+
+- [ ] D) Está practicando gimnasia para la mano. <!-- feedback: Incorrecto. Está practicando gimnasia para la mano. -->
 
 ### Explicación Pedagogica
 Muchos gestos cotidianos sustituyen frases completas del lenguaje verbal, facilitando la comunicación rápida.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comunicación Escrita
@@ -158,21 +155,20 @@ Muchos gestos cotidianos sustituyen frases completas del lenguaje verbal, facili
 ¿Para qué sirve el recuadro con la persona que usa lenguaje de señas en el noticiero?
 
 ### Opciones
-- [ ] A) Para que el noticiero se vea más moderno.
-  <!-- feedback: Es una función de inclusión, no solo estética. -->
-- [x] B) Para que las personas con discapacidad auditiva puedan entender las noticias.
-  <!-- feedback: ¡Exacto! Es el Lenguaje de Señas Colombiano (LSC). -->
-- [ ] C) Para enseñar a los niños a bailar con las manos.
-  <!-- feedback: No es un baile, es un idioma con reglas propias. -->
-- [ ] D) Para traducir las noticias a otro idioma como el inglés.
-  <!-- feedback: Es una traducción, pero para la comunidad sorda. -->
+- [ ] A) Para que el noticiero se vea más moderno. <!-- feedback: Incorrecto. Para que el noticiero se vea más moderno -->
+
+- [x] B) Para que las personas con discapacidad auditiva puedan entender las noticias. <!-- feedback: Correcto! Para que las personas con discapacidad auditiva puedan enten -->
+
+- [ ] C) Para enseñar a los niños a bailar con las manos. <!-- feedback: Incorrecto. Para enseñar a los niños a bailar con la -->
+
+- [ ] D) Para traducir las noticias a otro idioma como el inglés. <!-- feedback: Incorrecto. Para traducir las noticias a otro idioma -->
 
 ### Explicación Pedagogica
 El lenguaje de señas es una lengua natural con estructura gramatical propia, vital para la inclusión de la comunidad sorda.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Comunicación Escrita
@@ -183,21 +179,20 @@ El lenguaje de señas es una lengua natural con estructura gramatical propia, vi
 ¿Qué tipo de lenguaje está usando la película para decirte que algo emocionante va a pasar?
 
 ### Opciones
-- [ ] A) Lenguaje icónico.
-  <!-- feedback: No es una imagen, es un sonido. -->
-- [ ] B) Lenguaje escrito.
-  <!-- feedback: No son letras. -->
-- [x] C) Lenguaje sonoro (no verbal).
-  <!-- feedback: ¡Muy bien! La música y los efectos de sonido comunican emociones. -->
-- [ ] D) Lenguaje químico.
-  <!-- feedback: No es el caso en una película común. -->
+- [ ] A) Lenguaje icónico. <!-- feedback: Incorrecto. Lenguaje icónico. -->
+
+- [ ] B) Lenguaje escrito. <!-- feedback: Incorrecto. Lenguaje escrito. -->
+
+- [x] C) Lenguaje sonoro (no verbal). <!-- feedback: Correcto! Lenguaje sonoro (no verbal). -->
+
+- [ ] D) Lenguaje químico. <!-- feedback: Incorrecto. Lenguaje químico. -->
 
 ### Explicación Pedagogica
 El lenguaje sonoro utiliza el ritmo, la intensidad y el tono para transmitir sensaciones y mensajes sin palabras.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Comunicación Escrita
@@ -208,21 +203,20 @@ El lenguaje sonoro utiliza el ritmo, la intensidad y el tono para transmitir sen
 En una infografía que mezcla dibujos, flechas y textos cortos, ¿qué tipos de lenguaje se están combinando?
 
 ### Opciones
-- [ ] A) Solo lenguaje escrito.
-  <!-- feedback: Hay dibujos y flechas también. -->
-- [ ] B) Solo lenguaje icónico.
-  <!-- feedback: Hay palabras también. -->
-- [x] C) Lenguaje verbal (escrito) e icónico.
-  <!-- feedback: ¡Excelente! La mezcla de ambos hace que la información sea más clara. -->
-- [ ] D) Lenguaje oral y corporal.
-  <!-- feedback: El libro no habla ni se mueve solo. -->
+- [ ] A) Solo lenguaje escrito. <!-- feedback: Incorrecto. Solo lenguaje escrito. -->
+
+- [ ] B) Solo lenguaje icónico. <!-- feedback: Incorrecto. Solo lenguaje icónico. -->
+
+- [x] C) Lenguaje verbal (escrito) e icónico. <!-- feedback: Correcto! Lenguaje verbal (escrito) e icónico. -->
+
+- [ ] D) Lenguaje oral y corporal. <!-- feedback: Incorrecto. Lenguaje oral y corporal. -->
 
 ### Explicación Pedagogica
 Los textos multimodales, como las infografías, aprovechan diferentes tipos de lenguaje para mejorar la comprensión.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Comunicación Escrita
@@ -233,21 +227,20 @@ Los textos multimodales, como las infografías, aprovechan diferentes tipos de l
 ¿Por qué este código de luces se considera una forma de lenguaje?
 
 ### Opciones
-- [ ] A) Porque usan espejos caros.
-  <!-- feedback: El costo de los objetos no define si es lenguaje. -->
-- [x] B) Porque han asignado un significado a las señales de luz para entenderse.
-  <!-- feedback: ¡Correcto! Un lenguaje requiere un sistema de signos con significados compartidos. -->
-- [ ] C) Porque el sol brilla mucho en Colombia.
-  <!-- feedback: El clima ayuda pero no es la razón de que sea un lenguaje. -->
-- [ ] D) No es lenguaje, es solo un juego de luces.
-  <!-- feedback: Cualquier sistema de signos creado para comunicar es una forma de lenguaje. -->
+- [ ] A) Porque usan espejos caros. <!-- feedback: Incorrecto. Porque usan espejos caros. -->
+
+- [x] B) Porque han asignado un significado a las señales de luz para entenderse. <!-- feedback: Correcto! Porque han asignado un significado a las señales de luz para -->
+
+- [ ] C) Porque el sol brilla mucho en Colombia. <!-- feedback: Incorrecto. Porque el sol brilla mucho en Colombia. -->
+
+- [ ] D) No es lenguaje, es solo un juego de luces. <!-- feedback: Incorrecto. No es lenguaje, es solo un juego de luce -->
 
 ### Explicación Pedagogica
 El lenguaje es un sistema de comunicación que requiere un código (las luces) y un acuerdo sobre su significado.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Comunicación Escrita
@@ -258,14 +251,13 @@ El lenguaje es un sistema de comunicación que requiere un código (las luces) y
 ¿Cuál sería la forma más efectiva de usar el lenguaje no verbal para este mensaje?
 
 ### Opciones
-- [ ] A) Escribir "Silencio" en una hoja muy pequeña.
-  <!-- feedback: Esto sería lenguaje verbal escrito y difícil de ver. -->
-- [x] B) Poner el dedo índice sobre los labios cerrados.
-  <!-- feedback: ¡Muy bien! Es un gesto universal de lenguaje no verbal gestual. -->
-- [ ] C) Gritar "¡Hagan silencio!" muy fuerte.
-  <!-- feedback: Esto sería lenguaje verbal oral, lo contrario a lo pedido. -->
-- [ ] D) Cerrar los ojos y esperar.
-  <!-- feedback: Podría confundirse con que tienes sueño. -->
+- [ ] A) Escribir "Silencio" en una hoja muy pequeña. <!-- feedback: Incorrecto. Escribir "Silencio" en una hoja muy pequ -->
+
+- [x] B) Poner el dedo índice sobre los labios cerrados. <!-- feedback: Correcto! Poner el dedo índice sobre los labios cerrados. -->
+
+- [ ] C) Gritar "¡Hagan silencio!" muy fuerte. <!-- feedback: Incorrecto. Gritar "¡Hagan silencio!" muy fuerte. -->
+
+- [ ] D) Cerrar los ojos y esperar. <!-- feedback: Incorrecto. Cerrar los ojos y esperar. -->
 
 ### Explicación Pedagogica
 Elegir el tipo de lenguaje adecuado depende del contexto y del objetivo que queramos lograr en la comunicación.

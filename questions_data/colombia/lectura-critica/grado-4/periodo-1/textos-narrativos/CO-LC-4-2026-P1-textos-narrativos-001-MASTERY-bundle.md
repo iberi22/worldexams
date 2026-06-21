@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-4-2026-P1-textos-narrativos-001-MASTERY"
+id: "CO-LC-4-2026-P1-textos-narrativos-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Dimensión textual, Dimensión inferencial"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica: El Secreto del Frailejón
 
@@ -27,14 +34,15 @@ rubric_baseline: "Dimensión textual, Dimensión inferencial"
 ## Question 1 [D3]
 
 **ID:** `CO-LC-4-2026-P1-textos-narrativos-001-MASTERY-v1`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Identificación de contenidos locales]
-**Context:** Lectura del cuento "El Secreto del Frailejón".
+**Contexto:** Lectura del cuento "El Secreto del Frailejón".
 
 ### Enunciado
 ¿En qué lugar se desarrolla la historia de Ernesto y Pelusa?
 
-### Options
+### Opciones
 - [ ] A) En una selva tropical calurosa. <!-- feedback: Incorrect. El texto menciona el "Páramo de Ocetá" y que la coneja tenía frío, lo cual no coincide con una selva calurosa. -->
 - [ ] B) En un desierto lleno de arena. <!-- feedback: Incorrect. En el desierto no viven frailejones ni hay neblina constante como se describe en la narración. -->
 - [x] C) En lo alto de un páramo. <!-- feedback: Correct. El texto inicia diciendo "En lo alto del Páramo de Ocetá", que es el escenario geográfico de la historia. -->
@@ -48,14 +56,15 @@ Se evalúa la capacidad de identificar el escenario o lugar de la acción en un 
 ## Question 2 [D3]
 
 **ID:** `CO-LC-4-2026-P1-textos-narrativos-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Identificación de contenidos locales]
-**Context:** Los personajes del cuento.
+**Contexto:** Los personajes del cuento.
 
 ### Enunciado
 ¿Cómo se describe físicamente al frailejón Ernesto en la lectura?
 
-### Options
+### Opciones
 - [ ] A) Como un árbol joven con flores rojas. <!-- feedback: Incorrect. El texto dice que es un frailejón "muy anciano" y no menciona flores rojas. -->
 - [x] B) Con una corona de hojas plateadas. <!-- feedback: Correct. La lectura menciona explícitamente que Ernesto tiene una "corona de hojas plateadas que brillaban con la neblina". -->
 - [ ] C) Como un arbusto pequeño y seco. <!-- feedback: Incorrect. Aunque es anciano, se describe como alguien que brilla y da abrigo, no como un ser seco o pequeño. -->
@@ -69,14 +78,15 @@ Se evalúa la recuperación de información específica sobre las característic
 ## Question 3 [D4]
 
 **ID:** `CO-LC-4-2026-P1-textos-narrativos-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Comprensión del sentido global]
-**Context:** El conflicto de la historia.
+**Contexto:** El conflicto de la historia.
 
 ### Enunciado
 ¿Cuál es el problema principal que enfrenta la coneja Pelusa al inicio del relato?
 
-### Options
+### Opciones
 - [ ] A) Que se había perdido en la montaña. <!-- feedback: Incorrect. El texto no dice que esté perdida, sino que se acerca a Ernesto por una razón física específica. -->
 - [x] B) Que tenía mucho frío y tiritaba. <!-- feedback: Correct. El texto menciona que Pelusa se acercó "tiritando de frío", lo que motiva su interacción con el frailejón. -->
 - [ ] C) Que tenía mucha sed y buscaba agua. <!-- feedback: Incorrect. Aunque los frailejones dan agua, la necesidad inmediata de Pelusa descrita en el cuento es el calor. -->
@@ -90,14 +100,15 @@ Se evalúa la identificación del conflicto inicial o necesidad del personaje. L
 ## Question 4 [D4]
 
 **ID:** `CO-LC-4-2026-P1-textos-narrativos-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Reflexión sobre el contenido]
-**Context:** La enseñanza o moraleja del cuento.
+**Contexto:** La enseñanza o moraleja del cuento.
 
 ### Enunciado
 ¿Qué "secreto" le revela Ernesto a Pelusa sobre los frailejones?
 
-### Options
+### Opciones
 - [ ] A) Que pueden hablar con los humanos. <!-- feedback: Incorrect. Aunque Ernesto habla con Pelusa, el texto no dice que ese sea su secreto o función especial. -->
 - [ ] B) Que tienen monedas de oro en sus raíces. <!-- feedback: Incorrect. Es una idea de cuento fantástico que no aparece en ninguna parte de la lectura proporcionada. -->
 - [x] C) Que guardan el calor del sol para la noche. <!-- feedback: Correct. Ernesto dice: "Yo guardo el calor del sol durante el día para entregarlo en la noche", revelando una función poco conocida de su especie. -->
@@ -111,14 +122,15 @@ Se evalúa la comprensión de los diálogos y las ideas centrales del relato. La
 ## Question 5 [D4]
 
 **ID:** `CO-LC-4-2026-P1-textos-narrativos-001-MASTERY-v5`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Dimensión inferencial]
-**Context:** El significado de las acciones de los personajes.
+**Contexto:** El significado de las acciones de los personajes.
 
 ### Enunciado
 ¿Por qué Pelusa le hace una promesa a Ernesto al final de la historia?
 
-### Options
+### Opciones
 - [ ] A) Porque Ernesto se lo exigió a cambio del abrigo. <!-- feedback: Incorrect. Ernesto ofreció ayuda generosamente, no pidió nada a cambio de forma obligatoria. -->
 - [ ] B) Porque tenía miedo de que el frailejón se enojara. <!-- feedback: Incorrect. La relación descrita es de amabilidad y protección, no de miedo. -->
 - [x] C) Porque se siente agradecida por la ayuda recibida. <!-- feedback: Correct. La promesa de contar a los demás lo bueno que es el frailejón nace del agradecimiento por haber sido protegida del frío. -->
@@ -132,14 +144,15 @@ Se evalúa la capacidad de inferir las motivaciones de los personajes. La respue
 ## Question 6 [D5]
 
 **ID:** `CO-LC-4-2026-P1-textos-narrativos-001-MASTERY-v6`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Dimensión inferencial]
-**Context:** El lenguaje figurado en el texto.
+**Contexto:** El lenguaje figurado en el texto.
 
 ### Enunciado
 El texto dice que la voz de Ernesto "parecía el susurro del viento". ¿Qué quiere decir el autor con esta comparación?
 
-### Options
+### Opciones
 - [ ] A) Que Ernesto hablaba muy fuerte y gritaba. <!-- feedback: Incorrect. Un susurro es un sonido suave, lo opuesto a un grito fuerte. -->
 - [x] B) Que Ernesto hablaba con una voz muy suave y delicada. <!-- feedback: Correct. La comparación con el susurro del viento sugiere una voz tenue, tranquila y propia de la naturaleza. -->
 - [ ] C) Que Ernesto no podía hablar y solo hacía ruidos. <!-- feedback: Incorrect. El texto muestra que Ernesto dice frases completas y claras, solo que su tono es suave. -->
@@ -153,14 +166,15 @@ Se evalúa la interpretación de figuras retóricas como el símil o comparació
 ## Question 7 [D5]
 
 **ID:** `CO-LC-4-2026-P1-textos-narrativos-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Comprensión del sentido global]
-**Context:** Estructura de la narración.
+**Contexto:** Estructura de la narración.
 
 ### Enunciado
 Si dividimos el cuento en tres partes (Inicio, Nudo y Desenlace), ¿qué sucede en el **Nudo** o conflicto del relato?
 
-### Options
+### Opciones
 - [ ] A) Ernesto vive tranquilamente en el Páramo de Ocetá. <!-- feedback: Incorrect. Esto corresponde al inicio, donde se presenta el personaje y el lugar. -->
 - [x] B) Pelusa llega con mucho frío y Ernesto le ofrece refugio bajo sus hojas. <!-- feedback: Correct. El nudo es el encuentro de los personajes y la resolución de la necesidad (el frío de la coneja). -->
 - [ ] C) Pelusa promete contar el secreto de los frailejones a todos. <!-- feedback: Incorrect. Esto sucede al final como conclusión de la historia (desenlace). -->
@@ -174,14 +188,15 @@ Se evalúa el conocimiento de la estructura narrativa. La respuesta correcta ide
 ## Question 8 [D4]
 
 **ID:** `CO-LC-4-2026-P1-textos-narrativos-001-MASTERY-v8`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Identificación de contenidos locales]
-**Context:** Vocabulario en contexto.
+**Contexto:** Vocabulario en contexto.
 
 ### Enunciado
 En la frase "Pelusa se **acurrucó**", ¿cuál de las siguientes palabras significa lo mismo que la palabra resaltada?
 
-### Options
+### Opciones
 - [ ] A) Se alejó <!-- feedback: Incorrect. Acurrucarse implica cercanía y encogimiento, alejarse es lo contrario. -->
 - [ ] B) Se estiró <!-- feedback: Incorrect. Estirarse es extender el cuerpo, mientras que acurrucarse es encogerlo para buscar calor o comodidad. -->
 - [x] C) Se encogió <!-- feedback: Correct. Acurrucarse significa encogerse o doblarse para resguardarse, generalmente para sentir calor o protección. -->
@@ -195,14 +210,15 @@ Se evalúa el conocimiento de sinónimos en contexto. La respuesta correcta iden
 ## Question 9 [D5]
 
 **ID:** `CO-LC-4-2026-P1-textos-narrativos-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Reflexión sobre el contenido]
-**Context:** Intención del autor.
+**Contexto:** Intención del autor.
 
 ### Enunciado
 ¿Cuál es la intención principal del autor al escribir este cuento sobre un frailejón y una coneja?
 
-### Options
+### Opciones
 - [ ] A) Enseñarnos a cazar conejos en las montañas. <!-- feedback: Incorrect. El cuento promueve el cuidado y la protección entre seres, no la caza. -->
 - [x] B) Resaltar la importancia y la bondad de la naturaleza (frailejones). <!-- feedback: Correct. Al darle voz y sentimientos al frailejón, el autor busca que el lector aprecie esta planta típica de Colombia. -->
 - [ ] C) Explicar científicamente cómo funciona el clima del páramo. <!-- feedback: Incorrect. Aunque menciona el clima, lo hace de forma literaria y no mediante datos científicos o explicaciones técnicas. -->
@@ -216,14 +232,15 @@ Se evalúa la identificación del propósito comunicativo de un texto literario.
 ## Question 10 [D5]
 
 **ID:** `CO-LC-4-2026-P1-textos-narrativos-001-MASTERY-v10`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Dimensión inferencial]
-**Context:** Relación entre el texto y la realidad.
+**Contexto:** Relación entre el texto y la realidad.
 
 ### Enunciado
 Basándote en el texto, ¿qué característica de los frailejones es real y se menciona de forma poética?
 
-### Options
+### Opciones
 - [x] A) Que son plantas fundamentales para el ecosistema del páramo. <!-- feedback: Correct. El texto menciona que dan agua y abrigo, lo cual refleja su papel vital en la regulación hídrica y como refugio en la vida real. -->
 - [ ] B) Que tienen sentimientos y pueden hablar con los animales. <!-- feedback: Incorrect. Esta es una característica fantástica del cuento, no es una realidad científica de las plantas. -->
 - [ ] C) Que sus hojas son de metal plateado de verdad. <!-- feedback: Incorrect. Sus hojas tienen vellosidades que parecen plateadas, pero no son de metal. Es una descripción visual, no material. -->

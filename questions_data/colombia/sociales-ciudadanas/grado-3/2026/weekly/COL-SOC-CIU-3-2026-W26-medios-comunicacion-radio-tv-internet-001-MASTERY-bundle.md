@@ -1,10 +1,10 @@
 ---
-id: "COL-SOC-CIU-3-2026-W26-medios-comunicacion-radio-tv-internet-001-MASTERY"
+id: "COL-SOC-CIU-3-2026-W26-medios-comunicacion-radio-tv-internet-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "sociales-ciudadanas"
 tema: "medios-comunicacion-radio-tv-internet"
-semana: "W26"
+week: "W26"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 8
@@ -19,25 +19,31 @@ rubric_baseline: "medios_comunicacion, radio, television, internet, comunicacion
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Medios de Comunicacion: Radio, TV e Internet
 
 Este bundle cubre los medios de comunicacion masiva en Colombia.
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 
 **ID:** `COL-SOC-CIU-3-2026-W26-medios-comunicacion-radio-tv-internet-001-MASTERY-v1`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento social
 **Expected_Success:** 0.86
-**Context:** I.E. San Felipe, Bogota. Medios comunicacion.
+**Contexto:** I.E. San Felipe, Bogota. Medios comunicacion.
 
 ### Enunciado
 Cual es un medio de comunicacion masiva?
 
 ### Opciones
-- [x] A) Radio, television e internet.
+- [x] A) Radio, television e internet. <!-- feedback: Correcto! Radio, television e internet. -->
 - [ ] B) B) El telefono fijo. <!-- feedback: Es comunicacion interpersonal. -->
 - [ ] C) C) El carro. <!-- feedback: Es transporte. -->
 - [ ] D) D) La bicicleta. <!-- feedback: Es transporte. -->
@@ -45,19 +51,20 @@ Cual es un medio de comunicacion masiva?
 ### Explicacion Pedagogica
 Los medios de comunicacion masiva transmiten informacion a muchas personas al mismo tiempo.
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `COL-SOC-CIU-3-2026-W26-medios-comunicacion-radio-tv-internet-001-MASTERY-v2`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento social
 **Expected_Success:** 0.84
-**Context:** I.E. Los Andes, Pasto. Radio.
+**Contexto:** I.E. Los Andes, Pasto. Radio.
 
 ### Enunciado
 Que transmite la radio?
 
 ### Opciones
-- [x] A) Musica, noticias, programas educativos y entretenimiento.
+- [x] A) Musica, noticias, programas educativos y entretenimiento. <!-- feedback: Correcto! Musica, noticias, programas educativos y entretenimiento. -->
 - [ ] B) B) Solo musica. <!-- feedback: Tambien noticias y educacion. -->
 - [ ] C) C) Solo publicidad. <!-- feedback: Mucho mas. -->
 - [ ] D) D) Solo deportes. <!-- feedback: Variedad de contenido. -->
@@ -65,19 +72,20 @@ Que transmite la radio?
 ### Explicacion Pedagogica
 La radio ofrece musica, noticias, programas educativos, culturales y de entretenimiento.
 
-## Pregunta 3 [D2]
+## Question 3 [D2]
 
 **ID:** `COL-SOC-CIU-3-2026-W26-medios-comunicacion-radio-tv-internet-001-MASTERY-v3`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Interpretacion y analisis de perspectivas
 **Expected_Success:** 0.76
-**Context:** I.E. INEM, Medellin. Television.
+**Contexto:** I.E. INEM, Medellin. Television.
 
 ### Enunciado
 Por que la television es importante?
 
 ### Opciones
-- [x] A) Porque informa, entretiene y educa a traves de imagenes y sonido.
+- [x] A) Porque informa, entretiene y educa a traves de imagenes y sonido. <!-- feedback: Correcto! Porque informa, entretiene y educa a traves de imagenes y so -->
 - [ ] B) B) Solo entretiene. <!-- feedback: Tambien informa y educa. -->
 - [ ] C) C) No es importante. <!-- feedback: Si es importante. -->
 - [ ] D) D) Solo para adultos. <!-- feedback: Para todos. -->
@@ -85,19 +93,20 @@ Por que la television es importante?
 ### Explicacion Pedagogica
 La television combina imagen y sonido para informar, entretener y educar.
 
-## Pregunta 4 [D2]
+## Question 4 [D2]
 
 **ID:** `COL-SOC-CIU-3-2026-W26-medios-comunicacion-radio-tv-internet-001-MASTERY-v4`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Interpretacion y analisis de perspectivas
 **Expected_Success:** 0.73
-**Context:** I.E. Fe y Alegria, Cali. Internet.
+**Contexto:** I.E. Fe y Alegria, Cali. Internet.
 
 ### Enunciado
 Que permite hacer el internet?
 
 ### Opciones
-- [x] A) Buscar informacion, comunicarse con personas lejanas y ver videos educativos.
+- [x] A) Buscar informacion, comunicarse con personas lejanas y ver videos educativos. <!-- feedback: Correcto! Buscar informacion, comunicarse con personas lejanas y ver v -->
 - [ ] B) B) Solo jugar. <!-- feedback: Tiene muchos usos. -->
 - [ ] C) C) Solo ver redes sociales. <!-- feedback: Mas usos. -->
 - [ ] D) D) Solo para adultos. <!-- feedback: Todos lo usan. -->
@@ -105,19 +114,20 @@ Que permite hacer el internet?
 ### Explicacion Pedagogica
 El internet es una herramienta que permite aprender, comunicarse y entretenerse.
 
-## Pregunta 5 [D3]
+## Question 5 [D3]
 
 **ID:** `COL-SOC-CIU-3-2026-W26-medios-comunicacion-radio-tv-internet-001-MASTERY-v5`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistemico
 **Expected_Success:** 0.65
-**Context:** I.E. Tecnico, Ibague. Aplicacion.
+**Contexto:** I.E. Tecnico, Ibague. Aplicacion.
 
 ### Enunciado
 Andrea escucha las noticias en la radio mientras desayuna. Que medio usa?
 
 ### Opciones
-- [x] A) La radio como medio de comunicacion.
+- [x] A) La radio como medio de comunicacion. <!-- feedback: Correcto! La radio como medio de comunicacion. -->
 - [ ] B) B) Television. <!-- feedback: No esta viendo, escucha. -->
 - [ ] C) C) Internet. <!-- feedback: No menciona internet. -->
 - [ ] D) D) Periodico. <!-- feedback: No esta leyendo. -->
@@ -125,19 +135,20 @@ Andrea escucha las noticias en la radio mientras desayuna. Que medio usa?
 ### Explicacion Pedagogica
 La radio es un medio auditivo que permite informarse mientras se realizan otras actividades.
 
-## Pregunta 6 [D3]
+## Question 6 [D3]
 
 **ID:** `COL-SOC-CIU-3-2026-W26-medios-comunicacion-radio-tv-internet-001-MASTERY-v6`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistemico
 **Expected_Success:** 0.62
-**Context:** I.E. Simon Bolivar, Sincelejo. Aplicacion.
+**Contexto:** I.E. Simon Bolivar, Sincelejo. Aplicacion.
 
 ### Enunciado
 Para hacer una tarea escolar, Juan busca informacion en su computador. Que medio usa?
 
 ### Opciones
-- [x] A) Internet, para buscar informacion educativa.
+- [x] A) Internet, para buscar informacion educativa. <!-- feedback: Correcto! Internet, para buscar informacion educativa. -->
 - [ ] B) B) Radio. <!-- feedback: No es lo mas practico. -->
 - [ ] C) C) Television. <!-- feedback: No es interactiva. -->
 - [ ] D) D) Carta. <!-- feedback: Es muy lento. -->
@@ -145,19 +156,20 @@ Para hacer una tarea escolar, Juan busca informacion en su computador. Que medio
 ### Explicacion Pedagogica
 Internet permite acceder rapidamente a informacion para tareas escolares.
 
-## Pregunta 7 [D4]
+## Question 7 [D4]
 
 **ID:** `COL-SOC-CIU-3-2026-W26-medios-comunicacion-radio-tv-internet-001-MASTERY-v7`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **ICFES category:** Razonamiento y Argumentacion
 **Expected_Success:** 0.48
-**Context:** I.E. Manuelita, Neiva. Analisis.
+**Contexto:** I.E. Manuelita, Neiva. Analisis.
 
 ### Enunciado
 Por que los medios de comunicacion son importantes?
 
 ### Opciones
-- [x] A) Porque mantienen informada a la sociedad y permiten la comunicacion masiva.
+- [x] A) Porque mantienen informada a la sociedad y permiten la comunicacion masiva. <!-- feedback: Correcto! Porque mantienen informada a la sociedad y permiten la comun -->
 - [ ] B) B) No son importantes. <!-- feedback: Si lo son. -->
 - [ ] C) C) Solo para entretenerse. <!-- feedback: Tambien informan y educan. -->
 - [ ] D) D) Solo para los periodistas. <!-- feedback: Para todos. -->
@@ -165,19 +177,20 @@ Por que los medios de comunicacion son importantes?
 ### Explicacion Pedagogica
 Los medios de comunicacion son esenciales para una sociedad informada.
 
-## Pregunta 8 [D5]
+## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-3-2026-W26-medios-comunicacion-radio-tv-internet-001-MASTERY-v8`
 **Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistemico
 **Expected_Success:** 0.40
-**Context:** I.E. San Jose, Palmira. Evaluacion.
+**Contexto:** I.E. San Jose, Palmira. Evaluacion.
 
 ### Enunciado
 "El internet es solo para jugar y perder el tiempo." Es correcto?
 
 ### Opciones
-- [x] A) No, el internet es una herramienta educativa y de comunicacion muy valiosa.
+- [x] A) No, el internet es una herramienta educativa y de comunicacion muy valiosa. <!-- feedback: Correcto! No, el internet es una herramienta educativa y de comunicaci -->
 - [ ] B) B) Si, solo para eso sirve. <!-- feedback: Tiene muchos usos educativos. -->
 - [ ] C) C) Solo los adultos lo usan bien. <!-- feedback: Todos pueden usarlo bien. -->
 - [ ] D) D) No sirve para estudiar. <!-- feedback: Si sirve. -->

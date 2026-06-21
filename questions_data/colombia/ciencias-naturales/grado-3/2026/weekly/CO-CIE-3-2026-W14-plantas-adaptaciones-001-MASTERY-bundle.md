@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY"
+id: "CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "plantas-adaptaciones"
-semana: "W14"
+week: "W14"
 periodo: 2
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Adaptaciones de las plantas al medio: desierto, selva húmeda 
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Adaptaciones de las Plantas
 
 Este bundle explora cómo las plantas han cambiado sus cuerpos a lo largo de miles de años para sobrevivir en lugares muy diferentes, desde desiertos secos hasta ríos caudalosos.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la Guajira, el sol es muy fuerte y casi no llueve en todo el año. Los cactus viven felices allí.
+**Contexto:** En la Guajira, el sol es muy fuerte y casi no llueve en todo el año. Los cactus viven felices allí.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ Las adaptaciones son cambios de supervivencia. En el desierto, el agua es un tes
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** En los ríos de la Amazonía colombiana, la Victoria Regia es una planta con hojas circulares enormes que flotan sobre el agua.
+**Contexto:** En los ríos de la Amazonía colombiana, la Victoria Regia es una planta con hojas circulares enormes que flotan sobre el agua.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -73,12 +77,12 @@ Las plantas acuáticas tienen adaptaciones de flotabilidad. Sus tejidos son espo
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la selva del Chocó llueve casi todos los días y hay muchísima humedad.
+**Contexto:** En la selva del Chocó llueve casi todos los días y hay muchísima humedad.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ En la selva, el problema no es la falta de agua, sino el exceso. Las plantas han
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Los frailejones del páramo tienen hojas cubiertas de unos pelitos blancos y muy finos, como si tuvieran una chaqueta de algodón.
+**Contexto:** Los frailejones del páramo tienen hojas cubiertas de unos pelitos blancos y muy finos, como si tuvieran una chaqueta de algodón.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -123,12 +127,12 @@ El páramo es un desierto frío. Los pelitos del frailejón son una adaptación 
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un árbol gigante de la selva tiene raíces que no solo están bajo tierra, sino que salen hacia los lados como paredes fuertes llamadas "bambas".
+**Contexto:** Un árbol gigante de la selva tiene raíces que no solo están bajo tierra, sino que salen hacia los lados como paredes fuertes llamadas "bambas".
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -148,12 +152,12 @@ Imagina que el árbol es una torre muy alta en un suelo que parece gelatina. Las
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Las orquídeas y los bromelias viven encima de las ramas de los árboles muy altos, pero no les roban alimento, solo usan el espacio.
+**Contexto:** Las orquídeas y los bromelias viven encima de las ramas de los árboles muy altos, pero no les roban alimento, solo usan el espacio.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -173,12 +177,12 @@ Estas plantas se llaman epífitas. Su adaptación es la ubicación espacial. Al 
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En los manglares de la costa, el agua es salada y tiene poco oxígeno. Los árboles tienen raíces que salen del agua hacia arriba, como pitillos.
+**Contexto:** En los manglares de la costa, el agua es salada y tiene poco oxígeno. Los árboles tienen raíces que salen del agua hacia arriba, como pitillos.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -198,12 +202,12 @@ El manglar es un ambiente extremo. Sus raíces respiratorias demuestran que las 
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Tienes una planta de desierto (cactus) y una de selva (helecho). Las intercambias de lugar: pones el cactus en la sombra húmeda y el helecho al sol del desierto.
+**Contexto:** Tienes una planta de desierto (cactus) y una de selva (helecho). Las intercambias de lugar: pones el cactus en la sombra húmeda y el helecho al sol del desierto.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -223,12 +227,12 @@ Este experimento mental nos enseña que las plantas están "diseñadas" para un 
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En los bosques secos, los árboles pierden todas sus hojas en la época de verano y parecen estar muertos, pero cuando llueve, se ponen verdes en pocos días.
+**Contexto:** En los bosques secos, los árboles pierden todas sus hojas en la época de verano y parecen estar muertos, pero cuando llueve, se ponen verdes en pocos días.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -248,12 +252,12 @@ Esto se llama caducifoliedad. Es como si el árbol entrara en una siesta profund
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W14-plantas-adaptaciones-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una persona dice: "Si una planta no se adapta rápido a la contaminación de la ciudad, es que no quiere vivir".
+**Contexto:** Una persona dice: "Si una planta no se adapta rápido a la contaminación de la ciudad, es que no quiere vivir".
 **Expected_Success:** 0.50
 
 ### Enunciado

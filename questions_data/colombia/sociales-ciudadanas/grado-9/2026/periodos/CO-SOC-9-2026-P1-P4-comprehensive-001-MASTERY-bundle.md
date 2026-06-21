@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-9-2026-P1-P4-comprehensive-001-MASTERY"
+id: "CO-SOC-9-2026-P1-P4-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 9
 asignatura: "sociales-ciudadanas"
@@ -24,7 +24,12 @@ coverage:
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Sociales y Ciudadanas Grado 9 — Periodos 1–4
 
@@ -36,13 +41,14 @@ Este bundle integral cubre los cuatro periodos de grado 9 en sociales: geografí
 
 **ID:** `CO-SOC-9-2026-P1-P4-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En la clase de sociales del colegio INEM de Bucaramanga, los estudiantes estudian la organización territorial de Colombia.
+**Contexto:** En la clase de sociales del colegio INEM de Bucaramanga, los estudiantes estudian la organización territorial de Colombia.
 
 ### Enunciado
 ¿Cuántos departamentos tiene actualmente Colombia y cómo se organiza el territorio?
 
-### Options
+### Opciones
 - [ ] A) 30 departamentos y 5 distritos especiales <!-- feedback: Incorrect. Colombia no tiene 30 departamentos. El número es mayor. -->
 - [x] B) 32 departamentos y un Distrito Capital (Bogotá) <!-- feedback: Correct. Colombia se divide en 32 departamentos y el Distrito Capital de Bogotá, más los distritos especiales. -->
 - [ ] C) 33 departamentos y 2 distritos capitales <!-- feedback: Incorrect. Colombia tiene 32 departamentos, no 33. Bogotá es el único Distrito Capital. -->
@@ -57,13 +63,14 @@ La organización territorial de Colombia incluye 32 departamentos, el Distrito C
 
 **ID:** `CO-SOC-9-2026-P1-P4-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En clase de sociales en Cali, los estudiantes aprenden sobre la estructura del Estado colombiano.
+**Contexto:** En clase de sociales en Cali, los estudiantes aprenden sobre la estructura del Estado colombiano.
 
 ### Enunciado
 ¿Cuáles son las tres ramas del poder público en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Ejecutiva, Judicial y Electoral <!-- feedback: Incorrect. La Rama Electoral no existe como rama independiente; es parte de la organización electoral junto con la Registraduría. -->
 - [ ] B) Legislativa, Ejecutiva y Militar <!-- feedback: Incorrect. El poder militar no es una rama independiente; depende de la Rama Ejecutiva. -->
 - [x] C) Ejecutiva, Legislativa y Judicial <!-- feedback: Correct. Artículo 113 de la Constitución: las ramas del poder público son Ejecutiva (Gobierno), Legislativa (Congreso) y Judicial (Jueces y Cortes). -->
@@ -78,13 +85,14 @@ La separación de poderes es fundamental para la democracia. La Rama Ejecutiva e
 
 **ID:** `CO-SOC-9-2026-P1-P4-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Un estudiante en Bogotá pregunta por qué Colombia se llama "República" y no "Monarquía".
+**Contexto:** Un estudiante en Bogotá pregunta por qué Colombia se llama "República" y no "Monarquía".
 
 ### Enunciado
 ¿Cuál de las siguientes características define a Colombia como una República?
 
-### Options
+### Opciones
 - [ ] A) El poder se hereda de padres a hijos dentro de una familia real. <!-- feedback: Incorrect. Esa es una característica de la monarquía, no de la república. -->
 - [ ] B) El presidente gobierna de por vida sin necesidad de elecciones. <!-- feedback: Incorrect. En una república el poder es temporal y electivo. -->
 - [x] C) El poder es ejercido por representantes elegidos por el pueblo mediante votación periódica. <!-- feedback: Correct. República: soberanía popular, elecciones periódicas, división de poderes, imperio de la ley. -->
@@ -99,13 +107,14 @@ Colombia es una república democrática, lo que significa: soberanía popular (e
 
 **ID:** `CO-SOC-9-2026-P1-P4-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En clase de ciudadanía, el profesor explica los mecanismos de participación ciudadana establecidos en la Constitución de 1991.
+**Contexto:** En clase de ciudadanía, el profesor explica los mecanismos de participación ciudadana establecidos en la Constitución de 1991.
 
 ### Enunciado
 ¿Cuál de los siguientes es un mecanismo de participación ciudadana en Colombia?
 
-### Options
+### Opciones
 - [x] A) El voto, el plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa legislativa y la revocatoria del mandato. <!-- feedback: Correct. La Constitución y la Ley 134 de 1994 establecen estos siete mecanismos de participación ciudadana. -->
 - [ ] B) Solo el voto en elecciones presidenciales y legislativas. <!-- feedback: Incorrect. Existen muchos más mecanismos además del voto. -->
 - [ ] C) Las marchas y protestas como único medio de participación. <!-- feedback: Incorrect. Las protestas son un derecho, pero no el único mecanismo de participación. -->
@@ -120,13 +129,14 @@ La Constitución de 1991 amplió la democracia participativa más allá del voto
 
 **ID:** `CO-SOC-9-2026-P1-P4-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En una vereda del Cauca, la comunidad está preocupada porque una empresa minera quiere explotar una montaña sagrada para la comunidad indígena local.
+**Contexto:** En una vereda del Cauca, la comunidad está preocupada porque una empresa minera quiere explotar una montaña sagrada para la comunidad indígena local.
 
 ### Enunciado
 Si la comunidad quiere impedir la explotación minera, ¿qué mecanismo constitucional podría utilizar para proteger el territorio?
 
-### Options
+### Opciones
 - [ ] A) Una carta al presidente solicitando su intervención directa. <!-- feedback: Incorrect. Es un mecanismo informal sin garantía de respuesta legal. -->
 - [x] B) Una acción de tutela o una consulta previa, ya que la Constitución protege los derechos de las comunidades étnicas y el derecho a un ambiente sano. <!-- feedback: Correct. La consulta previa es un derecho fundamental de comunidades indígenas y afrocolombianas (Convenio 169 OIT). La tutela puede proteger derechos fundamentales. -->
 - [ ] C) Una protesta en la plaza principal del municipio. <!-- feedback: Incorrect. Es válida como expresión, pero no es un mecanismo constitucional formal para detener la explotación. -->
@@ -141,13 +151,14 @@ La consulta previa es un derecho fundamental de los pueblos indígenas y tribale
 
 **ID:** `CO-SOC-9-2026-P1-P4-comprehensive-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Un grupo de estudiantes en la Guajira investiga las consecuencias del conflicto armado en Colombia.
+**Contexto:** Un grupo de estudiantes en la Guajira investiga las consecuencias del conflicto armado en Colombia.
 
 ### Enunciado
 ¿Cuál de las siguientes fue una consecuencia del conflicto armado colombiano durante el siglo XX?
 
-### Options
+### Opciones
 - [ ] A) El fortalecimiento exclusivo de la economía agrícola en todas las regiones. <!-- feedback: Incorrect. El conflicto afectó negativamente la economía agrícola en muchas regiones. -->
 - [ ] B) La disminución de la migración interna hacia las grandes ciudades. <!-- feedback: Incorrect. El conflicto aumentó el desplazamiento forzado y la migración del campo a la ciudad. -->
 - [x] C) El desplazamiento forzado de millones de personas del campo a las ciudades. <!-- feedback: Correct. Colombia tiene una de las crisis de desplazamiento interno más grandes del mundo, con más de 8 millones de personas desplazadas. -->
@@ -162,13 +173,14 @@ El conflicto armado colombiano (que involucró guerrillas como las FARC y el ELN
 
 **ID:** `CO-SOC-9-2026-P1-P4-comprehensive-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Una estudiante investiga los derechos fundamentales establecidos en la Constitución de 1991.
+**Contexto:** Una estudiante investiga los derechos fundamentales establecidos en la Constitución de 1991.
 
 ### Enunciado
 ¿Cuál de los siguientes es un derecho fundamental según la Constitución Política de Colombia de 1991?
 
-### Options
+### Opciones
 - [ ] A) El derecho a tener un automóvil propio. <!-- feedback: Incorrect. La Constitución no establece este derecho. Los derechos no son sobre posesiones específicas. -->
 - [ ] B) El derecho a crear un partido político exclusivo para una región. <!-- feedback: Incorrect. La Constitución garantiza el derecho a fundar partidos, pero no exclusivos de una región. -->
 - [x] C) El derecho a la vida, la igualdad, la libertad de expresión y el debido proceso. <!-- feedback: Correct. Estos son derechos fundamentales consagrados en el Título II, Capítulo 1 de la Constitución de 1991. -->
@@ -183,13 +195,14 @@ La Constitución de 1991 establece tres categorías de derechos: fundamentales (
 
 **ID:** `CO-SOC-9-2026-P1-P4-comprehensive-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Un historiador afirma: "El Frente Nacional (1958-1974) logró terminar con la violencia bipartidista, pero también excluyó a otros movimientos políticos del poder."
+**Contexto:** Un historiador afirma: "El Frente Nacional (1958-1974) logró terminar con la violencia bipartidista, pero también excluyó a otros movimientos políticos del poder."
 
 ### Enunciado
 ¿Cuál de las siguientes opciones representa mejor un análisis crítico de la afirmación del historiador?
 
-### Options
+### Opciones
 - [ ] A) El Frente Nacional fue un fracaso total porque no resolvió la violencia en Colombia. <!-- feedback: Incorrect. Es una simplificación; el Frente Nacional sí redujo la violencia bipartidista. -->
 - [x] B) El Frente Nacional tuvo un logro importante (paz entre liberales y conservadores) pero también un costo (exclusión de terceras fuerzas, que algunos analistas vinculan con el surgimiento de guerrillas). <!-- feedback: Correct. Un análisis crítico reconoce tanto aciertos como limitaciones del período. -->
 - [ ] C) El Frente Nacional fue la mejor etapa de la historia colombiana. <!-- feedback: Incorrect. Es una evaluación sin matices que ignora las consecuencias negativas. -->
@@ -204,13 +217,14 @@ El Frente Nacional fue un pacto entre liberales y conservadores para alternarse 
 
 **ID:** `CO-SOC-9-2026-P1-P4-comprehensive-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En la clase de sociales se discute la siguiente afirmación: "Colombia es un Estado Social de Derecho, lo que significa que el Estado no solo debe respetar los derechos, sino también garantizar condiciones de vida digna a todos los ciudadanos."
+**Contexto:** En la clase de sociales se discute la siguiente afirmación: "Colombia es un Estado Social de Derecho, lo que significa que el Estado no solo debe respetar los derechos, sino también garantizar condiciones de vida digna a todos los ciudadanos."
 
 ### Enunciado
 De acuerdo con la definición de Estado Social de Derecho, ¿cuál de las siguientes políticas sería más coherente con este principio?
 
-### Options
+### Opciones
 - [ ] A) Reducir todos los impuestos para que cada persona se encargue de su propia educación y salud. <!-- feedback: Incorrect. Esto corresponde a un Estado liberal clásico, no a un Estado Social de Derecho que debe garantizar servicios. -->
 - [ ] B) Privatizar todos los servicios públicos para que el Estado tenga menos responsabilidades. <!-- feedback: Incorrect. El Estado Social de Derecho implica responsabilidad activa en garantizar bienestar. -->
 - [x] C) Implementar programas de salud gratuita, educación pública de calidad y subsidios para la población en situación de pobreza. <!-- feedback: Correct. Estas políticas reflejan la obligación del Estado de garantizar condiciones de vida digna. -->
@@ -225,13 +239,14 @@ El Estado Social de Derecho (Art. 1 Constitución) implica que Colombia no es so
 
 **ID:** `CO-SOC-9-2026-P1-P4-comprehensive-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Una estudiante dice: "La geografía de Colombia es una de las más diversas del mundo, y eso influye en cómo viven las personas en diferentes regiones."
+**Contexto:** Una estudiante dice: "La geografía de Colombia es una de las más diversas del mundo, y eso influye en cómo viven las personas en diferentes regiones."
 
 ### Enunciado
 ¿Cuál de las siguientes afirmaciones apoya mejor esta idea?
 
-### Options
+### Opciones
 - [ ] A) Todas las regiones de Colombia tienen el mismo clima y las mismas actividades económicas. <!-- feedback: Incorrect. La diversidad geográfica implica diferencias climáticas y económicas. -->
 - [ ] B) La región Andina, por tener las montañas más altas, es la única región donde se puede cultivar café. <!-- feedback: Incorrect. Aunque el café se cultiva principalmente en la región Andina, su clima templado es la razón, no solo la altura. -->
 - [x] C) La región Caribe tiene costas y clima cálido que favorecen el turismo, mientras que la región Andina tiene tierras fértiles para la agricultura y la Orinoquía es ideal para la ganadería extensiva. <!-- feedback: Correct. La diversidad geográfica determina diferentes vocaciones económicas y estilos de vida en cada región. -->
@@ -246,15 +261,16 @@ La diversidad geográfica de Colombia (6 regiones naturales) determina diferente
 
 **ID:** `CO-SOC-9-2026-P1-P4-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Analice la siguiente afirmación sobre el Acuerdo de Paz con las FARC en 2016:
+**Contexto:** Analice la siguiente afirmación sobre el Acuerdo de Paz con las FARC en 2016:
 
 "El Acuerdo de Paz firmado entre el gobierno colombiano y las FARC en 2016 estableció un modelo de justicia transicional que prioriza la verdad, la reparación y la no repetición sobre el castigo penal tradicional."
 
 ### Enunciado
 ¿Cuál es el fundamento principal de un sistema de justicia transicional?
 
-### Options
+### Opciones
 - [ ] A) Castigar con las máximas penas a todos los excombatientes para garantizar justicia. <!-- feedback: Incorrect. La justicia transicional no prioriza el castigo máximo sino el equilibrio entre justicia y paz. -->
 - [ ] B) Olvidar completamente los crímenes del pasado para construir un futuro mejor. <!-- feedback: Incorrect. La justicia transicional no promueve el olvido, sino la verdad y la memoria. -->
 - [x] C) Buscar un equilibrio entre el derecho de las víctimas a la verdad y la justicia, y la necesidad de construir una paz sostenible que incluya a los excombatientes. <!-- feedback: Correct. La JEP (Jurisdicción Especial para la Paz) busca verdad, reparación y no repetición, ofreciendo penas alternativas a cambio de confesión plena. -->
@@ -269,13 +285,14 @@ La justicia transicional es un modelo jurídico aplicado en sociedades que pasan
 
 **ID:** `CO-SOC-9-2026-P1-P4-comprehensive-001-MASTERY-v12`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En un debate escolar, un estudiante dice: "La democracia participativa en Colombia es una ilusión porque la mayoría de la gente solo vota cada cuatro años y no conoce los mecanismos de participación."
+**Contexto:** En un debate escolar, un estudiante dice: "La democracia participativa en Colombia es una ilusión porque la mayoría de la gente solo vota cada cuatro años y no conoce los mecanismos de participación."
 
 ### Enunciado
 ¿Cuál de las siguientes posturas representa una evaluación más completa de la afirmación?
 
-### Options
+### Opciones
 - [ ] A) El estudiante tiene toda la razón; la democracia en Colombia no funciona. <!-- feedback: Incorrect. Es una generalización absoluta sin matices. -->
 - [ ] B) El estudiante está equivocado; Colombia es una democracia perfecta donde todos participan activamente. <!-- feedback: Incorrect. Es una idealización que no refleja la realidad. -->
 - [x] C) El estudiante señala un problema real (baja participación y desconocimiento), pero ignora que la Constitución sí establece mecanismos de participación y que hay ciudadanos y organizaciones que los utilizan activamente. <!-- feedback: Correct. Reconoce la validez parcial de la crítica pero también los aspectos positivos del sistema. -->
@@ -290,15 +307,16 @@ Evaluar críticamente implica reconocer tanto las limitaciones como los aciertos
 
 **ID:** `CO-SOC-9-2026-P1-P4-comprehensive-001-MASTERY-v13`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Un medio de comunicación publica la siguiente noticia:
+**Contexto:** Un medio de comunicación publica la siguiente noticia:
 
 "La Corte Constitucional de Colombia tumbó una ley aprobada por el Congreso que limitaba las horas de clase de educación sexual en los colegios. La Corte argumentó que la ley violaba el derecho a la educación integral de los niños y niñas."
 
 ### Enunciado
 ¿Qué principio constitucional se refleja en esta decisión de la Corte Constitucional?
 
-### Options
+### Opciones
 - [ ] A) La Corte Constitucional tiene más poder que el Congreso para hacer leyes. <!-- feedback: Incorrect. La Corte no crea leyes; revisa su constitucionalidad. El Congreso legisla, la Corte controla. -->
 - [x] B) El sistema de pesos y contrapesos: la Corte Constitucional controla que las leyes del Congreso no violen derechos fundamentales establecidos en la Constitución. <!-- feedback: Correct. La Corte ejerce control de constitucionalidad para proteger los derechos frente a decisiones de la mayoría legislativa. -->
 - [ ] C) Colombia es una dictadura judicial donde los jueces imponen sus decisiones. <!-- feedback: Incorrect. Es una interpretación sesgada; el control constitucional es un mecanismo democrático de protección de derechos. -->
@@ -313,13 +331,14 @@ La separación de poderes incluye mecanismos de control mutuo (*checks and balan
 
 **ID:** `CO-SOC-9-2026-P1-P4-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Un estudiante afirma: "Para ser un buen ciudadano en Colombia, solo necesito cumplir con mis deberes como pagar impuestos y respetar las leyes."
+**Contexto:** Un estudiante afirma: "Para ser un buen ciudadano en Colombia, solo necesito cumplir con mis deberes como pagar impuestos y respetar las leyes."
 
 ### Enunciado
 ¿Cuál de las siguientes posturas representa una visión más completa de la ciudadanía?
 
-### Options
+### Opciones
 - [ ] A) El estudiante tiene razón; cumplir con los deberes es suficiente para ser un buen ciudadano. <!-- feedback: Incorrect. La ciudadanía activa va más allá de los deberes básicos. -->
 - [x] B) Cumplir con los deberes es necesario pero no suficiente. Un buen ciudadano también debe participar activamente en la sociedad: votar informado, denunciar injusticias, participar en organizaciones comunitarias y exigir el cumplimiento de sus derechos. <!-- feedback: Correct. La ciudadanía plena combina deberes con participación activa y exigencia de derechos. -->
 - [ ] C) Los deberes ciudadanos no son importantes; lo único importante es reclamar derechos. <!-- feedback: Incorrect. Los deberes también son parte fundamental de la ciudadanía. -->
@@ -334,15 +353,16 @@ La ciudadanía plena tiene tres dimensiones: derechos (civiles, políticos, soci
 
 **ID:** `CO-SOC-9-2026-P1-P4-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Reflexivo y Sistémico
-**Context:** Analice la siguiente situación:
+**Contexto:** Analice la siguiente situación:
 
 Colombia es uno de los países más biodiversos del mundo y también uno de los más desiguales. Mientras las exportaciones de carbón y petróleo generan grandes ingresos para el país, las comunidades en territorios ricos en recursos naturales (como Chocó o La Guajira) tienen los peores indicadores de calidad de vida.
 
 ### Enunciado
 ¿Cuál de las siguientes propuestas aborda de manera más sistémica la paradoja entre la riqueza natural de Colombia y la pobreza en los territorios con recursos?
 
-### Options
+### Opciones
 - [ ] A) Prohibir toda explotación de recursos naturales para proteger el ambiente y las comunidades. <!-- feedback: Incorrect. Es una solución simplista que ignora los ingresos que genera la explotación y no resuelve la desigualdad estructural. -->
 - [ ] B) Aumentar la explotación de recursos para generar más ingresos que se redistribuyan equitativamente. <!-- feedback: Incorrect. Asume que más extracción automáticamente llevará a más redistribución, lo cual no ha ocurrido históricamente. -->
 - [ ] C) Dejar la decisión exclusivamente a las empresas privadas que explotan los recursos. <!-- feedback: Incorrect. Ignora la responsabilidad del Estado en la regulación y redistribución. -->

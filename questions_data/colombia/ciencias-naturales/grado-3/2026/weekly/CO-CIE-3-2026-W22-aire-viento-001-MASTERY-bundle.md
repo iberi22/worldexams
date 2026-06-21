@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W22-aire-viento-001-MASTERY"
+id: "CO-CIE-3-2026-W22-aire-viento-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "aire-viento"
-semana: "W22"
+week: "W22"
 periodo: 3
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "El viento como recurso: energía eólica, transporte de semill
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # El Viento: Fuerza en Movimiento
 
 Este bundle profundiza en el viento como un recurso natural poderoso que los seres humanos y la naturaleza aprovechan para diversas funciones vitales y tecnológicas.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W22-aire-viento-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el departamento de La Guajira, el viento sopla casi todo el año con mucha fuerza debido a su cercanía con el mar.
+**Contexto:** En el departamento de La Guajira, el viento sopla casi todo el año con mucha fuerza debido a su cercanía con el mar.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ La energía eólica es una de las más importantes para el futuro de Colombia. A
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W22-aire-viento-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Muchos árboles de los bosques colombianos tienen semillas que parecen tener alas o paracaídas diminutos.
+**Contexto:** Muchos árboles de los bosques colombianos tienen semillas que parecen tener alas o paracaídas diminutos.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -73,12 +77,12 @@ Este proceso se llama dispersión anemócora. El viento actúa como un "avión d
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W22-aire-viento-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Para navegar un antiguo barco de vela, los marineros debían conocer muy bien de dónde venía el viento.
+**Contexto:** Para navegar un antiguo barco de vela, los marineros debían conocer muy bien de dónde venía el viento.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -98,12 +102,12 @@ La veleta es un invento muy antiguo pero muy útil. Conocer la dirección del vi
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W22-aire-viento-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** En los desiertos, el viento golpea las rocas durante miles de años, desgastándolas y dándoles formas extrañas.
+**Contexto:** En los desiertos, el viento golpea las rocas durante miles de años, desgastándolas y dándoles formas extrañas.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ El viento es un escultor de la naturaleza. A lo largo de los siglos, puede conve
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W22-aire-viento-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Mariana observa que el viento sopla muy fuerte desde el mar hacia la tierra durante el día.
+**Contexto:** Mariana observa que el viento sopla muy fuerte desde el mar hacia la tierra durante el día.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -148,12 +152,12 @@ Esto se llama brisa marina. La tierra se calienta más rápido que el agua. El a
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W22-aire-viento-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En agosto, en muchas ciudades colombianas, el viento es ideal para elevar cometas. Pero si el viento es demasiado fuerte (vendaval), puede ser peligroso.
+**Contexto:** En agosto, en muchas ciudades colombianas, el viento es ideal para elevar cometas. Pero si el viento es demasiado fuerte (vendaval), puede ser peligroso.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -173,12 +177,12 @@ El viento se clasifica por su velocidad. Los seres humanos debemos estar atentos
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W22-aire-viento-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Las aves planeadoras, como los buitres y gavilanes, pueden volar horas sin mover sus alas, aprovechando las corrientes de aire.
+**Contexto:** Las aves planeadoras, como los buitres y gavilanes, pueden volar horas sin mover sus alas, aprovechando las corrientes de aire.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -198,12 +202,12 @@ Las aves tienen un instinto increíble para "leer" el aire. Aprovechan la energ�
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W22-aire-viento-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Tienes dos barquitos de papel en una tina. A uno le soplas suavemente y al otro le pones un ventilador potente en frente.
+**Contexto:** Tienes dos barquitos de papel en una tina. A uno le soplas suavemente y al otro le pones un ventilador potente en frente.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -223,12 +227,12 @@ La fuerza del viento es proporcional a su velocidad. Los humanos usamos el vient
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W22-aire-viento-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En los desiertos de arena (como el de Tatacoa o La Guajira), el viento forma montañas de arena llamadas dunas que cambian de lugar cada día.
+**Contexto:** En los desiertos de arena (como el de Tatacoa o La Guajira), el viento forma montañas de arena llamadas dunas que cambian de lugar cada día.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -248,12 +252,12 @@ Este es el transporte eólico. El viento tiene la capacidad de mover miles de to
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W22-aire-viento-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un inventor dice: "Voy a poner molinos de viento gigantes en el centro de la ciudad para que el aire de los carros los mueva y den luz gratis".
+**Contexto:** Un inventor dice: "Voy a poner molinos de viento gigantes en el centro de la ciudad para que el aire de los carros los mueva y den luz gratis".
 **Expected_Success:** 0.60
 
 ### Enunciado

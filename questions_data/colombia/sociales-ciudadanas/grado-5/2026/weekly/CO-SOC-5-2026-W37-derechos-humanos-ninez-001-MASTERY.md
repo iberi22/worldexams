@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "derechos-humanos-ninez"
-semana: "W37"
+week: "W37"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Derechos humanos y derechos del nino en Colombia"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W37-derechos-humanos-ninez-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que son los derechos humanos?
@@ -39,12 +44,13 @@ Los derechos humanos son universales, inalienables e inherentes a toda persona, 
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W37-derechos-humanos-ninez-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cuales son las caracteristicas de los derechos humanos?
@@ -60,12 +66,13 @@ Los derechos humanos son: universales (para todas las personas), inalienables (n
 
 ---
 
-## Pregunta 3 [D1]
+## Question 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W37-derechos-humanos-ninez-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que ley en Colombia protege los derechos de los ninos y adolescentes?
@@ -81,12 +88,13 @@ El Codigo de Infancia y Adolescencia (Ley 1098 de 2006) establece los derechos d
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W37-derechos-humanos-ninez-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cuales son los derechos fundamentales de los ninos?
@@ -102,12 +110,13 @@ Los ninos tienen derecho a: la vida, un nombre y nacionalidad (identidad), una f
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W37-derechos-humanos-ninez-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es la Convencion sobre los Derechos del Nino?
@@ -123,12 +132,13 @@ La Convencion sobre los Derechos del Nino (1989) es el tratado de derechos human
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W37-derechos-humanos-ninez-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que instituciones protegen los derechos de los ninos en Colombia?
@@ -144,12 +154,13 @@ El ICBF protege a los ninos en situacion de vulnerabilidad, la Defensoria del Pu
 
 ---
 
-## Pregunta 7 [D1]
+## Question 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W37-derechos-humanos-ninez-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que hacer si se violan los derechos de un nino en Colombia?
@@ -165,12 +176,13 @@ Cualquier persona puede denunciar la violacion de derechos de un nino llamando a
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W37-derechos-humanos-ninez-001-MASTERY-v8`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es el derecho a la identidad?
@@ -186,12 +198,13 @@ El derecho a la identidad incluye tener un nombre, un apellido, una nacionalidad
 
 ---
 
-## Pregunta 9 [D3]
+## Question 9 [D3]
 
 **ID:** `CO-SOC-5-2026-W37-derechos-humanos-ninez-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por que Colombia necesita proteger los derechos de los ninos?
@@ -207,12 +220,13 @@ Proteger a los ninos es fundamental para construir una sociedad mejor. Ninos san
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W37-derechos-humanos-ninez-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Relaciona los derechos humanos con la democracia: cual afirmacion es correcta?

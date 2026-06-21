@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY"
+id: "CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "ciencias-naturales"
 tema: "celula-concepto"
-semana: "W08"
+week: "W08"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,266 +16,270 @@ rubric_baseline: "cÃ©lula, tipos de cÃ©lulas, animales, vegetales, orgÃ¡nu
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: CÃ©lula: concepto y tipos bÃ¡sicos â€” Grado 4 â€” W08
 
 10 preguntas sobre la cÃ©lula: concepto y tipos bÃ¡sicos.
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 
 **ID:** `CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-v1`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en San AndrÃ©s, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en San AndrÃ©s, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 La cÃ©lula es:
 
 ### Opciones
-- [x] A) La unidad mÃ¡s pequeÃ±a de los seres vivos
-  <!-- feedback: Â¡Correcto! -->
-- [ ] B) Un tejido
-  <!-- feedback: No. -->
-- [ ] C) Un Ã³rgano
-  <!-- feedback: No. -->
-- [ ] D) Un sistema
-  <!-- feedback: No. -->
+- [x] A) La unidad mÃ¡s pequeÃ±a de los seres vivos <!-- feedback: Correcto! La unidad mÃ¡s pequeÃ±a de los seres vivos -->
+
+- [ ] B) Un tejido <!-- feedback: Incorrecto. Un tejido -->
+
+- [ ] C) Un Ã³rgano <!-- feedback: Incorrecto. Un Ã³rgano -->
+
+- [ ] D) Un sistema <!-- feedback: Incorrecto. Un sistema -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 CÃ©lula: unidad fundamental de la vida.
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-v2`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en Cali, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en Cali, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 La cÃ©lula animal NO tiene:
 
 ### Opciones
-- [ ] A) NÃºcleo
-  <!-- feedback: SÃ­ tiene. -->
-- [x] B) Pared celular
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Membrana
-  <!-- feedback: SÃ­ tiene. -->
-- [ ] D) Citoplasma
-  <!-- feedback: SÃ­ tiene. -->
+- [ ] A) NÃºcleo <!-- feedback: Incorrecto. NÃºcleo -->
+
+- [x] B) Pared celular <!-- feedback: Correcto! Pared celular -->
+
+- [ ] C) Membrana <!-- feedback: Incorrecto. Membrana -->
+
+- [ ] D) Citoplasma <!-- feedback: Incorrecto. Citoplasma -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Pared celular: solo en vegetales.
 
 ---
 
-## Pregunta 3 [D2]
+## Question 3 [D2]
 
 **ID:** `CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-v3`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Centro Educativo Rural en Cartagena, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Centro Educativo Rural en Cartagena, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 CÃ©lula vegetal tiene cloroplastos para:
 
 ### Opciones
-- [ ] A) Respirar
-  <!-- feedback: No. -->
-- [x] B) FotosÃ­ntesis
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Reproducirse
-  <!-- feedback: No. -->
-- [ ] D) Moverse
-  <!-- feedback: No. -->
+- [ ] A) Respirar <!-- feedback: Incorrecto. Respirar -->
+
+- [x] B) FotosÃ­ntesis <!-- feedback: Correcto! FotosÃ­ntesis -->
+
+- [ ] C) Reproducirse <!-- feedback: Incorrecto. Reproducirse -->
+
+- [ ] D) Moverse <!-- feedback: Incorrecto. Moverse -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Cloroplastos: fotosÃ­ntesis.
 
 ---
 
-## Pregunta 4 [D2]
+## Question 4 [D2]
 
 **ID:** `CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-v4`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio BilingÃ¼e en Sincelejo, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio BilingÃ¼e en Sincelejo, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 La membrana celular:
 
 ### Opciones
-- [ ] A) Da soporte
-  <!-- feedback: No. -->
-- [x] B) Controla entrada y salida de sustancias
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Produce energÃ­a
-  <!-- feedback: No. -->
-- [ ] D) Almacena agua
-  <!-- feedback: No. -->
+- [ ] A) Da soporte <!-- feedback: Incorrecto. Da soporte -->
+
+- [x] B) Controla entrada y salida de sustancias <!-- feedback: Correcto! Controla entrada y salida de sustancias -->
+
+- [ ] C) Produce energÃ­a <!-- feedback: Incorrecto. Produce energÃ­a -->
+
+- [ ] D) Almacena agua <!-- feedback: Incorrecto. Almacena agua -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Membrana: barrera selectiva.
 
 ---
 
-## Pregunta 5 [D2]
+## Question 5 [D2]
 
 **ID:** `CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-v5`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Centro Educativo Rural en ZipaquirÃ¡, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Centro Educativo Rural en ZipaquirÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 El nÃºcleo de la cÃ©lula contiene:
 
 ### Opciones
-- [ ] A) Agua
-  <!-- feedback: No. -->
-- [x] B) Material genÃ©tico (ADN)
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Clorofila
-  <!-- feedback: No. -->
-- [ ] D) Nutrientes
-  <!-- feedback: No. -->
+- [ ] A) Agua <!-- feedback: Incorrecto. Agua -->
+
+- [x] B) Material genÃ©tico (ADN) <!-- feedback: Correcto! Material genÃ©tico (ADN) -->
+
+- [ ] C) Clorofila <!-- feedback: Incorrecto. Clorofila -->
+
+- [ ] D) Nutrientes <!-- feedback: Incorrecto. Nutrientes -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 NÃºcleo: ADN.
 
 ---
 
-## Pregunta 6 [D3]
+## Question 6 [D3]
 
 **ID:** `CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-v6`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa TÃ©cnica en Cali, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa TÃ©cnica en Cali, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Â¿CuÃ¡l estructura es exclusiva de cÃ©lula vegetal?
 
 ### Opciones
-- [ ] A) Mitocondria
-  <!-- feedback: No. -->
-- [x] B) Cloroplasto
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) NÃºcleo
-  <!-- feedback: No. -->
-- [ ] D) Membrana
-  <!-- feedback: No. -->
+- [ ] A) Mitocondria <!-- feedback: Incorrecto. Mitocondria -->
+
+- [x] B) Cloroplasto <!-- feedback: Correcto! Cloroplasto -->
+
+- [ ] C) NÃºcleo <!-- feedback: Incorrecto. NÃºcleo -->
+
+- [ ] D) Membrana <!-- feedback: Incorrecto. Membrana -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Cloroplasto: solo vegetal.
 
 ---
 
-## Pregunta 7 [D3]
+## Question 7 [D3]
 
 **ID:** `CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-v7`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio de la PresentaciÃ³n en Valledupar, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio de la PresentaciÃ³n en Valledupar, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Las cÃ©lulas se agrupan para formar:
 
 ### Opciones
-- [ ] A) Ã“rganos
-  <!-- feedback: No. -->
-- [x] B) Tejidos
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Sistemas
-  <!-- feedback: No. -->
-- [ ] D) Organismos
-  <!-- feedback: No. -->
+- [ ] A) Ã“rganos <!-- feedback: Incorrecto. Ã“rganos -->
+
+- [x] B) Tejidos <!-- feedback: Correcto! Tejidos -->
+
+- [ ] C) Sistemas <!-- feedback: Incorrecto. Sistemas -->
+
+- [ ] D) Organismos <!-- feedback: Incorrecto. Organismos -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 AgrupaciÃ³n celular: tejidos.
 
 ---
 
-## Pregunta 8 [D3]
+## Question 8 [D3]
 
 **ID:** `CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-v8`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en PopayÃ¡n, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en PopayÃ¡n, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Para observar cÃ©lulas necesitamos:
 
 ### Opciones
-- [ ] A) Lupa
-  <!-- feedback: No. -->
-- [x] B) Microscopio
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Telescopio
-  <!-- feedback: No. -->
-- [ ] D) Binoculares
-  <!-- feedback: No. -->
+- [ ] A) Lupa <!-- feedback: Incorrecto. Lupa -->
+
+- [x] B) Microscopio <!-- feedback: Correcto! Microscopio -->
+
+- [ ] C) Telescopio <!-- feedback: Incorrecto. Telescopio -->
+
+- [ ] D) Binoculares <!-- feedback: Incorrecto. Binoculares -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Microscopio: para ver cÃ©lulas.
 
 ---
 
-## Pregunta 9 [D4]
+## Question 9 [D4]
 
 **ID:** `CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-v9`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Colegio Salesiano en Valledupar, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio Salesiano en Valledupar, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Â¿Por quÃ© las cÃ©lulas vegetales tienen forma rectangular?
 
 ### Opciones
-- [ ] A) No hay razÃ³n
-  <!-- feedback: No. -->
-- [x] B) Por la pared celular rÃ­gida
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Porque son mÃ¡s pequeÃ±as
-  <!-- feedback: No. -->
-- [ ] D) Porque tienen cloroplastos
-  <!-- feedback: No. -->
+- [ ] A) No hay razÃ³n <!-- feedback: Incorrecto. No hay razÃ³n -->
+
+- [x] B) Por la pared celular rÃ­gida <!-- feedback: Correcto! Por la pared celular rÃ­gida -->
+
+- [ ] C) Porque son mÃ¡s pequeÃ±as <!-- feedback: Incorrecto. Porque son mÃ¡s pequeÃ±as -->
+
+- [ ] D) Porque tienen cloroplastos <!-- feedback: Incorrecto. Porque tienen cloroplastos -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Pared celular da forma.
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-CIE-4-2026-W08-celula-concepto-001-MASTERY-v10`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa en Pereira, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa en Pereira, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Â¿Por quÃ© todas las cÃ©lulas se originan de otras cÃ©lulas?
 
 ### Opciones
-- [x] A) TeorÃ­a celular
-  <!-- feedback: Â¡Correcto! -->
-- [ ] B) Por casualidad
-  <!-- feedback: No. -->
-- [ ] C) No es cierto
-  <!-- feedback: No. -->
-- [ ] D) Solo algunas
-  <!-- feedback: No. -->
+- [x] A) TeorÃ­a celular <!-- feedback: Correcto! TeorÃ­a celular -->
+
+- [ ] B) Por casualidad <!-- feedback: Incorrecto. Por casualidad -->
+
+- [ ] C) No es cierto <!-- feedback: Incorrecto. No es cierto -->
+
+- [ ] D) Solo algunas <!-- feedback: Incorrecto. Solo algunas -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 TeorÃ­a celular: omnis cellula e cellula.

@@ -1,28 +1,32 @@
 ---
-id: "CO-MAT-7-2026-W02-racionales-001-MASTERY"
+id: "CO-MAT-7-2026-W02-racionales-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "matematicas"
 tema: "racionales"
-semana: "W02"
+week: "W02"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Números Racionales - Grado 7
 ## Semana W02 — Fracciones y decimales
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-MAT-7-2026-W02-racionales-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el colegio de Bogotá, la profesora de matemáticas pregunta por la definición de número racional.
+**Contexto:** En el colegio de Bogotá, la profesora de matemáticas pregunta por la definición de número racional.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Los números racionales (ℚ) son aquellos que se pueden escribir como fracción
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-MAT-7-2026-W02-racionales-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** María quiere compartir una pizza con sus amigos en el colegio de Medellín. La pizza está dividida en 8 porciones iguales y ella come 3.
+**Contexto:** María quiere compartir una pizza con sus amigos en el colegio de Medellín. La pizza está dividida en 8 porciones iguales y ella come 3.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -60,11 +64,11 @@ Una fracción representa una parte de un todo. El denominador (8) indica en cuá
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-MAT-7-2026-W02-racionales-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Carlos necesita dividir una cartulina de 1 metro de largo en partes iguales para un proyecto del colegio de Cali. Necesita 5 partes.
+**Contexto:** Carlos necesita dividir una cartulina de 1 metro de largo en partes iguales para un proyecto del colegio de Cali. Necesita 5 partes.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -81,11 +85,11 @@ Toda fracción se puede convertir a decimal dividiendo el numerador entre el den
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-MAT-7-2026-W02-racionales-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Laura prepara limonada para una reunión en el colegio de Barranquilla. Usa 3/4 de taza de jugo de limón y 1/2 taza de agua.
+**Contexto:** Laura prepara limonada para una reunión en el colegio de Barranquilla. Usa 3/4 de taza de jugo de limón y 1/2 taza de agua.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -102,11 +106,11 @@ Para sumar fracciones con diferente denominador, se debe encontrar un denominado
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-MAT-7-2026-W02-racionales-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** En el colegio de Bucaramanga, el profesor muestra varias fracciones: 2/4, 1/2, 3/6, 4/8 y pregunta cuál es diferente.
+**Contexto:** En el colegio de Bucaramanga, el profesor muestra varias fracciones: 2/4, 1/2, 3/6, 4/8 y pregunta cuál es diferente.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -123,11 +127,11 @@ Las fracciones equivalentes representan la misma cantidad. 2/4 = 1/2 (simplifica
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-MAT-7-2026-W02-racionales-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Santiago va a la tienda del colegio de Pereira con $10.000. Compra una gaseosa que cuesta $3.500.
+**Contexto:** Santiago va a la tienda del colegio de Pereira con $10.000. Compra una gaseosa que cuesta $3.500.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -144,11 +148,11 @@ Para expresar una cantidad como fracción del total, se pone la cantidad como nu
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-MAT-7-2026-W02-racionales-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Valentina encuentra el siguiente problema en su cuaderno de matemáticas del colegio de Cartagena: 2/3 × 9/4.
+**Contexto:** Valentina encuentra el siguiente problema en su cuaderno de matemáticas del colegio de Cartagena: 2/3 × 9/4.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ La multiplicación de fracciones se realiza multiplicando numeradores y denomina
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-MAT-7-2026-W02-racionales-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Camila compara dos ofertas de café en la tienda del colegio de Ibagué: 250g por $8.000 y 400g por $12.000.
+**Contexto:** Camila compara dos ofertas de café en la tienda del colegio de Ibagué: 250g por $8.000 y 400g por $12.000.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -186,11 +190,11 @@ Para comparar precios unitarios se divide el precio entre la cantidad. 250g: $80
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-MAT-7-2026-W02-racionales-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Andrés dice: "Si tengo 3/4 de una tableta de chocolate y como 1/3 de lo que tengo, entonces como 1/4 de la tableta original."
+**Contexto:** Andrés dice: "Si tengo 3/4 de una tableta de chocolate y como 1/3 de lo que tengo, entonces como 1/4 de la tableta original."
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -207,11 +211,11 @@ Para comparar precios unitarios se divide el precio entre la cantidad. 250g: $80
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-MAT-7-2026-W02-racionales-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En el colegio de Neiva, la profesora Daniela plantea: "¿Es 0.333... (periódico) un número racional?"
+**Contexto:** En el colegio de Neiva, la profesora Daniela plantea: "¿Es 0.333... (periódico) un número racional?"
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -228,11 +232,11 @@ Los decimales periódicos (como 0.333..., 0.666..., 0.142857142857...) sí son n
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-MAT-7-2026-W02-racionales-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Sebastián resuelve en su taller de matemáticas del colegio de Villavicencio: "Ordena de menor a mayor: 2/3, 5/6, 1/2, 3/4."
+**Contexto:** Sebastián resuelve en su taller de matemáticas del colegio de Villavicencio: "Ordena de menor a mayor: 2/3, 5/6, 1/2, 3/4."
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -249,11 +253,11 @@ Para ordenar fracciones con diferente denominador, se convierten a un denominado
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-MAT-7-2026-W02-racionales-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Isabella y su amiga tienen diferentes recetas de limonada. Isabella usa 2/3 de taza de azúcar por cada litro y su amiga usa 3/5.
+**Contexto:** Isabella y su amiga tienen diferentes recetas de limonada. Isabella usa 2/3 de taza de azúcar por cada litro y su amiga usa 3/5.
 **Expected_Success:** 0.42
 
 ### Enunciado

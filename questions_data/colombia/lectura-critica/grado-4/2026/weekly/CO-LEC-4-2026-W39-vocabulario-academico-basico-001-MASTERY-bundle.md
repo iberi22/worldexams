@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W39-vocabulario-academico-basico-001-MASTERY"
+id: "CO-LEC-4-2026-W39-vocabulario-academico-basico-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "vocabulario-academico-basico"
-semana: "W39"
+week: "W39"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "vocabulario académico, palabras formales, definiciones, uso e
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W39: Vocabulario académico básico
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W39-vocabulario-academico-basico-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Definir.
+**Contexto:** Definir.
 
 ### Enunciado
 *"¿Qué significa ‘investigar’?"*
 
-### Options
-- [ ] A) Jugar.
+### Opciones
+- [ ] A) Jugar. <!-- feedback: Incorrecto. Jugar. -->
 - [x] B) Buscar información para aprender. <!-- feedback: Correcto. -->
-- [ ] C) Dormir.
-- [ ] D) Cantar.
+- [ ] C) Dormir. <!-- feedback: Incorrecto. Dormir. -->
+- [ ] D) Cantar. <!-- feedback: Incorrecto. Cantar. -->
 
 ### Explicación Pedagógica
 Definir investigar.
@@ -49,17 +54,18 @@ Definir investigar.
 
 **ID:** `CO-LEC-4-2026-W39-vocabulario-academico-basico-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Sinónimo académico.
+**Contexto:** Sinónimo académico.
 
 ### Enunciado
 *"‘Analizar’ significa casi lo mismo que..."*
 
-### Options
-- [ ] A) Ignorar.
+### Opciones
+- [ ] A) Ignorar. <!-- feedback: Incorrecto. Ignorar. -->
 - [x] B) Estudiar detenidamente. <!-- feedback: Correcto. -->
-- [ ] C) Saltar.
-- [ ] D) Olvidar.
+- [ ] C) Saltar. <!-- feedback: Incorrecto. Saltar. -->
+- [ ] D) Olvidar. <!-- feedback: Incorrecto. Olvidar. -->
 
 ### Explicación Pedagógica
 Analizar.
@@ -70,17 +76,18 @@ Analizar.
 
 **ID:** `CO-LEC-4-2026-W39-vocabulario-academico-basico-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Contexto.
+**Contexto:** Contexto.
 
 ### Enunciado
 *"El científico va a ‘experimentar’. ¿Qué hará?"*
 
-### Options
-- [ ] A) Cantar.
+### Opciones
+- [ ] A) Cantar. <!-- feedback: Incorrecto. Cantar. -->
 - [x] B) Hacer pruebas y observar. <!-- feedback: Correcto. -->
-- [ ] C) Dormir.
-- [ ] D) Correr.
+- [ ] C) Dormir. <!-- feedback: Incorrecto. Dormir. -->
+- [ ] D) Correr. <!-- feedback: Incorrecto. Correr. -->
 
 ### Explicación Pedagógica
 Experimentar.
@@ -91,17 +98,18 @@ Experimentar.
 
 **ID:** `CO-LEC-4-2026-W39-vocabulario-academico-basico-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Comparar.
+**Contexto:** Comparar.
 
 ### Enunciado
 *"‘Conclusión’ es lo que se..."*
 
-### Options
-- [ ] A) Olvida.
+### Opciones
+- [ ] A) Olvida. <!-- feedback: Incorrecto. Olvida. -->
 - [x] B) Decide o deduce al final. <!-- feedback: Correcto. -->
-- [ ] C) Come.
-- [ ] D) Compra.
+- [ ] C) Come. <!-- feedback: Incorrecto. Come. -->
+- [ ] D) Compra. <!-- feedback: Incorrecto. Compra. -->
 
 ### Explicación Pedagógica
 Conclusión.
@@ -112,17 +120,18 @@ Conclusión.
 
 **ID:** `CO-LEC-4-2026-W39-vocabulario-academico-basico-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Opuesto académico.
+**Contexto:** Opuesto académico.
 
 ### Enunciado
 *"Lo opuesto de ‘válido’ es..."*
 
-### Options
-- [ ] A) Correcto.
+### Opciones
+- [ ] A) Correcto. <!-- feedback: Incorrecto. Correcto. -->
 - [x] B) Inválido. <!-- feedback: Correcto. -->
-- [ ] C) Bueno.
-- [ ] D) Cierto.
+- [ ] C) Bueno. <!-- feedback: Incorrecto. Bueno. -->
+- [ ] D) Cierto. <!-- feedback: Incorrecto. Cierto. -->
 
 ### Explicación Pedagógica
 Válido.
@@ -133,17 +142,18 @@ Válido.
 
 **ID:** `CO-LEC-4-2026-W39-vocabulario-academico-basico-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Usar palabra.
+**Contexto:** Usar palabra.
 
 ### Enunciado
 *"¿En qué frase se usa bien ‘hipótesis’?"*
 
-### Options
-- [ ] A) La hipótesis es mi comida favorita.
+### Opciones
+- [ ] A) La hipótesis es mi comida favorita. <!-- feedback: Incorrecto. La hipótesis es mi comida favorita. -->
 - [x] B) Mi hipótesis es que las plantas crecen más con sol. <!-- feedback: Correcto. -->
-- [ ] C) La hipótesis me duele.
-- [ ] D) Compré una hipótesis.
+- [ ] C) La hipótesis me duele. <!-- feedback: Incorrecto. La hipótesis me duele. -->
+- [ ] D) Compré una hipótesis. <!-- feedback: Incorrecto. Compré una hipótesis. -->
 
 ### Explicación Pedagógica
 Usar.
@@ -154,17 +164,18 @@ Usar.
 
 **ID:** `CO-LEC-4-2026-W39-vocabulario-academico-basico-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Definir con ejemplos.
+**Contexto:** Definir con ejemplos.
 
 ### Enunciado
 *"‘Clasificar’ significa..."*
 
-### Options
-- [ ] A) Botar cosas.
+### Opciones
+- [ ] A) Botar cosas. <!-- feedback: Incorrecto. Botar cosas. -->
 - [x] B) Organizar en grupos según características. <!-- feedback: Correcto. -->
-- [ ] C) Pintar.
-- [ ] D) Cantar.
+- [ ] C) Pintar. <!-- feedback: Incorrecto. Pintar. -->
+- [ ] D) Cantar. <!-- feedback: Incorrecto. Cantar. -->
 
 ### Explicación Pedagógica
 Clasificar.
@@ -175,17 +186,18 @@ Clasificar.
 
 **ID:** `CO-LEC-4-2026-W39-vocabulario-academico-basico-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Relacionar.
+**Contexto:** Relacionar.
 
 ### Enunciado
 *"¿Qué relación hay entre ‘observar’ y ‘concluir’?"*
 
-### Options
-- [ ] A) Ninguna.
+### Opciones
+- [ ] A) Ninguna. <!-- feedback: Incorrecto. Ninguna. -->
 - [x] B) Primero observas, luego concluyes. <!-- feedback: Correcto. -->
-- [ ] C) Son sinónimos.
-- [ ] D) Primero concluyes.
+- [ ] C) Son sinónimos. <!-- feedback: Incorrecto. Son sinónimos. -->
+- [ ] D) Primero concluyes. <!-- feedback: Incorrecto. Primero concluyes. -->
 
 ### Explicación Pedagógica
 Relacionar.
@@ -196,17 +208,18 @@ Relacionar.
 
 **ID:** `CO-LEC-4-2026-W39-vocabulario-academico-basico-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Evaluar uso.
+**Contexto:** Evaluar uso.
 
 ### Enunciado
 *"‘El análisis de datos es importante.’ ¿Qué significa esto?"*
 
-### Options
-- [ ] A) No es importante.
+### Opciones
+- [ ] A) No es importante. <!-- feedback: Incorrecto. No es importante. -->
 - [x] B) Estudiar los datos para entenderlos. <!-- feedback: Correcto. -->
-- [ ] C) Botar los datos.
-- [ ] D) Ignorarlos.
+- [ ] C) Botar los datos. <!-- feedback: Incorrecto. Botar los datos. -->
+- [ ] D) Ignorarlos. <!-- feedback: Incorrecto. Ignorarlos. -->
 
 ### Explicación Pedagógica
 Evaluar.
@@ -217,17 +230,18 @@ Evaluar.
 
 **ID:** `CO-LEC-4-2026-W39-vocabulario-academico-basico-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Aplicar.
+**Contexto:** Aplicar.
 
 ### Enunciado
 *"¿Cuál de estas es una ‘conclusión’?"*
 
-### Options
+### Opciones
 - [ ] A) El agua hierve a 100°C. <!-- feedback: Eso es un hecho. -->
 - [x] B) Por lo tanto, el experimento muestra que la planta necesita sol. <!-- feedback: Correcto. -->
-- [ ] C) ¡Hola!
-- [ ] D) Me gusta el café.
+- [ ] C) ¡Hola! <!-- feedback: Incorrecto. ¡Hola! -->
+- [ ] D) Me gusta el café. <!-- feedback: Incorrecto. Me gusta el café. -->
 
 ### Explicación Pedagógica
 Aplicar.

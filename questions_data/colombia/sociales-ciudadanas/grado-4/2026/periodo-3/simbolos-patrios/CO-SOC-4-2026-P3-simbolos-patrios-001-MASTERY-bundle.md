@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY"
+id: "CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Símbolos patrios de Colombia, bandera, escudo, himno nacional, significado, historia"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Símbolos Patrios de Colombia
 
@@ -27,14 +34,15 @@ Este bundle cubre los símbolos patrios de Colombia: la bandera, el escudo y el 
 ## Question 1 [D3]
 
 **ID:** `CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales del colegio Francisco de Paula Santander de Bucaramanga, los estudiantes izaron la bandera en el acto cívico.
+**Contexto:** En la clase de sociales del colegio Francisco de Paula Santander de Bucaramanga, los estudiantes izaron la bandera en el acto cívico.
 
 ### Enunciado
 La bandera de Colombia tiene tres colores dispuestos en franjas horizontales. ¿Cuál es el orden correcto de arriba hacia abajo?
 
-### Options
+### Opciones
 - [ ] A) Rojo, azul y amarillo. <!-- feedback: Incorrecto. Ese es el orden de la bandera de Venezuela. -->
 - [x] B) Amarillo, azul y rojo. <!-- feedback: Correcto. La bandera de Colombia tiene el amarillo arriba (mitad del ancho), el azul en el medio y el rojo abajo. -->
 - [ ] C) Azul, rojo y amarillo. <!-- feedback: Incorrecto. Ese no es el orden de ninguna bandera de la región. -->
@@ -48,14 +56,15 @@ Se evalúa el conocimiento básico de los colores de la bandera colombiana. La r
 ## Question 2 [D3]
 
 **ID:** `CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en la I.E. José Celestino Mutis de Medellín, la profesora pregunta por el significado del himno nacional.
+**Contexto:** En clase de sociales en la I.E. José Celestino Mutis de Medellín, la profesora pregunta por el significado del himno nacional.
 
 ### Enunciado
 El himno nacional de Colombia se llama oficialmente:
 
-### Options
+### Opciones
 - [ ] A) Himno de la Alegría. <!-- feedback: Incorrecto. El Himno de la Alegría es una composición de Beethoven de origen europeo. -->
 - [x] B) Himno Nacional de la República de Colombia. <!-- feedback: Correcto. Su título oficial es "Himno Nacional de la República de Colombia", aunque coloquialmente se conoce como el himno nacional. -->
 - [ ] C) La Inconformidad. <!-- feedback: Incorrecto. No existe un himno con ese nombre. -->
@@ -69,14 +78,15 @@ Se evalúa el conocimiento del nombre oficial del himno nacional. La respuesta c
 ## Question 3 [D4]
 
 **ID:** `CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en Bogotá, los estudiantes interpretan el significado de los elementos del escudo nacional.
+**Contexto:** En clase de sociales en Bogotá, los estudiantes interpretan el significado de los elementos del escudo nacional.
 
 ### Enunciado
 En el escudo de Colombia aparece un cóndor posado sobre un escudo con tres franjas. La fruta que aparece en la franja inferior del escudo es:
 
-### Options
+### Opciones
 - [ ] A) Una manzana. <!-- feedback: Incorrecto. La manzana no aparece en el escudo nacional colombiano. -->
 - [ ] B) Una fresa. <!-- feedback: Incorrecto. La fresa no es parte del escudo colombiano. -->
 - [x] C) Una granada. <!-- feedback: Correcto. La granada aparece en la parte inferior del escudo, representando el nombre histórico "Nueva Granada" que tuvo el país. -->
@@ -90,14 +100,15 @@ Se evalúa el conocimiento de los elementos del escudo nacional. La respuesta co
 ## Question 4 [D4]
 
 **ID:** `CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales de Sincelejo, la profesora pregunta qué representan los colores de la bandera.
+**Contexto:** En la clase de sociales de Sincelejo, la profesora pregunta qué representan los colores de la bandera.
 
 ### Enunciado
 Según la historia oficial, el color amarillo de la bandera de Colombia representa:
 
-### Options
+### Opciones
 - [ ] A) La sangre derramada por los héroes. <!-- feedback: Incorrecto. La sangre está representada por el color rojo, no por el amarillo. -->
 - [ ] B) El cielo colombiano. <!-- feedback: Incorrecto. El cielo está representado por el azul. -->
 - [x] C) La riqueza del suelo colombiano, especialmente el oro. <!-- feedback: Correcto. El amarillo simboliza las riquezas naturales del territorio, particularmente el oro que abundaba en la época de la independencia. -->
@@ -111,14 +122,15 @@ Se evalúa la comprensión del simbolismo de los colores patrios. La respuesta c
 ## Question 5 [D4]
 
 **ID:** `CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la izada de bandera del colegio, el personero estudiantil recuerda a todos cómo debe comportarse.
+**Contexto:** En la izada de bandera del colegio, el personero estudiantil recuerda a todos cómo debe comportarse.
 
 ### Enunciado
 Cuando se está entonando el himno nacional en un acto cívico, los estudiantes deben:
 
-### Options
+### Opciones
 - [ ] A) Seguir hablando con sus compañeros. <!-- feedback: Incorrecto. El himno merece respeto y atención, no se debe hablar mientras se entona. -->
 - [ ] B) Sentarse y poner música en el celular. <!-- feedback: Incorrecto. Los aparatos electrónicos deben guardarse durante la interpretación del himno. -->
 - [x] C) Permanecer de pie, en posición de respeto, con la mano derecha en el pecho, en silencio. <!-- feedback: Correcto. La ley establece que durante el himno nacional se debe estar de pie, en posición de atención y guardando respeto. -->
@@ -132,14 +144,15 @@ Se evalúa la aplicación de las normas de protocolo con los símbolos patrios. 
 ## Question 6 [D4]
 
 **ID:** `CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-v6`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales, la profesora de la I.E. Técnica de Tunja muestra la letra del himno nacional.
+**Contexto:** En la clase de sociales, la profesora de la I.E. Técnica de Tunja muestra la letra del himno nacional.
 
 ### Enunciado
 El himno nacional de Colombia fue escrito por un poeta y la música fue compuesta por un músico. ¿Quién escribió la letra del himno?
 
-### Options
+### Opciones
 - [ ] A) Simón Bolívar. <!-- feedback: Incorrecto. Bolívar fue el Libertador, pero no escribió la letra del himno nacional de Colombia. -->
 - [x] B) Rafael Núñez. <!-- feedback: Correcto. Rafael Núñez, presidente de Colombia en varias ocasiones, escribió la letra del himno nacional. -->
 - [ ] C) Gabriel García Márquez. <!-- feedback: Incorrecto. García Márquez fue un novelista del siglo XX, mucho después de la creación del himno. -->
@@ -153,14 +166,15 @@ Se evalúa el conocimiento de los autores del himno nacional. La respuesta corre
 ## Question 7 [D4]
 
 **ID:** `CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-v7`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En una exposición escolar en Popayán, los estudiantes muestran dibujos del escudo de Colombia.
+**Contexto:** En una exposición escolar en Popayán, los estudiantes muestran dibujos del escudo de Colombia.
 
 ### Enunciado
 En la parte superior del escudo de Colombia aparece un ave. ¿Qué ave es y qué simboliza?
 
-### Options
+### Opciones
 - [ ] A) Un colibrí — simboliza la velocidad de los colombianos. <!-- feedback: Incorrecto. El colibrí no es el ave del escudo nacional. -->
 - [x] B) El cóndor de los Andes — simboliza la libertad y el poder de la nación. <!-- feedback: Correcto. El cóndor posado sobre el escudo representa la libertad, la soberanía y la grandeza de Colombia. -->
 - [ ] C) Una paloma — simboliza la paz. <!-- feedback: Incorrecto. La paloma de la paz no es parte del escudo nacional de Colombia. -->
@@ -174,14 +188,15 @@ Se evalúa el conocimiento del escudo nacional. La respuesta correcta identifica
 ## Question 8 [D5]
 
 **ID:** `CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En la clase de sociales de la I.E. Liceo Nacional de Barranquilla, el profesor pregunta por qué es importante respetar los símbolos patrios.
+**Contexto:** En la clase de sociales de la I.E. Liceo Nacional de Barranquilla, el profesor pregunta por qué es importante respetar los símbolos patrios.
 
 ### Enunciado
 ¿Por qué los símbolos patrios (bandera, escudo e himno) merecen respeto por parte de todos los ciudadanos?
 
-### Options
+### Opciones
 - [ ] A) Porque son objetos valiosos que cuestan mucho dinero. <!-- feedback: Incorrecto. Su valor no es económico; es simbólico e histórico. -->
 - [ ] B) Porque están pintados de colores bonitos. <!-- feedback: Incorrecto. La belleza estética no es la razón de su importancia. -->
 - [x] C) Porque representan la historia, la identidad y la unidad de la nación colombiana. <!-- feedback: Correcto. Los símbolos patrios son importantes porque simbolizan la historia compartida, los valores de la nación y la unión de todos los colombianos. -->
@@ -195,14 +210,15 @@ Se evalúa la comprensión del significado de los símbolos patrios. La respuest
 ## Question 9 [D5]
 
 **ID:** `CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-v9`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En una clase de sociales en Pereira, la profesora muestra la bandera de Colombia y pregunta cuándo fue adoptada.
+**Contexto:** En una clase de sociales en Pereira, la profesora muestra la bandera de Colombia y pregunta cuándo fue adoptada.
 
 ### Enunciado
 La bandera de Colombia fue adoptada oficialmente en su diseño actual con los colores dispuestos como los conocemos desde:
 
-### Options
+### Opciones
 - [ ] A) 1492, año del descubrimiento de América. <!-- feedback: Incorrecto. En 1492 no existía la bandera de Colombia; ese año llegaron los españoles. -->
 - [ ] B) 1810, el año del grito de independencia. <!-- feedback: Incorrecto. Aunque la bandera tricolor se usó desde la independencia, su diseño se estandarizó después. -->
 - [x] C) 1819, después de la independencia, adoptando los colores de la bandera de la Gran Colombia. <!-- feedback: Correcto. La bandera tricolor amarillo, azul y rojo fue creada por Francisco de Miranda para la Gran Colombia y adoptada oficialmente después de 1819. -->
@@ -216,14 +232,15 @@ Se evalúa el conocimiento del origen histórico de la bandera. La respuesta cor
 ## Question 10 [D5]
 
 **ID:** `CO-SOC-4-2026-P3-simbolos-patrios-001-MASTERY-v10`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En el colegio de la I.E. La Salle de Buga, hay un concurso de preguntas sobre los símbolos patrios.
+**Contexto:** En el colegio de la I.E. La Salle de Buga, hay un concurso de preguntas sobre los símbolos patrios.
 
 ### Enunciado
 Además de la bandera, el escudo y el himno nacional, Colombia tiene otros símbolos patrios declarados por ley. ¿Cuál de los siguientes es otro símbolo patrio de Colombia?
 
-### Options
+### Opciones
 - [x] A) La palma de cera del Quindío (árbol nacional). <!-- feedback: Correcto. La palma de cera del Quindío es el árbol nacional de Colombia, declarado símbolo patrio por su majestuosidad y por estar en peligro de extinción. -->
 - [ ] B) El café colombiano. <!-- feedback: Incorrecto. Aunque es un producto insignia de Colombia, el café no es un símbolo patrio oficial. -->
 - [ ] C) La selección de fútbol. <!-- feedback: Incorrecto. La selección nacional no es un símbolo patrio oficial, aunque represente al país. -->

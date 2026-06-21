@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY"
+id: "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 3"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Repaso anual - Grado 3
 
@@ -22,7 +24,7 @@ Este bundle final repasa las competencias comunicativas y textuales fundamentale
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comunicación Escrita
@@ -33,21 +35,20 @@ Este bundle final repasa las competencias comunicativas y textuales fundamentale
 ¿Cuál es una regla de oro para un buen diálogo oral?
 
 ### Opciones
-- [ ] A) Hablar siempre más fuerte que el compañero.
-  <!-- feedback: No, eso es gritar. -->
-- [x] B) Respetar el turno para hablar y escuchar con atención.
-  <!-- feedback: ¡Correcto! La escucha activa es esencial. -->
-- [ ] C) No mirar a los ojos a la persona que habla.
-  <!-- feedback: Mirar a los ojos demuestra interés. -->
-- [ ] D) Interrumpir apenas se tenga una idea.
-  <!-- feedback: Se debe esperar el turno. -->
+- [ ] A) Hablar siempre más fuerte que el compañero. <!-- feedback: Incorrecto. Hablar siempre más fuerte que el compañe -->
+
+- [x] B) Respetar el turno para hablar y escuchar con atención. <!-- feedback: Correcto! Respetar el turno para hablar y escuchar con atención. -->
+
+- [ ] C) No mirar a los ojos a la persona que habla. <!-- feedback: Incorrecto. No mirar a los ojos a la persona que hab -->
+
+- [ ] D) Interrumpir apenas se tenga una idea. <!-- feedback: Incorrecto. Interrumpir apenas se tenga una idea. -->
 
 ### Explicación Pedagogica
 La comunicación oral efectiva requiere reciprocidad y respeto por los turnos de habla.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -58,21 +59,20 @@ La comunicación oral efectiva requiere reciprocidad y respeto por los turnos de
 ¿Cuál es el núcleo del predicado en cualquier oración?
 
 ### Opciones
-- [ ] A) El sustantivo.
-  <!-- feedback: El sustantivo es núcleo del sujeto. -->
-- [ ] B) El adjetivo.
-  <!-- feedback: El adjetivo califica al sustantivo. -->
-- [x] C) El verbo.
-  <!-- feedback: ¡Muy bien! El verbo indica la acción o estado y es el corazón del predicado. -->
-- [ ] D) El artículo.
-  <!-- feedback: Solo acompaña al sustantivo. -->
+- [ ] A) El sustantivo. <!-- feedback: Incorrecto. El sustantivo. -->
+
+- [ ] B) El adjetivo. <!-- feedback: Incorrecto. El adjetivo. -->
+
+- [x] C) El verbo. <!-- feedback: Correcto! El verbo. -->
+
+- [ ] D) El artículo. <!-- feedback: Incorrecto. El artículo. -->
 
 ### Explicación Pedagogica
 El verbo es la palabra que articula el sentido del predicado al expresar lo que hace o le sucede al sujeto.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -83,21 +83,20 @@ El verbo es la palabra que articula el sentido del predicado al expresar lo que 
 ¿En qué género literario se usan versos, estrofas y rimas?
 
 ### Opciones
-- [ ] A) Narrativo (cuentos).
-  <!-- feedback: Se escribe en párrafos. -->
-- [x] B) Lírico (poesía).
-  <!-- feedback: ¡Excelente! La musicalidad y los versos son propios de la lírica. -->
-- [ ] C) Dramático (teatro).
-  <!-- feedback: Se basa en diálogos y acotaciones. -->
-- [ ] D) Informativo (noticias).
-  <!-- feedback: Se basa en hechos reales en prosa. -->
+- [ ] A) Narrativo (cuentos). <!-- feedback: Incorrecto. Narrativo (cuentos). -->
+
+- [x] B) Lírico (poesía). <!-- feedback: Correcto! Lírico (poesía). -->
+
+- [ ] C) Dramático (teatro). <!-- feedback: Incorrecto. Dramático (teatro). -->
+
+- [ ] D) Informativo (noticias). <!-- feedback: Incorrecto. Informativo (noticias). -->
 
 ### Explicación Pedagogica
 Cada género literario tiene una estructura y un propósito comunicativo diferente.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -108,21 +107,20 @@ Cada género literario tiene una estructura y un propósito comunicativo diferen
 ¿Cuándo se debe usar obligatoriamente letra mayúscula?
 
 ### Opciones
-- [ ] A) Al final de cada oración.
-  <!-- feedback: Al final va un punto. -->
-- [x] B) Al iniciar un escrito y en los nombres propios.
-  <!-- feedback: ¡Correcto! Son las dos reglas básicas de las mayúsculas. -->
-- [ ] C) En todas las palabras que tengan más de cinco letras.
-  <!-- feedback: El tamaño de la palabra no importa. -->
-- [ ] D) Solo cuando escribimos en color rojo.
-  <!-- feedback: El color no influye en la ortografía. -->
+- [ ] A) Al final de cada oración. <!-- feedback: Incorrecto. Al final de cada oración. -->
+
+- [x] B) Al iniciar un escrito y en los nombres propios. <!-- feedback: Correcto! Al iniciar un escrito y en los nombres propios. -->
+
+- [ ] C) En todas las palabras que tengan más de cinco letras. <!-- feedback: Incorrecto. En todas las palabras que tengan más de  -->
+
+- [ ] D) Solo cuando escribimos en color rojo. <!-- feedback: Incorrecto. Solo cuando escribimos en color rojo. -->
 
 ### Explicación Pedagogica
 Las mayúsculas sirven para marcar jerarquía y distinción en los nombres propios y el inicio de unidades textuales.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -133,21 +131,20 @@ Las mayúsculas sirven para marcar jerarquía y distinción en los nombres propi
 ¿Cuál es la regla de tilde para las palabras **esdrújulas**?
 
 ### Opciones
-- [ ] A) Solo se tildan si terminan en vocal.
-  <!-- feedback: Esa no es la regla. -->
-- [ ] B) Se tildan si terminan en n o s.
-  <!-- feedback: Esa es la regla de las agudas. -->
-- [x] C) Se tildan todas siempre, sin excepción.
-  <!-- feedback: ¡Así es! Es la regla más constante del español. -->
-- [ ] D) Nunca se tildan.
-  <!-- feedback: Al contrario, ¡siempre la llevan! -->
+- [ ] A) Solo se tildan si terminan en vocal. <!-- feedback: Incorrecto. Solo se tildan si terminan en vocal. -->
+
+- [ ] B) Se tildan si terminan en n o s. <!-- feedback: Incorrecto. Se tildan si terminan en n o s. -->
+
+- [x] C) Se tildan todas siempre, sin excepción. <!-- feedback: Correcto! Se tildan todas siempre, sin excepción. -->
+
+- [ ] D) Nunca se tildan. <!-- feedback: Incorrecto. Nunca se tildan. -->
 
 ### Explicación Pedagogica
 La posición del acento en la antepenúltima sílaba obliga siempre al uso de la tilde en español.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -158,21 +155,20 @@ La posición del acento en la antepenúltima sílaba obliga siempre al uso de la
 ¿En qué parte del cuento se resuelve el problema o nudo?
 
 ### Opciones
-- [ ] A) Inicio.
-  <!-- feedback: Ahí se presenta el cuento. -->
-- [ ] B) Nudo.
-  <!-- feedback: Ahí se presenta el problema. -->
-- [x] C) Desenlace.
-  <!-- feedback: ¡Exacto! El final o desenlace muestra la solución. -->
-- [ ] D) Título.
-  <!-- feedback: Es el nombre de la historia. -->
+- [ ] A) Inicio. <!-- feedback: Incorrecto. Inicio. -->
+
+- [ ] B) Nudo. <!-- feedback: Incorrecto. Nudo. -->
+
+- [x] C) Desenlace. <!-- feedback: Correcto! Desenlace. -->
+
+- [ ] D) Título. <!-- feedback: Incorrecto. Título. -->
 
 ### Explicación Pedagogica
 La estructura narrativa clásica sigue una secuencia de equilibrio, conflicto y nueva resolución.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -183,21 +179,20 @@ La estructura narrativa clásica sigue una secuencia de equilibrio, conflicto y 
 ¿Qué signo de puntuación falta en esta frase: "Comí mango__ banano y fresa"?
 
 ### Opciones
-- [ ] A) Un punto.
-  <!-- feedback: El punto separaría demasiado las frutas. -->
-- [x] B) Una coma.
-  <!-- feedback: ¡Muy bien! Se necesita una coma enumerativa entre mango y banano. -->
-- [ ] C) Un signo de exclamación.
-  <!-- feedback: No es una expresión de asombro. -->
-- [ ] D) Dos puntos.
-  <!-- feedback: Se usan antes de empezar la lista, no entre elementos. -->
+- [ ] A) Un punto. <!-- feedback: Incorrecto. Un punto. -->
+
+- [x] B) Una coma. <!-- feedback: Correcto! Una coma. -->
+
+- [ ] C) Un signo de exclamación. <!-- feedback: Incorrecto. Un signo de exclamación. -->
+
+- [ ] D) Dos puntos. <!-- feedback: Incorrecto. Dos puntos. -->
 
 ### Explicación Pedagogica
 La coma organiza los elementos de una serie, facilitando la lectura rítmica del texto.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Comunicación Escrita
@@ -208,21 +203,20 @@ La coma organiza los elementos de una serie, facilitando la lectura rítmica del
 Si ves una mano dibujada que dice "PARE", ¿qué lenguajes se están combinando?
 
 ### Opciones
-- [ ] A) Solo lenguaje oral.
-  <!-- feedback: No hay nadie hablando. -->
-- [ ] B) Solo lenguaje de señas.
-  <!-- feedback: Es un dibujo, no un movimiento de manos real. -->
-- [x] C) Lenguaje icónico (dibujo) y verbal escrito (palabra).
-  <!-- feedback: ¡Excelente! La combinación refuerza el mensaje de tránsito. -->
-- [ ] D) Lenguaje sonoro y químico.
-  <!-- feedback: No tiene nada que ver. -->
+- [ ] A) Solo lenguaje oral. <!-- feedback: Incorrecto. Solo lenguaje oral. -->
+
+- [ ] B) Solo lenguaje de señas. <!-- feedback: Incorrecto. Solo lenguaje de señas. -->
+
+- [x] C) Lenguaje icónico (dibujo) y verbal escrito (palabra). <!-- feedback: Correcto! Lenguaje icónico (dibujo) y verbal escrito (palabra). -->
+
+- [ ] D) Lenguaje sonoro y químico. <!-- feedback: Incorrecto. Lenguaje sonoro y químico. -->
 
 ### Explicación Pedagogica
 La multimodalidad (usar varios tipos de signos) hace que la comunicación sea más efectiva y universal.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -233,21 +227,20 @@ La multimodalidad (usar varios tipos de signos) hace que la comunicación sea m�
 ¿Qué es lo más importante para que un texto se entienda bien?
 
 ### Opciones
-- [ ] A) Que tenga muchos dibujos de colores.
-  <!-- feedback: Ayudan, pero no son lo esencial. -->
-- [x] B) Que las ideas estén ordenadas y tengan sentido completo (coherencia).
-  <!-- feedback: ¡Correcto! El orden y la lógica son la base de la escritura. -->
-- [ ] C) Que use palabras muy difíciles que nadie conozca.
-  <!-- feedback: Al contrario, eso dificulta la comprensión. -->
-- [ ] D) Que sea muy, muy largo.
-  <!-- feedback: La extensión no garantiza la calidad. -->
+- [ ] A) Que tenga muchos dibujos de colores. <!-- feedback: Incorrecto. Que tenga muchos dibujos de colores. -->
+
+- [x] B) Que las ideas estén ordenadas y tengan sentido completo (coherencia). <!-- feedback: Correcto! Que las ideas estén ordenadas y tengan sentido completo (coh -->
+
+- [ ] C) Que use palabras muy difíciles que nadie conozca. <!-- feedback: Incorrecto. Que use palabras muy difíciles que nadie -->
+
+- [ ] D) Que sea muy, muy largo. <!-- feedback: Incorrecto. Que sea muy, muy largo. -->
 
 ### Explicación Pedagogica
 La coherencia textual es la propiedad que permite percibir un texto como una unidad con sentido.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -258,14 +251,13 @@ La coherencia textual es la propiedad que permite percibir un texto como una uni
 ¿Cuál sería el mejor mensaje para terminar tu cuaderno de Lengua Castellana de este año?
 
 ### Opciones
-- [ ] A) Se acabó el papel de mi cuaderno.
-  <!-- feedback: Es un hecho físico, pero no un mensaje de logro. -->
-- [x] B) ¡Aprendí a leer, escribir y expresar mis ideas con alegría!
-  <!-- feedback: ¡Excelente! Resume los logros principales del año con entusiasmo. -->
-- [ ] C) No quiero volver al colegio nunca.
-  <!-- feedback: No refleja el crecimiento académico y personal. -->
-- [ ] D) ABCDEFGHIJ...
-  <!-- feedback: Es solo el alfabeto, no una idea completa. -->
+- [ ] A) Se acabó el papel de mi cuaderno. <!-- feedback: Incorrecto. Se acabó el papel de mi cuaderno. -->
+
+- [x] B) ¡Aprendí a leer, escribir y expresar mis ideas con alegría! <!-- feedback: Correcto! ¡Aprendí a leer, escribir y expresar mis ideas con alegría! -->
+
+- [ ] C) No quiero volver al colegio nunca. <!-- feedback: Incorrecto. No quiero volver al colegio nunca. -->
+
+- [ ] D) ABCDEFGHIJ... <!-- feedback: Incorrecto. ABCDEFGHIJ... -->
 
 ### Explicación Pedagogica
 La capacidad de sintetizar una experiencia de aprendizaje en un mensaje positivo demuestra madurez comunicativa.

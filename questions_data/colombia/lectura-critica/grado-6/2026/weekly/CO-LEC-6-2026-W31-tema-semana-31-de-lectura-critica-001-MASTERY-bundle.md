@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-W31-tema-semana-31-de-lectura-critica-001-MASTERY"
+id: "CO-LEC-6-2026-W31-tema-semana-31-de-lectura-critica-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 10
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W31 — Tema Semana 31 de Lectura Critica
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** I.E. Santa Luisa de Marillac en Villavicencio
+**Contexto:** I.E. Santa Luisa de Marillac en Villavicencio
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Villavicencio, se discute sobre Tema Semana 31 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 31 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Tunja
+**Contexto:** Colegio La Presentación en Tunja
 **Expected_Success:** 0.75
 
 ### Enunciado
 En la clase de Lectura Critica del Colegio La Presentación en Tunja, se discute sobre Tema Semana 31 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 31 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Pasto
+**Contexto:** I.E. Santa Luisa de Marillac en Pasto
 **Expected_Success:** 0.73
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Pasto, se discute sobre Tema Semana 31 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 31 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Neiva
+**Contexto:** Gimnasio Moderno en Neiva
 **Expected_Success:** 0.71
 
 ### Enunciado
 En la clase de Lectura Critica del Gimnasio Moderno en Neiva, se discute sobre Tema Semana 31 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 31 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Barranquilla
+**Contexto:** Colegio La Presentación en Barranquilla
 **Expected_Success:** 0.78
 
 ### Enunciado
 En la clase de Lectura Critica del Colegio La Presentación en Barranquilla, se discute sobre Tema Semana 31 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 31 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. Francisco de Paula Santander en Villavicencio
+**Contexto:** I.E. Francisco de Paula Santander en Villavicencio
 **Expected_Success:** 0.56
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Villavicencio, se discute sobre Tema Semana 31 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 31 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. San José en Neiva
+**Contexto:** I.E. San José en Neiva
 **Expected_Success:** 0.68
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. San José en Neiva, se discute sobre Tema Semana 31 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 31 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** I.E. Francisco de Paula Santander en Riohacha
+**Contexto:** I.E. Francisco de Paula Santander en Riohacha
 **Expected_Success:** 0.57
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Riohacha, se discute sobre Tema Semana 31 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 31 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Cúcuta
+**Contexto:** I.E. Francisco de Paula Santander en Cúcuta
 **Expected_Success:** 0.61
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Cúcuta, se discute sobre Tema Semana 31 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 31 de Lectura Critica es central en el currículo de 6°.
 **ID:** `CO-LEC-6-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** I.E. Gabriel García Márquez en Riohacha
+**Contexto:** I.E. Gabriel García Márquez en Riohacha
 **Expected_Success:** 0.71
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Gabriel García Márquez en Riohacha, se discute sobre Tema Semana 31 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

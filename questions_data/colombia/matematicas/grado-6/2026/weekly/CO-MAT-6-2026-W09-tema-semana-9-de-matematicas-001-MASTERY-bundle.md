@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W09-tema-semana-9-de-matematicas-001-MASTERY"
+id: "CO-MAT-6-2026-W09-tema-semana-9-de-matematicas-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 10
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W09 — Tema Semana 9 de Matematicas
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Tunja
+**Contexto:** Colegio La Presentación en Tunja
 **Expected_Success:** 0.53
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Tunja, se discute sobre Tema Semana 9 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 9 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 9 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 9 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 9 de Matematicas es central en el currículo de 6°. La r
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** I.E. Francisco de Paula Santander en Sincelejo
+**Contexto:** I.E. Francisco de Paula Santander en Sincelejo
 **Expected_Success:** 0.77
 
 ### Enunciado
 En la clase de Matematicas del I.E. Francisco de Paula Santander en Sincelejo, se discute sobre Tema Semana 9 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 9 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 9 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 9 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 9 de Matematicas es central en el currículo de 6°. La r
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Villavicencio
+**Contexto:** Colegio La Presentación en Villavicencio
 **Expected_Success:** 0.63
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Villavicencio, se discute sobre Tema Semana 9 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 9 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 9 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 9 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 9 de Matematicas es central en el currículo de 6°. La r
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Ibagué
+**Contexto:** I.E. Jorge Eliécer Gaitán en Ibagué
 **Expected_Success:** 0.62
 
 ### Enunciado
 En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Ibagué, se discute sobre Tema Semana 9 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 9 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 9 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 9 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 9 de Matematicas es central en el currículo de 6°. La r
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Quibdó
+**Contexto:** Gimnasio Moderno en Quibdó
 **Expected_Success:** 0.63
 
 ### Enunciado
 En la clase de Matematicas del Gimnasio Moderno en Quibdó, se discute sobre Tema Semana 9 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 9 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 9 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 9 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 9 de Matematicas es central en el currículo de 6°. La r
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Ibagué
+**Contexto:** Colegio Nacional San Bartolomé en Ibagué
 **Expected_Success:** 0.77
 
 ### Enunciado
 En la clase de Matematicas del Colegio Nacional San Bartolomé en Ibagué, se discute sobre Tema Semana 9 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 9 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 9 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 9 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 9 de Matematicas es central en el currículo de 6°. La r
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Ibagué
+**Contexto:** I.E. Gabriel García Márquez en Ibagué
 **Expected_Success:** 0.70
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Ibagué, se discute sobre Tema Semana 9 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 9 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 9 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 9 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 9 de Matematicas es central en el currículo de 6°. La r
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Cúcuta
+**Contexto:** I.E. Gabriel García Márquez en Cúcuta
 **Expected_Success:** 0.75
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Cúcuta, se discute sobre Tema Semana 9 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 9 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 9 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 9 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 9 de Matematicas es central en el currículo de 6°. La r
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. San José en Cali
+**Contexto:** I.E. San José en Cali
 **Expected_Success:** 0.56
 
 ### Enunciado
 En la clase de Matematicas del I.E. San José en Cali, se discute sobre Tema Semana 9 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 9 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 9 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 9 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 9 de Matematicas es central en el currículo de 6°. La r
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. Francisco de Paula Santander en Medellín
+**Contexto:** I.E. Francisco de Paula Santander en Medellín
 **Expected_Success:** 0.76
 
 ### Enunciado
 En la clase de Matematicas del I.E. Francisco de Paula Santander en Medellín, se discute sobre Tema Semana 9 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 9 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 9 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 9 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

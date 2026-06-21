@@ -1,28 +1,32 @@
 ---
-id: "CO-LEN-6-2026-W20-repaso-p2-001-MASTERY"
+id: "CO-LEN-6-2026-W20-repaso-p2-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lengua"
 tema: "repaso-p2"
-semana: "W20"
+week: "W20"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso Segundo Periodo - Grado 6
 ## Semana W20 (Novela, Poesía, Teatro, Historieta)
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEN-6-2026-W20-repaso-p2-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio San Felipe Neri de Cartagena, la profesora Lina repasa los géneros literarios vistos en el segundo periodo.
+**Contexto:** En el Colegio San Felipe Neri de Cartagena, la profesora Lina repasa los géneros literarios vistos en el segundo periodo.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Cada género literario tiene convenciones propias: la novela (narrativa extensa,
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LEN-6-2026-W20-repaso-p2-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. La Salle de Apartadó, los estudiantes leen un fragmento y deben identificar su género.
+**Contexto:** En la I.E. La Salle de Apartadó, los estudiantes leen un fragmento y deben identificar su género.
 **Expected_Success:** 0.79
 
 ### Enunciado
@@ -60,11 +64,11 @@ Para identificar el género de un texto hay que observar sus elementos formales.
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEN-6-2026-W20-repaso-p2-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En el Colegio San Pedro Claver de Bucaramanga, los estudiantes clasifican textos según su género.
+**Contexto:** En el Colegio San Pedro Claver de Bucaramanga, los estudiantes clasifican textos según su género.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -81,11 +85,11 @@ La poesía lírica se caracteriza por: estructura en versos, métrica (número d
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LEN-6-2026-W20-repaso-p2-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. El Rosario de Rionegro, los estudiantes analizan el mismo hecho narrado en diferentes géneros.
+**Contexto:** En la I.E. El Rosario de Rionegro, los estudiantes analizan el mismo hecho narrado en diferentes géneros.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -106,11 +110,11 @@ Un mismo contenido narrativo puede expresarse en diferentes géneros, y cada gé
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEN-6-2026-W20-repaso-p2-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio San Luis de Cartago, los estudiantes repasan los tipos de narrador vistos en novela y cuento.
+**Contexto:** En el Colegio San Luis de Cartago, los estudiantes repasan los tipos de narrador vistos en novela y cuento.
 **Expected_Success:** 0.73
 
 ### Enunciado
@@ -127,11 +131,11 @@ Los tipos de narrador según su conocimiento son: omnisciente (lo sabe todo, ter
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LEN-6-2026-W20-repaso-p2-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En la I.E. Buenos Aires de Soacha, los estudiantes aplican sus conocimientos para identificar figuras literarias.
+**Contexto:** En la I.E. Buenos Aires de Soacha, los estudiantes aplican sus conocimientos para identificar figuras literarias.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -148,11 +152,11 @@ La personificación (o prosopopeya) consiste en atribuir cualidades, acciones o 
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LEN-6-2026-W20-repaso-p2-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Técnico Industrial de Sogamoso, los estudiantes analizan la estructura del texto teatral.
+**Contexto:** En el Colegio Técnico Industrial de Sogamoso, los estudiantes analizan la estructura del texto teatral.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -169,11 +173,11 @@ La estructura de actos y escenas en el teatro responde a necesidades dramáticas
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEN-6-2026-W20-repaso-p2-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio Comfandi de Cali, los estudiantes evalúan qué género literario es más efectivo para contar una historia.
+**Contexto:** En el Colegio Comfandi de Cali, los estudiantes evalúan qué género literario es más efectivo para contar una historia.
 **Expected_Success:** 0.56
 
 ### Enunciado
@@ -190,11 +194,11 @@ Cada género literario tiene su propio potencial expresivo. La novela destaca po
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEN-6-2026-W20-repaso-p2-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En el Liceo Femenino de Tumaco, los estudiantes proponen formas creativas de combinar géneros.
+**Contexto:** En el Liceo Femenino de Tumaco, los estudiantes proponen formas creativas de combinar géneros.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -212,11 +216,11 @@ El arte contemporáneo tiende a la hibridación de géneros. Obras como "El diar
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEN-6-2026-W20-repaso-p2-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio Nuevo Gimnasio de Bucaramanga, los estudiantes deben crear un resumen creativo del segundo periodo.
+**Contexto:** En el Colegio Nuevo Gimnasio de Bucaramanga, los estudiantes deben crear un resumen creativo del segundo periodo.
 **Expected_Success:** 0.45
 
 ### Enunciado

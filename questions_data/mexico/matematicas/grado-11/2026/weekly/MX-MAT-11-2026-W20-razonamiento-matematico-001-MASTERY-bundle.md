@@ -1,5 +1,5 @@
 ---
-id: "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY"
+id: "MX-MAT-11-2026-W20-razonamiento-matematico-001-MASTERY-bundle"
 country: "MX"
 grado: 11
 asignatura: "matematicas"
@@ -16,6 +16,7 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Razonamiento Matematico - MX Grade 11
 ## Semana W20

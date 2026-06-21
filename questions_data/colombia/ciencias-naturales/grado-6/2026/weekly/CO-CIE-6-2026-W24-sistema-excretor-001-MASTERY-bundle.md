@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W24-sistema-excretor-001-MASTERY"
+id: "CO-CIE-6-2026-W24-sistema-excretor-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W24 — Sistema Excretor
 
@@ -26,10 +28,11 @@ tier: "legacy"
 ## Question 1 [D1]
 **ID:** `CO-CIE-6-2026-W24-sistema-excretor-001-v1`
 **Bloom:** Remember | **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, inician el sistema excretor.
+**Expected_Success:** 0.75
+**Contexto:** En Bogotá, inician el sistema excretor.
 ### Enunciado
 ¿Función principal del sistema excretor?
-### Options
+### Opciones
 - [ ] A) Digerir alimentos <!-- feedback: Es del digestivo. -->
 - [x] B) Eliminar desechos de la sangre y mantener homeostasis <!-- feedback: Correcto. -->
 - [ ] C) Transportar oxígeno <!-- feedback: Circulatorio. -->
@@ -42,10 +45,11 @@ El sistema excretor filtra sangre, elimina desechos (urea, creatinina, sales) y 
 ## Question 2 [D1]
 **ID:** `CO-CIE-6-2026-W24-sistema-excretor-002-v1`
 **Bloom:** Remember | **ICFES:** Comunicación y Representación
-**Context:** En Medellín, identifican riñones.
+**Expected_Success:** 0.75
+**Contexto:** En Medellín, identifican riñones.
 ### Enunciado
 ¿Cuántos riñones tenemos?
-### Options
+### Opciones
 - [ ] A) 1 <!-- feedback: Se puede vivir con uno. -->
 - [x] B) 2 <!-- feedback: Correcto. -->
 - [ ] C) 4 <!-- feedback: No. -->
@@ -58,10 +62,11 @@ Dos riñones (forma de frijol, ~12 cm) con ~1 millón de nefronas cada uno. Una 
 ## Question 3 [D2]
 **ID:** `CO-CIE-6-2026-W24-sistema-excretor-003-v1`
 **Bloom:** Understand | **ICFES:** Comunicación y Representación
-**Context:** En Cali, explican filtración.
+**Expected_Success:** 0.75
+**Contexto:** En Cali, explican filtración.
 ### Enunciado
 ¿Qué unidad funcional del riñón filtra la sangre?
-### Options
+### Opciones
 - [ ] A) El glomérulo <!-- feedback: Es parte de la nefrona. -->
 - [ ] B) La pelvis renal <!-- feedback: Recolecta orina. -->
 - [x] C) La nefrona <!-- feedback: Correcto. -->
@@ -74,10 +79,11 @@ Cada nefrona tiene: glomérulo (filtra 180 L/día), túbulo proximal (reabsorbe 
 ## Question 4 [D2]
 **ID:** `CO-CIE-6-2026-W24-sistema-excretor-004-v1`
 **Bloom:** Understand | **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, explican la orina.
+**Expected_Success:** 0.75
+**Contexto:** En Barranquilla, explican la orina.
 ### Enunciado
 ¿Qué contiene la orina?
-### Options
+### Opciones
 - [ ] A) Solo agua <!-- feedback: Tiene más componentes. -->
 - [ ] B) Sangre y agua <!-- feedback: Sangre en orina es anormal. -->
 - [x] C) Agua, urea, sales y urocromo <!-- feedback: Correcto. -->
@@ -90,10 +96,11 @@ Orina: ~95% agua, 2% urea (desecho proteico), 1.5% sales (NaCl, K, fosfatos), ur
 ## Question 5 [D3]
 **ID:** `CO-CIE-6-2026-W24-sistema-excretor-005-v1`
 **Bloom:** Apply | **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, aplican sobre hidratación.
+**Expected_Success:** 0.75
+**Contexto:** En Bucaramanga, aplican sobre hidratación.
 ### Enunciado
 ¿Por qué la orina es más oscura sin agua?
-### Options
+### Opciones
 - [ ] A) Hay sangre <!-- feedback: Sangre es anormal. -->
 - [x] B) Los riñones concentran la orina, más pigmento por menos agua <!-- feedback: Correcto. -->
 - [ ] C) Más desechos <!-- feedback: No varía significativamente. -->
@@ -106,10 +113,11 @@ Deshidratados, los riñones reabsorben más agua, concentrando la orina (más os
 ## Question 6 [D3]
 **ID:** `CO-CIE-6-2026-W24-sistema-excretor-006-v1`
 **Bloom:** Apply | **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, aplican sobre cálculos renales.
+**Expected_Success:** 0.75
+**Contexto:** En Cartagena, aplican sobre cálculos renales.
 ### Enunciado
 ¿Por qué se forman cálculos renales?
-### Options
+### Opciones
 - [ ] A) Los riñones producen piedras <!-- feedback: No. -->
 - [ ] B) Comer mucha sal <!-- feedback: Contribuye pero no es única causa. -->
 - [x] C) Sales minerales cristalizan en orina concentrada <!-- feedback: Correcto. -->
@@ -122,10 +130,11 @@ Cálculos: 80% calcio (oxalato/fosfato), 10% ácido úrico. Factores: poca agua,
 ## Question 7 [D4]
 **ID:** `CO-CIE-6-2026-W24-sistema-excretor-007-v1`
 **Bloom:** Analyze | **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan diálisis.
+**Expected_Success:** 0.75
+**Contexto:** En Pereira, analizan diálisis.
 ### Enunciado
 ¿Por qué los pacientes con insuficiencia renal necesitan diálisis?
-### Options
+### Opciones
 - [ ] A) Producen mucha orina <!-- feedback: Producen poca. -->
 - [ ] B) Sangre tiene exceso de nutrientes <!-- feedback: Exceso de desechos tóxicos. -->
 - [x] C) Los riñones no filtran desechos (urea, creatinina, K) que se acumulan tóxicos <!-- feedback: Correcto. -->
@@ -138,10 +147,11 @@ Diálisis: la sangre pasa por una máquina que filtra desechos. 3 sesiones/seman
 ## Question 8 [D4]
 **ID:** `CO-CIE-6-2026-W24-sistema-excretor-008-v1`
 **Bloom:** Analyze | **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, analizan infecciones urinarias.
+**Expected_Success:** 0.75
+**Contexto:** En Manizales, analizan infecciones urinarias.
 ### Enunciado
 ¿Por qué las mujeres tienen más infecciones urinarias?
-### Options
+### Opciones
 - [ ] A) Se enferman más en general <!-- feedback: No. -->
 - [ ] B) Hombres tienen más defensas <!-- feedback: No. -->
 - [x] C) Uretra femenina más corta y cerca del ano <!-- feedback: Correcto. -->
@@ -154,10 +164,11 @@ E. coli del intestino causa ~80% de infecciones. Uretra femenina (4 cm) vs mascu
 ## Question 9 [D5]
 **ID:** `CO-CIE-6-2026-W24-sistema-excretor-009-v1`
 **Bloom:** Evaluate | **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan donación renal.
+**Expected_Success:** 0.75
+**Contexto:** En Cúcuta, evalúan donación renal.
 ### Enunciado
 ¿Por qué se puede donar un riñón en vida?
-### Options
+### Opciones
 - [ ] A) No se necesitan riñones <!-- feedback: Sí se necesitan. -->
 - [ ] B) El riñón restante se duplica <!-- feedback: No se duplica. -->
 - [x] C) El riñón restante se hipertrofia (aumenta capacidad) <!-- feedback: Correcto. -->
@@ -170,10 +181,11 @@ La nefrectomía es posible porque el riñón restante alcanza ~70-80% de funció
 ## Question 10 [D5]
 **ID:** `CO-CIE-6-2026-W24-sistema-excretor-010-v1`
 **Bloom:** Evaluate | **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan hábitos renales.
+**Expected_Success:** 0.75
+**Contexto:** En Ibagué, evalúan hábitos renales.
 ### Enunciado
 ¿Mejor forma de mantener riñones saludables?
-### Options
+### Opciones
 - [ ] A) Vitaminas diarias <!-- feedback: No previenen enfermedad renal. -->
 - [ ] B) Orinar poco <!-- feedback: Retener orina es malo. -->
 - [x] C) Beber agua, no fumar, controlar presión, limitar sal <!-- feedback: Correcto. -->

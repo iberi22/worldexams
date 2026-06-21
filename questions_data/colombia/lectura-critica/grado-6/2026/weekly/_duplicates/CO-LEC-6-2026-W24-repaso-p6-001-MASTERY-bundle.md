@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-W24-repaso-p6-001-MASTERY"
+id: "CO-LEC-6-2026-W24-repaso-p6-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -12,7 +12,11 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W24 — REPASO Periodo 6
 
@@ -26,14 +30,15 @@ alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
 
 **ID:** `CO-LEC-6-2026-W24-repaso-p6-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de textos argumentativos
-**Context:** Repaso de tipos de texto
+**Contexto:** Repaso de tipos de texto
 
 ### Enunciado
 
 ¿Cuál de las siguientes situaciones corresponde a un texto ARGUMENTATIVO?
 
-### Options
+### Opciones
 - [ ] A) Un cuento sobre un niño que viaja por Colombia en globo <!-- feedback: Incorrecto. Un cuento es un texto NARRATIVO, no argumentativo. Cuenta una historia. -->
 - [ ] B) Una receta para preparar bandeja paisa <!-- feedback: Incorrecto. Una receta es un texto INSTRUCTIVO. Explica pasos para hacer algo. -->
 - [ ] C) Un artículo que describe los volcanes de Colombia <!-- feedback: Incorrecto. Un artículo descriptivo es un texto EXPOSITIVO/INFORMATIVO. Su propósito es describir, no convencer. -->
@@ -49,14 +54,15 @@ Los textos argumentativos tienen como propósito convencer o persuadir al lector
 
 **ID:** `CO-LEC-6-2026-W24-repaso-p6-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de tesis
-**Context:** Repaso: qué es la tesis
+**Contexto:** Repaso: qué es la tesis
 
 ### Enunciado
 
 En un texto argumentativo, ¿qué es la TESIS?
 
-### Options
+### Opciones
 - [ ] A) El cuento o historia que se narra al inicio <!-- feedback: Incorrecto. Una tesis no es una historia narrativa. Los textos argumentativos pueden incluir anécdotas, pero la tesis es la idea central que se defiende. -->
 - [x] B) La idea principal que el autor defiende con argumentos <!-- feedback: ¡Correcto! La tesis es la postura del autor frente a un tema. Es lo que el autor quiere demostrar. Todo el texto gira en torno a defenderla. -->
 - [ ] C) La lista de fuentes que usó el autor <!-- feedback: Incorrecto. Las fuentes son referencias que apoyan los argumentos, pero no son la tesis. La tesis es la idea, no las fuentes. -->
@@ -72,8 +78,9 @@ Para identificar la tesis, pregúntate: ¿qué es lo que el autor quiere demostr
 
 **ID:** `CO-LEC-6-2026-W24-repaso-p6-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Diferenciar hecho de opinión
-**Context:** Repaso: hecho vs opinión
+**Contexto:** Repaso: hecho vs opinión
 
 ### Enunciado
 
@@ -81,7 +88,7 @@ Para identificar la tesis, pregúntate: ¿qué es lo que el autor quiere demostr
 
 ¿Cuál de las dos afirmaciones es una OPINIÓN?
 
-### Options
+### Opciones
 - [ ] A) "Colombia tiene una extensión de 1.141.748 km²" <!-- feedback: Incorrecto. Esa es una afirmación verificable. Se puede comprobar consultando datos geográficos oficiales. Es un HECHO. -->
 - [ ] B) "Colombia tiene una extensión" <!-- feedback: Incorrecto. Eso es un hecho comprobable. Todos los países tienen una extensión territorial. -->
 - [x] C) "Es el país más hermoso de Sudamérica" <!-- feedback: ¡Correcto! "Más hermoso" es una apreciación subjetiva. Depende del gusto de cada persona. No se puede comprobar objetivamente. Es una OPINIÓN. -->
@@ -97,8 +104,9 @@ Los HECHOS son afirmaciones que se pueden verificar (medir, contar, consultar). 
 
 **ID:** `CO-LEC-6-2026-W24-repaso-p6-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de argumentos
-**Context:** Repaso: identificar argumentos
+**Contexto:** Repaso: identificar argumentos
 
 ### Enunciado
 
@@ -108,7 +116,7 @@ Los HECHOS son afirmaciones que se pueden verificar (medir, contar, consultar). 
 
 ¿Qué función cumple el argumento en relación con la tesis?
 
-### Options
+### Opciones
 - [ ] A) Contradecir la tesis <!-- feedback: Incorrecto. El argumento no contradice la tesis, sino que la apoya. Dice "porque", que indica una razón a favor. -->
 - [ ] B) Preguntar si la tesis es cierta <!-- feedback: Incorrecto. El argumento no es una pregunta. Es una afirmación que da razones. -->
 - [x] C) Apoyar la tesis dando razones <!-- feedback: ¡Correcto! El argumento responde a la pregunta ¿POR QUÉ? la tesis es válida. "Porque necesitan tiempo para jugar..." son las razones que apoyan que el recreo debe ser de 30 minutos. -->
@@ -124,8 +132,9 @@ Los argumentos son las razones que el autor da para convencernos de que su tesis
 
 **ID:** `CO-LEC-6-2026-W24-repaso-p6-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Inferencia básica
-**Context:** Repaso: inferir información implícita
+**Contexto:** Repaso: inferir información implícita
 
 ### Enunciado
 
@@ -135,7 +144,7 @@ Los argumentos son las razones que el autor da para convencernos de que su tesis
 
 ¿Cómo se sintió María cuando le dijeron que no había arequipe?
 
-### Options
+### Opciones
 - [ ] A) Alegre, porque prefería chocolate <!-- feedback: Incorrecto. Si estuviera alegre, no habría fruncido el ceño ni suspirado. Sus reacciones indican lo contrario. -->
 - [x] B) Decepcionada, porque quería arequipe <!-- feedback: ¡Correcto! "Frunció el ceño" y "suspiró" son señales de decepción. Además, pidió el helado de arequipe primero, lo que indica que era su preferido. -->
 - [ ] C) Enojada con el vendedor <!-- feedback: Incorrecto. Aunque frunció el ceño, no hay evidencia de enojo contra el vendedor. El texto no dice que lo haya regañado o reclamado. -->
@@ -151,8 +160,9 @@ Las emociones se infieren de las reacciones físicas y verbales de las personas.
 
 **ID:** `CO-LEC-6-2026-W24-repaso-p6-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Causa-efecto aplicado
-**Context:** Repaso: identificar causa y efecto
+**Contexto:** Repaso: identificar causa y efecto
 
 ### Enunciado
 
@@ -162,7 +172,7 @@ Las emociones se infieren de las reacciones físicas y verbales de las personas.
 
 ¿Cuál fue la CAUSA de que los profesores colocaran dibujos en las canecas?
 
-### Options
+### Opciones
 - [ ] A) Que el colegio decidiera implementar el reciclaje <!-- feedback: Incorrecto. Esa fue la causa inicial de todo el programa, pero no la causa específica de poner dibujos. Primero pusieron canecas, luego vieron el problema. -->
 - [ ] B) Que hubiera canecas de diferentes colores <!-- feedback: Incorrecto. Las canecas de colores existían desde el inicio. El problema fue que los estudiantes las confundían. -->
 - [x] C) Que los estudiantes confundían los colores de las canecas <!-- feedback: ¡Correcto! El texto dice: "Al principio, muchos estudiantes confundían los colores. Por eso, los profesores colocaron dibujos". La confusión (causa) llevó a la solución de los dibujos (efecto). -->
@@ -178,8 +188,9 @@ Para identificar la causa de una acción, busca qué problema la motivó. "Por e
 
 **ID:** `CO-LEC-6-2026-W24-repaso-p6-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Persuasión y audiencia
-**Context:** Repaso: identificar a quién va dirigido un texto
+**Contexto:** Repaso: identificar a quién va dirigido un texto
 
 ### Enunciado
 
@@ -189,7 +200,7 @@ Para identificar la causa de una acción, busca qué problema la motivó. "Por e
 
 ¿A qué audiencia va dirigido este texto persuasivo?
 
-### Options
+### Opciones
 - [ ] A) A los estudiantes del colegio <!-- feedback: Incorrecto. La carta habla de "sus hijos" y "los niños" en tercera persona, lo que indica que los destinatarios no son los estudiantes sino sus padres. -->
 - [x] B) A los padres y acudientes de los estudiantes <!-- feedback: ¡Correcto! La carta comienza con "Queridos padres" y menciona "el rendimiento académico de sus hijos". Está claramente dirigida a los padres de familia. -->
 - [ ] C) A los profesores del colegio <!-- feedback: Incorrecto. Los profesores serían los organizadores de la reunión, no los destinatarios. La carta está escrita por el colegio para los padres. -->
@@ -205,8 +216,9 @@ Identificar la audiencia es clave para entender un texto persuasivo. El lenguaje
 
 **ID:** `CO-LEC-6-2026-W24-repaso-p6-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Argumentos: suficiencia y pertinencia
-**Context:** Repaso: evaluar si un argumento es adecuado
+**Contexto:** Repaso: evaluar si un argumento es adecuado
 
 ### Enunciado
 
@@ -218,7 +230,7 @@ Identificar la audiencia es clave para entender un texto persuasivo. El lenguaje
 
 ¿Cuál de los argumentos NO es pertinente para apoyar la tesis?
 
-### Options
+### Opciones
 - [ ] A) El Argumento 1 <!-- feedback: Incorrecto. "Útil para el futuro" es una razón válida. Apoya la tesis porque muestra un beneficio de aprender programación. -->
 - [ ] B) El Argumento 2 <!-- feedback: Incorrecto. "En otros países ya lo hacen" es un argumento válido. Usa el ejemplo de otros lugares como evidencia de que es posible y beneficioso. -->
 - [x] C) El Argumento 3 <!-- feedback: ¡Correcto! Que a Juan no le guste la programación no es un argumento en contra ni a favor de la tesis. Es una opinión personal de un estudiante, no una razón para decidir si todos deben aprenderla. -->
@@ -234,8 +246,9 @@ Un argumento pertinente es aquel que tiene relación directa con la tesis y apor
 
 **ID:** `CO-LEC-6-2026-W24-repaso-p6-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Comparación de argumentos
-**Context:** Repaso: contrastar dos textos argumentativos
+**Contexto:** Repaso: contrastar dos textos argumentativos
 
 ### Enunciado
 
@@ -245,7 +258,7 @@ Un argumento pertinente es aquel que tiene relación directa con la tesis y apor
 
 ¿En qué se diferencian principalmente las tesis de estos dos textos?
 
-### Options
+### Opciones
 - [ ] A) El Texto A habla de perros grandes y el Texto B de perros pequeños <!-- feedback: Incorrecto. Los textos no especifican el tamaño de los perros. Esa diferencia no está en los textos. -->
 - [x] B) El Texto A sostiene que los perros necesitan patio, mientras que el Texto B sostiene que pueden vivir en apartamentos si reciben atención suficiente <!-- feedback: ¡Correcto! La tesis de A es "los perros deben vivir en casas con patio". La tesis de B es "pueden vivir en apartamentos si reciben atención". Son posturas opuestas sobre el mismo tema. -->
 - [ ] C) El Texto A defiende a los perros y el Texto B defiende a los dueños <!-- feedback: Incorrecto. Ambos textos se centran en el bienestar del perro, no en los dueños. -->
@@ -261,8 +274,9 @@ Comparar tesis de dos textos sobre el mismo tema ayuda a desarrollar pensamiento
 
 **ID:** `CO-LEC-6-2026-W24-repaso-p6-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Evaluación de la calidad del texto argumentativo
-**Context:** Repaso: juzgar la efectividad de un argumento
+**Contexto:** Repaso: juzgar la efectividad de un argumento
 
 ### Enunciado
 
@@ -272,7 +286,7 @@ Un estudiante escribió:
 
 ¿Qué debilidad tiene este argumento?
 
-### Options
+### Opciones
 - [ ] A) La tesis no está clara <!-- feedback: Incorrecto. La tesis es clara: "No deberían vender comida chatarra". Está explícita desde la primera oración. -->
 - [ ] B) El argumento es demasiado largo y confuso <!-- feedback: Incorrecto. El argumento es corto, no confuso. El problema no es la extensión. -->
 - [x] C) El argumento es muy general, no ofrece evidencia concreta y apela a lo que "todos saben" sin demostrarlo <!-- feedback: ¡Correcto! "Es mala para la salud" es muy vago. No dice cómo afecta la salud, ni cita datos o ejemplos. "Todos lo saben" es una falacia de apelación a la mayoría. Un buen argumento necesita evidencia específica. -->

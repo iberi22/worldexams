@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W25 -- Probabilidad: Conceptos Basicos
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W25-probabilidad-conceptos-001-MASTERY-bundle-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Definicion
+**Contexto:** Definicion
 
 ### Enunciado
 Que es probabilidad?
 
-### Options
+### Opciones
 - [x] A) La medida de que ocurra un evento <!-- feedback: Correcto. -->
 - [ ] B) El numero total de resultados <!-- feedback: Incorrecto. -->
 - [ ] C) La certeza de que algo pasara <!-- feedback: Incorrecto. -->
@@ -48,13 +51,14 @@ Probabilidad mide que tan posible es que ocurra un evento.
 
 **ID:** `CO-MAT-6-2026-W25-probabilidad-conceptos-001-MASTERY-bundle-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Rango
+**Contexto:** Rango
 
 ### Enunciado
 Entre que valores esta la probabilidad?
 
-### Options
+### Opciones
 - [x] A) 0 y 1 (0% a 100%) <!-- feedback: Correcto. -->
 - [ ] B) -1 y 1 <!-- feedback: Incorrecto. -->
 - [ ] C) 0 y 100 <!-- feedback: Incorrecto. -->
@@ -69,13 +73,14 @@ Probabilidad siempre entre 0 (imposible) y 1 (seguro).
 
 **ID:** `CO-MAT-6-2026-W25-probabilidad-conceptos-001-MASTERY-bundle-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Eventos
+**Contexto:** Eventos
 
 ### Enunciado
 Lanzar un dado. Probabilidad de obtener 3?
 
-### Options
+### Opciones
 - [x] A) 1/6 <!-- feedback: Correcto. 1 resultado favorable de 6 posibles. -->
 - [ ] B) 1/2 <!-- feedback: Incorrecto. -->
 - [ ] C) 1/3 <!-- feedback: Incorrecto. -->
@@ -90,13 +95,14 @@ P(3)=1/6. Un dado tiene 6 caras.
 
 **ID:** `CO-MAT-6-2026-W25-probabilidad-conceptos-001-MASTERY-bundle-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Eventos compuestos
+**Contexto:** Eventos compuestos
 
 ### Enunciado
 Lanzar un dado. Probabilidad de par?
 
-### Options
+### Opciones
 - [x] A) 3/6 = 1/2 <!-- feedback: Correcto. 2,4,6 son 3 favorables de 6. -->
 - [ ] B) 2/6 = 1/3 <!-- feedback: Incorrecto. -->
 - [ ] C) 4/6 = 2/3 <!-- feedback: Incorrecto. -->
@@ -111,13 +117,14 @@ Pares: 2,4,6. P=3/6=1/2.
 
 **ID:** `CO-MAT-6-2026-W25-probabilidad-conceptos-001-MASTERY-bundle-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Moneda
+**Contexto:** Moneda
 
 ### Enunciado
 Lanzar una moneda 3 veces. Probabilidad de 3 caras?
 
-### Options
+### Opciones
 - [x] A) 1/8 <!-- feedback: Correcto. Casos: CCC, CCS, CSC, CSS, SCC, SCS, SSC, SSS. -->
 - [ ] B) 1/2 <!-- feedback: Incorrecto. -->
 - [ ] C) 1/3 <!-- feedback: Incorrecto. -->
@@ -132,13 +139,14 @@ Lanzar una moneda 3 veces. Probabilidad de 3 caras?
 
 **ID:** `CO-MAT-6-2026-W25-probabilidad-conceptos-001-MASTERY-bundle-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Bolsa de canicas
+**Contexto:** Bolsa de canicas
 
 ### Enunciado
 Bolsa: 3 rojas, 2 azules, 5 verdes. Probabilidad de sacar azul?
 
-### Options
+### Opciones
 - [x] A) 2/10 = 1/5 <!-- feedback: Correcto. -->
 - [ ] B) 3/10 <!-- feedback: Incorrecto. -->
 - [ ] C) 5/10 = 1/2 <!-- feedback: Incorrecto. -->
@@ -153,13 +161,14 @@ Total=10, azules=2. P=2/10=1/5.
 
 **ID:** `CO-MAT-6-2026-W25-probabilidad-conceptos-001-MASTERY-bundle-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Evento seguro e imposible
+**Contexto:** Evento seguro e imposible
 
 ### Enunciado
 En una bolsa solo con canicas rojas, que probabilidad hay de sacar roja?
 
-### Options
+### Opciones
 - [x] A) 1 (100%) <!-- feedback: Correcto. Seguro. -->
 - [ ] B) 0 (0%) <!-- feedback: Incorrecto. -->
 - [ ] C) 0.5 (50%) <!-- feedback: Incorrecto. -->
@@ -174,13 +183,14 @@ Todas son rojas: P=1, evento seguro.
 
 **ID:** `CO-MAT-6-2026-W25-probabilidad-conceptos-001-MASTERY-bundle-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Suma de probabilidades
+**Contexto:** Suma de probabilidades
 
 ### Enunciado
 Lanzar un dado. P(1)+P(2)+P(3)+P(4)+P(5)+P(6) suma?
 
-### Options
+### Opciones
 - [x] A) 1 <!-- feedback: Correcto. La suma de todas las probabilidades es 1. -->
 - [ ] B) 6 <!-- feedback: Incorrecto. -->
 - [ ] C) 1/6 <!-- feedback: Incorrecto. -->
@@ -195,13 +205,14 @@ Lanzar un dado. P(1)+P(2)+P(3)+P(4)+P(5)+P(6) suma?
 
 **ID:** `CO-MAT-6-2026-W25-probabilidad-conceptos-001-MASTERY-bundle-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Comparar probabilidades
+**Contexto:** Comparar probabilidades
 
 ### Enunciado
 Bolsa A: 4 rojas, 6 azules. Bolsa B: 5 rojas, 5 azules. Cual tiene mayor P(sacar roja)?
 
-### Options
+### Opciones
 - [x] A) Bolsa B (5/10=0.5 > 4/10=0.4) <!-- feedback: Correcto. -->
 - [ ] B) Bolsa A (4/10 vs 5/10) <!-- feedback: Incorrecto. -->
 - [ ] C) Ambas igual <!-- feedback: Incorrecto. -->
@@ -216,13 +227,14 @@ P_A=4/10=0.4. P_B=5/10=0.5. B tiene mayor probabilidad.
 
 **ID:** `CO-MAT-6-2026-W25-probabilidad-conceptos-001-MASTERY-bundle-010-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Frecuencia vs probabilidad
+**Contexto:** Frecuencia vs probabilidad
 
 ### Enunciado
 Lanzaron una moneda 100 veces: 58 caras, 42 sellos. La probabilidad teorica de cara es 0.5. Que paso?
 
-### Options
+### Opciones
 - [x] A) La frecuencia relativa (0.58) se acerca a la teorica (0.5) pero no es exacta <!-- feedback: Correcto. -->
 - [ ] B) La moneda esta mal <!-- feedback: Incorrecto. -->
 - [ ] C) La probabilidad teorica cambia <!-- feedback: Incorrecto. -->

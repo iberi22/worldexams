@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "culturas-precolombinas-taironas"
-semana: "W13"
+week: "W13"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Cultura precolombina Tairona: organizacion social, economia, v
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Donde se desarrollo la cultura Tairona?
@@ -39,12 +44,13 @@ Los Taironas se establecieron en las laderas de la Sierra Nevada de Santa Marta,
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Como construian sus viviendas los Taironas?
@@ -60,12 +66,13 @@ Los Taironas construyeron terrazas de cultivo en las montanas, caminos empedrado
 
 ---
 
-## Pregunta 3 [D1]
+## Question 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cual era la base de la economia Tairona?
@@ -81,12 +88,13 @@ Los Taironas construyeron terrazas de cultivo en las laderas para sembrar maiz, 
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Como se organizaba la sociedad Tairona?
@@ -102,12 +110,13 @@ Los Taironas se organizaban en cacicazgos. El cacique gobernaba y el sacerdote (
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que objeto fabricaban los Taironas con gran habilidad?
@@ -123,12 +132,13 @@ Los Taironas trabajaban el oro con gran maestria, creando figuras, mascaras, pec
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por que los Taironas construian terrazas en las montanas?
@@ -144,12 +154,13 @@ Las terrazas de cultivo eran escalones en las laderas que evitaban la erosion de
 
 ---
 
-## Pregunta 7 [D1]
+## Question 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Como se llama la ciudad sagrada Tairona descubierta en 1972?
@@ -165,12 +176,13 @@ La Ciudad Perdida (Teyuna) fue construida por los Taironas entre los siglos VII 
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY-v8`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que relacion tenian los Taironas con el mar?
@@ -186,12 +198,13 @@ Los Taironas ocupaban desde la costa caribe hasta las altas montanas. Intercambi
 
 ---
 
-## Pregunta 9 [D4]
+## Question 9 [D4]
 
 **ID:** `CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Como influyo el relieve en el desarrollo de la cultura Tairona?
@@ -207,12 +220,13 @@ El relieve montanoso de la Sierra Nevada obligo a los Taironas a innovar con ter
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W13-culturas-precolombinas-taironas-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Compara los Taironas con los Muiscas: cual afirmacion es correcta?

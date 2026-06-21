@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "republica-siglo-xix"
-semana: "W24"
+week: "W24"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "La Republica en el siglo XIX: guerras civiles, Constitucion de
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W24-republica-siglo-xix-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Despues de la disolucion de la Gran Colombia, como se llamo el nuevo pais?
@@ -39,12 +44,13 @@ Entre 1830 y 1858 se llamo Republica de la Nueva Granada. Luego se llamo Confede
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W24-republica-siglo-xix-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que dos partidos politicos se formaron en el siglo XIX en Colombia?
@@ -60,12 +66,13 @@ Los partidos Liberal (progresista, federalista, laico) y Conservador (tradiciona
 
 ---
 
-## Pregunta 3 [D1]
+## Question 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W24-republica-siglo-xix-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que tipo de gobierno querian los federalistas en el siglo XIX?
@@ -81,12 +88,13 @@ Los federalistas (liberales radicales) querian que cada estado (Antioquia, Boyac
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W24-republica-siglo-xix-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 En que ano se promulgo la Constitucion de 1886?
@@ -102,12 +110,13 @@ La Constitucion de 1886, liderada por Rafael Nunez, implanto el centralismo, for
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W24-republica-siglo-xix-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cuantas guerras civiles hubo en Colombia durante el siglo XIX?
@@ -123,12 +132,13 @@ Colombia tuvo mas de 8 guerras civiles en el siglo XIX, incluyendo la Guerra de 
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W24-republica-siglo-xix-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que fue la Guerra de los Mil Dias?
@@ -144,12 +154,13 @@ La Guerra de los Mil Dias (1899-1902) fue la guerra civil mas larga y destructiv
 
 ---
 
-## Pregunta 7 [D1]
+## Question 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W24-republica-siglo-xix-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que consecuencia tuvo la Guerra de los Mil Dias para Colombia?
@@ -165,12 +176,13 @@ La guerra dejo a Colombia en bancarrota y con el ejercito debilitado. Estados Un
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W24-republica-siglo-xix-001-MASTERY-v8`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que era el 'Olimpo Radical'?
@@ -186,12 +198,13 @@ El Olimpo Radical fue el periodo de gobierno del Partido Liberal bajo la Constit
 
 ---
 
-## Pregunta 9 [D1]
+## Question 9 [D1]
 
 **ID:** `CO-SOC-5-2026-W24-republica-siglo-xix-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Como se llamo la constitucion que implanto el federalismo en Colombia?
@@ -207,12 +220,13 @@ La Constitucion de Rionegro (1863) creo los Estados Unidos de Colombia, con 9 es
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W24-republica-siglo-xix-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por que el siglo XIX colombiano se caracterizo por la violencia politica?

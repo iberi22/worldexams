@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY"
+id: "CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "fotosintesis-basica"
-semana: "W11"
+week: "W11"
 periodo: 2
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "El proceso de la fotosíntesis: ingredientes (luz, agua, CO2) 
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # La Fotosíntesis: La Fábrica de las Plantas
 
 Este bundle explora el asombroso proceso mediante el cual las plantas transforman elementos de la naturaleza inanimada en vida y energía para todo el planeta.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una clase de ciencias en Medellín, los niños aprenden que las plantas "cocinan" su propio alimento en sus hojas verdes.
+**Contexto:** En una clase de ciencias en Medellín, los niños aprenden que las plantas "cocinan" su propio alimento en sus hojas verdes.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ La fotosíntesis es fundamental. "Foto" significa luz y "síntesis" significa fa
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Para que la fábrica de la planta funcione, necesita tres "ingredientes" principales que toma de la naturaleza.
+**Contexto:** Para que la fábrica de la planta funcione, necesita tres "ingredientes" principales que toma de la naturaleza.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -73,12 +77,12 @@ Las plantas toman el agua por la raíz, el gas carbónico del aire por las hojas
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Después de realizar la fotosíntesis, la planta libera al aire un gas que es una bendición para todos los animales y humanos.
+**Contexto:** Después de realizar la fotosíntesis, la planta libera al aire un gas que es una bendición para todos los animales y humanos.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -98,12 +102,12 @@ Las plantas actúan como pulmones inversos. Toman el aire que nosotros ya usamos
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** La clorofila es una sustancia especial que se encuentra dentro de las hojas y les da su color verde.
+**Contexto:** La clorofila es una sustancia especial que se encuentra dentro de las hojas y les da su color verde.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ Imagina que la clorofila es como un panel solar diminuto. Millones de estos pane
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** La planta produce una sustancia dulce y pegajosa que es su verdadero alimento y le da energía para crecer.
+**Contexto:** La planta produce una sustancia dulce y pegajosa que es su verdadero alimento y le da energía para crecer.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -148,12 +152,12 @@ La glucosa es como la gasolina de la planta. Una vez fabricada en las hojas, via
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En una selva muy tupida, las plantas compiten por llegar a la parte más alta para que les dé el sol.
+**Contexto:** En una selva muy tupida, las plantas compiten por llegar a la parte más alta para que les dé el sol.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -173,12 +177,12 @@ Sin luz suficiente, la fotosíntesis es muy pobre. Las plantas de sombra han apr
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Si pudiéramos ver el aire, notaríamos que cerca de las plantas hay mucho más oxígeno durante el día que durante la noche.
+**Contexto:** Si pudiéramos ver el aire, notaríamos que cerca de las plantas hay mucho más oxígeno durante el día que durante la noche.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -198,12 +202,12 @@ La fotosíntesis es un proceso de "horario diurno". Durante la noche, las planta
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Imagina que un científico crea una máquina que absorbe gas carbónico y libera oxígeno, igual que una planta.
+**Contexto:** Imagina que un científico crea una máquina que absorbe gas carbónico y libera oxígeno, igual que una planta.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -223,12 +227,12 @@ La fotosíntesis es solo UNA parte de la vida de la planta. Ser un ser vivo impl
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** En los océanos también hay "plantas" microscópicas llamadas fitoplancton que realizan fotosíntesis.
+**Contexto:** En los océanos también hay "plantas" microscópicas llamadas fitoplancton que realizan fotosíntesis.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -248,12 +252,12 @@ La fotosíntesis no solo ocurre en la tierra. Más de la mitad del oxígeno que 
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W11-fotosintesis-basica-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un niño dice: "Si yo me quedo mucho tiempo bajo el sol y tomo mucha agua, estoy haciendo fotosíntesis como las plantas".
+**Contexto:** Un niño dice: "Si yo me quedo mucho tiempo bajo el sol y tomo mucha agua, estoy haciendo fotosíntesis como las plantas".
 **Expected_Success:** 0.50
 
 ### Enunciado

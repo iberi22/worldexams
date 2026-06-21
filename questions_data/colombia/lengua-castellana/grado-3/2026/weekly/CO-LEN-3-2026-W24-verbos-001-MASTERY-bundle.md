@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-3-2026-W24-verbos-001-MASTERY"
+id: "CO-LEN-3-2026-W24-verbos-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 3"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Verbos - pasado, presente y futuro - Grado 3
 
@@ -22,7 +24,7 @@ Este bundle explora el uso de los verbos y sus tiempos (pasado, presente y futur
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-3-2026-W24-verbos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -33,21 +35,20 @@ Este bundle explora el uso de los verbos y sus tiempos (pasado, presente y futur
 ¿Qué palabra es un verbo en la frase: "Yo escribo en mi cuaderno"?
 
 ### Opciones
-- [ ] A) Yo
-  <!-- feedback: Es un pronombre personal. -->
-- [x] B) escribo
-  <!-- feedback: ¡Correcto! Es la acción que se realiza. -->
-- [ ] C) cuaderno
-  <!-- feedback: Es un sustantivo. -->
-- [ ] D) mi
-  <!-- feedback: Es un determinante posesivo. -->
+- [ ] A) Yo <!-- feedback: Incorrecto. Yo -->
+
+- [x] B) escribo <!-- feedback: Correcto! escribo -->
+
+- [ ] C) cuaderno <!-- feedback: Incorrecto. cuaderno -->
+
+- [ ] D) mi <!-- feedback: Incorrecto. mi -->
 
 ### Explicación Pedagogica
 Los verbos son palabras que indican acciones, estados o procesos que realizan o experimentan los seres.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-3-2026-W24-verbos-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -58,21 +59,20 @@ Los verbos son palabras que indican acciones, estados o procesos que realizan o 
 ¿En qué tiempo está el verbo en la oración: "Ayer comí una deliciosa arepa"?
 
 ### Opciones
-- [x] A) Pasado
-  <!-- feedback: ¡Muy bien! Indica una acción que ya ocurrió. -->
-- [ ] B) Presente
-  <!-- feedback: Sería "como". -->
-- [ ] C) Futuro
-  <!-- feedback: Sería "comeré". -->
-- [ ] D) Infinitivo
-  <!-- feedback: Sería "comer". -->
+- [x] A) Pasado <!-- feedback: Correcto! Pasado -->
+
+- [ ] B) Presente <!-- feedback: Incorrecto. Presente -->
+
+- [ ] C) Futuro <!-- feedback: Incorrecto. Futuro -->
+
+- [ ] D) Infinitivo <!-- feedback: Incorrecto. Infinitivo -->
 
 ### Explicación Pedagogica
 El tiempo pasado (o pretérito) se utiliza para referirse a acciones que ya han sucedido.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-3-2026-W24-verbos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -83,21 +83,20 @@ El tiempo pasado (o pretérito) se utiliza para referirse a acciones que ya han 
 ¿Cómo se dice el verbo **"viajar"** en futuro para el sujeto "Nosotros"?
 
 ### Opciones
-- [ ] A) Viajamos
-  <!-- feedback: Este es el presente o pasado. -->
-- [ ] B) Viajaron
-  <!-- feedback: Este es el pasado de ellos. -->
-- [x] C) Viajaremos
-  <!-- feedback: ¡Excelente! Indica una acción que ocurrirá después. -->
-- [ ] D) Viajarán
-  <!-- feedback: Este es el futuro de ellos. -->
+- [ ] A) Viajamos <!-- feedback: Incorrecto. Viajamos -->
+
+- [ ] B) Viajaron <!-- feedback: Incorrecto. Viajaron -->
+
+- [x] C) Viajaremos <!-- feedback: Correcto! Viajaremos -->
+
+- [ ] D) Viajarán <!-- feedback: Incorrecto. Viajarán -->
 
 ### Explicación Pedagogica
 El tiempo futuro se usa para expresar acciones que todavía no han ocurrido, pero que sucederán después.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-3-2026-W24-verbos-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -108,21 +107,20 @@ El tiempo futuro se usa para expresar acciones que todavía no han ocurrido, per
 Elige el verbo en presente que completa mejor la oración: "Los niños __________ en los columpios".
 
 ### Opciones
-- [ ] A) saltaron
-  <!-- feedback: Está en pasado. -->
-- [x] B) juegan
-  <!-- feedback: ¡Correcto! Indica una acción que está pasando ahora. -->
-- [ ] C) correrán
-  <!-- feedback: Está en futuro. -->
-- [ ] D) jugar
-  <!-- feedback: No está conjugado. -->
+- [ ] A) saltaron <!-- feedback: Incorrecto. saltaron -->
+
+- [x] B) juegan <!-- feedback: Correcto! juegan -->
+
+- [ ] C) correrán <!-- feedback: Incorrecto. correrán -->
+
+- [ ] D) jugar <!-- feedback: Incorrecto. jugar -->
 
 ### Explicación Pedagogica
 El tiempo presente se utiliza para referirse a acciones que ocurren en el mismo momento en que se habla.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-3-2026-W24-verbos-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -133,21 +131,20 @@ El tiempo presente se utiliza para referirse a acciones que ocurren en el mismo 
 ¿Cuál es el infinitivo del verbo **"cantaremos"**?
 
 ### Opciones
-- [ ] A) Cantó
-  <!-- feedback: Es una forma conjugada en pasado. -->
-- [ ] B) Cantando
-  <!-- feedback: Es un gerundio. -->
-- [x] C) Cantar
-  <!-- feedback: ¡Así es! Los infinitivos terminan en -ar, -er o -ir. -->
-- [ ] D) Cantado
-  <!-- feedback: Es un participio. -->
+- [ ] A) Cantó <!-- feedback: Incorrecto. Cantó -->
+
+- [ ] B) Cantando <!-- feedback: Incorrecto. Cantando -->
+
+- [x] C) Cantar <!-- feedback: Correcto! Cantar -->
+
+- [ ] D) Cantado <!-- feedback: Incorrecto. Cantado -->
 
 ### Explicación Pedagogica
 El infinitivo es la forma que se usa para nombrar al verbo, sin indicar tiempo, persona ni número.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-3-2026-W24-verbos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -158,21 +155,20 @@ El infinitivo es la forma que se usa para nombrar al verbo, sin indicar tiempo, 
 Si cambiamos la oración "Juan **pateó** el balón" a tiempo futuro, ¿cómo quedaría?
 
 ### Opciones
-- [ ] A) Juan patea el balón.
-  <!-- feedback: Quedaría en presente. -->
-- [x] B) Juan pateará el balón.
-  <!-- feedback: ¡Exacto! Indica que lo hará después. -->
-- [ ] C) Juan pateaba el balón.
-  <!-- feedback: Quedaría en otro tipo de pasado. -->
-- [ ] D) Juan pateó el balón ayer.
-  <!-- feedback: Sigue en pasado. -->
+- [ ] A) Juan patea el balón. <!-- feedback: Incorrecto. Juan patea el balón. -->
+
+- [x] B) Juan pateará el balón. <!-- feedback: Correcto! Juan pateará el balón. -->
+
+- [ ] C) Juan pateaba el balón. <!-- feedback: Incorrecto. Juan pateaba el balón. -->
+
+- [ ] D) Juan pateó el balón ayer. <!-- feedback: Incorrecto. Juan pateó el balón ayer. -->
 
 ### Explicación Pedagogica
 Saber cambiar el tiempo de un verbo permite modificar el sentido temporal de todo un relato.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-3-2026-W24-verbos-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -183,21 +179,20 @@ Saber cambiar el tiempo de un verbo permite modificar el sentido temporal de tod
 ¿Cuál es la forma correcta del verbo para el sujeto "Tú"?
 
 ### Opciones
-- [ ] A) Tú escribe.
-  <!-- feedback: Falta concordancia. -->
-- [x] B) Tú escribes.
-  <!-- feedback: ¡Muy bien! En presente, la terminación para "tú" suele llevar "s". -->
-- [ ] C) Tú escribimos.
-  <!-- feedback: Concuerda con "nosotros". -->
-- [ ] D) Tú escriben.
-  <!-- feedback: Concuerda con "ellos" o "ustedes". -->
+- [ ] A) Tú escribe. <!-- feedback: Incorrecto. Tú escribe. -->
+
+- [x] B) Tú escribes. <!-- feedback: Correcto! Tú escribes. -->
+
+- [ ] C) Tú escribimos. <!-- feedback: Incorrecto. Tú escribimos. -->
+
+- [ ] D) Tú escriben. <!-- feedback: Incorrecto. Tú escriben. -->
 
 ### Explicación Pedagogica
 El verbo debe cambiar su terminación para concordar con la persona que realiza la acción.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-3-2026-W24-verbos-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -208,21 +203,20 @@ El verbo debe cambiar su terminación para concordar con la persona que realiza 
 "La Madre Monte **protege** la selva y **asusta** a los que la dañan". ¿En qué tiempo están los verbos resaltados?
 
 ### Opciones
-- [ ] A) Pasado
-  <!-- feedback: Sería "protegió" y "asustó". -->
-- [x] B) Presente
-  <!-- feedback: ¡Correcto! Indica una acción habitual o actual. -->
-- [ ] C) Futuro
-  <!-- feedback: Sería "protegerá" y "asustará". -->
-- [ ] D) No son verbos.
-  <!-- feedback: Sí son palabras que indican acciones. -->
+- [ ] A) Pasado <!-- feedback: Incorrecto. Pasado -->
+
+- [x] B) Presente <!-- feedback: Correcto! Presente -->
+
+- [ ] C) Futuro <!-- feedback: Incorrecto. Futuro -->
+
+- [ ] D) No son verbos. <!-- feedback: Incorrecto. No son verbos. -->
 
 ### Explicación Pedagogica
 El presente también se usa para expresar verdades generales o características permanentes de personajes de leyendas.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-3-2026-W24-verbos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -233,21 +227,20 @@ El presente también se usa para expresar verdades generales o características 
 ¿Qué está mal en la frase: "Mañana yo **estudié** para el examen"?
 
 ### Opciones
-- [ ] A) No hay ningún error.
-  <!-- feedback: Sí lo hay, "mañana" y "estudié" no combinan. -->
-- [x] B) El verbo está en pasado, pero la palabra "mañana" indica futuro.
-  <!-- feedback: ¡Excelente! Debería decir "estudiaré". -->
-- [ ] C) El verbo debe ser "estudio".
-  <!-- feedback: "Estudio" es presente, no combina bien con "mañana". -->
-- [ ] D) "Mañana" es un verbo.
-  <!-- feedback: No, "mañana" es un adverbio de tiempo. -->
+- [ ] A) No hay ningún error. <!-- feedback: Incorrecto. No hay ningún error. -->
+
+- [x] B) El verbo está en pasado, pero la palabra "mañana" indica futuro. <!-- feedback: Correcto! El verbo está en pasado, pero la palabra "mañana" indica fut -->
+
+- [ ] C) El verbo debe ser "estudio". <!-- feedback: Incorrecto. El verbo debe ser "estudio". -->
+
+- [ ] D) "Mañana" es un verbo. <!-- feedback: Incorrecto. "Mañana" es un verbo. -->
 
 ### Explicación Pedagogica
 La coherencia temporal es fundamental para que el lector entienda cuándo ocurren los hechos.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-3-2026-W24-verbos-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -258,14 +251,13 @@ La coherencia temporal es fundamental para que el lector entienda cuándo ocurre
 ¿Cuál de estas oraciones expresa correctamente un deseo para el futuro?
 
 ### Opciones
-- [ ] A) Yo aprendo mucho inglés el otro año.
-  <!-- feedback: Está en presente, suena a algo que ya pasa. -->
-- [ ] B) Yo aprendí mucho inglés el otro año.
-  <!-- feedback: Está en pasado, no tiene sentido con "el otro año". -->
-- [x] C) Yo aprenderé mucho inglés el otro año.
-  <!-- feedback: ¡Muy bien! El tiempo futuro es perfecto para expresar metas y deseos. -->
-- [ ] D) Aprender inglés mucho año otro.
-  <!-- feedback: El orden de las palabras es incorrecto. -->
+- [ ] A) Yo aprendo mucho inglés el otro año. <!-- feedback: Incorrecto. Yo aprendo mucho inglés el otro año. -->
+
+- [ ] B) Yo aprendí mucho inglés el otro año. <!-- feedback: Incorrecto. Yo aprendí mucho inglés el otro año. -->
+
+- [x] C) Yo aprenderé mucho inglés el otro año. <!-- feedback: Correcto! Yo aprenderé mucho inglés el otro año. -->
+
+- [ ] D) Aprender inglés mucho año otro. <!-- feedback: Incorrecto. Aprender inglés mucho año otro. -->
 
 ### Explicación Pedagogica
 La correcta conjugación de los verbos nos permite proyectar nuestras ideas y planes en el tiempo.

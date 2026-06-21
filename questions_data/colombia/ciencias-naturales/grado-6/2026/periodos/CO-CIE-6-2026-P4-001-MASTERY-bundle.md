@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W40-examen-periodo-4-001-MASTERY"
+id: "CO-CIE-6-2026-P4-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 20
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W40 — Examen Periodo 4
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v1`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Cúcuta
+**Contexto:** I.E. Santa Luisa de Marillac en Cúcuta
 **Expected_Success:** 0.50
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Cúcuta, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v2`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** Colegio Nacional San Bartolomé en Pasto
+**Contexto:** Colegio Nacional San Bartolomé en Pasto
 **Expected_Success:** 0.64
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Pasto, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Tunja
+**Contexto:** I.E. Jorge Eliécer Gaitán en Tunja
 **Expected_Success:** 0.58
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Tunja, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v4`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** I.E. Gabriel García Márquez en Armenia
+**Contexto:** I.E. Gabriel García Márquez en Armenia
 **Expected_Success:** 0.60
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Armenia, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v5`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Pasto
+**Contexto:** Colegio La Presentación en Pasto
 **Expected_Success:** 0.51
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio La Presentación en Pasto, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** I.E. Gabriel García Márquez en Ibagué
+**Contexto:** I.E. Gabriel García Márquez en Ibagué
 **Expected_Success:** 0.55
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Ibagué, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v7`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** I.E. Santa Luisa de Marillac en Manizales
+**Contexto:** I.E. Santa Luisa de Marillac en Manizales
 **Expected_Success:** 0.72
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Manizales, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Manizales
+**Contexto:** I.E. Francisco de Paula Santander en Manizales
 **Expected_Success:** 0.77
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Manizales, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Ibagué
+**Contexto:** I.E. San José en Ibagué
 **Expected_Success:** 0.79
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. San José en Ibagué, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Cali
+**Contexto:** Colegio La Presentación en Cali
 **Expected_Success:** 0.67
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio La Presentación en Cali, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -244,13 +249,13 @@ El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Medellín
+**Contexto:** Colegio La Presentación en Medellín
 **Expected_Success:** 0.53
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio La Presentación en Medellín, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -266,13 +271,13 @@ El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v12`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Medellín
+**Contexto:** Gimnasio Moderno en Medellín
 **Expected_Success:** 0.72
 
 ### Enunciado
 En la clase de Ciencias Naturales del Gimnasio Moderno en Medellín, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -288,13 +293,13 @@ El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v13`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** Colegio Nacional San Bartolomé en Pereira
+**Contexto:** Colegio Nacional San Bartolomé en Pereira
 **Expected_Success:** 0.56
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Pereira, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -310,13 +315,13 @@ El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v14`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Medellín
+**Contexto:** Colegio Nacional San Bartolomé en Medellín
 **Expected_Success:** 0.52
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Medellín, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -332,13 +337,13 @@ El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v15`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Villavicencio
+**Contexto:** I.E. San José en Villavicencio
 **Expected_Success:** 0.55
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. San José en Villavicencio, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -354,13 +359,13 @@ El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v16`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Riohacha
+**Contexto:** Gimnasio Moderno en Riohacha
 **Expected_Success:** 0.66
 
 ### Enunciado
 En la clase de Ciencias Naturales del Gimnasio Moderno en Riohacha, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -376,13 +381,13 @@ El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v17`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Cúcuta
+**Contexto:** I.E. Santa Luisa de Marillac en Cúcuta
 **Expected_Success:** 0.69
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Cúcuta, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -398,13 +403,13 @@ El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v18`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Tunja
+**Contexto:** I.E. Santa Luisa de Marillac en Tunja
 **Expected_Success:** 0.68
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Tunja, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -420,13 +425,13 @@ El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v19`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Riohacha
+**Contexto:** I.E. Gabriel García Márquez en Riohacha
 **Expected_Success:** 0.60
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Riohacha, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -442,13 +447,13 @@ El tema de Examen Periodo 4 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-CIE-6-2026-W00-examen per-001-MASTERY-v20`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** Colegio La Presentación en Pasto
+**Contexto:** Colegio La Presentación en Pasto
 **Expected_Success:** 0.58
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio La Presentación en Pasto, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

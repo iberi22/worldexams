@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W19-textos-poeticos-poemas-001-MASTERY"
+id: "CO-LEC-4-2026-W19-textos-poeticos-poemas-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "textos-poeticos-poemas"
-semana: "W19"
+week: "W19"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "poesía, poemas, rima, verso, estrofa, lenguaje figurado"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W19: Textos poéticos: poemas cortos
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W19-textos-poeticos-poemas-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Rima.
+**Contexto:** Rima.
 
 ### Enunciado
 *"La luna brilla en el cielo / como un faro de consuelo."* ¿Qué palabras riman?
 
-### Options
-- [ ] A) luna, faro.
+### Opciones
+- [ ] A) luna, faro. <!-- feedback: Incorrecto. luna, faro. -->
 - [x] B) cielo, consuelo. <!-- feedback: Correcto. -->
-- [ ] C) brilla, luna.
-- [ ] D) faro, luna.
+- [ ] C) brilla, luna. <!-- feedback: Incorrecto. brilla, luna. -->
+- [ ] D) faro, luna. <!-- feedback: Incorrecto. faro, luna. -->
 
 ### Explicación Pedagógica
 Identificar rima.
@@ -49,17 +54,18 @@ Identificar rima.
 
 **ID:** `CO-LEC-4-2026-W19-textos-poeticos-poemas-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Versos.
+**Contexto:** Versos.
 
 ### Enunciado
 *"Cada línea del poema es un..."*
 
-### Options
+### Opciones
 - [x] A) Verso. <!-- feedback: Correcto. -->
-- [ ] B) Estrofa.
-- [ ] C) Párrafo.
-- [ ] D) Poema.
+- [ ] B) Estrofa. <!-- feedback: Incorrecto. Estrofa. -->
+- [ ] C) Párrafo. <!-- feedback: Incorrecto. Párrafo. -->
+- [ ] D) Poema. <!-- feedback: Incorrecto. Poema. -->
 
 ### Explicación Pedagógica
 Verso.
@@ -70,17 +76,18 @@ Verso.
 
 **ID:** `CO-LEC-4-2026-W19-textos-poeticos-poemas-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Sentimiento en poema.
+**Contexto:** Sentimiento en poema.
 
 ### Enunciado
 *"Triste está el árbol / que perdió sus hojas."* ¿Qué sentimiento transmite?
 
-### Options
-- [ ] A) Alegría.
+### Opciones
+- [ ] A) Alegría. <!-- feedback: Incorrecto. Alegría. -->
 - [x] B) Tristeza. <!-- feedback: Correcto. -->
-- [ ] C) Enojo.
-- [ ] D) Miedo.
+- [ ] C) Enojo. <!-- feedback: Incorrecto. Enojo. -->
+- [ ] D) Miedo. <!-- feedback: Incorrecto. Miedo. -->
 
 ### Explicación Pedagógica
 Sentimiento poético.
@@ -91,17 +98,18 @@ Sentimiento poético.
 
 **ID:** `CO-LEC-4-2026-W19-textos-poeticos-poemas-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Lenguaje figurado.
+**Contexto:** Lenguaje figurado.
 
 ### Enunciado
 *"Tus ojos son dos luceros."* ¿Qué significa?
 
-### Options
+### Opciones
 - [ ] A) Sus ojos son estrellas. <!-- feedback: Figurado. -->
 - [x] B) Sus ojos son brillantes y bonitos. <!-- feedback: Correcto. -->
-- [ ] C) Tiene dos soles.
-- [ ] D) No se entiende.
+- [ ] C) Tiene dos soles. <!-- feedback: Incorrecto. Tiene dos soles. -->
+- [ ] D) No se entiende. <!-- feedback: Incorrecto. No se entiende. -->
 
 ### Explicación Pedagógica
 Lenguaje figurado.
@@ -112,17 +120,18 @@ Lenguaje figurado.
 
 **ID:** `CO-LEC-4-2026-W19-textos-poeticos-poemas-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Tema del poema.
+**Contexto:** Tema del poema.
 
 ### Enunciado
 *"Alza tu vuelo, mariposa / sobre el jardín de colores."* ¿Tema?
 
-### Options
+### Opciones
 - [x] A) Una mariposa volando. <!-- feedback: Correcto. -->
-- [ ] B) Un carro.
-- [ ] C) La lluvia.
-- [ ] D) La comida.
+- [ ] B) Un carro. <!-- feedback: Incorrecto. Un carro. -->
+- [ ] C) La lluvia. <!-- feedback: Incorrecto. La lluvia. -->
+- [ ] D) La comida. <!-- feedback: Incorrecto. La comida. -->
 
 ### Explicación Pedagógica
 Tema poético.
@@ -133,17 +142,18 @@ Tema poético.
 
 **ID:** `CO-LEC-4-2026-W19-textos-poeticos-poemas-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Inferir metáfora.
+**Contexto:** Inferir metáfora.
 
 ### Enunciado
 *"El río es una cinta de plata."* ¿Qué significa?
 
-### Options
-- [ ] A) El río es de plata.
+### Opciones
+- [ ] A) El río es de plata. <!-- feedback: Incorrecto. El río es de plata. -->
 - [x] B) El río brilla como la plata. <!-- feedback: Correcto. -->
-- [ ] C) El río es una cinta.
-- [ ] D) El río es un metal.
+- [ ] C) El río es una cinta. <!-- feedback: Incorrecto. El río es una cinta. -->
+- [ ] D) El río es un metal. <!-- feedback: Incorrecto. El río es un metal. -->
 
 ### Explicación Pedagógica
 Metáfora.
@@ -154,17 +164,18 @@ Metáfora.
 
 **ID:** `CO-LEC-4-2026-W19-textos-poeticos-poemas-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Estructura poética.
+**Contexto:** Estructura poética.
 
 ### Enunciado
 *"Una estrofa de 4 versos se llama..."*
 
-### Options
+### Opciones
 - [x] A) Cuarteto. <!-- feedback: Correcto. -->
 - [ ] B) Pareado. <!-- feedback: 2 versos. -->
 - [ ] C) Terceto. <!-- feedback: 3 versos. -->
-- [ ] D) Soneto.
+- [ ] D) Soneto. <!-- feedback: Incorrecto. Soneto. -->
 
 ### Explicación Pedagógica
 Estrofa.
@@ -175,17 +186,18 @@ Estrofa.
 
 **ID:** `CO-LEC-4-2026-W19-textos-poeticos-poemas-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Comparar poema y cuento.
+**Contexto:** Comparar poema y cuento.
 
 ### Enunciado
 *"Poema: usa rima. Cuento: usa párrafos."* ¿Diferencia?
 
-### Options
-- [ ] A) Ambos narrativos.
+### Opciones
+- [ ] A) Ambos narrativos. <!-- feedback: Incorrecto. Ambos narrativos. -->
 - [x] B) Poema tiene rima, cuento no necesariamente. <!-- feedback: Correcto. -->
-- [ ] C) Ambos riman.
-- [ ] D) Cuento es más corto.
+- [ ] C) Ambos riman. <!-- feedback: Incorrecto. Ambos riman. -->
+- [ ] D) Cuento es más corto. <!-- feedback: Incorrecto. Cuento es más corto. -->
 
 ### Explicación Pedagógica
 Comparar.
@@ -196,17 +208,18 @@ Comparar.
 
 **ID:** `CO-LEC-4-2026-W19-textos-poeticos-poemas-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Evaluar poema.
+**Contexto:** Evaluar poema.
 
 ### Enunciado
 *"Un poema sin rima ¿sigue siendo poema?"*
 
-### Options
-- [ ] A) No, debe rimar.
+### Opciones
+- [ ] A) No, debe rimar. <!-- feedback: Incorrecto. No, debe rimar. -->
 - [x] B) Sí, poesía no siempre rima. <!-- feedback: Correcto. -->
-- [ ] C) No.
-- [ ] D) Solo poemas infantiles.
+- [ ] C) No. <!-- feedback: Incorrecto. No. -->
+- [ ] D) Solo poemas infantiles. <!-- feedback: Incorrecto. Solo poemas infantiles. -->
 
 ### Explicación Pedagógica
 Poema sin rima.
@@ -217,17 +230,18 @@ Poema sin rima.
 
 **ID:** `CO-LEC-4-2026-W19-textos-poeticos-poemas-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Crear verso.
+**Contexto:** Crear verso.
 
 ### Enunciado
 *"Completa: ‘El sol brilla en la...’ para que rime con ‘ventana’.
 
-### Options
-- [ ] A) cama.
+### Opciones
+- [ ] A) cama. <!-- feedback: Incorrecto. cama. -->
 - [x] B) mañana. <!-- feedback: Correcto. Rima con ventana. -->
-- [ ] C) silla.
-- [ ] D) mesa.
+- [ ] C) silla. <!-- feedback: Incorrecto. silla. -->
+- [ ] D) mesa. <!-- feedback: Incorrecto. mesa. -->
 
 ### Explicación Pedagógica
 Crear rima.

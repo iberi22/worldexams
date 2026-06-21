@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-W31-repaso-p8-001-MASTERY"
+id: "CO-LEC-6-2026-W31-repaso-p8-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -12,7 +12,11 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W31 — REPASO Periodo 8
 
@@ -26,14 +30,15 @@ alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
 
 **ID:** `CO-LEC-6-2026-W31-repaso-p8-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de tipos de texto
-**Context:** Repaso de argumentación
+**Contexto:** Repaso de argumentación
 
 ### Enunciado
 
 ¿Cuál es el propósito principal de un texto argumentativo?
 
-### Options
+### Opciones
 - [ ] A) Narrar una historia con personajes y conflicto <!-- feedback: Incorrecto. Ese es el propósito de un texto narrativo. La argumentación no busca contar historias, sino defender ideas. -->
 - [ ] B) Explicar un proceso paso a paso <!-- feedback: Incorrecto. Explicar un proceso es propio de textos instructivos o expositivos, no argumentativos. -->
 - [x] C) Defender una opinión o postura mediante razones para convencer al lector <!-- feedback: ¡Correcto! La argumentación tiene un propósito persuasivo: el autor presenta una tesis y la respalda con argumentos para lograr que el lector adopte su punto de vista. -->
@@ -49,14 +54,15 @@ Recordemos que los textos se clasifican según su propósito: narrar (contar his
 
 **ID:** `CO-LEC-6-2026-W31-repaso-p8-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de elementos textuales
-**Context:** Repaso de tesis
+**Contexto:** Repaso de tesis
 
 ### Enunciado
 
 En un texto argumentativo, la tesis es:
 
-### Options
+### Opciones
 - [ ] A) El párrafo final donde se resumen los argumentos <!-- feedback: Incorrecto. Esa es la conclusión. La tesis es la idea central que se defiende y suele aparecer al inicio. -->
 - [x] B) La idea principal u opinión que el autor quiere defender y demostrar <!-- feedback: ¡Correcto! La tesis es la columna vertebral del texto argumentativo. Todos los argumentos giran en torno a ella y buscan sostenerla. -->
 - [ ] C) Un ejemplo que ilustra el tema <!-- feedback: Incorrecto. Los ejemplos son un tipo de argumento o recurso, no la tesis. La tesis es la postura general que se defiende. -->
@@ -72,8 +78,9 @@ Diferenciar tesis de argumentos y ejemplos es fundamental. La tesis responde a "
 
 **ID:** `CO-LEC-6-2026-W31-repaso-p8-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de argumentos
-**Context:** Identificar argumentos en un texto
+**Contexto:** Identificar argumentos en un texto
 
 ### Enunciado
 
@@ -81,7 +88,7 @@ Diferenciar tesis de argumentos y ejemplos es fundamental. La tesis responde a "
 
 ¿Cuántos argumentos presenta el autor?
 
-### Options
+### Opciones
 - [ ] A) Uno: que la bicicleta es buena para la salud <!-- feedback: Incorrecto. Ese es solo el segundo argumento. El autor presenta varias razones. -->
 - [ ] B) Dos: el ambiente y la salud <!-- feedback: Incorrecto. Faltó el argumento económico (tercero). -->
 - [x] C) Tres: beneficio ambiental, beneficio para la salud y beneficio económico <!-- feedback: ¡Correcto! El autor usa "Primero", "Segundo" y "Tercero" para presentar tres argumentos independientes que apoyan su tesis. -->
@@ -97,8 +104,9 @@ Los conectores de orden (primero, segundo, finalmente, además, también) son se
 
 **ID:** `CO-LEC-6-2026-W31-repaso-p8-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación del punto de vista del autor
-**Context:** Reconocer la postura del autor
+**Contexto:** Reconocer la postura del autor
 
 ### Enunciado
 
@@ -106,7 +114,7 @@ Los conectores de orden (primero, segundo, finalmente, además, también) son se
 
 ¿Cuál es la postura del autor sobre el turismo en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Es totalmente negativa: cree que Colombia no tiene futuro turístico <!-- feedback: Incorrecto. El autor reconoce problemas, pero también destaca el potencial del país. No es una postura totalmente negativa. -->
 - [ ] B) Es neutral: solo presenta datos sin opinar <!-- feedback: Incorrecto. El autor expresa opiniones ("potencial enorme", "incomparables") y propone una dirección ("debemos superar"). No es neutral. -->
 - [x] C) Es positiva pero realista: reconoce las fortalezas del país y también los problemas que enfrenta <!-- feedback: ¡Correcto! El autor valora el potencial turístico (positivo) pero reconoce los obstáculos (realista). Su postura es constructiva: no idealiza ni destruye, sino que señala áreas de mejora. -->
@@ -122,8 +130,9 @@ El punto de vista del autor no siempre es extremo (todo bueno o todo malo). A me
 
 **ID:** `CO-LEC-6-2026-W31-repaso-p8-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Diferenciar hecho de opinión
-**Context:** Repaso de hechos vs. opiniones
+**Contexto:** Repaso de hechos vs. opiniones
 
 ### Enunciado
 
@@ -131,7 +140,7 @@ El punto de vista del autor no siempre es extremo (todo bueno o todo malo). A me
 
 ¿Cuál afirmación es un HECHO y cuál es una OPINIÓN?
 
-### Options
+### Opciones
 - [ ] A) Ambas son hechos porque están basadas en información real <!-- feedback: Incorrecto. La segunda afirmación expresa una creencia ("creo que"), no un dato comprobable. -->
 - [ ] B) Ambas son opiniones porque hablan de cambio climático <!-- feedback: Incorrecto. Que un tema sea debatible no convierte todos los datos en opiniones. El primer dato es verificable. -->
 - [x] C) "La temperatura ha aumentado 1.1 °C" es un hecho; "los gobiernos deberían tomar medidas" es una opinión <!-- feedback: ¡Correcto! El primer dato se puede verificar con mediciones científicas. La segunda afirmación expresa un juicio de valor sobre lo que debería hacerse, lo cual es una opinión. -->
@@ -147,8 +156,9 @@ Este es uno de los conceptos más importantes de la lectura crítica. Los hechos
 
 **ID:** `CO-LEC-6-2026-W31-repaso-p8-006-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de sesgo
-**Context:** Texto con sesgo evidente
+**Contexto:** Texto con sesgo evidente
 
 ### Enunciado
 
@@ -156,7 +166,7 @@ Este es uno de los conceptos más importantes de la lectura crítica. Los hechos
 
 ¿Qué sesgo tiene este fragmento?
 
-### Options
+### Opciones
 - [ ] A) No tiene sesgo; es objetivo porque describe la realidad del campo <!-- feedback: Incorrecto. El texto claramente favorece a los agricultores y descalifica a los políticos. El lenguaje no es neutral. -->
 - [x] B) Tiene un sesgo positivo hacia los agricultores y negativo hacia los políticos, sin presentar evidencia de ninguna de las dos posturas <!-- feedback: ¡Correcto! El autor idealiza a los agricultores ("héroes anónimos") y generaliza sobre los políticos ("pierden el tiempo"), sin datos que respalden ninguna afirmación. -->
 - [ ] C) Tiene un sesgo negativo hacia los agricultores porque dice que trabajan demasiado <!-- feedback: Incorrecto. Decir que trabajan "de sol a sol" es una forma de elogiarlos, no de criticarlos. El sesgo es positivo hacia ellos. -->
@@ -172,14 +182,15 @@ El sesgo puede ser positivo o negativo. En este caso, el sesgo es doble: positiv
 
 **ID:** `CO-LEC-6-2026-W31-repaso-p8-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Aplicación de argumentación
-**Context:** Elegir el argumento más sólido
+**Contexto:** Elegir el argumento más sólido
 
 ### Enunciado
 
 Quieres convencer a tu colegio de crear una huerta escolar. ¿Cuál de los siguientes argumentos sería MÁS efectivo?
 
-### Options
+### Opciones
 - [ ] A) "Las huertas son bonitas y divertidas" <!-- feedback: Incorrecto. Es un argumento superficial basado en gustos personales. No es convincente para tomar una decisión institucional. -->
 - [x] B) "La huerta escolar serviría como laboratorio vivo para las clases de ciencias, mejoraría la alimentación de los estudiantes y fomentaría el trabajo en equipo" <!-- feedback: ¡Correcto! Este argumento presenta beneficios concretos en tres áreas: académica (laboratorio para ciencias), salud (alimentación) y social (trabajo en equipo). Es completo y persuasivo. -->
 - [ ] C) "Otros colegios tienen huerta y a los estudiantes les gusta" <!-- feedback: Incorrecto. Es un argumento débil porque se basa en la popularidad, no en beneficios demostrables. Además, "que les guste" es subjetivo. -->
@@ -195,8 +206,9 @@ Los argumentos más efectivos son aquellos que: 1) presentan beneficios concreto
 
 **ID:** `CO-LEC-6-2026-W31-repaso-p8-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Análisis del tono del autor
-**Context:** Identificar el tono predominante
+**Contexto:** Identificar el tono predominante
 
 ### Enunciado
 
@@ -204,7 +216,7 @@ Los argumentos más efectivos son aquellos que: 1) presentan beneficios concreto
 
 ¿Qué tono predomina en este fragmento?
 
-### Options
+### Opciones
 - [ ] A) Humorístico <!-- feedback: Incorrecto. El tema es serio y el autor no usa chistes ni ironía cómica. -->
 - [x] B) Indignado y crítico <!-- feedback: ¡Correcto! Palabras como "lamentable", "vergüenza nacional" y el uso de una pregunta retórica revelan indignación. El autor está molesto por la situación y critica la falta de acceso a Internet. -->
 - [ ] C) Neutral e informativo <!-- feedback: Incorrecto. El texto no es neutral. Expresa una emoción fuerte (indignación) y busca provocar esa misma emoción en el lector. -->
@@ -220,8 +232,9 @@ El tono revela la actitud emocional del autor hacia el tema. Para identificarlo,
 
 **ID:** `CO-LEC-6-2026-W31-repaso-p8-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Identificación de estructura argumentativa
-**Context:** Reconocer partes del texto argumentativo
+**Contexto:** Reconocer partes del texto argumentativo
 
 ### Enunciado
 
@@ -229,7 +242,7 @@ El tono revela la actitud emocional del autor hacia el tema. Para identificarlo,
 
 ¿Qué función cumple cada oración?
 
-### Options
+### Opciones
 - [ ] A) (1) Tesis, (2) Conclusión, (3) Argumento, (4) Argumento, (5) Contexto <!-- feedback: Incorrecto. (1) es contexto, no tesis. (2) es la tesis. (5) es la conclusión. -->
 - [ ] B) (1) Contexto, (2) Argumento, (3) Tesis, (4) Argumento, (5) Conclusión <!-- feedback: Incorrecto. (2) no es argumento, es la tesis. (3) y (4) son los argumentos. -->
 - [x] C) (1) Contexto, (2) Tesis, (3) Argumento, (4) Argumento, (5) Conclusión <!-- feedback: ¡Correcto! (1) presenta el tema en discusión. (2) es la tesis (postura del autor). (3) y (4) son argumentos que la apoyan. (5) es la conclusión que sintetiza y refuerza la tesis. -->
@@ -245,8 +258,9 @@ Reconocer la estructura de un texto argumentativo es como armar un rompecabezas:
 
 **ID:** `CO-LEC-6-2026-W31-repaso-p8-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Valoración crítica del punto de vista
-**Context:** Evaluar credibilidad y punto de vista
+**Contexto:** Evaluar credibilidad y punto de vista
 
 ### Enunciado
 
@@ -256,7 +270,7 @@ Lee la siguiente situación:
 
 ¿Qué problema tiene este texto desde el punto de vista de la lectura crítica?
 
-### Options
+### Opciones
 - [ ] A) Que recomienda frutas, lo cual es malo para la salud <!-- feedback: Incorrecto. Las frutas no son malas para la salud. El problema no es la recomendación en sí, sino cómo se presenta. -->
 - [x] B) Que hace afirmaciones sin sustento científico ("limpia toxinas"), usa testimonios vagos ("cientos de personas") y lenguaje exagerado ("resultados increíbles") para persuadir sin evidencia <!-- feedback: ¡Correcto! El texto carece de evidencia verificable, apela a testimonios anónimos y usa exageraciones. Esto se llama "argumento basado en falsa autoridad y testimonios no verificables". -->
 - [ ] C) Que es muy corto y no da suficientes detalles <!-- feedback: Incorrecto. Un texto corto puede ser válido si la información es precisa. El problema es la falta de evidencia, no la extensión. -->

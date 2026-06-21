@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-4-2026-W25-diminutivos-aumentativos-001-MASTERY"
+id: "CO-LEN-4-2026-W25-diminutivos-aumentativos-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 4"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Diminutivos y aumentativos - Grado 4
 
@@ -22,7 +24,7 @@ Este bundle explora el uso de los sufijos para expresar tamaño (pequeño o gran
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-4-2026-W25-diminutivos-aumentativos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -33,21 +35,20 @@ Este bundle explora el uso de los sufijos para expresar tamaño (pequeño o gran
 ¿Cuál es la función principal de un diminutivo?
 
 ### Opciones
-- [ ] A) Indicar que algo es muy viejo.
-  <!-- feedback: No, para eso hay otros términos. -->
-- [x] B) Indicar que algo es pequeño o expresar cariño y afecto.
-  <!-- feedback: ¡Correcto! El diminutivo tiene un valor de tamaño y emocional. -->
-- [ ] C) Decir que algo es gigante y peligroso.
-  <!-- feedback: Eso es función de los aumentativos. -->
-- [ ] D) Cambiar el verbo a tiempo pasado.
-  <!-- feedback: Los diminutivos se usan en sustantivos y adjetivos, no cambian el tiempo verbal. -->
+- [ ] A) Indicar que algo es muy viejo. <!-- feedback: Incorrecto. Indicar que algo es muy viejo. -->
+
+- [x] B) Indicar que algo es pequeño o expresar cariño y afecto. <!-- feedback: Correcto! Indicar que algo es pequeño o expresar cariño y afecto. -->
+
+- [ ] C) Decir que algo es gigante y peligroso. <!-- feedback: Incorrecto. Decir que algo es gigante y peligroso. -->
+
+- [ ] D) Cambiar el verbo a tiempo pasado. <!-- feedback: Incorrecto. Cambiar el verbo a tiempo pasado. -->
 
 ### Explicación Pedagogica
 Los diminutivos se forman añadiendo sufijos como -ito, -ita, -ico, -ica, -illo, -illa a la raíz de la palabra.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-4-2026-W25-diminutivos-aumentativos-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -58,21 +59,20 @@ Los diminutivos se forman añadiendo sufijos como -ito, -ita, -ico, -ica, -illo,
 ¿Qué sufijos se usan comúnmente para formar aumentativos?
 
 ### Opciones
-- [ ] A) -ito, -ita.
-  <!-- feedback: Estos son para diminutivos. -->
-- [x] B) -ón, -ona, -azo, -aza, -ote, -ota.
-  <!-- feedback: ¡Muy bien! Indican gran tamaño o intensidad. -->
-- [ ] C) -mente.
-  <!-- feedback: Es para formar adverbios. -->
-- [ ] D) -ción, -sión.
-  <!-- feedback: Son para formar sustantivos de acción. -->
+- [ ] A) -ito, -ita. <!-- feedback: Incorrecto. -ito, -ita. -->
+
+- [x] B) -ón, -ona, -azo, -aza, -ote, -ota. <!-- feedback: Correcto! -ón, -ona, -azo, -aza, -ote, -ota. -->
+
+- [ ] C) -mente. <!-- feedback: Incorrecto. -mente. -->
+
+- [ ] D) -ción, -sión. <!-- feedback: Incorrecto. -ción, -sión. -->
 
 ### Explicación Pedagogica
 Los aumentativos resaltan el tamaño inusual de un objeto o la fuerza de una cualidad.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-4-2026-W25-diminutivos-aumentativos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -83,21 +83,20 @@ Los aumentativos resaltan el tamaño inusual de un objeto o la fuerza de una cua
 Si una abuela le dice a su nieto: **"¡Ven acá, mi cielito!"**, ¿qué uso le está dando al diminutivo?
 
 ### Opciones
-- [ ] A) Está diciendo que el cielo es muy pequeño.
-  <!-- feedback: No se refiere al tamaño físico del cielo. -->
-- [x] B) Está expresando mucho cariño y amor por el niño.
-  <!-- feedback: ¡Excelente! Es un uso afectivo muy común en Colombia. -->
-- [ ] C) Está diciendo que el niño es invisible.
-  <!-- feedback: No tiene ese significado. -->
-- [ ] D) Es un insulto.
-  <!-- feedback: Al contrario, es una expresión de ternura. -->
+- [ ] A) Está diciendo que el cielo es muy pequeño. <!-- feedback: Incorrecto. Está diciendo que el cielo es muy pequeñ -->
+
+- [x] B) Está expresando mucho cariño y amor por el niño. <!-- feedback: Correcto! Está expresando mucho cariño y amor por el niño. -->
+
+- [ ] C) Está diciendo que el niño es invisible. <!-- feedback: Incorrecto. Está diciendo que el niño es invisible. -->
+
+- [ ] D) Es un insulto. <!-- feedback: Incorrecto. Es un insulto. -->
 
 ### Explicación Pedagogica
 En español, y especialmente en Colombia, el diminutivo se usa con frecuencia para suavizar el lenguaje y demostrar proximidad emocional.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-4-2026-W25-diminutivos-aumentativos-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -108,21 +107,20 @@ En español, y especialmente en Colombia, el diminutivo se usa con frecuencia pa
 A veces el sufijo **"-azo"** no indica tamaño grande, sino un golpe. ¿Cuál de estas palabras indica un golpe?
 
 ### Opciones
-- [ ] A) Perrazo.
-  <!-- feedback: Significa un perro muy grande. -->
-- [x] B) Puertazo.
-  <!-- feedback: ¡Correcto! Es el golpe fuerte que se da con una puerta. -->
-- [ ] C) Manzana.
-  <!-- feedback: Es una palabra simple. -->
-- [ ] D) Libro.
-  <!-- feedback: Es una palabra simple. -->
+- [ ] A) Perrazo. <!-- feedback: Incorrecto. Perrazo. -->
+
+- [x] B) Puertazo. <!-- feedback: Correcto! Puertazo. -->
+
+- [ ] C) Manzana. <!-- feedback: Incorrecto. Manzana. -->
+
+- [ ] D) Libro. <!-- feedback: Incorrecto. Libro. -->
 
 ### Explicación Pedagogica
 El sufijo -azo tiene un valor polisémico: puede ser aumentativo o indicar una acción violenta o repentina.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-4-2026-W25-diminutivos-aumentativos-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -133,21 +131,20 @@ El sufijo -azo tiene un valor polisémico: puede ser aumentativo o indicar una a
 ¿Cuál es el diminutivo correcto de la palabra **"Pez"**?
 
 ### Opciones
-- [ ] A) Pezito (con z).
-  <!-- feedback: No, la z debe cambiar antes de la i. -->
-- [x] B) Pececito (con c).
-  <!-- feedback: ¡Así es! La z cambia a c al añadir el sufijo. -->
-- [ ] C) Pezillo.
-  <!-- feedback: No es la forma más común ni correcta con z. -->
-- [ ] D) Pesito (con s).
-  <!-- feedback: Eso vendría de la palabra "peso". -->
+- [ ] A) Pezito (con z). <!-- feedback: Incorrecto. Pezito (con z). -->
+
+- [x] B) Pececito (con c). <!-- feedback: Correcto! Pececito (con c). -->
+
+- [ ] C) Pezillo. <!-- feedback: Incorrecto. Pezillo. -->
+
+- [ ] D) Pesito (con s). <!-- feedback: Incorrecto. Pesito (con s). -->
 
 ### Explicación Pedagogica
 La ortografía de los diminutivos debe respetar las reglas de cambio de letras (z a c) ante las vocales e, i.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-4-2026-W25-diminutivos-aumentativos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -158,21 +155,20 @@ La ortografía de los diminutivos debe respetar las reglas de cambio de letras (
 ¿Cuál de estas palabras NO es un aumentativo, aunque termine en **"-ón"**?
 
 ### Opciones
-- [ ] A) Ratonón.
-  <!-- feedback: Es aumentativo de ratón. -->
-- [ ] B) Caserón.
-  <!-- feedback: Es aumentativo de casa. -->
-- [x] C) Jabón.
-  <!-- feedback: ¡Exacto! Jabón es una palabra simple, el "-ón" es parte de su raíz original. -->
-- [ ] D) Portón.
-  <!-- feedback: Es aumentativo de puerta. -->
+- [ ] A) Ratonón. <!-- feedback: Incorrecto. Ratonón. -->
+
+- [ ] B) Caserón. <!-- feedback: Incorrecto. Caserón. -->
+
+- [x] C) Jabón. <!-- feedback: Correcto! Jabón. -->
+
+- [ ] D) Portón. <!-- feedback: Incorrecto. Portón. -->
 
 ### Explicación Pedagogica
 Es importante no confundir las terminaciones de las palabras primitivas con los sufijos aumentativos.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-4-2026-W25-diminutivos-aumentativos-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -183,21 +179,20 @@ Es importante no confundir las terminaciones de las palabras primitivas con los 
 En regiones como Santander, es común oír **"un ratico"** en lugar de "un ratito". ¿Qué indica esto?
 
 ### Opciones
-- [ ] A) Que la palabra está mal dicha.
-  <!-- feedback: No, es una variante regional muy válida. -->
-- [x] B) Que existen diferentes sufijos para el diminutivo según la región o el sonido de la palabra.
-  <!-- feedback: ¡Muy bien! El uso de "-ico" es típico del habla colombiana. -->
-- [ ] C) Que el tiempo pasa más rápido allá.
-  <!-- feedback: No tiene relación con la velocidad del tiempo. -->
-- [ ] D) Que se refieren a un ratón pequeño.
-  <!-- feedback: No, se refieren a un momento corto de tiempo. -->
+- [ ] A) Que la palabra está mal dicha. <!-- feedback: Incorrecto. Que la palabra está mal dicha. -->
+
+- [x] B) Que existen diferentes sufijos para el diminutivo según la región o el sonido de la palabra. <!-- feedback: Correcto! Que existen diferentes sufijos para el diminutivo según la r -->
+
+- [ ] C) Que el tiempo pasa más rápido allá. <!-- feedback: Incorrecto. Que el tiempo pasa más rápido allá. -->
+
+- [ ] D) Que se refieren a un ratón pequeño. <!-- feedback: Incorrecto. Que se refieren a un ratón pequeño. -->
 
 ### Explicación Pedagogica
 La dialectología del español reconoce variantes en los sufijos afectivos que enriquecen el idioma.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-4-2026-W25-diminutivos-aumentativos-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -208,21 +203,20 @@ La dialectología del español reconoce variantes en los sufijos afectivos que e
 A veces los aumentativos se usan para burlarse o decir que algo es feo. ¿Cuál de estas frases suena despectiva?
 
 ### Opciones
-- [ ] A) ¡Qué regalazo me dieron!
-  <!-- feedback: Suena muy positivo (un gran regalo). -->
-- [ ] B) Tienes un perrito muy lindo.
-  <!-- feedback: Es afectivo. -->
-- [x] C) Vive en ese **cuartucho** oscuro.
-  <!-- feedback: ¡Correcto! El sufijo "-ucho" indica que el cuarto es de mala calidad. -->
-- [ ] D) El gigante tiene un manón.
-  <!-- feedback: Indica solo tamaño grande. -->
+- [ ] A) ¡Qué regalazo me dieron! <!-- feedback: Incorrecto. ¡Qué regalazo me dieron! -->
+
+- [ ] B) Tienes un perrito muy lindo. <!-- feedback: Incorrecto. Tienes un perrito muy lindo. -->
+
+- [x] C) Vive en ese **cuartucho** oscuro. <!-- feedback: Correcto! Vive en ese cuartucho oscuro. -->
+
+- [ ] D) El gigante tiene un manón. <!-- feedback: Incorrecto. El gigante tiene un manón. -->
 
 ### Explicación Pedagogica
 Además de tamaño y afecto, algunos sufijos tienen una carga negativa o despectiva que el estudiante debe identificar.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-4-2026-W25-diminutivos-aumentativos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -233,21 +227,20 @@ Además de tamaño y afecto, algunos sufijos tienen una carga negativa o despect
 ¿Sería adecuado usar muchos diminutivos (como "noticita", "informito") en un informe serio para el rector del colegio?
 
 ### Opciones
-- [ ] A) Sí, porque suena más tierno.
-  <!-- feedback: Un informe formal no debe buscar sonar "tierno". -->
-- [x] B) No, porque los diminutivos quitan seriedad y precisión al lenguaje formal.
-  <!-- feedback: ¡Excelente! En textos académicos y formales se debe evitar el uso subjetivo de los sufijos. -->
-- [ ] C) Sí, para que el rector no se canse de leer palabras largas.
-  <!-- feedback: Las palabras completas son necesarias para la claridad formal. -->
-- [ ] D) Da lo mismo, significan lo mismo.
-  <!-- feedback: El significado base es similar, pero el tono cambia totalmente. -->
+- [ ] A) Sí, porque suena más tierno. <!-- feedback: Incorrecto. Sí, porque suena más tierno. -->
+
+- [x] B) No, porque los diminutivos quitan seriedad y precisión al lenguaje formal. <!-- feedback: Correcto! No, porque los diminutivos quitan seriedad y precisión al le -->
+
+- [ ] C) Sí, para que el rector no se canse de leer palabras largas. <!-- feedback: Incorrecto. Sí, para que el rector no se canse de le -->
+
+- [ ] D) Da lo mismo, significan lo mismo. <!-- feedback: Incorrecto. Da lo mismo, significan lo mismo. -->
 
 ### Explicación Pedagogica
 La adecuación del registro lingüístico implica saber cuándo es oportuno usar recursos afectivos y cuándo no.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-4-2026-W25-diminutivos-aumentativos-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -258,14 +251,13 @@ La adecuación del registro lingüístico implica saber cuándo es oportuno usar
 ¿Qué combinación de aumentativos y diminutivos usarías para mostrar que es grande pero no da miedo?
 
 ### Opciones
-- [ ] A) Es un gigantón con manos horribles.
-  <!-- feedback: "Horribles" da miedo. -->
-- [x] B) Es un **gigantón** con un **corazoncito** de oro.
-  <!-- feedback: ¡Muy bien! El aumentativo muestra su tamaño y el diminutivo su bondad. -->
-- [ ] C) Es un gigantazo que da pavor.
-  <!-- feedback: No suena amable. -->
-- [ ] D) Es un hombre grande y normal.
-  <!-- feedback: No usa los sufijos pedidos para la caracterización literaria. -->
+- [ ] A) Es un gigantón con manos horribles. <!-- feedback: Incorrecto. Es un gigantón con manos horribles. -->
+
+- [x] B) Es un **gigantón** con un **corazoncito** de oro. <!-- feedback: Correcto! Es un gigantón con un corazoncito de oro. -->
+
+- [ ] C) Es un gigantazo que da pavor. <!-- feedback: Incorrecto. Es un gigantazo que da pavor. -->
+
+- [ ] D) Es un hombre grande y normal. <!-- feedback: Incorrecto. Es un hombre grande y normal. -->
 
 ### Explicación Pedagogica
 La combinación estratégica de sufijos permite una caracterización rica y matizada de los personajes en la creación literaria.

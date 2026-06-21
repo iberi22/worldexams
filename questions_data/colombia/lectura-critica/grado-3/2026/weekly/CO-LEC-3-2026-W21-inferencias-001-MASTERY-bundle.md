@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W21-inferencias-001-MASTERY"
+id: "CO-LEC-3-2026-W21-inferencias-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 21
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Inferencias
 
@@ -25,6 +30,7 @@ Este bundle evalúa la capacidad de deducir información no explícita en el tex
 **Bloom:** Understand
 **ICFES:** Inferencial
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **La mochila de Sara**
@@ -33,7 +39,7 @@ Este bundle evalúa la capacidad de deducir información no explícita en el tex
 ### Enunciado
 ¿Qué podemos deducir que va a hacer Sara a continuación?
 
-### Options
+### Opciones
 - [ ] A) Irse a dormir una siesta. <!-- feedback: Incorrecto. Sacó el cuaderno de matemáticas, lo que indica una actividad escolar. -->
 - [ ] B) Salir a jugar fútbol al patio. <!-- feedback: Incorrecto. No sacó un balón, sino útiles de estudio. -->
 - [x] C) Empezar su clase de matemáticas. <!-- feedback: ¡Correcto! La pista de sacar el cuaderno de matemáticas indica que la clase está por comenzar. -->
@@ -49,6 +55,7 @@ La inferencia se basa en conectar pistas del texto con acciones lógicas. Sacar 
 **Bloom:** Understand
 **ICFES:** Inferencial
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Don Pablo salió de su casa. Miró al cielo gris, sintió un viento frío y regresó rápidamente a buscar su paraguas y su chaqueta de lana antes de seguir su camino".
@@ -56,7 +63,7 @@ La inferencia se basa en conectar pistas del texto con acciones lógicas. Sacar 
 ### Enunciado
 ¿Cómo cree Don Pablo que estará el clima ese día?
 
-### Options
+### Opciones
 - [ ] A) Muy soleado y caluroso. <!-- feedback: Incorrecto. El cielo gris y el viento frío son señales de mal tiempo. -->
 - [x] B) Lluvioso y con mucho frío. <!-- feedback: ¡Correcto! El paraguas y la chaqueta de lana son prendas que se usan precisamente para protegerse de la lluvia y el frío. -->
 - [ ] C) Perfecto para ir a la piscina. <!-- feedback: Incorrecto. Con ese clima el agua estaría muy fría. -->
@@ -72,6 +79,7 @@ Inferir el estado del tiempo a partir de las acciones del personaje (buscar para
 **Bloom:** Understand
 **ICFES:** Inferencial
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Al entrar a la cocina, Lucas vio que el plato de leche de su gato estaba vacío y que el pequeño animal maullaba sin parar mientras se frotaba contra sus piernas".
@@ -79,7 +87,7 @@ Inferir el estado del tiempo a partir de las acciones del personaje (buscar para
 ### Enunciado
 ¿Qué le pasa al gato de Lucas?
 
-### Options
+### Opciones
 - [ ] A) Tiene mucho sueño. <!-- feedback: Incorrecto. Los gatos con sueño suelen estar quietos o buscando un lugar blando, no maullando. -->
 - [x] B) Tiene hambre o sed. <!-- feedback: ¡Correcto! El plato vacío y los maullidos son pistas que indican que el animal necesita alimento o bebida. -->
 - [ ] C) Está muy enojado con Lucas. <!-- feedback: Incorrecto. Frotarse contra las piernas es una señal de afecto o de pedir algo, no de enojo. -->
@@ -95,6 +103,7 @@ Interpretar el comportamiento animal descrito en el texto es una forma de infere
 **Bloom:** Apply
 **ICFES:** Inferencial
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "En la puerta de la biblioteca hay un letrero que dice: 'SILENCIO, POR FAVOR. PERSONAS ESTUDIANDO'. Adentro, todos los niños están sentados en sus mesas concentrados en sus libros".
@@ -102,7 +111,7 @@ Interpretar el comportamiento animal descrito en el texto es una forma de infere
 ### Enunciado
 ¿Qué pasaría si un niño entra gritando y corriendo a la biblioteca?
 
-### Options
+### Opciones
 - [ ] A) Los demás niños se pondrían a jugar con él. <!-- feedback: Incorrecto. El texto dice que están concentrados estudiando. -->
 - [ ] B) La bibliotecaria le daría un premio. <!-- feedback: Incorrecto. Gritar va en contra de la regla del letrero. -->
 - [x] C) Molestaría a los que están estudiando y probablemente lo regañarían. <!-- feedback: ¡Correcto! El silencio es necesario para la concentración mencionada en el texto. -->
@@ -118,6 +127,7 @@ Predecir consecuencias a partir de normas y situaciones descritas es un nivel de
 **Bloom:** Apply
 **ICFES:** Inferencial
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Valentina encontró una pequeña ave en el suelo del parque. El ave no podía volar y piaba con mucha fuerza. Valentina miró hacia arriba y vio un nido en la rama más alta de un árbol".
@@ -125,7 +135,7 @@ Predecir consecuencias a partir de normas y situaciones descritas es un nivel de
 ### Enunciado
 ¿Qué fue lo que probablemente le pasó al ave?
 
-### Options
+### Opciones
 - [ ] A) Aprendió a volar muy rápido. <!-- feedback: Incorrecto. Si supiera volar, no estaría en el suelo piando sin poder subir. -->
 - [x] B) Se cayó accidentalmente de su nido. <!-- feedback: ¡Correcto! La presencia del nido arriba y el ave abajo incapaz de volar sugieren una caída. -->
 - [ ] C) Bajó al suelo a buscar comida para sus padres. <!-- feedback: Incorrecto. Es un ave pequeña que no puede volar, por lo que depende de sus padres todavía. -->
@@ -141,6 +151,7 @@ Reconstruir un evento pasado a partir de la situación presente (ave en el suelo
 **Bloom:** Understand
 **ICFES:** Inferencial
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Después del partido de fútbol, los jugadores de ambos equipos se dieron la mano, intercambiaron sus camisetas y se fueron juntos a comer pizza".
@@ -148,7 +159,7 @@ Reconstruir un evento pasado a partir de la situación presente (ave en el suelo
 ### Enunciado
 ¿Cómo fue la relación entre los jugadores durante el partido?
 
-### Options
+### Opciones
 - [ ] A) Se pelearon y se insultaron todo el tiempo. <!-- feedback: Incorrecto. Si estuvieran peleados, no se darían la mano ni comerían juntos. -->
 - [x] B) Fue un partido amistoso y de respeto mutuo. <!-- feedback: ¡Correcto! Las acciones finales demuestran buena voluntad y compañerismo (juego limpio). -->
 - [ ] C) Nadie quería jugar con nadie. <!-- feedback: Incorrecto. Si jugaron y luego compartieron, es porque hubo integración. -->
@@ -164,6 +175,7 @@ Inferir el tono de una relación personal a partir de acciones sociales (darse l
 **Bloom:** Analyze
 **ICFES:** Inferencial
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "En el pueblo de San Rafael, cada vez que el equipo local gana un partido, las campanas de la iglesia suenan tres veces y la gente sale a la plaza principal con banderas".
@@ -171,7 +183,7 @@ Inferir el tono de una relación personal a partir de acciones sociales (darse l
 ### Enunciado
 Si hoy escuchas las campanas sonar tres veces en San Rafael, ¿qué es lo más seguro que acaba de pasar?
 
-### Options
+### Opciones
 - [ ] A) Hay una boda en la iglesia. <!-- feedback: Incorrecto. El texto asocia el sonido de las campanas con otro evento específico. -->
 - [x] B) El equipo de fútbol del pueblo ganó su partido. <!-- feedback: ¡Correcto! El texto establece una condición: si ganan, suenan las campanas. Al sonar las campanas, inferimos que ganaron. -->
 - [ ] C) Se perdió una mascota del pueblo. <!-- feedback: Incorrecto. No hay relación entre las campanas y las mascotas en el texto. -->
@@ -187,6 +199,7 @@ Esta es una inferencia lógica de tipo deductivo. Si A implica B, y escuchamos B
 **Bloom:** Evaluate
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "El lobo sopló y sopló, pero la casa de ladrillo no se movió. Cansado y con los pulmones agotados, miró hacia la chimenea y sonrió con malicia".
@@ -194,7 +207,7 @@ Esta es una inferencia lógica de tipo deductivo. Si A implica B, y escuchamos B
 ### Enunciado
 ¿Qué está planeando el lobo según su gesto de "sonreír con malicia"?
 
-### Options
+### Opciones
 - [ ] A) Irse a su casa a descansar porque se rindió. <!-- feedback: Incorrecto. La sonrisa indica que tiene una nueva idea, no que se rinda. -->
 - [ ] B) Hacerse amigo de los cerditos para jugar. <!-- feedback: Incorrecto. La "malicia" indica una intención de hacer daño o engañar. -->
 - [x] C) Intentar entrar a la casa por la chimenea. <!-- feedback: ¡Correcto! Al no poder derribar la casa y mirar la chimenea con esa expresión, inferimos su nuevo plan de entrada. -->

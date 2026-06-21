@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-7-2026-W20-examen-periodo-2-001-MASTERY"
+id: "CO-CIE-7-2026-P2-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "ciencias-naturales"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 20
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W20 — Examen Periodo 2
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-CIE-7-2026-W00-examen per-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Cartagena
+**Contexto:** I.E. Santa Luisa de Marillac en Cartagena
 **Expected_Success:** 0.52
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Cartagena, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-CIE-7-2026-W00-examen per-001-MASTERY-v2`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** I.E. San José en Cúcuta
+**Contexto:** I.E. San José en Cúcuta
 **Expected_Success:** 0.56
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. San José en Cúcuta, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-CIE-7-2026-W00-examen per-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** Colegio Nacional San Bartolomé en Quibdó
+**Contexto:** Colegio Nacional San Bartolomé en Quibdó
 **Expected_Success:** 0.61
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Quibdó, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-CIE-7-2026-W00-examen per-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** I.E. Francisco de Paula Santander en Ibagué
+**Contexto:** I.E. Francisco de Paula Santander en Ibagué
 **Expected_Success:** 0.75
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Ibagué, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-CIE-7-2026-W00-examen per-001-MASTERY-v5`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** Colegio Nacional San Bartolomé en Bogotá
+**Contexto:** Colegio Nacional San Bartolomé en Bogotá
 **Expected_Success:** 0.73
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Bogotá, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-CIE-7-2026-W00-examen per-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** Gimnasio Moderno en Cúcuta
+**Contexto:** Gimnasio Moderno en Cúcuta
 **Expected_Success:** 0.70
 
 ### Enunciado
 En la clase de Ciencias Naturales del Gimnasio Moderno en Cúcuta, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-CIE-7-2026-W00-examen per-001-MASTERY-v7`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** I.E. Gabriel García Márquez en Bogotá
+**Contexto:** I.E. Gabriel García Márquez en Bogotá
 **Expected_Success:** 0.65
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Bogotá, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-CIE-7-2026-W00-examen per-001-MASTERY-v8`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** I.E. San José en Neiva
+**Contexto:** I.E. San José en Neiva
 **Expected_Success:** 0.78
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. San José en Neiva, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-CIE-7-2026-W00-examen per-001-MASTERY-v9`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. San José en Sincelejo
+**Contexto:** I.E. San José en Sincelejo
 **Expected_Success:** 0.71
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. San José en Sincelejo, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-CIE-7-2026-W00-examen per-001-MASTERY-v10`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Tunja
+**Contexto:** I.E. Jorge Eliécer Gaitán en Tunja
 **Expected_Success:** 0.52
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Tunja, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -244,13 +249,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-CIE-7-2026-W00-examen per-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Riohacha
+**Contexto:** I.E. San José en Riohacha
 **Expected_Success:** 0.74
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. San José en Riohacha, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -266,13 +271,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-CIE-7-2026-W00-examen per-001-MASTERY-v12`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** Colegio La Presentación en Pereira
+**Contexto:** Colegio La Presentación en Pereira
 **Expected_Success:** 0.79
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio La Presentación en Pereira, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -288,13 +293,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-CIE-7-2026-W00-examen per-001-MASTERY-v13`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Cali
+**Contexto:** Colegio Nacional San Bartolomé en Cali
 **Expected_Success:** 0.69
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Cali, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -310,13 +315,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-CIE-7-2026-W00-examen per-001-MASTERY-v14`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Bucaramanga
+**Contexto:** Gimnasio Moderno en Bucaramanga
 **Expected_Success:** 0.73
 
 ### Enunciado
 En la clase de Ciencias Naturales del Gimnasio Moderno en Bucaramanga, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -332,13 +337,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-CIE-7-2026-W00-examen per-001-MASTERY-v15`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Neiva
+**Contexto:** I.E. Gabriel García Márquez en Neiva
 **Expected_Success:** 0.80
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Neiva, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -354,13 +359,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-CIE-7-2026-W00-examen per-001-MASTERY-v16`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Tunja
+**Contexto:** I.E. Francisco de Paula Santander en Tunja
 **Expected_Success:** 0.79
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Tunja, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -376,13 +381,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-CIE-7-2026-W00-examen per-001-MASTERY-v17`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. Gabriel García Márquez en Bucaramanga
+**Contexto:** I.E. Gabriel García Márquez en Bucaramanga
 **Expected_Success:** 0.53
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Bucaramanga, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -398,13 +403,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-CIE-7-2026-W00-examen per-001-MASTERY-v18`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Cartagena
+**Contexto:** I.E. Santa Luisa de Marillac en Cartagena
 **Expected_Success:** 0.71
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Cartagena, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -420,13 +425,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-CIE-7-2026-W00-examen per-001-MASTERY-v19`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** Gimnasio Moderno en Armenia
+**Contexto:** Gimnasio Moderno en Armenia
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Ciencias Naturales del Gimnasio Moderno en Armenia, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -442,13 +447,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-CIE-7-2026-W00-examen per-001-MASTERY-v20`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** Colegio Nacional San Bartolomé en Cartagena
+**Contexto:** Colegio Nacional San Bartolomé en Cartagena
 **Expected_Success:** 0.78
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Cartagena, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

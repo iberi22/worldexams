@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W16-organos-de-los-sentidos-001-MASTERY"
+id: "CO-CIE-6-2026-W16-organos-de-los-sentidos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W16 — Órganos de los Sentidos
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W16-organos-de-los-sentidos-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, inician el estudio de los sentidos.
+**Contexto:** En Bogotá, inician el estudio de los sentidos.
 
 ### Enunciado
 ¿Cuáles son los cinco sentidos del ser humano?
 
-### Options
+### Opciones
 - [ ] A) Hambre, sed, sueño, frío, calor <!-- feedback: Son estados fisiológicos, no sentidos. -->
 - [x] B) Vista, oído, olfato, gusto y tacto <!-- feedback: Correcto. -->
 - [ ] C) Dolor, placer, equilibrio, presión, temperatura <!-- feedback: Son tipos de sensaciones. -->
@@ -48,13 +51,14 @@ Los cinco sentidos convierten estímulos físicos o químicos en señales eléct
 
 **ID:** `CO-CIE-6-2026-W16-organos-de-los-sentidos-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, identifican partes del ojo.
+**Contexto:** En Medellín, identifican partes del ojo.
 
 ### Enunciado
 ¿Qué parte del ojo permite enfocar la luz sobre la retina?
 
-### Options
+### Opciones
 - [ ] A) El iris <!-- feedback: El iris regula la entrada de luz. -->
 - [x] B) El cristalino <!-- feedback: Correcto. -->
 - [ ] C) La córnea <!-- feedback: La córnea protege y refracta inicialmente. -->
@@ -69,13 +73,14 @@ El cristalino es una lente biconvexa que cambia de forma (acomodación) para enf
 
 **ID:** `CO-CIE-6-2026-W16-organos-de-los-sentidos-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, explican la visión en colores.
+**Contexto:** En Cali, explican la visión en colores.
 
 ### Enunciado
 ¿Por qué vemos en colores?
 
-### Options
+### Opciones
 - [ ] A) Porque los ojos tienen color <!-- feedback: El color del ojo es del iris. -->
 - [x] B) Porque la retina tiene conos (detectan colores) y bastones (detectan luz) <!-- feedback: Correcto. -->
 - [ ] C) Porque el cerebro pinta las imágenes <!-- feedback: No es literal. -->
@@ -90,13 +95,14 @@ La retina tiene dos tipos de fotorreceptores: bastones (sensibles a luz tenue, v
 
 **ID:** `CO-CIE-6-2026-W16-organos-de-los-sentidos-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, estudian el oído.
+**Contexto:** En Barranquilla, estudian el oído.
 
 ### Enunciado
 ¿En qué parte del oído se convierten las vibraciones sonoras en señales eléctricas?
 
-### Options
+### Opciones
 - [ ] A) En el pabellón auricular <!-- feedback: Solo capta y dirige el sonido. -->
 - [ ] B) En el tímpano <!-- feedback: Vibra pero no convierte a señal eléctrica. -->
 - [x] C) En el caracol (cóclea) del oído interno <!-- feedback: Correcto. -->
@@ -111,13 +117,14 @@ El sonido viaja: pabellón → conducto → tímpano (vibra) → huesecillos (am
 
 **ID:** `CO-CIE-6-2026-W16-organos-de-los-sentidos-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, aplican sobre defectos visuales.
+**Contexto:** En Bucaramanga, aplican sobre defectos visuales.
 
 ### Enunciado
 Una persona ve borrosos los objetos lejanos pero bien los cercanos. ¿Qué defecto visual tiene?
 
-### Options
+### Opciones
 - [ ] A) Hipermetropía <!-- feedback: En hipermetropía se ve mal de cerca. -->
 - [x] B) Miopía <!-- feedback: Correcto. -->
 - [ ] C) Presbicia <!-- feedback: Vista cansada por edad, afecta visión cercana. -->
@@ -132,13 +139,14 @@ En la miopía, el ojo es muy largo o el cristalino muy curvo, formando la imagen
 
 **ID:** `CO-CIE-6-2026-W16-organos-de-los-sentidos-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, aplican sobre el gusto y olfato.
+**Contexto:** En Cartagena, aplican sobre el gusto y olfato.
 
 ### Enunciado
 ¿Por qué la comida parece sin sabor cuando tenemos la nariz tapada por un resfriado?
 
-### Options
+### Opciones
 - [ ] A) Porque la lengua deja de funcionar <!-- feedback: La lengua sigue funcionando. -->
 - [ ] B) Porque las papilas gustativas se infectan <!-- feedback: No es la razón principal. -->
 - [x] C) Porque el gusto y el olfato trabajan juntos; sin aroma no hay sabor completo <!-- feedback: Correcto. -->
@@ -153,13 +161,14 @@ El 80% del sabor es en realidad aroma detectado por el olfato retronasal (desde 
 
 **ID:** `CO-CIE-6-2026-W16-organos-de-los-sentidos-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan la percepción del dolor.
+**Contexto:** En Pereira, analizan la percepción del dolor.
 
 ### Enunciado
 ¿Por qué el cerebro no siente dolor cuando es operado directamente?
 
-### Options
+### Opciones
 - [ ] A) Porque el cerebro no tiene nervios <!-- feedback: Tiene neuronas, pero no nociceptores. -->
 - [ ] B) Porque los cirujanos usan anestesia general <!-- feedback: La anestesia afecta todo el cuerpo. -->
 - [x] C) Porque el cerebro no tiene receptores de dolor (nociceptores), aunque las meninges sí los tienen <!-- feedback: Correcto. -->
@@ -174,13 +183,14 @@ El cerebro carece de nociceptores, permitiendo cirugías cerebrales con el pacie
 
 **ID:** `CO-CIE-6-2026-W16-organos-de-los-sentidos-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, analizan ilusiones ópticas.
+**Contexto:** En Manizales, analizan ilusiones ópticas.
 
 ### Enunciado
 ¿Por qué vemos movimiento en un video que son imágenes fijas en secuencia?
 
-### Options
+### Opciones
 - [ ] A) Las imágenes se mueven realmente <!-- feedback: Son fijas, la ilusión es cerebral. -->
 - [ ] B) El ojo tiene memoria fotográfica <!-- feedback: No es exacto. -->
 - [x] C) Persistencia retiniana: la imagen permanece en la retina ~1/30s <!-- feedback: Correcto. -->
@@ -195,13 +205,14 @@ La persistencia retiniana y el fenómeno phi crean la ilusión de movimiento. La
 
 **ID:** `CO-CIE-6-2026-W16-organos-de-los-sentidos-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan riesgos auditivos.
+**Contexto:** En Cúcuta, evalúan riesgos auditivos.
 
 ### Enunciado
 Un adolescente escucha música con audífonos a máximo volumen todo el día. ¿Cuál es el riesgo principal?
 
-### Options
+### Opciones
 - [ ] A) Se le acaba la batería <!-- feedback: Problema técnico menor. -->
 - [ ] B) Se vuelve sordo inmediatamente <!-- feedback: El daño es progresivo. -->
 - [x] C) Daño permanente a las células ciliadas de la cóclea, pérdida auditiva irreversible <!-- feedback: Correcto. -->
@@ -216,13 +227,14 @@ Las células ciliadas de la cóclea no se regeneran. Exposición a >85 dB las da
 
 **ID:** `CO-CIE-6-2026-W16-organos-de-los-sentidos-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan protección ocular.
+**Contexto:** En Ibagué, evalúan protección ocular.
 
 ### Enunciado
 ¿Por qué es peligroso mirar directamente al sol durante un eclipse sin protección?
 
-### Options
+### Opciones
 - [ ] A) Porque duele y parpadeamos <!-- feedback: No hay nociceptores en la retina, no duele. -->
 - [ ] B) Porque el sol se ve más grande <!-- feedback: No es el peligro. -->
 - [x] C) Porque la luz intensa quema la retina sin dolor, causando daño permanente <!-- feedback: Correcto. -->

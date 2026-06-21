@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-8-2026-P3-independencias-americanas-001-MASTERY"
+id: "CO-SOC-8-2026-P3-independencias-americanas-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "independencias_americanas, independencia_colombia, simon_bolivar, campana_libertadora, batalla_boyaca, independencia_latinoamerica, patria_boba, reconquista"
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Independencias Americanas
 
@@ -24,17 +31,17 @@ Este bundle cubre el proceso de independencia de las colonias americanas, con é
 
 ---
 
-## Question 1
-
+## Question 1 [D1]
 **ID:** `CO-SOC-8-2026-P3-independencias-americanas-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuándo comenzó el proceso de independencia de la Nueva Granada (actual Colombia)?
 
-### Options
+### Opciones
 - [ ] A) El 20 de julio de 1810, con el Grito de Independencia en Santafé de Bogotá <!-- feedback: Correcto. Esa fecha marca el inicio del proceso independentista. -->
 - [ ] B) El 7 de agosto de 1819, con la Batalla de Boyacá <!-- feedback: Esa batalla consolidó la independencia, pero el proceso comenzó antes. -->
 - [ ] C) El 24 de mayo de 1822, con la Batalla de Pichincha <!-- feedback: Esa batalla fue en Ecuador, parte del proceso. -->
@@ -45,17 +52,17 @@ El 20 de julio de 1810 es la fecha oficial del Grito de Independencia de Colombi
 
 ---
 
-## Question 2
-
+## Question 2 [D1]
 **ID:** `CO-SOC-8-2026-P3-independencias-americanas-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Quién fue Simón Bolívar y qué papel jugó en la independencia de Colombia?
 
-### Options
+### Opciones
 - [ ] A) Un rey español que gobernó Colombia <!-- feedback: Incorrecto. Bolívar luchó contra el dominio español. -->
 - [ ] B) Un científico colombiano que estudió la flora y fauna del país <!-- feedback: Incorrecto. Bolívar fue un líder militar y político. -->
 - [x] C) El Libertador de cinco naciones (Colombia, Venezuela, Ecuador, Perú, Bolivia), líder militar y político que dirigió la Campaña Libertadora de la Nueva Granada <!-- feedback: Correcto. Bolívar es la figura central de la independencia suramericana. -->
@@ -66,17 +73,17 @@ Simón Bolívar (1783-1830) es conocido como "El Libertador". Inspirado por la I
 
 ---
 
-## Question 3
-
+## Question 3 [D1]
 **ID:** `CO-SOC-8-2026-P3-independencias-americanas-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue la "Patria Boba" (1810-1816) en la historia de Colombia?
 
-### Options
+### Opciones
 - [ ] A) Un período de independencia consolidada y paz duradera <!-- feedback: Incorrecto. Fue un período de conflicto interno. -->
 - [ ] B) Una guerra entre Colombia y España que Colombia ganó rápidamente <!-- feedback: Incorrecto. No fue una guerra contra España. -->
 - [x] C) El primer período republicano en Colombia, caracterizado por luchas internas entre federalistas (Pablo Morillo no: entre centralistas y federalistas) que debilitaron la independencia y facilitaron la Reconquista española <!-- feedback: Correcto. Las divisiones internas llevaron al fracaso de la primera república. -->
@@ -87,17 +94,17 @@ La Patria Boba (1810-1816) fue la Primera República colombiana. Los líderes in
 
 ---
 
-## Question 4
-
+## Question 4 [D1]
 **ID:** `CO-SOC-8-2026-P3-independencias-americanas-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue la Reconquista española (1815-1819)?
 
-### Options
+### Opciones
 - [ ] A) La reconquista de España por parte de los colombianos <!-- feedback: Incorrecto. Fue lo opuesto. -->
 - [ ] B) Un período de paz entre Colombia y España <!-- feedback: Incorrecto. Fue un período de violencia. -->
 - [x] C) La campaña militar enviada por el rey Fernando VII, comandada por Pablo Morillo, para recuperar el control de las colonias rebeldes. Se estableció un régimen de terror para castigar a los independentistas <!-- feedback: Correcto. La Reconquista fue brutal. -->
@@ -108,17 +115,17 @@ Fernando VII, restaurado en el trono español tras la derrota de Napoleón, envi
 
 ---
 
-## Question 5
-
+## Question 5 [D1]
 **ID:** `CO-SOC-8-2026-P3-independencias-americanas-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue la Campaña Libertadora de la Nueva Granada (1819)?
 
-### Options
+### Opciones
 - [ ] A) Una expedición militar española para conquistar Colombia <!-- feedback: Incorrecto. Fue liderada por los independentistas. -->
 - [ ] B) Un viaje diplomático de Bolívar para negociar la independencia <!-- feedback: Incorrecto. Fue una campaña militar. -->
 - [x] C) La campaña militar liderada por Simón Bolívar y Francisco de Paula Santander, que cruzó los Andes desde Venezuela, sorprendió a los españoles y culminó en la Batalla de Boyacá (7 de agosto de 1819) <!-- feedback: Correcto. La Campaña Libertadora fue una hazaña militar extraordinaria. -->
@@ -129,17 +136,17 @@ La Campaña Libertadora es considerada una de las hazañas militares más audace
 
 ---
 
-## Question 6
-
+## Question 6 [D1]
 **ID:** `CO-SOC-8-2026-P3-independencias-americanas-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Por qué fue importante la Batalla de Boyacá (7 de agosto de 1819)?
 
-### Options
+### Opciones
 - [ ] A) Fue una batalla menor sin importancia estratégica <!-- feedback: Incorrecto. Fue decisiva. -->
 - [ ] B) Fue la batalla donde murió Simón Bolívar <!-- feedback: Incorrecto. Bolívar sobrevivió. -->
 - [x] C) Fue la batalla decisiva que aseguró la independencia de la Nueva Granada. El ejército patriota derrotó al ejército realista, capturó al comandante español Barreiro y tomó Santafé de Bogotá <!-- feedback: Correcto. Boyacá selló la independencia colombiana. -->
@@ -150,17 +157,17 @@ La Batalla del Puente de Boyacá duró solo dos horas, pero su impacto fue inmen
 
 ---
 
-## Question 7
-
+## Question 7 [D1]
 **ID:** `CO-SOC-8-2026-P3-independencias-americanas-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue la Gran Colombia (1819-1831)?
 
-### Options
+### Opciones
 - [ ] A) El imperio colonial español en el siglo XVI <!-- feedback: Incorrecto. Fue una república independiente. -->
 - [ ] B) Un país sudamericano actual <!-- feedback: Incorrecto. Ya no existe como tal. -->
 - [x] C) La república creada por Simón Bolívar en el Congreso de Angostura (1819), que unió los territorios de la Nueva Granada (Colombia), Venezuela, Ecuador y Panamá en una sola nación <!-- feedback: Correcto. La Gran Colombia fue el sueño de unidad latinoamericana. -->
@@ -171,17 +178,17 @@ La Gran Colombia fue el proyecto político más ambicioso de Bolívar. Creada en
 
 ---
 
-## Question 8
-
+## Question 8 [D1]
 **ID:** `CO-SOC-8-2026-P3-independencias-americanas-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué papel jugó Francisco de Paula Santander en la independencia de Colombia?
 
-### Options
+### Opciones
 - [ ] A) Fue el principal líder de la Reconquista española <!-- feedback: Incorrecto. Santander era independentista. -->
 - [ ] B) Fue un rey español que gobernó Colombia después de la independencia <!-- feedback: Incorrecto. Santander fue un republicano. -->
 - [x] C) Fue el general que comandó la vanguardia del ejército patriota en la Campaña Libertadora, organizó la administración de la república y fue vicepresidente de la Gran Colombia, con visión legalista y civilista <!-- feedback: Correcto. Santander fue el "Hombre de las Leyes". -->
@@ -192,17 +199,17 @@ Francisco de Paula Santander (1792-1840) fue el complemento administrativo de Bo
 
 ---
 
-## Question 9
-
+## Question 9 [D1]
 **ID:** `CO-SOC-8-2026-P3-independencias-americanas-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál fue el papel de las clases populares (indígenas, mestizos, esclavos) en la independencia de Colombia?
 
-### Options
+### Opciones
 - [ ] A) No participaron; la independencia fue solo de las élites criollas <!-- feedback: Incorrecto. Participaron, aunque no siempre por las mismas razones. -->
 - [ ] B) Todos los grupos populares apoyaron unánimemente la independencia <!-- feedback: Incorrecto. Hubo divisiones. -->
 - [x] C) Los grupos populares participaron activamente, pero no siempre del lado independentista. Muchos indígenas y esclavos lucharon para los realistas (a quienes el rey protegía en ciertos aspectos). Las promesas de abolición de la esclavitud atrajo a algunos esclavos a la causa patriota <!-- feedback: Correcto. La participación popular fue compleja y diversa. -->
@@ -213,17 +220,17 @@ La independencia no fue un movimiento unificado. Los esclavos y los indígenas a
 
 ---
 
-## Question 10
-
+## Question 10 [D1]
 **ID:** `CO-SOC-8-2026-P3-independencias-americanas-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue el Congreso de Cúcuta (1821)?
 
-### Options
+### Opciones
 - [ ] A) Un congreso español para planificar la reconquista de América <!-- feedback: Incorrecto. Fue un congreso independentista. -->
 - [ ] B) Una reunión de caciques indígenas para organizar la resistencia <!-- feedback: Incorrecto. Fue de representantes republicanos. -->
 - [x] C) El congreso constituyente que redactó la Constitución de la Gran Colombia (1821), estableció la república, abolió la esclavitud gradualmente y organizó el nuevo Estado <!-- feedback: Correcto. La Constitución de Cúcuta definió el marco legal de la Gran Colombia. -->
@@ -234,17 +241,17 @@ El Congreso de Cúcuta (1821) fue fundamental: unió formalmente Nueva Granada, 
 
 ---
 
-## Question 11
-
+## Question 11 [D1]
 **ID:** `CO-SOC-8-2026-P3-independencias-americanas-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué papel jugó la mujer en la independencia colombiana?
 
-### Options
+### Opciones
 - [ ] A) Ninguno; las mujeres no participaron en la independencia <!-- feedback: Incorrecto. Tuvieron un papel activo. -->
 - [ ] B) Solo participaron como enfermeras sin importancia estratégica <!-- feedback: Incorrecto. Su papel fue más variado. -->
 - [x] C) Las mujeres participaron como espías (Policarpa Salavarrieta, la Pola), proveedoras de recursos, enfermeras, mensajeras y financieras. Muchas fueron ejecutadas por su apoyo a la causa independentista <!-- feedback: Correcto. Las mujeres fueron agentes activas de la independencia. -->
@@ -255,17 +262,17 @@ Policarpa Salavarrieta (La Pola) es la heroína más famosa de la independencia 
 
 ---
 
-## Question 12
-
+## Question 12 [D1]
 **ID:** `CO-SOC-8-2026-P3-independencias-americanas-001-MASTERY-v12`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué factores externos facilitaron las independencias americanas?
 
-### Options
+### Opciones
 - [ ] A) La independencia fue un proceso exclusivamente interno sin influencias externas <!-- feedback: Incorrecto. Hubo factores externos clave. -->
 - [ ] B) Francia invadió América y liberó a las colonias <!-- feedback: Incorrecto. Francia no invadió América. -->
 - [x] C) La invasión napoleónica a España (1808), que debilitó a la monarquía española; la independencia de EE.UU. (1776) como ejemplo exitoso; y el bloqueo inglés que aisló a las colonias españolas <!-- feedback: Correcto. Los factores externos fueron cruciales. -->
@@ -276,17 +283,17 @@ En 1808, Napoleón invadió España, capturó al rey Fernando VII y puso a su he
 
 ---
 
-## Question 13
-
+## Question 13 [D1]
 **ID:** `CO-SOC-8-2026-P3-independencias-americanas-001-MASTERY-v13`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Por qué fracasó la Gran Colombia?
 
-### Options
+### Opciones
 - [ ] A) Porque España la reconquistó militarmente <!-- feedback: Incorrecto. España no logró reconquistar la Gran Colombia. -->
 - [ ] B) Porque Bolívar decidió disolverla voluntariamente <!-- feedback: Incorrecto. Bolívar quería mantenerla unida. -->
 - [x] C) Por conflictos internos: tensiones entre centralistas y federalistas, rivalidades regionales (Venezuela, Nueva Granada, Ecuador), caudillismos locales, la muerte prematura de Bolívar (1830) y la falta de comunicación e integración real <!-- feedback: Correcto. La desunión interna destruyó el proyecto. -->
@@ -297,17 +304,17 @@ La disolución de la Gran Colombia muestra los desafíos de la integración. Las
 
 ---
 
-## Question 14
-
+## Question 14 [D1]
 **ID:** `CO-SOC-8-2026-P3-independencias-americanas-001-MASTERY-v14`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.40
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Analiza: la independencia de Colombia eliminó el dominio español y creó una república. Sin embargo, las élites criollas mantuvieron el poder, la esclavitud no se abolió completamente hasta 1851, los indígenas continuaron marginados y las desigualdades sociales persistieron. ¿Fue realmente una "revolución" o solo un cambio de élites?
 
-### Options
+### Opciones
 - [ ] A) Fue una verdadera revolución social que eliminó todas las desigualdades <!-- feedback: Incorrecto. Las desigualdades persistieron. -->
 - [ ] B) No fue ningún cambio; todo siguió igual que en la colonia <!-- feedback: Incorrecto. Sí hubo cambios políticos importantes. -->
 - [x] C) Fue un proceso ambivalente: independencia política (fin del dominio colonial) sin revolución social (las élites criollas reemplazaron a las españolas, pero las estructuras de desigualdad continuaron) <!-- feedback: Correcto. La independencia fue política, no social. -->
@@ -328,7 +335,7 @@ Muchos historiadores sostienen que la independencia fue una "revolución inconcl
 ### Enunciado
 Analiza el siguiente dilema: Simón Bolívar, el Libertador, pasó de ser un revolucionario que luchaba por la libertad a, en sus últimos años, proponer una presidencia vitalicia y un Senado hereditario (inspirado en el modelo británico). Su famosa frase "He arado en el mar" refleja su frustración final. ¿Qué nos dice esta evolución sobre los desafíos de construir nuevas naciones?
 
-### Options
+### Opciones
 - [ ] A) Que Bolívar traicionó sus ideales y se convirtió en un tirano <!-- feedback: Incorrecto. Es una lectura simplista de su trayectoria. -->
 - [ ] B) Que la democracia es imposible en América Latina <!-- feedback: Incorrecto. Las democracias han sido posibles, aunque con dificultades. -->
 - [x] C) Que construir instituciones republicanas estables después de siglos de coloniaje es un desafío enorme. La evolución de Bolívar refleja la tensión entre ideales revolucionarios y la realidad política de naciones con profundas desigualdades y sin tradición democrática <!-- feedback: Correcto. La construcción de naciones es un proceso complejo y contradictorio. -->

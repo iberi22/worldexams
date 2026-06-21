@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-W27-resenas-criticas-001-MASTERY"
+id: "CO-LEC-6-2026-W27-resenas-criticas-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -15,7 +15,9 @@ alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W27 — Reseñas Críticas
 
@@ -29,14 +31,15 @@ tier: "legacy"
 
 **ID:** `CO-LEC-6-2026-W27-resenas-criticas-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de reseña crítica
-**Context:** Reconocer las características de una reseña
+**Contexto:** Reconocer las características de una reseña
 
 ### Enunciado
 
 ¿Cuál de las siguientes definiciones describe mejor una RESEÑA CRÍTICA?
 
-### Options
+### Opciones
 - [ ] A) Un resumen breve de un libro, película u obra sin opiniones personales <!-- feedback: Incorrecto. Eso es un RESUMEN. La reseña crítica INCLUYE opinión y análisis, no solo descripción. -->
 - [ ] B) Una propaganda que solo dice cosas positivas para vender el producto <!-- feedback: Incorrecto. Eso es PUBLICIDAD. La reseña crítica debe ser honesta, equilibrada y fundamentada, no solo positiva. -->
 - [x] C) Un texto que presenta y analiza una obra, expresando una opinión fundamentada con argumentos <!-- feedback: ¡Correcto! La reseña crítica combina descripción (de qué trata la obra) con análisis y opinión. El autor da su punto de vista, pero lo respalda con argumentos y ejemplos concretos. -->
@@ -52,14 +55,15 @@ La reseña crítica es un género híbrido: tiene elementos INFORMATIVOS (descri
 
 **ID:** `CO-LEC-6-2026-W27-resenas-criticas-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Partes de la reseña
-**Context:** Identificar la estructura de una reseña
+**Contexto:** Identificar la estructura de una reseña
 
 ### Enunciado
 
 ¿Cuál es la estructura típica de una reseña crítica?
 
-### Options
+### Opciones
 - [ ] A) Introducción, nudo, desenlace <!-- feedback: Incorrecto. Esa es la estructura de un cuento o narración, no de una reseña. -->
 - [ ] B) Tesis, argumentos, conclusión <!-- feedback: Parcialmente correcto. Esta es la estructura de un texto argumentativo, que la reseña incluye, pero le falta la parte descriptiva-informativa. -->
 - [ ] C) Solo opinión del autor <!-- feedback: Incorrecto. Una reseña no es solo opinión. También debe describir la obra para que el lector sepa de qué se habla. -->
@@ -75,8 +79,9 @@ Una reseña crítica bien estructurada permite al lector: (1) saber de qué obra
 
 **ID:** `CO-LEC-6-2026-W27-resenas-criticas-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Diferenciar resumen de crítica
-**Context:** Distinguir entre describir y opinar
+**Contexto:** Distinguir entre describir y opinar
 
 ### Enunciado
 
@@ -88,7 +93,7 @@ Lee los siguientes fragmentos sobre la misma película:
 
 ¿Cuál es la diferencia entre ambos textos?
 
-### Options
+### Opciones
 - [ ] A) El Texto A es más largo que el Texto B <!-- feedback: Incorrecto. La extensión no es relevante. La diferencia es de función: informar vs opinar. -->
 - [ ] B) El Texto A habla de la Amazonía y el Texto B no <!-- feedback: Incorrecto. Ambos mencionan la película. La diferencia no es temática. -->
 - [x] C) El Texto A describe la película (resumen); el Texto B expresa una opinión fundamentada sobre ella (crítica) <!-- feedback: ¡Correcto! El Texto A solo informa qué pasa en la película. El Texto B emite un juicio valorativo: "fotografía impresionante" (positivo), "ritmo lento... difícil" (negativo). Eso es crítica. -->
@@ -104,8 +109,9 @@ En una reseña, el RESUMEN responde a "¿de qué trata?" y usa un lenguaje descr
 
 **ID:** `CO-LEC-6-2026-W27-resenas-criticas-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Opinión fundamentada
-**Context:** Identificar si una opinión está bien fundamentada
+**Contexto:** Identificar si una opinión está bien fundamentada
 
 ### Enunciado
 
@@ -115,7 +121,7 @@ En una reseña, el RESUMEN responde a "¿de qué trata?" y usa un lenguaje descr
 
 ¿Por qué esta NO es una buena reseña crítica?
 
-### Options
+### Opciones
 - [ ] A) Porque no dice el nombre del juego <!-- feedback: Incorrecto. Aunque el nombre ayudaría, el problema principal es de calidad argumentativa, no de identificación. -->
 - [x] B) Porque la opinión no está fundamentada con argumentos o ejemplos concretos <!-- feedback: ¡Correcto! Decir "malísimo" y "feos" es solo una opinión sin sustento. Una buena crítica necesita explicar POR QUÉ: ¿qué aspectos específicos de los gráficos son malos? ¿texturas? ¿diseño de personajes? ¿iluminación? -->
 - [ ] C) Porque usa lenguaje informal <!-- feedback: Incorrecto. El lenguaje informal no invalida una crítica. Una reseña puede ser informal y aun así tener buenos argumentos. El problema es la falta de fundamentación. -->
@@ -131,8 +137,9 @@ Una opinión sin fundamento no es crítica, es solo un gusto personal. Para que 
 
 **ID:** `CO-LEC-6-2026-W27-resenas-criticas-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Tono y estilo del reseñador
-**Context:** Identificar el tono de una reseña
+**Contexto:** Identificar el tono de una reseña
 
 ### Enunciado
 
@@ -140,7 +147,7 @@ Una opinión sin fundamento no es crítica, es solo un gusto personal. Para que 
 
 ¿Qué TONO predomina en esta reseña?
 
-### Options
+### Opciones
 - [ ] A) Agresivo y negativo <!-- feedback: Incorrecto. Aunque advierte que no es para todo el mundo, lo hace de manera respetuosa y constructiva. No hay agresividad. -->
 - [ ] B) Exagerado y sensacionalista <!-- feedback: Incorrecto. El tono es mesurado. No usa superlativos exagerados ni lenguaje alarmista. -->
 - [x] C) Equilibrado y respetuoso, reconociendo que la obra no es para todos pero destacando sus virtudes <!-- feedback: ¡Correcto! La reseña reconoce el público adecuado ("si disfrutas de...") y destaca virtudes ("cada palabra cuidadosamente elegida"). El tono es respetuoso y equilibrado, no descalifica a quienes no disfruten el libro. -->
@@ -156,8 +163,9 @@ El tono de una reseña revela la actitud del reseñador. Un tono equilibrado rec
 
 **ID:** `CO-LEC-6-2026-W27-resenas-criticas-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Identificar sesgo o falta de objetividad
-**Context:** Reconocer cuándo una reseña no es imparcial
+**Contexto:** Reconocer cuándo una reseña no es imparcial
 
 ### Enunciado
 
@@ -167,7 +175,7 @@ El tono de una reseña revela la actitud del reseñador. Un tono equilibrado rec
 
 ¿Qué problema de objetividad tiene esta reseña?
 
-### Options
+### Opciones
 - [ ] A) Que usa elogios exagerados <!-- feedback: Parcialmente correcto, pero hay un problema más específico. -->
 - [ ] B) Que no menciona el género de la novela <!-- feedback: Incorrecto. Aunque sería útil mencionarlo, la ausencia no es el principal problema de objetividad. -->
 - [x] C) Que el reseñador tiene una relación personal con el autor (amistad), lo que puede sesgar su opinión y llevarlo a no reconocer defectos <!-- feedback: ¡Correcto! La amistad entre el reseñador y el autor crea un conflicto de interés. Una reseña imparcial debe ser honesta sobre los defectos también. Decir que es "perfecta" y "la mejor" sin señalar ningún aspecto negativo es señal de sesgo. -->
@@ -183,8 +191,9 @@ Las reseñas deben ser lo más imparciales posible. Cuando el reseñador tiene u
 
 **ID:** `CO-LEC-6-2026-W27-resenas-criticas-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Evaluación de criterios en una reseña
-**Context:** Identificar qué criterios usa el reseñador
+**Contexto:** Identificar qué criterios usa el reseñador
 
 ### Enunciado
 
@@ -192,7 +201,7 @@ Las reseñas deben ser lo más imparciales posible. Cuando el reseñador tiene u
 
 ¿Qué aspectos evalúa el reseñador en esta reseña de una exposición?
 
-### Options
+### Opciones
 - [ ] A) Solo el precio de la entrada <!-- feedback: Incorrecto. No menciona el precio en ningún momento. -->
 - [ ] B) Solo la selección de las piezas <!-- feedback: Incorrecto. También evalúa la iluminación y el logro del objetivo. -->
 - [x] C) El cumplimiento del objetivo, la selección y curación de las piezas, y las condiciones de exhibición (iluminación) <!-- feedback: ¡Correcto! El reseñador evalúa múltiples aspectos: si la exposición cumple su propósito ("logra su objetivo"), la calidad curatorial ("bien seleccionadas y curadas") y las condiciones físicas ("iluminación... dificulta"). -->
@@ -208,8 +217,9 @@ Una buena reseña evalúa diferentes aspectos de la obra. En el caso de una expo
 
 **ID:** `CO-LEC-6-2026-W27-resenas-criticas-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Comparación de dos reseñas del mismo producto
-**Context:** Analizar diferentes perspectivas
+**Contexto:** Analizar diferentes perspectivas
 
 ### Enunciado
 
@@ -219,7 +229,7 @@ Una buena reseña evalúa diferentes aspectos de la obra. En el caso de una expo
 
 ¿Qué diferencia metodológica hay entre ambas reseñas?
 
-### Options
+### Opciones
 - [ ] A) La Reseña 1 es más larga que la Reseña 2 <!-- feedback: Incorrecto. La longitud no es el punto. La diferencia es de enfoque y rigor. -->
 - [x] B) La Reseña 1 reconoce tanto virtudes como defectos; la Reseña 2 solo da elogios sin ningún análisis crítico <!-- feedback: ¡Correcto! La Reseña 1 es equilibrada: destaca aciertos (producción, actuaciones, fotografía) pero también señala debilidades (guion predecible). La Reseña 2 es solo entusiasta sin análisis. Una reseña equilibrada es más creíble. -->
 - [ ] C) La Reseña 1 es negativa y la Reseña 2 es positiva <!-- feedback: Incorrecto. Ambas son positivas en general. La diferencia es que la 1 es matizada (positiva con peros) y la 2 es absoluta (todo perfecto). -->
@@ -235,8 +245,9 @@ Una reseña que solo menciona aspectos positivos o solo negativos es sospechosa.
 
 **ID:** `CO-LEC-6-2026-W27-resenas-criticas-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Argumentación en reseñas
-**Context:** Analizar la calidad de los argumentos en una reseña
+**Contexto:** Analizar la calidad de los argumentos en una reseña
 
 ### Enunciado
 
@@ -244,7 +255,7 @@ Una reseña que solo menciona aspectos positivos o solo negativos es sospechosa.
 
 ¿Qué le falta a este argumento para ser considerado una crítica válida?
 
-### Options
+### Opciones
 - [ ] A) Un veredicto final <!-- feedback: Incorrecto. "Recomiendo" ya es un veredicto. El problema no es la ausencia de recomendación. -->
 - [ ] B) Una calificación numérica <!-- feedback: Incorrecto. Las calificaciones numéricas son opcionales. No son necesarias para una crítica válida. -->
 - [x] C) Explicaciones específicas sobre QUÉ hace que el libro sea "bonito" y POR QUÉ le encantó <!-- feedback: ¡Correcto! "Me encantó" y "es muy bonito" son opiniones sin sustento. Una crítica necesita detalles: ¿qué aspectos del libro le gustaron? ¿el estilo de escritura? ¿los personajes? ¿la trama? ¿Cómo se comparan con otros libros similares? -->
@@ -260,14 +271,15 @@ La diferencia entre "me gustó" (opinión) y "es una buena obra porque..." (crí
 
 **ID:** `CO-LEC-6-2026-W27-resenas-criticas-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Evaluación y producción de reseña
-**Context:** Juzgar la utilidad de una reseña
+**Contexto:** Juzgar la utilidad de una reseña
 
 ### Enunciado
 
 ¿Cuál de las siguientes reseñas es MÁS ÚTIL para alguien que quiere decidir si ver una película?
 
-### Options
+### Opciones
 - [ ] A) "La película es mala, no la vean." <!-- feedback: Incorrecto. Es una opinión sin sustento. No ayuda a decidir porque no explica por qué es mala ni para qué tipo de espectador. -->
 - [ ] B) "La película tiene buenos efectos especiales." <!-- feedback: Parcialmente útil, pero insuficiente. Solo menciona un aspecto. Una reseña útil debe cubrir varios elementos de la obra. -->
 - [x] C) "Esta película de ciencia ficción colombiana combina una historia emotiva con efectos visuales sorprendentes. La actuación del protagonista es convincente, aunque el ritmo decae en la segunda mitad. Recomendada para quienes disfrutan de dramas familiares con un toque futurista." <!-- feedback: ¡Correcto! Esta reseña es útil porque: (1) identifica el género, (2) destaca aciertos y debilidades, (3) describe el estilo narrativo, y (4) recomienda para un público específico. -->

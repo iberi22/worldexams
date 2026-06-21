@@ -1,10 +1,10 @@
 ---
-id: "CO-SOC-6-2026-W21-repaso-p5-001-MASTERY"
+id: "CO-SOC-6-2026-W21-repaso-p5-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "sociales-ciudadanas"
 tema: "repaso-p5"
-semana: 21
+week: "W21"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso_periodo_5, funciones_estado, separacion_poderes, rama_ejecutiva, rama_legislativa, rama_judicial, presupuesto_publico, impuestos, regalias, contraloria, procuraduria, servicio_militar, fuerza_publica, derechos_humanos, objeccion_conciencia"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: REPASO Periodo 5 — El Estado y la Ciudadanía
 
@@ -24,17 +31,17 @@ Este bundle de repaso integra los temas del quinto periodo académico: las funci
 
 ---
 
-## Question 1
-
+## Question 1 [D1]
 **ID:** `CO-SOC-6-2026-W21-repaso-p5-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es la función principal de la Contraloría General de la República?
 
-### Options
+### Opciones
 - [ ] A) Defender los derechos humanos de los ciudadanos <!-- feedback: Incorrecto. Esa es función de la Defensoría del Pueblo. -->
 - [ ] B) Investigar y sancionar delitos cometidos por funcionarios públicos <!-- feedback: Incorrecto. Esa es función de la Fiscalía General. -->
 - [x] C) Vigilar la gestión fiscal del Estado, auditando el uso de los recursos públicos para garantizar que se gasten de manera eficiente y transparente <!-- feedback: Correcto. La Contraloría es el órgano de control fiscal. -->
@@ -45,17 +52,17 @@ La Contraloría General de la República (artículo 267 de la Constitución) es 
 
 ---
 
-## Question 2
-
+## Question 2 [D1]
 **ID:** `CO-SOC-6-2026-W21-repaso-p5-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué institución conforma la Rama Judicial en Colombia?
 
-### Options
+### Opciones
 - [ ] A) El presidente de la República y sus ministros <!-- feedback: Incorrecto. Esos pertenecen a la Rama Ejecutiva. -->
 - [ ] B) El Congreso de la República, las Asambleas y los Concejos <!-- feedback: Incorrecto. Esos pertenecen a la Rama Legislativa. -->
 - [x] C) Los tribunales y juzgados del país, encabezados por las altas cortes (Corte Suprema, Corte Constitucional, Consejo de Estado y Consejo Superior de la Judicatura) <!-- feedback: Correcto. La Rama Judicial administra justicia. -->
@@ -66,17 +73,17 @@ La Rama Judicial (artículo 228 de la Constitución) está conformada por las cu
 
 ---
 
-## Question 3
-
+## Question 3 [D1]
 **ID:** `CO-SOC-6-2026-W21-repaso-p5-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es la diferencia entre la Procuraduría General de la Nación y la Fiscalía General de la Nación?
 
-### Options
+### Opciones
 - [ ] A) No hay diferencia; son dos nombres para la misma entidad <!-- feedback: Incorrecto. Tienen funciones y estructuras diferentes. -->
 - [ ] B) La Procuraduría investiga delitos; la Fiscalía sanciona disciplinariamente <!-- feedback: Incorrecto. Es al revés. -->
 - [x] C) La Procuraduría investiga y sanciona disciplinariamente a los servidores públicos por faltas a sus deberes; la Fiscalía investiga y acusa por delitos penales (hurto, homicidio, corrupción) <!-- feedback: Correcto. Una es control disciplinario, la otra es investigación penal. -->
@@ -87,17 +94,17 @@ Aunque ambas tienen funciones de investigación, tienen ámbitos diferentes: la 
 
 ---
 
-## Question 4
-
+## Question 4 [D1]
 **ID:** `CO-SOC-6-2026-W21-repaso-p5-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 El presupuesto de gastos del Estado se divide en: gastos de funcionamiento, gastos de inversión y servicio de la deuda. ¿Cuál de los siguientes es un ejemplo de gasto de inversión?
 
-### Options
+### Opciones
 - [ ] A) El salario de los maestros de escuelas públicas <!-- feedback: Incorrecto. Eso es gasto de funcionamiento (operación del sistema educativo). -->
 - [ ] B) El pago de intereses de la deuda externa <!-- feedback: Incorrecto. Eso es servicio de la deuda. -->
 - [x] C) La construcción de un nuevo hospital en un municipio <!-- feedback: Correcto. La construcción de infraestructura nueva es gasto de inversión. -->
@@ -108,17 +115,17 @@ La clasificación del gasto público es: (1) gastos de funcionamiento — operac
 
 ---
 
-## Question 5
-
+## Question 5 [D1]
 **ID:** `CO-SOC-6-2026-W21-repaso-p5-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué son las Fuerzas Militares y cuál es su función principal?
 
-### Options
+### Opciones
 - [ ] A) Son un cuerpo civil armado encargado de la seguridad ciudadana en las calles <!-- feedback: Incorrecto. Esa es función de la Policía Nacional. -->
 - [ ] B) Son una institución educativa que forma profesionales en derecho <!-- feedback: Incorrecto. No son una institución educativa civil. -->
 - [x] C) Son el Ejército Nacional, la Armada Nacional y la Fuerza Aérea Colombiana, cuya función principal es la defensa de la soberanía nacional, la independencia y la integridad territorial de Colombia <!-- feedback: Correcto. Las Fuerzas Militares defienden al país de amenazas externas e internas. -->
@@ -129,17 +136,17 @@ Las Fuerzas Militares (artículo 217 Constitución) están conformadas por el Ej
 
 ---
 
-## Question 6
-
+## Question 6 [D1]
 **ID:** `CO-SOC-6-2026-W21-repaso-p5-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Una comunidad descubre que un contratista está cobrando al municipio por obras que no realizó. ¿A qué entidades deben acudir para denunciar este desfalco?
 
-### Options
+### Opciones
 - [ ] A) Solo a la Fiscalía General de la Nación, porque es un delito penal <!-- feedback: Parcialmente correcto, pero otras entidades también deben intervenir. -->
 - [ ] B) Solo a la Contraloría, porque es un desfalco fiscal <!-- feedback: Parcialmente correcto, pero hay más entidades competentes. -->
 - [x] C) A la Contraloría (por el daño fiscal), a la Fiscalía (por el delito penal: peculado o fraude) y a la Procuraduría (por la falta disciplinaria de los funcionarios que permitieron el fraude) <!-- feedback: Correcto. Las tres entidades desde diferentes ámbitos investigan el mismo hecho. -->
@@ -150,17 +157,17 @@ La corrupción es un fenómeno complejo que se investiga desde diferentes frente
 
 ---
 
-## Question 7
-
+## Question 7 [D1]
 **ID:** `CO-SOC-6-2026-W21-repaso-p5-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Un joven de 20 años termina el bachillerato y quiere ingresar a la universidad pública. Sin embargo, no ha definido su situación militar. ¿Qué debe hacer?
 
-### Options
+### Opciones
 - [ ] A) Inscribirse en la universidad y preocuparse por la libreta militar después de graduarse <!-- feedback: Incorrecto. La libreta militar es requisito para matricularse en universidades públicas. -->
 - [ ] B) No necesita hacer nada; la libreta militar ya no es obligatoria para estudiar <!-- feedback: Incorrecto. La libreta militar sigue siendo requisito. -->
 - [x] C) Debe presentarse al Distrito Militar de su ciudad para definir su situación militar (prestar servicio, solicitar exención o aplazamiento) y obtener la libreta militar que acredite su situación, requisito indispensable para matricularse <!-- feedback: Correcto. La libreta militar es requisito para la matrícula universitaria. -->
@@ -171,17 +178,17 @@ La libreta militar es un requisito obligatorio (artículo 39 de la Ley 48 de 199
 
 ---
 
-## Question 8
-
+## Question 8 [D1]
 **ID:** `CO-SOC-6-2026-W21-repaso-p5-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 La Constitución establece que las tres ramas del poder público (Ejecutiva, Legislativa, Judicial) son independientes pero deben colaborarse mutuamente. ¿Por qué es necesario que sean independientes y a la vez colaborativas?
 
-### Options
+### Opciones
 - [ ] A) Porque la independencia y la colaboración son contradictorias <!-- feedback: Incorrecto. Son complementarias. -->
 - [ ] B) Porque la independencia asegura que cada rama haga lo que quiera sin importar las otras <!-- feedback: Incorrecto. La independencia no significa que puedan actuar sin límites. -->
 - [x] C) La independencia evita que una rama concentre todo el poder (tiranía); la colaboración permite que el Estado funcione como un sistema coordinado, porque ninguna rama puede gobernar sin las otras (el Congreso expide leyes, el Ejecutivo las ejecuta y la Judicial las aplica) <!-- feedback: Correcto. Son dos caras de la misma moneda. -->
@@ -192,17 +199,17 @@ La separación de poderes no significa aislamiento. El artículo 113 de la Const
 
 ---
 
-## Question 9
-
+## Question 9 [D1]
 **ID:** `CO-SOC-6-2026-W21-repaso-p5-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 El presupuesto participativo, la contraloría y la veeduría ciudadana son tres herramientas diferentes para controlar el uso de los recursos públicos. ¿Cuál es la principal diferencia entre ellas?
 
-### Options
+### Opciones
 - [ ] A) Son exactamente lo mismo; la diferencia es solo el nombre <!-- feedback: Incorrecto. Cada una tiene un rol y procedimiento diferente. -->
 - [ ] B) La contraloría es ciudadana, el presupuesto participativo es institucional <!-- feedback: Incorrecto. Es al revés en parte. -->
 - [x] C) El presupuesto participativo permite a los ciudadanos decidir el destino de los recursos (participación directa); la contraloría audita el gasto después de ejecutado (control institucional); la veeduría ciudadana permite a los ciudadanos vigilar todo el proceso de la contratación pública (control social) <!-- feedback: Correcto. Son tres formas complementarias de control ciudadano e institucional del gasto público. -->
@@ -223,7 +230,7 @@ Son tres herramientas complementarias: (1) Presupuesto participativo (Ley 1757/2
 ### Enunciado
 Colombia tiene instituciones sólidas formalmente (Contraloría, Procuraduría, Fiscalía, altas cortes), pero la corrupción sigue siendo un problema grave. Transparencia Internacional ubica a Colombia en el puesto 87 de 180 países en percepción de corrupción (2024). ¿Qué nos dice esta contradicción sobre la efectividad de las instituciones de control?
 
-### Options
+### Opciones
 - [ ] A) Que las instituciones de control colombianas no funcionan en absoluto y deberían eliminarse <!-- feedback: Incorrecto. Las instituciones funcionan pero enfrentan limitaciones estructurales. -->
 - [ ] B) Que la corrupción es un problema exclusivamente cultural que las instituciones no pueden resolver <!-- feedback: Incorrecto. No es exclusivamente cultural; hay factores institucionales, políticos y económicos. -->
 - [x] C) Que tener instituciones de control es necesario pero insuficiente; la efectividad del control requiere independencia política real de los órganos de control, recursos suficientes, sanción efectiva a los corruptos (baja impunidad), protección a denunciantes, cultura de la legalidad, y participación ciudadana activa en la vigilancia de lo público <!-- feedback: Correcto. La corrupción requiere un enfoque sistémico. -->

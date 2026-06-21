@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W21-estadistica-recoleccion-datos-001-MASTERY"
+id: "CO-MAT-6-2026-W21-estadistica-recoleccion-datos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W21 -- Estadistica: Recoleccion y Organizacion de Datos
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W21-estadistica-recoleccion-datos-001-MASTERY-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Definicion
+**Contexto:** Definicion
 
 ### Enunciado
 Que es la estadistica?
 
-### Options
+### Opciones
 - [x] A) La ciencia que recoge, organiza y analiza datos <!-- feedback: Correcto. -->
 - [ ] B) La ciencia que estudia los numeros <!-- feedback: Incorrecto. -->
 - [ ] C) La ciencia de las probabilidades <!-- feedback: Incorrecto. -->
@@ -48,13 +51,14 @@ La estadistica recolecta, organiza, analiza e interpreta datos.
 
 **ID:** `CO-MAT-6-2026-W21-estadistica-recoleccion-datos-001-MASTERY-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Tipos de variables
+**Contexto:** Tipos de variables
 
 ### Enunciado
 Cual es una variable cualitativa?
 
-### Options
+### Opciones
 - [x] A) El color de ojos <!-- feedback: Correcto. -->
 - [ ] B) La estatura <!-- feedback: Incorrecto, es cuantitativa. -->
 - [ ] C) La edad <!-- feedback: Incorrecto, es cuantitativa. -->
@@ -69,13 +73,14 @@ Variables cualitativas: cualidades. Cuantitativas: numeros.
 
 **ID:** `CO-MAT-6-2026-W21-estadistica-recoleccion-datos-001-MASTERY-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Recoleccion de datos
+**Contexto:** Recoleccion de datos
 
 ### Enunciado
 De 40 estudiantes, 15 prefieren Matematicas, 12 Ciencias, 8 Espanol y 5 Artes. Que tipo de datos son?
 
-### Options
+### Opciones
 - [x] A) Datos de variable cualitativa <!-- feedback: Correcto. -->
 - [ ] B) Datos cuantitativos discretos <!-- feedback: Incorrecto. -->
 - [ ] C) Datos cuantitativos continuos <!-- feedback: Incorrecto. -->
@@ -90,13 +95,14 @@ La variable 'asignatura preferida' es cualitativa.
 
 **ID:** `CO-MAT-6-2026-W21-estadistica-recoleccion-datos-001-MASTERY-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Frecuencia absoluta
+**Contexto:** Frecuencia absoluta
 
 ### Enunciado
 Encuesta mascotas: 10 perro, 8 gato, 5 pez, 2 ave. Frecuencia absoluta de 'gato'?
 
-### Options
+### Opciones
 - [x] A) 8 <!-- feedback: Correcto. -->
 - [ ] B) 10 <!-- feedback: Incorrecto, es de perro. -->
 - [ ] C) 25 <!-- feedback: Incorrecto, es el total. -->
@@ -111,13 +117,14 @@ Frecuencia absoluta de 'gato' = 8.
 
 **ID:** `CO-MAT-6-2026-W21-estadistica-recoleccion-datos-001-MASTERY-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Frecuencia relativa
+**Contexto:** Frecuencia relativa
 
 ### Enunciado
 De 30 estudiantes, 12 usan gafas. Frecuencia relativa?
 
-### Options
+### Opciones
 - [x] A) 0,4 (40%) <!-- feedback: Correcto. -->
 - [ ] B) 12 <!-- feedback: Incorrecto, es absoluta. -->
 - [ ] C) 0,12 <!-- feedback: Incorrecto. -->
@@ -132,13 +139,14 @@ Frecuencia relativa = 12/30 = 0,4 = 40%.
 
 **ID:** `CO-MAT-6-2026-W21-estadistica-recoleccion-datos-001-MASTERY-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Porcentaje
+**Contexto:** Porcentaje
 
 ### Enunciado
 Vendidos 25 helados: 10 vainilla, 8 chocolate, 5 fresa, 2 limon. % de vainilla?
 
-### Options
+### Opciones
 - [x] A) 40% <!-- feedback: Correcto. -->
 - [ ] B) 10% <!-- feedback: Incorrecto. -->
 - [ ] C) 25% <!-- feedback: Incorrecto. -->
@@ -153,13 +161,14 @@ Vendidos 25 helados: 10 vainilla, 8 chocolate, 5 fresa, 2 limon. % de vainilla?
 
 **ID:** `CO-MAT-6-2026-W21-estadistica-recoleccion-datos-001-MASTERY-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Organizar datos
+**Contexto:** Organizar datos
 
 ### Enunciado
 Notas: 3.5; 4.0; 3.0; 4.5; 3.5; 2.5; 4.0; 5.0; 3.5; 4.0. Cual tiene mayor frecuencia?
 
-### Options
+### Opciones
 - [x] A) 3.5 y 4.0 (3 veces c/u) <!-- feedback: Correcto, empate. -->
 - [ ] B) Solo 3.5 <!-- feedback: Incorrecto, 4.0 tmb 3 veces. -->
 - [ ] C) Solo 4.0 <!-- feedback: Incorrecto, 3.5 tmb 3 veces. -->
@@ -174,13 +183,14 @@ Notas: 3.5; 4.0; 3.0; 4.5; 3.5; 2.5; 4.0; 5.0; 3.5; 4.0. Cual tiene mayor frecue
 
 **ID:** `CO-MAT-6-2026-W21-estadistica-recoleccion-datos-001-MASTERY-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Rango
+**Contexto:** Rango
 
 ### Enunciado
 Temperaturas: 32, 34, 31, 33, 35, 32, 34. Rango?
 
-### Options
+### Opciones
 - [x] A) 4 grados <!-- feedback: Correcto. -->
 - [ ] B) 3 grados <!-- feedback: Incorrecto. -->
 - [ ] C) 5 grados <!-- feedback: Incorrecto. -->
@@ -195,13 +205,14 @@ Max=35, Min=31, Rango=4.
 
 **ID:** `CO-MAT-6-2026-W21-estadistica-recoleccion-datos-001-MASTERY-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Comparacion
+**Contexto:** Comparacion
 
 ### Enunciado
 Grupo A: notas 2.0-5.0. Grupo B: 3.0-4.5. Cual tiene mayor variabilidad?
 
-### Options
+### Opciones
 - [x] A) Grupo A (rango 3.0 vs 1.5) <!-- feedback: Correcto. -->
 - [ ] B) Grupo B <!-- feedback: Incorrecto. -->
 - [ ] C) Ambos igual <!-- feedback: Incorrecto. -->
@@ -216,13 +227,14 @@ Rango A=3.0; B=1.5. Mayor rango = mayor variab.
 
 **ID:** `CO-MAT-6-2026-W21-estadistica-recoleccion-datos-001-MASTERY-010-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Analisis
+**Contexto:** Analisis
 
 ### Enunciado
 12 perros, 8 gatos, 4 peces, 6 aves. Que fraccion son perros?
 
-### Options
+### Opciones
 - [x] A) 12/30 = 2/5 <!-- feedback: Correcto. -->
 - [ ] B) 12/26 <!-- feedback: Incorrecto. -->
 - [ ] C) 12/20 <!-- feedback: Incorrecto. -->

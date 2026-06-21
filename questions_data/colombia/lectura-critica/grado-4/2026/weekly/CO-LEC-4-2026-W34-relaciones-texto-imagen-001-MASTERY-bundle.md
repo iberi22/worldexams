@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W34-relaciones-texto-imagen-001-MASTERY"
+id: "CO-LEC-4-2026-W34-relaciones-texto-imagen-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "relaciones-texto-imagen"
-semana: "W34"
+week: "W34"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "relación texto-imagen, complementariedad, anclaje, redundanci
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W34: Relaciones entre texto e imagen
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W34-relaciones-texto-imagen-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Texto e imagen.
+**Contexto:** Texto e imagen.
 
 ### Enunciado
 *"¿Qué relación puede haber entre texto e imagen?"*
 
-### Options
-- [ ] A) Ninguna.
+### Opciones
+- [ ] A) Ninguna. <!-- feedback: Incorrecto. Ninguna. -->
 - [x] B) Pueden complementarse o repetir información. <!-- feedback: Correcto. -->
-- [ ] C) Siempre dicen lo mismo.
-- [ ] D) Son independientes.
+- [ ] C) Siempre dicen lo mismo. <!-- feedback: Incorrecto. Siempre dicen lo mismo. -->
+- [ ] D) Son independientes. <!-- feedback: Incorrecto. Son independientes. -->
 
 ### Explicación Pedagógica
 Relación.
@@ -49,17 +54,18 @@ Relación.
 
 **ID:** `CO-LEC-4-2026-W34-relaciones-texto-imagen-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Complemento.
+**Contexto:** Complemento.
 
 ### Enunciado
 *"Texto: ‘El gato es negro’. Imagen: gato negro. ¿Qué relación hay?"*
 
-### Options
+### Opciones
 - [x] A) Repiten. <!-- feedback: Correcto. Redundancia. -->
-- [ ] B) Se contradicen.
-- [ ] C) No se relacionan.
-- [ ] D) Son opuestas.
+- [ ] B) Se contradicen. <!-- feedback: Incorrecto. Se contradicen. -->
+- [ ] C) No se relacionan. <!-- feedback: Incorrecto. No se relacionan. -->
+- [ ] D) Son opuestas. <!-- feedback: Incorrecto. Son opuestas. -->
 
 ### Explicación Pedagógica
 Redundancia.
@@ -70,17 +76,18 @@ Redundancia.
 
 **ID:** `CO-LEC-4-2026-W34-relaciones-texto-imagen-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Anclaje.
+**Contexto:** Anclaje.
 
 ### Enunciado
 *"Texto: ‘Este es un tucán’. Imagen: ave. ¿Qué hace el texto?"*
 
-### Options
-- [ ] A) Crea confusión.
+### Opciones
+- [ ] A) Crea confusión. <!-- feedback: Incorrecto. Crea confusión. -->
 - [x] B) Identifica lo que se ve. <!-- feedback: Correcto. Ancla el significado. -->
-- [ ] C) Contradice.
-- [ ] D) Ignora.
+- [ ] C) Contradice. <!-- feedback: Incorrecto. Contradice. -->
+- [ ] D) Ignora. <!-- feedback: Incorrecto. Ignora. -->
 
 ### Explicación Pedagógica
 Anclaje.
@@ -91,17 +98,18 @@ Anclaje.
 
 **ID:** `CO-LEC-4-2026-W34-relaciones-texto-imagen-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Contradicción.
+**Contexto:** Contradicción.
 
 ### Enunciado
 *"Texto: ‘Hace frío’. Imagen: sol brillante, personas en traje de baño. ¿Qué pasa?"*
 
-### Options
-- [ ] A) Coinciden.
+### Opciones
+- [ ] A) Coinciden. <!-- feedback: Incorrecto. Coinciden. -->
 - [x] B) Se contradicen. <!-- feedback: Correcto. -->
-- [ ] C) No se relacionan.
-- [ ] D) Se complementan.
+- [ ] C) No se relacionan. <!-- feedback: Incorrecto. No se relacionan. -->
+- [ ] D) Se complementan. <!-- feedback: Incorrecto. Se complementan. -->
 
 ### Explicación Pedagógica
 Contradicción.
@@ -112,17 +120,18 @@ Contradicción.
 
 **ID:** `CO-LEC-4-2026-W34-relaciones-texto-imagen-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Complemento.
+**Contexto:** Complemento.
 
 ### Enunciado
 *"Texto: ‘El café colombiano’. Imagen: montañas y cafetales. ¿Qué hace la imagen?"*
 
-### Options
-- [ ] A) Contradecir.
+### Opciones
+- [ ] A) Contradecir. <!-- feedback: Incorrecto. Contradecir. -->
 - [x] B) Complementar mostrando el paisaje. <!-- feedback: Correcto. -->
-- [ ] C) Ignorar.
-- [ ] D) Repetir exactamente.
+- [ ] C) Ignorar. <!-- feedback: Incorrecto. Ignorar. -->
+- [ ] D) Repetir exactamente. <!-- feedback: Incorrecto. Repetir exactamente. -->
 
 ### Explicación Pedagógica
 Complemento.
@@ -133,17 +142,18 @@ Complemento.
 
 **ID:** `CO-LEC-4-2026-W34-relaciones-texto-imagen-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Inferir información.
+**Contexto:** Inferir información.
 
 ### Enunciado
 *"Texto: ‘La ciudad tiene 10 parques’. Imagen: mapa con puntos verdes. ¿Qué información adicional da la imagen?"*
 
-### Options
+### Opciones
 - [x] A) La ubicación de los parques. <!-- feedback: Correcto. -->
-- [ ] B) Los nombres.
-- [ ] C) Los precios.
-- [ ] D) La historia.
+- [ ] B) Los nombres. <!-- feedback: Incorrecto. Los nombres. -->
+- [ ] C) Los precios. <!-- feedback: Incorrecto. Los precios. -->
+- [ ] D) La historia. <!-- feedback: Incorrecto. La historia. -->
 
 ### Explicación Pedagógica
 Info adicional.
@@ -154,17 +164,18 @@ Info adicional.
 
 **ID:** `CO-LEC-4-2026-W34-relaciones-texto-imagen-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Elegir imagen.
+**Contexto:** Elegir imagen.
 
 ### Enunciado
 *"Texto sobre el oso de anteojos. ¿Qué imagen elegir?"*
 
-### Options
-- [ ] A) Un árbol.
+### Opciones
+- [ ] A) Un árbol. <!-- feedback: Incorrecto. Un árbol. -->
 - [x] B) Un oso de anteojos en su hábitat. <!-- feedback: Correcto. -->
-- [ ] C) Un carro.
-- [ ] D) Un libro.
+- [ ] C) Un carro. <!-- feedback: Incorrecto. Un carro. -->
+- [ ] D) Un libro. <!-- feedback: Incorrecto. Un libro. -->
 
 ### Explicación Pedagógica
 Elegir.
@@ -175,17 +186,18 @@ Elegir.
 
 **ID:** `CO-LEC-4-2026-W34-relaciones-texto-imagen-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Analizar.
+**Contexto:** Analizar.
 
 ### Enunciado
 *"Texto dice ‘10 juguetes’, imagen muestra 3. ¿Qué problema hay?"*
 
-### Options
-- [ ] A) Ninguno.
+### Opciones
+- [ ] A) Ninguno. <!-- feedback: Incorrecto. Ninguno. -->
 - [x] B) La imagen no coincide con el texto. <!-- feedback: Correcto. -->
-- [ ] C) Es mejor.
-- [ ] D) La imagen aclara.
+- [ ] C) Es mejor. <!-- feedback: Incorrecto. Es mejor. -->
+- [ ] D) La imagen aclara. <!-- feedback: Incorrecto. La imagen aclara. -->
 
 ### Explicación Pedagógica
 Analizar discrepancia.
@@ -196,17 +208,18 @@ Analizar discrepancia.
 
 **ID:** `CO-LEC-4-2026-W34-relaciones-texto-imagen-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Evaluar.
+**Contexto:** Evaluar.
 
 ### Enunciado
 *"¿Por qué los libros infantiles tienen muchas imágenes?"*
 
-### Options
-- [ ] A) Para que sean más caros.
+### Opciones
+- [ ] A) Para que sean más caros. <!-- feedback: Incorrecto. Para que sean más caros. -->
 - [x] B) Ayudan a entender el texto. <!-- feedback: Correcto. -->
-- [ ] C) Por moda.
-- [ ] D) No son necesarias.
+- [ ] C) Por moda. <!-- feedback: Incorrecto. Por moda. -->
+- [ ] D) No son necesarias. <!-- feedback: Incorrecto. No son necesarias. -->
 
 ### Explicación Pedagógica
 Evaluar.
@@ -217,17 +230,18 @@ Evaluar.
 
 **ID:** `CO-LEC-4-2026-W34-relaciones-texto-imagen-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Crear.
+**Contexto:** Crear.
 
 ### Enunciado
 *"¿Qué imagen pondrías junto al texto ‘La ballena jorobada’?"*
 
-### Options
-- [ ] A) Un carro.
+### Opciones
+- [ ] A) Un carro. <!-- feedback: Incorrecto. Un carro. -->
 - [x] B) Una ballena saltando. <!-- feedback: Correcto. -->
-- [ ] C) Un árbol.
-- [ ] D) Una casa.
+- [ ] C) Un árbol. <!-- feedback: Incorrecto. Un árbol. -->
+- [ ] D) Una casa. <!-- feedback: Incorrecto. Una casa. -->
 
 ### Explicación Pedagógica
 Crear relación.

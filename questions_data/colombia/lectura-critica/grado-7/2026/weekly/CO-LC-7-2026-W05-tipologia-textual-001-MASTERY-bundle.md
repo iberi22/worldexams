@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W05-tipologia-textual-001-MASTERY"
+id: "CO-LC-7-2026-W05-tipologia-textual-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "tipologia-textual"
-semana: "W05"
+week: "W05"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Tipología Textual - Grado 7
 ## Semana W05 — Clasificación de textos según su estructura y propósito
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W05-tipologia-textual-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comunicativa — lextora
-**Context:** En la clase de Lectura Crítica del Colegio San Felipe Neri de Barranquilla, la profesora explica los tipos de texto según su propósito comunicativo.
+**Contexto:** En la clase de Lectura Crítica del Colegio San Felipe Neri de Barranquilla, la profesora explica los tipos de texto según su propósito comunicativo.
 **Expected_Success:** 0.87
 
 ### Enunciado
@@ -39,11 +43,11 @@ Los textos descriptivos se caracterizan por detallar las características, cuali
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W05-tipologia-textual-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comunicativa — lextora
-**Context:** Santiago lee en su libro de Ciencias Sociales de grado 7 un texto que explica: "La fotosíntesis es el proceso mediante el cual las plantas convierten la luz solar en energía química."
+**Contexto:** Santiago lee en su libro de Ciencias Sociales de grado 7 un texto que explica: "La fotosíntesis es el proceso mediante el cual las plantas convierten la luz solar en energía química."
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -60,11 +64,11 @@ Los textos expositivos o explicativos tienen como objetivo informar, explicar o 
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W05-tipologia-textual-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Comunicativa — lextora
-**Context:** En el colegio INEM de Pasto, el profesor de Lengua Castellana pide a los estudiantes identificar el tipo de texto del siguiente fragmento: "Había una vez un pequeño pueblo en las montañas de Antioquia donde todos los habitantes se comunicaban a través de canciones."
+**Contexto:** En el colegio INEM de Pasto, el profesor de Lengua Castellana pide a los estudiantes identificar el tipo de texto del siguiente fragmento: "Había una vez un pequeño pueblo en las montañas de Antioquia donde todos los habitantes se comunicaban a través de canciones."
 **Expected_Success:** 0.81
 
 ### Enunciado
@@ -81,11 +85,11 @@ El texto narrativo se caracteriza por contar una historia o relato que involucra
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W05-tipologia-textual-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicativa — crítica
-**Context:** Andrea encuentra un aviso en un bus de TransMilenio: "Prohibido comer dentro del vehículo. Multa de $500.000. Artículo 68 del Código de Tránsito."
+**Contexto:** Andrea encuentra un aviso en un bus de TransMilenio: "Prohibido comer dentro del vehículo. Multa de $500.000. Artículo 68 del Código de Tránsito."
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -102,11 +106,11 @@ Los textos normativos o prescriptivos establecen reglas, normas, prohibiciones u
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W05-tipologia-textual-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Comunicativa — analítica
-**Context:** En clase de Lengua del Colegio La Enseñanza de Bogotá, la profesora muestra: "Primero, lava las frutas con abundante agua. Luego, córtalas en cubos pequeños. Finalmente, mézclalas con yogurt y sirve frío."
+**Contexto:** En clase de Lengua del Colegio La Enseñanza de Bogotá, la profesora muestra: "Primero, lava las frutas con abundante agua. Luego, córtalas en cubos pequeños. Finalmente, mézclalas con yogurt y sirve frío."
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -123,11 +127,11 @@ Los textos instructivos tienen como propósito guiar al lector para realizar una
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W05-tipologia-textual-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — crítica
-**Context:** En el colegio de Pereira, Camila compara dos textos sobre las redes sociales. Texto A: "Las redes sociales son plataformas digitales que permiten la interacción entre usuarios." Texto B: "Las redes sociales están destruyendo la capacidad de concentración de los jóvenes. ¡Debemos regularlas!"
+**Contexto:** En el colegio de Pereira, Camila compara dos textos sobre las redes sociales. Texto A: "Las redes sociales son plataformas digitales que permiten la interacción entre usuarios." Texto B: "Las redes sociales están destruyendo la capacidad de concentración de los jóvenes. ¡Debemos regularlas!"
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -144,11 +148,11 @@ Un mismo tema puede abordarse desde diferentes tipos textuales según la intenci
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W05-tipologia-textual-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — analítica
-**Context:** En el colegio San Luis Gonzaga de Cartago, el profesor entrega un texto que combina: "María caminaba por la orilla del río. De repente, escuchó un ruido extraño. El río Cauca, el segundo más importante de Colombia, nace en el Macizo Colombiano y desemboca en el Caribe."
+**Contexto:** En el colegio San Luis Gonzaga de Cartago, el profesor entrega un texto que combina: "María caminaba por la orilla del río. De repente, escuchó un ruido extraño. El río Cauca, el segundo más importante de Colombia, nace en el Macizo Colombiano y desemboca en el Caribe."
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -165,11 +169,11 @@ Muchos textos reales son híbridos: combinan dos o más tipos textuales. Aquí, 
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W05-tipologia-textual-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — crítica
-**Context:** Natalia recibe un mensaje de WhatsApp reenviado: "¡URGENTE! Si ves a esta persona, llámanos. Se perdió un niño en el Centro Comercial Unicentro de Bogotá. Comparte para que llegue a su casa."
+**Contexto:** Natalia recibe un mensaje de WhatsApp reenviado: "¡URGENTE! Si ves a esta persona, llámanos. Se perdió un niño en el Centro Comercial Unicentro de Bogotá. Comparte para que llegue a su casa."
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -186,11 +190,11 @@ Este tipo de mensajes son muy comunes en redes sociales. Formalmente tienen apar
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W05-tipologia-textual-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Comunicativa — lextora
-**Context:** En el colegio de Santa Marta, el profesor de Ciencias Naturales muestra un texto que dice: "La célula animal y la célula vegetal comparten algunas estructuras, como la membrana celular y el núcleo. Sin embargo, la célula vegetal tiene cloroplastos y pared celular que la célula animal no posee."
+**Contexto:** En el colegio de Santa Marta, el profesor de Ciencias Naturales muestra un texto que dice: "La célula animal y la célula vegetal comparten algunas estructuras, como la membrana celular y el núcleo. Sin embargo, la célula vegetal tiene cloroplastos y pared celular que la célula animal no posee."
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -207,11 +211,11 @@ Los textos expositivos pueden tener diferentes enfoques: definición, descripci�
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W05-tipologia-textual-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — analítica
-**Context:** En clase de Lectura Crítica del Colegio Salesiano de León XIII de Bogotá, los estudiantes analizan una noticia falsa (fake news) que dice: "¡Descubrimiento impactante! Científicos de la NASA confirman que el chocolate cura el cáncer. Estudio publicado en una revista desconocida."
+**Contexto:** En clase de Lectura Crítica del Colegio Salesiano de León XIII de Bogotá, los estudiantes analizan una noticia falsa (fake news) que dice: "¡Descubrimiento impactante! Científicos de la NASA confirman que el chocolate cura el cáncer. Estudio publicado en una revista desconocida."
 **Expected_Success:** 0.40
 
 ### Enunciado
@@ -228,11 +232,11 @@ Las "fake news" suelen combinar elementos de diferentes tipos textuales (noticia
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W05-tipologia-textual-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — crítica
-**Context:** En el colegio de Tunja, Daniel analiza un poema: "No te rindas, por favor no cedas / aunque el frío queme, aunque el miedo muerda / aunque el sol se esconda y se calle el viento / todavía hay fuego en tu interior."
+**Contexto:** En el colegio de Tunja, Daniel analiza un poema: "No te rindas, por favor no cedas / aunque el frío queme, aunque el miedo muerda / aunque el sol se esconda y se calle el viento / todavía hay fuego en tu interior."
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -249,11 +253,11 @@ Este poema es un ejemplo claro de texto híbrido donde la forma es literaria (po
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W05-tipologia-textual-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — analítica
-**Context:** En el colegio de Neiva, la profesora de Lectura Crítica propone un ejercicio de clasificación textual. Los estudiantes deben determinar si el texto "El reglamento del colegio establece que los estudiantes deben usar uniforme completo. Esta norma busca fomentar la igualdad y la disciplina" es predominantemente normativo o argumentativo.
+**Contexto:** En el colegio de Neiva, la profesora de Lectura Crítica propone un ejercicio de clasificación textual. Los estudiantes deben determinar si el texto "El reglamento del colegio establece que los estudiantes deben usar uniforme completo. Esta norma busca fomentar la igualdad y la disciplina" es predominantemente normativo o argumentativo.
 **Expected_Success:** 0.35
 
 ### Enunciado

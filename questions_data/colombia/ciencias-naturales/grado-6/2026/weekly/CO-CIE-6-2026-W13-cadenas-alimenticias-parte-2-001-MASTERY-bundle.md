@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-001-MASTERY"
+id: "CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W13 — Cadenas y Redes Alimenticias (Parte 2)
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, profundizan en cadenas y redes tróficas.
+**Contexto:** En Bogotá, profundizan en cadenas y redes tróficas.
 
 ### Enunciado
 ¿Cuál es la diferencia entre una cadena alimenticia y una red alimenticia?
 
-### Options
+### Opciones
 - [ ] A) Son el mismo concepto <!-- feedback: Incorrecto. Son conceptos diferentes. -->
 - [ ] B) La cadena tiene más organismos <!-- feedback: Incorrecto. La red tiene más organismos. -->
 - [x] C) La cadena muestra una sola ruta de alimentación; la red muestra múltiples rutas interconectadas <!-- feedback: Correcto. -->
@@ -48,13 +51,14 @@ Una **cadena alimenticia** muestra una secuencia lineal de quién come a quién 
 
 **ID:** `CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, identifican los niveles tróficos.
+**Contexto:** En Medellín, identifican los niveles tróficos.
 
 ### Enunciado
 ¿Qué organismo ocupa el primer nivel trófico (productores) en un ecosistema terrestre colombiano?
 
-### Options
+### Opciones
 - [ ] A) El jaguar <!-- feedback: Incorrecto. El jaguar es carnívoro (consumidor terciario). -->
 - [ ] B) El venado <!-- feedback: Incorrecto. El venado es herbívoro (consumidor primario). -->
 - [x] C) Las plantas (pasto, árboles, arbustos) <!-- feedback: Correcto. Los productores son autótrofos. -->
@@ -74,13 +78,14 @@ Los **niveles tróficos** son:
 
 **ID:** `CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, estudian el flujo de energía en los ecosistemas.
+**Contexto:** En Cali, estudian el flujo de energía en los ecosistemas.
 
 ### Enunciado
 ¿Qué porcentaje de la energía pasa de un nivel trófico al siguiente?
 
-### Options
+### Opciones
 - [ ] A) 90% <!-- feedback: Incorrecto. Solo pasa un pequeño porcentaje. -->
 - [x] B) 10% aproximadamente <!-- feedback: Correcto. La regla del 10%. -->
 - [ ] C) 50% <!-- feedback: Incorrecto. Es mucho menos. -->
@@ -95,13 +100,14 @@ La **regla del 10%** establece que aproximadamente solo el 10% de la energía de
 
 **ID:** `CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, estudian el rol de los descomponedores.
+**Contexto:** En Barranquilla, estudian el rol de los descomponedores.
 
 ### Enunciado
 ¿Qué función cumplen los descomponedores en el ecosistema?
 
-### Options
+### Opciones
 - [ ] A) Producen energía para las plantas <!-- feedback: Incorrecto. Las plantas producen su propia energía. -->
 - [ ] B) Cazan animales pequeños <!-- feedback: Incorrecto. Eso hacen los depredadores. -->
 - [x] C) Descomponen materia orgánica muerta y reciclan nutrientes al suelo <!-- feedback: Correcto. -->
@@ -116,13 +122,14 @@ Los **descomponedores** (hongos y bacterias) son esenciales para el reciclaje de
 
 **ID:** `CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, construyen redes alimenticias.
+**Contexto:** En Bucaramanga, construyen redes alimenticias.
 
 ### Enunciado
 En un ecosistema colombiano, el chigüiro come pasto, el caimán come chigüiros, y las garzas comen peces que comen algas. ¿Cuántas cadenas alimenticias diferentes hay en esta red?
 
-### Options
+### Opciones
 - [ ] A) 1 <!-- feedback: Incorrecto. Hay más interacciones. -->
 - [x] B) 2 (pasto→chigüiro→caimán; algas→peces→garzas) <!-- feedback: Correcto. Hay dos cadenas lineales. -->
 - [ ] C) 3 <!-- feedback: Incorrecto. No hay tres cadenas distintas. -->
@@ -141,13 +148,14 @@ En un ecosistema real, hay muchas más conexiones. El chigüiro podría comer ot
 
 **ID:** `CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, aplican conceptos de biomagnificación.
+**Contexto:** En Cartagena, aplican conceptos de biomagnificación.
 
 ### Enunciado
 Un agricultor usa pesticida en un cultivo cercano a un lago. El pesticida es absorbido por algas. ¿En qué organismo se acumulará MÁS pesticida?
 
-### Options
+### Opciones
 - [ ] A) En las algas <!-- feedback: Incorrecto. Las algas tienen la menor concentración. -->
 - [ ] B) En los peces pequeños <!-- feedback: Incorrecto. Tienen algo, pero no la máxima. -->
 - [x] C) En los peces grandes o aves que comen peces <!-- feedback: Correcto. La concentración aumenta en cada nivel. -->
@@ -168,13 +176,14 @@ Ejemplo real: el DDT (pesticida) causó que los halcones peregrinos pusieran hue
 
 **ID:** `CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan el impacto de eliminar un eslabón de la cadena.
+**Contexto:** En Pereira, analizan el impacto de eliminar un eslabón de la cadena.
 
 ### Enunciado
 Si desaparecieran las abejas polinizadoras de un ecosistema, ¿cuál sería la consecuencia MÁS GRAVE?
 
-### Options
+### Opciones
 - [ ] A) Habría menos miel <!-- feedback: Incorrecto. Es una consecuencia menor. -->
 - [ ] B) Las flores perderían color <!-- feedback: Incorrecto. El color no depende de las abejas. -->
 - [x] C) Muchas plantas con flor no podrían reproducirse, afectando toda la cadena alimenticia <!-- feedback: Correcto. -->
@@ -189,13 +198,14 @@ La desaparición de polinizadores (abejas, mariposas, colibríes, murciélagos) 
 
 **ID:** `CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, analizan la pirámide ecológica.
+**Contexto:** En Manizales, analizan la pirámide ecológica.
 
 ### Enunciado
 ¿Por qué en una pirámide ecológica hay menos jaguares que venados?
 
-### Options
+### Opciones
 - [ ] A) Porque los jaguares son más grandes y necesitan más espacio <!-- feedback: Incorrecto. El espacio no es la razón principal. -->
 - [ ] B) Porque los venados se reproducen más rápido <!-- feedback: Incorrecto. No es la razón ecológica principal. -->
 - [x] C) Porque al pasar la energía de un nivel al otro solo se transfiere el 10%, por lo que cada nivel tiene menos biomasa que el anterior <!-- feedback: Correcto. -->
@@ -210,13 +220,14 @@ La **pirámide ecológica** representa la disminución de energía/biomasa en ca
 
 **ID:** `CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan la reintroducción de especies.
+**Contexto:** En Cúcuta, evalúan la reintroducción de especies.
 
 ### Enunciado
 En un ecosistema, los lobos fueron eliminados y los venados se multiplicaron sin control, agotando la vegetación. ¿Qué solución restablecería el equilibrio?
 
-### Options
+### Opciones
 - [ ] A) Cazar todos los venados <!-- feedback: Incorrecto. Eliminaría la población. -->
 - [ ] B) Sembrar más pasto cada año <!-- feedback: Incorrecto. Es una solución temporal. -->
 - [x] C) Reintroducir lobos (depredador natural) para controlar la población de venados <!-- feedback: Correcto. -->
@@ -233,13 +244,14 @@ En Colombia, la reintroducción del cóndor andino y el oso de anteojos en área
 
 **ID:** `CO-CIE-6-2026-W13-cadenas-alimenticias-parte-2-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan la sobrepesca en Colombia.
+**Contexto:** En Ibagué, evalúan la sobrepesca en Colombia.
 
 ### Enunciado
 La sobrepesca del bagre en el río Magdalena ha reducido drásticamente su población. ¿Cuál es la consecuencia ecológica MÁS probable?
 
-### Options
+### Opciones
 - [ ] A) Los bagres aprenderán a evitar las redes <!-- feedback: Incorrecto. El aprendizaje no es la respuesta. -->
 - [ ] B) Las personas comerán más pollo <!-- feedback: Incorrecto. Es una consecuencia social, no ecológica. -->
 - [x] C) Las especies que los bagres consumían (peces pequeños, crustáceos) aumentarán descontroladamente, y los depredadores que comen bagres (nutrias, aves) disminuirán <!-- feedback: Correcto. -->

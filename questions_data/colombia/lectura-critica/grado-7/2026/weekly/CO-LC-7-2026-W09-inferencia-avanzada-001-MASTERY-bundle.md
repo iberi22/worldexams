@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W09-inferencia-avanzada-001-MASTERY"
+id: "CO-LC-7-2026-W09-inferencia-avanzada-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "inferencia-avanzada"
-semana: "W09"
+week: "W09"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Inferencia Avanzada - Grado 7
 ## Semana W09 — Lectura entre líneas
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W09-inferencia-avanzada-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comunicativa — lextora
-**Context:** En la clase de Lectura Crítica del Colegio Andino de Bogotá, la profesora explica qué es una inferencia.
+**Contexto:** En la clase de Lectura Crítica del Colegio Andino de Bogotá, la profesora explica qué es una inferencia.
 **Expected_Success:** 0.86
 
 ### Enunciado
@@ -39,11 +43,11 @@ La inferencia es el proceso mediante el cual el lector extrae información que n
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W09-inferencia-avanzada-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comunicativa — lextora
-**Context:** Santiago lee en un cuento: "María guardó su paraguas mojado y se sacudió el agua del abrigo antes de entrar a la casa."
+**Contexto:** Santiago lee en un cuento: "María guardó su paraguas mojado y se sacudió el agua del abrigo antes de entrar a la casa."
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -60,11 +64,11 @@ El texto no dice explícitamente "está lloviendo", pero proporciona pistas clar
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W09-inferencia-avanzada-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Comunicativa — lextora
-**Context:** En el colegio de Facatativá, el profesor de Lengua muestra una imagen de un semáforo peatonal en rojo y una persona al otro lado de la calle con una maleta.
+**Contexto:** En el colegio de Facatativá, el profesor de Lengua muestra una imagen de un semáforo peatonal en rojo y una persona al otro lado de la calle con una maleta.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -81,11 +85,11 @@ Las inferencias se construyen combinando múltiples pistas. "Consultó el reloj"
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W09-inferencia-avanzada-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicativa — crítica
-**Context:** En el colegio San Jorge de Cartagena, Camila lee: "El presidente anunció nuevas medidas económicas. Los mercados reaccionaron positivamente y la bolsa subió."
+**Contexto:** En el colegio San Jorge de Cartagena, Camila lee: "El presidente anunció nuevas medidas económicas. Los mercados reaccionaron positivamente y la bolsa subió."
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -102,11 +106,11 @@ Esta inferencia requiere conocimiento del mundo: la bolsa de valores sube cuando
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W09-inferencia-avanzada-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Comunicativa — analítica
-**Context:** En clase del Colegio San Francisco de Asís de Quibdó, el profesor presenta: "El gato de doña Elena no se acercó al plato de leche. Prefirió quedarse en la ventana mirando la lluvia."
+**Contexto:** En clase del Colegio San Francisco de Asís de Quibdó, el profesor presenta: "El gato de doña Elena no se acercó al plato de leche. Prefirió quedarse en la ventana mirando la lluvia."
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -123,11 +127,11 @@ Las inferencias deben ser razonables y estar apoyadas en el texto. "No se acerc�
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W09-inferencia-avanzada-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — crítica
-**Context:** En el colegio José María Vargas de Pereira, los estudiantes analizan: "Juan llegó temprano a la oficina. Su escritorio estaba ordenado y los documentos listos. Cuando el jefe entró, Juan tomó el teléfono y comenzó a hablar."
+**Contexto:** En el colegio José María Vargas de Pereira, los estudiantes analizan: "Juan llegó temprano a la oficina. Su escritorio estaba ordenado y los documentos listos. Cuando el jefe entró, Juan tomó el teléfono y comenzó a hablar."
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -144,11 +148,11 @@ Esta inferencia requiere analizar la secuencia de acciones y su contexto. Juan l
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W09-inferencia-avanzada-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — analítica
-**Context:** En el colegio de Riohacha, Natalia lee en un artículo de ciencia: "El experimento se repitió 15 veces con los mismos resultados. Los investigadores concluyeron que la hipótesis era correcta."
+**Contexto:** En el colegio de Riohacha, Natalia lee en un artículo de ciencia: "El experimento se repitió 15 veces con los mismos resultados. Los investigadores concluyeron que la hipótesis era correcta."
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -165,11 +169,11 @@ Para inferir correctamente, el lector necesita activar sus conocimientos previos
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W09-inferencia-avanzada-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — crítica
-**Context:** En el colegio San Juan de Pasto, los estudiantes debaten sobre dos inferencias diferentes que hicieron al leer el mismo texto.
+**Contexto:** En el colegio San Juan de Pasto, los estudiantes debaten sobre dos inferencias diferentes que hicieron al leer el mismo texto.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -186,11 +190,11 @@ No todas las inferencias son igualmente válidas. Una inferencia sólida debe es
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W09-inferencia-avanzada-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Comunicativa — lextora
-**Context:** En el colegio de Ipiales, el profesor de sociales lee: "Los muros de la ciudad amanecían cubiertos de grafitis. Los vecinos salían con pintura blanca cada mañana para cubrirlos."
+**Contexto:** En el colegio de Ipiales, el profesor de sociales lee: "Los muros de la ciudad amanecían cubiertos de grafitis. Los vecinos salían con pintura blanca cada mañana para cubrirlos."
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -207,11 +211,11 @@ Esta inferencia se basa en la relación entre acciones opuestas: alguien hace gr
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W09-inferencia-avanzada-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — analítica
-**Context:** En la clase de Lectura Crítica del Colegio de la Universidad de Antioquia, la profesora presenta: "Los científicos del Ideam advierten que las temperaturas en la Amazonia colombiana aumentarán 3°C para 2050 si no se reducen las emisiones."
+**Contexto:** En la clase de Lectura Crítica del Colegio de la Universidad de Antioquia, la profesora presenta: "Los científicos del Ideam advierten que las temperaturas en la Amazonia colombiana aumentarán 3°C para 2050 si no se reducen las emisiones."
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ Esta inferencia requiere analizar una estructura condicional: "Si X no ocurre, e
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W09-inferencia-avanzada-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — crítica
-**Context:** En el colegio de Tuluá, los estudiantes analizan un fragmento literario: "Don Matías abrió la carta con manos temblorosas. Leyó en silencio, palideció y dejó caer el papel."
+**Contexto:** En el colegio de Tuluá, los estudiantes analizan un fragmento literario: "Don Matías abrió la carta con manos temblorosas. Leyó en silencio, palideció y dejó caer el papel."
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -249,11 +253,11 @@ Esta inferencia se construye a partir de una secuencia de reacciones físicas qu
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W09-inferencia-avanzada-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — analítica
-**Context:** En la evaluación de la semana, el profesor del Colegio Campestre de San Gil pide a los estudiantes que diferencien entre una inferencia válida y una suposición sin fundamento.
+**Contexto:** En la evaluación de la semana, el profesor del Colegio Campestre de San Gil pide a los estudiantes que diferencien entre una inferencia válida y una suposición sin fundamento.
 **Expected_Success:** 0.36
 
 ### Enunciado

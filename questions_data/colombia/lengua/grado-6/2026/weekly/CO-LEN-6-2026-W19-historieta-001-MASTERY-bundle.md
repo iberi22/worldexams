@@ -1,28 +1,32 @@
 ---
-id: "CO-LEN-6-2026-W19-historieta-001-MASTERY"
+id: "CO-LEN-6-2026-W19-historieta-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lengua"
 tema: "historieta"
-semana: "W19"
+week: "W19"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: La Historieta - Grado 6
 ## Semana W19
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEN-6-2026-W19-historieta-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio Distrital La Concordia de Bogotá, la profesora Diana pregunta sobre el género de la historieta.
+**Contexto:** En el Colegio Distrital La Concordia de Bogotá, la profesora Diana pregunta sobre el género de la historieta.
 **Expected_Success:** 0.87
 
 ### Enunciado
@@ -39,11 +43,11 @@ La historieta (o cómic) es un género narrativo que combina imagen y texto para
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEN-6-2026-W19-historieta-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En la I.E. Fe y Alegría de Medellín, los estudiantes aprenden los elementos básicos de la historieta.
+**Contexto:** En la I.E. Fe y Alegría de Medellín, los estudiantes aprenden los elementos básicos de la historieta.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -60,11 +64,11 @@ Los globos o bocadillos son uno de los recursos más característicos del lengua
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEN-6-2026-W19-historieta-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio San José de la Salle de Cali, los estudiantes leen una historieta de Mafalda.
+**Contexto:** En el Colegio San José de la Salle de Cali, los estudiantes leen una historieta de Mafalda.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -81,11 +85,11 @@ La historieta tiene un lenguaje propio que va más allá de las palabras. La sec
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEN-6-2026-W19-historieta-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En la I.E. San Fernando de Ibagué, los estudiantes identifican diferentes tipos de globos en una historieta.
+**Contexto:** En la I.E. San Fernando de Ibagué, los estudiantes identifican diferentes tipos de globos en una historieta.
 **Expected_Success:** 0.77
 
 ### Enunciado
@@ -102,11 +106,11 @@ Los globos de pensamiento (contorno de nubes) son esenciales para mostrar la int
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEN-6-2026-W19-historieta-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la Institución Educativa de Puerto Berrío, los estudiantes analizan una historieta de "Copetín", personaje clásico colombiano.
+**Contexto:** En la Institución Educativa de Puerto Berrío, los estudiantes analizan una historieta de "Copetín", personaje clásico colombiano.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -123,11 +127,11 @@ En una historieta de "Copetín" (creada por Ernesto Franco en los años 50), el 
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LEN-6-2026-W19-historieta-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Gabriela Mistral de Neiva, los estudiantes aprenden sobre onomatopeyas en la historieta.
+**Contexto:** En el Colegio Gabriela Mistral de Neiva, los estudiantes aprenden sobre onomatopeyas en la historieta.
 **Expected_Success:** 0.71
 
 ### Enunciado
@@ -144,11 +148,11 @@ Las onomatopeyas son palabras que imitan sonidos. En la historieta tienen un tra
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LEN-6-2026-W19-historieta-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En el Colegio Nuestra Señora del Pilar de Bucaramanga, los estudiantes crean su propia historieta sobre el carnaval de Bucaramanga.
+**Contexto:** En el Colegio Nuestra Señora del Pilar de Bucaramanga, los estudiantes crean su propia historieta sobre el carnaval de Bucaramanga.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Toda historieta debe contar una historia con una secuencia lógica. La estructur
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEN-6-2026-W19-historieta-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. San Juan Bautista de Zipaquirá, los estudiantes comparan el lenguaje de la historieta con el de la novela gráfica.
+**Contexto:** En la I.E. San Juan Bautista de Zipaquirá, los estudiantes comparan el lenguaje de la historieta con el de la novela gráfica.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ La novela gráfica es un formato que elevó la historieta a un nivel artístico 
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEN-6-2026-W19-historieta-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio Cambridge de Bogotá, los estudiantes debaten si la historieta debe considerarse literatura.
+**Contexto:** En el Colegio Cambridge de Bogotá, los estudiantes debaten si la historieta debe considerarse literatura.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ La discusión sobre si la historieta es literatura ha sido superada por la crít
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEN-6-2026-W19-historieta-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio Técnico de Acacías (Meta), los estudiantes deben crear una historieta sobre el paisaje llanero.
+**Contexto:** En el Colegio Técnico de Acacías (Meta), los estudiantes deben crear una historieta sobre el paisaje llanero.
 **Expected_Success:** 0.48
 
 ### Enunciado

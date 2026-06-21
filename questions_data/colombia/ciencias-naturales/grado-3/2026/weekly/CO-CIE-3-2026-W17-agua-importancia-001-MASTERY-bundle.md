@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W17-agua-importancia-001-MASTERY"
+id: "CO-CIE-3-2026-W17-agua-importancia-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "agua-importancia"
-semana: "W17"
+week: "W17"
 periodo: 2
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Importancia del agua para los seres vivos, usos en el hogar y 
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # La Importancia del Agua para la Vida
 
 Este bundle destaca por qué el agua es el recurso más valioso de nuestro planeta y cómo todos los seres vivos dependen de ella para sobrevivir y funcionar.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W17-agua-importancia-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un documental sobre el cuerpo humano, se menciona que estamos hechos mayormente de agua.
+**Contexto:** En un documental sobre el cuerpo humano, se menciona que estamos hechos mayormente de agua.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ El agua es el componente principal de los seres vivos. Actúa como el transporte
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W17-agua-importancia-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un deportista corre una maratón en Barranquilla y comienza a sudar muchísimo bajo el sol.
+**Contexto:** Un deportista corre una maratón en Barranquilla y comienza a sudar muchísimo bajo el sol.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -73,12 +77,12 @@ El agua es nuestro "refrigerante" natural. Sin ella, nuestro cuerpo se calentar�
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W17-agua-importancia-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una finca arrocera en el Tolima, los agricultores deben inundar los campos con agua de los ríos.
+**Contexto:** En una finca arrocera en el Tolima, los agricultores deben inundar los campos con agua de los ríos.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -98,12 +102,12 @@ El agua es el "motor" de la agricultura. Sin riego o lluvia, las plantas no pued
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W17-agua-importancia-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** En la escuela, los niños aprenden que el agua que sale de la llave ha pasado por un proceso largo para que no nos enferme.
+**Contexto:** En la escuela, los niños aprenden que el agua que sale de la llave ha pasado por un proceso largo para que no nos enferme.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ El acceso al agua potable es un derecho y una necesidad de salud pública. Beber
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W17-agua-importancia-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Mariana ve que su hermano deja la llave abierta mientras se cepilla los dientes, desperdiciando mucha agua.
+**Contexto:** Mariana ve que su hermano deja la llave abierta mientras se cepilla los dientes, desperdiciando mucha agua.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -148,12 +152,12 @@ El ahorro del agua comienza con pequeñas acciones en casa. Aunque parece que ha
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W17-agua-importancia-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Los desiertos son lugares donde llueve muy poco. Sin embargo, hay algunos animales como los camellos y plantas como los cactus que viven allí.
+**Contexto:** Los desiertos son lugares donde llueve muy poco. Sin embargo, hay algunos animales como los camellos y plantas como los cactus que viven allí.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -173,12 +177,12 @@ La vida es muy resistente. En el desierto, la estrategia no es buscar mucha agua
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W17-agua-importancia-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Si en un pueblo se contamina el río con basura y químicos, después de un tiempo la gente empieza a notar que ya no hay peces.
+**Contexto:** Si en un pueblo se contamina el río con basura y químicos, después de un tiempo la gente empieza a notar que ya no hay peces.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -198,12 +202,12 @@ El agua no es solo para beber; es el hogar de miles de especies. Cuando ensuciam
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W17-agua-importancia-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la industria, el agua se usa para enfriar máquinas, para limpiar productos y como ingrediente de jugos y gaseosas.
+**Contexto:** En la industria, el agua se usa para enfriar máquinas, para limpiar productos y como ingrediente de jugos y gaseosas.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -223,12 +227,12 @@ El agua es el motor de la economía. Se usa en casi todo lo que ves a tu alreded
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W17-agua-importancia-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Los humedales y páramos en Colombia son llamados "fábricas de agua".
+**Contexto:** Los humedales y páramos en Colombia son llamados "fábricas de agua".
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -248,12 +252,12 @@ Colombia es privilegiada por tener páramos. Estos ecosistemas de alta montaña 
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W17-agua-importancia-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una persona dice: "No importa si desperdicio agua hoy, total mañana va a llover y los ríos se llenarán otra vez".
+**Contexto:** Una persona dice: "No importa si desperdicio agua hoy, total mañana va a llover y los ríos se llenarán otra vez".
 **Expected_Success:** 0.55
 
 ### Enunciado

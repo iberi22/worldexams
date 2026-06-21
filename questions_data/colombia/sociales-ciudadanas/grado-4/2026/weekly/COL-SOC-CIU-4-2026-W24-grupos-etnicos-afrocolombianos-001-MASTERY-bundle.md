@@ -1,5 +1,5 @@
 ---
-id: "COL-SOC-CIU-4-2026-W24-grupos-etnicos-afrocolombianos-001-MASTERY"
+id: "COL-SOC-CIU-4-2026-W24-grupos-etnicos-afrocolombianos-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Grupos étnicos: afrocolombianos y sus aportes culturales"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Grupos étnicos — Afrocolombianos
 
@@ -30,14 +35,15 @@ Este bundle explica la historia, cultura y aportes de la población afrocolombia
 ## Question 1 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W24-grupos-etnicos-afrocolombianos-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Comunidades afro en Quibdó
+**Contexto:** Comunidades afro en Quibdó
 
 ### Enunciado
 ¿De dónde vinieron los antepasados de los afrocolombianos?
 
-### Options
+### Opciones
 - [ ] A) De Europa. <!-- feedback: Incorrecto. Llegaron de África. -->
 - [x] B) De África, traídos durante la época colonial como esclavizados. <!-- feedback: Correcto. Los africanos fueron traídos forzosamente durante la colonia. -->
 - [ ] C) De Asia. <!-- feedback: Incorrecto. No vinieron de Asia. -->
@@ -51,14 +57,15 @@ Este bundle explica la historia, cultura y aportes de la población afrocolombia
 ## Question 2 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W24-grupos-etnicos-afrocolombianos-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Regiones afrocolombianas
+**Contexto:** Regiones afrocolombianas
 
 ### Enunciado
 ¿En qué regiones de Colombia hay mayor población afrocolombiana?
 
-### Options
+### Opciones
 - [ ] A) En la región Andina. <!-- feedback: Incorrecto. Hay población afro pero en menor proporción. -->
 - [ ] B) En los Llanos Orientales. <!-- feedback: Incorrecto. Allí predomina la población mestiza y llanera. -->
 - [x] C) En las regiones Pacífica y Caribe. <!-- feedback: Correcto. La mayoría de la población afrocolombiana vive en las costas Pacífica y Caribe. -->
@@ -72,14 +79,15 @@ Este bundle explica la historia, cultura y aportes de la población afrocolombia
 ## Question 3 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W24-grupos-etnicos-afrocolombianos-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Aportes culturales
+**Contexto:** Aportes culturales
 
 ### Enunciado
 ¿Qué aportes culturales trajeron los afrocolombianos a la identidad nacional?
 
-### Options
+### Opciones
 - [ ] A) Solo la comida. <!-- feedback: Parcial, pero hay más aportes. -->
 - [ ] B) Solo la música. <!-- feedback: Parcial, pero hay más. -->
 - [x] C) Música (cumbia, currulao, mapalé), danzas, gastronomía, medicina tradicional y religiosidad. <!-- feedback: Correcto. Los afrocolombianos han enriquecido enormemente la cultura nacional en múltiples áreas. -->
@@ -93,14 +101,15 @@ Este bundle explica la historia, cultura y aportes de la población afrocolombia
 ## Question 4 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W24-grupos-etnicos-afrocolombianos-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Palenque de San Basilio
+**Contexto:** Palenque de San Basilio
 
 ### Enunciado
 ¿Qué es el Palenque de San Basilio y por qué es importante?
 
-### Options
+### Opciones
 - [ ] A) Un barrio de Cartagena. <!-- feedback: Incorrecto. Es un corregimiento de Bolívar. -->
 - [ ] B) Un sitio turístico sin importancia cultural. <!-- feedback: Incorrecto. Es muy importante culturalmente. -->
 - [x] C) Un pueblo fundado por esclavos africanos que escaparon; es patrimonio inmaterial de la humanidad por su lengua y tradiciones. <!-- feedback: Correcto. El Palenque de San Basilio conserva la lengua palenquera y tradiciones africanas. -->
@@ -114,14 +123,15 @@ Este bundle explica la historia, cultura y aportes de la población afrocolombia
 ## Question 5 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W24-grupos-etnicos-afrocolombianos-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Lengua palenquera
+**Contexto:** Lengua palenquera
 
 ### Enunciado
 ¿Qué lengua hablan los habitantes del Palenque de San Basilio?
 
-### Options
+### Opciones
 - [ ] A) Inglés. <!-- feedback: Incorrecto. No hablan inglés. -->
 - [ ] B) Wayúu. <!-- feedback: Incorrecto. Esa es una lengua indígena wayúu. -->
 - [x] C) Lengua palenquera (criollo afro-español). <!-- feedback: Correcto. El palenquero es la única lengua criolla de base española que se conserva en América. -->
@@ -135,14 +145,15 @@ Este bundle explica la historia, cultura y aportes de la población afrocolombia
 ## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W24-grupos-etnicos-afrocolombianos-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Música afrocolombiana
+**Contexto:** Música afrocolombiana
 
 ### Enunciado
 El currulao es un ritmo musical tradicional. ¿De qué región de Colombia es originario?
 
-### Options
+### Opciones
 - [ ] A) Región Caribe. <!-- feedback: Incorrecto. El currulao es del Pacífico. -->
 - [x] B) Región Pacífica. <!-- feedback: Correcto. El currulao es el ritmo más representativo de la cultura afro del Pacífico colombiano. -->
 - [ ] C) Región Andina. <!-- feedback: Incorrecto. No es de la región Andina. -->
@@ -156,14 +167,15 @@ El currulao es un ritmo musical tradicional. ¿De qué región de Colombia es or
 ## Question 7 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W24-grupos-etnicos-afrocolombianos-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Derechos de las comunidades afro
+**Contexto:** Derechos de las comunidades afro
 
 ### Enunciado
 ¿La Constitución de 1991 reconoce derechos especiales a las comunidades afrocolombianas?
 
-### Options
+### Opciones
 - [ ] A) No, la Constitución no habla de afrocolombianos. <!-- feedback: Incorrecto. Sí los reconoce. -->
 - [x] B) Sí, reconoce sus derechos territoriales, culturales y la propiedad colectiva de sus tierras. <!-- feedback: Correcto. La Constitución y las leyes protegen los derechos de las comunidades afrocolombianas. -->
 - [ ] C) Solo reconoce derechos a los indígenas. <!-- feedback: Incorrecto. También a los afrocolombianos. -->
@@ -177,14 +189,15 @@ El currulao es un ritmo musical tradicional. ¿De qué región de Colombia es or
 ## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W24-grupos-etnicos-afrocolombianos-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Discriminación racial
+**Contexto:** Discriminación racial
 
 ### Enunciado
 ¿Por qué es importante luchar contra la discriminación racial hacia los afrocolombianos?
 
-### Options
+### Opciones
 - [ ] A) No es importante, la discriminación no existe. <!-- feedback: Incorrecto. La discriminación racial es un problema real. -->
 - [ ] B) Porque todos merecen las mismas oportunidades y respeto, sin importar el color de piel. <!-- feedback: Parcial, pero hay más. -->
 - [x] C) Porque la discriminación viola los derechos humanos y la dignidad de las personas afrocolombianas. Todos somos iguales ante la ley. <!-- feedback: Correcto. La discriminación atenta contra los derechos fundamentales. -->
@@ -198,14 +211,15 @@ El currulao es un ritmo musical tradicional. ¿De qué región de Colombia es or
 ## Question 9 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W24-grupos-etnicos-afrocolombianos-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Identidad afrocolombiana
+**Contexto:** Identidad afrocolombiana
 
 ### Enunciado
 ¿Crees que la cultura afrocolombiana es valorada en Colombia?
 
-### Options
+### Opciones
 - [ ] A) No, nadie la valora. <!-- feedback: Incorrecto. Hay valoración pero también retos. -->
 - [ ] B) Sí, es totalmente valorada y no hay problemas. <!-- feedback: Incorrecto. Aún hay discriminación y falta de reconocimiento. -->
 - [x] C) Es valorada en la música y la gastronomía, pero falta más reconocimiento de su historia, derechos y aportes en la educación. <!-- feedback: Correcto. Hay avances pero también retos pendientes. -->
@@ -220,13 +234,14 @@ El currulao es un ritmo musical tradicional. ¿De qué región de Colombia es or
 
 **ID:** `COL-SOC-CIU-4-2026-W24-grupos-etnicos-afrocolombianos-001-MASTERY-v10`
 **Bloom:** [Create]
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Semana de la afrocolombianidad
+**Contexto:** Semana de la afrocolombianidad
 
 ### Enunciado
 Diseña una actividad para el colegio que visibilice los aportes afrocolombianos.
 
-### Options
+### Opciones
 - [ ] A) No hacer nada especial. <!-- feedback: Incorrecto. Es importante visibilizar. -->
 - [x] B) Organizar una muestra cultural con música de currulao, comida típica del Pacífico, exposición sobre el Palenque de San Basilio y un conversatorio sobre personajes afrocolombianos destacados. <!-- feedback: Correcto. Una muestra cultural integral educa y visibiliza los aportes afrocolombianos. -->
 - [ ] C) Solo leer un texto en clase. <!-- feedback: Incorrecto. Una actividad práctica es más significativa. -->

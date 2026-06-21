@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W40-magnetismo-001-MASTERY"
+id: "CO-CIE-6-2026-W40-magnetismo-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W40 — Magnetismo Básico, Imanes y Electromagnetismo
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W40-magnetismo-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, estudiantes definen qué es un imán.
+**Contexto:** En Bogotá, estudiantes definen qué es un imán.
 
 ### Enunciado
 ¿Qué es un imán?
 
-### Options
+### Opciones
 - [ ] A) Un objeto que solo atrae metales como el aluminio <!-- feedback: Los imanes no atraen el aluminio; solo atraen materiales ferromagnéticos. -->
 - [x] B) Un material que produce un campo magnético y atrae materiales ferromagnéticos (hierro, níquel, cobalto) <!-- feedback: Correcto. Los imanes generan un campo magnético invisible que ejerce fuerza sobre ciertos metales. -->
 - [ ] C) Un objeto que produce electricidad constantemente <!-- feedback: Los imanes no producen electricidad por sí solos; el movimiento relativo de un imán y una bobina puede generar electricidad. -->
@@ -48,13 +51,14 @@ Un **imán** es un objeto que genera un **campo magnético** a su alrededor. Est
 
 **ID:** `CO-CIE-6-2026-W40-magnetismo-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, estudiantes identifican la brújula y su funcionamiento.
+**Contexto:** En Medellín, estudiantes identifican la brújula y su funcionamiento.
 
 ### Enunciado
 ¿Por qué la aguja de una brújula siempre apunta hacia el norte geográfico?
 
-### Options
+### Opciones
 - [ ] A) Porque el polo norte geográfico tiene un imán gigante que atrae la aguja <!-- feedback: No hay un imán gigante en el polo norte. -->
 - [ ] B) Porque la aguja está hecha de un material que siempre mira al norte <!-- feedback: La aguja es un imán pequeñito que se alinea con el campo magnético terrestre. -->
 - [x] C) Porque la Tierra tiene un campo magnético (como un imán gigante), y la aguja magnética de la brújula se alinea con ese campo, apuntando al norte magnético (cerca del polo norte geográfico) <!-- feedback: Correcto. La Tierra actúa como un enorme imán. -->
@@ -71,13 +75,14 @@ La diferencia entre el **norte geográfico** (eje de rotación) y el **norte mag
 
 **ID:** `CO-CIE-6-2026-W40-magnetismo-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de Fenómenos
-**Context:** En Cali, estudiantes explican el electromagnetismo.
+**Contexto:** En Cali, estudiantes explican el electromagnetismo.
 
 ### Enunciado
 ¿Qué descubrió Hans Christian Ørsted en 1820 que relacionó la electricidad y el magnetismo?
 
-### Options
+### Opciones
 - [ ] A) Que los imanes producen electricidad cuando se calientan <!-- feedback: No, el calor no produce electromagnetismo. -->
 - [x] B) Que una corriente eléctrica que circula por un cable genera un campo magnético a su alrededor (la aguja de una brújula se desvía cerca del cable) <!-- feedback: Correcto. Ørsted descubrió que la electricidad crea magnetismo. -->
 - [ ] C) Que la electricidad y el magnetismo son fuerzas independientes <!-- feedback: Son fenómenos relacionados: el electromagnetismo. -->
@@ -98,13 +103,14 @@ En Colombia, la industria eléctrica y electrónica (ensamblaje de electrodomés
 
 **ID:** `CO-CIE-6-2026-W40-magnetismo-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de Fenómenos
-**Context:** En Barranquilla, estudiantes explican cómo funciona un timbre eléctrico.
+**Contexto:** En Barranquilla, estudiantes explican cómo funciona un timbre eléctrico.
 
 ### Enunciado
 ¿Qué principio electromagnético utiliza un timbre eléctrico para sonar?
 
-### Options
+### Opciones
 - [ ] A) Un imán permanente que vibra solo <!-- feedback: Los imanes permanentes no vibran sin intervención externa. -->
 - [x] B) Un electroimán que se activa con la corriente, atrae un martillo que golpea la campana, y al interrumpirse el circuito el martillo vuelve y se repite el ciclo <!-- feedback: Correcto. El timbre usa un electroimán y un interruptor automático para vibrar rápidamente. -->
 - [ ] C) Una pila que produce directamente ondas sonoras <!-- feedback: Las pilas no producen sonido directamente. -->
@@ -127,13 +133,14 @@ Los timbres tradicionales se encuentran en casas y porterías de edificios colom
 
 **ID:** `CO-CIE-6-2026-W40-magnetismo-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de Fenómenos
-**Context:** En Cartagena, estudiantes explican cómo funciona un motor eléctrico simple.
+**Contexto:** En Cartagena, estudiantes explican cómo funciona un motor eléctrico simple.
 
 ### Enunciado
 ¿Qué hace girar el rotor de un motor eléctrico?
 
-### Options
+### Opciones
 - [ ] A) El calor generado por la corriente expande el rotor y lo hace girar <!-- feedback: El calor no causa el giro de un motor eléctrico. -->
 - [ ] B) La atracción y repulsión magnética entre el campo magnético del estator (imanes fijos o electroimanes) y el campo del rotor (bobina con corriente) <!-- feedback: Correcto. Las fuerzas magnéticas causan el giro. -->
 - [ ] C) La gravedad tira del rotor hacia abajo <!-- feedback: La gravedad no es la fuerza que impulsa los motores eléctricos. -->
@@ -154,13 +161,14 @@ Usos en Colombia: ventiladores, licuadoras (Oster, Imusa), lavadoras (Haceb, Cha
 
 **ID:** `CO-CIE-6-2026-W40-magnetismo-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En Cúcuta, estudiantes aplican el concepto de campo magnético.
+**Contexto:** En Cúcuta, estudiantes aplican el concepto de campo magnético.
 
 ### Enunciado
 Se acerca la brújula a diferentes materiales: (1) un clavo de hierro, (2) una moneda de cobre, (3) un clip de acero, (4) un vaso de vidrio. ¿Cuáles serán atraídos por el imán?
 
-### Options
+### Opciones
 - [ ] A) Solo el clavo y el vaso <!-- feedback: El vidrio no es ferromagnético. -->
 - [ ] B) El clavo, la moneda y el clip <!-- feedback: El cobre no es ferromagnético; un imán no atrae monedas de cobre. -->
 - [x] C) El clavo de hierro y el clip de acero <!-- feedback: Correcto. El hierro y el acero (aleación de hierro + carbono) son ferromagnéticos. -->
@@ -181,13 +189,14 @@ Los clips de acero y los clavos de hierro son los materiales ferromagnéticos m�
 
 **ID:** `CO-CIE-6-2026-W40-magnetismo-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En Ibagué, estudiantes aplican conceptos para construir un electroimán.
+**Contexto:** En Ibagué, estudiantes aplican conceptos para construir un electroimán.
 
 ### Enunciado
 Para construir un electroimán casero más potente, ¿cuál de las siguientes acciones sería más efectiva?
 
-### Options
+### Opciones
 - [ ] A) Usar un cable más largo pero sin enrollar <!-- feedback: Un cable recto genera un campo magnético muy débil. -->
 - [x] B) Enrollar el cable alrededor de un núcleo de hierro (como un clavo) formando muchas espiras y aumentar la corriente <!-- feedback: Correcto. Más espiras y núcleo ferromagnético aumentan el campo. -->
 - [ ] C) Conectar el cable directamente a la pila sin enrollar <!-- feedback: Generaría muy poco campo magnético. -->
@@ -208,13 +217,14 @@ Un electroimán casero: enrollar 20-50 vueltas de cable de cobre esmaltado (cali
 
 **ID:** `CO-CIE-6-2026-W40-magnetismo-008-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de Fenómenos
-**Context:** En Bucaramanga, estudiantes explican cómo se genera electricidad en una central.
+**Contexto:** En Bucaramanga, estudiantes explican cómo se genera electricidad en una central.
 
 ### Enunciado
 ¿Cómo se genera electricidad en la Central Hidroeléctrica de Ituango utilizando magnetismo?
 
-### Options
+### Opciones
 - [ ] A) El agua cae directamente sobre imanes y produce electricidad <!-- feedback: El agua no cae sobre imanes; hace girar turbinas. -->
 - [x] B) El agua hace girar una turbina conectada a un generador: dentro del generador, una bobina de alambre gira dentro de un campo magnético, induciendo una corriente eléctrica (inducción electromagnética) <!-- feedback: Correcto. El principio de Faraday: variación de flujo magnético genera corriente. -->
 - [ ] C) El agua reacciona químicamente con metales para producir electricidad <!-- feedback: Eso es como una pila, no es el principio de una hidroeléctrica. -->
@@ -238,13 +248,14 @@ Este mismo principio se aplica en generadores eólicos (aerogeneradores), térmi
 
 **ID:** `CO-CIE-6-2026-W40-magnetismo-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En Neiva, estudiantes analizan aplicaciones del magnetismo en medicina.
+**Contexto:** En Neiva, estudiantes analizan aplicaciones del magnetismo en medicina.
 
 ### Enunciado
 ¿Qué principio del magnetismo se usa en la Resonancia Magnética Nuclear (RMN) o MRI en los hospitales colombianos?
 
-### Options
+### Opciones
 - [ ] A) Se usa un electroimán para calentar los tejidos y verlos en una pantalla <!-- feedback: No es calentamiento; es alineación de protones. -->
 - [ ] B) Se usa un imán permanente para atraer objetos metálicos dentro del cuerpo <!-- feedback: Eso es peligroso y no es el principio de la MRI. -->
 - [x] C) Se usa un potente campo magnético que alinea los protones de hidrógeno del cuerpo; al emitir ondas de radio y medir su respuesta, se obtienen imágenes detalladas de los tejidos <!-- feedback: Correcto. La MRI usa campos magnéticos y radiofrecuencia. -->
@@ -265,13 +276,14 @@ En Colombia, la MRI está disponible en hospitales de tercer nivel (Bogotá - Fu
 
 **ID:** `CO-CIE-6-2026-W40-magnetismo-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En Sincelejo (Sucre), estudiantes integran conceptos de electricidad y magnetismo.
+**Contexto:** En Sincelejo (Sucre), estudiantes integran conceptos de electricidad y magnetismo.
 
 ### Enunciado
 Un transformador eléctrico en un poste de luz en Sincelejo reduce el voltaje de 11,400V (línea de distribución) a 110V (hogar). ¿Qué principio electromagnético permite esto?
 
-### Options
+### Opciones
 - [ ] A) La diferencia en el número de espiras entre la bobina primaria y secundaria del transformador, conectadas por un núcleo de hierro que transmite el flujo magnético <!-- feedback: Correcto. La relación de transformación depende de la relación de espiras (N₁/N₂ = V₁/V₂). -->
 - [ ] B) La fricción entre las bobinas genera el cambio de voltaje <!-- feedback: No hay fricción entre las bobinas; están aisladas eléctricamente. -->
 - [ ] C) La resistencia eléctrica de las bobinas reduce el voltaje <!-- feedback: La resistencia causa pérdidas por calor, no un cambio controlado de voltaje. -->

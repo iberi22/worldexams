@@ -1,28 +1,32 @@
 ---
-id: "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY"
+id: "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "textos-periodisticos"
-semana: "W17"
+week: "W17"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Periodísticos - Grado 6
 ## Semana W17
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio San José de Cali, la profesora introduce los géneros periodísticos con ejemplos del periódico El País.
+**Contexto:** En el Colegio San José de Cali, la profesora introduce los géneros periodísticos con ejemplos del periódico El País.
 **Expected_Success:** 0.86
 
 ### Enunciado
@@ -39,11 +43,11 @@ Los textos periodísticos tienen como función principal informar sobre hechos d
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En la Institución Educativa Técnica de Supía, los estudiantes aprenden la estructura de la noticia con un periódico local.
+**Contexto:** En la Institución Educativa Técnica de Supía, los estudiantes aprenden la estructura de la noticia con un periódico local.
 **Expected_Success:** 0.84
 
 ### Enunciado
@@ -60,11 +64,11 @@ La noticia se organiza en pirámide invertida: 1) Titular: resume lo más import
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** Los estudiantes de la I.E. Normal Superior de Medellín leen una noticia del periódico El Colombiano.
+**Contexto:** Los estudiantes de la I.E. Normal Superior de Medellín leen una noticia del periódico El Colombiano.
 **Expected_Success:** 0.79
 
 ### Enunciado
@@ -81,11 +85,11 @@ El titular periodístico tiene funciones específicas: 1) llamar la atención de
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Mayor de Barranquilla, los estudiantes analizan la diferencia entre una noticia y un reportaje.
+**Contexto:** En el Colegio Mayor de Barranquilla, los estudiantes analizan la diferencia entre una noticia y un reportaje.
 **Expected_Success:** 0.77
 
 ### Enunciado
@@ -102,11 +106,11 @@ Dentro de los géneros periodísticos, la noticia es el género informativo por 
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En el Colegio San Miguel de Garagoa, los estudiantes deben redactar una noticia sobre la feria municipal.
+**Contexto:** En el Colegio San Miguel de Garagoa, los estudiantes deben redactar una noticia sobre la feria municipal.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -123,11 +127,11 @@ El lead o entradilla de la noticia debe responder a las 5W (Who, What, When, Whe
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Salesiano de Duitama, se analiza cómo se construye la veracidad en el periodismo.
+**Contexto:** En el Colegio Salesiano de Duitama, se analiza cómo se construye la veracidad en el periodismo.
 **Expected_Success:** 0.67
 
 ### Enunciado
@@ -144,11 +148,11 @@ El periodismo de calidad se basa en: 1) verificación de fuentes (al menos dos f
 
 ---
 
-## Pregunta 7 [D7]
+## Question 7 [D7]
 **ID:** `CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En la I.E. Alfonso López Pumarejo de Villavicencio, los estudiantes discuten sobre noticias falsas en redes sociales.
+**Contexto:** En la I.E. Alfonso López Pumarejo de Villavicencio, los estudiantes discuten sobre noticias falsas en redes sociales.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -165,11 +169,11 @@ La pirámide invertida es una estructura funcional que responde a las necesidade
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio San Francisco de Asís de Montería, se comparan dos titulares sobre el mismo evento.
+**Contexto:** En el Colegio San Francisco de Asís de Montería, se comparan dos titulares sobre el mismo evento.
 **Expected_Success:** 0.57
 
 ### Enunciado
@@ -189,11 +193,11 @@ La objetividad periodística en los titulares implica: 1) presentar el hecho sin
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En la Institución Educativa Técnica de Puerto Berrío, los estudiantes investigan la diferencia entre la noticia y la columna de opinión.
+**Contexto:** En la Institución Educativa Técnica de Puerto Berrío, los estudiantes investigan la diferencia entre la noticia y la columna de opinión.
 **Expected_Success:** 0.51
 
 ### Enunciado
@@ -210,11 +214,11 @@ Es crucial distinguir entre géneros periodísticos informativos y de opinión. 
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio Nueva Granada de Bogotá, el proyecto final es crear un periódico escolar.
+**Contexto:** En el Colegio Nueva Granada de Bogotá, el proyecto final es crear un periódico escolar.
 **Expected_Success:** 0.44
 
 ### Enunciado

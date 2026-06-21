@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W30-examen-periodo-3-001-MASTERY"
+id: "CO-MAT-6-2026-P3-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 20
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W30 — Examen Periodo 3
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v1`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Colegio La Presentación en Manizales
+**Contexto:** Colegio La Presentación en Manizales
 **Expected_Success:** 0.53
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Manizales, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** Colegio Nacional San Bartolomé en Neiva
+**Contexto:** Colegio Nacional San Bartolomé en Neiva
 **Expected_Success:** 0.53
 
 ### Enunciado
 En la clase de Matematicas del Colegio Nacional San Bartolomé en Neiva, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v3`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Bogotá
+**Contexto:** I.E. Santa Luisa de Marillac en Bogotá
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Matematicas del I.E. Santa Luisa de Marillac en Bogotá, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** I.E. Francisco de Paula Santander en Barranquilla
+**Contexto:** I.E. Francisco de Paula Santander en Barranquilla
 **Expected_Success:** 0.66
 
 ### Enunciado
 En la clase de Matematicas del I.E. Francisco de Paula Santander en Barranquilla, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** Colegio La Presentación en Pasto
+**Contexto:** Colegio La Presentación en Pasto
 **Expected_Success:** 0.57
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Pasto, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v6`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Medellín
+**Contexto:** I.E. Santa Luisa de Marillac en Medellín
 **Expected_Success:** 0.52
 
 ### Enunciado
 En la clase de Matematicas del I.E. Santa Luisa de Marillac en Medellín, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v7`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Neiva
+**Contexto:** I.E. Jorge Eliécer Gaitán en Neiva
 **Expected_Success:** 0.66
 
 ### Enunciado
 En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Neiva, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Pasto
+**Contexto:** Colegio La Presentación en Pasto
 **Expected_Success:** 0.74
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Pasto, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Manizales
+**Contexto:** I.E. Santa Luisa de Marillac en Manizales
 **Expected_Success:** 0.60
 
 ### Enunciado
 En la clase de Matematicas del I.E. Santa Luisa de Marillac en Manizales, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Bogotá
+**Contexto:** Colegio Nacional San Bartolomé en Bogotá
 **Expected_Success:** 0.69
 
 ### Enunciado
 En la clase de Matematicas del Colegio Nacional San Bartolomé en Bogotá, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -244,13 +249,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v11`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** I.E. Gabriel García Márquez en Ibagué
+**Contexto:** I.E. Gabriel García Márquez en Ibagué
 **Expected_Success:** 0.71
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Ibagué, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -266,13 +271,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v12`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Bogotá
+**Contexto:** Colegio La Presentación en Bogotá
 **Expected_Success:** 0.69
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Bogotá, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -288,13 +293,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v13`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** Colegio Nacional San Bartolomé en Medellín
+**Contexto:** Colegio Nacional San Bartolomé en Medellín
 **Expected_Success:** 0.56
 
 ### Enunciado
 En la clase de Matematicas del Colegio Nacional San Bartolomé en Medellín, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -310,13 +315,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v14`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** I.E. Francisco de Paula Santander en Quibdó
+**Contexto:** I.E. Francisco de Paula Santander en Quibdó
 **Expected_Success:** 0.53
 
 ### Enunciado
 En la clase de Matematicas del I.E. Francisco de Paula Santander en Quibdó, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -332,13 +337,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v15`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Tunja
+**Contexto:** Colegio Nacional San Bartolomé en Tunja
 **Expected_Success:** 0.63
 
 ### Enunciado
 En la clase de Matematicas del Colegio Nacional San Bartolomé en Tunja, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -354,13 +359,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v16`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** Colegio Nacional San Bartolomé en Neiva
+**Contexto:** Colegio Nacional San Bartolomé en Neiva
 **Expected_Success:** 0.72
 
 ### Enunciado
 En la clase de Matematicas del Colegio Nacional San Bartolomé en Neiva, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -376,13 +381,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v17`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Bucaramanga
+**Contexto:** I.E. Jorge Eliécer Gaitán en Bucaramanga
 **Expected_Success:** 0.50
 
 ### Enunciado
 En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Bucaramanga, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -398,13 +403,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v18`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** I.E. Santa Luisa de Marillac en Quibdó
+**Contexto:** I.E. Santa Luisa de Marillac en Quibdó
 **Expected_Success:** 0.51
 
 ### Enunciado
 En la clase de Matematicas del I.E. Santa Luisa de Marillac en Quibdó, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -420,13 +425,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v19`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Manizales
+**Contexto:** Colegio Nacional San Bartolomé en Manizales
 **Expected_Success:** 0.64
 
 ### Enunciado
 En la clase de Matematicas del Colegio Nacional San Bartolomé en Manizales, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -442,13 +447,13 @@ El tema de Examen Periodo 3 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v20`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Manizales
+**Contexto:** Colegio La Presentación en Manizales
 **Expected_Success:** 0.70
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Manizales, se discute sobre Examen Periodo 3. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 3 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 3 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

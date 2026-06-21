@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY"
+id: "CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "clima-tiempo"
-semana: "W24"
+week: "W24"
 periodo: 3
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Diferencia entre clima y estado del tiempo. Instrumentos meteo
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Clima y Estado del Tiempo
 
 Este bundle ayuda a los estudiantes a diferenciar entre las condiciones permanentes de una región (clima) y los cambios diarios que ocurren en la atmósfera (estado del tiempo).
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Mariana mira por la ventana y dice: "Hoy está lloviendo mucho, mejor me quedo en casa".
+**Contexto:** Mariana mira por la ventana y dice: "Hoy está lloviendo mucho, mejor me quedo en casa".
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ El estado del tiempo cambia rápido. Puede estar soleado en la mañana y lluvios
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un profesor explica que en los Llanos Orientales siempre hace calor y hay épocas de mucha lluvia todos los años.
+**Contexto:** Un profesor explica que en los Llanos Orientales siempre hace calor y hay épocas de mucha lluvia todos los años.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -73,12 +77,12 @@ El clima es la "personalidad" de un lugar. Por ejemplo, el clima de la costa es 
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Para estudiar el clima de un país como Colombia, los científicos necesitan recolectar datos todos los días durante décadas.
+**Contexto:** Para estudiar el clima de un país como Colombia, los científicos necesitan recolectar datos todos los días durante décadas.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ La meteorología es la ciencia que estudia el tiempo. Usando estos aparatos, los
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Juan vive en Neiva y sabe que allí casi siempre hace calor. Un día, cae una granizada muy extraña que dura 10 minutos.
+**Contexto:** Juan vive en Neiva y sabe que allí casi siempre hace calor. Un día, cae una granizada muy extraña que dura 10 minutos.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ Es fundamental entender la escala de tiempo. El clima es como tu carácter (siem
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Tienes que elegir qué ropa llevar para una excursión de 15 días a la selva del Amazonas.
+**Contexto:** Tienes que elegir qué ropa llevar para una excursión de 15 días a la selva del Amazonas.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -148,12 +152,12 @@ Prepararse para un viaje requiere conocer el clima. Si sabemos que el Amazonas t
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** El pluviómetro de una estación marca que han caído 50 milímetros de agua en una sola hora. El promedio de lluvia de ese lugar es de 10 milímetros por mes.
+**Contexto:** El pluviómetro de una estación marca que han caído 50 milímetros de agua en una sola hora. El promedio de lluvia de ese lugar es de 10 milímetros por mes.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -173,12 +177,12 @@ Los eventos extremos son parte del estudio del tiempo. Cuando ocurren muchas tor
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un mapa del clima de Colombia muestra colores verdes oscuros para las selvas y amarillos para los desiertos.
+**Contexto:** Un mapa del clima de Colombia muestra colores verdes oscuros para las selvas y amarillos para los desiertos.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -198,12 +202,12 @@ Los mapas climáticos son herramientas para planear el futuro. Sirven para saber
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Mariana quiere saber si mañana debe llevar botas de caucho al colegio porque el camino se llena de barro cuando llueve.
+**Contexto:** Mariana quiere saber si mañana debe llevar botas de caucho al colegio porque el camino se llena de barro cuando llueve.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -223,12 +227,12 @@ El pronóstico del tiempo es una aplicación práctica de la ciencia. Gracias a 
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En Colombia decimos que hay "época de verano" y "época de invierno" (lluvias), pero estas duran varios meses.
+**Contexto:** En Colombia decimos que hay "época de verano" y "época de invierno" (lluvias), pero estas duran varios meses.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -248,12 +252,12 @@ En el trópico no tenemos las cuatro estaciones (primavera, etc.), pero nuestro 
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una persona afirma: "Como ayer hizo frío y hoy también, eso significa que el clima de mi ciudad ya cambió para siempre".
+**Contexto:** Una persona afirma: "Como ayer hizo frío y hoy también, eso significa que el clima de mi ciudad ya cambió para siempre".
 **Expected_Success:** 0.60
 
 ### Enunciado

@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-3-2026-W09-antonimos-001-MASTERY"
+id: "CO-LEN-3-2026-W09-antonimos-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 3"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Vocabulario - antónimos - Grado 3
 
@@ -22,7 +24,7 @@ Este bundle explora el uso de los antónimos para expresar ideas contrarias y en
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-3-2026-W09-antonimos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -33,21 +35,20 @@ Este bundle explora el uso de los antónimos para expresar ideas contrarias y en
 ¿Cuál es la palabra que significa lo contrario a **frío**?
 
 ### Opciones
-- [ ] A) Helado
-  <!-- feedback: Esto es un sinónimo (lo mismo). -->
-- [x] B) Caliente
-  <!-- feedback: ¡Correcto! Caliente es el antónimo de frío. -->
-- [ ] C) Húmedo
-  <!-- feedback: Es otra característica del clima, no lo opuesto al frío. -->
-- [ ] D) Nublado
-  <!-- feedback: Se refiere a las nubes, no a la temperatura. -->
+- [ ] A) Helado <!-- feedback: Incorrecto. Helado -->
+
+- [x] B) Caliente <!-- feedback: Correcto! Caliente -->
+
+- [ ] C) Húmedo <!-- feedback: Incorrecto. Húmedo -->
+
+- [ ] D) Nublado <!-- feedback: Incorrecto. Nublado -->
 
 ### Explicación Pedagogica
 Los antónimos son palabras que tienen significados opuestos o contrarios entre sí.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-3-2026-W09-antonimos-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -58,21 +59,20 @@ Los antónimos son palabras que tienen significados opuestos o contrarios entre 
 ¿Cuál es el antónimo de la palabra **lento**?
 
 ### Opciones
-- [ ] A) Despacio
-  <!-- feedback: Es un sinónimo. -->
-- [ ] B) Tranquilo
-  <!-- feedback: No es necesariamente lo opuesto a la velocidad. -->
-- [x] C) Rápido
-  <!-- feedback: ¡Muy bien! Rápido es lo contrario a lento. -->
-- [ ] D) Pequeño
-  <!-- feedback: Se refiere al tamaño. -->
+- [ ] A) Despacio <!-- feedback: Incorrecto. Despacio -->
+
+- [ ] B) Tranquilo <!-- feedback: Incorrecto. Tranquilo -->
+
+- [x] C) Rápido <!-- feedback: Correcto! Rápido -->
+
+- [ ] D) Pequeño <!-- feedback: Incorrecto. Pequeño -->
 
 ### Explicación Pedagogica
 Identificar antónimos nos ayuda a establecer comparaciones y contrastes en los textos que leemos.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-3-2026-W09-antonimos-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -83,21 +83,20 @@ Identificar antónimos nos ayuda a establecer comparaciones y contrastes en los 
 Si un juguete no está **sucio**, entonces está ___________.
 
 ### Opciones
-- [ ] A) Manchado
-  <!-- feedback: Sería un sinónimo de sucio. -->
-- [x] B) Limpio
-  <!-- feedback: ¡Excelente! Limpio es el antónimo de sucio. -->
-- [ ] C) Nuevo
-  <!-- feedback: Puede estar limpio y ser viejo. -->
-- [ ] D) Roto
-  <!-- feedback: Es otro estado diferente. -->
+- [ ] A) Manchado <!-- feedback: Incorrecto. Manchado -->
+
+- [x] B) Limpio <!-- feedback: Correcto! Limpio -->
+
+- [ ] C) Nuevo <!-- feedback: Incorrecto. Nuevo -->
+
+- [ ] D) Roto <!-- feedback: Incorrecto. Roto -->
 
 ### Explicación Pedagogica
 Los antónimos se usan frecuentemente para describir estados opuestos de las cosas.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-3-2026-W09-antonimos-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -108,21 +107,20 @@ Los antónimos se usan frecuentemente para describir estados opuestos de las cos
 ¿Cuál es el antónimo de la palabra **oscuro**?
 
 ### Opciones
-- [ ] A) Negro
-  <!-- feedback: Se asocia a la oscuridad. -->
-- [x] B) Claro
-  <!-- feedback: ¡Así es! Claro o iluminado es lo opuesto a oscuro. -->
-- [ ] C) Sombrío
-  <!-- feedback: Es un sinónimo. -->
-- [ ] D) Profundo
-  <!-- feedback: Se refiere a la distancia, no a la luz. -->
+- [ ] A) Negro <!-- feedback: Incorrecto. Negro -->
+
+- [x] B) Claro <!-- feedback: Correcto! Claro -->
+
+- [ ] C) Sombrío <!-- feedback: Incorrecto. Sombrío -->
+
+- [ ] D) Profundo <!-- feedback: Incorrecto. Profundo -->
 
 ### Explicación Pedagogica
 El uso de antónimos permite crear imágenes mentales claras a través del contraste.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-3-2026-W09-antonimos-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -133,21 +131,20 @@ El uso de antónimos permite crear imágenes mentales claras a través del contr
 ¿Qué palabra usarías para decir que la tarea no es fácil?
 
 ### Opciones
-- [ ] A) Sencilla
-  <!-- feedback: Es un sinónimo de fácil. -->
-- [x] B) Difícil
-  <!-- feedback: ¡Correcto! Difícil es el antónimo de fácil. -->
-- [ ] C) Divertida
-  <!-- feedback: No es necesariamente lo opuesto a fácil. -->
-- [ ] D) Corta
-  <!-- feedback: Se refiere a la extensión. -->
+- [ ] A) Sencilla <!-- feedback: Incorrecto. Sencilla -->
+
+- [x] B) Difícil <!-- feedback: Correcto! Difícil -->
+
+- [ ] C) Divertida <!-- feedback: Incorrecto. Divertida -->
+
+- [ ] D) Corta <!-- feedback: Incorrecto. Corta -->
 
 ### Explicación Pedagogica
 Conocer antónimos nos permite graduar la dificultad o las características de lo que describimos.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-3-2026-W09-antonimos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -158,21 +155,20 @@ Conocer antónimos nos permite graduar la dificultad o las características de l
 ¿Cuál de estas parejas de palabras son antónimos?
 
 ### Opciones
-- [ ] A) Grande - Enorme
-  <!-- feedback: Son sinónimos. -->
-- [x] B) Alto - Bajo
-  <!-- feedback: ¡Exacto! Son características opuestas de estatura o altura. -->
-- [ ] C) Saltar - Brincar
-  <!-- feedback: Son sinónimos. -->
-- [ ] D) Ver - Mirar
-  <!-- feedback: Son sinónimos. -->
+- [ ] A) Grande - Enorme <!-- feedback: Incorrecto. Grande - Enorme -->
+
+- [x] B) Alto - Bajo <!-- feedback: Correcto! Alto - Bajo -->
+
+- [ ] C) Saltar - Brincar <!-- feedback: Incorrecto. Saltar - Brincar -->
+
+- [ ] D) Ver - Mirar <!-- feedback: Incorrecto. Ver - Mirar -->
 
 ### Explicación Pedagogica
 Aprender a diferenciar parejas de sinónimos de parejas de antónimos es un paso importante en el manejo del vocabulario.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-3-2026-W09-antonimos-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -183,21 +179,20 @@ Aprender a diferenciar parejas de sinónimos de parejas de antónimos es un paso
 Si la música está muy **fuerte**, ¿qué palabra indica que debe estar más suave?
 
 ### Opciones
-- [ ] A) Ruidosa
-  <!-- feedback: Es un sinónimo. -->
-- [ ] B) Alegre
-  <!-- feedback: No se refiere al volumen. -->
-- [x] C) Quedo
-  <!-- feedback: ¡Muy bien! "Quedo" o "suave" es el antónimo de fuerte (referido al sonido). -->
-- [ ] D) Alta
-  <!-- feedback: Suele ser sinónimo de fuerte en este contexto. -->
+- [ ] A) Ruidosa <!-- feedback: Incorrecto. Ruidosa -->
+
+- [ ] B) Alegre <!-- feedback: Incorrecto. Alegre -->
+
+- [x] C) Quedo <!-- feedback: Correcto! Quedo -->
+
+- [ ] D) Alta <!-- feedback: Incorrecto. Alta -->
 
 ### Explicación Pedagogica
 Algunos antónimos dependen del contexto; para el volumen, "quedo" o "bajo" son los opuestos a "fuerte" o "alto".
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-3-2026-W09-antonimos-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -208,21 +203,20 @@ Algunos antónimos dependen del contexto; para el volumen, "quedo" o "bajo" son 
 "Juan es muy **obediente**, pero su hermano es todo lo contrario". ¿Cuál es el antónimo de obediente?
 
 ### Opciones
-- [ ] A) Juicioso
-  <!-- feedback: Es un sinónimo. -->
-- [x] B) Rebelde
-  <!-- feedback: ¡Correcto! Rebelde o desobediente son los antónimos. -->
-- [ ] C) Amable
-  <!-- feedback: Es otra cualidad positiva. -->
-- [ ] D) Trabajador
-  <!-- feedback: Es otra cualidad positiva. -->
+- [ ] A) Juicioso <!-- feedback: Incorrecto. Juicioso -->
+
+- [x] B) Rebelde <!-- feedback: Correcto! Rebelde -->
+
+- [ ] C) Amable <!-- feedback: Incorrecto. Amable -->
+
+- [ ] D) Trabajador <!-- feedback: Incorrecto. Trabajador -->
 
 ### Explicación Pedagogica
 Los antónimos también sirven para describir rasgos de personalidad opuestos.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-3-2026-W09-antonimos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -233,21 +227,20 @@ Los antónimos también sirven para describir rasgos de personalidad opuestos.
 ¿Cómo cambiaría el sentido de la frase "El río está muy **lleno**" si usamos un antónimo?
 
 ### Opciones
-- [ ] A) Diría que el río tiene mucha agua.
-  <!-- feedback: Eso es lo que dice la frase original. -->
-- [ ] B) Diría que el río está desbordado.
-  <!-- feedback: Es similar a estar lleno. -->
-- [x] C) Diría que el río está muy vacío o seco.
-  <!-- feedback: ¡Excelente! Al usar el antónimo decimos lo opuesto al original. -->
-- [ ] D) No cambiaría nada el sentido.
-  <!-- feedback: El antónimo siempre cambia el sentido por la idea contraria. -->
+- [ ] A) Diría que el río tiene mucha agua. <!-- feedback: Incorrecto. Diría que el río tiene mucha agua. -->
+
+- [ ] B) Diría que el río está desbordado. <!-- feedback: Incorrecto. Diría que el río está desbordado. -->
+
+- [x] C) Diría que el río está muy vacío o seco. <!-- feedback: Correcto! Diría que el río está muy vacío o seco. -->
+
+- [ ] D) No cambiaría nada el sentido. <!-- feedback: Incorrecto. No cambiaría nada el sentido. -->
 
 ### Explicación Pedagogica
 El uso intencional de antónimos es una forma de transformar el significado de un mensaje.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-3-2026-W09-antonimos-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -258,14 +251,13 @@ El uso intencional de antónimos es una forma de transformar el significado de u
 "Si en el día sale el sol y todo está **claro**, ¿qué palabra describe lo opuesto cuando sale la luna?"
 
 ### Opciones
-- [ ] A) Brillante
-  <!-- feedback: La luna brilla, pero no hace que todo esté "claro" como el sol. -->
-- [x] B) Oscuro
-  <!-- feedback: ¡Muy bien! Oscuro es el antónimo de claro y describe la noche. -->
-- [ ] C) Azul
-  <!-- feedback: Es un color. -->
-- [ ] D) Lejos
-  <!-- feedback: Se refiere a la distancia. -->
+- [ ] A) Brillante <!-- feedback: Incorrecto. Brillante -->
+
+- [x] B) Oscuro <!-- feedback: Correcto! Oscuro -->
+
+- [ ] C) Azul <!-- feedback: Incorrecto. Azul -->
+
+- [ ] D) Lejos <!-- feedback: Incorrecto. Lejos -->
 
 ### Explicación Pedagogica
 Los antónimos son fundamentales en la estructura de muchos juegos de palabras y textos literarios sencillos.

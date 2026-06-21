@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY"
+id: "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "daily-routines-1"
 periodo: "weekly"
-semana: 19
+week: "W19"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "Vocabulary for basic morning routines: wake up, brush teeth, h
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W19: Daily Routines - Morning (A1)
 
@@ -32,11 +37,12 @@ Este bundle evalúa el vocabulario de las rutinas diarias de la mañana en ingl�
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is the first thing you do? **"Despertarse"**.
 
-### Options
+### Opciones
 - [x] A) Wake up <!-- feedback: Correct! Wake up is despertarse. -->
 - [ ] B) Go to sleep <!-- feedback: Incorrect. -->
 - [ ] C) Eat dinner <!-- feedback: Incorrect. -->
@@ -52,11 +58,12 @@ La primera acción del día al abrir los ojos es "wake up".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What do you do with a toothbrush?
 
-### Options
+### Opciones
 - [ ] A) Wash my face <!-- feedback: Incorrect. -->
 - [x] B) Brush my teeth <!-- feedback: Correct! -->
 - [ ] C) Eat breakfast <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ Cepillarse los dientes se dice "brush my teeth".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Desayunar"** in English?
 
-### Options
+### Opciones
 - [ ] A) Have lunch <!-- feedback: Incorrect. Lunch is almuerzo. -->
 - [ ] B) Have dinner <!-- feedback: Incorrect. Dinner is cena. -->
 - [x] C) Have breakfast <!-- feedback: Correct! Breakfast is the first meal. -->
@@ -92,11 +100,12 @@ El desayuno se dice "breakfast". "Have breakfast" es desayunar.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What do you do to get clean in the morning?
 
-### Options
+### Opciones
 - [ ] A) Go to bed <!-- feedback: Incorrect. -->
 - [x] B) Take a shower <!-- feedback: Correct! -->
 - [ ] C) Play soccer <!-- feedback: Incorrect. -->
@@ -112,11 +121,12 @@ Tomar una ducha o bañarse se dice "take a shower".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What do you do with your **clothes**?
 
-### Options
+### Opciones
 - [ ] A) Eat my clothes <!-- feedback: Incorrect. -->
 - [x] B) Get dressed <!-- feedback: Correct! Get dressed is vestirse. -->
 - [ ] C) Wash the car <!-- feedback: Incorrect. -->
@@ -132,11 +142,12 @@ Vestirse se dice "get dressed".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Where do you go at 7:00 AM?
 
-### Options
+### Opciones
 - [ ] A) Go to the park <!-- feedback: Incorrect. -->
 - [x] B) Go to school <!-- feedback: Correct! Morning is for school. -->
 - [ ] C) Go to sleep <!-- feedback: Incorrect. -->
@@ -152,11 +163,12 @@ Ir al colegio se dice "go to school".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What do you do with a **comb** (peine)?
 
-### Options
+### Opciones
 - [ ] A) Brush my teeth <!-- feedback: Incorrect. -->
 - [x] B) Comb my hair <!-- feedback: Correct! -->
 - [ ] C) Wash my hands <!-- feedback: Incorrect. -->
@@ -172,11 +184,12 @@ Peinarse se dice "comb my hair".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Lavarse las manos"**?
 
-### Options
+### Opciones
 - [ ] A) Wash my face <!-- feedback: Incorrect. -->
 - [x] B) Wash my hands <!-- feedback: Correct! -->
 - [ ] C) Clean the table <!-- feedback: Incorrect. -->
@@ -192,11 +205,12 @@ Lavarse las manos es "wash my hands". Es muy importante antes de comer.
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Complete: **"I _______ my face in the morning."**
 
-### Options
+### Opciones
 - [ ] A) eat <!-- feedback: Incorrect. -->
 - [x] B) wash <!-- feedback: Correct! Wash my face. -->
 - [ ] C) sleep <!-- feedback: Incorrect. -->
@@ -212,11 +226,12 @@ Lavarse la cara es "wash my face".
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Choose the correct order:
 
-### Options
+### Opciones
 - [x] A) Wake up, have breakfast, go to school <!-- feedback: Correct order. -->
 - [ ] B) Go to school, wake up, have breakfast <!-- feedback: Incorrect order. -->
 - [ ] C) Have breakfast, go to school, wake up <!-- feedback: Incorrect order. -->

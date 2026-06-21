@@ -1,5 +1,5 @@
 ---
-id: "BR-MAT-3EM-2026-W40-matematica-financeira-001-MASTERY"
+id: "BR-MAT-3EM-2026-W40-matematica-financeira-001-MASTERY-bundle"
 country: "brasil"
 grado: 3o-EM
 asignatura: "matematica"
@@ -16,6 +16,7 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Matematica Financeira - BRASIL Grade 3o-EM
 ## Semana W40

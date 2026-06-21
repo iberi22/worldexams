@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W09-ecosistemas-colombianos-001-MASTERY"
+id: "CO-CIE-6-2026-W09-ecosistemas-colombianos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W09 — Ecosistemas Colombianos - Selvas y Bosques
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W09-ecosistemas-colombianos-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, los estudiantes inician el estudio de los ecosistemas colombianos.
+**Contexto:** En Bogotá, los estudiantes inician el estudio de los ecosistemas colombianos.
 
 ### Enunciado
 ¿Qué es un bioma?
 
-### Options
+### Opciones
 - [ ] A) Un tipo de clima específico <!-- feedback: Incorrecto. El clima es parte del bioma. -->
 - [ ] B) Un conjunto de poblaciones de una sola especie <!-- feedback: Incorrecto. Eso es una población. -->
 - [x] C) Un conjunto de ecosistemas con características climáticas y biológicas similares en una región extensa <!-- feedback: Correcto. -->
@@ -48,13 +51,14 @@ Un bioma es una gran área geográfica con clima, flora y fauna característicos
 
 **ID:** `CO-CIE-6-2026-W09-ecosistemas-colombianos-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, identifican los biomas colombianos en un mapa interactivo.
+**Contexto:** En Medellín, identifican los biomas colombianos en un mapa interactivo.
 
 ### Enunciado
 ¿Cuál es el bioma más extenso de Colombia?
 
-### Options
+### Opciones
 - [ ] A) El páramo <!-- feedback: Incorrecto. Cubren menos del 3% del territorio. -->
 - [ ] B) El desierto de La Guajira <!-- feedback: Incorrecto. Es una pequeña porción. -->
 - [x] C) La selva amazónica <!-- feedback: Correcto. Cubre ~35% del territorio. -->
@@ -69,13 +73,14 @@ La selva amazónica colombiana ocupa unos 400,000 km² (35% del país) en Amazon
 
 **ID:** `CO-CIE-6-2026-W09-ecosistemas-colombianos-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, comparan el bosque seco tropical y la selva húmeda.
+**Contexto:** En Cali, comparan el bosque seco tropical y la selva húmeda.
 
 ### Enunciado
 ¿Qué caracteriza al bosque seco tropical colombiano?
 
-### Options
+### Opciones
 - [ ] A) Lluvias intensas todo el año <!-- feedback: Incorrecto. Eso es la selva húmeda. -->
 - [x] B) Una temporada seca prolongada donde los árboles pierden las hojas (caducifolios) <!-- feedback: Correcto. -->
 - [ ] C) Temperaturas bajo cero <!-- feedback: Incorrecto. Eso es páramo. -->
@@ -90,13 +95,14 @@ El bosque seco tropical recibe 700-1,500 mm de lluvia anual con 4-6 meses secos.
 
 **ID:** `CO-CIE-6-2026-W09-ecosistemas-colombianos-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, estudian los manglares.
+**Contexto:** En Barranquilla, estudian los manglares.
 
 ### Enunciado
 ¿Por qué los manglares son ecosistemas estratégicos para Colombia?
 
-### Options
+### Opciones
 - [ ] A) Porque producen agua potable <!-- feedback: Incorrecto. Viven en agua salada. -->
 - [ ] B) Porque son el mejor lugar para construir hoteles <!-- feedback: Incorrecto. Construir en manglares los destruye. -->
 - [x] C) Porque protegen la costa, son criaderos de peces y crustáceos, y almacenan carbono <!-- feedback: Correcto. -->
@@ -111,13 +117,14 @@ Los manglares son bosques adaptados al agua salada. En Colombia hay ~380,000 ha,
 
 **ID:** `CO-CIE-6-2026-W09-ecosistemas-colombianos-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, identifican ecosistemas.
+**Contexto:** En Bucaramanga, identifican ecosistemas.
 
 ### Enunciado
 Un estudiante visita un lugar con pastizales extensos, clima cálido con estación seca y lluviosa, y ve ganado. ¿En qué ecosistema está?
 
-### Options
+### Opciones
 - [ ] A) Selva amazónica <!-- feedback: Incorrecto. Selva tiene árboles densos. -->
 - [ ] B) Páramo <!-- feedback: Incorrecto. Páramo es frío. -->
 - [x] C) Llanos Orientales (sabana) <!-- feedback: Correcto. -->
@@ -132,13 +139,14 @@ Los Llanos Orientales (Arauca, Casanare, Meta, Vichada) son sabanas extensas de 
 
 **ID:** `CO-CIE-6-2026-W09-ecosistemas-colombianos-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, relacionan animales con ecosistemas.
+**Contexto:** En Cartagena, relacionan animales con ecosistemas.
 
 ### Enunciado
 ¿Cuál de estos animales es característico de la Amazonía colombiana?
 
-### Options
+### Opciones
 - [ ] A) Flamenco caribeño <!-- feedback: Incorrecto. Vive en la costa Caribe. -->
 - [ ] B) Frailejón <!-- feedback: Incorrecto. Es una planta de páramo. -->
 - [x] C) Delfín rosado <!-- feedback: Correcto. Habita en ríos amazónicos. -->
@@ -153,13 +161,14 @@ El delfín rosado (Inia geoffrensis) es el delfín de río más grande (2.5 m, 1
 
 **ID:** `CO-CIE-6-2026-W09-ecosistemas-colombianos-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan la deforestación en la Amazonía.
+**Contexto:** En Pereira, analizan la deforestación en la Amazonía.
 
 ### Enunciado
 ¿Cuál es la principal causa de deforestación en la Amazonía colombiana?
 
-### Options
+### Opciones
 - [ ] A) Construcción de ciudades <!-- feedback: Incorrecto. Área pequeña. -->
 - [ ] B) Turismo <!-- feedback: Incorrecto. No es causa significativa. -->
 - [x] C) Ganadería extensiva, minería ilegal y cultivos ilícitos <!-- feedback: Correcto. -->
@@ -174,13 +183,14 @@ En 2023 se deforestaron >70,000 ha en la Amazonía colombiana. Causas: ganaderí
 
 **ID:** `CO-CIE-6-2026-W09-ecosistemas-colombianos-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, analizan corredores biológicos.
+**Contexto:** En Manizales, analizan corredores biológicos.
 
 ### Enunciado
 ¿Qué función cumplen los corredores biológicos?
 
-### Options
+### Opciones
 - [ ] A) Facilitan el turismo en áreas protegidas <!-- feedback: Incorrecto. No son senderos. -->
 - [ ] B) Conectan ciudades con parques naturales <!-- feedback: Incorrecto. Conectan áreas naturales entre sí. -->
 - [x] C) Conectan hábitats fragmentados permitiendo el flujo genético entre poblaciones <!-- feedback: Correcto. -->
@@ -195,13 +205,14 @@ Los corredores biológicos contrarrestan la fragmentación del hábitat causada 
 
 **ID:** `CO-CIE-6-2026-W09-ecosistemas-colombianos-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan proyectos de restauración.
+**Contexto:** En Cúcuta, evalúan proyectos de restauración.
 
 ### Enunciado
 ¿Por qué la restauración del bosque seco tropical es prioritaria en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Para tener más sombra <!-- feedback: Incorrecto. Beneficio menor. -->
 - [ ] B) Para atraer turistas <!-- feedback: Incorrecto. No es el objetivo principal. -->
 - [x] C) Porque solo queda el 8% y alberga especies endémicas como el tití cabeciblanco <!-- feedback: Correcto. -->
@@ -216,13 +227,14 @@ El bosque seco tropical es el ecosistema más amenazado de Colombia (8% remanent
 
 **ID:** `CO-CIE-6-2026-W09-ecosistemas-colombianos-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan la minería ilegal.
+**Contexto:** En Ibagué, evalúan la minería ilegal.
 
 ### Enunciado
 ¿Por qué el mercurio usado en minería ilegal es especialmente dañino?
 
-### Options
+### Opciones
 - [ ] A) Porque es caro <!-- feedback: Incorrecto. No es el problema principal. -->
 - [ ] B) Porque huele mal <!-- feedback: Incorrecto. El olor no es el impacto mayor. -->
 - [x] C) Porque se bioacumula en los organismos, contaminando ríos y peces por décadas <!-- feedback: Correcto. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-CN-8-2026-P2-comprehensive-001-MASTERY"
+id: "CO-CN-8-2026-P2-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "ciencias-naturales"
@@ -19,7 +19,12 @@ rubric_baseline: "herencia mendeliana, reacciones químicas, trabajo mecánico, 
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Herencia Mendeliana, Reacciones Químicas y Trabajo-Energía
 
@@ -31,13 +36,14 @@ Este bundle cubre las leyes de Mendel, reacciones químicas, y conceptos de trab
 
 **ID:** `CO-CN-8-2026-P2-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** Un estudiante en Bogotá repasa las leyes de Mendel para su examen de ciencias.
+**Contexto:** Un estudiante en Bogotá repasa las leyes de Mendel para su examen de ciencias.
 
 ### Enunciado
 ¿Qué establece la primera ley de Mendel (ley de la segregación)?
 
-### Options
+### Opciones
 - [ ] A) Los genes se distribuyen independientemente. <!-- feedback: Incorrect. Eso es la tercera ley (distribución independiente). -->
 - [x] B) Cada individuo tiene dos alelos para cada característica, que se separan durante la formación de gametos. <!-- feedback: Correct. Cada progenitor aporta un alelo a la descendencia. -->
 - [ ] C) Los caracteres dominantes siempre se expresan. <!-- feedback: Incorrect. Esto no es una ley de Mendel, sino un concepto de dominancia. -->
@@ -52,13 +58,14 @@ La primera ley de Mendel (segregación) dice que los alelos de un gen se separan
 
 **ID:** `CO-CN-8-2026-P2-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En un laboratorio de química en Medellín, se explica qué es una reacción química.
+**Contexto:** En un laboratorio de química en Medellín, se explica qué es una reacción química.
 
 ### Enunciado
 ¿Cuál de los siguientes es un ejemplo de reacción química?
 
-### Options
+### Opciones
 - [ ] A) Disolver azúcar en agua. <!-- feedback: Incorrect. Es un proceso físico, no químico (no se forman nuevas sustancias). -->
 - [ ] B) Derretir hielo. <!-- feedback: Incorrect. Es un cambio de estado físico. -->
 - [x] C) Oxidación de un clavo de hierro. <!-- feedback: Correct. La oxidación es una reacción química donde el hierro se combina con el oxígeno formando óxido de hierro. -->
@@ -73,13 +80,14 @@ Una reacción química implica la transformación de unas sustancias en otras di
 
 **ID:** `CO-CN-8-2026-P2-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** Un profesor en Cali explica el concepto de trabajo en física.
+**Contexto:** Un profesor en Cali explica el concepto de trabajo en física.
 
 ### Enunciado
 ¿Cuál es la condición necesaria para que se realice trabajo mecánico?
 
-### Options
+### Opciones
 - [ ] A) Aplicar una fuerza sobre un objeto. <!-- feedback: Incorrect. También debe haber desplazamiento en la dirección de la fuerza. -->
 - [x] B) Aplicar una fuerza y lograr desplazamiento en la dirección de la fuerza. <!-- feedback: Correct. $W = F \cdot d \cdot \cos\theta$. Sin desplazamiento no hay trabajo. -->
 - [ ] C) Mover un objeto a velocidad constante. <!-- feedback: Incorrect. Puede hacerse trabajo aunque la velocidad no sea constante. -->
@@ -94,13 +102,14 @@ El trabajo mecánico se define como $W = F \cdot d \cdot \cos\theta$, donde $F$ 
 
 **ID:** `CO-CN-8-2026-P2-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** Un estudiante en Barranquilla observa que al quemar madera se produce ceniza, humo y calor.
+**Contexto:** Un estudiante en Barranquilla observa que al quemar madera se produce ceniza, humo y calor.
 
 ### Enunciado
 ¿Qué tipo de reacción química es la combustión de la madera?
 
-### Options
+### Opciones
 - [ ] A) Reacción de síntesis. <!-- feedback: Incorrect. En la síntesis se combinan dos o más sustancias para formar una más compleja. -->
 - [x] B) Reacción de oxidación (combustión). <!-- feedback: Correct. La combustión es una oxidación rápida que produce calor y luz. -->
 - [ ] C) Reacción de desplazamiento. <!-- feedback: Incorrect. En el desplazamiento, un elemento reemplaza a otro en un compuesto. -->
@@ -115,13 +124,14 @@ La combustión es una reacción química exotérmica en la que un combustible re
 
 **ID:** `CO-CN-8-2026-P2-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En un experimento escolar, Mendel cruzó plantas de guisante de tallo alto (AA) con plantas de tallo enano (aa). El tallo alto es dominante.
+**Contexto:** En un experimento escolar, Mendel cruzó plantas de guisante de tallo alto (AA) con plantas de tallo enano (aa). El tallo alto es dominante.
 
 ### Enunciado
 ¿Cómo será la descendencia (F1)?
 
-### Options
+### Opciones
 - [x] A) 100% tallo alto (Aa). <!-- feedback: Correct. Todos los hijos son heterocigotos Aa y expresan el alelo dominante (alto). -->
 - [ ] B) 50% alto y 50% enano. <!-- feedback: Incorrect. Eso ocurre en la F2 (Aa × Aa) o en un cruce de prueba (Aa × aa). -->
 - [ ] C) 75% alto y 25% enano. <!-- feedback: Incorrect. Esa es la proporción de la F2. -->
@@ -136,13 +146,14 @@ Cuando se cruzan dos líneas puras (homocigotas) con fenotipos contrastantes, to
 
 **ID:** `CO-CN-8-2026-P2-comprehensive-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** Una persona levanta una caja de 10 kg desde el suelo hasta una mesa de 1 m de altura. (g = 10 m/s²)
+**Contexto:** Una persona levanta una caja de 10 kg desde el suelo hasta una mesa de 1 m de altura. (g = 10 m/s²)
 
 ### Enunciado
 ¿Cuánto trabajo realizó la persona contra la gravedad?
 
-### Options
+### Opciones
 - [ ] A) 10 J <!-- feedback: Incorrect. $W = mgh = 10 \times 10 \times 1 = 100$ J. -->
 - [ ] B) 100 J <!-- feedback: Correct. $W = F \times d = mg \times h = (10 \times 10) \times 1 = 100$ J. -->
 - [ ] C) 1000 J <!-- feedback: Incorrect. $10 \times 10 \times 10 = 1000$, se multiplicó por altura incorrecta. -->
@@ -157,13 +168,14 @@ El trabajo contra la gravedad al elevar un objeto es $W = mgh$, donde $m$ es la 
 
 **ID:** `CO-CN-8-2026-P2-comprehensive-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un profesor en Bucaramanga explica la diferencia entre energía cinética y potencial.
+**Contexto:** Un profesor en Bucaramanga explica la diferencia entre energía cinética y potencial.
 
 ### Enunciado
 ¿Qué tipo de energía tiene un automóvil en movimiento por una carretera?
 
-### Options
+### Opciones
 - [x] A) Energía cinética. <!-- feedback: Correct. La energía cinética es la energía del movimiento: $E_c = \frac{1}{2}mv^2$. -->
 - [ ] B) Energía potencial gravitatoria. <!-- feedback: Incorrect. La energía potencial depende de la altura. -->
 - [ ] C) Energía química. <!-- feedback: Incorrect. La energía química está almacenada en los enlaces de las moléculas. -->
@@ -178,13 +190,14 @@ La energía cinética es la energía asociada al movimiento de los cuerpos. Depe
 
 **ID:** `CO-CN-8-2026-P2-comprehensive-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En un laboratorio, se hace reaccionar hidrógeno (H₂) con oxígeno (O₂) para formar agua (H₂O).
+**Contexto:** En un laboratorio, se hace reaccionar hidrógeno (H₂) con oxígeno (O₂) para formar agua (H₂O).
 
 ### Enunciado
 ¿Cuál es la ecuación química balanceada de esta reacción?
 
-### Options
+### Opciones
 - [ ] A) H₂ + O₂ → H₂O <!-- feedback: Incorrect. No está balanceada: hay 2 O en reactivos y 1 en producto. -->
 - [x] B) 2H₂ + O₂ → 2H₂O <!-- feedback: Correct. 4 H y 2 O en ambos lados de la ecuación. -->
 - [ ] C) H₂ + 2O₂ → 2H₂O <!-- feedback: Incorrect. Hay 4 O en reactivos y 2 en productos. -->
@@ -199,13 +212,14 @@ Balancear ecuaciones químicas consiste en igualar el número de átomos de cada
 
 **ID:** `CO-CN-8-2026-P2-comprehensive-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Una pelota de 0.5 kg se lanza hacia arriba con una velocidad de 20 m/s. (g = 10 m/s²)
+**Contexto:** Una pelota de 0.5 kg se lanza hacia arriba con una velocidad de 20 m/s. (g = 10 m/s²)
 
 ### Enunciado
 ¿Cuál es la energía cinética de la pelota en el momento del lanzamiento?
 
-### Options
+### Opciones
 - [ ] A) 50 J <!-- feedback: Incorrect. $E_c = \frac{1}{2}(0.5)(20) = 5$, se olvidó elevar al cuadrado. -->
 - [ ] B) 200 J <!-- feedback: Incorrect. $E_c = \frac{1}{2}(0.5)(20^2) = \frac{1}{2}(0.5)(400) = 100$ J. -->
 - [x] C) 100 J <!-- feedback: Correct. $E_c = \frac{1}{2}mv^2 = \frac{1}{2}(0.5)(400) = 100$ J. -->
@@ -220,13 +234,14 @@ La energía cinética se calcula con $E_c = \frac{1}{2}mv^2$. La velocidad está
 
 **ID:** `CO-CN-8-2026-P2-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En la F2 del cruce de Mendel (Aa × Aa), se obtienen 400 plantas de guisante.
+**Contexto:** En la F2 del cruce de Mendel (Aa × Aa), se obtienen 400 plantas de guisante.
 
 ### Enunciado
 ¿Cuántas plantas se espera que sean homocigotas dominantes (AA)?
 
-### Options
+### Opciones
 - [ ] A) 100 <!-- feedback: Correct. La proporción genotípica es 1:2:1 (AA:Aa:aa). De 400, 1/4 son AA = 100. -->
 - [ ] B) 200 <!-- feedback: Incorrect. 200 son heterocigotos (Aa). -->
 - [ ] C) 300 <!-- feedback: Incorrect. 300 son las que expresan el tallo alto (AA + Aa). -->
@@ -241,13 +256,14 @@ En un cruce monohíbrido de heterocigotos, las proporciones genotípicas son: 1/
 
 **ID:** `CO-CN-8-2026-P2-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante afirma: "Cuando una reacción química es exotérmica, absorbe calor del entorno."
+**Contexto:** Un estudiante afirma: "Cuando una reacción química es exotérmica, absorbe calor del entorno."
 
 ### Enunciado
 ¿Es correcta esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque exo significa hacia afuera. <!-- feedback: Incorrect. Exotérmico significa que libera calor hacia afuera. -->
 - [x] B) No, las reacciones exotérmicas liberan calor al entorno. Las que absorben calor son endotérmicas. <!-- feedback: Correct. "Exo" = hacia afuera (libera), "endo" = hacia adentro (absorbe). -->
 - [ ] C) Sí, porque el calor siempre se absorbe en las reacciones. <!-- feedback: Incorrect. No todas las reacciones absorben calor. -->
@@ -262,13 +278,14 @@ Las reacciones exotérmicas liberan energía en forma de calor ($\Delta H < 0$).
 
 **ID:** `CO-CN-8-2026-P2-comprehensive-001-MASTERY-v12`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** Un objeto de 2 kg cae desde una altura de 5 m. (g = 10 m/s²)
+**Contexto:** Un objeto de 2 kg cae desde una altura de 5 m. (g = 10 m/s²)
 
 ### Enunciado
 ¿Cuál es la energía potencial del objeto antes de caer?
 
-### Options
+### Opciones
 - [ ] A) 10 J <!-- feedback: Incorrect. $E_p = 2 \times 10 \times 5 = 100$ J. -->
 - [x] B) 100 J <!-- feedback: Correct. $E_p = mgh = 2 \times 10 \times 5 = 100$ J. -->
 - [ ] C) 50 J <!-- feedback: Incorrect. $2 \times 5 \times 5 = 50$, se usó g=5 en lugar de 10. -->
@@ -283,13 +300,14 @@ La energía potencial gravitatoria depende de la masa, la gravedad y la altura: 
 
 **ID:** `CO-CN-8-2026-P2-comprehensive-001-MASTERY-v13`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** En la segunda ley de Mendel (distribución independiente), se cruzan plantas heterocigotas para dos caracteres: forma (Rr, lisa dominante sobre rugosa r) y color (Yy, amarillo dominante sobre verde y).
+**Contexto:** En la segunda ley de Mendel (distribución independiente), se cruzan plantas heterocigotas para dos caracteres: forma (Rr, lisa dominante sobre rugosa r) y color (Yy, amarillo dominante sobre verde y).
 
 ### Enunciado
 ¿Cuántos genotipos diferentes se pueden obtener en la descendencia?
 
-### Options
+### Opciones
 - [ ] A) 4 <!-- feedback: Incorrect. 4 son los fenotipos posibles. -->
 - [ ] B) 8 <!-- feedback: Incorrect. Se pueden obtener más combinaciones. -->
 - [x] C) 9 <!-- feedback: Correct. Para un cruce dihíbrido, hay 3×3 = 9 genotipos posibles. -->
@@ -304,13 +322,14 @@ La segunda ley (distribución independiente) establece que los alelos de diferen
 
 **ID:** `CO-CN-8-2026-P2-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante dice: "Si empujo una pared con toda mi fuerza y no se mueve, estoy realizando trabajo porque estoy aplicando fuerza."
+**Contexto:** Un estudiante dice: "Si empujo una pared con toda mi fuerza y no se mueve, estoy realizando trabajo porque estoy aplicando fuerza."
 
 ### Enunciado
 ¿Es correcta esta afirmación desde el punto de vista de la física?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque el trabajo depende solo de la fuerza aplicada. <!-- feedback: Incorrect. El trabajo requiere desplazamiento. -->
 - [x] B) No, porque aunque hay fuerza, no hay desplazamiento, por lo que el trabajo es cero. <!-- feedback: Correct. $W = F \cdot d \cdot \cos\theta$; si $d = 0$, entonces $W = 0$. -->
 - [ ] C) Sí, porque la fuerza aplicada es grande. <!-- feedback: Incorrect. La magnitud de la fuerza no importa si no hay desplazamiento. -->
@@ -325,13 +344,14 @@ En física, el trabajo requiere desplazamiento. Es posible aplicar mucha fuerza 
 
 **ID:** `CO-CN-8-2026-P2-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Reflexivo
-**Context:** Un carro de 1000 kg viaja a 20 m/s por la Autopista Norte en Bogotá. El conductor aplica los frenos y se detiene completamente. Durante el frenado, la energía cinética se convierte en calor por la fricción de los frenos.
+**Contexto:** Un carro de 1000 kg viaja a 20 m/s por la Autopista Norte en Bogotá. El conductor aplica los frenos y se detiene completamente. Durante el frenado, la energía cinética se convierte en calor por la fricción de los frenos.
 
 ### Enunciado
 ¿Cuánta energía se disipó en forma de calor durante el frenado?
 
-### Options
+### Opciones
 - [ ] A) 10.000 J <!-- feedback: Incorrect. $E_c = \frac{1}{2}(1000)(20^2) = \frac{1}{2}(1000)(400) = 200.000$ J. -->
 - [ ] B) 20.000 J <!-- feedback: Incorrect. $1000 \times 20 = 20.000$, se multiplicó sin usar la fórmula correcta. -->
 - [x] C) 200.000 J <!-- feedback: Correct. $E_c = \frac{1}{2}mv^2 = \frac{1}{2}(1000)(400) = 200.000$ J. Toda esta energía se disipó como calor. -->

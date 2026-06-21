@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W30-sonido-propagacion-001-MASTERY"
+id: "CO-CIE-3-2026-W30-sonido-propagacion-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "sonido-propagacion"
-semana: "W30"
+week: "W30"
 periodo: 3
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Propagación del sonido: medios de transmisión (sólido, líq
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # La Propagación del Sonido
 
 Este bundle explora cómo el sonido viaja a través de diferentes materiales y cuáles son las características que nos permiten diferenciar un ruido fuerte de una melodía suave.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W30-sonido-propagacion-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de música, el profesor golpea un tambor y todos los niños en el salón escuchan el golpe de inmediato.
+**Contexto:** En la clase de música, el profesor golpea un tambor y todos los niños en el salón escuchan el golpe de inmediato.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ El sonido necesita materia para viajar. El aire está hecho de billones de molé
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W30-sonido-propagacion-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Si sumerges tu cabeza en una piscina y alguien golpea dos piedras bajo el agua, escucharás el sonido muy claro y fuerte.
+**Contexto:** Si sumerges tu cabeza en una piscina y alguien golpea dos piedras bajo el agua, escucharás el sonido muy claro y fuerte.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -73,12 +77,12 @@ El sonido viaja más rápido en el agua que en el aire. Esto es porque las molé
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W30-sonido-propagacion-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Mariana escucha un grito muy fuerte y luego el susurro de un secreto al oído.
+**Contexto:** Mariana escucha un grito muy fuerte y luego el susurro de un secreto al oído.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -98,12 +102,12 @@ La intensidad se mide en decibeles. Un sonido muy intenso (fuerte) puede lastima
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W30-sonido-propagacion-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Un pajarito canta con notas muy finas y altas, mientras que un león ruge con una nota muy gruesa y baja.
+**Contexto:** Un pajarito canta con notas muy finas y altas, mientras que un león ruge con una nota muy gruesa y baja.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -123,12 +127,12 @@ El tono depende de qué tan rápido sea la vibración. Vibraciones muy rápidas 
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W30-sonido-propagacion-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Juan fabrica un "teléfono" con dos vasos de plástico y una cuerda de lana bien estirada entre ellos.
+**Contexto:** Juan fabrica un "teléfono" con dos vasos de plástico y una cuerda de lana bien estirada entre ellos.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -148,12 +152,12 @@ Este experimento demuestra que los sólidos son excelentes conductores del sonid
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W30-sonido-propagacion-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En las películas del espacio se escuchan explosiones gigantes con mucho ruido. Sin embargo, los científicos dicen que eso es imposible en la vida real.
+**Contexto:** En las películas del espacio se escuchan explosiones gigantes con mucho ruido. Sin embargo, los científicos dicen que eso es imposible en la vida real.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -173,12 +177,12 @@ La luz no necesita aire para viajar (por eso vemos el Sol), pero el sonido es co
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W30-sonido-propagacion-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Puedes reconocer la voz de tu mamá incluso si no la estás viendo, y diferenciarla del ladrido de tu perro.
+**Contexto:** Puedes reconocer la voz de tu mamá incluso si no la estás viendo, y diferenciarla del ladrido de tu perro.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -198,12 +202,12 @@ El timbre depende de la forma y el material de lo que vibra. Por eso una flauta 
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W30-sonido-propagacion-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Tienes tres cajas cerradas de diferentes materiales: una de metal, una de madera gruesa y una de espuma blanda (esponja).
+**Contexto:** Tienes tres cajas cerradas de diferentes materiales: una de metal, una de madera gruesa y una de espuma blanda (esponja).
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -223,12 +227,12 @@ Existen materiales conductores (metales, agua) y materiales aislantes (lana, esp
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W30-sonido-propagacion-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Los murciélagos vuelan en cuevas totalmente oscuras sin chocar contra las paredes, emitiendo sonidos que nosotros no escuchamos.
+**Contexto:** Los murciélagos vuelan en cuevas totalmente oscuras sin chocar contra las paredes, emitiendo sonidos que nosotros no escuchamos.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -248,12 +252,12 @@ Los murciélagos tienen un radar natural. Al analizar cómo rebota su propio gri
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W30-sonido-propagacion-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un constructor quiere hacer una sala de cine. Alguien le sugiere cubrir las paredes con láminas de acero brillante para que se oiga mejor.
+**Contexto:** Un constructor quiere hacer una sala de cine. Alguien le sugiere cubrir las paredes con láminas de acero brillante para que se oiga mejor.
 **Expected_Success:** 0.60
 
 ### Enunciado

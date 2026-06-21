@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY"
+id: "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 3"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Resumen y síntesis - Grado 3
 
@@ -27,7 +29,7 @@ Este bundle practica la habilidad de identificar las ideas más importantes de u
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -38,21 +40,20 @@ Este bundle practica la habilidad de identificar las ideas más importantes de u
 ¿Qué es un resumen?
 
 ### Opciones
-- [ ] A) Escribir el texto otra vez exactamente igual.
-  <!-- feedback: No, eso es copiar. -->
-- [x] B) Contar las ideas principales de un texto de forma corta.
-  <!-- feedback: ¡Correcto! Resumir es abreviar lo más importante. -->
-- [ ] C) Inventar un final diferente para la historia.
-  <!-- feedback: No, el resumen debe ser fiel al texto original. -->
-- [ ] D) Dibujar los personajes del cuento.
-  <!-- feedback: Eso es una ilustración, no un resumen. -->
+- [ ] A) Escribir el texto otra vez exactamente igual. <!-- feedback: Incorrecto. Escribir el texto otra vez exactamente i -->
+
+- [x] B) Contar las ideas principales de un texto de forma corta. <!-- feedback: Correcto! Contar las ideas principales de un texto de forma corta. -->
+
+- [ ] C) Inventar un final diferente para la historia. <!-- feedback: Incorrecto. Inventar un final diferente para la hist -->
+
+- [ ] D) Dibujar los personajes del cuento. <!-- feedback: Incorrecto. Dibujar los personajes del cuento. -->
 
 ### Explicación Pedagogica
 El resumen es una técnica de síntesis que consiste en reducir un texto a sus conceptos fundamentales.
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 **ID:** `CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -63,21 +64,20 @@ El resumen es una técnica de síntesis que consiste en reducir un texto a sus c
 ¿Cuál es la idea principal del primer párrafo del texto?
 
 ### Opciones
-- [ ] A) Que a la gente le gusta el café.
-  <!-- feedback: Es una idea secundaria del final. -->
-- [x] B) Que el café es el producto más famoso de Colombia.
-  <!-- feedback: ¡Muy bien! Es la frase que presenta el tema central. -->
-- [ ] C) Que los granos son de color rojo.
-  <!-- feedback: Es un detalle descriptivo, no la idea principal. -->
-- [ ] D) Que el clima de las montañas es frío.
-  <!-- feedback: Es una condición para el cultivo, no el tema principal. -->
+- [ ] A) Que a la gente le gusta el café. <!-- feedback: Incorrecto. Que a la gente le gusta el café. -->
+
+- [x] B) Que el café es el producto más famoso de Colombia. <!-- feedback: Correcto! Que el café es el producto más famoso de Colombia. -->
+
+- [ ] C) Que los granos son de color rojo. <!-- feedback: Incorrecto. Que los granos son de color rojo. -->
+
+- [ ] D) Que el clima de las montañas es frío. <!-- feedback: Incorrecto. Que el clima de las montañas es frío. -->
 
 ### Explicación Pedagogica
 Identificar la idea principal es el paso indispensable para elaborar un buen resumen.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -88,21 +88,20 @@ Identificar la idea principal es el paso indispensable para elaborar un buen res
 ¿Qué información es UN DETALLE (idea secundaria) que podrías quitar en un resumen muy cortito?
 
 ### Opciones
-- [ ] A) Que el café es de Colombia.
-  <!-- feedback: Es un dato fundamental. -->
-- [x] B) Que los granos son de color rojo.
-  <!-- feedback: ¡Excelente! Es un detalle que no cambia el sentido general del proceso. -->
-- [ ] C) Que el café se cultiva en las montañas.
-  <!-- feedback: Es una idea importante sobre el origen. -->
-- [ ] D) Que el café se exporta a otros países.
-  <!-- feedback: Es una parte clave del tema. -->
+- [ ] A) Que el café es de Colombia. <!-- feedback: Incorrecto. Que el café es de Colombia. -->
+
+- [x] B) Que los granos son de color rojo. <!-- feedback: Correcto! Que los granos son de color rojo. -->
+
+- [ ] C) Que el café se cultiva en las montañas. <!-- feedback: Incorrecto. Que el café se cultiva en las montañas. -->
+
+- [ ] D) Que el café se exporta a otros países. <!-- feedback: Incorrecto. Que el café se exporta a otros países. -->
 
 ### Explicación Pedagogica
 Aprender a diferenciar ideas principales de detalles secundarios es vital para la capacidad de síntesis.
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 **ID:** `CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Comprensión Lectora
@@ -113,21 +112,20 @@ Aprender a diferenciar ideas principales de detalles secundarios es vital para l
 ¿Cuál de estas opciones es el mejor resumen del texto anterior?
 
 ### Opciones
-- [ ] A) El café se cultiva en montañas frescas y mucha gente lo toma en el mundo.
-  <!-- feedback: Está bien, pero le falta mencionar que es de Colombia. -->
-- [x] B) El café es el producto más importante de Colombia, se cultiva en las montañas y se vende a todo el mundo.
-  <!-- feedback: ¡Correcto! Reúne los tres puntos clave del texto original de forma breve. -->
-- [ ] C) Hay granos rojos de café que las familias recogen cuando están muy maduros para enviarlos lejos.
-  <!-- feedback: Se enfoca mucho en los detalles y poco en la idea general. -->
-- [ ] D) Colombia tiene montañas y muchas familias que trabajan mucho todos los días.
-  <!-- feedback: No menciona el café, que es el tema central. -->
+- [ ] A) El café se cultiva en montañas frescas y mucha gente lo toma en el mundo. <!-- feedback: Incorrecto. El café se cultiva en montañas frescas y -->
+
+- [x] B) El café es el producto más importante de Colombia, se cultiva en las montañas y se vende a todo el mundo. <!-- feedback: Correcto! El café es el producto más importante de Colombia, se cultiv -->
+
+- [ ] C) Hay granos rojos de café que las familias recogen cuando están muy maduros para enviarlos lejos. <!-- feedback: Incorrecto. Hay granos rojos de café que las familia -->
+
+- [ ] D) Colombia tiene montañas y muchas familias que trabajan mucho todos los días. <!-- feedback: Incorrecto. Colombia tiene montañas y muchas familia -->
 
 ### Explicación Pedagogica
 Un buen resumen debe ser completo (incluir lo esencial) pero conciso (usar pocas palabras).
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -138,21 +136,20 @@ Un buen resumen debe ser completo (incluir lo esencial) pero conciso (usar pocas
 ¿Cuál es el primer paso recomendado para hacer el resumen de un cuento largo?
 
 ### Opciones
-- [ ] A) Empezar a escribir lo primero que se me ocurra.
-  <!-- feedback: Eso no garantiza un buen resumen. -->
-- [x] B) Leer el texto completo y subrayar las ideas más importantes.
-  <!-- feedback: ¡Así es! La lectura comprensiva es la base de todo resumen. -->
-- [ ] C) Contar cuántas palabras tiene el cuento.
-  <!-- feedback: El número de palabras no ayuda a resumir el sentido. -->
-- [ ] D) Copiar solo el final de la historia.
-  <!-- feedback: Eso no sería un resumen de toda la historia. -->
+- [ ] A) Empezar a escribir lo primero que se me ocurra. <!-- feedback: Incorrecto. Empezar a escribir lo primero que se me  -->
+
+- [x] B) Leer el texto completo y subrayar las ideas más importantes. <!-- feedback: Correcto! Leer el texto completo y subrayar las ideas más importantes. -->
+
+- [ ] C) Contar cuántas palabras tiene el cuento. <!-- feedback: Incorrecto. Contar cuántas palabras tiene el cuento. -->
+
+- [ ] D) Copiar solo el final de la historia. <!-- feedback: Incorrecto. Copiar solo el final de la historia. -->
 
 ### Explicación Pedagogica
 El subrayado es una técnica de apoyo a la lectura que facilita la posterior redacción del resumen.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -163,21 +160,20 @@ El subrayado es una técnica de apoyo a la lectura que facilita la posterior red
 Si en tu resumen escribes: **"A mí me parece que el café es muy rico"**, ¿qué estás haciendo mal?
 
 ### Opciones
-- [ ] A) Nada, el resumen debe decir lo que yo pienso.
-  <!-- feedback: No, el resumen debe decir lo que dice el texto. -->
-- [x] B) Estoy dando mi opinión, y el resumen solo debe contar los hechos del texto.
-  <!-- feedback: ¡Exacto! Un resumen debe ser objetivo y no incluir gustos personales. -->
-- [ ] C) Escribí una frase muy larga.
-  <!-- feedback: El problema no es el largo, sino el contenido (opinión). -->
-- [ ] D) No puse el nombre del autor.
-  <!-- feedback: El error principal es incluir una opinión propia. -->
+- [ ] A) Nada, el resumen debe decir lo que yo pienso. <!-- feedback: Incorrecto. Nada, el resumen debe decir lo que yo pi -->
+
+- [x] B) Estoy dando mi opinión, y el resumen solo debe contar los hechos del texto. <!-- feedback: Correcto! Estoy dando mi opinión, y el resumen solo debe contar los he -->
+
+- [ ] C) Escribí una frase muy larga. <!-- feedback: Incorrecto. Escribí una frase muy larga. -->
+
+- [ ] D) No puse el nombre del autor. <!-- feedback: Incorrecto. No puse el nombre del autor. -->
 
 ### Explicación Pedagogica
 El resumen debe mantener la objetividad y fidelidad al pensamiento del autor original.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Comprensión Lectora
@@ -188,21 +184,20 @@ El resumen debe mantener la objetividad y fidelidad al pensamiento del autor ori
 Para resumir una fábula (como la de la Liebre y la Tortuga), ¿qué dos cosas no pueden faltar?
 
 ### Opciones
-- [ ] A) El color de la liebre y el nombre del bosque.
-  <!-- feedback: Son detalles que se pueden omitir. -->
-- [ ] B) Cuántos pasos dio la tortuga para ganar.
-  <!-- feedback: Es un detalle numérico no esencial. -->
-- [x] C) Los hechos principales de la carrera y la enseñanza o moraleja.
-  <!-- feedback: ¡Muy bien! Son la esencia de la estructura de la fábula. -->
-- [ ] D) El precio del libro donde estaba la fábula.
-  <!-- feedback: No tiene relación con la historia. -->
+- [ ] A) El color de la liebre y el nombre del bosque. <!-- feedback: Incorrecto. El color de la liebre y el nombre del bo -->
+
+- [ ] B) Cuántos pasos dio la tortuga para ganar. <!-- feedback: Incorrecto. Cuántos pasos dio la tortuga para ganar. -->
+
+- [x] C) Los hechos principales de la carrera y la enseñanza o moraleja. <!-- feedback: Correcto! Los hechos principales de la carrera y la enseñanza o morale -->
+
+- [ ] D) El precio del libro donde estaba la fábula. <!-- feedback: Incorrecto. El precio del libro donde estaba la fábu -->
 
 ### Explicación Pedagogica
 Resumir géneros específicos requiere identificar los elementos estructurales de cada uno.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -213,21 +208,20 @@ Resumir géneros específicos requiere identificar los elementos estructurales d
 ¿Para qué sirven palabras como **"primero"**, **"luego"** y **"finalmente"** en un resumen?
 
 ### Opciones
-- [ ] A) Para que el resumen rime como un poema.
-  <!-- feedback: No tienen esa función. -->
-- [x] B) Para ordenar los hechos en el tiempo y que se entienda mejor.
-  <!-- feedback: ¡Excelente! Los conectores temporales dan orden lógico al resumen. -->
-- [ ] C) Para que el profesor crea que leímos mucho.
-  <!-- feedback: Su función es de claridad comunicativa. -->
-- [ ] D) Son palabras que sobran y se deben quitar.
-  <!-- feedback: Al contrario, son muy útiles para la cohesión. -->
+- [ ] A) Para que el resumen rime como un poema. <!-- feedback: Incorrecto. Para que el resumen rime como un poema. -->
+
+- [x] B) Para ordenar los hechos en el tiempo y que se entienda mejor. <!-- feedback: Correcto! Para ordenar los hechos en el tiempo y que se entienda mejor -->
+
+- [ ] C) Para que el profesor crea que leímos mucho. <!-- feedback: Incorrecto. Para que el profesor crea que leímos muc -->
+
+- [ ] D) Son palabras que sobran y se deben quitar. <!-- feedback: Incorrecto. Son palabras que sobran y se deben quita -->
 
 ### Explicación Pedagogica
 La cohesión textual mediante conectores permite que el resumen fluya de manera lógica.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Comprensión Lectora
@@ -238,21 +232,20 @@ La cohesión textual mediante conectores permite que el resumen fluya de manera 
 ¿Por qué hacer un resumen nos ayuda a aprender mejor un tema de estudio?
 
 ### Opciones
-- [ ] A) Porque así no tenemos que leer el libro completo nunca más.
-  <!-- feedback: No reemplaza la lectura profunda, la complementa. -->
-- [x] B) Porque al resumir, nuestro cerebro selecciona y organiza la información más importante.
-  <!-- feedback: ¡Correcto! Es un ejercicio mental que refuerza la memoria y la comprensión. -->
-- [ ] C) Porque el cuaderno se ve más lleno de letras.
-  <!-- feedback: No es una cuestión de cantidad. -->
-- [ ] D) Porque nos toma menos tiempo que hacer un dibujo.
-  <!-- feedback: No es el motivo principal de su utilidad pedagógica. -->
+- [ ] A) Porque así no tenemos que leer el libro completo nunca más. <!-- feedback: Incorrecto. Porque así no tenemos que leer el libro  -->
+
+- [x] B) Porque al resumir, nuestro cerebro selecciona y organiza la información más importante. <!-- feedback: Correcto! Porque al resumir, nuestro cerebro selecciona y organiza la  -->
+
+- [ ] C) Porque el cuaderno se ve más lleno de letras. <!-- feedback: Incorrecto. Porque el cuaderno se ve más lleno de le -->
+
+- [ ] D) Porque nos toma menos tiempo que hacer un dibujo. <!-- feedback: Incorrecto. Porque nos toma menos tiempo que hacer u -->
 
 ### Explicación Pedagogica
 El resumen es una herramienta cognitiva poderosa que favorece el aprendizaje significativo.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Comprensión Lectora
@@ -263,14 +256,13 @@ El resumen es una herramienta cognitiva poderosa que favorece el aprendizaje sig
 Si la noticia trata sobre un niño que rescató a un gato de un árbol ayer en Bogotá, ¿cuál es la mejor síntesis?
 
 ### Opciones
-- [ ] A) Un niño de Bogotá vio un gato en un árbol ayer por la tarde cerca a su casa.
-  <!-- feedback: Falta lo más importante: que lo rescató. -->
-- [x] B) Un valiente niño rescató ayer a un gato atrapado en un árbol en Bogotá.
-  <!-- feedback: ¡Muy bien! Reúne quién, qué, cuándo y dónde en una sola frase potente. -->
-- [ ] C) Los gatos a veces se suben a los árboles y no pueden bajar solos en las ciudades.
-  <!-- feedback: Esto es una generalización, no un resumen de la noticia específica. -->
-- [ ] D) Gato rescatado árbol Bogotá niño ayer valiente.
-  <!-- feedback: Es una lista de palabras, no una oración bien construida. -->
+- [ ] A) Un niño de Bogotá vio un gato en un árbol ayer por la tarde cerca a su casa. <!-- feedback: Incorrecto. Un niño de Bogotá vio un gato en un árbo -->
+
+- [x] B) Un valiente niño rescató ayer a un gato atrapado en un árbol en Bogotá. <!-- feedback: Correcto! Un valiente niño rescató ayer a un gato atrapado en un árbol -->
+
+- [ ] C) Los gatos a veces se suben a los árboles y no pueden bajar solos en las ciudades. <!-- feedback: Incorrecto. Los gatos a veces se suben a los árboles -->
+
+- [ ] D) Gato rescatado árbol Bogotá niño ayer valiente. <!-- feedback: Incorrecto. Gato rescatado árbol Bogotá niño ayer va -->
 
 ### Explicación Pedagogica
 La síntesis extrema requiere una gran capacidad de abstracción para conservar solo los núcleos informativos esenciales.

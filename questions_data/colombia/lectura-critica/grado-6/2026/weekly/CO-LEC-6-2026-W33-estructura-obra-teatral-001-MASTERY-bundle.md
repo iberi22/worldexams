@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-W33-estructura-obra-teatral-001-MASTERY"
+id: "CO-LEC-6-2026-W33-estructura-obra-teatral-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -15,7 +15,9 @@ alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W33 — Estructura de la Obra Teatral
 
@@ -29,14 +31,15 @@ tier: "legacy"
 
 **ID:** `CO-LEC-6-2026-W33-estructura-obra-teatral-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de estructura tripartita
-**Context:** Partes de un texto teatral
+**Contexto:** Partes de un texto teatral
 
 ### Enunciado
 
 Según la estructura clásica, ¿cuáles son las tres partes fundamentales de una obra de teatro?
 
-### Options
+### Opciones
 - [ ] A) Introducción, desarrollo y moraleja <!-- feedback: Incorrecto. La moraleja es propia de fábulas, no del teatro. Aunque algunas obras tengan enseñanza, no es una parte estructural. -->
 - [x] B) Planteamiento (presentación de personajes y conflicto), nudo (desarrollo del conflicto) y desenlace (solución o final) <!-- feedback: ¡Correcto! La estructura clásica tripartita organización la historia: 1) Planteamiento: conocemos a los personajes y el problema, 2) Nudo: el conflicto se complica, 3) Desenlace: se resuelve. -->
 - [ ] C) Inicio, acto único y final <!-- feedback: Incorrecto. Una obra puede tener varios actos. "Acto único" es una característica de algunas obras, no una parte estructural general. -->
@@ -52,14 +55,15 @@ Al igual que un cuento, una obra de teatro tiene una estructura que organiza la 
 
 **ID:** `CO-LEC-6-2026-W33-estructura-obra-teatral-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Definición de acto teatral
-**Context:** ¿Qué es un acto?
+**Contexto:** ¿Qué es un acto?
 
 ### Enunciado
 
 En el teatro, un "acto" es:
 
-### Options
+### Opciones
 - [ ] A) Cada palabra que dice un personaje <!-- feedback: Incorrecto. Eso es un parlamento o réplica. Un parlamento es una unidad mucho más pequeña. -->
 - [ ] B) El momento en que un personaje entra o sale del escenario <!-- feedback: Incorrecto. Eso marca una nueva escena, no un acto. Los cambios de escena pueden ocurrir dentro del mismo acto. -->
 - [x] C) Una división importante de la obra que suele marcar un cambio de tiempo, lugar o situación significativa <!-- feedback: ¡Correcto! Los actos son como "capítulos" del teatro. Un acto puede durar varios minutos e incluir varias escenas. Entre actos suele haber un intermedio. -->
@@ -75,8 +79,9 @@ Piensa en los actos como los capítulos de un libro: dividen la historia en part
 
 **ID:** `CO-LEC-6-2026-W33-estructura-obra-teatral-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de planteamiento
-**Context:** Reconocer la presentación en una obra
+**Contexto:** Reconocer la presentación en una obra
 
 ### Enunciado
 
@@ -94,7 +99,7 @@ Piensa en los actos como los capítulos de un libro: dividen la historia en part
 
 ¿Qué información nos da este planteamiento?
 
-### Options
+### Opciones
 - [ ] A) Ya sabemos cómo termina la obra <!-- feedback: Incorrecto. El planteamiento presenta la situación inicial, no el final. -->
 - [x] B) Sabemos quiénes son los personajes principales (Sofía y Camilo) y la situación (llega una estudiante nueva de quien no saben mucho) <!-- feedback: ¡Correcto! En el planteamiento conocemos el lugar (colegio de Medellín), los personajes (Sofía, Camilo) y la situación que generará el conflicto (la llegada de una nueva estudiante). -->
 - [ ] C) El conflicto ya está resuelto <!-- feedback: Incorrecto. El conflicto apenas se está presentando: la llegada de la nueva estudiante. Falta todo el desarrollo. -->
@@ -110,8 +115,9 @@ El planteamiento responde a las preguntas básicas: ¿DÓNDE ocurre? (colegio), 
 
 **ID:** `CO-LEC-6-2026-W33-estructura-obra-teatral-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación del nudo
-**Context:** Reconocer el desarrollo del conflicto
+**Contexto:** Reconocer el desarrollo del conflicto
 
 ### Enunciado
 
@@ -133,7 +139,7 @@ El planteamiento responde a las preguntas básicas: ¿DÓNDE ocurre? (colegio), 
 
 ¿Qué función cumple este Acto II en la estructura?
 
-### Options
+### Opciones
 - [ ] A) Presenta a los personajes por primera vez <!-- feedback: Incorrecto. Los personajes ya fueron presentados en el Acto I. -->
 - [x] B) Desarrolla el conflicto: Valeria tiene un pasado que no quiere revelar, lo que crea misterio y tensión entre los personajes <!-- feedback: ¡Correcto! El nudo profundiza el conflicto. Ya sabemos que Valeria tiene algo en su pasado que le impide integrarse. La tensión aumenta porque el público quiere saber qué pasó en Apartadó. -->
 - [ ] C) Muestra el final feliz de la historia <!-- feedback: Incorrecto. El desenlace todavía no ha ocurrido. El conflicto está en su punto más alto. -->
@@ -149,8 +155,9 @@ El nudo o desarrollo es la parte más extensa de la obra. Aquí el conflicto se 
 
 **ID:** `CO-LEC-6-2026-W33-estructura-obra-teatral-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación del desenlace
-**Context:** Reconocer la resolución
+**Contexto:** Reconocer la resolución
 
 ### Enunciado
 
@@ -164,7 +171,7 @@ El nudo o desarrollo es la parte más extensa de la obra. Aquí el conflicto se 
 
 ¿Qué característica tiene este desenlace?
 
-### Options
+### Opciones
 - [ ] A) Es un final trágico donde Valeria fracasa <!-- feedback: Incorrecto. Valeria tiene éxito en su presentación y es felicitada. -->
 - [ ] B) No resuelve nada, la obra termina sin conclusión <!-- feedback: Incorrecto. La obra muestra que Valeria logró integrarse y superó su timidez. La situación inicial (aislamiento) se ha resuelto. -->
 - [x] C) Es un final resolutivo y positivo: Valeria supera su aislamiento, se integra y comparte su talento con la comunidad escolar <!-- feedback: ¡Correcto! El desenlace muestra la solución del conflicto: Valeria, que antes estaba sola y no hablaba de su pasado, ahora se presenta frente a todos y comparte su cultura. El círculo se cierra. -->
@@ -180,14 +187,15 @@ El desenlace cierra la historia. Puede ser feliz (los personajes logran sus obje
 
 **ID:** `CO-LEC-6-2026-W33-estructura-obra-teatral-006-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Diferencia entre acto y escena
-**Context:** Comprender la subdivisión interna
+**Contexto:** Comprender la subdivisión interna
 
 ### Enunciado
 
 En una obra de teatro, ¿cuál es la diferencia entre un acto y una escena?
 
-### Options
+### Opciones
 - [ ] A) No hay diferencia, son sinónimos <!-- feedback: Incorrecto. Son conceptos distintos. Un acto contiene varias escenas. -->
 - [x] B) Un acto es una división mayor que puede contener varias escenas; una escena cambia cuando un personaje entra o sale del escenario <!-- feedback: ¡Correcto! La escena es la unidad más pequeña de la estructura teatral. Cada vez que un personaje entra o sale, comienza una nueva escena. El acto agrupa varias escenas con una unidad temática o temporal. -->
 - [ ] C) Un acto es lo que dice un personaje y una escena es donde ocurre la acción <!-- feedback: Incorrecto. Un parlamento es lo que dice un personaje. Acto y escena son divisiones estructurales, no unidades de diálogo. -->
@@ -203,8 +211,9 @@ Imagina que una obra es un libro: los actos son los capítulos y las escenas son
 
 **ID:** `CO-LEC-6-2026-W33-estructura-obra-teatral-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Aplicación de estructura
-**Context:** Organizar una obra
+**Contexto:** Organizar una obra
 
 ### Enunciado
 
@@ -218,7 +227,7 @@ Un grupo de estudiantes planea escribir una obra sobre la protección de los hum
 
 ¿Cuál sería el orden correcto según la estructura tripartita?
 
-### Options
+### Opciones
 - [ ] A) 1-2-3-4-5 <!-- feedback: Incorrecto. La presentación de personajes (4) debe ir al inicio, no al final. -->
 - [x] B) 4-1-5-2-3 <!-- feedback: ¡Correcto! Planteamiento (4 y 1: conocemos personajes y surge el conflicto), Nudo (5 y 2: el conflicto se complica y los personajes reaccionan), Desenlace (3: se resuelve el conflicto). -->
 - [ ] C) 3-2-1-5-4 <!-- feedback: Incorrecto. Este orden no sigue la progresión lógica: el desenlace (3) no puede ir al inicio de la obra. -->
@@ -234,8 +243,9 @@ Organizar una obra teatral requiere pensar en la progresión: primero presentamo
 
 **ID:** `CO-LEC-6-2026-W33-estructura-obra-teatral-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Análisis de la función de cada acto
-**Context:** Comparar actos en una obra
+**Contexto:** Comparar actos en una obra
 
 ### Enunciado
 
@@ -247,7 +257,7 @@ Organizar una obra teatral requiere pensar en la progresión: primero presentamo
 
 ¿Cómo cambia la intensidad del conflicto a través de los actos?
 
-### Options
+### Opciones
 - [ ] A) Es igual en los tres actos <!-- feedback: Incorrecto. La intensidad del conflicto cambia: sube en el Acto II y se resuelve en el III. -->
 - [x] B) En el Acto I se presenta el conflicto (baja intensidad), en el Acto II se intensifica (alta intensidad, revelaciones) y en el Acto III se resuelve (la intensidad baja tras el clímax) <!-- feedback: ¡Correcto! Esta es la curva dramática clásica: el conflicto se presenta, sube hasta un punto máximo (clímax, que ocurre cerca del final del Acto II o inicio del III) y finalmente desciende hacia la resolución. -->
 - [ ] C) El conflicto es más fuerte en el Acto I y luego disminuye <!-- feedback: Incorrecto. Si el conflicto más fuerte está al inicio, no hay desarrollo que mantenga el interés del público. -->
@@ -263,8 +273,9 @@ La tensión dramática sigue una curva: sube gradualmente, alcanza un pico (clí
 
 **ID:** `CO-LEC-6-2026-W33-estructura-obra-teatral-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Identificación del clímax
-**Context:** Reconocer el punto de mayor tensión
+**Contexto:** Reconocer el punto de mayor tensión
 
 ### Enunciado
 
@@ -282,7 +293,7 @@ La tensión dramática sigue una curva: sube gradualmente, alcanza un pico (clí
 
 ¿Por qué este momento podría considerarse el clímax de la obra?
 
-### Options
+### Opciones
 - [ ] A) Porque es una escena sin diálogo <!-- feedback: Incorrecto. Hay diálogo, y aunque hubiera silencio, el clímax no se define por la ausencia de palabras. -->
 - [ ] B) Porque los personajes están peleando <!-- feedback: Incorrecto. No hay pelea física. El clímax es más que una discusión; es el punto de no retorno. -->
 - [x] C) Porque es el momento de máxima tensión: se acerca una revelación importante y la decisión de abrir la puerta cambiará la historia <!-- feedback: ¡Correcto! El clímax es el punto donde la tensión es insoportable. La mano en la manija simboliza que todo está a punto de cambiar. El público está en suspenso: ¿abrirá o no abrirá? -->
@@ -298,8 +309,9 @@ El clímax es el punto de inflexión de la obra: el momento en que todo puede ca
 
 **ID:** `CO-LEC-6-2026-W33-estructura-obra-teatral-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Valoración crítica de estructura
-**Context:** Evaluar una obra a partir de su estructura
+**Contexto:** Evaluar una obra a partir de su estructura
 
 ### Enunciado
 
@@ -313,7 +325,7 @@ Una obra de teatro escolar sobre la diversidad cultural colombiana tiene esta es
 
 ¿Qué problema estructural tiene esta obra?
 
-### Options
+### Opciones
 - [ ] A) Los actos están en el orden incorrecto <!-- feedback: Incorrecto. El orden es correcto: planteamiento, nudo, desenlace. -->
 - [ ] B) El Acto I debería ser más largo que el Acto II <!-- feedback: Incorrecto. No hay regla sobre la duración relativa de los actos. El nudo suele ser más extenso. -->
 - [x] C) El desenlace (Acto III) es demasiado corto y simple: un conflicto complejo como una discusión entre amigos se resuelve con una sola frase de la profesora, lo que no es creíble ni satisfactorio <!-- feedback: ¡Correcto! Un buen desenlace debe ser proporcionado al conflicto. Si los estudiantes pasaron 30 minutos discutiendo intensamente, necesitan más de 5 minutos y una frase para reconciliarse de manera creíble. El desenlace debe mostrar el proceso de reconciliación. -->

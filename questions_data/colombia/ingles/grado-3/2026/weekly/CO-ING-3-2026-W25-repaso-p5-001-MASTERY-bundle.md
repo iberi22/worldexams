@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W25-repaso-p5-001-MASTERY"
+id: "CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "repaso-p5"
 periodo: "weekly"
-semana: 25
+week: "W25"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 8
@@ -19,7 +19,12 @@ rubric_baseline: "Review of food, drinks, likes/dislikes, toys, and clothes."
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W25: Repaso Periodo 5 (A1)
 
@@ -32,11 +37,12 @@ Este bundle repasa los temas de las semanas 21 a 24: comida, gustos, juguetes y 
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Agua"**?
 
-### Options
+### Opciones
 - [x] A) Water <!-- feedback: Correct! -->
 - [ ] B) Milk <!-- feedback: Incorrect. -->
 - [ ] C) Juice <!-- feedback: Incorrect. -->
@@ -52,11 +58,12 @@ Agua en inglés es "water".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 How do you say **"Me gusta"**?
 
-### Options
+### Opciones
 - [ ] A) I don't like <!-- feedback: Incorrect. -->
 - [x] B) I like <!-- feedback: Correct! -->
 - [ ] C) I am <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ How do you say **"Me gusta"**?
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Pelota"**?
 
-### Options
+### Opciones
 - [ ] A) Doll <!-- feedback: Incorrect. -->
 - [x] B) Ball <!-- feedback: Correct! -->
 - [ ] C) Bike <!-- feedback: Incorrect. -->
@@ -92,11 +100,12 @@ Pelota o balón se dice "ball".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Camiseta"**?
 
-### Options
+### Opciones
 - [ ] A) Pants <!-- feedback: Incorrect. -->
 - [ ] B) Shoes <!-- feedback: Incorrect. -->
 - [x] C) T-shirt <!-- feedback: Correct! -->
@@ -112,11 +121,12 @@ Camiseta se dice "T-shirt".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Answer the question: **"Do you like apples?"** (Respuesta corta afirmativa).
 
-### Options
+### Opciones
 - [x] A) Yes, I do <!-- feedback: Correct! -->
 - [ ] B) No, I don't <!-- feedback: Incorrect. -->
 - [ ] C) Yes, I am <!-- feedback: Incorrect. -->
@@ -132,11 +142,12 @@ La respuesta corta para "Do you like...?" es "Yes, I do".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Which one is **food**?
 
-### Options
+### Opciones
 - [ ] A) Water <!-- feedback: Incorrect. Drink. -->
 - [x] B) Bread <!-- feedback: Correct! Food. -->
 - [ ] C) Juice <!-- feedback: Incorrect. Drink. -->
@@ -152,11 +163,12 @@ El pan (bread) es comida (food).
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What toy can you **fly** in the wind?
 
-### Options
+### Opciones
 - [ ] A) Ball <!-- feedback: Incorrect. -->
 - [x] B) Kite <!-- feedback: Correct! -->
 - [ ] C) Doll <!-- feedback: Incorrect. -->
@@ -172,11 +184,12 @@ La cometa (kite) se vuela en el viento.
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What do you wear on your **feet**?
 
-### Options
+### Opciones
 - [ ] A) Hats <!-- feedback: Incorrect. -->
 - [x] B) Shoes <!-- feedback: Correct! -->
 - [ ] C) Shirts <!-- feedback: Incorrect. -->

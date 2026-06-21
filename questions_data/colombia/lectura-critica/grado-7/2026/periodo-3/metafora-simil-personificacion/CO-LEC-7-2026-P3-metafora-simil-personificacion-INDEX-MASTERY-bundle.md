@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-7-2026-P3-metafora-simil-personificacion-INDEX-MASTERY"
+id: "CO-LEC-7-2026-P3-metafora-simil-personificacion-INDEX-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "metáfora, símil, personificación, comparación, lenguaje figurado, interpretación simbólica"
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G7 — Metáfora, Símil y Personificación
 
@@ -39,12 +46,13 @@ rubric_baseline: "metáfora, símil, personificación, comparación, lenguaje fi
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Cómo se llama la mula en el Texto B?
 
-### Options
+### Opciones
 - [ ] A) Matías. <!-- feedback: Incorrecto. -->
 - [x] B) Petra. <!-- feedback: Correcto. -->
 - [ ] C) Luna. <!-- feedback: Incorrecto. -->
@@ -56,12 +64,13 @@ Identificación de un personaje.
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Quién escribe la carta en el Texto C?
 
-### Options
+### Opciones
 - [ ] A) Un adulto. <!-- feedback: Incorrecto. -->
 - [x] B) Un niño que vive en el campo. <!-- feedback: Correcto. -->
 - [ ] C) Un habitante de la ciudad. <!-- feedback: Incorrecto. -->
@@ -73,12 +82,13 @@ Identificación del emisor de la carta.
 ## Question 3 [D4 - Símil]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de recursos literarios
 
 ### Enunciado
 En el Texto A, "Las nubes, como enormes borregos flotantes" es un ejemplo de:
 
-### Options
+### Opciones
 - [ ] A) Metáfora. <!-- feedback: Incorrecto. -->
 - [x] B) Símil (usa "como" para comparar nubes con borregos). <!-- feedback: Correcto. -->
 - [ ] C) Personificación. <!-- feedback: Incorrecto. -->
@@ -90,12 +100,13 @@ Identificación del símil como comparación con "como".
 ## Question 4 [D4 - Metáfora]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de recursos literarios
 
 ### Enunciado
 En el Texto A, "El cielo, una cobija gris" es un ejemplo de:
 
-### Options
+### Opciones
 - [x] A) Metáfora (el cielo es directamente llamado cobija). <!-- feedback: Correcto. -->
 - [ ] B) Símil. <!-- feedback: Incorrecto. -->
 - [ ] C) Personificación. <!-- feedback: Incorrecto. -->
@@ -107,12 +118,13 @@ Identificación de la metáfora (sin "como").
 ## Question 5 [D4 - Personificación]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de recursos literarios
 
 ### Enunciado
 En el Texto A, ¿qué oración contiene personificación?
 
-### Options
+### Opciones
 - [ ] A) "Las nubes corrían presurosas". <!-- feedback: Incorrecto (no es personificación). -->
 - [x] B) "La lluvia comenzó a bailar" y "la tierra sonreía". <!-- feedback: Correcto (acción humana atribuida a elementos naturales). -->
 - [ ] C) "Las gotas saltaban de hoja en hoja". <!-- feedback: Incorrecto. -->
@@ -124,12 +136,13 @@ Identificación de la personificación (atribuir acciones humanas a objetos o fe
 ## Question 6 [D5 - Análisis de metáfora]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué significa "sus ojos, dos carbones apagados" en el Texto B?
 
-### Options
+### Opciones
 - [ ] A) Que sus ojos brillaban. <!-- feedback: Incorrecto. -->
 - [x] B) Que sus ojos estaban opacos, sin vida, como carbón que ya no arde. <!-- feedback: Correcto. -->
 - [ ] C) Que tenía ojos de color negro. <!-- feedback: Incorrecto. -->
@@ -141,12 +154,13 @@ Interpretación del significado de una metáfora visual.
 ## Question 7 [D5 - Análisis]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 En el Texto B, ¿qué revela la metáfora "su cuerpo era un acordeón" sobre Petra?
 
-### Options
+### Opciones
 - [ ] A) Que Petra era musical. <!-- feedback: Incorrecto. -->
 - [x] B) Que el cuerpo de Petra se movía rítmicamente al caminar, como un acordeón se expande y comprime. <!-- feedback: Correcto. -->
 - [ ] C) Que Petra tocaba el acordeón. <!-- feedback: Incorrecto. -->
@@ -158,12 +172,13 @@ Interpretación de metáfora de movimiento.
 ## Question 8 [D5 - Símil]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 En el Texto C, "tus carros rugen como leones enjaulados" es un símil. ¿Qué sensación transmite?
 
-### Options
+### Opciones
 - [ ] A) Tranquilidad. <!-- feedback: Incorrecto. -->
 - [x] B) Ruido, violencia y encierro, comparando los carros con animales salvajes atrapados. <!-- feedback: Correcto. -->
 - [ ] C) Libertad. <!-- feedback: Incorrecto. -->
@@ -175,12 +190,13 @@ Interpretación del efecto sensorial y emocional de un símil.
 ## Question 9 [D5 - Metáfora]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 En el Texto C, "el río es una cinta plateada que cose los montes". ¿Qué imagen crea esta metáfora?
 
-### Options
+### Opciones
 - [ ] A) Un río sucio. <!-- feedback: Incorrecto. -->
 - [ ] B) Un río delgado, brillante y serpenteante que conecta las montañas. <!-- feedback: Correcto. -->
 - [ ] C) Un río seco. <!-- feedback: Incorrecto. -->
@@ -192,12 +208,13 @@ Interpretación de metáfora visual y de conexión geográfica.
 ## Question 10 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 En el Texto B, "cuando el silencio abrazaba la montaña" contiene:
 
-### Options
+### Opciones
 - [ ] A) Símil. <!-- feedback: Incorrecto. -->
 - [ ] B) Metáfora. <!-- feedback: Incorrecto (aunque hay una implícita, "abrazaba" es la figura principal). -->
 - [x] C) Personificación (el silencio, abstracto, realiza la acción humana de abrazar). <!-- feedback: Correcto. -->
@@ -209,12 +226,13 @@ Identificación de la personificación de un concepto abstracto.
 ## Question 11 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 En el Texto C, "tus edificios son dientes de cemento que muerden el cielo". ¿Qué visión de la ciudad transmite el niño?
 
-### Options
+### Opciones
 - [ ] A) Una ciudad amigable. <!-- feedback: Incorrecto. -->
 - [x] B) Una ciudad agresiva, amenazante, que invade el espacio natural. <!-- feedback: Correcto. -->
 - [ ] C) Una ciudad colorida. <!-- feedback: Incorrecto. -->
@@ -226,12 +244,13 @@ Interpretación del significado simbólico de una metáfora extendida.
 ## Question 12 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué recurso une todos los elementos del Texto A?
 
-### Options
+### Opciones
 - [ ] A) Símiles solamente. <!-- feedback: Incorrecto. -->
 - [ ] B) Metáforas solamente. <!-- feedback: Incorrecto. -->
 - [x] C) Una combinación de metáforas, símiles y personificaciones que crean una atmósfera vívida. <!-- feedback: Correcto. -->
@@ -243,12 +262,13 @@ Análisis de la combinación de recursos literarios en un texto.
 ## Question 13 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 En el Texto B, ¿qué figuras literarias se usan para describir a Petra?
 
-### Options
+### Opciones
 - [ ] A) Solo símiles. <!-- feedback: Incorrecto. -->
 - [x] B) Metáforas ("carbones apagados", "acordeón", "motor", "estatua") y personificación ("se negaba a parar"). <!-- feedback: Correcto. -->
 - [ ] C) Solo onomatopeyas. <!-- feedback: Incorrecto. -->
@@ -260,12 +280,13 @@ Identificación múltiple de recursos en un mismo texto.
 ## Question 14 [D6 - Evaluación]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Por qué los autores prefieren usar metáforas y símiles en lugar de descripciones literales?
 
-### Options
+### Opciones
 - [ ] A) Para hacer el texto más confuso. <!-- feedback: Incorrecto. -->
 - [x] B) Para crear imágenes más poderosas y sugerir significados más profundos. <!-- feedback: Correcto. -->
 - [ ] C) Para ahorrar palabras. <!-- feedback: Incorrecto. -->
@@ -277,12 +298,13 @@ Reflexión sobre la función estética y comunicativa del lenguaje figurado.
 ## Question 15 [D6]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Qué sentimiento sobre el campo transmite el Texto C del niño?
 
-### Options
+### Opciones
 - [ ] A) Aburrimiento. <!-- feedback: Incorrecto. -->
 - [ ] B) Miedo. <!-- feedback: Incorrecto. -->
 - [x] C) Paz, conexión y maravilla por la naturaleza. <!-- feedback: Correcto. -->

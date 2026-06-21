@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "repaso-p3"
-semana: "W15"
+week: "W15"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Repaso culturas precolombinas y poblamiento de America"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W15-repaso-p3-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por donde llegaron los primeros pobladores a America segun la teoria principal?
@@ -39,12 +44,13 @@ El estrecho de Bering entre Siberia (Asia) y Alaska (America).
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W15-repaso-p3-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cual cultura precolombina habito la Sierra Nevada de Santa Marta?
@@ -60,12 +66,13 @@ Los Taironas construyeron terrazas y caminos de piedra en la Sierra Nevada.
 
 ---
 
-## Pregunta 3 [D1]
+## Question 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W15-repaso-p3-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cual era la base de la economia de las culturas precolombinas colombianas?
@@ -81,12 +88,13 @@ Taironas, Muiscas y Quimbayas practicaban agricultura sedentaria.
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W15-repaso-p3-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Donde se desarrollo la cultura Muisca?
@@ -102,12 +110,13 @@ Los Muiscas vivian en el altiplano frio de Cundinamarca y Boyaca.
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W15-repaso-p3-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cual cultura es famosa por su orfebreria en oro, especialmente el Poporo?
@@ -123,12 +132,13 @@ Los Quimbayas del Eje Cafetero crearon el Poporo Quimbaya, joya del Museo del Or
 
 ---
 
-## Pregunta 6 [D3]
+## Question 6 [D3]
 
 **ID:** `CO-SOC-5-2026-W15-repaso-p3-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que significo el poblamiento de America para las culturas del mundo?
@@ -144,12 +154,13 @@ El poblamiento humano dio origen a cientos de culturas diferentes en America.
 
 ---
 
-## Pregunta 7 [D1]
+## Question 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W15-repaso-p3-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Como se llamaba el gobernante Muisca del sur?
@@ -165,12 +176,13 @@ El Zipa gobernaba el sur de la confederacion Muisca; el Zaque gobernaba el norte
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W15-repaso-p3-001-MASTERY-v8`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que tecnica usaban los Quimbayas para trabajar el oro?
@@ -186,12 +198,13 @@ La tecnica de la cera perdida consistia en hacer un molde de cera, cubrirlo con 
 
 ---
 
-## Pregunta 9 [D4]
+## Question 9 [D4]
 
 **ID:** `CO-SOC-5-2026-W15-repaso-p3-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Compara Taironas y Quimbayas: que tenian en comun?
@@ -207,12 +220,13 @@ Tanto Taironas como Quimbayas desarrollaron una importante orfebreria.
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W15-repaso-p3-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por que es importante estudiar las culturas precolombinas de Colombia?

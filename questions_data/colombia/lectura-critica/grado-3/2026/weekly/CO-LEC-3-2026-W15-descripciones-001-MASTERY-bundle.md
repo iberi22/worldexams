@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W15-descripciones-001-MASTERY"
+id: "CO-LEC-3-2026-W15-descripciones-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 15
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Descripciones
 
@@ -25,6 +30,7 @@ Este bundle evalúa la capacidad de identificar detalles en descripciones de per
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Mi abuela tiene el cabello blanco como la nieve, usa unos lentes redondos que se le bajan hasta la nariz y siempre huele a canela y flores frescas".
@@ -32,7 +38,7 @@ Este bundle evalúa la capacidad de identificar detalles en descripciones de per
 ### Enunciado
 ¿A qué se compara el color del cabello de la abuela en el texto?
 
-### Options
+### Opciones
 - [ ] A) A las flores frescas. <!-- feedback: Incorrecto. Ese es el olor, no el color del cabello. -->
 - [ ] B) A la canela. <!-- feedback: Incorrecto. La canela es café, y el cabello es blanco. -->
 - [x] C) A la nieve. <!-- feedback: ¡Correcto! El texto usa la comparación "blanco como la nieve" para describir el color. -->
@@ -48,6 +54,7 @@ La identificación de comparaciones literales ayuda a precisar las característi
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **El Parque Explora (Medellín)**
@@ -56,7 +63,7 @@ La identificación de comparaciones literales ayuda a precisar las característi
 ### Enunciado
 Según el texto, ¿qué característica **visual** tiene el edificio del Parque Explora?
 
-### Options
+### Opciones
 - [ ] A) Es una casa pequeña de madera. <!-- feedback: Incorrecto. El texto dice que es un edificio de color rojo vibrante. -->
 - [x] B) Es de color rojo y tiene forma de cajas grandes. <!-- feedback: ¡Correcto! Estas son las características físicas mencionadas al principio de la descripción. -->
 - [ ] C) Es un lugar donde hace mucho frío. <!-- feedback: Incorrecto. No se menciona la temperatura en el texto. -->
@@ -72,6 +79,7 @@ Localizar rasgos físicos en la descripción de un lugar permite al estudiante c
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "La mochila de Juan es **resistente**, **espaciosa** y de color **azul oscuro**. Tiene muchos bolsillos para guardar los lápices y un dibujo de un cohete en la parte de adelante".
@@ -79,7 +87,7 @@ Localizar rasgos físicos en la descripción de un lugar permite al estudiante c
 ### Enunciado
 ¿Para qué sirven las palabras resaltadas en negrita (**resistente, espaciosa, azul oscuro**)?
 
-### Options
+### Opciones
 - [ ] A) Para decirnos quién es el dueño de la mochila. <!-- feedback: Incorrecto. El dueño es Juan, pero esas palabras no hablan de él. -->
 - [x] B) Para darnos detalles sobre cómo es el objeto. <!-- feedback: ¡Correcto! Son adjetivos que describen las cualidades y la apariencia de la mochila. -->
 - [ ] C) Para explicar cómo se debe lavar la mochila. <!-- feedback: Incorrecto. No dan instrucciones de limpieza. -->
@@ -95,6 +103,7 @@ Reconocer la función de los adjetivos calificativos es esencial para entender e
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "El tucán tiene un pico **enorme** y **colorido**. Sus plumas son **negras** como el carbón, pero en su cuello tiene una mancha **amarilla** muy brillante".
@@ -102,7 +111,7 @@ Reconocer la función de los adjetivos calificativos es esencial para entender e
 ### Enunciado
 Si tuvieras que dibujar al tucán siguiendo esta descripción, ¿qué color **no deberías** usar para su cuerpo principal?
 
-### Options
+### Opciones
 - [ ] A) Negro. <!-- feedback: Incorrecto. El texto dice que sus plumas son negras, así que sí debes usarlo. -->
 - [ ] B) Amarillo. <!-- feedback: Incorrecto. El texto menciona una mancha amarilla en el cuello. -->
 - [x] C) Verde. <!-- feedback: ¡Correcto! La descripción no menciona el color verde en ninguna parte del cuerpo del tucán. -->
@@ -118,6 +127,7 @@ La transferencia de información del texto a una imagen mental (o un posible dib
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Adivina el animal: "Es un animal doméstico, muy **leal** y **protector**. Tiene el olfato muy desarrollado, le gusta ladrar cuando ve extraños y mueve la cola cuando está feliz".
@@ -125,7 +135,7 @@ Adivina el animal: "Es un animal doméstico, muy **leal** y **protector**. Tiene
 ### Enunciado
 ¿A qué animal corresponde esta descripción?
 
-### Options
+### Opciones
 - [ ] A) Al gato. <!-- feedback: Incorrecto. Los gatos maúllan, no ladran. -->
 - [x] B) Al perro. <!-- feedback: ¡Correcto! Ladrar y mover la cola de felicidad son características típicas de los perros descritas en el texto. -->
 - [ ] C) Al caballo. <!-- feedback: Incorrecto. El caballo relincha y es un animal de granja, no se describe típicamente por ladrar. -->
@@ -141,6 +151,7 @@ Las adivinanzas descriptivas requieren que el estudiante integre varias pistas p
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "El clima en la ciudad de Leticia es **caluroso** y **húmedo**. Casi todos los días llueve por la tarde, lo que hace que la selva que la rodea se vea siempre de un verde intenso".
@@ -148,7 +159,7 @@ Las adivinanzas descriptivas requieren que el estudiante integre varias pistas p
 ### Enunciado
 ¿Cuál es la consecuencia de la lluvia frecuente en Leticia según el texto?
 
-### Options
+### Opciones
 - [ ] A) Que la gente tiene que usar abrigos de lana. <!-- feedback: Incorrecto. El clima es caluroso, no frío. -->
 - [x] B) Que la vegetación de la selva se mantenga con un color verde muy fuerte. <!-- feedback: ¡Correcto! El texto vincula la lluvia con el color "verde intenso" de la selva. -->
 - [ ] C) Que los ríos se sequen rápidamente. <!-- feedback: Incorrecto. La lluvia llena los ríos, no los seca. -->
@@ -164,6 +175,7 @@ Comprender la relación entre las características ambientales (lluvia) y sus ef
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Dos descripciones de una manzana:**
@@ -173,7 +185,7 @@ Comprender la relación entre las características ambientales (lluvia) y sus ef
 ### Enunciado
 ¿En qué se diferencian estas dos descripciones?
 
-### Options
+### Opciones
 - [ ] A) La primera habla de una manzana y la segunda de una pera. <!-- feedback: Incorrecto. Ambas están describiendo la misma fruta (manzana). -->
 - [x] B) La primera describe cómo se ve (apariencia) y la segunda describe cómo se siente al comerla (experiencia). <!-- feedback: ¡Correcto! Se enfocan en sentidos diferentes: la vista frente al gusto y el tacto. -->
 - [ ] C) La segunda descripción es mentira porque las frutas no dan energía. <!-- feedback: Incorrecto. Las frutas sí aportan energía a través de sus azúcares naturales. -->
@@ -189,6 +201,7 @@ Analizar los enfoques sensoriales de una descripción permite al estudiante ente
 **Bloom:** Evaluate
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un autor escribe: "El viejo pueblo parecía dormido bajo el sol del mediodía. Las calles estaban vacías y el único sonido era el canto lejano de una cigarra".
@@ -196,7 +209,7 @@ Un autor escribe: "El viejo pueblo parecía dormido bajo el sol del mediodía. L
 ### Enunciado
 ¿Qué sensación o estado de ánimo intenta transmitir el autor con esta descripción?
 
-### Options
+### Opciones
 - [ ] A) Mucha alegría y fiesta. <!-- feedback: Incorrecto. Las calles vacías y el silencio no sugieren una fiesta. -->
 - [x] B) Tranquilidad, calma o soledad. <!-- feedback: ¡Correcto! Las palabras "dormido", "vacías" y "único sonido" crean una atmósfera de mucha paz y poco movimiento. -->
 - [ ] C) Miedo y terror. <!-- feedback: Incorrecto. Aunque hay silencio, la descripción del sol y el canto de la cigarra no son elementos de terror. -->

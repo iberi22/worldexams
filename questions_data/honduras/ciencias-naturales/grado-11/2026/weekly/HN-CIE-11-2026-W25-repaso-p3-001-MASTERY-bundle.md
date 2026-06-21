@@ -22,6 +22,7 @@ tier: "legacy"
 creador: "Jules-Agent"
 ---
 
+
 # Bundle MASTERY: Repaso P3 - Grado 11
 
 Este bundle contiene 20 preguntas sobre **repaso p3** para grado 11,
@@ -40,14 +41,13 @@ alineadas con el CNB Honduras (Curriculo Nacional Basico) para Bachillerato 2026
 ¿Cuál es la función principal de las mitocondrias en una célula eucariota?
 
 ### Opciones
-- [ ] A) Realizar la síntesis de proteínas.
-  <!-- feedback: Incorrecto. Esa es la función de los ribosomas. -->
-- [x] B) Producir energía mediante la respiración celular.
-  <!-- feedback: ¡Correcto! Las mitocondrias transforman la energía química de los alimentos en ATP. -->
-- [ ] C) Almacenar la información genética.
-  <!-- feedback: Incorrecto. Esa es la función del núcleo. -->
-- [ ] D) Regular el paso de sustancias hacia el exterior.
-  <!-- feedback: Incorrecto. Esa es la función de la membrana plasmática. -->
+- [ ] A) Realizar la síntesis de proteínas. <!-- feedback: Incorrecto. Realizar la síntesis de proteínas. -->
+
+- [x] B) Producir energía mediante la respiración celular. <!-- feedback: Correcto! Producir energía mediante la respiración celular. -->
+
+- [ ] C) Almacenar la información genética. <!-- feedback: Incorrecto. Almacenar la información genética. -->
+
+- [ ] D) Regular el paso de sustancias hacia el exterior. <!-- feedback: Incorrecto. Regular el paso de sustancias hacia el e -->
 
 ### Explicacion Pedagogica
 Las mitocondrias son conocidas como las centrales energéticas de la célula. En ellas se lleva a cabo el ciclo de Krebs y la cadena de transporte de electrones para obtener ATP.
@@ -65,14 +65,13 @@ Las mitocondrias son conocidas como las centrales energéticas de la célula. En
 ¿Cómo se denomina la relación simbiótica donde ambos organismos obtienen un beneficio, como las abejas polinizando flores de café?
 
 ### Opciones
-- [ ] A) Comensalismo
-  <!-- feedback: Incorrecto. En el comensalismo, uno se beneficia y el otro es indiferente. -->
-- [ ] B) Parasitismo
-  <!-- feedback: Incorrecto. En el parasitismo, uno se beneficia a costa del daño del otro. -->
-- [x] C) Mutualismo
-  <!-- feedback: ¡Correcto! Ambos organismos cooperan y se benefician mutuamente. -->
-- [ ] D) Competencia
-  <!-- feedback: Incorrecto. En la competencia, ambos luchan por un recurso limitado. -->
+- [ ] A) Comensalismo <!-- feedback: Incorrecto. Comensalismo -->
+
+- [ ] B) Parasitismo <!-- feedback: Incorrecto. Parasitismo -->
+
+- [x] C) Mutualismo <!-- feedback: Correcto! Mutualismo -->
+
+- [ ] D) Competencia <!-- feedback: Incorrecto. Competencia -->
 
 ### Explicacion Pedagogica
 El mutualismo es una interacción biológica vital para muchos ecosistemas hondureños, permitiendo la supervivencia y reproducción de múltiples especies.
@@ -90,14 +89,13 @@ El mutualismo es una interacción biológica vital para muchos ecosistemas hondu
 Si una planta de maíz con semillas amarillas dominantes (AA) se cruza con una de semillas blancas recesivas (aa), ¿cuál será el fenotipo de la primera generación (F1)?
 
 ### Opciones
-- [ ] A) 50% amarillas y 50% blancas.
-  <!-- feedback: Incorrecto. Según la ley de uniformidad, el rasgo dominante prevalece en F1. -->
-- [x] B) 100% amarillas.
-  <!-- feedback: ¡Correcto! Todos los descendientes serán heterocigotos (Aa) expresando el color dominante. -->
-- [ ] C) 100% blancas.
-  <!-- feedback: Incorrecto. El blanco es el rasgo recesivo y queda enmascarado. -->
-- [ ] D) 25% amarillas y 75% blancas.
-  <!-- feedback: Incorrecto. No sigue las proporciones mendelianas para este cruce. -->
+- [ ] A) 50% amarillas y 50% blancas. <!-- feedback: Incorrecto. 50% amarillas y 50% blancas. -->
+
+- [x] B) 100% amarillas. <!-- feedback: Correcto! 100% amarillas. -->
+
+- [ ] C) 100% blancas. <!-- feedback: Incorrecto. 100% blancas. -->
+
+- [ ] D) 25% amarillas y 75% blancas. <!-- feedback: Incorrecto. 25% amarillas y 75% blancas. -->
 
 ### Explicacion Pedagogica
 Según la Primera Ley de Mendel, al cruzar dos líneas puras para un carácter diferente, todos los descendientes son iguales entre sí (Aa) y muestran el rasgo dominante.
@@ -115,14 +113,13 @@ Según la Primera Ley de Mendel, al cruzar dos líneas puras para un carácter d
 ¿Qué tipo de organismos son los principales responsables de la fijación del nitrógeno atmosférico para que pueda ser absorbido por las plantas?
 
 ### Opciones
-- [ ] A) Hongos descomponedores.
-  <!-- feedback: Incorrecto. Los hongos participan en la amonificación pero no fijan nitrógeno gaseoso. -->
-- [x] B) Bacterias nitrificantes y fijadoras.
-  <!-- feedback: ¡Correcto! Bacterias como Rhizobium en las raíces de leguminosas realizan esta función. -->
-- [ ] C) Plantas con flores.
-  <!-- feedback: Incorrecto. Las plantas dependen de las bacterias para obtener nitrógeno utilizable. -->
-- [ ] D) Animales herbívoros.
-  <!-- feedback: Incorrecto. Los animales obtienen nitrógeno al comer plantas. -->
+- [ ] A) Hongos descomponedores. <!-- feedback: Incorrecto. Hongos descomponedores. -->
+
+- [x] B) Bacterias nitrificantes y fijadoras. <!-- feedback: Correcto! Bacterias nitrificantes y fijadoras. -->
+
+- [ ] C) Plantas con flores. <!-- feedback: Incorrecto. Plantas con flores. -->
+
+- [ ] D) Animales herbívoros. <!-- feedback: Incorrecto. Animales herbívoros. -->
 
 ### Explicacion Pedagogica
 La fijación del nitrógeno es un proceso bioquímico esencial donde microorganismos convierten el N2 atmosférico en amoníaco o nitratos, esenciales para la síntesis de proteínas vegetales.
@@ -140,14 +137,13 @@ La fijación del nitrógeno es un proceso bioquímico esencial donde microorgani
 ¿Cuál es la causa química principal del blanqueamiento de los corales debido al aumento de CO2 en el océano?
 
 ### Opciones
-- [ ] A) El aumento de la salinidad del agua.
-  <!-- feedback: Incorrecto. La salinidad no es el factor determinante en el blanqueamiento por CO2. -->
-- [ ] B) El exceso de oxígeno disuelto.
-  <!-- feedback: Incorrecto. El oxígeno no causa el blanqueamiento. -->
-- [x] C) La acidificación del océano por formación de ácido carbónico.
-  <!-- feedback: ¡Correcto! El CO2 reacciona con el agua bajando el pH, lo que estresa al coral. -->
-- [ ] D) La disminución de la luz solar en el fondo marino.
-  <!-- feedback: Incorrecto. El blanqueamiento está más ligado a temperatura y química del agua. -->
+- [ ] A) El aumento de la salinidad del agua. <!-- feedback: Incorrecto. El aumento de la salinidad del agua. -->
+
+- [ ] B) El exceso de oxígeno disuelto. <!-- feedback: Incorrecto. El exceso de oxígeno disuelto. -->
+
+- [x] C) La acidificación del océano por formación de ácido carbónico. <!-- feedback: Correcto! La acidificación del océano por formación de ácido carbónico -->
+
+- [ ] D) La disminución de la luz solar en el fondo marino. <!-- feedback: Incorrecto. La disminución de la luz solar en el fon -->
 
 ### Explicacion Pedagogica
 La acidificación oceánica dificulta que los organismos marinos, como los corales, construyan sus esqueletos de carbonato de calcio, amenazando la biodiversidad de Roatán y Utila.
@@ -165,14 +161,13 @@ La acidificación oceánica dificulta que los organismos marinos, como los coral
 ¿Cuál es el nombre de la placa tectónica que subduce bajo la Placa del Caribe en la costa pacífica centroamericana?
 
 ### Opciones
-- [ ] A) Placa de Nazca
-  <!-- feedback: Incorrecto. Esta placa afecta principalmente a Suramérica. -->
-- [x] B) Placa de Cocos
-  <!-- feedback: ¡Correcto! Es la responsable de la actividad volcánica y sísmica en el Pacífico de Honduras. -->
-- [ ] C) Placa Norteamericana
-  <!-- feedback: Incorrecto. El límite con esta placa se encuentra más al norte. -->
-- [ ] D) Placa de Scotia
-  <!-- feedback: Incorrecto. Se encuentra en el extremo sur del continente. -->
+- [ ] A) Placa de Nazca <!-- feedback: Incorrecto. Placa de Nazca -->
+
+- [x] B) Placa de Cocos <!-- feedback: Correcto! Placa de Cocos -->
+
+- [ ] C) Placa Norteamericana <!-- feedback: Incorrecto. Placa Norteamericana -->
+
+- [ ] D) Placa de Scotia <!-- feedback: Incorrecto. Placa de Scotia -->
 
 ### Explicacion Pedagogica
 La interacción entre la Placa de Cocos y la Placa del Caribe es un proceso dinámico fundamental que da forma al relieve y la geología de la región sur de Honduras.
@@ -190,14 +185,13 @@ La interacción entre la Placa de Cocos y la Placa del Caribe es un proceso din�
 ¿Cuál es el elemento químico fundamental que define a todos los compuestos orgánicos y permite la formación de cadenas largas?
 
 ### Opciones
-- [ ] A) Oxígeno
-  <!-- feedback: Incorrecto. El oxígeno es común pero no es la base de las cadenas orgánicas. -->
-- [ ] B) Hidrógeno
-  <!-- feedback: Incorrecto. Aunque acompaña al carbono, no es el elemento central estructurador. -->
-- [x] C) Carbono
-  <!-- feedback: ¡Correcto! Su capacidad de tetravalencia le permite formar estructuras complejas. -->
-- [ ] D) Nitrógeno
-  <!-- feedback: Incorrecto. Se encuentra en proteínas, pero el esqueleto es de carbono. -->
+- [ ] A) Oxígeno <!-- feedback: Incorrecto. Oxígeno -->
+
+- [ ] B) Hidrógeno <!-- feedback: Incorrecto. Hidrógeno -->
+
+- [x] C) Carbono <!-- feedback: Correcto! Carbono -->
+
+- [ ] D) Nitrógeno <!-- feedback: Incorrecto. Nitrógeno -->
 
 ### Explicacion Pedagogica
 La química del carbono es la base de la vida. Su capacidad para formar enlaces covalentes estables con otros átomos de carbono permite la diversidad de biomoléculas.
@@ -215,14 +209,13 @@ La química del carbono es la base de la vida. Su capacidad para formar enlaces 
 Según la Segunda Ley de Newton, si un camión de 5000 kg desea acelerar a 2 m/s², ¿qué fuerza neta debe aplicar el motor?
 
 ### Opciones
-- [ ] A) 2500 N
-  <!-- feedback: Incorrecto. Dividiste la masa entre la aceleración. -->
-- [ ] B) 5002 N
-  <!-- feedback: Incorrecto. Sumaste los valores en lugar de multiplicarlos. -->
-- [x] C) 10000 N
-  <!-- feedback: ¡Correcto! F = m * a. 5000 kg * 2 m/s² = 10000 N. -->
-- [ ] D) 1000 N
-  <!-- feedback: Incorrecto. Error en la operación aritmética. -->
+- [ ] A) 2500 N <!-- feedback: Incorrecto. 2500 N -->
+
+- [ ] B) 5002 N <!-- feedback: Incorrecto. 5002 N -->
+
+- [x] C) 10000 N <!-- feedback: Correcto! 10000 N -->
+
+- [ ] D) 1000 N <!-- feedback: Incorrecto. 1000 N -->
 
 ### Explicacion Pedagogica
 La fuerza es directamente proporcional al producto de la masa por la aceleración (F=ma). Este concepto es crucial para la seguridad vial y el diseño de vehículos en Honduras.
@@ -240,14 +233,13 @@ La fuerza es directamente proporcional al producto de la masa por la aceleració
 ¿Cuál es la transformación de energía principal que ocurre cuando el agua cae desde una altura y mueve las turbinas para generar electricidad?
 
 ### Opciones
-- [ ] A) Energía química a energía lumínica.
-  <!-- feedback: Incorrecto. No hay reacciones químicas involucradas en la caída del agua. -->
-- [x] B) Energía potencial gravitatoria a energía cinética y luego eléctrica.
-  <!-- feedback: ¡Correcto! La altura (potencial) se convierte en movimiento (cinética) y luego en electricidad. -->
-- [ ] C) Energía nuclear a energía térmica.
-  <!-- feedback: Incorrecto. La hidroelectricidad no usa fisión nuclear. -->
-- [ ] D) Energía sonora a energía mecánica.
-  <!-- feedback: Incorrecto. El sonido es una consecuencia, no la fuente de energía. -->
+- [ ] A) Energía química a energía lumínica. <!-- feedback: Incorrecto. Energía química a energía lumínica. -->
+
+- [x] B) Energía potencial gravitatoria a energía cinética y luego eléctrica. <!-- feedback: Correcto! Energía potencial gravitatoria a energía cinética y luego el -->
+
+- [ ] C) Energía nuclear a energía térmica. <!-- feedback: Incorrecto. Energía nuclear a energía térmica. -->
+
+- [ ] D) Energía sonora a energía mecánica. <!-- feedback: Incorrecto. Energía sonora a energía mecánica. -->
 
 ### Explicacion Pedagogica
 Las plantas hidroeléctricas aprovechan el ciclo hidrológico y la gravedad para producir energía limpia y renovable, fundamental para la red eléctrica hondureña.
@@ -265,14 +257,13 @@ Las plantas hidroeléctricas aprovechan el ciclo hidrológico y la gravedad para
 ¿Qué tipo de células sanguíneas son las responsables de producir anticuerpos para combatir infecciones virales o bacterianas?
 
 ### Opciones
-- [ ] A) Eritrocitos (Glóbulos rojos)
-  <!-- feedback: Incorrecto. Su función es transportar oxígeno. -->
-- [x] B) Linfocitos B
-  <!-- feedback: ¡Correcto! Son los glóbulos blancos especializados en la producción de anticuerpos específicos. -->
-- [ ] C) Trombocitos (Plaquetas)
-  <!-- feedback: Incorrecto. Su función es la coagulación sanguínea. -->
-- [ ] D) Neuronas
-  <!-- feedback: Incorrecto. Son células del sistema nervioso, no del sistema inmune. -->
+- [ ] A) Eritrocitos (Glóbulos rojos) <!-- feedback: Incorrecto. Eritrocitos (Glóbulos rojos) -->
+
+- [x] B) Linfocitos B <!-- feedback: Correcto! Linfocitos B -->
+
+- [ ] C) Trombocitos (Plaquetas) <!-- feedback: Incorrecto. Trombocitos (Plaquetas) -->
+
+- [ ] D) Neuronas <!-- feedback: Incorrecto. Neuronas -->
 
 ### Explicacion Pedagogica
 Los linfocitos B forman parte de la inmunidad adaptativa. Cuando detectan un antígeno, se activan y secretan anticuerpos que neutralizan al patógeno.
@@ -290,14 +281,13 @@ Los linfocitos B forman parte de la inmunidad adaptativa. Cuando detectan un ant
 Si una estufa eléctrica funciona con un voltaje de 220 V y circula una corriente de 10 A, ¿cuál es su potencia eléctrica consumida?
 
 ### Opciones
-- [ ] A) 22 W
-  <!-- feedback: Incorrecto. Dividiste los valores en lugar de multiplicarlos. -->
-- [x] B) 2200 W
-  <!-- feedback: ¡Correcto! P = V * I. 220 V * 10 A = 2200 W. -->
-- [ ] C) 210 W
-  <!-- feedback: Incorrecto. Restaste los valores. -->
-- [ ] D) 230 W
-  <!-- feedback: Incorrecto. Sumaste los valores. -->
+- [ ] A) 22 W <!-- feedback: Incorrecto. 22 W -->
+
+- [x] B) 2200 W <!-- feedback: Correcto! 2200 W -->
+
+- [ ] C) 210 W <!-- feedback: Incorrecto. 210 W -->
+
+- [ ] D) 230 W <!-- feedback: Incorrecto. 230 W -->
 
 ### Explicacion Pedagogica
 La potencia eléctrica es el ritmo al que se consume energía y se calcula multiplicando el voltaje por la intensidad de corriente.
@@ -315,14 +305,13 @@ La potencia eléctrica es el ritmo al que se consume energía y se calcula multi
 ¿Qué gas es el principal responsable de la lluvia ácida cuando reacciona con el agua en la atmósfera, dañando monumentos y bosques?
 
 ### Opciones
-- [ ] A) Metano (CH4)
-  <!-- feedback: Incorrecto. El metano es un gas de efecto invernadero pero no causa lluvia ácida directamente. -->
-- [x] B) Dióxido de azufre (SO2)
-  <!-- feedback: ¡Correcto! Forma ácido sulfúrico al entrar en contacto con el vapor de agua. -->
-- [ ] C) Vapor de agua
-  <!-- feedback: Incorrecto. El agua es el medio, no la causa de la acidez dañina. -->
-- [ ] D) Argón (Ar)
-  <!-- feedback: Incorrecto. Es un gas noble que no reacciona. -->
+- [ ] A) Metano (CH4) <!-- feedback: Incorrecto. Metano (CH4) -->
+
+- [x] B) Dióxido de azufre (SO2) <!-- feedback: Correcto! Dióxido de azufre (SO2) -->
+
+- [ ] C) Vapor de agua <!-- feedback: Incorrecto. Vapor de agua -->
+
+- [ ] D) Argón (Ar) <!-- feedback: Incorrecto. Argón (Ar) -->
 
 ### Explicacion Pedagogica
 Las emisiones de azufre y nitrógeno de las industrias y vehículos motorizados son las precursoras de la acidificación de las precipitaciones a nivel global.
@@ -340,14 +329,13 @@ Las emisiones de azufre y nitrógeno de las industrias y vehículos motorizados 
 ¿Hacia dónde se moverá el agua si colocamos una célula en una solución hipertónica (donde la concentración de solutos es mayor afuera que adentro)?
 
 ### Opciones
-- [ ] A) El agua entrará a la célula, haciendo que se hinche.
-  <!-- feedback: Incorrecto. Esto ocurre en soluciones hipotónicas. -->
-- [x] B) El agua saldrá de la célula, haciendo que se encoja (crenación/plasmólisis).
-  <!-- feedback: ¡Correcto! El agua siempre se mueve de menor a mayor concentración de solutos. -->
-- [ ] C) No habrá movimiento de agua en absoluto.
-  <!-- feedback: Incorrecto. Solo en soluciones isotónicas el flujo neto es cero. -->
-- [ ] D) El soluto entrará a la célula rápidamente.
-  <!-- feedback: Incorrecto. El enunciado pregunta por el movimiento del solvente (agua). -->
+- [ ] A) El agua entrará a la célula, haciendo que se hinche. <!-- feedback: Incorrecto. El agua entrará a la célula, haciendo qu -->
+
+- [x] B) El agua saldrá de la célula, haciendo que se encoja (crenación/plasmólisis). <!-- feedback: Correcto! El agua saldrá de la célula, haciendo que se encoja (crenaci -->
+
+- [ ] C) No habrá movimiento de agua en absoluto. <!-- feedback: Incorrecto. No habrá movimiento de agua en absoluto. -->
+
+- [ ] D) El soluto entrará a la célula rápidamente. <!-- feedback: Incorrecto. El soluto entrará a la célula rápidament -->
 
 ### Explicacion Pedagogica
 La ósmosis es un proceso pasivo crucial para mantener el equilibrio hídrico celular. En una solución hipertónica, la célula pierde agua por diferencia de presión osmótica.
@@ -365,14 +353,13 @@ La ósmosis es un proceso pasivo crucial para mantener el equilibrio hídrico ce
 ¿Cuál es el factor principal que genera las corrientes superficiales en los océanos?
 
 ### Opciones
-- [x] A) Los vientos predominantes (alisios).
-  <!-- feedback: ¡Correcto! El viento arrastra las capas superiores de agua debido a la fricción. -->
-- [ ] B) Las mareas causadas por la luna.
-  <!-- feedback: Incorrecto. Las mareas son movimientos verticales y rítmicos, no corrientes constantes. -->
-- [ ] C) El movimiento de los barcos comerciales.
-  <!-- feedback: Incorrecto. La escala es insignificante comparada con los procesos oceánicos. -->
-- [ ] D) La pesca excesiva.
-  <!-- feedback: Incorrecto. No afecta los patrones de circulación física del agua. -->
+- [x] A) Los vientos predominantes (alisios). <!-- feedback: Correcto! Los vientos predominantes (alisios). -->
+
+- [ ] B) Las mareas causadas por la luna. <!-- feedback: Incorrecto. Las mareas causadas por la luna. -->
+
+- [ ] C) El movimiento de los barcos comerciales. <!-- feedback: Incorrecto. El movimiento de los barcos comerciales. -->
+
+- [ ] D) La pesca excesiva. <!-- feedback: Incorrecto. La pesca excesiva. -->
 
 ### Explicacion Pedagogica
 La circulación oceánica superficial es impulsada por la atmósfera, mientras que la profunda depende de diferencias de temperatura y salinidad (circulación termohalina).
@@ -390,14 +377,13 @@ La circulación oceánica superficial es impulsada por la atmósfera, mientras q
 ¿Cuál es la función vital que cumple la capa de ozono (O3) para los seres vivos en la superficie terrestre?
 
 ### Opciones
-- [ ] A) Absorber el dióxido de carbono para evitar el calor.
-  <!-- feedback: Incorrecto. El ozono no absorbe CO2. -->
-- [ ] B) Producir oxígeno para que podamos respirar.
-  <!-- feedback: Incorrecto. El O3 no es la fuente primaria de oxígeno respirable. -->
-- [x] C) Filtrar la mayor parte de la radiación ultravioleta B y C del sol.
-  <!-- feedback: ¡Correcto! Protege el ADN de daños que causan cáncer y mutaciones. -->
-- [ ] D) Reflejar la luz visible para iluminar la noche.
-  <!-- feedback: Incorrecto. El ozono no tiene esta propiedad óptica. -->
+- [ ] A) Absorber el dióxido de carbono para evitar el calor. <!-- feedback: Incorrecto. Absorber el dióxido de carbono para evit -->
+
+- [ ] B) Producir oxígeno para que podamos respirar. <!-- feedback: Incorrecto. Producir oxígeno para que podamos respir -->
+
+- [x] C) Filtrar la mayor parte de la radiación ultravioleta B y C del sol. <!-- feedback: Correcto! Filtrar la mayor parte de la radiación ultravioleta B y C de -->
+
+- [ ] D) Reflejar la luz visible para iluminar la noche. <!-- feedback: Incorrecto. Reflejar la luz visible para iluminar la -->
 
 ### Explicacion Pedagogica
 Sin la capa de ozono, la vida terrestre sería imposible debido al daño letal de los rayos UV de alta energía sobre las células.
@@ -415,14 +401,13 @@ Sin la capa de ozono, la vida terrestre sería imposible debido al daño letal d
 ¿Cómo se denominan los átomos de un mismo elemento que tienen el mismo número de protones pero diferente número de neutrones?
 
 ### Opciones
-- [ ] A) Iones
-  <!-- feedback: Incorrecto. Los iones tienen diferente número de electrones. -->
-- [x] B) Isótopos
-  <!-- feedback: ¡Correcto! Tienen diferentes masas atómicas pero las mismas propiedades químicas. -->
-- [ ] C) Isóbaros
-  <!-- feedback: Incorrecto. Tienen la misma masa pero diferentes protones. -->
-- [ ] D) Moléculas
-  <!-- feedback: Incorrecto. Una molécula es la unión de dos o más átomos. -->
+- [ ] A) Iones <!-- feedback: Incorrecto. Iones -->
+
+- [x] B) Isótopos <!-- feedback: Correcto! Isótopos -->
+
+- [ ] C) Isóbaros <!-- feedback: Incorrecto. Isóbaros -->
+
+- [ ] D) Moléculas <!-- feedback: Incorrecto. Moléculas -->
 
 ### Explicacion Pedagogica
 Los isótopos son fundamentales en aplicaciones que van desde la medicina nuclear hasta la datación de fósiles arqueológicos en Copán.
@@ -440,14 +425,13 @@ Los isótopos son fundamentales en aplicaciones que van desde la medicina nuclea
 ¿Cómo afecta la eliminación de la cobertura vegetal al riesgo de inundaciones y deslizamientos de tierra?
 
 ### Opciones
-- [ ] A) Disminuye el riesgo porque el suelo se seca más rápido.
-  <!-- feedback: Incorrecto. Las raíces ayudan a estabilizar el suelo. -->
-- [ ] B) No tiene ningún efecto en el ciclo del agua local.
-  <!-- feedback: Incorrecto. La vegetación es clave para la intercepción y transpiración. -->
-- [x] C) Aumenta el riesgo debido a que hay menos raíces que retengan el suelo y menos infiltración.
-  <!-- feedback: ¡Correcto! El agua corre superficialmente con más fuerza (escorrentía). -->
-- [ ] D) Mejora la fertilidad del suelo a largo plazo.
-  <!-- feedback: Incorrecto. La erosión quita la capa fértil (humus). -->
+- [ ] A) Disminuye el riesgo porque el suelo se seca más rápido. <!-- feedback: Incorrecto. Disminuye el riesgo porque el suelo se s -->
+
+- [ ] B) No tiene ningún efecto en el ciclo del agua local. <!-- feedback: Incorrecto. No tiene ningún efecto en el ciclo del a -->
+
+- [x] C) Aumenta el riesgo debido a que hay menos raíces que retengan el suelo y menos infiltración. <!-- feedback: Correcto! Aumenta el riesgo debido a que hay menos raíces que retengan -->
+
+- [ ] D) Mejora la fertilidad del suelo a largo plazo. <!-- feedback: Incorrecto. Mejora la fertilidad del suelo a largo p -->
 
 ### Explicacion Pedagogica
 Los bosques actúan como esponjas naturales. Al talarlos, el agua de lluvia llega rápidamente a los ríos y satura el suelo suelto, provocando desastres naturales.
@@ -465,14 +449,13 @@ Los bosques actúan como esponjas naturales. Al talarlos, el agua de lluvia lleg
 Si se disuelven 5 gramos de cloro en 1000 ml (1 litro) de agua, ¿cuál es el porcentaje masa/volumen (% m/v) de la solución resultante?
 
 ### Opciones
-- [ ] A) 5%
-  <!-- feedback: Incorrecto. Olvidaste que el volumen es 1000 ml. -->
-- [x] B) 0.5%
-  <!-- feedback: ¡Correcto! (5g / 1000ml) * 100 = 0.5%. -->
-- [ ] C) 0.05%
-  <!-- feedback: Incorrecto. Error en la división por 10. -->
-- [ ] D) 50%
-  <!-- feedback: Incorrecto. Error de escala masivo. -->
+- [ ] A) 5% <!-- feedback: Incorrecto. 5% -->
+
+- [x] B) 0.5% <!-- feedback: Correcto! 0.5% -->
+
+- [ ] C) 0.05% <!-- feedback: Incorrecto. 0.05% -->
+
+- [ ] D) 50% <!-- feedback: Incorrecto. 50% -->
 
 ### Explicacion Pedagogica
 El porcentaje m/v indica los gramos de soluto por cada 100 ml de solución. En este caso, 5g en 1000ml equivale a 0.5g en 100ml.
@@ -490,14 +473,13 @@ El porcentaje m/v indica los gramos de soluto por cada 100 ml de solución. En e
 Si una estrella presenta un "corrimiento al rojo" en su espectro de luz, ¿qué nos indica esto sobre su movimiento respecto a la Tierra?
 
 ### Opciones
-- [ ] A) Que la estrella se está acercando a nosotros rápidamente.
-  <!-- feedback: Incorrecto. Esto causaría un corrimiento al azul. -->
-- [x] B) Que la estrella se está alejando de nosotros.
-  <!-- feedback: ¡Correcto! El Efecto Doppler estira las ondas de luz hacia frecuencias más bajas (rojo). -->
-- [ ] C) Que la estrella va a explotar pronto.
-  <!-- feedback: Incorrecto. El corrimiento al rojo indica movimiento, no destino final estelar. -->
-- [ ] D) Que la estrella es más fría que el Sol.
-  <!-- feedback: Incorrecto. El color de la estrella indica temperatura, pero el "corrimiento" indica movimiento. -->
+- [ ] A) Que la estrella se está acercando a nosotros rápidamente. <!-- feedback: Incorrecto. Que la estrella se está acercando a noso -->
+
+- [x] B) Que la estrella se está alejando de nosotros. <!-- feedback: Correcto! Que la estrella se está alejando de nosotros. -->
+
+- [ ] C) Que la estrella va a explotar pronto. <!-- feedback: Incorrecto. Que la estrella va a explotar pronto. -->
+
+- [ ] D) Que la estrella es más fría que el Sol. <!-- feedback: Incorrecto. Que la estrella es más fría que el Sol. -->
 
 ### Explicacion Pedagogica
 El corrimiento al rojo es una prueba fundamental de la expansión del universo, permitiendo a los astrónomos medir la velocidad de alejamiento de las galaxias.
@@ -515,14 +497,13 @@ El corrimiento al rojo es una prueba fundamental de la expansión del universo, 
 ¿Cuál es la principal preocupación ética respecto a la edición de genes en la línea germinal (espermatozoides, óvulos o embriones)?
 
 ### Opciones
-- [ ] A) Que el procedimiento sea demasiado barato y accesible.
-  <!-- feedback: Incorrecto. El costo suele ser un obstáculo, no una preocupación de riesgo genético. -->
-- [x] B) Que los cambios introducidos sean permanentes y se hereden a todas las generaciones futuras.
-  <!-- feedback: ¡Correcto! Esto podría alterar el patrimonio genético humano sin el consentimiento de los descendientes. -->
-- [ ] C) Que las plantas editadas genéticamente crezcan más lento.
-  <!-- feedback: Incorrecto. El enunciado especifica edición en seres humanos. -->
-- [ ] D) Que no se pueda usar para curar ninguna enfermedad.
-  <!-- feedback: Incorrecto. CRISPR tiene un gran potencial curativo, la preocupación es el mal uso. -->
+- [ ] A) Que el procedimiento sea demasiado barato y accesible. <!-- feedback: Incorrecto. Que el procedimiento sea demasiado barat -->
+
+- [x] B) Que los cambios introducidos sean permanentes y se hereden a todas las generaciones futuras. <!-- feedback: Correcto! Que los cambios introducidos sean permanentes y se hereden a -->
+
+- [ ] C) Que las plantas editadas genéticamente crezcan más lento. <!-- feedback: Incorrecto. Que las plantas editadas genéticamente c -->
+
+- [ ] D) Que no se pueda usar para curar ninguna enfermedad. <!-- feedback: Incorrecto. Que no se pueda usar para curar ninguna  -->
 
 ### Explicacion Pedagogica
 La tecnología de edición genética plantea dilemas profundos sobre hasta qué punto debemos modificar nuestra propia biología y cuáles serían las consecuencias ecológicas y sociales a largo plazo.

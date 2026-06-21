@@ -1,28 +1,32 @@
 ---
-id: "CO-CN-7-2026-W04-ADN-001-MASTERY"
+id: "CO-CN-7-2026-W04-ADN-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "ciencias-naturales"
 tema: "ADN"
-semana: "W04"
+week: "W04"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: ADN - Grado 7
 ## Semana W04 — Estructura y función del ADN
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-CN-7-2026-W04-ADN-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase de ciencias del Colegio Cambridge de Bogotá, el profesor pregunta qué significan las siglas ADN.
+**Contexto:** En clase de ciencias del Colegio Cambridge de Bogotá, el profesor pregunta qué significan las siglas ADN.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ ADN significa Ácido Desoxirribonucleico (en inglés DNA: Deoxyribonucleic Acid)
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-CN-7-2026-W04-ADN-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** María dibuja la estructura del ADN para su proyecto de ciencias en Medellín.
+**Contexto:** María dibuja la estructura del ADN para su proyecto de ciencias en Medellín.
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -60,11 +64,11 @@ La estructura del ADN es una doble hélice, como una escalera en espiral. Los "p
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-CN-7-2026-W04-ADN-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Carlos aprende sobre las bases nitrogenadas del ADN en su colegio de Cali.
+**Contexto:** Carlos aprende sobre las bases nitrogenadas del ADN en su colegio de Cali.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -81,11 +85,11 @@ Las cuatro bases nitrogenadas del ADN son: Adenina (A), Timina (T), Citosina (C)
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-CN-7-2026-W04-ADN-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Laura quiere entender dónde se encuentra el ADN en las células. Vive en Barranquilla.
+**Contexto:** Laura quiere entender dónde se encuentra el ADN en las células. Vive en Barranquilla.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -102,11 +106,11 @@ En las células eucariotas (como las humanas), la mayor parte del ADN se encuent
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-CN-7-2026-W04-ADN-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Andrés investiga la replicación del ADN para su clase de ciencias en Cartagena.
+**Contexto:** Andrés investiga la replicación del ADN para su clase de ciencias en Cartagena.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -123,11 +127,11 @@ La replicación del ADN es semiconservativa: la doble hélice se "abre" (como un
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-CN-7-2026-W04-ADN-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
-**Context:** Santiago analiza una secuencia de ADN: ATTCGG. Debe encontrar la hebra complementaria para su clase en Bucaramanga.
+**Contexto:** Santiago analiza una secuencia de ADN: ATTCGG. Debe encontrar la hebra complementaria para su clase en Bucaramanga.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -144,11 +148,11 @@ Para encontrar la hebra complementaria, aplicamos las reglas de apareamiento: A 
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-CN-7-2026-W04-ADN-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Valentina compara el ADN con el ARN en su colegio de Pereira.
+**Contexto:** Valentina compara el ADN con el ARN en su colegio de Pereira.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Diferencias ADN vs ARN: (1) Azúcar: ADN tiene desoxirribosa, ARN tiene ribosa. 
 
 ---
 
-## Pregunta 8 [D6]
+## Question 8 [D6]
 **ID:** `CO-CN-7-2026-W04-ADN-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Camila se pregunta por qué el ADN es importante para la identidad de las personas. Estudia en Manizales.
+**Contexto:** Camila se pregunta por qué el ADN es importante para la identidad de las personas. Estudia en Manizales.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ El ADN de cada persona es único (excepto en gemelos idénticos). Las pruebas de
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-CN-7-2026-W04-ADN-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Sebastián investiga cómo el ADN determina las características físicas. Vive en Ibagué.
+**Contexto:** Sebastián investiga cómo el ADN determina las características físicas. Vive en Ibagué.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ El "dogma central de la biología molecular" explica el flujo de información: A
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-CN-7-2026-W04-ADN-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Isabella escucha que "las mutaciones en el ADN pueden ser buenas o malas". Quiere entenderlo mejor en Neiva.
+**Contexto:** Isabella escucha que "las mutaciones en el ADN pueden ser buenas o malas". Quiere entenderlo mejor en Neiva.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -228,11 +232,11 @@ Una mutación es un cambio en la secuencia del ADN. Pueden ser: (1) Perjudiciale
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-CN-7-2026-W04-ADN-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Daniel analiza un cariotipo humano en su clase de ciencias de Sincelejo.
+**Contexto:** Daniel analiza un cariotipo humano en su clase de ciencias de Sincelejo.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -249,11 +253,11 @@ Las células humanas somáticas (corporales) tienen 46 cromosomas organizados en
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-CN-7-2026-W04-ADN-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase de ciencias en Tunja, el profesor pregunta sobre la importancia del descubrimiento de la estructura del ADN.
+**Contexto:** En clase de ciencias en Tunja, el profesor pregunta sobre la importancia del descubrimiento de la estructura del ADN.
 **Expected_Success:** 0.42
 
 ### Enunciado

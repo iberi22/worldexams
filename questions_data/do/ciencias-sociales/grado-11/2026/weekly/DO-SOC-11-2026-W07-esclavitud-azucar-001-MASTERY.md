@@ -5,504 +5,499 @@ exam: "Pruebas Nacionales"
 grado: 11
 asignatura: "Ciencias Sociales"
 tema: "esclavitud-azucar"
-semana: 7
+week: "W07"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "MINERD - Pruebas Nacionales RD"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle — Esclavitud Azucar (Week 7)
 **Difficulty: D3-D10 | 20 Questions | Ciencias Sociales — Pruebas Nacionales**
 
 ---
 
-## Question 1 — D4
+## Question 1 [D4]
 **ID:** `DO-SOC-11-2026-W07-esclavitud-azucar-001-MASTERY-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de ciencias sociales en Santiago estudiando esclavitud azucar.
+**Contexto:** Clase de ciencias sociale### Opciones
+s en Santiago estudiando esclavitud azucar.
 
-**Stem:** ¿Qué documento establece la organización del Estado?
+### Enunciado
+¿Qué documento establece la organización del Estado?
 
-- [x] **A)** La Constitución
-  <!-- feedback: ¡Correcto! -->
+- [x] A) La Constitución <!-- feedback: Correcto! La Constitución -->
 
-- [ ] **B)** Una ley ordinaria
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Una ley ordinaria <!-- feedback: Incorrecto. Una ley ordinaria -->
 
-- [ ] **C)** Un decreto presidencial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Un decreto presidencial <!-- feedback: Incorrecto. Un decreto presidencial -->
 
-- [ ] **D)** Un tratado internacional
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Un tratado internacional <!-- feedback: Incorrecto. Un tratado internacional -->
 
-**Explanation:** La Constitución es la norma suprema que organiza el Estado y garantiza derechos.
+### Explicacion Pedagogica La Constitución es la norma suprema que organiza el Estado y garantiza derechos.
 
 ---
 
-## Question 2 — D5
+## Question 2 [D5]
 **ID:** `DO-SOC-11-2026-W07-esclavitud-azucar-001-MASTERY-v2`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de ciencias sociales en Santo Domingo estudiando esclavitud azucar.
+**Contexto:** Clase de ciencias sociales en ### Opciones
+Santo Domingo estudiando esclavitud azucar.
 
-**Stem:** ¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?
+### Enunciado
+¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?
 
-- [x] **A)** Urbanización masiva y nuevas clases sociales
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Urbanización masiva y nuevas clases sociales <!-- feedback: Correcto! Urbanización masiva y nuevas clases sociales -->
 
-- [ ] **B)** Retorno a la vida agrícola
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Retorno a la vida agrícola <!-- feedback: Incorrecto. Retorno a la vida agrícola -->
 
-- [ ] **C)** Disminución del comercio global
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Disminución del comercio global <!-- feedback: Incorrecto. Disminución del comercio global -->
 
-- [ ] **D)** Eliminación del trabajo manual
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Eliminación del trabajo manual <!-- feedback: Incorrecto. Eliminación del trabajo manual -->
 
-**Explanation:** La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.
+### Explicacion Pedagogica La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.
 
 ---
 
-## Question 3 — D3
+## Question 3 [D3]
 **ID:** `DO-SOC-11-2026-W07-esclavitud-azucar-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de ciencias sociales en Nagua estudiando esclavitud azucar.
+**Contexto:** Clase de ciencias soci### Opciones
+ales en Nagua estudiando esclavitud azucar.
 
-**Stem:** ¿Qué derechos protegen la Constitución de un país democrático?
+### Enunciado
+¿Qué derechos protegen la Constitución de un país democrático?
 
-- [x] **A)** Derechos humanos fundamentales
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Derechos humanos fundamentales <!-- feedback: Correcto! Derechos humanos fundamentales -->
 
-- [ ] **B)** Solo derechos de propiedad
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Solo derechos de propiedad <!-- feedback: Incorrecto. Solo derechos de propiedad -->
 
-- [ ] **C)** Únicamente derechos políticos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Únicamente derechos políticos <!-- feedback: Incorrecto. Únicamente derechos políticos -->
 
-- [ ] **D)** Derechos exclusivos del gobierno
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Derechos exclusivos del gobierno <!-- feedback: Incorrecto. Derechos exclusivos del gobierno -->
 
-**Explanation:** Las constituciones democráticas protegen derechos humanos fundamentales.
+### Explicacion Pedagogica Las constituciones democráticas protegen derechos humanos fundamentales.
 
 ---
 
-## Question 4 — D4
+## Question 4 [D4]
 **ID:** `DO-SOC-11-2026-W07-esclavitud-azucar-001-MASTERY-v4`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de ciencias sociales en Santo Domingo estudiando esclavitud azucar.
+**Contexto:** Clase de ciencias sociales en ### Opciones
+Santo Domingo estudiando esclavitud azucar.
 
-**Stem:** Si un país exporta más de lo que importa, ¿qué tiene?
+### Enunciado
+Si un país exporta más de lo que importa, ¿qué tiene?
 
-- [x] **A)** Superávit comercial
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Superávit comercial <!-- feedback: Correcto! Superávit comercial -->
 
-- [ ] **B)** Déficit comercial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Déficit comercial <!-- feedback: Incorrecto. Déficit comercial -->
 
-- [ ] **C)** Balanza equilibrada
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Balanza equilibrada <!-- feedback: Incorrecto. Balanza equilibrada -->
 
-- [ ] **D)** Crisis económica
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Crisis económica <!-- feedback: Incorrecto. Crisis económica -->
 
-**Explanation:** Exportar más que importar genera superávit comercial favorable.
+### Explicacion Pedagogica Exportar más que importar genera superávit comercial favorable.
 
 ---
 
-## Question 5 — D3
+## Question 5 [D3]
 **ID:** `DO-SOC-11-2026-W07-esclavitud-azucar-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de ciencias sociales en Higüey estudiando esclavitud azucar.
+**Contexto:** Clase de ciencias socia### Opciones
+les en Higüey estudiando esclavitud azucar.
 
-**Stem:** ¿Cuál fue una causa importante de la Primera Guerra Mundial?
+### Enunciado
+¿Cuál fue una causa importante de la Primera Guerra Mundial?
 
-- [x] **A)** El asesinato del Archiduque Francisco Fernando
-  <!-- feedback: ¡Correcto! -->
+- [x] A) El asesinato del Archiduque Francisco Fernando <!-- feedback: Correcto! El asesinato del Archiduque Francisco Fernando -->
 
-- [ ] **B)** El Tratado de Versalles
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) El Tratado de Versalles <!-- feedback: Incorrecto. El Tratado de Versalles -->
 
-- [ ] **C)** La Revolución Rusa
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) La Revolución Rusa <!-- feedback: Incorrecto. La Revolución Rusa -->
 
-- [ ] **D)** La invención del avión
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) La invención del avión <!-- feedback: Incorrecto. La invención del avión -->
 
-**Explanation:** El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.
+### Explicacion Pedagogica El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.
 
 ---
 
-## Question 6 — D4
+## Question 6 [D4]
 **ID:** `DO-SOC-11-2026-W07-esclavitud-azucar-001-MASTERY-v6`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de ciencias sociales en Santo Domingo estudiando esclavitud azucar.
+**Contexto:** Clase de ciencias sociales en ### Opciones
+Santo Domingo estudiando esclavitud azucar.
 
-**Stem:** ¿Qué documento establece la organización del Estado?
+### Enunciado
+¿Qué documento establece la organización del Estado?
 
-- [x] **A)** La Constitución
-  <!-- feedback: ¡Correcto! -->
+- [x] A) La Constitución <!-- feedback: Correcto! La Constitución -->
 
-- [ ] **B)** Una ley ordinaria
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Una ley ordinaria <!-- feedback: Incorrecto. Una ley ordinaria -->
 
-- [ ] **C)** Un decreto presidencial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Un decreto presidencial <!-- feedback: Incorrecto. Un decreto presidencial -->
 
-- [ ] **D)** Un tratado internacional
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Un tratado internacional <!-- feedback: Incorrecto. Un tratado internacional -->
 
-**Explanation:** La Constitución es la norma suprema que organiza el Estado y garantiza derechos.
+### Explicacion Pedagogica La Constitución es la norma suprema que organiza el Estado y garantiza derechos.
 
 ---
 
-## Question 7 — D5
+## Question 7 [D5]
 **ID:** `DO-SOC-11-2026-W07-esclavitud-azucar-001-MASTERY-v7`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de ciencias sociales en Bonao estudiando esclavitud azucar.
+**Contexto:** Clase de ciencias soci### Opciones
+ales en Bonao estudiando esclavitud azucar.
 
-**Stem:** ¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?
+### Enunciado
+¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?
 
-- [x] **A)** Urbanización masiva y nuevas clases sociales
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Urbanización masiva y nuevas clases sociales <!-- feedback: Correcto! Urbanización masiva y nuevas clases sociales -->
 
-- [ ] **B)** Retorno a la vida agrícola
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Retorno a la vida agrícola <!-- feedback: Incorrecto. Retorno a la vida agrícola -->
 
-- [ ] **C)** Disminución del comercio global
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Disminución del comercio global <!-- feedback: Incorrecto. Disminución del comercio global -->
 
-- [ ] **D)** Eliminación del trabajo manual
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Eliminación del trabajo manual <!-- feedback: Incorrecto. Eliminación del trabajo manual -->
 
-**Explanation:** La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.
+### Explicacion Pedagogica La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.
 
 ---
 
-## Question 8 — D3
+## Question 8 [D3]
 **ID:** `DO-SOC-11-2026-W07-esclavitud-azucar-001-MASTERY-v8`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de ciencias sociales en San Juan de la Maguana estudiando esclavitud azucar.
+**Contexto:** Clase de ciencias sociales en San Juan ### Opciones
+de la Maguana estudiando esclavitud azucar.
 
-**Stem:** ¿Qué derechos protegen la Constitución de un país democrático?
+### Enunciado
+¿Qué derechos protegen la Constitución de un país democrático?
 
-- [x] **A)** Derechos humanos fundamentales
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Derechos humanos fundamentales <!-- feedback: Correcto! Derechos humanos fundamentales -->
 
-- [ ] **B)** Solo derechos de propiedad
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Solo derechos de propiedad <!-- feedback: Incorrecto. Solo derechos de propiedad -->
 
-- [ ] **C)** Únicamente derechos políticos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Únicamente derechos políticos <!-- feedback: Incorrecto. Únicamente derechos políticos -->
 
-- [ ] **D)** Derechos exclusivos del gobierno
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Derechos exclusivos del gobierno <!-- feedback: Incorrecto. Derechos exclusivos del gobierno -->
 
-**Explanation:** Las constituciones democráticas protegen derechos humanos fundamentales.
+### Explicacion Pedagogica Las constituciones democráticas protegen derechos humanos fundamentales.
 
 ---
 
-## Question 9 — D4
+## Question 9 [D4]
 **ID:** `DO-SOC-11-2026-W07-esclavitud-azucar-001-MASTERY-v9`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de ciencias sociales en Bonao estudiando esclavitud azucar.
+**Contexto:** Clase de ciencias soci### Opciones
+ales en Bonao estudiando esclavitud azucar.
 
-**Stem:** Si un país exporta más de lo que importa, ¿qué tiene?
+### Enunciado
+Si un país exporta más de lo que importa, ¿qué tiene?
 
-- [x] **A)** Superávit comercial
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Superávit comercial <!-- feedback: Correcto! Superávit comercial -->
 
-- [ ] **B)** Déficit comercial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Déficit comercial <!-- feedback: Incorrecto. Déficit comercial -->
 
-- [ ] **C)** Balanza equilibrada
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Balanza equilibrada <!-- feedback: Incorrecto. Balanza equilibrada -->
 
-- [ ] **D)** Crisis económica
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Crisis económica <!-- feedback: Incorrecto. Crisis económica -->
 
-**Explanation:** Exportar más que importar genera superávit comercial favorable.
+### Explicacion Pedagogica Exportar más que importar genera superávit comercial favorable.
 
 ---
 
-## Question 10 — D3
+## Question 10 [D3]
 **ID:** `DO-SOC-11-2026-W07-esclavitud-azucar-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de ciencias sociales en La Vega estudiando esclavitud azucar.
+**Contexto:** Clase de ciencias social### Opciones
+es en La Vega estudiando esclavitud azucar.
 
-**Stem:** ¿Cuál fue una causa importante de la Primera Guerra Mundial?
+### Enunciado
+¿Cuál fue una causa importante de la Primera Guerra Mundial?
 
-- [x] **A)** El asesinato del Archiduque Francisco Fernando
-  <!-- feedback: ¡Correcto! -->
+- [x] A) El asesinato del Archiduque Francisco Fernando <!-- feedback: Correcto! El asesinato del Archiduque Francisco Fernando -->
 
-- [ ] **B)** El Tratado de Versalles
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) El Tratado de Versalles <!-- feedback: Incorrecto. El Tratado de Versalles -->
 
-- [ ] **C)** La Revolución Rusa
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) La Revolución Rusa <!-- feedback: Incorrecto. La Revolución Rusa -->
 
-- [ ] **D)** La invención del avión
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) La invención del avión <!-- feedback: Incorrecto. La invención del avión -->
 
-**Explanation:** El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.
+### Explicacion Pedagogica El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.
 
 ---
 
-## Question 11 — D4
+## Question 11 [D4]
 **ID:** `DO-SOC-11-2026-W07-esclavitud-azucar-001-MASTERY-v11`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de ciencias sociales en Santo Domingo estudiando esclavitud azucar.
+**Contexto:** Clase de ciencias sociales en ### Opciones
+Santo Domingo estudiando esclavitud azucar.
 
-**Stem:** ¿Qué documento establece la organización del Estado?
+### Enunciado
+¿Qué documento establece la organización del Estado?
 
-- [x] **A)** La Constitución
-  <!-- feedback: ¡Correcto! -->
+- [x] A) La Constitución <!-- feedback: Correcto! La Constitución -->
 
-- [ ] **B)** Una ley ordinaria
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Una ley ordinaria <!-- feedback: Incorrecto. Una ley ordinaria -->
 
-- [ ] **C)** Un decreto presidencial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Un decreto presidencial <!-- feedback: Incorrecto. Un decreto presidencial -->
 
-- [ ] **D)** Un tratado internacional
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Un tratado internacional <!-- feedback: Incorrecto. Un tratado internacional -->
 
-**Explanation:** La Constitución es la norma suprema que organiza el Estado y garantiza derechos.
+### Explicacion Pedagogica La Constitución es la norma suprema que organiza el Estado y garantiza derechos.
 
 ---
 
-## Question 12 — D5
+## Question 12 [D5]
 **ID:** `DO-SOC-11-2026-W07-esclavitud-azucar-001-MASTERY-v12`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de ciencias sociales en Santo Domingo estudiando esclavitud azucar.
+**Contexto:** Clase de ciencias sociales en ### Opciones
+Santo Domingo estudiando esclavitud azucar.
 
-**Stem:** ¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?
+### Enunciado
+¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?
 
-- [x] **A)** Urbanización masiva y nuevas clases sociales
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Urbanización masiva y nuevas clases sociales <!-- feedback: Correcto! Urbanización masiva y nuevas clases sociales -->
 
-- [ ] **B)** Retorno a la vida agrícola
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Retorno a la vida agrícola <!-- feedback: Incorrecto. Retorno a la vida agrícola -->
 
-- [ ] **C)** Disminución del comercio global
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Disminución del comercio global <!-- feedback: Incorrecto. Disminución del comercio global -->
 
-- [ ] **D)** Eliminación del trabajo manual
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Eliminación del trabajo manual <!-- feedback: Incorrecto. Eliminación del trabajo manual -->
 
-**Explanation:** La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.
+### Explicacion Pedagogica La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.
 
 ---
 
-## Question 13 — D3
+## Question 13 [D3]
 **ID:** `DO-SOC-11-2026-W07-esclavitud-azucar-001-MASTERY-v13`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de ciencias sociales en San Francisco de Macorís estudiando esclavitud azucar.
+**Contexto:** Clase de ciencias sociales en San Francis### Opciones
+co de Macorís estudiando esclavitud azucar.
 
-**Stem:** ¿Qué derechos protegen la Constitución de un país democrático?
+### Enunciado
+¿Qué derechos protegen la Constitución de un país democrático?
 
-- [x] **A)** Derechos humanos fundamentales
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Derechos humanos fundamentales <!-- feedback: Correcto! Derechos humanos fundamentales -->
 
-- [ ] **B)** Solo derechos de propiedad
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Solo derechos de propiedad <!-- feedback: Incorrecto. Solo derechos de propiedad -->
 
-- [ ] **C)** Únicamente derechos políticos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Únicamente derechos políticos <!-- feedback: Incorrecto. Únicamente derechos políticos -->
 
-- [ ] **D)** Derechos exclusivos del gobierno
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Derechos exclusivos del gobierno <!-- feedback: Incorrecto. Derechos exclusivos del gobierno -->
 
-**Explanation:** Las constituciones democráticas protegen derechos humanos fundamentales.
+### Explicacion Pedagogica Las constituciones democráticas protegen derechos humanos fundamentales.
 
 ---
 
-## Question 14 — D4
+## Question 14 [D4]
 **ID:** `DO-SOC-11-2026-W07-esclavitud-azucar-001-MASTERY-v14`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de ciencias sociales en Santo Domingo estudiando esclavitud azucar.
+**Contexto:** Clase de ciencias sociales en ### Opciones
+Santo Domingo estudiando esclavitud azucar.
 
-**Stem:** Si un país exporta más de lo que importa, ¿qué tiene?
+### Enunciado
+Si un país exporta más de lo que importa, ¿qué tiene?
 
-- [x] **A)** Superávit comercial
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Superávit comercial <!-- feedback: Correcto! Superávit comercial -->
 
-- [ ] **B)** Déficit comercial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Déficit comercial <!-- feedback: Incorrecto. Déficit comercial -->
 
-- [ ] **C)** Balanza equilibrada
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Balanza equilibrada <!-- feedback: Incorrecto. Balanza equilibrada -->
 
-- [ ] **D)** Crisis económica
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Crisis económica <!-- feedback: Incorrecto. Crisis económica -->
 
-**Explanation:** Exportar más que importar genera superávit comercial favorable.
+### Explicacion Pedagogica Exportar más que importar genera superávit comercial favorable.
 
 ---
 
-## Question 15 — D3
+## Question 15 [D3]
 **ID:** `DO-SOC-11-2026-W07-esclavitud-azucar-001-MASTERY-v15`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de ciencias sociales en Baní estudiando esclavitud azucar.
+**Contexto:** Clase de ciencias soc### Opciones
+iales en Baní estudiando esclavitud azucar.
 
-**Stem:** ¿Cuál fue una causa importante de la Primera Guerra Mundial?
+### Enunciado
+¿Cuál fue una causa importante de la Primera Guerra Mundial?
 
-- [x] **A)** El asesinato del Archiduque Francisco Fernando
-  <!-- feedback: ¡Correcto! -->
+- [x] A) El asesinato del Archiduque Francisco Fernando <!-- feedback: Correcto! El asesinato del Archiduque Francisco Fernando -->
 
-- [ ] **B)** El Tratado de Versalles
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) El Tratado de Versalles <!-- feedback: Incorrecto. El Tratado de Versalles -->
 
-- [ ] **C)** La Revolución Rusa
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) La Revolución Rusa <!-- feedback: Incorrecto. La Revolución Rusa -->
 
-- [ ] **D)** La invención del avión
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) La invención del avión <!-- feedback: Incorrecto. La invención del avión -->
 
-**Explanation:** El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.
+### Explicacion Pedagogica El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.
 
 ---
 
-## Question 16 — D4
+## Question 16 [D4]
 **ID:** `DO-SOC-11-2026-W07-esclavitud-azucar-001-MASTERY-v16`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de ciencias sociales en Santo Domingo estudiando esclavitud azucar.
+**Contexto:** Clase de ciencias sociales en ### Opciones
+Santo Domingo estudiando esclavitud azucar.
 
-**Stem:** ¿Qué documento establece la organización del Estado?
+### Enunciado
+¿Qué documento establece la organización del Estado?
 
-- [x] **A)** La Constitución
-  <!-- feedback: ¡Correcto! -->
+- [x] A) La Constitución <!-- feedback: Correcto! La Constitución -->
 
-- [ ] **B)** Una ley ordinaria
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Una ley ordinaria <!-- feedback: Incorrecto. Una ley ordinaria -->
 
-- [ ] **C)** Un decreto presidencial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Un decreto presidencial <!-- feedback: Incorrecto. Un decreto presidencial -->
 
-- [ ] **D)** Un tratado internacional
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Un tratado internacional <!-- feedback: Incorrecto. Un tratado internacional -->
 
-**Explanation:** La Constitución es la norma suprema que organiza el Estado y garantiza derechos.
+### Explicacion Pedagogica La Constitución es la norma suprema que organiza el Estado y garantiza derechos.
 
 ---
 
-## Question 17 — D5
+## Question 17 [D5]
 **ID:** `DO-SOC-11-2026-W07-esclavitud-azucar-001-MASTERY-v17`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de ciencias sociales en Moca estudiando esclavitud azucar.
+**Contexto:** Clase de ciencias soc### Opciones
+iales en Moca estudiando esclavitud azucar.
 
-**Stem:** ¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?
+### Enunciado
+¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?
 
-- [x] **A)** Urbanización masiva y nuevas clases sociales
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Urbanización masiva y nuevas clases sociales <!-- feedback: Correcto! Urbanización masiva y nuevas clases sociales -->
 
-- [ ] **B)** Retorno a la vida agrícola
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Retorno a la vida agrícola <!-- feedback: Incorrecto. Retorno a la vida agrícola -->
 
-- [ ] **C)** Disminución del comercio global
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Disminución del comercio global <!-- feedback: Incorrecto. Disminución del comercio global -->
 
-- [ ] **D)** Eliminación del trabajo manual
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Eliminación del trabajo manual <!-- feedback: Incorrecto. Eliminación del trabajo manual -->
 
-**Explanation:** La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.
+### Explicacion Pedagogica La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.
 
 ---
 
-## Question 18 — D3
+## Question 18 [D3]
 **ID:** `DO-SOC-11-2026-W07-esclavitud-azucar-001-MASTERY-v18`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de ciencias sociales en Santiago estudiando esclavitud azucar.
+**Contexto:** Clase de ciencias sociale### Opciones
+s en Santiago estudiando esclavitud azucar.
 
-**Stem:** ¿Qué derechos protegen la Constitución de un país democrático?
+### Enunciado
+¿Qué derechos protegen la Constitución de un país democrático?
 
-- [x] **A)** Derechos humanos fundamentales
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Derechos humanos fundamentales <!-- feedback: Correcto! Derechos humanos fundamentales -->
 
-- [ ] **B)** Solo derechos de propiedad
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Solo derechos de propiedad <!-- feedback: Incorrecto. Solo derechos de propiedad -->
 
-- [ ] **C)** Únicamente derechos políticos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Únicamente derechos políticos <!-- feedback: Incorrecto. Únicamente derechos políticos -->
 
-- [ ] **D)** Derechos exclusivos del gobierno
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Derechos exclusivos del gobierno <!-- feedback: Incorrecto. Derechos exclusivos del gobierno -->
 
-**Explanation:** Las constituciones democráticas protegen derechos humanos fundamentales.
+### Explicacion Pedagogica Las constituciones democráticas protegen derechos humanos fundamentales.
 
 ---
 
-## Question 19 — D4
+## Question 19 [D4]
 **ID:** `DO-SOC-11-2026-W07-esclavitud-azucar-001-MASTERY-v19`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de ciencias sociales en San Francisco de Macorís estudiando esclavitud azucar.
+**Contexto:** Clase de ciencias sociales en San Francis### Opciones
+co de Macorís estudiando esclavitud azucar.
 
-**Stem:** Si un país exporta más de lo que importa, ¿qué tiene?
+### Enunciado
+Si un país exporta más de lo que importa, ¿qué tiene?
 
-- [x] **A)** Superávit comercial
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Superávit comercial <!-- feedback: Correcto! Superávit comercial -->
 
-- [ ] **B)** Déficit comercial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Déficit comercial <!-- feedback: Incorrecto. Déficit comercial -->
 
-- [ ] **C)** Balanza equilibrada
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Balanza equilibrada <!-- feedback: Incorrecto. Balanza equilibrada -->
 
-- [ ] **D)** Crisis económica
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Crisis económica <!-- feedback: Incorrecto. Crisis económica -->
 
-**Explanation:** Exportar más que importar genera superávit comercial favorable.
+### Explicacion Pedagogica Exportar más que importar genera superávit comercial favorable.
 
 ---
 
-## Question 20 — D3
+## Question 20 [D3]
 **ID:** `DO-SOC-11-2026-W07-esclavitud-azucar-001-MASTERY-v20`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de ciencias sociales en Baní estudiando esclavitud azucar.
+**Contexto:** Clase de ciencias soc### Opciones
+iales en Baní estudiando esclavitud azucar.
 
-**Stem:** ¿Cuál fue una causa importante de la Primera Guerra Mundial?
+### Enunciado
+¿Cuál fue una causa importante de la Primera Guerra Mundial?
 
-- [x] **A)** El asesinato del Archiduque Francisco Fernando
-  <!-- feedback: ¡Correcto! -->
+- [x] A) El asesinato del Archiduque Francisco Fernando <!-- feedback: Correcto! El asesinato del Archiduque Francisco Fernando -->
 
-- [ ] **B)** El Tratado de Versalles
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) El Tratado de Versalles <!-- feedback: Incorrecto. El Tratado de Versalles -->
 
-- [ ] **C)** La Revolución Rusa
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) La Revolución Rusa <!-- feedback: Incorrecto. La Revolución Rusa -->
 
-- [ ] **D)** La invención del avión
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) La invención del avión <!-- feedback: Incorrecto. La invención del avión -->
 
-**Explanation:** El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.
+### Explicacion Pedagogica El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.
 
----
-
-### Quality Review
-
-| Dimension | Score |
-|-----------|-------|
-| Technical | 30/30 |
-| Curricular | 40/40 |
-| Context | 20/20 |
-| Writing | 10/10 |
-| **Total** | **100/100** |

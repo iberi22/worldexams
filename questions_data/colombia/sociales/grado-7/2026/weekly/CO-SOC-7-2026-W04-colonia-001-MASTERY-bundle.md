@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W04-colonia-001-MASTERY"
+id: "CO-SOC-7-2026-W04-colonia-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales"
 tema: "colonia"
-semana: "W04"
+week: "W04"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: La Colonia en América - Grado 7
 ## Semana W04 — Organización política, social y económica colonial
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W04-colonia-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase de Sociales del Colegio Emilio Cifuentes de Bogotá, el profesor pregunta cuánto duró el período colonial en Colombia.
+**Contexto:** En clase de Sociales del Colegio Emilio Cifuentes de Bogotá, el profesor pregunta cuánto duró el período colonial en Colombia.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ El período colonial en la Nueva Granada abarcó desde mediados del siglo XVI (a
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-SOC-7-2026-W04-colonia-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** María estudia la organización política colonial para su examen en Medellín.
+**Contexto:** María estudia la organización política colonial para su examen en Medellín.
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -60,11 +64,11 @@ El virrey era la máxima autoridad política y administrativa en los virreinatos
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-SOC-7-2026-W04-colonia-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Carlos aprende sobre la sociedad colonial en su colegio de Cali.
+**Contexto:** Carlos aprende sobre la sociedad colonial en su colegio de Cali.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -79,11 +83,11 @@ La sociedad colonial era una pirámide racial y social, con el color de piel det
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-SOC-7-2026-W04-colonia-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Laura se pregunta por qué los españoles trajeron esclavos africanos a América. Su clase es en Barranquilla.
+**Contexto:** Laura se pregunta por qué los españoles trajeron esclavos africanos a América. Su clase es en Barranquilla.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -100,11 +104,11 @@ La trata de esclavos africanos (siglos XVI-XIX) se debió a: (1) La dramática d
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-SOC-7-2026-W04-colonia-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Andrés investiga la economía colonial para su proyecto en Cartagena.
+**Contexto:** Andrés investiga la economía colonial para su proyecto en Cartagena.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -121,11 +125,11 @@ La minería de oro fue la actividad económica más importante de la Nueva Grana
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-SOC-7-2026-W04-colonia-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Santiago explica el sistema de encomiendas en su clase de Bucaramanga.
+**Contexto:** Santiago explica el sistema de encomiendas en su clase de Bucaramanga.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -140,11 +144,11 @@ La encomienda fue una institución colonial que "entregaba" grupos de indígenas
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-SOC-7-2026-W04-colonia-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Valentina compara la educación colonial con la educación actual en Pereira.
+**Contexto:** Valentina compara la educación colonial con la educación actual en Pereira.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -159,11 +163,11 @@ La Iglesia católica (órdenes religiosas como jesuitas, dominicanos, franciscan
 
 ---
 
-## Pregunta 8 [D6]
+## Question 8 [D6]
 **ID:** `CO-SOC-7-2026-W04-colonia-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Camila investiga el legado arquitectónico colonial en Colombia. Vive en Manizales.
+**Contexto:** Camila investiga el legado arquitectónico colonial en Colombia. Vive en Manizales.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -178,11 +182,11 @@ La arquitectura colonial española dejó un legado importante en Colombia: igles
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-SOC-7-2026-W04-colonia-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Sebastián debate si la colonia fue "buena" o "mala" para América en Ibagué.
+**Contexto:** Sebastián debate si la colonia fue "buena" o "mala" para América en Ibagué.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -197,11 +201,11 @@ La colonia fue un proceso complejo con múltiples dimensiones. Aspectos positivo
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W04-colonia-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Isabella reflexiona sobre el mestizaje en la colonia en Neiva.
+**Contexto:** Isabella reflexiona sobre el mestizaje en la colonia en Neiva.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -216,11 +220,11 @@ El mestizaje fue un proceso fundamental de la colonia. Biológicamente: mezcla e
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-SOC-7-2026-W04-colonia-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Daniel compara el impacto de la colonia en Colombia vs. en Estados Unidos en Sincelejo.
+**Contexto:** Daniel compara el impacto de la colonia en Colombia vs. en Estados Unidos en Sincelejo.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -235,11 +239,11 @@ Diferencias clave: (1) Españoles: buscaban metales preciosos y mano de obra, se
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W04-colonia-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En clase de Sociales en Tunja, el profesor pregunta: "¿Qué elementos de la colonia aún persisten en la Colombia actual?"
+**Contexto:** En clase de Sociales en Tunja, el profesor pregunta: "¿Qué elementos de la colonia aún persisten en la Colombia actual?"
 **Expected_Success:** 0.42
 
 ### Enunciado

@@ -1,5 +1,5 @@
 ---
-id: "COL-SOC-CIU-4-2026-W11-capitales-de-departamento-caribe-y-pacifico-001-MASTERY"
+id: "COL-SOC-CIU-4-2026-W11-capitales-de-departamento-caribe-y-pacifico-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Capitales de los departamentos de las regiones Caribe y Pacíf
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Capitales de departamento: Caribe y Pacífico
 
@@ -30,15 +35,15 @@ Este bundle cubre las capitales de las regiones Caribe y Pacífico colombianas.
 ## Question 1 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W11-capitales-de-departamento-caribe-y-pacifico-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la I.E. Madre Laura de Cartagena preguntan sobre capitales del Caribe.
+**Contexto:** En la I.E. Madre Laura de Cartagena preguntan sobre capitales del Caribe.
 
 ### Enunciado
 La capital del departamento del Atlántico es:
 
-### Options
-
+### Opciones
 - [x] A) Barranquilla. <!-- feedback: Barranquilla es capital del Atlántico. -->
 - [ ] B) Cartagena. <!-- feedback: Capital de Bolívar. -->
 - [ ] C) Santa Marta. <!-- feedback: Capital del Magdalena. -->
@@ -52,15 +57,15 @@ Se evalúa [Remember].
 ## Question 2 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W11-capitales-de-departamento-caribe-y-pacifico-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** La profesora de la I.E. de Quibdó explica las capitales del Pacífico.
+**Contexto:** La profesora de la I.E. de Quibdó explica las capitales del Pacífico.
 
 ### Enunciado
 La capital del departamento del Chocó es:
 
-### Options
-
+### Opciones
 - [ ] A) Cali. <!-- feedback: Capital del Valle del Cauca. -->
 - [x] B) Quibdó. <!-- feedback: Quibdó es la capital del Chocó. -->
 - [ ] C) Buenaventura. <!-- feedback: Es un puerto, no capital. -->
@@ -74,15 +79,15 @@ Se evalúa [Remember].
 ## Question 3 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W11-capitales-de-departamento-caribe-y-pacifico-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Comparan capitales Caribe y Pacífico.
+**Contexto:** Comparan capitales Caribe y Pacífico.
 
 ### Enunciado
 ¿Cuál de estas es capital de un departamento del Pacífico?
 
-### Options
-
+### Opciones
 - [ ] A) Santa Marta (Magdalena). <!-- feedback: Es del Caribe. -->
 - [ ] B) Cartagena (Bolívar). <!-- feedback: Es del Caribe. -->
 - [x] C) Cali (Valle del Cauca). <!-- feedback: Cali está en la región Pacífico. -->
@@ -96,15 +101,15 @@ Se evalúa [Understand].
 ## Question 4 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W11-capitales-de-departamento-caribe-y-pacifico-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Analizan la ubicación de capitales costeras.
+**Contexto:** Analizan la ubicación de capitales costeras.
 
 ### Enunciado
 La capital de Bolívar es:
 
-### Options
-
+### Opciones
 - [ ] A) Sincelejo. <!-- feedback: Capital de Sucre. -->
 - [ ] B) Barranquilla. <!-- feedback: Capital del Atlántico. -->
 - [ ] C) Santa Marta. <!-- feedback: Capital del Magdalena. -->
@@ -118,15 +123,15 @@ Se evalúa [Understand].
 ## Question 5 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W11-capitales-de-departamento-caribe-y-pacifico-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En Riohacha ubican capitales del Caribe.
+**Contexto:** En Riohacha ubican capitales del Caribe.
 
 ### Enunciado
 La Guajira limita al norte con:
 
-### Options
-
+### Opciones
 - [x] A) El mar Caribe. <!-- feedback: La Guajira limita con el Caribe. -->
 - [ ] B) El océano Pacífico. <!-- feedback: Está en el Caribe. -->
 - [ ] C) Antioquia. <!-- feedback: No limita. -->
@@ -140,15 +145,15 @@ Se evalúa [Apply].
 ## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W11-capitales-de-departamento-caribe-y-pacifico-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Planean viaje por capitales caribeñas.
+**Contexto:** Planean viaje por capitales caribeñas.
 
 ### Enunciado
 De oriente a occidente en la costa Caribe:
 
-### Options
-
+### Opciones
 - [ ] A) Cartagena, Barranquilla, Santa Marta, Riohacha. <!-- feedback: Orden inverso. -->
 - [x] B) Riohacha, Santa Marta, Barranquilla, Cartagena, Sincelejo. <!-- feedback: Orden correcto de oriente a occidente. -->
 - [ ] C) Sincelejo, Cartagena, Barranquilla. <!-- feedback: De occidente a oriente. -->
@@ -162,15 +167,15 @@ Se evalúa [Apply].
 ## Question 7 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W11-capitales-de-departamento-caribe-y-pacifico-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Analizan por qué el Pacífico tiene menos capitales.
+**Contexto:** Analizan por qué el Pacífico tiene menos capitales.
 
 ### Enunciado
 ¿Por qué la región Pacífico tiene menos capitales?
 
-### Options
-
+### Opciones
 - [ ] A) Porque no hay ciudades. <!-- feedback: Sí hay. -->
 - [ ] B) Porque no existe como región. <!-- feedback: Sí existe. -->
 - [x] C) Porque tiene solo 4 departamentos. <!-- feedback: Nariño, Cauca, Valle y Chocó. -->
@@ -184,15 +189,15 @@ Se evalúa [Analyze].
 ## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W11-capitales-de-departamento-caribe-y-pacifico-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Comparan Caribe y Pacífico.
+**Contexto:** Comparan Caribe y Pacífico.
 
 ### Enunciado
 Diferencia geográfica clave entre Caribe y Pacífico:
 
-### Options
-
+### Opciones
 - [ ] A) Pacífico son islas. <!-- feedback: No son islas. -->
 - [ ] B) Caribe está en montañas. <!-- feedback: En costas. -->
 - [ ] C) No hay diferencia. <!-- feedback: Sí la hay. -->
@@ -206,15 +211,15 @@ Se evalúa [Analyze].
 ## Question 9 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W11-capitales-de-departamento-caribe-y-pacifico-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Evalúan importancia de capitales caribeñas.
+**Contexto:** Evalúan importancia de capitales caribeñas.
 
 ### Enunciado
 Barranquilla, Cartagena y Santa Marta son importantes porque:
 
-### Options
-
+### Opciones
 - [x] A) Son puertos clave para el comercio y el turismo. <!-- feedback: Su condición portuaria es clave. -->
 - [ ] B) Son las únicas con aeropuerto. <!-- feedback: Muchas tienen. -->
 - [ ] C) No tienen relación con el mar. <!-- feedback: Sí tienen. -->
@@ -229,14 +234,14 @@ Se evalúa [Evaluate].
 
 **ID:** `COL-SOC-CIU-4-2026-W11-capitales-de-departamento-caribe-y-pacifico-001-MASTERY-v10`
 **Bloom:** [Create]
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Proyecto turístico para el Pacífico.
+**Contexto:** Proyecto turístico para el Pacífico.
 
 ### Enunciado
 ¿Qué ruta turística propondrías para las capitales del Pacífico?
 
-### Options
-
+### Opciones
 - [ ] A) Promover solo playas del Caribe. <!-- feedback: No es del Pacífico. -->
 - [x] B) Ruta ecoturística Cali-Popayán-Quibdó-Pasto. <!-- feedback: Destaca biodiversidad y cultura del Pacífico. -->
 - [ ] C) Hoteles grandes sin planificación. <!-- feedback: Se necesita sostenibilidad. -->

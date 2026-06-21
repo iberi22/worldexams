@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-4-2026-P4-departamentos-capitales-001-MASTERY"
+id: "CO-SOC-4-2026-P4-departamentos-capitales-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Departamentos de Colombia, capitales, división política administrativa, organización territorial"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Departamentos y Capitales de Colombia
 
@@ -27,14 +34,15 @@ Este bundle cubre la división política de Colombia en 32 departamentos y sus c
 ## Question 1 [D3]
 
 **ID:** `CO-SOC-4-2026-P4-departamentos-capitales-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en la capital de Colombia, los estudiantes repasan las capitales de los departamentos.
+**Contexto:** En clase de sociales en la capital de Colombia, los estudiantes repasan las capitales de los departamentos.
 
 ### Enunciado
 ¿Cuál es la capital de Colombia?
 
-### Options
+### Opciones
 - [ ] A) Medellín. <!-- feedback: Incorrecto. Medellín es la capital del departamento de Antioquia, no del país. -->
 - [x] B) Bogotá. <!-- feedback: Correcto. Bogotá es la capital de Colombia, oficialmente llamada Bogotá, Distrito Capital. -->
 - [ ] C) Cali. <!-- feedback: Incorrecto. Cali es la capital del departamento del Valle del Cauca. -->
@@ -48,14 +56,15 @@ Se evalúa el conocimiento básico de la capital del país. La respuesta correct
 ## Question 2 [D3]
 
 **ID:** `CO-SOC-4-2026-P4-departamentos-capitales-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en la I.E. La Esperanza de La Guajira, la profesora pregunta por las capitales de departamento.
+**Contexto:** En clase de sociales en la I.E. La Esperanza de La Guajira, la profesora pregunta por las capitales de departamento.
 
 ### Enunciado
 La capital del departamento de Antioquia, la ciudad más poblada después de Bogotá, se llama:
 
-### Options
+### Opciones
 - [ ] A) Bucaramanga. <!-- feedback: Incorrecto. Bucaramanga es la capital de Santander, no de Antioquia. -->
 - [x] B) Medellín. <!-- feedback: Correcto. Medellín es la capital del departamento de Antioquia, conocida como la "Ciudad de la Eterna Primavera". -->
 - [ ] C) Cali. <!-- feedback: Incorrecto. Cali es la capital del Valle del Cauca. -->
@@ -69,14 +78,15 @@ Se evalúa el conocimiento de las capitales departamentales. La respuesta correc
 ## Question 3 [D4]
 
 **ID:** `CO-SOC-4-2026-P4-departamentos-capitales-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en la I.E. San Juan Bosco de Bucaramanga, los estudiantes nombran los departamentos de la región Andina.
+**Contexto:** En clase de sociales en la I.E. San Juan Bosco de Bucaramanga, los estudiantes nombran los departamentos de la región Andina.
 
 ### Enunciado
 El departamento de Santander tiene como capital a:
 
-### Options
+### Opciones
 - [ ] A) Cúcuta. <!-- feedback: Incorrecto. Cúcuta es la capital de Norte de Santander, no de Santander. -->
 - [x] B) Bucaramanga. <!-- feedback: Correcto. Bucaramanga es la capital del departamento de Santander. -->
 - [ ] C) Tunja. <!-- feedback: Incorrecto. Tunja es la capital de Boyacá. -->
@@ -90,14 +100,15 @@ Se evalúa el conocimiento de las capitales departamentales de la región Andina
 ## Question 4 [D4]
 
 **ID:** `CO-SOC-4-2026-P4-departamentos-capitales-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales en Pereira, el profesor explica la división del Eje Cafetero.
+**Contexto:** En la clase de sociales en Pereira, el profesor explica la división del Eje Cafetero.
 
 ### Enunciado
 El Eje Cafetero está conformado por tres departamentos. ¿Cuáles son?
 
-### Options
+### Opciones
 - [ ] A) Antioquia, Chocó y Córdoba. <!-- feedback: Incorrecto. Esos departamentos no forman el Eje Cafetero. -->
 - [x] B) Caldas, Quindío y Risaralda. <!-- feedback: Correcto. El Eje Cafetero está compuesto por Caldas (capital Manizales), Quindío (capital Armenia) y Risaralda (capital Pereira). -->
 - [ ] C) Valle del Cauca, Cauca y Nariño. <!-- feedback: Incorrecto. Esos son departamentos del suroccidente colombiano, no el Eje Cafetero. -->
@@ -111,14 +122,15 @@ Se evalúa el conocimiento de la división política del Eje Cafetero. La respue
 ## Question 5 [D4]
 
 **ID:** `CO-SOC-4-2026-P4-departamentos-capitales-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Los estudiantes de la I.E. Nuestra Señora del Carmen de Sincelejo aprenden sobre la región Caribe.
+**Contexto:** Los estudiantes de la I.E. Nuestra Señora del Carmen de Sincelejo aprenden sobre la región Caribe.
 
 ### Enunciado
 La capital del departamento del Atlántico, una de las ciudades más importantes de la región Caribe, es:
 
-### Options
+### Opciones
 - [ ] A) Cartagena. <!-- feedback: Incorrecto. Cartagena es la capital de Bolívar, no del Atlántico. -->
 - [x] B) Barranquilla. <!-- feedback: Correcto. Barranquilla es la capital del departamento del Atlántico y el principal puerto marítimo y fluvial de Colombia sobre el río Magdalena. -->
 - [ ] C) Santa Marta. <!-- feedback: Incorrecto. Santa Marta es la capital de Magdalena. -->
@@ -132,14 +144,15 @@ Se evalúa la capacidad de asociar departamentos con sus capitales en la región
 ## Question 6 [D4]
 
 **ID:** `CO-SOC-4-2026-P4-departamentos-capitales-001-MASTERY-v6`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en la I.E. Jorge Isaacs de Cali, los estudiantes estudian los departamentos del Pacífico.
+**Contexto:** En clase de sociales en la I.E. Jorge Isaacs de Cali, los estudiantes estudian los departamentos del Pacífico.
 
 ### Enunciado
 El departamento más extenso de la región Pacífica colombiana, cuya capital es Quibdó, se llama:
 
-### Options
+### Opciones
 - [ ] A) Antioquia. <!-- feedback: Incorrecto. Antioquia tiene costas en el Caribe y la región Andina, no solo en el Pacífico. -->
 - [ ] B) Nariño. <!-- feedback: Incorrecto. Nariño está en el Pacífico pero su capital es Pasto, no Quibdó. -->
 - [x] C) Chocó. <!-- feedback: Correcto. Chocó es el departamento de la región Pacífica con mayor extensión; su capital es Quibdó, y se caracteriza por ser una de las zonas más lluviosas del mundo. -->
@@ -153,14 +166,15 @@ Se evalúa el conocimiento de los departamentos y capitales de la región Pacíf
 ## Question 7 [D4]
 
 **ID:** `CO-SOC-4-2026-P4-departamentos-capitales-001-MASTERY-v7`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** La profesora de sociales en la I.E. Departamental de Ciénaga pregunta por los departamentos de la Orinoquía.
+**Contexto:** La profesora de sociales en la I.E. Departamental de Ciénaga pregunta por los departamentos de la Orinoquía.
 
 ### Enunciado
 Los Llanos Orientales están conformados por departamentos como Meta, Casanare, Arauca y Vichada. ¿Cuál es la capital del Meta?
 
-### Options
+### Opciones
 - [ ] A) Yopal. <!-- feedback: Incorrecto. Yopal es la capital de Casanare, no del Meta. -->
 - [x] B) Villavicencio. <!-- feedback: Correcto. Villavicencio es la capital del departamento del Meta y la puerta de entrada a los Llanos Orientales. -->
 - [ ] C) Arauca. <!-- feedback: Incorrecto. Arauca es la capital del departamento de Arauca. -->
@@ -174,14 +188,15 @@ Se evalúa el conocimiento de las capitales de la Orinoquía. La respuesta corre
 ## Question 8 [D5]
 
 **ID:** `CO-SOC-4-2026-P4-departamentos-capitales-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En clase de sociales en Leticia, los estudiantes explican por qué el Amazonas es un departamento especial.
+**Contexto:** En clase de sociales en Leticia, los estudiantes explican por qué el Amazonas es un departamento especial.
 
 ### Enunciado
 Además de los 32 departamentos, Colombia tiene un Distrito Capital (Bogotá). ¿Qué son los distritos especiales?
 
-### Options
+### Opciones
 - [ ] A) Son departamentos más grandes que los demás. <!-- feedback: Incorrecto. Los distritos no son departamentos, tienen una categoría especial. -->
 - [ ] B) Son ciudades que no le pertenecen a ningún departamento. <!-- feedback: Incorrecto. Bogotá es la única que no pertenece a un departamento. -->
 - [x] C) Son ciudades que tienen un régimen administrativo especial por su importancia, como Bogotá, Cartagena, Santa Marta y Barranquilla. <!-- feedback: Correcto. Los distritos especiales (Distrito Capital, Distrito Turístico y Cultural, etc.) tienen su propio régimen especial por su importancia histórica, turística o portuaria. -->
@@ -195,14 +210,15 @@ Se evalúa la comprensión de la categoría de distritos en Colombia. La respues
 ## Question 9 [D5]
 
 **ID:** `CO-SOC-4-2026-P4-departamentos-capitales-001-MASTERY-v9`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En un concurso intercolegiado en Bucaramanga, preguntan por los departamentos que no tienen costa.
+**Contexto:** En un concurso intercolegiado en Bucaramanga, preguntan por los departamentos que no tienen costa.
 
 ### Enunciado
 ¿Cuál de los siguientes departamentos colombianos NO tiene salida al mar (ninguna costa)?
 
-### Options
+### Opciones
 - [ ] A) Antioquia. <!-- feedback: Incorrecto. Antioquia tiene costa en el Caribe (Urabá antioqueño). -->
 - [ ] B) Bolívar. <!-- feedback: Incorrecto. Bolívar tiene costa en el Caribe. -->
 - [x] C) Boyacá. <!-- feedback: Correcto. Boyacá es un departamento sin costa, ubicado en el interior del país, en la cordillera Oriental. -->
@@ -216,14 +232,15 @@ Se evalúa la capacidad de identificar departamentos según su ubicación geogr�
 ## Question 10 [D5]
 
 **ID:** `CO-SOC-4-2026-P4-departamentos-capitales-001-MASTERY-v10`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En clase de sociales en la I.E. Técnica de Tunja, la profesora pregunta cuál es el departamento más pequeño de Colombia.
+**Contexto:** En clase de sociales en la I.E. Técnica de Tunja, la profesora pregunta cuál es el departamento más pequeño de Colombia.
 
 ### Enunciado
 El departamento más pequeño de Colombia en extensión territorial es:
 
-### Options
+### Opciones
 - [ ] A) Quindío. <!-- feedback: Quindío es el más pequeño, correcto. -->
 - [ ] B) Atlántico. <!-- feedback: Incorrecto. Atlántico es pequeño pero no el más pequeño. -->
 - [ ] C) San Andrés y Providencia. <!-- feedback: Incorrecto. Aunque es un archipiélago, su extensión terrestre es menor, pero Quindío es el departamento más pequeño en área continental. -->

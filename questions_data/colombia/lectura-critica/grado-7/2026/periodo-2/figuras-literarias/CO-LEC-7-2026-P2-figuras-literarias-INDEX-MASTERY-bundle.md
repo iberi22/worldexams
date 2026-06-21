@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-7-2026-P2-figuras-literarias-INDEX-MASTERY"
+id: "CO-LEC-7-2026-P2-figuras-literarias-INDEX-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "figuras literarias, recursos literarios, lenguaje figurado, metáfora, símil, personificación, hipérbole, onomatopeya, aliteración"
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G7 — Figuras Literarias
 
@@ -53,12 +60,13 @@ rubric_baseline: "figuras literarias, recursos literarios, lenguaje figurado, me
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Qué sonido se repite en el Fragmento 2 con la palabra "tamborilea"?
 
-### Options
+### Opciones
 - [ ] A) El canto de un pájaro. <!-- feedback: Incorrecto. -->
 - [x] B) El sonido de la lluvia golpeando las hojas. <!-- feedback: Correcto. -->
 - [ ] C) El ruido del viento. <!-- feedback: Incorrecto. -->
@@ -70,12 +78,13 @@ Identificación del elemento descriptivo en un símil.
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 En el Fragmento 4, ¿qué ha perdido el río?
 
-### Options
+### Opciones
 - [ ] A) Su cauce. <!-- feedback: Incorrecto. -->
 - [x] B) Su libertad y su vida (los peces y garvas se fueron). <!-- feedback: Correcto. -->
 - [ ] C) Su nombre. <!-- feedback: Incorrecto. -->
@@ -87,12 +96,13 @@ Comprensión literal del contenido del poema.
 ## Question 3 [D4 - Personificación]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de recursos literarios
 
 ### Enunciado
 ¿Qué figura literaria predomina en el Fragmento 1 "La tierra susurra secretos al viento"?
 
-### Options
+### Opciones
 - [ ] A) Hipérbole. <!-- feedback: Incorrecto. -->
 - [x] B) Personificación (dar cualidades humanas a la tierra y el viento). <!-- feedback: Correcto. -->
 - [ ] C) Onomatopeya. <!-- feedback: Incorrecto. -->
@@ -104,12 +114,13 @@ Identificación de la personificación.
 ## Question 4 [D4 - Símil]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de recursos literarios
 
 ### Enunciado
 ¿Qué figura literaria se usa en "el sol, como un pintor dorado"?
 
-### Options
+### Opciones
 - [ ] A) Metáfora. <!-- feedback: Incorrecto. -->
 - [x] B) Símil (comparación usando "como"). <!-- feedback: Correcto. -->
 - [ ] C) Hipérbole. <!-- feedback: Incorrecto. -->
@@ -121,12 +132,13 @@ Identificación del símil como comparación explícita.
 ## Question 5 [D4 - Onomatopeya]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de recursos literarios
 
 ### Enunciado
 ¿Qué figura literaria encontramos en "¡Toc toc toc!" y "¡tuc-tuc-tuc!"?
 
-### Options
+### Opciones
 - [ ] A) Metáfora. <!-- feedback: Incorrecto. -->
 - [ ] B) Personificación. <!-- feedback: Incorrecto. -->
 - [x] C) Onomatopeya (palabras que imitan sonidos). <!-- feedback: Correcto. -->
@@ -138,12 +150,13 @@ Identificación de la onomatopeya.
 ## Question 6 [D4 - Metáfora]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de recursos literarios
 
 ### Enunciado
 En "Las lianas, serpientes verdes y dormidas", ¿qué figura literaria se usa?
 
-### Options
+### Opciones
 - [ ] A) Símil. <!-- feedback: Incorrecto. -->
 - [x] B) Metáfora (las lianas son comparadas directamente con serpientes). <!-- feedback: Correcto. -->
 - [ ] C) Hipérbole. <!-- feedback: Incorrecto. -->
@@ -155,12 +168,13 @@ Identificación de la metáfora.
 ## Question 7 [D5 - Análisis]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué efecto produce la personificación del río en el Fragmento 4?
 
-### Options
+### Opciones
 - [ ] A) Hace el texto más científico. <!-- feedback: Incorrecto. -->
 - [x] B) Genera empatía al presentar al río como un ser vivo que sufre. <!-- feedback: Correcto. -->
 - [ ] C) Confunde al lector. <!-- feedback: Incorrecto. -->
@@ -172,12 +186,13 @@ Análisis del efecto de la personificación en el lector.
 ## Question 8 [D5 - Metáfora]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué significado tiene "Sudor de generaciones endulza la taza" en el Fragmento 3?
 
-### Options
+### Opciones
 - [ ] A) Que el café es salado. <!-- feedback: Incorrecto. -->
 - [x] B) Que el trabajo de muchas generaciones de caficultores da sabor y valor al café. <!-- feedback: Correcto. -->
 - [ ] C) Que el sudor es dulce. <!-- feedback: Incorrecto. -->
@@ -189,12 +204,13 @@ Interpretación de una metáfora compleja.
 ## Question 9 [D5 - Hipérbole]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué figura literaria está presente en "el techo del mundo" (Fragmento 2)?
 
-### Options
+### Opciones
 - [ ] A) Símil. <!-- feedback: Incorrecto. -->
 - [x] B) Hipérbole (exageración para referirse a la altura de la selva). <!-- feedback: Correcto. -->
 - [ ] C) Ironía. <!-- feedback: Incorrecto. -->
@@ -206,12 +222,13 @@ Identificación de la hipérbole como exageración expresiva.
 ## Question 10 [D5 - Aliteración]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 En "el país entero cabe" (Fragmento 3), ¿qué sentimiento expresa el autor sobre Colombia?
 
-### Options
+### Opciones
 - [ ] A) Que Colombia es pequeña. <!-- feedback: Incorrecto. -->
 - [x] B) Que en una taza de café está representada toda la esencia del país. <!-- feedback: Correcto. -->
 - [ ] C) Que el café cabe en cualquier lado. <!-- feedback: Incorrecto. -->
@@ -223,12 +240,13 @@ Interpretación del significado simbólico de una expresión figurada.
 ## Question 11 [D5 - Contraste]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué contraste usa el Fragmento 4 para mostrar el deterioro del río?
 
-### Options
+### Opciones
 - [ ] A) Día vs. noche. <!-- feedback: Incorrecto. -->
 - [x] B) Pasado libre y feliz vs. presente contaminado y triste. <!-- feedback: Correcto. -->
 - [ ] C) Río grande vs. río pequeño. <!-- feedback: Incorrecto. -->
@@ -240,12 +258,13 @@ Análisis del contraste temporal como recurso literario.
 ## Question 12 [D5 - Intención]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué intención tiene el autor del Fragmento 4 al usar la palabra "lágrimas"?
 
-### Options
+### Opciones
 - [ ] A) Describir el color del agua. <!-- feedback: Incorrecto. -->
 - [x] B) Humanizar el río para denunciar la contaminación. <!-- feedback: Correcto. -->
 - [ ] C) Decir que el río llora de felicidad. <!-- feedback: Incorrecto. -->
@@ -257,12 +276,13 @@ Inferencia de la intención comunicativa del autor.
 ## Question 13 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 En "Rojo como la sangre de la montaña" (Fragmento 3), ¿qué figura literaria predomina?
 
-### Options
+### Opciones
 - [ ] A) Hipérbole. <!-- feedback: Incorrecto. -->
 - [x] B) Símil (comparación con "como"). <!-- feedback: Correcto. -->
 - [ ] C) Personificación. <!-- feedback: Incorrecto. -->
@@ -274,12 +294,13 @@ Identificación del símil en una comparación poética.
 ## Question 14 [D6 - Evaluación]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Qué tienen en común los cuatro fragmentos?
 
-### Options
+### Opciones
 - [ ] A) Todos hablan de animales. <!-- feedback: Incorrecto. -->
 - [x] B) Todos usan figuras literarias para expresar una conexión con la naturaleza colombiana. <!-- feedback: Correcto. -->
 - [ ] C) Todos usan rima perfecta. <!-- feedback: Incorrecto. -->
@@ -291,12 +312,13 @@ Identificación del tema común y propósito estilístico.
 ## Question 15 [D6]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Por qué los poetas usan figuras literarias en lugar de lenguaje literal?
 
-### Options
+### Opciones
 - [ ] A) Porque no saben escribir literalmente. <!-- feedback: Incorrecto. -->
 - [x] B) Para crear imágenes más vívidas, emotivas y sugerentes que el lenguaje común. <!-- feedback: Correcto. -->
 - [ ] C) Para confundir al lector. <!-- feedback: Incorrecto. -->

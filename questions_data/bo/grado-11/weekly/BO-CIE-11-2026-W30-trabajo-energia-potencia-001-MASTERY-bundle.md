@@ -1,24 +1,32 @@
 ---
-id: "BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY"
+id: "BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY-bundle"
 country: "bo"
 exam: "MINEDU - Ministerio de Educacion del Estado Plurinacional"
 grado: 11
 asignatura: "Ciencias Naturales"
 tema: "trabajo-energia-potencia"
-semana: 30
+week: "W30"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "MINEDU - Ley Educativa Avelino Sinani - Elizardo Perez"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle - Ciencias Naturales: Trabajo Energia Potencia (W30)
 **20 preguntas | Ciencias Naturales | MINEDU - Ministerio de Educacion del Estado Plurinacional**
 
 ---
-## Pregunta 1 [D4]
+## Question 1 [D4]
 **ID:** `BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando trabajo energia potencia.
 
@@ -26,21 +34,22 @@ alignment: "MINEDU - Ley Educativa Avelino Sinani - Elizardo Perez"
 Simplifique: (2)(1x + 11)
 
 ### Opciones
-- [x] **A)** 2x + 22
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 2x + 11
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 3x + 22
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 2x - 22
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 2x + 22 <!-- feedback: Correcto! 2x + 22 -->
+
+- [ ] B) 2x + 11 <!-- feedback: Incorrecto. 2x + 11 -->
+
+- [ ] C) 3x + 22 <!-- feedback: Incorrecto. 3x + 22 -->
+
+- [ ] D) 2x - 22 <!-- feedback: Incorrecto. 2x - 22 -->
 
 **Explicacion:** Aplicar distributiva: (2)(1x + 11) = 2x + 22.
 
 ---
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando trabajo energia potencia.
 
@@ -48,21 +57,22 @@ Simplifique: (2)(1x + 11)
 Resuelve: 2(x + 5) = 16
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [ ] C) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] D) 4 <!-- feedback: Incorrecto. 4 -->
 
 **Explicacion:** 2(x+5) = 16 -> x+5 = 8 -> x = 3.
 
 ---
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando trabajo energia potencia.
 
@@ -70,21 +80,22 @@ Resuelve: 2(x + 5) = 16
 Maria compro 2 cuadernos a $10.1 c/u en Riberalta. &iquest;Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $20.1
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** $2.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $10.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $12.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $20.1 <!-- feedback: Correcto! $20.1 -->
+
+- [ ] B) $2.1 <!-- feedback: Incorrecto. $2.1 -->
+
+- [ ] C) $10.1 <!-- feedback: Incorrecto. $10.1 -->
+
+- [ ] D) $12.1 <!-- feedback: Incorrecto. $12.1 -->
 
 **Explicacion:** Total = 2 x $10 = $20.1.
 
 ---
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY-v4`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando trabajo energia potencia.
 
@@ -92,21 +103,22 @@ Maria compro 2 cuadernos a $10.1 c/u en Riberalta. &iquest;Cuanto gasto?
 Un estudiante de Colegio Nacional El Alto en El Alto grafica f(x) = 7x + 1. &iquest;Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 7
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 7 <!-- feedback: Correcto! 7 -->
+
+- [ ] B) 1 <!-- feedback: Incorrecto. 1 -->
+
+- [ ] C) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] D) 7 <!-- feedback: Incorrecto. 7 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 7.
 
 ---
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY-v5`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando trabajo energia potencia.
 
@@ -114,21 +126,22 @@ Un estudiante de Colegio Nacional El Alto en El Alto grafica f(x) = 7x + 1. &iqu
 En un examen ANEP/MEC en Oruro, se pide: si f(x) = 7x^2 + 1x + 5. &iquest;Cual es f(2)?
 
 ### Opciones
-- [x] **A)** 35
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 15
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 35 <!-- feedback: Correcto! 35 -->
+
+- [ ] B) 15 <!-- feedback: Incorrecto. 15 -->
+
+- [ ] C) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [ ] D) 8 <!-- feedback: Incorrecto. 8 -->
 
 **Explicacion:** Sustituyo x=2: f(2) = 7(4) + 1(2) + 5 = 35.
 
 ---
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando trabajo energia potencia.
 
@@ -136,21 +149,22 @@ En un examen ANEP/MEC en Oruro, se pide: si f(x) = 7x^2 + 1x + 5. &iquest;Cual e
 Resuelve la ecuacion: x^2 - 14x + 45 = 0
 
 ### Opciones
-- [x] **A)** x = 5 y x = 9
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** x = 14 y x = 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** x = 0 y x = 45
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** No tiene solucion
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) x = 5 y x = 9 <!-- feedback: Correcto! x = 5 y x = 9 -->
+
+- [ ] B) x = 14 y x = 4 <!-- feedback: Incorrecto. x = 14 y x = 4 -->
+
+- [ ] C) x = 0 y x = 45 <!-- feedback: Incorrecto. x = 0 y x = 45 -->
+
+- [ ] D) No tiene solucion <!-- feedback: Incorrecto. No tiene solucion -->
 
 **Explicacion:** Ecuacion cuadratica: (x-5)(x-9) = 0, por tanto x = 5 o x = 9.
 
 ---
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY-v7`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando trabajo energia potencia.
 
@@ -158,21 +172,22 @@ Resuelve la ecuacion: x^2 - 14x + 45 = 0
 Un estudiante de Cochabamba obtuvo notas: 8, 24, 17. &iquest;Cual es la media?
 
 ### Opciones
-- [x] **A)** 16.3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 32
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 12
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 16.3 <!-- feedback: Correcto! 16.3 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] C) 32 <!-- feedback: Incorrecto. 32 -->
+
+- [ ] D) 12 <!-- feedback: Incorrecto. 12 -->
 
 **Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.
 
 ---
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando trabajo energia potencia.
 
@@ -180,21 +195,22 @@ Un estudiante de Cochabamba obtuvo notas: 8, 24, 17. &iquest;Cual es la media?
 Calcule la derivada de f(x) = 7x^3 + 3x^2 + 7x
 
 ### Opciones
-- [x] **A)** f'(x) = 21x^2 + 6x + 7
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** f'(x) = 7x^2 + 3x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** f'(x) = 21x^2 + 3x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** f'(x) = 21x^3 + 6x^2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) f'(x) = 21x^2 + 6x + 7 <!-- feedback: Correcto! f'(x) = 21x^2 + 6x + 7 -->
+
+- [ ] B) f'(x) = 7x^2 + 3x <!-- feedback: Incorrecto. f'(x) = 7x^2 + 3x -->
+
+- [ ] C) f'(x) = 21x^2 + 3x <!-- feedback: Incorrecto. f'(x) = 21x^2 + 3x -->
+
+- [ ] D) f'(x) = 21x^3 + 6x^2 <!-- feedback: Incorrecto. f'(x) = 21x^3 + 6x^2 -->
 
 **Explicacion:** Derivada termino a termino: d/dx(7x^3) = 21x^2, d/dx(3x^2) = 6x, d/dx(7x) = 7.
 
 ---
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY-v9`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando trabajo energia potencia.
 
@@ -202,21 +218,22 @@ Calcule la derivada de f(x) = 7x^3 + 3x^2 + 7x
 &iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0
 
 ### Opciones
-- [x] **A)** Si, es correcta porque f'(0) = 0 y f''(0) > 0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** No, tiene un maximo en x = 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** No, no tiene extremos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** Solo es correcta para x > 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) Si, es correcta porque f'(0) = 0 y f''(0) > 0 <!-- feedback: Correcto! Si, es correcta porque f'(0) = 0 y f''(0) > 0 -->
+
+- [ ] B) No, tiene un maximo en x = 0 <!-- feedback: Incorrecto. No, tiene un maximo en x = 0 -->
+
+- [ ] C) No, no tiene extremos <!-- feedback: Incorrecto. No, no tiene extremos -->
+
+- [ ] D) Solo es correcta para x > 0 <!-- feedback: Incorrecto. Solo es correcta para x > 0 -->
 
 **Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.
 
 ---
-## Pregunta 10 [D3]
+## Question 10 [D3]
 **ID:** `BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando trabajo energia potencia.
 
@@ -224,21 +241,22 @@ Calcule la derivada de f(x) = 7x^3 + 3x^2 + 7x
 En Trinidad, un estudiante del Colegio Nacional Trinidad resuelve: 6x + 4 = 34. &iquest;Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **D)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] B) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 7 <!-- feedback: Incorrecto. 7 -->
 
 **Explicacion:** Se resta 4 de ambos lados. Luego se divide por 6: x = 5.
 
 ---
-## Pregunta 11 [D4]
+## Question 11 [D4]
 **ID:** `BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY-v11`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando trabajo energia potencia.
 
@@ -246,21 +264,22 @@ En Trinidad, un estudiante del Colegio Nacional Trinidad resuelve: 6x + 4 = 34. 
 Simplifique: (5)(9x + 45)
 
 ### Opciones
-- [x] **A)** 45x + 225
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 45x + 45
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 14x + 225
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 45x - 225
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 45x + 225 <!-- feedback: Correcto! 45x + 225 -->
+
+- [ ] B) 45x + 45 <!-- feedback: Incorrecto. 45x + 45 -->
+
+- [ ] C) 14x + 225 <!-- feedback: Incorrecto. 14x + 225 -->
+
+- [ ] D) 45x - 225 <!-- feedback: Incorrecto. 45x - 225 -->
 
 **Explicacion:** Aplicar distributiva: (5)(9x + 45) = 45x + 225.
 
 ---
-## Pregunta 12 [D3]
+## Question 12 [D3]
 **ID:** `BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY-v12`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando trabajo energia potencia.
 
@@ -268,21 +287,22 @@ Simplifique: (5)(9x + 45)
 Resuelve: 2(x + 2) = 10
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] C) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [ ] D) 1 <!-- feedback: Incorrecto. 1 -->
 
 **Explicacion:** 2(x+2) = 10 -> x+2 = 5 -> x = 3.
 
 ---
-## Pregunta 13 [D4]
+## Question 13 [D4]
 **ID:** `BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY-v13`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando trabajo energia potencia.
 
@@ -290,21 +310,22 @@ Resuelve: 2(x + 2) = 10
 Maria compro 8 cuadernos a $3.3 c/u en Santa Cruz. &iquest;Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $24.3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** $8.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $3.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $11.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $24.3 <!-- feedback: Correcto! $24.3 -->
+
+- [ ] B) $8.3 <!-- feedback: Incorrecto. $8.3 -->
+
+- [ ] C) $3.3 <!-- feedback: Incorrecto. $3.3 -->
+
+- [ ] D) $11.3 <!-- feedback: Incorrecto. $11.3 -->
 
 **Explicacion:** Total = 8 x $3 = $24.3.
 
 ---
-## Pregunta 14 [D5]
+## Question 14 [D5]
 **ID:** `BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY-v14`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando trabajo energia potencia.
 
@@ -312,21 +333,22 @@ Maria compro 8 cuadernos a $3.3 c/u en Santa Cruz. &iquest;Cuanto gasto?
 Un estudiante de Colegio Nacional Trinidad en Trinidad grafica f(x) = 7x + 6. &iquest;Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 7
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 13
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 7 <!-- feedback: Correcto! 7 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] C) 13 <!-- feedback: Incorrecto. 13 -->
+
+- [ ] D) 2 <!-- feedback: Incorrecto. 2 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 7.
 
 ---
-## Pregunta 15 [D5]
+## Question 15 [D5]
 **ID:** `BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY-v15`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando trabajo energia potencia.
 
@@ -334,21 +356,22 @@ Un estudiante de Colegio Nacional Trinidad en Trinidad grafica f(x) = 7x + 6. &i
 En un examen ANEP/MEC en Santa Cruz, se pide: si f(x) = 4x^2 + 10x + 0. &iquest;Cual es f(2)?
 
 ### Opciones
-- [x] **A)** 36
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 18
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 14
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 36 <!-- feedback: Correcto! 36 -->
+
+- [ ] B) 18 <!-- feedback: Incorrecto. 18 -->
+
+- [ ] C) 0 <!-- feedback: Incorrecto. 0 -->
+
+- [ ] D) 14 <!-- feedback: Incorrecto. 14 -->
 
 **Explicacion:** Sustituyo x=2: f(2) = 4(4) + 10(2) + 0 = 36.
 
 ---
-## Pregunta 16 [D6]
+## Question 16 [D6]
 **ID:** `BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY-v16`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando trabajo energia potencia.
 
@@ -356,21 +379,22 @@ En un examen ANEP/MEC en Santa Cruz, se pide: si f(x) = 4x^2 + 10x + 0. &iquest;
 Resuelve la ecuacion: x^2 - 16x + 55 = 0
 
 ### Opciones
-- [x] **A)** x = 5 y x = 11
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** x = 16 y x = 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** x = 0 y x = 55
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** No tiene solucion
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) x = 5 y x = 11 <!-- feedback: Correcto! x = 5 y x = 11 -->
+
+- [ ] B) x = 16 y x = 6 <!-- feedback: Incorrecto. x = 16 y x = 6 -->
+
+- [ ] C) x = 0 y x = 55 <!-- feedback: Incorrecto. x = 0 y x = 55 -->
+
+- [ ] D) No tiene solucion <!-- feedback: Incorrecto. No tiene solucion -->
 
 **Explicacion:** Ecuacion cuadratica: (x-5)(x-11) = 0, por tanto x = 5 o x = 11.
 
 ---
-## Pregunta 17 [D6]
+## Question 17 [D6]
 **ID:** `BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY-v17`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando trabajo energia potencia.
 
@@ -378,21 +402,22 @@ Resuelve la ecuacion: x^2 - 16x + 55 = 0
 Un estudiante de Montero obtuvo notas: 6, 12, 12. &iquest;Cual es la media?
 
 ### Opciones
-- [x] **A)** 10.0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 12
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 10.0 <!-- feedback: Correcto! 10.0 -->
+
+- [ ] B) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] C) 12 <!-- feedback: Incorrecto. 12 -->
+
+- [ ] D) 7 <!-- feedback: Incorrecto. 7 -->
 
 **Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.
 
 ---
-## Pregunta 18 [D7]
+## Question 18 [D7]
 **ID:** `BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY-v18`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando trabajo energia potencia.
 
@@ -400,21 +425,22 @@ Un estudiante de Montero obtuvo notas: 6, 12, 12. &iquest;Cual es la media?
 Calcule la derivada de f(x) = 4x^3 + 2x^2 + 7x
 
 ### Opciones
-- [x] **A)** f'(x) = 12x^2 + 4x + 7
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** f'(x) = 4x^2 + 2x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** f'(x) = 12x^2 + 2x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** f'(x) = 12x^3 + 4x^2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) f'(x) = 12x^2 + 4x + 7 <!-- feedback: Correcto! f'(x) = 12x^2 + 4x + 7 -->
+
+- [ ] B) f'(x) = 4x^2 + 2x <!-- feedback: Incorrecto. f'(x) = 4x^2 + 2x -->
+
+- [ ] C) f'(x) = 12x^2 + 2x <!-- feedback: Incorrecto. f'(x) = 12x^2 + 2x -->
+
+- [ ] D) f'(x) = 12x^3 + 4x^2 <!-- feedback: Incorrecto. f'(x) = 12x^3 + 4x^2 -->
 
 **Explicacion:** Derivada termino a termino: d/dx(4x^3) = 12x^2, d/dx(2x^2) = 4x, d/dx(7x) = 7.
 
 ---
-## Pregunta 19 [D7]
+## Question 19 [D7]
 **ID:** `BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY-v19`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando trabajo energia potencia.
 
@@ -422,21 +448,22 @@ Calcule la derivada de f(x) = 4x^3 + 2x^2 + 7x
 &iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0
 
 ### Opciones
-- [x] **A)** Si, es correcta porque f'(0) = 0 y f''(0) > 0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** No, tiene un maximo en x = 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** No, no tiene extremos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** Solo es correcta para x > 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) Si, es correcta porque f'(0) = 0 y f''(0) > 0 <!-- feedback: Correcto! Si, es correcta porque f'(0) = 0 y f''(0) > 0 -->
+
+- [ ] B) No, tiene un maximo en x = 0 <!-- feedback: Incorrecto. No, tiene un maximo en x = 0 -->
+
+- [ ] C) No, no tiene extremos <!-- feedback: Incorrecto. No, no tiene extremos -->
+
+- [ ] D) Solo es correcta para x > 0 <!-- feedback: Incorrecto. Solo es correcta para x > 0 -->
 
 **Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.
 
 ---
-## Pregunta 20 [D3]
+## Question 20 [D3]
 **ID:** `BO-CIE-11-2026-W30-trabajo-energia-potencia-001-MASTERY-v20`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando trabajo energia potencia.
 
@@ -444,14 +471,13 @@ Calcule la derivada de f(x) = 4x^3 + 2x^2 + 7x
 En Potos, un estudiante del Colegio Nacional Potos resuelve: 6x + 7 = 37. &iquest;Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **D)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] B) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 8 <!-- feedback: Incorrecto. 8 -->
 
 **Explicacion:** Se resta 7 de ambos lados. Luego se divide por 6: x = 5.
 

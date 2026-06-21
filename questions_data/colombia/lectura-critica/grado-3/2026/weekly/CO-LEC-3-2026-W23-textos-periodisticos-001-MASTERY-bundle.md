@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W23-textos-periodisticos-001-MASTERY"
+id: "CO-LEC-3-2026-W23-textos-periodisticos-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 23
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Periodísticos
 
@@ -25,6 +30,7 @@ Este bundle evalúa la comprensión de diversos géneros periodísticos (noticia
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **GRAN DESFILE DE SILLETEROS EN MEDELLÍN**
@@ -33,7 +39,7 @@ El pasado domingo, las calles de Medellín se llenaron de flores con el tradicio
 ### Enunciado
 ¿Cuál es el propósito principal de este texto periodístico?
 
-### Options
+### Opciones
 - [ ] A) Contar un chiste sobre las flores. <!-- feedback: Incorrecto. El texto es serio e informativo. -->
 - [x] B) Informar sobre un evento cultural que ocurrió en Medellín. <!-- feedback: ¡Correcto! Es una noticia que relata un hecho real y actual. -->
 - [ ] C) Enseñar cómo cultivar flores en el jardín. <!-- feedback: Incorrecto. El texto habla del desfile, no del cultivo. -->
@@ -49,6 +55,7 @@ Identificar la intención comunicativa de los textos periodísticos es fundament
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En un periódico para niños, aparece este título: **ENTREVISTA CON UN ASTRONAUTA**.
@@ -58,7 +65,7 @@ En un periódico para niños, aparece este título: **ENTREVISTA CON UN ASTRONAU
 ### Enunciado
 ¿Qué tipo de texto periodístico es este y por qué?
 
-### Options
+### Opciones
 - [ ] A) Una noticia, porque cuenta algo que pasó ayer. <!-- feedback: Incorrecto. No relata un hecho puntual reciente, sino una conversación. -->
 - [ ] B) Un cuento, porque los astronautas son de mentira. <!-- feedback: Incorrecto. Los astronautas existen y el texto tiene formato de preguntas y respuestas. -->
 - [x] C) Una entrevista, porque hay un diálogo entre un periodista y un invitado. <!-- feedback: ¡Correcto! La estructura de preguntas y respuestas define a la entrevista. -->
@@ -74,6 +81,7 @@ Diferenciar los géneros periodísticos por su estructura interna (como el diál
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "El nuevo parque de la ciudad es el lugar más hermoso que se haya construido jamás. Sus fuentes de agua son maravillosas y los árboles dan una sombra perfecta para descansar".
@@ -81,7 +89,7 @@ Diferenciar los géneros periodísticos por su estructura interna (como el diál
 ### Enunciado
 ¿Qué podemos decir sobre este fragmento de texto?
 
-### Options
+### Opciones
 - [ ] A) Que solo contiene hechos comprobables. <!-- feedback: Incorrecto. Usa palabras como "más hermoso" y "maravillosas" que son gustos de quien escribe. -->
 - [x] B) Que contiene muchas opiniones del autor. <!-- feedback: ¡Correcto! El uso de adjetivos positivos exagerados demuestra que el autor está dando su punto de vista personal. -->
 - [ ] C) Que es un texto científico sobre los parques. <!-- feedback: Incorrecto. No usa lenguaje técnico ni datos objetivos. -->
@@ -97,6 +105,7 @@ Distinguir entre hechos y opiniones es una habilidad crítica. El estudiante deb
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **ALERTA POR EL USO DE AGUA EN VERANO**
@@ -105,7 +114,7 @@ Distinguir entre hechos y opiniones es una habilidad crítica. El estudiante deb
 ### Enunciado
 ¿A quiénes va dirigida principalmente esta información?
 
-### Options
+### Opciones
 - [ ] A) A los dueños de los lavaderos de carros. <!-- feedback: Incorrecto. El mensaje es para todos los ciudadanos en general. -->
 - [x] B) A todas las personas que viven en la ciudad. <!-- feedback: ¡Correcto! Es una alerta pública que busca que toda la comunidad cambie sus hábitos. -->
 - [ ] C) Solo a los niños del colegio. <!-- feedback: Incorrecto. El mensaje incluye actividades que hacen los adultos como lavar el carro. -->
@@ -121,6 +130,7 @@ Identificar el destinatario de un texto periodístico permite comprender el alca
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "El deportista colombiano ganó la medalla de oro tras una carrera de 100 metros. Fue un momento emocionante donde todo el estadio se puso de pie para aplaudirlo. Sin duda, es el mejor atleta de la historia del país".
@@ -128,7 +138,7 @@ Identificar el destinatario de un texto periodístico permite comprender el alca
 ### Enunciado
 En el texto anterior, ¿cuál parte es un **hecho** (algo que se puede comprobar)?
 
-### Options
+### Opciones
 - [ ] A) Fue un momento emocionante. <!-- feedback: Incorrecto. La emoción depende de cada persona, es subjetivo. -->
 - [x] B) El deportista ganó la medalla de oro en 100 metros. <!-- feedback: ¡Correcto! El premio y la distancia son datos reales y verificables. -->
 - [ ] C) Es el mejor atleta de la historia. <!-- feedback: Incorrecto. Esta es una opinión exagerada que puede discutirse. -->
@@ -144,6 +154,7 @@ Analizar frases mezcladas de hechos y opiniones ayuda a los estudiantes a ser le
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En un periódico, debajo de una foto de un río lleno de basura, dice: "**RÍO BOGOTÁ: UNA TAREA PENDIENTE PARA TODOS**".
@@ -151,7 +162,7 @@ En un periódico, debajo de una foto de un río lleno de basura, dice: "**RÍO B
 ### Enunciado
 ¿Qué función cumple este texto corto (llamado pie de foto) junto a la imagen?
 
-### Options
+### Opciones
 - [ ] A) Decirnos el nombre de los peces que viven allí. <!-- feedback: Incorrecto. El texto no menciona peces. -->
 - [ ] B) Explicar cómo se toma una fotografía profesional. <!-- feedback: Incorrecto. No habla de técnica fotográfica. -->
 - [x] C) Explicar el mensaje de la foto y llamar a la responsabilidad de la gente. <!-- feedback: ¡Correcto! El texto complementa la imagen de contaminación con una idea de compromiso social. -->
@@ -167,6 +178,7 @@ Comprender la relación entre texto e imagen (pie de foto) es parte de la alfabe
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **DOS FORMAS DE DAR UNA NOTICIA:**
@@ -176,7 +188,7 @@ Comprender la relación entre texto e imagen (pie de foto) es parte de la alfabe
 ### Enunciado
 ¿Cuál es la principal diferencia entre estas dos formas de informar?
 
-### Options
+### Opciones
 - [ ] A) La opción 1 es más larga que la 2. <!-- feedback: Incorrecto. Tienen casi la misma extensión. -->
 - [ ] B) La opción 2 da más información sobre dónde conseguir la vacuna. <!-- feedback: Incorrecto. La opción 1 es la que dice que está en los hospitales. -->
 - [x] C) La opción 1 es objetiva e informativa, mientras que la 2 es exagerada y sensacionalista. <!-- feedback: ¡Correcto! La opción 1 se centra en los hechos, la 2 usa palabras emocionales para llamar la atención. -->
@@ -192,6 +204,7 @@ Identificar el sensacionalismo en los medios es una habilidad de lectura crític
 **Bloom:** Evaluate
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un periódico publica una noticia sobre un nuevo videojuego, pero la nota fue escrita por la misma empresa que vende el juego.
@@ -199,7 +212,7 @@ Un periódico publica una noticia sobre un nuevo videojuego, pero la nota fue es
 ### Enunciado
 ¿Por qué deberías leer esta noticia con mucho cuidado y sentido crítico?
 
-### Options
+### Opciones
 - [ ] A) Porque la empresa no sabe escribir bien. <!-- feedback: Incorrecto. Probablemente escriban muy bien para convencer a la gente. -->
 - [x] B) Porque la empresa tiene interés en que el juego se venda y solo dirá cosas buenas. <!-- feedback: ¡Correcto! Cuando quien escribe tiene un interés económico, la noticia puede dejar de ser objetiva. -->
 - [ ] C) Porque los videojuegos son peligrosos para los niños. <!-- feedback: Incorrecto. El tema no es la peligrosidad, sino la honestidad de la información. -->

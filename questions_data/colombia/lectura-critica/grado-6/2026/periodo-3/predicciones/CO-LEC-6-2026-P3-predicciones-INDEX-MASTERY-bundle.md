@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-P3-predicciones-INDEX-MASTERY"
+id: "CO-LEC-6-2026-P3-predicciones-INDEX-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "predicciones, anticipación, hipótesis, continuación narrativa, consecuencias lógicas"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G6 — Predicciones
 
@@ -29,12 +36,13 @@ rubric_baseline: "predicciones, anticipación, hipótesis, continuación narrati
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Dónde vive Valeria?
 
-### Options
+### Opciones
 - [ ] A) En Bogotá. <!-- feedback: Incorrecto. -->
 - [x] B) En una vereda cerca de San Gil, Santander. <!-- feedback: Correcto. -->
 - [ ] C) En Medellín. <!-- feedback: Incorrecto. -->
@@ -46,12 +54,13 @@ Identificación del lugar de residencia.
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Qué le regaló el abuelo a Valeria?
 
-### Options
+### Opciones
 - [ ] A) Un libro de aves. <!-- feedback: Incorrecto. -->
 - [x] B) Un parapente de juguete. <!-- feedback: Correcto. -->
 - [ ] C) Un telescopio. <!-- feedback: Incorrecto. -->
@@ -63,12 +72,13 @@ Identificación de un objeto explícito.
 ## Question 3 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Cuál es el sueño de Valeria desde pequeña?
 
-### Options
+### Opciones
 - [ ] A) Ser médica. <!-- feedback: Incorrecto. -->
 - [x] B) Volar como las aves. <!-- feedback: Correcto. -->
 - [ ] C) Mudarse a la ciudad. <!-- feedback: Incorrecto. -->
@@ -80,12 +90,13 @@ Comprensión del deseo principal de la protagonista.
 ## Question 4 [D5 - Predicción]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué crees que hará Valeria cuando llegue a la colina con el instructor?
 
-### Options
+### Opciones
 - [ ] A) Devolverse a casa. <!-- feedback: Incorrecto. -->
 - [x] B) Tomar su primera clase de parapente, cumpliendo su sueño de volar. <!-- feedback: Correcto. -->
 - [ ] C) Mirar las aves con binoculares. <!-- feedback: Incorrecto. -->
@@ -97,12 +108,13 @@ Predicción lógica basada en el desarrollo de la historia y el sueño de la pro
 ## Question 5 [D5 - Predicción]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Por qué Valeria se levantó temprano en la mañana?
 
-### Options
+### Opciones
 - [ ] A) Porque tenía colegio. <!-- feedback: Incorrecto. -->
 - [x] B) Porque el clima despejado es ideal para volar en parapente. <!-- feedback: Correcto. -->
 - [ ] C) Porque tenía cita médica. <!-- feedback: Incorrecto. -->
@@ -114,12 +126,13 @@ Predicción a partir de pistas contextuales (cielo despejado, mochila, colina).
 ## Question 6 [D5 - Predicción]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué crees que sintió el abuelo al ver que Valeria cumplía su sueño?
 
-### Options
+### Opciones
 - [ ] A) Miedo. <!-- feedback: Incorrecto. -->
 - [x] B) Orgullo y emoción, porque él la animó desde pequeña. <!-- feedback: Correcto. -->
 - [ ] C) Enojo. <!-- feedback: Incorrecto. -->
@@ -131,12 +144,13 @@ Predicción de emociones a partir de las relaciones entre personajes.
 ## Question 7 [D5 - Predicción]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Qué podría pasar si Valeria tiene éxito en su primer vuelo?
 
-### Options
+### Opciones
 - [ ] A) Dejará de mirar las aves. <!-- feedback: Incorrecto. -->
 - [x] B) Querrá seguir volando y tal vez convertirse en instructora de parapente. <!-- feedback: Correcto. -->
 - [ ] C) Se mudará a otra ciudad. <!-- feedback: Incorrecto. -->
@@ -148,12 +162,13 @@ Predicción de consecuencias a largo plazo basada en la pasión demostrada.
 ## Question 8 [D5 - Predicción]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Por qué los padres de Valeria dudaban al principio?
 
-### Options
+### Opciones
 - [ ] A) Porque no les gusta volar. <!-- feedback: Incorrecto. -->
 - [x] B) Porque les preocupaba la seguridad de su hija. <!-- feedback: Correcto. -->
 - [ ] C) Porque no tenían dinero. <!-- feedback: Incorrecto. -->
@@ -165,12 +180,13 @@ Inferencia de las motivaciones de los personajes.
 ## Question 9 [D5 - Predicción]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué relación hay entre el parapente de juguete y el sueño de Valeria?
 
-### Options
+### Opciones
 - [ ] A) No hay relación. <!-- feedback: Incorrecto. -->
 - [x] B) El juguete fue un símbolo del apoyo del abuelo a su sueño de volar. <!-- feedback: Correcto. -->
 - [ ] C) El juguete le dio miedo. <!-- feedback: Incorrecto. -->
@@ -182,12 +198,13 @@ Inferencia del valor simbólico de un objeto en la narrativa.
 ## Question 10 [D5 - Predicción]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Qué enseñanza podemos anticipar de esta historia?
 
-### Options
+### Opciones
 - [ ] A) Que volar es peligroso. <!-- feedback: Incorrecto. -->
 - [x] B) Que con perseverancia y apoyo familiar, los sueños pueden cumplirse. <!-- feedback: Correcto. -->
 - [ ] C) Que los abuelos siempre tienen la razón. <!-- feedback: Incorrecto. -->

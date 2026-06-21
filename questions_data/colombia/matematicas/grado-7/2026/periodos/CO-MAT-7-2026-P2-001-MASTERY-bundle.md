@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-7-2026-W20-examen-periodo-2-001-MASTERY"
+id: "CO-MAT-7-2026-P2-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "matematicas"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 20
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W20 — Examen Periodo 2
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v1`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** I.E. Francisco de Paula Santander en Ibagué
+**Contexto:** I.E. Francisco de Paula Santander en Ibagué
 **Expected_Success:** 0.52
 
 ### Enunciado
 En la clase de Matematicas del I.E. Francisco de Paula Santander en Ibagué, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Sincelejo
+**Contexto:** I.E. San José en Sincelejo
 **Expected_Success:** 0.58
 
 ### Enunciado
 En la clase de Matematicas del I.E. San José en Sincelejo, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v3`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Sincelejo
+**Contexto:** Gimnasio Moderno en Sincelejo
 **Expected_Success:** 0.61
 
 ### Enunciado
 En la clase de Matematicas del Gimnasio Moderno en Sincelejo, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** Colegio Nacional San Bartolomé en Manizales
+**Contexto:** Colegio Nacional San Bartolomé en Manizales
 **Expected_Success:** 0.60
 
 ### Enunciado
 En la clase de Matematicas del Colegio Nacional San Bartolomé en Manizales, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Cúcuta
+**Contexto:** Gimnasio Moderno en Cúcuta
 **Expected_Success:** 0.76
 
 ### Enunciado
 En la clase de Matematicas del Gimnasio Moderno en Cúcuta, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Manizales
+**Contexto:** I.E. Francisco de Paula Santander en Manizales
 **Expected_Success:** 0.77
 
 ### Enunciado
 En la clase de Matematicas del I.E. Francisco de Paula Santander en Manizales, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v7`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Sincelejo
+**Contexto:** Colegio La Presentación en Sincelejo
 **Expected_Success:** 0.52
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Sincelejo, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v8`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** I.E. San José en Riohacha
+**Contexto:** I.E. San José en Riohacha
 **Expected_Success:** 0.51
 
 ### Enunciado
 En la clase de Matematicas del I.E. San José en Riohacha, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v9`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Armenia
+**Contexto:** I.E. Gabriel García Márquez en Armenia
 **Expected_Success:** 0.56
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Armenia, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** Gimnasio Moderno en Pereira
+**Contexto:** Gimnasio Moderno en Pereira
 **Expected_Success:** 0.56
 
 ### Enunciado
 En la clase de Matematicas del Gimnasio Moderno en Pereira, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -244,13 +249,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v11`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** I.E. San José en Sincelejo
+**Contexto:** I.E. San José en Sincelejo
 **Expected_Success:** 0.62
 
 ### Enunciado
 En la clase de Matematicas del I.E. San José en Sincelejo, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -266,13 +271,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Tunja
+**Contexto:** I.E. Gabriel García Márquez en Tunja
 **Expected_Success:** 0.71
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Tunja, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -288,13 +293,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v13`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. Gabriel García Márquez en Armenia
+**Contexto:** I.E. Gabriel García Márquez en Armenia
 **Expected_Success:** 0.69
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Armenia, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -310,13 +315,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v14`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Cúcuta
+**Contexto:** I.E. Gabriel García Márquez en Cúcuta
 **Expected_Success:** 0.74
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Cúcuta, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -332,13 +337,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v15`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** I.E. Francisco de Paula Santander en Pereira
+**Contexto:** I.E. Francisco de Paula Santander en Pereira
 **Expected_Success:** 0.66
 
 ### Enunciado
 En la clase de Matematicas del I.E. Francisco de Paula Santander en Pereira, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -354,13 +359,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v16`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Tunja
+**Contexto:** Gimnasio Moderno en Tunja
 **Expected_Success:** 0.72
 
 ### Enunciado
 En la clase de Matematicas del Gimnasio Moderno en Tunja, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -376,13 +381,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v17`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Cartagena
+**Contexto:** I.E. Gabriel García Márquez en Cartagena
 **Expected_Success:** 0.58
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Cartagena, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -398,13 +403,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v18`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Bogotá
+**Contexto:** I.E. Francisco de Paula Santander en Bogotá
 **Expected_Success:** 0.72
 
 ### Enunciado
 En la clase de Matematicas del I.E. Francisco de Paula Santander en Bogotá, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -420,13 +425,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v19`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Pasto
+**Contexto:** I.E. Gabriel García Márquez en Pasto
 **Expected_Success:** 0.67
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Pasto, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -442,13 +447,13 @@ El tema de Examen Periodo 2 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v20`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Quibdó
+**Contexto:** Gimnasio Moderno en Quibdó
 **Expected_Success:** 0.67
 
 ### Enunciado
 En la clase de Matematicas del Gimnasio Moderno en Quibdó, se discute sobre Examen Periodo 2. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 2 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 2 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

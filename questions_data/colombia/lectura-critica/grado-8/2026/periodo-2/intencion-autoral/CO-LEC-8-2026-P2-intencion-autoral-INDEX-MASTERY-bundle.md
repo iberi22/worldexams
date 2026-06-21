@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-8-2026-P2-intencion-autoral-INDEX-MASTERY"
+id: "CO-LEC-8-2026-P2-intencion-autoral-INDEX-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.20"
   simulated_responses: 100
 rubric_baseline: "intención autoral, propósito comunicativo, tono, recursos retóricos, postura ideológica, mensaje implícito"
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G8 — Intención Autoral
 
@@ -36,12 +43,13 @@ rubric_baseline: "intención autoral, propósito comunicativo, tono, recursos re
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 Según el Texto A, ¿cuánto tiempo ha pasado desde el primer plan de descontaminación?
 
-### Options
+### Opciones
 - [ ] A) 10 años. <!-- feedback: Incorrecto. -->
 - [x] B) 30 años. <!-- feedback: Correcto. -->
 - [ ] C) 50 años. <!-- feedback: Incorrecto. -->
@@ -53,12 +61,13 @@ Identificación de un dato temporal explícito.
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 En el Texto B, ¿qué lanzó Laura al río?
 
-### Options
+### Opciones
 - [ ] A) Una moneda. <!-- feedback: Incorrecto. -->
 - [x] B) Una semilla. <!-- feedback: Correcto. -->
 - [ ] C) Un pez. <!-- feedback: Incorrecto. -->
@@ -70,12 +79,13 @@ Identificación de un elemento narrativo.
 ## Question 3 [D4 - Intención]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Cuál es la intención principal del Texto A (editorial)?
 
-### Options
+### Opciones
 - [ ] A) Informar neutralmente sobre el río. <!-- feedback: Incorrecto. -->
 - [x] B) Denunciar y criticar la inacción gubernamental para generar indignación y exigir acción. <!-- feedback: Correcto. -->
 - [ ] C) Entretener con una historia. <!-- feedback: Incorrecto. -->
@@ -87,12 +97,13 @@ Identificación de la intención crítica y denunciante de una editorial.
 ## Question 4 [D4 - Intención]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Cuál es la intención principal del Texto B (cuento)?
 
-### Options
+### Opciones
 - [ ] A) Denunciar al gobierno. <!-- feedback: Incorrecto. -->
 - [x] B) Transmitir un mensaje de esperanza y conciencia ecológica a través de una historia simbólica. <!-- feedback: Correcto. -->
 - [ ] C) Informar sobre plantas de tratamiento. <!-- feedback: Incorrecto. -->
@@ -104,12 +115,13 @@ Identificación de la intención narrativa y simbólica.
 ## Question 5 [D4 - Intención]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Cuál es la intención principal del Texto C (anuncio gubernamental)?
 
-### Options
+### Opciones
 - [ ] A) Criticar a la administración pasada. <!-- feedback: Incorrecto. -->
 - [x] B) Presentar una imagen positiva de la gestión actual y motivar la participación ciudadana. <!-- feedback: Correcto. -->
 - [ ] C) Contar una historia sobre el río. <!-- feedback: Incorrecto. -->
@@ -121,12 +133,13 @@ Identificación de la intención propagandística o comunicacional.
 ## Question 6 [D5 - Tono]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué tono predomina en el Texto A?
 
-### Options
+### Opciones
 - [ ] A) Alegre y optimista. <!-- feedback: Incorrecto. -->
 - [x] B) Crítico, indignado y urgente. <!-- feedback: Correcto. -->
 - [ ] C) Neutral y objetivo. <!-- feedback: Incorrecto. -->
@@ -138,12 +151,13 @@ Análisis del tono como indicador de la intención autoral.
 ## Question 7 [D5 - Tono]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué tono predomina en el Texto C?
 
-### Options
+### Opciones
 - [ ] A) Crítico y negativo. <!-- feedback: Incorrecto. -->
 - [x] B) Optimista, triunfalista y motivador. <!-- feedback: Correcto. -->
 - [ ] C) Triste y melancólico. <!-- feedback: Incorrecto. -->
@@ -155,12 +169,13 @@ Análisis del tono optimista como herramienta de comunicación gubernamental.
 ## Question 8 [D5 - Recursos retóricos]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué recurso usa el Texto A para generar indignación?
 
-### Options
+### Opciones
 - [ ] A) Datos positivos. <!-- feedback: Incorrecto. -->
 - [x] B) La palabra "vergüenza" y la repetición del incumplimiento ("30 años", "sistemáticamente"). <!-- feedback: Correcto. -->
 - [ ] C) Personificación del río. <!-- feedback: Incorrecto. -->
@@ -172,12 +187,13 @@ Identificación de recursos retóricos usado para crear una reacción emocional.
 ## Question 9 [D5 - Mensaje implícito]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué mensaje implícito transmite el Texto B con el jardín flotante?
 
-### Options
+### Opciones
 - [ ] A) Que la contaminación no tiene solución. <!-- feedback: Incorrecto. -->
 - [x] B) Que incluso un acto pequeño (una semilla) puede iniciar un cambio positivo. <!-- feedback: Correcto. -->
 - [ ] C) Que los ríos pueden soñar. <!-- feedback: Incorrecto. -->
@@ -189,12 +205,13 @@ Interpretación del mensaje simbólico detrás de la metáfora.
 ## Question 10 [D5 - Contraste de intenciones]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Por qué el Texto A y el Texto C tienen posturas opuestas sobre el mismo plan?
 
-### Options
+### Opciones
 - [ ] A) Porque uno dice verdad y otro miente. <!-- feedback: Incorrecto. -->
 - [x] B) Porque tienen intenciones distintas: uno busca denunciar, el otro busca proyectar una imagen exitosa. <!-- feedback: Correcto. -->
 - [ ] C) Porque se escribieron en años distintos. <!-- feedback: Incorrecto. -->
@@ -206,12 +223,13 @@ Análisis de cómo la intención determina la selección y presentación de la i
 ## Question 11 [D5 - Público objetivo]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿A qué público se dirige principalmente el Texto C?
 
-### Options
+### Opciones
 - [ ] A) A científicos ambientales. <!-- feedback: Incorrecto. -->
 - [x] B) A la ciudadanía bogotana en general. <!-- feedback: Correcto. -->
 - [ ] C) A los niños. <!-- feedback: Incorrecto. -->
@@ -223,12 +241,13 @@ Identificación del público objetivo según el lenguaje y el canal.
 ## Question 12 [D5 - Lenguaje]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué tipo de lenguaje usa el Texto B que lo diferencia del A y del C?
 
-### Options
+### Opciones
 - [ ] A) Lenguaje técnico y legal. <!-- feedback: Incorrecto. -->
 - [ ] B) Lenguaje estadístico. <!-- feedback: Incorrecto. -->
 - [x] C) Lenguaje literario y figurado (personificación, metáfora). <!-- feedback: Correcto. -->
@@ -240,12 +259,13 @@ Diferenciación del lenguaje según el género textual y la intención.
 ## Question 13 [D6 - Evaluación de intención]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Cuál texto es más objetivo y cuál es más subjetivo?
 
-### Options
+### Opciones
 - [ ] A) Todos son objetivos. <!-- feedback: Incorrecto. -->
 - [ ] B) A es objetivo, B y C subjetivos. <!-- feedback: Incorrecto. -->
 - [ ] C) B es objetivo, A y C subjetivos. <!-- feedback: Incorrecto. -->
@@ -257,12 +277,13 @@ Evaluación de la objetividad/subjetividad como reflejo de la intención autoral
 ## Question 14 [D6]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Por qué es importante identificar la intención del autor al leer un texto?
 
-### Options
+### Opciones
 - [ ] A) Para saber si el autor es bueno o malo. <!-- feedback: Incorrecto. -->
 - [x] B) Para comprender por qué el autor seleccionó cierta información y la presentó de cierta manera. <!-- feedback: Correcto. -->
 - [ ] C) Para memorizar datos. <!-- feedback: Incorrecto. -->
@@ -274,12 +295,13 @@ Reflexión metacognitiva sobre la importancia del análisis de intención en la 
 ## Question 15 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 Si el Texto A y el Texto C hablan del mismo plan de descontaminación, ¿cómo explicarías sus diferencias?
 
-### Options
+### Opciones
 - [ ] A) Uno tiene razón y el otro no. <!-- feedback: Incorrecto. -->
 - [x] B) Responden a intereses distintos: el editorial busca crítica y vigilancia ciudadana; el anuncio busca legitimar la gestión pública. Ambas pueden contener verdades parciales. <!-- feedback: Correcto. -->
 - [ ] C) Uno es viejo y otro es nuevo. <!-- feedback: Incorrecto. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-7-2026-W35-tema-semana-35-de-sociales-y-ciudadanas-001-MASTERY"
+id: "CO-SOC-7-2026-W35-tema-semana-35-de-sociales-y-ciudadanas-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-y-ciudadanas"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 12
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 12
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W35 — Tema Semana 35 de Sociales y Ciudadanas
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Sincelejo
+**Contexto:** I.E. Jorge Eliécer Gaitán en Sincelejo
 **Expected_Success:** 0.74
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. Jorge Eliécer Gaitán en Sincelejo, se discute sobre Tema Semana 35 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 35 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** Colegio Nacional San Bartolomé en Cartagena
+**Contexto:** Colegio Nacional San Bartolomé en Cartagena
 **Expected_Success:** 0.79
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del Colegio Nacional San Bartolomé en Cartagena, se discute sobre Tema Semana 35 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 35 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** I.E. Francisco de Paula Santander en Sincelejo
+**Contexto:** I.E. Francisco de Paula Santander en Sincelejo
 **Expected_Success:** 0.53
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. Francisco de Paula Santander en Sincelejo, se discute sobre Tema Semana 35 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 35 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** I.E. Francisco de Paula Santander en Riohacha
+**Contexto:** I.E. Francisco de Paula Santander en Riohacha
 **Expected_Success:** 0.72
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. Francisco de Paula Santander en Riohacha, se discute sobre Tema Semana 35 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 35 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Cúcuta
+**Contexto:** Colegio La Presentación en Cúcuta
 **Expected_Success:** 0.62
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del Colegio La Presentación en Cúcuta, se discute sobre Tema Semana 35 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 35 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Cúcuta
+**Contexto:** I.E. San José en Cúcuta
 **Expected_Success:** 0.55
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. San José en Cúcuta, se discute sobre Tema Semana 35 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 35 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Quibdó
+**Contexto:** I.E. San José en Quibdó
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. San José en Quibdó, se discute sobre Tema Semana 35 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 35 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** I.E. Francisco de Paula Santander en Cúcuta
+**Contexto:** I.E. Francisco de Paula Santander en Cúcuta
 **Expected_Success:** 0.56
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. Francisco de Paula Santander en Cúcuta, se discute sobre Tema Semana 35 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 35 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Barranquilla
+**Contexto:** I.E. Gabriel García Márquez en Barranquilla
 **Expected_Success:** 0.66
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. Gabriel García Márquez en Barranquilla, se discute sobre Tema Semana 35 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 35 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Barranquilla
+**Contexto:** I.E. San José en Barranquilla
 **Expected_Success:** 0.67
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. San José en Barranquilla, se discute sobre Tema Semana 35 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -244,13 +249,13 @@ El tema de Tema Semana 35 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v11`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Cali
+**Contexto:** I.E. Gabriel García Márquez en Cali
 **Expected_Success:** 0.57
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del I.E. Gabriel García Márquez en Cali, se discute sobre Tema Semana 35 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -266,13 +271,13 @@ El tema de Tema Semana 35 de Sociales y Ciudadanas es central en el currículo d
 **ID:** `CO-SOC-7-2026-W00-tema seman-001-MASTERY-v12`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Medellín
+**Contexto:** Colegio Nacional San Bartolomé en Medellín
 **Expected_Success:** 0.65
 
 ### Enunciado
 En la clase de Sociales y Ciudadanas del Colegio Nacional San Bartolomé en Medellín, se discute sobre Tema Semana 35 de Sociales y Ciudadanas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 35 de Sociales y Ciudadanas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

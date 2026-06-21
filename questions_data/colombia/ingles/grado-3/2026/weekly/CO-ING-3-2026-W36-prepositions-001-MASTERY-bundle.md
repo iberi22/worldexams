@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W36-prepositions-001-MASTERY"
+id: "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "prepositions"
 periodo: "weekly"
-semana: 36
+week: "W36"
 year: 2026
 protocol_version: "5.2"
 bundle_index: 1
@@ -21,7 +21,10 @@ license: "FREE"
 tier: "mastery"
 creador: "Jules"
 
+bundle_type: "weekly"
+total_questions: 10
 ---
+
 
 # Weekly Pack W36: Prepositions (A1)
 
@@ -34,12 +37,12 @@ This bundle focuses on identifying and using basic prepositions of place (in, on
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
-**Context:** Placing an object on a surface.
+**Contexto:** Placing an object on a surface.
 
 ### Enunciado
 The book is **_________** the table. 📖➡️table
 
-### Options
+### Opciones
 - [ ] A) in <!-- feedback: Incorrect. "In" means inside. -->
 - [x] B) on <!-- feedback: Correct! "On" is used for objects on a surface. -->
 - [ ] C) under <!-- feedback: Incorrect. -->
@@ -55,12 +58,12 @@ The book is **_________** the table. 📖➡️table
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
-**Context:** Placing an object inside a container.
+**Contexto:** Placing an object inside a container.
 
 ### Enunciado
 The pencils are **_________** the pencil case. ✏️➡️👝
 
-### Options
+### Opciones
 - [x] A) in <!-- feedback: Correct! "In" means inside a container or space. -->
 - [ ] B) on <!-- feedback: Incorrect. -->
 - [ ] C) next to <!-- feedback: Incorrect. -->
@@ -76,12 +79,12 @@ The pencils are **_________** the pencil case. ✏️➡️👝
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
-**Context:** Below an object.
+**Contexto:** Below an object.
 
 ### Enunciado
 The cat is hiding **_________** the chair. 🐈➡️🪑(bottom)
 
-### Options
+### Opciones
 - [ ] A) on <!-- feedback: Incorrect. -->
 - [ ] B) in <!-- feedback: Incorrect. -->
 - [x] C) under <!-- feedback: Correct! "Under" means below or beneath. -->
@@ -97,12 +100,12 @@ The cat is hiding **_________** the chair. 🐈➡️🪑(bottom)
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
-**Context:** Beside another object.
+**Contexto:** Beside another object.
 
 ### Enunciado
 My house is **_________** the park. It is very close. 🏠🌳
 
-### Options
+### Opciones
 - [ ] A) under <!-- feedback: Incorrect. -->
 - [x] B) next to <!-- feedback: Correct! "Next to" means beside or to the side of. -->
 - [ ] C) in <!-- feedback: Incorrect. -->
@@ -118,12 +121,12 @@ My house is **_________** the park. It is very close. 🏠🌳
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
-**Context:** Position of a student.
+**Contexto:** Position of a student.
 
 ### Enunciado
 Complete: **"I sit ________ my best friend in class."** 👦👧
 
-### Options
+### Opciones
 - [ ] A) in <!-- feedback: Incorrect. -->
 - [ ] B) on <!-- feedback: Incorrect. -->
 - [x] C) next to <!-- feedback: Correct! You sit beside or next to your friend. -->
@@ -139,13 +142,13 @@ Usamos "next to" para indicar que dos personas u objetos están uno al lado del 
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
-**Context:** Identifying position by image description.
+**Contexto:** Identifying position by image description.
 
 ### Enunciado
 There is a **lamp** on the desk. Where is the **desk**?
 The desk is **_________** the lamp.
 
-### Options
+### Opciones
 - [ ] A) on <!-- feedback: Incorrect. The lamp is on the desk. -->
 - [x] B) under <!-- feedback: Correct! If the lamp is on the desk, the desk is under the lamp. -->
 - [ ] C) in <!-- feedback: Incorrect. -->
@@ -161,13 +164,13 @@ Entender la relación espacial inversa. Si A está sobre B, entonces B está deb
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
-**Context:** Finding a toy.
+**Contexto:** Finding a toy.
 
 ### Enunciado
 Where is my **teddy bear**?
 It is **_________** the box. Open the box to see it! 📦
 
-### Options
+### Opciones
 - [x] A) in <!-- feedback: Correct! If you have to open the box, the bear is inside (in). -->
 - [ ] B) under <!-- feedback: Incorrect. -->
 - [ ] C) on <!-- feedback: Incorrect. -->
@@ -183,12 +186,12 @@ La instrucción "abrir la caja" confirma que el objeto está en el interior (in)
 **Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
-**Context:** Comparing positions.
+**Contexto:** Comparing positions.
 
 ### Enunciado
 Which sentence is **correct** for the picture of a **bird on a tree branch**? 🐦🌿
 
-### Options
+### Opciones
 - [ ] A) The bird is under the branch. <!-- feedback: Incorrect. -->
 - [x] B) The bird is on the branch. <!-- feedback: Correct! Birds stand on branches. -->
 - [ ] C) The bird is in the branch. <!-- feedback: Incorrect. -->
@@ -204,12 +207,12 @@ Analizar la posición física. Los pájaros se posan sobre (on) las ramas.
 **Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
-**Context:** Opposite prepositions.
+**Contexto:** Opposite prepositions.
 
 ### Enunciado
 Which two prepositions are **opposites**?
 
-### Options
+### Opciones
 - [ ] A) In and Next to <!-- feedback: Incorrect. -->
 - [x] B) On and Under <!-- feedback: Correct! Over/On and Under/Below are opposites. -->
 - [ ] C) In and On <!-- feedback: Incorrect. -->
@@ -225,12 +228,12 @@ Analizar las relaciones espaciales. "On" (encima) y "Under" (debajo) representan
 **Bloom:** Evaluate
 **ICFES:** Pragmática
 **Expected_Success:** 0.50
-**Context:** Choosing the best preposition to describe a scene.
+**Contexto:** Choosing the best preposition to describe a scene.
 
 ### Enunciado
 You see a **dog** inside a **doghouse**. How do you describe it? 🐕🏠
 
-### Options
+### Opciones
 - [ ] A) The dog is on the house. <!-- feedback: Incorrect. That would be on the roof. -->
 - [x] B) The dog is in the house. <!-- feedback: Correct! Inside a small building is "in". -->
 - [ ] C) The dog is under the house. <!-- feedback: Incorrect. -->

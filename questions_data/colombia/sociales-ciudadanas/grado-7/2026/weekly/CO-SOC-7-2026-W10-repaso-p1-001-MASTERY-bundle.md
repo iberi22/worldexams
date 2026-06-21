@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W10-repaso-p1-001-MASTERY"
+id: "CO-SOC-7-2026-W10-repaso-p1-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-ciudadanas"
 tema: "repaso-p1"
-semana: "W10"
+week: "W10"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026 — Pensamiento Social"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso Primer Período — Grado 7
 ## Semana W10 — Integración: de la Edad Media a los Virreinatos en América
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W10-repaso-p1-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En la clase de sociales del Colegio San José de Bogotá, la profesora inicia el repaso del período preguntando por la organización política de la Edad Media.
+**Contexto:** En la clase de sociales del Colegio San José de Bogotá, la profesora inicia el repaso del período preguntando por la organización política de la Edad Media.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La Edad Media (siglos V-XV) se caracterizó por la descentralización del poder 
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-SOC-7-2026-W10-repaso-p1-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del colegio INEM de Medellín leen un texto que compara los cambios culturales entre la Edad Media y el Renacimiento.
+**Contexto:** Los estudiantes del colegio INEM de Medellín leen un texto que compara los cambios culturales entre la Edad Media y el Renacimiento.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ La transición del teocentrismo medieval al antropocentrismo renacentista fue un
 
 ---
 
-## Pregunta 3 [D5]
+## Question 3 [D5]
 **ID:** `CO-SOC-7-2026-W10-repaso-p1-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Bucaramanga, los estudiantes deben explicar cómo la invención de la imprenta se relaciona con la Reforma Protestante.
+**Contexto:** En el colegio de Bucaramanga, los estudiantes deben explicar cómo la invención de la imprenta se relaciona con la Reforma Protestante.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -81,11 +85,11 @@ La imprenta de tipos móviles fue un factor crucial para el éxito de la Reforma
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-SOC-7-2026-W10-repaso-p1-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Cali, los estudiantes leen un texto sobre la Contrarreforma y el Concilio de Trento.
+**Contexto:** En el colegio de Cali, los estudiantes leen un texto sobre la Contrarreforma y el Concilio de Trento.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -102,11 +106,11 @@ El Concilio de Trento fue la respuesta de la Iglesia católica a la Reforma Prot
 
 ---
 
-## Pregunta 5 [D6]
+## Question 5 [D6]
 **ID:** `CO-SOC-7-2026-W10-repaso-p1-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Cartagena, los estudiantes analizan cómo las expediciones marítimas europeas transformaron el mundo.
+**Contexto:** En el colegio de Cartagena, los estudiantes analizan cómo las expediciones marítimas europeas transformaron el mundo.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -123,11 +127,11 @@ El viaje de Colón en 1492, patrocinado por los Reyes Católicos de España, ini
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-SOC-7-2026-W10-repaso-p1-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En la I.E. de Pereira, los estudiantes comparan la conquista española con la portuguesa en América.
+**Contexto:** En la I.E. de Pereira, los estudiantes comparan la conquista española con la portuguesa en América.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -144,11 +148,11 @@ Aunque España y Portugal compartían la Península Ibérica y habían iniciado 
 
 ---
 
-## Pregunta 7 [D7]
+## Question 7 [D7]
 **ID:** `CO-SOC-7-2026-W10-repaso-p1-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Villavicencio, los estudiantes analizan por qué los criollos se sentían insatisfechos con el sistema colonial.
+**Contexto:** En el colegio de Villavicencio, los estudiantes analizan por qué los criollos se sentían insatisfechos con el sistema colonial.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -165,11 +169,11 @@ El descontento criollo fue uno de los factores que llevó a las independencias a
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-SOC-7-2026-W10-repaso-p1-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Cúcuta, los estudiantes analizan un mapa histórico de los cuatro virreinatos americanos.
+**Contexto:** En el colegio de Cúcuta, los estudiantes analizan un mapa histórico de los cuatro virreinatos americanos.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -186,11 +190,11 @@ Al final del período colonial, los cuatro virreinatos españoles eran: Nueva Es
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-SOC-7-2026-W10-repaso-p1-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Manizales, los estudiantes debaten sobre si la colonización española fue beneficiosa o perjudicial para América.
+**Contexto:** En el colegio de Manizales, los estudiantes debaten sobre si la colonización española fue beneficiosa o perjudicial para América.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -207,11 +211,11 @@ La colonización española de América es un proceso histórico complejo y contr
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W10-repaso-p1-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Sincelejo, la profesora pide analizar las causas de la decadencia del Imperio Español en el siglo XVII.
+**Contexto:** En el colegio de Sincelejo, la profesora pide analizar las causas de la decadencia del Imperio Español en el siglo XVII.
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -228,11 +232,11 @@ La decadencia de España en el siglo XVII es un fenómeno histórico complejo co
 
 ---
 
-## Pregunta 11 [D9]
+## Question 11 [D9]
 **ID:** `CO-SOC-7-2026-W10-repaso-p1-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Bogotá, los estudiantes evalúan qué período histórico tiene mayor influencia en la Colombia actual.
+**Contexto:** En el colegio de Bogotá, los estudiantes evalúan qué período histórico tiene mayor influencia en la Colombia actual.
 **Expected_Success:** 0.45
 
 ### Enunciado
@@ -249,11 +253,11 @@ El Virreinato de la Nueva Granada (1717-1819) tuvo una influencia directa en la 
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W10-repaso-p1-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Argumentación
-**Context:** La profesora del colegio de Bogotá propone un ejercicio final de repaso: conectar los procesos históricos para entender por qué las colonias americanas buscaron su independencia.
+**Contexto:** La profesora del colegio de Bogotá propone un ejercicio final de repaso: conectar los procesos históricos para entender por qué las colonias americanas buscaron su independencia.
 **Expected_Success:** 0.42
 
 ### Enunciado

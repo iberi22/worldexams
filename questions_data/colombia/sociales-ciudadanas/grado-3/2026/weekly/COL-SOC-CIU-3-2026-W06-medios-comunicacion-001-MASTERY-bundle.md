@@ -1,10 +1,10 @@
 ---
-id: "COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY"
+id: "COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "sociales-ciudadanas"
 tema: "medios-comunicacion"
-semana: "W06"
+week: "W06"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 8
@@ -19,7 +19,12 @@ rubric_baseline: "medios_comunicacion, medios_masivos, television_radio_prensa, 
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Medios de Comunicación
 
@@ -27,13 +32,14 @@ Este bundle cubre los medios de comunicación en la sociedad colombiana. Reconoc
 
 ---
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 
 **ID:** `COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-v1`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento social
 **Expected_Success:** 0.86
-**Context:** En la clase de Sociales de la I.E. Carlos Arturo Torres de Tunja, la profesora pregunta sobre los medios de comunicación.
+**Contexto:** En la clase de Sociales de la I.E. Carlos Arturo Torres de Tunja, la profesora pregunta sobre los medios de comunicación.
 
 ### Enunciado
 ¿Cuáles de los siguientes son medios de comunicación tradicionales?
@@ -49,13 +55,14 @@ Los medios de comunicación tradicionales como la radio, la televisión, los per
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-v2`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento social
 **Expected_Success:** 0.84
-**Context:** En la I.E. Normal Superior de Montería, los estudiantes hablan sobre cómo se comunican las personas.
+**Contexto:** En la I.E. Normal Superior de Montería, los estudiantes hablan sobre cómo se comunican las personas.
 
 ### Enunciado
 ¿Para qué sirven los medios de comunicación en nuestra sociedad?
@@ -71,13 +78,14 @@ Los medios de comunicación cumplen funciones esenciales: informar sobre lo que 
 
 ---
 
-## Pregunta 3 [D2]
+## Question 3 [D2]
 
 **ID:** `COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-v3`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Interpretación y análisis de perspectivas
 **Expected_Success:** 0.76
-**Context:** La profesora de la I.E. La Salle de Sincelejo explica cómo la radio llega a las zonas rurales.
+**Contexto:** La profesora de la I.E. La Salle de Sincelejo explica cómo la radio llega a las zonas rurales.
 
 ### Enunciado
 ¿Por qué la radio es un medio de comunicación muy importante en las zonas rurales de Colombia?
@@ -93,13 +101,14 @@ La radio ha sido tradicionalmente el medio de comunicación más accesible en la
 
 ---
 
-## Pregunta 4 [D2]
+## Question 4 [D2]
 
 **ID:** `COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-v4`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Interpretación y análisis de perspectivas
 **Expected_Success:** 0.73
-**Context:** En la I.E. Buenos Aires de Tumaco, el profesor pregunta cómo han cambiado los medios de comunicación.
+**Contexto:** En la I.E. Buenos Aires de Tumaco, el profesor pregunta cómo han cambiado los medios de comunicación.
 
 ### Enunciado
 ¿En qué se diferencia el internet de los medios de comunicación tradicionales como la televisión o el periódico?
@@ -115,13 +124,14 @@ A diferencia de los medios tradicionales (donde la información fluye en una sol
 
 ---
 
-## Pregunta 5 [D3]
+## Question 5 [D3]
 
 **ID:** `COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-v5`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.63
-**Context:** En la I.E. San José Obrero de Barranquilla, los estudiantes de grado 3 navegan en internet por primera vez en la sala de informática.
+**Contexto:** En la I.E. San José Obrero de Barranquilla, los estudiantes de grado 3 navegan en internet por primera vez en la sala de informática.
 
 ### Enunciado
 Si estás buscando información para una tarea de Sociales y encuentras un dato en una página web que no conoces, ¿qué debes hacer?
@@ -137,13 +147,14 @@ El uso responsable de internet incluye verificar la veracidad de la información
 
 ---
 
-## Pregunta 6 [D3]
+## Question 6 [D3]
 
 **ID:** `COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-v6`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.60
-**Context:** En la I.E. Pablo Neruda de Cali, el profesor pregunta cómo se comunicaban las personas antes de que existiera internet.
+**Contexto:** En la I.E. Pablo Neruda de Cali, el profesor pregunta cómo se comunicaban las personas antes de que existiera internet.
 
 ### Enunciado
 Antes de que existiera el internet, ¿cómo se comunicaban las personas que vivían lejos unas de otras en Colombia?
@@ -159,13 +170,14 @@ Antes de la era digital, la comunicación a distancia se realizaba mediante cart
 
 ---
 
-## Pregunta 7 [D4]
+## Question 7 [D4]
 
 **ID:** `COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-v7`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **ICFES category:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
-**Context:** En la I.E. La Magdalena de Valledupar, el profesor pregunta sobre las noticias falsas.
+**Contexto:** En la I.E. La Magdalena de Valledupar, el profesor pregunta sobre las noticias falsas.
 
 ### Enunciado
 ¿Por qué es peligroso compartir noticias falsas (fake news) en las redes sociales?
@@ -181,13 +193,14 @@ Las noticias falsas o fake news son un problema grave en la era digital. En Colo
 
 ---
 
-## Pregunta 8 [D5]
+## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-3-2026-W06-medios-comunicacion-001-MASTERY-v8`
 **Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.40
-**Context:** En la I.E. Ciudad de Ipiales, los estudiantes discuten sobre el tiempo que pasan frente a las pantallas.
+**Contexto:** En la I.E. Ciudad de Ipiales, los estudiantes discuten sobre el tiempo que pasan frente a las pantallas.
 
 ### Enunciado
 Pedro pasa 5 horas al día viendo videos en su celular y ya no juega con sus amigos ni hace las tareas. Su mamá le dice que debe usar menos el celular. ¿Quién tiene la razón?

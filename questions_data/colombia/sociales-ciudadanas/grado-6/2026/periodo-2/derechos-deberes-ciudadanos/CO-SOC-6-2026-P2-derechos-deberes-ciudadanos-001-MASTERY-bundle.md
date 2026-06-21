@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY"
+id: "CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "derechos_fundamentales, deberes_ciudadanos, derechos_sociales_economicos_culturales, derechos_colectivos, responsabilidad_ciudadana"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Derechos y Deberes Ciudadanos
 
@@ -24,17 +31,17 @@ Este bundle cubre los derechos y deberes de los ciudadanos colombianos según la
 
 ---
 
-## Question 1
-
+## Question 1 [D1]
 **ID:** `CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Según la Constitución colombiana, ¿cuál es el primero y más importante de los derechos fundamentales?
 
-### Options
+### Opciones
 - [ ] A) El derecho a la propiedad privada <!-- feedback: Incorrecto. La propiedad es importante pero no es el primero. -->
 - [x] B) El derecho a la vida <!-- feedback: Correcto. El artículo 11 de la Constitución dice: "El derecho a la vida es inviolable". -->
 - [ ] C) El derecho a tener un celular <!-- feedback: Incorrecto. No es un derecho constitucional. -->
@@ -45,17 +52,17 @@ El derecho a la vida es el derecho fundamental más importante porque sin él no
 
 ---
 
-## Question 2
-
+## Question 2 [D1]
 **ID:** `CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es un deber de los ciudadanos colombianos según la Constitución?
 
-### Options
+### Opciones
 - [ ] A) Pagar solo los impuestos que uno considere justos <!-- feedback: Incorrecto. Los impuestos deben pagarse según la ley, no según la opinión personal. -->
 - [ ] B) Votar en todas las elecciones sin excepción <!-- feedback: El voto es un derecho y deber, pero no tener cédula o estar fuera del país son excusas válidas. -->
 - [x] C) Respetar los derechos ajenos y no abusar de los propios <!-- feedback: Correcto. El artículo 95 de la Constitución establece los deberes de la persona y del ciudadano. -->
@@ -66,17 +73,17 @@ El artículo 95 de la Constitución enumera los deberes de los colombianos, entr
 
 ---
 
-## Question 3
-
+## Question 3 [D1]
 **ID:** `CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué son los derechos sociales, económicos y culturales?
 
-### Options
+### Opciones
 - [ ] A) Derechos que solo tienen las personas ricas <!-- feedback: Incorrecto. Son para todos los ciudadanos. -->
 - [x] B) Derechos que buscan garantizar condiciones de vida digna, como la salud, la educación, el trabajo y la vivienda <!-- feedback: Correcto. Son derechos de segunda generación que el Estado debe garantizar progresivamente. -->
 - [ ] C) Derechos que los ciudadanos pueden comprar y vender libremente <!-- feedback: Incorrecto. Los derechos no son mercancías. -->
@@ -87,17 +94,17 @@ Los derechos sociales, económicos y culturales (artículos 42 al 77 de la Const
 
 ---
 
-## Question 4
-
+## Question 4 [D1]
 **ID:** `CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué significa que un derecho sea "fundamental"?
 
-### Options
+### Opciones
 - [ ] A) Que es opcional para el Estado protegerlo <!-- feedback: Incorrecto. El Estado está obligado a protegerlos. -->
 - [ ] B) Que solo aplica para los adultos mayores de 60 años <!-- feedback: Incorrecto. Aplica para todas las personas. -->
 - [x] C) Que es inherente a la persona humana y su protección puede exigirse inmediatamente mediante tutela <!-- feedback: Correcto. Los derechos fundamentales son de aplicación inmediata. -->
@@ -108,17 +115,17 @@ Los derechos fundamentales (Título II, Capítulo 1 de la Constitución) son aqu
 
 ---
 
-## Question 5
-
+## Question 5 [D1]
 **ID:** `CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué son los derechos colectivos y del ambiente?
 
-### Options
+### Opciones
 - [ ] A) Derechos que pueden ejercerse individualmente sin afectar a otros <!-- feedback: Incorrecto. Son derechos que pertenecen a toda la comunidad. -->
 - [x] B) Derechos que pertenecen a la comunidad en su conjunto, como el derecho a un ambiente sano, al espacio público y al patrimonio cultural <!-- feedback: Correcto. Son derechos de tercera generación. -->
 - [ ] C) Derechos exclusivos de los funcionarios públicos <!-- feedback: Incorrecto. Pertenecen a toda la comunidad. -->
@@ -129,17 +136,17 @@ Los derechos colectivos (artículos 78 al 82 de la Constitución) incluyen el de
 
 ---
 
-## Question 6
-
+## Question 6 [D1]
 **ID:** `CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Un estudiante de grado 6 se pregunta: "¿Tengo derecho a la educación aunque mis padres no tengan dinero para pagar un colegio privado?" ¿Qué debería saber?
 
-### Options
+### Opciones
 - [ ] A) Que la educación es un privilegio, no un derecho <!-- feedback: Incorrecto. La educación es un derecho fundamental. -->
 - [x] B) Que la educación es un derecho fundamental y el Estado debe garantizar educación pública gratuita hasta el grado 11 <!-- feedback: Correcto. El artículo 67 establece que la educación es obligatoria y gratuita en instituciones públicas. -->
 - [ ] C) Que la educación solo es para quienes pueden pagarla <!-- feedback: Incorrecto. Eso sería discriminatorio e inconstitucional. -->
@@ -150,17 +157,17 @@ El artículo 67 de la Constitución establece que la educación es un derecho de
 
 ---
 
-## Question 7
-
+## Question 7 [D1]
 **ID:** `CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Una empresa está contaminando el río de la vereda, afectando a toda la comunidad. ¿Qué tipo de derecho se está vulnerando y qué mecanismo pueden usar los ciudadanos?
 
-### Options
+### Opciones
 - [ ] A) Se vulnera el derecho al trabajo y pueden usar la tutela <!-- feedback: Incorrecto. La tutela protege derechos individuales, no colectivos. -->
 - [ ] B) Se vulnera el derecho a la propiedad privada <!-- feedback: Incorrecto. El río no es propiedad privada de una sola persona. -->
 - [x] C) Se vulnera el derecho colectivo a un ambiente sano y pueden usar la Acción Popular <!-- feedback: Correcto. La Acción Popular protege los derechos e intereses colectivos. -->
@@ -171,17 +178,17 @@ La Acción Popular (Ley 472 de 1998) es el mecanismo para proteger derechos cole
 
 ---
 
-## Question 8
-
+## Question 8 [D1]
 **ID:** `CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Por qué la Constitución establece deberes ciudadanos además de derechos?
 
-### Options
+### Opciones
 - [ ] A) Para que el Estado tenga excusas para castigar a los ciudadanos <!-- feedback: Incorrecto. Los deberes tienen un fin constructivo, no punitivo. -->
 - [x] B) Porque los derechos y deberes son dos caras de la misma moneda: vivir en sociedad implica tanto derechos que proteger como responsabilidades que cumplir <!-- feedback: Correcto. La convivencia democrática requiere equilibrio entre ambos. -->
 - [ ] C) Porque los deberes reemplazan a los derechos cuando el gobierno lo decide <!-- feedback: Incorrecto. Los derechos no son reemplazables por deberes. -->
@@ -192,17 +199,17 @@ La relación entre derechos y deberes es fundamental en una democracia. Así com
 
 ---
 
-## Question 9
-
+## Question 9 [D1]
 **ID:** `CO-SOC-6-2026-P2-derechos-deberes-ciudadanos-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué significa el principio de "igualdad" ante la ley según la Constitución colombiana?
 
-### Options
+### Opciones
 - [ ] A) Que todas las personas deben ser tratadas exactamente igual en todas las situaciones sin importar sus circunstancias <!-- feedback: Incorrecto. A veces se requiere un trato diferenciado para proteger a grupos vulnerables. -->
 - [x] B) Que todas las personas tienen los mismos derechos y deberes, y no puede haber discriminación por razones de sexo, raza, origen, religión o condición económica <!-- feedback: Correcto. El artículo 13 prohíbe la discriminación y promueve la igualdad real. -->
 - [ ] C) Que el gobierno puede tratar mejor a sus amigos que a sus opositores <!-- feedback: Incorrecto. Eso sería discriminación ilegal. -->
@@ -223,7 +230,7 @@ El artículo 13 de la Constitución va más allá de la igualdad formal: estable
 ### Enunciado
 Analiza: un ciudadano exige que el Estado le garantice su derecho a la salud, pero al mismo tiempo no ha pagado sus impuestos en los últimos 5 años. ¿Qué conflicto ético y constitucional se presenta en esta situación?
 
-### Options
+### Opciones
 - [ ] A) No hay conflicto, porque los derechos no tienen relación con los impuestos <!-- feedback: Incorrecto. Los derechos requieren financiación estatal. -->
 - [x] B) Existe una tensión entre el derecho individual a recibir servicios y el deber ciudadano de contribuir al sostenimiento del Estado mediante impuestos <!-- feedback: Correcto. Los derechos tienen un costo y se financian con los impuestos de todos. -->
 - [ ] C) El ciudadano tiene toda la razón porque los derechos son absolutos <!-- feedback: Incorrecto. Los derechos tienen límites y contrapartidas. -->

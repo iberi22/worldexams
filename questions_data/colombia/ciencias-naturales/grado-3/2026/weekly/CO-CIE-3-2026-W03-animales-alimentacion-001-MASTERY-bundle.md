@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W03-animales-alimentacion-001-MASTERY"
+id: "CO-CIE-3-2026-W03-animales-alimentacion-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "animales-alimentacion"
-semana: "W03"
+week: "W03"
 periodo: 1
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Clasificación de animales según su alimentación: herbívoro
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Clasificación de los Animales según su Alimentación
 
 Este bundle explora las diferentes dietas de los animales y cómo estas determinan su comportamiento y sus características físicas en la naturaleza.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W03-animales-alimentacion-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una finca en Boyacá, una vaca pasa todo el día comiendo pasto y plantas pequeñas.
+**Contexto:** En una finca en Boyacá, una vaca pasa todo el día comiendo pasto y plantas pequeñas.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ Los animales herbívoros son una pieza clave en la naturaleza porque transforman
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W03-animales-alimentacion-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un tigre tiene colmillos muy grandes y afilados para poder atrapar a otros animales y comer su carne.
+**Contexto:** Un tigre tiene colmillos muy grandes y afilados para poder atrapar a otros animales y comer su carne.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -73,12 +77,12 @@ Los carnívoros son animales que obtienen sus nutrientes consumiendo la materia 
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W03-animales-alimentacion-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Los cerdos y los seres humanos podemos comer una gran variedad de alimentos, incluyendo frutas, verduras y diferentes tipos de carne.
+**Contexto:** Los cerdos y los seres humanos podemos comer una gran variedad de alimentos, incluyendo frutas, verduras y diferentes tipos de carne.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ Ser omnívoro es una gran ventaja para la supervivencia. Si falta un tipo de ali
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W03-animales-alimentacion-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Observas la calavera de un animal desconocido y notas que todos sus dientes son planos y anchos, como muelas grandes.
+**Contexto:** Observas la calavera de un animal desconocido y notas que todos sus dientes son planos y anchos, como muelas grandes.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -123,12 +127,12 @@ La forma de los dientes de un animal nos dice mucho sobre su vida. Los herbívor
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W03-animales-alimentacion-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un gallinazo vuela sobre una carretera buscando animales que hayan muerto por accidente para alimentarse de ellos.
+**Contexto:** Un gallinazo vuela sobre una carretera buscando animales que hayan muerto por accidente para alimentarse de ellos.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -148,12 +152,12 @@ Los carroñeros son un tipo especial de carnívoros. Su función en la naturalez
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W03-animales-alimentacion-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Tienes un conejo de mascota y quieres saber qué alimentos son los mejores para él basándote en su grupo alimenticio.
+**Contexto:** Tienes un conejo de mascota y quieres saber qué alimentos son los mejores para él basándote en su grupo alimenticio.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -173,12 +177,12 @@ Respetar la dieta natural de los animales es fundamental para su salud. Cada gru
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W03-animales-alimentacion-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Si en un bosque desaparecieran de repente todas las plantas verdes.
+**Contexto:** Si en un bosque desaparecieran de repente todas las plantas verdes.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -198,12 +202,12 @@ Todo en la naturaleza está conectado. Si las plantas (productores) desaparecen,
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W03-animales-alimentacion-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
-**Context:** Un oso hormiguero tiene una lengua muy larga y pegajosa y no tiene dientes.
+**Contexto:** Un oso hormiguero tiene una lengua muy larga y pegajosa y no tiene dientes.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -223,12 +227,12 @@ Este es un ejemplo de especialización. El oso hormiguero es un insectívoro (un
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W03-animales-alimentacion-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un cocodrilo puede pasar mucho tiempo sin comer después de haber ingerido una presa grande.
+**Contexto:** Un cocodrilo puede pasar mucho tiempo sin comer después de haber ingerido una presa grande.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -248,12 +252,12 @@ La dieta herbívora (plantas) aporta poca energía por cada bocado, por eso los 
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W03-animales-alimentacion-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Si encontraras un animal que come frutas, pero también a veces atrapa lagartijas para alimentarse.
+**Contexto:** Si encontraras un animal que come frutas, pero también a veces atrapa lagartijas para alimentarse.
 **Expected_Success:** 0.55
 
 ### Enunciado

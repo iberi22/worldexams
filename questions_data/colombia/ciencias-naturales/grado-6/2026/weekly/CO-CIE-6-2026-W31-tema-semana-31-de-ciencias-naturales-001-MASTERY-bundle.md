@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W31-tema-semana-31-de-ciencias-naturales-001-MASTERY"
+id: "CO-CIE-6-2026-W31-tema-semana-31-de-ciencias-naturales-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 10
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W31 — Tema Semana 31 de Ciencias Naturales
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** I.E. San José en Manizales
+**Contexto:** I.E. San José en Manizales
 **Expected_Success:** 0.61
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. San José en Manizales, se discute sobre Tema Semana 31 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 31 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** I.E. San José en Sincelejo
+**Contexto:** I.E. San José en Sincelejo
 **Expected_Success:** 0.77
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. San José en Sincelejo, se discute sobre Tema Semana 31 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 31 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Villavicencio
+**Contexto:** I.E. San José en Villavicencio
 **Expected_Success:** 0.76
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. San José en Villavicencio, se discute sobre Tema Semana 31 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 31 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. San José en Cartagena
+**Contexto:** I.E. San José en Cartagena
 **Expected_Success:** 0.78
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. San José en Cartagena, se discute sobre Tema Semana 31 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 31 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Neiva
+**Contexto:** Colegio La Presentación en Neiva
 **Expected_Success:** 0.56
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio La Presentación en Neiva, se discute sobre Tema Semana 31 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 31 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Barranquilla
+**Contexto:** I.E. Francisco de Paula Santander en Barranquilla
 **Expected_Success:** 0.72
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Barranquilla, se discute sobre Tema Semana 31 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 31 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** Gimnasio Moderno en Neiva
+**Contexto:** Gimnasio Moderno en Neiva
 **Expected_Success:** 0.53
 
 ### Enunciado
 En la clase de Ciencias Naturales del Gimnasio Moderno en Neiva, se discute sobre Tema Semana 31 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 31 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Ibagué
+**Contexto:** I.E. Gabriel García Márquez en Ibagué
 **Expected_Success:** 0.66
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Ibagué, se discute sobre Tema Semana 31 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 31 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Sincelejo
+**Contexto:** I.E. Santa Luisa de Marillac en Sincelejo
 **Expected_Success:** 0.68
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Sincelejo, se discute sobre Tema Semana 31 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 31 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Ibagué
+**Contexto:** I.E. Jorge Eliécer Gaitán en Ibagué
 **Expected_Success:** 0.61
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Ibagué, se discute sobre Tema Semana 31 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 31 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 31 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-4-2026-P1-municipios-colombia-001-MASTERY"
+id: "CO-SOC-4-2026-P1-municipios-colombia-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Municipios de Colombia, organización territorial, gobierno local, alcalde, concejo municipal"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Municipios de Colombia
 
@@ -27,14 +34,15 @@ Este bundle cubre la organización de los municipios en Colombia: cómo se gobie
 ## Question 1 [D3]
 
 **ID:** `CO-SOC-4-2026-P1-municipios-colombia-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales en un colegio de Manizales, la profesora explica cómo está organizado el gobierno de los municipios colombianos.
+**Contexto:** En la clase de sociales en un colegio de Manizales, la profesora explica cómo está organizado el gobierno de los municipios colombianos.
 
 ### Enunciado
 La máxima autoridad de un municipio en Colombia es:
 
-### Options
+### Opciones
 - [ ] A) El presidente de la república. <!-- feedback: Incorrecto. El presidente gobierna todo el país, no un municipio en particular. -->
 - [x] B) El alcalde municipal. <!-- feedback: Correcto. El alcalde es la máxima autoridad administrativa del municipio, elegido por voto popular cada cuatro años. -->
 - [ ] C) El gobernador. <!-- feedback: Incorrecto. El gobernador es la máxima autoridad del departamento, no del municipio. -->
@@ -48,14 +56,15 @@ Se evalúa el conocimiento básico de la organización territorial colombiana. L
 ## Question 2 [D3]
 
 **ID:** `CO-SOC-4-2026-P1-municipios-colombia-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales en Sincelejo, el profesor habla sobre las personas que ayudan a gobernar el municipio.
+**Contexto:** En la clase de sociales en Sincelejo, el profesor habla sobre las personas que ayudan a gobernar el municipio.
 
 ### Enunciado
 Además del alcalde, en los municipios hay un grupo de personas elegidas por los ciudadanos que se encargan de hacer las leyes locales (acuerdos municipales). Este grupo se llama:
 
-### Options
+### Opciones
 - [ ] A) La asamblea departamental. <!-- feedback: Incorrecto. La asamblea departamental legisla a nivel de departamento, no de municipio. -->
 - [x] B) El concejo municipal. <!-- feedback: Correcto. El concejo municipal está conformado por concejales elegidos popularmente que expiden los acuerdos o normas locales del municipio. -->
 - [ ] C) El Congreso de la República. <!-- feedback: Incorrecto. El Congreso hace las leyes para todo el país, no solo para un municipio. -->
@@ -69,14 +78,15 @@ Se evalúa el conocimiento de los órganos de gobierno municipal. La respuesta c
 ## Question 3 [D4]
 
 **ID:** `CO-SOC-4-2026-P1-municipios-colombia-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En un recorrido por el centro de su municipio, los estudiantes de la I.E. Técnica de Duitama observan las oficinas de la alcaldía y preguntan para qué sirven.
+**Contexto:** En un recorrido por el centro de su municipio, los estudiantes de la I.E. Técnica de Duitama observan las oficinas de la alcaldía y preguntan para qué sirven.
 
 ### Enunciado
 ¿Cuál de las siguientes es una función principal del alcalde de un municipio?
 
-### Options
+### Opciones
 - [ ] A) Declarar la guerra a otros países. <!-- feedback: Incorrecto. Declarar la guerra es una función del presidente, no del alcalde de un municipio. -->
 - [ ] B) Fijar el precio de la gasolina en todo el país. <!-- feedback: Incorrecto. Los precios de los combustibles los define el gobierno nacional, no el alcalde. -->
 - [x] C) Administrar los recursos del municipio, mejorar las vías y garantizar servicios públicos. <!-- feedback: Correcto. El alcalde es el administrador del municipio: se encarga del presupuesto local, las obras públicas, la recolección de basuras, el acueducto y el alcantarillado. -->
@@ -90,14 +100,15 @@ Se evalúa la comprensión de las funciones de un alcalde. La respuesta correcta
 ## Question 4 [D4]
 
 **ID:** `CO-SOC-4-2026-P1-municipios-colombia-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales del colegio San José de Cúcuta, el profesor explica que Colombia está dividida en municipios.
+**Contexto:** En la clase de sociales del colegio San José de Cúcuta, el profesor explica que Colombia está dividida en municipios.
 
 ### Enunciado
 Colombia está dividida en departamentos, y cada departamento está dividido en municipios. ¿Cuál es la diferencia entre un municipio pequeño (corregimiento) y una ciudad?
 
-### Options
+### Opciones
 - [ ] A) En el corregimiento no hay personas. <!-- feedback: Incorrecto. En los corregimientos también viven personas, solo que en menor cantidad. -->
 - [x] B) La ciudad tiene mayor cantidad de habitantes, más servicios públicos y una economía más diversa. <!-- feedback: Correcto. Las ciudades son municipios grandes con muchos habitantes, mientras que los corregimientos son centros poblados pequeños del área rural. -->
 - [ ] C) El corregimiento tiene alcalde y la ciudad no. <!-- feedback: Incorrecto. Tanto las ciudades como los corregimientos tienen un alcalde municipal como autoridad. -->
@@ -111,14 +122,15 @@ Se evalúa la comprensión de la división territorial en zonas urbanas y rurale
 ## Question 5 [D4]
 
 **ID:** `CO-SOC-4-2026-P1-municipios-colombia-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Doña Rosa, vecina del barrio El Porvenir en un municipio de Antioquia, quiere reportar que la calle de su casa está llena de huecos.
+**Contexto:** Doña Rosa, vecina del barrio El Porvenir en un municipio de Antioquia, quiere reportar que la calle de su casa está llena de huecos.
 
 ### Enunciado
 Doña Rosa quiere pedir que arreglen la calle de su barrio. ¿A qué oficina de la alcaldía debe dirigirse?
 
-### Options
+### Opciones
 - [ ] A) A la Secretaría de Educación. <!-- feedback: Incorrecto. La Secretaría de Educación se encarga de colegios y escuelas, no de arreglar calles. -->
 - [ ] B) Al juzgado municipal. <!-- feedback: Incorrecto. Los juzgados se encargan de resolver conflictos legales, no de obras públicas. -->
 - [x] C) A la Secretaría de Obras Públicas o Planeación Municipal. <!-- feedback: Correcto. La Secretaría de Obras Públicas es la dependencia encargada del mantenimiento de vías, calles y espacios públicos del municipio. -->
@@ -132,14 +144,15 @@ Se evalúa la aplicación del conocimiento sobre las dependencias de la administ
 ## Question 6 [D4]
 
 **ID:** `CO-SOC-4-2026-P1-municipios-colombia-001-MASTERY-v6`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales del colegio Rafael Uribe Uribe en Bogotá, los estudiantes aprenden sobre los impuestos municipales.
+**Contexto:** En la clase de sociales del colegio Rafael Uribe Uribe en Bogotá, los estudiantes aprenden sobre los impuestos municipales.
 
 ### Enunciado
 Los municipios cobran impuestos para poder funcionar y prestar servicios. ¿Cuál de los siguientes es un impuesto que pagan los ciudadanos al municipio?
 
-### Options
+### Opciones
 - [ ] A) Impuesto de renta. <!-- feedback: Incorrecto. El impuesto de renta es nacional, lo cobra la DIAN para el gobierno central. -->
 - [x] B) Impuesto predial (por ser dueño de una casa o terreno). <!-- feedback: Correcto. El impuesto predial es municipal y lo pagan los propietarios de viviendas, lotes y edificios para financiar servicios locales. -->
 - [ ] C) Impuesto al IVA. <!-- feedback: Incorrecto. El IVA es un impuesto nacional que se cobra en la compra de productos. -->
@@ -153,14 +166,15 @@ Se evalúa el conocimiento sobre los impuestos locales. La respuesta correcta id
 ## Question 7 [D4]
 
 **ID:** `CO-SOC-4-2026-P1-municipios-colombia-001-MASTERY-v7`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En el municipio de Salento, Quindío, los ciudadanos quieren decidir si la plaza principal debe ser peatonal.
+**Contexto:** En el municipio de Salento, Quindío, los ciudadanos quieren decidir si la plaza principal debe ser peatonal.
 
 ### Enunciado
 Los ciudadanos de un municipio pueden participar en decisiones importantes a través de mecanismos de participación como:
 
-### Options
+### Opciones
 - [ ] A) El pico y placa. <!-- feedback: Incorrecto. El pico y placa es una medida de restricción vehicular, no un mecanismo de participación ciudadana. -->
 - [ ] B) El carnet estudiantil. <!-- feedback: Incorrecto. El carnet estudiantil es un documento de identificación, no un mecanismo de participación. -->
 - [x] C) La consulta popular o el cabildo abierto. <!-- feedback: Correcto. La consulta popular permite a los ciudadanos votar sobre decisiones importantes del municipio, y el cabildo abierto es una reunión pública para discutir temas de interés local. -->
@@ -174,14 +188,15 @@ Se evalúa el conocimiento de los mecanismos de participación ciudadana a nivel
 ## Question 8 [D5]
 
 **ID:** `CO-SOC-4-2026-P1-municipios-colombia-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En una feria escolar de ciencias sociales en Villavicencio, un estudiante pregunta por qué algunos municipios son pobres y otros ricos.
+**Contexto:** En una feria escolar de ciencias sociales en Villavicencio, un estudiante pregunta por qué algunos municipios son pobres y otros ricos.
 
 ### Enunciado
 ¿Por qué algunos municipios de Colombia tienen más dinero que otros para invertir en obras?
 
-### Options
+### Opciones
 - [ ] A) Porque el presidente les da más dinero a los que le caen bien. <!-- feedback: Incorrecto. La distribución de recursos sigue reglas legales, no preferencias personales del presidente. -->
 - [x] B) Porque algunos municipios recaudan más impuestos (predial, industria y comercio) y también reciben más transferencias del gobierno nacional según su tamaño y necesidades. <!-- feedback: Correcto. Los municipios más grandes y con más actividad económica recaudan más impuestos locales, y el gobierno nacional distribuye recursos adicionales según la población y las necesidades básicas insatisfechas. -->
 - [ ] C) Porque los alcaldes pueden imprimir su propio dinero. <!-- feedback: Incorrecto. Los alcaldes no pueden imprimir dinero; esa función es exclusiva del Banco de la República. -->
@@ -195,14 +210,15 @@ Se evalúa la capacidad de analizar las diferencias económicas entre municipios
 ## Question 9 [D5]
 
 **ID:** `CO-SOC-4-2026-P1-municipios-colombia-001-MASTERY-v9`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales en Riohacha, la profesora presenta un caso: "El río que abastece de agua al municipio está siendo contaminado por una fábrica".
+**Contexto:** En la clase de sociales en Riohacha, la profesora presenta un caso: "El río que abastece de agua al municipio está siendo contaminado por una fábrica".
 
 ### Enunciado
 ¿Quién es el responsable de tomar medidas para proteger el medio ambiente en el municipio?
 
-### Options
+### Opciones
 - [ ] A) Solo la policía ambiental de otro país. <!-- feedback: Incorrecto. Las autoridades de otro país no tienen competencia sobre un municipio colombiano. -->
 - [ ] B) Únicamente los ciudadanos que viven cerca. <!-- feedback: Incorrecto. Aunque los ciudadanos pueden denunciar, la autoridad debe actuar institucionalmente. -->
 - [x] C) La Alcaldía Municipal junto con la Corporación Autónoma Regional (CAR). <!-- feedback: Correcto. El alcalde debe velar por el medio ambiente del municipio, en coordinación con la CAR, que es la autoridad ambiental regional. -->
@@ -216,14 +232,15 @@ Se evalúa la capacidad de identificar las autoridades responsables de la protec
 ## Question 10 [D5]
 
 **ID:** `CO-SOC-4-2026-P1-municipios-colombia-001-MASTERY-v10`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En una asamblea estudiantil del colegio San Felipe de Barranquilla, los estudiantes quieren proponer una mejora para el parque del barrio.
+**Contexto:** En una asamblea estudiantil del colegio San Felipe de Barranquilla, los estudiantes quieren proponer una mejora para el parque del barrio.
 
 ### Enunciado
 Los estudiantes quieren que el alcalde arregle el parque de su barrio. ¿Cuál es la mejor manera de hacer su petición?
 
-### Options
+### Opciones
 - [ ] A) Escribir una carta al presidente de la república. <!-- feedback: Incorrecto. El presidente no se encarga de arreglar parques municipales; eso es competencia del alcalde. -->
 - [ ] B) Publicar un mensaje en redes sociales sin identificar el municipio. <!-- feedback: Incorrecto. Aunque las redes pueden ayudar a visibilizar, se debe hacer la solicitud formal a la autoridad competente. -->
 - [x] C) Presentar un derecho de petición ante la Alcaldía Municipal y también informar al personero estudiantil. <!-- feedback: Correcto. El derecho de petición es un mecanismo formal para solicitar información o pedir acciones a las autoridades, y se debe dirigir a la entidad responsable. -->

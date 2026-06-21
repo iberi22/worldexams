@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY"
+id: "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "globalizacion, impactos_economicos_sociales_culturales, interconexion_mundial, bloques_economicos, TLC, organismos_multilaterales"
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Globalización y sus Impactos
 
@@ -24,17 +31,17 @@ Este bundle cubre el fenómeno de la globalización: sus dimensiones económicas
 
 ---
 
-## Question 1
-
+## Question 1 [D1]
 **ID:** `CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué es la globalización?
 
-### Options
+### Opciones
 - [ ] A) El proceso mediante el cual un país conquista a otros <!-- feedback: Incorrecto. Eso es colonialismo, no globalización. -->
 - [x] B) El proceso de interconexión económica, política, cultural y tecnológica a escala mundial <!-- feedback: Correcto. La globalización integra mercados, sociedades y culturas alrededor del mundo. -->
 - [ ] C) La construcción de un gobierno mundial único <!-- feedback: Incorrecto. No existe un gobierno mundial. -->
@@ -45,17 +52,17 @@ La globalización es un proceso complejo que ha acelerado la interconexión del 
 
 ---
 
-## Question 2
-
+## Question 2 [D1]
 **ID:** `CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál de los siguientes es un ejemplo de globalización económica?
 
-### Options
+### Opciones
 - [ ] A) Un colegio que solo enseña historia local <!-- feedback: Incorrecto. No refleja interconexión global. -->
 - [ ] B) Un agricultor que vende sus productos solo en su vereda <!-- feedback: Incorrecto. No hay conexión global. -->
 - [x] C) Una empresa colombiana que exporta flores a Estados Unidos y Europa <!-- feedback: Correcto. La exportación a múltiples países muestra integración económica global. -->
@@ -66,17 +73,17 @@ La floricultura colombiana es un excelente ejemplo de globalización: las flores
 
 ---
 
-## Question 3
-
+## Question 3 [D1]
 **ID:** `CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué papel juega internet en la globalización cultural?
 
-### Options
+### Opciones
 - [ ] A) No tiene ninguna influencia en la cultura <!-- feedback: Incorrecto. Internet transforma la cultura globalmente. -->
 - [ ] B) Solo sirve para que los jóvenes pierdan el tiempo <!-- feedback: Incorrecto. Es una herramienta de intercambio cultural. -->
 - [x] C) Permite el intercambio instantáneo de información, música, cine y costumbres entre personas de diferentes países <!-- feedback: Correcto. Internet ha acelerado la difusión cultural global. -->
@@ -87,17 +94,17 @@ Internet ha sido el motor más importante de la globalización cultural. Un jove
 
 ---
 
-## Question 4
-
+## Question 4 [D1]
 **ID:** `CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué son los Tratados de Libre Comercio (TLC) y cómo se relacionan con la globalización?
 
-### Options
+### Opciones
 - [ ] A) Son acuerdos para evitar que los países comercien entre sí <!-- feedback: Incorrecto. Es lo opuesto. -->
 - [x] B) Son acuerdos entre países para eliminar o reducir aranceles y barreras comerciales, facilitando el intercambio de bienes y servicios <!-- feedback: Correcto. Los TLC son instrumentos clave de la globalización económica. -->
 - [ ] C) Son tratados militares entre países aliados <!-- feedback: Incorrecto. No son acuerdos militares. -->
@@ -108,17 +115,17 @@ Colombia tiene TLC con Estados Unidos, la Unión Europea, Canadá, México, Chil
 
 ---
 
-## Question 5
-
+## Question 5 [D1]
 **ID:** `CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué es una multinacional o empresa transnacional?
 
-### Options
+### Opciones
 - [ ] A) Una empresa que solo vende productos en su país de origen <!-- feedback: Incorrecto. Eso sería una empresa nacional. -->
 - [x] B) Una empresa que opera en varios países del mundo, con sedes, fábricas o tiendas en diferentes naciones <!-- feedback: Correcto. Las multinacionales son actores clave de la globalización. -->
 - [ ] C) Una empresa que pertenece a varios gobiernos simultáneamente <!-- feedback: Incorrecto. Pueden ser privadas. -->
@@ -129,17 +136,17 @@ Ejemplos de multinacionales presentes en Colombia son McDonald's, Coca-Cola, Mic
 
 ---
 
-## Question 6
-
+## Question 6 [D1]
 **ID:** `CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Un agricultor colombiano cultiva arroz y compite con arroz importado de Estados Unidos que es más barato. ¿Qué impacto de la globalización está experimentando?
 
-### Options
+### Opciones
 - [ ] A) Un beneficio, porque puede comprar arroz extranjero más barato <!-- feedback: Si bien como consumidor se beneficia, como productor está perdiendo mercado. -->
 - [ ] B) Ningún impacto, la globalización no afecta la agricultura <!-- feedback: Incorrecto. La globalización afecta profundamente la agricultura. -->
 - [x] C) Un impacto negativo como productor local, al enfrentar competencia internacional que puede bajar sus ingresos y afectar su sustento <!-- feedback: Correcto. La globalización crea ganadores y perdedores. -->
@@ -150,17 +157,17 @@ La globalización genera efectos contradictorios: mientras los consumidores se b
 
 ---
 
-## Question 7
-
+## Question 7 [D1]
 **ID:** `CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cómo ha afectado la globalización al idioma español en Colombia?
 
-### Options
+### Opciones
 - [ ] A) El español ha desaparecido por completo en Colombia <!-- feedback: Incorrecto. El español sigue siendo el idioma oficial. -->
 - [ ] B) La globalización no tiene relación con el idioma <!-- feedback: Incorrecto. La globalización tiene un fuerte impacto lingüístico. -->
 - [x] C) Ha introducido muchos anglicismos (palabras del inglés) en el vocabulario cotidiano y ha hecho del inglés un idioma cada vez más necesario <!-- feedback: Correcto. Términos como "marketing", "software", "delivery" son ejemplos de influencia del inglés en el español colombiano. -->
@@ -171,17 +178,17 @@ La globalización ha impulsado el aprendizaje del inglés como "lengua global" p
 
 ---
 
-## Question 8
-
+## Question 8 [D1]
 **ID:** `CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Un colombiano trabaja en un call center que presta servicios a una empresa estadounidense. Sus compañeros están en México, India y Filipinas. ¿Qué tipo de globalización representa este empleo?
 
-### Options
+### Opciones
 - [ ] A) Globalización agrícola <!-- feedback: Incorrecto. No es un trabajo del campo. -->
 - [ ] B) Globalización industrial tradicional <!-- feedback: Incorrecto. No es manufactura. -->
 - [x] C) Globalización de servicios y deslocalización (outsourcing) <!-- feedback: Correcto. Los call centers son un ejemplo clásico de globalización de servicios. -->
@@ -192,17 +199,17 @@ Colombia se ha convertido en un destino importante para la deslocalización de s
 
 ---
 
-## Question 9
-
+## Question 9 [D1]
 **ID:** `CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Por qué la globalización puede aumentar la desigualdad entre países ricos y pobres?
 
-### Options
+### Opciones
 - [ ] A) Porque los países pobres se niegan a participar en la globalización <!-- feedback: Incorrecto. Muchos países pobres participan activamente. -->
 - [ ] B) Porque la globalización solo beneficia a los países del hemisferio sur <!-- feedback: Incorrecto. Los beneficios no se distribuyen equitativamente. -->
 - [x] C) Porque los países ricos tienen tecnología, capital e industrias más desarrolladas, mientras que muchos países pobres solo exportan materias primas con bajo valor agregado <!-- feedback: Correcto. Los términos de intercambio desiguales perpetúan la brecha. -->
@@ -213,17 +220,17 @@ Colombia es un ejemplo de esta dinámica: exporta principalmente materias primas
 
 ---
 
-## Question 10
-
+## Question 10 [D1]
 **ID:** `CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué es la "homogeneización cultural" en el contexto de la globalización?
 
-### Options
+### Opciones
 - [ ] A) El enriquecimiento de todas las culturas del mundo <!-- feedback: Incorrecto. No todas las culturas se enriquecen por igual. -->
 - [ ] B) El aislamiento de las culturas locales para protegerlas <!-- feedback: Incorrecto. Eso sería lo opuesto a la homogeneización. -->
 - [x] C) La tendencia a que las culturas se vuelvan más similares entre sí debido a la difusión global de productos, marcas y costumbres <!-- feedback: Correcto. La homogeneización cultural preocupa a defensores de la diversidad cultural. -->
@@ -234,17 +241,17 @@ En Colombia se ve la homogeneización cultural en la difusión de marcas globale
 
 ---
 
-## Question 11
-
+## Question 11 [D1]
 **ID:** `CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cómo afecta la globalización al medio ambiente global?
 
-### Options
+### Opciones
 - [ ] A) La globalización siempre protege el medio ambiente <!-- feedback: Incorrecto. Tiene impactos negativos significativos. -->
 - [x] B) Aumenta el transporte de mercancías por todo el mundo, lo que incrementa las emisiones de CO₂, y fomula el consumo de productos que requieren grandes cantidades de recursos naturales <!-- feedback: Correcto. La huella ecológica de la globalización es enorme. -->
 - [ ] C) La globalización no tiene ningún efecto en el medio ambiente <!-- feedback: Incorrecto. El impacto ambiental es uno de los temas más debatidos. -->
@@ -255,17 +262,17 @@ Un ejemplo concreto: las flores colombianas que se venden en Estados Unidos viaj
 
 ---
 
-## Question 12
-
+## Question 12 [D1]
 **ID:** `CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v12`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué son los movimientos antiglobalización y qué critican?
 
-### Options
+### Opciones
 - [ ] A) Son grupos que quieren más globalización y más libre comercio <!-- feedback: Incorrecto. Critican la globalización. -->
 - [ ] B) Son movimientos que defienden el colonialismo <!-- feedback: Incorrecto. No defienden el colonialismo. -->
 - [x] C) Son movimientos sociales que critican los efectos negativos de la globalización: desigualdad, explotación laboral, daño ambiental y pérdida de identidad cultural <!-- feedback: Correcto. Critican el modelo neoliberal de globalización. -->
@@ -276,17 +283,17 @@ Los movimientos antiglobalización (o "altermundistas") no rechazan la intercone
 
 ---
 
-## Question 13
-
+## Question 13 [D1]
 **ID:** `CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v13`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué papel han jugado las remesas (dinero que envían los emigrantes a sus familias) en la economía colombiana en el contexto de la globalización?
 
-### Options
+### Opciones
 - [ ] A) Las remesas no existen en Colombia <!-- feedback: Incorrecto. Son muy importantes. -->
 - [ ] B) Las remesas son un fenómeno menor sin impacto económico <!-- feedback: Incorrecto. Tienen un impacto significativo. -->
 - [x] C) Las remesas son una fuente importante de ingresos para millones de familias colombianas y representan una entrada significativa de divisas al país, mostrando la conexión global de las personas <!-- feedback: Correcto. Colombia recibe miles de millones de dólares anuales en remesas. -->
@@ -297,17 +304,17 @@ Millones de colombianos han emigrado a Estados Unidos, España, Venezuela y otro
 
 ---
 
-## Question 14
-
+## Question 14 [D1]
 **ID:** `CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v14`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.40
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Analiza: una empresa textil colombiana no puede competir con la ropa importada de China que llega mucho más barata. Sus trabajadores pierden sus empleos. ¿Qué medidas podría tomar el gobierno colombiano para mitigar este impacto negativo de la globalización?
 
-### Options
+### Opciones
 - [ ] A) Prohibir todas las importaciones de China <!-- feedback: Incorrecto. Sería una medida proteccionista extrema que violaría acuerdos comerciales. -->
 - [ ] B) Ignorar el problema porque la globalización no tiene solución <!-- feedback: Incorrecto. Hay opciones de política pública. -->
 - [x] C) Implementar programas de reconversión laboral, apoyar a la industria textil con innovación y tecnología, y negociar condiciones comerciales más equilibradas <!-- feedback: Correcto. El Estado puede intervenir para mitigar efectos negativos sin aislarse del comercio global. -->
@@ -328,7 +335,7 @@ El Estado tiene herramientas para enfrentar los efectos negativos de la globaliz
 ### Enunciado
 Analiza el siguiente dilema: la globalización ha permitido que el conocimiento médico y las vacunas se compartan rápidamente entre países (como durante la pandemia de COVID-19). Pero también ha permitido que las crisis económicas se propaguen instantáneamente (como la crisis financiera de 2008). ¿Qué conclusión podemos sacar sobre la globalización?
 
-### Options
+### Opciones
 - [ ] A) La globalización es completamente buena y no tiene aspectos negativos <!-- feedback: Incorrecto. Tiene impactos positivos y negativos. -->
 - [ ] B) La globalización es completamente mala y debería eliminarse <!-- feedback: Incorrecto. Tiene beneficios innegables. -->
 - [x] C) La globalización es un proceso ambivalente que crea tanto oportunidades como riesgos, y su gestión requiere cooperación internacional y políticas equilibradas <!-- feedback: Correcto. La globalización no es buena ni mala en sí misma: depende de cómo se gestione. -->

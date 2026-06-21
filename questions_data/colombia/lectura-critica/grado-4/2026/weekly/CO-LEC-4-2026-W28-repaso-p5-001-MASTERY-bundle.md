@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W28-repaso-p5-001-MASTERY"
+id: "CO-LEC-4-2026-W28-repaso-p5-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "repaso-p5"
-semana: "W28"
+week: "W28"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "repaso: hechos-opiniones, propósito, destinatario"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W28: Repaso P5
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W28-repaso-p5-001-MASTERY-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Hecho.
+**Contexto:** Hecho.
 
 ### Enunciado
 *"‘La Tierra gira alrededor del Sol’. ¿Hecho u opinión?"*
 
-### Options
+### Opciones
 - [x] A) Hecho. <!-- feedback: Correcto. -->
-- [ ] B) Opinión.
-- [ ] C) Ambos.
-- [ ] D) Ninguno.
+- [ ] B) Opinión. <!-- feedback: Incorrecto. Opinión. -->
+- [ ] C) Ambos. <!-- feedback: Incorrecto. Ambos. -->
+- [ ] D) Ninguno. <!-- feedback: Incorrecto. Ninguno. -->
 
 ### Explicación Pedagógica
 Repaso hecho.
@@ -49,17 +54,18 @@ Repaso hecho.
 
 **ID:** `CO-LEC-4-2026-W28-repaso-p5-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Opinión.
+**Contexto:** Opinión.
 
 ### Enunciado
 *"‘El helado de chocolate es el mejor’. ¿Hecho u opinión?"*
 
-### Options
-- [ ] A) Hecho.
+### Opciones
+- [ ] A) Hecho. <!-- feedback: Incorrecto. Hecho. -->
 - [x] B) Opinión. <!-- feedback: Correcto. -->
-- [ ] C) Ambos.
-- [ ] D) Dato.
+- [ ] C) Ambos. <!-- feedback: Incorrecto. Ambos. -->
+- [ ] D) Dato. <!-- feedback: Incorrecto. Dato. -->
 
 ### Explicación Pedagógica
 Repaso opinión.
@@ -70,17 +76,18 @@ Repaso opinión.
 
 **ID:** `CO-LEC-4-2026-W28-repaso-p5-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Propósito.
+**Contexto:** Propósito.
 
 ### Enunciado
 *"Un texto que te invita a donar. ¿Propósito?"*
 
-### Options
-- [ ] A) Informar.
+### Opciones
+- [ ] A) Informar. <!-- feedback: Incorrecto. Informar. -->
 - [x] B) Persuadir. <!-- feedback: Correcto. -->
-- [ ] C) Entretener.
-- [ ] D) Describir.
+- [ ] C) Entretener. <!-- feedback: Incorrecto. Entretener. -->
+- [ ] D) Describir. <!-- feedback: Incorrecto. Describir. -->
 
 ### Explicación Pedagógica
 Repaso propósito.
@@ -91,17 +98,18 @@ Repaso propósito.
 
 **ID:** `CO-LEC-4-2026-W28-repaso-p5-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Destinatario.
+**Contexto:** Destinatario.
 
 ### Enunciado
 *"Un cuento de terror. ¿Destinatario probable?"*
 
-### Options
-- [ ] A) Bebés.
+### Opciones
+- [ ] A) Bebés. <!-- feedback: Incorrecto. Bebés. -->
 - [x] B) Jóvenes y adultos. <!-- feedback: Correcto. -->
-- [ ] C) Mascotas.
-- [ ] D) Plantas.
+- [ ] C) Mascotas. <!-- feedback: Incorrecto. Mascotas. -->
+- [ ] D) Plantas. <!-- feedback: Incorrecto. Plantas. -->
 
 ### Explicación Pedagógica
 Repaso destinatario.
@@ -112,17 +120,18 @@ Repaso destinatario.
 
 **ID:** `CO-LEC-4-2026-W28-repaso-p5-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Lenguaje para niños.
+**Contexto:** Lenguaje para niños.
 
 ### Enunciado
 *"¿Cómo debe ser el lenguaje para niños pequeños?"*
 
-### Options
-- [ ] A) Complejo y técnico.
+### Opciones
+- [ ] A) Complejo y técnico. <!-- feedback: Incorrecto. Complejo y técnico. -->
 - [x] B) Sencillo con imágenes. <!-- feedback: Correcto. -->
-- [ ] C) Solo palabras largas.
-- [ ] D) Sin imágenes.
+- [ ] C) Solo palabras largas. <!-- feedback: Incorrecto. Solo palabras largas. -->
+- [ ] D) Sin imágenes. <!-- feedback: Incorrecto. Sin imágenes. -->
 
 ### Explicación Pedagógica
 Repaso lenguaje.
@@ -133,17 +142,18 @@ Repaso lenguaje.
 
 **ID:** `CO-LEC-4-2026-W28-repaso-p5-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Identificar propósito.
+**Contexto:** Identificar propósito.
 
 ### Enunciado
 *"Receta de cocina. ¿Propósito principal?"*
 
-### Options
-- [ ] A) Entretener.
+### Opciones
+- [ ] A) Entretener. <!-- feedback: Incorrecto. Entretener. -->
 - [x] B) Enseñar a preparar algo. <!-- feedback: Correcto. -->
-- [ ] C) Vender.
-- [ ] D) Opinar.
+- [ ] C) Vender. <!-- feedback: Incorrecto. Vender. -->
+- [ ] D) Opinar. <!-- feedback: Incorrecto. Opinar. -->
 
 ### Explicación Pedagógica
 Repaso.
@@ -154,17 +164,18 @@ Repaso.
 
 **ID:** `CO-LEC-4-2026-W28-repaso-p5-001-MASTERY-v7`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Hecho vs opinión en texto.
+**Contexto:** Hecho vs opinión en texto.
 
 ### Enunciado
 *"El perro es el mejor amigo del hombre (opinión). Los perros tienen 42 dientes (hecho)."* ¿Separación?
 
-### Options
-- [ ] A) Ambos hechos.
+### Opciones
+- [ ] A) Ambos hechos. <!-- feedback: Incorrecto. Ambos hechos. -->
 - [x] B) 1ra opinión, 2do hecho. <!-- feedback: Correcto. -->
-- [ ] C) Ambos opiniones.
-- [ ] D) 1ro hecho, 2do opinión.
+- [ ] C) Ambos opiniones. <!-- feedback: Incorrecto. Ambos opiniones. -->
+- [ ] D) 1ro hecho, 2do opinión. <!-- feedback: Incorrecto. 1ro hecho, 2do opinión. -->
 
 ### Explicación Pedagógica
 Repaso separar.
@@ -175,17 +186,18 @@ Repaso separar.
 
 **ID:** `CO-LEC-4-2026-W28-repaso-p5-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Destinatario inadecuado.
+**Contexto:** Destinatario inadecuado.
 
 ### Enunciado
 *"Texto de física cuántica para grado 4. ¿Adecuado?"*
 
-### Options
-- [ ] A) Sí, es bueno.
+### Opciones
+- [ ] A) Sí, es bueno. <!-- feedback: Incorrecto. Sí, es bueno. -->
 - [x] B) No, es muy avanzado para su edad. <!-- feedback: Correcto. -->
-- [ ] C) Sí, los niños pueden.
-- [ ] D) Da igual.
+- [ ] C) Sí, los niños pueden. <!-- feedback: Incorrecto. Sí, los niños pueden. -->
+- [ ] D) Da igual. <!-- feedback: Incorrecto. Da igual. -->
 
 ### Explicación Pedagógica
 Repaso evaluar.
@@ -196,17 +208,18 @@ Repaso evaluar.
 
 **ID:** `CO-LEC-4-2026-W28-repaso-p5-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Propósito múltiple.
+**Contexto:** Propósito múltiple.
 
 ### Enunciado
 *"Un periódico escolar. ¿Cuántos propósitos puede tener?"*
 
-### Options
-- [ ] A) Solo informar.
+### Opciones
+- [ ] A) Solo informar. <!-- feedback: Incorrecto. Solo informar. -->
 - [x] B) Informar y entretener. <!-- feedback: Correcto. -->
-- [ ] C) Solo entretener.
-- [ ] D) Solo vender.
+- [ ] C) Solo entretener. <!-- feedback: Incorrecto. Solo entretener. -->
+- [ ] D) Solo vender. <!-- feedback: Incorrecto. Solo vender. -->
 
 ### Explicación Pedagógica
 Repaso múltiple.
@@ -217,17 +230,18 @@ Repaso múltiple.
 
 **ID:** `CO-LEC-4-2026-W28-repaso-p5-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Relacionar.
+**Contexto:** Relacionar.
 
 ### Enunciado
 *"Texto sobre reciclaje para niños. ¿Qué debe tener?"*
 
-### Options
-- [ ] A) Lenguaje técnico.
+### Opciones
+- [ ] A) Lenguaje técnico. <!-- feedback: Incorrecto. Lenguaje técnico. -->
 - [x] B) Lenguaje simple, imágenes, ejemplos. <!-- feedback: Correcto. -->
-- [ ] C) Solo números.
-- [ ] D) Solo texto.
+- [ ] C) Solo números. <!-- feedback: Incorrecto. Solo números. -->
+- [ ] D) Solo texto. <!-- feedback: Incorrecto. Solo texto. -->
 
 ### Explicación Pedagógica
 Repaso relacionar.

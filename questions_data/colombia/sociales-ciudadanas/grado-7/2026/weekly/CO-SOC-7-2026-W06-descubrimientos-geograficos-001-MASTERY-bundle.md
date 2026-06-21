@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W06-descubrimientos-geograficos-001-MASTERY"
+id: "CO-SOC-7-2026-W06-descubrimientos-geograficos-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-ciudadanas"
 tema: "descubrimientos-geograficos"
-semana: "W06"
+week: "W06"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026 — Pensamiento Social"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Descubrimientos Geográficos — Grado 7
 ## Semana W06 — Los grandes descubrimientos geográficos de los siglos XV y XVI
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W06-descubrimientos-geograficos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En la clase de sociales del Colegio Británico de Bogotá, la profesora pregunta cuáles fueron los viajes más importantes de la Era de los Descubrimientos.
+**Contexto:** En la clase de sociales del Colegio Británico de Bogotá, la profesora pregunta cuáles fueron los viajes más importantes de la Era de los Descubrimientos.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Cristóbal Colón, navegante genovés al servicio de España, partió del Puerto
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-SOC-7-2026-W06-descubrimientos-geograficos-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del colegio de Cali leen un texto sobre las causas de los grandes descubrimientos geográficos.
+**Contexto:** Los estudiantes del colegio de Cali leen un texto sobre las causas de los grandes descubrimientos geográficos.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ Las especias (pimienta, canela, clavo, nuez moscada) eran extremadamente valiosa
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-SOC-7-2026-W06-descubrimientos-geograficos-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Medellín, los estudiantes repasan los avances técnicos que hicieron posibles los viajes oceánicos.
+**Contexto:** En el colegio de Medellín, los estudiantes repasan los avances técnicos que hicieron posibles los viajes oceánicos.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -81,11 +85,11 @@ Los avances técnicos del siglo XV que permitieron las exploraciones fueron: (1)
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-SOC-7-2026-W06-descubrimientos-geograficos-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Argumentación
-**Context:** En el colegio de Barranquilla, la profesora explica el Tratado de Tordesillas.
+**Contexto:** En el colegio de Barranquilla, la profesora explica el Tratado de Tordesillas.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -102,11 +106,11 @@ El Tratado de Tordesillas (1494), mediado por el Papa Alejandro VI, dividió el 
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-SOC-7-2026-W06-descubrimientos-geograficos-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Cartagena, los estudiantes leen sobre la primera vuelta al mundo.
+**Contexto:** En el colegio de Cartagena, los estudiantes leen sobre la primera vuelta al mundo.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -123,11 +127,11 @@ Fernando de Magallanes (portugués al servicio de España) partió en 1519 con 5
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-SOC-7-2026-W06-descubrimientos-geograficos-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Pereira, los estudiantes debaten sobre el "descubrimiento" de América y su significado para los pueblos indígenas.
+**Contexto:** En el colegio de Pereira, los estudiantes debaten sobre el "descubrimiento" de América y su significado para los pueblos indígenas.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ Actualmente, muchos historiadores prefieren términos como "encuentro entre dos 
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-SOC-7-2026-W06-descubrimientos-geograficos-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Bucaramanga, los estudiantes analizan el mapa de Juan de la Cosa (1500).
+**Contexto:** En el colegio de Bucaramanga, los estudiantes analizan el mapa de Juan de la Cosa (1500).
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Juan de la Cosa, cartógrafo español que acompañó a Colón en sus viajes, ela
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-SOC-7-2026-W06-descubrimientos-geograficos-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Social
-**Context:** En la I.E. de Villavicencio, los estudiantes analizan las consecuencias globales de los descubrimientos.
+**Contexto:** En la I.E. de Villavicencio, los estudiantes analizan las consecuencias globales de los descubrimientos.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ El "Intercambio Colombino" (término acuñado por Alfred Crosby en 1972) describ
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-SOC-7-2026-W06-descubrimientos-geograficos-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Sincelejo, los estudiantes leen la carta de Colón a los Reyes Católicos relatando su primer viaje.
+**Contexto:** En el colegio de Sincelejo, los estudiantes leen la carta de Colón a los Reyes Católicos relatando su primer viaje.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -207,11 +211,11 @@ En su carta de 1493, Colón describe a los taínos como "gente muy amorosa" que 
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W06-descubrimientos-geograficos-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Manizales, los estudiantes evalúan si los descubrimientos geográficos fueron positivos o negativos para la humanidad.
+**Contexto:** En el colegio de Manizales, los estudiantes evalúan si los descubrimientos geográficos fueron positivos o negativos para la humanidad.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -228,11 +232,11 @@ Evaluar los descubrimientos geográficos requiere un balance crítico. Aspectos 
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-SOC-7-2026-W06-descubrimientos-geograficos-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Cúcuta, la profesora pregunta cómo se relacionan los descubrimientos geográficos con la llegada de Colón a la actual Colombia.
+**Contexto:** En el colegio de Cúcuta, la profesora pregunta cómo se relacionan los descubrimientos geográficos con la llegada de Colón a la actual Colombia.
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -249,11 +253,11 @@ El primer europeo en explorar las costas de la actual Colombia fue Alonso de Oje
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W06-descubrimientos-geograficos-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** La profesora de sociales del colegio de Bogotá propone un debate: ¿cómo se celebra el 12 de octubre en Colombia y qué significa?
+**Contexto:** La profesora de sociales del colegio de Bogotá propone un debate: ¿cómo se celebra el 12 de octubre en Colombia y qué significa?
 **Expected_Success:** 0.42
 
 ### Enunciado

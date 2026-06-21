@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W20-repaso-agua-001-MASTERY"
+id: "CO-CIE-3-2026-W20-repaso-agua-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "repaso-agua"
-semana: "W20"
+week: "W20"
 periodo: 2
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Repaso integral del agua: propiedades, estados, ciclo, distrib
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Repaso Integral: El Agua en la Naturaleza
 
 Este bundle integra todos los conocimientos adquiridos sobre el agua, su comportamiento físico y su importancia vital para los seres vivos y el equilibrio del planeta.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W20-repaso-agua-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Tienes un vaso de agua potable frente a ti para calmar tu sed después de jugar.
+**Contexto:** Tienes un vaso de agua potable frente a ti para calmar tu sed después de jugar.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ El agua pura se identifica por la falta de sensaciones en nuestros sentidos de l
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W20-repaso-agua-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** En la cima del Nevado del Cocuy, el agua se encuentra en estado sólido formando grandes masas de hielo.
+**Contexto:** En la cima del Nevado del Cocuy, el agua se encuentra en estado sólido formando grandes masas de hielo.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -73,12 +77,12 @@ La solidificación es el proceso donde el líquido se vuelve sólido por el frí
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W20-repaso-agua-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** El viaje del agua en la naturaleza nunca se detiene. El sol calienta el mar y el agua sube al cielo.
+**Contexto:** El viaje del agua en la naturaleza nunca se detiene. El sol calienta el mar y el agua sube al cielo.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ La condensación es como un "abrazo" de moléculas. Al enfriarse, las partícula
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W20-repaso-agua-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Colombia tiene dos océanos, pero la mayoría del agua que usamos para beber viene de los ríos y de los páramos.
+**Contexto:** Colombia tiene dos océanos, pero la mayoría del agua que usamos para beber viene de los ríos y de los páramos.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ El agua salada solo sirve para los ecosistemas marinos. Para la vida terrestre, 
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W20-repaso-agua-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Mariana nota que el agua de un florero huele muy mal y está de color verde oscuro después de una semana sin cambiarla.
+**Contexto:** Mariana nota que el agua de un florero huele muy mal y está de color verde oscuro después de una semana sin cambiarla.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -148,12 +152,12 @@ El agua estancada pierde su calidad rápidamente. Para que el agua sea saludable
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W20-repaso-agua-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En la ducha, el vapor de agua toca el vidrio de la ventana y se forman chorritos de agua líquida que bajan por el cristal.
+**Contexto:** En la ducha, el vapor de agua toca el vidrio de la ventana y se forman chorritos de agua líquida que bajan por el cristal.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -173,12 +177,12 @@ Este fenómeno es la condensación. Nos enseña que la atmósfera funciona como 
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W20-repaso-agua-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Los seres humanos usamos el agua para muchas cosas, pero algunas son más urgentes para la supervivencia que otras.
+**Contexto:** Los seres humanos usamos el agua para muchas cosas, pero algunas son más urgentes para la supervivencia que otras.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -198,12 +202,12 @@ Debemos priorizar el agua para la vida. Las necesidades biológicas del cuerpo h
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W20-repaso-agua-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Un científico encuentra que el agua de un río tiene aceite y restos de jabón industrial de una fábrica cercana.
+**Contexto:** Un científico encuentra que el agua de un río tiene aceite y restos de jabón industrial de una fábrica cercana.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -223,12 +227,12 @@ La contaminación cambia la química del agua. El jabón, por ejemplo, rompe la 
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W20-repaso-agua-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Los humedales de Bogotá son como riñones para la ciudad, porque filtran el agua y controlan las inundaciones.
+**Contexto:** Los humedales de Bogotá son como riñones para la ciudad, porque filtran el agua y controlan las inundaciones.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -248,12 +252,12 @@ Los humedales son parte vital de la infraestructura natural. Cuidarlos no es sol
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W20-repaso-agua-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una frase famosa dice: "El agua es vida".
+**Contexto:** Una frase famosa dice: "El agua es vida".
 **Expected_Success:** 0.60
 
 ### Enunciado

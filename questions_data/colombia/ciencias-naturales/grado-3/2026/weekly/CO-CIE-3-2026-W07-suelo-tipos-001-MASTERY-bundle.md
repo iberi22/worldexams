@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY"
+id: "CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "suelo-tipos"
-semana: "W07"
+week: "W07"
 periodo: 1
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Tipos de suelo: arenosos, arcillosos y humíferos. Caracterís
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Tipos de Suelos
 
 Este bundle enseña a diferenciar los suelos según su textura, capacidad de retener agua y fertilidad, identificando cuál es el mejor para cada actividad.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Camilo va a la playa y nota que el suelo es de color claro, rasposo y que el agua desaparece al instante cuando llega una ola.
+**Contexto:** Camilo va a la playa y nota que el suelo es de color claro, rasposo y que el agua desaparece al instante cuando llega una ola.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ Los suelos arenosos son muy porosos. Esto significa que tienen espacios grandes 
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una artesana en Ráquira, Boyacá, usa un tipo de tierra pegajosa y de color rojizo para moldear vasijas y platos de barro.
+**Contexto:** Una artesana en Ráquira, Boyacá, usa un tipo de tierra pegajosa y de color rojizo para moldear vasijas y platos de barro.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -73,12 +77,12 @@ El suelo arcilloso es impermeable. Sus partículas son tan pequeñas que no deja
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Para sembrar una huerta de tomates, el profesor de ciencias busca un suelo que sea negro, esponjoso y que tenga muchas lombrices.
+**Contexto:** Para sembrar una huerta de tomates, el profesor de ciencias busca un suelo que sea negro, esponjoso y que tenga muchas lombrices.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -98,12 +102,12 @@ El suelo humífero es el sueño de todo jardinero. Su color oscuro indica que ti
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Tienes tres macetas: una con arena pura, otra con arcilla pura y otra con tierra negra de jardín. Echas la misma cantidad de agua a las tres.
+**Contexto:** Tienes tres macetas: una con arena pura, otra con arcilla pura y otra con tierra negra de jardín. Echas la misma cantidad de agua a las tres.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -123,12 +127,12 @@ Este experimento demuestra la permeabilidad de los suelos. Los suelos arcillosos
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Caminando por un sendero después de un aguacero, tus zapatos se llenan de un barro pesado que se pega a la suela y te hace deslizar.
+**Contexto:** Caminando por un sendero después de un aguacero, tus zapatos se llenan de un barro pesado que se pega a la suela y te hace deslizar.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -148,12 +152,12 @@ La arcilla mojada es muy conocida en el campo colombiano. Es difícil de caminar
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Los cactus viven en suelos muy arenosos donde llueve poco y el sol calienta mucho la superficie.
+**Contexto:** Los cactus viven en suelos muy arenosos donde llueve poco y el sol calienta mucho la superficie.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -173,12 +177,12 @@ La relación entre el tipo de suelo y los seres vivos es vital. Como la arena no
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un constructor quiere hacer una carretera estable. Sabe que si usa un suelo que se vuelve barro muy fácil, la carretera se puede hundir.
+**Contexto:** Un constructor quiere hacer una carretera estable. Sabe que si usa un suelo que se vuelve barro muy fácil, la carretera se puede hundir.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -198,12 +202,12 @@ El tipo de suelo no solo importa para la agricultura, sino también para la inge
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Encuentras un suelo que es una mezcla perfecta: tiene un poco de arena para que pase el aire, un poco de arcilla para guardar humedad y mucho humus para alimentar a las plantas.
+**Contexto:** Encuentras un suelo que es una mezcla perfecta: tiene un poco de arena para que pase el aire, un poco de arcilla para guardar humedad y mucho humus para alimentar a las plantas.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -223,12 +227,12 @@ En la naturaleza, los mejores suelos son las mezclas. Un suelo que sea "solo una
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** En las selvas húmedas, a pesar de que hay muchas plantas, el suelo a veces es muy delgado y pobre porque la lluvia constante lava los nutrientes.
+**Contexto:** En las selvas húmedas, a pesar de que hay muchas plantas, el suelo a veces es muy delgado y pobre porque la lluvia constante lava los nutrientes.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -248,12 +252,12 @@ Este es el peligro de la deforestación. Los árboles no solo viven en el suelo,
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W07-suelo-tipos-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un científico dice que "el suelo arcilloso es malo y el suelo humífero es bueno".
+**Contexto:** Un científico dice que "el suelo arcilloso es malo y el suelo humífero es bueno".
 **Expected_Success:** 0.50
 
 ### Enunciado

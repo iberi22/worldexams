@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W12-proporcionalidad-directa-001-MASTERY"
+id: "CO-MAT-6-2026-W12-proporcionalidad-directa-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W12 — Proporcionalidad Directa
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W12-proporcionalidad-directa-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Precio de empanadas
+**Contexto:** Precio de empanadas
 
 ### Enunciado
 En la tienda escolar, cada empanada cuesta $1.500. Si se compran 3 empanadas, ¿cuanto se paga?
 
-### Options
+### Opciones
 - [x] A) $4.500 <!-- feedback: Correct. 3 × $1.500 = $4.500. Es directamente proporcional: mas empanadas, mas precio. -->
 - [ ] B) $3.000 <!-- feedback: Incorrect. 2×1.500=3.000. Error: calcular para 2 empanadas, no 3. -->
 - [ ] C) $5.000 <!-- feedback: Incorrect. 3×1.500 + 500 = 5.000. Sumar 500 extra sin razon. 3×1.500=4.500. -->
@@ -50,13 +53,14 @@ Constante de proporcionalidad: $1.500 por empanada.
 
 **ID:** `CO-MAT-6-2026-W12-proporcionalidad-directa-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Litros de agua
+**Contexto:** Litros de agua
 
 ### Enunciado
 Una llave vierte 5 litros de agua por minuto. ¿Cuantos litros vierte en 4 minutos?
 
-### Options
+### Opciones
 - [ ] A) 9 litros <!-- feedback: Incorrect. Sumar 5+4=9. La relacion es multiplicativa: 5×4=20. -->
 - [ ] B) 20 litros <!-- feedback: Correct. 5 L/min × 4 min = 20 litros. Es directamente proporcional. -->
 - [x] C) 1,25 litros <!-- feedback: Incorrect. Dividir 5÷4=1,25. El tiempo aumenta, la cantidad tambien debe aumentar. 4 min > 1 min, debe dar > 5 litros. -->
@@ -73,13 +77,14 @@ La constante de proporcionalidad es 5 (litros por minuto).
 
 **ID:** `CO-MAT-6-2026-W12-proporcionalidad-directa-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Tabla de proporcionalidad
+**Contexto:** Tabla de proporcionalidad
 
 ### Enunciado
 Observa la tabla: si 2 lapices cuestan $1.000 y 4 lapices cuestan $2.000, ¿cuanto cuestan 6 lapices?
 
-### Options
+### Opciones
 - [ ] A) $2.500 <!-- feedback: Incorrect. Sumar 2.000+500=2.500. Error: 6/4=1,5 veces, entonces 2.000×1,5=3.000. O 6/2=3, 1.000×3=3.000. -->
 - [ ] B) $4.000 <!-- feedback: Incorrect. 2.000×2=4.000. Eso seria para 8 lapices (4×2). Para 6 lapices: 1.000×3=3.000. -->
 - [x] C) $3.000 <!-- feedback: Correct. 2 lapices→$1.000 (500 c/u). 6×500=3.000. O proporcion: 2/1.000 = 6/x → x=3.000. -->
@@ -96,13 +101,14 @@ En una tabla de proporcionalidad directa, la constante se calcula dividiendo cua
 
 **ID:** `CO-MAT-6-2026-W12-proporcionalidad-directa-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Identificar proporcionalidad
+**Contexto:** Identificar proporcionalidad
 
 ### Enunciado
 ¿Cual de las siguientes situaciones representa una relacion directamente proporcional?
 
-### Options
+### Opciones
 - [ ] A) La edad de una persona y su altura <!-- feedback: Incorrect. No es directamente proporcional porque la altura deja de aumentar con la edad. No mantienen una razon constante. -->
 - [ ] B) El precio de un dulce y la cantidad de dulces comprados <!-- feedback: Correct. Si cada dulce cuesta lo mismo, al comprar mas dulces el precio total aumenta en la misma proporcion. Constante = precio por dulce. -->
 - [x] C) La temperatura y la hora del dia <!-- feedback: Incorrect. La temperatura sube y baja durante el dia, no es una relacion constante. No se puede predecir con una regla de multiplicacion. -->
@@ -119,13 +125,14 @@ Si compras el doble de dulces, pagas el doble. Si compras el triple, pagas el tr
 
 **ID:** `CO-MAT-6-2026-W12-proporcionalidad-directa-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Receta de arroz con pollo
+**Contexto:** Receta de arroz con pollo
 
 ### Enunciado
 Para 4 personas, la receta de arroz con pollo usa 2 tazas de arroz. ¿Cuantas tazas de arroz se necesitan para 10 personas?
 
-### Options
+### Opciones
 - [ ] A) 4 tazas <!-- feedback: Incorrect. 2×2=4. Eso seria para 8 personas. Factor: 10/4=2,5. 2×2,5=5. -->
 - [ ] B) 6 tazas <!-- feedback: Incorrect. 2×3=6. Eso seria para 12 personas (4×3=12). Factor correcto: 10/4=2,5. -->
 - [x] C) 5 tazas <!-- feedback: Correct. Proporcion: 2/4 = x/10 → x = 2×10/4 = 20/4 = 5 tazas. -->
@@ -145,13 +152,14 @@ Se necesitan 5 tazas de arroz para 10 personas.
 
 **ID:** `CO-MAT-6-2026-W12-proporcionalidad-directa-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Pagos en el restaurante
+**Contexto:** Pagos en el restaurante
 
 ### Enunciado
 En un restaurante de comidas rapidas, 3 hamburguesas cuestan $18.000. ¿Cual es el precio de 7 hamburguesas?
 
-### Options
+### Opciones
 - [ ] A) $36.000 <!-- feedback: Incorrect. 18.000×2=36.000. Eso seria para 6 hamburguesas (3×2=6), no 7. Para 7: 18.000/3=6.000 c/u, ×7=42.000. -->
 - [ ] B) $42.000 <!-- feedback: Correct. 18.000÷3=6.000 c/u. 7×6.000=42.000. -->
 - [x] C) $39.000 <!-- feedback: Incorrect. 18.000+21.000=39.000. Error en el calculo. Precio unitario: 18.000/3=6.000. 7×6.000=42.000. -->
@@ -168,13 +176,14 @@ Regla de tres: 3/18.000 = 7/x → x = (7×18.000)/3 = 126.000/3 = 42.000.
 
 **ID:** `CO-MAT-6-2026-W12-proporcionalidad-directa-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Gasolina para el viaje
+**Contexto:** Gasolina para el viaje
 
 ### Enunciado
 Un carro consume 8 galones de gasolina para recorrer 240 km. ¿Cuantos galones necesita para recorrer 450 km?
 
-### Options
+### Opciones
 - [ ] A) 12 galones <!-- feedback: Incorrect. 8+4=12. Error: sumar 4. Proporcion: 8/240 = x/450 → x=8×450/240=15 galones. -->
 - [ ] B) 20 galones <!-- feedback: Incorrect. 450/240=1,875. 8×1,875=15. 20 galones seria demasiado. Error: 240/8=30 km/galon, 450/30=15. -->
 - [x] C) 15 galones <!-- feedback: Correct. Proporcion: 8/240 = x/450 → x = (8×450)/240 = 3.600/240 = 15 galones. -->
@@ -192,13 +201,14 @@ O con regla de tres: 8/240 = x/450 → x = (8×450)/240 = 3.600/240 = 15.
 
 **ID:** `CO-MAT-6-2026-W12-proporcionalidad-directa-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Ladrillos para construir
+**Contexto:** Ladrillos para construir
 
 ### Enunciado
 Para construir una pared de 3 m de alto se necesitan 450 ladrillos. ¿Cuantos ladrillos se necesitan para una pared de 5 m de alto del mismo ancho?
 
-### Options
+### Opciones
 - [ ] A) 750 ladrillos <!-- feedback: Correct. 450/3=150 ladrillos por metro. 5×150=750 ladrillos. -->
 - [ ] B) 900 ladrillos <!-- feedback: Incorrect. 450×2=900. Eso seria para 6 m (3×2). Para 5 m: 5/3×450=750. -->
 - [x] C) 600 ladrillos <!-- feedback: Incorrect. 450+150=600. Error: 450/3=150 por metro, pero 5-3=2 metros adicionales, 2×150=300, 450+300=750. -->
@@ -215,13 +225,14 @@ Regla de tres: 3/450 = 5/x → x = (450×5)/3 = 2.250/3 = 750.
 
 **ID:** `CO-MAT-6-2026-W12-proporcionalidad-directa-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Analisis de grafica
+**Contexto:** Analisis de grafica
 
 ### Enunciado
 En una grafica de proporcionalidad directa, cuando x=2, y=6. Si x=5, ¿cuanto vale y?
 
-### Options
+### Opciones
 - [ ] A) 10 <!-- feedback: Incorrect. 5×2=10. No se usa la constante correctamente. Constante: 6/2=3. Entonces y=5×3=15. -->
 - [ ] B) 12 <!-- feedback: Incorrect. 6×2=12. Factor de x: 2→5 es ×2,5, no ×2. y=6×2,5=15. -->
 - [x] C) 15 <!-- feedback: Correct. Constante: k=6/2=3. Cuando x=5: y=3×5=15. -->
@@ -239,8 +250,9 @@ La grafica de y=3x es una linea recta que pasa por el origen.
 
 **ID:** `CO-MAT-6-2026-W12-proporcionalidad-directa-010-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Verificar si es proporcion directa
+**Contexto:** Verificar si es proporcion directa
 
 ### Enunciado
 Observa la tabla:
@@ -249,7 +261,7 @@ Observa la tabla:
 
 ¿Las variables x y y son directamente proporcionales?
 
-### Options
+### Opciones
 - [ ] A) No, porque los valores de y son impares <!-- feedback: Incorrect. La paridad no determina la proporcionalidad. La constante y/x = 5/2 = 10/4 = 15/6 = 20/8 = 2,5. Es constante. -->
 - [ ] B) No, porque la constante no es entera <!-- feedback: Incorrect. La constante puede ser cualquier numero real, no necesariamente entero. k=2,5 es valida. -->
 - [x] C) Si, porque y/x = 2,5 para todos los pares <!-- feedback: Correct. y/x=2,5 constante. Es directamente proporcional con k=2,5. -->

@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY"
+id: "CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "plantas-funciones"
-semana: "W11"
+week: "W11"
 periodo: 2
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Funciones vitales de las plantas: nutrición, relación y repr
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Funciones de las Plantas
 
 Este bundle explora cómo las plantas, a pesar de no moverse como los animales, realizan funciones complejas para mantenerse vivas y asegurar su descendencia.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la huerta de la escuela, los niños ven que las plantas de tomate han crecido mucho y ahora tienen pequeñas flores.
+**Contexto:** En la huerta de la escuela, los niños ven que las plantas de tomate han crecido mucho y ahora tienen pequeñas flores.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -48,12 +52,12 @@ La flor es el órgano reproductivo. Su color y aroma sirven para atraer insectos
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un árbol de mango necesita energía para que sus mangos crezcan dulces y grandes.
+**Contexto:** Un árbol de mango necesita energía para que sus mangos crezcan dulces y grandes.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -73,12 +77,12 @@ Las plantas son las únicas capaces de "cocinar" su alimento usando luz. Este pr
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Las raíces de las plantas están bajo tierra, pero son muy activas todo el tiempo.
+**Contexto:** Las raíces de las plantas están bajo tierra, pero son muy activas todo el tiempo.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -98,12 +102,12 @@ La nutrición vegetal comienza en la raíz. El agua y los minerales forman la "s
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Si notas que una planta en una maceta se está inclinando mucho hacia la ventana donde entra más claridad.
+**Contexto:** Si notas que una planta en una maceta se está inclinando mucho hacia la ventana donde entra más claridad.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -123,12 +127,12 @@ Las plantas también se relacionan con su entorno. Como no pueden caminar, sus r
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Después de que la flor es polinizada, los pétalos se caen y empieza a crecer una pequeña bolita verde que luego será una fruta.
+**Contexto:** Después de que la flor es polinizada, los pétalos se caen y empieza a crecer una pequeña bolita verde que luego será una fruta.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -148,12 +152,12 @@ El fruto es el "cofre del tesoro" de la planta. Guarda las semillas que son los 
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un árbol gigante de la selva puede transpirar cientos de litros de agua en forma de vapor a través de sus hojas cada día.
+**Contexto:** Un árbol gigante de la selva puede transpirar cientos de litros de agua en forma de vapor a través de sus hojas cada día.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -173,12 +177,12 @@ La transpiración vegetal es como el sudor de las plantas. Ayuda a que el agua s
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Las plantas realizan dos procesos con gases: la respiración y la fotosíntesis.
+**Contexto:** Las plantas realizan dos procesos con gases: la respiración y la fotosíntesis.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -198,12 +202,12 @@ Es común confundirse, pero son dos tareas distintas. La planta respira (como no
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** En un experimento, se tapa una hoja de una planta con un plástico negro, mientras las demás hojas reciben luz normal.
+**Contexto:** En un experimento, se tapa una hoja de una planta con un plástico negro, mientras las demás hojas reciben luz normal.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -223,12 +227,12 @@ Este experimento demuestra que la función de nutrición de la planta depende di
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Algunas plantas, como las que viven en el desierto, cierran sus poros durante el día caluroso y los abren solo en la noche fresca.
+**Contexto:** Algunas plantas, como las que viven en el desierto, cierran sus poros durante el día caluroso y los abren solo en la noche fresca.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -248,12 +252,12 @@ Esta es una adaptación de la función de relación. La planta "siente" el calor
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W11-plantas-funciones-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una persona dice: "Las plantas son aburridas porque no hacen nada, solo están ahí quietas".
+**Contexto:** Una persona dice: "Las plantas son aburridas porque no hacen nada, solo están ahí quietas".
 **Expected_Success:** 0.55
 
 ### Enunciado

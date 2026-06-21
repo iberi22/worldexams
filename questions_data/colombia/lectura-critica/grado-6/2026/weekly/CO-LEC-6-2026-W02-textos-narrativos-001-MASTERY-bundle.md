@@ -1,28 +1,32 @@
 ---
-id: "CO-LEC-6-2026-W02-textos-narrativos-001-MASTERY"
+id: "CO-LEC-6-2026-W02-textos-narrativos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "textos-narrativos"
-semana: "W02"
+week: "W02"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Narrativos - Grado 6
 ## Semana W02
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEC-6-2026-W02-textos-narrativos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio San Carlos de Medellín, la profesora Elena explica los elementos del texto narrativo.
+**Contexto:** En el Colegio San Carlos de Medellín, la profesora Elena explica los elementos del texto narrativo.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Un texto narrativo es aquel que cuenta una historia real o ficticia. Sus element
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEC-6-2026-W02-textos-narrativos-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En la I.E. Normal Superior de Sincelejo, los estudiantes recuerdan los tipos de narrador.
+**Contexto:** En la I.E. Normal Superior de Sincelejo, los estudiantes recuerdan los tipos de narrador.
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -60,11 +64,11 @@ Los tipos de narrador según su conocimiento: omnisciente (lo sabe todo, en terc
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEC-6-2026-W02-textos-narrativos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** Los estudiantes del Colegio de la Universidad Pedagógica de Tunja leen un cuento tradicional boyacense.
+**Contexto:** Los estudiantes del Colegio de la Universidad Pedagógica de Tunja leen un cuento tradicional boyacense.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ El narrador en tercera persona puede ser omnisciente (sabe todo) o testigo (solo
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEC-6-2026-W02-textos-narrativos-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En la I.E. Técnica de Facatativá, los estudiantes deben identificar la estructura narrativa en un cuento colombiano.
+**Contexto:** En la I.E. Técnica de Facatativá, los estudiantes deben identificar la estructura narrativa en un cuento colombiano.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -102,11 +106,11 @@ La estructura narrativa clásica: inicio o planteamiento (se presentan personaje
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEC-6-2026-W02-textos-narrativos-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio INEM de Santa Marta, los estudiantes analizan una crónica periodística como texto narrativo.
+**Contexto:** En el Colegio INEM de Santa Marta, los estudiantes analizan una crónica periodística como texto narrativo.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -123,11 +127,11 @@ No todos los textos narrativos son ficción. La crónica, la noticia y el report
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LEC-6-2026-W02-textos-narrativos-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En la Institución Educativa Luis López de Mesa de Ibagué, los estudiantes diferencian entre cuento y novela.
+**Contexto:** En la Institución Educativa Luis López de Mesa de Ibagué, los estudiantes diferencian entre cuento y novela.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ El cuento es una narración breve con pocos personajes y un conflicto central qu
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LEC-6-2026-W02-textos-narrativos-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** Los estudiantes del Colegio Los Andes de Bucaramanga analizan el punto de vista narrativo en un cuento.
+**Contexto:** Los estudiantes del Colegio Los Andes de Bucaramanga analizan el punto de vista narrativo en un cuento.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ El narrador en primera persona (protagonista) cuenta la historia desde su propia
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEC-6-2026-W02-textos-narrativos-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio San Ignacio de Medellín, los estudiantes analizan cómo el narrador influye en la interpretación de la historia.
+**Contexto:** En el Colegio San Ignacio de Medellín, los estudiantes analizan cómo el narrador influye en la interpretación de la historia.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ En lectura crítica es fundamental entender que todo texto narrativo tiene un pu
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEC-6-2026-W02-textos-narrativos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Técnico de Pereira, un estudiante escribe una narración sobre la Feria de la Cosecha.
+**Contexto:** En el Colegio Técnico de Pereira, un estudiante escribe una narración sobre la Feria de la Cosecha.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ El conflicto es el motor de toda narración. Sin conflicto (un problema, un dese
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEC-6-2026-W02-textos-narrativos-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En el Gimnasio Femenino de Bogotá, las estudiantes deben crear una narración que mantenga la atención del lector.
+**Contexto:** En el Gimnasio Femenino de Bogotá, las estudiantes deben crear una narración que mantenga la atención del lector.
 **Expected_Success:** 0.48
 
 ### Enunciado

@@ -1,28 +1,32 @@
 ---
-id: "CO-LEC-6-2026-W16-textos-publicitarios-001-MASTERY"
+id: "CO-LEC-6-2026-W16-textos-publicitarios-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "textos-publicitarios"
-semana: "W16"
+week: "W16"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Publicitarios - Grado 6
 ## Semana W16
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEC-6-2026-W16-textos-publicitarios-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio Parroquial San Luis Gonzaga de Chiquinquirá, la profesora de lengua explica los tipos de textos que vemos en la vida diaria.
+**Contexto:** En el Colegio Parroquial San Luis Gonzaga de Chiquinquirá, la profesora de lengua explica los tipos de textos que vemos en la vida diaria.
 **Expected_Success:** 0.87
 
 ### Enunciado
@@ -39,11 +43,11 @@ Los textos publicitarios pertenecen al género persuasivo. Su objetivo es conven
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEC-6-2026-W16-textos-publicitarios-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** Los estudiantes del Colegio Cooperativo de Bucaramanga observan diferentes anuncios en la cartelera escolar.
+**Contexto:** Los estudiantes del Colegio Cooperativo de Bucaramanga observan diferentes anuncios en la cartelera escolar.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -60,11 +64,11 @@ Los textos publicitarios se caracterizan por: 1) eslogan (frase corta y llamativ
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEC-6-2026-W16-textos-publicitarios-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En la Institución Educativa San Simón de Ibagué, los estudiantes analizan un aviso publicitario de la ciudad.
+**Contexto:** En la Institución Educativa San Simón de Ibagué, los estudiantes analizan un aviso publicitario de la ciudad.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -81,11 +85,11 @@ Los textos publicitarios usan varias estrategias persuasivas: apelación emocion
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LEC-6-2026-W16-textos-publicitarios-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Sagrada Familia de Palmira, los estudiantes ven una valla publicitaria de una marca de arepas.
+**Contexto:** En el Colegio Sagrada Familia de Palmira, los estudiantes ven una valla publicitaria de una marca de arepas.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -102,11 +106,11 @@ El llamado a la acción (call to action) es un elemento clave en publicidad. Pue
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEC-6-2026-W16-textos-publicitarios-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En la I.E. Policarpa Salavarrieta de Soacha, los estudiantes deben crear una campaña publicitaria para promover el reciclaje.
+**Contexto:** En la I.E. Policarpa Salavarrieta de Soacha, los estudiantes deben crear una campaña publicitaria para promover el reciclaje.
 **Expected_Success:** 0.73
 
 ### Enunciado
@@ -123,11 +127,11 @@ Un buen eslogan publicitario debe ser: 1) breve y fácil de recordar, 2) persuas
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LEC-6-2026-W16-textos-publicitarios-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio La Salle de Sincelejo, los estudiantes analizan un anuncio publicitario de una marca de jogos.
+**Contexto:** En el Colegio La Salle de Sincelejo, los estudiantes analizan un anuncio publicitario de una marca de jogos.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -144,11 +148,11 @@ La estrategia testimonial o de autoridad es muy común en publicidad: una person
 
 ---
 
-## Pregunta 7 [D7]
+## Question 7 [D7]
 **ID:** `CO-LEC-6-2026-W16-textos-publicitarios-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio INEM José Antonio Galán de Socorro, el profesor pregunta por qué la publicidad usa tantas imágenes y colores llamativos.
+**Contexto:** En el Colegio INEM José Antonio Galán de Socorro, el profesor pregunta por qué la publicidad usa tantas imágenes y colores llamativos.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -165,11 +169,11 @@ La publicidad compite por la atención del público en un entorno saturado de es
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEC-6-2026-W16-textos-publicitarios-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Comprensión de textos
-**Context:** En la Institución Educativa San José de Ocaña, los estudiantes evalúan distintos anuncios publicitarios.
+**Contexto:** En la Institución Educativa San José de Ocaña, los estudiantes evalúan distintos anuncios publicitarios.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -186,11 +190,11 @@ La publicidad dirigida a niños requiere especial cuidado ético, porque los men
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEC-6-2026-W16-textos-publicitarios-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En el Colegio Cafam de Bogotá, los estudiantes comparan un anuncio real de gaseosa con uno ficticio.
+**Contexto:** En el Colegio Cafam de Bogotá, los estudiantes comparan un anuncio real de gaseosa con uno ficticio.
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -211,11 +215,11 @@ La publicidad puede combinar elementos informativos y persuasivos, pero generalm
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEC-6-2026-W16-textos-publicitarios-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio San Jorge de Cúcuta, el proyecto final es diseñar una campaña publicitaria contra el consumo de cigarrillo en adolescentes.
+**Contexto:** En el Colegio San Jorge de Cúcuta, el proyecto final es diseñar una campaña publicitaria contra el consumo de cigarrillo en adolescentes.
 **Expected_Success:** 0.45
 
 ### Enunciado

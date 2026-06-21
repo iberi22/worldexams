@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY"
+id: "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-ciudadanas"
 tema: "edad-moderna"
-semana: "W01"
+week: "W01"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026 — Pensamiento Social"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Edad Moderna — Grado 7
 ## Semana W01 — Transición de la Edad Media a la Edad Moderna
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En la clase de sociales del Colegio San Bartolomé de Bogotá, la profesora Ana explica las grandes etapas de la historia y pregunta por los hitos que marcan el inicio de la Edad Moderna.
+**Contexto:** En la clase de sociales del Colegio San Bartolomé de Bogotá, la profesora Ana explica las grandes etapas de la historia y pregunta por los hitos que marcan el inicio de la Edad Moderna.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La Edad Moderna (1453-1789) es el período histórico que sucede a la Edad Media
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del INEM de Cali leen un texto que describe cambios económicos ocurridos en Europa entre los siglos XV y XVI.
+**Contexto:** Los estudiantes del INEM de Cali leen un texto que describe cambios económicos ocurridos en Europa entre los siglos XV y XVI.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ La Edad Moderna trajo una transformación económica profunda: el auge del comer
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** Santiago, estudiante de grado 7 en el Colegio La Salle de Medellín, pregunta cómo se organizaba políticamente Europa durante la Edad Moderna.
+**Contexto:** Santiago, estudiante de grado 7 en el Colegio La Salle de Medellín, pregunta cómo se organizaba políticamente Europa durante la Edad Moderna.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -81,11 +85,11 @@ La Edad Moderna vio el surgimiento de las monarquías autoritarias primero y abs
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Argumentación
-**Context:** En el colegio de Bucaramanga, los estudiantes debaten si la invención de la imprenta por Gutenberg (c. 1440) fue un factor clave para el inicio de la Edad Moderna.
+**Contexto:** En el colegio de Bucaramanga, los estudiantes debaten si la invención de la imprenta por Gutenberg (c. 1440) fue un factor clave para el inicio de la Edad Moderna.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -102,11 +106,11 @@ La imprenta de tipos móviles de Gutenberg (hacia 1440) fue una de las innovacio
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Camila lee en clase un fragmento sobre el humanista neerlandés Erasmo de Rotterdam y su obra "Elogio de la Locura".
+**Contexto:** Camila lee en clase un fragmento sobre el humanista neerlandés Erasmo de Rotterdam y su obra "Elogio de la Locura".
 **Expected_Success:** 0.77
 
 ### Enunciado
@@ -123,11 +127,11 @@ Erasmo de Rotterdam (1466-1536) fue el máximo exponente del humanismo cristiano
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Cartagena, la profesora explica cómo el descubrimiento de América en 1492 transformó las relaciones entre Europa y el resto del mundo.
+**Contexto:** En el colegio de Cartagena, la profesora explica cómo el descubrimiento de América en 1492 transformó las relaciones entre Europa y el resto del mundo.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ El descubrimiento de América (1492) inició un intercambio global sin precedent
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Pereira, los estudiantes analizan por qué España y Portugal lideraron las exploraciones marítimas en el siglo XV mientras otros reinos europeos no.
+**Contexto:** En el colegio de Pereira, los estudiantes analizan por qué España y Portugal lideraron las exploraciones marítimas en el siglo XV mientras otros reinos europeos no.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Portugal (con Enrique el Navegante) y España (con los Reyes Católicos) liderar
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Social
-**Context:** La profesora de sociales del colegio de Villavicencio presenta un esquema comparativo entre la sociedad medieval y la sociedad moderna temprana.
+**Contexto:** La profesora de sociales del colegio de Villavicencio presenta un esquema comparativo entre la sociedad medieval y la sociedad moderna temprana.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ La sociedad estamental medieval estaba dividida en nobleza, clero y tercer estad
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Cúcuta, los estudiantes analizan un mapa histórico que muestra las rutas comerciales europeas antes y después de 1492.
+**Contexto:** En el colegio de Cúcuta, los estudiantes analizan un mapa histórico que muestra las rutas comerciales europeas antes y después de 1492.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -207,11 +211,11 @@ El "giro atlántico" de la economía europea fue una de las transformaciones má
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Manizales, los estudiantes debaten si la Edad Moderna representó un progreso real para la humanidad, considerando el colonialismo y la esclavitud.
+**Contexto:** En el colegio de Manizales, los estudiantes debaten si la Edad Moderna representó un progreso real para la humanidad, considerando el colonialismo y la esclavitud.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -228,11 +232,11 @@ La Edad Moderna es un período de profundas contradicciones. Por un lado, trajo 
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En la I.E. de Sincelejo, los estudiantes comparan la caída de Constantinopla (1453) con el descubrimiento de América (1492) como hitos del inicio de la Edad Moderna.
+**Contexto:** En la I.E. de Sincelejo, los estudiantes comparan la caída de Constantinopla (1453) con el descubrimiento de América (1492) como hitos del inicio de la Edad Moderna.
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -249,11 +253,11 @@ La caída de Constantinopla en manos de los turcos otomanos (1453) cerró las ru
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Bogotá, la profesora propone un ejercicio final: evaluar qué legado de la Edad Moderna sigue vigente en Colombia del siglo XXI.
+**Contexto:** En el colegio de Bogotá, la profesora propone un ejercicio final: evaluar qué legado de la Edad Moderna sigue vigente en Colombia del siglo XXI.
 **Expected_Success:** 0.42
 
 ### Enunciado

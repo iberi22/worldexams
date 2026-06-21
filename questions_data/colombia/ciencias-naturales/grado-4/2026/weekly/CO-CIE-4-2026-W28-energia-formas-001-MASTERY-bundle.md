@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-4-2026-W28-energia-formas-001-MASTERY"
+id: "CO-CIE-4-2026-W28-energia-formas-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "ciencias-naturales"
 tema: "energia-formas"
-semana: "W28"
+week: "W28"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,266 +16,270 @@ rubric_baseline: "formas de energÃ­a, cinÃ©tica, potencial, tÃ©rmica, elÃ
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: EnergÃ­a: formas y fuentes â€” Grado 4 â€” W28
 
 10 preguntas sobre formas y fuentes de energÃ­a.
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 
 **ID:** `CO-CIE-4-2026-W28-energia-formas-001-MASTERY-v1`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Colegio de la PresentaciÃ³n en ZipaquirÃ¡, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio de la PresentaciÃ³n en ZipaquirÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 La energÃ­a cinÃ©tica es la energÃ­a del:
 
 ### Opciones
-- [ ] A) Reposo
-  <!-- feedback: No. -->
-- [x] B) Movimiento
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Calor
-  <!-- feedback: No. -->
-- [ ] D) Sonido
-  <!-- feedback: No. -->
+- [ ] A) Reposo <!-- feedback: Incorrecto. Reposo -->
+
+- [x] B) Movimiento <!-- feedback: Correcto! Movimiento -->
+
+- [ ] C) Calor <!-- feedback: Incorrecto. Calor -->
+
+- [ ] D) Sonido <!-- feedback: Incorrecto. Sonido -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 CinÃ©tica: energÃ­a de movimiento.
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-CIE-4-2026-W28-energia-formas-001-MASTERY-v2`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Colegio AgustÃ­niano en CÃºcuta, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio AgustÃ­niano en CÃºcuta, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 La energÃ­a potencial es energÃ­a:
 
 ### Opciones
-- [ ] A) Del movimiento
-  <!-- feedback: No. -->
-- [x] B) Almacenada
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Del viento
-  <!-- feedback: No. -->
-- [ ] D) Del sol
-  <!-- feedback: No. -->
+- [ ] A) Del movimiento <!-- feedback: Incorrecto. Del movimiento -->
+
+- [x] B) Almacenada <!-- feedback: Correcto! Almacenada -->
+
+- [ ] C) Del viento <!-- feedback: Incorrecto. Del viento -->
+
+- [ ] D) Del sol <!-- feedback: Incorrecto. Del sol -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Potencial: energÃ­a almacenada.
 
 ---
 
-## Pregunta 3 [D2]
+## Question 3 [D2]
 
 **ID:** `CO-CIE-4-2026-W28-energia-formas-001-MASTERY-v3`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio Franciscano en Yopal, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio Franciscano en Yopal, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 La energÃ­a elÃ©ctrica se transforma en luz en:
 
 ### Opciones
-- [ ] A) Un motor
-  <!-- feedback: No. -->
-- [x] B) Un bombillo
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Una baterÃ­a
-  <!-- feedback: No. -->
-- [ ] D) Un panel solar
-  <!-- feedback: No. -->
+- [ ] A) Un motor <!-- feedback: Incorrecto. Un motor -->
+
+- [x] B) Un bombillo <!-- feedback: Correcto! Un bombillo -->
+
+- [ ] C) Una baterÃ­a <!-- feedback: Incorrecto. Una baterÃ­a -->
+
+- [ ] D) Un panel solar <!-- feedback: Incorrecto. Un panel solar -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Bombillo: elÃ©ctrica â†’ luminosa.
 
 ---
 
-## Pregunta 4 [D2]
+## Question 4 [D2]
 
 **ID:** `CO-CIE-4-2026-W28-energia-formas-001-MASTERY-v4`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en MedellÃ­n, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en MedellÃ­n, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 La energÃ­a solar proviene de:
 
 ### Opciones
-- [ ] A) El viento
-  <!-- feedback: No. -->
-- [x] B) El Sol
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) El agua
-  <!-- feedback: No. -->
-- [ ] D) El carbono
-  <!-- feedback: No. -->
+- [ ] A) El viento <!-- feedback: Incorrecto. El viento -->
+
+- [x] B) El Sol <!-- feedback: Correcto! El Sol -->
+
+- [ ] C) El agua <!-- feedback: Incorrecto. El agua -->
+
+- [ ] D) El carbono <!-- feedback: Incorrecto. El carbono -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Solar: del Sol.
 
 ---
 
-## Pregunta 5 [D2]
+## Question 5 [D2]
 
 **ID:** `CO-CIE-4-2026-W28-energia-formas-001-MASTERY-v5`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio Salesiano en Cali, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio Salesiano en Cali, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 La energÃ­a eÃ³lica se obtiene del:
 
 ### Opciones
-- [ ] A) Agua
-  <!-- feedback: No. -->
-- [x] B) Viento
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Sol
-  <!-- feedback: No. -->
-- [ ] D) PetrÃ³leo
-  <!-- feedback: No. -->
+- [ ] A) Agua <!-- feedback: Incorrecto. Agua -->
+
+- [x] B) Viento <!-- feedback: Correcto! Viento -->
+
+- [ ] C) Sol <!-- feedback: Incorrecto. Sol -->
+
+- [ ] D) PetrÃ³leo <!-- feedback: Incorrecto. PetrÃ³leo -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 EÃ³lica: viento.
 
 ---
 
-## Pregunta 6 [D3]
+## Question 6 [D3]
 
 **ID:** `CO-CIE-4-2026-W28-energia-formas-001-MASTERY-v6`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en IbaguÃ©, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en IbaguÃ©, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Un carro en movimiento tiene energÃ­a:
 
 ### Opciones
-- [ ] A) Potencial
-  <!-- feedback: No. -->
-- [x] B) CinÃ©tica
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) QuÃ­mica
-  <!-- feedback: No. -->
-- [ ] D) Nuclear
-  <!-- feedback: No. -->
+- [ ] A) Potencial <!-- feedback: Incorrecto. Potencial -->
+
+- [x] B) CinÃ©tica <!-- feedback: Correcto! CinÃ©tica -->
+
+- [ ] C) QuÃ­mica <!-- feedback: Incorrecto. QuÃ­mica -->
+
+- [ ] D) Nuclear <!-- feedback: Incorrecto. Nuclear -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Carro: energÃ­a cinÃ©tica.
 
 ---
 
-## Pregunta 7 [D3]
+## Question 7 [D3]
 
 **ID:** `CO-CIE-4-2026-W28-energia-formas-001-MASTERY-v7`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en Barranquilla, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en Barranquilla, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Una fruta madura tiene energÃ­a:
 
 ### Opciones
-- [ ] A) CinÃ©tica
-  <!-- feedback: No. -->
-- [x] B) QuÃ­mica
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) ElÃ©ctrica
-  <!-- feedback: No. -->
-- [ ] D) TÃ©rmica
-  <!-- feedback: No. -->
+- [ ] A) CinÃ©tica <!-- feedback: Incorrecto. CinÃ©tica -->
+
+- [x] B) QuÃ­mica <!-- feedback: Correcto! QuÃ­mica -->
+
+- [ ] C) ElÃ©ctrica <!-- feedback: Incorrecto. ElÃ©ctrica -->
+
+- [ ] D) TÃ©rmica <!-- feedback: Incorrecto. TÃ©rmica -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Fruta: energÃ­a quÃ­mica (azÃºcares).
 
 ---
 
-## Pregunta 8 [D3]
+## Question 8 [D3]
 
 **ID:** `CO-CIE-4-2026-W28-energia-formas-001-MASTERY-v8`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio Franciscano en Leticia, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio Franciscano en Leticia, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 La gasolina tiene energÃ­a:
 
 ### Opciones
-- [ ] A) CinÃ©tica
-  <!-- feedback: No. -->
-- [x] B) QuÃ­mica
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Solar
-  <!-- feedback: No. -->
-- [ ] D) Nuclear
-  <!-- feedback: No. -->
+- [ ] A) CinÃ©tica <!-- feedback: Incorrecto. CinÃ©tica -->
+
+- [x] B) QuÃ­mica <!-- feedback: Correcto! QuÃ­mica -->
+
+- [ ] C) Solar <!-- feedback: Incorrecto. Solar -->
+
+- [ ] D) Nuclear <!-- feedback: Incorrecto. Nuclear -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Gasolina: energÃ­a quÃ­mica almacenada.
 
 ---
 
-## Pregunta 9 [D4]
+## Question 9 [D4]
 
 **ID:** `CO-CIE-4-2026-W28-energia-formas-001-MASTERY-v9`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Colegio La Salle en Yopal, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio La Salle en Yopal, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Â¿Por quÃ© la energÃ­a no se crea ni se destruye?
 
 ### Opciones
-- [ ] A) SÃ­ se crea
-  <!-- feedback: No. -->
-- [x] B) Ley de conservaciÃ³n de la energÃ­a
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) No es ley
-  <!-- feedback: No. -->
-- [ ] D) Solo se destruye
-  <!-- feedback: No. -->
+- [ ] A) SÃ­ se crea <!-- feedback: Incorrecto. SÃ­ se crea -->
+
+- [x] B) Ley de conservaciÃ³n de la energÃ­a <!-- feedback: Correcto! Ley de conservaciÃ³n de la energÃ­a -->
+
+- [ ] C) No es ley <!-- feedback: Incorrecto. No es ley -->
+
+- [ ] D) Solo se destruye <!-- feedback: Incorrecto. Solo se destruye -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 ConservaciÃ³n: transformaciÃ³n, no creaciÃ³n.
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-CIE-4-2026-W28-energia-formas-001-MASTERY-v10`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Colegio Nacional en ChÃ­a, la profesora presenta el siguiente ejercicio.
+**Contexto:** En la clase de Ciencias Naturales del Colegio Nacional en ChÃ­a, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Â¿Por quÃ© los paneles solares son importantes?
 
 ### Opciones
-- [ ] A) Usan energÃ­a no renovable
-  <!-- feedback: No. -->
-- [x] B) Transforman energÃ­a solar en elÃ©ctrica, limpia y renovable
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Son baratos
-  <!-- feedback: No. -->
-- [ ] D) No funcionan
-  <!-- feedback: No. -->
+- [ ] A) Usan energÃ­a no renovable <!-- feedback: Incorrecto. Usan energÃ­a no renovable -->
+
+- [x] B) Transforman energÃ­a solar en elÃ©ctrica, limpia y renovable <!-- feedback: Correcto! Transforman energÃ­a solar en elÃ©ctrica, limpia y renovable -->
+
+- [ ] C) Son baratos <!-- feedback: Incorrecto. Son baratos -->
+
+- [ ] D) No funcionan <!-- feedback: Incorrecto. No funcionan -->
 
 ### ExplicaciÃ³n PedagÃ³gica
 Paneles: solar â†’ elÃ©ctrica.

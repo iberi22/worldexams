@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-8-2026-P3-revoluciones-mundo-moderno-001-MASTERY"
+id: "CO-SOC-8-2026-P3-revoluciones-mundo-moderno-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "revoluciones_mundo_moderno, revolucion_cientifica, revolucion_industrial, revolucion_francesa, revolucion_americana, ilustracion, iluminismo"
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Revoluciones del Mundo Moderno
 
@@ -24,17 +31,17 @@ Este bundle cubre las grandes revoluciones que transformaron el mundo entre los 
 
 ---
 
-## Question 1
-
+## Question 1 [D1]
 **ID:** `CO-SOC-8-2026-P3-revoluciones-mundo-moderno-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue la Ilustración?
 
-### Options
+### Opciones
 - [ ] A) Un movimiento artístico del siglo XX <!-- feedback: Incorrecto. Fue un movimiento intelectual del siglo XVIII. -->
 - [ ] B) Una guerra entre Francia e Inglaterra <!-- feedback: Incorrecto. No fue una guerra. -->
 - [x] C) Un movimiento intelectual del siglo XVIII que promovía la razón, la ciencia, la libertad, la igualdad y la crítica a la autoridad absoluta y la Iglesia <!-- feedback: Correcto. La Ilustración fue el fundamento de las revoluciones modernas. -->
@@ -45,17 +52,17 @@ La Ilustración (también llamada "Siglo de las Luces") fue un movimiento que tr
 
 ---
 
-## Question 2
-
+## Question 2 [D1]
 **ID:** `CO-SOC-8-2026-P3-revoluciones-mundo-moderno-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue la Revolución Francesa y cuándo ocurrió?
 
-### Options
+### Opciones
 - [ ] A) Una guerra civil en Francia en el siglo XX <!-- feedback: Incorrecto. Ocurrió a finales del siglo XVIII. -->
 - [ ] B) Un cambio pacífico de gobierno sin violencia <!-- feedback: Incorrecto. Fue un proceso violento y transformador. -->
 - [x] C) Un proceso revolucionario que comenzó en 1789 con la Toma de la Bastilla, que derrocó la monarquía absoluta, estableció la república y difundió los ideales de libertad, igualdad y fraternidad <!-- feedback: Correcto. La Revolución Francesa cambió la historia de Occidente. -->
@@ -66,17 +73,17 @@ La Revolución Francesa (1789-1799) fue uno de los eventos más importantes de l
 
 ---
 
-## Question 3
-
+## Question 3 [D1]
 **ID:** `CO-SOC-8-2026-P3-revoluciones-mundo-moderno-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue la Revolución Industrial y dónde comenzó?
 
-### Options
+### Opciones
 - [ ] A) Una revolución política que ocurrió en Francia <!-- feedback: Incorrecto. Fue una transformación económica y tecnológica. -->
 - [ ] B) Un movimiento artístico del siglo XIX <!-- feedback: Incorrecto. No fue artística. -->
 - [x] C) Un proceso de transformación económica, tecnológica y social que comenzó en Inglaterra a mediados del siglo XVIII, basado en la máquina de vapor, la industrialización textil y el carbón como fuente de energía <!-- feedback: Correcto. La Revolución Industrial transformó la economía mundial. -->
@@ -87,17 +94,17 @@ La Revolución Industrial marcó el paso de una economía agrícola y artesanal 
 
 ---
 
-## Question 4
-
+## Question 4 [D1]
 **ID:** `CO-SOC-8-2026-P3-revoluciones-mundo-moderno-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fueron los derechos del hombre proclamados en la Revolución Francesa?
 
-### Options
+### Opciones
 - [ ] A) Derechos exclusivos para los franceses, no aplicables a otros pueblos <!-- feedback: Incorrecto. Eran universales. -->
 - [ ] B) Derechos que solo beneficiaban a la nobleza <!-- feedback: Incorrecto. Eran para todos los ciudadanos. -->
 - [x] C) Derechos universales: libertad individual, igualdad ante la ley, propiedad privada, libertad de expresión, presunción de inocencia y resistencia a la opresión <!-- feedback: Correcto. La Declaración de 1789 sentó las bases de los derechos humanos modernos. -->
@@ -108,17 +115,17 @@ La Declaración de los Derechos del Hombre y del Ciudadano (26 de agosto de 1789
 
 ---
 
-## Question 5
-
+## Question 5 [D1]
 **ID:** `CO-SOC-8-2026-P3-revoluciones-mundo-moderno-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué consecuencias sociales tuvo la Revolución Industrial?
 
-### Options
+### Opciones
 - [ ] A) Mejoró la vida de todos los trabajadores inmediatamente <!-- feedback: Incorrecto. Las condiciones iniciales fueron muy duras. -->
 - [ ] B) No tuvo efectos sociales significativos <!-- feedback: Incorrecto. Transformó profundamente la sociedad. -->
 - [x] C) Creó nuevas clases sociales (burguesía industrial y proletariado), provocó migraciones masivas del campo a la ciudad (urbanización), condiciones laborales inhumanas (jornadas de 14-16 horas, trabajo infantil) y el surgimiento del movimiento obrero <!-- feedback: Correcto. La industrialización tuvo un costo social enorme. -->
@@ -129,17 +136,17 @@ Las condiciones de trabajo en las primeras fábricas eran terribles: hombres, mu
 
 ---
 
-## Question 6
-
+## Question 6 [D1]
 **ID:** `CO-SOC-8-2026-P3-revoluciones-mundo-moderno-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue la Revolución Americana (1776) y en qué se diferenció de la Revolución Francesa?
 
-### Options
+### Opciones
 - [ ] A) Fue exactamente igual que la Revolución Francesa <!-- feedback: Incorrecto. Tenían diferencias importantes. -->
 - [ ] B) Fue una guerra entre colonos franceses y españoles <!-- feedback: Incorrecto. Fue de colonos ingleses contra Gran Bretaña. -->
 - [x] C) Fue la independencia de las 13 colonias inglesas en Norteamérica (1776). Se diferenció de la francesa en que fue una guerra de independencia colonial, no una revolución social interna, y estableció una república federal con Constitución escrita (1787) <!-- feedback: Correcto. Las colonias buscaban independencia, no transformar su sociedad interna. -->
@@ -150,17 +157,17 @@ La Independencia de Estados Unidos (4 de julio de 1776) fue la primera colonia e
 
 ---
 
-## Question 7
-
+## Question 7 [D1]
 **ID:** `CO-SOC-8-2026-P3-revoluciones-mundo-moderno-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fueron las Revoluciones de Independencia en América Latina (1810-1825)?
 
-### Options
+### Opciones
 - [ ] A) Fueron guerras entre países latinoamericanos por territorios <!-- feedback: Incorrecto. Fueron guerras de independencia de España. -->
 - [ ] B) No ocurrieron realmente, es un mito histórico <!-- feedback: Incorrecto. Fueron procesos históricos reales y transformadores. -->
 - [x] C) Fueron guerras de independencia de las colonias españolas en América, lideradas por Simón Bolívar, San Martín, O'Higgins y otros, inspiradas en la Ilustración, la independencia de EE.UU. y la debilidad de España tras la invasión napoleónica <!-- feedback: Correcto. Las independencias latinoamericanas formaron nuevas naciones. -->
@@ -171,17 +178,17 @@ Las independencias latinoamericanas comenzaron en 1810 con los primeros gritos d
 
 ---
 
-## Question 8
-
+## Question 8 [D1]
 **ID:** `CO-SOC-8-2026-P3-revoluciones-mundo-moderno-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue la Revolución Haitiana (1791-1804) y por qué fue única?
 
-### Options
+### Opciones
 - [ ] A) Fue una revolución que no tuvo éxito <!-- feedback: Incorrecto. Fue exitosa. -->
 - [ ] B) Fue igual a la independencia de Estados Unidos <!-- feedback: Incorrecto. Tuvo características únicas. -->
 - [x] C) Fue la única revolución de esclavos exitosa en la historia: Haití se independizó de Francia, abolió la esclavitud y estableció la primera república negra del mundo <!-- feedback: Correcto. La Revolución Haitiana fue única y radical. -->
@@ -192,17 +199,17 @@ La Revolución Haitiana (liderada por Toussaint Louverture y Jean-Jacques Dessal
 
 ---
 
-## Question 9
-
+## Question 9 [D1]
 **ID:** `CO-SOC-8-2026-P3-revoluciones-mundo-moderno-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué relación existe entre la Ilustración y las revoluciones modernas?
 
-### Options
+### Opciones
 - [ ] A) No hay relación; las revoluciones ocurrieron al azar <!-- feedback: Incorrecto. Hay una conexión directa. -->
 - [ ] B) La Ilustración promovió la monarquía absoluta, no las revoluciones <!-- feedback: Incorrecto. La Ilustración criticó la monarquía absoluta. -->
 - [x] C) La Ilustración proporcionó las ideas que inspiraron las revoluciones: soberanía popular (Rousseau), separación de poderes (Montesquieu), libertad de expresión (Voltaire), derechos naturales (Locke) <!-- feedback: Correcto. Las ideas ilustradas fueron la base ideológica de las revoluciones. -->
@@ -213,17 +220,17 @@ Los filósofos ilustrados cuestionaron el orden establecido: el absolutismo mon�
 
 ---
 
-## Question 10
-
+## Question 10 [D1]
 **ID:** `CO-SOC-8-2026-P3-revoluciones-mundo-moderno-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue el "Gran Miedo" durante la Revolución Francesa?
 
-### Options
+### Opciones
 - [ ] A) El miedo de los campesinos a la nobleza durante la Revolución Francesa <!-- feedback: Incorrecto. Era lo opuesto. -->
 - [ ] B) Una epidemia que asoló Francia en 1789 <!-- feedback: Incorrecto. No fue una epidemia. -->
 - [x] C) Un período de pánico colectivo entre los campesinos franceses en 1789, que llevó a ataques contra castillos y señores (el "Gran Miedo"), y a la abolición del feudalismo <!-- feedback: Correcto. El pánico rural aceleró la transformación revolucionaria. -->
@@ -234,17 +241,17 @@ En el verano de 1789, rumores de que la nobleza conspiraba para acabar con la re
 
 ---
 
-## Question 11
-
+## Question 11 [D1]
 **ID:** `CO-SOC-8-2026-P3-revoluciones-mundo-moderno-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué impacto tuvo la Revolución Industrial en el medio ambiente?
 
-### Options
+### Opciones
 - [ ] A) No tuvo impacto ambiental significativo <!-- feedback: Incorrecto. Fue el inicio del cambio ambiental masivo. -->
 - [ ] B) Mejoró el medio ambiente al reducir el uso de la tierra <!-- feedback: Incorrecto. Tuvo efectos ambientales negativos. -->
 - [x] C) La industrialización masiva provocó contaminación del aire y agua (carbón quemado en fábricas), deforestación para obtener madera y carbón vegetal, y el inicio del cambio climático por emisiones de CO2 <!-- feedback: Correcto. La Revolución Industrial marcó el inicio del Antropoceno. -->
@@ -255,17 +262,17 @@ La Revolución Industrial multiplicó el consumo de combustibles fósiles (carb�
 
 ---
 
-## Question 12
-
+## Question 12 [D1]
 **ID:** `CO-SOC-8-2026-P3-revoluciones-mundo-moderno-001-MASTERY-v12`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál fue el papel de la mujer en las revoluciones modernas?
 
-### Options
+### Opciones
 - [ ] A) Las mujeres no participaron en ninguna revolución <!-- feedback: Incorrecto. Las mujeres participaron activamente. -->
 - [ ] B) Las mujeres lideraron todas las revoluciones <!-- feedback: Incorrecto. Su participación fue importante pero no predominante. -->
 - [x] C) Las mujeres participaron activamente en las revoluciones (Marcha sobre Versalles, 1789, en Francia), pero sus demandas de igualdad de derechos fueron ignoradas. Olympe de Gouges escribió la "Declaración de los Derechos de la Mujer y la Ciudadana" (1791), pero fue ejecutada <!-- feedback: Correcto. Las mujeres fueron agentes de cambio, pero no obtuvieron derechos políticos. -->
@@ -276,17 +283,17 @@ Olympe de Gouges publicó en 1791 su "Declaración de los Derechos de la Mujer y
 
 ---
 
-## Question 13
-
+## Question 13 [D1]
 **ID:** `CO-SOC-8-2026-P3-revoluciones-mundo-moderno-001-MASTERY-v13`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue el "Reinado del Terror" en la Revolución Francesa (1793-1794)?
 
-### Options
+### Opciones
 - [ ] A) Un período de paz y prosperidad durante la revolución <!-- feedback: Incorrecto. Fue un período de violencia extrema. -->
 - [ ] B) Un reinado monárquico que restauró el absolutismo <!-- feedback: Incorrecto. Fue un período republicano radical. -->
 - [x] C) Un período de gobierno radical de Robespierre donde se ejecutó a miles de "enemigos de la revolución" (40.000-50.000 personas) en la guillotina, incluyendo al rey Luis XVI y la reina María Antonieta <!-- feedback: Correcto. El Terror mostró los excesos posibles de una revolución. -->
@@ -297,17 +304,17 @@ El Reinado del Terror, liderado por Maximilien Robespierre y el Comité de Salva
 
 ---
 
-## Question 14
-
+## Question 14 [D1]
 **ID:** `CO-SOC-8-2026-P3-revoluciones-mundo-moderno-001-MASTERY-v14`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.40
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Analiza: la Revolución Francesa proclamó "Libertad, Igualdad, Fraternidad" como ideales universales. Sin embargo, mantuvo la esclavitud en las colonias (hasta 1794, cuando la abolió temporalmente, y Napoleón la restableció en 1802). ¿Cómo se explica esta contradicción?
 
-### Options
+### Opciones
 - [ ] A) La esclavitud no existía en las colonias francesas, solo en las españolas <!-- feedback: Incorrecto. Las colonias francesas (Haití, Martinica) tenían esclavitud. -->
 - [ ] B) No hubo contradicción; la revolución abolió la esclavitud inmediatamente en todas partes <!-- feedback: Incorrecto. Hubo contradicción y la esclavitud continuó. -->
 - [x] C) La contradicción refleja que los ideales revolucionarios se aplicaban principalmente a los europeos. Los intereses económicos de la burguesía (dueños de plantaciones) pesaron más que los principios universales <!-- feedback: Correcto. Los intereses económicos chocaron con los principios revolucionarios. -->
@@ -328,7 +335,7 @@ Esta contradicción muestra que las revoluciones no son procesos lineales ni pur
 ### Enunciado
 Analiza el siguiente dilema: las revoluciones modernas (Francesa, Industrial, Americana) trajeron avances innegables: derechos humanos, democracia, tecnología, bienestar material. Pero también generaron nuevas formas de opresión: el terror revolucionario, la explotación industrial, el colonialismo, la destrucción ambiental. ¿Podemos considerar "progreso" histórico un proceso que combina avances y nuevos problemas?
 
-### Options
+### Opciones
 - [ ] A) Sí, el progreso es lineal: cada revolución solo trajo beneficios y mejoró la vida de todos <!-- feedback: Incorrecto. Ignora los costos humanos y ambientales. -->
 - [ ] B) No, las revoluciones solo empeoraron las cosas y deberíamos volver a formas anteriores de organización <!-- feedback: Incorrecto. Ignora los beneficios reales como los derechos humanos. -->
 - [x] C) El "progreso" no es lineal ni unidimensional. Las revoluciones aumentaron libertades y bienestar para muchos, pero también crearon nuevas desigualdades y problemas. El progreso es contradictorio: no podemos ignorar ni los logros ni los costos <!-- feedback: Correcto. La historia del progreso es ambivalente. -->

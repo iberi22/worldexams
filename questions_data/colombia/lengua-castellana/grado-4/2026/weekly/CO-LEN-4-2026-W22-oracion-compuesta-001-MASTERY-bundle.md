@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-4-2026-W22-oracion-compuesta-001-MASTERY"
+id: "CO-LEN-4-2026-W22-oracion-compuesta-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 4"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Oración compuesta - Grado 4
 
@@ -22,7 +24,7 @@ Este bundle introduce el concepto de oración compuesta, diferenciándola de la 
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-4-2026-W22-oracion-compuesta-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -33,21 +35,20 @@ Este bundle introduce el concepto de oración compuesta, diferenciándola de la 
 ¿Qué es una oración compuesta?
 
 ### Opciones
-- [ ] A) Una oración que tiene palabras muy difíciles.
-  <!-- feedback: La dificultad de las palabras no define el tipo de oración. -->
-- [x] B) Aquella que tiene más de un verbo conjugado y, por lo tanto, más de una acción o proposición.
-  <!-- feedback: ¡Correcto! La clave está en la presencia de dos o más verbos. -->
-- [ ] C) Una oración que tiene muchos adjetivos.
-  <!-- feedback: Eso es una oración con mucha descripción, pero puede ser simple. -->
-- [ ] D) Una oración que empieza con mayúscula.
-  <!-- feedback: Todas las oraciones deben empezar con mayúscula. -->
+- [ ] A) Una oración que tiene palabras muy difíciles. <!-- feedback: Incorrecto. Una oración que tiene palabras muy difíc -->
+
+- [x] B) Aquella que tiene más de un verbo conjugado y, por lo tanto, más de una acción o proposición. <!-- feedback: Correcto! Aquella que tiene más de un verbo conjugado y, por lo tanto, -->
+
+- [ ] C) Una oración que tiene muchos adjetivos. <!-- feedback: Incorrecto. Una oración que tiene muchos adjetivos. -->
+
+- [ ] D) Una oración que empieza con mayúscula. <!-- feedback: Incorrecto. Una oración que empieza con mayúscula. -->
 
 ### Explicación Pedagogica
 La oración compuesta es una estructura gramatical compleja formada por la unión de dos o más oraciones simples que funcionan como una unidad de sentido.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-4-2026-W22-oracion-compuesta-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -59,21 +60,20 @@ La oración compuesta es una estructura gramatical compleja formada por la unió
 "Juan **estudia** en su cuarto y su hermana **escucha** música".
 
 ### Opciones
-- [ ] A) Un solo verbo.
-  <!-- feedback: Hay más de uno. -->
-- [x] B) Dos verbos.
-  <!-- feedback: ¡Muy bien! "Estudia" y "escucha" son los dos núcleos verbales. -->
-- [ ] C) Ningún verbo.
-  <!-- feedback: Todas las oraciones tienen al menos un verbo. -->
-- [ ] D) Tres verbos.
-  <!-- feedback: Solo se mencionan dos acciones. -->
+- [ ] A) Un solo verbo. <!-- feedback: Incorrecto. Un solo verbo. -->
+
+- [x] B) Dos verbos. <!-- feedback: Correcto! Dos verbos. -->
+
+- [ ] C) Ningún verbo. <!-- feedback: Incorrecto. Ningún verbo. -->
+
+- [ ] D) Tres verbos. <!-- feedback: Incorrecto. Tres verbos. -->
 
 ### Explicación Pedagogica
 Contar los núcleos verbales es la forma más rápida y segura de distinguir una oración compuesta de una simple.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-4-2026-W22-oracion-compuesta-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -85,21 +85,20 @@ Contar los núcleos verbales es la forma más rápida y segura de distinguir una
 "Iremos al parque **o** nos quedaremos en casa".
 
 ### Opciones
-- [ ] A) Iremos.
-  <!-- feedback: Es un verbo. -->
-- [ ] B) Parque.
-  <!-- feedback: Es un sustantivo. -->
-- [x] C) O.
-  <!-- feedback: ¡Excelente! Es una conjunción que sirve de nexo entre las dos opciones. -->
-- [ ] D) Casa.
-  <!-- feedback: Es un sustantivo. -->
+- [ ] A) Iremos. <!-- feedback: Incorrecto. Iremos. -->
+
+- [ ] B) Parque. <!-- feedback: Incorrecto. Parque. -->
+
+- [x] C) O. <!-- feedback: Correcto! O. -->
+
+- [ ] D) Casa. <!-- feedback: Incorrecto. Casa. -->
 
 ### Explicación Pedagogica
 Los nexos (conjunciones como y, o, pero) permiten coordinar las diferentes proposiciones dentro de una oración compuesta.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-4-2026-W22-oracion-compuesta-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -110,21 +109,20 @@ Los nexos (conjunciones como y, o, pero) permiten coordinar las diferentes propo
 ¿Cuál de estas oraciones es **compuesta**?
 
 ### Opciones
-- [ ] A) El sol brilla intensamente sobre el mar.
-  <!-- feedback: Solo tiene un verbo (brilla). Es simple. -->
-- [x] B) El sol brilla intensamente y la brisa refresca la playa.
-  <!-- feedback: ¡Correcto! Tiene dos verbos (brilla, refresca) unidos por la conjunción "y". -->
-- [ ] C) Los niños corren por la arena blanca.
-  <!-- feedback: Solo tiene un verbo (corren). Es simple. -->
-- [ ] D) ¡Qué hermoso día hace hoy!
-  <!-- feedback: Solo tiene un verbo (hace). Es simple. -->
+- [ ] A) El sol brilla intensamente sobre el mar. <!-- feedback: Incorrecto. El sol brilla intensamente sobre el mar. -->
+
+- [x] B) El sol brilla intensamente y la brisa refresca la playa. <!-- feedback: Correcto! El sol brilla intensamente y la brisa refresca la playa. -->
+
+- [ ] C) Los niños corren por la arena blanca. <!-- feedback: Incorrecto. Los niños corren por la arena blanca. -->
+
+- [ ] D) ¡Qué hermoso día hace hoy! <!-- feedback: Incorrecto. ¡Qué hermoso día hace hoy! -->
 
 ### Explicación Pedagogica
 La oración compuesta expande la información al relacionar dos sucesos o estados diferentes en un mismo enunciado.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-4-2026-W22-oracion-compuesta-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -135,21 +133,20 @@ La oración compuesta expande la información al relacionar dos sucesos o estado
 A veces unimos oraciones solo con signos de puntuación. ¿Cuál es una oración compuesta por yuxtaposición?
 
 ### Opciones
-- [ ] A) El perro ladra mucho.
-  <!-- feedback: Es una oración simple. -->
-- [x] B) Llegué tarde, la puerta estaba cerrada.
-  <!-- feedback: ¡Así es! Dos oraciones unidas por una coma sin necesidad de palabras de enlace. -->
-- [ ] C) Llegué tarde porque había tráfico.
-  <!-- feedback: Está unida por un nexo subordinante (porque). -->
-- [ ] D) Puerta cerrada y tarde llegada.
-  <!-- feedback: No tiene verbos conjugados, no es oración. -->
+- [ ] A) El perro ladra mucho. <!-- feedback: Incorrecto. El perro ladra mucho. -->
+
+- [x] B) Llegué tarde, la puerta estaba cerrada. <!-- feedback: Correcto! Llegué tarde, la puerta estaba cerrada. -->
+
+- [ ] C) Llegué tarde porque había tráfico. <!-- feedback: Incorrecto. Llegué tarde porque había tráfico. -->
+
+- [ ] D) Puerta cerrada y tarde llegada. <!-- feedback: Incorrecto. Puerta cerrada y tarde llegada. -->
 
 ### Explicación Pedagogica
 La yuxtaposición es la unión de oraciones mediante signos de puntuación (coma, punto y coma, dos puntos) manteniendo su independencia gramatical.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-4-2026-W22-oracion-compuesta-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -160,21 +157,20 @@ La yuxtaposición es la unión de oraciones mediante signos de puntuación (coma
 En la oración "Tengo hambre, **pero** no hay comida", ¿qué relación hay entre las dos partes?
 
 ### Opciones
-- [ ] A) Una añade información a la otra.
-  <!-- feedback: Eso sería con "y". -->
-- [ ] B) Una da una opción diferente a la otra.
-  <!-- feedback: Eso sería con "o". -->
-- [x] C) Una expresa una oposición o contraste con la otra.
-  <!-- feedback: ¡Exacto! El nexo "pero" indica que algo se opone a lo anterior. -->
-- [ ] D) Son la misma oración repetida.
-  <!-- feedback: No, expresan ideas distintas. -->
+- [ ] A) Una añade información a la otra. <!-- feedback: Incorrecto. Una añade información a la otra. -->
+
+- [ ] B) Una da una opción diferente a la otra. <!-- feedback: Incorrecto. Una da una opción diferente a la otra. -->
+
+- [x] C) Una expresa una oposición o contraste con la otra. <!-- feedback: Correcto! Una expresa una oposición o contraste con la otra. -->
+
+- [ ] D) Son la misma oración repetida. <!-- feedback: Incorrecto. Son la misma oración repetida. -->
 
 ### Explicación Pedagogica
 Los nexos coordinantes no solo unen, sino que aportan matices de significado (suma, opción, oposición) a la oración compuesta.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-4-2026-W22-oracion-compuesta-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -187,21 +183,20 @@ Los nexos coordinantes no solo unen, sino que aportan matices de significado (su
 2. Saqué una excelente nota.
 
 ### Opciones
-- [ ] A) Estudié mucho o saqué nota.
-  <!-- feedback: No tiene sentido lógico. -->
-- [x] B) Estudié mucho, por lo tanto saqué una excelente nota.
-  <!-- feedback: ¡Muy bien! El nexo indica una consecuencia lógica. -->
-- [ ] C) Estudié mucho pero saqué excelente nota.
-  <!-- feedback: "Pero" indica oposición, y aquí las ideas concuerdan. -->
-- [ ] D) Estudié mucho y saqué nota mala.
-  <!-- feedback: Cambia el sentido de la segunda oración original. -->
+- [ ] A) Estudié mucho o saqué nota. <!-- feedback: Incorrecto. Estudié mucho o saqué nota. -->
+
+- [x] B) Estudié mucho, por lo tanto saqué una excelente nota. <!-- feedback: Correcto! Estudié mucho, por lo tanto saqué una excelente nota. -->
+
+- [ ] C) Estudié mucho pero saqué excelente nota. <!-- feedback: Incorrecto. Estudié mucho pero saqué excelente nota. -->
+
+- [ ] D) Estudié mucho y saqué nota mala. <!-- feedback: Incorrecto. Estudié mucho y saqué nota mala. -->
 
 ### Explicación Pedagogica
 La redacción de oraciones compuestas requiere seleccionar el nexo que mejor represente la relación de causa, consecuencia o tiempo entre los hechos.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-4-2026-W22-oracion-compuesta-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -212,21 +207,20 @@ La redacción de oraciones compuestas requiere seleccionar el nexo que mejor rep
 En la oración "Mi papá cocina **y** yo lavo los platos", ¿quiénes son los sujetos?
 
 ### Opciones
-- [ ] A) Solo mi papá.
-  <!-- feedback: Falta el sujeto de la segunda acción. -->
-- [ ] B) Solo yo.
-  <!-- feedback: Falta el sujeto de la primera acción. -->
-- [x] C) Mi papá y yo (un sujeto para cada acción).
-  <!-- feedback: ¡Excelente! En las oraciones compuestas cada parte puede tener su propio sujeto. -->
-- [ ] D) Los platos.
-  <!-- feedback: Ese es el objeto de la acción, no quien la realiza. -->
+- [ ] A) Solo mi papá. <!-- feedback: Incorrecto. Solo mi papá. -->
+
+- [ ] B) Solo yo. <!-- feedback: Incorrecto. Solo yo. -->
+
+- [x] C) Mi papá y yo (un sujeto para cada acción). <!-- feedback: Correcto! Mi papá y yo (un sujeto para cada acción). -->
+
+- [ ] D) Los platos. <!-- feedback: Incorrecto. Los platos. -->
 
 ### Explicación Pedagogica
 La oración compuesta puede coordinar acciones de un mismo sujeto o de sujetos distintos, ampliando las posibilidades narrativas.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-4-2026-W22-oracion-compuesta-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -237,21 +231,20 @@ La oración compuesta puede coordinar acciones de un mismo sujeto o de sujetos d
 ¿Por qué el uso de oraciones compuestas mejora nuestra forma de escribir textos?
 
 ### Opciones
-- [ ] A) Porque así el texto se ve más profesional aunque no se entienda.
-  <!-- feedback: El objetivo siempre debe ser la comprensión. -->
-- [x] B) Porque permiten explicar relaciones complejas entre ideas (causas, motivos) en lugar de dar datos sueltos.
-  <!-- feedback: ¡Correcto! Dan fluidez y profundidad al pensamiento escrito. -->
-- [ ] C) Porque gastamos menos papel al poner todo junto.
-  <!-- feedback: No es una cuestión de ahorro de material. -->
-- [ ] D) Porque a los profesores les gustan las frases largas.
-  <!-- feedback: Es por la calidad de la comunicación, no por el gusto del profesor. -->
+- [ ] A) Porque así el texto se ve más profesional aunque no se entienda. <!-- feedback: Incorrecto. Porque así el texto se ve más profesiona -->
+
+- [x] B) Porque permiten explicar relaciones complejas entre ideas (causas, motivos) en lugar de dar datos sueltos. <!-- feedback: Correcto! Porque permiten explicar relaciones complejas entre ideas (c -->
+
+- [ ] C) Porque gastamos menos papel al poner todo junto. <!-- feedback: Incorrecto. Porque gastamos menos papel al poner tod -->
+
+- [ ] D) Porque a los profesores les gustan las frases largas. <!-- feedback: Incorrecto. Porque a los profesores les gustan las f -->
 
 ### Explicación Pedagogica
 La transición de la oración simple a la compuesta es un indicador de madurez intelectual y competencia comunicativa en el estudiante.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-4-2026-W22-oracion-compuesta-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -262,14 +255,13 @@ La transición de la oración simple a la compuesta es un indicador de madurez i
 ¿Cuál de estas oraciones compuestas es la más emocionante y bien construida para tu final?
 
 ### Opciones
-- [ ] A) Pateé el balón. El balón entró. Todos gritaron gol.
-  <!-- feedback: Son oraciones simples separadas, falta fluidez. -->
-- [x] B) Pateé el balón con todas mis fuerzas, el estadio quedó en silencio por un segundo y luego estalló el grito de ¡gol!
-  <!-- feedback: ¡Muy bien! Une tres acciones relacionadas para crear una escena cinematográfica y emocionante. -->
-- [ ] C) Pateé el balón o no fue gol.
-  <!-- feedback: No tiene sentido narrativo emocionante. -->
-- [ ] D) El gol fue muy bonito y yo pateé.
-  <!-- feedback: El orden de los hechos está invertido y es menos emocionante. -->
+- [ ] A) Pateé el balón. El balón entró. Todos gritaron gol. <!-- feedback: Incorrecto. Pateé el balón. El balón entró. Todos gr -->
+
+- [x] B) Pateé el balón con todas mis fuerzas, el estadio quedó en silencio por un segundo y luego estalló el grito de ¡gol! <!-- feedback: Correcto! Pateé el balón con todas mis fuerzas, el estadio quedó en si -->
+
+- [ ] C) Pateé el balón o no fue gol. <!-- feedback: Incorrecto. Pateé el balón o no fue gol. -->
+
+- [ ] D) El gol fue muy bonito y yo pateé. <!-- feedback: Incorrecto. El gol fue muy bonito y yo pateé. -->
 
 ### Explicación Pedagogica
 La creación de oraciones compuestas complejas permite capturar el ritmo y la intensidad de las acciones en un relato.

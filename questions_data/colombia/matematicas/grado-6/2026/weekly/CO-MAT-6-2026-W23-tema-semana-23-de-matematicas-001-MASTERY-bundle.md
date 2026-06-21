@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W23-tema-semana-23-de-matematicas-001-MASTERY"
+id: "CO-MAT-6-2026-W23-tema-semana-23-de-matematicas-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 10
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W23 — Tema Semana 23 de Matematicas
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. Francisco de Paula Santander en Tunja
+**Contexto:** I.E. Francisco de Paula Santander en Tunja
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Matematicas del I.E. Francisco de Paula Santander en Tunja, se discute sobre Tema Semana 23 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 23 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 23 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 23 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 23 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Tunja
+**Contexto:** I.E. Gabriel García Márquez en Tunja
 **Expected_Success:** 0.70
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Tunja, se discute sobre Tema Semana 23 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 23 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 23 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 23 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 23 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Pasto
+**Contexto:** I.E. Francisco de Paula Santander en Pasto
 **Expected_Success:** 0.74
 
 ### Enunciado
 En la clase de Matematicas del I.E. Francisco de Paula Santander en Pasto, se discute sobre Tema Semana 23 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 23 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 23 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 23 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 23 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Cartagena
+**Contexto:** I.E. Jorge Eliécer Gaitán en Cartagena
 **Expected_Success:** 0.70
 
 ### Enunciado
 En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Cartagena, se discute sobre Tema Semana 23 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 23 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 23 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 23 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 23 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** I.E. Jorge Eliécer Gaitán en Tunja
+**Contexto:** I.E. Jorge Eliécer Gaitán en Tunja
 **Expected_Success:** 0.79
 
 ### Enunciado
 En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Tunja, se discute sobre Tema Semana 23 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 23 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 23 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 23 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 23 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Manizales
+**Contexto:** I.E. San José en Manizales
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Matematicas del I.E. San José en Manizales, se discute sobre Tema Semana 23 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 23 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 23 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 23 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 23 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Pereira
+**Contexto:** Colegio La Presentación en Pereira
 **Expected_Success:** 0.63
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Pereira, se discute sobre Tema Semana 23 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 23 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 23 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 23 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 23 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Neiva
+**Contexto:** I.E. Jorge Eliécer Gaitán en Neiva
 **Expected_Success:** 0.50
 
 ### Enunciado
 En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Neiva, se discute sobre Tema Semana 23 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 23 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 23 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 23 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 23 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Cartagena
+**Contexto:** I.E. Gabriel García Márquez en Cartagena
 **Expected_Success:** 0.75
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Cartagena, se discute sobre Tema Semana 23 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 23 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 23 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 23 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 23 de Matematicas es central en el currículo de 6°. La 
 **ID:** `CO-MAT-6-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** Gimnasio Moderno en Bogotá
+**Contexto:** Gimnasio Moderno en Bogotá
 **Expected_Success:** 0.68
 
 ### Enunciado
 En la clase de Matematicas del Gimnasio Moderno en Bogotá, se discute sobre Tema Semana 23 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 23 de Matematicas <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 23 de Matematicas <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 23 de Matematicas <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

@@ -1,10 +1,10 @@
 ---
-id: "COL-SOC-CIU-3-2026-W11-deberes-ciudadanos-basicos-001-MASTERY"
+id: "COL-SOC-CIU-3-2026-W11-deberes-ciudadanos-basicos-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "sociales-ciudadanas"
 tema: "deberes-ciudadanos-basicos"
-semana: "W11"
+week: "W11"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 8
@@ -19,25 +19,31 @@ rubric_baseline: "deberes_ciudadanos, constitucion, respeto_leyes, participacion
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Deberes Ciudadanos Basicos
 
 Este bundle cubre los deberes ciudadanos basicos en Colombia.
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 
 **ID:** `COL-SOC-CIU-3-2026-W11-deberes-ciudadanos-basicos-001-MASTERY-v1`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento social
 **Expected_Success:** 0.84
-**Context:** I.E. Jorge Eliecer Gaitan, Bogota. Deberes ciudadanos.
+**Contexto:** I.E. Jorge Eliecer Gaitan, Bogota. Deberes ciudadanos.
 
 ### Enunciado
 Cual es un deber de los ciudadanos colombianos?
 
 ### Opciones
-- [x] A) Respetar las leyes y la Constitucion de Colombia.
+- [x] A) Respetar las leyes y la Constitucion de Colombia. <!-- feedback: Correcto! Respetar las leyes y la Constitucion de Colombia. -->
 - [ ] B) B) No pagar impuestos. <!-- feedback: Pagar impuestos es un deber. -->
 - [ ] C) C) Tirar basura en la calle. <!-- feedback: Es una falta. -->
 - [ ] D) D) No participar en elecciones. <!-- feedback: Votar es un derecho y deber. -->
@@ -45,19 +51,20 @@ Cual es un deber de los ciudadanos colombianos?
 ### Explicacion Pedagogica
 La Constitucion colombiana establece que todos los ciudadanos deben respetar las leyes, pagar impuestos y participar en la vida democratica.
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `COL-SOC-CIU-3-2026-W11-deberes-ciudadanos-basicos-001-MASTERY-v2`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento social
 **Expected_Success:** 0.82
-**Context:** I.E. Leon de Greiff, Medellin. Deberes con la comunidad.
+**Contexto:** I.E. Leon de Greiff, Medellin. Deberes con la comunidad.
 
 ### Enunciado
 Que deben hacer los ciudadanos por su comunidad?
 
 ### Opciones
-- [x] A) Cuidar los espacios publicos como parques, calles y colegios.
+- [x] A) Cuidar los espacios publicos como parques, calles y colegios. <!-- feedback: Correcto! Cuidar los espacios publicos como parques, calles y colegios -->
 - [ ] B) B) Rayar las paredes. <!-- feedback: Danar es una falta. -->
 - [ ] C) C) Dejar la basura en la calle. <!-- feedback: Debe botarse en canecas. -->
 - [ ] D) D) Romper los semaforos. <!-- feedback: Danar es ilegal. -->
@@ -65,19 +72,20 @@ Que deben hacer los ciudadanos por su comunidad?
 ### Explicacion Pedagogica
 Cuidar los espacios publicos es deber de todos. Mantener parques, calles y escuelas en buen estado beneficia a la comunidad.
 
-## Pregunta 3 [D2]
+## Question 3 [D2]
 
 **ID:** `COL-SOC-CIU-3-2026-W11-deberes-ciudadanos-basicos-001-MASTERY-v3`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Interpretacion y analisis de perspectivas
 **Expected_Success:** 0.76
-**Context:** I.E. Marco Fidel Suarez, Bello. Importancia de deberes.
+**Contexto:** I.E. Marco Fidel Suarez, Bello. Importancia de deberes.
 
 ### Enunciado
 Por que existen deberes ciudadanos?
 
 ### Opciones
-- [x] A) Para que todos podamos convivir en armonia y respeto, garantizando los derechos de los demas.
+- [x] A) Para que todos podamos convivir en armonia y respeto, garantizando los derechos de los demas. <!-- feedback: Correcto! Para que todos podamos convivir en armonia y respeto, garant -->
 - [ ] B) B) Para que el gobierno nos controle. <!-- feedback: No es solo control, es convivencia. -->
 - [ ] C) C) Para que los ninos obedezcan. <!-- feedback: Aplica a todos. -->
 - [ ] D) D) Para castigar a quienes no cumplen. <!-- feedback: Es organizar la sociedad. -->
@@ -85,19 +93,20 @@ Por que existen deberes ciudadanos?
 ### Explicacion Pedagogica
 Los deberes ciudadanos permiten la convivencia pacifica. Al cumplirlos, respetamos los derechos de los demas.
 
-## Pregunta 4 [D2]
+## Question 4 [D2]
 
 **ID:** `COL-SOC-CIU-3-2026-W11-deberes-ciudadanos-basicos-001-MASTERY-v4`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Interpretacion y analisis de perspectivas
 **Expected_Success:** 0.73
-**Context:** I.E. Normal Superior, Manizales. Impuestos.
+**Contexto:** I.E. Normal Superior, Manizales. Impuestos.
 
 ### Enunciado
 Por que los ciudadanos deben pagar impuestos?
 
 ### Opciones
-- [x] A) Para que el gobierno tenga recursos y pueda construir colegios, hospitales y carreteras.
+- [x] A) Para que el gobierno tenga recursos y pueda construir colegios, hospitales y carreteras. <!-- feedback: Correcto! Para que el gobierno tenga recursos y pueda construir colegi -->
 - [ ] B) B) Para que los politicos se enriquezcan. <!-- feedback: Los impuestos son para obras publicas. -->
 - [ ] C) C) Porque si no pagan, van a la carcel. <!-- feedback: Hay sanciones, pero el fin es financiar servicios. -->
 - [ ] D) D) Para comprar juguetes. <!-- feedback: Son para servicios publicos. -->
@@ -105,19 +114,20 @@ Por que los ciudadanos deben pagar impuestos?
 ### Explicacion Pedagogica
 Los impuestos financian servicios publicos como educacion, salud, infraestructura y seguridad. Todos debemos contribuir.
 
-## Pregunta 5 [D3]
+## Question 5 [D3]
 
 **ID:** `COL-SOC-CIU-3-2026-W11-deberes-ciudadanos-basicos-001-MASTERY-v5`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistemico
 **Expected_Success:** 0.65
-**Context:** I.E. Juan XXIII, Cali. Cumplir deberes.
+**Contexto:** I.E. Juan XXIII, Cali. Cumplir deberes.
 
 ### Enunciado
 Si un ciudadano ve que alguien esta danando un parque, que debe hacer?
 
 ### Opciones
-- [x] A) Avisar a las autoridades (policia o inspector) y explicarles lo que vio.
+- [x] A) Avisar a las autoridades (policia o inspector) y explicarles lo que vio. <!-- feedback: Correcto! Avisar a las autoridades (policia o inspector) y explicarles -->
 - [ ] B) B) Unirse a danarlo. <!-- feedback: Danar no es correcto. -->
 - [ ] C) C) Ignorarlo. <!-- feedback: Como ciudadano debe actuar. -->
 - [ ] D) D) Grabar y no hacer nada mas. <!-- feedback: Debe reportarlo. -->
@@ -125,19 +135,20 @@ Si un ciudadano ve que alguien esta danando un parque, que debe hacer?
 ### Explicacion Pedagogica
 Los ciudadanos deben denunciar conductas que danen los bienes publicos.
 
-## Pregunta 6 [D3]
+## Question 6 [D3]
 
 **ID:** `COL-SOC-CIU-3-2026-W11-deberes-ciudadanos-basicos-001-MASTERY-v6`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistemico
 **Expected_Success:** 0.62
-**Context:** I.E. INEM, Villavicencio. Participacion.
+**Contexto:** I.E. INEM, Villavicencio. Participacion.
 
 ### Enunciado
 Como pueden participar los ciudadanos en su comunidad?
 
 ### Opciones
-- [x] A) Participando en las juntas de accion comunal y en las elecciones.
+- [x] A) Participando en las juntas de accion comunal y en las elecciones. <!-- feedback: Correcto! Participando en las juntas de accion comunal y en las elecci -->
 - [ ] B) B) No opinando nunca. <!-- feedback: Participar es un derecho. -->
 - [ ] C) C) Solo protestando. <!-- feedback: Hay muchas formas. -->
 - [ ] D) D) Dejando que otros decidan. <!-- feedback: Todos deben participar. -->
@@ -145,19 +156,20 @@ Como pueden participar los ciudadanos en su comunidad?
 ### Explicacion Pedagogica
 La participacion ciudadana se ejerce en juntas de accion comunal, elecciones y espacios de decision local.
 
-## Pregunta 7 [D4]
+## Question 7 [D4]
 
 **ID:** `COL-SOC-CIU-3-2026-W11-deberes-ciudadanos-basicos-001-MASTERY-v7`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **ICFES category:** Razonamiento y Argumentacion
 **Expected_Success:** 0.48
-**Context:** I.E. Tecnico Industrial, Piedecuesta. Constitucion.
+**Contexto:** I.E. Tecnico Industrial, Piedecuesta. Constitucion.
 
 ### Enunciado
 Por que la Constitucion es importante para los deberes?
 
 ### Opciones
-- [x] A) Porque alli estan escritos todos los deberes de los ciudadanos colombianos.
+- [x] A) Porque alli estan escritos todos los deberes de los ciudadanos colombianos. <!-- feedback: Correcto! Porque alli estan escritos todos los deberes de los ciudadan -->
 - [ ] B) B) Solo los adultos deben conocerla. <!-- feedback: Todos deben conocerla. -->
 - [ ] C) C) Cambia cada semana. <!-- feedback: Es estable. -->
 - [ ] D) D) Solo aplica en Bogota. <!-- feedback: Aplica en todo el pais. -->
@@ -165,19 +177,20 @@ Por que la Constitucion es importante para los deberes?
 ### Explicacion Pedagogica
 La Constitucion Politica es la norma de normas de Colombia y establece derechos y deberes.
 
-## Pregunta 8 [D5]
+## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-3-2026-W11-deberes-ciudadanos-basicos-001-MASTERY-v8`
 **Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistemico
 **Expected_Success:** 0.40
-**Context:** I.E. El Rosario, Tunja. Reflexion.
+**Contexto:** I.E. El Rosario, Tunja. Reflexion.
 
 ### Enunciado
 Un ciudadano dice: "Yo no vote, para que sirve votar?" Que le respondes?
 
 ### Opciones
-- [x] A) Votar es importante porque elegimos a quienes nos representan y toman decisiones.
+- [x] A) Votar es importante porque elegimos a quienes nos representan y toman decisiones. <!-- feedback: Correcto! Votar es importante porque elegimos a quienes nos representa -->
 - [ ] B) B) No sirve para nada. <!-- feedback: Si sirve. -->
 - [ ] C) C) Solo los ricos deben votar. <!-- feedback: Todos tienen derecho. -->
 - [ ] D) D) Votar no cambia nada. <!-- feedback: Votar si cambia las cosas. -->

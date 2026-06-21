@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-4-2026-P1-grupos-indigenas-colombia-001-MASTERY"
+id: "CO-SOC-4-2026-P1-grupos-indigenas-colombia-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Grupos indígenas de Colombia, diversidad cultural, familias lingüísticas, territorios ancestrales"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Grupos Indígenas de Colombia
 
@@ -27,14 +34,15 @@ Este bundle cubre los principales grupos indígenas que habitaron y habitan Colo
 ## Question 1 [D3]
 
 **ID:** `CO-SOC-4-2026-P1-grupos-indigenas-colombia-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en el Colegio Alfonso López de Valledupar, la profesora pregunta sobre las comunidades indígenas que viven en La Guajira.
+**Contexto:** En clase de sociales en el Colegio Alfonso López de Valledupar, la profesora pregunta sobre las comunidades indígenas que viven en La Guajira.
 
 ### Enunciado
 En el departamento de La Guajira, al norte de Colombia, habita un pueblo indígena conocido por su tejido de mochilas y su idioma wayuunaiki. ¿Cómo se llama este grupo?
 
-### Options
+### Opciones
 - [x] A) Wayúu <!-- feedback: Correcto. Los Wayúu habitan la península de La Guajira, son reconocidos por sus coloridas mochilas y mantas, y hablan wayuunaiki. -->
 - [ ] B) Muisca <!-- feedback: Incorrecto. Los Muiscas habitaban el Altiplano Cundiboyacense, en el centro del país, no La Guajira. -->
 - [ ] C) Emberá <!-- feedback: Incorrecto. Los Emberá viven principalmente en las selvas del Pacífico colombiano (Chocó, Risaralda). -->
@@ -48,14 +56,15 @@ Se evalúa la capacidad de localizar geográficamente los principales grupos ind
 ## Question 2 [D3]
 
 **ID:** `CO-SOC-4-2026-P1-grupos-indigenas-colombia-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Francisco de Paula Santander en Bogotá, los estudiantes presentan exposiciones sobre las familias indígenas colombianas.
+**Contexto:** En la clase de sociales de la I.E. Francisco de Paula Santander en Bogotá, los estudiantes presentan exposiciones sobre las familias indígenas colombianas.
 
 ### Enunciado
 Colombia es un país con gran diversidad de pueblos indígenas. Según el censo, actualmente viven aproximadamente:
 
-### Options
+### Opciones
 - [ ] A) 5 grupos indígenas en todo el país. <!-- feedback: Incorrecto. Colombia tiene muchos más de 5 grupos indígenas; es uno de los países más diversos de América Latina. -->
 - [ ] B) 15 grupos indígenas aproximadamente. <!-- feedback: Incorrecto. La cifra real es mucho mayor; cada año se reconocen nuevas comunidades. -->
 - [x] C) Más de 80 grupos indígenas distintos. <!-- feedback: Correcto. Colombia cuenta con más de 80 pueblos indígenas reconocidos, cada uno con su lengua, cultura y territorio propios. -->
@@ -69,14 +78,15 @@ Se evalúa el conocimiento sobre la diversidad cultural colombiana. La respuesta
 ## Question 3 [D4]
 
 **ID:** `CO-SOC-4-2026-P1-grupos-indigenas-colombia-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En una salida pedagógica al Museo Nacional de Bogotá, los estudiantes observan objetos de diferentes culturas indígenas que habitaron el territorio.
+**Contexto:** En una salida pedagógica al Museo Nacional de Bogotá, los estudiantes observan objetos de diferentes culturas indígenas que habitaron el territorio.
 
 ### Enunciado
 Las comunidades indígenas colombianas hablan idiomas que pertenecen a grandes familias lingüísticas. La mayoría de las lenguas indígenas en Colombia pertenecen a las familias:
 
-### Options
+### Opciones
 - [ ] A) Española y portuguesa. <!-- feedback: Incorrecto. El español y el portugués son lenguas europeas, no familias lingüísticas indígenas americanas. -->
 - [x] B) Chibcha, Caribe y Arawak. <!-- feedback: Correcto. Estas son las principales familias lingüísticas indígenas en Colombia; de ellas derivan lenguas como el wayuunaiki (Arawak) o el arhuaco (Chibcha). -->
 - [ ] C) Romance y germánica. <!-- feedback: Incorrecto. Estas son familias de lenguas europeas, no tienen origen en América. -->
@@ -90,14 +100,15 @@ Se evalúa la comprensión de la clasificación lingüística de los pueblos ind
 ## Question 4 [D4]
 
 **ID:** `CO-SOC-4-2026-P1-grupos-indigenas-colombia-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En la comunidad de Silvia, Cauca, un líder indígena Nasa explica a los visitantes cómo se organizan políticamente.
+**Contexto:** En la comunidad de Silvia, Cauca, un líder indígena Nasa explica a los visitantes cómo se organizan políticamente.
 
 ### Enunciado
 Muchos pueblos indígenas en Colombia hoy en día se gobiernan a través de sus propias autoridades tradicionales. Una de estas figuras de autoridad se llama:
 
-### Options
+### Opciones
 - [ ] A) Alcalde municipal. <!-- feedback: Incorrecto. El alcalde es una figura del gobierno colombiano, no de la autoridad tradicional indígena. -->
 - [ ] B) Presidente de la república. <!-- feedback: Incorrecto. El presidente es la máxima autoridad del gobierno nacional, no una autoridad tradicional indígena. -->
 - [x] C) Cabildo indígena o gobernador indígena. <!-- feedback: Correcto. Los cabildos indígenas son las autoridades tradicionales elegidas por sus comunidades para gobernarse según sus usos y costumbres. -->
@@ -111,14 +122,15 @@ Se evalúa el conocimiento sobre la organización política de los pueblos indí
 ## Question 5 [D4]
 
 **ID:** `CO-SOC-4-2026-P1-grupos-indigenas-colombia-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En una feria artesanal en Popayán, un artesano Guambiano muestra sus tejidos típicos.
+**Contexto:** En una feria artesanal en Popayán, un artesano Guambiano muestra sus tejidos típicos.
 
 ### Enunciado
 Los diferentes grupos indígenas de Colombia tienen vestimentas que los identifican. Por ejemplo, los hombres del pueblo Guambiano (Misak) del Cauca usan:
 
-### Options
+### Opciones
 - [ ] A) Traje de corbata y saco. <!-- feedback: Incorrecto. El traje formal occidental no es vestimenta tradicional indígena colombiana. -->
 - [x] B) Un sombrero de lana y una ruana de color azul oscuro o negro. <!-- feedback: Correcto. El sombrero y la ruana son prendas tradicionales del pueblo Guambiano que los distinguen de otros grupos indígenas. -->
 - [ ] C) Plumas de colores en la cabeza como los indígenas del Amazonas. <!-- feedback: Incorrecto. Los Guambianos no usan tocados de plumas; esa es una característica de grupos amazónicos como los Huitoto. -->
@@ -132,14 +144,15 @@ Se evalúa el conocimiento sobre las costumbres y la identidad visual de los pue
 ## Question 6 [D4]
 
 **ID:** `CO-SOC-4-2026-P1-grupos-indigenas-colombia-001-MASTERY-v6`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En una emisora escolar de la I.E. Agropecuaria de Tierradentro, Cauca, los estudiantes entrevistan a un líder indígena sobre la pérdida de lenguas nativas.
+**Contexto:** En una emisora escolar de la I.E. Agropecuaria de Tierradentro, Cauca, los estudiantes entrevistan a un líder indígena sobre la pérdida de lenguas nativas.
 
 ### Enunciado
 Muchas lenguas indígenas en Colombia están en peligro de desaparecer. ¿Por qué es importante preservar estas lenguas?
 
-### Options
+### Opciones
 - [ ] A) Porque son más fáciles de aprender que el español. <!-- feedback: Incorrecto. La importancia de las lenguas no tiene que ver con su dificultad de aprendizaje. -->
 - [ ] B) Porque los turistas extranjeros las prefieren. <!-- feedback: Incorrecto. El valor de las lenguas va mucho más allá del interés turístico. -->
 - [x] C) Porque cada lengua contiene una forma única de entender el mundo, la naturaleza y la vida. <!-- feedback: Correcto. Las lenguas indígenas guardan conocimientos ancestrales sobre medicina, agricultura y cosmovisión que son patrimonio de la humanidad. -->
@@ -153,14 +166,15 @@ Se evalúa la comprensión del valor del patrimonio lingüístico y cultural. La
 ## Question 7 [D4]
 
 **ID:** `CO-SOC-4-2026-P1-grupos-indigenas-colombia-001-MASTERY-v7`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en San Andrés de Tumaco, Nariño, los estudiantes estudian los pueblos de la costa Pacífica.
+**Contexto:** En clase de sociales en San Andrés de Tumaco, Nariño, los estudiantes estudian los pueblos de la costa Pacífica.
 
 ### Enunciado
 El pueblo indígena que habita principalmente en la región del Pacífico colombiano (Chocó, Risaralda, Valle) y es conocido por sus conocimientos sobre plantas medicinales y sus collares de chaquira se llama:
 
-### Options
+### Opciones
 - [ ] A) Arhuaco. <!-- feedback: Incorrecto. Los Arhuacos viven en la Sierra Nevada de Santa Marta, no en el Pacífico colombiano. -->
 - [ ] B) Sikuani. <!-- feedback: Incorrecto. Los Sikuani son un grupo de los Llanos Orientales, en la Orinoquía. -->
 - [x] C) Emberá. <!-- feedback: Correcto. El pueblo Emberá habita las selvas del Pacífico colombiano y se distingue por su uso de la chaquira en collares y su profundo conocimiento de las plantas medicinales. -->
@@ -174,14 +188,15 @@ Se evalúa la capacidad de localizar y reconocer las características de los gru
 ## Question 8 [D5]
 
 **ID:** `CO-SOC-4-2026-P1-grupos-indigenas-colombia-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En un foro escolar sobre la consulta previa, se discute cómo las comunidades indígenas participan en las decisiones sobre proyectos que afectan sus territorios.
+**Contexto:** En un foro escolar sobre la consulta previa, se discute cómo las comunidades indígenas participan en las decisiones sobre proyectos que afectan sus territorios.
 
 ### Enunciado
 La Constitución de 1991 establece que antes de realizar proyectos de minería o construcción en territorios indígenas, el gobierno debe consultar a las comunidades. Este derecho se llama:
 
-### Options
+### Opciones
 - [ ] A) Derecho al voto. <!-- feedback: Incorrecto. El voto es un derecho político general, no específico para proyectos en territorios indígenas. -->
 - [x] B) Consulta previa. <!-- feedback: Correcto. La consulta previa es un derecho fundamental de los pueblos indígenas a ser consultados sobre decisiones que afecten sus territorios y formas de vida. -->
 - [ ] C) Derecho de petición. <!-- feedback: Incorrecto. El derecho de petición es un mecanismo general para solicitar información a las autoridades, no es específico para estos casos. -->
@@ -195,14 +210,15 @@ Se evalúa la comprensión de los derechos constitucionales de los pueblos indí
 ## Question 9 [D5]
 
 **ID:** `CO-SOC-4-2026-P1-grupos-indigenas-colombia-001-MASTERY-v9`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En un documental del canal Señal Colombia sobre los pueblos de la Sierra Nevada de Santa Marta, se explica que cuatro pueblos indígenas consideran esa montaña sagrada.
+**Contexto:** En un documental del canal Señal Colombia sobre los pueblos de la Sierra Nevada de Santa Marta, se explica que cuatro pueblos indígenas consideran esa montaña sagrada.
 
 ### Enunciado
 En la Sierra Nevada de Santa Marta viven cuatro pueblos indígenas que la consideran el "corazón del mundo". Uno de ellos, conocido por sus largos bastones y vestidos blancos, se llama:
 
-### Options
+### Opciones
 - [ ] A) Emberá Chamí. <!-- feedback: Incorrecto. Los Emberá Chamí son de la región Pacífica, no de la Sierra Nevada. -->
 - [ ] B) Nasa. <!-- feedback: Incorrecto. Los Nasa son del Cauca, en el suroccidente del país, no de la Sierra Nevada. -->
 - [x] C) Arhuaco (Iku). <!-- feedback: Correcto. Los Arhuacos son uno de los cuatro pueblos de la Sierra Nevada (junto con Kogui, Wiwa y Kankuamo) y se distinguen por sus vestidos blancos y bastones rituales. -->
@@ -216,14 +232,15 @@ Se evalúa el conocimiento detallado sobre la ubicación de grupos indígenas es
 ## Question 10 [D5]
 
 **ID:** `CO-SOC-4-2026-P1-grupos-indigenas-colombia-001-MASTERY-v10`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales, la profesora muestra un mapa de resguardos indígenas en Colombia y pregunta sobre su significado.
+**Contexto:** En la clase de sociales, la profesora muestra un mapa de resguardos indígenas en Colombia y pregunta sobre su significado.
 
 ### Enunciado
 Los territorios que la ley colombiana reconoce como propiedad colectiva de las comunidades indígenas se llaman:
 
-### Options
+### Opciones
 - [ ] A) Fincas particulares. <!-- feedback: Incorrecto. Las fincas particulares son propiedad privada individual, no colectiva indígena. -->
 - [ ] B) Parques nacionales naturales. <!-- feedback: Incorrecto. Los parques nacionales son áreas protegidas para la conservación, no propiedad de comunidades indígenas. -->
 - [x] C) Resguardos indígenas. <!-- feedback: Correcto. Los resguardos son territorios legalmente reconocidos como propiedad colectiva de las comunidades indígenas, donde se gobiernan según sus tradiciones. -->

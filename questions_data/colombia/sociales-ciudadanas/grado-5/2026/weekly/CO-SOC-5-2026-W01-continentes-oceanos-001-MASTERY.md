@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "continentes y oceanos"
-semana: "W01"
+week: "W01"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Ubicación básica de continentes y océanos en el mapamundi"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W01-continentes-oceanos-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Cuántos continentes hay reconocidos tradicionalmente en el mundo?
@@ -39,12 +44,13 @@ Tradicionalmente se reconocen 6 continentes: América, Europa, Asia, África, Oc
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W01-continentes-oceanos-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿En qué continente se encuentra ubicada Colombia?
@@ -60,12 +66,13 @@ Colombia se encuentra en el continente americano, en la región noroccidental de
 
 ---
 
-## Pregunta 3 [D2]
+## Question 3 [D2]
 
 **ID:** `CO-SOC-5-2026-W01-continentes-oceanos-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Cuál es el océano más grande del mundo?
@@ -81,12 +88,13 @@ El océano Pacífico es el más grande del mundo, cubriendo aproximadamente un t
 
 ---
 
-## Pregunta 4 [D2]
+## Question 4 [D2]
 
 **ID:** `CO-SOC-5-2026-W01-continentes-oceanos-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Observa el mapamundi. ¿Qué continente se encuentra al otro lado del océano Atlántico, al oriente de Colombia?
@@ -102,12 +110,13 @@ Desde Colombia, cruzando el océano Atlántico hacia el oriente, se llega al con
 
 ---
 
-## Pregunta 5 [D2]
+## Question 5 [D2]
 
 **ID:** `CO-SOC-5-2026-W01-continentes-oceanos-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Colombia tiene costas sobre dos océanos. ¿Cuáles son?
@@ -123,12 +132,13 @@ Colombia es un país privilegiado porque tiene costas sobre el océano Pacífico
 
 ---
 
-## Pregunta 6 [D2]
+## Question 6 [D2]
 
 **ID:** `CO-SOC-5-2026-W01-continentes-oceanos-001-MASTERY-v6`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Cuál de los siguientes NO es un continente?
@@ -144,12 +154,13 @@ El Caribe no es un continente, sino una región geográfica formada por el mar C
 
 ---
 
-## Pregunta 7 [D3]
+## Question 7 [D3]
 
 **ID:** `CO-SOC-5-2026-W01-continentes-oceanos-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Qué continente es el más poblado del mundo?
@@ -165,12 +176,13 @@ Asia es el continente más poblado del mundo, con aproximadamente el 60% de la p
 
 ---
 
-## Pregunta 8 [D3]
+## Question 8 [D3]
 
 **ID:** `CO-SOC-5-2026-W01-continentes-oceanos-001-MASTERY-v8`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Qué océano baña la costa occidental de Colombia?
@@ -186,12 +198,13 @@ La costa occidental de Colombia está bañada por el océano Pacífico. Esta reg
 
 ---
 
-## Pregunta 9 [D3]
+## Question 9 [D3]
 
 **ID:** `CO-SOC-5-2026-W01-continentes-oceanos-001-MASTERY-v9`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 María está viendo un mapa y quiere señalar dónde está Colombia. Su maestra le dice que busque la intersección entre la línea del Ecuador y el meridiano de Greenwich. ¿En qué continente debe buscar?
@@ -207,12 +220,13 @@ Colombia se encuentra en el continente americano, específicamente en el norocci
 
 ---
 
-## Pregunta 10 [D3]
+## Question 10 [D3]
 
 **ID:** `CO-SOC-5-2026-W01-continentes-oceanos-001-MASTERY-v10`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Cuál de las siguientes afirmaciones sobre los continentes es CORRECTA?

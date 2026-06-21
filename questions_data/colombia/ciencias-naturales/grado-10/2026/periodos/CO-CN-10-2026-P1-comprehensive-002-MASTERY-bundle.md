@@ -1,5 +1,5 @@
 ---
-id: "CO-CN-10-2026-P1-comprehensive-002-MASTERY"
+id: "CO-CN-10-2026-P1-comprehensive-002-MASTERY-bundle"
 country: "colombia"
 grado: 10
 asignatura: "ciencias-naturales"
@@ -19,7 +19,12 @@ rubric_baseline: "reacciones_oxido_reduccion, balanceo_ecuaciones, mol_y_masa_mo
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 20
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY Grado 10 — Ciencias Naturales, Periodo 1, Bundle 002
 
@@ -33,12 +38,12 @@ Bundle de periodo 1 para grado 10 Ciencias Naturales. Cubre reacciones redox, es
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento cientifico
 
-**Context:** En clase de quimica en el Colegio La Presentacion de Bucaramanga, la profesora explica los tipos de reacciones quimicas.
+**Contexto:** En clase de quimica en el Colegio La Presentacion de Bucaramanga, la profesora explica los tipos de reacciones quimicas.
 
 ### Enunciado
 En una reaccion de oxidacion-reduccion (redox), que ocurre con el numero de oxidacion del elemento que se oxida?
 
-### Options
+### Opciones
 - [ ] A) Disminuye <!-- feedback: Incorrecto. Cuando un elemento se oxida, su numero de oxidacion aumenta, no disminuye. -->
 - [x] B) Aumenta <!-- feedback: Correcto. La oxidacion implica una perdida de electrones, lo que aumenta el numero de oxidacion. -->
 - [ ] C) Permanece igual <!-- feedback: Incorrecto. En una reaccion redox los numeros de oxidacion cambian. -->
@@ -55,12 +60,12 @@ En las reacciones redox, la oxidacion es la perdida de electrones. Al perder ele
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento cientifico
 
-**Context:** En el laboratorio de fisica del Colegio San Jose de Medellin, los estudiantes aprenden sobre ondas.
+**Contexto:** En el laboratorio de fisica del Colegio San Jose de Medellin, los estudiantes aprenden sobre ondas.
 
 ### Enunciado
 Cual de las siguientes es una onda mecanica?
 
-### Options
+### Opciones
 - [ ] A) La luz visible <!-- feedback: Incorrecto. La luz es una onda electromagnetica, no necesita un medio material para propagarse. -->
 - [ ] B) Los rayos X <!-- feedback: Incorrecto. Los rayos X son ondas electromagneticas, no mecanicas. -->
 - [x] C) El sonido <!-- feedback: Correcto. El sonido es una onda mecanica que necesita un medio material (solido, liquido o gas) para propagarse. -->
@@ -77,12 +82,12 @@ Las ondas mecanicas requieren un medio material para propagarse, a diferencia de
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento cientifico
 
-**Context:** En clase de quimica en un colegio de Barranquilla, se estudia el concepto de mol.
+**Contexto:** En clase de quimica en un colegio de Barranquilla, se estudia el concepto de mol.
 
 ### Enunciado
 El numero de Avogadro (\(6.022 \times 10^{23}\)) representa:
 
-### Options
+### Opciones
 - [ ] A) La masa de un atomo de carbono-12 en gramos <!-- feedback: Incorrecto. El numero de Avogadro no es una masa, es una cantidad de entidades elementales. -->
 - [x] B) La cantidad de particulas (atomos, moleculas, iones) en un mol de cualquier sustancia <!-- feedback: Correcto. Un mol contiene exactamente \(6.022 \times 10^{23}\) entidades elementales. -->
 - [ ] C) La masa de un mol de agua en gramos <!-- feedback: Incorrecto. La masa de un mol de agua es 18 gramos, no el numero de Avogadro. -->
@@ -99,12 +104,12 @@ El numero de Avogadro es la constante que define la cantidad de entidades elemen
 **Bloom:** Understand
 **ICFES:** Explicacion de fenomenos
 
-**Context:** En el laboratorio de fisica del Colegio Champagnat de Bogota, los estudiantes observan ondas en una cuba de agua.
+**Contexto:** En el laboratorio de fisica del Colegio Champagnat de Bogota, los estudiantes observan ondas en una cuba de agua.
 
 ### Enunciado
 En una onda transversal, la direccion de vibracion de las particulas del medio es:
 
-### Options
+### Opciones
 - [x] A) Perpendicular a la direccion de propagacion de la onda <!-- feedback: Correcto. En ondas transversales, las particulas vibran perpendicularmente a la direccion en que viaja la onda. -->
 - [ ] B) Paralela a la direccion de propagacion de la onda <!-- feedback: Incorrecto. Esa es la caracteristica de las ondas longitudinales, no transversales. -->
 - [ ] C) Circular alrededor del punto de equilibrio <!-- feedback: Incorrecto. La vibracion es lineal, no circular. -->
@@ -121,12 +126,12 @@ Las ondas se clasifican segun la direccion de vibracion: en las ondas transversa
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento cientifico
 
-**Context:** En el laboratorio de quimica de la Universidad Nacional de Colombia sede Medellin, los estudiantes realizan una practica de estequeometria.
+**Contexto:** En el laboratorio de quimica de la Universidad Nacional de Colombia sede Medellin, los estudiantes realizan una practica de estequeometria.
 
 ### Enunciado
 Cuantos gramos de agua (H2O) se producen al reaccionar completamente 4 gramos de hidrogeno (H2) con suficiente oxigeno (O2)? Masas atomicas: H = 1 g/mol, O = 16 g/mol. La reaccion es: \(2H_2 + O_2 \rightarrow 2H_2O\).
 
-### Options
+### Opciones
 - [ ] A) 18 g <!-- feedback: Incorrecto. 18 g es la masa de un mol de agua, pero no considera la proporcion estequiometrica con 4 g de H2. -->
 - [ ] B) 4 g <!-- feedback: Incorrecto. La masa no se conserva numericamente igual. -->
 - [x] C) 36 g <!-- feedback: Correcto. 4 g de H2 = 2 moles de H2. Por estequiometria, 2 moles de H2 producen 2 moles de H2O. 2 moles x 18 g/mol = 36 g de H2O. -->
@@ -146,12 +151,12 @@ Masa de H2O: \(2 \text{ mol} \times 18 \text{ g/mol} = 36\) g. Esto cumple la le
 **Bloom:** Apply
 **ICFES:** Explicacion de fenomenos
 
-**Context:** En una clase de fisica en Pereira, el profesor explica la relacion entre frecuencia y periodo de una onda.
+**Contexto:** En una clase de fisica en Pereira, el profesor explica la relacion entre frecuencia y periodo de una onda.
 
 ### Enunciado
 Una onda sonora tiene una frecuencia de 440 Hz (nota La). Cual es su periodo?
 
-### Options
+### Opciones
 - [ ] A) 440 s <!-- feedback: Incorrecto. El periodo es el inverso de la frecuencia, no la frecuencia misma. -->
 - [ ] B) 0.440 s <!-- feedback: Incorrecto. Confundiste el periodo con la frecuencia expresada en segundos. -->
 - [x] C) 0.00227 s aproximadamente <!-- feedback: Correcto. \(T = 1/f = 1/440 \approx 0.00227\) s = 2.27 ms. -->
@@ -168,12 +173,12 @@ El periodo (T) y la frecuencia (f) son inversamente proporcionales: \(T = 1/f\).
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento cientifico
 
-**Context:** En la clase de quimica del Colegio Integrado de San Vicente de Chucuri, Santander, los estudiantes balancean ecuaciones redox.
+**Contexto:** En la clase de quimica del Colegio Integrado de San Vicente de Chucuri, Santander, los estudiantes balancean ecuaciones redox.
 
 ### Enunciado
 En la siguiente reaccion, identifica el agente oxidante: \(Zn + CuSO_4 \rightarrow ZnSO_4 + Cu\)
 
-### Options
+### Opciones
 - [ ] A) Zn (zinc) <!-- feedback: Incorrecto. El Zn se oxida (pierde electrones), por lo tanto es el agente reductor, no el oxidante. -->
 - [ ] B) \(SO_4^{2-}\) (ion sulfato) <!-- feedback: Incorrecto. El ion sulfato no cambia su numero de oxidacion en esta reaccion. Es un ion espectador. -->
 - [x] C) \(Cu^{2+}\) (ion cobre II) <!-- feedback: Correcto. El Cu^{2+} se reduce (gana electrones), por lo tanto es el agente oxidante. -->
@@ -190,12 +195,12 @@ En esta reaccion de desplazamiento simple: Zn + CuSO4 -> ZnSO4 + Cu, el Zn pasa 
 **Bloom:** Apply
 **ICFES:** Explicacion de fenomenos
 
-**Context:** Durante una tormenta en Bogota, un estudiante observa que ve el relampago antes de escuchar el trueno.
+**Contexto:** Durante una tormenta en Bogota, un estudiante observa que ve el relampago antes de escuchar el trueno.
 
 ### Enunciado
 Un relampago cae a 1700 metros de distancia. Si la velocidad del sonido en el aire es aproximadamente 340 m/s, cuanto tiempo tarda en escucharse el trueno?
 
-### Options
+### Opciones
 - [x] A) 5 segundos <!-- feedback: Correcto. \(t = d/v = 1700/340 = 5\) s. -->
 - [ ] B) 0.2 segundos <!-- feedback: Incorrecto. Calculaste \(340/1700 = 0.2\). Debes dividir distancia entre velocidad, no al reves. -->
 - [ ] C) 10 segundos <!-- feedback: Incorrecto. Tal vez usaste la velocidad de la luz en lugar de la del sonido. -->
@@ -212,12 +217,12 @@ La velocidad del sonido en el aire a temperatura ambiente es 340 m/s. Usando la 
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento cientifico
 
-**Context:** En el laboratorio de quimica del Colegio INEM de Cali, los estudiantes determinan la masa molar de un compuesto.
+**Contexto:** En el laboratorio de quimica del Colegio INEM de Cali, los estudiantes determinan la masa molar de un compuesto.
 
 ### Enunciado
 Cual es la masa molar del acido sulfurico (H2SO4)? Masas atomicas: H=1, S=32, O=16 g/mol.
 
-### Options
+### Opciones
 - [ ] A) 49 g/mol <!-- feedback: Incorrecto. Dividiste la suma total entre 2. La masa molar es la suma de todas las masas atomicas. -->
 - [x] B) 98 g/mol <!-- feedback: Correcto. H2SO4: 2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol. -->
 - [ ] C) 82 g/mol <!-- feedback: Incorrecto. Revisa los calculos: 2(1) + 32 + 4(16) = 2 + 32 + 64 = 98. -->
@@ -234,12 +239,12 @@ La masa molar se calcula sumando las masas atomicas de todos los atomos que comp
 **Bloom:** Apply
 **ICFES:** Explicacion de fenomenos
 
-**Context:** En la clase de fisica de un colegio en Ibague, se estudia la velocidad de propagacion de ondas en una cuerda.
+**Contexto:** En la clase de fisica de un colegio en Ibague, se estudia la velocidad de propagacion de ondas en una cuerda.
 
 ### Enunciado
 Por una cuerda tensa viaja una onda con frecuencia de 2 Hz y longitud de onda de 1.5 metros. Cual es la velocidad de propagacion de la onda?
 
-### Options
+### Opciones
 - [x] A) 3 m/s <!-- feedback: Correcto. \(v = \lambda \cdot f = 1.5 \times 2 = 3\) m/s. -->
 - [ ] B) 0.75 m/s <!-- feedback: Incorrecto. Dividiste la frecuencia entre la longitud de onda, pero la formula es \(v = \lambda \cdot f\). -->
 - [ ] C) 1.5 m/s <!-- feedback: Incorrecto. Olvidaste multiplicar por la frecuencia. La velocidad depende de ambos parametros. -->
@@ -256,12 +261,12 @@ La velocidad de una onda se calcula con la ecuacion fundamental de la ondulatori
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento cientifico
 
-**Context:** En el laboratorio de quimica del Colegio La Salle de Medellin, los estudiantes analizan una reaccion redox.
+**Contexto:** En el laboratorio de quimica del Colegio La Salle de Medellin, los estudiantes analizan una reaccion redox.
 
 ### Enunciado
 En la siguiente semirreaccion: \(MnO_4^- + 8H^+ + 5e^- \rightarrow Mn^{2+} + 4H_2O\). Que numero de oxidacion tiene el manganeso (Mn) en el ion permanganato (\(MnO_4^-\))?
 
-### Options
+### Opciones
 - [ ] A) +2 <!-- feedback: Incorrecto. +2 es el numero de oxidacion del Mn^{2+} despues de reducirse, no en el permanganato. -->
 - [x] B) +7 <!-- feedback: Correcto. En \(MnO_4^-\), cada O tiene -2 (4 x -2 = -8), la carga total del ion es -1, por lo que Mn debe ser +7: +7 + (-8) = -1. -->
 - [ ] C) +5 <!-- feedback: Incorrecto. Revisa: carga del ion = -1, O contribuye con 4(-2) = -8. Mn + (-8) = -1, entonces Mn = +7, no +5. -->
@@ -283,12 +288,12 @@ El Mn en el permanganato tiene numero de oxidacion +7, que es su estado de oxida
 **Bloom:** Analyze
 **ICFES:** Explicacion de fenomenos
 
-**Context:** En clase de fisica en Armenia, los estudiantes analizan el fenomeno de reflexion de ondas.
+**Contexto:** En clase de fisica en Armenia, los estudiantes analizan el fenomeno de reflexion de ondas.
 
 ### Enunciado
 Una onda viaja por una cuerda delgada y llega a una union con otra cuerda mas gruesa. Al cambiar de medio, parte de la onda se refleja y parte se transmite. Que caracteristica de la onda cambia al pasar al nuevo medio?
 
-### Options
+### Opciones
 - [ ] A) La frecuencia <!-- feedback: Incorrecto. La frecuencia depende de la fuente, no del medio. Permanece constante al cambiar de medio. -->
 - [ ] B) La amplitud se mantiene igual <!-- feedback: Incorrecto. La amplitud generalmente disminuye al transmitirse a otro medio. -->
 - [x] C) La velocidad de propagacion y la longitud de onda <!-- feedback: Correcto. Al cambiar de medio cambia la velocidad, y como la frecuencia es constante, la longitud de onda tambien cambia (\(v = \lambda f\)). -->
@@ -305,12 +310,12 @@ Cuando una onda cambia de medio, la frecuencia (y por tanto el periodo) permanec
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento cientifico
 
-**Context:** En un laboratorio quimico de la Universidad del Valle en Cali, se analiza la oxidacion del hierro.
+**Contexto:** En un laboratorio quimico de la Universidad del Valle en Cali, se analiza la oxidacion del hierro.
 
 ### Enunciado
 La oxidacion del hierro (formacion de oxido de hierro III) se representa como: \(4Fe + 3O_2 \rightarrow 2Fe_2O_3\). Si se tienen 112 gramos de hierro (masa atomica Fe = 56 g/mol), cuantos gramos de oxigeno se necesitan para la reaccion completa?
 
-### Options
+### Opciones
 - [ ] A) 32 g <!-- feedback: Incorrecto. 32 g corresponde a 1 mol de O2, pero la relacion estequiometrica requiere 3 moles de O2 por 4 moles de Fe. -->
 - [ ] B) 96 g <!-- feedback: Incorrecto. El calculo correcto es: 2 moles de Fe, relacion 4:3 implica 1.5 moles de O2, que son 1.5 x 32 = 48 g. 96 g seria 3 moles de O2. -->
 - [x] C) 48 g <!-- feedback: Correcto. Moles de Fe = 112/56 = 2. Relacion Fe:O2 = 4:3, entonces moles de O2 = (2 x 3)/4 = 1.5. Masa de O2 = 1.5 x 32 = 48 g. -->
@@ -330,12 +335,12 @@ La ley de conservacion de la masa se cumple: 112 g Fe + 48 g O2 = 160 g Fe2O3.
 **Bloom:** Analyze
 **ICFES:** Explicacion de fenomenos
 
-**Context:** En un concierto en el Teatro Metropolitano de Medellin, un musico observa que al tocar dos instrumentos diferentes, las ondas sonoras interactuan.
+**Contexto:** En un concierto en el Teatro Metropolitano de Medellin, un musico observa que al tocar dos instrumentos diferentes, las ondas sonoras interactuan.
 
 ### Enunciado
 Dos ondas sonoras de la misma frecuencia y amplitud se encuentran en un punto del espacio, pero una esta desfasada 180 grados (\(\pi\) radianes) respecto a la otra. Que fenomeno ocurre?
 
-### Options
+### Opciones
 - [ ] A) Se produce un sonido mas fuerte (interferencia constructiva) <!-- feedback: Incorrecto. La interferencia constructiva ocurre cuando las ondas estan en fase (0 grados de desfase). -->
 - [x] B) Se produce cancelacion del sonido (interferencia destructiva) <!-- feedback: Correcto. Con desfase de 180 grados, los maximos de una onda coinciden con los minimos de la otra, anulandose. -->
 - [ ] C) Se produce un efecto Doppler <!-- feedback: Incorrecto. El efecto Doppler se debe al movimiento relativo entre fuente y observador, no a la superposicion de ondas. -->
@@ -352,12 +357,12 @@ El principio de superposicion establece que cuando dos ondas coinciden en el esp
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento cientifico
 
-**Context:** En el laboratorio virtual de quimica del Colegio Alvernia de Bogota, los estudiantes deben balancear una ecuacion redox.
+**Contexto:** En el laboratorio virtual de quimica del Colegio Alvernia de Bogota, los estudiantes deben balancear una ecuacion redox.
 
 ### Enunciado
 Balancea la siguiente reaccion redox por el metodo del numero de oxidacion: \(Fe + HCl \rightarrow FeCl_3 + H_2\). Cual es el coeficiente del HCl en la ecuacion balanceada?
 
-### Options
+### Opciones
 - [ ] A) 3 <!-- feedback: Incorrecto. Con 3 HCl: Fe + 3HCl -> FeCl3 + H2. Pero el H2 necesita 2 H, y 3 HCl solo da 3 H, dejando 1 H desbalanceado. -->
 - [x] B) 6 <!-- feedback: Correcto. \(2Fe + 6HCl \rightarrow 2FeCl_3 + 3H_2\). El Fe se oxida de 0 a +3 (pierde 3e-). El H se reduce de +1 a 0 (gana 1e- cada H, pero H2 son 2e-). Balance: 2Fe + 6HCl -> 2FeCl3 + 3H2. -->
 - [ ] C) 1 <!-- feedback: Incorrecto. Con 1 HCl no hay suficientes atomos de Cl ni de H para balancear la ecuacion. -->
@@ -379,12 +384,12 @@ Ecuacion: \(2Fe + 6HCl \rightarrow 2FeCl_3 + 3H_2\)
 **Bloom:** Evaluate
 **ICFES:** Explicacion de fenomenos
 
-**Context:** En una clase de acustica en el Conservatorio de Musica de Cali, se estudian las propiedades del sonido.
+**Contexto:** En una clase de acustica en el Conservatorio de Musica de Cali, se estudian las propiedades del sonido.
 
 ### Enunciado
 Un tren se acerca a una estacion haciendo sonar su silbato con una frecuencia de 500 Hz. Un observador en la estacion escucha el silbato con una frecuencia mayor. Cual es la explicacion de este fenomeno?
 
-### Options
+### Opciones
 - [ ] A) El sonido viaja mas rapido cuando la fuente se mueve <!-- feedback: Incorrecto. La velocidad del sonido en el aire es constante independientemente del movimiento de la fuente. -->
 - [x] B) Efecto Doppler: al acercarse la fuente, las ondas se comprimen y aumenta la frecuencia percibida <!-- feedback: Correcto. El efecto Doppler explica el cambio de frecuencia aparente cuando hay movimiento relativo entre fuente y observador. -->
 - [ ] C) El silbato realmente produce una frecuencia mayor al acercarse <!-- feedback: Incorrecto. La frecuencia emitida por el silbato es constante. Cambia la frecuencia percibida. -->
@@ -401,12 +406,12 @@ El efecto Doppler se produce cuando hay movimiento relativo entre la fuente sono
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento cientifico
 
-**Context:** En el laboratorio de quimica del Colegio San Carlos de Bogota, los estudiantes realizan una practica de estequeometria con rendimiento de reaccion.
+**Contexto:** En el laboratorio de quimica del Colegio San Carlos de Bogota, los estudiantes realizan una practica de estequeometria con rendimiento de reaccion.
 
 ### Enunciado
 Se hacen reaccionar 10 gramos de calcio (Ca) con suficiente agua (H2O) segun la reaccion: \(Ca + 2H_2O \rightarrow Ca(OH)_2 + H_2\). Si el rendimiento de la reaccion es del 80%, cuantos gramos de hidroxido de calcio Ca(OH)2 se obtienen? Masas atomicas: Ca=40, O=16, H=1 g/mol.
 
-### Options
+### Opciones
 - [x] A) 14.8 g <!-- feedback: Correcto. Moles de Ca = 10/40 = 0.25. Relacion 1:1 con Ca(OH)2. Masa teorica = 0.25 x 74 = 18.5 g. Rendimiento 80%: 18.5 x 0.8 = 14.8 g. -->
 - [ ] B) 18.5 g <!-- feedback: Incorrecto. Esta es la masa teorica (100%), pero el rendimiento es solo del 80%. -->
 - [ ] C) 11.84 g <!-- feedback: Incorrecto. Tal vez calculaste 18.5 x 0.64 = 11.84, usando 80% de 80%. -->
@@ -426,12 +431,12 @@ Paso 4: Rendimiento real = 80% de 18.5 = 18.5 x 0.8 = 14.8 g.
 **Bloom:** Evaluate
 **ICFES:** Explicacion de fenomenos
 
-**Context:** En una clase de acustica en la Universidad Tecnologica de Pereira, se analizan ondas estacionarias en una cuerda fija en ambos extremos.
+**Contexto:** En una clase de acustica en la Universidad Tecnologica de Pereira, se analizan ondas estacionarias en una cuerda fija en ambos extremos.
 
 ### Enunciado
 Una cuerda de guitarra de 60 cm de longitud vibra en su modo fundamental (primer armonico). Si la velocidad de propagacion de la onda en la cuerda es de 360 m/s, cual es la frecuencia del sonido producido?
 
-### Options
+### Opciones
 - [ ] A) 600 Hz <!-- feedback: Incorrecto. Usaste la longitud de onda como 0.6 m, pero en el modo fundamental \(\lambda = 2L = 1.2\) m. -->
 - [ ] B) 216 Hz <!-- feedback: Incorrecto. Posiblemente calculaste mal la relacion. -->
 - [x] C) 300 Hz <!-- feedback: Correcto. Modo fundamental: \(\lambda = 2L = 1.2\) m. \(f = v/\lambda = 360/1.2 = 300\) Hz. -->
@@ -448,12 +453,12 @@ En una cuerda fija en ambos extremos, la longitud de onda del modo fundamental (
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento cientifico
 
-**Context:** En un proyecto de ciencias ambientales en la Universidad de Antioquia, los estudiantes analizan la corrosion del hierro como proceso redox.
+**Contexto:** En un proyecto de ciencias ambientales en la Universidad de Antioquia, los estudiantes analizan la corrosion del hierro como proceso redox.
 
 ### Enunciado
 La corrosion del hierro (Fe) en presencia de oxigeno (O2) y agua produce oxido de hierro III hidratado (Fe2O3 x H2O). Considerando la semirreaccion de reduccion del oxigeno en medio acido: \(O_2 + 4H^+ + 4e^- \rightarrow 2H_2O\). Si el hierro se oxida a Fe^{2+} en una primera etapa, cuantos electrones transfiere un atomo de hierro al oxidarse?
 
-### Options
+### Opciones
 - [ ] A) 1 electron <!-- feedback: Incorrecto. Fe -> Fe^{2+} implica perder 2 electrones, no 1. -->
 - [x] B) 2 electrones <!-- feedback: Correcto. Fe (0) -> Fe^{2+} (+2): pierde 2 electrones en el proceso de oxidacion. -->
 - [ ] C) 3 electrones <!-- feedback: Incorrecto. Esto corresponderia a Fe^{3+}, que es una etapa posterior de oxidacion. -->
@@ -471,12 +476,12 @@ ightarrow Fe^{2+} + 2e^-\). En una etapa posterior, el Fe^{2+} puede oxidarse a 
 **Bloom:** Evaluate
 **ICFES:** Explicacion de fenomenos
 
-**Context:** En un laboratorio de acustica en el Colegio Mayor de San Bartolome en Bogota, los estudiantes miden la velocidad del sonido usando el fenomeno de resonancia.
+**Contexto:** En un laboratorio de acustica en el Colegio Mayor de San Bartolome en Bogota, los estudiantes miden la velocidad del sonido usando el fenomeno de resonancia.
 
 ### Enunciado
 Un tubo cerrado en un extremo tiene una longitud de 21.25 cm. Al hacer sonar un diapason de 400 Hz cerca de la abertura, se produce resonancia en el primer armonico (n=1). Cual es la velocidad del sonido en el aire?
 
-### Options
+### Opciones
 - [ ] A) 170 m/s <!-- feedback: Incorrecto. Usaste \(\lambda = 2L\) pero en un tubo cerrado el modo fundamental tiene \(\lambda = 4L\). -->
 - [ ] B) 85 m/s <!-- feedback: Incorrecto. Usaste \(L = \lambda\), pero en tubo cerrado \(\lambda = 4L\). -->
 - [x] C) 340 m/s <!-- feedback: Correcto. \(L = 21.25\) cm = 0.2125 m. Modo fundamental tubo cerrado: \(\lambda = 4L = 0.85\) m. \(v = 0.85 \times 400 = 340\) m/s. -->
@@ -491,8 +496,7 @@ L = 21.25 cm = 0.2125 m.
 
 Este resultado coincide con la velocidad del sonido en el aire a temperatura ambiente (20-25 grados C). La resonancia ocurre cuando la frecuencia del diapason coincide con una frecuencia natural del tubo.
 
-### Options
-
+### Opciones
 [//]: # (QUALITY_REVIEW)
 [//]: # (STATUS: LEGACY - FREE USE)
 [//]: # (SCORE: N/A - Pre-QR era)

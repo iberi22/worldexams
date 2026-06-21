@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W13-repaso-p1-001-MASTERY"
+id: "CO-CIE-3-2026-W13-repaso-p1-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "repaso-p1"
-semana: "W13"
+week: "W13"
 periodo: 2
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Repaso integral: seres vivos, plantas, animales y fotosíntesi
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Repaso Integral: La Vida en la Tierra
 
 Este bundle integra los conceptos fundamentales vistos hasta ahora, desde la distinción entre seres vivos y objetos inertes, hasta el complejo proceso de la fotosíntesis y la vida animal.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W13-repaso-p1-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Tienes una lista de elementos: Una piedra, un gato, una mesa, un árbol y un robot.
+**Contexto:** Tienes una lista de elementos: Una piedra, un gato, una mesa, un árbol y un robot.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ La diferencia entre la vida y lo inerte es la capacidad de realizar funciones vi
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W13-repaso-p1-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un venado corre velozmente al escuchar el quiebre de una rama en el bosque.
+**Contexto:** Un venado corre velozmente al escuchar el quiebre de una rama en el bosque.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -73,12 +77,12 @@ La función de relación permite a los seres vivos interactuar con el medio. A t
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W13-repaso-p1-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la planta, cada parte tiene un trabajo. Una absorbe, otra transporta y otra fabrica.
+**Contexto:** En la planta, cada parte tiene un trabajo. Una absorbe, otra transporta y otra fabrica.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ Las plantas funcionan como un sistema integrado. La raíz toma los ingredientes,
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W13-repaso-p1-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** El cocodrilo nace de un huevo y tiene huesos. El caracol nace de un huevo pero no tiene huesos por dentro.
+**Contexto:** El cocodrilo nace de un huevo y tiene huesos. El caracol nace de un huevo pero no tiene huesos por dentro.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -123,12 +127,12 @@ La clasificación fundamental del reino animal se divide en vertebrados e invert
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W13-repaso-p1-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un oso come salmones (peces), pero también come muchas bayas y frutas del bosque.
+**Contexto:** Un oso come salmones (peces), pero también come muchas bayas y frutas del bosque.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -148,12 +152,12 @@ Ser omnívoro es una ventaja estratégica. Permite al animal sobrevivir en difer
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W13-repaso-p1-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Las hojas de las plantas son como paneles solares verdes que trabajan todo el día bajo el sol.
+**Contexto:** Las hojas de las plantas son como paneles solares verdes que trabajan todo el día bajo el sol.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -173,12 +177,12 @@ La fotosíntesis es la gran obra de las plantas. No solo se alimentan a sí mism
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W13-repaso-p1-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un águila vuela alto, un delfín nada rápido y un leopardo corre por la selva.
+**Contexto:** Un águila vuela alto, un delfín nada rápido y un leopardo corre por la selva.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -198,12 +202,12 @@ Aunque vivan en hábitats distintos (aire, agua, tierra), comparten una estructu
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W13-repaso-p1-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Imagina que cierras una planta en un cuarto totalmente oscuro y sin ventanas, pero le das agua y buena tierra.
+**Contexto:** Imagina que cierras una planta en un cuarto totalmente oscuro y sin ventanas, pero le das agua y buena tierra.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -223,12 +227,12 @@ La nutrición vegetal es fotosintética. La palabra misma lo dice: necesita luz 
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W13-repaso-p1-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Una oruga se envuelve en un capullo y después de un tiempo sale convertida en una hermosa mariposa con alas.
+**Contexto:** Una oruga se envuelve en un capullo y después de un tiempo sale convertida en una hermosa mariposa con alas.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -248,12 +252,12 @@ La metamorfosis permite que el animal se adapte a diferentes necesidades: la oru
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W13-repaso-p1-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un científico encuentra un organismo en un lago que no tiene raíces ni hojas, se mueve lentamente y "come" luz del sol.
+**Contexto:** Un científico encuentra un organismo en un lago que no tiene raíces ni hojas, se mueve lentamente y "come" luz del sol.
 **Expected_Success:** 0.55
 
 ### Enunciado

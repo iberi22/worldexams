@@ -1,10 +1,10 @@
 ---
-id: "COL-SOC-CIU-7-2026-W24-repaso-p6-001-MASTERY"
+id: "COL-SOC-CIU-7-2026-W24-repaso-p6-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-ciudadanas"
 tema: "repaso-p6"
-semana: "W24"
+week: "W24"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,16 +20,20 @@ rubric_baseline: "repaso p6"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso: pisos tÃ©rmicos, cuencas y cambio climÃ¡tico â€” W24
 
 Este bundle cubre **Repaso: pisos tÃ©rmicos, cuencas y cambio climÃ¡tico**, correspondiente a la semana 24 del plan de estudios 2026 de Ciencias Sociales para grado 7. Incluye contextualizaciÃ³n moderna (Colombia 2024-2026), preguntas con taxonomÃ­a de Bloom variada y competencias ICFES.
 
-## Pregunta 1
-
+## Question 1 [D1]
 **ID:** `COL-SOC-CIU-7-2026-W24-repaso-p6-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Social
 
 ### Contexto
@@ -53,10 +57,10 @@ El estudio de repaso p6 es fundamental para comprender la realidad colombiana. Â
 
 ---
 
-## Pregunta 2
-
+## Question 2 [D1]
 **ID:** `COL-SOC-CIU-7-2026-W24-repaso-p6-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** InterpretaciÃ³n de Textos
 
 ### Contexto
@@ -80,10 +84,10 @@ El estudio de repaso p6 es fundamental para comprender la realidad colombiana. Â
 
 ---
 
-## Pregunta 3
-
+## Question 3 [D1]
 **ID:** `COL-SOC-CIU-7-2026-W24-repaso-p6-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** ArgumentaciÃ³n
 
 ### Contexto
@@ -107,10 +111,10 @@ El estudio de repaso p6 es fundamental para comprender la realidad colombiana. Â
 
 ---
 
-## Pregunta 4
-
+## Question 4 [D1]
 **ID:** `COL-SOC-CIU-7-2026-W24-repaso-p6-001-MASTERY-v4`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Social
 
 ### Contexto
@@ -134,10 +138,10 @@ El estudio de repaso p6 es fundamental para comprender la realidad colombiana. D
 
 ---
 
-## Pregunta 5
-
+## Question 5 [D1]
 **ID:** `COL-SOC-CIU-7-2026-W24-repaso-p6-001-MASTERY-v5`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** InterpretaciÃ³n de Textos
 
 ### Contexto
@@ -161,10 +165,10 @@ El estudio de repaso p6 es fundamental para comprender la realidad colombiana. Â
 
 ---
 
-## Pregunta 6
-
+## Question 6 [D1]
 **ID:** `COL-SOC-CIU-7-2026-W24-repaso-p6-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** ArgumentaciÃ³n
 
 ### Contexto
@@ -188,10 +192,10 @@ El estudio de repaso p6 es fundamental para comprender la realidad colombiana. Â
 
 ---
 
-## Pregunta 7
-
+## Question 7 [D1]
 **ID:** `COL-SOC-CIU-7-2026-W24-repaso-p6-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Social
 
 ### Contexto
@@ -215,10 +219,10 @@ El estudio de repaso p6 es fundamental para comprender la realidad colombiana. Â
 
 ---
 
-## Pregunta 8
-
+## Question 8 [D1]
 **ID:** `COL-SOC-CIU-7-2026-W24-repaso-p6-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** InterpretaciÃ³n de Textos
 
 ### Contexto
@@ -242,10 +246,10 @@ El estudio de repaso p6 es fundamental para comprender la realidad colombiana. A
 
 ---
 
-## Pregunta 9
-
+## Question 9 [D1]
 **ID:** `COL-SOC-CIU-7-2026-W24-repaso-p6-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** ArgumentaciÃ³n
 
 ### Contexto
@@ -269,10 +273,10 @@ El estudio de repaso p6 es fundamental para comprender la realidad colombiana. Â
 
 ---
 
-## Pregunta 10
-
+## Question 10 [D1]
 **ID:** `COL-SOC-CIU-7-2026-W24-repaso-p6-001-MASTERY-v10`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Social
 
 ### Contexto

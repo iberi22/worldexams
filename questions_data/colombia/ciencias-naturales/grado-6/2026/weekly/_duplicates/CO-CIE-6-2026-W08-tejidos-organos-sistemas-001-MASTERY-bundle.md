@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W08-tejidos-organos-sistemas-001-MASTERY"
+id: "CO-CIE-6-2026-W08-tejidos-organos-sistemas-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -12,7 +12,11 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W08 — Tejidos, Órganos y Sistemas
 
@@ -24,13 +28,14 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 
 **ID:** `CO-CIE-6-2026-W08-tejidos-organos-sistemas-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, el profesor explica los niveles de organización biológica en el tablero.
+**Contexto:** En Bogotá, el profesor explica los niveles de organización biológica en el tablero.
 
 ### Enunciado
 ¿Cuál es el orden correcto de los niveles de organización biológica, del más simple al más complejo?
 
-### Options
+### Opciones
 - [ ] A) Órgano, tejido, célula, sistema, organismo <!-- feedback: Incorrecto. La célula es el nivel más básico, no el órgano. -->
 - [ ] B) Célula, órgano, tejido, sistema, organismo <!-- feedback: Incorrecto. El tejido va antes que el órgano. -->
 - [x] C) Célula, tejido, órgano, sistema, organismo <!-- feedback: Correcto. Esta es la secuencia jerárquica de organización. -->
@@ -52,13 +57,14 @@ Este orden jerárquico es fundamental para entender cómo funcionan los seres vi
 
 **ID:** `CO-CIE-6-2026-W08-tejidos-organos-sistemas-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, estudiantes identifican tipos de tejidos en láminas didácticas.
+**Contexto:** En Medellín, estudiantes identifican tipos de tejidos en láminas didácticas.
 
 ### Enunciado
 ¿Cuál de los siguientes es un ejemplo de tejido?
 
-### Options
+### Opciones
 - [ ] A) El corazón <!-- feedback: Incorrecto. El corazón es un órgano, no un tejido. -->
 - [ ] B) La sangre <!-- feedback: ¡Correcta también! Pero buscamos tejido como: -->
 - [x] C) Tejido muscular <!-- feedback: Correcto. El tejido muscular está formado por células musculares especializadas. -->
@@ -73,13 +79,14 @@ El tejido muscular es un conjunto de células musculares (miocitos) especializad
 
 **ID:** `CO-CIE-6-2026-W08-tejidos-organos-sistemas-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, los estudiantes analizan el funcionamiento del estómago.
+**Contexto:** En Cali, los estudiantes analizan el funcionamiento del estómago.
 
 ### Enunciado
 El estómago está formado por tejido muscular (que se contrae), tejido epitelial (que recubre y secreta jugos gástricos) y tejido nervioso (que controla la digestión). ¿Qué nivel de organización representa el estómago?
 
-### Options
+### Opciones
 - [ ] A) Célula <!-- feedback: Incorrecto. El estómago contiene muchos tipos de células, pero es más que una célula. -->
 - [ ] B) Tejido <!-- feedback: Incorrecto. El estómago contiene varios tejidos diferentes, no es un solo tejido. -->
 - [x] C) Órgano <!-- feedback: Correcto. El estómago es un órgano formado por varios tejidos. -->
@@ -94,13 +101,14 @@ El estómago es un órgano porque está formado por varios tejidos diferentes qu
 
 **ID:** `CO-CIE-6-2026-W08-tejidos-organos-sistemas-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, los estudiantes hacen una sopa de letras con niveles de organización.
+**Contexto:** En Barranquilla, los estudiantes hacen una sopa de letras con niveles de organización.
 
 ### Enunciado
 ¿Qué nivel de organización se forma cuando varios órganos trabajan juntos para cumplir una función?
 
-### Options
+### Opciones
 - [ ] A) Tejido <!-- feedback: Incorrecto. El tejido está formado por células, no por órganos. -->
 - [ ] B) Organismo <!-- feedback: Incorrecto. El organismo contiene varios sistemas, no es solo un grupo de órganos. -->
 - [x] C) Sistema de órganos <!-- feedback: Correcto. Un sistema es un conjunto de órganos que trabajan coordinadamente. -->
@@ -115,13 +123,14 @@ Un sistema de órganos (o aparato) es el nivel de organización que resulta de l
 
 **ID:** `CO-CIE-6-2026-W08-tejidos-organos-sistemas-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, el profesor muestra una imagen del sistema circulatorio.
+**Contexto:** En Bucaramanga, el profesor muestra una imagen del sistema circulatorio.
 
 ### Enunciado
 ¿Cuál de las siguientes opciones muestra correctamente la jerarquía de organización dentro del sistema circulatorio?
 
-### Options
+### Opciones
 - [x] A) Célula sanguínea → Tejido sanguíneo → Corazón (órgano) → Sistema circulatorio <!-- feedback: Correcto. Sigue la jerarquía de menor a mayor complejidad. -->
 - [ ] B) Corazón → Célula sanguínea → Sistema circulatorio → Tejido <!-- feedback: Incorrecto. El orden está invertido y desordenado. -->
 - [ ] C) Sistema circulatorio → Corazón → Célula sanguínea → Tejido <!-- feedback: Incorrecto. Este es el orden inverso (de mayor a menor). -->
@@ -141,13 +150,14 @@ Cada nivel integra y organiza al anterior, creando estructuras cada vez más com
 
 **ID:** `CO-CIE-6-2026-W08-tejidos-organos-sistemas-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, los estudiantes analizan el sistema respiratorio durante una clase práctica.
+**Contexto:** En Cartagena, los estudiantes analizan el sistema respiratorio durante una clase práctica.
 
 ### Enunciado
 Los pulmones están formados por tejido epitelial (que recubre los alveolos), tejido conectivo (que da estructura) y tejido nervioso (que controla la respiración). ¿Qué nivel de organización son los pulmones?
 
-### Options
+### Opciones
 - [ ] A) Célula, porque están hechos de células <!-- feedback: Incorrecto. Todos los órganos están hechos de células, pero son más que eso. -->
 - [ ] B) Sistema, porque participan en la respiración <!-- feedback: Incorrecto. Son parte del sistema respiratorio, no el sistema completo. -->
 - [x] C) Órgano, porque están formados por varios tejidos <!-- feedback: Correcto. Los pulmones son órganos pares del sistema respiratorio. -->
@@ -162,13 +172,14 @@ Los pulmones son órganos pares del sistema respiratorio. Cada pulmón está for
 
 **ID:** `CO-CIE-6-2026-W08-tejidos-organos-sistemas-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, los estudiantes clasifican diferentes estructuras según su nivel de organización.
+**Contexto:** En Pereira, los estudiantes clasifican diferentes estructuras según su nivel de organización.
 
 ### Enunciado
 Clasifica cada uno en su nivel: (1) Neurona, (2) Tejido nervioso, (3) Cerebro, (4) Sistema nervioso. ¿Cuál es la correspondencia correcta?
 
-### Options
+### Opciones
 - [ ] A) Neurona=tejido, Tejido nervioso=célula, Cerebro=sistema, Sistema nervioso=órgano <!-- feedback: Incorrecto. Las correspondencias están cambiadas. -->
 - [x] B) Neurona=célula, Tejido nervioso=tejido, Cerebro=órgano, Sistema nervioso=sistema <!-- feedback: Correcto. Cada uno corresponde a su nivel jerárquico. -->
 - [ ] C) Neurona=órgano, Tejido nervioso=célula, Cerebro=sistema, Sistema nervioso=tejido <!-- feedback: Incorrecto. Las correspondencias están invertidas. -->
@@ -189,13 +200,14 @@ Cada nivel contiene y organiza al anterior, formando una estructura jerárquica 
 
 **ID:** `CO-CIE-6-2026-W08-tejidos-organos-sistemas-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, un estudiante afirma que "el corazón es un tejido porque está hecho de células cardíacas".
+**Contexto:** En Manizales, un estudiante afirma que "el corazón es un tejido porque está hecho de células cardíacas".
 
 ### Enunciado
 ¿Qué error tiene la afirmación del estudiante?
 
-### Options
+### Opciones
 - [ ] A) Decir que el corazón está hecho de células cardíacas, porque no es cierto <!-- feedback: Incorrecto. El corazón sí está formado por células cardíacas y otros tipos. -->
 - [ ] B) Decir que el corazón es un tejido, porque el corazón contiene varios tejidos diferentes <!-- feedback: Correcto. Al contener varios tejidos, el corazón es un órgano. -->
 - [ ] C) Decir que el corazón está en el tórax <!-- feedback: Incorrecto. Sí está en el tórax. -->
@@ -210,13 +222,14 @@ El error es de clasificación jerárquica. El corazón no es un tejido, es un ó
 
 **ID:** `CO-CIE-6-2026-W08-tejidos-organos-sistemas-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, un grupo debate si una hoja de una planta es un órgano.
+**Contexto:** En Cúcuta, un grupo debate si una hoja de una planta es un órgano.
 
 ### Enunciado
 ¿La hoja de una planta es un órgano? ¿Por qué?
 
-### Options
+### Opciones
 - [x] A) Sí, porque está formada por varios tejidos (epidermis, parénquima, vasos conductores) que trabajan juntos <!-- feedback: Correcto. La hoja cumple con la definición de órgano. -->
 - [ ] B) No, solo los animales tienen órganos <!-- feedback: Incorrecto. Las plantas también tienen órganos. -->
 - [ ] C) No, porque las hojas son solo tejido vegetal <!-- feedback: Incorrecto. Las hojas contienen varios tejidos diferentes. -->
@@ -237,13 +250,14 @@ Las plantas tienen órganos principales: raíz, tallo y hojas (vegetativos) y fl
 
 **ID:** `CO-CIE-6-2026-W08-tejidos-organos-sistemas-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, los estudiantes deben explicar por qué un organismo unicelular no tiene tejidos ni órganos.
+**Contexto:** En Ibagué, los estudiantes deben explicar por qué un organismo unicelular no tiene tejidos ni órganos.
 
 ### Enunciado
 ¿Por qué una bacteria no tiene tejidos, órganos ni sistemas?
 
-### Options
+### Opciones
 - [ ] A) Porque es demasiado pequeña para tenerlos <!-- feedback: Incorrecto. El tamaño no es el motivo principal, hay animales microscópicos con tejidos. -->
 - [ ] B) Porque es un organismo unicelular: una sola célula realiza todas las funciones vitales <!-- feedback: Correcto. En un organismo unicelular no hay división de trabajo entre células. -->
 - [ ] C) Porque no es un ser vivo verdadero <!-- feedback: Incorrecto. Las bacterias son seres vivos. -->

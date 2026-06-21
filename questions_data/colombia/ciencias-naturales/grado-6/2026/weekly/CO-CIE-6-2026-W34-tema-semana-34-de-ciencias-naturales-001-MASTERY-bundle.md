@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W34-tema-semana-34-de-ciencias-naturales-001-MASTERY"
+id: "CO-CIE-6-2026-W34-tema-semana-34-de-ciencias-naturales-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 10
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W34 — Tema Semana 34 de Ciencias Naturales
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Colegio Nacional San Bartolomé en Riohacha
+**Contexto:** Colegio Nacional San Bartolomé en Riohacha
 **Expected_Success:** 0.77
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Riohacha, se discute sobre Tema Semana 34 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 34 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 34 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 34 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 34 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Tunja
+**Contexto:** I.E. San José en Tunja
 **Expected_Success:** 0.70
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. San José en Tunja, se discute sobre Tema Semana 34 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 34 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 34 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 34 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 34 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** I.E. San José en Tunja
+**Contexto:** I.E. San José en Tunja
 **Expected_Success:** 0.70
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. San José en Tunja, se discute sobre Tema Semana 34 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 34 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 34 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 34 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 34 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Cartagena
+**Contexto:** Colegio La Presentación en Cartagena
 **Expected_Success:** 0.75
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio La Presentación en Cartagena, se discute sobre Tema Semana 34 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 34 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 34 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 34 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 34 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Sincelejo
+**Contexto:** I.E. Jorge Eliécer Gaitán en Sincelejo
 **Expected_Success:** 0.80
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Sincelejo, se discute sobre Tema Semana 34 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 34 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 34 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 34 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 34 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Sincelejo
+**Contexto:** I.E. Gabriel García Márquez en Sincelejo
 **Expected_Success:** 0.71
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Sincelejo, se discute sobre Tema Semana 34 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 34 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 34 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 34 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 34 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** Gimnasio Moderno en Armenia
+**Contexto:** Gimnasio Moderno en Armenia
 **Expected_Success:** 0.74
 
 ### Enunciado
 En la clase de Ciencias Naturales del Gimnasio Moderno en Armenia, se discute sobre Tema Semana 34 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 34 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 34 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 34 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 34 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Pasto
+**Contexto:** Colegio La Presentación en Pasto
 **Expected_Success:** 0.63
 
 ### Enunciado
 En la clase de Ciencias Naturales del Colegio La Presentación en Pasto, se discute sobre Tema Semana 34 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 34 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 34 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 34 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 34 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Manizales
+**Contexto:** I.E. Gabriel García Márquez en Manizales
 **Expected_Success:** 0.52
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Manizales, se discute sobre Tema Semana 34 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 34 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 34 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 34 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 34 de Ciencias Naturales es central en el currículo de 6
 **ID:** `CO-CIE-6-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. Jorge Eliécer Gaitán en Medellín
+**Contexto:** I.E. Jorge Eliécer Gaitán en Medellín
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Medellín, se discute sobre Tema Semana 34 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 34 de Ciencias Naturales <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 34 de Ciencias Naturales <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 34 de Ciencias Naturales <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-5-2026-P2-mapas-diagramas-001-MASTERY"
+id: "CO-LEC-5-2026-P2-mapas-diagramas-001-MASTERY-bundle"
 country: "colombia"
 grado: 5
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "mapas conceptuales, diagramas, organizadores gráficos, información visual, relaciones entre conceptos"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G5: El Mapa de los Sueños de la Clase 5B
 
@@ -49,13 +56,14 @@ lluvioso  guacamayas  lianas  neblina  oso     musgo    cristalino  peces  pasto
 
 **ID:** `CO-LC-5-2026-P2-mapas-diagramas-001-MASTERY-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Interpretación del mapa conceptual.
+**Contexto:** Interpretación del mapa conceptual.
 
 ### Enunciado
 Según el mapa conceptual, ¿cuáles son los tres grandes ecosistemas de Colombia que aparecen en el diagrama?
 
-### Options
+### Opciones
 - [ ] A) Bosque, desierto y montaña. <!-- feedback: Incorrecto. Esos no son los ecosistemas que aparecen en el mapa. -->
 - [x] B) Selva Amazónica, Páramo Andino y Océano Caribe. <!-- feedback: Correcto. El mapa muestra tres ramas principales: Selva Amazónica, Páramo Andino y Océano Caribe. -->
 - [ ] C) Río Magdalena, Cordillera y Llanos. <!-- feedback: Incorrecto. Esos no aparecen en el mapa conceptual. -->
@@ -70,13 +78,14 @@ Se evalúa la capacidad de leer un mapa conceptual identificando la información
 
 **ID:** `CO-LC-5-2026-P2-mapas-diagramas-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Subcategorías del mapa.
+**Contexto:** Subcategorías del mapa.
 
 ### Enunciado
 ¿Qué tres subcategorías aparecen debajo de cada ecosistema en el mapa conceptual?
 
-### Options
+### Opciones
 - [ ] A) Países, ciudades y ríos. <!-- feedback: Incorrecto. Esas no son las subcategorías del mapa. -->
 - [ ] B) Animales, peces y aves. <!-- feedback: Incorrecto. Aunque hay animales, no son las subcategorías principales. -->
 - [x] C) Clima, fauna y flora. <!-- feedback: Correcto. En el mapa, cada ecosistema se divide en Clima, Fauna y Flora. -->
@@ -91,13 +100,14 @@ Se evalúa la identificación de los niveles jerárquicos en un mapa conceptual.
 
 **ID:** `CO-LC-5-2026-P2-mapas-diagramas-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Relación entre el mapa y el resumen.
+**Contexto:** Relación entre el mapa y el resumen.
 
 ### Enunciado
 Según el resumen del grupo de Camilo, ¿dónde se encuentra la selva amazónica colombiana?
 
-### Options
+### Opciones
 - [ ] A) En el norte de Colombia. <!-- feedback: Incorrecto. El Caribe está al norte, la Amazonía está al sur. -->
 - [ ] B) En la costa del Pacífico. <!-- feedback: Incorrecto. La selva amazónica no está en la costa del Pacífico. -->
 - [x] C) En el sur del país, en departamentos como Amazonas, Caquetá y Putumayo. <!-- feedback: Correcto. El resumen dice exactamente eso. -->
@@ -112,13 +122,14 @@ Se evalúa la capacidad de extraer información geográfica del texto de acompa�
 
 **ID:** `CO-LC-5-2026-P2-mapas-diagramas-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Información del mapa sobre fauna.
+**Contexto:** Información del mapa sobre fauna.
 
 ### Enunciado
 Según el mapa conceptual, ¿qué animales viven en el Páramo Andino?
 
-### Options
+### Opciones
 - [ ] A) Jaguares y guacamayas. <!-- feedback: Incorrecto. Esos animales son de la selva amazónica, no del páramo. -->
 - [x] B) Cóndor, venado y oso andino. <!-- feedback: Correcto. En la sección de fauna del Páramo Andino, el mapa lista "cóndor", "venado" y "oso andino". -->
 - [ ] C) Tortugas marinas y corales. <!-- feedback: Incorrecto. Esos son del Océano Caribe. -->
@@ -133,13 +144,14 @@ Se evalúa la capacidad de localizar información específica en diferentes rama
 
 **ID:** `CO-LC-5-2026-P2-mapas-diagramas-001-MASTERY-v5`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Relación entre columnas del mapa.
+**Contexto:** Relación entre columnas del mapa.
 
 ### Enunciado
 ¿Qué relación existe entre el "clima" de cada ecosistema y los animales que viven allí?
 
-### Options
+### Opciones
 - [ ] A) El clima no influye en los animales que viven allí. <!-- feedback: Incorrecto. El clima determina qué animales pueden sobrevivir. -->
 - [x] B) El clima determina qué tipo de animales y plantas pueden vivir en cada ecosistema. <!-- feedback: Correcto. Por ejemplo, el clima frío del páramo permite animales como el oso andino, mientras que el clima cálido de la selva permite jaguares y guacamayas. -->
 - [ ] C) Los animales cambian el clima del ecosistema. <!-- feedback: Incorrecto. Los animales no cambian el clima a gran escala. -->
@@ -154,13 +166,14 @@ Se evalúa la capacidad de inferir relaciones entre categorías dentro del mapa 
 
 **ID:** `CO-LC-5-2026-P2-mapas-diagramas-001-MASTERY-v6`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Propósito del mapa conceptual.
+**Contexto:** Propósito del mapa conceptual.
 
 ### Enunciado
 ¿Por qué la profesora pidió a los estudiantes que hicieran un mapa conceptual en lugar de solo escribir un texto?
 
-### Options
+### Opciones
 - [ ] A) Porque los mapas son más difíciles de hacer. <!-- feedback: Incorrecto. La dificultad no es la razón pedagógica. -->
 - [x] B) Porque el mapa conceptual permite organizar y visualizar las relaciones entre las ideas de manera clara. <!-- feedback: Correcto. Los mapas conceptuales ayudan a ver la jerarquía y las conexiones entre conceptos. -->
 - [ ] C) Porque los estudiantes no saben escribir. <!-- feedback: Incorrecto. Los estudiantes también escribieron un resumen. -->
@@ -175,13 +188,14 @@ Se evalúa la comprensión de la función pedagógica de los mapas conceptuales 
 
 **ID:** `CO-LC-5-2026-P2-mapas-diagramas-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Flora de la selva.
+**Contexto:** Flora de la selva.
 
 ### Enunciado
 ¿Cuál de las siguientes plantas es propia de la selva amazónica según el mapa?
 
-### Options
+### Opciones
 - [ ] A) Frailejón. <!-- feedback: Incorrecto. El frailejón es del páramo andino. -->
 - [ ] B) Musgo y líquenes. <!-- feedback: Incorrecto. Musgo y líquenes son del páramo andino. -->
 - [x] C) Orquídeas, ceibas y lianas. <!-- feedback: Correcto. En la sección de flora de la selva amazónica, el mapa lista orquídeas, ceibas y lianas. -->
@@ -196,13 +210,14 @@ Se evalúa la identificación de información específica dentro de una rama del
 
 **ID:** `CO-LC-5-2026-P2-mapas-diagramas-001-MASTERY-v8`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** El clima de la selva.
+**Contexto:** El clima de la selva.
 
 ### Enunciado
 El mapa describe el clima de la selva amazónica con tres palabras. ¿Cuáles son?
 
-### Options
+### Opciones
 - [ ] A) Frío, seco y neblinoso. <!-- feedback: Incorrecto. Esas son características del páramo. -->
 - [ ] B) Cálido, salado y cristalino. <!-- feedback: Incorrecto. "Salado" y "cristalino" describen el océano, no el clima. -->
 - [x] C) Cálido, húmedo y lluvioso. <!-- feedback: Correcto. En la rama de clima de la selva, el mapa dice "cálido, húmedo, lluvioso". -->
@@ -217,13 +232,14 @@ Se evalúa la capacidad de leer atributos específicos dentro de una categoría 
 
 **ID:** `CO-LC-5-2026-P2-mapas-diagramas-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Relación entre el mapa y el resumen.
+**Contexto:** Relación entre el mapa y el resumen.
 
 ### Enunciado
 El resumen del grupo dice que la selva amazónica es "el pulmón del mundo". Esta información:
 
-### Options
+### Opciones
 - [ ] A) Aparece explícitamente en el mapa conceptual. <!-- feedback: Incorrecto. El mapa no dice esa frase; solo tiene categorías y listas. -->
 - [x] B) Es una idea que los niños aprendieron durante la investigación y agregaron en el resumen. <!-- feedback: Correcto. El mapa organiza datos básicos, y el resumen añade interpretación y datos adicionales. -->
 - [ ] C) Contradice la información del mapa. <!-- feedback: Incorrecto. El resumen complementa, no contradice el mapa. -->
@@ -238,13 +254,14 @@ Se evalúa la comprensión de que el mapa conceptual y el resumen cumplen funcio
 
 **ID:** `CO-LC-5-2026-P2-mapas-diagramas-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Evaluación de la herramienta.
+**Contexto:** Evaluación de la herramienta.
 
 ### Enunciado
 Si tuvieras que estudiar para un examen sobre los ecosistemas de Colombia, ¿por qué sería útil el mapa conceptual que hicieron los niños?
 
-### Options
+### Opciones
 - [ ] A) Porque tiene dibujos bonitos de animales. <!-- feedback: Incorrecto. El mapa no tiene dibujos, solo texto organizado. -->
 - [ ] B) Porque es más fácil de memorizar que el resumen. <!-- feedback: Parcialmente cierto, pero hay una razón más estructural. -->
 - [x] C) Porque permite ver de un vistazo la organización de los ecosistemas y las relaciones entre clima, fauna y flora. <!-- feedback: Correcto. La ventaja del mapa conceptual es su capacidad de sintetizar visualmente la información jerarquizada. -->

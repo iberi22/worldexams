@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W19-secuencia-eventos-001-MASTERY"
+id: "CO-LEC-3-2026-W19-secuencia-eventos-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 19
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Secuencia de Eventos
 
@@ -25,6 +30,7 @@ Este bundle evalúa la capacidad de organizar hechos en el tiempo, identificar c
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **El día de mercado**
@@ -33,7 +39,7 @@ Este bundle evalúa la capacidad de organizar hechos en el tiempo, identificar c
 ### Enunciado
 ¿A qué hora compró Doña Marta la carne si pasó por allí media hora después de salir de su casa?
 
-### Options
+### Opciones
 - [ ] A) A las 7:00 a.m. <!-- feedback: Incorrecto. A esa hora fue cuando salió de su casa. -->
 - [x] B) A las 7:30 a.m. <!-- feedback: ¡Correcto! Si salió a las 7:00 y pasó media hora después, la hora exacta son las 7:30. -->
 - [ ] C) A las 8:00 a.m. <!-- feedback: Incorrecto. Eso sería una hora después, no media hora. -->
@@ -49,6 +55,7 @@ La secuenciación temporal a menudo requiere realizar cálculos sencillos basado
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **El ciclo de la mariposa**
@@ -60,7 +67,7 @@ La secuenciación temporal a menudo requiere realizar cálculos sencillos basado
 ### Enunciado
 ¿Qué ocurre **inmediatamente antes** de que se forme la crisálida?
 
-### Options
+### Opciones
 - [ ] A) La mariposa pone un huevo. <!-- feedback: Incorrecto. Eso es lo primero que ocurre, pero no justo antes de la crisálida. -->
 - [x] B) La oruga nace y se alimenta de hojas. <!-- feedback: ¡Correcto! Según el orden 1-2-3-4, el paso 2 (la oruga) precede al paso 3 (la crisálida). -->
 - [ ] C) Sale una mariposa con alas de colores. <!-- feedback: Incorrecto. Eso ocurre después de la crisálida. -->
@@ -76,6 +83,7 @@ Identificar el orden de los pasos en un proceso biológico permite al estudiante
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Mira estas acciones desordenadas para enviar una carta por correo:
@@ -86,7 +94,7 @@ Mira estas acciones desordenadas para enviar una carta por correo:
 ### Enunciado
 ¿Cuál es el orden lógico para realizar estas tres acciones?
 
-### Options
+### Opciones
 - [ ] A) Poner en el buzón -> Escribir el mensaje -> Guardar en el sobre. <!-- feedback: Incorrecto. No puedes enviar algo que no has escrito todavía. -->
 - [ ] B) Guardar en el sobre -> Escribir el mensaje -> Poner en el buzón. <!-- feedback: Incorrecto. No puedes guardar una hoja que no tiene mensaje. -->
 - [x] C) Escribir el mensaje -> Guardar en el sobre -> Poner en el buzón. <!-- feedback: ¡Correcto! Primero se crea el contenido, luego se empaca y finalmente se envía. -->
@@ -102,6 +110,7 @@ La organización de eventos cotidianos desarrolla la capacidad de planificación
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "El atleta comenzó su entrenamiento trotando 10 minutos. Luego, realizó ejercicios de estiramiento para sus piernas. **A continuación**, corrió a toda velocidad por la pista durante media hora. Para terminar, bebió mucha agua".
@@ -109,7 +118,7 @@ La organización de eventos cotidianos desarrolla la capacidad de planificación
 ### Enunciado
 ¿Qué significa la expresión resaltada en negrita "**A continuación**"?
 
-### Options
+### Opciones
 - [ ] A) Que la acción pasó mucho tiempo después. <!-- feedback: Incorrecto. Indica una secuencia inmediata o seguida. -->
 - [x] B) Que es la acción que sigue inmediatamente en el tiempo. <!-- feedback: ¡Correcto! Es un conector de secuencia que indica el siguiente paso. -->
 - [ ] C) Que fue lo primero que el atleta hizo. <!-- feedback: Incorrecto. Lo primero fue trotar. -->
@@ -125,6 +134,7 @@ El reconocimiento de conectores de secuencia (luego, después, a continuación) 
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Instrucciones para un experimento:**
@@ -133,7 +143,7 @@ El reconocimiento de conectores de secuencia (luego, después, a continuación) 
 ### Enunciado
 Si un niño agrega el colorante **antes** de poner el agua en el vaso, ¿qué está cambiando en el experimento?
 
-### Options
+### Opciones
 - [ ] A) El resultado final, porque el agua no se pintará. <!-- feedback: Incorrecto. El agua se pintará de todos modos cuando la eches. -->
 - [x] B) El orden de los pasos, pero probablemente el resultado sea parecido. <!-- feedback: ¡Correcto! Está alterando la secuencia, aunque en este caso específico la mezcla ocurrirá igual. -->
 - [ ] C) Los materiales, porque ahora necesita un vaso más grande. <!-- feedback: Incorrecto. El tamaño del vaso no cambia por el orden. -->
@@ -149,6 +159,7 @@ Analizar la flexibilidad de una secuencia instructiva ayuda a los estudiantes a 
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Antes de que sonara la campana del recreo, los estudiantes ya habían guardado sus cuadernos en los maletines. Cuando la profesora dio la señal, todos salieron ordenadamente al patio".
@@ -156,7 +167,7 @@ Analizar la flexibilidad de una secuencia instructiva ayuda a los estudiantes a 
 ### Enunciado
 ¿Qué evento sucedió **primero** en la realidad?
 
-### Options
+### Opciones
 - [ ] A) Sonó la campana del recreo. <!-- feedback: Incorrecto. El texto dice que "antes" de eso, ya habían guardado los cuadernos. -->
 - [x] B) Los estudiantes guardaron sus cuadernos. <!-- feedback: ¡Correcto! Esta acción ocurrió antes de cualquier otro sonido o señal. -->
 - [ ] C) Los niños jugaron en el patio. <!-- feedback: Incorrecto. Eso ocurrió después de salir del salón. -->
@@ -172,6 +183,7 @@ Comprender frases que usan "antes de que" requiere una lectura atenta para no co
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Para que un libro llegue a tus manos, primero un autor debe escribir la historia. Luego, una editorial revisa el texto y lo imprime en papel. Después, los camiones transportan los libros a las librerías. Finalmente, tú puedes comprarlo y leerlo".
@@ -179,7 +191,7 @@ Comprender frases que usan "antes de que" requiere una lectura atenta para no co
 ### Enunciado
 ¿Cuál es el papel de los camiones de transporte en esta secuencia de producción?
 
-### Options
+### Opciones
 - [ ] A) Escribir nuevas historias para los niños. <!-- feedback: Incorrecto. Eso lo hace el autor. -->
 - [ ] B) Vender los libros a las personas en la calle. <!-- feedback: Incorrecto. El texto dice que se venden en las librerías. -->
 - [x] C) Ser el enlace o conexión entre la imprenta y el lugar de venta (librerías). <!-- feedback: ¡Correcto! Es el paso logístico que permite que el libro se mueva de donde se hace a donde se vende. -->
@@ -195,6 +207,7 @@ Analizar la función de cada eslabón en una cadena de eventos ayuda al estudian
 **Bloom:** Analyze
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Imagina un cuento que se cuenta de atrás para adelante: "Y vivieron felices para siempre. Pero antes, tuvieron que vencer al dragón. Y mucho antes, se conocieron en un bosque encantado".
@@ -202,7 +215,7 @@ Imagina un cuento que se cuenta de atrás para adelante: "Y vivieron felices par
 ### Enunciado
 Si organizamos los hechos de forma **cronológica** (como pasaron en el tiempo), ¿cuál es el orden correcto?
 
-### Options
+### Opciones
 - [ ] A) Vivieron felices -> Vencieron al dragón -> Se conocieron. <!-- feedback: Incorrecto. Este es el orden del texto, no el cronológico. -->
 - [ ] B) Vencieron al dragón -> Se conocieron -> Vivieron felices. <!-- feedback: Incorrecto. Nadie vence dragones con personas que no conoce todavía. -->
 - [x] C) Se conocieron -> Vencieron al dragón -> Vivieron felices. <!-- feedback: ¡Correcto! Primero es el encuentro, luego la lucha contra el problema y al final la felicidad. -->

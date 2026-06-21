@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-4-2026-P3-geometria-angulos-001-MASTERY"
+id: "CO-MAT-4-2026-P3-geometria-angulos-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "matematicas"
@@ -16,19 +16,27 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Pensamiento espacial y sistemas geométricos, Pensamiento métrico y sistemas de medidas"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 ## Question 1 [D3]
 
 **ID:** `CO-MAT-4-2026-P3-geometria-angulos-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Observación de objetos en el salón de clases.
+**Contexto:** Observación de objetos en el salón de clases.
 
 ### Enunciado
 Al observar la esquina de un tablero rectangular, ¿qué tipo de ángulo se forma?
 
-### Options
+### Opciones
 - [ ] A) Ángulo agudo <!-- feedback: Incorrect. Un ángulo agudo mide menos de 90 grados y es más "cerrado" que la esquina de un tablero. Es un error de identificación de la amplitud del ángulo. -->
 - [x] B) Ángulo recto <!-- feedback: Correct. Las esquinas de los rectángulos y cuadrados forman ángulos de exactamente 90 grados, conocidos como ángulos rectos. -->
 - [ ] C) Ángulo obtuso <!-- feedback: Incorrect. Un ángulo obtuso mide más de 90 grados y es más "abierto" que una esquina perfectamente perpendicular. Es un error de clasificación geométrica. -->
@@ -42,14 +50,15 @@ Se evalúa la identificación de ángulos básicos en objetos del entorno. La re
 ## Question 2 [D3]
 
 **ID:** `CO-MAT-4-2026-P3-geometria-angulos-001-MASTERY-v2`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Formulación y ejecución]
-**Context:** Cerramiento de un jardín en una casa de campo en Antioquia.
+**Contexto:** Cerramiento de un jardín en una casa de campo en Antioquia.
 
 ### Enunciado
 Un jardín tiene forma de cuadrado y cada uno de sus lados mide 6 metros. ¿Cuál es el perímetro total del jardín?
 
-### Options
+### Opciones
 - [ ] A) 12 metros <!-- feedback: Incorrect. El estudiante pudo haber sumado solo dos lados del cuadrado en lugar de los cuatro. Es un error en la aplicación de la fórmula del perímetro. -->
 - [x] B) 24 metros <!-- feedback: Correct. El perímetro de un cuadrado es la suma de sus cuatro lados iguales. Como cada lado mide 6 metros, el cálculo es 6 + 6 + 6 + 6 = 24 metros (o 6 x 4 = 24). -->
 - [ ] C) 36 metros <!-- feedback: Incorrect. Este valor corresponde al ÁREA del cuadrado (6 x 6), no al perímetro. Es un error conceptual muy común entre longitud y superficie. -->
@@ -63,14 +72,15 @@ El concepto evaluado es el perímetro de polígonos regulares. La respuesta corr
 ## Question 3 [D4]
 
 **ID:** `CO-MAT-4-2026-P3-geometria-angulos-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Razonamiento y argumentación]
-**Context:** Clasificación de triángulos en un taller de dibujo técnico.
+**Contexto:** Clasificación de triángulos en un taller de dibujo técnico.
 
 ### Enunciado
 Si un triángulo tiene un ángulo que mide 120 grados, ¿cómo se clasifica según la medida de sus ángulos?
 
-### Options
+### Opciones
 - [ ] A) Triángulo acutángulo <!-- feedback: Incorrect. Los triángulos acutángulos tienen todos sus ángulos menores a 90 grados. 120 grados es mayor, por lo que no cumple esta condición. -->
 - [x] B) Triángulo obtusángulo <!-- feedback: Correct. Un triángulo es obtusángulo si tiene un ángulo obtuso, es decir, un ángulo que mide más de 90 grados y menos de 180 grados. 120 grados cumple esta condición. -->
 - [ ] C) Triángulo rectángulo <!-- feedback: Incorrect. Un triángulo rectángulo debe tener un ángulo de exactamente 90 grados. 120 grados no es un ángulo recto. -->
@@ -84,14 +94,15 @@ Se evalúa la clasificación de triángulos por sus ángulos. La respuesta corre
 ## Question 4 [D4]
 
 **ID:** `CO-MAT-4-2026-P3-geometria-angulos-001-MASTERY-v4`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Formulación y ejecución]
-**Context:** Cálculo del espacio para una alfombra en una sala en Cali.
+**Contexto:** Cálculo del espacio para una alfombra en una sala en Cali.
 
 ### Enunciado
 Una alfombra rectangular mide 3 metros de largo y 2 metros de ancho. ¿Cuántos metros cuadrados de piso cubre la alfombra? (Calcula el área).
 
-### Options
+### Opciones
 - [ ] A) 5 metros cuadrados <!-- feedback: Incorrect. El estudiante sumó las medidas de los lados (3 + 2) en lugar de multiplicarlas. Es un error conceptual sobre el cálculo del área. -->
 - [x] B) 6 metros cuadrados <!-- feedback: Correct. El área de un rectángulo se calcula multiplicando el largo por el ancho. En este caso: 3 metros x 2 metros = 6 metros cuadrados. -->
 - [ ] C) 10 metros cuadrados <!-- feedback: Incorrect. Este valor corresponde al perímetro del rectángulo (3+2+3+2), no al área. Es un error común confundir las dos medidas. -->
@@ -105,14 +116,15 @@ Se evalúa el cálculo del área de un rectángulo. La respuesta correcta utiliz
 ## Question 5 [D4]
 
 **ID:** `CO-MAT-4-2026-P3-geometria-angulos-001-MASTERY-v5`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Uso de instrumentos de medida en el colegio.
+**Contexto:** Uso de instrumentos de medida en el colegio.
 
 ### Enunciado
 ¿Cuál de los siguientes instrumentos es el más adecuado para medir la amplitud de un ángulo en grados?
 
-### Options
+### Opciones
 - [ ] A) Regla graduada <!-- feedback: Incorrect. La regla sirve para medir longitudes lineales en centímetros o milímetros, no amplitudes de ángulos. -->
 - [ ] B) Compás <!-- feedback: Incorrect. El compás se usa para trazar circunferencias o trasladar distancias, pero no tiene una escala para leer grados. -->
 - [x] C) Transportador <!-- feedback: Correct. El transportador es el instrumento diseñado específicamente con una escala graduada de 0 a 180 (o 360) grados para medir ángulos. -->
@@ -126,14 +138,15 @@ Se evalúa el conocimiento de los instrumentos de medición geométrica. La resp
 ## Question 6 [D5]
 
 **ID:** `CO-MAT-4-2026-P3-geometria-angulos-001-MASTERY-v6`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Razonamiento y argumentación]
-**Context:** Diseño de una baldosa decorativa en Tunja.
+**Contexto:** Diseño de una baldosa decorativa en Tunja.
 
 ### Enunciado
 Una baldosa tiene forma de hexágono regular. Si cada lado de la baldosa mide 8 centímetros, ¿cuál es su perímetro?
 
-### Options
+### Opciones
 - [ ] A) 16 centímetros <!-- feedback: Incorrect. El estudiante pudo haber considerado solo dos lados. Un hexágono tiene muchos más lados que un cuadrado o un rectángulo simple. -->
 - [ ] B) 40 centímetros <!-- feedback: Incorrect. Este sería el perímetro de un pentágono (5 lados). El estudiante confunde el número de lados de un hexágono con otro polígono. -->
 - [x] C) 48 centímetros <!-- feedback: Correct. Un hexágono regular tiene 6 lados iguales. Si cada lado mide 8 cm, el perímetro es 6 x 8 = 48 centímetros. -->
@@ -147,14 +160,15 @@ Se evalúa el cálculo del perímetro en polígonos de más de cuatro lados. La 
 ## Question 7 [D5]
 
 **ID:** `CO-MAT-4-2026-P3-geometria-angulos-001-MASTERY-v7`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Formulación y ejecución]
-**Context:** Construcción de una rampa en un parque de Manizales.
+**Contexto:** Construcción de una rampa en un parque de Manizales.
 
 ### Enunciado
 Una rampa forma un ángulo de 30 grados con el suelo. Si queremos que la rampa sea menos inclinada, ¿cuánto debería medir el ángulo?
 
-### Options
+### Opciones
 - [x] A) 15 grados <!-- feedback: Correct. Un ángulo menor (como 15 grados) significa que la rampa está más cerca del suelo, por lo tanto es menos inclinada. -->
 - [ ] B) 45 grados <!-- feedback: Incorrect. Al aumentar el ángulo a 45 grados, la rampa se vuelve más empinada o inclinada, lo cual es lo opuesto a lo solicitado. -->
 - [ ] C) 90 grados <!-- feedback: Incorrect. Un ángulo de 90 grados representaría una pared vertical, no una rampa. Es el máximo nivel de inclinación respecto al suelo horizontal. -->
@@ -168,14 +182,15 @@ Se evalúa la comprensión de la magnitud de los ángulos en contextos de inclin
 ## Question 8 [D5]
 
 **ID:** `CO-MAT-4-2026-P3-geometria-angulos-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Razonamiento y argumentación]
-**Context:** Comparación de áreas de figuras en una cuadrícula.
+**Contexto:** Comparación de áreas de figuras en una cuadrícula.
 
 ### Enunciado
 Tenemos dos rectángulos. El rectángulo A mide 4 cm de largo y 3 cm de ancho. El rectángulo B mide 6 cm de largo y 2 cm de ancho. ¿Qué podemos decir de sus áreas?
 
-### Options
+### Opciones
 - [ ] A) El área del rectángulo A es mayor que la de B. <!-- feedback: Incorrect. Al calcular el área de A (4x3=12) y de B (6x2=12), vemos que son exactamente iguales. Es un error de cálculo o comparación. -->
 - [ ] B) El área del rectángulo B es mayor que la de A. <!-- feedback: Incorrect. El estudiante podría pensar que por tener un lado de 6 cm es más grande, pero al multiplicar por el ancho menor el resultado es igual al de A. -->
 - [x] C) Ambas figuras tienen la misma área. <!-- feedback: Correct. El área de A es 4 cm x 3 cm = 12 cm². El área de B es 6 cm x 2 cm = 12 cm². A pesar de tener formas diferentes, cubren la misma superficie. -->
@@ -189,14 +204,15 @@ Se evalúa la comprensión de que figuras con diferentes dimensiones pueden tene
 ## Question 9 [D5]
 
 **ID:** `CO-MAT-4-2026-P3-geometria-angulos-001-MASTERY-v9`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Las manecillas de un reloj en la torre de una iglesia.
+**Contexto:** Las manecillas de un reloj en la torre de una iglesia.
 
 ### Enunciado
 Cuando un reloj marca exactamente las 3:00, ¿qué tipo de ángulo forman la manecilla del minutero y la de la hora?
 
-### Options
+### Opciones
 - [ ] A) Ángulo agudo <!-- feedback: Incorrect. A las 3:00, las manecillas están en posiciones perpendiculares, no en una apertura pequeña. -->
 - [x] B) Ángulo recto <!-- feedback: Correct. La manecilla de la hora apunta al 3 (horizontal) y la del minutero al 12 (vertical), formando un ángulo perfecto de 90 grados o recto. -->
 - [ ] C) Ángulo obtuso <!-- feedback: Incorrect. Un ángulo obtuso requeriría que las manecillas estuvieran más separadas, por ejemplo, marcando las 4:00 o las 5:00. -->
@@ -210,14 +226,15 @@ Se evalúa la aplicación del concepto de ángulos en sistemas de representació
 ## Question 10 [D4]
 
 **ID:** `CO-MAT-4-2026-P3-geometria-angulos-001-MASTERY-v10`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Formulación y ejecución]
-**Context:** Perímetro de una cancha de microfútbol en el barrio.
+**Contexto:** Perímetro de una cancha de microfútbol en el barrio.
 
 ### Enunciado
 Una cancha de microfútbol mide 28 metros de largo y 15 metros de ancho. Si un niño da una vuelta completa corriendo por todo el borde de la cancha, ¿cuántos metros recorrió?
 
-### Options
+### Opciones
 - [ ] A) 43 metros <!-- feedback: Incorrect. El estudiante solo sumó un largo y un ancho (28 + 15). Una vuelta completa requiere pasar por los cuatro lados de la cancha. -->
 - [ ] B) 420 metros <!-- feedback: Incorrect. Este valor es el resultado de multiplicar 28 x 15, lo cual daría el área de la cancha, no la distancia recorrida por el borde. Error conceptual área/perímetro. -->
 - [x] C) 86 metros <!-- feedback: Correct. Para dar una vuelta completa, se recorren dos largos y dos anchos: 28 + 28 + 15 + 15 = 86 metros. También se puede calcular como (28 + 15) x 2 = 86. -->

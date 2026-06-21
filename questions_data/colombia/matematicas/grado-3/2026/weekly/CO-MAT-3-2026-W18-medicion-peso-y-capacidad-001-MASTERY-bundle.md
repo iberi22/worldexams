@@ -1,11 +1,11 @@
 ---
-id: "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY"
+id: "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "matematicas"
 tema: "medicion-peso-y-capacidad"
 periodo: "weekly"
-semana: 18
+week: "W18"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -20,7 +20,12 @@ rubric_baseline: "kilogramo, gramo, litro, mililitro, estimacion"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W18: Medicion de Peso y Capacidad
 
@@ -31,12 +36,12 @@ Este bundle evalua kilogramo, gramo, litro, mililitro, estimacion, en contextos 
 **Bloom:** Remember
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.95
-**Context:** En Colegio Rafael Nunez de Cartagena de Medellin
+**Contexto:** En Colegio Rafael Nunez de Cartagena de Medellin
 
 ### Enunciado
 Cuantos lados tiene un triangulo?
 
-### Options
+### Opciones
 - [x] A) 3 <!-- feedback: Correcto! Triangulo tiene 3 lados. -->
 - [ ] B) 4 <!-- feedback: 4 lados es un cuadrilatero. -->
 - [ ] C) 2 <!-- feedback: Una figura con 2 lados no es cerrada. -->
@@ -51,12 +56,12 @@ Triangulo = 3 lados, 3 vertices. Tri significa 3.
 **Bloom:** Understand
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.91
-**Context:** En Colegio San Agustin de Sincelejo de Bucaramanga
+**Contexto:** En Colegio San Agustin de Sincelejo de Bucaramanga
 
 ### Enunciado
 Que figura geometrica tiene 4 lados iguales?
 
-### Options
+### Opciones
 - [x] A) Cuadrado <!-- feedback: Correcto! Cuadrado: 4 lados iguales, 4 angulos rectos. -->
 - [ ] B) Triangulo <!-- feedback: Triangulo tiene 3 lados. -->
 - [ ] C) Circulo <!-- feedback: Circulo no tiene lados. -->
@@ -71,12 +76,12 @@ Cuadrado: 4 lados iguales, 4 esquinas (vertices).
 **Bloom:** Apply
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.87
-**Context:** En Colegio San Bartolome de Bogota
+**Contexto:** En Colegio San Bartolome de Bogota
 
 ### Enunciado
 Un angulo recto mide cuantos grados?
 
-### Options
+### Opciones
 - [x] A) 90 grados <!-- feedback: Correcto! Angulo recto = 90 grados, como la esquina de un cuadrado. -->
 - [ ] B) 180 grados <!-- feedback: 180 grados es un angulo llano (linea recta). -->
 - [ ] C) 45 grados <!-- feedback: 45 grados es un angulo agudo. -->
@@ -91,12 +96,12 @@ Angulo recto = 90 grados. Es el angulo de las esquinas de cuadrados y rectangulo
 **Bloom:** Analyze
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.83
-**Context:** En Colegio Simon Bolivar de Bucaramanga de Neiva
+**Contexto:** En Colegio Simon Bolivar de Bucaramanga de Neiva
 
 ### Enunciado
 Cual figura tiene eje de simetria?
 
-### Options
+### Opciones
 - [x] A) Un cuadrado <!-- feedback: Correcto! Un cuadrado tiene 4 ejes de simetria. -->
 - [ ] B) Un triangulo escaleno <!-- feedback: Triangulo escaleno no tiene ejes de simetria. -->
 - [ ] C) Un rectangulo irregular <!-- feedback: Depende. Un rectangulo si tiene 2 ejes. -->
@@ -111,12 +116,12 @@ Eje de simetria: linea que divide la figura en dos partes identicas. Cuadrado: 4
 **Bloom:** Evaluate
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.79
-**Context:** En Colegio Nuestra Senora del Rosario de Popayan
+**Contexto:** En Colegio Nuestra Senora del Rosario de Popayan
 
 ### Enunciado
 Cuantos vertices tiene un cuadrado?
 
-### Options
+### Opciones
 - [x] A) 4 <!-- feedback: Correcto! Cuadrado tiene 4 vertices (esquinas). -->
 - [ ] B) 3 <!-- feedback: 3 vertices es un triangulo. -->
 - [ ] C) 6 <!-- feedback: 6 vertices es un hexagono. -->
@@ -131,12 +136,12 @@ Vertices: puntos donde se unen los lados. Cuadrado: 4 vertices.
 **Bloom:** Remember
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.75
-**Context:** En Colegio La Salle de Medellin de Bogota
+**Contexto:** En Colegio La Salle de Medellin de Bogota
 
 ### Enunciado
 Que figura NO tiene lados?
 
-### Options
+### Opciones
 - [x] A) Circulo <!-- feedback: Correcto! El circulo es una curva cerrada sin lados rectos. -->
 - [ ] B) Triangulo <!-- feedback: Triangulo tiene 3 lados rectos. -->
 - [ ] C) Cuadrado <!-- feedback: Cuadrado tiene 4 lados rectos. -->
@@ -151,12 +156,12 @@ Las figuras curvas como el circulo no tienen lados rectos. Se llaman curvas cerr
 **Bloom:** Understand
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.71
-**Context:** En Colegio San Jose de Pasto de Pasto
+**Contexto:** En Colegio San Jose de Pasto de Pasto
 
 ### Enunciado
 Cual de estos angulos es AGUDO?
 
-### Options
+### Opciones
 - [x] A) 30 grados <!-- feedback: Correcto! Agudo = menor de 90 grados. 30 < 90. -->
 - [ ] B) 90 grados <!-- feedback: 90 grados es angulo recto. -->
 - [ ] C) 120 grados <!-- feedback: 120 grados es obtuso (mayor de 90). -->
@@ -171,12 +176,12 @@ Angulos agudos miden entre 0 y 90 grados. Angulos obtusos miden entre 90 y 180.
 **Bloom:** Apply
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.67
-**Context:** En Colegio La Salle de Medellin de Bogota
+**Contexto:** En Colegio La Salle de Medellin de Bogota
 
 ### Enunciado
 Cuantos lados tiene un pentagono?
 
-### Options
+### Opciones
 - [x] A) 5 <!-- feedback: Correcto! Penta = 5. Pentagono = 5 lados. -->
 - [ ] B) 3 <!-- feedback: 3 lados = triangulo. Tri = 3. -->
 - [ ] C) 4 <!-- feedback: 4 lados = cuadrilatero. Tetra = 4. -->
@@ -191,12 +196,12 @@ Los nombres indican el numero de lados: pentagono (5), hexagono (6), octogono (8
 **Bloom:** Analyze
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.63
-**Context:** En Colegio Simon Bolivar de Bucaramanga de Sincelejo
+**Contexto:** En Colegio Simon Bolivar de Bucaramanga de Sincelejo
 
 ### Enunciado
 Cual figura tiene 0 vertices?
 
-### Options
+### Opciones
 - [x] A) Circulo <!-- feedback: Correcto! El circulo es una curva sin vertices. -->
 - [ ] B) Cuadrado <!-- feedback: Cuadrado tiene 4 vertices. -->
 - [ ] C) Triangulo <!-- feedback: Triangulo tiene 3 vertices. -->
@@ -211,12 +216,12 @@ Vertices son las puntas donde se unen lados rectos. Un circulo no tiene vertices
 **Bloom:** Evaluate
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.59
-**Context:** En Colegio San Agustin de Sincelejo de Pasto
+**Contexto:** En Colegio San Agustin de Sincelejo de Pasto
 
 ### Enunciado
 Cuantos lados tiene un triangulo?
 
-### Options
+### Opciones
 - [x] A) 3 <!-- feedback: Correcto! Triangulo tiene 3 lados. -->
 - [ ] B) 4 <!-- feedback: 4 lados es un cuadrilatero. -->
 - [ ] C) 2 <!-- feedback: Una figura con 2 lados no es cerrada. -->

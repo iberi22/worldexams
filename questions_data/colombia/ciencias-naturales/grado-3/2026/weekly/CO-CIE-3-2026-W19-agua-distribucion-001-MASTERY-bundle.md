@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W19-agua-distribucion-001-MASTERY"
+id: "CO-CIE-3-2026-W19-agua-distribucion-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "agua-distribucion"
-semana: "W19"
+week: "W19"
 periodo: 2
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Distribución del agua en la Tierra: agua salada y agua dulce.
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Distribución del Agua en la Tierra
 
 Este bundle explora dónde se encuentra el agua en nuestro planeta y por qué, aunque parece que hay mucha, solo una pequeña parte es apta para la vida terrestre y humana.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W19-agua-distribucion-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Al observar un globo terráqueo o una foto de la Tierra desde el espacio, se ve mayormente de color azul.
+**Contexto:** Al observar un globo terráqueo o una foto de la Tierra desde el espacio, se ve mayormente de color azul.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ La Tierra es un planeta de agua. Sin embargo, no todo el agua está en el mismo 
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W19-agua-distribucion-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** El agua de los océanos contiene una gran cantidad de minerales disueltos que la hacen tener un sabor característico.
+**Contexto:** El agua de los océanos contiene una gran cantidad de minerales disueltos que la hacen tener un sabor característico.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -73,12 +77,12 @@ El 97% de toda el agua de la Tierra es salada. Solo algunos animales, como los p
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W19-agua-distribucion-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En Colombia tenemos muchos ríos como el Magdalena y el Cauca, además de lagunas y quebradas.
+**Contexto:** En Colombia tenemos muchos ríos como el Magdalena y el Cauca, además de lagunas y quebradas.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -98,12 +102,12 @@ El agua dulce es un recurso muy escaso. Representa solo el 3% del total del agua
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W19-agua-distribucion-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Los científicos dicen que "el agua dulce es un tesoro escondido" porque la mayoría no está a la vista en los ríos.
+**Contexto:** Los científicos dicen que "el agua dulce es un tesoro escondido" porque la mayoría no está a la vista en los ríos.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ Esta es la gran paradoja: tenemos mucha agua pero la mayoría es salada, y de la
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W19-agua-distribucion-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Si cavamos un pozo muy profundo en la tierra, a veces encontramos agua limpia que sale con fuerza.
+**Contexto:** Si cavamos un pozo muy profundo en la tierra, a veces encontramos agua limpia que sale con fuerza.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -148,12 +152,12 @@ Las aguas subterráneas son vitales para la supervivencia humana. Muchas ciudade
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W19-agua-distribucion-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un náufrago está en medio del océano en una balsa. Tiene muchísima sed y está rodeado de agua azul por todas partes.
+**Contexto:** Un náufrago está en medio del océano en una balsa. Tiene muchísima sed y está rodeado de agua azul por todas partes.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -173,12 +177,12 @@ Beber agua salada es peligroso. El riñón humano no puede filtrar tanta sal y, 
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W19-agua-distribucion-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Colombia es uno de los países con más agua dulce del mundo, gracias a sus montañas, selvas y páramos.
+**Contexto:** Colombia es uno de los países con más agua dulce del mundo, gracias a sus montañas, selvas y páramos.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -198,12 +202,12 @@ Casi todo el agua que tomas en Colombia nació en un páramo. Estos lugares son 
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W19-agua-distribucion-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Tienes dos vasos iguales: uno con 100 mililitros de agua de río y otro con 100 mililitros de agua de mar.
+**Contexto:** Tienes dos vasos iguales: uno con 100 mililitros de agua de río y otro con 100 mililitros de agua de mar.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -223,12 +227,12 @@ Este experimento demuestra la diferencia de composición. El agua de mar tiene u
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W19-agua-distribucion-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** El cambio climático está calentando los polos, haciendo que grandes pedazos de hielo dulce se derritan y caigan al océano salado.
+**Contexto:** El cambio climático está calentando los polos, haciendo que grandes pedazos de hielo dulce se derritan y caigan al océano salado.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -248,12 +252,12 @@ Las reservas de agua dulce de los polos son como nuestra "cuenta de ahorros" de 
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W19-agua-distribucion-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un científico dice: "Vivimos en un planeta de agua, pero moriremos de sed si no la cuidamos".
+**Contexto:** Un científico dice: "Vivimos en un planeta de agua, pero moriremos de sed si no la cuidamos".
 **Expected_Success:** 0.60
 
 ### Enunciado

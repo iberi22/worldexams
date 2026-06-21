@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY"
+id: "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "opinion editorial"
-semana: "W35"
+week: "W35"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Artículo de Opinión y Editorial - Grado 7
 ## Semana W35 — Análisis crítico del género opinativo en medios colombianos
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En clase se analiza un editorial del periódico El Tiempo titulado "La urgencia de la reforma educativa" publicado el 15 de mayo de 2026.
+**Contexto:** En clase se analiza un editorial del periódico El Tiempo titulado "La urgencia de la reforma educativa" publicado el 15 de mayo de 2026.
 **Expected_Success:** 0.84
 
 ### Enunciado
@@ -39,11 +43,11 @@ El editorial es un género periodístico de opinión que expresa la posición in
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión del sentido global
-**Context:** Un artículo de opinión en El Colombiano comienza: "La movilidad en Medellín ha llegado a un punto crítico. Cada día, miles de ciudadanos pierden horas en trancones que podrían evitarse con una mejor planeación urbana."
+**Contexto:** Un artículo de opinión en El Colombiano comienza: "La movilidad en Medellín ha llegado a un punto crítico. Cada día, miles de ciudadanos pierden horas en trancones que podrían evitarse con una mejor planeación urbana."
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -60,11 +64,11 @@ La tesis es la idea central que el autor defiende a lo largo del texto. En un ar
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Configuración textual
-**Context:** Un editorial de El Heraldo (Barranquilla) está estructurado en: 1) introducción con el problema, 2) desarrollo con argumentos a favor, 3) mención breve de una opinión contraria, 4) conclusión que refuerza la postura del medio.
+**Contexto:** Un editorial de El Heraldo (Barranquilla) está estructurado en: 1) introducción con el problema, 2) desarrollo con argumentos a favor, 3) mención breve de una opinión contraria, 4) conclusión que refuerza la postura del medio.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -81,11 +85,11 @@ La concesión-refutación es una estrategia argumentativa en la que el autor rec
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Dimensión inferencial
-**Context:** Un artículo de opinión en un portal juvenil dice: "Si la jornada única escolar se implementa sin los recursos adecuados, los estudiantes de colegios públicos de estratos 1 y 2 serán los más afectados, pues no tienen alimentación ni transporte garantizados."
+**Contexto:** Un artículo de opinión en un portal juvenil dice: "Si la jornada única escolar se implementa sin los recursos adecuados, los estudiantes de colegios públicos de estratos 1 y 2 serán los más afectados, pues no tienen alimentación ni transporte garantizados."
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -102,11 +106,11 @@ Los argumentos basados en consecuencias son comunes en artículos de opinión. A
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Dimensión inferencial
-**Context:** El director de un colegio de Cali escribe una carta al editor de El País diciendo: "Como educador con 25 años de experiencia, puedo afirmar que la nueva política de evaluación es contraproducente."
+**Contexto:** El director de un colegio de Cali escribe una carta al editor de El País diciendo: "Como educador con 25 años de experiencia, puedo afirmar que la nueva política de evaluación es contraproducente."
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -123,11 +127,11 @@ En retórica clásica, Aristóteles identificó tres modos de persuasión: ethos
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Dimensión inferencial
-**Context:** Un columnista de El Espectador escribe: "Quienes se oponen a la reforma agraria olvidan que Colombia es un país con una de las distribuciones de tierra más desiguales del mundo."
+**Contexto:** Un columnista de El Espectador escribe: "Quienes se oponen a la reforma agraria olvidan que Colombia es un país con una de las distribuciones de tierra más desiguales del mundo."
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -144,11 +148,11 @@ La palabra "olvidan" en un texto argumentativo no es inocente. No afirma explíc
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Configuración textual
-**Context:** Un artículo de opinión en un diario digital sostiene: "La reforma pensional es necesaria. Primero, el sistema actual es insostenible financieramente. Segundo, millones de adultos mayores no tienen pensión. Tercero, otros países de la región ya la implementaron con éxito."
+**Contexto:** Un artículo de opinión en un diario digital sostiene: "La reforma pensional es necesaria. Primero, el sistema actual es insostenible financieramente. Segundo, millones de adultos mayores no tienen pensión. Tercero, otros países de la región ya la implementaron con éxito."
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -165,11 +169,11 @@ La estructura argumentativa típica de un artículo de opinión es: tesis + argu
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Dimensión inferencial
-**Context:** Dos columnistas escriben sobre el mismo tema: la minería en el Chocó. El primero la defiende como fuente de empleo. El segundo la critica por el daño ambiental.
+**Contexto:** Dos columnistas escriben sobre el mismo tema: la minería en el Chocó. El primero la defiende como fuente de empleo. El segundo la critica por el daño ambiental.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -186,11 +190,11 @@ Una de las funciones de la prensa es ser foro de debate público. Cuando un peri
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** Un editorial del periódico La Patria de Manizales afirma: "Los jóvenes de hoy no leen. Pasan todo el día en redes sociales viendo videos sin contenido educativo."
+**Contexto:** Un editorial del periódico La Patria de Manizales afirma: "Los jóvenes de hoy no leen. Pasan todo el día en redes sociales viendo videos sin contenido educativo."
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -207,11 +211,11 @@ La generalización excesiva es una falacia lógica donde se concluye algo sobre 
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** Un artículo de opinión titulado "La educación virtual no funciona" fue escrito por un docente que nunca ha enseñado en línea. El artículo critica la virtualidad sin mencionar plataformas ni metodologías específicas.
+**Contexto:** Un artículo de opinión titulado "La educación virtual no funciona" fue escrito por un docente que nunca ha enseñado en línea. El artículo critica la virtualidad sin mencionar plataformas ni metodologías específicas.
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ Un artículo de opinión no necesita ser escrito por un experto (de hecho, los p
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** Un lector escribe a la sección de Cartas al Editor de El Universal (Cartagena) criticando la tala de árboles para una construcción en la ciudad.
+**Contexto:** Un lector escribe a la sección de Cartas al Editor de El Universal (Cartagena) criticando la tala de árboles para una construcción en la ciudad.
 **Expected_Success:** 0.40
 
 ### Enunciado
@@ -249,11 +253,11 @@ Las cartas al editor son un género argumentativo accesible al ciudadano común.
 
 ---
 
-## Pregunta 12 [D9-D10]
+## Question 12 [D9-D10]
 **ID:** `CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Reflexión sobre el contenido
-**Context:** El periódico escolar del Colegio La Salle de Pereira les pide a los estudiantes escribir un editorial corto sobre la implementación del uniforme deportivo obligatorio. Deben tomar una postura y defenderla.
+**Contexto:** El periódico escolar del Colegio La Salle de Pereira les pide a los estudiantes escribir un editorial corto sobre la implementación del uniforme deportivo obligatorio. Deben tomar una postura y defenderla.
 **Expected_Success:** 0.36
 
 ### Enunciado

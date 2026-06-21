@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "colonia-virreinato"
-semana: "W17"
+week: "W17"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "La Colonia: Virreinato de Nueva Granada, instituciones colonia
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W17-colonia-virreinato-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 En que ano se creo el Virreinato de Nueva Granada?
@@ -39,12 +44,13 @@ El Virreinato de Nueva Granada fue creado en 1717 (restablecido en 1739) e inclu
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W17-colonia-virreinato-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que era el Virreinato de Nueva Granada?
@@ -60,12 +66,13 @@ El Virreinato era la maxima unidad administrativa espanola en America. El virrey
 
 ---
 
-## Pregunta 3 [D1]
+## Question 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W17-colonia-virreinato-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Como se llamaba la capital del Virreinato de Nueva Granada?
@@ -81,12 +88,13 @@ Santa Fe (hoy Bogota) fue la capital del Virreinato. Alli residia el virrey y fu
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W17-colonia-virreinato-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que era la Real Audiencia?
@@ -102,12 +110,13 @@ La Real Audiencia era el tribunal de justicia mas importante del virreinato, per
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W17-colonia-virreinato-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que ciudad era el principal puerto del Virreinato de Nueva Granada?
@@ -123,12 +132,13 @@ Cartagena de Indias fue el principal puerto del virreinato. Desde alli se embarc
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W17-colonia-virreinato-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que eran los 'resguardos indigenas'?
@@ -144,12 +154,13 @@ Los resguardos eran tierras cedidas por la corona a las comunidades indigenas pa
 
 ---
 
-## Pregunta 7 [D1]
+## Question 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W17-colonia-virreinato-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que papel jugaba la Iglesia Catolica durante la Colonia?
@@ -165,12 +176,13 @@ La Iglesia Catolica tenia un rol central: evangelizaba a los indigenas, dirigia 
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W17-colonia-virreinato-001-MASTERY-v8`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que recurso natural fue el mas explotado en el Virreinato de Nueva Granada?
@@ -186,12 +198,13 @@ El oro fue el recurso mas importante del virreinato. Las minas de Antioquia, Cau
 
 ---
 
-## Pregunta 9 [D3]
+## Question 9 [D3]
 
 **ID:** `CO-SOC-5-2026-W17-colonia-virreinato-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Como estaba organizada la sociedad colonial?
@@ -207,12 +220,13 @@ La sociedad colonial era jerarquica: espanoles peninsulares (cima), criollos, me
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W17-colonia-virreinato-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por que se creo el Virreinato de Nueva Granada?

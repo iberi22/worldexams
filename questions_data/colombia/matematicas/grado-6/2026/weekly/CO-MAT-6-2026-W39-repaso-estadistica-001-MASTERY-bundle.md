@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W39-repaso-estadistica-001-MASTERY"
+id: "CO-MAT-6-2026-W39-repaso-estadistica-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W39 — Repaso de Estadistica
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W39-repaso-estadistica-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Poblacion y muestra
+**Contexto:** Poblacion y muestra
 
 ### Enunciado
 En estadistica, ¿que es una "muestra"?
 
-### Options
+### Opciones
 - [x] A) Un subconjunto representativo de la poblacion que se estudia <!-- feedback: Correct. La muestra es una parte de la poblacion que se selecciona para realizar el estudio. -->
 - [ ] B) El conjunto completo de individuos que se quiere estudiar <!-- feedback: Incorrect. Eso es la poblacion, no la muestra. -->
 - [ ] C) El promedio de todos los datos recolectados <!-- feedback: Incorrect. Eso es la media. -->
@@ -48,13 +51,14 @@ En estadistica, la poblacion es el conjunto total de individuos que nos interesa
 
 **ID:** `CO-MAT-6-2026-W39-repaso-estadistica-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Diferencia entre dato cualitativo y cuantitativo
+**Contexto:** Diferencia entre dato cualitativo y cuantitativo
 
 ### Enunciado
 ¿Cual de los siguientes es un ejemplo de variable CUALITATIVA?
 
-### Options
+### Opciones
 - [ ] A) La estatura de los estudiantes en metros <!-- feedback: Incorrect. La estatura es numerica y medible, es una variable cuantitativa. -->
 - [ ] B) La edad en años cumplidos <!-- feedback: Incorrect. La edad es numerica, es cuantitativa. -->
 - [x] C) El color preferido de los estudiantes <!-- feedback: Correct. El color es una categoria, no un numero. Es una variable cualitativa. -->
@@ -72,13 +76,14 @@ Las cualitativas no se pueden sumar o promediar, solo contar frecuencias.
 
 **ID:** `CO-MAT-6-2026-W39-repaso-estadistica-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Calcular el rango
+**Contexto:** Calcular el rango
 
 ### Enunciado
 Las temperaturas maximas registradas en Cartagena durante una semana fueron: 30, 32, 31, 33, 30, 34, 32 (en °C). ¿Cual es el rango de las temperaturas?
 
-### Options
+### Opciones
 - [ ] A) 2°C <!-- feedback: Incorrect. El rango es diferencia entre maximo y minimo: 34 - 30 = 4°C. -->
 - [ ] B) 3°C <!-- feedback: Incorrect. Error de calculo. -->
 - [x] C) 4°C <!-- feedback: Correct. Maximo = 34°C, minimo = 30°C. Rango = 34 - 30 = 4°C. -->
@@ -93,13 +98,14 @@ El rango es la medida de dispersion mas simple: la diferencia entre el valor max
 
 **ID:** `CO-MAT-6-2026-W39-repaso-estadistica-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Frecuencia absoluta y relativa
+**Contexto:** Frecuencia absoluta y relativa
 
 ### Enunciado
 En un estudio sobre mascotas en un barrio de Sincelejo, 12 familias tienen perro, 8 tienen gato y 5 tienen otras mascotas. Si hay 25 familias encuestadas, ¿cual es la frecuencia relativa de las familias con perro?
 
-### Options
+### Opciones
 - [ ] A) 12 <!-- feedback: Incorrect. 12 es la frecuencia absoluta, no la relativa. -->
 - [ ] B) 12/25 <!-- feedback: Correct. Frecuencia relativa = frecuencia absoluta ÷ total = 12/25 = 0.48 = 48%. -->
 - [x] C) 12/25 <!-- feedback: Correct. 12 ÷ 25 = 0.48 = 48%. -->
@@ -114,13 +120,14 @@ La frecuencia absoluta es el numero de veces que aparece un dato (12 familias co
 
 **ID:** `CO-MAT-6-2026-W39-repaso-estadistica-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Media, mediana y moda de calificaciones
+**Contexto:** Media, mediana y moda de calificaciones
 
 ### Enunciado
 Las calificaciones de un grupo de 7 estudiantes en Neiva fueron: 2.0, 3.0, 3.5, 4.0, 4.0, 4.5, 5.0. ¿Cual es la mediana de las calificaciones?
 
-### Options
+### Opciones
 - [ ] A) 3.5 <!-- feedback: Incorrect. 3.5 es el 3er valor, pero con 7 datos la mediana es el 4° valor. -->
 - [x] B) 4.0 <!-- feedback: Correct. Datos ya ordenados. Posicion central = (7+1)÷2 = 4. 4° valor = 4.0. -->
 - [ ] C) 4.5 <!-- feedback: Incorrect. Es el 6° valor, no el central. -->
@@ -135,8 +142,9 @@ Los datos ya estan ordenados de menor a mayor. Con 7 datos (impar), la mediana e
 
 **ID:** `CO-MAT-6-2026-W39-repaso-estadistica-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Interpretacion de grafica de barras
+**Contexto:** Interpretacion de grafica de barras
 
 ### Enunciado
 La siguiente tabla muestra las ventas de empanadas en una cafeteria de Popayan:
@@ -148,7 +156,7 @@ La siguiente tabla muestra las ventas de empanadas en una cafeteria de Popayan:
 
 Si se construye una grafica de barras con estos datos, la barra del viernes es mas alta que la del lunes por:
 
-### Options
+### Opciones
 - [ ] A) 10 empanadas <!-- feedback: Incorrect. 70 - 40 = 30, no 10. -->
 - [ ] B) 20 empanadas <!-- feedback: Incorrect. 70 - 40 = 30. -->
 - [x] C) 30 empanadas <!-- feedback: Correct. Viernes: 70, Lunes: 40. Diferencia = 70 - 40 = 30 empanadas. -->
@@ -163,8 +171,9 @@ En una grafica de barras, la altura de cada barra representa la frecuencia. Vier
 
 **ID:** `CO-MAT-6-2026-W39-repaso-estadistica-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Tabla de frecuencias
+**Contexto:** Tabla de frecuencias
 
 ### Enunciado
 En un curso de 30 estudiantes en Manizales, se pregunto cuantos hermanos tienen:
@@ -176,7 +185,7 @@ En un curso de 30 estudiantes en Manizales, se pregunto cuantos hermanos tienen:
 
 ¿Cuantos estudiantes tienen 2 o menos hermanos?
 
-### Options
+### Opciones
 - [ ] A) 17 <!-- feedback: Incorrect. 5 + 12 = 17, pero falta incluir los de 2 hermanos. -->
 - [ ] B) 20 <!-- feedback: Incorrect. 12 + 8 = 20, olvidando los de 0 hermanos. -->
 - [x] C) 25 <!-- feedback: Correct. 0 hermanos (5) + 1 hermano (12) + 2 hermanos (8) = 25 estudiantes. -->
@@ -191,13 +200,14 @@ Sumamos las frecuencias de las categorias que cumplen la condicion "2 o menos he
 
 **ID:** `CO-MAT-6-2026-W39-repaso-estadistica-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Seleccion de medida de tendencia central
+**Contexto:** Seleccion de medida de tendencia central
 
 ### Enunciado
 Un grupo de 10 amigos en Bogota registro el dinero que gastaron en el cine (en miles de pesos): 8, 10, 10, 12, 12, 15, 15, 15, 15, 50. ¿Cual medida de tendencia central es la mas representativa del gasto tipico de un amigo?
 
-### Options
+### Opciones
 - [ ] A) La media, porque es la mas conocida <!-- feedback: Incorrect. La media es (8+10+10+12+12+15+15+15+15+50)÷10 = 162÷10 = 16.2. Pero 9 de 10 gastaron menos de 16.2. -->
 - [x] B) La mediana, porque el dato de 50 distorsiona la media <!-- feedback: Correct. Mediana = promedio posiciones 5 y 6 = (12+15)÷2 = 13.5 mil. Representa mejor el gasto tipico. -->
 - [ ] C) La moda, que es 15 <!-- feedback: La moda (15) tambien es buena opcion, pero la mediana (13.5) esta mas cerca de la mayoria. -->
@@ -217,8 +227,9 @@ Cuando hay valores extremos (50), la media se distorsiona. La mediana (13.5) rep
 
 **ID:** `CO-MAT-6-2026-W39-repaso-estadistica-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Comparacion de dos conjuntos de datos
+**Contexto:** Comparacion de dos conjuntos de datos
 
 ### Enunciado
 Dos grupos de estudiantes de grado 6° presentaron el mismo examen de matematicas. Las notas fueron:
@@ -227,7 +238,7 @@ Dos grupos de estudiantes de grado 6° presentaron el mismo examen de matematica
 
 ¿Cual afirmacion es CORRECTA?
 
-### Options
+### Opciones
 - [ ] A) El grupo A tiene un rendimiento mas homogeneo (uniforme) <!-- feedback: Incorrect. Grupo A tiene notas de 2.0 a 5.0 (rango 3.0). Grupo B tiene de 3.0 a 4.0 (rango 1.0). B es mas homogeneo. -->
 - [ ] B) Ambos grupos tienen la misma media <!-- feedback: Incorrect. Media A = 18÷5 = 3.6. Media B = 18÷5 = 3.6. Correcto, tienen la misma media. -->
 - [x] C) El grupo B tiene menor dispersion que el grupo A <!-- feedback: Correct. Grupo A: rango = 5.0-2.0 = 3.0. Grupo B: rango = 4.0-3.0 = 1.0. B es mas homogeneo. -->
@@ -246,8 +257,9 @@ Aunque tienen la misma media (3.6), son muy diferentes: el grupo A tiene estudia
 
 **ID:** `CO-MAT-6-2026-W39-repaso-estadistica-010-v1`
 **Bloom:** Synthesize
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Encuesta y toma de decisiones
+**Contexto:** Encuesta y toma de decisiones
 
 ### Enunciado
 La alcaldia de un municipio colombiano realizo una encuesta a 200 habitantes sobre la prioridad de inversion:
@@ -258,7 +270,7 @@ La alcaldia de un municipio colombiano realizo una encuesta a 200 habitantes sob
 
 Si los resultados se representan en una grafica circular, ¿que porcentaje del circulo representa el sector de Educacion y que decision deberia tomar la alcaldia?
 
-### Options
+### Opciones
 - [ ] A) 25%; invertir en partes iguales <!-- feedback: Incorrect. Educacion tiene 80/200 = 40%, no 25%. -->
 - [x] B) 40%; invertir mas en educacion por ser la mayor prioridad <!-- feedback: Correct. Educacion = 80/200 = 0.4 = 40%. Es la categoria con mas votos, por lo que la alcaldia deberia priorizar la inversion en educacion. -->
 - [ ] C) 80%; invertir solo en educacion <!-- feedback: Incorrect. 80 es el numero de votos, no el porcentaje. El 40% no es mayoria absoluta. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W38-probabilidad-basica-001-MASTERY"
+id: "CO-MAT-6-2026-W38-probabilidad-basica-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W38 — Probabilidad Basica
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W38-probabilidad-basica-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Concepto de probabilidad
+**Contexto:** Concepto de probabilidad
 
 ### Enunciado
 La probabilidad de un evento se define como:
 
-### Options
+### Opciones
 - [ ] A) El numero total de resultados posibles <!-- feedback: Incorrect. Ese es el espacio muestral, no la probabilidad. -->
 - [x] B) El cociente entre casos favorables y casos posibles <!-- feedback: Correct. Probabilidad = Casos favorables ÷ Casos posibles. -->
 - [ ] C) El numero de veces que ocurre un evento <!-- feedback: Incorrect. Esa es la frecuencia, no la probabilidad teorica. -->
@@ -48,13 +51,14 @@ La probabilidad mide la posibilidad de que ocurra un evento. Se calcula como P =
 
 **ID:** `CO-MAT-6-2026-W38-probabilidad-basica-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Valores de probabilidad
+**Contexto:** Valores de probabilidad
 
 ### Enunciado
 Si un evento tiene probabilidad 0, significa que el evento es:
 
-### Options
+### Opciones
 - [ ] A) Muy probable <!-- feedback: Incorrect. Probabilidad 1 o cercana a 1 indica muy probable. -->
 - [ ] B) Poco probable <!-- feedback: Incorrect. Poco probable seria cercano a 0, pero no exactamente 0. -->
 - [x] C) Imposible <!-- feedback: Correct. Probabilidad 0 significa que el evento no puede ocurrir. -->
@@ -74,13 +78,14 @@ La probabilidad se mide en una escala de 0 a 1 (o de 0% a 100%):
 
 **ID:** `CO-MAT-6-2026-W38-probabilidad-basica-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Probabilidad al lanzar un dado
+**Contexto:** Probabilidad al lanzar un dado
 
 ### Enunciado
 Se lanza un dado de 6 caras (numeradas del 1 al 6). ¿Cual es la probabilidad de obtener un numero par?
 
-### Options
+### Opciones
 - [ ] A) 1/6 <!-- feedback: Incorrect. Solo hay 1 numero par entre 6, hay 3: 2, 4, 6. -->
 - [ ] B) 1/2 <!-- feedback: Correct. Numeros pares: 2, 4, 6 (3 favorables). Casos posibles: 6. P = 3/6 = 1/2. -->
 - [x] C) 1/2 <!-- feedback: Correct. P = 3/6 = 1/2 = 0.5 = 50%. -->
@@ -95,13 +100,14 @@ Casos posibles al lanzar un dado: {1, 2, 3, 4, 5, 6} = 6. Casos favorables (nume
 
 **ID:** `CO-MAT-6-2026-W38-probabilidad-basica-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Probabilidad en una loteria escolar
+**Contexto:** Probabilidad en una loteria escolar
 
 ### Enunciado
 En la feria de la ciencia de un colegio en Tunja, hay una rifa con 80 boletas numeradas del 1 al 80. Camila compro 5 boletas. ¿Cual es la probabilidad de que Camila gane la rifa?
 
-### Options
+### Opciones
 - [ ] A) 1/80 <!-- feedback: Incorrect. Eso seria si solo tuviera 1 boleta. -->
 - [x] B) 5/80 <!-- feedback: Correct. Casos favorables = 5 (sus boletas), Casos posibles = 80. P = 5/80 = 1/16. -->
 - [ ] C) 80/5 <!-- feedback: Incorrect. La probabilidad nunca es mayor que 1. 80/5 = 16, que es imposible. -->
@@ -116,13 +122,14 @@ Casos posibles: 80 boletas. Casos favorables para Camila: 5 boletas que compro. 
 
 **ID:** `CO-MAT-6-2026-W38-probabilidad-basica-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Modelacion
-**Context:** Probabilidad de eventos compuestos
+**Contexto:** Probabilidad de eventos compuestos
 
 ### Enunciado
 Se tiene una bolsa con 3 canicas rojas, 2 azules y 5 verdes. Se saca una canica al azar. ¿Cual es la probabilidad de que sea azul?
 
-### Options
+### Opciones
 - [ ] A) 1/5 <!-- feedback: Correct. Canicas azules = 2. Total canicas = 3+2+5 = 10. P = 2/10 = 1/5 = 0.2. -->
 - [x] B) 1/5 <!-- feedback: Correct. P(azul) = 2/10 = 1/5 = 0.2 = 20%. -->
 - [ ] C) 2/8 <!-- feedback: Incorrect. Se tomo 10-2 = 8 en el denominador, pero deben ser todos los casos posibles (10). -->
@@ -137,8 +144,9 @@ Total de canicas: 3 + 2 + 5 = 10. Canicas azules: 2. P(azul) = 2/10 = 1/5 = 0.2 
 
 **ID:** `CO-MAT-6-2026-W38-probabilidad-basica-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Probabilidad en una ruleta de colores
+**Contexto:** Probabilidad en una ruleta de colores
 
 ### Enunciado
 En la feria de Bucaramanga hay una ruleta dividida en 8 sectores iguales:
@@ -149,7 +157,7 @@ En la feria de Bucaramanga hay una ruleta dividida en 8 sectores iguales:
 
 Si se gira la ruleta, ¿cual es la probabilidad de que caiga en un sector que NO sea rojo?
 
-### Options
+### Opciones
 - [ ] A) 3/8 <!-- feedback: Incorrect. 3/8 es la probabilidad de que SEA rojo. -->
 - [ ] B) 5/8 <!-- feedback: Correct. Sectores no rojos = 2+2+1 = 5. P = 5/8 = 0.625 = 62.5%. -->
 - [x] C) 5/8 <!-- feedback: Correct. P(no rojo) = 1 - P(rojo) = 1 - 3/8 = 5/8. -->
@@ -168,13 +176,14 @@ La probabilidad de que NO ocurra un evento es 1 menos la probabilidad de que ocu
 
 **ID:** `CO-MAT-6-2026-W38-probabilidad-basica-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Probabilidad con monedas
+**Contexto:** Probabilidad con monedas
 
 ### Enunciado
 Se lanzan dos monedas al mismo tiempo. ¿Cual es la probabilidad de obtener exactamente una cara y un sello?
 
-### Options
+### Opciones
 - [ ] A) 1/4 <!-- feedback: Incorrect. Solo hay 1 caso de 4 con exactamente 1 cara y 1 sello? Revisemos. -->
 - [x] B) 1/2 <!-- feedback: Correct. Resultados posibles: CC, CS, SC, SS. Favorables: CS, SC = 2. P = 2/4 = 1/2. -->
 - [ ] C) 3/4 <!-- feedback: Incorrect. 3/4 seria obtener al menos una cara. -->
@@ -189,13 +198,14 @@ Espacio muestral al lanzar 2 monedas: {CC, CS, SC, SS} = 4 resultados posibles. 
 
 **ID:** `CO-MAT-6-2026-W38-probabilidad-basica-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Probabilidad en una bolsa de frutas
+**Contexto:** Probabilidad en una bolsa de frutas
 
 ### Enunciado
 En una canasta de frutas en un mercado de Valledupar hay: 4 mangos, 6 naranjas y 2 papayas. Se escoge una fruta al azar. ¿Cual es la probabilidad de que NO sea naranja?
 
-### Options
+### Opciones
 - [ ] A) 1/2 <!-- feedback: Correct. Frutas no naranja = 4 + 2 = 6. Total = 12. P = 6/12 = 1/2. -->
 - [x] B) 1/2 <!-- feedback: Correct. P(no naranja) = (4+2)/12 = 6/12 = 1/2 = 50%. -->
 - [ ] C) 6/12 <!-- feedback: Tambien correcto: 6/12 = 1/2. -->
@@ -210,13 +220,14 @@ Total de frutas: 4 + 6 + 2 = 12. Frutas que NO son naranja: mangos (4) + papayas
 
 **ID:** `CO-MAT-6-2026-W38-probabilidad-basica-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Comparacion de probabilidades
+**Contexto:** Comparacion de probabilidades
 
 ### Enunciado
 En una tómbola hay bolas numeradas del 1 al 20. Se saca una bola al azar. ¿Cual evento tiene MAYOR probabilidad?
 
-### Options
+### Opciones
 - [ ] A) Sacar un numero menor que 5 <!-- feedback: Numeros < 5: {1,2,3,4} = 4. P = 4/20 = 0.2. -->
 - [ ] B) Sacar un numero par <!-- feedback: Pares: {2,4,6,8,10,12,14,16,18,20} = 10. P = 10/20 = 0.5. -->
 - [x] C) Sacar un numero par <!-- feedback: Correct. P(par) = 10/20 = 0.5 es la mayor probabilidad. -->
@@ -237,13 +248,14 @@ El evento "sacar un numero par" tiene la mayor probabilidad (0.5).
 
 **ID:** `CO-MAT-6-2026-W38-probabilidad-basica-010-v1`
 **Bloom:** Synthesize
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Diseno de un juego de feria
+**Contexto:** Diseno de un juego de feria
 
 ### Enunciado
 En una feria escolar en Santa Marta, disenan un juego: en una caja hay 5 bolas rojas y 3 azules. El jugador paga $1,000, saca una bola sin mirar, y gana $5,000 si saca una bola azul, pero no gana nada si saca roja. ¿Es justo este juego para los jugadores?
 
-### Options
+### Opciones
 - [ ] A) Si, porque hay mas bolas rojas que azules y el premio es bueno <!-- feedback: Incorrect. Analicemos numericamente. -->
 - [ ] B) No, porque la probabilidad de ganar es solo 3/8 = 0.375 = 37.5% y el premio esperado es menor que el costo <!-- feedback: Correct. Valor esperado = P(ganar) × premio - costo = (3/8 × 5,000) - 1,000 = 1,875 - 1,000 = 875. El jugador espera ganar $875 en promedio, pero paga $1,000. La ganancia esperada es -$125. -->
 - [x] C) No, porque el valor esperado de ganancia es menor que el costo de jugar <!-- feedback: Correct. VE = (3/8 × 5,000) = 1,875. Costo = 1,000. El jugador espera ganar $875 netos. Pero la ganancia esperada es negativa: 875 - 1000 = -125. -->

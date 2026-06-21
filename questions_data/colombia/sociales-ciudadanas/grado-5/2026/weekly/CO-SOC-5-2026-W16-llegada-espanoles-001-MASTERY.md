@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "llegada-espanoles"
-semana: "W16"
+week: "W16"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "La conquista espanola: llegada, fundaciones, resistencia indig
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W16-llegada-espanoles-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 En que ano llego Cristobal Colon a America?
@@ -39,12 +44,13 @@ Cristobal Colon, patrocinado por los Reyes Catolicos de Espana, llego a America 
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W16-llegada-espanoles-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Quien fue el primer espanol en explorar el territorio colombiano?
@@ -60,12 +66,13 @@ Alonso de Ojeda, acompanado por Juan de la Cosa y Americo Vespucio, llego al cab
 
 ---
 
-## Pregunta 3 [D1]
+## Question 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W16-llegada-espanoles-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cual fue la primera ciudad fundada por los espanoles en Colombia?
@@ -81,12 +88,13 @@ Santa Marta, fundada el 29 de julio de 1525, es la ciudad mas antigua de Colombi
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W16-llegada-espanoles-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Quien fundo la ciudad de Bogota?
@@ -102,12 +110,13 @@ Gonzalo Jimenez de Quesada llego al altiplano cundiboyacense en 1537 y fundo San
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W16-llegada-espanoles-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que cultura indigena fue conquistada por Jimenez de Quesada?
@@ -123,12 +132,13 @@ Jimenez de Quesada conquisto el territorio Muisca, derrotando al Zipa Sagipa y a
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W16-llegada-espanoles-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que fue la 'encomienda' durante la colonia?
@@ -144,12 +154,13 @@ La encomienda era una institucion colonial que asignaba un grupo de indigenas a 
 
 ---
 
-## Pregunta 7 [D1]
+## Question 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W16-llegada-espanoles-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que resistieron los indigenas Taironas ante los espanoles?
@@ -165,12 +176,13 @@ Los Taironas resistieron la invasion espanola durante decadas. Su ubicacion en m
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W16-llegada-espanoles-001-MASTERY-v8`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que ciudades fundo Sebastian de Belalcazar en Colombia?
@@ -186,12 +198,13 @@ Sebastian de Belalcazar, proveniente de Peru, fundo Cali (1536), Popayan (1537) 
 
 ---
 
-## Pregunta 9 [D4]
+## Question 9 [D4]
 
 **ID:** `CO-SOC-5-2026-W16-llegada-espanoles-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Como afecto la llegada de los espanoles a la poblacion indigena?
@@ -207,12 +220,13 @@ La poblacion indigena se redujo drasticamente por la violencia de la conquista, 
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W16-llegada-espanoles-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por que los espanoles pudieron conquistar America a pesar de ser menos numerosos?

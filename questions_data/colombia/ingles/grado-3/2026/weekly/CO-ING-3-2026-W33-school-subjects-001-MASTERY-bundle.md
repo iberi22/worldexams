@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W33-school-subjects-001-MASTERY"
+id: "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "school-subjects"
 periodo: "weekly"
-semana: 33
+week: "W33"
 year: 2026
 protocol_version: "5.2"
 bundle_index: 1
@@ -21,7 +21,10 @@ license: "FREE"
 tier: "mastery"
 creador: "Jules"
 
+bundle_type: "weekly"
+total_questions: 10
 ---
+
 
 # Weekly Pack W33: School Subjects (A1)
 
@@ -34,12 +37,12 @@ This bundle focuses on identifying the names of basic school subjects in English
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
-**Context:** Working with numbers.
+**Contexto:** Working with numbers.
 
 ### Enunciado
 In which subject do you study **numbers**, **addition**, and **subtraction**? ➕➖
 
-### Options
+### Opciones
 - [ ] A) Art <!-- feedback: Incorrect. Art is for drawing. -->
 - [x] B) Math <!-- feedback: Correct! Math (Mathematics) is about numbers. -->
 - [ ] C) Music <!-- feedback: Incorrect. -->
@@ -55,12 +58,12 @@ In which subject do you study **numbers**, **addition**, and **subtraction**? �
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
-**Context:** Learning a new language.
+**Contexto:** Learning a new language.
 
 ### Enunciado
 What is the name of **this** subject where you learn to say "Hello", "Apple", and "Red"? 🇺🇸🇬🇧
 
-### Options
+### Opciones
 - [ ] A) Spanish <!-- feedback: Incorrect. That is our first language in Colombia. -->
 - [x] B) English <!-- feedback: Correct! English is the subject we are studying now. -->
 - [ ] C) Science <!-- feedback: Incorrect. -->
@@ -76,12 +79,12 @@ What is the name of **this** subject where you learn to say "Hello", "Apple", an
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
-**Context:** Learning about nature.
+**Contexto:** Learning about nature.
 
 ### Enunciado
 In **Science** class, you learn about **animals**, **plants**, and the **planet**. True or False? 🔬
 
-### Options
+### Opciones
 - [x] A) True <!-- feedback: Correct! Science covers nature and the physical world. -->
 - [ ] B) False <!-- feedback: Incorrect. Science is indeed about nature. -->
 
@@ -95,12 +98,12 @@ In **Science** class, you learn about **animals**, **plants**, and the **planet*
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
-**Context:** Being creative.
+**Contexto:** Being creative.
 
 ### Enunciado
 What subject do you have when you use **crayons**, **paint**, and **brushes**? 🎨
 
-### Options
+### Opciones
 - [ ] A) Math <!-- feedback: Incorrect. -->
 - [ ] B) Science <!-- feedback: Incorrect. -->
 - [x] C) Art <!-- feedback: Correct! Art is for creativity and drawing. -->
@@ -116,12 +119,12 @@ What subject do you have when you use **crayons**, **paint**, and **brushes**? �
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
-**Context:** Playing instruments.
+**Contexto:** Playing instruments.
 
 ### Enunciado
 I play the **recorder** (flauta) and I **sing** songs in this class. It is... 🎵
 
-### Options
+### Opciones
 - [ ] A) Math <!-- feedback: Incorrect. -->
 - [x] B) Music <!-- feedback: Correct! Music class is for sounds and songs. -->
 - [ ] C) Geography <!-- feedback: Incorrect. -->
@@ -137,12 +140,12 @@ I play the **recorder** (flauta) and I **sing** songs in this class. It is... �
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
-**Context:** Physical activity.
+**Contexto:** Physical activity.
 
 ### Enunciado
 In **P.E.** class, we **run**, **jump**, and play **sports**. What does **P.E.** mean? 🏃‍♂️
 
-### Options
+### Opciones
 - [x] A) Physical Education <!-- feedback: Correct! P.E. is the short form of Physical Education. -->
 - [ ] B) Paper Exercise <!-- feedback: Incorrect. -->
 - [ ] C) Play English <!-- feedback: Incorrect. -->
@@ -158,12 +161,12 @@ In **P.E.** class, we **run**, **jump**, and play **sports**. What does **P.E.**
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
-**Context:** Reading and writing in Colombia.
+**Contexto:** Reading and writing in Colombia.
 
 ### Enunciado
 In Colombia, we use this subject to read stories like "Rafael Pombo" and practice our **main language**.
 
-### Options
+### Opciones
 - [ ] A) English <!-- feedback: Incorrect. English is a second language. -->
 - [x] B) Spanish <!-- feedback: Correct! Spanish is our primary subject for reading and writing. -->
 - [ ] C) Math <!-- feedback: Incorrect. -->
@@ -179,12 +182,12 @@ In Colombia, we use this subject to read stories like "Rafael Pombo" and practic
 **Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
-**Context:** Identifying subject by tools.
+**Contexto:** Identifying subject by tools.
 
 ### Enunciado
 Which subject uses **maps** and studies the **mountains** and **rivers** of Colombia? 🗺️
 
-### Options
+### Opciones
 - [ ] A) Math <!-- feedback: Incorrect. -->
 - [ ] B) Music <!-- feedback: Incorrect. -->
 - [x] C) Geography <!-- feedback: Correct! Geography is about places and maps. -->
@@ -200,12 +203,12 @@ Which subject uses **maps** and studies the **mountains** and **rivers** of Colo
 **Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
-**Context:** Categorizing subjects.
+**Contexto:** Categorizing subjects.
 
 ### Enunciado
 Which group has **only** subjects related to **Science and Numbers**?
 
-### Options
+### Opciones
 - [ ] A) Art and Music <!-- feedback: Incorrect. These are creative arts. -->
 - [x] B) Math and Science <!-- feedback: Correct! Both use logic, numbers, and observation. -->
 - [ ] C) English and Spanish <!-- feedback: Incorrect. These are languages. -->
@@ -221,12 +224,12 @@ Analizar la naturaleza de las materias. Las matemáticas y las ciencias forman e
 **Bloom:** Evaluate
 **ICFES:** Pragmática
 **Expected_Success:** 0.50
-**Context:** Deciding which book to use.
+**Contexto:** Deciding which book to use.
 
 ### Enunciado
 You need to solve the problem: **15 + 5 = ?**. Which notebook should you open?
 
-### Options
+### Opciones
 - [x] A) My Math notebook <!-- feedback: Correct! Math is for solving numerical problems. -->
 - [ ] B) My Art notebook <!-- feedback: Incorrect. -->
 - [ ] C) My Music notebook <!-- feedback: Incorrect. -->

@@ -1,28 +1,32 @@
 ---
-id: "CO-CN-7-2026-W03-genetica-basica-001-MASTERY"
+id: "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "ciencias-naturales"
 tema: "genetica-basica"
-semana: "W03"
+week: "W03"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Genética Básica - Grado 7
 ## Semana W03 — Genes, herencia y Mendel
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de ciencias del Colegio Colombo Británico de Bogotá, el profesor pregunta qué es la genética.
+**Contexto:** En la clase de ciencias del Colegio Colombo Británico de Bogotá, el profesor pregunta qué es la genética.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La genética es la rama de la biología que estudia cómo se transmiten las cara
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** María está estudiando los términos básicos de genética para su examen en el colegio de Medellín.
+**Contexto:** María está estudiando los términos básicos de genética para su examen en el colegio de Medellín.
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -60,11 +64,11 @@ Un gen es un fragmento de ADN que contiene la información necesaria para determ
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En su clase de Cali, Carlos aprende sobre los conceptos de dominante y recesivo.
+**Contexto:** En su clase de Cali, Carlos aprende sobre los conceptos de dominante y recesivo.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -81,11 +85,11 @@ Un alelo es una versión específica de un gen. Los alelos dominantes se represe
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Laura quiere saber por qué ella tiene ojos marrones si su mamá tiene ojos azules y su papá ojos marrones. Vive en Barranquilla.
+**Contexto:** Laura quiere saber por qué ella tiene ojos marrones si su mamá tiene ojos azules y su papá ojos marrones. Vive en Barranquilla.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -102,11 +106,11 @@ Los rasgos recesivos solo se expresan cuando la persona tiene dos copias del ale
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** En el colegio de Cartagena, Santiago hace un cruce genético entre dos plantas de guisantes: una homocigota dominante (AA) y una homocigota recesiva (aa).
+**Contexto:** En el colegio de Cartagena, Santiago hace un cruce genético entre dos plantas de guisantes: una homocigota dominante (AA) y una homocigota recesiva (aa).
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -123,11 +127,11 @@ Cuando se cruza un homocigoto dominante (AA) con un homocigoto recesivo (aa), to
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
-**Context:** Daniel ayuda a su hermana menor con el tema de árboles genealógicos en el colegio de Bucaramanga.
+**Contexto:** Daniel ayuda a su hermana menor con el tema de árboles genealógicos en el colegio de Bucaramanga.
 **Expected_Success:** 0.73
 
 ### Enunciado
@@ -144,11 +148,11 @@ El cruce Aa × Aa produce las siguientes combinaciones: AA (25%), Aa (50%), aa (
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Valentina compara los experimentos de Mendel sobre guisantes con la herencia humana. Estudia en Pereira.
+**Contexto:** Valentina compara los experimentos de Mendel sobre guisantes con la herencia humana. Estudia en Pereira.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Mendel eligió guisantes (Pisum sativum) porque: tienen características fácilm
 
 ---
 
-## Pregunta 8 [D6]
+## Question 8 [D6]
 **ID:** `CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Camila observa que su hermana tiene el mismo hoyuelo en la barbilla que su papá, pero su mamá no tiene hoyuelo. Viven en Manizales.
+**Contexto:** Camila observa que su hermana tiene el mismo hoyuelo en la barbilla que su papá, pero su mamá no tiene hoyuelo. Viven en Manizales.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -186,11 +190,11 @@ Si el hoyuelo es dominante (H), una persona lo tendrá si su genotipo es HH o Hh
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Sebastián investiga sobre enfermedades genéticas en su clase de ciencias de Ibagué. Escucha sobre la fibrosis quística, una enfermedad recesiva.
+**Contexto:** Sebastián investiga sobre enfermedades genéticas en su clase de ciencias de Ibagué. Escucha sobre la fibrosis quística, una enfermedad recesiva.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ Para que un hijo exprese una enfermedad recesiva, debe heredar dos alelos recesi
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Isabella debate con su compañero: "¿Un hijo siempre se parece a sus padres?" El profesor en Neiva les pide argumentos.
+**Contexto:** Isabella debate con su compañero: "¿Un hijo siempre se parece a sus padres?" El profesor en Neiva les pide argumentos.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -228,11 +232,11 @@ Cada persona hereda exactamente el 50% de su ADN de su madre y el 50% de su padr
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Andrés escucha que "los gemelos idénticos tienen el mismo ADN" y pregunta si es cierto en su colegio de Sincelejo.
+**Contexto:** Andrés escucha que "los gemelos idénticos tienen el mismo ADN" y pregunta si es cierto en su colegio de Sincelejo.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -249,11 +253,11 @@ Los gemelos idénticos o monocigóticos se forman cuando un único óvulo fecund
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En clase de ciencias en Tunja, el profesor dice: "La genética mendeliana es solo una parte de cómo se heredan los caracteres." Los estudiantes se preguntan por qué.
+**Contexto:** En clase de ciencias en Tunja, el profesor dice: "La genética mendeliana es solo una parte de cómo se heredan los caracteres." Los estudiantes se preguntan por qué.
 **Expected_Success:** 0.42
 
 ### Enunciado

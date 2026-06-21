@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W11-presuposiciones-001-MASTERY"
+id: "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "presuposiciones"
-semana: "W11"
+week: "W11"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Presuposiciones - Grado 7
 ## Semana W11 — Supuestos implícitos en el lenguaje
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comunicativa — lextora
-**Context:** En la clase de Lectura Crítica del Colegio José Celestino Mutis de Bogotá, la profesora explica qué es una presuposición.
+**Contexto:** En la clase de Lectura Crítica del Colegio José Celestino Mutis de Bogotá, la profesora explica qué es una presuposición.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Las presuposiciones son supuestos que se activan al usar ciertas palabras o estr
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comunicativa — lextora
-**Context:** Santiago escucha a su profesora decir: "Los estudiantes que terminaron la tarea pueden salir al recreo."
+**Contexto:** Santiago escucha a su profesora decir: "Los estudiantes que terminaron la tarea pueden salir al recreo."
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -60,11 +64,11 @@ La expresión "los que terminaron" (una cláusula de relativo especificativa) pr
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Comunicativa — lextora
-**Context:** En el colegio San Carlos de Medellín, el profesor de sociales dice: "Colombia debería aprovechar mejor su posición geográfica."
+**Contexto:** En el colegio San Carlos de Medellín, el profesor de sociales dice: "Colombia debería aprovechar mejor su posición geográfica."
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ Los verbos como "debería", "tendría que", "podría" (verbos modales en condici
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicativa — crítica
-**Context:** La profesora de Lectura Crítica del Colegio de la Presentación de Bogotá escribe: "El gobierno volvió a aumentar el precio de la gasolina."
+**Contexto:** La profesora de Lectura Crítica del Colegio de la Presentación de Bogotá escribe: "El gobierno volvió a aumentar el precio de la gasolina."
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -102,11 +106,11 @@ El verbo "volver a" + infinitivo es un activador de presuposiciones. "Volvió a 
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Comunicativa — analítica
-**Context:** En el colegio de Soledad, el profesor de Lengua escribe en el tablero: "Es increíble que algunos estudiantes aún no sepan leer críticamente."
+**Contexto:** En el colegio de Soledad, el profesor de Lengua escribe en el tablero: "Es increíble que algunos estudiantes aún no sepan leer críticamente."
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -123,11 +127,11 @@ Las expresiones de evaluación emocional como "es increíble que", "es lamentabl
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — crítica
-**Context:** En el colegio de Pitalito, los estudiantes analizan una pregunta de una encuesta: "¿Está usted de acuerdo con que el gobierno aumente los impuestos para mejorar la educación?"
+**Contexto:** En el colegio de Pitalito, los estudiantes analizan una pregunta de una encuesta: "¿Está usted de acuerdo con que el gobierno aumente los impuestos para mejorar la educación?"
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -144,11 +148,11 @@ Las preguntas pueden contener presuposiciones que sesgan la respuesta. Esta preg
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — analítica
-**Context:** En el colegio de Tierradentro, los estudiantes analizan un texto que dice: "El director lamentó que los estudiantes hubieran organizado la protesta sin autorización."
+**Contexto:** En el colegio de Tierradentro, los estudiantes analizan un texto que dice: "El director lamentó que los estudiantes hubieran organizado la protesta sin autorización."
 **Expected_Success:** 0.56
 
 ### Enunciado
@@ -165,11 +169,11 @@ Los verbos factivos como "lamentar", "saber", "comprender", "darse cuenta de" pr
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — crítica
-**Context:** En el colegio de Ocaña, la profesora de sociales muestra una propaganda política: "Este candidato SÍ cumple lo que promete, a diferencia de los políticos tradicionales."
+**Contexto:** En el colegio de Ocaña, la profesora de sociales muestra una propaganda política: "Este candidato SÍ cumple lo que promete, a diferencia de los políticos tradicionales."
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -186,11 +190,11 @@ La expresión "a diferencia de" activa una presuposición comparativa: la frase 
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Comunicativa — lextora
-**Context:** En el colegio de Chiquinquirá, el profesor de naturales dice: "El calentamiento global sigue siendo una amenaza para el planeta."
+**Contexto:** En el colegio de Chiquinquirá, el profesor de naturales dice: "El calentamiento global sigue siendo una amenaza para el planeta."
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -207,11 +211,11 @@ Los adverbios temporales como "sigue", "aún", "todavía" activan presuposicione
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — analítica
-**Context:** En la clase de Lectura Crítica del Colegio Gonzalo Jiménez de Quesada de Bogotá, los estudiantes analizan: "Incluso los expertos reconocen que el sistema educativo necesita cambios profundos."
+**Contexto:** En la clase de Lectura Crítica del Colegio Gonzalo Jiménez de Quesada de Bogotá, los estudiantes analizan: "Incluso los expertos reconocen que el sistema educativo necesita cambios profundos."
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ La palabra "incluso" (y su variante "hasta") activa presuposiciones escalares. "
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — crítica
-**Context:** En el colegio de Honda, los estudiantes analizan el siguiente titular: "Después del escándalo, el senador renunció a su curul."
+**Contexto:** En el colegio de Honda, los estudiantes analizan el siguiente titular: "Después del escándalo, el senador renunció a su curul."
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -249,11 +253,11 @@ Las expresiones temporales como "después de X" presuponen que X ocurrió. Adem�
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — analítica
-**Context:** En la evaluación de la semana del Colegio Anglo-Colombiano de Bogotá, la profesora presenta una oración y pide identificar todas las presuposiciones.
+**Contexto:** En la evaluación de la semana del Colegio Anglo-Colombiano de Bogotá, la profesora presenta una oración y pide identificar todas las presuposiciones.
 **Expected_Success:** 0.32
 
 ### Enunciado

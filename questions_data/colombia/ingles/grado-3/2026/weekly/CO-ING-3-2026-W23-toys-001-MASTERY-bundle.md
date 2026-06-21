@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W23-toys-001-MASTERY"
+id: "CO-ING-3-2026-W23-toys-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "toys"
 periodo: "weekly"
-semana: 23
+week: "W23"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "Vocabulary for common toys: ball, doll, car, kite, bike, etc."
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W23: Toys (A1)
 
@@ -32,11 +37,12 @@ Este bundle evalúa el vocabulario de juguetes en inglés.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is this toy: ⚽ ?
 
-### Options
+### Opciones
 - [x] A) Ball <!-- feedback: Correct! That is a ball. -->
 - [ ] B) Doll <!-- feedback: Incorrect. -->
 - [ ] C) Car <!-- feedback: Incorrect. -->
@@ -52,11 +58,12 @@ Un balón o pelota se dice "ball".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Muñeca"** in English?
 
-### Options
+### Opciones
 - [ ] A) Ball <!-- feedback: Incorrect. -->
 - [x] B) Doll <!-- feedback: Correct! Doll is muñeca. -->
 - [ ] C) Kite <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ Una muñeca se dice "doll" en inglés.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What toy has **four wheels** (cuatro ruedas)? 🏎️
 
-### Options
+### Opciones
 - [ ] A) Kite <!-- feedback: Incorrect. -->
 - [ ] B) Doll <!-- feedback: Incorrect. -->
 - [x] C) Car <!-- feedback: Correct! Toy cars have wheels. -->
@@ -92,11 +100,12 @@ Un carro de juguete se dice "car".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Cometa"** in English? 🪁
 
-### Options
+### Opciones
 - [x] A) Kite <!-- feedback: Correct! Kite is cometa. -->
 - [ ] B) Bike <!-- feedback: Incorrect. Bike is bicicleta. -->
 - [ ] C) Plane <!-- feedback: Incorrect. -->
@@ -112,11 +121,12 @@ La cometa se dice "kite". Se vuela cuando hace viento.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Bicicleta"** in English?
 
-### Options
+### Opciones
 - [ ] A) Car <!-- feedback: Incorrect. -->
 - [x] B) Bike <!-- feedback: Correct! Bike is short for bicycle. -->
 - [ ] C) Bus <!-- feedback: Incorrect. -->
@@ -132,11 +142,12 @@ La bicicleta se dice "bicycle" o simplemente "bike".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is a **"Teddy bear"**? 🧸
 
-### Options
+### Opciones
 - [ ] A) Un perro de juguete <!-- feedback: Incorrect. -->
 - [x] B) Un oso de peluche <!-- feedback: Correct! -->
 - [ ] C) Una pelota blanda <!-- feedback: Incorrect. -->
@@ -152,11 +163,12 @@ Un oso de peluche se llama "teddy bear".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 You use them to **build** houses or towers: 🧱
 
-### Options
+### Opciones
 - [ ] A) Dolls <!-- feedback: Incorrect. -->
 - [x] B) Blocks <!-- feedback: Correct! Blocks are for building. -->
 - [ ] C) Balls <!-- feedback: Incorrect. -->
@@ -172,11 +184,12 @@ Los bloques de construcción se llaman "blocks".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Videojuego"** in English? 🎮
 
-### Options
+### Opciones
 - [ ] A) Board game <!-- feedback: Incorrect. Board game is juego de mesa. -->
 - [x] B) Video game <!-- feedback: Correct! -->
 - [ ] C) Toy game <!-- feedback: Incorrect. -->
@@ -192,11 +205,12 @@ Los videojuegos se dicen "video games".
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Complete: **"I play with my _______ in the park."** (COMETA)
 
-### Options
+### Opciones
 - [ ] A) bike <!-- feedback: Incorrect. -->
 - [x] B) kite <!-- feedback: Correct! -->
 - [ ] C) doll <!-- feedback: Incorrect. -->
@@ -212,11 +226,12 @@ Volamos la cometa (kite) en el parque.
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Which toy is **soft** (suave)?
 
-### Options
+### Opciones
 - [ ] A) Toy car <!-- feedback: Incorrect. It is hard. -->
 - [x] B) Teddy bear <!-- feedback: Correct! Teddy bears are soft. -->
 - [ ] C) Blocks <!-- feedback: Incorrect. They are hard. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-SOCIAL-8-2026-P4-comprehensive-001-MASTERY"
+id: "CO-SOCIAL-8-2026-P4-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Guerra Fría, organizaciones internacionales, Colombia contemp
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Guerra Fría, Organización Internacional y Colombia Contemporánea
 
@@ -31,13 +36,14 @@ Este bundle cubre la Guerra Fría, las organizaciones internacionales y la Colom
 
 **ID:** `CO-SOCIAL-8-2026-P4-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En una clase de historia en Bogotá, el profesor introduce el tema de la Guerra Fría.
+**Contexto:** En una clase de historia en Bogotá, el profesor introduce el tema de la Guerra Fría.
 
 ### Enunciado
 ¿Entre qué dos potencias se desarrolló la Guerra Fría?
 
-### Options
+### Opciones
 - [ ] A) Francia y Alemania. <!-- feedback: Incorrect. Fueron rivales en las guerras mundiales. -->
 - [x] B) Estados Unidos y la Unión Soviética (URSS). <!-- feedback: Correct. La Guerra Fría enfrentó al bloque capitalista (EE.UU.) contra el bloque comunista (URSS). -->
 - [ ] C) China y Japón. <!-- feedback: Incorrect. Fueron rivales regionales. -->
@@ -52,13 +58,14 @@ La Guerra Fría (1947-1991) fue un conflicto político, ideológico, económico 
 
 **ID:** `CO-SOCIAL-8-2026-P4-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** Un estudiante en Medellín estudia las organizaciones internacionales.
+**Contexto:** Un estudiante en Medellín estudia las organizaciones internacionales.
 
 ### Enunciado
 ¿Cuál es el nombre de la organización internacional creada después de la Segunda Guerra Mundial para mantener la paz y seguridad mundial?
 
-### Options
+### Opciones
 - [ ] A) Liga de las Naciones. <!-- feedback: Incorrect. La Liga fue creada después de la Primera Guerra Mundial. -->
 - [x] B) Organización de las Naciones Unidas (ONU). <!-- feedback: Correct. La ONU fue fundada en 1945. -->
 - [ ] C) Organización de Estados Americanos (OEA). <!-- feedback: Incorrect. La OEA es una organización regional, no mundial. -->
@@ -73,13 +80,14 @@ La Organización de las Naciones Unidas (ONU) fue fundada en 1945 por 51 países
 
 **ID:** `CO-SOCIAL-8-2026-P4-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En clase de sociales en Cali, se analiza el Muro de Berlín.
+**Contexto:** En clase de sociales en Cali, se analiza el Muro de Berlín.
 
 ### Enunciado
 ¿Cuál era el propósito del Muro de Berlín, construido en 1961?
 
-### Options
+### Opciones
 - [ ] A) Proteger Berlín de invasiones externas. <!-- feedback: Incorrect. El propósito era interno. -->
 - [x] B) Evitar que los ciudadanos de la Alemania Oriental escaparan hacia la Alemania Occidental (capitalista). <!-- feedback: Correct. El Muro dividió Berlín y se convirtió en símbolo de la Guerra Fría. -->
 - [ ] C) Separar Francia de Alemania. <!-- feedback: Incorrect. Berlín está en Alemania. -->
@@ -94,13 +102,14 @@ El Muro de Berlín (1961-1989) fue construido por la Alemania Oriental comunista
 
 **ID:** `CO-SOCIAL-8-2026-P4-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** Un profesor en Barranquilla explica el conflicto armado en Colombia contemporánea.
+**Contexto:** Un profesor en Barranquilla explica el conflicto armado en Colombia contemporánea.
 
 ### Enunciado
 ¿Qué ocurrió en el año 2016 en relación con el conflicto armado colombiano?
 
-### Options
+### Opciones
 - [ ] A) Se inició la guerra con las FARC. <!-- feedback: Incorrect. Las FARC surgieron en 1964. -->
 - [ ] B) Se firmó el Tratado de Paz con el ELN. <!-- feedback: Incorrect. Las negociaciones con el ELN continuaban. -->
 - [x] C) Se firmó el Acuerdo de Paz con las FARC-EP. <!-- feedback: Correct. El 24 de noviembre de 2016 se firmó el Acuerdo Final de Paz en el Teatro Colón. -->
@@ -115,13 +124,14 @@ El Acuerdo de Paz entre el gobierno colombiano (presidente Juan Manuel Santos) y
 
 **ID:** `CO-SOCIAL-8-2026-P4-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** Se analiza la influencia de la Guerra Fría en América Latina.
+**Contexto:** Se analiza la influencia de la Guerra Fría en América Latina.
 
 ### Enunciado
 ¿Cómo influyó la Guerra Fría en América Latina?
 
-### Options
+### Opciones
 - [ ] A) No tuvo influencia porque América Latina no era importante. <!-- feedback: Incorrect. América Latina fue un escenario clave. -->
 - [x] B) Estados Unidos intervino en varios países para evitar la expansión del comunismo, apoyando dictaduras militares y combatiendo movimientos de izquierda. <!-- feedback: Correct. Ejemplos: Guatemala (1954), Chile (1973), Argentina (1976). -->
 - [ ] C) La Unión Soviética colonizó América Latina. <!-- feedback: Incorrect. La URSS tuvo influencia (Cuba) pero no colonizó. -->
@@ -136,13 +146,14 @@ Durante la Guerra Fría, Estados Unidos aplicó la Doctrina de Seguridad Naciona
 
 **ID:** `CO-SOCIAL-8-2026-P4-comprehensive-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En clase de sociales, se estudian las funciones de la ONU.
+**Contexto:** En clase de sociales, se estudian las funciones de la ONU.
 
 ### Enunciado
 ¿Cuál de los siguientes es un órgano principal de la ONU?
 
-### Options
+### Opciones
 - [ ] A) Banco Mundial. <!-- feedback: Incorrect. El Banco Mundial es una organización financiera independiente. -->
 - [ ] B) Fondo Monetario Internacional (FMI). <!-- feedback: Incorrect. El FMI es una organización financiera independiente. -->
 - [x] C) Consejo de Seguridad. <!-- feedback: Correct. El Consejo de Seguridad es el órgano encargado de mantener la paz y seguridad internacional. -->
@@ -157,13 +168,14 @@ Los órganos principales de la ONU son: Asamblea General, Consejo de Seguridad, 
 
 **ID:** `CO-SOCIAL-8-2026-P4-comprehensive-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante en Bucaramanga pregunta por qué la Guerra Fría se llama "fría".
+**Contexto:** Un estudiante en Bucaramanga pregunta por qué la Guerra Fría se llama "fría".
 
 ### Enunciado
 ¿Por qué se denomina "Guerra Fría" al conflicto entre EE.UU. y la URSS?
 
-### Options
+### Opciones
 - [ ] A) Porque ocurrió en climas fríos. <!-- feedback: Incorrect. No tiene relación con el clima. -->
 - [x] B) Porque no hubo un enfrentamiento militar directo entre las dos superpotencias, pero hubo tensiones constantes. <!-- feedback: Correct. "Fría" porque no hubo guerra caliente directa. -->
 - [ ] C) Porque duró poco tiempo. <!-- feedback: Incorrect. Duró más de 40 años. -->
@@ -178,13 +190,14 @@ La Guerra Fría se llama así porque no hubo un enfrentamiento militar directo e
 
 **ID:** `CO-SOCIAL-8-2026-P4-comprehensive-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** Se analiza la Constitución de 1991 en Colombia.
+**Contexto:** Se analiza la Constitución de 1991 en Colombia.
 
 ### Enunciado
 ¿Qué cambio importante introdujo la Constitución de 1991 en Colombia?
 
-### Options
+### Opciones
 - [x] A) Colombia se definió como un Estado Social de Derecho, se creó la tutela, se reconoció la diversidad étnica y cultural, y se fortaleció la descentralización. <!-- feedback: Correct. La Constitución de 1991 fue un hito en derechos humanos y participación ciudadana. -->
 - [ ] B) Se estableció el sistema federal. <!-- feedback: Incorrect. Colombia siguió siendo centralista. -->
 - [ ] C) Se eliminó la tutela. <!-- feedback: Incorrect. La tutela fue creada por la Constitución de 1991. -->
@@ -199,13 +212,14 @@ La Constitución de 1991, promovida por la Asamblea Nacional Constituyente tras 
 
 **ID:** `CO-SOCIAL-8-2026-P4-comprehensive-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se analiza la caída del Muro de Berlín en 1989.
+**Contexto:** Se analiza la caída del Muro de Berlín en 1989.
 
 ### Enunciado
 ¿Qué simbolizó la caída del Muro de Berlín en 1989?
 
-### Options
+### Opciones
 - [ ] A) El inicio de la Guerra Fría. <!-- feedback: Incorrect. La Guerra Fría comenzó en 1947. -->
 - [ ] B) La unificación de América. <!-- feedback: Incorrect. No tiene relación. -->
 - [x] C) El fin de la división de Alemania y el colapso del bloque comunista en Europa del Este. <!-- feedback: Correct. La caída del Muro fue el símbolo del fin de la Guerra Fría. -->
@@ -220,13 +234,14 @@ La caída del Muro de Berlín el 9 de noviembre de 1989 marcó el comienzo del f
 
 **ID:** `CO-SOCIAL-8-2026-P4-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En clase, se discute el papel de Colombia en la comunidad internacional.
+**Contexto:** En clase, se discute el papel de Colombia en la comunidad internacional.
 
 ### Enunciado
 ¿A qué organización internacional regional pertenece Colombia?
 
-### Options
+### Opciones
 - [ ] A) Unión Africana. <!-- feedback: Incorrect. Esa es una organización africana. -->
 - [ ] B) ASEAN. <!-- feedback: Incorrect. Esa es una organización del sudeste asiático. -->
 - [x] C) Organización de Estados Americanos (OEA). <!-- feedback: Correct. Colombia es miembro fundador de la OEA desde 1948. -->
@@ -241,13 +256,14 @@ Colombia pertenece a varias organizaciones internacionales: ONU, OEA, Alianza de
 
 **ID:** `CO-SOCIAL-8-2026-P4-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante afirma: "La Guerra Fría terminó porque Estados Unidos venció militarmente a la Unión Soviética."
+**Contexto:** Un estudiante afirma: "La Guerra Fría terminó porque Estados Unidos venció militarmente a la Unión Soviética."
 
 ### Enunciado
 ¿Es correcta esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Sí, EE.UU. invadió la URSS. <!-- feedback: Incorrect. No hubo invasión. -->
 - [ ] B) Sí, la URSS perdió en una guerra directa. <!-- feedback: Incorrect. No hubo guerra directa. -->
 - [x] C) No. La URSS colapsó por factores internos: crisis económica, reformas fallidas de Gorbachov (perestroika y glasnost), y presión de movimientos independentistas en sus repúblicas. <!-- feedback: Correct. El colapso soviético fue principalmente interno. -->
@@ -262,13 +278,14 @@ La Unión Soviética se disolvió en 1991 debido a una combinación de factores 
 
 **ID:** `CO-SOCIAL-8-2026-P4-comprehensive-001-MASTERY-v12`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** Se analiza la Misión de Verificación de la ONU en Colombia tras el Acuerdo de Paz.
+**Contexto:** Se analiza la Misión de Verificación de la ONU en Colombia tras el Acuerdo de Paz.
 
 ### Enunciado
 ¿Cuál ha sido el papel de la ONU en el posconflicto colombiano?
 
-### Options
+### Opciones
 - [ ] A) Gobernar Colombia temporalmente. <!-- feedback: Incorrect. La ONU no gobierna Colombia. -->
 - [x] B) Verificar el proceso de desarme, desmovilización y reintegración (DDR) de las FARC y monitorear la implementación del Acuerdo de Paz. <!-- feedback: Correct. La Misión de Verificación de la ONU en Colombia apoya la implementación del acuerdo. -->
 - [ ] C) Imponer sanciones económicas. <!-- feedback: Incorrect. La ONU ha apoyado la paz. -->
@@ -283,13 +300,14 @@ La ONU estableció una Misión de Verificación en Colombia (Resolución 2366 de
 
 **ID:** `CO-SOCIAL-8-2026-P4-comprehensive-001-MASTERY-v13`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se comparan dos momentos clave: el Frente Nacional (1958-1974) y el Acuerdo de Paz (2016).
+**Contexto:** Se comparan dos momentos clave: el Frente Nacional (1958-1974) y el Acuerdo de Paz (2016).
 
 ### Enunciado
 ¿Qué tienen en común estos dos procesos históricos en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Ambos buscaban la independencia de España. <!-- feedback: Incorrect. No tienen relación con la independencia. -->
 - [ ] B) Ambos fueron fracasos totales. <!-- feedback: Incorrect. Tuvieron logros y limitaciones. -->
 - [x] C) Ambos fueron intentos de poner fin a ciclos de violencia política mediante acuerdos entre las partes en conflicto. <!-- feedback: Correct. El Frente Nacional buscó terminar La Violencia; el Acuerdo de Paz buscó terminar el conflicto con las FARC. -->
@@ -304,13 +322,14 @@ Tanto el Frente Nacional (1958) como el Acuerdo de Paz (2016) fueron esfuerzos c
 
 **ID:** `CO-SOCIAL-8-2026-P4-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante dice: "La Guerra Fría fue hace mucho tiempo y ya no afecta la política mundial actual."
+**Contexto:** Un estudiante dice: "La Guerra Fría fue hace mucho tiempo y ya no afecta la política mundial actual."
 
 ### Enunciado
 ¿Es correcta esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque el mundo ha cambiado completamente. <!-- feedback: Incorrect. Muchas dinámicas actuales tienen raíces en la Guerra Fría. -->
 - [x] B) No. Aunque la Guerra Fría terminó, muchas de sus consecuencias persisten: división de Corea, tensiones entre Rusia y Occidente, presencia de armas nucleares, alianzas militares como la OTAN. <!-- feedback: Correct. El legado de la Guerra Fría sigue vigente en muchos conflictos actuales. -->
 - [ ] C) Sí, porque la URSS ya no existe. <!-- feedback: Incorrect. La desaparición de la URSS no borró todas las consecuencias. -->
@@ -325,13 +344,14 @@ La Guerra Fría terminó formalmente en 1991, pero su legado es visible hoy: la 
 
 **ID:** `CO-SOCIAL-8-2026-P4-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Reflexivo
-**Context:** Un analista político afirma: "El conflicto armado colombiano no se puede entender sin considerar el contexto de la Guerra Fría."
+**Contexto:** Un analista político afirma: "El conflicto armado colombiano no se puede entender sin considerar el contexto de la Guerra Fría."
 
 ### Enunciado
 ¿Qué evidencia respalda esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) El conflicto colombiano fue independiente de la política global. <!-- feedback: Incorrect. Estuvo influenciado. -->
 - [ ] B) La Guerra Fría solo afectó a Europa. <!-- feedback: Incorrect. Afectó a todo el mundo. -->
 - [x] C) Durante la Guerra Fría, EE.UU. apoyó al gobierno colombiano en la lucha contra grupos de izquierda, la URSS inspiró ideológicamente a algunas guerrillas, y el narcotráfico se fortaleció en ese contexto. <!-- feedback: Correct. El conflicto colombiano fue influenciado por la dinámica global de la Guerra Fría. -->

@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W21-humor-001-MASTERY"
+id: "CO-LC-7-2026-W21-humor-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "humor"
-semana: "W21"
+week: "W21"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Humor - Grado 7
 ## Semana W21 — Mecanismos y funciones del humor en textos
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W21-humor-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de Lectura Crítica del Colegio Ciudad Jardín de Cali, el profesor explica los mecanismos básicos del humor.
+**Contexto:** En la clase de Lectura Crítica del Colegio Ciudad Jardín de Cali, el profesor explica los mecanismos básicos del humor.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La teoría de la incongruencia explica que el humor surge cuando se presenta alg
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W21-humor-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un profesor dice: "Les voy a contar el chiste más corto del mundo: un pez le pregunta a otro: ¿qué hace tu papá? Nada."
+**Contexto:** Un profesor dice: "Les voy a contar el chiste más corto del mundo: un pez le pregunta a otro: ¿qué hace tu papá? Nada."
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -60,11 +64,11 @@ Este chiste usa la ambigüedad semántica: la palabra "nada" tiene dos significa
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W21-humor-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una caricatura política colombiana, un político dice: "Prometo reducir la corrupción a la mitad." Otro responde: "¿Con qué mitad te quedas: la que robas tú o la que roban los demás?"
+**Contexto:** En una caricatura política colombiana, un político dice: "Prometo reducir la corrupción a la mitad." Otro responde: "¿Con qué mitad te quedas: la que robas tú o la que roban los demás?"
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -81,11 +85,11 @@ El humor, especialmente la caricatura política, tiene una función social impor
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W21-humor-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** En un programa de humor colombiano, un comediante imita a un presentador de noticias leyendo las noticias del día con voz seria pero diciendo disparates.
+**Contexto:** En un programa de humor colombiano, un comediante imita a un presentador de noticias leyendo las noticias del día con voz seria pero diciendo disparates.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -102,11 +106,11 @@ La incongruencia entre el formato serio (presentador de noticias, voz grave) y e
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W21-humor-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un meme, aparece la imagen de un perro con corbata frente a un computador. El texto dice: "Cuando tu jefe te pide estar en la reunión virtual a las 7 am y tú todavía no eres una persona funcional."
+**Contexto:** En un meme, aparece la imagen de un perro con corbata frente a un computador. El texto dice: "Cuando tu jefe te pide estar en la reunión virtual a las 7 am y tú todavía no eres una persona funcional."
 **Expected_Success:** 0.64
 
 ### Enunciado
@@ -123,11 +127,11 @@ El meme funciona por identificación: muestra una situación absurda (un perro e
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W21-humor-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En un cuento humorístico colombiano, un personaje dice: "Yo no soy perezoso. Solo tengo un sistema avanzado de ahorro de energía."
+**Contexto:** En un cuento humorístico colombiano, un personaje dice: "Yo no soy perezoso. Solo tengo un sistema avanzado de ahorro de energía."
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -144,11 +148,11 @@ El eufemismo humorístico consiste en usar un término técnico o elegante para 
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W21-humor-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un estudiante lee una historieta donde un personaje entra a una tienda y pregunta: "¿Tiene libros de cómo ser paciente?" El vendedor responde: "Sí, pero están agotados por falta de paciencia de los clientes."
+**Contexto:** Un estudiante lee una historieta donde un personaje entra a una tienda y pregunta: "¿Tiene libros de cómo ser paciente?" El vendedor responde: "Sí, pero están agotados por falta de paciencia de los clientes."
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -165,11 +169,11 @@ La paradoja humorística presenta una contradicción lógica: los libros que ens
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W21-humor-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Una columna de humor en un periódico de Bogotá dice: "El clima en Bogotá es impredecible. Ayer hizo sol, hoy llueve y mañana probablemente las cuatro estaciones en un solo día. Pero no te preocupes: los bogotanos ya nacemos con paraguas incorporado."
+**Contexto:** Una columna de humor en un periódico de Bogotá dice: "El clima en Bogotá es impredecible. Ayer hizo sol, hoy llueve y mañana probablemente las cuatro estaciones en un solo día. Pero no te preocupes: los bogotanos ya nacemos con paraguas incorporado."
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -186,11 +190,11 @@ La columna usa el humor para hablar de una experiencia compartida por todos los 
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W21-humor-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase, un estudiante cuenta un chiste que se burla de una persona con discapacidad. Algunos compañeros se ríen, otros se sienten incómodos.
+**Contexto:** En clase, un estudiante cuenta un chiste que se burla de una persona con discapacidad. Algunos compañeros se ríen, otros se sienten incómodos.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -207,11 +211,11 @@ El humor no está exento de análisis ético. El humor que se burla de grupos vu
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W21-humor-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Un comediante colombiano dice en su show: "Colombia es el país donde llegas temprano a una reunión y eres tú el que llega tarde."
+**Contexto:** Un comediante colombiano dice en su show: "Colombia es el país donde llegas temprano a una reunión y eres tú el que llega tarde."
 **Expected_Success:** 0.44
 
 ### Enunciado
@@ -228,11 +232,11 @@ Este chiste funciona porque expone una paradoja cultural: si todos llegan tarde,
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W21-humor-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Un autor de literatura infantil colombiano escribe: "El lunes es ese día que llega justo después del domingo, pero antes de que uno termine de descansar."
+**Contexto:** Un autor de literatura infantil colombiano escribe: "El lunes es ese día que llega justo después del domingo, pero antes de que uno termine de descansar."
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -249,11 +253,11 @@ Este es un ejemplo de humor de observación cotidiana. No necesita exageración,
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W21-humor-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio de Girardot, los estudiantes deben crear un texto humorístico corto sobre la vida escolar que use al menos un mecanismo de humor estudiado.
+**Contexto:** En el Colegio de Girardot, los estudiantes deben crear un texto humorístico corto sobre la vida escolar que use al menos un mecanismo de humor estudiado.
 **Expected_Success:** 0.38
 
 ### Enunciado

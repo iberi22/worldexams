@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W36-noticia-001-MASTERY"
+id: "CO-LC-7-2026-W36-noticia-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "noticia"
-semana: "W36"
+week: "W36"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: La Noticia - Grado 7
 ## Semana W36 — Análisis crítico de la noticia como género periodístico informativo
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W36-noticia-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En clase de Lenguaje del Colegio San Bartolomé de Bogotá, se analiza una noticia de El Tiempo titulada "Lluvias dejan 15 familias damnificadas en La Guajira".
+**Contexto:** En clase de Lenguaje del Colegio San Bartolomé de Bogotá, se analiza una noticia de El Tiempo titulada "Lluvias dejan 15 familias damnificadas en La Guajira".
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La noticia es el género periodístico fundamental. Su propósito es informar so
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W36-noticia-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión del sentido global
-**Context:** La siguiente es la entradilla (lead) de una noticia: "Un sismo de magnitud 4.2 sacudió la ciudad de Bucaramanga a las 3:15 a.m. de este martes, sin que se reportaran víctimas ni daños materiales graves, según informó el Servicio Geológico Colombiano."
+**Contexto:** La siguiente es la entradilla (lead) de una noticia: "Un sismo de magnitud 4.2 sacudió la ciudad de Bucaramanga a las 3:15 a.m. de este martes, sin que se reportaran víctimas ni daños materiales graves, según informó el Servicio Geológico Colombiano."
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -60,11 +64,11 @@ El lead o entradilla es el primer párrafo de una noticia y debe responder a las
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W36-noticia-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión del sentido global
-**Context:** Una noticia sobre la COP16 de Biodiversidad en Cali tiene el siguiente titular: "COP16: Colombia propone meta de protección del 30% de los océanos para 2030".
+**Contexto:** Una noticia sobre la COP16 de Biodiversidad en Cali tiene el siguiente titular: "COP16: Colombia propone meta de protección del 30% de los océanos para 2030".
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -81,11 +85,11 @@ El titular es el elemento más visible de una noticia y cumple múltiples funcio
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W36-noticia-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Dimensión inferencial
-**Context:** Una noticia de un portal regional dice: "Según fuentes extraoficiales, el nuevo hospital de Sincelejo estaría listo antes de diciembre". El periódico no identifica las fuentes.
+**Contexto:** Una noticia de un portal regional dice: "Según fuentes extraoficiales, el nuevo hospital de Sincelejo estaría listo antes de diciembre". El periódico no identifica las fuentes.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -102,11 +106,11 @@ El uso de fuentes es fundamental para la credibilidad periodística. Las "fuente
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W36-noticia-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Dimensión inferencial
-**Context:** Dos periódicos cubren el mismo evento: una protesta de docentes en Bogotá. El titular del primero: "Docentes marchan pacíficamente por mejores salarios". El titular del segundo: "Protesta de docentes genera caos vehicular en el centro de Bogotá".
+**Contexto:** Dos periódicos cubren el mismo evento: una protesta de docentes en Bogotá. El titular del primero: "Docentes marchan pacíficamente por mejores salarios". El titular del segundo: "Protesta de docentes genera caos vehicular en el centro de Bogotá".
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -123,11 +127,11 @@ El concepto de "framing" o encuadre noticioso describe cómo los medios seleccio
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W36-noticia-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Configuración textual
-**Context:** Una noticia digital tiene la siguiente estructura: Titular → Lead → Cuerpo con testimonios → Contexto histórico → Datos de contacto del periodista.
+**Contexto:** Una noticia digital tiene la siguiente estructura: Titular → Lead → Cuerpo con testimonios → Contexto histórico → Datos de contacto del periodista.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -144,11 +148,11 @@ La pirámide invertida es la estructura clásica de la noticia: la información 
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W36-noticia-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Dimensión inferencial
-**Context:** Una noticia sobre la reforma tributaria cita solo a dos fuentes: un senador del partido de gobierno y un representante de la ANDI (Asociación Nacional de Empresarios).
+**Contexto:** Una noticia sobre la reforma tributaria cita solo a dos fuentes: un senador del partido de gobierno y un representante de la ANDI (Asociación Nacional de Empresarios).
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -165,11 +169,11 @@ La selección de fuentes en una noticia determina en gran medida su objetividad.
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W36-noticia-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Dimensión inferencial
-**Context:** Una noticia sobre un accidente de tránsito en la vía al Llano incluye testimonios de testigos: "Fue horrible, el bus iba muy rápido" y "El conductor parecía cansado". El informe oficial de tránsito aún no está disponible.
+**Contexto:** Una noticia sobre un accidente de tránsito en la vía al Llano incluye testimonios de testigos: "Fue horrible, el bus iba muy rápido" y "El conductor parecía cansado". El informe oficial de tránsito aún no está disponible.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -186,11 +190,11 @@ Los testimonios en una noticia son fuentes valiosas pero deben evaluarse crític
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W36-noticia-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** Durante una campaña electoral, un periódico publica en primera plana una noticia sobre el aumento de impuestos durante el gobierno actual. No se menciona que la noticia fue publicada originalmente por el partido opositor.
+**Contexto:** Durante una campaña electoral, un periódico publica en primera plana una noticia sobre el aumento de impuestos durante el gobierno actual. No se menciona que la noticia fue publicada originalmente por el partido opositor.
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -207,11 +211,11 @@ La transparencia en las fuentes es un principio fundamental del periodismo étic
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W36-noticia-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** Un medio digital publica una noticia con el titular: "¡IMPACTANTE! Joven encuentra serpiente en su mochila escolar". Al abrir la noticia, resulta que la serpiente era de juguete y el hecho ocurrió hace tres años en otro país.
+**Contexto:** Un medio digital publica una noticia con el titular: "¡IMPACTANTE! Joven encuentra serpiente en su mochila escolar". Al abrir la noticia, resulta que la serpiente era de juguete y el hecho ocurrió hace tres años en otro país.
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ El clickbait es una práctica que prioriza las visitas sobre la calidad informat
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W36-noticia-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** Una comunidad indígena en el Cauca denuncia que ningún medio nacional cubrió el asesinato de su líder, mientras que la renuncia de un funcionario público en Bogotá tuvo portada en todos los periódicos.
+**Contexto:** Una comunidad indígena en el Cauca denuncia que ningún medio nacional cubrió el asesinato de su líder, mientras que la renuncia de un funcionario público en Bogotá tuvo portada en todos los periódicos.
 **Expected_Success:** 0.40
 
 ### Enunciado
@@ -249,11 +253,11 @@ La cobertura mediática no es equitativa. Los estudios de comunicación han demo
 
 ---
 
-## Pregunta 12 [D9-D10]
+## Question 12 [D9-D10]
 **ID:** `CO-LC-7-2026-W36-noticia-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Reflexión sobre el contenido
-**Context:** Como proyecto de Lectura Crítica, los estudiantes del Colegio José Acevedo y Gómez de Bogotá deben escribir una noticia breve sobre la jornada de siembra de árboles que organizó el curso en el humedal Santa María del Lago.
+**Contexto:** Como proyecto de Lectura Crítica, los estudiantes del Colegio José Acevedo y Gómez de Bogotá deben escribir una noticia breve sobre la jornada de siembra de árboles que organizó el curso en el humedal Santa María del Lago.
 **Expected_Success:** 0.36
 
 ### Enunciado

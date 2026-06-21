@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W12-my-face-001-MASTERY"
+id: "CO-ING-3-2026-W12-my-face-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "my-face"
 periodo: "weekly"
-semana: 12
+week: "W12"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "Vocabulary for parts of the face: eyes, nose, mouth, ears, hai
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W12: My Face (A1)
 
@@ -32,11 +37,12 @@ Este bundle evalúa el vocabulario de las partes de la cara en inglés.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What are these: 👀 ?
 
-### Options
+### Opciones
 - [x] A) Eyes <!-- feedback: Correct! These are eyes. -->
 - [ ] B) Ears <!-- feedback: Incorrect. Ears are for hearing. -->
 - [ ] C) Nose <!-- feedback: Incorrect. -->
@@ -52,11 +58,12 @@ Los ojos se dicen "eyes" en inglés. Usamos los ojos para ver.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Nariz"** in English?
 
-### Options
+### Opciones
 - [ ] A) Mouth <!-- feedback: Incorrect. -->
 - [x] B) Nose <!-- feedback: Correct! Nose is nariz. -->
 - [ ] C) Eye <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ La nariz se dice "nose". La usamos para oler.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Boca"** in English?
 
-### Options
+### Opciones
 - [ ] A) Face <!-- feedback: Incorrect. -->
 - [ ] B) Teeth <!-- feedback: Incorrect. -->
 - [x] C) Mouth <!-- feedback: Correct! Mouth is boca. -->
@@ -92,11 +100,12 @@ La boca se dice "mouth". La usamos para hablar y comer.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What are **"Orejas"** in English?
 
-### Options
+### Opciones
 - [x] A) Ears <!-- feedback: Correct! Ears are orejas. -->
 - [ ] B) Eyes <!-- feedback: Incorrect. -->
 - [ ] C) Nose <!-- feedback: Incorrect. -->
@@ -112,11 +121,12 @@ Las orejas o oídos se dicen "ears". Las usamos para escuchar.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Cabello"** or **"Pelo"**?
 
-### Options
+### Opciones
 - [ ] A) Head <!-- feedback: Incorrect. Head is the whole part. -->
 - [x] B) Hair <!-- feedback: Correct! Hair is cabello. -->
 - [ ] C) Face <!-- feedback: Incorrect. -->
@@ -132,11 +142,12 @@ El pelo o cabello se dice "hair".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 You listen to music with your:
 
-### Options
+### Opciones
 - [ ] A) Eyes <!-- feedback: Incorrect. -->
 - [ ] B) Nose <!-- feedback: Incorrect. -->
 - [x] C) Ears <!-- feedback: Correct! You listen with your ears. -->
@@ -152,11 +163,12 @@ Escuchamos música con los oídos (ears).
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 You eat an apple with your:
 
-### Options
+### Opciones
 - [ ] A) Nose <!-- feedback: Incorrect. -->
 - [x] B) Mouth <!-- feedback: Correct! You eat with your mouth. -->
 - [ ] C) Ears <!-- feedback: Incorrect. -->
@@ -172,11 +184,12 @@ Comemos (eat) con la boca (mouth).
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What are inside your mouth? (Blancos y duros).
 
-### Options
+### Opciones
 - [ ] A) Eyes <!-- feedback: Incorrect. -->
 - [x] B) Teeth <!-- feedback: Correct! Teeth are inside your mouth. -->
 - [ ] C) Hair <!-- feedback: Incorrect. -->
@@ -192,11 +205,12 @@ Los dientes se dicen "teeth". Un solo diente es "tooth".
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Which word is **"Cara"**?
 
-### Options
+### Opciones
 - [ ] A) Head <!-- feedback: Incorrect. -->
 - [x] B) Face <!-- feedback: Correct! Face is cara. -->
 - [ ] C) Body <!-- feedback: Incorrect. -->
@@ -212,11 +226,12 @@ Toda la parte delantera de la cabeza donde están los ojos y la boca se llama "f
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Complete: **"I see with my _______."**
 
-### Options
+### Opciones
 - [x] A) Eyes <!-- feedback: Correct! -->
 - [ ] B) Ears <!-- feedback: Incorrect. -->
 - [ ] C) Nose <!-- feedback: Incorrect. -->

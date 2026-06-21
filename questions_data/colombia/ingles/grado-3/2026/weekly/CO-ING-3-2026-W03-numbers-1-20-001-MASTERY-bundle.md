@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY"
+id: "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "numbers-1-20"
 periodo: "weekly"
-semana: 3
+week: "W03"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "Number recognition from 1 to 20, counting, and matching number
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W03: Numbers 1-20 (A1)
 
@@ -32,11 +37,12 @@ Este bundle evalúa los números del 1 al 20 en inglés, incluyendo su escritura
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is the number **"ONE"**?
 
-### Options
+### Opciones
 - [x] A) 1 <!-- feedback: Correct! "One" is the number 1. -->
 - [ ] B) 10 <!-- feedback: Incorrect. 10 is "ten". -->
 - [ ] C) 11 <!-- feedback: Incorrect. 11 is "eleven". -->
@@ -52,11 +58,12 @@ El número 1 se escribe "one" en inglés. Es el primer número cardinal.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 How do you say **"Cinco"** in English?
 
-### Options
+### Opciones
 - [ ] A) Four <!-- feedback: Incorrect. "Four" is 4. -->
 - [x] B) Five <!-- feedback: Correct! "Five" is 5. -->
 - [ ] C) Six <!-- feedback: Incorrect. "Six" is 6. -->
@@ -72,12 +79,13 @@ El número 5 se dice y se escribe "five". ¡No lo confundas con fifty!
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Count the stars: ⭐ ⭐ ⭐ ⭐ ⭐ ⭐
 How many are there?
 
-### Options
+### Opciones
 - [ ] A) Five <!-- feedback: Incorrect. There is one more. -->
 - [x] B) Six <!-- feedback: Correct! There are 6 stars. -->
 - [ ] C) Seven <!-- feedback: Incorrect. There are fewer than 7. -->
@@ -93,11 +101,12 @@ Al contar las estrellas una a una, llegamos al número 6, que en inglés es "six
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What number comes after **nine**?
 
-### Options
+### Opciones
 - [ ] A) Eight <!-- feedback: Incorrect. Eight comes before nine. -->
 - [x] B) Ten <!-- feedback: Correct! Ten follows nine. -->
 - [ ] C) Eleven <!-- feedback: Incorrect. Eleven follows ten. -->
@@ -113,11 +122,12 @@ En la secuencia numérica: 8 (eight), 9 (nine), **10 (ten)**. El número 10 es "
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Once"** (11) in English?
 
-### Options
+### Opciones
 - [ ] A) One-one <!-- feedback: Incorrect. We don't say numbers digit by digit like this. -->
 - [ ] B) Ten-one <!-- feedback: Incorrect. This is not a word. -->
 - [x] C) Eleven <!-- feedback: Correct! 11 is "eleven". -->
@@ -133,11 +143,12 @@ Los números 11 y 12 son especiales en inglés porque no siguen la regla de term
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Which number is **"FIFTEEN"**?
 
-### Options
+### Opciones
 - [ ] A) 5 <!-- feedback: Incorrect. 5 is "five". -->
 - [ ] B) 50 <!-- feedback: Incorrect. 50 is "fifty". -->
 - [x] C) 15 <!-- feedback: Correct! 15 is "fifteen". -->
@@ -153,11 +164,12 @@ Para los números del 13 al 19, solemos usar la terminación "-teen". En el caso
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **7 + 3** in English?
 
-### Options
+### Opciones
 - [ ] A) Seven <!-- feedback: Incorrect. 7+3 is more than 7. -->
 - [ ] B) Nine <!-- feedback: Incorrect. 7+3 is one more. -->
 - [x] C) Ten <!-- feedback: Correct! 7 + 3 = 10 (ten). -->
@@ -173,11 +185,12 @@ Al sumar siete (seven) más tres (three), obtenemos diez (ten). Es una suma bás
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 How many fingers do you have on **two** hands?
 
-### Options
+### Opciones
 - [ ] A) Five <!-- feedback: Incorrect. That's only one hand. -->
 - [x] B) Ten <!-- feedback: Correct! 5 + 5 = 10. -->
 - [ ] C) Twenty <!-- feedback: Incorrect. Unless you count toes too! But hands only have 10. -->
@@ -193,11 +206,12 @@ Cada mano tiene 5 dedos (fingers). Dos manos tienen 10 dedos, que en inglés se 
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Choose the correct spelling for **20**:
 
-### Options
+### Opciones
 - [ ] A) Twente <!-- feedback: Incorrect spelling. -->
 - [x] B) Twenty <!-- feedback: Correct! 20 is "twenty". -->
 - [ ] C) Twenti <!-- feedback: Incorrect. Ends with "y", not "i". -->
@@ -213,11 +227,12 @@ El número 20 se escribe "twenty". Es importante recordar que termina en "-y".
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **10 + 8**?
 
-### Options
+### Opciones
 - [ ] A) Seventeen <!-- feedback: Incorrect. 10 + 8 = 18. -->
 - [x] B) Eighteen <!-- feedback: Correct! 18 is "eighteen". -->
 - [ ] C) Nineteen <!-- feedback: Incorrect. 10 + 9 = 19. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W16-descripcion-escenarios-001-MASTERY"
+id: "CO-LEC-3-2026-W16-descripcion-escenarios-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 16
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Descripción de Escenarios
 
@@ -25,6 +30,7 @@ Este bundle evalúa la capacidad de visualizar y comprender entornos físicos a 
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **El Valle de Cocora**
@@ -33,7 +39,7 @@ Este bundle evalúa la capacidad de visualizar y comprender entornos físicos a 
 ### Enunciado
 ¿Qué elemento del paisaje parece "tocar las nubes" según el texto?
 
-### Options
+### Opciones
 - [ ] A) Las montañas. <!-- feedback: Incorrecto. Aunque las montañas son altas, el texto usa esa comparación específicamente para las Palmas de Cera. -->
 - [x] B) Las Palmas de Cera. <!-- feedback: ¡Correcto! El texto menciona que estas palmas son tan altas que dan esa impresión visual. -->
 - [ ] C) La neblina. <!-- feedback: Incorrecto. La neblina cubre el paisaje, no toca las nubes (pues ella misma es como una nube baja). -->
@@ -49,6 +55,7 @@ Identificar referentes específicos en una descripción de paisaje ayuda a fijar
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "La cueva estaba completamente a oscuras. Se escuchaba el goteo constante del agua cayendo desde el techo sobre el suelo de piedra, y un olor a tierra húmeda llenaba todo el espacio".
@@ -56,7 +63,7 @@ Identificar referentes específicos en una descripción de paisaje ayuda a fijar
 ### Enunciado
 ¿Cuáles son los dos sentidos que más se usan para describir la cueva en este texto?
 
-### Options
+### Opciones
 - [ ] A) La vista y el gusto. <!-- feedback: Incorrecto. La cueva está oscura (no se ve) y no se menciona el sabor de nada. -->
 - [ ] B) El tacto y la vista. <!-- feedback: Incorrecto. La vista no es protagonista por la oscuridad. -->
 - [x] C) El oído y el olfato. <!-- feedback: ¡Correcto! El texto menciona un sonido (goteo) y un olor (tierra húmeda). -->
@@ -72,6 +79,7 @@ Las descripciones no son solo visuales. Comprender que los autores usan sonidos 
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **La Plaza de Bolívar en Bogotá**
@@ -80,7 +88,7 @@ Las descripciones no son solo visuales. Comprender que los autores usan sonidos 
 ### Enunciado
 ¿Qué tipo de ambiente se describe en este texto?
 
-### Options
+### Opciones
 - [ ] A) Un ambiente de selva natural. <!-- feedback: Incorrecto. El texto habla de piedra, edificios y plazas urbanas. -->
 - [x] B) Un ambiente de ciudad histórica. <!-- feedback: ¡Correcto! La mención de edificios antiguos y la plaza central de piedra es típica de un centro histórico. -->
 - [ ] C) Una playa tranquila del Caribe. <!-- feedback: Incorrecto. No se menciona el mar ni la arena. -->
@@ -96,6 +104,7 @@ Clasificar el tipo de escenario (urbano, rural, histórico, natural) a partir de
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "El desierto de la Tatacoa tiene una tierra de color ocre y gris. No hay casi árboles, solo cactus que crecen entre las rocas. El sol brilla con mucha fuerza y el calor se siente en cada paso".
@@ -103,7 +112,7 @@ Clasificar el tipo de escenario (urbano, rural, histórico, natural) a partir de
 ### Enunciado
 Si tuvieras que añadir un objeto a este escenario, ¿cuál de estos **no encajaría** de forma natural?
 
-### Options
+### Opciones
 - [ ] A) Una gorra para el sol. <!-- feedback: Incorrecto. Una gorra es muy útil en un desierto caluroso. -->
 - [ ] B) Una botella de agua fría. <!-- feedback: Incorrecto. El agua es necesaria en un lugar donde hace tanto calor. -->
 - [x] C) Un paraguas para protegerse de la lluvia fuerte. <!-- feedback: ¡Correcto! El texto describe un desierto donde el sol brilla con fuerza, por lo que la lluvia no es común. -->
@@ -119,6 +128,7 @@ Aplicar el conocimiento del ambiente para juzgar qué elementos son coherentes c
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **En la Selva Amazónica**
@@ -127,7 +137,7 @@ Aplicar el conocimiento del ambiente para juzgar qué elementos son coherentes c
 ### Enunciado
 ¿Cuál es la razón por la que en este escenario la luz del sol es escasa?
 
-### Options
+### Opciones
 - [ ] A) Porque ya era de noche. <!-- feedback: Incorrecto. El texto no dice que sea de noche, sino que la luz no pasa por una razón física. -->
 - [ ] B) Porque estaba lloviendo muy fuerte. <!-- feedback: Incorrecto. No se menciona lluvia, aunque la selva sea húmeda. -->
 - [x] C) Debido al tamaño de las hojas y la densidad de los árboles. <!-- feedback: ¡Correcto! El texto dice que "las hojas gigantes... no dejaban pasar la luz". -->
@@ -143,6 +153,7 @@ Identificar relaciones de causalidad dentro de una descripción física ayuda a 
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "El puerto pesquero era un caos de colores y sonidos. Se mezclaba el olor a pescado fresco con el de la sal del mar. Los pescadores gritaban los precios de su mercancía mientras las gaviotas volaban en círculos buscando sobras".
@@ -150,7 +161,7 @@ Identificar relaciones de causalidad dentro de una descripción física ayuda a 
 ### Enunciado
 ¿Qué palabra describe mejor el **ambiente** que se vive en el puerto según el texto?
 
-### Options
+### Opciones
 - [ ] A) Silencioso. <!-- feedback: Incorrecto. El texto dice que los pescadores gritaban y había caos de sonidos. -->
 - [ ] B) Triste. <!-- feedback: Incorrecto. Aunque hay caos, se describe una actividad comercial viva, no tristeza. -->
 - [x] C) Animado o bullicioso. <!-- feedback: ¡Correcto! La mezcla de gritos, gaviotas y actividad indica un lugar con mucho movimiento y ruido. -->
@@ -166,6 +177,7 @@ Extraer el tono o la atmósfera de un escenario a partir de las acciones descrit
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "La habitación de los abuelos era un viaje al pasado. Las paredes estaban llenas de fotografías en blanco y negro, y en una esquina reposaba un viejo tocadiscos que aún funcionaba".
@@ -173,7 +185,7 @@ Extraer el tono o la atmósfera de un escenario a partir de las acciones descrit
 ### Enunciado
 ¿Por qué el autor dice que la habitación era un "**viaje al pasado**"?
 
-### Options
+### Opciones
 - [ ] A) Porque los abuelos eran muy viajeros y tenían mapas. <!-- feedback: Incorrecto. El texto no menciona viajes físicos ni mapas. -->
 - [x] B) Porque los objetos que hay en ella (fotos antiguas, tocadiscos) son de épocas anteriores. <!-- feedback: ¡Correcto! El uso de objetos antiguos crea la sensación de estar en otro tiempo histórico. -->
 - [ ] C) Porque la habitación tenía una máquina del tiempo real. <!-- feedback: Incorrecto. Es una descripción realista, no de ciencia ficción. -->
@@ -189,6 +201,7 @@ Interpretar metáforas sencillas en descripciones de ambientes desarrolla el pen
 **Bloom:** Evaluate
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Imagina un cuento que ocurre en un **parque de diversiones abandonado**, donde los juegos están oxidados y el viento hace rechinar las cadenas de los columpios.
@@ -196,7 +209,7 @@ Imagina un cuento que ocurre en un **parque de diversiones abandonado**, donde l
 ### Enunciado
 Si fueras el autor, ¿para qué tipo de historia usarías este escenario?
 
-### Options
+### Opciones
 - [ ] A) Para una historia de risa y chistes de payasos. <!-- feedback: Incorrecto. Un lugar abandonado y oxidado no sugiere alegría. -->
 - [x] B) Para una historia de misterio o de suspenso. <!-- feedback: ¡Correcto! Los lugares abandonados y los sonidos chirriantes son ideales para crear una atmósfera de miedo o intriga. -->
 - [ ] C) Para una historia sobre cómo construir parques nuevos. <!-- feedback: Incorrecto. El enfoque está en lo viejo y abandonado, no en la construcción. -->

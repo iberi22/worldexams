@@ -1,24 +1,32 @@
 ---
-id: "PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY"
+id: "PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY-bundle"
 country: "peru"
 exam: "CNEB - MINEDU"
 grado: 11
 asignatura: "Matematica"
 tema: "transformaciones-geometricas"
-semana: 23
+week: "W23"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "CNEB - Curriculo Nacional de la Educacion Basica (MINEDU, 2016)"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle - Matematica: Transformaciones Geometricas (W23)
 **20 preguntas | Matematica | CNEB - MINEDU**
 
 ---
-## Pregunta 1 [D4]
+## Question 1 [D4]
 **ID:** `PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PE practicando transformaciones geometricas.
 
@@ -26,21 +34,22 @@ alignment: "CNEB - Curriculo Nacional de la Educacion Basica (MINEDU, 2016)"
 Simplifique: (2)(8x + 20)
 
 ### Opciones
-- [x] **A)** 16x + 40
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 16x + 20
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 10x + 40
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 16x - 40
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 16x + 40 <!-- feedback: Correcto! 16x + 40 -->
+
+- [ ] B) 16x + 20 <!-- feedback: Incorrecto. 16x + 20 -->
+
+- [ ] C) 10x + 40 <!-- feedback: Incorrecto. 10x + 40 -->
+
+- [ ] D) 16x - 40 <!-- feedback: Incorrecto. 16x - 40 -->
 
 **Explicacion:** Aplicar distributiva: (2)(8x + 20) = 16x + 40.
 
 ---
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PE practicando transformaciones geometricas.
 
@@ -48,21 +57,22 @@ Simplifique: (2)(8x + 20)
 Resuelve: 2(x + 3) = 12
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] C) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [ ] D) 2 <!-- feedback: Incorrecto. 2 -->
 
 **Explicacion:** 2(x+3) = 12 -> x+3 = 6 -> x = 3.
 
 ---
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PE practicando transformaciones geometricas.
 
@@ -70,21 +80,22 @@ Resuelve: 2(x + 3) = 12
 Maria compro 2 cuadernos a $10.3 c/u en Cusco. Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $20.3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** $2.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $10.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $12.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $20.3 <!-- feedback: Correcto! $20.3 -->
+
+- [ ] B) $2.3 <!-- feedback: Incorrecto. $2.3 -->
+
+- [ ] C) $10.3 <!-- feedback: Incorrecto. $10.3 -->
+
+- [ ] D) $12.3 <!-- feedback: Incorrecto. $12.3 -->
 
 **Explicacion:** Total = 2 x 10 = $20.3.
 
 ---
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY-v4`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PE practicando transformaciones geometricas.
 
@@ -92,21 +103,22 @@ Maria compro 2 cuadernos a $10.3 c/u en Cusco. Cuanto gasto?
 Un estudiante de Colegio Nacional de la Independencia Americana en Arequipa grafica f(x) = 5x + 1. Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] B) 1 <!-- feedback: Incorrecto. 1 -->
+
+- [ ] C) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] D) 5 <!-- feedback: Incorrecto. 5 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 5.
 
 ---
-## Pregunta 5 [D3]
+## Question 5 [D3]
 **ID:** `PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PE practicando transformaciones geometricas.
 
@@ -114,21 +126,22 @@ Un estudiante de Colegio Nacional de la Independencia Americana en Arequipa graf
 En Tacna, un estudiante del Colegio Nacional Coronel Bolognesi resuelve: 8x + 5 = 45. Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **D)** 11
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 11 <!-- feedback: Incorrecto. 11 -->
 
 **Explicacion:** Se resta 5 de ambos lados. Luego se divide por 8: x = 5.
 
 ---
-## Pregunta 6 [D4]
+## Question 6 [D4]
 **ID:** `PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PE practicando transformaciones geometricas.
 
@@ -136,21 +149,22 @@ En Tacna, un estudiante del Colegio Nacional Coronel Bolognesi resuelve: 8x + 5 
 Simplifique: (7)(3x + 21)
 
 ### Opciones
-- [x] **A)** 21x + 147
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 21x + 21
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 10x + 147
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 21x - 147
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 21x + 147 <!-- feedback: Correcto! 21x + 147 -->
+
+- [ ] B) 21x + 21 <!-- feedback: Incorrecto. 21x + 21 -->
+
+- [ ] C) 10x + 147 <!-- feedback: Incorrecto. 10x + 147 -->
+
+- [ ] D) 21x - 147 <!-- feedback: Incorrecto. 21x - 147 -->
 
 **Explicacion:** Aplicar distributiva: (7)(3x + 21) = 21x + 147.
 
 ---
-## Pregunta 7 [D3]
+## Question 7 [D3]
 **ID:** `PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PE practicando transformaciones geometricas.
 
@@ -158,21 +172,22 @@ Simplifique: (7)(3x + 21)
 Resuelve: 2(x + 6) = 18
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] C) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] D) 5 <!-- feedback: Incorrecto. 5 -->
 
 **Explicacion:** 2(x+6) = 18 -> x+6 = 9 -> x = 3.
 
 ---
-## Pregunta 8 [D4]
+## Question 8 [D4]
 **ID:** `PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PE practicando transformaciones geometricas.
 
@@ -180,21 +195,22 @@ Resuelve: 2(x + 6) = 18
 Maria compro 6 cuadernos a $8.2 c/u en Huancayo. Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $48.2
-  <!-- feedback: Correcto! -->
-- [ ] **B)** $6.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $8.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $14.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $48.2 <!-- feedback: Correcto! $48.2 -->
+
+- [ ] B) $6.2 <!-- feedback: Incorrecto. $6.2 -->
+
+- [ ] C) $8.2 <!-- feedback: Incorrecto. $8.2 -->
+
+- [ ] D) $14.2 <!-- feedback: Incorrecto. $14.2 -->
 
 **Explicacion:** Total = 6 x 8 = $48.2.
 
 ---
-## Pregunta 9 [D5]
+## Question 9 [D5]
 **ID:** `PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PE practicando transformaciones geometricas.
 
@@ -202,21 +218,22 @@ Maria compro 6 cuadernos a $8.2 c/u en Huancayo. Cuanto gasto?
 Un estudiante de Colegio Nacional Mariscal Caceres en Ayacucho grafica f(x) = 5x + 1. Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] B) 1 <!-- feedback: Incorrecto. 1 -->
+
+- [ ] C) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] D) 5 <!-- feedback: Incorrecto. 5 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 5.
 
 ---
-## Pregunta 10 [D3]
+## Question 10 [D3]
 **ID:** `PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PE practicando transformaciones geometricas.
 
@@ -224,21 +241,22 @@ Un estudiante de Colegio Nacional Mariscal Caceres en Ayacucho grafica f(x) = 5x
 En Cajamarca, un estudiante del Colegio Nacional San Ramon resuelve: 6x + 2 = 32. Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **D)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 9 <!-- feedback: Incorrecto. 9 -->
 
 **Explicacion:** Se resta 2 de ambos lados. Luego se divide por 6: x = 5.
 
 ---
-## Pregunta 11 [D4]
+## Question 11 [D4]
 **ID:** `PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY-v11`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PE practicando transformaciones geometricas.
 
@@ -246,21 +264,22 @@ En Cajamarca, un estudiante del Colegio Nacional San Ramon resuelve: 6x + 2 = 32
 Simplifique: (5)(10x + 50)
 
 ### Opciones
-- [x] **A)** 50x + 250
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 50x + 50
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 15x + 250
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 50x - 250
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 50x + 250 <!-- feedback: Correcto! 50x + 250 -->
+
+- [ ] B) 50x + 50 <!-- feedback: Incorrecto. 50x + 50 -->
+
+- [ ] C) 15x + 250 <!-- feedback: Incorrecto. 15x + 250 -->
+
+- [ ] D) 50x - 250 <!-- feedback: Incorrecto. 50x - 250 -->
 
 **Explicacion:** Aplicar distributiva: (5)(10x + 50) = 50x + 250.
 
 ---
-## Pregunta 12 [D3]
+## Question 12 [D3]
 **ID:** `PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY-v12`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PE practicando transformaciones geometricas.
 
@@ -268,21 +287,22 @@ Simplifique: (5)(10x + 50)
 Resuelve: 2(x + 6) = 18
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] C) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] D) 5 <!-- feedback: Incorrecto. 5 -->
 
 **Explicacion:** 2(x+6) = 18 -> x+6 = 9 -> x = 3.
 
 ---
-## Pregunta 13 [D4]
+## Question 13 [D4]
 **ID:** `PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY-v13`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PE practicando transformaciones geometricas.
 
@@ -290,21 +310,22 @@ Resuelve: 2(x + 6) = 18
 Maria compro 8 cuadernos a $1.1 c/u en Tacna. Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $8.1
-  <!-- feedback: Correcto! -->
-- [ ] **B)** $8.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $1.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $9.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $8.1 <!-- feedback: Correcto! $8.1 -->
+
+- [ ] B) $8.1 <!-- feedback: Incorrecto. $8.1 -->
+
+- [ ] C) $1.1 <!-- feedback: Incorrecto. $1.1 -->
+
+- [ ] D) $9.1 <!-- feedback: Incorrecto. $9.1 -->
 
 **Explicacion:** Total = 8 x 1 = $8.1.
 
 ---
-## Pregunta 14 [D5]
+## Question 14 [D5]
 **ID:** `PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY-v14`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PE practicando transformaciones geometricas.
 
@@ -312,21 +333,22 @@ Maria compro 8 cuadernos a $1.1 c/u en Tacna. Cuanto gasto?
 Un estudiante de Colegio Nacional de la Independencia Americana en Arequipa grafica f(x) = 3x + 10. Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 10
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 13
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 10 <!-- feedback: Incorrecto. 10 -->
+
+- [ ] C) 13 <!-- feedback: Incorrecto. 13 -->
+
+- [ ] D) 8 <!-- feedback: Incorrecto. 8 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 3.
 
 ---
-## Pregunta 15 [D3]
+## Question 15 [D3]
 **ID:** `PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY-v15`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PE practicando transformaciones geometricas.
 
@@ -334,21 +356,22 @@ Un estudiante de Colegio Nacional de la Independencia Americana en Arequipa graf
 En Chiclayo, un estudiante del Colegio Nacional San Jose resuelve: 7x + 2 = 37. Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **D)** 11
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 11 <!-- feedback: Incorrecto. 11 -->
 
 **Explicacion:** Se resta 2 de ambos lados. Luego se divide por 7: x = 5.
 
 ---
-## Pregunta 16 [D4]
+## Question 16 [D4]
 **ID:** `PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY-v16`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PE practicando transformaciones geometricas.
 
@@ -356,21 +379,22 @@ En Chiclayo, un estudiante del Colegio Nacional San Jose resuelve: 7x + 2 = 37. 
 Simplifique: (3)(9x + 47)
 
 ### Opciones
-- [x] **A)** 27x + 141
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 27x + 47
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 12x + 141
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 27x - 141
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 27x + 141 <!-- feedback: Correcto! 27x + 141 -->
+
+- [ ] B) 27x + 47 <!-- feedback: Incorrecto. 27x + 47 -->
+
+- [ ] C) 12x + 141 <!-- feedback: Incorrecto. 12x + 141 -->
+
+- [ ] D) 27x - 141 <!-- feedback: Incorrecto. 27x - 141 -->
 
 **Explicacion:** Aplicar distributiva: (3)(9x + 47) = 27x + 141.
 
 ---
-## Pregunta 17 [D3]
+## Question 17 [D3]
 **ID:** `PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY-v17`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PE practicando transformaciones geometricas.
 
@@ -378,21 +402,22 @@ Simplifique: (3)(9x + 47)
 Resuelve: 2(x + 7) = 20
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] C) 9 <!-- feedback: Incorrecto. 9 -->
+
+- [ ] D) 6 <!-- feedback: Incorrecto. 6 -->
 
 **Explicacion:** 2(x+7) = 20 -> x+7 = 10 -> x = 3.
 
 ---
-## Pregunta 18 [D4]
+## Question 18 [D4]
 **ID:** `PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY-v18`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PE practicando transformaciones geometricas.
 
@@ -400,21 +425,22 @@ Resuelve: 2(x + 7) = 20
 Maria compro 4 cuadernos a $7.2 c/u en Puno. Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $28.2
-  <!-- feedback: Correcto! -->
-- [ ] **B)** $4.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $7.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $11.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $28.2 <!-- feedback: Correcto! $28.2 -->
+
+- [ ] B) $4.2 <!-- feedback: Incorrecto. $4.2 -->
+
+- [ ] C) $7.2 <!-- feedback: Incorrecto. $7.2 -->
+
+- [ ] D) $11.2 <!-- feedback: Incorrecto. $11.2 -->
 
 **Explicacion:** Total = 4 x 7 = $28.2.
 
 ---
-## Pregunta 19 [D5]
+## Question 19 [D5]
 **ID:** `PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY-v19`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PE practicando transformaciones geometricas.
 
@@ -422,21 +448,22 @@ Maria compro 4 cuadernos a $7.2 c/u en Puno. Cuanto gasto?
 Un estudiante de Colegio Nacional La Libertad en Huaraz grafica f(x) = 3x + 1. Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 1 <!-- feedback: Incorrecto. 1 -->
+
+- [ ] C) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [ ] D) 3 <!-- feedback: Incorrecto. 3 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 3.
 
 ---
-## Pregunta 20 [D3]
+## Question 20 [D3]
 **ID:** `PE-MAT-11-2026-W23-transformaciones-geometricas-001-MASTERY-v20`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PE practicando transformaciones geometricas.
 
@@ -444,14 +471,13 @@ Un estudiante de Colegio Nacional La Libertad en Huaraz grafica f(x) = 3x + 1. C
 En Arequipa, un estudiante del Colegio Nacional de la Independencia Americana resuelve: 6x + 4 = 34. Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **D)** 10
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] B) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 10 <!-- feedback: Incorrecto. 10 -->
 
 **Explicacion:** Se resta 4 de ambos lados. Luego se divide por 6: x = 5.
 

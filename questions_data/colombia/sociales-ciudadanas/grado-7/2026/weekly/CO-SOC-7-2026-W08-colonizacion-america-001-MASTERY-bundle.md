@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W08-colonizacion-america-001-MASTERY"
+id: "CO-SOC-7-2026-W08-colonizacion-america-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-ciudadanas"
 tema: "colonizacion-america"
-semana: "W08"
+week: "W08"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026 — Pensamiento Social"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Colonización de América — Grado 7
 ## Semana W08 — La colonización española: sociedad colonial, economía y mestizaje
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W08-colonizacion-america-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En la clase de sociales del Colegio Heladia Mejía de Bogotá, la profesora pregunta qué fue el sistema de encomienda.
+**Contexto:** En la clase de sociales del Colegio Heladia Mejía de Bogotá, la profesora pregunta qué fue el sistema de encomienda.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La encomienda fue una institución clave de la colonización española. En teor�
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-SOC-7-2026-W08-colonizacion-america-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del colegio de Cali leen un texto sobre las ciudades coloniales y su organización.
+**Contexto:** Los estudiantes del colegio de Cali leen un texto sobre las ciudades coloniales y su organización.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ Las ciudades coloniales españolas se planificaban siguiendo las "Leyes de India
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-SOC-7-2026-W08-colonizacion-america-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Medellín, los estudiantes estudian las instituciones de gobierno colonial.
+**Contexto:** En el colegio de Medellín, los estudiantes estudian las instituciones de gobierno colonial.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -81,11 +85,11 @@ El Virrey era la máxima autoridad en las colonias españolas, representante dir
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-SOC-7-2026-W08-colonizacion-america-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Argumentación
-**Context:** En el colegio de Barranquilla, los estudiantes analizan cómo se organizaba la economía colonial.
+**Contexto:** En el colegio de Barranquilla, los estudiantes analizan cómo se organizaba la economía colonial.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -102,11 +106,11 @@ La economía colonial en el territorio de la actual Colombia se basó en: (1) la
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-SOC-7-2026-W08-colonizacion-america-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Cartagena, los estudiantes leen sobre el sistema de castas en la sociedad colonial.
+**Contexto:** En el colegio de Cartagena, los estudiantes leen sobre el sistema de castas en la sociedad colonial.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -123,11 +127,11 @@ La sociedad colonial estaba organizada en un sistema de castas basado en el orig
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-SOC-7-2026-W08-colonizacion-america-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Pereira, Santiago pregunta por el papel de la Iglesia católica en la colonización.
+**Contexto:** En el colegio de Pereira, Santiago pregunta por el papel de la Iglesia católica en la colonización.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ La Iglesia católica fue una institución fundamental en la colonización: (1) *
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-SOC-7-2026-W08-colonizacion-america-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Bucaramanga, los estudiantes analizan la trata de esclavos africanos hacia América.
+**Contexto:** En el colegio de Bucaramanga, los estudiantes analizan la trata de esclavos africanos hacia América.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ La trata transatlántica de esclavos africanos (siglos XVI-XIX) se intensificó 
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-SOC-7-2026-W08-colonizacion-america-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Social
-**Context:** En la I.E. de Villavicencio, los estudiantes analizan el mestizaje como fenómeno cultural.
+**Contexto:** En la I.E. de Villavicencio, los estudiantes analizan el mestizaje como fenómeno cultural.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ El mestizaje fue el proceso más transformador de la colonización. No solo fue 
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-SOC-7-2026-W08-colonizacion-america-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Sincelejo, los estudiantes analizan un documento sobre la economía de las misiones jesuitas.
+**Contexto:** En el colegio de Sincelejo, los estudiantes analizan un documento sobre la economía de las misiones jesuitas.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -207,11 +211,11 @@ Las misiones jesuitas (especialmente en Paraguay, Argentina, Brasil y los Llanos
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W08-colonizacion-america-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Manizales, los estudiantes evalúan el legado de la colonización en la Colombia actual.
+**Contexto:** En el colegio de Manizales, los estudiantes evalúan el legado de la colonización en la Colombia actual.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -228,11 +232,11 @@ La colonización española dejó profundas huellas en la estructura social y eco
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-SOC-7-2026-W08-colonizacion-america-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Cúcuta, la profesora pregunta por la resistencia africana en la colonia.
+**Contexto:** En el colegio de Cúcuta, la profesora pregunta por la resistencia africana en la colonia.
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -249,11 +253,11 @@ Los **palenques** fueron comunidades de esclavos fugitivos (llamados **cimarrone
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W08-colonizacion-america-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** La profesora de sociales del colegio de Bogotá propone un debate final: ¿fue la colonización un proceso positivo o negativo?
+**Contexto:** La profesora de sociales del colegio de Bogotá propone un debate final: ¿fue la colonización un proceso positivo o negativo?
 **Expected_Success:** 0.42
 
 ### Enunciado

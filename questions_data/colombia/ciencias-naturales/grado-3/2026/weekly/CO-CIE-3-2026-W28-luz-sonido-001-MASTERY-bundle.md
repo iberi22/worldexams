@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY"
+id: "CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "luz-sonido"
-semana: "W28"
+week: "W28"
 periodo: 3
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Introducción a la luz y el sonido: fuentes, propagación y pe
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # La Luz y el Sonido
 
 Este bundle introduce los conceptos de energía en forma de luz y sonido, explorando cómo se originan y cómo nuestros sentidos nos permiten interactuar con ellas en el mundo.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Al despertar por la mañana, Mariana abre las cortinas y la habitación se ilumina con la claridad que viene de afuera.
+**Contexto:** Al despertar por la mañana, Mariana abre las cortinas y la habitación se ilumina con la claridad que viene de afuera.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ La luz es una forma de energía que viaja por el espacio. El Sol es nuestra gran
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una fiesta de cumpleaños, un niño revienta un globo y todos escuchan un fuerte estallido.
+**Contexto:** En una fiesta de cumpleaños, un niño revienta un globo y todos escuchan un fuerte estallido.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -73,12 +77,12 @@ El sonido se produce cuando algo vibra. Esa vibración viaja por el aire hasta l
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un rayo de luz entra por un pequeño hueco en una pared oscura y se ve como una línea recta perfecta llena de polvo brillante.
+**Contexto:** Un rayo de luz entra por un pequeño hueco en una pared oscura y se ve como una línea recta perfecta llena de polvo brillante.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ La luz es extremadamente rápida (lo más rápido que existe). Al viajar en lín
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Mariana pone su mano frente a una linterna encendida y nota que en la pared del fondo aparece una mancha oscura con la forma de su mano.
+**Contexto:** Mariana pone su mano frente a una linterna encendida y nota que en la pared del fondo aparece una mancha oscura con la forma de su mano.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ Existen materiales transparentes (dejan pasar toda la luz), translúcidos (pasa 
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Tienes una lista de objetos: 1. El Sol, 2. Una luciérnaga, 3. Una bombilla encendida, 4. Una vela.
+**Contexto:** Tienes una lista de objetos: 1. El Sol, 2. Una luciérnaga, 3. Una bombilla encendida, 4. Una vela.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -148,12 +152,12 @@ La naturaleza es asombrosa. Algunos animales (como luciérnagas y peces abisales
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Si tocas suavemente las cuerdas de una guitarra, verás que se mueven muy rápido y se escuchan notas musicales.
+**Contexto:** Si tocas suavemente las cuerdas de una guitarra, verás que se mueven muy rápido y se escuchan notas musicales.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -173,12 +177,12 @@ El sonido es energía en movimiento. Al rasguear la guitarra, obligamos a las cu
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** El sonido viaja por el aire, pero también puede viajar a través de otros materiales como el agua o los muros de una casa.
+**Contexto:** El sonido viaja por el aire, pero también puede viajar a través de otros materiales como el agua o los muros de una casa.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -198,12 +202,12 @@ Esta es una curiosidad científica: escuchamos mejor debajo del agua que en el a
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Durante una tormenta eléctrica, Mariana ve primero el destello del rayo y varios segundos después escucha el trueno.
+**Contexto:** Durante una tormenta eléctrica, Mariana ve primero el destello del rayo y varios segundos después escucha el trueno.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -223,12 +227,12 @@ La luz es la campeona de la velocidad. Nada le gana. Por eso, aunque el rayo y e
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Si gritas frente a una montaña grande y vacía, tu voz parece regresar a ti unos segundos después.
+**Contexto:** Si gritas frente a una montaña grande y vacía, tu voz parece regresar a ti unos segundos después.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -248,12 +252,12 @@ El eco es como el reflejo de un espejo, pero para los oídos. Las ondas de sonid
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W28-luz-sonido-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un astronauta está en el espacio exterior (donde no hay aire) y ve que una roca choca contra otra.
+**Contexto:** Un astronauta está en el espacio exterior (donde no hay aire) y ve que una roca choca contra otra.
 **Expected_Success:** 0.60
 
 ### Enunciado

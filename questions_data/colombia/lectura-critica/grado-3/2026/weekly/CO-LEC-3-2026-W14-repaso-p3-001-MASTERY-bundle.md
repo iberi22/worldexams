@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W14-repaso-p3-001-MASTERY"
+id: "CO-LEC-3-2026-W14-repaso-p3-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 14
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso de Periodo 3
 
@@ -25,6 +30,7 @@ Este bundle integra los conocimientos de las semanas 11 a 13: textos informativo
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "El cóndor de los Andes es el ave voladora más grande del mundo. Habita en las altas montañas de la cordillera de los Andes y se alimenta de animales muertos (es carroñero)".
@@ -32,7 +38,7 @@ Este bundle integra los conocimientos de las semanas 11 a 13: textos informativo
 ### Enunciado
 Según el texto, ¿de qué se alimenta el cóndor?
 
-### Options
+### Opciones
 - [ ] A) De frutas pequeñas. <!-- feedback: Incorrecto. El texto dice que se alimenta de animales muertos. -->
 - [ ] B) De peces del océano. <!-- feedback: Incorrecto. El cóndor vive en las montañas, no en el mar. -->
 - [x] C) De animales muertos. <!-- feedback: ¡Correcto! El texto especifica que es carroñero y que esta es su fuente de alimento. -->
@@ -48,6 +54,7 @@ Repaso de textos informativos (Semana 11). Localizar datos literales sobre las c
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **NOTICIA DE ÚLTIMA HORA:**
@@ -56,7 +63,7 @@ Repaso de textos informativos (Semana 11). Localizar datos literales sobre las c
 ### Enunciado
 ¿Cuál es el **titular** más apropiado para esta noticia?
 
-### Options
+### Opciones
 - [x] A) Nueva biblioteca abre sus puertas a la comunidad. <!-- feedback: ¡Correcto! Resume perfectamente el hecho principal mencionado en el texto. -->
 - [ ] B) Los niños prefieren jugar que leer. <!-- feedback: Incorrecto. La noticia dice que los niños leyeron cuentos, no que prefieran jugar. -->
 - [ ] C) El concierto de música de ayer. <!-- feedback: Incorrecto. La música fue solo una parte de la inauguración de la biblioteca. -->
@@ -72,6 +79,7 @@ Repaso de noticias (Semana 12). El titular debe capturar la esencia del evento r
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **PASOS PARA CEPILLARSE LOS DIENTES:**
@@ -83,7 +91,7 @@ Repaso de noticias (Semana 12). El titular debe capturar la esencia del evento r
 ### Enunciado
 ¿Cuál es la función del paso número 3 en este instructivo?
 
-### Options
+### Opciones
 - [ ] A) Ensuciar el lavamanos. <!-- feedback: Incorrecto. El objetivo de las instrucciones es la limpieza y el cuidado personal. -->
 - [x] B) Eliminar los restos de crema y suciedad de la boca. <!-- feedback: ¡Correcto! El enjuague sirve para dejar la boca limpia después del cepillado. -->
 - [ ] C) Hacer burbujas con la crema. <!-- feedback: Incorrecto. Aunque puede pasar, no es la finalidad del paso en la higiene dental. -->
@@ -99,6 +107,7 @@ Repaso de instrucciones (Semana 13). Comprender el "para qué" de cada paso ayud
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Texto A:** "La vaca es un mamífero rumiante que produce leche para el consumo humano".
@@ -107,7 +116,7 @@ Repaso de instrucciones (Semana 13). Comprender el "para qué" de cada paso ayud
 ### Enunciado
 ¿Cuál es la diferencia de **propósito** entre el Texto A y el Texto B?
 
-### Options
+### Opciones
 - [ ] A) El Texto A es para entretener y el Texto B para informar. <!-- feedback: Incorrecto. Es al revés: el A informa y el B parece parte de un relato personal. -->
 - [x] B) El Texto A da información científica y el Texto B cuenta una experiencia personal. <!-- feedback: ¡Correcto! El lenguaje del Texto A es objetivo y el del B es afectivo y descriptivo de un caso particular. -->
 - [ ] C) Ambos textos quieren que compremos una vaca. <!-- feedback: Incorrecto. Ninguno tiene lenguaje de venta o publicidad. -->
@@ -123,6 +132,7 @@ Este ejercicio integra la capacidad de distinguir tipos de textos (Informativo v
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En una noticia sobre el clima: "Se espera que este fin de semana haga mucho calor en la región Caribe. Se recomienda usar bloqueador solar y beber mucha agua".
@@ -130,7 +140,7 @@ En una noticia sobre el clima: "Se espera que este fin de semana haga mucho calo
 ### Enunciado
 Si una persona lee esta noticia y decide **quedarse en casa viendo televisión sin tomar agua**, ¿qué parte de la noticia está ignorando?
 
-### Options
+### Opciones
 - [ ] A) El titular sobre el clima. <!-- feedback: Incorrecto. Sabe que hará calor, pero no sigue los consejos. -->
 - [x] B) Las recomendaciones de salud dadas por el periodista. <!-- feedback: ¡Correcto! La noticia no solo informa el hecho (calor), sino que da instrucciones de cuidado que la persona no está siguiendo. -->
 - [ ] C) El lugar donde ocurrirá el calor. <!-- feedback: Incorrecto. Sabe que es en su región pero decide no actuar. -->
@@ -146,6 +156,7 @@ Las noticias a menudo incluyen una parte instructiva o de servicio a la comunida
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **RECETA DE ENSALADA DE FRUTAS**
@@ -158,7 +169,7 @@ Las noticias a menudo incluyen una parte instructiva o de servicio a la comunida
 ### Enunciado
 ¿Cuál es el grupo de palabras que completa correctamente el orden de la receta?
 
-### Options
+### Opciones
 - [ ] A) Después - Primero - Finalmente - Luego <!-- feedback: Incorrecto. No podemos empezar por "Después". -->
 - [ ] B) Finalmente - Luego - Después - Primero <!-- feedback: Incorrecto. Este es el orden inverso, no tiene lógica en una receta. -->
 - [x] C) Primero - Luego - Después - Finalmente <!-- feedback: ¡Correcto! Estas palabras marcan el orden lógico desde el inicio hasta el final de la preparación. -->
@@ -174,6 +185,7 @@ El uso de adverbios y conectores temporales es fundamental para la coherencia de
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Los computadores son máquinas que procesan información rápidamente. Para que funcionen, necesitan hardware (partes físicas como el teclado) y software (programas y aplicaciones)".
@@ -181,7 +193,7 @@ El uso de adverbios y conectores temporales es fundamental para la coherencia de
 ### Enunciado
 ¿Qué podemos deducir sobre un computador si **se le daña el teclado**?
 
-### Options
+### Opciones
 - [ ] A) Que el software dejará de existir. <!-- feedback: Incorrecto. Los programas siguen ahí, pero no podemos interactuar con ellos fácilmente. -->
 - [x] B) Que una parte de su hardware está fallando y esto afectará su funcionamiento. <!-- feedback: ¡Correcto! El teclado es hardware y su falla impide el uso normal de la máquina según el texto. -->
 - [ ] C) Que el computador procesará la información más rápido. <!-- feedback: Incorrecto. Un daño nunca mejora la velocidad del equipo. -->
@@ -197,6 +209,7 @@ Analizar definiciones técnicas permite al estudiante realizar inferencias lógi
 **Bloom:** Evaluate
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Lees dos noticias sobre el mismo tema:
@@ -206,7 +219,7 @@ Lees dos noticias sobre el mismo tema:
 ### Enunciado
 ¿Por qué la noticia número 2 es menos confiable que la número 1?
 
-### Options
+### Opciones
 - [ ] A) Porque es más corta y fácil de leer. <!-- feedback: Incorrecto. La longitud no define la confiabilidad. -->
 - [x] B) Porque usa un insulto u opinión negativa en lugar de dar una razón física o real. <!-- feedback: ¡Correcto! Decir "no sabe nada" es una opinión ofensiva, mientras que "estar cansados" es una condición física observable. -->
 - [ ] C) Porque no menciona el nombre del equipo. <!-- feedback: Incorrecto. Ninguna de las dos lo menciona en este ejemplo corto. -->

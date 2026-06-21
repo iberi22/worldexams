@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W05-reproduccion-celular-mitosis-001-MASTERY"
+id: "CO-CIE-6-2026-W05-reproduccion-celular-mitosis-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W05 — Reproducción Celular: Mitosis
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W05-reproduccion-celular-mitosis-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, los estudiantes ven un video animado sobre la división celular.
+**Contexto:** En Bogotá, los estudiantes ven un video animado sobre la división celular.
 
 ### Enunciado
 ¿Qué es la mitosis?
 
-### Options
+### Opciones
 - [ ] A) La división del citoplasma en dos partes iguales <!-- feedback: Incorrecto. Eso es la citocinesis, que ocurre después de la mitosis. -->
 - [ ] B) La fusión de dos células para formar una nueva <!-- feedback: Incorrecto. Eso es la fecundación. -->
 - [x] C) El proceso de división del núcleo en dos núcleos idénticos, para que la célula se divida en dos células hijas iguales <!-- feedback: Correcto. La mitosis produce dos núcleos genéticamente idénticos. -->
@@ -48,13 +51,14 @@ La mitosis es el proceso de división nuclear en células eucariotas que produce
 
 **ID:** `CO-CIE-6-2026-W05-reproduccion-celular-mitosis-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, los estudiantes memorizan las fases de la mitosis.
+**Contexto:** En Medellín, los estudiantes memorizan las fases de la mitosis.
 
 ### Enunciado
 ¿Cuál es la primera fase de la mitosis?
 
-### Options
+### Opciones
 - [ ] A) Metafase <!-- feedback: Incorrecto. La metafase es la segunda fase. -->
 - [ ] B) Anafase <!-- feedback: Incorrecto. La anafase es la tercera fase. -->
 - [x] C) Profase <!-- feedback: Correcto. La profase es la primera fase de la mitosis. -->
@@ -75,13 +79,14 @@ Es importante recordar que antes de la mitosis ocurre la **interfase**, donde la
 
 **ID:** `CO-CIE-6-2026-W05-reproduccion-celular-mitosis-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, los estudiantes observan un video time-lapse de una célula dividiéndose.
+**Contexto:** En Cali, los estudiantes observan un video time-lapse de una célula dividiéndose.
 
 ### Enunciado
 Durante la metafase de la mitosis, ¿dónde se alinean los cromosomas?
 
-### Options
+### Opciones
 - [ ] A) En los polos de la célula <!-- feedback: Incorrecto. Los cromosomas se mueven a los polos en la anafase. -->
 - [x] B) En el ecuador de la célula (placa metafásica) <!-- feedback: Correcto. Se alinean en el centro, listos para separarse. -->
 - [ ] C) Dispersos en el citoplasma <!-- feedback: Incorrecto. Están organizados, no dispersos. -->
@@ -96,13 +101,14 @@ En la **metafase**, los cromosomas duplicados (cada uno formado por dos cromáti
 
 **ID:** `CO-CIE-6-2026-W05-reproduccion-celular-mitosis-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, los estudiantes relacionan la mitosis con el crecimiento del cuerpo.
+**Contexto:** En Barranquilla, los estudiantes relacionan la mitosis con el crecimiento del cuerpo.
 
 ### Enunciado
 ¿Por qué la mitosis es importante para el crecimiento de un organismo?
 
-### Options
+### Opciones
 - [ ] A) Porque las células se agrandan indefinidamente <!-- feedback: Incorrecto. Las células tienen un tamaño máximo. -->
 - [ ] B) Porque las células se fusionan para formar otras más grandes <!-- feedback: Incorrecto. Las células no se fusionan para crecer. -->
 - [x] C) Porque aumenta el número de células, lo que hace que el organismo sea más grande <!-- feedback: Correcto. Más células = organismo más grande. -->
@@ -122,13 +128,14 @@ La mitosis también es esencial para:
 
 **ID:** `CO-CIE-6-2026-W05-reproduccion-celular-mitosis-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, estudiantes aplican el concepto de mitosis a la curación de heridas.
+**Contexto:** En Bucaramanga, estudiantes aplican el concepto de mitosis a la curación de heridas.
 
 ### Enunciado
 Cuando te raspas la rodilla y la herida se cura en unos días, ¿qué proceso celular está ocurriendo?
 
-### Options
+### Opciones
 - [ ] A) Meiosis para producir nuevas células de la piel <!-- feedback: Incorrecto. La meiosis produce gametos, no células de la piel. -->
 - [x] B) Mitosis en las células de la piel para reemplazar las células dañadas <!-- feedback: Correcto. La mitosis repara y regenera tejidos. -->
 - [ ] C) Fotosíntesis para curar la herida <!-- feedback: Incorrecto. La fotosíntesis ocurre en plantas. -->
@@ -148,13 +155,14 @@ La velocidad de curación depende de la edad, la nutrición y el estado de salud
 
 **ID:** `CO-CIE-6-2026-W05-reproduccion-celular-mitosis-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, estudiantes simulan la mitosis con plastilina en clase.
+**Contexto:** En Cartagena, estudiantes simulan la mitosis con plastilina en clase.
 
 ### Enunciado
 En la anafase de la mitosis, ¿qué ocurre con las cromátidas hermanas?
 
-### Options
+### Opciones
 - [ ] A) Se duplican nuevamente <!-- feedback: Incorrecto. La duplicación ocurre en la interfase, antes de la mitosis. -->
 - [ ] B) Se unen formando un cromosoma más grande <!-- feedback: Incorrecto. Las cromátidas son copias que se separan. -->
 - [x] C) Se separan y son jaladas hacia polos opuestos de la célula <!-- feedback: Correcto. Las cromátidas se convierten en cromosomas independientes. -->
@@ -175,13 +183,14 @@ Es crucial que la separación sea exacta: cada polo recibe una copia idéntica d
 
 **ID:** `CO-CIE-6-2026-W05-reproduccion-celular-mitosis-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan por qué el cáncer es una enfermedad de la mitosis.
+**Contexto:** En Pereira, analizan por qué el cáncer es una enfermedad de la mitosis.
 
 ### Enunciado
 ¿Qué relación existe entre la mitosis y el cáncer?
 
-### Options
+### Opciones
 - [ ] A) El cáncer detiene la mitosis completamente <!-- feedback: Incorrecto. El cáncer no detiene la mitosis. -->
 - [ ] B) El cáncer es causado por virus que destruyen las células <!-- feedback: Incorrecto. Algunos virus causan cáncer, pero no es la explicación general. -->
 - [x] C) En el cáncer, las células se dividen sin control (mitosis desregulada), formando tumores <!-- feedback: Correcto. La mitosis descontrolada es la base del cáncer. -->
@@ -204,13 +213,14 @@ La comprensión de la mitosis es fundamental para desarrollar tratamientos contr
 
 **ID:** `CO-CIE-6-2026-W05-reproduccion-celular-mitosis-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, analizan el ciclo celular completo.
+**Contexto:** En Manizales, analizan el ciclo celular completo.
 
 ### Enunciado
 El ciclo celular tiene varias fases. ¿En qué fase se replica el ADN?
 
-### Options
+### Opciones
 - [ ] A) Fase G1 <!-- feedback: Incorrecto. En G1 la célula crece y produce proteínas. -->
 - [x] B) Fase S (Síntesis) <!-- feedback: Correcto. En la fase S se duplica el ADN. -->
 - [ ] C) Fase G2 <!-- feedback: Incorrecto. En G2 la célula se prepara para la mitosis. -->
@@ -234,13 +244,14 @@ Las células que no se dividen (como las neuronas maduras) salen del ciclo celul
 
 **ID:** `CO-CIE-6-2026-W05-reproduccion-celular-mitosis-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan por qué las células cancerígenas son inmortales.
+**Contexto:** En Cúcuta, evalúan por qué las células cancerígenas son inmortales.
 
 ### Enunciado
 ¿Por qué las células cancerosas pueden dividirse indefinidamente mientras que las células normales tienen un límite?
 
-### Options
+### Opciones
 - [ ] A) Porque las células cancerosas son más grandes <!-- feedback: Incorrecto. El tamaño no determina el número de divisiones. -->
 - [ ] B) Porque las células normales se cansan de dividirse <!-- feedback: Incorrecto. No es cuestión de cansancio. -->
 - [x] C) Porque las células cancerosas activan la enzima telomerasa que reconstruye los telómeros, evitando el acortamiento que limita las divisiones celulares <!-- feedback: Correcto. Los telómeros protegen los cromosomas y la telomerasa los regenera. -->
@@ -261,13 +272,14 @@ La investigación sobre telomerasa es prometedora para terapia contra el cáncer
 
 **ID:** `CO-CIE-6-2026-W05-reproduccion-celular-mitosis-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan el uso de quimioterapia.
+**Contexto:** En Ibagué, evalúan el uso de quimioterapia.
 
 ### Enunciado
 ¿Por qué la quimioterapia causa efectos secundarios como caída del cabello y problemas digestivos?
 
-### Options
+### Opciones
 - [ ] A) Porque es un veneno que daña todo el cuerpo indiscriminadamente <!-- feedback: Incorrecto. No es exactamente así de simple. -->
 - [ ] B) Porque ataca específicamente las células del cabello <!-- feedback: Incorrecto. No es específica solo para el cabello. -->
 - [x] C) Porque ataca células que se dividen rápidamente, y tanto las células cancerosas como las del folículo piloso y el revestimiento intestinal se dividen rápido <!-- feedback: Correcto. Afecta tejidos con alta tasa de mitosis. -->

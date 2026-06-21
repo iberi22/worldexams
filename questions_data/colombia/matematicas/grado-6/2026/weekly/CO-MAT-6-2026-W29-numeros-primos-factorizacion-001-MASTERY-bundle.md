@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W29 -- Numeros Primos y Compuestos: Factorizacion
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W29-numeros-primos-factorizacion-001-MASTERY-bundle-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Definicion de primo
+**Contexto:** Definicion de primo
 
 ### Enunciado
 Que es un numero primo?
 
-### Options
+### Opciones
 - [x] A) Tiene exactamente dos divisores: 1 y si mismo <!-- feedback: Correcto. -->
 - [ ] B) Tiene mas de dos divisores <!-- feedback: Incorrecto, ese es compuesto. -->
 - [ ] C) Solo es divisible entre 1 <!-- feedback: Falta: tambien entre si mismo. -->
@@ -48,13 +51,14 @@ Numeros primos: 2,3,5,7,11,13,17,19,23...
 
 **ID:** `CO-MAT-6-2026-W29-numeros-primos-factorizacion-001-MASTERY-bundle-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Numeros compuestos
+**Contexto:** Numeros compuestos
 
 ### Enunciado
 Que es un numero compuesto?
 
-### Options
+### Opciones
 - [x] A) Tiene mas de dos divisores <!-- feedback: Correcto. -->
 - [ ] B) Tiene solo dos divisores <!-- feedback: Incorrecto, ese es primo. -->
 - [ ] C) Es el resultado de una suma <!-- feedback: Incorrecto. -->
@@ -69,13 +73,14 @@ Compuesto: 4,6,8,9,10,12,14,15,16,18,20...
 
 **ID:** `CO-MAT-6-2026-W29-numeros-primos-factorizacion-001-MASTERY-bundle-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Identificar primos
+**Contexto:** Identificar primos
 
 ### Enunciado
 Cual de estos es un numero primo?
 
-### Options
+### Opciones
 - [x] A) 17 <!-- feedback: Correcto. Solo divisible entre 1 y 17. -->
 - [ ] B) 21 <!-- feedback: Incorrecto. 21=3x7. -->
 - [ ] C) 27 <!-- feedback: Incorrecto. 27=3x9. -->
@@ -90,13 +95,14 @@ Cual de estos es un numero primo?
 
 **ID:** `CO-MAT-6-2026-W29-numeros-primos-factorizacion-001-MASTERY-bundle-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Factorizacion prima
+**Contexto:** Factorizacion prima
 
 ### Enunciado
 Cual es la factorizacion prima de 36?
 
-### Options
+### Opciones
 - [x] A) 2^2 x 3^2 <!-- feedback: Correcto. 36=2x2x3x3=2^2x3^2. -->
 - [ ] B) 2 x 3^3 <!-- feedback: 2x27=54, no 36. -->
 - [ ] C) 2^3 x 3 <!-- feedback: 8x3=24, no 36. -->
@@ -111,13 +117,14 @@ Cual es la factorizacion prima de 36?
 
 **ID:** `CO-MAT-6-2026-W29-numeros-primos-factorizacion-001-MASTERY-bundle-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Factorizar
+**Contexto:** Factorizar
 
 ### Enunciado
 Factorizacion prima de 60?
 
-### Options
+### Opciones
 - [x] A) 2^2 x 3 x 5 <!-- feedback: Correcto. 60=2x30=2x2x15=2x2x3x5. -->
 - [ ] B) 2^3 x 3 x 5 <!-- feedback: 8x15=120, no 60. -->
 - [ ] C) 2 x 3 x 5 <!-- feedback: 30, no 60. -->
@@ -132,13 +139,14 @@ Factorizacion prima de 60?
 
 **ID:** `CO-MAT-6-2026-W29-numeros-primos-factorizacion-001-MASTERY-bundle-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Primos gemelos
+**Contexto:** Primos gemelos
 
 ### Enunciado
 Los primos gemelos son pares de primos que difieren en 2. Cual par son primos gemelos?
 
-### Options
+### Opciones
 - [x] A) 11 y 13 <!-- feedback: Correcto. Difieren en 2 y ambos primos. -->
 - [ ] B) 13 y 17 <!-- feedback: Diferen 4, no son gemelos. -->
 - [ ] C) 7 y 11 <!-- feedback: Diferen 4. -->
@@ -153,13 +161,14 @@ Los primos gemelos son pares de primos que difieren en 2. Cual par son primos ge
 
 **ID:** `CO-MAT-6-2026-W29-numeros-primos-factorizacion-001-MASTERY-bundle-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Factorizacion aplicada
+**Contexto:** Factorizacion aplicada
 
 ### Enunciado
 Cual es el menor numero que tiene exactamente 3 factores primos diferentes?
 
-### Options
+### Opciones
 - [x] A) 30 (2, 3 y 5) <!-- feedback: Correcto. 30=2x3x5. -->
 - [ ] B) 6 (2x3) <!-- feedback: Solo 2 factores. -->
 - [ ] C) 12 (2x2x3) <!-- feedback: Solo 2 factores diferentes. -->
@@ -174,13 +183,14 @@ Cual es el menor numero que tiene exactamente 3 factores primos diferentes?
 
 **ID:** `CO-MAT-6-2026-W29-numeros-primos-factorizacion-001-MASTERY-bundle-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Arbol de factores
+**Contexto:** Arbol de factores
 
 ### Enunciado
 En el arbol de factores de 72, una rama llega a 8 y 9. Cuales son los factores primos de 72?
 
-### Options
+### Opciones
 - [x] A) 2^3 x 3^2 <!-- feedback: Correcto. 8=2^3, 9=3^2. -->
 - [ ] B) 2^2 x 3^2 <!-- feedback: 36, no 72. -->
 - [ ] C) 2^4 x 3^2 <!-- feedback: 16x9=144, no 72. -->
@@ -195,13 +205,14 @@ En el arbol de factores de 72, una rama llega a 8 y 9. Cuales son los factores p
 
 **ID:** `CO-MAT-6-2026-W29-numeros-primos-factorizacion-001-MASTERY-bundle-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Demostracion
+**Contexto:** Demostracion
 
 ### Enunciado
 Por que el 1 no es primo ni compuesto?
 
-### Options
+### Opciones
 - [x] A) Porque solo tiene un divisor (el 1) <!-- feedback: Correcto. Primo=2 divisores, Compuesto>=3. -->
 - [ ] B) Porque es impar <!-- feedback: Incorrecto. -->
 - [ ] C) Porque no se factoriza <!-- feedback: Incorrecto. -->
@@ -216,13 +227,14 @@ Primo tiene exactamente 2 divisores. Compuesto tiene 3+. 1 tiene solo 1 divisor.
 
 **ID:** `CO-MAT-6-2026-W29-numeros-primos-factorizacion-001-MASTERY-bundle-010-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Aplicacion
+**Contexto:** Aplicacion
 
 ### Enunciado
 Se factoriza 360 como 2^3 x 3^2 x 5. Cuales son todos sus divisores?
 
-### Options
+### Opciones
 - [x] A) Combinaciones de 2^0..3 x 3^0..2 x 5^0..1 = 4x3x2=24 divisores <!-- feedback: Correcto. -->
 - [ ] B) 12 divisores <!-- feedback: Incorrecto. -->
 - [ ] C) 360 divisores <!-- feedback: Incorrecto. -->

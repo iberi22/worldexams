@@ -1,11 +1,11 @@
 ---
-id: "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY"
+id: "CO-MAT-3-2026-W37-problemas-combinados-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "matematicas"
 tema: "problemas-combinados"
 periodo: "weekly"
-semana: 37
+week: "W37"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -20,7 +20,12 @@ rubric_baseline: "problemas que combinan dos o mas operaciones"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W37: Problemas Combinados
 
@@ -31,12 +36,12 @@ Este bundle evalua problemas que combinan dos o mas operaciones, en contextos co
 **Bloom:** Remember
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.95
-**Context:** En Colegio San Agustin de Sincelejo de Bucaramanga
+**Contexto:** En Colegio San Agustin de Sincelejo de Bucaramanga
 
 ### Enunciado
 Hay 4 bolsas con 3 manzanas cada una. Que operacion calcula el total?
 
-### Options
+### Opciones
 - [ ] A) 4 + 3 = 7 <!-- feedback: No es suma. Son 4 grupos de 3. -->
 - [x] B) 4 x 3 = 12 <!-- feedback: Correcto! 4 grupos de 3 = 4 x 3 = 12. -->
 - [ ] C) 4 - 3 = 1 <!-- feedback: La resta no calcula totales. -->
@@ -51,12 +56,12 @@ Multiplicacion es suma abreviada. 4 grupos de 3 = 3+3+3+3 = 4x3 = 12.
 **Bloom:** Understand
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.91
-**Context:** En Colegio Nuestra Senora del Rosario de Bogota
+**Contexto:** En Colegio Nuestra Senora del Rosario de Bogota
 
 ### Enunciado
 En el parque hay 7 arboles, cada uno con 5 pajaros. Cuantos pajaros hay?
 
-### Options
+### Opciones
 - [x] A) 35 <!-- feedback: Correcto! 7 x 5 = 35. -->
 - [ ] B) 12 <!-- feedback: 7+5=12. Aqui se multiplica. -->
 - [ ] C) 25 <!-- feedback: 5x5=25. Son 7 arboles. -->
@@ -71,12 +76,12 @@ Grupos iguales: 7 arboles x 5 pajaros = 35 pajaros.
 **Bloom:** Apply
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.87
-**Context:** En Colegio Simon Bolivar de Bucaramanga de Pereira
+**Contexto:** En Colegio Simon Bolivar de Bucaramanga de Pereira
 
 ### Enunciado
 Don Miguel tiene 24 huevos y los empaca en cartones de 6. Cuantos cartones?
 
-### Options
+### Opciones
 - [x] A) 4 <!-- feedback: Correcto! 24 ÷ 6 = 4 cartones. -->
 - [ ] B) 6 <!-- feedback: 6x6=36 huevos, son mas de 24. -->
 - [ ] C) 3 <!-- feedback: 3x6=18 huevos, le sobran 6. -->
@@ -91,12 +96,12 @@ Reparto equitativo: 24 huevos ÷ 6 por carton = 4 cartones.
 **Bloom:** Analyze
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.83
-**Context:** En Colegio San Luis Gonzaga de Manizales de Neiva
+**Contexto:** En Colegio San Luis Gonzaga de Manizales de Neiva
 
 ### Enunciado
 Hay 36 estudiantes en 4 equipos iguales. Cuantos por equipo?
 
-### Options
+### Opciones
 - [x] A) 9 <!-- feedback: Correcto! 36 ÷ 4 = 9. -->
 - [ ] B) 8 <!-- feedback: 8x4=32, no 36. 9x4=36. -->
 - [ ] C) 6 <!-- feedback: 6x4=24, no alcanza. -->
@@ -111,12 +116,12 @@ Reparto: 36 ÷ 4 = 9. Verifica: 9 x 4 = 36.
 **Bloom:** Evaluate
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.79
-**Context:** En Colegio San Bartolome de Armenia
+**Contexto:** En Colegio San Bartolome de Armenia
 
 ### Enunciado
 Cuanto es 7 x 3?
 
-### Options
+### Opciones
 - [x] A) 21 <!-- feedback: Correcto! 7x3=21. -->
 - [ ] B) 10 <!-- feedback: 7+3=10. Multiplicacion es diferente. -->
 - [ ] C) 24 <!-- feedback: 8x3=24. 7x3=21. -->
@@ -131,12 +136,12 @@ Tabla del 3: 3,6,9,12,15,18,21. 7x3=21.
 **Bloom:** Remember
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.75
-**Context:** En Colegio El Rosario de Ibague de Bogota
+**Contexto:** En Colegio El Rosario de Ibague de Bogota
 
 ### Enunciado
 6 empanadas a $1.500 cada una. Cuanto cuestan?
 
-### Options
+### Opciones
 - [x] A) $9.000 <!-- feedback: Correcto! 6 x 1.500 = 9.000. -->
 - [ ] B) $7.500 <!-- feedback: 5x1.500=7.500. Son 6. -->
 - [ ] C) $10.500 <!-- feedback: 7x1.500=10.500. Son 6. -->
@@ -151,12 +156,12 @@ Tabla del 3: 3,6,9,12,15,18,21. 7x3=21.
 **Bloom:** Understand
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.71
-**Context:** En Colegio San Luis Gonzaga de Manizales de Bucaramanga
+**Contexto:** En Colegio San Luis Gonzaga de Manizales de Bucaramanga
 
 ### Enunciado
 Maria dice: "6x4=24, entonces 24÷4=6". Es correcto?
 
-### Options
+### Opciones
 - [x] A) Si, son operaciones inversas <!-- feedback: Correcto! Multiplicacion y division son inversas. -->
 - [ ] B) No, da otro resultado <!-- feedback: Si, es correcto. 24÷4=6. -->
 - [ ] C) Solo si usamos 6x4=24 <!-- feedback: Siempre se cumple. -->
@@ -171,12 +176,12 @@ Si a x b = c, entonces c ÷ b = a. 6x4=24, entonces 24÷4=6.
 **Bloom:** Apply
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.67
-**Context:** En Liceo Nacional San Mateo de Pereira
+**Contexto:** En Liceo Nacional San Mateo de Pereira
 
 ### Enunciado
 3 paquetes de galletas a $2.500. Paga con $10.000. Vuelto?
 
-### Options
+### Opciones
 - [x] A) $2.500 <!-- feedback: Correcto! 3x2.500=7.500. 10.000-7.500=2.500. -->
 - [ ] B) $3.000 <!-- feedback: 3x2.500=7.500. 10.000-7.500=2.500. -->
 - [ ] C) $1.500 <!-- feedback: 10.000-7.500=2.500. -->
@@ -191,12 +196,12 @@ Total:3x2.500=7.500. Vuelto:10.000-7.500=2.500.
 **Bloom:** Analyze
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.63
-**Context:** En Colegio Nuestra Senora del Rosario de Popayan
+**Contexto:** En Colegio Nuestra Senora del Rosario de Popayan
 
 ### Enunciado
 La profesora reparte 15 lapices entre 3 estudiantes. Que operacion?
 
-### Options
+### Opciones
 - [ ] A) 15 x 3 = 45 <!-- feedback: No es multiplicacion. -->
 - [ ] B) 15 - 3 = 12 <!-- feedback: No es resta. -->
 - [x] C) 15 ÷ 3 = 5 <!-- feedback: Correcto! Reparto equitativo = division. -->
@@ -211,12 +216,12 @@ Reparto en partes iguales = division. 15 ÷ 3 = 5 lapices cada uno.
 **Bloom:** Evaluate
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.59
-**Context:** En Colegio San Agustin de Sincelejo de Medellin
+**Contexto:** En Colegio San Agustin de Sincelejo de Medellin
 
 ### Enunciado
 En el recreo hay 8 mesas con 4 sillas cada una. Total sillas?
 
-### Options
+### Opciones
 - [x] A) 32 <!-- feedback: Correcto! 8x4=32 sillas. -->
 - [ ] B) 12 <!-- feedback: 8+4=12. Hay grupos iguales, se multiplica. -->
 - [ ] C) 16 <!-- feedback: 4x4=16. Son 8 mesas. -->

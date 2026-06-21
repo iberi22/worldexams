@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-6-2026-W11-tema-semana-11-de-lengua-castellana-001-MASTERY"
+id: "CO-LEN-6-2026-W11-tema-semana-11-de-lengua-castellana-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lengua-castellana"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 10
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W11 — Tema Semana 11 de Lengua Castellana
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Tunja
+**Contexto:** I.E. Jorge Eliécer Gaitán en Tunja
 **Expected_Success:** 0.50
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Jorge Eliécer Gaitán en Tunja, se discute sobre Tema Semana 11 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 11 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 11 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 11 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 11 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Pasto
+**Contexto:** I.E. San José en Pasto
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. San José en Pasto, se discute sobre Tema Semana 11 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 11 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 11 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 11 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 11 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. Gabriel García Márquez en Manizales
+**Contexto:** I.E. Gabriel García Márquez en Manizales
 **Expected_Success:** 0.59
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Gabriel García Márquez en Manizales, se discute sobre Tema Semana 11 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 11 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 11 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 11 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 11 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Bucaramanga
+**Contexto:** I.E. Jorge Eliécer Gaitán en Bucaramanga
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Jorge Eliécer Gaitán en Bucaramanga, se discute sobre Tema Semana 11 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 11 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 11 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 11 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 11 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Cúcuta
+**Contexto:** I.E. Jorge Eliécer Gaitán en Cúcuta
 **Expected_Success:** 0.57
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Jorge Eliécer Gaitán en Cúcuta, se discute sobre Tema Semana 11 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 11 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 11 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 11 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 11 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Medellín
+**Contexto:** I.E. Gabriel García Márquez en Medellín
 **Expected_Success:** 0.67
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Gabriel García Márquez en Medellín, se discute sobre Tema Semana 11 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 11 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 11 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 11 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 11 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Manizales
+**Contexto:** I.E. Santa Luisa de Marillac en Manizales
 **Expected_Success:** 0.74
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Santa Luisa de Marillac en Manizales, se discute sobre Tema Semana 11 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 11 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 11 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 11 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 11 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** Gimnasio Moderno en Tunja
+**Contexto:** Gimnasio Moderno en Tunja
 **Expected_Success:** 0.55
 
 ### Enunciado
 En la clase de Lengua Castellana del Gimnasio Moderno en Tunja, se discute sobre Tema Semana 11 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 11 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 11 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 11 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 11 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** I.E. Santa Luisa de Marillac en Armenia
+**Contexto:** I.E. Santa Luisa de Marillac en Armenia
 **Expected_Success:** 0.65
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Santa Luisa de Marillac en Armenia, se discute sobre Tema Semana 11 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 11 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 11 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 11 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 11 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Sincelejo
+**Contexto:** Gimnasio Moderno en Sincelejo
 **Expected_Success:** 0.70
 
 ### Enunciado
 En la clase de Lengua Castellana del Gimnasio Moderno en Sincelejo, se discute sobre Tema Semana 11 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 11 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 11 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 11 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

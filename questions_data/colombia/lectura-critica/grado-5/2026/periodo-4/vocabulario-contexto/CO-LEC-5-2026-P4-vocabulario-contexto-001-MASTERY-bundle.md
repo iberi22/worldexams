@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-5-2026-P4-vocabulario-contexto-001-MASTERY"
+id: "CO-LEC-5-2026-P4-vocabulario-contexto-001-MASTERY-bundle"
 country: "colombia"
 grado: 5
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "vocabulario, significado contextual, palabras desconocidas, claves del texto, sinónimos contextuales, definición por contexto"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G5: La Fiesta de la Cosecha en el Cauca
 
@@ -44,13 +51,14 @@ rubric_baseline: "vocabulario, significado contextual, palabras desconocidas, cl
 
 **ID:** `CO-LC-5-2026-P4-vocabulario-contexto-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Significado en el texto.
+**Contexto:** Significado en el texto.
 
 ### Enunciado
 En el texto, la palabra **"ancestral"** aparece en la frase "una tradición ancestral". Según el texto, ¿qué significa que una tradición sea ancestral?
 
-### Options
+### Opciones
 - [ ] A) Que es una tradición nueva que se inventó este año. <!-- feedback: Incorrecto. "Ancestral" se refiere a algo antiguo, no nuevo. -->
 - [x] B) Que es una tradición muy antigua, que viene de los antepasados o ancestros. <!-- feedback: Correcto. "Ancestral" viene de "ancestro" y significa que viene de generaciones pasadas. La ofrenda misak es una tradición que se practica desde hace muchos años. -->
 - [ ] C) Que es una tradición que solo practican los niños. <!-- feedback: Incorrecto. La tradición la practica toda la comunidad, no solo los niños. -->
@@ -65,13 +73,14 @@ Se evalúa la capacidad de deducir el significado de "ancestral" a partir del co
 
 **ID:** `CO-LC-5-2026-P4-vocabulario-contexto-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Palabra en contexto.
+**Contexto:** Palabra en contexto.
 
 ### Enunciado
 ¿Qué significa la palabra **"cosecha"** en el título y en el texto?
 
-### Options
+### Opciones
 - [ ] A) La siembra de las semillas. <!-- feedback: Incorrecto. La cosecha es la recolección, no la siembra. -->
 - [x] B) La recolección de los frutos de la tierra, como maíz, papas y tomates. <!-- feedback: Correcto. El texto menciona "mazorcas doradas, papas moradas, tomates rojos y fresas silvestres" como productos de la huerta que se recolectan para la fiesta. -->
 - [ ] C) La compra de alimentos en el mercado. <!-- feedback: Incorrecto. La cosecha no es una compra, es una recolección. -->
@@ -86,13 +95,14 @@ Se evalúa la comprensión de una palabra clave del texto deduciendo su signific
 
 **ID:** `CO-LC-5-2026-P4-vocabulario-contexto-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Palabra en contexto.
+**Contexto:** Palabra en contexto.
 
 ### Enunciado
 Sara le pregunta a su abuela por qué tienen que **"madrugar"**. En el texto, ¿qué significa madrugar?
 
-### Options
+### Opciones
 - [ ] A) Acostarse muy temprano. <!-- feedback: Incorrecto. "Madrugar" se refiere a levantarse, no a acostarse. -->
 - [ ] B) Trabajar todo el día. <!-- feedback: Incorrecto. Madrugar es el acto de levantarse temprano, no de trabajar. -->
 - [x] C) Levantarse muy temprano, antes de que salga el sol. <!-- feedback: Correcto. Doña Lucía se levanta "antes del amanecer" y Sara bosteza porque aún es muy temprano. La abuela responde: "la fiesta empieza con el sol". -->
@@ -107,13 +117,14 @@ Se evalúa la capacidad de deducir el significado de una palabra mediante las pi
 
 **ID:** `CO-LC-5-2026-P4-vocabulario-contexto-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Significado de una palabra descriptiva.
+**Contexto:** Significado de una palabra descriptiva.
 
 ### Enunciado
 En el texto se describe a las fresas como **"silvestres"**. Según el contexto, ¿qué característica tienen las fresas silvestres?
 
-### Options
+### Opciones
 - [ ] A) Que son de color azul. <!-- feedback: Incorrecto. El texto no dice el color de las fresas silvestres. -->
 - [x] B) Que crecen naturalmente en el campo, sin ser cultivadas por las personas. <!-- feedback: Correcto. "Silvestre" se refiere a plantas que crecen sin intervención humana. El contexto de la huerta y la cosecha tradicional apoya esta interpretación. -->
 - [ ] C) Que están podridas. <!-- feedback: Incorrecto. No hay indicios de que estén en mal estado. -->
@@ -128,13 +139,14 @@ Se evalúa la deducción del significado de un adjetivo a partir del contexto de
 
 **ID:** `CO-LC-5-2026-P4-vocabulario-contexto-001-MASTERY-v5`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Palabra cultural.
+**Contexto:** Palabra cultural.
 
 ### Enunciado
 ¿Qué pista del texto ayuda a entender el significado de la palabra **"ofrenda"**?
 
-### Options
+### Opciones
 - [ ] A) Que es un tipo de comida que se vende en la plaza. <!-- feedback: Incorrecto. No se vende, se ofrece. -->
 - [x] B) Que las familias llevan sus mejores productos a la plaza para agradecer a la Madre Tierra, y el gobernador hace una oración. <!-- feedback: Correcto. Estas acciones describen una ofrenda: dar algo valioso como muestra de gratitud. -->
 - [ ] C) Que es una competencia para ver quién tiene más maíz. <!-- feedback: Incorrecto. No hay competencia. -->
@@ -149,13 +161,14 @@ Se evalúa la capacidad de utilizar las acciones descritas en el texto como clav
 
 **ID:** `CO-LC-5-2026-P4-vocabulario-contexto-001-MASTERY-v6`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Palabra descriptiva.
+**Contexto:** Palabra descriptiva.
 
 ### Enunciado
 El texto dice que los canastos están hechos de **"mimbre"**. ¿Qué pista hay en el texto sobre qué es el mimbre?
 
-### Options
+### Opciones
 - [ ] A) Que es un tipo de metal resistente. <!-- feedback: Incorrecto. No hay mención de metal. -->
 - [ ] B) Que es un material que se usa para hacer canastos, probablemente una fibra vegetal. <!-- feedback: Correcto. Doña Lucía ya había sido descrita con un "sombrero de fibra vegetal", y el mimbre es un material similar que se usa para cestería. -->
 - [ ] C) Que es una fruta que se cultiva en Silvia. <!-- feedback: Incorrecto. El mimbre no es una fruta. -->
@@ -170,13 +183,14 @@ Se evalúa la capacidad de usar pistas contextuales (la tradición ancestral y l
 
 **ID:** `CO-LC-5-2026-P4-vocabulario-contexto-001-MASTERY-v7`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Comparación contextual.
+**Contexto:** Comparación contextual.
 
 ### Enunciado
 Al final del texto, se dice que el día es de **"regocijo"**. ¿Qué pista en el texto ayuda a entender esta palabra?
 
-### Options
+### Opciones
 - [ ] A) Que doña Lucía se levanta antes del amanecer. <!-- feedback: Incorrecto. Eso indica esfuerzo, no alegría. -->
 - [ ] B) Que Sara bosteza. <!-- feedback: Incorrecto. Bostezar indica sueño, no alegría. -->
 - [x] C) Que "todos bailan" y la música de flautas y tambores "llena el aire". Además, se describe como "alegría compartida". <!-- feedback: Correcto. El baile, la música y la mención directa de "alegría" son pistas que indican que "regocijo" significa alegría intensa y celebración. -->
@@ -191,13 +205,14 @@ Se evalúa la capacidad de usar múltiples pistas del final del texto para deduc
 
 **ID:** `CO-LC-5-2026-P4-vocabulario-contexto-001-MASTERY-v8`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Significado por analogía.
+**Contexto:** Significado por analogía.
 
 ### Enunciado
 En el texto, la **"pirámide"** de alimentos se describe como algo que "llegaba casi hasta el techo de la capilla". ¿Qué forma tiene esa pirámide?
 
-### Options
+### Opciones
 - [ ] A) Una forma redonda como una bola. <!-- feedback: Incorrecto. Una pirámide no es redonda. -->
 - [ ] B) Una forma plana como una tabla. <!-- feedback: Incorrecto. Una pirámide es tridimensional y con punta. -->
 - [x] C) Una forma que empieza ancha en la base y termina en punta. <!-- feedback: Correcto. La palabra "pirámide" describe una estructura con base ancha que se va haciendo más angosta hacia arriba, como las pirámides de Egipto. -->
@@ -212,13 +227,14 @@ Se evalúa el uso del conocimiento del mundo y las pistas del texto para entende
 
 **ID:** `CO-LC-5-2026-P4-vocabulario-contexto-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Estrategias de deducción.
+**Contexto:** Estrategias de deducción.
 
 ### Enunciado
 Para entender palabras nuevas en un texto, los lectores pueden usar diferentes estrategias. ¿Cuál de estas estrategias usaste para entender la palabra **"gobernador indígena"**?
 
-### Options
+### Opciones
 - [ ] A) Buscar la palabra en el diccionario. <!-- feedback: Posible, pero el texto da una pista directa. -->
 - [ ] B) Reconocer que "gobernador" es quien gobierna o lidera. <!-- feedback: Parcialmente correcto. -->
 - [x] C) Usar los guiones que explican la palabra: "el gobernador indígena —el líder de la comunidad—". Los guiones indican una aclaración. <!-- feedback: Correcto. El texto mismo explica entre guiones que el gobernador indígena es "el líder de la comunidad". Esta es una estrategia de lectura: usar las aclaraciones que el autor incluye. -->
@@ -233,13 +249,14 @@ Se evalúa el reconocimiento de una estrategia específica de lectura: el uso de
 
 **ID:** `CO-LC-5-2026-P4-vocabulario-contexto-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Aplicación de estrategias de vocabulario.
+**Contexto:** Aplicación de estrategias de vocabulario.
 
 ### Enunciado
 ¿Cuál de las siguientes opciones describe mejor la estrategia que usaste para entender la mayoría de las palabras nuevas en este texto?
 
-### Options
+### Opciones
 - [ ] A) Preguntarle a un adulto el significado de cada palabra. <!-- feedback: Incorrecto. La lectura independiente requiere estrategias propias, no depender de otros. -->
 - [ ] B) Saltarse las palabras difíciles y solo leer las fáciles. <!-- feedback: Incorrecto. Saltarse palabras dificulta la comprensión global. -->
 - [x] C) Usar las pistas del texto: las acciones de los personajes, las descripciones y las palabras conocidas alrededor. <!-- feedback: Correcto. Esta es la estrategia de "claves de contexto": usar la información que rodea a la palabra para deducir su significado. -->

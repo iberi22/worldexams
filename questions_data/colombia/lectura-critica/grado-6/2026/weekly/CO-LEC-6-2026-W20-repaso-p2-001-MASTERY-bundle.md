@@ -1,28 +1,32 @@
 ---
-id: "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY"
+id: "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "repaso-p2"
-semana: "W20"
+week: "W20"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso del Periodo 2 - Grado 6
 ## Semana W20
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio Nuestra Señora del Rosario de Manizales, los estudiantes repasan los tipos de texto vistos en el periodo.
+**Contexto:** En el Colegio Nuestra Señora del Rosario de Manizales, los estudiantes repasan los tipos de texto vistos en el periodo.
 **Expected_Success:** 0.86
 
 ### Enunciado
@@ -39,11 +43,11 @@ En el repaso de periodo, es esencial que los estudiantes distingan los tipos de 
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** Los estudiantes del Colegio San Felipe Neri de Cartagena leen un texto sobre una noticia ambiental en la Ciénaga Grande.
+**Contexto:** Los estudiantes del Colegio San Felipe Neri de Cartagena leen un texto sobre una noticia ambiental en la Ciénaga Grande.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ Para identificar el tipo de texto, hay que considerar: propósito, estructura, c
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. La Salle de Sincelejo, los estudiantes comparan un eslogan publicitario y un titular periodístico.
+**Contexto:** En la I.E. La Salle de Sincelejo, los estudiantes comparan un eslogan publicitario y un titular periodístico.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ Una misma frase corta puede ser publicitaria o periodística según su contexto 
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En el Colegio San José de Betulia, los estudiantes deben clasificar varios textos según su tipo.
+**Contexto:** En el Colegio San José de Betulia, los estudiantes deben clasificar varios textos según su tipo.
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -107,11 +111,11 @@ Clasificar textos es una habilidad fundamental. Para hacerlo correctamente, preg
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En el Liceo de la Universidad de Nariño, los estudiantes analizan un artículo de divulgación científica sobre el café colombiano.
+**Contexto:** En el Liceo de la Universidad de Nariño, los estudiantes analizan un artículo de divulgación científica sobre el café colombiano.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -128,11 +132,11 @@ La divulgación científica se reconoce por: 1) tema de ciencia, 2) lenguaje cla
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio San Pablo de Bucaramanga, los estudiantes explican por qué los textos se clasifican en géneros.
+**Contexto:** En el Colegio San Pablo de Bucaramanga, los estudiantes explican por qué los textos se clasifican en géneros.
 **Expected_Success:** 0.64
 
 ### Enunciado
@@ -149,11 +153,11 @@ Clasificar textos es una habilidad metacognitiva: al identificar el tipo de text
 
 ---
 
-## Pregunta 7 [D7]
+## Question 7 [D7]
 **ID:** `CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-v7`
 **Bloom:** Evaluate
 **ICFES:** Comprensión de textos
-**Context:** En la Institución Educativa Técnica de Falan, los estudiantes evalúan si un texto es confiable.
+**Contexto:** En la Institución Educativa Técnica de Falan, los estudiantes evalúan si un texto es confiable.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -170,11 +174,11 @@ Uno de los aprendizajes más importantes de la lectura crítica es identificar c
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En el Colegio Mayor de San Bartolomé de Bogotá, los estudiantes debaten sobre la combinación de géneros en un texto.
+**Contexto:** En el Colegio Mayor de San Bartolomé de Bogotá, los estudiantes debaten sobre la combinación de géneros en un texto.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -191,11 +195,11 @@ Aunque la clasificación de textos es útil como herramienta de análisis, en la
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En el Colegio Andino de Bogotá, los estudiantes diseñan un proyecto de comunicación para su comunidad.
+**Contexto:** En el Colegio Andino de Bogotá, los estudiantes diseñan un proyecto de comunicación para su comunidad.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -212,11 +216,11 @@ Saber elegir el tipo de texto adecuado para cada propósito comunicativo es una 
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio Bilingüe de Cali, el examen final del periodo pide a los estudiantes crear un texto que combine dos géneros.
+**Contexto:** En el Colegio Bilingüe de Cali, el examen final del periodo pide a los estudiantes crear un texto que combine dos géneros.
 **Expected_Success:** 0.43
 
 ### Enunciado

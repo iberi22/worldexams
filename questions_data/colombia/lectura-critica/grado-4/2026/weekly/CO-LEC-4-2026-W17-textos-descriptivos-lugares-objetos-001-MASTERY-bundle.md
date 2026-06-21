@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W17-textos-descriptivos-lugares-objetos-001-MASTERY"
+id: "CO-LEC-4-2026-W17-textos-descriptivos-lugares-objetos-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "textos-descriptivos-lugares-objetos"
-semana: "W17"
+week: "W17"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "descripción, lugares, objetos, adjetivos"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W17: Textos descriptivos: lugares, objetos
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W17-textos-descriptivos-lugares-objetos-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Lugar.
+**Contexto:** Lugar.
 
 ### Enunciado
 *"El Parque del Café está en Montenegro, Quindío."* ¿Dónde está?
 
-### Options
-- [ ] A) Bogotá.
+### Opciones
+- [ ] A) Bogotá. <!-- feedback: Incorrecto. Bogotá. -->
 - [x] B) Montenegro, Quindío. <!-- feedback: Correcto. -->
-- [ ] C) Medellín.
-- [ ] D) Cali.
+- [ ] C) Medellín. <!-- feedback: Incorrecto. Medellín. -->
+- [ ] D) Cali. <!-- feedback: Incorrecto. Cali. -->
 
 ### Explicación Pedagógica
 Ubicación.
@@ -49,17 +54,18 @@ Ubicación.
 
 **ID:** `CO-LEC-4-2026-W17-textos-descriptivos-lugares-objetos-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Objeto.
+**Contexto:** Objeto.
 
 ### Enunciado
 *"La mochila wayúu es colorida y está tejida a mano."* ¿Qué objeto es?
 
-### Options
-- [ ] A) Sombrero.
+### Opciones
+- [ ] A) Sombrero. <!-- feedback: Incorrecto. Sombrero. -->
 - [x] B) Mochila wayúu. <!-- feedback: Correcto. -->
-- [ ] C) Bolso.
-- [ ] D) Hamaca.
+- [ ] C) Bolso. <!-- feedback: Incorrecto. Bolso. -->
+- [ ] D) Hamaca. <!-- feedback: Incorrecto. Hamaca. -->
 
 ### Explicación Pedagógica
 Objeto.
@@ -70,17 +76,18 @@ Objeto.
 
 **ID:** `CO-LEC-4-2026-W17-textos-descriptivos-lugares-objetos-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Describir lugar.
+**Contexto:** Describir lugar.
 
 ### Enunciado
 *"El Jardín Botánico de Medellín tiene muchas flores y mariposas."* ¿Cómo es?
 
-### Options
-- [ ] A) Aburrido.
+### Opciones
+- [ ] A) Aburrido. <!-- feedback: Incorrecto. Aburrido. -->
 - [x] B) Colorido, con flores y mariposas. <!-- feedback: Correcto. -->
-- [ ] C) Oscuro.
-- [ ] D) Ruidoso.
+- [ ] C) Oscuro. <!-- feedback: Incorrecto. Oscuro. -->
+- [ ] D) Ruidoso. <!-- feedback: Incorrecto. Ruidoso. -->
 
 ### Explicación Pedagógica
 Descripción lugar.
@@ -91,17 +98,18 @@ Descripción lugar.
 
 **ID:** `CO-LEC-4-2026-W17-textos-descriptivos-lugares-objetos-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Material.
+**Contexto:** Material.
 
 ### Enunciado
 *"La olla de barro es resistente al calor."* ¿De qué material es?
 
-### Options
-- [ ] A) Plástico.
+### Opciones
+- [ ] A) Plástico. <!-- feedback: Incorrecto. Plástico. -->
 - [x] B) Barro. <!-- feedback: Correcto. -->
-- [ ] C) Vidrio.
-- [ ] D) Metal.
+- [ ] C) Vidrio. <!-- feedback: Incorrecto. Vidrio. -->
+- [ ] D) Metal. <!-- feedback: Incorrecto. Metal. -->
 
 ### Explicación Pedagógica
 Material.
@@ -112,17 +120,18 @@ Material.
 
 **ID:** `CO-LEC-4-2026-W17-textos-descriptivos-lugares-objetos-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Tamaño.
+**Contexto:** Tamaño.
 
 ### Enunciado
 *"La piedra del Guatapurí es enorme y pesa toneladas."* ¿Cómo es?
 
-### Options
-- [ ] A) Pequeña.
+### Opciones
+- [ ] A) Pequeña. <!-- feedback: Incorrecto. Pequeña. -->
 - [x] B) Enorme. <!-- feedback: Correcto. -->
-- [ ] C) Mediana.
-- [ ] D) Liviana.
+- [ ] C) Mediana. <!-- feedback: Incorrecto. Mediana. -->
+- [ ] D) Liviana. <!-- feedback: Incorrecto. Liviana. -->
 
 ### Explicación Pedagógica
 Tamaño.
@@ -133,17 +142,18 @@ Tamaño.
 
 **ID:** `CO-LEC-4-2026-W17-textos-descriptivos-lugares-objetos-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Inferir lugar.
+**Contexto:** Inferir lugar.
 
 ### Enunciado
 *"Tiene libros, silencio y mesas para estudiar."* ¿Qué lugar es?
 
-### Options
+### Opciones
 - [x] A) Biblioteca. <!-- feedback: Correcto. -->
-- [ ] B) Estadio.
-- [ ] C) Restaurante.
-- [ ] D) Parque.
+- [ ] B) Estadio. <!-- feedback: Incorrecto. Estadio. -->
+- [ ] C) Restaurante. <!-- feedback: Incorrecto. Restaurante. -->
+- [ ] D) Parque. <!-- feedback: Incorrecto. Parque. -->
 
 ### Explicación Pedagógica
 Inferir lugar.
@@ -154,17 +164,18 @@ Inferir lugar.
 
 **ID:** `CO-LEC-4-2026-W17-textos-descriptivos-lugares-objetos-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Ordenar descripción.
+**Contexto:** Ordenar descripción.
 
 ### Enunciado
 *"1. Color 2. Forma 3. Tamaño 4. Textura"* ¿Orden lógico?
 
-### Options
+### Opciones
 - [x] A) 1,2,3,4. <!-- feedback: Correcto. -->
-- [ ] B) 4,3,2,1.
-- [ ] C) 3,1,2,4.
-- [ ] D) 2,4,1,3.
+- [ ] B) 4,3,2,1. <!-- feedback: Incorrecto. 4,3,2,1. -->
+- [ ] C) 3,1,2,4. <!-- feedback: Incorrecto. 3,1,2,4. -->
+- [ ] D) 2,4,1,3. <!-- feedback: Incorrecto. 2,4,1,3. -->
 
 ### Explicación Pedagógica
 Orden descriptivo.
@@ -175,13 +186,14 @@ Orden descriptivo.
 
 **ID:** `CO-LEC-4-2026-W17-textos-descriptivos-lugares-objetos-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Comparar objetos.
+**Contexto:** Comparar objetos.
 
 ### Enunciado
 *"Hamaca: suave, tejida. Silla: dura, de madera."* ¿Diferencia?
 
-### Options
+### Opciones
 - [ ] A) Ambos para sentarse. <!-- feedback: Semejanza. -->
 - [x] B) Suave/tejida vs dura/madera. <!-- feedback: Correcto. -->
 - [ ] C) Ambos en casa. <!-- feedback: Semejanza. -->
@@ -196,17 +208,18 @@ Contrastar objetos.
 
 **ID:** `CO-LEC-4-2026-W17-textos-descriptivos-lugares-objetos-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Evaluar descripción.
+**Contexto:** Evaluar descripción.
 
 ### Enunciado
 *"‘Mi cuarto tiene una cama.’"* ¿Es buena descripción?
 
-### Options
-- [ ] A) Sí.
+### Opciones
+- [ ] A) Sí. <!-- feedback: Incorrecto. Sí. -->
 - [x] B) Faltan detalles (color, tamaño, objetos). <!-- feedback: Correcto. -->
-- [ ] C) Demasiado larga.
-- [ ] D) No, aburrida.
+- [ ] C) Demasiado larga. <!-- feedback: Incorrecto. Demasiado larga. -->
+- [ ] D) No, aburrida. <!-- feedback: Incorrecto. No, aburrida. -->
 
 ### Explicación Pedagógica
 Evaluar suficiencia.
@@ -217,17 +230,18 @@ Evaluar suficiencia.
 
 **ID:** `CO-LEC-4-2026-W17-textos-descriptivos-lugares-objetos-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Crear descripción.
+**Contexto:** Crear descripción.
 
 ### Enunciado
 *"Describe el Parque del Café."* ¿Qué incluir?
 
-### Options
-- [ ] A) Solo el nombre.
+### Opciones
+- [ ] A) Solo el nombre. <!-- feedback: Incorrecto. Solo el nombre. -->
 - [x] B) Vegetación, juegos, clima, ubicación. <!-- feedback: Correcto. -->
-- [ ] C) Solo el clima.
-- [ ] D) Solo la entrada.
+- [ ] C) Solo el clima. <!-- feedback: Incorrecto. Solo el clima. -->
+- [ ] D) Solo la entrada. <!-- feedback: Incorrecto. Solo la entrada. -->
 
 ### Explicación Pedagógica
 Elementos descriptivos.

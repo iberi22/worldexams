@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-P2-ideas-principales-secundarias-INDEX-MASTERY"
+id: "CO-LEC-6-2026-P2-ideas-principales-secundarias-INDEX-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "ideas principales, ideas secundarias, jerarquía textual, tema central, detalles de apoyo"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G6 — Ideas Principales y Secundarias
 
@@ -29,12 +36,13 @@ rubric_baseline: "ideas principales, ideas secundarias, jerarquía textual, tema
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Cuál era la función original de la chiva?
 
-### Options
+### Opciones
 - [ ] A) Ser un bus para fiestas. <!-- feedback: Incorrecto. -->
 - [x] B) Transportar personas entre pueblos y ciudades. <!-- feedback: Correcto. -->
 - [ ] C) Llevar turistas a la playa. <!-- feedback: Incorrecto. -->
@@ -46,12 +54,13 @@ Identificación de la función original descrita en el texto.
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Por qué se llama "chiva"?
 
-### Options
+### Opciones
 - [ ] A) Porque transporta chivos. <!-- feedback: Incorrecto. -->
 - [x] B) Porque el sonido de su motor se parece al ruido de una cabra. <!-- feedback: Correcto. -->
 - [ ] C) Porque es rápida como una cabra. <!-- feedback: Incorrecto. -->
@@ -63,12 +72,13 @@ Identificación del origen del nombre.
 ## Question 3 [D4 - Idea principal]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Cuál es la idea principal del texto?
 
-### Options
+### Opciones
 - [ ] A) Las chivas son buses lentos. <!-- feedback: Incorrecto. -->
 - [x] B) La chiva evolucionó de ser un transporte rural a convertirse en un símbolo cultural colombiano. <!-- feedback: Correcto. -->
 - [ ] C) Las chivas son solo para fiestas. <!-- feedback: Incorrecto. -->
@@ -80,12 +90,13 @@ Identificación de la idea central que engloba todo el texto.
 ## Question 4 [D4 - Idea secundaria]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Cuál de las siguientes es una idea secundaria del texto?
 
-### Options
+### Opciones
 - [x] A) Las chivas están pintadas a mano con colores brillantes y dibujos. <!-- feedback: Correcto. -->
 - [ ] B) La chiva es un símbolo cultural de Colombia. <!-- feedback: Incorrecto (esta es la idea principal). -->
 - [ ] C) La chiva fue declarada Bien de Interés Cultural. <!-- feedback: Incorrecto (es una consecuencia de la idea principal). -->
@@ -97,12 +108,13 @@ Diferenciación entre detalle descriptivo (secundario) y tema central (principal
 ## Question 5 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Qué tienen de especial los interiores de las chivas?
 
-### Options
+### Opciones
 - [ ] A) Tienen aire acondicionado. <!-- feedback: Incorrecto. -->
 - [x] B) Tienen bancas de madera y techo alto. <!-- feedback: Correcto. -->
 - [ ] C) Tienen asientos de cuero. <!-- feedback: Incorrecto. -->
@@ -114,12 +126,13 @@ Identificación de un detalle descriptivo.
 ## Question 6 [D5 - Jerarquía]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué información del texto es un detalle que apoya la idea de que la chiva es un símbolo cultural?
 
-### Options
+### Opciones
 - [ ] A) Que tiene motor diésel. <!-- feedback: Incorrecto. -->
 - [x] B) Que representa la alegría, el ingenio y la tradición de los pueblos colombianos. <!-- feedback: Correcto. -->
 - [ ] C) Que es un medio de transporte. <!-- feedback: Incorrecto. -->
@@ -131,12 +144,13 @@ Identificación de un detalle que respalda la idea principal.
 ## Question 7 [D5 - Jerarquía]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Cuál es la relación entre el segundo párrafo (chivas rumberas) y la idea principal?
 
-### Options
+### Opciones
 - [ ] A) Es un dato sin relación. <!-- feedback: Incorrecto. -->
 - [x] B) Muestra cómo la chiva evolucionó de transporte a ícono festivo, apoyando la idea de su valor cultural. <!-- feedback: Correcto. -->
 - [ ] C) Contradice la idea principal. <!-- feedback: Incorrecto. -->
@@ -148,12 +162,13 @@ Comprensión de cómo los párrafos apoyan la idea central.
 ## Question 8 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué pasó con la chiva en 2023?
 
-### Options
+### Opciones
 - [ ] A) Dejó de circular. <!-- feedback: Incorrecto. -->
 - [x] B) Fue declarada Bien de Interés Cultural de la Nación. <!-- feedback: Correcto. -->
 - [ ] C) Se volvió ilegal. <!-- feedback: Incorrecto. -->
@@ -165,12 +180,13 @@ Identificación de un hecho relevante.
 ## Question 9 [D5 - Evaluación]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Por qué es importante distinguir entre la idea principal y las ideas secundarias?
 
-### Options
+### Opciones
 - [ ] A) Para memorizar todo el texto. <!-- feedback: Incorrecto. -->
 - [x] B) Para comprender qué es lo más importante que el autor quiere comunicar. <!-- feedback: Correcto. -->
 - [ ] C) Para encontrar errores. <!-- feedback: Incorrecto. -->
@@ -182,12 +198,13 @@ Reflexión metacognitiva sobre la importancia de la jerarquización textual.
 ## Question 10 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 Si tuvieras que resumir este texto en una sola oración, ¿qué dirías?
 
-### Options
+### Opciones
 - [ ] A) Las chivas tienen bancas de madera. <!-- feedback: Incorrecto. -->
 - [x] B) La chiva, de ser transporte rural, se convirtió en un símbolo cultural de la alegría colombiana. <!-- feedback: Correcto. -->
 - [ ] C) Las chivas son coloridas. <!-- feedback: Incorrecto. -->

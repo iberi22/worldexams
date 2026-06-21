@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY"
+id: "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 4"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Vocabulario - familias léxicas - Grado 4
 
@@ -22,7 +24,7 @@ Este bundle explora el concepto de familia de palabras o familia léxica, identi
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -33,21 +35,20 @@ Este bundle explora el concepto de familia de palabras o familia léxica, identi
 ¿Qué es una familia léxica o de palabras?
 
 ### Opciones
-- [ ] A) Palabras que suenan igual pero se escriben diferente.
-  <!-- feedback: Esas son palabras homófonas. -->
-- [x] B) Un grupo de palabras que comparten la misma raíz y tienen significados relacionados.
-  <!-- feedback: ¡Correcto! Todas nacen de una palabra base o primitiva. -->
-- [ ] C) Todas las palabras que se usan en una misma familia de personas.
-  <!-- feedback: No, no tiene que ver con el parentesco humano. -->
-- [ ] D) Una lista de sinónimos muy parecidos.
-  <!-- feedback: Los sinónimos no siempre comparten la misma raíz. -->
+- [ ] A) Palabras que suenan igual pero se escriben diferente. <!-- feedback: Incorrecto. Palabras que suenan igual pero se escrib -->
+
+- [x] B) Un grupo de palabras que comparten la misma raíz y tienen significados relacionados. <!-- feedback: Correcto! Un grupo de palabras que comparten la misma raíz y tienen si -->
+
+- [ ] C) Todas las palabras que se usan en una misma familia de personas. <!-- feedback: Incorrecto. Todas las palabras que se usan en una mi -->
+
+- [ ] D) Una lista de sinónimos muy parecidos. <!-- feedback: Incorrecto. Una lista de sinónimos muy parecidos. -->
 
 ### Explicación Pedagogica
 La familia léxica permite entender la estructura de las palabras y ampliar el vocabulario a partir de raíces conocidas.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -58,21 +59,20 @@ La familia léxica permite entender la estructura de las palabras y ampliar el v
 ¿Cuál es la **raíz** común de la familia: **Mar, marino, marea, marinero**?
 
 ### Opciones
-- [ ] A) -ino
-  <!-- feedback: Es un sufijo en "marino". -->
-- [x] B) Mar-
-  <!-- feedback: ¡Muy bien! Es la parte que se repite en todas y contiene el significado base. -->
-- [ ] C) -era
-  <!-- feedback: Es un sufijo en "marea". -->
-- [ ] D) Agua
-  <!-- feedback: Es un significado relacionado, pero no es la raíz de estas palabras. -->
+- [ ] A) -ino <!-- feedback: Incorrecto. -ino -->
+
+- [x] B) Mar- <!-- feedback: Correcto! Mar- -->
+
+- [ ] C) -era <!-- feedback: Incorrecto. -era -->
+
+- [ ] D) Agua <!-- feedback: Incorrecto. Agua -->
 
 ### Explicación Pedagogica
 La raíz o lexema es la parte invariable de la palabra que contiene el significado fundamental.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -83,21 +83,20 @@ La raíz o lexema es la parte invariable de la palabra que contiene el significa
 ¿Qué palabra NO pertenece a la familia léxica de **"Flor"**?
 
 ### Opciones
-- [ ] A) Florero
-  <!-- feedback: Sí pertenece, es donde se ponen flores. -->
-- [ ] B) Florista
-  <!-- feedback: Sí pertenece, es quien vende flores. -->
-- [x] C) Flotar
-  <!-- feedback: ¡Excelente! Aunque empieza parecido, su significado es totalmente diferente. -->
-- [ ] D) Florecer
-  <!-- feedback: Sí pertenece, es la acción de dar flores. -->
+- [ ] A) Florero <!-- feedback: Incorrecto. Florero -->
+
+- [ ] B) Florista <!-- feedback: Incorrecto. Florista -->
+
+- [x] C) Flotar <!-- feedback: Correcto! Flotar -->
+
+- [ ] D) Florecer <!-- feedback: Incorrecto. Florecer -->
 
 ### Explicación Pedagogica
 Para pertenecer a una familia léxica, la palabra debe compartir la raíz y también una relación de significado.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -108,21 +107,20 @@ Para pertenecer a una familia léxica, la palabra debe compartir la raíz y tamb
 ¿Cuál de estas palabras pertenece a la familia de **"Pan"**?
 
 ### Opciones
-- [ ] A) Pantalón
-  <!-- feedback: No tiene relación de significado con el pan. -->
-- [x] B) Panadería
-  <!-- feedback: ¡Correcto! Es el lugar donde se fabrica y vende el pan. -->
-- [ ] C) Pantano
-  <!-- feedback: No tiene relación de significado. -->
-- [ ] D) Pantera
-  <!-- feedback: No tiene relación de significado. -->
+- [ ] A) Pantalón <!-- feedback: Incorrecto. Pantalón -->
+
+- [x] B) Panadería <!-- feedback: Correcto! Panadería -->
+
+- [ ] C) Pantano <!-- feedback: Incorrecto. Pantano -->
+
+- [ ] D) Pantera <!-- feedback: Incorrecto. Pantera -->
 
 ### Explicación Pedagogica
 La derivación mediante sufijos (como -adería) permite crear nombres de lugares, profesiones o acciones a partir de una raíz.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -133,21 +131,20 @@ La derivación mediante sufijos (como -adería) permite crear nombres de lugares
 ¿Cómo se llama a la palabra que da origen a las demás en una familia léxica?
 
 ### Opciones
-- [ ] A) Palabra hija.
-  <!-- feedback: No es el término gramatical. -->
-- [x] B) Palabra primitiva.
-  <!-- feedback: ¡Así es! Es la palabra original de la que nacen las demás. -->
-- [ ] C) Palabra derivada.
-  <!-- feedback: Estas son las palabras que nacen de la primitiva. -->
-- [ ] D) Palabra compuesta.
-  <!-- feedback: Es un tipo diferente de formación. -->
+- [ ] A) Palabra hija. <!-- feedback: Incorrecto. Palabra hija. -->
+
+- [x] B) Palabra primitiva. <!-- feedback: Correcto! Palabra primitiva. -->
+
+- [ ] C) Palabra derivada. <!-- feedback: Incorrecto. Palabra derivada. -->
+
+- [ ] D) Palabra compuesta. <!-- feedback: Incorrecto. Palabra compuesta. -->
 
 ### Explicación Pedagogica
 La distinción entre palabras primitivas y derivadas es clave para entender la jerarquía dentro de una familia léxica.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -158,21 +155,20 @@ La distinción entre palabras primitivas y derivadas es clave para entender la j
 ¿Cuál es la relación de significado en la familia de **"Fruta"** (frutero, frutería, frutar)?
 
 ### Opciones
-- [ ] A) Todas sirven para comer.
-  <!-- feedback: Un frutero (objeto) no se come. -->
-- [x] B) Todas se refieren al fruto de las plantas o a actividades relacionadas con él.
-  <!-- feedback: ¡Exacto! Ese es el hilo conductor de toda la familia. -->
-- [ ] C) Todas son de color verde.
-  <!-- feedback: El color no define la familia léxica. -->
-- [ ] D) Todas empiezan con la letra F solamente.
-  <!-- feedback: Muchas palabras empiezan con F y no son de esta familia. -->
+- [ ] A) Todas sirven para comer. <!-- feedback: Incorrecto. Todas sirven para comer. -->
+
+- [x] B) Todas se refieren al fruto de las plantas o a actividades relacionadas con él. <!-- feedback: Correcto! Todas se refieren al fruto de las plantas o a actividades re -->
+
+- [ ] C) Todas son de color verde. <!-- feedback: Incorrecto. Todas son de color verde. -->
+
+- [ ] D) Todas empiezan con la letra F solamente. <!-- feedback: Incorrecto. Todas empiezan con la letra F solamente. -->
 
 ### Explicación Pedagogica
 La semántica (el significado) es lo que valida que un conjunto de palabras con la misma raíz formen una verdadera familia.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -183,21 +179,20 @@ La semántica (el significado) es lo que valida que un conjunto de palabras con 
 Si sabes que **"Hacer"** se escribe con **"H"**, ¿cómo se deben escribir sus familiares: **deshacer**, **haciendo**, **rehacer**?
 
 ### Opciones
-- [ ] A) Unas con H y otras sin H.
-  <!-- feedback: Normalmente mantienen la ortografía de la raíz. -->
-- [x] B) Todas con H, porque mantienen la ortografía de la raíz.
-  <!-- feedback: ¡Muy bien! Conocer la familia léxica ayuda a no cometer errores ortográficos. -->
-- [ ] C) Depende si son palabras largas o cortas.
-  <!-- feedback: El tamaño no influye en la letra inicial. -->
-- [ ] D) Se escriben con J.
-  <!-- feedback: No, se mantiene la H de la raíz. -->
+- [ ] A) Unas con H y otras sin H. <!-- feedback: Incorrecto. Unas con H y otras sin H. -->
+
+- [x] B) Todas con H, porque mantienen la ortografía de la raíz. <!-- feedback: Correcto! Todas con H, porque mantienen la ortografía de la raíz. -->
+
+- [ ] C) Depende si son palabras largas o cortas. <!-- feedback: Incorrecto. Depende si son palabras largas o cortas. -->
+
+- [ ] D) Se escriben con J. <!-- feedback: Incorrecto. Se escriben con J. -->
 
 ### Explicación Pedagogica
 Una gran ventaja de conocer las familias léxicas es que la mayoría de las palabras derivadas conservan las peculiaridades ortográficas de la primitiva.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -208,21 +203,20 @@ Una gran ventaja de conocer las familias léxicas es que la mayoría de las pala
 En la familia de **"Diente"** (dental, dentista, dentadura), ¿por qué la raíz cambia un poquito de "dient-" a "dent-"?
 
 ### Opciones
-- [ ] A) Porque está mal escrito.
-  <!-- feedback: No, es correcto. -->
-- [x] B) Porque al derivarse, algunas raíces sufren pequeños cambios de sonido para ser más fáciles de decir.
-  <!-- feedback: ¡Excelente! A esto se le llama raíz con alternancia o irregularidad. -->
-- [ ] C) Porque los dentistas quisieron cambiar el nombre.
-  <!-- feedback: No es una decisión personal, es evolución del idioma. -->
-- [ ] D) Porque son palabras de otro idioma.
-  <!-- feedback: Son palabras españolas derivadas del latín. -->
+- [ ] A) Porque está mal escrito. <!-- feedback: Incorrecto. Porque está mal escrito. -->
+
+- [x] B) Porque al derivarse, algunas raíces sufren pequeños cambios de sonido para ser más fáciles de decir. <!-- feedback: Correcto! Porque al derivarse, algunas raíces sufren pequeños cambios  -->
+
+- [ ] C) Porque los dentistas quisieron cambiar el nombre. <!-- feedback: Incorrecto. Porque los dentistas quisieron cambiar e -->
+
+- [ ] D) Porque son palabras de otro idioma. <!-- feedback: Incorrecto. Porque son palabras de otro idioma. -->
 
 ### Explicación Pedagogica
 Es importante que el estudiante reconozca que algunas familias léxicas presentan variaciones en la raíz (diptongación o cambios vocálicos) pero mantienen su identidad.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -233,21 +227,20 @@ Es importante que el estudiante reconozca que algunas familias léxicas presenta
 Observa estas palabras: **Librería, Librito, Libraco, Libretazo**. ¿Qué elemento les da un significado diferente a cada una si todas tienen la misma raíz?
 
 ### Opciones
-- [ ] A) La cantidad de letras.
-  <!-- feedback: No es el factor determinante del significado. -->
-- [x] B) Los sufijos (las terminaciones que se añaden al final de la raíz).
-  <!-- feedback: ¡Correcto! El sufijo indica si es un lugar, un tamaño pequeño, algo despectivo o un golpe. -->
-- [ ] C) El color de la tinta con que se escriben.
-  <!-- feedback: No influye en el significado gramatical. -->
-- [ ] D) El orden de las sílabas.
-  <!-- feedback: El orden de la raíz no cambia. -->
+- [ ] A) La cantidad de letras. <!-- feedback: Incorrecto. La cantidad de letras. -->
+
+- [x] B) Los sufijos (las terminaciones que se añaden al final de la raíz). <!-- feedback: Correcto! Los sufijos (las terminaciones que se añaden al final de la  -->
+
+- [ ] C) El color de la tinta con que se escriben. <!-- feedback: Incorrecto. El color de la tinta con que se escriben -->
+
+- [ ] D) El orden de las sílabas. <!-- feedback: Incorrecto. El orden de las sílabas. -->
 
 ### Explicación Pedagogica
 Los afijos (prefijos y sufijos) son las piezas que se unen a la raíz para precisar o transformar el significado original de la palabra primitiva.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -258,14 +251,13 @@ Los afijos (prefijos y sufijos) son las piezas que se unen a la raíz para preci
 Sabiendo que la raíz es **"Gat-"**, ¿cuál sería la palabra derivada más lógica para este significado?
 
 ### Opciones
-- [ ] A) Gatal.
-  <!-- feedback: Suena a lugar lleno de gatos, no a una persona. -->
-- [ ] B) Gatar.
-  <!-- feedback: Suena a un verbo (acción). -->
-- [x] C) Gatista o Gatófilo.
-  <!-- feedback: ¡Muy bien! Gatista (siguiendo el modelo de florista) o gatófilo (amante de los gatos) son construcciones lógicas. -->
-- [ ] D) Perro.
-  <!-- feedback: Es una palabra totalmente distinta. -->
+- [ ] A) Gatal. <!-- feedback: Incorrecto. Gatal. -->
+
+- [ ] B) Gatar. <!-- feedback: Incorrecto. Gatar. -->
+
+- [x] C) Gatista o Gatófilo. <!-- feedback: Correcto! Gatista o Gatófilo. -->
+
+- [ ] D) Perro. <!-- feedback: Incorrecto. Perro. -->
 
 ### Explicación Pedagogica
 La competencia léxica se demuestra cuando el estudiante es capaz de usar los mecanismos de derivación para proponer términos coherentes.

@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-5-2026-P3-geografia-colombia-002-MASTERY"
+id: "CO-SOC-5-2026-P3-geografia-colombia-002-MASTERY-bundle"
 country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
@@ -8,131 +8,148 @@ periodo: 3
 protocol_version: "5.2"
 bundle_index: 2
 bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos"
+alignment: "DBA MEN + Estï¿½ndares Bï¿½sicos"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.70
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
-rubric_baseline: "Geografía de Colombia, relieve, hidrografía, climas, pisos térmicos, biodiversidad Colombiana"
+rubric_baseline: "Geografï¿½a de Colombia, relieve, hidrografï¿½a, climas, pisos tï¿½rmicos, biodiversidad Colombiana"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
 
-# Bundle Mastery: Geografía de Colombia — Relieve, Climas y Biodiversidad
 
-Este bundle cubre en profundidad la geografía colombiana: el relieve de las tres cordilleras, la hidrografía (ríos principales), los pisos térmicos, los climas y la excepcional biodiversidad del país. Contenido del tercer periodo para grado 5.
+# Bundle Mastery: Geografï¿½a de Colombia ï¿½ Relieve, Climas y Biodiversidad
+
+Este bundle cubre en profundidad la geografï¿½a colombiana: el relieve de las tres cordilleras, la hidrografï¿½a (rï¿½os principales), los pisos tï¿½rmicos, los climas y la excepcional biodiversidad del paï¿½s. Contenido del tercer periodo para grado 5.
 
 ---
 
 ## Question 1 [D3]
 **ID:** `CO-SOC-5-2026-P3-geografia-colombia-002-MASTERY-v1`
-**Bloom:** [Remember] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de geografía en la I.E. San José de Manizales, el profesor muestra un mapa físico de Colombia.
-**Enunciado:** ¿Cuáles son las tres cordilleras que atraviesan Colombia de sur a norte?
+**Bloom:** Remember | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En clase de geografï¿½a en la I.E. San Josï¿½ de Manizales, el profesor muestra un mapa fï¿½sico de Colombia.
+**Enunciado:** ï¿½Cuï¿½les son las tres cordilleras que atraviesan Colombia de sur a norte?
 **Options:**
-- [x] A) Cordillera Occidental, Cordillera Central y Cordillera Oriental. <!-- feedback: Correcto. Los Andes se dividen en Colombia en tres ramales: Occidental (bordeando el Pacífico), Central (entre los ríos Cauca y Magdalena) y Oriental (hacia Venezuela). -->
-- [ ] B) Cordillera de los Andes, Cordillera del Himalaya y Cordillera de los Alpes. <!-- feedback: Incorrecto. Himalaya y Alpes están en Asia y Europa, no en Colombia. -->
+- [x] A) Cordillera Occidental, Cordillera Central y Cordillera Oriental. <!-- feedback: Correcto. Los Andes se dividen en Colombia en tres ramales: Occidental (bordeando el Pacï¿½fico), Central (entre los rï¿½os Cauca y Magdalena) y Oriental (hacia Venezuela). -->
+- [ ] B) Cordillera de los Andes, Cordillera del Himalaya y Cordillera de los Alpes. <!-- feedback: Incorrecto. Himalaya y Alpes estï¿½n en Asia y Europa, no en Colombia. -->
 - [ ] C) Cordillera Norte, Cordillera Sur y Cordillera Central. <!-- feedback: Incorrecto. Esos no son los nombres de las cordilleras colombianas. -->
-- [ ] D) Cordillera Caribe, Cordillera Pacífica y Cordillera Amazónica. <!-- feedback: Incorrecto. No existen cordilleras con esos nombres en Colombia. -->
+- [ ] D) Cordillera Caribe, Cordillera Pacï¿½fica y Cordillera Amazï¿½nica. <!-- feedback: Incorrecto. No existen cordilleras con esos nombres en Colombia. -->
 
 ## Question 2 [D3]
 **ID:** `CO-SOC-5-2026-P3-geografia-colombia-002-MASTERY-v2`
-**Bloom:** [Remember] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en un colegio de Neiva, la profesora habla de la importancia del río Magdalena.
-**Enunciado:** ¿Dónde nace el río Magdalena, el más importante de Colombia?
+**Bloom:** Remember | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En clase de sociales en un colegio de Neiva, la profesora habla de la importancia del rï¿½o Magdalena.
+**Enunciado:** ï¿½Dï¿½nde nace el rï¿½o Magdalena, el mï¿½s importante de Colombia?
 **Options:**
-- [ ] A) En la Sierra Nevada de Santa Marta. <!-- feedback: Incorrecto. El Magdalena nace en el sur del país, no en el norte. -->
-- [x] B) En el Macizo Colombiano, en el departamento del Huila. <!-- feedback: Correcto. El río Magdalena nace en la laguna de la Magdalena, en el Macizo Colombiano (Huila), a más de 3.600 metros de altitud. -->
-- [ ] C) En el volcán Galeras, en Nariño. <!-- feedback: Incorrecto. El Galeras es un volcán, no el nacimiento del Magdalena. -->
-- [ ] D) En el Páramo de Sumapaz, en Cundinamarca. <!-- feedback: Incorrecto. El Sumapaz es otro páramo importante, pero el Magdalena nace en el Huila. -->
+- [ ] A) En la Sierra Nevada de Santa Marta. <!-- feedback: Incorrecto. El Magdalena nace en el sur del paï¿½s, no en el norte. -->
+- [x] B) En el Macizo Colombiano, en el departamento del Huila. <!-- feedback: Correcto. El rï¿½o Magdalena nace en la laguna de la Magdalena, en el Macizo Colombiano (Huila), a mï¿½s de 3.600 metros de altitud. -->
+- [ ] C) En el volcï¿½n Galeras, en Nariï¿½o. <!-- feedback: Incorrecto. El Galeras es un volcï¿½n, no el nacimiento del Magdalena. -->
+- [ ] D) En el Pï¿½ramo de Sumapaz, en Cundinamarca. <!-- feedback: Incorrecto. El Sumapaz es otro pï¿½ramo importante, pero el Magdalena nace en el Huila. -->
 
 ## Question 3 [D4]
 **ID:** `CO-SOC-5-2026-P3-geografia-colombia-002-MASTERY-v3`
-**Bloom:** [Understand] | **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales de la I.E. Técnica de Fusagasugá, el profesor dibuja un diagrama de pisos térmicos.
-**Enunciado:** En Colombia, los pisos térmicos se clasifican por la altura sobre el nivel del mar. ¿Cómo se llama el piso térmico entre los 1.000 y 2.000 metros de altura?
+**Bloom:** Understand | **ICFES:** [Pensamiento reflexivo y sistï¿½mico]
+**Expected_Success:** 0.75
+**Contexto:** En la clase de sociales de la I.E. Tï¿½cnica de Fusagasugï¿½, el profesor dibuja un diagrama de pisos tï¿½rmicos.
+**Enunciado:** En Colombia, los pisos tï¿½rmicos se clasifican por la altura sobre el nivel del mar. ï¿½Cï¿½mo se llama el piso tï¿½rmico entre los 1.000 y 2.000 metros de altura?
 **Options:**
-- [ ] A) Piso cálido. <!-- feedback: Incorrecto. El piso cálido va de 0 a 1.000 msnm. -->
-- [x] B) Piso templado. <!-- feedback: Correcto. El piso térmico templado (o medio) va de 1.000 a 2.000 msnm, con temperaturas promedio entre 18°C y 24°C. Ciudades como Medellín (1.500 m) y Cali (1.000 m) están en este piso. -->
-- [ ] C) Piso frío. <!-- feedback: Incorrecto. El piso frío va de 2.000 a 3.000 msnm. -->
-- [ ] D) Piso de páramo. <!-- feedback: Incorrecto. El páramo está por encima de 3.000 msnm. -->
+- [ ] A) Piso cï¿½lido. <!-- feedback: Incorrecto. El piso cï¿½lido va de 0 a 1.000 msnm. -->
+- [x] B) Piso templado. <!-- feedback: Correcto. El piso tï¿½rmico templado (o medio) va de 1.000 a 2.000 msnm, con temperaturas promedio entre 18ï¿½C y 24ï¿½C. Ciudades como Medellï¿½n (1.500 m) y Cali (1.000 m) estï¿½n en este piso. -->
+- [ ] C) Piso frï¿½o. <!-- feedback: Incorrecto. El piso frï¿½o va de 2.000 a 3.000 msnm. -->
+- [ ] D) Piso de pï¿½ramo. <!-- feedback: Incorrecto. El pï¿½ramo estï¿½ por encima de 3.000 msnm. -->
 
 ## Question 4 [D4]
 **ID:** `CO-SOC-5-2026-P3-geografia-colombia-002-MASTERY-v4`
-**Bloom:** [Understand] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Los estudiantes de la I.E. San Luis de Sincelejo ven un documental sobre la biodiversidad colombiana.
-**Enunciado:** Colombia es el segundo país más biodiverso del mundo. ¿En qué categoría de biodiversidad ocupa el primer lugar mundial?
+**Bloom:** Understand | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** Los estudiantes de la I.E. San Luis de Sincelejo ven un documental sobre la biodiversidad colombiana.
+**Enunciado:** Colombia es el segundo paï¿½s mï¿½s biodiverso del mundo. ï¿½En quï¿½ categorï¿½a de biodiversidad ocupa el primer lugar mundial?
 **Options:**
-- [ ] A) Mamíferos. <!-- feedback: Incorrecto. Aunque tiene muchos, no es el primero en mamíferos. -->
-- [x] B) Aves y anfibios. <!-- feedback: Correcto. Colombia tiene más especies de aves y anfibios que cualquier otro país del mundo. -->
-- [ ] C) Peces de agua dulce. <!-- feedback: Incorrecto. Brasil tiene más peces de agua dulce. -->
-- [ ] D) Árboles maderables. <!-- feedback: Incorrecto. Brasil y otros países tienen más especies maderables. -->
+- [ ] A) Mamï¿½feros. <!-- feedback: Incorrecto. Aunque tiene muchos, no es el primero en mamï¿½feros. -->
+- [x] B) Aves y anfibios. <!-- feedback: Correcto. Colombia tiene mï¿½s especies de aves y anfibios que cualquier otro paï¿½s del mundo. -->
+- [ ] C) Peces de agua dulce. <!-- feedback: Incorrecto. Brasil tiene mï¿½s peces de agua dulce. -->
+- [ ] D) ï¿½rboles maderables. <!-- feedback: Incorrecto. Brasil y otros paï¿½ses tienen mï¿½s especies maderables. -->
 
 ## Question 5 [D4]
 **ID:** `CO-SOC-5-2026-P3-geografia-colombia-002-MASTERY-v5`
-**Bloom:** [Apply] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** La profesora de sociales en la I.E. El Carmen de Chía pregunta: "Si viajas de Bogotá (2.600 m) a Cartagena (nivel del mar), ¿cómo cambia el clima?"
-**Enunciado:** Bogotá está a 2.600 metros de altura (piso frío), mientras que Cartagena está al nivel del mar (piso cálido). ¿Qué cambios experimentarías al viajar de una a otra?
+**Bloom:** Apply | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** La profesora de sociales en la I.E. El Carmen de Chï¿½a pregunta: "Si viajas de Bogotï¿½ (2.600 m) a Cartagena (nivel del mar), ï¿½cï¿½mo cambia el clima?"
+**Enunciado:** Bogotï¿½ estï¿½ a 2.600 metros de altura (piso frï¿½o), mientras que Cartagena estï¿½ al nivel del mar (piso cï¿½lido). ï¿½Quï¿½ cambios experimentarï¿½as al viajar de una a otra?
 **Options:**
-- [ ] A) El clima sería más frío en Cartagena. <!-- feedback: Incorrecto. Cartagena es cálida, no fría. -->
-- [ ] B) La temperatura sería igual en ambas ciudades. <!-- feedback: Incorrecto. La diferencia de altura causa gran diferencia de temperatura. -->
-- [x] C) Pasarías de un clima frío de montaña (Bogotá, ~14°C promedio) a un clima cálido y húmedo en la costa (Cartagena, ~28°C promedio). <!-- feedback: Correcto. La altura determina la temperatura: a mayor altura, menor temperatura. El viaje de Bogotá a Cartagena implica bajar 2.600 metros, pasando de clima frío a cálido. -->
-- [ ] D) En Cartagena haría más frío porque está cerca del mar. <!-- feedback: Incorrecto. El mar Caribe no enfría la costa, la hace más cálida y húmeda. -->
+- [ ] A) El clima serï¿½a mï¿½s frï¿½o en Cartagena. <!-- feedback: Incorrecto. Cartagena es cï¿½lida, no frï¿½a. -->
+- [ ] B) La temperatura serï¿½a igual en ambas ciudades. <!-- feedback: Incorrecto. La diferencia de altura causa gran diferencia de temperatura. -->
+- [x] C) Pasarï¿½as de un clima frï¿½o de montaï¿½a (Bogotï¿½, ~14ï¿½C promedio) a un clima cï¿½lido y hï¿½medo en la costa (Cartagena, ~28ï¿½C promedio). <!-- feedback: Correcto. La altura determina la temperatura: a mayor altura, menor temperatura. El viaje de Bogotï¿½ a Cartagena implica bajar 2.600 metros, pasando de clima frï¿½o a cï¿½lido. -->
+- [ ] D) En Cartagena harï¿½a mï¿½s frï¿½o porque estï¿½ cerca del mar. <!-- feedback: Incorrecto. El mar Caribe no enfrï¿½a la costa, la hace mï¿½s cï¿½lida y hï¿½meda. -->
 
 ## Question 6 [D4]
 **ID:** `CO-SOC-5-2026-P3-geografia-colombia-002-MASTERY-v6`
-**Bloom:** [Understand] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en la I.E. San Jorge de Yopal, el profesor explica la Orinoquía.
-**Enunciado:** La región de la Orinoquía colombiana está bañada por un gran río que forma frontera con Venezuela. ¿Cómo se llama?
+**Bloom:** Understand | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En clase de sociales en la I.E. San Jorge de Yopal, el profesor explica la Orinoquï¿½a.
+**Enunciado:** La regiï¿½n de la Orinoquï¿½a colombiana estï¿½ baï¿½ada por un gran rï¿½o que forma frontera con Venezuela. ï¿½Cï¿½mo se llama?
 **Options:**
-- [ ] A) Río Magdalena. <!-- feedback: Incorrecto. El Magdalena nace y muere dentro de Colombia. -->
-- [ ] B) Río Amazonas. <!-- feedback: Incorrecto. El Amazonás está al sur, no en los Llanos Orientales. -->
-- [x] C) Río Orinoco. <!-- feedback: Correcto. El río Orinoco sirve de frontera natural entre Colombia y Venezuela en los Llanos Orientales y desemboca en el océano Atlántico. -->
-- [ ] D) Río Cauca. <!-- feedback: Incorrecto. El Cauca es afluente del Magdalena en la región Andina. -->
+- [ ] A) Rï¿½o Magdalena. <!-- feedback: Incorrecto. El Magdalena nace y muere dentro de Colombia. -->
+- [ ] B) Rï¿½o Amazonas. <!-- feedback: Incorrecto. El Amazonï¿½s estï¿½ al sur, no en los Llanos Orientales. -->
+- [x] C) Rï¿½o Orinoco. <!-- feedback: Correcto. El rï¿½o Orinoco sirve de frontera natural entre Colombia y Venezuela en los Llanos Orientales y desemboca en el ocï¿½ano Atlï¿½ntico. -->
+- [ ] D) Rï¿½o Cauca. <!-- feedback: Incorrecto. El Cauca es afluente del Magdalena en la regiï¿½n Andina. -->
 
 ## Question 7 [D4]
 **ID:** `CO-SOC-5-2026-P3-geografia-colombia-002-MASTERY-v7`
-**Bloom:** [Apply] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en San José del Guaviare, los estudiantes aprenden sobre la Amazonía colombiana.
-**Enunciado:** El principal río que atraviesa la Amazonía colombiana, y que comunica a Leticia con Brasil, se llama:
+**Bloom:** Apply | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En clase de sociales en San Josï¿½ del Guaviare, los estudiantes aprenden sobre la Amazonï¿½a colombiana.
+**Enunciado:** El principal rï¿½o que atraviesa la Amazonï¿½a colombiana, y que comunica a Leticia con Brasil, se llama:
 **Options:**
-- [x] A) Río Amazonas. <!-- feedback: Correcto. El río Amazonas, el más caudaloso del mundo, atraviesa la Amazonía colombiana y sirve de frontera con Perú antes de internarse en Brasil. -->
-- [ ] B) Río Magdalena. <!-- feedback: Incorrecto. El Magdalena está en los Andes, no en la Amazonía. -->
-- [ ] C) Río San Juan. <!-- feedback: Incorrecto. El San Juan está en el Pacífico colombiano. -->
-- [ ] D) Río Atrato. <!-- feedback: Incorrecto. El Atrato está en el Chocó (Pacífico). -->
+- [x] A) Rï¿½o Amazonas. <!-- feedback: Correcto. El rï¿½o Amazonas, el mï¿½s caudaloso del mundo, atraviesa la Amazonï¿½a colombiana y sirve de frontera con Perï¿½ antes de internarse en Brasil. -->
+- [ ] B) Rï¿½o Magdalena. <!-- feedback: Incorrecto. El Magdalena estï¿½ en los Andes, no en la Amazonï¿½a. -->
+- [ ] C) Rï¿½o San Juan. <!-- feedback: Incorrecto. El San Juan estï¿½ en el Pacï¿½fico colombiano. -->
+- [ ] D) Rï¿½o Atrato. <!-- feedback: Incorrecto. El Atrato estï¿½ en el Chocï¿½ (Pacï¿½fico). -->
 
 ## Question 8 [D5]
 **ID:** `CO-SOC-5-2026-P3-geografia-colombia-002-MASTERY-v8`
-**Bloom:** [Analyze] | **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En un debate escolar en Bogotá, los estudiantes discuten los desafíos ambientales de Colombia.
-**Enunciado:** La deforestación en la Amazonía colombiana es un problema grave porque:
+**Bloom:** Analyze | **ICFES:** [Interpretaciï¿½n y anï¿½lisis de perspectivas]
+**Expected_Success:** 0.75
+**Contexto:** En un debate escolar en Bogotï¿½, los estudiantes discuten los desafï¿½os ambientales de Colombia.
+**Enunciado:** La deforestaciï¿½n en la Amazonï¿½a colombiana es un problema grave porque:
 **Options:**
-- [ ] A) Ayuda a construir más carreteras. <!-- feedback: Incorrecto. La deforestación no ayuda, destruye. -->
-- [ ] B) Permite cultivar más café. <!-- feedback: Incorrecto. El café se cultiva en los Andes, no en la Amazonía. -->
-- [x] C) Destruye el hogar de miles de especies y afecta el clima global, ya que la selva amazónica produce gran parte del oxígeno del planeta. <!-- feedback: Correcto. La Amazonía es un pulmón del mundo y alberga una biodiversidad invaluable. Su deforestación tiene consecuencias globales. -->
-- [ ] D) Aumenta el nivel del mar. <!-- feedback: Incorrecto. La deforestación no afecta directamente el nivel del mar. -->
+- [ ] A) Ayuda a construir mï¿½s carreteras. <!-- feedback: Incorrecto. La deforestaciï¿½n no ayuda, destruye. -->
+- [ ] B) Permite cultivar mï¿½s cafï¿½. <!-- feedback: Incorrecto. El cafï¿½ se cultiva en los Andes, no en la Amazonï¿½a. -->
+- [x] C) Destruye el hogar de miles de especies y afecta el clima global, ya que la selva amazï¿½nica produce gran parte del oxï¿½geno del planeta. <!-- feedback: Correcto. La Amazonï¿½a es un pulmï¿½n del mundo y alberga una biodiversidad invaluable. Su deforestaciï¿½n tiene consecuencias globales. -->
+- [ ] D) Aumenta el nivel del mar. <!-- feedback: Incorrecto. La deforestaciï¿½n no afecta directamente el nivel del mar. -->
 
 ## Question 9 [D5]
 **ID:** `CO-SOC-5-2026-P3-geografia-colombia-002-MASTERY-v9`
-**Bloom:** [Analyze] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Técnica de Ipiales, el profesor pregunta por el Nudo de los Pastos.
-**Enunciado:** El Macizo Colombiano, ubicado en los departamentos de Huila, Cauca y Nariño, es importante porque:
+**Bloom:** Analyze | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En la clase de sociales de la I.E. Tï¿½cnica de Ipiales, el profesor pregunta por el Nudo de los Pastos.
+**Enunciado:** El Macizo Colombiano, ubicado en los departamentos de Huila, Cauca y Nariï¿½o, es importante porque:
 **Options:**
-- [ ] A) Allí se encuentra la ciudad más poblada de Colombia. <!-- feedback: Incorrecto. No hay grandes ciudades en el Macizo. -->
-- [ ] B) Allí se cultiva la mayor parte del café. <!-- feedback: Incorrecto. El café se cultiva en las laderas de las cordilleras, no específicamente en el Macizo. -->
-- [x] C) Allí nacen los ríos más importantes de Colombia, incluyendo el Magdalena, el Cauca y el Patía. <!-- feedback: Correcto. El Macizo Colombiano es la "estrella fluvial" de Colombia, donde nacen los principales ríos del país, por lo que es vital para el suministro de agua. -->
-- [ ] D) Allí se encuentra la montaña más alta de Colombia. <!-- feedback: Incorrecto. La montaña más alta está en la Sierra Nevada de Santa Marta. -->
+- [ ] A) Allï¿½ se encuentra la ciudad mï¿½s poblada de Colombia. <!-- feedback: Incorrecto. No hay grandes ciudades en el Macizo. -->
+- [ ] B) Allï¿½ se cultiva la mayor parte del cafï¿½. <!-- feedback: Incorrecto. El cafï¿½ se cultiva en las laderas de las cordilleras, no especï¿½ficamente en el Macizo. -->
+- [x] C) Allï¿½ nacen los rï¿½os mï¿½s importantes de Colombia, incluyendo el Magdalena, el Cauca y el Patï¿½a. <!-- feedback: Correcto. El Macizo Colombiano es la "estrella fluvial" de Colombia, donde nacen los principales rï¿½os del paï¿½s, por lo que es vital para el suministro de agua. -->
+- [ ] D) Allï¿½ se encuentra la montaï¿½a mï¿½s alta de Colombia. <!-- feedback: Incorrecto. La montaï¿½a mï¿½s alta estï¿½ en la Sierra Nevada de Santa Marta. -->
 
 ## Question 10 [D5]
 **ID:** `CO-SOC-5-2026-P3-geografia-colombia-002-MASTERY-v10`
-**Bloom:** [Analyze] | **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En clase de sociales en Pasto, la profesora pregunta por qué Colombia debería proteger sus páramos.
-**Enunciado:** ¿Por qué los páramos colombianos son estratégicos para el futuro del país?
+**Bloom:** Analyze | **ICFES:** [Pensamiento reflexivo y sistï¿½mico]
+**Expected_Success:** 0.75
+**Contexto:** En clase de sociales en Pasto, la profesora pregunta por quï¿½ Colombia deberï¿½a proteger sus pï¿½ramos.
+**Enunciado:** ï¿½Por quï¿½ los pï¿½ramos colombianos son estratï¿½gicos para el futuro del paï¿½s?
 **Options:**
-- [ ] A) Porque se pueden construir hoteles de lujo en ellos. <!-- feedback: Incorrecto. Los páramos no son aptos para urbanización. -->
-- [x] B) Porque son fábricas de agua: captan neblina y lluvia, y abastecen de agua potable a más del 70% de la población colombiana. <!-- feedback: Correcto. Los páramos regulan el ciclo del agua y proveen el líquido vital a las principales ciudades como Bogotá, Medellín y Cali. Su protección es clave frente al cambio climático. -->
-- [ ] C) Porque son ideales para la agricultura de papa. <!-- feedback: Incorrecto. Aunque se cultiva papa en páramos, esta actividad los degrada. -->
-- [ ] D) Porque son desiertos que atraen turistas. <!-- feedback: Incorrecto. Los páramos no son desiertos, son ecosistemas de alta montaña húmedos. -->
+- [ ] A) Porque se pueden construir hoteles de lujo en ellos. <!-- feedback: Incorrecto. Los pï¿½ramos no son aptos para urbanizaciï¿½n. -->
+- [x] B) Porque son fï¿½bricas de agua: captan neblina y lluvia, y abastecen de agua potable a mï¿½s del 70% de la poblaciï¿½n colombiana. <!-- feedback: Correcto. Los pï¿½ramos regulan el ciclo del agua y proveen el lï¿½quido vital a las principales ciudades como Bogotï¿½, Medellï¿½n y Cali. Su protecciï¿½n es clave frente al cambio climï¿½tico. -->
+- [ ] C) Porque son ideales para la agricultura de papa. <!-- feedback: Incorrecto. Aunque se cultiva papa en pï¿½ramos, esta actividad los degrada. -->
+- [ ] D) Porque son desiertos que atraen turistas. <!-- feedback: Incorrecto. Los pï¿½ramos no son desiertos, son ecosistemas de alta montaï¿½a hï¿½medos. -->
 
-### Explicación Pedagógica Final
-Este bundle de Ciencias Sociales para grado quinto profundiza en la Geografía de Colombia: relieve (tres cordilleras), hidrografía (ríos Magdalena, Cauca, Orinoco, Amazonas), pisos térmicos, biodiversidad (Colombia #1 en aves y anfibios), el Macizo Colombiano como estrella fluvial, y la importancia de los páramos. El objetivo es que los estudiantes comprendan la riqueza geográfica y los desafíos ambientales de Colombia.
+### Explicaciï¿½n Pedagï¿½gica Final
+Este bundle de Ciencias Sociales para grado quinto profundiza en la Geografï¿½a de Colombia: relieve (tres cordilleras), hidrografï¿½a (rï¿½os Magdalena, Cauca, Orinoco, Amazonas), pisos tï¿½rmicos, biodiversidad (Colombia #1 en aves y anfibios), el Macizo Colombiano como estrella fluvial, y la importancia de los pï¿½ramos. El objetivo es que los estudiantes comprendan la riqueza geogrï¿½fica y los desafï¿½os ambientales de Colombia.

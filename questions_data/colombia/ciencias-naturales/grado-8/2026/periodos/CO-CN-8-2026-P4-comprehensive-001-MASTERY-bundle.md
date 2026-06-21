@@ -1,5 +1,5 @@
 ---
-id: "CO-CN-8-2026-P4-comprehensive-001-MASTERY"
+id: "CO-CN-8-2026-P4-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "ciencias-naturales"
@@ -19,7 +19,12 @@ rubric_baseline: "biotecnología, ADN recombinante, nomenclatura química, compu
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Biotecnología, Nomenclatura Química y Electricidad
 
@@ -31,13 +36,14 @@ Este bundle cubre biotecnología básica, nomenclatura química de compuestos in
 
 **ID:** `CO-CN-8-2026-P4-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En una clase de biología en Bogotá, el profesor explica los usos de la biotecnología.
+**Contexto:** En una clase de biología en Bogotá, el profesor explica los usos de la biotecnología.
 
 ### Enunciado
 ¿Qué es la biotecnología?
 
-### Options
+### Opciones
 - [ ] A) El estudio de los fósiles. <!-- feedback: Incorrect. Eso es paleontología. -->
 - [ ] B) La fabricación de robots. <!-- feedback: Incorrect. Eso es robótica. -->
 - [x] C) El uso de organismos vivos o sus partes para obtener productos útiles. <!-- feedback: Correct. La biotecnología usa seres vivos para crear productos o procesos beneficiosos. -->
@@ -52,13 +58,14 @@ La biotecnología aplica principios biológicos y tecnológicos para desarrollar
 
 **ID:** `CO-CN-8-2026-P4-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** Un estudiante en Medellín estudia nomenclatura química para nombrar compuestos.
+**Contexto:** Un estudiante en Medellín estudia nomenclatura química para nombrar compuestos.
 
 ### Enunciado
 ¿Cómo se llama el compuesto formado por la unión de Na⁺ y Cl⁻?
 
-### Options
+### Opciones
 - [ ] A) Sodio cloro. <!-- feedback: Incorrect. El nombre correcto es cloruro de sodio. -->
 - [x] B) Cloruro de sodio. <!-- feedback: Correct. NaCl es cloruro de sodio (sal de mesa). El metal va primero y el no metal con terminación -uro. -->
 - [ ] C) Sodio clorato. <!-- feedback: Incorrect. Clorato es ClO₃⁻, no Cl⁻. -->
@@ -73,13 +80,14 @@ En la nomenclatura de sales binarias, se nombra primero el anión (no metal) con
 
 **ID:** `CO-CN-8-2026-P4-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** Un profesor en Cali explica cómo funciona un circuito eléctrico básico.
+**Contexto:** Un profesor en Cali explica cómo funciona un circuito eléctrico básico.
 
 ### Enunciado
 ¿Cuáles son los tres elementos básicos de un circuito eléctrico simple?
 
-### Options
+### Opciones
 - [ ] A) Resistencia, voltaje y potencia. <!-- feedback: Incorrect. Estos son magnitudes, no elementos del circuito. -->
 - [x] B) Fuente de energía, conductores y carga (resistencia). <!-- feedback: Correct. Un circuito necesita una fuente (batería), conductores (cables) y una carga (bombillo, motor). -->
 - [ ] C) Átomo, electrón y protón. <!-- feedback: Incorrect. Estos son componentes de la materia. -->
@@ -94,13 +102,14 @@ Todo circuito eléctrico simple requiere: 1) una fuente de energía (batería o 
 
 **ID:** `CO-CN-8-2026-P4-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En un taller en Barranquilla, los estudiantes discuten aplicaciones de la biotecnología.
+**Contexto:** En un taller en Barranquilla, los estudiantes discuten aplicaciones de la biotecnología.
 
 ### Enunciado
 ¿Cuál de las siguientes es una aplicación de la biotecnología moderna?
 
-### Options
+### Opciones
 - [ ] A) La fabricación de cerveza artesanal. <!-- feedback: Incorrect. Eso es biotecnología tradicional (fermentación). -->
 - [ ] B) La fabricación de pan con levadura. <!-- feedback: Incorrect. También es biotecnología tradicional. -->
 - [x] C) La producción de insulina humana mediante bacterias modificadas genéticamente. <!-- feedback: Correct. Esto es biotecnología moderna (ADN recombinante). -->
@@ -115,13 +124,14 @@ La biotecnología moderna utiliza técnicas de ingeniería genética para modifi
 
 **ID:** `CO-CN-8-2026-P4-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En un laboratorio de química, se necesita nombrar el compuesto Fe₂O₃.
+**Contexto:** En un laboratorio de química, se necesita nombrar el compuesto Fe₂O₃.
 
 ### Enunciado
 ¿Cuál es el nombre del compuesto Fe₂O₃ según la nomenclatura sistemática (IUPAC)?
 
-### Options
+### Opciones
 - [ ] A) Óxido de hierro. <!-- feedback: Incorrect. Es ambiguo, pues el hierro tiene varios estados de oxidación. -->
 - [ ] B) Óxido ferroso. <!-- feedback: Incorrect. FeO es óxido ferroso (Fe²⁺). Fe₂O₃ tiene Fe³⁺. -->
 - [x] C) Trióxido de dihierro. <!-- feedback: Correct. En nomenclatura sistemática: tri- (3 oxígenos), di- (2 hierros). -->
@@ -136,13 +146,14 @@ En la nomenclatura sistemática se usan prefijos (mono-, di-, tri-, tetra-, etc.
 
 **ID:** `CO-CN-8-2026-P4-comprehensive-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En un circuito eléctrico, una batería de 9 V se conecta a una resistencia de 3 Ω.
+**Contexto:** En un circuito eléctrico, una batería de 9 V se conecta a una resistencia de 3 Ω.
 
 ### Enunciado
 Según la ley de Ohm, ¿cuál es la corriente que circula por el circuito?
 
-### Options
+### Opciones
 - [ ] A) 27 A <!-- feedback: Incorrect. $I = V/R = 9/3 = 3$, no $9 \times 3$. -->
 - [x] B) 3 A <!-- feedback: Correct. $I = V/R = 9/3 = 3$ A. -->
 - [ ] C) 0.33 A <!-- feedback: Incorrect. $I = R/V = 3/9 = 0.33$, se invirtió la fórmula. -->
@@ -157,13 +168,14 @@ La ley de Ohm establece que $V = I \cdot R$, donde $V$ es voltaje en voltios, $I
 
 **ID:** `CO-CN-8-2026-P4-comprehensive-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante en Bucaramanga pregunta por qué las bacterias son útiles en biotecnología.
+**Contexto:** Un estudiante en Bucaramanga pregunta por qué las bacterias son útiles en biotecnología.
 
 ### Enunciado
 ¿Cuál es la principal ventaja de usar bacterias en biotecnología?
 
-### Options
+### Opciones
 - [ ] A) Son organismos muy grandes. <!-- feedback: Incorrect. Las bacterias son microscópicas. -->
 - [ ] B) No tienen ADN. <!-- feedback: Incorrect. Las bacterias sí tienen ADN. -->
 - [x] C) Se reproducen rápidamente y son fáciles de manipular genéticamente. <!-- feedback: Correct. Las bacterias se dividen cada 20-30 minutos y su genética es relativamente simple. -->
@@ -178,13 +190,14 @@ Las bacterias son ideales para biotecnología por su rápido crecimiento, facili
 
 **ID:** `CO-CN-8-2026-P4-comprehensive-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** Se tiene un circuito con tres resistencias en serie: 2 Ω, 3 Ω y 5 Ω, conectadas a una batería de 20 V.
+**Contexto:** Se tiene un circuito con tres resistencias en serie: 2 Ω, 3 Ω y 5 Ω, conectadas a una batería de 20 V.
 
 ### Enunciado
 ¿Cuál es la resistencia total del circuito?
 
-### Options
+### Opciones
 - [ ] A) 10 Ω <!-- feedback: Correct. En serie: $R_T = R_1 + R_2 + R_3 = 2 + 3 + 5 = 10$ Ω. -->
 - [ ] B) 30 Ω <!-- feedback: Incorrect. $2 \times 3 \times 5 = 30$, se multiplicaron las resistencias. -->
 - [ ] C) 1.03 Ω <!-- feedback: Incorrect. $1/2 + 1/3 + 1/5 \approx 1.03$, eso es para resistencias en paralelo. -->
@@ -199,13 +212,14 @@ En un circuito en serie, la resistencia total es la suma de todas las resistenci
 
 **ID:** `CO-CN-8-2026-P4-comprehensive-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante afirma: "La insulina que usan los pacientes con diabetes se obtiene de cerdos y vacas."
+**Contexto:** Un estudiante afirma: "La insulina que usan los pacientes con diabetes se obtiene de cerdos y vacas."
 
 ### Enunciado
 ¿Es correcta esta afirmación en la actualidad?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque solo se puede obtener de animales. <!-- feedback: Incorrect. Antes se obtenía de animales, pero ahora no. -->
 - [x] B) No, actualmente la insulina se produce mediante bacterias modificadas genéticamente con el gen de la insulina humana. <!-- feedback: Correct. La insulina humana recombinante (Humulina) se produce desde 1982. -->
 - [ ] C) Sí, porque la insulina sintética no funciona. <!-- feedback: Incorrect. La insulina recombinante funciona perfectamente y es idéntica a la humana. -->
@@ -220,13 +234,14 @@ La biotecnología moderna permitió insertar el gen de la insulina humana en bac
 
 **ID:** `CO-CN-8-2026-P4-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En un circuito con resistencias en paralelo de 4 Ω y 6 Ω, conectadas a una batería de 12 V.
+**Contexto:** En un circuito con resistencias en paralelo de 4 Ω y 6 Ω, conectadas a una batería de 12 V.
 
 ### Enunciado
 ¿Cuál es la resistencia total del circuito?
 
-### Options
+### Opciones
 - [ ] A) 10 Ω <!-- feedback: Incorrect. $4 + 6 = 10$, eso es para serie, no para paralelo. -->
 - [x] B) 2.4 Ω <!-- feedback: Correct. $1/R_T = 1/4 + 1/6 = 3/12 + 2/12 = 5/12$, $R_T = 12/5 = 2.4$ Ω. -->
 - [ ] C) 24 Ω <!-- feedback: Incorrect. $4 \times 6 = 24$, se multiplicaron. -->
@@ -241,13 +256,14 @@ En un circuito en paralelo, la resistencia total se calcula con $1/R_T = 1/R_1 +
 
 **ID:** `CO-CN-8-2026-P4-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un químico necesita nombrar el compuesto H₂SO₄.
+**Contexto:** Un químico necesita nombrar el compuesto H₂SO₄.
 
 ### Enunciado
 ¿Cuál es el nombre tradicional de H₂SO₄?
 
-### Options
+### Opciones
 - [ ] A) Ácido sulfhídrico. <!-- feedback: Incorrect. El ácido sulfhídrico es H₂S. -->
 - [ ] B) Ácido sulfuroso. <!-- feedback: Incorrect. El ácido sulfuroso es H₂SO₃. -->
 - [x] C) Ácido sulfúrico. <!-- feedback: Correct. H₂SO₄ es ácido sulfúrico, uno de los ácidos más importantes en la industria. -->
@@ -262,13 +278,14 @@ En la nomenclatura de oxiácidos, el sufijo "-oso" se usa para el menor estado d
 
 **ID:** `CO-CN-8-2026-P4-comprehensive-001-MASTERY-v12`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En un laboratorio escolar, se necesita calcular la potencia de un bombillo conectado a 120 V por el que circula una corriente de 0.5 A.
+**Contexto:** En un laboratorio escolar, se necesita calcular la potencia de un bombillo conectado a 120 V por el que circula una corriente de 0.5 A.
 
 ### Enunciado
 Según la ley de Watt, ¿cuál es la potencia del bombillo?
 
-### Options
+### Opciones
 - [ ] A) 60 W <!-- feedback: Correct. $P = V \times I = 120 \times 0.5 = 60$ W. -->
 - [ ] B) 240 W <!-- feedback: Incorrect. $120/0.5 = 240$, se dividió en lugar de multiplicar. -->
 - [ ] C) 120.5 W <!-- feedback: Incorrect. $120 + 0.5 = 120.5$, se sumaron los valores. -->
@@ -283,13 +300,14 @@ La potencia eléctrica se calcula con $P = V \times I$. También se puede expres
 
 **ID:** `CO-CN-8-2026-P4-comprehensive-001-MASTERY-v13`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante afirma: "La clonación es un proceso en el que se crea un organismo genéticamente idéntico a otro."
+**Contexto:** Un estudiante afirma: "La clonación es un proceso en el que se crea un organismo genéticamente idéntico a otro."
 
 ### Enunciado
 ¿Es correcta esta afirmación? ¿Cuál fue el primer mamífero clonado a partir de una célula adulta?
 
-### Options
+### Opciones
 - [x] A) Sí, la definición es correcta. El primer mamífero clonado fue la oveja Dolly en 1996. <!-- feedback: Correct. Dolly fue clonada a partir de una célula de glándula mamaria adulta. -->
 - [ ] B) No, la clonación crea organismos diferentes. El primero fue un ratón. <!-- feedback: Incorrect. La clonación produce copias genéticamente idénticas. -->
 - [ ] C) Sí, es correcto. El primero fue un perro llamado Dolly. <!-- feedback: Incorrect. Dolly fue una oveja, no un perro. -->
@@ -304,13 +322,14 @@ La clonación reproductiva produce individuos genéticamente idénticos. La ovej
 
 **ID:** `CO-CN-8-2026-P4-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un electricista en Bogotá está instalando un circuito para una casa. Debe decidir si conectar los bombillos en serie o en paralelo.
+**Contexto:** Un electricista en Bogotá está instalando un circuito para una casa. Debe decidir si conectar los bombillos en serie o en paralelo.
 
 ### Enunciado
 ¿Cuál es la mejor configuración para que todos los bombillos funcionen de forma independiente y tengan el mismo voltaje?
 
-### Options
+### Opciones
 - [ ] A) En serie, porque así se ahorra cable. <!-- feedback: Incorrect. En serie, si un bombillo se daña, todos se apagan. -->
 - [x] B) En paralelo, porque cada bombillo recibe el voltaje completo de la fuente y funcionan independientemente. <!-- feedback: Correct. En paralelo, cada bombillo recibe el voltaje total y los demás siguen funcionando si uno se daña. -->
 - [ ] C) En serie, porque todos tendrían el mismo voltaje. <!-- feedback: Incorrect. En serie el voltaje se reparte entre los bombillos. -->
@@ -325,13 +344,14 @@ En las instalaciones eléctricas domésticas, los bombillos se conectan en paral
 
 **ID:** `CO-CN-8-2026-P4-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Reflexivo
-**Context:** Un laboratorio desea producir insulina usando bacterias y está considerando dos métodos: 1) usar bacterias que naturalmente producen una sustancia similar (costoso), 2) introducir el gen de la insulina humana en bacterias usando tecnología de ADN recombinante.
+**Contexto:** Un laboratorio desea producir insulina usando bacterias y está considerando dos métodos: 1) usar bacterias que naturalmente producen una sustancia similar (costoso), 2) introducir el gen de la insulina humana en bacterias usando tecnología de ADN recombinante.
 
 ### Enunciado
 ¿Cuál método es más eficiente y por qué?
 
-### Options
+### Opciones
 - [ ] A) El método 1, porque usar organismos naturales siempre es mejor. <!-- feedback: Incorrect. La insulina bacteriana natural no es idéntica a la humana. -->
 - [x] B) El método 2, porque las bacterias modificadas genéticamente pueden producir grandes cantidades de insulina humana idéntica a la natural. <!-- feedback: Correct. La tecnología de ADN recombinante permite producir insulina 100% humana en grandes cantidades y a bajo costo. -->
 - [ ] C) Ambos métodos son igualmente eficientes. <!-- feedback: Incorrect. El método 2 es más eficiente y produce insulina idéntica a la humana. -->

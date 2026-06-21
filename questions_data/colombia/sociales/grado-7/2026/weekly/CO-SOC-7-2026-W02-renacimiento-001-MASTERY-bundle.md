@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W02-renacimiento-001-MASTERY"
+id: "CO-SOC-7-2026-W02-renacimiento-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales"
 tema: "renacimiento"
-semana: "W02"
+week: "W02"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Renacimiento - Grado 7
 ## Semana W02 — El Renacimiento cultural y artístico
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de Sociales del Colegio San Bartolomé de Bogotá, el profesor pregunta qué fue el Renacimiento.
+**Contexto:** En la clase de Sociales del Colegio San Bartolomé de Bogotá, el profesor pregunta qué fue el Renacimiento.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ El Renacimiento (siglos XV-XVI) fue un movimiento cultural que surgió en Italia
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** María visita el Museo del Prado en una excursión escolar y ve una pintura de Leonardo da Vinci. Su profesor explica el contexto renacentista.
+**Contexto:** María visita el Museo del Prado en una excursión escolar y ve una pintura de Leonardo da Vinci. Su profesor explica el contexto renacentista.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ El arte renacentista se caracteriza por: uso de la perspectiva lineal para dar p
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Carlos está preparando una exposición sobre las ciudades donde floreció el Renacimiento. Su profesor en Medellín le pide que nombre las principales.
+**Contexto:** Carlos está preparando una exposición sobre las ciudades donde floreció el Renacimiento. Su profesor en Medellín le pide que nombre las principales.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -81,11 +85,11 @@ El Renacimiento nació en Italia en el siglo XIV (Trecento) y alcanzó su apogeo
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Laura lee sobre el "humanismo" en su libro de sociales del colegio de Cali y no entiende el concepto.
+**Contexto:** Laura lee sobre el "humanismo" en su libro de sociales del colegio de Cali y no entiende el concepto.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -102,11 +106,11 @@ El humanismo fue el movimiento intelectual del Renacimiento que se centró en el
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** En el colegio de Barranquilla, Andrés compara una escultura griega clásica con una del Renacimiento y nota similitudes.
+**Contexto:** En el colegio de Barranquilla, Andrés compara una escultura griega clásica con una del Renacimiento y nota similitudes.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -123,11 +127,11 @@ Los artistas renacentistas estudiaban las esculturas clásicas que se estaban re
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Santiago investiga cómo se financiaban las obras de arte en el Renacimiento para su proyecto del colegio de Bucaramanga.
+**Contexto:** Santiago investiga cómo se financiaban las obras de arte en el Renacimiento para su proyecto del colegio de Bucaramanga.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ El mecenazgo fue el sistema por el cual personas adineradas, familias nobles (co
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Valentina estudia a Miguel Ángel y sus obras: la Capilla Sixtina y el David. Su profesor en Cartagena pregunta cuál fue su legado.
+**Contexto:** Valentina estudia a Miguel Ángel y sus obras: la Capilla Sixtina y el David. Su profesor en Cartagena pregunta cuál fue su legado.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Miguel Ángel Buonarroti (1475-1564) es considerado uno de los más grandes arti
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Camila analiza cómo la invención de la imprenta y el Renacimiento están conectados. Vive en Pereira.
+**Contexto:** Camila analiza cómo la invención de la imprenta y el Renacimiento están conectados. Vive en Pereira.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ La imprenta de tipos móviles (Gutenberg, c. 1440) fue crucial para el Renacimie
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Sebastián compara la educación medieval con la renacentista en su colegio de Ibagué. Nota diferencias importantes.
+**Contexto:** Sebastián compara la educación medieval con la renacentista en su colegio de Ibagué. Nota diferencias importantes.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ La educación renacentista promovía el ideal del "uomo universale" (hombre univ
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Isabella reflexiona sobre la influencia del Renacimiento en la ciencia. Su abuelo le dice que antes de Colón, muchos pensaban que la Tierra era plana.
+**Contexto:** Isabella reflexiona sobre la influencia del Renacimiento en la ciencia. Su abuelo le dice que antes de Colón, muchos pensaban que la Tierra era plana.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -228,11 +232,11 @@ El mito de que antes de Colón se pensaba que la Tierra era plana fue populariza
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Daniel compara el arte medieval con el renacentista en su clase de sociales de Cúcuta.
+**Contexto:** Daniel compara el arte medieval con el renacentista en su clase de sociales de Cúcuta.
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -249,11 +253,11 @@ La pintura medieval (especialmente la románica) era principalmente simbólica y
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W02-renacimiento-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el colegio de Tunja, el profesor pregunta: "¿Por qué decimos que el Renacimiento fue un puente entre la Edad Media y la Edad Moderna?"
+**Contexto:** En el colegio de Tunja, el profesor pregunta: "¿Por qué decimos que el Renacimiento fue un puente entre la Edad Media y la Edad Moderna?"
 **Expected_Success:** 0.42
 
 ### Enunciado

@@ -1,5 +1,5 @@
 ---
-id: "CO-CN-6-2026-P1-the-cell-001-MASTERY"
+id: "CO-CN-6-2026-P1-the-cell-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -19,7 +19,12 @@ rubric_baseline: "cell, cell theory, organelles, plant cell, animal cell, unicel
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: The Cell
 
@@ -30,13 +35,14 @@ This bundle covers the cell: cell theory, types of cells (plant/animal), basic o
 
 **ID:** `CO-CN-6-2026-P1-the-cell-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** In science class in Bogotá they study cells.
+**Contexto:** In science class in Bogotá they study cells.
 
 ### Enunciado
 What is the basic unit of life?
 
-### Options
+### Opciones
 - [ ] A) The atom <!-- feedback: No. -->
 - [x] B) The cell <!-- feedback: Correcto. -->
 - [ ] C) The organ <!-- feedback: No. -->
@@ -52,13 +58,14 @@ The cell is the basic structural and functional unit of all living organisms.
 
 **ID:** `CO-CN-6-2026-P1-the-cell-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** In Medellín they observe cells under a microscope.
+**Contexto:** In Medellín they observe cells under a microscope.
 
 ### Enunciado
 Which organelle is the 'powerhouse' of the cell?
 
-### Options
+### Opciones
 - [ ] A) Nucleus <!-- feedback: Control center. -->
 - [ ] B) Ribosome <!-- feedback: Protein synthesis. -->
 - [x] C) Mitochondria <!-- feedback: Correcto. -->
@@ -74,13 +81,14 @@ Mitochondria produce energy (ATP) through cellular respiration.
 
 **ID:** `CO-CN-6-2026-P1-the-cell-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** In Cali they compare cell types.
+**Contexto:** In Cali they compare cell types.
 
 ### Enunciado
 Difference between plant and animal cells?
 
-### Options
+### Opciones
 - [x] A) Plant cells have chloroplasts <!-- feedback: Correcto. -->
 - [ ] B) Animal cells have cell wall <!-- feedback: No, plants do. -->
 - [ ] C) They are exactly the same <!-- feedback: No. -->
@@ -96,13 +104,14 @@ Plant cells have chloroplasts for photosynthesis and a cell wall.
 
 **ID:** `CO-CN-6-2026-P1-the-cell-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** In Barranquilla they learn about the nucleus.
+**Contexto:** In Barranquilla they learn about the nucleus.
 
 ### Enunciado
 What does the nucleus contain?
 
-### Options
+### Opciones
 - [ ] A) Water <!-- feedback: No. -->
 - [x] B) DNA/genetic material <!-- feedback: Correcto. -->
 - [ ] C) Ribosomes <!-- feedback: No. -->
@@ -118,13 +127,14 @@ The nucleus contains DNA, which carries genetic information.
 
 **ID:** `CO-CN-6-2026-P1-the-cell-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** In Bucaramanga they study cell division.
+**Contexto:** In Bucaramanga they study cell division.
 
 ### Enunciado
 Mitosis produces how many daughter cells?
 
-### Options
+### Opciones
 - [ ] A) 1 <!-- feedback: No. -->
 - [x] B) 2 <!-- feedback: Correcto. -->
 - [ ] C) 4 <!-- feedback: No, meiosis. -->
@@ -140,13 +150,14 @@ Mitosis produces 2 identical daughter cells for growth and repair.
 
 **ID:** `CO-CN-6-2026-P1-the-cell-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** In Cartagena they explore cell function.
+**Contexto:** In Cartagena they explore cell function.
 
 ### Enunciado
 The cell membrane function is to ___.
 
-### Options
+### Opciones
 - [ ] A) Produce energy <!-- feedback: Mitochondria. -->
 - [x] B) Control what enters/exits <!-- feedback: Correcto. -->
 - [ ] C) Store water <!-- feedback: Vacuole. -->
@@ -162,13 +173,14 @@ Cell membrane is selectively permeable, controlling passage of substances.
 
 **ID:** `CO-CN-6-2026-P1-the-cell-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** In Pereira they identify organelles.
+**Contexto:** In Pereira they identify organelles.
 
 ### Enunciado
 Vacuoles are primarily for ___.
 
-### Options
+### Opciones
 - [ ] A) Energy production <!-- feedback: No. -->
 - [x] B) Storage of water and nutrients <!-- feedback: Correcto. -->
 - [ ] C) Cell division <!-- feedback: No. -->
@@ -184,13 +196,14 @@ Vacuoles store water, nutrients, and waste. Larger in plant cells.
 
 **ID:** `CO-CN-6-2026-P1-the-cell-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** In Manizales they compare unicellular vs multicellular.
+**Contexto:** In Manizales they compare unicellular vs multicellular.
 
 ### Enunciado
 Which is unicellular?
 
-### Options
+### Opciones
 - [ ] A) Human <!-- feedback: Multicellular. -->
 - [ ] B) Tree <!-- feedback: Multicellular. -->
 - [x] C) Bacteria <!-- feedback: Correcto. -->
@@ -206,13 +219,14 @@ Bacteria are unicellular (single-celled) organisms.
 
 **ID:** `CO-CN-6-2026-P1-the-cell-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** In Cúcuta they study levels of organization.
+**Contexto:** In Cúcuta they study levels of organization.
 
 ### Enunciado
 Correct order from smallest to largest?
 
-### Options
+### Opciones
 - [x] A) Cell, tissue, organ, system <!-- feedback: Correcto. -->
 - [ ] B) Tissue, cell, organ, system <!-- feedback: No. -->
 - [ ] C) Organ, system, tissue, cell <!-- feedback: No. -->
@@ -228,13 +242,14 @@ Levels: cell → tissue → organ → organ system → organism.
 
 **ID:** `CO-CN-6-2026-P1-the-cell-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** In Ibagué they relate structure to function.
+**Contexto:** In Ibagué they relate structure to function.
 
 ### Enunciado
 Red blood cells are disc-shaped to ___.
 
-### Options
+### Opciones
 - [ ] A) Store water <!-- feedback: No. -->
 - [x] B) Carry more oxygen <!-- feedback: Correcto. -->
 - [ ] C) Produce energy <!-- feedback: No. -->

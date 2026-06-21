@@ -20,6 +20,7 @@ tier: "legacy"
 creador: "Jules-Agent"
 ---
 
+
 # Bundle MASTERY: Repaso P3 - Grado 11
 
 Este bundle contiene 20 preguntas sobre **repaso p3** para grado 11,
@@ -38,14 +39,13 @@ alineadas con el CNB Honduras (Curriculo Nacional Basico) para Bachillerato 2026
 En la oración: "El sudor amargo de los campeños regaba la tierra de la compañía", ¿qué figura literaria se utiliza primordialmente para enfatizar el sufrimiento de los trabajadores?
 
 ### Opciones
-- [ ] A) Símil
-  <!-- feedback: Incorrecto. Un símil requiere una comparación explícita usando "como" o "parece". -->
-- [x] B) Metáfora
-  <!-- feedback: ¡Correcto! Se identifica el sudor con un "riego" amargo, trasladando el sentido del esfuerzo físico al de un sacrificio casi ritual. -->
-- [ ] C) Hipérbole
-  <!-- feedback: Incorrecto. Aunque hay una exageración implícita, la estructura es una identificación directa de términos (metáfora). -->
-- [ ] D) Onomatopeya
-  <!-- feedback: Incorrecto. No se imitan sonidos de la naturaleza. -->
+- [ ] A) Símil <!-- feedback: Incorrecto. Símil -->
+
+- [x] B) Metáfora <!-- feedback: Correcto! Metáfora -->
+
+- [ ] C) Hipérbole <!-- feedback: Incorrecto. Hipérbole -->
+
+- [ ] D) Onomatopeya <!-- feedback: Incorrecto. Onomatopeya -->
 
 ### Explicacion Pedagogica
 La metáfora es un recurso esencial en la literatura de denuncia social hondureña. Permite al autor transmitir realidades crudas de manera estética y emocionalmente impactante.
@@ -63,14 +63,13 @@ La metáfora es un recurso esencial en la literatura de denuncia social hondure�
 ¿Cuál de las siguientes oraciones utiliza correctamente las reglas de acentuación de las palabras agudas?
 
 ### Opciones
-- [ ] A) El examen de español sera en el salón principal.
-  <!-- feedback: Incorrecto. "sera" es aguda terminada en vocal, por lo que debe llevar tilde (será). -->
-- [x] B) Mañana viajaré a Comayagua para visitar la catedral.
-  <!-- feedback: ¡Correcto! "viajaré" es aguda terminada en vocal y lleva tilde; "catedral" es aguda terminada en consonante distinta de 'n' o 's' y no la lleva. -->
-- [ ] C) El café de Olancho tiene un sabor muy especial.
-  <!-- feedback: Correcto en su mayoría, pero "café" es la que cumple la regla. Sin embargo, revisa si hay otra mejor. No, esta es correcta también. Vamos a elegir una opción con error para los distractores. -->
-- [ ] D) Sofia compró un reloj nuevo en el mercado.
-  <!-- feedback: Incorrecto. "compró" está bien, pero "Sofia" es hiato y debe tildarse (Sofía). Además "reloj" no lleva tilde por ser aguda terminada en 'j'. -->
+- [ ] A) El examen de español sera en el salón principal. <!-- feedback: Incorrecto. El examen de español sera en el salón pr -->
+
+- [x] B) Mañana viajaré a Comayagua para visitar la catedral. <!-- feedback: Correcto! Mañana viajaré a Comayagua para visitar la catedral. -->
+
+- [ ] C) El café de Olancho tiene un sabor muy especial. <!-- feedback: Incorrecto. El café de Olancho tiene un sabor muy es -->
+
+- [ ] D) Sofia compró un reloj nuevo en el mercado. <!-- feedback: Incorrecto. Sofia compró un reloj nuevo en el mercad -->
 
 ### Explicacion Pedagogica
 Las palabras agudas se tildan cuando terminan en n, s o vocal. Es fundamental dominar esta regla para la producción de textos académicos y profesionales en Honduras.
@@ -88,14 +87,13 @@ Las palabras agudas se tildan cuando terminan en n, s o vocal. Es fundamental do
 ¿A qué movimiento o generación literaria se asocia principalmente la obra de Clementina Suárez por su ruptura con los moldes tradicionales y su activismo social?
 
 ### Opciones
-- [ ] A) Romanticismo
-  <!-- feedback: Incorrecto. El romanticismo es un movimiento del siglo XIX, previo a la época de Clementina. -->
-- [ ] B) Neoclasicismo
-  <!-- feedback: Incorrecto. El neoclasicismo se enfoca en la razón y las formas clásicas grecorromanas. -->
-- [x] C) Vanguardismo
-  <!-- feedback: ¡Correcto! Su obra rompió esquemas estéticos y sociales, siendo pionera de la vanguardia en Honduras. -->
-- [ ] D) Modernismo
-  <!-- feedback: Incorrecto. Aunque influenciada por su época, su voz es más propia de la ruptura vanguardista posterior al modernismo rubendariano. -->
+- [ ] A) Romanticismo <!-- feedback: Incorrecto. Romanticismo -->
+
+- [ ] B) Neoclasicismo <!-- feedback: Incorrecto. Neoclasicismo -->
+
+- [x] C) Vanguardismo <!-- feedback: Correcto! Vanguardismo -->
+
+- [ ] D) Modernismo <!-- feedback: Incorrecto. Modernismo -->
 
 ### Explicacion Pedagogica
 Clementina Suárez es una figura central que introdujo temas de liberación femenina y justicia social con una estética moderna en la literatura nacional.
@@ -113,14 +111,13 @@ Clementina Suárez es una figura central que introdujo temas de liberación feme
 En la oración: "Aunque el precio del combustible subió, los transportistas no aumentaron el pasaje", ¿cuál es la función del conector subrayado (Aunque)?
 
 ### Opciones
-- [ ] A) Causal (indica la causa de un hecho).
-  <!-- feedback: Incorrecto. El conector causal sería "porque" o "ya que". -->
-- [x] B) Concesivo (expresa una objeción que no impide la acción principal).
-  <!-- feedback: ¡Correcto! Indica un obstáculo (subida de precio) que no evitó el resultado (no subir el pasaje). -->
-- [ ] C) Consecutivo (indica la consecuencia de lo anterior).
-  <!-- feedback: Incorrecto. El conector consecutivo sería "por lo tanto" o "así que". -->
-- [ ] D) Adversativo (indica una oposición total).
-  <!-- feedback: Incorrecto. "Pero" es el adversativo por excelencia; "aunque" es matizadamente concesivo. -->
+- [ ] A) Causal (indica la causa de un hecho). <!-- feedback: Incorrecto. Causal (indica la causa de un hecho). -->
+
+- [x] B) Concesivo (expresa una objeción que no impide la acción principal). <!-- feedback: Correcto! Concesivo (expresa una objeción que no impide la acción prin -->
+
+- [ ] C) Consecutivo (indica la consecuencia de lo anterior). <!-- feedback: Incorrecto. Consecutivo (indica la consecuencia de l -->
+
+- [ ] D) Adversativo (indica una oposición total). <!-- feedback: Incorrecto. Adversativo (indica una oposición total) -->
 
 ### Explicacion Pedagogica
 Los conectores lógicos son herramientas que dan cohesión y coherencia al discurso. El uso de nexos concesivos permite construir argumentos más complejos y matizados.
@@ -138,14 +135,13 @@ Los conectores lógicos son herramientas que dan cohesión y coherencia al discu
 ¿Cuál de las siguientes opciones presenta un uso correcto de las letras 'g' y 'j' según las reglas ortográficas del español?
 
 ### Opciones
-- [ ] A) El gererente ordenó la corrección del mensage.
-  <!-- feedback: Incorrecto. Se escribe "gerente" y "mensaje". -->
-- [x] B) Es urgente proteger el equipaje de los viajeros.
-  <!-- feedback: ¡Correcto! Las palabras terminadas en -aje se escriben con 'j' y las terminadas en -gente con 'g' (excepto majo/rajo). -->
-- [ ] C) El vijilante revisó el carage de la planta.
-  <!-- feedback: Incorrecto. Se escribe "vigilante" y "garaje". -->
-- [ ] D) Debemos elejir el mejor trayecto para el viaje.
-  <!-- feedback: Incorrecto. Se escribe "elegir" (verbos terminados en -ger/-gir con 'g'). -->
+- [ ] A) El gererente ordenó la corrección del mensage. <!-- feedback: Incorrecto. El gererente ordenó la corrección del me -->
+
+- [x] B) Es urgente proteger el equipaje de los viajeros. <!-- feedback: Correcto! Es urgente proteger el equipaje de los viajeros. -->
+
+- [ ] C) El vijilante revisó el carage de la planta. <!-- feedback: Incorrecto. El vijilante revisó el carage de la plan -->
+
+- [ ] D) Debemos elejir el mejor trayecto para el viaje. <!-- feedback: Incorrecto. Debemos elejir el mejor trayecto para el -->
 
 ### Explicacion Pedagogica
 La correcta escritura de palabras con 'g' y 'j' es un reto ortográfico común. Regras como el uso de 'j' en terminaciones -aje y 'g' en -ger/-gir son fundamentales.
@@ -163,14 +159,13 @@ La correcta escritura de palabras con 'g' y 'j' es un reto ortográfico común. 
 Roberto Sosa escribe: "Los pobres son muchos y por eso es imposible olvidarlos". ¿Qué intención comunicativa prevalece en este verso?
 
 ### Opciones
-- [ ] A) Poética y estética pura, sin mensaje social.
-  <!-- feedback: Incorrecto. Sosa es conocido precisamente por su profunda carga social. -->
-- [x] B) Denuncia y visibilización de la realidad social hondureña.
-  <!-- feedback: ¡Correcto! El poema busca confrontar al lector con la magnitud y la persistencia de la pobreza. -->
-- [ ] C) Narrativa, contando la historia de un personaje pobre específico.
-  <!-- feedback: Incorrecto. No narra una historia, expresa una condición colectiva. -->
-- [ ] D) Informativa, dando datos estadísticos exactos.
-  <!-- feedback: Incorrecto. Aunque usa la palabra "muchos", su propósito es literario y reivindicativo, no estadístico. -->
+- [ ] A) Poética y estética pura, sin mensaje social. <!-- feedback: Incorrecto. Poética y estética pura, sin mensaje soc -->
+
+- [x] B) Denuncia y visibilización de la realidad social hondureña. <!-- feedback: Correcto! Denuncia y visibilización de la realidad social hondureña. -->
+
+- [ ] C) Narrativa, contando la historia de un personaje pobre específico. <!-- feedback: Incorrecto. Narrativa, contando la historia de un pe -->
+
+- [ ] D) Informativa, dando datos estadísticos exactos. <!-- feedback: Incorrecto. Informativa, dando datos estadísticos ex -->
 
 ### Explicacion Pedagogica
 La poesía de Roberto Sosa trasciende el arte por el arte para convertirse en un testimonio de la conciencia nacional y la empatía hacia los sectores marginados.
@@ -188,14 +183,13 @@ La poesía de Roberto Sosa trasciende el arte por el arte para convertirse en un
 ¿Cuál de las siguientes oraciones es un ejemplo del fenómeno lingüístico del "voseo" típico del habla hondureña?
 
 ### Opciones
-- [ ] A) Tú quieres ir a la feria este fin de semana.
-  <!-- feedback: Incorrecto. Este es un ejemplo de tuteo, poco común en el habla informal hondureña. -->
-- [ ] B) Usted quiere ir a la feria este fin de semana.
-  <!-- feedback: Incorrecto. Es el trato de cortesía o "ustedeo". -->
-- [x] C) Vos querés ir a la feria este fin de semana.
-  <!-- feedback: ¡Correcto! El uso del pronombre "vos" y la conjugación aguda del verbo (querés) es la marca del voseo hondureño. -->
-- [ ] D) Nosotros queremos ir a la feria este fin de semana.
-  <!-- feedback: Incorrecto. Se refiere a la primera persona del plural. -->
+- [ ] A) Tú quieres ir a la feria este fin de semana. <!-- feedback: Incorrecto. Tú quieres ir a la feria este fin de sem -->
+
+- [ ] B) Usted quiere ir a la feria este fin de semana. <!-- feedback: Incorrecto. Usted quiere ir a la feria este fin de s -->
+
+- [x] C) Vos querés ir a la feria este fin de semana. <!-- feedback: Correcto! Vos querés ir a la feria este fin de semana. -->
+
+- [ ] D) Nosotros queremos ir a la feria este fin de semana. <!-- feedback: Incorrecto. Nosotros queremos ir a la feria este fin -->
 
 ### Explicacion Pedagogica
 El voseo es una característica dialectal de Honduras que forma parte de la identidad lingüística nacional, permitiendo un nivel de confianza y cercanía en la comunicación.
@@ -213,14 +207,13 @@ El voseo es una característica dialectal de Honduras que forma parte de la iden
 ¿Cuál es la forma correcta de redactar el saludo inicial y el cuerpo en un lenguaje formal y respetuoso?
 
 ### Opciones
-- [ ] A) Hola, te escribo para ver si me dan la beca que ví en el anuncio.
-  <!-- feedback: Incorrecto. Demasiado informal ("Hola", "te escribo") y falta de tildes ("ví"). -->
-- [x] B) Estimado comité evaluador: Me dirijo a ustedes con el propósito de postularme a la beca de excelencia académica.
-  <!-- feedback: ¡Correcto! Usa un saludo apropiado, lenguaje indirecto y estructura clara. -->
-- [ ] C) ¿Qué onda? Quiero la beca para poder seguir estudiando en la U.
-  <!-- feedback: Incorrecto. Uso de jerga coloquial inapropiada para un contexto formal. -->
-- [ ] D) A quien corresponda; Por este medio quiero decirles que me interesa el dinero de la beca.
-  <!-- feedback: Incorrecto. La redacción es ruda y el uso de los signos de puntuación es incorrecto después del saludo. -->
+- [ ] A) Hola, te escribo para ver si me dan la beca que ví en el anuncio. <!-- feedback: Incorrecto. Hola, te escribo para ver si me dan la b -->
+
+- [x] B) Estimado comité evaluador: Me dirijo a ustedes con el propósito de postularme a la beca de excelencia académica. <!-- feedback: Correcto! Estimado comité evaluador: Me dirijo a ustedes con el propós -->
+
+- [ ] C) ¿Qué onda? Quiero la beca para poder seguir estudiando en la U. <!-- feedback: Incorrecto. ¿Qué onda? Quiero la beca para poder seg -->
+
+- [ ] D) A quien corresponda; Por este medio quiero decirles que me interesa el dinero de la beca. <!-- feedback: Incorrecto. A quien corresponda; Por este medio quie -->
 
 ### Explicacion Pedagogica
 La adecuación del registro lingüístico al contexto (formal vs. informal) es una competencia comunicativa vital para la vida profesional en Honduras.
@@ -238,14 +231,13 @@ La adecuación del registro lingüístico al contexto (formal vs. informal) es u
 Si el autor afirma que "el guancasco no es solo una danza, sino un pacto de paz entre pueblos", ¿qué técnica argumentativa está utilizando para dar profundidad a su idea?
 
 ### Opciones
-- [ ] A) Argumento de autoridad (citando a un experto).
-  <!-- feedback: Incorrecto. No cita a ninguna persona u organismo externo. -->
-- [x] B) Definición esencial o conceptualización simbólica.
-  <!-- feedback: ¡Correcto! Redefine un elemento cultural desde su significado profundo y social. -->
-- [ ] C) Analogía (comparando con algo similar).
-  <!-- feedback: Incorrecto. No compara la danza con otra cosa fuera de su propio contexto. -->
-- [ ] D) Argumento de cifras (usando datos numéricos).
-  <!-- feedback: Incorrecto. No presenta estadísticas. -->
+- [ ] A) Argumento de autoridad (citando a un experto). <!-- feedback: Incorrecto. Argumento de autoridad (citando a un exp -->
+
+- [x] B) Definición esencial o conceptualización simbólica. <!-- feedback: Correcto! Definición esencial o conceptualización simbólica. -->
+
+- [ ] C) Analogía (comparando con algo similar). <!-- feedback: Incorrecto. Analogía (comparando con algo similar). -->
+
+- [ ] D) Argumento de cifras (usando datos numéricos). <!-- feedback: Incorrecto. Argumento de cifras (usando datos numéri -->
 
 ### Explicacion Pedagogica
 En los textos de opinión, las definiciones cargadas de simbolismo ayudan a persuadir al lector sobre el valor de una práctica o idea.
@@ -263,14 +255,13 @@ En los textos de opinión, las definiciones cargadas de simbolismo ayudan a pers
 ¿En qué género periodístico el autor expresa su punto de vista y análisis personal sobre un tema de actualidad, asumiendo la responsabilidad de lo dicho con su firma?
 
 ### Opciones
-- [ ] A) Noticia o Nota informativa
-  <!-- feedback: Incorrecto. La noticia debe ser objetiva y centrada en los hechos, no en opiniones. -->
-- [x] B) Artículo de Opinión
-  <!-- feedback: ¡Correcto! Es el género subjetivo por excelencia donde se interpreta la realidad desde una perspectiva personal. -->
-- [ ] C) Crónica
-  <!-- feedback: Incorrecto. La crónica combina información con estilo narrativo, pero el enfoque es el relato de sucesos. -->
-- [ ] D) Reportaje
-  <!-- feedback: Incorrecto. El reportaje es una investigación profunda y exhaustiva, predominantemente informativa. -->
+- [ ] A) Noticia o Nota informativa <!-- feedback: Incorrecto. Noticia o Nota informativa -->
+
+- [x] B) Artículo de Opinión <!-- feedback: Correcto! Artículo de Opinión -->
+
+- [ ] C) Crónica <!-- feedback: Incorrecto. Crónica -->
+
+- [ ] D) Reportaje <!-- feedback: Incorrecto. Reportaje -->
 
 ### Explicacion Pedagogica
 Diferenciar los géneros periodísticos permite al ciudadano hondureño ser un consumidor crítico de medios de comunicación.
@@ -288,14 +279,13 @@ Diferenciar los géneros periodísticos permite al ciudadano hondureño ser un c
 ¿Cuál es la forma correcta de citar un libro de un solo autor siguiendo las normas básicas de redacción académica?
 
 ### Opciones
-- [ ] A) (Ramón Amaya Amador, 1950, Prisión Verde)
-  <!-- feedback: Incorrecto. El título no suele ir dentro del paréntesis de cita textual corta. -->
-- [x] B) (Amaya Amador, 1950, p. 45)
-  <!-- feedback: ¡Correcto! Se usa Apellido, Año y número de página si es cita directa. -->
-- [ ] C) El libro Prisión Verde escrito por Ramón Amaya Amador en 1950.
-  <!-- feedback: Incorrecto. Esta es una mención en el texto, no una cita técnica normalizada. -->
-- [ ] D) (Ramón A. A., 1950)
-  <!-- feedback: Incorrecto. Se usa el apellido completo, no las iniciales. -->
+- [ ] A) (Ramón Amaya Amador, 1950, Prisión Verde) <!-- feedback: Incorrecto. (Ramón Amaya Amador, 1950, Prisión Verde -->
+
+- [x] B) (Amaya Amador, 1950, p. 45) <!-- feedback: Correcto! (Amaya Amador, 1950, p. 45) -->
+
+- [ ] C) El libro Prisión Verde escrito por Ramón Amaya Amador en 1950. <!-- feedback: Incorrecto. El libro Prisión Verde escrito por Ramón -->
+
+- [ ] D) (Ramón A. A., 1950) <!-- feedback: Incorrecto. (Ramón A. A., 1950) -->
 
 ### Explicacion Pedagogica
 El manejo de normas de citación es esencial para garantizar la honestidad académica y evitar el plagio en los trabajos escolares y universitarios en Honduras.
@@ -313,14 +303,13 @@ El manejo de normas de citación es esencial para garantizar la honestidad acad�
 "El espejo de agua duerme bajo el poncho de la niebla." ¿Qué dos figuras literarias se combinan en este verso?
 
 ### Opciones
-- [x] A) Metáfora y Personificación
-  <!-- feedback: ¡Correcto! "Espejo de agua" es metáfora; "duerme" otorga cualidades humanas al lago (personificación). -->
-- [ ] B) Símil e Hipérbole
-  <!-- feedback: Incorrecto. No hay comparación con "como" ni exageración desmedida. -->
-- [ ] C) Aliteración y Retruécano
-  <!-- feedback: Incorrecto. No se repiten sonidos para imitar ruidos ni se juegan con palabras en orden inverso. -->
-- [ ] D) Metonimia y Epíteto
-  <!-- feedback: Incorrecto. Aunque hay adjetivación, la personificación es la figura dominante junto a la metáfora. -->
+- [x] A) Metáfora y Personificación <!-- feedback: Correcto! Metáfora y Personificación -->
+
+- [ ] B) Símil e Hipérbole <!-- feedback: Incorrecto. Símil e Hipérbole -->
+
+- [ ] C) Aliteración y Retruécano <!-- feedback: Incorrecto. Aliteración y Retruécano -->
+
+- [ ] D) Metonimia y Epíteto <!-- feedback: Incorrecto. Metonimia y Epíteto -->
 
 ### Explicacion Pedagogica
 La combinación de figuras literarias enriquece la lírica, permitiendo descripciones sugerentes que van más allá del sentido literal de las palabras.
@@ -338,14 +327,13 @@ La combinación de figuras literarias enriquece la lírica, permitiendo descripc
 ¿Cuál de los siguientes enunciados constituye una tesis (postura debatible) válida para iniciar un texto argumentativo?
 
 ### Opciones
-- [ ] A) Las redes sociales son aplicaciones que se descargan en el celular.
-  <!-- feedback: Incorrecto. Esto es un hecho objetivo, no una postura a defender. -->
-- [ ] B) Muchas personas en San Pedro Sula usan Facebook todos los días.
-  <!-- feedback: Incorrecto. Es una observación estadística, no una tesis. -->
-- [x] C) El uso excesivo de redes sociales está deteriorando las habilidades de comunicación presencial en los jóvenes hondureños.
-  <!-- feedback: ¡Correcto! Es una opinión que requiere ser demostrada con argumentos y evidencia. -->
-- [ ] D) Me gustan las redes sociales porque puedo ver fotos de mis amigos.
-  <!-- feedback: Incorrecto. Es un gusto personal, no una tesis académica estructurada. -->
+- [ ] A) Las redes sociales son aplicaciones que se descargan en el celular. <!-- feedback: Incorrecto. Las redes sociales son aplicaciones que  -->
+
+- [ ] B) Muchas personas en San Pedro Sula usan Facebook todos los días. <!-- feedback: Incorrecto. Muchas personas en San Pedro Sula usan F -->
+
+- [x] C) El uso excesivo de redes sociales está deteriorando las habilidades de comunicación presencial en los jóvenes hondureños. <!-- feedback: Correcto! El uso excesivo de redes sociales está deteriorando las habi -->
+
+- [ ] D) Me gustan las redes sociales porque puedo ver fotos de mis amigos. <!-- feedback: Incorrecto. Me gustan las redes sociales porque pued -->
 
 ### Explicacion Pedagogica
 Una tesis debe ser clara, específica y, sobre todo, argumentable. Es el núcleo de cualquier ensayo o discurso persuasivo.
@@ -363,14 +351,13 @@ Una tesis debe ser clara, específica y, sobre todo, argumentable. Es el núcleo
 Si el texto menciona que "el colapso de las ciudades mayas sigue siendo un enigma para los arqueólogos", ¿qué inferencia se puede extraer correctamente de esta frase?
 
 ### Opciones
-- [ ] A) Los arqueólogos no saben nada sobre la cultura maya.
-  <!-- feedback: Incorrecto. El texto solo dice que el colapso es un enigma, no toda su cultura. -->
-- [x] B) Existen múltiples teorías pero ninguna certeza definitiva sobre por qué abandonaron las ciudades.
-  <!-- feedback: ¡Correcto! La palabra "enigma" sugiere la falta de una respuesta única y probada. -->
-- [ ] C) Los mayas desaparecieron de la noche a la mañana sin dejar rastro.
-  <!-- feedback: Incorrecto. Dejaron las ciudades y sus descendientes (como los Chortís) persisten. -->
-- [ ] D) El colapso fue causado exclusivamente por una guerra sangrienta.
-  <!-- feedback: Incorrecto. El texto dice que es un enigma; afirmar una sola causa contradice esa idea. -->
+- [ ] A) Los arqueólogos no saben nada sobre la cultura maya. <!-- feedback: Incorrecto. Los arqueólogos no saben nada sobre la c -->
+
+- [x] B) Existen múltiples teorías pero ninguna certeza definitiva sobre por qué abandonaron las ciudades. <!-- feedback: Correcto! Existen múltiples teorías pero ninguna certeza definitiva so -->
+
+- [ ] C) Los mayas desaparecieron de la noche a la mañana sin dejar rastro. <!-- feedback: Incorrecto. Los mayas desaparecieron de la noche a l -->
+
+- [ ] D) El colapso fue causado exclusivamente por una guerra sangrienta. <!-- feedback: Incorrecto. El colapso fue causado exclusivamente po -->
 
 ### Explicacion Pedagogica
 La inferencia consiste en extraer conclusiones lógicas a partir de lo que el texto sugiere, sin ir más allá de la evidencia presentada.
@@ -388,14 +375,13 @@ La inferencia consiste en extraer conclusiones lógicas a partir de lo que el te
 ¿En qué opción el uso de la coma es obligatorio por tratarse de un vocativo (llamada de atención al interlocutor)?
 
 ### Opciones
-- [ ] A) Las leyendas de Honduras, son muy interesantes para los niños.
-  <!-- feedback: Incorrecto. Aquí la coma separa el sujeto del predicado, lo cual es un error gramatical. -->
-- [ ] B) El Cadejo blanco protege a los viajeros, mientras que el negro los asusta.
-  <!-- feedback: Incorrecto. Es una coma para separar oraciones coordinadas adversativas. -->
-- [x] C) Escucha con atención, hijo mío, la historia de la Sucia.
-  <!-- feedback: ¡Correcto! "hijo mío" es el vocativo y debe ir entre comas. -->
-- [ ] D) Tegucigalpa, la capital de Honduras, está rodeada de cerros.
-  <!-- feedback: Incorrecto. Esta es una coma explicativa o de aposición. -->
+- [ ] A) Las leyendas de Honduras, son muy interesantes para los niños. <!-- feedback: Incorrecto. Las leyendas de Honduras, son muy intere -->
+
+- [ ] B) El Cadejo blanco protege a los viajeros, mientras que el negro los asusta. <!-- feedback: Incorrecto. El Cadejo blanco protege a los viajeros, -->
+
+- [x] C) Escucha con atención, hijo mío, la historia de la Sucia. <!-- feedback: Correcto! Escucha con atención, hijo mío, la historia de la Sucia. -->
+
+- [ ] D) Tegucigalpa, la capital de Honduras, está rodeada de cerros. <!-- feedback: Incorrecto. Tegucigalpa, la capital de Honduras, est -->
 
 ### Explicacion Pedagogica
 La coma del vocativo es esencial para distinguir a quién se dirige el mensaje y evitar ambigüedades en la lectura y escritura.
@@ -413,14 +399,13 @@ La coma del vocativo es esencial para distinguir a quién se dirige el mensaje y
 ¿Cómo se denomina al tipo de narrador que conoce todos los hechos, los pensamientos y los sentimientos de los personajes, hablando en tercera persona?
 
 ### Opciones
-- [ ] A) Narrador Protagonista
-  <!-- feedback: Incorrecto. El protagonista cuenta su propia historia en primera persona. -->
-- [ ] B) Narrador Testigo
-  <!-- feedback: Incorrecto. Solo cuenta lo que ve o escucha, no los pensamientos internos ajenos. -->
-- [x] C) Narrador Omnisciente
-  <!-- feedback: ¡Correcto! Es el narrador que "todo lo sabe" y actúa como una deidad en el relato. -->
-- [ ] D) Narrador en segunda persona
-  <!-- feedback: Incorrecto. Este tipo de narrador se dirige al lector o a sí mismo como "tú" o "vos". -->
+- [ ] A) Narrador Protagonista <!-- feedback: Incorrecto. Narrador Protagonista -->
+
+- [ ] B) Narrador Testigo <!-- feedback: Incorrecto. Narrador Testigo -->
+
+- [x] C) Narrador Omnisciente <!-- feedback: Correcto! Narrador Omnisciente -->
+
+- [ ] D) Narrador en segunda persona <!-- feedback: Incorrecto. Narrador en segunda persona -->
 
 ### Explicacion Pedagogica
 Identificar el tipo de narrador es clave para entender la perspectiva desde la cual se construye el mundo ficticio y la fiabilidad de la información brindada.
@@ -438,14 +423,13 @@ Identificar el tipo de narrador es clave para entender la perspectiva desde la c
 El editorial concluye: "No proteger nuestro pulmón verde es una sentencia de muerte para nuestra biodiversidad". ¿Qué función del lenguaje predomina en esta frase de cierre?
 
 ### Opciones
-- [ ] A) Función Metalingüística
-  <!-- feedback: Incorrecto. No se habla sobre el lenguaje mismo. -->
-- [ ] B) Función Fática
-  <!-- feedback: Incorrecto. No busca comprobar si el canal de comunicación funciona. -->
-- [x] C) Función Apelativa o Conativa
-  <!-- feedback: ¡Correcto! Aunque no es una orden directa, busca influir en la conducta o conciencia del receptor para que actúe. -->
-- [ ] D) Función Referencial
-  <!-- feedback: Incorrecto. Aunque informa, la carga de juicio ("sentencia de muerte") busca una reacción más allá del dato. -->
+- [ ] A) Función Metalingüística <!-- feedback: Incorrecto. Función Metalingüística -->
+
+- [ ] B) Función Fática <!-- feedback: Incorrecto. Función Fática -->
+
+- [x] C) Función Apelativa o Conativa <!-- feedback: Correcto! Función Apelativa o Conativa -->
+
+- [ ] D) Función Referencial <!-- feedback: Incorrecto. Función Referencial -->
 
 ### Explicacion Pedagogica
 Las funciones del lenguaje ayudan a determinar qué busca lograr el autor con su mensaje: informar, expresar sentimientos o movilizar al oyente.
@@ -463,14 +447,13 @@ Las funciones del lenguaje ayudan a determinar qué busca lograr el autor con su
 ¿Cuál de las siguientes oraciones es gramaticalmente correcta respecto al uso de la preposición 'de' antes de la conjunción 'que'?
 
 ### Opciones
-- [ ] A) Me alegra de que hayas venido a visitarme a Trujillo.
-  <!-- feedback: Incorrecto. Es dequeísmo. Lo correcto es "Me alegra que...". -->
-- [ ] B) Pienso de que Honduras tiene mucho potencial turístico.
-  <!-- feedback: Incorrecto. Es dequeísmo. Lo correcto es "Pienso que...". -->
-- [x] C) Estoy convencido de que la educación es la base del progreso.
-  <!-- feedback: ¡Correcto! El adjetivo "convencido" rige la preposición "de". -->
-- [ ] D) Ella me dijo de que no podría ir a la reunión en Juticalpa.
-  <!-- feedback: Incorrecto. Es dequeísmo. Lo correcto es "Ella me dijo que...". -->
+- [ ] A) Me alegra de que hayas venido a visitarme a Trujillo. <!-- feedback: Incorrecto. Me alegra de que hayas venido a visitarm -->
+
+- [ ] B) Pienso de que Honduras tiene mucho potencial turístico. <!-- feedback: Incorrecto. Pienso de que Honduras tiene mucho poten -->
+
+- [x] C) Estoy convencido de que la educación es la base del progreso. <!-- feedback: Correcto! Estoy convencido de que la educación es la base del progreso -->
+
+- [ ] D) Ella me dijo de que no podría ir a la reunión en Juticalpa. <!-- feedback: Incorrecto. Ella me dijo de que no podría ir a la re -->
 
 ### Explicacion Pedagogica
 El dequeísmo es un vicio del lenguaje muy extendido. Una forma de verificar es convertir la oración en pregunta: "¿De qué estás convencido?" (Correcto) vs "¿De qué piensas?" (Incorrecto).
@@ -488,14 +471,13 @@ El dequeísmo es un vicio del lenguaje muy extendido. Una forma de verificar es 
 ¿Cuál es la diferencia fundamental en el enfoque temático entre las crónicas de la colonia y la novela de la generación del 50 en Honduras?
 
 ### Opciones
-- [ ] A) No hay diferencia, ambas hablan exclusivamente de la belleza natural del país.
-  <!-- feedback: Incorrecto. Los enfoques son radicalmente distintos. -->
-- [x] B) La crónica colonial buscaba describir el "descubrimiento" y conquista; la novela del 50 busca denunciar las injusticias sociales y políticas.
-  <!-- feedback: ¡Correcto! Se pasa de una visión eurocéntrica de registro a una visión nacionalista de crítica social. -->
-- [ ] C) Las crónicas coloniales eran poemas, mientras que las del 50 son solo noticias de periódicos.
-  <!-- feedback: Incorrecto. La crónica es un género narrativo-histórico, y la generación del 50 produjo principalmente narrativa de ficción. -->
-- [ ] D) En la colonia se escribía en latín y en el 50 se empezó a usar el español.
-  <!-- feedback: Incorrecto. Ambas épocas usaron el español como lengua principal de escritura. -->
+- [ ] A) No hay diferencia, ambas hablan exclusivamente de la belleza natural del país. <!-- feedback: Incorrecto. No hay diferencia, ambas hablan exclusiv -->
+
+- [x] B) La crónica colonial buscaba describir el "descubrimiento" y conquista; la novela del 50 busca denunciar las injusticias sociales y políticas. <!-- feedback: Correcto! La crónica colonial buscaba describir el "descubrimiento" y  -->
+
+- [ ] C) Las crónicas coloniales eran poemas, mientras que las del 50 son solo noticias de periódicos. <!-- feedback: Incorrecto. Las crónicas coloniales eran poemas, mie -->
+
+- [ ] D) En la colonia se escribía en latín y en el 50 se empezó a usar el español. <!-- feedback: Incorrecto. En la colonia se escribía en latín y en  -->
 
 ### Explicacion Pedagogica
 La literatura refleja la evolución del pensamiento de una nación. Entender estos cambios ayuda a comprender cómo se ha construido la identidad hondureña.
@@ -513,14 +495,13 @@ La literatura refleja la evolución del pensamiento de una nación. Entender est
 En un texto académico, se lee: "El lenguaje no es un espejo de la realidad, sino un prisma que la refracta". ¿Cuál es el significado filosófico más profundo de esta afirmación?
 
 ### Opciones
-- [ ] A) Que el lenguaje es exactamente igual a lo que vemos en el mundo.
-  <!-- feedback: Incorrecto. Esta sería la visión de "espejo", la cual el autor niega. -->
-- [x] B) Que nuestra percepción del mundo está mediada y transformada por el lenguaje y la cultura que poseemos.
-  <!-- feedback: ¡Correcto! El lenguaje no solo muestra, sino que interpreta y da forma a nuestra realidad. -->
-- [ ] C) Que las palabras son como cristales que pueden romperse fácilmente.
-  <!-- feedback: Incorrecto. Es una interpretación literal y superficial de la metáfora del prisma. -->
-- [ ] D) Que no se puede hablar de la realidad si no tenemos un prisma físico a mano.
-  <!-- feedback: Incorrecto. Interpretación absurda de la metáfora. -->
+- [ ] A) Que el lenguaje es exactamente igual a lo que vemos en el mundo. <!-- feedback: Incorrecto. Que el lenguaje es exactamente igual a l -->
+
+- [x] B) Que nuestra percepción del mundo está mediada y transformada por el lenguaje y la cultura que poseemos. <!-- feedback: Correcto! Que nuestra percepción del mundo está mediada y transformada -->
+
+- [ ] C) Que las palabras son como cristales que pueden romperse fácilmente. <!-- feedback: Incorrecto. Que las palabras son como cristales que  -->
+
+- [ ] D) Que no se puede hablar de la realidad si no tenemos un prisma físico a mano. <!-- feedback: Incorrecto. Que no se puede hablar de la realidad si -->
 
 ### Explicacion Pedagogica
 Esta pregunta evalúa la capacidad de análisis crítico y comprensión de metáforas conceptuales complejas, un nivel esperado para un estudiante de último año de bachillerato.

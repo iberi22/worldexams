@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W17-economia-colonial-001-MASTERY"
+id: "CO-SOC-7-2026-W17-economia-colonial-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-ciudadanas"
 tema: "economia-colonial"
-semana: "W17"
+week: "W17"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026 — Pensamiento Social"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Economía Colonial en la Nueva Granada — Grado 7
 ## Semana W17 — Minería, agricultura, comercio, tributos y trabajo en la colonia
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W17-economia-colonial-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En la clase de sociales del Colegio Santo Domingo de Bogotá, la profesora pregunta cuál era la principal actividad económica de la Nueva Granada colonial.
+**Contexto:** En la clase de sociales del Colegio Santo Domingo de Bogotá, la profesora pregunta cuál era la principal actividad económica de la Nueva Granada colonial.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La minería de oro fue la actividad económica más importante de la Nueva Grana
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-SOC-7-2026-W17-economia-colonial-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del colegio de Medellín leen un texto sobre el sistema de la encomienda en la colonia.
+**Contexto:** Los estudiantes del colegio de Medellín leen un texto sobre el sistema de la encomienda en la colonia.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ La **encomienda** fue una institución colonial fundamental en los primeros sigl
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-SOC-7-2026-W17-economia-colonial-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Cali, los estudiantes estudian el sistema de la mita en la colonia.
+**Contexto:** En el colegio de Cali, los estudiantes estudian el sistema de la mita en la colonia.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -81,11 +85,11 @@ La **mita** (del quechua "mit'a", que significa turno) era un sistema de trabajo
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-SOC-7-2026-W17-economia-colonial-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Argumentación
-**Context:** En el colegio de Barranquilla, los estudiantes analizan por qué la Corona española controlaba estrictamente el comercio colonial.
+**Contexto:** En el colegio de Barranquilla, los estudiantes analizan por qué la Corona española controlaba estrictamente el comercio colonial.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -102,11 +106,11 @@ La Corona española implementó un sistema de **monopolio comercial** (también 
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-SOC-7-2026-W17-economia-colonial-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del colegio de Cartagena leen un texto sobre la agricultura colonial.
+**Contexto:** Los estudiantes del colegio de Cartagena leen un texto sobre la agricultura colonial.
 **Expected_Success:** 0.77
 
 ### Enunciado
@@ -123,11 +127,11 @@ La agricultura colonial en la Nueva Granada combinaba productos nativos american
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-SOC-7-2026-W17-economia-colonial-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Pereira, los estudiantes analizan el sistema de impuestos coloniales.
+**Contexto:** En el colegio de Pereira, los estudiantes analizan el sistema de impuestos coloniales.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ El sistema tributario colonial era complejo y gravaba a casi todas las actividad
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-SOC-7-2026-W17-economia-colonial-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Bucaramanga, los estudiantes comparan la economía minera con la agrícola en la colonia.
+**Contexto:** En el colegio de Bucaramanga, los estudiantes comparan la economía minera con la agrícola en la colonia.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -165,11 +169,11 @@ La economía colonial de la Nueva Granada no era homogénea; cada región desarr
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-SOC-7-2026-W17-economia-colonial-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Social
-**Context:** En la I.E. de Villavicencio, los estudiantes analizan el contrabando en la Nueva Granada colonial.
+**Contexto:** En la I.E. de Villavicencio, los estudiantes analizan el contrabando en la Nueva Granada colonial.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -186,11 +190,11 @@ El contrabando fue una actividad masiva y estructural en la economía colonial d
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-SOC-7-2026-W17-economia-colonial-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Cúcuta, los estudiantes analizan un mapa de las rutas comerciales coloniales.
+**Contexto:** En el colegio de Cúcuta, los estudiantes analizan un mapa de las rutas comerciales coloniales.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ El transporte en la Nueva Granada colonial era extremadamente difícil y lento d
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W17-economia-colonial-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Manizales, los estudiantes evalúan el impacto de la economía colonial en el medio ambiente.
+**Contexto:** En el colegio de Manizales, los estudiantes evalúan el impacto de la economía colonial en el medio ambiente.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -228,11 +232,11 @@ La minería colonial de oro tuvo un impacto ambiental devastador en la Nueva Gra
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-SOC-7-2026-W17-economia-colonial-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Sincelejo, la profesora pregunta por la Rebelión de los Comuneros de 1781.
+**Contexto:** En el colegio de Sincelejo, la profesora pregunta por la Rebelión de los Comuneros de 1781.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -249,11 +253,11 @@ La Rebelión de los Comuneros (1781) fue el levantamiento más importante de la 
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W17-economia-colonial-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** La profesora de sociales del colegio de Bogotá propone reflexionar sobre la relación entre la economía colonial y la economía actual de Colombia.
+**Contexto:** La profesora de sociales del colegio de Bogotá propone reflexionar sobre la relación entre la economía colonial y la economía actual de Colombia.
 **Expected_Success:** 0.42
 
 ### Enunciado

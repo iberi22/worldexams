@@ -1,28 +1,32 @@
 ---
-id: "CO-CN-7-2026-W05-reproduccion-001-MASTERY"
+id: "CO-CN-7-2026-W05-reproduccion-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "ciencias-naturales"
 tema: "reproduccion"
-semana: "W05"
+week: "W05"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Reproducción - Grado 7
 ## Semana W05 — Reproducción humana y salud reproductiva
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-CN-7-2026-W05-reproduccion-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase de ciencias del Colegio Tilatá de Bogotá, la profesora pregunta los tipos de reproducción.
+**Contexto:** En clase de ciencias del Colegio Tilatá de Bogotá, la profesora pregunta los tipos de reproducción.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -37,11 +41,11 @@ La reproducción es la capacidad de los seres vivos de producir descendencia. La
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-CN-7-2026-W05-reproduccion-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** María estudia los órganos del sistema reproductor femenino en Medellín.
+**Contexto:** María estudia los órganos del sistema reproductor femenino en Medellín.
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -56,11 +60,11 @@ Los ovarios son las gónadas femeninas. Producen los óvulos (células reproduct
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-CN-7-2026-W05-reproduccion-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Carlos aprende sobre los espermatozoides en su clase de Cali.
+**Contexto:** Carlos aprende sobre los espermatozoides en su clase de Cali.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -75,11 +79,11 @@ Los testículos son las gónadas masculinas. Producen espermatozoides (aproximad
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-CN-7-2026-W05-reproduccion-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Laura quiere entender el proceso de fecundación en Barranquilla.
+**Contexto:** Laura quiere entender el proceso de fecundación en Barranquilla.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -94,11 +98,11 @@ La fecundación (unión del óvulo y el espermatozoide) ocurre normalmente en la
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-CN-7-2026-W05-reproduccion-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Andrés investiga sobre métodos anticonceptivos para su clase en Cartagena.
+**Contexto:** Andrés investiga sobre métodos anticonceptivos para su clase en Cartagena.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -113,11 +117,11 @@ Los métodos anticonceptivos se clasifican en: (1) Barrera: condón (también pr
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-CN-7-2026-W05-reproduccion-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
-**Context:** Santiago explica las etapas del embarazo en el colegio de Bucaramanga.
+**Contexto:** Santiago explica las etapas del embarazo en el colegio de Bucaramanga.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -132,11 +136,11 @@ El embarazo humano dura aproximadamente 280 días (40 semanas o 9 meses) desde e
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-CN-7-2026-W05-reproduccion-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Valentina compara reproducción asexual y sexual en Pereira.
+**Contexto:** Valentina compara reproducción asexual y sexual en Pereira.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -151,11 +155,11 @@ La reproducción sexual tiene la gran ventaja de la variabilidad genética: cada
 
 ---
 
-## Pregunta 8 [D6]
+## Question 8 [D6]
 **ID:** `CO-CN-7-2026-W05-reproduccion-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Camila estudia el ciclo menstrual en Manizales.
+**Contexto:** Camila estudia el ciclo menstrual en Manizales.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -170,11 +174,11 @@ El ciclo menstrual promedio dura 28 días. La ovulación ocurre aproximadamente 
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-CN-7-2026-W05-reproduccion-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Sebastián investiga sobre infecciones de transmisión sexual (ITS) en Ibagué.
+**Contexto:** Sebastián investiga sobre infecciones de transmisión sexual (ITS) en Ibagué.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -189,11 +193,11 @@ Las Infecciones de Transmisión Sexual (ITS) incluyen VIH, clamidia, gonorrea, s
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-CN-7-2026-W05-reproduccion-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Isabella reflexiona sobre la educación sexual en su colegio de Neiva.
+**Contexto:** Isabella reflexiona sobre la educación sexual en su colegio de Neiva.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -208,11 +212,11 @@ La educación sexual integral basada en evidencia ayuda a: (1) Reducir embarazos
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-CN-7-2026-W05-reproduccion-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Daniel compara la gestación humana con la de otros animales en Sincelejo.
+**Contexto:** Daniel compara la gestación humana con la de otros animales en Sincelejo.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -227,11 +231,11 @@ La duración de la gestación varía según el tamaño y complejidad del animal:
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-CN-7-2026-W05-reproduccion-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase de ciencias en Cúcuta, el profesor pregunta: "¿Qué hace que un niño se parezca a sus padres sin ser idéntico a ninguno?"
+**Contexto:** En clase de ciencias en Cúcuta, el profesor pregunta: "¿Qué hace que un niño se parezca a sus padres sin ser idéntico a ninguno?"
 **Expected_Success:** 0.42
 
 ### Enunciado

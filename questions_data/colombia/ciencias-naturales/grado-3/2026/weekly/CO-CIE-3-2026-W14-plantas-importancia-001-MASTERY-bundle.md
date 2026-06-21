@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY"
+id: "CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "plantas-importancia"
-semana: "W14"
+week: "W14"
 periodo: 2
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Importancia de las plantas para la vida: producción de oxíge
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # La Importancia de las Plantas para la Vida
 
 Este bundle destaca por qué las plantas son fundamentales para la existencia de todos los demás seres vivos en el planeta Tierra, más allá de solo darnos sombra o frutos.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un video educativo, un científico explica que sin plantas, la atmósfera de la Tierra sería irrespirable para los animales.
+**Contexto:** En un video educativo, un científico explica que sin plantas, la atmósfera de la Tierra sería irrespirable para los animales.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ La producción de oxígeno es el mayor regalo de las plantas. A través de la fo
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Muchos pájaros, insectos y hasta pequeños mamíferos como las ardillas viven dentro de los árboles de un bosque.
+**Contexto:** Muchos pájaros, insectos y hasta pequeños mamíferos como las ardillas viven dentro de los árboles de un bosque.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -73,12 +77,12 @@ Las plantas son los arquitectos de los ecosistemas. Un solo árbol puede ser el 
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la base de todas las cadenas alimentarias de la naturaleza siempre encontramos a las plantas.
+**Contexto:** En la base de todas las cadenas alimentarias de la naturaleza siempre encontramos a las plantas.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -98,12 +102,12 @@ Sin productores, no habría vida animal. Toda la carne que comen los carnívoros
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Un grupo de excursionistas nota que dentro del bosque hace mucho menos calor que en el potrero que no tiene árboles.
+**Contexto:** Un grupo de excursionistas nota que dentro del bosque hace mucho menos calor que en el potrero que no tiene árboles.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ Las plantas son reguladoras térmicas. En las ciudades, plantar árboles es la m
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Después de una fuerte lluvia en una montaña pelada (sin plantas), el agua baja llena de lodo y causa un derrumbe.
+**Contexto:** Después de una fuerte lluvia en una montaña pelada (sin plantas), el agua baja llena de lodo y causa un derrumbe.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -148,12 +152,12 @@ Las plantas protegen el suelo (litósfera). Sin ellas, la lluvia y el viento ero
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Las plantas medicinales han salvado millones de vidas humanas a lo largo de la historia.
+**Contexto:** Las plantas medicinales han salvado millones de vidas humanas a lo largo de la historia.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -173,12 +177,12 @@ La selva es como una farmacia gigante. Cada vez que desaparece una especie de pl
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un ciclo natural, las plantas toman el gas carbónico que nosotros exhalamos y nos devuelven el oxígeno.
+**Contexto:** En un ciclo natural, las plantas toman el gas carbónico que nosotros exhalamos y nos devuelven el oxígeno.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -198,12 +202,12 @@ Este intercambio es la base de la ecología. Los animales y las plantas están c
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Imagina un mundo cubierto totalmente de cemento y edificios, sin una sola mancha verde de césped o árboles.
+**Contexto:** Imagina un mundo cubierto totalmente de cemento y edificios, sin una sola mancha verde de césped o árboles.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -223,12 +227,12 @@ Las plantas son los filtros del agua. Sus raíces y el suelo orgánico que crean
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En la industria, usamos plantas para hacer papel, telas, perfumes y hasta llantas de caucho.
+**Contexto:** En la industria, usamos plantas para hacer papel, telas, perfumes y hasta llantas de caucho.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -248,12 +252,12 @@ Las plantas son el motor de la industria verde. Proporcionan materiales renovabl
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W14-plantas-importancia-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un astronauta quiere llevar plantas a una base en la Luna para poder vivir allí mucho tiempo.
+**Contexto:** Un astronauta quiere llevar plantas a una base en la Luna para poder vivir allí mucho tiempo.
 **Expected_Success:** 0.60
 
 ### Enunciado

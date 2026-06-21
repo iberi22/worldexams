@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W38-resumir-informacion-001-MASTERY"
+id: "CO-LEC-4-2026-W38-resumir-informacion-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "resumir-informacion"
-semana: "W38"
+week: "W38"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "resumen, síntesis, ideas principales, condensar información"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W38: Resumir información de un texto
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W38-resumir-informacion-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Resumen.
+**Contexto:** Resumen.
 
 ### Enunciado
 *"¿Qué es un resumen?"*
 
-### Options
-- [ ] A) Copiar todo el texto.
+### Opciones
+- [ ] A) Copiar todo el texto. <!-- feedback: Incorrecto. Copiar todo el texto. -->
 - [x] B) Decir lo más importante en pocas palabras. <!-- feedback: Correcto. -->
-- [ ] C) Añadir información nueva.
-- [ ] D) Opinar sobre el texto.
+- [ ] C) Añadir información nueva. <!-- feedback: Incorrecto. Añadir información nueva. -->
+- [ ] D) Opinar sobre el texto. <!-- feedback: Incorrecto. Opinar sobre el texto. -->
 
 ### Explicación Pedagógica
 Definir resumen.
@@ -49,17 +54,18 @@ Definir resumen.
 
 **ID:** `CO-LEC-4-2026-W38-resumir-informacion-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Idea principal.
+**Contexto:** Idea principal.
 
 ### Enunciado
 *"¿Qué se debe incluir en un resumen?"*
 
-### Options
-- [ ] A) Detalles sin importancia.
+### Opciones
+- [ ] A) Detalles sin importancia. <!-- feedback: Incorrecto. Detalles sin importancia. -->
 - [x] B) Solo la idea principal. <!-- feedback: Correcto. -->
-- [ ] C) Todo el texto.
-- [ ] D) Opiniones personales.
+- [ ] C) Todo el texto. <!-- feedback: Incorrecto. Todo el texto. -->
+- [ ] D) Opiniones personales. <!-- feedback: Incorrecto. Opiniones personales. -->
 
 ### Explicación Pedagógica
 Qué incluir.
@@ -70,17 +76,18 @@ Qué incluir.
 
 **ID:** `CO-LEC-4-2026-W38-resumir-informacion-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Resumir texto corto.
+**Contexto:** Resumir texto corto.
 
 ### Enunciado
 *"El café colombiano es famoso. Se cultiva en montañas. Es suave y aromático."* ¿Resumen?"*
 
-### Options
-- [ ] A) El café es una bebida.
+### Opciones
+- [ ] A) El café es una bebida. <!-- feedback: Incorrecto. El café es una bebida. -->
 - [x] B) El café colombiano es famoso, de montaña, suave. <!-- feedback: Correcto. -->
-- [ ] C) Me gusta el café.
-- [ ] D) Colombia tiene montañas.
+- [ ] C) Me gusta el café. <!-- feedback: Incorrecto. Me gusta el café. -->
+- [ ] D) Colombia tiene montañas. <!-- feedback: Incorrecto. Colombia tiene montañas. -->
 
 ### Explicación Pedagógica
 Resumir.
@@ -91,13 +98,14 @@ Resumir.
 
 **ID:** `CO-LEC-4-2026-W38-resumir-informacion-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** No incluir.
+**Contexto:** No incluir.
 
 ### Enunciado
 *"¿Qué NO debe ir en un resumen?"*
 
-### Options
+### Opciones
 - [ ] A) Ideas principales. <!-- feedback: Sí debe ir. -->
 - [x] B) Opiniones personales. <!-- feedback: Correcto. -->
 - [ ] C) Datos importantes. <!-- feedback: Sí debe ir. -->
@@ -112,17 +120,18 @@ Qué excluir.
 
 **ID:** `CO-LEC-4-2026-W38-resumir-informacion-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Extensión.
+**Contexto:** Extensión.
 
 ### Enunciado
 *"¿Un resumen debe ser más corto o más largo que el original?"*
 
-### Options
-- [ ] A) Más largo.
+### Opciones
+- [ ] A) Más largo. <!-- feedback: Incorrecto. Más largo. -->
 - [x] B) Más corto. <!-- feedback: Correcto. -->
-- [ ] C) Igual.
-- [ ] D) No importa.
+- [ ] C) Igual. <!-- feedback: Incorrecto. Igual. -->
+- [ ] D) No importa. <!-- feedback: Incorrecto. No importa. -->
 
 ### Explicación Pedagógica
 Extensión.
@@ -133,17 +142,18 @@ Extensión.
 
 **ID:** `CO-LEC-4-2026-W38-resumir-informacion-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Resumir párrafo.
+**Contexto:** Resumir párrafo.
 
 ### Enunciado
 *"Los delfines son mamíferos marinos. Respiran aire. Viven en grupos. Son inteligentes."* ¿Resumen?"*
 
-### Options
-- [ ] A) Los delfines nadan.
+### Opciones
+- [ ] A) Los delfines nadan. <!-- feedback: Incorrecto. Los delfines nadan. -->
 - [x] B) Delfines: mamíferos marinos, inteligentes, viven en grupo. <!-- feedback: Correcto. -->
-- [ ] C) Hay delfines en el mar.
-- [ ] D) Los delfines son peces.
+- [ ] C) Hay delfines en el mar. <!-- feedback: Incorrecto. Hay delfines en el mar. -->
+- [ ] D) Los delfines son peces. <!-- feedback: Incorrecto. Los delfines son peces. -->
 
 ### Explicación Pedagógica
 Resumir párrafo.
@@ -154,17 +164,18 @@ Resumir párrafo.
 
 **ID:** `CO-LEC-4-2026-W38-resumir-informacion-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Seleccionar.
+**Contexto:** Seleccionar.
 
 ### Enunciado
 *"Texto de 5 ideas. ¿Cuántas incluyes en el resumen?"*
 
-### Options
-- [ ] A) Las 5 igual.
+### Opciones
+- [ ] A) Las 5 igual. <!-- feedback: Incorrecto. Las 5 igual. -->
 - [x] B) Solo las más importantes. <!-- feedback: Correcto. -->
-- [ ] C) Ninguna.
-- [ ] D) Solo 1.
+- [ ] C) Ninguna. <!-- feedback: Incorrecto. Ninguna. -->
+- [ ] D) Solo 1. <!-- feedback: Incorrecto. Solo 1. -->
 
 ### Explicación Pedagógica
 Seleccionar.
@@ -175,17 +186,18 @@ Seleccionar.
 
 **ID:** `CO-LEC-4-2026-W38-resumir-informacion-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Evaluar resumen.
+**Contexto:** Evaluar resumen.
 
 ### Enunciado
 *"Resumen: ‘Había una vez un perro’ para un texto de 3 páginas. ¿Es bueno?"*
 
-### Options
-- [ ] A) Sí, corto.
+### Opciones
+- [ ] A) Sí, corto. <!-- feedback: Incorrecto. Sí, corto. -->
 - [x] B) No, es demasiado corto, faltan ideas. <!-- feedback: Correcto. -->
-- [ ] C) Excelente.
-- [ ] D) No, muy largo.
+- [ ] C) Excelente. <!-- feedback: Incorrecto. Excelente. -->
+- [ ] D) No, muy largo. <!-- feedback: Incorrecto. No, muy largo. -->
 
 ### Explicación Pedagógica
 Evaluar.
@@ -196,17 +208,18 @@ Evaluar.
 
 **ID:** `CO-LEC-4-2026-W38-resumir-informacion-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Comparar.
+**Contexto:** Comparar.
 
 ### Enunciado
 *"¿Diferencia entre resumen y opinión?"*
 
-### Options
-- [ ] A) Son iguales.
+### Opciones
+- [ ] A) Son iguales. <!-- feedback: Incorrecto. Son iguales. -->
 - [x] B) Resumen expone ideas del texto; opinión es personal. <!-- feedback: Correcto. -->
-- [ ] C) Ambos son personales.
-- [ ] D) Resumen es más largo.
+- [ ] C) Ambos son personales. <!-- feedback: Incorrecto. Ambos son personales. -->
+- [ ] D) Resumen es más largo. <!-- feedback: Incorrecto. Resumen es más largo. -->
 
 ### Explicación Pedagógica
 Diferenciar.
@@ -217,17 +230,18 @@ Diferenciar.
 
 **ID:** `CO-LEC-4-2026-W38-resumir-informacion-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Practicar.
+**Contexto:** Practicar.
 
 ### Enunciado
 *"Resume: ‘El sol es una estrella. Da luz y calor. Sin él no hay vida’."*
 
-### Options
-- [ ] A) El sol es amarillo.
+### Opciones
+- [ ] A) El sol es amarillo. <!-- feedback: Incorrecto. El sol es amarillo. -->
 - [x] B) El sol es una estrella que da luz, calor y permite la vida. <!-- feedback: Correcto. -->
-- [ ] C) El sol sale todos los días.
-- [ ] D) Me gusta el sol.
+- [ ] C) El sol sale todos los días. <!-- feedback: Incorrecto. El sol sale todos los días. -->
+- [ ] D) Me gusta el sol. <!-- feedback: Incorrecto. Me gusta el sol. -->
 
 ### Explicación Pedagógica
 Practicar.

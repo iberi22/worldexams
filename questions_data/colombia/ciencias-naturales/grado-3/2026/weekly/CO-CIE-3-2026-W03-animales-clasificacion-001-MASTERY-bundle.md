@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W03-animales-clasificacion-001-MASTERY"
+id: "CO-CIE-3-2026-W03-animales-clasificacion-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "animales-clasificacion"
-semana: "W03"
+week: "W03"
 periodo: 1
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Clasificación de animales: vertebrados (esqueleto interno) e 
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Clasificación de los Animales: Vertebrados e Invertebrados
 
 Este bundle enseña la diferencia fundamental entre los animales que tienen huesos y los que no, ayudando a categorizar la diversidad del reino animal.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W03-animales-clasificacion-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una clase de ciencias, la profesora muestra una radiografía de un perro donde se ven claramente sus huesos.
+**Contexto:** En una clase de ciencias, la profesora muestra una radiografía de un perro donde se ven claramente sus huesos.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ La presencia de una columna vertebral es la característica que divide a los ani
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W03-animales-clasificacion-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Al observar una mariposa volando en el parque, notamos que su cuerpo es frágil y no tiene huesos por dentro.
+**Contexto:** Al observar una mariposa volando en el parque, notamos que su cuerpo es frágil y no tiene huesos por dentro.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -73,12 +77,12 @@ Los invertebrados representan la mayoría de los animales en la Tierra. A difere
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W03-animales-clasificacion-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Tienes una lista de animales: Vaca, Gusano, Pez, Araña.
+**Contexto:** Tienes una lista de animales: Vaca, Gusano, Pez, Araña.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -98,12 +102,12 @@ Para identificar un vertebrado, debemos pensar si el animal tiene una estructura
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W03-animales-clasificacion-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un pulpo vive en el océano, tiene un cuerpo muy flexible y puede pasar por agujeros muy pequeños porque no tiene partes duras internas.
+**Contexto:** Un pulpo vive en el océano, tiene un cuerpo muy flexible y puede pasar por agujeros muy pequeños porque no tiene partes duras internas.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -123,12 +127,12 @@ Los invertebrados han desarrollado formas de vida asombrosas. El pulpo es un eje
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W03-animales-clasificacion-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Algunos invertebrados, como los caracoles y los cangrejos, tienen partes duras pero por fuera de su cuerpo.
+**Contexto:** Algunos invertebrados, como los caracoles y los cangrejos, tienen partes duras pero por fuera de su cuerpo.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -148,12 +152,12 @@ Aunque no tengan columna vertebral, muchos invertebrados no son totalmente bland
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W03-animales-clasificacion-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Los vertebrados se dividen en 5 grupos más pequeños. Juan recuerda que los seres humanos pertenecemos a uno de ellos.
+**Contexto:** Los vertebrados se dividen en 5 grupos más pequeños. Juan recuerda que los seres humanos pertenecemos a uno de ellos.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -173,12 +177,12 @@ Dentro de los vertebrados hay una gran diversidad. Los mamíferos somos un grupo
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W03-animales-clasificacion-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un niño encuentra un animal en el jardín que tiene 6 patas, antenas y un cuerpo dividido en tres partes. No ve huesos por ninguna parte.
+**Contexto:** Un niño encuentra un animal en el jardín que tiene 6 patas, antenas y un cuerpo dividido en tres partes. No ve huesos por ninguna parte.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -198,12 +202,12 @@ Saber contar las patas y observar las partes del cuerpo ayuda a clasificar a los
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W03-animales-clasificacion-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una ballena es un animal enorme que vive en el mar, pero respira aire y tiene una columna vertebral muy grande.
+**Contexto:** Una ballena es un animal enorme que vive en el mar, pero respira aire y tiene una columna vertebral muy grande.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -223,12 +227,12 @@ A veces el lugar donde vive un animal nos puede confundir. La ballena vive en el
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W03-animales-clasificacion-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Los esqueletos de los vertebrados crecen junto con el animal, mientras que muchos invertebrados deben cambiar su cubierta exterior para crecer.
+**Contexto:** Los esqueletos de los vertebrados crecen junto con el animal, mientras que muchos invertebrados deben cambiar su cubierta exterior para crecer.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -248,12 +252,12 @@ Tener huesos internos (ser vertebrado) permite un crecimiento constante y suave.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W03-animales-clasificacion-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Imagina un animal que tiene piel suave, vive en la tierra, pone huevos y tiene huesos internos.
+**Contexto:** Imagina un animal que tiene piel suave, vive en la tierra, pone huevos y tiene huesos internos.
 **Expected_Success:** 0.55
 
 ### Enunciado

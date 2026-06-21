@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W21-circ-resp-relacion-001-MASTERY"
+id: "CO-CIE-6-2026-W21-circ-resp-relacion-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W21 — Relación Circulatorio y Respiratorio
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W21-circ-resp-relacion-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, relacionan los sistemas circulatorio y respiratorio.
+**Contexto:** En Bogotá, relacionan los sistemas circulatorio y respiratorio.
 
 ### Enunciado
 ¿Qué transporta la hemoglobina en la sangre?
 
-### Options
+### Opciones
 - [ ] A) Dióxido de carbono <!-- feedback: También transporta CO2 pero no es su función principal. -->
 - [ ] B) Nutrientes <!-- feedback: El plasma transporta nutrientes. -->
 - [x] C) Oxígeno <!-- feedback: Correcto. -->
@@ -48,13 +51,14 @@ La hemoglobina, proteína en los glóbulos rojos, se une al oxígeno en los pulm
 
 **ID:** `CO-CIE-6-2026-W21-circ-resp-relacion-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, identifican el recorrido de la sangre.
+**Contexto:** En Medellín, identifican el recorrido de la sangre.
 
 ### Enunciado
 ¿Cuál es la ruta correcta de la sangre oxigenada?
 
-### Options
+### Opciones
 - [ ] A) Pulmones → ventrículo izquierdo → aurícula izquierda → cuerpo <!-- feedback: Orden incorrecto. -->
 - [ ] B) Pulmones → cuerpo → corazón <!-- feedback: Falta el orden de cavidades. -->
 - [x] C) Pulmones → aurícula izquierda → ventrículo izquierdo → cuerpo <!-- feedback: Correcto. -->
@@ -69,13 +73,14 @@ La sangre oxigenada vuelve de los pulmones por las venas pulmonares a la aurícu
 
 **ID:** `CO-CIE-6-2026-W21-circ-resp-relacion-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, relacionan los sistemas.
+**Contexto:** En Cali, relacionan los sistemas.
 
 ### Enunciado
 ¿Cómo se relacionan el sistema circulatorio y el respiratorio?
 
-### Options
+### Opciones
 - [ ] A) No se relacionan <!-- feedback: Trabajan juntos. -->
 - [ ] B) El respiratorio bombea sangre <!-- feedback: Bombear sangre es del circulatorio. -->
 - [x] C) El respiratorio captura O2 que el circulatorio distribuye; el circulatorio trae CO2 que el respiratorio elimina <!-- feedback: Correcto. -->
@@ -90,13 +95,14 @@ Los sistemas están integrados: los alvéolos pulmonares están rodeados de capi
 
 **ID:** `CO-CIE-6-2026-W21-circ-resp-relacion-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, explican la frecuencia cardíaca y respiratoria.
+**Contexto:** En Barranquilla, explican la frecuencia cardíaca y respiratoria.
 
 ### Enunciado
 ¿Por qué aumentan la frecuencia cardíaca y respiratoria durante el ejercicio?
 
-### Options
+### Opciones
 - [ ] A) Porque los músculos piden más oxígeno y producen más CO2 <!-- feedback: Correcto. -->
 - [ ] B) Porque el corazón se asusta <!-- feedback: No. -->
 - [ ] C) Porque los pulmones se cansan <!-- feedback: No. -->
@@ -111,13 +117,14 @@ Durante el ejercicio, los músculos activos consumen más oxígeno para producir
 
 **ID:** `CO-CIE-6-2026-W21-circ-resp-relacion-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, aplican sobre el mal de altura.
+**Contexto:** En Bucaramanga, aplican sobre el mal de altura.
 
 ### Enunciado
 ¿Por qué una persona que viaja de Bogotá (2,600 m) a La Paz (3,600 m) se siente mareada y con falta de aire?
 
-### Options
+### Opciones
 - [ ] A) Porque el avión la mareó <!-- feedback: No es la razón. -->
 - [ ] B) Porque hay menos oxígeno disponible en el aire a mayor altitud <!-- feedback: Correcto. -->
 - [ ] C) Porque el corazón se acelera demasiado <!-- feedback: Es una consecuencia, no la causa. -->
@@ -132,13 +139,14 @@ A mayor altitud, la presión atmosférica es menor y hay menos moléculas de O2 
 
 **ID:** `CO-CIE-6-2026-W21-circ-resp-relacion-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, aplican sobre el buceo.
+**Contexto:** En Cartagena, aplican sobre el buceo.
 
 ### Enunciado
 ¿Por qué los buzos deben ascender lentamente?
 
-### Options
+### Opciones
 - [ ] A) Para no cansarse <!-- feedback: No es la razón. -->
 - [ ] B) Para que los peces no los ataquen <!-- feedback: No. -->
 - [x] C) Para evitar que el nitrógeno disuelto en la sangre forme burbujas (enfermedad por descompresión) <!-- feedback: Correcto. -->
@@ -153,13 +161,14 @@ Bajo el agua, la presión aumenta, disolviendo más nitrógeno en la sangre. Al 
 
 **ID:** `CO-CIE-6-2026-W21-circ-resp-relacion-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan la intoxicación por monóxido de carbono.
+**Contexto:** En Pereira, analizan la intoxicación por monóxido de carbono.
 
 ### Enunciado
 ¿Por qué el monóxido de carbono (CO) de los carros es tan peligroso?
 
-### Options
+### Opciones
 - [ ] A) Porque huele mal <!-- feedback: El CO es inodoro, no huele. -->
 - [ ] B) Porque irrita los pulmones <!-- feedback: No es el mecanismo principal. -->
 - [x] C) Porque se une a la hemoglobina 200 veces más fuerte que el O2, impidiendo el transporte de oxígeno <!-- feedback: Correcto. -->
@@ -174,13 +183,14 @@ El CO es un gas incoloro e inodoro (asesino silencioso). Al unirse a la hemoglob
 
 **ID:** `CO-CIE-6-2026-W21-circ-resp-relacion-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, analizan el ciclo cardíaco.
+**Contexto:** En Manizales, analizan el ciclo cardíaco.
 
 ### Enunciado
 ¿Qué produce el sonido del corazón (lub-dub)?
 
-### Options
+### Opciones
 - [ ] A) La sangre al chocar con las paredes <!-- feedback: No. -->
 - [ ] B) El músculo cardíaco al contraerse <!-- feedback: El sonido no es de la contracción. -->
 - [x] C) El cierre de las válvulas cardíacas (lub = válvulas AV, dub = válvulas semilunares) <!-- feedback: Correcto. -->
@@ -195,13 +205,14 @@ El CO es un gas incoloro e inodoro (asesino silencioso). Al unirse a la hemoglob
 
 **ID:** `CO-CIE-6-2026-W21-circ-resp-relacion-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan enfermedades relacionadas.
+**Contexto:** En Cúcuta, evalúan enfermedades relacionadas.
 
 ### Enunciado
 ¿Por qué las personas con EPOC (enfisema) tienen los dedos en forma de palillo de tambor?
 
-### Options
+### Opciones
 - [ ] A) Porque fuman con esos dedos <!-- feedback: No. -->
 - [ ] B) Porque tienen artritis <!-- feedback: No. -->
 - [x] C) Por hipoxia crónica (falta de oxígeno), el cuerpo estimula el crecimiento de tejido en las puntas de los dedos para aumentar la vascularización <!-- feedback: Correcto. -->
@@ -216,13 +227,14 @@ El acropaquia digital (dedos en palillo de tambor) es un signo de enfermedades p
 
 **ID:** `CO-CIE-6-2026-W21-circ-resp-relacion-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan políticas de salud.
+**Contexto:** En Ibagué, evalúan políticas de salud.
 
 ### Enunciado
 ¿Cuál es la política MÁS EFECTIVA para reducir enfermedades cardiovasculares y respiratorias en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Repartir medicamentos gratis <!-- feedback: Trata, no previene. -->
 - [ ] B) Construir más hospitales <!-- feedback: Atiende consecuencias, no causas. -->
 - [x] C) Prevención combinada: prohibición de fumar en espacios públicos, impuestos a comida chatarra, promoción de ejercicio y educación en escuelas <!-- feedback: Correcto. -->

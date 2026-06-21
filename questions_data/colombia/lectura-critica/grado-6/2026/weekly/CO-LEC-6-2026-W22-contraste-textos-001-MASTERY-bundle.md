@@ -1,28 +1,32 @@
 ---
-id: "CO-LEC-6-2026-W22-contraste-textos-001-MASTERY"
+id: "CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "contraste-textos"
-semana: "W22"
+week: "W22"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Contraste de Textos - Grado 6
 ## Semana W22
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio La Presentación de Pereira, la profesora explica la diferencia entre comparar y contrastar textos.
+**Contexto:** En el Colegio La Presentación de Pereira, la profesora explica la diferencia entre comparar y contrastar textos.
 **Expected_Success:** 0.86
 
 ### Enunciado
@@ -39,11 +43,11 @@ Aunque en el lenguaje cotidiano se usan como sinónimos, en análisis textual ha
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** Los estudiantes del Colegio Nacional José María Córdoba de Rionegro contrastan dos noticias sobre el metro de Bogotá.
+**Contexto:** Los estudiantes del Colegio Nacional José María Córdoba de Rionegro contrastan dos noticias sobre el metro de Bogotá.
 **Expected_Success:** 0.79
 
 ### Enunciado
@@ -63,11 +67,11 @@ Contrastar textos revela sesgos y perspectivas. Un diario capitalino puede desta
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. María Auxiliadora de Cúcuta, los estudiantes contrastan dos textos con distinto propósito.
+**Contexto:** En la I.E. María Auxiliadora de Cúcuta, los estudiantes contrastan dos textos con distinto propósito.
 **Expected_Success:** 0.77
 
 ### Enunciado
@@ -87,11 +91,11 @@ El contraste de propósitos es una de las habilidades más importantes en lectur
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En el Colegio de la Universidad del Valle en Tuluá, los estudiantes contrastan dos textos sobre el mismo hecho histórico.
+**Contexto:** En el Colegio de la Universidad del Valle en Tuluá, los estudiantes contrastan dos textos sobre el mismo hecho histórico.
 **Expected_Success:** 0.73
 
 ### Enunciado
@@ -112,11 +116,11 @@ El contraste entre un texto escolar y una columna de opinión muestra que la "ve
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. Carlos Arturo Torres de Sogamoso, los estudiantes contrastan el lenguaje de dos textos.
+**Contexto:** En la I.E. Carlos Arturo Torres de Sogamoso, los estudiantes contrastan el lenguaje de dos textos.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -136,11 +140,11 @@ El contraste de lenguaje es fundamental para identificar el tipo de texto. El le
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio Seminario San José de Sincelejo, los estudiantes contrastan dos textos sobre las redes sociales.
+**Contexto:** En el Colegio Seminario San José de Sincelejo, los estudiantes contrastan dos textos sobre las redes sociales.
 **Expected_Success:** 0.63
 
 ### Enunciado
@@ -160,11 +164,11 @@ El contraste de enfoque o alcance muestra que un mismo tema puede ser tratado a 
 
 ---
 
-## Pregunta 7 [D7]
+## Question 7 [D7]
 **ID:** `CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En la I.E. San Jerónimo de El Cerrito, los estudiantes contrastan dos textos sobre la minería en el Chocó.
+**Contexto:** En la I.E. San Jerónimo de El Cerrito, los estudiantes contrastan dos textos sobre la minería en el Chocó.
 **Expected_Success:** 0.59
 
 ### Enunciado
@@ -184,11 +188,11 @@ El contraste de perspectivas sobre un tema complejo (minería en el Chocó) es u
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio San Carlos de Medellín, los estudiantes contrastan dos textos sobre la comida chatarra en las escuelas.
+**Contexto:** En el Colegio San Carlos de Medellín, los estudiantes contrastan dos textos sobre la comida chatarra en las escuelas.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -208,11 +212,11 @@ Contrastar argumentos opuestos sobre un tema polémico ayuda a los estudiantes a
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En la Institución Educativa Técnica de Belén de Bajirá, los estudiantes contrastan una noticia real con un rumor en redes sociales.
+**Contexto:** En la Institución Educativa Técnica de Belén de Bajirá, los estudiantes contrastan una noticia real con un rumor en redes sociales.
 **Expected_Success:** 0.49
 
 ### Enunciado
@@ -232,11 +236,11 @@ Contrastar fuentes confiables con desinformación es una habilidad de superviven
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEC-6-2026-W22-contraste-textos-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio Alfonso López Pumarejo de Valledupar, los estudiantes deben crear un texto que contraste dos puntos de vista.
+**Contexto:** En el Colegio Alfonso López Pumarejo de Valledupar, los estudiantes deben crear un texto que contraste dos puntos de vista.
 **Expected_Success:** 0.42
 
 ### Enunciado

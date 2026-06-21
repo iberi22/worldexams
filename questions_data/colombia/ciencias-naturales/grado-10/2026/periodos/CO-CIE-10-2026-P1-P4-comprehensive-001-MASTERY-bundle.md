@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY"
+id: "CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 10
 asignatura: "ciencias-naturales"
@@ -19,7 +19,12 @@ rubric_baseline: "movimiento_rectilineo, movimiento_circular, leyes_newton, enla
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 20
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Ciencias Naturales Grado 10 - Comprehensive P1-P4
 
@@ -31,14 +36,15 @@ Bundle integral de grado 10 que cubre los cuatro periodos académicos: Física (
 
 **ID:** `CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** En clase de física en el Colegio INEM de Cali, la profesora explica las características del movimiento rectilíneo uniforme (MRU).
+**Contexto:** En clase de física en el Colegio INEM de Cali, la profesora explica las características del movimiento rectilíneo uniforme (MRU).
 
 ### Enunciado
 En el Movimiento Rectilíneo Uniforme (MRU), ¿cuál de las siguientes magnitudes permanece constante?
 
-### Options
+### Opciones
 - [ ] A) La aceleración <!-- feedback: Incorrecto. En MRU la aceleración es 0, pero la magnitud constante por definición es la velocidad. -->
 - [x] B) La velocidad <!-- feedback: Correcto. En MRU, la velocidad es constante en magnitud y dirección. No hay aceleración. -->
 - [ ] C) La posición <!-- feedback: Incorrecto. La posición cambia continuamente en el MRU. -->
@@ -53,14 +59,15 @@ El MRU se caracteriza por velocidad constante (v = constante), lo que implica ac
 
 **ID:** `CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** En la clase de química en Medellín, el profesor introduce la tabla periódica y los tipos de enlaces químicos.
+**Contexto:** En la clase de química en Medellín, el profesor introduce la tabla periódica y los tipos de enlaces químicos.
 
 ### Enunciado
 ¿Qué tipo de enlace se forma típicamente entre un metal y un no metal?
 
-### Options
+### Opciones
 - [ ] A) Enlace covalente <!-- feedback: Incorrecto. El enlace covalente se da entre no metales. -->
 - [x] B) Enlace iónico <!-- feedback: Correcto. Entre metal (que cede electrones) y no metal (que acepta electrones) se forma enlace iónico, como en NaCl. -->
 - [ ] C) Enlace metálico <!-- feedback: Incorrecto. El enlace metálico se da entre átomos de metal. -->
@@ -75,14 +82,15 @@ Los enlaces iónicos se forman por transferencia de electrones del metal al no m
 
 **ID:** `CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** Un automóvil viaja por la Autopista Norte de Bogotá a velocidad constante de 60 km/h durante 15 minutos.
+**Contexto:** Un automóvil viaja por la Autopista Norte de Bogotá a velocidad constante de 60 km/h durante 15 minutos.
 
 ### Enunciado
 ¿Qué distancia recorre el automóvil en ese tiempo?
 
-### Options
+### Opciones
 - [ ] A) 4 km <!-- feedback: Incorrecto. 60 km/h × 0.25 h = 15 km. Usaste 60/15 = 4, pero 15 min = 0.25 h, no 0.15 h. -->
 - [ ] B) 900 km <!-- feedback: Incorrecto. Multiplicaste 60 × 15 = 900, pero los minutos deben convertirse a horas. -->
 - [x] C) 15 km <!-- feedback: Correcto. 15 min = 0.25 h. d = v·t = 60 km/h × 0.25 h = 15 km. -->
@@ -97,14 +105,15 @@ En MRU, d = v × t. Es importante que las unidades sean consistentes: si la velo
 
 **ID:** `CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** En el laboratorio del Colegio San José de Barranquilla, los estudiantes observan las moléculas de agua (H₂O).
+**Contexto:** En el laboratorio del Colegio San José de Barranquilla, los estudiantes observan las moléculas de agua (H₂O).
 
 ### Enunciado
 ¿Qué tipo de enlace mantiene unidos los átomos en una molécula de agua?
 
-### Options
+### Opciones
 - [ ] A) Enlace iónico <!-- feedback: Incorrecto. El agua está formada por no metales (H y O), que forman enlaces covalentes. -->
 - [x] B) Enlace covalente polar <!-- feedback: Correcto. El oxígeno y el hidrógeno comparten electrones, pero el oxígeno es más electronegativo, creando una polaridad en la molécula. -->
 - [ ] C) Enlace metálico <!-- feedback: Incorrecto. El hidrógeno y oxígeno son no metales, no metales. -->
@@ -119,14 +128,15 @@ El agua presenta enlaces covalentes polares: el oxígeno (electronegatividad 3.4
 
 **ID:** `CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** Un objeto en caída libre desde un edificio en Bogotá se deja caer (velocidad inicial 0). Se desprecia la resistencia del aire y se toma g = 10 m/s².
+**Contexto:** Un objeto en caída libre desde un edificio en Bogotá se deja caer (velocidad inicial 0). Se desprecia la resistencia del aire y se toma g = 10 m/s².
 
 ### Enunciado
 ¿Qué velocidad tendrá el objeto después de 3 segundos de caída?
 
-### Options
+### Opciones
 - [ ] A) 10 m/s <!-- feedback: Incorrecto. 10 m/s es la velocidad después de 1 segundo. -->
 - [ ] B) 15 m/s <!-- feedback: Incorrecto. Posible error: multiplicaste g por t/2 (10×1.5). -->
 - [x] C) 30 m/s <!-- feedback: Correcto. v = v₀ + gt = 0 + 10·3 = 30 m/s. -->
@@ -141,14 +151,15 @@ En caída libre (MRUV), la velocidad varía linealmente: v = v₀ + gt. Con v₀
 
 **ID:** `CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY-v6`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Indagación
 
-**Context:** En un experimento de laboratorio en la Universidad de Antioquia, un estudiante cruza plantas de guisantes: una homocigota dominante para flor morada (AA) con una homocigota recesiva para flor blanca (aa).
+**Contexto:** En un experimento de laboratorio en la Universidad de Antioquia, un estudiante cruza plantas de guisantes: una homocigota dominante para flor morada (AA) con una homocigota recesiva para flor blanca (aa).
 
 ### Enunciado
 Según las leyes de Mendel, ¿qué proporción de la descendencia F1 tendrá flores moradas?
 
-### Options
+### Opciones
 - [ ] A) 0% <!-- feedback: Incorrecto. Todos los descendientes serán heterocigotos (Aa) con fenotipo dominante. -->
 - [ ] B) 50% <!-- feedback: Incorrecto. En F1, todos son Aa, por lo que el 100% expresa el alelo dominante. -->
 - [x] C) 100% <!-- feedback: Correcto. Todos los descendientes son Aa (heterocigotos). Como A (morada) es dominante sobre a (blanca), todos tendrán flores moradas. -->
@@ -163,14 +174,15 @@ Primera ley de Mendel (ley de la uniformidad): al cruzar dos líneas puras (homo
 
 **ID:** `CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** Una ola en el mar Caribe cerca de San Andrés tiene una longitud de onda de 10 m y una frecuencia de 0.2 Hz.
+**Contexto:** Una ola en el mar Caribe cerca de San Andrés tiene una longitud de onda de 10 m y una frecuencia de 0.2 Hz.
 
 ### Enunciado
 ¿Cuál es la velocidad de propagación de la onda?
 
-### Options
+### Opciones
 - [ ] A) 0.02 m/s <!-- feedback: Incorrecto. Dividiste 0.2/10 = 0.02. La fórmula es v = λf, no λ/f. -->
 - [ ] B) 50 m/s <!-- feedback: Incorrecto. Dividiste 10/0.2 = 50, pero la fórmula es v = λf = 10×0.2. -->
 - [x] C) 2 m/s <!-- feedback: Correcto. v = λ·f = 10 m × 0.2 Hz = 2 m/s. -->
@@ -185,14 +197,15 @@ La velocidad de una onda se calcula como v = λ·f, donde λ es la longitud de o
 
 **ID:** `CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Indagación
 
-**Context:** En la clase de química en Bucaramanga, los estudiantes analizan la molécula de CO₂. El carbono (C) tiene 4 electrones de valencia y el oxígeno (O) tiene 6.
+**Contexto:** En la clase de química en Bucaramanga, los estudiantes analizan la molécula de CO₂. El carbono (C) tiene 4 electrones de valencia y el oxígeno (O) tiene 6.
 
 ### Enunciado
 ¿Cuántos enlaces covalentes se forman en la molécula de CO₂?
 
-### Options
+### Opciones
 - [ ] A) 2 enlaces simples <!-- feedback: Incorrecto. El CO₂ no tiene enlaces simples; forma enlaces dobles para completar el octeto. -->
 - [ ] B) 4 enlaces simples <!-- feedback: Incorrecto. El carbono no puede formar 4 enlaces simples con solo 2 átomos de oxígeno. -->
 - [x] C) 2 enlaces dobles <!-- feedback: Correcto. O=C=O. Cada oxígeno comparte 2 pares de electrones con el carbono, formando dos enlaces dobles. El carbono completa su octeto (4+2+2=8) y cada oxígeno también. -->
@@ -207,14 +220,15 @@ El CO₂ tiene estructura lineal O=C=O con dos enlaces dobles. Cada oxígeno com
 
 **ID:** `CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY-v9`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** Un disco duro de computadora en un centro de datos de Bogotá gira a 5400 RPM. Su radio es de 3.5 cm (0.035 m).
+**Contexto:** Un disco duro de computadora en un centro de datos de Bogotá gira a 5400 RPM. Su radio es de 3.5 cm (0.035 m).
 
 ### Enunciado
 ¿Cuál es la frecuencia de rotación del disco duro en Hz?
 
-### Options
+### Opciones
 - [ ] A) 5400 Hz <!-- feedback: Incorrecto. Hz son revoluciones por segundo. 5400 RPM = 5400/60 = 90 Hz. -->
 - [x] B) 90 Hz <!-- feedback: Correcto. f = RPM/60 = 5400/60 = 90 Hz. -->
 - [ ] C) 0.011 Hz <!-- feedback: Incorrecto. Invertiste: 60/5400 = 0.011, pero la fórmula es RPM/60. -->
@@ -229,14 +243,15 @@ La frecuencia en Hz se obtiene dividiendo las RPM entre 60: f = RPM/60. La veloc
 
 **ID:** `CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY-v10`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** En clase de biología en Manizales, se estudia la estructura del ADN y las mutaciones genéticas.
+**Contexto:** En clase de biología en Manizales, se estudia la estructura del ADN y las mutaciones genéticas.
 
 ### Enunciado
 Una mutación puntual en el ADN que cambia un par de bases nitrogenadas puede tener diferentes efectos. ¿Cuál de los siguientes cambios en la secuencia de ADN es un ejemplo de mutación por sustitución?
 
-### Options
+### Opciones
 - [ ] A) Se pierde una base nitrogenada. <!-- feedback: Incorrecto. La pérdida de una base es una deleción, no una sustitución. -->
 - [ ] B) Se inserta una base nitrogenada extra. <!-- feedback: Incorrecto. Añadir una base es una inserción, no una sustitución. -->
 - [x] C) Una base es reemplazada por otra diferente. <!-- feedback: Correcto. La sustitución ocurre cuando un par de bases es reemplazado por otro, como cuando A-T es reemplazado por G-C. -->
@@ -251,14 +266,15 @@ Las mutaciones puntuales incluyen sustituciones (cambio de una base por otra), d
 
 **ID:** `CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY-v11`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** En el Parque Nacional Natural Los Nevados, un excursionista de 70 kg sube una pendiente de 200 m de altura en 30 minutos.
+**Contexto:** En el Parque Nacional Natural Los Nevados, un excursionista de 70 kg sube una pendiente de 200 m de altura en 30 minutos.
 
 ### Enunciado
 ¿Cuál es el trabajo realizado por el excursionista contra la gravedad? (g = 10 m/s²)
 
-### Options
+### Opciones
 - [ ] A) 14,000 J <!-- feedback: Incorrecto. W = mgh = 70×10×200 = 140,000 J. -->
 - [ ] B) 140,000 J <!-- feedback: Incorrecto. El resultado es 140,000 J, no 14,000. -->
 - [x] C) 140,000 J <!-- feedback: Correcto. W = mgh = 70 kg × 10 m/s² × 200 m = 140,000 J = 140 kJ. -->
@@ -273,14 +289,15 @@ El trabajo contra la gravedad depende solo del peso (mg) y la altura (h), no del
 
 **ID:** `CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY-v12`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Indagación
 
-**Context:** Una estudiante en Barranquilla investiga el pH del agua de lluvia en diferentes zonas de la ciudad y encuentra valores de pH 5.0, 5.2 y 5.5.
+**Contexto:** Una estudiante en Barranquilla investiga el pH del agua de lluvia en diferentes zonas de la ciudad y encuentra valores de pH 5.0, 5.2 y 5.5.
 
 ### Enunciado
 ¿Qué conclusión es más adecuada sobre estas muestras de agua de lluvia?
 
-### Options
+### Opciones
 - [ ] A) Son básicas porque el pH es mayor que 0. <!-- feedback: Incorrecto. El pH < 7 indica acidez, no basicidad. -->
 - [ ] B) Son neutras porque están cerca de 7. <!-- feedback: Incorrecto. pH 5-5.5 está significativamente por debajo de 7, indicando acidez. -->
 - [x] C) Son ácidas y pueden considerarse lluvia ácida porque su pH es menor a 5.6. <!-- feedback: Correcto. Se considera lluvia ácida cuando el pH es menor a 5.6 debido a la disolución de CO₂ atmosférico que ya acidifica el agua a ~5.6. -->
@@ -295,14 +312,15 @@ La lluvia normal tiene pH ≈ 5.6 por el CO₂ disuelto (H₂CO₃). La lluvia �
 
 **ID:** `CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY-v13`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** Un coche da una curva en una rotonda en Cartagena con radio de 20 m a una velocidad de 10 m/s.
+**Contexto:** Un coche da una curva en una rotonda en Cartagena con radio de 20 m a una velocidad de 10 m/s.
 
 ### Enunciado
 ¿Cuál es la aceleración centrípeta que experimenta el coche?
 
-### Options
+### Opciones
 - [ ] A) 0.5 m/s² <!-- feedback: Incorrecto. ac = v²/r = 100/20 = 5 m/s². -->
 - [ ] B) 2 m/s² <!-- feedback: Incorrecto. Posiblemente usaste v/r en lugar de v²/r. -->
 - [x] C) 5 m/s² <!-- feedback: Correcto. ac = v²/r = (10 m/s)² / 20 m = 100/20 = 5 m/s². -->
@@ -317,14 +335,15 @@ La aceleración centrípeta en el movimiento circular uniforme es ac = v²/r, di
 
 **ID:** `CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** Un estudiante calienta 200 g de agua de 25°C a 75°C. El calor específico del agua es 4.18 J/g°C.
+**Contexto:** Un estudiante calienta 200 g de agua de 25°C a 75°C. El calor específico del agua es 4.18 J/g°C.
 
 ### Enunciado
 ¿Cuánta energía en Joules se necesita para calentar el agua?
 
-### Options
+### Opciones
 - [ ] A) 836 J <!-- feedback: Incorrecto. Solo multiplicaste 200×4.18 = 836, olvidando ΔT. -->
 - [ ] B) 41,800 J <!-- feedback: Correcto. Q = m·c·ΔT = 200 × 4.18 × 50 = 200 × 209 = 41,800 J. -->
 - [ ] C) 62,700 J <!-- feedback: Incorrecto. Posiblemente usaste ΔT = 75 en lugar de 50. -->
@@ -339,14 +358,15 @@ La energía térmica necesaria para calentar una sustancia es Q = m·c·ΔT, don
 
 **ID:** `CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Indagación
 
-**Context:** En un laboratorio de genética, se cruzan dos plantas de guisantes heterocigotas para el color de la semilla: amarillo (A, dominante) y verde (a, recesivo). El cruce es Aa × Aa.
+**Contexto:** En un laboratorio de genética, se cruzan dos plantas de guisantes heterocigotas para el color de la semilla: amarillo (A, dominante) y verde (a, recesivo). El cruce es Aa × Aa.
 
 ### Enunciado
 ¿Cuál es la probabilidad de obtener una planta con semillas verdes en la descendencia?
 
-### Options
+### Opciones
 - [ ] A) 0% <!-- feedback: Incorrecto. Hay posibilidad de obtener aa si ambos padres aportan el alelo recesivo. -->
 - [ ] B) 25% <!-- feedback: Correcto. Cuadro de Punnett: AA (25%), Aa (50%), aa (25%). Solo aa da semillas verdes. Probabilidad = 1/4 = 25%. -->
 - [ ] C) 50% <!-- feedback: Incorrecto. 50% es la probabilidad de obtener Aa (heterocigoto), no aa (verde). -->
@@ -361,14 +381,15 @@ Segunda ley de Mendel: al cruzar dos heterocigotos, la descendencia tiene propor
 
 **ID:** `CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY-v16`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** Una persona habla cerca de un muro en un auditorio de la Universidad del Valle y escucha el eco de su voz 0.4 segundos después. La velocidad del sonido en el aire es 340 m/s.
+**Contexto:** Una persona habla cerca de un muro en un auditorio de la Universidad del Valle y escucha el eco de su voz 0.4 segundos después. La velocidad del sonido en el aire es 340 m/s.
 
 ### Enunciado
 ¿A qué distancia está el muro de la persona?
 
-### Options
+### Opciones
 - [ ] A) 136 m <!-- feedback: Incorrecto. Multiplicaste 340×0.4 = 136. Pero el sonido viaja ida y vuelta, por lo que la distancia es la mitad. -->
 - [ ] B) 68 m <!-- feedback: Correcto. El sonido recorre ida y vuelta: 2d = v·t → d = v·t/2 = 340×0.4/2 = 136/2 = 68 m. -->
 - [ ] C) 34 m <!-- feedback: Incorrecto. Dividiste 136 entre 4 en lugar de 2. -->
@@ -383,9 +404,10 @@ El eco requiere que el sonido viaje hasta el obstáculo y regrese. Por tanto, la
 
 **ID:** `CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY-v17`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Indagación
 
-**Context:** Cuatro estudiantes discuten qué ocurre con la energía en un péndulo simple cuando oscila.
+**Contexto:** Cuatro estudiantes discuten qué ocurre con la energía en un péndulo simple cuando oscila.
 
 Estudiante A: "La energía se pierde porque el péndulo se detiene."
 Estudiante B: "La energía se transforma continuamente entre cinética y potencial gravitatoria."
@@ -395,7 +417,7 @@ Estudiante D: "La energía térmica no tiene relación con el péndulo."
 ### Enunciado
 ¿Quién describe correctamente el balance energético de un péndulo ideal (sin fricción)?
 
-### Options
+### Opciones
 - [ ] A) Estudiante A <!-- feedback: Incorrecto. En un péndulo ideal sin fricción, la energía mecánica se conserva. -->
 - [x] B) Estudiante B <!-- feedback: Correcto. En el péndulo, la energía se transforma continuamente: máxima cinética en el punto más bajo, máxima potencial en los extremos. En ausencia de fricción, la energía mecánica total es constante. -->
 - [ ] C) Estudiante C <!-- feedback: Incorrecto. La energía potencial también está presente y varía con la altura. -->
@@ -410,14 +432,15 @@ En un péndulo ideal (sin fricción), la energía mecánica total (E = Ec + Ep) 
 
 **ID:** `CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY-v18`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** Un técnico ambiental en la CAR (Corporación Autónoma Regional de Cundinamarca) toma una muestra de agua de un río cercano a una industria y mide: pH = 4.2, temperatura = 28°C, oxígeno disuelto = 3 mg/L.
+**Contexto:** Un técnico ambiental en la CAR (Corporación Autónoma Regional de Cundinamarca) toma una muestra de agua de un río cercano a una industria y mide: pH = 4.2, temperatura = 28°C, oxígeno disuelto = 3 mg/L.
 
 ### Enunciado
 Según los datos, ¿cuál es la principal preocupación ambiental de esta muestra?
 
-### Options
+### Opciones
 - [ ] A) La temperatura es demasiado alta. <!-- feedback: Incorrecto. 28°C es elevado pero no es el dato más crítico. -->
 - [x] B) El pH de 4.2 indica alta acidez, posiblemente por vertimientos industriales ácidos. <!-- feedback: Correcto. pH 4.2 es muy ácido para un cuerpo de agua natural (debería estar entre 6.5-8.5). Esto puede deberse a vertimientos industriales y afecta la vida acuática. -->
 - [ ] C) El oxígeno disuelto de 3 mg/L es normal. <!-- feedback: Incorrecto. 3 mg/L es bajo (el mínimo para vida acuática es ~5 mg/L), pero el pH extremo es más preocupante. -->
@@ -432,14 +455,15 @@ El agua dulce natural debe tener pH entre 6.5 y 8.5. Un pH de 4.2 indica contami
 
 **ID:** `CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY-v19`
 **Bloom:** Create
+**Expected_Success:** 0.75
 **ICFES:** Indagación
 
-**Context:** Un estudiante debe diseñar un experimento para determinar si una solución desconocida es ácida o básica usando materiales disponibles: papel tornasol, fenolftaleína, bicarbonato de sodio y un pH-metro digital.
+**Contexto:** Un estudiante debe diseñar un experimento para determinar si una solución desconocida es ácida o básica usando materiales disponibles: papel tornasol, fenolftaleína, bicarbonato de sodio y un pH-metro digital.
 
 ### Enunciado
 ¿Cuál de los siguientes procedimientos es el más adecuado y confiable para identificar la naturaleza de la solución?
 
-### Options
+### Opciones
 - [ ] A) Agregar bicarbonato y observar si hay efervescencia. <!-- feedback: Incorrecto. La efervescencia solo indica presencia de ácido, pero si no hay efervescencia no se puede concluir que sea básica. -->
 - [ ] B) Usar solo el papel tornasol azul. <!-- feedback: Incorrecto. El tornasol azul se vuelve rojo en medio ácido, pero no cambia en medio básico. Se necesita papel rojo y azul. -->
 - [x] C) Calibrar el pH-metro con soluciones buffer y medir el pH de la muestra. Si pH < 7 es ácida, pH = 7 neutra, pH > 7 básica. <!-- feedback: Correcto. El pH-metro calibrado es el método más preciso y confiable. Proporciona un valor numérico exacto. -->
@@ -454,9 +478,10 @@ El método más confiable para determinar pH es la medición potenciométrica co
 
 **ID:** `CO-CIE-10-2026-P1-P4-comprehensive-001-MASTERY-v20`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** Cinco estudiantes debaten sobre la primera ley de Newton (ley de inercia) en el contexto de un bus que frena bruscamente en una calle de Medellín.
+**Contexto:** Cinco estudiantes debaten sobre la primera ley de Newton (ley de inercia) en el contexto de un bus que frena bruscamente en una calle de Medellín.
 
 Estudiante 1: "Los pasajeros salen despedidos hacia adelante porque una fuerza los empuja."
 Estudiante 2: "Los pasajeros continúan su movimiento por inercia."
@@ -466,7 +491,7 @@ Estudiante 4: "Los pasajeros salen hacia atrás."
 ### Enunciado
 ¿Cuál afirmación explica correctamente el fenómeno?
 
-### Options
+### Opciones
 - [ ] A) Estudiante 1: los pasajeros son empujados por una fuerza hacia adelante. <!-- feedback: Incorrecto. No hay una fuerza que empuje a los pasajeros hacia adelante. El bus frena, pero los pasajeros tienden a seguir en movimiento rectilíneo uniforme. -->
 - [x] B) Estudiante 2: los pasajeros continúan su movimiento por inercia. <!-- feedback: Correcto. Por la primera ley de Newton (inercia), los pasajeros tienden a mantener su estado de movimiento. Al frenar el bus, los pasajeros continúan moviéndose hacia adelante hasta que el cinturón o la fricción los detiene. -->
 - [ ] C) Estudiante 3: la ley de inercia solo aplica si no hay fuerzas externas. <!-- feedback: Parcialmente correcto pero incompleto para explicar el fenómeno. -->

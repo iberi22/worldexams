@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-001-MASTERY"
+id: "CO-MAT-6-2026-W03-enteros-operaciones-combinadas-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W03 â€” Numeros Enteros: Operaciones Combinadas
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W03-enteros-operaciones-combinadas-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Jerarquia de operaciones
+**Contexto:** Jerarquia de operaciones
 
 ### Enunciado
 La jerarquia de operaciones nos dice el orden correcto para resolver expresiones matematicas. Â¿Cual de las siguientes opciones muestra el orden correcto?
 
-### Options
+### Opciones
 - [ ] A) Sumas y restas primero, luego multiplicaciones y divisiones, y por ultimo parentesis <!-- feedback: Incorrect. Los parentesis tienen la maxima prioridad, deben resolverse primero, no al final. -->
 - [x] B) Parentesis primero, luego multiplicaciones y divisiones, y por ultimo sumas y restas en el orden que aparecen <!-- feedback: Correct. El orden es: 1Â° parentesis, 2Â° multiplicaciones y divisiones (izquierda a derecha), 3Â° sumas y restas (izquierda a derecha). -->
 - [ ] C) Multiplicaciones primero, luego divisiones, luego sumas, luego restas, y los parentesis no importan <!-- feedback: Incorrect. Los parentesis siempre tienen prioridad. Ademas, multiplicacion y division tienen igual prioridad y se resuelven de izquierda a derecha. -->
@@ -52,13 +55,14 @@ La jerarquia de operaciones (tambien conocida como PEMDAS en ingles o PAPOMUDAS 
 
 **ID:** `CO-MAT-6-2026-W03-enteros-operaciones-combinadas-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Operacion simple con parentesis
+**Contexto:** Operacion simple con parentesis
 
 ### Enunciado
 Â¿Cual es el resultado de 8 + (6 - 10)?
 
-### Options
+### Opciones
 - [x] A) 4 <!-- feedback: Correct. Primero resolvemos el parentesis: 6 - 10 = -4. Luego: 8 + (-4) = 4. -->
 - [ ] B) -8 <!-- feedback: Incorrect. Resolver de izquierda a derecha sin respetar jerarquia: 8 + 6 = 14, 14 - 10 = 4, o confundir 8 - 6 = 2, 2 - 10 = -8. Error al no resolver primero el parentesis. -->
 - [ ] C) 24 <!-- feedback: Incorrect. Sumar todo: 8 + 6 = 14, 14 - 10 = 4. O hacer 8 + 6 + 10 = 24, ignorando el signo negativo del 10. -->
@@ -76,13 +80,14 @@ Siempre resolvemos primero lo que esta dentro del parentesis:
 
 **ID:** `CO-MAT-6-2026-W03-enteros-operaciones-combinadas-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Operacion combinada
+**Contexto:** Operacion combinada
 
 ### Enunciado
 Resuelve la siguiente operacion respetando la jerarquia: 12 Ã· (-3) Ã— 2 - 5
 
-### Options
+### Opciones
 - [x] A) -13 <!-- feedback: Correct. Division: 12 Ã· (-3) = -4. Multiplicacion: -4 Ã— 2 = -8. Resta: -8 - 5 = -13. -->
 - [ ] B) -3 <!-- feedback: Incorrect. Posible error: 12 Ã· (-3) = -4, luego -4 + 2 = -2 (sumar en vez de multiplicar), -2 - 5 = -7, o hacer 12 Ã· (-3) = -4, -4 - 5 = -9, -9 Ã— 2 = -18. Multiples errores de orden. -->
 - [ ] C) 19 <!-- feedback: Incorrect. Ignorar signos: 12 Ã· 3 = 4, 4 Ã— 2 = 8, 8 - 5 = 3, o hacer 12 - 3 = 9, 9 Ã— 2 = 18, 18 - 5 = 13. Error grave al no respetar jerarquia. -->
@@ -102,13 +107,14 @@ Aplicamos la jerarquia paso a paso:
 
 **ID:** `CO-MAT-6-2026-W03-enteros-operaciones-combinadas-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Operacion con parentesis
+**Contexto:** Operacion con parentesis
 
 ### Enunciado
 Â¿Cual es el resultado de (-4 + 8) Ã— (7 - 9)?
 
-### Options
+### Opciones
 - [x] A) -8 <!-- feedback: Correct. Primer parentesis: -4 + 8 = 4. Segundo parentesis: 7 - 9 = -2. Multiplicacion: 4 Ã— (-2) = -8. -->
 - [ ] B) 8 <!-- feedback: Incorrect. Resolver 4 Ã— 2 = 8, ignorando el signo negativo del segundo parentesis donde 7 - 9 = -2, no -2. -->
 - [ ] C) 24 <!-- feedback: Incorrect. Sumar todo: (-4 + 8 + 7 - 9) = 2, o hacer -4 Ã— 7 = -28, -28 + 8 Ã— 9 = 44, etc. Error al no resolver parentesis primero. -->
@@ -127,8 +133,9 @@ Regla clave: los parentesis agrupan operaciones que deben resolverse antes de cu
 
 **ID:** `CO-MAT-6-2026-W03-enteros-operaciones-combinadas-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Presupuesto semanal
+**Contexto:** Presupuesto semanal
 
 ### Enunciado
 Valentina recibe $25,000 de mesada semanal. Durante la semana:
@@ -139,7 +146,7 @@ Valentina recibe $25,000 de mesada semanal. Durante la semana:
 
 Â¿Cual expresion representa correctamente el dinero que le queda al final de la semana?
 
-### Options
+### Opciones
 - [x] A) 25,000 - 8,000 + 5,000 - 12,000 - 3,000 = 7,000 <!-- feedback: Correct. Los gastos se restan y los ingresos se suman: 25,000 - 8,000 + 5,000 - 12,000 - 3,000 = 17,000 + 5,000 - 12,000 - 3,000 = 22,000 - 12,000 - 3,000 = 10,000 - 3,000 = 7,000. -->
 - [ ] B) 25,000 - 8,000 - 5,000 - 12,000 - 3,000 = -3,000 <!-- feedback: Incorrect. Restar el dinero de la abuela en vez de sumarlo. Recibir dinero es un ingreso que debe sumarse, no restarse. -->
 - [ ] C) 25,000 + 8,000 + 5,000 + 12,000 + 3,000 = 53,000 <!-- feedback: Incorrect. Sumar todos los valores como si todos fueran ingresos. Los gastos deben restarse, no sumarse. -->
@@ -168,13 +175,14 @@ A Valentina le quedan $7,000.
 
 **ID:** `CO-MAT-6-2026-W03-enteros-operaciones-combinadas-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Compra de uniformes escolares
+**Contexto:** Compra de uniformes escolares
 
 ### Enunciado
 Tres hermanos (Santiago, Lucia y Mateo) compran sus uniformes escolares. Santiago gasta $45,000, Lucia gasta $38,000 y Mateo gasta $52,000. Su mama les da $200,000 para la compra. Â¿Cuanto dinero sobra o falta?
 
-### Options
+### Opciones
 - [ ] A) Faltan $135,000 <!-- feedback: Incorrect. 45,000 + 38,000 + 52,000 = 135,000. Esto es lo gastado, no lo que falta. 200,000 - 135,000 = 65,000, que es lo que SOBRA, no falta. -->
 - [x] B) Sobran $65,000 <!-- feedback: Correct. Total gastado: 45,000 + 38,000 + 52,000 = 135,000. Dinero restante: 200,000 - 135,000 = 65,000. Sobran $65,000. -->
 - [ ] C) Sobran $35,000 <!-- feedback: Incorrect. Error comun: sumar solo dos de los tres gastos: 45,000 + 52,000 = 97,000; 200,000 - 97,000 = 103,000 o confundir 45+38+52 = 135, y restar 200-135 = 65, pero pensar en 35 por error de calculo. -->
@@ -195,8 +203,9 @@ Como el resultado es positivo, significa que SOBRA dinero. Si el resultado hubie
 
 **ID:** `CO-MAT-6-2026-W03-enteros-operaciones-combinadas-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Elevacion y descenso en el teleferico
+**Contexto:** Elevacion y descenso en el teleferico
 
 ### Enunciado
 El teleferico de Monserrate en Bogota tiene una estacion base a 0 metros. Un viaje tipico es:
@@ -207,7 +216,7 @@ El teleferico de Monserrate en Bogota tiene una estacion base a 0 metros. Un via
 
 Si representamos subir como positivo y bajar como negativo, Â¿cual de las siguientes expresiones representa la altitud final?
 
-### Options
+### Opciones
 - [x] A) 400 + 800 + (-500) + (-700) = 0 m <!-- feedback: Correct. 400 + 800 = 1,200. 1,200 + (-500) = 700. 700 + (-700) = 0 m. Regresa a la base. -->
 - [ ] B) 400 + 800 + 500 + 700 = 2,400 m <!-- feedback: Incorrect. Sumar todo como si todas las cantidades fueran positivas. Bajar debe representarse como resta o suma de numeros negativos. -->
 - [ ] C) 400 + 800 - 500 + 700 = 1,400 m <!-- feedback: Incorrect. Sumar la ultima bajada (700) en vez de restarla. La cuarta etapa es bajar, no subir. -->
@@ -234,8 +243,9 @@ El teleferico regresa exactamente a la base (0 metros).
 
 **ID:** `CO-MAT-6-2026-W03-enteros-operaciones-combinadas-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Juego de cartas con puntos
+**Contexto:** Juego de cartas con puntos
 
 ### Enunciado
 Juan Pablo juega un juego de cartas donde:
@@ -245,7 +255,7 @@ Juan Pablo juega un juego de cartas donde:
 Saca las siguientes cartas en orden: roja 6, negra 9, negra 4, roja 3, negra 5.
 Si empezo con 0 puntos, Â¿con cuantos termina?
 
-### Options
+### Opciones
 - [x] A) -9 puntos <!-- feedback: Correct. Roja 6: +6. Negra 9: +6 + (-9) = -3. Negra 4: -3 + (-4) = -7. Roja 3: -7 + 3 = -4. Negra 5: -4 + (-5) = -9. -->
 - [ ] B) 27 puntos <!-- feedback: Incorrect. Sumar todas las cartas como si todas fueran positivas: 6 + 9 + 4 + 3 + 5 = 27. Ignorar por completo que las cartas negras restan. -->
 - [ ] C) 3 puntos <!-- feedback: Incorrect. Contar solo las rojas: 6 + 3 = 9, y solo las negras: 9 + 4 + 5 = 18, y hacer 9 - 18 = -9, pero cambiar el signo o error en suma de negras. -->
@@ -267,8 +277,9 @@ Resultado final: -9 puntos.
 
 **ID:** `CO-MAT-6-2026-W03-enteros-operaciones-combinadas-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Expresion con parentesis anidados
+**Contexto:** Expresion con parentesis anidados
 
 ### Enunciado
 Observa la siguiente expresion con parentesis anidados:
@@ -277,7 +288,7 @@ Observa la siguiente expresion con parentesis anidados:
 
 Â¿Cual es el resultado correcto?
 
-### Options
+### Opciones
 - [ ] A) 12 <!-- feedback: Incorrect. Posible error: resolver 8 - 15 = -7, luego -7 Ã— 2 = -14, luego 12 + (-14) = -2, luego 20 - (-2) = 22, 22 - 3 = 19. Error: 20 - (-2) = 22, no 12. -->
 - [x] B) 19 <!-- feedback: Correct. Parentesis interno: 8 - 15 = -7. Multiplicacion: -7 Ã— 2 = -14. Corchetes: 12 + (-14) = -2. Todo: 20 - (-2) = 22. Final: 22 - 3 = 19. -->
 - [ ] C) 15 <!-- feedback: Incorrect. Error al no resolver correctamente el parentesis interno o la multiplicacion: 20 - 12 + (8 - 15) Ã— 2 - 3 = 20 - 12 + (-7) Ã— 2 - 3 = 8 + (-14) - 3 = -9. No coincide. -->
@@ -301,8 +312,9 @@ El resultado final es 19.
 
 **ID:** `CO-MAT-6-2026-W03-enteros-operaciones-combinadas-010-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Analisis de errores comunes
+**Contexto:** Analisis de errores comunes
 
 ### Enunciado
 Carlos resolvio la siguiente operacion y obtuvo -9:
@@ -311,7 +323,7 @@ Carlos resolvio la siguiente operacion y obtuvo -9:
 
 Su respuesta fue -9. Â¿Es correcta? En caso de no serlo, Â¿cual es el resultado correcto?
 
-### Options
+### Opciones
 - [ ] A) Si, el resultado es -9, resolvio correctamente <!-- feedback: Incorrect. Verifiquemos: (-3)Ã—4 = -12; 12Ã·(-3) = -4; -12 + (-4) = -16; -16 - 5 = -21. El resultado es -21, no -9. -->
 - [x] B) No, el resultado correcto es -21 <!-- feedback: Correct. (-3)Ã—4 = -12; 12Ã·(-3) = -4; -12 + (-4) = -16; -16 - 5 = -21. Carlos se equivoco en la ley de signos al dividir 12Ã·(-3) o en el orden de las operaciones. -->
 - [ ] C) No, el resultado correcto es 7 <!-- feedback: Incorrect. Posible error: (-3)Ã—4 = -12; 12Ã·(-3) = -4; luego sumar en vez de restar: -12 + (-4) = -16, -16 + 5 = -11. No da 7. -->

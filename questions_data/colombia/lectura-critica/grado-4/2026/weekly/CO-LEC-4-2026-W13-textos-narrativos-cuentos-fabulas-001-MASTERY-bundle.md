@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W13-textos-narrativos-cuentos-fabulas-001-MASTERY"
+id: "CO-LEC-4-2026-W13-textos-narrativos-cuentos-fabulas-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "textos-narrativos-cuentos-fabulas"
-semana: "W13"
+week: "W13"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "cuentos, fábulas, moraleja, narración"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W13: Textos narrativos: cuentos y fábulas
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W13-textos-narrativos-cuentos-fabulas-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Nombre personaje.
+**Contexto:** Nombre personaje.
 
 ### Enunciado
 *"Había una vez una tortuga llamada Matilde en la ciénaga de Zapatosa."* ¿Cómo se llama?
 
-### Options
-- [ ] A) María.
+### Opciones
+- [ ] A) María. <!-- feedback: Incorrecto. María. -->
 - [x] B) Matilde. <!-- feedback: Correcto. -->
-- [ ] C) Sofía.
-- [ ] D) Carolina.
+- [ ] C) Sofía. <!-- feedback: Incorrecto. Sofía. -->
+- [ ] D) Carolina. <!-- feedback: Incorrecto. Carolina. -->
 
 ### Explicación Pedagógica
 Nombre.
@@ -49,17 +54,18 @@ Nombre.
 
 **ID:** `CO-LEC-4-2026-W13-textos-narrativos-cuentos-fabulas-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Lugar.
+**Contexto:** Lugar.
 
 ### Enunciado
 *"En una vereda de Boyacá, un campesino encontró un tesoro."* ¿Dónde?
 
-### Options
-- [ ] A) Bogotá.
+### Opciones
+- [ ] A) Bogotá. <!-- feedback: Incorrecto. Bogotá. -->
 - [x] B) Vereda de Boyacá. <!-- feedback: Correcto. -->
-- [ ] C) Cali.
-- [ ] D) Santa Marta.
+- [ ] C) Cali. <!-- feedback: Incorrecto. Cali. -->
+- [ ] D) Santa Marta. <!-- feedback: Incorrecto. Santa Marta. -->
 
 ### Explicación Pedagógica
 Escenario.
@@ -70,17 +76,18 @@ Escenario.
 
 **ID:** `CO-LEC-4-2026-W13-textos-narrativos-cuentos-fabulas-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Conflicto.
+**Contexto:** Conflicto.
 
 ### Enunciado
 *"El ratón quería cruzar el río pero no sabía nadar."* ¿Conflicto?
 
-### Options
-- [ ] A) Es nadador.
+### Opciones
+- [ ] A) Es nadador. <!-- feedback: Incorrecto. Es nadador. -->
 - [x] B) No puede cruzar porque no sabe nadar. <!-- feedback: Correcto. -->
-- [ ] C) Río seco.
-- [ ] D) Miedo al agua.
+- [ ] C) Río seco. <!-- feedback: Incorrecto. Río seco. -->
+- [ ] D) Miedo al agua. <!-- feedback: Incorrecto. Miedo al agua. -->
 
 ### Explicación Pedagógica
 Conflicto.
@@ -91,17 +98,18 @@ Conflicto.
 
 **ID:** `CO-LEC-4-2026-W13-textos-narrativos-cuentos-fabulas-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Moraleja.
+**Contexto:** Moraleja.
 
 ### Enunciado
 *"Liebre se burlaba de tortuga lenta. Tortuga ganó carrera."* ¿Moraleja?
 
-### Options
-- [ ] A) Correr rápido gana.
+### Opciones
+- [ ] A) Correr rápido gana. <!-- feedback: Incorrecto. Correr rápido gana. -->
 - [x] B) Constancia vence confianza excesiva. <!-- feedback: Correcto. -->
-- [ ] C) Tortugas son mejores.
-- [ ] D) Liebres no corren.
+- [ ] C) Tortugas son mejores. <!-- feedback: Incorrecto. Tortugas son mejores. -->
+- [ ] D) Liebres no corren. <!-- feedback: Incorrecto. Liebres no corren. -->
 
 ### Explicación Pedagógica
 Moraleja.
@@ -112,17 +120,18 @@ Moraleja.
 
 **ID:** `CO-LEC-4-2026-W13-textos-narrativos-cuentos-fabulas-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Característica.
+**Contexto:** Característica.
 
 ### Enunciado
 *"Hormiga trabajaba guardando comida. Cigarra cantaba."* ¿Cómo es la hormiga?
 
-### Options
-- [ ] A) Perezosa.
+### Opciones
+- [ ] A) Perezosa. <!-- feedback: Incorrecto. Perezosa. -->
 - [x] B) Trabajadora. <!-- feedback: Correcto. -->
-- [ ] C) Cantante.
-- [ ] D) Desordenada.
+- [ ] C) Cantante. <!-- feedback: Incorrecto. Cantante. -->
+- [ ] D) Desordenada. <!-- feedback: Incorrecto. Desordenada. -->
 
 ### Explicación Pedagógica
 Característica.
@@ -133,17 +142,18 @@ Característica.
 
 **ID:** `CO-LEC-4-2026-W13-textos-narrativos-cuentos-fabulas-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Inferir sentimiento.
+**Contexto:** Inferir sentimiento.
 
 ### Enunciado
 *"Niño perdió su perro en Sincelejo y comenzó a llorar."* ¿Cómo se sentía?
 
-### Options
-- [ ] A) Feliz.
+### Opciones
+- [ ] A) Feliz. <!-- feedback: Incorrecto. Feliz. -->
 - [x] B) Triste. <!-- feedback: Correcto. -->
-- [ ] C) Enojado.
-- [ ] D) Aburrido.
+- [ ] C) Enojado. <!-- feedback: Incorrecto. Enojado. -->
+- [ ] D) Aburrido. <!-- feedback: Incorrecto. Aburrido. -->
 
 ### Explicación Pedagógica
 Emoción.
@@ -154,17 +164,18 @@ Emoción.
 
 **ID:** `CO-LEC-4-2026-W13-textos-narrativos-cuentos-fabulas-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Predecir desenlace.
+**Contexto:** Predecir desenlace.
 
 ### Enunciado
 *"Niño buscó su perro por todo el pueblo y entró a la iglesia..."* ¿Qué pasa?
 
-### Options
+### Opciones
 - [x] A) Encontró a su perro. <!-- feedback: Probable. -->
 - [ ] B) Perro desapareció. <!-- feedback: Tono negativo. -->
-- [ ] C) Iglesia se cayó.
-- [ ] D) Niño se fue.
+- [ ] C) Iglesia se cayó. <!-- feedback: Incorrecto. Iglesia se cayó. -->
+- [ ] D) Niño se fue. <!-- feedback: Incorrecto. Niño se fue. -->
 
 ### Explicación Pedagógica
 Predecir.
@@ -175,17 +186,18 @@ Predecir.
 
 **ID:** `CO-LEC-4-2026-W13-textos-narrativos-cuentos-fabulas-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Causa en cuento.
+**Contexto:** Causa en cuento.
 
 ### Enunciado
 *"Árbol no daba frutos porque raíces enfermas."* ¿Causa?
 
-### Options
+### Opciones
 - [ ] A) Árbol no da frutos. <!-- feedback: Efecto. -->
 - [x] B) Raíces enfermas. <!-- feedback: Correcto. -->
-- [ ] C) Sequía.
-- [ ] D) Plagas.
+- [ ] C) Sequía. <!-- feedback: Incorrecto. Sequía. -->
+- [ ] D) Plagas. <!-- feedback: Incorrecto. Plagas. -->
 
 ### Explicación Pedagógica
 Causa narrativa.
@@ -196,17 +208,18 @@ Causa narrativa.
 
 **ID:** `CO-LEC-4-2026-W13-textos-narrativos-cuentos-fabulas-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Evaluar moraleja.
+**Contexto:** Evaluar moraleja.
 
 ### Enunciado
 *"Fábula cigarra y hormiga."* ¿Enseñanza?
 
-### Options
-- [ ] A) Cantar es mejor.
+### Opciones
+- [ ] A) Cantar es mejor. <!-- feedback: Incorrecto. Cantar es mejor. -->
 - [x] B) Prever y trabajar para el futuro. <!-- feedback: Correcto. -->
-- [ ] C) Solo hormigas inteligentes.
-- [ ] D) Verano es para jugar.
+- [ ] C) Solo hormigas inteligentes. <!-- feedback: Incorrecto. Solo hormigas inteligentes. -->
+- [ ] D) Verano es para jugar. <!-- feedback: Incorrecto. Verano es para jugar. -->
 
 ### Explicación Pedagógica
 Evaluar moraleja.
@@ -217,17 +230,18 @@ Evaluar moraleja.
 
 **ID:** `CO-LEC-4-2026-W13-textos-narrativos-cuentos-fabulas-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Crear final.
+**Contexto:** Crear final.
 
 ### Enunciado
 *"Final donde perro encuentra a su dueño."* ¿Buen final?
 
-### Options
+### Opciones
 - [ ] A) Perro se perdió. <!-- feedback: No resuelve. -->
 - [x] B) Dueño abrazó al perro y volvieron felices. <!-- feedback: Correcto. -->
-- [ ] C) Perro se fue a otro país.
-- [ ] D) Dueño compró otro perro.
+- [ ] C) Perro se fue a otro país. <!-- feedback: Incorrecto. Perro se fue a otro país. -->
+- [ ] D) Dueño compró otro perro. <!-- feedback: Incorrecto. Dueño compró otro perro. -->
 
 ### Explicación Pedagógica
 Evaluar final.

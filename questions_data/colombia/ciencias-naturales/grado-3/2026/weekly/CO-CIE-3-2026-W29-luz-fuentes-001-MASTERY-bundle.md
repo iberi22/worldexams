@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY"
+id: "CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "luz-fuentes"
-semana: "W29"
+week: "W29"
 periodo: 3
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Fuentes de luz: naturales y artificiales. Objetos luminosos y 
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Fuentes de Luz
 
 Este bundle profundiza en el origen de la luz, diferenciando entre las fuentes creadas por la naturaleza y aquellas fabricadas por el ser humano, así como entre los objetos que emiten luz y los que solo la reflejan.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una noche de campamento, los niños ven estrellas en el cielo, una fogata encendida y usan linternas para ver el camino.
+**Contexto:** En una noche de campamento, los niños ven estrellas en el cielo, una fogata encendida y usan linternas para ver el camino.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ Las fuentes naturales son aquellas que existen en la naturaleza sin intervenció
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Para poder estudiar por la noche cuando ya no hay sol, encendemos la lámpara de la mesa.
+**Contexto:** Para poder estudiar por la noche cuando ya no hay sol, encendemos la lámpara de la mesa.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -73,12 +77,12 @@ Las fuentes artificiales nos permiten realizar actividades cuando el sol se ocul
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** La Luna brilla mucho en las noches despejadas, pero los científicos dicen que la Luna no tiene luz propia.
+**Contexto:** La Luna brilla mucho en las noches despejadas, pero los científicos dicen que la Luna no tiene luz propia.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ Este es un concepto clave: hay objetos luminosos (emiten luz) y no luminosos (re
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** En las profundidades oscuras del océano, existen peces que tienen una pequeña "linterna" biológica que sale de su cabeza.
+**Contexto:** En las profundidades oscuras del océano, existen peces que tienen una pequeña "linterna" biológica que sale de su cabeza.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ La bioluminiscencia es una adaptación increíble. Estos seres vivos usan reacci
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Mariana tiene una linterna que funciona con una manivela: ella gira la palanca y la linterna alumbra sin necesidad de pilas.
+**Contexto:** Mariana tiene una linterna que funciona con una manivela: ella gira la palanca y la linterna alumbra sin necesidad de pilas.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -148,12 +152,12 @@ Toda fuente de luz artificial necesita una fuente de energía. Puede ser la elec
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Si apagas todas las luces de tu habitación y cierras bien las cortinas, dejas de ver los juguetes, la cama y tus zapatos.
+**Contexto:** Si apagas todas las luces de tu habitación y cierras bien las cortinas, dejas de ver los juguetes, la cama y tus zapatos.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -173,12 +177,12 @@ La visión es un proceso de rebote. La luz sale de la bombilla o el Sol, rebota 
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un espejo refleja la luz tan bien que podemos ver nuestra propia imagen en él.
+**Contexto:** Un espejo refleja la luz tan bien que podemos ver nuestra propia imagen en él.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -198,12 +202,12 @@ Un espejo es el mejor "reflejante" que existe. No es una fuente de luz porque si
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Tienes que elegir la mejor fuente de luz para una expedición de varios días en una selva remota donde no hay enchufes.
+**Contexto:** Tienes que elegir la mejor fuente de luz para una expedición de varios días en una selva remota donde no hay enchufes.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -223,12 +227,12 @@ Combinar fuentes es la mejor estrategia. Usar la luz natural del día para carga
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Algunas personas pintan las señales de tránsito con una pintura especial que parece brillar cuando las luces de los carros la iluminan.
+**Contexto:** Algunas personas pintan las señales de tránsito con una pintura especial que parece brillar cuando las luces de los carros la iluminan.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -248,12 +252,12 @@ Estas señales usan la luz de los carros para ser vistas. Es una forma inteligen
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W29-luz-fuentes-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un científico afirma: "Casi toda la luz que usamos en la Tierra, incluso la artificial, viene originalmente del Sol".
+**Contexto:** Un científico afirma: "Casi toda la luz que usamos en la Tierra, incluso la artificial, viene originalmente del Sol".
 **Expected_Success:** 0.60
 
 ### Enunciado

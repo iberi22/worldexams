@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-6-2026-W15-descripcion-escenarios-literarios-001-MASTERY"
+id: "CO-LEC-6-2026-W15-descripcion-escenarios-literarios-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "descripcion-escenarios-literarios"
-semana: 15
+week: "W15"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "escenarios literarios, descripción de ambientes, espacio narr
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G6 — Descripción de Escenarios Literarios
 
@@ -38,12 +43,13 @@ tier: "legacy"
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Cuál de los siguientes elementos NO se menciona en la descripción de la casa del abuelo?
 
-### Options
+### Opciones
 - [ ] A) Paredes de bahareque y techo de tejas de barro. <!-- feedback: Incorrecto. El texto menciona explícitamente las paredes de bahareque y el techo de tejas de barro en el primer párrafo. -->
 - [x] B) Un jardín con flores de todo tipo de colores. <!-- feedback: Correcto. El texto no menciona un jardín de flores. Menciona matas de plátano y árboles de aguacate, pero no un jardín florido. -->
 - [ ] C) Olor a café recién molido. <!-- feedback: Incorrecto. El olor a café recién molido se menciona al inicio del segundo párrafo como parte de la ambientación. -->
@@ -55,12 +61,13 @@ Identificar información explícita dentro de una descripción es el primer paso
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿En qué región de Colombia está ubicada la casa del abuelo según el texto?
 
-### Options
+### Opciones
 - [ ] A) En la costa Caribe. <!-- feedback: Incorrecto. No hay menciones al mar, playas o clima caribeño. El texto habla de un pueblo cafetero. -->
 - [x] B) En el Quindío, región cafetera de Colombia. <!-- feedback: Correcto. El primer párrafo dice: "La casa del abuelo Arturo quedaba en lo alto de una colina en un pueblo del Quindío." -->
 - [ ] C) En la Amazonía colombiana. <!-- feedback: Incorrecto. No se menciona selva tropical, ríos caudalosos ni fauna amazónica. -->
@@ -72,12 +79,13 @@ Ubicar geográficamente un escenario literario ayuda a comprender el contexto de
 ## Question 3 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Qué sentimiento o atmósfera transmite principalmente la descripción de la casa del abuelo?
 
-### Options
+### Opciones
 - [ ] A) Miedo y misterio. <!-- feedback: Incorrecto. No hay elementos de terror, oscuridad o suspenso en la descripción. -->
 - [ ] B) Tristeza y soledad. <!-- feedback: Incorrecto. Aunque hay un tono nostálgico, el texto también describe risas, calor familiar y vida cotidiana. -->
 - [x] C) Calidez, nostalgia y tranquilidad. <!-- feedback: Correcto. La casa transmite calidez (olor a sancocho, risas), nostalgia (fotografías antiguas, tiempo detenido) y tranquilidad (hamaca, abuelo sin prisa). -->
@@ -89,12 +97,13 @@ La atmósfera de un escenario literario se construye con detalles sensoriales (o
 ## Question 4 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Caracterización literaria
 
 ### Enunciado
 ¿Qué sentido se usa principalmente en la descripción del segundo párrafo?
 
-### Options
+### Opciones
 - [ ] A) El gusto. <!-- feedback: Incorrecto. Aunque se menciona café, no se describe su sabor; se usa el olfato ("olor a café"). -->
 - [x] B) El olfato ("olor a café") y el oído ("piso que crujía"). <!-- feedback: Correcto. El segundo párrafo combina el sentido del olfato (café recién molido) y del oído (crujido del piso). -->
 - [ ] C) El tacto. <!-- feedback: Incorrecto. No hay descripciones táctiles detalladas como texturas al tocar. -->
@@ -106,12 +115,13 @@ Los autores usan distintos sentidos para describir un escenario: vista (colores,
 ## Question 5 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué podemos inferir sobre la personalidad del abuelo Arturo a partir de la descripción del escenario?
 
-### Options
+### Opciones
 - [ ] A) Que es una persona apresurada y estresada. <!-- feedback: Incorrecto. La descripción muestra lo contrario: el abuelo "pelaba una naranja con la parsimonia de quien no tiene prisa". -->
 - [x] B) Que es una persona tranquila, que disfruta de la vida pausada del campo. <!-- feedback: Correcto. El detalle de que pela una naranja "con la parsimonia de quien no tiene prisa", sumado al ambiente tranquilo de la casa, sugiere una personalidad calmada. -->
 - [ ] C) Que es una persona rica y poderosa. <!-- feedback: Incorrecto. La casa es descrita como una "vieja casona" con paredes desgastadas; no hay signos de riqueza. -->
@@ -123,12 +133,13 @@ Los escenarios no solo describen lugares: también revelan información sobre lo
 ## Question 6 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Cómo cambia la atmósfera de la casa entre el día y la caída de la tarde?
 
-### Options
+### Opciones
 - [ ] A) No hay cambios; la atmósfera es igual en todo el texto. <!-- feedback: Incorrecto. El texto describe cambios claros entre el día y la tarde. -->
 - [ ] B) De día hay silencio total; de tarde hay ruido. <!-- feedback: Incorrecto. De día también hay sonidos: gallos, motor de camioneta. -->
 - [x] C) De día el ambiente es más campestre y tranquilo, con sonidos de la naturaleza; al caer la tarde se vuelve más cálido y familiar, con olores de comida y risas. <!-- feedback: Correcto. De día predominan la naturaleza (gallos, viento, cafetal), mientras que al caer la tarde el ambiente se vuelve hogareño (sancocho, risas, historias). -->
@@ -140,12 +151,13 @@ Los escenarios literarios pueden cambiar a lo largo del texto. Identificar estas
 ## Question 7 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué función cumple la descripción de la hamaca que "se mecía suavemente con el viento"?
 
-### Options
+### Opciones
 - [ ] A) Es solo un adorno sin importancia. <!-- feedback: Incorrecto. En literatura, los detalles casi siempre tienen una función. -->
 - [ ] B) Mostrar que hace mucho viento en la región. <!-- feedback: Incorrecto. El viento es suave, no fuerte; "se mecía suavemente" indica brisa ligera. -->
 - [x] C) Reforzar la sensación de tranquilidad y ritmo pausado del lugar. <!-- feedback: Correcto. La hamaca meciéndose suavemente es un símbolo de descanso, calma y vida sin prisa, que refuerza la atmósfera general del escenario. -->
@@ -157,12 +169,13 @@ Cada elemento de una descripción tiene una función dentro del texto. La hamaca
 ## Question 8 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 El texto dice que el piso de madera "crujía con cada paso, como si contara secretos antiguos". ¿Qué recurso literario se usa en esta expresión?
 
-### Options
+### Opciones
 - [ ] A) Una metáfora pura sin comparación. <!-- feedback: Incorrecto. Aunque hay un elemento figurado, la expresión usa "como si", que indica una comparación. -->
 - [x] B) Una comparación (símil) que personifica el piso, dándole la capacidad de contar secretos. <!-- feedback: Correcto. "Como si contara secretos antiguos" compara el crujido con el acto de contar secretos, personificando el piso. -->
 - [ ] C) Una hipérbole o exageración. <!-- feedback: Incorrecto. No hay exageración; el crujido es un sonido real de los pisos de madera. -->
@@ -174,12 +187,13 @@ Los autores usan figuras literarias incluso en las descripciones de escenarios p
 ## Question 9 [D6]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 Si el autor quisiera cambiar la atmósfera de la casa para que transmitiera tristeza y abandono, ¿qué elemento de la descripción actual debería modificar?
 
-### Options
+### Opciones
 - [ ] A) Mantener el olor a café recién molido. <!-- feedback: Incorrecto. El olor a café transmite calidez y vida; para crear tristeza, este detalle debería cambiarse. -->
 - [ ] B) Dejar las risas y el sancocho en la tarde. <!-- feedback: Incorrecto. Las risas y la comida familiar transmiten alegría y unión, lo opuesto a tristeza. -->
 - [x] C) Cambiar la hamaca meciéndose y el abuelo sin prisa por imágenes de abandono: telarañas, muebles rotos, silencio total. <!-- feedback: Correcto. Detalles como telarañas, polvo, muebles rotos y silencio crearían una atmósfera de abandono y tristeza, en contraste con la hamaca y la tranquilidad actual. -->
@@ -191,12 +205,13 @@ La atmósfera de un escenario se construye con la suma de pequeños detalles. Ca
 ## Question 10 [D6]
 
 **Bloom:** Create
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 Imagina que eres el autor y debes agregar un nuevo párrafo que describa la misma casa pero durante la madrugada. ¿Qué elemento describirías para mantener la coherencia con el escenario?
 
-### Options
+### Opciones
 - [ ] A) El ruido de una discoteca cercana. <!-- feedback: Incorrecto. Esto rompería la coherencia del escenario rural y tranquilo del Quindío. -->
 - [ ] B) El olor a gasolina y el tráfico de la ciudad. <!-- feedback: Incorrecto. No hay ciudad cerca; la casa está en un pueblo cafetero. -->
 - [x] C) El canto de los gallos anunciando el amanecer, la neblina sobre el cafetal y el silencio que solo se rompe con el viento. <!-- feedback: Correcto. La madrugada en el campo incluye neblina, gallos y silencio, elementos que mantienen la coherencia con el escenario descrito. -->

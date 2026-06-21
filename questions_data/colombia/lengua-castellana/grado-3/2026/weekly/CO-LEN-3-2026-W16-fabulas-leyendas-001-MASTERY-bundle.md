@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-3-2026-W16-fabulas-leyendas-001-MASTERY"
+id: "CO-LEN-3-2026-W16-fabulas-leyendas-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 3"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Fábulas y leyendas colombianas - Grado 3
 
@@ -22,7 +24,7 @@ Este bundle explora las características de la fábula (moraleja) y la leyenda (
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-3-2026-W16-fabulas-leyendas-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -33,21 +35,20 @@ Este bundle explora las características de la fábula (moraleja) y la leyenda (
 ¿Cuál es la principal característica de una fábula?
 
 ### Opciones
-- [ ] A) Contar la historia de cómo se fundó una ciudad.
-  <!-- feedback: Eso es más propio de una leyenda o historia. -->
-- [x] B) Dejar una enseñanza o consejo llamado "moraleja".
-  <!-- feedback: ¡Correcto! Las fábulas siempre buscan enseñarnos algo. -->
-- [ ] C) Tener personajes que son superhéroes del espacio.
-  <!-- feedback: Eso es ciencia ficción. -->
-- [ ] D) Ser una noticia real de lo que pasó ayer.
-  <!-- feedback: Eso es un texto informativo. -->
+- [ ] A) Contar la historia de cómo se fundó una ciudad. <!-- feedback: Incorrecto. Contar la historia de cómo se fundó una  -->
+
+- [x] B) Dejar una enseñanza o consejo llamado "moraleja". <!-- feedback: Correcto! Dejar una enseñanza o consejo llamado "moraleja". -->
+
+- [ ] C) Tener personajes que son superhéroes del espacio. <!-- feedback: Incorrecto. Tener personajes que son superhéroes del -->
+
+- [ ] D) Ser una noticia real de lo que pasó ayer. <!-- feedback: Incorrecto. Ser una noticia real de lo que pasó ayer -->
 
 ### Explicación Pedagogica
 La fábula es un relato breve que utiliza personajes (frecuentemente animales) para ilustrar un comportamiento y dar una lección moral.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-3-2026-W16-fabulas-leyendas-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -58,21 +59,20 @@ La fábula es un relato breve que utiliza personajes (frecuentemente animales) p
 ¿Quiénes suelen ser los personajes principales en la mayoría de las fábulas?
 
 ### Opciones
-- [ ] A) Personas reales que viven en Colombia.
-  <!-- feedback: Aunque pueden aparecer, no es lo más común. -->
-- [x] B) Animales que hablan y actúan como humanos.
-  <!-- feedback: ¡Muy bien! A esto se le llama personificación. -->
-- [ ] C) Fantasmas y monstruos aterradores.
-  <!-- feedback: Eso es propio de los cuentos de terror o algunas leyendas. -->
-- [ ] D) Objetos de cocina que bailan.
-  <!-- feedback: No es lo más frecuente en las fábulas tradicionales. -->
+- [ ] A) Personas reales que viven en Colombia. <!-- feedback: Incorrecto. Personas reales que viven en Colombia. -->
+
+- [x] B) Animales que hablan y actúan como humanos. <!-- feedback: Correcto! Animales que hablan y actúan como humanos. -->
+
+- [ ] C) Fantasmas y monstruos aterradores. <!-- feedback: Incorrecto. Fantasmas y monstruos aterradores. -->
+
+- [ ] D) Objetos de cocina que bailan. <!-- feedback: Incorrecto. Objetos de cocina que bailan. -->
 
 ### Explicación Pedagogica
 La personificación es un recurso literario clave en las fábulas para que el lector se identifique con las situaciones planteadas.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-3-2026-W16-fabulas-leyendas-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -83,21 +83,20 @@ La personificación es un recurso literario clave en las fábulas para que el le
 Si una fábula termina diciendo: "Con constancia y esfuerzo se logran las metas", ¿qué nos está queriendo decir?
 
 ### Opciones
-- [ ] A) Que debemos correr muy rápido siempre.
-  <!-- feedback: No se refiere solo a correr, sino al esfuerzo general. -->
-- [x] B) Que si trabajamos duro y no nos rendimos, alcanzaremos lo que queremos.
-  <!-- feedback: ¡Excelente! Esa es la interpretación de la enseñanza. -->
-- [ ] C) Que las metas son lugares difíciles de encontrar.
-  <!-- feedback: Las "metas" son objetivos, no lugares físicos en este caso. -->
-- [ ] D) Que no es necesario estudiar para ganar.
-  <!-- feedback: Al contrario, estudiar requiere constancia y esfuerzo. -->
+- [ ] A) Que debemos correr muy rápido siempre. <!-- feedback: Incorrecto. Que debemos correr muy rápido siempre. -->
+
+- [x] B) Que si trabajamos duro y no nos rendimos, alcanzaremos lo que queremos. <!-- feedback: Correcto! Que si trabajamos duro y no nos rendimos, alcanzaremos lo qu -->
+
+- [ ] C) Que las metas son lugares difíciles de encontrar. <!-- feedback: Incorrecto. Que las metas son lugares difíciles de e -->
+
+- [ ] D) Que no es necesario estudiar para ganar. <!-- feedback: Incorrecto. Que no es necesario estudiar para ganar. -->
 
 ### Explicación Pedagogica
 La moraleja requiere un ejercicio de interpretación por parte del lector para aplicarla a su propia vida.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-3-2026-W16-fabulas-leyendas-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -108,21 +107,20 @@ La moraleja requiere un ejercicio de interpretación por parte del lector para a
 ¿Qué es una leyenda?
 
 ### Opciones
-- [ ] A) Un libro de instrucciones para armar juguetes.
-  <!-- feedback: No, eso es un instructivo. -->
-- [x] B) Una historia que mezcla hechos reales con fantásticos y se cuenta de generación en generación.
-  <!-- feedback: ¡Correcto! Las leyendas forman parte de la tradición oral de los pueblos. -->
-- [ ] C) Una lista de palabras que riman mucho.
-  <!-- feedback: No, eso es poesía. -->
-- [ ] D) Una carta que se le escribe a un amigo.
-  <!-- feedback: No, eso es una carta personal. -->
+- [ ] A) Un libro de instrucciones para armar juguetes. <!-- feedback: Incorrecto. Un libro de instrucciones para armar jug -->
+
+- [x] B) Una historia que mezcla hechos reales con fantásticos y se cuenta de generación en generación. <!-- feedback: Correcto! Una historia que mezcla hechos reales con fantásticos y se c -->
+
+- [ ] C) Una lista de palabras que riman mucho. <!-- feedback: Incorrecto. Una lista de palabras que riman mucho. -->
+
+- [ ] D) Una carta que se le escribe a un amigo. <!-- feedback: Incorrecto. Una carta que se le escribe a un amigo. -->
 
 ### Explicación Pedagogica
 Las leyendas intentan explicar fenómenos naturales, nombres de lugares o hechos históricos a través de elementos maravillosos.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-3-2026-W16-fabulas-leyendas-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Comprensión Lectora
@@ -133,21 +131,20 @@ Las leyendas intentan explicar fenómenos naturales, nombres de lugares o hechos
 ¿Cuál de los siguientes personajes pertenece a una leyenda colombiana?
 
 ### Opciones
-- [ ] A) El Ratón Pérez.
-  <!-- feedback: Es un personaje de tradición internacional. -->
-- [x] B) El Hombre Caimán.
-  <!-- feedback: ¡Así es! Es una leyenda muy famosa del Caribe colombiano. -->
-- [ ] C) Mickey Mouse.
-  <!-- feedback: Es un personaje de dibujos animados de otro país. -->
-- [ ] D) La Tortuga y la Liebre.
-  <!-- feedback: Estos son personajes de una fábula de Esopo. -->
+- [ ] A) El Ratón Pérez. <!-- feedback: Incorrecto. El Ratón Pérez. -->
+
+- [x] B) El Hombre Caimán. <!-- feedback: Correcto! El Hombre Caimán. -->
+
+- [ ] C) Mickey Mouse. <!-- feedback: Incorrecto. Mickey Mouse. -->
+
+- [ ] D) La Tortuga y la Liebre. <!-- feedback: Incorrecto. La Tortuga y la Liebre. -->
 
 ### Explicación Pedagogica
 Conocer las leyendas locales fortalece la identidad cultural y el sentido de pertenencia a una región.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-3-2026-W16-fabulas-leyendas-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -158,21 +155,20 @@ Conocer las leyendas locales fortalece la identidad cultural y el sentido de per
 A diferencia de las fábulas, ¿qué intentan explicar muchas leyendas?
 
 ### Opciones
-- [ ] A) Cómo se debe saludar a los mayores.
-  <!-- feedback: Eso es una norma de cortesía. -->
-- [ ] B) Por qué los perros tienen cuatro patas.
-  <!-- feedback: No suele ser el tema de las leyendas. -->
-- [x] C) El origen de un pueblo, un río o un fenómeno de la naturaleza.
-  <!-- feedback: ¡Exacto! Buscan dar una explicación mágica a cosas que existen. -->
-- [ ] D) Cómo ganar una carrera de velocidad.
-  <!-- feedback: Eso es un consejo deportivo o tema de fábula. -->
+- [ ] A) Cómo se debe saludar a los mayores. <!-- feedback: Incorrecto. Cómo se debe saludar a los mayores. -->
+
+- [ ] B) Por qué los perros tienen cuatro patas. <!-- feedback: Incorrecto. Por qué los perros tienen cuatro patas. -->
+
+- [x] C) El origen de un pueblo, un río o un fenómeno de la naturaleza. <!-- feedback: Correcto! El origen de un pueblo, un río o un fenómeno de la naturalez -->
+
+- [ ] D) Cómo ganar una carrera de velocidad. <!-- feedback: Incorrecto. Cómo ganar una carrera de velocidad. -->
 
 ### Explicación Pedagogica
 Mientras la fábula tiene un fin didáctico (enseñar), la leyenda tiene un fin explicativo y cultural.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-3-2026-W16-fabulas-leyendas-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -183,21 +179,20 @@ Mientras la fábula tiene un fin didáctico (enseñar), la leyenda tiene un fin 
 ¿Qué significa que una historia se transmita por "tradición oral"?
 
 ### Opciones
-- [ ] A) Que solo se puede leer en libros muy viejos.
-  <!-- feedback: Al contrario, a veces ni siquiera están en libros. -->
-- [x] B) Que se cuenta de voz en voz de padres a hijos durante mucho tiempo.
-  <!-- feedback: ¡Muy bien! La voz es el medio principal de transmisión. -->
-- [ ] C) Que los personajes hablan mucho en el cuento.
-  <!-- feedback: No se refiere al diálogo de los personajes, sino a cómo llega a nosotros la historia. -->
-- [ ] D) Que la historia trata sobre la boca y los dientes.
-  <!-- feedback: No tiene nada que ver con eso. -->
+- [ ] A) Que solo se puede leer en libros muy viejos. <!-- feedback: Incorrecto. Que solo se puede leer en libros muy vie -->
+
+- [x] B) Que se cuenta de voz en voz de padres a hijos durante mucho tiempo. <!-- feedback: Correcto! Que se cuenta de voz en voz de padres a hijos durante mucho  -->
+
+- [ ] C) Que los personajes hablan mucho en el cuento. <!-- feedback: Incorrecto. Que los personajes hablan mucho en el cu -->
+
+- [ ] D) Que la historia trata sobre la boca y los dientes. <!-- feedback: Incorrecto. Que la historia trata sobre la boca y lo -->
 
 ### Explicación Pedagogica
 La oralidad es la base de la literatura popular y ha permitido conservar historias durante siglos.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-3-2026-W16-fabulas-leyendas-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Comprensión Lectora
@@ -208,21 +203,20 @@ La oralidad es la base de la literatura popular y ha permitido conservar histori
 En la fábula de "La Pobre Viejecita", ella tenía de todo pero decía que no tenía nada. ¿Cuál es la enseñanza de esta historia?
 
 ### Opciones
-- [ ] A) Que debemos comprar muchas cosas para ser felices.
-  <!-- feedback: Al contrario, la viejecita tenía mucho y no era feliz. -->
-- [x] B) Que a veces no valoramos lo que tenemos y nos quejamos sin razón.
-  <!-- feedback: ¡Excelente! Es una crítica a la ambición y la falta de agradecimiento. -->
-- [ ] C) Que ser viejo es muy divertido.
-  <!-- feedback: No es el tema central de la enseñanza. -->
-- [ ] D) Que hay que comer mucho pan y carne.
-  <!-- feedback: Eso es solo parte de la descripción de su riqueza. -->
+- [ ] A) Que debemos comprar muchas cosas para ser felices. <!-- feedback: Incorrecto. Que debemos comprar muchas cosas para se -->
+
+- [x] B) Que a veces no valoramos lo que tenemos y nos quejamos sin razón. <!-- feedback: Correcto! Que a veces no valoramos lo que tenemos y nos quejamos sin r -->
+
+- [ ] C) Que ser viejo es muy divertido. <!-- feedback: Incorrecto. Que ser viejo es muy divertido. -->
+
+- [ ] D) Que hay que comer mucho pan y carne. <!-- feedback: Incorrecto. Que hay que comer mucho pan y carne. -->
 
 ### Explicación Pedagogica
 Las fábulas de Rafael Pombo son clásicos de la literatura colombiana que usan la ironía para dejar moralejas.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-3-2026-W16-fabulas-leyendas-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -233,21 +227,20 @@ Las fábulas de Rafael Pombo son clásicos de la literatura colombiana que usan 
 ¿En qué tiempo suelen ocurrir las leyendas?
 
 ### Opciones
-- [ ] A) En el futuro, cuando los carros vuelen.
-  <!-- feedback: Eso es para historias futuristas. -->
-- [ ] B) Justo en este momento, mientras lees.
-  <!-- feedback: Las leyendas suelen ser antiguas. -->
-- [x] C) En un pasado remoto o antiguo, relacionado con los ancestros.
-  <!-- feedback: ¡Correcto! Se sitúan en los orígenes de una comunidad. -->
-- [ ] D) Solo los fines de semana por la noche.
-  <!-- feedback: El tiempo de la historia no se limita a un horario. -->
+- [ ] A) En el futuro, cuando los carros vuelen. <!-- feedback: Incorrecto. En el futuro, cuando los carros vuelen. -->
+
+- [ ] B) Justo en este momento, mientras lees. <!-- feedback: Incorrecto. Justo en este momento, mientras lees. -->
+
+- [x] C) En un pasado remoto o antiguo, relacionado con los ancestros. <!-- feedback: Correcto! En un pasado remoto o antiguo, relacionado con los ancestros -->
+
+- [ ] D) Solo los fines de semana por la noche. <!-- feedback: Incorrecto. Solo los fines de semana por la noche. -->
 
 ### Explicación Pedagogica
 El tiempo legendario es impreciso pero siempre se refiere a un pasado lejano y fundacional.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-3-2026-W16-fabulas-leyendas-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -258,14 +251,13 @@ El tiempo legendario es impreciso pero siempre se refiere a un pasado lejano y f
 ¿Cuál sería una buena moraleja para tu historia si el loro ayudó al mono a bajar una fruta que él no alcanzaba?
 
 ### Opciones
-- [ ] A) El que tiene el pico más largo siempre gana.
-  <!-- feedback: No es una enseñanza de valor humano. -->
-- [ ] B) Las frutas son más ricas cuando están maduras.
-  <!-- feedback: Es un consejo de cocina, no una moraleja. -->
-- [x] C) Ayudarnos unos a otros nos hace la vida más fácil a todos.
-  <!-- feedback: ¡Muy bien! Es una excelente enseñanza sobre la cooperación. -->
-- [ ] D) Los monos no deberían comer frutas de los loros.
-  <!-- feedback: Suena más a una regla egoísta que a una moraleja. -->
+- [ ] A) El que tiene el pico más largo siempre gana. <!-- feedback: Incorrecto. El que tiene el pico más largo siempre g -->
+
+- [ ] B) Las frutas son más ricas cuando están maduras. <!-- feedback: Incorrecto. Las frutas son más ricas cuando están ma -->
+
+- [x] C) Ayudarnos unos a otros nos hace la vida más fácil a todos. <!-- feedback: Correcto! Ayudarnos unos a otros nos hace la vida más fácil a todos. -->
+
+- [ ] D) Los monos no deberían comer frutas de los loros. <!-- feedback: Incorrecto. Los monos no deberían comer frutas de lo -->
 
 ### Explicación Pedagogica
 Crear una moraleja implica sintetizar un valor positivo a partir de una acción solidaria entre los personajes.

@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W40-repaso-integral-anual-001-MASTERY"
+id: "CO-LEC-4-2026-W40-repaso-integral-anual-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "repaso-integral-anual"
-semana: "W40"
+week: "W40"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "repaso anual, integración, todas las habilidades lectoras"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W40: Repaso integral anual
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W40-repaso-integral-anual-001-MASTERY-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Idea principal.
+**Contexto:** Idea principal.
 
 ### Enunciado
 *"Colombia es un país megadiverso con muchos ecosistemas."* ¿Idea principal?"*
 
-### Options
-- [ ] A) Colombia tiene montañas.
+### Opciones
+- [ ] A) Colombia tiene montañas. <!-- feedback: Incorrecto. Colombia tiene montañas. -->
 - [x] B) Colombia es muy diversa en ecosistemas. <!-- feedback: Correcto. -->
-- [ ] C) Colombia es pequeño.
-- [ ] D) No hay diversidad.
+- [ ] C) Colombia es pequeño. <!-- feedback: Incorrecto. Colombia es pequeño. -->
+- [ ] D) No hay diversidad. <!-- feedback: Incorrecto. No hay diversidad. -->
 
 ### Explicación Pedagógica
 Repaso integral.
@@ -49,17 +54,18 @@ Repaso integral.
 
 **ID:** `CO-LEC-4-2026-W40-repaso-integral-anual-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Detalle.
+**Contexto:** Detalle.
 
 ### Enunciado
 *"El cóndor puede vivir hasta 70 años."* ¿Cuánto vive?"*
 
-### Options
-- [ ] A) 50 años.
+### Opciones
+- [ ] A) 50 años. <!-- feedback: Incorrecto. 50 años. -->
 - [x] B) 70 años. <!-- feedback: Correcto. -->
-- [ ] C) 100 años.
-- [ ] D) 20 años.
+- [ ] C) 100 años. <!-- feedback: Incorrecto. 100 años. -->
+- [ ] D) 20 años. <!-- feedback: Incorrecto. 20 años. -->
 
 ### Explicación Pedagógica
 Detalle.
@@ -70,17 +76,18 @@ Detalle.
 
 **ID:** `CO-LEC-4-2026-W40-repaso-integral-anual-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Causa-efecto.
+**Contexto:** Causa-efecto.
 
 ### Enunciado
 *"Los árboles purifican el aire. Si talamos muchos, el aire se contamina."* ¿Relación?"*
 
-### Options
-- [ ] A) No hay relación.
+### Opciones
+- [ ] A) No hay relación. <!-- feedback: Incorrecto. No hay relación. -->
 - [x] B) Talar árboles contamina el aire. <!-- feedback: Correcto. -->
-- [ ] C) Talamos para respirar.
-- [ ] D) Los árboles contaminan.
+- [ ] C) Talamos para respirar. <!-- feedback: Incorrecto. Talamos para respirar. -->
+- [ ] D) Los árboles contaminan. <!-- feedback: Incorrecto. Los árboles contaminan. -->
 
 ### Explicación Pedagógica
 Causa-efecto.
@@ -91,17 +98,18 @@ Causa-efecto.
 
 **ID:** `CO-LEC-4-2026-W40-repaso-integral-anual-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Propósito.
+**Contexto:** Propósito.
 
 ### Enunciado
 *"Un anuncio para cuidar el agua. ¿Propósito?"*
 
-### Options
-- [ ] A) Vender agua.
+### Opciones
+- [ ] A) Vender agua. <!-- feedback: Incorrecto. Vender agua. -->
 - [x] B) Persuadir a cuidar el agua. <!-- feedback: Correcto. -->
-- [ ] C) Entretener.
-- [ ] D) Describir.
+- [ ] C) Entretener. <!-- feedback: Incorrecto. Entretener. -->
+- [ ] D) Describir. <!-- feedback: Incorrecto. Describir. -->
 
 ### Explicación Pedagógica
 Propósito.
@@ -112,17 +120,18 @@ Propósito.
 
 **ID:** `CO-LEC-4-2026-W40-repaso-integral-anual-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Tipo texto.
+**Contexto:** Tipo texto.
 
 ### Enunciado
 *"Pasos para armar un juguete. ¿Tipo de texto?"*
 
-### Options
-- [ ] A) Narrativo.
+### Opciones
+- [ ] A) Narrativo. <!-- feedback: Incorrecto. Narrativo. -->
 - [x] B) Instructivo. <!-- feedback: Correcto. -->
-- [ ] C) Poético.
-- [ ] D) Noticia.
+- [ ] C) Poético. <!-- feedback: Incorrecto. Poético. -->
+- [ ] D) Noticia. <!-- feedback: Incorrecto. Noticia. -->
 
 ### Explicación Pedagógica
 Tipo.
@@ -133,17 +142,18 @@ Tipo.
 
 **ID:** `CO-LEC-4-2026-W40-repaso-integral-anual-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Inferir.
+**Contexto:** Inferir.
 
 ### Enunciado
 *"Todos los estudiantes tienen botas puestas. ¿Qué se puede inferir?"*
 
-### Options
-- [ ] A) Hace sol.
+### Opciones
+- [ ] A) Hace sol. <!-- feedback: Incorrecto. Hace sol. -->
 - [x] B) Está lloviendo o hay lodo. <!-- feedback: Correcto. -->
-- [ ] C) Es navidad.
-- [ ] D) Están en la playa.
+- [ ] C) Es navidad. <!-- feedback: Incorrecto. Es navidad. -->
+- [ ] D) Están en la playa. <!-- feedback: Incorrecto. Están en la playa. -->
 
 ### Explicación Pedagógica
 Inferir.
@@ -154,17 +164,18 @@ Inferir.
 
 **ID:** `CO-LEC-4-2026-W40-repaso-integral-anual-001-MASTERY-v7`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Comparar.
+**Contexto:** Comparar.
 
 ### Enunciado
 *"¿Diferencia entre poema y noticia?"*
 
-### Options
-- [ ] A) Ambos informan.
+### Opciones
+- [ ] A) Ambos informan. <!-- feedback: Incorrecto. Ambos informan. -->
 - [x] B) Poema expresa sentimientos, noticia informa hechos. <!-- feedback: Correcto. -->
-- [ ] C) Ambos riman.
-- [ ] D) Noticia es ficción.
+- [ ] C) Ambos riman. <!-- feedback: Incorrecto. Ambos riman. -->
+- [ ] D) Noticia es ficción. <!-- feedback: Incorrecto. Noticia es ficción. -->
 
 ### Explicación Pedagógica
 Comparar.
@@ -175,17 +186,18 @@ Comparar.
 
 **ID:** `CO-LEC-4-2026-W40-repaso-integral-anual-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Evaluar.
+**Contexto:** Evaluar.
 
 ### Enunciado
 *"¿Qué aprendiste este año en Lectura Crítica?"*
 
-### Options
-- [ ] A) Nada.
+### Opciones
+- [ ] A) Nada. <!-- feedback: Incorrecto. Nada. -->
 - [x] B) A comprender, inferir, comparar, resumir y reflexionar. <!-- feedback: Correcto. -->
-- [ ] C) Solo a leer rápido.
-- [ ] D) Solo ortografía.
+- [ ] C) Solo a leer rápido. <!-- feedback: Incorrecto. Solo a leer rápido. -->
+- [ ] D) Solo ortografía. <!-- feedback: Incorrecto. Solo ortografía. -->
 
 ### Explicación Pedagógica
 Evaluar anual.
@@ -196,17 +208,18 @@ Evaluar anual.
 
 **ID:** `CO-LEC-4-2026-W40-repaso-integral-anual-001-MASTERY-v9`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Aplicar todo.
+**Contexto:** Aplicar todo.
 
 ### Enunciado
 *"Te dan un texto sobre animales. ¿Qué puedes hacer?"*
 
-### Options
-- [ ] A) Solo leer.
+### Opciones
+- [ ] A) Solo leer. <!-- feedback: Incorrecto. Solo leer. -->
 - [x] B) Identificar idea, detalles, inferir, opinar. <!-- feedback: Correcto. -->
-- [ ] C) Solo copiar.
-- [ ] D) Solo colorear.
+- [ ] C) Solo copiar. <!-- feedback: Incorrecto. Solo copiar. -->
+- [ ] D) Solo colorear. <!-- feedback: Incorrecto. Solo colorear. -->
 
 ### Explicación Pedagógica
 Aplicar habilidades.
@@ -217,17 +230,18 @@ Aplicar habilidades.
 
 **ID:** `CO-LEC-4-2026-W40-repaso-integral-anual-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Reflexión final.
+**Contexto:** Reflexión final.
 
 ### Enunciado
 *"¿Por qué es importante leer críticamente?"*
 
-### Options
-- [ ] A) No es importante.
+### Opciones
+- [ ] A) No es importante. <!-- feedback: Incorrecto. No es importante. -->
 - [x] B) Para entender mejor, formar opinión y no ser engañado. <!-- feedback: Correcto. -->
-- [ ] C) Solo para la escuela.
-- [ ] D) Para tener buena nota.
+- [ ] C) Solo para la escuela. <!-- feedback: Incorrecto. Solo para la escuela. -->
+- [ ] D) Para tener buena nota. <!-- feedback: Incorrecto. Para tener buena nota. -->
 
 ### Explicación Pedagógica
 Reflexión final.

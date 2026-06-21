@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-7-2026-W40-tema-semana-40-de-lectura-critica-001-MASTERY"
+id: "CO-LEC-7-2026-W40-tema-semana-40-de-lectura-critica-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 12
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 12
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W40 — Tema Semana 40 de Lectura Critica
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Cúcuta
+**Contexto:** I.E. Santa Luisa de Marillac en Cúcuta
 **Expected_Success:** 0.55
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Cúcuta, se discute sobre Tema Semana 40 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 40 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 40 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** I.E. Jorge Eliécer Gaitán en Cali
+**Contexto:** I.E. Jorge Eliécer Gaitán en Cali
 **Expected_Success:** 0.76
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Jorge Eliécer Gaitán en Cali, se discute sobre Tema Semana 40 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 40 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 40 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Sincelejo
+**Contexto:** I.E. Gabriel García Márquez en Sincelejo
 **Expected_Success:** 0.59
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Gabriel García Márquez en Sincelejo, se discute sobre Tema Semana 40 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 40 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 40 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Cali
+**Contexto:** Gimnasio Moderno en Cali
 **Expected_Success:** 0.75
 
 ### Enunciado
 En la clase de Lectura Critica del Gimnasio Moderno en Cali, se discute sobre Tema Semana 40 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 40 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 40 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** Colegio La Presentación en Bogotá
+**Contexto:** Colegio La Presentación en Bogotá
 **Expected_Success:** 0.80
 
 ### Enunciado
 En la clase de Lectura Critica del Colegio La Presentación en Bogotá, se discute sobre Tema Semana 40 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 40 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 40 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Cúcuta
+**Contexto:** I.E. San José en Cúcuta
 **Expected_Success:** 0.79
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. San José en Cúcuta, se discute sobre Tema Semana 40 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 40 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 40 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Pasto
+**Contexto:** I.E. Jorge Eliécer Gaitán en Pasto
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Jorge Eliécer Gaitán en Pasto, se discute sobre Tema Semana 40 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 40 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 40 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Bogotá
+**Contexto:** I.E. Santa Luisa de Marillac en Bogotá
 **Expected_Success:** 0.61
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Bogotá, se discute sobre Tema Semana 40 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 40 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 40 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** I.E. Santa Luisa de Marillac en Cúcuta
+**Contexto:** I.E. Santa Luisa de Marillac en Cúcuta
 **Expected_Success:** 0.72
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Cúcuta, se discute sobre Tema Semana 40 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 40 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 40 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Pasto
+**Contexto:** I.E. San José en Pasto
 **Expected_Success:** 0.71
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. San José en Pasto, se discute sobre Tema Semana 40 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 40 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -244,13 +249,13 @@ El tema de Tema Semana 40 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v11`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Riohacha
+**Contexto:** I.E. Gabriel García Márquez en Riohacha
 **Expected_Success:** 0.57
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. Gabriel García Márquez en Riohacha, se discute sobre Tema Semana 40 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 40 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -266,13 +271,13 @@ El tema de Tema Semana 40 de Lectura Critica es central en el currículo de 7°.
 **ID:** `CO-LEC-7-2026-W00-tema seman-001-MASTERY-v12`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Pasto
+**Contexto:** I.E. San José en Pasto
 **Expected_Success:** 0.53
 
 ### Enunciado
 En la clase de Lectura Critica del I.E. San José en Pasto, se discute sobre Tema Semana 40 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 40 de Lectura Critica <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lectura Critica <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

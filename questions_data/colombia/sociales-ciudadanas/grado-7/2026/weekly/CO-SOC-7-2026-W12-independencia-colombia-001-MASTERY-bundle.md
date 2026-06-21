@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W12-independencia-colombia-001-MASTERY"
+id: "CO-SOC-7-2026-W12-independencia-colombia-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-ciudadanas"
 tema: "independencia-colombia"
-semana: "W12"
+week: "W12"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026 — Pensamiento Social"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Independencia de Colombia — Grado 7
 ## Semana W12 — Proceso de independencia de la Nueva Granada: 1810-1819
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W12-independencia-colombia-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En la clase de sociales del Colegio Agustiniano de Bogotá, la profesora inicia el tema preguntando cuándo se inició formalmente el proceso de independencia de Colombia.
+**Contexto:** En la clase de sociales del Colegio Agustiniano de Bogotá, la profesora inicia el tema preguntando cuándo se inició formalmente el proceso de independencia de Colombia.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ El 20 de julio de 1810 es la fecha fundacional del proceso de independencia colo
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-SOC-7-2026-W12-independencia-colombia-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del colegio de Cali leen un texto sobre el "Florero de Llorente" y su significado histórico.
+**Contexto:** Los estudiantes del colegio de Cali leen un texto sobre el "Florero de Llorente" y su significado histórico.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ El episodio del Florero de Llorente es uno de los eventos más emblemáticos de 
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-SOC-7-2026-W12-independencia-colombia-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Medellín, los estudiantes estudian el período de la "Patria Boba".
+**Contexto:** En el colegio de Medellín, los estudiantes estudian el período de la "Patria Boba".
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -81,11 +85,11 @@ La "Patria Boba" (nombre dado despectivamente por historiadores posteriores) se 
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-SOC-7-2026-W12-independencia-colombia-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Argumentación
-**Context:** En el colegio de Barranquilla, los estudiantes analizan por qué fracasó la Primera República en la Nueva Granada.
+**Contexto:** En el colegio de Barranquilla, los estudiantes analizan por qué fracasó la Primera República en la Nueva Granada.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -102,11 +106,11 @@ La Primera República fracasó principalmente por la desunión de los independen
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-SOC-7-2026-W12-independencia-colombia-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del colegio de Cartagena leen sobre el sitio de Cartagena de 1815 por Pablo Morillo.
+**Contexto:** Los estudiantes del colegio de Cartagena leen sobre el sitio de Cartagena de 1815 por Pablo Morillo.
 **Expected_Success:** 0.77
 
 ### Enunciado
@@ -123,11 +127,11 @@ El sitio de Cartagena (1815) fue uno de los episodios más trágicos de la guerr
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-SOC-7-2026-W12-independencia-colombia-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Pereira, los estudiantes analizan la resistencia patriota durante la Reconquista.
+**Contexto:** En el colegio de Pereira, los estudiantes analizan la resistencia patriota durante la Reconquista.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ Después de la Reconquista española (1815-1816), los patriotas neogranadinos qu
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-SOC-7-2026-W12-independencia-colombia-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Bucaramanga, los estudiantes comparan los roles de Santander y Bolívar en la independencia.
+**Contexto:** En el colegio de Bucaramanga, los estudiantes comparan los roles de Santander y Bolívar en la independencia.
 **Expected_Success:** 0.64
 
 ### Enunciado
@@ -165,11 +169,11 @@ Francisco de Paula Santander (1792-1840), conocido como el "Hombre de las Leyes"
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-SOC-7-2026-W12-independencia-colombia-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Social
-**Context:** En la I.E. de Villavicencio, los estudiantes analizan la Campaña Libertadora de la Nueva Granada de 1819.
+**Contexto:** En la I.E. de Villavicencio, los estudiantes analizan la Campaña Libertadora de la Nueva Granada de 1819.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -186,11 +190,11 @@ La Campaña Libertadora de la Nueva Granada (1819) fue una obra maestra de estra
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-SOC-7-2026-W12-independencia-colombia-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Tunja, los estudiantes analizan el texto del parte de la Batalla de Boyacá.
+**Contexto:** En el colegio de Tunja, los estudiantes analizan el texto del parte de la Batalla de Boyacá.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ La Batalla del Puente de Boyacá (7 de agosto de 1819) fue el enfrentamiento dec
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W12-independencia-colombia-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Manizales, los estudiantes evalúan el significado de la independencia para los diferentes grupos sociales de la Nueva Granada.
+**Contexto:** En el colegio de Manizales, los estudiantes evalúan el significado de la independencia para los diferentes grupos sociales de la Nueva Granada.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -228,11 +232,11 @@ La independencia de Colombia transformó la estructura política pero no elimin�
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-SOC-7-2026-W12-independencia-colombia-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Sincelejo, la profesora pregunta por el papel de las mujeres en la independencia de Colombia.
+**Contexto:** En el colegio de Sincelejo, la profesora pregunta por el papel de las mujeres en la independencia de Colombia.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -249,11 +253,11 @@ Las mujeres jugaron un papel activo pero poco reconocido en la independencia col
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W12-independencia-colombia-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** La profesora de sociales del colegio de Bogotá propone reflexionar sobre el legado del 20 de julio en la Colombia actual.
+**Contexto:** La profesora de sociales del colegio de Bogotá propone reflexionar sobre el legado del 20 de julio en la Colombia actual.
 **Expected_Success:** 0.42
 
 ### Enunciado

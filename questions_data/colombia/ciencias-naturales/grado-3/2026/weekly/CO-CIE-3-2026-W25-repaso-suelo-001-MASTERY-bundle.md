@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY"
+id: "CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "repaso-suelo"
-semana: "W25"
+week: "W25"
 periodo: 3
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Repaso integral sobre el suelo: formación, composición, tipo
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Repaso: El Suelo, Nuestra Base
 
 Este bundle integra todos los conceptos sobre el suelo: de qué está hecho, cómo se clasifica y por qué es un recurso que debemos proteger con urgencia.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Al observar un corte de tierra en una montaña, vemos diferentes materiales mezclados.
+**Contexto:** Al observar un corte de tierra en una montaña, vemos diferentes materiales mezclados.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ El suelo es un sistema complejo. La parte orgánica (humus) da la fertilidad, mi
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Si tomas un puñado de tierra negra y la aprietas, notas que es esponjosa y mantiene un poco la humedad.
+**Contexto:** Si tomas un puñado de tierra negra y la aprietas, notas que es esponjosa y mantiene un poco la humedad.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -73,12 +77,12 @@ El humus es como la "vitamina" del suelo. Viene de hojas, insectos y animales mu
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la alfarería de Ráquira, los artesanos buscan un suelo que sea muy pegajoso y que se pueda moldear con las manos.
+**Contexto:** En la alfarería de Ráquira, los artesanos buscan un suelo que sea muy pegajoso y que se pueda moldear con las manos.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -98,12 +102,12 @@ El suelo arcilloso es impermeable y denso. Por eso es excelente para la industri
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Mariana echa agua en dos macetas: una llena de arena de playa y otra con tierra negra de bosque.
+**Contexto:** Mariana echa agua en dos macetas: una llena de arena de playa y otra con tierra negra de bosque.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ La permeabilidad es la capacidad del suelo de dejar pasar el agua. Los suelos ar
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un agricultor nota que después de una fuerte lluvia, su terreno en la montaña ha perdido la capa negra de arriba y ahora se ve la roca pelada.
+**Contexto:** Un agricultor nota que después de una fuerte lluvia, su terreno en la montaña ha perdido la capa negra de arriba y ahora se ve la roca pelada.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -148,12 +152,12 @@ La erosión es una "enfermedad" de la tierra causada muchas veces por el hombre 
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Las lombrices de tierra son llamadas "los pulmones del suelo" porque siempre están haciendo huecos y canales.
+**Contexto:** Las lombrices de tierra son llamadas "los pulmones del suelo" porque siempre están haciendo huecos y canales.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -173,12 +177,12 @@ El suelo debe ser poroso. El aire es tan necesario en el suelo como en la atmós
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Se necesitan casi 1.000 años para que la naturaleza fabrique apenas tres centímetros de suelo fértil.
+**Contexto:** Se necesitan casi 1.000 años para que la naturaleza fabrique apenas tres centímetros de suelo fértil.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -198,12 +202,12 @@ La formación del suelo es el proceso más lento de la superficie terrestre. Por
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Tienes que elegir un lugar para sembrar una huerta de hortalizas (lechugas, zanahorias, cebollas).
+**Contexto:** Tienes que elegir un lugar para sembrar una huerta de hortalizas (lechugas, zanahorias, cebollas).
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -223,12 +227,12 @@ El éxito de una huerta depende de la calidad del suelo. Un buen suelo debe ser 
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En la industria, el suelo nos da el hierro para los carros, el carbón para la energía y la arena para el vidrio.
+**Contexto:** En la industria, el suelo nos da el hierro para los carros, el carbón para la energía y la arena para el vidrio.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -248,12 +252,12 @@ El suelo es el soporte de todo. A menudo lo ignoramos porque lo pisamos todos lo
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W25-repaso-suelo-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un constructor dice: "Es mejor pavimentar todo el campo para que sea más limpio y no haya barro cuando llueva".
+**Contexto:** Un constructor dice: "Es mejor pavimentar todo el campo para que sea más limpio y no haya barro cuando llueva".
 **Expected_Success:** 0.60
 
 ### Enunciado

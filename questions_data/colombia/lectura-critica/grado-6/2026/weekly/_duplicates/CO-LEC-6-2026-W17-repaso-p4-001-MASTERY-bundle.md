@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-6-2026-W17-repaso-p4-001-MASTERY"
+id: "CO-LEC-6-2026-W17-repaso-p4-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "repaso-p4"
-semana: 17
+week: "W17"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso periodo 4, integración de habilidades, escenarios literarios, descripción de ambientes, comparación de textos, propósitos comunicativos, contraste de perspectivas, tipos de narrador"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G6 — Repaso del Periodo 4
 
@@ -43,12 +50,13 @@ rubric_baseline: "repaso periodo 4, integración de habilidades, escenarios lite
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de tipos de texto
 
 ### Enunciado
 ¿Qué tipo de texto es el Texto 1?
 
-### Options
+### Opciones
 - [ ] A) Un texto expositivo. <!-- feedback: Incorrecto. El Texto 1 tiene personajes (Martín, doña Luz), descripciones subjetivas y una historia. No expone datos objetivos. -->
 - [x] B) Un texto narrativo (cuento). <!-- feedback: Correcto. El Texto 1 narra la experiencia de Martín en la biblioteca, con personajes, descripciones emotivas y una secuencia narrativa. -->
 - [ ] C) Una noticia. <!-- feedback: Incorrecto. El Texto 1 no informa sobre un hecho reciente ni responde a las preguntas básicas del periodismo. -->
@@ -60,12 +68,13 @@ Recordar las características de cada tipo de texto es fundamental. El Texto 1 e
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 Según el Texto 2, ¿cuántas bibliotecas públicas hay aproximadamente en Colombia?
 
-### Options
+### Opciones
 - [ ] A) 500. <!-- feedback: Incorrecto. El texto menciona una cifra mayor. -->
 - [ ] B) 32. <!-- feedback: Incorrecto. 32 son los departamentos, no las bibliotecas. -->
 - [x] C) Más de 1.500. <!-- feedback: Correcto. El Texto 2 dice: "Colombia cuenta con una red de más de 1.500 bibliotecas públicas." -->
@@ -77,12 +86,13 @@ Identificar datos explícitos en un texto expositivo requiere leer con atención
 ## Question 3 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Qué tienen en común ambos textos?
 
-### Options
+### Opciones
 - [ ] A) Ambos son cuentos ficticios. <!-- feedback: Incorrecto. Solo el Texto 1 es un cuento. -->
 - [ ] B) Ambos mencionan a un personaje llamado Martín. <!-- feedback: Incorrecto. Martín solo aparece en el Texto 1. -->
 - [x] C) Ambos tratan sobre bibliotecas, pero desde perspectivas diferentes: el Texto 1 desde la experiencia personal y el Texto 2 desde datos objetivos. <!-- feedback: Correcto. Las bibliotecas son el tema común; lo que cambia es el enfoque: personal vs. informativo. -->
@@ -94,12 +104,13 @@ Identificar el tema común entre dos textos es el primer paso para compararlos. 
 ## Question 4 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Caracterización literaria
 
 ### Enunciado
 En el Texto 1, ¿qué característica del escenario de la biblioteca se destaca principalmente?
 
-### Options
+### Opciones
 - [ ] A) Que es ruidosa y caótica. <!-- feedback: Incorrecto. El texto dice que "el silencio envolvía todo como una manta suave". -->
 - [ ] B) Que está en un centro comercial. <!-- feedback: Incorrecto. La biblioteca "quedaba en una casona colonial" en La Candelaria. -->
 - [x] C) Que es un lugar acogedor, silencioso y lleno de encanto, con luz natural y olor a papel. <!-- feedback: Correcto. Los detalles sensoriales (silencio, olor a papel, luz por la ventana) construyen un ambiente acogedor y tranquilo. -->
@@ -111,12 +122,13 @@ Los escenarios literarios se construyen con detalles sensoriales. En el Texto 1,
 ## Question 5 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué podemos inferir sobre la relación entre Martín y doña Luz en el Texto 1?
 
-### Options
+### Opciones
 - [ ] A) Que no se conocen. <!-- feedback: Incorrecto. Doña Luz le guarda los libros nuevos, lo que indica que lo conoce bien. -->
 - [ ] B) Que doña Luz no quiere que Martín lea. <!-- feedback: Incorrecto. Al guardarle libros, lo anima a leer. -->
 - [x] C) Que hay una relación de confianza y cariño: doña Luz conoce los gustos de Martín y le guarda los libros que le interesan. <!-- feedback: Correcto. "Doña Luz siempre le guardaba los libros nuevos" y le dice "llegó el que estabas esperando" con voz de "secreto", lo que muestra cercanía y confianza. -->
@@ -128,12 +140,13 @@ Las relaciones entre personajes se infieren a partir de sus acciones y diálogos
 ## Question 6 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué diferencia de enfoque hay entre el Texto 1 y el Texto 2 respecto al valor de las bibliotecas?
 
-### Options
+### Opciones
 - [ ] A) El Texto 1 dice que las bibliotecas no son importantes; el Texto 2 dice que sí. <!-- feedback: Incorrecto. Ambos valoran las bibliotecas, pero de distintas maneras. -->
 - [ ] B) Ambos valoran las bibliotecas de la misma forma objetiva. <!-- feedback: Incorrecto. El Texto 1 usa un enfoque subjetivo y emotivo. -->
 - [x] C) El Texto 1 muestra el valor afectivo y personal de la biblioteca en la vida de un niño; el Texto 2 muestra el valor social y estadístico de las bibliotecas como instituciones. <!-- feedback: Correcto. Martín valora la biblioteca como un lugar mágico personal; el Texto 2 la valora como un servicio público con datos (1.500 bibliotecas, 40% de visitantes). -->
@@ -145,12 +158,13 @@ Un mismo tema puede ser abordado desde lo personal y emotivo o desde lo social y
 ## Question 7 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 En el Texto 1, la frase "el silencio envolvía todo como una manta suave" es un ejemplo de:
 
-### Options
+### Opciones
 - [ ] A) Un dato estadístico. <!-- feedback: Incorrecto. No es un dato, es una figura literaria. -->
 - [ ] B) Una hipérbole o exageración. <!-- feedback: Incorrecto. No exagera, compara el silencio con una manta para transmitir la sensación de cobijo. -->
 - [x] C) Una comparación (símil) que personifica el silencio y lo describe como algo acogedor. <!-- feedback: Correcto. "Como una manta suave" es una comparación que transforma el silencio (abstracto) en algo tangible y acogedor. -->
@@ -162,12 +176,13 @@ Las figuras literarias como el símil enriquecen las descripciones narrativas. E
 ## Question 8 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué información del Texto 2 ayuda a entender por qué la biblioteca del Texto 1 es valiosa para su comunidad?
 
-### Options
+### Opciones
 - [ ] A) Que la Biblioteca Nacional fue fundada en 1777. <!-- feedback: Incorrecto. Ese dato no se relaciona directamente con la biblioteca del barrio La Candelaria. -->
 - [ ] B) Que las bibliotecas tienen colecciones reducidas en municipios pequeños. <!-- feedback: Incorrecto. La Candelaria es un barrio de Bogotá, no un municipio pequeño. -->
 - [x] C) Que las bibliotecas públicas ofrecen préstamo de libros y acceso gratuito a la cultura, lo que explica que Martín pueda leer tantos libros sin pagar. <!-- feedback: Correcto. El Texto 2 menciona servicios gratuitos como préstamo de libros, lo que contextualiza por qué Martín puede leer "veinte libros en un año". -->
@@ -179,12 +194,13 @@ La información de un texto puede ayudar a comprender mejor el otro. Esta conexi
 ## Question 9 [D6]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Cuál de los dos textos sería más útil para un alcalde que quiere justificar la inversión en bibliotecas públicas ante el concejo municipal?
 
-### Options
+### Opciones
 - [ ] A) El Texto 1, porque es emotivo y conmueve. <!-- feedback: Incorrecto. Aunque un texto emotivo puede ayudar, para justificar una inversión se necesitan datos objetivos. -->
 - [x] B) El Texto 2, porque proporciona datos concretos (1.500 bibliotecas, alcance nacional, servicios ofrecidos) que respaldan una decisión de política pública. <!-- feedback: Correcto. Un alcalde necesita datos verificables y objetivos para justificar inversiones. El Texto 2 ofrece esos datos. -->
 - [ ] C) Ambos por igual. <!-- feedback: Incorrecto. Cada texto sirve a propósitos distintos; el Texto 2 es más adecuado para fines administrativos. -->
@@ -196,12 +212,13 @@ Evaluar la utilidad de un texto según el contexto y la necesidad del lector es 
 ## Question 10 [D6]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Qué elemento del Texto 1 NO podría aparecer en el Texto 2 sin cambiar su género y propósito?
 
-### Options
+### Opciones
 - [ ] A) La mención de que las bibliotecas ofrecen préstamo de libros. <!-- feedback: Incorrecto. Eso sí podría aparecer en un texto expositivo. -->
 - [ ] B) El dato de que la Biblioteca Nacional fue fundada en 1777. <!-- feedback: Incorrecto. Ese dato encaja perfectamente en un texto expositivo. -->
 - [x] C) La frase "Martín sonreía, tomaba el libro y se sentía el niño más afortunado del mundo". <!-- feedback: Correcto. Esta expresión subjetiva y emotiva no encajaría en un texto expositivo que debe mantener objetividad. En el Texto 2 no hay emociones ni personajes. -->

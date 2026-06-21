@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY"
+id: "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "fruits-vegetables"
 periodo: "weekly"
-semana: 18
+week: "W18"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "Vocabulary for fruits and vegetables: apple, banana, carrot, p
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W18: Fruits and Vegetables (A1)
 
@@ -32,11 +37,12 @@ Este bundle evalúa el vocabulario de frutas y verduras en inglés.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is this fruit: 🍎 ?
 
-### Options
+### Opciones
 - [x] A) Apple <!-- feedback: Correct! This is an apple. -->
 - [ ] B) Banana <!-- feedback: Incorrect. -->
 - [ ] C) Orange <!-- feedback: Incorrect. -->
@@ -52,11 +58,12 @@ La manzana se dice "apple". Puede ser roja o verde.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is this fruit: 🍌 ?
 
-### Options
+### Opciones
 - [ ] A) Apple <!-- feedback: Incorrect. -->
 - [x] B) Banana <!-- feedback: Correct! -->
 - [ ] C) Grapes <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ El banano o plátano se dice "banana" igual que en español, pero se pronuncia d
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What fruit is **orange** and has the same name as the color?
 
-### Options
+### Opciones
 - [ ] A) Lemon <!-- feedback: Incorrect. -->
 - [x] B) Orange <!-- feedback: Correct! The fruit is an orange. -->
 - [ ] C) Apple <!-- feedback: Incorrect. -->
@@ -92,11 +100,12 @@ La naranja se dice "orange". Es la fruta y el color.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Zanahoria"** in English?
 
-### Options
+### Opciones
 - [ ] A) Potato <!-- feedback: Incorrect. -->
 - [ ] B) Tomato <!-- feedback: Incorrect. -->
 - [x] C) Carrot <!-- feedback: Correct! Carrot is zanahoria. -->
@@ -112,11 +121,12 @@ La zanahoria se dice "carrot". A los conejos les encantan.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Papa"** in English?
 
-### Options
+### Opciones
 - [x] A) Potato <!-- feedback: Correct! Potato is papa. -->
 - [ ] B) Tomato <!-- feedback: Incorrect. Tomato is tomate. -->
 - [ ] C) Pear <!-- feedback: Incorrect. -->
@@ -132,11 +142,12 @@ La papa se dice "potato".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Uvas"** in English?
 
-### Options
+### Opciones
 - [ ] A) Pears <!-- feedback: Incorrect. -->
 - [ ] B) Cherries <!-- feedback: Incorrect. -->
 - [x] C) Grapes <!-- feedback: Correct! Grapes are uvas. -->
@@ -152,11 +163,12 @@ Las uvas se dicen "grapes".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Fresa"** in English?
 
-### Options
+### Opciones
 - [ ] A) Blackberry <!-- feedback: Incorrect. -->
 - [x] B) Strawberry <!-- feedback: Correct! Strawberry is fresa. -->
 - [ ] C) Blueberry <!-- feedback: Incorrect. -->
@@ -172,11 +184,12 @@ La fresa se dice "strawberry".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Which one is a **vegetable**?
 
-### Options
+### Opciones
 - [ ] A) Apple <!-- feedback: Incorrect. Fruit. -->
 - [ ] B) Banana <!-- feedback: Incorrect. Fruit. -->
 - [x] C) Onion <!-- feedback: Correct! Onion (cebolla) is a vegetable. -->
@@ -192,11 +205,12 @@ La cebolla se dice "onion" y es una verdura o vegetal.
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What color is a **pear** usually?
 
-### Options
+### Opciones
 - [x] A) Green <!-- feedback: Correct! Pears are often green. -->
 - [ ] B) Blue <!-- feedback: Incorrect. -->
 - [ ] C) Pink <!-- feedback: Incorrect. -->
@@ -212,11 +226,12 @@ La pera se dice "pear" y suele ser de color verde (green).
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is a **"Watermelon"**?
 
-### Options
+### Opciones
 - [ ] A) Piña <!-- feedback: Incorrect. Pineapple is piña. -->
 - [x] B) Sandía <!-- feedback: Correct! Watermelon is sandía. -->
 - [ ] C) Melón <!-- feedback: Incorrect. -->

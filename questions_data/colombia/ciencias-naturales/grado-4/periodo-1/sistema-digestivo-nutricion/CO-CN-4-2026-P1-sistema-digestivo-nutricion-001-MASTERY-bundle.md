@@ -1,5 +1,5 @@
 ---
-id: "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY"
+id: "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "ciencias-naturales"
@@ -16,19 +16,27 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Entorno vivo, Ciencia, tecnología y sociedad"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 ## Question 1 [D3]
 
 **ID:** `CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento científico]
-**Context:** La hora del almuerzo en un colegio de Bogotá.
+**Contexto:** La hora del almuerzo en un colegio de Bogotá.
 
 ### Enunciado
 Cuando masticas un trozo de arepa, el proceso de digestión comienza en la boca. ¿Qué sustancia producida por el cuerpo ayuda a humedecer los alimentos y comenzar a descomponerlos químicamente en este primer paso?
 
-### Options
+### Opciones
 - [ ] A) Jugo gástrico <!-- feedback: Incorrect. El jugo gástrico se produce en el estómago, no en la boca. Su función es descomponer los alimentos más adelante en el proceso. -->
 - [x] B) Saliva <!-- feedback: Correct. La saliva es producida por las glándulas salivales en la boca; contiene enzimas que inician la digestión de los carbohidratos y humedecen el alimento para formar el bolo alimenticio. -->
 - [ ] C) Bilis <!-- feedback: Incorrect. La bilis es producida por el hígado y ayuda en la digestión de las grasas en el intestino delgado, no en la boca. -->
@@ -42,14 +50,15 @@ Se evalúa el conocimiento sobre las etapas iniciales de la digestión. La respu
 ## Question 2 [D4]
 
 **ID:** `CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-v2`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Explicación de fenómenos]
-**Context:** Un video educativo sobre el viaje de la comida.
+**Contexto:** Un video educativo sobre el viaje de la comida.
 
 ### Enunciado
 Después de tragar el alimento, este pasa por un tubo largo y muscular que conecta la boca con el estómago. ¿Cuál es el nombre de este órgano?
 
-### Options
+### Opciones
 - [ ] A) Tráquea <!-- feedback: Incorrect. La tráquea es parte del sistema respiratorio y conduce el aire a los pulmones. Si la comida entra allí, la persona se atora. -->
 - [x] B) Esófago <!-- feedback: Correct. El esófago es el conducto del sistema digestivo que transporta el bolo alimenticio desde la faringe hasta el estómago mediante movimientos llamados peristálticos. -->
 - [ ] C) Intestino delgado <!-- feedback: Incorrect. El intestino delgado se encuentra después del estómago, no entre la boca y el estómago. -->
@@ -63,14 +72,15 @@ Se evalúa la identificación de los órganos del tracto digestivo y su ubicaci�
 ## Question 3 [D4]
 
 **ID:** `CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento científico]
-**Context:** Visita a un museo de ciencias en Medellín.
+**Contexto:** Visita a un museo de ciencias en Medellín.
 
 ### Enunciado
 ¿En qué órgano del sistema digestivo ocurre la mayor parte de la absorción de los nutrientes para que pasen a la sangre y lleguen a todo el cuerpo?
 
-### Options
+### Opciones
 - [ ] A) Estómago <!-- feedback: Incorrect. En el estómago se realiza principalmente una descomposición química y mecánica, pero la absorción de nutrientes es mínima allí. -->
 - [x] B) Intestino delgado <!-- feedback: Correct. El intestino delgado tiene paredes especializadas con vellosidades que permiten que los nutrientes ya digeridos pasen al torrente sanguíneo. -->
 - [ ] C) Intestino grueso <!-- feedback: Incorrect. El intestino grueso se encarga principalmente de absorber agua y formar las heces, no de absorber la mayoría de los nutrientes. -->
@@ -84,14 +94,15 @@ Se evalúa la función de absorción dentro del proceso digestivo. La respuesta 
 ## Question 4 [D3]
 
 **ID:** `CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-v4`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Ciencia, tecnología y sociedad]
-**Context:** Charla sobre nutrición en un centro de salud de Cali.
+**Contexto:** Charla sobre nutrición en un centro de salud de Cali.
 
 ### Enunciado
 Para crecer sanos y tener energía para jugar fútbol, los niños deben consumir alimentos ricos en proteínas. ¿Cuál de estos alimentos es una excelente fuente de proteína en la dieta colombiana?
 
-### Options
+### Opciones
 - [ ] A) Panela <!-- feedback: Incorrect. La panela es principalmente una fuente de carbohidratos (energía rápida), pero no aporta las proteínas necesarias para la formación de tejidos. -->
 - [x] B) Huevo <!-- feedback: Correct. El huevo es una de las fuentes de proteína más completas y accesibles, esencial para el crecimiento de los músculos y tejidos en los niños. -->
 - [ ] C) Aceite de girasol <!-- feedback: Incorrect. El aceite es una fuente de lípidos o grasas, que son importantes pero tienen una función diferente a las proteínas. -->
@@ -105,14 +116,15 @@ Se evalúa la clasificación de los alimentos según sus nutrientes principales.
 ## Question 5 [D4]
 
 **ID:** `CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-v5`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Explicación de fenómenos]
-**Context:** Situación cotidiana después de comer mucho en una fiesta.
+**Contexto:** Situación cotidiana después de comer mucho en una fiesta.
 
 ### Enunciado
 Si una persona no consume suficiente agua y fibra (que se encuentra en frutas y verduras), su intestino grueso tendrá dificultades para eliminar los desechos. ¿Qué problema de salud podría presentar?
 
-### Options
+### Opciones
 - [ ] A) Caries dentales <!-- feedback: Incorrect. Las caries se relacionan con la higiene bucal y el exceso de azúcar, no con la falta de fibra en el sistema digestivo inferior. -->
 - [ ] B) Gripe <!-- feedback: Incorrect. La gripe es una enfermedad respiratoria causada por virus, no tiene relación directa con el consumo de fibra. -->
 - [x] C) Estreñimiento <!-- feedback: Correct. La fibra y el agua son necesarias para que el intestino grueso pueda mover los desechos y formar las heces correctamente. Su falta causa dificultad para evacuar. -->
@@ -126,14 +138,15 @@ Se evalúa la relación entre la dieta y el funcionamiento de los órganos diges
 ## Question 6 [D5]
 
 **ID:** `CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-v6`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento científico]
-**Context:** Esquema del sistema digestivo en el libro de texto.
+**Contexto:** Esquema del sistema digestivo en el libro de texto.
 
 ### Enunciado
 El hígado y el páncreas son órganos que no están en el "tubo" digestivo por donde pasa la comida, pero son fundamentales porque:
 
-### Options
+### Opciones
 - [ ] A) Almacenan la comida por varios días para que no tengamos hambre. <!-- feedback: Incorrect. Ningún órgano del sistema digestivo almacena comida por días; el proceso de digestión dura unas pocas horas. -->
 - [x] B) Producen sustancias químicas (jugos) que ayudan a descomponer las grasas y proteínas. <!-- feedback: Correct. El hígado produce bilis y el páncreas jugos pancreáticos que se vierten al intestino para completar la digestión química. -->
 - [ ] C) Se encargan de masticar los alimentos más duros que llegan al estómago. <!-- feedback: Incorrect. La masticación solo ocurre en la boca. Estos órganos funcionan de manera química, no mecánica. -->
@@ -147,14 +160,15 @@ Se evalúa el papel de las glándulas anexas en la digestión. La respuesta corr
 ## Question 7 [D5]
 
 **ID:** `CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-v7`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Formulación de hipótesis]
-**Context:** Un experimento sobre la digestión de carbohidratos.
+**Contexto:** Un experimento sobre la digestión de carbohidratos.
 
 ### Enunciado
 Si pones un trozo de galleta en tu boca y lo dejas allí sin tragar por un minuto, notarás que empieza a saber dulce. Esto sucede porque la saliva está rompiendo el almidón de la galleta. ¿Qué pasaría con la digestión si una persona produjera muy poca saliva?
 
-### Options
+### Opciones
 - [ ] A) La comida llegaría más rápido al estómago. <!-- feedback: Incorrect. Al contrario, sin saliva el bolo alimenticio sería seco y difícil de tragar, moviéndose más lento y con dolor. -->
 - [ ] B) Se absorberían más vitaminas en el intestino grueso. <!-- feedback: Incorrect. La producción de saliva no afecta la capacidad de absorción del intestino grueso, que ocurre mucho después. -->
 - [x] C) Sería más difícil tragar y la digestión de las harinas sería incompleta. <!-- feedback: Correct. La saliva es esencial para lubricar el alimento (facilitar el paso) y para iniciar la descomposición de los carbohidratos (harinas/almidones). -->
@@ -168,14 +182,15 @@ Se evalúa la capacidad de predecir consecuencias basadas en el funcionamiento d
 ## Question 8 [D4]
 
 **ID:** `CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-v8`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Ciencia, tecnología y sociedad]
-**Context:** Lectura de etiquetas en productos de la tienda del barrio.
+**Contexto:** Lectura de etiquetas en productos de la tienda del barrio.
 
 ### Enunciado
 En la pirámide alimenticia, las grasas y los dulces se encuentran en la punta más pequeña. ¿Qué significa esto para nuestra salud?
 
-### Options
+### Opciones
 - [ ] A) Que debemos comerlos en todas las comidas del día para ser fuertes. <!-- feedback: Incorrect. Las grasas y azúcares en exceso causan problemas de salud como obesidad y diabetes. -->
 - [ ] B) Que son los alimentos más importantes para el crecimiento de los huesos. <!-- feedback: Incorrect. Para los huesos es más importante el calcio y las vitaminas presentes en lácteos y verduras. -->
 - [x] C) Que debemos consumirlos en cantidades muy pequeñas y ocasionalmente. <!-- feedback: Correct. Al estar en la punta más estrecha, la pirámide indica que nuestro cuerpo necesita muy poco de estos alimentos para funcionar bien. -->
@@ -189,14 +204,15 @@ Se evalúa la interpretación de modelos gráficos sobre nutrición. La respuest
 ## Question 9 [D5]
 
 **ID:** `CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-v9`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento científico]
-**Context:** Comparación entre los dientes de un perro y los de un niño.
+**Contexto:** Comparación entre los dientes de un perro y los de un niño.
 
 ### Enunciado
 Los seres humanos tenemos diferentes tipos de dientes: incisivos para cortar, caninos para desgarrar y molares para triturar. ¿Por qué es importante tener esta variedad de dientes para nuestra nutrición?
 
-### Options
+### Opciones
 - [ ] A) Porque así se ven más bonitos cuando nos tomamos una foto. <!-- feedback: Incorrect. La función de los dientes es biológica y digestiva, no puramente estética. -->
 - [ ] B) Porque así podemos respirar mejor mientras comemos. <!-- feedback: Incorrect. Los dientes no tienen una función en el intercambio de gases de la respiración. -->
 - [x] C) Porque nos permite comer diferentes tipos de alimentos (carne, frutas, granos). <!-- feedback: Correct. Al ser omnívoros, necesitamos herramientas diferentes para procesar mecánicamente la variedad de texturas de nuestra dieta. -->
@@ -210,14 +226,15 @@ Se evalúa la relación entre la anatomía y la función dietética. La respuest
 ## Question 10 [D5]
 
 **ID:** `CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-v10`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Explicación de fenómenos]
-**Context:** Un caso de indigestión por comer muy rápido.
+**Contexto:** Un caso de indigestión por comer muy rápido.
 
 ### Enunciado
 Si un estudiante de cuarto grado come su almuerzo muy rápido, casi sin masticar, y se va a correr inmediatamente, es probable que sienta dolor de estómago. ¿A qué se debe esto principalmente?
 
-### Options
+### Opciones
 - [ ] A) A que la comida se fue directamente a los pulmones por el esfuerzo. <!-- feedback: Incorrect. La comida no llega a los pulmones a menos que haya un accidente grave de atragantamiento; el dolor de estómago tiene otra causa. -->
 - [x] B) A que el estómago tiene que trabajar mucho más para deshacer trozos grandes de comida. <!-- feedback: Correct. La digestión mecánica (masticar) facilita la digestión química. Trozos grandes requieren más ácido y tiempo, causando pesadez y dolor. -->
 - [ ] C) A que el páncreas dejó de producir insulina por el ejercicio. <!-- feedback: Incorrect. La insulina regula el azúcar, pero el dolor inmediato por no masticar se debe al esfuerzo mecánico del estómago. -->

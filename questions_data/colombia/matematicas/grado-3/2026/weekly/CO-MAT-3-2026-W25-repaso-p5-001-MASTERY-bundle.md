@@ -1,11 +1,11 @@
 ---
-id: "CO-MAT-3-2026-W25-repaso-p5-001-MASTERY"
+id: "CO-MAT-3-2026-W25-repaso-p5-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "matematicas"
 tema: "repaso-p5"
 periodo: "weekly"
-semana: 25
+week: "W25"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -20,7 +20,12 @@ rubric_baseline: "repaso integrador de datos, graficas y probabilidad"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W25: Repaso Periodo 5
 
@@ -31,12 +36,12 @@ Este bundle evalua repaso integrador de datos, graficas y probabilidad, en conte
 **Bloom:** Remember
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.95
-**Context:** En Colegio El Rosario de Ibague de Barranquilla
+**Contexto:** En Colegio El Rosario de Ibague de Barranquilla
 
 ### Enunciado
 En un pictograma, cada cara feliz representa 2 estudiantes. Hay 5 caras. Cuantos estudiantes son?
 
-### Options
+### Opciones
 - [x] A) 10 <!-- feedback: Correcto! 5 x 2 = 10 estudiantes. -->
 - [ ] B) 5 <!-- feedback: 5 son las caras, cada una vale 2 estudiantes. -->
 - [ ] C) 7 <!-- feedback: 5+2=7. Debes multiplicar. -->
@@ -51,12 +56,12 @@ Pictograma: cada simbolo tiene un valor. 5 caras x 2 estudiantes = 10.
 **Bloom:** Understand
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.91
-**Context:** En Colegio San Agustin de Sincelejo de Manizales
+**Contexto:** En Colegio San Agustin de Sincelejo de Manizales
 
 ### Enunciado
 En una encuesta, 8 estudiantes prefieren matematicas, 5 prefieren ciencias y 3 prefieren ingles. Cual materia tiene mas preferencia?
 
-### Options
+### Opciones
 - [x] A) Matematicas <!-- feedback: Correcto! 8 > 5 > 3. -->
 - [ ] B) Ciencias <!-- feedback: 5 < 8. Matematicas tiene mas. -->
 - [ ] C) Ingles <!-- feedback: 3 es el menor. -->
@@ -71,12 +76,12 @@ Compara las frecuencias: Matematicas=8, Ciencias=5, Ingles=3. La mayor es matema
 **Bloom:** Apply
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.87
-**Context:** En Colegio San Agustin de Sincelejo de Bucaramanga
+**Contexto:** En Colegio San Agustin de Sincelejo de Bucaramanga
 
 ### Enunciado
 En una grafica de barras, la barra de fresa llega a 6 y la de chocolate a 9. Cual es la diferencia?
 
-### Options
+### Opciones
 - [x] A) 3 <!-- feedback: Correcto! 9 - 6 = 3. -->
 - [ ] B) 15 <!-- feedback: 9+6=15, debes restar para encontrar la diferencia. -->
 - [ ] C) 6 <!-- feedback: 9-6=3. -->
@@ -91,12 +96,12 @@ Diferencia = valor mayor - valor menor = 9 - 6 = 3.
 **Bloom:** Analyze
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.83
-**Context:** En Instituto Tecnico Industrial de Cali
+**Contexto:** En Instituto Tecnico Industrial de Cali
 
 ### Enunciado
 Cual de estos eventos es IMPOSIBLE?
 
-### Options
+### Opciones
 - [x] A) Que llueva caramelos <!-- feedback: Correcto! Los caramelos no caen del cielo. -->
 - [ ] B) Que llueva manana <!-- feedback: Es posible, depende del clima. -->
 - [ ] C) Que salga sol <!-- feedback: Es posible. -->
@@ -111,12 +116,12 @@ Evento imposible = no puede ocurrir jamas. Llover caramelos va contra las leyes 
 **Bloom:** Evaluate
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.79
-**Context:** En Gimnasio Campestre de Tunja de Cali
+**Contexto:** En Gimnasio Campestre de Tunja de Cali
 
 ### Enunciado
 Lanzas una moneda. Que probabilidad hay de que caiga cara?
 
-### Options
+### Opciones
 - [x] A) 1 de 2 (50%) <!-- feedback: Correcto! Moneda: 2 resultados posibles, 1 favorable. -->
 - [ ] B) 1 de 4 (25%) <!-- feedback: 25% es para 1 de 4. Moneda tiene 2 opciones. -->
 - [ ] C) 1 de 1 (100%) <!-- feedback: Si fuera 100%, siempre saldria cara. -->
@@ -131,12 +136,12 @@ Probabilidad = casos favorables / casos posibles. Moneda: 1 cara / 2 opciones = 
 **Bloom:** Remember
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.75
-**Context:** En Gimnasio Campestre de Tunja de Pereira
+**Contexto:** En Gimnasio Campestre de Tunja de Pereira
 
 ### Enunciado
 En una tabla de datos: lunes 15 ventas, martes 20, miercoles 18. Cual dia se vendio mas?
 
-### Options
+### Opciones
 - [x] A) Martes, 20 <!-- feedback: Correcto! 20 es el mayor de los tres. -->
 - [ ] B) Lunes, 15 <!-- feedback: 15 es el menor. -->
 - [ ] C) Miercoles, 18 <!-- feedback: 18 es mayor que 15 pero menor que 20. -->
@@ -151,12 +156,12 @@ Compara los valores en la tabla. Martes tiene la frecuencia mas alta (20).
 **Bloom:** Understand
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.71
-**Context:** En Inem Santiago Perez de Armenia de Neiva
+**Contexto:** En Inem Santiago Perez de Armenia de Neiva
 
 ### Enunciado
 Si en una bolsa hay 3 canicas rojas y 1 azul, cual color es MAS PROBABLE de sacar?
 
-### Options
+### Opciones
 - [x] A) Roja, porque hay mas <!-- feedback: Correcto! 3 rojas > 1 azul, mas probable sacar roja. -->
 - [ ] B) Azul, es mas especial <!-- feedback: La probabilidad depende de la cantidad. -->
 - [ ] C) Ambas igual <!-- feedback: No, hay diferente cantidad. -->
@@ -171,12 +176,12 @@ A mayor cantidad de un color, mayor probabilidad de sacarlo. 3/4 roja vs 1/4 azu
 **Bloom:** Apply
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.67
-**Context:** En Colegio San Jose de Pasto de Popayan
+**Contexto:** En Colegio San Jose de Pasto de Popayan
 
 ### Enunciado
 Cual evento es SEGURO?
 
-### Options
+### Opciones
 - [ ] A) El sol saldra manana <!-- feedback: Es muy probable pero no 100% seguro. -->
 - [x] B) Un triangulo tiene 3 lados <!-- feedback: Correcto! Todos los triangulos tienen 3 lados. -->
 - [ ] C) Manana llovera <!-- feedback: No se puede asegurar. -->
@@ -191,12 +196,12 @@ Evento seguro = ocurre siempre. Todos los triangulos tienen 3 lados, es una defi
 **Bloom:** Analyze
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.63
-**Context:** En Colegio San Jose de Pasto de Medellin
+**Contexto:** En Colegio San Jose de Pasto de Medellin
 
 ### Enunciado
 En una grafica de barras, la barra mas alta indica:
 
-### Options
+### Opciones
 - [x] A) La categoria con mayor frecuencia <!-- feedback: Correcto! Barra mas alta = mayor cantidad. -->
 - [ ] B) La categoria mas importante <!-- feedback: La altura representa la cantidad numerica. -->
 - [ ] C) La categoria mas pequena <!-- feedback: Barra mas pequena = menor frecuencia. -->
@@ -211,12 +216,12 @@ En graficas de barras, la altura de cada barra representa la frecuencia de esa c
 **Bloom:** Evaluate
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.59
-**Context:** En Colegio San Agustin de Sincelejo de Bucaramanga
+**Contexto:** En Colegio San Agustin de Sincelejo de Bucaramanga
 
 ### Enunciado
 En un pictograma, cada cara feliz representa 2 estudiantes. Hay 5 caras. Cuantos estudiantes son?
 
-### Options
+### Opciones
 - [x] A) 10 <!-- feedback: Correcto! 5 x 2 = 10 estudiantes. -->
 - [ ] B) 5 <!-- feedback: 5 son las caras, cada una vale 2 estudiantes. -->
 - [ ] C) 7 <!-- feedback: 5+2=7. Debes multiplicar. -->

@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-6-2026-W37-coma-dos-puntos-001-MASTERY"
+id: "CO-LEC-6-2026-W37-coma-dos-puntos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "Usos Avanzados de la Coma y los Dos Puntos — Coma explicativa, coma vocativa, coma de elipsis, dos puntos en citas y enumeraciones"
-semana: 37
+week: "W37"
 year: 2026
 periodo: 4
 bundle_type: "weekly"
@@ -25,7 +25,9 @@ quality_score: 94
 quality_reviewer: "QR-Automated-v3"
 quality_date: "2026-06-09"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W37 — Usos Avanzados de la Coma y los Dos Puntos
 
@@ -56,12 +58,13 @@ quality_date: "2026-06-09"
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de códigos y convenciones del lenguaje
 
 ### Enunciado
 En el Fragmento 1 — "El director de la biblioteca, una persona muy querida en el barrio, inauguró la nueva sala infantil" — las comas que encierran "una persona muy querida en el barrio" se llaman:
 
-### Options
+### Opciones
 - [ ] A) Comas enumerativas (separan elementos de una lista). <!-- feedback: Incorrecto. No hay una lista; hay una aclaración. -->
 - [x] B) Comas explicativas (encierran una aclaración o información adicional sobre el sujeto). <!-- feedback: Correcto. "una persona muy querida en el barrio" es una aclaración que añade información sobre el director. Si se elimina, la oración principal sigue siendo gramatical y con sentido: "El director de la biblioteca inauguró la nueva sala infantil". -->
 - [ ] C) Comas vocativas (separan al interlocutor). <!-- feedback: Incorrecto. No se está llamando a nadie; se está dando información adicional sobre el director. -->
@@ -73,12 +76,13 @@ Identificación de la coma explicativa: su función es encerrar incisos o aclara
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de códigos y convenciones del lenguaje
 
 ### Enunciado
 En el Fragmento 2 — "Los libros más prestados fueron: *Cien años de soledad*, *La vorágine* y *El principito*" — los dos puntos (:) tienen la función de:
 
-### Options
+### Opciones
 - [ ] A) Introducir una cita textual. <!-- feedback: Incorrecto. Aunque los dos puntos pueden introducir citas, aquí no hay una cita sino una enumeración de títulos. -->
 - [x] B) Anunciar una enumeración o lista de elementos. <!-- feedback: Correcto. Los dos puntos preceden a la lista de los tres libros más prestados. Es uno de los usos más comunes de este signo. -->
 - [ ] C) Separar dos oraciones independientes. <!-- feedback: Incorrecto. Los dos puntos no separan oraciones; conectan una idea general con su desarrollo. -->
@@ -90,12 +94,13 @@ Función enumerativa de los dos puntos: anuncian que viene una lista de elemento
 ## Question 3 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 En el Fragmento 3 — "Señor bibliotecario, ¿podría recomendarnos un libro de ciencia ficción?" — la coma después de "Señor bibliotecario" se llama coma vocativa. ¿Cuál es su función?
 
-### Options
+### Opciones
 - [x] A) Separar el nombre de la persona a quien se le habla del resto de la oración. <!-- feedback: Correcto. La coma vocativa se usa para aislar el nombre, apelativo o tratamiento de la persona o personas a las que nos dirigimos. Sin ella, el nombre se integraría al resto de la oración y cambiaría el sentido. -->
 - [ ] B) Indicar que el señor bibliotecario está leyendo. <!-- feedback: Incorrecto. La coma no indica acciones de la persona. -->
 - [ ] C) Separar elementos de una enumeración. <!-- feedback: Incorrecto. Solo hay un elemento ("Señor bibliotecario"), no una lista. -->
@@ -107,12 +112,13 @@ Comprensión de la coma vocativa: en el lenguaje oral, hacemos una pausa natural
 ## Question 4 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 En el Fragmento 4 — "María leyó tres libros en el mes; Juan, dos; Pedro, solo uno" — ¿qué función cumple la coma después de "Juan" y después de "Pedro"?
 
-### Options
+### Opciones
 - [ ] A) Separar los nombres de las personas. <!-- feedback: Incorrecto. Los nombres están separados por punto y coma (;), no por comas. -->
 - [ ] B) Marcar una pausa para respirar al leer. <!-- feedback: Incorrecto. Aunque las comas marcan pausas, esa no es la función específica aquí. -->
 - [x] C) Sustituir el verbo "leyó" que ya se mencionó al inicio de la oración. Es una coma de elipsis. <!-- feedback: Correcto. La coma de elipsis reemplaza al verbo "leyó" para evitar repeticiones innecesarias. María leyó tres libros; Juan (leyó) dos; Pedro (leyó) solo uno. Es un recurso de economía del lenguaje. -->
@@ -124,12 +130,13 @@ Comprensión de la coma de elipsis: en español, podemos omitir un verbo que ya 
 ## Question 5 [D5]
 
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 En el Fragmento 5 — "El profesor dijo: 'Lean al menos veinte minutos al día y verán cómo mejora su comprensión lectora'" — ¿por qué se usan dos puntos (:) antes de la cita?
 
-### Options
+### Opciones
 - [ ] A) Porque siempre se usan dos puntos antes de una enumeración. <!-- feedback: Incorrecto. Aquí no hay enumeración, hay una cita textual. -->
 - [ ] B) Porque "dijo" siempre debe ir seguido de dos puntos. <!-- feedback: Incorrecto. Si el profesor hubiera dicho algo sin ser cita textual, no llevarían dos puntos. -->
 - [x] C) Porque los dos puntos introducen una cita textual de lo que el profesor dijo. Es una convención del estilo directo. <!-- feedback: Correcto. En el estilo directo, cuando reproducimos exactamente las palabras de alguien, usamos dos puntos antes de la cita (que además va entre comillas). -->
@@ -141,6 +148,7 @@ Aplicación de los dos puntos en el estilo directo: cuando reproducimos literalm
 ## Question 6 [D5]
 
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
@@ -154,7 +162,7 @@ Ahora lee esta versión sin comas:
 
 ¿Cuál es la diferencia de significado?
 
-### Options
+### Opciones
 - [ ] A) No hay diferencia; las comas son decorativas. <!-- feedback: Incorrecto. Las comas cambian radicalmente el significado. -->
 - [x] B) Con comas, TODOS los estudiantes recibieron certificado (la información sobre la lectura es adicional). Sin comas, solo los QUE LEYERON recibieron certificado (la lectura es un requisito necesario). <!-- feedback: Correcto. Las comas en la primera oración indican que la información sobre la lectura es un inciso explicativo: todos leyeron, todos recibieron. Sin comas, "que habían leído el informe" especifica un requisito: solo los que leyeron recibieron certificado. En gramática, esto se llama oración explicativa (con comas) vs. especificativa (sin comas). -->
 - [ ] C) Con comas, los certificados eran de lectura; sin comas, eran de otra cosa. <!-- feedback: Incorrecto. El tipo de certificado no cambia. -->
@@ -166,6 +174,7 @@ Aplicación de la diferencia entre oraciones explicativas (con comas) y especifi
 ## Question 7 [D6]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
@@ -176,7 +185,7 @@ Analiza el siguiente diálogo entre dos estudiantes de la Biblioteca Pública Pi
 
 ¿Qué función cumple la coma después de "casa" en la respuesta de Carlos?
 
-### Options
+### Opciones
 - [ ] A) Separar dos acciones diferentes. <!-- feedback: Incorrecto. Solo hay una acción (responder). -->
 - [x] B) Marcar la coma vocativa, separando la respuesta ("En mi casa") del nombre de la persona a quien se dirige ("Sofía"). <!-- feedback: Correcto. Carlos responde a Sofía, y al decir su nombre, lo separa con una coma para indicar que se dirige a ella directamente. Sin la coma, "En mi casa Sofía" podría interpretarse como el nombre de un lugar ("Casa Sofía"). -->
 - [ ] C) Indicar que la respuesta es incompleta. <!-- feedback: Incorrecto. La respuesta es completa. -->
@@ -188,6 +197,7 @@ Análisis de la coma vocativa en diálogos cotidianos: la coma evita la ambigüe
 ## Question 8 [D6]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
@@ -197,7 +207,7 @@ Un estudiante escribió en su informe:
 
 ¿Qué error de puntuación contiene esta oración?
 
-### Options
+### Opciones
 - [ ] A) Faltan comillas en los títulos de los libros. <!-- feedback: Parcialmente cierto, pero no es el único problema. -->
 - [ ] B) Sobran los dos puntos después de "son". <!-- feedback: Incorrecto. Los dos puntos antes de una enumeración son correctos. -->
 - [ ] C) Falta la coma antes de "y" en la enumeración (coma de serie). <!-- feedback: Parcialmente correcto, pero hay un problema mayor. -->
@@ -209,6 +219,7 @@ Análisis de un error común: cuando los elementos de una enumeración contienen
 ## Question 9 [D6 — Contexto colombiano]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
@@ -218,7 +229,7 @@ Lee el siguiente letrero en una frutería del mercado de Sincelejo:
 
 ¿Qué error(s) de puntuación encuentras en este letrero?
 
-### Options
+### Opciones
 - [ ] A) Falta un punto al final. <!-- feedback: Incorrecto. El letrero tiene punto final. -->
 - [ ] B) Los dos puntos después de "Señora" están mal usados; debería ser coma vocativa. <!-- feedback: Incorrecto. Los dos puntos después de "Señora" no son del todo incorrectos en carteles, aunque la coma sería más natural. -->
 - [x] C) El primer grupo de dos puntos después de "Señora" debería ser una coma vocativa ("Señora, Doña María vende..."), y además falta el verbo en tercera persona: "Doña María vende" (singular). Los dos puntos antes de "todo fresco" están bien como anuncio de explicación. <!-- feedback: Correcto. "Señora" es una apelación a la clienta, por lo que debe ir seguido de coma vocativa. Además, "Doña María" es una persona, por lo que el verbo debe ser "vende" (singular), no "venden". El uso de dos puntos antes de "todo fresco" es adecuado porque introduce una explicación. -->
@@ -230,6 +241,7 @@ Evaluación crítica de la puntuación en contextos reales colombianos: los letr
 ## Question 10 [D7 — Integración]
 
 **Bloom:** Create
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido y producción textual
 
 ### Enunciado
@@ -242,7 +254,7 @@ Redacta una breve recomendación de lectura (3-4 oraciones) dirigida a un compa�
 
 Luego, explica brevemente por qué usaste cada signo.
 
-### Options
+### Opciones
 - [x] A) Ejemplo: "Andrés, te recomiendo *La vuelta al mundo en 80 días*, una novela llena de aventuras. Leí el libro en tres días; tú, en menos. Vale la pena: te transporta a otros lugares sin moverte de casa." — Coma vocativa en "Andrés,"; coma explicativa en ", una novela llena de aventuras,"; coma de elipsis en "tú, en menos" (sustituye "leerás"); dos puntos explicativos en "Vale la pena: te transporta...". <!-- feedback: Correcto. Este ejemplo integra correctamente los cuatro usos solicitados y explica cada uno. -->
 - [ ] B) "Andrés te recomiendo La vuelta al mundo en 80 días, una novela llena de aventuras. Leí el libro en tres días, tú en menos. Vale la pena, te transporta a otros lugares." — No usa coma vocativa, ni dos puntos. <!-- feedback: Incorrecto. Le falta la coma vocativa después de "Andrés" y los dos puntos. -->
 - [ ] C) "Andrés: te recomiendo La vuelta al mundo en 80 días, una novela llena de aventuras. Leí el libro en tres días. Tú leíste en menos. Vale la pena, te transporta a otros lugares." — No usa coma de elipsis. <!-- feedback: Incorrecto. Repite el verbo "leíste" en lugar de usar coma de elipsis. -->

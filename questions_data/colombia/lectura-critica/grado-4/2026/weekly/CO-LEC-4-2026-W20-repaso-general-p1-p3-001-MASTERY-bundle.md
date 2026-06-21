@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W20-repaso-general-p1-p3-001-MASTERY"
+id: "CO-LEC-4-2026-W20-repaso-general-p1-p3-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "repaso-general-p1-p3"
-semana: "W20"
+week: "W20"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "repaso general: todos los tipos de texto, primer semestre"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W20: Repaso general P1-P3
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W20-repaso-general-p1-p3-001-MASTERY-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Idea principal.
+**Contexto:** Idea principal.
 
 ### Enunciado
 *"Colombia tiene costas, montañas y selvas."* ¿Idea?
 
-### Options
+### Opciones
 - [x] A) Colombia es un país diverso. <!-- feedback: Correcto. -->
-- [ ] B) Colombia es pequeño.
-- [ ] C) Solo montañas.
-- [ ] D) Sin diversidad.
+- [ ] B) Colombia es pequeño. <!-- feedback: Incorrecto. Colombia es pequeño. -->
+- [ ] C) Solo montañas. <!-- feedback: Incorrecto. Solo montañas. -->
+- [ ] D) Sin diversidad. <!-- feedback: Incorrecto. Sin diversidad. -->
 
 ### Explicación Pedagógica
 Repaso general.
@@ -49,17 +54,18 @@ Repaso general.
 
 **ID:** `CO-LEC-4-2026-W20-repaso-general-p1-p3-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Detalle.
+**Contexto:** Detalle.
 
 ### Enunciado
 *"El Atrato es uno de los ríos más caudalosos."* ¿Qué río?
 
-### Options
-- [ ] A) Magdalena.
+### Opciones
+- [ ] A) Magdalena. <!-- feedback: Incorrecto. Magdalena. -->
 - [x] B) Atrato. <!-- feedback: Correcto. -->
-- [ ] C) Cauca.
-- [ ] D) Amazonas.
+- [ ] C) Cauca. <!-- feedback: Incorrecto. Cauca. -->
+- [ ] D) Amazonas. <!-- feedback: Incorrecto. Amazonas. -->
 
 ### Explicación Pedagógica
 Detalle.
@@ -70,17 +76,18 @@ Detalle.
 
 **ID:** `CO-LEC-4-2026-W20-repaso-general-p1-p3-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Causa.
+**Contexto:** Causa.
 
 ### Enunciado
 *"Se inundó la plaza por la fuerte lluvia."* ¿Causa?
 
-### Options
+### Opciones
 - [x] A) Fuerte lluvia. <!-- feedback: Correcto. -->
-- [ ] B) Plaza vacía.
-- [ ] C) Gente.
-- [ ] D) Noche.
+- [ ] B) Plaza vacía. <!-- feedback: Incorrecto. Plaza vacía. -->
+- [ ] C) Gente. <!-- feedback: Incorrecto. Gente. -->
+- [ ] D) Noche. <!-- feedback: Incorrecto. Noche. -->
 
 ### Explicación Pedagógica
 Causa.
@@ -91,17 +98,18 @@ Causa.
 
 **ID:** `CO-LEC-4-2026-W20-repaso-general-p1-p3-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Noticia.
+**Contexto:** Noticia.
 
 ### Enunciado
 *"¿Cuál es el propósito de una noticia?"*
 
-### Options
+### Opciones
 - [x] A) Informar. <!-- feedback: Correcto. -->
-- [ ] B) Entretener.
-- [ ] C) Vender.
-- [ ] D) Opinar.
+- [ ] B) Entretener. <!-- feedback: Incorrecto. Entretener. -->
+- [ ] C) Vender. <!-- feedback: Incorrecto. Vender. -->
+- [ ] D) Opinar. <!-- feedback: Incorrecto. Opinar. -->
 
 ### Explicación Pedagógica
 Propósito noticia.
@@ -112,17 +120,18 @@ Propósito noticia.
 
 **ID:** `CO-LEC-4-2026-W20-repaso-general-p1-p3-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Poema.
+**Contexto:** Poema.
 
 ### Enunciado
 *"¿Qué es un verso?"*
 
-### Options
-- [ ] A) Un párrafo.
+### Opciones
+- [ ] A) Un párrafo. <!-- feedback: Incorrecto. Un párrafo. -->
 - [x] B) Cada línea del poema. <!-- feedback: Correcto. -->
-- [ ] C) Un cuento largo.
-- [ ] D) Una canción.
+- [ ] C) Un cuento largo. <!-- feedback: Incorrecto. Un cuento largo. -->
+- [ ] D) Una canción. <!-- feedback: Incorrecto. Una canción. -->
 
 ### Explicación Pedagógica
 Verso.
@@ -133,17 +142,18 @@ Verso.
 
 **ID:** `CO-LEC-4-2026-W20-repaso-general-p1-p3-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Instrucciones.
+**Contexto:** Instrucciones.
 
 ### Enunciado
 *"Si no sigues el orden de la receta, ¿qué pasa?"*
 
-### Options
-- [ ] A) Funciona igual.
+### Opciones
+- [ ] A) Funciona igual. <!-- feedback: Incorrecto. Funciona igual. -->
 - [x] B) Puede no funcionar. <!-- feedback: Correcto. -->
-- [ ] C) Es mejor.
-- [ ] D) Da igual.
+- [ ] C) Es mejor. <!-- feedback: Incorrecto. Es mejor. -->
+- [ ] D) Da igual. <!-- feedback: Incorrecto. Da igual. -->
 
 ### Explicación Pedagógica
 Orden instructivo.
@@ -154,17 +164,18 @@ Orden instructivo.
 
 **ID:** `CO-LEC-4-2026-W20-repaso-general-p1-p3-001-MASTERY-v7`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Comparar textos.
+**Contexto:** Comparar textos.
 
 ### Enunciado
 *"Noticia: real. Poema: figurado. Instructivo: pasos. Cuento: ficción."* ¿Cuál es ficción?
 
-### Options
-- [ ] A) Noticia.
+### Opciones
+- [ ] A) Noticia. <!-- feedback: Incorrecto. Noticia. -->
 - [x] B) Cuento. <!-- feedback: Correcto. -->
-- [ ] C) Instructivo.
-- [ ] D) Divulgación.
+- [ ] C) Instructivo. <!-- feedback: Incorrecto. Instructivo. -->
+- [ ] D) Divulgación. <!-- feedback: Incorrecto. Divulgación. -->
 
 ### Explicación Pedagógica
 Comparar textos.
@@ -175,17 +186,18 @@ Comparar textos.
 
 **ID:** `CO-LEC-4-2026-W20-repaso-general-p1-p3-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Evaluar tipo.
+**Contexto:** Evaluar tipo.
 
 ### Enunciado
 *"Texto para enseñar a hacer una manualidad."* ¿Tipo?
 
-### Options
-- [ ] A) Narrativo.
+### Opciones
+- [ ] A) Narrativo. <!-- feedback: Incorrecto. Narrativo. -->
 - [x] B) Instructivo. <!-- feedback: Correcto. -->
-- [ ] C) Poético.
-- [ ] D) Noticia.
+- [ ] C) Poético. <!-- feedback: Incorrecto. Poético. -->
+- [ ] D) Noticia. <!-- feedback: Incorrecto. Noticia. -->
 
 ### Explicación Pedagógica
 Tipo texto.
@@ -196,17 +208,18 @@ Tipo texto.
 
 **ID:** `CO-LEC-4-2026-W20-repaso-general-p1-p3-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Evaluar estructura.
+**Contexto:** Evaluar estructura.
 
 ### Enunciado
 *"Cuento sin nudo."* ¿Problema?
 
-### Options
-- [ ] A) Ninguno.
+### Opciones
+- [ ] A) Ninguno. <!-- feedback: Incorrecto. Ninguno. -->
 - [x] B) Falta conflicto, es incompleto. <!-- feedback: Correcto. -->
-- [ ] C) Es más corto.
-- [ ] D) Mejor.
+- [ ] C) Es más corto. <!-- feedback: Incorrecto. Es más corto. -->
+- [ ] D) Mejor. <!-- feedback: Incorrecto. Mejor. -->
 
 ### Explicación Pedagógica
 Estructura.
@@ -217,17 +230,18 @@ Estructura.
 
 **ID:** `CO-LEC-4-2026-W20-repaso-general-p1-p3-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Inferir.
+**Contexto:** Inferir.
 
 ### Enunciado
 *"Todos llevan paraguas y impermeable. ¿Qué clima hace?"*
 
-### Options
-- [ ] A) Soleado.
+### Opciones
+- [ ] A) Soleado. <!-- feedback: Incorrecto. Soleado. -->
 - [x] B) Lluvioso. <!-- feedback: Correcto. -->
-- [ ] C) Nevado.
-- [ ] D) Ventoso.
+- [ ] C) Nevado. <!-- feedback: Incorrecto. Nevado. -->
+- [ ] D) Ventoso. <!-- feedback: Incorrecto. Ventoso. -->
 
 ### Explicación Pedagógica
 Inferencia.

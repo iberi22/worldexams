@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W11-textos-informativos-001-MASTERY"
+id: "CO-LEC-3-2026-W11-textos-informativos-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 11
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Informativos
 
@@ -25,6 +30,7 @@ Este bundle evalúa la capacidad de extraer información de textos no literarios
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **El Parque Explora**
@@ -33,7 +39,7 @@ El Parque Explora es un centro de ciencia y tecnología ubicado en Medellín, Co
 ### Enunciado
 ¿En qué ciudad de Colombia se encuentra ubicado el Parque Explora?
 
-### Options
+### Opciones
 - [ ] A) En Bogotá. <!-- feedback: Incorrecto. El texto dice que está ubicado en Medellín. -->
 - [x] B) En Medellín. <!-- feedback: ¡Correcto! El texto informativo proporciona este dato específico al inicio del párrafo. -->
 - [ ] C) En Cali. <!-- feedback: Incorrecto. No se menciona la ciudad de Cali en este texto. -->
@@ -49,6 +55,7 @@ La localización de datos específicos es la base de la comprensión de textos i
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **La Palma de Cera**
@@ -57,7 +64,7 @@ La Palma de Cera del Quindío es el árbol nacional de Colombia. Puede llegar a 
 ### Enunciado
 ¿Cuál es la función principal de este texto?
 
-### Options
+### Opciones
 - [ ] A) Contar un cuento de fantasía sobre un árbol que habla. <!-- feedback: Incorrecto. El texto no narra una historia, sino que da datos reales. -->
 - [x] B) Dar información real y objetiva sobre la Palma de Cera. <!-- feedback: ¡Correcto! Es un texto informativo porque su intención es enseñar características reales de un ser vivo. -->
 - [ ] C) Expresar sentimientos de amor hacia la naturaleza. <!-- feedback: Incorrecto. Aunque es un tema positivo, el lenguaje es técnico e informativo, no poético. -->
@@ -73,6 +80,7 @@ Diferenciar la intención comunicativa es clave en tercer grado. El estudiante d
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Los colibríes son aves muy pequeñas que se alimentan del néctar de las flores. En Colombia existen más de 150 especies diferentes. Estas aves pueden batir sus alas hasta 80 veces por segundo, lo que les permite quedarse quietas en el aire".
@@ -80,7 +88,7 @@ Diferenciar la intención comunicativa es clave en tercer grado. El estudiante d
 ### Enunciado
 Según el texto, ¿qué les permite a los colibríes mantenerse quietos en el aire mientras vuelan?
 
-### Options
+### Opciones
 - [ ] A) El color de sus plumas brillantes. <!-- feedback: Incorrecto. El color no influye en la forma de volar. -->
 - [ ] B) El tipo de flores de las que se alimentan. <!-- feedback: Incorrecto. La comida les da energía, pero no es la razón mecánica de su vuelo. -->
 - [x] C) La rapidez con la que baten sus alas (80 veces por segundo). <!-- feedback: ¡Correcto! El texto establece una relación directa entre el batido rápido de alas y su capacidad de sostenerse en el aire. -->
@@ -96,6 +104,7 @@ Identificar relaciones de causa y efecto en un texto informativo ayuda a profund
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Aviso Informativo en el Zoológico:**
@@ -107,7 +116,7 @@ Favor no darles comida extra, pues tienen una dieta especial controlada por vete
 ### Enunciado
 Si un visitante llega al zoológico a las **10:30 a.m.**, ¿qué acaba de ocurrir hace una hora?
 
-### Options
+### Opciones
 - [ ] A) Los veterinarios se fueron a descansar. <!-- feedback: Incorrecto. No hay información sobre el descanso de los veterinarios. -->
 - [x] B) Los monos recibieron su alimentación de la mañana. <!-- feedback: ¡Correcto! Si son las 10:30, la alimentación de las 9:30 pasó exactamente hace una hora. -->
 - [ ] C) Los monos están recibiendo su comida de la tarde. <!-- feedback: Incorrecto. La comida de la tarde es a las 3:30 p.m. -->
@@ -123,6 +132,7 @@ Este ejercicio combina la lectura de tablas o listas informativas con el razonam
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Ficha Técnica: El Café de Colombia**
@@ -134,7 +144,7 @@ Este ejercicio combina la lectura de tablas o listas informativas con el razonam
 ### Enunciado
 Si una persona quiere saber **cómo se prepara el café para la venta** después de ser cultivado, ¿en qué parte de la ficha debe mirar?
 
-### Options
+### Opciones
 - [ ] A) En el Origen. <!-- feedback: Incorrecto. Ahí solo dice de dónde viene geográficamente. -->
 - [x] B) En el Proceso. <!-- feedback: ¡Correcto! El proceso explica los pasos (recolección, lavado, secado) para prepararlo. -->
 - [ ] C) En el Sabor. <!-- feedback: Incorrecto. El sabor describe cómo se siente al tomarlo, no cómo se hizo. -->
@@ -150,6 +160,7 @@ Reconocer la estructura de una ficha técnica o infografía permite al estudiant
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "El agua es un recurso vital para la vida en el planeta. Se encuentra en océanos, ríos, glaciares y lagunas. Aunque la mayor parte de la Tierra está cubierta de agua, solo una pequeña porción es apta para el consumo humano (agua dulce)".
@@ -157,7 +168,7 @@ Reconocer la estructura de una ficha técnica o infografía permite al estudiant
 ### Enunciado
 ¿Cuál es la idea principal de este párrafo?
 
-### Options
+### Opciones
 - [ ] A) Los océanos son muy grandes y profundos. <!-- feedback: Incorrecto. Esto es un detalle, pero no la idea que resume todo el texto. -->
 - [x] B) La importancia del agua y su limitada disponibilidad para los humanos. <!-- feedback: ¡Correcto! El texto destaca que es vital pero que solo una parte se puede consumir. -->
 - [ ] C) El agua dulce se encuentra en los glaciares. <!-- feedback: Incorrecto. Es un dato presente, pero no resume la intención total del párrafo. -->
@@ -173,6 +184,7 @@ Identificar la idea principal en textos expositivos cortos ayuda al estudiante a
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Texto A:** "El Sol es una estrella de tipo espectral G2 que se encuentra en el centro de nuestro sistema planetario".
@@ -181,7 +193,7 @@ Identificar la idea principal en textos expositivos cortos ayuda al estudiante a
 ### Enunciado
 ¿Cuál de los dos textos es un **texto informativo** y por qué?
 
-### Options
+### Opciones
 - [ ] A) El Texto B, porque es más bonito y usa comparaciones. <!-- feedback: Incorrecto. El uso de comparaciones ("como moneda de oro") es típico de textos literarios, no informativos. -->
 - [x] B) El Texto A, porque usa lenguaje preciso y científico para dar datos reales. <!-- feedback: ¡Correcto! El texto informativo evita adornos y se centra en hechos verificables (estrella tipo G2). -->
 - [ ] C) Ambos son informativos porque hablan del Sol. <!-- feedback: Incorrecto. Hablar de un tema real no hace que el texto sea informativo; lo que importa es cómo se dice. -->
@@ -197,6 +209,7 @@ Contrastar tipos de textos sobre un mismo tema permite al estudiante identificar
 **Bloom:** Analyze
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un folleto informativo sobre salud dice: "Para evitar enfermedades, lávate las manos con agua y jabón antes de comer y después de ir al baño. Así eliminarás los microbios que no puedes ver".
@@ -204,7 +217,7 @@ Un folleto informativo sobre salud dice: "Para evitar enfermedades, lávate las 
 ### Enunciado
 ¿A qué conclusión llegas sobre los microbios después de leer el texto?
 
-### Options
+### Opciones
 - [ ] A) Que son animales grandes que podemos atrapar. <!-- feedback: Incorrecto. El texto dice que "no puedes ver", lo que indica que son minúsculos. -->
 - [ ] B) Que solo aparecen si no usamos jabón. <!-- feedback: Incorrecto. Los microbios están ahí, el jabón es para eliminarlos. -->
 - [x] C) Que son peligrosos para la salud pero fáciles de combatir con limpieza. <!-- feedback: ¡Correcto! Causan enfermedades y el texto da una instrucción sencilla para evitarlas. -->

@@ -1,24 +1,32 @@
 ---
-id: "BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY"
+id: "BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY-bundle"
 country: "bo"
 exam: "MINEDU - Ministerio de Educacion del Estado Plurinacional"
 grado: 11
 asignatura: "Ciencias Naturales"
 tema: "recursos-naturales-bolivia"
-semana: 18
+week: "W18"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "MINEDU - Ley Educativa Avelino Sinani - Elizardo Perez"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle - Ciencias Naturales: Recursos Naturales Bolivia (W18)
 **20 preguntas | Ciencias Naturales | MINEDU - Ministerio de Educacion del Estado Plurinacional**
 
 ---
-## Pregunta 1 [D4]
+## Question 1 [D4]
 **ID:** `BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando recursos naturales bolivia.
 
@@ -26,21 +34,22 @@ alignment: "MINEDU - Ley Educativa Avelino Sinani - Elizardo Perez"
 Simplifique: (8)(12x + 10)
 
 ### Opciones
-- [x] **A)** 96x + 80
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 96x + 10
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 20x + 80
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 96x - 80
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 96x + 80 <!-- feedback: Correcto! 96x + 80 -->
+
+- [ ] B) 96x + 10 <!-- feedback: Incorrecto. 96x + 10 -->
+
+- [ ] C) 20x + 80 <!-- feedback: Incorrecto. 20x + 80 -->
+
+- [ ] D) 96x - 80 <!-- feedback: Incorrecto. 96x - 80 -->
 
 **Explicacion:** Aplicar distributiva: (8)(12x + 10) = 96x + 80.
 
 ---
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando recursos naturales bolivia.
 
@@ -48,21 +57,22 @@ Simplifique: (8)(12x + 10)
 Resuelve: 2(x + 2) = 10
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] C) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [ ] D) 1 <!-- feedback: Incorrecto. 1 -->
 
 **Explicacion:** 2(x+2) = 10 -> x+2 = 5 -> x = 3.
 
 ---
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando recursos naturales bolivia.
 
@@ -70,21 +80,22 @@ Resuelve: 2(x + 2) = 10
 Maria compro 4 cuadernos a $4.4 c/u en Cochabamba. &iquest;Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $16.4
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** $4.4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $4.4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $8.4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $16.4 <!-- feedback: Correcto! $16.4 -->
+
+- [ ] B) $4.4 <!-- feedback: Incorrecto. $4.4 -->
+
+- [ ] C) $4.4 <!-- feedback: Incorrecto. $4.4 -->
+
+- [ ] D) $8.4 <!-- feedback: Incorrecto. $8.4 -->
 
 **Explicacion:** Total = 4 x $4 = $16.4.
 
 ---
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY-v4`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando recursos naturales bolivia.
 
@@ -92,21 +103,22 @@ Maria compro 4 cuadernos a $4.4 c/u en Cochabamba. &iquest;Cuanto gasto?
 Un estudiante de Colegio Nacional Trinidad en Trinidad grafica f(x) = 3x + 12. &iquest;Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 12
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 15
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 10
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 12 <!-- feedback: Incorrecto. 12 -->
+
+- [ ] C) 15 <!-- feedback: Incorrecto. 15 -->
+
+- [ ] D) 10 <!-- feedback: Incorrecto. 10 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 3.
 
 ---
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY-v5`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando recursos naturales bolivia.
 
@@ -114,21 +126,22 @@ Un estudiante de Colegio Nacional Trinidad en Trinidad grafica f(x) = 3x + 12. &
 En un examen ANEP/MEC en Cochabamba, se pide: si f(x) = 4x^2 + 11x + 0. &iquest;Cual es f(2)?
 
 ### Opciones
-- [x] **A)** 38
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 19
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 15
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 38 <!-- feedback: Correcto! 38 -->
+
+- [ ] B) 19 <!-- feedback: Incorrecto. 19 -->
+
+- [ ] C) 0 <!-- feedback: Incorrecto. 0 -->
+
+- [ ] D) 15 <!-- feedback: Incorrecto. 15 -->
 
 **Explicacion:** Sustituyo x=2: f(2) = 4(4) + 11(2) + 0 = 38.
 
 ---
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando recursos naturales bolivia.
 
@@ -136,21 +149,22 @@ En un examen ANEP/MEC en Cochabamba, se pide: si f(x) = 4x^2 + 11x + 0. &iquest;
 Resuelve la ecuacion: x^2 - 13x + 40 = 0
 
 ### Opciones
-- [x] **A)** x = 5 y x = 8
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** x = 13 y x = 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** x = 0 y x = 40
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** No tiene solucion
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) x = 5 y x = 8 <!-- feedback: Correcto! x = 5 y x = 8 -->
+
+- [ ] B) x = 13 y x = 3 <!-- feedback: Incorrecto. x = 13 y x = 3 -->
+
+- [ ] C) x = 0 y x = 40 <!-- feedback: Incorrecto. x = 0 y x = 40 -->
+
+- [ ] D) No tiene solucion <!-- feedback: Incorrecto. No tiene solucion -->
 
 **Explicacion:** Ecuacion cuadratica: (x-5)(x-8) = 0, por tanto x = 5 o x = 8.
 
 ---
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY-v7`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando recursos naturales bolivia.
 
@@ -158,21 +172,22 @@ Resuelve la ecuacion: x^2 - 13x + 40 = 0
 Un estudiante de Sucre obtuvo notas: 6, 33, 19. &iquest;Cual es la media?
 
 ### Opciones
-- [x] **A)** 19.3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 33
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 14
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 19.3 <!-- feedback: Correcto! 19.3 -->
+
+- [ ] B) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] C) 33 <!-- feedback: Incorrecto. 33 -->
+
+- [ ] D) 14 <!-- feedback: Incorrecto. 14 -->
 
 **Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.
 
 ---
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando recursos naturales bolivia.
 
@@ -180,21 +195,22 @@ Un estudiante de Sucre obtuvo notas: 6, 33, 19. &iquest;Cual es la media?
 Calcule la derivada de f(x) = 8x^3 + 3x^2 + 2x
 
 ### Opciones
-- [x] **A)** f'(x) = 24x^2 + 6x + 2
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** f'(x) = 8x^2 + 3x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** f'(x) = 24x^2 + 3x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** f'(x) = 24x^3 + 6x^2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) f'(x) = 24x^2 + 6x + 2 <!-- feedback: Correcto! f'(x) = 24x^2 + 6x + 2 -->
+
+- [ ] B) f'(x) = 8x^2 + 3x <!-- feedback: Incorrecto. f'(x) = 8x^2 + 3x -->
+
+- [ ] C) f'(x) = 24x^2 + 3x <!-- feedback: Incorrecto. f'(x) = 24x^2 + 3x -->
+
+- [ ] D) f'(x) = 24x^3 + 6x^2 <!-- feedback: Incorrecto. f'(x) = 24x^3 + 6x^2 -->
 
 **Explicacion:** Derivada termino a termino: d/dx(8x^3) = 24x^2, d/dx(3x^2) = 6x, d/dx(2x) = 2.
 
 ---
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY-v9`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando recursos naturales bolivia.
 
@@ -202,21 +218,22 @@ Calcule la derivada de f(x) = 8x^3 + 3x^2 + 2x
 &iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0
 
 ### Opciones
-- [x] **A)** Si, es correcta porque f'(0) = 0 y f''(0) > 0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** No, tiene un maximo en x = 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** No, no tiene extremos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** Solo es correcta para x > 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) Si, es correcta porque f'(0) = 0 y f''(0) > 0 <!-- feedback: Correcto! Si, es correcta porque f'(0) = 0 y f''(0) > 0 -->
+
+- [ ] B) No, tiene un maximo en x = 0 <!-- feedback: Incorrecto. No, tiene un maximo en x = 0 -->
+
+- [ ] C) No, no tiene extremos <!-- feedback: Incorrecto. No, no tiene extremos -->
+
+- [ ] D) Solo es correcta para x > 0 <!-- feedback: Incorrecto. Solo es correcta para x > 0 -->
 
 **Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.
 
 ---
-## Pregunta 10 [D3]
+## Question 10 [D3]
 **ID:** `BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando recursos naturales bolivia.
 
@@ -224,21 +241,22 @@ Calcule la derivada de f(x) = 8x^3 + 3x^2 + 2x
 En Yacuiba, un estudiante del Colegio Nacional Yacuiba resuelve: 7x + 9 = 44. &iquest;Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **D)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 1 <!-- feedback: Incorrecto. 1 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 8 <!-- feedback: Incorrecto. 8 -->
 
 **Explicacion:** Se resta 9 de ambos lados. Luego se divide por 7: x = 5.
 
 ---
-## Pregunta 11 [D4]
+## Question 11 [D4]
 **ID:** `BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY-v11`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando recursos naturales bolivia.
 
@@ -246,21 +264,22 @@ En Yacuiba, un estudiante del Colegio Nacional Yacuiba resuelve: 7x + 9 = 44. &i
 Simplifique: (3)(6x + 22)
 
 ### Opciones
-- [x] **A)** 18x + 66
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 18x + 22
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 9x + 66
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 18x - 66
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 18x + 66 <!-- feedback: Correcto! 18x + 66 -->
+
+- [ ] B) 18x + 22 <!-- feedback: Incorrecto. 18x + 22 -->
+
+- [ ] C) 9x + 66 <!-- feedback: Incorrecto. 9x + 66 -->
+
+- [ ] D) 18x - 66 <!-- feedback: Incorrecto. 18x - 66 -->
 
 **Explicacion:** Aplicar distributiva: (3)(6x + 22) = 18x + 66.
 
 ---
-## Pregunta 12 [D3]
+## Question 12 [D3]
 **ID:** `BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY-v12`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando recursos naturales bolivia.
 
@@ -268,21 +287,22 @@ Simplifique: (3)(6x + 22)
 Resuelve: 2(x + 7) = 20
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] C) 9 <!-- feedback: Incorrecto. 9 -->
+
+- [ ] D) 6 <!-- feedback: Incorrecto. 6 -->
 
 **Explicacion:** 2(x+7) = 20 -> x+7 = 10 -> x = 3.
 
 ---
-## Pregunta 13 [D4]
+## Question 13 [D4]
 **ID:** `BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY-v13`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando recursos naturales bolivia.
 
@@ -290,21 +310,22 @@ Resuelve: 2(x + 7) = 20
 Maria compro 3 cuadernos a $11.2 c/u en Villazon. &iquest;Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $33.2
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** $3.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $11.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $14.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $33.2 <!-- feedback: Correcto! $33.2 -->
+
+- [ ] B) $3.2 <!-- feedback: Incorrecto. $3.2 -->
+
+- [ ] C) $11.2 <!-- feedback: Incorrecto. $11.2 -->
+
+- [ ] D) $14.2 <!-- feedback: Incorrecto. $14.2 -->
 
 **Explicacion:** Total = 3 x $11 = $33.2.
 
 ---
-## Pregunta 14 [D5]
+## Question 14 [D5]
 **ID:** `BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY-v14`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando recursos naturales bolivia.
 
@@ -312,21 +333,22 @@ Maria compro 3 cuadernos a $11.2 c/u en Villazon. &iquest;Cuanto gasto?
 Un estudiante de Colegio Nacional Ayacucho en La Paz grafica f(x) = 2x + 1. &iquest;Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 2
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 2 <!-- feedback: Correcto! 2 -->
+
+- [ ] B) 1 <!-- feedback: Incorrecto. 1 -->
+
+- [ ] C) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] D) 2 <!-- feedback: Incorrecto. 2 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 2.
 
 ---
-## Pregunta 15 [D5]
+## Question 15 [D5]
 **ID:** `BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY-v15`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando recursos naturales bolivia.
 
@@ -334,21 +356,22 @@ Un estudiante de Colegio Nacional Ayacucho en La Paz grafica f(x) = 2x + 1. &iqu
 En un examen ANEP/MEC en Santa Cruz, se pide: si f(x) = 7x^2 + 11x + 7. &iquest;Cual es f(2)?
 
 ### Opciones
-- [x] **A)** 57
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 25
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 18
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 57 <!-- feedback: Correcto! 57 -->
+
+- [ ] B) 25 <!-- feedback: Incorrecto. 25 -->
+
+- [ ] C) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] D) 18 <!-- feedback: Incorrecto. 18 -->
 
 **Explicacion:** Sustituyo x=2: f(2) = 7(4) + 11(2) + 7 = 57.
 
 ---
-## Pregunta 16 [D6]
+## Question 16 [D6]
 **ID:** `BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY-v16`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando recursos naturales bolivia.
 
@@ -356,21 +379,22 @@ En un examen ANEP/MEC en Santa Cruz, se pide: si f(x) = 7x^2 + 11x + 7. &iquest;
 Resuelve la ecuacion: x^2 - 12x + 35 = 0
 
 ### Opciones
-- [x] **A)** x = 7 y x = 5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** x = 12 y x = 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** x = 0 y x = 35
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** No tiene solucion
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) x = 7 y x = 5 <!-- feedback: Correcto! x = 7 y x = 5 -->
+
+- [ ] B) x = 12 y x = 2 <!-- feedback: Incorrecto. x = 12 y x = 2 -->
+
+- [ ] C) x = 0 y x = 35 <!-- feedback: Incorrecto. x = 0 y x = 35 -->
+
+- [ ] D) No tiene solucion <!-- feedback: Incorrecto. No tiene solucion -->
 
 **Explicacion:** Ecuacion cuadratica: (x-7)(x-5) = 0, por tanto x = 7 o x = 5.
 
 ---
-## Pregunta 17 [D6]
+## Question 17 [D6]
 **ID:** `BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY-v17`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando recursos naturales bolivia.
 
@@ -378,21 +402,22 @@ Resuelve la ecuacion: x^2 - 12x + 35 = 0
 Un estudiante de Camiri obtuvo notas: 12, 21, 18. &iquest;Cual es la media?
 
 ### Opciones
-- [x] **A)** 17.0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 42
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 13
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 17.0 <!-- feedback: Correcto! 17.0 -->
+
+- [ ] B) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [ ] C) 42 <!-- feedback: Incorrecto. 42 -->
+
+- [ ] D) 13 <!-- feedback: Incorrecto. 13 -->
 
 **Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.
 
 ---
-## Pregunta 18 [D7]
+## Question 18 [D7]
 **ID:** `BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY-v18`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando recursos naturales bolivia.
 
@@ -400,21 +425,22 @@ Un estudiante de Camiri obtuvo notas: 12, 21, 18. &iquest;Cual es la media?
 Calcule la derivada de f(x) = 5x^3 + 10x^2 + 5x
 
 ### Opciones
-- [x] **A)** f'(x) = 15x^2 + 20x + 5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** f'(x) = 5x^2 + 10x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** f'(x) = 15x^2 + 10x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** f'(x) = 15x^3 + 20x^2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) f'(x) = 15x^2 + 20x + 5 <!-- feedback: Correcto! f'(x) = 15x^2 + 20x + 5 -->
+
+- [ ] B) f'(x) = 5x^2 + 10x <!-- feedback: Incorrecto. f'(x) = 5x^2 + 10x -->
+
+- [ ] C) f'(x) = 15x^2 + 10x <!-- feedback: Incorrecto. f'(x) = 15x^2 + 10x -->
+
+- [ ] D) f'(x) = 15x^3 + 20x^2 <!-- feedback: Incorrecto. f'(x) = 15x^3 + 20x^2 -->
 
 **Explicacion:** Derivada termino a termino: d/dx(5x^3) = 15x^2, d/dx(10x^2) = 20x, d/dx(5x) = 5.
 
 ---
-## Pregunta 19 [D7]
+## Question 19 [D7]
 **ID:** `BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY-v19`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando recursos naturales bolivia.
 
@@ -422,21 +448,22 @@ Calcule la derivada de f(x) = 5x^3 + 10x^2 + 5x
 &iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0
 
 ### Opciones
-- [x] **A)** Si, es correcta porque f'(0) = 0 y f''(0) > 0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** No, tiene un maximo en x = 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** No, no tiene extremos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** Solo es correcta para x > 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) Si, es correcta porque f'(0) = 0 y f''(0) > 0 <!-- feedback: Correcto! Si, es correcta porque f'(0) = 0 y f''(0) > 0 -->
+
+- [ ] B) No, tiene un maximo en x = 0 <!-- feedback: Incorrecto. No, tiene un maximo en x = 0 -->
+
+- [ ] C) No, no tiene extremos <!-- feedback: Incorrecto. No, no tiene extremos -->
+
+- [ ] D) Solo es correcta para x > 0 <!-- feedback: Incorrecto. Solo es correcta para x > 0 -->
 
 **Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.
 
 ---
-## Pregunta 20 [D3]
+## Question 20 [D3]
 **ID:** `BO-CIE-11-2026-W18-recursos-naturales-bolivia-001-MASTERY-v20`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de BO practicando recursos naturales bolivia.
 
@@ -444,14 +471,13 @@ Calcule la derivada de f(x) = 5x^3 + 10x^2 + 5x
 En Montero, un estudiante del Colegio Nacional Montero resuelve: 7x + 6 = 41. &iquest;Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **D)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 8 <!-- feedback: Incorrecto. 8 -->
 
 **Explicacion:** Se resta 6 de ambos lados. Luego se divide por 7: x = 5.
 

@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W30-repaso-luz-sonido-001-MASTERY"
+id: "CO-CIE-3-2026-W30-repaso-luz-sonido-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "repaso-luz-sonido"
-semana: "W30"
+week: "W30"
 periodo: 3
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Repaso integral sobre luz y sonido: fuentes, propagación, cua
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Repaso: Energía de Luz y Sonido
 
 Este bundle integra los conocimientos sobre la luz y el sonido, explorando sus diferencias, semejanzas y cómo ambos tipos de energía son fundamentales para nuestra vida diaria.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W30-repaso-luz-sonido-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la naturaleza existen diferentes formas de energía. La luz nos permite ver y el sonido nos permite escuchar.
+**Contexto:** En la naturaleza existen diferentes formas de energía. La luz nos permite ver y el sonido nos permite escuchar.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ Las fuentes naturales existen por los procesos propios de la Tierra y el Univers
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W30-repaso-luz-sonido-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Si pones un despertador sonando dentro de una campana de vidrio y le sacas todo el aire, dejarás de escucharlo aunque veas que se está moviendo.
+**Contexto:** Si pones un despertador sonando dentro de una campana de vidrio y le sacas todo el aire, dejarás de escucharlo aunque veas que se está moviendo.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -73,12 +77,12 @@ La luz es energía electromagnética que viaja por el vacío. El sonido es energ
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W30-repaso-luz-sonido-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Para clasificar sonidos, usamos palabras como "fino" o "grueso", y "fuerte" o "débil".
+**Contexto:** Para clasificar sonidos, usamos palabras como "fino" o "grueso", y "fuerte" o "débil".
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -98,12 +102,12 @@ El tono depende de la frecuencia (rapidez de vibración). La intensidad depende 
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W30-repaso-luz-sonido-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Mariana se mira en un espejo plano y luego mira a través de una ventana de vidrio transparente.
+**Contexto:** Mariana se mira en un espejo plano y luego mira a través de una ventana de vidrio transparente.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -123,12 +127,12 @@ Estos son los dos comportamientos básicos de la luz con la materia: reflexión 
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W30-repaso-luz-sonido-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un director de orquesta pide a los violines que toquen una nota muy "aguda" y con un volumen muy "suave".
+**Contexto:** Un director de orquesta pide a los violines que toquen una nota muy "aguda" y con un volumen muy "suave".
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -148,12 +152,12 @@ Este es un ejemplo de cómo se combinan las cualidades. Se puede tener un sonido
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W30-repaso-luz-sonido-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Si gritas en un salón vacío, se escucha un ruido que se repite. Si llenas el salón con mucha gente y sofás, el ruido repetido desaparece.
+**Contexto:** Si gritas en un salón vacío, se escucha un ruido que se repite. Si llenas el salón con mucha gente y sofás, el ruido repetido desaparece.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -173,12 +177,12 @@ Esto se llama acondicionamiento acústico. Los materiales duros (paredes lisas) 
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W30-repaso-luz-sonido-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un rayo de luz blanca pasa a través de un prisma de cristal o una gota de agua y se descompone en muchos colores.
+**Contexto:** Un rayo de luz blanca pasa a través de un prisma de cristal o una gota de agua y se descompone en muchos colores.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -198,12 +202,12 @@ La luz blanca es en realidad una mezcla de todos los colores. Cuando la luz se v
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W30-repaso-luz-sonido-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Tienes que elegir un material para cubrir las ventanas de un laboratorio fotográfico donde debe haber oscuridad total, aunque sea de día.
+**Contexto:** Tienes que elegir un material para cubrir las ventanas de un laboratorio fotográfico donde debe haber oscuridad total, aunque sea de día.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -223,12 +227,12 @@ Clasificar materiales por su opacidad es una habilidad práctica. Los materiales
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W30-repaso-luz-sonido-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Las ballenas pueden comunicarse con sus cantos a través de cientos de kilómetros de océano profundo.
+**Contexto:** Las ballenas pueden comunicarse con sus cantos a través de cientos de kilómetros de océano profundo.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -248,12 +252,12 @@ En el agua, el sonido viaja casi cinco veces más rápido que en el aire. Por es
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W30-repaso-luz-sonido-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un científico afirma: "Tanto la luz como el sonido son formas de energía que nos traen información del mundo".
+**Contexto:** Un científico afirma: "Tanto la luz como el sonido son formas de energía que nos traen información del mundo".
 **Expected_Success:** 0.60
 
 ### Enunciado

@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "independencia-colombia"
-semana: "W21"
+week: "W21"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Independencia: 1810, El Florero de Llorente, primeras juntas"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W21-independencia-colombia-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 En que ano comenzo el proceso de independencia de Colombia?
@@ -39,12 +44,13 @@ El 20 de julio de 1810 es la fecha de la independencia de Colombia. Ese dia ocur
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W21-independencia-colombia-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que hecho detono el grito de independencia del 20 de julio de 1810?
@@ -60,12 +66,13 @@ El 20 de julio de 1810, los criollos organizaron un incidente con el comerciante
 
 ---
 
-## Pregunta 3 [D1]
+## Question 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W21-independencia-colombia-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Quien fue el principal lider del grito de independencia en Bogota?
@@ -81,12 +88,13 @@ Antonio Narino fue uno de los principales lideres. Tradujo los Derechos del Homb
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W21-independencia-colombia-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que eran las 'juntas de gobierno' de 1810?
@@ -102,12 +110,13 @@ Al estar Napoleon invadiendo Espana y el rey Fernando VII preso, los criollos fo
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W21-independencia-colombia-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Como se llamo el periodo de 1810 a 1816 en Colombia?
@@ -123,12 +132,13 @@ La Patria Boba (1810-1816) fue un periodo de division entre los lideres independ
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W21-independencia-colombia-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que espanol lidero la reconquista de la Nueva Granada (1815-1816)?
@@ -144,12 +154,13 @@ Pablo Morillo, llamado 'El Pacificador', llego desde Espana con un ejercito para
 
 ---
 
-## Pregunta 7 [D1]
+## Question 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W21-independencia-colombia-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que fue la 'Reconquista' espanola?
@@ -165,12 +176,13 @@ Tras la caida de Napoleon, el rey Fernando VII recupero el trono y envio a Pablo
 
 ---
 
-## Pregunta 8 [D4]
+## Question 8 [D4]
 
 **ID:** `CO-SOC-5-2026-W21-independencia-colombia-001-MASTERY-v8`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que ideologias politicas enfrentadas caracterizaron la Patria Boba?
@@ -186,12 +198,13 @@ Los centralistas querian un gobierno fuerte y centralizado en Bogota. Los federa
 
 ---
 
-## Pregunta 9 [D4]
+## Question 9 [D4]
 
 **ID:** `CO-SOC-5-2026-W21-independencia-colombia-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por que se llamo 'Patria Boba' a ese periodo?
@@ -207,12 +220,13 @@ Se llamo 'Patria Boba' porque mientras los patriotas se peleaban entre si, los e
 
 ---
 
-## Pregunta 10 [D3]
+## Question 10 [D3]
 
 **ID:** `CO-SOC-5-2026-W21-independencia-colombia-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que consecuencias tuvo la Reconquista espanola?

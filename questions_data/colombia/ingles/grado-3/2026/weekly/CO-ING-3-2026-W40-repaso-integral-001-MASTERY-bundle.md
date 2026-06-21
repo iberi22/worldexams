@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W40-repaso-integral-001-MASTERY"
+id: "CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "repaso-integral"
 periodo: "weekly"
-semana: 40
+week: "W40"
 year: 2026
 protocol_version: "5.2"
 bundle_index: 1
@@ -21,7 +21,10 @@ license: "FREE"
 tier: "mastery"
 creador: "Jules"
 
+bundle_type: "weekly"
+total_questions: 10
 ---
+
 
 # Weekly Pack W40: Repaso Integral (A1)
 
@@ -34,12 +37,12 @@ This final bundle is a comprehensive review of the most important topics covered
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
-**Context:** Greetings review.
+**Contexto:** Greetings review.
 
 ### Enunciado
 What do you say to say **"Hola"** in English?
 
-### Options
+### Opciones
 - [x] A) Hello <!-- feedback: Correct! -->
 - [ ] B) Goodbye <!-- feedback: Incorrect. -->
 - [ ] C) Thank you <!-- feedback: Incorrect. -->
@@ -55,12 +58,12 @@ What do you say to say **"Hola"** in English?
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
-**Context:** Numbers review.
+**Contexto:** Numbers review.
 
 ### Enunciado
 What number is **"TWENTY"**?
 
-### Options
+### Opciones
 - [ ] A) 10 <!-- feedback: Incorrect. -->
 - [ ] B) 12 <!-- feedback: Incorrect. -->
 - [x] C) 20 <!-- feedback: Correct! -->
@@ -76,12 +79,12 @@ El número 20 se escribe "Twenty" en inglés.
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
-**Context:** Colors review.
+**Contexto:** Colors review.
 
 ### Enunciado
 The flag of Colombia has **Yellow, Blue,** and... 🇨🇴
 
-### Options
+### Opciones
 - [ ] A) Green <!-- feedback: Incorrect. -->
 - [x] B) Red <!-- feedback: Correct! -->
 - [ ] C) White <!-- feedback: Incorrect. -->
@@ -97,12 +100,12 @@ Los colores de la bandera son amarillo, azul y rojo (Red).
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
-**Context:** Family review.
+**Contexto:** Family review.
 
 ### Enunciado
 Your mother's **sister** is your...
 
-### Options
+### Opciones
 - [x] A) Aunt <!-- feedback: Correct! -->
 - [ ] B) Uncle <!-- feedback: Incorrect. -->
 - [ ] C) Cousin <!-- feedback: Incorrect. -->
@@ -118,12 +121,12 @@ La hermana de tu madre es tu tía (Aunt).
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
-**Context:** School subjects review.
+**Contexto:** School subjects review.
 
 ### Enunciado
 In which class do you use **numbers** and **add** 5 + 5?
 
-### Options
+### Opciones
 - [ ] A) Art <!-- feedback: Incorrect. -->
 - [x] B) Math <!-- feedback: Correct! -->
 - [ ] C) English <!-- feedback: Incorrect. -->
@@ -139,12 +142,12 @@ Las operaciones matemáticas se realizan en la clase de Math.
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
-**Context:** Body parts review.
+**Contexto:** Body parts review.
 
 ### Enunciado
 What do you use to **listen** to music? 👂
 
-### Options
+### Opciones
 - [ ] A) Eyes <!-- feedback: Incorrect. -->
 - [x] B) Ears <!-- feedback: Correct! -->
 - [ ] C) Nose <!-- feedback: Incorrect. -->
@@ -160,12 +163,12 @@ Usamos los oídos (Ears) para escuchar.
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
-**Context:** Animals review.
+**Contexto:** Animals review.
 
 ### Enunciado
 Which animal is very **big** and has a **long trunk**? 🐘
 
-### Options
+### Opciones
 - [ ] A) Lion <!-- feedback: Incorrect. -->
 - [x] B) Elephant <!-- feedback: Correct! -->
 - [ ] C) Monkey <!-- feedback: Incorrect. -->
@@ -181,12 +184,12 @@ El elefante (Elephant) se reconoce por su gran tamaño y su trompa.
 **Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
-**Context:** Time review.
+**Contexto:** Time review.
 
 ### Enunciado
 If the clock shows **10:30**, you say it is...
 
-### Options
+### Opciones
 - [ ] A) Ten o'clock <!-- feedback: Incorrect. -->
 - [x] B) Half past ten <!-- feedback: Correct! -->
 - [ ] C) Ten past half <!-- feedback: Incorrect. -->
@@ -202,12 +205,12 @@ If the clock shows **10:30**, you say it is...
 **Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
-**Context:** Describing review.
+**Contexto:** Describing review.
 
 ### Enunciado
 "The mouse is **small**. The elephant is **_________**."
 
-### Options
+### Opciones
 - [ ] A) Short <!-- feedback: Incorrect. -->
 - [x] B) Big <!-- feedback: Correct! It is the opposite of small in this context. -->
 - [ ] C) Light <!-- feedback: Incorrect. -->
@@ -223,12 +226,12 @@ El antónimo de pequeño (small) es grande (big).
 **Bloom:** Evaluate
 **ICFES:** Pragmática
 **Expected_Success:** 0.50
-**Context:** Logic of routine.
+**Contexto:** Logic of routine.
 
 ### Enunciado
 Choose the **incorrect** sequence of a daily routine:
 
-### Options
+### Opciones
 - [ ] A) Wake up → Have breakfast <!-- feedback: Incorrect. This sequence is correct. -->
 - [ ] B) Go to school → Have lunch <!-- feedback: Incorrect. This sequence is correct. -->
 - [x] C) Go to sleep → Go to school <!-- feedback: Correct! You cannot go to school while sleeping; this sequence is wrong. -->

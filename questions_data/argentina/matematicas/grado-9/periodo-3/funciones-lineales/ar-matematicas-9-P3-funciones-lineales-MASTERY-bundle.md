@@ -1,5 +1,5 @@
 ---
-id: "AR-MATEMATICAS-9-P3-funciones-lineales-791-MASTERY"
+id: "ar-matematicas-9-P3-funciones-lineales-MASTERY-bundle"
 country: "argentina"
 grado: 9
 asignatura: "matematicas"
@@ -12,21 +12,27 @@ total_options: 80
 alignment: "Curriculum-aligned MASTERY bundle"
 difficulty_distribution: "D3-D4: Q1-4, D5-D6: Q5-10, D7-D8: Q11-16, D9-D10: Q17-20"
 generated: "2026-06-09T19:46:36.807231"
-license: "CC BY-NC-SA 4.0"
+license: "FREE"
 open_source: false
+bundle_type: "weekly"
+year: 2026
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 ## Question 1 [D3-D4]
 
 **ID:** `AR-MATEMATICAS-9-P3-funciones-lineales-001`
-**Bloom:** [Remember]
-**Aprender:** [General competency]
-**Expected_Success:** [0.65]
+**Bloom:** Remember
+**ICFES:** [General competency]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Resuelva la siguiente ecuación: 3x + 7 = 22
 
-### Options
+### Opciones
 - [ ] A) x = 5 <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] C) x = 15 <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] D) x = 4 <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -41,14 +47,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 2 [D3-D4]
 
 **ID:** `AR-MATEMATICAS-9-P3-funciones-lineales-002`
-**Bloom:** [Understand]
-**Aprender:** [General competency]
-**Expected_Success:** [0.70]
+**Bloom:** Understand
+**ICFES:** [General competency]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es el valor de x en la expresión 2(x - 3) = 14?
 
-### Options
+### Opciones
 - [ ] D) x = 8 <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [x] B) x = 7 <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] C) x = 5 <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -63,14 +70,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 3 [D3-D4]
 
 **ID:** `AR-MATEMATICAS-9-P3-funciones-lineales-003`
-**Bloom:** [Apply]
-**Aprender:** [General competency]
-**Expected_Success:** [0.75]
+**Bloom:** Apply
+**ICFES:** [General competency]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Calcule el área de un triángulo de base 8 cm y altura 6 cm.
 
-### Options
+### Opciones
 - [ ] D) 36 cm² <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) 12 cm² <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] A) 24 cm² <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -85,14 +93,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 4 [D3-D4]
 
 **ID:** `AR-MATEMATICAS-9-P3-funciones-lineales-004`
-**Bloom:** [Analyze]
-**Aprender:** [General competency]
-**Expected_Success:** [0.80]
+**Bloom:** Analyze
+**ICFES:** [General competency]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Determine la pendiente de la recta que pasa por los puntos (2, 3) y (5, 9).
 
-### Options
+### Opciones
 - [ ] D) -1 <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [x] B) 2 <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] C) 3 <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -107,14 +116,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 5 [D5-D6]
 
 **ID:** `AR-MATEMATICAS-9-P3-funciones-lineales-005`
-**Bloom:** [Evaluate]
-**Aprender:** [General competency]
-**Expected_Success:** [0.65]
+**Bloom:** Evaluate
+**ICFES:** [General competency]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Simplifique la expresión: (2a³b²)(3a²b⁴)
 
-### Options
+### Opciones
 - [ ] A) 6a⁵b⁶ <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) 5a⁶b⁶ <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [x] B) 5a⁵b⁶ <!-- feedback: Correct. This is correct. Well done! -->
@@ -130,13 +140,14 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 
 **ID:** `AR-MATEMATICAS-9-P3-funciones-lineales-006`
 **Bloom:** [Create]
-**Aprender:** [General competency]
-**Expected_Success:** [0.70]
+**ICFES:** [General competency]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es el resultado de (x + 3)(x - 2)?
 
-### Options
+### Opciones
 - [x] B) x² + 5x - 6 <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) x² + x - 6 <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] C) x² - x - 6 <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -151,14 +162,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 7 [D5-D6]
 
 **ID:** `AR-MATEMATICAS-9-P3-funciones-lineales-007`
-**Bloom:** [Remember]
-**Aprender:** [General competency]
-**Expected_Success:** [0.75]
+**Bloom:** Remember
+**ICFES:** [General competency]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Resuelva: 2x + 5 ≥ 13
 
-### Options
+### Opciones
 - [x] B) x ≥ 8 <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) x ≥ 4 <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] C) x ≥ 13 <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -173,14 +185,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 8 [D5-D6]
 
 **ID:** `AR-MATEMATICAS-9-P3-funciones-lineales-008`
-**Bloom:** [Understand]
-**Aprender:** [General competency]
-**Expected_Success:** [0.80]
+**Bloom:** Understand
+**ICFES:** [General competency]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuánto es el 15% de 240?
 
-### Options
+### Opciones
 - [ ] D) 24 <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) 15 <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] A) 36 <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -195,14 +208,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 9 [D5-D6]
 
 **ID:** `AR-MATEMATICAS-9-P3-funciones-lineales-009`
-**Bloom:** [Apply]
-**Aprender:** [General competency]
-**Expected_Success:** [0.65]
+**Bloom:** Apply
+**ICFES:** [General competency]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Calcule la media aritmética de: 12, 15, 18, 21, 24
 
-### Options
+### Opciones
 - [x] B) 18.5 <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] C) 21 <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] A) 18 <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -217,14 +231,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 10 [D5-D6]
 
 **ID:** `AR-MATEMATICAS-9-P3-funciones-lineales-010`
-**Bloom:** [Analyze]
-**Aprender:** [General competency]
-**Expected_Success:** [0.70]
+**Bloom:** Analyze
+**ICFES:** [General competency]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es la probabilidad de obtener un número par al lanzar un dado de 6 caras?
 
-### Options
+### Opciones
 - [ ] D) 2/3 <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [x] B) 1/3 <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] C) 1/6 <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -239,14 +254,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 11 [D7-D8]
 
 **ID:** `AR-MATEMATICAS-9-P3-funciones-lineales-011`
-**Bloom:** [Evaluate]
-**Aprender:** [General competency]
-**Expected_Success:** [0.75]
+**Bloom:** Evaluate
+**ICFES:** [General competency]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Resuelva el sistema: x + y = 10, 2x - y = 5
 
-### Options
+### Opciones
 - [ ] D) (6, 4) <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [x] B) (4, 6) <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] C) (5, 4) <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -262,13 +278,14 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 
 **ID:** `AR-MATEMATICAS-9-P3-funciones-lineales-012`
 **Bloom:** [Create]
-**Aprender:** [General competency]
-**Expected_Success:** [0.80]
+**ICFES:** [General competency]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es el volumen de un cubo de arista 4 cm?
 
-### Options
+### Opciones
 - [x] B) 16 cm³ <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) 64 cm³ <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) 48 cm³ <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -283,14 +300,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 13 [D7-D8]
 
 **ID:** `AR-MATEMATICAS-9-P3-funciones-lineales-013`
-**Bloom:** [Remember]
-**Aprender:** [General competency]
-**Expected_Success:** [0.65]
+**Bloom:** Remember
+**ICFES:** [General competency]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Factorice: x² - 9
 
-### Options
+### Opciones
 - [ ] C) x(x-9) <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [x] B) (x-9)(x+9) <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) (x-3)(x+3) <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -305,14 +323,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 14 [D7-D8]
 
 **ID:** `AR-MATEMATICAS-9-P3-funciones-lineales-014`
-**Bloom:** [Understand]
-**Aprender:** [General competency]
-**Expected_Success:** [0.70]
+**Bloom:** Understand
+**ICFES:** [General competency]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Determine el valor de √144 + √81
 
-### Options
+### Opciones
 - [ ] D) 19 <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) 23 <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [x] B) 15 <!-- feedback: Correct. This is correct. Well done! -->
@@ -327,14 +346,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 15 [D7-D8]
 
 **ID:** `AR-MATEMATICAS-9-P3-funciones-lineales-015`
-**Bloom:** [Apply]
-**Aprender:** [General competency]
-**Expected_Success:** [0.75]
+**Bloom:** Apply
+**ICFES:** [General competency]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es la ecuación de la recta con pendiente 2 que pasa por (0, 3)?
 
-### Options
+### Opciones
 - [ ] C) y = 2x - 3 <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [x] B) y = 3x + 2 <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] D) y = x + 3 <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -349,14 +369,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 16 [D7-D8]
 
 **ID:** `AR-MATEMATICAS-9-P3-funciones-lineales-016`
-**Bloom:** [Analyze]
-**Aprender:** [General competency]
-**Expected_Success:** [0.80]
+**Bloom:** Analyze
+**ICFES:** [General competency]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Resuelva: 5! ÷ 3!
 
-### Options
+### Opciones
 - [ ] D) 60 <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [x] B) 15 <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] C) 10 <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -371,14 +392,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 17 [D9-D10]
 
 **ID:** `AR-MATEMATICAS-9-P3-funciones-lineales-017`
-**Bloom:** [Evaluate]
-**Aprender:** [General competency]
-**Expected_Success:** [0.65]
+**Bloom:** Evaluate
+**ICFES:** [General competency]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es el dominio de f(x) = √(x - 4)?
 
-### Options
+### Opciones
 - [x] B) x > 4 <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) x ≥ 4 <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) x > 0 <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -394,13 +416,14 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 
 **ID:** `AR-MATEMATICAS-9-P3-funciones-lineales-018`
 **Bloom:** [Create]
-**Aprender:** [General competency]
-**Expected_Success:** [0.70]
+**ICFES:** [General competency]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Convierta 0.75 a fracción simplificada.
 
-### Options
+### Opciones
 - [ ] C) 1/2 <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [x] B) 75/100 <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] D) 7/5 <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -415,14 +438,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 19 [D9-D10]
 
 **ID:** `AR-MATEMATICAS-9-P3-funciones-lineales-019`
-**Bloom:** [Remember]
-**Aprender:** [General competency]
-**Expected_Success:** [0.75]
+**Bloom:** Remember
+**ICFES:** [General competency]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es el perímetro de un círculo de radio 5 cm? (Use π ≈ 3.14)
 
-### Options
+### Opciones
 - [ ] A) 31.4 cm <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [x] B) 25 cm <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] D) 78.5 cm <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -437,14 +461,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 20 [D9-D10]
 
 **ID:** `AR-MATEMATICAS-9-P3-funciones-lineales-020`
-**Bloom:** [Understand]
-**Aprender:** [General competency]
-**Expected_Success:** [0.80]
+**Bloom:** Understand
+**ICFES:** [General competency]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Resuelva: log₂(8) + log₂(4)
 
-### Options
+### Opciones
 - [ ] C) 3 <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] A) 5 <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [x] B) 6 <!-- feedback: Correct. This is correct. Well done! -->

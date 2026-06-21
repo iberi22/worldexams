@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W04-reforma-protestante-001-MASTERY"
+id: "CO-SOC-7-2026-W04-reforma-protestante-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-ciudadanas"
 tema: "reforma-protestante"
-semana: "W04"
+week: "W04"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026 — Pensamiento Social"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Reforma Protestante — Grado 7
 ## Semana W04 — La Reforma Protestante: causas, desarrollo y consecuencias
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W04-reforma-protestante-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En la clase de sociales del Colegio San Carlos de Bogotá, la profesora pregunta qué fue la Reforma Protestante.
+**Contexto:** En la clase de sociales del Colegio San Carlos de Bogotá, la profesora pregunta qué fue la Reforma Protestante.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La Reforma Protestante fue un movimiento religioso iniciado por Martín Lutero e
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-SOC-7-2026-W04-reforma-protestante-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Cali, los estudiantes leen un fragmento de las 95 tesis que Martín Lutero clavó en la puerta de la iglesia de Wittenberg en 1517.
+**Contexto:** En el colegio de Cali, los estudiantes leen un fragmento de las 95 tesis que Martín Lutero clavó en la puerta de la iglesia de Wittenberg en 1517.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ Las 95 tesis de Lutero (31 de octubre de 1517) eran una invitación al debate ac
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-SOC-7-2026-W04-reforma-protestante-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Medellín, un estudiante pregunta cuáles eran las principales doctrinas que Lutero proponía.
+**Contexto:** En el colegio de Medellín, un estudiante pregunta cuáles eran las principales doctrinas que Lutero proponía.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -81,11 +85,11 @@ La teología de Lutero se resume en tres principios conocidos como los "tres sol
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-SOC-7-2026-W04-reforma-protestante-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Argumentación
-**Context:** En el colegio de Barranquilla, los estudiantes analizan por qué la Reforma tuvo tanto éxito en Alemania.
+**Contexto:** En el colegio de Barranquilla, los estudiantes analizan por qué la Reforma tuvo tanto éxito en Alemania.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -102,11 +106,11 @@ El éxito de la Reforma en Alemania no puede entenderse solo por razones religio
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-SOC-7-2026-W04-reforma-protestante-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Cartagena, los estudiantes leen un texto que compara el luteranismo y el calvinismo.
+**Contexto:** En el colegio de Cartagena, los estudiantes leen un texto que compara el luteranismo y el calvinismo.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -123,11 +127,11 @@ Juan Calvino (1509-1564), desde Ginebra, desarrolló una reforma más radical qu
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-SOC-7-2026-W04-reforma-protestante-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Pereira, la profesora explica cómo el Rey Enrique VIII de Inglaterra creó su propia Iglesia.
+**Contexto:** En el colegio de Pereira, la profesora explica cómo el Rey Enrique VIII de Inglaterra creó su propia Iglesia.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ El caso de Enrique VIII (1491-1547) es diferente al de Lutero y Calvino. Enrique
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-SOC-7-2026-W04-reforma-protestante-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Bucaramanga, los estudiantes analizan cómo la Reforma afectó a la educación y la alfabetización en Europa.
+**Contexto:** En el colegio de Bucaramanga, los estudiantes analizan cómo la Reforma afectó a la educación y la alfabetización en Europa.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Uno de los efectos más importantes de la Reforma fue el impulso a la educación
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-SOC-7-2026-W04-reforma-protestante-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Social
-**Context:** En la I.E. de Villavicencio, los estudiantes analizan un mapa de Europa religioso después de la Reforma.
+**Contexto:** En la I.E. de Villavicencio, los estudiantes analizan un mapa de Europa religioso después de la Reforma.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ La división religiosa de Europa tras la Reforma siguió un patrón geográfico 
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-SOC-7-2026-W04-reforma-protestante-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Sincelejo, los estudiantes analizan cómo la Reforma afectó a la economía a través de la "ética protestante".
+**Contexto:** En el colegio de Sincelejo, los estudiantes analizan cómo la Reforma afectó a la economía a través de la "ética protestante".
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -207,11 +211,11 @@ Max Weber (1864-1920) en su obra "La ética protestante y el espíritu del capit
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W04-reforma-protestante-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Manizales, los estudiantes debaten si la Reforma fue un avance para la libertad religiosa.
+**Contexto:** En el colegio de Manizales, los estudiantes debaten si la Reforma fue un avance para la libertad religiosa.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -228,11 +232,11 @@ Es importante no idealizar la Reforma en términos de libertad religiosa. Lutero
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-SOC-7-2026-W04-reforma-protestante-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Cúcuta, la profesora pregunta si la Reforma Protestante tuvo algún efecto en América Latina y Colombia.
+**Contexto:** En el colegio de Cúcuta, la profesora pregunta si la Reforma Protestante tuvo algún efecto en América Latina y Colombia.
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -249,11 +253,11 @@ La Reforma Protestante tuvo consecuencias indirectas pero profundas en América 
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W04-reforma-protestante-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** La profesora de sociales del colegio de Bogotá propone un ejercicio final: evaluar el legado de la Reforma en el mundo actual.
+**Contexto:** La profesora de sociales del colegio de Bogotá propone un ejercicio final: evaluar el legado de la Reforma en el mundo actual.
 **Expected_Success:** 0.42
 
 ### Enunciado

@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-001-MASTERY"
+id: "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W28 — Pubertad y Cambios en la Adolescencia
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, estudiantes definen qué es la pubertad.
+**Contexto:** En Bogotá, estudiantes definen qué es la pubertad.
 
 ### Enunciado
 ¿Qué es la pubertad?
 
-### Options
+### Opciones
 - [ ] A) El fin del crecimiento físico <!-- feedback: Incorrecto. El crecimiento continúa después de la pubertad. -->
 - [ ] B) Una enfermedad que afecta a los adolescentes <!-- feedback: Incorrecto. La pubertad no es una enfermedad, es un proceso natural. -->
 - [x] C) El período de cambios físicos y hormonales en el que el cuerpo se vuelve capaz de reproducirse <!-- feedback: Correcto. La pubertad es el inicio de la madurez sexual. -->
@@ -48,13 +51,14 @@ La **pubertad** es el proceso biológico mediante el cual el cuerpo del niño se
 
 **ID:** `CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, estudiantes identifican las hormonas que inician la pubertad.
+**Contexto:** En Medellín, estudiantes identifican las hormonas que inician la pubertad.
 
 ### Enunciado
 ¿Qué hormona es la principal responsable de iniciar la pubertad?
 
-### Options
+### Opciones
 - [ ] A) Insulina <!-- feedback: La insulina regula el azúcar en sangre, no la pubertad. -->
 - [ ] B) Adrenalina <!-- feedback: La adrenalina es la hormona del estrés y la emergencia. -->
 - [x] C) GnRH (hormona liberadora de gonadotropinas) <!-- feedback: Correcto. La GnRH del hipotálamo inicia la cascada hormonal de la pubertad. -->
@@ -79,13 +83,14 @@ Estas hormonas estaban "dormidas" durante la infancia y se "despiertan" en la pu
 
 **ID:** `CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, estudiantes explican los cambios físicos en niños durante la pubertad.
+**Contexto:** En Cali, estudiantes explican los cambios físicos en niños durante la pubertad.
 
 ### Enunciado
 ¿Cuál de los siguientes es un cambio físico típico en los niños durante la pubertad?
 
-### Options
+### Opciones
 - [ ] A) Crecimiento de los senos <!-- feedback: Ese es un cambio típico en las niñas, no en los niños. -->
 - [ ] B) Aparición de la menstruación <!-- feedback: La menstruación es un cambio femenino. -->
 - [x] C) Crecimiento del vello facial y corporal, y engrosamiento de la voz <!-- feedback: Correcto. Son cambios típicos masculinos por la testosterona. -->
@@ -112,13 +117,14 @@ Los cambios ocurren gradualmente y el ritmo varía entre personas. Es normal que
 
 **ID:** `CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, estudiantes explican los cambios físicos en niñas durante la pubertad.
+**Contexto:** En Barranquilla, estudiantes explican los cambios físicos en niñas durante la pubertad.
 
 ### Enunciado
 ¿Cuál es el primer signo visible de la pubertad en las niñas?
 
-### Options
+### Opciones
 - [ ] A) Primera menstruación (menarquia) <!-- feedback: La menarquia ocurre después, no es el primer signo. -->
 - [x] B) Desarrollo del botón mamario (crecimiento inicial de los senos) <!-- feedback: Correcto. El desarrollo mamario (telarquia) es el primer signo. -->
 - [ ] C) Crecimiento del vello púbico <!-- feedback: El vello púbico aparece después del desarrollo mamario. -->
@@ -143,13 +149,14 @@ La **menarquia** (primera menstruación) no significa que el cuerpo ya esté com
 
 **ID:** `CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, estudiantes aplican conceptos hormonales a la vida real.
+**Contexto:** En Bucaramanga, estudiantes aplican conceptos hormonales a la vida real.
 
 ### Enunciado
 María tiene 11 años y nota que su voz no ha cambiado, pero su amigo Pedro de 13 años sí tiene la voz más grave. ¿Por qué es esto normal?
 
-### Options
+### Opciones
 - [ ] A) Porque María tiene un problema hormonal <!-- feedback: No. Las niñas no experimentan engrosamiento significativo de la voz como los niños. -->
 - [ ] B) Porque los niños siempre maduran antes que las niñas <!-- feedback: Incorrecto. Generalmente es al revés: las niñas maduran antes. -->
 - [x] C) Porque los niños experimentan engrosamiento de la voz por la testosterona, mientras que en las niñas el cambio de voz es más sutil <!-- feedback: Correcto. La testosterona causa cambios vocales más notorios en los niños. -->
@@ -169,13 +176,14 @@ Es importante recordar que cada persona tiene su propio ritmo de desarrollo. Alg
 
 **ID:** `CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, estudiantes aplican el concepto de estirón de crecimiento.
+**Contexto:** En Cartagena, estudiantes aplican el concepto de estirón de crecimiento.
 
 ### Enunciado
 ¿Por qué durante la pubertad los adolescentes pueden sentirse "descoordinados" o torpes?
 
-### Options
+### Opciones
 - [ ] A) Porque pierden neuronas durante la pubertad <!-- feedback: Incorrecto. No se pierden neuronas por la pubertad. -->
 - [ ] B) Porque los huesos y los músculos crecen a ritmos diferentes, y el cerebro necesita adaptarse al nuevo cuerpo <!-- feedback: Correcto. -->
 - [ ] C) Porque dejan de hacer ejercicio <!-- feedback: La torpeza no se debe a falta de ejercicio. -->
@@ -196,13 +204,14 @@ Es temporal y normal. El cuerpo eventualmente se adapta. El estirón en niñas o
 
 **ID:** `CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan los cambios emocionales durante la adolescencia.
+**Contexto:** En Pereira, analizan los cambios emocionales durante la adolescencia.
 
 ### Enunciado
 ¿Por qué los adolescentes pueden experimentar cambios de humor repentinos durante la pubertad?
 
-### Options
+### Opciones
 - [ ] A) Porque quieren llamar la atención de los adultos <!-- feedback: No es la razón biológica principal. -->
 - [ ] B) Porque el cerebro deja de desarrollarse <!-- feedback: Incorrecto. El cerebro sigue desarrollándose hasta los 25 años. -->
 - [x] C) Por los cambios hormonales que afectan los neurotransmisores del cerebro, sumado al desarrollo del sistema límbico antes que la corteza prefrontal <!-- feedback: Correcto. Las hormonas y el desarrollo cerebral desigual afectan las emociones. -->
@@ -228,13 +237,14 @@ Es importante validar que estas emociones son reales y normales, y enseñar estr
 
 **ID:** `CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, analizan la diferencia entre pubertad y adolescencia.
+**Contexto:** En Manizales, analizan la diferencia entre pubertad y adolescencia.
 
 ### Enunciado
 ¿Cuál es la principal diferencia entre pubertad y adolescencia?
 
-### Options
+### Opciones
 - [ ] A) Son lo mismo, no hay diferencia <!-- feedback: No son lo mismo, aunque están relacionadas. -->
 - [ ] B) La pubertad solo ocurre en niñas y la adolescencia solo en niños <!-- feedback: Incorrecto. Ambos ocurren en todos. -->
 - [x] C) La pubertad se refiere a los cambios biológicos y hormonales, mientras que la adolescencia es un período psicosocial que incluye los cambios emocionales y sociales <!-- feedback: Correcto. Una es biológica, la otra es psicosocial. -->
@@ -263,13 +273,14 @@ Aunque a menudo se usan como sinónimos, **pubertad** y **adolescencia** son con
 
 **ID:** `CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan la importancia de la higiene durante la pubertad.
+**Contexto:** En Cúcuta, evalúan la importancia de la higiene durante la pubertad.
 
 ### Enunciado
 ¿Por qué es especialmente importante mantener una buena higiene personal durante la pubertad?
 
-### Options
+### Opciones
 - [ ] A) Porque los adolescentes huelen mal sin importar lo que hagan <!-- feedback: Incorrecto. Con buena higiene se puede controlar el olor. -->
 - [ ] B) Porque las glándulas sudoríparas y sebáceas se vuelven más activas, aumentando la sudoración, el olor corporal y la grasa en la piel <!-- feedback: Correcto. -->
 - [ ] C) Porque los profesores lo exigen en el colegio <!-- feedback: Es más que un requisito escolar. -->
@@ -300,13 +311,14 @@ Estos hábitos no solo son importantes para la salud, sino que también ayudan a
 
 **ID:** `CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan cómo afrontar los cambios de la pubertad.
+**Contexto:** En Ibagué, evalúan cómo afrontar los cambios de la pubertad.
 
 ### Enunciado
 Dos amigos de 13 años tienen ritmos de desarrollo muy diferentes: uno ya mide 1.70 m y tiene voz grave, el otro mide 1.50 m y su voz aún no ha cambiado. ¿Cuál es la mejor actitud frente a esta situación?
 
-### Options
+### Opciones
 - [ ] A) El más bajo debería preocuparse porque algo anda mal <!-- feedback: No hay motivo de preocupación si está dentro del rango normal. -->
 - [ ] B) El más alto debería burlarse del más bajo <!-- feedback: Las burlas por el desarrollo físico son dañinas e inapropiadas. -->
 - [x] C) Ambos deben entender que cada persona tiene su propio ritmo de desarrollo y ambos están dentro de lo normal <!-- feedback: Correcto. La variación en el ritmo de desarrollo es normal. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-4-2026-W11-evaluacion-integral-001-MASTERY"
+id: "CO-LEN-4-2026-W11-evaluacion-integral-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lengua-castellana"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 8
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W11 — Evaluación Integral
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEN-4-2026-W11-evaluacion-integral-001-MASTERY-v1`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Repaso de ortografía en la I.E. Francisco Arango en Villavicencio
+**Contexto:** Repaso de ortografía en la I.E. Francisco Arango en Villavicencio
 **Expected_Success:** 0.80
 
 ### Enunciado
 En un dictado sobre los Llanos, el estudiante escribió: "El llanero fue a **votar** la soga para atrapar al ganado". ¿Cuál es el error en esta frase?
 
-### Options
+### Opciones
 - [ ] A) Ganado se escribe con 'j'. <!-- feedback: Incorrecto. Ganado está correctamente escrito. -->
 - [x] B) Se debe usar **botar** (con B) porque significa arrojar o lanzar, no elegir en elecciones. <!-- feedback: Correcto. Es un error de homofonía muy común. -->
 - [ ] C) Llanero se escribe con 'y'. <!-- feedback: Incorrecto. Llanero viene de llano, con 'll'. -->
@@ -46,13 +51,13 @@ La evaluación integral retoma conceptos de semanas anteriores. La distinción e
 **ID:** `CO-LEN-4-2026-W11-evaluacion-integral-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** Análisis de una infografía sobre el reciclaje en Bogotá
+**Contexto:** Análisis de una infografía sobre el reciclaje en Bogotá
 **Expected_Success:** 0.85
 
 ### Enunciado
 En una infografía, ves un dibujo de un camión de basura y una flecha que apunta a una planta de procesamiento. ¿Qué indica la flecha en este texto discontinuo?
 
-### Options
+### Opciones
 - [ ] A) Que el camión es muy rápido. <!-- feedback: Incorrecto. La flecha no indica velocidad. -->
 - [ ] B) Que la basura es de color verde. <!-- feedback: Incorrecto. El color de la flecha es irrelevante para el contenido de la basura. -->
 - [x] C) El camino o proceso que sigue la basura después de ser recogida. <!-- feedback: Correcto. En las infografías, las flechas muestran el flujo o la dirección de la información. -->
@@ -68,13 +73,13 @@ La lectura de textos discontinuos (infografías) es una habilidad evaluada que r
 **ID:** `CO-LEN-4-2026-W11-evaluacion-integral-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** Polisemia en una conversación en Medellín
+**Contexto:** Polisemia en una conversación en Medellín
 **Expected_Success:** 0.78
 
 ### Enunciado
 "Esa **muñeca** de trapo tiene la **muñeca** rota". ¿A qué se refiere la segunda palabra resaltada?
 
-### Options
+### Opciones
 - [x] A) A la articulación que une la mano con el brazo. <!-- feedback: Correcto. Es un ejemplo de polisemia donde la misma palabra nombra un juguete y una parte del cuerpo. -->
 - [ ] B) A otra muñeca más pequeña. <!-- feedback: Incorrecto. El contexto indica una parte de la primera muñeca. -->
 - [ ] C) A una herramienta de costura. <!-- feedback: Incorrecto. No existe esa herramienta con ese nombre. -->
@@ -90,13 +95,13 @@ Identificar significados diferentes para una misma palabra según el contexto es
 **ID:** `CO-LEN-4-2026-W11-evaluacion-integral-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** Partes de una carta formal en una oficina de correos en Pasto
+**Contexto:** Partes de una carta formal en una oficina de correos en Pasto
 **Expected_Success:** 0.70
 
 ### Enunciado
 Estás escribiendo una carta formal. ¿En qué parte debes colocar tu firma y tu nombre completo?
 
-### Options
+### Opciones
 - [ ] A) Al principio, antes de la fecha. <!-- feedback: Incorrecto. Al principio va el lugar y la fecha. -->
 - [ ] B) En el medio del cuerpo de la carta. <!-- feedback: Incorrecto. El cuerpo es para el mensaje. -->
 - [x] C) Al final de la carta, después de la despedida. <!-- feedback: Correcto. La firma cierra el documento y valida quién lo escribió (el remitente). -->
@@ -112,13 +117,13 @@ Conocer la estructura de la carta formal permite al estudiante producir textos c
 **ID:** `CO-LEN-4-2026-W11-evaluacion-integral-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Propósito de un ensayo escolar sobre la comida chatarra
+**Contexto:** Propósito de un ensayo escolar sobre la comida chatarra
 **Expected_Success:** 0.65
 
 ### Enunciado
 Si escribes un ensayo titulado "Por qué no debemos comer dulces en exceso", ¿cuál es tu objetivo principal?
 
-### Options
+### Opciones
 - [ ] A) Contar una historia de un niño que comió muchos dulces. <!-- feedback: Incorrecto. Eso sería un cuento narrativo. -->
 - [x] B) Convencer a los lectores con razones y argumentos sobre un tema de salud. <!-- feedback: Correcto. El ensayo busca persuadir o dar una opinión sustentada. -->
 - [ ] C) Dar una receta de cocina saludable. <!-- feedback: Incorrecto. Eso sería un texto instructivo. -->
@@ -134,13 +139,13 @@ Diferenciar las tipologías textuales por su intención comunicativa es clave en
 **ID:** `CO-LEN-4-2026-W11-evaluacion-integral-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Técnica del subrayado en un texto de Geografía sobre el Chocó
+**Contexto:** Técnica del subrayado en un texto de Geografía sobre el Chocó
 **Expected_Success:** 0.72
 
 ### Enunciado
 En un texto sobre el departamento del Chocó, subrayaste la frase: "Es una de las regiones más lluviosas del planeta". ¿Por qué subrayaste esto?
 
-### Options
+### Opciones
 - [ ] A) Porque tiene la palabra "regiones" y me gusta cómo suena. <!-- feedback: Incorrecto. El gusto personal no guía el subrayado académico. -->
 - [x] B) Porque es una idea principal que describe una característica fundamental de ese lugar. <!-- feedback: Correcto. Se subraya lo que define la esencia del tema tratado. -->
 - [ ] C) Porque era la última frase del párrafo. <!-- feedback: Incorrecto. La posición no define la importancia. -->
@@ -156,13 +161,13 @@ El estudiante debe justificar su elección de subrayado basándose en la relevan
 **ID:** `CO-LEN-4-2026-W11-evaluacion-integral-001-MASTERY-v7`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** Evaluación de un discurso oral en una escuela de Barranquilla
+**Contexto:** Evaluación de un discurso oral en una escuela de Barranquilla
 **Expected_Success:** 0.60
 
 ### Enunciado
 Un compañero dio un discurso sobre el Carnaval, pero habló tan bajito que nadie en el fondo del salón escuchó nada. ¿Qué recomendación le darías para mejorar su discurso oral?
 
-### Options
+### Opciones
 - [ ] A) Que escriba el discurso en un papel más grande. <!-- feedback: Incorrecto. El problema no es el papel, sino la voz. -->
 - [x] B) Que proyecte mejor su voz y use un volumen adecuado para el tamaño del salón. <!-- feedback: Correcto. El manejo del volumen es esencial para que el mensaje llegue a toda la audiencia. -->
 - [ ] C) Que no diga nada y solo muestre fotos. <!-- feedback: Incorrecto. Un discurso requiere la palabra hablada. -->
@@ -178,13 +183,13 @@ La evaluación de la producción oral propia y ajena permite mejorar las habilid
 **ID:** `CO-LEN-4-2026-W11-evaluacion-integral-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Relaciones en un mapa conceptual sobre los medios de comunicación
+**Contexto:** Relaciones en un mapa conceptual sobre los medios de comunicación
 **Expected_Success:** 0.55
 
 ### Enunciado
 En un mapa conceptual sobre "Medios de Comunicación", sale una línea hacia "Periódico" y otra hacia "Televisión". ¿Qué palabra de enlace sería la más adecuada para poner sobre esas líneas?
 
-### Options
+### Opciones
 - [ ] A) Comen. <!-- feedback: Incorrecto. No tiene sentido lógico. -->
 - [ ] B) Miran. <!-- feedback: Incorrecto. Solo serviría para la televisión, no para el periódico. -->
 - [x] C) Son ejemplos de. <!-- feedback: Correcto. Establece una relación de clasificación o ejemplificación clara y lógica. -->

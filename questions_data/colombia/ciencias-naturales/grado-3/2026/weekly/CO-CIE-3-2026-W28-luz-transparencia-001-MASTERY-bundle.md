@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY"
+id: "CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "luz-transparencia"
-semana: "W28"
+week: "W28"
 periodo: 3
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Comportamiento de la luz con los objetos: materiales transpare
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # La Luz y los Materiales
 
 Este bundle explora cómo la luz interactúa con diferentes objetos, permitiéndonos clasificarlos según dejen pasar los rayos lumínicos o no.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Mariana mira a través de una ventana de vidrio limpio y puede ver claramente el jardín que está afuera.
+**Contexto:** Mariana mira a través de una ventana de vidrio limpio y puede ver claramente el jardín que está afuera.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ La transparencia es una propiedad física que permite que los rayos de luz atrav
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** El papel pergamino o un vidrio esmerilado dejan pasar algo de luz, pero no permiten ver con claridad lo que hay al otro lado.
+**Contexto:** El papel pergamino o un vidrio esmerilado dejan pasar algo de luz, pero no permiten ver con claridad lo que hay al otro lado.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -73,12 +77,12 @@ Los materiales translúcidos se usan cuando queremos que entre luz a una habitac
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Si intentas ver a través de una pared de ladrillo o una puerta de madera gruesa, notarás que no pasa nada de luz.
+**Contexto:** Si intentas ver a través de una pared de ladrillo o una puerta de madera gruesa, notarás que no pasa nada de luz.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -98,12 +102,12 @@ La mayoría de los objetos sólidos a nuestro alrededor son opacos. Estos materi
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Juan tiene tres vasos: uno de vidrio transparente, uno de plástico de color azul claro y uno de cerámica negra.
+**Contexto:** Juan tiene tres vasos: uno de vidrio transparente, uno de plástico de color azul claro y uno de cerámica negra.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ La oscuridad de una sombra depende de qué tan opaco sea el objeto. Entre más l
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Tienes que elegir un material para cubrir un bombillo y que la luz no moleste a los ojos, pero que la habitación siga iluminada.
+**Contexto:** Tienes que elegir un material para cubrir un bombillo y que la luz no moleste a los ojos, pero que la habitación siga iluminada.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -148,12 +152,12 @@ Las pantallas de lámparas son aplicaciones prácticas de los materiales transl�
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En un día de mucha niebla en la carretera, los conductores deben prender las luces y manejar despacio porque no ven bien los otros carros.
+**Contexto:** En un día de mucha niebla en la carretera, los conductores deben prender las luces y manejar despacio porque no ven bien los otros carros.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -173,12 +177,12 @@ La niebla es un ejemplo natural de fenómeno translúcido. El vapor de agua se h
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Las gafas de sol son oscuras para proteger nuestros ojos, pero aun así podemos ver a través de ellas.
+**Contexto:** Las gafas de sol son oscuras para proteger nuestros ojos, pero aun así podemos ver a través de ellas.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -198,12 +202,12 @@ No hay que confundir oscuridad con falta de transparencia. Un material puede ser
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Mariana pone una linterna debajo de su mano cerrada y nota que el borde de sus dedos se ve de un color rojizo brillante.
+**Contexto:** Mariana pone una linterna debajo de su mano cerrada y nota que el borde de sus dedos se ve de un color rojizo brillante.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -223,12 +227,12 @@ Nada es 100% una sola cosa en la naturaleza. Nuestra mano es mayormente opaca, p
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En el fondo del mar, a mucha profundidad, el agua sigue siendo líquida pero todo se ve totalmente oscuro.
+**Contexto:** En el fondo del mar, a mucha profundidad, el agua sigue siendo líquida pero todo se ve totalmente oscuro.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -248,12 +252,12 @@ La transparencia tiene un límite. Incluso el material más transparente, si es 
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W28-luz-transparencia-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un constructor de naves espaciales dice: "Voy a hacer todas las paredes de la nave de vidrio transparente para que los astronautas vean las estrellas".
+**Contexto:** Un constructor de naves espaciales dice: "Voy a hacer todas las paredes de la nave de vidrio transparente para que los astronautas vean las estrellas".
 **Expected_Success:** 0.55
 
 ### Enunciado

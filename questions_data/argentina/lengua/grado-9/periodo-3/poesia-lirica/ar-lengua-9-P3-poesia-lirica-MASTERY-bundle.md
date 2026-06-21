@@ -1,5 +1,5 @@
 ---
-id: "AR-LENGUA-9-P3-poesia-lirica-284-MASTERY"
+id: "ar-lengua-9-P3-poesia-lirica-MASTERY-bundle"
 country: "argentina"
 grado: 9
 asignatura: "lengua"
@@ -12,21 +12,27 @@ total_options: 80
 alignment: "Curriculum-aligned MASTERY bundle"
 difficulty_distribution: "D3-D4: Q1-4, D5-D6: Q5-10, D7-D8: Q11-16, D9-D10: Q17-20"
 generated: "2026-06-09T19:46:36.869929"
-license: "CC BY-NC-SA 4.0"
+license: "FREE"
 open_source: false
+bundle_type: "weekly"
+year: 2026
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 ## Question 1 [D3-D4]
 
 **ID:** `AR-LENGUA-9-P3-poesia-lirica-001`
-**Bloom:** [Remember]
-**Aprender:** [General competency]
-**Expected_Success:** [0.65]
+**Bloom:** Remember
+**ICFES:** [General competency]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es la función principal de un ensayo argumentativo?
 
-### Options
+### Opciones
 - [ ] D) Describir un proceso <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) Narrar una historia <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [x] B) Informar objetivamente <!-- feedback: Correct. This is correct. Well done! -->
@@ -41,14 +47,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 2 [D3-D4]
 
 **ID:** `AR-LENGUA-9-P3-poesia-lirica-002`
-**Bloom:** [Understand]
-**Aprender:** [General competency]
-**Expected_Success:** [0.70]
+**Bloom:** Understand
+**ICFES:** [General competency]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Identifique la oración subordinada en: 'El libro que me prestaste es fascinante.'
 
-### Options
+### Opciones
 - [x] B) El libro <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) que me prestaste <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] C) es fascinante <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -63,14 +70,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 3 [D3-D4]
 
 **ID:** `AR-LENGUA-9-P3-poesia-lirica-003`
-**Bloom:** [Apply]
-**Aprender:** [General competency]
-**Expected_Success:** [0.75]
+**Bloom:** Apply
+**ICFES:** [General competency]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué figura literaria predomina en 'Tus ojos son dos luceros'?
 
-### Options
+### Opciones
 - [ ] C) Hipérbole <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [x] B) Símil <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] D) Personificación <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -85,14 +93,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 4 [D3-D4]
 
 **ID:** `AR-LENGUA-9-P3-poesia-lirica-004`
-**Bloom:** [Analyze]
-**Aprender:** [General competency]
-**Expected_Success:** [0.80]
+**Bloom:** Analyze
+**ICFES:** [General competency]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Seleccione el sinónimo correcto de 'efímero'.
 
-### Options
+### Opciones
 - [ ] D) Lento / pausado <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) Grande / enorme <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] A) Breve / pasajero <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -107,14 +116,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 5 [D5-D6]
 
 **ID:** `AR-LENGUA-9-P3-poesia-lirica-005`
-**Bloom:** [Evaluate]
-**Aprender:** [General competency]
-**Expected_Success:** [0.65]
+**Bloom:** Evaluate
+**ICFES:** [General competency]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es la idea principal de un texto expositivo?
 
-### Options
+### Opciones
 - [x] B) Contar una historia <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) Explicar un tema <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] C) Convencer al lector <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -130,13 +140,14 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 
 **ID:** `AR-LENGUA-9-P3-poesia-lirica-006`
 **Bloom:** [Create]
-**Aprender:** [General competency]
-**Expected_Success:** [0.70]
+**ICFES:** [General competency]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Determine la categoría gramatical de la palabra 'rápidamente'.
 
-### Options
+### Opciones
 - [x] B) Adjetivo <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) Adverbio <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) Verbo <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -151,14 +162,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 7 [D5-D6]
 
 **ID:** `AR-LENGUA-9-P3-poesia-lirica-007`
-**Bloom:** [Remember]
-**Aprender:** [General competency]
-**Expected_Success:** [0.75]
+**Bloom:** Remember
+**ICFES:** [General competency]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Complete la oración correctamente: 'Si ___ tiempo, iría al cine.'
 
-### Options
+### Opciones
 - [ ] A) tuviera <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) tendré <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) tuve <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -173,14 +185,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 8 [D5-D6]
 
 **ID:** `AR-LENGUA-9-P3-poesia-lirica-008`
-**Bloom:** [Understand]
-**Aprender:** [General competency]
-**Expected_Success:** [0.80]
+**Bloom:** Understand
+**ICFES:** [General competency]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué tipo de texto es una noticia periodística?
 
-### Options
+### Opciones
 - [ ] D) Poético <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [x] B) Narrativo <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] C) Argumentativo <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -195,14 +208,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 9 [D5-D6]
 
 **ID:** `AR-LENGUA-9-P3-poesia-lirica-009`
-**Bloom:** [Apply]
-**Aprender:** [General competency]
-**Expected_Success:** [0.65]
+**Bloom:** Apply
+**ICFES:** [General competency]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Identifique el error ortográfico: 'Exámenes, exito, cárcel, árbol'
 
-### Options
+### Opciones
 - [ ] D) árbol <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [x] B) Exámenes <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) éxito <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -217,14 +231,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 10 [D5-D6]
 
 **ID:** `AR-LENGUA-9-P3-poesia-lirica-010`
-**Bloom:** [Analyze]
-**Aprender:** [General competency]
-**Expected_Success:** [0.70]
+**Bloom:** Analyze
+**ICFES:** [General competency]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es el sujeto de la oración 'Mañana llegarán los invitados'?
 
-### Options
+### Opciones
 - [x] B) Mañana <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] C) llegarán <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] D) invitados <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -239,14 +254,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 11 [D7-D8]
 
 **ID:** `AR-LENGUA-9-P3-poesia-lirica-011`
-**Bloom:** [Evaluate]
-**Aprender:** [General competency]
-**Expected_Success:** [0.75]
+**Bloom:** Evaluate
+**ICFES:** [General competency]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Defina el concepto de 'cohesión textual'.
 
-### Options
+### Opciones
 - [ ] C) Variedad léxica <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] D) Extensión del texto <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [x] B) Corrección gramatical <!-- feedback: Correct. This is correct. Well done! -->
@@ -262,13 +278,14 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 
 **ID:** `AR-LENGUA-9-P3-poesia-lirica-012`
 **Bloom:** [Create]
-**Aprender:** [General competency]
-**Expected_Success:** [0.80]
+**ICFES:** [General competency]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué función tiene un conector discursivo como 'sin embargo'?
 
-### Options
+### Opciones
 - [x] B) Añadir información <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] C) Ordenar ideas <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] D) Concluir <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -283,14 +300,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 13 [D7-D8]
 
 **ID:** `AR-LENGUA-9-P3-poesia-lirica-013`
-**Bloom:** [Remember]
-**Aprender:** [General competency]
-**Expected_Success:** [0.65]
+**Bloom:** Remember
+**ICFES:** [General competency]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Identifique la tesis en el siguiente argumento...
 
-### Options
+### Opciones
 - [ ] A) La tesis se presenta... <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) El texto no tiene tesis <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) El autor concluye... <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -305,14 +323,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 14 [D7-D8]
 
 **ID:** `AR-LENGUA-9-P3-poesia-lirica-014`
-**Bloom:** [Understand]
-**Aprender:** [General competency]
-**Expected_Success:** [0.70]
+**Bloom:** Understand
+**ICFES:** [General competency]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál de las siguientes opciones es un texto narrativo?
 
-### Options
+### Opciones
 - [ ] A) Un cuento <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) Una receta <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) Un instructivo <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -327,14 +346,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 15 [D7-D8]
 
 **ID:** `AR-LENGUA-9-P3-poesia-lirica-015`
-**Bloom:** [Apply]
-**Aprender:** [General competency]
-**Expected_Success:** [0.75]
+**Bloom:** Apply
+**ICFES:** [General competency]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Señale el adverbio de tiempo en: 'Siempre come después de trabajar.'
 
-### Options
+### Opciones
 - [ ] C) después <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] A) Siempre <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [x] B) come <!-- feedback: Correct. This is correct. Well done! -->
@@ -349,14 +369,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 16 [D7-D8]
 
 **ID:** `AR-LENGUA-9-P3-poesia-lirica-016`
-**Bloom:** [Analyze]
-**Aprender:** [General competency]
-**Expected_Success:** [0.80]
+**Bloom:** Analyze
+**ICFES:** [General competency]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Enumere las partes de un texto argumentativo.
 
-### Options
+### Opciones
 - [ ] C) Inicio, nudo, desenlace <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] A) Introducción, desarrollo, conclusión <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) Tesis, antítesis, síntesis <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -371,14 +392,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 17 [D9-D10]
 
 **ID:** `AR-LENGUA-9-P3-poesia-lirica-017`
-**Bloom:** [Evaluate]
-**Aprender:** [General competency]
-**Expected_Success:** [0.65]
+**Bloom:** Evaluate
+**ICFES:** [General competency]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es la diferencia entre denotación y connotación?
 
-### Options
+### Opciones
 - [ ] D) Formal vs informal <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] A) Significado literal vs figurado <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [x] B) Real vs imaginario <!-- feedback: Correct. This is correct. Well done! -->
@@ -394,13 +416,14 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 
 **ID:** `AR-LENGUA-9-P3-poesia-lirica-018`
 **Bloom:** [Create]
-**Aprender:** [General competency]
-**Expected_Success:** [0.70]
+**ICFES:** [General competency]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Corrija la concordancia: 'Habían muchas personas en la fiesta.'
 
-### Options
+### Opciones
 - [x] B) Habían muchas personas <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] C) Habían mucha gente <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] A) Había muchas personas <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -415,14 +438,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 19 [D9-D10]
 
 **ID:** `AR-LENGUA-9-P3-poesia-lirica-019`
-**Bloom:** [Remember]
-**Aprender:** [General competency]
-**Expected_Success:** [0.75]
+**Bloom:** Remember
+**ICFES:** [General competency]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué es una metáfora? Proporcione un ejemplo.
 
-### Options
+### Opciones
 - [ ] A) Comparación implícita <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) Repetición de sonidos <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) Exageración <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -437,14 +461,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 20 [D9-D10]
 
 **ID:** `AR-LENGUA-9-P3-poesia-lirica-020`
-**Bloom:** [Understand]
-**Aprender:** [General competency]
-**Expected_Success:** [0.80]
+**Bloom:** Understand
+**ICFES:** [General competency]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Analice el propósito del autor en un texto persuasivo.
 
-### Options
+### Opciones
 - [ ] D) Describir al lector <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [x] B) Entretener al lector <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] C) Informar al lector <!-- feedback: Incorrect. Common mistake, review the concept. -->

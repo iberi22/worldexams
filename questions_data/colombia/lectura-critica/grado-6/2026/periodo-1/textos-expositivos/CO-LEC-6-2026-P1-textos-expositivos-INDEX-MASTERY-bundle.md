@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-P1-textos-expositivos-INDEX-MASTERY"
+id: "CO-LEC-6-2026-P1-textos-expositivos-INDEX-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "textos expositivos, estructura informativa, propósito comunicativo, datos explícitos, organización textual"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G6 — Textos Expositivos
 
@@ -29,12 +36,13 @@ rubric_baseline: "textos expositivos, estructura informativa, propósito comunic
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Cuál es la única especie de oso que habita en Sudamérica?
 
-### Options
+### Opciones
 - [x] A) El oso de anteojos. <!-- feedback: Correcto. -->
 - [ ] B) El oso pardo. <!-- feedback: Incorrecto. -->
 - [ ] C) El oso polar. <!-- feedback: Incorrecto. -->
@@ -46,12 +54,13 @@ Identificación de un dato explícito al inicio del texto expositivo.
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Por qué se llama "oso de anteojos"?
 
-### Options
+### Opciones
 - [ ] A) Porque usa gafas. <!-- feedback: Incorrecto. -->
 - [x] B) Por las manchas blancas alrededor de sus ojos que parecen anteojos. <!-- feedback: Correcto. -->
 - [ ] C) Porque vive en casas de cristal. <!-- feedback: Incorrecto. -->
@@ -63,12 +72,13 @@ Identificación del origen del nombre común de una especie.
 ## Question 3 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Cuál es el propósito principal de este texto?
 
-### Options
+### Opciones
 - [ ] A) Contar una historia sobre un oso. <!-- feedback: Incorrecto. -->
 - [x] B) Exponer información científica sobre el oso de anteojos. <!-- feedback: Correcto. -->
 - [ ] C) Convencer al lector de que proteja los osos. <!-- feedback: Incorrecto. -->
@@ -80,12 +90,13 @@ Identificación del propósito comunicativo de un texto expositivo vs. narrativo
 ## Question 4 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Dónde habita el oso de anteojos en Colombia?
 
-### Options
+### Opciones
 - [ ] A) En la selva amazónica. <!-- feedback: Incorrecto. -->
 - [x] B) En la cordillera de los Andes. <!-- feedback: Correcto. -->
 - [ ] C) En la costa Caribe. <!-- feedback: Incorrecto. -->
@@ -97,12 +108,13 @@ Identificación de la ubicación geográfica del hábitat del oso de anteojos.
 ## Question 5 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Qué significa que el oso de anteojos sea omnívoro?
 
-### Options
+### Opciones
 - [ ] A) Que solo come frutas. <!-- feedback: Incorrecto. -->
 - [x] B) Que come plantas y animales. <!-- feedback: Correcto. -->
 - [ ] C) Que solo come carne. <!-- feedback: Incorrecto. -->
@@ -114,12 +126,13 @@ Comprensión de un término científico a partir del contexto.
 ## Question 6 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Qué clasificación le da la UICN al oso de anteojos?
 
-### Options
+### Opciones
 - [ ] A) En peligro crítico. <!-- feedback: Incorrecto. -->
 - [x] B) Vulnerable. <!-- feedback: Correcto. -->
 - [ ] C) Extinto en la naturaleza. <!-- feedback: Incorrecto. -->
@@ -131,12 +144,13 @@ Identificación de una categoría taxonómica de conservación.
 ## Question 7 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Por qué el oso de anteojos es tímido y evita el contacto con humanos?
 
-### Options
+### Opciones
 - [ ] A) Porque es agresivo. <!-- feedback: Incorrecto. -->
 - [x] B) Porque es una especie diferente al oso pardo, con un comportamiento natural más reservado. <!-- feedback: Correcto. -->
 - [ ] C) Porque odia a las personas. <!-- feedback: Incorrecto. -->
@@ -148,12 +162,13 @@ Inferencia sobre las diferencias de comportamiento entre especies de osos.
 ## Question 8 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué relación hay entre la deforestación y la situación del oso de anteojos?
 
-### Options
+### Opciones
 - [ ] A) La deforestación beneficia al oso. <!-- feedback: Incorrecto. -->
 - [x] B) La deforestación destruye su hábitat, contribuyendo a que sea vulnerable. <!-- feedback: Correcto. -->
 - [ ] C) La deforestación no lo afecta. <!-- feedback: Incorrecto. -->
@@ -165,12 +180,13 @@ Inferencia de la relación causa-efecto entre la deforestación y el estado de c
 ## Question 9 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué función cumplen los parques nacionales como el Cocuy y el Chingaza según el texto?
 
-### Options
+### Opciones
 - [ ] A) Son lugares turísticos. <!-- feedback: Incorrecto. -->
 - [x] B) Son áreas protegidas que ayudan a conservar el hábitat del oso. <!-- feedback: Correcto. -->
 - [ ] C) Son ciudades importantes. <!-- feedback: Incorrecto. -->
@@ -182,12 +198,13 @@ Inferencia de la función de las áreas protegidas en la conservación de especi
 ## Question 10 [D5]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Por qué es importante que existan textos expositivos como este sobre el oso de anteojos?
 
-### Options
+### Opciones
 - [ ] A) Para entretener a los lectores. <!-- feedback: Incorrecto. -->
 - [x] B) Para informar y crear conciencia sobre una especie vulnerable de nuestra fauna. <!-- feedback: Correcto. -->
 - [ ] C) Para vender boletos al zoológico. <!-- feedback: Incorrecto. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-3-2026-W31-la-silaba-001-MASTERY"
+id: "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 3"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: La sílaba - separación - Grado 3
 
@@ -22,7 +24,7 @@ Este bundle explora la división silábica de las palabras, identificando las pa
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -33,21 +35,20 @@ Este bundle explora la división silábica de las palabras, identificando las pa
 ¿Qué es una sílaba?
 
 ### Opciones
-- [ ] A) Una letra mayúscula al inicio de una oración.
-  <!-- feedback: No, eso es una regla ortográfica de puntuación. -->
-- [x] B) Cada uno de los golpes de voz en que se divide una palabra al decirla.
-  <!-- feedback: ¡Correcto! Las sílabas son las unidades de sonido en que dividimos las palabras. -->
-- [ ] C) Una oración completa que tiene sentido.
-  <!-- feedback: No, las sílabas forman palabras, no oraciones. -->
-- [ ] D) Un punto que se pone al final del texto.
-  <!-- feedback: No, eso es el punto final. -->
+- [ ] A) Una letra mayúscula al inicio de una oración. <!-- feedback: Incorrecto. Una letra mayúscula al inicio de una ora -->
+
+- [x] B) Cada uno de los golpes de voz en que se divide una palabra al decirla. <!-- feedback: Correcto! Cada uno de los golpes de voz en que se divide una palabra a -->
+
+- [ ] C) Una oración completa que tiene sentido. <!-- feedback: Incorrecto. Una oración completa que tiene sentido. -->
+
+- [ ] D) Un punto que se pone al final del texto. <!-- feedback: Incorrecto. Un punto que se pone al final del texto. -->
 
 ### Explicación Pedagogica
 La sílaba es el sonido o conjunto de sonidos que se pronuncian en un solo golpe de voz.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -58,21 +59,20 @@ La sílaba es el sonido o conjunto de sonidos que se pronuncian en un solo golpe
 ¿Cuál es la separación silábica correcta de la palabra **"tigre"**?
 
 ### Opciones
-- [ ] A) t-i-g-r-e
-  <!-- feedback: Esto es deletrear, no separar en sílabas. -->
-- [x] B) ti - gre
-  <!-- feedback: ¡Muy bien! Tiene dos sílabas. -->
-- [ ] C) tig - re
-  <!-- feedback: Incorrecto, la g y la r suelen ir juntas al inicio de sílaba. -->
-- [ ] D) tigre (una sola)
-  <!-- feedback: No, se pronuncia en dos golpes de voz. -->
+- [ ] A) t-i-g-r-e <!-- feedback: Incorrecto. t-i-g-r-e -->
+
+- [x] B) ti - gre <!-- feedback: Correcto! ti - gre -->
+
+- [ ] C) tig - re <!-- feedback: Incorrecto. tig - re -->
+
+- [ ] D) tigre (una sola) <!-- feedback: Incorrecto. tigre (una sola) -->
 
 ### Explicación Pedagogica
 Dividir correctamente las palabras ayuda a mejorar la pronunciación y la escritura al final del renglón.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -83,21 +83,20 @@ Dividir correctamente las palabras ayuda a mejorar la pronunciación y la escrit
 ¿Cómo se llaman las palabras que tienen una sola sílaba, como **"sol"** o **"pan"**?
 
 ### Opciones
-- [x] A) Monosílabas.
-  <!-- feedback: ¡Excelente! "Mono" significa uno. -->
-- [ ] B) Bisílabas.
-  <!-- feedback: Estas tienen dos sílabas. -->
-- [ ] C) Trisílabas.
-  <!-- feedback: Estas tienen tres sílabas. -->
-- [ ] D) Polisílabas.
-  <!-- feedback: Estas tienen cuatro o más sílabas. -->
+- [x] A) Monosílabas. <!-- feedback: Correcto! Monosílabas. -->
+
+- [ ] B) Bisílabas. <!-- feedback: Incorrecto. Bisílabas. -->
+
+- [ ] C) Trisílabas. <!-- feedback: Incorrecto. Trisílabas. -->
+
+- [ ] D) Polisílabas. <!-- feedback: Incorrecto. Polisílabas. -->
 
 ### Explicación Pedagogica
 Las palabras se clasifican por su número de sílabas en monosílabas, bisílabas, trisílabas y polisílabas.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -108,23 +107,22 @@ Las palabras se clasifican por su número de sílabas en monosílabas, bisílaba
 ¿Cuál de estas palabras es **trisílaba**?
 
 ### Opciones
-- [ ] A) Sal
-  <!-- feedback: Es monosílaba. -->
-- [ ] B) Arepa
-  <!-- feedback: a-re-pa. ¡Esta tiene tres! Pero miremos las otras. Oh, espera, arepa es trisílaba. -->
-- [x] B) Arepa
-  <!-- feedback: ¡Correcto! a - re - pa (3 sílabas). -->
-- [ ] C) Chocolate
-  <!-- feedback: cho-co-la-te (4 sílabas, es polisílaba). -->
-- [ ] D) Pan
-  <!-- feedback: Es monosílaba. -->
+- [ ] A) Sal <!-- feedback: Incorrecto. Sal -->
+
+- [ ] B) Arepa <!-- feedback: Incorrecto. Arepa -->
+
+- [x] B) Arepa <!-- feedback: Correcto! Arepa -->
+
+- [ ] C) Chocolate <!-- feedback: Incorrecto. Chocolate -->
+
+- [ ] D) Pan <!-- feedback: Incorrecto. Pan -->
 
 ### Explicación Pedagogica
 Contar los golpes de voz permite identificar la categoría de la palabra según su extensión silábica.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -135,21 +133,20 @@ Contar los golpes de voz permite identificar la categoría de la palabra según 
 En la palabra **"Castillo"**, ¿cuál es la sílaba que suena más fuerte (sílaba tónica)?
 
 ### Opciones
-- [ ] A) Cas
-  <!-- feedback: No es la que suena más fuerte. -->
-- [x] B) ti
-  <!-- feedback: ¡Así es! Cas - TI - llo. La fuerza de voz está en "ti". -->
-- [ ] C) llo
-  <!-- feedback: No es la sílaba tónica. -->
-- [ ] D) Todas suenan igual.
-  <!-- feedback: En español casi todas las palabras tienen una sílaba que destaca. -->
+- [ ] A) Cas <!-- feedback: Incorrecto. Cas -->
+
+- [x] B) ti <!-- feedback: Correcto! ti -->
+
+- [ ] C) llo <!-- feedback: Incorrecto. llo -->
+
+- [ ] D) Todas suenan igual. <!-- feedback: Incorrecto. Todas suenan igual. -->
 
 ### Explicación Pedagogica
 La sílaba tónica es aquella sobre la que recae el mayor acento o intensidad en la pronunciación de la palabra.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -160,21 +157,20 @@ La sílaba tónica es aquella sobre la que recae el mayor acento o intensidad en
 ¿Cuál es la separación correcta de la palabra **"ciudad"**?
 
 ### Opciones
-- [ ] A) c-i-u-d-a-d
-  <!-- feedback: Esto es deletrear. -->
-- [x] B) ciu - dad
-  <!-- feedback: ¡Exacto! La i y la u forman un diptongo y no se separan. -->
-- [ ] C) ci - u - dad
-  <!-- feedback: No se deben separar dos vocales cerradas juntas. -->
-- [ ] D) ciudad (una sola)
-  <!-- feedback: No, tiene dos golpes de voz. -->
+- [ ] A) c-i-u-d-a-d <!-- feedback: Incorrecto. c-i-u-d-a-d -->
+
+- [x] B) ciu - dad <!-- feedback: Correcto! ciu - dad -->
+
+- [ ] C) ci - u - dad <!-- feedback: Incorrecto. ci - u - dad -->
+
+- [ ] D) ciudad (una sola) <!-- feedback: Incorrecto. ciudad (una sola) -->
 
 ### Explicación Pedagogica
 El diptongo es la unión de dos vocales en una misma sílaba; entenderlo es clave para la correcta división silábica.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -185,21 +181,20 @@ El diptongo es la unión de dos vocales en una misma sílaba; entenderlo es clav
 ¿Cómo se separa correctamente la palabra **"biodiversidad"**?
 
 ### Opciones
-- [ ] A) bi-o-di-ver-si-dad
-  <!-- feedback: No es correcto. -->
-- [x] B) bio - di - ver - si - dad
-  <!-- feedback: ¡Muy bien! Tiene 5 sílabas. -->
-- [ ] C) biodi - versi - dad
-  <!-- feedback: Las sílabas están mal agrupadas. -->
-- [ ] D) bio - di - ver - sidad
-  <!-- feedback: "sidad" se puede separar en "si" y "dad". -->
+- [ ] A) bi-o-di-ver-si-dad <!-- feedback: Incorrecto. bi-o-di-ver-si-dad -->
+
+- [x] B) bio - di - ver - si - dad <!-- feedback: Correcto! bio - di - ver - si - dad -->
+
+- [ ] C) biodi - versi - dad <!-- feedback: Incorrecto. biodi - versi - dad -->
+
+- [ ] D) bio - di - ver - sidad <!-- feedback: Incorrecto. bio - di - ver - sidad -->
 
 ### Explicación Pedagogica
 Las palabras polisílabas requieren un análisis cuidadoso de cada golpe de voz para su correcta división.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -210,21 +205,20 @@ Las palabras polisílabas requieren un análisis cuidadoso de cada golpe de voz 
 En la palabra **"computador"**, ¿cuántas sílabas **átonas** (las que no suenan fuerte) hay?
 
 ### Opciones
-- [ ] A) Una.
-  <!-- feedback: Hay más. -->
-- [ ] B) Dos.
-  <!-- feedback: Hay más. -->
-- [x] C) Tres.
-  <!-- feedback: ¡Excelente! com - pu - ta - DOR. "com", "pu" y "ta" son átonas. -->
-- [ ] D) Cuatro.
-  <!-- feedback: La última es la tónica, no es átona. -->
+- [ ] A) Una. <!-- feedback: Incorrecto. Una. -->
+
+- [ ] B) Dos. <!-- feedback: Incorrecto. Dos. -->
+
+- [x] C) Tres. <!-- feedback: Correcto! Tres. -->
+
+- [ ] D) Cuatro. <!-- feedback: Incorrecto. Cuatro. -->
 
 ### Explicación Pedagogica
 Las sílabas átonas son las que se pronuncian con menor intensidad dentro de una palabra.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -235,21 +229,20 @@ Las sílabas átonas son las que se pronuncian con menor intensidad dentro de un
 Si al final de un renglón no cabe la palabra **"mariposa"**, ¿cuál es una forma CORRECTA de dividirla usando el guion?
 
 ### Opciones
-- [ ] A) m- ariposa
-  <!-- feedback: No se puede dejar una letra sola al inicio. -->
-- [x] B) mari- posa
-  <!-- feedback: ¡Muy bien! Se divide exactamente por una de sus sílabas. -->
-- [ ] C) marip- osa
-  <!-- feedback: No es correcto dejar la vocal sola al final si se puede evitar. -->
-- [ ] D) ma- r- iposa
-  <!-- feedback: No se pueden separar letras dentro de una misma sílaba. -->
+- [ ] A) m- ariposa <!-- feedback: Incorrecto. m- ariposa -->
+
+- [x] B) mari- posa <!-- feedback: Correcto! mari- posa -->
+
+- [ ] C) marip- osa <!-- feedback: Incorrecto. marip- osa -->
+
+- [ ] D) ma- r- iposa <!-- feedback: Incorrecto. ma- r- iposa -->
 
 ### Explicación Pedagogica
 Al dividir palabras al final del renglón, debemos respetar siempre los límites de las sílabas.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -260,16 +253,15 @@ Al dividir palabras al final del renglón, debemos respetar siempre los límites
 Si inventas la palabra **"saltarilón"**, ¿cómo se separa en sílabas?
 
 ### Opciones
-- [ ] A) sal - ta - ri - lón
-  <!-- feedback: ¡Muy bien! Esta es la forma correcta. -->
-- [x] A) sal - ta - ri - lón
-  <!-- feedback: ¡Muy bien! Esta es la forma correcta. -->
-- [ ] B) salt - a - ri - lón
-  <!-- feedback: No se separa así. -->
-- [ ] C) salta - rilón
-  <!-- feedback: No son sílabas simples. -->
-- [ ] D) s - a - l - t - a - r - i - l - ó - n
-  <!-- feedback: Esto es deletrear. -->
+- [ ] A) sal - ta - ri - lón <!-- feedback: Incorrecto. sal - ta - ri - lón -->
+
+- [x] A) sal - ta - ri - lón <!-- feedback: Correcto! sal - ta - ri - lón -->
+
+- [ ] B) salt - a - ri - lón <!-- feedback: Incorrecto. salt - a - ri - lón -->
+
+- [ ] C) salta - rilón <!-- feedback: Incorrecto. salta - rilón -->
+
+- [ ] D) s - a - l - t - a - r - i - l - ó - n <!-- feedback: Incorrecto. s - a - l - t - a - r - i - l - ó - n -->
 
 ### Explicación Pedagogica
 La creatividad en el lenguaje también debe seguir las reglas rítmicas y sonoras de las sílabas en español.

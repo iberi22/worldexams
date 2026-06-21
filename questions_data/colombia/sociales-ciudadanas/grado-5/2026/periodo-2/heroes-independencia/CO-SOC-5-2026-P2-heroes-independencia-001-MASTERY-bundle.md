@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-5-2026-P2-heroes-independencia-001-MASTERY"
+id: "CO-SOC-5-2026-P2-heroes-independencia-001-MASTERY-bundle"
 country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
@@ -8,131 +8,148 @@ periodo: 2
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos"
+alignment: "DBA MEN + Estï¿½ndares Bï¿½sicos"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.65
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
-rubric_baseline: "Héroes de la independencia de Colombia, Bolívar, Santander, Policarpa, Nariño, próceres"
+rubric_baseline: "Hï¿½roes de la independencia de Colombia, Bolï¿½var, Santander, Policarpa, Nariï¿½o, prï¿½ceres"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
 
-# Bundle Mastery: Héroes de la Independencia
 
-Este bundle cubre los principales personajes de la independencia de Colombia: Simón Bolívar, Francisco de Paula Santander, Policarpa Salavarrieta, Antonio Nariño, José Antonio Galán y otros próceres. Contenido del segundo periodo para grado 5.
+# Bundle Mastery: Hï¿½roes de la Independencia
+
+Este bundle cubre los principales personajes de la independencia de Colombia: Simï¿½n Bolï¿½var, Francisco de Paula Santander, Policarpa Salavarrieta, Antonio Nariï¿½o, Josï¿½ Antonio Galï¿½n y otros prï¿½ceres. Contenido del segundo periodo para grado 5.
 
 ---
 
 ## Question 1 [D3]
 **ID:** `CO-SOC-5-2026-P2-heroes-independencia-001-MASTERY-v1`
-**Bloom:** [Remember] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en Bogotá, la profesora pregunta por los principales personajes de la independencia.
-**Enunciado:** ¿Quién fue conocido como "El Libertador" y lideró las campañas militares que independizaron a Colombia, Venezuela, Ecuador, Perú y Bolivia?
+**Bloom:** Remember | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En clase de sociales en Bogotï¿½, la profesora pregunta por los principales personajes de la independencia.
+**Enunciado:** ï¿½Quiï¿½n fue conocido como "El Libertador" y liderï¿½ las campaï¿½as militares que independizaron a Colombia, Venezuela, Ecuador, Perï¿½ y Bolivia?
 **Options:**
 - [ ] A) Francisco de Paula Santander. <!-- feedback: Incorrecto. Santander fue "El Hombre de las Leyes", no "El Libertador". -->
-- [x] B) Simón Bolívar. <!-- feedback: Correcto. Simón Bolívar es conocido como "El Libertador" por su papel crucial en la independencia de cinco naciones sudamericanas. -->
-- [ ] C) Antonio Nariño. <!-- feedback: Incorrecto. Nariño fue un precursor y traductor de los Derechos del Hombre, pero no lideró campañas militares a gran escala. -->
-- [ ] D) José Antonio Galán. <!-- feedback: Incorrecto. Galán lideró la Revolución de los Comuneros en 1781, antes de la independencia formal. -->
+- [x] B) Simï¿½n Bolï¿½var. <!-- feedback: Correcto. Simï¿½n Bolï¿½var es conocido como "El Libertador" por su papel crucial en la independencia de cinco naciones sudamericanas. -->
+- [ ] C) Antonio Nariï¿½o. <!-- feedback: Incorrecto. Nariï¿½o fue un precursor y traductor de los Derechos del Hombre, pero no liderï¿½ campaï¿½as militares a gran escala. -->
+- [ ] D) Josï¿½ Antonio Galï¿½n. <!-- feedback: Incorrecto. Galï¿½n liderï¿½ la Revoluciï¿½n de los Comuneros en 1781, antes de la independencia formal. -->
 
 ## Question 2 [D3]
 **ID:** `CO-SOC-5-2026-P2-heroes-independencia-001-MASTERY-v2`
-**Bloom:** [Remember] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales en Tunja, el profesor habla del "Hombre de las Leyes".
-**Enunciado:** ¿Quién fue conocido como "El Hombre de las Leyes" y fue el primer presidente de la Nueva Granada?
+**Bloom:** Remember | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En la clase de sociales en Tunja, el profesor habla del "Hombre de las Leyes".
+**Enunciado:** ï¿½Quiï¿½n fue conocido como "El Hombre de las Leyes" y fue el primer presidente de la Nueva Granada?
 **Options:**
-- [x] A) Francisco de Paula Santander. <!-- feedback: Correcto. Santander fue vicepresidente de la Gran Colombia y luego primer presidente de la Nueva Granada, destacándose por su labor organizadora del Estado. -->
-- [ ] B) Simón Bolívar. <!-- feedback: Incorrecto. Bolívar fue "El Libertador", no "El Hombre de las Leyes". -->
-- [ ] C) José María Obando. <!-- feedback: Incorrecto. Obando fue presidente después, pero no es conocido como "El Hombre de las Leyes". -->
-- [ ] D) Tomás Cipriano de Mosquera. <!-- feedback: Incorrecto. Mosquera fue presidente en el siglo XIX, pero no tiene ese apelativo. -->
+- [x] A) Francisco de Paula Santander. <!-- feedback: Correcto. Santander fue vicepresidente de la Gran Colombia y luego primer presidente de la Nueva Granada, destacï¿½ndose por su labor organizadora del Estado. -->
+- [ ] B) Simï¿½n Bolï¿½var. <!-- feedback: Incorrecto. Bolï¿½var fue "El Libertador", no "El Hombre de las Leyes". -->
+- [ ] C) Josï¿½ Marï¿½a Obando. <!-- feedback: Incorrecto. Obando fue presidente despuï¿½s, pero no es conocido como "El Hombre de las Leyes". -->
+- [ ] D) Tomï¿½s Cipriano de Mosquera. <!-- feedback: Incorrecto. Mosquera fue presidente en el siglo XIX, pero no tiene ese apelativo. -->
 
 ## Question 3 [D4]
 **ID:** `CO-SOC-5-2026-P2-heroes-independencia-001-MASTERY-v3`
-**Bloom:** [Understand] | **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En el Museo de la Independencia en Bogotá, los estudiantes ven el retrato de una heroína.
-**Enunciado:** Policarpa Salavarrieta, conocida como "La Pola", fue una heroína de la independencia que:
+**Bloom:** Understand | **ICFES:** [Interpretaciï¿½n y anï¿½lisis de perspectivas]
+**Expected_Success:** 0.75
+**Contexto:** En el Museo de la Independencia en Bogotï¿½, los estudiantes ven el retrato de una heroï¿½na.
+**Enunciado:** Policarpa Salavarrieta, conocida como "La Pola", fue una heroï¿½na de la independencia que:
 **Options:**
-- [ ] A) Lideró un ejército de 10.000 soldados. <!-- feedback: Incorrecto. Policarpa no fue comandante militar, fue espía. -->
-- [ ] B) Diseñó la bandera de Colombia. <!-- feedback: Incorrecto. Eso fue Francisco de Miranda. -->
-- [x] C) Trabajó como espía para los independentistas, ayudando con información estratégica, y fue fusilada por los españoles. <!-- feedback: Correcto. Policarpa Salavarrieta, junto con su hermano, recogía información sobre los movimientos realistas y ayudaba a los patriotas. Fue capturada y ejecutada el 14 de noviembre de 1817. -->
-- [ ] D) Escribió la letra del himno nacional. <!-- feedback: Incorrecto. La letra del himno la escribió Rafael Núñez. -->
+- [ ] A) Liderï¿½ un ejï¿½rcito de 10.000 soldados. <!-- feedback: Incorrecto. Policarpa no fue comandante militar, fue espï¿½a. -->
+- [ ] B) Diseï¿½ï¿½ la bandera de Colombia. <!-- feedback: Incorrecto. Eso fue Francisco de Miranda. -->
+- [x] C) Trabajï¿½ como espï¿½a para los independentistas, ayudando con informaciï¿½n estratï¿½gica, y fue fusilada por los espaï¿½oles. <!-- feedback: Correcto. Policarpa Salavarrieta, junto con su hermano, recogï¿½a informaciï¿½n sobre los movimientos realistas y ayudaba a los patriotas. Fue capturada y ejecutada el 14 de noviembre de 1817. -->
+- [ ] D) Escribiï¿½ la letra del himno nacional. <!-- feedback: Incorrecto. La letra del himno la escribiï¿½ Rafael Nï¿½ï¿½ez. -->
 
 ## Question 4 [D4]
 **ID:** `CO-SOC-5-2026-P2-heroes-independencia-001-MASTERY-v4`
-**Bloom:** [Understand] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. San Bartolomé de Bogotá, el profesor explica la labor de Antonio Nariño.
-**Enunciado:** Antonio Nariño es recordado especialmente por:
+**Bloom:** Understand | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En la clase de sociales de la I.E. San Bartolomï¿½ de Bogotï¿½, el profesor explica la labor de Antonio Nariï¿½o.
+**Enunciado:** Antonio Nariï¿½o es recordado especialmente por:
 **Options:**
-- [ ] A) Haber sido el primer presidente de Colombia. <!-- feedback: Incorrecto. Nariño fue presidente de la República de Cundinamarca, no de la Colombia independiente. -->
-- [x] B) Traducir y publicar clandestinamente "Los Derechos del Hombre y del Ciudadano" en 1793. <!-- feedback: Correcto. Nariño tradujo del francés los Derechos del Hombre, un documento de la Revolución Francesa, y fue encarcelado por ello. Su acción difundió las ideas de libertad e igualdad que inspiraron la independencia. -->
-- [ ] C) Diseñar el escudo nacional. <!-- feedback: Incorrecto. El escudo fue diseñado después, en la época de la Gran Colombia. -->
-- [ ] D) Comandar la Batalla de Boyacá. <!-- feedback: Incorrecto. La Batalla de Boyacá fue comandada por Bolívar y Santander. -->
+- [ ] A) Haber sido el primer presidente de Colombia. <!-- feedback: Incorrecto. Nariï¿½o fue presidente de la Repï¿½blica de Cundinamarca, no de la Colombia independiente. -->
+- [x] B) Traducir y publicar clandestinamente "Los Derechos del Hombre y del Ciudadano" en 1793. <!-- feedback: Correcto. Nariï¿½o tradujo del francï¿½s los Derechos del Hombre, un documento de la Revoluciï¿½n Francesa, y fue encarcelado por ello. Su acciï¿½n difundiï¿½ las ideas de libertad e igualdad que inspiraron la independencia. -->
+- [ ] C) Diseï¿½ar el escudo nacional. <!-- feedback: Incorrecto. El escudo fue diseï¿½ado despuï¿½s, en la ï¿½poca de la Gran Colombia. -->
+- [ ] D) Comandar la Batalla de Boyacï¿½. <!-- feedback: Incorrecto. La Batalla de Boyacï¿½ fue comandada por Bolï¿½var y Santander. -->
 
 ## Question 5 [D4]
 **ID:** `CO-SOC-5-2026-P2-heroes-independencia-001-MASTERY-v5`
-**Bloom:** [Apply] | **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Los estudiantes de la I.E. Técnica de Socorro visitan la casa de la Revolución de los Comuneros.
-**Enunciado:** José Antonio Galán lideró la Revolución de los Comuneros en 1781. ¿Qué reivindicaciones principales tenía este movimiento?
+**Bloom:** Apply | **ICFES:** [Pensamiento reflexivo y sistï¿½mico]
+**Expected_Success:** 0.75
+**Contexto:** Los estudiantes de la I.E. Tï¿½cnica de Socorro visitan la casa de la Revoluciï¿½n de los Comuneros.
+**Enunciado:** Josï¿½ Antonio Galï¿½n liderï¿½ la Revoluciï¿½n de los Comuneros en 1781. ï¿½Quï¿½ reivindicaciones principales tenï¿½a este movimiento?
 **Options:**
-- [ ] A) Exigir la abdicación del rey de España. <!-- feedback: Incorrecto. Los comuneros no buscaban la independencia total, sino cambios en el sistema de impuestos. -->
-- [x] B) Protestar contra los altos impuestos, el monopolio del tabaco y el aguardiente, y el maltrato a los indígenas. <!-- feedback: Correcto. Los comuneros se levantaron contra los impuestos abusivos (armada de Barlovento, alcabalas) y los monopolios comerciales que afectaban a los sectores populares. -->
-- [ ] C) Pedir la construcción de escuelas públicas. <!-- feedback: Incorrecto. Aunque importante, la educación no era su reivindicación principal. -->
-- [ ] D) Exigir la abolición de la esclavitud. <!-- feedback: Incorrecto. La abolición de la esclavitud fue un tema posterior en la historia colombiana. -->
+- [ ] A) Exigir la abdicaciï¿½n del rey de Espaï¿½a. <!-- feedback: Incorrecto. Los comuneros no buscaban la independencia total, sino cambios en el sistema de impuestos. -->
+- [x] B) Protestar contra los altos impuestos, el monopolio del tabaco y el aguardiente, y el maltrato a los indï¿½genas. <!-- feedback: Correcto. Los comuneros se levantaron contra los impuestos abusivos (armada de Barlovento, alcabalas) y los monopolios comerciales que afectaban a los sectores populares. -->
+- [ ] C) Pedir la construcciï¿½n de escuelas pï¿½blicas. <!-- feedback: Incorrecto. Aunque importante, la educaciï¿½n no era su reivindicaciï¿½n principal. -->
+- [ ] D) Exigir la aboliciï¿½n de la esclavitud. <!-- feedback: Incorrecto. La aboliciï¿½n de la esclavitud fue un tema posterior en la historia colombiana. -->
 
 ## Question 6 [D4]
 **ID:** `CO-SOC-5-2026-P2-heroes-independencia-001-MASTERY-v6`
-**Bloom:** [Understand] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. José María Córdoba de Medellín, hablan de los héroes antioqueños.
-**Enunciado:** José María Córdoba fue un héroe de la independencia que se destacó en la Batalla de Ayacucho (1824). ¿Cuál era su región de origen?
+**Bloom:** Understand | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En la clase de sociales de la I.E. Josï¿½ Marï¿½a Cï¿½rdoba de Medellï¿½n, hablan de los hï¿½roes antioqueï¿½os.
+**Enunciado:** Josï¿½ Marï¿½a Cï¿½rdoba fue un hï¿½roe de la independencia que se destacï¿½ en la Batalla de Ayacucho (1824). ï¿½Cuï¿½l era su regiï¿½n de origen?
 **Options:**
-- [ ] A) Cartagena de Indias. <!-- feedback: Incorrecto. Córdoba no era cartagenero. -->
-- [ ] B) Popayán. <!-- feedback: Incorrecto. Córdoba no era payanés. -->
-- [x] C) Antioquia, donde nació en Rionegro. <!-- feedback: Correcto. José María Córdoba nació en Rionegro, Antioquia, y es recordado por su valentía en la Batalla de Ayacucho, que selló la independencia del Perú. -->
-- [ ] D) Cali. <!-- feedback: Incorrecto. Córdoba no era caleño. -->
+- [ ] A) Cartagena de Indias. <!-- feedback: Incorrecto. Cï¿½rdoba no era cartagenero. -->
+- [ ] B) Popayï¿½n. <!-- feedback: Incorrecto. Cï¿½rdoba no era payanï¿½s. -->
+- [x] C) Antioquia, donde naciï¿½ en Rionegro. <!-- feedback: Correcto. Josï¿½ Marï¿½a Cï¿½rdoba naciï¿½ en Rionegro, Antioquia, y es recordado por su valentï¿½a en la Batalla de Ayacucho, que sellï¿½ la independencia del Perï¿½. -->
+- [ ] D) Cali. <!-- feedback: Incorrecto. Cï¿½rdoba no era caleï¿½o. -->
 
 ## Question 7 [D4]
 **ID:** `CO-SOC-5-2026-P2-heroes-independencia-001-MASTERY-v7`
-**Bloom:** [Apply] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales en Cartagena, la profesora habla del mérito de las mujeres en la independencia.
-**Enunciado:** Además de Policarpa Salavarrieta, otras mujeres jugaron un papel importante en la independencia. Una de ellas fue:
+**Bloom:** Apply | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En la clase de sociales en Cartagena, la profesora habla del mï¿½rito de las mujeres en la independencia.
+**Enunciado:** Ademï¿½s de Policarpa Salavarrieta, otras mujeres jugaron un papel importante en la independencia. Una de ellas fue:
 **Options:**
-- [x] A) Manuela Beltrán, quien rompió el edicto de impuestos en el Socorro (1781), iniciando la Revolución de los Comuneros. <!-- feedback: Correcto. Manuela Beltrán fue una lideresa popular que rompió el edicto que aumentaba los impuestos, dando inicio a la Revolución de los Comuneros. -->
-- [ ] B) Shakira, cantante barranquillera. <!-- feedback: Incorrecto. Shakira es una artista contemporánea, no una heroína de la independencia. -->
-- [ ] C) Débora Arango, pintora antioqueña. <!-- feedback: Incorrecto. Débora Arango fue una artista del siglo XX. -->
-- [ ] D) Virginia Gutiérrez, antropóloga colombiana. <!-- feedback: Incorrecto. Fue una científica social del siglo XX. -->
+- [x] A) Manuela Beltrï¿½n, quien rompiï¿½ el edicto de impuestos en el Socorro (1781), iniciando la Revoluciï¿½n de los Comuneros. <!-- feedback: Correcto. Manuela Beltrï¿½n fue una lideresa popular que rompiï¿½ el edicto que aumentaba los impuestos, dando inicio a la Revoluciï¿½n de los Comuneros. -->
+- [ ] B) Shakira, cantante barranquillera. <!-- feedback: Incorrecto. Shakira es una artista contemporï¿½nea, no una heroï¿½na de la independencia. -->
+- [ ] C) Dï¿½bora Arango, pintora antioqueï¿½a. <!-- feedback: Incorrecto. Dï¿½bora Arango fue una artista del siglo XX. -->
+- [ ] D) Virginia Gutiï¿½rrez, antropï¿½loga colombiana. <!-- feedback: Incorrecto. Fue una cientï¿½fica social del siglo XX. -->
 
 ## Question 8 [D5]
 **ID:** `CO-SOC-5-2026-P2-heroes-independencia-001-MASTERY-v8`
-**Bloom:** [Analyze] | **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En un foro escolar en Cali, los estudiantes debaten sobre los diferentes roles en la independencia.
-**Enunciado:** ¿Por qué se dice que la independencia no fue obra de un solo héroe, sino de muchas personas?
+**Bloom:** Analyze | **ICFES:** [Interpretaciï¿½n y anï¿½lisis de perspectivas]
+**Expected_Success:** 0.75
+**Contexto:** En un foro escolar en Cali, los estudiantes debaten sobre los diferentes roles en la independencia.
+**Enunciado:** ï¿½Por quï¿½ se dice que la independencia no fue obra de un solo hï¿½roe, sino de muchas personas?
 **Options:**
-- [ ] A) Porque una sola persona no puede hacer nada en la historia. <!-- feedback: Incorrecto. Aunque el trabajo colectivo es importante, las individualidades también cuentan. -->
-- [x] B) Porque además de los líderes conocidos (Bolívar, Santander), hubo miles de soldados anónimos, mujeres espías, indígenas, campesinos y personas de todas las regiones que contribuyeron a la causa. <!-- feedback: Correcto. La independencia fue un movimiento colectivo que involucró a personas de diversos orígenes, regiones y condiciones sociales, cada una desde su trinchera. -->
-- [ ] C) Porque los héroes no existieron realmente. <!-- feedback: Incorrecto. Sí existieron y están documentados históricamente. -->
-- [ ] D) Porque solo los presidentes hicieron la independencia. <!-- feedback: Incorrecto. En ese entonces no existían presidentes como hoy. -->
+- [ ] A) Porque una sola persona no puede hacer nada en la historia. <!-- feedback: Incorrecto. Aunque el trabajo colectivo es importante, las individualidades tambiï¿½n cuentan. -->
+- [x] B) Porque ademï¿½s de los lï¿½deres conocidos (Bolï¿½var, Santander), hubo miles de soldados anï¿½nimos, mujeres espï¿½as, indï¿½genas, campesinos y personas de todas las regiones que contribuyeron a la causa. <!-- feedback: Correcto. La independencia fue un movimiento colectivo que involucrï¿½ a personas de diversos orï¿½genes, regiones y condiciones sociales, cada una desde su trinchera. -->
+- [ ] C) Porque los hï¿½roes no existieron realmente. <!-- feedback: Incorrecto. Sï¿½ existieron y estï¿½n documentados histï¿½ricamente. -->
+- [ ] D) Porque solo los presidentes hicieron la independencia. <!-- feedback: Incorrecto. En ese entonces no existï¿½an presidentes como hoy. -->
 
 ## Question 9 [D5]
 **ID:** `CO-SOC-5-2026-P2-heroes-independencia-001-MASTERY-v9`
-**Bloom:** [Analyze] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en Buga, el profesor pregunta por el legado de los héroes de la independencia.
-**Enunciado:** Los héroes de la independencia son recordados en Colombia a través de:
+**Bloom:** Analyze | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En clase de sociales en Buga, el profesor pregunta por el legado de los hï¿½roes de la independencia.
+**Enunciado:** Los hï¿½roes de la independencia son recordados en Colombia a travï¿½s de:
 **Options:**
-- [ ] A) Aplicaciones de redes sociales que ellos mismos crearon. <!-- feedback: Incorrecto. Las redes sociales no existían en esa época. -->
-- [x] B) Estatua, nombres de calles, avenidas, colegios, parques, monedas y billetes que llevan sus nombres. <!-- feedback: Correcto. En toda Colombia, calles, avenidas, colegios y plazas llevan nombres como Bolívar, Santander, Córdoba, Nariño; sus rostros aparecen en monedas y billetes, y hay estatuas en todas las ciudades. -->
-- [ ] C) Sus obras de arte vendidas en museos de Europa. <!-- feedback: Incorrecto. Aunque hay retratos de ellos, su legado principal es simbólico y político, no artístico. -->
+- [ ] A) Aplicaciones de redes sociales que ellos mismos crearon. <!-- feedback: Incorrecto. Las redes sociales no existï¿½an en esa ï¿½poca. -->
+- [x] B) Estatua, nombres de calles, avenidas, colegios, parques, monedas y billetes que llevan sus nombres. <!-- feedback: Correcto. En toda Colombia, calles, avenidas, colegios y plazas llevan nombres como Bolï¿½var, Santander, Cï¿½rdoba, Nariï¿½o; sus rostros aparecen en monedas y billetes, y hay estatuas en todas las ciudades. -->
+- [ ] C) Sus obras de arte vendidas en museos de Europa. <!-- feedback: Incorrecto. Aunque hay retratos de ellos, su legado principal es simbï¿½lico y polï¿½tico, no artï¿½stico. -->
 - [ ] D) Sus casas convertidas en centros comerciales. <!-- feedback: Incorrecto. Algunas casas son museos, pero no centros comerciales. -->
 
 ## Question 10 [D5]
 **ID:** `CO-SOC-5-2026-P2-heroes-independencia-001-MASTERY-v10`
-**Bloom:** [Analyze] | **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales de la I.E. Nuestra Señora del Rosario en Pereira, los estudiantes comparan a los héroes de la independencia con líderes actuales.
-**Enunciado:** Una diferencia importante entre los héroes de la independencia y los líderes políticos actuales es que:
+**Bloom:** Analyze | **ICFES:** [Pensamiento reflexivo y sistï¿½mico]
+**Expected_Success:** 0.75
+**Contexto:** En la clase de sociales de la I.E. Nuestra Seï¿½ora del Rosario en Pereira, los estudiantes comparan a los hï¿½roes de la independencia con lï¿½deres actuales.
+**Enunciado:** Una diferencia importante entre los hï¿½roes de la independencia y los lï¿½deres polï¿½ticos actuales es que:
 **Options:**
-- [ ] A) Los héroes de la independencia nunca cometieron errores. <!-- feedback: Incorrecto. Los héroes también cometieron errores y tenían contradicciones. -->
-- [ ] B) Los líderes actuales viajan en avión y los héroes viajaban en burro. <!-- feedback: Correcto técnicamente pero no es la diferencia importante. -->
-- [x] C) Los héroes de la independencia arriesgaron su vida y sus bienes para fundar un país nuevo, mientras que los líderes actuales participan en una democracia ya establecida. <!-- feedback: Correcto. La diferencia fundamental es el contexto histórico: los próceres arriesgaron todo por crear la nación, mientras que los líderes actuales trabajan dentro de las instituciones ya existentes. -->
-- [ ] D) Los héroes eran todos perfectos y los políticos actuales son todos corruptos. <!-- feedback: Incorrecto. Es una generalización injusta para ambos grupos. -->
+- [ ] A) Los hï¿½roes de la independencia nunca cometieron errores. <!-- feedback: Incorrecto. Los hï¿½roes tambiï¿½n cometieron errores y tenï¿½an contradicciones. -->
+- [ ] B) Los lï¿½deres actuales viajan en aviï¿½n y los hï¿½roes viajaban en burro. <!-- feedback: Correcto tï¿½cnicamente pero no es la diferencia importante. -->
+- [x] C) Los hï¿½roes de la independencia arriesgaron su vida y sus bienes para fundar un paï¿½s nuevo, mientras que los lï¿½deres actuales participan en una democracia ya establecida. <!-- feedback: Correcto. La diferencia fundamental es el contexto histï¿½rico: los prï¿½ceres arriesgaron todo por crear la naciï¿½n, mientras que los lï¿½deres actuales trabajan dentro de las instituciones ya existentes. -->
+- [ ] D) Los hï¿½roes eran todos perfectos y los polï¿½ticos actuales son todos corruptos. <!-- feedback: Incorrecto. Es una generalizaciï¿½n injusta para ambos grupos. -->
 
-### Explicación Pedagógica Final
-Este bundle de Ciencias Sociales para grado quinto cubre los Héroes de la Independencia de Colombia. Evalúa el conocimiento de Simón Bolívar (El Libertador), Francisco de Paula Santander (Hombre de las Leyes), Policarpa Salavarrieta (espía fusilada), Antonio Nariño (traductor de los Derechos del Hombre), José Antonio Galán (Revolución de los Comuneros), José María Córdoba (Batalla de Ayacucho), Manuela Beltrán, y el rol de las mujeres y el pueblo en la independencia. El objetivo es conocer a los personajes y valorar el esfuerzo colectivo de la gesta independentista.
+### Explicaciï¿½n Pedagï¿½gica Final
+Este bundle de Ciencias Sociales para grado quinto cubre los Hï¿½roes de la Independencia de Colombia. Evalï¿½a el conocimiento de Simï¿½n Bolï¿½var (El Libertador), Francisco de Paula Santander (Hombre de las Leyes), Policarpa Salavarrieta (espï¿½a fusilada), Antonio Nariï¿½o (traductor de los Derechos del Hombre), Josï¿½ Antonio Galï¿½n (Revoluciï¿½n de los Comuneros), Josï¿½ Marï¿½a Cï¿½rdoba (Batalla de Ayacucho), Manuela Beltrï¿½n, y el rol de las mujeres y el pueblo en la independencia. El objetivo es conocer a los personajes y valorar el esfuerzo colectivo de la gesta independentista.

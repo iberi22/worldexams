@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W29-textos-discontinuos-tablas-horarios-001-MASTERY"
+id: "CO-LEC-4-2026-W29-textos-discontinuos-tablas-horarios-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "textos-discontinuos-tablas-horarios"
-semana: "W29"
+week: "W29"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "tablas, horarios, lectura de datos, texto discontinuo"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W29: Textos discontinuos: tablas y horarios
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W29-textos-discontinuos-tablas-horarios-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Leer tabla.
+**Contexto:** Leer tabla.
 
 ### Enunciado
 *"Tabla: Lunes: mates, martes: ciencias. ¿Qué hay el lunes?"*
 
-### Options
-- [ ] A) Ciencias.
+### Opciones
+- [ ] A) Ciencias. <!-- feedback: Incorrecto. Ciencias. -->
 - [x] B) Mates. <!-- feedback: Correcto. -->
-- [ ] C) Nada.
-- [ ] D) Recreo.
+- [ ] C) Nada. <!-- feedback: Incorrecto. Nada. -->
+- [ ] D) Recreo. <!-- feedback: Incorrecto. Recreo. -->
 
 ### Explicación Pedagógica
 Leer tabla.
@@ -49,17 +54,18 @@ Leer tabla.
 
 **ID:** `CO-LEC-4-2026-W29-textos-discontinuos-tablas-horarios-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Hora.
+**Contexto:** Hora.
 
 ### Enunciado
 *"Horario: 8-9 am: Matemáticas. ¿A qué hora son mates?"*
 
-### Options
-- [ ] A) 7-8 am.
+### Opciones
+- [ ] A) 7-8 am. <!-- feedback: Incorrecto. 7-8 am. -->
 - [x] B) 8-9 am. <!-- feedback: Correcto. -->
-- [ ] C) 9-10 am.
-- [ ] D) 10-11 am.
+- [ ] C) 9-10 am. <!-- feedback: Incorrecto. 9-10 am. -->
+- [ ] D) 10-11 am. <!-- feedback: Incorrecto. 10-11 am. -->
 
 ### Explicación Pedagógica
 Leer hora.
@@ -70,17 +76,18 @@ Leer hora.
 
 **ID:** `CO-LEC-4-2026-W29-textos-discontinuos-tablas-horarios-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Interpretar.
+**Contexto:** Interpretar.
 
 ### Enunciado
 *"Tabla de comidas: lunes: arroz, martes: pasta, miércoles: sopa. ¿Qué día hay sopa?"*
 
-### Options
-- [ ] A) Lunes.
-- [ ] B) Martes.
+### Opciones
+- [ ] A) Lunes. <!-- feedback: Incorrecto. Lunes. -->
+- [ ] B) Martes. <!-- feedback: Incorrecto. Martes. -->
 - [x] C) Miércoles. <!-- feedback: Correcto. -->
-- [ ] D) Jueves.
+- [ ] D) Jueves. <!-- feedback: Incorrecto. Jueves. -->
 
 ### Explicación Pedagógica
 Interpretar.
@@ -91,17 +98,18 @@ Interpretar.
 
 **ID:** `CO-LEC-4-2026-W29-textos-discontinuos-tablas-horarios-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Comparar datos.
+**Contexto:** Comparar datos.
 
 ### Enunciado
 *"Tabla: Juan: 10 años. Ana: 9 años. ¿Quién es mayor?"*
 
-### Options
-- [ ] A) Ana.
+### Opciones
+- [ ] A) Ana. <!-- feedback: Incorrecto. Ana. -->
 - [x] B) Juan. <!-- feedback: Correcto. -->
-- [ ] C) Iguales.
-- [ ] D) No se puede.
+- [ ] C) Iguales. <!-- feedback: Incorrecto. Iguales. -->
+- [ ] D) No se puede. <!-- feedback: Incorrecto. No se puede. -->
 
 ### Explicación Pedagógica
 Comparar.
@@ -112,17 +120,18 @@ Comparar.
 
 **ID:** `CO-LEC-4-2026-W29-textos-discontinuos-tablas-horarios-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Columnas.
+**Contexto:** Columnas.
 
 ### Enunciado
 *"¿Qué información dan los encabezados de las columnas?"*
 
-### Options
-- [ ] A) El título de la tabla.
+### Opciones
+- [ ] A) El título de la tabla. <!-- feedback: Incorrecto. El título de la tabla. -->
 - [x] B) Qué tipo de dato hay en cada columna. <!-- feedback: Correcto. -->
-- [ ] C) Los números.
-- [ ] D) Las filas.
+- [ ] C) Los números. <!-- feedback: Incorrecto. Los números. -->
+- [ ] D) Las filas. <!-- feedback: Incorrecto. Las filas. -->
 
 ### Explicación Pedagógica
 Encabezados.
@@ -133,17 +142,18 @@ Encabezados.
 
 **ID:** `CO-LEC-4-2026-W29-textos-discontinuos-tablas-horarios-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Localizar dato.
+**Contexto:** Localizar dato.
 
 ### Enunciado
 *"Tabla de precios: manzana $500, pera $600. ¿Cuánto cuesta la pera?"*
 
-### Options
-- [ ] A) $500.
+### Opciones
+- [ ] A) $500. <!-- feedback: Incorrecto. $500. -->
 - [x] B) $600. <!-- feedback: Correcto. -->
-- [ ] C) $700.
-- [ ] D) $400.
+- [ ] C) $700. <!-- feedback: Incorrecto. $700. -->
+- [ ] D) $400. <!-- feedback: Incorrecto. $400. -->
 
 ### Explicación Pedagógica
 Localizar.
@@ -154,17 +164,18 @@ Localizar.
 
 **ID:** `CO-LEC-4-2026-W29-textos-discontinuos-tablas-horarios-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Ordenar por tabla.
+**Contexto:** Ordenar por tabla.
 
 ### Enunciado
 *"Tabla: lunes-viernes horario escolar. ¿Qué día hay más materias?"*
 
-### Options
+### Opciones
 - [x] A) Lunes. <!-- feedback: Correcto. -->
-- [ ] B) No se puede.
-- [ ] C) Todos igual.
-- [ ] D) Miércoles.
+- [ ] B) No se puede. <!-- feedback: Incorrecto. No se puede. -->
+- [ ] C) Todos igual. <!-- feedback: Incorrecto. Todos igual. -->
+- [ ] D) Miércoles. <!-- feedback: Incorrecto. Miércoles. -->
 
 ### Explicación Pedagógica
 Ordenar.
@@ -175,17 +186,18 @@ Ordenar.
 
 **ID:** `CO-LEC-4-2026-W29-textos-discontinuos-tablas-horarios-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Analizar tabla.
+**Contexto:** Analizar tabla.
 
 ### Enunciado
 *"Tabla con temperaturas: lunes 30°, martes 32°, miércoles 28°. ¿Día más caliente?"*
 
-### Options
-- [ ] A) Lunes.
+### Opciones
+- [ ] A) Lunes. <!-- feedback: Incorrecto. Lunes. -->
 - [x] B) Martes. <!-- feedback: Correcto. 32° es mayor. -->
-- [ ] C) Miércoles.
-- [ ] D) Todos igual.
+- [ ] C) Miércoles. <!-- feedback: Incorrecto. Miércoles. -->
+- [ ] D) Todos igual. <!-- feedback: Incorrecto. Todos igual. -->
 
 ### Explicación Pedagógica
 Analizar.
@@ -196,17 +208,18 @@ Analizar.
 
 **ID:** `CO-LEC-4-2026-W29-textos-discontinuos-tablas-horarios-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Utilidad.
+**Contexto:** Utilidad.
 
 ### Enunciado
 *"¿Para qué sirven las tablas?"*
 
-### Options
-- [ ] A) Solo decorar.
+### Opciones
+- [ ] A) Solo decorar. <!-- feedback: Incorrecto. Solo decorar. -->
 - [x] B) Organizar información para leerla fácilmente. <!-- feedback: Correcto. -->
-- [ ] C) Para confundir.
-- [ ] D) No sirven.
+- [ ] C) Para confundir. <!-- feedback: Incorrecto. Para confundir. -->
+- [ ] D) No sirven. <!-- feedback: Incorrecto. No sirven. -->
 
 ### Explicación Pedagógica
 Utilidad.
@@ -217,17 +230,18 @@ Utilidad.
 
 **ID:** `CO-LEC-4-2026-W29-textos-discontinuos-tablas-horarios-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Crear.
+**Contexto:** Crear.
 
 ### Enunciado
 *"¿Qué necesitas para hacer una tabla?"*
 
-### Options
+### Opciones
 - [x] A) Palabras y números ordenados en filas y columnas. <!-- feedback: Correcto. -->
-- [ ] B) Solo dibujos.
-- [ ] C) Solo números.
-- [ ] D) Solo texto.
+- [ ] B) Solo dibujos. <!-- feedback: Incorrecto. Solo dibujos. -->
+- [ ] C) Solo números. <!-- feedback: Incorrecto. Solo números. -->
+- [ ] D) Solo texto. <!-- feedback: Incorrecto. Solo texto. -->
 
 ### Explicación Pedagógica
 Crear tabla.

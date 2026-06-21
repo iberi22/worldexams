@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W22-parodia-001-MASTERY"
+id: "CO-LC-7-2026-W22-parodia-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "parodia"
-semana: "W22"
+week: "W22"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Parodia - Grado 7
 ## Semana W22 — Identificación y análisis de la parodia como recurso crítico
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W22-parodia-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de Lectura Crítica del Colegio San Viator de Bogotá, la profesora explica qué es una parodia.
+**Contexto:** En la clase de Lectura Crítica del Colegio San Viator de Bogotá, la profesora explica qué es una parodia.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La parodia es una imitación deliberada y reconocible de un texto, autor, géner
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W22-parodia-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** En redes sociales circula un video que imita los noticieros de televisión, pero en lugar de noticias serias, presenta situaciones absurdas como "Alcalde declara emergencia por falta de aguacate para el almuerzo."
+**Contexto:** En redes sociales circula un video que imita los noticieros de televisión, pero en lugar de noticias serias, presenta situaciones absurdas como "Alcalde declara emergencia por falta de aguacate para el almuerzo."
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -60,11 +64,11 @@ La parodia se caracteriza por la imitación consciente y exagerada de las conven
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W22-parodia-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una estudiante escribe: "Había una vez una princesa que no quería ser rescatada. Cuando el príncipe llegó, ella le ofreció un café y le dijo: 'Siéntate, hablemos de tus problemas con la autoridad'."
+**Contexto:** Una estudiante escribe: "Había una vez una princesa que no quería ser rescatada. Cuando el príncipe llegó, ella le ofreció un café y le dijo: 'Siéntate, hablemos de tus problemas con la autoridad'."
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -81,11 +85,11 @@ Esta parodia toma el género del cuento de hadas tradicional (princesa, príncip
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W22-parodia-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** En un programa de televisión colombiano, un comediante imita a un político famoso exagerando sus gestos, su forma de hablar y sus frases características.
+**Contexto:** En un programa de televisión colombiano, un comediante imita a un político famoso exagerando sus gestos, su forma de hablar y sus frases características.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -102,11 +106,11 @@ La parodia de personajes reales funciona mediante la exageración de sus rasgos 
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W22-parodia-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una página web publica "El principito (versión ejecutiva)", donde el principito le pregunta al zorro: "¿Cuál es el ROI de domesticarme?"
+**Contexto:** Una página web publica "El principito (versión ejecutiva)", donde el principito le pregunta al zorro: "¿Cuál es el ROI de domesticarme?"
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -123,11 +127,11 @@ Esta parodia enfrenta dos mundos opuestos: la filosofía poética de "El Princip
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W22-parodia-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Una serie de televisión colombiana parodia los reality shows de competencia. Los concursantes deben realizar tareas imposibles, y el presentador los trata con exagerada seriedad y dramatismo.
+**Contexto:** Una serie de televisión colombiana parodia los reality shows de competencia. Los concursantes deben realizar tareas imposibles, y el presentador los trata con exagerada seriedad y dramatismo.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -144,11 +148,11 @@ La parodia de reality shows funciona exagerando las convenciones del género: la
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W22-parodia-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un estudiante crea un video parodiando los comerciales de productos de belleza. El producto es "Crema anti-arrugas milagrosa: borra todas tus preocupaciones... y también tu cara."
+**Contexto:** Un estudiante crea un video parodiando los comerciales de productos de belleza. El producto es "Crema anti-arrugas milagrosa: borra todas tus preocupaciones... y también tu cara."
 **Expected_Success:** 0.56
 
 ### Enunciado
@@ -165,11 +169,11 @@ La parodia revela la exageración de las promesas publicitarias. Si los comercia
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W22-parodia-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un escritor publica "Cien soles de soledad", un texto que imita el estilo de Gabriel García Márquez pero habla de la vida en un conjunto residencial moderno.
+**Contexto:** Un escritor publica "Cien soles de soledad", un texto que imita el estilo de Gabriel García Márquez pero habla de la vida en un conjunto residencial moderno.
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -186,11 +190,11 @@ El reconocimiento del original es la condición indispensable para que una parod
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W22-parodia-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el Colegio de Buga, los estudiantes ven dos videos: una parodia que se burla de un género musical popular y otra que homenajea ese mismo género con respeto.
+**Contexto:** En el Colegio de Buga, los estudiantes ven dos videos: una parodia que se burla de un género musical popular y otra que homenajea ese mismo género con respeto.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -207,11 +211,11 @@ Aunque tanto la parodia como el homenaje imitan un original, se diferencian por 
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W22-parodia-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Un canal de YouTube parodia los tutoriales de maquillaje, usando técnicas exageradas y productos ridículos como "sombras de ojos sabor pizza".
+**Contexto:** Un canal de YouTube parodia los tutoriales de maquillaje, usando técnicas exageradas y productos ridículos como "sombras de ojos sabor pizza".
 **Expected_Success:** 0.44
 
 ### Enunciado
@@ -228,11 +232,11 @@ Esta parodia critica la cultura del consumismo de belleza. Los tutoriales reales
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W22-parodia-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Un grupo de estudiantes crea una parodia del himno nacional de Colombia con letra cómica sobre la vida escolar. Algunos compañeros consideran que es una falta de respeto.
+**Contexto:** Un grupo de estudiantes crea una parodia del himno nacional de Colombia con letra cómica sobre la vida escolar. Algunos compañeros consideran que es una falta de respeto.
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -249,11 +253,11 @@ Las parodias de símbolos sagrados o institucionales (himnos, banderas, símbolo
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W22-parodia-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** Como proyecto final del período, los estudiantes del Colegio de Sopó deben crear una parodia de un género discursivo estudiado (político, publicitario, científico o literario).
+**Contexto:** Como proyecto final del período, los estudiantes del Colegio de Sopó deben crear una parodia de un género discursivo estudiado (político, publicitario, científico o literario).
 **Expected_Success:** 0.38
 
 ### Enunciado

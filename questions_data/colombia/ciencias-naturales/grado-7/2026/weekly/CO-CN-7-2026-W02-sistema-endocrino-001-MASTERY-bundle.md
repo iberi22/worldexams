@@ -1,28 +1,32 @@
 ---
-id: "CO-CN-7-2026-W02-sistema-endocrino-001-MASTERY"
+id: "CO-CN-7-2026-W02-sistema-endocrino-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "ciencias-naturales"
 tema: "sistema-endocrino"
-semana: "W02"
+week: "W02"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Sistema Endocrino - Grado 7
 ## Semana W02 — Glándulas y hormonas
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-CN-7-2026-W02-sistema-endocrino-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase de ciencias del Colegio San José de Bogotá, la profesora explica la diferencia entre el sistema nervioso y el endocrino.
+**Contexto:** En clase de ciencias del Colegio San José de Bogotá, la profesora explica la diferencia entre el sistema nervioso y el endocrino.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ El sistema endocrino está compuesto por glándulas que secretan hormonas direct
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-CN-7-2026-W02-sistema-endocrino-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** María está estudiando las glándulas del cuerpo humano para su examen en el colegio de Medellín.
+**Contexto:** María está estudiando las glándulas del cuerpo humano para su examen en el colegio de Medellín.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -60,11 +64,11 @@ Las glándulas endocrinas se diferencian de las exocrinas en que no tienen condu
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-CN-7-2026-W02-sistema-endocrino-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Carlos nota que cuando tiene miedo, su corazón late más rápido y su respiración se acelera. Su profesora en el colegio de Cali le explica que esto es por una hormona.
+**Contexto:** Carlos nota que cuando tiene miedo, su corazón late más rápido y su respiración se acelera. Su profesora en el colegio de Cali le explica que esto es por una hormona.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -81,11 +85,11 @@ La adrenalina (epinefrina) es producida por las glándulas suprarrenales (médul
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-CN-7-2026-W02-sistema-endocrino-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Laura tiene un compañero en el colegio de Barranquilla que es muy alto para su edad. Su mamá lo llevó al endocrinólogo.
+**Contexto:** Laura tiene un compañero en el colegio de Barranquilla que es muy alto para su edad. Su mamá lo llevó al endocrinólogo.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -102,11 +106,11 @@ La hipófisis o glándula pituitaria, ubicada en la base del cerebro, produce la
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-CN-7-2026-W02-sistema-endocrino-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Daniel ayuda a su abuela que tiene diabetes en Bucaramanga. Ella debe medirse el nivel de azúcar y aplicarse insulina.
+**Contexto:** Daniel ayuda a su abuela que tiene diabetes en Bucaramanga. Ella debe medirse el nivel de azúcar y aplicarse insulina.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -123,11 +127,11 @@ La insulina es producida por las células beta de los islotes de Langerhans en e
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-CN-7-2026-W02-sistema-endocrino-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Valentina va al médico porque se siente cansada todo el tiempo, ha subido de peso y siente frío constantemente. Vive en Bogotá.
+**Contexto:** Valentina va al médico porque se siente cansada todo el tiempo, ha subido de peso y siente frío constantemente. Vive en Bogotá.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -144,11 +148,11 @@ El hipotiroidismo ocurre cuando la glándula tiroides no produce suficientes hor
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-CN-7-2026-W02-sistema-endocrino-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el colegio de Cartagena, Santiago estudia el ciclo menstrual y las hormonas que lo regulan.
+**Contexto:** En el colegio de Cartagena, Santiago estudia el ciclo menstrual y las hormonas que lo regulan.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -165,11 +169,11 @@ Los ovarios son las gónadas femeninas y producen dos hormonas principales: estr
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-CN-7-2026-W02-sistema-endocrino-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Camila investiga cómo el cuerpo regula el nivel de calcio en la sangre. En el colegio de Pereira, su profesor menciona dos hormonas opuestas.
+**Contexto:** Camila investiga cómo el cuerpo regula el nivel de calcio en la sangre. En el colegio de Pereira, su profesor menciona dos hormonas opuestas.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ El calcio sanguíneo es regulado por dos hormonas antagónicas: la calcitonina (
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-CN-7-2026-W02-sistema-endocrino-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Sebastián lee que el consumo excesivo de cortisol (una hormona) por estrés crónico puede afectar la salud. Esto se discute en el colegio de Ibagué.
+**Contexto:** Sebastián lee que el consumo excesivo de cortisol (una hormona) por estrés crónico puede afectar la salud. Esto se discute en el colegio de Ibagué.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ El cortisol, producido por la corteza suprarrenal, es la principal hormona del e
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-CN-7-2026-W02-sistema-endocrino-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Isabella y sus compañeros del colegio de Manizales hacen un diagrama comparativo entre el sistema nervioso y el endocrino.
+**Contexto:** Isabella y sus compañeros del colegio de Manizales hacen un diagrama comparativo entre el sistema nervioso y el endocrino.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -228,11 +232,11 @@ El sistema nervioso es como un mensaje de texto: rápido y de corta duración (m
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-CN-7-2026-W02-sistema-endocrino-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En el colegio de Sincelejo, el profesor plantea: "¿Por qué las personas con diabetes tipo 1 deben inyectarse insulina en lugar de tomarla en pastillas?"
+**Contexto:** En el colegio de Sincelejo, el profesor plantea: "¿Por qué las personas con diabetes tipo 1 deben inyectarse insulina en lugar de tomarla en pastillas?"
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -249,11 +253,11 @@ La insulina es una hormona de naturaleza proteica. Si se tomara por vía oral, l
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-CN-7-2026-W02-sistema-endocrino-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Andrés escucha que "las hormonas son como llaves que abren puertas" y quiere entender esta analogía. Pregunta en clase en el colegio de Tunja.
+**Contexto:** Andrés escucha que "las hormonas son como llaves que abren puertas" y quiere entender esta analogía. Pregunta en clase en el colegio de Tunja.
 **Expected_Success:** 0.42
 
 ### Enunciado

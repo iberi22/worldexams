@@ -5,436 +5,502 @@ exam: "NSC Matric — Life Sciences (CAPS)"
 grado: 12
 asignatura: "Life Sciences"
 tema: "human-impact"
-semana: 7
+week: "W07"
 periodo: 3
 bundle_index: 1
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "CAPS Grade 12 Life Sciences (DBE 2026)"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle — Human Impact on the Environment
 **Difficulty: D3-D10 | 20 Questions | Life Sciences — NSC Matric**
 
 ---
 
-## Question 1 — D3
+## Question 1 [D3]
 **ID:** `ZA-LIF-12-2026-W07-human-impact-001-MASTERY-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Genetic inheritance patterns.
+### Opciones
+**Contexto:** Genetic inheritance patterns.
 
-**Stem:** In a pedigree chart, a shaded circle represents:
+### Enunciado
+In a pedigree chart, a shaded circle represents:
 
-- [x] **A)** An affected female
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** An unaffected female
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** An affected male
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** An unaffected male
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) An affected female <!-- feedback: Correcto! An affected female -->
 
-**Explanation:** Circles represent females; shaded means affected.
+- [ ] B) An unaffected female <!-- feedback: Incorrecto. An unaffected female -->
+
+- [ ] C) An affected male <!-- feedback: Incorrecto. An affected male -->
+
+- [ ] D) An unaffected male <!-- feedback: Incorrecto. An unaffected male -->
+
+### Explicacion Pedagogica Circles represent females; shaded means affected.
 
 ---
 
-## Question 2 — D3
+## Question 2 [D3]
 **ID:** `ZA-LIF-12-2026-W07-human-impact-001-MASTERY-v2`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimien### Opciones
+tos
 
-**Context:** Biomes and biodiversity.
+**Contexto:** Biomes and biodiversity.
 
-**Stem:** Greatest biodiversity found in:
+### Enunciado
+Greatest biodiversity found in:
 
-- [x] **A)** Tropical rainforest
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Desert
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Tundra
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Grassland
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Tropical rainforest <!-- feedback: Correcto! Tropical rainforest -->
 
-**Explanation:** Tropical rainforests have the highest species diversity.
+- [ ] B) Desert <!-- feedback: Incorrecto. Desert -->
+
+- [ ] C) Tundra <!-- feedback: Incorrecto. Tundra -->
+
+- [ ] D) Grassland <!-- feedback: Incorrecto. Grassland -->
+
+### Explicacion Pedagogica Tropical rainforests have the highest species diversity.
 
 ---
 
-## Question 3 — D4
+## Question 3 [D4]
 **ID:** `ZA-LIF-12-2026-W07-human-impact-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimiento### Opciones
+s
 
-**Context:** Genetics and blood groups.
+**Contexto:** Genetics and blood groups.
 
-**Stem:** Blood group O has:
+### Enunciado
+Blood group O has:
 
-- [x] **A)** No antigens on red blood cells
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** A and B antigens
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Only A antigens
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Only B antigens
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) No antigens on red blood cells <!-- feedback: Correcto! No antigens on red blood cells -->
 
-**Explanation:** Type O has neither A nor B antigens.
+- [ ] B) A and B antigens <!-- feedback: Incorrecto. A and B antigens -->
+
+- [ ] C) Only A antigens <!-- feedback: Incorrecto. Only A antigens -->
+
+- [ ] D) Only B antigens <!-- feedback: Incorrecto. Only B antigens -->
+
+### Explicacion Pedagogica Type O has neither A nor B antigens.
 
 ---
 
-## Question 4 — D4
+## Question 4 [D4]
 **ID:** `ZA-LIF-12-2026-W07-human-impact-001-MASTERY-v4`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Genetics in a Soweto classroom.
+**### Opciones
+Contexto:** Genetics in a Soweto classroom.
 
-**Stem:** Diploid chromosome number in humans:
+### Enunciado
+Diploid chromosome number in humans:
 
-- [x] **A)** 46
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** 23
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** 44
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** 48
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) 46 <!-- feedback: Correcto! 46 -->
 
-**Explanation:** Humans have 23 pairs (46) chromosomes.
+- [ ] B) 23 <!-- feedback: Incorrecto. 23 -->
+
+- [ ] C) 44 <!-- feedback: Incorrecto. 44 -->
+
+- [ ] D) 48 <!-- feedback: Incorrecto. 48 -->
+
+### Explicacion Pedagogica Humans have 23 pairs (46) chromosomes.
 
 ---
 
-## Question 5 — D4
+## Question 5 [D4]
 **ID:** `ZA-LIF-12-2026-W07-human-impact-001-MASTERY-v5`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Human reproduction in a Soweto class.
+**Contex### Opciones
+to:** Human reproduction in a Soweto class.
 
-**Stem:** Function of the placenta:
+### Enunciado
+Function of the placenta:
 
-- [x] **A)** Exchange nutrients and waste between mother and foetus
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Produce eggs
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Store urine from foetus
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Pump blood for foetus
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Exchange nutrients and waste between mother and foetus <!-- feedback: Correcto! Exchange nutrients and waste between mother and foetus -->
 
-**Explanation:** Placenta allows diffusion of substances between blood supplies.
+- [ ] B) Produce eggs <!-- feedback: Incorrecto. Produce eggs -->
+
+- [ ] C) Store urine from foetus <!-- feedback: Incorrecto. Store urine from foetus -->
+
+- [ ] D) Pump blood for foetus <!-- feedback: Incorrecto. Pump blood for foetus -->
+
+### Explicacion Pedagogica Placenta allows diffusion of substances between blood supplies.
 
 ---
 
-## Question 6 — D5
+## Question 6 [D5]
 **ID:** `ZA-LIF-12-2026-W07-human-impact-001-MASTERY-v6`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Protein synthesis - translation.
+**C### Opciones
+ontexto:** Protein synthesis - translation.
 
-**Stem:** The role of tRNA is to:
+### Enunciado
+The role of tRNA is to:
 
-- [x] **A)** Carry amino acids to the ribosome
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Carry the genetic code from DNA
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Form the ribosome structure
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Catalyse peptide bond formation
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Carry amino acids to the ribosome <!-- feedback: Correcto! Carry amino acids to the ribosome -->
 
-**Explanation:** tRNA molecules bring specific amino acids during translation.
+- [ ] B) Carry the genetic code from DNA <!-- feedback: Incorrecto. Carry the genetic code from DNA -->
+
+- [ ] C) Form the ribosome structure <!-- feedback: Incorrecto. Form the ribosome structure -->
+
+- [ ] D) Catalyse peptide bond formation <!-- feedback: Incorrecto. Catalyse peptide bond formation -->
+
+### Explicacion Pedagogica tRNA molecules bring specific amino acids during translation.
 
 ---
 
-## Question 7 — D5
+## Question 7 [D5]
 **ID:** `ZA-LIF-12-2026-W07-human-impact-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Biodiversity and classification.
+**C### Opciones
+ontexto:** Biodiversity and classification.
 
-**Stem:** Binomial name for humans:
+### Enunciado
+Binomial name for humans:
 
-- [x] **A)** Homo sapiens
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Homo erectus
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Hominidae sapiens
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Homo habilis
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Homo sapiens <!-- feedback: Correcto! Homo sapiens -->
 
-**Explanation:** Linnaean: genus Homo, species sapiens.
+- [ ] B) Homo erectus <!-- feedback: Incorrecto. Homo erectus -->
+
+- [ ] C) Hominidae sapiens <!-- feedback: Incorrecto. Hominidae sapiens -->
+
+- [ ] D) Homo habilis <!-- feedback: Incorrecto. Homo habilis -->
+
+### Explicacion Pedagogica Linnaean: genus Homo, species sapiens.
 
 ---
 
-## Question 8 — D5
+## Question 8 [D5]
 **ID:** `ZA-LIF-12-2026-W07-human-impact-001-MASTERY-v8`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** The cell cycle in Grade 12 Life Sciences.
+**Contexto:*### Opciones
+* The cell cycle in Grade 12 Life Sciences.
 
-**Stem:** DNA replication occurs in which phase?
+### Enunciado
+DNA replication occurs in which phase?
 
-- [x] **A)** S phase
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** G1 phase
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** G2 phase
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** M phase
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) S phase <!-- feedback: Correcto! S phase -->
 
-**Explanation:** DNA synthesis happens in the S phase of interphase.
+- [ ] B) G1 phase <!-- feedback: Incorrecto. G1 phase -->
+
+- [ ] C) G2 phase <!-- feedback: Incorrecto. G2 phase -->
+
+- [ ] D) M phase <!-- feedback: Incorrecto. M phase -->
+
+### Explicacion Pedagogica DNA synthesis happens in the S phase of interphase.
 
 ---
 
-## Question 9 — D6
+## Question 9 [D6]
 **ID:** `ZA-LIF-12-2026-W07-human-impact-001-MASTERY-v9`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Excretory system in Grade 12.
+### Opciones
+**Contexto:** Excretory system in Grade 12.
 
-**Stem:** Nephron is the functional unit of the:
+### Enunciado
+Nephron is the functional unit of the:
 
-- [x] **A)** Kidney
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Liver
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Lung
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Heart
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Kidney <!-- feedback: Correcto! Kidney -->
 
-**Explanation:** Nephrons filter blood and produce urine.
+- [ ] B) Liver <!-- feedback: Incorrecto. Liver -->
+
+- [ ] C) Lung <!-- feedback: Incorrecto. Lung -->
+
+- [ ] D) Heart <!-- feedback: Incorrecto. Heart -->
+
+### Explicacion Pedagogica Nephrons filter blood and produce urine.
 
 ---
 
-## Question 10 — D6
+## Question 10 [D6]
 **ID:** `ZA-LIF-12-2026-W07-human-impact-001-MASTERY-v10`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimi### Opciones
+entos
 
-**Context:** Endocrine homeostasis.
+**Contexto:** Endocrine homeostasis.
 
-**Stem:** Hormone regulating blood calcium:
+### Enunciado
+Hormone regulating blood calcium:
 
-- [x] **A)** Calcitonin
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Insulin
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Thyroxine
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Adrenaline
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Calcitonin <!-- feedback: Correcto! Calcitonin -->
 
-**Explanation:** Calcitonin from thyroid lowers blood calcium.
+- [ ] B) Insulin <!-- feedback: Incorrecto. Insulin -->
+
+- [ ] C) Thyroxine <!-- feedback: Incorrecto. Thyroxine -->
+
+- [ ] D) Adrenaline <!-- feedback: Incorrecto. Adrenaline -->
+
+### Explicacion Pedagogica Calcitonin from thyroid lowers blood calcium.
 
 ---
 
-## Question 11 — D6
+## Question 11 [D6]
 **ID:** `ZA-LIF-12-2026-W07-human-impact-001-MASTERY-v11`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Cell biology in a Cape Town classroom.
+**Context### Opciones
+o:** Cell biology in a Cape Town classroom.
 
-**Stem:** Organelle responsible for cellular respiration:
+### Enunciado
+Organelle responsible for cellular respiration:
 
-- [x] **A)** Mitochondrion
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Nucleus
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Ribosome
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Golgi apparatus
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Mitochondrion <!-- feedback: Correcto! Mitochondrion -->
 
-**Explanation:** Mitochondria produce ATP via cellular respiration.
+- [ ] B) Nucleus <!-- feedback: Incorrecto. Nucleus -->
+
+- [ ] C) Ribosome <!-- feedback: Incorrecto. Ribosome -->
+
+- [ ] D) Golgi apparatus <!-- feedback: Incorrecto. Golgi apparatus -->
+
+### Explicacion Pedagogica Mitochondria produce ATP via cellular respiration.
 
 ---
 
-## Question 12 — D7
+## Question 12 [D7]
 **ID:** `ZA-LIF-12-2026-W07-human-impact-001-MASTERY-v12`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Human impact on the environment.
+**C### Opciones
+ontexto:** Human impact on the environment.
 
-**Stem:** Eutrophication is caused by:
+### Enunciado
+Eutrophication is caused by:
 
-- [x] **A)** Excess nutrients (nitrates/phosphates) in water
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Too much oxygen in water
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Global warming
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Acid rain
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Excess nutrients (nitrates/phosphates) in water <!-- feedback: Correcto! Excess nutrients (nitrates/phosphates) in water -->
 
-**Explanation:** Fertilisers wash into water, causing algal blooms and oxygen depletion.
+- [ ] B) Too much oxygen in water <!-- feedback: Incorrecto. Too much oxygen in water -->
+
+- [ ] C) Global warming <!-- feedback: Incorrecto. Global warming -->
+
+- [ ] D) Acid rain <!-- feedback: Incorrecto. Acid rain -->
+
+### Explicacion Pedagogica Fertilisers wash into water, causing algal blooms and oxygen depletion.
 
 ---
 
-## Question 13 — D7
+## Question 13 [D7]
 **ID:** `ZA-LIF-12-2026-W07-human-impact-001-MASTERY-v13`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** DNA mutations and their effects.
+**C### Opciones
+ontexto:** DNA mutations and their effects.
 
-**Stem:** A mutation in a gene changes:
+### Enunciado
+A mutation in a gene changes:
 
-- [x] **A)** The DNA sequence
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** The phenotype directly
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** The chromosome number
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** The cell membrane
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) The DNA sequence <!-- feedback: Correcto! The DNA sequence -->
 
-**Explanation:** A mutation alters the nucleotide sequence of DNA.
+- [ ] B) The phenotype directly <!-- feedback: Incorrecto. The phenotype directly -->
+
+- [ ] C) The chromosome number <!-- feedback: Incorrecto. The chromosome number -->
+
+- [ ] D) The cell membrane <!-- feedback: Incorrecto. The cell membrane -->
+
+### Explicacion Pedagogica A mutation alters the nucleotide sequence of DNA.
 
 ---
 
-## Question 14 — D7
+## Question 14 [D7]
 **ID:** `ZA-LIF-12-2026-W07-human-impact-001-MASTERY-v14`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** DNA replication in a Cape Town classroom.
+**Contexto:*### Opciones
+* DNA replication in a Cape Town classroom.
 
-**Stem:** The semi-conservative model of DNA replication means:
+### Enunciado
+The semi-conservative model of DNA replication means:
 
-- [x] **A)** Each new DNA has one old and one new strand
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Both strands are completely new
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** The original DNA remains intact
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Replication is random
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Each new DNA has one old and one new strand <!-- feedback: Correcto! Each new DNA has one old and one new strand -->
 
-**Explanation:** Each daughter molecule contains one original and one newly synthesised strand.
+- [ ] B) Both strands are completely new <!-- feedback: Incorrecto. Both strands are completely new -->
+
+- [ ] C) The original DNA remains intact <!-- feedback: Incorrecto. The original DNA remains intact -->
+
+- [ ] D) Replication is random <!-- feedback: Incorrecto. Replication is random -->
+
+### Explicacion Pedagogica Each daughter molecule contains one original and one newly synthesised strand.
 
 ---
 
-## Question 15 — D8
+## Question 15 [D8]
 **ID:** `ZA-LIF-12-2026-W07-human-impact-001-MASTERY-v15`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Cell division in a Pretoria classroom.
+**Context### Opciones
+o:** Cell division in a Pretoria classroom.
 
-**Stem:** Meiosis results in:
+### Enunciado
+Meiosis results in:
 
-- [x] **A)** Four haploid daughter cells
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Two diploid daughter cells
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Four diploid daughter cells
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Two haploid daughter cells
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Four haploid daughter cells <!-- feedback: Correcto! Four haploid daughter cells -->
 
-**Explanation:** Meiosis produces four genetically different haploid cells.
+- [ ] B) Two diploid daughter cells <!-- feedback: Incorrecto. Two diploid daughter cells -->
+
+- [ ] C) Four diploid daughter cells <!-- feedback: Incorrecto. Four diploid daughter cells -->
+
+- [ ] D) Two haploid daughter cells <!-- feedback: Incorrecto. Two haploid daughter cells -->
+
+### Explicacion Pedagogica Meiosis produces four genetically different haploid cells.
 
 ---
 
-## Question 16 — D8
+## Question 16 [D8]
 **ID:** `ZA-LIF-12-2026-W07-human-impact-001-MASTERY-v16`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Meiosis in a Johannesburg classroom.
+**Conte### Opciones
+xto:** Meiosis in a Johannesburg classroom.
 
-**Stem:** Crossing over occurs during:
+### Enunciado
+Crossing over occurs during:
 
-- [x] **A)** Prophase I of meiosis
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Prophase II of meiosis
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Anaphase I of meiosis
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Mitosis
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Prophase I of meiosis <!-- feedback: Correcto! Prophase I of meiosis -->
 
-**Explanation:** Crossing over between homologous chromatids occurs in Prophase I.
+- [ ] B) Prophase II of meiosis <!-- feedback: Incorrecto. Prophase II of meiosis -->
+
+- [ ] C) Anaphase I of meiosis <!-- feedback: Incorrecto. Anaphase I of meiosis -->
+
+- [ ] D) Mitosis <!-- feedback: Incorrecto. Mitosis -->
+
+### Explicacion Pedagogica Crossing over between homologous chromatids occurs in Prophase I.
 
 ---
 
-## Question 17 — D8
+## Question 17 [D8]
 **ID:** `ZA-LIF-12-2026-W07-human-impact-001-MASTERY-v17`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Respiratory system in Grade 12.
+**### Opciones
+Contexto:** Respiratory system in Grade 12.
 
-**Stem:** Gas exchange occurs in the:
+### Enunciado
+Gas exchange occurs in the:
 
-- [x] **A)** Alveoli
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Bronchi
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Trachea
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Bronchioles
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Alveoli <!-- feedback: Correcto! Alveoli -->
 
-**Explanation:** Alveoli are the air sacs for gas exchange.
+- [ ] B) Bronchi <!-- feedback: Incorrecto. Bronchi -->
+
+- [ ] C) Trachea <!-- feedback: Incorrecto. Trachea -->
+
+- [ ] D) Bronchioles <!-- feedback: Incorrecto. Bronchioles -->
+
+### Explicacion Pedagogica Alveoli are the air sacs for gas exchange.
 
 ---
 
-## Question 18 — D9
+## Question 18 [D9]
 **ID:** `ZA-LIF-12-2026-W07-human-impact-001-MASTERY-v18`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Protein synthesis in a Johannesburg class.
+**Contexto:**### Opciones
+ Protein synthesis in a Johannesburg class.
 
-**Stem:** During protein synthesis, transcription produces:
+### Enunciado
+During protein synthesis, transcription produces:
 
-- [x] **A)** mRNA from a DNA template
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Proteins from mRNA
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** DNA from RNA
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** tRNA from proteins
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) mRNA from a DNA template <!-- feedback: Correcto! mRNA from a DNA template -->
 
-**Explanation:** Transcription copies DNA into mRNA in the nucleus.
+- [ ] B) Proteins from mRNA <!-- feedback: Incorrecto. Proteins from mRNA -->
+
+- [ ] C) DNA from RNA <!-- feedback: Incorrecto. DNA from RNA -->
+
+- [ ] D) tRNA from proteins <!-- feedback: Incorrecto. tRNA from proteins -->
+
+### Explicacion Pedagogica Transcription copies DNA into mRNA in the nucleus.
 
 ---
 
-## Question 19 — D9
+## Question 19 [D9]
 **ID:** `ZA-LIF-12-2026-W07-human-impact-001-MASTERY-v19`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Cellular respiration in a Durban class.
+**Contexto### Opciones
+:** Cellular respiration in a Durban class.
 
-**Stem:** Most ATP per glucose produced by:
+### Enunciado
+Most ATP per glucose produced by:
 
-- [x] **A)** Aerobic respiration
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Anaerobic respiration
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Fermentation
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Glycolysis alone
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Aerobic respiration <!-- feedback: Correcto! Aerobic respiration -->
 
-**Explanation:** Aerobic respiration yields ~36-38 ATP per glucose.
+- [ ] B) Anaerobic respiration <!-- feedback: Incorrecto. Anaerobic respiration -->
+
+- [ ] C) Fermentation <!-- feedback: Incorrecto. Fermentation -->
+
+- [ ] D) Glycolysis alone <!-- feedback: Incorrecto. Glycolysis alone -->
+
+### Explicacion Pedagogica Aerobic respiration yields ~36-38 ATP per glucose.
 
 ---
 
-## Question 20 — D10
+## Question 20 [D10]
 **ID:** `ZA-LIF-12-2026-W07-human-impact-001-MASTERY-v20`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** DNA replication in a Bloemfontein class.
+**Contexto:### Opciones
+** DNA replication in a Bloemfontein class.
 
-**Stem:** Function of DNA helicase:
+### Enunciado
+Function of DNA helicase:
 
-- [x] **A)** Unwinds the DNA double helix
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Adds complementary nucleotides
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Seals Okazaki fragments
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Proofreads the new strand
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Unwinds the DNA double helix <!-- feedback: Correcto! Unwinds the DNA double helix -->
 
-**Explanation:** Helicase breaks hydrogen bonds between base pairs.
+- [ ] B) Adds complementary nucleotides <!-- feedback: Incorrecto. Adds complementary nucleotides -->
+
+- [ ] C) Seals Okazaki fragments <!-- feedback: Incorrecto. Seals Okazaki fragments -->
+
+- [ ] D) Proofreads the new strand <!-- feedback: Incorrecto. Proofreads the new strand -->
+
+### Explicacion Pedagogica Helicase breaks hydrogen bonds between base pairs.
 
 ---

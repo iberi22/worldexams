@@ -1,24 +1,32 @@
 ---
-id: "PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY"
+id: "PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY-bundle"
 country: "py"
 exam: "MEC / SNEPE - Ministerio de Educacion y Ciencias"
 grado: 11
 asignatura: "Historia y Ciencias Sociales"
 tema: "hidroelectrica-itaipu-yacyreta"
-semana: 25
+week: "W25"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "MEC - Curriculo Nacional Base / SNEPE"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle - Historia y Ciencias Sociales: Hidroelectrica Itaipu Yacyreta (W25)
 **20 preguntas | Historia y Ciencias Sociales | MEC / SNEPE - Ministerio de Educacion y Ciencias**
 
 ---
-## Pregunta 1 [D4]
+## Question 1 [D4]
 **ID:** `PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PY practicando hidroelectrica itaipu yacyreta.
 
@@ -26,21 +34,22 @@ alignment: "MEC - Curriculo Nacional Base / SNEPE"
 Simplifique: (5)(2x + 30)
 
 ### Opciones
-- [x] **A)** 10x + 150
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 10x + 30
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 7x + 150
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 10x - 150
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 10x + 150 <!-- feedback: Correcto! 10x + 150 -->
+
+- [ ] B) 10x + 30 <!-- feedback: Incorrecto. 10x + 30 -->
+
+- [ ] C) 7x + 150 <!-- feedback: Incorrecto. 7x + 150 -->
+
+- [ ] D) 10x - 150 <!-- feedback: Incorrecto. 10x - 150 -->
 
 **Explicacion:** Aplicar distributiva: (5)(2x + 30) = 10x + 150.
 
 ---
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PY practicando hidroelectrica itaipu yacyreta.
 
@@ -48,21 +57,22 @@ Simplifique: (5)(2x + 30)
 Resuelve: 2(x + 5) = 16
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [ ] C) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] D) 4 <!-- feedback: Incorrecto. 4 -->
 
 **Explicacion:** 2(x+5) = 16 -> x+5 = 8 -> x = 3.
 
 ---
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PY practicando hidroelectrica itaipu yacyreta.
 
@@ -70,21 +80,22 @@ Resuelve: 2(x + 5) = 16
 Maria compro 6 cuadernos a $8.1 c/u en Aregua. &iquest;Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $48.1
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** $6.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $8.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $14.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $48.1 <!-- feedback: Correcto! $48.1 -->
+
+- [ ] B) $6.1 <!-- feedback: Incorrecto. $6.1 -->
+
+- [ ] C) $8.1 <!-- feedback: Incorrecto. $8.1 -->
+
+- [ ] D) $14.1 <!-- feedback: Incorrecto. $14.1 -->
 
 **Explicacion:** Total = 6 x $8 = $48.1.
 
 ---
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY-v4`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PY practicando hidroelectrica itaipu yacyreta.
 
@@ -92,21 +103,22 @@ Maria compro 6 cuadernos a $8.1 c/u en Aregua. &iquest;Cuanto gasto?
 Un estudiante de Colegio Nacional de la Capital en Asuncion grafica f(x) = 6x + 5. &iquest;Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 6
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 11
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 6 <!-- feedback: Correcto! 6 -->
+
+- [ ] B) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [ ] C) 11 <!-- feedback: Incorrecto. 11 -->
+
+- [ ] D) 2 <!-- feedback: Incorrecto. 2 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 6.
 
 ---
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY-v5`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PY practicando hidroelectrica itaipu yacyreta.
 
@@ -114,21 +126,22 @@ Un estudiante de Colegio Nacional de la Capital en Asuncion grafica f(x) = 6x + 
 En un examen ANEP/MEC en Pilar, se pide: si f(x) = 8x^2 + 12x + 7. &iquest;Cual es f(2)?
 
 ### Opciones
-- [x] **A)** 63
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 28
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 20
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 63 <!-- feedback: Correcto! 63 -->
+
+- [ ] B) 28 <!-- feedback: Incorrecto. 28 -->
+
+- [ ] C) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] D) 20 <!-- feedback: Incorrecto. 20 -->
 
 **Explicacion:** Sustituyo x=2: f(2) = 8(4) + 12(2) + 7 = 63.
 
 ---
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PY practicando hidroelectrica itaipu yacyreta.
 
@@ -136,21 +149,22 @@ En un examen ANEP/MEC en Pilar, se pide: si f(x) = 8x^2 + 12x + 7. &iquest;Cual 
 Resuelve la ecuacion: x^2 - 19x + 88 = 0
 
 ### Opciones
-- [x] **A)** x = 8 y x = 11
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** x = 19 y x = 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** x = 0 y x = 88
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** No tiene solucion
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) x = 8 y x = 11 <!-- feedback: Correcto! x = 8 y x = 11 -->
+
+- [ ] B) x = 19 y x = 3 <!-- feedback: Incorrecto. x = 19 y x = 3 -->
+
+- [ ] C) x = 0 y x = 88 <!-- feedback: Incorrecto. x = 0 y x = 88 -->
+
+- [ ] D) No tiene solucion <!-- feedback: Incorrecto. No tiene solucion -->
 
 **Explicacion:** Ecuacion cuadratica: (x-8)(x-11) = 0, por tanto x = 8 o x = 11.
 
 ---
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY-v7`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PY practicando hidroelectrica itaipu yacyreta.
 
@@ -158,21 +172,22 @@ Resuelve la ecuacion: x^2 - 19x + 88 = 0
 Un estudiante de Encarnacion obtuvo notas: 4, 15, 12. &iquest;Cual es la media?
 
 ### Opciones
-- [x] **A)** 10.3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 10
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 10.3 <!-- feedback: Correcto! 10.3 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] C) 10 <!-- feedback: Incorrecto. 10 -->
+
+- [ ] D) 7 <!-- feedback: Incorrecto. 7 -->
 
 **Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.
 
 ---
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PY practicando hidroelectrica itaipu yacyreta.
 
@@ -180,21 +195,22 @@ Un estudiante de Encarnacion obtuvo notas: 4, 15, 12. &iquest;Cual es la media?
 Calcule la derivada de f(x) = 7x^3 + 4x^2 + 3x
 
 ### Opciones
-- [x] **A)** f'(x) = 21x^2 + 8x + 3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** f'(x) = 7x^2 + 4x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** f'(x) = 21x^2 + 4x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** f'(x) = 21x^3 + 8x^2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) f'(x) = 21x^2 + 8x + 3 <!-- feedback: Correcto! f'(x) = 21x^2 + 8x + 3 -->
+
+- [ ] B) f'(x) = 7x^2 + 4x <!-- feedback: Incorrecto. f'(x) = 7x^2 + 4x -->
+
+- [ ] C) f'(x) = 21x^2 + 4x <!-- feedback: Incorrecto. f'(x) = 21x^2 + 4x -->
+
+- [ ] D) f'(x) = 21x^3 + 8x^2 <!-- feedback: Incorrecto. f'(x) = 21x^3 + 8x^2 -->
 
 **Explicacion:** Derivada termino a termino: d/dx(7x^3) = 21x^2, d/dx(4x^2) = 8x, d/dx(3x) = 3.
 
 ---
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY-v9`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PY practicando hidroelectrica itaipu yacyreta.
 
@@ -202,21 +218,22 @@ Calcule la derivada de f(x) = 7x^3 + 4x^2 + 3x
 &iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0
 
 ### Opciones
-- [x] **A)** Si, es correcta porque f'(0) = 0 y f''(0) > 0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** No, tiene un maximo en x = 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** No, no tiene extremos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** Solo es correcta para x > 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) Si, es correcta porque f'(0) = 0 y f''(0) > 0 <!-- feedback: Correcto! Si, es correcta porque f'(0) = 0 y f''(0) > 0 -->
+
+- [ ] B) No, tiene un maximo en x = 0 <!-- feedback: Incorrecto. No, tiene un maximo en x = 0 -->
+
+- [ ] C) No, no tiene extremos <!-- feedback: Incorrecto. No, no tiene extremos -->
+
+- [ ] D) Solo es correcta para x > 0 <!-- feedback: Incorrecto. Solo es correcta para x > 0 -->
 
 **Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.
 
 ---
-## Pregunta 10 [D3]
+## Question 10 [D3]
 **ID:** `PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PY practicando hidroelectrica itaipu yacyreta.
 
@@ -224,21 +241,22 @@ Calcule la derivada de f(x) = 7x^3 + 4x^2 + 3x
 En Lambare, un estudiante del Colegio Nacional Lambare resuelve: 8x + 12 = 52. &iquest;Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **D)** 12
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] B) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 12 <!-- feedback: Incorrecto. 12 -->
 
 **Explicacion:** Se resta 12 de ambos lados. Luego se divide por 8: x = 5.
 
 ---
-## Pregunta 11 [D4]
+## Question 11 [D4]
 **ID:** `PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY-v11`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PY practicando hidroelectrica itaipu yacyreta.
 
@@ -246,21 +264,22 @@ En Lambare, un estudiante del Colegio Nacional Lambare resuelve: 8x + 12 = 52. &
 Simplifique: (5)(10x + 50)
 
 ### Opciones
-- [x] **A)** 50x + 250
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 50x + 50
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 15x + 250
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 50x - 250
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 50x + 250 <!-- feedback: Correcto! 50x + 250 -->
+
+- [ ] B) 50x + 50 <!-- feedback: Incorrecto. 50x + 50 -->
+
+- [ ] C) 15x + 250 <!-- feedback: Incorrecto. 15x + 250 -->
+
+- [ ] D) 50x - 250 <!-- feedback: Incorrecto. 50x - 250 -->
 
 **Explicacion:** Aplicar distributiva: (5)(10x + 50) = 50x + 250.
 
 ---
-## Pregunta 12 [D3]
+## Question 12 [D3]
 **ID:** `PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY-v12`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PY practicando hidroelectrica itaipu yacyreta.
 
@@ -268,21 +287,22 @@ Simplifique: (5)(10x + 50)
 Resuelve: 2(x + 7) = 20
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] C) 9 <!-- feedback: Incorrecto. 9 -->
+
+- [ ] D) 6 <!-- feedback: Incorrecto. 6 -->
 
 **Explicacion:** 2(x+7) = 20 -> x+7 = 10 -> x = 3.
 
 ---
-## Pregunta 13 [D4]
+## Question 13 [D4]
 **ID:** `PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY-v13`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PY practicando hidroelectrica itaipu yacyreta.
 
@@ -290,21 +310,22 @@ Resuelve: 2(x + 7) = 20
 Maria compro 2 cuadernos a $10.1 c/u en Coronel Oviedo. &iquest;Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $20.1
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** $2.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $10.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $12.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $20.1 <!-- feedback: Correcto! $20.1 -->
+
+- [ ] B) $2.1 <!-- feedback: Incorrecto. $2.1 -->
+
+- [ ] C) $10.1 <!-- feedback: Incorrecto. $10.1 -->
+
+- [ ] D) $12.1 <!-- feedback: Incorrecto. $12.1 -->
 
 **Explicacion:** Total = 2 x $10 = $20.1.
 
 ---
-## Pregunta 14 [D5]
+## Question 14 [D5]
 **ID:** `PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY-v14`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PY practicando hidroelectrica itaipu yacyreta.
 
@@ -312,21 +333,22 @@ Maria compro 2 cuadernos a $10.1 c/u en Coronel Oviedo. &iquest;Cuanto gasto?
 Un estudiante de Colegio Nacional Mariscal Estigarribia en Mariscal Estigarribia grafica f(x) = 8x + 4. &iquest;Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 8
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 12
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 8 <!-- feedback: Correcto! 8 -->
+
+- [ ] B) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [ ] C) 12 <!-- feedback: Incorrecto. 12 -->
+
+- [ ] D) 5 <!-- feedback: Incorrecto. 5 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 8.
 
 ---
-## Pregunta 15 [D5]
+## Question 15 [D5]
 **ID:** `PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY-v15`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PY practicando hidroelectrica itaipu yacyreta.
 
@@ -334,21 +356,22 @@ Un estudiante de Colegio Nacional Mariscal Estigarribia en Mariscal Estigarribia
 En un examen ANEP/MEC en Asuncion, se pide: si f(x) = 8x^2 + 6x + 6. &iquest;Cual es f(2)?
 
 ### Opciones
-- [x] **A)** 50
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 22
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 14
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 50 <!-- feedback: Correcto! 50 -->
+
+- [ ] B) 22 <!-- feedback: Incorrecto. 22 -->
+
+- [ ] C) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] D) 14 <!-- feedback: Incorrecto. 14 -->
 
 **Explicacion:** Sustituyo x=2: f(2) = 8(4) + 6(2) + 6 = 50.
 
 ---
-## Pregunta 16 [D6]
+## Question 16 [D6]
 **ID:** `PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY-v16`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PY practicando hidroelectrica itaipu yacyreta.
 
@@ -356,21 +379,22 @@ En un examen ANEP/MEC en Asuncion, se pide: si f(x) = 8x^2 + 6x + 6. &iquest;Cua
 Resuelve la ecuacion: x^2 - 14x + 45 = 0
 
 ### Opciones
-- [x] **A)** x = 5 y x = 9
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** x = 14 y x = 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** x = 0 y x = 45
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** No tiene solucion
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) x = 5 y x = 9 <!-- feedback: Correcto! x = 5 y x = 9 -->
+
+- [ ] B) x = 14 y x = 4 <!-- feedback: Incorrecto. x = 14 y x = 4 -->
+
+- [ ] C) x = 0 y x = 45 <!-- feedback: Incorrecto. x = 0 y x = 45 -->
+
+- [ ] D) No tiene solucion <!-- feedback: Incorrecto. No tiene solucion -->
 
 **Explicacion:** Ecuacion cuadratica: (x-5)(x-9) = 0, por tanto x = 5 o x = 9.
 
 ---
-## Pregunta 17 [D6]
+## Question 17 [D6]
 **ID:** `PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY-v17`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PY practicando hidroelectrica itaipu yacyreta.
 
@@ -378,21 +402,22 @@ Resuelve la ecuacion: x^2 - 14x + 45 = 0
 Un estudiante de Encarnacion obtuvo notas: 10, 9, 13. &iquest;Cual es la media?
 
 ### Opciones
-- [x] **A)** 10.7
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 15
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 10.7 <!-- feedback: Correcto! 10.7 -->
+
+- [ ] B) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [ ] C) 15 <!-- feedback: Incorrecto. 15 -->
+
+- [ ] D) 8 <!-- feedback: Incorrecto. 8 -->
 
 **Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.
 
 ---
-## Pregunta 18 [D7]
+## Question 18 [D7]
 **ID:** `PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY-v18`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PY practicando hidroelectrica itaipu yacyreta.
 
@@ -400,21 +425,22 @@ Un estudiante de Encarnacion obtuvo notas: 10, 9, 13. &iquest;Cual es la media?
 Calcule la derivada de f(x) = 6x^3 + 3x^2 + 0x
 
 ### Opciones
-- [x] **A)** f'(x) = 18x^2 + 6x + 0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** f'(x) = 6x^2 + 3x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** f'(x) = 18x^2 + 3x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** f'(x) = 18x^3 + 6x^2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) f'(x) = 18x^2 + 6x + 0 <!-- feedback: Correcto! f'(x) = 18x^2 + 6x + 0 -->
+
+- [ ] B) f'(x) = 6x^2 + 3x <!-- feedback: Incorrecto. f'(x) = 6x^2 + 3x -->
+
+- [ ] C) f'(x) = 18x^2 + 3x <!-- feedback: Incorrecto. f'(x) = 18x^2 + 3x -->
+
+- [ ] D) f'(x) = 18x^3 + 6x^2 <!-- feedback: Incorrecto. f'(x) = 18x^3 + 6x^2 -->
 
 **Explicacion:** Derivada termino a termino: d/dx(6x^3) = 18x^2, d/dx(3x^2) = 6x, d/dx(0x) = 0.
 
 ---
-## Pregunta 19 [D7]
+## Question 19 [D7]
 **ID:** `PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY-v19`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PY practicando hidroelectrica itaipu yacyreta.
 
@@ -422,21 +448,22 @@ Calcule la derivada de f(x) = 6x^3 + 3x^2 + 0x
 &iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0
 
 ### Opciones
-- [x] **A)** Si, es correcta porque f'(0) = 0 y f''(0) > 0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** No, tiene un maximo en x = 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** No, no tiene extremos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** Solo es correcta para x > 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) Si, es correcta porque f'(0) = 0 y f''(0) > 0 <!-- feedback: Correcto! Si, es correcta porque f'(0) = 0 y f''(0) > 0 -->
+
+- [ ] B) No, tiene un maximo en x = 0 <!-- feedback: Incorrecto. No, tiene un maximo en x = 0 -->
+
+- [ ] C) No, no tiene extremos <!-- feedback: Incorrecto. No, no tiene extremos -->
+
+- [ ] D) Solo es correcta para x > 0 <!-- feedback: Incorrecto. Solo es correcta para x > 0 -->
 
 **Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.
 
 ---
-## Pregunta 20 [D3]
+## Question 20 [D3]
 **ID:** `PY-SOC-11-2026-W25-hidroelectrica-itaipu-yacyreta-001-MASTERY-v20`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PY practicando hidroelectrica itaipu yacyreta.
 
@@ -444,14 +471,13 @@ Calcule la derivada de f(x) = 6x^3 + 3x^2 + 0x
 En Aregua, un estudiante del Colegio Nacional Aregua resuelve: 3x + 3 = 18. &iquest;Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **D)** 10
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 10 <!-- feedback: Incorrecto. 10 -->
 
 **Explicacion:** Se resta 3 de ambos lados. Luego se divide por 3: x = 5.
 

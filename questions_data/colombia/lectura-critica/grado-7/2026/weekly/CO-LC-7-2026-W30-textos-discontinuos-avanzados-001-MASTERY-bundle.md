@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY"
+id: "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "textos discontinuos avanzados"
-semana: "W30"
+week: "W30"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Discontinuos Avanzados - Grado 7
 ## Semana W30 — Lectura crítica e interpretación de textos discontinuos: tablas, infografías, diagramas, afiches
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de Lectura Crítica del Colegio de la Universidad Pontificia Bolivariana de Medellín, el profesor introduce los textos discontinuos.
+**Contexto:** En la clase de Lectura Crítica del Colegio de la Universidad Pontificia Bolivariana de Medellín, el profesor introduce los textos discontinuos.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Los textos discontinuos son aquellos en los que la información no se organiza e
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un estudiante de grado 7 recibe una infografía sobre el reciclaje que tiene tres secciones: "¿Qué reciclar?", "¿Cómo reciclar?" y "Beneficios del reciclaje", cada una con íconos y texto breve.
+**Contexto:** Un estudiante de grado 7 recibe una infografía sobre el reciclaje que tiene tres secciones: "¿Qué reciclar?", "¿Cómo reciclar?" y "Beneficios del reciclaje", cada una con íconos y texto breve.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -60,11 +64,11 @@ La infografía organiza la información visualmente, permitiendo al lector ident
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un estudiante debe interpretar el empaque de un producto alimenticio que incluye tabla nutricional, lista de ingredientes, fecha de vencimiento y código de barras.
+**Contexto:** Un estudiante debe interpretar el empaque de un producto alimenticio que incluye tabla nutricional, lista de ingredientes, fecha de vencimiento y código de barras.
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -81,11 +85,11 @@ Los empaques de alimentos son textos discontinuos complejos que combinan múltip
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Un estudiante recibe un diagrama de flujo que explica el proceso de inscripción a un curso virtual. El diagrama tiene cuadros con decisiones (sí/no) y flechas que conectan los pasos.
+**Contexto:** Un estudiante recibe un diagrama de flujo que explica el proceso de inscripción a un curso virtual. El diagrama tiene cuadros con decisiones (sí/no) y flechas que conectan los pasos.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -102,11 +106,11 @@ Un diagrama de flujo es un texto discontinuo que representa visualmente un proce
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un afiche de prevención de incendios muestra: un ícono grande de un extintor en el centro, una lista numerada de pasos, un mapa con la ubicación de las salidas de emergencia, y un número de teléfono en la parte inferior.
+**Contexto:** Un afiche de prevención de incendios muestra: un ícono grande de un extintor en el centro, una lista numerada de pasos, un mapa con la ubicación de las salidas de emergencia, y un número de teléfono en la parte inferior.
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -123,11 +127,11 @@ Los textos discontinuos como afiches e infografías utilizan elementos de diseñ
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Una infografía sobre la desnutrición infantil en Colombia muestra los siguientes datos: departamento, tasa de desnutrición, color del mapa (verde=bajo, amarillo=medio, rojo=alto).
+**Contexto:** Una infografía sobre la desnutrición infantil en Colombia muestra los siguientes datos: departamento, tasa de desnutrición, color del mapa (verde=bajo, amarillo=medio, rojo=alto).
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -144,11 +148,11 @@ En las infografías con mapas, el color es un sistema de codificación que comun
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un estudiante analiza una tabla que compara cuatro modelos de celulares con columnas para: precio, memoria, duración de batería y calidad de cámara.
+**Contexto:** Un estudiante analiza una tabla que compara cuatro modelos de celulares con columnas para: precio, memoria, duración de batería y calidad de cámara.
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -165,11 +169,11 @@ La tabla es uno de los textos discontinuos más efectivos para la comparación d
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Una infografía titulada "El agua en Colombia" muestra el porcentaje de hogares con acceso a agua potable en cada región, usando gotas de agua de diferentes tamaños para representar los datos.
+**Contexto:** Una infografía titulada "El agua en Colombia" muestra el porcentaje de hogares con acceso a agua potable en cada región, usando gotas de agua de diferentes tamaños para representar los datos.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -186,11 +190,11 @@ La representación visual de datos en infografías puede ser engañosa si no se 
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un folleto turístico sobre San Andrés usa fotos paradisíacas, precios en letra pequeña y una infografía que muestra la "satisfacción del turista" con un 98% representado por una carita feliz gigante.
+**Contexto:** Un folleto turístico sobre San Andrés usa fotos paradisíacas, precios en letra pequeña y una infografía que muestra la "satisfacción del turista" con un 98% representado por una carita feliz gigante.
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -207,11 +211,11 @@ Los folletos turísticos son textos discontinuos con intención claramente persu
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Un artículo de noticias incluye una línea de tiempo (timeline) que muestra los eventos de la crisis política en un país. La línea comienza con la protesta ciudadana y termina con la renuncia del presidente.
+**Contexto:** Un artículo de noticias incluye una línea de tiempo (timeline) que muestra los eventos de la crisis política en un país. La línea comienza con la protesta ciudadana y termina con la renuncia del presidente.
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ Aunque las líneas de tiempo parecen neutrales (solo muestran fechas y eventos),
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Un informe de gobierno presenta un diagrama de barras que muestra la reducción de la pobreza durante la administración actual, pero las barras comienzan en 20% en lugar de 0%.
+**Contexto:** Un informe de gobierno presenta un diagrama de barras que muestra la reducción de la pobreza durante la administración actual, pero las barras comienzan en 20% en lugar de 0%.
 **Expected_Success:** 0.40
 
 ### Enunciado
@@ -249,11 +253,11 @@ Esta es una técnica común de manipulación visual de datos: el truncamiento de
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** Como proyecto de la semana, los estudiantes deben crear un texto discontinuo (infografía, folleto o afiche) que comunique información sobre un tema social de su comunidad, utilizando al menos tres formatos diferentes (tabla, gráfico, diagrama, mapa, íconos).
+**Contexto:** Como proyecto de la semana, los estudiantes deben crear un texto discontinuo (infografía, folleto o afiche) que comunique información sobre un tema social de su comunidad, utilizando al menos tres formatos diferentes (tabla, gráfico, diagrama, mapa, íconos).
 **Expected_Success:** 0.36
 
 ### Enunciado

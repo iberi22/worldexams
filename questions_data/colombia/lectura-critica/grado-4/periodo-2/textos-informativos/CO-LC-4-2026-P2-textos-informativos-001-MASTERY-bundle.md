@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-4-2026-P2-textos-informativos-001-MASTERY"
+id: "CO-LC-4-2026-P2-textos-informativos-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Dimensión textual, Dimensión inferencial"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # El Cóndor de los Andes: El Gigante de Nuestro Escudo
 
@@ -27,14 +34,15 @@ rubric_baseline: "Dimensión textual, Dimensión inferencial"
 ## Question 1 [D3]
 
 **ID:** `CO-LC-4-2026-P2-textos-informativos-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Identificación de contenidos locales]
-**Context:** Información general sobre el Cóndor.
+**Contexto:** Información general sobre el Cóndor.
 
 ### Enunciado
 ¿Cuánto pueden medir las alas del Cóndor de los Andes cuando están totalmente extendidas?
 
-### Options
+### Opciones
 - [ ] A) Hasta 1 metro de largo. <!-- feedback: Incorrect. El texto menciona una medida mucho mayor (3 metros). 1 metro es una medida pequeña para este gigante. -->
 - [ ] B) Hasta 5 metros de largo. <!-- feedback: Incorrect. El texto especifica "hasta 3 metros", por lo que 5 metros es una exageración no sustentada en la lectura. -->
 - [x] C) Hasta 3 metros de largo. <!-- feedback: Correct. El texto afirma claramente: "Sus alas extendidas pueden medir hasta 3 metros de largo". -->
@@ -48,14 +56,15 @@ Se evalúa la recuperación de información puntual en un texto informativo. La 
 ## Question 2 [D3]
 
 **ID:** `CO-LC-4-2026-P2-textos-informativos-001-MASTERY-v2`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Identificación de contenidos locales]
-**Context:** Hábitat del Cóndor.
+**Contexto:** Hábitat del Cóndor.
 
 ### Enunciado
 Según el texto, ¿en qué lugar geográfico vive principalmente el Cóndor?
 
-### Options
+### Opciones
 - [ ] A) En las playas del Océano Pacífico. <!-- feedback: Incorrect. El texto no menciona las playas, sino las "altas montañas". -->
 - [ ] B) En las selvas bajas del Amazonas. <!-- feedback: Incorrect. Aunque vive en varios países, su hábitat específico son las montañas, no las selvas bajas. -->
 - [x] C) En la Cordillera de los Andes. <!-- feedback: Correct. La lectura señala que vive en las "altas montañas de la Cordillera de los Andes". -->
@@ -69,14 +78,15 @@ Se evalúa la comprensión del espacio geográfico mencionado en un texto exposi
 ## Question 3 [D4]
 
 **ID:** `CO-LC-4-2026-P2-textos-informativos-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Comprensión del sentido global]
-**Context:** Alimentación del Cóndor.
+**Contexto:** Alimentación del Cóndor.
 
 ### Enunciado
 El texto dice que el Cóndor es un ave **carroñera**. ¿Qué significa esto para el ecosistema?
 
-### Options
+### Opciones
 - [ ] A) Que caza animales vivos para alimentarse. <!-- feedback: Incorrect. Las aves de presa cazan; las carroñeras, como el cóndor, se alimentan de lo que ya está muerto. -->
 - [ ] B) Que solo come frutas y semillas del páramo. <!-- feedback: Incorrect. Esto describiría a un ave herbívora o frugívora, no a una carroñera. -->
 - [x] C) Que limpia el ambiente al comer animales muertos. <!-- feedback: Correct. El texto explica que ser carroñero significa alimentarse de animales muertos, lo que ayuda a "limpiar el ecosistema". -->
@@ -90,14 +100,15 @@ Se evalúa la capacidad de definir términos técnicos a partir del contexto del
 ## Question 4 [D4]
 
 **ID:** `CO-LC-4-2026-P2-textos-informativos-001-MASTERY-v4`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Reflexión sobre el contenido]
-**Context:** El Cóndor como símbolo patrio.
+**Contexto:** El Cóndor como símbolo patrio.
 
 ### Enunciado
 ¿Qué representa la figura del Cóndor en la parte superior del Escudo Nacional de Colombia?
 
-### Options
+### Opciones
 - [ ] A) La riqueza de las minas de oro. <!-- feedback: Incorrect. Otros elementos del escudo representan la riqueza, pero el cóndor tiene un significado diferente. -->
 - [x] B) La libertad y la grandeza de la nación. <!-- feedback: Correct. El texto menciona explícitamente que representa "la libertad y la grandeza de nuestra nación". -->
 - [ ] C) La gran cantidad de volcanes que tenemos. <!-- feedback: Incorrect. Aunque vive en montañas, el simbolismo oficial mencionado es sobre valores nacionales, no geografía física. -->
@@ -111,14 +122,15 @@ Se evalúa la interpretación del simbolismo nacional presentado en el texto. La
 ## Question 5 [D5]
 
 **ID:** `CO-LC-4-2026-P2-textos-informativos-001-MASTERY-v5`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Dimensión inferencial]
-**Context:** Situación actual de la especie.
+**Contexto:** Situación actual de la especie.
 
 ### Enunciado
 ¿Cuál es una de las razones por las que el Cóndor de los Andes está en peligro de extinción, según la lectura?
 
-### Options
+### Opciones
 - [ ] A) Porque hay demasiados cóndores y no tienen espacio. <!-- feedback: Incorrect. Si hay peligro de extinción es porque hay muy pocos, no muchos. -->
 - [x] B) Debido a la caza y a que se está quedando sin hogar (hábitat). <!-- feedback: Correct. El texto señala: "se encuentra en peligro de extinción debido a la caza y la pérdida de su hábitat". -->
 - [ ] C) Porque el clima de las montañas se volvió muy caliente. <!-- feedback: Incorrect. Aunque el cambio climático afecta, el texto menciona específicamente la caza y la pérdida de hábitat. -->
@@ -132,14 +144,15 @@ Se evalúa la identificación de causas y consecuencias en un problema ambiental
 ## Question 6 [D4]
 
 **ID:** `CO-LC-4-2026-P2-textos-informativos-001-MASTERY-v6`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Dimensión textual]
-**Context:** El título del texto.
+**Contexto:** El título del texto.
 
 ### Enunciado
 ¿Por qué el autor eligió el título "El Cóndor de los Andes: El Gigante de Nuestro Escudo"?
 
-### Options
+### Opciones
 - [ ] A) Porque el cóndor es un ave muy pequeña y graciosa. <!-- feedback: Incorrect. El título dice "Gigante", lo que contradice la idea de que sea pequeño. -->
 - [ ] B) Porque quiere que el lector aprenda a dibujar escudos. <!-- feedback: Incorrect. El propósito es informar sobre el ave, no dar instrucciones de dibujo. -->
 - [x] C) Porque une su característica física (tamaño) con su importancia nacional (símbolo). <!-- feedback: Correct. El título resume los dos temas principales: que es un ave muy grande y que es parte fundamental de los símbolos patrios colombianos. -->
@@ -153,14 +166,15 @@ Se evalúa la comprensión de la relación entre el título y el contenido del t
 ## Question 7 [D5]
 
 **ID:** `CO-LC-4-2026-P2-textos-informativos-001-MASTERY-v7`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Reflexión sobre la forma]
-**Context:** Tipo de texto.
+**Contexto:** Tipo de texto.
 
 ### Enunciado
 ¿Qué tipo de texto es el que acabas de leer y cuál es su objetivo principal?
 
-### Options
+### Opciones
 - [ ] A) Es un poema para expresar sentimientos hacia las aves. <!-- feedback: Incorrect. El texto no usa rima ni lenguaje poético, sino datos y hechos reales. -->
 - [x] B) Es un texto informativo para dar a conocer datos sobre el Cóndor. <!-- feedback: Correct. Presenta información real, descripciones físicas, ubicación geográfica y datos culturales de forma objetiva. -->
 - [ ] C) Es una receta para preparar un plato típico de los Andes. <!-- feedback: Incorrect. No contiene ingredientes ni pasos de preparación de alimentos. -->
@@ -174,14 +188,15 @@ Se evalúa el reconocimiento de la tipología textual. La respuesta correcta ide
 ## Question 8 [D4]
 
 **ID:** `CO-LC-4-2026-P2-textos-informativos-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Dimensión inferencial]
-**Context:** El papel ecológico.
+**Contexto:** El papel ecológico.
 
 ### Enunciado
 Si el Cóndor desapareciera por completo, ¿qué consecuencia negativa tendría para el ecosistema de montaña según la lógica del texto?
 
-### Options
+### Opciones
 - [ ] A) Las montañas se harían más bajas y pequeñas. <!-- feedback: Incorrect. La desaparición de un ave no afecta el tamaño geológico de las montañas. -->
 - [x] B) Se acumularían animales muertos que podrían causar enfermedades. <!-- feedback: Correct. Al ser carroñero y "limpiar el ecosistema", su ausencia dejaría los restos orgánicos sin procesar, afectando la salud del ambiente. -->
 - [ ] C) Los otros pájaros tendrían que empezar a comer piedras. <!-- feedback: Incorrect. La desaparición de una especie no obliga a las otras a cambiar su dieta biológica de forma imposible. -->
@@ -195,14 +210,15 @@ Se evalúa la capacidad de proyectar consecuencias lógicas a partir de la infor
 ## Question 9 [D5]
 
 **ID:** `CO-LC-4-2026-P2-textos-informativos-001-MASTERY-v9`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Identificación de contenidos locales]
-**Context:** Vocabulario específico.
+**Contexto:** Vocabulario específico.
 
 ### Enunciado
 En la oración: "Lamentablemente, se encuentra en peligro de extinción debido a la **pérdida de su hábitat**", la palabra resaltada se refiere a:
 
-### Options
+### Opciones
 - [ ] A) El color de las plumas del cóndor. <!-- feedback: Incorrect. El hábitat se refiere al lugar de vida, no a una característica física del cuerpo del animal. -->
 - [ ] B) La cantidad de comida que encuentra. <!-- feedback: Incorrect. Aunque está relacionado, el hábitat es el espacio físico donde vive y se reproduce. -->
 - [x] C) El lugar natural donde el animal vive y se desarrolla. <!-- feedback: Correct. El hábitat es el ambiente que ofrece las condiciones necesarias para que una especie sobreviva. -->
@@ -216,14 +232,15 @@ Se evalúa el dominio del vocabulario técnico ambiental. La respuesta correcta 
 ## Question 10 [D5]
 
 **ID:** `CO-LC-4-2026-P2-textos-informativos-001-MASTERY-v10`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Comprensión del sentido global]
-**Context:** Conclusión del texto.
+**Contexto:** Conclusión del texto.
 
 ### Enunciado
 ¿Cuál de estas ideas resume mejor el mensaje final del texto?
 
-### Options
+### Opciones
 - [ ] A) El Cóndor es un ave muy pesada que ya no puede volar bien. <!-- feedback: Incorrect. El texto dice que es una de las más grandes que puede volar, no que tenga problemas para hacerlo. -->
 - [ ] B) Los escudos de los países deben tener muchos animales diferentes. <!-- feedback: Incorrect. El texto se centra en la importancia específica del cóndor, no en una regla general para escudos. -->
 - [x] C) El Cóndor es un animal majestuoso e importante que debemos proteger. <!-- feedback: Correct. El texto combina su grandeza física, su valor como símbolo y la advertencia de que está en peligro, motivando su protección. -->

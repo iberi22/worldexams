@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-P4-causas-consecuencias-INDEX-MASTERY"
+id: "CO-LEC-6-2026-P4-causas-consecuencias-INDEX-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "causa y efecto, relaciones causales, consecuencias, cadenas de eventos, explicaciones"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G6 — Causas y Consecuencias
 
@@ -29,12 +36,13 @@ rubric_baseline: "causa y efecto, relaciones causales, consecuencias, cadenas de
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿En qué municipio ocurre la historia?
 
-### Options
+### Opciones
 - [ ] A) Villavicencio. <!-- feedback: Incorrecto. -->
 - [x] B) Mocoa, Putumayo. <!-- feedback: Correcto. -->
 - [ ] C) Leticia. <!-- feedback: Incorrecto. -->
@@ -46,12 +54,13 @@ Identificación del lugar de los hechos.
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Quién notó primero el peligro del puente?
 
-### Options
+### Opciones
 - [ ] A) El alcalde. <!-- feedback: Incorrecto. -->
 - [ ] B) Un profesor. <!-- feedback: Incorrecto. -->
 - [x] C) Don Hernán. <!-- feedback: Correcto. -->
@@ -63,12 +72,13 @@ Identificación de un personaje.
 ## Question 3 [D4 - Causa]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Cuál fue la causa principal del derrumbe del puente?
 
-### Options
+### Opciones
 - [ ] A) El puente era muy viejo. <!-- feedback: Incorrecto. -->
 - [x] B) Las fuertes lluvias durante tres días hicieron crecer el río. <!-- feedback: Correcto. -->
 - [ ] C) Los niños cruzaban demasiado. <!-- feedback: Incorrecto. -->
@@ -80,12 +90,13 @@ Identificación de la causa directa de un evento.
 ## Question 4 [D4 - Consecuencia]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Cuál fue la consecuencia inmediata del derrumbe del puente?
 
-### Options
+### Opciones
 - [ ] A) La gente celebró. <!-- feedback: Incorrecto. -->
 - [x] B) La comunidad quedó dividida y los niños no podían ir a la escuela. <!-- feedback: Correcto. -->
 - [ ] C) Construyeron un puente nuevo al día siguiente. <!-- feedback: Incorrecto. -->
@@ -97,12 +108,13 @@ Identificación de la consecuencia directa.
 ## Question 5 [D5 - Relación causal]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Por qué el puente se derrumbó a las 3 de la madrugada y no durante el día?
 
-### Options
+### Opciones
 - [ ] A) Porque a esa hora nadie lo veía. <!-- feedback: Incorrecto. -->
 - [x] B) Porque las lluvias continuas durante tres días hicieron que el caudal creciera gradualmente hasta alcanzar su punto máximo de presión en la madrugada. <!-- feedback: Correcto. -->
 - [ ] C) Porque alguien lo golpeó. <!-- feedback: Incorrecto. -->
@@ -114,12 +126,13 @@ Inferencia sobre el proceso gradual de una causa hasta producir un efecto.
 ## Question 6 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué consecuencias tuvo el derrumbe para los campesinos?
 
-### Options
+### Opciones
 - [ ] A) No pudieron sembrar. <!-- feedback: Incorrecto. -->
 - [x] B) No podían llevar sus productos al mercado. <!-- feedback: Correcto. -->
 - [ ] C) Perdieron sus casas. <!-- feedback: Incorrecto. -->
@@ -131,12 +144,13 @@ Identificación de una consecuencia específica.
 ## Question 7 [D5 - Cadena causal]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué cadena de causas y consecuencias se describe en el texto?
 
-### Options
+### Opciones
 - [ ] A) Lluvias → río crece → puente resiste. <!-- feedback: Incorrecto. -->
 - [x] B) Lluvias intensas → río crece → puente se derrumba → comunidad dividida → niños caminan más. <!-- feedback: Correcto. -->
 - [ ] C) Puente nuevo → lluvias → inundación. <!-- feedback: Incorrecto. -->
@@ -148,12 +162,13 @@ Reconstrucción de la cadena causal completa del texto.
 ## Question 8 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Por qué la Alcaldía tardó meses en construir el nuevo puente?
 
-### Options
+### Opciones
 - [ ] A) Porque no querían. <!-- feedback: Incorrecto. -->
 - [x] B) Porque los procesos administrativos y de construcción toman tiempo, especialmente en zonas rurales. <!-- feedback: Correcto. -->
 - [ ] C) Porque el río seguía crecido. <!-- feedback: Incorrecto. -->
@@ -165,12 +180,13 @@ Inferencia de causas no dichas explícitamente sobre procesos burocráticos.
 ## Question 9 [D5 - Reflexión]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Qué muestra la frase final "las lluvias intensas, que antes eran raras, ahora ocurrían cada año"?
 
-### Options
+### Opciones
 - [ ] A) Que el clima es estable. <!-- feedback: Incorrecto. -->
 - [x] B) Que el cambio climático está aumentando la frecuencia de eventos extremos. <!-- feedback: Correcto. -->
 - [ ] C) Que las lluvias son buenas. <!-- feedback: Incorrecto. -->
@@ -182,12 +198,13 @@ Reflexión sobre la causa subyacente (cambio climático) de los eventos narrados
 ## Question 10 [D5]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Qué lección aprendió la comunidad según el texto?
 
-### Options
+### Opciones
 - [ ] A) Que los puentes de madera son malos. <!-- feedback: Incorrecto. -->
 - [x] B) Que los eventos climáticos extremos son cada vez más frecuentes y deben prepararse para ellos. <!-- feedback: Correcto. -->
 - [ ] C) Que no deben vivir cerca de ríos. <!-- feedback: Incorrecto. -->

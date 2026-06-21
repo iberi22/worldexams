@@ -1,28 +1,32 @@
 ---
-id: "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY"
+id: "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "clasificacion-textos"
-semana: "W23"
+week: "W23"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Clasificación de Textos - Grado 6
 ## Semana W23
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio San José de Mosquera, la profesora repasa los criterios para clasificar textos.
+**Contexto:** En el Colegio San José de Mosquera, la profesora repasa los criterios para clasificar textos.
 **Expected_Success:** 0.87
 
 ### Enunciado
@@ -39,11 +43,11 @@ Clasificar textos no es un ejercicio arbitrario. Se basa en criterios analítico
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** Los estudiantes de la I.E. Ciudadela de Sincelejo reciben varios textos para clasificar en una actividad de taller.
+**Contexto:** Los estudiantes de la I.E. Ciudadela de Sincelejo reciben varios textos para clasificar en una actividad de taller.
 **Expected_Success:** 0.81
 
 ### Enunciado
@@ -60,11 +64,11 @@ La clasificación de textos se apoya en "marcas textuales": palabras o frases ca
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Bilingüe de Girón, los estudiantes clasifican una receta de cocina típica colombiana.
+**Contexto:** En el Colegio Bilingüe de Girón, los estudiantes clasifican una receta de cocina típica colombiana.
 **Expected_Success:** 0.79
 
 ### Enunciado
@@ -81,11 +85,11 @@ Los textos instructivos tienen como propósito guiar al lector para realizar una
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En el Colegio Técnico Ambiental de Yopal, los estudiantes deben clasificar textos por su función comunicativa.
+**Contexto:** En el Colegio Técnico Ambiental de Yopal, los estudiantes deben clasificar textos por su función comunicativa.
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -102,11 +106,11 @@ Las funciones del lenguaje según Jakobson ayudan a clasificar textos: 1) REFERE
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. Técnica de Puerto Carreño, los estudiantes analizan un texto que mezcla características.
+**Contexto:** En la I.E. Técnica de Puerto Carreño, los estudiantes analizan un texto que mezcla características.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -123,11 +127,11 @@ Los textos híbridos son más comunes de lo que parece. Un texto puede comenzar 
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio de la Universidad Pedagógica de Tunja, los estudiantes discuten por qué la clasificación de textos no siempre es absoluta.
+**Contexto:** En el Colegio de la Universidad Pedagógica de Tunja, los estudiantes discuten por qué la clasificación de textos no siempre es absoluta.
 **Expected_Success:** 0.64
 
 ### Enunciado
@@ -144,11 +148,11 @@ La clasificación textual es una herramienta analítica, no un sistema binario (
 
 ---
 
-## Pregunta 7 [D7]
+## Question 7 [D7]
 **ID:** `CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En la I.E. Técnica de Leticia, los estudiantes clasifican un texto sobre la Amazonía.
+**Contexto:** En la I.E. Técnica de Leticia, los estudiantes clasifican un texto sobre la Amazonía.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -174,11 +178,11 @@ Para clasificar un texto, considera múltiples indicadores: 1) ¿Quién lo escri
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Santa María de Bogotá, los estudiantes evalúan si una infografía es un tipo de texto.
+**Contexto:** En el Colegio Santa María de Bogotá, los estudiantes evalúan si una infografía es un tipo de texto.
 **Expected_Success:** 0.56
 
 ### Enunciado
@@ -195,11 +199,11 @@ La clasificación de textos incluye también los textos multimodales, que combin
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En la Institución Educativa San Pedro de Urabá, los estudiantes investigan si un meme de internet puede clasificarse como texto.
+**Contexto:** En la Institución Educativa San Pedro de Urabá, los estudiantes investigan si un meme de internet puede clasificarse como texto.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -216,11 +220,11 @@ En la era digital, la noción de "texto" se ha ampliado. Un texto es cualquier p
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio Nueva Colombia de Barrancabermeja, el proyecto final consiste en crear un texto y luego autoevaluar su clasificación.
+**Contexto:** En el Colegio Nueva Colombia de Barrancabermeja, el proyecto final consiste en crear un texto y luego autoevaluar su clasificación.
 **Expected_Success:** 0.43
 
 ### Enunciado

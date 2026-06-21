@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W22-repaso-periodo-5-001-MASTERY"
+id: "CO-CIE-6-2026-W22-repaso-periodo-5-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W22 — Repaso P5: Circulatorio y Respiratorio
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W22-repaso-periodo-5-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Repaso periodo 5: sistemas circulatorio y respiratorio.
+**Contexto:** Repaso periodo 5: sistemas circulatorio y respiratorio.
 
 ### Enunciado
 ¿Cuántas cavidades tiene el corazón humano?
 
-### Options
+### Opciones
 - [ ] A) 2 <!-- feedback: Peces tienen 2. -->
 - [ ] B) 3 <!-- feedback: Anfibios tienen 3. -->
 - [x] C) 4 <!-- feedback: Correcto. -->
@@ -48,13 +51,14 @@ El corazón humano tiene 4 cavidades: aurícula derecha, ventrículo derecho, au
 
 **ID:** `CO-CIE-6-2026-W22-repaso-periodo-5-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Repaso de los componentes de la sangre.
+**Contexto:** Repaso de los componentes de la sangre.
 
 ### Enunciado
 ¿Qué componente de la sangre transporta oxígeno?
 
-### Options
+### Opciones
 - [ ] A) El plasma <!-- feedback: El plasma transporta nutrientes y hormonas. -->
 - [x] B) Los glóbulos rojos (eritrocitos) <!-- feedback: Correcto. -->
 - [ ] C) Los glóbulos blancos <!-- feedback: Defienden contra infecciones. -->
@@ -69,13 +73,14 @@ Los glóbulos rojos contienen hemoglobina, proteína que se une al oxígeno. Son
 
 **ID:** `CO-CIE-6-2026-W22-repaso-periodo-5-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Repaso de la mecánica respiratoria.
+**Contexto:** Repaso de la mecánica respiratoria.
 
 ### Enunciado
 ¿Qué ocurre en los alvéolos pulmonares?
 
-### Options
+### Opciones
 - [ ] A) Se produce moco <!-- feedback: El moco se produce en los bronquios. -->
 - [ ] B) El aire se calienta <!-- feedback: El aire se calienta en las fosas nasales. -->
 - [x] C) El O2 pasa a la sangre y el CO2 pasa de la sangre al alvéolo <!-- feedback: Correcto. -->
@@ -90,13 +95,14 @@ Los alvéolos son sacos rodeados de capilares. La difusión ocurre por diferenci
 
 **ID:** `CO-CIE-6-2026-W22-repaso-periodo-5-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Repaso del diafragma.
+**Contexto:** Repaso del diafragma.
 
 ### Enunciado
 ¿Qué hace el diafragma durante la inhalación?
 
-### Options
+### Opciones
 - [ ] A) Se relaja <!-- feedback: Se relaja durante la exhalación. -->
 - [x] B) Se contrae y aplana, expandiendo la cavidad torácica <!-- feedback: Correcto. -->
 - [ ] C) Se paraliza <!-- feedback: No. -->
@@ -111,13 +117,14 @@ El diafragma es el músculo principal de la respiración. Al contraerse, baja y 
 
 **ID:** `CO-CIE-6-2026-W22-repaso-periodo-5-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Aplicación sobre salud cardiovascular.
+**Contexto:** Aplicación sobre salud cardiovascular.
 
 ### Enunciado
 ¿Por qué una dieta alta en grasas saturadas es perjudicial para el corazón?
 
-### Options
+### Opciones
 - [ ] A) Porque las grasas no se digieren <!-- feedback: Sí se digieren. -->
 - [ ] B) Porque las grasas engordan el corazón <!-- feedback: El corazón no engorda. -->
 - [x] C) Porque aumentan el colesterol LDL que se acumula en arterias (aterosclerosis) <!-- feedback: Correcto. -->
@@ -132,13 +139,14 @@ El colesterol LDL (malo) se oxida y se deposita en las paredes arteriales, forma
 
 **ID:** `CO-CIE-6-2026-W22-repaso-periodo-5-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Aplicación sobre prevención respiratoria.
+**Contexto:** Aplicación sobre prevención respiratoria.
 
 ### Enunciado
 ¿Por qué es importante ventilar los espacios cerrados donde hay personas?
 
-### Options
+### Opciones
 - [ ] A) Para que entre luz <!-- feedback: La luz no es el objetivo. -->
 - [ ] B) Para que entre frío <!-- feedback: No. -->
 - [x] C) Para renovar el oxígeno y reducir la concentración de CO2 y partículas contaminantes <!-- feedback: Correcto. -->
@@ -153,13 +161,14 @@ En espacios cerrados, el O2 disminuye y el CO2 aumenta por la respiración de la
 
 **ID:** `CO-CIE-6-2026-W22-repaso-periodo-5-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Análisis sobre infartos.
+**Contexto:** Análisis sobre infartos.
 
 ### Enunciado
 ¿Qué ocurre durante un infarto al miocardio?
 
-### Options
+### Opciones
 - [ ] A) El corazón deja de latir para siempre <!-- feedback: No siempre es instantáneo. -->
 - [ ] B) Los pulmones se llenan de sangre <!-- feedback: No. -->
 - [x] C) Una arteria coronaria se obstruye, impidiendo que llegue oxígeno a una parte del músculo cardíaco, que muere <!-- feedback: Correcto. -->
@@ -174,13 +183,14 @@ Las arterias coronarias irrigan el corazón. Cuando una se obstruye (por placa d
 
 **ID:** `CO-CIE-6-2026-W22-repaso-periodo-5-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Análisis sobre la hipertensión.
+**Contexto:** Análisis sobre la hipertensión.
 
 ### Enunciado
 ¿Por qué la hipertensión se llama "asesina silenciosa"?
 
-### Options
+### Opciones
 - [ ] A) Porque mata mientras se duerme <!-- feedback: No es literal. -->
 - [x] B) Porque no presenta síntomas hasta que causa daños graves como infarto o ACV <!-- feedback: Correcto. -->
 - [ ] C) Porque solo afecta a personas silenciosas <!-- feedback: No. -->
@@ -195,13 +205,14 @@ La hipertensión arterial (>130/80 mmHg) no duele ni da síntomas en etapas temp
 
 **ID:** `CO-CIE-6-2026-W22-repaso-periodo-5-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Evaluación sobre pulso y primeros auxilios.
+**Contexto:** Evaluación sobre pulso y primeros auxilios.
 
 ### Enunciado
 ¿Por qué se toma el pulso en la muñeca (arteria radial) o cuello (arteria carótida)?
 
-### Options
+### Opciones
 - [ ] A) Porque son las únicas arterias del cuerpo <!-- feedback: Hay muchas arterias. -->
 - [x] B) Porque son arterias superficiales y cercanas al corazón donde se siente fácilmente la presión del pulso <!-- feedback: Correcto. -->
 - [ ] C) Porque las venas en esos lugares son más grandes <!-- feedback: Se palpa arteria, no vena. -->
@@ -216,13 +227,14 @@ El pulso es la onda de presión que viaja por las arterias con cada latido. Se p
 
 **ID:** `CO-CIE-6-2026-W22-repaso-periodo-5-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Evaluación final del periodo 5.
+**Contexto:** Evaluación final del periodo 5.
 
 ### Enunciado
 ¿Cuál es la razón MÁS IMPORTANTE para hacer ejercicio aeróbico regularmente?
 
-### Options
+### Opciones
 - [ ] A) Para tener músculos grandes <!-- feedback: El aeróbico no hipertrofia. -->
 - [ ] B) Para sudar y eliminar toxinas <!-- feedback: Sudar no elimina toxinas significativamente. -->
 - [x] C) Porque fortalece el corazón, mejora la capacidad pulmonar, reduce presión arterial y previene enfermedades cardiovasculares <!-- feedback: Correcto. -->

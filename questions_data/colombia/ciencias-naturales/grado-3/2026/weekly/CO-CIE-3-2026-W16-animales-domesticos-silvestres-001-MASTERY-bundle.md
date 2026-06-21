@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY"
+id: "CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "animales-domesticos-silvestres"
-semana: "W16"
+week: "W16"
 periodo: 2
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Diferencia entre animales domésticos y silvestres. Importanci
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Animales Domésticos y Silvestres
 
 Este bundle explora la diferencia entre los animales que conviven con los humanos y aquellos que viven en libertad en su entorno natural, enfatizando el respeto y cuidado que cada grupo requiere.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una finca en Antioquia, Pedro tiene perros, gallinas y una vaca. Estos animales dependen de él para comer.
+**Contexto:** En una finca en Antioquia, Pedro tiene perros, gallinas y una vaca. Estos animales dependen de él para comer.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ Los animales domésticos han convivido con los humanos por miles de años. Depen
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Durante una caminata por el Parque Nacional Natural Chingaza, un guía nos muestra un oso de anteojos a lo lejos.
+**Contexto:** Durante una caminata por el Parque Nacional Natural Chingaza, un guía nos muestra un oso de anteojos a lo lejos.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -73,12 +77,12 @@ Los animales silvestres (o salvajes) son fundamentales para el equilibrio de la 
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Una persona intenta llevarse un loro de la selva para tenerlo en una jaula dentro de su apartamento en la ciudad.
+**Contexto:** Una persona intenta llevarse un loro de la selva para tenerlo en una jaula dentro de su apartamento en la ciudad.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -98,12 +102,12 @@ Extraer animales de la naturaleza se llama tráfico de fauna y es un delito. Los
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Tienes que clasificar esta lista en dos grupos: Tigre, Perro, Delfín, Oveja.
+**Contexto:** Tienes que clasificar esta lista en dos grupos: Tigre, Perro, Delfín, Oveja.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -123,12 +127,12 @@ Aprender a distinguir estos grupos nos ayuda a saber cómo actuar frente a ellos
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Un gato de casa tiene siempre su plato lleno de concentrado. Un gato montés en la selva tiene que acechar y cazar lagartijas para almorzar.
+**Contexto:** Un gato de casa tiene siempre su plato lleno de concentrado. Un gato montés en la selva tiene que acechar y cazar lagartijas para almorzar.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -148,12 +152,12 @@ La domesticación cambia el comportamiento. Un perro o gato de casa ha perdido p
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En Colombia, muchas personas tienen "fincas de recreo" donde a veces aparecen serpientes o zarigüeyas que viven en los alrededores.
+**Contexto:** En Colombia, muchas personas tienen "fincas de recreo" donde a veces aparecen serpientes o zarigüeyas que viven en los alrededores.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -173,12 +177,12 @@ La convivencia con la fauna silvestre requiere paciencia. Muchos animales, como 
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un zoológico moderno rescata animales que han sido maltratados en circos o casas y trata de curarlos.
+**Contexto:** Un zoológico moderno rescata animales que han sido maltratados en circos o casas y trata de curarlos.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -198,12 +202,12 @@ Cuando un animal silvestre se acostumbra a los humanos (improntación), pierde s
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Imagina que quieres ayudar a proteger a los animales de Colombia.
+**Contexto:** Imagina que quieres ayudar a proteger a los animales de Colombia.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -223,12 +227,12 @@ La mejor ayuda es el respeto. No comprar fauna silvestre es la acción más pode
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Los perros y los lobos son parientes muy cercanos, pero se comportan de forma totalmente diferente frente a una persona.
+**Contexto:** Los perros y los lobos son parientes muy cercanos, pero se comportan de forma totalmente diferente frente a una persona.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -248,12 +252,12 @@ La domesticación es un cambio en la mente del animal. El perro ve al humano com
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W16-animales-domesticos-silvestres-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un niño dice: "Yo cuido mucho a mi hámster, por eso le doy pizza y lo dejo dormir en mi cama".
+**Contexto:** Un niño dice: "Yo cuido mucho a mi hámster, por eso le doy pizza y lo dejo dormir en mi cama".
 **Expected_Success:** 0.60
 
 ### Enunciado

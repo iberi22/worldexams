@@ -22,6 +22,7 @@ tier: "legacy"
 creador: "Jules-Agent"
 ---
 
+
 # Bundle MASTERY: Repaso P3 - Grado 11
 
 Este bundle contiene 20 preguntas sobre **repaso p3** para grado 11,
@@ -40,14 +41,13 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 En "Mamita Yunai", el autor utiliza un lenguaje crudo para describir la vida en las bananeras de Limón. ¿Qué intención comunicativa predomina en la obra?
 
 ### Opciones
-- [ ] A) Exaltar la belleza exótica del Caribe costarricense.
-  <!-- feedback: Incorrecto. Aunque describe el paisaje, la obra se centra en el conflicto humano. -->
-- [x] B) Denunciar las injusticias sociales y la explotación de los trabajadores por las compañías extranjeras.
-  <!-- feedback: ¡Correcto! Es una de las novelas de denuncia social más importantes de Costa Rica. -->
-- [ ] C) Explicar científicamente el proceso de cultivo del banano.
-  <!-- feedback: Incorrecto. La obra es literaria y narrativa, no un tratado técnico. -->
-- [ ] D) Promover la inversión extranjera en la zona norte del país.
-  <!-- feedback: Incorrecto. Al contrario, critica la influencia de los enclaves bananeros. -->
+- [ ] A) Exaltar la belleza exótica del Caribe costarricense. <!-- feedback: Incorrecto. Exaltar la belleza exótica del Caribe co -->
+
+- [x] B) Denunciar las injusticias sociales y la explotación de los trabajadores por las compañías extranjeras. <!-- feedback: Correcto! Denunciar las injusticias sociales y la explotación de los t -->
+
+- [ ] C) Explicar científicamente el proceso de cultivo del banano. <!-- feedback: Incorrecto. Explicar científicamente el proceso de c -->
+
+- [ ] D) Promover la inversión extranjera en la zona norte del país. <!-- feedback: Incorrecto. Promover la inversión extranjera en la z -->
 
 ### Explicacion Pedagogica
 Identificar la intención comunicativa de los grandes autores nacionales es clave para comprender la relación entre la literatura y la identidad social de Costa Rica.
@@ -65,14 +65,13 @@ Identificar la intención comunicativa de los grandes autores nacionales es clav
 ¿Cuál de las siguientes opciones presenta una redacción correcta siguiendo las normas de tildación de palabras esdrújulas?
 
 ### Opciones
-- [ ] A) El joven tico demostro un espiritu muy dinamico.
-  <!-- feedback: Incorrecto. "espiritu" y "dinamico" son esdrújulas y deben tildarse siempre. -->
-- [x] B) Es fundamental realizar un análisis técnico del área de logística.
-  <!-- feedback: ¡Correcto! "análisis" y "técnico" son esdrújulas y llevan tilde según la regla. -->
-- [ ] C) El periodico publico una noticia sobre la economia nacional.
-  <!-- feedback: Incorrecto. "periodico" es esdrújula y debe llevar tilde (periódico). -->
-- [ ] D) Debemos cuidar los oceanos para proteger la biodiversidad.
-  <!-- feedback: Incorrecto. "oceanos" es esdrújula (o-cé-a-nos) y debe tildarse (océanos). -->
+- [ ] A) El joven tico demostro un espiritu muy dinamico. <!-- feedback: Incorrecto. El joven tico demostro un espiritu muy d -->
+
+- [x] B) Es fundamental realizar un análisis técnico del área de logística. <!-- feedback: Correcto! Es fundamental realizar un análisis técnico del área de logí -->
+
+- [ ] C) El periodico publico una noticia sobre la economia nacional. <!-- feedback: Incorrecto. El periodico publico una noticia sobre l -->
+
+- [ ] D) Debemos cuidar los oceanos para proteger la biodiversidad. <!-- feedback: Incorrecto. Debemos cuidar los oceanos para proteger -->
 
 ### Explicacion Pedagogica
 La regla de las palabras esdrújulas es absoluta: todas se tildan. Dominar la ortografía es una competencia básica para el éxito académico en el bachillerato costarricense.
@@ -90,14 +89,13 @@ La regla de las palabras esdrújulas es absoluta: todas se tildan. Dominar la or
 Eunice Odio es reconocida como una de las voces más singulares de la poesía costarricense. ¿A qué movimiento estético se vincula gran parte de su obra debido a su lenguaje onírico y metafísico?
 
 ### Opciones
-- [ ] A) Realismo regionalista
-  <!-- feedback: Incorrecto. Su obra trasciende la descripción de costumbres locales. -->
-- [ ] B) Neoclasicismo
-  <!-- feedback: Incorrecto. El neoclasicismo es racionalista; Eunice es profundamente imaginativa. -->
-- [x] C) Vanguardismo / Surrealismo
-  <!-- feedback: ¡Correcto! Su poesía es innovadora, compleja y cargada de una estética vanguardista. -->
-- [ ] D) Romanticismo tradicional
-  <!-- feedback: Incorrecto. Su voz rompe con el sentimentalismo romántico del siglo XIX. -->
+- [ ] A) Realismo regionalista <!-- feedback: Incorrecto. Realismo regionalista -->
+
+- [ ] B) Neoclasicismo <!-- feedback: Incorrecto. Neoclasicismo -->
+
+- [x] C) Vanguardismo / Surrealismo <!-- feedback: Correcto! Vanguardismo / Surrealismo -->
+
+- [ ] D) Romanticismo tradicional <!-- feedback: Incorrecto. Romanticismo tradicional -->
 
 ### Explicacion Pedagogica
 Eunice Odio representa la vanguardia poética de Costa Rica, explorando mundos interiores y simbólicos con una maestría técnica excepcional.
@@ -115,14 +113,13 @@ Eunice Odio representa la vanguardia poética de Costa Rica, explorando mundos i
 En la frase: "Costa Rica es líder en energías limpias; ______, el sector transporte sigue dependiendo del petróleo", ¿qué conector es el más adecuado para mostrar contraste?
 
 ### Opciones
-- [ ] A) además
-  <!-- feedback: Incorrecto. "Además" añade información similar, no contrastante. -->
-- [x] B) no obstante
-  <!-- feedback: ¡Correcto! Es un conector adversativo que introduce una idea que se opone a la anterior. -->
-- [ ] C) porque
-  <!-- feedback: Incorrecto. Indica causa, no oposición. -->
-- [ ] D) por consiguiente
-  <!-- feedback: Incorrecto. Indica consecuencia, no contraste. -->
+- [ ] A) además <!-- feedback: Incorrecto. además -->
+
+- [x] B) no obstante <!-- feedback: Correcto! no obstante -->
+
+- [ ] C) porque <!-- feedback: Incorrecto. porque -->
+
+- [ ] D) por consiguiente <!-- feedback: Incorrecto. por consiguiente -->
 
 ### Explicacion Pedagogica
 El uso de conectores lógicos garantiza la cohesión textual, permitiendo al lector seguir el hilo argumentativo de manera fluida y lógica.
@@ -140,14 +137,13 @@ El uso de conectores lógicos garantiza la cohesión textual, permitiendo al lec
 ¿Cuál de las siguientes oraciones utiliza correctamente la combinación de letras 'sc' según la ortografía del español?
 
 ### Opciones
-- [ ] A) El agua de la pícina está muy limpia.
-  <!-- feedback: Incorrecto. Se escribe "piscina". -->
-- [x] B) Los científicos analizaron la efervescencia de la muestra.
-  <!-- feedback: ¡Correcto! Ambas palabras están correctamente escritas con 'sc'. -->
-- [ ] C) Es necesario dicipar las dudas sobre el proyecto.
-  <!-- feedback: Incorrecto. Se escribe "disipar" (solo con 's'). -->
-- [ ] D) La facinación por la tecnología crece en los jóvenes.
-  <!-- feedback: Incorrecto. Se escribe "fascinación" (con 'sc'). -->
+- [ ] A) El agua de la pícina está muy limpia. <!-- feedback: Incorrecto. El agua de la pícina está muy limpia. -->
+
+- [x] B) Los científicos analizaron la efervescencia de la muestra. <!-- feedback: Correcto! Los científicos analizaron la efervescencia de la muestra. -->
+
+- [ ] C) Es necesario dicipar las dudas sobre el proyecto. <!-- feedback: Incorrecto. Es necesario dicipar las dudas sobre el  -->
+
+- [ ] D) La facinación por la tecnología crece en los jóvenes. <!-- feedback: Incorrecto. La facinación por la tecnología crece en -->
 
 ### Explicacion Pedagogica
 La ortografía de palabras con 'sc' suele presentar dificultades. Es importante memorizar términos comunes y aplicar las reglas de derivación.
@@ -165,14 +161,13 @@ La ortografía de palabras con 'sc' suele presentar dificultades. Es importante 
 En esta novela, la autora mezcla la ficción con la denuncia ambiental real en Costa Rica. ¿Qué recurso literario predomina cuando el entorno natural es descrito con sentimientos de dolor y pérdida?
 
 ### Opciones
-- [ ] A) Ironía
-  <!-- feedback: Incorrecto. La ironía busca decir lo contrario de lo que se piensa con burla. -->
-- [x] B) Personificación / Patetismo
-  <!-- feedback: ¡Correcto! Se dota a la naturaleza de una voz y una capacidad de sufrimiento ante la destrucción. -->
-- [ ] C) Pleonasmo
-  <!-- feedback: Incorrecto. El pleonasmo es el uso de palabras redundantes (ej. "subir arriba"). -->
-- [ ] D) Hipérbaton
-  <!-- feedback: Incorrecto. El hipérbaton es el cambio del orden lógico de la oración. -->
+- [ ] A) Ironía <!-- feedback: Incorrecto. Ironía -->
+
+- [x] B) Personificación / Patetismo <!-- feedback: Correcto! Personificación / Patetismo -->
+
+- [ ] C) Pleonasmo <!-- feedback: Incorrecto. Pleonasmo -->
+
+- [ ] D) Hipérbaton <!-- feedback: Incorrecto. Hipérbaton -->
 
 ### Explicacion Pedagogica
 La literatura contemporánea costarricense utiliza la personificación para sensibilizar al lector sobre temas urgentes como la conservación ecológica.
@@ -190,14 +185,13 @@ La literatura contemporánea costarricense utiliza la personificación para sens
 ¿Cuál de las siguientes expresiones muestra un rasgo dialectal del español de Costa Rica relacionado con el trato de confianza?
 
 ### Opciones
-- [ ] A) ¿Cómo está usted, señor?
-  <!-- feedback: Incorrecto. Es un trato formal de cortesía. -->
-- [x] B) ¿Qué me dice, pura vida?
-  <!-- feedback: ¡Correcto! El uso de "pura vida" es el distintivo cultural e idiomático más famoso de Costa Rica. -->
-- [ ] C) ¿En qué le puedo ayudar?
-  <!-- feedback: Incorrecto. Frase estándar de servicio, no necesariamente dialectal. -->
-- [ ] D) Ojalá que llueva café en el campo.
-  <!-- feedback: Incorrecto. Es una frase poética o musical, no exclusiva del habla cotidiana tica. -->
+- [ ] A) ¿Cómo está usted, señor? <!-- feedback: Incorrecto. ¿Cómo está usted, señor? -->
+
+- [x] B) ¿Qué me dice, pura vida? <!-- feedback: Correcto! ¿Qué me dice, pura vida? -->
+
+- [ ] C) ¿En qué le puedo ayudar? <!-- feedback: Incorrecto. ¿En qué le puedo ayudar? -->
+
+- [ ] D) Ojalá que llueva café en el campo. <!-- feedback: Incorrecto. Ojalá que llueva café en el campo. -->
 
 ### Explicacion Pedagogica
 El español de Costa Rica posee modismos y expresiones que refuerzan la identidad nacional y el sentimiento de pertenencia a la comunidad.
@@ -215,14 +209,13 @@ El español de Costa Rica posee modismos y expresiones que refuerzan la identida
 ¿Qué opción presenta el registro lingüístico más adecuado para dirigirse a una autoridad académica?
 
 ### Opciones
-- [ ] A) Hola profe, no pude ir porque me sentía mal, ahí le mando el papel.
-  <!-- feedback: Incorrecto. Registro demasiado informal para una comunicación oficial. -->
-- [x] B) Estimada Dirección: Por este medio adjunto el comprobante médico que justifica mi ausencia del día de ayer.
-  <!-- feedback: ¡Correcto! Usa un tono formal, léxico preciso y estructura de comunicación oficial. -->
-- [ ] C) Diay profe, viera que me enfermé y no pude llegar a clases.
-  <!-- feedback: Incorrecto. Uso de interjecciones coloquiales ("diay", "viera que") inapropiadas para el contexto. -->
-- [ ] D) Señores: Les aviso que falté pero ya estoy bien para mañana.
-  <!-- feedback: Incorrecto. Aunque es directo, carece del formalismo y la precisión necesarios en una justificación. -->
+- [ ] A) Hola profe, no pude ir porque me sentía mal, ahí le mando el papel. <!-- feedback: Incorrecto. Hola profe, no pude ir porque me sentía  -->
+
+- [x] B) Estimada Dirección: Por este medio adjunto el comprobante médico que justifica mi ausencia del día de ayer. <!-- feedback: Correcto! Estimada Dirección: Por este medio adjunto el comprobante mé -->
+
+- [ ] C) Diay profe, viera que me enfermé y no pude llegar a clases. <!-- feedback: Incorrecto. Diay profe, viera que me enfermé y no pu -->
+
+- [ ] D) Señores: Les aviso que falté pero ya estoy bien para mañana. <!-- feedback: Incorrecto. Señores: Les aviso que falté pero ya est -->
 
 ### Explicacion Pedagogica
 Saber adaptar el lenguaje según el receptor y el propósito de la comunicación es una de las habilidades más importantes de la competencia comunicativa.
@@ -240,14 +233,13 @@ Saber adaptar el lenguaje según el receptor y el propósito de la comunicación
 El autor afirma: "La Caja no es solo un conjunto de hospitales, es el seguro de paz social de los ticos". ¿Qué tipo de argumento está utilizando para persuadir al lector?
 
 ### Opciones
-- [ ] A) Argumento de cifras y datos.
-  <!-- feedback: Incorrecto. No presenta estadísticas económicas ni de salud. -->
-- [x] B) Argumento de valores o emocional.
-  <!-- feedback: ¡Correcto! Apela a un concepto superior (paz social) y al sentimiento de identidad para valorar la institución. -->
-- [ ] C) Argumento de autoridad científica.
-  <!-- feedback: Incorrecto. No cita estudios médicos. -->
-- [ ] D) Argumento de causa-efecto lineal.
-  <!-- feedback: Incorrecto. No describe un proceso mecánico de causa y consecuencia. -->
+- [ ] A) Argumento de cifras y datos. <!-- feedback: Incorrecto. Argumento de cifras y datos. -->
+
+- [x] B) Argumento de valores o emocional. <!-- feedback: Correcto! Argumento de valores o emocional. -->
+
+- [ ] C) Argumento de autoridad científica. <!-- feedback: Incorrecto. Argumento de autoridad científica. -->
+
+- [ ] D) Argumento de causa-efecto lineal. <!-- feedback: Incorrecto. Argumento de causa-efecto lineal. -->
 
 ### Explicacion Pedagogica
 Los argumentos basados en valores son muy efectivos en el ensayo costarricense para movilizar la opinión pública hacia la protección de logros históricos.
@@ -265,14 +257,13 @@ Los argumentos basados en valores son muy efectivos en el ensayo costarricense p
 ¿Cuál es la característica principal que define al género dramático frente a la narrativa y la lírica?
 
 ### Opciones
-- [ ] A) El uso constante de la rima y el ritmo.
-  <!-- feedback: Incorrecto. Esa es la característica de la lírica. -->
-- [ ] B) La presencia de un narrador omnisciente.
-  <!-- feedback: Incorrecto. El narrador es propio de la épica o narrativa. -->
-- [x] C) La representación de la historia a través del diálogo y la acción de los personajes, sin mediación de un narrador.
-  <!-- feedback: ¡Correcto! El drama está diseñado para ser representado en un escenario. -->
-- [ ] D) La descripción detallada de paisajes y costumbres.
-  <!-- feedback: Incorrecto. Es una característica que puede estar en cualquier género, pero define más al realismo narrativo. -->
+- [ ] A) El uso constante de la rima y el ritmo. <!-- feedback: Incorrecto. El uso constante de la rima y el ritmo. -->
+
+- [ ] B) La presencia de un narrador omnisciente. <!-- feedback: Incorrecto. La presencia de un narrador omnisciente. -->
+
+- [x] C) La representación de la historia a través del diálogo y la acción de los personajes, sin mediación de un narrador. <!-- feedback: Correcto! La representación de la historia a través del diálogo y la a -->
+
+- [ ] D) La descripción detallada de paisajes y costumbres. <!-- feedback: Incorrecto. La descripción detallada de paisajes y c -->
 
 ### Explicacion Pedagogica
 Comprender la estructura de los géneros literarios permite al estudiante analizar cómo se construye la ficción y cómo se transmite el mensaje en diferentes formatos.
@@ -290,14 +281,13 @@ Comprender la estructura de los géneros literarios permite al estudiante analiz
 Siguiendo las normas básicas de redacción, ¿cuál es el orden correcto de los elementos en una referencia bibliográfica de un libro?
 
 ### Opciones
-- [ ] A) Título, Autor, Editorial, Año.
-  <!-- feedback: Incorrecto. El autor suele ir al inicio para facilitar el orden alfabético. -->
-- [ ] B) Año, Autor, Título, Ciudad.
-  <!-- feedback: Incorrecto. No es el formato estándar más reconocido. -->
-- [x] C) Apellido, Nombre del autor. (Año). Título del libro. Editorial.
-  <!-- feedback: ¡Correcto! Es la estructura base del sistema APA, ampliamente utilizado en Costa Rica. -->
-- [ ] D) Editorial, Año, Autor, Título.
-  <!-- feedback: Incorrecto. Orden poco práctico para la búsqueda bibliográfica. -->
+- [ ] A) Título, Autor, Editorial, Año. <!-- feedback: Incorrecto. Título, Autor, Editorial, Año. -->
+
+- [ ] B) Año, Autor, Título, Ciudad. <!-- feedback: Incorrecto. Año, Autor, Título, Ciudad. -->
+
+- [x] C) Apellido, Nombre del autor. (Año). Título del libro. Editorial. <!-- feedback: Correcto! Apellido, Nombre del autor. (Año). Título del libro. Editori -->
+
+- [ ] D) Editorial, Año, Autor, Título. <!-- feedback: Incorrecto. Editorial, Año, Autor, Título. -->
 
 ### Explicacion Pedagogica
 La sistematización de las fuentes de información es fundamental para la ética investigativa y la claridad en la producción de textos académicos.
@@ -315,14 +305,13 @@ La sistematización de las fuentes de información es fundamental para la ética
 "La nube blanca, velo de la montaña, abraza los pinos con sus brazos fríos." ¿Qué figura literaria destaca en el uso de "brazos fríos" para la nube?
 
 ### Opciones
-- [ ] A) Metonimia
-  <!-- feedback: Incorrecto. No se sustituye un término por otro con el que tiene relación de proximidad. -->
-- [x] B) Prosopopeya / Personificación
-  <!-- feedback: ¡Correcto! Se le otorgan partes del cuerpo (brazos) y acciones humanas (abrazar) a un elemento inanimado. -->
-- [ ] C) Hipérbaton
-  <!-- feedback: Incorrecto. El orden sintáctico es bastante regular. -->
-- [ ] D) Oxímoron
-  <!-- feedback: Incorrecto. No hay una contradicción de términos opuestos en la misma frase (como "hielo abrasador"). -->
+- [ ] A) Metonimia <!-- feedback: Incorrecto. Metonimia -->
+
+- [x] B) Prosopopeya / Personificación <!-- feedback: Correcto! Prosopopeya / Personificación -->
+
+- [ ] C) Hipérbaton <!-- feedback: Incorrecto. Hipérbaton -->
+
+- [ ] D) Oxímoron <!-- feedback: Incorrecto. Oxímoron -->
 
 ### Explicacion Pedagogica
 La personificación es un recurso lírico que permite humanizar el entorno, creando imágenes sensoriales que conectan con la experiencia del lector.
@@ -340,14 +329,13 @@ La personificación es un recurso lírico que permite humanizar el entorno, crea
 ¿Cuál de los siguientes enunciados constituye un argumento de "causa-consecuencia" sólido para un texto persuasivo?
 
 ### Opciones
-- [ ] A) El plástico es un material derivado del petróleo y es muy flexible.
-  <!-- feedback: Incorrecto. Es un dato descriptivo, no un argumento de consecuencia. -->
-- [x] B) Debido a que el plástico tarda siglos en degradarse, su uso indiscriminado está provocando la muerte de miles de tortugas marinas en nuestras costas.
-  <!-- feedback: ¡Correcto! Establece una causa clara (lentitud de degradación) y una consecuencia directa (muerte de fauna). -->
-- [ ] C) A mi abuela no le gusta usar bolsas de tela porque se ensucian mucho.
-  <!-- feedback: Incorrecto. Es una anécdota personal sin validez lógica general. -->
-- [ ] D) Costa Rica debería prohibir el plástico porque somos un país verde.
-  <!-- feedback: Incorrecto. Es una afirmación basada en un eslogan, no describe el mecanismo de causa-efecto. -->
+- [ ] A) El plástico es un material derivado del petróleo y es muy flexible. <!-- feedback: Incorrecto. El plástico es un material derivado del  -->
+
+- [x] B) Debido a que el plástico tarda siglos en degradarse, su uso indiscriminado está provocando la muerte de miles de tortugas marinas en nuestras costas. <!-- feedback: Correcto! Debido a que el plástico tarda siglos en degradarse, su uso  -->
+
+- [ ] C) A mi abuela no le gusta usar bolsas de tela porque se ensucian mucho. <!-- feedback: Incorrecto. A mi abuela no le gusta usar bolsas de t -->
+
+- [ ] D) Costa Rica debería prohibir el plástico porque somos un país verde. <!-- feedback: Incorrecto. Costa Rica debería prohibir el plástico  -->
 
 ### Explicacion Pedagogica
 Un argumento de causa-consecuencia debe demostrar una relación lógica y verificable entre dos hechos para resultar convincente en un ensayo.
@@ -365,14 +353,13 @@ Un argumento de causa-consecuencia debe demostrar una relación lógica y verifi
 Si el texto menciona que "el Teatro Nacional fue financiado mediante un impuesto a la exportación de café, reflejando el auge de la oligarquía cafetalera", ¿cuál es una inferencia válida?
 
 ### Opciones
-- [ ] A) El teatro fue construido por los mismos campesinos que recogían el café.
-  <!-- feedback: Incorrecto. El texto habla del financiamiento, no de la mano de obra física. -->
-- [x] B) En esa época, el sector cafetalero tenía un gran poder político y económico para decidir sobre grandes obras públicas.
-  <!-- feedback: ¡Correcto! El origen del financiamiento implica el poder de ese grupo social. -->
-- [ ] C) A los ticos de entonces no les gustaba el café y por eso le pusieron impuestos.
-  <!-- feedback: Incorrecto. El impuesto era a la exportación, no al consumo interno por desagrado. -->
-- [ ] D) El teatro es hoy en día un beneficio para las empresas de café.
-  <!-- feedback: Incorrecto. El texto habla del pasado histórico de su construcción. -->
+- [ ] A) El teatro fue construido por los mismos campesinos que recogían el café. <!-- feedback: Incorrecto. El teatro fue construido por los mismos  -->
+
+- [x] B) En esa época, el sector cafetalero tenía un gran poder político y económico para decidir sobre grandes obras públicas. <!-- feedback: Correcto! En esa época, el sector cafetalero tenía un gran poder polít -->
+
+- [ ] C) A los ticos de entonces no les gustaba el café y por eso le pusieron impuestos. <!-- feedback: Incorrecto. A los ticos de entonces no les gustaba e -->
+
+- [ ] D) El teatro es hoy en día un beneficio para las empresas de café. <!-- feedback: Incorrecto. El teatro es hoy en día un beneficio par -->
 
 ### Explicacion Pedagogica
 Inferir es leer "entre líneas", conectando los datos explícitos con el contexto histórico y social que sugieren.
@@ -390,14 +377,13 @@ Inferir es leer "entre líneas", conectando los datos explícitos con el context
 ¿En qué oración se utiliza correctamente el punto y coma para separar oraciones relacionadas pero con sentido completo propio?
 
 ### Opciones
-- [ ] A) El volcán; emitió cenizas esta mañana.
-  <!-- feedback: Incorrecto. Separa el sujeto del verbo, lo cual es un error. -->
-- [ ] B) Los turistas llegaron temprano; pero no pudieron ver el cráter.
-  <!-- feedback: Incorrecto. Antes de "pero" suele ir una coma, no punto y coma en frases cortas. -->
-- [x] C) El clima en San Carlos es muy húmedo; por las tardes suelen presentarse fuertes aguaceros.
-  <!-- feedback: ¡Correcto! Son dos ideas completas con una relación de continuidad temática. -->
-- [ ] D) Visitamos: La Fortuna; Zarcero y Naranjo.
-  <!-- feedback: Incorrecto. Uso inadecuado de signos para una lista simple. -->
+- [ ] A) El volcán; emitió cenizas esta mañana. <!-- feedback: Incorrecto. El volcán; emitió cenizas esta mañana. -->
+
+- [ ] B) Los turistas llegaron temprano; pero no pudieron ver el cráter. <!-- feedback: Incorrecto. Los turistas llegaron temprano; pero no  -->
+
+- [x] C) El clima en San Carlos es muy húmedo; por las tardes suelen presentarse fuertes aguaceros. <!-- feedback: Correcto! El clima en San Carlos es muy húmedo; por las tardes suelen  -->
+
+- [ ] D) Visitamos: La Fortuna; Zarcero y Naranjo. <!-- feedback: Incorrecto. Visitamos: La Fortuna; Zarcero y Naranjo -->
 
 ### Explicacion Pedagogica
 El punto y coma es un signo de puntuación avanzado que permite organizar ideas complejas, marcando una pausa mayor que la coma pero menor que el punto seguido.
@@ -415,14 +401,13 @@ El punto y coma es un signo de puntuación avanzado que permite organizar ideas 
 ¿Cuál es el elemento trágico que describe el error o falta del héroe que lo conduce inevitablemente a su destino fatal?
 
 ### Opciones
-- [ ] A) Catarsis
-  <!-- feedback: Incorrecto. Es la purificación de las emociones en el espectador. -->
-- [x] B) Hamartia
-  <!-- feedback: ¡Correcto! Es el "error trágico" o debilidad del protagonista que desencadena la desgracia. -->
-- [ ] C) Anagnórisis
-  <!-- feedback: Incorrecto. Es el momento del reconocimiento o descubrimiento de la verdad. -->
-- [ ] D) Soliloquio
-  <!-- feedback: Incorrecto. Es un discurso que el personaje dice para sí mismo. -->
+- [ ] A) Catarsis <!-- feedback: Incorrecto. Catarsis -->
+
+- [x] B) Hamartia <!-- feedback: Correcto! Hamartia -->
+
+- [ ] C) Anagnórisis <!-- feedback: Incorrecto. Anagnórisis -->
+
+- [ ] D) Soliloquio <!-- feedback: Incorrecto. Soliloquio -->
 
 ### Explicacion Pedagogica
 Conocer los conceptos del drama clásico ayuda al estudiante a analizar la construcción de personajes y tramas en la literatura universal y nacional.
@@ -440,14 +425,13 @@ Conocer los conceptos del drama clásico ayuda al estudiante a analizar la const
 El editorial afirma: "No podemos seguir formando profesionales para un mundo que ya no existe". ¿Qué figura retórica utiliza el autor para criticar la obsolescencia educativa?
 
 ### Opciones
-- [ ] A) Hipérbole
-  <!-- feedback: Incorrecto. No hay una exageración de cantidad, sino una metáfora temporal. -->
-- [x] B) Antítesis / Contraste
-  <!-- feedback: ¡Correcto! Contrapone la formación actual ("profesionales") con una realidad desaparecida ("mundo que ya no existe"). -->
-- [ ] C) Aliteración
-  <!-- feedback: Incorrecto. No se repiten sonidos para crear efectos auditivos. -->
-- [ ] D) Epíteto
-  <!-- feedback: Incorrecto. No se añaden adjetivos innecesarios para resaltar cualidades obvias. -->
+- [ ] A) Hipérbole <!-- feedback: Incorrecto. Hipérbole -->
+
+- [x] B) Antítesis / Contraste <!-- feedback: Correcto! Antítesis / Contraste -->
+
+- [ ] C) Aliteración <!-- feedback: Incorrecto. Aliteración -->
+
+- [ ] D) Epíteto <!-- feedback: Incorrecto. Epíteto -->
 
 ### Explicacion Pedagogica
 La antítesis es un recurso poderoso en la argumentación para resaltar contradicciones y generar un impacto crítico en el lector.
@@ -465,14 +449,13 @@ La antítesis es un recurso poderoso en la argumentación para resaltar contradi
 ¿Cuál es la forma más precisa de sustituir el verbo "tener" en la oración: "El proyecto tiene un gran impacto en la comunidad de Heredia"?
 
 ### Opciones
-- [ ] A) El proyecto hace un gran impacto...
-  <!-- feedback: Incorrecto. "Hacer" sigue siendo un verbo poco preciso. -->
-- [x] B) El proyecto genera / provoca un gran impacto...
-  <!-- feedback: ¡Correcto! "Generar" o "provocar" son verbos precisos que indican la acción de producir un efecto. -->
-- [ ] C) El proyecto está con un gran impacto...
-  <!-- feedback: Incorrecto. Redacción gramaticalmente pobre. -->
-- [ ] D) El proyecto pone un gran impacto...
-  <!-- feedback: Incorrecto. "Poner" no es el verbo adecuado para describir un impacto social. -->
+- [ ] A) El proyecto hace un gran impacto... <!-- feedback: Incorrecto. El proyecto hace un gran impacto... -->
+
+- [x] B) El proyecto genera / provoca un gran impacto... <!-- feedback: Correcto! El proyecto genera / provoca un gran impacto... -->
+
+- [ ] C) El proyecto está con un gran impacto... <!-- feedback: Incorrecto. El proyecto está con un gran impacto... -->
+
+- [ ] D) El proyecto pone un gran impacto... <!-- feedback: Incorrecto. El proyecto pone un gran impacto... -->
 
 ### Explicacion Pedagogica
 La precisión léxica enriquece el texto y demuestra un dominio superior del idioma, fundamental para la redacción de ensayos en el último año de colegio.
@@ -490,14 +473,13 @@ La precisión léxica enriquece el texto y demuestra un dominio superior del idi
 ¿Cuál es la diferencia fundamental en la visión del mundo entre el Modernismo (preocupado por la belleza y lo exótico) y los autores de "El Repertorio Americano" (como Joaquín García Monge)?
 
 ### Opciones
-- [ ] A) No hay diferencia, ambos solo querían escribir poemas de amor.
-  <!-- feedback: Incorrecto. Ignora el profundo cambio temático entre movimientos. -->
-- [x] B) El Modernismo buscaba la evasión estética; el Repertorio Americano buscaba el compromiso social, la identidad latinoamericana y la crítica política.
-  <!-- feedback: ¡Correcto! Se pasa del "arte por el arte" al arte como herramienta de transformación social. -->
-- [ ] C) Los modernistas escribían en verso y los del repertorio solo en prosa.
-  <!-- feedback: Incorrecto. Ambos movimientos utilizaron diversos formatos literarios. -->
-- [ ] D) El Modernismo nació en Costa Rica y el Repertorio Americano en Francia.
-  <!-- feedback: Incorrecto. El Modernismo es un movimiento continental; el Repertorio es una revista fundamental fundada en Costa Rica. -->
+- [ ] A) No hay diferencia, ambos solo querían escribir poemas de amor. <!-- feedback: Incorrecto. No hay diferencia, ambos solo querían es -->
+
+- [x] B) El Modernismo buscaba la evasión estética; el Repertorio Americano buscaba el compromiso social, la identidad latinoamericana y la crítica política. <!-- feedback: Correcto! El Modernismo buscaba la evasión estética; el Repertorio Ame -->
+
+- [ ] C) Los modernistas escribían en verso y los del repertorio solo en prosa. <!-- feedback: Incorrecto. Los modernistas escribían en verso y los -->
+
+- [ ] D) El Modernismo nació en Costa Rica y el Repertorio Americano en Francia. <!-- feedback: Incorrecto. El Modernismo nació en Costa Rica y el R -->
 
 ### Explicacion Pedagogica
 Entender las corrientes literarias ayuda a ver cómo los escritores costarricenses han dialogado con las ideas de su tiempo y han buscado una voz propia.
@@ -515,14 +497,13 @@ Entender las corrientes literarias ayuda a ver cómo los escritores costarricens
 "Leer no es solo descodificar signos, es entablar una conversación silenciosa con el autor donde el lector pone a prueba sus propios prejuicios." ¿Qué implica esta afirmación sobre el papel del lector?
 
 ### Opciones
-- [ ] A) Que el lector es un receptor pasivo de información.
-  <!-- feedback: Incorrecto. La frase sugiere un papel activo de "conversación" y "puesta a prueba". -->
-- [x] B) Que el lector debe ser un agente crítico y reflexivo que cuestiona lo que lee y su propia forma de pensar.
-  <!-- feedback: ¡Correcto! La lectura se ve como un proceso dialéctico y de autoconocimiento. -->
-- [ ] C) Que para leer bien no se debe hablar en voz alta.
-  <!-- feedback: Incorrecto. Interpretación literal y errónea de "conversación silenciosa". -->
-- [ ] D) Que el autor siempre tiene la razón y el lector debe aprenderla.
-  <!-- feedback: Incorrecto. La frase habla de poner a prueba prejuicios, lo que implica una interacción simétrica. -->
+- [ ] A) Que el lector es un receptor pasivo de información. <!-- feedback: Incorrecto. Que el lector es un receptor pasivo de i -->
+
+- [x] B) Que el lector debe ser un agente crítico y reflexivo que cuestiona lo que lee y su propia forma de pensar. <!-- feedback: Correcto! Que el lector debe ser un agente crítico y reflexivo que cue -->
+
+- [ ] C) Que para leer bien no se debe hablar en voz alta. <!-- feedback: Incorrecto. Que para leer bien no se debe hablar en  -->
+
+- [ ] D) Que el autor siempre tiene la razón y el lector debe aprenderla. <!-- feedback: Incorrecto. Que el autor siempre tiene la razón y el -->
 
 ### Explicacion Pedagogica
 Esta pregunta evalúa la capacidad de abstracción y comprensión de conceptos complejos sobre el proceso comunicativo, nivel óptimo para un egresado de bachillerato.

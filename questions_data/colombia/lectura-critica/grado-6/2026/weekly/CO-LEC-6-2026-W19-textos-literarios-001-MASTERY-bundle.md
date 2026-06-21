@@ -1,28 +1,32 @@
 ---
-id: "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY"
+id: "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "textos-literarios"
-semana: "W19"
+week: "W19"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Literarios - Grado 6
 ## Semana W19
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio Gabriel García Márquez de Cartagena, la profesora inicia la unidad de literatura.
+**Contexto:** En el Colegio Gabriel García Márquez de Cartagena, la profesora inicia la unidad de literatura.
 **Expected_Success:** 0.87
 
 ### Enunciado
@@ -39,11 +43,11 @@ Los textos literarios (cuentos, novelas, poemas, obras de teatro) se caracteriza
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En la Biblioteca Municipal de Tunja, los estudiantes clasifican libros por género literario.
+**Contexto:** En la Biblioteca Municipal de Tunja, los estudiantes clasifican libros por género literario.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -60,11 +64,11 @@ Desde la antigüedad clásica (Aristóteles), la literatura se divide en tres gr
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** Los estudiantes del Colegio San Luis de Bucaramanga leen un fragmento de "El coronel no tiene quien le escriba" de Gabriel García Márquez.
+**Contexto:** Los estudiantes del Colegio San Luis de Bucaramanga leen un fragmento de "El coronel no tiene quien le escriba" de Gabriel García Márquez.
 **Expected_Success:** 0.79
 
 ### Enunciado
@@ -81,11 +85,11 @@ El género narrativo se reconoce por: 1) presencia de un narrador (quien cuenta)
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio El Rosario de Bogotá, los estudiantes leen un poema de José Asunción Silva.
+**Contexto:** En el Colegio El Rosario de Bogotá, los estudiantes leen un poema de José Asunción Silva.
 **Expected_Success:** 0.77
 
 ### Enunciado
@@ -102,11 +106,11 @@ El género lírico se caracteriza por: 1) expresión de sentimientos, emociones 
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En la I.E. Pedro Justo Berrío de Medellín, los estudiantes deben crear un texto dramático corto.
+**Contexto:** En la I.E. Pedro Justo Berrío de Medellín, los estudiantes deben crear un texto dramático corto.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -133,11 +137,11 @@ El texto dramático (obra de teatro) se caracteriza por: 1) diálogos (los perso
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Champagnat de Bogotá, los estudiantes analizan el lenguaje figurado en la literatura.
+**Contexto:** En el Colegio Champagnat de Bogotá, los estudiantes analizan el lenguaje figurado en la literatura.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -154,11 +158,11 @@ La metáfora es una figura literaria que identifica dos términos (real e imagin
 
 ---
 
-## Pregunta 7 [D7]
+## Question 7 [D7]
 **ID:** `CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En la I.E. Julio Flórez de Chiquinquirá, el profesor explica por qué la literatura usa un lenguaje diferente al de otros textos.
+**Contexto:** En la I.E. Julio Flórez de Chiquinquirá, el profesor explica por qué la literatura usa un lenguaje diferente al de otros textos.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -175,11 +179,11 @@ El lenguaje connotativo es la marca distintiva de la literatura. Mientras el len
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio de la Universidad Javeriana de Cali, los estudiantes discuten sobre la literatura infantil colombiana.
+**Contexto:** En el Colegio de la Universidad Javeriana de Cali, los estudiantes discuten sobre la literatura infantil colombiana.
 **Expected_Success:** 0.57
 
 ### Enunciado
@@ -196,11 +200,11 @@ La frontera entre géneros puede ser difusa. Una obra puede estar escrita en ver
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En la Institución Educativa Técnica de Sopó, los estudiantes comparan un mito colombiano y un artículo científico sobre el mismo fenómeno.
+**Contexto:** En la Institución Educativa Técnica de Sopó, los estudiantes comparan un mito colombiano y un artículo científico sobre el mismo fenómeno.
 **Expected_Success:** 0.51
 
 ### Enunciado
@@ -217,11 +221,11 @@ La literatura y la ciencia son formas distintas de conocer el mundo. La ciencia 
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio Distrital El Porvenir de Bogotá, los estudiantes crean un texto literario a partir de una imagen de la Sabana de Bogotá.
+**Contexto:** En el Colegio Distrital El Porvenir de Bogotá, los estudiantes crean un texto literario a partir de una imagen de la Sabana de Bogotá.
 **Expected_Success:** 0.44
 
 ### Enunciado

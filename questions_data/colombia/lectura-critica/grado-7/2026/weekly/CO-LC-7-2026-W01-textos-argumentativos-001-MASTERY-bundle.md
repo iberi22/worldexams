@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY"
+id: "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "textos-argumentativos"
-semana: "W01"
+week: "W01"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Argumentativos - Grado 7
 ## Semana W01 — Estructura y elementos de la argumentación
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el colegio La Salle de Medellín, la profesora de Lectura Crítica explica las características de los textos argumentativos.
+**Contexto:** En el colegio La Salle de Medellín, la profesora de Lectura Crítica explica las características de los textos argumentativos.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ El texto argumentativo tiene como finalidad persuadir o convencer al destinatari
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Santiago lee un artículo en el periódico El Tiempo de Bogotá que dice: "La jornada escolar única debe implementarse en Colombia porque mejora el rendimiento académico de los estudiantes, reduce la deserción escolar y permite una mejor formación integral."
+**Contexto:** Santiago lee un artículo en el periódico El Tiempo de Bogotá que dice: "La jornada escolar única debe implementarse en Colombia porque mejora el rendimiento académico de los estudiantes, reduce la deserción escolar y permite una mejor formación integral."
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ La tesis es la idea principal que se defiende en un texto argumentativo. En este
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase de Lectura Crítica del Colegio San José de Barranquilla, la profesora dibuja en el tablero la estructura de un texto argumentativo.
+**Contexto:** En clase de Lectura Crítica del Colegio San José de Barranquilla, la profesora dibuja en el tablero la estructura de un texto argumentativo.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -81,11 +85,11 @@ Todo texto argumentativo bien estructurado contiene: 1) Tesis: la idea o postura
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Laura escribe una carta al director del colegio en Cali argumentando por qué deberían tener más horas de educación física.
+**Contexto:** Laura escribe una carta al director del colegio en Cali argumentando por qué deberían tener más horas de educación física.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -102,11 +106,11 @@ Los argumentos son las razones que se ofrecen para sostener la tesis. En este ca
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Andrés lee un texto que dice: "El reciclaje debería ser obligatorio en todos los colegios de Colombia. En Bogotá, los colegios que implementaron reciclaje redujeron sus desechos en un 40%. Además, los estudiantes aprenden responsabilidad ambiental."
+**Contexto:** Andrés lee un texto que dice: "El reciclaje debería ser obligatorio en todos los colegios de Colombia. En Bogotá, los colegios que implementaron reciclaje redujeron sus desechos en un 40%. Además, los estudiantes aprenden responsabilidad ambiental."
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -123,11 +127,11 @@ Este texto combina un argumento fáctico (dato estadístico: 40% de reducción) 
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el colegio de Bucaramanga, Sebastián debe identificar la tesis en un texto sobre el uso de celulares en clase.
+**Contexto:** En el colegio de Bucaramanga, Sebastián debe identificar la tesis en un texto sobre el uso de celulares en clase.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -144,11 +148,11 @@ La tesis suele aparecer después de la contextualización. Aquí, el autor prime
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Valentina lee en clase un texto argumentativo sobre el servicio militar obligatorio en Colombia y nota que el autor solo presenta argumentos a favor.
+**Contexto:** Valentina lee en clase un texto argumentativo sobre el servicio militar obligatorio en Colombia y nota que el autor solo presenta argumentos a favor.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Un texto argumentativo sólido suele considerar y refutar posibles objeciones o 
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En el colegio de Pereira, el profesor presenta un texto: "El 80% de los estudiantes colombianos prefieren la jornada única, según una encuesta del MEN. Por lo tanto, el gobierno debería implementarla en todas las instituciones."
+**Contexto:** En el colegio de Pereira, el profesor presenta un texto: "El 80% de los estudiantes colombianos prefieren la jornada única, según una encuesta del MEN. Por lo tanto, el gobierno debería implementarla en todas las instituciones."
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ El argumento estadístico utiliza datos cuantitativos para respaldar una afirmac
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Camila lee un editorial de El Colombiano de Medellín sobre el trabajo infantil. El autor afirma: "Si permitimos que los niños trabajen, entonces estamos aceptando que la educación no es importante."
+**Contexto:** Camila lee un editorial de El Colombiano de Medellín sobre el trabajo infantil. El autor afirma: "Si permitimos que los niños trabajen, entonces estamos aceptando que la educación no es importante."
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ Este argumento comete la falacia de falsa equivalencia o pendiente resbaladiza. 
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Isabella debe escribir un texto argumentativo para su clase en el colegio de Ibagué. Su tesis es: "Las redes sociales deben incluirse en el currículo escolar colombiano."
+**Contexto:** Isabella debe escribir un texto argumentativo para su clase en el colegio de Ibagué. Su tesis es: "Las redes sociales deben incluirse en el currículo escolar colombiano."
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -228,11 +232,11 @@ Un argumento sólido se basa en evidencia verificable. La opción C presenta un 
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Daniel analiza dos textos sobre el mismo tema. El primero dice: "Las bolsas plásticas deberían prohibirse porque contaminan los océanos." El segundo dice: "Las bolsas plásticas no deberían prohibirse porque muchas familias las reutilizan para la basura."
+**Contexto:** Daniel analiza dos textos sobre el mismo tema. El primero dice: "Las bolsas plásticas deberían prohibirse porque contaminan los océanos." El segundo dice: "Las bolsas plásticas no deberían prohibirse porque muchas familias las reutilizan para la basura."
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -249,11 +253,11 @@ El análisis crítico implica reconocer que ambos textos presentan argumentos v�
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el colegio de Santa Marta, la profesora presenta un texto donde el autor afirma: "El doctor Rodríguez, premio Nobel de Medicina, dijo que la vacunación es segura. Por lo tanto, todos debemos vacunarnos."
+**Contexto:** En el colegio de Santa Marta, la profesora presenta un texto donde el autor afirma: "El doctor Rodríguez, premio Nobel de Medicina, dijo que la vacunación es segura. Por lo tanto, todos debemos vacunarnos."
 **Expected_Success:** 0.42
 
 ### Enunciado

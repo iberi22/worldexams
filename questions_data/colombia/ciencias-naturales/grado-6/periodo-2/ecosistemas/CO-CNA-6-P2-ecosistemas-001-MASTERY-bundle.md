@@ -1,5 +1,5 @@
 ---
-id: "CO-CNA-6-P2-ecosistemas-001-MASTERY"
+id: "CO-CNA-6-P2-ecosistemas-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "ecologia, ecosistemas, factores_bioticos_abioticos, cadenas_troficas"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Ecosistemas y Relaciones Bióticas
 
@@ -33,7 +40,7 @@ Este bundle evalúa la comprensión de los componentes de un ecosistema, la dist
 ### Enunciado
 ¿Qué es un **ecosistema**?
 
-### Options
+### Opciones
 - [ ] A) Un grupo de animales de la misma especie que viven juntos. <!-- feedback: Incorrecto. Esto es una población. -->
 - [ ] B) El clima de un lugar específico. <!-- feedback: Incorrecto. El clima es solo un factor del ecosistema. -->
 - [x] C) El conjunto formado por los seres vivos, el medio físico y las relaciones entre ellos. <!-- feedback: Correcto. Incluye tanto lo vivo como lo no vivo en interacción constante. -->
@@ -53,7 +60,7 @@ La ecología estudia el ecosistema como la unidad funcional donde la vida intera
 ### Enunciado
 ¿Cuál de los siguientes es un **factor abiótico** de un ecosistema?
 
-### Options
+### Opciones
 - [ ] A) Las bacterias. <!-- feedback: Incorrecto. Las bacterias son seres vivos (bióticos). -->
 - [ ] B) Los árboles de guayacán. <!-- feedback: Incorrecto. Las plantas son seres vivos (bióticos). -->
 - [x] C) La luz solar. <!-- feedback: Correcto. Los factores abióticos son los elementos no vivos (luz, agua, suelo, aire). -->
@@ -73,7 +80,7 @@ Los factores abióticos determinan las condiciones físicas y químicas que perm
 ### Enunciado
 ¿Cómo se les llama a los organismos que fabrican su propio alimento mediante la fotosíntesis?
 
-### Options
+### Opciones
 - [ ] A) Consumidores. <!-- feedback: Incorrecto. Estos deben comer a otros seres vivos. -->
 - [x] B) Productores. <!-- feedback: Correcto. Son la base de la cadena alimentaria (plantas, algas). -->
 - [ ] C) Descomponedores. <!-- feedback: Incorrecto. Estos se alimentan de materia orgánica muerta. -->
@@ -96,7 +103,7 @@ Un hongo crece sobre un tronco caído, descomponiendo la madera.
 ### Enunciado
 ¿Qué función cumple el hongo en este ecosistema?
 
-### Options
+### Opciones
 - [ ] A) Productor. <!-- feedback: Incorrecto. Los hongos no hacen fotosíntesis. -->
 - [ ] B) Consumidor primario. <!-- feedback: Incorrecto. No come plantas vivas. -->
 - [x] C) Descomponedor. <!-- feedback: Correcto. Recicla los nutrientes de la materia muerta para devolverlos al suelo. -->
@@ -119,7 +126,7 @@ En una cadena alimentaria tenemos: **Pasto -> Grillo -> Rana -> Serpiente**.
 ### Enunciado
 ¿Quién es el **consumidor secundario** en esta cadena?
 
-### Options
+### Opciones
 - [ ] A) El grillo. <!-- feedback: Incorrecto. El grillo es el consumidor primario (come pasto). -->
 - [x] B) La rana. <!-- feedback: Correcto. La rana se come al grillo (consumidor primario), por lo tanto es secundario. -->
 - [ ] C) La serpiente. <!-- feedback: Incorrecto. La serpiente es el consumidor terciario. -->
@@ -142,7 +149,7 @@ Un páramo en Colombia es un ecosistema de alta montaña con bajas temperaturas 
 ### Enunciado
 ¿Qué pasaría con las plantas del páramo (como el frailejón) si la temperatura global aumenta demasiado?
 
-### Options
+### Opciones
 - [ ] A) Crecerían más rápido y serían más grandes. <!-- feedback: Incorrecto. Están adaptadas al frío, el calor extremo las dañaría. -->
 - [x] B) Podrían morir o tener dificultades para sobrevivir al alterarse su clima ideal. <!-- feedback: Correcto. Las especies de páramo son muy sensibles a los cambios de temperatura. -->
 - [ ] C) Se convertirían en cactus automáticamente. <!-- feedback: Incorrecto. La adaptación biológica no ocurre de forma instantánea. -->
@@ -165,7 +172,7 @@ Dos aves de la misma especie pelean por el mejor lugar para construir su nido en
 ### Enunciado
 ¿Qué tipo de relación biótica se está presentando?
 
-### Options
+### Opciones
 - [ ] A) Mutualismo. <!-- feedback: Incorrecto. En el mutualismo ambas se beneficiarían sin pelear. -->
 - [x] B) Competencia intraespecífica. <!-- feedback: Correcto. "Intra" significa dentro de la misma especie; compiten por un recurso limitado (el espacio). -->
 - [ ] C) Depredación. <!-- feedback: Incorrecto. No se están comiendo una a la otra. -->
@@ -188,7 +195,7 @@ Las abejas obtienen néctar de las flores y, a cambio, ayudan a la planta transp
 ### Enunciado
 ¿Cómo se clasifica esta relación biótica donde **ambas especies se benefician**?
 
-### Options
+### Opciones
 - [ ] A) Parasitismo. <!-- feedback: Incorrecto. En el parasitismo una especie se beneficia y la otra se perjudica. -->
 - [x] B) Mutualismo. <!-- feedback: Correcto. Es una relación de ayuda mutua indispensable para muchas especies. -->
 - [ ] C) Competencia. <!-- feedback: Incorrecto. No están peleando por recursos, están colaborando. -->
@@ -211,7 +218,7 @@ En un lago se introducen peces de una especie extraña que se comen a todos los 
 ### Enunciado
 ¿Cuál es el efecto más probable en la cadena alimentaria del lago?
 
-### Options
+### Opciones
 - [ ] A) Los niveles superiores (aves que comen peces) tendrán más comida. <!-- feedback: Incorrecto. Al acabarse los nativos, las aves eventualmente se quedarán sin alimento. -->
 - [x] B) Se produce un desequilibrio que puede llevar a la extinción de especies locales. <!-- feedback: Correcto. Las especies invasoras alteran las redes tróficas naturales. -->
 - [ ] C) El agua se volverá más limpia. <!-- feedback: Incorrecto. No hay relación directa con la limpieza del agua. -->
@@ -231,7 +238,7 @@ La introducción de especies exóticas es una de las principales causas de pérd
 ### Enunciado
 ¿Por qué se dice que el flujo de energía en un ecosistema es **unidireccional** (en un solo sentido)?
 
-### Options
+### Opciones
 - [ ] A) Porque la energía vuelve siempre al Sol. <!-- feedback: Incorrecto. La energía del sol se usa, pero no regresa a él. -->
 - [x] B) Porque la energía se pierde en forma de calor en cada nivel trófico y no puede ser reutilizada por los niveles anteriores. <!-- feedback: Correcto. Los productores captan la energía y esta fluye hacia los consumidores, disipándose. -->
 - [ ] C) Porque los animales corren en una sola dirección. <!-- feedback: Incorrecto. Es una interpretación literal y absurda del término "unidireccional". -->

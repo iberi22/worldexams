@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-4-2026-W01-celula-001-MASTERY"
+id: "CO-CIE-4-2026-W01-celula-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "ciencias-naturales"
 tema: "celula"
-semana: "W01"
+week: "W01"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
@@ -18,7 +18,13 @@ calibration:
   expected_success_rate: 0.75
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
+bundle_type: "weekly"
+total_questions: 10
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: La Célula
 
@@ -26,12 +32,12 @@ Este bundle de 10 preguntas evalúa la célula para grado 4, alineado con los es
 
 ---
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-4-2026-W01-celula-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el laboratorio del Colegio San José de Montería, los estudiantes observan una gota de agua estancada.
+**Contexto:** En el laboratorio del Colegio San José de Montería, los estudiantes observan una gota de agua estancada.
 **Expected_Success:** 0.9
 
 ### Enunciado
@@ -48,12 +54,12 @@ La célula es la unidad más pequeña de un ser vivo que tiene vida propia y rea
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-4-2026-W01-celula-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Mateo está comparando un dibujo de una célula de cebolla y una de su propia mejilla.
+**Contexto:** Mateo está comparando un dibujo de una célula de cebolla y una de su propia mejilla.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -70,12 +76,12 @@ Las células vegetales se distinguen de las animales por tener pared celular (qu
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-4-2026-W01-celula-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** La profesora explica que hay una parte de la célula que funciona como un 'cerebro'.
+**Contexto:** La profesora explica que hay una parte de la célula que funciona como un 'cerebro'.
 **Expected_Success:** 0.8
 
 ### Enunciado
@@ -92,12 +98,12 @@ El núcleo es la parte más importante de la célula eucariota, ya que allí se 
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-4-2026-W01-celula-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Si observamos una célula que tiene una forma rectangular muy definida y es de color verde.
+**Contexto:** Si observamos una célula que tiene una forma rectangular muy definida y es de color verde.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -114,12 +120,12 @@ Las células vegetales suelen tener formas geométricas (rectangulares) debido a
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-4-2026-W01-celula-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** La membrana celular es como la puerta de una casa en Barranquilla.
+**Contexto:** La membrana celular es como la puerta de una casa en Barranquilla.
 **Expected_Success:** 0.8
 
 ### Enunciado
@@ -136,12 +142,12 @@ La membrana celular rodea la célula y decide qué sustancias pueden entrar (nut
 
 ---
 
-## Pregunta 6 [D7-D8]
+## Question 6 [D7-D8]
 
 **ID:** `CO-CIE-4-2026-W01-celula-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
-**Context:** Una célula necesita mucha energía para que un deportista de Quibdó pueda correr.
+**Contexto:** Una célula necesita mucha energía para que un deportista de Quibdó pueda correr.
 **Expected_Success:** 0.7
 
 ### Enunciado
@@ -158,12 +164,12 @@ Las mitocondrias realizan la respiración celular, proceso mediante el cual se o
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-4-2026-W01-celula-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Las bacterias son seres muy simples que viven en muchos lugares de Colombia.
+**Contexto:** Las bacterias son seres muy simples que viven en muchos lugares de Colombia.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -180,12 +186,12 @@ Las células procariotas (como las bacterias) son más antiguas y simples; su AD
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-4-2026-W01-celula-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** En un microscopio, vemos un organismo formado por una sola célula que se mueve en el agua.
+**Contexto:** En un microscopio, vemos un organismo formado por una sola célula que se mueve en el agua.
 **Expected_Success:** 0.6
 
 ### Enunciado
@@ -202,12 +208,12 @@ Los organismos unicelulares (como amebas o bacterias) realizan todas sus funcion
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 
 **ID:** `CO-CIE-4-2026-W01-celula-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Si a una planta se le quitan todos sus cloroplastos en un experimento en una universidad de Bogotá.
+**Contexto:** Si a una planta se le quitan todos sus cloroplastos en un experimento en una universidad de Bogotá.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -224,12 +230,12 @@ Los cloroplastos contienen clorofila y son los responsables de captar la luz sol
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-4-2026-W01-celula-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Razonamiento y Argumentación
-**Context:** Un estudiante afirma: 'Los humanos tenemos células vegetales porque comemos vegetales'.
+**Contexto:** Un estudiante afirma: 'Los humanos tenemos células vegetales porque comemos vegetales'.
 **Expected_Success:** 0.5
 
 ### Enunciado

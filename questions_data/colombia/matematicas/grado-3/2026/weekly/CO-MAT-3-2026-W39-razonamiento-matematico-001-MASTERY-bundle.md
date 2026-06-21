@@ -1,11 +1,11 @@
 ---
-id: "CO-MAT-3-2026-W39-razonamiento-matematico-001-MASTERY"
+id: "CO-MAT-3-2026-W39-razonamiento-matematico-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "matematicas"
 tema: "razonamiento-matematico"
 periodo: "weekly"
-semana: 39
+week: "W39"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -20,7 +20,12 @@ rubric_baseline: "problemas de logica, secuencias, relaciones numericas"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W39: Razonamiento Matematico
 
@@ -31,12 +36,12 @@ Este bundle evalua problemas de logica, secuencias, relaciones numericas, en con
 **Bloom:** Remember
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.95
-**Context:** En Colegio El Rosario de Ibague de Tunja
+**Contexto:** En Colegio El Rosario de Ibague de Tunja
 
 ### Enunciado
 Que numero sigue: 2, 4, 6, 8, __?
 
-### Options
+### Opciones
 - [x] A) 10 <!-- feedback: Correcto! Aumenta de 2 en 2: 8+2=10. -->
 - [ ] B) 9 <!-- feedback: 8+1=9. El patron es +2. -->
 - [ ] C) 12 <!-- feedback: 8+4=12. El patron es +2. -->
@@ -51,12 +56,12 @@ Patron: suma 2 cada vez. 2, 4, 6, 8, 10.
 **Bloom:** Understand
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.91
-**Context:** En Colegio INEM de Pereira de Sincelejo
+**Contexto:** En Colegio INEM de Pereira de Sincelejo
 
 ### Enunciado
 Si cada figura tiene 3 lados, 5 figuras cuantos lados tienen?
 
-### Options
+### Opciones
 - [x] A) 15 <!-- feedback: Correcto! 5 x 3 = 15 lados. -->
 - [ ] B) 8 <!-- feedback: 5+3=8. Hay que multiplicar. -->
 - [ ] C) 10 <!-- feedback: 5x2=10. Aqui cada figura tiene 3 lados. -->
@@ -71,12 +76,12 @@ Multiplica: 5 figuras x 3 lados = 15 lados en total.
 **Bloom:** Apply
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.87
-**Context:** En Colegio San Agustin de Sincelejo de Popayan
+**Contexto:** En Colegio San Agustin de Sincelejo de Popayan
 
 ### Enunciado
 Ana es mayor que Luis. Luis es mayor que Pedro. Quien es el menor?
 
-### Options
+### Opciones
 - [x] A) Pedro <!-- feedback: Correcto! Ana > Luis > Pedro. Pedro es el menor. -->
 - [ ] B) Ana <!-- feedback: Ana es la mayor. -->
 - [ ] C) Luis <!-- feedback: Luis esta en medio. -->
@@ -91,12 +96,12 @@ Orden descendente: Ana > Luis > Pedro. Pedro es el menor.
 **Bloom:** Analyze
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.83
-**Context:** En Colegio El Rosario de Ibague de Barranquilla
+**Contexto:** En Colegio El Rosario de Ibague de Barranquilla
 
 ### Enunciado
 Que numero sigue: 2, 4, 6, 8, __?
 
-### Options
+### Opciones
 - [x] A) 10 <!-- feedback: Correcto! Aumenta de 2 en 2: 8+2=10. -->
 - [ ] B) 9 <!-- feedback: 8+1=9. El patron es +2. -->
 - [ ] C) 12 <!-- feedback: 8+4=12. El patron es +2. -->
@@ -111,12 +116,12 @@ Patron: suma 2 cada vez. 2, 4, 6, 8, 10.
 **Bloom:** Evaluate
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.79
-**Context:** En Colegio INEM de Pereira de Cali
+**Contexto:** En Colegio INEM de Pereira de Cali
 
 ### Enunciado
 Si cada figura tiene 3 lados, 5 figuras cuantos lados tienen?
 
-### Options
+### Opciones
 - [x] A) 15 <!-- feedback: Correcto! 5 x 3 = 15 lados. -->
 - [ ] B) 8 <!-- feedback: 5+3=8. Hay que multiplicar. -->
 - [ ] C) 10 <!-- feedback: 5x2=10. Aqui cada figura tiene 3 lados. -->
@@ -131,12 +136,12 @@ Multiplica: 5 figuras x 3 lados = 15 lados en total.
 **Bloom:** Remember
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.75
-**Context:** En Colegio Rafael Nunez de Cartagena de Tunja
+**Contexto:** En Colegio Rafael Nunez de Cartagena de Tunja
 
 ### Enunciado
 Ana es mayor que Luis. Luis es mayor que Pedro. Quien es el menor?
 
-### Options
+### Opciones
 - [x] A) Pedro <!-- feedback: Correcto! Ana > Luis > Pedro. Pedro es el menor. -->
 - [ ] B) Ana <!-- feedback: Ana es la mayor. -->
 - [ ] C) Luis <!-- feedback: Luis esta en medio. -->
@@ -151,12 +156,12 @@ Orden descendente: Ana > Luis > Pedro. Pedro es el menor.
 **Bloom:** Understand
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.71
-**Context:** En Colegio San Bartolome de Bogota
+**Contexto:** En Colegio San Bartolome de Bogota
 
 ### Enunciado
 Que numero sigue: 2, 4, 6, 8, __?
 
-### Options
+### Opciones
 - [x] A) 10 <!-- feedback: Correcto! Aumenta de 2 en 2: 8+2=10. -->
 - [ ] B) 9 <!-- feedback: 8+1=9. El patron es +2. -->
 - [ ] C) 12 <!-- feedback: 8+4=12. El patron es +2. -->
@@ -171,12 +176,12 @@ Patron: suma 2 cada vez. 2, 4, 6, 8, 10.
 **Bloom:** Apply
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.67
-**Context:** En Liceo Nacional San Mateo de Armenia
+**Contexto:** En Liceo Nacional San Mateo de Armenia
 
 ### Enunciado
 Si cada figura tiene 3 lados, 5 figuras cuantos lados tienen?
 
-### Options
+### Opciones
 - [x] A) 15 <!-- feedback: Correcto! 5 x 3 = 15 lados. -->
 - [ ] B) 8 <!-- feedback: 5+3=8. Hay que multiplicar. -->
 - [ ] C) 10 <!-- feedback: 5x2=10. Aqui cada figura tiene 3 lados. -->
@@ -191,12 +196,12 @@ Multiplica: 5 figuras x 3 lados = 15 lados en total.
 **Bloom:** Analyze
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.63
-**Context:** En Colegio Simon Bolivar de Bucaramanga de Tunja
+**Contexto:** En Colegio Simon Bolivar de Bucaramanga de Tunja
 
 ### Enunciado
 Ana es mayor que Luis. Luis es mayor que Pedro. Quien es el menor?
 
-### Options
+### Opciones
 - [x] A) Pedro <!-- feedback: Correcto! Ana > Luis > Pedro. Pedro es el menor. -->
 - [ ] B) Ana <!-- feedback: Ana es la mayor. -->
 - [ ] C) Luis <!-- feedback: Luis esta en medio. -->
@@ -211,12 +216,12 @@ Orden descendente: Ana > Luis > Pedro. Pedro es el menor.
 **Bloom:** Evaluate
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.59
-**Context:** En Colegio San Bartolome de Medellin
+**Contexto:** En Colegio San Bartolome de Medellin
 
 ### Enunciado
 Que numero sigue: 2, 4, 6, 8, __?
 
-### Options
+### Opciones
 - [x] A) 10 <!-- feedback: Correcto! Aumenta de 2 en 2: 8+2=10. -->
 - [ ] B) 9 <!-- feedback: 8+1=9. El patron es +2. -->
 - [ ] C) 12 <!-- feedback: 8+4=12. El patron es +2. -->

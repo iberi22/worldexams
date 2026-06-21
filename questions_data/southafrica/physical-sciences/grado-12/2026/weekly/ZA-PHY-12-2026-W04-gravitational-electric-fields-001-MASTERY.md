@@ -5,436 +5,502 @@ exam: "NSC Matric — Physical Sciences (CAPS)"
 grado: 12
 asignatura: "Physical Sciences"
 tema: "gravitational-electric-fields"
-semana: 4
+week: "W04"
 periodo: 2
 bundle_index: 1
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "CAPS Grade 12 Physical Sciences (DBE 2026)"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle — Gravitational & Electric Fields
 **Difficulty: D3-D10 | 20 Questions | Physical Sciences — NSC Matric**
 
 ---
 
-## Question 1 — D3
+## Question 1 [D3]
 **ID:** `ZA-PHY-12-2026-W04-gravitational-electric-fields-001-MASTERY-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Gravitational acceleration in a Bloemfontein class.
+**Contexto:** Gravitat### Opciones
+ional acceleration in a Bloemfontein class.
 
-**Stem:** A 2 kg object in free fall accelerates at:
+### Enunciado
+A 2 kg object in free fall accelerates at:
 
-- [x] **A)** 9.8 m/s^2
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** 4.9 m/s^2
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** 19.6 m/s^2
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** 0 m/s^2
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) 9.8 m/s^2 <!-- feedback: Correcto! 9.8 m/s^2 -->
 
-**Explanation:** All objects free fall at g = 9.8 m/s^2.
+- [ ] B) 4.9 m/s^2 <!-- feedback: Incorrecto. 4.9 m/s^2 -->
+
+- [ ] C) 19.6 m/s^2 <!-- feedback: Incorrecto. 19.6 m/s^2 -->
+
+- [ ] D) 0 m/s^2 <!-- feedback: Incorrecto. 0 m/s^2 -->
+
+### Explicacion Pedagogica All objects free fall at g = 9.8 m/s^2.
 
 ---
 
-## Question 2 — D3
+## Question 2 [D3]
 **ID:** `ZA-PHY-12-2026-W04-gravitational-electric-fields-001-MASTERY-v2`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Energy changes in chemical reactions.
+**Contex### Opciones
+to:** Energy changes in chemical reactions.
 
-**Stem:** In an exothermic reaction, heat is:
+### Enunciado
+In an exothermic reaction, heat is:
 
-- [x] **A)** Released
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Absorbed
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Neither released nor absorbed
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Created
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Released <!-- feedback: Correcto! Released -->
 
-**Explanation:** Exothermic reactions release heat to surroundings.
+- [ ] B) Absorbed <!-- feedback: Incorrecto. Absorbed -->
+
+- [ ] C) Neither released nor absorbed <!-- feedback: Incorrecto. Neither released nor absorbed -->
+
+- [ ] D) Created <!-- feedback: Incorrecto. Created -->
+
+### Explicacion Pedagogica Exothermic reactions release heat to surroundings.
 
 ---
 
-## Question 3 — D4
+## Question 3 [D4]
 **ID:** `ZA-PHY-12-2026-W04-gravitational-electric-fields-001-MASTERY-v3`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Electrochemistry in a Pretoria lab.
+**Cont### Opciones
+exto:** Electrochemistry in a Pretoria lab.
 
-**Stem:** A galvanic cell converts:
+### Enunciado
+A galvanic cell converts:
 
-- [x] **A)** Chemical to electrical energy
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Electrical to chemical energy
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Heat to light energy
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Kinetic to potential energy
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Chemical to electrical energy <!-- feedback: Correcto! Chemical to electrical energy -->
 
-**Explanation:** Galvanic cells produce electricity from redox reactions.
+- [ ] B) Electrical to chemical energy <!-- feedback: Incorrecto. Electrical to chemical energy -->
+
+- [ ] C) Heat to light energy <!-- feedback: Incorrecto. Heat to light energy -->
+
+- [ ] D) Kinetic to potential energy <!-- feedback: Incorrecto. Kinetic to potential energy -->
+
+### Explicacion Pedagogica Galvanic cells produce electricity from redox reactions.
 
 ---
 
-## Question 4 — D4
+## Question 4 [D4]
 **ID:** `ZA-PHY-12-2026-W04-gravitational-electric-fields-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Equilibrium and Le Chatelier's principle.
+**Contexto:*### Opciones
+* Equilibrium and Le Chatelier's principle.
 
-**Stem:** In a chemical equilibrium, if products increase:
+### Enunciado
+In a chemical equilibrium, if products increase:
 
-- [x] **A)** Reverse reaction speeds up
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Forward reaction speeds up
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Equilibrium shifts right
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Nothing changes
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Reverse reaction speeds up <!-- feedback: Correcto! Reverse reaction speeds up -->
 
-**Explanation:** More products cause the reverse reaction to increase.
+- [ ] B) Forward reaction speeds up <!-- feedback: Incorrecto. Forward reaction speeds up -->
+
+- [ ] C) Equilibrium shifts right <!-- feedback: Incorrecto. Equilibrium shifts right -->
+
+- [ ] D) Nothing changes <!-- feedback: Incorrecto. Nothing changes -->
+
+### Explicacion Pedagogica More products cause the reverse reaction to increase.
 
 ---
 
-## Question 5 — D4
+## Question 5 [D4]
 **ID:** `ZA-PHY-12-2026-W04-gravitational-electric-fields-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Chemical change: rates of reaction.
+**Cont### Opciones
+exto:** Chemical change: rates of reaction.
 
-**Stem:** Reaction rate when temperature increases:
+### Enunciado
+Reaction rate when temperature increases:
 
-- [x] **A)** Increases
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Decreases
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Stays the same
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Becomes zero
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Increases <!-- feedback: Correcto! Increases -->
 
-**Explanation:** Higher temperature = more kinetic energy = faster rate.
+- [ ] B) Decreases <!-- feedback: Incorrecto. Decreases -->
+
+- [ ] C) Stays the same <!-- feedback: Incorrecto. Stays the same -->
+
+- [ ] D) Becomes zero <!-- feedback: Incorrecto. Becomes zero -->
+
+### Explicacion Pedagogica Higher temperature = more kinetic energy = faster rate.
 
 ---
 
-## Question 6 — D5
+## Question 6 [D5]
 **ID:** `ZA-PHY-12-2026-W04-gravitational-electric-fields-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Determining oxidation numbers in compounds.
+**Contexto:** ### Opciones
+Determining oxidation numbers in compounds.
 
-**Stem:** What is the oxidation number of S in H2SO4?
+### Enunciado
+What is the oxidation number of S in H2SO4?
 
-- [x] **A)** +6
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** +4
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** +2
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** 0
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) +6 <!-- feedback: Correcto! +6 -->
 
-**Explanation:** H = +1 (x2=+2), O = -2 (x4=-8); 2 + S - 8 = 0 -> S = +6.
+- [ ] B) +4 <!-- feedback: Incorrecto. +4 -->
+
+- [ ] C) +2 <!-- feedback: Incorrecto. +2 -->
+
+- [ ] D) 0 <!-- feedback: Incorrecto. 0 -->
+
+### Explicacion Pedagogica H = +1 (x2=+2), O = -2 (x4=-8); 2 + S - 8 = 0 -> S = +6.
 
 ---
 
-## Question 7 — D5
+## Question 7 [D5]
 **ID:** `ZA-PHY-12-2026-W04-gravitational-electric-fields-001-MASTERY-v7`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Electromagnetic induction in Grade 12.
+**Context### Opciones
+o:** Electromagnetic induction in Grade 12.
 
-**Stem:** Induced EMF in a conductor moving through B field:
+### Enunciado
+Induced EMF in a conductor moving through B field:
 
-- [x] **A)** E = Blv
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** E = IR
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** E = Q/V
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** E = mc^2
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) E = Blv <!-- feedback: Correcto! E = Blv -->
 
-**Explanation:** Faraday's law: E = Blv.
+- [ ] B) E = IR <!-- feedback: Incorrecto. E = IR -->
+
+- [ ] C) E = Q/V <!-- feedback: Incorrecto. E = Q/V -->
+
+- [ ] D) E = mc^2 <!-- feedback: Incorrecto. E = mc^2 -->
+
+### Explicacion Pedagogica Faraday's law: E = Blv.
 
 ---
 
-## Question 8 — D5
+## Question 8 [D5]
 **ID:** `ZA-PHY-12-2026-W04-gravitational-electric-fields-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Photoelectric effect in modern physics.
+**Contexto### Opciones
+:** Photoelectric effect in modern physics.
 
-**Stem:** Increasing light intensity (above threshold) increases:
+### Enunciado
+Increasing light intensity (above threshold) increases:
 
-- [x] **A)** Number of photoelectrons
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Kinetic energy of photoelectrons
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Threshold frequency
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Work function
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Number of photoelectrons <!-- feedback: Correcto! Number of photoelectrons -->
 
-**Explanation:** More photons = more photoelectrons, same KE each.
+- [ ] B) Kinetic energy of photoelectrons <!-- feedback: Incorrecto. Kinetic energy of photoelectrons -->
+
+- [ ] C) Threshold frequency <!-- feedback: Incorrecto. Threshold frequency -->
+
+- [ ] D) Work function <!-- feedback: Incorrecto. Work function -->
+
+### Explicacion Pedagogica More photons = more photoelectrons, same KE each.
 
 ---
 
-## Question 9 — D6
+## Question 9 [D6]
 **ID:** `ZA-PHY-12-2026-W04-gravitational-electric-fields-001-MASTERY-v9`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Transformers in electrodynamics.
+**C### Opciones
+ontexto:** Transformers in electrodynamics.
 
-**Stem:** A transformer steps up voltage from 100V to 200V. If N_1 = 50 turns, N_2 = ?
+### Enunciado
+A transformer steps up voltage from 100V to 200V. If N_1 = 50 turns, N_2 = ?
 
-- [x] **A)** 100 turns
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** 25 turns
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** 200 turns
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** 50 turns
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) 100 turns <!-- feedback: Correcto! 100 turns -->
 
-**Explanation:** V1/N1 = V2/N2 -> 100/50 = 200/N2 -> N2 = 100.
+- [ ] B) 25 turns <!-- feedback: Incorrecto. 25 turns -->
+
+- [ ] C) 200 turns <!-- feedback: Incorrecto. 200 turns -->
+
+- [ ] D) 50 turns <!-- feedback: Incorrecto. 50 turns -->
+
+### Explicacion Pedagogica V1/N1 = V2/N2 -> 100/50 = 200/N2 -> N2 = 100.
 
 ---
 
-## Question 10 — D6
+## Question 10 [D6]
 **ID:** `ZA-PHY-12-2026-W04-gravitational-electric-fields-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Work, energy and power calculations.
+**Conte### Opciones
+xto:** Work, energy and power calculations.
 
-**Stem:** Work done: 50 N force moves object 3 m:
+### Enunciado
+Work done: 50 N force moves object 3 m:
 
-- [x] **A)** 150 J
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** 53 J
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** 16.7 J
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** 47 J
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) 150 J <!-- feedback: Correcto! 150 J -->
 
-**Explanation:** W = F x d = 50 x 3 = 150 J.
+- [ ] B) 53 J <!-- feedback: Incorrecto. 53 J -->
+
+- [ ] C) 16.7 J <!-- feedback: Incorrecto. 16.7 J -->
+
+- [ ] D) 47 J <!-- feedback: Incorrecto. 47 J -->
+
+### Explicacion Pedagogica W = F x d = 50 x 3 = 150 J.
 
 ---
 
-## Question 11 — D6
+## Question 11 [D6]
 **ID:** `ZA-PHY-12-2026-W04-gravitational-electric-fields-001-MASTERY-v11`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Chemical formulae in Grade 12.
+*### Opciones
+*Contexto:** Chemical formulae in Grade 12.
 
-**Stem:** Chemical formula of sulphuric acid:
+### Enunciado
+Chemical formula of sulphuric acid:
 
-- [x] **A)** H2SO4
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** H2S
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** HSO4
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** H2SO3
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) H2SO4 <!-- feedback: Correcto! H2SO4 -->
 
-**Explanation:** Sulphuric acid is H2SO4.
+- [ ] B) H2S <!-- feedback: Incorrecto. H2S -->
+
+- [ ] C) HSO4 <!-- feedback: Incorrecto. HSO4 -->
+
+- [ ] D) H2SO3 <!-- feedback: Incorrecto. H2SO3 -->
+
+### Explicacion Pedagogica Sulphuric acid is H2SO4.
 
 ---
 
-## Question 12 — D7
+## Question 12 [D7]
 **ID:** `ZA-PHY-12-2026-W04-gravitational-electric-fields-001-MASTERY-v12`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
+### Opciones
 
-**Context:** Electrodynamics in Grade 12.
+**Contexto:** Electrodynamics in Grade 12.
 
-**Stem:** Function of a capacitor:
+### Enunciado
+Function of a capacitor:
 
-- [x] **A)** Store electric charge
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Resist current flow
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Amplify voltage
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Convert AC to DC
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Store electric charge <!-- feedback: Correcto! Store electric charge -->
 
-**Explanation:** A capacitor stores electrical energy.
+- [ ] B) Resist current flow <!-- feedback: Incorrecto. Resist current flow -->
+
+- [ ] C) Amplify voltage <!-- feedback: Incorrecto. Amplify voltage -->
+
+- [ ] D) Convert AC to DC <!-- feedback: Incorrecto. Convert AC to DC -->
+
+### Explicacion Pedagogica A capacitor stores electrical energy.
 
 ---
 
-## Question 13 — D7
+## Question 13 [D7]
 **ID:** `ZA-PHY-12-2026-W04-gravitational-electric-fields-001-MASTERY-v13`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Physics definitions for the NSC exam.
+**Contex### Opciones
+to:** Physics definitions for the NSC exam.
 
-**Stem:** SI unit of electric current:
+### Enunciado
+SI unit of electric current:
 
-- [x] **A)** Ampere
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Volt
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Ohm
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Coulomb
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Ampere <!-- feedback: Correcto! Ampere -->
 
-**Explanation:** Current is measured in amperes (A).
+- [ ] B) Volt <!-- feedback: Incorrecto. Volt -->
+
+- [ ] C) Ohm <!-- feedback: Incorrecto. Ohm -->
+
+- [ ] D) Coulomb <!-- feedback: Incorrecto. Coulomb -->
+
+### Explicacion Pedagogica Current is measured in amperes (A).
 
 ---
 
-## Question 14 — D7
+## Question 14 [D7]
 **ID:** `ZA-PHY-12-2026-W04-gravitational-electric-fields-001-MASTERY-v14`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Electric circuits in a Pretoria classroom.
+**Contexto:**### Opciones
+ Electric circuits in a Pretoria classroom.
 
-**Stem:** Three resistors 2, 3 and 5 Ohm in series. Total R:
+### Enunciado
+Three resistors 2, 3 and 5 Ohm in series. Total R:
 
-- [x] **A)** 10 Ohm
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** 0.97 Ohm
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** 30 Ohm
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** 15 Ohm
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) 10 Ohm <!-- feedback: Correcto! 10 Ohm -->
 
-**Explanation:** R = 2 + 3 + 5 = 10 Ohm.
+- [ ] B) 0.97 Ohm <!-- feedback: Incorrecto. 0.97 Ohm -->
+
+- [ ] C) 30 Ohm <!-- feedback: Incorrecto. 30 Ohm -->
+
+- [ ] D) 15 Ohm <!-- feedback: Incorrecto. 15 Ohm -->
+
+### Explicacion Pedagogica R = 2 + 3 + 5 = 10 Ohm.
 
 ---
 
-## Question 15 — D8
+## Question 15 [D8]
 **ID:** `ZA-PHY-12-2026-W04-gravitational-electric-fields-001-MASTERY-v15`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Newton's Second Law in a Cape Town classroom.
+**Contexto:** Ne### Opciones
+wton's Second Law in a Cape Town classroom.
 
-**Stem:** A 4 kg mass accelerates at 3 m/s^2. Net force = ?
+### Enunciado
+A 4 kg mass accelerates at 3 m/s^2. Net force = ?
 
-- [x] **A)** 12 N
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** 7 N
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** 1.33 N
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** 81 N
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) 12 N <!-- feedback: Correcto! 12 N -->
 
-**Explanation:** F = ma = 4 x 3 = 12 N.
+- [ ] B) 7 N <!-- feedback: Incorrecto. 7 N -->
+
+- [ ] C) 1.33 N <!-- feedback: Incorrecto. 1.33 N -->
+
+- [ ] D) 81 N <!-- feedback: Incorrecto. 81 N -->
+
+### Explicacion Pedagogica F = ma = 4 x 3 = 12 N.
 
 ---
 
-## Question 16 — D8
+## Question 16 [D8]
 **ID:** `ZA-PHY-12-2026-W04-gravitational-electric-fields-001-MASTERY-v16`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Gas laws in Physical Sciences.
+*### Opciones
+*Contexto:** Gas laws in Physical Sciences.
 
-**Stem:** Pressure doubled at constant temp. Volume:
+### Enunciado
+Pressure doubled at constant temp. Volume:
 
-- [x] **A)** Halves
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Doubles
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Quadruples
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Stays the same
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Halves <!-- feedback: Correcto! Halves -->
 
-**Explanation:** Boyle's Law: P1V1 = P2V2.
+- [ ] B) Doubles <!-- feedback: Incorrecto. Doubles -->
+
+- [ ] C) Quadruples <!-- feedback: Incorrecto. Quadruples -->
+
+- [ ] D) Stays the same <!-- feedback: Incorrecto. Stays the same -->
+
+### Explicacion Pedagogica Boyle's Law: P1V1 = P2V2.
 
 ---
 
-## Question 17 — D8
+## Question 17 [D8]
 **ID:** `ZA-PHY-12-2026-W04-gravitational-electric-fields-001-MASTERY-v17`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Redox reactions in a Durban lab.
+**C### Opciones
+ontexto:** Redox reactions in a Durban lab.
 
-**Stem:** In Zn + CuSO4 -> ZnSO4 + Cu, which is oxidised?
+### Enunciado
+In Zn + CuSO4 -> ZnSO4 + Cu, which is oxidised?
 
-- [x] **A)** Zn
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Cu
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** CuSO4
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** ZnSO4
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Zn <!-- feedback: Correcto! Zn -->
 
-**Explanation:** Zn loses electrons (0 -> +2), so it is oxidised.
+- [ ] B) Cu <!-- feedback: Incorrecto. Cu -->
+
+- [ ] C) CuSO4 <!-- feedback: Incorrecto. CuSO4 -->
+
+- [ ] D) ZnSO4 <!-- feedback: Incorrecto. ZnSO4 -->
+
+### Explicacion Pedagogica Zn loses electrons (0 -> +2), so it is oxidised.
 
 ---
 
-## Question 18 — D9
+## Question 18 [D9]
 **ID:** `ZA-PHY-12-2026-W04-gravitational-electric-fields-001-MASTERY-v18`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Electromagnetic spectrum study.
+**### Opciones
+Contexto:** Electromagnetic spectrum study.
 
-**Stem:** Which visible colour has highest frequency?
+### Enunciado
+Which visible colour has highest frequency?
 
-- [x] **A)** Violet
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Red
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Blue
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Green
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Violet <!-- feedback: Correcto! Violet -->
 
-**Explanation:** Violet has shortest wavelength, highest frequency.
+- [ ] B) Red <!-- feedback: Incorrecto. Red -->
+
+- [ ] C) Blue <!-- feedback: Incorrecto. Blue -->
+
+- [ ] D) Green <!-- feedback: Incorrecto. Green -->
+
+### Explicacion Pedagogica Violet has shortest wavelength, highest frequency.
 
 ---
 
-## Question 19 — D9
+## Question 19 [D9]
 **ID:** `ZA-PHY-12-2026-W04-gravitational-electric-fields-001-MASTERY-v19`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Acid-base chemistry calculations.
+**Co### Opciones
+ntexto:** Acid-base chemistry calculations.
 
-**Stem:** pH of 0.001 M HCl:
+### Enunciado
+pH of 0.001 M HCl:
 
-- [x] **A)** 3
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** 11
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** 0.001
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** 7
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
 
-**Explanation:** pH = -log[10^{-3}] = 3.
+- [ ] B) 11 <!-- feedback: Incorrecto. 11 -->
+
+- [ ] C) 0.001 <!-- feedback: Incorrecto. 0.001 -->
+
+- [ ] D) 7 <!-- feedback: Incorrecto. 7 -->
+
+### Explicacion Pedagogica pH = -log[10^{-3}] = 3.
 
 ---
 
-## Question 20 — D10
+## Question 20 [D10]
 **ID:** `ZA-PHY-12-2026-W04-gravitational-electric-fields-001-MASTERY-v20`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Electrical definitions for the NSC.
+**Cont### Opciones
+exto:** Electrical definitions for the NSC.
 
-**Stem:** The unit of electric potential difference is:
+### Enunciado
+The unit of electric potential difference is:
 
-- [x] **A)** Volt
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Ampere
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Ohm
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Watt
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Volt <!-- feedback: Correcto! Volt -->
 
-**Explanation:** Electric potential difference is measured in volts.
+- [ ] B) Ampere <!-- feedback: Incorrecto. Ampere -->
+
+- [ ] C) Ohm <!-- feedback: Incorrecto. Ohm -->
+
+- [ ] D) Watt <!-- feedback: Incorrecto. Watt -->
+
+### Explicacion Pedagogica Electric potential difference is measured in volts.
 
 ---

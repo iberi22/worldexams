@@ -1,24 +1,32 @@
 ---
-id: "PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY"
+id: "PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY-bundle"
 country: "pr"
 exam: "College Board - Puerto Rico Department of Education"
 grado: 11
 asignatura: "Historia y Ciencias Sociales"
 tema: "puerto-rico-comunidad-internacional"
-semana: 40
+week: "W40"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "Puerto Rico Core Standards + College Board SAT"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle - Historia y Ciencias Sociales: Puerto Rico Comunidad Internacional (W40)
 **20 preguntas | Historia y Ciencias Sociales | College Board - Puerto Rico Department of Education**
 
 ---
-## Pregunta 1 [D4]
+## Question 1 [D4]
 **ID:** `PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando puerto rico comunidad internacional.
 
@@ -26,21 +34,22 @@ alignment: "Puerto Rico Core Standards + College Board SAT"
 Simplifique: (3)(1x + 42)
 
 ### Opciones
-- [x] **A)** 3x + 126
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 3x + 42
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 4x + 126
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 3x - 126
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3x + 126 <!-- feedback: Correcto! 3x + 126 -->
+
+- [ ] B) 3x + 42 <!-- feedback: Incorrecto. 3x + 42 -->
+
+- [ ] C) 4x + 126 <!-- feedback: Incorrecto. 4x + 126 -->
+
+- [ ] D) 3x - 126 <!-- feedback: Incorrecto. 3x - 126 -->
 
 **Explicacion:** Aplicar distributiva: (3)(1x + 42) = 3x + 126.
 
 ---
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando puerto rico comunidad internacional.
 
@@ -48,21 +57,22 @@ Simplifique: (3)(1x + 42)
 Resuelve: 2(x + 6) = 18
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] C) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] D) 5 <!-- feedback: Incorrecto. 5 -->
 
 **Explicacion:** 2(x+6) = 18 -> x+6 = 9 -> x = 3.
 
 ---
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando puerto rico comunidad internacional.
 
@@ -70,21 +80,22 @@ Resuelve: 2(x + 6) = 18
 Maria compro 7 cuadernos a $8.4 c/u en Aguadilla. &iquest;Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $56.4
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** $7.4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $8.4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $15.4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $56.4 <!-- feedback: Correcto! $56.4 -->
+
+- [ ] B) $7.4 <!-- feedback: Incorrecto. $7.4 -->
+
+- [ ] C) $8.4 <!-- feedback: Incorrecto. $8.4 -->
+
+- [ ] D) $15.4 <!-- feedback: Incorrecto. $15.4 -->
 
 **Explicacion:** Total = 7 x $8 = $56.4.
 
 ---
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY-v4`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando puerto rico comunidad internacional.
 
@@ -92,21 +103,22 @@ Maria compro 7 cuadernos a $8.4 c/u en Aguadilla. &iquest;Cuanto gasto?
 Un estudiante de Escuela Superior de Aguadilla en Aguadilla grafica f(x) = 2x + 7. &iquest;Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 2
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 2 <!-- feedback: Correcto! 2 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] C) 9 <!-- feedback: Incorrecto. 9 -->
+
+- [ ] D) 6 <!-- feedback: Incorrecto. 6 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 2.
 
 ---
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY-v5`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando puerto rico comunidad internacional.
 
@@ -114,21 +126,22 @@ Un estudiante de Escuela Superior de Aguadilla en Aguadilla grafica f(x) = 2x + 
 En un examen EBAU en Cabo Rojo, se pide: si f(x) = 7x^2 + 3x + 9. &iquest;Cual es f(2)?
 
 ### Opciones
-- [x] **A)** 43
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 17
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 10
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 43 <!-- feedback: Correcto! 43 -->
+
+- [ ] B) 17 <!-- feedback: Incorrecto. 17 -->
+
+- [ ] C) 9 <!-- feedback: Incorrecto. 9 -->
+
+- [ ] D) 10 <!-- feedback: Incorrecto. 10 -->
 
 **Explicacion:** Sustituyo x=2: f(2) = 7(4) + 3(2) + 9 = 28 + 6 + 9 = 43.
 
 ---
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando puerto rico comunidad internacional.
 
@@ -136,21 +149,22 @@ En un examen EBAU en Cabo Rojo, se pide: si f(x) = 7x^2 + 3x + 9. &iquest;Cual e
 Resuelve la ecuacion: x^2 - 17x + 70 = 0
 
 ### Opciones
-- [x] **A)** x = 7 y x = 10
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** x = 17 y x = 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** x = 0 y x = 70
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** No tiene solucion
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) x = 7 y x = 10 <!-- feedback: Correcto! x = 7 y x = 10 -->
+
+- [ ] B) x = 17 y x = 3 <!-- feedback: Incorrecto. x = 17 y x = 3 -->
+
+- [ ] C) x = 0 y x = 70 <!-- feedback: Incorrecto. x = 0 y x = 70 -->
+
+- [ ] D) No tiene solucion <!-- feedback: Incorrecto. No tiene solucion -->
 
 **Explicacion:** Ecuacion cuadratica: (x-7)(x-10) = 0, por tanto x = 7 o x = 10.
 
 ---
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY-v7`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando puerto rico comunidad internacional.
 
@@ -158,21 +172,22 @@ Resuelve la ecuacion: x^2 - 17x + 70 = 0
 Un estudiante de Ponce obtuvo notas: 14, 18, 18, 8. &iquest;Cual es la media?
 
 ### Opciones
-- [x] **A)** 15.2
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 42
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 23
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 15.2 <!-- feedback: Correcto! 15.2 -->
+
+- [ ] B) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] C) 42 <!-- feedback: Incorrecto. 42 -->
+
+- [ ] D) 23 <!-- feedback: Incorrecto. 23 -->
 
 **Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.
 
 ---
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando puerto rico comunidad internacional.
 
@@ -180,21 +195,22 @@ Un estudiante de Ponce obtuvo notas: 14, 18, 18, 8. &iquest;Cual es la media?
 Calcule la derivada de f(x) = 7x^3 + 4x^2 + 6x + 4
 
 ### Opciones
-- [x] **A)** f'(x) = 21x^2 + 8x + 6
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** f'(x) = 7x^2 + 4x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** f'(x) = 21x^2 + 4x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** f'(x) = 21x^3 + 8x^2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) f'(x) = 21x^2 + 8x + 6 <!-- feedback: Correcto! f'(x) = 21x^2 + 8x + 6 -->
+
+- [ ] B) f'(x) = 7x^2 + 4x <!-- feedback: Incorrecto. f'(x) = 7x^2 + 4x -->
+
+- [ ] C) f'(x) = 21x^2 + 4x <!-- feedback: Incorrecto. f'(x) = 21x^2 + 4x -->
+
+- [ ] D) f'(x) = 21x^3 + 8x^2 <!-- feedback: Incorrecto. f'(x) = 21x^3 + 8x^2 -->
 
 **Explicacion:** Derivada termino a termino: d/dx(7x^3) = 21x^2, d/dx(4x^2) = 8x, d/dx(6x) = 6, d/dx(4) = 0.
 
 ---
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY-v9`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando puerto rico comunidad internacional.
 
@@ -202,21 +218,22 @@ Calcule la derivada de f(x) = 7x^3 + 4x^2 + 6x + 4
 &iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0
 
 ### Opciones
-- [x] **A)** Si, es correcta porque f'(0) = 0 y f''(0) > 0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** No, tiene un maximo en x = 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** No, no tiene extremos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** Solo es correcta para x > 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) Si, es correcta porque f'(0) = 0 y f''(0) > 0 <!-- feedback: Correcto! Si, es correcta porque f'(0) = 0 y f''(0) > 0 -->
+
+- [ ] B) No, tiene un maximo en x = 0 <!-- feedback: Incorrecto. No, tiene un maximo en x = 0 -->
+
+- [ ] C) No, no tiene extremos <!-- feedback: Incorrecto. No, no tiene extremos -->
+
+- [ ] D) Solo es correcta para x > 0 <!-- feedback: Incorrecto. Solo es correcta para x > 0 -->
 
 **Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.
 
 ---
-## Pregunta 10 [D3]
+## Question 10 [D3]
 **ID:** `PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando puerto rico comunidad internacional.
 
@@ -224,21 +241,22 @@ Calcule la derivada de f(x) = 7x^3 + 4x^2 + 6x + 4
 En Humacao, un estudiante del Escuela Superior de Humacao resuelve: 2x + 7 = 17. &iquest;Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **D)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 8 <!-- feedback: Incorrecto. 8 -->
 
 **Explicacion:** Se resta 7 de ambos lados. Luego se divide por 2: x = 5.
 
 ---
-## Pregunta 11 [D4]
+## Question 11 [D4]
 **ID:** `PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY-v11`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando puerto rico comunidad internacional.
 
@@ -246,21 +264,22 @@ En Humacao, un estudiante del Escuela Superior de Humacao resuelve: 2x + 7 = 17.
 Simplifique: (6)(2x + 27)
 
 ### Opciones
-- [x] **A)** 12x + 162
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 12x + 27
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 8x + 162
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 12x - 162
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 12x + 162 <!-- feedback: Correcto! 12x + 162 -->
+
+- [ ] B) 12x + 27 <!-- feedback: Incorrecto. 12x + 27 -->
+
+- [ ] C) 8x + 162 <!-- feedback: Incorrecto. 8x + 162 -->
+
+- [ ] D) 12x - 162 <!-- feedback: Incorrecto. 12x - 162 -->
 
 **Explicacion:** Aplicar distributiva: (6)(2x + 27) = 12x + 162.
 
 ---
-## Pregunta 12 [D3]
+## Question 12 [D3]
 **ID:** `PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY-v12`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando puerto rico comunidad internacional.
 
@@ -268,21 +287,22 @@ Simplifique: (6)(2x + 27)
 Resuelve: 2(x + 7) = 20
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] C) 9 <!-- feedback: Incorrecto. 9 -->
+
+- [ ] D) 6 <!-- feedback: Incorrecto. 6 -->
 
 **Explicacion:** 2(x+7) = 20 -> x+7 = 10 -> x = 3.
 
 ---
-## Pregunta 13 [D4]
+## Question 13 [D4]
 **ID:** `PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY-v13`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando puerto rico comunidad internacional.
 
@@ -290,21 +310,22 @@ Resuelve: 2(x + 7) = 20
 Maria compro 2 cuadernos a $3.4 c/u en Guaynabo. &iquest;Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $6.4
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** $2.4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $3.4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $5.4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $6.4 <!-- feedback: Correcto! $6.4 -->
+
+- [ ] B) $2.4 <!-- feedback: Incorrecto. $2.4 -->
+
+- [ ] C) $3.4 <!-- feedback: Incorrecto. $3.4 -->
+
+- [ ] D) $5.4 <!-- feedback: Incorrecto. $5.4 -->
 
 **Explicacion:** Total = 2 x $3 = $6.4.
 
 ---
-## Pregunta 14 [D5]
+## Question 14 [D5]
 **ID:** `PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY-v14`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando puerto rico comunidad internacional.
 
@@ -312,21 +333,22 @@ Maria compro 2 cuadernos a $3.4 c/u en Guaynabo. &iquest;Cuanto gasto?
 Un estudiante de Escuela Superior de Guaynabo en Guaynabo grafica f(x) = 3x + 12. &iquest;Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 12
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 15
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 10
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 12 <!-- feedback: Incorrecto. 12 -->
+
+- [ ] C) 15 <!-- feedback: Incorrecto. 15 -->
+
+- [ ] D) 10 <!-- feedback: Incorrecto. 10 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 3.
 
 ---
-## Pregunta 15 [D5]
+## Question 15 [D5]
 **ID:** `PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY-v15`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando puerto rico comunidad internacional.
 
@@ -334,21 +356,22 @@ Un estudiante de Escuela Superior de Guaynabo en Guaynabo grafica f(x) = 3x + 12
 En un examen EBAU en Aguadilla, se pide: si f(x) = 5x^2 + 8x + 5. &iquest;Cual es f(2)?
 
 ### Opciones
-- [x] **A)** 41
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 18
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 13
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 41 <!-- feedback: Correcto! 41 -->
+
+- [ ] B) 18 <!-- feedback: Incorrecto. 18 -->
+
+- [ ] C) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [ ] D) 13 <!-- feedback: Incorrecto. 13 -->
 
 **Explicacion:** Sustituyo x=2: f(2) = 5(4) + 8(2) + 5 = 20 + 16 + 5 = 41.
 
 ---
-## Pregunta 16 [D6]
+## Question 16 [D6]
 **ID:** `PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY-v16`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando puerto rico comunidad internacional.
 
@@ -356,21 +379,22 @@ En un examen EBAU en Aguadilla, se pide: si f(x) = 5x^2 + 8x + 5. &iquest;Cual e
 Resuelve la ecuacion: x^2 - 12x + 27 = 0
 
 ### Opciones
-- [x] **A)** x = 3 y x = 9
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** x = 12 y x = 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** x = 0 y x = 27
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** No tiene solucion
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) x = 3 y x = 9 <!-- feedback: Correcto! x = 3 y x = 9 -->
+
+- [ ] B) x = 12 y x = 6 <!-- feedback: Incorrecto. x = 12 y x = 6 -->
+
+- [ ] C) x = 0 y x = 27 <!-- feedback: Incorrecto. x = 0 y x = 27 -->
+
+- [ ] D) No tiene solucion <!-- feedback: Incorrecto. No tiene solucion -->
 
 **Explicacion:** Ecuacion cuadratica: (x-3)(x-9) = 0, por tanto x = 3 o x = 9.
 
 ---
-## Pregunta 17 [D6]
+## Question 17 [D6]
 **ID:** `PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY-v17`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando puerto rico comunidad internacional.
 
@@ -378,21 +402,22 @@ Resuelve la ecuacion: x^2 - 12x + 27 = 0
 Un estudiante de Carolina obtuvo notas: 8, 3, 10, 8. &iquest;Cual es la media?
 
 ### Opciones
-- [x] **A)** 8.5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 15
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 8.5 <!-- feedback: Correcto! 8.5 -->
+
+- [ ] B) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [ ] C) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [ ] D) 15 <!-- feedback: Incorrecto. 15 -->
 
 **Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.
 
 ---
-## Pregunta 18 [D7]
+## Question 18 [D7]
 **ID:** `PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY-v18`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando puerto rico comunidad internacional.
 
@@ -400,21 +425,22 @@ Un estudiante de Carolina obtuvo notas: 8, 3, 10, 8. &iquest;Cual es la media?
 Calcule la derivada de f(x) = 4x^3 + 6x^2 + 9x + 6
 
 ### Opciones
-- [x] **A)** f'(x) = 12x^2 + 12x + 9
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** f'(x) = 4x^2 + 6x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** f'(x) = 12x^2 + 6x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** f'(x) = 12x^3 + 12x^2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) f'(x) = 12x^2 + 12x + 9 <!-- feedback: Correcto! f'(x) = 12x^2 + 12x + 9 -->
+
+- [ ] B) f'(x) = 4x^2 + 6x <!-- feedback: Incorrecto. f'(x) = 4x^2 + 6x -->
+
+- [ ] C) f'(x) = 12x^2 + 6x <!-- feedback: Incorrecto. f'(x) = 12x^2 + 6x -->
+
+- [ ] D) f'(x) = 12x^3 + 12x^2 <!-- feedback: Incorrecto. f'(x) = 12x^3 + 12x^2 -->
 
 **Explicacion:** Derivada termino a termino: d/dx(4x^3) = 12x^2, d/dx(6x^2) = 12x, d/dx(9x) = 9, d/dx(6) = 0.
 
 ---
-## Pregunta 19 [D7]
+## Question 19 [D7]
 **ID:** `PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY-v19`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando puerto rico comunidad internacional.
 
@@ -422,21 +448,22 @@ Calcule la derivada de f(x) = 4x^3 + 6x^2 + 9x + 6
 &iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0
 
 ### Opciones
-- [x] **A)** Si, es correcta porque f'(0) = 0 y f''(0) > 0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** No, tiene un maximo en x = 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** No, no tiene extremos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** Solo es correcta para x > 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) Si, es correcta porque f'(0) = 0 y f''(0) > 0 <!-- feedback: Correcto! Si, es correcta porque f'(0) = 0 y f''(0) > 0 -->
+
+- [ ] B) No, tiene un maximo en x = 0 <!-- feedback: Incorrecto. No, tiene un maximo en x = 0 -->
+
+- [ ] C) No, no tiene extremos <!-- feedback: Incorrecto. No, no tiene extremos -->
+
+- [ ] D) Solo es correcta para x > 0 <!-- feedback: Incorrecto. Solo es correcta para x > 0 -->
 
 **Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.
 
 ---
-## Pregunta 20 [D3]
+## Question 20 [D3]
 **ID:** `PR-SOC-11-2026-W40-puerto-rico-comunidad-internacional-001-MASTERY-v20`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando puerto rico comunidad internacional.
 
@@ -444,14 +471,13 @@ Calcule la derivada de f(x) = 4x^3 + 6x^2 + 9x + 6
 En Guaynabo, un estudiante del Escuela Superior de Guaynabo resuelve: 2x + 8 = 18. &iquest;Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **D)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] B) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 9 <!-- feedback: Incorrecto. 9 -->
 
 **Explicacion:** Se resta 8 de ambos lados. Luego se divide por 2: x = 5.
 

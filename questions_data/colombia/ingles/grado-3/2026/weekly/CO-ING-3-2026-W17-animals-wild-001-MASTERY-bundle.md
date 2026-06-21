@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W17-animals-wild-001-MASTERY"
+id: "CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "animals-wild"
 periodo: "weekly"
-semana: 17
+week: "W17"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "Vocabulary for wild animals: lion, tiger, elephant, giraffe, m
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W17: Animals - Wild (A1)
 
@@ -32,11 +37,12 @@ Este bundle evalúa el vocabulario de animales salvajes en inglés.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Which animal is the **"King of the Jungle"**?
 
-### Options
+### Opciones
 - [x] A) Lion <!-- feedback: Correct! The lion is the king. -->
 - [ ] B) Monkey <!-- feedback: Incorrect. -->
 - [ ] C) Snake <!-- feedback: Incorrect. -->
@@ -52,11 +58,12 @@ El león se dice "lion". Es conocido como el rey de la selva.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What animal is very big and has a **trunk** (trompa)?
 
-### Options
+### Opciones
 - [ ] A) Lion <!-- feedback: Incorrect. -->
 - [x] B) Elephant <!-- feedback: Correct! Elephants have trunks. -->
 - [ ] C) Tiger <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ El elefante se dice "elephant".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What animal has a very **long neck**?
 
-### Options
+### Opciones
 - [ ] A) Elephant <!-- feedback: Incorrect. -->
 - [ ] B) Lion <!-- feedback: Incorrect. -->
 - [x] C) Giraffe <!-- feedback: Correct! Giraffes have long necks. -->
@@ -92,11 +100,12 @@ La jirafa se dice "giraffe". Usan su cuello largo para comer hojas de árboles a
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What animal likes **bananas** and climbs trees?
 
-### Options
+### Opciones
 - [ ] A) Tiger <!-- feedback: Incorrect. -->
 - [x] B) Monkey <!-- feedback: Correct! Monkeys love bananas. -->
 - [ ] C) Snake <!-- feedback: Incorrect. -->
@@ -112,11 +121,12 @@ El mono se dice "monkey".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What animal has **stripes** (rayas) and is orange?
 
-### Options
+### Opciones
 - [ ] A) Lion <!-- feedback: Incorrect. -->
 - [x] B) Tiger <!-- feedback: Correct! Tigers have stripes. -->
 - [ ] C) Zebra <!-- feedback: Incorrect. Zebras are black and white. -->
@@ -132,11 +142,12 @@ El tigre se dice "tiger".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What animal is black and white with **stripes**?
 
-### Options
+### Opciones
 - [x] A) Zebra <!-- feedback: Correct! Zebras are striped. -->
 - [ ] B) Horse <!-- feedback: Incorrect. -->
 - [ ] C) Tiger <!-- feedback: Incorrect. -->
@@ -152,11 +163,12 @@ La cebra se dice "zebra".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Which animal lives in the **water** and is very big?
 
-### Options
+### Opciones
 - [ ] A) Lion <!-- feedback: Incorrect. -->
 - [x] B) Whale <!-- feedback: Correct! Whales live in the ocean. -->
 - [ ] C) Giraffe <!-- feedback: Incorrect. -->
@@ -172,11 +184,12 @@ La ballena se dice "whale". Vive en el mar.
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Which animal has **no legs** (no tiene piernas)?
 
-### Options
+### Opciones
 - [ ] A) Monkey <!-- feedback: Incorrect. -->
 - [ ] B) Tiger <!-- feedback: Incorrect. -->
 - [x] C) Snake <!-- feedback: Correct! Snakes crawl. -->
@@ -192,11 +205,12 @@ La serpiente se dice "snake".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Oso"** in English?
 
-### Options
+### Opciones
 - [ ] A) Beer <!-- feedback: Incorrect. That is cerveza! -->
 - [x] B) Bear <!-- feedback: Correct! Bear is oso. -->
 - [ ] C) Bird <!-- feedback: Incorrect. -->
@@ -212,11 +226,12 @@ El oso se dice "bear". ¡No confundir con la bebida "beer"!
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Where do wild animals live?
 
-### Options
+### Opciones
 - [ ] A) In a house <!-- feedback: Incorrect. -->
 - [x] B) In the jungle or forest <!-- feedback: Correct! -->
 - [ ] C) In a school <!-- feedback: Incorrect. -->

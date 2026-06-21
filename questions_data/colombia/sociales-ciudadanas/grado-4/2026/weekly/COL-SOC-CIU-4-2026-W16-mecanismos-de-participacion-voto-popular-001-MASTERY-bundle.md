@@ -1,5 +1,5 @@
 ---
-id: "COL-SOC-CIU-4-2026-W16-mecanismos-de-participacion-voto-popular-001-MASTERY"
+id: "COL-SOC-CIU-4-2026-W16-mecanismos-de-participacion-voto-popular-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Mecanismos de participación ciudadana: voto popular"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Mecanismos de participación — El voto popular
 
@@ -30,14 +35,15 @@ Este bundle explica el voto popular como mecanismo de participación ciudadana e
 ## Question 1 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W16-mecanismos-de-participacion-voto-popular-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Elecciones escolares en Bucaramanga
+**Contexto:** Elecciones escolares en Bucaramanga
 
 ### Enunciado
 ¿Qué es el voto popular?
 
-### Options
+### Opciones
 - [ ] A) Un juego de niños. <!-- feedback: Incorrecto. El voto es un mecanismo serio de participación. -->
 - [ ] B) Un impuesto que pagan los ciudadanos. <!-- feedback: Incorrecto. No es un impuesto. -->
 - [x] C) Un mecanismo mediante el cual los ciudadanos eligen a sus gobernantes. <!-- feedback: Correcto. El voto popular es la forma en que el pueblo elige sus representantes. -->
@@ -51,14 +57,15 @@ Este bundle explica el voto popular como mecanismo de participación ciudadana e
 ## Question 2 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W16-mecanismos-de-participacion-voto-popular-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Quién puede votar en Colombia
+**Contexto:** Quién puede votar en Colombia
 
 ### Enunciado
 ¿Quiénes pueden votar en Colombia?
 
-### Options
+### Opciones
 - [x] A) Los ciudadanos colombianos mayores de 18 años. <!-- feedback: Correcto. La Constitución establece que el voto es un derecho de los mayores de 18 años. -->
 - [ ] B) Solo los hombres. <!-- feedback: Incorrecto. Hombres y mujeres votan. -->
 - [ ] C) Solo las personas con propiedades. <!-- feedback: Incorrecto. No se necesita ser propietario. -->
@@ -72,14 +79,15 @@ Este bundle explica el voto popular como mecanismo de participación ciudadana e
 ## Question 3 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W16-mecanismos-de-participacion-voto-popular-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Importancia del voto
+**Contexto:** Importancia del voto
 
 ### Enunciado
 ¿Por qué es importante votar?
 
-### Options
+### Opciones
 - [ ] A) Porque es obligatorio y si no voto me multan. <!-- feedback: Parcialmente en Colombia es obligatorio, pero la razón principal es más profunda. -->
 - [ ] B) Porque es una tradición familiar. <!-- feedback: Incorrecto. Es más que una tradición. -->
 - [x] C) Porque así los ciudadanos participan en las decisiones del país y eligen a sus representantes. <!-- feedback: Correcto. El voto es el principal mecanismo de participación democrática. -->
@@ -93,14 +101,15 @@ Este bundle explica el voto popular como mecanismo de participación ciudadana e
 ## Question 4 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W16-mecanismos-de-participacion-voto-popular-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Voto secreto
+**Contexto:** Voto secreto
 
 ### Enunciado
 ¿Qué significa que el voto sea secreto en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Que nadie puede votar. <!-- feedback: Incorrecto. Todo lo contrario. -->
 - [x] B) Que nadie puede obligar a un ciudadano a decir por quién votó. <!-- feedback: Correcto. El secreto del voto protege la libertad del ciudadano. -->
 - [ ] C) Que solo votan los secretarios. <!-- feedback: Incorrecto. No es un juego de palabras. -->
@@ -114,14 +123,15 @@ Este bundle explica el voto popular como mecanismo de participación ciudadana e
 ## Question 5 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W16-mecanismos-de-participacion-voto-popular-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Elecciones en Colombia
+**Contexto:** Elecciones en Colombia
 
 ### Enunciado
 ¿Cada cuánto se celebran elecciones presidenciales en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Cada año. <!-- feedback: Incorrecto. No son anuales. -->
 - [ ] B) Cada 2 años. <!-- feedback: Incorrecto. El período presidencial es más largo. -->
 - [x] C) Cada 4 años. <!-- feedback: Correcto. El presidente se elige cada 4 años. -->
@@ -135,14 +145,15 @@ Este bundle explica el voto popular como mecanismo de participación ciudadana e
 ## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W16-mecanismos-de-participacion-voto-popular-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Tarjetón electoral
+**Contexto:** Tarjetón electoral
 
 ### Enunciado
 ¿Cómo se llama el papel donde los ciudadanos marcan su voto en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Un recibo de compra. <!-- feedback: Incorrecto. No es un recibo. -->
 - [ ] B) Una factura. <!-- feedback: Incorrecto. No es una factura. -->
 - [x] C) El tarjetón electoral. <!-- feedback: Correcto. El tarjetón contiene los nombres y fotos de los candidatos. -->
@@ -156,14 +167,15 @@ Este bundle explica el voto popular como mecanismo de participación ciudadana e
 ## Question 7 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W16-mecanismos-de-participacion-voto-popular-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Voto en blanco
+**Contexto:** Voto en blanco
 
 ### Enunciado
 ¿Qué significa votar en blanco en una elección?
 
-### Options
+### Opciones
 - [ ] A) Que no se votó. <!-- feedback: Incorrecto. Votar en blanco es una opción válida. -->
 - [x] B) Que el ciudadano no apoya a ningún candidato y manifiesta su inconformidad. <!-- feedback: Correcto. El voto en blanco es una expresión de descontento con las opciones. -->
 - [ ] C) Que el voto no cuenta. <!-- feedback: Incorrecto. El voto en blanco sí cuenta y puede tener efectos legales. -->
@@ -177,14 +189,15 @@ Este bundle explica el voto popular como mecanismo de participación ciudadana e
 ## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W16-mecanismos-de-participacion-voto-popular-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Participación juvenil
+**Contexto:** Participación juvenil
 
 ### Enunciado
 ¿Cómo pueden participar los jóvenes en los procesos electorales si aún no tienen edad para votar?
 
-### Options
+### Opciones
 - [ ] A) No pueden participar de ninguna forma. <!-- feedback: Incorrecto. Hay formas de participar. -->
 - [ ] B) Pueden votar si piden permiso a sus padres. <!-- feedback: Incorrecto. La ley no lo permite. -->
 - [x] C) Informándose sobre los candidatos, debatiendo en familia y participando en campañas de concientización. <!-- feedback: Correcto. Los jóvenes pueden participar de forma activa aunque no voten. -->
@@ -198,14 +211,15 @@ Este bundle explica el voto popular como mecanismo de participación ciudadana e
 ## Question 9 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W16-mecanismos-de-participacion-voto-popular-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Responsabilidad del voto
+**Contexto:** Responsabilidad del voto
 
 ### Enunciado
 ¿Crees que votar es un derecho, un deber o ambas cosas?
 
-### Options
+### Opciones
 - [ ] A) Solo un derecho que se puede ejercer o no. <!-- feedback: Parcialmente, también es un deber. -->
 - [ ] B) Solo un deber obligatorio. <!-- feedback: Incorrecto. También es un derecho. -->
 - [x] C) Es ambas cosas: un derecho que tenemos los ciudadanos y un deber cívico para construir democracia. <!-- feedback: Correcto. Votar es un derecho y un deber de los ciudadanos. -->
@@ -220,13 +234,14 @@ Este bundle explica el voto popular como mecanismo de participación ciudadana e
 
 **ID:** `COL-SOC-CIU-4-2026-W16-mecanismos-de-participacion-voto-popular-001-MASTERY-v10`
 **Bloom:** [Create]
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Campaña escolar
+**Contexto:** Campaña escolar
 
 ### Enunciado
 Diseña una campaña para motivar a los ciudadanos de tu barrio a votar en las próximas elecciones.
 
-### Options
+### Opciones
 - [ ] A) Decirles que si no votan les va mal. <!-- feedback: Incorrecto. Usar miedo no es buena estrategia. -->
 - [x] B) Organizar charlas informativas, repartir volantes con los beneficios del voto y hacer videos para redes sociales. <!-- feedback: Correcto. Una campaña informativa y positiva fomenta la participación. -->
 - [ ] C) Ignorar las elecciones. <!-- feedback: Incorrecto. La campaña busca motivar, no ignorar. -->

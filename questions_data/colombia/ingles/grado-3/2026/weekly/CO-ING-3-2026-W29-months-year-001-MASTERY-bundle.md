@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W29-months-year-001-MASTERY"
+id: "CO-ING-3-2026-W29-months-year-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "months-year"
 periodo: "weekly"
-semana: 29
+week: "W29"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "Vocabulary for the twelve months of the year."
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W29: Months of the Year (A1)
 
@@ -32,11 +37,12 @@ Este bundle evalúa el vocabulario de los meses del año en inglés.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is the **first** month of the year?
 
-### Options
+### Opciones
 - [ ] A) February <!-- feedback: Incorrect. -->
 - [x] B) January <!-- feedback: Correct! January is enero. -->
 - [ ] C) March <!-- feedback: Incorrect. -->
@@ -52,11 +58,12 @@ Enero se dice "January". Es el mes número 1.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is the **last** month of the year? 🎄
 
-### Options
+### Opciones
 - [ ] A) November <!-- feedback: Incorrect. -->
 - [x] B) December <!-- feedback: Correct! December is diciembre. -->
 - [ ] C) October <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ Diciembre se dice "December". Es el mes número 12 y cuando celebramos Navidad.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What month comes after **August**?
 
-### Options
+### Opciones
 - [ ] A) July <!-- feedback: Incorrect. -->
 - [ ] B) October <!-- feedback: Incorrect. -->
 - [x] C) September <!-- feedback: Correct! August -> September. -->
@@ -92,11 +100,12 @@ Septiembre se dice "September". Va después de agosto (August).
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 How many months are in a **year**?
 
-### Options
+### Opciones
 - [ ] A) Seven <!-- feedback: Incorrect. That's days in a week. -->
 - [ ] B) Ten <!-- feedback: Incorrect. -->
 - [x] C) Twelve <!-- feedback: Correct! -->
@@ -112,11 +121,12 @@ Un año tiene doce (twelve) meses.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Abril"** in English?
 
-### Options
+### Opciones
 - [ ] A) May <!-- feedback: Incorrect. May is mayo. -->
 - [x] B) April <!-- feedback: Correct! -->
 - [ ] C) June <!-- feedback: Incorrect. -->
@@ -132,11 +142,12 @@ Abril se escribe "April" en inglés. Se parece mucho al español.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 In which month is **Halloween**? 🎃
 
-### Options
+### Opciones
 - [ ] A) September <!-- feedback: Incorrect. -->
 - [x] B) October <!-- feedback: Correct! Halloween is in October. -->
 - [ ] C) November <!-- feedback: Incorrect. -->
@@ -152,11 +163,12 @@ Octubre se dice "October". Es el mes de las brujas y disfraces.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Julio"** in English?
 
-### Options
+### Opciones
 - [x] A) July <!-- feedback: Correct! -->
 - [ ] B) June <!-- feedback: Incorrect. June is junio. -->
 - [ ] C) January <!-- feedback: Incorrect. -->
@@ -172,11 +184,12 @@ Julio se dice "July".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Which month is between **May** and **July**?
 
-### Options
+### Opciones
 - [ ] A) April <!-- feedback: Incorrect. -->
 - [ ] B) August <!-- feedback: Incorrect. -->
 - [x] C) June <!-- feedback: Correct! May, June, July. -->
@@ -192,11 +205,12 @@ Junio se dice "June". Está entre mayo y julio.
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 In Colombia, we celebrate **Mother's Day** (Día de la Madre) in:
 
-### Options
+### Opciones
 - [ ] A) April <!-- feedback: Incorrect. -->
 - [x] B) May <!-- feedback: Correct! Mother's day is in May. -->
 - [ ] C) June <!-- feedback: Incorrect. -->
@@ -212,11 +226,12 @@ El mes de las madres en Colombia es mayo, que en inglés se dice "May".
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 How do you ask someone about their **birthday**?
 
-### Options
+### Opciones
 - [ ] A) How old are you? <!-- feedback: Incorrect. This asks for age. -->
 - [x] B) When is your birthday? <!-- feedback: Correct! -->
 - [ ] C) What is your birthday? <!-- feedback: Incorrect structure. -->

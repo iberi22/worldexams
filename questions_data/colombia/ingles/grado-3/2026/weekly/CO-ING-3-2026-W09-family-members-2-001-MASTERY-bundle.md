@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W09-family-members-2-001-MASTERY"
+id: "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "family-members-2"
 periodo: "weekly"
-semana: 9
+week: "W09"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "Vocabulary for extended family members: grandfather, grandmoth
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W09: Family Members 2 (A1)
 
@@ -32,11 +37,12 @@ Este bundle evalúa el vocabulario de la familia extendida (abuelos, tíos, prim
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Abuela"** in English?
 
-### Options
+### Opciones
 - [ ] A) Grandfather <!-- feedback: Incorrect. That is abuelo. -->
 - [x] B) Grandmother <!-- feedback: Correct! Grandmother is abuela. -->
 - [ ] C) Mother <!-- feedback: Incorrect. -->
@@ -52,11 +58,12 @@ What is **"Abuela"** in English?
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Abuelo"** in English?
 
-### Options
+### Opciones
 - [x] A) Grandfather <!-- feedback: Correct! Grandfather is abuelo. -->
 - [ ] B) Grandmother <!-- feedback: Incorrect. -->
 - [ ] C) Father <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ What is **"Abuelo"** in English?
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Tío"** in English?
 
-### Options
+### Opciones
 - [ ] A) Aunt <!-- feedback: Incorrect. Aunt is tía. -->
 - [x] B) Uncle <!-- feedback: Correct! Uncle is tío. -->
 - [ ] C) Cousin <!-- feedback: Incorrect. Cousin is primo/a. -->
@@ -92,11 +100,12 @@ What is **"Tío"** in English?
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Tía"** in English?
 
-### Options
+### Opciones
 - [x] A) Aunt <!-- feedback: Correct! Aunt is tía. -->
 - [ ] B) Uncle <!-- feedback: Incorrect. -->
 - [ ] C) Sister <!-- feedback: Incorrect. -->
@@ -112,11 +121,12 @@ What is **"Tía"** in English?
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Primo"** or **"Prima"** in English?
 
-### Options
+### Opciones
 - [ ] A) Brother <!-- feedback: Incorrect. -->
 - [ ] B) Sister <!-- feedback: Incorrect. -->
 - [x] C) Cousin <!-- feedback: Correct! Cousin serves for both boys and girls. -->
@@ -132,11 +142,12 @@ En inglés, "cousin" se usa tanto para primo como para prima. ¡Es muy fácil!
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Your mother's mother is your:
 
-### Options
+### Opciones
 - [ ] A) Aunt <!-- feedback: Incorrect. -->
 - [x] B) Grandmother <!-- feedback: Correct! Your mom's mom is your grandma. -->
 - [ ] C) Sister <!-- feedback: Incorrect. -->
@@ -152,11 +163,12 @@ La madre de tu mamá es tu abuela (grandmother).
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Your father's brother is your:
 
-### Options
+### Opciones
 - [ ] A) Grandfather <!-- feedback: Incorrect. -->
 - [x] B) Uncle <!-- feedback: Correct! Your dad's brother is your uncle. -->
 - [ ] C) Cousin <!-- feedback: Incorrect. -->
@@ -172,11 +184,12 @@ El hermano de tu papá es tu tío (uncle).
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Grandmother + Grandfather = ?
 
-### Options
+### Opciones
 - [ ] A) Parents <!-- feedback: Incorrect. -->
 - [x] B) Grandparents <!-- feedback: Correct! They are your grandparents. -->
 - [ ] C) Cousins <!-- feedback: Incorrect. -->
@@ -192,11 +205,12 @@ Al igual que "parents" son mamá y papá, "grandparents" son la abuela y el abue
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Who is your uncle's son?
 
-### Options
+### Opciones
 - [ ] A) Your brother <!-- feedback: Incorrect. -->
 - [x] B) Your cousin <!-- feedback: Correct! Your uncle's child is your cousin. -->
 - [ ] C) Your father <!-- feedback: Incorrect. -->
@@ -212,11 +226,12 @@ El hijo de tu tío es tu primo (cousin).
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 How do you say **"Mi familia"**?
 
-### Options
+### Opciones
 - [ ] A) My family is <!-- feedback: Incorrect. -->
 - [x] B) My family <!-- feedback: Correct! -->
 - [ ] C) Me family <!-- feedback: Incorrect. -->

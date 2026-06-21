@@ -1,5 +1,5 @@
 ---
-id: "CO-ING-4-2026-P3-food-drink-001-MASTERY"
+id: "CO-ING-4-2026-P3-food-drink-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "ingles"
@@ -17,19 +17,27 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Language and Communication"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 ## Question 1 [D3]
 
 **ID:** `CO-ING-4-2026-P3-food-drink-001-MASTERY-v1`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Talking about preferences.
+**Contexto:** Talking about preferences.
 
 ### Enunciado
 I ________ apples, they are my favorite fruit!
 
-### Options
+### Opciones
 - [ ] A) hate <!-- feedback: Incorrect. "Hate" means you don't like them at all, which contradicts "favorite fruit." -->
 - [x] B) love <!-- feedback: Correct. "Love" expresses a strong preference, matching the description of "favorite." -->
 - [ ] C) doesn't like <!-- feedback: Incorrect. We use "don't like" for the subject "I". Also, the second part of the sentence is positive. -->
@@ -43,14 +51,15 @@ This question evaluates the use of verbs for preferences (likes/dislikes) and su
 ## Question 2 [D3]
 
 **ID:** `CO-ING-4-2026-P3-food-drink-001-MASTERY-v2`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Healthy habits.
+**Contexto:** Healthy habits.
 
 ### Enunciado
 It is important to drink ________ every day to stay hydrated.
 
-### Options
+### Opciones
 - [ ] A) soda <!-- feedback: Incorrect. Soda has a lot of sugar and is not the best way to stay healthy and hydrated. -->
 - [x] B) water <!-- feedback: Correct. Water is the most important liquid for healthy hydration. -->
 - [ ] C) coffee <!-- feedback: Incorrect. While coffee is a drink, water is the standard recommendation for hydration in health contexts. -->
@@ -64,14 +73,15 @@ This question evaluates basic food and drink vocabulary and health-related conte
 ## Question 3 [D4]
 
 **ID:** `CO-ING-4-2026-P3-food-drink-001-MASTERY-v3`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Countable vs Uncountable nouns.
+**Contexto:** Countable vs Uncountable nouns.
 
 ### Enunciado
 There is ________ milk in the fridge.
 
-### Options
+### Opciones
 - [ ] A) a <!-- feedback: Incorrect. "Milk" is uncountable, so we cannot use the article "a" (which means "one"). -->
 - [x] B) some <!-- feedback: Correct. We use "some" with uncountable nouns in positive sentences to indicate an indefinite quantity. -->
 - [ ] C) many <!-- feedback: Incorrect. "Many" is only used with countable plural nouns like "apples" or "cookies". -->
@@ -85,15 +95,16 @@ This question evaluates the use of quantifiers with uncountable nouns. "Milk" is
 ## Question 4 [D4]
 
 **ID:** `CO-ING-4-2026-P3-food-drink-001-MASTERY-v4`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Shopping for fruit.
+**Contexto:** Shopping for fruit.
 
 ### Enunciado
 How ________ bananas do you want?
 "I want five, please."
 
-### Options
+### Opciones
 - [ ] A) much <!-- feedback: Incorrect. "Much" is used for uncountable nouns like sugar or water. Bananas are countable. -->
 - [x] B) many <!-- feedback: Correct. "Many" is used in questions with countable plural nouns (bananas). -->
 - [ ] C) some <!-- feedback: Incorrect. We don't use "some" in the structure "How... do you want?". -->
@@ -107,14 +118,15 @@ This question evaluates the distinction between "How much" and "How many". The s
 ## Question 5 [D4]
 
 **ID:** `CO-ING-4-2026-P3-food-drink-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Negative preferences.
+**Contexto:** Negative preferences.
 
 ### Enunciado
 My brother ________ (not / like) onions in his soup.
 
-### Options
+### Opciones
 - [ ] A) don't like <!-- feedback: Incorrect. For "my brother" (he), we use the auxiliary "doesn't". -->
 - [x] B) doesn't like <!-- feedback: Correct. "Doesn't like" is the correct negative form for the third-person singular (he/she/it). -->
 - [ ] C) no like <!-- feedback: Incorrect. This is a common error based on Spanish translation ("no le gusta"). English needs "doesn't". -->
@@ -128,14 +140,15 @@ This question evaluates the negative form of "like" in the third person. The stu
 ## Question 6 [D5]
 
 **ID:** `CO-ING-4-2026-P3-food-drink-001-MASTERY-v6`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Lunch in Colombia.
+**Contexto:** Lunch in Colombia.
 
 ### Enunciado
 In a typical Colombian lunch (bandeja paisa), you can find:
 
-### Options
+### Opciones
 - [x] A) rice, beans, and meat <!-- feedback: Correct. These are the main ingredients of a traditional Colombian lunch. -->
 - [ ] B) sushi and seaweed <!-- feedback: Incorrect. These are typical of Japanese food, not traditional Colombian food. -->
 - [ ] C) hamburgers and french fries <!-- feedback: Incorrect. While popular, these are considered fast food of international origin, not a "typical" traditional lunch. -->
@@ -149,14 +162,15 @@ This question evaluates cultural vocabulary related to food in Colombia. The stu
 ## Question 7 [D5]
 
 **ID:** `CO-ING-4-2026-P3-food-drink-001-MASTERY-v7`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Breakfast time.
+**Contexto:** Breakfast time.
 
 ### Enunciado
 I usually have ________ for breakfast. I love scrambled eggs!
 
-### Options
+### Opciones
 - [ ] A) chicken <!-- feedback: Incorrect. Chicken is usually for lunch or dinner, not a common breakfast choice. -->
 - [x] B) eggs and bread <!-- feedback: Correct. This is a very common breakfast combination in many cultures, including Colombia. -->
 - [ ] C) salad and soup <!-- feedback: Incorrect. These are typically lunch or dinner dishes. -->
@@ -170,14 +184,15 @@ This question evaluates the ability to categorize foods by mealtime. The mention
 ## Question 8 [D4]
 
 **ID:** `CO-ING-4-2026-P3-food-drink-001-MASTERY-v8`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Expressing thirst.
+**Contexto:** Expressing thirst.
 
 ### Enunciado
 I am very ________. Can I have some orange juice, please?
 
-### Options
+### Opciones
 - [ ] A) hungry <!-- feedback: Incorrect. "Hungry" means you want to eat food. Juice is a drink. -->
 - [x] B) thirsty <!-- feedback: Correct. "Thirsty" is the feeling of needing to drink a liquid like juice. -->
 - [ ] C) tired <!-- feedback: Incorrect. "Tired" means you need to rest or sleep, not necessarily drink. -->
@@ -191,14 +206,15 @@ This question evaluates the adjectives for physical needs: "hungry" (food) vs. "
 ## Question 9 [D5]
 
 **ID:** `CO-ING-4-2026-P3-food-drink-001-MASTERY-v9`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Using "any" in negatives.
+**Contexto:** Using "any" in negatives.
 
 ### Enunciado
 We don't have ________ sugar for the juice. We need to buy some.
 
-### Options
+### Opciones
 - [ ] A) some <!-- feedback: Incorrect. In negative sentences, we typically use "any" instead of "some". -->
 - [x] B) any <!-- feedback: Correct. "Any" is used with uncountable or plural countable nouns in negative sentences and questions. -->
 - [ ] C) a <!-- feedback: Incorrect. "Sugar" is uncountable, so we cannot use "a". -->
@@ -212,15 +228,16 @@ This question evaluates the use of "any" in negative sentences with uncountable 
 ## Question 10 [D5]
 
 **ID:** `CO-ING-4-2026-P3-food-drink-001-MASTERY-v10`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Comunicación y representación]
-**Context:** Ordering food.
+**Contexto:** Ordering food.
 
 ### Enunciado
 In a restaurant, the waiter asks: "What would you like to ________?"
 You answer: "I would like a chicken sandwich, please."
 
-### Options
+### Opciones
 - [ ] A) drink <!-- feedback: Incorrect. A sandwich is something you eat, not something you drink. -->
 - [x] B) eat <!-- feedback: Correct. The response "chicken sandwich" (a food) matches the verb "eat". -->
 - [ ] C) play <!-- feedback: Incorrect. You don't "play" food in a restaurant. -->

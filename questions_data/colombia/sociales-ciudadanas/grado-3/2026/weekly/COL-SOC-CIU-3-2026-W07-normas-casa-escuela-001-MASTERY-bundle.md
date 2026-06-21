@@ -1,10 +1,10 @@
 ---
-id: "COL-SOC-CIU-3-2026-W07-normas-casa-escuela-001-MASTERY"
+id: "COL-SOC-CIU-3-2026-W07-normas-casa-escuela-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "sociales-ciudadanas"
 tema: "normas-casa-escuela"
-semana: "W07"
+week: "W07"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 8
@@ -19,7 +19,12 @@ rubric_baseline: "normas_convivencia, normas_casa, normas_escuela, derechos_debe
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Normas en Casa y en la Escuela
 
@@ -27,13 +32,14 @@ Este bundle cubre las normas de convivencia en el hogar y en la escuela colombia
 
 ---
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 
 **ID:** `COL-SOC-CIU-3-2026-W07-normas-casa-escuela-001-MASTERY-v1`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento social
 **Expected_Success:** 0.86
-**Context:** En la clase de Sociales de la I.E. Policarpa Salavarrieta de Bogotá, la profesora pregunta sobre las normas en la casa.
+**Contexto:** En la clase de Sociales de la I.E. Policarpa Salavarrieta de Bogotá, la profesora pregunta sobre las normas en la casa.
 
 ### Enunciado
 ¿Cuál de las siguientes es una norma común en los hogares colombianos?
@@ -49,13 +55,14 @@ Las normas en el hogar son acuerdos que permiten la convivencia familiar. En Col
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `COL-SOC-CIU-3-2026-W07-normas-casa-escuela-001-MASTERY-v2`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento social
 **Expected_Success:** 0.84
-**Context:** En la I.E. Jorge Eliécer Gaitán de Facatativá, los estudiantes repasan las normas del colegio.
+**Contexto:** En la I.E. Jorge Eliécer Gaitán de Facatativá, los estudiantes repasan las normas del colegio.
 
 ### Enunciado
 ¿Dónde están escritas las normas que debemos seguir en el colegio?
@@ -71,13 +78,14 @@ El manual de convivencia es el documento oficial de cada institución educativa 
 
 ---
 
-## Pregunta 3 [D2]
+## Question 3 [D2]
 
 **ID:** `COL-SOC-CIU-3-2026-W07-normas-casa-escuela-001-MASTERY-v3`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Interpretación y análisis de perspectivas
 **Expected_Success:** 0.78
-**Context:** La profesora de la I.E. Manuel Elkin Patarroyo de Fusagasugá pregunta por qué existen normas.
+**Contexto:** La profesora de la I.E. Manuel Elkin Patarroyo de Fusagasugá pregunta por qué existen normas.
 
 ### Enunciado
 ¿Por qué es necesario tener normas tanto en la casa como en la escuela?
@@ -93,13 +101,14 @@ Las normas son acuerdos sociales que permiten la convivencia pacífica. En la ca
 
 ---
 
-## Pregunta 4 [D2]
+## Question 4 [D2]
 
 **ID:** `COL-SOC-CIU-3-2026-W07-normas-casa-escuela-001-MASTERY-v4`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Interpretación y análisis de perspectivas
 **Expected_Success:** 0.75
-**Context:** En la I.E. Técnico Industrial de Piedecuesta, el profesor pregunta sobre los derechos de los niños.
+**Contexto:** En la I.E. Técnico Industrial de Piedecuesta, el profesor pregunta sobre los derechos de los niños.
 
 ### Enunciado
 Los niños tienen derechos en la casa y en la escuela. ¿Cuál de los siguientes es un derecho que los niños tienen en ambos lugares?
@@ -115,13 +124,14 @@ Los derechos de los niños están protegidos por la Constitución colombiana y e
 
 ---
 
-## Pregunta 5 [D3]
+## Question 5 [D3]
 
 **ID:** `COL-SOC-CIU-3-2026-W07-normas-casa-escuela-001-MASTERY-v5`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.65
-**Context:** En la I.E. La Vega de Sopó, dos estudiantes tienen un conflicto en el descanso.
+**Contexto:** En la I.E. La Vega de Sopó, dos estudiantes tienen un conflicto en el descanso.
 
 ### Enunciado
 Dos estudiantes de grado 3 están peleando porque uno le quitó la lonchera al otro. ¿Cuál es la mejor manera de resolver este conflicto según las normas de convivencia escolar?
@@ -137,13 +147,14 @@ La resolución pacífica de conflictos es una habilidad fundamental que se ense�
 
 ---
 
-## Pregunta 6 [D3]
+## Question 6 [D3]
 
 **ID:** `COL-SOC-CIU-3-2026-W07-normas-casa-escuela-001-MASTERY-v6`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.62
-**Context:** En la I.E. Juan Pablo II de Apartadó, los estudiantes hablan sobre las responsabilidades en casa.
+**Contexto:** En la I.E. Juan Pablo II de Apartadó, los estudiantes hablan sobre las responsabilidades en casa.
 
 ### Enunciado
 María tiene 8 años y su mamá le pidió que hiciera la tarea antes de ver televisión. María quiere ver su programa favorito primero. ¿Qué debe hacer María?
@@ -159,13 +170,14 @@ En el hogar, los niños aprenden a priorizar responsabilidades. Las normas famil
 
 ---
 
-## Pregunta 7 [D4]
+## Question 7 [D4]
 
 **ID:** `COL-SOC-CIU-3-2026-W07-normas-casa-escuela-001-MASTERY-v7`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **ICFES category:** Razonamiento y Argumentación
 **Expected_Success:** 0.52
-**Context:** En la I.E. Francisco José de Caldas de Chiquinquirá, el profesor pregunta sobre la relación entre derechos y deberes.
+**Contexto:** En la I.E. Francisco José de Caldas de Chiquinquirá, el profesor pregunta sobre la relación entre derechos y deberes.
 
 ### Enunciado
 Un estudiante dice: "Tengo derecho a que me enseñen, pero no tengo deber de prestar atención en clase". ¿Es correcta esta afirmación?
@@ -181,13 +193,14 @@ En Colombia, la Constitución establece que toda persona tiene derechos pero tam
 
 ---
 
-## Pregunta 8 [D5]
+## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-3-2026-W07-normas-casa-escuela-001-MASTERY-v8`
 **Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.42
-**Context:** En la I.E. Integrada de Girón, los estudiantes de grado 3 participan en un debate sobre las normas.
+**Contexto:** En la I.E. Integrada de Girón, los estudiantes de grado 3 participan en un debate sobre las normas.
 
 ### Enunciado
 En la clase de Sociales, los estudiantes proponen crear nuevas normas para el salón. Un niño propone: "Propongo que todos podamos hablar al mismo tiempo sin levantar la mano". Otro responde: "Eso no funcionaría". ¿Por qué no funcionaría esa norma?

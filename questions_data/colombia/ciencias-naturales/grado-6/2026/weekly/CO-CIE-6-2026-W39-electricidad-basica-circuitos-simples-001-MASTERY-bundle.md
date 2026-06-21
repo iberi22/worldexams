@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W39-electricidad-basica-circuitos-simples-001-MASTERY"
+id: "CO-CIE-6-2026-W39-electricidad-basica-circuitos-simples-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W39 — Electricidad Básica: Circuitos Simples
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W39-electricidad-basica-circuitos-simples-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, estudiantes definen corriente eléctrica.
+**Contexto:** En Bogotá, estudiantes definen corriente eléctrica.
 
 ### Enunciado
 ¿Qué es la corriente eléctrica?
 
-### Options
+### Opciones
 - [ ] A) El movimiento de protones a través de un material <!-- feedback: Los protones están fijos en el núcleo y no se mueven libremente. -->
 - [x] B) El flujo ordenado de electrones a través de un material conductor <!-- feedback: Correcto. Los electrones se mueven por el conductor. -->
 - [ ] C) La acumulación de cargas estáticas en un objeto <!-- feedback: Eso es electricidad estática, no corriente. -->
@@ -59,13 +62,14 @@ La corriente se mide en **amperios (A)** y se puede medir con un **amperímetro*
 
 **ID:** `CO-CIE-6-2026-W39-electricidad-basica-circuitos-simples-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, estudiantes identifican componentes de un circuito.
+**Contexto:** En Medellín, estudiantes identifican componentes de un circuito.
 
 ### Enunciado
 ¿Cuáles son los componentes básicos de un circuito eléctrico simple?
 
-### Options
+### Opciones
 - [ ] A) Una pila y un cable solamente <!-- feedback: Falta el receptor (bombillo, motor). -->
 - [ ] B) Un bombillo y un interruptor <!-- feedback: Falta la fuente de energía. -->
 - [x] C) Una fuente de energía (pila), un conductor (cable), un receptor (bombillo) y un interruptor (opcional) <!-- feedback: Correcto. Todos los elementos son necesarios. -->
@@ -104,13 +108,14 @@ Un **circuito eléctrico básico** requiere:
 
 **ID:** `CO-CIE-6-2026-W39-electricidad-basica-circuitos-simples-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, estudiantes explican la diferencia entre materiales conductores y aislantes.
+**Contexto:** En Cali, estudiantes explican la diferencia entre materiales conductores y aislantes.
 
 ### Enunciado
 ¿Cuál de los siguientes materiales es un CONDUCTOR de la electricidad?
 
-### Options
+### Opciones
 - [ ] A) Plástico <!-- feedback: El plástico es un aislante (no conduce electricidad). -->
 - [ ] B) Madera <!-- feedback: La madera seca es aislante. -->
 - [x] C) Cobre <!-- feedback: Correcto. Los metales como el cobre son excelentes conductores. -->
@@ -143,13 +148,14 @@ Los materiales se clasifican según su capacidad de conducir la electricidad:
 
 **ID:** `CO-CIE-6-2026-W39-electricidad-basica-circuitos-simples-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, estudiantes explican la Ley de Ohm.
+**Contexto:** En Barranquilla, estudiantes explican la Ley de Ohm.
 
 ### Enunciado
 Según la Ley de Ohm, ¿cuál es la relación entre voltaje (V), corriente (I) y resistencia (R)?
 
-### Options
+### Opciones
 - [ ] A) V = I × R (voltaje = corriente × resistencia) <!-- feedback: Correcto. -->
 - [ ] B) I = V × R (corriente = voltaje × resistencia) <!-- feedback: Incorrecto. I = V/R. -->
 - [ ] C) R = V × I (resistencia = voltaje × corriente) <!-- feedback: Incorrecto. R = V/I. -->
@@ -187,13 +193,14 @@ La **Ley de Ohm** es la relación fundamental entre voltaje, corriente y resiste
 
 **ID:** `CO-CIE-6-2026-W39-electricidad-basica-circuitos-simples-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, estudiantes construyen un circuito en serie.
+**Contexto:** En Bucaramanga, estudiantes construyen un circuito en serie.
 
 ### Enunciado
 En un circuito en serie con dos bombillos, si se funde (daña) uno de los bombillos, ¿qué ocurre?
 
-### Options
+### Opciones
 - [ ] A) El otro bombillo se enciende más fuerte <!-- feedback: No puede encenderse porque el circuito está interrumpido. -->
 - [ ] B) El otro bombillo sigue funcionando normalmente <!-- feedback: En serie no, porque el circuito se rompe. -->
 - [x] C) El otro bombillo se apaga porque el circuito se interrumpe (ya no hay un camino completo para los electrones) <!-- feedback: Correcto. En serie, todos los componentes comparten el mismo camino. -->
@@ -230,13 +237,14 @@ En las casas colombianas, los circuitos de iluminación están en **paralelo**: 
 
 **ID:** `CO-CIE-6-2026-W39-electricidad-basica-circuitos-simples-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, estudiantes comparan circuitos en serie y paralelo.
+**Contexto:** En Cartagena, estudiantes comparan circuitos en serie y paralelo.
 
 ### Enunciado
 ¿Por qué las luces de una casa están conectadas en paralelo y no en serie?
 
-### Options
+### Opciones
 - [ ] A) Porque se ahorran cables <!-- feedback: En paralelo se necesitan más cables. -->
 - [ ] B) Porque en paralelo las bombillas son más brillantes <!-- feedback: Tienen el voltaje completo, pero esa no es la razón principal. -->
 - [x] C) Porque en paralelo cada bombilla funciona independientemente: puedes apagar una sin afectar las demás, y todas reciben el voltaje completo <!-- feedback: Correcto. Independencia y voltaje completo. -->
@@ -270,13 +278,14 @@ Las casas se cablean en **paralelo** por dos razones fundamentales:
 
 **ID:** `CO-CIE-6-2026-W39-electricidad-basica-circuitos-simples-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan los cortocircuitos.
+**Contexto:** En Pereira, analizan los cortocircuitos.
 
 ### Enunciado
 ¿Qué es un cortocircuito y por qué es peligroso?
 
-### Options
+### Opciones
 - [ ] A) Es cuando un circuito tiene muy pocos componentes <!-- feedback: Eso solo sería un circuito simple. -->
 - [ ] B) Es cuando la corriente encuentra un camino de muy baja resistencia (sin pasar por el receptor), generando una corriente muy alta que calienta excesivamente los cables y puede causar un incendio <!-- feedback: Correcto. -->
 - [ ] C) Es cuando el interruptor está apagado <!-- feedback: Interruptor apagado = circuito abierto, no cortocircuito. -->
@@ -316,13 +325,14 @@ Según la Ley de Ohm: **I = V / R**
 
 **ID:** `CO-CIE-6-2026-W39-electricidad-basica-circuitos-simples-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, analizan el efecto Joule.
+**Contexto:** En Manizales, analizan el efecto Joule.
 
 ### Enunciado
 ¿Por qué los cables de las torres de alta tensión se fabrican de aluminio y no de oro, aunque el oro es mejor conductor?
 
-### Options
+### Opciones
 - [ ] A) Porque el aluminio es más bonito <!-- feedback: No es la razón. -->
 - [ ] B) Porque el aluminio es mejor conductor que el oro <!-- feedback: El oro es mejor conductor que el aluminio. -->
 - [x] C) Porque el aluminio es mucho más barato y ligero que el oro, y conduce suficientemente bien para transmitir electricidad a largas distancias <!-- feedback: Correcto. Relación costo-beneficio. -->
@@ -358,13 +368,14 @@ La elección de materiales para conductores eléctricos implica un balance entre
 
 **ID:** `CO-CIE-6-2026-W39-electricidad-basica-circuitos-simples-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan la seguridad eléctrica en el hogar.
+**Contexto:** En Cúcuta, evalúan la seguridad eléctrica en el hogar.
 
 ### Enunciado
 ¿Cuál de las siguientes prácticas es MÁS PELIGROSA en un hogar?
 
-### Options
+### Opciones
 - [ ] A) Usar un enchufe con toma a tierra <!-- feedback: La toma a tierra es una medida de seguridad. -->
 - [ ] B) Desconectar un electrodoméstico agarrando el enchufe, no el cable <!-- feedback: Es la forma correcta de desconectar. -->
 - [x] C) Usar un "nido de triples" o extensiones múltiples sobrecargadas conectando varios electrodomésticos de alto consumo (nevera, microondas, plancha) <!-- feedback: Correcto. Puede sobrecalentar y causar incendio. -->
@@ -406,13 +417,14 @@ El uso incorrecto de **extensiones y multitomas** ("nidos de triples" o "regleta
 
 **ID:** `CO-CIE-6-2026-W39-electricidad-basica-circuitos-simples-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan la importancia de la electricidad en la sociedad.
+**Contexto:** En Ibagué, evalúan la importancia de la electricidad en la sociedad.
 
 ### Enunciado
 ¿Por qué la electricidad es considerada un servicio público esencial en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Porque es la forma más cara de energía <!-- feedback: No es la razón de su importancia. -->
 - [ ] B) Porque es divertido usarla <!-- feedback: No es la razón. -->
 - [x] C) Porque es indispensable para la vida moderna: permite la iluminación, conservación de alimentos, comunicación, educación, salud, funcionamiento de hospitales, industrias y el desarrollo económico <!-- feedback: Correcto. Sin electricidad la sociedad moderna no funciona. -->

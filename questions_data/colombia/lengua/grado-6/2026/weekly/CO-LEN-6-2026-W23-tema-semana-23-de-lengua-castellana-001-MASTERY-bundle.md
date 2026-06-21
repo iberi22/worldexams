@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-6-2026-W23-tema-semana-23-de-lengua-castellana-001-MASTERY"
+id: "CO-LEN-6-2026-W23-tema-semana-23-de-lengua-castellana-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lengua-castellana"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 10
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W23 — Tema Semana 23 de Lengua Castellana
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Pereira
+**Contexto:** Gimnasio Moderno en Pereira
 **Expected_Success:** 0.79
 
 ### Enunciado
 En la clase de Lengua Castellana del Gimnasio Moderno en Pereira, se discute sobre Tema Semana 23 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 23 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 23 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 23 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 23 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Riohacha
+**Contexto:** I.E. Santa Luisa de Marillac en Riohacha
 **Expected_Success:** 0.63
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Santa Luisa de Marillac en Riohacha, se discute sobre Tema Semana 23 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 23 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 23 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 23 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 23 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Pasto
+**Contexto:** Colegio Nacional San Bartolomé en Pasto
 **Expected_Success:** 0.58
 
 ### Enunciado
 En la clase de Lengua Castellana del Colegio Nacional San Bartolomé en Pasto, se discute sobre Tema Semana 23 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 23 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 23 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 23 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 23 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Cúcuta
+**Contexto:** Gimnasio Moderno en Cúcuta
 **Expected_Success:** 0.77
 
 ### Enunciado
 En la clase de Lengua Castellana del Gimnasio Moderno en Cúcuta, se discute sobre Tema Semana 23 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 23 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 23 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 23 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 23 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** I.E. Santa Luisa de Marillac en Barranquilla
+**Contexto:** I.E. Santa Luisa de Marillac en Barranquilla
 **Expected_Success:** 0.68
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Santa Luisa de Marillac en Barranquilla, se discute sobre Tema Semana 23 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 23 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 23 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 23 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 23 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Riohacha
+**Contexto:** I.E. Gabriel García Márquez en Riohacha
 **Expected_Success:** 0.58
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Gabriel García Márquez en Riohacha, se discute sobre Tema Semana 23 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 23 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 23 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 23 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 23 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Ibagué
+**Contexto:** Colegio La Presentación en Ibagué
 **Expected_Success:** 0.55
 
 ### Enunciado
 En la clase de Lengua Castellana del Colegio La Presentación en Ibagué, se discute sobre Tema Semana 23 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 23 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 23 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 23 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 23 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Cali
+**Contexto:** Gimnasio Moderno en Cali
 **Expected_Success:** 0.67
 
 ### Enunciado
 En la clase de Lengua Castellana del Gimnasio Moderno en Cali, se discute sobre Tema Semana 23 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 23 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 23 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 23 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 23 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** I.E. San José en Villavicencio
+**Contexto:** I.E. San José en Villavicencio
 **Expected_Success:** 0.72
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. San José en Villavicencio, se discute sobre Tema Semana 23 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 23 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 23 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 23 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 23 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Ibagué
+**Contexto:** Gimnasio Moderno en Ibagué
 **Expected_Success:** 0.72
 
 ### Enunciado
 En la clase de Lengua Castellana del Gimnasio Moderno en Ibagué, se discute sobre Tema Semana 23 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 23 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 23 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 23 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

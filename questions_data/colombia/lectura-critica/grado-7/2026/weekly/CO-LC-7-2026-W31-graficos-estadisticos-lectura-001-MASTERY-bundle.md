@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W31-graficos-estadisticos-lectura-001-MASTERY"
+id: "CO-LC-7-2026-W31-graficos-estadisticos-lectura-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "gráficos estadísticos"
-semana: "W31"
+week: "W31"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Gráficos Estadísticos - Grado 7
 ## Semana W31 — Lectura crítica e interpretación de gráficos estadísticos: barras, líneas, circulares, histogramas
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W31-graficos-estadisticos-lectura-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de Lectura Crítica del Colegio San Luis Gonzaga de Manizales, la profesora explica los tipos básicos de gráficos estadísticos.
+**Contexto:** En la clase de Lectura Crítica del Colegio San Luis Gonzaga de Manizales, la profesora explica los tipos básicos de gráficos estadísticos.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Los gráficos estadísticos son herramientas visuales para representar datos. Ca
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W31-graficos-estadisticos-lectura-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Una noticia muestra un gráfico circular con la distribución del presupuesto municipal de Popayán: 35% educación, 25% salud, 20% infraestructura, 15% seguridad, 5% cultura.
+**Contexto:** Una noticia muestra un gráfico circular con la distribución del presupuesto municipal de Popayán: 35% educación, 25% salud, 20% infraestructura, 15% seguridad, 5% cultura.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -60,11 +64,11 @@ El gráfico circular (o de pastel) representa las partes de un todo: cada sector
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W31-graficos-estadisticos-lectura-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un estudiante ve un gráfico de barras que compara las ventas de cuatro marcas de café colombiano en 2024.
+**Contexto:** Un estudiante ve un gráfico de barras que compara las ventas de cuatro marcas de café colombiano en 2024.
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -81,11 +85,11 @@ El gráfico de barras es uno de los más versátiles y fáciles de interpretar. 
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W31-graficos-estadisticos-lectura-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Un artículo sobre educación incluye un histograma que muestra la distribución de puntajes de los estudiantes en una prueba, con barras que agrupan rangos de puntajes.
+**Contexto:** Un artículo sobre educación incluye un histograma que muestra la distribución de puntajes de los estudiantes en una prueba, con barras que agrupan rangos de puntajes.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -102,11 +106,11 @@ El histograma es un tipo especial de gráfico de barras que representa la distri
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W31-graficos-estadisticos-lectura-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un gráfico de líneas muestra el desempleo en Colombia de 2015 a 2025. La línea sube y baja en varios puntos.
+**Contexto:** Un gráfico de líneas muestra el desempleo en Colombia de 2015 a 2025. La línea sube y baja en varios puntos.
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -123,11 +127,11 @@ La interpretación correcta de un gráfico de líneas requiere examinar primero 
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W31-graficos-estadisticos-lectura-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un medio de comunicación presenta un gráfico de barras que muestra que "el desempleo juvenil es el doble que en 2020". La barra de 2020 es de altura 1 y la de 2024 es de altura 2.
+**Contexto:** Un medio de comunicación presenta un gráfico de barras que muestra que "el desempleo juvenil es el doble que en 2020". La barra de 2020 es de altura 1 y la de 2024 es de altura 2.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -144,11 +148,11 @@ La interpretación de "el doble" depende crucialmente de los valores absolutos d
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W31-graficos-estadisticos-lectura-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un gráfico circular muestra la "distribución del gasto público en Colombia": 30% en educación, 30% en salud, 30% en defensa, 10% en cultura. Los tres primeros sectores tienen porciones visualmente iguales.
+**Contexto:** Un gráfico circular muestra la "distribución del gasto público en Colombia": 30% en educación, 30% en salud, 30% en defensa, 10% en cultura. Los tres primeros sectores tienen porciones visualmente iguales.
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -165,11 +169,11 @@ El gráfico circular es efectivo cuando las proporciones son muy diferentes (ej.
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W31-graficos-estadisticos-lectura-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un informe gubernamental incluye dos gráficos de líneas sobre el mismo período. El primero usa una escala Y de 0-100. El segundo usa una escala Y de 80-100. Ambos muestran la misma tendencia.
+**Contexto:** Un informe gubernamental incluye dos gráficos de líneas sobre el mismo período. El primero usa una escala Y de 0-100. El segundo usa una escala Y de 80-100. Ambos muestran la misma tendencia.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -186,11 +190,11 @@ La elección de la escala del eje Y afecta dramáticamente la percepción visual
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W31-graficos-estadisticos-lectura-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una empresa de telefonía presenta un gráfico que muestra que "el 95% de sus clientes está satisfecho", basado en una encuesta a 200 clientes de 2 millones.
+**Contexto:** Una empresa de telefonía presenta un gráfico que muestra que "el 95% de sus clientes está satisfecho", basado en una encuesta a 200 clientes de 2 millones.
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -207,11 +211,11 @@ La confiabilidad de una estadística depende no solo del número sino de cómo s
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W31-graficos-estadisticos-lectura-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Un artículo presenta dos gráficos de líneas superpuestos: el precio del dólar y el nivel de importaciones. Ambos suben juntos, y el artículo concluye que "la subida del dólar está causando el aumento de las importaciones".
+**Contexto:** Un artículo presenta dos gráficos de líneas superpuestos: el precio del dólar y el nivel de importaciones. Ambos suben juntos, y el artículo concluye que "la subida del dólar está causando el aumento de las importaciones".
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ Este es uno de los errores más comunes en la interpretación de gráficos: asum
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W31-graficos-estadisticos-lectura-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Un informe sobre resultados escolares presenta un gráfico de barras que muestra el promedio de pruebas Saber por colegio. El colegio A tiene promedio 85 y el B tiene 82. La barra del colegio A es el doble de alta que la del B.
+**Contexto:** Un informe sobre resultados escolares presenta un gráfico de barras que muestra el promedio de pruebas Saber por colegio. El colegio A tiene promedio 85 y el B tiene 82. La barra del colegio A es el doble de alta que la del B.
 **Expected_Success:** 0.40
 
 ### Enunciado
@@ -249,11 +253,11 @@ Si la barra del colegio A (85) tiene el doble de altura que la del B (82), la es
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W31-graficos-estadisticos-lectura-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** Como proyecto de la semana, los estudiantes deben obtener datos reales sobre un tema de su interés (pueden ser datos del DANE, de su colegio o de encuestas propias) y crear un gráfico estadístico que comunique una tendencia, comparación o distribución.
+**Contexto:** Como proyecto de la semana, los estudiantes deben obtener datos reales sobre un tema de su interés (pueden ser datos del DANE, de su colegio o de encuestas propias) y crear un gráfico estadístico que comunique una tendencia, comparación o distribución.
 **Expected_Success:** 0.36
 
 ### Enunciado

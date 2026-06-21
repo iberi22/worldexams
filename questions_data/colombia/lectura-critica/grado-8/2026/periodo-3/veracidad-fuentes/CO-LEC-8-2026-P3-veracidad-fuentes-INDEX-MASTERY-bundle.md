@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-8-2026-P3-veracidad-fuentes-INDEX-MASTERY"
+id: "CO-LEC-8-2026-P3-veracidad-fuentes-INDEX-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.20"
   simulated_responses: 100
 rubric_baseline: "veracidad, fuente confiable, desinformación, fake news, verificación, evidencia, corroboración, fact-checking"
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G8 — Veracidad de Fuentes
 
@@ -41,12 +48,13 @@ rubric_baseline: "veracidad, fuente confiable, desinformación, fake news, verif
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 Según la Publicación 2, ¿cuántas horas semanales tendrá la nueva jornada laboral?
 
-### Options
+### Opciones
 - [ ] A) 48 horas. <!-- feedback: Incorrecto. -->
 - [x] B) 42 horas. <!-- feedback: Correcto. -->
 - [ ] C) 36 horas. <!-- feedback: Incorrecto. -->
@@ -58,12 +66,13 @@ Identificación de un dato específico.
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 Según la Publicación 3, ¿qué porcentaje de trabajadores informales no tiene prestaciones sociales?
 
-### Options
+### Opciones
 - [ ] A) 42%. <!-- feedback: Incorrecto. -->
 - [x] B) 63%. <!-- feedback: Correcto. -->
 - [ ] C) 50%. <!-- feedback: Incorrecto. -->
@@ -75,12 +84,13 @@ Identificación de un dato estadístico.
 ## Question 3 [D4 - Confiabilidad]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Cuál es la publicación MENOS confiable y por qué?
 
-### Options
+### Opciones
 - [ ] A) Publicación 2: porque es de Facebook. <!-- feedback: Incorrecto. -->
 - [x] B) Publicación 1: porque es un tuit sin verificar, usa mayúsculas alarmistas y no cita fuentes. <!-- feedback: Correcto. -->
 - [ ] C) Publicación 3: porque es TikTok. <!-- feedback: Incorrecto. -->
@@ -92,12 +102,13 @@ Evaluación inicial de confiabilidad basada en formato y estilo.
 ## Question 4 [D4 - Veracidad]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Qué elemento hace que la Publicación 4 sea sospechosa de desinformación?
 
-### Options
+### Opciones
 - [ ] A) Que usa muchas mayúsculas. <!-- feedback: Incorrecto. -->
 - [ ] B) Que se basa en un testimonio anónimo ("mi cuñado") y pide compartir masivamente. <!-- feedback: Correcto. -->
 - [ ] C) Que habla de primas y cesantías. <!-- feedback: Incorrecto. -->
@@ -109,12 +120,13 @@ Identificación de señales de alerta típicas de cadenas de desinformación.
 ## Question 5 [D5 - Fact-checking]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 La Publicación 1 dice que "eliminarán el descanso del almuerzo". ¿Qué elementos indican que puede ser falsa?
 
-### Options
+### Opciones
 - [ ] A) Que tiene el hashtag #ReformaLaboral. <!-- feedback: Incorrecto. -->
 - [x] B) Que usa lenguaje alarmista ("URGENTE"), no cita fuente oficial, es de una cuenta sin verificar y el cambio que describe es extremo. <!-- feedback: Correcto. -->
 - [ ] C) Que menciona julio. <!-- feedback: Incorrecto. -->
@@ -126,12 +138,13 @@ Aplicación de criterios de fact-checking básico.
 ## Question 6 [D5 - Fiabilidad]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué hace que la Publicación 2 sea más confiable que las otras?
 
-### Options
+### Opciones
 - [ ] A) Que está en Facebook. <!-- feedback: Incorrecto. -->
 - [x] B) Que cita una fuente específica (Ministerio del Trabajo, comunicado oficial del 15 de marzo) y da datos concretos. <!-- feedback: Correcto. -->
 - [ ] C) Que tiene 50.000 seguidores. <!-- feedback: Parcial (no es suficiente). -->
@@ -143,12 +156,13 @@ Identificación de características que aumentan la confiabilidad: fuente verifi
 ## Question 7 [D5 - Evidencia]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué tipo de evidencia ofrece la Publicación 3?
 
-### Options
+### Opciones
 - [ ] A) Testimonio anónimo. <!-- feedback: Incorrecto. -->
 - [ ] B) Opinión personal. <!-- feedback: Incorrecto. -->
 - [x] C) Datos del DANE (institución oficial de estadística). <!-- feedback: Correcto. -->
@@ -160,12 +174,13 @@ Identificación del tipo de evidencia y su peso en la veracidad.
 ## Question 8 [D5 - Verificación]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 Para verificar la Publicación 2, ¿qué deberías hacer?
 
-### Options
+### Opciones
 - [ ] A) Compartirla inmediatamente. <!-- feedback: Incorrecto. -->
 - [x] B) Buscar el comunicado oficial del Ministerio del Trabajo del 15 de marzo. <!-- feedback: Correcto. -->
 - [ ] C) Preguntar a un amigo. <!-- feedback: Incorrecto. -->
@@ -177,12 +192,13 @@ Comprensión del proceso de verificación de fuentes.
 ## Question 9 [D5 - Desinformación]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué tienen en común las Publicaciones 1 y 4 como ejemplos de posible desinformación?
 
-### Options
+### Opciones
 - [ ] A) Ambas son de fuentes oficiales. <!-- feedback: Incorrecto. -->
 - [x] B) Ambas usan lenguaje alarmante y se basan en afirmaciones sin fuente verificable. <!-- feedback: Correcto. -->
 - [ ] C) Ambas tienen muchos seguidores. <!-- feedback: Incorrecto. -->
@@ -194,12 +210,13 @@ Identificación de patrones comunes en la desinformación.
 ## Question 10 [D5 - Credibilidad]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿El número de seguidores (Publicación 2: 50K) garantiza que la información sea verdadera?
 
-### Options
+### Opciones
 - [ ] A) Sí, a más seguidores más verdad. <!-- feedback: Incorrecto. -->
 - [x] B) No, la popularidad no equivale a veracidad. Lo que importa es la fuente de la información. <!-- feedback: Correcto. -->
 - [ ] C) Sí, porque si muchos lo siguen es porque es cierto. <!-- feedback: Incorrecto. -->
@@ -211,12 +228,13 @@ Diferenciación entre popularidad y credibilidad.
 ## Question 11 [D5 - Intención]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué intención podría tener quien creó la Publicación 1?
 
-### Options
+### Opciones
 - [ ] A) Informar responsablemente. <!-- feedback: Incorrecto. -->
 - [x] B) Generar miedo y confusión, posiblemente para desprestigiar la reforma. <!-- feedback: Correcto. -->
 - [ ] C) Educar sobre derechos laborales. <!-- feedback: Incorrecto. -->
@@ -228,12 +246,13 @@ Inferencia de la intención detrás de la desinformación.
 ## Question 12 [D6 - Evaluación]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 Si solo vieras la Publicación 4 en WhatsApp, ¿cuál sería una reacción responsable?
 
-### Options
+### Opciones
 - [ ] A) Reenviarla a todos tus contactos. <!-- feedback: Incorrecto. -->
 - [ ] B) Creerla porque viene de un familiar. <!-- feedback: Incorrecto. -->
 - [x] C) No compartirla y buscar fuentes oficiales (Ministerio del Trabajo, medios serios). <!-- feedback: Correcto. -->
@@ -245,12 +264,13 @@ Aplicación de comportamiento responsable ante información no verificada.
 ## Question 13 [D6]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Cuál publicación consideras más útil para entender realmente la reforma laboral?
 
-### Options
+### Opciones
 - [ ] A) Publicación 1 (Tuit alarmista). <!-- feedback: Incorrecto. -->
 - [ ] B) Publicación 4 (Cadena WhatsApp). <!-- feedback: Incorrecto. -->
 - [x] C) Publicación 2 (Facebook con fuente oficial) complementada con Publicación 3 (Datos DANE). <!-- feedback: Correcto. -->
@@ -262,12 +282,13 @@ Evaluación y selección de fuentes confiables.
 ## Question 14 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué papel juega el DANE en la Publicación 3?
 
-### Options
+### Opciones
 - [ ] A) Es una opinión más. <!-- feedback: Incorrecto. -->
 - [x] B) Es una fuente de autoridad estadística que respalda los datos presentados. <!-- feedback: Correcto. -->
 - [ ] C) Es una empresa privada. <!-- feedback: Incorrecto. -->
@@ -279,12 +300,13 @@ Identificación del valor de las instituciones oficiales como fuentes confiables
 ## Question 15 [D6]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Cuál es la principal diferencia entre la Publicación 1 (Tuit) y la Publicación 3 (TikTok)?
 
-### Options
+### Opciones
 - [ ] A) Una es más larga que la otra. <!-- feedback: Incorrecto. -->
 - [x] B) La Publicación 3 cita una fuente oficial verificable (DANE); la 1 no cita ninguna fuente y usa lenguaje sensacionalista. <!-- feedback: Correcto. -->
 - [ ] C) Una es verdad y la otra no. <!-- feedback: Simplista. -->

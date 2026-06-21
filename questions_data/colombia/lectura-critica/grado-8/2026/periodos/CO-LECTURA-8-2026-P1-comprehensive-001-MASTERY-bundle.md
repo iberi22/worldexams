@@ -1,5 +1,5 @@
 ---
-id: "CO-LECTURA-8-2026-P1-comprehensive-001-MASTERY"
+id: "CO-LECTURA-8-2026-P1-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "lectura-critica"
@@ -19,7 +19,12 @@ rubric_baseline: "Textos discontinuos, medios masivos, análisis multimodal, com
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Discontinuos, Medios Masivos y Análisis Multimodal
 
@@ -31,13 +36,14 @@ Este bundle cubre la lectura crítica de textos discontinuos (infografías, grá
 
 **ID:** `CO-LECTURA-8-2026-P1-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En clase de lenguaje en Bogotá, la profesora explica qué son los textos discontinuos.
+**Contexto:** En clase de lenguaje en Bogotá, la profesora explica qué son los textos discontinuos.
 
 ### Enunciado
 ¿Cuál de los siguientes es un ejemplo de texto discontinuo?
 
-### Options
+### Opciones
 - [ ] A) Una novela. <!-- feedback: Incorrect. La novela es un texto continuo. -->
 - [ ] B) Un cuento. <!-- feedback: Incorrect. El cuento es un texto continuo. -->
 - [x] C) Una infografía. <!-- feedback: Correct. La infografía combina imágenes, diagramas y texto breve. -->
@@ -52,13 +58,14 @@ Los textos discontinuos presentan la información de manera no secuencial, combi
 
 **ID:** `CO-LECTURA-8-2026-P1-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** Un estudiante en Medellín identifica las características de los medios masivos.
+**Contexto:** Un estudiante en Medellín identifica las características de los medios masivos.
 
 ### Enunciado
 ¿Cuál de los siguientes es un medio de comunicación masivo?
 
-### Options
+### Opciones
 - [ ] A) Un diario personal. <!-- feedback: Incorrect. Es un medio privado. -->
 - [x] B) La televisión. <!-- feedback: Correct. La televisión es un medio masivo que llega a grandes audiencias. -->
 - [ ] C) Una carta personal. <!-- feedback: Incorrect. Es comunicación interpersonal. -->
@@ -73,8 +80,9 @@ Los medios de comunicación masivos son aquellos que transmiten información a g
 
 **ID:** `CO-LECTURA-8-2026-P1-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En un taller de lectura crítica en Cali, los estudiantes analizan una tabla de resultados académicos.
+**Contexto:** En un taller de lectura crítica en Cali, los estudiantes analizan una tabla de resultados académicos.
 
 | Materia | Estudiantes | Promedio | Superior |
 |---------|-------------|----------|----------|
@@ -85,7 +93,7 @@ Los medios de comunicación masivos son aquellos que transmiten información a g
 ### Enunciado
 Según la tabla, ¿en qué materia los estudiantes obtienen el mejor promedio?
 
-### Options
+### Opciones
 - [ ] A) Matemáticas. <!-- feedback: Incorrect. El promedio es 3.8. -->
 - [x] B) Lenguaje. <!-- feedback: Correct. Lenguaje tiene un promedio de 4.2, el más alto. -->
 - [ ] C) Ciencias. <!-- feedback: Incorrect. El promedio es 3.5. -->
@@ -100,13 +108,14 @@ La tabla muestra que Lenguaje tiene el promedio más alto (4.2) y el mayor porce
 
 **ID:** `CO-LECTURA-8-2026-P1-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En clase en Barranquilla, se analiza el propósito de una noticia en un periódico digital.
+**Contexto:** En clase en Barranquilla, se analiza el propósito de una noticia en un periódico digital.
 
 ### Enunciado
 ¿Cuál es el propósito principal de una noticia en un periódico?
 
-### Options
+### Opciones
 - [ ] A) Convencer al lector de una opinión política. <!-- feedback: Incorrect. Eso es un editorial o artículo de opinión. -->
 - [ ] B) Entretener al lector con una historia ficticia. <!-- feedback: Incorrect. Eso es literatura. -->
 - [x] C) Informar objetivamente sobre un hecho de actualidad. <!-- feedback: Correct. La noticia debe ser objetiva y factual. -->
@@ -121,13 +130,14 @@ La noticia es un género periodístico informativo que busca transmitir hechos d
 
 **ID:** `CO-LECTURA-8-2026-P1-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** Un profesor en Bucaramanga muestra una infografía sobre el reciclaje y pide a los estudiantes interpretarla.
+**Contexto:** Un profesor en Bucaramanga muestra una infografía sobre el reciclaje y pide a los estudiantes interpretarla.
 
 ### Enunciado
 ¿Qué elemento visual en una infografía ayuda a mostrar la secuencia de un proceso?
 
-### Options
+### Opciones
 - [ ] A) Los colores decorativos. <!-- feedback: Incorrect. Los colores pueden embellecer pero no muestran secuencia. -->
 - [ ] B) Las fotografías. <!-- feedback: Incorrect. Las fotos muestran imágenes pero no necesariamente secuencia. -->
 - [x] C) Las flechas o conectores que indican el orden de los pasos. <!-- feedback: Correct. Las flechas son fundamentales para mostrar secuencias. -->
@@ -142,13 +152,14 @@ En las infografías de procesos, las flechas, números y conectores visuales son
 
 **ID:** `CO-LECTURA-8-2026-P1-comprehensive-001-MASTERY-v6`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se analiza un meme político compartido en redes sociales sobre el debate electoral en Colombia.
+**Contexto:** Se analiza un meme político compartido en redes sociales sobre el debate electoral en Colombia.
 
 ### Enunciado
 ¿Qué tipo de análisis requiere un meme político para ser comprendido críticamente?
 
-### Options
+### Opciones
 - [ ] A) Solo análisis visual, las imágenes lo dicen todo. <!-- feedback: Incorrect. El meme combina varios elementos. -->
 - [x] B) Análisis multimodal: interpretar la imagen, el texto y el contexto sociopolítico. <!-- feedback: Correct. Los memes combinan lenguaje visual y textual, requiriendo análisis multimodal. -->
 - [ ] C) Solo análisis textual, las imágenes son decorativas. <!-- feedback: Incorrect. Las imágenes son parte fundamental del mensaje. -->
@@ -163,13 +174,14 @@ El análisis multimodal implica interpretar diferentes modos de comunicación: t
 
 **ID:** `CO-LECTURA-8-2026-P1-comprehensive-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** En clase de lenguaje en Pereira, se analiza una valla publicitaria en la vía Bogotá-Medellín.
+**Contexto:** En clase de lenguaje en Pereira, se analiza una valla publicitaria en la vía Bogotá-Medellín.
 
 ### Enunciado
 ¿Cuál es la función principal de la publicidad en medios masivos?
 
-### Options
+### Opciones
 - [ ] A) Educar a la población. <!-- feedback: Incorrect. Educar es función de la escuela, no principal de la publicidad. -->
 - [ ] B) Informar sobre hechos de actualidad. <!-- feedback: Incorrect. Eso es función del periodismo. -->
 - [x] C) Persuadir al consumidor para que compre un producto o servicio. <!-- feedback: Correct. La publicidad busca convencer, no informar objetivamente. -->
@@ -184,13 +196,14 @@ La publicidad es un género persuasivo que utiliza recursos retóricos, imágene
 
 **ID:** `CO-LECTURA-8-2026-P1-comprehensive-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se comparan dos titulares sobre el mismo evento: "Gobierno anuncia nuevo programa de becas" vs. "Gobierno despilfarra dinero en becas innecesarias".
+**Contexto:** Se comparan dos titulares sobre el mismo evento: "Gobierno anuncia nuevo programa de becas" vs. "Gobierno despilfarra dinero en becas innecesarias".
 
 ### Enunciado
 ¿Qué diferencia fundamental hay entre estos dos titulares?
 
-### Options
+### Opciones
 - [ ] A) El primer titular tiene más palabras. <!-- feedback: Incorrect. No es relevante. -->
 - [x] B) El primer titular es informativo/neutral, el segundo es opinativo/crítico. <!-- feedback: Correct. Cada medio editorializa la información según su línea editorial. -->
 - [ ] C) El segundo titular tiene faltas de ortografía. <!-- feedback: Incorrect. No se indica eso. -->
@@ -205,13 +218,14 @@ Los titulares reflejan la línea editorial del medio. El primero es neutral, el 
 
 **ID:** `CO-LECTURA-8-2026-P1-comprehensive-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** En un análisis de redes sociales, se estudia cómo un video de TikTok puede influir en la opinión pública.
+**Contexto:** En un análisis de redes sociales, se estudia cómo un video de TikTok puede influir en la opinión pública.
 
 ### Enunciado
 ¿Por qué un video corto en redes sociales puede ser más persuasivo que un artículo de opinión tradicional?
 
-### Options
+### Opciones
 - [ ] A) Porque los videos cortos siempre dicen la verdad. <!-- feedback: Incorrect. No hay garantía de veracidad. -->
 - [ ] B) Porque los artículos son aburridos. <!-- feedback: Incorrect. Es una opinión subjetiva. -->
 - [x] C) Porque combinan imagen, sonido, texto y edición rápida que apelan a las emociones antes que a la razón. <!-- feedback: Correct. La multimodalidad en redes sociales tiene alto impacto emocional. -->
@@ -226,13 +240,14 @@ El contenido audiovisual en redes sociales utiliza múltiples modos (imagen, son
 
 **ID:** `CO-LECTURA-8-2026-P1-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** Un estudiante en Cartagena debe interpretar un gráfico de barras que muestra el incremento de temperatura en la ciudad en los últimos 50 años.
+**Contexto:** Un estudiante en Cartagena debe interpretar un gráfico de barras que muestra el incremento de temperatura en la ciudad en los últimos 50 años.
 
 ### Enunciado
 ¿Qué información proporciona principalmente un gráfico de barras?
 
-### Options
+### Opciones
 - [ ] A) La relación entre dos variables diferentes. <!-- feedback: Incorrect. Eso es un gráfico de dispersión. -->
 - [x] B) La comparación de cantidades entre diferentes categorías o períodos. <!-- feedback: Correct. Las barras permiten comparar visualmente magnitudes. -->
 - [ ] C) La tendencia de cambio a largo plazo. <!-- feedback: Incorrect. Eso es más propio de un gráfico de líneas. -->
@@ -247,13 +262,14 @@ Los gráficos de barras son textos discontinuos que permiten comparar visualment
 
 **ID:** `CO-LECTURA-8-2026-P1-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante afirma: "En internet, cualquier persona puede publicar información, por lo tanto toda la información en internet es igualmente confiable."
+**Contexto:** Un estudiante afirma: "En internet, cualquier persona puede publicar información, por lo tanto toda la información en internet es igualmente confiable."
 
 ### Enunciado
 ¿Es correcta esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque todos tienen derecho a publicar. <!-- feedback: Incorrect. El derecho a publicar no garantiza confiabilidad. -->
 - [ ] B) Sí, porque internet es una fuente verificada. <!-- feedback: Incorrect. Internet no es una fuente verificada por sí misma. -->
 - [x] C) No. Aunque todos pueden publicar, la confiabilidad depende de la fuente, los datos, la verificación y el autor. Hay información falsa (fake news) en internet. <!-- feedback: Correct. La credibilidad debe evaluarse críticamente. -->
@@ -268,13 +284,14 @@ La alfabetización informacional es clave en la era digital. Para evaluar la con
 
 **ID:** `CO-LECTURA-8-2026-P1-comprehensive-001-MASTERY-v12`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se analiza un afiche gubernamental sobre prevención del dengue que combina imagen, iconos y texto breve.
+**Contexto:** Se analiza un afiche gubernamental sobre prevención del dengue que combina imagen, iconos y texto breve.
 
 ### Enunciado
 ¿Cuál es la ventaja de usar un afiche multimodal (imagen + texto) frente a un texto escrito solo con palabras para una campaña de salud pública?
 
-### Options
+### Opciones
 - [ ] A) No hay ventaja, el texto escrito es mejor. <!-- feedback: Incorrect. El multimodal tiene ventajas. -->
 - [x] B) Llega a más personas, incluyendo aquellas con menor nivel de lectura, y comunica el mensaje más rápido. <!-- feedback: Correct. La combinación visual-textual facilita la comprensión. -->
 - [ ] C) Es más barato de producir. <!-- feedback: Incorrect. No necesariamente. -->
@@ -289,13 +306,14 @@ Los textos multimodales en campañas de salud pública son más efectivos porque
 
 **ID:** `CO-LECTURA-8-2026-P1-comprehensive-001-MASTERY-v13`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se comparan dos portadas de periódicos colombianos del mismo día: una muestra una foto grande del presidente sonriente con un título positivo sobre la economía; la otra muestra una foto del presidente serio con un título crítico.
+**Contexto:** Se comparan dos portadas de periódicos colombianos del mismo día: una muestra una foto grande del presidente sonriente con un título positivo sobre la economía; la otra muestra una foto del presidente serio con un título crítico.
 
 ### Enunciado
 ¿Qué concepto explica mejor esta diferencia en la cobertura periodística?
 
-### Options
+### Opciones
 - [ ] A) Error del periódico. <!-- feedback: Incorrect. No es un error, es intencional. -->
 - [x] B) Línea editorial de cada medio: cada periódico selecciona y enfatiza aspectos según su postura ideológica. <!-- feedback: Correct. La línea editorial define cómo se presenta la información. -->
 - [ ] C) Los periódicos no tienen opiniones. <!-- feedback: Incorrect. Todos tienen una línea editorial implícita o explícita. -->
@@ -310,13 +328,14 @@ La línea editorial es la postura ideológica de un medio de comunicación que d
 
 **ID:** `CO-LECTURA-8-2026-P1-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante dice: "Las imágenes en una noticia son solo decorativas y no alteran el significado del texto."
+**Contexto:** Un estudiante dice: "Las imágenes en una noticia son solo decorativas y no alteran el significado del texto."
 
 ### Enunciado
 ¿Es correcta esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Sí, las imágenes solo acompañan al texto. <!-- feedback: Incorrect. Las imágenes construyen significado. -->
 - [ ] B) Sí, porque las noticias deben ser objetivas. <!-- feedback: Incorrect. Las imágenes también pueden ser subjetivas. -->
 - [x] C) No. Las imágenes seleccionadas (ángulo, encuadre, sujetos) construyen significado y pueden cambiar la interpretación de la noticia. <!-- feedback: Correct. La selección fotográfica es editorial. -->
@@ -331,13 +350,14 @@ En el análisis multimodal, las imágenes no son neutras: la selección de qué 
 
 **ID:** `CO-LECTURA-8-2026-P1-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Reflexivo
-**Context:** Un analista de medios afirma: "Las redes sociales han democratizado la producción de información, pero también han creado una crisis de credibilidad."
+**Contexto:** Un analista de medios afirma: "Las redes sociales han democratizado la producción de información, pero también han creado una crisis de credibilidad."
 
 ### Enunciado
 ¿Qué evidencia apoya esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Las redes sociales solo tienen información falsa. <!-- feedback: Incorrect. También hay información valiosa. -->
 - [ ] B) Las redes sociales son siempre más confiables que los medios tradicionales. <!-- feedback: Incorrect. No necesariamente. -->
 - [x] C) Cualquier persona puede publicar sin filtros de verificación, lo que permite difundir información falsa (fake news) tan rápido como la verdadera. <!-- feedback: Correct. La democratización tiene ventajas pero también riesgos. -->

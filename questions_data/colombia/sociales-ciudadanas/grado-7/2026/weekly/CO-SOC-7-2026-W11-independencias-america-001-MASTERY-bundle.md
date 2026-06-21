@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W11-independencias-america-001-MASTERY"
+id: "CO-SOC-7-2026-W11-independencias-america-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-ciudadanas"
 tema: "independencias-america"
-semana: "W11"
+week: "W11"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026 — Pensamiento Social"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Independencias de América — Grado 7
 ## Semana W11 — Causas, desarrollo y consecuencias de las independencias en Hispanoamérica
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W11-independencias-america-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En la clase de sociales del Colegio San Carlos de Bogotá, la profesora pregunta por las causas externas de las independencias americanas.
+**Contexto:** En la clase de sociales del Colegio San Carlos de Bogotá, la profesora pregunta por las causas externas de las independencias americanas.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La invasión de Napoleón Bonaparte a España en 1808 fue el detonante inmediato
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-SOC-7-2026-W11-independencias-america-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del Colegio La Salle de Medellín leen un texto sobre las causas internas de las independencias.
+**Contexto:** Los estudiantes del Colegio La Salle de Medellín leen un texto sobre las causas internas de las independencias.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ Las causas internas de las independencias americanas se gestaron durante todo el
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-SOC-7-2026-W11-independencias-america-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Cali, los estudiantes estudian las primeras Juntas de Gobierno en América.
+**Contexto:** En el colegio de Cali, los estudiantes estudian las primeras Juntas de Gobierno en América.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -81,11 +85,11 @@ El 20 de julio de 1810 es considerado el hito fundacional de la independencia co
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-SOC-7-2026-W11-independencias-america-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Barranquilla, los estudiantes analizan un texto sobre el "Grito de Dolores" de Miguel Hidalgo en México.
+**Contexto:** En el colegio de Barranquilla, los estudiantes analizan un texto sobre el "Grito de Dolores" de Miguel Hidalgo en México.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -102,11 +106,11 @@ El cura Miguel Hidalgo lideró el levantamiento popular más masivo de la indepe
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-SOC-7-2026-W11-independencias-america-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Cartagena, los estudiantes estudian la independencia de Estados Unidos como modelo para América Latina.
+**Contexto:** En el colegio de Cartagena, los estudiantes estudian la independencia de Estados Unidos como modelo para América Latina.
 **Expected_Success:** 0.77
 
 ### Enunciado
@@ -123,11 +127,11 @@ La independencia de las Trece Colonias británicas (1776-1783) fue un precedente
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-SOC-7-2026-W11-independencias-america-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Argumentación
-**Context:** En el Colegio de Pereira, los estudiantes analizan por qué la independencia de Haití (1804) fue única en América.
+**Contexto:** En el Colegio de Pereira, los estudiantes analizan por qué la independencia de Haití (1804) fue única en América.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -144,11 +148,11 @@ La independencia de Haití (1804) fue un evento revolucionario sin precedentes. 
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-SOC-7-2026-W11-independencias-america-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Bucaramanga, los estudiantes comparan las independencias de México, Argentina y la Nueva Granada.
+**Contexto:** En el colegio de Bucaramanga, los estudiantes comparan las independencias de México, Argentina y la Nueva Granada.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -165,11 +169,11 @@ Las independencias hispanoamericanas no fueron un movimiento homogéneo, sino pr
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-SOC-7-2026-W11-independencias-america-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En la I.E. de Villavicencio, los estudiantes analizan el período de la "Reconquista" española (1815-1819).
+**Contexto:** En la I.E. de Villavicencio, los estudiantes analizan el período de la "Reconquista" española (1815-1819).
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -186,11 +190,11 @@ Cuando Fernando VII recuperó el trono español en 1814 (tras la derrota de Napo
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-SOC-7-2026-W11-independencias-america-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Cúcuta, los estudiantes analizan un texto sobre el Congreso de Angostura (1819).
+**Contexto:** En el colegio de Cúcuta, los estudiantes analizan un texto sobre el Congreso de Angostura (1819).
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ El Congreso de Angostura, instalado el 15 de febrero de 1819 en la ciudad de Ang
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W11-independencias-america-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Manizales, los estudiantes evalúan el rol de Simón Bolívar en las independencias americanas.
+**Contexto:** En el colegio de Manizales, los estudiantes evalúan el rol de Simón Bolívar en las independencias americanas.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -228,11 +232,11 @@ Simón Bolívar (1783-1830) fue el líder más importante del proceso independen
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-SOC-7-2026-W11-independencias-america-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Sincelejo, la profesora pide analizar las consecuencias de las independencias para las poblaciones indígenas.
+**Contexto:** En el colegio de Sincelejo, la profesora pide analizar las consecuencias de las independencias para las poblaciones indígenas.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -249,11 +253,11 @@ Las independencias americanas fueron procesos liderados por las élites criollas
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W11-independencias-america-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** La profesora de sociales del colegio de Bogotá propone un debate final sobre si las independencias americanas fueron realmente "revoluciones".
+**Contexto:** La profesora de sociales del colegio de Bogotá propone un debate final sobre si las independencias americanas fueron realmente "revoluciones".
 **Expected_Success:** 0.42
 
 ### Enunciado

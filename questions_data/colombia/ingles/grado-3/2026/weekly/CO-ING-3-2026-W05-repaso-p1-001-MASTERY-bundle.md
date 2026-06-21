@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W05-repaso-p1-001-MASTERY"
+id: "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "repaso-p1"
 periodo: "weekly"
-semana: 5
+week: "W05"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 8
@@ -19,7 +19,12 @@ rubric_baseline: "Review of greetings, alphabet, numbers 1-20, and colors."
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W05: Repaso Periodo 1 (A1)
 
@@ -32,11 +37,12 @@ Este bundle es un repaso de los temas vistos en las semanas 1 a 4: saludos, abec
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 How do you say **"Buenas tardes"**?
 
-### Options
+### Opciones
 - [ ] A) Good morning <!-- feedback: Incorrect. This is for the morning. -->
 - [x] B) Good afternoon <!-- feedback: Correct! "Afternoon" is for the time after 12:00 PM. -->
 - [ ] C) Good night <!-- feedback: Incorrect. This is for the night. -->
@@ -52,11 +58,12 @@ How do you say **"Buenas tardes"**?
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is the letter after **B**?
 
-### Options
+### Opciones
 - [ ] A) A <!-- feedback: Incorrect. A is before B. -->
 - [x] B) C <!-- feedback: Correct! A, B, C... -->
 - [ ] C) D <!-- feedback: Incorrect. D is after C. -->
@@ -72,11 +79,12 @@ En la secuencia del abecedario, la letra C sigue a la letra B.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What number is **"TWELVE"**?
 
-### Options
+### Opciones
 - [ ] A) 2 <!-- feedback: Incorrect. 2 is "two". -->
 - [ ] B) 10 <!-- feedback: Incorrect. 10 is "ten". -->
 - [ ] C) 11 <!-- feedback: Incorrect. 11 is "eleven". -->
@@ -92,11 +100,12 @@ El número 12 se escribe "twelve" en inglés.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What color is a **banana**?
 
-### Options
+### Opciones
 - [x] A) Yellow <!-- feedback: Correct! Bananas are yellow. -->
 - [ ] B) Red <!-- feedback: Incorrect. -->
 - [ ] C) Blue <!-- feedback: Incorrect. -->
@@ -112,11 +121,12 @@ El color amarillo en inglés se dice "yellow".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Spell the word **"RED"**:
 
-### Options
+### Opciones
 - [x] A) R - E - D <!-- feedback: Correct! -->
 - [ ] B) R - A - D <!-- feedback: Incorrect. -->
 - [ ] C) B - E - D <!-- feedback: Incorrect. That spells bed. -->
@@ -132,11 +142,12 @@ El color rojo se escribe R-E-D.
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 How many is **seven + four**?
 
-### Options
+### Opciones
 - [ ] A) Ten <!-- feedback: Incorrect. -->
 - [x] B) Eleven <!-- feedback: Correct! 7 + 4 = 11. -->
 - [ ] C) Twelve <!-- feedback: Incorrect. -->
@@ -152,11 +163,12 @@ Siete (seven) más cuatro (four) son once (eleven).
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What do you say when you **leave** a place?
 
-### Options
+### Opciones
 - [ ] A) Hello <!-- feedback: Incorrect. -->
 - [x] B) Goodbye <!-- feedback: Correct! -->
 - [ ] C) Good morning <!-- feedback: Incorrect. -->
@@ -172,11 +184,12 @@ Al irnos de un lugar, usamos la despedida "Goodbye".
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Which color is **"Verde"**?
 
-### Options
+### Opciones
 - [ ] A) Blue <!-- feedback: Incorrect. -->
 - [ ] B) Yellow <!-- feedback: Incorrect. -->
 - [x] C) Green <!-- feedback: Correct! -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-5-2026-P3-personajes-caracteristicas-001-MASTERY"
+id: "CO-LEC-5-2026-P3-personajes-caracteristicas-001-MASTERY-bundle"
 country: "colombia"
 grado: 5
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "personajes, características físicas y psicológicas, descripción, diálogo, acciones, motivaciones"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G5: Los Tres Hermanos del Chocó
 
@@ -36,13 +43,14 @@ rubric_baseline: "personajes, características físicas y psicológicas, descrip
 
 **ID:** `CO-LC-5-2026-P3-personajes-caracteristicas-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Identificación de personajes.
+**Contexto:** Identificación de personajes.
 
 ### Enunciado
 ¿Cómo se llaman los tres hermanos protagonistas del cuento?
 
-### Options
+### Opciones
 - [ ] A) Mariana, Santiago y Lucía. <!-- feedback: Incorrecto. Esos no son los nombres de los hermanos. -->
 - [x] B) Yadira, Jhon y Emérita. <!-- feedback: Correcto. Esos son los tres nombres mencionados al inicio del cuento. -->
 - [ ] C) Nuquí, Chocó y Pacífico. <!-- feedback: Incorrecto. Esos son nombres geográficos, no de personajes. -->
@@ -57,13 +65,14 @@ Se evalúa la identificación de los personajes principales presentados explíci
 
 **ID:** `CO-LC-5-2026-P3-personajes-caracteristicas-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Característica de Yadira.
+**Contexto:** Característica de Yadira.
 
 ### Enunciado
 ¿Qué característica física de Yadira se menciona en el texto?
 
-### Options
+### Opciones
 - [ ] A) Tiene los ojos verdes. <!-- feedback: Incorrecto. El texto no menciona el color de sus ojos. -->
 - [x] B) Tiene el pelo largo y rizado como las olas del mar. <!-- feedback: Correcto. El texto dice que tenía "el pelo largo y rizado como las olas del mar". -->
 - [ ] C) Es muy alta para su edad. <!-- feedback: Incorrecto. No se menciona su estatura. -->
@@ -78,13 +87,14 @@ Se evalúa la identificación de un detalle descriptivo sobre la apariencia fís
 
 **ID:** `CO-LC-5-2026-P3-personajes-caracteristicas-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Características psicológicas de Yadira.
+**Contexto:** Características psicológicas de Yadira.
 
 ### Enunciado
 ¿Cómo es la personalidad de Yadira según el texto?
 
-### Options
+### Opciones
 - [ ] A) Impaciente y ruidosa. <!-- feedback: Incorrecto. El texto dice que Yadira es tranquila y observadora. -->
 - [x] B) Tranquila, observadora y sabia. <!-- feedback: Correcto. El texto la describe como "tranquila y observadora", y su mamá dice que tiene "ojos que ven lo que otros no ven". -->
 - [ ] C) Perezosa y distraída. <!-- feedback: Incorrecto. Yadira es observadora, lo que requiere atención, no distracción. -->
@@ -99,13 +109,14 @@ Se evalúa la capacidad de inferir la personalidad de un personaje a partir de s
 
 **ID:** `CO-LC-5-2026-P3-personajes-caracteristicas-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Características de Jhon.
+**Contexto:** Características de Jhon.
 
 ### Enunciado
 ¿Qué frase describe mejor la personalidad de Jhon?
 
-### Options
+### Opciones
 - [ ] A) Dulce y cariñoso. <!-- feedback: Incorrecto. Esa es la descripción de Emérita. -->
 - [ ] B) Tranquilo y silencioso. <!-- feedback: Incorrecto. Jhon es todo lo contrario. -->
 - [x] C) Audaz, inquieto y a veces imprudente. <!-- feedback: Correcto. Jhon "no podía quedarse quieto", era "audaz" y su papá le decía "la valentía sin cuidado es peligrosa". -->
@@ -120,13 +131,14 @@ Se evalúa la síntesis de las características de un personaje a partir de acci
 
 **ID:** `CO-LC-5-2026-P3-personajes-caracteristicas-001-MASTERY-v5`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Comparación entre hermanos.
+**Contexto:** Comparación entre hermanos.
 
 ### Enunciado
 ¿En qué se diferencia principalmente Yadira de Jhon?
 
-### Options
+### Opciones
 - [ ] A) En la edad: Yadira es la menor y Jhon el mayor. <!-- feedback: Incorrecto. Yadira es la mayor (11) y Jhon es el de en medio (10). -->
 - [ ] B) En la comida que les gusta. <!-- feedback: Incorrecto. El texto no compara sus gustos culinarios. -->
 - [x] C) En que Yadira es reflexiva y observadora, mientras que Jhon es impulsivo y activo. <!-- feedback: Correcto. Yadira piensa antes de actuar; Jhon actúa sin pensar. -->
@@ -141,13 +153,14 @@ Se evalúa la capacidad de contrastar las personalidades de dos personajes, iden
 
 **ID:** `CO-LC-5-2026-P3-personajes-caracteristicas-001-MASTERY-v6`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Motivaciones de Emérita.
+**Contexto:** Motivaciones de Emérita.
 
 ### Enunciado
 ¿Por qué Emérita le tiene miedo a los cangrejos y a las olas grandes?
 
-### Options
+### Opciones
 - [ ] A) Porque una vez un cangrejo la lastimó y una ola la arrastró. <!-- feedback: Posible, pero el texto no menciona una experiencia traumática previa. -->
 - [ ] B) Porque su abuela le dijo que tuviera cuidado. <!-- feedback: Incorrecto. La abuela le enseña a cocinar, no a tener miedo. -->
 - [x] C) Porque es pequeña y tiene una personalidad más dulce y temerosa. <!-- feedback: Correcto. El texto la describe como "dulce, cariñosa" pero también "un poco miedosa" por su forma de ser, no por algo que le haya pasado. -->
@@ -162,13 +175,14 @@ Se evalúa la inferencia sobre las motivaciones de un personaje a partir de su p
 
 **ID:** `CO-LC-5-2026-P3-personajes-caracteristicas-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Gustos y habilidades de Emérita.
+**Contexto:** Gustos y habilidades de Emérita.
 
 ### Enunciado
 ¿Qué le gusta hacer a Emérita según el texto?
 
-### Options
+### Opciones
 - [ ] A) Dibujar en la arena y observar el mar. <!-- feedback: Incorrecto. Eso lo hace Yadira. -->
 - [ ] B) Trepar árboles y agarrar cangrejos. <!-- feedback: Incorrecto. Eso lo hace Jhon. -->
 - [x] C) Cocinar con su abuela y aprender recetas tradicionales. <!-- feedback: Correcto. El texto dice: "Le encantaba cocinar con su abuela y aprender las recetas tradicionales del Pacífico". -->
@@ -183,13 +197,14 @@ Se evalúa la identificación de las actividades y gustos específicos de un per
 
 **ID:** `CO-LC-5-2026-P3-personajes-caracteristicas-001-MASTERY-v8`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Relación entre hermanos.
+**Contexto:** Relación entre hermanos.
 
 ### Enunciado
 ¿Qué tienen en común los tres hermanos a pesar de ser tan diferentes?
 
-### Options
+### Opciones
 - [ ] A) Los tres son igual de inquietos. <!-- feedback: Incorrecto. Solo Jhon es inquieto. -->
 - [ ] B) Los tres tienen miedo a los cangrejos. <!-- feedback: Incorrecto. Solo Emérita les tiene miedo. -->
 - [x] C) Los tres viven en Nuquí, Chocó, y juegan juntos en la playa. <!-- feedback: Correcto. Comparten el lugar donde viven y realizan actividades juntos, como cuando encuentran la botella. -->
@@ -204,13 +219,14 @@ Se evalúa la capacidad de identificar los elementos comunes entre personajes di
 
 **ID:** `CO-LC-5-2026-P3-personajes-caracteristicas-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Las voces de los padres.
+**Contexto:** Las voces de los padres.
 
 ### Enunciado
 La mamá de Yadira dice que ella "tiene ojos que ven lo que otros no ven". El papá de Jhon le dice "la valentía sin cuidado es peligrosa". ¿Qué función cumplen estas frases de los padres en la historia?
 
-### Options
+### Opciones
 - [ ] A) Son solo frases bonitas sin importancia. <!-- feedback: Incorrecto. Tienen un significado importante para la caracterización. -->
 - [x] B) Ayudan a definir la personalidad de cada hijo y orientan al lector sobre sus cualidades y defectos. <!-- feedback: Correcto. Las frases de los padres funcionan como claves de caracterización que resumen la esencia de cada personaje. -->
 - [ ] C) Muestran que los padres no entienden a sus hijos. <!-- feedback: Incorrecto. Al contrario, muestran que los conocen bien. -->
@@ -225,13 +241,14 @@ Se evalúa la comprensión de la función de las citas de otros personajes como 
 
 **ID:** `CO-LC-5-2026-P3-personajes-caracteristicas-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Proyección sobre el desarrollo de la historia.
+**Contexto:** Proyección sobre el desarrollo de la historia.
 
 ### Enunciado
 Al final del texto, los hermanos encuentran una botella con un mensaje que pide ayuda para una tortuga. Si la historia continúa, ¿qué personaje crees que podría liderar la ayuda basándote en sus características?
 
-### Options
+### Opciones
 - [ ] A) Emérita, porque es la más dulce y cocina bien. <!-- feedback: Posible pero no la más probable. Cocinar no es una habilidad relevante para ayudar a una tortuga. -->
 - [ ] B) Jhon, porque es audaz y no le tiene miedo a nada. <!-- feedback: Posible, pero su impulsividad podría ser un problema. -->
 - [x] C) Yadira, porque es observadora, tranquila y sabia, cualidades útiles para resolver un problema. <!-- feedback: Correcto. Sus características de observación y sabiduría la hacen la candidata más probable para descifrar el mensaje y liderar una solución. -->

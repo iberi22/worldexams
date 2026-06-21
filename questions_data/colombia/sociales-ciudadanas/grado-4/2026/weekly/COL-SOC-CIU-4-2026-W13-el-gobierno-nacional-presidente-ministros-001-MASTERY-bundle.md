@@ -1,5 +1,5 @@
 ---
-id: "COL-SOC-CIU-4-2026-W13-el-gobierno-nacional-presidente-ministros-001-MASTERY"
+id: "COL-SOC-CIU-4-2026-W13-el-gobierno-nacional-presidente-ministros-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "El Gobierno Nacional colombiano: presidente y ministros"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: El Gobierno Nacional (presidente, ministros)
 
@@ -30,15 +35,15 @@ Este bundle explica el Gobierno Nacional de Colombia, encabezado por el Presiden
 ## Question 1 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W13-el-gobierno-nacional-presidente-ministros-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la I.E. INEM de Pasto explican el Gobierno Nacional.
+**Contexto:** En la I.E. INEM de Pasto explican el Gobierno Nacional.
 
 ### Enunciado
 ¿Quién es la máxima autoridad del Gobierno Nacional?
 
-### Options
-
+### Opciones
 - [x] A) El Presidente de la República. <!-- feedback: El Presidente es el jefe de Estado y de Gobierno. -->
 - [ ] B) El alcalde. <!-- feedback: Autoridad municipal. -->
 - [ ] C) El gobernador. <!-- feedback: Autoridad departamental. -->
@@ -52,15 +57,15 @@ Se evalúa [Remember].
 ## Question 2 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W13-el-gobierno-nacional-presidente-ministros-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Explican el gabinete ministerial.
+**Contexto:** Explican el gabinete ministerial.
 
 ### Enunciado
 Los ministros en Colombia son:
 
-### Options
-
+### Opciones
 - [ ] A) Los alcaldes de las grandes ciudades. <!-- feedback: Autoridades locales. -->
 - [x] B) Los colaboradores del Presidente que dirigen cada ministerio. <!-- feedback: Los ministros son jefes de cada cartera. -->
 - [ ] C) Los representantes a la Cámara. <!-- feedback: Son legisladores. -->
@@ -74,15 +79,15 @@ Se evalúa [Remember].
 ## Question 3 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W13-el-gobierno-nacional-presidente-ministros-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Analizan las funciones del Presidente.
+**Contexto:** Analizan las funciones del Presidente.
 
 ### Enunciado
 ¿Cuál es una función del Presidente de Colombia?
 
-### Options
-
+### Opciones
 - [ ] A) Elegir a los alcaldes. <!-- feedback: Los alcaldes son elegidos por voto popular. -->
 - [ ] B) Juzgar a los delincuentes. <!-- feedback: Función de la rama judicial. -->
 - [x] C) Sancionar las leyes y dirigir las relaciones internacionales. <!-- feedback: El Presidente sanciona leyes y dirige política exterior. -->
@@ -96,15 +101,15 @@ Se evalúa [Understand].
 ## Question 4 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W13-el-gobierno-nacional-presidente-ministros-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Reflexionan sobre el gabinete.
+**Contexto:** Reflexionan sobre el gabinete.
 
 ### Enunciado
 ¿Por qué el Presidente necesita ministros?
 
-### Options
-
+### Opciones
 - [ ] A) Porque son más importantes. <!-- feedback: El Presidente es la máxima autoridad. -->
 - [ ] B) Porque no puede decidir solo. <!-- feedback: Sí puede, pero los ministros lo asesoran. -->
 - [ ] C) Porque son elegidos por el Congreso. <!-- feedback: Los nombra el Presidente. -->
@@ -118,15 +123,15 @@ Se evalúa [Understand].
 ## Question 5 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W13-el-gobierno-nacional-presidente-ministros-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Simulan roles de ministros.
+**Contexto:** Simulan roles de ministros.
 
 ### Enunciado
 Si fueras Ministro de Educación, ¿cuál sería tu responsabilidad?
 
-### Options
-
+### Opciones
 - [x] A) Diseñar políticas educativas y supervisar la calidad de la educación. <!-- feedback: El Ministerio de Educación maneja la política educativa. -->
 - [ ] B) Construir carreteras. <!-- feedback: Eso es del Ministerio de Transporte. -->
 - [ ] C) Administrar hospitales. <!-- feedback: Del Ministerio de Salud. -->
@@ -140,15 +145,15 @@ Se evalúa [Apply].
 ## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W13-el-gobierno-nacional-presidente-ministros-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Analizan elección presidencial.
+**Contexto:** Analizan elección presidencial.
 
 ### Enunciado
 ¿Cómo se elige al Presidente de Colombia?
 
-### Options
-
+### Opciones
 - [ ] A) Lo nombra el Congreso. <!-- feedback: El Congreso no nombra al Presidente. -->
 - [x] B) Por voto popular cada cuatro años. <!-- feedback: El Presidente se elige por votación popular. -->
 - [ ] C) Lo elige la Corte Suprema. <!-- feedback: No. -->
@@ -162,15 +167,15 @@ Se evalúa [Apply].
 ## Question 7 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W13-el-gobierno-nacional-presidente-ministros-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Analizan sede del Gobierno.
+**Contexto:** Analizan sede del Gobierno.
 
 ### Enunciado
 ¿Dónde se reúne el Gobierno Nacional?
 
-### Options
-
+### Opciones
 - [ ] A) En el Capitolio Nacional. <!-- feedback: Sede del Congreso. -->
 - [ ] B) En el Palacio de Justicia. <!-- feedback: Sede de la rama judicial. -->
 - [x] C) En la Casa de Nariño, en Bogotá. <!-- feedback: La Casa de Nariño es la sede del Ejecutivo. -->
@@ -184,15 +189,15 @@ Se evalúa [Analyze].
 ## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W13-el-gobierno-nacional-presidente-ministros-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Comparan niveles de gobierno.
+**Contexto:** Comparan niveles de gobierno.
 
 ### Enunciado
 El Presidente es del nivel:
 
-### Options
-
+### Opciones
 - [ ] A) Regional. <!-- feedback: No existe ese nivel. -->
 - [ ] B) Departamental. <!-- feedback: Ese es el gobernador. -->
 - [ ] C) Municipal. <!-- feedback: Ese es el alcalde. -->
@@ -206,15 +211,15 @@ Se evalúa [Analyze].
 ## Question 9 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W13-el-gobierno-nacional-presidente-ministros-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Evalúan la importancia del gobierno nacional.
+**Contexto:** Evalúan la importancia del gobierno nacional.
 
 ### Enunciado
 ¿Por qué es importante tener un gobierno nacional?
 
-### Options
-
+### Opciones
 - [x] A) Para unificar políticas y representar a Colombia en el mundo. <!-- feedback: Unifica y representa al país. -->
 - [ ] B) Sin él no habría leyes. <!-- feedback: El Congreso también hace leyes. -->
 - [ ] C) Los departamentos no pueden gobernarse. <!-- feedback: Tienen autonomía. -->
@@ -229,14 +234,14 @@ Se evalúa [Evaluate].
 
 **ID:** `COL-SOC-CIU-4-2026-W13-el-gobierno-nacional-presidente-ministros-001-MASTERY-v10`
 **Bloom:** [Create]
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Proponen política ambiental.
+**Contexto:** Proponen política ambiental.
 
 ### Enunciado
 Si fueras Ministro de Ambiente, ¿qué propondrías para los ríos?
 
-### Options
-
+### Opciones
 - [ ] A) Cerrar todas las fábricas. <!-- feedback: Afecta la economía. -->
 - [x] B) Programa nacional de descontaminación con participación comunitaria. <!-- feedback: Un programa participativo es solución integral. -->
 - [ ] C) Multar a todos. <!-- feedback: No ataca el fondo. -->

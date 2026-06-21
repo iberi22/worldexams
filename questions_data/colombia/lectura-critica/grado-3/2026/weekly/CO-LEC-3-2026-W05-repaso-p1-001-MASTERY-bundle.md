@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W05-repaso-p1-001-MASTERY"
+id: "CO-LEC-3-2026-W05-repaso-p1-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 5
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso de Periodo 1
 
@@ -25,6 +30,7 @@ Este bundle integra los conocimientos de las primeras cuatro semanas: reconocimi
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En el tablero de la clase hay una lista de palabras: **Amigo**, **Elefante**, **Iglesia**, **Oveja**, **Unicornio**.
@@ -32,7 +38,7 @@ En el tablero de la clase hay una lista de palabras: **Amigo**, **Elefante**, **
 ### Enunciado
 ¿Qué tienen en común las letras iniciales de todas estas palabras?
 
-### Options
+### Opciones
 - [x] A) Todas comienzan con una vocal. <!-- feedback: ¡Correcto! A, E, I, O, U son las vocales que inician cada palabra de la lista. -->
 - [ ] B) Todas comienzan con una consonante. <!-- feedback: Incorrecto. Las consonantes son letras como B, C, D, F... -->
 - [ ] C) Son las últimas letras del abecedario. <!-- feedback: Incorrecto. La 'A' es la primera letra del abecedario. -->
@@ -48,6 +54,7 @@ Identificar patrones comunes en grupos de palabras refuerza la categorización l
 **Bloom:** Remember
 **ICFES:** Fonético
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Luis está separando la palabra **COLOMBIA** en sílabas para un proyecto de geografía.
@@ -55,7 +62,7 @@ Luis está separando la palabra **COLOMBIA** en sílabas para un proyecto de geo
 ### Enunciado
 ¿Cuál es la separación silábica correcta de nuestra patria: **COLOMBIA**?
 
-### Options
+### Opciones
 - [ ] A) CO - LOM - BI - A <!-- feedback: Incorrecto. En "bia", la 'i' y la 'a' forman un diptongo, por lo que no se separan en sílabas diferentes. -->
 - [x] B) CO - LOM - BIA <!-- feedback: ¡Correcto! Tiene tres golpes de voz: CO, LOM y BIA. La última sílaba tiene dos vocales que se quedan juntas. -->
 - [ ] C) C - O - L - O - M - B - I - A <!-- feedback: Incorrecto. Estás deletreando la palabra, no dividiéndola en sílabas. -->
@@ -71,6 +78,7 @@ Este ejercicio repasa la división silábica y el concepto de diptongo (vocal ce
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un aviso en el parque dice: "**Prohibido arrojar basuras al suelo**, cuida tu ciudad".
@@ -78,7 +86,7 @@ Un aviso en el parque dice: "**Prohibido arrojar basuras al suelo**, cuida tu ci
 ### Enunciado
 ¿Cuál es la palabra que significa lo **opuesto** (antónimo) a la palabra resaltada **SUELO**?
 
-### Options
+### Opciones
 - [ ] A) Tierra <!-- feedback: Incorrecto. Tierra es un sinónimo o algo muy parecido al suelo. -->
 - [ ] B) Piso <!-- feedback: Incorrecto. También es un sinónimo. -->
 - [x] C) Cielo <!-- feedback: ¡Correcto! El cielo es lo que está arriba, mientras que el suelo es lo que está abajo. Son conceptos opuestos. -->
@@ -94,6 +102,7 @@ Reconocer relaciones de oposición (antónimos) amplía el vocabulario y la capa
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Lee la siguiente oración: "La **pequeña hormiga** carga una hoja muy pesada hasta su hormiguero".
@@ -101,7 +110,7 @@ Lee la siguiente oración: "La **pequeña hormiga** carga una hoja muy pesada ha
 ### Enunciado
 Según la oración, ¿quién es la que realiza el esfuerzo de cargar la hoja?
 
-### Options
+### Opciones
 - [ ] A) La hoja <!-- feedback: Incorrecto. La hoja es el objeto cargado, no quien realiza la acción. -->
 - [x] B) La hormiga <!-- feedback: ¡Correcto! La hormiga es el sujeto que realiza la acción de cargar. -->
 - [ ] C) El hormiguero <!-- feedback: Incorrecto. Es el lugar hacia donde se dirige la hormiga. -->
@@ -117,6 +126,7 @@ Identificar el sujeto y su acción en una oración narrativa simple es una habil
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Tienes que organizar estos nombres de ciudades colombianas en orden alfabético: **Bogotá**, **Barranquilla**, **Bucaramanga**.
@@ -124,7 +134,7 @@ Tienes que organizar estos nombres de ciudades colombianas en orden alfabético:
 ### Enunciado
 ¿Cuál es el orden correcto? (Pista: fíjate en la segunda y tercera letra).
 
-### Options
+### Opciones
 - [ ] A) Bogotá - Barranquilla - Bucaramanga <!-- feedback: Incorrecto. La 'a' de Barranquilla va antes que la 'o' de Bogotá. -->
 - [x] B) Barranquilla - Bogotá - Bucaramanga <!-- feedback: ¡Correcto! Todas empiezan por 'B', pero 'Ba' (Barranquilla) va antes que 'Bo' (Bogotá) y 'Bo' va antes que 'Bu' (Bucaramanga). -->
 - [ ] C) Bucaramanga - Bogotá - Barranquilla <!-- feedback: Incorrecto. Este es el orden alfabético inverso. -->
@@ -140,6 +150,7 @@ Este ejercicio de la semana 1 sube de nivel al exigir que el estudiante compare 
 **Bloom:** Apply
 **ICFES:** Fonético
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Buscamos la "sílaba tónica" en palabras de alimentos colombianos: **A-RE-PA**, **A-CO-CO**, **TA-MAL**.
@@ -147,7 +158,7 @@ Buscamos la "sílaba tónica" en palabras de alimentos colombianos: **A-RE-PA**,
 ### Enunciado
 ¿Cuál es la sílaba tónica de la palabra **TAMAL**?
 
-### Options
+### Opciones
 - [ ] A) TA <!-- feedback: Incorrecto. Si fuera la primera, diríamos TÁ-mal, pero en Colombia decimos ta-MÁL. -->
 - [x] B) MAL <!-- feedback: ¡Correcto! Al pronunciar "tamal", el golpe de voz más fuerte cae al final de la palabra. -->
 - [ ] C) Ambas suenan igual <!-- feedback: Incorrecto. Siempre hay una sílaba con más fuerza que la otra. -->
@@ -163,6 +174,7 @@ Identificar el acento prosódico en palabras agudas sin tilde (como tamal) es un
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Lee estas dos oraciones:
@@ -172,7 +184,7 @@ Lee estas dos oraciones:
 ### Enunciado
 ¿Cuál de las siguientes afirmaciones es verdadera sobre estas oraciones?
 
-### Options
+### Opciones
 - [ ] A) La primera oración dice que hace frío. <!-- feedback: Incorrecto. "Calienta" significa que sube la temperatura. -->
 - [ ] B) En la segunda oración, el sol ya no calienta. <!-- feedback: Incorrecto. Sigue siendo el sol quien realiza la acción. -->
 - [x] C) Ambas oraciones transmiten la misma idea central. <!-- feedback: ¡Correcto! Solo cambia la forma de decir quién hace la acción y quién la recibe, pero el hecho es el mismo. -->
@@ -188,6 +200,7 @@ Este es un repaso de la semana 4 (comprensión de oraciones) donde se evalúa la
 **Bloom:** Evaluate
 **ICFES:** Pragmático
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Si alguien te dice: "**Abre el paraguas o te vas a mojar**".
@@ -195,7 +208,7 @@ Si alguien te dice: "**Abre el paraguas o te vas a mojar**".
 ### Enunciado
 ¿Cuál es la intención principal de la persona que dice esta oración?
 
-### Options
+### Opciones
 - [ ] A) Preguntarte si tienes un paraguas. <!-- feedback: Incorrecto. No es una pregunta, es una afirmación con una advertencia. -->
 - [ ] B) Ordenarte que cierres el paraguas. <!-- feedback: Incorrecto. Dice que lo abras, no que lo cierres. -->
 - [x] C) Advertirte de una consecuencia si no realizas una acción. <!-- feedback: ¡Correcto! La persona te avisa que si no abres el paraguas, el resultado será que te mojarás. -->

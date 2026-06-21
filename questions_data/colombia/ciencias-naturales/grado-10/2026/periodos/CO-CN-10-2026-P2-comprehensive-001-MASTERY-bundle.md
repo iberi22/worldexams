@@ -1,5 +1,5 @@
 ---
-id: "CO-CN-10-2026-P2-comprehensive-001-MASTERY"
+id: "CO-CN-10-2026-P2-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 10
 asignatura: "ciencias-naturales"
@@ -14,13 +14,18 @@ distractor_profile: "plausible_peer_set"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 20
+year: 2026
+creador: "Jules-Agent"
 ---
+
 # Bundle MASTERY: Ondas-Sonido, Genética Avanzada, Nomenclatura Química
 
 ## Question 1 (D3)
 **ID:** `CO-CN-10-2026-P2-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember | **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase de física en Sincelejo, el profesor explica las ondas.
+**Contexto:** En clase de física en Sincelejo, el profesor explica las ondas.
 **Enunciado:** ¿Cuál de las siguientes NO es una característica de una onda?
 **Options:**
 - [ ] A) Longitud de onda <!-- feedback: Incorrecto. Es una característica fundamental de las ondas. -->
@@ -31,7 +36,7 @@ tier: "legacy"
 ## Question 2 (D3)
 **ID:** `CO-CN-10-2026-P2-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember | **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase de biología en Neiva, se estudia la genética mendeliana avanzada.
+**Contexto:** En clase de biología en Neiva, se estudia la genética mendeliana avanzada.
 **Enunciado:** ¿Qué es un alelo?
 **Options:**
 - [ ] A) Un tipo de cromosoma sexual. <!-- feedback: Incorrecto. El alelo no es un cromosoma. -->
@@ -42,7 +47,7 @@ tier: "legacy"
 ## Question 3 (D4)
 **ID:** `CO-CN-10-2026-P2-comprehensive-001-MASTERY-v3`
 **Bloom:** Apply | **ICFES:** Explicación de fenómenos
-**Context:** En un concierto en el Teatro Metropolitano de Medellín, un guitarrista toca una nota de 440 Hz. La velocidad del sonido en el aire a 25°C es 346 m/s.
+**Contexto:** En un concierto en el Teatro Metropolitano de Medellín, un guitarrista toca una nota de 440 Hz. La velocidad del sonido en el aire a 25°C es 346 m/s.
 **Enunciado:** ¿Cuál es la longitud de onda de esta nota?
 **Options:**
 - [x] A) 0.79 m <!-- feedback: Correcto. λ = v/f = 346/440 = 0.786 m. -->
@@ -53,7 +58,7 @@ tier: "legacy"
 ## Question 4 (D4)
 **ID:** `CO-CN-10-2026-P2-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand | **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el laboratorio de química en Popayán, se clasifican compuestos inorgánicos.
+**Contexto:** En el laboratorio de química en Popayán, se clasifican compuestos inorgánicos.
 **Enunciado:** ¿Cuál es el nombre del compuesto Fe₂O₃ según la nomenclatura tradicional?
 **Options:**
 - [ ] A) Óxido de hierro <!-- feedback: Incorrecto. Se debe especificar la valencia. -->
@@ -64,7 +69,7 @@ tier: "legacy"
 ## Question 5 (D5)
 **ID:** `CO-CN-10-2026-P2-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply | **ICFES:** Explicación de fenómenos
-**Context:** En el Laboratorio de Genética de la Universidad del Valle, se cruzan dos plantas de arvejas heterocigotas para semilla lisa (Ll × Ll, donde L=lisa dominante, l=rugosa recesiva).
+**Contexto:** En el Laboratorio de Genética de la Universidad del Valle, se cruzan dos plantas de arvejas heterocigotas para semilla lisa (Ll × Ll, donde L=lisa dominante, l=rugosa recesiva).
 **Enunciado:** ¿Cuál es la probabilidad de obtener una planta con semilla rugosa?
 **Options:**
 - [ ] A) 0% <!-- feedback: Incorrecto. Con ambos padres heterocigotos, hay posibilidad de semilla rugosa. -->
@@ -75,7 +80,7 @@ tier: "legacy"
 ## Question 6 (D5)
 **ID:** `CO-CN-10-2026-P2-comprehensive-001-MASTERY-v6`
 **Bloom:** Analyze | **ICFES:** Indagación
-**Context:** Un sonar de un barco en el Pacífico colombiano emite una onda ultrasónica que tarda 2 segundos en ir al fondo marino y regresar. La velocidad del sonido en agua es 1500 m/s.
+**Contexto:** Un sonar de un barco en el Pacífico colombiano emite una onda ultrasónica que tarda 2 segundos en ir al fondo marino y regresar. La velocidad del sonido en agua es 1500 m/s.
 **Enunciado:** ¿Cuál es la profundidad del océano en ese punto?
 **Options:**
 - [ ] A) 3000 m <!-- feedback: Incorrecto. d = v·t/2 = 1500·2/2 = 1500 m. El tiempo es de ida y vuelta. -->
@@ -86,7 +91,7 @@ tier: "legacy"
 ## Question 7 (D5)
 **ID:** `CO-CN-10-2026-P2-comprehensive-001-MASTERY-v7`
 **Bloom:** Apply | **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un estudiente debe nombrar el compuesto H₂SO₄.
+**Contexto:** Un estudiente debe nombrar el compuesto H₂SO₄.
 **Enunciado:** ¿Cuál es el nombre del compuesto H₂SO₄?
 **Options:**
 - [ ] A) Ácido sulfuroso <!-- feedback: Incorrecto. H₂SO₃ es ácido sulfuroso. H₂SO₄ tiene un oxígeno más. -->
@@ -97,7 +102,7 @@ tier: "legacy"
 ## Question 8 (D6)
 **ID:** `CO-CN-10-2026-P2-comprehensive-001-MASTERY-v8`
 **Bloom:** Analyze | **ICFES:** Explicación de fenómenos
-**Context:** Una ambulancia en Bogotá se acerca con su sirena emitiendo a 800 Hz. La velocidad del sonido es 340 m/s y la ambulancia viaja a 25 m/s.
+**Contexto:** Una ambulancia en Bogotá se acerca con su sirena emitiendo a 800 Hz. La velocidad del sonido es 340 m/s y la ambulancia viaja a 25 m/s.
 **Enunciado:** Según el efecto Doppler, ¿qué frecuencia percibe un observador cuando la ambulancia se acerca?
 **Options:**
 - [x] A) Mayor a 800 Hz <!-- feedback: Correcto. Cuando la fuente se acerca, la frecuencia percibida es mayor (efecto Doppler). -->
@@ -108,7 +113,7 @@ tier: "legacy"
 ## Question 9 (D6)
 **ID:** `CO-CN-10-2026-P2-comprehensive-001-MASTERY-v9`
 **Bloom:** Apply | **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un laboratorio, se analiza la herencia del color de ojos (M=marrón dominante, m=azul recesivo). Un padre de ojos marrones (Mm) y una madre de ojos azules (mm) tienen hijos.
+**Contexto:** En un laboratorio, se analiza la herencia del color de ojos (M=marrón dominante, m=azul recesivo). Un padre de ojos marrones (Mm) y una madre de ojos azules (mm) tienen hijos.
 **Enunciado:** ¿Cuál es la probabilidad de que un hijo tenga ojos azules?
 **Options:**
 - [ ] A) 0% <!-- feedback: Incorrecto. La madre aporta siempre m, el padre puede aportar m. -->
@@ -119,7 +124,7 @@ tier: "legacy"
 ## Question 10 (D6)
 **ID:** `CO-CN-10-2026-P2-comprehensive-001-MASTERY-v10`
 **Bloom:** Understand | **ICFES:** Explicación de fenómenos
-**Context:** Se golpea un diapasón y luego se sumerge su base en agua.
+**Contexto:** Se golpea un diapasón y luego se sumerge su base en agua.
 **Enunciado:** La onda que se propaga desde el diapasón al agua es un ejemplo de:
 **Options:**
 - [ ] A) Reflexión <!-- feedback: Incorrecto. La reflexión sería el rebote de la onda. -->
@@ -130,7 +135,7 @@ tier: "legacy"
 ## Question 11 (D7)
 **ID:** `CO-CN-10-2026-P2-comprehensive-001-MASTERY-v11`
 **Bloom:** Apply | **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Se nombran compuestos en clase: MgO y MgCl₂.
+**Contexto:** Se nombran compuestos en clase: MgO y MgCl₂.
 **Enunciado:** ¿Cuáles son los nombres correctos según la nomenclatura Stock para MgO y MgCl₂?
 **Options:**
 - [ ] A) Óxido de magnesio y cloruro de magnesio. <!-- feedback: Incorrecto. La nomenclatura Stock requiere el número de oxidación en romano. -->
@@ -141,7 +146,7 @@ tier: "legacy"
 ## Question 12 (D7)
 **ID:** `CO-CN-10-2026-P2-comprehensive-001-MASTERY-v12`
 **Bloom:** Analyze | **ICFES:** Indagación
-**Context:** En un estudio de una población de mariposas en el Valle del Cauca, las alas claras (A) son dominantes sobre oscuras (a). La frecuencia de alelo A es 0.7 y de a es 0.3.
+**Contexto:** En un estudio de una población de mariposas en el Valle del Cauca, las alas claras (A) son dominantes sobre oscuras (a). La frecuencia de alelo A es 0.7 y de a es 0.3.
 **Enunciado:** Según Hardy-Weinberg, ¿cuál es la frecuencia esperada de mariposas heterocigotas (Aa) en equilibrio?
 **Options:**
 - [ ] A) 0.49 <!-- feedback: Incorrecto. p² = 0.49 corresponde a AA homocigoto dominante. -->
@@ -152,7 +157,7 @@ tier: "legacy"
 ## Question 13 (D7)
 **ID:** `CO-CN-10-2026-P2-comprehensive-001-MASTERY-v13`
 **Bloom:** Apply | **ICFES:** Explicación de fenómenos
-**Context:** Un altavoz en una discoteca de Cartagena emite 10⁻⁴ W/m². El umbral auditivo es 10⁻¹² W/m².
+**Contexto:** Un altavoz en una discoteca de Cartagena emite 10⁻⁴ W/m². El umbral auditivo es 10⁻¹² W/m².
 **Enunciado:** ¿Cuál es el nivel de intensidad sonora en decibelios (dB)? (β = 10 log(I/I₀))
 **Options:**
 - [ ] A) 40 dB <!-- feedback: Incorrecto. 10⁻⁴/10⁻¹²=10⁸, log(10⁸)=8, 10·8=80 dB. -->
@@ -163,7 +168,7 @@ tier: "legacy"
 ## Question 14 (D8)
 **ID:** `CO-CN-10-2026-P2-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate | **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Cuatro estudiantes proponen las fórmulas para el cloruro de hierro(III):
+**Contexto:** Cuatro estudiantes proponen las fórmulas para el cloruro de hierro(III):
 Estudiante A: FeCl₂
 Estudiante B: FeCl₃
 Estudiante C: Fe₂Cl₃
@@ -178,7 +183,7 @@ Estudiante D: FeCl
 ## Question 15 (D8)
 **ID:** `CO-CN-10-2026-P2-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate | **ICFES:** Indagación
-**Context:** En una muestra de ADN, se encuentra que el 30% de las bases son adenina (A).
+**Contexto:** En una muestra de ADN, se encuentra que el 30% de las bases son adenina (A).
 **Enunciado:** ¿Cuál es el porcentaje de guanina (G) en esa muestra?
 **Options:**
 - [ ] A) 30% <!-- feedback: Incorrecto. A se aparea con T, no con G. -->
@@ -189,7 +194,7 @@ Estudiante D: FeCl
 ## Question 16 (D8)
 **ID:** `CO-CN-10-2026-P2-comprehensive-001-MASTERY-v16`
 **Bloom:** Analyze | **ICFES:** Explicación de fenómenos
-**Context:** Un rayo de luz pasa del aire (n=1.0) al agua (n=1.33) con un ángulo de incidencia de 45°.
+**Contexto:** Un rayo de luz pasa del aire (n=1.0) al agua (n=1.33) con un ángulo de incidencia de 45°.
 **Enunciado:** Según la ley de Snell, ¿el rayo se acerca o se aleja de la normal al entrar al agua?
 **Options:**
 - [ ] A) Se aleja, porque n₂ > n₁. <!-- feedback: Incorrecto. Cuando n₂>n₁, la luz se acerca a la normal. -->
@@ -200,7 +205,7 @@ Estudiante D: FeCl
 ## Question 17 (D9)
 **ID:** `CO-CN-10-2026-P2-comprehensive-001-MASTERY-v17`
 **Bloom:** Evaluate | **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el laboratorio se tienen tres sales: NaCl, CaCl₂, AlCl₃.
+**Contexto:** En el laboratorio se tienen tres sales: NaCl, CaCl₂, AlCl₃.
 **Enunciado:** ¿Cuál de estas afirmaciones sobre la nomenclatura es correcta?
 **Options:**
 - [ ] A) Los tres se nombran con el sufijo -ico: cloruro sódico, cálcico, alumínico. <!-- feedback: Incorrecto. En nomenclatura Stock, los tres se nombran sin número romano porque Na, Ca y Al tienen una sola valencia, pero la respuesta B también es válida. -->
@@ -211,7 +216,7 @@ Estudiante D: FeCl
 ## Question 18 (D9)
 **ID:** `CO-CN-10-2026-P2-comprehensive-001-MASTERY-v18`
 **Bloom:** Evaluate | **ICFES:** Indagación
-**Context:** Cuatro estudiantes discuten por qué el sonido viaja más rápido en el agua que en el aire.
+**Contexto:** Cuatro estudiantes discuten por qué el sonido viaja más rápido en el agua que en el aire.
 **Enunciado:** ¿Cuál es la explicación científicamente correcta?
 **Options:**
 - [ ] A) Porque el agua es más densa que el aire. <!-- feedback: Incorrecto. Mayor densidad no implica mayor velocidad; en sólidos, la velocidad depende de la elasticidad. -->
@@ -222,7 +227,7 @@ Estudiante D: FeCl
 ## Question 19 (D9)
 **ID:** `CO-CN-10-2026-P2-comprehensive-001-MASTERY-v19`
 **Bloom:** Create | **ICFES:** Indagación
-**Context:** Se debe diseñar un experimento para demostrar que el sonido no se propaga en el vacío.
+**Contexto:** Se debe diseñar un experimento para demostrar que el sonido no se propaga en el vacío.
 **Enunciado:** ¿Cuál sería el diseño experimental más adecuado?
 **Options:**
 - [x] A) Colocar un timbre dentro de una campana de vidrio, extraer el aire con una bomba de vacío y observar que el sonido disminuye hasta desaparecer. <!-- feedback: Correcto. Este es el experimento clásico de la campana de vacío. -->
@@ -233,7 +238,7 @@ Estudiante D: FeCl
 ## Question 20 (D10)
 **ID:** `CO-CN-10-2026-P2-comprehensive-001-MASTERY-v20`
 **Bloom:** Evaluate | **ICFES:** Explicación de fenómenos
-**Context:** Se tiene un cruce de dos plantas heterocigotas para dos caracteres: semilla lisa-amarilla (LlAa × LlAa). L=lisa dominante, l=rugosa; A=amarilla dominante, a=verde.
+**Contexto:** Se tiene un cruce de dos plantas heterocigotas para dos caracteres: semilla lisa-amarilla (LlAa × LlAa). L=lisa dominante, l=rugosa; A=amarilla dominante, a=verde.
 **Enunciado:** Según la segunda ley de Mendel (segregación independiente), ¿cuál es la proporción fenotípica esperada en F₂?
 **Options:**
 - [ ] A) 3:1 <!-- feedback: Incorrecto. 3:1 es para un solo carácter (monohibridismo). -->

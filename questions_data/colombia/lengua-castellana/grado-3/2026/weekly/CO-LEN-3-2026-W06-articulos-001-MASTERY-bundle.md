@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-3-2026-W06-articulos-001-MASTERY"
+id: "CO-LEN-3-2026-W06-articulos-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 3"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Gramática - artículos - Grado 3
 
@@ -22,7 +24,7 @@ Este bundle practica el uso de los artículos (definidos e indefinidos) y su con
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-3-2026-W06-articulos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -33,21 +35,20 @@ Este bundle practica el uso de los artículos (definidos e indefinidos) y su con
 ¿Cuál es el artículo en la frase: "La mochila es azul"?
 
 ### Opciones
-- [x] A) La
-  <!-- feedback: ¡Correcto! Es un artículo definido femenino singular. -->
-- [ ] B) mochila
-  <!-- feedback: No, es un sustantivo. -->
-- [ ] C) es
-  <!-- feedback: No, es un verbo. -->
-- [ ] D) azul
-  <!-- feedback: No, es un adjetivo. -->
+- [x] A) La <!-- feedback: Correcto! La -->
+
+- [ ] B) mochila <!-- feedback: Incorrecto. mochila -->
+
+- [ ] C) es <!-- feedback: Incorrecto. es -->
+
+- [ ] D) azul <!-- feedback: Incorrecto. azul -->
 
 ### Explicación Pedagogica
 Los artículos son palabras que acompañan a los sustantivos para concretarlos y concuerdan con ellos en género y número.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-3-2026-W02-articulos-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -58,21 +59,20 @@ Los artículos son palabras que acompañan a los sustantivos para concretarlos y
 ¿Cuál de estos es un artículo definido (determinado)?
 
 ### Opciones
-- [ ] A) Un
-  <!-- feedback: Es un artículo indefinido. -->
-- [ ] B) Una
-  <!-- feedback: Es un artículo indefinido. -->
-- [x] C) El
-  <!-- feedback: ¡Muy bien! "El" se usa para algo conocido o específico. -->
-- [ ] D) Unos
-  <!-- feedback: Es un artículo indefinido plural. -->
+- [ ] A) Un <!-- feedback: Incorrecto. Un -->
+
+- [ ] B) Una <!-- feedback: Incorrecto. Una -->
+
+- [x] C) El <!-- feedback: Correcto! El -->
+
+- [ ] D) Unos <!-- feedback: Incorrecto. Unos -->
 
 ### Explicación Pedagogica
 Los artículos definidos (el, la, los, las) se refieren a seres u objetos conocidos por el emisor y el receptor.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-3-2026-W06-articulos-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -83,21 +83,20 @@ Los artículos definidos (el, la, los, las) se refieren a seres u objetos conoci
 Elige el artículo que mejor completa la oración: "Quiero ________ piña madura".
 
 ### Opciones
-- [ ] A) un
-  <!-- feedback: No concuerda en género con "piña". -->
-- [x] B) una
-  <!-- feedback: ¡Excelente! Concuerda en femenino y singular. -->
-- [ ] C) unas
-  <!-- feedback: "Piña" está en singular. -->
-- [ ] D) la los
-  <!-- feedback: No tiene sentido gramatical. -->
+- [ ] A) un <!-- feedback: Incorrecto. un -->
+
+- [x] B) una <!-- feedback: Correcto! una -->
+
+- [ ] C) unas <!-- feedback: Incorrecto. unas -->
+
+- [ ] D) la los <!-- feedback: Incorrecto. la los -->
 
 ### Explicación Pedagogica
 Los artículos indefinidos (un, una, unos, unas) se usan cuando nos referimos a algo por primera vez o no es específico.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-3-2026-W06-articulos-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -108,21 +107,20 @@ Los artículos indefinidos (un, una, unos, unas) se usan cuando nos referimos a 
 ¿Cuál es la forma correcta del artículo para el sustantivo "árboles"?
 
 ### Opciones
-- [ ] A) El
-  <!-- feedback: Está en singular y el sustantivo es plural. -->
-- [ ] B) Las
-  <!-- feedback: No concuerda en género (árbol es masculino). -->
-- [x] C) Los
-  <!-- feedback: ¡Correcto! Concuerda en masculino y plural. -->
-- [ ] D) Un
-  <!-- feedback: Está en singular. -->
+- [ ] A) El <!-- feedback: Incorrecto. El -->
+
+- [ ] B) Las <!-- feedback: Incorrecto. Las -->
+
+- [x] C) Los <!-- feedback: Correcto! Los -->
+
+- [ ] D) Un <!-- feedback: Incorrecto. Un -->
 
 ### Explicación Pedagogica
 El artículo debe coincidir siempre en género y número con el sustantivo al que precede.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-3-2026-W06-articulos-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -133,21 +131,20 @@ El artículo debe coincidir siempre en género y número con el sustantivo al qu
 En la frase "Unos pájaros vuelan alto", ¿qué tipo de artículo se usa?
 
 ### Opciones
-- [ ] A) Definido masculino singular
-  <!-- feedback: "Unos" es indefinido y plural. -->
-- [x] B) Indefinido masculino plural
-  <!-- feedback: ¡Así es! Se refiere a varios pájaros de forma no específica. -->
-- [ ] C) Definido femenino plural
-  <!-- feedback: "Pájaros" es masculino. -->
-- [ ] D) Indefinido femenino singular
-  <!-- feedback: "Unos" es plural. -->
+- [ ] A) Definido masculino singular <!-- feedback: Incorrecto. Definido masculino singular -->
+
+- [x] B) Indefinido masculino plural <!-- feedback: Correcto! Indefinido masculino plural -->
+
+- [ ] C) Definido femenino plural <!-- feedback: Incorrecto. Definido femenino plural -->
+
+- [ ] D) Indefinido femenino singular <!-- feedback: Incorrecto. Indefinido femenino singular -->
 
 ### Explicación Pedagogica
 Identificar la clase, el género y el número del artículo es clave para una correcta producción textual.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-3-2026-W06-articulos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -158,21 +155,20 @@ Identificar la clase, el género y el número del artículo es clave para una co
 ¿Qué artículo está mal usado en esta frase: "El transmilenios son rojos"?
 
 ### Opciones
-- [x] A) El
-  <!-- feedback: ¡Exacto! Debería ser "Los" porque el sustantivo es plural. -->
-- [ ] B) son
-  <!-- feedback: El verbo está bien, concuerda con el plural. -->
-- [ ] C) rojos
-  <!-- feedback: El adjetivo está bien, concuerda con el plural. -->
-- [ ] D) transmilenios
-  <!-- feedback: El sustantivo es plural, el error es el artículo. -->
+- [x] A) El <!-- feedback: Correcto! El -->
+
+- [ ] B) son <!-- feedback: Incorrecto. son -->
+
+- [ ] C) rojos <!-- feedback: Incorrecto. rojos -->
+
+- [ ] D) transmilenios <!-- feedback: Incorrecto. transmilenios -->
 
 ### Explicación Pedagogica
 El error de concordancia entre el artículo y el sustantivo es muy común y debe evitarse para mayor claridad.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-3-2026-W06-articulos-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -183,21 +179,20 @@ El error de concordancia entre el artículo y el sustantivo es muy común y debe
 Completa la frase: "Iremos a ________ festival más alegre del país".
 
 ### Opciones
-- [ ] A) un
-  <!-- feedback: Podría ser, pero al decir "más alegre" suena a uno específico. -->
-- [x] B) el
-  <!-- feedback: ¡Correcto! Se refiere a un festival específico y conocido. -->
-- [ ] C) la
-  <!-- feedback: "Festival" es masculino. -->
-- [ ] D) los
-  <!-- feedback: "Festival" está en singular. -->
+- [ ] A) un <!-- feedback: Incorrecto. un -->
+
+- [x] B) el <!-- feedback: Correcto! el -->
+
+- [ ] C) la <!-- feedback: Incorrecto. la -->
+
+- [ ] D) los <!-- feedback: Incorrecto. los -->
 
 ### Explicación Pedagogica
 El artículo definido suele usarse cuando el sustantivo va acompañado de un adjetivo que lo destaca como único.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-3-2026-W06-articulos-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -208,21 +203,20 @@ El artículo definido suele usarse cuando el sustantivo va acompañado de un adj
 ¿Con cuál de estos sustantivos se usa el artículo "El"?
 
 ### Opciones
-- [ ] A) Mesa
-  <!-- feedback: Se dice "La mesa". -->
-- [ ] B) Flor
-  <!-- feedback: Se dice "La flor". -->
-- [x] C) Cuaderno
-  <!-- feedback: ¡Muy bien! Decimos "El cuaderno" (masculino). -->
-- [ ] D) Canción
-  <!-- feedback: Se dice "La canción". -->
+- [ ] A) Mesa <!-- feedback: Incorrecto. Mesa -->
+
+- [ ] B) Flor <!-- feedback: Incorrecto. Flor -->
+
+- [x] C) Cuaderno <!-- feedback: Correcto! Cuaderno -->
+
+- [ ] D) Canción <!-- feedback: Incorrecto. Canción -->
 
 ### Explicación Pedagogica
 Aunque la mayoría de palabras terminadas en 'o' son masculinas, siempre es bueno verificar con el artículo.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-3-2026-W06-articulos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -233,21 +227,20 @@ Aunque la mayoría de palabras terminadas en 'o' son masculinas, siempre es buen
 ¿Cuál es la forma correcta de decir "águila" en singular usando el artículo definido?
 
 ### Opciones
-- [ ] A) La águila
-  <!-- feedback: No, esto suena mal (cacofonía) por la 'a' inicial acentuada. -->
-- [x] B) El águila
-  <!-- feedback: ¡Correcto! Por regla de eufonía se usa "el" aunque la palabra sea femenina. -->
-- [ ] C) Las águila
-  <!-- feedback: No concuerda en número. -->
-- [ ] D) Unos águila
-  <!-- feedback: No concuerda en número. -->
+- [ ] A) La águila <!-- feedback: Incorrecto. La águila -->
+
+- [x] B) El águila <!-- feedback: Correcto! El águila -->
+
+- [ ] C) Las águila <!-- feedback: Incorrecto. Las águila -->
+
+- [ ] D) Unos águila <!-- feedback: Incorrecto. Unos águila -->
 
 ### Explicación Pedagogica
 En sustantivos femeninos que empiezan por 'a' tónica (con acento), se usa el artículo "el" en singular para evitar el mal sonido.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-3-2026-W06-articulos-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -258,14 +251,13 @@ En sustantivos femeninos que empiezan por 'a' tónica (con acento), se usa el ar
 En la frase "Cuidar las fuentes de agua es tarea de todos", ¿qué indican los artículos usados?
 
 ### Opciones
-- [ ] A) Un solo objeto desconocido.
-  <!-- feedback: "Las" es plural y definido. -->
-- [x] B) Varios objetos específicos y conocidos.
-  <!-- feedback: ¡Excelente! "Las" se refiere a todas las fuentes de forma específica. -->
-- [ ] C) Una acción que no se puede contar.
-  <!-- feedback: El artículo acompaña al sustantivo "fuentes". -->
-- [ ] D) Un sentimiento de alegría.
-  <!-- feedback: El artículo no tiene esa función emocional por sí solo. -->
+- [ ] A) Un solo objeto desconocido. <!-- feedback: Incorrecto. Un solo objeto desconocido. -->
+
+- [x] B) Varios objetos específicos y conocidos. <!-- feedback: Correcto! Varios objetos específicos y conocidos. -->
+
+- [ ] C) Una acción que no se puede contar. <!-- feedback: Incorrecto. Una acción que no se puede contar. -->
+
+- [ ] D) Un sentimiento de alegría. <!-- feedback: Incorrecto. Un sentimiento de alegría. -->
 
 ### Explicación Pedagogica
 El uso correcto de los artículos ayuda a dar precisión y claridad a los mensajes que queremos transmitir.

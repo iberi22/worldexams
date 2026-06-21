@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W21-food-drinks-001-MASTERY"
+id: "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "food-drinks"
 periodo: "weekly"
-semana: 21
+week: "W21"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "Vocabulary for common food and drinks: bread, milk, water, jui
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W21: Food and Drinks (A1)
 
@@ -32,11 +37,12 @@ Este bundle evalúa el vocabulario de alimentos y bebidas comunes en inglés.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Agua"** in English?
 
-### Options
+### Opciones
 - [ ] A) Juice <!-- feedback: Incorrect. Juice is jugo. -->
 - [x] B) Water <!-- feedback: Correct! Water is agua. -->
 - [ ] C) Milk <!-- feedback: Incorrect. Milk is leche. -->
@@ -52,11 +58,12 @@ El agua, esencial para la vida, se dice "water" en inglés.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Leche"** in English?
 
-### Options
+### Opciones
 - [x] A) Milk <!-- feedback: Correct! Milk is leche. -->
 - [ ] B) Water <!-- feedback: Incorrect. -->
 - [ ] C) Tea <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ La leche se dice "milk". Es blanca y viene de la vaca (cow).
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Pan"** in English?
 
-### Options
+### Opciones
 - [ ] A) Rice <!-- feedback: Incorrect. Rice is arroz. -->
 - [x] B) Bread <!-- feedback: Correct! Bread is pan. -->
 - [ ] C) Cake <!-- feedback: Incorrect. Cake is pastel. -->
@@ -92,11 +100,12 @@ El pan se dice "bread".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Arroz"** in English?
 
-### Options
+### Opciones
 - [ ] A) Pasta <!-- feedback: Incorrect. -->
 - [ ] B) Bread <!-- feedback: Incorrect. -->
 - [x] C) Rice <!-- feedback: Correct! Rice is arroz. -->
@@ -112,11 +121,12 @@ El arroz, alimento muy común en Colombia, se dice "rice".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Jugo"** in English?
 
-### Options
+### Opciones
 - [ ] A) Water <!-- feedback: Incorrect. -->
 - [x] B) Juice <!-- feedback: Correct! Juice is jugo. -->
 - [ ] C) Milk <!-- feedback: Incorrect. -->
@@ -132,11 +142,12 @@ El jugo de frutas se dice "juice".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Huevo"** in English?
 
-### Options
+### Opciones
 - [x] A) Egg <!-- feedback: Correct! Egg is huevo. -->
 - [ ] B) Chicken <!-- feedback: Incorrect. Chicken is pollo. -->
 - [ ] C) Meat <!-- feedback: Incorrect. Meat is carne. -->
@@ -152,11 +163,12 @@ El huevo se dice "egg".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Pollo"** in English?
 
-### Options
+### Opciones
 - [ ] A) Fish <!-- feedback: Incorrect. -->
 - [x] B) Chicken <!-- feedback: Correct! Chicken is pollo. -->
 - [ ] C) Beef <!-- feedback: Incorrect. -->
@@ -172,11 +184,12 @@ El pollo como alimento se dice "chicken".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Queso"** in English?
 
-### Options
+### Opciones
 - [ ] A) Butter <!-- feedback: Incorrect. -->
 - [x] B) Cheese <!-- feedback: Correct! Cheese is queso. -->
 - [ ] C) Yogurt <!-- feedback: Incorrect. -->
@@ -192,11 +205,12 @@ El queso se dice "cheese".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Which one is a **drink** (bebida)?
 
-### Options
+### Opciones
 - [ ] A) Bread <!-- feedback: Incorrect. That is food. -->
 - [ ] B) Rice <!-- feedback: Incorrect. That is food. -->
 - [x] C) Juice <!-- feedback: Correct! Juice is something you drink. -->
@@ -212,11 +226,12 @@ Which one is a **drink** (bebida)?
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What do you eat for **breakfast**? (En Colombia es común).
 
-### Options
+### Opciones
 - [x] A) Eggs and bread <!-- feedback: Correct! Common breakfast items. -->
 - [ ] B) Pizza and soda <!-- feedback: Incorrect. Usually for dinner. -->
 - [ ] C) Ice cream <!-- feedback: Incorrect. That's a dessert. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-P3-comprension-inferencial-INDEX-MASTERY"
+id: "CO-LEC-6-2026-P3-comprension-inferencial-INDEX-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "comprensión inferencial, conclusión implícita, deducción, significado no literal, interpretación de pistas textuales"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G6 — Comprensión Inferencial
 
@@ -29,12 +36,13 @@ rubric_baseline: "comprensión inferencial, conclusión implícita, deducción, 
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿En qué barrio de Bogotá camina Ana?
 
-### Options
+### Opciones
 - [ ] A) Chapinero. <!-- feedback: Incorrecto. -->
 - [x] B) La Candelaria. <!-- feedback: Correcto. -->
 - [ ] C) Usaquén. <!-- feedback: Incorrecto. -->
@@ -46,12 +54,13 @@ Identificación del lugar explícito.
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Qué hay en la portada de la libreta de Ana?
 
-### Options
+### Opciones
 - [ ] A) "Diario personal". <!-- feedback: Incorrecto. -->
 - [x] B) "Proyecto: Escritores Fantasma de Bogotá". <!-- feedback: Correcto. -->
 - [ ] C) "Recetas de cocina". <!-- feedback: Incorrecto. -->
@@ -63,12 +72,13 @@ Identificación de un detalle explícito al final del texto.
 ## Question 3 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Qué está haciendo Ana en La Candelaria?
 
-### Options
+### Opciones
 - [ ] A) Visitando museos. <!-- feedback: Incorrecto. -->
 - [x] B) Investigando sobre escritores que vivieron en Bogotá. <!-- feedback: Correcto. -->
 - [ ] C) Buscando una dirección para una fiesta. <!-- feedback: Incorrecto. -->
@@ -80,12 +90,13 @@ Comprensión global de la actividad de la protagonista.
 ## Question 4 [D5 - Inferencia]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Por qué Ana sonríe cuando lee el letrero?
 
-### Options
+### Opciones
 - [ ] A) Porque el letrero es divertido. <!-- feedback: Incorrecto. -->
 - [x] B) Porque encontró la casa del poeta que busca para su proyecto. <!-- feedback: Correcto. -->
 - [ ] C) Porque el letrero tiene un error. <!-- feedback: Incorrecto. -->
@@ -97,12 +108,13 @@ Inferencia de la emoción de la protagonista a partir del contexto de su proyect
 ## Question 5 [D5 - Inferencia]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué significa "Escritores Fantasma de Bogotá"?
 
-### Options
+### Opciones
 - [ ] A] Escritores que eran fantasmas. <!-- feedback: Incorrecto. -->
 - [x] B) Escritores del pasado cuyas historias o presencias aún se sienten en la ciudad. <!-- feedback: Correcto. -->
 - [ ] C) Escritores que escriben sobre fantasmas. <!-- feedback: Incorrecto. -->
@@ -114,12 +126,13 @@ Interpretación del significado figurado del título del proyecto.
 ## Question 6 [D5 - Inferencia]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Por qué Ana pregunta "¿Coincidencia?" después de ver el número 14-20?
 
-### Options
+### Opciones
 - [ ] A) Porque no sabe qué número es. <!-- feedback: Incorrecto. -->
 - [x] B) Porque el poeta murió en 1914 y el número de la casa es 14-20, relacionando las fechas. <!-- feedback: Correcto. -->
 - [ ] C) Porque el número es feo. <!-- feedback: Incorrecto. -->
@@ -131,12 +144,13 @@ Inferencia de la conexión simbólica entre las fechas y los números.
 ## Question 7 [D5 - Inferencia]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué podemos deducir del poeta que vivió en la casa amarilla?
 
-### Options
+### Opciones
 - [ ] A) Que era un escritor famoso vivo. <!-- feedback: Incorrecto. -->
 - [x] B) Que fue un poeta reconocido, probablemente José Asunción Silva (murió en 1896) o alguien similar de principios del siglo XX. <!-- feedback: Correcto. -->
 - [ ] C) Que era un músico. <!-- feedback: Incorrecto. -->
@@ -148,12 +162,13 @@ Inferencia sobre la identidad y época del poeta a partir de las pistas del text
 ## Question 8 [D5 - Inferencia]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Por qué Ana menciona a un músico en la plaza?
 
-### Options
+### Opciones
 - [ ] A) Es parte del proyecto. <!-- feedback: Incorrecto. -->
 - [x] B) Es parte del ambiente del barrio mientras ella trabaja en su investigación. <!-- feedback: Correcto. -->
 - [ ] C] Es el poeta disfrazado. <!-- feedback: Incorrecto. -->
@@ -165,12 +180,13 @@ Inferencia de detalles contextuales que enriquecen la escena.
 ## Question 9 [D5 - Inferencia]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué día de la semana murió el poeta según el letrero?
 
-### Options
+### Opciones
 - [ ] A) Lunes. <!-- feedback: Incorrecto. -->
 - [x] B) Jueves. <!-- feedback: Correcto. -->
 - [ ] C) Viernes. <!-- feedback: Incorrecto. -->
@@ -182,12 +198,13 @@ Identificación de un dato explícito.
 ## Question 10 [D5 - Evaluación]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Qué tipo de lectura está haciendo Ana del barrio La Candelaria?
 
-### Options
+### Opciones
 - [ ] A) Una lectura turística. <!-- feedback: Incorrecto. -->
 - [x] B) Una lectura inferencial: interpreta pistas, fechas y lugares para reconstruir historias del pasado. <!-- feedback: Correcto. -->
 - [ ] C) Una lectura científica. <!-- feedback: Incorrecto. -->

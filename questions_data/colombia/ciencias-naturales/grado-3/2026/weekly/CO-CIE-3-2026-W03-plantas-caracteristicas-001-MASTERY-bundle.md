@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY"
+id: "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "plantas-caracteristicas"
-semana: "W03"
+week: "W03"
 protocol_version: "5.2"
 bundle_type: "weekly"
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "plantas, partes_planta, raiz, tallo, hojas, fotosintesis_basic
 license: "FREE"
 tier: "legacy"
 
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Ciencias Naturales Grado 3 - Semana W03
 
@@ -28,13 +32,14 @@ Semana 3: Características de las plantas. Partes de la planta y sus funciones: 
 
 ---
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 
 **ID:** `CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** En la huerta escolar del Colegio San Bartolomé de Bucaramanga, los estudiantes están aprendiendo las partes de una planta con un frijol germinado.
+**Contexto:** En la huerta escolar del Colegio San Bartolomé de Bucaramanga, los estudiantes están aprendiendo las partes de una planta con un frijol germinado.
 
 ### Enunciado
 ¿Cuál es la parte de la planta que generalmente crece debajo de la tierra y absorbe agua y minerales?
@@ -50,13 +55,14 @@ Las plantas tienen órganos especializados para diferentes funciones. La raíz c
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 
 **ID:** `CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** La profesora pregunta a los estudiantes qué función cumple cada parte de la planta.
+**Contexto:** La profesora pregunta a los estudiantes qué función cumple cada parte de la planta.
 
 ### Enunciado
 ¿Qué función principal cumple el tallo de una planta?
@@ -72,13 +78,14 @@ El tallo es el eje de la planta que conecta las raíces con las hojas. Intername
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 
 **ID:** `CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** Andrea riega su planta de la casa y nota que el agua que echa en la tierra desaparece después de un rato.
+**Contexto:** Andrea riega su planta de la casa y nota que el agua que echa en la tierra desaparece después de un rato.
 
 ### Enunciado
 ¿Qué sucede con el agua que Andrea echa en la tierra de la maceta?
@@ -94,13 +101,14 @@ Las plantas absorben agua del suelo a través de los pelos absorbentes de sus ra
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 
 **ID:** `CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** Mateo coloca una bolsa de plástico transparente sobre una hoja de su planta de tomate. Al día siguiente, ve gotitas de agua dentro de la bolsa.
+**Contexto:** Mateo coloca una bolsa de plástico transparente sobre una hoja de su planta de tomate. Al día siguiente, ve gotitas de agua dentro de la bolsa.
 
 ### Enunciado
 ¿De dónde salieron las gotitas de agua dentro de la bolsa?
@@ -116,13 +124,14 @@ Las plantas liberan vapor de agua al ambiente a través de unos poros microscóp
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 
 **ID:** `CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** En la clase de ciencias, los estudiantes deben relacionar cada parte de la planta con su función usando tarjetas.
+**Contexto:** En la clase de ciencias, los estudiantes deben relacionar cada parte de la planta con su función usando tarjetas.
 
 ### Enunciado
 ¿Qué parte de la planta se encarga de fabricar el alimento usando la luz del sol?
@@ -138,13 +147,14 @@ La fotosíntesis ocurre principalmente en las hojas, donde la clorofila (pigment
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 
 **ID:** `CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** Valeria tiene dos plantas de la misma especie. Una la mantiene en el balcón con sol y la otra dentro de un armario oscuro.
+**Contexto:** Valeria tiene dos plantas de la misma especie. Una la mantiene en el balcón con sol y la otra dentro de un armario oscuro.
 
 ### Enunciado
 ¿Qué le sucederá a la planta que está en el armario oscuro después de una semana?
@@ -160,13 +170,14 @@ La luz solar es indispensable para las plantas porque proporciona la energía ne
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 
 **ID:** `CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** La profesora muestra semillas de diferentes frutas: aguacate, maracuyá, fresa y mango, todas cultivadas en Colombia.
+**Contexto:** La profesora muestra semillas de diferentes frutas: aguacate, maracuyá, fresa y mango, todas cultivadas en Colombia.
 
 ### Enunciado
 ¿Qué función cumplen las flores en las plantas?
@@ -182,13 +193,14 @@ La función principal de las flores es la reproducción de las plantas. Las flor
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 
 **ID:** `CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
 
-**Context:** Durante un paseo por el Parque Nacional Natural Chingaza, los estudiantes observan líquenes creciendo sobre las rocas.
+**Contexto:** Durante un paseo por el Parque Nacional Natural Chingaza, los estudiantes observan líquenes creciendo sobre las rocas.
 
 ### Enunciado
 ¿Por qué los líquenes pueden crecer sobre rocas desnudas donde otras plantas no pueden?
@@ -204,13 +216,14 @@ Los líquenes son organismos fascinantes formados por la simbiosis entre un hong
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 
 **ID:** `CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** Un agricultor de la sabana de Bogotá nota que sus lechugas crecen más cuando las riega temprano en la mañana que cuando las riega al mediodía.
+**Contexto:** Un agricultor de la sabana de Bogotá nota que sus lechugas crecen más cuando las riega temprano en la mañana que cuando las riega al mediodía.
 
 ### Enunciado
 ¿Cuál es la explicación más probable para esta observación?
@@ -226,13 +239,14 @@ La evaporación del agua del suelo depende de la temperatura y la intensidad del
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 
 **ID:** `CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-v10`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Indagación
 
-**Context:** Un estudiante afirma que como las raíces de los árboles rompen el concreto de las aceras en su barrio de Ibagué, entonces las plantas son dañinas y deberían eliminarse de las ciudades.
+**Contexto:** Un estudiante afirma que como las raíces de los árboles rompen el concreto de las aceras en su barrio de Ibagué, entonces las plantas son dañinas y deberían eliminarse de las ciudades.
 
 ### Enunciado
 ¿Qué opinas sobre la afirmación del estudiante?

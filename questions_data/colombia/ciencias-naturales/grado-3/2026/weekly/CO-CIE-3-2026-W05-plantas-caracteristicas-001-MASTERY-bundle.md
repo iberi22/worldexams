@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY"
+id: "CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "plantas-caracteristicas"
-semana: "W05"
+week: "W05"
 periodo: 1
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Características generales de las plantas: autótrofas, sésil
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # El Mundo de las Plantas
 
 Este bundle refuerza las características únicas de las plantas que las diferencian de otros seres vivos, como su capacidad de fabricar alimento y su vida fija en el suelo.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un parque de Pereira, los niños observan que las plantas no corren para buscar comida como lo hacen las palomas.
+**Contexto:** En un parque de Pereira, los niños observan que las plantas no corren para buscar comida como lo hacen las palomas.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -48,12 +52,12 @@ Las plantas se distinguen por estar ancladas a la tierra. Sus raíces no solo ab
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Las plantas son los únicos seres vivos que no necesitan "ir al supermercado" o cazar para alimentarse.
+**Contexto:** Las plantas son los únicos seres vivos que no necesitan "ir al supermercado" o cazar para alimentarse.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -73,12 +77,12 @@ La nutrición autótrofa es la base de la vida en la Tierra. Al fabricar su alim
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un estudiante nota que la mayoría de las plantas tienen un color verde muy llamativo en sus hojas y tallos jóvenes.
+**Contexto:** Un estudiante nota que la mayoría de las plantas tienen un color verde muy llamativo en sus hojas y tallos jóvenes.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -98,12 +102,12 @@ La clorofila se encuentra dentro de las células vegetales. Su función es captu
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** En la selva del Amazonas, las plantas compiten por llegar lo más alto posible para que las hojas reciban los rayos del sol.
+**Contexto:** En la selva del Amazonas, las plantas compiten por llegar lo más alto posible para que las hojas reciban los rayos del sol.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -123,12 +127,12 @@ El sol es la fuente de energía externa que activa la "fábrica" de la planta. A
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Si pones una planta dentro de una caja cerrada y oscura pero le das agua todos los días.
+**Contexto:** Si pones una planta dentro de una caja cerrada y oscura pero le das agua todos los días.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -148,12 +152,12 @@ Este experimento mental demuestra que todas las necesidades de la planta deben c
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Las plantas, al igual que los animales, necesitan "respirar" el aire que las rodea para mantenerse vivas.
+**Contexto:** Las plantas, al igual que los animales, necesitan "respirar" el aire que las rodea para mantenerse vivas.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -173,12 +177,12 @@ Las plantas respiran todo el tiempo, día y noche. Toman oxígeno y liberan gas 
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** En el desierto de la Guajira, hay plantas que no tienen hojas anchas sino espinas y tallos muy gordos y verdes.
+**Contexto:** En el desierto de la Guajira, hay plantas que no tienen hojas anchas sino espinas y tallos muy gordos y verdes.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -198,12 +202,12 @@ Las plantas se adaptan a su entorno. En lugares con muy poca agua, tener hojas g
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Los árboles de un bosque ayudan a refrescar el aire y a que se formen nubes de lluvia.
+**Contexto:** Los árboles de un bosque ayudan a refrescar el aire y a que se formen nubes de lluvia.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -223,12 +227,12 @@ La transpiración es vital para el ciclo del agua. Los grandes bosques, como el 
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Algunas plantas "atrapan" insectos, pero no los usan para tener energía, sino para obtener minerales que no hay en el suelo donde viven.
+**Contexto:** Algunas plantas "atrapan" insectos, pero no los usan para tener energía, sino para obtener minerales que no hay en el suelo donde viven.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -248,12 +252,12 @@ Las plantas insectívoras viven en suelos muy pobres. Aunque atrapan hormigas o 
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W05-plantas-caracteristicas-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un artista pinta una pared de verde oscuro y dice que la pared ahora "respira y fabrica comida" porque el color es igual al de las plantas.
+**Contexto:** Un artista pinta una pared de verde oscuro y dice que la pared ahora "respira y fabrica comida" porque el color es igual al de las plantas.
 **Expected_Success:** 0.50
 
 ### Enunciado

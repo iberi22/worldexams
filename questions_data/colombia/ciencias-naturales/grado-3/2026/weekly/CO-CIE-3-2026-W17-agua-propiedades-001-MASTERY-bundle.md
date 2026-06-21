@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W17-agua-propiedades-001-MASTERY"
+id: "CO-CIE-3-2026-W17-agua-propiedades-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "agua-propiedades"
-semana: "W17"
+week: "W17"
 periodo: 2
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Propiedades del agua: incolora, inodora, insípida y capacidad
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Propiedades del Agua
 
 Este bundle explora las características físicas del agua que la hacen única y esencial para todos los seres vivos en la naturaleza.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W17-agua-propiedades-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la cocina de su casa, Juan observa un vaso de agua pura y trata de ver si tiene algún color.
+**Contexto:** En la cocina de su casa, Juan observa un vaso de agua pura y trata de ver si tiene algún color.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ El agua en su estado puro es incolora. Esta propiedad permite que la luz del sol
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W17-agua-propiedades-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Mariana prueba un poco de agua potable y nota que no sabe a dulce, ni a salado, ni a ácido.
+**Contexto:** Mariana prueba un poco de agua potable y nota que no sabe a dulce, ni a salado, ni a ácido.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -73,12 +77,12 @@ El agua es insípida. Si el agua que tomas tiene algún sabor extraño, puede se
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W17-agua-propiedades-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Acercas tu nariz a un recipiente con agua limpia que acaba de salir del filtro y no sientes ningún aroma.
+**Contexto:** Acercas tu nariz a un recipiente con agua limpia que acaba de salir del filtro y no sientes ningún aroma.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -98,12 +102,12 @@ El agua pura es inodora. Esto es muy importante en la naturaleza porque permite 
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W17-agua-propiedades-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Si echas una cucharada de sal en un vaso de agua y revuelves, la sal desaparece de la vista y el agua sigue pareciendo igual.
+**Contexto:** Si echas una cucharada de sal en un vaso de agua y revuelves, la sal desaparece de la vista y el agua sigue pareciendo igual.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ El agua es un solvente increíble. Gracias a su capacidad de disolución, puede 
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W17-agua-propiedades-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Tienes tres vasos con agua: uno tiene azúcar, otro tiene tierra y otro tiene aceite. Revuelves los tres.
+**Contexto:** Tienes tres vasos con agua: uno tiene azúcar, otro tiene tierra y otro tiene aceite. Revuelves los tres.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -148,12 +152,12 @@ No todas las cosas se disuelven en agua, pero muchísimas sí. Las que se disuel
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W17-agua-propiedades-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Si pones agua en un vaso cuadrado, el agua se ve cuadrada. Si la pasas a una jarra redonda, el agua se ve redonda.
+**Contexto:** Si pones agua en un vaso cuadrado, el agua se ve cuadrada. Si la pasas a una jarra redonda, el agua se ve redonda.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -173,12 +177,12 @@ A diferencia de los sólidos (como una piedra) que mantienen su forma, el agua e
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W17-agua-propiedades-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un niño pone una gota de agua sobre una hoja de plástico y nota que la gota se mantiene unida como una bolita, en lugar de desparramarse totalmente.
+**Contexto:** Un niño pone una gota de agua sobre una hoja de plástico y nota que la gota se mantiene unida como una bolita, en lugar de desparramarse totalmente.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -198,12 +202,12 @@ La tensión superficial es muy fuerte en el agua. Gracias a ella, algunos insect
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W17-agua-propiedades-001-MASTERY-v8`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En los páramos de Colombia, el agua a veces se congela y se vuelve hielo duro que flota en las lagunas.
+**Contexto:** En los páramos de Colombia, el agua a veces se congela y se vuelve hielo duro que flota en las lagunas.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -223,12 +227,12 @@ Esta es una propiedad casi única del agua. En la mayoría de las sustancias, el
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W17-agua-propiedades-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
-**Context:** Si metes la punta de una servilleta de papel en un vaso de agua, verás que el agua empieza a subir sola por el papel hacia arriba.
+**Contexto:** Si metes la punta de una servilleta de papel en un vaso de agua, verás que el agua empieza a subir sola por el papel hacia arriba.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -248,12 +252,12 @@ La capilaridad es vital para las plantas. Gracias a ella, el agua puede subir de
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W17-agua-propiedades-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un anuncio de televisión dice: "Nuestra agua es la mejor porque tiene un delicioso sabor a fresa y es de un color azul brillante".
+**Contexto:** Un anuncio de televisión dice: "Nuestra agua es la mejor porque tiene un delicioso sabor a fresa y es de un color azul brillante".
 **Expected_Success:** 0.60
 
 ### Enunciado

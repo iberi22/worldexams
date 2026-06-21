@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-6-2026-W19-tema-semana-19-de-lengua-castellana-001-MASTERY"
+id: "CO-LEN-6-2026-W19-tema-semana-19-de-lengua-castellana-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lengua-castellana"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 10
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W19 — Tema Semana 19 de Lengua Castellana
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** I.E. San José en Riohacha
+**Contexto:** I.E. San José en Riohacha
 **Expected_Success:** 0.80
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. San José en Riohacha, se discute sobre Tema Semana 19 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Tema Semana 19 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Bucaramanga
+**Contexto:** Gimnasio Moderno en Bucaramanga
 **Expected_Success:** 0.69
 
 ### Enunciado
 En la clase de Lengua Castellana del Gimnasio Moderno en Bucaramanga, se discute sobre Tema Semana 19 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Tema Semana 19 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Armenia
+**Contexto:** I.E. Francisco de Paula Santander en Armenia
 **Expected_Success:** 0.58
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Francisco de Paula Santander en Armenia, se discute sobre Tema Semana 19 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Tema Semana 19 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** I.E. Francisco de Paula Santander en Cartagena
+**Contexto:** I.E. Francisco de Paula Santander en Cartagena
 **Expected_Success:** 0.69
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Francisco de Paula Santander en Cartagena, se discute sobre Tema Semana 19 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Tema Semana 19 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Sincelejo
+**Contexto:** I.E. Jorge Eliécer Gaitán en Sincelejo
 **Expected_Success:** 0.51
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Jorge Eliécer Gaitán en Sincelejo, se discute sobre Tema Semana 19 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Tema Semana 19 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Cartagena
+**Contexto:** I.E. Santa Luisa de Marillac en Cartagena
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Santa Luisa de Marillac en Cartagena, se discute sobre Tema Semana 19 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Tema Semana 19 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Tunja
+**Contexto:** Gimnasio Moderno en Tunja
 **Expected_Success:** 0.54
 
 ### Enunciado
 En la clase de Lengua Castellana del Gimnasio Moderno en Tunja, se discute sobre Tema Semana 19 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Tema Semana 19 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Armenia
+**Contexto:** I.E. San José en Armenia
 **Expected_Success:** 0.52
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. San José en Armenia, se discute sobre Tema Semana 19 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Tema Semana 19 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** Gimnasio Moderno en Cartagena
+**Contexto:** Gimnasio Moderno en Cartagena
 **Expected_Success:** 0.63
 
 ### Enunciado
 En la clase de Lengua Castellana del Gimnasio Moderno en Cartagena, se discute sobre Tema Semana 19 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Tema Semana 19 de Lengua Castellana es central en el currículo de 6�
 **ID:** `CO-LEN-6-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** I.E. Jorge Eliécer Gaitán en Cali
+**Contexto:** I.E. Jorge Eliécer Gaitán en Cali
 **Expected_Success:** 0.64
 
 ### Enunciado
 En la clase de Lengua Castellana del I.E. Jorge Eliécer Gaitán en Cali, se discute sobre Tema Semana 19 de Lengua Castellana. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Tema Semana 19 de Lengua Castellana <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Tema Semana 19 de Lengua Castellana <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 19 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

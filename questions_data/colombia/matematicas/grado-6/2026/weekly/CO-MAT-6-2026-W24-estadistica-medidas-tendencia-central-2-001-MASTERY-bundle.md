@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W24 -- Estadistica: Medidas de Tendencia Central (Parte 2 - Mediana)
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W24-estadistica-medidas-tendencia-central-2-001-MASTERY-bundle-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Definicion de mediana
+**Contexto:** Definicion de mediana
 
 ### Enunciado
 Que es la mediana?
 
-### Options
+### Opciones
 - [x] A) El valor central de los datos ordenados <!-- feedback: Correcto. -->
 - [ ] B) El valor mas repetido <!-- feedback: Incorrecto, es moda. -->
 - [ ] C) El promedio de datos <!-- feedback: Incorrecto, es media. -->
@@ -48,13 +51,14 @@ Mediana: valor que divide datos ordenados en dos partes iguales.
 
 **ID:** `CO-MAT-6-2026-W24-estadistica-medidas-tendencia-central-2-001-MASTERY-bundle-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Mediana impar
+**Contexto:** Mediana impar
 
 ### Enunciado
 Cual es la mediana de: 5, 8, 3, 6, 9?
 
-### Options
+### Opciones
 - [x] A) 6 <!-- feedback: Correcto. Orden: 3,5,6,8,9. Central=6. -->
 - [ ] B) 5 <!-- feedback: Incorrecto. -->
 - [ ] C) 8 <!-- feedback: Incorrecto. -->
@@ -69,13 +73,14 @@ Ordenados: 3,5,6,8,9. El central (3ro) es 6.
 
 **ID:** `CO-MAT-6-2026-W24-estadistica-medidas-tendencia-central-2-001-MASTERY-bundle-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Mediana par
+**Contexto:** Mediana par
 
 ### Enunciado
 Edades: 10, 12, 8, 11, 9, 13. Mediana?
 
-### Options
+### Opciones
 - [x] A) 10.5 <!-- feedback: Correcto. Orden:8,9,10,11,12,13. (10+11)/2=10.5. -->
 - [ ] B) 10 <!-- feedback: Incorrecto. -->
 - [ ] C) 11 <!-- feedback: Incorrecto. -->
@@ -90,13 +95,14 @@ Con 6 datos pares: (10+11)/2=10.5.
 
 **ID:** `CO-MAT-6-2026-W24-estadistica-medidas-tendencia-central-2-001-MASTERY-bundle-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Comparar media y mediana
+**Contexto:** Comparar media y mediana
 
 ### Enunciado
 Sueldos: $1M, $1.2M, $1.1M, $1.3M, $5M. Que medida representa mejor el sueldo tipico?
 
-### Options
+### Opciones
 - [x] A) Mediana ($1.2M) <!-- feedback: Correcto. La media ($1.92M) se distorsiona por $5M. -->
 - [ ] B) Media ($1.92M) <!-- feedback: Incorrecto, el $5M infla la media. -->
 - [ ] C) Moda <!-- feedback: Incorrecto, no hay moda clara. -->
@@ -111,13 +117,14 @@ Mediana=1.2M no afectada por el valor extremo de $5M. Media=1.92M distorsionada.
 
 **ID:** `CO-MAT-6-2026-W24-estadistica-medidas-tendencia-central-2-001-MASTERY-bundle-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Calcular mediana
+**Contexto:** Calcular mediana
 
 ### Enunciado
 Notas: 3.0, 4.5, 3.5, 5.0, 2.5, 4.0. Mediana?
 
-### Options
+### Opciones
 - [x] A) 3.75 <!-- feedback: Correcto. Orden:2.5,3.0,3.5,4.0,4.5,5.0. (3.5+4.0)/2=3.75. -->
 - [ ] B) 3.5 <!-- feedback: Incorrecto. -->
 - [ ] C) 4.0 <!-- feedback: Incorrecto. -->
@@ -132,13 +139,14 @@ Notas: 3.0, 4.5, 3.5, 5.0, 2.5, 4.0. Mediana?
 
 **ID:** `CO-MAT-6-2026-W24-estadistica-medidas-tendencia-central-2-001-MASTERY-bundle-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Aplicacion mediana
+**Contexto:** Aplicacion mediana
 
 ### Enunciado
 Tiempos(min): 12, 15, 11, 14, 13, 16, 10. Mediana?
 
-### Options
+### Opciones
 - [x] A) 13 min <!-- feedback: Correcto. Orden:10,11,12,13,14,15,16. 4to=13. -->
 - [ ] B) 12 <!-- feedback: Incorrecto. -->
 - [ ] C) 14 <!-- feedback: Incorrecto. -->
@@ -153,13 +161,14 @@ Tiempos(min): 12, 15, 11, 14, 13, 16, 10. Mediana?
 
 **ID:** `CO-MAT-6-2026-W24-estadistica-medidas-tendencia-central-2-001-MASTERY-bundle-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Media vs mediana
+**Contexto:** Media vs mediana
 
 ### Enunciado
 Edades: 25, 26, 27, 28, 29, 65. Que medida usar?
 
-### Options
+### Opciones
 - [x] A) Mediana (27.5) <!-- feedback: Correcto. La media (33.3) se infla por 65. -->
 - [ ] B) Media (33.3) <!-- feedback: Incorrecto. -->
 - [ ] C) Moda <!-- feedback: Incorrecto. -->
@@ -174,13 +183,14 @@ Mediana=(27+28)/2=27.5. Media=(25+26+27+28+29+65)/6=33.3 distorsionada.
 
 **ID:** `CO-MAT-6-2026-W24-estadistica-medidas-tendencia-central-2-001-MASTERY-bundle-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Todas las medidas
+**Contexto:** Todas las medidas
 
 ### Enunciado
 Datos: 2, 4, 4, 6, 8, 8, 8, 10. Media, mediana y moda?
 
-### Options
+### Opciones
 - [x] A) Media=6.25, Mediana=7, Moda=8 <!-- feedback: Correcto. Suma=50, media=6.25. Med=(6+8)/2=7. Moda=8. -->
 - [ ] B) Media=6.25, Mediana=6, Moda=8 <!-- feedback: Incorrecto. -->
 - [ ] C) Media=6, Mediana=7, Moda=8 <!-- feedback: Incorrecto. -->

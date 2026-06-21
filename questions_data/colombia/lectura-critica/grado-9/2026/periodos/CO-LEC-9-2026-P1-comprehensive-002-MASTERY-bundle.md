@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-9-2026-P1-comprehensive-002-MASTERY"
+id: "CO-LEC-9-2026-P1-comprehensive-002-MASTERY-bundle"
 country: "colombia"
 grado: 9
 asignatura: "lectura-critica"
@@ -19,7 +19,12 @@ rubric_baseline: "tipología textual (narrativa, argumentativa), inferencia loca
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Narrativos, Argumentativos e Inferencia Lectora
 
@@ -31,13 +36,14 @@ Este bundle cubre la identificación de tipologías textuales (narrativa y argum
 
 **ID:** `CO-LEC-9-2026-P1-comprehensive-002-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica
-**Context:** En una clase de lengua castellana en un colegio de Bogotá, la profesora explica los tipos de texto según su estructura y propósito.
+**Contexto:** En una clase de lengua castellana en un colegio de Bogotá, la profesora explica los tipos de texto según su estructura y propósito.
 
 ### Enunciado
 ¿Cuál es el propósito principal de un texto narrativo?
 
-### Options
+### Opciones
 - [ ] A) Convencer al lector de una opinión mediante argumentos. <!-- feedback: Incorrect. Ese es el propósito de un texto argumentativo, no narrativo. -->
 - [ ] B) Explicar un fenómeno científico de manera objetiva. <!-- feedback: Incorrect. Ese es el propósito de un texto expositivo o científico. -->
 - [x] C) Relatar una historia o sucesos, reales o ficticios, en una secuencia temporal. <!-- feedback: Correct. La narración cuenta eventos en una secuencia con personajes, tiempo y espacio. -->
@@ -52,13 +58,14 @@ Los textos narrativos se caracterizan por contar una historia con personajes, un
 
 **ID:** `CO-LEC-9-2026-P1-comprehensive-002-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica
-**Context:** En el Colegio San José de Medellín, los estudiantes aprenden sobre conectores textuales.
+**Contexto:** En el Colegio San José de Medellín, los estudiantes aprenden sobre conectores textuales.
 
 ### Enunciado
 ¿Cuál de los siguientes conectores indica una relación de causa-efecto entre dos ideas?
 
-### Options
+### Opciones
 - [ ] A) "Sin embargo" <!-- feedback: Incorrect. "Sin embargo" indica contraste u oposición, no causa-efecto. -->
 - [ ] B) "Además" <!-- feedback: Incorrect. "Además" indica adición o suma de información. -->
 - [x] C) "Por lo tanto" <!-- feedback: Correct. "Por lo tanto" introduce una consecuencia o conclusión derivada de lo anterior. -->
@@ -73,13 +80,14 @@ Los conectores de causa-efecto (como "por lo tanto", "en consecuencia", "debido 
 
 **ID:** `CO-LEC-9-2026-P1-comprehensive-002-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica
-**Context:** Una estudiante en Cali lee un texto que describe la contaminación del río Cauca y las opiniones de diferentes actores sobre sus causas y soluciones.
+**Contexto:** Una estudiante en Cali lee un texto que describe la contaminación del río Cauca y las opiniones de diferentes actores sobre sus causas y soluciones.
 
 ### Enunciado
 ¿A qué tipología textual pertenece predominantemente un texto que presenta opiniones encontradas sobre un tema y busca persuadir al lector?
 
-### Options
+### Opciones
 - [ ] A) Narrativa <!-- feedback: Incorrect. Un texto que busca persuadir no narra una historia, sino que defiende una postura. -->
 - [x] B) Argumentativa <!-- feedback: Correct. El texto argumentativo presenta tesis, argumentos y contraargumentos para convencer al lector de una posición. -->
 - [ ] C) Lírica <!-- feedback: Incorrect. La lírica expresa sentimientos y emociones en verso, no argumenta posiciones. -->
@@ -94,13 +102,14 @@ Los textos argumentativos tienen como fin persuadir al lector. Su estructura inc
 
 **ID:** `CO-LEC-9-2026-P1-comprehensive-002-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica
-**Context:** En un examen de lectura crítica en Bogotá, se pregunta sobre la diferencia entre tema e idea principal de un texto.
+**Contexto:** En un examen de lectura crítica en Bogotá, se pregunta sobre la diferencia entre tema e idea principal de un texto.
 
 ### Enunciado
 La idea principal de un texto se diferencia del tema porque:
 
-### Options
+### Opciones
 - [ ] A) El tema es más específico que la idea principal. <!-- feedback: Incorrect. El tema es más general; la idea principal es más específica. -->
 - [ ] B) Ambos conceptos son sinónimos y no hay diferencia. <!-- feedback: Incorrect. Son conceptos distintos aunque relacionados. -->
 - [x] C) El tema es el asunto general del texto, mientras que la idea principal es lo que el autor afirma específicamente sobre ese tema. <!-- feedback: Correct. El tema responde "¿de qué trata?"; la idea principal responde "¿qué dice sobre ese tema?". -->
@@ -115,13 +124,14 @@ El tema es el asunto general (ej: "la contaminación del agua"). La idea princip
 
 **ID:** `CO-LEC-9-2026-P1-comprehensive-002-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica
-**Context:** Un estudiante en Barranquilla lee el siguiente fragmento: "Mariana caminaba lentamente por la carrera 50. El sol del mediodía en Sincelejo era implacable. Recordó que había olvidado su sombrilla en casa y suspiró con resignación."
+**Contexto:** Un estudiante en Barranquilla lee el siguiente fragmento: "Mariana caminaba lentamente por la carrera 50. El sol del mediodía en Sincelejo era implacable. Recordó que había olvidado su sombrilla en casa y suspiró con resignación."
 
 ### Enunciado
 A partir del fragmento, ¿qué se puede inferir sobre el clima en Sincelejo en ese momento?
 
-### Options
+### Opciones
 - [ ] A) Que está lloviendo. <!-- feedback: Incorrect. No hay ninguna referencia a lluvia en el texto. -->
 - [x] B) Que hace mucho calor y el sol es muy fuerte. <!-- feedback: Correct. "Sol del mediodía implacable" y la mención a la sombrilla permiten inferir calor intenso. -->
 - [ ] C) Que es un día nublado y fresco. <!-- feedback: Incorrect. El texto menciona "sol del mediodía", lo que contradice un día nublado. -->
@@ -136,13 +146,14 @@ La inferencia es una conclusión que el lector obtiene a partir de la informaci�
 
 **ID:** `CO-LEC-9-2026-P1-comprehensive-002-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica
-**Context:** En una clase de lectura crítica en Pereira, los estudiantes analizan un texto argumentativo sobre el uso del celular en las escuelas.
+**Contexto:** En una clase de lectura crítica en Pereira, los estudiantes analizan un texto argumentativo sobre el uso del celular en las escuelas.
 
 ### Enunciado
 Lee el siguiente argumento: "El uso del celular en clase distrae a los estudiantes. Por lo tanto, las escuelas deberían prohibir su uso durante las horas de clase." ¿Qué tipo de estructura argumentativa se presenta?
 
-### Options
+### Opciones
 - [ ] A) Argumento deductivo: va de una regla general a un caso particular. <!-- feedback: Incorrect. El texto va de un hecho concreto a una conclusión (inductivo), no al revés. -->
 - [x] B) Argumento inductivo: parte de una observación particular (la distracción) para llegar a una conclusión general (la prohibición). <!-- feedback: Correct. La premisa es una observación, de la que se deriva una conclusión general. -->
 - [ ] C) Argumento por analogía: compara dos situaciones similares. <!-- feedback: Incorrect. No hay comparación con otra situación. -->
@@ -157,13 +168,14 @@ La argumentación inductiva parte de hechos u observaciones particulares para ll
 
 **ID:** `CO-LEC-9-2026-P1-comprehensive-002-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica
-**Context:** Un lector analiza un cuento corto sobre la vida en el campo colombiano.
+**Contexto:** Un lector analiza un cuento corto sobre la vida en el campo colombiano.
 
 ### Enunciado
 "Don José sembró las semillas de maíz al amanecer. Las lluvias de abril fueron generosas. En agosto, la cosecha fue la mejor que había tenido en años." ¿Qué tipo de estructura predomina en este fragmento?
 
-### Options
+### Opciones
 - [ ] A) Descriptiva: describe cómo es Don José. <!-- feedback: Incorrect. No describe físicamente a Don José. -->
 - [x] B) Narrativa cronológica: presenta eventos en secuencia temporal (amanecer → abril → agosto). <!-- feedback: Correct. Los eventos se presentan en orden cronológico. -->
 - [ ] C) Argumentativa: defiende la importancia de sembrar maíz. <!-- feedback: Incorrect. No hay tesis ni argumentos. -->
@@ -178,13 +190,14 @@ La narración cronológica organiza los eventos en el orden en que ocurren: siem
 
 **ID:** `CO-LEC-9-2026-P1-comprehensive-002-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica
-**Context:** En un debate escolar en Cartagena, un estudiante dice: "Todos sabemos que los jóvenes colombianos no leen. Por eso, no tiene sentido invertir más en bibliotecas públicas."
+**Contexto:** En un debate escolar en Cartagena, un estudiante dice: "Todos sabemos que los jóvenes colombianos no leen. Por eso, no tiene sentido invertir más en bibliotecas públicas."
 
 ### Enunciado
 ¿Qué falacia lógica comete este argumento?
 
-### Options
+### Opciones
 - [ ] A) Falso dilema <!-- feedback: Incorrect. No presenta solo dos opciones como únicas posibles. -->
 - [ ] B) Ataque personal (ad hominem) <!-- feedback: Incorrect. No ataca a una persona para desacreditar su argumento. -->
 - [x] C) Generalización apresurada <!-- feedback: Correct. Afirma que "todos los jóvenes no leen" basándose en una observación limitada o prejuicio, sin evidencia suficiente. -->
@@ -199,13 +212,14 @@ La generalización apresurada (también llamada "falacia de la muestra insuficie
 
 **ID:** `CO-LEC-9-2026-P1-comprehensive-002-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica
-**Context:** Un lector analiza un artículo editorial del periódico El Tiempo sobre la reforma educativa en Colombia.
+**Contexto:** Un lector analiza un artículo editorial del periódico El Tiempo sobre la reforma educativa en Colombia.
 
 ### Enunciado
 En un texto argumentativo, la tesis es:
 
-### Options
+### Opciones
 - [ ] A) La información objetiva que respalda ambas posiciones. <!-- feedback: Incorrect. La tesis no es neutral; es la postura del autor. -->
 - [ ] B) Un resumen de todo el texto. <!-- feedback: Incorrect. El resumen es un texto aparte; la tesis es la afirmación central. -->
 - [x] C) La idea central que el autor defiende, la postura que sostiene a lo largo del texto. <!-- feedback: Correct. La tesis es la afirmación principal que el autor intenta probar con argumentos. -->
@@ -220,13 +234,14 @@ En la argumentación, la tesis es la posición del autor frente a un tema contro
 
 **ID:** `CO-LEC-9-2026-P1-comprehensive-002-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica
-**Context:** Un estudiante lee el siguiente párrafo de un cuento colombiano: "Pedro salió de su casa en la Candelaria a las seis de la mañana. *Sin embargo*, no fue a la escuela. *En lugar de eso*, caminó hasta el mercado de San Victorino para ayudar a su abuelo."
+**Contexto:** Un estudiante lee el siguiente párrafo de un cuento colombiano: "Pedro salió de su casa en la Candelaria a las seis de la mañana. *Sin embargo*, no fue a la escuela. *En lugar de eso*, caminó hasta el mercado de San Victorino para ayudar a su abuelo."
 
 ### Enunciado
 ¿Qué función cumplen los conectores "sin embargo" y "en lugar de eso" en el texto?
 
-### Options
+### Opciones
 - [ ] A) Indican causa y efecto entre las acciones. <!-- feedback: Incorrect. No hay una relación causal directa entre las acciones. -->
 - [ ] B) Son conectores de adición para añadir información similar. <!-- feedback: Incorrect. Estos conectores no añaden, sino que contrastan o reemplazan. -->
 - [x] C) "Sin embargo" indica contraste/oposición entre salir temprano y no ir a la escuela; "en lugar de eso" indica sustitución de una acción por otra. <!-- feedback: Correct. Ambos conectores señalan un cambio en la expectativa del lector. -->
@@ -241,13 +256,14 @@ En la argumentación, la tesis es la posición del autor frente a un tema contro
 
 **ID:** `CO-LEC-9-2026-P1-comprehensive-002-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica
-**Context:** En el Colegio INEM de Bucaramanga, los estudiantes analizan un cuento de Gabriel García Márquez.
+**Contexto:** En el Colegio INEM de Bucaramanga, los estudiantes analizan un cuento de Gabriel García Márquez.
 
 ### Enunciado
 En un texto narrativo, ¿qué función cumple el "narrador omnisciente"?
 
-### Options
+### Opciones
 - [ ] A) Solo conoce y cuenta lo que un personaje ve y siente. <!-- feedback: Incorrect. Eso describe al narrador en tercera persona limitada, no al omnisciente. -->
 - [x] B) Conoce todos los pensamientos, sentimientos y acciones de todos los personajes, y puede adelantar o retroceder en el tiempo. <!-- feedback: Correct. El narrador omnisciente es "dios" de la historia; lo sabe todo. -->
 - [ ] C) Es un personaje dentro de la historia que narra en primera persona. <!-- feedback: Incorrect. Eso es un narrador protagonista o testigo, no omnisciente. -->
@@ -262,13 +278,14 @@ El narrador omnisciente es aquel que lo sabe todo: pensamientos, emociones, pasa
 
 **ID:** `CO-LEC-9-2026-P1-comprehensive-002-MASTERY-v12`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica
-**Context:** Un estudiante lee el siguiente texto en un examen de admisión: "El río Magdalena ha sido testigo de la historia de Colombia. Por sus aguas navegaron los conquistadores, los comerciantes y los viajeros. Sin embargo, hoy el río enfrenta una crisis ambiental sin precedentes debido a la contaminación y la deforestación."
+**Contexto:** Un estudiante lee el siguiente texto en un examen de admisión: "El río Magdalena ha sido testigo de la historia de Colombia. Por sus aguas navegaron los conquistadores, los comerciantes y los viajeros. Sin embargo, hoy el río enfrenta una crisis ambiental sin precedentes debido a la contaminación y la deforestación."
 
 ### Enunciado
 ¿Cuál es la idea principal del texto?
 
-### Options
+### Opciones
 - [ ] A) El río Magdalena es el más importante de Colombia. <!-- feedback: Incorrect. El texto no afirma eso explícitamente ni es la idea principal. -->
 - [ ] B) Por el río Magdalena navegaron conquistadores y comerciantes. <!-- feedback: Incorrect. Eso es información secundaria o de apoyo. -->
 - [x] C) El río Magdalena, que fue históricamente importante, hoy enfrenta una grave crisis ambiental. <!-- feedback: Correct. La idea principal combina la importancia histórica con la crisis actual. -->
@@ -283,13 +300,14 @@ La idea principal sintetiza el mensaje central del texto. En este caso, combina 
 
 **ID:** `CO-LEC-9-2026-P1-comprehensive-002-MASTERY-v13`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica
-**Context:** En un análisis de textos periodísticos colombianos en el colegio Champagnat de Bogotá, los estudiantes comparan noticias de diferentes medios.
+**Contexto:** En un análisis de textos periodísticos colombianos en el colegio Champagnat de Bogotá, los estudiantes comparan noticias de diferentes medios.
 
 ### Enunciado
 Un titular dice: "Gobierno anuncia nuevo impuesto a las bebidas azucaradas para combatir la obesidad infantil." Otro titular dice: "Gobierno impone nuevo gravamen que afectará a los hogares más pobres." ¿Qué diferencia fundamental hay entre ambos titulares sobre el mismo hecho?
 
-### Options
+### Opciones
 - [ ] A) Uno habla de impuestos y el otro de gravámenes, que son cosas diferentes. <!-- feedback: Incorrect. Impuesto y gravamen son sinónimos en este contexto. -->
 - [ ] B) El primero es más largo que el segundo. <!-- feedback: Incorrect. La diferencia no es de longitud sino de enfoque y valoración. -->
 - [x] C) El primer titular presenta la medida con enfoque positivo (salud pública) y el segundo con enfoque negativo (carga económica). <!-- feedback: Correct. Muestran la misma noticia desde perspectivas valorativas distintas. -->
@@ -304,13 +322,14 @@ La lectura crítica implica reconocer que los medios no son neutros: seleccionan
 
 **ID:** `CO-LEC-9-2026-P1-comprehensive-002-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica
-**Context:** Un estudiante afirma: "Leer no es simplemente decodificar palabras; es construir significado a partir de la interacción entre el texto, el lector y el contexto."
+**Contexto:** Un estudiante afirma: "Leer no es simplemente decodificar palabras; es construir significado a partir de la interacción entre el texto, el lector y el contexto."
 
 ### Enunciado
 ¿Qué postura teórica sobre la lectura defiende esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) La lectura como descodificación: solo requiere reconocer palabras. <!-- feedback: Incorrect. La afirmación contradice esa postura. -->
 - [x] B) La lectura como proceso interactivo y constructivo: el lector aporta sus conocimientos previos y el contexto para construir significado. <!-- feedback: Correct. La lectura es una construcción activa de significado, no una mera decodificación. -->
 - [ ] C) La lectura como memorización de información textual. <!-- feedback: Incorrect. La afirmación va más allá de la memorización. -->
@@ -325,13 +344,14 @@ El modelo interactivo de lectura sostiene que el significado no está solo en el
 
 **ID:** `CO-LEC-9-2026-P1-comprehensive-002-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica
-**Context:** Una publicación en redes sociales dice: "El 80% de los jóvenes colombianos no sabe ubicar a Colombia en un mapa. Esto demuestra que el sistema educativo colombiano es un fracaso total."
+**Contexto:** Una publicación en redes sociales dice: "El 80% de los jóvenes colombianos no sabe ubicar a Colombia en un mapa. Esto demuestra que el sistema educativo colombiano es un fracaso total."
 
 ### Enunciado
 ¿Por qué esta conclusión puede ser considerada una falacia o un argumento débil?
 
-### Options
+### Opciones
 - [ ] A) Porque el 80% es una cifra muy alta y seguramente es verdad. <!-- feedback: Incorrect. Una cifra alta no garantiza que la conclusión sea válida. -->
 - [ ] B) Porque el sistema educativo tiene otros aspectos positivos que no se mencionan. <!-- feedback: Incorrect. Aunque es cierto, no es la razón lógica principal. -->
 - [x] C) Porque generaliza el fracaso de todo el sistema educativo a partir de un solo indicador (ubicar Colombia en el mapa), sin considerar otras variables ni verificar la fuente de la estadística. <!-- feedback: Correct. Un solo dato no es suficiente para juzgar todo un sistema. -->

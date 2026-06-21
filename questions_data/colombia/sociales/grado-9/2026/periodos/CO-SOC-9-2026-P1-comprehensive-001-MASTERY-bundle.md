@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-9-2026-P1-comprehensive-001-MASTERY"
+id: "CO-SOC-9-2026-P1-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 9
 asignatura: "sociales"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Primera y Segunda Guerra Mundial, Colombia en el siglo XX"
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Guerras Mundiales y Colombia en el Siglo XX
 
@@ -28,13 +35,14 @@ Este bundle cubre las causas, desarrollo y consecuencias de las guerras mundiale
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento social
-**Context:** En una clase de historia en Bogota, se estudian las causas de la Primera Guerra Mundial.
+**Contexto:** En una clase de historia en Bogota, se estudian las causas de la Primera Guerra Mundial.
 
 ### Enunciado
 Cual fue el evento inmediato que desencadeno la Primera Guerra Mundial en 1914?
 
-### Options
+### Opciones
 - [ ] A) La invasion de Polonia por Alemania. <!-- feedback: Incorrect. Ese evento desencadeno la Segunda Guerra Mundial en 1939. -->
 - [ ] B) El hundimiento del Lusitania. <!-- feedback: Incorrect. Eso ocurrio en 1915, durante la guerra, no fue el detonante. -->
 - [x] C) El asesinato del archiduque Francisco Fernando en Sarajevo. <!-- feedback: Correct. El 28 de junio de 1914, el heredero del Imperio Austrohungaro fue asesinado, lo que desencadeno una serie de declaraciones de guerra. -->
@@ -49,13 +57,14 @@ El asesinato del archiduque fue la chispa que encendio un conflicto latente debi
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento social
-**Context:** Un estudiante en Medellin pregunta sobre las consecuencias de la Primera Guerra Mundial para Colombia.
+**Contexto:** Un estudiante en Medellin pregunta sobre las consecuencias de la Primera Guerra Mundial para Colombia.
 
 ### Enunciado
 Cual fue la principal consecuencia economica de la Primera Guerra Mundial para Colombia?
 
-### Options
+### Opciones
 - [ ] A) Colombia declaro la guerra a Alemania y envio tropas. <!-- feedback: Incorrect. Colombia se mantuvo neutral durante la Primera Guerra Mundial. -->
 - [x] B) Aumento de las exportaciones colombianas de cafe, especialmente hacia Estados Unidos, debido a la interrupcion del comercio europeo. <!-- feedback: Correct. La guerra interrumpio la produccion agricola europea y Estados Unidos aumento la demanda de cafe colombiano. -->
 - [ ] C) La quiebra total de la economia colombiana. <!-- feedback: Incorrect. Colombia se beneficio economicamente de la guerra. -->
@@ -70,13 +79,14 @@ La Primera Guerra Mundial beneficio a Colombia economicamente al aumentar las ex
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento social
-**Context:** Se analiza el periodo entre guerras en Colombia (1919-1939).
+**Contexto:** Se analiza el periodo entre guerras en Colombia (1919-1939).
 
 ### Enunciado
 Cual fue un cambio social importante en Colombia durante las primeras decadas del siglo XX?
 
-### Options
+### Opciones
 - [ ] A) La abolicion de la esclavitud. <!-- feedback: Incorrect. La esclavitud se abolió en Colombia en 1851, no en el siglo XX. -->
 - [x] B) El surgimiento de movimientos obreros y sindicales, como la fundacion de la CTC (Conferacion de Trabajadores de Colombia). <!-- feedback: Correct. La industrializacion y la urbanizacion impulsaron la organizacion de los trabajadores. -->
 - [ ] C) La independencia de Colombia de Espana. <!-- feedback: Incorrect. La independencia fue en 1819, en el siglo XIX. -->
@@ -91,13 +101,14 @@ El siglo XX en Colombia trajo cambios profundos: urbanizacion, industrializacion
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento social
-**Context:** Un periodico colombiano de 1939 reporta el inicio de la Segunda Guerra Mundial.
+**Contexto:** Un periodico colombiano de 1939 reporta el inicio de la Segunda Guerra Mundial.
 
 ### Enunciado
 Cual fue la causa principal del inicio de la Segunda Guerra Mundial en 1939?
 
-### Options
+### Opciones
 - [ ] A) El Tratado de Versalles, que impuso duras condiciones a Alemania. <!-- feedback: Parcialmente correcto, pero no fue el detonante inmediato. -->
 - [ ] B) La expansion del fascismo italiano en Africa. <!-- feedback: Incorrect. Italia se expandio en Africa, pero el detonante fue en Europa. -->
 - [ ] C) El ascenso de Hitler y la invasion alemana de Polonia en 1939. <!-- feedback: Correct. Alemania invadio Polonia el 1 de septiembre de 1939, lo que llevo a Francia y Reino Unido a declarar la guerra. -->
@@ -112,13 +123,14 @@ La Segunda Guerra Mundial tuvo causas multiples: el Tratado de Versalles, la cri
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Interpretacion y analisis de perspectivas
-**Context:** Un analista compara las consecuencias de ambas guerras mundiales para America Latina.
+**Contexto:** Un analista compara las consecuencias de ambas guerras mundiales para America Latina.
 
 ### Enunciado
 Que consecuencia tuvo la Segunda Guerra Mundial para las relaciones de Colombia con Estados Unidos?
 
-### Options
+### Opciones
 - [A] Colombia rompio relaciones con Estados Unidos. <!-- feedback: Incorrect. Al contrario, se fortalecieron. -->
 - [x] B) Se fortalecio la alianza con Estados Unidos a traves de acuerdos de cooperacion economica y militar. <!-- feedback: Correct. Colombia se alino con Estados Unidos durante la guerra y posteriormente recibio asistencia a traves de programas como la Alianza para el Progreso. -->
 - [ ] C) Colombia se alio con las potencias del Eje. <!-- feedback: Incorrect. Colombia se alio con los Aliados. -->
@@ -133,13 +145,14 @@ La Segunda Guerra Mundial consolido la hegemonia de Estados Unidos en America La
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-001-MASTERY-v6`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento social
-**Context:** En un debate escolar, un estudiante dice que el Bogotazo (9 de abril de 1948) fue un evento aislado.
+**Contexto:** En un debate escolar, un estudiante dice que el Bogotazo (9 de abril de 1948) fue un evento aislado.
 
 ### Enunciado
 Es correcta esta afirmacion? Que contexto politico explica el Bogotazo?
 
-### Options
+### Opciones
 - [ ] A) Si, fue un evento espontaneo sin relacion con la historia colombiana. <!-- feedback: Incorrect. El Bogotazo tuvo profundas raices politicas. -->
 - [x] B) No, el Bogotazo fue el resultado de la violencia politica entre liberales y conservadores, exacerbada por el asesinato de Jorge Eliecer Gaitan. <!-- feedback: Correct. Gaitan era el lider liberal con opciones de ganar las elecciones de 1950. Su asesinato desato una insurreccion popular. -->
 - [ ] C) No, fue causado por agentes extranjeros. <!-- feedback: Parcialmente. Hay teorias sobre la participacion de la CIA, pero la causa fundamental fue la violencia politica interna. -->
@@ -154,13 +167,14 @@ El Bogotazo marco el inicio de La Violencia en Colombia (1948-1958), un periodo 
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Interpretacion y analisis de perspectivas
-**Context:** Se compara la Guerra de Corea (1950-1953) con el contexto de la Guerra Fria.
+**Contexto:** Se compara la Guerra de Corea (1950-1953) con el contexto de la Guerra Fria.
 
 ### Enunciado
 Como se relaciona la Guerra de Corea con la dinamica de la Guerra Fria?
 
-### Options
+### Opciones
 - [ ] A) Fue un conflicto independiente sin relacion con la Guerra Fria. <!-- feedback: Incorrect. Corea fue uno de los primeros escenarios de la Guerra Fria. -->
 - [x] B) Fue un conflicto por delegacion (proxy war) entre Estados Unidos y la Union Sovietica, que apoyaron a bandos opuestos sin enfrentarse directamente. <!-- feedback: Correct. Corea del Norte (URSS y China) vs Corea del Sur (EE.UU. y la ONU). -->
 - [ ] C) Fue una invasion de China a Corea. <!-- feedback: Incorrect. China entro despues para apoyar a Corea del Norte, pero no fue el origen. -->
@@ -175,13 +189,14 @@ La Guerra de Corea ejemplifica las guerras por delegacion de la Guerra Fria, don
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento reflexivo y sistemico
-**Context:** Un historiador analiza el periodo del Frente Nacional en Colombia (1958-1974).
+**Contexto:** Un historiador analiza el periodo del Frente Nacional en Colombia (1958-1974).
 
 ### Enunciado
 Cual fue el proposito principal del Frente Nacional?
 
-### Options
+### Opciones
 - [ ] A) Establecer un gobierno socialista en Colombia. <!-- feedback: Incorrect. El Frente Nacional fue un pacto entre liberales y conservadores. -->
 - [ ] B) Permitir la alternancia en el poder entre liberales y conservadores para poner fin a la violencia bipartidista. <!-- feedback: Correct. Liberales y conservadores acordaron alternarse la presidencia por 16 anos y repartirse la burocracia. -->
 - [ ] C) Integrar a Colombia al Mercosur. <!-- feedback: Incorrect. El Mercosur se creo en 1991, mucho despues. -->
@@ -196,13 +211,14 @@ El Frente Nacional fue un acuerdo entre liberales y conservadores (respaldado po
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-001-MASTERY-v9`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento social
-**Context:** Un estudiante en Cali lee sobre la Guerra Fria y pregunta sobre el significado de la "cortina de hierro".
+**Contexto:** Un estudiante en Cali lee sobre la Guerra Fria y pregunta sobre el significado de la "cortina de hierro".
 
 ### Enunciado
 Que era la "cortina de hierro"?
 
-### Options
+### Opciones
 - [ ] A) Una barrera fisica construida por la Union Sovietica. <!-- feedback: Parcialmente cierto pero incompleto. -->
 - [x] B) La division ideologica y politica entre Europa Occidental (capitalista) y Europa Oriental (comunista) durante la Guerra Fria. <!-- feedback: Correct. El termino, popularizado por Churchill en 1946, describia la frontera ideologica que dividia Europa. -->
 - [ ] C) El nombre de una operacion militar de la OTAN. <!-- feedback: Incorrect. Era un concepto geopolitico, no una operacion militar. -->
@@ -217,13 +233,14 @@ La "cortina de hierro" simbolizaba la division de Europa en dos bloques: el occi
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Interpretacion y analisis de perspectivas
-**Context:** Se analiza la emergencia de movimientos guerrilleros en Colombia en la decada de 1960.
+**Contexto:** Se analiza la emergencia de movimientos guerrilleros en Colombia en la decada de 1960.
 
 ### Enunciado
 Cual fue un factor que contribuyo al surgimiento de las FARC en 1964?
 
-### Options
+### Opciones
 - [ ] A) La influencia directa de la Revolucion Cubana (1959) y la desigualdad social en zonas rurales. <!-- feedback: Correct. La Revolucion Cubana inspiro movimientos revolucionarios en America Latina. La falta de reforma agraria y la exclusion politica fueron causas internas. -->
 - [ ] B) La invasion de Estados Unidos a Panama. <!-- feedback: Incorrect. La invasion de Panama fue en 1989, mucho despues. -->
 - [ ] C) La caida del Muro de Berlin. <!-- feedback: Incorrect. El Muro cayo en 1989, cuando las FARC ya tenian 25 anos de existencia. -->
@@ -238,13 +255,14 @@ Las FARC surgieron en un contexto de exclusion politica (Frente Nacional), desig
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento reflexivo y sistemico
-**Context:** Se analizan las consecuencias de la Segunda Guerra Mundial para el orden mundial.
+**Contexto:** Se analizan las consecuencias de la Segunda Guerra Mundial para el orden mundial.
 
 ### Enunciado
 Cual fue una consecuencia importante de la Segunda Guerra Mundial para la organizacion politica mundial?
 
-### Options
+### Opciones
 - [ ] A) La creacion de la Sociedad de Naciones. <!-- feedback: Incorrect. La Sociedad de Naciones se creo despues de la Primera Guerra Mundial (1919). -->
 - [x] B) La creacion de la Organizacion de las Naciones Unidas (ONU) en 1945. <!-- feedback: Correct. La ONU se fundo en 1945 para reemplazar a la Sociedad de Naciones y promover la paz y cooperacion internacional. -->
 - [ ] C) La unificacion de Europa bajo un solo gobierno. <!-- feedback: Incorrect. La Union Europea se creo gradualmente a partir de 1951, pero no fue una consecuencia inmediata. -->
@@ -259,13 +277,14 @@ La ONU fue creada en la Conferencia de San Francisco (1945) con 51 paises fundad
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-001-MASTERY-v12`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento social
-**Context:** Un estudiante compara la Constitucion de 1886 con la de 1991 en Colombia.
+**Contexto:** Un estudiante compara la Constitucion de 1886 con la de 1991 en Colombia.
 
 ### Enunciado
 Cual fue el contexto politico que llevo a la Constitucion de 1991?
 
-### Options
+### Opciones
 - [ ] A) El fin de la Segunda Guerra Mundial. <!-- feedback: Incorrect. La Constitucion de 1991 es muy posterior. -->
 - [x] B) La crisis de violencia, narcotrafico y la necesidad de una reforma politica que incluyera a sectores excluidos. <!-- feedback: Correct. La Constitucion de 1991 surgio de un proceso de paz con el M-19 y buscaba modernizar el Estado y ampliar derechos. -->
 - [ ] C) La independencia de Colombia. <!-- feedback: Incorrect. La independencia fue en 1819. -->
@@ -280,13 +299,14 @@ La Constitucion de 1991 fue el resultado de un amplio movimiento social (incluye
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-001-MASTERY-v13`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento reflexivo y sistemico
-**Context:** Se debate si la Guerra Fria termino realmente con la caida del Muro de Berlin en 1989.
+**Contexto:** Se debate si la Guerra Fria termino realmente con la caida del Muro de Berlin en 1989.
 
 ### Enunciado
 Cual de las siguientes afirmaciones es correcta sobre el fin de la Guerra Fria?
 
-### Options
+### Opciones
 - [ ] A) La Guerra Fria termino con la Segunda Guerra Mundial. <!-- feedback: Incorrect. La Guerra Fria comenzo despues de la Segunda Guerra Mundial. -->
 - [ ] B) La Guerra Fria termino oficialmente con un tratado de paz. <!-- feedback: Incorrect. No hubo un tratado formal. -->
 - [x] C) La Guerra Fria termino simbolica y realmente con la caida del Muro de Berlin (1989) y la disolucion de la Union Sovietica (1991). <!-- feedback: Correct. Estos eventos marcaron el fin de la confrontacion bipolar entre EE.UU. y la URSS. -->
@@ -301,13 +321,14 @@ El colapso de la Union Sovietica y la caida de los regimenes comunistas en Europ
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento reflexivo y sistemico
-**Context:** Se evalua el impacto de la Revolucion Rusa de 1917 en la politica mundial.
+**Contexto:** Se evalua el impacto de la Revolucion Rusa de 1917 en la politica mundial.
 
 ### Enunciado
 Cual fue la principal consecuencia de la Revolucion Rusa para el resto del siglo XX?
 
-### Options
+### Opciones
 - [ ] A) Rusia se convirtio en una monarquia constitucional. <!-- feedback: Incorrect. La revolucion abolio la monarquia zarista. -->
 - [ ] B) Rusia abandono el comunismo y adopto el capitalismo. <!-- feedback: Incorrect. Eso ocurrio en 1991, no en 1917. -->
 - [x] C) El establecimiento del primer Estado socialista, que inspiro movimientos revolucionarios en todo el mundo y definio la polarizacion ideologica del siglo XX. <!-- feedback: Correct. La URSS se convirtio en el modelo del bloque comunista durante la Guerra Fria. -->
@@ -322,13 +343,14 @@ La Revolucion Rusa establecio el primer gobierno comunista del mundo. La Union S
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento reflexivo y sistemico
-**Context:** Un analista politico evalua el impacto del narcotrafico en la politica y sociedad colombiana durante el siglo XX, especialmente en las decadas de 1980 y 1990.
+**Contexto:** Un analista politico evalua el impacto del narcotrafico en la politica y sociedad colombiana durante el siglo XX, especialmente en las decadas de 1980 y 1990.
 
 ### Enunciado
 Cual fue el efecto mas profundo del narcotrafico en el Estado colombiano durante este periodo?
 
-### Options
+### Opciones
 - [ ] A) El narcotrafico fortalecio las instituciones del Estado. <!-- feedback: Incorrect. Mas bien las debilito y corrompio. -->
 - [x] B) El narcotrafico corrompio instituciones, debilito el Estado de derecho, financio grupos armados y genero una ola de violencia sin precedentes que llevo a una crisis institucional. <!-- feedback: Correct. Los carteles (Medellin y Cali) corrompieron la politica, asesinaron jueces, periodistas y candidatos presidenciales. -->
 - [ ] C) El narcotrafico solo afecto a Estados Unidos, no a Colombia. <!-- feedback: Incorrect. Colombia sufrio las consecuencias mas graves. -->

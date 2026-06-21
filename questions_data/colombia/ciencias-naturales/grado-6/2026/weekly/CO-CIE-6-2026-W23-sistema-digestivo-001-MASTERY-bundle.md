@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W23-sistema-digestivo-001-MASTERY"
+id: "CO-CIE-6-2026-W23-sistema-digestivo-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W23 — Sistema Digestivo
 
@@ -26,11 +28,12 @@ tier: "legacy"
 ## Question 1 [D1]
 **ID:** `CO-CIE-6-2026-W23-sistema-digestivo-001-v1`
 **Bloom:** Remember | **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, inician el sistema digestivo.
+**Expected_Success:** 0.75
+**Contexto:** En Bogotá, inician el sistema digestivo.
 
 ### Enunciado
 ¿Cuál es la función principal del sistema digestivo?
-### Options
+### Opciones
 - [ ] A) Bombear sangre <!-- feedback: Es del circulatorio. -->
 - [x] B) Descomponer alimentos en nutrientes absorbibles <!-- feedback: Correcto. -->
 - [ ] C) Capturar oxígeno <!-- feedback: Es del respiratorio. -->
@@ -43,10 +46,11 @@ El sistema digestivo transforma los alimentos en moléculas pequeñas (nutriente
 ## Question 2 [D1]
 **ID:** `CO-CIE-6-2026-W23-sistema-digestivo-002-v1`
 **Bloom:** Remember | **ICFES:** Comunicación y Representación
-**Context:** En Medellín, identifican órganos.
+**Expected_Success:** 0.75
+**Contexto:** En Medellín, identifican órganos.
 ### Enunciado
 ¿Dónde comienza la digestión?
-### Options
+### Opciones
 - [ ] A) En el estómago <!-- feedback: La digestión química empieza antes. -->
 - [ ] B) En el intestino <!-- feedback: Es después del estómago. -->
 - [x] C) En la boca <!-- feedback: Correcto. -->
@@ -59,10 +63,11 @@ La digestión comienza en la boca con masticación (mecánica) y amilasa salival
 ## Question 3 [D2]
 **ID:** `CO-CIE-6-2026-W23-sistema-digestivo-003-v1`
 **Bloom:** Understand | **ICFES:** Comunicación y Representación
-**Context:** En Cali, explican el estómago.
+**Expected_Success:** 0.75
+**Contexto:** En Cali, explican el estómago.
 ### Enunciado
 ¿Qué produce el estómago para digerir?
-### Options
+### Opciones
 - [ ] A) Bilis <!-- feedback: La produce el hígado. -->
 - [ ] B) Insulina <!-- feedback: La produce el páncreas. -->
 - [x] C) Ácido clorhídrico y pepsina <!-- feedback: Correcto. -->
@@ -75,10 +80,11 @@ El estómago produce HCl (pH 1.5-3.5, mata bacterias y desnaturaliza proteínas)
 ## Question 4 [D2]
 **ID:** `CO-CIE-6-2026-W23-sistema-digestivo-004-v1`
 **Bloom:** Understand | **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, estudian absorción.
+**Expected_Success:** 0.75
+**Contexto:** En Barranquilla, estudian absorción.
 ### Enunciado
 ¿Dónde se absorben la mayoría de nutrientes?
-### Options
+### Opciones
 - [ ] A) En el estómago <!-- feedback: Absorbe poco (alcohol). -->
 - [x] B) En el intestino delgado <!-- feedback: Correcto. -->
 - [ ] C) En el intestino grueso <!-- feedback: Absorbe agua y sales. -->
@@ -91,10 +97,11 @@ El intestino delgado (6-7 m) tiene vellosidades y microvellosidades que aumentan
 ## Question 5 [D3]
 **ID:** `CO-CIE-6-2026-W23-sistema-digestivo-005-v1`
 **Bloom:** Apply | **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, aplican sobre enzimas.
+**Expected_Success:** 0.75
+**Contexto:** En Bucaramanga, aplican sobre enzimas.
 ### Enunciado
 ¿Por qué el limón ayuda a digerir proteínas?
-### Options
+### Opciones
 - [ ] A) Cocina la carne <!-- feedback: Desnaturaliza. -->
 - [ ] B) Ablanda por sabor <!-- feedback: No. -->
 - [x] C) El ácido desnaturaliza proteínas, facilitando enzimas <!-- feedback: Correcto. -->
@@ -107,10 +114,11 @@ El ácido desnaturaliza (despliega) las proteínas, exponiendo enlaces peptídic
 ## Question 6 [D3]
 **ID:** `CO-CIE-6-2026-W23-sistema-digestivo-006-v1`
 **Bloom:** Apply | **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, aplican sobre digestión de grasas.
+**Expected_Success:** 0.75
+**Contexto:** En Cartagena, aplican sobre digestión de grasas.
 ### Enunciado
 ¿Por qué el hígado es importante para digerir grasas?
-### Options
+### Opciones
 - [ ] A) Almacena grasas <!-- feedback: El tejido adiposo almacena. -->
 - [ ] B) Produce insulina <!-- feedback: El páncreas. -->
 - [x] C) Produce bilis que emulsiona las grasas <!-- feedback: Correcto. -->
@@ -123,10 +131,11 @@ La bilis emulsiona las grasas en gotitas pequeñas, aumentando superficie para l
 ## Question 7 [D4]
 **ID:** `CO-CIE-6-2026-W23-sistema-digestivo-007-v1`
 **Bloom:** Analyze | **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan la enfermedad celíaca.
+**Expected_Success:** 0.75
+**Contexto:** En Pereira, analizan la enfermedad celíaca.
 ### Enunciado
 ¿Por qué un celíaco no puede comer gluten?
-### Options
+### Opciones
 - [ ] A) El gluten es tóxico para todos <!-- feedback: Solo para celíacos. -->
 - [ ] B) El gluten engorda <!-- feedback: No es la razón. -->
 - [x] C) El sistema inmune ataca las vellosidades intestinales al detectar gluten <!-- feedback: Correcto. -->
@@ -139,10 +148,11 @@ Enfermedad autoinmune: el gluten activa una respuesta inmune que daña las vello
 ## Question 8 [D4]
 **ID:** `CO-CIE-6-2026-W23-sistema-digestivo-008-v1`
 **Bloom:** Analyze | **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, analizan úlceras.
+**Expected_Success:** 0.75
+**Contexto:** En Manizales, analizan úlceras.
 ### Enunciado
 ¿Causa principal de úlceras gástricas?
-### Options
+### Opciones
 - [ ] A) Comer picante <!-- feedback: No causa úlceras. -->
 - [ ] B) Estrés <!-- feedback: Empeora pero no causa. -->
 - [x] C) Bacteria Helicobacter pylori <!-- feedback: Correcto. -->
@@ -155,10 +165,11 @@ H. pylori daña la capa protectora del estómago, permitiendo que el ácido dañ
 ## Question 9 [D5]
 **ID:** `CO-CIE-6-2026-W23-sistema-digestivo-009-v1`
 **Bloom:** Evaluate | **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan microbiota.
+**Expected_Success:** 0.75
+**Contexto:** En Cúcuta, evalúan microbiota.
 ### Enunciado
 ¿Por qué los antibióticos causan diarrea?
-### Options
+### Opciones
 - [ ] A) Son veneno <!-- feedback: Atacan bacterias. -->
 - [x] B) Matan bacterias benéficas intestinales (microbiota) <!-- feedback: Correcto. -->
 - [ ] C) Irritan el estómago <!-- feedback: Algunos irritan. -->
@@ -171,10 +182,11 @@ La microbiota (100 billones de bacterias) ayuda a digerir fibra y produce vitami
 ## Question 10 [D5]
 **ID:** `CO-CIE-6-2026-W23-sistema-digestivo-010-v1`
 **Bloom:** Evaluate | **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan hábitos.
+**Expected_Success:** 0.75
+**Contexto:** En Ibagué, evalúan hábitos.
 ### Enunciado
 ¿Hábito MÁS saludable para el sistema digestivo?
-### Options
+### Opciones
 - [ ] A) Comer rápido y acostarse <!-- feedback: Causa reflujo. -->
 - [ ] B) Saltarse el desayuno <!-- feedback: No es saludable. -->
 - [x] C) Comer porciones moderadas, masticar bien, incluir fibra <!-- feedback: Correcto. -->

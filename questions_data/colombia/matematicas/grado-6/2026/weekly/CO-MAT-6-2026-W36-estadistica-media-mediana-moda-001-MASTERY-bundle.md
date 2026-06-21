@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W36-estadistica-media-mediana-moda-001-MASTERY"
+id: "CO-MAT-6-2026-W36-estadistica-media-mediana-moda-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W36 — Estadistica: Media, Mediana, Moda
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W36-estadistica-media-mediana-moda-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Definicion de media
+**Contexto:** Definicion de media
 
 ### Enunciado
 En estadistica, la media aritmetica (promedio) se calcula como:
 
-### Options
+### Opciones
 - [ ] A) El valor que mas se repite en un conjunto de datos <!-- feedback: Incorrect. Esa es la definicion de moda, no de media. -->
 - [ ] B) El valor central cuando los datos estan ordenados <!-- feedback: Incorrect. Esa es la mediana. -->
 - [x] C) La suma de todos los datos dividida entre el numero de datos <!-- feedback: Correct. La media es el promedio: suma total ÷ cantidad de elementos. -->
@@ -48,13 +51,14 @@ La media aritmetica, tambien llamada promedio, es la medida de tendencia central
 
 **ID:** `CO-MAT-6-2026-W36-estadistica-media-mediana-moda-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Definicion de moda
+**Contexto:** Definicion de moda
 
 ### Enunciado
 En un conjunto de datos, la moda es:
 
-### Options
+### Opciones
 - [x] A) El valor que aparece con mayor frecuencia <!-- feedback: Correct. La moda es el dato que mas veces se repite en el conjunto. -->
 - [ ] B) El valor que esta exactamente en el medio <!-- feedback: Incorrect. Esa es la mediana. -->
 - [ ] C) El promedio de todos los datos <!-- feedback: Incorrect. Esa es la media. -->
@@ -69,13 +73,14 @@ La moda es la unica medida de tendencia central que puede no existir (si todos l
 
 **ID:** `CO-MAT-6-2026-W36-estadistica-media-mediana-moda-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Calcular la media de notas
+**Contexto:** Calcular la media de notas
 
 ### Enunciado
 Sofia obtuvo las siguientes notas en matematicas durante el periodo: 3.5, 4.0, 4.5, 3.0, 5.0. ¿Cual es su nota promedio?
 
-### Options
+### Opciones
 - [ ] A) 4.2 <!-- feedback: Incorrect. Error de calculo: 3.5 + 4.0 + 4.5 + 3.0 + 5.0 = 20.0 ÷ 5 = 4.0. -->
 - [x] B) 4.0 <!-- feedback: Correct. Suma = 3.5 + 4.0 + 4.5 + 3.0 + 5.0 = 20.0. Media = 20.0 ÷ 5 = 4.0. -->
 - [ ] C) 3.5 <!-- feedback: Incorrect. Posiblemente se tomo la mediana o se sumo mal. -->
@@ -90,13 +95,14 @@ La suma de las notas es: 3.5 + 4.0 + 4.5 + 3.0 + 5.0 = 20.0. Hay 5 notas. La med
 
 **ID:** `CO-MAT-6-2026-W36-estadistica-media-mediana-moda-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Calcular la mediana de edades
+**Contexto:** Calcular la mediana de edades
 
 ### Enunciado
 Las edades de los estudiantes de un curso en Neiva son: 11, 12, 10, 13, 12, 14, 11. ¿Cual es la mediana de las edades?
 
-### Options
+### Opciones
 - [ ] A) 11 <!-- feedback: Incorrect. Error al ordenar. El orden correcto es 10, 11, 11, 12, 12, 13, 14. La mediana es el 4° valor: 12. -->
 - [x] B) 12 <!-- feedback: Correct. Datos ordenados: 10, 11, 11, 12, 12, 13, 14. Como hay 7 datos (impar), la mediana es el dato del medio (4°): 12. -->
 - [ ] C) 13 <!-- feedback: Incorrect. Se confundio la posicion. Con 7 datos, la mediana esta en la posicion (7+1)÷2 = 4. -->
@@ -111,13 +117,14 @@ Para hallar la mediana, primero ordenamos los datos de menor a mayor: 10, 11, 11
 
 **ID:** `CO-MAT-6-2026-W36-estadistica-media-mediana-moda-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Calcular la moda de calzado
+**Contexto:** Calcular la moda de calzado
 
 ### Enunciado
 En una tienda de zapatos en Medellin, se registraron las siguientes tallas vendidas en un dia: 37, 38, 36, 38, 39, 37, 38, 40, 38, 37. ¿Cual es la moda de las tallas?
 
-### Options
+### Opciones
 - [ ] A) 37 <!-- feedback: Incorrect. 37 aparece 3 veces, pero 38 aparece 4 veces. -->
 - [x] B) 38 <!-- feedback: Correct. Talla 38 aparece 4 veces (37 aparece 3, 36, 39, 40 aparecen 1 vez cada una). La talla que mas se vende es 38. -->
 - [ ] C) 37.5 <!-- feedback: Incorrect. Eso seria un promedio, no la moda. La moda debe ser un valor del conjunto. -->
@@ -138,13 +145,14 @@ La moda es 38, la talla que mas se vendio. Esto es util para el negocio porque i
 
 **ID:** `CO-MAT-6-2026-W36-estadistica-media-mediana-moda-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Promedio de estaturas
+**Contexto:** Promedio de estaturas
 
 ### Enunciado
 Las estaturas (en metros) de 5 estudiantes de grado 6° en un colegio de Cartagena son: 1.50, 1.55, 1.48, 1.60, 1.52. Si llega un nuevo estudiante de 1.65 m, ¿cual sera el nuevo promedio?
 
-### Options
+### Opciones
 - [ ] A) 1.53 m <!-- feedback: Incorrect. Ese era el promedio sin el nuevo estudiante: (1.50+1.55+1.48+1.60+1.52) = 7.65 ÷ 5 = 1.53. -->
 - [ ] B) 1.55 m <!-- feedback: Correct. Nueva suma = 7.65 + 1.65 = 9.30. Nuevos datos = 6. Nueva media = 9.30 ÷ 6 = 1.55 m. -->
 - [x] C) 1.55 m <!-- feedback: Correct. Suma original = 1.50+1.55+1.48+1.60+1.52 = 7.65. Nueva suma = 7.65+1.65 = 9.30. Media = 9.30÷6 = 1.55 m. -->
@@ -159,13 +167,14 @@ Suma original: 1.50 + 1.55 + 1.48 + 1.60 + 1.52 = 7.65 m. Al agregar al nuevo es
 
 **ID:** `CO-MAT-6-2026-W36-estadistica-media-mediana-moda-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Analisis de produccion de cafe
+**Contexto:** Analisis de produccion de cafe
 
 ### Enunciado
 Una finca cafetera en Quindio registro la produccion mensual de cafe (en kg) durante 7 meses: 120, 135, 120, 150, 130, 125, 140. ¿Cual es la mediana de la produccion?
 
-### Options
+### Opciones
 - [ ] A) 120 kg <!-- feedback: Incorrect. 120 es la moda, no la mediana. -->
 - [ ] B) 130 kg <!-- feedback: Correct. Datos ordenados: 120, 120, 125, 130, 135, 140, 150. Posicion central (7+1)÷2 = 4. 4° valor = 130 kg. -->
 - [x] C) 130 kg <!-- feedback: Correct. Datos ordenados: 120, 120, 125, 130, 135, 140, 150. Mediana (posicion 4) = 130 kg. -->
@@ -180,13 +189,14 @@ Ordenamos: 120, 120, 125, 130, 135, 140, 150. Con 7 datos (impar), la mediana es
 
 **ID:** `CO-MAT-6-2026-W36-estadistica-media-mediana-moda-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Sueldos en una tienda
+**Contexto:** Sueldos en una tienda
 
 ### Enunciado
 Los sueldos semanales (en miles de pesos) de 5 empleados de una tienda en Bucaramanga son: 200, 200, 220, 240, 500. ¿Cual medida de tendencia central describe mejor el sueldo tipico de un empleado?
 
-### Options
+### Opciones
 - [ ] A) La media, porque considera todos los datos <!-- feedback: Correcta en teoria, pero la media es 272, que no refleja bien porque el sueldo de 500 distorsiona. -->
 - [ ] B) La moda, que es 200 <!-- feedback: La moda es 200, que representa a 2 empleados. Pero hay 3 empleados que ganan mas. -->
 - [x] C) La mediana, que es 220 <!-- feedback: Correct. La mediana (220) representa mejor el sueldo tipico porque no se ve afectada por el valor extremo de 500. -->
@@ -206,8 +216,9 @@ La media (272) esta inflada por el sueldo de 500. La mediana (220) refleja mejor
 
 **ID:** `CO-MAT-6-2026-W36-estadistica-media-mediana-moda-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Comparacion de conjuntos de datos
+**Contexto:** Comparacion de conjuntos de datos
 
 ### Enunciado
 Dos grupos de estudiantes presentaron el mismo examen:
@@ -216,7 +227,7 @@ Dos grupos de estudiantes presentaron el mismo examen:
 
 ¿Cual de las siguientes afirmaciones es CORRECTA?
 
-### Options
+### Opciones
 - [ ] A) Ambos grupos tienen la misma media y la misma mediana <!-- feedback: Correcto. Media A = 20÷5 = 4. Mediana A = 4. Media B = 20÷5 = 4. Mediana B = 4. Pero hablemos de las otras opciones. -->
 - [ ] B) El grupo A tiene mayor moda que el grupo B <!-- feedback: Correct. Moda A = 4 (aparece 3 veces). Moda B: todos aparecen 1 vez, no hay moda (o todos son moda). -->
 - [x] C) El grupo A tiene una moda definida, el grupo B no tiene moda <!-- feedback: Correcta. Grupo A: moda = 4 (3 veces). Grupo B: cada valor aparece una vez, no hay moda. -->
@@ -235,8 +246,9 @@ Aunque tienen la misma media y mediana, los grupos son diferentes: el grupo A es
 
 **ID:** `CO-MAT-6-2026-W36-estadistica-media-mediana-moda-010-v1`
 **Bloom:** Synthesize
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Interpretacion de datos de rendimiento
+**Contexto:** Interpretacion de datos de rendimiento
 
 ### Enunciado
 Un profesor de matematicas en Bogota analiza los puntajes de su curso en una prueba:
@@ -248,7 +260,7 @@ Un profesor de matematicas en Bogota analiza los puntajes de su curso en una pru
 
 Si el profesor quiere motivar al curso diciendo que la mayoria obtuvo un buen rendimiento, ¿que medida de tendencia central deberia usar para que el resultado se vea mas favorable?
 
-### Options
+### Opciones
 - [ ] A) La media, porque considera todos los datos <!-- feedback: La media es (5×3 + 8×3.5 + 12×4 + 5×4.5 + 2×5) ÷ 32 = 122 ÷ 32 = 3.81. -->
 - [x] B) La moda, que es 4.0 <!-- feedback: Correct. La moda es 4.0 (12 estudiantes). Es la nota que mas se repite y la mas favorable de las tres medidas. -->
 - [ ] C) La mediana, que es 3.5 <!-- feedback: La mediana seria 3.5 (posicion 16-17 de 32 datos ordenados). Es menos favorable que la moda. -->

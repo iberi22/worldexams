@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W06-cuentos-001-MASTERY"
+id: "CO-LEC-3-2026-W06-cuentos-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 6
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: El Cuento
 
@@ -25,6 +30,7 @@ Este bundle evalúa la comprensión de textos narrativos cortos (cuentos), ident
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **El Conejo y la Zanahoria Gigante**
@@ -33,7 +39,7 @@ Había una vez un conejo llamado Orejas que vivía en un jardín de la sabana de
 ### Enunciado
 ¿En qué lugar ocurre la historia del conejo Orejas?
 
-### Options
+### Opciones
 - [ ] A) En una selva lejana. <!-- feedback: Incorrecto. El texto dice que Orejas vivía en un "jardín de la sabana de Bogotá". -->
 - [x] B) En un jardín de la sabana de Bogotá. <!-- feedback: ¡Correcto! El texto menciona explícitamente este lugar al principio de la narración. -->
 - [ ] C) En una cocina de un restaurante. <!-- feedback: Incorrecto. Aunque se habla de una zanahoria, el lugar es un jardín. -->
@@ -49,6 +55,7 @@ La identificación del escenario o lugar es una de las habilidades básicas de c
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **La Cometa Perdida**
@@ -57,7 +64,7 @@ Juanita estaba feliz elevando su cometa en el parque Simón Bolívar. De repente
 ### Enunciado
 ¿Cuál fue el problema (nudo) que ocurrió en este cuento?
 
-### Options
+### Opciones
 - [ ] A) Que Juanita no sabía elevar cometas. <!-- feedback: Incorrecto. El texto dice que estaba feliz elevándola, por lo que sí sabía. -->
 - [x] B) Que la cuerda se rompió y la cometa se enredó en un árbol. <!-- feedback: ¡Correcto! El nudo o conflicto es la dificultad que surge en la historia y que rompe la tranquilidad inicial. -->
 - [ ] C) Que el parque estaba cerrado ese día. <!-- feedback: Incorrecto. La historia ocurre dentro del parque sin problemas de acceso. -->
@@ -73,6 +80,7 @@ Todo cuento tiene un conflicto o nudo, que es el momento en que algo cambia o sa
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **El Gato que quería ser Tigre**
@@ -81,7 +89,7 @@ Simón era un gato doméstico que vivía en una casa de campo. Él soñaba con s
 ### Enunciado
 ¿Cómo termina la historia de Simón el gato?
 
-### Options
+### Opciones
 - [ ] A) Simón se convirtió en un tigre de verdad. <!-- feedback: Incorrecto. El texto dice que comprendió que ser un gato era especial. -->
 - [ ] B) El ratón se hizo amigo de Simón. <!-- feedback: Incorrecto. El texto no menciona que se hicieran amigos, solo que Simón se asustó. -->
 - [x] C) Simón aceptó que ser un gato también era valioso. <!-- feedback: ¡Correcto! El desenlace muestra el aprendizaje del personaje y cómo se resuelve su conflicto interno. -->
@@ -97,6 +105,7 @@ El desenlace o final de un cuento muestra cómo se resuelve el conflicto y qué 
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **La Aventura del Delfín Rosado**
@@ -105,7 +114,7 @@ En las aguas del río Amazonas vivía un delfín rosado llamado Pipo. Pipo amaba
 ### Enunciado
 ¿Cuál de estos títulos sería el más adecuado para el cuento?
 
-### Options
+### Opciones
 - [ ] A) El río que se secó. <!-- feedback: Incorrecto. El cuento no menciona que el río tuviera poca agua. -->
 - [x] B) Pipo, el delfín héroe. <!-- feedback: ¡Correcto! Este título resume bien la acción del personaje principal, quien salvó a sus amigos de un peligro. -->
 - [ ] C) Los pescadores de la selva. <!-- feedback: Incorrecto. Los pescadores no son los protagonistas, sino los animales del río. -->
@@ -121,6 +130,7 @@ Elegir un título adecuado requiere que el estudiante identifique el tema centra
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **El Zapatero Prodigioso**
@@ -129,7 +139,7 @@ Había una vez un zapatero en un pueblo de Boyacá que hacía los zapatos más c
 ### Enunciado
 Si tuvieras que dividir este cuento en tres partes, ¿qué acción corresponde al **inicio**?
 
-### Options
+### Opciones
 - [x] A) La presentación del zapatero y su habilidad en el pueblo. <!-- feedback: ¡Correcto! El inicio presenta a los personajes y la situación normal antes de que ocurra el problema. -->
 - [ ] B) El regalo de las monedas de oro por parte del gigante. <!-- feedback: Incorrecto. Esto ocurre al final de la historia (desenlace). -->
 - [ ] C) El trabajo duro del zapatero durante tres días. <!-- feedback: Incorrecto. Esto es parte del desarrollo o nudo de la historia. -->
@@ -145,6 +155,7 @@ Reconocer las partes de la estructura narrativa (inicio, nudo y desenlace) permi
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Érase una vez una hormiguita muy trabajadora que recogía granos de café en una finca del Quindío..."
@@ -152,7 +163,7 @@ Reconocer las partes de la estructura narrativa (inicio, nudo y desenlace) permi
 ### Enunciado
 ¿Cuál es la función de la expresión "**Érase una vez**" al comienzo de un texto?
 
-### Options
+### Opciones
 - [ ] A) Decirnos la hora exacta en la que pasó la historia. <!-- feedback: Incorrecto. "Érase una vez" es un tiempo indeterminado, no una hora exacta. -->
 - [x] B) Indicar que está comenzando un cuento o una narración fantástica. <!-- feedback: ¡Correcto! Es una fórmula tradicional que se usa para dar inicio a los cuentos. -->
 - [ ] C) Avisarnos que el cuento se va a acabar pronto. <!-- feedback: Incorrecto. Esta frase se usa solo al principio. -->
@@ -168,6 +179,7 @@ Identificar fórmulas narrativas tradicionales ayuda al estudiante a reconocer g
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En un cuento sobre la biodiversidad, los animales del bosque eligen a un líder. El búho propone que sea el más sabio, el oso que sea el más fuerte y el colibrí que sea el más ágil.
@@ -175,7 +187,7 @@ En un cuento sobre la biodiversidad, los animales del bosque eligen a un líder.
 ### Enunciado
 ¿Cuál es el tema principal de esta discusión en el cuento?
 
-### Options
+### Opciones
 - [ ] A) La importancia de tener comida en el bosque. <!-- feedback: Incorrecto. No hablan de comida, sino de elegir un líder. -->
 - [x] B) Los valores o características que debe tener un buen jefe. <!-- feedback: ¡Correcto! Están debatiendo qué cualidad es más importante para dirigir (sabiduría, fuerza o agilidad). -->
 - [ ] C) Por qué los pájaros vuelan más rápido que los osos. <!-- feedback: Incorrecto. Ese es un detalle físico, pero no el tema de la reunión. -->
@@ -191,6 +203,7 @@ Analizar el tema de un cuento implica identificar la idea principal que une las 
 **Bloom:** Evaluate
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Al final de un cuento, el lobo que siempre asustaba a los animales se siente solo porque nadie quiere jugar con él. Decide pedir perdón y promete no volver a asustar a nadie.
@@ -198,7 +211,7 @@ Al final de un cuento, el lobo que siempre asustaba a los animales se siente sol
 ### Enunciado
 ¿Qué podemos aprender (enseñanza) de este final de cuento?
 
-### Options
+### Opciones
 - [ ] A) Que los lobos siempre deben estar solos. <!-- feedback: Incorrecto. El lobo se siente mal por estar solo, lo que indica que no es lo ideal. -->
 - [x] B) Que nuestras malas acciones pueden alejarnos de los demás y que siempre es bueno pedir perdón. <!-- feedback: ¡Correcto! El cambio de actitud del lobo y su sentimiento de soledad nos enseñan sobre las consecuencias del comportamiento social. -->
 - [ ] C) Que los animales del bosque son muy miedosos. <!-- feedback: Incorrecto. No es la enseñanza, sino una reacción lógica a la actitud inicial del lobo. -->

@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W26-proposito-autor-001-MASTERY"
+id: "CO-LEC-4-2026-W26-proposito-autor-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "proposito-autor"
-semana: "W26"
+week: "W26"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "propósito del autor, intención, informar, persuadir, entrete
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W26: Identificar propósito del autor
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W26-proposito-autor-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Propósito.
+**Contexto:** Propósito.
 
 ### Enunciado
 *"¿Qué es el propósito de un texto?"*
 
-### Options
-- [ ] A) El título.
+### Opciones
+- [ ] A) El título. <!-- feedback: Incorrecto. El título. -->
 - [x] B) La intención del autor al escribirlo. <!-- feedback: Correcto. -->
-- [ ] C) La cantidad de páginas.
-- [ ] D) El autor.
+- [ ] C) La cantidad de páginas. <!-- feedback: Incorrecto. La cantidad de páginas. -->
+- [ ] D) El autor. <!-- feedback: Incorrecto. El autor. -->
 
 ### Explicación Pedagógica
 Definición.
@@ -49,17 +54,18 @@ Definición.
 
 **ID:** `CO-LEC-4-2026-W26-proposito-autor-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Informar.
+**Contexto:** Informar.
 
 ### Enunciado
 *"Un texto que solo da datos y hechos. Su propósito es..."*
 
-### Options
-- [ ] A) Entretener.
+### Opciones
+- [ ] A) Entretener. <!-- feedback: Incorrecto. Entretener. -->
 - [x] B) Informar. <!-- feedback: Correcto. -->
-- [ ] C) Persuadir.
-- [ ] D) Describir.
+- [ ] C) Persuadir. <!-- feedback: Incorrecto. Persuadir. -->
+- [ ] D) Describir. <!-- feedback: Incorrecto. Describir. -->
 
 ### Explicación Pedagógica
 Informar.
@@ -70,17 +76,18 @@ Informar.
 
 **ID:** `CO-LEC-4-2026-W26-proposito-autor-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Entretener.
+**Contexto:** Entretener.
 
 ### Enunciado
 *"Un cuento de hadas. ¿Propósito?"*
 
-### Options
-- [ ] A) Informar.
+### Opciones
+- [ ] A) Informar. <!-- feedback: Incorrecto. Informar. -->
 - [x] B) Entretener. <!-- feedback: Correcto. -->
-- [ ] C) Vender.
-- [ ] D) Enseñar.
+- [ ] C) Vender. <!-- feedback: Incorrecto. Vender. -->
+- [ ] D) Enseñar. <!-- feedback: Incorrecto. Enseñar. -->
 
 ### Explicación Pedagógica
 Entretener.
@@ -91,17 +98,18 @@ Entretener.
 
 **ID:** `CO-LEC-4-2026-W26-proposito-autor-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Persuadir.
+**Contexto:** Persuadir.
 
 ### Enunciado
 *"Un anuncio que dice ‘Compra este producto’. ¿Propósito?"*
 
-### Options
-- [ ] A) Informar.
+### Opciones
+- [ ] A) Informar. <!-- feedback: Incorrecto. Informar. -->
 - [x] B) Persuadir. <!-- feedback: Correcto. -->
-- [ ] C) Entretener.
-- [ ] D) Narrar.
+- [ ] C) Entretener. <!-- feedback: Incorrecto. Entretener. -->
+- [ ] D) Narrar. <!-- feedback: Incorrecto. Narrar. -->
 
 ### Explicación Pedagógica
 Persuadir.
@@ -112,17 +120,18 @@ Persuadir.
 
 **ID:** `CO-LEC-4-2026-W26-proposito-autor-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Identificar propósito.
+**Contexto:** Identificar propósito.
 
 ### Enunciado
 *"Texto que explica cómo reciclar. ¿Propósito?"*
 
-### Options
-- [ ] A) Entretener.
+### Opciones
+- [ ] A) Entretener. <!-- feedback: Incorrecto. Entretener. -->
 - [x] B) Informar y enseñar. <!-- feedback: Correcto. -->
-- [ ] C) Vender.
-- [ ] D) Asustar.
+- [ ] C) Vender. <!-- feedback: Incorrecto. Vender. -->
+- [ ] D) Asustar. <!-- feedback: Incorrecto. Asustar. -->
 
 ### Explicación Pedagógica
 Propósito.
@@ -133,17 +142,18 @@ Propósito.
 
 **ID:** `CO-LEC-4-2026-W26-proposito-autor-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Diferenciar.
+**Contexto:** Diferenciar.
 
 ### Enunciado
 *"Noticia: ‘Aumentó el precio del café’ vs Aviso: ‘Compra nuestro café’."* ¿Diferencias?
 
-### Options
-- [ ] A) Ambos informan.
+### Opciones
+- [ ] A) Ambos informan. <!-- feedback: Incorrecto. Ambos informan. -->
 - [x] B) Noticia informa, aviso persuade. <!-- feedback: Correcto. -->
-- [ ] C) Ambos venden.
-- [ ] D) Noticia entretiene.
+- [ ] C) Ambos venden. <!-- feedback: Incorrecto. Ambos venden. -->
+- [ ] D) Noticia entretiene. <!-- feedback: Incorrecto. Noticia entretiene. -->
 
 ### Explicación Pedagógica
 Diferenciar propósitos.
@@ -154,17 +164,18 @@ Diferenciar propósitos.
 
 **ID:** `CO-LEC-4-2026-W26-proposito-autor-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Inferir propósito.
+**Contexto:** Inferir propósito.
 
 ### Enunciado
 *"Texto que dice ‘Únete a la campaña de limpieza’."* ¿Propósito?
 
-### Options
-- [ ] A) Informar solo.
+### Opciones
+- [ ] A) Informar solo. <!-- feedback: Incorrecto. Informar solo. -->
 - [x] B) Persuadir a participar. <!-- feedback: Correcto. -->
-- [ ] C) Entretener.
-- [ ] D) Describir.
+- [ ] C) Entretener. <!-- feedback: Incorrecto. Entretener. -->
+- [ ] D) Describir. <!-- feedback: Incorrecto. Describir. -->
 
 ### Explicación Pedagógica
 Inferir.
@@ -175,17 +186,18 @@ Inferir.
 
 **ID:** `CO-LEC-4-2026-W26-proposito-autor-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Comparar textos.
+**Contexto:** Comparar textos.
 
 ### Enunciado
 *"Poema vs noticia. ¿Diferencia de propósito?"*
 
-### Options
-- [ ] A) Ambos informan.
+### Opciones
+- [ ] A) Ambos informan. <!-- feedback: Incorrecto. Ambos informan. -->
 - [x] B) Poema entretiene, noticia informa. <!-- feedback: Correcto. -->
-- [ ] C) Ambos entretienen.
-- [ ] D) Poema informa.
+- [ ] C) Ambos entretienen. <!-- feedback: Incorrecto. Ambos entretienen. -->
+- [ ] D) Poema informa. <!-- feedback: Incorrecto. Poema informa. -->
 
 ### Explicación Pedagógica
 Comparar.
@@ -196,17 +208,18 @@ Comparar.
 
 **ID:** `CO-LEC-4-2026-W26-proposito-autor-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Evaluar.
+**Contexto:** Evaluar.
 
 ### Enunciado
 *"¿Por qué es importante saber el propósito del autor?"*
 
-### Options
-- [ ] A) No es importante.
+### Opciones
+- [ ] A) No es importante. <!-- feedback: Incorrecto. No es importante. -->
 - [x] B) Para entender mejor el texto y no ser engañado. <!-- feedback: Correcto. -->
-- [ ] C) Para saber cuánto leer.
-- [ ] D) Para memorizar.
+- [ ] C) Para saber cuánto leer. <!-- feedback: Incorrecto. Para saber cuánto leer. -->
+- [ ] D) Para memorizar. <!-- feedback: Incorrecto. Para memorizar. -->
 
 ### Explicación Pedagógica
 Importancia.
@@ -217,17 +230,18 @@ Importancia.
 
 **ID:** `CO-LEC-4-2026-W26-proposito-autor-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Aplicar.
+**Contexto:** Aplicar.
 
 ### Enunciado
 *"Un artículo de revista sobre un nuevo teléfono. ¿Podría tener más de un propósito?"*
 
-### Options
-- [ ] A) No, solo uno.
+### Opciones
+- [ ] A) No, solo uno. <!-- feedback: Incorrecto. No, solo uno. -->
 - [x] B) Sí, informar y persuadir. <!-- feedback: Correcto. -->
-- [ ] C) Solo entretener.
-- [ ] D) Ninguno.
+- [ ] C) Solo entretener. <!-- feedback: Incorrecto. Solo entretener. -->
+- [ ] D) Ninguno. <!-- feedback: Incorrecto. Ninguno. -->
 
 ### Explicación Pedagógica
 Múltiples propósitos.

@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W15-animales-utilidad-001-MASTERY"
+id: "CO-CIE-3-2026-W15-animales-utilidad-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "animales-utilidad"
-semana: "W15"
+week: "W15"
 periodo: 2
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Utilidad de los animales para el hombre: alimentación, compa�
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # La Utilidad de los Animales
 
 Este bundle explora las diversas formas en que los animales contribuyen a la vida de los seres humanos, desde proveernos alimento hasta ser nuestros compañeros y ayudantes en diversas tareas.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W15-animales-utilidad-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el desayuno, Juan toma leche, come huevos y un pedazo de queso.
+**Contexto:** En el desayuno, Juan toma leche, come huevos y un pedazo de queso.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ Muchos animales son criados por el hombre para obtener alimentos. Las vacas nos 
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W15-animales-utilidad-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un perro labrador ayuda a una persona ciega a caminar por la ciudad, avisándole de los peligros y guiándola con seguridad.
+**Contexto:** Un perro labrador ayuda a una persona ciega a caminar por la ciudad, avisándole de los peligros y guiándola con seguridad.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -73,12 +77,12 @@ La relación entre humanos y perros es milenaria. Más allá de ser mascotas, al
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W15-animales-utilidad-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** En las zonas rurales de Colombia, todavía se usan mulas y caballos para llevar bultos de café o madera por caminos donde no entran carros.
+**Contexto:** En las zonas rurales de Colombia, todavía se usan mulas y caballos para llevar bultos de café o madera por caminos donde no entran carros.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ Los animales de trabajo han sido fundamentales para el desarrollo de la agricult
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W15-animales-utilidad-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** La lana de las ovejas se corta sin lastimarlas, luego se lava y se convierte en sacos calientes para el frío.
+**Contexto:** La lana de las ovejas se corta sin lastimarlas, luego se lava y se convierte en sacos calientes para el frío.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ Los animales también son proveedores de la industria textil y de calzado. La se
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W15-animales-utilidad-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Las abejas no solo nos dan miel; al viajar de flor en flor, permiten que nazcan frutos en los árboles frutales.
+**Contexto:** Las abejas no solo nos dan miel; al viajar de flor en flor, permiten que nazcan frutos en los árboles frutales.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -148,12 +152,12 @@ A veces la utilidad más grande de un animal no es algo que "sacamos" de él, si
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W15-animales-utilidad-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En algunos laboratorios, se estudian animales para entender cómo funcionan los órganos y crear vacunas para las personas.
+**Contexto:** En algunos laboratorios, se estudian animales para entender cómo funcionan los órganos y crear vacunas para las personas.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -173,12 +177,12 @@ La medicina le debe mucho a los animales. Estudiar cómo ellos resisten enfermed
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W15-animales-utilidad-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un gato vive en una bodega de granos y su trabajo es evitar que los ratones se coman el maíz guardado.
+**Contexto:** Un gato vive en una bodega de granos y su trabajo es evitar que los ratones se coman el maíz guardado.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -198,12 +202,12 @@ El control biológico es una utilidad muy valiosa. Usar los instintos naturales 
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W15-animales-utilidad-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Imagina que tienes una granja. Tienes una Vaca, una Oveja, un Caballo y un Perro Guardián.
+**Contexto:** Imagina que tienes una granja. Tienes una Vaca, una Oveja, un Caballo y un Perro Guardián.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -223,12 +227,12 @@ Cada animal tiene un "don" o capacidad especial que el ser humano ha aprendido a
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W15-animales-utilidad-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Los corales en el mar forman grandes arrecifes donde viven miles de peces. Si los corales desaparecen, los peces también se van.
+**Contexto:** Los corales en el mar forman grandes arrecifes donde viven miles de peces. Si los corales desaparecen, los peces también se van.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -248,12 +252,12 @@ La utilidad no siempre es solo para los humanos. Los animales también son útil
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W15-animales-utilidad-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un niño dice: "Los animales silvestres como los tigres o jaguares no sirven para nada porque no nos dan leche ni nos cargan el café".
+**Contexto:** Un niño dice: "Los animales silvestres como los tigres o jaguares no sirven para nada porque no nos dan leche ni nos cargan el café".
 **Expected_Success:** 0.55
 
 ### Enunciado

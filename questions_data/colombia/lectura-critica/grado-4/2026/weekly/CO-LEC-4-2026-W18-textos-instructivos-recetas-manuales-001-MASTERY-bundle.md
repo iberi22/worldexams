@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W18-textos-instructivos-recetas-manuales-001-MASTERY"
+id: "CO-LEC-4-2026-W18-textos-instructivos-recetas-manuales-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "textos-instructivos-recetas-manuales"
-semana: "W18"
+week: "W18"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "instrucciones, pasos, recetas, manuales, orden"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W18: Textos instructivos: recetas, manuales
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W18-textos-instructivos-recetas-manuales-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Primer paso.
+**Contexto:** Primer paso.
 
 ### Enunciado
 *"Para hacer limonada: 1. Lavar limones. 2. Exprimirlos. 3. Agregar agua y azúcar."* ¿Primero?
 
-### Options
-- [ ] A) Exprimirlos.
+### Opciones
+- [ ] A) Exprimirlos. <!-- feedback: Incorrecto. Exprimirlos. -->
 - [x] B) Lavar limones. <!-- feedback: Correcto. -->
-- [ ] C) Agregar azúcar.
-- [ ] D) Servir.
+- [ ] C) Agregar azúcar. <!-- feedback: Incorrecto. Agregar azúcar. -->
+- [ ] D) Servir. <!-- feedback: Incorrecto. Servir. -->
 
 ### Explicación Pedagógica
 Primer paso.
@@ -49,13 +54,14 @@ Primer paso.
 
 **ID:** `CO-LEC-4-2026-W18-textos-instructivos-recetas-manuales-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Ingredientes.
+**Contexto:** Ingredientes.
 
 ### Enunciado
 *"Para arepas: 2 tazas harina de maíz, 1 taza agua, sal."* ¿Qué ingrediente NO es necesario?
 
-### Options
+### Opciones
 - [ ] A) Harina de maíz. <!-- feedback: Sí. -->
 - [ ] B) Agua. <!-- feedback: Sí. -->
 - [x] C) Azúcar. <!-- feedback: No se menciona. -->
@@ -70,17 +76,18 @@ Identificar ingrediente.
 
 **ID:** `CO-LEC-4-2026-W18-textos-instructivos-recetas-manuales-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Propósito instructivo.
+**Contexto:** Propósito instructivo.
 
 ### Enunciado
 *"Texto que dice cómo armar un rompecabezas."* ¿Tipo?
 
-### Options
-- [ ] A) Descriptivo.
+### Opciones
+- [ ] A) Descriptivo. <!-- feedback: Incorrecto. Descriptivo. -->
 - [x] B) Instructivo. <!-- feedback: Correcto. -->
-- [ ] C) Poético.
-- [ ] D) Informativo.
+- [ ] C) Poético. <!-- feedback: Incorrecto. Poético. -->
+- [ ] D) Informativo. <!-- feedback: Incorrecto. Informativo. -->
 
 ### Explicación Pedagógica
 Tipo de texto.
@@ -91,17 +98,18 @@ Tipo de texto.
 
 **ID:** `CO-LEC-4-2026-W18-textos-instructivos-recetas-manuales-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Orden correcto.
+**Contexto:** Orden correcto.
 
 ### Enunciado
 *"1. Encender el horno. 2. _________. 3. Hornear 30 min."* ¿Qué falta?
 
-### Options
+### Opciones
 - [ ] A) Apagar horno. <!-- feedback: Tarde. -->
 - [x] B) Poner mezcla en molde. <!-- feedback: Correcto. -->
-- [ ] C) Comer.
-- [ ] D) Lavar platos.
+- [ ] C) Comer. <!-- feedback: Incorrecto. Comer. -->
+- [ ] D) Lavar platos. <!-- feedback: Incorrecto. Lavar platos. -->
 
 ### Explicación Pedagógica
 Paso faltante.
@@ -112,17 +120,18 @@ Paso faltante.
 
 **ID:** `CO-LEC-4-2026-W18-textos-instructivos-recetas-manuales-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Verbos instructivos.
+**Contexto:** Verbos instructivos.
 
 ### Enunciado
 *"Lave, corte, mezcle, hornee."* ¿Qué tipo de palabras son?
 
-### Options
-- [ ] A) Sustantivos.
+### Opciones
+- [ ] A) Sustantivos. <!-- feedback: Incorrecto. Sustantivos. -->
 - [x] B) Verbos en imperativo. <!-- feedback: Correcto. -->
-- [ ] C) Adjetivos.
-- [ ] D) Artículos.
+- [ ] C) Adjetivos. <!-- feedback: Incorrecto. Adjetivos. -->
+- [ ] D) Artículos. <!-- feedback: Incorrecto. Artículos. -->
 
 ### Explicación Pedagógica
 Verbos instructivos.
@@ -133,17 +142,18 @@ Verbos instructivos.
 
 **ID:** `CO-LEC-4-2026-W18-textos-instructivos-recetas-manuales-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Seguir instrucciones.
+**Contexto:** Seguir instrucciones.
 
 ### Enunciado
 *"Dobla el papel por la mitad. Luego, dobla las esquinas al centro."* ¿Qué haces?
 
-### Options
+### Opciones
 - [x] A) Origami. <!-- feedback: Correcto. -->
-- [ ] B) Pintar.
-- [ ] C) Escribir.
-- [ ] D) Recortar.
+- [ ] B) Pintar. <!-- feedback: Incorrecto. Pintar. -->
+- [ ] C) Escribir. <!-- feedback: Incorrecto. Escribir. -->
+- [ ] D) Recortar. <!-- feedback: Incorrecto. Recortar. -->
 
 ### Explicación Pedagógica
 Seguir instrucciones.
@@ -154,17 +164,18 @@ Seguir instrucciones.
 
 **ID:** `CO-LEC-4-2026-W18-textos-instructivos-recetas-manuales-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Inferir resultado.
+**Contexto:** Inferir resultado.
 
 ### Enunciado
 *"Si mezclas harina, huevos y leche y horneas, ¿obtienes?"*
 
-### Options
+### Opciones
 - [x] A) Un pastel. <!-- feedback: Correcto. -->
-- [ ] B) Una sopa.
-- [ ] C) Ensalada.
-- [ ] D) Jugo.
+- [ ] B) Una sopa. <!-- feedback: Incorrecto. Una sopa. -->
+- [ ] C) Ensalada. <!-- feedback: Incorrecto. Ensalada. -->
+- [ ] D) Jugo. <!-- feedback: Incorrecto. Jugo. -->
 
 ### Explicación Pedagógica
 Inferir resultado.
@@ -175,17 +186,18 @@ Inferir resultado.
 
 **ID:** `CO-LEC-4-2026-W18-textos-instructivos-recetas-manuales-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Orden incorrecto.
+**Contexto:** Orden incorrecto.
 
 ### Enunciado
 *"Receta: 1. Hornear. 2. Mezclar. 3. Servir."* ¿Problema?
 
-### Options
-- [ ] A) Está bien.
+### Opciones
+- [ ] A) Está bien. <!-- feedback: Incorrecto. Está bien. -->
 - [x] B) Primero mezclar, después hornear. <!-- feedback: Correcto. -->
-- [ ] C) Servir va al inicio.
-- [ ] D) No hay problema.
+- [ ] C) Servir va al inicio. <!-- feedback: Incorrecto. Servir va al inicio. -->
+- [ ] D) No hay problema. <!-- feedback: Incorrecto. No hay problema. -->
 
 ### Explicación Pedagógica
 Evaluar orden.
@@ -196,17 +208,18 @@ Evaluar orden.
 
 **ID:** `CO-LEC-4-2026-W18-textos-instructivos-recetas-manuales-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Instrucciones claras.
+**Contexto:** Instrucciones claras.
 
 ### Enunciado
 *"Instrucción: ‘agregue un poco’."* ¿Es clara?
 
-### Options
-- [ ] A) Sí.
+### Opciones
+- [ ] A) Sí. <!-- feedback: Incorrecto. Sí. -->
 - [x] B) No, debe ser precisa (cantidad exacta). <!-- feedback: Correcto. -->
-- [ ] C) Depende.
-- [ ] D) Da igual.
+- [ ] C) Depende. <!-- feedback: Incorrecto. Depende. -->
+- [ ] D) Da igual. <!-- feedback: Incorrecto. Da igual. -->
 
 ### Explicación Pedagógica
 Evaluar claridad.
@@ -217,17 +230,18 @@ Evaluar claridad.
 
 **ID:** `CO-LEC-4-2026-W18-textos-instructivos-recetas-manuales-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Crear instructivo.
+**Contexto:** Crear instructivo.
 
 ### Enunciado
 *"Para enseñar a hacer una cometa, ¿qué necesitas?"*
 
-### Options
+### Opciones
 - [x] A) Pasos claros y materiales. <!-- feedback: Correcto. -->
-- [ ] B) Solo dibujo.
-- [ ] C) Solo texto.
-- [ ] D) Solo materiales.
+- [ ] B) Solo dibujo. <!-- feedback: Incorrecto. Solo dibujo. -->
+- [ ] C) Solo texto. <!-- feedback: Incorrecto. Solo texto. -->
+- [ ] D) Solo materiales. <!-- feedback: Incorrecto. Solo materiales. -->
 
 ### Explicación Pedagógica
 Elementos de instructivo.

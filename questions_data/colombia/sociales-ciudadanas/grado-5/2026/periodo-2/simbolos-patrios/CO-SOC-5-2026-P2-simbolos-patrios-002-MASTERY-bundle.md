@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-5-2026-P2-simbolos-patrios-002-MASTERY"
+id: "CO-SOC-5-2026-P2-simbolos-patrios-002-MASTERY-bundle"
 country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
@@ -8,131 +8,148 @@ periodo: 2
 protocol_version: "5.2"
 bundle_index: 2
 bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos"
+alignment: "DBA MEN + Estï¿½ndares Bï¿½sicos"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.75
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
-rubric_baseline: "Símbolos patrios de Colombia, historia, significado, himno, bandera, escudo, respeto a los símbolos"
+rubric_baseline: "Sï¿½mbolos patrios de Colombia, historia, significado, himno, bandera, escudo, respeto a los sï¿½mbolos"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
 
-# Bundle Mastery: Símbolos Patrios — Historia y Significado
 
-Este bundle cubre la historia y el significado profundo de los símbolos patrios de Colombia: la bandera, el escudo y el himno nacional, así como otros símbolos patrios como el cóndor, la palma de cera y la orquídea. Contenido del segundo periodo para grado 5.
+# Bundle Mastery: Sï¿½mbolos Patrios ï¿½ Historia y Significado
+
+Este bundle cubre la historia y el significado profundo de los sï¿½mbolos patrios de Colombia: la bandera, el escudo y el himno nacional, asï¿½ como otros sï¿½mbolos patrios como el cï¿½ndor, la palma de cera y la orquï¿½dea. Contenido del segundo periodo para grado 5.
 
 ---
 
 ## Question 1 [D3]
 **ID:** `CO-SOC-5-2026-P2-simbolos-patrios-002-MASTERY-v1`
-**Bloom:** [Remember] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en Bogotá, la profesora repasa el origen de la bandera colombiana.
-**Enunciado:** La bandera tricolor amarillo, azul y rojo fue diseñada originalmente por:
+**Bloom:** Remember | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En clase de sociales en Bogotï¿½, la profesora repasa el origen de la bandera colombiana.
+**Enunciado:** La bandera tricolor amarillo, azul y rojo fue diseï¿½ada originalmente por:
 **Options:**
-- [ ] A) Simón Bolívar. <!-- feedback: Incorrecto. Bolívar usó la bandera en sus campañas, pero no fue su creador. -->
-- [x] B) Francisco de Miranda. <!-- feedback: Correcto. Francisco de Miranda, precursor de la independencia venezolana, creó la bandera tricolor que luego adoptó la Gran Colombia. -->
-- [ ] C) Policarpa Salavarrieta. <!-- feedback: Incorrecto. La Pola fue una heroína de la independencia, no la diseñadora de la bandera. -->
-- [ ] D) Rafael Núñez. <!-- feedback: Incorrecto. Rafael Núñez escribió la letra del himno, no diseñó la bandera. -->
+- [ ] A) Simï¿½n Bolï¿½var. <!-- feedback: Incorrecto. Bolï¿½var usï¿½ la bandera en sus campaï¿½as, pero no fue su creador. -->
+- [x] B) Francisco de Miranda. <!-- feedback: Correcto. Francisco de Miranda, precursor de la independencia venezolana, creï¿½ la bandera tricolor que luego adoptï¿½ la Gran Colombia. -->
+- [ ] C) Policarpa Salavarrieta. <!-- feedback: Incorrecto. La Pola fue una heroï¿½na de la independencia, no la diseï¿½adora de la bandera. -->
+- [ ] D) Rafael Nï¿½ï¿½ez. <!-- feedback: Incorrecto. Rafael Nï¿½ï¿½ez escribiï¿½ la letra del himno, no diseï¿½ï¿½ la bandera. -->
 
 ## Question 2 [D3]
 **ID:** `CO-SOC-5-2026-P2-simbolos-patrios-002-MASTERY-v2`
-**Bloom:** [Remember] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales en Ibagué, el profesor enseña las notas musicales del himno nacional.
-**Enunciado:** La música del himno nacional de Colombia fue compuesta por:
+**Bloom:** Remember | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En la clase de sociales en Ibaguï¿½, el profesor enseï¿½a las notas musicales del himno nacional.
+**Enunciado:** La mï¿½sica del himno nacional de Colombia fue compuesta por:
 **Options:**
-- [x] A) Oreste Sindici. <!-- feedback: Correcto. Oreste Sindici, un músico italiano radicado en Colombia, compuso la música del himno nacional en 1887. -->
-- [ ] B) Rafael Núñez. <!-- feedback: Incorrecto. Núñez escribió la letra, no la música. -->
-- [ ] C) José Barros. <!-- feedback: Incorrecto. José Barros fue un compositor colombiano de música popular, no del himno nacional. -->
-- [ ] D) Lucho Bermúdez. <!-- feedback: Incorrecto. Lucho Bermúdez fue un compositor de música tropical, no del himno nacional. -->
+- [x] A) Oreste Sindici. <!-- feedback: Correcto. Oreste Sindici, un mï¿½sico italiano radicado en Colombia, compuso la mï¿½sica del himno nacional en 1887. -->
+- [ ] B) Rafael Nï¿½ï¿½ez. <!-- feedback: Incorrecto. Nï¿½ï¿½ez escribiï¿½ la letra, no la mï¿½sica. -->
+- [ ] C) Josï¿½ Barros. <!-- feedback: Incorrecto. Josï¿½ Barros fue un compositor colombiano de mï¿½sica popular, no del himno nacional. -->
+- [ ] D) Lucho Bermï¿½dez. <!-- feedback: Incorrecto. Lucho Bermï¿½dez fue un compositor de mï¿½sica tropical, no del himno nacional. -->
 
 ## Question 3 [D4]
 **ID:** `CO-SOC-5-2026-P2-simbolos-patrios-002-MASTERY-v3`
-**Bloom:** [Understand] | **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Los estudiantes de la I.E. Los Andes en Pasto descifran los elementos del escudo.
-**Enunciado:** En la parte inferior del escudo de Colombia, sobre un fondo azul, aparecen dos océanos. ¿Qué representan?
+**Bloom:** Understand | **ICFES:** [Pensamiento reflexivo y sistï¿½mico]
+**Expected_Success:** 0.75
+**Contexto:** Los estudiantes de la I.E. Los Andes en Pasto descifran los elementos del escudo.
+**Enunciado:** En la parte inferior del escudo de Colombia, sobre un fondo azul, aparecen dos ocï¿½anos. ï¿½Quï¿½ representan?
 **Options:**
-- [ ] A) Los ríos de Colombia. <!-- feedback: Incorrecto. No son ríos sino océanos. -->
+- [ ] A) Los rï¿½os de Colombia. <!-- feedback: Incorrecto. No son rï¿½os sino ocï¿½anos. -->
 - [ ] B) El desierto y la selva. <!-- feedback: Incorrecto. Son masas de agua, no tierra. -->
-- [x] C) El océano Atlántico y el océano Pacífico, que bañan las costas colombianas. <!-- feedback: Correcto. Los dos océanos representan la privilegiada ubicación de Colombia con costas sobre el Atlántico (Caribe) y el Pacífico. -->
+- [x] C) El ocï¿½ano Atlï¿½ntico y el ocï¿½ano Pacï¿½fico, que baï¿½an las costas colombianas. <!-- feedback: Correcto. Los dos ocï¿½anos representan la privilegiada ubicaciï¿½n de Colombia con costas sobre el Atlï¿½ntico (Caribe) y el Pacï¿½fico. -->
 - [ ] D) La laguna de Guatavita y la laguna de Tota. <!-- feedback: Incorrecto. Las lagunas no son lo suficientemente importantes para estar en el escudo nacional. -->
 
 ## Question 4 [D4]
 **ID:** `CO-SOC-5-2026-P2-simbolos-patrios-002-MASTERY-v4`
-**Bloom:** [Understand] | **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En la clase de sociales de la I.E. Ciudadela Educativa de Medellín, analizan la letra del himno.
-**Enunciado:** La letra del himno nacional de Colombia dice: "Cesó la horrible noche". ¿A qué se refiere con "horrible noche"?
+**Bloom:** Understand | **ICFES:** [Interpretaciï¿½n y anï¿½lisis de perspectivas]
+**Expected_Success:** 0.75
+**Contexto:** En la clase de sociales de la I.E. Ciudadela Educativa de Medellï¿½n, analizan la letra del himno.
+**Enunciado:** La letra del himno nacional de Colombia dice: "Cesï¿½ la horrible noche". ï¿½A quï¿½ se refiere con "horrible noche"?
 **Options:**
-- [ ] A) A la noche del 20 de julio que fue muy oscura. <!-- feedback: Incorrecto. Es una metáfora, no una descripción literal del clima. -->
-- [x] B) Al período de dominio español y opresión colonial. <!-- feedback: Correcto. "Cesó la horrible noche" es una metáfora poética que celebra el fin del dominio español y el inicio de la libertad. -->
-- [ ] C) Al invierno en Bogotá. <!-- feedback: Incorrecto. Es una canción patriótica, no una descripción del clima. -->
-- [ ] D) Al mal servicio de energía eléctrica en la Colonia. <!-- feedback: Incorrecto. No existía energía eléctrica en la Colonia. -->
+- [ ] A) A la noche del 20 de julio que fue muy oscura. <!-- feedback: Incorrecto. Es una metï¿½fora, no una descripciï¿½n literal del clima. -->
+- [x] B) Al perï¿½odo de dominio espaï¿½ol y opresiï¿½n colonial. <!-- feedback: Correcto. "Cesï¿½ la horrible noche" es una metï¿½fora poï¿½tica que celebra el fin del dominio espaï¿½ol y el inicio de la libertad. -->
+- [ ] C) Al invierno en Bogotï¿½. <!-- feedback: Incorrecto. Es una canciï¿½n patriï¿½tica, no una descripciï¿½n del clima. -->
+- [ ] D) Al mal servicio de energï¿½a elï¿½ctrica en la Colonia. <!-- feedback: Incorrecto. No existï¿½a energï¿½a elï¿½ctrica en la Colonia. -->
 
 ## Question 5 [D4]
 **ID:** `CO-SOC-5-2026-P2-simbolos-patrios-002-MASTERY-v5`
-**Bloom:** [Apply] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En el colegio San José de Cúcuta, los estudiantes organizan un acto cívico.
-**Enunciado:** En un acto cívico, cuando se iza la bandera y se entona el himno, los estudiantes deben:
+**Bloom:** Apply | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En el colegio San Josï¿½ de Cï¿½cuta, los estudiantes organizan un acto cï¿½vico.
+**Enunciado:** En un acto cï¿½vico, cuando se iza la bandera y se entona el himno, los estudiantes deben:
 **Options:**
-- [ ] A) Seguir jugando en el celular porque están cansados. <!-- feedback: Incorrecto. Los actos cívicos exigen respeto y atención. -->
-- [ ] B) Cantar el himno en inglés para practicar el idioma. <!-- feedback: Incorrecto. El himno se canta en español, su idioma oficial. -->
-- [x] C) Permanecer en posición de respeto, en silencio, con la mano derecha en el corazón, mirando la bandera. <!-- feedback: Correcto. El protocolo establece posición firme, silencio, mano derecha en el pecho y mirada hacia la bandera mientras se entona el himno. -->
-- [ ] D) Salir del salón rápidamente para no escucharlo. <!-- feedback: Incorrecto. Salir durante el himno es una falta de respeto a los símbolos patrios. -->
+- [ ] A) Seguir jugando en el celular porque estï¿½n cansados. <!-- feedback: Incorrecto. Los actos cï¿½vicos exigen respeto y atenciï¿½n. -->
+- [ ] B) Cantar el himno en inglï¿½s para practicar el idioma. <!-- feedback: Incorrecto. El himno se canta en espaï¿½ol, su idioma oficial. -->
+- [x] C) Permanecer en posiciï¿½n de respeto, en silencio, con la mano derecha en el corazï¿½n, mirando la bandera. <!-- feedback: Correcto. El protocolo establece posiciï¿½n firme, silencio, mano derecha en el pecho y mirada hacia la bandera mientras se entona el himno. -->
+- [ ] D) Salir del salï¿½n rï¿½pidamente para no escucharlo. <!-- feedback: Incorrecto. Salir durante el himno es una falta de respeto a los sï¿½mbolos patrios. -->
 
 ## Question 6 [D4]
 **ID:** `CO-SOC-5-2026-P2-simbolos-patrios-002-MASTERY-v6`
-**Bloom:** [Understand] | **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En una visita al Capitolio Nacional en Bogotá, los estudiantes ven la bandera ondeando.
+**Bloom:** Understand | **ICFES:** [Pensamiento reflexivo y sistï¿½mico]
+**Expected_Success:** 0.75
+**Contexto:** En una visita al Capitolio Nacional en Bogotï¿½, los estudiantes ven la bandera ondeando.
 **Enunciado:** El color azul de la bandera de Colombia simboliza:
 **Options:**
 - [ ] A) La riqueza del suelo. <!-- feedback: Incorrecto. Eso es el amarillo. -->
-- [x] B) Los dos océanos que bañan el territorio colombiano y el cielo. <!-- feedback: Correcto. El azul representa el mar Caribe y el océano Pacífico, así como el cielo que cubre el territorio nacional. -->
-- [ ] C) La sangre de los héroes. <!-- feedback: Incorrecto. Eso representa el rojo. -->
-- [ ] D) La paz de la nación. <!-- feedback: Incorrecto. Aunque Colombia busca la paz, el azul no representa la paz en la bandera. -->
+- [x] B) Los dos ocï¿½anos que baï¿½an el territorio colombiano y el cielo. <!-- feedback: Correcto. El azul representa el mar Caribe y el ocï¿½ano Pacï¿½fico, asï¿½ como el cielo que cubre el territorio nacional. -->
+- [ ] C) La sangre de los hï¿½roes. <!-- feedback: Incorrecto. Eso representa el rojo. -->
+- [ ] D) La paz de la naciï¿½n. <!-- feedback: Incorrecto. Aunque Colombia busca la paz, el azul no representa la paz en la bandera. -->
 
 ## Question 7 [D4]
 **ID:** `CO-SOC-5-2026-P2-simbolos-patrios-002-MASTERY-v7`
-**Bloom:** [Apply] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de San Andrés, los estudiantes presentan los símbolos patrios de las islas.
-**Enunciado:** Además de los símbolos nacionales, cada departamento de Colombia tiene sus propios símbolos. Por ejemplo, el himno y la bandera de San Andrés son:
+**Bloom:** Apply | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En la clase de sociales de San Andrï¿½s, los estudiantes presentan los sï¿½mbolos patrios de las islas.
+**Enunciado:** Ademï¿½s de los sï¿½mbolos nacionales, cada departamento de Colombia tiene sus propios sï¿½mbolos. Por ejemplo, el himno y la bandera de San Andrï¿½s son:
 **Options:**
-- [ ] A) Los mismos que los de Jamaica. <!-- feedback: Incorrecto. San Andrés es colombiano, sus símbolos departamentales son colombianos. -->
-- [x] B) Símbolos departamentales que representan la identidad cultural del archipiélago. <!-- feedback: Correcto. Cada departamento colombiano tiene su propia bandera, escudo e himno que representan su historia e identidad local. -->
-- [ ] C) Inexistentes, solo existen los símbolos nacionales. <!-- feedback: Incorrecto. Los departamentos sí tienen símbolos propios. -->
-- [ ] D) Los que decide el presidente cada año. <!-- feedback: Incorrecto. Los símbolos departamentales son estables y aprobados por ordenanzas. -->
+- [ ] A) Los mismos que los de Jamaica. <!-- feedback: Incorrecto. San Andrï¿½s es colombiano, sus sï¿½mbolos departamentales son colombianos. -->
+- [x] B) Sï¿½mbolos departamentales que representan la identidad cultural del archipiï¿½lago. <!-- feedback: Correcto. Cada departamento colombiano tiene su propia bandera, escudo e himno que representan su historia e identidad local. -->
+- [ ] C) Inexistentes, solo existen los sï¿½mbolos nacionales. <!-- feedback: Incorrecto. Los departamentos sï¿½ tienen sï¿½mbolos propios. -->
+- [ ] D) Los que decide el presidente cada aï¿½o. <!-- feedback: Incorrecto. Los sï¿½mbolos departamentales son estables y aprobados por ordenanzas. -->
 
 ## Question 8 [D5]
 **ID:** `CO-SOC-5-2026-P2-simbolos-patrios-002-MASTERY-v8`
-**Bloom:** [Analyze] | **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En la clase de sociales de la I.E. Técnica de Duitama, la profesora pregunta por qué los símbolos patrios unen a los colombianos.
-**Enunciado:** ¿Por qué los símbolos patrios tienen la capacidad de unir a personas de diferentes regiones, clases sociales y opiniones políticas?
+**Bloom:** Analyze | **ICFES:** [Interpretaciï¿½n y anï¿½lisis de perspectivas]
+**Expected_Success:** 0.75
+**Contexto:** En la clase de sociales de la I.E. Tï¿½cnica de Duitama, la profesora pregunta por quï¿½ los sï¿½mbolos patrios unen a los colombianos.
+**Enunciado:** ï¿½Por quï¿½ los sï¿½mbolos patrios tienen la capacidad de unir a personas de diferentes regiones, clases sociales y opiniones polï¿½ticas?
 **Options:**
-- [ ] A) Porque son muy coloridos y bonitos. <!-- feedback: Incorrecto. Su valor va más allá de lo estético. -->
-- [ ] B) Porque el gobierno obliga a respetarlos con multas. <!-- feedback: Incorrecto. Aunque hay sanciones, la unión no se logra por obligación. -->
-- [x] C) Porque representan una historia compartida de lucha, independencia y construcción de nación que trasciende las diferencias particulares. <!-- feedback: Correcto. Los símbolos patrios representan la identidad colectiva, los valores y la historia común que compartimos como nación, más allá de nuestras diferencias. -->
-- [ ] D) Porque todos los colombianos piensan igual sobre su significado. <!-- feedback: Incorrecto. Las personas pueden interpretar los símbolos de manera diferente, pero los símbolos siguen siendo un referente común. -->
+- [ ] A) Porque son muy coloridos y bonitos. <!-- feedback: Incorrecto. Su valor va mï¿½s allï¿½ de lo estï¿½tico. -->
+- [ ] B) Porque el gobierno obliga a respetarlos con multas. <!-- feedback: Incorrecto. Aunque hay sanciones, la uniï¿½n no se logra por obligaciï¿½n. -->
+- [x] C) Porque representan una historia compartida de lucha, independencia y construcciï¿½n de naciï¿½n que trasciende las diferencias particulares. <!-- feedback: Correcto. Los sï¿½mbolos patrios representan la identidad colectiva, los valores y la historia comï¿½n que compartimos como naciï¿½n, mï¿½s allï¿½ de nuestras diferencias. -->
+- [ ] D) Porque todos los colombianos piensan igual sobre su significado. <!-- feedback: Incorrecto. Las personas pueden interpretar los sï¿½mbolos de manera diferente, pero los sï¿½mbolos siguen siendo un referente comï¿½n. -->
 
 ## Question 9 [D5]
 **ID:** `CO-SOC-5-2026-P2-simbolos-patrios-002-MASTERY-v9`
-**Bloom:** [Analyze] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. El Rosario de Sincelejo, los estudiantes hablan de la orquídea como símbolo nacional.
-**Enunciado:** La orquídea Cattleya trianae es la flor nacional de Colombia. ¿Por qué fue elegida como símbolo patrio?
+**Bloom:** Analyze | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En la clase de sociales de la I.E. El Rosario de Sincelejo, los estudiantes hablan de la orquï¿½dea como sï¿½mbolo nacional.
+**Enunciado:** La orquï¿½dea Cattleya trianae es la flor nacional de Colombia. ï¿½Por quï¿½ fue elegida como sï¿½mbolo patrio?
 **Options:**
-- [ ] A) Porque es la flor más común en todos los jardines colombianos. <!-- feedback: Incorrecto. No es la más común, pero es representativa. -->
-- [ ] B) Porque es la única flor que crece en Colombia. <!-- feedback: Incorrecto. Colombia tiene miles de especies de flores. -->
-- [x] C) Porque es una flor nativa de Colombia, es una de las más bellas del mundo y fue dedicada al botánico colombiano José Jerónimo Triana. <!-- feedback: Correcto. La Cattleya trianae es nativa de Colombia, fue declarada flor nacional en 1936 por su belleza y como homenaje al naturalista José Jerónimo Triana. -->
-- [ ] D) Porque el presidente de la época la tenía en su jardín. <!-- feedback: Incorrecto. Su elección tuvo razones botánicas y patrióticas, no personales. -->
+- [ ] A) Porque es la flor mï¿½s comï¿½n en todos los jardines colombianos. <!-- feedback: Incorrecto. No es la mï¿½s comï¿½n, pero es representativa. -->
+- [ ] B) Porque es la ï¿½nica flor que crece en Colombia. <!-- feedback: Incorrecto. Colombia tiene miles de especies de flores. -->
+- [x] C) Porque es una flor nativa de Colombia, es una de las mï¿½s bellas del mundo y fue dedicada al botï¿½nico colombiano Josï¿½ Jerï¿½nimo Triana. <!-- feedback: Correcto. La Cattleya trianae es nativa de Colombia, fue declarada flor nacional en 1936 por su belleza y como homenaje al naturalista Josï¿½ Jerï¿½nimo Triana. -->
+- [ ] D) Porque el presidente de la ï¿½poca la tenï¿½a en su jardï¿½n. <!-- feedback: Incorrecto. Su elecciï¿½n tuvo razones botï¿½nicas y patriï¿½ticas, no personales. -->
 
 ## Question 10 [D5]
 **ID:** `CO-SOC-5-2026-P2-simbolos-patrios-002-MASTERY-v10`
-**Bloom:** [Analyze] | **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En un debate escolar en Cali, los estudiantes discuten si los símbolos patrios siguen siendo relevantes hoy.
-**Enunciado:** ¿Siguen siendo importantes los símbolos patrios en la Colombia del siglo XXI?
+**Bloom:** Analyze | **ICFES:** [Pensamiento reflexivo y sistï¿½mico]
+**Expected_Success:** 0.75
+**Contexto:** En un debate escolar en Cali, los estudiantes discuten si los sï¿½mbolos patrios siguen siendo relevantes hoy.
+**Enunciado:** ï¿½Siguen siendo importantes los sï¿½mbolos patrios en la Colombia del siglo XXI?
 **Options:**
-- [ ] A) No, porque ahora todo es globalizado y los países no importan. <!-- feedback: Incorrecto. Los símbolos patrios siguen siendo importantes para la identidad nacional. -->
-- [ ] B) Sí, pero solo para los adultos mayores. <!-- feedback: Incorrecto. Los símbolos patrios unen a personas de todas las edades. -->
-- [x] C) Sí, porque representan nuestra identidad como nación y nos recuerdan los valores y la historia que compartimos los colombianos. <!-- feedback: Correcto. En un mundo globalizado, los símbolos patrios son un ancla de identidad que nos conecta con nuestra historia, nuestro territorio y nuestra comunidad nacional. -->
-- [ ] D) No, porque son solo pedazos de tela y canciones viejas. <!-- feedback: Incorrecto. Su valor es simbólico, trasciende el objeto material. -->
+- [ ] A) No, porque ahora todo es globalizado y los paï¿½ses no importan. <!-- feedback: Incorrecto. Los sï¿½mbolos patrios siguen siendo importantes para la identidad nacional. -->
+- [ ] B) Sï¿½, pero solo para los adultos mayores. <!-- feedback: Incorrecto. Los sï¿½mbolos patrios unen a personas de todas las edades. -->
+- [x] C) Sï¿½, porque representan nuestra identidad como naciï¿½n y nos recuerdan los valores y la historia que compartimos los colombianos. <!-- feedback: Correcto. En un mundo globalizado, los sï¿½mbolos patrios son un ancla de identidad que nos conecta con nuestra historia, nuestro territorio y nuestra comunidad nacional. -->
+- [ ] D) No, porque son solo pedazos de tela y canciones viejas. <!-- feedback: Incorrecto. Su valor es simbï¿½lico, trasciende el objeto material. -->
 
-### Explicación Pedagógica Final
-Este bundle de Ciencias Sociales para grado quinto profundiza en los Símbolos Patrios de Colombia. Evalúa el conocimiento de la historia de la bandera (Francisco de Miranda), el himno nacional (letra de Rafael Núñez, música de Oreste Sindici), el escudo (significado de los océanos), la interpretación de la letra del himno ("cesó la horrible noche"), el protocolo, el significado de los colores y otros símbolos como la orquídea. El objetivo es que los estudiantes comprendan el valor histórico y simbólico de los emblemas nacionales.
+### Explicaciï¿½n Pedagï¿½gica Final
+Este bundle de Ciencias Sociales para grado quinto profundiza en los Sï¿½mbolos Patrios de Colombia. Evalï¿½a el conocimiento de la historia de la bandera (Francisco de Miranda), el himno nacional (letra de Rafael Nï¿½ï¿½ez, mï¿½sica de Oreste Sindici), el escudo (significado de los ocï¿½anos), la interpretaciï¿½n de la letra del himno ("cesï¿½ la horrible noche"), el protocolo, el significado de los colores y otros sï¿½mbolos como la orquï¿½dea. El objetivo es que los estudiantes comprendan el valor histï¿½rico y simbï¿½lico de los emblemas nacionales.

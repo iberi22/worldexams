@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-9-2026-P1-P4-comprehensive-001-MASTERY"
+id: "CO-MAT-9-2026-P1-P4-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 9
 asignatura: "matematicas"
@@ -24,7 +24,12 @@ coverage:
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Matemáticas Grado 9 — Periodos 1–4
 
@@ -36,13 +41,14 @@ Este bundle integral cubre los cuatro periodos de grado 9 en matemáticas: produ
 
 **ID:** `CO-MAT-9-2026-P1-P4-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Un estudiante en el colegio INEM de Bogotá está repasando productos notables para su examen bimestral de grado 9.
+**Contexto:** Un estudiante en el colegio INEM de Bogotá está repasando productos notables para su examen bimestral de grado 9.
 
 ### Enunciado
 ¿Cuál es el desarrollo correcto de $(2x + 3)^2$?
 
-### Options
+### Opciones
 - [ ] A) $4x^2 + 9$ <!-- feedback: Incorrect. Faltó el término $12x$ del doble del producto del primer término por el segundo. -->
 - [ ] B) $2x^2 + 6x + 9$ <!-- feedback: Incorrect. $(2x)^2 = 4x^2$, no $2x^2$. El primer término debe elevarse al cuadrado correctamente. -->
 - [x] C) $4x^2 + 12x + 9$ <!-- feedback: Correct. $(2x+3)^2 = (2x)^2 + 2(2x)(3) + 3^2 = 4x^2 + 12x + 9$. -->
@@ -57,13 +63,14 @@ El cuadrado de un binomio $(a+b)^2$ se desarrolla como $a^2 + 2ab + b^2$. Es fun
 
 **ID:** `CO-MAT-9-2026-P1-P4-comprehensive-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En una clase de álgebra en Medellín, la profesora explica que la factorización es el proceso inverso de la multiplicación de polinomios.
+**Contexto:** En una clase de álgebra en Medellín, la profesora explica que la factorización es el proceso inverso de la multiplicación de polinomios.
 
 ### Enunciado
 ¿Cuál de las siguientes expresiones es la factorización de $x^2 - 12x + 36$?
 
-### Options
+### Opciones
 - [ ] A) $(x-6)(x+6)$ <!-- feedback: Incorrect. $(x-6)(x+6) = x^2 - 36$, que es una diferencia de cuadrados, no el trinomio dado. -->
 - [x] B) $(x-6)^2$ <!-- feedback: Correct. $x^2 - 12x + 36 = (x-6)^2$ porque $12 = 2(1)(6)$ y $36 = 6^2$. Es un trinomio cuadrado perfecto. -->
 - [ ] C) $(x-12)^2$ <!-- feedback: Incorrect. $(x-12)^2 = x^2 - 24x + 144$, que no coincide con la expresión original. -->
@@ -78,13 +85,14 @@ Para identificar un trinomio cuadrado perfecto (TCP), se verifica que el términ
 
 **ID:** `CO-MAT-9-2026-P1-P4-comprehensive-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Un jardinero en Manizales quiere construir un jardín rectangular de 96 m². El largo del jardín mide 4 metros más que el ancho.
+**Contexto:** Un jardinero en Manizales quiere construir un jardín rectangular de 96 m². El largo del jardín mide 4 metros más que el ancho.
 
 ### Enunciado
 Si $x$ representa el ancho del jardín, ¿cuál ecuación permite encontrar las dimensiones?
 
-### Options
+### Opciones
 - [ ] A) $x^2 + 4 = 96$ <!-- feedback: Incorrect. El área se calcula multiplicando largo por ancho, no sumando. -->
 - [x] B) $x(x+4) = 96$ <!-- feedback: Correct. Ancho = $x$, largo = $x+4$. Área = $x(x+4) = 96$, que se expande a $x^2 + 4x - 96 = 0$. -->
 - [ ] C) $2x + 4 = 96$ <!-- feedback: Incorrect. $2x + 4$ representa el perímetro con una dimensión, no el área. -->
@@ -99,13 +107,14 @@ Los problemas de áreas se modelan mediante ecuaciones cuadráticas. Al expandir
 
 **ID:** `CO-MAT-9-2026-P1-P4-comprehensive-001-MASTERY-v4`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Un ciclista en el Alto de Letras, Tolima, sube una montaña. La altura $h(t)$ en metros respecto al nivel del mar está dada por $h(t) = -4t^2 + 24t + 100$, donde $t$ son las horas transcurridas desde el inicio del ascenso.
+**Contexto:** Un ciclista en el Alto de Letras, Tolima, sube una montaña. La altura $h(t)$ en metros respecto al nivel del mar está dada por $h(t) = -4t^2 + 24t + 100$, donde $t$ son las horas transcurridas desde el inicio del ascenso.
 
 ### Enunciado
 ¿Cuántas horas después de iniciar el ascenso alcanza el ciclista su altura máxima?
 
-### Options
+### Opciones
 - [ ] A) 6 horas <!-- feedback: Incorrect. Se usó $-b/a$ en lugar de $-b/(2a)$. El vértice está en $t = -24/(2(-4)) = 3$ horas. -->
 - [x] B) 3 horas <!-- feedback: Correct. El vértice de $h(t) = -4t^2 + 24t + 100$ está en $t_v = -b/(2a) = -24/(2(-4)) = 24/8 = 3$ horas. -->
 - [ ] C) 4 horas <!-- feedback: Incorrect. 4 sería el resultado de $24/6$, pero la fórmula correcta es $-b/(2a)$. -->
@@ -120,13 +129,14 @@ Para una función cuadrática $f(x) = ax^2 + bx + c$, el vértice se encuentra e
 
 **ID:** `CO-MAT-9-2026-P1-P4-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Un ingeniero civil en Bucaramanga diseña un puente colgante. La altura del cable principal, en metros, sigue la función $f(x) = \frac{1}{8}x^2 - 3x + 30$, donde $x$ es la distancia horizontal desde el soporte izquierdo.
+**Contexto:** Un ingeniero civil en Bucaramanga diseña un puente colgante. La altura del cable principal, en metros, sigue la función $f(x) = \frac{1}{8}x^2 - 3x + 30$, donde $x$ es la distancia horizontal desde el soporte izquierdo.
 
 ### Enunciado
 ¿A qué distancia horizontal del soporte izquierdo se encuentra el punto más bajo del cable?
 
-### Options
+### Opciones
 - [ ] A) 3 m <!-- feedback: Incorrect. 3 es el coeficiente lineal, pero para el vértice se usa $x_v = -b/(2a) = 3/(2(1/8)) = 12$ m. -->
 - [ ] B) 24 m <!-- feedback: Incorrect. Se usó $b/a$ en lugar de $-b/(2a)$. -->
 - [x] C) 12 m <!-- feedback: Correct. $x_v = -b/(2a) = -(-3)/(2(1/8)) = 3/(1/4) = 12$ m. -->
@@ -141,13 +151,14 @@ En funciones cuadráticas de la forma $f(x) = ax^2 + bx + c$ con $a > 0$, el vé
 
 **ID:** `CO-MAT-9-2026-P1-P4-comprehensive-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Una escalera de 7 metros está apoyada contra una pared. La base de la escalera está a 2 metros de la pared.
+**Contexto:** Una escalera de 7 metros está apoyada contra una pared. La base de la escalera está a 2 metros de la pared.
 
 ### Enunciado
 Usando el teorema de Pitágoras, ¿qué altura aproximada alcanza la escalera sobre la pared?
 
-### Options
+### Opciones
 - [x] A) 6.71 m <!-- feedback: Correct. $7^2 = 2^2 + h^2$, $49 = 4 + h^2$, $h^2 = 45$, $h = \sqrt{45} \approx 6.71$ m. -->
 - [ ] B) 5 m <!-- feedback: Incorrect. $5^2 = 25$, pero $2^2 + 5^2 = 4 + 25 = 29 \ne 49$. -->
 - [ ] C) $\sqrt{53}$ m <!-- feedback: Incorrect. Se sumaron $7^2 + 2^2 = 49 + 4 = 53$, pero la hipotenusa ya se conoce. -->
@@ -162,13 +173,14 @@ En un triángulo rectángulo, $c^2 = a^2 + b^2$, donde $c$ es la hipotenusa. Si 
 
 **ID:** `CO-MAT-9-2026-P1-P4-comprehensive-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En el grado 9 del colegio San Bartolomé, los estudiantes discuten sobre las funciones lineales. Una estudiante afirma que $f(x) = 3x - 2$ y $g(x) = 3x + 4$ son rectas paralelas.
+**Contexto:** En el grado 9 del colegio San Bartolomé, los estudiantes discuten sobre las funciones lineales. Una estudiante afirma que $f(x) = 3x - 2$ y $g(x) = 3x + 4$ son rectas paralelas.
 
 ### Enunciado
 ¿Es correcta la afirmación de la estudiante?
 
-### Options
+### Opciones
 - [x] A) Sí, porque ambas tienen la misma pendiente $m = 3$, lo que indica rectas paralelas. <!-- feedback: Correct. Dos rectas son paralelas si y solo si tienen la misma pendiente, independientemente del intercepto. -->
 - [ ] B) No, porque tienen diferentes interceptos y eso las hace perpendiculares. <!-- feedback: Incorrect. Diferentes interceptos no indican perpendicularidad; para ser perpendiculares el producto de las pendientes debe ser $-1$. -->
 - [ ] C) Sí, porque tienen el mismo intercepto. <!-- feedback: Incorrect. Los interceptos son diferentes (-2 y 4). La razón correcta es la misma pendiente. -->
@@ -183,13 +195,14 @@ Dos rectas con ecuaciones de la forma $y = mx + b$ son paralelas si $m_1 = m_2$,
 
 **ID:** `CO-MAT-9-2026-P1-P4-comprehensive-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Se tiene la función cuadrática $f(x) = -2x^2 + 8x - 6$.
+**Contexto:** Se tiene la función cuadrática $f(x) = -2x^2 + 8x - 6$.
 
 ### Enunciado
 ¿Cuáles son los puntos de corte con el eje $x$ (raíces) de esta función?
 
-### Options
+### Opciones
 - [ ] A) $x = 1$ y $x = -3$ <!-- feedback: Incorrect. Al sustituir $x=-3$: $-2(9) + 8(-3) - 6 = -18 - 24 - 6 = -48 \ne 0$. -->
 - [ ] B) $x = 2$ y $x = 4$ <!-- feedback: Incorrect. Factorizando: $-2x^2 + 8x - 6 = -2(x^2 - 4x + 3) = -2(x-1)(x-3)$. Las raíces son 1 y 3. -->
 - [x] C) $x = 1$ y $x = 3$ <!-- feedback: Correct. $f(x) = -2(x^2 - 4x + 3) = -2(x-1)(x-3)$. Igualando a cero: $x=1$ y $x=3$. -->
@@ -204,13 +217,14 @@ Las raíces de una función cuadrática se encuentran factorizando o usando la f
 
 **ID:** `CO-MAT-9-2026-P1-P4-comprehensive-001-MASTERY-v9`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Una profesora de estadística en Cartagena encuestó a 20 estudiantes sobre el número de horas diarias que dedican a redes sociales. Los datos son: 1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5, 6, 6, 7, 8, 10.
+**Contexto:** Una profesora de estadística en Cartagena encuestó a 20 estudiantes sobre el número de horas diarias que dedican a redes sociales. Los datos son: 1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5, 6, 6, 7, 8, 10.
 
 ### Enunciado
 ¿Cuál es la mediana del número de horas que los estudiantes dedican a redes sociales?
 
-### Options
+### Opciones
 - [ ] A) 4 <!-- feedback: Incorrect. 4 es la moda (el valor que más se repite), no la mediana. -->
 - [x] B) 4.5 <!-- feedback: Correct. Con 20 datos (par), la mediana es el promedio de los datos en las posiciones 10 y 11: $(4+5)/2 = 4.5$. -->
 - [ ] C) 5 <!-- feedback: Incorrect. 5 es el valor que está en la posición 11, pero al ser 20 datos (par), se promedian las posiciones 10 y 11. -->
@@ -225,13 +239,14 @@ Para un conjunto con número par de datos, la mediana es el promedio de los dos 
 
 **ID:** `CO-MAT-9-2026-P1-P4-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En una tienda de ropa en Pereira, el 60% de los clientes son mujeres, el 30% son hombres y el 10% son niños. Se sabe que el 20% de las mujeres, el 40% de los hombres y el 50% de los niños compran algo.
+**Contexto:** En una tienda de ropa en Pereira, el 60% de los clientes son mujeres, el 30% son hombres y el 10% son niños. Se sabe que el 20% de las mujeres, el 40% de los hombres y el 50% de los niños compran algo.
 
 ### Enunciado
 Si un cliente entra a la tienda, ¿cuál es la probabilidad de que sea una mujer que compra algo?
 
-### Options
+### Opciones
 - [x] A) 12% <!-- feedback: Correct. $P(\text{mujer} \cap \text{compra}) = P(\text{mujer}) \times P(\text{compra}|\text{mujer}) = 0.60 \times 0.20 = 0.12 = 12\%$. -->
 - [ ] B) 20% <!-- feedback: Incorrect. 20% es la probabilidad de compra dado que es mujer, no la probabilidad conjunta. -->
 - [ ] C) 60% <!-- feedback: Incorrect. 60% es la probabilidad de que sea mujer, sin considerar si compra o no. -->
@@ -246,13 +261,14 @@ La probabilidad de la intersección de dos eventos se calcula multiplicando la p
 
 **ID:** `CO-MAT-9-2026-P1-P4-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Un estudiante afirma: "Para factorizar $6x^2 + 11x - 10$, primero debo multiplicar el coeficiente principal por el término independiente: $6 \times (-10) = -60$. Luego busco dos números que multiplicados den -60 y sumados den 11, que son 15 y -4. Luego reescribo: $6x^2 + 15x - 4x - 10$ y factorizo por agrupación".
+**Contexto:** Un estudiante afirma: "Para factorizar $6x^2 + 11x - 10$, primero debo multiplicar el coeficiente principal por el término independiente: $6 \times (-10) = -60$. Luego busco dos números que multiplicados den -60 y sumados den 11, que son 15 y -4. Luego reescribo: $6x^2 + 15x - 4x - 10$ y factorizo por agrupación".
 
 ### Enunciado
 ¿Es correcto el procedimiento del estudiante para factorizar $6x^2 + 11x - 10$?
 
-### Options
+### Opciones
 - [x] A) Sí, el método de factorización por agrupación es correcto. Los números 15 y -4 cumplen $15 \times (-4) = -60$ y $15 + (-4) = 11$. <!-- feedback: Correct. El método es válido: $6x^2 + 15x - 4x - 10 = 3x(2x+5) - 2(2x+5) = (2x+5)(3x-2)$. -->
 - [ ] B) No, porque la factorización por agrupación solo funciona cuando todos los coeficientes son positivos. <!-- feedback: Incorrect. El método funciona con coeficientes negativos también. -->
 - [ ] C) Sí, pero los números deberían ser 10 y 1 porque $10 \times 1 = 10$. <!-- feedback: Incorrect. El producto debe ser $a \times c = 6 \times (-10) = -60$, no 10. -->
@@ -267,13 +283,14 @@ El método de factorización por agrupación (también llamado "método del AC")
 
 **ID:** `CO-MAT-9-2026-P1-P4-comprehensive-001-MASTERY-v12`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En un laboratorio de física, la temperatura de una solución en grados Celsius cambia según $T(t) = 2t^2 - 12t + 25$, donde $t$ son los minutos transcurridos.
+**Contexto:** En un laboratorio de física, la temperatura de una solución en grados Celsius cambia según $T(t) = 2t^2 - 12t + 25$, donde $t$ son los minutos transcurridos.
 
 ### Enunciado
 ¿Cuál es la temperatura mínima que alcanza la solución y en qué minuto ocurre?
 
-### Options
+### Opciones
 - [x] A) 7°C a los 3 minutos <!-- feedback: Correct. $t_v = -b/(2a) = 12/(4) = 3$ min. $T(3) = 2(9) - 12(3) + 25 = 18 - 36 + 25 = 7°C$. -->
 - [ ] B) 25°C a los 0 minutos <!-- feedback: Incorrect. 25°C es la temperatura inicial $T(0)$, no la mínima. -->
 - [ ] C) 5°C a los 6 minutos <!-- feedback: Incorrect. $t_v = 3$, no 6. El vértice no está en $-b/a$. -->
@@ -288,13 +305,14 @@ Para encontrar el valor mínimo de una función cuadrática con $a > 0$, se calc
 
 **ID:** `CO-MAT-9-2026-P1-P4-comprehensive-001-MASTERY-v13`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Un estudiante afirma: "Si el discriminante de $3x^2 - 2x + 5 = 0$ es $\Delta = (-2)^2 - 4(3)(5) = 4 - 60 = -56 < 0$, entonces la función cuadrática $f(x) = 3x^2 - 2x + 5$ no tiene ningún punto de corte con el eje $x$".
+**Contexto:** Un estudiante afirma: "Si el discriminante de $3x^2 - 2x + 5 = 0$ es $\Delta = (-2)^2 - 4(3)(5) = 4 - 60 = -56 < 0$, entonces la función cuadrática $f(x) = 3x^2 - 2x + 5$ no tiene ningún punto de corte con el eje $x$".
 
 ### Enunciado
 ¿Es correcta la afirmación del estudiante?
 
-### Options
+### Opciones
 - [x] A) Sí, porque $\Delta < 0$ implica que no hay raíces reales y por tanto la gráfica no cruza el eje $x$. <!-- feedback: Correct. Un discriminante negativo significa dos raíces complejas conjugadas, y la parábola está completamente arriba o abajo del eje $x$. -->
 - [ ] B) No, porque el discriminante debería calcularse como $b^2 - 4ac = 4 - 60 = -56$, pero con $a=3$ siempre hay al menos una raíz real. <!-- feedback: Incorrect. El valor de $a$ no garantiza raíces reales; el discriminante es el único determinante. -->
 - [ ] C) Sí, pero solo porque $a > 0$ y la parábola abre hacia arriba. <!-- feedback: Incorrect. Que abra hacia arriba no garantiza que no corte el eje $x$; muchas parábolas que abren hacia arriba sí lo cortan. -->
@@ -309,13 +327,14 @@ El discriminante $\Delta = b^2 - 4ac$ determina la naturaleza de las soluciones:
 
 **ID:** `CO-MAT-9-2026-P1-P4-comprehensive-001-MASTERY-v14`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Una empresa de transporte en Bogotá registró los kilómetros recorridos por 10 de sus buses en un día: 120, 135, 120, 150, 145, 130, 120, 140, 155, 125.
+**Contexto:** Una empresa de transporte en Bogotá registró los kilómetros recorridos por 10 de sus buses en un día: 120, 135, 120, 150, 145, 130, 120, 140, 155, 125.
 
 ### Enunciado
 ¿Cuál es la desviación estándar aproximada de los kilómetros recorridos?
 
-### Options
+### Opciones
 - [x] A) 12.6 km <!-- feedback: Correct. Media $\bar{x} = 134$. Varianza $s^2 = \frac{(120-134)^2 + ...}{10} \approx 158.4$, $s \approx \sqrt{158.4} \approx 12.6$ km. -->
 - [ ] B) 35 km <!-- feedback: Incorrect. 35 km es aproximadamente el rango (155-120 = 35), no la desviación estándar. -->
 - [ ] C) 5.5 km <!-- feedback: Incorrect. Este valor es demasiado bajo para la dispersión de los datos. -->
@@ -330,13 +349,14 @@ La desviación estándar mide la dispersión de los datos respecto a la media. S
 
 **ID:** `CO-MAT-9-2026-P1-P4-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Reflexivo y Sistémico
-**Context:** En el Campeonato Nacional de Fútbol Colombiano 2026, un equipo tiene $P$ puntos después de $n$ partidos. En el fútbol colombiano, un partido ganado da 3 puntos, empatado 1 punto y perdido 0 puntos. Después de 12 partidos, un equipo tiene 22 puntos y ha perdido 2 partidos. El periodista afirma que el equipo ha ganado más partidos de los que ha empatado.
+**Contexto:** En el Campeonato Nacional de Fútbol Colombiano 2026, un equipo tiene $P$ puntos después de $n$ partidos. En el fútbol colombiano, un partido ganado da 3 puntos, empatado 1 punto y perdido 0 puntos. Después de 12 partidos, un equipo tiene 22 puntos y ha perdido 2 partidos. El periodista afirma que el equipo ha ganado más partidos de los que ha empatado.
 
 ### Enunciado
 Sea $x$ el número de partidos ganados y $y$ el número de partidos empatados. ¿Cuál de los siguientes sistemas de ecuaciones representa la situación y permite verificar la afirmación del periodista?
 
-### Options
+### Opciones
 - [ ] A) $x + y = 12$, $3x + y = 22$ <!-- feedback: Incorrect. El total de partidos es 12, pero si perdieron 2, entonces $x + y = 10$. -->
 - [x] B) $x + y = 10$, $3x + y = 22$ <!-- feedback: Correct. Partidos sin perder: $12 - 2 = 10$. Puntos: $3x + y = 22$. Resolviendo: $3x + (10-x) = 22$, $2x = 12$, $x=6$ ganados, $y=4$ empatados. $6 > 4$, el periodista tiene razón. -->
 - [ ] C) $x + y = 12$, $x + 3y = 22$ <!-- feedback: Incorrect. La ecuación de puntos asigna 1 punto por ganado y 3 por empatado, al revés. Además $x+y$ debe ser 10, no 12. -->

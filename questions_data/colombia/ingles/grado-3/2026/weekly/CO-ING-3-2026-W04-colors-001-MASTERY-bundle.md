@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W04-colors-001-MASTERY"
+id: "CO-ING-3-2026-W04-colors-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "colors"
 periodo: "weekly"
-semana: 4
+week: "W04"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "Recognition of primary and secondary colors and basic descript
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W04: Colors (A1)
 
@@ -32,11 +37,12 @@ Este bundle evalúa el reconocimiento de los colores en inglés.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What color is a **tomato**?
 
-### Options
+### Opciones
 - [ ] A) Blue <!-- feedback: Incorrect. Blue is the color of the sky. -->
 - [ ] B) Green <!-- feedback: Incorrect. Green is the color of grass. -->
 - [x] C) Red <!-- feedback: Correct! Tomatoes are red. -->
@@ -52,11 +58,12 @@ El color rojo en inglés se dice "red". Los tomates maduros son rojos.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What color is the **sky** on a sunny day?
 
-### Options
+### Opciones
 - [x] A) Blue <!-- feedback: Correct! The sky is blue. -->
 - [ ] B) Black <!-- feedback: Incorrect. The sky is black at night. -->
 - [ ] C) Pink <!-- feedback: Incorrect. Pink is a different color. -->
@@ -72,11 +79,12 @@ El color azul en inglés se dice "blue". Es el color característico del cielo d
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Which color is **"Amarillo"**?
 
-### Options
+### Opciones
 - [ ] A) Red <!-- feedback: Incorrect. Red is rojo. -->
 - [ ] B) Green <!-- feedback: Incorrect. Green is verde. -->
 - [x] C) Yellow <!-- feedback: Correct! Yellow is amarillo. -->
@@ -92,11 +100,12 @@ El color amarillo se dice "yellow". ¡Recuerda que se escribe con doble 'l'!
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What color do you get if you mix **Blue and Yellow**?
 
-### Options
+### Opciones
 - [ ] A) Red <!-- feedback: Incorrect. -->
 - [x] B) Green <!-- feedback: Correct! Blue + Yellow = Green. -->
 - [ ] C) Purple <!-- feedback: Incorrect. -->
@@ -112,11 +121,12 @@ Al mezclar azul (blue) y amarillo (yellow), obtenemos el color verde, que en ing
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What color is an **elephant**?
 
-### Options
+### Opciones
 - [ ] A) Pink <!-- feedback: Incorrect. -->
 - [ ] B) White <!-- feedback: Incorrect. -->
 - [x] C) Grey <!-- feedback: Correct! Elephants are grey. -->
@@ -132,11 +142,12 @@ El color gris en inglés se puede escribir "grey" (UK) o "gray" (USA). Los elefa
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What color is **"Naranja"**?
 
-### Options
+### Opciones
 - [ ] A) Purple <!-- feedback: Incorrect. -->
 - [x] B) Orange <!-- feedback: Correct! Orange is both the fruit and the color. -->
 - [ ] C) Pink <!-- feedback: Incorrect. -->
@@ -152,11 +163,12 @@ En inglés, la palabra "orange" sirve tanto para la fruta (naranja) como para el
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What color is **chocolate**?
 
-### Options
+### Opciones
 - [ ] A) Red <!-- feedback: Incorrect. -->
 - [ ] B) Black <!-- feedback: Incorrect. -->
 - [x] C) Brown <!-- feedback: Correct! Chocolate is brown. -->
@@ -172,11 +184,12 @@ El color café o marrón se dice "brown" en inglés.
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What color are **clouds** before it rains?
 
-### Options
+### Opciones
 - [ ] A) White <!-- feedback: Incorrect. White clouds are for sunny days. -->
 - [x] B) Dark grey <!-- feedback: Correct! Storm clouds are dark grey. -->
 - [ ] C) Blue <!-- feedback: Incorrect. -->
@@ -192,11 +205,12 @@ Cuando va a llover, las nubes se ponen de color gris oscuro (dark grey).
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Complete: **"The grass is _______."**
 
-### Options
+### Opciones
 - [x] A) Green <!-- feedback: Correct! Grass is green. -->
 - [ ] B) Blue <!-- feedback: Incorrect. -->
 - [ ] C) Purple <!-- feedback: Incorrect. -->
@@ -212,11 +226,12 @@ El pasto o la hierba es de color verde, que en inglés es "green".
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Which color is **"Morado"**?
 
-### Options
+### Opciones
 - [ ] A) Pink <!-- feedback: Incorrect. Pink is rosado. -->
 - [x] B) Purple <!-- feedback: Correct! Purple is morado. -->
 - [ ] C) Orange <!-- feedback: Incorrect. -->

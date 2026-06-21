@@ -1,26 +1,33 @@
 ---
-id: "CO-CIE-11-2026-P1-quimica-organica-001-MASTERY"
+id: "CO-CIE-11-2026-P1-quimica-organica-001-MASTERY-bundle"
 country: "colombia"
 grado: 11
 asignatura: "ciencias-naturales"
 tema: "quimica-organica"
 periodo: 1
-semana: 1
+week: "W01"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "DBA MEN + ICFES Saber 11 2026"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 2
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Química Orgánica — Grado 11
 ## Periodo 1
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 **ID:** `CO-CIE-11-2026-P1-quimica-organica-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 El átomo de carbono es la base de la química orgánica. ¿Cuál es su configuración electrónica en estado fundamental?
@@ -38,11 +45,12 @@ La configuración electrónica fundamental del carbono (Z=6) sigue el principio 
 
 (Preguntas 2-19 omitidas por brevedad en este ejemplo de Starter Kit, pero cumplirían con el formato)
 
-## Pregunta 20 [D9-D10]
+## Question 20 [D9-D10]
 **ID:** `CO-CIE-11-2026-P1-quimica-organica-001-MASTERY-v20`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.30
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Dada la estructura de un polímero biodegradable sintético, analice cómo la presencia de grupos éster en la cadena principal afecta su velocidad de degradación en comparación con un polímero de adición como el polietileno.

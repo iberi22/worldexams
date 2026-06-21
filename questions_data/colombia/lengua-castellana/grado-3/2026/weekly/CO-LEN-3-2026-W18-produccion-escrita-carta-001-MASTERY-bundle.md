@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY"
+id: "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 3"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Producción escrita - carta - Grado 3
 
@@ -22,7 +24,7 @@ Este bundle explora la estructura y el propósito de la carta personal como medi
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -33,21 +35,20 @@ Este bundle explora la estructura y el propósito de la carta personal como medi
 ¿Cuál es el propósito principal de una carta personal?
 
 ### Opciones
-- [ ] A) Vender un producto a muchas personas.
-  <!-- feedback: No, eso es publicidad. -->
-- [x] B) Comunicarse con alguien lejano para contarle noticias o sentimientos.
-  <!-- feedback: ¡Correcto! Es un medio de comunicación directo entre dos personas. -->
-- [ ] C) Dar instrucciones de cómo usar un televisor.
-  <!-- feedback: No, eso es un manual. -->
-- [ ] D) Contar una historia de fantasía con dragones.
-  <!-- feedback: No, eso es un cuento. -->
+- [ ] A) Vender un producto a muchas personas. <!-- feedback: Incorrecto. Vender un producto a muchas personas. -->
+
+- [x] B) Comunicarse con alguien lejano para contarle noticias o sentimientos. <!-- feedback: Correcto! Comunicarse con alguien lejano para contarle noticias o sent -->
+
+- [ ] C) Dar instrucciones de cómo usar un televisor. <!-- feedback: Incorrecto. Dar instrucciones de cómo usar un televi -->
+
+- [ ] D) Contar una historia de fantasía con dragones. <!-- feedback: Incorrecto. Contar una historia de fantasía con drag -->
 
 ### Explicación Pedagogica
 La carta es un texto informativo y personal que permite acortar distancias entre las personas.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -58,21 +59,20 @@ La carta es un texto informativo y personal que permite acortar distancias entre
 ¿Qué es lo primero que se debe escribir en una carta, generalmente en la parte superior derecha?
 
 ### Opciones
-- [ ] A) El saludo.
-  <!-- feedback: El saludo va después. -->
-- [x] B) Lugar y fecha.
-  <!-- feedback: ¡Muy bien! Indica desde dónde y cuándo se escribe. -->
-- [ ] C) El nombre de quien recibe la carta.
-  <!-- feedback: Eso es parte del saludo o destinatario. -->
-- [ ] D) La despedida.
-  <!-- feedback: La despedida va al final. -->
+- [ ] A) El saludo. <!-- feedback: Incorrecto. El saludo. -->
+
+- [x] B) Lugar y fecha. <!-- feedback: Correcto! Lugar y fecha. -->
+
+- [ ] C) El nombre de quien recibe la carta. <!-- feedback: Incorrecto. El nombre de quien recibe la carta. -->
+
+- [ ] D) La despedida. <!-- feedback: Incorrecto. La despedida. -->
 
 ### Explicación Pedagogica
 La fecha y el lugar sitúan al lector en el contexto temporal y geográfico del emisor.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -83,21 +83,20 @@ La fecha y el lugar sitúan al lector en el contexto temporal y geográfico del 
 "Querido tío Jorge:". ¿A qué parte de la carta pertenece esta frase?
 
 ### Opciones
-- [ ] A) Despedida
-  <!-- feedback: No se está despidiendo. -->
-- [x] B) Saludo
-  <!-- feedback: ¡Excelente! Es la forma amable de empezar a dirigirse a la persona. -->
-- [ ] C) Cuerpo de la carta
-  <!-- feedback: El cuerpo es el mensaje largo que viene después. -->
-- [ ] D) Firma
-  <!-- feedback: La firma es el nombre de quien escribe, al final. -->
+- [ ] A) Despedida <!-- feedback: Incorrecto. Despedida -->
+
+- [x] B) Saludo <!-- feedback: Correcto! Saludo -->
+
+- [ ] C) Cuerpo de la carta <!-- feedback: Incorrecto. Cuerpo de la carta -->
+
+- [ ] D) Firma <!-- feedback: Incorrecto. Firma -->
 
 ### Explicación Pedagogica
 El saludo establece el tono de la relación (formal o informal) entre el remitente y el destinatario.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -108,21 +107,20 @@ El saludo establece el tono de la relación (formal o informal) entre el remiten
 ¿Cómo se llama la parte de la carta donde escribimos todo lo que queremos contar?
 
 ### Opciones
-- [ ] A) Título
-  <!-- feedback: Las cartas personales no suelen llevar título. -->
-- [ ] B) Firma
-  <!-- feedback: La firma solo lleva el nombre. -->
-- [x] C) Cuerpo
-  <!-- feedback: ¡Correcto! Es el contenido principal del mensaje. -->
-- [ ] D) Posdata
-  <!-- feedback: La posdata es un mensaje corto al final de todo. -->
+- [ ] A) Título <!-- feedback: Incorrecto. Título -->
+
+- [ ] B) Firma <!-- feedback: Incorrecto. Firma -->
+
+- [x] C) Cuerpo <!-- feedback: Correcto! Cuerpo -->
+
+- [ ] D) Posdata <!-- feedback: Incorrecto. Posdata -->
 
 ### Explicación Pedagogica
 El cuerpo de la carta es donde se desarrolla la intención comunicativa del texto.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -133,21 +131,20 @@ El cuerpo de la carta es donde se desarrolla la intención comunicativa del text
 ¿Cómo se llama la persona a la que va dirigida la carta (quien la recibe)?
 
 ### Opciones
-- [ ] A) Remitente
-  <!-- feedback: El remitente es quien escribe y envía la carta. -->
-- [x] B) Destinatario
-  <!-- feedback: ¡Así es! Es el destino final de la carta. -->
-- [ ] C) Cartero
-  <!-- feedback: El cartero es quien la transporta. -->
-- [ ] D) Autor
-  <!-- feedback: Es sinónimo de remitente en este caso. -->
+- [ ] A) Remitente <!-- feedback: Incorrecto. Remitente -->
+
+- [x] B) Destinatario <!-- feedback: Correcto! Destinatario -->
+
+- [ ] C) Cartero <!-- feedback: Incorrecto. Cartero -->
+
+- [ ] D) Autor <!-- feedback: Incorrecto. Autor -->
 
 ### Explicación Pedagogica
 Es fundamental diferenciar entre los roles de la comunicación escrita para organizar bien la información.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -158,21 +155,20 @@ Es fundamental diferenciar entre los roles de la comunicación escrita para orga
 Si le escribes una carta al director de tu colegio, ¿cuál sería la despedida más apropiada?
 
 ### Opciones
-- [ ] A) Chao, nos vemos.
-  <!-- feedback: Es demasiado informal para un director. -->
-- [ ] B) Te quiero mucho, besitos.
-  <!-- feedback: Es una despedida afectuosa para familiares o amigos íntimos. -->
-- [x] C) Atentamente, (tu nombre).
-  <!-- feedback: ¡Exacto! "Atentamente" o "Cordialmente" son despedidas formales y respetuosas. -->
-- [ ] D) Un abrazo de oso.
-  <!-- feedback: Es muy informal. -->
+- [ ] A) Chao, nos vemos. <!-- feedback: Incorrecto. Chao, nos vemos. -->
+
+- [ ] B) Te quiero mucho, besitos. <!-- feedback: Incorrecto. Te quiero mucho, besitos. -->
+
+- [x] C) Atentamente, (tu nombre). <!-- feedback: Correcto! Atentamente, (tu nombre). -->
+
+- [ ] D) Un abrazo de oso. <!-- feedback: Incorrecto. Un abrazo de oso. -->
 
 ### Explicación Pedagogica
 El lenguaje de la carta debe ajustarse al nivel de confianza y al cargo de la persona que la recibe.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -183,21 +179,20 @@ El lenguaje de la carta debe ajustarse al nivel de confianza y al cargo de la pe
 ¿Para qué sirve la **P.D.** (Posdata) al final de una carta?
 
 ### Opciones
-- [ ] A) Para poner la fecha si se nos olvidó al principio.
-  <!-- feedback: La fecha siempre debe ir arriba. -->
-- [x] B) Para añadir algo importante que se nos olvidó escribir en el cuerpo.
-  <!-- feedback: ¡Muy bien! Es una nota adicional después de la firma. -->
-- [ ] C) Para dibujar algo bonito.
-  <!-- feedback: No es su función principal. -->
-- [ ] D) Para escribir la dirección de la casa.
-  <!-- feedback: La dirección va en el sobre. -->
+- [ ] A) Para poner la fecha si se nos olvidó al principio. <!-- feedback: Incorrecto. Para poner la fecha si se nos olvidó al  -->
+
+- [x] B) Para añadir algo importante que se nos olvidó escribir en el cuerpo. <!-- feedback: Correcto! Para añadir algo importante que se nos olvidó escribir en el -->
+
+- [ ] C) Para dibujar algo bonito. <!-- feedback: Incorrecto. Para dibujar algo bonito. -->
+
+- [ ] D) Para escribir la dirección de la casa. <!-- feedback: Incorrecto. Para escribir la dirección de la casa. -->
 
 ### Explicación Pedagogica
 La posdata es un recurso útil en la escritura manuscrita para evitar tachones o tener que repetir toda la carta.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -208,21 +203,20 @@ La posdata es un recurso útil en la escritura manuscrita para evitar tachones o
 ¿Qué información debe ir OBLIGATORIAMENTE en el sobre de la carta para que llegue a su destino?
 
 ### Opciones
-- [ ] A) El color favorito del destinatario.
-  <!-- feedback: No ayuda al cartero. -->
-- [x] B) El nombre completo y la dirección exacta (ciudad, barrio, calle).
-  <!-- feedback: ¡Excelente! Sin estos datos la carta se perdería. -->
-- [ ] C) Una foto de quien escribe la carta.
-  <!-- feedback: No es obligatorio. -->
-- [ ] D) Un chiste gracioso para el cartero.
-  <!-- feedback: No es necesario para el envío. -->
+- [ ] A) El color favorito del destinatario. <!-- feedback: Incorrecto. El color favorito del destinatario. -->
+
+- [x] B) El nombre completo y la dirección exacta (ciudad, barrio, calle). <!-- feedback: Correcto! El nombre completo y la dirección exacta (ciudad, barrio, ca -->
+
+- [ ] C) Una foto de quien escribe la carta. <!-- feedback: Incorrecto. Una foto de quien escribe la carta. -->
+
+- [ ] D) Un chiste gracioso para el cartero. <!-- feedback: Incorrecto. Un chiste gracioso para el cartero. -->
 
 ### Explicación Pedagogica
 La precisión en los datos de envío es vital para el funcionamiento del servicio postal.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -233,21 +227,20 @@ La precisión en los datos de envío es vital para el funcionamiento del servici
 ¿Cuál es una ventaja de la carta escrita a mano frente al correo electrónico?
 
 ### Opciones
-- [ ] A) Que llega mucho más rápido.
-  <!-- feedback: Al contrario, el e-mail es instantáneo. -->
-- [ ] B) Que es más barata porque no gasta papel.
-  <!-- feedback: La carta sí gasta papel y tinta. -->
-- [x] C) Que se siente más personal y especial para quien la recibe.
-  <!-- feedback: ¡Correcto! El esfuerzo de escribir a mano demuestra mucho cariño e interés. -->
-- [ ] D) Que nunca se puede perder.
-  <!-- feedback: Las cartas físicas se pueden extraviar. -->
+- [ ] A) Que llega mucho más rápido. <!-- feedback: Incorrecto. Que llega mucho más rápido. -->
+
+- [ ] B) Que es más barata porque no gasta papel. <!-- feedback: Incorrecto. Que es más barata porque no gasta papel. -->
+
+- [x] C) Que se siente más personal y especial para quien la recibe. <!-- feedback: Correcto! Que se siente más personal y especial para quien la recibe. -->
+
+- [ ] D) Que nunca se puede perder. <!-- feedback: Incorrecto. Que nunca se puede perder. -->
 
 ### Explicación Pedagogica
 Aunque existan medios digitales, la carta manuscrita conserva un valor sentimental y cultural importante.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -258,14 +251,13 @@ Aunque existan medios digitales, la carta manuscrita conserva un valor sentiment
 ¿Cuál de estas frases sería la mejor para iniciar el **cuerpo** de tu carta?
 
 ### Opciones
-- [ ] A) Chao, espero que vengas pronto.
-  <!-- feedback: Esto es una despedida. -->
-- [x] B) Te escribo porque me gustaría mucho que vinieras a visitarme a la playa en diciembre.
-  <!-- feedback: ¡Muy bien! Expresa claramente el motivo de la carta desde el inicio. -->
-- [ ] C) Mi mamá compró pescado hoy en el mercado.
-  <!-- feedback: Puede ser un detalle, pero no es el inicio ideal para una invitación. -->
-- [ ] D) Cartagena, 15 de noviembre de 2026.
-  <!-- feedback: Esto es la fecha y el lugar, no el cuerpo. -->
+- [ ] A) Chao, espero que vengas pronto. <!-- feedback: Incorrecto. Chao, espero que vengas pronto. -->
+
+- [x] B) Te escribo porque me gustaría mucho que vinieras a visitarme a la playa en diciembre. <!-- feedback: Correcto! Te escribo porque me gustaría mucho que vinieras a visitarme -->
+
+- [ ] C) Mi mamá compró pescado hoy en el mercado. <!-- feedback: Incorrecto. Mi mamá compró pescado hoy en el mercado -->
+
+- [ ] D) Cartagena, 15 de noviembre de 2026. <!-- feedback: Incorrecto. Cartagena, 15 de noviembre de 2026. -->
 
 ### Explicación Pedagogica
 Iniciar el cuerpo de la carta con el motivo principal ayuda a que el destinatario entienda rápidamente el mensaje.

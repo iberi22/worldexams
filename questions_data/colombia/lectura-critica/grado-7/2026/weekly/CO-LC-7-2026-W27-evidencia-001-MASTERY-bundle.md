@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W27-evidencia-001-MASTERY"
+id: "CO-LC-7-2026-W27-evidencia-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "evidencia"
-semana: "W27"
+week: "W27"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Evidencia - Grado 7
 ## Semana W27 — Identificación, evaluación y uso de evidencia en textos argumentativos
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W27-evidencia-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de Lectura Crítica del Colegio San Carlos de Bogotá, el profesor explica qué es la evidencia.
+**Contexto:** En la clase de Lectura Crítica del Colegio San Carlos de Bogotá, el profesor explica qué es la evidencia.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La evidencia es el conjunto de información verificable que un autor utiliza par
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W27-evidencia-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un artículo sobre el cambio climático dice: "La temperatura global ha aumentado 1.2°C desde la era preindustrial, según la NASA."
+**Contexto:** Un artículo sobre el cambio climático dice: "La temperatura global ha aumentado 1.2°C desde la era preindustrial, según la NASA."
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -60,11 +64,11 @@ Esta afirmación constituye evidencia confiable porque: 1) ofrece un dato concre
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W27-evidencia-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un estudiante escribe: "El servicio de transporte público en mi ciudad es malo porque una vez el bus demoró una hora en pasar."
+**Contexto:** Un estudiante escribe: "El servicio de transporte público en mi ciudad es malo porque una vez el bus demoró una hora en pasar."
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -81,11 +85,11 @@ La evidencia anecdótica se basa en experiencias personales o casos particulares
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W27-evidencia-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Un artículo sobre alimentación saludable afirma: "Los expertos recomiendan consumir cinco porciones de fruta al día."
+**Contexto:** Un artículo sobre alimentación saludable afirma: "Los expertos recomiendan consumir cinco porciones de fruta al día."
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -102,11 +106,11 @@ Decir "los expertos recomiendan" es una forma vaga de presentar evidencia. ¿Qu�
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W27-evidencia-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un debate sobre la jornada única escolar, un participante presenta datos del Ministerio de Educación mostrando que en colegios con jornada única los puntajes en pruebas Saber aumentaron un 12%.
+**Contexto:** En un debate sobre la jornada única escolar, un participante presenta datos del Ministerio de Educación mostrando que en colegios con jornada única los puntajes en pruebas Saber aumentaron un 12%.
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -123,11 +127,11 @@ Incluso cuando la evidencia parece sólida (datos oficiales, cifras concretas), 
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W27-evidencia-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un artículo promociona un suplemento vitamínico y como evidencia cita a "la prestigiosa revista Journal of Alternative Medicine", que resulta ser una publicación sin revisión por pares que acepta artículos pagados.
+**Contexto:** Un artículo promociona un suplemento vitamínico y como evidencia cita a "la prestigiosa revista Journal of Alternative Medicine", que resulta ser una publicación sin revisión por pares que acepta artículos pagados.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -144,11 +148,11 @@ Este ejemplo muestra la importancia de verificar las fuentes, no solo leer los n
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W27-evidencia-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un político afirma durante un debate: "En mi gobierno, la pobreza se redujo significativamente." Como evidencia, muestra una gráfica donde la línea de pobreza baja durante su mandato, pero la gráfica comienza en el año en que asumió y termina justo antes de una crisis económica.
+**Contexto:** Un político afirma durante un debate: "En mi gobierno, la pobreza se redujo significativamente." Como evidencia, muestra una gráfica donde la línea de pobreza baja durante su mandato, pero la gráfica comienza en el año en que asumió y termina justo antes de una crisis económica.
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -165,11 +169,11 @@ La evidencia puede ser manipulada mediante la selección conveniente de qué dat
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W27-evidencia-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un artículo sobre los beneficios del ejercicio dice: "Un estudio de la Universidad de Harvard demostró que las personas que hacen ejercicio viven más." Al leer el estudio original, se descubre que el estudio era observacional, no experimental.
+**Contexto:** Un artículo sobre los beneficios del ejercicio dice: "Un estudio de la Universidad de Harvard demostró que las personas que hacen ejercicio viven más." Al leer el estudio original, se descubre que el estudio era observacional, no experimental.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -186,11 +190,11 @@ La diferencia entre estudios observacionales y experimentales es fundamental par
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W27-evidencia-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una discusión sobre el uso de plásticos, una persona presenta como evidencia una foto de una tortuga enredada en una bolsa plástica. Otra persona presenta un informe de la ONU con datos sobre producción y reciclaje de plásticos a nivel global.
+**Contexto:** En una discusión sobre el uso de plásticos, una persona presenta como evidencia una foto de una tortuga enredada en una bolsa plástica. Otra persona presenta un informe de la ONU con datos sobre producción y reciclaje de plásticos a nivel global.
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -207,11 +211,11 @@ Aunque la foto de la tortuga es poderosa emocionalmente, como evidencia es débi
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W27-evidencia-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Un artículo científico de 1990 afirmaba que un químico era seguro. En 2024, nuevos estudios demuestran que el mismo químico es cancerígeno. Un defensor de la industria química sigue citando el estudio de 1990 como evidencia.
+**Contexto:** Un artículo científico de 1990 afirmaba que un químico era seguro. En 2024, nuevos estudios demuestran que el mismo químico es cancerígeno. Un defensor de la industria química sigue citando el estudio de 1990 como evidencia.
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ La ciencia es un proceso de revisión y actualización constante. Que algo fuera
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W27-evidencia-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Un artículo sobre éxito empresarial dice: "El 80% de los millonarios leen libros de autoayuda." Un análisis crítico revela que la encuesta se realizó entre suscriptores de una revista de autoayuda.
+**Contexto:** Un artículo sobre éxito empresarial dice: "El 80% de los millonarios leen libros de autoayuda." Un análisis crítico revela que la encuesta se realizó entre suscriptores de una revista de autoayuda.
 **Expected_Success:** 0.40
 
 ### Enunciado
@@ -249,11 +253,11 @@ Este es un caso clásico de sesgo de muestreo. Para afirmar que "el 80% de los m
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W27-evidencia-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** Para el proyecto de período, los estudiantes deben escribir un texto argumentativo breve sobre un tema de su comunidad, respaldando su tesis con al menos tres tipos diferentes de evidencia.
+**Contexto:** Para el proyecto de período, los estudiantes deben escribir un texto argumentativo breve sobre un tema de su comunidad, respaldando su tesis con al menos tres tipos diferentes de evidencia.
 **Expected_Success:** 0.36
 
 ### Enunciado

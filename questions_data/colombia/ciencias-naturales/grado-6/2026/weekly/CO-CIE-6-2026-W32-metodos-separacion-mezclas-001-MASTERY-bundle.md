@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W32-metodos-separacion-mezclas-001-MASTERY"
+id: "CO-CIE-6-2026-W32-metodos-separacion-mezclas-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W32 — Métodos de Separación de Mezclas
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W32-metodos-separacion-mezclas-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, estudiantes definen filtración.
+**Contexto:** En Bogotá, estudiantes definen filtración.
 
 ### Enunciado
 ¿Qué método de separación se usa para separar un sólido insoluble de un líquido utilizando un medio poroso?
 
-### Options
+### Opciones
 - [ ] A) Evaporación <!-- feedback: La evaporación separa un sólido disuelto calentando para que el líquido se evapore. -->
 - [x] B) Filtración <!-- feedback: Correcto. La filtración retiene el sólido en el filtro y deja pasar el líquido. -->
 - [ ] C) Destilación <!-- feedback: La destilación separa líquidos por puntos de ebullición. -->
@@ -54,13 +57,14 @@ La filtración solo funciona si el sólido es **insoluble** (no se disuelve) en 
 
 **ID:** `CO-CIE-6-2026-W32-metodos-separacion-mezclas-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, estudiantes definen evaporación.
+**Contexto:** En Medellín, estudiantes definen evaporación.
 
 ### Enunciado
 ¿Qué método permite separar un sólido disuelto en un líquido calentando hasta que el líquido se evapora?
 
-### Options
+### Opciones
 - [ ] A) Filtración <!-- feedback: La filtración no separa sólidos disueltos. -->
 - [ ] B) Imantación <!-- feedback: La imantación separa materiales magnéticos. -->
 - [x] C) Evaporación <!-- feedback: Correcto. La evaporación deja el sólido como residuo seco. -->
@@ -80,13 +84,14 @@ Limitación: el disolvente evaporado se pierde (no se recupera a menos que se us
 
 **ID:** `CO-CIE-6-2026-W32-metodos-separacion-mezclas-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, estudiantes explican la decantación.
+**Contexto:** En Cali, estudiantes explican la decantación.
 
 ### Enunciado
 ¿En qué se basa el método de decantación para separar mezclas?
 
-### Options
+### Opciones
 - [ ] A) En el punto de ebullición de los componentes <!-- feedback: Eso es la destilación. -->
 - [ ] B) En la diferencia de tamaño de las partículas <!-- feedback: Eso es la filtración o tamizado. -->
 - [x] C) En la diferencia de densidad de los componentes, dejando reposar para que el más denso se deposite en el fondo <!-- feedback: Correcto. El más denso se va al fondo. -->
@@ -113,13 +118,14 @@ La velocidad de sedimentación depende del tamaño y peso de las partículas, y 
 
 **ID:** `CO-CIE-6-2026-W32-metodos-separacion-mezclas-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, estudiantes explican la destilación.
+**Contexto:** En Barranquilla, estudiantes explican la destilación.
 
 ### Enunciado
 ¿En qué se basa el método de destilación para separar mezclas?
 
-### Options
+### Opciones
 - [ ] A) En la diferencia de densidad <!-- feedback: Eso es decantación. -->
 - [ ] B) En la diferencia de tamaño de partículas <!-- feedback: Eso es filtración o tamizado. -->
 - [x] C) En la diferencia de puntos de ebullición de los componentes líquidos <!-- feedback: Correcto. El de menor punto de ebullición hierve primero. -->
@@ -148,13 +154,14 @@ Ejemplos cotidianos:
 
 **ID:** `CO-CIE-6-2026-W32-metodos-separacion-mezclas-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, estudiantes aplican la imantación.
+**Contexto:** En Bucaramanga, estudiantes aplican la imantación.
 
 ### Enunciado
 Se tiene una mezcla de arena y limaduras de hierro. ¿Cuál es el método más eficiente para separarlas?
 
-### Options
+### Opciones
 - [ ] A) Filtración <!-- feedback: Ambos son sólidos, la filtración no separa sólidos de sólidos. -->
 - [ ] B) Destilación <!-- feedback: La destilación separa líquidos, no sólidos. -->
 - [x] C) Imantación (uso de un imán) <!-- feedback: Correcto. El imán atrae el hierro y deja la arena. -->
@@ -175,13 +182,14 @@ El método es simple: se pasa un imán sobre la mezcla, los materiales magnétic
 
 **ID:** `CO-CIE-6-2026-W32-metodos-separacion-mezclas-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, estudiantes aplican tamizado.
+**Contexto:** En Cartagena, estudiantes aplican tamizado.
 
 ### Enunciado
 ¿Qué método usarías para separar piedras pequeñas de la arena en una construcción?
 
-### Options
+### Opciones
 - [ ] A) Destilación <!-- feedback: Ambos son sólidos, no líquidos. -->
 - [ ] B) Filtración <!-- feedback: Ambos son sólidos de tamaño similar, un filtro se taparía. -->
 - [x] C) Tamizado <!-- feedback: Correcto. El tamiz (malla) deja pasar la arena y retiene las piedras. -->
@@ -203,13 +211,14 @@ La **cromatografía** es otro método más avanzado que separa componentes de un
 
 **ID:** `CO-CIE-6-2026-W32-metodos-separacion-mezclas-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan la centrifugación.
+**Contexto:** En Pereira, analizan la centrifugación.
 
 ### Enunciado
 ¿Por qué una centrifugadora separa los componentes de una mezcla más rápido que la sedimentación natural?
 
-### Options
+### Opciones
 - [ ] A) Porque calienta la mezcla <!-- feedback: La centrifugación no requiere calor. -->
 - [ ] B) Porque la fuerza centrífuga (girar a alta velocidad) acelera la separación simulando una "gravedad aumentada" muchas veces mayor <!-- feedback: Correcto. La fuerza centrífuga acelera la sedimentación. -->
 - [ ] C) Porque enfría la mezcla <!-- feedback: La centrifugación no depende de la temperatura. -->
@@ -235,13 +244,14 @@ Comparación con sedimentación natural:
 
 **ID:** `CO-CIE-6-2026-W32-metodos-separacion-mezclas-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, analizan la elección del método de separación.
+**Contexto:** En Manizales, analizan la elección del método de separación.
 
 ### Enunciado
 Para separar una mezcla de alcohol y agua, ¿cuál es el mejor método y por qué?
 
-### Options
+### Opciones
 - [ ] A) Filtración, porque el alcohol y el agua tienen diferente tamaño molecular <!-- feedback: El tamaño no es suficientemente diferente para filtrar. -->
 - [ ] B) Decantación, porque el alcohol es menos denso que el agua <!-- feedback: El alcohol y el agua son miscibles (se mezclan completamente), no forman capas. -->
 - [x] C) Destilación, porque el alcohol hierve a 78°C y el agua a 100°C, permitiendo separarlos por evaporación y condensación <!-- feedback: Correcto. La diferencia de puntos de ebullición permite la destilación. -->
@@ -267,13 +277,14 @@ Es importante recordar que el alcohol y el agua son **miscibles** (se mezclan en
 
 **ID:** `CO-CIE-6-2026-W32-metodos-separacion-mezclas-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan el proceso de potabilización del agua.
+**Contexto:** En Cúcuta, evalúan el proceso de potabilización del agua.
 
 ### Enunciado
 En una planta de tratamiento de agua potable, ¿cuál de estos métodos se aplica PRIMERO para limpiar el agua?
 
-### Options
+### Opciones
 - [ ] A) Destilación <!-- feedback: La destilación es costosa para grandes volúmenes de agua. -->
 - [ ] B) Filtración fina <!-- feedback: La filtración fina se hace después de eliminar partículas grandes. -->
 - [x] C) Sedimentación (decantación) después de coagulación <!-- feedback: Correcto. Primero se agregan coagulantes y se deja sedimentar. -->
@@ -300,13 +311,14 @@ Cada método de separación tiene su lugar en el proceso: **sedimentación** (pa
 
 **ID:** `CO-CIE-6-2026-W32-metodos-separacion-mezclas-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan métodos de separación en casa.
+**Contexto:** En Ibagué, evalúan métodos de separación en casa.
 
 ### Enunciado
 Se derrama una mezcla de aceite de cocina, arroz y agua en la cocina. ¿En qué orden aplicarías los métodos de separación para recuperar los tres componentes?
 
-### Options
+### Opciones
 - [ ] A) Destilación, luego filtración, luego decantación <!-- feedback: El orden está incorrecto. -->
 - [ ] B) Filtración (separar arroz), luego decantación (separar agua y aceite) <!-- feedback: Correcto. -->
 - [ ] C) Decantación, luego destilación, luego imantación <!-- feedback: La imantación no sirve aquí. -->

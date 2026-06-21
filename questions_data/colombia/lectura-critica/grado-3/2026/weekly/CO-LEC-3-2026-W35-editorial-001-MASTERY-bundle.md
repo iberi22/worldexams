@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W35-editorial-001-MASTERY"
+id: "CO-LEC-3-2026-W35-editorial-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 35
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: El Editorial Infantil
 
@@ -25,6 +30,7 @@ Este bundle evalúa la comprensión de textos de opinión publicados en medios (
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Editorial del Periódico Escolar: ¡CUIDEMOS NUESTRO PATIO!**
@@ -33,7 +39,7 @@ Este bundle evalúa la comprensión de textos de opinión publicados en medios (
 ### Enunciado
 ¿Cuál es el problema que denuncia el editorial?
 
-### Options
+### Opciones
 - [ ] A) Que el descanso es muy corto. <!-- feedback: Incorrecto. El texto no menciona el tiempo del descanso. -->
 - [x] B) Que el patio queda lleno de basura después del recreo. <!-- feedback: ¡Correcto! El texto inicia señalando la suciedad del patio como el problema central. -->
 - [ ] C) Que los niños no quieren jugar. <!-- feedback: Incorrecto. El problema no es el juego, sino la limpieza. -->
@@ -49,6 +55,7 @@ Identificar el problema central en un editorial es la base para comprender la op
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Un editorial no lleva la firma de una sola persona, sino que representa el pensamiento de todo el periódico o de un grupo de estudiantes que lo dirige. Su función es opinar sobre temas importantes".
@@ -56,7 +63,7 @@ Identificar el problema central en un editorial es la base para comprender la op
 ### Enunciado
 ¿Qué diferencia al editorial de una noticia común?
 
-### Options
+### Opciones
 - [ ] A) Que el editorial cuenta chistes y la noticia no. <!-- feedback: Incorrecto. El editorial es serio, solo que da una opinión. -->
 - [x] B) Que el editorial da una opinión sobre un hecho, mientras la noticia solo informa lo que pasó. <!-- feedback: ¡Correcto! Esta es la diferencia fundamental entre el periodismo de opinión y el de información. -->
 - [ ] C) Que la noticia es más larga que el editorial. <!-- feedback: Incorrecto. La longitud no define el tipo de texto. -->
@@ -72,6 +79,7 @@ Diferenciar la intención comunicativa de los géneros periodísticos permite al
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Editorial: LA IMPORTANCIA DE SALUDAR**
@@ -80,7 +88,7 @@ Diferenciar la intención comunicativa de los géneros periodísticos permite al
 ### Enunciado
 ¿Cuál es la **invitación final** que hace el autor del editorial?
 
-### Options
+### Opciones
 - [ ] A) Que los niños lleguen más temprano al colegio. <!-- feedback: Incorrecto. No habla de la hora de llegada. -->
 - [ ] B) Que los profesores regalen dulces a los que saludan. <!-- feedback: Incorrecto. El texto no menciona premios materiales. -->
 - [x] C) Que no se pierda la costumbre de saludar y ser educados. <!-- feedback: ¡Correcto! El editorial cierra con esta propuesta o llamado a la acción. -->
@@ -96,6 +104,7 @@ Identificar la propuesta o "llamado a la acción" es clave en el editorial. A di
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Editorial: EL RUIDO EN EL SALÓN**
@@ -104,7 +113,7 @@ Identificar la propuesta o "llamado a la acción" es clave en el editorial. A di
 ### Enunciado
 Si un estudiante lee este editorial, ¿qué **cambio de conducta** se espera de él?
 
-### Options
+### Opciones
 - [ ] A) Que hable mucho más fuerte para que lo escuchen. <!-- feedback: Incorrecto. Eso empeoraría el problema del ruido. -->
 - [x] B) Que guarde silencio y preste atención para que todos puedan aprender. <!-- feedback: ¡Correcto! Es la respuesta lógica al problema planteado por el texto. -->
 - [ ] C) Que le pida a la profesora que grite más. <!-- feedback: Incorrecto. El problema es el ruido de los estudiantes, no la voz del profesor. -->
@@ -120,6 +129,7 @@ La transferencia de la lectura a la conducta ciudadana es el objetivo de los edi
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Un buen editorial debe tener: un título llamativo, la exposición de un problema, argumentos que apoyen la opinión y una conclusión o propuesta".
@@ -127,7 +137,7 @@ La transferencia de la lectura a la conducta ciudadana es el objetivo de los edi
 ### Enunciado
 Si estás escribiendo un editorial sobre **el ahorro de agua en el colegio**, ¿cuál de estos sería un buen **argumento** para tu texto?
 
-### Options
+### Opciones
 - [ ] A) Porque el agua moja los zapatos. <!-- feedback: Incorrecto. Es un hecho sin importancia para el ahorro del recurso. -->
 - [ ] B) Porque a mí me gusta jugar con agua en el descanso. <!-- feedback: Incorrecto. Esto va en contra de la idea de ahorrar agua. -->
 - [x] C) Porque el agua es un recurso escaso y si la desperdiciamos, otros niños se quedarán sin ella. <!-- feedback: ¡Correcto! Es una razón sólida basada en la solidaridad y la ecología. -->
@@ -143,6 +153,7 @@ Seleccionar argumentos coherentes con una tesis desarrolla el pensamiento críti
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Editorial: LIBROS QUE VIAJAN**
@@ -151,7 +162,7 @@ Seleccionar argumentos coherentes con una tesis desarrolla el pensamiento críti
 ### Enunciado
 ¿Cuál es la **posición o actitud** del periódico frente a la biblioteca rodante?
 
-### Options
+### Opciones
 - [ ] A) Crítica y negativa (no les gusta). <!-- feedback: Incorrecto. El texto usa palabras positivas como "maravillosa". -->
 - [x] B) De apoyo y felicitación (les parece una excelente idea). <!-- feedback: ¡Correcto! El editorial resalta los beneficios y califica la idea como "un gran avance". -->
 - [ ] C) De duda (no saben si funcionará). <!-- feedback: Incorrecto. El texto ya habla de los resultados positivos observados. -->
@@ -167,6 +178,7 @@ Identificar el tono o la postura del medio (favorable o desfavorable) es una hab
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "En el editorial de hoy analizaremos por qué se están perdiendo tantos sacos y chaquetas en el colegio. Muchos niños los dejan olvidados en el patio y luego nadie los reclama".
@@ -174,7 +186,7 @@ Identificar el tono o la postura del medio (favorable o desfavorable) es una hab
 ### Enunciado
 ¿A qué conclusión lógica llegará probablemente este editorial al final?
 
-### Options
+### Opciones
 - [ ] A) Que el colegio debe comprar chaquetas nuevas para todos. <!-- feedback: Incorrecto. El problema es el olvido de las propias, no la falta de ellas. -->
 - [ ] B) Que hay que prohibir el uso de chaquetas en el colegio. <!-- feedback: Incorrecto. Sería una solución exagerada e incómoda para el frío. -->
 - [x] C) Que los niños deben ser más cuidadosos con sus pertenencias y marcarlas con su nombre. <!-- feedback: ¡Correcto! Es la solución más lógica y responsable frente al problema del descuido descrito. -->
@@ -190,6 +202,7 @@ Predecir la conclusión de un editorial basándose en la exposición del problem
 **Bloom:** Evaluate
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Imagina un editorial escolar que dice: "**Los niños de tercer grado son los más desordenados de todo el colegio y por eso no deberían tener descanso**".
@@ -197,7 +210,7 @@ Imagina un editorial escolar que dice: "**Los niños de tercer grado son los má
 ### Enunciado
 ¿Es este un editorial **justo y bien argumentado**?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque a los de tercero les gusta jugar mucho. <!-- feedback: Incorrecto. Jugar no justifica quitar el descanso a todos. -->
 - [x] B) No, porque generaliza a todos los niños por igual y propone un castigo excesivo en lugar de una solución educativa. <!-- feedback: ¡Correcto! Un editorial justo debe evitar los ataques generales y buscar soluciones que ayuden a aprender, no solo a castigar. -->
 - [ ] C) Sí, porque el desorden es lo más grave que puede pasar. <!-- feedback: Incorrecto. El desorden es un problema, pero la forma de tratarlo en este ejemplo es injusta. -->

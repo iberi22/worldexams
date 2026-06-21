@@ -1,5 +1,5 @@
 ---
-id: "COL-SOC-CIU-4-2026-W23-grupos-etnicos-indigenas-colombianos-001-MASTERY"
+id: "COL-SOC-CIU-4-2026-W23-grupos-etnicos-indigenas-colombianos-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Grupos étnicos: pueblos indígenas colombianos"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Grupos étnicos — Indígenas colombianos
 
@@ -30,14 +35,15 @@ Este bundle explica los pueblos indígenas de Colombia: su ubicación, culturas,
 ## Question 1 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W23-grupos-etnicos-indigenas-colombianos-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Diversidad étnica en Colombia
+**Contexto:** Diversidad étnica en Colombia
 
 ### Enunciado
 ¿Qué son los grupos étnicos?
 
-### Options
+### Opciones
 - [x] A) Comunidades que comparten origen, cultura, lengua y tradiciones propias. <!-- feedback: Correcto. Los grupos étnicos tienen identidad cultural común. -->
 - [ ] B) Grupos de personas que viven en el mismo edificio. <!-- feedback: Incorrecto. Compartir vivienda no crea un grupo étnico. -->
 - [ ] C) Personas que practican el mismo deporte. <!-- feedback: Incorrecto. Un deporte no define un grupo étnico. -->
@@ -51,14 +57,15 @@ Este bundle explica los pueblos indígenas de Colombia: su ubicación, culturas,
 ## Question 2 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W23-grupos-etnicos-indigenas-colombianos-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Pueblos indígenas
+**Contexto:** Pueblos indígenas
 
 ### Enunciado
 ¿Cuántos pueblos indígenas aproximadamente hay en Colombia?
 
-### Options
+### Opciones
 - [ ] A) 5 pueblos. <!-- feedback: Incorrecto. Colombia tiene mucha más diversidad indígena. -->
 - [ ] B) 20 pueblos. <!-- feedback: Incorrecto. Hay más de 20. -->
 - [x] C) Más de 100 pueblos indígenas. <!-- feedback: Correcto. Colombia tiene alrededor de 115 pueblos indígenas reconocidos. -->
@@ -72,14 +79,15 @@ Este bundle explica los pueblos indígenas de Colombia: su ubicación, culturas,
 ## Question 3 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W23-grupos-etnicos-indigenas-colombianos-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Territorios indígenas
+**Contexto:** Territorios indígenas
 
 ### Enunciado
 ¿Qué son los resguardos indígenas?
 
-### Options
+### Opciones
 - [ ] A) Tierras que pertenecen al gobierno. <!-- feedback: Incorrecto. Son territorios colectivos de comunidades indígenas. -->
 - [ ] B) Campamentos temporales para turistas. <!-- feedback: Incorrecto. Son territorios permanentes de pueblos indígenas. -->
 - [x] C) Territorios colectivos donde las comunidades indígenas viven y se gobiernan según sus usos y costumbres. <!-- feedback: Correcto. Los resguardos son propiedad colectiva indígena. -->
@@ -93,14 +101,15 @@ Este bundle explica los pueblos indígenas de Colombia: su ubicación, culturas,
 ## Question 4 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W23-grupos-etnicos-indigenas-colombianos-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Lenguas indígenas
+**Contexto:** Lenguas indígenas
 
 ### Enunciado
 ¿Cuántas lenguas indígenas se hablan en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Solo una: el quechua. <!-- feedback: Incorrecto. El quechua no es originario de Colombia. -->
 - [ ] B) 5 lenguas aproximadamente. <!-- feedback: Incorrecto. Hay muchas más. -->
 - [x] C) Alrededor de 65 lenguas indígenas. <!-- feedback: Correcto. Colombia es uno de los países con mayor diversidad lingüística de América. -->
@@ -114,14 +123,15 @@ Este bundle explica los pueblos indígenas de Colombia: su ubicación, culturas,
 ## Question 5 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W23-grupos-etnicos-indigenas-colombianos-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Pueblo wayúu
+**Contexto:** Pueblo wayúu
 
 ### Enunciado
 ¿En qué región de Colombia vive principalmente el pueblo wayúu?
 
-### Options
+### Opciones
 - [ ] A) En la Amazonía colombiana. <!-- feedback: Incorrecto. Los wayúu están en La Guajira. -->
 - [x] B) En La Guajira, en la frontera con Venezuela. <!-- feedback: Correcto. El pueblo wayúu habita el desierto de La Guajira. -->
 - [ ] C) En la Cordillera de los Andes. <!-- feedback: Incorrecto. La Guajira es una península en el Caribe. -->
@@ -135,14 +145,15 @@ Este bundle explica los pueblos indígenas de Colombia: su ubicación, culturas,
 ## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W23-grupos-etnicos-indigenas-colombianos-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Pueblo nukak
+**Contexto:** Pueblo nukak
 
 ### Enunciado
 Los nukak son uno de los pueblos indígenas de Colombia. ¿Qué los caracteriza?
 
-### Options
+### Opciones
 - [ ] A) Construyen grandes ciudades. <!-- feedback: Incorrecto. Los nukak son seminómadas. -->
 - [x] B) Son uno de los últimos pueblos en contacto inicial con la sociedad mayoritaria. <!-- feedback: Correcto. Los nukak vivieron aislados hasta hace pocas décadas. -->
 - [ ] C) Son expertos navegantes. <!-- feedback: Incorrecto. Habitan la selva amazónica, no el mar. -->
@@ -156,14 +167,15 @@ Los nukak son uno de los pueblos indígenas de Colombia. ¿Qué los caracteriza?
 ## Question 7 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W23-grupos-etnicos-indigenas-colombianos-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Derechos de los pueblos indígenas
+**Contexto:** Derechos de los pueblos indígenas
 
 ### Enunciado
 ¿Qué derechos tienen los pueblos indígenas según la Constitución de 1991?
 
-### Options
+### Opciones
 - [ ] A) Ningún derecho especial. <!-- feedback: Incorrecto. La Constitución reconoce derechos específicos. -->
 - [ ] B) Solo derecho a votar. <!-- feedback: Incorrecto. Tienen más derechos que el voto. -->
 - [x] C) Derecho a territorios colectivos, autonomía política, consulta previa y educación propia. <!-- feedback: Correcto. La Constitución de 1991 reconoce amplios derechos a los pueblos indígenas. -->
@@ -177,14 +189,15 @@ Los nukak son uno de los pueblos indígenas de Colombia. ¿Qué los caracteriza?
 ## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W23-grupos-etnicos-indigenas-colombianos-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Problemas indígenas
+**Contexto:** Problemas indígenas
 
 ### Enunciado
 ¿Cuáles son los principales problemas que enfrentan los pueblos indígenas en Colombia?
 
-### Options
+### Opciones
 - [ ] A) No tienen ningún problema. <!-- feedback: Incorrecto. Los pueblos indígenas enfrentan graves problemas. -->
 - [x] B) Desplazamiento forzado, conflicto armado, pérdida de territorios y falta de servicios básicos. <!-- feedback: Correcto. Múltiples factores afectan a las comunidades indígenas. -->
 - [ ] C) Solo problemas de turismo. <!-- feedback: Incorrecto. Los problemas son estructurales y más graves. -->
@@ -198,14 +211,15 @@ Los nukak son uno de los pueblos indígenas de Colombia. ¿Qué los caracteriza?
 ## Question 9 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W23-grupos-etnicos-indigenas-colombianos-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Importancia de la diversidad indígena
+**Contexto:** Importancia de la diversidad indígena
 
 ### Enunciado
 ¿Por qué es importante proteger la cultura de los pueblos indígenas?
 
-### Options
+### Opciones
 - [ ] A) Porque son una atracción turística. <!-- feedback: Incorrecto. Su valor va mucho más allá del turismo. -->
 - [ ] B) Porque hablan lenguas interesantes. <!-- feedback: Parcial, pero hay razones más profundas. -->
 - [x] C) Porque conservan conocimientos ancestrales sobre la naturaleza, la medicina y formas de vida sostenibles. <!-- feedback: Correcto. Los pueblos indígenas poseen saberes valiosos para toda la humanidad. -->
@@ -220,13 +234,14 @@ Los nukak son uno de los pueblos indígenas de Colombia. ¿Qué los caracteriza?
 
 **ID:** `COL-SOC-CIU-4-2026-W23-grupos-etnicos-indigenas-colombianos-001-MASTERY-v10`
 **Bloom:** [Create]
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Proyecto escolar
+**Contexto:** Proyecto escolar
 
 ### Enunciado
 Diseña una actividad para que los estudiantes de tu colegio conozcan mejor la cultura de un pueblo indígena colombiano.
 
-### Options
+### Opciones
 - [ ] A) Leer un libro de texto sobre indígenas. <!-- feedback: Incorrecto. Hay formas más interactivas de aprender. -->
 - [x] B) Invitar a un líder indígena a dar una charla y organizar una exposición de artesanías y fotografías. <!-- feedback: Correcto. El contacto directo con la cultura enriquece el aprendizaje. -->
 - [ ] C) Ver una película de Hollywood sobre indígenas. <!-- feedback: Incorrecto. Las películas de Hollywood no siempre son precisas. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-CN-9-2026-P1-comprehensive-002-MASTERY"
+id: "CO-CN-9-2026-P1-comprehensive-002-MASTERY-bundle"
 country: "colombia"
 grado: 9
 asignatura: "ciencias-naturales"
@@ -19,7 +19,12 @@ rubric_baseline: "genética mendeliana, herencia biológica, sistema nervioso, c
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Genética, Sistema Nervioso y Tabla Periódica
 
@@ -31,13 +36,14 @@ Este bundle cubre los conceptos fundamentales del primer periodo de grado 9 en c
 
 **ID:** `CO-CN-9-2026-P1-comprehensive-002-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En el laboratorio del Colegio Nacional de San José en Bogotá, los estudiantes estudian las leyes de Mendel.
+**Contexto:** En el laboratorio del Colegio Nacional de San José en Bogotá, los estudiantes estudian las leyes de Mendel.
 
 ### Enunciado
 ¿Qué científico es considerado el padre de la genética por sus experimentos con guisantes?
 
-### Options
+### Opciones
 - [ ] A) Charles Darwin <!-- feedback: Incorrect. Darwin es conocido por la teoría de la evolución por selección natural, no por los estudios de herencia con guisantes. -->
 - [x] B) Gregor Mendel <!-- feedback: Correct. Mendel realizó experimentos con guisantes (Pisum sativum) en el siglo XIX, estableciendo las bases de la genética moderna. -->
 - [ ] C) Louis Pasteur <!-- feedback: Incorrect. Pasteur es conocido por sus contribuciones a la microbiología y la pasteurización, no a la genética. -->
@@ -52,13 +58,14 @@ Gregor Mendel (1822-1884), un monje austriaco, realizó experimentos controlados
 
 **ID:** `CO-CN-9-2026-P1-comprehensive-002-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En clase de ciencias en un colegio de Medellín, la profesora explica el sistema nervioso humano.
+**Contexto:** En clase de ciencias en un colegio de Medellín, la profesora explica el sistema nervioso humano.
 
 ### Enunciado
 ¿Cuál es la unidad funcional básica del sistema nervioso?
 
-### Options
+### Opciones
 - [ ] A) El axón <!-- feedback: Incorrect. El axón es una parte de la neurona, no la unidad funcional completa. -->
 - [x] B) La neurona <!-- feedback: Correct. La neurona es la célula especializada del sistema nervioso que recibe, procesa y transmite impulsos nerviosos. -->
 - [ ] C) La sinapsis <!-- feedback: Incorrect. La sinapsis es la conexión entre neuronas, no la unidad funcional básica. -->
@@ -73,13 +80,14 @@ La neurona es la célula fundamental del sistema nervioso. Está compuesta por c
 
 **ID:** `CO-CN-9-2026-P1-comprehensive-002-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En el Jardín Botánico de Cali, un estudiante analiza los resultados de un cruce de plantas.
+**Contexto:** En el Jardín Botánico de Cali, un estudiante analiza los resultados de un cruce de plantas.
 
 ### Enunciado
 Según la primera ley de Mendel (ley de la segregación), al cruzar dos individuos heterocigotos (Aa × Aa), ¿qué proporción fenotípica se espera en la descendencia si A es dominante sobre a?
 
-### Options
+### Opciones
 - [ ] A) 100% dominante <!-- feedback: Incorrect. Un cruce Aa × Aa produce una proporción de 3:1 de dominante a recesivo, no 100% dominante. -->
 - [x] B) 3 dominante : 1 recesivo <!-- feedback: Correct. El cruce Aa × Aa produce genotipos AA, Aa, Aa y aa (1:2:1), con fenotipos 3 dominantes y 1 recesivo. -->
 - [ ] C) 1 dominante : 1 recesivo <!-- feedback: Incorrect. Esa proporción corresponde a un cruce Aa × aa (retrocruce), no a Aa × Aa. -->
@@ -94,13 +102,14 @@ La primera ley de Mendel (segregación) establece que los alelos se separan dura
 
 **ID:** `CO-CN-9-2026-P1-comprehensive-002-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En un laboratorio escolar en Bucaramanga se estudia la tabla periódica.
+**Contexto:** En un laboratorio escolar en Bucaramanga se estudia la tabla periódica.
 
 ### Enunciado
 ¿Cómo están organizados los elementos en la tabla periódica moderna?
 
-### Options
+### Opciones
 - [ ] A) Por orden alfabético de sus nombres. <!-- feedback: Incorrect. La tabla periódica no se organiza alfabéticamente sino por número atómico y configuraciones electrónicas. -->
 - [x] B) En orden creciente de número atómico (Z), con filas (períodos) y columnas (grupos) que reflejan configuraciones electrónicas similares. <!-- feedback: Correct. La tabla periódica moderna organiza los elementos por número atómico creciente y propiedades periódicas. -->
 - [ ] C) Por masa atómica creciente en filas. <!-- feedback: Incorrect. La tabla de Mendeleiev se basaba en masa atómica, pero la tabla moderna usa número atómico (Z). -->
@@ -115,13 +124,14 @@ La tabla periódica moderna organiza 118 elementos en 7 períodos (filas) y 18 g
 
 **ID:** `CO-CN-9-2026-P1-comprehensive-002-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En el departamento de Antioquia, un ganadero cruza una vaca de color negro (genotipo NN) con un toro de color blanco (genotipo nn). El color negro es dominante sobre el blanco.
+**Contexto:** En el departamento de Antioquia, un ganadero cruza una vaca de color negro (genotipo NN) con un toro de color blanco (genotipo nn). El color negro es dominante sobre el blanco.
 
 ### Enunciado
 ¿Qué color tendrán todos los terneros de la primera generación filial (F1)?
 
-### Options
+### Opciones
 - [ ] A) Todos blancos <!-- feedback: Incorrect. Si NN × nn, todos los descendientes serán Nn y expresarán el alelo dominante (negro). -->
 - [x] B) Todos negros <!-- feedback: Correct. Todos los descendientes serán Nn (heterocigotos) y expresarán el color negro por ser el alelo dominante. -->
 - [ ] C) Mitad negros y mitad blancos <!-- feedback: Incorrect. Esa proporción se daría en la F2 (cruce de dos heterocigotos Nn × Nn), no en la F1. -->
@@ -136,13 +146,14 @@ En un cruce homocigoto dominante × homocigoto recesivo (NN × nn), la F1 es 100
 
 **ID:** `CO-CN-9-2026-P1-comprehensive-002-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** Una neurona en el sistema nervioso de un estudiante de Barranquilla recibe un estímulo doloroso en la mano.
+**Contexto:** Una neurona en el sistema nervioso de un estudiante de Barranquilla recibe un estímulo doloroso en la mano.
 
 ### Enunciado
 ¿Cuál es la secuencia correcta del arco reflejo desde que se recibe el estímulo hasta que se produce la respuesta?
 
-### Options
+### Opciones
 - [ ] A) Efector → Interneurona → Neurona sensitiva → Músculo <!-- feedback: Incorrect. El orden correcto comienza con el receptor sensorial, no con el efector. -->
 - [x] B) Receptor → Neurona sensitiva → Interneurona (médula) → Neurona motora → Efector (músculo) <!-- feedback: Correct. El arco reflejo sigue esta secuencia para producir una respuesta rápida e involuntaria. -->
 - [ ] C) Neurona motora → Interneurona → Neurona sensitiva → Efector <!-- feedback: Incorrect. La neurona sensitiva recibe primero el estímulo, no la motora. -->
@@ -157,13 +168,14 @@ El arco reflejo es una respuesta involuntaria que ocurre a nivel de la médula e
 
 **ID:** `CO-CN-9-2026-P1-comprehensive-002-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En el laboratorio del Colegio San Luis de Cartagena, los estudiantes identifican elementos de la tabla periódica por sus propiedades.
+**Contexto:** En el laboratorio del Colegio San Luis de Cartagena, los estudiantes identifican elementos de la tabla periódica por sus propiedades.
 
 ### Enunciado
 El elemento Sodio (Na, Z=11) se encuentra en el grupo 1 y período 3 de la tabla periódica. ¿Cuántos electrones de valencia tiene?
 
-### Options
+### Opciones
 - [ ] A) 11 electrones de valencia <!-- feedback: Incorrect. 11 es el número atómico total de electrones, no los electrones de valencia. -->
 - [ ] B) 3 electrones de valencia <!-- feedback: Incorrect. 3 es el número del período, no el de electrones de valencia. -->
 - [x] C) 1 electrón de valencia <!-- feedback: Correct. El sodio está en el grupo 1, por lo que tiene 1 electrón en su capa más externa (configuración: 2-8-1). -->
@@ -178,13 +190,14 @@ El sodio (Na) tiene configuración electrónica $1s^2 2s^2 2p^6 3s^1$. Su últim
 
 **ID:** `CO-CN-9-2026-P1-comprehensive-002-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En el hospital San Vicente de Paúl en Medellín, un neurólogo explica la transmisión del impulso nervioso entre neuronas.
+**Contexto:** En el hospital San Vicente de Paúl en Medellín, un neurólogo explica la transmisión del impulso nervioso entre neuronas.
 
 ### Enunciado
 ¿Qué ocurre en la sinapsis química para que el impulso nervioso se transmita de una neurona a otra?
 
-### Options
+### Opciones
 - [ ] A) Las neuronas se tocan físicamente y pasan la corriente eléctrica. <!-- feedback: Incorrect. Las neuronas no se tocan; hay un espacio sináptico que los neurotransmisores deben cruzar. -->
 - [ ] B) Se liberan neurotransmisores desde la neurona presináptica hacia la hendidura sináptica, que se unen a receptores en la neurona postsináptica. <!-- feedback: Correct. Los neurotransmisores son mensajeros químicos que transmiten la señal. -->
 - [ ] C) El impulso viaja por el torrente sanguíneo hasta la siguiente neurona. <!-- feedback: Incorrect. La transmisión sináptica es local, no a través de la sangre. -->
@@ -199,13 +212,14 @@ En la sinapsis química, el impulso eléctrico llega al botón terminal de la ne
 
 **ID:** `CO-CN-9-2026-P1-comprehensive-002-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En la Clínica Maternidad de Santa Fe de Bogotá, un grupo de médicos estudia un rasgo genético poco común. Dos padres sin la condición tienen un hijo que sí la presenta.
+**Contexto:** En la Clínica Maternidad de Santa Fe de Bogotá, un grupo de médicos estudia un rasgo genético poco común. Dos padres sin la condición tienen un hijo que sí la presenta.
 
 ### Enunciado
 Si ambos padres son sanos pero tienen un hijo afectado, ¿cómo se hereda probablemente este rasgo?
 
-### Options
+### Opciones
 - [ ] A) Es dominante, porque el hijo la tiene y los padres no. <!-- feedback: Incorrect. Si fuera dominante, al menos uno de los padres debería tener el rasgo para transmitirlo. -->
 - [x] B) Es recesivo, porque los padres son heterocigotos portadores (Aa) y el hijo heredó el alelo recesivo de ambos (aa). <!-- feedback: Correct. Un rasgo recesivo puede saltar generaciones si ambos padres son portadores sanos. -->
 - [ ] C) Es un rasgo ligado al cromosoma Y, porque solo los varones lo tienen. <!-- feedback: Incorrect. No se especifica el sexo del hijo ni hay información de herencia ligada al sexo. -->
@@ -220,13 +234,14 @@ En herencia autosómica recesiva, ambos padres deben ser portadores (Aa) para te
 
 **ID:** `CO-CN-9-2026-P1-comprehensive-002-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En el Colegio Nuevo Gimnasio de Pereira, un estudiante analiza la tabla periódica y nota que los elementos del grupo 17 (halógenos) tienen propiedades químicas similares.
+**Contexto:** En el Colegio Nuevo Gimnasio de Pereira, un estudiante analiza la tabla periódica y nota que los elementos del grupo 17 (halógenos) tienen propiedades químicas similares.
 
 ### Enunciado
 ¿Qué tienen en común los halógenos (F, Cl, Br, I, At) que explica sus propiedades químicas similares?
 
-### Options
+### Opciones
 - [ ] A) El mismo número de neutrones. <!-- feedback: Incorrect. El número de neutrones varía entre isótopos y no determina propiedades químicas. -->
 - [ ] B) El mismo número de niveles de energía. <!-- feedback: Incorrect. El número de niveles (período) es diferente para cada halógeno. -->
 - [x] C) Siete electrones en su capa de valencia, lo que los hace tender a ganar 1 electrón para formar aniones -1. <!-- feedback: Correct. Todos los halógenos tienen configuración ns²np⁵ (7 electrones de valencia). -->
@@ -241,13 +256,14 @@ Los elementos del mismo grupo tienen la misma cantidad de electrones de valencia
 
 **ID:** `CO-CN-9-2026-P1-comprehensive-002-MASTERY-v11`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En un cultivo de flores en la Sabana de Bogotá, un fitomejorador cruza dos plantas de rosas: una de flores rojas (RR) y otra de flores blancas (rr). La F1 resulta toda de flores rosadas.
+**Contexto:** En un cultivo de flores en la Sabana de Bogotá, un fitomejorador cruza dos plantas de rosas: una de flores rojas (RR) y otra de flores blancas (rr). La F1 resulta toda de flores rosadas.
 
 ### Enunciado
 ¿Qué tipo de herencia explica que la F1 tenga un fenotipo intermedio (rosado)?
 
-### Options
+### Opciones
 - [ ] A) Dominancia completa <!-- feedback: Incorrect. Si fuera dominancia completa, la F1 sería roja (dominante sobre blanco). -->
 - [x] B) Dominancia incompleta <!-- feedback: Correct. En dominancia incompleta, el heterocigoto (Rr) expresa un fenotipo intermedio entre ambos homocigotos. -->
 - [ ] C) Codominancia <!-- feedback: Incorrect. En codominancia, ambos alelos se expresan simultáneamente (como manchas rojas y blancas), no como un intermedio mezclado. -->
@@ -262,13 +278,14 @@ En dominancia incompleta, el alelo dominante no es completamente dominante sobre
 
 **ID:** `CO-CN-9-2026-P1-comprehensive-002-MASTERY-v12`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En el Parque Explora de Medellín, un estudiante simula el cruce de dos organismos heterocigotos para dos características: color de semilla (A=amarillo, a=verde) y textura (B=lisa, b=rugosa).
+**Contexto:** En el Parque Explora de Medellín, un estudiante simula el cruce de dos organismos heterocigotos para dos características: color de semilla (A=amarillo, a=verde) y textura (B=lisa, b=rugosa).
 
 ### Enunciado
 Si se cruzan dos plantas AaBb × AaBb (diheterocigotos), ¿cuántos fenotipos diferentes se esperan en la F2 según la segunda ley de Mendel (segregación independiente)?
 
-### Options
+### Opciones
 - [ ] A) 2 fenotipos <!-- feedback: Incorrect. Para dos características con dominancia completa, hay 4 fenotipos posibles (9:3:3:1). -->
 - [x] B) 4 fenotipos <!-- feedback: Correct. Las combinaciones son: amarillo-liso (9/16), amarillo-rugoso (3/16), verde-liso (3/16), verde-rugoso (1/16). -->
 - [ ] C) 8 fenotipos <!-- feedback: Incorrect. 8 fenotipos requerirían tres características (2³ = 8), no dos. -->
@@ -283,13 +300,14 @@ La segunda ley de Mendel (segregación independiente) establece que los alelos d
 
 **ID:** `CO-CN-9-2026-P1-comprehensive-002-MASTERY-v13`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** Un estudiante en la Universidad Nacional de Colombia sede Bogotá analiza el sistema nervioso autónomo y su función en situaciones de emergencia.
+**Contexto:** Un estudiante en la Universidad Nacional de Colombia sede Bogotá analiza el sistema nervioso autónomo y su función en situaciones de emergencia.
 
 ### Enunciado
 En una situación de peligro, el sistema nervioso simpático prepara al cuerpo para la acción. ¿Cuál de las siguientes NO es una respuesta típica del sistema simpático?
 
-### Options
+### Opciones
 - [ ] A) Aumento de la frecuencia cardíaca <!-- feedback: Incorrect. El aumento del ritmo cardíaco SÍ es una respuesta simpática. -->
 - [ ] B) Dilatación de las pupilas <!-- feedback: Incorrect. La midriasis (dilatación pupilar) SÍ es simpática. -->
 - [x] C) Estimulación de la digestión <!-- feedback: Correct. La digestión es estimulada por el sistema parasimpático; el simpático la inhibe para redirigir energía a los músculos. -->
@@ -304,13 +322,14 @@ El sistema nervioso autónomo tiene dos divisiones antagónicas: simpático (luc
 
 **ID:** `CO-CN-9-2026-P1-comprehensive-002-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** Un grupo de biólogos de la Universidad del Valle estudia una población de mariposas en el departamento del Cauca. Observan que un alelo recesivo raro (a) causa alas blancas en lugar del color naranja silvestre (A). Analizan la frecuencia del alelo en la población.
+**Contexto:** Un grupo de biólogos de la Universidad del Valle estudia una población de mariposas en el departamento del Cauca. Observan que un alelo recesivo raro (a) causa alas blancas en lugar del color naranja silvestre (A). Analizan la frecuencia del alelo en la población.
 
 ### Enunciado
 Si la frecuencia del alelo recesivo a es del 10% en la población y está en equilibrio de Hardy-Weinberg, ¿qué porcentaje de mariposas se espera que tengan alas blancas?
 
-### Options
+### Opciones
 - [ ] A) 10% <!-- feedback: Incorrect. 10% es la frecuencia del alelo a (q = 0.1), pero las mariposas blancas son aa = q² = 1%. -->
 - [ ] B) 5% <!-- feedback: Incorrect. q² = (0.1)² = 0.01 = 1%, no 5%. -->
 - [x] C) 1% <!-- feedback: Correct. Bajo Hardy-Weinberg, la frecuencia de homocigotos recesivos es q² = (0.1)² = 0.01 = 1%. -->
@@ -325,13 +344,14 @@ La ley de Hardy-Weinberg establece que $p^2 + 2pq + q^2 = 1$, donde $q$ es la fr
 
 **ID:** `CO-CN-9-2026-P1-comprehensive-002-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En el Jardín Botánico del Quindío, un investigador descubre una nueva planta con flores. Al cruzar una planta de flores azules (BB) con una de flores amarillas (AA), obtiene F1 con flores de ambos colores en manchas (azul y amarillo en la misma flor). Al cruzar dos plantas F1, obtiene F2 con tres tipos de flores: azules (25%), amarillas (25%), y azules con manchas amarillas (50%).
+**Contexto:** En el Jardín Botánico del Quindío, un investigador descubre una nueva planta con flores. Al cruzar una planta de flores azules (BB) con una de flores amarillas (AA), obtiene F1 con flores de ambos colores en manchas (azul y amarillo en la misma flor). Al cruzar dos plantas F1, obtiene F2 con tres tipos de flores: azules (25%), amarillas (25%), y azules con manchas amarillas (50%).
 
 ### Enunciado
 ¿Qué tipo de herencia explica estos resultados de la F2?
 
-### Options
+### Opciones
 - [ ] A) Dominancia completa del azul sobre amarillo <!-- feedback: Incorrect. En dominancia completa, la F2 sería 3:1 (75% azul, 25% amarillo). -->
 - [ ] B) Dominancia incompleta <!-- feedback: Incorrect. En dominancia incompleta, la F2 sería 1:2:1 (azul:intermedio:amarillo), no con dos fenotipos parentales y uno mixto. -->
 - [x] C) Codominancia <!-- feedback: Correct. En codominancia, ambos alelos se expresan por separado en el heterocigoto (manchas). La F2 es 1:2:1 (BB:BA:AA) con B=azul, A=amarillo, BA=manchado. -->

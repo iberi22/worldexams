@@ -1,28 +1,32 @@
 ---
-id: "CO-LEC-6-2026-W04-inferencia-001-MASTERY"
+id: "CO-LEC-6-2026-W04-inferencia-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "inferencia"
-semana: "W04"
+week: "W04"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Inferencia - Grado 6
 ## Semana W04
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEC-6-2026-W04-inferencia-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio Padre Manyanet de Bogotá, la profesora Lucía explica qué es una inferencia.
+**Contexto:** En el Colegio Padre Manyanet de Bogotá, la profesora Lucía explica qué es una inferencia.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Inferir significa descubrir información que no está escrita explícitamente, p
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEC-6-2026-W04-inferencia-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En la Biblioteca Ecológica de Pereira, los estudiantes practican inferencias con textos cortos.
+**Contexto:** En la Biblioteca Ecológica de Pereira, los estudiantes practican inferencias con textos cortos.
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -60,11 +64,11 @@ Inferir emociones o estados de ánimo es una habilidad importante. El texto no d
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEC-6-2026-W04-inferencia-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** Los estudiantes del Colegio INEM de Ibagué trabajan con inferencias sobre el clima y la geografía.
+**Contexto:** Los estudiantes del Colegio INEM de Ibagué trabajan con inferencias sobre el clima y la geografía.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ Las inferencias se construyen combinando información del texto (altiplano, ante
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEC-6-2026-W04-inferencia-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. Simón Bolívar de Santa Marta, los estudiantes practican inferencias con textos sobre la costa.
+**Contexto:** En la I.E. Simón Bolívar de Santa Marta, los estudiantes practican inferencias con textos sobre la costa.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -102,11 +106,11 @@ Las inferencias pueden combinar múltiples pistas del texto. "Sol que se esconde
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEC-6-2026-W04-inferencia-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio San Luis Beltrán de Sincelejo, los estudiantes diferencian entre información explícita e implícita.
+**Contexto:** En el Colegio San Luis Beltrán de Sincelejo, los estudiantes diferencian entre información explícita e implícita.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -123,11 +127,11 @@ Diferenciar entre información explícita (lo que el texto dice directamente) e 
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LEC-6-2026-W04-inferencia-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio Técnico de Buenaventura, los estudiantes analizan por qué a veces diferentes lectores hacen inferencias distintas.
+**Contexto:** En el Colegio Técnico de Buenaventura, los estudiantes analizan por qué a veces diferentes lectores hacen inferencias distintas.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ Las inferencias pueden variar entre lectores porque se construyen combinando la 
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LEC-6-2026-W04-inferencia-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** Los estudiantes de la I.E. Humberto Jordán de Ibagué analizan inferencias sobre causas y consecuencias.
+**Contexto:** Los estudiantes de la I.E. Humberto Jordán de Ibagué analizan inferencias sobre causas y consecuencias.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Las inferencias sobre causas y consecuencias son muy comunes en la lectura. El t
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEC-6-2026-W04-inferencia-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio San Agustín de Sincelejo, los estudiantes trabajan con inferencias en textos argumentativos.
+**Contexto:** En el Colegio San Agustín de Sincelejo, los estudiantes trabajan con inferencias en textos argumentativos.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ Las inferencias sobre la posición del autor (su punto de vista o postura) se ba
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEC-6-2026-W04-inferencia-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Franciscano de Popayán, los estudiantes evalúan si una inferencia está bien fundamentada.
+**Contexto:** En el Colegio Franciscano de Popayán, los estudiantes evalúan si una inferencia está bien fundamentada.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -209,11 +213,11 @@ Evaluar si una inferencia está bien fundamentada requiere verificar que: 1) se 
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEC-6-2026-W04-inferencia-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En el Liceo de la Universidad de Nariño, los estudiantes crean inferencias a partir de un texto.
+**Contexto:** En el Liceo de la Universidad de Nariño, los estudiantes crean inferencias a partir de un texto.
 **Expected_Success:** 0.48
 
 ### Enunciado

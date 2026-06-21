@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "representaciones-tierra"
-semana: "W04"
+week: "W04"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Representaciones de la Tierra: globo terráqueo, mapamundi, pr
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W04-representaciones-tierra-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Cómo se llama la representación de la Tierra en forma de esfera?
@@ -39,12 +44,13 @@ El globo terráqueo es la representación más fiel de la Tierra porque conserva
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W04-representaciones-tierra-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Qué es un mapamundi?
@@ -60,12 +66,13 @@ El mapamundi (del latín 'mappa' = mapa y 'mundi' = mundo) es una representació
 
 ---
 
-## Pregunta 3 [D2]
+## Question 3 [D2]
 
 **ID:** `CO-SOC-5-2026-W04-representaciones-tierra-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Por qué el globo terráqueo es más preciso que un mapamundi para mostrar la forma de los continentes?
@@ -81,12 +88,13 @@ El globo terráqueo representa la Tierra en 3D conservando su forma curva, por l
 
 ---
 
-## Pregunta 4 [D2]
+## Question 4 [D2]
 
 **ID:** `CO-SOC-5-2026-W04-representaciones-tierra-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Qué ventaja tiene un mapamundi sobre un globo terráqueo?
@@ -102,12 +110,13 @@ La principal ventaja del mapamundi es que permite ver toda la Tierra de una sola
 
 ---
 
-## Pregunta 5 [D2]
+## Question 5 [D2]
 
 **ID:** `CO-SOC-5-2026-W04-representaciones-tierra-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Cómo se llama la línea imaginaria principal que divide la Tierra en hemisferio norte y hemisferio sur?
@@ -123,12 +132,13 @@ La línea del Ecuador es el paralelo 0° que divide la Tierra en dos hemisferios
 
 ---
 
-## Pregunta 6 [D3]
+## Question 6 [D3]
 
 **ID:** `CO-SOC-5-2026-W04-representaciones-tierra-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Un estudiante observa un globo terráqueo y ve que Colombia está cerca de la línea del Ecuador. ¿Cómo es el clima de Colombia según esta ubicación?
@@ -144,12 +154,13 @@ Por estar cerca del Ecuador, Colombia recibe luz solar casi constante durante to
 
 ---
 
-## Pregunta 7 [D3]
+## Question 7 [D3]
 
 **ID:** `CO-SOC-5-2026-W04-representaciones-tierra-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Qué son las líneas de latitud?
@@ -165,12 +176,13 @@ Las líneas de latitud (paralelos) miden la distancia angular al norte o sur del
 
 ---
 
-## Pregunta 8 [D3]
+## Question 8 [D3]
 
 **ID:** `CO-SOC-5-2026-W04-representaciones-tierra-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Si en un mapamundi ves que un país está ubicado a 30° de latitud sur, ¿en qué hemisferio se encuentra?
@@ -186,12 +198,13 @@ La latitud mide la distancia angular desde el Ecuador hacia el norte (N) o hacia
 
 ---
 
-## Pregunta 9 [D4]
+## Question 9 [D4]
 
 **ID:** `CO-SOC-5-2026-W04-representaciones-tierra-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Un estudiante compara un globo terráqueo y un mapamundi. Observa que Groenlandia parece del mismo tamaño que África en el mapamundi, pero sabe que África es 14 veces más grande. ¿Por qué ocurre esta deformación?
@@ -207,12 +220,13 @@ Toda proyección cartográfica (representación plana de la Tierra) tiene deform
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W04-representaciones-tierra-001-MASTERY-v10`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Cuál es la MEJOR razón para usar un mapamundi en lugar de un globo terráqueo en un salón de clases?

@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY"
+id: "CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Independencia de Colombia, 20 de julio de 1810, grito de independencia, próceres, batallas libertadoras"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Independencia de Colombia
 
@@ -27,14 +34,15 @@ Este bundle cubre el proceso de Independencia de Colombia (1810-1819), sus causa
 ## Question 1 [D3]
 
 **ID:** `CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en Bogotá, los estudiantes se preparan para la celebración del 20 de julio.
+**Contexto:** En clase de sociales en Bogotá, los estudiantes se preparan para la celebración del 20 de julio.
 
 ### Enunciado
 La Independencia de Colombia comenzó el 20 de julio de 1810 con un evento que ocurrió en:
 
-### Options
+### Opciones
 - [ ] A) Cartagena. <!-- feedback: Incorrecto. Aunque Cartagena también se independizó en 1811, el grito inicial fue en Bogotá. -->
 - [x] B) Santafé de Bogotá. <!-- feedback: Correcto. El 20 de julio de 1810, en la Plaza Mayor de Santafé (hoy Bogotá), un incidente con un florero desencadenó la firma del Acta de Independencia. -->
 - [ ] C) Medellín. <!-- feedback: Incorrecto. Medellín no fue el lugar del grito de independencia; la capital del virreinato era Santafé. -->
@@ -48,14 +56,15 @@ Se evalúa el conocimiento del evento fundacional de la independencia colombiana
 ## Question 2 [D3]
 
 **ID:** `CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en un colegio de Tunja, la profesora narra cómo empezó la independencia.
+**Contexto:** En clase de sociales en un colegio de Tunja, la profesora narra cómo empezó la independencia.
 
 ### Enunciado
 ¿Cuál fue el objeto que provocó el famoso incidente del 20 de julio de 1810 en Santafé?
 
-### Options
+### Opciones
 - [ ] A) Una corona real. <!-- feedback: Incorrecto. No fue una corona; el incidente fue por un asunto menos majestuoso. -->
 - [ ] B) Una bandera de Colombia. <!-- feedback: Incorrecto. La bandera de Colombia no existía en 1810, se creó después. -->
 - [x] C) Un florero (el Florero de Llorente). <!-- feedback: Correcto. José González Llorente se negó a prestar un florero para adornar la mesa de un banquete, lo que provocó una discusión que desencadenó el grito de independencia. -->
@@ -69,14 +78,15 @@ Se evalúa el conocimiento del hecho histórico conocido como "El Florero de Llo
 ## Question 3 [D4]
 
 **ID:** `CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Los estudiantes de la I.E. San Simón de Ibagué investigan las causas de la independencia.
+**Contexto:** Los estudiantes de la I.E. San Simón de Ibagué investigan las causas de la independencia.
 
 ### Enunciado
 Una de las causas más importantes de la independencia de Colombia fue:
 
-### Options
+### Opciones
 - [ ] A) Que los colombianos querían hablar inglés. <!-- feedback: Incorrecto. La lengua no fue una causa de la independencia. -->
 - [x] B) El descontento de los criollos porque no podían ocupar altos cargos del gobierno. <!-- feedback: Correcto. Los criollos, aunque eran ricos y educados, estaban excluidos de los cargos más importantes, que eran ocupados por españoles peninsulares. Esto generó gran inconformidad. -->
 - [ ] C) Que el rey de España prohibió las fiestas. <!-- feedback: Incorrecto. Aunque había restricciones, las fiestas no fueron la causa principal del descontento. -->
@@ -90,14 +100,15 @@ Se evalúa la comprensión de las causas de la independencia. La respuesta corre
 ## Question 4 [D4]
 
 **ID:** `CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales del colegio Sagrado Corazón de Pasto, el profesor explica quiénes fueron los próceres.
+**Contexto:** En la clase de sociales del colegio Sagrado Corazón de Pasto, el profesor explica quiénes fueron los próceres.
 
 ### Enunciado
 Además de Simón Bolívar, ¿quién fue otro personaje muy importante en la independencia de Colombia?
 
-### Options
+### Opciones
 - [ ] A) Pablo Escobar. <!-- feedback: Incorrecto. Pablo Escobar fue un narcotraficante del siglo XX, no un prócer de la independencia. -->
 - [x] B) Francisco de Paula Santander. <!-- feedback: Correcto. Santander fue un militar y político clave en la independencia, conocido como "El Hombre de las Leyes", y luego presidente de la Nueva Granada. -->
 - [ ] C) Gabriel García Márquez. <!-- feedback: Incorrecto. García Márquez fue un escritor del siglo XX, no un prócer de la independencia. -->
@@ -111,14 +122,15 @@ Se evalúa el conocimiento de los personajes de la independencia. La respuesta c
 ## Question 5 [D4]
 
 **ID:** `CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en Cúcuta, los estudiantes recorren los lugares históricos de la ciudad.
+**Contexto:** En clase de sociales en Cúcuta, los estudiantes recorren los lugares históricos de la ciudad.
 
 ### Enunciado
 Después de varios años de lucha, la independencia definitiva de Colombia se logró con una batalla clave en 1819. ¿Cuál fue?
 
-### Options
+### Opciones
 - [x] A) Batalla de Boyacá. <!-- feedback: Correcto. La Batalla de Boyacá, el 7 de agosto de 1819, fue la victoria definitiva de las tropas independentistas sobre el ejército español, asegurando la independencia del territorio de la Nueva Granada. -->
 - [ ] B) Batalla de Cartagena de Indias. <!-- feedback: Incorrecto. Cartagena tuvo su independencia en 1811 pero fue retomada por los españoles; no fue la batalla definitiva. -->
 - [ ] C) Batalla de las Flores. <!-- feedback: Incorrecto. La Batalla de las Flores es un desfile en Barranquilla, no una batalla independentista. -->
@@ -135,14 +147,15 @@ Se evalúa el conocimiento del evento militar que definió la independencia. La 
 ## Question 6 [D4]
 
 **ID:** `CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-v6`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En el Museo de la Independencia en Bogotá, los estudiantes leen sobre la Campaña Libertadora.
+**Contexto:** En el Museo de la Independencia en Bogotá, los estudiantes leen sobre la Campaña Libertadora.
 
 ### Enunciado
 Simón Bolívar lideró la Campaña Libertadora desde Venezuela hasta la Nueva Granada. ¿Por dónde cruzó los Andes para llegar a Colombia?
 
-### Options
+### Opciones
 - [ ] A) Por el desierto de la Tatacoa. <!-- feedback: Incorrecto. Bolívar no cruzó por el desierto; tomó una ruta de páramos y montañas. -->
 - [x] B) Por el Páramo de Pisba (Boyacá/Casanare). <!-- feedback: Correcto. La travesía por el Páramo de Pisba fue una hazaña militar: el ejército cruzó a más de 3.000 metros de altura con frío extremo para sorprender a los españoles. -->
 - [ ] C) Por el río Amazonas. <!-- feedback: Incorrecto. La Amazonía no fue la ruta de la Campaña Libertadora. -->
@@ -156,14 +169,15 @@ Se evalúa el conocimiento de la geografía de la Campaña Libertadora. La respu
 ## Question 7 [D4]
 
 **ID:** `CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-v7`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en Socorro, Santander, la profesora habla sobre la Revolución de los Comuneros.
+**Contexto:** En clase de sociales en Socorro, Santander, la profesora habla sobre la Revolución de los Comuneros.
 
 ### Enunciado
 Antes de la independencia de 1810, hubo una rebelión importante en 1781 en la que los campesinos y criollos se levantaron contra los impuestos españoles. ¿Cómo se llamó?
 
-### Options
+### Opciones
 - [ ] A) La Rebelión de las Alcabalas. <!-- feedback: Incorrecto. El nombre correcto de la rebelión es otro. -->
 - [x] B) La Revolución de los Comuneros. <!-- feedback: Correcto. En 1781, liderados por José Antonio Galán, los comuneros se levantaron en el Socorro contra los altos impuestos y el monopolio del tabaco y el aguardiente. -->
 - [ ] C) La Guerra de los Mil Días. <!-- feedback: Incorrecto. La Guerra de los Mil Días fue un conflicto civil de finales del siglo XIX, no una rebelión contra España. -->
@@ -177,14 +191,15 @@ Se evalúa el conocimiento de los antecedentes de la independencia. La respuesta
 ## Question 8 [D5]
 
 **ID:** `CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En clase de sociales en la I.E. Nuestra Señora del Rosario de Girón, discuten si la independencia benefició a todos los colombianos.
+**Contexto:** En clase de sociales en la I.E. Nuestra Señora del Rosario de Girón, discuten si la independencia benefició a todos los colombianos.
 
 ### Enunciado
 Después de la independencia, ¿quiénes fueron los que realmente tomaron el control del gobierno?
 
-### Options
+### Opciones
 - [ ] A) Los indígenas. <!-- feedback: Incorrecto. Los indígenas siguieron marginados del poder después de la independencia. -->
 - [ ] B) Los esclavos liberados. <!-- feedback: Incorrecto. La esclavitud no se abolió inmediatamente después de la independencia; continuó hasta 1851. -->
 - [x] C) Los criollos ricos y educados. <!-- feedback: Correcto. Aunque la independencia eliminó el dominio español, el poder pasó a manos de los criollos de clase alta, no a la mayoría de la población (indígenas, mestizos, negros). -->
@@ -198,14 +213,15 @@ Se evalúa la capacidad de analizar críticamente los resultados de la independe
 ## Question 9 [D5]
 
 **ID:** `CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-v9`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En un foro escolar en Sincelejo, los estudiantes debaten sobre el significado del 20 de julio.
+**Contexto:** En un foro escolar en Sincelejo, los estudiantes debaten sobre el significado del 20 de julio.
 
 ### Enunciado
 El 20 de julio se celebra en Colombia como el Día de la Independencia. ¿Qué representa principalmente esta fecha?
 
-### Options
+### Opciones
 - [ ] A) El cumpleaños de Simón Bolívar. <!-- feedback: Incorrecto. Bolívar nació el 24 de julio de 1783 en Caracas, no es el 20 de julio. -->
 - [ ] B) La firma de un tratado de paz con España. <!-- feedback: Incorrecto. El 20 de julio no fue la firma de un tratado; fue el inicio del proceso independentista. -->
 - [x] C) El inicio del proceso que llevó a la creación de la república independiente de Colombia. <!-- feedback: Correcto. El 20 de julio de 1810 marcó el primer paso hacia la independencia, aunque esta solo se consolidó definitivamente 9 años después con la Batalla de Boyacá. -->
@@ -219,14 +235,15 @@ Se evalúa la capacidad de interpretar el significado de las fechas patrias. La 
 ## Question 10 [D5]
 
 **ID:** `CO-SOC-4-2026-P3-independencia-colombia-001-MASTERY-v10`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales de Santa Marta, el profesor pregunta qué pasó después de la independencia.
+**Contexto:** En la clase de sociales de Santa Marta, el profesor pregunta qué pasó después de la independencia.
 
 ### Enunciado
 Después de lograr la independencia de España, el territorio de la actual Colombia formó parte de una unión de países llamada:
 
-### Options
+### Opciones
 - [ ] A) La Unión Europea. <!-- feedback: Incorrecto. La Unión Europea es europea y del siglo XX, no tiene relación con la independencia colombiana. -->
 - [ ] B) Las Provincias Unidas de la Nueva Granada. <!-- feedback: Incorrecto. Aunque existió, no fue la unión más importante que lideró Bolívar. -->
 - [x] C) La Gran Colombia. <!-- feedback: Correcto. La Gran Colombia fue la república creada por Simón Bolívar en 1821 que unió los actuales Colombia, Venezuela, Ecuador y Panamá. Duró hasta 1830. -->

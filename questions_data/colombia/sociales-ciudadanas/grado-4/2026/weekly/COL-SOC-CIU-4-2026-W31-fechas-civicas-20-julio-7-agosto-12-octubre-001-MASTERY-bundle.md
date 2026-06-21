@@ -1,5 +1,5 @@
 ---
-id: "COL-SOC-CIU-4-2026-W31-fechas-civicas-20-julio-7-agosto-12-octubre-001-MASTERY"
+id: "COL-SOC-CIU-4-2026-W31-fechas-civicas-20-julio-7-agosto-12-octubre-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Fechas cívicas de Colombia: 20 de julio, 7 de agosto y 12 de 
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Fechas cívicas — 20 de julio, 7 de agosto y 12 de octubre
 
@@ -30,14 +35,15 @@ Este bundle explica las principales fechas cívicas de Colombia y su significado
 ## Question 1 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W31-fechas-civicas-20-julio-7-agosto-12-octubre-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Fechas patrias en Cúcuta
+**Contexto:** Fechas patrias en Cúcuta
 
 ### Enunciado
 ¿Qué se celebra el 20 de julio en Colombia?
 
-### Options
+### Opciones
 - [ ] A) El día del padre. <!-- feedback: Incorrecto. Es una fecha patria. -->
 - [ ] B) La Batalla de Boyacá. <!-- feedback: Incorrecto. Esa es el 7 de agosto. -->
 - [x] C) El Grito de Independencia de Colombia. <!-- feedback: Correcto. El 20 de julio de 1810 se conmemora el primer grito de independencia. -->
@@ -51,14 +57,15 @@ Este bundle explica las principales fechas cívicas de Colombia y su significado
 ## Question 2 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W31-fechas-civicas-20-julio-7-agosto-12-octubre-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** 7 de agosto
+**Contexto:** 7 de agosto
 
 ### Enunciado
 ¿Qué se celebra el 7 de agosto en Colombia?
 
-### Options
+### Opciones
 - [ ] A) El día de la madre. <!-- feedback: Incorrecto. No es una fecha comercial. -->
 - [ ] B) El Grito de Independencia. <!-- feedback: Incorrecto. Eso fue el 20 de julio. -->
 - [x] C) La Batalla de Boyacá, que consolidó la independencia. <!-- feedback: Correcto. El 7 de agosto de 1819, el ejército patriota venció al español en el Puente de Boyacá. -->
@@ -72,14 +79,15 @@ Este bundle explica las principales fechas cívicas de Colombia y su significado
 ## Question 3 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W31-fechas-civicas-20-julio-7-agosto-12-octubre-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** 12 de octubre
+**Contexto:** 12 de octubre
 
 ### Enunciado
 ¿Qué se conmemora el 12 de octubre en Colombia?
 
-### Options
+### Opciones
 - [ ] A) La independencia de Colombia. <!-- feedback: Incorrecto. La independencia fue en julio/agosto. -->
 - [x] B) El encuentro de dos mundos (la llegada de Cristóbal Colón a América) y el Día de la Raza. <!-- feedback: Correcto. El 12 de octubre de 1492 marcó el inicio del contacto entre Europa y América. -->
 - [ ] C) El cumpleaños del presidente. <!-- feedback: Incorrecto. No es una fecha personal. -->
@@ -93,14 +101,15 @@ Este bundle explica las principales fechas cívicas de Colombia y su significado
 ## Question 4 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W31-fechas-civicas-20-julio-7-agosto-12-octubre-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Puente de Boyacá
+**Contexto:** Puente de Boyacá
 
 ### Enunciado
 ¿Dónde ocurrió la Batalla de Boyacá?
 
-### Options
+### Opciones
 - [ ] A) En Cartagena. <!-- feedback: Incorrecto. Cartagena fue sitio de otra batalla. -->
 - [ ] B) En Bogotá. <!-- feedback: Parcial, pero fue cerca. -->
 - [x] C) En el Puente de Boyacá, cerca de Tunja. <!-- feedback: Correcto. La batalla decisiva se libró en el Puente de Boyacá, departamento de Boyacá. -->
@@ -114,14 +123,15 @@ Este bundle explica las principales fechas cívicas de Colombia y su significado
 ## Question 5 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W31-fechas-civicas-20-julio-7-agosto-12-octubre-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Personajes de la independencia
+**Contexto:** Personajes de la independencia
 
 ### Enunciado
 ¿Quiénes fueron los líderes principales de la independencia de Colombia?
 
-### Options
+### Opciones
 - [ ] A) Pablo Escobar y Carlos Gardel. <!-- feedback: Incorrecto. No fueron líderes de la independencia. -->
 - [ ] B) Fernando Botero y Shakira. <!-- feedback: Incorrecto. Son personajes contemporáneos. -->
 - [x] C) Simón Bolívar y Francisco de Paula Santander. <!-- feedback: Correcto. Bolívar lideró las campañas militares y Santander organizó la república. -->
@@ -135,14 +145,15 @@ Este bundle explica las principales fechas cívicas de Colombia y su significado
 ## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W31-fechas-civicas-20-julio-7-agosto-12-octubre-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Florero de Llorente
+**Contexto:** Florero de Llorente
 
 ### Enunciado
 ¿Qué hecho desencadenó el Grito de Independencia del 20 de julio de 1810?
 
-### Options
+### Opciones
 - [ ] A) Una tormenta eléctrica. <!-- feedback: Incorrecto. No fue un fenómeno natural. -->
 - [ ] B) Un terremoto. <!-- feedback: Incorrecto. No fue natural. -->
 - [x] C) El incidente del Florero de Llorente, que generó un enfrentamiento entre criollos y españoles. <!-- feedback: Correcto. El préstamo de un florero desencadenó los eventos del 20 de julio. -->
@@ -156,14 +167,15 @@ Este bundle explica las principales fechas cívicas de Colombia y su significado
 ## Question 7 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W31-fechas-civicas-20-julio-7-agosto-12-octubre-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Debate sobre el 12 de octubre
+**Contexto:** Debate sobre el 12 de octubre
 
 ### Enunciado
 ¿Por qué el 12 de octubre es una fecha que genera debate en la actualidad?
 
-### Options
+### Opciones
 - [ ] A) Porque nadie sabe qué pasó. <!-- feedback: Incorrecto. Se sabe lo que pasó. -->
 - [ ] B) Porque Colón era malo. <!-- feedback: Simplificación. -->
 - [x] C) Porque representa el inicio de la dominación colonial y el sufrimiento de los pueblos indígenas, por lo que se debate si debe seguir celebrándose. <!-- feedback: Correcto. Muchos pueblos consideran el 12 de octubre como un día de luto y resistencia. -->
@@ -177,14 +189,15 @@ Este bundle explica las principales fechas cívicas de Colombia y su significado
 ## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W31-fechas-civicas-20-julio-7-agosto-12-octubre-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Importancia de la Batalla de Boyacá
+**Contexto:** Importancia de la Batalla de Boyacá
 
 ### Enunciado
 ¿Por qué la Batalla de Boyacá es considerada la batalla decisiva de la independencia?
 
-### Options
+### Opciones
 - [ ] A) Porque murieron muchos soldados. <!-- feedback: No es por el número de bajas. -->
 - [ ] B) Porque fue la primera batalla. <!-- feedback: Incorrecto. Hubo batallas antes. -->
 - [x] C) Porque después de esa victoria, el ejército patriota tomó Bogotá y se consolidó la independencia del dominio español. <!-- feedback: Correcto. Boyacá fue la batalla que selló la independencia. -->
@@ -198,14 +211,15 @@ Este bundle explica las principales fechas cívicas de Colombia y su significado
 ## Question 9 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W31-fechas-civicas-20-julio-7-agosto-12-octubre-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Sentido de las fechas patrias
+**Contexto:** Sentido de las fechas patrias
 
 ### Enunciado
 ¿Crees que los colombianos les dan importancia a las fechas patrias?
 
-### Options
+### Opciones
 - [ ] A) No, nadie las celebra. <!-- feedback: Incorrecto. Muchas personas las celebran. -->
 - [ ] B) Sí, con mucho fervor patrio todo el día. <!-- feedback: Parcial, no todos. -->
 - [x] C) Algunos las celebran con actos cívicos y desfiles, pero muchos las ven solo como un día de descanso. Deberíamos conocer mejor su significado. <!-- feedback: Correcto. Las fechas patrias se celebran pero a veces se desconoce su significado. -->
@@ -220,13 +234,14 @@ Este bundle explica las principales fechas cívicas de Colombia y su significado
 
 **ID:** `COL-SOC-CIU-4-2026-W31-fechas-civicas-20-julio-7-agosto-12-octubre-001-MASTERY-v10`
 **Bloom:** [Create]
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Acto cívico
+**Contexto:** Acto cívico
 
 ### Enunciado
 Diseña un acto cívico para el 20 de julio en tu colegio que sea entretenido y educativo.
 
-### Options
+### Opciones
 - [ ] A) Hacer un partido de fútbol. <!-- feedback: Incorrecto. No representa la fecha patria. -->
 - [x] B) Organizar una izada de bandera, una obra de teatro sobre el Florero de Llorente, canciones patrias y un concurso de dibujo sobre la independencia. <!-- feedback: Correcto. Un acto cívico que combina educación y entretenimiento. -->
 - [ ] C) No hacer nada y dar el día libre. <!-- feedback: Incorrecto. Se debe conmemorar. -->

@@ -1,28 +1,32 @@
 ---
-id: "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY"
+id: "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "ciencias-naturales"
 tema: "sistema-nervioso"
-semana: "W01"
+week: "W01"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Sistema Nervioso - Grado 7
 ## Semana W01 — Estructura y función del sistema nervioso
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de ciencias del Colegio Agustín Nieto Caballero de Bogotá, la profesora María explica los sistemas del cuerpo humano.
+**Contexto:** En la clase de ciencias del Colegio Agustín Nieto Caballero de Bogotá, la profesora María explica los sistemas del cuerpo humano.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ El sistema nervioso es el centro de control del organismo. Su función principal
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** En el laboratorio del colegio INEM de Cali, los estudiantes observan una neurona al microscopio y dibujan sus partes.
+**Contexto:** En el laboratorio del colegio INEM de Cali, los estudiantes observan una neurona al microscopio y dibujan sus partes.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ La neurona tiene tres partes principales: las dendritas (reciben señales), el c
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Santiago le explica a su hermana menor que el sistema nervioso se divide en dos partes principales, mientras viajan en TransMilenio en Bogotá.
+**Contexto:** Santiago le explica a su hermana menor que el sistema nervioso se divide en dos partes principales, mientras viajan en TransMilenio en Bogotá.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -81,11 +85,11 @@ Anatómicamente, el sistema nervioso se divide en: Sistema Nervioso Central (SNC
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** En el Colegio San José de Barranquilla, Camila toca accidentalmente una olla caliente y retira la mano inmediatamente antes de sentir dolor.
+**Contexto:** En el Colegio San José de Barranquilla, Camila toca accidentalmente una olla caliente y retira la mano inmediatamente antes de sentir dolor.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -102,11 +106,11 @@ El arco reflejo es una respuesta automática e involuntaria que no requiere la i
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** En el laboratorio del colegio de Bucaramanga, Laura observa un diagrama del encéfalo humano y sus partes.
+**Contexto:** En el laboratorio del colegio de Bucaramanga, Laura observa un diagrama del encéfalo humano y sus partes.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -123,11 +127,11 @@ El cerebelo, ubicado detrás del tronco encefálico, es responsable de la coordi
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el colegio de Pereira, Daniel está estudiando cómo viaja un impulso nervioso a través de una neurona.
+**Contexto:** En el colegio de Pereira, Daniel está estudiando cómo viaja un impulso nervioso a través de una neurona.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ La transmisión del impulso nervioso en una neurona sigue una dirección especí
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Valentina observa que cuando está en una situación de peligro, su corazón late más rápido, sus pupilas se dilatan y respira más rápido. Consulta con su profesora de ciencias del colegio de Cartagena.
+**Contexto:** Valentina observa que cuando está en una situación de peligro, su corazón late más rápido, sus pupilas se dilatan y respira más rápido. Consulta con su profesora de ciencias del colegio de Cartagena.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ El sistema nervioso autónomo tiene dos ramas: el simpático (prepara el cuerpo 
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En el laboratorio del colegio de Villavicencio, el profesor Andrés muestra un modelo de sinapsis y explica cómo se comunican las neuronas.
+**Contexto:** En el laboratorio del colegio de Villavicencio, el profesor Andrés muestra un modelo de sinapsis y explica cómo se comunican las neuronas.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ La sinapsis es la zona de comunicación entre dos neuronas. Cuando el impulso ll
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Sebastián está estudiando para el examen de ciencias en su colegio de Cúcuta y repasa las funciones del tronco encefálico.
+**Contexto:** Sebastián está estudiando para el examen de ciencias en su colegio de Cúcuta y repasa las funciones del tronco encefálico.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -207,11 +211,11 @@ El tronco encefálico (compuesto por bulbo raquídeo, protuberancia y mesencéfa
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio La Salle de Medellín, Carlos observa que su amigo tiene dificultades para recordar eventos recientes después de un golpe en la cabeza.
+**Contexto:** En el Colegio La Salle de Medellín, Carlos observa que su amigo tiene dificultades para recordar eventos recientes después de un golpe en la cabeza.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -228,11 +232,11 @@ El hipocampo, ubicado en el lóbulo temporal del cerebro, es esencial para la co
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Isabella y sus compañeros del colegio de Manizales discuten sobre los efectos del consumo de alcohol en el sistema nervioso.
+**Contexto:** Isabella y sus compañeros del colegio de Manizales discuten sobre los efectos del consumo de alcohol en el sistema nervioso.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -249,11 +253,11 @@ El alcohol es una sustancia depresora del sistema nervioso central que afecta es
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el colegio de Sincelejo, el profesor plantea un caso: un paciente no puede mover el brazo izquierdo, pero puede sentirlo normalmente. Los estudiantes deben inferir la posible ubicación de la lesión.
+**Contexto:** En el colegio de Sincelejo, el profesor plantea un caso: un paciente no puede mover el brazo izquierdo, pero puede sentirlo normalmente. Los estudiantes deben inferir la posible ubicación de la lesión.
 **Expected_Success:** 0.42
 
 ### Enunciado

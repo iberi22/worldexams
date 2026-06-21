@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY"
+id: "CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales"
@@ -16,19 +16,27 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Relaciones con la historia y las culturas"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 ## Question 1 [D3]
 
 **ID:** `CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Visita al Museo del Oro en Bogotá.
+**Contexto:** Visita al Museo del Oro en Bogotá.
 
 ### Enunciado
 Antes de la llegada de los españoles, el territorio colombiano estaba habitado por diversos grupos indígenas. ¿Cuál de estas culturas fue famosa por sus espectaculares trabajos en orfebrería (oro) y habitaba en el actual departamento del Quindío?
 
-### Options
+### Opciones
 - [ ] A) Cultura Muisca <!-- feedback: Incorrect. Los Muiscas habitaban principalmente en el Altiplano Cundiboyacense (Bogotá y Boyacá), no en el Quindío. -->
 - [x] B) Cultura Quimbaya <!-- feedback: Correct. La cultura Quimbaya habitaba el valle medio del río Cauca (Eje Cafetero) y es reconocida mundialmente por la perfección y belleza de sus piezas de oro, como el famoso Poporo Quimbaya. -->
 - [ ] C) Cultura Tayrona <!-- feedback: Incorrect. Los Tayronas habitaban en la Sierra Nevada de Santa Marta, en la costa Caribe de Colombia. -->
@@ -42,14 +50,15 @@ Se evalúa la localización geográfica y los rasgos culturales distintivos de l
 ## Question 2 [D3]
 
 **ID:** `CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-v2`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** La leyenda de El Dorado.
+**Contexto:** La leyenda de El Dorado.
 
 ### Enunciado
 Los Muiscas realizaban rituales en lagunas sagradas donde el nuevo cacique se cubría de polvo de oro y arrojaba tesoros al agua. ¿Cuál es el nombre de la laguna más famosa donde se realizaba este ritual?
 
-### Options
+### Opciones
 - [ ] A) Laguna de la Cocha <!-- feedback: Incorrect. La Cocha se encuentra en el departamento de Nariño y no fue el centro del ritual de El Dorado de los Muiscas. -->
 - [x] B) Laguna de Guatavita <!-- feedback: Correct. Ubicada en Cundinamarca, la laguna de Guatavita es el escenario principal de la leyenda de El Dorado y el lugar sagrado de los rituales de investidura muisca. -->
 - [ ] C) Laguna de Tota <!-- feedback: Incorrect. Aunque es la laguna más grande de Colombia y está en territorio Boyacense, el ritual específico de El Dorado se asocia históricamente con Guatavita. -->
@@ -63,14 +72,15 @@ Se evalúa el conocimiento sobre la mitología y los lugares sagrados de las cul
 ## Question 3 [D4]
 
 **ID:** `CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Organización social indígena.
+**Contexto:** Organización social indígena.
 
 ### Enunciado
 En muchas comunidades indígenas precolombinas, la máxima autoridad política y religiosa era una sola persona encargada de guiar al pueblo. ¿Cómo se le llamaba comúnmente a este líder?
 
-### Options
+### Opciones
 - [ ] A) Presidente <!-- feedback: Incorrect. Este es un término moderno para los líderes de las repúblicas actuales, no existía en las comunidades indígenas antiguas. -->
 - [ ] B) Gobernador <!-- feedback: Incorrect. Aunque es un término de mando, en el contexto indígena se usa una palabra específica de su propia organización. -->
 - [x] C) Cacique <!-- feedback: Correct. El cacique era el jefe o líder político y administrativo de las comunidades indígenas, encargado de organizar el trabajo y la defensa. -->
@@ -84,14 +94,15 @@ Se evalúa la terminología sobre la organización social y política precolombi
 ## Question 4 [D4]
 
 **ID:** `CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-v4`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** La agricultura prehispánica.
+**Contexto:** La agricultura prehispánica.
 
 ### Enunciado
 Antes de que los españoles trajeran alimentos como el trigo o el arroz, la dieta de los indígenas colombianos se basaba en cultivos locales. ¿Cuál era el alimento principal y más sagrado para la mayoría de estas culturas?
 
-### Options
+### Opciones
 - [ ] A) El espagueti <!-- feedback: Incorrect. La pasta es un alimento de origen europeo (italiano) que llegó mucho después de la conquista. -->
 - [x] B) El maíz <!-- feedback: Correct. El maíz era la base de la alimentación, se cultivaba en casi todo el territorio y tenía un valor espiritual muy alto para los pueblos indígenas. -->
 - [ ] C) La uva <!-- feedback: Incorrect. Las uvas no son nativas de las tierras bajas o andinas de Colombia; se cultivan en climas estacionales diferentes. -->
@@ -105,14 +116,15 @@ Se evalúa el conocimiento sobre la base alimenticia y económica de los pueblos
 ## Question 5 [D4]
 
 **ID:** `CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-v5`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Ingeniería Tayrona en la Sierra Nevada de Santa Marta.
+**Contexto:** Ingeniería Tayrona en la Sierra Nevada de Santa Marta.
 
 ### Enunciado
 Los Tayronas construyeron impresionantes ciudades de piedra en la selva, con canales de agua y terrazas de cultivo para evitar que la lluvia dañara sus casas. ¿Cómo se llama hoy el sitio arqueológico más famoso de esta cultura?
 
-### Options
+### Opciones
 - [ ] A) Parque Jaime Duque <!-- feedback: Incorrect. Este es un parque de diversiones y museo moderno ubicado en las cercanías de Bogotá. -->
 - [x] B) Ciudad Perdida (Teyuna) <!-- feedback: Correct. Ciudad Perdida es el vestigio arqueológico más importante de los Tayronas, mostrando su gran avance en ingeniería y arquitectura en la Sierra Nevada. -->
 - [ ] C) Castillo de San Felipe <!-- feedback: Incorrect. Esta es una construcción militar española de la época de la Colonia ubicada en Cartagena, no es de origen indígena. -->
@@ -126,14 +138,15 @@ Se evalúa la identificación de logros arquitectónicos e ingenieriles de las c
 ## Question 6 [D5]
 
 **ID:** `CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-v6`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Creencias religiosas indígenas.
+**Contexto:** Creencias religiosas indígenas.
 
 ### Enunciado
 Los pueblos precolombinos eran **politeístas**. Esto significa que sus creencias se basaban en:
 
-### Options
+### Opciones
 - [ ] A) Adorar a un solo Dios único y castigador. <!-- feedback: Incorrect. Adorar a un solo dios se llama monoteísmo, característica de religiones como la católica que llegó después. -->
 - [x] B) Adorar a muchos dioses, generalmente relacionados con la naturaleza (Sol, Luna, Agua). <!-- feedback: Correct. El politeísmo indígena consistía en la veneración de múltiples divinidades que representaban fuerzas de la naturaleza esenciales para la vida. -->
 - [ ] C) No creer en ningún dios ni tener rituales religiosos. <!-- feedback: Incorrect. Todas las culturas indígenas tenían un profundo sistema de creencias y ceremonias religiosas muy organizadas. -->
@@ -147,14 +160,15 @@ Se evalúa el concepto de politeísmo en el contexto de las culturas antiguas. L
 ## Question 7 [D5]
 
 **ID:** `CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Comercio entre diferentes grupos.
+**Contexto:** Comercio entre diferentes grupos.
 
 ### Enunciado
 A pesar de las distancias, los grupos indígenas intercambiaban productos que no tenían en su región. Por ejemplo, los Muiscas de la montaña cambiaban sal y mantas de algodón por pescado y conchas marinas con los pueblos de la costa. ¿Cómo se llama este sistema de comercio?
 
-### Options
+### Opciones
 - [ ] A) Venta por internet <!-- feedback: Incorrect. Es un anacronismo total; no existía la tecnología ni la red eléctrica para este tipo de comercio. -->
 - [ ] B) Pago con tarjeta de crédito <!-- feedback: Incorrect. Los indígenas no utilizaban dinero plástico ni sistemas bancarios; su economía era diferente. -->
 - [x] C) Trueque <!-- feedback: Correct. El trueque es el intercambio directo de un producto por otro sin utilizar dinero, sistema básico de la economía prehispánica. -->
@@ -168,14 +182,15 @@ Se evalúa el conocimiento sobre los sistemas económicos antiguos. La respuesta
 ## Question 8 [D5]
 
 **ID:** `CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** El legado de los grupos indígenas hoy.
+**Contexto:** El legado de los grupos indígenas hoy.
 
 ### Enunciado
 Hoy en día, en Colombia todavía viven más de 80 grupos indígenas diferentes. ¿Cuál es el principal legado o herencia que nos han dejado estos pueblos y que debemos respetar?
 
-### Options
+### Opciones
 - [ ] A) El uso de uniformes escolares modernos. <!-- feedback: Incorrect. Los uniformes son una tradición educativa de origen europeo, no indígena. -->
 - [ ] B) La tecnología para fabricar teléfonos celulares. <!-- feedback: Incorrect. La tecnología digital no es parte del legado ancestral indígena colombiano. -->
 - [x] C) El respeto por la madre tierra y el conocimiento de las plantas medicinales. <!-- feedback: Correct. La visión de la naturaleza como un ser vivo sagrado y el uso de la medicina natural son de las herencias más valiosas de nuestros ancestros. -->
@@ -189,14 +204,15 @@ Se evalúa el reconocimiento del legado cultural y ambiental indígena en la soc
 ## Question 9 [D5]
 
 **ID:** `CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-v9`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Los Zenúes y el manejo del agua.
+**Contexto:** Los Zenúes y el manejo del agua.
 
 ### Enunciado
 La cultura Zenú, en las llanuras de los actuales departamentos de Córdoba y Sucre, fue famosa por crear un sistema de canales de riego que cubría miles de hectáreas. ¿Cuál era el objetivo principal de estos canales?
 
-### Options
+### Opciones
 - [ ] A) Crear pistas para carreras de canoas rápidas. <!-- feedback: Incorrect. El propósito de sus grandes obras era la supervivencia y la agricultura, no la recreación deportiva. -->
 - [ ] B) Traer agua del mar para salar la tierra. <!-- feedback: Incorrect. El agua salada daña los cultivos; los canales manejaban el agua dulce de los ríos y las lluvias. -->
 - [x] C) Controlar las inundaciones y permitir la agricultura en zonas húmedas. <!-- feedback: Correct. El sistema de canales permitía drenar el exceso de agua durante las lluvias y mantener la tierra fértil para el cultivo de alimentos. -->
@@ -210,14 +226,15 @@ Se evalúa el conocimiento sobre la adaptación al medio ambiente de culturas es
 ## Question 10 [D4]
 
 **ID:** `CO-SOC-4-2026-P1-colombia-precolombina-001-MASTERY-v10`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Diferencias entre nómadas y sedentarios.
+**Contexto:** Diferencias entre nómadas y sedentarios.
 
 ### Enunciado
 Cuando los grupos indígenas aprendieron a cultivar la tierra (agricultura), dejaron de viajar de un lugar a otro buscando comida y empezaron a construir casas permanentes. Este cambio de estilo de vida se llama:
 
-### Options
+### Opciones
 - [ ] A) Turismo <!-- feedback: Incorrect. El turismo es viajar por placer, lo opuesto a establecerse en un sitio fijo de forma permanente por necesidad. -->
 - [ ] B) Nomadismo <!-- feedback: Incorrect. El nomadismo es precisamente el estilo de vida de viajar constantemente buscando alimento; es lo que hacían ANTES de la agricultura. -->
 - [x] C) Sedentarismo <!-- feedback: Correct. El sedentarismo es la capacidad de una comunidad de establecerse en un lugar fijo gracias a que puede producir su propio alimento en un solo sitio. -->

@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W02-falacias-001-MASTERY"
+id: "CO-LC-7-2026-W02-falacias-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "falacias"
-semana: "W02"
+week: "W02"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Falacias - Grado 7
 ## Semana W02 — Identificación de falacias lógicas en argumentos
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W02-falacias-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase de Lectura Crítica del Colegio Champagnat de Bogotá, el profesor explica qué son las falacias.
+**Contexto:** En clase de Lectura Crítica del Colegio Champagnat de Bogotá, el profesor explica qué son las falacias.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Una falacia es un razonamiento incorrecto que aparenta ser válido. Engañan al 
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W02-falacias-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** María está leyendo un artículo en internet y encuentra la frase: "Todos los políticos son corruptos porque vi a uno en la televisión que fue capturado."
+**Contexto:** María está leyendo un artículo en internet y encuentra la frase: "Todos los políticos son corruptos porque vi a uno en la televisión que fue capturado."
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ La generalización apresurada es una falacia que consiste en extraer una conclus
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W02-falacias-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Carlos escucha un debate en el colegio de Medellín. Un estudiante dice: "El profesor Pérez no debería hablarnos de ética porque él llegó tarde a clase ayer."
+**Contexto:** Carlos escucha un debate en el colegio de Medellín. Un estudiante dice: "El profesor Pérez no debería hablarnos de ética porque él llegó tarde a clase ayer."
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ La falacia ad hominem consiste en atacar a la persona que presenta el argumento 
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W02-falacias-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Laura lee en Facebook: "Si permitimos que los niños usen celulares en clase, pronto estarán usándolos todo el día y abandonarán los estudios."
+**Contexto:** Laura lee en Facebook: "Si permitimos que los niños usen celulares en clase, pronto estarán usándolos todo el día y abandonarán los estudios."
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -102,11 +106,11 @@ La falacia de pendiente resbaladiza (o bola de nieve) argumenta que un primer pa
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W02-falacias-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** En el colegio de Cali, Andrés escucha: "Debemos aprobar la ley de reciclaje porque el 70% de los colombianos la apoya."
+**Contexto:** En el colegio de Cali, Andrés escucha: "Debemos aprobar la ley de reciclaje porque el 70% de los colombianos la apoya."
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -123,11 +127,11 @@ La falacia ad populum (apelación a la mayoría) sostiene que una proposición e
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W02-falacias-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Valentina lee en un cartel publicitario: "Nuestro shampoo es el mejor porque lo dice la actriz más famosa de Colombia."
+**Contexto:** Valentina lee en un cartel publicitario: "Nuestro shampoo es el mejor porque lo dice la actriz más famosa de Colombia."
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ La falacia de apelación a la autoridad ocurre cuando se cita a una persona que 
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W02-falacias-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Santiago escucha en un debate político en Barranquilla: "No podemos confiar en las propuestas de la candidata Martínez porque ella no tiene hijos."
+**Contexto:** Santiago escucha en un debate político en Barranquilla: "No podemos confiar en las propuestas de la candidata Martínez porque ella no tiene hijos."
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Esta es una forma de falacia ad hominem llamada "circunstancial", donde se ataca
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W02-falacias-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Camila analiza un texto que dice: "La educación pública en Colombia es mala. Por lo tanto, debemos privatizar todas las escuelas." Ella nota que solo presenta dos opciones.
+**Contexto:** Camila analiza un texto que dice: "La educación pública en Colombia es mala. Por lo tanto, debemos privatizar todas las escuelas." Ella nota que solo presenta dos opciones.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ La falacia del falso dilema (o falsa dicotomía) presenta una situación como si
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W02-falacias-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Sebastián lee: "El uso de uniformes escolares mejora el rendimiento académico. Eso lo sabe todo el mundo." Él sospecha que hay una falacia.
+**Contexto:** Sebastián lee: "El uso de uniformes escolares mejora el rendimiento académico. Eso lo sabe todo el mundo." Él sospecha que hay una falacia.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ Decir "eso lo sabe todo el mundo" es una forma de apelación a la mayoría que b
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W02-falacias-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Isabella encuentra este argumento en un foro: "Las vacunas causan autismo porque después de vacunar a mi primo, le diagnosticaron autismo."
+**Contexto:** Isabella encuentra este argumento en un foro: "Las vacunas causan autismo porque después de vacunar a mi primo, le diagnosticaron autismo."
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -228,11 +232,11 @@ La falacia "post hoc ergo propter hoc" (después de esto, por lo tanto, a causa 
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W02-falacias-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En el colegio de Pereira, Daniel expone: "El cambio climático no puede ser real porque hace mucho frío este invierno en Bogotá."
+**Contexto:** En el colegio de Pereira, Daniel expone: "El cambio climático no puede ser real porque hace mucho frío este invierno en Bogotá."
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -249,11 +253,11 @@ Esta falacia confunde el clima (tendencia a largo plazo) con el tiempo meteorol�
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W02-falacias-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un debate escolar en Sincelejo, un estudiante dice: "Usted dice que debemos proteger a los animales, pero usa zapatos de cuero. Por lo tanto, su argumento no vale."
+**Contexto:** En un debate escolar en Sincelejo, un estudiante dice: "Usted dice que debemos proteger a los animales, pero usa zapatos de cuero. Por lo tanto, su argumento no vale."
 **Expected_Success:** 0.42
 
 ### Enunciado

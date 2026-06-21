@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-9-2026-P2-comprehensive-001-MASTERY"
+id: "CO-LC-9-2026-P2-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 9
 asignatura: "lectura-critica"
@@ -19,7 +19,12 @@ rubric_baseline: "análisis del discurso, literatura universal clásica"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Análisis del Discurso y Literatura Universal
 
@@ -31,13 +36,14 @@ Este bundle cubre las herramientas básicas del análisis del discurso y la intr
 
 **ID:** `CO-LC-9-2026-P2-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** En clase de lenguaje en Medellín, se estudian los géneros literarios.
+**Contexto:** En clase de lenguaje en Medellín, se estudian los géneros literarios.
 
 ### Enunciado
 ¿Cuáles son los tres grandes géneros literarios?
 
-### Options
+### Opciones
 - [ ] A) Cuento, novela y poema <!-- feedback: Incorrect. Esos son subgéneros. -->
 - [x] B) Lírico (poesía), narrativo (épico) y dramático (teatro) <!-- feedback: Correct. La clasificación clásica de los géneros literarios se remonta a la Poética de Aristóteles. -->
 - [ ] C) Romance, ciencia ficción y terror <!-- feedback: Incorrect. Esos son géneros modernos o temáticos. -->
@@ -52,13 +58,14 @@ Los géneros literarios clásicos son: lírico (expresa sentimientos a través d
 
 **ID:** `CO-LC-9-2026-P2-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Se estudia "La Ilíada" de Homero, una de las obras fundacionales de la literatura occidental.
+**Contexto:** Se estudia "La Ilíada" de Homero, una de las obras fundacionales de la literatura occidental.
 
 ### Enunciado
 ¿Sobre qué trata "La Ilíada" de Homero?
 
-### Options
+### Opciones
 - [x] A) La guerra de Troya y la cólera de Aquiles, el héroe griego <!-- feedback: Correct. La Ilíada narra un episodio del décimo año de la guerra de Troya, centrado en Aquiles. -->
 - [ ] B) El viaje de Ulises de regreso a Ítaca después de la guerra de Troya <!-- feedback: Incorrect. Esa es la Odisea, también de Homero. -->
 - [ ] C) La creación del mundo según la mitología griega <!-- feedback: Incorrect. Eso es la Teogonía de Hesíodo. -->
@@ -73,13 +80,14 @@ La Ilíada y la Odisea son los dos grandes poemas épicos atribuidos a Homero (s
 
 **ID:** `CO-LC-9-2026-P2-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Se lee un fragmento de un discurso político: "Mis compatriotas, estamos en un momento histórico. Construyamos juntos el país que nuestros hijos merecen. No podemos seguir postergando las decisiones que transformarán Colombia."
+**Contexto:** Se lee un fragmento de un discurso político: "Mis compatriotas, estamos en un momento histórico. Construyamos juntos el país que nuestros hijos merecen. No podemos seguir postergando las decisiones que transformarán Colombia."
 
 ### Enunciado
 ¿Qué función del lenguaje predomina en este fragmento?
 
-### Options
+### Opciones
 - [ ] A) Función referencial (informar objetivamente) <!-- feedback: Incorrect. El texto no es puramente informativo. -->
 - [ ] B) Función poética (embellecer el lenguaje) <!-- feedback: Parcial, pero no es la principal. -->
 - [x] C) Función apelativa o conativa (persuadir, llamar a la acción) <!-- feedback: Correct. El discurso busca persuadir y movilizar ("Construyamos juntos", "No podemos seguir postergando"). -->
@@ -94,13 +102,14 @@ Las funciones del lenguaje (según Roman Jakobson) son: referencial, emotiva, co
 
 **ID:** `CO-LC-9-2026-P2-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Se analiza una noticia de un periódico colombiano: "El Congreso aprobó la reforma tributaria con 98 votos a favor y 52 en contra."
+**Contexto:** Se analiza una noticia de un periódico colombiano: "El Congreso aprobó la reforma tributaria con 98 votos a favor y 52 en contra."
 
 ### Enunciado
 ¿Qué tipo de texto es este y qué función predomina?
 
-### Options
+### Opciones
 - [ ] A) Texto argumentativo, función apelativa <!-- feedback: Incorrect. No busca persuadir, sino informar. -->
 - [x] B) Texto informativo/noticioso, función referencial <!-- feedback: Correct. La noticia busca informar de manera objetiva sobre un hecho. -->
 - [ ] C) Texto literario, función poética <!-- feedback: Incorrect. No hay recursos literarios. -->
@@ -115,13 +124,14 @@ Los textos periodísticos informativos (noticias) tienen función referencial: b
 
 **ID:** `CO-LC-9-2026-P2-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Un anuncio publicitario muestra a una persona exitosa bebiendo una gaseosa y dice: "El sabor del éxito."
+**Contexto:** Un anuncio publicitario muestra a una persona exitosa bebiendo una gaseosa y dice: "El sabor del éxito."
 
 ### Enunciado
 ¿Qué estrategia discursiva utiliza este anuncio?
 
-### Options
+### Opciones
 - [ ] A) Información objetiva sobre el producto <!-- feedback: Incorrect. No da información nutricional ni técnica. -->
 - [ ] B) Comparación directa con la competencia <!-- feedback: Incorrect. No menciona otras marcas. -->
 - [x] C) Asociación del producto con valores deseables (éxito, estatus) para persuadir emocionalmente <!-- feedback: Correct. La publicidad asocia productos con estilos de vida aspiracionales. -->
@@ -136,13 +146,14 @@ El análisis del discurso publicitario revela que no vende productos sino estilo
 
 **ID:** `CO-LC-9-2026-P2-comprehensive-001-MASTERY-v6`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Se lee el inicio de "Cien años de soledad" de Gabriel García Márquez: "Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo."
+**Contexto:** Se lee el inicio de "Cien años de soledad" de Gabriel García Márquez: "Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo."
 
 ### Enunciado
 ¿Qué recurso narrativo utiliza García Márquez en esta frase inicial?
 
-### Options
+### Opciones
 - [ ] A) Narración lineal (orden cronológico estricto) <!-- feedback: Incorrect. La frase mezcla pasado, presente y futuro. -->
 - [x] B) Anacronía narrativa (analepsis o flashforward): anticipa un evento futuro y luego retrocede al pasado <!-- feedback: Correct. "Muchos años después" es un salto al futuro, y luego retrocede ("aquella tarde remota"). Es una técnica característica de García Márquez. -->
 - [ ] C) Monólogo interior <!-- feedback: Incorrect. No hay flujo de conciencia. -->
@@ -157,13 +168,14 @@ La primera frase de "Cien años de soledad" (1967) es famosa por su manejo del t
 
 **ID:** `CO-LC-9-2026-P2-comprehensive-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento crítico
-**Context:** Se analiza un discurso: "Colombia necesita más policías en las calles. La seguridad es lo más importante para los ciudadanos."
+**Contexto:** Se analiza un discurso: "Colombia necesita más policías en las calles. La seguridad es lo más importante para los ciudadanos."
 
 ### Enunciado
 ¿Qué presuposición subyace en este discurso?
 
-### Options
+### Opciones
 - [ ] A) Que los policías no son necesarios <!-- feedback: Incorrect. Afirma lo contrario. -->
 - [x] B) Que más policías en las calles mejoran la seguridad (sin evidencia que lo demuestre) <!-- feedback: Correct. La presuposición es que la presencia policial reduce el crimen, lo cual no siempre es cierto. -->
 - [ ] C) Que Colombia ya tiene suficientes policías <!-- feedback: Incorrect. El discurso dice que se necesitan más. -->
@@ -178,13 +190,14 @@ El análisis crítico del discurso busca identificar presuposiciones y supuestos
 
 **ID:** `CO-LC-9-2026-P2-comprehensive-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Se lee un fragmento de "Romeo y Julieta" de Shakespeare: "¿Qué hay en un nombre? Lo que llamamos rosa, con cualquier otro nombre olería igual."
+**Contexto:** Se lee un fragmento de "Romeo y Julieta" de Shakespeare: "¿Qué hay en un nombre? Lo que llamamos rosa, con cualquier otro nombre olería igual."
 
 ### Enunciado
 ¿Qué idea defiende Julieta con esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Que los nombres determinan la esencia de las cosas <!-- feedback: Incorrect. Ella dice lo contrario. -->
 - [x] B) Que las etiquetas y apellidos (como ser Montesco o Capuleto) no deberían importar, porque la esencia de una persona es independiente de su nombre <!-- feedback: Correct. Julieta argumenta que el amor entre ella y Romeo no debería verse afectado por sus apellidos rivales. -->
 - [ ] C) Que las rosas deben llamarse siempre rosas <!-- feedback: Incorrect. No es una afirmación literal sobre botánica. -->
@@ -199,13 +212,14 @@ Shakespeare (1564-1616) es el dramaturgo más importante de la literatura univer
 
 **ID:** `CO-LC-9-2026-P2-comprehensive-001-MASTERY-v9`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Se estudian las figuras literarias o retóricas.
+**Contexto:** Se estudian las figuras literarias o retóricas.
 
 ### Enunciado
 ¿Qué figura literaria se usa en la frase: "El tiempo vuela" (atribuir una acción humana a algo no humano)?
 
-### Options
+### Opciones
 - [ ] A) Hipérbole (exageración) <!-- feedback: Incorrect. No hay exageración. -->
 - [x] B) Metáfora o personificación: atribuir cualidades humanas (volar) al tiempo, que es abstracto <!-- feedback: Correct. "Volar" es una acción que solo seres vivos realizan, aquí se atribuye al tiempo. -->
 - [ ] C) Símil o comparación (usando "como") <!-- feedback: Incorrect. No se usa "como". -->
@@ -220,13 +234,14 @@ Las figuras retóricas son recursos del lenguaje literario. La personificación 
 
 **ID:** `CO-LC-9-2026-P2-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Se analiza un texto: "El Sol, como un disco de fuego, se ocultaba tras las montañas del Valle del Cauca."
+**Contexto:** Se analiza un texto: "El Sol, como un disco de fuego, se ocultaba tras las montañas del Valle del Cauca."
 
 ### Enunciado
 ¿Qué figuras literarias están presentes en esta descripción?
 
-### Options
+### Opciones
 - [ ] A) Solo hipérbole <!-- feedback: Incorrect. No hay exageración. -->
 - [ ] B) Metáfora ("disco de fuego") y símil ("como") combinados <!-- feedback: Correct. "Disco de fuego" es metáfora del Sol; "como" introduce el símil. -->
 - [ ] C) Solo símil <!-- feedback: Incorrect. "Disco de fuego" también es metáfora. -->
@@ -241,13 +256,14 @@ Los textos literarios suelen combinar varias figuras retóricas. Aquí, la metá
 
 **ID:** `CO-LC-9-2026-P2-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento crítico
-**Context:** Se analiza un discurso del presidente colombiano: "Hemos reducido la pobreza en un 3%. Este es un logro histórico que demuestra que nuestras políticas funcionan."
+**Contexto:** Se analiza un discurso del presidente colombiano: "Hemos reducido la pobreza en un 3%. Este es un logro histórico que demuestra que nuestras políticas funcionan."
 
 ### Enunciado
 ¿Qué limitación tiene este argumento?
 
-### Options
+### Opciones
 - [ ] A) Es un argumento válido y completo <!-- feedback: Incorrect. Hay información faltante. -->
 - [x] B) No establece una relación causal: la reducción de pobreza podría deberse a otros factores como el crecimiento económico global o el aumento del precio del petróleo, no necesariamente a las políticas del gobierno. <!-- feedback: Correct. Post hoc ergo propter hoc: porque ocurrió después, no significa que fue causado por. -->
 - [ ] C) La reducción de pobreza es imposible de medir <!-- feedback: Incorrect. Sí se mide, pero el debate es sobre las causas. -->
@@ -262,13 +278,14 @@ El análisis crítico del discurso político examina si las conclusiones se sigu
 
 **ID:** `CO-LC-9-2026-P2-comprehensive-001-MASTERY-v12`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Se lee un fragmento de "Don Quijote de la Mancha" de Cervantes: "En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor."
+**Contexto:** Se lee un fragmento de "Don Quijote de la Mancha" de Cervantes: "En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor."
 
 ### Enunciado
 ¿Qué efecto produce la frase "de cuyo nombre no quiero acordarme"?
 
-### Options
+### Opciones
 - [ ] A) Informar con precisión la ubicación exacta <!-- feedback: Incorrect. No quiere recordar el nombre. -->
 - [x] B) Crear ambigüedad intencionada y un tono irónico, característico de la novela <!-- feedback: Correct. Cervantes juega con la ambigüedad y la ironía desde la primera línea. -->
 - [ ] C) Mostrar que el narrador tiene mala memoria <!-- feedback: Incorrect. Es un recurso literario, no un defecto del narrador. -->
@@ -283,13 +300,14 @@ El análisis crítico del discurso político examina si las conclusiones se sigu
 
 **ID:** `CO-LC-9-2026-P2-comprehensive-001-MASTERY-v13`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento crítico
-**Context:** Se compara un discurso político de 1970 con uno actual sobre el mismo tema (reforma agraria).
+**Contexto:** Se compara un discurso político de 1970 con uno actual sobre el mismo tema (reforma agraria).
 
 ### Enunciado
 ¿Qué herramienta del análisis del discurso permite identificar cambios ideológicos a través del tiempo?
 
-### Options
+### Opciones
 - [ ] A) El análisis sintáctico de las oraciones <!-- feedback: Incorrect. La sintaxis no revela cambios ideológicos directamente. -->
 - [ ] B) El análisis morfológico de las palabras <!-- feedback: Incorrect. La morfología no muestra ideología. -->
 - [x] C) El análisis crítico del discurso (ACD), que examina cómo el lenguaje refleja y construye ideologías, poder y relaciones sociales <!-- feedback: Correct. El ACD analiza el lenguaje en contexto social y político. -->
@@ -304,13 +322,14 @@ El Análisis Crítico del Discurso (ACD), desarrollado por Teun van Dijk y Norma
 
 **ID:** `CO-LC-9-2026-P2-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de textos
-**Context:** Se analiza un fragmento de "1984" de George Orwell: "La guerra es la paz. La libertad es la esclavitud. La ignorancia es la fuerza."
+**Contexto:** Se analiza un fragmento de "1984" de George Orwell: "La guerra es la paz. La libertad es la esclavitud. La ignorancia es la fuerza."
 
 ### Enunciado
 ¿Qué recurso discursivo utiliza Orwell para ilustrar el control totalitario?
 
-### Options
+### Opciones
 - [ ] A) Hipérbole para exagerar la situación <!-- feedback: Incorrect. No es exageración, es un mecanismo de control. -->
 - [ ] B) Ironía para criticar el gobierno <!-- feedback: Parcial, pero hay un término más preciso. -->
 - [x] C) Oxímoron y contradicción (unir términos opuestos) para mostrar cómo el poder totalitario destruye el significado del lenguaje y la capacidad de pensar críticamente <!-- feedback: Correct. La "neolengua" y estas consignas muestran cómo el totalitarismo distorsiona el lenguaje para controlar el pensamiento. -->
@@ -325,13 +344,14 @@ El Análisis Crítico del Discurso (ACD), desarrollado por Teun van Dijk y Norma
 
 **ID:** `CO-LC-9-2026-P2-comprehensive-001-MASTERY-v15`
 **Bloom:** Create
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento crítico
-**Context:** Un estudiante debe analizar críticamente un discurso político que promete "progreso" y "desarrollo" sin explicar cómo se lograrán.
+**Contexto:** Un estudiante debe analizar críticamente un discurso político que promete "progreso" y "desarrollo" sin explicar cómo se lograrán.
 
 ### Enunciado
 ¿Cuál es el mejor enfoque para analizar este discurso críticamente?
 
-### Options
+### Opciones
 - [ ] A) Aceptar el discurso sin cuestionarlo, porque viene de una autoridad <!-- feedback: Incorrect. El pensamiento crítico cuestiona, no acepta sin examen. -->
 - [ ] B) Analizar solo las palabras difíciles del discurso <!-- feedback: Incorrect. El análisis crítico va más allá del vocabulario. -->
 - [x] C) Identificar: 1) términos abstractos no definidos ("progreso"), 2) promesas sin mecanismos concretos, 3) presuposiciones implícitas, 4) a quién beneficia el discurso, 5) qué voces están excluidas <!-- feedback: Correct. Un análisis crítico integral examina vacíos, presuposiciones, intereses y exclusiones. -->

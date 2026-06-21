@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY"
+id: "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 3"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Ortografía - uso de la g y j - Grado 3
 
@@ -22,7 +24,7 @@ Este bundle explora las reglas del uso de la "g" y la "j", enfocándose en los s
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -33,21 +35,20 @@ Este bundle explora las reglas del uso de la "g" y la "j", enfocándose en los s
 ¿Cuál es la forma correcta de escribir el nombre de este animal de cuello largo?
 
 ### Opciones
-- [ ] A) Girafa (con g)
-  <!-- feedback: No, aunque suena fuerte, se escribe con j. No, espera, jirafa es con j. -->
-- [x] B) Jirafa (con j)
-  <!-- feedback: ¡Correcto! Jirafa se escribe siempre con j. -->
-- [ ] C) Guirafa
-  <!-- feedback: La u haría que sonara suave, y el sonido es fuerte. -->
-- [ ] D) Jirrafa
-  <!-- feedback: No se usa doble r en esta posición. -->
+- [ ] A) Girafa (con g) <!-- feedback: Incorrecto. Girafa (con g) -->
+
+- [x] B) Jirafa (con j) <!-- feedback: Correcto! Jirafa (con j) -->
+
+- [ ] C) Guirafa <!-- feedback: Incorrecto. Guirafa -->
+
+- [ ] D) Jirrafa <!-- feedback: Incorrecto. Jirrafa -->
 
 ### Explicación Pedagogica
 Muchas palabras con sonido fuerte ante la "i" se escriben con "j", y debemos aprenderlas para no confundirlas con la "g".
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -58,21 +59,20 @@ Muchas palabras con sonido fuerte ante la "i" se escriben con "j", y debemos apr
 ¿Cómo se escribe la palabra que nombra a un animal que maúlla y empieza por g?
 
 ### Opciones
-- [ ] A) Jato
-  <!-- feedback: No, gato se escribe con g. -->
-- [x] B) Gato
-  <!-- feedback: ¡Muy bien! Delante de la "a", la g tiene sonido suave. -->
-- [ ] C) Guato
-  <!-- feedback: No es necesario poner la u para que suene suave con la a. -->
-- [ ] D) Gatto
-  <!-- feedback: En español no se usa doble t. -->
+- [ ] A) Jato <!-- feedback: Incorrecto. Jato -->
+
+- [x] B) Gato <!-- feedback: Correcto! Gato -->
+
+- [ ] C) Guato <!-- feedback: Incorrecto. Guato -->
+
+- [ ] D) Gatto <!-- feedback: Incorrecto. Gatto -->
 
 ### Explicación Pedagogica
 La letra "g" tiene sonido suave cuando va seguida de las vocales "a", "o", "u" (ga, go, gu).
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -84,21 +84,20 @@ Para que la "g" suene suave con la **"e"** o con la **"i"**, ¿qué letra debemo
 (Ejemplo: **guerra**, **guitarra**)
 
 ### Opciones
-- [ ] A) La o.
-  <!-- feedback: No, la o no cumple esa función. -->
-- [x] B) La u.
-  <!-- feedback: ¡Excelente! La u no suena, pero hace que la g sea suave (gue, gui). -->
-- [ ] C) La h.
-  <!-- feedback: No, la h es muda pero no cambia el sonido de la g. -->
-- [ ] D) Ninguna letra.
-  <!-- feedback: Sin la u, la g sonaría fuerte como la j (ge, gi). -->
+- [ ] A) La o. <!-- feedback: Incorrecto. La o. -->
+
+- [x] B) La u. <!-- feedback: Correcto! La u. -->
+
+- [ ] C) La h. <!-- feedback: Incorrecto. La h. -->
+
+- [ ] D) Ninguna letra. <!-- feedback: Incorrecto. Ninguna letra. -->
 
 ### Explicación Pedagogica
 En las sílabas gue, gui, la letra "u" es muda y sirve para indicar que la "g" tiene un sonido suave.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -109,21 +108,20 @@ En las sílabas gue, gui, la letra "u" es muda y sirve para indicar que la "g" t
 ¿En cuál de estas palabras la **"g"** suena fuerte, igual que la **"j"**?
 
 ### Opciones
-- [ ] A) Gota
-  <!-- feedback: Suena suave con la o. -->
-- [ ] B) Gusano
-  <!-- feedback: Suena suave con la u. -->
-- [x] C) Gente
-  <!-- feedback: ¡Correcto! Ante la "e" y la "i", la g suena fuerte si no lleva u. -->
-- [ ] D) Galleta
-  <!-- feedback: Suena suave con la a. -->
+- [ ] A) Gota <!-- feedback: Incorrecto. Gota -->
+
+- [ ] B) Gusano <!-- feedback: Incorrecto. Gusano -->
+
+- [x] C) Gente <!-- feedback: Correcto! Gente -->
+
+- [ ] D) Galleta <!-- feedback: Incorrecto. Galleta -->
 
 ### Explicación Pedagogica
 La "g" tiene un sonido fuerte, igual al de la "j", cuando va antes de la "e" o la "i" (ge, gi).
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -135,21 +133,20 @@ Si queremos que la **"u"** sí suene en las sílabas gue o gui, ¿qué debemos p
 (Ejemplo: **pingüino**, **agüita**)
 
 ### Opciones
-- [ ] A) Una tilde.
-  <!-- feedback: La tilde sirve para marcar el acento. -->
-- [x] B) Dos puntitos llamados diéresis (¨).
-  <!-- feedback: ¡Muy bien! La diéresis indica que la u debe pronunciarse. -->
-- [ ] C) Una rayita.
-  <!-- feedback: No existe ese signo en español para la u. -->
-- [ ] D) Nada, la u siempre suena.
-  <!-- feedback: No, en gue/gui normalmente la u es muda. -->
+- [ ] A) Una tilde. <!-- feedback: Incorrecto. Una tilde. -->
+
+- [x] B) Dos puntitos llamados diéresis (¨). <!-- feedback: Correcto! Dos puntitos llamados diéresis (¨). -->
+
+- [ ] C) Una rayita. <!-- feedback: Incorrecto. Una rayita. -->
+
+- [ ] D) Nada, la u siempre suena. <!-- feedback: Incorrecto. Nada, la u siempre suena. -->
 
 ### Explicación Pedagogica
 La diéresis es un signo ortográfico que se coloca sobre la u para indicar que esta debe sonar en las combinaciones güe, güi.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -160,21 +157,20 @@ La diéresis es un signo ortográfico que se coloca sobre la u para indicar que 
 ¿Cuál es la forma correcta de escribir la palabra que significa maletas o bultos para un viaje?
 
 ### Opciones
-- [ ] A) Equipage (con g)
-  <!-- feedback: No, las palabras terminadas en -aje van con j. -->
-- [x] B) Equipaje (con j)
-  <!-- feedback: ¡Exacto! Según la regla, las palabras que terminan en -aje se escriben con j. -->
-- [ ] C) Equipajje
-  <!-- feedback: No se usa doble j en español. -->
-- [ ] D) Equipahe
-  <!-- feedback: La h no suena, por lo que no daría el sonido fuerte de la j. -->
+- [ ] A) Equipage (con g) <!-- feedback: Incorrecto. Equipage (con g) -->
+
+- [x] B) Equipaje (con j) <!-- feedback: Correcto! Equipaje (con j) -->
+
+- [ ] C) Equipajje <!-- feedback: Incorrecto. Equipajje -->
+
+- [ ] D) Equipahe <!-- feedback: Incorrecto. Equipahe -->
 
 ### Explicación Pedagogica
 Existe una regla ortográfica: la mayoría de las palabras que terminan en -aje y -eje se escriben con j.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -185,21 +181,20 @@ Existe una regla ortográfica: la mayoría de las palabras que terminan en -aje 
 ¿Cuál de estos verbos está bien escrito según la regla de la g?
 
 ### Opciones
-- [x] A) Recoger (con g)
-  <!-- feedback: ¡Muy bien! Los verbos terminados en -ger se escriben con g. -->
-- [ ] B) Recojer (con j)
-  <!-- feedback: Es un error común, pero la regla dice que es con g. -->
-- [ ] C) Elijer (con j)
-  <!-- feedback: Elegir también va con g. -->
-- [ ] D) Dirijir (con j)
-  <!-- feedback: Dirigir también va con g. -->
+- [x] A) Recoger (con g) <!-- feedback: Correcto! Recoger (con g) -->
+
+- [ ] B) Recojer (con j) <!-- feedback: Incorrecto. Recojer (con j) -->
+
+- [ ] C) Elijer (con j) <!-- feedback: Incorrecto. Elijer (con j) -->
+
+- [ ] D) Dirijir (con j) <!-- feedback: Incorrecto. Dirijir (con j) -->
 
 ### Explicación Pedagogica
 La mayoría de los verbos terminados en -ger y -gir se escriben con g (excepciones: tejer y crujir).
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -210,21 +205,20 @@ La mayoría de los verbos terminados en -ger y -gir se escriben con g (excepcion
 "Los niños juegan en el **paisa__e** de la montaña". ¿Qué letra falta?
 
 ### Opciones
-- [ ] A) g
-  <!-- feedback: No, las terminaciones en -aje son con j. -->
-- [x] B) j
-  <!-- feedback: ¡Correcto! Paisaje termina en -aje, por lo tanto va con j. -->
-- [ ] C) h
-  <!-- feedback: No daría el sonido fuerte necesario. -->
-- [ ] D) No falta nada.
-  <!-- feedback: Sí falta una letra para que la palabra tenga sentido. -->
+- [ ] A) g <!-- feedback: Incorrecto. g -->
+
+- [x] B) j <!-- feedback: Correcto! j -->
+
+- [ ] C) h <!-- feedback: Incorrecto. h -->
+
+- [ ] D) No falta nada. <!-- feedback: Incorrecto. No falta nada. -->
 
 ### Explicación Pedagogica
 Aplicar las reglas de terminación (-aje) ayuda a decidir la ortografía correcta de muchas palabras.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -235,21 +229,20 @@ Aplicar las reglas de terminación (-aje) ayuda a decidir la ortografía correct
 "El **majo** sacó un **conego** de la gorra". ¿Cómo debería estar escrito correctamente?
 
 ### Opciones
-- [ ] A) El mago sacó un conego.
-  <!-- feedback: Conejo sigue mal escrito. -->
-- [ ] B) El majo sacó un conejo.
-  <!-- feedback: Mago sigue mal escrito. -->
-- [x] C) El mago sacó un conejo.
-  <!-- feedback: ¡Excelente! Mago va con g (suave) y conejo va con j (fuerte). -->
-- [ ] D) El majo sacó un conecho.
-  <!-- feedback: No tiene sentido. -->
+- [ ] A) El mago sacó un conego. <!-- feedback: Incorrecto. El mago sacó un conego. -->
+
+- [ ] B) El majo sacó un conejo. <!-- feedback: Incorrecto. El majo sacó un conejo. -->
+
+- [x] C) El mago sacó un conejo. <!-- feedback: Correcto! El mago sacó un conejo. -->
+
+- [ ] D) El majo sacó un conecho. <!-- feedback: Incorrecto. El majo sacó un conecho. -->
 
 ### Explicación Pedagogica
 Distinguir entre los sonidos de la g y la j es vital para la claridad de los textos narrativos.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -260,14 +253,13 @@ Distinguir entre los sonidos de la g y la j es vital para la claridad de los tex
 ¿Cuál es la forma correcta de escribir el inicio de tu historia?
 
 ### Opciones
-- [ ] A) En Jijantilandia todo es muy grande.
-  <!-- feedback: Gigante y sus derivados se escriben con g. -->
-- [x] B) En Gigantilandia todo es muy grande.
-  <!-- feedback: ¡Muy bien! Gigante va con g y grande también con g suave. -->
-- [ ] C) En Guigantilandia todo es muy grande.
-  <!-- feedback: No se necesita la u, porque el primer sonido de "gigante" es fuerte. -->
-- [ ] D) En Higantilandia todo es muy grande.
-  <!-- feedback: La h no tiene el sonido necesario. -->
+- [ ] A) En Jijantilandia todo es muy grande. <!-- feedback: Incorrecto. En Jijantilandia todo es muy grande. -->
+
+- [x] B) En Gigantilandia todo es muy grande. <!-- feedback: Correcto! En Gigantilandia todo es muy grande. -->
+
+- [ ] C) En Guigantilandia todo es muy grande. <!-- feedback: Incorrecto. En Guigantilandia todo es muy grande. -->
+
+- [ ] D) En Higantilandia todo es muy grande. <!-- feedback: Incorrecto. En Higantilandia todo es muy grande. -->
 
 ### Explicación Pedagogica
 La ortografía correcta de los nombres de lugares, aunque sean imaginarios, debe seguir las reglas generales del idioma.

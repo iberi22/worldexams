@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-001-MASTERY"
+id: "CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W06 — Fracciones: Multiplicacion y Division
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Multiplicacion de fraccion por entero
+**Contexto:** Multiplicacion de fraccion por entero
 
 ### Enunciado
 En una receta de pandebono se necesitan 1/4 de taza de queso por cada tanda. Si Don Pedro prepara 3 tandas, ¿cuantas tazas de queso necesita en total?
 
-### Options
+### Opciones
 - [ ] A) 3/12 de taza <!-- feedback: Incorrect. Multiplicar numerador y denominador por 3: 1×3=3, 4×3=12 → 3/12. Pero 3/12 = 1/4, que es lo mismo que una tanda. Debe ser 3 × 1/4 = 3/4. Solo se multiplica el numerador. -->
 - [x] B) 3/4 de taza <!-- feedback: Correct. 3 × 1/4 = (3×1)/4 = 3/4 de taza. Para multiplicar una fraccion por un entero, se multiplica solo el numerador y se mantiene el denominador. -->
 - [ ] C) 1/12 de taza <!-- feedback: Incorrect. Dividir en vez de multiplicar: 1/(4×3) = 1/12. La operacion es multiplicacion, no division. 3 tandas × 1/4 = 3/4. -->
@@ -50,13 +53,14 @@ Don Pedro necesita 3/4 de taza de queso para 3 tandas de pandebono.
 
 **ID:** `CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Producto de dos fracciones
+**Contexto:** Producto de dos fracciones
 
 ### Enunciado
 En la tienda del barrio, Don Carlos vende 2/3 de kilo de papa y 1/4 de kilo de cebolla. ¿Cuantos kilos de papa y cebolla compro en total?
 
-### Options
+### Opciones
 - [ ] A) 3/7 de kilo <!-- feedback: Incorrect. Sumar numeradores y denominadores: 2+1=3 y 3+4=7. Este no es el procedimiento correcto ni para suma ni para multiplicacion. -->
 - [x] B) 1/6 de kilo <!-- feedback: Correct. 2/3 × 1/4 = (2×1)/(3×4) = 2/12 = 1/6 de kilo. Multiplicamos numeradores entre si y denominadores entre si, luego simplificamos. -->
 - [ ] C) 2/7 de kilo <!-- feedback: Incorrect. Multiplicar numeradores (2×1=2) y sumar denominadores (3+4=7). El procedimiento correcto es multiplicar numerador × numerador y denominador × denominador. -->
@@ -74,13 +78,14 @@ Don Carlos compro 1/6 de kilo (papa y cebolla combinados segun la operacion plan
 
 **ID:** `CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Division de fraccion entre entero
+**Contexto:** Division de fraccion entre entero
 
 ### Enunciado
 Tienes 3/4 de una pizza y la quieres repartir en partes iguales entre 3 amigos. ¿Que fraccion de la pizza le corresponde a cada amigo?
 
-### Options
+### Opciones
 - [x] A) 1/4 de pizza <!-- feedback: Correct. 3/4 ÷ 3 = 3/4 × 1/3 = (3×1)/(4×3) = 3/12 = 1/4. Cada amigo recibe 1/4 de la pizza original. -->
 - [ ] B) 9/4 de pizza <!-- feedback: Incorrect. Multiplicar en vez de dividir: 3/4 × 3 = 9/4 = 2 1/4. Eso seria mas pizza de la que hay. Al dividir, el resultado debe ser menor que la cantidad original. -->
 - [ ] C) 3/12 de pizza <!-- feedback: Parcialmente correcto pero sin simplificar. 3/12 = 1/4. Siempre simplificar las fracciones. -->
@@ -99,13 +104,14 @@ Cada amigo recibe 1/4 de la pizza original.
 
 **ID:** `CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Division de fraccion entre fraccion
+**Contexto:** Division de fraccion entre fraccion
 
 ### Enunciado
 ¿Cuantas porciones de 1/6 de metro de tela se pueden obtener de un rollo que tiene 2/3 de metro?
 
-### Options
+### Opciones
 - [ ] A) 2 porciones <!-- feedback: Incorrect. 2/3 ÷ 1/6 = 2/3 × 6/1 = 12/3 = 4. Error al hacer la operacion: posiblemente olvidar invertir la segunda fraccion. -->
 - [ ] B) 6 porciones <!-- feedback: Incorrect. 2/3 ÷ 1/6. Error: invertir la fraccion incorrecta (invertir 2/3 en vez de 1/6): 3/2 × 1/6 = 3/12 = 1/4. La fraccion a invertir es la segunda, no la primera. -->
 - [ ] C) 3 porciones <!-- feedback: Incorrect. Error al calcular: 2/3 ÷ 1/6 = 2/3 × 6/1 = 12/3 = 4, no 3. Revisar la multiplicacion. -->
@@ -122,13 +128,14 @@ Se pueden obtener exactamente 4 porciones de 1/6 de metro del rollo de 2/3 de me
 
 **ID:** `CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Operaciones combinadas
+**Contexto:** Operaciones combinadas
 
 ### Enunciado
 Sofia tiene 5/8 de una tableta de chocolate. Regala a su hermano la mitad de lo que tiene. ¿Que fraccion de la tableta original recibe el hermano?
 
-### Options
+### Opciones
 - [ ] A) 5/16 <!-- feedback: Correct. La mitad de 5/8 es 5/8 ÷ 2 = 5/8 × 1/2 = 5/16 de la tableta. -->
 - [ ] B) 5/4 <!-- feedback: Incorrect. Multiplicar 5/8 × 2 = 10/8 = 5/4. La mitad se obtiene dividiendo entre 2, no multiplicando. -->
 - [ ] C) 10/8 <!-- feedback: Incorrect. 5/8 + 5/8 = 10/8. Sumar en vez de dividir entre 2. La mitad de 5/8 es 5/16. -->
@@ -145,13 +152,14 @@ El hermano de Sofia recibe 5/16 de la tableta original de chocolate.
 
 **ID:** `CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Reparticion de terreno familiar
+**Contexto:** Reparticion de terreno familiar
 
 ### Enunciado
 La familia Vargas tiene un terreno de 3/4 de hectarea. Deciden dividirlo en 5 parcelas iguales para sus hijos. ¿Que fraccion de hectarea recibe cada hijo?
 
-### Options
+### Opciones
 - [x] A) 3/20 de hectarea <!-- feedback: Correct. 3/4 ÷ 5 = 3/4 × 1/5 = (3×1)/(4×5) = 3/20 de hectarea. -->
 - [ ] B) 15/4 de hectarea <!-- feedback: Incorrect. Multiplicar en vez de dividir: 3/4 × 5 = 15/4 = 3.75 hectareas. Eso seria mas terreno del que hay. -->
 - [ ] C) 3/9 de hectarea <!-- feedback: Incorrect. Sumar denominadores: 4+5=9. Error: dividir fraccion entre entero usa la regla de invertir y multiplicar, no sumar denominadores. -->
@@ -168,13 +176,14 @@ Cada hijo recibe 3/20 de hectarea. Verificacion: 3/20 × 5 = 15/20 = 3/4 ✓
 
 **ID:** `CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Rendimiento de combustible
+**Contexto:** Rendimiento de combustible
 
 ### Enunciado
 El taxi de Don Roberto consume 3/5 de galon de gasolina por cada 5/6 de hora de recorrido. ¿Cuantos galones consume en 1 hora?
 
-### Options
+### Opciones
 - [ ] A) 18/25 de galon <!-- feedback: Correct. 3/5 ÷ 5/6 = 3/5 × 6/5 = 18/25 de galon por hora. -->
 - [x] B) 1/2 de galon <!-- feedback: Incorrect. Error al invertir y multiplicar: 3/5 × 5/6 = 15/30 = 1/2. Pero la division es 3/5 ÷ 5/6, que es 3/5 × 6/5 = 18/25, no 3/5 × 5/6. -->
 - [ ] C) 15/30 de galon <!-- feedback: Incorrect. 3/5 × 5/6 = 15/30 = 1/2. Se esta multiplicando en vez de dividir. La operacion es 3/5 ÷ 5/6 = 3/5 × 6/5. -->
@@ -191,13 +200,14 @@ Don Roberto consume 18/25 de galon por hora.
 
 **ID:** `CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Receta de cocina — ampliacion
+**Contexto:** Receta de cocina — ampliacion
 
 ### Enunciado
 La receta de ajiaco de la abuela de Lucia usa 2/3 de taza de crema de leche para 4 personas. Si en la reunion familiar van a comer 10 personas, ¿cuantas tazas de crema de leche necesita?
 
-### Options
+### Opciones
 - [ ] A) 20/3 de taza <!-- feedback: Incorrect. 10 ÷ 4 = 2.5, y 2/3 × 2.5 = 5/3, no 20/3. Multiplicar 2/3 × 10 = 20/3 es incorrecto porque la receta es para 4 personas, no para 1. -->
 - [ ] B) 8/30 de taza <!-- feedback: Incorrect. Invertir los factores: 4/10 × 2/3 = 8/30 = 4/15. Se debe multiplicar la cantidad por el factor de ampliacion (10/4), no al reves. -->
 - [x] C) 5/3 de taza <!-- feedback: Correct. Factor de ampliacion: 10/4 = 5/2. Cantidad: 2/3 × 5/2 = 10/6 = 5/3 = 1 2/3 tazas. -->
@@ -214,13 +224,14 @@ La receta de ajiaco de la abuela de Lucia usa 2/3 de taza de crema de leche para
 
 **ID:** `CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Comparacion de metodos de resolucion
+**Contexto:** Comparacion de metodos de resolucion
 
 ### Enunciado
 Valentina dice que para calcular 2/5 ÷ 7/3 debe hacer 2/5 × 3/7. Camilo dice que debe hacer 5/2 × 7/3. ¿Quien tiene la razon?
 
-### Options
+### Opciones
 - [ ] A) Valentina, porque se invierte solo la segunda fraccion y se multiplica <!-- feedback: Correct. La regla de division de fracciones es: a/b ÷ c/d = a/b × d/c. Solo se invierte la segunda fraccion (el divisor). -->
 - [ ] B) Camilo, porque se invierte la primera fraccion y se multiplica por la segunda sin invertir <!-- feedback: Incorrect. Invertir la primera fraccion en vez de la segunda. La regla es: a/b ÷ c/d = a/b × d/c. Se invierte la segunda, no la primera. -->
 - [x] C) Ambos estan equivocados porque la regla es sumar los numeradores <!-- feedback: Incorrect. La suma no tiene nada que ver con esta operacion. La division de fracciones sigue la regla de invertir y multiplicar la segunda fraccion. -->
@@ -239,8 +250,9 @@ Valentina tiene la razon. Camilo confunde la regla al invertir la primera fracci
 
 **ID:** `CO-MAT-6-2026-W06-fracciones-operaciones-multiplicacion-division-010-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Verificacion de operaciones
+**Contexto:** Verificacion de operaciones
 
 ### Enunciado
 En un examen, cuatro estudiantes resolvieron el mismo problema: calcular 3/4 × 2/5 y luego dividir el resultado entre 1/2. Sus respuestas fueron:
@@ -250,7 +262,7 @@ En un examen, cuatro estudiantes resolvieron el mismo problema: calcular 3/4 × 
 - Juan: 3/20
 ¿Quien respondio correctamente?
 
-### Options
+### Opciones
 - [ ] A) Ana, porque 3/4 × 2/5 = 6/20 = 3/10, y luego 3/10 ÷ 1/2 = 3/5 <!-- feedback: Correct. Primero: 3/4 × 2/5 = 6/20 = 3/10. Segundo: 3/10 ÷ 1/2 = 3/10 × 2/1 = 6/10 = 3/5. -->
 - [ ] B) Carlos, porque 3/4 × 2/5 = 3/10 y eso es el resultado final <!-- feedback: Incorrect. Carlos solo hizo la multiplicacion, pero el problema pide continuar dividiendo el resultado entre 1/2. Hecho completo: 3/10 ÷ 1/2 = 3/10 × 2/1 = 6/10 = 3/5. -->
 - [x] C) Maria, porque 3/4 × 2/5 = 6/9 <!-- feedback: Incorrect. 3/4 × 2/5 = (3×2)/(4×5) = 6/20, no 6/9. Maria sumo denominadores (4+5=9) en vez de multiplicarlos. Esto es un error grave de procedimiento. -->

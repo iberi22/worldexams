@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-4-2026-W02-palabras-polisemicas-001-MASTERY"
+id: "CO-LEN-4-2026-W02-palabras-polisemicas-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lengua-castellana"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 8
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W02 — Palabras Polisémicas
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEN-4-2026-W02-palabras-polisemicas-001-MASTERY-v1`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** I.E. Inem Francisco de Paula Santander en Kennedy, Bogotá
+**Contexto:** I.E. Inem Francisco de Paula Santander en Kennedy, Bogotá
 **Expected_Success:** 0.78
 
 ### Enunciado
 En la clase de la I.E. Inem, la profesora explica que la palabra **"cometa"** es polisémica. Para demostrarlo, muestra dos imágenes. ¿Cuáles son los dos significados que puede tener esta palabra en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Un planeta del sistema solar y una estrella fugaz. <!-- feedback: Incorrecto. Aunque están relacionados con el espacio, no son los significados comunes de "cometa". -->
 - [x] B) Un cuerpo celeste con cola de hielo y un juguete que vuela con el viento (barrilete). <!-- feedback: Correcto. En Colombia usamos "cometa" tanto para el objeto astronómico como para el juguete que elevamos en agosto. -->
 - [ ] C) Una herramienta para excavar y un tipo de ave. <!-- feedback: Incorrecto. Ninguno de estos es el significado de cometa. -->
@@ -46,13 +51,13 @@ Las palabras polisémicas tienen varios significados. Identificar que "cometa" s
 **ID:** `CO-LEN-4-2026-W02-palabras-polisemicas-001-MASTERY-v2`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** Un banco en la Plaza de Bolívar de Manizales
+**Contexto:** Un banco en la Plaza de Bolívar de Manizales
 **Expected_Success:** 0.82
 
 ### Enunciado
 Don José le dice a su nieto: "Siéntate en ese **banco** mientras yo entro al **banco** a retirar dinero". ¿Qué fenómeno del lenguaje ocurre con la palabra resaltada?
 
-### Options
+### Opciones
 - [ ] A) Sinonimia, porque las dos palabras significan lo mismo. <!-- feedback: Incorrecto. Un banco es un mueble y el otro es una entidad financiera. -->
 - [ ] B) Antonimia, porque tienen significados opuestos. <!-- feedback: Incorrecto. No son opuestos, son simplemente diferentes. -->
 - [x] C) Polisemia, porque una misma palabra tiene varios significados. <!-- feedback: Correcto. "Banco" es un ejemplo clásico de palabra con múltiples acepciones. -->
@@ -68,13 +73,13 @@ El uso de la palabra "banco" permite al estudiante reconocer la polisemia en sit
 **ID:** `CO-LEN-4-2026-W02-palabras-polisemicas-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** Una finca cafetera en el Quindío
+**Contexto:** Una finca cafetera en el Quindío
 **Expected_Success:** 0.72
 
 ### Enunciado
 En una finca en Armenia, el capataz dice: "Traigan la **mula** para cargar el café, pero tengan cuidado porque el camión tiene una **mula** muy pesada atrás". ¿A qué se refiere la segunda palabra "mula"?
 
-### Options
+### Opciones
 - [ ] A) A otro animal más grande. <!-- feedback: Incorrecto. En este contexto no se refiere a un animal. -->
 - [x] B) Al remolque o tráiler de un camión de carga. <!-- feedback: Correcto. En Colombia, coloquialmente se le llama "mula" o "tractomula" a los camiones de gran tamaño y sus remolques. -->
 - [ ] C) A una herramienta de mano para sembrar. <!-- feedback: Incorrecto. No es una herramienta agrícola. -->
@@ -90,13 +95,13 @@ La polisemia también incluye usos coloquiales o regionales. En Colombia, "mula"
 **ID:** `CO-LEN-4-2026-W02-palabras-polisemicas-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Una clase de biología en Medellín
+**Contexto:** Una clase de biología en Medellín
 **Expected_Success:** 0.65
 
 ### Enunciado
 El profesor explica: "La **llama** del mechero es azul, mientras que la **llama** de los Andes tiene lana blanca". ¿Cuál es la principal diferencia entre estas dos palabras polisémicas?
 
-### Options
+### Opciones
 - [ ] A) No hay diferencia, ambas vienen del fuego. <!-- feedback: Incorrecto. Una es fuego y la otra es un animal. -->
 - [ ] B) Una es una acción (verbo) y la otra es un objeto. <!-- feedback: Incorrecto. En este caso ambas funcionan como sustantivos. -->
 - [x] C) Una se refiere a un fenómeno físico (fuego) y la otra a un ser vivo (mamífero). <!-- feedback: Correcto. Es la distinción exacta de los significados. -->
@@ -112,13 +117,13 @@ Identificar la categoría de los significados (ser vivo vs. fenómeno físico) a
 **ID:** `CO-LEN-4-2026-W02-palabras-polisemicas-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** Un taller de costura en Itagüí, Antioquia
+**Contexto:** Un taller de costura en Itagüí, Antioquia
 **Expected_Success:** 0.68
 
 ### Enunciado
 En una fábrica de ropa, la jefa dice: "Necesito que revisen el **ojo** de la aguja y que también le echen un **ojo** al inventario". ¿Qué significa la expresión "echar un ojo"?
 
-### Options
+### Opciones
 - [x] A) Observar o revisar algo con atención. <!-- feedback: Correcto. Es un uso figurado de la palabra "ojo" dentro de la polisemia. -->
 - [ ] B) Lanzar un ojo de vidrio a la mercancía. <!-- feedback: Incorrecto. Es una interpretación literal errónea de una expresión figurada. -->
 - [ ] C) Coser una parte del inventario. <!-- feedback: Incorrecto. No se relaciona con la costura en ese sentido. -->
@@ -134,13 +139,13 @@ La polisemia a menudo se extiende a frases idiomáticas. "Ojo" como parte de la 
 **ID:** `CO-LEN-4-2026-W02-palabras-polisemicas-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** Un consultorio odontológico en Bucaramanga
+**Contexto:** Un consultorio odontológico en Bucaramanga
 **Expected_Success:** 0.62
 
 ### Enunciado
 El odontólogo le dice al paciente: "La **corona** de su diente está bien, pero el rey perdió su **corona** de oro". ¿Qué tienen en común estos dos significados de la palabra "corona"?
 
-### Options
+### Opciones
 - [ ] A) Que ambas se pueden comer. <!-- feedback: Incorrecto. Ninguna es comestible. -->
 - [x] B) Que ambas se ubican en la parte superior de algo (el diente o la cabeza). <!-- feedback: Correcto. Muchas palabras polisémicas comparten una característica de forma o posición. -->
 - [ ] C) Que ambas son de color blanco. <!-- feedback: Incorrecto. La del rey suele ser de oro (amarilla). -->
@@ -156,13 +161,13 @@ Ayudar al estudiante a ver la relación analógica (posición superior) entre lo
 **ID:** `CO-LEN-4-2026-W02-palabras-polisemicas-001-MASTERY-v7`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** Redacción de un periódico escolar en Neiva
+**Contexto:** Redacción de un periódico escolar en Neiva
 **Expected_Success:** 0.58
 
 ### Enunciado
 Un estudiante escribe: "La **hoja** de la planta es verde y la **hoja** del cuchillo está afilada". Si el estudiante quisiera evitar la polisemia para ser más preciso, ¿por qué otra palabra podría cambiar "hoja" en la segunda frase?
 
-### Options
+### Opciones
 - [ ] A) Rama. <!-- feedback: Incorrecto. Un cuchillo no tiene ramas. -->
 - [ ] B) Papel. <!-- feedback: Incorrecto. Cambiaría el significado por completo. -->
 - [x] C) Lámina o filo. <!-- feedback: Correcto. Son términos más específicos para la parte metálica del cuchillo. -->
@@ -178,13 +183,13 @@ La precisión léxica es un objetivo de Grado 4. Reconocer que una palabra es po
 **ID:** `CO-LEN-4-2026-W02-palabras-polisemicas-001-MASTERY-v8`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** Una biblioteca pública en Cali
+**Contexto:** Una biblioteca pública en Cali
 **Expected_Success:** 0.55
 
 ### Enunciado
 Observa la palabra **"Cabo"**. ¿En qué oración se usa con el significado de "extremo de una cuerda"?
 
-### Options
+### Opciones
 - [ ] A) El **cabo** Rodríguez saludó a su superior. <!-- feedback: Incorrecto. Aquí se refiere a un rango militar. -->
 - [x] B) El marinero amarró el **cabo** al muelle para que el barco no se fuera. <!-- feedback: Correcto. En náutica y uso general, cabo es una cuerda. -->
 - [ ] C) Viajamos hasta el **Cabo** de la Vela en la Guajira. <!-- feedback: Incorrecto. Aquí se refiere a un accidente geográfico (punta de tierra que se mete al mar). -->

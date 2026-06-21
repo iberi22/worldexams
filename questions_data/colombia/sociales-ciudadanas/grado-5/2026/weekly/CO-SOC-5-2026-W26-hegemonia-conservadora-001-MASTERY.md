@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "hegemonia-conservadora"
-semana: "W26"
+week: "W26"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Colombia siglo XX: Hegemonia conservadora (1886-1930)"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W26-hegemonia-conservadora-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que fue la Hegemonia Conservadora?
@@ -39,12 +44,13 @@ La Hegemonia Conservadora fue el periodo de 44 anos (1886-1930) en que el Partid
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W26-hegemonia-conservadora-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que hecho historico ocurrio en 1903 que marco el inicio del siglo XX colombiano?
@@ -60,12 +66,13 @@ El 3 de noviembre de 1903, Panama se separo de Colombia con apoyo de Estados Uni
 
 ---
 
-## Pregunta 3 [D1]
+## Question 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W26-hegemonia-conservadora-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que presidente conservador implanto la Constitucion de 1886 y empezo la Hegemonia?
@@ -81,12 +88,13 @@ Rafael Nunez, lider del movimiento de la 'Regeneracion', promovio la Constitucio
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W26-hegemonia-conservadora-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que relacion tenia el gobierno conservador con la Iglesia Catolica?
@@ -102,12 +110,13 @@ Bajo la Hegemonia Conservadora, se firmo el Concordato con la Santa Sede (1887).
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W26-hegemonia-conservadora-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que recurso natural se convirtio en el principal producto de exportacion a principios del siglo XX?
@@ -123,12 +132,13 @@ El cafe se convirtio en el principal producto de exportacion colombiano a partir
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W26-hegemonia-conservadora-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que fue la 'Masacre de las Bananeras'?
@@ -144,12 +154,13 @@ En 1928, trabajadores de la United Fruit Company (Cienaga, Magdalena) protestaro
 
 ---
 
-## Pregunta 7 [D1]
+## Question 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W26-hegemonia-conservadora-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que lider politico denuncio la Masacre de las Bananeras?
@@ -165,12 +176,13 @@ Jorge Eliecer Gaitan, entonces joven abogado y congresista, denuncio la masacre 
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W26-hegemonia-conservadora-001-MASTERY-v8`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Como empezo la aviacion comercial en Colombia?
@@ -186,12 +198,13 @@ Scadta (hoy Avianca) fue fundada en Barranquilla en 1919 por alemanes y colombia
 
 ---
 
-## Pregunta 9 [D3]
+## Question 9 [D3]
 
 **ID:** `CO-SOC-5-2026-W26-hegemonia-conservadora-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por que termino la Hegemonia Conservadora en 1930?
@@ -207,12 +220,13 @@ En 1930, el Partido Conservador se presento dividido en dos candidatos, permitie
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W26-hegemonia-conservadora-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cual fue el legado de la Hegemonia Conservadora?

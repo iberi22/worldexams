@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-8-2026-P3-comprehensive-001-MASTERY"
+id: "CO-MAT-8-2026-P3-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "matematicas"
@@ -19,7 +19,12 @@ rubric_baseline: "factorización, función afín y lineal, probabilidad compuest
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Factorización, Función Afín y Probabilidad Compuesta
 
@@ -31,13 +36,14 @@ Este bundle cubre factorización de polinomios, funciones afines y lineales, y p
 
 **ID:** `CO-MAT-8-2026-P3-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Un estudiante en Bogotá empieza a estudiar factorización.
+**Contexto:** Un estudiante en Bogotá empieza a estudiar factorización.
 
 ### Enunciado
 ¿Cuál es el factor común de la expresión $6x^2 + 3x$?
 
-### Options
+### Opciones
 - [ ] A) $3$ <!-- feedback: Incorrect. Aunque 3 divide a ambos términos, también comparten $x$. -->
 - [ ] B) $x$ <!-- feedback: Incorrect. Aunque $x$ está en ambos términos, también comparten el 3. -->
 - [x] C) $3x$ <!-- feedback: Correct. $6x^2 + 3x = 3x(2x + 1)$. 3 es el MCD de 6 y 3, y $x$ es la variable común de menor exponente. -->
@@ -52,13 +58,14 @@ La factorización por factor común consiste en extraer el máximo común diviso
 
 **ID:** `CO-MAT-8-2026-P3-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En una clase en Medellín, la profesora explica la factorización de trinomios.
+**Contexto:** En una clase en Medellín, la profesora explica la factorización de trinomios.
 
 ### Enunciado
 ¿Cuál es la factorización de $x^2 + 5x + 6$?
 
-### Options
+### Opciones
 - [ ] A) $(x + 1)(x + 5)$ <!-- feedback: Incorrect. $(x+1)(x+5) = x^2 + 6x + 5$, no $x^2 + 5x + 6$. -->
 - [x] B) $(x + 2)(x + 3)$ <!-- feedback: Correct. Se buscan dos números que sumados den 5 y multiplicados den 6: 2 y 3. -->
 - [ ] C) $(x + 6)(x + 1)$ <!-- feedback: Incorrect. $(x+6)(x+1) = x^2 + 7x + 6$. -->
@@ -73,13 +80,14 @@ Para factorizar $x^2 + bx + c$, se buscan dos números $p$ y $q$ tales que $p + 
 
 **ID:** `CO-MAT-8-2026-P3-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Un estudiante en Cali factoriza $x^2 - 9$ como $(x - 3)^2$.
+**Contexto:** Un estudiante en Cali factoriza $x^2 - 9$ como $(x - 3)^2$.
 
 ### Enunciado
 ¿Es correcta la factorización?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque $x^2 - 9$ es un trinomio cuadrado perfecto. <!-- feedback: Incorrect. $x^2 - 9$ es una diferencia de cuadrados, no un TCP. -->
 - [x] B) No, porque $x^2 - 9 = (x + 3)(x - 3)$ (diferencia de cuadrados). <!-- feedback: Correct. $x^2 - 9 = x^2 - 3^2 = (x+3)(x-3)$. -->
 - [ ] C) Sí, porque $(x-3)^2 = x^2 - 6x + 9$, que es lo mismo. <!-- feedback: Incorrect. $(x-3)^2 = x^2 - 6x + 9$, que no es igual a $x^2 - 9$. -->
@@ -94,13 +102,14 @@ No confundir diferencia de cuadrados ($a^2 - b^2$) con el cuadrado de un binomio
 
 **ID:** `CO-MAT-8-2026-P3-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En un taller en Barranquilla, los estudiantes deben identificar la diferencia entre función afín y función lineal.
+**Contexto:** En un taller en Barranquilla, los estudiantes deben identificar la diferencia entre función afín y función lineal.
 
 ### Enunciado
 ¿Cuál de las siguientes funciones es una función lineal (proporcionalidad directa)?
 
-### Options
+### Opciones
 - [ ] A) $f(x) = 2x + 3$ <!-- feedback: Incorrect. Es una función afín porque tiene término independiente ($b=3$). -->
 - [x] B) $f(x) = -5x$ <!-- feedback: Correct. Es lineal porque tiene la forma $f(x) = mx$ con $b=0$. -->
 - [ ] C) $f(x) = 7$ <!-- feedback: Incorrect. Es una función constante. -->
@@ -115,13 +124,14 @@ Una función lineal (proporcionalidad directa) tiene la forma $f(x) = mx$ con $b
 
 **ID:** `CO-MAT-8-2026-P3-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Un estudiante debe factorizar $4x^2 - 9y^2$.
+**Contexto:** Un estudiante debe factorizar $4x^2 - 9y^2$.
 
 ### Enunciado
 ¿Cuál es la factorización correcta?
 
-### Options
+### Opciones
 - [ ] A) $(2x - 3y)^2$ <!-- feedback: Incorrect. $(2x-3y)^2 = 4x^2 - 12xy + 9y^2$. -->
 - [x] B) $(2x + 3y)(2x - 3y)$ <!-- feedback: Correct. Es una diferencia de cuadrados: $(2x)^2 - (3y)^2 = (2x+3y)(2x-3y)$. -->
 - [ ] C) $(4x + 9y)(4x - 9y)$ <!-- feedback: Incorrect. $(4x)^2 = 16x^2$, no $4x^2$. -->
@@ -136,13 +146,14 @@ La diferencia de cuadrados $a^2 - b^2$ se factoriza como $(a+b)(a-b)$. Es import
 
 **ID:** `CO-MAT-8-2026-P3-comprehensive-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Una fábrica de muebles en Bogotá tiene costos fijos de 5 millones de pesos al mes y un costo de producción de 200.000 pesos por mueble.
+**Contexto:** Una fábrica de muebles en Bogotá tiene costos fijos de 5 millones de pesos al mes y un costo de producción de 200.000 pesos por mueble.
 
 ### Enunciado
 Si $x$ es el número de muebles producidos al mes, ¿cuál función representa el costo total mensual $C(x)$ en millones de pesos?
 
-### Options
+### Opciones
 - [ ] A) $C(x) = 200x + 5$ <!-- feedback: Incorrect. 200 está en miles, no en millones. -->
 - [x] B) $C(x) = 0.2x + 5$ <!-- feedback: Correct. 200.000 pesos = 0.2 millones. $C(x) = 0.2x + 5$ millones. -->
 - [ ] C) $C(x) = 5x + 0.2$ <!-- feedback: Incorrect. Se intercambiaron los coeficientes. -->
@@ -157,13 +168,14 @@ La función afín $f(x) = mx + b$ modela costos totales donde $m$ es el costo va
 
 **ID:** `CO-MAT-8-2026-P3-comprehensive-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En un juego de azar en un colegio de Bucaramanga, se lanza un dado y una moneda al mismo tiempo.
+**Contexto:** En un juego de azar en un colegio de Bucaramanga, se lanza un dado y una moneda al mismo tiempo.
 
 ### Enunciado
 ¿Cuántos resultados posibles tiene este experimento?
 
-### Options
+### Opciones
 - [ ] A) 8 <!-- feedback: Incorrect. 6 caras del dado × 2 caras de la moneda = 12. -->
 - [ ] B) 6 <!-- feedback: Incorrect. Solo considera el dado, no la moneda. -->
 - [x] C) 12 <!-- feedback: Correct. Por el principio de multiplicación: 6 resultados del dado × 2 resultados de la moneda = 12 resultados. -->
@@ -178,13 +190,14 @@ El principio fundamental de conteo establece que si un evento A tiene $m$ formas
 
 **ID:** `CO-MAT-8-2026-P3-comprehensive-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Una bolsa contiene 3 bolas rojas, 2 azules y 5 verdes. Se extrae una bola al azar, se devuelve, y se extrae otra.
+**Contexto:** Una bolsa contiene 3 bolas rojas, 2 azules y 5 verdes. Se extrae una bola al azar, se devuelve, y se extrae otra.
 
 ### Enunciado
 ¿Cuál es la probabilidad de sacar primero una bola roja y luego una azul?
 
-### Options
+### Opciones
 - [ ] A) $\frac{1}{10}$ <!-- feedback: Incorrect. $\frac{3}{10} \times \frac{2}{10} = \frac{6}{100} = \frac{3}{50}$. -->
 - [ ] B) $\frac{6}{100}$ <!-- feedback: Correct, pero simplificando: $\frac{3}{10} \times \frac{2}{10} = \frac{6}{100} = \frac{3}{50}$. -->
 - [x] C) $\frac{3}{50}$ <!-- feedback: Correct. P(roja) = 3/10, P(azul) = 2/10. Como hay reemplazo, son independientes: (3/10)(2/10) = 6/100 = 3/50. -->
@@ -199,13 +212,14 @@ Para eventos independientes (con reemplazo), la probabilidad de que ambos ocurra
 
 **ID:** `CO-MAT-8-2026-P3-comprehensive-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Se tienen dos funciones: $f(x) = 3x + 2$ y $g(x) = 3x + 2$.
+**Contexto:** Se tienen dos funciones: $f(x) = 3x + 2$ y $g(x) = 3x + 2$.
 
 ### Enunciado
 ¿Qué se puede afirmar sobre estas dos funciones?
 
-### Options
+### Opciones
 - [x] A) Son la misma función, pues tienen la misma expresión algebraica. <!-- feedback: Correct. Misma pendiente y mismo intercepto. -->
 - [ ] B) Son paralelas, porque las dos tienen pendiente 3. <!-- feedback: Incorrect. Además de tener la misma pendiente, tienen el mismo intercepto, por lo que son idénticas. -->
 - [ ] C) Son perpendiculares. <!-- feedback: Incorrect. Para ser perpendiculares, el producto de pendientes debe ser -1. -->
@@ -220,13 +234,14 @@ Dos funciones afines $f(x) = m_1x + b_1$ y $g(x) = m_2x + b_2$ son idénticas si
 
 **ID:** `CO-MAT-8-2026-P3-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En una clase de probabilidad en Cali, se lanzan dos dados de seis caras.
+**Contexto:** En una clase de probabilidad en Cali, se lanzan dos dados de seis caras.
 
 ### Enunciado
 ¿Cuál es la probabilidad de que la suma de los dos dados sea 7?
 
-### Options
+### Opciones
 - [ ] A) $\frac{1}{6}$ <!-- feedback: Incorrect. Hay 6 combinaciones que suman 7 de 36 totales: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1). 6/36 = 1/6. Esta es la respuesta correcta. -->
 - [ ] B) $\frac{1}{12}$ <!-- feedback: Incorrect. 3/36 = 1/12 si solo se consideran 3 combinaciones. -->
 - [x] C) $\frac{1}{6}$ <!-- feedback: Correct. Hay 6 combinaciones favorables de 36 posibles: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1). Por lo tanto 6/36 = 1/6. -->
@@ -241,13 +256,14 @@ La probabilidad de un evento es el cociente entre casos favorables y casos posib
 
 **ID:** `CO-MAT-8-2026-P3-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Un estudiante factoriza la expresión $x^2 + 7x + 12$ como $(x + 4)(x + 3)$. Otro estudiante dice que la factorización correcta es $(x + 12)(x + 1)$.
+**Contexto:** Un estudiante factoriza la expresión $x^2 + 7x + 12$ como $(x + 4)(x + 3)$. Otro estudiante dice que la factorización correcta es $(x + 12)(x + 1)$.
 
 ### Enunciado
 ¿Quién tiene la razón?
 
-### Options
+### Opciones
 - [x] A) El primero, porque $(x+4)(x+3) = x^2 + 7x + 12$. <!-- feedback: Correct. 4+3=7 y 4×3=12. -->
 - [ ] B) El segundo, porque $(x+12)(x+1) = x^2 + 13x + 12$. <!-- feedback: Incorrect. 12+1=13, no 7. -->
 - [ ] C) Ambos, porque un trinomio puede tener múltiples factorizaciones. <!-- feedback: Incorrect. La factorización es única (salvo orden de factores). -->
@@ -262,13 +278,14 @@ Para verificar una factorización, se multiplican los factores. Si el resultado 
 
 **ID:** `CO-MAT-8-2026-P3-comprehensive-001-MASTERY-v12`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Un estudio de mercado en Bogotá encontró que la probabilidad de que una persona compre el producto A es 0.3, el producto B es 0.4, y la probabilidad de que compre ambos es 0.15.
+**Contexto:** Un estudio de mercado en Bogotá encontró que la probabilidad de que una persona compre el producto A es 0.3, el producto B es 0.4, y la probabilidad de que compre ambos es 0.15.
 
 ### Enunciado
 ¿Cuál es la probabilidad de que una persona compre al menos uno de los dos productos?
 
-### Options
+### Opciones
 - [ ] A) 0.7 <!-- feedback: Incorrect. 0.3 + 0.4 = 0.7, pero se resta la intersección. -->
 - [ ] B) 0.12 <!-- feedback: Incorrect. Se multiplicaron las probabilidades. -->
 - [x] C) 0.55 <!-- feedback: Correct. $P(A \cup B) = P(A) + P(B) - P(A \cap B) = 0.3 + 0.4 - 0.15 = 0.55$. -->
@@ -283,13 +300,14 @@ La probabilidad de la unión de dos eventos se calcula con $P(A \cup B) = P(A) +
 
 **ID:** `CO-MAT-8-2026-P3-comprehensive-001-MASTERY-v13`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Un estudiante dice: "Si la función $f(x) = -2x + 5$ es decreciente, entonces su pendiente es negativa y su gráfica baja de izquierda a derecha."
+**Contexto:** Un estudiante dice: "Si la función $f(x) = -2x + 5$ es decreciente, entonces su pendiente es negativa y su gráfica baja de izquierda a derecha."
 
 ### Enunciado
 ¿Es correcta la afirmación?
 
-### Options
+### Opciones
 - [x] A) Sí, porque $m = -2 < 0$ y las funciones con pendiente negativa son decrecientes. <!-- feedback: Correct. Pendiente negativa implica función decreciente, su gráfica desciende. -->
 - [ ] B) No, porque la pendiente es 5, no -2. <!-- feedback: Incorrect. En $f(x)=mx+b$, $m=-2$ es la pendiente y $b=5$ es el intercepto. -->
 - [ ] C) Sí, pero solo si el intercepto es positivo. <!-- feedback: Incorrect. El signo del intercepto no afecta si la función es creciente o decreciente. -->
@@ -304,13 +322,14 @@ La pendiente $m$ determina la monotonía de una función afín: $m > 0$ es creci
 
 **ID:** `CO-MAT-8-2026-P3-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Una urna tiene 4 bolas blancas y 6 negras. Se extraen dos bolas sin reemplazo.
+**Contexto:** Una urna tiene 4 bolas blancas y 6 negras. Se extraen dos bolas sin reemplazo.
 
 ### Enunciado
 ¿Cuál es la probabilidad de que ambas bolas sean blancas?
 
-### Options
+### Opciones
 - [ ] A) $\frac{4}{10} \times \frac{4}{10} = \frac{16}{100}$ <!-- feedback: Incorrect. Esto sería con reemplazo. Sin reemplazo, la segunda extracción cambia. -->
 - [ ] B) $\frac{4}{10} \times \frac{3}{9} = \frac{12}{90}$ <!-- feedback: Correct. P(1ra blanca) = 4/10. Sin reemplazo quedan 3 blancas de 9: P(2da blanca|1ra blanca) = 3/9. Producto = 12/90 = 2/15. -->
 - [ ] C) $\frac{4}{10} + \frac{3}{9} = \frac{66}{90}$ <!-- feedback: Incorrect. Las probabilidades se multiplican, no se suman. -->
@@ -325,13 +344,14 @@ En eventos dependientes (sin reemplazo), la probabilidad de que ambos ocurran es
 
 **ID:** `CO-MAT-8-2026-P3-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Reflexivo y Sistémico
-**Context:** Un administrador de un parque de diversiones en Medellín tiene dos juegos: el Juego A tiene una probabilidad de falla técnica del 2% y el Juego B del 3%. Los fallos son independientes entre sí.
+**Contexto:** Un administrador de un parque de diversiones en Medellín tiene dos juegos: el Juego A tiene una probabilidad de falla técnica del 2% y el Juego B del 3%. Los fallos son independientes entre sí.
 
 ### Enunciado
 ¿Cuál es la probabilidad de que al menos uno de los dos juegos falle durante un día de operación?
 
-### Options
+### Opciones
 - [ ] A) 5% <!-- feedback: Incorrect. 2% + 3% = 5%, pero esta suma no considera la intersección. -->
 - [x] B) 4.94% <!-- feedback: Correct. $P(A \cup B) = P(A) + P(B) - P(A \cap B) = 0.02 + 0.03 - (0.02)(0.03) = 0.05 - 0.0006 = 0.0494 = 4.94\%$. -->
 - [ ] C) 0.06% <!-- feedback: Incorrect. Esto es $0.02 \times 0.03 = 0.0006$, que es la probabilidad de que ambos fallen. -->

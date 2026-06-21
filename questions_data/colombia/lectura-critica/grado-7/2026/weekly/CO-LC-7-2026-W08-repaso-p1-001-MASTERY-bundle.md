@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W08-repaso-p1-001-MASTERY"
+id: "CO-LC-7-2026-W08-repaso-p1-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "repaso-p1"
-semana: "W08"
+week: "W08"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso del Primer Período - Grado 7
 ## Semana W08 — Síntesis de W01 a W07
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W08-repaso-p1-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comunicativa — lextora
-**Context:** En el examen bimestral del Colegio San Bartolomé de Bogotá, la profesora pregunta sobre conceptos vistos en el primer período.
+**Contexto:** En el examen bimestral del Colegio San Bartolomé de Bogotá, la profesora pregunta sobre conceptos vistos en el primer período.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Esta pregunta evalúa la comprensión de la función de la tesis dentro de la su
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W08-repaso-p1-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comunicativa — lextora
-**Context:** En el colegio de Chía, el profesor de Lectura Crítica repasa los tipos de texto según su propósito. Muestra: "Instrucciones para armar un mueble."
+**Contexto:** En el colegio de Chía, el profesor de Lectura Crítica repasa los tipos de texto según su propósito. Muestra: "Instrucciones para armar un mueble."
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -60,11 +64,11 @@ Un texto instructivo tiene como propósito guiar al lector para realizar una tar
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W08-repaso-p1-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Comunicativa — lextora
-**Context:** En clase de Lengua del Colegio San José de Pamplona, los estudiantes deben identificar el siguiente recurso: "La tarde sonreía con suavidad."
+**Contexto:** En clase de Lengua del Colegio San José de Pamplona, los estudiantes deben identificar el siguiente recurso: "La tarde sonreía con suavidad."
 **Expected_Success:** 0.79
 
 ### Enunciado
@@ -81,11 +85,11 @@ La personificación es una figura retórica que consiste en atribuir cualidades 
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W08-repaso-p1-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicativa — crítica
-**Context:** En el repaso bimestral del Colegio INEM de Bucaramanga, la profesora pregunta sobre la estructura de los textos argumentativos repasada en W01.
+**Contexto:** En el repaso bimestral del Colegio INEM de Bucaramanga, la profesora pregunta sobre la estructura de los textos argumentativos repasada en W01.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -102,11 +106,11 @@ Los contraargumentos son una estrategia argumentativa avanzada que consiste en a
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W08-repaso-p1-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Comunicativa — analítica
-**Context:** En el colegio de Zipaquirá, el profesor de Lectura Crítica presenta un texto cuya superestructura es: "Causas del fenómeno → Desarrollo → Consecuencias → Recomendaciones."
+**Contexto:** En el colegio de Zipaquirá, el profesor de Lectura Crítica presenta un texto cuya superestructura es: "Causas del fenómeno → Desarrollo → Consecuencias → Recomendaciones."
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -123,11 +127,11 @@ Recordando la W06, las superestructuras expositivas tienen varios subtipos. Esta
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W08-repaso-p1-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — crítica
-**Context:** En la evaluación bimestral del Colegio Británico de Cali, los estudiantes deben leer dos textos e identificar cuál tiene una superestructura argumentativa y cuál una expositiva.
+**Contexto:** En la evaluación bimestral del Colegio Británico de Cali, los estudiantes deben leer dos textos e identificar cuál tiene una superestructura argumentativa y cuál una expositiva.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -144,11 +148,11 @@ Esta pregunta integra conocimientos de W04 (intención autoral) y W05 (tipologí
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W08-repaso-p1-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — analítica
-**Context:** En el colegio de Yopal, los estudiantes analizan un texto de W03: "El gerente presentó la nueva hoja de ruta para el proyecto."
+**Contexto:** En el colegio de Yopal, los estudiantes analizan un texto de W03: "El gerente presentó la nueva hoja de ruta para el proyecto."
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Retomando W03, las expresiones metafóricas como "hoja de ruta" no pueden interp
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W08-repaso-p1-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — crítica
-**Context:** En el repaso final de período del Colegio Externado Nacional de Bogotá, la profesora evalúa si los estudiantes pueden distinguir entre tema y macroestructura.
+**Contexto:** En el repaso final de período del Colegio Externado Nacional de Bogotá, la profesora evalúa si los estudiantes pueden distinguir entre tema y macroestructura.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -186,11 +190,11 @@ Recordando W07, el tema ("calentamiento global") responde a "¿de qué trata?". 
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W08-repaso-p1-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Comunicativa — lextora
-**Context:** En el colegio de Sogamoso, el profesor de Lectura Crítica repasa la superestructura narrativa con el cuento "El gato con botas".
+**Contexto:** En el colegio de Sogamoso, el profesor de Lectura Crítica repasa la superestructura narrativa con el cuento "El gato con botas".
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -207,11 +211,11 @@ Recordando W06, la superestructura narrativa tiene tres partes: 1) Situación in
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W08-repaso-p1-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — analítica
-**Context:** En el examen bimestral del Colegio Militar de Medellín, los estudiantes deben analizar críticamente un texto que mezcla varias intenciones.
+**Contexto:** En el examen bimestral del Colegio Militar de Medellín, los estudiantes deben analizar críticamente un texto que mezcla varias intenciones.
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ Esta pregunta integra conceptos de W04 (intención autoral) y W05 (tipología te
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W08-repaso-p1-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — crítica
-**Context:** En el repaso del Colegio Colombo-Francés de Barranquilla, los estudiantes analizan cómo se relacionan la superestructura y la macroestructura.
+**Contexto:** En el repaso del Colegio Colombo-Francés de Barranquilla, los estudiantes analizan cómo se relacionan la superestructura y la macroestructura.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -249,11 +253,11 @@ Recordando W06 y W07, superestructura y macroestructura son conceptos complement
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W08-repaso-p1-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — analítica
-**Context:** En la evaluación final del período del Colegio de la Universidad Javeriana de Bogotá, los estudiantes deben identificar el concepto más importante de todo el período.
+**Contexto:** En la evaluación final del período del Colegio de la Universidad Javeriana de Bogotá, los estudiantes deben identificar el concepto más importante de todo el período.
 **Expected_Success:** 0.38
 
 ### Enunciado

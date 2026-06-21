@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY"
+id: "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-ciudadanas"
 tema: "contrarreforma"
-semana: "W05"
+week: "W05"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026 — Pensamiento Social"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Contrarreforma — Grado 7
 ## Semana W05 — La Contrarreforma católica y el Concilio de Trento
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En la clase de sociales del Colegio Alemán de Bogotá, el profesor pregunta qué fue la Contrarreforma.
+**Contexto:** En la clase de sociales del Colegio Alemán de Bogotá, el profesor pregunta qué fue la Contrarreforma.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La Contrarreforma (o Reforma Católica) fue el proceso de renovación interna de
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del colegio de Cali leen un texto sobre las decisiones del Concilio de Trento.
+**Contexto:** Los estudiantes del colegio de Cali leen un texto sobre las decisiones del Concilio de Trento.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ El Concilio de Trento (1545-1563), convocado por el Papa Pablo III, fue la respu
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En el colegio San José de Medellín, los estudiantes estudian las nuevas órdenes religiosas de la Contrarreforma.
+**Contexto:** En el colegio San José de Medellín, los estudiantes estudian las nuevas órdenes religiosas de la Contrarreforma.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -81,11 +85,11 @@ La Compañía de Jesús (jesuitas), fundada por el soldado español Ignacio de L
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Argumentación
-**Context:** En el colegio de Barranquilla, la profesora pregunta por qué la Iglesia católica fortaleció la Inquisición durante la Contrarreforma.
+**Contexto:** En el colegio de Barranquilla, la profesora pregunta por qué la Iglesia católica fortaleció la Inquisición durante la Contrarreforma.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -102,11 +106,11 @@ La Inquisición española (creada en 1478 por los Reyes Católicos) fue reforzad
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Cartagena, los estudiantes leen sobre el arte barroco como herramienta de la Contrarreforma.
+**Contexto:** En el colegio de Cartagena, los estudiantes leen sobre el arte barroco como herramienta de la Contrarreforma.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -123,11 +127,11 @@ El Concilio de Trento reafirmó que las imágenes religiosas eran útiles para l
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Pereira, la profesora explica cómo la Contrarreforma afectó a las colonias españolas en América.
+**Contexto:** En el colegio de Pereira, la profesora explica cómo la Contrarreforma afectó a las colonias españolas en América.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ La Contrarreforma tuvo un impacto directo en la América colonial: (1) los jesui
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Bucaramanga, los estudiantes comparan la Reforma Protestante y la Contrarreforma.
+**Contexto:** En el colegio de Bucaramanga, los estudiantes comparan la Reforma Protestante y la Contrarreforma.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Tanto protestantes como católicos entendieron la importancia de la educación, 
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Social
-**Context:** En la I.E. de Villavicencio, los estudiantes analizan por qué la Contrarreforma tuvo tanto éxito en España e Italia.
+**Contexto:** En la I.E. de Villavicencio, los estudiantes analizan por qué la Contrarreforma tuvo tanto éxito en España e Italia.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ España, bajo Carlos V y especialmente Felipe II, se convirtió en el principal 
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Cúcuta, los estudiantes analizan un decreto del Concilio de Trento sobre la música sacra.
+**Contexto:** En el colegio de Cúcuta, los estudiantes analizan un decreto del Concilio de Trento sobre la música sacra.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -207,11 +211,11 @@ El Concilio de Trento también abordó la música sacra, reaccionando contra la 
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Manizales, los estudiantes evalúan qué consecuencias tuvo la Contrarreforma para las mujeres.
+**Contexto:** En el colegio de Manizales, los estudiantes evalúan qué consecuencias tuvo la Contrarreforma para las mujeres.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -228,11 +232,11 @@ La Contrarreforma tuvo efectos ambivalentes para las mujeres. Por un lado, el Co
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Sincelejo, la profesora pregunta si la Contrarreforma fue solo una reacción al protestantismo o si tuvo un carácter propio.
+**Contexto:** En el colegio de Sincelejo, la profesora pregunta si la Contrarreforma fue solo una reacción al protestantismo o si tuvo un carácter propio.
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -249,11 +253,11 @@ La historiografía actual debate si es más adecuado hablar de "Contrarreforma" 
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** La profesora de sociales del colegio de Bogotá propone un debate final: ¿qué legado de la Contrarreforma perdura en la Colombia actual?
+**Contexto:** La profesora de sociales del colegio de Bogotá propone un debate final: ¿qué legado de la Contrarreforma perdura en la Colombia actual?
 **Expected_Success:** 0.42
 
 ### Enunciado

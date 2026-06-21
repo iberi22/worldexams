@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W30-textos-discontinuos-graficas-001-MASTERY"
+id: "CO-LEC-4-2026-W30-textos-discontinuos-graficas-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "textos-discontinuos-graficas"
-semana: "W30"
+week: "W30"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "gráficas, barras, pictogramas, interpretación visual"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W30: Textos discontinuos: gráficas sencillas
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W30-textos-discontinuos-graficas-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Gráfica.
+**Contexto:** Gráfica.
 
 ### Enunciado
 *"¿Qué muestra una gráfica de barras?"*
 
-### Options
-- [ ] A) Solo texto.
+### Opciones
+- [ ] A) Solo texto. <!-- feedback: Incorrecto. Solo texto. -->
 - [x] B) Datos visualmente en barras. <!-- feedback: Correcto. -->
-- [ ] C) Sonidos.
-- [ ] D) Imágenes.
+- [ ] C) Sonidos. <!-- feedback: Incorrecto. Sonidos. -->
+- [ ] D) Imágenes. <!-- feedback: Incorrecto. Imágenes. -->
 
 ### Explicación Pedagógica
 Qué es.
@@ -49,17 +54,18 @@ Qué es.
 
 **ID:** `CO-LEC-4-2026-W30-textos-discontinuos-graficas-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Eje.
+**Contexto:** Eje.
 
 ### Enunciado
 *"El eje vertical de una gráfica muestra..."*
 
-### Options
-- [ ] A) Las categorías.
+### Opciones
+- [ ] A) Las categorías. <!-- feedback: Incorrecto. Las categorías. -->
 - [x] B) Las cantidades. <!-- feedback: Correcto. -->
-- [ ] C) Los colores.
-- [ ] D) Los títulos.
+- [ ] C) Los colores. <!-- feedback: Incorrecto. Los colores. -->
+- [ ] D) Los títulos. <!-- feedback: Incorrecto. Los títulos. -->
 
 ### Explicación Pedagógica
 Eje.
@@ -70,17 +76,18 @@ Eje.
 
 **ID:** `CO-LEC-4-2026-W30-textos-discontinuos-graficas-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Leer gráfica.
+**Contexto:** Leer gráfica.
 
 ### Enunciado
 *"Barra más alta: 50, barra más baja: 10. ¿Cuál es el valor mayor?"*
 
-### Options
-- [ ] A) 10.
+### Opciones
+- [ ] A) 10. <!-- feedback: Incorrecto. 10. -->
 - [x] B) 50. <!-- feedback: Correcto. -->
-- [ ] C) 40.
-- [ ] D) 60.
+- [ ] C) 40. <!-- feedback: Incorrecto. 40. -->
+- [ ] D) 60. <!-- feedback: Incorrecto. 60. -->
 
 ### Explicación Pedagógica
 Leer.
@@ -91,17 +98,18 @@ Leer.
 
 **ID:** `CO-LEC-4-2026-W30-textos-discontinuos-graficas-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Comparar.
+**Contexto:** Comparar.
 
 ### Enunciado
 *"Barra A: 30, Barra B: 45. ¿Cuál es mayor?"*
 
-### Options
-- [ ] A) A.
+### Opciones
+- [ ] A) A. <!-- feedback: Incorrecto. A. -->
 - [x] B) B. <!-- feedback: Correcto. -->
-- [ ] C) Iguales.
-- [ ] D) No se ve.
+- [ ] C) Iguales. <!-- feedback: Incorrecto. Iguales. -->
+- [ ] D) No se ve. <!-- feedback: Incorrecto. No se ve. -->
 
 ### Explicación Pedagógica
 Comparar.
@@ -112,17 +120,18 @@ Comparar.
 
 **ID:** `CO-LEC-4-2026-W30-textos-discontinuos-graficas-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Pictograma.
+**Contexto:** Pictograma.
 
 ### Enunciado
 *"Un pictograma usa..."*
 
-### Options
-- [ ] A) Números solo.
+### Opciones
+- [ ] A) Números solo. <!-- feedback: Incorrecto. Números solo. -->
 - [x] B) Dibujos para representar cantidades. <!-- feedback: Correcto. -->
-- [ ] C) Letras.
-- [ ] D) Sonidos.
+- [ ] C) Letras. <!-- feedback: Incorrecto. Letras. -->
+- [ ] D) Sonidos. <!-- feedback: Incorrecto. Sonidos. -->
 
 ### Explicación Pedagógica
 Pictograma.
@@ -133,17 +142,18 @@ Pictograma.
 
 **ID:** `CO-LEC-4-2026-W30-textos-discontinuos-graficas-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Interpretar.
+**Contexto:** Interpretar.
 
 ### Enunciado
 *"Gráfica: lunes: 5 libros, martes: 8, miércoles: 3. ¿Día con más libros?"*
 
-### Options
-- [ ] A) Lunes.
+### Opciones
+- [ ] A) Lunes. <!-- feedback: Incorrecto. Lunes. -->
 - [x] B) Martes. <!-- feedback: Correcto. -->
-- [ ] C) Miércoles.
-- [ ] D) Todos.
+- [ ] C) Miércoles. <!-- feedback: Incorrecto. Miércoles. -->
+- [ ] D) Todos. <!-- feedback: Incorrecto. Todos. -->
 
 ### Explicación Pedagógica
 Interpretar.
@@ -154,17 +164,18 @@ Interpretar.
 
 **ID:** `CO-LEC-4-2026-W30-textos-discontinuos-graficas-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Total.
+**Contexto:** Total.
 
 ### Enunciado
 *"Suma: 5+8+3 de la gráfica. ¿Total de libros?"*
 
-### Options
-- [ ] A) 15.
+### Opciones
+- [ ] A) 15. <!-- feedback: Incorrecto. 15. -->
 - [x] B) 16. <!-- feedback: Correcto. -->
-- [ ] C) 17.
-- [ ] D) 18.
+- [ ] C) 17. <!-- feedback: Incorrecto. 17. -->
+- [ ] D) 18. <!-- feedback: Incorrecto. 18. -->
 
 ### Explicación Pedagógica
 Calcular total.
@@ -175,17 +186,18 @@ Calcular total.
 
 **ID:** `CO-LEC-4-2026-W30-textos-discontinuos-graficas-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Analizar tendencia.
+**Contexto:** Analizar tendencia.
 
 ### Enunciado
 *"Gráfica: lunes 10, martes 15, miércoles 20. ¿Qué tendencia hay?"*
 
-### Options
-- [ ] A) Baja.
+### Opciones
+- [ ] A) Baja. <!-- feedback: Incorrecto. Baja. -->
 - [x] B) Sube. <!-- feedback: Correcto. -->
-- [ ] C) Constante.
-- [ ] D) No hay.
+- [ ] C) Constante. <!-- feedback: Incorrecto. Constante. -->
+- [ ] D) No hay. <!-- feedback: Incorrecto. No hay. -->
 
 ### Explicación Pedagógica
 Tendencia.
@@ -196,17 +208,18 @@ Tendencia.
 
 **ID:** `CO-LEC-4-2026-W30-textos-discontinuos-graficas-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** ¿Qué preguntas responde?
+**Contexto:** ¿Qué preguntas responde?
 
 ### Enunciado
 *"¿Qué tipo de preguntas responde una gráfica?"*
 
-### Options
+### Opciones
 - [x] A) ¿Cuánto?, ¿Cuál es mayor?. <!-- feedback: Correcto. -->
 - [ ] B) ¿Por qué? (causas). <!-- feedback: Eso no se ve en gráfica simple. -->
-- [ ] C) ¿Cómo se siente?.
-- [ ] D) ¿Quién lo hizo?.
+- [ ] C) ¿Cómo se siente?. <!-- feedback: Incorrecto. ¿Cómo se siente?. -->
+- [ ] D) ¿Quién lo hizo?. <!-- feedback: Incorrecto. ¿Quién lo hizo?. -->
 
 ### Explicación Pedagógica
 Tipo preguntas.
@@ -217,17 +230,18 @@ Tipo preguntas.
 
 **ID:** `CO-LEC-4-2026-W30-textos-discontinuos-graficas-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Evaluar.
+**Contexto:** Evaluar.
 
 ### Enunciado
 *"¿Son útiles las gráficas para entender datos rápido?"*
 
-### Options
-- [ ] A) No, confunden.
+### Opciones
+- [ ] A) No, confunden. <!-- feedback: Incorrecto. No, confunden. -->
 - [x] B) Sí, resumen mucha información visualmente. <!-- feedback: Correcto. -->
-- [ ] C) Son decorativas.
-- [ ] D) Solo para niños.
+- [ ] C) Son decorativas. <!-- feedback: Incorrecto. Son decorativas. -->
+- [ ] D) Solo para niños. <!-- feedback: Incorrecto. Solo para niños. -->
 
 ### Explicación Pedagógica
 Utilidad.

@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W03-la-celula-funciones-vitales-001-MASTERY"
+id: "CO-CIE-6-2026-W03-la-celula-funciones-vitales-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W03 — La Célula: Funciones Vitales
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W03-la-celula-funciones-vitales-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, los estudiantes inician el tema de funciones celulares con un video interactivo.
+**Contexto:** En Bogotá, los estudiantes inician el tema de funciones celulares con un video interactivo.
 
 ### Enunciado
 ¿Cuáles son las tres funciones vitales de los seres vivos?
 
-### Options
+### Opciones
 - [ ] A) Respirar, dormir y comer <!-- feedback: Incorrecto. Dormir no es una función vital esencial. -->
 - [x] B) Nutrición, relación y reproducción <!-- feedback: Correcto. Estas tres funciones definen a todos los seres vivos. -->
 - [ ] C) Crecer, moverse y pensar <!-- feedback: Incorrecto. Pensar no es una función de todos los seres vivos. -->
@@ -53,13 +56,14 @@ Un ser vivo debe cumplir estas tres funciones. Un virus, por ejemplo, no cumple 
 
 **ID:** `CO-CIE-6-2026-W03-la-celula-funciones-vitales-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, estudiantes aprenden sobre transporte celular con una simulación digital.
+**Contexto:** En Medellín, estudiantes aprenden sobre transporte celular con una simulación digital.
 
 ### Enunciado
 ¿Qué es la difusión simple en las células?
 
-### Options
+### Opciones
 - [ ] A) El transporte de sustancias con gasto de energía <!-- feedback: Incorrecto. La difusión simple es pasiva, sin gasto de energía. -->
 - [x] B) El paso de sustancias pequeñas a través de la membrana sin gasto de energía, de mayor a menor concentración <!-- feedback: Correcto. La difusión es un proceso pasivo. -->
 - [ ] C) La entrada de partículas grandes mediante una vesícula <!-- feedback: Incorrecto. Eso es endocitosis, que requiere energía. -->
@@ -79,13 +83,14 @@ La difusión es fundamental para que las células obtengan nutrientes y eliminen
 
 **ID:** `CO-CIE-6-2026-W03-la-celula-funciones-vitales-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, los estudiantes comparan transporte pasivo y activo en un laboratorio virtual.
+**Contexto:** En Cali, los estudiantes comparan transporte pasivo y activo en un laboratorio virtual.
 
 ### Enunciado
 ¿Cuál es la diferencia entre transporte pasivo y activo en la membrana celular?
 
-### Options
+### Opciones
 - [ ] A) El pasivo solo ocurre en plantas <!-- feedback: Incorrecto. Ocurre en todo tipo de células. -->
 - [ ] B) El activo no necesita membrana <!-- feedback: Incorrecto. Ambos necesitan la membrana celular. -->
 - [x] C) El pasivo no requiere energía (a favor del gradiente), el activo requiere energía (contra el gradiente) <!-- feedback: Correcto. El gasto de energía es la diferencia clave. -->
@@ -102,13 +107,14 @@ El transporte a través de la membrana celular se clasifica según requiera o no
 
 **ID:** `CO-CIE-6-2026-W03-la-celula-funciones-vitales-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, estudiantes analizan el proceso de fotosíntesis en células vegetales.
+**Contexto:** En Barranquilla, estudiantes analizan el proceso de fotosíntesis en células vegetales.
 
 ### Enunciado
 ¿Qué función vital cumple la fotosíntesis en las plantas?
 
-### Options
+### Opciones
 - [ ] A) Reproducción <!-- feedback: Incorrecto. La fotosíntesis no produce nuevos individuos. -->
 - [x] B) Nutrición (autótrofa) <!-- feedback: Correcto. La fotosíntesis permite a las plantas fabricar su propio alimento. -->
 - [ ] C) Relación <!-- feedback: Incorrecto. La fotosíntesis no es una respuesta a estímulos. -->
@@ -130,13 +136,14 @@ Las plantas son organismos **autótrofos** (fabrican su propio alimento), a dife
 
 **ID:** `CO-CIE-6-2026-W03-la-celula-funciones-vitales-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, estudiantes realizan un experimento con pasas en agua.
+**Contexto:** En Bucaramanga, estudiantes realizan un experimento con pasas en agua.
 
 ### Enunciado
 Si pones una pasa (uva deshidratada) en un vaso con agua y al día siguiente está más grande y arrugada, ¿qué proceso celular ocurrió?
 
-### Options
+### Opciones
 - [ ] A) Fotosíntesis <!-- feedback: Incorrecto. No hay cloroplastos en las pasas. -->
 - [ ] B) Transporte activo <!-- feedback: Incorrecto. No requiere energía; el agua se mueve pasivamente. -->
 - [x] C) Ósmosis (transporte de agua a través de la membrana) <!-- feedback: Correcto. El agua pasó del vaso (mayor concentración de agua) a la pasa (menor concentración). -->
@@ -159,13 +166,14 @@ La ósmosis es crucial en los seres vivos: las raíces absorben agua del suelo p
 
 **ID:** `CO-CIE-6-2026-W03-la-celula-funciones-vitales-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, estudiantes analizan una situación cotidiana de respiración celular.
+**Contexto:** En Cartagena, estudiantes analizan una situación cotidiana de respiración celular.
 
 ### Enunciado
 Después de correr, sientes que te falta el aire y te duele el cuerpo. ¿Qué proceso celular explica esto?
 
-### Options
+### Opciones
 - [ ] A) Las células dejaron de funcionar <!-- feedback: Incorrecto. Las células siguen funcionando, pero necesitan más oxígeno. -->
 - [ ] B) La fotosíntesis se detuvo <!-- feedback: Incorrecto. La fotosíntesis ocurre en plantas, no en animales. -->
 - [x] C) La respiración celular aumentó para producir más energía (ATP), consumiendo más oxígeno y produciendo más CO₂ <!-- feedback: Correcto. El aumento de actividad requiere más energía. -->
@@ -185,13 +193,14 @@ Al correr, los músculos necesitan más ATP para la contracción. La respiració
 
 **ID:** `CO-CIE-6-2026-W03-la-celula-funciones-vitales-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, estudiantes analizan el ciclo del carbono entre fotosíntesis y respiración.
+**Contexto:** En Pereira, estudiantes analizan el ciclo del carbono entre fotosíntesis y respiración.
 
 ### Enunciado
 ¿Cómo se relacionan la fotosíntesis y la respiración celular en el ciclo del carbono?
 
-### Options
+### Opciones
 - [ ] A) No tienen relación porque ocurren en organismos diferentes <!-- feedback: Incorrecto. Están estrechamente relacionadas. -->
 - [ ] B) Ambas producen oxígeno <!-- feedback: Incorrecto. Solo la fotosíntesis produce oxígeno; la respiración lo consume. -->
 - [x] C) Los productos de una son los reactivos de la otra: la fotosíntesis produce glucosa y oxígeno que usa la respiración, y la respiración produce CO₂ y agua que usa la fotosíntesis <!-- feedback: Correcto. Son procesos complementarios. -->
@@ -216,13 +225,14 @@ Este ciclo es la base del equilibrio de gases en la atmósfera: el CO₂ que exh
 
 **ID:** `CO-CIE-6-2026-W03-la-celula-funciones-vitales-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, estudiantes analizan la reproducción asexual en bacterias.
+**Contexto:** En Manizales, estudiantes analizan la reproducción asexual en bacterias.
 
 ### Enunciado
 Una bacteria se divide en dos cada 20 minutos. ¿Por qué este proceso es considerado reproducción?
 
-### Options
+### Opciones
 - [ ] A) Porque la bacteria se está alimentando <!-- feedback: Incorrecto. La alimentación es nutrición, no reproducción. -->
 - [ ] B) Porque se está moviendo <!-- feedback: Incorrecto. El movimiento es parte de la función de relación. -->
 - [x] C) Porque genera nuevos individuos a partir de uno solo, perpetuando la especie <!-- feedback: Correcto. La reproducción crea nuevos organismos. -->
@@ -246,12 +256,12 @@ Esta reproducción rápida es la razón por la que las infecciones bacterianas p
 **ID:** `CO-CIE-6-2026-W03-la-celula-funciones-vitales-009-v1`
 **Bloom:** Evaluate
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, estudiantes evalúan el uso de fertilizantes en cultivos colombianos.
+**Contexto:** En Cúcuta, estudiantes evalúan el uso de fertilizantes en cultivos colombianos.
 
 ### Enunciado
 Un agricultor en el Cauca riega sus plantas con agua salada y las plantas se marchitan. ¿Cuál es la mejor explicación científica?
 
-### Options
+### Opciones
 - [ ] A) Las plantas odian la sal <!-- feedback: Incorrecto. No es una explicación científica. -->
 - [ ] B) La sal daña las raíces físicamente <!-- feedback: Incorrecto. El daño no es físico, es osmótico. -->
 - [x] C) El agua salada tiene menor concentración de agua que las células vegetales, por lo que el agua sale de las raíces por ósmosis, deshidratando la planta <!-- feedback: Correcto. La planta pierde agua en lugar de absorberla. -->
@@ -272,13 +282,14 @@ Este es un problema real en Colombia y el mundo: la **salinización del suelo** 
 
 **ID:** `CO-CIE-6-2026-W03-la-celula-funciones-vitales-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, estudiantes evalúan si un cristal de sal que "crece" es un ser vivo.
+**Contexto:** En Ibagué, estudiantes evalúan si un cristal de sal que "crece" es un ser vivo.
 
 ### Enunciado
 Un estudiante dice que los cristales de sal son seres vivos porque "crecen". ¿Por qué está equivocado?
 
-### Options
+### Opciones
 - [ ] A) Porque los cristales no tienen núcleo <!-- feedback: Incorrecto. Los cristales ni siquiera son células. -->
 - [ ] B) Porque los cristales no se mueven <!-- feedback: Incorrecto. Algunos seres vivos no se mueven (plantas). -->
 - [x] C) Porque los cristales no cumplen las tres funciones vitales (nutrición, relación y reproducción) — solo acumulan moléculas sin metabolismo ni reproducción celular <!-- feedback: Correcto. El crecimiento de un cristal no implica funciones vitales. -->

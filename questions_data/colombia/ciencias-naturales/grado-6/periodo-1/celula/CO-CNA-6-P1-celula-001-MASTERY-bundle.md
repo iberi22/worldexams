@@ -1,5 +1,5 @@
 ---
-id: "CO-CNA-6-P1-celula-001-MASTERY"
+id: "CO-CNA-6-P1-celula-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "biologia_celular, organelos, funciones_vitales"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: La Célula: Unidad Funcional de la Vida
 
@@ -33,7 +40,7 @@ Este bundle evalúa el reconocimiento de la célula como unidad básica de los s
 ### Enunciado
 ¿Cuál es la parte de la célula que contiene el material genético (ADN) y dirige todas sus funciones?
 
-### Options
+### Opciones
 - [ ] A) Citoplasma <!-- feedback: Incorrecto. El citoplasma es la sustancia gelatinosa donde flotan los organelos. -->
 - [x] B) Núcleo <!-- feedback: Correcto. El núcleo es el centro de control de la célula eucariota donde se encuentra el ADN. -->
 - [ ] C) Membrana celular <!-- feedback: Incorrecto. La membrana es la capa externa que protege y delimita la célula. -->
@@ -53,7 +60,7 @@ El núcleo es el organelo más prominente en las células animales y vegetales, 
 ### Enunciado
 ¿Cómo se llaman los seres vivos que están formados por una sola célula?
 
-### Options
+### Opciones
 - [ ] A) Pluricelulares <!-- feedback: Incorrecto. Estos están formados por muchas células. -->
 - [x] B) Unicelulares <!-- feedback: Correcto. "Uni" significa uno, como las bacterias o las levaduras. -->
 - [ ] C) Gigantes <!-- feedback: Incorrecto. El tamaño no define el número de células. -->
@@ -73,7 +80,7 @@ La clasificación según el número de células divide a los seres vivos en unic
 ### Enunciado
 ¿Cuál es la principal diferencia entre una célula **procariota** y una **eucariota**?
 
-### Options
+### Opciones
 - [ ] A) La procariota es mucho más grande. <!-- feedback: Incorrecto. Generalmente las procariotas son más pequeñas. -->
 - [x] B) La eucariota tiene un núcleo definido por una membrana, mientras que la procariota no. <!-- feedback: Correcto. Esta es la distinción fundamental entre bacterias (procariotas) y el resto de seres vivos (eucariotas). -->
 - [ ] C) Solo las eucariotas tienen ADN. <!-- feedback: Incorrecto. Todas las células tienen ADN para poder reproducirse. -->
@@ -96,7 +103,7 @@ Un estudiante observa por el microscopio una célula que tiene una **pared celul
 ### Enunciado
 ¿Qué tipo de célula está observando el estudiante?
 
-### Options
+### Opciones
 - [ ] A) Célula animal. <!-- feedback: Incorrecto. Las células animales no tienen pared celular ni cloroplastos. -->
 - [x] B) Célula vegetal. <!-- feedback: Correcto. La pared celular y los cloroplastos (para la fotosíntesis) son exclusivos de las plantas. -->
 - [ ] C) Una bacteria. <!-- feedback: Incorrecto. Aunque las bacterias tienen pared, no tienen cloroplastos complejos. -->
@@ -116,7 +123,7 @@ Las células vegetales se distinguen de las animales por estructuras que les per
 ### Enunciado
 ¿Cuál es la función de las **mitocondrias** en la célula?
 
-### Options
+### Opciones
 - [ ] A) Almacenar agua. <!-- feedback: Incorrecto. Esta es la función de las vacuolas. -->
 - [x] B) Realizar la respiración celular para obtener energía. <!-- feedback: Correcto. Se les conoce como las "centrales eléctricas" de la célula. -->
 - [ ] C) Fabricar proteínas. <!-- feedback: Incorrecto. Esto lo hacen los ribosomas. -->
@@ -139,7 +146,7 @@ La membrana celular es descrita como "semipermeable".
 ### Enunciado
 ¿Qué significa que la membrana celular sea semipermeable?
 
-### Options
+### Opciones
 - [ ] A) Que deja pasar todo lo que hay afuera. <!-- feedback: Incorrecto. Si pasara todo, la célula moriría o se contaminaría. -->
 - [x] B) Que selecciona qué sustancias entran y cuáles salen de la célula. <!-- feedback: Correcto. Regula el equilibrio interno permitiendo el paso de nutrientes y la salida de desechos. -->
 - [ ] C) Que el agua no puede entrar nunca. <!-- feedback: Incorrecto. El agua entra y sale mediante el proceso de ósmosis. -->
@@ -159,7 +166,7 @@ La permeabilidad selectiva de la membrana garantiza la homeostasis o equilibrio 
 ### Enunciado
 ¿En qué parte de la célula vegetal ocurre específicamente el proceso de la **fotosíntesis**?
 
-### Options
+### Opciones
 - [ ] A) En el núcleo. <!-- feedback: Incorrecto. El núcleo no realiza procesos metabólicos de alimento. -->
 - [x] B) En los cloroplastos. <!-- feedback: Correcto. Allí se encuentra la clorofila que atrapa la luz solar. -->
 - [ ] C) En la pared celular. <!-- feedback: Incorrecto. La pared es de protección y soporte, no metabólica. -->
@@ -182,7 +189,7 @@ Un grupo de científicos descubre una sustancia que impide que los **ribosomas**
 ### Enunciado
 ¿Qué proceso vital se detendría inmediatamente en la célula?
 
-### Options
+### Opciones
 - [ ] A) La respiración. <!-- feedback: Incorrecto. Esto ocurre en la mitocondria. -->
 - [ ] B) La reproducción. <!-- feedback: Incorrecto. El ADN está en el núcleo. -->
 - [x] C) La fabricación de proteínas. <!-- feedback: Correcto. Los ribosomas son los encargados de ensamblar las proteínas necesarias para la célula. -->
@@ -202,7 +209,7 @@ Sin ribosomas, la célula no puede producir enzimas, transportadores ni estructu
 ### Enunciado
 ¿Cuál es el orden correcto de los niveles de organización biológica en los seres pluricelulares, de lo más simple a lo más complejo?
 
-### Options
+### Opciones
 - [ ] A) Tejido -> Célula -> Órgano -> Sistema. <!-- feedback: Incorrecto. El tejido está formado por células, por lo que la célula va primero. -->
 - [x] B) Célula -> Tejido -> Órgano -> Sistema. <!-- feedback: Correcto. Las células forman tejidos, los tejidos forman órganos y los órganos forman sistemas. -->
 - [ ] C) Sistema -> Órgano -> Tejido -> Célula. <!-- feedback: Incorrecto. Este es el orden de complejo a simple. -->
@@ -225,7 +232,7 @@ Se sabe que las células de los músculos necesitan mucha energía para que poda
 ### Enunciado
 ¿Qué organelo esperarías encontrar en mayor cantidad en una célula muscular comparada con una célula de la piel?
 
-### Options
+### Opciones
 - [ ] A) Cloroplastos. <!-- feedback: Incorrecto. Los humanos no tenemos cloroplastos. -->
 - [ ] B) Lisosomas. <!-- feedback: Incorrecto. Se encargan de la digestión, no de la energía muscular principal. -->
 - [x] C) Mitocondrias. <!-- feedback: Correcto. Al ser los productores de energía, los tejidos con alta actividad metabólica tienen miles de ellas. -->

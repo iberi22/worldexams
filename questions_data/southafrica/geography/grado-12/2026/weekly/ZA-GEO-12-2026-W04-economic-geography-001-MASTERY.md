@@ -5,436 +5,502 @@ exam: "NSC Matric — Geography (CAPS)"
 grado: 12
 asignatura: "Geography"
 tema: "economic-geography"
-semana: 4
+week: "W04"
 periodo: 2
 bundle_index: 1
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "CAPS Grade 12 Geography (DBE 2026)"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle — Economic Geography of South Africa
 **Difficulty: D3-D10 | 20 Questions | Geography — NSC Matric**
 
 ---
 
-## Question 1 — D3
+## Question 1 [D3]
 **ID:** `ZA-GEO-12-2026-W04-economic-geography-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso ### Opciones
+de conocimientos
 
-**Context:** GIS skills.
+**Contexto:** GIS skills.
 
-**Stem:** In GIS, buffering creates:
+### Enunciado
+In GIS, buffering creates:
 
-- [x] **A)** A zone around a feature
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** A line between features
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** A new data layer
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** A map title
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) A zone around a feature <!-- feedback: Correcto! A zone around a feature -->
 
-**Explanation:** Buffering creates a boundary at a specified distance.
+- [ ] B) A line between features <!-- feedback: Incorrecto. A line between features -->
+
+- [ ] C) A new data layer <!-- feedback: Incorrecto. A new data layer -->
+
+- [ ] D) A map title <!-- feedback: Incorrecto. A map title -->
+
+### Explicacion Pedagogica Buffering creates a boundary at a specified distance.
 
 ---
 
-## Question 2 — D3
+## Question 2 [D3]
 **ID:** `ZA-GEO-12-2026-W04-economic-geography-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conoci### Opciones
+mientos
 
-**Context:** Climate and weather.
+**Contexto:** Climate and weather.
 
-**Stem:** A tropical cyclone in the Southern Hemisphere rotates:
+### Enunciado
+A tropical cyclone in the Southern Hemisphere rotates:
 
-- [x] **A)** Clockwise
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Anticlockwise
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Neither
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Both
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Clockwise <!-- feedback: Correcto! Clockwise -->
 
-**Explanation:** Coriolis effect causes clockwise rotation in the SH.
+- [ ] B) Anticlockwise <!-- feedback: Incorrecto. Anticlockwise -->
+
+- [ ] C) Neither <!-- feedback: Incorrecto. Neither -->
+
+- [ ] D) Both <!-- feedback: Incorrecto. Both -->
+
+### Explicacion Pedagogica Coriolis effect causes clockwise rotation in the SH.
 
 ---
 
-## Question 3 — D4
+## Question 3 [D4]
 **ID:** `ZA-GEO-12-2026-W04-economic-geography-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conoci### Opciones
+mientos
 
-**Context:** Resource management.
+**Contexto:** Resource management.
 
-**Stem:** Food security means:
+### Enunciado
+Food security means:
 
-- [x] **A)** Access to sufficient, safe and nutritious food
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Exporting food
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Having large farms
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Growing cash crops
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Access to sufficient, safe and nutritious food <!-- feedback: Correcto! Access to sufficient, safe and nutritious food -->
 
-**Explanation:** Food security exists when all have access to adequate food.
+- [ ] B) Exporting food <!-- feedback: Incorrecto. Exporting food -->
+
+- [ ] C) Having large farms <!-- feedback: Incorrecto. Having large farms -->
+
+- [ ] D) Growing cash crops <!-- feedback: Incorrecto. Growing cash crops -->
+
+### Explicacion Pedagogica Food security exists when all have access to adequate food.
 
 ---
 
-## Question 4 — D4
+## Question 4 [D4]
 **ID:** `ZA-GEO-12-2026-W04-economic-geography-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Regional geography of Africa.
+### Opciones
+**Contexto:** Regional geography of Africa.
 
-**Stem:** SADC promotes:
+### Enunciado
+SADC promotes:
 
-- [x] **A)** Regional economic integration in Southern Africa
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Global trade
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Military alliances
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Cultural exchange only
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Regional economic integration in Southern Africa <!-- feedback: Correcto! Regional economic integration in Southern Africa -->
 
-**Explanation:** SADC fosters economic cooperation in Southern Africa.
+- [ ] B) Global trade <!-- feedback: Incorrecto. Global trade -->
+
+- [ ] C) Military alliances <!-- feedback: Incorrecto. Military alliances -->
+
+- [ ] D) Cultural exchange only <!-- feedback: Incorrecto. Cultural exchange only -->
+
+### Explicacion Pedagogica SADC fosters economic cooperation in Southern Africa.
 
 ---
 
-## Question 5 — D4
+## Question 5 [D4]
 **ID:** `ZA-GEO-12-2026-W04-economic-geography-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
+### Opciones
 
-**Context:** Human impact on environment.
+**Contexto:** Human impact on environment.
 
-**Stem:** Primary cause of ozone depletion:
+### Enunciado
+Primary cause of ozone depletion:
 
-- [x] **A)** CFCs (chlorofluorocarbons)
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** CO2
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Methane
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Nitrous oxide
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) CFCs (chlorofluorocarbons) <!-- feedback: Correcto! CFCs (chlorofluorocarbons) -->
 
-**Explanation:** CFCs destroy ozone molecules in the stratosphere.
+- [ ] B) CO2 <!-- feedback: Incorrecto. CO2 -->
+
+- [ ] C) Methane <!-- feedback: Incorrecto. Methane -->
+
+- [ ] D) Nitrous oxide <!-- feedback: Incorrecto. Nitrous oxide -->
+
+### Explicacion Pedagogica CFCs destroy ozone molecules in the stratosphere.
 
 ---
 
-## Question 6 — D5
+## Question 6 [D5]
 **ID:** `ZA-GEO-12-2026-W04-economic-geography-001-MASTERY-v6`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocim### Opciones
+ientos
 
-**Context:** Population geography.
+**Contexto:** Population geography.
 
-**Stem:** Population pyramid with wide base indicates:
+### Enunciado
+Population pyramid with wide base indicates:
 
-- [x] **A)** High birth rate
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** High death rate
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Ageing population
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Low fertility
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) High birth rate <!-- feedback: Correcto! High birth rate -->
 
-**Explanation:** A wide base indicates high birth rate and young population.
+- [ ] B) High death rate <!-- feedback: Incorrecto. High death rate -->
+
+- [ ] C) Ageing population <!-- feedback: Incorrecto. Ageing population -->
+
+- [ ] D) Low fertility <!-- feedback: Incorrecto. Low fertility -->
+
+### Explicacion Pedagogica A wide base indicates high birth rate and young population.
 
 ---
 
-## Question 7 — D5
+## Question 7 [D5]
 **ID:** `ZA-GEO-12-2026-W04-economic-geography-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimi### Opciones
+entos
 
-**Context:** Development geography.
+**Contexto:** Development geography.
 
-**Stem:** GDP per capita measures:
+### Enunciado
+GDP per capita measures:
 
-- [x] **A)** Average income per person
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Total population
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Total exports
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Government spending
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Average income per person <!-- feedback: Correcto! Average income per person -->
 
-**Explanation:** GDP per capita is total GDP divided by population.
+- [ ] B) Total population <!-- feedback: Incorrecto. Total population -->
+
+- [ ] C) Total exports <!-- feedback: Incorrecto. Total exports -->
+
+- [ ] D) Government spending <!-- feedback: Incorrecto. Government spending -->
+
+### Explicacion Pedagogica GDP per capita is total GDP divided by population.
 
 ---
 
-## Question 8 — D5
+## Question 8 [D5]
 **ID:** `ZA-GEO-12-2026-W04-economic-geography-001-MASTERY-v8`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimi### Opciones
+entos
 
-**Context:** GIS skills in mapwork.
+**Contexto:** GIS skills in mapwork.
 
-**Stem:** A DEM (Digital Elevation Model) in GIS shows:
+### Enunciado
+A DEM (Digital Elevation Model) in GIS shows:
 
-- [x] **A)** Elevation data
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Population density
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Land use
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Road networks
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Elevation data <!-- feedback: Correcto! Elevation data -->
 
-**Explanation:** A DEM represents elevation data in raster format.
+- [ ] B) Population density <!-- feedback: Incorrecto. Population density -->
+
+- [ ] C) Land use <!-- feedback: Incorrecto. Land use -->
+
+- [ ] D) Road networks <!-- feedback: Incorrecto. Road networks -->
+
+### Explicacion Pedagogica A DEM represents elevation data in raster format.
 
 ---
 
-## Question 9 — D6
+## Question 9 [D6]
 **ID:** `ZA-GEO-12-2026-W04-economic-geography-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conoc### Opciones
+imientos
 
-**Context:** Economic geography.
+**Contexto:** Economic geography.
 
-**Stem:** Gauteng contributes approximately what % of SA GDP?
+### Enunciado
+Gauteng contributes approximately what % of SA GDP?
 
-- [x] **A)** 35%
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** 15%
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** 50%
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** 25%
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) 35% <!-- feedback: Correcto! 35% -->
 
-**Explanation:** Gauteng is the economic powerhouse of South Africa.
+- [ ] B) 15% <!-- feedback: Incorrecto. 15% -->
+
+- [ ] C) 50% <!-- feedback: Incorrecto. 50% -->
+
+- [ ] D) 25% <!-- feedback: Incorrecto. 25% -->
+
+### Explicacion Pedagogica Gauteng is the economic powerhouse of South Africa.
 
 ---
 
-## Question 10 — D6
+## Question 10 [D6]
 **ID:** `ZA-GEO-12-2026-W04-economic-geography-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Climate factors in Grade 12 Geography.
+**Context### Opciones
+o:** Climate factors in Grade 12 Geography.
 
-**Stem:** The primary factor influencing SA rainfall patterns:
+### Enunciado
+The primary factor influencing SA rainfall patterns:
 
-- [x] **A)** Latitude and ocean currents
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Altitude
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Longitude
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Wind belts only
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Latitude and ocean currents <!-- feedback: Correcto! Latitude and ocean currents -->
 
-**Explanation:** Latitude and ocean currents (Agulhas warm, Benguela cold) determine rainfall.
+- [ ] B) Altitude <!-- feedback: Incorrecto. Altitude -->
+
+- [ ] C) Longitude <!-- feedback: Incorrecto. Longitude -->
+
+- [ ] D) Wind belts only <!-- feedback: Incorrecto. Wind belts only -->
+
+### Explicacion Pedagogica Latitude and ocean currents (Agulhas warm, Benguela cold) determine rainfall.
 
 ---
 
-## Question 11 — D6
+## Question 11 [D6]
 **ID:** `ZA-GEO-12-2026-W04-economic-geography-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conoci### Opciones
+mientos
 
-**Context:** Resource management.
+**Contexto:** Resource management.
 
-**Stem:** Deforestation in tropical Africa mainly leads to:
+### Enunciado
+Deforestation in tropical Africa mainly leads to:
 
-- [x] **A)** Soil erosion and habitat loss
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Increased rainfall
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Improved air quality
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Higher crop yields
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Soil erosion and habitat loss <!-- feedback: Correcto! Soil erosion and habitat loss -->
 
-**Explanation:** Deforestation causes soil degradation and loss of biodiversity.
+- [ ] B) Increased rainfall <!-- feedback: Incorrecto. Increased rainfall -->
+
+- [ ] C) Improved air quality <!-- feedback: Incorrecto. Improved air quality -->
+
+- [ ] D) Higher crop yields <!-- feedback: Incorrecto. Higher crop yields -->
+
+### Explicacion Pedagogica Deforestation causes soil degradation and loss of biodiversity.
 
 ---
 
-## Question 12 — D7
+## Question 12 [D7]
 **ID:** `ZA-GEO-12-2026-W04-economic-geography-001-MASTERY-v12`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Climate regions in a Cape Town classroom.
+**Contexto:*### Opciones
+* Climate regions in a Cape Town classroom.
 
-**Stem:** Cape Town's climate type:
+### Enunciado
+Cape Town's climate type:
 
-- [x] **A)** Mediterranean
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Tropical
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Desert
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Continental
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Mediterranean <!-- feedback: Correcto! Mediterranean -->
 
-**Explanation:** Cape Town has warm, dry summers and cool, wet winters (Mediterranean).
+- [ ] B) Tropical <!-- feedback: Incorrecto. Tropical -->
+
+- [ ] C) Desert <!-- feedback: Incorrecto. Desert -->
+
+- [ ] D) Continental <!-- feedback: Incorrecto. Continental -->
+
+### Explicacion Pedagogica Cape Town has warm, dry summers and cool, wet winters (Mediterranean).
 
 ---
 
-## Question 13 — D7
+## Question 13 [D7]
 **ID:** `ZA-GEO-12-2026-W04-economic-geography-001-MASTERY-v13`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Regional geography of Africa.
+### Opciones
+**Contexto:** Regional geography of Africa.
 
-**Stem:** Africa's highest mountain peak:
+### Enunciado
+Africa's highest mountain peak:
 
-- [x] **A)** Kilimanjaro
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Mount Kenya
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Table Mountain
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Mount Everest
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Kilimanjaro <!-- feedback: Correcto! Kilimanjaro -->
 
-**Explanation:** Mount Kilimanjaro (5,895 m) is Africa's highest peak.
+- [ ] B) Mount Kenya <!-- feedback: Incorrecto. Mount Kenya -->
+
+- [ ] C) Table Mountain <!-- feedback: Incorrecto. Table Mountain -->
+
+- [ ] D) Mount Everest <!-- feedback: Incorrecto. Mount Everest -->
+
+### Explicacion Pedagogica Mount Kilimanjaro (5,895 m) is Africa's highest peak.
 
 ---
 
-## Question 14 — D7
+## Question 14 [D7]
 **ID:** `ZA-GEO-12-2026-W04-economic-geography-001-MASTERY-v14`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Economic geography of South Africa.
+**Cont### Opciones
+exto:** Economic geography of South Africa.
 
-**Stem:** The tertiary sector includes:
+### Enunciado
+The tertiary sector includes:
 
-- [x] **A)** Services like banking and education
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Farming and mining
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Manufacturing
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Construction
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Services like banking and education <!-- feedback: Correcto! Services like banking and education -->
 
-**Explanation:** The tertiary sector provides services.
+- [ ] B) Farming and mining <!-- feedback: Incorrecto. Farming and mining -->
+
+- [ ] C) Manufacturing <!-- feedback: Incorrecto. Manufacturing -->
+
+- [ ] D) Construction <!-- feedback: Incorrecto. Construction -->
+
+### Explicacion Pedagogica The tertiary sector provides services.
 
 ---
 
-## Question 15 — D8
+## Question 15 [D8]
 **ID:** `ZA-GEO-12-2026-W04-economic-geography-001-MASTERY-v15`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Resource management and sustainability.
+**Contexto### Opciones
+:** Resource management and sustainability.
 
-**Stem:** Which is a renewable resource?
+### Enunciado
+Which is a renewable resource?
 
-- [x] **A)** Solar energy
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Coal
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Oil
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Natural gas
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Solar energy <!-- feedback: Correcto! Solar energy -->
 
-**Explanation:** Solar energy is naturally replenished.
+- [ ] B) Coal <!-- feedback: Incorrecto. Coal -->
+
+- [ ] C) Oil <!-- feedback: Incorrecto. Oil -->
+
+- [ ] D) Natural gas <!-- feedback: Incorrecto. Natural gas -->
+
+### Explicacion Pedagogica Solar energy is naturally replenished.
 
 ---
 
-## Question 16 — D8
+## Question 16 [D8]
 **ID:** `ZA-GEO-12-2026-W04-economic-geography-001-MASTERY-v16`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de c### Opciones
+onocimientos
 
-**Context:** Mapwork skills.
+**Contexto:** Mapwork skills.
 
-**Stem:** SA 1:50,000 topographic maps typically use what contour interval?
+### Enunciado
+SA 1:50,000 topographic maps typically use what contour interval?
 
-- [x] **A)** 20 m
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** 5 m
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** 50 m
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** 100 m
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) 20 m <!-- feedback: Correcto! 20 m -->
 
-**Explanation:** The standard contour interval is 20 m.
+- [ ] B) 5 m <!-- feedback: Incorrecto. 5 m -->
+
+- [ ] C) 50 m <!-- feedback: Incorrecto. 50 m -->
+
+- [ ] D) 100 m <!-- feedback: Incorrecto. 100 m -->
+
+### Explicacion Pedagogica The standard contour interval is 20 m.
 
 ---
 
-## Question 17 — D8
+## Question 17 [D8]
 **ID:** `ZA-GEO-12-2026-W04-economic-geography-001-MASTERY-v17`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Climate and weather in Grade 12.
+**C### Opciones
+ontexto:** Climate and weather in Grade 12.
 
-**Stem:** A mid-latitude cyclone in SA typically affects:
+### Enunciado
+A mid-latitude cyclone in SA typically affects:
 
-- [x] **A)** The Western Cape in winter
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** KwaZulu-Natal in summer
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Gauteng all year
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** The Northern Cape
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) The Western Cape in winter <!-- feedback: Correcto! The Western Cape in winter -->
 
-**Explanation:** Mid-latitude cyclones bring winter rain to the SW Cape.
+- [ ] B) KwaZulu-Natal in summer <!-- feedback: Incorrecto. KwaZulu-Natal in summer -->
+
+- [ ] C) Gauteng all year <!-- feedback: Incorrecto. Gauteng all year -->
+
+- [ ] D) The Northern Cape <!-- feedback: Incorrecto. The Northern Cape -->
+
+### Explicacion Pedagogica Mid-latitude cyclones bring winter rain to the SW Cape.
 
 ---
 
-## Question 18 — D9
+## Question 18 [D9]
 **ID:** `ZA-GEO-12-2026-W04-economic-geography-001-MASTERY-v18`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocim### Opciones
+ientos
 
-**Context:** Settlement geography.
+**Contexto:** Settlement geography.
 
-**Stem:** SA's largest urban area:
+### Enunciado
+SA's largest urban area:
 
-- [x] **A)** Gauteng (Johannesburg-Soweto)
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Cape Town
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Durban
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Pretoria
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Gauteng (Johannesburg-Soweto) <!-- feedback: Correcto! Gauteng (Johannesburg-Soweto) -->
 
-**Explanation:** Gauteng is the most urbanised province.
+- [ ] B) Cape Town <!-- feedback: Incorrecto. Cape Town -->
+
+- [ ] C) Durban <!-- feedback: Incorrecto. Durban -->
+
+- [ ] D) Pretoria <!-- feedback: Incorrecto. Pretoria -->
+
+### Explicacion Pedagogica Gauteng is the most urbanised province.
 
 ---
 
-## Question 19 — D9
+## Question 19 [D9]
 **ID:** `ZA-GEO-12-2026-W04-economic-geography-001-MASTERY-v19`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de con### Opciones
+ocimientos
 
-**Context:** Mapwork bearings.
+**Contexto:** Mapwork bearings.
 
-**Stem:** A bearing of 270 degrees is:
+### Enunciado
+A bearing of 270 degrees is:
 
-- [x] **A)** West
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** East
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** North
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** South
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) West <!-- feedback: Correcto! West -->
 
-**Explanation:** 270 degrees = due west.
+- [ ] B) East <!-- feedback: Incorrecto. East -->
+
+- [ ] C) North <!-- feedback: Incorrecto. North -->
+
+- [ ] D) South <!-- feedback: Incorrecto. South -->
+
+### Explicacion Pedagogica 270 degrees = due west.
 
 ---
 
-## Question 20 — D10
+## Question 20 [D10]
 **ID:** `ZA-GEO-12-2026-W04-economic-geography-001-MASTERY-v20`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Settlement geography in a Soweto class.
+**Contexto### Opciones
+:** Settlement geography in a Soweto class.
 
-**Stem:** Primary cause of urbanisation in developing countries:
+### Enunciado
+Primary cause of urbanisation in developing countries:
 
-- [x] **A)** Rural-to-urban migration
-  <!-- feedback: Correct! ✓ -->
-- [ ] **B)** Natural population growth only
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **C)** Improved rural infrastructure
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] **D)** Decreasing birth rates
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Rural-to-urban migration <!-- feedback: Correcto! Rural-to-urban migration -->
 
-**Explanation:** Push factors from rural areas and pull factors to cities drive urbanisation.
+- [ ] B) Natural population growth only <!-- feedback: Incorrecto. Natural population growth only -->
+
+- [ ] C) Improved rural infrastructure <!-- feedback: Incorrecto. Improved rural infrastructure -->
+
+- [ ] D) Decreasing birth rates <!-- feedback: Incorrecto. Decreasing birth rates -->
+
+### Explicacion Pedagogica Push factors from rural areas and pull factors to cities drive urbanisation.
 
 ---

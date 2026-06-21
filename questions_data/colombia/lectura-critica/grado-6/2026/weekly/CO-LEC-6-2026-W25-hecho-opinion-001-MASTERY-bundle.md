@@ -1,28 +1,32 @@
 ---
-id: "CO-LEC-6-2026-W25-hecho-opinion-001-MASTERY"
+id: "CO-LEC-6-2026-W25-hecho-opinion-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "hecho-opinion"
-semana: "W25"
+week: "W25"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Hecho y Opinión - Grado 6
 ## Semana W25
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEC-6-2026-W25-hecho-opinion-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio Santo Domingo de Guzmán de Neiva, la profesora introduce la diferencia entre hecho y opinión.
+**Contexto:** En el Colegio Santo Domingo de Guzmán de Neiva, la profesora introduce la diferencia entre hecho y opinión.
 **Expected_Success:** 0.87
 
 ### Enunciado
@@ -39,11 +43,11 @@ Un hecho es una afirmación objetiva y verificable. Ejemplos: "Colombia tiene 32
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEC-6-2026-W25-hecho-opinion-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** Los estudiantes del Colegio La Asunción de Pasto practican identificando hechos y opiniones.
+**Contexto:** Los estudiantes del Colegio La Asunción de Pasto practican identificando hechos y opiniones.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -60,11 +64,11 @@ Las pistas para identificar un hecho: 1) contiene datos numéricos verificables,
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEC-6-2026-W25-hecho-opinion-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. Santo Tomás de Aquino de Ipiales, los estudiantes analizan un texto sobre el turismo en San Andrés.
+**Contexto:** En la I.E. Santo Tomás de Aquino de Ipiales, los estudiantes analizan un texto sobre el turismo en San Andrés.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -81,11 +85,11 @@ Una misma oración puede contener hechos y opiniones. Es importante aprender a s
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LEC-6-2026-W25-hecho-opinion-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En la Institución Educativa Técnica de Samacá, los estudiantes clasifican afirmaciones sobre la minería.
+**Contexto:** En la Institución Educativa Técnica de Samacá, los estudiantes clasifican afirmaciones sobre la minería.
 **Expected_Success:** 0.77
 
 ### Enunciado
@@ -102,11 +106,11 @@ Las opiniones disfrazadas de hechos son particularmente engañosas porque usan u
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEC-6-2026-W25-hecho-opinion-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En el Colegio Sagrado Corazón de Barranquilla, los estudiantes practican transformando opiniones en hechos.
+**Contexto:** En el Colegio Sagrado Corazón de Barranquilla, los estudiantes practican transformando opiniones en hechos.
 **Expected_Success:** 0.73
 
 ### Enunciado
@@ -123,11 +127,11 @@ Transformar opiniones en afirmaciones basadas en hechos requiere: 1) reemplazar 
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LEC-6-2026-W25-hecho-opinion-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Calasanz de Medellín, los estudiantes analizan discursos políticos.
+**Contexto:** En el Colegio Calasanz de Medellín, los estudiantes analizan discursos políticos.
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -144,11 +148,11 @@ El discurso político es un campo donde la mezcla de hechos y opiniones es const
 
 ---
 
-## Pregunta 7 [D7]
+## Question 7 [D7]
 **ID:** `CO-LEC-6-2026-W25-hecho-opinion-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En la I.E. Campo Alegre de Ciénaga, los estudiantes discuten por qué algunas personas confunden hechos con opiniones.
+**Contexto:** En la I.E. Campo Alegre de Ciénaga, los estudiantes discuten por qué algunas personas confunden hechos con opiniones.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -165,11 +169,11 @@ La confusión entre hechos y opiniones tiene múltiples causas: 1) SESGO DE CONF
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEC-6-2026-W25-hecho-opinion-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio San Ignacio de Campestre de Bogotá, los estudiantes evalúan la confiabilidad de un texto viral.
+**Contexto:** En el Colegio San Ignacio de Campestre de Bogotá, los estudiantes evalúan la confiabilidad de un texto viral.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -186,11 +190,11 @@ Para evaluar si una afirmación es un hecho confiable, pregúntate: 1) ¿La fuen
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEC-6-2026-W25-hecho-opinion-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En la Institución Educativa Técnica de Málaga, los estudiantes investigan cómo los medios presentan hechos y opiniones.
+**Contexto:** En la Institución Educativa Técnica de Málaga, los estudiantes investigan cómo los medios presentan hechos y opiniones.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -207,11 +211,11 @@ Incluso en medios serios, los hechos y las opiniones pueden aparecer juntos. La 
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEC-6-2026-W25-hecho-opinion-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio Cambridge de Bogotá, el proyecto final consiste en crear un artículo que combine hechos y opiniones de manera ética.
+**Contexto:** En el Colegio Cambridge de Bogotá, el proyecto final consiste en crear un artículo que combine hechos y opiniones de manera ética.
 **Expected_Success:** 0.43
 
 ### Enunciado

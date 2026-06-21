@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY"
+id: "CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "animales-caracteristicas"
-semana: "W02"
+week: "W02"
 periodo: 1
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Características generales de los animales: nutrición heteró
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Características de los Animales
 
 Este bundle explora qué define a los animales como seres vivos, enfocándose en su necesidad de alimentarse de otros y su capacidad de moverse.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una visita al zoológico de Cali, los niños observan que los leones no fabrican su propio alimento como los árboles del parque.
+**Contexto:** En una visita al zoológico de Cali, los niños observan que los leones no fabrican su propio alimento como los árboles del parque.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ A diferencia de las plantas, los animales tienen una nutrición heterótrofa. Es
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Una rana salta rápidamente al agua cuando siente que una persona se acerca a la orilla del río.
+**Contexto:** Una rana salta rápidamente al agua cuando siente que una persona se acerca a la orilla del río.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -73,12 +77,12 @@ El desplazamiento es una característica fundamental de los animales. Usando sus
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Un perro olfatea el aire y comienza a mover la cola cuando llega su dueño a casa.
+**Contexto:** Un perro olfatea el aire y comienza a mover la cola cuando llega su dueño a casa.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ Los animales tienen sistemas sensoriales desarrollados que les permiten ver, ole
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Observas un colibrí volando de flor en flor y un caracol arrastrándose por una hoja mojada.
+**Contexto:** Observas un colibrí volando de flor en flor y un caracol arrastrándose por una hoja mojada.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -123,12 +127,12 @@ La necesidad de nutrición es universal en el reino animal. Sin importar si vuel
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un oso polar tiene una capa de grasa muy gruesa y mucho pelo blanco para vivir en el hielo.
+**Contexto:** Un oso polar tiene una capa de grasa muy gruesa y mucho pelo blanco para vivir en el hielo.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -148,12 +152,12 @@ Los animales presentan adaptaciones según el lugar donde viven. Estas adaptacio
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** En un acuario, vemos que los peces abren y cierran la boca y las branquias constantemente.
+**Contexto:** En un acuario, vemos que los peces abren y cierran la boca y las branquias constantemente.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -173,12 +177,12 @@ Todos los animales respiran. Los terrestres suelen usar pulmones para tomar oxí
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una serpiente cambia de piel cada cierto tiempo para poder seguir creciendo y eliminar parásitos.
+**Contexto:** Una serpiente cambia de piel cada cierto tiempo para poder seguir creciendo y eliminar parásitos.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -198,12 +202,12 @@ El crecimiento en los animales puede ser muy diferente. Mientras nosotros aument
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
-**Context:** Un murciélago duerme durante el día y sale a buscar frutas e insectos solamente cuando llega la noche.
+**Contexto:** Un murciélago duerme durante el día y sale a buscar frutas e insectos solamente cuando llega la noche.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -223,12 +227,12 @@ Los animales pueden adaptar sus horarios para evitar depredadores o encontrar co
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Si comparamos a una vaca que camina en el campo con un águila que vuela en las montañas.
+**Contexto:** Si comparamos a una vaca que camina en el campo con un águila que vuela en las montañas.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -248,12 +252,12 @@ La anatomía de los animales está directamente relacionada con su forma de vida
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W02-animales-caracteristicas-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un peluche de un perro parece muy real, tiene pelo suave y si le aprietas la pata hace un sonido de ladrido.
+**Contexto:** Un peluche de un perro parece muy real, tiene pelo suave y si le aprietas la pata hace un sonido de ladrido.
 **Expected_Success:** 0.60
 
 ### Enunciado

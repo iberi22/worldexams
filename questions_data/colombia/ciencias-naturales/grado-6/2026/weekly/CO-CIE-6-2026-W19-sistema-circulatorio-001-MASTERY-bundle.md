@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W19-sistema-circulatorio-001-MASTERY"
+id: "CO-CIE-6-2026-W19-sistema-circulatorio-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W19 — Sistema Circulatorio
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W19-sistema-circulatorio-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, inician el estudio del sistema circulatorio.
+**Contexto:** En Bogotá, inician el estudio del sistema circulatorio.
 
 ### Enunciado
 ¿Cuál es la función principal del sistema circulatorio?
 
-### Options
+### Opciones
 - [ ] A) Producir energía <!-- feedback: Eso hacen las mitocondrias. -->
 - [ ] B) Controlar el movimiento <!-- feedback: Eso hace el sistema muscular. -->
 - [x] C) Transportar oxígeno, nutrientes y desechos por todo el cuerpo <!-- feedback: Correcto. -->
@@ -48,13 +51,14 @@ El sistema circulatorio transporta: (1) oxígeno de pulmones a células, (2) nut
 
 **ID:** `CO-CIE-6-2026-W19-sistema-circulatorio-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, identifican las partes del corazón.
+**Contexto:** En Medellín, identifican las partes del corazón.
 
 ### Enunciado
 ¿Cuántas cavidades tiene el corazón humano?
 
-### Options
+### Opciones
 - [ ] A) 2 <!-- feedback: 2 tienen los peces. -->
 - [x] B) 4 (2 aurículas y 2 ventrículos) <!-- feedback: Correcto. -->
 - [ ] C) 3 <!-- feedback: 3 tienen los anfibios. -->
@@ -69,13 +73,14 @@ El corazón humano tiene 4 cavidades: aurícula derecha (recibe sangre desoxigen
 
 **ID:** `CO-CIE-6-2026-W19-sistema-circulatorio-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, explican la circulación.
+**Contexto:** En Cali, explican la circulación.
 
 ### Enunciado
 ¿Cuál es la diferencia entre arterias y venas?
 
-### Options
+### Opciones
 - [ ] A) Las arterias llevan sangre oxigenada y las venas sangre desoxigenada <!-- feedback: En la circulación pulmonar es al revés. -->
 - [ ] B) Las arterias son más delgadas que las venas <!-- feedback: Las arterias son más gruesas. -->
 - [x] C) Las arterias llevan sangre del corazón a los tejidos; las venas traen sangre de los tejidos al corazón <!-- feedback: Correcto. -->
@@ -90,13 +95,14 @@ Las arterias tienen paredes gruesas y elásticas para soportar la presión del c
 
 **ID:** `CO-CIE-6-2026-W19-sistema-circulatorio-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, estudian la sangre.
+**Contexto:** En Barranquilla, estudian la sangre.
 
 ### Enunciado
 ¿Cuáles son los componentes de la sangre?
 
-### Options
+### Opciones
 - [ ] A) Solo glóbulos rojos <!-- feedback: La sangre tiene más componentes. -->
 - [ ] B) Agua y sales <!-- feedback: El plasma tiene agua y sales, pero hay más. -->
 - [x] C) Glóbulos rojos, glóbulos blancos, plaquetas y plasma <!-- feedback: Correcto. -->
@@ -111,13 +117,14 @@ La sangre tiene: (1) plasma (55%): agua, proteínas, nutrientes, hormonas, (2) g
 
 **ID:** `CO-CIE-6-2026-W19-sistema-circulatorio-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, aplican sobre medidas de presión arterial.
+**Contexto:** En Bucaramanga, aplican sobre medidas de presión arterial.
 
 ### Enunciado
 ¿Qué indican los dos números de la presión arterial (ej: 120/80)?
 
-### Options
+### Opciones
 - [ ] A) El pulso y la temperatura <!-- feedback: No. -->
 - [x] B) Presión sistólica (cuando el corazón se contrae) y presión diastólica (cuando se relaja) <!-- feedback: Correcto. -->
 - [ ] C) La frecuencia cardíaca en reposo y en ejercicio <!-- feedback: La frecuencia se mide en latidos/min. -->
@@ -132,13 +139,14 @@ La presión arterial mide la fuerza de la sangre contra las paredes arteriales. 
 
 **ID:** `CO-CIE-6-2026-W19-sistema-circulatorio-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, aplican sobre primeros auxilios.
+**Contexto:** En Cartagena, aplican sobre primeros auxilios.
 
 ### Enunciado
 ¿Por qué la RCP (reanimación cardiopulmonar) es importante en un paro cardíaco?
 
-### Options
+### Opciones
 - [ ] A) Porque reinicia el corazón <!-- feedback: RCP no reinicia, mantiene flujo. -->
 - [ ] B) Porque da energía al corazón <!-- feedback: No. -->
 - [x] C) Porque mantiene el flujo de sangre oxigenada al cerebro hasta que llegue ayuda médica <!-- feedback: Correcto. -->
@@ -153,13 +161,14 @@ La RCP mantiene circulación artificial: compresiones torácicas (100-120/min, 5
 
 **ID:** `CO-CIE-6-2026-W19-sistema-circulatorio-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan factores de riesgo cardiovascular.
+**Contexto:** En Pereira, analizan factores de riesgo cardiovascular.
 
 ### Enunciado
 ¿Por qué una dieta alta en grasas saturadas aumenta el riesgo de infarto?
 
-### Options
+### Opciones
 - [ ] A) Porque las grasas engordan <!-- feedback: El peso no es el factor directo. -->
 - [ ] B) Porque las grasas tapan el estómago <!-- feedback: No. -->
 - [x] C) Porque el colesterol LDL se acumula en las arterias formando placas que obstruyen el flujo sanguíneo (aterosclerosis) <!-- feedback: Correcto. -->
@@ -174,13 +183,14 @@ La aterosclerosis es la acumulación de placa (colesterol LDL, calcio, células 
 
 **ID:** `CO-CIE-6-2026-W19-sistema-circulatorio-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, analizan la anemia.
+**Contexto:** En Manizales, analizan la anemia.
 
 ### Enunciado
 Una persona con anemia tiene fatiga constante. ¿Cuál es la causa?
 
-### Options
+### Opciones
 - [ ] A) El corazón late muy rápido <!-- feedback: Es una consecuencia, no la causa. -->
 - [ ] B) Hay demasiados glóbulos rojos <!-- feedback: En anemia hay pocos. -->
 - [x] C) Deficiencia de glóbulos rojos o hemoglobina, reduciendo el transporte de oxígeno a los tejidos <!-- feedback: Correcto. -->
@@ -195,13 +205,14 @@ La anemia puede ser por: (1) deficiencia de hierro (más común, ~30% de niños 
 
 **ID:** `CO-CIE-6-2026-W19-sistema-circulatorio-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan donación de sangre.
+**Contexto:** En Cúcuta, evalúan donación de sangre.
 
 ### Enunciado
 ¿Por qué es importante la donación voluntaria de sangre en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Porque la sangre se vende cara <!-- feedback: La donación es voluntaria. -->
 - [ ] B) Porque la sangre caduca <!-- feedback: Los componentes tienen fecha de vencimiento. -->
 - [x] C) Porque siempre se necesita sangre para emergencias, cirugías y enfermedades crónicas, y solo el 1.5% de la población dona <!-- feedback: Correcto. -->
@@ -216,13 +227,14 @@ En Colombia, se necesitan ~500,000 donaciones al año. Solo dona el 1.5% de la p
 
 **ID:** `CO-CIE-6-2026-W19-sistema-circulatorio-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan hábitos cardiovasculares.
+**Contexto:** En Ibagué, evalúan hábitos cardiovasculares.
 
 ### Enunciado
 ¿Cuál combinación de hábitos reduce MÁS el riesgo cardiovascular?
 
-### Options
+### Opciones
 - [ ] A) Comer mucha carne y hacer ejercicio <!-- feedback: La carne roja en exceso aumenta riesgo. -->
 - [ ] B) Fumar poco y beber café <!-- feedback: Fumar siempre es dañino. -->
 - [x] C) Ejercicio regular, dieta balanceada (frutas, verduras, granos), no fumar y control del estrés <!-- feedback: Correcto. -->

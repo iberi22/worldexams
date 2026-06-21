@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W08-repaso-periodo-2-001-MASTERY"
+id: "CO-CIE-6-2026-W08-repaso-periodo-2-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W08 — Repaso Periodo 2: Reproducción Celular
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W08-repaso-periodo-2-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Repaso general del periodo 2 sobre reproducción celular y organismos.
+**Contexto:** Repaso general del periodo 2 sobre reproducción celular y organismos.
 
 ### Enunciado
 ¿Cuál es la función principal del ciclo celular?
 
-### Options
+### Opciones
 - [ ] A) Producir energía para la célula <!-- feedback: Incorrecto. La energía se produce en las mitocondrias. -->
 - [ ] B) Permitir que la célula se comunique con otras <!-- feedback: Incorrecto. La comunicación celular es función de la membrana. -->
 - [x] C) Regular el crecimiento, la replicación del ADN y la división celular <!-- feedback: Correcto. El ciclo celular coordina el crecimiento y la división. -->
@@ -48,13 +51,14 @@ El **ciclo celular** es la secuencia ordenada de eventos que ocurren en una cél
 
 **ID:** `CO-CIE-6-2026-W08-repaso-periodo-2-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Repaso de fases de la mitosis con tarjetas.
+**Contexto:** Repaso de fases de la mitosis con tarjetas.
 
 ### Enunciado
 ¿En qué fase de la mitosis los cromosomas se alinean en el centro de la célula?
 
-### Options
+### Opciones
 - [ ] A) Profase <!-- feedback: Incorrecto. En profase los cromosomas se condensan. -->
 - [ ] B) Anafase <!-- feedback: Incorrecto. En anafase los cromosomas se separan. -->
 - [x] C) Metafase <!-- feedback: Correcto. Los cromosomas se alinean en la placa metafásica. -->
@@ -69,13 +73,14 @@ Recordatorio PMAT: Profase (condensación), Metafase (alineación en el ecuador)
 
 **ID:** `CO-CIE-6-2026-W08-repaso-periodo-2-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Repaso de la diferencia entre mitosis y meiosis.
+**Contexto:** Repaso de la diferencia entre mitosis y meiosis.
 
 ### Enunciado
 ¿Cuál es la principal diferencia entre mitosis y meiosis?
 
-### Options
+### Opciones
 - [ ] A) La mitosis produce 4 células hijas, la meiosis produce 2 <!-- feedback: Incorrecto. Es al revés: mitosis produce 2, meiosis 4. -->
 - [ ] B) En la mitosis no hay núcleo <!-- feedback: Incorrecto. Ambos procesos involucran el núcleo. -->
 - [x] C) La mitosis produce células hijas idénticas (2n) para crecimiento y reparación; la meiosis produce gametos con la mitad de cromosomas (n) para reproducción sexual <!-- feedback: Correcto. Las funciones y resultados son diferentes. -->
@@ -98,13 +103,14 @@ Recordatorio PMAT: Profase (condensación), Metafase (alineación en el ecuador)
 
 **ID:** `CO-CIE-6-2026-W08-repaso-periodo-2-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Repaso sobre reproducción asexual.
+**Contexto:** Repaso sobre reproducción asexual.
 
 ### Enunciado
 ¿Qué tipo de reproducción asexual usa una hidra para reproducirse?
 
-### Options
+### Opciones
 - [ ] A) Fisión binaria <!-- feedback: Incorrecto. La fisión binaria es típica de bacterias. -->
 - [x] B) Gemación <!-- feedback: Correcto. La hidra forma una yema que crece y se separa. -->
 - [ ] C) Fragmentación <!-- feedback: Incorrecto. La fragmentación implica romperse en pedazos. -->
@@ -119,13 +125,14 @@ Las hidras (cnidarios de agua dulce) se reproducen asexualmente por **gemación*
 
 **ID:** `CO-CIE-6-2026-W08-repaso-periodo-2-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Aplicación práctica de mitosis en jardinería.
+**Contexto:** Aplicación práctica de mitosis en jardinería.
 
 ### Enunciado
 ¿Por qué los esquejes de una planta madre producen plantas genéticamente idénticas a ella?
 
-### Options
+### Opciones
 - [ ] A) Porque el esqueje contiene ADN de la tierra <!-- feedback: Incorrecto. El ADN no viene del suelo. -->
 - [ ] B) Porque las células del esqueje hacen meiosis <!-- feedback: Incorrecto. La meiosis reduce cromosomas y produce variabilidad. -->
 - [x] C) Porque las células del esqueje se dividen por mitosis, produciendo células hijas genéticamente idénticas a la planta madre <!-- feedback: Correcto. La mitosis garantiza copias exactas. -->
@@ -140,13 +147,14 @@ Cuando se toma un esqueje (trozo de tallo, hoja o raíz) de una planta y se plan
 
 **ID:** `CO-CIE-6-2026-W08-repaso-periodo-2-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Aplicación en agricultura.
+**Contexto:** Aplicación en agricultura.
 
 ### Enunciado
 Un agricultor quiere preservar las características de una variedad de café resistente a la roya. ¿Qué método de reproducción debería usar?
 
-### Options
+### Opciones
 - [ ] A) Reproducción sexual por semillas <!-- feedback: Incorrecto. Las semillas producen variabilidad, no garantizan las mismas características. -->
 - [x] B) Reproducción asexual por esquejes o injertos <!-- feedback: Correcto. Garantiza que la nueva planta sea idéntica a la planta resistente. -->
 - [ ] C) Dejar que se reproduzca naturalmente <!-- feedback: Incorrecto. La reproducción natural es sexual. -->
@@ -163,13 +171,14 @@ Sin embargo, si se usaran semillas de esa planta, las nuevas plantas serían dif
 
 **ID:** `CO-CIE-6-2026-W08-repaso-periodo-2-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Análisis de la meiosis.
+**Contexto:** Análisis de la meiosis.
 
 ### Enunciado
 ¿Por qué es necesario que los gametos (óvulos y espermatozoides) tengan la mitad del número de cromosomas?
 
-### Options
+### Opciones
 - [ ] A) Porque así son más pequeños y pueden moverse mejor <!-- feedback: Incorrecto. El tamaño no se relaciona directamente con el número de cromosomas. -->
 - [ ] B) Para que haya menos material genético que copiar <!-- feedback: Incorrecto. No es una razón evolutiva sólida. -->
 - [x] C) Porque al fusionarse en la fecundación, el cigoto recupera el número normal (2n), evitando que se duplique el número de cromosomas en cada generación <!-- feedback: Correcto. La meiosis mantiene constante el número de cromosomas. -->
@@ -186,13 +195,14 @@ En humanos: células somáticas = 46 cromosomas (2n). Gametos = 23 cromosomas (n
 
 **ID:** `CO-CIE-6-2026-W08-repaso-periodo-2-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Análisis sobre el control del ciclo celular.
+**Contexto:** Análisis sobre el control del ciclo celular.
 
 ### Enunciado
 ¿Qué ocurre cuando los mecanismos de control del ciclo celular fallan?
 
-### Options
+### Opciones
 - [ ] A) La célula se vuelve más resistente <!-- feedback: Incorrecto. No es una consecuencia directa. -->
 - [ ] B) La célula deja de dividirse permanentemente <!-- feedback: Incorrecto. Puede dividirse sin control. -->
 - [x] C) La célula puede dividirse sin control, lo que puede llevar al desarrollo de cáncer <!-- feedback: Correcto. El cáncer es el resultado de la división celular descontrolada. -->
@@ -214,13 +224,14 @@ Los genes supresores de tumor (como p53) son "frenos" del ciclo celular. Cuando 
 
 **ID:** `CO-CIE-6-2026-W08-repaso-periodo-2-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Evaluación sobre implicaciones de la reproducción asexual.
+**Contexto:** Evaluación sobre implicaciones de la reproducción asexual.
 
 ### Enunciado
 ¿Por qué la reproducción sexual es más ventajosa que la asexual cuando el ambiente cambia rápidamente?
 
-### Options
+### Opciones
 - [ ] A) Porque la reproducción sexual produce más descendencia <!-- feedback: Incorrecto. La asexual produce más. -->
 - [ ] B) Porque la reproducción sexual es más rápida <!-- feedback: Incorrecto. La asexual es más rápida. -->
 - [x] C) Porque la reproducción sexual genera variabilidad genética, y algunos descendientes pueden tener características que les permitan sobrevivir en las nuevas condiciones <!-- feedback: Correcto. La diversidad genética es la clave. -->
@@ -239,13 +250,14 @@ Muchos organismos alternan entre ambas estrategias: reproducción asexual en con
 
 **ID:** `CO-CIE-6-2026-W08-repaso-periodo-2-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Evaluación final del periodo 2.
+**Contexto:** Evaluación final del periodo 2.
 
 ### Enunciado
 Un científico descubre que un organismo se reproduce cada 20 minutos por fisión binaria. ¿Qué tipo de organismo es y qué implicación tiene para la salud humana?
 
-### Options
+### Opciones
 - [ ] A) Es una planta y es beneficiosa para la agricultura <!-- feedback: Incorrecto. Las plantas no se reproducen por fisión binaria cada 20 minutos. -->
 - [ ] B) Es un hongo y produce antibióticos <!-- feedback: Incorrecto. Los hongos no se reproducen por fisión binaria tan rápida. -->
 - [x] C) Es una bacteria (procariota) y puede causar infecciones que progresan muy rápido si no se tratan a tiempo <!-- feedback: Correcto. La reproducción rápida de bacterias explica la progresión de infecciones. -->

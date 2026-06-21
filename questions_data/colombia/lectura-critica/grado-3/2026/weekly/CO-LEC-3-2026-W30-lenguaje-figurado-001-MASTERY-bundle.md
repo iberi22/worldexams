@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W30-lenguaje-figurado-001-MASTERY"
+id: "CO-LEC-3-2026-W30-lenguaje-figurado-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 30
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Lenguaje Figurado
 
@@ -25,6 +30,7 @@ Este bundle evalúa la capacidad de comprender comparaciones, metáforas y expre
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Cuando alguien en Colombia dice que una persona "**habla hasta por los codos**", no quiere decir que le salgan palabras de los brazos.
@@ -32,7 +38,7 @@ Cuando alguien en Colombia dice que una persona "**habla hasta por los codos**",
 ### Enunciado
 ¿Qué significa realmente la expresión "**hablar hasta por los codos**"?
 
-### Options
+### Opciones
 - [ ] A) Que le duelen los codos de tanto moverse. <!-- feedback: Incorrecto. La expresión no se refiere al dolor físico. -->
 - [ ] B) Que usa sus manos para hablar en lenguaje de señas. <!-- feedback: Incorrecto. Se usa para personas que hablan con la voz. -->
 - [x] C) Que es una persona que habla muchísimo y no para de conversar. <!-- feedback: ¡Correcto! Es una forma exagerada de decir que alguien es muy hablador. -->
@@ -48,6 +54,7 @@ Las expresiones idiomáticas o modismos son parte del lenguaje figurado cotidian
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Tus ojos son dos luceros que iluminan mi camino".
@@ -55,7 +62,7 @@ Las expresiones idiomáticas o modismos son parte del lenguaje figurado cotidian
 ### Enunciado
 ¿Con qué objeto está comparando el autor los ojos en esta frase?
 
-### Options
+### Opciones
 - [ ] A) Con dos linternas de pilas. <!-- feedback: Incorrecto. Usa la palabra "luceros", que se refiere a las estrellas o astros brillantes. -->
 - [x] B) Con estrellas o luces brillantes (luceros). <!-- feedback: ¡Correcto! La comparación resalta el brillo y la belleza de la mirada. -->
 - [ ] C) Con dos espejos redondos. <!-- feedback: Incorrecto. Los espejos reflejan la luz, pero los luceros la producen. -->
@@ -71,6 +78,7 @@ La metáfora identifica dos términos que tienen alguna semejanza. Reconocer el 
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "El examen de matemáticas estaba **pan comido** para Luis porque había estudiado todo el fin de semana".
@@ -78,7 +86,7 @@ La metáfora identifica dos términos que tienen alguna semejanza. Reconocer el 
 ### Enunciado
 ¿Cómo le pareció el examen a Luis según la expresión resaltada?
 
-### Options
+### Opciones
 - [ ] A) Que el examen olía a pan recién horneado. <!-- feedback: Incorrecto. No se refiere al olor, sino a la dificultad. -->
 - [ ] B) Que tenía mucha hambre mientras hacía el examen. <!-- feedback: Incorrecto. El hambre no tiene relación con la expresión en este contexto. -->
 - [x] C) Que el examen estaba muy fácil de resolver. <!-- feedback: ¡Correcto! "Pan comido" es una expresión que significa que algo es muy sencillo de hacer. -->
@@ -94,6 +102,7 @@ Identificar el sentido de las expresiones populares ayuda a la fluidez en la com
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "El viento soplaba con fuerza, haciendo que los árboles **susurraran** secretos entre sus hojas".
@@ -101,7 +110,7 @@ Identificar el sentido de las expresiones populares ayuda a la fluidez en la com
 ### Enunciado
 ¿Por qué el autor dice que los árboles "**susurraban**"?
 
-### Options
+### Opciones
 - [ ] A) Porque los árboles tienen boca y hablan despacio. <!-- feedback: Incorrecto. Los árboles no hablan literalmente. -->
 - [x] B) Porque el sonido de las hojas moviéndose con el viento se parece a un susurro humano. <!-- feedback: ¡Correcto! Se le da una cualidad humana (personificación) a un sonido de la naturaleza. -->
 - [ ] C) Porque había gente escondida detrás de los árboles hablando. <!-- feedback: Incorrecto. El texto se enfoca en la acción del viento y los árboles. -->
@@ -117,6 +126,7 @@ La personificación es un tipo de lenguaje figurado donde se atribuyen rasgos hu
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Eres más lento que una tortuga con sueño".
@@ -124,7 +134,7 @@ La personificación es un tipo de lenguaje figurado donde se atribuyen rasgos hu
 ### Enunciado
 ¿Cuál es la intención de la persona que dice esta frase?
 
-### Options
+### Opciones
 - [ ] A) Elogiar la rapidez del amigo. <!-- feedback: Incorrecto. Está diciendo que es lento, no rápido. -->
 - [x] B) Exagerar la lentitud de alguien usando una comparación graciosa. <!-- feedback: ¡Correcto! Se usa la tortuga (famosa por ser lenta) para resaltar un defecto de forma exagerada (hipérbole). -->
 - [ ] C) Enseñar datos científicos sobre las tortugas. <!-- feedback: Incorrecto. El objetivo no es biológico, sino comunicativo y personal. -->
@@ -140,6 +150,7 @@ La hipérbole es una exageración intencionada para dar fuerza a una idea. Ident
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "En la fiesta de cumpleaños, Juanito **perdió la cabeza** cuando vio que se estaban acabando los dulces".
@@ -147,7 +158,7 @@ La hipérbole es una exageración intencionada para dar fuerza a una idea. Ident
 ### Enunciado
 ¿Qué le pasó realmente a Juanito en la fiesta?
 
-### Options
+### Opciones
 - [ ] A) Se le cayó la cabeza al suelo. <!-- feedback: Incorrecto. Sería imposible seguir en la fiesta si eso pasara de verdad. -->
 - [ ] B) Se quitó el sombrero que llevaba puesto. <!-- feedback: Incorrecto. No se refiere a una prenda de vestir. -->
 - [x] C) Se emocionó demasiado o se descontroló por un momento. <!-- feedback: ¡Correcto! "Perder la cabeza" significa perder el control de las emociones o actuar de forma impulsiva. -->
@@ -163,6 +174,7 @@ Muchas expresiones del lenguaje figurado usan partes del cuerpo para representar
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Diferencia entre lenguaje literal y figurado:**
@@ -172,7 +184,7 @@ Muchas expresiones del lenguaje figurado usan partes del cuerpo para representar
 ### Enunciado
 ¿Por qué el autor usa la expresión "**campo de batalla**" para describir el cuarto?
 
-### Options
+### Opciones
 - [ ] A) Porque hubo una guerra real dentro de la habitación. <!-- feedback: Incorrecto. No hay soldados ni armas reales. -->
 - [x] B) Porque el desorden es tan grande que parece el caos que queda después de una batalla. <!-- feedback: ¡Correcto! Se asocia la imagen de caos y objetos tirados de una batalla con el desorden del cuarto. -->
 - [ ] C) Porque en el cuarto viven muchos guerreros. <!-- feedback: Incorrecto. Es una comparación sobre el estado del lugar, no sobre sus habitantes. -->
@@ -188,6 +200,7 @@ Analizar el punto de semejanza en una metáfora ("caos") ayuda al estudiante a c
 **Bloom:** Evaluate
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Imagina que un periodista escribe en el periódico: "**El equipo de fútbol mordió el polvo en el último partido**".
@@ -195,7 +208,7 @@ Imagina que un periodista escribe en el periódico: "**El equipo de fútbol mord
 ### Enunciado
 ¿Es adecuado usar este lenguaje figurado en una noticia seria?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque a los jugadores les gusta comer tierra. <!-- feedback: Incorrecto. No es una acción real. -->
 - [x] B) Podría ser poco adecuado porque en las noticias se prefiere el lenguaje literal para ser claros (ej: "El equipo perdió"). <!-- feedback: ¡Correcto! Aunque se entiende, el lenguaje figurado puede ser menos preciso o sonar informal para una noticia seria. -->
 - [ ] C) No, porque morder el polvo es peligroso para los dientes. <!-- feedback: Incorrecto. La crítica es sobre el estilo de escritura, no sobre la salud. -->

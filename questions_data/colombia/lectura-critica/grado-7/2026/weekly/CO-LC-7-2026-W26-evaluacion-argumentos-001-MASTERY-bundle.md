@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY"
+id: "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "evaluación de argumentos"
-semana: "W26"
+week: "W26"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Evaluación de Argumentos - Grado 7
 ## Semana W26 — Análisis y evaluación crítica de la solidez argumentativa
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de Lectura Crítica del Colegio Salesiano de Medellín, el profesor repasa los componentes básicos de un argumento.
+**Contexto:** En la clase de Lectura Crítica del Colegio Salesiano de Medellín, el profesor repasa los componentes básicos de un argumento.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Un argumento es un conjunto de afirmaciones donde algunas (las premisas) se ofre
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un anuncio de televisión dice: "Nueve de cada diez dentistas recomiendan nuestra pasta dental. ¡Compruébelo usted mismo!".
+**Contexto:** Un anuncio de televisión dice: "Nueve de cada diez dentistas recomiendan nuestra pasta dental. ¡Compruébelo usted mismo!".
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -60,11 +64,11 @@ Este argumento usa una supuesta estadística para respaldar su conclusión ("com
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el debate escolar sobre si el colegio debe tener uniforme, un estudiante dice: "No debemos usar uniforme porque en otros países no lo usan."
+**Contexto:** En el debate escolar sobre si el colegio debe tener uniforme, un estudiante dice: "No debemos usar uniforme porque en otros países no lo usan."
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -81,11 +85,11 @@ Este argumento comete una falacia: apelación a la práctica común (argumentum 
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Un político dice: "Debemos invertir más en educación porque la educación es el futuro del país y nuestros niños merecen lo mejor."
+**Contexto:** Un político dice: "Debemos invertir más en educación porque la educación es el futuro del país y nuestros niños merecen lo mejor."
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -102,11 +106,11 @@ Este argumento es débil porque usa afirmaciones genéricas y apelaciones emocio
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un artículo de opinión argumenta: "La jornada única escolar en Colombia ha fracasado porque en mi barrio el colegio la implementó y los estudiantes siguen llegando tarde."
+**Contexto:** Un artículo de opinión argumenta: "La jornada única escolar en Colombia ha fracasado porque en mi barrio el colegio la implementó y los estudiantes siguen llegando tarde."
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -123,11 +127,11 @@ Este argumento comete la falacia de generalización apresurada: toma un caso par
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un debate en redes sociales sobre el reciclaje. Un usuario dice: "Los ambientalistas dicen que hay que reciclar, pero ellos mismos usan celulares y computadores que contaminan. Son unos hipócritas."
+**Contexto:** Un debate en redes sociales sobre el reciclaje. Un usuario dice: "Los ambientalistas dicen que hay que reciclar, pero ellos mismos usan celulares y computadores que contaminan. Son unos hipócritas."
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -144,11 +148,11 @@ La falacia ad hominem consiste en atacar a la persona que presenta un argumento 
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un columnista argumenta: "La reforma tributaria es mala para Colombia. Mire lo que pasó cuando se aprobó la anterior: la economía no creció. Por lo tanto, esta también será negativa."
+**Contexto:** Un columnista argumenta: "La reforma tributaria es mala para Colombia. Mire lo que pasó cuando se aprobó la anterior: la economía no creció. Por lo tanto, esta también será negativa."
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -165,11 +169,11 @@ Este argumento comete la falacia de falsa causalidad (post hoc ergo propter hoc)
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un anuncio de un producto para adelgazar dice: "Juan perdió 15 kilos en un mes usando nuestra fórmula. ¡Tú también puedes lograrlo!"
+**Contexto:** Un anuncio de un producto para adelgazar dice: "Juan perdió 15 kilos en un mes usando nuestra fórmula. ¡Tú también puedes lograrlo!"
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -186,11 +190,11 @@ Este argumento se basa en un testimonio anecdótico, que es una de las formas m�
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un foro estudiantil en el Colegio de Ibagué, dos estudiantes debaten: "La minería en Colombia debe permitirse porque genera empleo" vs. "La minería debe restringirse porque daña el medio ambiente."
+**Contexto:** En un foro estudiantil en el Colegio de Ibagué, dos estudiantes debaten: "La minería en Colombia debe permitirse porque genera empleo" vs. "La minería debe restringirse porque daña el medio ambiente."
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -207,11 +211,11 @@ Evaluar argumentos opuestos sobre temas complejos requiere examinar la evidencia
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Un artículo científico concluye: "Hemos demostrado que el nuevo medicamento reduce los síntomas en el 95% de los casos." Al evaluar el argumento, un estudiante descubre que el estudio se realizó con solo 20 pacientes y sin grupo de control.
+**Contexto:** Un artículo científico concluye: "Hemos demostrado que el nuevo medicamento reduce los síntomas en el 95% de los casos." Al evaluar el argumento, un estudiante descubre que el estudio se realizó con solo 20 pacientes y sin grupo de control.
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ Evaluar un argumento científico requiere examinar la metodología, no solo los 
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Un artículo de opinión en El Tiempo dice: "Si no apoyamos esta reforma educativa, nuestros niños seguirán siendo analfabetas funcionales." Un análisis crítico revela que el artículo no presenta evidencia de que la reforma funcione.
+**Contexto:** Un artículo de opinión en El Tiempo dice: "Si no apoyamos esta reforma educativa, nuestros niños seguirán siendo analfabetas funcionales." Un análisis crítico revela que el artículo no presenta evidencia de que la reforma funcione.
 **Expected_Success:** 0.40
 
 ### Enunciado
@@ -249,11 +253,11 @@ Este argumento presenta un falso dilema: o apoyamos esta reforma específica o l
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** Como proyecto final, los estudiantes deben identificar un argumento débil en un texto real (publicidad, discurso político, columna de opinión) y construir una refutación sólida.
+**Contexto:** Como proyecto final, los estudiantes deben identificar un argumento débil en un texto real (publicidad, discurso político, columna de opinión) y construir una refutación sólida.
 **Expected_Success:** 0.36
 
 ### Enunciado

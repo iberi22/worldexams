@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W26-biografias-001-MASTERY"
+id: "CO-LEC-3-2026-W26-biografias-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 26
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Biografías
 
@@ -25,6 +30,7 @@ Este bundle evalúa la comprensión de textos biográficos, identificando datos 
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Gabriel García Márquez**
@@ -33,7 +39,7 @@ Gabriel García Márquez nació en Aracataca, Colombia, en 1927. Fue un famoso e
 ### Enunciado
 ¿En qué ciudad nació Gabriel García Márquez?
 
-### Options
+### Opciones
 - [ ] A) Bogotá. <!-- feedback: Incorrecto. El texto menciona que nació en Aracataca. -->
 - [x] B) Aracataca. <!-- feedback: ¡Correcto! Es el dato del lugar de nacimiento que aparece al inicio del texto. -->
 - [ ] C) México. <!-- feedback: Incorrecto. En México fue donde murió, no donde nació. -->
@@ -49,6 +55,7 @@ Identificar datos básicos (lugar de nacimiento) en una biografía es una habili
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Mariana Pajón**
@@ -57,7 +64,7 @@ Nació en Medellín en 1991. Desde muy pequeña mostró talento para el ciclismo
 ### Enunciado
 ¿Por qué logro deportivo es más conocida Mariana Pajón según el texto?
 
-### Options
+### Opciones
 - [ ] A) Por ganar carreras de natación. <!-- feedback: Incorrecto. Su deporte es el ciclismo BMX. -->
 - [x] B) Por ganar medallas de oro olímpicas en BMX. <!-- feedback: ¡Correcto! El texto destaca sus triunfos en Londres y Río. -->
 - [ ] C) Por ser una famosa cantante. <!-- feedback: Incorrecto. No se menciona la música en su biografía. -->
@@ -73,6 +80,7 @@ Las biografías resaltan los hitos o logros de una persona. Identificar la razó
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Policarpa Salavarrieta (La Pola)**
@@ -81,7 +89,7 @@ Fue una heroína de la independencia de Colombia. Trabajó como costurera para f
 ### Enunciado
 ¿Cuál era el trabajo de "La Pola" que le servía para disimular su verdadera labor de espía?
 
-### Options
+### Opciones
 - [ ] A) Soldado del ejército. <!-- feedback: Incorrecto. Esa era su labor secreta, no el trabajo que usaba de fachada. -->
 - [ ] B) Profesora de escuela. <!-- feedback: Incorrecto. No se menciona la enseñanza en el texto. -->
 - [x] C) Costurera. <!-- feedback: ¡Correcto! Trabajaba cosiendo ropa, lo que le permitía entrar a las casas sin levantar sospechas. -->
@@ -97,6 +105,7 @@ Comprender los roles de un personaje histórico en su contexto permite entender 
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **El sabio Francisco José de Caldas**
@@ -105,7 +114,7 @@ Desde joven se interesó por las estrellas y las plantas. Viajó por las montañ
 ### Enunciado
 ¿Cuál es la **idea principal** de esta breve biografía de Caldas?
 
-### Options
+### Opciones
 - [ ] A) Que le gustaba mucho viajar por el mundo. <!-- feedback: Incorrecto. El texto se enfoca en sus viajes de estudio por Colombia. -->
 - [x] B) Su importancia como científico que estudió la naturaleza de Colombia. <!-- feedback: ¡Correcto! Resalta su interés por la ciencia (astronomía, botánica y geografía). -->
 - [ ] C) Que los picos de las montañas son muy altos. <!-- feedback: Incorrecto. Es un dato geográfico, pero no resume la vida del personaje. -->
@@ -121,6 +130,7 @@ Sintetizar la vida de un personaje en una idea principal desarrolla la capacidad
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Mira estas fechas desordenadas de la vida de un personaje:
@@ -132,7 +142,7 @@ Mira estas fechas desordenadas de la vida de un personaje:
 ### Enunciado
 ¿Cuál es el orden cronológico (del más antiguo al más reciente) de esta vida?
 
-### Options
+### Opciones
 - [ ] A) 1, 2, 3, 4 <!-- feedback: Incorrecto. Nacer (2) debe ser lo primero. -->
 - [x] B) 2, 4, 1, 3 <!-- feedback: ¡Correcto! Nace en 1980 (2), empieza tenis en 1986 (4), gana trofeo en 1990 (1) y se retira en 2005 (3). -->
 - [ ] C) 2, 1, 4, 3 <!-- feedback: Incorrecto. Empezar el deporte (4) debe ir antes de ganar un trofeo (1). -->
@@ -148,6 +158,7 @@ La biografía es un texto inherentemente cronológico. Organizar los hechos seg�
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "De origen humilde, este pintor colombiano logró estudiar en Europa gracias a una beca. Sus cuadros se caracterizan por figuras de personas y objetos con mucho volumen (gorditos). Hoy, sus obras se encuentran en los museos más importantes del mundo".
@@ -155,7 +166,7 @@ La biografía es un texto inherentemente cronológico. Organizar los hechos seg�
 ### Enunciado
 ¿A qué famoso artista colombiano se refiere esta descripción biográfica?
 
-### Options
+### Opciones
 - [ ] A) Gabriel García Márquez. <!-- feedback: Incorrecto. Él era escritor, no pintor. -->
 - [x] B) Fernando Botero. <!-- feedback: ¡Correcto! El estilo de figuras con volumen o "gorditas" es la marca inconfundible de Botero. -->
 - [ ] C) Juanes. <!-- feedback: Incorrecto. Él es cantante y músico. -->
@@ -171,6 +182,7 @@ Identificar a un personaje a partir de sus rasgos distintivos (estilo artístico
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "A diferencia de una noticia, que cuenta algo que pasó ayer, la biografía nos cuenta toda una vida. En ella no solo aparecen los éxitos, sino también las dificultades que la persona tuvo que superar para lograr sus sueños".
@@ -178,7 +190,7 @@ Identificar a un personaje a partir de sus rasgos distintivos (estilo artístico
 ### Enunciado
 ¿Qué elemento es **indispensable** en una biografía pero no siempre aparece en una noticia?
 
-### Options
+### Opciones
 - [ ] A) El nombre de una ciudad. <!-- feedback: Incorrecto. Ambas suelen tener nombres de lugares. -->
 - [x] B) El paso del tiempo a lo largo de muchos años. <!-- feedback: ¡Correcto! La biografía cubre una extensión temporal larga (una vida), mientras la noticia es inmediata. -->
 - [ ] C) La fecha de publicación. <!-- feedback: Incorrecto. Todo texto escrito suele tener una fecha de publicación. -->
@@ -194,6 +206,7 @@ Contrastar géneros textuales ayuda a definir sus características propias. El e
 **Bloom:** Evaluate
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Al leer la biografía de una científica colombiana que descubrió una cura para una enfermedad, el autor escribe: "Ella es la mujer más inteligente y valiente que ha nacido en nuestra tierra".
@@ -201,7 +214,7 @@ Al leer la biografía de una científica colombiana que descubrió una cura para
 ### Enunciado
 ¿Qué parte de esa frase es un **juicio de valor** (opinión) del autor de la biografía?
 
-### Options
+### Opciones
 - [ ] A) Que nació en nuestra tierra. <!-- feedback: Incorrecto. Esto es un hecho geográfico. -->
 - [ ] B) Que es una mujer. <!-- feedback: Incorrecto. Es un hecho biológico sobre el personaje. -->
 - [x] C) Que es "la más inteligente y valiente". <!-- feedback: ¡Correcto! Los adjetivos en grado máximo ("la más") expresan la admiración personal del autor, no una medida científica. -->

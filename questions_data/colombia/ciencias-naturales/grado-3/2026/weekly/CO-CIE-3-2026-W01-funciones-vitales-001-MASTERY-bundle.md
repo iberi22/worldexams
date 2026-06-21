@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W01-funciones-vitales-001-MASTERY"
+id: "CO-CIE-3-2026-W01-funciones-vitales-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "funciones-vitales"
-semana: "W01"
+week: "W01"
 periodo: 1
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Funciones vitales: nutrición, relación y reproducción. Impo
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Las Funciones Vitales
 
 Este bundle profundiza en los tres procesos esenciales que realizan todos los seres vivos para mantenerse con vida y asegurar la continuidad de su especie.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W01-funciones-vitales-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la escuela, los estudiantes aprenden que todos los animales y plantas deben realizar tres tareas principales para no morir.
+**Contexto:** En la escuela, los estudiantes aprenden que todos los animales y plantas deben realizar tres tareas principales para no morir.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -48,12 +52,12 @@ Las funciones vitales son procesos biológicos indispensables. La nutrición per
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W01-funciones-vitales-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un venado en el páramo de Chingaza come pasto para tener fuerza y poder saltar entre las rocas.
+**Contexto:** Un venado en el páramo de Chingaza come pasto para tener fuerza y poder saltar entre las rocas.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -73,12 +77,12 @@ La nutrición incluye todos los procesos mediante los cuales los seres vivos obt
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W01-funciones-vitales-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Una gata acaba de tener cuatro gaticos pequeños en una caja cómoda dentro de una casa.
+**Contexto:** Una gata acaba de tener cuatro gaticos pequeños en una caja cómoda dentro de una casa.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -98,12 +102,12 @@ Sin la reproducción, las especies desaparecerían cuando los individuos actuale
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W01-funciones-vitales-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una planta de girasol mueve su flor siguiendo la posición del sol durante todo el día.
+**Contexto:** Una planta de girasol mueve su flor siguiendo la posición del sol durante todo el día.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -123,12 +127,12 @@ La función de relación permite a los seres vivos interactuar con su medio ambi
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W01-funciones-vitales-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Al correr mucho en el recreo, los niños comienzan a sudar y su corazón late más rápido para repartir oxígeno por el cuerpo.
+**Contexto:** Al correr mucho en el recreo, los niños comienzan a sudar y su corazón late más rápido para repartir oxígeno por el cuerpo.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -148,12 +152,12 @@ Muchas personas creen que nutrición es solo comer, pero biológicamente abarca 
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W01-funciones-vitales-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Un científico observa que una bacteria se divide en dos partes iguales para formar dos bacterias nuevas.
+**Contexto:** Un científico observa que una bacteria se divide en dos partes iguales para formar dos bacterias nuevas.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -173,12 +177,12 @@ Existen diferentes formas de reproducción. Mientras los animales suelen tener c
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W01-funciones-vitales-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Imagina un mundo donde los seres vivos pudieran comer y tener hijos, pero no pudieran sentir el calor, el frío ni ver el peligro.
+**Contexto:** Imagina un mundo donde los seres vivos pudieran comer y tener hijos, pero no pudieran sentir el calor, el frío ni ver el peligro.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -198,12 +202,12 @@ La función de relación es vital porque actúa como un mecanismo de defensa y a
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W01-funciones-vitales-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Las plantas fabrican su propio alimento usando luz solar, agua y aire. Los leones deben cazar cebras para alimentarse.
+**Contexto:** Las plantas fabrican su propio alimento usando luz solar, agua y aire. Los leones deben cazar cebras para alimentarse.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -223,12 +227,12 @@ La nutrición tiene dos modalidades principales. Los autótrofos (plantas, algas
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W01-funciones-vitales-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Un árbol pierde sus hojas en la época seca para evitar perder agua y así poder sobrevivir hasta que vuelva la lluvia.
+**Contexto:** Un árbol pierde sus hojas en la época seca para evitar perder agua y así poder sobrevivir hasta que vuelva la lluvia.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -248,12 +252,12 @@ Este es un ejemplo de cómo las funciones se complementan. El árbol "siente" la
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W01-funciones-vitales-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una expedición al espacio, se encuentra una mancha verde que crece sobre una roca, respira un gas extraño, pero nunca se ha visto que tenga hijos o se divida.
+**Contexto:** En una expedición al espacio, se encuentra una mancha verde que crece sobre una roca, respira un gas extraño, pero nunca se ha visto que tenga hijos o se divida.
 **Expected_Success:** 0.50
 
 ### Enunciado

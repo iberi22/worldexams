@@ -1,10 +1,10 @@
 ---
-id: "CO-SOC-6-2026-W28-ramas-poder-001-MASTERY"
+id: "CO-SOC-6-2026-W28-ramas-poder-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "sociales-ciudadanas"
 tema: "ramas-poder"
-semana: "W28"
+week: "W28"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -15,7 +15,12 @@ distractor_profile: "plausible_peer_set"
 rubric_baseline: "Ramas del poder público - Grado 6"
 license: "FREE"
 
+bundle_type: "weekly"
+total_questions: 10
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Ramas del poder público - Grado 6
 
@@ -25,7 +30,7 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ---
 
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 **ID:** `CO-SOC-6-2026-W28-ramas-poder-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento Ciudadano
@@ -36,21 +41,20 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 En la clase, Andrés pregunta sobre ramas poder. ¿Cuál afirmación es correcta?
 
 ### Opciones
-- [x] A) La afirmación A describe correctamente el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) La afirmación B es falsa
-  <!-- feedback: Incorrecto. -->
-- [ ] C) La afirmación C no se relaciona
-  <!-- feedback: Incorrecto. -->
-- [ ] D) Ninguna
-  <!-- feedback: Hay una correcta. -->
+- [x] A) La afirmación A describe correctamente el tema <!-- feedback: Correcto! La afirmación A describe correctamente el tema -->
+
+- [ ] B) La afirmación B es falsa <!-- feedback: Incorrecto. La afirmación B es falsa -->
+
+- [ ] C) La afirmación C no se relaciona <!-- feedback: Incorrecto. La afirmación C no se relaciona -->
+
+- [ ] D) Ninguna <!-- feedback: Incorrecto. Ninguna -->
 
 ### Explicación Pedagógica
 Ramas Poder es parte del currículo de Sociales para grado 6.
 
 ---
 
-## Pregunta 2 [D2]
+## Question 2 [D2]
 **ID:** `CO-SOC-6-2026-W28-ramas-poder-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Pensamiento Social
@@ -61,21 +65,20 @@ Ramas Poder es parte del currículo de Sociales para grado 6.
 En la clase, Juan pregunta sobre ramas poder. ¿Cuál afirmación es correcta?
 
 ### Opciones
-- [x] A) La afirmación A describe correctamente el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) La afirmación B es falsa
-  <!-- feedback: Incorrecto. -->
-- [ ] C) La afirmación C no se relaciona
-  <!-- feedback: Incorrecto. -->
-- [ ] D) Ninguna
-  <!-- feedback: Hay una correcta. -->
+- [x] A) La afirmación A describe correctamente el tema <!-- feedback: Correcto! La afirmación A describe correctamente el tema -->
+
+- [ ] B) La afirmación B es falsa <!-- feedback: Incorrecto. La afirmación B es falsa -->
+
+- [ ] C) La afirmación C no se relaciona <!-- feedback: Incorrecto. La afirmación C no se relaciona -->
+
+- [ ] D) Ninguna <!-- feedback: Incorrecto. Ninguna -->
 
 ### Explicación Pedagógica
 Ramas Poder es parte del currículo de Sociales para grado 6.
 
 ---
 
-## Pregunta 3 [D3]
+## Question 3 [D3]
 **ID:** `CO-SOC-6-2026-W28-ramas-poder-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
@@ -86,21 +89,20 @@ Ramas Poder es parte del currículo de Sociales para grado 6.
 En la clase, Valentina pregunta sobre ramas poder. ¿Cuál afirmación es correcta?
 
 ### Opciones
-- [x] A) La afirmación A describe correctamente el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) La afirmación B es falsa
-  <!-- feedback: Incorrecto. -->
-- [ ] C) La afirmación C no se relaciona
-  <!-- feedback: Incorrecto. -->
-- [ ] D) Ninguna
-  <!-- feedback: Hay una correcta. -->
+- [x] A) La afirmación A describe correctamente el tema <!-- feedback: Correcto! La afirmación A describe correctamente el tema -->
+
+- [ ] B) La afirmación B es falsa <!-- feedback: Incorrecto. La afirmación B es falsa -->
+
+- [ ] C) La afirmación C no se relaciona <!-- feedback: Incorrecto. La afirmación C no se relaciona -->
+
+- [ ] D) Ninguna <!-- feedback: Incorrecto. Ninguna -->
 
 ### Explicación Pedagógica
 Ramas Poder es parte del currículo de Sociales para grado 6.
 
 ---
 
-## Pregunta 4 [D3]
+## Question 4 [D3]
 **ID:** `CO-SOC-6-2026-W28-ramas-poder-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Ciudadano
@@ -111,21 +113,20 @@ Ramas Poder es parte del currículo de Sociales para grado 6.
 En la clase, Felipe pregunta sobre ramas poder. ¿Cuál afirmación es correcta?
 
 ### Opciones
-- [x] A) La afirmación A describe correctamente el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) La afirmación B es falsa
-  <!-- feedback: Incorrecto. -->
-- [ ] C) La afirmación C no se relaciona
-  <!-- feedback: Incorrecto. -->
-- [ ] D) Ninguna
-  <!-- feedback: Hay una correcta. -->
+- [x] A) La afirmación A describe correctamente el tema <!-- feedback: Correcto! La afirmación A describe correctamente el tema -->
+
+- [ ] B) La afirmación B es falsa <!-- feedback: Incorrecto. La afirmación B es falsa -->
+
+- [ ] C) La afirmación C no se relaciona <!-- feedback: Incorrecto. La afirmación C no se relaciona -->
+
+- [ ] D) Ninguna <!-- feedback: Incorrecto. Ninguna -->
 
 ### Explicación Pedagógica
 Ramas Poder es parte del currículo de Sociales para grado 6.
 
 ---
 
-## Pregunta 5 [D4]
+## Question 5 [D4]
 **ID:** `CO-SOC-6-2026-W28-ramas-poder-001-MASTERY-v5`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
@@ -136,21 +137,20 @@ Ramas Poder es parte del currículo de Sociales para grado 6.
 En la clase, Valentina pregunta sobre ramas poder. ¿Cuál afirmación es correcta?
 
 ### Opciones
-- [x] A) La afirmación A describe correctamente el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) La afirmación B es falsa
-  <!-- feedback: Incorrecto. -->
-- [ ] C) La afirmación C no se relaciona
-  <!-- feedback: Incorrecto. -->
-- [ ] D) Ninguna
-  <!-- feedback: Hay una correcta. -->
+- [x] A) La afirmación A describe correctamente el tema <!-- feedback: Correcto! La afirmación A describe correctamente el tema -->
+
+- [ ] B) La afirmación B es falsa <!-- feedback: Incorrecto. La afirmación B es falsa -->
+
+- [ ] C) La afirmación C no se relaciona <!-- feedback: Incorrecto. La afirmación C no se relaciona -->
+
+- [ ] D) Ninguna <!-- feedback: Incorrecto. Ninguna -->
 
 ### Explicación Pedagógica
 Ramas Poder es parte del currículo de Sociales para grado 6.
 
 ---
 
-## Pregunta 6 [D4]
+## Question 6 [D4]
 **ID:** `CO-SOC-6-2026-W28-ramas-poder-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
@@ -161,21 +161,20 @@ Ramas Poder es parte del currículo de Sociales para grado 6.
 En la clase, Carlos pregunta sobre ramas poder. ¿Cuál afirmación es correcta?
 
 ### Opciones
-- [x] A) La afirmación A describe correctamente el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) La afirmación B es falsa
-  <!-- feedback: Incorrecto. -->
-- [ ] C) La afirmación C no se relaciona
-  <!-- feedback: Incorrecto. -->
-- [ ] D) Ninguna
-  <!-- feedback: Hay una correcta. -->
+- [x] A) La afirmación A describe correctamente el tema <!-- feedback: Correcto! La afirmación A describe correctamente el tema -->
+
+- [ ] B) La afirmación B es falsa <!-- feedback: Incorrecto. La afirmación B es falsa -->
+
+- [ ] C) La afirmación C no se relaciona <!-- feedback: Incorrecto. La afirmación C no se relaciona -->
+
+- [ ] D) Ninguna <!-- feedback: Incorrecto. Ninguna -->
 
 ### Explicación Pedagógica
 Ramas Poder es parte del currículo de Sociales para grado 6.
 
 ---
 
-## Pregunta 7 [D5]
+## Question 7 [D5]
 **ID:** `CO-SOC-6-2026-W28-ramas-poder-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Pensamiento Ciudadano
@@ -186,21 +185,20 @@ Ramas Poder es parte del currículo de Sociales para grado 6.
 En la clase, María pregunta sobre ramas poder. ¿Cuál afirmación es correcta?
 
 ### Opciones
-- [x] A) La afirmación A describe correctamente el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) La afirmación B es falsa
-  <!-- feedback: Incorrecto. -->
-- [ ] C) La afirmación C no se relaciona
-  <!-- feedback: Incorrecto. -->
-- [ ] D) Ninguna
-  <!-- feedback: Hay una correcta. -->
+- [x] A) La afirmación A describe correctamente el tema <!-- feedback: Correcto! La afirmación A describe correctamente el tema -->
+
+- [ ] B) La afirmación B es falsa <!-- feedback: Incorrecto. La afirmación B es falsa -->
+
+- [ ] C) La afirmación C no se relaciona <!-- feedback: Incorrecto. La afirmación C no se relaciona -->
+
+- [ ] D) Ninguna <!-- feedback: Incorrecto. Ninguna -->
 
 ### Explicación Pedagógica
 Ramas Poder es parte del currículo de Sociales para grado 6.
 
 ---
 
-## Pregunta 8 [D2-D3]
+## Question 8 [D2-D3]
 **ID:** `CO-SOC-6-2026-W28-ramas-poder-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
@@ -211,21 +209,20 @@ Ramas Poder es parte del currículo de Sociales para grado 6.
 En la clase, Santiago pregunta sobre ramas poder. ¿Cuál afirmación es correcta?
 
 ### Opciones
-- [x] A) La afirmación A describe correctamente el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) La afirmación B es falsa
-  <!-- feedback: Incorrecto. -->
-- [ ] C) La afirmación C no se relaciona
-  <!-- feedback: Incorrecto. -->
-- [ ] D) Ninguna
-  <!-- feedback: Hay una correcta. -->
+- [x] A) La afirmación A describe correctamente el tema <!-- feedback: Correcto! La afirmación A describe correctamente el tema -->
+
+- [ ] B) La afirmación B es falsa <!-- feedback: Incorrecto. La afirmación B es falsa -->
+
+- [ ] C) La afirmación C no se relaciona <!-- feedback: Incorrecto. La afirmación C no se relaciona -->
+
+- [ ] D) Ninguna <!-- feedback: Incorrecto. Ninguna -->
 
 ### Explicación Pedagógica
 Ramas Poder es parte del currículo de Sociales para grado 6.
 
 ---
 
-## Pregunta 9 [D3-D4]
+## Question 9 [D3-D4]
 **ID:** `CO-SOC-6-2026-W28-ramas-poder-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Social
@@ -236,21 +233,20 @@ Ramas Poder es parte del currículo de Sociales para grado 6.
 En la clase, Valentina pregunta sobre ramas poder. ¿Cuál afirmación es correcta?
 
 ### Opciones
-- [x] A) La afirmación A describe correctamente el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) La afirmación B es falsa
-  <!-- feedback: Incorrecto. -->
-- [ ] C) La afirmación C no se relaciona
-  <!-- feedback: Incorrecto. -->
-- [ ] D) Ninguna
-  <!-- feedback: Hay una correcta. -->
+- [x] A) La afirmación A describe correctamente el tema <!-- feedback: Correcto! La afirmación A describe correctamente el tema -->
+
+- [ ] B) La afirmación B es falsa <!-- feedback: Incorrecto. La afirmación B es falsa -->
+
+- [ ] C) La afirmación C no se relaciona <!-- feedback: Incorrecto. La afirmación C no se relaciona -->
+
+- [ ] D) Ninguna <!-- feedback: Incorrecto. Ninguna -->
 
 ### Explicación Pedagógica
 Ramas Poder es parte del currículo de Sociales para grado 6.
 
 ---
 
-## Pregunta 10 [D4-D5]
+## Question 10 [D4-D5]
 **ID:** `CO-SOC-6-2026-W28-ramas-poder-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Ciudadano
@@ -261,14 +257,13 @@ Ramas Poder es parte del currículo de Sociales para grado 6.
 En la clase, Sofía pregunta sobre ramas poder. ¿Cuál afirmación es correcta?
 
 ### Opciones
-- [x] A) La afirmación A describe correctamente el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) La afirmación B es falsa
-  <!-- feedback: Incorrecto. -->
-- [ ] C) La afirmación C no se relaciona
-  <!-- feedback: Incorrecto. -->
-- [ ] D) Ninguna
-  <!-- feedback: Hay una correcta. -->
+- [x] A) La afirmación A describe correctamente el tema <!-- feedback: Correcto! La afirmación A describe correctamente el tema -->
+
+- [ ] B) La afirmación B es falsa <!-- feedback: Incorrecto. La afirmación B es falsa -->
+
+- [ ] C) La afirmación C no se relaciona <!-- feedback: Incorrecto. La afirmación C no se relaciona -->
+
+- [ ] D) Ninguna <!-- feedback: Incorrecto. Ninguna -->
 
 ### Explicación Pedagógica
 Ramas Poder es parte del currículo de Sociales para grado 6.

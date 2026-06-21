@@ -1,10 +1,10 @@
 ---
-id: "COL-SOC-CIU-3-2026-W03-mi-barrio-001-MASTERY"
+id: "COL-SOC-CIU-3-2026-W03-mi-barrio-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "sociales-ciudadanas"
 tema: "mi-barrio"
-semana: "W03"
+week: "W03"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 8
@@ -19,7 +19,12 @@ rubric_baseline: "mi_barrio, comunidad_vecinal, servicios_publicos, espacios_com
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Mi Barrio
 
@@ -27,13 +32,14 @@ Este bundle cubre el barrio como espacio de convivencia y comunidad. Reconoce lo
 
 ---
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 
 **ID:** `COL-SOC-CIU-3-2026-W03-mi-barrio-001-MASTERY-v1`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento social
 **Expected_Success:** 0.84
-**Context:** En la clase de Sociales de la I.E. Municipal de Pasto, la profesora pregunta sobre los lugares que hay en un barrio.
+**Contexto:** En la clase de Sociales de la I.E. Municipal de Pasto, la profesora pregunta sobre los lugares que hay en un barrio.
 
 ### Enunciado
 ¿Cuáles de los siguientes lugares se encuentran comúnmente en un barrio colombiano?
@@ -49,13 +55,14 @@ Se evalúa el reconocimiento de los espacios comunitarios que existen en los bar
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `COL-SOC-CIU-3-2026-W03-mi-barrio-001-MASTERY-v2`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento social
 **Expected_Success:** 0.82
-**Context:** En la I.E. Gustavo Rojas Pinilla de Yopal, los estudiantes de grado 3 aprenden sobre los servicios que llegan a sus casas.
+**Contexto:** En la I.E. Gustavo Rojas Pinilla de Yopal, los estudiantes de grado 3 aprenden sobre los servicios que llegan a sus casas.
 
 ### Enunciado
 ¿Cuáles son los servicios públicos que llegan a la mayoría de los hogares en un barrio colombiano?
@@ -71,13 +78,14 @@ Los servicios públicos domiciliarios son fundamentales para la calidad de vida.
 
 ---
 
-## Pregunta 3 [D2]
+## Question 3 [D2]
 
 **ID:** `COL-SOC-CIU-3-2026-W03-mi-barrio-001-MASTERY-v3`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Interpretación y análisis de perspectivas
 **Expected_Success:** 0.76
-**Context:** La profesora de la I.E. La Merced de Cali explica qué son las Juntas de Acción Comunal.
+**Contexto:** La profesora de la I.E. La Merced de Cali explica qué son las Juntas de Acción Comunal.
 
 ### Enunciado
 ¿Qué son las Juntas de Acción Comunal (JAC) en un barrio colombiano?
@@ -93,13 +101,14 @@ Las Juntas de Acción Comunal son organizaciones civiles creadas por los habitan
 
 ---
 
-## Pregunta 4 [D2]
+## Question 4 [D2]
 
 **ID:** `COL-SOC-CIU-3-2026-W03-mi-barrio-001-MASTERY-v4`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Interpretación y análisis de perspectivas
 **Expected_Success:** 0.73
-**Context:** En la I.E. José María Córdoba de Rionegro, el profesor pregunta por qué es importante mantener limpio el barrio.
+**Contexto:** En la I.E. José María Córdoba de Rionegro, el profesor pregunta por qué es importante mantener limpio el barrio.
 
 ### Enunciado
 ¿Por qué es importante que los vecinos mantengan limpio su barrio?
@@ -115,13 +124,14 @@ El cuidado del barrio es una responsabilidad compartida. Mantener limpias las ca
 
 ---
 
-## Pregunta 5 [D3]
+## Question 5 [D3]
 
 **ID:** `COL-SOC-CIU-3-2026-W03-mi-barrio-001-MASTERY-v5`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.63
-**Context:** En el barrio El Carmen de Bucaramanga, los vecinos quieren mejorar el parque infantil que está en mal estado.
+**Contexto:** En el barrio El Carmen de Bucaramanga, los vecinos quieren mejorar el parque infantil que está en mal estado.
 
 ### Enunciado
 Si los vecinos de un barrio quieren arreglar el parque infantil que está dañado, ¿qué pueden hacer para lograrlo?
@@ -137,13 +147,14 @@ La participación comunitaria es fundamental para mejorar el barrio. Las Juntas 
 
 ---
 
-## Pregunta 6 [D3]
+## Question 6 [D3]
 
 **ID:** `COL-SOC-CIU-3-2026-W03-mi-barrio-001-MASTERY-v6`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.60
-**Context:** En la I.E. San Juan Bosco de Villavicencio, los estudiantes hablan sobre cómo convivir con los vecinos.
+**Contexto:** En la I.E. San Juan Bosco de Villavicencio, los estudiantes hablan sobre cómo convivir con los vecinos.
 
 ### Enunciado
 Si un vecino pone música muy fuerte todos los días hasta tarde, ¿qué es lo mejor que pueden hacer los demás vecinos?
@@ -159,13 +170,14 @@ La convivencia vecinal se basa en el respeto y el diálogo. En Colombia, las nor
 
 ---
 
-## Pregunta 7 [D4]
+## Question 7 [D4]
 
 **ID:** `COL-SOC-CIU-3-2026-W03-mi-barrio-001-MASTERY-v7`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **ICFES category:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
-**Context:** En la I.E. La Salle de Sincelejo, el profesor de Sociales pregunta por qué algunos barrios colombianos no tienen servicios públicos.
+**Contexto:** En la I.E. La Salle de Sincelejo, el profesor de Sociales pregunta por qué algunos barrios colombianos no tienen servicios públicos.
 
 ### Enunciado
 ¿Por qué algunos barrios en Colombia no tienen acceso a servicios públicos como agua potable o alcantarillado?
@@ -181,13 +193,14 @@ En Colombia, muchas ciudades han crecido de manera desordenada debido a la migra
 
 ---
 
-## Pregunta 8 [D5]
+## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-3-2026-W03-mi-barrio-001-MASTERY-v8`
 **Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.40
-**Context:** En la I.E. República de Argentina de Barranquilla, los estudiantes discuten sobre quién es responsable del cuidado del barrio.
+**Contexto:** En la I.E. República de Argentina de Barranquilla, los estudiantes discuten sobre quién es responsable del cuidado del barrio.
 
 ### Enunciado
 Carlos dice: "El cuidado del barrio es solo responsabilidad del alcalde, porque él es la autoridad". Andrea responde: "Todos los vecinos debemos cuidar el barrio". ¿Quién tiene la razón y por qué?

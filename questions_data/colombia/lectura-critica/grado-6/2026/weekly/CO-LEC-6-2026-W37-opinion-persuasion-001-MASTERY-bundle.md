@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-6-2026-W23-opinion-persuasion-001-MASTERY"
+id: "CO-LEC-6-2026-W37-opinion-persuasion-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "Opinion y Persuasion"
-semana: 23
+week: "W23"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "opinión, persuasión, recursos retóricos, apelación, argume
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G6 — Opinión y Persuasión
 
@@ -45,12 +50,13 @@ En los últimos días he escuchado el argumento de que debemos reducir la jornad
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Quién es el autor del Texto A?
 
-### Options
+### Opciones
 - [ ] A) El Ministerio de Educación. <!-- feedback: Incorrecto. El texto está dirigido al Ministro, no fue escrito por él. -->
 - [ ] B) El Dr. Ricardo Montero, pedagogo. <!-- feedback: Incorrecto. El Dr. Montero es el autor del Texto B. -->
 - [x] C) La Asociación de Padres de Familia de Colegios Públicos. <!-- feedback: Correcto. El Texto A está firmado por la Asociación de Padres de Familia. -->
@@ -62,12 +68,13 @@ Identificación del emisor en un texto persuasivo: reconocer quién habla es el 
 ## Question 2 [D3]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Qué opinión defiende el Dr. Ricardo Montero en el Texto B?
 
-### Options
+### Opciones
 - [ ] A) Que la jornada escolar debe reducirse gradualmente. <!-- feedback: Incorrecto. Esa es la opinión de la Asociación de Padres, no del Dr. Montero. -->
 - [x] B) Que en lugar de reducir la jornada, debe mejorarse la calidad del tiempo escolar. <!-- feedback: Correcto. El Dr. Montero dice explícitamente: "En lugar de reducir la jornada, deberíamos mejorar la calidad del tiempo que los niños pasan en el colegio." -->
 - [ ] C) Que el Ministerio de Educación debe renunciar. <!-- feedback: Incorrecto. No se menciona eso. -->
@@ -79,12 +86,13 @@ Identificación de la opinión principal en un texto persuasivo: distinguir entr
 ## Question 3 [D4 - Recursos persuasivos]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 En el Texto A, los padres preguntan: "¿Cuándo les queda tiempo para ser niños? ¿Cuándo para compartir con su familia?" ¿Qué recurso persuasivo están usando?
 
-### Options
+### Opciones
 - [ ] A) Citan datos estadísticos. <!-- feedback: Incorrecto. Las preguntas no contienen datos, son un recurso retórico. -->
 - [ ] B) Usan una amenaza explícita. <!-- feedback: Incorrecto. No hay amenazas en el texto. -->
 - [x] C) Usan preguntas retóricas para generar empatía y hacer reflexionar al lector. <!-- feedback: Correcto. Las preguntas retóricas no buscan una respuesta literal, sino provocar una emoción (empatía) y hacer que el lector reflexione sobre el tema. -->
@@ -96,12 +104,13 @@ Identificación de recursos persuasivos: las preguntas retóricas son un recurso
 ## Question 4 [D4 - Apelación emocional vs. racional]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 El Texto A menciona que "los niños colombianos pasan en promedio ocho horas diarias en el colegio, más el tiempo de desplazamiento que en ciudades como Bogotá puede superar las dos horas". ¿Qué tipo de apelación predomina en este fragmento?
 
-### Options
+### Opciones
 - [ ] A) Apelación emocional (pathos): busca generar lástima. <!-- feedback: Incorrecto. Aunque hay un componente emotivo, el fragmento se basa principalmente en datos concretos. -->
 - [x] B) Apelación racional (logos): presenta datos y hechos verificables. <!-- feedback: Correcto. El uso de cifras (ocho horas, dos horas) busca convencer mediante la razón y la evidencia. -->
 - [ ] C) Apelación a la autoridad (ethos): cita a una persona importante. <!-- feedback: Incorrecto. No se cita a ninguna autoridad en este fragmento específico. -->
@@ -113,12 +122,13 @@ Diferenciación de tipos de apelación: el logos (razón) usa datos y hechos; el
 ## Question 5 [D4 - Contraste de estrategias persuasivas]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Qué estrategia usa el Dr. Montero al inicio del Texto B cuando dice "Permítanme decir que este argumento, aunque bien intencionado, es peligroso"?
 
-### Options
+### Opciones
 - [ ] A) Ignorar el argumento contrario. <!-- feedback: Incorrecto. No lo ignora, lo reconoce explícitamente. -->
 - [ ] B) Atacar personalmente a los padres de familia. <!-- feedback: Incorrecto. Los llama "bien intencionados", no los ataca. -->
 - [x] C) Reconocer el argumento contrario para luego refutarlo (concesión seguida de refutación). <!-- feedback: Correcto. El autor concede que el argumento es "bien intencionado" (concesión) y luego lo califica de "peligroso" (refutación), una estrategia persuasiva muy efectiva. -->
@@ -130,12 +140,13 @@ Identificación de la estrategia de concesión y refutación: el autor reconoce 
 ## Question 6 [D5 - Inferencia sobre la audiencia]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿A qué audiencia específica está dirigido principalmente el Texto A?
 
-### Options
+### Opciones
 - [ ] A) A los estudiantes de colegios públicos. <!-- feedback: Incorrecto. El texto está dirigido "al Ministro de Educación y comunidad educativa", no a los estudiantes directamente. -->
 - [x] B) Al Ministerio de Educación y a la comunidad educativa en general, para influir en una decisión política. <!-- feedback: Correcto. El encabezado del texto lo dice claramente: está dirigido al Ministro de Educación, y su objetivo es persuadir para que se tome una decisión (reducir la jornada). -->
 - [ ] C) A los padres de familia que ya están de acuerdo con ellos. <!-- feedback: Incorrecto. El texto busca convencer a quienes pueden tomar decisiones, no a quienes ya están convencidos. -->
@@ -147,12 +158,13 @@ Inferencia sobre la audiencia objetivo: identificar a quién se dirige un texto 
 ## Question 7 [D5 - Reconocimiento de sesgos]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué posible sesgo tiene el Dr. Montero en el Texto B?
 
-### Options
+### Opciones
 - [ ] A) Que es padre de familia y quiere que sus hijos estudien más. <!-- feedback: Incorrecto. El texto no revela si tiene hijos. -->
 - [ ] B) Que no conoce la realidad de los colegios. <!-- feedback: Incorrecto. Por el contrario, muestra conocimiento de la realidad citando datos del ICBF. -->
 - [x] C) Que su experiencia como pedagogo lo lleva a priorizar el valor educativo y social del colegio por encima del descanso de los niños. <!-- feedback: Correcto. Como pedagogo, su formación profesional lo inclina naturalmente a defender el tiempo en el colegio como un espacio valioso. Todo autor tiene un sesgo profesional. -->
@@ -164,12 +176,13 @@ Reconocimiento de sesgos: identificar cómo la formación, profesión o afiliaci
 ## Question 8 [D5 - Efectividad persuasiva]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 Ambos textos buscan persuadir al lector. ¿Cuál de los siguientes elementos hace más efectivo al Texto A?
 
-### Options
+### Opciones
 - [ ] A) Usa un tono agresivo y confrontativo. <!-- feedback: Incorrecto. El tono del Texto A es respetuoso y cordial ("les pedimos", "nuestros hijos lo merecen"). -->
 - [ ] B) Amenaza con consecuencias legales. <!-- feedback: Incorrecto. No hay amenazas. -->
 - [x] C) Combina apelación emocional (preguntas retóricas sobre los niños) con datos verificables (estudio de la Javeriana, ejemplos de otros países). <!-- feedback: Correcto. La combinación de emoción y razón es una estrategia persuasiva poderosa: conecta con el corazón y la cabeza del lector. -->
@@ -181,12 +194,13 @@ Evaluación de la efectividad persuasiva: los textos que combinan apelaciones em
 ## Question 9 [D5 - Comparación de estrategias]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Qué diferencia clave hay en la estrategia persuasiva entre el Texto A y el Texto B?
 
-### Options
+### Opciones
 - [ ] A) El Texto A usa insultos y el Texto B usa datos. <!-- feedback: Incorrecto. Ninguno usa insultos. -->
 - [x] B) El Texto A apela principalmente a la emoción y la familia; el Texto B se enfoca en datos sociales y consecuencias concretas para poblaciones vulnerables. <!-- feedback: Correcto. Mientras el Texto A usa un tono más emotivo (el tiempo de los niños, la familia), el Texto B se apoya en datos del ICBF y un enfoque de justicia social. -->
 - [ ] C) El Texto A está mal escrito y el Texto B está bien escrito. <!-- feedback: Incorrecto. Ambos están bien escritos. -->
@@ -198,12 +212,13 @@ Comparación de estrategias persuasivas: diferentes autores pueden abordar un mi
 ## Question 10 [D5]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 Si fueras el Ministro de Educación y leyeras ambos textos, ¿qué preguntas deberías hacerte antes de tomar una decisión?
 
-### Options
+### Opciones
 - [ ] A) ¿Cuál de los dos textos es más largo? <!-- feedback: Incorrecto. La longitud no determina la calidad de un argumento. -->
 - [ ] B) ¿Qué autor me cae mejor? <!-- feedback: Incorrecto. Las decisiones importantes no deben basarse en simpatías personales. -->
 - [x] C) ¿Ambos textos presentan datos verificables? ¿Qué evidencia adicional necesito? ¿Qué impacto tendría la decisión en diferentes grupos de niños (urbanos, rurales, de bajos recursos)? <!-- feedback: Correcto. Un lector crítico evalúa la solidez de la evidencia, identifica qué información falta y considera el impacto en todas las poblaciones afectadas. -->

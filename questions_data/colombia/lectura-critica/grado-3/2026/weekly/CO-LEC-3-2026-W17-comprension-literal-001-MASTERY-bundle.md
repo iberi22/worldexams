@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W17-comprension-literal-001-MASTERY"
+id: "CO-LEC-3-2026-W17-comprension-literal-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 17
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Comprensión Literal
 
@@ -25,6 +30,7 @@ Este bundle evalúa la capacidad de recuperar información explícita que aparec
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **La Ballena Yubarta**
@@ -33,7 +39,7 @@ Este bundle evalúa la capacidad de recuperar información explícita que aparec
 ### Enunciado
 ¿En qué meses llegan las ballenas yubartas al Pacífico colombiano?
 
-### Options
+### Opciones
 - [ ] A) En enero y febrero. <!-- feedback: Incorrecto. El texto dice claramente que llegan entre julio y noviembre. -->
 - [x] B) Entre julio y noviembre. <!-- feedback: ¡Correcto! Esta información aparece de forma literal en el primer renglón del texto. -->
 - [ ] C) Todo el año. <!-- feedback: Incorrecto. El texto especifica un periodo de tiempo determinado. -->
@@ -49,6 +55,7 @@ La recuperación de datos temporales es el nivel más básico de la comprensión
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Para preparar una arepa de huevo, se necesita masa de maíz, huevos frescos, aceite para freír y una pizca de sal. Es un plato típico de la región Caribe colombiana".
@@ -56,7 +63,7 @@ La recuperación de datos temporales es el nivel más básico de la comprensión
 ### Enunciado
 Según el texto, ¿en qué región de Colombia es típica la arepa de huevo?
 
-### Options
+### Opciones
 - [ ] A) En la región Andina. <!-- feedback: Incorrecto. El texto no menciona la región Andina. -->
 - [ ] B) En la Amazonía. <!-- feedback: Incorrecto. No se habla de la Amazonía en el texto. -->
 - [x] C) En la región Caribe. <!-- feedback: ¡Correcto! El texto afirma literalmente que es un plato típico de esta región. -->
@@ -72,6 +79,7 @@ Identificar lugares o regiones mencionadas explícitamente en el texto refuerza 
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Simón Bolívar, conocido como el Libertador, nació en la ciudad de Caracas el 24 de julio de 1783. Luchó por la independencia de varios países de América del Sur".
@@ -79,7 +87,7 @@ Identificar lugares o regiones mencionadas explícitamente en el texto refuerza 
 ### Enunciado
 ¿Cuál es el apodo o nombre por el que se conoce a Simón Bolívar según la lectura?
 
-### Options
+### Opciones
 - [ ] A) El General. <!-- feedback: Incorrecto. Aunque fue general, el texto menciona otro nombre específico. -->
 - [x] B) El Libertador. <!-- feedback: ¡Correcto! El texto dice "conocido como el Libertador" justo después de su nombre. -->
 - [ ] C) El Presidente. <!-- feedback: Incorrecto. Esa palabra no aparece como un sobrenombre en el texto. -->
@@ -95,6 +103,7 @@ Reconocer apelativos o sinonimia explícita ("conocido como...") es una tarea de
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Reglas del Parque:**
@@ -106,7 +115,7 @@ Reconocer apelativos o sinonimia explícita ("conocido como...") es una tarea de
 ### Enunciado
 Si una persona tiene una botella de plástico vacía, ¿qué debe hacer según la regla número 3?
 
-### Options
+### Opciones
 - [ ] A) Llevársela para su casa. <!-- feedback: Incorrecto. La regla dice qué hacer en el parque. -->
 - [ ] B) Dejarla sobre el pasto. <!-- feedback: Incorrecto. Eso iría en contra del cuidado del parque. -->
 - [x] C) Arrojarla en un cesto de color rojo. <!-- feedback: ¡Correcto! La regla 3 especifica el lugar y el color del recipiente para la basura. -->
@@ -122,6 +131,7 @@ La aplicación de una instrucción literal a un objeto específico (botella = ba
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "El sistema solar tiene ocho planetas principales. Los cuatro más cercanos al Sol son rocosos (Mercurio, Venus, Tierra y Marte). Los otros cuatro son gigantes gaseosos (Júpiter, Saturno, Urano y Neptuno)".
@@ -129,7 +139,7 @@ La aplicación de una instrucción literal a un objeto específico (botella = ba
 ### Enunciado
 Según el texto, ¿qué característica tienen en común **Júpiter y Neptuno**?
 
-### Options
+### Opciones
 - [ ] A) Que son planetas rocosos. <!-- feedback: Incorrecto. Esos son los cuatro más cercanos al Sol. -->
 - [x] B) Que son gigantes gaseosos. <!-- feedback: ¡Correcto! El texto los agrupa en la categoría de "gigantes gaseosos". -->
 - [ ] C) Que están muy cerca del Sol. <!-- feedback: Incorrecto. El texto dice que "los otros cuatro" son los que no están cerca del Sol. -->
@@ -145,6 +155,7 @@ Identificar categorías de clasificación dentro del texto permite al estudiante
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "El museo abre sus puertas de martes a domingo, de 9:00 a.m. a 5:00 p.m. Los lunes permanece cerrado por mantenimiento general de las salas y limpieza de las obras".
@@ -152,7 +163,7 @@ Identificar categorías de clasificación dentro del texto permite al estudiante
 ### Enunciado
 ¿Cuál es la razón por la que el museo no abre los días lunes?
 
-### Options
+### Opciones
 - [ ] A) Porque los trabajadores se van de viaje. <!-- feedback: Incorrecto. El texto da razones de mantenimiento y limpieza. -->
 - [ ] B) Porque no hay suficientes obras de arte. <!-- feedback: Incorrecto. No se menciona falta de obras. -->
 - [x] C) Por limpieza de las obras y mantenimiento de las salas. <!-- feedback: ¡Correcto! El texto explica literalmente estos dos motivos para el cierre de los lunes. -->
@@ -168,6 +179,7 @@ Localizar la justificación o el "por qué" explícito de una situación es fund
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "La deforestación consiste en la tala masiva de árboles. Esto provoca que muchos animales pierdan su hogar y que el aire sea menos puro, ya que los árboles se encargan de producir oxígeno".
@@ -175,7 +187,7 @@ Localizar la justificación o el "por qué" explícito de una situación es fund
 ### Enunciado
 ¿Cuál es la relación que establece el texto entre los árboles y el aire?
 
-### Options
+### Opciones
 - [ ] A) Los árboles ensucian el aire con sus hojas. <!-- feedback: Incorrecto. El texto dice que los árboles hacen que el aire sea puro. -->
 - [x] B) Los árboles purifican el aire porque producen oxígeno. <!-- feedback: ¡Correcto! El texto vincula directamente la producción de oxígeno de los árboles con la pureza del aire. -->
 - [ ] C) El aire es el que ayuda a que los árboles crezcan. <!-- feedback: Incorrecto. Aunque el aire es necesario, el texto se enfoca en lo que el árbol hace por el aire. -->
@@ -191,6 +203,7 @@ Identificar relaciones lógicas explícitas (causa-efecto) es un paso superior e
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Aviso en la entrada de un cine:**
@@ -202,7 +215,7 @@ Precio: $12.000 pesos por persona".
 ### Enunciado
 Si una familia de **tres personas** quiere entrar a ver la película, ¿cuántos minutos durarán dentro de la sala según el texto?
 
-### Options
+### Opciones
 - [ ] A) 285 minutos. <!-- feedback: Incorrecto. El tiempo de la película es el mismo sin importar cuántas personas la vean al mismo tiempo. -->
 - [x] B) 95 minutos. <!-- feedback: ¡Correcto! El texto indica que la duración de la película es de 95 minutos. -->
 - [ ] C) 36.000 minutos. <!-- feedback: Incorrecto. Estás confundiendo el tiempo con el precio total de las boletas. -->

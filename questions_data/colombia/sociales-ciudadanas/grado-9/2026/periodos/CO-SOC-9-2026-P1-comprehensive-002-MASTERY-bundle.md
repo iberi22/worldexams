@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-9-2026-P1-comprehensive-002-MASTERY"
+id: "CO-SOC-9-2026-P1-comprehensive-002-MASTERY-bundle"
 country: "colombia"
 grado: 9
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "independencia de Colombia siglo XIX, Constitución de 1886, Gu
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Independencia de Colombia, Constitución de 1886 y Globalización
 
@@ -31,13 +36,14 @@ Este bundle cubre los procesos de independencia de Colombia en el siglo XIX, la 
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-002-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Social y Ciudadano
-**Context:** En una clase de ciencias sociales en un colegio de Bogotá, la profesora pregunta sobre las fechas clave de la independencia de Colombia.
+**Contexto:** En una clase de ciencias sociales en un colegio de Bogotá, la profesora pregunta sobre las fechas clave de la independencia de Colombia.
 
 ### Enunciado
 ¿En qué año ocurrió el Grito de Independencia en Santa Fe de Bogotá, evento conocido como el "7 de agosto"?
 
-### Options
+### Opciones
 - [ ] A) 1810 <!-- feedback: Incorrect. El 20 de julio de 1810 fue el Grito de Independencia, no el 7 de agosto. -->
 - [ ] B) 1819 <!-- feedback: Incorrect. El 7 de agosto de 1819 fue la Batalla de Boyacá, que consolidó la independencia. -->
 - [x] C) 1810 <!-- feedback: Correct. El 20 de julio de 1810 se produjo el Grito de Independencia en Santa Fe de Bogotá. -->
@@ -52,13 +58,14 @@ El 20 de julio de 1810 se conoce como el Grito de Independencia, cuando un grupo
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-002-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Social y Ciudadano
-**Context:** En el Museo Nacional de Colombia en Bogotá, un estudiante observa un mapa de la Gran Colombia.
+**Contexto:** En el Museo Nacional de Colombia en Bogotá, un estudiante observa un mapa de la Gran Colombia.
 
 ### Enunciado
 ¿Qué territorios conformaban la Gran Colombia después de la independencia?
 
-### Options
+### Opciones
 - [x] A) Nueva Granada, Venezuela, Ecuador y Panamá <!-- feedback: Correct. La Gran Colombia (1819-1831) incluía los actuales territorios de Colombia, Venezuela, Ecuador y Panamá. -->
 - [ ] B) Solo el territorio de la actual Colombia <!-- feedback: Incorrect. La Gran Colombia era mucho más extensa, incluyendo Venezuela, Ecuador y Panamá. -->
 - [ ] C) Nueva Granada, Perú y Bolivia <!-- feedback: Incorrect. Perú y Bolivia no formaron parte de la Gran Colombia. -->
@@ -73,13 +80,14 @@ La Gran Colombia fue creada en 1819 por Simón Bolívar, uniendo la Nueva Granad
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-002-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Social y Ciudadano
-**Context:** En un debate escolar en Medellín, los estudiantes discuten las consecuencias de la Guerra de los Mil Días.
+**Contexto:** En un debate escolar en Medellín, los estudiantes discuten las consecuencias de la Guerra de los Mil Días.
 
 ### Enunciado
 ¿Cuál fue una de las principales consecuencias de la Guerra de los Mil Días (1899-1902) para Colombia?
 
-### Options
+### Opciones
 - [ ] A) La firma del Tratado de Paz de Versalles <!-- feedback: Incorrect. El Tratado de Versalles (1919) puso fin a la Primera Guerra Mundial, no a la Guerra de los Mil Días. -->
 - [ ] B) La unificación de los partidos Liberal y Conservador en un solo partido. <!-- feedback: Incorrect. Los partidos continuaron existiendo por separado después de la guerra. -->
 - [x] C) La separación de Panamá en 1903, debilitada Colombia después de la guerra no pudo retener el istmo. <!-- feedback: Correct. La Guerra de los Mil Días dejó al país devastado, facilitando la separación de Panamá con apoyo de EE. UU. -->
@@ -94,13 +102,14 @@ La Guerra de los Mil Días fue un conflicto civil entre liberales y conservadore
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-002-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Social y Ciudadano
-**Context:** En una clase de Constitución Política en Cali, se analizan las diferencias entre la Constitución de 1886 y la actual de 1991.
+**Contexto:** En una clase de Constitución Política en Cali, se analizan las diferencias entre la Constitución de 1886 y la actual de 1991.
 
 ### Enunciado
 La Constitución de 1886, vigente por más de 100 años, establecía que Colombia era:
 
-### Options
+### Opciones
 - [ ] A) Una república federal <!-- feedback: Incorrect. La Constitución de 1863 (de Rionegro) estableció el federalismo; la de 1886 lo abolió y centralizó el poder. -->
 - [x] B) Una república unitaria centralista con fuerte influencia de la Iglesia Católica <!-- feedback: Correct. La Constitución de 1886, liderada por Rafael Núñez y Miguel Antonio Caro, centralizó el poder y estableció la religión católica como oficial. -->
 - [ ] C) Un estado socialista <!-- feedback: Incorrect. Colombia nunca ha sido un estado socialista en su historia constitucional. -->
@@ -115,13 +124,14 @@ La Constitución de 1886, parte del movimiento de la Regeneración, reemplazó e
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-002-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Social y Ciudadano
-**Context:** Un estudiante en Cartagena analiza las causas de la independencia de Colombia y compara con otros procesos de independencia en América Latina.
+**Contexto:** Un estudiante en Cartagena analiza las causas de la independencia de Colombia y compara con otros procesos de independencia en América Latina.
 
 ### Enunciado
 ¿Cuál de los siguientes fue un factor interno que contribuyó al movimiento independentista en la Nueva Granada?
 
-### Options
+### Opciones
 - [ ] A) El apoyo militar directo del Imperio Británico. <!-- feedback: Incorrect. Aunque hubo simpatías británicas, no fue apoyo militar directo lo que inició el movimiento. -->
 - [x] B) El descontento de los criollos por la exclusión de cargos políticos y los impuestos excesivos. <!-- feedback: Correct. Los criollos (descendientes de españoles nacidos en América) estaban marginados del poder político y afectados por las Reformas Borbónicas. -->
 - [ ] C) La invasión francesa de Inglaterra. <!-- feedback: Incorrect. Fue la invasión francesa a España (1808) lo que desencadenó la crisis política, no a Inglaterra. -->
@@ -136,13 +146,14 @@ Las causas internas de la independencia incluyeron: el monopolio comercial espa�
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-002-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Social y Ciudadano
-**Context:** En el Colegio La Salle de Pereira, los estudiantes analizan cómo el capitalismo influye en la economía colombiana actual.
+**Contexto:** En el Colegio La Salle de Pereira, los estudiantes analizan cómo el capitalismo influye en la economía colombiana actual.
 
 ### Enunciado
 ¿Cuál de las siguientes características describe mejor el sistema capitalista?
 
-### Options
+### Opciones
 - [ ] A) El Estado controla todos los medios de producción y distribución. <!-- feedback: Incorrect. Eso describe un sistema socialista/comunista, no capitalista. -->
 - [x] B) Los medios de producción son mayoritariamente privados y las decisiones económicas se basan en el mercado y el lucro. <!-- feedback: Correct. En el capitalismo, empresas privadas compiten en el mercado buscando ganancias. -->
 - [ ] C) No existe la propiedad privada y los recursos se distribuyen equitativamente. <!-- feedback: Incorrect. La ausencia de propiedad privada es característica del comunismo, no del capitalismo. -->
@@ -157,13 +168,14 @@ El capitalismo se basa en: 1) propiedad privada de los medios de producción, 2)
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-002-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Social y Ciudadano
-**Context:** En un foro juvenil en Barranquilla sobre globalización, los estudiantes discuten cómo afecta a Colombia.
+**Contexto:** En un foro juvenil en Barranquilla sobre globalización, los estudiantes discuten cómo afecta a Colombia.
 
 ### Enunciado
 ¿Cuál de los siguientes es un ejemplo de globalización económica que afecta a Colombia?
 
-### Options
+### Opciones
 - [ ] A) El cierre total de las fronteras para productos extranjeros. <!-- feedback: Incorrect. Eso sería proteccionismo, un movimiento contrario a la globalización. -->
 - [x] B) La exportación de café colombiano a mercados internacionales y la importación de tecnología de otros países. <!-- feedback: Correct. El comercio internacional de bienes y servicios es una manifestación clave de la globalización. -->
 - [ ] C) El uso exclusivo del trueque como forma de comercio. <!-- feedback: Incorrect. El trueque es una forma de comercio pre-capitalista, no un ejemplo de globalización. -->
@@ -178,13 +190,14 @@ La globalización es la creciente interconexión económica, cultural y polític
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-002-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Social y Ciudadano
-**Context:** En el Archivo General de la Nación en Bogotá, un historiador analiza el período conocido como la Regeneración (1886-1899).
+**Contexto:** En el Archivo General de la Nación en Bogotá, un historiador analiza el período conocido como la Regeneración (1886-1899).
 
 ### Enunciado
 ¿Qué presidente colombiano lideró el movimiento de la Regeneración y promulgó la Constitución de 1886?
 
-### Options
+### Opciones
 - [ ] A) Tomás Cipriano de Mosquera <!-- feedback: Incorrect. Mosquera fue presidente en varias ocasiones en el siglo XIX, pero no lideró la Regeneración. -->
 - [ ] B) José Hilario López <!-- feedback: Incorrect. López fue presidente (1849-1853) y abolió la esclavitud, pero no estuvo vinculado a la Constitución de 1886. -->
 - [x] C) Rafael Núñez <!-- feedback: Correct. Rafael Núñez, con apoyo de Miguel Antonio Caro, lideró la Regeneración y promulgó la Constitución de 1886. -->
@@ -199,13 +212,14 @@ Rafael Núñez fue presidente en cuatro ocasiones (1880-1882, 1884-1886, 1887-18
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-002-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Social y Ciudadano
-**Context:** En un salón de clase en Tunja, los estudiantes comparan los modelos federalista y centralista en la historia de Colombia.
+**Contexto:** En un salón de clase en Tunja, los estudiantes comparan los modelos federalista y centralista en la historia de Colombia.
 
 ### Enunciado
 ¿Cuál fue la principal diferencia entre la Constitución de 1863 (federal) y la de 1886 (centralista) respecto a la organización territorial?
 
-### Options
+### Opciones
 - [ ] A) La de 1863 eliminó los estados y la de 1886 los restauró. <!-- feedback: Incorrect. Fue al revés: 1863 estableció estados federales, 1886 creó departamentos centralizados. -->
 - [ ] B) Ambas constituciones tenían el mismo modelo territorial. <!-- feedback: Incorrect. Eran modelos radicalmente opuestos. -->
 - [x] C) La Constitución de 1863 dividió el país en 9 estados soberanos con autonomía; la de 1886 los reemplazó por departamentos subordinados al gobierno central. <!-- feedback: Correct. El federalismo de los Estados Unidos de Colombia (1863) vs. el centralismo de la República de Colombia (1886). -->
@@ -220,13 +234,14 @@ La Constitución de Rionegro (1863), de tendencia liberal radical, estableció u
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-002-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Social y Ciudadano
-**Context:** Un estudiante en Bucaramanga analiza el papel de Simón Bolívar en las campañas militares de independencia.
+**Contexto:** Un estudiante en Bucaramanga analiza el papel de Simón Bolívar en las campañas militares de independencia.
 
 ### Enunciado
 ¿Qué importancia estratégica tuvo la Batalla de Boyacá (7 de agosto de 1819) en el proceso de independencia de la Nueva Granada?
 
-### Options
+### Opciones
 - [ ] A) Fue la primera batalla de la independencia. <!-- feedback: Incorrect. Hubo batallas anteriores, como la del Puente de Bárbula (1813). -->
 - [ ] B) Marcó la derrota definitiva de las fuerzas realistas en toda Sudamérica. <!-- feedback: Incorrect. Las guerras de independencia continuaron hasta 1824 (Ayacucho). -->
 - [x] C) Permitió la liberación de Santafé de Bogotá y la consolidación del control independentista sobre la Nueva Granada. <!-- feedback: Correct. La victoria en Boyacá abrió el camino a Bogotá y facilitó la creación de la Gran Colombia. -->
@@ -241,13 +256,14 @@ La Batalla de Boyacá, con la estrategia de Bolívar y el liderazgo de Francisco
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-002-MASTERY-v11`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Social y Ciudadano
-**Context:** En la Universidad del Atlántico en Barranquilla, un economista explica el concepto de globalización y sus efectos en los países en desarrollo como Colombia.
+**Contexto:** En la Universidad del Atlántico en Barranquilla, un economista explica el concepto de globalización y sus efectos en los países en desarrollo como Colombia.
 
 ### Enunciado
 ¿Cuál de las siguientes es una consecuencia NEGATIVA de la globalización para países como Colombia?
 
-### Options
+### Opciones
 - [ ] A) Mayor acceso a mercados internacionales para productos colombianos. <!-- feedback: Incorrect. Eso es un beneficio, no una consecuencia negativa. -->
 - [ ] B) Intercambio cultural y avances tecnológicos. <!-- feedback: Incorrect. El intercambio cultural y tecnológico es generalmente positivo. -->
 - [x] C) Mayor competencia que puede afectar a industrias locales y aumento de la desigualdad económica. <!-- feedback: Correct. La globalización puede perjudicar a productores locales que no pueden competir con grandes empresas transnacionales. -->
@@ -262,13 +278,14 @@ La globalización tiene efectos mixtos: por un lado, abre mercados y trae tecnol
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-002-MASTERY-v12`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Social y Ciudadano
-**Context:** En el Congreso de la República en Bogotá, se debate sobre el modelo económico de Colombia.
+**Contexto:** En el Congreso de la República en Bogotá, se debate sobre el modelo económico de Colombia.
 
 ### Enunciado
 Colombia tiene un modelo económico capitalista con intervención estatal en ciertos sectores. A este modelo se le llama:
 
-### Options
+### Opciones
 - [ ] A) Capitalismo puro <!-- feedback: Incorrect. No existe un capitalismo puro en la práctica; todos los países tienen algún grado de regulación estatal. -->
 - [ ] B) Socialismo de Estado <!-- feedback: Incorrect. El Estado colombiano no controla todos los medios de producción. -->
 - [x] C) Economía mixta <!-- feedback: Correct. Colombia combina libre mercado con regulación estatal en sectores como salud, educación y servicios públicos. -->
@@ -283,13 +300,14 @@ Una economía mixta combina elementos del capitalismo (propiedad privada, mercad
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-002-MASTERY-v13`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Social y Ciudadano
-**Context:** En un debate sobre el conflicto armado colombiano, se analizan las causas históricas que se remontan al siglo XIX.
+**Contexto:** En un debate sobre el conflicto armado colombiano, se analizan las causas históricas que se remontan al siglo XIX.
 
 ### Enunciado
 La Guerra de los Mil Días (1899-1902) fue un conflicto bipartidista. ¿Cuál de las siguientes fue UNA de sus causas principales?
 
-### Options
+### Opciones
 - [ ] A) La disputa por el Canal de Panamá entre Colombia y Estados Unidos. <!-- feedback: Incorrect. La disputa por Panamá fue UNA CONSECUENCIA de la guerra, no una causa. -->
 - [x] B) El descontento del Partido Liberal por la hegemonía conservadora instaurada con la Regeneración y el fraude electoral. <!-- feedback: Correct. Los liberales se sintieron excluidos del poder tras la Constitución de 1886 y denunciaron fraudes electorales. -->
 - [ ] C) La invasión española para reconquistar Colombia. <!-- feedback: Incorrect. España no intentó reconquistar Colombia en esa época. -->
@@ -304,13 +322,14 @@ Las causas de la Guerra de los Mil Días incluyeron: la exclusión política de 
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-002-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Reflexivo y Sistémico
-**Context:** Un historiador argumenta que "La Regeneración de Rafael Núñez trajo estabilidad política a Colombia, pero a costa de las libertades civiles".
+**Contexto:** Un historiador argumenta que "La Regeneración de Rafael Núñez trajo estabilidad política a Colombia, pero a costa de las libertades civiles".
 
 ### Enunciado
 ¿Qué evidencia apoya esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) La Constitución de 1886 eliminó el ejército y la policía. <!-- feedback: Incorrect. La Constitución de 1886 fortaleció el ejército nacional. -->
 - [ ] B) La Constitución de 1886 garantizaba la libertad de prensa sin restricciones. <!-- feedback: Incorrect. La Regeneración restringió la libertad de prensa. -->
 - [x] C) La Constitución de 1886 centralizó el poder y limitó la participación política, pero puso fin al conflicto entre federalistas y centralistas. <!-- feedback: Correct. La Regeneración trajo estabilidad al centralizar el poder, pero eliminó el federalismo y limitó libertades. -->
@@ -325,13 +344,14 @@ La Regeneración logró estabilidad al centralizar el poder y unificar el país 
 
 **ID:** `CO-SOC-9-2026-P1-comprehensive-002-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Reflexivo y Sistémico
-**Context:** Un estudiante de grado 9 en el Colegio Mayor de San Bartolomé de Bogotá analiza el siguiente hecho histórico: "A pesar de que la independencia de Colombia se logró en 1819, la economía colonial (basada en la hacienda, la minería y la exportación de materias primas) no cambió significativamente durante el siglo XIX."
+**Contexto:** Un estudiante de grado 9 en el Colegio Mayor de San Bartolomé de Bogotá analiza el siguiente hecho histórico: "A pesar de que la independencia de Colombia se logró en 1819, la economía colonial (basada en la hacienda, la minería y la exportación de materias primas) no cambió significativamente durante el siglo XIX."
 
 ### Enunciado
 ¿Por qué razón la estructura económica colonial se mantuvo prácticamente intacta después de la independencia?
 
-### Options
+### Opciones
 - [ ] A) Porque los libertadores prefirieron mantener el sistema económico español por respeto a la corona. <!-- feedback: Incorrect. Los libertadores buscaban cambiar el sistema, pero enfrentaron limitaciones. -->
 - [x] B) Porque las élites criollas, que reemplazaron a los españoles en el poder, mantuvieron el mismo modelo económico basado en la exportación de materias primas y la explotación de la tierra, ya que era lo que beneficiaba sus intereses. <!-- feedback: Correct. Las élites criollas heredaron las estructuras de poder y las mantuvieron. -->
 - [ ] C) Porque España continuó gobernando económicamente a Colombia después de la independencia. <!-- feedback: Incorrect. España perdió el control político y económico después de la independencia. -->

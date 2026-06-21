@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-8-2026-P1-ensayos-textos-filosoficos-INDEX-MASTERY"
+id: "CO-LEC-8-2026-P1-ensayos-textos-filosoficos-INDEX-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.20"
   simulated_responses: 100
 rubric_baseline: "ensayo, texto filosófico, tesis reflexiva, argumentación filosófica, pregunta existencial, pensamiento crítico"
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G8 — Ensayos y Textos Filosóficos
 
@@ -29,12 +36,13 @@ rubric_baseline: "ensayo, texto filosófico, tesis reflexiva, argumentación fil
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Qué filósofo colombiano se menciona en el texto?
 
-### Options
+### Opciones
 - [ ] A) Fernando Savater. <!-- feedback: Incorrecto. -->
 - [ ] B) Estanislao Zuleta. <!-- feedback: Correcto. -->
 - [ ] C) Nicanor Restrepo. <!-- feedback: Incorrecto. -->
@@ -46,12 +54,13 @@ Identificación de una referencia explícita.
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Qué tipo de progreso critica el autor?
 
-### Options
+### Opciones
 - [ ] A) El progreso agrícola. <!-- feedback: Incorrecto. -->
 - [x] B) El progreso puramente tecnológico, sin progreso humano. <!-- feedback: Correcto. -->
 - [ ] C) El progreso científico. <!-- feedback: Incorrecto. -->
@@ -63,12 +72,13 @@ Comprensión del objeto de la crítica.
 ## Question 3 [D4 - Tesis]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Cuál es la tesis principal del ensayo?
 
-### Options
+### Opciones
 - [ ] A) La tecnología es mala. <!-- feedback: Incorrecto. -->
 - [x] B) El progreso tecnológico no equivale necesariamente a progreso humano. <!-- feedback: Correcto. -->
 - [ ] C) Los teléfonos son muy caros. <!-- feedback: Incorrecto. -->
@@ -80,12 +90,13 @@ Identificación de la tesis central del ensayo filosófico.
 ## Question 4 [D4 - Propósito]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Cuál es el propósito del autor al escribir este texto?
 
-### Options
+### Opciones
 - [ ] A) Explicar cómo funciona un teléfono. <!-- feedback: Incorrecto. -->
 - [x] B) Invitar a la reflexión crítica sobre el concepto de progreso. <!-- feedback: Correcto. -->
 - [ ] C) Contar la historia de un filósofo. <!-- feedback: Incorrecto. -->
@@ -97,12 +108,13 @@ Identificación del propósito reflexivo del ensayo filosófico.
 ## Question 5 [D5 - Paradoja]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué paradoja plantea el texto sobre la comunicación moderna?
 
-### Options
+### Opciones
 - [ ] A) Que hablamos con muchos y no conocemos a los cercanos. <!-- feedback: Correcto (comunicación global pero desconexión local). -->
 - [ ] B) Que la comunicación es cara. <!-- feedback: Incorrecto. -->
 - [ ] C) Que es fácil comunicarse. <!-- feedback: Incorrecto. -->
@@ -114,12 +126,13 @@ Identificación de una paradoja o contradicción planteada por el autor.
 ## Question 6 [D5 - Ironía]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué ironía señala el autor sobre el acceso a la información?
 
-### Options
+### Opciones
 - [ ] A) Que hay poca información. <!-- feedback: Incorrecto. -->
 - [x] B) Que teniendo más información, nos cuesta más distinguir la verdad de la mentira. <!-- feedback: Correcto. -->
 - [ ] C) Que la información es aburrida. <!-- feedback: Incorrecto. -->
@@ -131,12 +144,13 @@ Comprensión de la ironía como recurso argumentativo.
 ## Question 7 [D5 - Argumento de autoridad]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Para qué cita el autor a Estanislao Zuleta?
 
-### Options
+### Opciones
 - [ ] A) Porque es famoso. <!-- feedback: Incorrecto. -->
 - [x] B) Para respaldar su tesis con la autoridad de un filósofo colombiano reconocido. <!-- feedback: Correcto. -->
 - [ ] C) Para llenar espacio. <!-- feedback: Incorrecto. -->
@@ -148,12 +162,13 @@ Análisis de la función de una cita de autoridad en un ensayo.
 ## Question 8 [D5 - Pregunta retórica]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué función tienen las preguntas al final del texto?
 
-### Options
+### Opciones
 - [ ] A) Son preguntas de examen. <!-- feedback: Incorrecto. -->
 - [x] B) Son preguntas retóricas que invitan al lector a seguir reflexionando. <!-- feedback: Correcto. -->
 - [ ] C) Son preguntas sin respuesta. <!-- feedback: Incorrecto. -->
@@ -165,12 +180,13 @@ Análisis del uso de preguntas retóricas en textos filosóficos.
 ## Question 9 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 Según el autor, ¿el progreso es un destino o un proceso?
 
-### Options
+### Opciones
 - [ ] A) Un destino que alcanzamos. <!-- feedback: Incorrecto. -->
 - [x] B) Una pregunta que nos acompañará siempre (un proceso continuo de reflexión). <!-- feedback: Correcto. -->
 - [ ] C) Algo que ya logramos. <!-- feedback: Incorrecto. -->
@@ -182,12 +198,13 @@ Interpretación de la postura filosófica del autor.
 ## Question 10 [D5 - Antítesis]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué antítesis (oposición) construye el autor en el texto?
 
-### Options
+### Opciones
 - [ ] A) Ricos vs. pobres. <!-- feedback: Incorrecto. -->
 - [x] B) Progreso tecnológico vs. progreso humano/relacional. <!-- feedback: Correcto. -->
 - [ ] C) Ciudad vs. campo. <!-- feedback: Incorrecto. -->
@@ -199,12 +216,13 @@ Identificación de la oposición conceptual central.
 ## Question 11 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué crítica hace el autor a la idea de que "cada año sale un teléfono más rápido"?
 
-### Options
+### Opciones
 - [ ] A] Que los teléfonos son malos. <!-- feedback: Incorrecto. -->
 - [x] B) Que la velocidad tecnológica no debería confundirse con el verdadero progreso humano. <!-- feedback: Correcto. -->
 - [ ] C) Que los teléfonos son lentos. <!-- feedback: Incorrecto. -->
@@ -216,12 +234,13 @@ Interpretación de la crítica implícita al consumismo tecnológico.
 ## Question 12 [D5 - Estructura]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Análisis de estructura
 
 ### Enunciado
 ¿Qué estructura sigue este ensayo?
 
-### Options
+### Opciones
 - [ ] A) Introducción, nudo, desenlace. <!-- feedback: Incorrecto. -->
 - [ ] B) Problema, narración, moraleja. <!-- feedback: Incorrecto. -->
 - [x] C) Observación del presente, crítica, contraste con pensamiento filosófico, preguntas abiertas. <!-- feedback: Correcto. -->
@@ -233,12 +252,13 @@ Reconocimiento de la estructura del ensayo filosófico.
 ## Question 13 [D6 - Evaluación]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Qué fortaleza tiene el argumento del autor?
 
-### Options
+### Opciones
 - [ ] A) Usa datos estadísticos exactos. <!-- feedback: Incorrecto. -->
 - [x] B) Plantea contradicciones reales de la vida moderna que invitan a la reflexión. <!-- feedback: Correcto. -->
 - [ ] C) Da respuestas definitivas. <!-- feedback: Incorrecto. -->
@@ -250,12 +270,13 @@ Evaluación de la solidez argumentativa del ensayo.
 ## Question 14 [D6]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Por qué este texto se considera un ensayo filosófico y no un artículo científico?
 
-### Options
+### Opciones
 - [ ] A) Porque tiene datos de laboratorio. <!-- feedback: Incorrecto. -->
 - [x] B) Porque plantea preguntas abiertas, usa la reflexión personal y cita a un filósofo, no a un científico. <!-- feedback: Correcto. -->
 - [ ] C) Porque es corto. <!-- feedback: Incorrecto. -->
@@ -267,12 +288,13 @@ Diferenciación entre ensayo filosófico y otros géneros textuales.
 ## Question 15 [D6]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Qué pregunta filosófica adicional podrías plantearte después de leer este texto?
 
-### Options
+### Opciones
 - [ ] A) ¿Cuánto cuesta un teléfono nuevo? <!-- feedback: Incorrecto. -->
 - [x] B) ¿Qué significa realmente "mejorar" como sociedad? <!-- feedback: Correcto. -->
 - [ ] C) ¿Qué hora es? <!-- feedback: Incorrecto. -->

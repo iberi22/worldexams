@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W18-agua-ciclo-001-MASTERY"
+id: "CO-CIE-3-2026-W18-agua-ciclo-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "agua-ciclo"
-semana: "W18"
+week: "W18"
 periodo: 2
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "El ciclo del agua: evaporación, condensación, precipitación
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # El Ciclo del Agua
 
 Este bundle explora el viaje infinito que realiza el agua en nuestro planeta, moviéndose entre el mar, el aire y la tierra para mantener la vida en equilibrio.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W18-agua-ciclo-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un día soleado en Santa Marta, el calor del sol calienta la superficie del mar Caribe.
+**Contexto:** En un día soleado en Santa Marta, el calor del sol calienta la superficie del mar Caribe.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ La evaporación es el motor que limpia el agua. Al evaporarse, el agua deja atr�
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W18-agua-ciclo-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** El vapor de agua sube muy alto donde hace frío y comienza a formar grandes masas blancas llamadas nubes.
+**Contexto:** El vapor de agua sube muy alto donde hace frío y comienza a formar grandes masas blancas llamadas nubes.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -73,12 +77,12 @@ La condensación es el paso del estado gaseoso al líquido. En el ciclo del agua
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W18-agua-ciclo-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Las gotas de agua dentro de la nube se vuelven muy pesadas y el viento ya no puede sostenerlas, entonces caen hacia la tierra.
+**Contexto:** Las gotas de agua dentro de la nube se vuelven muy pesadas y el viento ya no puede sostenerlas, entonces caen hacia la tierra.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -98,12 +102,12 @@ La precipitación devuelve el agua a los continentes. Dependiendo de la temperat
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W18-agua-ciclo-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Después de llover, Juan nota que el agua que cayó en el jardín desaparece rápidamente entre la tierra y las plantas.
+**Contexto:** Después de llover, Juan nota que el agua que cayó en el jardín desaparece rápidamente entre la tierra y las plantas.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ La infiltración es fundamental para la vida. Gracias a ella, se forman los pozo
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W18-agua-ciclo-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** En la selva, además del agua que se evapora de los ríos, las hojas de billones de árboles también lanzan vapor de agua al aire.
+**Contexto:** En la selva, además del agua que se evapora de los ríos, las hojas de billones de árboles también lanzan vapor de agua al aire.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -148,12 +152,12 @@ Las plantas son aliadas del ciclo del agua. En lugares como el Amazonas, la tran
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W18-agua-ciclo-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Tienes que dibujar el ciclo del agua en un tablero.
+**Contexto:** Tienes que dibujar el ciclo del agua en un tablero.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -173,12 +177,12 @@ Se llama "ciclo" porque no tiene un final real. Una gota que hoy bebes, mañana 
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W18-agua-ciclo-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Si de repente dejara de brillar el sol sobre la Tierra, el ciclo del agua se detendría por completo.
+**Contexto:** Si de repente dejara de brillar el sol sobre la Tierra, el ciclo del agua se detendría por completo.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -198,12 +202,12 @@ El sol es el motor del clima. Él es quien provee la energía para que la materi
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W18-agua-ciclo-001-MASTERY-v8`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** En las ciudades, cubrimos casi todo el suelo con cemento y asfalto. Cuando llueve, el agua no puede entrar a la tierra.
+**Contexto:** En las ciudades, cubrimos casi todo el suelo con cemento y asfalto. Cuando llueve, el agua no puede entrar a la tierra.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -223,12 +227,12 @@ Esto explica por qué las ciudades se inundan tan fácil. Al quitar la tierra y 
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W18-agua-ciclo-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un científico afirma: "El agua que cae en la lluvia no es agua nueva, es agua reciclada".
+**Contexto:** Un científico afirma: "El agua que cae en la lluvia no es agua nueva, es agua reciclada".
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -248,12 +252,12 @@ La Tierra es como una nave espacial cerrada. No nos llega agua de otros planetas
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W18-agua-ciclo-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Se propone talar un bosque completo para sembrar maíz. Alguien dice que eso no afectará la lluvia de la región porque el mar está cerca.
+**Contexto:** Se propone talar un bosque completo para sembrar maíz. Alguien dice que eso no afectará la lluvia de la región porque el mar está cerca.
 **Expected_Success:** 0.60
 
 ### Enunciado

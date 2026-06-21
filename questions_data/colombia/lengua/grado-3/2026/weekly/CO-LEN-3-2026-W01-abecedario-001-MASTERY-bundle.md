@@ -1,10 +1,10 @@
 ---
-id: "CO-LEN-3-2026-W01-abecedario-001-MASTERY"
+id: "CO-LEN-3-2026-W01-abecedario-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua"
 tema: "abecedario"
-semana: "W01"
+week: "W01"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -15,7 +15,12 @@ distractor_profile: "plausible_peer_set"
 rubric_baseline: "El abecedario - Grado 3"
 license: "FREE"
 
+bundle_type: "weekly"
+total_questions: 8
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: El abecedario - Grado 3
 
@@ -25,7 +30,7 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ---
 
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 **ID:** `CO-LEN-3-2026-W01-abecedario-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -36,21 +41,20 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ¿Cuántas letras tiene el abecedario español?
 
 ### Opciones
-- [x] A) 27 letras
-  <!-- feedback: Correcto! De la A a la Z. -->
-- [ ] B) 30 letras
-  <!-- feedback: Tiene menos. -->
-- [ ] C) 25 letras
-  <!-- feedback: Tiene más. -->
-- [ ] D) 29 letras
-  <!-- feedback: Incorrecto. -->
+- [x] A) 27 letras <!-- feedback: Correcto! 27 letras -->
+
+- [ ] B) 30 letras <!-- feedback: Incorrecto. 30 letras -->
+
+- [ ] C) 25 letras <!-- feedback: Incorrecto. 25 letras -->
+
+- [ ] D) 29 letras <!-- feedback: Incorrecto. 29 letras -->
 
 ### Explicación Pedagógica
 El abecedario español tiene 27 letras.
 
 ---
 
-## Pregunta 2 [D2]
+## Question 2 [D2]
 **ID:** `CO-LEN-3-2026-W01-abecedario-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -61,21 +65,20 @@ El abecedario español tiene 27 letras.
 ¿Cuántas letras tiene el abecedario español?
 
 ### Opciones
-- [x] A) 27 letras
-  <!-- feedback: Correcto! De la A a la Z. -->
-- [ ] B) 30 letras
-  <!-- feedback: Tiene menos. -->
-- [ ] C) 25 letras
-  <!-- feedback: Tiene más. -->
-- [ ] D) 29 letras
-  <!-- feedback: Incorrecto. -->
+- [x] A) 27 letras <!-- feedback: Correcto! 27 letras -->
+
+- [ ] B) 30 letras <!-- feedback: Incorrecto. 30 letras -->
+
+- [ ] C) 25 letras <!-- feedback: Incorrecto. 25 letras -->
+
+- [ ] D) 29 letras <!-- feedback: Incorrecto. 29 letras -->
 
 ### Explicación Pedagógica
 El abecedario español tiene 27 letras.
 
 ---
 
-## Pregunta 3 [D3]
+## Question 3 [D3]
 **ID:** `CO-LEN-3-2026-W01-abecedario-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Comunicación Escrita
@@ -86,21 +89,20 @@ El abecedario español tiene 27 letras.
 ¿Cuántas letras tiene el abecedario español?
 
 ### Opciones
-- [x] A) 27 letras
-  <!-- feedback: Correcto! De la A a la Z. -->
-- [ ] B) 30 letras
-  <!-- feedback: Tiene menos. -->
-- [ ] C) 25 letras
-  <!-- feedback: Tiene más. -->
-- [ ] D) 29 letras
-  <!-- feedback: Incorrecto. -->
+- [x] A) 27 letras <!-- feedback: Correcto! 27 letras -->
+
+- [ ] B) 30 letras <!-- feedback: Incorrecto. 30 letras -->
+
+- [ ] C) 25 letras <!-- feedback: Incorrecto. 25 letras -->
+
+- [ ] D) 29 letras <!-- feedback: Incorrecto. 29 letras -->
 
 ### Explicación Pedagógica
 El abecedario español tiene 27 letras.
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEN-3-2026-W01-abecedario-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -111,21 +113,20 @@ El abecedario español tiene 27 letras.
 ¿Cuántas letras tiene el abecedario español?
 
 ### Opciones
-- [x] A) 27 letras
-  <!-- feedback: Correcto! De la A a la Z. -->
-- [ ] B) 30 letras
-  <!-- feedback: Tiene menos. -->
-- [ ] C) 25 letras
-  <!-- feedback: Tiene más. -->
-- [ ] D) 29 letras
-  <!-- feedback: Incorrecto. -->
+- [x] A) 27 letras <!-- feedback: Correcto! 27 letras -->
+
+- [ ] B) 30 letras <!-- feedback: Incorrecto. 30 letras -->
+
+- [ ] C) 25 letras <!-- feedback: Incorrecto. 25 letras -->
+
+- [ ] D) 29 letras <!-- feedback: Incorrecto. 29 letras -->
 
 ### Explicación Pedagógica
 El abecedario español tiene 27 letras.
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEN-3-2026-W01-abecedario-001-MASTERY-v5`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -136,21 +137,20 @@ El abecedario español tiene 27 letras.
 ¿Cuántas letras tiene el abecedario español?
 
 ### Opciones
-- [x] A) 27 letras
-  <!-- feedback: Correcto! De la A a la Z. -->
-- [ ] B) 30 letras
-  <!-- feedback: Tiene menos. -->
-- [ ] C) 25 letras
-  <!-- feedback: Tiene más. -->
-- [ ] D) 29 letras
-  <!-- feedback: Incorrecto. -->
+- [x] A) 27 letras <!-- feedback: Correcto! 27 letras -->
+
+- [ ] B) 30 letras <!-- feedback: Incorrecto. 30 letras -->
+
+- [ ] C) 25 letras <!-- feedback: Incorrecto. 25 letras -->
+
+- [ ] D) 29 letras <!-- feedback: Incorrecto. 29 letras -->
 
 ### Explicación Pedagógica
 El abecedario español tiene 27 letras.
 
 ---
 
-## Pregunta 6 [D2-D3]
+## Question 6 [D2-D3]
 **ID:** `CO-LEN-3-2026-W01-abecedario-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Comunicación Escrita
@@ -161,21 +161,20 @@ El abecedario español tiene 27 letras.
 ¿Cuántas letras tiene el abecedario español?
 
 ### Opciones
-- [x] A) 27 letras
-  <!-- feedback: Correcto! De la A a la Z. -->
-- [ ] B) 30 letras
-  <!-- feedback: Tiene menos. -->
-- [ ] C) 25 letras
-  <!-- feedback: Tiene más. -->
-- [ ] D) 29 letras
-  <!-- feedback: Incorrecto. -->
+- [x] A) 27 letras <!-- feedback: Correcto! 27 letras -->
+
+- [ ] B) 30 letras <!-- feedback: Incorrecto. 30 letras -->
+
+- [ ] C) 25 letras <!-- feedback: Incorrecto. 25 letras -->
+
+- [ ] D) 29 letras <!-- feedback: Incorrecto. 29 letras -->
 
 ### Explicación Pedagógica
 El abecedario español tiene 27 letras.
 
 ---
 
-## Pregunta 7 [D3-D4]
+## Question 7 [D3-D4]
 **ID:** `CO-LEN-3-2026-W01-abecedario-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -186,21 +185,20 @@ El abecedario español tiene 27 letras.
 ¿Cuántas letras tiene el abecedario español?
 
 ### Opciones
-- [x] A) 27 letras
-  <!-- feedback: Correcto! De la A a la Z. -->
-- [ ] B) 30 letras
-  <!-- feedback: Tiene menos. -->
-- [ ] C) 25 letras
-  <!-- feedback: Tiene más. -->
-- [ ] D) 29 letras
-  <!-- feedback: Incorrecto. -->
+- [x] A) 27 letras <!-- feedback: Correcto! 27 letras -->
+
+- [ ] B) 30 letras <!-- feedback: Incorrecto. 30 letras -->
+
+- [ ] C) 25 letras <!-- feedback: Incorrecto. 25 letras -->
+
+- [ ] D) 29 letras <!-- feedback: Incorrecto. 29 letras -->
 
 ### Explicación Pedagógica
 El abecedario español tiene 27 letras.
 
 ---
 
-## Pregunta 8 [D4-D5]
+## Question 8 [D4-D5]
 **ID:** `CO-LEN-3-2026-W01-abecedario-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -211,14 +209,13 @@ El abecedario español tiene 27 letras.
 ¿Cuántas letras tiene el abecedario español?
 
 ### Opciones
-- [x] A) 27 letras
-  <!-- feedback: Correcto! De la A a la Z. -->
-- [ ] B) 30 letras
-  <!-- feedback: Tiene menos. -->
-- [ ] C) 25 letras
-  <!-- feedback: Tiene más. -->
-- [ ] D) 29 letras
-  <!-- feedback: Incorrecto. -->
+- [x] A) 27 letras <!-- feedback: Correcto! 27 letras -->
+
+- [ ] B) 30 letras <!-- feedback: Incorrecto. 30 letras -->
+
+- [ ] C) 25 letras <!-- feedback: Incorrecto. 25 letras -->
+
+- [ ] D) 29 letras <!-- feedback: Incorrecto. 29 letras -->
 
 ### Explicación Pedagógica
 El abecedario español tiene 27 letras.

@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W25-textos-publicitarios-001-MASTERY"
+id: "CO-LEC-3-2026-W25-textos-publicitarios-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 25
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Publicitarios
 
@@ -25,6 +30,7 @@ Este bundle evalúa la capacidad de comprender avisos publicitarios, identificar
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Ves un cartel colorido en el paradero del bus que dice: "**¡CHOCO-RICO! La barra de chocolate que te llena de energía. ¡Cómprala ya en tu tienda favorita!**"
@@ -32,7 +38,7 @@ Ves un cartel colorido en el paradero del bus que dice: "**¡CHOCO-RICO! La barr
 ### Enunciado
 ¿Cuál es el producto que se está anunciando en el cartel?
 
-### Options
+### Opciones
 - [ ] A) Un bus de transporte público. <!-- feedback: Incorrecto. El anuncio está en el paradero, pero no anuncia buses. -->
 - [x] B) Una barra de chocolate llamada Choco-Rico. <!-- feedback: ¡Correcto! El nombre y la descripción del producto aparecen claramente en el texto. -->
 - [ ] C) Una tienda de ropa para niños. <!-- feedback: Incorrecto. El texto habla de chocolate y energía. -->
@@ -48,6 +54,7 @@ Identificar el objeto anunciado es la base de la lectura de publicidad. El estud
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un anuncio de una marca de zapatos dice: "**CAMINA SOBRE LAS NUBES**".
@@ -55,7 +62,7 @@ Un anuncio de una marca de zapatos dice: "**CAMINA SOBRE LAS NUBES**".
 ### Enunciado
 ¿Qué quiere dar a entender la marca con esta frase (eslogan)?
 
-### Options
+### Opciones
 - [ ] A) Que los zapatos sirven para volar muy alto. <!-- feedback: Incorrecto. Es una forma de hablar, no es literal. -->
 - [x] B) Que los zapatos son muy suaves y cómodos al caminar. <!-- feedback: ¡Correcto! Se usa la imagen de las nubes para representar la suavidad y la ligereza del calzado. -->
 - [ ] C) Que los zapatos solo se deben usar en días nublados. <!-- feedback: Incorrecto. No tiene relación con el clima, sino con la sensación del pie. -->
@@ -71,6 +78,7 @@ Comprender el lenguaje figurado en la publicidad es fundamental. El estudiante d
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un aviso de un zoológico muestra la foto de un león y dice: "**VEN A CONOCER AL REY. ABIERTO TODOS LOS DÍAS. NIÑOS ENTRAN GRATIS ESTE DOMINGO**".
@@ -78,7 +86,7 @@ Un aviso de un zoológico muestra la foto de un león y dice: "**VEN A CONOCER A
 ### Enunciado
 ¿Cuál es el principal beneficio que ofrece el anuncio para el próximo domingo?
 
-### Options
+### Opciones
 - [ ] A) Que regalarán comida a los visitantes. <!-- feedback: Incorrecto. El anuncio no menciona regalos de comida. -->
 - [ ] B) Que el león hablará con los niños. <!-- feedback: Incorrecto. El león es para conocerlo, no dice que hable. -->
 - [x] C) Que los niños no tienen que pagar la entrada ese día. <!-- feedback: ¡Correcto! La expresión "entran gratis" significa que el costo de la boleta es cero para los menores. -->
@@ -94,6 +102,7 @@ Identificar ofertas o promociones específicas en la publicidad ayuda al estudia
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un comercial de televisión muestra a un deportista famoso tomando una bebida hidratante después de ganar una carrera. El anuncio dice: "**SOLO PARA CAMPEONES**".
@@ -101,7 +110,7 @@ Un comercial de televisión muestra a un deportista famoso tomando una bebida hi
 ### Enunciado
 ¿Por qué el anuncio utiliza a un deportista famoso para mostrar el producto?
 
-### Options
+### Opciones
 - [ ] A) Porque el deportista no tenía nada más que hacer. <!-- feedback: Incorrecto. Los deportistas son contratados para dar prestigio a la marca. -->
 - [ ] B) Porque los famosos necesitan tomar mucha agua. <!-- feedback: Incorrecto. El objetivo es que la gente asocie el éxito con la bebida. -->
 - [x] C) Para que las personas crean que si toman esa bebida, también serán exitosas como él. <!-- feedback: ¡Correcto! Es una técnica publicitaria de asociación de valores (éxito/campeón) con el producto. -->
@@ -117,6 +126,7 @@ Entender el uso de figuras de autoridad o fama en la publicidad desarrolla el pe
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un cartel de un restaurante de hamburguesas tiene una foto de una hamburguesa gigante, con colores muy brillantes, queso derretido y vegetales muy frescos. Debajo dice: "**EL SABOR QUE TE HARÁ SONREÍR**".
@@ -124,7 +134,7 @@ Un cartel de un restaurante de hamburguesas tiene una foto de una hamburguesa gi
 ### Enunciado
 ¿Cuál es la función de la **imagen** en este anuncio publicitario?
 
-### Options
+### Opciones
 - [ ] A) Mostrarnos cómo es una hamburguesa por dentro exactamente. <!-- feedback: Incorrecto. Las fotos publicitarias suelen ser retocadas para verse mejor de lo que son. -->
 - [x] B) Provocar hambre y deseo de comprar el producto al verlo tan atractivo. <!-- feedback: ¡Correcto! La imagen busca seducir al consumidor a través de la vista. -->
 - [ ] C) Enseñarnos a cocinar una hamburguesa igual en casa. <!-- feedback: Incorrecto. El anuncio quiere que vayas al restaurante a comprarla, no que la hagas tú. -->
@@ -140,6 +150,7 @@ Analizar la función de la imagen en la publicidad (función apelativa) permite 
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un aviso de una crema dental dice: "**9 DE CADA 10 ODONTÓLOGOS LA RECOMIENDAN**".
@@ -147,7 +158,7 @@ Un aviso de una crema dental dice: "**9 DE CADA 10 ODONTÓLOGOS LA RECOMIENDAN**
 ### Enunciado
 ¿Cuál es la intención de usar esta cifra en el anuncio?
 
-### Options
+### Opciones
 - [ ] A) Contar cuántos odontólogos hay en el país. <!-- feedback: Incorrecto. Es solo una proporción pequeña usada como ejemplo. -->
 - [ ] B) Decirnos que los odontólogos regalan la crema dental. <!-- feedback: Incorrecto. El anuncio no habla de regalos, sino de recomendación. -->
 - [x] C) Dar confianza al comprador usando la opinión de expertos en salud. <!-- feedback: ¡Correcto! Usar "expertos" o "médicos" da autoridad y credibilidad al producto. -->
@@ -163,6 +174,7 @@ Identificar argumentos de autoridad (expertos) en la publicidad ayuda a los estu
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Compara estos dos anuncios sobre el ahorro de agua:**
@@ -172,7 +184,7 @@ Anuncio B: "¡No dejes que el mundo se seque! Cada gota que ahorras es vida para
 ### Enunciado
 ¿Qué diferencia hay entre la forma de convencer del Anuncio A y el Anuncio B?
 
-### Options
+### Opciones
 - [ ] A) El Anuncio A es más divertido que el B. <!-- feedback: Incorrecto. El A es muy serio y corto. -->
 - [ ] B) El Anuncio B es para personas que no saben leer. <!-- feedback: Incorrecto. El B tiene más texto y es más complejo. -->
 - [x] C) El Anuncio A solo informa, mientras que el B intenta emocionar y dar una orden directa. <!-- feedback: ¡Correcto! El uso de exclamaciones ("¡Cierra el grifo ya!") y palabras como "vida" buscan una reacción emocional y una acción inmediata. -->
@@ -188,6 +200,7 @@ Diferenciar entre publicidad informativa y publicidad emocional (o propaganda) e
 **Bloom:** Evaluate
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un anuncio de un juguete nuevo dice: "**¡EL JUGUETE QUE TODOS TUS AMIGOS YA TIENEN! NO TE QUEDES POR FUERA. PÍDELO YA**".
@@ -195,7 +208,7 @@ Un anuncio de un juguete nuevo dice: "**¡EL JUGUETE QUE TODOS TUS AMIGOS YA TIE
 ### Enunciado
 ¿Qué estrategia está usando este anuncio para convencer al niño de comprarlo?
 
-### Options
+### Opciones
 - [ ] A) Decir que el juguete es el más barato del mercado. <!-- feedback: Incorrecto. El anuncio no menciona el precio. -->
 - [ ] B) Explicar cómo funciona el juguete paso a paso. <!-- feedback: Incorrecto. No da detalles técnicos del juguete. -->
 - [x] C) Hacer sentir al niño que si no lo tiene, será diferente a sus amigos o se perderá de algo importante. <!-- feedback: ¡Correcto! Es la presión social de "todos ya lo tienen", una estrategia común para generar necesidad de pertenencia. -->

@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY"
+id: "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "animales-caracteristicas"
-semana: "W04"
+week: "W04"
 protocol_version: "5.2"
 bundle_type: "weekly"
 bundle_index: 1
@@ -20,17 +20,22 @@ rubric_baseline: "animales_caracteristicas"
 license: "FREE"
 tier: "legacy"
 
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Ciencias Naturales Grado 3 - Semana W04
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 
 **ID:** `CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** En la clase de ciencias del Colegio Simón Bolívar de Santa Marta, la profesora explica que los animales se clasifican en vertebrados e invertebrados.
+**Contexto:** En la clase de ciencias del Colegio Simón Bolívar de Santa Marta, la profesora explica que los animales se clasifican en vertebrados e invertebrados.
 
 ### Enunciado
 ¿Cuál es la característica principal de los animales vertebrados?
@@ -46,13 +51,14 @@ Los animales vertebrados se caracterizan por poseer un endoesqueleto con columna
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 
 **ID:** `CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** La profesora muestra imágenes de varios animales: una mariposa, un perro, un caracol y un pez.
+**Contexto:** La profesora muestra imágenes de varios animales: una mariposa, un perro, un caracol y un pez.
 
 ### Enunciado
 ¿Cuál de estos animales es un invertebrado?
@@ -68,13 +74,14 @@ Los invertebrados representan aproximadamente el 95% de todas las especies anima
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 
 **ID:** `CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** Santiago observa un caracol desplazándose lentamente en el jardín de su casa en Manizales.
+**Contexto:** Santiago observa un caracol desplazándose lentamente en el jardín de su casa en Manizales.
 
 ### Enunciado
 ¿Cómo se desplazan los caracoles?
@@ -90,13 +97,14 @@ El desplazamiento de los caracoles se realiza mediante ondas de contracción mus
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 
 **ID:** `CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** En el barrio El Poblado de Medellín, Camila encuentra una lombriz de tierra después de una lluvia.
+**Contexto:** En el barrio El Poblado de Medellín, Camila encuentra una lombriz de tierra después de una lluvia.
 
 ### Enunciado
 ¿Por qué las lombrices salen a la superficie después de la lluvia?
@@ -112,13 +120,14 @@ Las lombrices de tierra son anélidos invertebrados que respiran a través de su
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 
 **ID:** `CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** La profesora pide clasificar estos animales en domésticos y salvajes: vaca, tigre, gallina, delfín, oveja, caimán.
+**Contexto:** La profesora pide clasificar estos animales en domésticos y salvajes: vaca, tigre, gallina, delfín, oveja, caimán.
 
 ### Enunciado
 ¿Cuál de los siguientes animales es salvaje?
@@ -134,13 +143,14 @@ Los animales domésticos han sido criados por los humanos durante miles de años
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 
 **ID:** `CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
 
-**Context:** Durante un paseo escolar al Zoológico de Cali, los estudiantes observan diferentes animales y deben agruparlos según su cubierta corporal.
+**Contexto:** Durante un paseo escolar al Zoológico de Cali, los estudiantes observan diferentes animales y deben agruparlos según su cubierta corporal.
 
 ### Enunciado
 Un animal cubierto de escamas, que respira por branquias y vive en el agua, ¿a qué grupo pertenece?
@@ -156,13 +166,14 @@ Los peces son vertebrados acuáticos con escamas protectoras, aletas para nadar 
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 
 **ID:** `CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** Mariana observa que las aves del jardín de su casa en Popayán comen diferentes alimentos.
+**Contexto:** Mariana observa que las aves del jardín de su casa en Popayán comen diferentes alimentos.
 
 ### Enunciado
 ¿Por qué los colibríes pueden volar hacia atrás y las demás aves no?
@@ -178,13 +189,14 @@ Los colibríes (familia Trochilidae) pueden rotar el ala describiendo un patrón
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 
 **ID:** `CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
 
-**Context:** Los estudiantes observan un hormiguero en el patio del colegio. Las hormigas transportan hojas hacia el interior.
+**Contexto:** Los estudiantes observan un hormiguero en el patio del colegio. Las hormigas transportan hojas hacia el interior.
 
 ### Enunciado
 ¿Por qué las hormigas arrieras transportan hojas al hormiguero?
@@ -200,13 +212,14 @@ Las hormigas arrieras (género Atta) tienen una relación de simbiosis con hongo
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 
 **ID:** `CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
 
-**Context:** En el Parque Nacional Natural Tayrona, los guardaparques explican que las tortugas marinas están en peligro por la contaminación de los océanos.
+**Contexto:** En el Parque Nacional Natural Tayrona, los guardaparques explican que las tortugas marinas están en peligro por la contaminación de los océanos.
 
 ### Enunciado
 ¿Por qué las bolsas plásticas en el mar son especialmente peligrosas para las tortugas marinas?
@@ -222,13 +235,14 @@ Las tortugas marinas anidan en playas colombianas como Tayrona, Gorgona y Acand�
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 
 **ID:** `CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-v10`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Indagación
 
-**Context:** Un estudiante dice: 'No deberíamos proteger a las serpientes porque son peligrosas y muerden a las personas'. Su compañera responde que todas las serpientes merecen protección.
+**Contexto:** Un estudiante dice: 'No deberíamos proteger a las serpientes porque son peligrosas y muerden a las personas'. Su compañera responde que todas las serpientes merecen protección.
 
 ### Enunciado
 ¿Cuál de las siguientes afirmaciones es la más acertada?

@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W36-repaso-p7-001-MASTERY"
+id: "CO-LEC-4-2026-W36-repaso-p7-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "repaso-p7"
-semana: "W36"
+week: "W36"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "repaso: inferencias visuales, secuencias lógicas, relación t
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W36: Repaso P7
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W36-repaso-p7-001-MASTERY-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Inferir imagen.
+**Contexto:** Inferir imagen.
 
 ### Enunciado
 *"Imagen: nubes grises, paraguas, charcos. ¿Qué clima es?"*
 
-### Options
-- [ ] A) Soleado.
+### Opciones
+- [ ] A) Soleado. <!-- feedback: Incorrecto. Soleado. -->
 - [x] B) Lluvioso. <!-- feedback: Correcto. -->
-- [ ] C) Nevado.
-- [ ] D) Caluroso.
+- [ ] C) Nevado. <!-- feedback: Incorrecto. Nevado. -->
+- [ ] D) Caluroso. <!-- feedback: Incorrecto. Caluroso. -->
 
 ### Explicación Pedagógica
 Repaso inferir.
@@ -49,17 +54,18 @@ Repaso inferir.
 
 **ID:** `CO-LEC-4-2026-W36-repaso-p7-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Secuencia lógica.
+**Contexto:** Secuencia lógica.
 
 ### Enunciado
 *"¿Qué conector indica orden?"*
 
-### Options
-- [ ] A) porque.
+### Opciones
+- [ ] A) porque. <!-- feedback: Incorrecto. porque. -->
 - [x] B) luego. <!-- feedback: Correcto. -->
-- [ ] C) pero.
-- [ ] D) aunque.
+- [ ] C) pero. <!-- feedback: Incorrecto. pero. -->
+- [ ] D) aunque. <!-- feedback: Incorrecto. aunque. -->
 
 ### Explicación Pedagógica
 Repaso conector.
@@ -70,17 +76,18 @@ Repaso conector.
 
 **ID:** `CO-LEC-4-2026-W36-repaso-p7-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Complemento texto-imagen.
+**Contexto:** Complemento texto-imagen.
 
 ### Enunciado
 *"Texto: playa. Imagen: mar y arena. ¿Relación?"*
 
-### Options
-- [ ] A) Contradicción.
+### Opciones
+- [ ] A) Contradicción. <!-- feedback: Incorrecto. Contradicción. -->
 - [x] B) Complemento. <!-- feedback: Correcto. -->
-- [ ] C) Ninguna.
-- [ ] D) Confusión.
+- [ ] C) Ninguna. <!-- feedback: Incorrecto. Ninguna. -->
+- [ ] D) Confusión. <!-- feedback: Incorrecto. Confusión. -->
 
 ### Explicación Pedagógica
 Repaso complemento.
@@ -91,17 +98,18 @@ Repaso complemento.
 
 **ID:** `CO-LEC-4-2026-W36-repaso-p7-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Orden lógico.
+**Contexto:** Orden lógico.
 
 ### Enunciado
 *"1. Sembrar. 2. Regar. 3. _________. 4. Cosechar."* ¿Qué falta?
 
-### Options
-- [ ] A) Dormir.
+### Opciones
+- [ ] A) Dormir. <!-- feedback: Incorrecto. Dormir. -->
 - [x] B) Cuidar y esperar. <!-- feedback: Correcto. -->
-- [ ] C) Coser.
-- [ ] D) Correr.
+- [ ] C) Coser. <!-- feedback: Incorrecto. Coser. -->
+- [ ] D) Correr. <!-- feedback: Incorrecto. Correr. -->
 
 ### Explicación Pedagógica
 Repaso completar.
@@ -112,17 +120,18 @@ Repaso completar.
 
 **ID:** `CO-LEC-4-2026-W36-repaso-p7-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Inferir emoción.
+**Contexto:** Inferir emoción.
 
 ### Enunciado
 *"Imagen: persona con lágrimas y cabeza baja. ¿Emoción?"*
 
-### Options
-- [ ] A) Alegría.
+### Opciones
+- [ ] A) Alegría. <!-- feedback: Incorrecto. Alegría. -->
 - [x] B) Tristeza. <!-- feedback: Correcto. -->
-- [ ] C) Enojo.
-- [ ] D) Sorpresa.
+- [ ] C) Enojo. <!-- feedback: Incorrecto. Enojo. -->
+- [ ] D) Sorpresa. <!-- feedback: Incorrecto. Sorpresa. -->
 
 ### Explicación Pedagógica
 Repaso emoción.
@@ -133,17 +142,18 @@ Repaso emoción.
 
 **ID:** `CO-LEC-4-2026-W36-repaso-p7-001-MASTERY-v6`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Analizar.
+**Contexto:** Analizar.
 
 ### Enunciado
 *"Texto: ‘10 estudiantes’. Imagen: 5 estudiantes. ¿Problema?"*
 
-### Options
-- [ ] A) Ninguno.
+### Opciones
+- [ ] A) Ninguno. <!-- feedback: Incorrecto. Ninguno. -->
 - [x] B) No coincide. <!-- feedback: Correcto. -->
-- [ ] C) Es mejor.
-- [ ] D) La imagen aclara.
+- [ ] C) Es mejor. <!-- feedback: Incorrecto. Es mejor. -->
+- [ ] D) La imagen aclara. <!-- feedback: Incorrecto. La imagen aclara. -->
 
 ### Explicación Pedagógica
 Repaso analizar.
@@ -154,17 +164,18 @@ Repaso analizar.
 
 **ID:** `CO-LEC-4-2026-W36-repaso-p7-001-MASTERY-v7`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Evaluar.
+**Contexto:** Evaluar.
 
 ### Enunciado
 *"¿Es lógico ‘encender el horno y luego meter la comida antes de precalentar’?"*
 
-### Options
-- [ ] A) Sí.
+### Opciones
+- [ ] A) Sí. <!-- feedback: Incorrecto. Sí. -->
 - [x] B) No, hay que precalentar antes. <!-- feedback: Correcto. -->
-- [ ] C) Da igual.
-- [ ] D) Solo si es rápido.
+- [ ] C) Da igual. <!-- feedback: Incorrecto. Da igual. -->
+- [ ] D) Solo si es rápido. <!-- feedback: Incorrecto. Solo si es rápido. -->
 
 ### Explicación Pedagógica
 Repaso evaluar.
@@ -175,17 +186,18 @@ Repaso evaluar.
 
 **ID:** `CO-LEC-4-2026-W36-repaso-p7-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Reordenar.
+**Contexto:** Reordenar.
 
 ### Enunciado
 *"Desorden: leer, abrir libro, buscar página. ¿Orden?"*
 
-### Options
+### Opciones
 - [x] A) Abrir, buscar, leer. <!-- feedback: Correcto. -->
-- [ ] B) Leer, abrir, buscar.
-- [ ] C) Buscar, leer, abrir.
-- [ ] D) Buscar, abrir, leer.
+- [ ] B) Leer, abrir, buscar. <!-- feedback: Incorrecto. Leer, abrir, buscar. -->
+- [ ] C) Buscar, leer, abrir. <!-- feedback: Incorrecto. Buscar, leer, abrir. -->
+- [ ] D) Buscar, abrir, leer. <!-- feedback: Incorrecto. Buscar, abrir, leer. -->
 
 ### Explicación Pedagógica
 Repaso reordenar.
@@ -196,17 +208,18 @@ Repaso reordenar.
 
 **ID:** `CO-LEC-4-2026-W36-repaso-p7-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Importancia.
+**Contexto:** Importancia.
 
 ### Enunciado
 *"¿Por qué es importante que texto e imagen coincidan?"*
 
-### Options
-- [ ] A) No es importante.
+### Opciones
+- [ ] A) No es importante. <!-- feedback: Incorrecto. No es importante. -->
 - [x] B) Para no confundir al lector. <!-- feedback: Correcto. -->
-- [ ] C) Por estética.
-- [ ] D) Para ocupar espacio.
+- [ ] C) Por estética. <!-- feedback: Incorrecto. Por estética. -->
+- [ ] D) Para ocupar espacio. <!-- feedback: Incorrecto. Para ocupar espacio. -->
 
 ### Explicación Pedagógica
 Repaso importancia.
@@ -217,17 +230,18 @@ Repaso importancia.
 
 **ID:** `CO-LEC-4-2026-W36-repaso-p7-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Aplicar.
+**Contexto:** Aplicar.
 
 ### Enunciado
 *"Necesitas explicar cómo hacer un avión de papel. ¿Qué usas?"*
 
-### Options
-- [ ] A) Solo texto.
+### Opciones
+- [ ] A) Solo texto. <!-- feedback: Incorrecto. Solo texto. -->
 - [x] B) Texto + imágenes/diagramas. <!-- feedback: Correcto. -->
-- [ ] C) Solo imágenes.
-- [ ] D) Solo gráfica.
+- [ ] C) Solo imágenes. <!-- feedback: Incorrecto. Solo imágenes. -->
+- [ ] D) Solo gráfica. <!-- feedback: Incorrecto. Solo gráfica. -->
 
 ### Explicación Pedagógica
 Repaso aplicar.

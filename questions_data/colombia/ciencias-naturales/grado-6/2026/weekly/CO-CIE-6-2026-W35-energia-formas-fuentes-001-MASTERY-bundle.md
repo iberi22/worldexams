@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W35-energia-formas-fuentes-001-MASTERY"
+id: "CO-CIE-6-2026-W35-energia-formas-fuentes-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W35 — Energía: Formas y Fuentes de Energía
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W35-energia-formas-fuentes-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, estudiantes definen energía.
+**Contexto:** En Bogotá, estudiantes definen energía.
 
 ### Enunciado
 ¿Qué es la energía?
 
-### Options
+### Opciones
 - [ ] A) Una sustancia que se puede almacenar en botellas <!-- feedback: La energía no es una sustancia material. -->
 - [ ] B) Un tipo de materia que pesa y ocupa espacio <!-- feedback: La energía no es materia. -->
 - [x] C) La capacidad de un cuerpo para realizar un trabajo o producir cambios <!-- feedback: Correcto. La energía permite que las cosas ocurran. -->
@@ -57,13 +60,14 @@ Ejemplos cotidianos:
 
 **ID:** `CO-CIE-6-2026-W35-energia-formas-fuentes-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, estudiantes identifican formas de energía.
+**Contexto:** En Medellín, estudiantes identifican formas de energía.
 
 ### Enunciado
 ¿Cómo se llama la energía que posee un cuerpo por su movimiento?
 
-### Options
+### Opciones
 - [ ] A) Energía potencial <!-- feedback: La energía potencial es la almacenada por posición o configuración. -->
 - [x] B) Energía cinética <!-- feedback: Correcto. La energía cinética depende de la masa y la velocidad. -->
 - [ ] C) Energía química <!-- feedback: La energía química está almacenada en los enlaces de las moléculas. -->
@@ -87,13 +91,14 @@ La energía cinética se puede transformar en otras formas: al frenar un carro, 
 
 **ID:** `CO-CIE-6-2026-W35-energia-formas-fuentes-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, estudiantes explican la energía potencial.
+**Contexto:** En Cali, estudiantes explican la energía potencial.
 
 ### Enunciado
 Un libro está en una repisa alta. ¿Qué tipo de energía tiene debido a su posición?
 
-### Options
+### Opciones
 - [ ] A) Energía cinética, porque está quieto <!-- feedback: Si está quieto, su energía cinética es cero. -->
 - [ ] B) Energía térmica, porque está a temperatura ambiente <!-- feedback: Todo cuerpo tiene energía térmica, pero no es por su posición. -->
 - [x] C) Energía potencial gravitatoria <!-- feedback: Correcto. Por su altura, tiene energía almacenada. -->
@@ -120,13 +125,14 @@ Otros tipos de energía potencial:
 
 **ID:** `CO-CIE-6-2026-W35-energia-formas-fuentes-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, estudiantes clasifican fuentes de energía.
+**Contexto:** En Barranquilla, estudiantes clasifican fuentes de energía.
 
 ### Enunciado
 ¿Cuál de las siguientes es una fuente de energía RENOVABLE?
 
-### Options
+### Opciones
 - [ ] A) Petróleo <!-- feedback: El petróleo es un combustible fósil, no renovable (tarda millones de años en formarse). -->
 - [ ] B) Carbón <!-- feedback: El carbón es un combustible fósil no renovable. -->
 - [x] C) Energía solar <!-- feedback: Correcto. El sol es una fuente inagotable de energía. -->
@@ -151,13 +157,14 @@ Las **no renovables** (petróleo, carbón, gas natural) se agotan y su combusti�
 
 **ID:** `CO-CIE-6-2026-W35-energia-formas-fuentes-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, estudiantes aplican el concepto de transformación energética.
+**Contexto:** En Bucaramanga, estudiantes aplican el concepto de transformación energética.
 
 ### Enunciado
 ¿Qué transformación de energía ocurre cuando enciendes una linterna?
 
-### Options
+### Opciones
 - [ ] A) Luz → electricidad → calor <!-- feedback: El orden es incorrecto. -->
 - [ ] B) Calor → luz → electricidad <!-- feedback: No es el orden correcto. -->
 - [x] C) Energía química (batería) → energía eléctrica → energía luminosa (bombillo) <!-- feedback: Correcto. Es una cadena de transformaciones. -->
@@ -184,13 +191,14 @@ Este principio de transformación aplica a todos los aparatos:
 
 **ID:** `CO-CIE-6-2026-W35-energia-formas-fuentes-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, estudiantes aplican conceptos de fuentes de energía.
+**Contexto:** En Cartagena, estudiantes aplican conceptos de fuentes de energía.
 
 ### Enunciado
 ¿Por qué los paneles solares se consideran una tecnología de energía limpia?
 
-### Options
+### Opciones
 - [ ] A) Porque no producen electricidad <!-- feedback: Sí producen electricidad. -->
 - [x] B) Porque convierten la luz solar directamente en electricidad sin quemar combustibles, sin emitir CO₂ ni otros contaminantes durante su operación <!-- feedback: Correcto. La energía solar es limpia en su funcionamiento. -->
 - [ ] C) Porque funcionan de noche cuando no hay sol <!-- feedback: Los paneles necesitan luz solar para funcionar. -->
@@ -224,13 +232,14 @@ Los **paneles solares fotovoltaicos** son una tecnología de energía limpia por
 
 **ID:** `CO-CIE-6-2026-W35-energia-formas-fuentes-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan la energía hidroeléctrica en Colombia.
+**Contexto:** En Pereira, analizan la energía hidroeléctrica en Colombia.
 
 ### Enunciado
 Colombia genera aproximadamente el 70% de su electricidad mediante hidroeléctricas. ¿Qué tipo de transformación energética ocurre en una central hidroeléctrica?
 
-### Options
+### Opciones
 - [ ] A) Energía solar → energía eólica → energía nuclear <!-- feedback: No es el proceso. -->
 - [ ] B) Energía química → energía térmica → energía eléctrica <!-- feedback: Eso es una termoeléctrica (quemar carbón o gas). -->
 - [x] C) Energía potencial gravitatoria del agua embalsada → energía cinética (agua cayendo) → energía mecánica (turbina girando) → energía eléctrica (generador) <!-- feedback: Correcto. Transformación en cadena. -->
@@ -262,13 +271,14 @@ Una **central hidroeléctrica** convierte la energía del agua en electricidad m
 
 **ID:** `CO-CIE-6-2026-W35-energia-formas-fuentes-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, analizan la diferencia entre calor y temperatura.
+**Contexto:** En Manizales, analizan la diferencia entre calor y temperatura.
 
 ### Enunciado
 ¿Cuál es la diferencia entre calor y temperatura?
 
-### Options
+### Opciones
 - [ ] A) No hay diferencia, son sinónimos <!-- feedback: Son conceptos diferentes. -->
 - [ ] B) Calor es lo que sentimos cuando hace sol; temperatura es lo que marca el termómetro <!-- feedback: Aproximado pero impreciso. -->
 - [x] C) Calor es la transferencia de energía térmica entre cuerpos a diferente temperatura; temperatura es la medida de la energía cinética promedio de las partículas de un cuerpo <!-- feedback: Correcto. Calor = transferencia; temperatura = medida. -->
@@ -301,13 +311,14 @@ La **transferencia de calor** ocurre por:
 
 **ID:** `CO-CIE-6-2026-W35-energia-formas-fuentes-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan la matriz energética colombiana.
+**Contexto:** En Cúcuta, evalúan la matriz energética colombiana.
 
 ### Enunciado
 Colombia tiene una matriz energética donde ~70% es hidroeléctrica y ~30% termoeléctrica (carbón, gas). ¿Cuál es un riesgo de esta composición?
 
-### Options
+### Opciones
 - [ ] A) La energía hidroeléctrica contamina más que la termoeléctrica <!-- feedback: La hidroeléctrica es más limpia en operación. -->
 - [ ] B) Las hidroeléctricas producen demasiada electricidad <!-- feedback: Producen suficiente. -->
 - [x] C) En épocas de sequía (fenómeno de El Niño), los embalses bajan su nivel y la generación hidroeléctrica disminuye, aumentando la dependencia de termoeléctricas que usan combustibles fósiles <!-- feedback: Correcto. Colombia depende de las lluvias. -->
@@ -338,13 +349,14 @@ La **matriz energética colombiana** (70% hidroeléctrica, 30% termoeléctrica) 
 
 **ID:** `CO-CIE-6-2026-W35-energia-formas-fuentes-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan el ahorro de energía en el hogar.
+**Contexto:** En Ibagué, evalúan el ahorro de energía en el hogar.
 
 ### Enunciado
 ¿Cuál de las siguientes acciones AHORRA más energía en un hogar colombiano típico?
 
-### Options
+### Opciones
 - [ ] A) Dejar los cargadores conectados sin usar <!-- feedback: Los cargadores consumen poca energía (vampiros energéticos). -->
 - [ ] B) Usar bombillas LED en lugar de bombillas incandescentes <!-- feedback: Correcto. Los LEDs consumen ~85% menos energía. -->
 - [ ] C) Tener el televisor encendido 24 horas <!-- feedback: Consume bastante pero no es la más eficiente. -->

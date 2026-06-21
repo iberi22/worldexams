@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W37-graficas-estadisticas-001-MASTERY"
+id: "CO-MAT-6-2026-W37-graficas-estadisticas-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W37 — Graficas Estadisticas (Barras, Circular, Linea)
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W37-graficas-estadisticas-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Tipos de graficas estadisticas
+**Contexto:** Tipos de graficas estadisticas
 
 ### Enunciado
 ¿Que tipo de grafica es la mas adecuada para mostrar la distribucion de una variable categorica (como preferencias de color)?
 
-### Options
+### Opciones
 - [ ] A) Grafica de linea <!-- feedback: Incorrect. La grafica de linea se usa para mostrar tendencias a lo largo del tiempo. -->
 - [ ] B) Grafica de barras <!-- feedback: Correct. La grafica de barras es ideal para comparar categorias o variables cualitativas. -->
 - [x] C) Grafica de barras <!-- feedback: Correct. Las graficas de barras muestran frecuencias de categorias mediante barras de diferentes alturas. -->
@@ -48,13 +51,14 @@ Las graficas de barras son ideales para datos cualitativos o categoricos. Cada b
 
 **ID:** `CO-MAT-6-2026-W37-graficas-estadisticas-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Interpretacion de grafica circular
+**Contexto:** Interpretacion de grafica circular
 
 ### Enunciado
 En una grafica circular (de pastel), ¿que representa cada sector o "rebanada"?
 
-### Options
+### Opciones
 - [ ] A) La frecuencia absoluta de cada categoria <!-- feedback: Puede mostrar frecuencia, pero tipicamente muestra el porcentaje o proporcion del total. -->
 - [ ] B) La moda de los datos <!-- feedback: Incorrect. La moda no se representa directamente en una grafica circular. -->
 - [x] C) La proporcion del total que representa cada categoria <!-- feedback: Correct. Cada sector muestra la fraccion o porcentaje del total que corresponde a esa categoria. -->
@@ -69,8 +73,9 @@ La grafica circular (o de pastel) divide un circulo en sectores proporcionales a
 
 **ID:** `CO-MAT-6-2026-W37-graficas-estadisticas-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Lectura de graficas
-**Context:** Lectura de grafica de barras de transporte
+**Contexto:** Lectura de grafica de barras de transporte
 
 ### Enunciado
 La siguiente grafica de barras muestra el medio de transporte usado por los estudiantes de un colegio en Cali para llegar al colegio:
@@ -82,7 +87,7 @@ La siguiente grafica de barras muestra el medio de transporte usado por los estu
 
 ¿Cuantos estudiantes usan bus o bicicleta para llegar al colegio?
 
-### Options
+### Opciones
 - [ ] A) 50 estudiantes <!-- feedback: Incorrect. 15 + 25 = 40, no 50. -->
 - [x] B) 40 estudiantes <!-- feedback: Correct. Bus (25) + Bicicleta (15) = 40 estudiantes. -->
 - [ ] C) 35 estudiantes <!-- feedback: Incorrect. Se tomo bus (25) + caminando (20) = 45, o bicicleta (15) + carro (10) = 25, etc. -->
@@ -97,8 +102,9 @@ Para leer una grafica de barras, identificamos la altura de cada barra y la rela
 
 **ID:** `CO-MAT-6-2026-W37-graficas-estadisticas-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Lectura de graficas
-**Context:** Lectura de grafica de linea de temperatura
+**Contexto:** Lectura de grafica de linea de temperatura
 
 ### Enunciado
 La grafica de linea muestra las temperaturas maximas en Bogota durante una semana:
@@ -112,7 +118,7 @@ La grafica de linea muestra las temperaturas maximas en Bogota durante una seman
 
 ¿Cual fue la temperatura mas alta de la semana y que dia se registro?
 
-### Options
+### Opciones
 - [ ] A) 22°C, sabado <!-- feedback: Incorrect. 22°C fue el viernes, no sabado. -->
 - [ ] B) 18°C, lunes <!-- feedback: Incorrect. 18°C no es la mas alta. -->
 - [x] C) 22°C, viernes <!-- feedback: Correct. El punto mas alto de la grafica corresponde al viernes con 22°C. -->
@@ -127,13 +133,14 @@ En una grafica de linea, los puntos representan valores y las lineas conectan lo
 
 **ID:** `CO-MAT-6-2026-W37-graficas-estadisticas-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Interpretacion de graficas
-**Context:** Interpretacion de tendencia en grafica de linea
+**Contexto:** Interpretacion de tendencia en grafica de linea
 
 ### Enunciado
 Observando la misma grafica de temperaturas de Bogota (L:18, M:20, Mi:16, J:19, V:22, S:21, D:20 en °C). ¿Entre que dias hubo el mayor aumento de temperatura?
 
-### Options
+### Opciones
 - [ ] A) De miercoles a jueves <!-- feedback: Correct. Miercoles 16°C → Jueves 19°C = aumento de 3°C. -->
 - [x] B) De miercoles a jueves <!-- feedback: Correct. Miercoles: 16, Jueves: 19. Aumento: 19 - 16 = 3°C. Es el mayor incremento. -->
 - [ ] C) De lunes a martes <!-- feedback: Incorrect. Lunes 18 → Martes 20 = aumento de 2°C. -->
@@ -156,8 +163,9 @@ Hay dos aumentos de 3°C. La grafica de linea nos permite ver visualmente los tr
 
 **ID:** `CO-MAT-6-2026-W37-graficas-estadisticas-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Lectura de graficas
-**Context:** Grafica circular de presupuesto
+**Contexto:** Grafica circular de presupuesto
 
 ### Enunciado
 Una grafica circular muestra la distribucion del presupuesto de una alcaldia municipal en Colombia:
@@ -169,7 +177,7 @@ Una grafica circular muestra la distribucion del presupuesto de una alcaldia mun
 
 Si el presupuesto total es de $1,200 millones de pesos, ¿cuanto dinero se destina a educacion?
 
-### Options
+### Opciones
 - [ ] A) $350 millones <!-- feedback: Incorrect. 35% de 1,200 = 0.35 × 1,200 = 420, no 350. -->
 - [x] B) $420 millones <!-- feedback: Correct. 35% = 0.35. 0.35 × 1,200 = 420 millones de pesos. -->
 - [ ] C) $300 millones <!-- feedback: Incorrect. Error: 1,200 × 0.25 = 300 (ese seria el 25%, salud). -->
@@ -184,8 +192,9 @@ En una grafica circular, cada sector representa un porcentaje del total. Para ca
 
 **ID:** `CO-MAT-6-2026-W37-graficas-estadisticas-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Construccion e interpretacion
-**Context:** Construir grafica de barras
+**Contexto:** Construir grafica de barras
 
 ### Enunciado
 Un estudio en un colegio de Pasto registro el numero de libros leidos por los estudiantes en un mes:
@@ -197,7 +206,7 @@ Un estudio en un colegio de Pasto registro el numero de libros leidos por los es
 
 Si se construye una grafica de barras para estos datos, ¿que barra seria la mas alta?
 
-### Options
+### Opciones
 - [ ] A) 0 libros <!-- feedback: Incorrect. Solo 8 estudiantes, no es la barra mas alta. -->
 - [ ] B) 1 libro <!-- feedback: Incorrect. 12 estudiantes es la segunda mas alta. -->
 - [x] C) 2 libros <!-- feedback: Correct. 15 estudiantes es la mayor frecuencia, por lo tanto la barra mas alta. -->
@@ -219,8 +228,9 @@ La barra mas alta es "2 libros" con 15 estudiantes.
 
 **ID:** `CO-MAT-6-2026-W37-graficas-estadisticas-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Interpretacion de graficas
-**Context:** Grafica de linea de ventas
+**Contexto:** Grafica de linea de ventas
 
 ### Enunciado
 La siguiente tabla muestra las ventas de una tienda de ropa en Sincelejo durante los primeros 6 meses del año:
@@ -233,7 +243,7 @@ La siguiente tabla muestra las ventas de una tienda de ropa en Sincelejo durante
 
 ¿En que mes las ventas alcanzaron el punto maximo y cual fue la tendencia general?
 
-### Options
+### Opciones
 - [ ] A) Enero con $8M, tendencia decreciente <!-- feedback: Incorrect. Enero no es el maximo y la tendencia no es decreciente. -->
 - [ ] B) Mayo con $11M, tendencia creciente <!-- feedback: Correct. Mayo tiene el maximo de $11M y la tendencia general es creciente de enero ($8M) a junio ($10M). -->
 - [x] C) Mayo con $11M, tendencia creciente <!-- feedback: Correct. Ventas maximas en mayo. La tendencia general de enero a junio va de $8M a $10M. -->
@@ -248,13 +258,14 @@ En una grafica de linea de ventas a lo largo del tiempo, el punto maximo es mayo
 
 **ID:** `CO-MAT-6-2026-W37-graficas-estadisticas-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Eleccion del tipo de grafica
+**Contexto:** Eleccion del tipo de grafica
 
 ### Enunciado
 Un periodista en Barranquilla quiere mostrar como ha cambiado el nivel del rio Magdalena durante el año, mes a mes. ¿Que tipo de grafica deberia usar y por que?
 
-### Options
+### Opciones
 - [x] A) Grafica de linea, porque muestra tendencias a lo largo del tiempo <!-- feedback: Correct. La grafica de linea es ideal para mostrar la evolucion de una variable continua a traves del tiempo. -->
 - [ ] B) Grafica circular, porque muestra porcentajes <!-- feedback: Incorrect. La grafica circular muestra partes de un total en un momento especifico, no cambios a traves del tiempo. -->
 - [ ] C) Grafica de barras, porque compara categorias <!-- feedback: Incorrect. Aunque se podrian usar barras para cada mes, la grafica de linea muestra mejor la tendencia o evolucion. -->
@@ -269,8 +280,9 @@ La grafica de linea es la mas adecuada para datos que cambian a lo largo del tie
 
 **ID:** `CO-MAT-6-2026-W37-graficas-estadisticas-010-v1`
 **Bloom:** Synthesize
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Diseno de una encuesta y su grafica
+**Contexto:** Diseno de una encuesta y su grafica
 
 ### Enunciado
 Un grupo de estudiantes de grado 6° en Pereira realizo una encuesta sobre la fruta favorita en su curso. Obtuvieron estos resultados:
@@ -282,7 +294,7 @@ Un grupo de estudiantes de grado 6° en Pereira realizo una encuesta sobre la fr
 
 Quieren hacer una grafica circular (de pastel). ¿Cuantos grados del circulo debe ocupar el sector de "Mango"? (Un circulo completo tiene 360°)
 
-### Options
+### Opciones
 - [ ] A) 60° <!-- feedback: Incorrect. 9/30 = 0.3, 0.3 × 360 = 108°, no 60°. -->
 - [ ] B) 90° <!-- feedback: Incorrect. Eso seria el 25% (90/360 = 0.25). Mango tiene 9/30 = 30%. -->
 - [x] C) 108° <!-- feedback: Correct. Total votos = 9+6+3+6+6 = 30. Proporcion mango = 9/30 = 0.3. Grados = 0.3 × 360 = 108°. -->

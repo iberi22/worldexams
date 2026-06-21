@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W05-vocabulario-en-contexto-001-MASTERY"
+id: "CO-LC-7-2026-W05-vocabulario-en-contexto-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "vocabulario-en-contexto"
-semana: "W05"
+week: "W05"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Vocabulario en Contexto - Grado 7
 ## Semana W05 — Estrategias para deducir el significado de palabras desconocidas
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W05-vocabulario-en-contexto-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase de Lectura Crítica del Colegio San Mateo de Bogotá, la profesora explica la importancia del contexto.
+**Contexto:** En clase de Lectura Crítica del Colegio San Mateo de Bogotá, la profesora explica la importancia del contexto.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -37,11 +41,11 @@ El contexto son los elementos lingüísticos que rodean una palabra y proporcion
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LC-7-2026-W05-vocabulario-en-contexto-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** María lee: "El científico era escéptico; no creía en los resultados sin evidencia." No conoce "escéptico". Ayuda en Medellín.
+**Contexto:** María lee: "El científico era escéptico; no creía en los resultados sin evidencia." No conoce "escéptico". Ayuda en Medellín.
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -56,11 +60,11 @@ El texto proporciona una pista directa: después de "escéptico" sigue "no creí
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W05-vocabulario-en-contexto-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Carlos lee: "A diferencia de su hermano extrovertido, Andrés era taciturno." No conoce "taciturno" en Cali.
+**Contexto:** Carlos lee: "A diferencia de su hermano extrovertido, Andrés era taciturno." No conoce "taciturno" en Cali.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -75,11 +79,11 @@ La frase "a diferencia de" señala una relación de contraste u oposición. Si "
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LC-7-2026-W05-vocabulario-en-contexto-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Laura encuentra: "La crisis económica causó estragos: desempleo, pobreza y cierre de empresas." No sabe "estragos" en Barranquilla.
+**Contexto:** Laura encuentra: "La crisis económica causó estragos: desempleo, pobreza y cierre de empresas." No sabe "estragos" en Barranquilla.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -94,11 +98,11 @@ Los dos puntos (:) indican que sigue una explicación o enumeración de ejemplos
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W05-vocabulario-en-contexto-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Andrés lee un artículo científico: "Los científicos observaron una mitosis acelerada en las células cancerosas." No sabe "mitosis".
+**Contexto:** Andrés lee un artículo científico: "Los científicos observaron una mitosis acelerada en las células cancerosas." No sabe "mitosis".
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -113,11 +117,11 @@ Para palabras técnicas o especializadas, las mejores estrategias son: (1) Busca
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LC-7-2026-W05-vocabulario-en-contexto-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
-**Context:** Santiago lee: "El paisaje era desolador: árboles secos, tierra agrietada y un silencio sepulcral." Debe entender "sepulcral".
+**Contexto:** Santiago lee: "El paisaje era desolador: árboles secos, tierra agrietada y un silencio sepulcral." Debe entender "sepulcral".
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -132,11 +136,11 @@ Para palabras técnicas o especializadas, las mejores estrategias son: (1) Busca
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W05-vocabulario-en-contexto-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Valentina encuentra: "Su actitud era ambivalente: por un lado quería ir, pero por otro prefería quedarse." No sabe "ambivalente".
+**Contexto:** Valentina encuentra: "Su actitud era ambivalente: por un lado quería ir, pero por otro prefería quedarse." No sabe "ambivalente".
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -151,11 +155,11 @@ Para palabras técnicas o especializadas, las mejores estrategias son: (1) Busca
 
 ---
 
-## Pregunta 8 [D6]
+## Question 8 [D6]
 **ID:** `CO-LC-7-2026-W05-vocabulario-en-contexto-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Camila lee: "El terremoto fue catastrófico: miles de damnificados, edificios colapsados y una crisis humanitaria." Debe entender "damnificados".
+**Contexto:** Camila lee: "El terremoto fue catastrófico: miles de damnificados, edificios colapsados y una crisis humanitaria." Debe entender "damnificados".
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -170,11 +174,11 @@ Para palabras técnicas o especializadas, las mejores estrategias son: (1) Busca
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W05-vocabulario-en-contexto-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Sebastián lee: "El artista era un enfant terrible del arte colombiano, siempre causando polémica con sus obras." No sabe la frase en francés.
+**Contexto:** Sebastián lee: "El artista era un enfant terrible del arte colombiano, siempre causando polémica con sus obras." No sabe la frase en francés.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -189,11 +193,11 @@ Sin saber francés, ¿cómo se puede entender "enfant terrible"?
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W05-vocabulario-en-contexto-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Isabella lee: "El discurso del político fue un galimatías; nadie entendió lo que quiso decir." No sabe "galimatías".
+**Contexto:** Isabella lee: "El discurso del político fue un galimatías; nadie entendió lo que quiso decir." No sabe "galimatías".
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -208,11 +212,11 @@ La palabra "galimatías" significa lenguaje confuso e incoherente. La pista est�
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W05-vocabulario-en-contexto-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Daniel evalúa: "El proyecto era faraónico: costaría millones y tardaría décadas." No sabe "faraónico" en Sincelejo.
+**Contexto:** Daniel evalúa: "El proyecto era faraónico: costaría millones y tardaría décadas." No sabe "faraónico" en Sincelejo.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -227,11 +231,11 @@ La palabra "galimatías" significa lenguaje confuso e incoherente. La pista est�
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W05-vocabulario-en-contexto-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En clase de Lectura Crítica en Cúcuta, el profesor pregunta: "¿Siempre se puede deducir el significado de una palabra desconocida por el contexto?"
+**Contexto:** En clase de Lectura Crítica en Cúcuta, el profesor pregunta: "¿Siempre se puede deducir el significado de una palabra desconocida por el contexto?"
 **Expected_Success:** 0.42
 
 ### Enunciado

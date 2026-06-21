@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "repaso-p2"
-semana: "W10"
+week: "W10"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Repaso relieve, hidrografía, clima y regiones naturales de Co
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W10-repaso-p2-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cuál de los siguientes NO es un accidente del relieve colombiano?
@@ -39,12 +44,13 @@ El Monte Everest (8.848 msnm) está en Nepal. Colombia tiene las tres cordillera
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W10-repaso-p2-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Qué río nace en el Macizo Colombiano y desemboca en el mar Caribe?
@@ -60,12 +66,13 @@ El Magdalena recorre Colombia de sur a norte. Es la principal arteria fluvial de
 
 ---
 
-## Pregunta 3 [D2]
+## Question 3 [D2]
 
 **ID:** `CO-SOC-5-2026-W10-repaso-p2-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cuáles son los cinco pisos térmicos de Colombia?
@@ -81,12 +88,13 @@ Pisos: cálido (0-1.000 m, >24°C), templado (1.000-2.000 m, 18-24°C), frío (2
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W10-repaso-p2-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cuál es la región natural más poblada de Colombia?
@@ -102,12 +110,13 @@ La región Andina tiene las principales ciudades: Bogotá, Medellín, Cali, Buca
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W10-repaso-p2-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 La cuenca hidrográfica más grande de Colombia es la del…
@@ -123,12 +132,13 @@ Aproximadamente el 65% del territorio drena hacia el mar Caribe.
 
 ---
 
-## Pregunta 6 [D3]
+## Question 6 [D3]
 
 **ID:** `CO-SOC-5-2026-W10-repaso-p2-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Qué relación existe entre la altitud y la temperatura en Colombia?
@@ -144,12 +154,13 @@ Esta relación crea los pisos térmicos, dando gran diversidad de climas.
 
 ---
 
-## Pregunta 7 [D1]
+## Question 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W10-repaso-p2-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cuántas regiones naturales tiene Colombia?
@@ -165,12 +176,13 @@ Cada región tiene características únicas de relieve, clima, vegetación y cul
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W10-repaso-p2-001-MASTERY-v8`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 El río Magdalena atraviesa principalmente qué región natural?
@@ -186,12 +198,13 @@ El Magdalena recorre los departamentos de la región Andina: Huila, Tolima, Cund
 
 ---
 
-## Pregunta 9 [D3]
+## Question 9 [D3]
 
 **ID:** `CO-SOC-5-2026-W10-repaso-p2-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por qué Colombia no tiene estaciones climáticas marcadas como en Europa?
@@ -207,12 +220,13 @@ En el Ecuador la duración del día y la noche es casi igual todo el año.
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W10-repaso-p2-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Si la cordillera Central está entre la Occidental y la Oriental, ¿entre qué ríos se encuentra?

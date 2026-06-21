@@ -1,28 +1,32 @@
 ---
-id: "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY"
+id: "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lengua"
 tema: "oracion-simple-oracion-compuesta"
-semana: "W05"
+week: "W05"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Oración Simple y Oración Compuesta - Grado 6
 ## Semana W05
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio San Jorge de Sincelejo, la profesora Mónica inicia la clase explicando la diferencia entre oración simple y compuesta.
+**Contexto:** En el Colegio San Jorge de Sincelejo, la profesora Mónica inicia la clase explicando la diferencia entre oración simple y compuesta.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La oración simple tiene un solo predicado (un verbo conjugado): "Los estudiante
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En la Institución Educativa Gabriel García Márquez de Aracataca, los estudiantes repasan la estructura de la oración simple.
+**Contexto:** En la Institución Educativa Gabriel García Márquez de Aracataca, los estudiantes repasan la estructura de la oración simple.
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -60,11 +64,11 @@ Toda oración simple (bimembre) se divide en sujeto y predicado. El sujeto indic
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio San Luis Gonzaga de Manizales, los estudiantes identifican oraciones simples en un texto.
+**Contexto:** En el Colegio San Luis Gonzaga de Manizales, los estudiantes identifican oraciones simples en un texto.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ Para identificar si una oración es simple, busca los verbos conjugados. Si solo
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En la I.E. La Presentación de Bucaramanga, los estudiantes deben unir oraciones simples para formar compuestas.
+**Contexto:** En la I.E. La Presentación de Bucaramanga, los estudiantes deben unir oraciones simples para formar compuestas.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -102,11 +106,11 @@ Las oraciones compuestas se forman uniendo dos o más oraciones simples mediante
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la Institución Educativa Técnica de Honda, los estudiantes analizan la estructura de diferentes oraciones.
+**Contexto:** En la Institución Educativa Técnica de Honda, los estudiantes analizan la estructura de diferentes oraciones.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -124,11 +128,11 @@ Cada verbo conjugado en una oración compuesta representa una proposición. En e
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio del Sagrado Corazón de Pasto, los estudiantes identifican el tipo de oración compuesta.
+**Contexto:** En el Colegio del Sagrado Corazón de Pasto, los estudiantes identifican el tipo de oración compuesta.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -145,11 +149,11 @@ Las oraciones compuestas se clasifican en: coordinadas (unidas por conjunciones 
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** Los estudiantes del Colegio Británico de Bogotá deben transformar oraciones simples en compuestas usando conectores.
+**Contexto:** Los estudiantes del Colegio Británico de Bogotá deben transformar oraciones simples en compuestas usando conectores.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -166,11 +170,11 @@ Elegir el conector adecuado es clave para dar coherencia a las oraciones compues
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. Monseñor Ramón Arcila de Cali, los estudiantes analizan un párrafo para identificar tipos de oraciones.
+**Contexto:** En la I.E. Monseñor Ramón Arcila de Cali, los estudiantes analizan un párrafo para identificar tipos de oraciones.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -187,11 +191,11 @@ Las oraciones adversativas ("pero", "mas", "sino") expresan oposición o contras
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio San José de Medellín, un estudiante escribe un texto con errores al usar oraciones compuestas.
+**Contexto:** En el Colegio San José de Medellín, un estudiante escribe un texto con errores al usar oraciones compuestas.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -209,11 +213,11 @@ El uso excesivo de "y" (polisíndeton) empobrece la escritura. Es mejor variar l
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En el Colegio INEM de Popayán, los estudiantes crean un texto narrativo combinando oraciones simples y compuestas.
+**Contexto:** En el Colegio INEM de Popayán, los estudiantes crean un texto narrativo combinando oraciones simples y compuestas.
 **Expected_Success:** 0.48
 
 ### Enunciado

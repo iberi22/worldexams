@@ -1,28 +1,32 @@
 ---
-id: "CO-MAT-7-2026-W04-ecuaciones-lineales-001-MASTERY"
+id: "CO-MAT-7-2026-W04-ecuaciones-lineales-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "matematicas"
 tema: "ecuaciones-lineales"
-semana: "W04"
+week: "W04"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Ecuaciones Lineales - Grado 7
 ## Semana W04 — Resolución de ecuaciones de primer grado
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-MAT-7-2026-W04-ecuaciones-lineales-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase de matemáticas del Colegio Nueva Granada de Bogotá, la profesora explica qué es una ecuación lineal.
+**Contexto:** En clase de matemáticas del Colegio Nueva Granada de Bogotá, la profesora explica qué es una ecuación lineal.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Una ecuación lineal (o de primer grado) es una igualdad matemática donde la va
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-MAT-7-2026-W04-ecuaciones-lineales-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** María está aprendiendo a resolver ecuaciones en su colegio de Medellín.
+**Contexto:** María está aprendiendo a resolver ecuaciones en su colegio de Medellín.
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -60,11 +64,11 @@ Para resolver una ecuación, debemos aislar la variable. El principio fundamenta
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-MAT-7-2026-W04-ecuaciones-lineales-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Carlos debe encontrar el valor de x en 3x = 15 para su clase de Cali.
+**Contexto:** Carlos debe encontrar el valor de x en 3x = 15 para su clase de Cali.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -81,11 +85,11 @@ Para resolver 3x = 15, usamos la operación inversa de la multiplicación: la di
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-MAT-7-2026-W04-ecuaciones-lineales-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Laura resuelve 2x + 4 = 10 en el colegio de Barranquilla.
+**Contexto:** Laura resuelve 2x + 4 = 10 en el colegio de Barranquilla.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -102,11 +106,11 @@ Para resolver 2x + 4 = 10: Primero restamos 4 a ambos lados: 2x + 4 − 4 = 10 �
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-MAT-7-2026-W04-ecuaciones-lineales-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Andrés paga $35,000 por 3 cuadernos iguales y una lapicera de $5,000. Quiere saber cuánto cuesta cada cuaderno en su papelería de Cartagena.
+**Contexto:** Andrés paga $35,000 por 3 cuadernos iguales y una lapicera de $5,000. Quiere saber cuánto cuesta cada cuaderno en su papelería de Cartagena.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -123,11 +127,11 @@ Si cada cuaderno cuesta x pesos, 3 cuadernos cuestan 3x. Más la lapicera de $5,
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-MAT-7-2026-W04-ecuaciones-lineales-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
-**Context:** Santiago resuelve 5x − 3 = 2x + 9, una ecuación con variables en ambos lados, en el colegio de Bucaramanga.
+**Contexto:** Santiago resuelve 5x − 3 = 2x + 9, una ecuación con variables en ambos lados, en el colegio de Bucaramanga.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -144,11 +148,11 @@ Para resolver 5x − 3 = 2x + 9: Primero restamos 2x de ambos lados: 5x − 2x �
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-MAT-7-2026-W04-ecuaciones-lineales-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Valentina encuentra una ecuación con paréntesis: 3(x + 2) = 15 en su clase de Pereira.
+**Contexto:** Valentina encuentra una ecuación con paréntesis: 3(x + 2) = 15 en su clase de Pereira.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Ante paréntesis en una ecuación, primero aplicamos la propiedad distributiva: 
 
 ---
 
-## Pregunta 8 [D6]
+## Question 8 [D6]
 **ID:** `CO-MAT-7-2026-W04-ecuaciones-lineales-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Camila resuelve x/4 + 3 = 7 y debe verificar su respuesta en el colegio de Manizales.
+**Contexto:** Camila resuelve x/4 + 3 = 7 y debe verificar su respuesta en el colegio de Manizales.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -186,11 +190,11 @@ Para resolver x/4 + 3 = 7: Primero restamos 3: x/4 + 3 − 3 = 7 − 3 → x/4 =
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-MAT-7-2026-W04-ecuaciones-lineales-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Sebastián necesita repartir $120,000 entre dos sobrinos de Ibagué de modo que el mayor reciba el doble del menor.
+**Contexto:** Sebastián necesita repartir $120,000 entre dos sobrinos de Ibagué de modo que el mayor reciba el doble del menor.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ Si el menor recibe x, el mayor recibe 2x (el doble). Juntos: x + 2x = 120. Resol
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-MAT-7-2026-W04-ecuaciones-lineales-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Isabella resuelve 2x − 5 = x + 3 y obtiene x = 8. Verifica en su clase de Neiva.
+**Contexto:** Isabella resuelve 2x − 5 = x + 3 y obtiene x = 8. Verifica en su clase de Neiva.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -228,11 +232,11 @@ Para verificar una solución, reemplazamos x en ambos lados de la ecuación: Lad
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-MAT-7-2026-W04-ecuaciones-lineales-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Daniel intenta resolver 4(x − 1) = 2(x + 2) en su clase de Sincelejo.
+**Contexto:** Daniel intenta resolver 4(x − 1) = 2(x + 2) en su clase de Sincelejo.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -249,11 +253,11 @@ Para verificar una solución, reemplazamos x en ambos lados de la ecuación: Lad
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-MAT-7-2026-W04-ecuaciones-lineales-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En clase de Tunja, la profesora pregunta: "¿Puede una ecuación lineal tener más de una solución?"
+**Contexto:** En clase de Tunja, la profesora pregunta: "¿Puede una ecuación lineal tener más de una solución?"
 **Expected_Success:** 0.42
 
 ### Enunciado

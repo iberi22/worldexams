@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W39-mensajes-visuales-001-MASTERY"
+id: "CO-LEC-3-2026-W39-mensajes-visuales-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 39
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Mensajes Visuales
 
@@ -25,6 +30,7 @@ Este bundle evalúa la capacidad de interpretar señales de tránsito, iconos de
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Vas por la carretera con tus padres y ves una señal de tránsito **octagonal de color rojo** que tiene escrita la palabra "**PARE**" en letras blancas.
@@ -32,7 +38,7 @@ Vas por la carretera con tus padres y ves una señal de tránsito **octagonal de
 ### Enunciado
 ¿Qué debe hacer el conductor del vehículo al ver esta señal?
 
-### Options
+### Opciones
 - [ ] A) Acelerar para pasar rápido el cruce. <!-- feedback: Incorrecto. La señal ordena detenerse, no acelerar. -->
 - [x] B) Detener el vehículo completamente antes de seguir. <!-- feedback: ¡Correcto! Es la función universal de la señal de PARE. -->
 - [ ] C) Doblar a la derecha inmediatamente. <!-- feedback: Incorrecto. Para eso existen otras flechas de dirección. -->
@@ -48,6 +54,7 @@ Identificar señales de tránsito reglamentarias es una habilidad de alfabetizac
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En la puerta de un baño público, ves un icono que muestra una **silueta humana con falda**.
@@ -55,7 +62,7 @@ En la puerta de un baño público, ves un icono que muestra una **silueta humana
 ### Enunciado
 ¿Qué nos indica este símbolo visual sobre el lugar?
 
-### Options
+### Opciones
 - [ ] A) Que allí venden ropa para niñas. <!-- feedback: Incorrecto. El lugar es un baño, no una tienda. -->
 - [ ] B) Que es un probador de una tienda de vestidos. <!-- feedback: Incorrecto. El contexto es de servicio higiénico. -->
 - [x] C) Que ese baño es para uso exclusivo de las mujeres. <!-- feedback: ¡Correcto! La silueta con falda es el código visual usado universalmente para identificar el baño de mujeres. -->
@@ -71,6 +78,7 @@ Comprender el lenguaje de los pictogramas permite al estudiante orientarse en ed
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En una caja que contiene platos de vidrio, hay un dibujo de una **copa con una raya que parece una rotura**.
@@ -78,7 +86,7 @@ En una caja que contiene platos de vidrio, hay un dibujo de una **copa con una r
 ### Enunciado
 ¿Cuál es el mensaje que este dibujo quiere dar a las personas que cargan la caja?
 
-### Options
+### Opciones
 - [ ] A) Que adentro hay copas para brindar. <!-- feedback: Incorrecto. El dibujo advierte sobre el estado del material, no invita a usarlo. -->
 - [x] B) Que el contenido es frágil y puede romperse fácilmente. <!-- feedback: ¡Correcto! La copa rota es el símbolo internacional de fragilidad. -->
 - [ ] C) Que los platos ya vienen rotos de fábrica. <!-- feedback: Incorrecto. El aviso es para evitar que se rompan, no para decir que ya lo están. -->
@@ -94,6 +102,7 @@ Identificar iconos de advertencia en empaques y productos ayuda a los estudiante
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un semáforo peatonal muestra un **muñequito de color verde caminando**. Al cabo de unos segundos, el muñequito empieza a **titilar (prender y apagar)** rápidamente.
@@ -101,7 +110,7 @@ Un semáforo peatonal muestra un **muñequito de color verde caminando**. Al cab
 ### Enunciado
 ¿Qué le está indicando el muñequito que titila a la persona que va a cruzar la calle?
 
-### Options
+### Opciones
 - [ ] A) Que puede caminar más despacio. <!-- feedback: Incorrecto. Al contrario, el tiempo se está acabando. -->
 - [x] B) Que el tiempo para cruzar se está acabando y debe terminar de pasar rápido. <!-- feedback: ¡Correcto! El titileo es una señal visual de advertencia de cambio de estado. -->
 - [ ] C) Que el semáforo se dañó y hay que llamar a un técnico. <!-- feedback: Incorrecto. Es un funcionamiento normal del dispositivo. -->
@@ -117,6 +126,7 @@ Analizar el movimiento y el cambio en los mensajes visuales (luz fija vs. luz in
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En un hospital, ves un cartel con la foto de una enfermera con el dedo índice puesto sobre sus labios en señal de silencio. No hay ninguna palabra escrita.
@@ -124,7 +134,7 @@ En un hospital, ves un cartel con la foto de una enfermera con el dedo índice p
 ### Enunciado
 ¿Cuál es la **instrucción** que este mensaje visual está dando a los visitantes?
 
-### Options
+### Opciones
 - [ ] A) Que la enfermera tiene dolor de muela. <!-- feedback: Incorrecto. El gesto es una señal social conocida, no una expresión de dolor personal. -->
 - [ ] B) Que se deben lavar los dientes antes de entrar. <!-- feedback: Incorrecto. El dedo no está sobre los dientes, sino indicando el gesto de silencio. -->
 - [x] C) Que deben permanecer en silencio absoluto por respeto a los enfermos. <!-- feedback: ¡Correcto! El gesto de "shhh" con el dedo es un mensaje visual claro de silencio. -->
@@ -140,6 +150,7 @@ La interpretación de la comunicación no verbal (gestos) en mensajes públicos 
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En un producto de limpieza, hay un dibujo de una **calavera sobre dos huesos cruzados** dentro de un triángulo amarillo.
@@ -147,7 +158,7 @@ En un producto de limpieza, hay un dibujo de una **calavera sobre dos huesos cru
 ### Enunciado
 ¿Cuál es el significado de este símbolo y qué acción debe tomar un niño frente a él?
 
-### Options
+### Opciones
 - [ ] A) Significa que es un juguete de piratas y se puede usar para jugar. <!-- feedback: Incorrecto. En este contexto, el símbolo advierte sobre un peligro real, no es para juego. -->
 - [ ] B) Significa que el producto huele a huesos viejos. <!-- feedback: Incorrecto. No describe el olor, sino el peligro. -->
 - [x] C) Significa que el producto es venenoso o tóxico, y el niño no debe tocarlo ni beberlo. <!-- feedback: ¡Correcto! La calavera es el símbolo universal de peligro de muerte o toxicidad. -->
@@ -163,6 +174,7 @@ Reconocer símbolos de peligro químico y toxicidad es vital para la prevención
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Observa dos señales sobre el uso de celulares:
@@ -172,7 +184,7 @@ Observa dos señales sobre el uso de celulares:
 ### Enunciado
 ¿Cuál es la diferencia entre el mensaje de la señal 1 y la señal 2?
 
-### Options
+### Opciones
 - [ ] A) La señal 1 es para celulares viejos y la 2 para nuevos. <!-- feedback: Incorrecto. Las señales no distinguen modelos tecnológicos. -->
 - [x] B) La señal 1 prohíbe el uso de celulares, mientras que la 2 informa dónde se pueden usar o cargar. <!-- feedback: ¡Correcto! El círculo rojo tachado es prohibición y el cuadrado azul con "i" es información. -->
 - [ ] C) Ambas dicen que está prohibido usar el celular. <!-- feedback: Incorrecto. Solo la señal con la raya diagonal indica prohibición. -->
@@ -188,6 +200,7 @@ Analizar el código de colores de las señales (rojo = prohibición, azul = info
 **Bloom:** Evaluate
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un diseñador crea una señal para una salida de emergencia que es de **color negro con un dibujo de una puerta cerrada**.
@@ -195,7 +208,7 @@ Un diseñador crea una señal para una salida de emergencia que es de **color ne
 ### Enunciado
 ¿Por qué esta señal está **mal diseñada** según las normas de seguridad?
 
-### Options
+### Opciones
 - [ ] A) Porque el negro es un color muy elegante. <!-- feedback: Incorrecto. La elegancia no es el objetivo de una señal de emergencia. -->
 - [x] B) Porque las salidas de emergencia deben ser verdes y mostrar a alguien saliendo para ser fáciles de ver y entender en el caos. <!-- feedback: ¡Correcto! El color y el icono deben facilitar la acción de escape, no confundir. -->
 - [ ] C) Porque no tiene letras escritas en tres idiomas. <!-- feedback: Incorrecto. Las señales visuales deben ser claras incluso sin palabras. -->

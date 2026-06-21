@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-4-2026-P3-comprension-inferencial-001-MASTERY"
+id: "CO-LC-4-2026-P3-comprension-inferencial-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Dimensión inferencial, Dimensión crítica"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # El Caso de las Galletas Desaparecidas
 
@@ -27,14 +34,15 @@ rubric_baseline: "Dimensión inferencial, Dimensión crítica"
 ## Question 1 [D3]
 
 **ID:** `CO-LC-4-2026-P3-comprension-inferencial-001-MASTERY-v1`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Dimensión inferencial]
-**Context:** Pistas en la escena del "crimen".
+**Contexto:** Pistas en la escena del "crimen".
 
 ### Enunciado
 ¿De qué sabor eran probablemente las galletas que estaban en el plato?
 
-### Options
+### Opciones
 - [ ] A) De vainilla con fresa. <!-- feedback: Incorrect. El texto menciona migajas de chocolate, no hay ninguna pista sobre vainilla o fresa. -->
 - [x] B) De chocolate. <!-- feedback: Correct. El texto describe que en el plato había "migajas de chocolate", lo que permite inferir el sabor de las galletas desaparecidas. -->
 - [ ] C) Saladas con queso. <!-- feedback: Incorrect. El chocolate es dulce; las pistas no sugieren un sabor salado. -->
@@ -48,14 +56,15 @@ Se evalúa la capacidad de realizar inferencias sencillas a partir de detalles d
 ## Question 2 [D4]
 
 **ID:** `CO-LC-4-2026-P3-comprension-inferencial-001-MASTERY-v2`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Dimensión inferencial]
-**Context:** El comportamiento de Beto.
+**Contexto:** El comportamiento de Beto.
 
 ### Enunciado
 ¿Qué pista física en la cara de Beto hace que Mariana sospeche de él?
 
-### Options
+### Opciones
 - [ ] A) Que tenía los ojos rojos de tanto leer. <!-- feedback: Incorrect. El texto no menciona el estado de sus ojos, sino otro detalle en su rostro. -->
 - [x] B) Una mancha oscura cerca de la boca. <!-- feedback: Correct. El texto dice que Mariana notó una "pequeña mancha oscura cerca de la comisura de los labios", lo cual coincide con las migajas de chocolate. -->
 - [ ] C) Que tenía la cara sucia de tierra del parque. <!-- feedback: Incorrect. No se menciona tierra; la situación ocurre en la cocina con comida involucrada. -->
@@ -69,14 +78,15 @@ Se evalúa la identificación de evidencias para sustentar una sospecha en un re
 ## Question 3 [D4]
 
 **ID:** `CO-LC-4-2026-P3-comprension-inferencial-001-MASTERY-v3`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Dimensión inferencial]
-**Context:** Actitud y lenguaje no verbal.
+**Contexto:** Actitud y lenguaje no verbal.
 
 ### Enunciado
 El texto dice que Beto "evitaba mirarla a los ojos". ¿Qué podemos inferir de esta actitud?
 
-### Options
+### Opciones
 - [ ] A) Que Beto tiene un problema en la vista por leer mucho. <!-- feedback: Incorrect. En el contexto de la pregunta sobre las galletas, esta actitud suele estar relacionada con las emociones, no con la salud física. -->
 - [ ] B) Que está muy enojado con su hermana Mariana. <!-- feedback: Incorrect. El enojo suele mostrarse de forma más directa; evitar la mirada suele indicar otra emoción. -->
 - [x] C) Que se siente culpable o está ocultando algo. <!-- feedback: Correct. No mirar a los ojos cuando te hacen una pregunta directa es un signo común de que la persona no está diciendo la verdad o siente culpa. -->
@@ -90,14 +100,15 @@ Se evalúa la interpretación del lenguaje no verbal de los personajes. La respu
 ## Question 4 [D5]
 
 **ID:** `CO-LC-4-2026-P3-comprension-inferencial-001-MASTERY-v4`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Reflexión sobre el contenido]
-**Context:** Analizando la verdad de la respuesta de Beto.
+**Contexto:** Analizando la verdad de la respuesta de Beto.
 
 ### Enunciado
 Beto dice: "No, yo he estado aquí leyendo todo el tiempo". Basándote en todas las pistas del texto, ¿es creíble su respuesta?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque es un niño muy estudioso y concentrado. <!-- feedback: Incorrect. Ser estudioso no impide que pueda haber comido las galletas; las pistas físicas contradicen su versión. -->
 - [x] B) No, porque la mancha en su boca y su actitud sugieren que miente. <!-- feedback: Correct. Las evidencias físicas (mancha) y conductuales (evitar la mirada) pesan más que su afirmación verbal. -->
 - [ ] C) Sí, porque el perro Rufo probablemente se las comió. <!-- feedback: Incorrect. El perro entra después y Mariana se fija es en su hermano, no hay pistas que incriminen al perro. -->
@@ -111,14 +122,15 @@ Se evalúa la capacidad de contrastar el discurso verbal con las evidencias del 
 ## Question 5 [D5]
 
 **ID:** `CO-LC-4-2026-P3-comprension-inferencial-001-MASTERY-v5`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Dimensión inferencial]
-**Context:** El papel de los otros personajes.
+**Contexto:** El papel de los otros personajes.
 
 ### Enunciado
 ¿Por qué el autor menciona la entrada del perro Rufo al final del texto?
 
-### Options
+### Opciones
 - [ ] A) Para confirmar que el perro fue quien se comió las galletas. <!-- feedback: Incorrect. El perro entra moviendo la cola, pero el texto enfoca la sospecha de Mariana en Beto. -->
 - [ ] B) Para mostrar que a Rufo le gusta mucho el chocolate. <!-- feedback: Incorrect. El chocolate es tóxico para los perros, y el autor usa al perro como un distractor o contraste. -->
 - [x] C) Como un distractor para ver si el lector culpa al perro o sigue las pistas de Beto. <!-- feedback: Correct. Al introducir un nuevo personaje al final, el autor pone a prueba la capacidad del lector para mantener su conclusión basada en las pruebas previas. -->
@@ -132,14 +144,15 @@ Se evalúa la comprensión de los recursos narrativos (el distractor). La respue
 ## Question 6 [D4]
 
 **ID:** `CO-LC-4-2026-P3-comprension-inferencial-001-MASTERY-v6`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Identificación de contenidos locales]
-**Context:** Vocabulario específico.
+**Contexto:** Vocabulario específico.
 
 ### Enunciado
 En la frase: "...Mariana notó que Beto tenía una pequeña mancha oscura cerca de la **comisura** de los labios", la palabra resaltada se refiere a:
 
-### Options
+### Opciones
 - [ ] A) La punta de la nariz. <!-- feedback: Incorrect. La palabra se usa específicamente para la boca, no para la nariz. -->
 - [ ] B) El centro de la lengua. <!-- feedback: Incorrect. La mancha está afuera, cerca de los labios, no adentro en la lengua. -->
 - [x] C) El punto donde se unen el labio superior y el inferior. <!-- feedback: Correct. La comisura es el rincón o ángulo de la boca. -->
@@ -153,14 +166,15 @@ Se evalúa el conocimiento de vocabulario anatómico preciso en contexto. La res
 ## Question 7 [D5]
 
 **ID:** `CO-LC-4-2026-P3-comprension-inferencial-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Dimensión inferencial]
-**Context:** Causa y efecto.
+**Contexto:** Causa y efecto.
 
 ### Enunciado
 ¿Qué evento ocurrió **inmediatamente antes** de que Mariana entrara a la cocina?
 
-### Options
+### Opciones
 - [ ] A) El perro Rufo entró a jugar. <!-- feedback: Incorrect. Rufo entra después de que Mariana ya está allí y ha interrogado a Beto. -->
 - [ ] B) Mamá preparó un delicioso chocolate. <!-- feedback: Incorrect. El texto menciona galletas de chocolate, no que la mamá haya preparado la bebida. -->
 - [x] C) Alguien se comió las galletas que estaban en el plato. <!-- feedback: Correct. El plato vacío con migajas indica que la acción de comer ocurrió justo antes de la llegada de Mariana. -->
@@ -174,14 +188,15 @@ Se evalúa la capacidad de reconstruir la secuencia temporal de una historia a p
 ## Question 8 [D5]
 
 **ID:** `CO-LC-4-2026-P3-comprension-inferencial-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Dimensión crítica]
-**Context:** Intención del autor y género literario.
+**Contexto:** Intención del autor y género literario.
 
 ### Enunciado
 Aunque es una historia sencilla sobre hermanos, este texto tiene la estructura de:
 
-### Options
+### Opciones
 - [ ] A) Un poema romántico. <!-- feedback: Incorrect. No tiene rimas, versos, ni el tema es el amor romántico. -->
 - [x] B) Un pequeño relato de misterio o detectivesco. <!-- feedback: Correct. Presenta un "crimen" (galletas desaparecidas), una investigadora (Mariana), un sospechoso (Beto) y pistas (migajas, manchas). -->
 - [ ] C) Una noticia de un periódico serio. <!-- feedback: Incorrect. El tono es narrativo y doméstico, no es un hecho de interés público o periodístico. -->
@@ -195,14 +210,15 @@ Se evalúa la identificación del subgénero narrativo a través de sus elemento
 ## Question 9 [D4]
 
 **ID:** `CO-LC-4-2026-P3-comprension-inferencial-001-MASTERY-v9`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Identificación de contenidos locales]
-**Context:** Tiempo de la narración.
+**Contexto:** Tiempo de la narración.
 
 ### Enunciado
 ¿A qué hora del día ocurren los hechos y a qué actividad cotidiana colombiana se refieren?
 
-### Options
+### Opciones
 - [ ] A) Al amanecer, durante el desayuno. <!-- feedback: Incorrect. El texto dice que son las cuatro de la tarde, no la mañana. -->
 - [x] B) Por la tarde, durante las onces o merienda. <!-- feedback: Correct. Las 4:00 p.m. es la hora típica de las "onces" en Colombia, momento en que se suelen comer galletas. -->
 - [ ] C) A la medianoche, durante la cena. <!-- feedback: Incorrect. A las 4 p.m. todavía hay luz y no es hora de cenar. -->
@@ -216,14 +232,15 @@ Se evalúa la interpretación del tiempo cronológico y su asociación con conte
 ## Question 10 [D5]
 
 **ID:** `CO-LC-4-2026-P3-comprension-inferencial-001-MASTERY-v10`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Dimensión inferencial]
-**Context:** Predicción de resultados.
+**Contexto:** Predicción de resultados.
 
 ### Enunciado
 Si Mariana decidiera revisar las manos de Beto, ¿qué esperaría encontrar para confirmar definitivamente su sospecha?
 
-### Options
+### Opciones
 - [ ] A) Manchas de tinta de bolígrafo. <!-- feedback: Incorrect. Beto está leyendo, no necesariamente escribiendo; la sospecha es sobre comida. -->
 - [ ] B) Restos de jabón por haberse lavado. <!-- feedback: Incorrect. Si se hubiera lavado bien, Mariana no habría encontrado la mancha en su boca. -->
 - [x] C) Rastro de chocolate o migajas en los dedos. <!-- feedback: Correct. Si comió las galletas con las manos, es muy probable que queden evidencias en sus dedos similares a las de su boca. -->

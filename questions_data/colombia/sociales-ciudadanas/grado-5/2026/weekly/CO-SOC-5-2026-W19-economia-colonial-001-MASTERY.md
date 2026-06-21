@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "economia-colonial"
-semana: "W19"
+week: "W19"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Economia colonial: mineria, agricultura, comercio y mita"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W19-economia-colonial-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cual fue la principal actividad economica del Virreinato de Nueva Granada?
@@ -39,12 +44,13 @@ La mineria de oro fue la actividad mas importante. Las minas de Antioquia, Choco
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W19-economia-colonial-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que era la 'mita'?
@@ -60,12 +66,13 @@ La mita era un sistema de trabajo obligatorio por turnos. Los indigenas debian t
 
 ---
 
-## Pregunta 3 [D1]
+## Question 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W19-economia-colonial-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que productos agricolas cultivaban los espanoles en el Nuevo Reino?
@@ -81,12 +88,13 @@ Los espanoles introdujeron cultivos europeos como trigo, cebada, vid (uva), oliv
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W19-economia-colonial-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que era el 'comercio triangular'?
@@ -102,12 +110,13 @@ El comercio triangular conectaba Europa (manufacturas), Africa (esclavos) y Amer
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W19-economia-colonial-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que eran las 'haciendas' coloniales?
@@ -123,12 +132,13 @@ Las haciendas eran grandes extensiones de tierra donde se producian alimentos, g
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W19-economia-colonial-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Quien trabajaba en las minas de oro?
@@ -144,12 +154,13 @@ Las minas de oro eran trabajadas principalmente por esclavos africanos (especial
 
 ---
 
-## Pregunta 7 [D1]
+## Question 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W19-economia-colonial-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que era el 'estanco' en la economia colonial?
@@ -165,12 +176,13 @@ Los estancos eran monopolios del estado colonial sobre productos como el tabaco,
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W19-economia-colonial-001-MASTERY-v8`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que eran los 'obrajes'?
@@ -186,12 +198,13 @@ Los obrajes eran talleres textiles donde se producian panos, ropa y otros tejido
 
 ---
 
-## Pregunta 9 [D4]
+## Question 9 [D4]
 
 **ID:** `CO-SOC-5-2026-W19-economia-colonial-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Como afecto la mineria de oro a la poblacion indigena?
@@ -207,12 +220,13 @@ La mineria causo una catastrofe demografica entre los indigenas: murieron por el
 
 ---
 
-## Pregunta 10 [D3]
+## Question 10 [D3]
 
 **ID:** `CO-SOC-5-2026-W19-economia-colonial-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que papel jugaba Cartagena en la economia colonial?

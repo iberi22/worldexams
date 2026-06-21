@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-6-2026-W28-poesia-estrofa-rima-001-MASTERY"
+id: "CO-LEC-6-2026-W28-poesia-estrofa-rima-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "poesia-estrofa-rima"
-semana: 28
+week: "W28"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "poesía, estrofa, rima, verso, ritmo, estructura poética, tip
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G6 — Poesía, Estrofa y Rima
 
@@ -63,12 +68,13 @@ tier: "legacy"
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Qué es una estrofa?
 
-### Options
+### Opciones
 - [ ] A) Cada palabra de un poema. <!-- feedback: Incorrecto. Las palabras son versos, no estrofas. -->
 - [x] B) Un conjunto de versos que forman una unidad en un poema, similar a un párrafo en prosa. <!-- feedback: Correcto. Una estrofa es un grupo de versos separados por un espacio en blanco de otra estrofa. -->
 - [ ] C) El título del poema. <!-- feedback: Incorrecto. -->
@@ -80,12 +86,13 @@ La estrofa es la unidad estructural de un poema: un conjunto de versos que forma
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 En el Poema 1, ¿cuántas estrofas tiene?
 
-### Options
+### Opciones
 - [ ] A) Una sola estrofa larga. <!-- feedback: Incorrecto. Hay un espacio entre los versos. -->
 - [x] B) Dos estrofas, cada una con cuatro versos (cuartetos). <!-- feedback: Correcto. Hay dos bloques de cuatro versos separados por un espacio. Cada bloque es una estrofa. -->
 - [ ] C) Ocho estrofas, una por cada verso. <!-- feedback: Incorrecto. Cada verso no es una estrofa. -->
@@ -97,12 +104,13 @@ Identificación de estrofas: se cuentan los bloques visuales separados por espac
 ## Question 3 [D4 - Identificación de rima]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 En el Poema 1, las letras entre paréntesis (a, b, a, b) indican la rima. ¿Qué significa que el primer verso (a) rime con el tercer verso (a)?
 
-### Options
+### Opciones
 - [ ] A) Que ambos versos tienen el mismo número de sílabas. <!-- feedback: Incorrecto. La rima no se trata de la cantidad de sílabas sino de la coincidencia de sonidos al final. -->
 - [x] B) Que las palabras finales del primer y tercer verso (cielo / consuelo) comparten sonidos similares: terminan en "-elo". <!-- feedback: Correcto. La rima es la repetición de sonidos a partir de la última vocal acentuada. "Cielo" y "consuelo" riman porque comparten el final "-elo". -->
 - [ ] C) Que ambos versos hablan del mismo tema. <!-- feedback: Incorrecto. -->
@@ -114,12 +122,13 @@ La rima es la coincidencia de sonidos entre dos o más versos a partir de la úl
 ## Question 4 [D4 - Rima consonante vs. asonante]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 En el Poema 1, "cielo" rima con "consuelo" y "danza" rima con "esperanza". ¿Qué tipo de rima es esta?
 
-### Options
+### Opciones
 - [x] A) Rima consonante: coinciden tanto las vocales como las consonantes desde la última vocal acentuada (-elo, -anza). <!-- feedback: Correcto. En "cielo-consuelo" coinciden TODOS los sonidos: "-elo". En "danza-esperanza" coinciden "-anza". Es rima consonante porque vocales y consonantes coinciden. -->
 - [ ] B) Rima asonante: solo coinciden las vocales. <!-- feedback: Incorrecto. Si solo coincidieran las vocales, "cielo" rimaría con "fuego" (e-o). Pero aquí coinciden todas las letras. -->
 - [ ] C) Rima libre: no hay rima. <!-- feedback: Incorrecto. Sí hay rima evidente. -->
@@ -131,12 +140,13 @@ Dos tipos de rima: (1) CONSONANTE: coinciden vocales Y consonantes (cielo-consue
 ## Question 5 [D4 - Identificación de patrón de rima]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 El Poema 2 tiene el patrón de rima a-b-a-b en su primera estrofa. ¿Cómo se llama este patrón?
 
-### Options
+### Opciones
 - [ ] A) Rima gemela (AA BB). <!-- feedback: Incorrecto. Eso sería cuando el primer verso rima con el segundo (AA) y el tercero con el cuarto (BB). -->
 - [x] B) Rima cruzada o alterna (ABAB): el primer verso rima con el tercero y el segundo con el cuarto. <!-- feedback: Correcto. En el patrón ABAB, los versos impares riman entre sí y los pares entre sí. -->
 - [ ] C) Rima abrazada (ABBA). <!-- feedback: Incorrecto. Eso sería cuando el primero rima con el cuarto y el segundo con el tercero. -->
@@ -148,12 +158,13 @@ Los patrones de rima se nombran con letras: ABAB (cruzada o alterna), AABB (geme
 ## Question 6 [D4 - Identificación de verso suelto]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 En el Poema 2, el último verso de la segunda estrofa dice "mi casa y mi hogar". La palabra "hogar" debería rimar con "empezar" (verso 2 de esa estrofa), pero no riman perfectamente. ¿Qué ocurre?
 
-### Options
+### Opciones
 - [ ] A) Que el poeta cometió un error. <!-- feedback: Incorrecto. En poesía, las decisiones son intencionales. -->
 - [x] B) Que es una rima asonante: "empezar" y "hogar" comparten las vocales "a...a" pero las consonantes son diferentes (-zar vs. -gar). El poeta usó rima asonante para mayor flexibilidad. <!-- feedback: Correcto. En la poesía popular y en canciones, la rima asonante es muy común porque ofrece más libertad. -->
 - [ ] C) Que no hay rima en absoluto. <!-- feedback: Incorrecto. Sí hay una coincidencia vocálica. -->
@@ -165,12 +176,13 @@ La rima asonante es común en poesía popular y canciones (como el vallenato y l
 ## Question 7 [D5 - Identificación del ritmo]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 El Poema 3 dice: "Duérmete mi niño, duérmete mi sol". La repetición de "duérmete mi" al inicio de varios versos se llama:
 
-### Options
+### Opciones
 - [ ] A) Rima. <!-- feedback: Incorrecto. La rima está al final del verso, no al inicio. -->
 - [ ] B) Aliteración. <!-- feedback: Incorrecto. La aliteración repite sonidos, no palabras completas. -->
 - [x] C) Anáfora o repetición: repetir una palabra o frase al inicio de versos consecutivos para crear ritmo y énfasis. <!-- feedback: Correcto. La anáfora es un recurso poético que consiste en repetir una palabra o frase al inicio de varios versos. Crea un efecto hipnótico y musical, ideal para una canción de cuna. -->
@@ -182,12 +194,13 @@ La anáfora (repetición) es un recurso poético que refuerza el ritmo y la musi
 ## Question 8 [D5 - Inferencia sobre el efecto de la estructura poética]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Por qué el Poema 3 (canción de cuna del Pacífico) usa versos más largos y un ritmo más libre que el Poema 2 (coplas llaneras)?
 
-### Options
+### Opciones
 - [ ] A) Porque el autor del Poema 3 no sabe escribir poesía. <!-- feedback: Incorrecto. -->
 - [ ] B) Porque el Poema 3 es para niños y el Poema 2 para adultos. <!-- feedback: Incorrecto. Ambos pueden ser disfrutados por todas las edades. -->
 - [x] C) Porque la canción de cuna busca un efecto de arrullo y suavidad (versos largos y fluidos), mientras que la copla llanera busca un ritmo más marcado y bailable, típico del joropo. La estructura poética se adapta al propósito y la tradición cultural. <!-- feedback: Correcto. La forma poética (longitud de versos, tipo de rima, ritmo) no es arbitraria: responde al propósito y la tradición cultural de cada tipo de poesía. -->
@@ -199,12 +212,13 @@ La forma y el fondo están conectados: la estructura de un poema (versos, rimas,
 ## Question 9 [D5 - Identificación del tema poético]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 Los tres poemas describen paisajes o experiencias de diferentes regiones de Colombia (Magdalena, Llanos Orientales, Pacífico). ¿Qué elemento comparten los tres más allá de la geografía?
 
-### Options
+### Opciones
 - [ ] A) Los tres usan el mismo patrón de rima (ABAB). <!-- feedback: Incorrecto. El Poema 3 no sigue exactamente ese patrón. -->
 - [ ] B) Los tres hablan de la vida en la ciudad. <!-- feedback: Incorrecto. Los tres hablan de la naturaleza y la vida rural. -->
 - [x] C) Los tres expresan un sentido de pertenencia, amor por el terruño y conexión emocional con el paisaje y la cultura de la región que describen. <!-- feedback: Correcto. La poesía regional colombiana suele expresar un profundo arraigo y amor por la tierra natal, conectando paisaje, identidad y emoción. -->
@@ -216,12 +230,13 @@ La poesía colombiana de raíz popular expresa un fuerte sentido de pertenencia 
 ## Question 10 [D5]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 Un estudiante dice: "La poesía es difícil porque tiene rimas y reglas complicadas. Prefiero leer cuentos." ¿Qué le responderías?
 
-### Options
+### Opciones
 - [ ] A) "Tienes razón, la poesía no sirve para nada." <!-- feedback: Incorrecto. La poesía tiene mucho valor. -->
 - [ ] B) "Es mejor leer solo cuentos." <!-- feedback: Incorrecto. Tampoco es una respuesta constructiva. -->
 - [x] C) "La poesía parece difícil al principio, pero en realidad es como una canción: tiene ritmo, musicalidad y juega con las palabras para expresar sentimientos. Además, muchas canciones que escuchas (vallenato, rap, pop) también tienen versos y rimas. ¡Tú ya escuchas poesía todos los días!" <!-- feedback: Correcto. La poesía no es solo para libros antiguos: está en las canciones que escuchamos, en los versos de los juglares vallenatos, en el rap y en el hip-hop. Todos tenemos una conexión natural con la poesía a través de la música. -->

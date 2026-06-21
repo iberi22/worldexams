@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-11-2026-W33-repasos-tipo-saber-001-MASTERY"
+id: "CO-LEC-11-2026-W33-repasos-tipo-saber-001-MASTERY-bundle"
 country: "colombia"
 grado: 11
 asignatura: "lectura-critica"
 tema: "repasos-tipo-saber"
-semana: 33
+week: "W33"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,15 +16,20 @@ rubric_baseline: "repaso tipo saber 11, competencias lectoras, analisis textual,
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 5
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repasos Tipo Saber — Grado 11
 ## Semana W33
 
-## Pregunta 1 [D2]
+## Question 1 [D2]
 
 **ID:** `CO-LEC-11-2026-W33-repasos-tipo-saber-001-MASTERY-v1`  
 **Bloom:** Apply  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -33,10 +38,10 @@ Un texto dice: 'Estudio de la OIT muestra...' pero no da título ni fecha. ¿Qu�
 
 ### Opciones
 
-- [ ] A) Aceptarlo como válido
-- [x] B) Cuestionar la precisión de la referencia
-- [ ] C) Ignorarlo
-- [ ] D) Inventar los datos
+- [ ] A) Aceptarlo como válido <!-- feedback: Incorrecto. Aceptarlo como válido -->
+- [x] B) Cuestionar la precisión de la referencia <!-- feedback: Correcto! Cuestionar la precisión de la referencia -->
+- [ ] C) Ignorarlo <!-- feedback: Incorrecto. Ignorarlo -->
+- [ ] D) Inventar los datos <!-- feedback: Incorrecto. Inventar los datos -->
 
 ### Explicación Pedagógica
 
@@ -44,10 +49,11 @@ Referencia incompleta reduce la posibilidad de verificación.
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 
 **ID:** `CO-LEC-11-2026-W33-repasos-tipo-saber-001-MASTERY-v2`  
 **Bloom:** Analyze  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -56,10 +62,10 @@ Un editorial usa el adjetivo 'fracaso' para describir una política. ¿Qué reve
 
 ### Opciones
 
-- [ ] A) Un hecho objetivo
-- [x] B) Una valoración subjetiva del autor
-- [ ] C) Un dato estadístico
-- [ ] D) Una definición técnica
+- [ ] A) Un hecho objetivo <!-- feedback: Incorrecto. Un hecho objetivo -->
+- [x] B) Una valoración subjetiva del autor <!-- feedback: Correcto! Una valoración subjetiva del autor -->
+- [ ] C) Un dato estadístico <!-- feedback: Incorrecto. Un dato estadístico -->
+- [ ] D) Una definición técnica <!-- feedback: Incorrecto. Una definición técnica -->
 
 ### Explicación Pedagógica
 
@@ -67,10 +73,11 @@ Un editorial usa el adjetivo 'fracaso' para describir una política. ¿Qué reve
 
 ---
 
-## Pregunta 3 [D3]
+## Question 3 [D3]
 
 **ID:** `CO-LEC-11-2026-W33-repasos-tipo-saber-001-MASTERY-v3`  
 **Bloom:** Evaluate  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -79,10 +86,10 @@ Un editorial usa el adjetivo 'fracaso' para describir una política. ¿Qué reve
 
 ### Opciones
 
-- [ ] A) Por su extensión
-- [x] B) Porque usa evidencia, argumentos y considera contraargumentos
-- [ ] C) Por el autor
-- [ ] D) Por el medio donde se publica
+- [ ] A) Por su extensión <!-- feedback: Incorrecto. Por su extensión -->
+- [x] B) Porque usa evidencia, argumentos y considera contraargumentos <!-- feedback: Correcto! Porque usa evidencia, argumentos y considera contraargumento -->
+- [ ] C) Por el autor <!-- feedback: Incorrecto. Por el autor -->
+- [ ] D) Por el medio donde se publica <!-- feedback: Incorrecto. Por el medio donde se publica -->
 
 ### Explicación Pedagógica
 
@@ -90,10 +97,11 @@ El análisis crítico se sustenta en evidencia y considera perspectivas opuestas
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-LEC-11-2026-W33-repasos-tipo-saber-001-MASTERY-v4`  
 **Bloom:** Remember  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -102,10 +110,10 @@ El análisis crítico se sustenta en evidencia y considera perspectivas opuestas
 
 ### Opciones
 
-- [ ] A) La introducción del tema
-- [x] B) La idea que se deriva de las premisas
-- [ ] C) Un dato estadístico
-- [ ] D) Una opinión del lector
+- [ ] A) La introducción del tema <!-- feedback: Incorrecto. La introducción del tema -->
+- [x] B) La idea que se deriva de las premisas <!-- feedback: Correcto! La idea que se deriva de las premisas -->
+- [ ] C) Un dato estadístico <!-- feedback: Incorrecto. Un dato estadístico -->
+- [ ] D) Una opinión del lector <!-- feedback: Incorrecto. Una opinión del lector -->
 
 ### Explicación Pedagógica
 
@@ -113,10 +121,11 @@ La conclusión es la afirmación que se sigue lógicamente de las premisas.
 
 ---
 
-## Pregunta 5 [D2]
+## Question 5 [D2]
 
 **ID:** `CO-LEC-11-2026-W33-repasos-tipo-saber-001-MASTERY-v5`  
 **Bloom:** Understand  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -125,10 +134,10 @@ La conclusión es la afirmación que se sigue lógicamente de las premisas.
 
 ### Opciones
 
-- [ ] A) Para citarla correctamente
-- [x] B) Para evaluar su confiabilidad y contexto
-- [ ] C) No es importante
-- [ ] D) Para alargar el texto
+- [ ] A) Para citarla correctamente <!-- feedback: Incorrecto. Para citarla correctamente -->
+- [x] B) Para evaluar su confiabilidad y contexto <!-- feedback: Correcto! Para evaluar su confiabilidad y contexto -->
+- [ ] C) No es importante <!-- feedback: Incorrecto. No es importante -->
+- [ ] D) Para alargar el texto <!-- feedback: Incorrecto. Para alargar el texto -->
 
 ### Explicación Pedagógica
 

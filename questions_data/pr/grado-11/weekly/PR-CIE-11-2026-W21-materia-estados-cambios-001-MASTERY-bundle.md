@@ -1,24 +1,32 @@
 ---
-id: "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY"
+id: "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-bundle"
 country: "pr"
 exam: "College Board - Puerto Rico Department of Education"
 grado: 11
 asignatura: "Ciencias Naturales"
 tema: "materia-estados-cambios"
-semana: 21
+week: "W21"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "Puerto Rico Core Standards + College Board SAT"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle - Ciencias Naturales: Materia Estados Cambios (W21)
 **20 preguntas | Ciencias Naturales | College Board - Puerto Rico Department of Education**
 
 ---
-## Pregunta 1 [D4]
+## Question 1 [D4]
 **ID:** `PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando materia estados cambios.
 
@@ -26,21 +34,22 @@ alignment: "Puerto Rico Core Standards + College Board SAT"
 Simplifique: (8)(8x + 12)
 
 ### Opciones
-- [x] **A)** 64x + 96
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 64x + 12
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 16x + 96
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 64x - 96
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 64x + 96 <!-- feedback: Correcto! 64x + 96 -->
+
+- [ ] B) 64x + 12 <!-- feedback: Incorrecto. 64x + 12 -->
+
+- [ ] C) 16x + 96 <!-- feedback: Incorrecto. 16x + 96 -->
+
+- [ ] D) 64x - 96 <!-- feedback: Incorrecto. 64x - 96 -->
 
 **Explicacion:** Aplicar distributiva: (8)(8x + 12) = 64x + 96.
 
 ---
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando materia estados cambios.
 
@@ -48,21 +57,22 @@ Simplifique: (8)(8x + 12)
 Resuelve: 2(x + 7) = 20
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] C) 9 <!-- feedback: Incorrecto. 9 -->
+
+- [ ] D) 6 <!-- feedback: Incorrecto. 6 -->
 
 **Explicacion:** 2(x+7) = 20 -> x+7 = 10 -> x = 3.
 
 ---
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando materia estados cambios.
 
@@ -70,21 +80,22 @@ Resuelve: 2(x + 7) = 20
 Maria compro 7 cuadernos a $11.3 c/u en Mayaguez. &iquest;Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $77.3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** $7.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $11.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $18.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $77.3 <!-- feedback: Correcto! $77.3 -->
+
+- [ ] B) $7.3 <!-- feedback: Incorrecto. $7.3 -->
+
+- [ ] C) $11.3 <!-- feedback: Incorrecto. $11.3 -->
+
+- [ ] D) $18.3 <!-- feedback: Incorrecto. $18.3 -->
 
 **Explicacion:** Total = 7 x $11 = $77.3.
 
 ---
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v4`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando materia estados cambios.
 
@@ -92,21 +103,22 @@ Maria compro 7 cuadernos a $11.3 c/u en Mayaguez. &iquest;Cuanto gasto?
 Un estudiante de Escuela Superior de Isabela en Isabela grafica f(x) = 4x + 7. &iquest;Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 4
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 11
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 4 <!-- feedback: Correcto! 4 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] C) 11 <!-- feedback: Incorrecto. 11 -->
+
+- [ ] D) 4 <!-- feedback: Incorrecto. 4 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 4.
 
 ---
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v5`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando materia estados cambios.
 
@@ -114,21 +126,22 @@ Un estudiante de Escuela Superior de Isabela en Isabela grafica f(x) = 4x + 7. &
 En un examen EBAU en Trujillo Alto, se pide: si f(x) = 8x^2 + 9x + 6. &iquest;Cual es f(2)?
 
 ### Opciones
-- [x] **A)** 56
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 25
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 17
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 56 <!-- feedback: Correcto! 56 -->
+
+- [ ] B) 25 <!-- feedback: Incorrecto. 25 -->
+
+- [ ] C) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] D) 17 <!-- feedback: Incorrecto. 17 -->
 
 **Explicacion:** Sustituyo x=2: f(2) = 8(4) + 9(2) + 6 = 32 + 18 + 6 = 56.
 
 ---
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando materia estados cambios.
 
@@ -136,21 +149,22 @@ En un examen EBAU en Trujillo Alto, se pide: si f(x) = 8x^2 + 9x + 6. &iquest;Cu
 Resuelve la ecuacion: x^2 - 13x + 40 = 0
 
 ### Opciones
-- [x] **A)** x = 8 y x = 5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** x = 13 y x = 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** x = 0 y x = 40
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** No tiene solucion
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) x = 8 y x = 5 <!-- feedback: Correcto! x = 8 y x = 5 -->
+
+- [ ] B) x = 13 y x = 3 <!-- feedback: Incorrecto. x = 13 y x = 3 -->
+
+- [ ] C) x = 0 y x = 40 <!-- feedback: Incorrecto. x = 0 y x = 40 -->
+
+- [ ] D) No tiene solucion <!-- feedback: Incorrecto. No tiene solucion -->
 
 **Explicacion:** Ecuacion cuadratica: (x-8)(x-5) = 0, por tanto x = 8 o x = 5.
 
 ---
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v7`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando materia estados cambios.
 
@@ -158,21 +172,22 @@ Resuelve la ecuacion: x^2 - 13x + 40 = 0
 Un estudiante de Carolina obtuvo notas: 16, 36, 25, 13. &iquest;Cual es la media?
 
 ### Opciones
-- [x] **A)** 21.2
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 96
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 30
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 21.2 <!-- feedback: Correcto! 21.2 -->
+
+- [ ] B) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] C) 96 <!-- feedback: Incorrecto. 96 -->
+
+- [ ] D) 30 <!-- feedback: Incorrecto. 30 -->
 
 **Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.
 
 ---
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando materia estados cambios.
 
@@ -180,21 +195,22 @@ Un estudiante de Carolina obtuvo notas: 16, 36, 25, 13. &iquest;Cual es la media
 Calcule la derivada de f(x) = 7x^3 + 12x^2 + 7x + 12
 
 ### Opciones
-- [x] **A)** f'(x) = 21x^2 + 24x + 7
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** f'(x) = 7x^2 + 12x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** f'(x) = 21x^2 + 12x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** f'(x) = 21x^3 + 24x^2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) f'(x) = 21x^2 + 24x + 7 <!-- feedback: Correcto! f'(x) = 21x^2 + 24x + 7 -->
+
+- [ ] B) f'(x) = 7x^2 + 12x <!-- feedback: Incorrecto. f'(x) = 7x^2 + 12x -->
+
+- [ ] C) f'(x) = 21x^2 + 12x <!-- feedback: Incorrecto. f'(x) = 21x^2 + 12x -->
+
+- [ ] D) f'(x) = 21x^3 + 24x^2 <!-- feedback: Incorrecto. f'(x) = 21x^3 + 24x^2 -->
 
 **Explicacion:** Derivada termino a termino: d/dx(7x^3) = 21x^2, d/dx(12x^2) = 24x, d/dx(7x) = 7, d/dx(12) = 0.
 
 ---
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v9`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando materia estados cambios.
 
@@ -202,21 +218,22 @@ Calcule la derivada de f(x) = 7x^3 + 12x^2 + 7x + 12
 &iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0
 
 ### Opciones
-- [x] **A)** Si, es correcta porque f'(0) = 0 y f''(0) > 0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** No, tiene un maximo en x = 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** No, no tiene extremos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** Solo es correcta para x > 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) Si, es correcta porque f'(0) = 0 y f''(0) > 0 <!-- feedback: Correcto! Si, es correcta porque f'(0) = 0 y f''(0) > 0 -->
+
+- [ ] B) No, tiene un maximo en x = 0 <!-- feedback: Incorrecto. No, tiene un maximo en x = 0 -->
+
+- [ ] C) No, no tiene extremos <!-- feedback: Incorrecto. No, no tiene extremos -->
+
+- [ ] D) Solo es correcta para x > 0 <!-- feedback: Incorrecto. Solo es correcta para x > 0 -->
 
 **Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.
 
 ---
-## Pregunta 10 [D3]
+## Question 10 [D3]
 **ID:** `PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando materia estados cambios.
 
@@ -224,21 +241,22 @@ Calcule la derivada de f(x) = 7x^3 + 12x^2 + 7x + 12
 En Trujillo Alto, un estudiante del Escuela Superior de Trujillo Alto resuelve: 3x + 3 = 18. &iquest;Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **D)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] B) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 7 <!-- feedback: Incorrecto. 7 -->
 
 **Explicacion:** Se resta 3 de ambos lados. Luego se divide por 3: x = 5.
 
 ---
-## Pregunta 11 [D4]
+## Question 11 [D4]
 **ID:** `PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v11`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando materia estados cambios.
 
@@ -246,21 +264,22 @@ En Trujillo Alto, un estudiante del Escuela Superior de Trujillo Alto resuelve: 
 Simplifique: (3)(9x + 11)
 
 ### Opciones
-- [x] **A)** 27x + 33
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 27x + 11
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 12x + 33
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 27x - 33
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 27x + 33 <!-- feedback: Correcto! 27x + 33 -->
+
+- [ ] B) 27x + 11 <!-- feedback: Incorrecto. 27x + 11 -->
+
+- [ ] C) 12x + 33 <!-- feedback: Incorrecto. 12x + 33 -->
+
+- [ ] D) 27x - 33 <!-- feedback: Incorrecto. 27x - 33 -->
 
 **Explicacion:** Aplicar distributiva: (3)(9x + 11) = 27x + 33.
 
 ---
-## Pregunta 12 [D3]
+## Question 12 [D3]
 **ID:** `PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v12`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando materia estados cambios.
 
@@ -268,21 +287,22 @@ Simplifique: (3)(9x + 11)
 Resuelve: 2(x + 2) = 10
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] C) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [ ] D) 1 <!-- feedback: Incorrecto. 1 -->
 
 **Explicacion:** 2(x+2) = 10 -> x+2 = 5 -> x = 3.
 
 ---
-## Pregunta 13 [D4]
+## Question 13 [D4]
 **ID:** `PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v13`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando materia estados cambios.
 
@@ -290,21 +310,22 @@ Resuelve: 2(x + 2) = 10
 Maria compro 5 cuadernos a $3.3 c/u en Cayey. &iquest;Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $15.3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** $5.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $3.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $8.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $15.3 <!-- feedback: Correcto! $15.3 -->
+
+- [ ] B) $5.3 <!-- feedback: Incorrecto. $5.3 -->
+
+- [ ] C) $3.3 <!-- feedback: Incorrecto. $3.3 -->
+
+- [ ] D) $8.3 <!-- feedback: Incorrecto. $8.3 -->
 
 **Explicacion:** Total = 5 x $3 = $15.3.
 
 ---
-## Pregunta 14 [D5]
+## Question 14 [D5]
 **ID:** `PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v14`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando materia estados cambios.
 
@@ -312,21 +333,22 @@ Maria compro 5 cuadernos a $3.3 c/u en Cayey. &iquest;Cuanto gasto?
 Un estudiante de Escuela Superior de Isabela en Isabela grafica f(x) = 3x + 10. &iquest;Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 10
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 13
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 10 <!-- feedback: Incorrecto. 10 -->
+
+- [ ] C) 13 <!-- feedback: Incorrecto. 13 -->
+
+- [ ] D) 8 <!-- feedback: Incorrecto. 8 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 3.
 
 ---
-## Pregunta 15 [D5]
+## Question 15 [D5]
 **ID:** `PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v15`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando materia estados cambios.
 
@@ -334,21 +356,22 @@ Un estudiante de Escuela Superior de Isabela en Isabela grafica f(x) = 3x + 10. 
 En un examen EBAU en Rio Piedras, se pide: si f(x) = 5x^2 + 3x + 7. &iquest;Cual es f(2)?
 
 ### Opciones
-- [x] **A)** 33
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 13
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 33 <!-- feedback: Correcto! 33 -->
+
+- [ ] B) 13 <!-- feedback: Incorrecto. 13 -->
+
+- [ ] C) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] D) 8 <!-- feedback: Incorrecto. 8 -->
 
 **Explicacion:** Sustituyo x=2: f(2) = 5(4) + 3(2) + 7 = 20 + 6 + 7 = 33.
 
 ---
-## Pregunta 16 [D6]
+## Question 16 [D6]
 **ID:** `PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v16`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando materia estados cambios.
 
@@ -356,21 +379,22 @@ En un examen EBAU en Rio Piedras, se pide: si f(x) = 5x^2 + 3x + 7. &iquest;Cual
 Resuelve la ecuacion: x^2 - 15x + 36 = 0
 
 ### Opciones
-- [x] **A)** x = 3 y x = 12
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** x = 15 y x = 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** x = 0 y x = 36
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** No tiene solucion
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) x = 3 y x = 12 <!-- feedback: Correcto! x = 3 y x = 12 -->
+
+- [ ] B) x = 15 y x = 9 <!-- feedback: Incorrecto. x = 15 y x = 9 -->
+
+- [ ] C) x = 0 y x = 36 <!-- feedback: Incorrecto. x = 0 y x = 36 -->
+
+- [ ] D) No tiene solucion <!-- feedback: Incorrecto. No tiene solucion -->
 
 **Explicacion:** Ecuacion cuadratica: (x-3)(x-12) = 0, por tanto x = 3 o x = 12.
 
 ---
-## Pregunta 17 [D6]
+## Question 17 [D6]
 **ID:** `PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v17`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando materia estados cambios.
 
@@ -378,21 +402,22 @@ Resuelve la ecuacion: x^2 - 15x + 36 = 0
 Un estudiante de Cabo Rojo obtuvo notas: 16, 36, 25, 8. &iquest;Cual es la media?
 
 ### Opciones
-- [x] **A)** 22.2
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 96
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 30
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 22.2 <!-- feedback: Correcto! 22.2 -->
+
+- [ ] B) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [ ] C) 96 <!-- feedback: Incorrecto. 96 -->
+
+- [ ] D) 30 <!-- feedback: Incorrecto. 30 -->
 
 **Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.
 
 ---
-## Pregunta 18 [D7]
+## Question 18 [D7]
 **ID:** `PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v18`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando materia estados cambios.
 
@@ -400,21 +425,22 @@ Un estudiante de Cabo Rojo obtuvo notas: 16, 36, 25, 8. &iquest;Cual es la media
 Calcule la derivada de f(x) = 6x^3 + 8x^2 + 0x + 8
 
 ### Opciones
-- [x] **A)** f'(x) = 18x^2 + 16x + 0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** f'(x) = 6x^2 + 8x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** f'(x) = 18x^2 + 8x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** f'(x) = 18x^3 + 16x^2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) f'(x) = 18x^2 + 16x + 0 <!-- feedback: Correcto! f'(x) = 18x^2 + 16x + 0 -->
+
+- [ ] B) f'(x) = 6x^2 + 8x <!-- feedback: Incorrecto. f'(x) = 6x^2 + 8x -->
+
+- [ ] C) f'(x) = 18x^2 + 8x <!-- feedback: Incorrecto. f'(x) = 18x^2 + 8x -->
+
+- [ ] D) f'(x) = 18x^3 + 16x^2 <!-- feedback: Incorrecto. f'(x) = 18x^3 + 16x^2 -->
 
 **Explicacion:** Derivada termino a termino: d/dx(6x^3) = 18x^2, d/dx(8x^2) = 16x, d/dx(0x) = 0, d/dx(8) = 0.
 
 ---
-## Pregunta 19 [D7]
+## Question 19 [D7]
 **ID:** `PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v19`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando materia estados cambios.
 
@@ -422,21 +448,22 @@ Calcule la derivada de f(x) = 6x^3 + 8x^2 + 0x + 8
 &iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0
 
 ### Opciones
-- [x] **A)** Si, es correcta porque f'(0) = 0 y f''(0) > 0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** No, tiene un maximo en x = 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** No, no tiene extremos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** Solo es correcta para x > 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) Si, es correcta porque f'(0) = 0 y f''(0) > 0 <!-- feedback: Correcto! Si, es correcta porque f'(0) = 0 y f''(0) > 0 -->
+
+- [ ] B) No, tiene un maximo en x = 0 <!-- feedback: Incorrecto. No, tiene un maximo en x = 0 -->
+
+- [ ] C) No, no tiene extremos <!-- feedback: Incorrecto. No, no tiene extremos -->
+
+- [ ] D) Solo es correcta para x > 0 <!-- feedback: Incorrecto. Solo es correcta para x > 0 -->
 
 **Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.
 
 ---
-## Pregunta 20 [D3]
+## Question 20 [D3]
 **ID:** `PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v20`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de PR practicando materia estados cambios.
 
@@ -444,14 +471,13 @@ Calcule la derivada de f(x) = 6x^3 + 8x^2 + 0x + 8
 En Arecibo, un estudiante del Escuela Superior Luis Munoz Iglesias resuelve: 7x + 11 = 46. &iquest;Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **D)** 11
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] B) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 11 <!-- feedback: Incorrecto. 11 -->
 
 **Explicacion:** Se resta 11 de ambos lados. Luego se divide por 7: x = 5.
 

@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W14-discurso-politico-001-MASTERY"
+id: "CO-LC-7-2026-W14-discurso-politico-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "discurso-politico"
-semana: "W14"
+week: "W14"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Discurso Político - Grado 7
 ## Semana W14 — Análisis del discurso político colombiano
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W14-discurso-politico-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el Colegio Antonio Nariño de Bogotá, los estudiantes comienzan a estudiar las características del discurso político.
+**Contexto:** En el Colegio Antonio Nariño de Bogotá, los estudiantes comienzan a estudiar las características del discurso político.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ El discurso político es un tipo de texto argumentativo persuasivo cuyo propósi
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W14-discurso-politico-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un candidato a la alcaldía de Cali dice en un mitin: "Yo nací en esta ciudad, crecí en el barrio popular de Siloé y sé lo que es luchar día a día. Por eso, entiendo sus necesidades mejor que nadie."
+**Contexto:** Un candidato a la alcaldía de Cali dice en un mitin: "Yo nací en esta ciudad, crecí en el barrio popular de Siloé y sé lo que es luchar día a día. Por eso, entiendo sus necesidades mejor que nadie."
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ El pathos o apelación emocional es uno de los recursos más usados en el discur
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W14-discurso-politico-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase del Colegio INEM de Pereira, la profesora muestra un fragmento del discurso de un político: "Vamos a construir el futuro que nuestros hijos merecen. No más promesas vacías. Manos a la obra."
+**Contexto:** En clase del Colegio INEM de Pereira, la profesora muestra un fragmento del discurso de un político: "Vamos a construir el futuro que nuestros hijos merecen. No más promesas vacías. Manos a la obra."
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ El discurso político frecuentemente utiliza un lenguaje emotivo y orientado a l
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W14-discurso-politico-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** En el colegio de Bucaramanga, los estudiantes analizan un discurso del alcalde sobre la construcción de un nuevo parque. El alcalde promete que "será el parque más grande de América Latina."
+**Contexto:** En el colegio de Bucaramanga, los estudiantes analizan un discurso del alcalde sobre la construcción de un nuevo parque. El alcalde promete que "será el parque más grande de América Latina."
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -102,11 +106,11 @@ Las promesas políticas deben evaluarse por su viabilidad, no por su atractivo. 
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W14-discurso-politico-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un debate escolar en el Colegio San José de Barranquilla, un candidato dice: "Mi oponente no tiene experiencia. ¿Cómo va a gobernar si nunca ha trabajado en el sector público?"
+**Contexto:** En un debate escolar en el Colegio San José de Barranquilla, un candidato dice: "Mi oponente no tiene experiencia. ¿Cómo va a gobernar si nunca ha trabajado en el sector público?"
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -123,11 +127,11 @@ El argumento ad hominem o ataque personal es una falacia lógica común en el di
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W14-discurso-politico-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En una campaña política en Medellín, un candidato repite constantemente: "¡Cambio! ¡El cambio que Colombia necesita! ¡Cambio ya!" sin explicar en qué consiste ese cambio.
+**Contexto:** En una campaña política en Medellín, un candidato repite constantemente: "¡Cambio! ¡El cambio que Colombia necesita! ¡Cambio ya!" sin explicar en qué consiste ese cambio.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -144,11 +148,11 @@ El uso de "palabras comodín" o eslóganes vacíos es una técnica política com
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W14-discurso-politico-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Mateo lee dos discursos de candidatos a la gobernación del Valle. El primero habla de "seguridad, empleo y educación". El segundo habla de "más policías en las calles, créditos para pequeños empresarios y aulas digitales en 200 escuelas".
+**Contexto:** Mateo lee dos discursos de candidatos a la gobernación del Valle. El primero habla de "seguridad, empleo y educación". El segundo habla de "más policías en las calles, créditos para pequeños empresarios y aulas digitales en 200 escuelas".
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -165,11 +169,11 @@ La concreción es un indicador de seriedad en el discurso político. "Seguridad,
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W14-discurso-politico-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un político dice en un discurso: "Nuestros adversarios quieren destruir a Colombia. Ellos no aman a este país como nosotros. Si ellos ganan, el país se va a perder."
+**Contexto:** Un político dice en un discurso: "Nuestros adversarios quieren destruir a Colombia. Ellos no aman a este país como nosotros. Si ellos ganan, el país se va a perder."
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -186,11 +190,11 @@ La polarización es una estrategia discursiva que divide el mundo en dos bandos 
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W14-discurso-politico-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase de Lectura Crítica del Colegio INEM de Medellín, los estudiantes analizan la promesa electoral: "En mi gobierno, todos los colombianos tendrán empleo digno."
+**Contexto:** En clase de Lectura Crítica del Colegio INEM de Medellín, los estudiantes analizan la promesa electoral: "En mi gobierno, todos los colombianos tendrán empleo digno."
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -207,11 +211,11 @@ Las promesas políticas deben evaluarse por su realismo. Prometer "todos los col
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W14-discurso-politico-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Laura escucha en la radio a un candidato decir: "Según una encuesta del Centro Nacional de Consultoría, el 67% de los colombianos apoya mi propuesta de reforma a la salud."
+**Contexto:** Laura escucha en la radio a un candidato decir: "Según una encuesta del Centro Nacional de Consultoría, el 67% de los colombianos apoya mi propuesta de reforma a la salud."
 **Expected_Success:** 0.45
 
 ### Enunciado
@@ -228,11 +232,11 @@ Las encuestas pueden ser manipuladas para favorecer a un candidato. Para evaluar
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W14-discurso-politico-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio de Pamplona, los estudiantes analizan un discurso de posesión donde el nuevo gobernante dice: "Hoy comienza una nueva era. El pasado ya no importa. Miremos hacia adelante juntos."
+**Contexto:** En el Colegio de Pamplona, los estudiantes analizan un discurso de posesión donde el nuevo gobernante dice: "Hoy comienza una nueva era. El pasado ya no importa. Miremos hacia adelante juntos."
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -249,11 +253,11 @@ La frase "el pasado ya no importa" en un discurso político puede tener una inte
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W14-discurso-politico-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio Técnico de Soacha, los estudiantes deben redactar una guía de 5 preguntas que todo ciudadano debería hacerse antes de votar, basándose en el análisis crítico del discurso político.
+**Contexto:** En el Colegio Técnico de Soacha, los estudiantes deben redactar una guía de 5 preguntas que todo ciudadano debería hacerse antes de votar, basándose en el análisis crítico del discurso político.
 **Expected_Success:** 0.38
 
 ### Enunciado

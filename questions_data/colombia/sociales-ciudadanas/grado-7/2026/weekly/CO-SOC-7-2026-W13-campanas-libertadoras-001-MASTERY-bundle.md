@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY"
+id: "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-ciudadanas"
 tema: "campanas-libertadoras"
-semana: "W13"
+week: "W13"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026 — Pensamiento Social"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Campañas Libertadoras — Grado 7
 ## Semana W13 — Las campañas militares de la independencia: Boyacá, Carabobo, Pichincha, Junín, Ayacucho
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En la clase de sociales del Colegio de la Salle de Bogotá, la profesora pregunta por las principales batallas de la independencia sudamericana.
+**Contexto:** En la clase de sociales del Colegio de la Salle de Bogotá, la profesora pregunta por las principales batallas de la independencia sudamericana.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La Batalla de Boyacá, librada el 7 de agosto de 1819 en el Puente de Boyacá (c
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del colegio de Medellín leen un texto sobre la Campaña Libertadora de la Nueva Granada (1819).
+**Contexto:** Los estudiantes del colegio de Medellín leen un texto sobre la Campaña Libertadora de la Nueva Granada (1819).
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ La Campaña Libertadora de 1819 fue una de las hazañas militares más audaces d
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Cali, los estudiantes estudian las batallas de la independencia de Ecuador.
+**Contexto:** En el colegio de Cali, los estudiantes estudian las batallas de la independencia de Ecuador.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -81,11 +85,11 @@ La Batalla de Pichincha, librada el 24 de mayo de 1822 en las faldas del volcán
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Argumentación
-**Context:** En el colegio de Barranquilla, los estudiantes analizan por qué la Batalla de Carabobo fue importante para la independencia de Venezuela.
+**Contexto:** En el colegio de Barranquilla, los estudiantes analizan por qué la Batalla de Carabobo fue importante para la independencia de Venezuela.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -102,11 +106,11 @@ La Batalla de Carabobo (1821) fue la culminación de la guerra de independencia 
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del colegio de Cartagena leen sobre la Batalla de Ayacucho y su significado.
+**Contexto:** Los estudiantes del colegio de Cartagena leen sobre la Batalla de Ayacucho y su significado.
 **Expected_Success:** 0.77
 
 ### Enunciado
@@ -123,11 +127,11 @@ La Batalla de Ayacucho, librada el 9 de diciembre de 1824 en la Pampa de la Quin
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Pereira, los estudiantes analizan el rol de las Legiones Británicas en las campañas libertadoras.
+**Contexto:** En el colegio de Pereira, los estudiantes analizan el rol de las Legiones Británicas en las campañas libertadoras.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -144,11 +148,11 @@ Las Legiones Británicas fueron contingentes de voluntarios procedentes de Gran 
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Bucaramanga, los estudiantes comparan las estrategias militares de Bolívar y San Martín.
+**Contexto:** En el colegio de Bucaramanga, los estudiantes comparan las estrategias militares de Bolívar y San Martín.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -165,11 +169,11 @@ Las guerras de independencia sudamericanas se desarrollaron en tres frentes prin
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Social
-**Context:** En la I.E. de Villavicencio, los estudiantes analizan la Batalla Naval del Lago de Maracaibo (1823).
+**Contexto:** En la I.E. de Villavicencio, los estudiantes analizan la Batalla Naval del Lago de Maracaibo (1823).
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -186,11 +190,11 @@ La Batalla Naval del Lago de Maracaibo fue el enfrentamiento naval más importan
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Cúcuta, los estudiantes analizan el mapa de las campañas militares de la independencia.
+**Contexto:** En el colegio de Cúcuta, los estudiantes analizan el mapa de las campañas militares de la independencia.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ José de San Martín, al mando del Ejército de los Andes, desarrolló una estra
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Manizales, los estudiantes evalúan el costo humano de las campañas libertadoras.
+**Contexto:** En el colegio de Manizales, los estudiantes evalúan el costo humano de las campañas libertadoras.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -228,11 +232,11 @@ Las guerras de independencia hispanoamericanas (1810-1825) tuvieron un costo hum
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Sincelejo, la profesora pregunta por el rol de los llaneros en las campañas libertadoras.
+**Contexto:** En el colegio de Sincelejo, la profesora pregunta por el rol de los llaneros en las campañas libertadoras.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -249,11 +253,11 @@ Los llaneros (habitantes de los Llanos de Venezuela y Colombia) fueron una fuerz
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** La profesora de sociales del colegio de Bogotá propone reflexionar sobre si la independencia militar se tradujo en independencia real para los pueblos americanos.
+**Contexto:** La profesora de sociales del colegio de Bogotá propone reflexionar sobre si la independencia militar se tradujo en independencia real para los pueblos americanos.
 **Expected_Success:** 0.42
 
 ### Enunciado

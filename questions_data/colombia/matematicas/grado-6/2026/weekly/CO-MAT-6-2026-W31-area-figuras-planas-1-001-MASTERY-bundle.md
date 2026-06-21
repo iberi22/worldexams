@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W31-area-figuras-planas-1-001-MASTERY"
+id: "CO-MAT-6-2026-W31-area-figuras-planas-1-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W31 — Area de Figuras Planas (Triangulo, Cuadrado, Rectangulo)
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W31-area-figuras-planas-1-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Definicion de area
+**Contexto:** Definicion de area
 
 ### Enunciado
 El area de una figura plana se define como:
 
-### Options
+### Opciones
 - [ ] A) La longitud del contorno de la figura <!-- feedback: Incorrect. Esa es la definicion de perimetro, no de area. -->
 - [x] B) La medida de la superficie que ocupa la figura <!-- feedback: Correct. El area es la medida de la superficie encerrada dentro del perimetro de una figura plana. -->
 - [ ] C) La distancia entre dos vertices de la figura <!-- feedback: Incorrect. Esa es la definicion de distancia o lado. -->
@@ -48,13 +51,14 @@ El area es una medida de superficie que se expresa en unidades cuadradas (como c
 
 **ID:** `CO-MAT-6-2026-W31-area-figuras-planas-1-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Formula del area del rectangulo
+**Contexto:** Formula del area del rectangulo
 
 ### Enunciado
 ¿Cual es la formula para calcular el area de un rectangulo?
 
-### Options
+### Opciones
 - [ ] A) Lado × Lado <!-- feedback: Incorrect. Esa formula corresponde al area del cuadrado, aunque un cuadrado es un caso especial de rectangulo. -->
 - [ ] B) Base × Altura ÷ 2 <!-- feedback: Incorrect. Esa es la formula del area del triangulo. -->
 - [x] C) Base × Altura <!-- feedback: Correct. El area de un rectangulo se calcula multiplicando la base por la altura: A = b × h. -->
@@ -69,13 +73,14 @@ El area del rectangulo se calcula como A = b × h, donde b es la longitud de la 
 
 **ID:** `CO-MAT-6-2026-W31-area-figuras-planas-1-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Area de un salon de clase en colegio colombiano
+**Contexto:** Area de un salon de clase en colegio colombiano
 
 ### Enunciado
 El salon de grado 6° en el colegio San Jose de Medellin mide 8 metros de largo y 6 metros de ancho. El profesor quiere cambiar el piso y necesita saber cuantos metros cuadrados de baldosa debe comprar. ¿Cual es el area del salon?
 
-### Options
+### Opciones
 - [ ] A) 28 m² <!-- feedback: Incorrect. Se calculo el perimetro: (8 + 6) × 2 = 28 m, confundiendo area con perimetro. -->
 - [ ] B) 14 m² <!-- feedback: Incorrect. Se sumo 8 + 6 = 14, pero el area se calcula multiplicando, no sumando. -->
 - [x] C) 48 m² <!-- feedback: Correct. Area = base × altura = 8 m × 6 m = 48 m². -->
@@ -90,13 +95,14 @@ El salon tiene forma rectangular. El area se calcula multiplicando el largo por 
 
 **ID:** `CO-MAT-6-2026-W31-area-figuras-planas-1-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Cuadrado en una plaza de pueblo
+**Contexto:** Cuadrado en una plaza de pueblo
 
 ### Enunciado
 La plaza principal de Villa de Leyva tiene una zona central con forma de cuadrado de 12 metros de lado. ¿Cual es el area de esta zona central?
 
-### Options
+### Opciones
 - [ ] A) 24 m² <!-- feedback: Incorrect. Se multiplico 12 × 2, confundiendo area con perimetro o usando formula incorrecta. -->
 - [ ] B) 48 m² <!-- feedback: Incorrect. Se multiplico 12 × 4 = 48, que es el perimetro, no el area. -->
 - [x] C) 144 m² <!-- feedback: Correct. Area del cuadrado = lado × lado = 12 m × 12 m = 144 m². -->
@@ -111,13 +117,14 @@ El area de un cuadrado se calcula como A = L × L = L², donde L es la longitud 
 
 **ID:** `CO-MAT-6-2026-W31-area-figuras-planas-1-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Modelacion
-**Context:** Area de un triangulo en un parque
+**Contexto:** Area de un triangulo en un parque
 
 ### Enunciado
 En un parque de Barranquilla hay un jardin con forma triangular. La base del triangulo mide 10 metros y la altura es de 6 metros. ¿Cual es el area del jardin?
 
-### Options
+### Opciones
 - [ ] A) 60 m² <!-- feedback: Incorrect. Se multiplico base × altura sin dividir entre 2, confundiendo con la formula del rectangulo. -->
 - [x] B) 30 m² <!-- feedback: Correct. Area del triangulo = (base × altura) ÷ 2 = (10 × 6) ÷ 2 = 60 ÷ 2 = 30 m². -->
 - [ ] C) 16 m² <!-- feedback: Incorrect. Se sumo base + altura = 16, pero el area requiere multiplicacion y division. -->
@@ -132,13 +139,14 @@ El area de un triangulo es la mitad del area del rectangulo que tiene la misma b
 
 **ID:** `CO-MAT-6-2026-W31-area-figuras-planas-1-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Terreno agricola en el Eje Cafetero
+**Contexto:** Terreno agricola en el Eje Cafetero
 
 ### Enunciado
 Don Alfonso tiene un terreno rectangular en Quindio que mide 25 metros de frente y 40 metros de fondo. Si quiere sembrar cafe en todo el terreno y cada metro cuadrado produce 2 kg de cafe al año, ¿cuantos kilogramos de cafe producira el terreno en un año?
 
-### Options
+### Opciones
 - [ ] A) 1,000 kg <!-- feedback: Incorrect. Se multiplico 25 × 40 = 1,000, que es el area en m², pero falta multiplicar por la produccion por m². -->
 - [x] B) 2,000 kg <!-- feedback: Correct. Area = 25 × 40 = 1,000 m². Produccion = 1,000 × 2 = 2,000 kg de cafe al año. -->
 - [ ] C) 130 kg <!-- feedback: Incorrect. Se sumo 25 + 40 + 2 = 67 y luego se multiplico por algo erroneo. -->
@@ -153,13 +161,14 @@ Primero calculamos el area del terreno rectangular: A = 25 m × 40 m = 1,000 m²
 
 **ID:** `CO-MAT-6-2026-W31-area-figuras-planas-1-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Diseno de un patio escolar en Bogota
+**Contexto:** Diseno de un patio escolar en Bogota
 
 ### Enunciado
 En un colegio de Bogota van a construir un patio rectangular de 20 m de largo. El area disponible es de 300 m². Si ya compraron 20 m de largo, ¿cuanto debe medir el ancho del patio?
 
-### Options
+### Opciones
 - [ ] A) 15 m <!-- feedback: Correct. Area = largo × ancho → 300 = 20 × ancho → ancho = 300 ÷ 20 = 15 m. -->
 - [x] B) 15 m <!-- feedback: Correct. Area = largo × ancho → 300 = 20 × ancho → ancho = 300 ÷ 20 = 15 m. -->
 - [ ] C) 320 m <!-- feedback: Incorrect. Se sumo 300 + 20 = 320, confundiendo las operaciones. -->
@@ -174,13 +183,14 @@ Cuando conocemos el area y una de las dimensiones, podemos despejar la otra. Par
 
 **ID:** `CO-MAT-6-2026-W31-area-figuras-planas-1-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Fachada de una casa en Cartagena
+**Contexto:** Fachada de una casa en Cartagena
 
 ### Enunciado
 La fachada de una casa en Cartagena tiene forma rectangular de 12 m de base y 5 m de altura, y en su centro tiene una ventana triangular de 2 m de base y 1.5 m de altura. ¿Cual es el area de la pared que se debe pintar (sin incluir la ventana)?
 
-### Options
+### Opciones
 - [ ] A) 60 m² <!-- feedback: Incorrect. Se calculo solo el area del rectangulo sin restar la ventana: 12 × 5 = 60 m². -->
 - [ ] B) 58.5 m² <!-- feedback: Correct. Area rectangulo = 12 × 5 = 60 m². Area triangulo = (2 × 1.5) ÷ 2 = 1.5 m². Area a pintar = 60 - 1.5 = 58.5 m². -->
 - [ ] C) 61.5 m² <!-- feedback: Incorrect. Se sumo el area de la ventana en vez de restarla: 60 + 1.5 = 61.5. -->
@@ -195,13 +205,14 @@ Para superficies compuestas, primero calculamos el area total y luego restamos l
 
 **ID:** `CO-MAT-6-2026-W31-area-figuras-planas-1-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Comparacion de figuras en un parque
+**Contexto:** Comparacion de figuras en un parque
 
 ### Enunciado
 En un parque de Cali hay dos zonas verdes: una con forma de cuadrado de 9 m de lado y otra con forma de rectangulo de 12 m de largo y 6 m de ancho. ¿Cual de las siguientes afirmaciones es CORRECTA?
 
-### Options
+### Opciones
 - [ ] A) Ambas zonas tienen la misma area <!-- feedback: Incorrect. Area cuadrado = 9 × 9 = 81 m². Area rectangulo = 12 × 6 = 72 m². No son iguales. -->
 - [ ] B) El cuadrado tiene mayor area <!-- feedback: Correct. Area cuadrado = 81 m². Area rectangulo = 72 m². El cuadrado tiene 9 m² mas de area. -->
 - [ ] C) El rectangulo tiene mayor area <!-- feedback: Incorrect. El rectangulo tiene 72 m², que es menor que 81 m² del cuadrado. -->
@@ -219,13 +230,14 @@ El cuadrado tiene 9 m² mas de area. Es interesante notar que aunque el perimetr
 
 **ID:** `CO-MAT-6-2026-W31-area-figuras-planas-1-010-v1`
 **Bloom:** Synthesize
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Combinacion de figuras en un jardin
+**Contexto:** Combinacion de figuras en un jardin
 
 ### Enunciado
 Maria quiere disenar un jardin con la siguiente forma: un rectangulo de 8 m × 5 m unido a un triangulo en uno de sus lados de 8 m. La altura del triangulo es de 3 m. Si el jardin completo tiene forma de pentagono irregular, ¿cual es el area total del jardin?
 
-### Options
+### Opciones
 - [ ] A) 52 m² <!-- feedback: Correct. Area del rectangulo = 8 × 5 = 40 m². Area del triangulo = (8 × 3) ÷ 2 = 12 m². Area total = 40 + 12 = 52 m². -->
 - [x] B) 52 m² <!-- feedback: Correct. Area del rectangulo = 8 × 5 = 40 m². Area del triangulo = (8 × 3) ÷ 2 = 12 m². Area total = 40 + 12 = 52 m². -->
 - [ ] C) 64 m² <!-- feedback: Incorrect. Se calculo 8 × 5 + 8 × 3 = 40 + 24 = 64, olvidando dividir el area del triangulo entre 2. -->

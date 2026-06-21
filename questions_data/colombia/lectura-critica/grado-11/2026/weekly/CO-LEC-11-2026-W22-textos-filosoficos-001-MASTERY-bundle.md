@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-11-2026-W22-textos-filosoficos-001-MASTERY"
+id: "CO-LEC-11-2026-W22-textos-filosoficos-001-MASTERY-bundle"
 country: "colombia"
 grado: 11
 asignatura: "lectura-critica"
 tema: "textos-filosoficos"
-semana: 22
+week: "W22"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,15 +16,20 @@ rubric_baseline: "textos filosoficos, argumentacion filosofica, pensamiento crit
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Filosóficos — Grado 11
 ## Semana W22
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 
 **ID:** `CO-LEC-11-2026-W22-textos-filosoficos-001-MASTERY-v1`  
 **Bloom:** Remember  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -33,10 +38,10 @@ Pregunta fundamental de Aristóteles en 'Ética a Nicómaco':
 
 ### Opciones
 
-- [ ] A) Sentido de la vida
-- [x] B) Qué es la felicidad y cómo alcanzarla
-- [ ] C) Existe Dios
-- [ ] D) Qué es belleza
+- [ ] A) Sentido de la vida <!-- feedback: Incorrecto. Sentido de la vida -->
+- [x] B) Qué es la felicidad y cómo alcanzarla <!-- feedback: Correcto! Qué es la felicidad y cómo alcanzarla -->
+- [ ] C) Existe Dios <!-- feedback: Incorrecto. Existe Dios -->
+- [ ] D) Qué es belleza <!-- feedback: Incorrecto. Qué es belleza -->
 
 ### Explicación Pedagógica
 
@@ -44,10 +49,11 @@ Aristóteles aborda la eudaimonía (felicidad como fin último).
 
 ---
 
-## Pregunta 2 [D2]
+## Question 2 [D2]
 
 **ID:** `CO-LEC-11-2026-W22-textos-filosoficos-001-MASTERY-v2`  
 **Bloom:** Understand  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -56,10 +62,10 @@ Dilema: ¿desarrollo económico o protección ambiental? Tensón entre:
 
 ### Opciones
 
-- [x] A) Ética utilitarista vs. ecológica
-- [ ] B) Estética y política
-- [ ] C) Lógica y retórica
-- [ ] D) Religión y ciencia
+- [x] A) Ética utilitarista vs. ecológica <!-- feedback: Correcto! Ética utilitarista vs. ecológica -->
+- [ ] B) Estética y política <!-- feedback: Incorrecto. Estética y política -->
+- [ ] C) Lógica y retórica <!-- feedback: Incorrecto. Lógica y retórica -->
+- [ ] D) Religión y ciencia <!-- feedback: Incorrecto. Religión y ciencia -->
 
 ### Explicación Pedagógica
 
@@ -67,10 +73,11 @@ Utilitarismo prioriza mayor bien; ética ecológica valora naturaleza intrínsec
 
 ---
 
-## Pregunta 3 [D2]
+## Question 3 [D2]
 
 **ID:** `CO-LEC-11-2026-W22-textos-filosoficos-001-MASTERY-v3`  
 **Bloom:** Understand  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -79,10 +86,10 @@ Utilitarismo prioriza mayor bien; ética ecológica valora naturaleza intrínsec
 
 ### Opciones
 
-- [ ] A) Que pensar cansa
-- [x] B) La certeza del sujeto pensante como fundamento del conocimiento
-- [ ] C) Solo existo si pienso
-- [ ] D) Pensar en voz alta
+- [ ] A) Que pensar cansa <!-- feedback: Incorrecto. Que pensar cansa -->
+- [x] B) La certeza del sujeto pensante como fundamento del conocimiento <!-- feedback: Correcto! La certeza del sujeto pensante como fundamento del conocimie -->
+- [ ] C) Solo existo si pienso <!-- feedback: Incorrecto. Solo existo si pienso -->
+- [ ] D) Pensar en voz alta <!-- feedback: Incorrecto. Pensar en voz alta -->
 
 ### Explicación Pedagógica
 
@@ -90,10 +97,11 @@ Primera certeza indubitable, fundamento de la filosofía moderna.
 
 ---
 
-## Pregunta 4 [D2]
+## Question 4 [D2]
 
 **ID:** `CO-LEC-11-2026-W22-textos-filosoficos-001-MASTERY-v4`  
 **Bloom:** Apply  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -102,10 +110,10 @@ Primera certeza indubitable, fundamento de la filosofía moderna.
 
 ### Opciones
 
-- [ ] A) Estoicismo
-- [x] B) Religión como fundamento de la moral
-- [ ] C) Nihilismo
-- [ ] D) Empirismo
+- [ ] A) Estoicismo <!-- feedback: Incorrecto. Estoicismo -->
+- [x] B) Religión como fundamento de la moral <!-- feedback: Correcto! Religión como fundamento de la moral -->
+- [ ] C) Nihilismo <!-- feedback: Incorrecto. Nihilismo -->
+- [ ] D) Empirismo <!-- feedback: Incorrecto. Empirismo -->
 
 ### Explicación Pedagógica
 
@@ -113,10 +121,11 @@ Refleja la idea de que la moral depende de un fundamento religioso.
 
 ---
 
-## Pregunta 5 [D2]
+## Question 5 [D2]
 
 **ID:** `CO-LEC-11-2026-W22-textos-filosoficos-001-MASTERY-v5`  
 **Bloom:** Apply  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -125,10 +134,10 @@ Refleja la idea de que la moral depende de un fundamento religioso.
 
 ### Opciones
 
-- [x] A) Platón
-- [ ] B) Nietzsche
-- [ ] C) Sartre
-- [ ] D) Hume
+- [x] A) Platón <!-- feedback: Correcto! Platón -->
+- [ ] B) Nietzsche <!-- feedback: Incorrecto. Nietzsche -->
+- [ ] C) Sartre <!-- feedback: Incorrecto. Sartre -->
+- [ ] D) Hume <!-- feedback: Incorrecto. Hume -->
 
 ### Explicación Pedagógica
 
@@ -136,10 +145,11 @@ Platón define justicia según función y capacidades de cada quien.
 
 ---
 
-## Pregunta 6 [D3]
+## Question 6 [D3]
 
 **ID:** `CO-LEC-11-2026-W22-textos-filosoficos-001-MASTERY-v6`  
 **Bloom:** Analyze  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -148,10 +158,10 @@ Político: 'El fin justifica los medios'. ¿Corriente?
 
 ### Opciones
 
-- [ ] A) Estoicismo
-- [x] B) Maquiavelismo
-- [ ] C) Idealismo
-- [ ] D) Escepticismo
+- [ ] A) Estoicismo <!-- feedback: Incorrecto. Estoicismo -->
+- [x] B) Maquiavelismo <!-- feedback: Correcto! Maquiavelismo -->
+- [ ] C) Idealismo <!-- feedback: Incorrecto. Idealismo -->
+- [ ] D) Escepticismo <!-- feedback: Incorrecto. Escepticismo -->
 
 ### Explicación Pedagógica
 
@@ -159,10 +169,11 @@ Se asocia a Maquiavelo donde resultados tienen prioridad moral.
 
 ---
 
-## Pregunta 7 [D3]
+## Question 7 [D3]
 
 **ID:** `CO-LEC-11-2026-W22-textos-filosoficos-001-MASTERY-v7`  
 **Bloom:** Analyze  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -171,10 +182,10 @@ Se asocia a Maquiavelo donde resultados tienen prioridad moral.
 
 ### Opciones
 
-- [x] A) Principio de no daño (Stuart Mill)
-- [ ] B) Imperativo categórico (Kant)
-- [ ] C) Contrato social (Rousseau)
-- [ ] D) Voluntad de poder (Nietzsche)
+- [x] A) Principio de no daño (Stuart Mill) <!-- feedback: Correcto! Principio de no daño (Stuart Mill) -->
+- [ ] B) Imperativo categórico (Kant) <!-- feedback: Incorrecto. Imperativo categórico (Kant) -->
+- [ ] C) Contrato social (Rousseau) <!-- feedback: Incorrecto. Contrato social (Rousseau) -->
+- [ ] D) Voluntad de poder (Nietzsche) <!-- feedback: Incorrecto. Voluntad de poder (Nietzsche) -->
 
 ### Explicación Pedagógica
 
@@ -182,10 +193,11 @@ Mill: libertad solo limitable para evitar daño a otros.
 
 ---
 
-## Pregunta 8 [D3]
+## Question 8 [D3]
 
 **ID:** `CO-LEC-11-2026-W22-textos-filosoficos-001-MASTERY-v8`  
 **Bloom:** Evaluate  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -194,10 +206,10 @@ Mill: libertad solo limitable para evitar daño a otros.
 
 ### Opciones
 
-- [ ] A) Sí, la cultura debe protegerse
-- [x] B) No, la censura limita libertades y el debate democrático
-- [ ] C) Depende del valor
-- [ ] D) Solo para contenidos extremos
+- [ ] A) Sí, la cultura debe protegerse <!-- feedback: Incorrecto. Sí, la cultura debe protegerse -->
+- [x] B) No, la censura limita libertades y el debate democrático <!-- feedback: Correcto! No, la censura limita libertades y el debate democrático -->
+- [ ] C) Depende del valor <!-- feedback: Incorrecto. Depende del valor -->
+- [ ] D) Solo para contenidos extremos <!-- feedback: Incorrecto. Solo para contenidos extremos -->
 
 ### Explicación Pedagógica
 
@@ -205,10 +217,11 @@ La censura, aun con fines culturales, limita libertades fundamentales.
 
 ---
 
-## Pregunta 9 [D3]
+## Question 9 [D3]
 
 **ID:** `CO-LEC-11-2026-W22-textos-filosoficos-001-MASTERY-v9`  
 **Bloom:** Evaluate  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -217,10 +230,10 @@ La censura, aun con fines culturales, limita libertades fundamentales.
 
 ### Opciones
 
-- [ ] A) Siempre el individuo
-- [x] B) Equilibrio entre ambos es necesario en una sociedad democrática
-- [ ] C) Solo el bien común
-- [ ] D) Ninguno
+- [ ] A) Siempre el individuo <!-- feedback: Incorrecto. Siempre el individuo -->
+- [x] B) Equilibrio entre ambos es necesario en una sociedad democrática <!-- feedback: Correcto! Equilibrio entre ambos es necesario en una sociedad democrát -->
+- [ ] C) Solo el bien común <!-- feedback: Incorrecto. Solo el bien común -->
+- [ ] D) Ninguno <!-- feedback: Incorrecto. Ninguno -->
 
 ### Explicación Pedagógica
 
@@ -228,10 +241,11 @@ Democracia requiere balance entre derechos individuales y bienestar colectivo.
 
 ---
 
-## Pregunta 10 [D1]
+## Question 10 [D1]
 
 **ID:** `CO-LEC-11-2026-W22-textos-filosoficos-001-MASTERY-v10`  
 **Bloom:** Remember  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -240,10 +254,10 @@ La mayéutica socrática es:
 
 ### Opciones
 
-- [ ] A) Un veneno
-- [x] B) Método de preguntas para llegar al conocimiento
-- [ ] C) Tipo de gobierno
-- [ ] D) Obra de teatro
+- [ ] A) Un veneno <!-- feedback: Incorrecto. Un veneno -->
+- [x] B) Método de preguntas para llegar al conocimiento <!-- feedback: Correcto! Método de preguntas para llegar al conocimiento -->
+- [ ] C) Tipo de gobierno <!-- feedback: Incorrecto. Tipo de gobierno -->
+- [ ] D) Obra de teatro <!-- feedback: Incorrecto. Obra de teatro -->
 
 ### Explicación Pedagógica
 

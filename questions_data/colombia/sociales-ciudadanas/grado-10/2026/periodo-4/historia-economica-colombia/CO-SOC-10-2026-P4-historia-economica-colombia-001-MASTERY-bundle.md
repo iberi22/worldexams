@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-10-2026-P4-historia-economica-colombia-001-MASTERY"
+id: "CO-SOC-10-2026-P4-historia-economica-colombia-001-MASTERY-bundle"
 country: "colombia"
 grado: 10
 asignatura: "sociales-ciudadanas"
@@ -12,7 +12,14 @@ alignment: "DBA MEN Grado 10 + Pre-ICFES Saber 11"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "historia_economica_colombia, colonia_economia, cafe_capitalismo, industrializacion, apertura_economica, economia_actual"
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Historia Económica de Colombia — Grado 10
 
@@ -26,12 +33,12 @@ Bundle de 15 preguntas sobre la historia económica de Colombia, alineado con DB
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 
-**Context:** En clase de historia económica del Colegio San José de Cúcuta, la profesora explica la economía colonial en el Nuevo Reino de Granada.
+**Contexto:** En clase de historia económica del Colegio San José de Cúcuta, la profesora explica la economía colonial en el Nuevo Reino de Granada.
 
 ### Enunciado
 Durante la colonia española, la principal actividad económica en el territorio de la actual Colombia fue:
 
-### Options
+### Opciones
 - [x] A) La minería de oro y plata, especialmente en Antioquia, Chocó y Cauca. <!-- feedback: Correcto. La minería fue la actividad económica más importante, con el oro como principal producto de exportación, explotado mediante mita y esclavitud africana. -->
 - [ ] B) La industria textil, con grandes fábricas en Bogotá y Medellín. <!-- feedback: Incorrecto. La industria textil no existía en la colonia; surgió a finales del siglo XIX y principios del XX. -->
 - [ ] C) La producción de petróleo para exportar a España. <!-- feedback: Incorrecto. El petróleo no se explotó en Colombia hasta principios del siglo XX (1921, con la Concesión Barco). -->
@@ -48,12 +55,12 @@ La economía colonial neogranadina se basó en la minería de oro, la agricultur
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 
-**Context:** Se estudia el siglo XIX colombiano y la difícil integración del mercado nacional.
+**Contexto:** Se estudia el siglo XIX colombiano y la difícil integración del mercado nacional.
 
 ### Enunciado
 Una de las principales dificultades económicas de Colombia en el siglo XIX fue:
 
-### Options
+### Opciones
 - [ ] A) La sobreproducción industrial que no encontraba mercados. <!-- feedback: Incorrecto. Colombia no tuvo industria en el siglo XIX; era una economía agroexportadora. -->
 - [ ] B) La falta de una moneda nacional, pues cada región emitía su propia moneda. <!-- feedback: Correcto. Hasta finales del siglo XIX, Colombia no tuvo una moneda unificada; circulaban monedas regionales y extranjeras, lo que dificultaba el comercio interno. -->
 - [ ] C) La competencia de productos asiáticos baratos. <!-- feedback: Incorrecto. La competencia asiática no era significativa en el siglo XIX colombiano. -->
@@ -70,12 +77,12 @@ El siglo XIX colombiano se caracterizó por la fragmentación económica: malas 
 **Bloom:** Understand
 **ICFES:** Interpretación y análisis de perspectivas
 
-**Context:** El café fue el producto emblemático de la economía colombiana entre finales del siglo XIX y mediados del XX.
+**Contexto:** El café fue el producto emblemático de la economía colombiana entre finales del siglo XIX y mediados del XX.
 
 ### Enunciado
 El auge cafetero transformó la economía colombiana principalmente porque:
 
-### Options
+### Opciones
 - [ ] A) Reemplazó completamente la minería como actividad principal. <!-- feedback: Incorrecto. Aunque el café fue muy importante, no reemplazó completamente la minería. -->
 - [x] B) Generó divisas, integró el mercado nacional mediante el ferrocarril, impulsó la colonización de nuevas tierras y creó una clase de pequeños y medianos propietarios. <!-- feedback: Correcto. El café conectó regiones, financió infraestructura (ferrocarriles), promovió la colonización antioqueña y creó una cultura empresarial. -->
 - [ ] C) Convirtió a Colombia en un país industrializado. <!-- feedback: Incorrecto. El café no industrializó al país; fue un producto de exportación primario que generó capitales para la posterior industrialización. -->
@@ -92,12 +99,12 @@ El café fue el motor de la economía colombiana desde 1870 hasta 1970. La Feder
 **Bloom:** Understand
 **ICFES:** Interpretación y análisis de perspectivas
 
-**Context:** Entre 1930 y 1970, Colombia vivió un proceso de industrialización conocido como "Industrialización por Sustitución de Importaciones" (ISI).
+**Contexto:** Entre 1930 y 1970, Colombia vivió un proceso de industrialización conocido como "Industrialización por Sustitución de Importaciones" (ISI).
 
 ### Enunciado
 La Industrialización por Sustitución de Importaciones (ISI) consistió en:
 
-### Options
+### Opciones
 - [ ] A) Importar productos industriales de Europa y Estados Unidos para venderlos en Colombia. <!-- feedback: Incorrecto. La ISI buscaba lo contrario: reducir importaciones produciendo localmente. -->
 - [x] B) Promover la producción nacional de bienes industriales que antes se importaban, mediante aranceles protectores, crédito estatal y apoyo a la industria local. <!-- feedback: Correcto. El Estado colombiano protegió la industria naciente con aranceles altos, crédito barato (IFI, Bancoldex) y compras estatales. -->
 - [ ] C) Exportar materias primas para comprar maquinaria en el exterior. <!-- feedback: Incorrecto. Eso describe el modelo agroexportador, no la ISI. -->
@@ -114,12 +121,12 @@ La ISI en Colombia impulsó la creación de industrias textiles (Medellín), de 
 **Bloom:** Apply
 **ICFES:** Pensamiento social
 
-**Context:** En 1990-1991, el gobierno de César Gaviria implementó la "Apertura Económica".
+**Contexto:** En 1990-1991, el gobierno de César Gaviria implementó la "Apertura Económica".
 
 ### Enunciado
 La Apertura Económica en Colombia consistió fundamentalmente en:
 
-### Options
+### Opciones
 - [ ] A) Aumentar los aranceles para proteger la industria nacional. <!-- feedback: Incorrecto. La apertura redujo aranceles, no los aumentó. -->
 - [x] B) Reducir aranceles, eliminar barreras al comercio exterior, privatizar empresas estatales y abrir la economía a la inversión extranjera. <!-- feedback: Correcto. La apertura buscó modernizar la economía colombiana reduciendo la protección estatal y exponiendo a la industria a la competencia internacional. -->
 - [ ] C) Cerrar la economía al comercio internacional para proteger el mercado interno. <!-- feedback: Incorrecto. Eso sería proteccionismo, lo opuesto a la apertura. -->
@@ -136,12 +143,12 @@ La Apertura Económica transformó radicalmente la economía colombiana. Redujo 
 **Bloom:** Apply
 **ICFES:** Interpretación y análisis de perspectivas
 
-**Context:** La crisis financiera colombiana de 1998-2000 (crisis hipotecaria) tuvo graves consecuencias económicas.
+**Contexto:** La crisis financiera colombiana de 1998-2000 (crisis hipotecaria) tuvo graves consecuencias económicas.
 
 ### Enunciado
 La crisis financiera colombiana de finales de los años 90 fue causada principalmente por:
 
-### Options
+### Opciones
 - [ ] A) La caída del precio del café en los mercados internacionales. <!-- feedback: Incorrecto. Aunque afectó, la crisis cafetera fue menor que la crisis financiera y crediticia. -->
 - [x] B) El sobreendeudamiento de los hogares y las empresas por créditos hipotecarios atados a la inflación (sistema UPAC), combinado con la recesión económica. <!-- feedback: Correcto. El sistema UPAC (Unidad de Poder Adquisitivo Constante) indexaba los créditos a la inflación; cuando la inflación subió, las cuotas se dispararon y millones de familias no pudieron pagar. -->
 - [ ] C) La falta de bancos comerciales en Colombia. <!-- feedback: Incorrecto. Colombia tenía un sistema bancario desarrollado. -->
@@ -158,12 +165,12 @@ La crisis del UPAC (posteriormente reemplazado por la UVR) fue una de las crisis
 **Bloom:** Analyze
 **ICFES:** Interpretación y análisis de perspectivas
 
-**Context:** Texto: "El petróleo ha sido un producto clave en la economía colombiana desde 1921. Ecopetrol, creada en 1951, es la empresa más grande del país. En 2023, el petróleo representó aproximadamente el 30% de las exportaciones totales."
+**Contexto:** Texto: "El petróleo ha sido un producto clave en la economía colombiana desde 1921. Ecopetrol, creada en 1951, es la empresa más grande del país. En 2023, el petróleo representó aproximadamente el 30% de las exportaciones totales."
 
 ### Enunciado
 La dependencia de Colombia de las exportaciones de petróleo tiene como riesgo principal:
 
-### Options
+### Opciones
 - [ ] A) Que el petróleo se acabe en pocos años. <!-- feedback: Incorrecto. Aunque las reservas son limitadas, el riesgo más inmediato es otro. -->
 - [ ] B) Que los trabajadores petroleros exijan salarios muy altos. <!-- feedback: Incorrecto. Eso no es el riesgo principal de la dependencia petrolera. -->
 - [x] C) La vulnerabilidad de la economía colombiana ante las fluctuaciones del precio internacional del petróleo, que genera inestabilidad fiscal y cambiaria. <!-- feedback: Correcto. Cuando el petróleo baja, disminuyen los ingresos fiscales, se devalúa el peso y se reduce el crecimiento económico (enfermedad holandesa). -->
@@ -180,12 +187,12 @@ La "enfermedad holandesa" describe cómo la dependencia de recursos naturales (p
 **Bloom:** Analyze
 **ICFES:** Interpretación y análisis de perspectivas
 
-**Context:** "La economía colombiana creció a un promedio del 4.5% anual entre 2002 y 2013, impulsada por el boom de commodities. Entre 2014 y 2023 el crecimiento bajó a un promedio del 2.5%."
+**Contexto:** "La economía colombiana creció a un promedio del 4.5% anual entre 2002 y 2013, impulsada por el boom de commodities. Entre 2014 y 2023 el crecimiento bajó a un promedio del 2.5%."
 
 ### Enunciado
 El período de alto crecimiento (2002-2013) coincidió con:
 
-### Options
+### Opciones
 - [ ] A) El cierre de la economía colombiana y el proteccionismo. <!-- feedback: Incorrecto. En ese período Colombia mantuvo una economía abierta. -->
 - [x] B) El aumento de los precios internacionales del petróleo, carbón y café, combinado con la seguridad democrática y la inversión extranjera. <!-- feedback: Correcto. El boom de commodities (especialmente petróleo y carbón) impulsó el crecimiento, junto con la mejora de la seguridad y la confianza inversionista. -->
 - [ ] C) La nacionalización de las empresas mineras. <!-- feedback: Incorrecto. No hubo nacionalizaciones en ese período. -->
@@ -202,12 +209,12 @@ La economía colombiana creció fuertemente durante el boom de commodities (2002
 **Bloom:** Apply
 **ICFES:** Pensamiento social
 
-**Context:** En Colombia, la informalidad laboral afecta a aproximadamente el 60% de los trabajadores.
+**Contexto:** En Colombia, la informalidad laboral afecta a aproximadamente el 60% de los trabajadores.
 
 ### Enunciado
 Un trabajador informal se caracteriza por:
 
-### Options
+### Opciones
 - [ ] A) Tener un contrato laboral con todas las prestaciones sociales. <!-- feedback: Incorrecto. Esa es la definición de trabajo formal. -->
 - [x] B) Trabajar sin contrato laboral, sin afiliación a seguridad social y sin las protecciones que ofrece la legislación laboral. <!-- feedback: Correcto. La informalidad implica ausencia de contrato formal, no cotización a pensión, ni salud, ni cesantías, ni prima. -->
 - [ ] C) Ser un trabajador independiente con ingresos altos. <!-- feedback: Incorrecto. La informalidad no equivale a ser independiente con altos ingresos; la mayoría de informales tienen bajos ingresos. -->
@@ -224,12 +231,12 @@ La informalidad laboral en Colombia es estructural y ha sido muy persistente. Se
 **Bloom:** Analyze
 **ICFES:** Pensamiento reflexivo y sistémico
 
-**Context:** "El modelo de desarrollo colombiano pasó del proteccionismo (ISI, 1930-1990) a la apertura económica (1990-actualidad). Cada modelo tuvo efectos diferentes en la estructura productiva y social del país."
+**Contexto:** "El modelo de desarrollo colombiano pasó del proteccionismo (ISI, 1930-1990) a la apertura económica (1990-actualidad). Cada modelo tuvo efectos diferentes en la estructura productiva y social del país."
 
 ### Enunciado
 Un efecto de la transición del proteccionismo a la apertura económica fue:
 
-### Options
+### Opciones
 - [ ] A) La desaparición total de la producción industrial en Colombia. <!-- feedback: Incorrecto. La industria no desapareció pero se reestructuró; algunos sectores sobrevivieron y otros quebraron. -->
 - [ ] B) El fortalecimiento de los pequeños agricultores frente a las importaciones. <!-- feedback: Incorrecto. Muchos pequeños agricultores de maíz, trigo y soya fueron desplazados por importaciones baratas. -->
 - [x] C) La reestructuración del aparato productivo: sectores ineficientes quebraron, mientras sectores exportadores (flores, aguacate, servicios) y algunos industriales se modernizaron y volvieron competitivos. <!-- feedback: Correcto. La apertura fue un proceso doloroso pero necesario; empresas ineficientes quebraron, pero sectores competitivos emergieron. -->
@@ -246,12 +253,12 @@ La transición del proteccionismo a la apertura en Colombia (1990-1995) fue abru
 **Bloom:** Analyze
 **ICFES:** Pensamiento reflexivo y sistémico
 
-**Context:** "En el siglo XX, Colombia experimentó un proceso de urbanización acelerado: pasó del 30% de población urbana en 1938 al 80% en 2020."
+**Contexto:** "En el siglo XX, Colombia experimentó un proceso de urbanización acelerado: pasó del 30% de población urbana en 1938 al 80% en 2020."
 
 ### Enunciado
 La principal causa del éxodo rural y la urbanización en Colombia fue:
 
-### Options
+### Opciones
 - [ ] A) El clima frío de las zonas urbanas. <!-- feedback: Incorrecto. El clima no es una causa relevante de la migración rural-urbana. -->
 - [ ] B) La oferta de trabajos agrícolas bien remunerados. <!-- feedback: Incorrecto. Fue precisamente la falta de oportunidades en el campo lo que impulsó la migración. -->
 - [x] C) La combinación de violencia rural (conflicto armado, desplazamiento forzado), falta de oportunidades en el campo y la atracción de las ciudades con industrialización, servicios y educación. <!-- feedback: Correcto. La urbanización colombiana fue impulsada por factores de expulsión (violencia, pobreza rural, concentración de tierras) y atracción (empleo industrial, educación, servicios). -->
@@ -268,12 +275,12 @@ Colombia se urbanizó aceleradamente en el siglo XX por factores negativos (viol
 **Bloom:** Evaluate
 **ICFES:** Pensamiento reflexivo y sistémico
 
-**Context:** "La reforma agraria fue uno de los temas más conflictivos de la historia colombiana. La Ley 135 de 1961 (primera ley de Reforma Agraria) buscó redistribuir tierras, pero tuvo resultados limitados."
+**Contexto:** "La reforma agraria fue uno de los temas más conflictivos de la historia colombiana. La Ley 135 de 1961 (primera ley de Reforma Agraria) buscó redistribuir tierras, pero tuvo resultados limitados."
 
 ### Enunciado
 La razón principal por la que la reforma agraria en Colombia tuvo resultados limitados fue:
 
-### Options
+### Opciones
 - [ ] A) No había suficiente tierra disponible en el país. <!-- feedback: Incorrecto. Colombia tiene abundante tierra rural. -->
 - [ ] B) Los campesinos no querían recibir tierras. <!-- feedback: Incorrecto. Históricamente los campesinos han demandado acceso a la tierra. -->
 - [x] C) La fuerte oposición de los terratenientes, la violencia contra los líderes campesinos y la priorización de otros temas en la agenda política. <!-- feedback: Correcto. La concentración de la tierra (latifundio) ha sido defendida por élites rurales con poder político, y la violencia contra líderes agrarios ha impedido la redistribución efectiva. -->
@@ -290,12 +297,12 @@ La concentración de la tierra es una de las causas estructurales del conflicto 
 **Bloom:** Evaluate
 **ICFES:** Pensamiento reflexivo y sistémico
 
-**Context:** "Entre 1960 y 2000, el Grupo Empresarial Antioqueño (GEA) —conformado por Suramericana, Argos y Nutresa— construyó uno de los conglomerados económicos más poderosos de Colombia, con inversiones en seguros, cemento, alimentos y textiles."
+**Contexto:** "Entre 1960 y 2000, el Grupo Empresarial Antioqueño (GEA) —conformado por Suramericana, Argos y Nutresa— construyó uno de los conglomerados económicos más poderosos de Colombia, con inversiones en seguros, cemento, alimentos y textiles."
 
 ### Enunciado
 El éxito del GEA representó un modelo de desarrollo empresarial colombiano basado en:
 
-### Options
+### Opciones
 - [ ] A) El monopolio estatal y las concesiones gubernamentales exclusivas. <!-- feedback: Incorrecto. El GEA fue un grupo privado, no estatal. -->
 - [x] B) La reinversión de utilidades, la propiedad cruzada de acciones entre empresas del grupo, la vinculación familiar y la estrategia de largo plazo. <!-- feedback: Correcto. El GEA se caracterizó por el "emprendimiento antioqueño", reinversión de dividendos, propiedad cruzada (una empresa del grupo posee acciones de otra) y visión de largo plazo. -->
 - [ ] C) La inversión extranjera directa y la tecnología importada. <!-- feedback: Incorrecto. El GEA fue principalmente capital nacional. -->
@@ -312,12 +319,12 @@ El GEA (conocido como el "Sindicato Antioqueño") es un caso único de desarroll
 **Bloom:** Evaluate
 **ICFES:** Pensamiento reflexivo y sistémico
 
-**Context:** "El narcotráfico ha tenido un profundo impacto en la economía colombiana desde los años 70. Los carteles de Medellín y Cali introdujeron miles de millones de dólares al país, distorsionando la economía y financiando la violencia."
+**Contexto:** "El narcotráfico ha tenido un profundo impacto en la economía colombiana desde los años 70. Los carteles de Medellín y Cali introdujeron miles de millones de dólares al país, distorsionando la economía y financiando la violencia."
 
 ### Enunciado
 El impacto económico del narcotráfico en Colombia incluyó:
 
-### Options
+### Opciones
 - [ ] A) El fortalecimiento de las instituciones financieras formales. <!-- feedback: Incorrecto. El narcotráfico debilitó las instituciones formales y fomentó el lavado de dinero. -->
 - [x] B) La distorsión de los precios de la tierra (los narcotraficantes compraban tierras a precios inflados), la revaluación artificial del peso y el desplazamiento de economías legales en zonas rurales. <!-- feedback: Correcto. El narcotráfico introdujo divisas que revaluaron el peso (perjudicando exportadores legales), infló los precios de la tierra y sustituyó economías campesinas con cultivos ilícitos. -->
 - [ ] C) La eliminación de la pobreza en las zonas cocaleras. <!-- feedback: Incorrecto. Aunque algunos campesinos se beneficiaron temporalmente, el narcotráfico generó violencia e inestabilidad que profundizaron la pobreza. -->
@@ -334,12 +341,12 @@ El narcotráfico ha sido una de las fuerzas económicas más distorsionadoras en
 **Bloom:** Evaluate
 **ICFES:** Pensamiento reflexivo y sistémico
 
-**Context:** "Colombia ha crecido económicamente en las últimas décadas, pero sigue siendo uno de los países más desiguales del mundo. El coeficiente de Gini ha oscilado entre 0.50 y 0.57 en los últimos 20 años, mostrando una persistente desigualdad en la distribución del ingreso."
+**Contexto:** "Colombia ha crecido económicamente en las últimas décadas, pero sigue siendo uno de los países más desiguales del mundo. El coeficiente de Gini ha oscilado entre 0.50 y 0.57 en los últimos 20 años, mostrando una persistente desigualdad en la distribución del ingreso."
 
 ### Enunciado
 Considerando la historia económica de Colombia, ¿cuál de los siguientes factores ha contribuido MÁS de manera sostenida a la persistente desigualdad?
 
-### Options
+### Opciones
 - [ ] A) La falta de recursos naturales en el territorio colombiano. <!-- feedback: Incorrecto. Colombia tiene abundantes recursos naturales; el problema es su distribución. -->
 - [ ] B) Las políticas económicas del siglo XIX. <!-- feedback: Incorrecto. Si bien la desigualdad tiene raíces coloniales y decimonónicas, el siglo XX y XXI han perpetuado el problema. -->
 - [x] C) La combinación histórica de concentración de la tierra, acceso desigual a la educación de calidad, baja tributación progresiva, y la persistencia de la informalidad laboral, que se han reforzado mutuamente durante siglos. <!-- feedback: Correcto. La desigualdad colombiana es un fenómeno estructural multicausal: latifundio excluyente, educación de baja calidad para los pobres, sistema tributario regresivo y alta informalidad laboral. -->

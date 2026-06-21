@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W12-implicaturas-001-MASTERY"
+id: "CO-LC-7-2026-W12-implicaturas-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "implicaturas"
-semana: "W12"
+week: "W12"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Implicaturas - Grado 7
 ## Semana W12 — Significados implícitos en la comunicación
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W12-implicaturas-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comunicativa — lextora
-**Context:** En la clase de Lectura Crítica del Colegio Heladia Mejía de Bogotá, la profesora explica qué son las implicaturas.
+**Contexto:** En la clase de Lectura Crítica del Colegio Heladia Mejía de Bogotá, la profesora explica qué son las implicaturas.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Las implicaturas son significados que el hablante comunica sin expresarlos direc
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W12-implicaturas-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comunicativa — lextora
-**Context:** Santiago y su mamá tienen este diálogo: Santiago: "¿Puedo ir a la fiesta?" Mamá: "Tienes muchos deberes."
+**Contexto:** Santiago y su mamá tienen este diálogo: Santiago: "¿Puedo ir a la fiesta?" Mamá: "Tienes muchos deberes."
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -60,11 +64,11 @@ La mamá no responde directamente "sí" o "no" a la pregunta. En lugar de eso, d
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W12-implicaturas-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Comunicativa — lextora
-**Context:** En el colegio de Bello, la profesora de Lectura Crítica da el siguiente ejemplo: Dos amigos ven a un compañero con ropa elegante. Uno dice: "¿Tienes cita?" El otro responde: "Hoy es la entrega de notas."
+**Contexto:** En el colegio de Bello, la profesora de Lectura Crítica da el siguiente ejemplo: Dos amigos ven a un compañero con ropa elegante. Uno dice: "¿Tienes cita?" El otro responde: "Hoy es la entrega de notas."
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ El primer hablante pregunta "¿Tienes cita?", sugiriendo que la ropa elegante po
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W12-implicaturas-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicativa — crítica
-**Context:** En el colegio de Madrid (Cundinamarca), los estudiantes analizan un anuncio de una universidad: "Estudia con los mejores. El 90% de nuestros graduados consigue trabajo en el primer año."
+**Contexto:** En el colegio de Madrid (Cundinamarca), los estudiantes analizan un anuncio de una universidad: "Estudia con los mejores. El 90% de nuestros graduados consigue trabajo en el primer año."
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -102,11 +106,11 @@ La publicidad usa implicaturas para hacer afirmaciones sin tener que demostrarla
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W12-implicaturas-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Comunicativa — analítica
-**Context:** En clase de Lengua del Colegio Concejo de Bogotá, el profesor presenta el siguiente diálogo: —"¿Qué tal estuvo la película?" —"Bueno, los efectos especiales fueron impresionantes."
+**Contexto:** En clase de Lengua del Colegio Concejo de Bogotá, el profesor presenta el siguiente diálogo: —"¿Qué tal estuvo la película?" —"Bueno, los efectos especiales fueron impresionantes."
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -123,11 +127,11 @@ Esta respuesta es un ejemplo clásico de "implicatura por violación de la máxi
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W12-implicaturas-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — crítica
-**Context:** En el colegio de Caucasia, los estudiantes analizan una carta de queja: "Llevo tres semanas esperando una respuesta a mi solicitud. Agradecería una pronta solución."
+**Contexto:** En el colegio de Caucasia, los estudiantes analizan una carta de queja: "Llevo tres semanas esperando una respuesta a mi solicitud. Agradecería una pronta solución."
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -144,11 +148,11 @@ Las cartas formales usan implicaturas para expresar quejas o exigencias de maner
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W12-implicaturas-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — analítica
-**Context:** En el colegio de San Vicente de Chucurí, el profesor de sociales muestra: "El candidato prometió crear empleos, mejorar la educación y reducir los impuestos. También dijo que le gusta el fútbol."
+**Contexto:** En el colegio de San Vicente de Chucurí, el profesor de sociales muestra: "El candidato prometió crear empleos, mejorar la educación y reducir los impuestos. También dijo que le gusta el fútbol."
 **Expected_Success:** 0.56
 
 ### Enunciado
@@ -165,11 +169,11 @@ El uso de la conjunción "también" para conectar información de diferente nive
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W12-implicaturas-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — crítica
-**Context:** Natalia lee en un artículo de opinión: "El gobierno dice que la economía va bien. Claro, si uno mira solo las cifras macroeconómicas, todo parece perfecto."
+**Contexto:** Natalia lee en un artículo de opinión: "El gobierno dice que la economía va bien. Claro, si uno mira solo las cifras macroeconómicas, todo parece perfecto."
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -186,11 +190,11 @@ Esta es una implicatura generada por ironía. "Claro" normalmente indica acuerdo
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W12-implicaturas-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Comunicativa — lextora
-**Context:** En el colegio de Turbo, la profesora de Lengua da el siguiente ejemplo: —"¿Sabes qué hora es?" —"El carro de los helados ya pasó."
+**Contexto:** En el colegio de Turbo, la profesora de Lengua da el siguiente ejemplo: —"¿Sabes qué hora es?" —"El carro de los helados ya pasó."
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -207,11 +211,11 @@ Para que esta respuesta sea cooperativa, debe asumirse que la hora del paso del 
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W12-implicaturas-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — analítica
-**Context:** En la clase de Lectura Crítica del Colegio Clermont de Cali, los estudiantes analizan una reseña de un restaurante: "La sopa estaba tibia y el servicio fue lento. Pero la vista era espectacular."
+**Contexto:** En la clase de Lectura Crítica del Colegio Clermont de Cali, los estudiantes analizan una reseña de un restaurante: "La sopa estaba tibia y el servicio fue lento. Pero la vista era espectacular."
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ La conjunción "pero" es un activador de implicaturas de contraste. La estructur
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W12-implicaturas-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — crítica
-**Context:** En el colegio de El Espinal, los estudiantes analizan un meme o publicación satírica: "Claro que la educación en Colombia es de calidad. Todos los estudiantes salen con excelentes resultados en pruebas internacionales... (guiño, guiño)."
+**Contexto:** En el colegio de El Espinal, los estudiantes analizan un meme o publicación satírica: "Claro que la educación en Colombia es de calidad. Todos los estudiantes salen con excelentes resultados en pruebas internacionales... (guiño, guiño)."
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -249,11 +253,11 @@ Las implicaturas irónicas invierten el significado literal. Cuando el texto dic
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W12-implicaturas-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — analítica
-**Context:** En la evaluación final del período del Colegio Cambridge de Bogotá, la profesora pide integrar todos los conceptos: inferencia, sobreentendidos, presuposiciones e implicaturas.
+**Contexto:** En la evaluación final del período del Colegio Cambridge de Bogotá, la profesora pide integrar todos los conceptos: inferencia, sobreentendidos, presuposiciones e implicaturas.
 **Expected_Success:** 0.32
 
 ### Enunciado

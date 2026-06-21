@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-5-2026-P4-economia-colombiana-basica-001-MASTERY"
+id: "CO-SOC-5-2026-P4-economia-colombiana-basica-001-MASTERY-bundle"
 country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Economía colombiana básica, sectores económicos, producción, recursos naturales, trabajo, comercio, moneda, exportaciones, economía familiar"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Economía Colombiana Básica
 
@@ -27,14 +34,15 @@ Este bundle cubre los conceptos fundamentales de la economía colombiana: los se
 ## Question 1 [D3]
 
 **ID:** `CO-SOC-5-2026-P4-economia-colombiana-basica-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. José María Córdoba de Medellín, la profesora pregunta cuál es la moneda oficial de Colombia.
+**Contexto:** En la clase de sociales de la I.E. José María Córdoba de Medellín, la profesora pregunta cuál es la moneda oficial de Colombia.
 
 ### Enunciado
 La moneda oficial de Colombia es:
 
-### Options
+### Opciones
 - [ ] A) El dólar estadounidense. <!-- feedback: Incorrecto. El dólar es la moneda de Estados Unidos, no de Colombia. -->
 - [x] B) El peso colombiano (COP). <!-- feedback: Correcto. El peso colombiano es la moneda oficial del país, emitida por el Banco de la República. Su símbolo es $ y su código internacional es COP. -->
 - [ ] C) El euro. <!-- feedback: Incorrecto. El euro es la moneda de la Unión Europea. -->
@@ -48,14 +56,15 @@ Se evalúa el conocimiento básico de la moneda nacional. La respuesta correcta 
 ## Question 2 [D3]
 
 **ID:** `CO-SOC-5-2026-P4-economia-colombiana-basica-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. La Salle de Bogotá, el profesor pregunta cuáles son los sectores de la economía.
+**Contexto:** En la clase de sociales de la I.E. La Salle de Bogotá, el profesor pregunta cuáles son los sectores de la economía.
 
 ### Enunciado
 Los tres sectores de la economía son:
 
-### Options
+### Opciones
 - [ ] A) Público, privado y mixto. <!-- feedback: Incorrecto. Esos son tipos de empresas, no sectores económicos. -->
 - [x] B) Primario (recursos naturales), secundario (industria) y terciario (servicios). <!-- feedback: Correcto. El sector primario extrae recursos naturales (agricultura, minería, pesca); el secundario transforma materias primas (industria, construcción); el terciario ofrece servicios (comercio, educación, salud). -->
 - [ ] C) Nacional, departamental y municipal. <!-- feedback: Incorrecto. Esos son niveles territoriales. -->
@@ -69,14 +78,15 @@ Se evalúa el conocimiento de la clasificación sectorial de la economía. La re
 ## Question 3 [D4]
 
 **ID:** `CO-SOC-5-2026-P4-economia-colombiana-basica-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales de la I.E. Técnica de Armenia, la profesora explica la importancia del café para Colombia.
+**Contexto:** En la clase de sociales de la I.E. Técnica de Armenia, la profesora explica la importancia del café para Colombia.
 
 ### Enunciado
 Colombia es reconocida mundialmente por la calidad de su café. El café pertenece al sector:
 
-### Options
+### Opciones
 - [ ] A) Secundario, porque ya está tostado y molido. <!-- feedback: Incorrecto. Aunque el procesamiento es secundario, el cultivo es primario. -->
 - [ ] B) Terciario, porque se vende en tiendas. <!-- feedback: Incorrecto. La venta es terciaria, pero el cultivo no. -->
 - [x] C) Primario, porque el café se cultiva y se cosecha de la tierra. <!-- feedback: Correcto. El cultivo del café es una actividad del sector primario. Sin embargo, cuando se procesa (tuesta, muele, empaca) pasa al secundario, y cuando se vende al terciario. -->
@@ -90,14 +100,15 @@ Se evalúa la comprensión de cómo clasificar las actividades económicas. La r
 ## Question 4 [D4]
 
 **ID:** `CO-SOC-5-2026-P4-economia-colombiana-basica-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. San Simón de Cúcuta, la profesora habla sobre las exportaciones colombianas.
+**Contexto:** En la clase de sociales de la I.E. San Simón de Cúcuta, la profesora habla sobre las exportaciones colombianas.
 
 ### Enunciado
 Colombia vende productos a otros países. Esto se llama:
 
-### Options
+### Opciones
 - [ ] A) Importación. <!-- feedback: Incorrecto. Importar es comprar productos de otros países. -->
 - [x] B) Exportación. <!-- feedback: Correcto. Exportar es vender productos colombianos a otros países. Colombia exporta café, petróleo, carbón, flores, banano y frutas. -->
 - [ ] C) Trueque internacional. <!-- feedback: Incorrecto. El trueque es intercambio sin dinero, no es el término actual para comercio internacional. -->
@@ -111,14 +122,15 @@ Se evalúa la comprensión del concepto de exportación. La respuesta correcta l
 ## Question 5 [D4]
 
 **ID:** `CO-SOC-5-2026-P4-economia-colombiana-basica-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Técnica de Honda, los estudiantes analizan las importaciones.
+**Contexto:** En la clase de sociales de la I.E. Técnica de Honda, los estudiantes analizan las importaciones.
 
 ### Enunciado
 Colombia compra productos del exterior, como celulares, computadores y maquinaria. Esto se llama:
 
-### Options
+### Opciones
 - [ ] A) Exportación. <!-- feedback: Incorrecto. Exportar es vender, no comprar. -->
 - [ ] B) Producción nacional. <!-- feedback: Incorrecto. Los productos importados no se producen en el país. -->
 - [x] C) Importación. <!-- feedback: Correcto. Importar es comprar productos fabricados en otros países para usarlos o venderlos en Colombia. -->
@@ -132,14 +144,15 @@ Se evalúa la capacidad de aplicar el concepto de importación. La respuesta cor
 ## Question 6 [D4]
 
 **ID:** `CO-SOC-5-2026-P4-economia-colombiana-basica-001-MASTERY-v6`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales de la I.E. Normal de Valledupar, la profesora pregunta por los recursos naturales como base de la economía.
+**Contexto:** En la clase de sociales de la I.E. Normal de Valledupar, la profesora pregunta por los recursos naturales como base de la economía.
 
 ### Enunciado
 Colombia tiene abundantes recursos naturales. Son ejemplos de ellos:
 
-### Options
+### Opciones
 - [ ] A) Los teléfonos celulares y las tablets. <!-- feedback: Incorrecto. Esos son productos manufacturados, no recursos naturales. -->
 - [ ] B) Las sillas y las mesas de la escuela. <!-- feedback: Incorrecto. Esos son muebles fabricados. -->
 - [x] C) El petróleo, el carbón, el oro, el agua, los suelos fértiles y la madera de los bosques. <!-- feedback: Correcto. Los recursos naturales son aquellos que se obtienen directamente de la naturaleza y son la base de la economía: minería (oro, carbón), hidrocarburos (petróleo), agricultura (suelos) y bosques. -->
@@ -153,14 +166,15 @@ Se evalúa la comprensión de qué son los recursos naturales. La respuesta corr
 ## Question 7 [D4]
 
 **ID:** `CO-SOC-5-2026-P4-economia-colombiana-basica-001-MASTERY-v7`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de formación ciudadana de la I.E. San José de Barranquilla, la profesora pregunta sobre la economía familiar.
+**Contexto:** En la clase de formación ciudadana de la I.E. San José de Barranquilla, la profesora pregunta sobre la economía familiar.
 
 ### Enunciado
 La economía familiar se refiere a:
 
-### Options
+### Opciones
 - [ ] A) Cómo el gobierno gasta el dinero del país. <!-- feedback: Incorrecto. Esa es la economía nacional, no la familiar. -->
 - [ ] B) La forma en que cada familia compra en el supermercado. <!-- feedback: Es parte, pero incompleto. -->
 - [x] C) La forma en que las familias administran sus ingresos (sueldos, salarios) y gastos (alimentación, vivienda, transporte, educación) para satisfacer sus necesidades. <!-- feedback: Correcto. La economía familiar incluye cómo se reciben, administran y gastan los recursos económicos de un hogar. -->
@@ -174,14 +188,15 @@ Se evalúa la comprensión de la economía familiar. La respuesta correcta descr
 ## Question 8 [D5]
 
 **ID:** `CO-SOC-5-2026-P4-economia-colombiana-basica-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En la clase de sociales de la I.E. INEM de Tunja, los estudiantes analizan por qué es importante ahorrar.
+**Contexto:** En la clase de sociales de la I.E. INEM de Tunja, los estudiantes analizan por qué es importante ahorrar.
 
 ### Enunciado
 Ahorrar una parte del dinero que recibimos es importante porque:
 
-### Options
+### Opciones
 - [ ] A) Es imposible ahorrar, todo el dinero debe gastarse. <!-- feedback: Incorrecto. Se puede ahorrar aunque sea poco. -->
 - [ ] B) Solo las personas ricas pueden ahorrar. <!-- feedback: Incorrecto. Cualquier persona puede ahorrar. -->
 - [x] C) Nos permite tener recursos para emergencias, cumplir metas a largo plazo (estudios, vivienda) y tener seguridad financiera en el futuro. <!-- feedback: Correcto. El ahorro es una práctica financiera importante que permite enfrentar imprevistos y alcanzar metas. -->
@@ -195,14 +210,15 @@ Se evalúa la capacidad de analizar la importancia del ahorro. La respuesta corr
 ## Question 9 [D5]
 
 **ID:** `CO-SOC-5-2026-P4-economia-colombiana-basica-001-MASTERY-v9`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Carlos Arturo Torres de Tunja, la profesora pregunta cuál es la relación entre trabajo y economía.
+**Contexto:** En la clase de sociales de la I.E. Carlos Arturo Torres de Tunja, la profesora pregunta cuál es la relación entre trabajo y economía.
 
 ### Enunciado
 El trabajo de las personas es fundamental para la economía del país porque:
 
-### Options
+### Opciones
 - [ ] A) Solo las personas que trabajan en el gobierno hacen que la economía funcione. <!-- feedback: Incorrecto. Todos los trabajadores contribuyen. -->
 - [ ] B) El trabajo no tiene relación con la economía, la economía solo depende del gobierno. <!-- feedback: Incorrecto. El trabajo es la base de la economía. -->
 - [x] C) El trabajo produce bienes y servicios, genera ingresos para las familias y produce impuestos que el gobierno usa para construir colegios, hospitales y carreteras. <!-- feedback: Correcto. El trabajo es la actividad que genera riqueza: las personas producen, reciben un salario, consumen y pagan impuestos, creando un ciclo económico. -->
@@ -216,14 +232,15 @@ Se evalúa la capacidad de analizar el papel del trabajo en la economía. La res
 ## Question 10 [D5]
 
 **ID:** `CO-SOC-5-2026-P4-economia-colombiana-basica-001-MASTERY-v10`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de formación ciudadana de la I.E. Gabriela Mistral de Bogotá, la profesora pregunta por qué Colombia necesita comerciar con otros países.
+**Contexto:** En la clase de formación ciudadana de la I.E. Gabriela Mistral de Bogotá, la profesora pregunta por qué Colombia necesita comerciar con otros países.
 
 ### Enunciado
 Colombia comercia con otros países porque:
 
-### Options
+### Opciones
 - [ ] A) Podemos producir absolutamente todo lo que necesitamos. <!-- feedback: Incorrecto. Ningún país produce todo lo que necesita. -->
 - [ ] B) El comercio internacional no es importante para Colombia. <!-- feedback: Incorrecto. Es fundamental. -->
 - [x] C) Ningún país produce todo lo que necesita; Colombia exporta café, petróleo y flores, e importa productos que no fabrica como computadores, maquinaria y algunos alimentos. El comercio permite obtener lo que falta y vender lo que sobra. <!-- feedback: Correcto. El comercio internacional se basa en la especialización y la ventaja comparativa: cada país produce lo que mejor sabe hacer y comercia con otros para obtener el resto. -->

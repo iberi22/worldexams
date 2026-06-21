@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W23-satira-001-MASTERY"
+id: "CO-LC-7-2026-W23-satira-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "sátira"
-semana: "W23"
+week: "W23"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Sátira - Grado 7
 ## Semana W23 — Reconocimiento y análisis de la sátira como recurso crítico
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W23-satira-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de Lectura Crítica del Colegio San José de Medellín, la profesora explica la diferencia entre sátira y parodia.
+**Contexto:** En la clase de Lectura Crítica del Colegio San José de Medellín, la profesora explica la diferencia entre sátira y parodia.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La sátira es un género discursivo que emplea el humor, la ironía, la exagerac
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W23-satira-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un columnista escribe: "Excelente noticia: el gobierno ha descubierto la fórmula perfecta para acabar con la pobreza. Simplemente dejen de contar a los pobres. ¡Problema resuelto!"
+**Contexto:** Un columnista escribe: "Excelente noticia: el gobierno ha descubierto la fórmula perfecta para acabar con la pobreza. Simplemente dejen de contar a los pobres. ¡Problema resuelto!"
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -60,11 +64,11 @@ La sátira opera mediante el absurdo: propone una "solución" tan ridícula que 
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W23-satira-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un programa radial de Bucaramanga, el comediante dice: "Amo cómo en Colombia resolvemos los problemas de movilidad: construyendo más y más carriles para que haya más y más trancones. Brillante. La lógica es impecable."
+**Contexto:** En un programa radial de Bucaramanga, el comediante dice: "Amo cómo en Colombia resolvemos los problemas de movilidad: construyendo más y más carriles para que haya más y más trancones. Brillante. La lógica es impecable."
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -81,11 +85,11 @@ Este texto emplea la alabanza fingida o "alabanza de carga": el autor dice aprob
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W23-satira-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Una revista satírica publica un artículo titulado: "Guía definitiva para triunfar en la vida: herede una fortuna. Si no puede, quejarse funciona igual."
+**Contexto:** Una revista satírica publica un artículo titulado: "Guía definitiva para triunfar en la vida: herede una fortuna. Si no puede, quejarse funciona igual."
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -102,11 +106,11 @@ Esta sátira critica la idea de meritocracia que promueven las guías de autoayu
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W23-satira-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un dibujante satírico publica una viñeta: un político aparece dando un discurso frente a un bosque talado, con un cartel que dice "Comprometidos con el medio ambiente".
+**Contexto:** Un dibujante satírico publica una viñeta: un político aparece dando un discurso frente a un bosque talado, con un cartel que dice "Comprometidos con el medio ambiente".
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -123,11 +127,11 @@ La sátira visual funciona mediante el contraste: el texto ("Comprometidos con e
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W23-satira-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En Cartagena, un periódico estudiantil publica: "Increíble: congresista propone ley para que todos los colombianos tengan acceso a internet de alta velocidad... siempre y cuando vivan en Bogotá. El resto del país puede seguir usando palomas mensajeras."
+**Contexto:** En Cartagena, un periódico estudiantil publica: "Increíble: congresista propone ley para que todos los colombianos tengan acceso a internet de alta velocidad... siempre y cuando vivan en Bogotá. El resto del país puede seguir usando palomas mensajeras."
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -144,11 +148,11 @@ La hipérbole o exageración es el recurso central de esta sátira. La propuesta
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W23-satira-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Una red social difunde una imagen satírica: una tienda de ropa tiene un letrero que dice "LIQUIDACIÓN TOTAL — TODO 90% DE DESCUENTO — PRECIOS ORIGINALES: $1.000.000 → AHORA: $100.000". Debajo, en letra pequeña: "*Precios originales inflados artificialmente para esta liquidación."
+**Contexto:** Una red social difunde una imagen satírica: una tienda de ropa tiene un letrero que dice "LIQUIDACIÓN TOTAL — TODO 90% DE DESCUENTO — PRECIOS ORIGINALES: $1.000.000 → AHORA: $100.000". Debajo, en letra pequeña: "*Precios originales inflados artificialmente para esta liquidación."
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -165,11 +169,11 @@ La sátira funciona exponiendo lo que la publicidad real oculta. La imagen muest
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W23-satira-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un escritor satírico publica "Elogio de la pereza", un texto donde argumenta con aparente seriedad académica que no hacer nada es el mayor logro de la civilización. Usa citas falsas de filósofos inventados y estadísticas absurdas.
+**Contexto:** Un escritor satírico publica "Elogio de la pereza", un texto donde argumenta con aparente seriedad académica que no hacer nada es el mayor logro de la civilización. Usa citas falsas de filósofos inventados y estadísticas absurdas.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -186,11 +190,11 @@ Esta sátira emplea un recurso clásico: la adopción de la forma del discurso q
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W23-satira-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Dos textos satíricos tratan el mismo tema: la corrupción política. El primero usa un humor ligero y caricaturesco. El segundo es amargo y usa el sarcasmo hiriente.
+**Contexto:** Dos textos satíricos tratan el mismo tema: la corrupción política. El primero usa un humor ligero y caricaturesco. El segundo es amargo y usa el sarcasmo hiriente.
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -207,11 +211,11 @@ La efectividad de la sátira no se mide solo por cuánto hace reír, sino por qu
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W23-satira-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Una cuenta de Instagram en Pereira publica sátiras sobre la cultura del "emprendimiento". Un post dice: "¿Cansado de trabajar 8 horas al día? ¡Trabaja 16! Eso es ser emprendedor. El descanso es para los débiles. #HustleCulture".
+**Contexto:** Una cuenta de Instagram en Pereira publica sátiras sobre la cultura del "emprendimiento". Un post dice: "¿Cansado de trabajar 8 horas al día? ¡Trabaja 16! Eso es ser emprendedor. El descanso es para los débiles. #HustleCulture".
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ Esta sátira critica la "hustle culture" o cultura de la hiperproductividad, un 
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W23-satira-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Un canal de YouTube satírico sube el video "Cómo ser un influencer en 3 pasos: 1. Cómprate un celular con buena cámara. 2. Viaja a un lugar bonito. 3. Dile a todos que eres 'inspiración'. Felicidades, ya eres influencer."
+**Contexto:** Un canal de YouTube satírico sube el video "Cómo ser un influencer en 3 pasos: 1. Cómprate un celular con buena cámara. 2. Viaja a un lugar bonito. 3. Dile a todos que eres 'inspiración'. Felicidades, ya eres influencer."
 **Expected_Success:** 0.40
 
 ### Enunciado
@@ -249,11 +253,11 @@ La ética de la sátira es compleja. Esta sátira critica un fenómeno real: la 
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W23-satira-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** Como proyecto de lectura crítica, los estudiantes de grado 7 del Colegio de Tunja deben crear una sátira sobre un problema de su comunidad (transporte, basuras, ruido, etc.) para publicar en la cartelera escolar.
+**Contexto:** Como proyecto de lectura crítica, los estudiantes de grado 7 del Colegio de Tunja deben crear una sátira sobre un problema de su comunidad (transporte, basuras, ruido, etc.) para publicar en la cartelera escolar.
 **Expected_Success:** 0.36
 
 ### Enunciado

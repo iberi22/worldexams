@@ -18,6 +18,7 @@ creador: "Jules-Agent"
 cefr_level: "C1+"
 ---
 
+
 # Bundle MASTERY: Repaso P3 - Grado 11
 
 Este bundle contiene 20 preguntas sobre **repaso p3** para grado 11,
@@ -36,14 +37,13 @@ alineadas con el CNB Honduras (Curriculo Nacional Basico) para Bachillerato 2026
 Silvia said: "I visited the ruins last year." Which is the correct reported speech form?
 
 ### Opciones
-- [ ] A) Silvia said she visits the ruins last year.
-  <!-- feedback: Incorrect. The verb 'visited' (past simple) must change to 'had visited' (past perfect) in reported speech. -->
-- [x] B) Silvia said she had visited the ruins the previous year.
-  <!-- feedback: Correct! In reported speech, Past Simple changes to Past Perfect and 'last year' becomes 'the previous year'. -->
-- [ ] C) Silvia said she has visited the ruins last year.
-  <!-- feedback: Incorrect. 'Has visited' is present perfect; reported speech from past simple requires past perfect. -->
-- [ ] D) Silvia said she would visit the ruins the previous year.
-  <!-- feedback: Incorrect. 'Would' is used for future intentions in the past (will -> would), not for past actions. -->
+- [ ] A) Silvia said she visits the ruins last year. <!-- feedback: Incorrecto. Silvia said she visits the ruins last ye -->
+
+- [x] B) Silvia said she had visited the ruins the previous year. <!-- feedback: Correcto! Silvia said she had visited the ruins the previous year. -->
+
+- [ ] C) Silvia said she has visited the ruins last year. <!-- feedback: Incorrecto. Silvia said she has visited the ruins la -->
+
+- [ ] D) Silvia said she would visit the ruins the previous year. <!-- feedback: Incorrecto. Silvia said she would visit the ruins th -->
 
 ### Explicacion Pedagogica
 En el estilo indirecto (reported speech), cuando el verbo introductorio está en pasado, el Past Simple de la oración original debe cambiar a Past Perfect. Además, las expresiones de tiempo como 'last year' cambian a 'the previous year' o 'the year before'.
@@ -61,14 +61,13 @@ En el estilo indirecto (reported speech), cuando el verbo introductorio está en
 Complete the sentence: "You ______ touch the coral reef while snorkeling; it is strictly prohibited."
 
 ### Opciones
-- [ ] A) don't have to
-  <!-- feedback: Incorrect. 'Don't have to' implies lack of necessity, not prohibition. -->
-- [ ] B) shouldn't
-  <!-- feedback: Incorrect. 'Shouldn't' is for advice, but this is a strict prohibition. -->
-- [x] C) must not
-  <!-- feedback: Correct! 'Must not' (or mustn't) is used to express strong prohibition, which fits the context of local laws. -->
-- [ ] D) might not
-  <!-- feedback: Incorrect. 'Might not' expresses a negative possibility, not a prohibition. -->
+- [ ] A) don't have to <!-- feedback: Incorrecto. don't have to -->
+
+- [ ] B) shouldn't <!-- feedback: Incorrecto. shouldn't -->
+
+- [x] C) must not <!-- feedback: Correcto! must not -->
+
+- [ ] D) might not <!-- feedback: Incorrecto. might not -->
 
 ### Explicacion Pedagogica
 El modal 'must not' se utiliza para expresar prohibiciones legales o reglas estrictas. En este contexto, tocar el arrecife de coral no es solo una mala idea, sino que está prohibido para proteger el ecosistema.
@@ -86,14 +85,13 @@ El modal 'must not' se utiliza para expresar prohibiciones legales o reglas estr
 If it ______ more often in the south, the coffee harvest ______ better this year.
 
 ### Opciones
-- [ ] A) rains / will be
-  <!-- feedback: Incorrect. This is a first conditional, but the context suggests a hypothetical situation about the current year. -->
-- [x] B) rained / would be
-  <!-- feedback: Correct! This is a second conditional (Past Simple + would) used for hypothetical or unlikely situations in the present. -->
-- [ ] C) had rained / will be
-  <!-- feedback: Incorrect. Mixed conditional forms require a specific logical link between past and present results. -->
-- [ ] D) rains / would have been
-  <!-- feedback: Incorrect. 'Rains' is present simple, which doesn't match the third conditional result 'would have been'. -->
+- [ ] A) rains / will be <!-- feedback: Incorrecto. rains / will be -->
+
+- [x] B) rained / would be <!-- feedback: Correcto! rained / would be -->
+
+- [ ] C) had rained / will be <!-- feedback: Incorrecto. had rained / will be -->
+
+- [ ] D) rains / would have been <!-- feedback: Incorrecto. rains / would have been -->
 
 ### Explicacion Pedagogica
 El segundo condicional se utiliza para hablar de situaciones hipotéticas o poco probables en el presente o futuro. Se forma con 'if' + Past Simple y 'would' + infinitivo.
@@ -111,14 +109,13 @@ El segundo condicional se utiliza para hablar de situaciones hipotéticas o poco
 The new terminal at Ramon Villeda Morales Airport ______ by the end of next month.
 
 ### Opciones
-- [ ] A) will finish
-  <!-- feedback: Incorrect. The terminal cannot finish itself; it needs a passive construction. -->
-- [ ] B) is being finished
-  <!-- feedback: Incorrect. This implies it is happening right now, but the context points to a future completion. -->
-- [x] C) will be finished
-  <!-- feedback: Correct! This is the future passive (will be + past participle), indicating an action done to the subject in the future. -->
-- [ ] D) will have finished
-  <!-- feedback: Incorrect. This is future perfect active; the terminal is the object of the action 'finish'. -->
+- [ ] A) will finish <!-- feedback: Incorrecto. will finish -->
+
+- [ ] B) is being finished <!-- feedback: Incorrecto. is being finished -->
+
+- [x] C) will be finished <!-- feedback: Correcto! will be finished -->
+
+- [ ] D) will have finished <!-- feedback: Incorrecto. will have finished -->
 
 ### Explicacion Pedagogica
 La voz pasiva se utiliza cuando el sujeto de la oración recibe la acción. En este caso, la terminal es construida o finalizada por trabajadores, por lo que se requiere 'will be' + el participio del verbo.
@@ -136,14 +133,13 @@ La voz pasiva se utiliza cuando el sujeto de la oración recibe la acción. En e
 Choose the correct phrasal verb: "We need to ______ early in the morning to avoid the heavy traffic near Comayagüela."
 
 ### Opciones
-- [ ] A) get up
-  <!-- feedback: Incorrect. 'Get up' means to leave bed, but the sentence refers to starting a journey. -->
-- [x] B) set off
-  <!-- feedback: Correct! 'Set off' means to start a journey or trip. -->
-- [ ] C) take off
-  <!-- feedback: Incorrect. 'Take off' is used for planes or removing clothes. -->
-- [ ] D) go through
-  <!-- feedback: Incorrect. 'Go through' means to experience or examine something. -->
+- [ ] A) get up <!-- feedback: Incorrecto. get up -->
+
+- [x] B) set off <!-- feedback: Correcto! set off -->
+
+- [ ] C) take off <!-- feedback: Incorrecto. take off -->
+
+- [ ] D) go through <!-- feedback: Incorrecto. go through -->
 
 ### Explicacion Pedagogica
 Los 'phrasal verbs' son combinaciones de verbos y preposiciones que adquieren significados específicos. 'Set off' es el término estándar para iniciar un viaje.
@@ -161,14 +157,13 @@ Los 'phrasal verbs' son combinaciones de verbos y preposiciones que adquieren si
 "I have been studying English ______ five years, and it has opened many doors for me."
 
 ### Opciones
-- [ ] A) since
-  <!-- feedback: Incorrect. 'Since' is used for a specific point in time (e.g., since 2018). -->
-- [x] B) for
-  <!-- feedback: Correct! 'For' is used to express a period or duration of time. -->
-- [ ] C) during
-  <!-- feedback: Incorrect. 'During' is followed by a noun representing an event, not a duration of time. -->
-- [ ] D) while
-  <!-- feedback: Incorrect. 'While' is used to connect two simultaneous actions. -->
+- [ ] A) since <!-- feedback: Incorrecto. since -->
+
+- [x] B) for <!-- feedback: Correcto! for -->
+
+- [ ] C) during <!-- feedback: Incorrecto. during -->
+
+- [ ] D) while <!-- feedback: Incorrecto. while -->
 
 ### Explicacion Pedagogica
 En el Present Perfect Continuous, utilizamos 'for' para indicar la duración de una actividad y 'since' para indicar el momento exacto en que comenzó.
@@ -186,14 +181,13 @@ En el Present Perfect Continuous, utilizamos 'for' para indicar la duración de 
 The mural, ______ was painted by Sofia, represents the history of the Ulúa river.
 
 ### Opciones
-- [ ] A) who
-  <!-- feedback: Incorrect. 'Who' is used for people, not for objects like murals. -->
-- [x] B) which
-  <!-- feedback: Correct! 'Which' is the relative pronoun used for objects or things in non-defining relative clauses. -->
-- [ ] C) whose
-  <!-- feedback: Incorrect. 'Whose' expresses possession. -->
-- [ ] D) whom
-  <!-- feedback: Incorrect. 'Whom' is an object pronoun for people. -->
+- [ ] A) who <!-- feedback: Incorrecto. who -->
+
+- [x] B) which <!-- feedback: Correcto! which -->
+
+- [ ] C) whose <!-- feedback: Incorrecto. whose -->
+
+- [ ] D) whom <!-- feedback: Incorrecto. whom -->
 
 ### Explicacion Pedagogica
 Los pronombres relativos se utilizan para unir oraciones y proporcionar más información sobre un sustantivo. 'Which' se refiere específicamente a animales o cosas.
@@ -211,14 +205,13 @@ Los pronombres relativos se utilizan para unir oraciones y proporcionar más inf
 "Baleadas ______ in every corner of Honduras because they are delicious and affordable."
 
 ### Opciones
-- [ ] A) are selling
-  <!-- feedback: Incorrect. This is active voice, but baleadas are sold by people. -->
-- [x] B) are sold
-  <!-- feedback: Correct! This is the present simple passive, indicating a general fact or routine. -->
-- [ ] C) have sold
-  <!-- feedback: Incorrect. This is present perfect active. -->
-- [ ] D) were sold
-  <!-- feedback: Incorrect. This is past simple passive, but the sentence refers to a current general fact. -->
+- [ ] A) are selling <!-- feedback: Incorrecto. are selling -->
+
+- [x] B) are sold <!-- feedback: Correcto! are sold -->
+
+- [ ] C) have sold <!-- feedback: Incorrecto. have sold -->
+
+- [ ] D) were sold <!-- feedback: Incorrecto. were sold -->
 
 ### Explicacion Pedagogica
 Usamos la voz pasiva en presente simple (am/is/are + participio) para hablar de hechos generales, procesos o situaciones donde el agente no es lo más importante.
@@ -236,14 +229,13 @@ Usamos la voz pasiva en presente simple (am/is/are + participio) para hablar de 
 Unless we ______ our forests now, future generations ______ many environmental problems.
 
 ### Opciones
-- [ ] A) protect / will not have
-  <!-- feedback: Incorrect. 'Unless' means 'if not', so the meaning becomes illogical here. -->
-- [x] B) protect / will face
-  <!-- feedback: Correct! 'Unless we protect' (If we don't protect) they 'will face' (future result). -->
-- [ ] C) will protect / face
-  <!-- feedback: Incorrect. We don't use 'will' in the 'if' or 'unless' clause. -->
-- [ ] D) protected / would face
-  <!-- feedback: Incorrect. This is second conditional, but the warning is about a real future possibility. -->
+- [ ] A) protect / will not have <!-- feedback: Incorrecto. protect / will not have -->
+
+- [x] B) protect / will face <!-- feedback: Correcto! protect / will face -->
+
+- [ ] C) will protect / face <!-- feedback: Incorrecto. will protect / face -->
+
+- [ ] D) protected / would face <!-- feedback: Incorrecto. protected / would face -->
 
 ### Explicacion Pedagogica
 'Unless' funciona como un condicional negativo (if not). En el primer condicional, la cláusula con 'unless' va en presente simple y la principal en futuro.
@@ -261,14 +253,13 @@ Unless we ______ our forests now, future generations ______ many environmental p
 The Garifuna people ______ in Honduras since the late 18th century.
 
 ### Opciones
-- [ ] A) live
-  <!-- feedback: Incorrect. 'Live' is present simple; for actions starting in the past and continuing, we use present perfect. -->
-- [ ] B) are living
-  <!-- feedback: Incorrect. 'Are living' is present continuous, for temporary actions. -->
-- [x] C) have lived
-  <!-- feedback: Correct! Present perfect (have/has + participle) connects the past arrival with the present presence. -->
-- [ ] D) had lived
-  <!-- feedback: Incorrect. 'Had lived' is past perfect, used for actions completed before another past action. -->
+- [ ] A) live <!-- feedback: Incorrecto. live -->
+
+- [ ] B) are living <!-- feedback: Incorrecto. are living -->
+
+- [x] C) have lived <!-- feedback: Correcto! have lived -->
+
+- [ ] D) had lived <!-- feedback: Incorrecto. had lived -->
 
 ### Explicacion Pedagogica
 El Present Perfect se utiliza para acciones que comenzaron en el pasado y continúan en el presente, especialmente cuando se usa con la preposición 'since'.
@@ -286,14 +277,13 @@ El Present Perfect se utiliza para acciones que comenzaron en el pasado y contin
 "If I ______ solar panels five years ago, my electricity bills ______ much lower now."
 
 ### Opciones
-- [ ] A) installed / would be
-  <!-- feedback: Incorrect. This is second conditional, but the 'if' part is about the past. -->
-- [ ] B) had installed / would have been
-  <!-- feedback: Incorrect. This is third conditional, but the result 'now' refers to the present. -->
-- [x] C) had installed / would be
-  <!-- feedback: Correct! This is a mixed conditional: Past Perfect in the 'if' clause (past action) and 'would' + verb in the result (present effect). -->
-- [ ] D) install / will be
-  <!-- feedback: Incorrect. This is first conditional. -->
+- [ ] A) installed / would be <!-- feedback: Incorrecto. installed / would be -->
+
+- [ ] B) had installed / would have been <!-- feedback: Incorrecto. had installed / would have been -->
+
+- [x] C) had installed / would be <!-- feedback: Correcto! had installed / would be -->
+
+- [ ] D) install / will be <!-- feedback: Incorrecto. install / will be -->
 
 ### Explicacion Pedagogica
 Los condicionales mixtos se usan para hablar de cómo una acción pasada (Past Perfect) tiene una consecuencia en el presente (would + infinitivo).
@@ -311,14 +301,13 @@ Los condicionales mixtos se usan para hablar de cómo una acción pasada (Past P
 Fiber optic internet is significantly ______ than traditional DSL connections in most cities.
 
 ### Opciones
-- [ ] A) more fast
-  <!-- feedback: Incorrect. 'Fast' is a short adjective; its comparative is 'faster'. -->
-- [x] B) faster
-  <!-- feedback: Correct! Standard comparative for short adjectives. -->
-- [ ] C) the fastest
-  <!-- feedback: Incorrect. This is the superlative form, used for comparing more than two things. -->
-- [ ] D) fastly
-  <!-- feedback: Incorrect. 'Fastly' is not a word; the adverb is also 'fast'. -->
+- [ ] A) more fast <!-- feedback: Incorrecto. more fast -->
+
+- [x] B) faster <!-- feedback: Correcto! faster -->
+
+- [ ] C) the fastest <!-- feedback: Incorrecto. the fastest -->
+
+- [ ] D) fastly <!-- feedback: Incorrecto. fastly -->
 
 ### Explicacion Pedagogica
 Para adjetivos cortos (una sílaba), el comparativo se forma añadiendo el sufijo '-er'. No se utiliza 'more' antes del adjetivo.
@@ -336,14 +325,13 @@ Para adjetivos cortos (una sílaba), el comparativo se forma añadiendo el sufij
 "By the time the ship arrives, the paperwork ______ by the customs officers."
 
 ### Opciones
-- [ ] A) will process
-  <!-- feedback: Incorrect. The paperwork is processed by someone else. -->
-- [ ] B) is processed
-  <!-- feedback: Incorrect. 'By the time' in the future requires a perfect form. -->
-- [x] C) will have been processed
-  <!-- feedback: Correct! Future Perfect Passive (will have been + participle) indicates an action finished before a future point. -->
-- [ ] D) has been processed
-  <!-- feedback: Incorrect. This is present perfect. -->
+- [ ] A) will process <!-- feedback: Incorrecto. will process -->
+
+- [ ] B) is processed <!-- feedback: Incorrecto. is processed -->
+
+- [x] C) will have been processed <!-- feedback: Correcto! will have been processed -->
+
+- [ ] D) has been processed <!-- feedback: Incorrecto. has been processed -->
 
 ### Explicacion Pedagogica
 El Futuro Perfecto Pasivo se utiliza para indicar que una acción se habrá completado antes de un momento determinado en el futuro, enfatizando el resultado sobre el objeto.
@@ -361,14 +349,13 @@ El Futuro Perfecto Pasivo se utiliza para indicar que una acción se habrá comp
 Choose the correct word: "Students should be encouraged to think for ______ rather than just memorizing facts."
 
 ### Opciones
-- [ ] A) them
-  <!-- feedback: Incorrect. 'Them' is an object pronoun. -->
-- [x] B) themselves
-  <!-- feedback: Correct! 'Themselves' is the reflexive pronoun for 'they' (students). -->
-- [ ] C) theirs
-  <!-- feedback: Incorrect. 'Theirs' is a possessive pronoun. -->
-- [ ] D) their
-  <!-- feedback: Incorrect. 'Their' is a possessive adjective. -->
+- [ ] A) them <!-- feedback: Incorrecto. them -->
+
+- [x] B) themselves <!-- feedback: Correcto! themselves -->
+
+- [ ] C) theirs <!-- feedback: Incorrecto. theirs -->
+
+- [ ] D) their <!-- feedback: Incorrecto. their -->
 
 ### Explicacion Pedagogica
 Los pronombres reflexivos se utilizan cuando el sujeto y el objeto de la oración son la misma persona o cosa. En este caso, los estudiantes (ellos) deben pensar por ellos mismos (themselves).
@@ -386,14 +373,13 @@ Los pronombres reflexivos se utilizan cuando el sujeto y el objeto de la oració
 Tegucigalpa is ______ as hot ______ La Ceiba during the summer months.
 
 ### Opciones
-- [ ] A) no / than
-  <!-- feedback: Incorrect comparison structure. -->
-- [x] B) not / so
-  <!-- feedback: Correct! 'Not so/as ... as' is used for negative comparisons of equality. -->
-- [ ] C) more / as
-  <!-- feedback: Incorrect. 'More' goes with 'than'. -->
-- [ ] D) less / as
-  <!-- feedback: Incorrect. 'Less' goes with 'than'. -->
+- [ ] A) no / than <!-- feedback: Incorrecto. no / than -->
+
+- [x] B) not / so <!-- feedback: Correcto! not / so -->
+
+- [ ] C) more / as <!-- feedback: Incorrecto. more / as -->
+
+- [ ] D) less / as <!-- feedback: Incorrecto. less / as -->
 
 ### Explicacion Pedagogica
 Para comparar dos cosas que no son iguales en grado, podemos usar la estructura 'not so + adjetivo + as' o 'not as + adjetivo + as'.
@@ -411,14 +397,13 @@ Para comparar dos cosas que no son iguales en grado, podemos usar la estructura 
 The lost city, ______ exact location remained a secret for centuries, was finally mapped using LiDAR technology.
 
 ### Opciones
-- [ ] A) which
-  <!-- feedback: Incorrect. 'Which' refers to the city, but here we need to show the city's location. -->
-- [x] B) whose
-  <!-- feedback: Correct! 'Whose' is the relative pronoun used to show possession or relationship (the location of the city). -->
-- [ ] C) that
-  <!-- feedback: Incorrect. 'That' cannot show possession. -->
-- [ ] D) where
-  <!-- feedback: Incorrect. 'Where' refers to a place, but here 'location' is the noun being modified. -->
+- [ ] A) which <!-- feedback: Incorrecto. which -->
+
+- [x] B) whose <!-- feedback: Correcto! whose -->
+
+- [ ] C) that <!-- feedback: Incorrecto. that -->
+
+- [ ] D) where <!-- feedback: Incorrecto. where -->
 
 ### Explicacion Pedagogica
 'Whose' es un pronombre relativo posesivo que se utiliza para indicar que algo pertenece a la persona o cosa mencionada anteriormente.
@@ -436,14 +421,13 @@ The lost city, ______ exact location remained a secret for centuries, was finall
 "Hardly ______ the new tax law been passed when prices started to rise significantly."
 
 ### Opciones
-- [x] A) had
-  <!-- feedback: Correct! This is a formal inversion structure: 'Hardly had + subject + past participle'. -->
-- [ ] B) has
-  <!-- feedback: Incorrect. This structure requires the past perfect. -->
-- [ ] C) did
-  <!-- feedback: Incorrect. 'Did' would be followed by an infinitive, not a past participle. -->
-- [ ] D) was
-  <!-- feedback: Incorrect. 'Was' does not fit the past perfect passive structure here. -->
+- [x] A) had <!-- feedback: Correcto! had -->
+
+- [ ] B) has <!-- feedback: Incorrecto. has -->
+
+- [ ] C) did <!-- feedback: Incorrecto. did -->
+
+- [ ] D) was <!-- feedback: Incorrecto. was -->
 
 ### Explicacion Pedagogica
 La inversión se usa en inglés formal para dar énfasis. Con adverbios negativos como 'Hardly', 'Scarcely' o 'Never', el verbo auxiliar (had) precede al sujeto.
@@ -461,14 +445,13 @@ La inversión se usa en inglés formal para dar énfasis. Con adverbios negativo
 It is essential that every member of the team ______ present at the budget meeting tomorrow.
 
 ### Opciones
-- [ ] A) is
-  <!-- feedback: Incorrect. Standard present indicative is common, but 'essential' triggers the subjunctive in formal English. -->
-- [x] B) be
-  <!-- feedback: Correct! The subjunctive mood (bare infinitive) is used after verbs or adjectives of necessity like 'essential', 'important', or 'suggest'. -->
-- [ ] C) will be
-  <!-- feedback: Incorrect. Subjunctive does not use 'will'. -->
-- [ ] D) was
-  <!-- feedback: Incorrect. Past tense is not used for present necessity. -->
+- [ ] A) is <!-- feedback: Incorrecto. is -->
+
+- [x] B) be <!-- feedback: Correcto! be -->
+
+- [ ] C) will be <!-- feedback: Incorrecto. will be -->
+
+- [ ] D) was <!-- feedback: Incorrecto. was -->
 
 ### Explicacion Pedagogica
 El modo subjuntivo en inglés se utiliza después de ciertas expresiones de urgencia o importancia. Se caracteriza por usar la forma base del verbo (be, go, work) para todas las personas.
@@ -486,14 +469,13 @@ El modo subjuntivo en inglés se utiliza después de ciertas expresiones de urge
 "Had the government ______ more in wind energy ten years ago, we ______ so dependent on fossil fuels today."
 
 ### Opciones
-- [ ] A) invest / wouldn't be
-  <!-- feedback: Incorrect. Mixed conditional requires Past Perfect (had invested). -->
-- [x] B) invested / wouldn't be
-  <!-- feedback: Correct! Third conditional 'if' part (omitting 'if' with inversion) + second conditional result. -->
-- [ ] C) invested / wouldn't have been
-  <!-- feedback: Incorrect. This would refer to a past result, but 'today' indicates a present result. -->
-- [ ] D) invest / wouldn't have been
-  <!-- feedback: Incorrect verb form. -->
+- [ ] A) invest / wouldn't be <!-- feedback: Incorrecto. invest / wouldn't be -->
+
+- [x] B) invested / wouldn't be <!-- feedback: Correcto! invested / wouldn't be -->
+
+- [ ] C) invested / wouldn't have been <!-- feedback: Incorrecto. invested / wouldn't have been -->
+
+- [ ] D) invest / wouldn't have been <!-- feedback: Incorrecto. invest / wouldn't have been -->
 
 ### Explicacion Pedagogica
 Esta es una estructura de inversión de tercer condicional (omitimos 'if' y ponemos 'had' al principio) combinada con un resultado en presente (mixed conditional).
@@ -511,14 +493,13 @@ Esta es una estructura de inversión de tercer condicional (omitimos 'if' y pone
 "I'd rather the local authorities ______ consulted the community leaders before implementing the project."
 
 ### Opciones
-- [ ] A) have
-  <!-- feedback: Incorrect. 'I'd rather' about the past requires the past perfect. -->
-- [x] B) had
-  <!-- feedback: Correct! 'I'd rather' + subject + past perfect is used to express a preference about a past action that didn't happen. -->
-- [ ] C) did
-  <!-- feedback: Incorrect. 'Did' is used for preferences about the present/future. -->
-- [ ] D) would have
-  <!-- feedback: Incorrect structure for 'I'd rather'. -->
+- [ ] A) have <!-- feedback: Incorrecto. have -->
+
+- [x] B) had <!-- feedback: Correcto! had -->
+
+- [ ] C) did <!-- feedback: Incorrecto. did -->
+
+- [ ] D) would have <!-- feedback: Incorrecto. would have -->
 
 ### Explicacion Pedagogica
 La estructura 'would rather' seguida de un sujeto diferente y el Past Perfect se utiliza para expresar arrepentimiento o una preferencia sobre algo que ocurrió en el pasado de manera distinta.

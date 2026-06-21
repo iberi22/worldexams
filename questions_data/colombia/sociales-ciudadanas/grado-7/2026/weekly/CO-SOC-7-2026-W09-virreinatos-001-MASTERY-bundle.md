@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W09-virreinatos-001-MASTERY"
+id: "CO-SOC-7-2026-W09-virreinatos-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-ciudadanas"
 tema: "virreinatos"
-semana: "W09"
+week: "W09"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026 — Pensamiento Social"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Virreinatos — Grado 7
 ## Semana W09 — Los virreinatos en la América española: el Virreinato de la Nueva Granada
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W09-virreinatos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En la clase de sociales del Colegio Claustro Moderno de Bogotá, la profesora pregunta cuáles fueron los virreinatos de la América española.
+**Contexto:** En la clase de sociales del Colegio Claustro Moderno de Bogotá, la profesora pregunta cuáles fueron los virreinatos de la América española.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La administración colonial española evolucionó con el tiempo. Inicialmente hu
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-SOC-7-2026-W09-virreinatos-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del colegio de Cali leen un texto sobre la creación del Virreinato de la Nueva Granada en 1717.
+**Contexto:** Los estudiantes del colegio de Cali leen un texto sobre la creación del Virreinato de la Nueva Granada en 1717.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ La creación del Virreinato de la Nueva Granada (1717, restablecido definitivame
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-SOC-7-2026-W09-virreinatos-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Medellín, los estudiantes estudian las autoridades del Virreinato.
+**Contexto:** En el colegio de Medellín, los estudiantes estudian las autoridades del Virreinato.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -81,11 +85,11 @@ La Real Audiencia era el tribunal supremo del virreinato, compuesta por oidores 
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-SOC-7-2026-W09-virreinatos-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Argumentación
-**Context:** En el colegio de Barranquilla, los estudiantes analizan por qué Cartagena era una ciudad tan importante en el Virreinato.
+**Contexto:** En el colegio de Barranquilla, los estudiantes analizan por qué Cartagena era una ciudad tan importante en el Virreinato.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -102,11 +106,11 @@ Cartagena de Indias fue el principal puerto del Virreinato de la Nueva Granada y
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-SOC-7-2026-W09-virreinatos-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Cartagena, los estudiantes leen sobre la expedición Botánica del Nuevo Reino de Granada.
+**Contexto:** En el colegio de Cartagena, los estudiantes leen sobre la expedición Botánica del Nuevo Reino de Granada.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -123,11 +127,11 @@ La Real Expedición Botánica del Nuevo Reino de Granada (1783-1816), liderada p
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-SOC-7-2026-W09-virreinatos-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Pereira, los estudiantes analizan cómo las Reformas Borbónicas afectaron al Virreinato.
+**Contexto:** En el colegio de Pereira, los estudiantes analizan cómo las Reformas Borbónicas afectaron al Virreinato.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ Las Reformas Borbónicas (implementadas por los reyes españoles de la Casa de B
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-SOC-7-2026-W09-virreinatos-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Bucaramanga, los estudiantes comparan la situación de los criollos y los peninsulares en el virreinato.
+**Contexto:** En el colegio de Bucaramanga, los estudiantes comparan la situación de los criollos y los peninsulares en el virreinato.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Una de las principales contradicciones del sistema colonial era la discriminaci�
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-SOC-7-2026-W09-virreinatos-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Social
-**Context:** En la I.E. de Villavicencio, los estudiantes analizan el papel de la Iglesia y la Inquisición en el Virreinato.
+**Contexto:** En la I.E. de Villavicencio, los estudiantes analizan el papel de la Iglesia y la Inquisición en el Virreinato.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ El Tribunal del Santo Oficio de la Inquisición se estableció en Cartagena de I
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-SOC-7-2026-W09-virreinatos-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Cúcuta, los estudiantes analizan un mapa del Virreinato de la Nueva Granada.
+**Contexto:** En el colegio de Cúcuta, los estudiantes analizan un mapa del Virreinato de la Nueva Granada.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -207,11 +211,11 @@ El Virreinato de la Nueva Granada (restablecido definitivamente en 1739) tenía 
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W09-virreinatos-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Manizales, los estudiantes evalúan el legado del Virreinato en la identidad nacional colombiana.
+**Contexto:** En el colegio de Manizales, los estudiantes evalúan el legado del Virreinato en la identidad nacional colombiana.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -228,11 +232,11 @@ El Virreinato de la Nueva Granada contribuyó a la formación de la identidad co
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-SOC-7-2026-W09-virreinatos-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Sincelejo, la profesora pregunta por la expulsión de los jesuitas del virreinato en 1767.
+**Contexto:** En el colegio de Sincelejo, la profesora pregunta por la expulsión de los jesuitas del virreinato en 1767.
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -249,11 +253,11 @@ La expulsión de los jesuitas de todos los dominios españoles (1767) fue una de
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W09-virreinatos-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** La profesora de sociales del colegio de Bogotá propone un debate: ¿qué habría pasado si el Virreinato de la Nueva Granada no se hubiera creado?
+**Contexto:** La profesora de sociales del colegio de Bogotá propone un debate: ¿qué habría pasado si el Virreinato de la Nueva Granada no se hubiera creado?
 **Expected_Success:** 0.42
 
 ### Enunciado

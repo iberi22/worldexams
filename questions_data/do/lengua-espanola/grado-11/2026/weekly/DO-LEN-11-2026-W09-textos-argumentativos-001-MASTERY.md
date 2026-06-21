@@ -5,504 +5,499 @@ exam: "Pruebas Nacionales"
 grado: 11
 asignatura: "Lengua Espanola"
 tema: "textos-argumentativos"
-semana: 9
+week: "W09"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "MINERD - Pruebas Nacionales RD"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle — Textos Argumentativos (Week 9)
 **Difficulty: D3-D10 | 20 Questions | Lengua Espanola — Pruebas Nacionales**
 
 ---
 
-## Question 1 — D4
+## Question 1 [D4]
 **ID:** `DO-LEN-11-2026-W09-textos-argumentativos-001-MASTERY-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de lenguaje y comunicación en DO.
+**Contexto### Opciones
+:** Clase de lenguaje y comunicación en DO.
 
-**Stem:** 'El sol brillaba intensamente mientras los pájaros cantaban.' ¿Qué función cumple esta descripción?
+### Enunciado
+'El sol brillaba intensamente mientras los pájaros cantaban.' ¿Qué función cumple esta descripción?
 
-- [x] **A)** Crear atmósfera o ambiente
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Crear atmósfera o ambiente <!-- feedback: Correcto! Crear atmósfera o ambiente -->
 
-- [ ] **B)** Presentar un argumento
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Presentar un argumento <!-- feedback: Incorrecto. Presentar un argumento -->
 
-- [ ] **C)** Narrar eventos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Narrar eventos <!-- feedback: Incorrecto. Narrar eventos -->
 
-- [ ] **D)** Describir un diálogo
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Describir un diálogo <!-- feedback: Incorrecto. Describir un diálogo -->
 
-**Explanation:** Las descripciones del entorno crean la atmósfera de la narración.
+### Explicacion Pedagogica Las descripciones del entorno crean la atmósfera de la narración.
 
 ---
 
-## Question 2 — D3
+## Question 2 [D3]
 **ID:** `DO-LEN-11-2026-W09-textos-argumentativos-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de lenguaje y comunicación en DO.
+**Contexto### Opciones
+:** Clase de lenguaje y comunicación en DO.
 
-**Stem:** ¿Cuál es la función del lenguaje en '¡Feliz cumpleaños!'?
+### Enunciado
+¿Cuál es la función del lenguaje en '¡Feliz cumpleaños!'?
 
-- [x] **A)** Expresiva o emotiva
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Expresiva o emotiva <!-- feedback: Correcto! Expresiva o emotiva -->
 
-- [ ] **B)** Referencial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Referencial <!-- feedback: Incorrecto. Referencial -->
 
-- [ ] **C)** Apelativa
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Apelativa <!-- feedback: Incorrecto. Apelativa -->
 
-- [ ] **D)** Metalingüística
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Metalingüística <!-- feedback: Incorrecto. Metalingüística -->
 
-**Explanation:** La función expresiva manifiesta emociones del emisor.
+### Explicacion Pedagogica La función expresiva manifiesta emociones del emisor.
 
 ---
 
-## Question 3 — D4
+## Question 3 [D4]
 **ID:** `DO-LEN-11-2026-W09-textos-argumentativos-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de lenguaje y comunicación en DO.
+**Contexto### Opciones
+:** Clase de lenguaje y comunicación en DO.
 
-**Stem:** Conector adecuado: 'San Pedro de Macorís es hermosa, ____ su gente es acogedora.'
+### Enunciado
+Conector adecuado: 'San Pedro de Macorís es hermosa, ____ su gente es acogedora.'
 
-- [x] **A)** además
-  <!-- feedback: ¡Correcto! -->
+- [x] A) además <!-- feedback: Correcto! además -->
 
-- [ ] **B)** sin embargo
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) sin embargo <!-- feedback: Incorrecto. sin embargo -->
 
-- [ ] **C)** por lo tanto
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) por lo tanto <!-- feedback: Incorrecto. por lo tanto -->
 
-- [ ] **D)** aunque
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) aunque <!-- feedback: Incorrecto. aunque -->
 
-**Explanation:** 'Además' añade información complementaria.
+### Explicacion Pedagogica 'Además' añade información complementaria.
 
 ---
 
-## Question 4 — D5
+## Question 4 [D5]
 **ID:** `DO-LEN-11-2026-W09-textos-argumentativos-001-MASTERY-v4`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de lenguaje y comunicación en DO.
+**Contexto### Opciones
+:** Clase de lenguaje y comunicación en DO.
 
-**Stem:** ¿Qué oración está bien escrita?
+### Enunciado
+¿Qué oración está bien escrita?
 
-- [x] **A)** Los estudiantes estudian mucho.
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Los estudiantes estudian mucho. <!-- feedback: Correcto! Los estudiantes estudian mucho. -->
 
-- [ ] **B)** Los estudiantes estudian mucho
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Los estudiantes estudian mucho <!-- feedback: Incorrecto. Los estudiantes estudian mucho -->
 
-- [ ] **C)** Los estudiantes estudia mucho.
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Los estudiantes estudia mucho. <!-- feedback: Incorrecto. Los estudiantes estudia mucho. -->
 
-- [ ] **D)** Los estudiantes estudian mucho
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Los estudiantes estudian mucho <!-- feedback: Incorrecto. Los estudiantes estudian mucho -->
 
-**Explanation:** La oración A sigue correctamente las normas ortográficas.
+### Explicacion Pedagogica La oración A sigue correctamente las normas ortográficas.
 
 ---
 
-## Question 5 — D3
+## Question 5 [D3]
 **ID:** `DO-LEN-11-2026-W09-textos-argumentativos-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de lenguaje y comunicación en DO.
+**Contexto### Opciones
+:** Clase de lenguaje y comunicación en DO.
 
-**Stem:** Lectura: 'El agua es esencial para la vida y debemos cuidarla.' ¿Cuál es la idea principal?
+### Enunciado
+Lectura: 'El agua es esencial para la vida y debemos cuidarla.' ¿Cuál es la idea principal?
 
-- [x] **A)** El agua es esencial y debe cuidarse
-  <!-- feedback: ¡Correcto! -->
+- [x] A) El agua es esencial y debe cuidarse <!-- feedback: Correcto! El agua es esencial y debe cuidarse -->
 
-- [ ] **B)** Solo bebemos agua
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Solo bebemos agua <!-- feedback: Incorrecto. Solo bebemos agua -->
 
-- [ ] **C)** El agua no es importante
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) El agua no es importante <!-- feedback: Incorrecto. El agua no es importante -->
 
-- [ ] **D)** El agua es infinita
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) El agua es infinita <!-- feedback: Incorrecto. El agua es infinita -->
 
-**Explanation:** El texto destaca la importancia del agua y la necesidad de conservarla.
+### Explicacion Pedagogica El texto destaca la importancia del agua y la necesidad de conservarla.
 
 ---
 
-## Question 6 — D4
+## Question 6 [D4]
 **ID:** `DO-LEN-11-2026-W09-textos-argumentativos-001-MASTERY-v6`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de lenguaje y comunicación en DO.
+**Contexto### Opciones
+:** Clase de lenguaje y comunicación en DO.
 
-**Stem:** 'El sol brillaba intensamente mientras los pájaros cantaban.' ¿Qué función cumple esta descripción?
+### Enunciado
+'El sol brillaba intensamente mientras los pájaros cantaban.' ¿Qué función cumple esta descripción?
 
-- [x] **A)** Crear atmósfera o ambiente
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Crear atmósfera o ambiente <!-- feedback: Correcto! Crear atmósfera o ambiente -->
 
-- [ ] **B)** Presentar un argumento
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Presentar un argumento <!-- feedback: Incorrecto. Presentar un argumento -->
 
-- [ ] **C)** Narrar eventos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Narrar eventos <!-- feedback: Incorrecto. Narrar eventos -->
 
-- [ ] **D)** Describir un diálogo
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Describir un diálogo <!-- feedback: Incorrecto. Describir un diálogo -->
 
-**Explanation:** Las descripciones del entorno crean la atmósfera de la narración.
+### Explicacion Pedagogica Las descripciones del entorno crean la atmósfera de la narración.
 
 ---
 
-## Question 7 — D3
+## Question 7 [D3]
 **ID:** `DO-LEN-11-2026-W09-textos-argumentativos-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de lenguaje y comunicación en DO.
+**Contexto### Opciones
+:** Clase de lenguaje y comunicación en DO.
 
-**Stem:** ¿Cuál es la función del lenguaje en '¡Feliz cumpleaños!'?
+### Enunciado
+¿Cuál es la función del lenguaje en '¡Feliz cumpleaños!'?
 
-- [x] **A)** Expresiva o emotiva
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Expresiva o emotiva <!-- feedback: Correcto! Expresiva o emotiva -->
 
-- [ ] **B)** Referencial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Referencial <!-- feedback: Incorrecto. Referencial -->
 
-- [ ] **C)** Apelativa
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Apelativa <!-- feedback: Incorrecto. Apelativa -->
 
-- [ ] **D)** Metalingüística
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Metalingüística <!-- feedback: Incorrecto. Metalingüística -->
 
-**Explanation:** La función expresiva manifiesta emociones del emisor.
+### Explicacion Pedagogica La función expresiva manifiesta emociones del emisor.
 
 ---
 
-## Question 8 — D4
+## Question 8 [D4]
 **ID:** `DO-LEN-11-2026-W09-textos-argumentativos-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de lenguaje y comunicación en DO.
+**Contexto### Opciones
+:** Clase de lenguaje y comunicación en DO.
 
-**Stem:** Conector adecuado: 'La Vega es hermosa, ____ su gente es acogedora.'
+### Enunciado
+Conector adecuado: 'La Vega es hermosa, ____ su gente es acogedora.'
 
-- [x] **A)** además
-  <!-- feedback: ¡Correcto! -->
+- [x] A) además <!-- feedback: Correcto! además -->
 
-- [ ] **B)** sin embargo
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) sin embargo <!-- feedback: Incorrecto. sin embargo -->
 
-- [ ] **C)** por lo tanto
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) por lo tanto <!-- feedback: Incorrecto. por lo tanto -->
 
-- [ ] **D)** aunque
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) aunque <!-- feedback: Incorrecto. aunque -->
 
-**Explanation:** 'Además' añade información complementaria.
+### Explicacion Pedagogica 'Además' añade información complementaria.
 
 ---
 
-## Question 9 — D5
+## Question 9 [D5]
 **ID:** `DO-LEN-11-2026-W09-textos-argumentativos-001-MASTERY-v9`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de lenguaje y comunicación en DO.
+**Contexto### Opciones
+:** Clase de lenguaje y comunicación en DO.
 
-**Stem:** ¿Qué oración está bien escrita?
+### Enunciado
+¿Qué oración está bien escrita?
 
-- [x] **A)** Los estudiantes estudian mucho.
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Los estudiantes estudian mucho. <!-- feedback: Correcto! Los estudiantes estudian mucho. -->
 
-- [ ] **B)** Los estudiantes estudian mucho
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Los estudiantes estudian mucho <!-- feedback: Incorrecto. Los estudiantes estudian mucho -->
 
-- [ ] **C)** Los estudiantes estudia mucho.
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Los estudiantes estudia mucho. <!-- feedback: Incorrecto. Los estudiantes estudia mucho. -->
 
-- [ ] **D)** Los estudiantes estudian mucho
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Los estudiantes estudian mucho <!-- feedback: Incorrecto. Los estudiantes estudian mucho -->
 
-**Explanation:** La oración A sigue correctamente las normas ortográficas.
+### Explicacion Pedagogica La oración A sigue correctamente las normas ortográficas.
 
 ---
 
-## Question 10 — D3
+## Question 10 [D3]
 **ID:** `DO-LEN-11-2026-W09-textos-argumentativos-001-MASTERY-v10`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de lenguaje y comunicación en DO.
+**Contexto### Opciones
+:** Clase de lenguaje y comunicación en DO.
 
-**Stem:** Lectura: 'El agua es esencial para la vida y debemos cuidarla.' ¿Cuál es la idea principal?
+### Enunciado
+Lectura: 'El agua es esencial para la vida y debemos cuidarla.' ¿Cuál es la idea principal?
 
-- [x] **A)** El agua es esencial y debe cuidarse
-  <!-- feedback: ¡Correcto! -->
+- [x] A) El agua es esencial y debe cuidarse <!-- feedback: Correcto! El agua es esencial y debe cuidarse -->
 
-- [ ] **B)** Solo bebemos agua
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Solo bebemos agua <!-- feedback: Incorrecto. Solo bebemos agua -->
 
-- [ ] **C)** El agua no es importante
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) El agua no es importante <!-- feedback: Incorrecto. El agua no es importante -->
 
-- [ ] **D)** El agua es infinita
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) El agua es infinita <!-- feedback: Incorrecto. El agua es infinita -->
 
-**Explanation:** El texto destaca la importancia del agua y la necesidad de conservarla.
+### Explicacion Pedagogica El texto destaca la importancia del agua y la necesidad de conservarla.
 
 ---
 
-## Question 11 — D4
+## Question 11 [D4]
 **ID:** `DO-LEN-11-2026-W09-textos-argumentativos-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de lenguaje y comunicación en DO.
+**Contexto### Opciones
+:** Clase de lenguaje y comunicación en DO.
 
-**Stem:** 'El sol brillaba intensamente mientras los pájaros cantaban.' ¿Qué función cumple esta descripción?
+### Enunciado
+'El sol brillaba intensamente mientras los pájaros cantaban.' ¿Qué función cumple esta descripción?
 
-- [x] **A)** Crear atmósfera o ambiente
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Crear atmósfera o ambiente <!-- feedback: Correcto! Crear atmósfera o ambiente -->
 
-- [ ] **B)** Presentar un argumento
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Presentar un argumento <!-- feedback: Incorrecto. Presentar un argumento -->
 
-- [ ] **C)** Narrar eventos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Narrar eventos <!-- feedback: Incorrecto. Narrar eventos -->
 
-- [ ] **D)** Describir un diálogo
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Describir un diálogo <!-- feedback: Incorrecto. Describir un diálogo -->
 
-**Explanation:** Las descripciones del entorno crean la atmósfera de la narración.
+### Explicacion Pedagogica Las descripciones del entorno crean la atmósfera de la narración.
 
 ---
 
-## Question 12 — D3
+## Question 12 [D3]
 **ID:** `DO-LEN-11-2026-W09-textos-argumentativos-001-MASTERY-v12`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de lenguaje y comunicación en DO.
+**Contexto### Opciones
+:** Clase de lenguaje y comunicación en DO.
 
-**Stem:** ¿Cuál es la función del lenguaje en '¡Feliz cumpleaños!'?
+### Enunciado
+¿Cuál es la función del lenguaje en '¡Feliz cumpleaños!'?
 
-- [x] **A)** Expresiva o emotiva
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Expresiva o emotiva <!-- feedback: Correcto! Expresiva o emotiva -->
 
-- [ ] **B)** Referencial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Referencial <!-- feedback: Incorrecto. Referencial -->
 
-- [ ] **C)** Apelativa
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Apelativa <!-- feedback: Incorrecto. Apelativa -->
 
-- [ ] **D)** Metalingüística
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Metalingüística <!-- feedback: Incorrecto. Metalingüística -->
 
-**Explanation:** La función expresiva manifiesta emociones del emisor.
+### Explicacion Pedagogica La función expresiva manifiesta emociones del emisor.
 
 ---
 
-## Question 13 — D4
+## Question 13 [D4]
 **ID:** `DO-LEN-11-2026-W09-textos-argumentativos-001-MASTERY-v13`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de lenguaje y comunicación en DO.
+**Contexto### Opciones
+:** Clase de lenguaje y comunicación en DO.
 
-**Stem:** Conector adecuado: 'Moca es hermosa, ____ su gente es acogedora.'
+### Enunciado
+Conector adecuado: 'Moca es hermosa, ____ su gente es acogedora.'
 
-- [x] **A)** además
-  <!-- feedback: ¡Correcto! -->
+- [x] A) además <!-- feedback: Correcto! además -->
 
-- [ ] **B)** sin embargo
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) sin embargo <!-- feedback: Incorrecto. sin embargo -->
 
-- [ ] **C)** por lo tanto
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) por lo tanto <!-- feedback: Incorrecto. por lo tanto -->
 
-- [ ] **D)** aunque
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) aunque <!-- feedback: Incorrecto. aunque -->
 
-**Explanation:** 'Además' añade información complementaria.
+### Explicacion Pedagogica 'Además' añade información complementaria.
 
 ---
 
-## Question 14 — D5
+## Question 14 [D5]
 **ID:** `DO-LEN-11-2026-W09-textos-argumentativos-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de lenguaje y comunicación en DO.
+**Contexto### Opciones
+:** Clase de lenguaje y comunicación en DO.
 
-**Stem:** ¿Qué oración está bien escrita?
+### Enunciado
+¿Qué oración está bien escrita?
 
-- [x] **A)** Los estudiantes estudian mucho.
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Los estudiantes estudian mucho. <!-- feedback: Correcto! Los estudiantes estudian mucho. -->
 
-- [ ] **B)** Los estudiantes estudian mucho
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Los estudiantes estudian mucho <!-- feedback: Incorrecto. Los estudiantes estudian mucho -->
 
-- [ ] **C)** Los estudiantes estudia mucho.
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Los estudiantes estudia mucho. <!-- feedback: Incorrecto. Los estudiantes estudia mucho. -->
 
-- [ ] **D)** Los estudiantes estudian mucho
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Los estudiantes estudian mucho <!-- feedback: Incorrecto. Los estudiantes estudian mucho -->
 
-**Explanation:** La oración A sigue correctamente las normas ortográficas.
+### Explicacion Pedagogica La oración A sigue correctamente las normas ortográficas.
 
 ---
 
-## Question 15 — D3
+## Question 15 [D3]
 **ID:** `DO-LEN-11-2026-W09-textos-argumentativos-001-MASTERY-v15`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de lenguaje y comunicación en DO.
+**Contexto### Opciones
+:** Clase de lenguaje y comunicación en DO.
 
-**Stem:** Lectura: 'El agua es esencial para la vida y debemos cuidarla.' ¿Cuál es la idea principal?
+### Enunciado
+Lectura: 'El agua es esencial para la vida y debemos cuidarla.' ¿Cuál es la idea principal?
 
-- [x] **A)** El agua es esencial y debe cuidarse
-  <!-- feedback: ¡Correcto! -->
+- [x] A) El agua es esencial y debe cuidarse <!-- feedback: Correcto! El agua es esencial y debe cuidarse -->
 
-- [ ] **B)** Solo bebemos agua
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Solo bebemos agua <!-- feedback: Incorrecto. Solo bebemos agua -->
 
-- [ ] **C)** El agua no es importante
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) El agua no es importante <!-- feedback: Incorrecto. El agua no es importante -->
 
-- [ ] **D)** El agua es infinita
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) El agua es infinita <!-- feedback: Incorrecto. El agua es infinita -->
 
-**Explanation:** El texto destaca la importancia del agua y la necesidad de conservarla.
+### Explicacion Pedagogica El texto destaca la importancia del agua y la necesidad de conservarla.
 
 ---
 
-## Question 16 — D4
+## Question 16 [D4]
 **ID:** `DO-LEN-11-2026-W09-textos-argumentativos-001-MASTERY-v16`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de lenguaje y comunicación en DO.
+**Contexto### Opciones
+:** Clase de lenguaje y comunicación en DO.
 
-**Stem:** 'El sol brillaba intensamente mientras los pájaros cantaban.' ¿Qué función cumple esta descripción?
+### Enunciado
+'El sol brillaba intensamente mientras los pájaros cantaban.' ¿Qué función cumple esta descripción?
 
-- [x] **A)** Crear atmósfera o ambiente
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Crear atmósfera o ambiente <!-- feedback: Correcto! Crear atmósfera o ambiente -->
 
-- [ ] **B)** Presentar un argumento
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Presentar un argumento <!-- feedback: Incorrecto. Presentar un argumento -->
 
-- [ ] **C)** Narrar eventos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Narrar eventos <!-- feedback: Incorrecto. Narrar eventos -->
 
-- [ ] **D)** Describir un diálogo
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Describir un diálogo <!-- feedback: Incorrecto. Describir un diálogo -->
 
-**Explanation:** Las descripciones del entorno crean la atmósfera de la narración.
+### Explicacion Pedagogica Las descripciones del entorno crean la atmósfera de la narración.
 
 ---
 
-## Question 17 — D3
+## Question 17 [D3]
 **ID:** `DO-LEN-11-2026-W09-textos-argumentativos-001-MASTERY-v17`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de lenguaje y comunicación en DO.
+**Contexto### Opciones
+:** Clase de lenguaje y comunicación en DO.
 
-**Stem:** ¿Cuál es la función del lenguaje en '¡Feliz cumpleaños!'?
+### Enunciado
+¿Cuál es la función del lenguaje en '¡Feliz cumpleaños!'?
 
-- [x] **A)** Expresiva o emotiva
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Expresiva o emotiva <!-- feedback: Correcto! Expresiva o emotiva -->
 
-- [ ] **B)** Referencial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Referencial <!-- feedback: Incorrecto. Referencial -->
 
-- [ ] **C)** Apelativa
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Apelativa <!-- feedback: Incorrecto. Apelativa -->
 
-- [ ] **D)** Metalingüística
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Metalingüística <!-- feedback: Incorrecto. Metalingüística -->
 
-**Explanation:** La función expresiva manifiesta emociones del emisor.
+### Explicacion Pedagogica La función expresiva manifiesta emociones del emisor.
 
 ---
 
-## Question 18 — D4
+## Question 18 [D4]
 **ID:** `DO-LEN-11-2026-W09-textos-argumentativos-001-MASTERY-v18`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de lenguaje y comunicación en DO.
+**Contexto### Opciones
+:** Clase de lenguaje y comunicación en DO.
 
-**Stem:** Conector adecuado: 'Santiago es hermosa, ____ su gente es acogedora.'
+### Enunciado
+Conector adecuado: 'Santiago es hermosa, ____ su gente es acogedora.'
 
-- [x] **A)** además
-  <!-- feedback: ¡Correcto! -->
+- [x] A) además <!-- feedback: Correcto! además -->
 
-- [ ] **B)** sin embargo
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) sin embargo <!-- feedback: Incorrecto. sin embargo -->
 
-- [ ] **C)** por lo tanto
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) por lo tanto <!-- feedback: Incorrecto. por lo tanto -->
 
-- [ ] **D)** aunque
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) aunque <!-- feedback: Incorrecto. aunque -->
 
-**Explanation:** 'Además' añade información complementaria.
+### Explicacion Pedagogica 'Además' añade información complementaria.
 
 ---
 
-## Question 19 — D5
+## Question 19 [D5]
 **ID:** `DO-LEN-11-2026-W09-textos-argumentativos-001-MASTERY-v19`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de lenguaje y comunicación en DO.
+**Contexto### Opciones
+:** Clase de lenguaje y comunicación en DO.
 
-**Stem:** ¿Qué oración está bien escrita?
+### Enunciado
+¿Qué oración está bien escrita?
 
-- [x] **A)** Los estudiantes estudian mucho.
-  <!-- feedback: ¡Correcto! -->
+- [x] A) Los estudiantes estudian mucho. <!-- feedback: Correcto! Los estudiantes estudian mucho. -->
 
-- [ ] **B)** Los estudiantes estudian mucho
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Los estudiantes estudian mucho <!-- feedback: Incorrecto. Los estudiantes estudian mucho -->
 
-- [ ] **C)** Los estudiantes estudia mucho.
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) Los estudiantes estudia mucho. <!-- feedback: Incorrecto. Los estudiantes estudia mucho. -->
 
-- [ ] **D)** Los estudiantes estudian mucho
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) Los estudiantes estudian mucho <!-- feedback: Incorrecto. Los estudiantes estudian mucho -->
 
-**Explanation:** La oración A sigue correctamente las normas ortográficas.
+### Explicacion Pedagogica La oración A sigue correctamente las normas ortográficas.
 
 ---
 
-## Question 20 — D3
+## Question 20 [D3]
 **ID:** `DO-LEN-11-2026-W09-textos-argumentativos-001-MASTERY-v20`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Clase de lenguaje y comunicación en DO.
+**Contexto### Opciones
+:** Clase de lenguaje y comunicación en DO.
 
-**Stem:** Lectura: 'El agua es esencial para la vida y debemos cuidarla.' ¿Cuál es la idea principal?
+### Enunciado
+Lectura: 'El agua es esencial para la vida y debemos cuidarla.' ¿Cuál es la idea principal?
 
-- [x] **A)** El agua es esencial y debe cuidarse
-  <!-- feedback: ¡Correcto! -->
+- [x] A) El agua es esencial y debe cuidarse <!-- feedback: Correcto! El agua es esencial y debe cuidarse -->
 
-- [ ] **B)** Solo bebemos agua
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] B) Solo bebemos agua <!-- feedback: Incorrecto. Solo bebemos agua -->
 
-- [ ] **C)** El agua no es importante
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] C) El agua no es importante <!-- feedback: Incorrecto. El agua no es importante -->
 
-- [ ] **D)** El agua es infinita
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] D) El agua es infinita <!-- feedback: Incorrecto. El agua es infinita -->
 
-**Explanation:** El texto destaca la importancia del agua y la necesidad de conservarla.
+### Explicacion Pedagogica El texto destaca la importancia del agua y la necesidad de conservarla.
 
----
-
-### Quality Review
-
-| Dimension | Score |
-|-----------|-------|
-| Technical | 30/30 |
-| Curricular | 40/40 |
-| Context | 20/20 |
-| Writing | 10/10 |
-| **Total** | **100/100** |

@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W11-razones-proporciones-001-MASTERY"
+id: "CO-MAT-6-2026-W11-razones-proporciones-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W11 — Razones y Proporciones
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W11-razones-proporciones-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Estudiantes en el salon
+**Contexto:** Estudiantes en el salon
 
 ### Enunciado
 En el salón de clase hay 15 niños y 20 niñas. ¿Cual es la razon de niños a niñas?
 
-### Options
+### Opciones
 - [ ] A) 15:35 <!-- feedback: Incorrect. La razon niños:niñas compara 15 con 20. 35 es el total de estudiantes (15+20). La razon no es parte-todo, es parte-parte. -->
 - [x] B) 15:20 <!-- feedback: Correct. La razon de niños a niñas es 15:20, que se simplifica a 3:4. -->
 - [ ] C) 20:15 <!-- feedback: Incorrect. Invertir el orden. La razon pide niños a niñas, no niñas a niños. 15:20 es la razon correcta. -->
@@ -51,13 +54,14 @@ Esto significa que por cada 3 niños hay 4 niñas en el salon.
 
 **ID:** `CO-MAT-6-2026-W11-razones-proporciones-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Ingredientes de una receta
+**Contexto:** Ingredientes de una receta
 
 ### Enunciado
 En una receta de limonada, por cada 2 limones se usan 3 cucharadas de azucar. ¿Cual es la razon de limones a azucar?
 
-### Options
+### Opciones
 - [ ] A) 3:2 <!-- feedback: Incorrect. Invertir el orden. La razon es limones:azucar = 2:3. -->
 - [x] B) 2:3 <!-- feedback: Correct. Por cada 2 limones, 3 cucharadas de azucar. Razon 2:3. -->
 - [ ] C) 2:5 <!-- feedback: Incorrect. 2+3=5. La razon parte-parte es 2:3, no 2:5 (que seria limones:total). -->
@@ -74,13 +78,14 @@ Una razon tambien se puede escribir como fraccion: 2/3.
 
 **ID:** `CO-MAT-6-2026-W11-razones-proporciones-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Proporciones equivalentes
+**Contexto:** Proporciones equivalentes
 
 ### Enunciado
 La razon de ninos a ninas en un curso es 2:3. Si hay 12 ninos, ¿cuantas ninas hay?
 
-### Options
+### Opciones
 - [ ] A) 8 ninas <!-- feedback: Incorrect. 12×2/3=8. Error: multiplicar por 2/3. La razon 2:3 significa 2/3 = ninos/ninas, entonces ninas = 12×3/2 = 18. -->
 - [ ] B) 12 ninas <!-- feedback: Incorrect. 12+? = 2:3. Si hay 12 ninos y 12 ninas, la razon seria 1:1. La razon es 2:3, entonces por cada 12 ninos (2×6) hay 3×6=18 ninas. -->
 - [x] C) 18 ninas <!-- feedback: Correct. 2:3 = 12:?. Factor de 2 a 12 es ×6. Entonces 3×6=18 ninas. -->
@@ -97,13 +102,14 @@ Hay 18 ninas. Verificacion: 12:18 = 2:3 (dividiendo entre 6). ✓
 
 **ID:** `CO-MAT-6-2026-W11-razones-proporciones-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Verificar proporciones
+**Contexto:** Verificar proporciones
 
 ### Enunciado
 ¿Cual de los siguientes pares de razones forman una proporción?
 
-### Options
+### Opciones
 - [ ] A) 2:3 y 4:5 <!-- feedback: Incorrect. 2×5=10 y 3×4=12. Productos cruzados diferentes (10 ≠ 12), no forman proporción. -->
 - [x] B) 3:4 y 6:8 <!-- feedback: Correct. 3×8=24 y 4×6=24. Productos cruzados iguales, forman proporción. 3/4 = 6/8. -->
 - [ ] C) 1:2 y 2:3 <!-- feedback: Incorrect. 1×3=3 y 2×2=4. 3 ≠ 4. No forman proporción. -->
@@ -121,13 +127,14 @@ Las demas opciones tienen productos cruzados diferentes.
 
 **ID:** `CO-MAT-6-2026-W11-razones-proporciones-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Mapa a escala
+**Contexto:** Mapa a escala
 
 ### Enunciado
 En un mapa, 1 cm representa 50 km en la realidad. Si la distancia entre Bogota y Medellin en el mapa es de 5 cm, ¿cual es la distancia real?
 
-### Options
+### Opciones
 - [ ] A) 200 km <!-- feedback: Incorrect. 50×4=200. Error: 5×40=200. La escala es 1cm:50km, entonces 5cm×50=250km. -->
 - [x] B) 250 km <!-- feedback: Correct. 5 cm × 50 km/cm = 250 km. -->
 - [ ] C) 55 km <!-- feedback: Incorrect. Sumar 50+5=55. La relacion es multiplicacion, no suma. -->
@@ -144,13 +151,14 @@ La distancia real entre Bogota y Medellin es de aproximadamente 250 km.
 
 **ID:** `CO-MAT-6-2026-W11-razones-proporciones-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Mezcla de jugo
+**Contexto:** Mezcla de jugo
 
 ### Enunciado
 Para preparar jugo de naranja, la razon de agua a concentrado es 5:2. Si se usan 10 vasos de agua, ¿cuantos vasos de concentrado se necesitan?
 
-### Options
+### Opciones
 - [ ] A) 2 vasos <!-- feedback: Incorrect. Confundir. Si la razon es 5:2, y hay 10 de agua (el doble de 5), entonces de concentrado es el doble de 2 = 4. -->
 - [ ] B) 7 vasos <!-- feedback: Incorrect. 5+2=7. Sumar en vez de aplicar la proporcion. 10 agua, entonces 10/5=2, 2×2=4. -->
 - [x] C) 4 vasos <!-- feedback: Correct. Agua: 5→10 (×2). Concentrado: 2×2=4. -->
@@ -168,13 +176,14 @@ Verificacion: 10:4 = 5:2 ✓
 
 **ID:** `CO-MAT-6-2026-W11-razones-proporciones-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Reparto de utilidades
+**Contexto:** Reparto de utilidades
 
 ### Enunciado
 Dos socios invierten en un negocio de empanadas. Carlos aporta $3.000.000 y Maria $5.000.000. Al final del año, las ganancias son $4.000.000 y se reparten en proporción a lo invertido. ¿Cuanto recibe Maria?
 
-### Options
+### Opciones
 - [ ] A) $1.500.000 <!-- feedback: Incorrect. Eso recibiria Carlos (3/8 × 4M = 1,5M). Maria recibe 5/8 × 4M = 2,5M. -->
 - [ ] B) $2.000.000 <!-- feedback: Incorrect. Dividir ganancias en partes iguales: 4M÷2=2M. Pero se reparte en proporcion a la inversion, no por igual. La inversion de Maria es mayor. -->
 - [x] C) $2.500.000 <!-- feedback: Correct. Total inversion: 3M+5M=8M. Maria: 5/8 × 4.000.000 = 2.500.000. -->
@@ -193,13 +202,14 @@ Verificacion: 1.500.000:2.500.000 = 3:5 ✓
 
 **ID:** `CO-MAT-6-2026-W11-razones-proporciones-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Velocidad y distancia
+**Contexto:** Velocidad y distancia
 
 ### Enunciado
 Un ciclista recorre 36 km en 2 horas manteniendo velocidad constante. ¿Cuantos km recorrera en 5 horas a la misma velocidad?
 
-### Options
+### Opciones
 - [ ] A) 72 km <!-- feedback: Incorrect. 36×2=72. Eso es en 4 horas (2×2). La proporcion: 36/2 = x/5 → x=36×5/2=90 km. -->
 - [ ] B) 90 km <!-- feedback: Correct. Proporcion: 36/2 = x/5 → x = (36×5)/2 = 180/2 = 90 km. -->
 - [x] C) 180 km <!-- feedback: Incorrect. 36×5=180. Error: 36 km en 2 horas, entonces por hora son 18 km. En 5 horas: 18×5=90 km. No es 36×5. -->
@@ -217,8 +227,9 @@ Usando proporcion: 36/2 = x/5 → x = (36×5)/2 = 90 km.
 
 **ID:** `CO-MAT-6-2026-W11-razones-proporciones-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Comparacion de mezclas
+**Contexto:** Comparacion de mezclas
 
 ### Enunciado
 Dos jugos de naranja se preparan asi:
@@ -226,7 +237,7 @@ Jugo A: 3 vasos de agua por 1 de concentrado.
 Jugo B: 5 vasos de agua por 2 de concentrado.
 ¿Cual jugo tiene sabor mas concentrado a naranja?
 
-### Options
+### Opciones
 - [ ] A) Jugo A, porque tiene menos agua por concentrado <!-- feedback: Correct. A: 3:1 = 3 vasos agua por 1 concentrado. B: 5:2 = 2,5 vasos agua por 1 concentrado. B tiene MENOS agua por concentrado, por eso es MAS concentrado. -->
 - [x] B) Jugo B, porque tiene 2,5 vasos de agua por cada vaso de concentrado (menos que 3) <!-- feedback: Correct. B: 5/2=2,5. A: 3/1=3. B tiene menos agua por unidad de concentrado, por eso sabe mas a naranja. -->
 - [ ] C) Ambos saben igual porque tiene naranja <!-- feedback: Incorrect. Las proporciones son diferentes: A (3:1=3) vs B (5:2=2,5). A tiene mas agua relativa, por eso es menos concentrado. -->
@@ -244,13 +255,14 @@ El jugo B tiene menos agua por unidad de concentrado (2,5 < 3), por lo tanto tie
 
 **ID:** `CO-MAT-6-2026-W11-razones-proporciones-010-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Error en mezcla de pintura
+**Contexto:** Error en mezcla de pintura
 
 ### Enunciado
 Para pintar un salon, la razon de pintura blanca a pintura azul debe ser 4:1. Si un pintor mezcla 8 galones de blanca con 3 de azul, ¿la mezcla tiene mas azul de la debida o menos?
 
-### Options
+### Opciones
 - [ ] A) Menos azul de la debida <!-- feedback: Incorrect. La mezcla real es 8:3 = 2,67:1 blanca:azul. La debida es 4:1 = 4:1. La mezcla real tiene menos blanca por azul (2,67 < 4), o sea MAS azul de la debida. -->
 - [ ] B) Exactamente la cantidad de azul correcta <!-- feedback: Incorrect. 8/3 = 2,67. 4/1 = 4. No son iguales. 8/3 ≠ 4/1. -->
 - [x] C) Mas azul de la debida <!-- feedback: Correct. Debida: 4 blanca por 1 azul. Real: 8 blanca por 3 azul = 2,67 blanca por 1 azul. Hay MENOS blanca por azul = MAS azul de la debida. -->

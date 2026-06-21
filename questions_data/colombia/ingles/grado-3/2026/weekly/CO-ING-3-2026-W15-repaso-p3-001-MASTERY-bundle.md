@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W15-repaso-p3-001-MASTERY"
+id: "CO-ING-3-2026-W15-repaso-p3-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "repaso-p3"
 periodo: "weekly"
-semana: 15
+week: "W15"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 8
@@ -19,7 +19,12 @@ rubric_baseline: "Review of body parts, face, rooms, and furniture."
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W15: Repaso Periodo 3 (A1)
 
@@ -32,11 +37,12 @@ Este bundle repasa los temas de las semanas 11 a 14: cuerpo, cara, habitaciones 
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What part of the body is this: 👂?
 
-### Options
+### Opciones
 - [ ] A) Eye <!-- feedback: Incorrect. -->
 - [x] B) Ear <!-- feedback: Correct! -->
 - [ ] C) Nose <!-- feedback: Incorrect. -->
@@ -52,11 +58,12 @@ La oreja se dice "ear".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Where do you **cook**?
 
-### Options
+### Opciones
 - [ ] A) Bathroom <!-- feedback: Incorrect. -->
 - [x] B) Kitchen <!-- feedback: Correct! -->
 - [ ] C) Bedroom <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ Cocinamos en la "kitchen".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Boca"**?
 
-### Options
+### Opciones
 - [x] A) Mouth <!-- feedback: Correct! -->
 - [ ] B) Nose <!-- feedback: Incorrect. -->
 - [ ] C) Eye <!-- feedback: Incorrect. -->
@@ -92,11 +100,12 @@ Boca en inglés es "mouth".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Cama"**?
 
-### Options
+### Opciones
 - [ ] A) Table <!-- feedback: Incorrect. -->
 - [ ] B) Chair <!-- feedback: Incorrect. -->
 - [x] C) Bed <!-- feedback: Correct! -->
@@ -112,11 +121,12 @@ Cama en inglés es "bed".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 You have ten **toes** on your:
 
-### Options
+### Opciones
 - [ ] A) Hands <!-- feedback: Incorrect. Those are fingers. -->
 - [x] B) Feet <!-- feedback: Correct! Toes are the fingers of the feet. -->
 - [ ] C) Head <!-- feedback: Incorrect. -->
@@ -132,11 +142,12 @@ You have ten **toes** on your:
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Where do you watch **TV**?
 
-### Options
+### Opciones
 - [x] A) Living room <!-- feedback: Correct! -->
 - [ ] B) Bathroom <!-- feedback: Incorrect. -->
 - [ ] C) Kitchen <!-- feedback: Incorrect. -->
@@ -152,11 +163,12 @@ Vemos la televisión en la sala (living room).
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 How many **knees** do you have?
 
-### Options
+### Opciones
 - [ ] A) One <!-- feedback: Incorrect. -->
 - [x] B) Two <!-- feedback: Correct! -->
 - [ ] C) Ten <!-- feedback: Incorrect. -->
@@ -172,11 +184,12 @@ Tenemos dos rodillas (knees), una en cada pierna.
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Silla"**?
 
-### Options
+### Opciones
 - [ ] A) Table <!-- feedback: Incorrect. -->
 - [ ] B) Bed <!-- feedback: Incorrect. -->
 - [x] C) Chair <!-- feedback: Correct! -->

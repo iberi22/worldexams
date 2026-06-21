@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W18-repaso-p2-001-MASTERY"
+id: "CO-LC-7-2026-W18-repaso-p2-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "repaso-p2"
-semana: "W18"
+week: "W18"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso Segundo Período - Grado 7
 ## Semana W18 — Síntesis de análisis crítico, discurso político, publicitario, científico y literario
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W18-repaso-p2-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el Colegio Distrital Simón Bolívar de Bogotá, los estudiantes repasan los tipos de discurso estudiados en el segundo período.
+**Contexto:** En el Colegio Distrital Simón Bolívar de Bogotá, los estudiantes repasan los tipos de discurso estudiados en el segundo período.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Cada tipo de discurso tiene un propósito comunicativo dominante: el discurso po
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W18-repaso-p2-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un estudiante del Colegio de Barranquilla encuentra un texto que dice: "Este producto revolucionará su vida. ¡Cómprelo ahora! Oferta por tiempo limitado."
+**Contexto:** Un estudiante del Colegio de Barranquilla encuentra un texto que dice: "Este producto revolucionará su vida. ¡Cómprelo ahora! Oferta por tiempo limitado."
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ Identificar el tipo de discurso es el primer paso del análisis crítico. Este t
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W18-repaso-p2-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el repaso, el profesor muestra un texto donde el autor usa la palabra "probablemente" y dice "los datos actuales sugieren" en lugar de afirmar conclusiones de manera categórica.
+**Contexto:** En el repaso, el profesor muestra un texto donde el autor usa la palabra "probablemente" y dice "los datos actuales sugieren" en lugar de afirmar conclusiones de manera categórica.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ El lenguaje cauteloso ("probablemente", "los datos sugieren", "se estima") es un
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W18-repaso-p2-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Santiago lee en una valla publicitaria de Medellín: "El 90% de los médicos recomiendan nuestro analgésico."
+**Contexto:** Santiago lee en una valla publicitaria de Medellín: "El 90% de los médicos recomiendan nuestro analgésico."
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -102,11 +106,11 @@ Frente a afirmaciones que mezclan discurso publicitario con aparente respaldo ci
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W18-repaso-p2-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase, los estudiantes deben clasificar un texto que dice: "El viento jugaba con las hojas secas mientras la tarde moría lentamente en el horizonte."
+**Contexto:** En clase, los estudiantes deben clasificar un texto que dice: "El viento jugaba con las hojas secas mientras la tarde moría lentamente en el horizonte."
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -123,11 +127,11 @@ El texto es claramente literario por su uso del lenguaje figurado y su función 
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W18-repaso-p2-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En un debate escolar, un candidato dice: "Mi oponente solo promete, pero yo he trabajado. Miren mis manos, están llenas de callos de trabajo duro."
+**Contexto:** En un debate escolar, un candidato dice: "Mi oponente solo promete, pero yo he trabajado. Miren mis manos, están llenas de callos de trabajo duro."
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -144,11 +148,11 @@ Este es un discurso político que utiliza el ethos (la imagen o carácter del or
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W18-repaso-p2-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Camila compara dos textos sobre el mismo tema. El primero dice: "Comer frutas y verduras es saludable." El segundo dice: "Comer frutas y verduras reduce el riesgo de enfermedades cardiovasculares en un 30%, según un estudio del INS de 2025."
+**Contexto:** Camila compara dos textos sobre el mismo tema. El primero dice: "Comer frutas y verduras es saludable." El segundo dice: "Comer frutas y verduras reduce el riesgo de enfermedades cardiovasculares en un 30%, según un estudio del INS de 2025."
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -165,11 +169,11 @@ La diferencia entre una opinión general y una afirmación con respaldo científ
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W18-repaso-p2-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un artículo dice: "El nuevo teléfono tiene 256 GB de almacenamiento, una cámara de 200 MP y carga en 15 minutos. Solo los verdaderos innovadores lo tienen."
+**Contexto:** Un artículo dice: "El nuevo teléfono tiene 256 GB de almacenamiento, una cámara de 200 MP y carga en 15 minutos. Solo los verdaderos innovadores lo tienen."
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -186,11 +190,11 @@ La publicidad moderna frecuentemente mezcla elementos del discurso técnico o ci
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W18-repaso-p2-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el colegio de Cartagena, los estudiantes deben evaluar qué tipo de análisis es más apropiado para cada texto. Un compañero sugiere analizar un discurso político como si fuera literatura.
+**Contexto:** En el colegio de Cartagena, los estudiantes deben evaluar qué tipo de análisis es más apropiado para cada texto. Un compañero sugiere analizar un discurso político como si fuera literatura.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -207,11 +211,11 @@ Cada tipo de discurso requiere herramientas de análisis específicas. Analizar 
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W18-repaso-p2-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En el Colegio de Yopal, los estudiantes analizan una noticia que comienza con un titular sensacionalista, pero el contenido cita fuentes científicas.
+**Contexto:** En el Colegio de Yopal, los estudiantes analizan una noticia que comienza con un titular sensacionalista, pero el contenido cita fuentes científicas.
 **Expected_Success:** 0.44
 
 ### Enunciado
@@ -228,11 +232,11 @@ Los medios de comunicación frecuentemente mezclan discursos: titulares sensacio
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W18-repaso-p2-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Un texto describe el río Magdalena como "una serpiente de plata que atraviesa el país, llevando en su lomo la historia y el dolor de Colombia."
+**Contexto:** Un texto describe el río Magdalena como "una serpiente de plata que atraviesa el país, llevando en su lomo la historia y el dolor de Colombia."
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -249,11 +253,11 @@ Este texto es predominantemente literario por su uso de lenguaje figurado y su i
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W18-repaso-p2-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** Como evaluación final del período, los estudiantes del Colegio de Facatativá deben crear una guía de análisis crítico que sirva para cualquier tipo de discurso.
+**Contexto:** Como evaluación final del período, los estudiantes del Colegio de Facatativá deben crear una guía de análisis crítico que sirva para cualquier tipo de discurso.
 **Expected_Success:** 0.38
 
 ### Enunciado

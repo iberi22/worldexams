@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W37-conservacion-energia-001-MASTERY"
+id: "CO-CIE-6-2026-W37-conservacion-energia-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W37 — Conservación de la Energía
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W37-conservacion-energia-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, estudiantes definen la ley de conservación de la energía.
+**Contexto:** En Bogotá, estudiantes definen la ley de conservación de la energía.
 
 ### Enunciado
 ¿Qué dice la ley de conservación de la energía?
 
-### Options
+### Opciones
 - [ ] A) La energía puede crearse cuando la necesitamos <!-- feedback: La energía no se crea. -->
 - [ ] B) La energía se destruye cuando un objeto se detiene <!-- feedback: La energía no se destruye. -->
 - [x] C) La energía no se crea ni se destruye, solo se transforma o se transfiere <!-- feedback: Correcto. La energía total del universo es constante. -->
@@ -59,13 +62,14 @@ Esto significa que la cantidad total de energía en el universo es **constante**
 
 **ID:** `CO-CIE-6-2026-W37-conservacion-energia-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, estudiantes identifican ejemplos de conservación.
+**Contexto:** En Medellín, estudiantes identifican ejemplos de conservación.
 
 ### Enunciado
 ¿En cuál de los siguientes procesos la energía parece "perderse" pero en realidad se transforma?
 
-### Options
+### Opciones
 - [ ] A) Una fruta creciendo en un árbol <!-- feedback: La energía solar se transforma en energía química en la fruta. -->
 - [ ] B) Una pila nueva sin usar <!-- feedback: Tiene energía química almacenada, no se ha perdido. -->
 - [x] C) Una pelota que bota cada vez más bajo hasta detenerse <!-- feedback: Correcto. La energía se transforma en calor y sonido. -->
@@ -99,13 +103,14 @@ Este ejemplo demuestra perfectamente la conservación: la energía no desaparece
 
 **ID:** `CO-CIE-6-2026-W37-conservacion-energia-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, estudiantes explican la transferencia de energía.
+**Contexto:** En Cali, estudiantes explican la transferencia de energía.
 
 ### Enunciado
 ¿Cómo se transfiere la energía del Sol a la Tierra?
 
-### Options
+### Opciones
 - [ ] A) Por conducción, a través del contacto directo <!-- feedback: No hay contacto entre el Sol y la Tierra. -->
 - [ ] B) Por convección, a través del aire <!-- feedback: La convección requiere un medio material, y el espacio es vacío. -->
 - [x] C) Por radiación, mediante ondas electromagnéticas (luz visible, infrarrojo) que pueden viajar por el vacío <!-- feedback: Correcto. La radiación no necesita medio material. -->
@@ -135,13 +140,14 @@ La Tierra recibe ~1,361 W/m² de energía solar (constante solar). Parte es refl
 
 **ID:** `CO-CIE-6-2026-W37-conservacion-energia-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, estudiantes explican el principio de conservación.
+**Contexto:** En Barranquilla, estudiantes explican el principio de conservación.
 
 ### Enunciado
 Un motor de carro recibe 100 J de energía química de la gasolina, pero solo 25 J se convierten en movimiento. ¿Qué ocurre con los otros 75 J?
 
-### Options
+### Opciones
 - [ ] A) Se pierden para siempre <!-- feedback: La energía no se pierde, se transforma. -->
 - [ ] B) Se destruyen porque el motor es ineficiente <!-- feedback: La energía no se destruye, solo se transforma. -->
 - [x] C) Se transforman en calor (disipado por el radiador y el escape) y otras pérdidas (fricción, sonido) <!-- feedback: Correcto. La energía se conserva pero se degrada. -->
@@ -172,13 +178,14 @@ Este ejemplo muestra la diferencia entre **conservación** y **eficiencia**:
 
 **ID:** `CO-CIE-6-2026-W37-conservacion-energia-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, estudiantes aplican la conservación de energía a la altura.
+**Contexto:** En Bucaramanga, estudiantes aplican la conservación de energía a la altura.
 
 ### Enunciado
 Si dejas caer una piedra desde un edificio de 20 metros (sin considerar la fricción del aire), ¿qué relación hay entre su energía potencial en la cima y su energía cinética justo antes de tocar el suelo?
 
-### Options
+### Opciones
 - [ ] A) La energía potencial es mayor que la cinética <!-- feedback: Toda la Ep se transformó en Ec. -->
 - [ ] B) La energía cinética es mayor que la potencial original <!-- feedback: No puede ser mayor, la energía se conserva. -->
 - [x] C) Son iguales: toda la energía potencial se ha transformado en energía cinética <!-- feedback: Correcto. Ep inicial = Ec final. -->
@@ -214,13 +221,14 @@ La fricción con el aire disipa parte de la energía como calor. Por eso un para
 
 **ID:** `CO-CIE-6-2026-W37-conservacion-energia-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, estudiantes aplican conservación a la energía eléctrica.
+**Contexto:** En Cartagena, estudiantes aplican conservación a la energía eléctrica.
 
 ### Enunciado
 Un panel solar recibe 1,000 J de energía luminosa del sol y produce 200 J de electricidad. ¿Qué ocurre con los 800 J restantes?
 
-### Options
+### Opciones
 - [ ] A) Se pierden en el espacio <!-- feedback: La energía no se pierde, se transforma. -->
 - [ ] B) Se destruyen porque el panel no es perfecto <!-- feedback: La energía no se destruye. -->
 - [x] C) Se reflejan (no son absorbidos por el panel) o se transforman en calor (el panel se calienta) <!-- feedback: Correcto. El panel se calienta y parte de la luz se refleja. -->
@@ -253,13 +261,14 @@ A pesar de la eficiencia moderada, la energía solar es la fuente renovable de m
 
 **ID:** `CO-CIE-6-2026-W37-conservacion-energia-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan la cadena energética (pérdidas en cada transformación).
+**Contexto:** En Pereira, analizan la cadena energética (pérdidas en cada transformación).
 
 ### Enunciado
 En una central termoeléctrica de carbón, desde que se quema el carbón hasta que la electricidad llega a tu casa, ¿qué porcentaje de la energía original del carbón llega realmente a tu bombillo?
 
-### Options
+### Opciones
 - [ ] A) ~90% (casi toda) <!-- feedback: Muy por encima de la realidad. -->
 - [ ] B) ~50% (la mitad) <!-- feedback: Aún muy optimista. -->
 - [x] C) ~30% (aproximadamente un tercio) <!-- feedback: Correcto. Las pérdidas en cada paso reducen la eficiencia total. -->
@@ -300,13 +309,14 @@ Es decir, solo el **3% de la energía del carbón** se convierte en luz útil en
 
 **ID:** `CO-CIE-6-2026-W37-conservacion-energia-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, analizan el concepto de energía degradada.
+**Contexto:** En Manizales, analizan el concepto de energía degradada.
 
 ### Enunciado
 ¿Por qué la energía eléctrica se considera una forma de energía de "alta calidad" mientras que el calor a 30°C es de "baja calidad"?
 
-### Options
+### Opciones
 - [ ] A) Porque la electricidad es más cara que el calor <!-- feedback: El precio refleja la calidad, pero no es la razón principal. -->
 - [ ] B) Porque la electricidad no se puede transformar en otras formas de energía <!-- feedback: La electricidad se puede transformar en casi cualquier otra forma. -->
 - [x] C) Porque la energía eléctrica se puede transformar fácilmente en muchas formas útiles (movimiento, luz, calor, sonido), mientras que el calor a baja temperatura es difícil de aprovechar para realizar trabajo útil <!-- feedback: Correcto. La "calidad" se refiere a la capacidad de realizar trabajo. -->
@@ -338,13 +348,14 @@ La energía se conserva (Primera Ley), pero su calidad disminuye (Segunda Ley). 
 
 **ID:** `CO-CIE-6-2026-W37-conservacion-energia-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan la huella energética del transporte.
+**Contexto:** En Cúcuta, evalúan la huella energética del transporte.
 
 ### Enunciado
 ¿Qué medio de transporte es MÁS eficiente energéticamente por persona y kilómetro recorrido en una ciudad colombiana?
 
-### Options
+### Opciones
 - [ ] A) Automóvil particular con una persona <!-- feedback: Muy ineficiente: ~1.5 MJ/km-persona. -->
 - [ ] B) Taxi con una persona <!-- feedback: Similar al carro particular. -->
 - [x] C) Bicicleta (alimentada por energía humana) <!-- feedback: Correcto. La bicicleta es el medio más eficiente (~0.05 MJ/km-persona). -->
@@ -388,13 +399,14 @@ La energía se conserva (Primera Ley), pero su calidad disminuye (Segunda Ley). 
 
 **ID:** `CO-CIE-6-2026-W37-conservacion-energia-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan la conservación de la energía en el contexto del cambio climático.
+**Contexto:** En Ibagué, evalúan la conservación de la energía en el contexto del cambio climático.
 
 ### Enunciado
 ¿Por qué la quema de combustibles fósiles (carbón, petróleo, gas) contribuye al calentamiento global a pesar de que la energía se conserva?
 
-### Options
+### Opciones
 - [ ] A) Porque la combustión crea nueva energía que calienta el planeta <!-- feedback: La energía no se crea, solo se transforma. -->
 - [ ] B) Porque la combustión libera energía que estuvo almacenada por millones de años, añadiendo calor adicional al sistema climático que antes no estaba allí <!-- feedback: Correcto pero incompleto. -->
 - [x] C) Por dos razones: (1) la combustión libera CO₂ que atrapa el calor terrestre (efecto invernadero), y (2) la energía química almacenada durante millones de años se libera como calor que calienta el planeta <!-- feedback: Correcto. El CO₂ y el calor directo contribuyen. -->

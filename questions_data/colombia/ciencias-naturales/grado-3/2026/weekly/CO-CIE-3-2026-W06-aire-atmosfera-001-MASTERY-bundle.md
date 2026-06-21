@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W06-aire-atmosfera-001-MASTERY"
+id: "CO-CIE-3-2026-W06-aire-atmosfera-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "aire-atmosfera"
-semana: "W06"
+week: "W06"
 periodo: 1
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "El aire como recurso natural, composición de la atmósfera e 
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # El Aire y la Atmósfera
 
 Este bundle explora qué es el aire, cómo rodea nuestro planeta en forma de atmósfera y por qué es indispensable para que los seres vivos podamos respirar y existir.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W06-aire-atmosfera-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Mirando hacia el cielo en un día despejado, nos damos cuenta de que la Tierra está envuelta en una capa de gases.
+**Contexto:** Mirando hacia el cielo en un día despejado, nos damos cuenta de que la Tierra está envuelta en una capa de gases.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ La atmósfera es fundamental para la vida. Funciona como un escudo que nos prote
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W06-aire-atmosfera-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Aunque no podemos ver el aire, sabemos que es una mezcla de varios gases invisibles.
+**Contexto:** Aunque no podemos ver el aire, sabemos que es una mezcla de varios gases invisibles.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -73,12 +77,12 @@ El aire que respiramos es una mezcla. Aproximadamente el 21% de esa mezcla es ox
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W06-aire-atmosfera-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Las plantas realizan un proceso asombroso durante el día mientras reciben la luz del sol.
+**Contexto:** Las plantas realizan un proceso asombroso durante el día mientras reciben la luz del sol.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ Las plantas son las mejores amigas del aire. Gracias a ellas, los niveles de di�
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W06-aire-atmosfera-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Un niño nota que cuando corre muy rápido contra el viento, siente una fuerza que lo empuja hacia atrás.
+**Contexto:** Un niño nota que cuando corre muy rápido contra el viento, siente una fuerza que lo empuja hacia atrás.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -123,12 +127,12 @@ A veces olvidamos que el aire "está ahí" porque es invisible. Pero al ser mate
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W06-aire-atmosfera-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Si inflamos un globo y luego lo soltamos sin amarrar, el globo sale volando por toda la habitación.
+**Contexto:** Si inflamos un globo y luego lo soltamos sin amarrar, el globo sale volando por toda la habitación.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -148,12 +152,12 @@ Los gases tienen la propiedad de ocupar todo el espacio disponible. Al soplar de
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W06-aire-atmosfera-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Unos escaladores suben a una montaña muy alta en los Andes y notan que les cuesta más trabajo respirar a medida que suben.
+**Contexto:** Unos escaladores suben a una montaña muy alta en los Andes y notan que les cuesta más trabajo respirar a medida que suben.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -173,12 +177,12 @@ La gravedad de la Tierra atrae al aire hacia abajo. Por eso, la mayor parte del 
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W06-aire-atmosfera-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** En una ciudad con muchas fábricas y carros, se ve una capa gris sobre los edificios y a las personas les arden los ojos.
+**Contexto:** En una ciudad con muchas fábricas y carros, se ve una capa gris sobre los edificios y a las personas les arden los ojos.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -198,12 +202,12 @@ La contaminación del aire es un problema grave. Al quemar combustibles como gas
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W06-aire-atmosfera-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un paracaidista salta de un avión y abre su paracaídas para caer lentamente hacia la tierra.
+**Contexto:** Un paracaidista salta de un avión y abre su paracaídas para caer lentamente hacia la tierra.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -223,12 +227,12 @@ Aunque el aire sea invisible, es un fluido. Cualquier objeto que se mueva a trav
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W06-aire-atmosfera-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** La capa de ozono es una parte muy especial de nuestra atmósfera.
+**Contexto:** La capa de ozono es una parte muy especial de nuestra atmósfera.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -248,12 +252,12 @@ La atmósfera tiene diferentes niveles. El ozono se encuentra en la estratosfera
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W06-aire-atmosfera-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Imagina un planeta que tiene suelo y agua, pero no tiene atmósfera (aire).
+**Contexto:** Imagina un planeta que tiene suelo y agua, pero no tiene atmósfera (aire).
 **Expected_Success:** 0.55
 
 ### Enunciado

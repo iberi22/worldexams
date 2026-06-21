@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-11-2026-W14-textos-academicos-y-cientificos-001-MASTERY"
+id: "CO-LEC-11-2026-W14-textos-academicos-y-cientificos-001-MASTERY-bundle"
 country: "colombia"
 grado: 11
 asignatura: "lectura-critica"
 tema: "textos-academicos-y-cientificos"
-semana: 14
+week: "W14"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,15 +16,20 @@ rubric_baseline: "textos academicos, textos cientificos, articulo de investigaci
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Académicos y Científicos — Grado 11
 ## Semana W14
 
-## Pregunta 1 [D2]
+## Question 1 [D2]
 
 **ID:** `CO-LEC-11-2026-W14-textos-academicos-y-cientificos-001-MASTERY-v1`  
 **Bloom:** Understand  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -33,10 +38,10 @@ Colombia debe ratificar Escazú porque fortalece participación, protege defenso
 
 ### Opciones
 
-- [ ] A) De autoridad
-- [x] B) Basados en consecuencias positivas
-- [ ] C) Emocionales
-- [ ] D) Por analogía
+- [ ] A) De autoridad <!-- feedback: Incorrecto. De autoridad -->
+- [x] B) Basados en consecuencias positivas <!-- feedback: Correcto! Basados en consecuencias positivas -->
+- [ ] C) Emocionales <!-- feedback: Incorrecto. Emocionales -->
+- [ ] D) Por analogía <!-- feedback: Incorrecto. Por analogía -->
 
 ### Explicación Pedagógica
 
@@ -44,10 +49,11 @@ Presenta consecuencias deseables para justificar la ratificación.
 
 ---
 
-## Pregunta 2 [D2]
+## Question 2 [D2]
 
 **ID:** `CO-LEC-11-2026-W14-textos-academicos-y-cientificos-001-MASTERY-v2`  
 **Bloom:** Apply  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -56,10 +62,10 @@ Un estudiante defiende: «Regular redes sociales para proteger menores». ¿Cuá
 
 ### Opciones
 
-- [ ] A) 'Son adictivas'
-- [x] B) 72 % de menores reportó ciberacoso (Defensoría)
-- [ ] C) 'Todos deberían'
-- [ ] D) 'Mis amigos piensan'
+- [ ] A) 'Son adictivas' <!-- feedback: Incorrecto. 'Son adictivas' -->
+- [x] B) 72 % de menores reportó ciberacoso (Defensoría) <!-- feedback: Correcto! 72 % de menores reportó ciberacoso (Defensoría) -->
+- [ ] C) 'Todos deberían' <!-- feedback: Incorrecto. 'Todos deberían' -->
+- [ ] D) 'Mis amigos piensan' <!-- feedback: Incorrecto. 'Mis amigos piensan' -->
 
 ### Explicación Pedagógica
 
@@ -67,10 +73,11 @@ Dato cuantitativo verificable de fuente confiable que respalda la tesis.
 
 ---
 
-## Pregunta 3 [D3]
+## Question 3 [D3]
 
 **ID:** `CO-LEC-11-2026-W14-textos-academicos-y-cientificos-001-MASTERY-v3`  
 **Bloom:** Analyze  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -79,10 +86,10 @@ Dato cuantitativo verificable de fuente confiable que respalda la tesis.
 
 ### Opciones
 
-- [ ] A) Ad hominem
-- [x] B) Apelación a la autoridad
-- [ ] C) Falso dilema
-- [ ] D) Generalización apresurada
+- [ ] A) Ad hominem <!-- feedback: Incorrecto. Ad hominem -->
+- [x] B) Apelación a la autoridad <!-- feedback: Correcto! Apelación a la autoridad -->
+- [ ] C) Falso dilema <!-- feedback: Incorrecto. Falso dilema -->
+- [ ] D) Generalización apresurada <!-- feedback: Incorrecto. Generalización apresurada -->
 
 ### Explicación Pedagógica
 
@@ -90,10 +97,11 @@ Usa el cargo del ministro como única razón, sin examinar el contenido de la re
 
 ---
 
-## Pregunta 4 [D3]
+## Question 4 [D3]
 
 **ID:** `CO-LEC-11-2026-W14-textos-academicos-y-cientificos-001-MASTERY-v4`  
 **Bloom:** Analyze  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -102,10 +110,10 @@ Usa el cargo del ministro como única razón, sin examinar el contenido de la re
 
 ### Opciones
 
-- [ ] A) Falso dilema
-- [x] B) Pendiente resbaladiza
-- [ ] C) Petición de principio
-- [ ] D) Hombre de paja
+- [ ] A) Falso dilema <!-- feedback: Incorrecto. Falso dilema -->
+- [x] B) Pendiente resbaladiza <!-- feedback: Correcto! Pendiente resbaladiza -->
+- [ ] C) Petición de principio <!-- feedback: Incorrecto. Petición de principio -->
+- [ ] D) Hombre de paja <!-- feedback: Incorrecto. Hombre de paja -->
 
 ### Explicación Pedagógica
 
@@ -113,10 +121,11 @@ Asume una cadena inevitable sin evidencia de que esa progresión ocurrirá.
 
 ---
 
-## Pregunta 5 [D3]
+## Question 5 [D3]
 
 **ID:** `CO-LEC-11-2026-W14-textos-academicos-y-cientificos-001-MASTERY-v5`  
 **Bloom:** Analyze  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -125,10 +134,10 @@ Asume una cadena inevitable sin evidencia de que esa progresión ocurrirá.
 
 ### Opciones
 
-- [x] A) Ad antiquitatem
-- [ ] B) Ad populum
-- [ ] C) Circularidad
-- [ ] D) Anécdota
+- [x] A) Ad antiquitatem <!-- feedback: Correcto! Ad antiquitatem -->
+- [ ] B) Ad populum <!-- feedback: Incorrecto. Ad populum -->
+- [ ] C) Circularidad <!-- feedback: Incorrecto. Circularidad -->
+- [ ] D) Anécdota <!-- feedback: Incorrecto. Anécdota -->
 
 ### Explicación Pedagógica
 
@@ -136,10 +145,11 @@ Falacia de apelación a la tradición: la antigüedad no garantiza validez.
 
 ---
 
-## Pregunta 6 [D3]
+## Question 6 [D3]
 
 **ID:** `CO-LEC-11-2026-W14-textos-academicos-y-cientificos-001-MASTERY-v6`  
 **Bloom:** Evaluate  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -148,10 +158,10 @@ Falacia de apelación a la tradición: la antigüedad no garantiza validez.
 
 ### Opciones
 
-- [x] A) Débil: ignora diferencias estructurales
-- [ ] B) Sólido: ejemplos internacionales válidos
-- [ ] C) Débil: Islandia no existe
-- [ ] D) Sólido: único indicador relevante
+- [x] A) Débil: ignora diferencias estructurales <!-- feedback: Correcto! Débil: ignora diferencias estructurales -->
+- [ ] B) Sólido: ejemplos internacionales válidos <!-- feedback: Incorrecto. Sólido: ejemplos internacionales válidos -->
+- [ ] C) Débil: Islandia no existe <!-- feedback: Incorrecto. Débil: Islandia no existe -->
+- [ ] D) Sólido: único indicador relevante <!-- feedback: Incorrecto. Sólido: único indicador relevante -->
 
 ### Explicación Pedagógica
 
@@ -159,10 +169,11 @@ Ignora diferencias de informalidad laboral y productividad base colombiana.
 
 ---
 
-## Pregunta 7 [D3]
+## Question 7 [D3]
 
 **ID:** `CO-LEC-11-2026-W14-textos-academicos-y-cientificos-001-MASTERY-v7`  
 **Bloom:** Evaluate  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -171,10 +182,10 @@ Artículo sobre posconflicto: datos JEP + testimonios + cifras + opinión del au
 
 ### Opciones
 
-- [ ] A) Datos de la JEP
-- [ ] B) Testimonios
-- [ ] C) Cifras de reincorporación
-- [x] D) Opinión del autor
+- [ ] A) Datos de la JEP <!-- feedback: Incorrecto. Datos de la JEP -->
+- [ ] B) Testimonios <!-- feedback: Incorrecto. Testimonios -->
+- [ ] C) Cifras de reincorporación <!-- feedback: Incorrecto. Cifras de reincorporación -->
+- [x] D) Opinión del autor <!-- feedback: Correcto! Opinión del autor -->
 
 ### Explicación Pedagógica
 
@@ -182,10 +193,11 @@ La opinión del autor mezclada con datos sesga el análisis si se pretende impar
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 
 **ID:** `CO-LEC-11-2026-W14-textos-academicos-y-cientificos-001-MASTERY-v8`  
 **Bloom:** Remember  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -194,10 +206,10 @@ En un texto argumentativo, la tesis es:
 
 ### Opciones
 
-- [ ] A) La historia personal del autor
-- [x] B) La idea principal que se defiende
-- [ ] C) El resumen
-- [ ] D) Las fuentes
+- [ ] A) La historia personal del autor <!-- feedback: Incorrecto. La historia personal del autor -->
+- [x] B) La idea principal que se defiende <!-- feedback: Correcto! La idea principal que se defiende -->
+- [ ] C) El resumen <!-- feedback: Incorrecto. El resumen -->
+- [ ] D) Las fuentes <!-- feedback: Incorrecto. Las fuentes -->
 
 ### Explicación Pedagógica
 
@@ -205,10 +217,11 @@ La tesis es la postura central que el autor defiende mediante argumentos.
 
 ---
 
-## Pregunta 9 [D1]
+## Question 9 [D1]
 
 **ID:** `CO-LEC-11-2026-W14-textos-academicos-y-cientificos-001-MASTERY-v9`  
 **Bloom:** Remember  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -217,10 +230,10 @@ Todo ciudadano tiene derecho a la salud. María es ciudadana. Luego, María tien
 
 ### Opciones
 
-- [ ] A) Inductivo
-- [x] B) Deductivo válido
-- [ ] C) Falaz
-- [ ] D) Abductivo
+- [ ] A) Inductivo <!-- feedback: Incorrecto. Inductivo -->
+- [x] B) Deductivo válido <!-- feedback: Correcto! Deductivo válido -->
+- [ ] C) Falaz <!-- feedback: Incorrecto. Falaz -->
+- [ ] D) Abductivo <!-- feedback: Incorrecto. Abductivo -->
 
 ### Explicación Pedagógica
 
@@ -228,10 +241,11 @@ Silogismo deductivo: premisa universal + particular → conclusión necesaria.
 
 ---
 
-## Pregunta 10 [D2]
+## Question 10 [D2]
 
 **ID:** `CO-LEC-11-2026-W14-textos-academicos-y-cientificos-001-MASTERY-v10`  
 **Bloom:** Understand  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -240,10 +254,10 @@ Ampliar licencia de paternidad a 8 semanas fortalecería la corresponsabilidad y
 
 ### Opciones
 
-- [ ] A) Debe reducirse la licencia
-- [x] B) La ampliación es positiva por sus efectos sociales
-- [ ] C) Colombia tiene desigualdad
-- [ ] D) El cuidado debe ser materno
+- [ ] A) Debe reducirse la licencia <!-- feedback: Incorrecto. Debe reducirse la licencia -->
+- [x] B) La ampliación es positiva por sus efectos sociales <!-- feedback: Correcto! La ampliación es positiva por sus efectos sociales -->
+- [ ] C) Colombia tiene desigualdad <!-- feedback: Incorrecto. Colombia tiene desigualdad -->
+- [ ] D) El cuidado debe ser materno <!-- feedback: Incorrecto. El cuidado debe ser materno -->
 
 ### Explicación Pedagógica
 

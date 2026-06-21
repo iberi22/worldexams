@@ -1,5 +1,5 @@
 ---
-id: "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY"
+id: "CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "lectura-critica"
@@ -19,7 +19,12 @@ rubric_baseline: "Literatura latinoamericana, ensayo crítico, análisis de disc
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Literatura Latinoamericana, Ensayo Crítico y Discurso Político
 
@@ -31,13 +36,14 @@ Este bundle cubre la literatura latinoamericana (realismo mágico, cuento contem
 
 **ID:** `CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En clase de literatura en Bogotá, el profesor pregunta sobre Gabriel García Márquez.
+**Contexto:** En clase de literatura en Bogotá, el profesor pregunta sobre Gabriel García Márquez.
 
 ### Enunciado
 ¿Cuál de las siguientes obras fue escrita por Gabriel García Márquez?
 
-### Options
+### Opciones
 - [ ] A) "La vorágine". <!-- feedback: Incorrect. Es de José Eustasio Rivera. -->
 - [ ] B) "María". <!-- feedback: Incorrect. Es de Jorge Isaacs. -->
 - [x] C) "Cien años de soledad". <!-- feedback: Correct. Es la obra maestra de García Márquez, Premio Nobel de Literatura 1982. -->
@@ -52,13 +58,14 @@ Gabriel García Márquez (1927-2014) es el escritor colombiano más famoso, gana
 
 **ID:** `CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** Un estudiante en Medellín estudia el género del ensayo.
+**Contexto:** Un estudiante en Medellín estudia el género del ensayo.
 
 ### Enunciado
 ¿Cuál es la característica principal del ensayo como género literario?
 
-### Options
+### Opciones
 - [ ] A) Narra una historia ficticia con personajes. <!-- feedback: Incorrect. Eso es la narrativa. -->
 - [x] B) Expone y reflexiona sobre un tema desde una perspectiva personal y subjetiva. <!-- feedback: Correct. El ensayo es un texto de opinión argumentado. -->
 - [ ] C) Describe un objeto o lugar. <!-- feedback: Incorrect. Eso es la descripción. -->
@@ -73,13 +80,14 @@ El ensayo es un género literario en prosa que aborda un tema desde una perspect
 
 **ID:** `CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En clase de literatura en Cali, se analiza un cuento de Julio Cortázar.
+**Contexto:** En clase de literatura en Cali, se analiza un cuento de Julio Cortázar.
 
 ### Enunciado
 ¿Qué caracteriza al cuento latinoamericano contemporáneo?
 
-### Options
+### Opciones
 - [ ] A) Siempre tiene final feliz. <!-- feedback: Incorrect. No es una regla. -->
 - [ ] B) Usa exclusivamente lenguaje formal. <!-- feedback: Incorrect. Puede usar lenguaje coloquial. -->
 - [x] C) A menudo mezcla lo real con lo fantástico y cuestiona la realidad cotidiana. <!-- feedback: Correct. El cuento latinoamericano contemporáneo explora lo fantástico y lo real. -->
@@ -94,13 +102,14 @@ El cuento latinoamericano del siglo XX (Cortázar, Borges, García Márquez, Qui
 
 **ID:** `CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En Barranquilla, un profesor analiza un discurso político de un candidato a la alcaldía.
+**Contexto:** En Barranquilla, un profesor analiza un discurso político de un candidato a la alcaldía.
 
 ### Enunciado
 ¿Qué propósito tiene el uso de la repetición de frases en un discurso político?
 
-### Options
+### Opciones
 - [ ] A) Mostrar un amplio vocabulario. <!-- feedback: Incorrect. La repetición no muestra vocabulario variado. -->
 - [x] B) Enfatizar una idea y hacerla memorable para la audiencia. <!-- feedback: Correct. La repetición (anáfora) es un recurso retórico de énfasis. -->
 - [ ] C) Confundir al público. <!-- feedback: Incorrect. Busca claridad, no confusión. -->
@@ -115,13 +124,14 @@ La repetición retórica (como la anáfora: "Sí se puede, sí se puede, sí se 
 
 **ID:** `CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En un taller de escritura en Bucaramanga, un estudiante escribe un ensayo crítico sobre la desigualdad en Colombia.
+**Contexto:** En un taller de escritura en Bucaramanga, un estudiante escribe un ensayo crítico sobre la desigualdad en Colombia.
 
 ### Enunciado
 ¿Cuál de las siguientes afirmaciones sería apropiada para la introducción de un ensayo crítico sobre la desigualdad en Colombia?
 
-### Options
+### Opciones
 - [ ] A) "La desigualdad en Colombia es un tema que existe." <!-- feedback: Incorrect. Es demasiado vaga. -->
 - [ ] B) "Colombia tiene 48 millones de habitantes según el DANE." <!-- feedback: Incorrect. Es un dato sin tesis. -->
 - [x] C) "La desigualdad en Colombia no es solo económica, sino también racial y territorial, y requiere soluciones estructurales." <!-- feedback: Correct. Presenta una tesis clara y debatible. -->
@@ -136,13 +146,14 @@ La introducción de un ensayo debe presentar el tema, contextualizarlo y, sobre 
 
 **ID:** `CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En clase de literatura en Pereira, se analiza el realismo mágico en "Cien años de soledad".
+**Contexto:** En clase de literatura en Pereira, se analiza el realismo mágico en "Cien años de soledad".
 
 ### Enunciado
 ¿Cuál de las siguientes situaciones es un ejemplo de realismo mágico?
 
-### Options
+### Opciones
 - [ ] A) Un personaje vuela en avión. <!-- feedback: Incorrect. Eso es real, no mágico. -->
 - [ ] B) Un personaje muere al final de la historia. <!-- feedback: Incorrect. Eso es realista. -->
 - [x] C) Un personaje sube al cielo en cuerpo y alma mientras tiende la ropa. <!-- feedback: Correct. El realismo mágico presenta lo extraordinario como natural. -->
@@ -157,13 +168,14 @@ El realismo mágico, característico de la literatura latinoamericana (García M
 
 **ID:** `CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un profesor explica la diferencia entre el cuento y la novela.
+**Contexto:** Un profesor explica la diferencia entre el cuento y la novela.
 
 ### Enunciado
 ¿Cuál es una diferencia fundamental entre el cuento y la novela?
 
-### Options
+### Opciones
 - [ ] A) El cuento tiene personajes, la novela no. <!-- feedback: Incorrect. Ambos tienen personajes. -->
 - [ ] B) La novela siempre es de ficción, el cuento siempre es real. <!-- feedback: Incorrect. Ambos pueden ser ficción o realidad. -->
 - [x] C) El cuento tiene una estructura más breve y concentrada; la novela permite desarrollar múltiples tramas y personajes. <!-- feedback: Correct. Extensión y complejidad diferencian ambos géneros. -->
@@ -178,13 +190,14 @@ El cuento es una narración breve con pocos personajes y una sola línea argumen
 
 **ID:** `CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se analiza un fragmento del discurso de posesión de Gustavo Petro (2022).
+**Contexto:** Se analiza un fragmento del discurso de posesión de Gustavo Petro (2022).
 
 ### Enunciado
 ¿Qué recurso retórico predomina cuando un presidente dice "Colombia, país de la belleza, país de la sabiduría, país de la esperanza"?
 
-### Options
+### Opciones
 - [ ] A) Ironía. <!-- feedback: Incorrect. No hay indicios de ironía. -->
 - [ ] B) Hipérbole. <!-- feedback: Incorrect. Aunque es enfático, no es tanto exageración como acumulación. -->
 - [x] C) Anáfora (repetición de "país de la" al inicio de cada frase). <!-- feedback: Correct. La anáfora crea ritmo y énfasis. -->
@@ -199,13 +212,14 @@ La anáfora es una figura retórica que consiste en repetir una palabra o frase 
 
 **ID:** `CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se compara un fragmento de "El Llano en llamas" de Juan Rulfo con uno de "La ciudad y los perros" de Mario Vargas Llosa.
+**Contexto:** Se compara un fragmento de "El Llano en llamas" de Juan Rulfo con uno de "La ciudad y los perros" de Mario Vargas Llosa.
 
 ### Enunciado
 ¿Qué diferencia temática principal hay entre estas dos obras?
 
-### Options
+### Opciones
 - [ ] A) Una es poesía, la otra es prosa. <!-- feedback: Incorrect. Ambas son narrativa. -->
 - [x] B) "El Llano en llamas" aborda la vida rural y la violencia en el campo mexicano; "La ciudad y los perros" aborda la vida urbana y la violencia en un colegio militar peruano. <!-- feedback: Correct. Rulfo es rural, Vargas Llosa es urbano. -->
 - [ ] C) Ambas tratan exactamente el mismo tema. <!-- feedback: Incorrect. Tienen contextos diferentes. -->
@@ -220,13 +234,14 @@ La literatura latinoamericana es diversa: Rulfo (México) explora el mundo rural
 
 **ID:** `CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** Un estudiante en Cartagena debe escribir un ensayo crítico sobre una canción de vallenato.
+**Contexto:** Un estudiante en Cartagena debe escribir un ensayo crítico sobre una canción de vallenato.
 
 ### Enunciado
 ¿Cuál sería el primer paso para escribir un ensayo crítico sobre una canción?
 
-### Options
+### Opciones
 - [ ] A) Escribir la conclusión. <!-- feedback: Incorrect. La conclusión va al final. -->
 - [ ] B) Copiar la letra de la canción. <!-- feedback: Incorrect. No es un análisis. -->
 - [x] C) Escuchar la canción, identificar su tema, contexto y recursos literarios. <!-- feedback: Correct. El análisis parte de la observación detallada. -->
@@ -241,13 +256,14 @@ Para escribir un ensayo crítico, primero se debe analizar el objeto de estudio:
 
 **ID:** `CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante afirma: "La literatura latinoamericana solo habla de realismo mágico."
+**Contexto:** Un estudiante afirma: "La literatura latinoamericana solo habla de realismo mágico."
 
 ### Enunciado
 ¿Es correcta esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Sí, toda la literatura latinoamericana es realismo mágico. <!-- feedback: Incorrect. Es una generalización falsa. -->
 - [ ] B) No, la literatura latinoamericana solo habla de política. <!-- feedback: Incorrect. También es una generalización. -->
 - [x] C) No. La literatura latinoamericana es muy diversa: incluye realismo mágico (García Márquez), realismo social (Vargas Llosa), poesía (Neruda, Paz), ensayo, teatro, etc. <!-- feedback: Correct. Hay múltiples corrientes y géneros. -->
@@ -262,13 +278,14 @@ La literatura latinoamericana es enormemente diversa: incluye realismo mágico, 
 
 **ID:** `CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v12`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se analiza un discurso del presidente Juan Manuel Santos en la firma del Acuerdo de Paz (2016).
+**Contexto:** Se analiza un discurso del presidente Juan Manuel Santos en la firma del Acuerdo de Paz (2016).
 
 ### Enunciado
 ¿Cuál era el propósito retórico principal de este discurso?
 
-### Options
+### Opciones
 - [ ] A) Informar sobre los detalles técnicos del acuerdo. <!-- feedback: Incorrect. El propósito era más persuasivo que informativo. -->
 - [x] B) Unir a los colombianos en torno a la paz y presentar el acuerdo como un logro histórico. <!-- feedback: Correct. El discurso buscaba legitimar y celebrar el acuerdo. -->
 - [ ] C) Criticar a la oposición. <!-- feedback: Incorrect. Un discurso de firma busca unidad, no confrontación. -->
@@ -283,13 +300,14 @@ Los discursos políticos en momentos históricos (firma de acuerdos, posesiones,
 
 **ID:** `CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v13`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se comparan dos ensayos: uno de Germán Arciniegas sobre la identidad colombiana y otro contemporáneo sobre la identidad en la era digital.
+**Contexto:** Se comparan dos ensayos: uno de Germán Arciniegas sobre la identidad colombiana y otro contemporáneo sobre la identidad en la era digital.
 
 ### Enunciado
 ¿Qué diferencia estructural hay entre el ensayo clásico y el ensayo contemporáneo en blogs/redes?
 
-### Options
+### Opciones
 - [ ] A) El ensayo clásico no tiene introducción. <!-- feedback: Incorrect. Sí tiene. -->
 - [ ] B) El ensayo contemporáneo es más extenso. <!-- feedback: Incorrect. Suele ser más breve. -->
 - [x] C) El ensayo clásico suele ser más extenso, con estructura formal y lenguaje académico; el contemporáneo en blogs es más breve, directo y con lenguaje coloquial. <!-- feedback: Correct. El formato cambia según el medio. -->
@@ -304,13 +322,14 @@ El ensayo ha evolucionado con los medios: el ensayo académico o literario clás
 
 **ID:** `CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante dice: "Leer literatura latinoamericana no sirve para nada porque son puras historias inventadas."
+**Contexto:** Un estudiante dice: "Leer literatura latinoamericana no sirve para nada porque son puras historias inventadas."
 
 ### Enunciado
 ¿Es correcta esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Sí, la literatura es solo entretenimiento. <!-- feedback: Incorrect. La literatura tiene múltiples funciones. -->
 - [ ] B) No, la literatura latinoamericana solo es útil para escritores. <!-- feedback: Incorrect. Es útil para todos. -->
 - [x] C) No. La literatura latinoamericana permite entender la historia, la cultura, las problemáticas sociales y la identidad de la región, además de desarrollar empatía y pensamiento crítico. <!-- feedback: Correct. La literatura es una ventana a la realidad social. -->
@@ -325,13 +344,14 @@ La literatura no solo entretiene: permite explorar la condición humana, conocer
 
 **ID:** `CO-LECTURA-8-2026-P3-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Reflexivo
-**Context:** Un crítico literario afirma: "La literatura latinoamericana del siglo XX fue una forma de resistencia política y cultural frente al colonialismo y el imperialismo."
+**Contexto:** Un crítico literario afirma: "La literatura latinoamericana del siglo XX fue una forma de resistencia política y cultural frente al colonialismo y el imperialismo."
 
 ### Enunciado
 ¿Qué evidencia apoya esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Los escritores latinoamericanos escribían solo para divertir. <!-- feedback: Incorrect. Muchos tenían un compromiso político. -->
 - [ ] B) No hay relación entre literatura y política. <!-- feedback: Incorrect. La literatura siempre está en contexto. -->
 - [x] C) Autores como Gabriel García Márquez, Mario Vargas Llosa y Pablo Neruda usaron sus obras para denunciar dictaduras, desigualdad y dependencia económica, posicionando la voz latinoamericana en el mundo. <!-- feedback: Correct. La literatura latinoamericana tuvo un fuerte componente de denuncia social y política. -->

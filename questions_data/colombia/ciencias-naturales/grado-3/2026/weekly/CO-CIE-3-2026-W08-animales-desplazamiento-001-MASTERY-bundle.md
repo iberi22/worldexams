@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W08-animales-desplazamiento-001-MASTERY"
+id: "CO-CIE-3-2026-W08-animales-desplazamiento-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "animales-desplazamiento"
-semana: "W08"
+week: "W08"
 periodo: 1
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Desplazamiento animal: caminar, correr, nadar, volar y reptar.
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # ¿Cómo se mueven los animales?
 
 Este bundle explora las diversas formas en que los animales se trasladan de un lugar a otro y cómo sus extremidades están adaptadas al medio en el que viven.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W08-animales-desplazamiento-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una expedición por el río Magdalena, los niños ven peces que se mueven rápido usando sus aletas.
+**Contexto:** En una expedición por el río Magdalena, los niños ven peces que se mueven rápido usando sus aletas.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ Nadar es la adaptación fundamental para la vida acuática. Los animales que nad
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W08-animales-desplazamiento-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una serpiente se mueve por el pasto de una finca sin tener ninguna pata, usando solamente los músculos de su cuerpo.
+**Contexto:** Una serpiente se mueve por el pasto de una finca sin tener ninguna pata, usando solamente los músculos de su cuerpo.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -73,12 +77,12 @@ Los animales que reptan no tienen patas o las tienen muy cortas. Su movimiento s
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W08-animales-desplazamiento-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un cóndor de los Andes extiende sus alas gigantescas para aprovechar las corrientes de aire en las montañas colombianas.
+**Contexto:** Un cóndor de los Andes extiende sus alas gigantescas para aprovechar las corrientes de aire en las montañas colombianas.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -98,12 +102,12 @@ Volar es la forma de desplazamiento que requiere más energía. Las alas de las 
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W08-animales-desplazamiento-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Un sapo tiene las patas traseras mucho más largas y fuertes que las de adelante.
+**Contexto:** Un sapo tiene las patas traseras mucho más largas y fuertes que las de adelante.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -123,12 +127,12 @@ El salto es una forma de desplazamiento muy eficiente para distancias cortas. Lo
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W08-animales-desplazamiento-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un perro, un guepardo y un caballo son excelentes corredores en tierra firme.
+**Contexto:** Un perro, un guepardo y un caballo son excelentes corredores en tierra firme.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -148,12 +152,12 @@ Correr es la adaptación para el desplazamiento en espacios abiertos. Los animal
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W08-animales-desplazamiento-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un pato puede caminar en la orilla del lago, pero también nada muy bien una vez que entra al agua.
+**Contexto:** Un pato puede caminar en la orilla del lago, pero también nada muy bien una vez que entra al agua.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -173,12 +177,12 @@ Las patas palmeadas son una adaptación mixta. Permiten al pato caminar (aunque 
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W08-animales-desplazamiento-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un mono utiliza sus brazos largos y su cola para balancearse entre las ramas de los árboles de la selva.
+**Contexto:** Un mono utiliza sus brazos largos y su cola para balancearse entre las ramas de los árboles de la selva.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -198,12 +202,12 @@ Los animales que viven en los árboles (arbóreos) han desarrollado extremidades
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W08-animales-desplazamiento-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Imagina que un animal terrestre tiene que mudarse a vivir permanentemente dentro de un lago profundo.
+**Contexto:** Imagina que un animal terrestre tiene que mudarse a vivir permanentemente dentro de un lago profundo.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -223,12 +227,12 @@ Este proceso de cambio se llama adaptación evolutiva. A lo largo de miles de a�
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W08-animales-desplazamiento-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un pingüino es un ave, tiene alas, pero no puede volar por el aire; en cambio, vuela "dentro del agua".
+**Contexto:** Un pingüino es un ave, tiene alas, pero no puede volar por el aire; en cambio, vuela "dentro del agua".
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -248,12 +252,12 @@ El pingüino es un ejemplo de ave que cambió su forma de desplazamiento. Sus al
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W08-animales-desplazamiento-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un robot puede caminar como un humano y nadar como un pez si se le cambian las piezas.
+**Contexto:** Un robot puede caminar como un humano y nadar como un pez si se le cambian las piezas.
 **Expected_Success:** 0.60
 
 ### Enunciado

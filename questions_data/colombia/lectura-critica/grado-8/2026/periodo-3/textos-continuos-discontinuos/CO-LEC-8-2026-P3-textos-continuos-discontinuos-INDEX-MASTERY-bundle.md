@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-8-2026-P3-textos-continuos-discontinuos-INDEX-MASTERY"
+id: "CO-LEC-8-2026-P3-textos-continuos-discontinuos-INDEX-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.20"
   simulated_responses: 100
 rubric_baseline: "textos continuos, textos discontinuos, infografía, tabla, gráfica, integración de formatos, comprensión multimodal"
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G8 — Textos Continuos y Discontinuos
 
@@ -56,12 +63,13 @@ CONSUMO DE AGUA POR SECTOR (Colombia, 2025)
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 Según el texto continuo, ¿qué sector consume más agua en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Doméstico. <!-- feedback: Incorrecto. -->
 - [x] B) Agricultura (54%). <!-- feedback: Correcto. -->
 - [ ] C) Industrial. <!-- feedback: Incorrecto. -->
@@ -73,12 +81,13 @@ Identificación de un dato en texto continuo.
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 Según la gráfica, ¿qué porcentaje del agua se usa para uso doméstico?
 
-### Options
+### Opciones
 - [ ] A) 54%. <!-- feedback: Incorrecto. -->
 - [x] B) 28%. <!-- feedback: Correcto. -->
 - [ ] C) 12%. <!-- feedback: Incorrecto. -->
@@ -90,12 +99,13 @@ Identificación de un dato en texto discontinuo (gráfica).
 ## Question 3 [D4 - Integración]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 Según la tabla, ¿qué ciudad tiene el menor consumo de agua por persona?
 
-### Options
+### Opciones
 - [ ] A) Riohacha. <!-- feedback: Incorrecto. -->
 - [x] B) Uribia (La Guajira). <!-- feedback: Correcto. -->
 - [ ] C) Barranquilla. <!-- feedback: Incorrecto. -->
@@ -107,12 +117,13 @@ Extracción de datos de una tabla.
 ## Question 4 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Cuánta agua consume en promedio una persona en Bogotá al día según la tabla?
 
-### Options
+### Opciones
 - [ ] A) 95 litros. <!-- feedback: Incorrecto. -->
 - [x] B) 120 litros. <!-- feedback: Correcto. -->
 - [ ] C) 108 litros. <!-- feedback: Incorrecto. -->
@@ -124,12 +135,13 @@ Identificación de dato en tabla.
 ## Question 5 [D5 - Integración]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué relación hay entre la gráfica y la tabla respecto al consumo doméstico?
 
-### Options
+### Opciones
 - [ ] A) No hay relación. <!-- feedback: Incorrecto. -->
 - [x] B) La gráfica muestra que el 28% del agua es para uso doméstico; la tabla detalla cuánto consume cada ciudad individualmente. <!-- feedback: Correcto. -->
 - [ ] C) La gráfica contradice la tabla. <!-- feedback: Incorrecto. -->
@@ -141,12 +153,13 @@ Comprensión de cómo dos formatos distintos ofrecen información complementaria
 ## Question 6 [D5 - Inferencia]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué diferencia notable observas entre Bogotá y Uribia en la tabla?
 
-### Options
+### Opciones
 - [ ] A) Bogotá tiene menos población. <!-- feedback: Incorrecto. -->
 - [x] B) Bogotá consume 6 veces más agua por persona que Uribia. <!-- feedback: Correcto. -->
 - [ ] C) Uribia consume más agua. <!-- feedback: Incorrecto. -->
@@ -158,12 +171,13 @@ Comparación de datos entre filas de una tabla.
 ## Question 7 [D5 - Inferencia]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué problema social sugiere la diferencia de consumo entre Bogotá y Uribia?
 
-### Options
+### Opciones
 - [ ] A) Que en Bogotá la gente bebe más agua. <!-- feedback: Incorrecto. -->
 - [x] B) Que hay una desigualdad en el acceso al agua entre regiones de Colombia. <!-- feedback: Correcto. -->
 - [ ] C) Que Uribia tiene mejor tecnología. <!-- feedback: Incorrecto. -->
@@ -175,12 +189,13 @@ Inferencia de implicaciones sociales a partir de datos numéricos.
 ## Question 8 [D5 - Integración]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué información de la gráfica complementa la afirmación del texto de que "la agricultura usa la mayor parte del agua"?
 
-### Options
+### Opciones
 - [ ] A) La barra de agricultura mide 54%, confirmando visualmente el dato. <!-- feedback: Correcto. -->
 - [ ] B) La barra de doméstico. <!-- feedback: Incorrecto. -->
 - [ ] C) La barra de otros. <!-- feedback: Incorrecto. -->
@@ -192,12 +207,13 @@ Integración de información textual y visual para confirmar hallazgos.
 ## Question 9 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 Según los datos de la tabla, ¿cuál es el consumo total aproximado de Bogotá por día?
 
-### Options
+### Opciones
 - [ ] A) 120 litros. <!-- feedback: Incorrecto (es por persona). -->
 - [ ] B) 8 millones de litros. <!-- feedback: Incorrecto. -->
 - [x] C) 960 millones de litros (8.000.000 × 120). <!-- feedback: Correcto. -->
@@ -209,12 +225,13 @@ Cálculo e inferencia a partir de dos columnas de la tabla.
 ## Question 10 [D5 - Predicción]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 Según el texto, ¿qué pasará para 2030 si no cambiamos hábitos?
 
-### Options
+### Opciones
 - [ ] A) Nada. <!-- feedback: Incorrecto. -->
 - [x] B) El 70% de la población podría enfrentar estrés hídrico. <!-- feedback: Correcto. -->
 - [ ] C) Todos tendrán más agua. <!-- feedback: Incorrecto. -->
@@ -226,12 +243,13 @@ Identificación de una proyección en el texto continuo.
 ## Question 11 [D5 - Comparación de formatos]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué ventaja tiene la gráfica sobre el texto continuo?
 
-### Options
+### Opciones
 - [ ] A) Tiene más información. <!-- feedback: Incorrecto. -->
 - [x] B) Permite ver las proporciones de un solo vistazo, de manera visual e inmediata. <!-- feedback: Correcto. -->
 - [ ] C) Es más precisa. <!-- feedback: Incorrecto. -->
@@ -243,12 +261,13 @@ Comparación de las ventajas de cada formato textual.
 ## Question 12 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué ventaja tiene el texto continuo sobre la gráfica?
 
-### Options
+### Opciones
 - [ ] A) Es más corto. <!-- feedback: Incorrecto. -->
 - [x] B) Permite explicar causas, proyecciones y contexto que la gráfica no puede mostrar. <!-- feedback: Correcto. -->
 - [ ] C) Es más colorido. <!-- feedback: Incorrecto. -->
@@ -260,12 +279,13 @@ Identificación de las fortalezas de cada formato.
 ## Question 13 [D6 - Evaluación]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Por qué es útil combinar textos continuos y discontinuos?
 
-### Options
+### Opciones
 - [ ] A) Porque ocupan más espacio. <!-- feedback: Incorrecto. -->
 - [x] B) Porque ofrecen información complementaria: el texto explica el contexto y las causas, la gráfica/tabla muestra los datos visualmente. <!-- feedback: Correcto. -->
 - [ ] C) Porque confunden al lector. <!-- feedback: Incorrecto. -->
@@ -277,12 +297,13 @@ Reflexión sobre la complementariedad de formatos en la comunicación multimodal
 ## Question 14 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Cuál de los formatos presentados dirías que es un texto discontinuo?
 
-### Options
+### Opciones
 - [ ] A) El primer párrafo. <!-- feedback: Incorrecto. -->
 - [x] B) La gráfica de consumo y la tabla de ciudades. <!-- feedback: Correcto. -->
 - [ ] C) El título. <!-- feedback: Incorrecto. -->
@@ -294,12 +315,13 @@ Clasificación correcta entre texto continuo y discontinuo.
 ## Question 15 [D6]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Qué conclusión general puedes extraer combinando toda la información?
 
-### Options
+### Opciones
 - [ ] A) Colombia tiene mucha agua y no hay problemas. <!-- feedback: Incorrecto. -->
 - [ ] B) Solo la agricultura tiene problemas de agua. <!-- feedback: Incorrecto. -->
 - [x] C) Aunque Colombia tiene abundancia de agua, hay graves desigualdades en el acceso y el riesgo de estrés hídrico futuro es real. <!-- feedback: Correcto. -->

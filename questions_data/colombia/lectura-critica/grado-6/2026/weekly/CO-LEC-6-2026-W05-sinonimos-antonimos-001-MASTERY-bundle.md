@@ -1,28 +1,32 @@
 ---
-id: "CO-LEC-6-2026-W05-sinonimos-antonimos-001-MASTERY"
+id: "CO-LEC-6-2026-W05-sinonimos-antonimos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "sinonimos-antonimos"
-semana: "W05"
+week: "W05"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Sinónimos y Antónimos - Grado 6
 ## Semana W05
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEC-6-2026-W05-sinonimos-antonimos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio Cambridge de Bogotá, la profesora Natalia explica el significado de sinónimos y antónimos.
+**Contexto:** En el Colegio Cambridge de Bogotá, la profesora Natalia explica el significado de sinónimos y antónimos.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Los sinónimos son palabras distintas que comparten un significado similar. Por 
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEC-6-2026-W05-sinonimos-antonimos-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En la I.E. Jorge Eliécer Gaitán de Villavicencio, los estudiantes repasan el concepto de antónimos.
+**Contexto:** En la I.E. Jorge Eliécer Gaitán de Villavicencio, los estudiantes repasan el concepto de antónimos.
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -60,11 +64,11 @@ Los antónimos expresan significados contrarios. Se clasifican en: antónimos gr
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEC-6-2026-W05-sinonimos-antonimos-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** Los estudiantes del Colegio La Salle de Sincelejo deben identificar sinónimos en un texto sobre el Caribe colombiano.
+**Contexto:** Los estudiantes del Colegio La Salle de Sincelejo deben identificar sinónimos en un texto sobre el Caribe colombiano.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ Los sinónimos enriquecen la expresión. En el texto, "amable" y "cordial" cumpl
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEC-6-2026-W05-sinonimos-antonimos-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En la I.E. San José de Ocaña, los estudiantes practican con antónimos en contexto.
+**Contexto:** En la I.E. San José de Ocaña, los estudiantes practican con antónimos en contexto.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -102,11 +106,11 @@ Identificar antónimos requiere comprender el significado exacto de la palabra. 
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEC-6-2026-W05-sinonimos-antonimos-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Andino de Bogotá, los estudiantes analizan el uso de sinónimos para evitar repeticiones.
+**Contexto:** En el Colegio Andino de Bogotá, los estudiantes analizan el uso de sinónimos para evitar repeticiones.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -123,11 +127,11 @@ El texto usa tres palabras diferentes para referirse a la experiencia de visitar
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LEC-6-2026-W05-sinonimos-antonimos-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En la Institución Educativa La Consolata de Manizales, los estudiantes aprenden que no siempre hay sinónimos perfectos.
+**Contexto:** En la Institución Educativa La Consolata de Manizales, los estudiantes aprenden que no siempre hay sinónimos perfectos.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ No todos los sinónimos son intercambiables en cualquier contexto. Existen sinó
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LEC-6-2026-W05-sinonimos-antonimos-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** Los estudiantes del Colegio Mayor de Bucaramanga analizan el uso de antónimos en un texto argumentativo.
+**Contexto:** Los estudiantes del Colegio Mayor de Bucaramanga analizan el uso de antónimos en un texto argumentativo.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Los antónimos pueden ser léxicos (palabras con significado opuesto intrínseco
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEC-6-2026-W05-sinonimos-antonimos-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio La Enseñanza de Cúcuta, los estudiantes trabajan con palabras colombianas y sus sinónimos.
+**Contexto:** En el Colegio La Enseñanza de Cúcuta, los estudiantes trabajan con palabras colombianas y sus sinónimos.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ En Colombia, muchas palabras tienen significados regionales que pueden cambiar s
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEC-6-2026-W05-sinonimos-antonimos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Comprensión de textos
-**Context:** En el Liceo Infantil de Medellín, los estudiantes evalúan opciones de sinónimos en un texto.
+**Contexto:** En el Liceo Infantil de Medellín, los estudiantes evalúan opciones de sinónimos en un texto.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ Elegir el sinónimo adecuado requiere considerar el matiz de significado, el reg
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEC-6-2026-W05-sinonimos-antonimos-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En el Colegio Colombo Sueco de Bogotá, los estudiantes crean un texto usando sinónimos y antónimos.
+**Contexto:** En el Colegio Colombo Sueco de Bogotá, los estudiantes crean un texto usando sinónimos y antónimos.
 **Expected_Success:** 0.48
 
 ### Enunciado

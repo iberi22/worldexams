@@ -1,5 +1,5 @@
 ---
-id: "COL-SOC-CIU-4-2026-W10-capitales-de-departamento-region-andina-001-MASTERY"
+id: "COL-SOC-CIU-4-2026-W10-capitales-de-departamento-region-andina-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Capitales de los departamentos de la región Andina de Colombi
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Capitales de departamento: región Andina
 
@@ -30,15 +35,15 @@ Este bundle enseña las capitales de los departamentos que conforman la región 
 ## Question 1 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W10-capitales-de-departamento-region-andina-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la I.E. San Luis de Manizales preguntan sobre capitales andinas.
+**Contexto:** En la I.E. San Luis de Manizales preguntan sobre capitales andinas.
 
 ### Enunciado
 ¿Cuál es la capital de Antioquia?
 
-### Options
-
+### Opciones
 - [x] A) Medellín. <!-- feedback: Medellín es la capital de Antioquia. -->
 - [ ] B) Bogotá. <!-- feedback: Bogotá es capital de Cundinamarca. -->
 - [ ] C) Cali. <!-- feedback: Cali es capital del Valle del Cauca. -->
@@ -52,15 +57,15 @@ Se evalúa [Remember] con el tema de la pregunta.
 ## Question 2 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W10-capitales-de-departamento-region-andina-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** La profesora pregunta sobre capitales.
+**Contexto:** La profesora pregunta sobre capitales.
 
 ### Enunciado
 ¿Cuál es la capital de Cundinamarca?
 
-### Options
-
+### Opciones
 - [ ] A) Medellín. <!-- feedback: Capital de Antioquia. -->
 - [x] B) Bogotá D.C. <!-- feedback: Bogotá es la capital de Cundinamarca. -->
 - [ ] C) Tunja. <!-- feedback: Capital de Boyacá. -->
@@ -74,15 +79,15 @@ Se evalúa [Remember] con el tema de la pregunta.
 ## Question 3 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W10-capitales-de-departamento-region-andina-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Analizan las capitales andinas.
+**Contexto:** Analizan las capitales andinas.
 
 ### Enunciado
 ¿Cuál de estas NO es capital de un departamento andino?
 
-### Options
-
+### Opciones
 - [ ] A) Ibagué. <!-- feedback: Es capital del Tolima, región Andina. -->
 - [ ] B) Manizales. <!-- feedback: Es capital de Caldas, región Andina. -->
 - [x] C) Barranquilla. <!-- feedback: Barranquilla es capital del Atlántico, región Caribe. -->
@@ -96,15 +101,15 @@ Se evalúa [Understand] con el tema de la pregunta.
 ## Question 4 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W10-capitales-de-departamento-region-andina-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Ubican las capitales en el mapa.
+**Contexto:** Ubican las capitales en el mapa.
 
 ### Enunciado
 ¿Qué departamento tiene como capital a Bucaramanga?
 
-### Options
-
+### Opciones
 - [ ] A) Cesar. <!-- feedback: Valledupar es la capital. -->
 - [ ] B) Norte de Santander. <!-- feedback: Cúcuta es la capital. -->
 - [ ] C) Boyacá. <!-- feedback: Tunja es la capital. -->
@@ -118,15 +123,15 @@ Se evalúa [Understand] con el tema de la pregunta.
 ## Question 5 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W10-capitales-de-departamento-region-andina-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Planean un viaje por las capitales andinas.
+**Contexto:** Planean un viaje por las capitales andinas.
 
 ### Enunciado
 Si viajas de Bogotá a Medellín, ¿en qué dirección te diriges?
 
-### Options
-
+### Opciones
 - [x] A) Hacia el noroccidente. <!-- feedback: Medellín está al noroccidente de Bogotá. -->
 - [ ] B) Hacia el sur. <!-- feedback: Medellín está al norte. -->
 - [ ] C) Hacia el oriente. <!-- feedback: Está al occidente. -->
@@ -140,15 +145,15 @@ Se evalúa [Apply] con el tema de la pregunta.
 ## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W10-capitales-de-departamento-region-andina-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Los estudiantes de Pereira se ubican en el mapa.
+**Contexto:** Los estudiantes de Pereira se ubican en el mapa.
 
 ### Enunciado
 ¿Cuál es la capital de Risaralda?
 
-### Options
-
+### Opciones
 - [ ] A) Manizales. <!-- feedback: Capital de Caldas. -->
 - [x] B) Pereira. <!-- feedback: Pereira es la capital de Risaralda. -->
 - [ ] C) Armenia. <!-- feedback: Capital del Quindío. -->
@@ -162,15 +167,15 @@ Se evalúa [Apply] con el tema de la pregunta.
 ## Question 7 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W10-capitales-de-departamento-region-andina-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Analizan la concentración de capitales en los Andes.
+**Contexto:** Analizan la concentración de capitales en los Andes.
 
 ### Enunciado
 ¿Por qué la mayoría de capitales están en la región Andina?
 
-### Options
-
+### Opciones
 - [ ] A) Porque las otras regiones no tienen ciudades. <!-- feedback: Sí tienen ciudades importantes. -->
 - [ ] B) Por casualidad. <!-- feedback: Hay razones históricas y geográficas. -->
 - [x] C) Porque allí se concentra la mayoría de la población y los departamentos. <!-- feedback: La región Andina tiene 18 de los 32 departamentos. -->
@@ -184,15 +189,15 @@ Se evalúa [Analyze] con el tema de la pregunta.
 ## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W10-capitales-de-departamento-region-andina-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Comparan las capitales andinas con las de otras regiones.
+**Contexto:** Comparan las capitales andinas con las de otras regiones.
 
 ### Enunciado
 ¿Cuántos departamentos tiene la región Andina aproximadamente?
 
-### Options
-
+### Opciones
 - [ ] A) 10 departamentos. <!-- feedback: Tiene más. -->
 - [ ] B) 5 departamentos. <!-- feedback: Tiene muchos más. -->
 - [ ] C) 32 departamentos. <!-- feedback: Ese es el total del país. -->
@@ -206,15 +211,15 @@ Se evalúa [Analyze] con el tema de la pregunta.
 ## Question 9 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W10-capitales-de-departamento-region-andina-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Evalúan la importancia de las capitales andinas.
+**Contexto:** Evalúan la importancia de las capitales andinas.
 
 ### Enunciado
 ¿Por qué ciudades como Bogotá, Medellín y Cali son importantes?
 
-### Options
-
+### Opciones
 - [x] A) Son centros económicos, políticos y culturales del país. <!-- feedback: Son las principales capitales del país. -->
 - [ ] B) Porque tienen los mismos nombre. <!-- feedback: No todas se llaman igual. -->
 - [ ] C) Porque están en el mar. <!-- feedback: Ninguna tiene mar. -->
@@ -229,14 +234,14 @@ Se evalúa [Evaluate] con el tema de la pregunta.
 
 **ID:** `COL-SOC-CIU-4-2026-W10-capitales-de-departamento-region-andina-001-MASTERY-v10`
 **Bloom:** [Create]
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Proponen una ruta educativa por capitales andinas.
+**Contexto:** Proponen una ruta educativa por capitales andinas.
 
 ### Enunciado
 Si diseñas una ruta educativa por capitales andinas, ¿cuál escogerías?
 
-### Options
-
+### Opciones
 - [ ] A) Bogotá - Leticia. <!-- feedback: Leticia no es andina. -->
 - [x] B) Bogotá - Tunja - Bucaramanga por su historia. <!-- feedback: Recorrido por la historia andina. -->
 - [ ] C) Cartagena - Barranquilla. <!-- feedback: Son del Caribe. -->

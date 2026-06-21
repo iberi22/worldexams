@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W04-reproduccion-animal-001-MASTERY"
+id: "CO-CIE-3-2026-W04-reproduccion-animal-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "reproduccion-animal"
-semana: "W04"
+week: "W04"
 periodo: 1
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Reproducción animal: animales ovíparos (huevos) y vivíparos
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # La Reproducción en los Animales
 
 Este bundle explora cómo nacen los animales y las dos formas principales en que traen nuevas crías al mundo: mediante huevos o desde el vientre de la madre.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W04-reproduccion-animal-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una granja en el Meta, los niños ven a una gallina sentada sobre sus huevos para que nazcan los pollitos.
+**Contexto:** En una granja en el Meta, los niños ven a una gallina sentada sobre sus huevos para que nazcan los pollitos.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ La reproducción ovípara es común en aves, reptiles, la mayoría de los peces 
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W04-reproduccion-animal-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una perrita tiene a sus cachorros directamente de su cuerpo y luego les da leche para que crezcan fuertes.
+**Contexto:** Una perrita tiene a sus cachorros directamente de su cuerpo y luego les da leche para que crezcan fuertes.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -73,12 +77,12 @@ Los mamíferos son el grupo principal de animales vivíparos. El desarrollo dent
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W04-reproduccion-animal-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Si observamos un huevo de tortuga marina enterrado en la arena de una playa en el Chocó.
+**Contexto:** Si observamos un huevo de tortuga marina enterrado en la arena de una playa en el Chocó.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -98,12 +102,12 @@ Los animales ovíparos suelen depositar sus huevos en lugares que garanticen su 
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W04-reproduccion-animal-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Tienes los siguientes animales: Vaca, Pájaro carpintero, Ballena, Serpiente.
+**Contexto:** Tienes los siguientes animales: Vaca, Pájaro carpintero, Ballena, Serpiente.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -123,12 +127,12 @@ Es importante no dejarse confundir por el lugar donde viven los animales. Lo que
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W04-reproduccion-animal-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Los animales vivíparos suelen tener menos crías a la vez que los animales ovíparos como los peces, que pueden poner miles de huevos.
+**Contexto:** Los animales vivíparos suelen tener menos crías a la vez que los animales ovíparos como los peces, que pueden poner miles de huevos.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -148,12 +152,12 @@ Esta es una estrategia de supervivencia. Los vivíparos cuidan mucho a sus pocas
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W04-reproduccion-animal-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Una rana pone sus huevos en el agua, de ellos salen renacuajos que no se parecen en nada a sus padres.
+**Contexto:** Una rana pone sus huevos en el agua, de ellos salen renacuajos que no se parecen en nada a sus padres.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -173,12 +177,12 @@ La metamorfosis es asombrosa. Permite que un animal viva en el agua cuando es jo
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W04-reproduccion-animal-001-MASTERY-v7`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Existe un animal muy extraño llamado Ornitorrinco. Tiene pelo, amamanta a sus crías, pero pone huevos.
+**Contexto:** Existe un animal muy extraño llamado Ornitorrinco. Tiene pelo, amamanta a sus crías, pero pone huevos.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -198,12 +202,12 @@ El ornitorrinco es una de las pocas excepciones en el mundo natural. Aunque es u
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W04-reproduccion-animal-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Un biólogo encuentra un nido con huevos de cáscara dura en un lugar seco y soleado.
+**Contexto:** Un biólogo encuentra un nido con huevos de cáscara dura en un lugar seco y soleado.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -223,12 +227,12 @@ La invención del huevo con cáscara dura fue un gran avance para la vida en la 
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W04-reproduccion-animal-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Después de nacer, un ternero puede ponerse de pie y caminar a los pocos minutos, mientras que un bebé humano tarda meses.
+**Contexto:** Después de nacer, un ternero puede ponerse de pie y caminar a los pocos minutos, mientras que un bebé humano tarda meses.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -248,12 +252,12 @@ El nivel de desarrollo al nacer varía según la especie. Los animales que viven
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W04-reproduccion-animal-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una serpiente marina es ovovivípara: los huevos se abren dentro de su cuerpo y las crías salen ya vivas al mar.
+**Contexto:** Una serpiente marina es ovovivípara: los huevos se abren dentro de su cuerpo y las crías salen ya vivas al mar.
 **Expected_Success:** 0.55
 
 ### Enunciado

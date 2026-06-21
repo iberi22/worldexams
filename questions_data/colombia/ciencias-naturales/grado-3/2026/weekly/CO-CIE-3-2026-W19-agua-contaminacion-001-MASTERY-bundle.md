@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W19-agua-contaminacion-001-MASTERY"
+id: "CO-CIE-3-2026-W19-agua-contaminacion-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "agua-contaminacion"
-semana: "W19"
+week: "W19"
 periodo: 2
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Contaminación del agua: causas (basura, químicos, derrames) 
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # La Contaminación del Agua
 
 Este bundle explora cómo las actividades humanas dañan la calidad del agua, afectando la salud de las personas y la vida de los animales que dependen de los ríos y mares.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W19-agua-contaminacion-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Caminando por la orilla de un río cerca de la ciudad, los estudiantes ven botellas de plástico, bolsas y llantas viejas flotando.
+**Contexto:** Caminando por la orilla de un río cerca de la ciudad, los estudiantes ven botellas de plástico, bolsas y llantas viejas flotando.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ La contaminación del agua puede ser visible (como el plástico) o invisible (co
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W19-agua-contaminacion-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Algunas fábricas lanzan líquidos de colores extraños y con olor a gasolina directamente a las quebradas.
+**Contexto:** Algunas fábricas lanzan líquidos de colores extraños y con olor a gasolina directamente a las quebradas.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -73,12 +77,12 @@ Los vertimientos industriales son una de las formas más graves de contaminació
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W19-agua-contaminacion-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el campo, algunos agricultores usan demasiados venenos (pesticidas) para matar bichos en sus cultivos justo antes de que llueva.
+**Contexto:** En el campo, algunos agricultores usan demasiados venenos (pesticidas) para matar bichos en sus cultivos justo antes de que llueva.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ Esta se llama contaminación por escorrentía. Es un problema invisible porque e
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W19-agua-contaminacion-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Un derrame de petróleo ocurre en el océano. El petróleo flota y forma una capa negra y espesa sobre la superficie del mar.
+**Contexto:** Un derrame de petróleo ocurre en el océano. El petróleo flota y forma una capa negra y espesa sobre la superficie del mar.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -123,12 +127,12 @@ Los derrames de petróleo son desastres ecológicos. No solo matan a las aves y 
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W19-agua-contaminacion-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Después de un paseo de olla a un río cristalino, un grupo de personas deja restos de comida, bolsas y botellas en la orilla.
+**Contexto:** Después de un paseo de olla a un río cristalino, un grupo de personas deja restos de comida, bolsas y botellas en la orilla.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -148,12 +152,12 @@ El "paseo de olla" es una tradición colombiana hermosa, pero debe ser responsab
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W19-agua-contaminacion-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** El agua de alcantarilla de las casas (donde va el jabón, el agua del baño y de la cocina) a veces cae directo a los ríos sin ser tratada.
+**Contexto:** El agua de alcantarilla de las casas (donde va el jabón, el agua del baño y de la cocina) a veces cae directo a los ríos sin ser tratada.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -173,12 +177,12 @@ Esto se llama contaminación orgánica. Al haber tanta "comida" (desechos), las 
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W19-agua-contaminacion-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un científico analiza dos muestras de agua. El agua A es transparente pero tiene veneno invisible. El agua B es café porque tiene lodo natural del río.
+**Contexto:** Un científico analiza dos muestras de agua. El agua A es transparente pero tiene veneno invisible. El agua B es café porque tiene lodo natural del río.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -198,12 +202,12 @@ Este es un concepto de seguridad vital. "Si no es potable, no la bebas". Muchas 
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W19-agua-contaminacion-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Imagina que eres el alcalde de un pueblo y quieres evitar que el agua se contamine.
+**Contexto:** Imagina que eres el alcalde de un pueblo y quieres evitar que el agua se contamine.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -223,12 +227,12 @@ Las Plantas de Tratamiento (PTAR) son como los "riñones" de una ciudad. Filtran
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W19-agua-contaminacion-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** El mercurio es un metal líquido que se usa en la minería ilegal y cae a los ríos colombianos.
+**Contexto:** El mercurio es un metal líquido que se usa en la minería ilegal y cae a los ríos colombianos.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -248,12 +252,12 @@ La contaminación es un viaje. Un químico que cae al agua hoy en la montaña, p
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W19-agua-contaminacion-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una persona afirma: "Echar un poco de aceite de cocina por el sifón no le hace daño a nadie, es solo una gotita".
+**Contexto:** Una persona afirma: "Echar un poco de aceite de cocina por el sifón no le hace daño a nadie, es solo una gotita".
 **Expected_Success:** 0.60
 
 ### Enunciado

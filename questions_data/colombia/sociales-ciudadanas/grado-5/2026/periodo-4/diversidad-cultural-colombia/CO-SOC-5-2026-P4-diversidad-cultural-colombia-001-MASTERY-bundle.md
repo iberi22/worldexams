@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-5-2026-P4-diversidad-cultural-colombia-001-MASTERY"
+id: "CO-SOC-5-2026-P4-diversidad-cultural-colombia-001-MASTERY-bundle"
 country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Diversidad cultural colombiana, grupos étnicos, afrocolombianos, indígenas, raizales, ROM, mestizaje, patrimonio cultural, pluriculturalidad"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Diversidad Cultural de Colombia
 
@@ -27,14 +34,15 @@ Este bundle cubre la riqueza cultural de Colombia como país pluriétnico y mult
 ## Question 1 [D3]
 
 **ID:** `CO-SOC-5-2026-P4-diversidad-cultural-colombia-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Normal Superior de Quibdó, la profesora pregunta qué significa que Colombia sea un país pluriétnico.
+**Contexto:** En la clase de sociales de la I.E. Normal Superior de Quibdó, la profesora pregunta qué significa que Colombia sea un país pluriétnico.
 
 ### Enunciado
 La Constitución de 1991 reconoce a Colombia como un país pluriétnico y multicultural. Esto significa que:
 
-### Options
+### Opciones
 - [ ] A) En Colombia solo existe una cultura y un grupo étnico. <!-- feedback: Incorrecto. Colombia es diversa. -->
 - [ ] B) Solo los indígenas tienen derechos culturales. <!-- feedback: Incorrecto. Todos los grupos étnicos tienen derechos. -->
 - [x] C) En Colombia coexisten diferentes grupos étnicos (indígenas, afrocolombianos, raizales, ROM) con sus propias lenguas, costumbres, formas de gobierno y cosmovisiones, y el Estado los respeta y protege. <!-- feedback: Correcto. El reconocimiento pluriétnico significa que el Estado valora y protege la diversidad cultural como patrimonio nacional. -->
@@ -48,14 +56,15 @@ Se evalúa el conocimiento del carácter pluriétnico de Colombia. La respuesta 
 ## Question 2 [D3]
 
 **ID:** `CO-SOC-5-2026-P4-diversidad-cultural-colombia-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. La Presentación de Cartagena, la profesora pregunta cuál es la comunidad afrocolombiana más grande.
+**Contexto:** En la clase de sociales de la I.E. La Presentación de Cartagena, la profesora pregunta cuál es la comunidad afrocolombiana más grande.
 
 ### Enunciado
 Colombia tiene una gran población afrocolombiana, que desciende de los africanos traídos durante la colonia. La mayor concentración de población afrocolombiana se encuentra en:
 
-### Options
+### Opciones
 - [ ] A) La región Andina, especialmente Bogotá. <!-- feedback: Incorrecto. Aunque hay afrocolombianos en Bogotá, la mayor concentración está en otras regiones. -->
 - [ ] B) La región de la Orinoquía y la Amazonía. <!-- feedback: Incorrecto. Allí predominan los indígenas. -->
 - [x] C) Las regiones Pacífica (Chocó, Cauca, Valle, Nariño) y Caribe (Bolívar, Atlántico, Magdalena). <!-- feedback: Correcto. La mayor concentración de población afrocolombiana está en la costa Pacífica (Chocó, Buenaventura, Tumaco) y la costa Caribe (Cartagena, Barranquilla, San Basilio de Palenque). -->
@@ -69,14 +78,15 @@ Se evalúa el conocimiento de la distribución geográfica de la población afro
 ## Question 3 [D4]
 
 **ID:** `CO-SOC-5-2026-P4-diversidad-cultural-colombia-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales de la I.E. San Basilio de Palenque, Bolívar, la profesora explica la historia de San Basilio de Palenque.
+**Contexto:** En la clase de sociales de la I.E. San Basilio de Palenque, Bolívar, la profesora explica la historia de San Basilio de Palenque.
 
 ### Enunciado
 San Basilio de Palenque, en el departamento de Bolívar, es importante culturalmente porque:
 
-### Options
+### Opciones
 - [ ] A) Es el lugar donde nació Simón Bolívar. <!-- feedback: Incorrecto. Simón Bolívar nació en Caracas, Venezuela. -->
 - [ ] B) Es la ciudad más grande de la región Caribe. <!-- feedback: Incorrecto. No es una ciudad grande. -->
 - [x] C) Fue el primer pueblo libre de América fundado por esclavos africanos cimarrones que escaparon de sus amos, y mantienen su lengua (palenquero) y tradiciones vivas. <!-- feedback: Correcto. San Basilio de Palenque fue fundado por esclavos fugados (cimarrones) liderados por Benkos Biojó, y la UNESCO lo declaró Patrimonio Cultural Inmaterial de la Humanidad. -->
@@ -90,14 +100,15 @@ Se evalúa la comprensión de la importancia cultural de San Basilio de Palenque
 ## Question 4 [D4]
 
 **ID:** `CO-SOC-5-2026-P4-diversidad-cultural-colombia-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Liceo de San Andrés, el profesor explica quiénes son los raizales.
+**Contexto:** En la clase de sociales de la I.E. Liceo de San Andrés, el profesor explica quiénes son los raizales.
 
 ### Enunciado
 Los raizales de San Andrés, Providencia y Santa Catalina son un grupo étnico que se caracteriza por:
 
-### Options
+### Opciones
 - [ ] A) Hablar español y bailar bambuco. <!-- feedback: Incorrecto. Esa es una característica de la región Andina. -->
 - [ ] B) Ser indígenas descendientes de los Muiscas. <!-- feedback: Incorrecto. Los raizales no son indígenas. -->
 - [x] C) Ser descendientes de africanos, ingleses y españoles, hablar creole (inglés criollo), practicar la religión bautista y tener una cultura caribeña angloparlante. <!-- feedback: Correcto. Los raizales tienen una identidad cultural única: hablan creole sanandresano, son mayoritariamente protestantes y tienen tradiciones musicales como el calypso. -->
@@ -111,14 +122,15 @@ Se evalúa la comprensión de la cultura raizal. La respuesta correcta describe 
 ## Question 5 [D4]
 
 **ID:** `CO-SOC-5-2026-P4-diversidad-cultural-colombia-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Normal de Riohacha, la profesora habla sobre el pueblo ROM en Colombia.
+**Contexto:** En la clase de sociales de la I.E. Normal de Riohacha, la profesora habla sobre el pueblo ROM en Colombia.
 
 ### Enunciado
 Además de indígenas, afrocolombianos y raizales, en Colombia existe otro grupo étnico reconocido, el pueblo ROM (gitano), que se caracteriza por:
 
-### Options
+### Opciones
 - [ ] A) Vivir siempre en un mismo lugar y tener tierras propias. <!-- feedback: Incorrecto. Los ROM tienen tradición nómada. -->
 - [ ] B) No tener su propia lengua. <!-- feedback: Incorrecto. Hablan el romaní. -->
 - [x] C) Tener una cultura nómada o seminómada, hablar la lengua romaní y conservar tradiciones como la música, la lectura de la mano y un fuerte sentido de familia y comunidad. <!-- feedback: Correcto. El pueblo ROM, reconocido por la Constitución, tiene una cultura nómada, su idioma es el romaní y han contribuido a la diversidad cultural colombiana. -->
@@ -132,14 +144,15 @@ Se evalúa la capacidad de reconocer al pueblo ROM como grupo étnico colombiano
 ## Question 6 [D4]
 
 **ID:** `CO-SOC-5-2026-P4-diversidad-cultural-colombia-001-MASTERY-v6`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales de la I.E. Santa Sofía de Sincelejo, la profesora explica el mestizaje en Colombia.
+**Contexto:** En la clase de sociales de la I.E. Santa Sofía de Sincelejo, la profesora explica el mestizaje en Colombia.
 
 ### Enunciado
 La mayoría de la población colombiana es mestiza. El mestizaje es el resultado de:
 
-### Options
+### Opciones
 - [ ] A) La mezcla exclusiva de españoles e indígenas. <!-- feedback: Incompleto. También hubo mezcla con africanos. -->
 - [ ] B) Personas que vienen de otros planetas. <!-- feedback: Incorrecto. El mestizaje no es extraterrestre. -->
 - [x] C) La mezcla biológica y cultural entre indígenas americanos, europeos (españoles) y africanos a lo largo de más de 500 años. <!-- feedback: Correcto. El mestizaje colombiano es triétnico: indígenas, europeos y africanos se mezclaron para dar origen a la mayoría de la población actual, con diversas combinaciones y grados de mezcla. -->
@@ -153,14 +166,15 @@ Se evalúa la comprensión del origen triétnico del mestizaje colombiano. La re
 ## Question 7 [D4]
 
 **ID:** `CO-SOC-5-2026-P4-diversidad-cultural-colombia-001-MASTERY-v7`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Técnica de Pasto, la profesora pregunta sobre manifestaciones del patrimonio cultural colombiano.
+**Contexto:** En la clase de sociales de la I.E. Técnica de Pasto, la profesora pregunta sobre manifestaciones del patrimonio cultural colombiano.
 
 ### Enunciado
 La UNESCO ha declarado varias manifestaciones culturales colombianas como Patrimonio Cultural Inmaterial de la Humanidad. Un ejemplo es:
 
-### Options
+### Opciones
 - [ ] A) El sistema de buses de TransMilenio. <!-- feedback: Incorrecto. TransMilenio es un sistema de transporte, no patrimonio inmaterial. -->
 - [ ] B) El fútbol colombiano. <!-- feedback: Incorrecto. No está declarado patrimonio por la UNESCO. -->
 - [x] C) El Carnaval de Barranquilla, el Carnaval de Negros y Blancos de Pasto, el espacio cultural de San Basilio de Palenque y las músicas de marimba del Pacífico. <!-- feedback: Correcto. Colombia tiene múltiples declaratorias UNESCO de patrimonio inmaterial, que reconocen la riqueza cultural del país ante el mundo. -->
@@ -174,14 +188,15 @@ Se evalúa la capacidad de identificar manifestaciones del patrimonio cultural. 
 ## Question 8 [D5]
 
 **ID:** `CO-SOC-5-2026-P4-diversidad-cultural-colombia-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En un debate escolar en la I.E. INEM de Cali, los estudiantes discuten por qué es importante respetar la diversidad cultural.
+**Contexto:** En un debate escolar en la I.E. INEM de Cali, los estudiantes discuten por qué es importante respetar la diversidad cultural.
 
 ### Enunciado
 Respetar la diversidad cultural en Colombia es importante porque:
 
-### Options
+### Opciones
 - [ ] A) Todas las culturas deben desaparecer y convertirse en una sola. <!-- feedback: Incorrecto. La diversidad es valiosa. -->
 - [ ] B) La diversidad cultural es un obstáculo para el desarrollo del país. <!-- feedback: Incorrecto. La diversidad enriquece al país. -->
 - [x] C) Cada cultura aporta conocimientos, tradiciones y formas de ver el mundo que enriquecen a toda la sociedad, y el respeto a la diferencia es la base de la convivencia democrática. <!-- feedback: Correcto. La diversidad cultural es una riqueza: aporta diferentes saberes, músicas, gastronomías y perspectivas. Respetarla es un principio democrático y un derecho constitucional. -->
@@ -195,14 +210,15 @@ Se evalúa la capacidad de analizar la importancia del respeto a la diversidad. 
 ## Question 9 [D5]
 
 **ID:** `CO-SOC-5-2026-P4-diversidad-cultural-colombia-001-MASTERY-v9`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. La Salle de Bogotá, la profesora pregunta cómo la música refleja la diversidad cultural.
+**Contexto:** En la clase de sociales de la I.E. La Salle de Bogotá, la profesora pregunta cómo la música refleja la diversidad cultural.
 
 ### Enunciado
 Cada región de Colombia tiene expresiones musicales propias que reflejan su herencia cultural. Relaciona correctamente:
 
-### Options
+### Opciones
 - [ ] A) En la región Andina se toca marimba y currulao. <!-- feedback: Incorrecto. La marimba y el currulao son del Pacífico. -->
 - [ ] B) En la región Caribe se baila bambuco y pasillo. <!-- feedback: Incorrecto. El bambuco y el pasillo son de la región Andina. -->
 - [x] C) En la región Andina se escucha bambuco y pasillo; en el Caribe, cumbia, vallenato y porro; en el Pacífico, currulao y marimba; en los Llanos, joropo; en San Andrés, calypso y reggae. <!-- feedback: Correcto. Cada región tiene géneros musicales que reflejan su historia: la influencia española en el bambuco andino, la mezcla africana e indígena en la cumbia caribeña, la tradición afro en el currulao pacífico, etc. -->
@@ -216,14 +232,15 @@ Se evalúa la capacidad de asociar géneros musicales con regiones. La respuesta
 ## Question 10 [D5]
 
 **ID:** `CO-SOC-5-2026-P4-diversidad-cultural-colombia-001-MASTERY-v10`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de formación ciudadana de la I.E. León XIII de Manizales, la profesora pregunta qué podemos hacer para valorar la diversidad cultural.
+**Contexto:** En la clase de formación ciudadana de la I.E. León XIII de Manizales, la profesora pregunta qué podemos hacer para valorar la diversidad cultural.
 
 ### Enunciado
 Para valorar y respetar la diversidad cultural colombiana, los estudiantes podemos:
 
-### Options
+### Opciones
 - [ ] A) Burlarnos de las costumbres diferentes a las nuestras. <!-- feedback: Incorrecto. Burlares es lo opuesto al respeto. -->
 - [ ] B) Ignorar a las personas de otras culturas. <!-- feedback: Incorrecto. Ignorar no es valorar. -->
 - [x] C) Conocer y aprender sobre las diferentes culturas del país, respetar sus tradiciones, no discriminar a nadie por su origen étnico, y celebrar la diversidad como una riqueza de Colombia. <!-- feedback: Correcto. Valorar la diversidad implica educarse, respetar y celebrar las diferencias, rechazando todo tipo de discriminación. -->

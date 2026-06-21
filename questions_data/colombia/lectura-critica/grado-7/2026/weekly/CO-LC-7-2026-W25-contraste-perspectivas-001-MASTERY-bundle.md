@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W25-contraste-perspectivas-001-MASTERY"
+id: "CO-LC-7-2026-W25-contraste-perspectivas-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "contraste de perspectivas"
-semana: "W25"
+week: "W25"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Contraste de Perspectivas - Grado 7
 ## Semana W25 — Identificación y análisis de diferentes puntos de vista sobre un mismo tema
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W25-contraste-perspectivas-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de Lectura Crítica del Colegio San Ignacio de Bogotá, el profesor define el concepto de "perspectiva" en un texto.
+**Contexto:** En la clase de Lectura Crítica del Colegio San Ignacio de Bogotá, el profesor define el concepto de "perspectiva" en un texto.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La perspectiva es el ángulo o posición desde la cual un autor aborda un tema. 
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W25-contraste-perspectivas-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Dos turistas visitan el mismo barrio de Cartagena. El primero escribe: "Calles pintorescas llenas de color y sabor local". El segundo escribe: "Calles deterioradas, olor a basura y pobreza visible".
+**Contexto:** Dos turistas visitan el mismo barrio de Cartagena. El primero escribe: "Calles pintorescas llenas de color y sabor local". El segundo escribe: "Calles deterioradas, olor a basura y pobreza visible".
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -60,11 +64,11 @@ Este ejemplo ilustra cómo la misma realidad puede ser percibida de maneras radi
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W25-contraste-perspectivas-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una empresa es noticia por un despido masivo. El gerente dice: "Reestructuración necesaria para la supervivencia de la empresa". Un exempleado dice: "Injusticia, dejaron a familias enteras sin sustento".
+**Contexto:** Una empresa es noticia por un despido masivo. El gerente dice: "Reestructuración necesaria para la supervivencia de la empresa". Un exempleado dice: "Injusticia, dejaron a familias enteras sin sustento".
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -81,11 +85,11 @@ La posición que ocupamos en una situación influye decisivamente en nuestra per
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W25-contraste-perspectivas-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** En un debate escolar en el Colegio de Pasto sobre el uso de celulares en clase, se presentan tres perspectivas: la del profesor, la de un estudiante y la de un padre de familia.
+**Contexto:** En un debate escolar en el Colegio de Pasto sobre el uso de celulares en clase, se presentan tres perspectivas: la del profesor, la de un estudiante y la de un padre de familia.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -102,11 +106,11 @@ La perspectiva del profesor está moldeada por su rol: responsable del aprendiza
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W25-contraste-perspectivas-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un artículo de opinión dice: "La tecnología nos está aislando. Los jóvenes ya no saben conversar cara a cara." Otro artículo responde: "La tecnología nos conecta con personas que de otra forma nunca conoceríamos."
+**Contexto:** Un artículo de opinión dice: "La tecnología nos está aislando. Los jóvenes ya no saben conversar cara a cara." Otro artículo responde: "La tecnología nos conecta con personas que de otra forma nunca conoceríamos."
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -123,11 +127,11 @@ Estos dos textos ilustran cómo una misma realidad (la tecnología digital) pued
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W25-contraste-perspectivas-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un mismo accidente de tránsito es narrado en tres versiones: la del conductor del bus, la del peatón que observó y la del policía de tránsito.
+**Contexto:** Un mismo accidente de tránsito es narrado en tres versiones: la del conductor del bus, la del peatón que observó y la del policía de tránsito.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -144,11 +148,11 @@ Tres personas presencian el mismo evento y sus versiones difieren no porque mien
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W25-contraste-perspectivas-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un medio de comunicación publica la misma noticia en su versión impresa y en su versión digital. La versión impresa titula "Gobierno anuncia nuevo impuesto" y la digital "Gobierno ajusta tarifas para fortalecer la economía".
+**Contexto:** Un medio de comunicación publica la misma noticia en su versión impresa y en su versión digital. La versión impresa titula "Gobierno anuncia nuevo impuesto" y la digital "Gobierno ajusta tarifas para fortalecer la economía".
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -165,11 +169,11 @@ La diferencia entre los titulares revela cómo la perspectiva puede ajustarse se
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W25-contraste-perspectivas-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Tres escritores colombianos de distintas épocas describen la selva amazónica. Uno del siglo XIX habla de "peligro y enfermedad". Uno de mediados del siglo XX habla de "riqueza por explotar". Uno actual habla de "ecosistema vital que debemos proteger".
+**Contexto:** Tres escritores colombianos de distintas épocas describen la selva amazónica. Uno del siglo XIX habla de "peligro y enfermedad". Uno de mediados del siglo XX habla de "riqueza por explotar". Uno actual habla de "ecosistema vital que debemos proteger".
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -186,11 +190,11 @@ Contrastar perspectivas históricas revela cómo los valores sociales cambian. E
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W25-contraste-perspectivas-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el debate sobre el turismo en San Andrés, se enfrentan dos perspectivas. Una: "El turismo es el motor económico de la isla, genera empleo y desarrollo." Otra: "El turismo masivo destruye los ecosistemas, privatiza las playas y desplaza a los isleños."
+**Contexto:** En el debate sobre el turismo en San Andrés, se enfrentan dos perspectivas. Una: "El turismo es el motor económico de la isla, genera empleo y desarrollo." Otra: "El turismo masivo destruye los ecosistemas, privatiza las playas y desplaza a los isleños."
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -207,11 +211,11 @@ Ante perspectivas opuestas, la lectura crítica no consiste en elegir un bando, 
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W25-contraste-perspectivas-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En clase de lectura crítica, los estudiantes contrastan un artículo que defiende la tauromaquia como "tradición cultural" con otro que la critica como "maltrato animal".
+**Contexto:** En clase de lectura crítica, los estudiantes contrastan un artículo que defiende la tauromaquia como "tradición cultural" con otro que la critica como "maltrato animal".
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ Evaluar perspectivas opuestas sin caer en prejuicios requiere: 1) identificar lo
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W25-contraste-perspectivas-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Un periódico publica la misma noticia en dos secciones distintas: en "Economía" destaca los beneficios de un nuevo tratado comercial; en "Medio Ambiente" advierte sobre sus riesgos ecológicos.
+**Contexto:** Un periódico publica la misma noticia en dos secciones distintas: en "Economía" destaca los beneficios de un nuevo tratado comercial; en "Medio Ambiente" advierte sobre sus riesgos ecológicos.
 **Expected_Success:** 0.40
 
 ### Enunciado
@@ -249,11 +253,11 @@ Que un mismo medio publique perspectivas distintas según la sección no es una 
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W25-contraste-perspectivas-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** Para el proyecto de período, los estudiantes del Colegio de Chía deben escribir dos textos breves sobre un mismo problema del colegio (el ruido en los descansos, la calidad del restaurante, el uso de celulares) desde dos perspectivas distintas.
+**Contexto:** Para el proyecto de período, los estudiantes del Colegio de Chía deben escribir dos textos breves sobre un mismo problema del colegio (el ruido en los descansos, la calidad del restaurante, el uso de celulares) desde dos perspectivas distintas.
 **Expected_Success:** 0.36
 
 ### Enunciado

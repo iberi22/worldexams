@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY"
+id: "CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "animales-cuidado-respeto"
-semana: "W16"
+week: "W16"
 periodo: 2
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Cuidado y respeto por los animales: bienestar animal, tenencia
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Cuidado y Respeto por los Animales
 
 Este bundle promueve la empatía y la responsabilidad hacia todos los animales, diferenciando los cuidados que necesitan las mascotas de la protección que requiere la fauna silvestre.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un refugio de animales en Bogotá, los voluntarios explican qué necesita un perro para estar sano y feliz.
+**Contexto:** En un refugio de animales en Bogotá, los voluntarios explican qué necesita un perro para estar sano y feliz.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ La tenencia responsable implica entender que las mascotas dependen 100% de nosot
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un niño ve un nido de pájaros en el parque y quiere bajarlo para ver los huevos de cerca.
+**Contexto:** Un niño ve un nido de pájaros en el parque y quiere bajarlo para ver los huevos de cerca.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -73,12 +77,12 @@ Respetar la fauna silvestre significa "ver pero no tocar". Los nidos son hogares
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En Colombia, las autoridades ambientales piden a las personas que no compren animales como tortugas hicoteas o micos en las carreteras.
+**Contexto:** En Colombia, las autoridades ambientales piden a las personas que no compren animales como tortugas hicoteas o micos en las carreteras.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ Colombia es uno de los países con más especies del mundo. Conservar la fauna n
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Una persona afirma: "Yo amo a los animales, por eso tengo un tigre en una jaula muy grande en mi casa".
+**Contexto:** Una persona afirma: "Yo amo a los animales, por eso tengo un tigre en una jaula muy grande en mi casa".
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -123,12 +127,12 @@ Confundir la posesión con el amor es un error común. Los animales silvestres n
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un grupo de niños encuentra una zarigüeya (chucha) herida en el borde de una carretera.
+**Contexto:** Un grupo de niños encuentra una zarigüeya (chucha) herida en el borde de una carretera.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -148,12 +152,12 @@ Ayudar a la fauna requiere profesionalismo. En Colombia, instituciones como las 
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En un pueblo, la gente decidió dejar de cazar a los jaguares y en su lugar cuidar el bosque donde viven para que los turistas los vean desde lejos.
+**Contexto:** En un pueblo, la gente decidió dejar de cazar a los jaguares y en su lugar cuidar el bosque donde viven para que los turistas los vean desde lejos.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -173,12 +177,12 @@ La conservación puede ser un motor de desarrollo. Cuando entendemos que un anim
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Los animales de compañía (perros, gatos) tienen derechos que están protegidos por leyes en Colombia.
+**Contexto:** Los animales de compañía (perros, gatos) tienen derechos que están protegidos por leyes en Colombia.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -198,12 +202,12 @@ El maltrato no es solo golpear. El abandono, la falta de alimento o no darles re
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Mariana quiere ser una "Ciudadana Defensora de la Naturaleza" en su colegio.
+**Contexto:** Mariana quiere ser una "Ciudadana Defensora de la Naturaleza" en su colegio.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -223,12 +227,12 @@ La educación es la herramienta más fuerte contra el maltrato. Si los niños ap
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Muchos animales silvestres huyen de sus bosques cuando hay incendios o deforestación y terminan en las calles de las ciudades.
+**Contexto:** Muchos animales silvestres huyen de sus bosques cuando hay incendios o deforestación y terminan en las calles de las ciudades.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -248,12 +252,12 @@ No podemos decir que respetamos a los animales si destruimos sus bosques. El res
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W16-animales-cuidado-respeto-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un científico dice: "La grandeza de una nación se mide por cómo trata a sus animales".
+**Contexto:** Un científico dice: "La grandeza de una nación se mide por cómo trata a sus animales".
 **Expected_Success:** 0.55
 
 ### Enunciado

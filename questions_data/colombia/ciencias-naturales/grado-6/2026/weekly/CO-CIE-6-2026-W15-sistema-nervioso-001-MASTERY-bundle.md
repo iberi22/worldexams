@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W15-sistema-nervioso-001-MASTERY"
+id: "CO-CIE-6-2026-W15-sistema-nervioso-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W15 — Sistema Nervioso
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W15-sistema-nervioso-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, estudian el sistema nervioso.
+**Contexto:** En Bogotá, estudian el sistema nervioso.
 
 ### Enunciado
 ¿Cuál es la unidad funcional del sistema nervioso?
 
-### Options
+### Opciones
 - [ ] A) El cerebro <!-- feedback: El cerebro es un órgano. -->
 - [ ] B) La sangre <!-- feedback: Es del sistema circulatorio. -->
 - [x] C) La neurona <!-- feedback: Correcto. -->
@@ -48,13 +51,14 @@ La neurona es la célula especializada que transmite impulsos nerviosos. Tiene t
 
 **ID:** `CO-CIE-6-2026-W15-sistema-nervioso-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, identifican las divisiones del sistema nervioso.
+**Contexto:** En Medellín, identifican las divisiones del sistema nervioso.
 
 ### Enunciado
 ¿Cuáles son las dos divisiones principales del sistema nervioso?
 
-### Options
+### Opciones
 - [ ] A) Cerebro y cerebelo <!-- feedback: Son partes del encéfalo. -->
 - [ ] B) Nervios y músculos <!-- feedback: Los músculos no son parte del SN. -->
 - [x] C) SNC y SNP <!-- feedback: Correcto. -->
@@ -69,13 +73,14 @@ SNC (Sistema Nervioso Central): encéfalo y médula espinal, procesa informació
 
 **ID:** `CO-CIE-6-2026-W15-sistema-nervioso-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, estudian la transmisión del impulso nervioso.
+**Contexto:** En Cali, estudian la transmisión del impulso nervioso.
 
 ### Enunciado
 ¿Cómo se transmite el impulso nervioso entre dos neuronas?
 
-### Options
+### Opciones
 - [ ] A) Por contacto físico directo <!-- feedback: Hay un espacio sináptico entre neuronas. -->
 - [ ] B) A través de la sangre <!-- feedback: Las hormonas viajan por la sangre, no los impulsos. -->
 - [x] C) Mediante neurotransmisores que cruzan el espacio sináptico <!-- feedback: Correcto. -->
@@ -90,13 +95,14 @@ En la sinapsis, cuando el impulso llega al axón, se liberan neurotransmisores (
 
 **ID:** `CO-CIE-6-2026-W15-sistema-nervioso-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, estudian los actos reflejos.
+**Contexto:** En Barranquilla, estudian los actos reflejos.
 
 ### Enunciado
 Al tocar una olla caliente, retiras la mano antes de sentir dolor. ¿Qué explica esta reacción?
 
-### Options
+### Opciones
 - [ ] A) Es un acto voluntario <!-- feedback: Es involuntario y muy rápido. -->
 - [x] B) Es un reflejo: la señal va a la médula espinal y vuelve directamente <!-- feedback: Correcto. -->
 - [ ] C) Es el instinto de supervivencia <!-- feedback: El mecanismo es el reflejo. -->
@@ -111,13 +117,14 @@ El arco reflejo es la vía neuronal más rápida: receptores de dolor → neuron
 
 **ID:** `CO-CIE-6-2026-W15-sistema-nervioso-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, aplican conceptos del sistema nervioso.
+**Contexto:** En Bucaramanga, aplican conceptos del sistema nervioso.
 
 ### Enunciado
 ¿Por qué después de correr, el corazón late más rápido y respiras más agitado?
 
-### Options
+### Opciones
 - [ ] A) Los músculos se lo piden directamente al corazón <!-- feedback: No hay comunicación directa. -->
 - [ ] B) El cerebro se asusta <!-- feedback: No es miedo. -->
 - [x] C) El sistema simpático se activa para preparar el cuerpo para la actividad <!-- feedback: Correcto. -->
@@ -132,13 +139,14 @@ El sistema nervioso simpático (lucha o huida) aumenta frecuencia cardíaca, dil
 
 **ID:** `CO-CIE-6-2026-W15-sistema-nervioso-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, sobre lesiones neurológicas.
+**Contexto:** En Cartagena, sobre lesiones neurológicas.
 
 ### Enunciado
 Una persona sufre un accidente que daña su cerebelo. ¿Qué función se verá más afectada?
 
-### Options
+### Opciones
 - [ ] A) El habla <!-- feedback: El habla depende más del cerebro. -->
 - [ ] B) La memoria <!-- feedback: La memoria es del hipocampo. -->
 - [x] C) El equilibrio y la coordinación de movimientos <!-- feedback: Correcto. -->
@@ -153,13 +161,14 @@ El cerebelo coordina movimientos voluntarios, mantiene el equilibrio y participa
 
 **ID:** `CO-CIE-6-2026-W15-sistema-nervioso-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan los efectos de las drogas en el sistema nervioso.
+**Contexto:** En Pereira, analizan los efectos de las drogas en el sistema nervioso.
 
 ### Enunciado
 ¿Por qué las drogas como la cocaína pueden ser tan adictivas?
 
-### Options
+### Opciones
 - [ ] A) Porque son dulces <!-- feedback: El sabor no causa adicción. -->
 - [ ] B) Porque dañan las neuronas permanentemente <!-- feedback: Dañan pero no explica la adicción. -->
 - [x] C) Porque alteran los niveles de dopamina, creando dependencia química <!-- feedback: Correcto. -->
@@ -174,13 +183,14 @@ La cocaína bloquea la recaptación de dopamina en el sistema de recompensa cere
 
 **ID:** `CO-CIE-6-2026-W15-sistema-nervioso-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, analizan el efecto del alcohol.
+**Contexto:** En Manizales, analizan el efecto del alcohol.
 
 ### Enunciado
 ¿Por qué el consumo excesivo de alcohol puede causar lagunas mentales?
 
-### Options
+### Opciones
 - [ ] A) Porque el alcohol borra los recuerdos <!-- feedback: Interfiere con la formación, no los borra. -->
 - [ ] B) Porque mata neuronas en el cerebelo <!-- feedback: El cerebelo no almacena memoria. -->
 - [x] C) Porque interfiere con la formación de recuerdos en el hipocampo <!-- feedback: Correcto. -->
@@ -195,13 +205,14 @@ El hipocampo forma nuevos recuerdos mediante potenciación a largo plazo (LTP). 
 
 **ID:** `CO-CIE-6-2026-W15-sistema-nervioso-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan conmociones cerebrales en deportes.
+**Contexto:** En Cúcuta, evalúan conmociones cerebrales en deportes.
 
 ### Enunciado
 Un futbolista sufre conmociones cerebrales repetidas al cabecear. ¿Cuál es la mejor recomendación médica?
 
-### Options
+### Opciones
 - [ ] A) Usar un casco más duro <!-- feedback: No previene el movimiento del cerebro dentro del cráneo. -->
 - [ ] B) Dejar de jugar fútbol para siempre <!-- feedback: Quizás excesivo si no hay lesiones graves. -->
 - [x] C) Limitar los cabezazos y tener evaluación neurológica periódica <!-- feedback: Correcto. -->
@@ -216,13 +227,14 @@ Conmociones repetidas pueden causar encefalopatía traumática crónica (ETC). E
 
 **ID:** `CO-CIE-6-2026-W15-sistema-nervioso-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan hábitos saludables.
+**Contexto:** En Ibagué, evalúan hábitos saludables.
 
 ### Enunciado
 ¿Cuál de los siguientes hábitos es MÁS beneficioso para la salud del sistema nervioso?
 
-### Options
+### Opciones
 - [ ] A) Ver televisión 8 horas al día <!-- feedback: El sedentarismo no es beneficioso. -->
 - [ ] B) Consumir bebidas energizantes <!-- feedback: Cafeína excesiva no es saludable. -->
 - [x] C) Dormir 8 horas, hacer ejercicio y mantener buena alimentación <!-- feedback: Correcto. -->

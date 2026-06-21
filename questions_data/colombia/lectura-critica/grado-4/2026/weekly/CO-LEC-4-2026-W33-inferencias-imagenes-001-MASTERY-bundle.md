@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W33-inferencias-imagenes-001-MASTERY"
+id: "CO-LEC-4-2026-W33-inferencias-imagenes-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "inferencias-imagenes"
-semana: "W33"
+week: "W33"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "inferencia, imágenes, interpretación visual, lectura de imag
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W33: Inferencias a partir de imágenes
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W33-inferencias-imagenes-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Imagen.
+**Contexto:** Imagen.
 
 ### Enunciado
 *"¿Qué información puede dar una imagen?"*
 
-### Options
-- [ ] A) Ninguna.
+### Opciones
+- [ ] A) Ninguna. <!-- feedback: Incorrecto. Ninguna. -->
 - [x] B) Lugares, acciones, emociones. <!-- feedback: Correcto. -->
-- [ ] C) Solo colores.
-- [ ] D) Solo formas.
+- [ ] C) Solo colores. <!-- feedback: Incorrecto. Solo colores. -->
+- [ ] D) Solo formas. <!-- feedback: Incorrecto. Solo formas. -->
 
 ### Explicación Pedagógica
 Info imagen.
@@ -49,17 +54,18 @@ Info imagen.
 
 **ID:** `CO-LEC-4-2026-W33-inferencias-imagenes-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Detalle.
+**Contexto:** Detalle.
 
 ### Enunciado
 *"Imagen: un niño con paraguas. ¿Qué ves?"*
 
-### Options
+### Opciones
 - [x] A) Un niño con paraguas. <!-- feedback: Correcto. -->
 - [ ] B) Que está en la playa. <!-- feedback: No se ve. -->
-- [ ] C) Que es de noche.
-- [ ] D) Que está comiendo.
+- [ ] C) Que es de noche. <!-- feedback: Incorrecto. Que es de noche. -->
+- [ ] D) Que está comiendo. <!-- feedback: Incorrecto. Que está comiendo. -->
 
 ### Explicación Pedagógica
 Observar.
@@ -70,17 +76,18 @@ Observar.
 
 **ID:** `CO-LEC-4-2026-W33-inferencias-imagenes-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Inferir clima.
+**Contexto:** Inferir clima.
 
 ### Enunciado
 *"Imagen: personas con paraguas y chaquetas. ¿Qué clima es?"*
 
-### Options
-- [ ] A) Soleado.
+### Opciones
+- [ ] A) Soleado. <!-- feedback: Incorrecto. Soleado. -->
 - [x] B) Lluvioso. <!-- feedback: Correcto. -->
-- [ ] C) Caluroso.
-- [ ] D) Nevado.
+- [ ] C) Caluroso. <!-- feedback: Incorrecto. Caluroso. -->
+- [ ] D) Nevado. <!-- feedback: Incorrecto. Nevado. -->
 
 ### Explicación Pedagógica
 Inferir clima.
@@ -91,17 +98,18 @@ Inferir clima.
 
 **ID:** `CO-LEC-4-2026-W33-inferencias-imagenes-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Inferir emoción.
+**Contexto:** Inferir emoción.
 
 ### Enunciado
 *"Imagen: persona sonriendo con trofeo. ¿Cómo se siente?"*
 
-### Options
-- [ ] A) Triste.
+### Opciones
+- [ ] A) Triste. <!-- feedback: Incorrecto. Triste. -->
 - [x] B) Feliz y orgullosa. <!-- feedback: Correcto. -->
-- [ ] C) Enojada.
-- [ ] D) Aburrida.
+- [ ] C) Enojada. <!-- feedback: Incorrecto. Enojada. -->
+- [ ] D) Aburrida. <!-- feedback: Incorrecto. Aburrida. -->
 
 ### Explicación Pedagógica
 Inferir emoción.
@@ -112,17 +120,18 @@ Inferir emoción.
 
 **ID:** `CO-LEC-4-2026-W33-inferencias-imagenes-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Inferir lugar.
+**Contexto:** Inferir lugar.
 
 ### Enunciado
 *"Imagen: agua, arena, palmeras, sol. ¿Dónde es?"*
 
-### Options
-- [ ] A) Montaña.
+### Opciones
+- [ ] A) Montaña. <!-- feedback: Incorrecto. Montaña. -->
 - [x] B) Playa. <!-- feedback: Correcto. -->
-- [ ] C) Ciudad.
-- [ ] D) Desierto frío.
+- [ ] C) Ciudad. <!-- feedback: Incorrecto. Ciudad. -->
+- [ ] D) Desierto frío. <!-- feedback: Incorrecto. Desierto frío. -->
 
 ### Explicación Pedagógica
 Inferir lugar.
@@ -133,17 +142,18 @@ Inferir lugar.
 
 **ID:** `CO-LEC-4-2026-W33-inferencias-imagenes-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Acción.
+**Contexto:** Acción.
 
 ### Enunciado
 *"Imagen: persona sosteniendo un libro y señalando una palabra. ¿Qué hace?"*
 
-### Options
-- [ ] A) Cocina.
+### Opciones
+- [ ] A) Cocina. <!-- feedback: Incorrecto. Cocina. -->
 - [x] B) Lee y señala. <!-- feedback: Correcto. -->
-- [ ] C) Duerme.
-- [ ] D) Corre.
+- [ ] C) Duerme. <!-- feedback: Incorrecto. Duerme. -->
+- [ ] D) Corre. <!-- feedback: Incorrecto. Corre. -->
 
 ### Explicación Pedagógica
 Inferir acción.
@@ -154,17 +164,18 @@ Inferir acción.
 
 **ID:** `CO-LEC-4-2026-W33-inferencias-imagenes-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Relación.
+**Contexto:** Relación.
 
 ### Enunciado
 *"Imagen: niño abrazando a una abuela. ¿Qué relación hay?"*
 
-### Options
-- [ ] A) Son extraños.
+### Opciones
+- [ ] A) Son extraños. <!-- feedback: Incorrecto. Son extraños. -->
 - [x] B) Son familia, se quieren. <!-- feedback: Correcto. -->
-- [ ] C) Están peleando.
-- [ ] D) Son amigos.
+- [ ] C) Están peleando. <!-- feedback: Incorrecto. Están peleando. -->
+- [ ] D) Son amigos. <!-- feedback: Incorrecto. Son amigos. -->
 
 ### Explicación Pedagógica
 Inferir relación.
@@ -175,17 +186,18 @@ Inferir relación.
 
 **ID:** `CO-LEC-4-2026-W33-inferencias-imagenes-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Deducir hora.
+**Contexto:** Deducir hora.
 
 ### Enunciado
 *"Imagen: cielo anaranjado, personas saliendo de trabajar. ¿Qué hora es?"*
 
-### Options
-- [ ] A) Mediodía.
+### Opciones
+- [ ] A) Mediodía. <!-- feedback: Incorrecto. Mediodía. -->
 - [x] B) Atardecer/tarde. <!-- feedback: Correcto. -->
-- [ ] C) Madrugada.
-- [ ] D) Medianoche.
+- [ ] C) Madrugada. <!-- feedback: Incorrecto. Madrugada. -->
+- [ ] D) Medianoche. <!-- feedback: Incorrecto. Medianoche. -->
 
 ### Explicación Pedagógica
 Deducir hora.
@@ -196,17 +208,18 @@ Deducir hora.
 
 **ID:** `CO-LEC-4-2026-W33-inferencias-imagenes-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Evaluar.
+**Contexto:** Evaluar.
 
 ### Enunciado
 *"¿Puede una imagen contar una historia completa?"*
 
-### Options
-- [ ] A) No, solo texto.
+### Opciones
+- [ ] A) No, solo texto. <!-- feedback: Incorrecto. No, solo texto. -->
 - [x] B) Sí, puede narrar con elementos visuales. <!-- feedback: Correcto. -->
-- [ ] C) No, es solo decoración.
-- [ ] D) Solo si tiene palabras.
+- [ ] C) No, es solo decoración. <!-- feedback: Incorrecto. No, es solo decoración. -->
+- [ ] D) Solo si tiene palabras. <!-- feedback: Incorrecto. Solo si tiene palabras. -->
 
 ### Explicación Pedagógica
 Narrativa visual.
@@ -217,17 +230,18 @@ Narrativa visual.
 
 **ID:** `CO-LEC-4-2026-W33-inferencias-imagenes-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Relacionar.
+**Contexto:** Relacionar.
 
 ### Enunciado
 *"¿Es más fácil entender algo con imagen y texto?"*
 
-### Options
-- [ ] A) Solo texto es mejor.
+### Opciones
+- [ ] A) Solo texto es mejor. <!-- feedback: Incorrecto. Solo texto es mejor. -->
 - [x] B) Sí, la imagen complementa. <!-- feedback: Correcto. -->
-- [ ] C) No, distrae.
-- [ ] D) Da igual.
+- [ ] C) No, distrae. <!-- feedback: Incorrecto. No, distrae. -->
+- [ ] D) Da igual. <!-- feedback: Incorrecto. Da igual. -->
 
 ### Explicación Pedagógica
 Complemento.

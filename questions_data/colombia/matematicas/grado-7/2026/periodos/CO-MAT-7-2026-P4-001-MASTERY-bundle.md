@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-7-2026-W40-examen-periodo-4-001-MASTERY"
+id: "CO-MAT-7-2026-P4-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "matematicas"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 20
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W40 — Examen Periodo 4
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v1`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** Colegio Nacional San Bartolomé en Riohacha
+**Contexto:** Colegio Nacional San Bartolomé en Riohacha
 **Expected_Success:** 0.67
 
 ### Enunciado
 En la clase de Matematicas del Colegio Nacional San Bartolomé en Riohacha, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Examen Periodo 4 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v2`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Pasto
+**Contexto:** I.E. Gabriel García Márquez en Pasto
 **Expected_Success:** 0.72
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Pasto, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Examen Periodo 4 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v3`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Neiva
+**Contexto:** Gimnasio Moderno en Neiva
 **Expected_Success:** 0.75
 
 ### Enunciado
 En la clase de Matematicas del Gimnasio Moderno en Neiva, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Examen Periodo 4 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Neiva
+**Contexto:** Colegio Nacional San Bartolomé en Neiva
 **Expected_Success:** 0.79
 
 ### Enunciado
 En la clase de Matematicas del Colegio Nacional San Bartolomé en Neiva, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Examen Periodo 4 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Pereira
+**Contexto:** I.E. Santa Luisa de Marillac en Pereira
 **Expected_Success:** 0.71
 
 ### Enunciado
 En la clase de Matematicas del I.E. Santa Luisa de Marillac en Pereira, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Examen Periodo 4 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** I.E. Santa Luisa de Marillac en Pasto
+**Contexto:** I.E. Santa Luisa de Marillac en Pasto
 **Expected_Success:** 0.65
 
 ### Enunciado
 En la clase de Matematicas del I.E. Santa Luisa de Marillac en Pasto, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Examen Periodo 4 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v7`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Pasto
+**Contexto:** Colegio La Presentación en Pasto
 **Expected_Success:** 0.64
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Pasto, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Examen Periodo 4 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Medellín
+**Contexto:** I.E. Gabriel García Márquez en Medellín
 **Expected_Success:** 0.51
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Medellín, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Examen Periodo 4 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v9`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Neiva
+**Contexto:** I.E. Gabriel García Márquez en Neiva
 **Expected_Success:** 0.71
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Neiva, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Examen Periodo 4 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Cali
+**Contexto:** Colegio La Presentación en Cali
 **Expected_Success:** 0.77
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Cali, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -244,13 +249,13 @@ El tema de Examen Periodo 4 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v11`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** Colegio Nacional San Bartolomé en Villavicencio
+**Contexto:** Colegio Nacional San Bartolomé en Villavicencio
 **Expected_Success:** 0.62
 
 ### Enunciado
 En la clase de Matematicas del Colegio Nacional San Bartolomé en Villavicencio, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -266,13 +271,13 @@ El tema de Examen Periodo 4 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Barranquilla
+**Contexto:** I.E. Jorge Eliécer Gaitán en Barranquilla
 **Expected_Success:** 0.64
 
 ### Enunciado
 En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Barranquilla, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -288,13 +293,13 @@ El tema de Examen Periodo 4 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v13`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Quibdó
+**Contexto:** Colegio La Presentación en Quibdó
 **Expected_Success:** 0.76
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Quibdó, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -310,13 +315,13 @@ El tema de Examen Periodo 4 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v14`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Armenia
+**Contexto:** Colegio Nacional San Bartolomé en Armenia
 **Expected_Success:** 0.75
 
 ### Enunciado
 En la clase de Matematicas del Colegio Nacional San Bartolomé en Armenia, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -332,13 +337,13 @@ El tema de Examen Periodo 4 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v15`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Sincelejo
+**Contexto:** I.E. San José en Sincelejo
 **Expected_Success:** 0.72
 
 ### Enunciado
 En la clase de Matematicas del I.E. San José en Sincelejo, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -354,13 +359,13 @@ El tema de Examen Periodo 4 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v16`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Manizales
+**Contexto:** Gimnasio Moderno en Manizales
 **Expected_Success:** 0.52
 
 ### Enunciado
 En la clase de Matematicas del Gimnasio Moderno en Manizales, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -376,13 +381,13 @@ El tema de Examen Periodo 4 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v17`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** Colegio La Presentación en Quibdó
+**Contexto:** Colegio La Presentación en Quibdó
 **Expected_Success:** 0.60
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Quibdó, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -398,13 +403,13 @@ El tema de Examen Periodo 4 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v18`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** I.E. Jorge Eliécer Gaitán en Sincelejo
+**Contexto:** I.E. Jorge Eliécer Gaitán en Sincelejo
 **Expected_Success:** 0.79
 
 ### Enunciado
 En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Sincelejo, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -420,13 +425,13 @@ El tema de Examen Periodo 4 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v19`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Quibdó
+**Contexto:** I.E. Santa Luisa de Marillac en Quibdó
 **Expected_Success:** 0.70
 
 ### Enunciado
 En la clase de Matematicas del I.E. Santa Luisa de Marillac en Quibdó, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -442,13 +447,13 @@ El tema de Examen Periodo 4 es central en el currículo de 7°. La respuesta cor
 **ID:** `CO-MAT-7-2026-W00-examen per-001-MASTERY-v20`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. San José en Ibagué
+**Contexto:** I.E. San José en Ibagué
 **Expected_Success:** 0.71
 
 ### Enunciado
 En la clase de Matematicas del I.E. San José en Ibagué, se discute sobre Examen Periodo 4. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 4 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 4 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

@@ -1,28 +1,32 @@
 ---
-id: "CO-LEN-6-2026-W18-teatro-001-MASTERY"
+id: "CO-LEN-6-2026-W18-teatro-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lengua"
 tema: "teatro"
-semana: "W18"
+week: "W18"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: El Teatro - Grado 6
 ## Semana W18
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEN-6-2026-W18-teatro-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio La Presentación de Bucaramanga, la profesora Lucía inicia la unidad de género dramático.
+**Contexto:** En el Colegio La Presentación de Bucaramanga, la profesora Lucía inicia la unidad de género dramático.
 **Expected_Success:** 0.86
 
 ### Enunciado
@@ -39,11 +43,11 @@ El género dramático (teatro) es único porque es el único género literario q
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEN-6-2026-W18-teatro-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En la Institución Educativa Simón Bolívar de Cali, los estudiantes identifican los elementos del teatro.
+**Contexto:** En la Institución Educativa Simón Bolívar de Cali, los estudiantes identifican los elementos del teatro.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -60,11 +64,11 @@ Toda obra teatral tiene texto principal (lo que dicen los personajes: diálogos,
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEN-6-2026-W18-teatro-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio San Ignacio de Bogotá, los estudiantes leen un fragmento de "La agonía del difunto" de Esteban Navarrete.
+**Contexto:** En el Colegio San Ignacio de Bogotá, los estudiantes leen un fragmento de "La agonía del difunto" de Esteban Navarrete.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ En el teatro, las acotaciones son fundamentales para que directores y actores se
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEN-6-2026-W18-teatro-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En el Teatro Municipal de Neiva, durante un taller escolar, los estudiantes deben clasificar una obra según su subgénero.
+**Contexto:** En el Teatro Municipal de Neiva, durante un taller escolar, los estudiantes deben clasificar una obra según su subgénero.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -102,11 +106,11 @@ Los subgéneros dramáticos principales son: tragedia (final desdichado, persona
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEN-6-2026-W18-teatro-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. Nuestra Señora de las Lajas de Ipiales, los estudiantes analizan la estructura de una obra en tres actos.
+**Contexto:** En la I.E. Nuestra Señora de las Lajas de Ipiales, los estudiantes analizan la estructura de una obra en tres actos.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -123,11 +127,11 @@ La estructura clásica del teatro sigue el esquema aristotélico: planteamiento 
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LEN-6-2026-W18-teatro-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Cooperativo de Duitama, los estudiantes diferencian entre diálogo, monólogo y aparte.
+**Contexto:** En el Colegio Cooperativo de Duitama, los estudiantes diferencian entre diálogo, monólogo y aparte.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -144,11 +148,11 @@ En el teatro, los tipos de parlamento son: diálogo (conversación entre dos o m
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LEN-6-2026-W18-teatro-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En el Teatro Jorge Eliécer Gaitán de Bogotá, un grupo escolar de grado 6 debe montar una obra corta.
+**Contexto:** En el Teatro Jorge Eliécer Gaitán de Bogotá, un grupo escolar de grado 6 debe montar una obra corta.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Adaptar una narración a teatro requiere identificar los momentos clave del conf
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEN-6-2026-W18-teatro-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio de la Universidad Pontificia Bolivariana de Medellín, los estudiantes analizan el teatro colombiano contemporáneo.
+**Contexto:** En el Colegio de la Universidad Pontificia Bolivariana de Medellín, los estudiantes analizan el teatro colombiano contemporáneo.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -188,11 +192,11 @@ En el teatro contemporáneo, las acotaciones adquieren gran importancia narrativ
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEN-6-2026-W18-teatro-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio San Luis de Gonzaga de Manizales, los estudiantes evalúan si una obra de teatro cumple su propósito comunicativo.
+**Contexto:** En el Colegio San Luis de Gonzaga de Manizales, los estudiantes evalúan si una obra de teatro cumple su propósito comunicativo.
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -209,11 +213,11 @@ Toda obra de teatro debe lograr comunicación efectiva con el público. El teatr
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEN-6-2026-W18-teatro-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Teatro Colón de Bogotá, durante el taller de dramaturgia escolar, los estudiantes escriben una escena corta.
+**Contexto:** En el Teatro Colón de Bogotá, durante el taller de dramaturgia escolar, los estudiantes escriben una escena corta.
 **Expected_Success:** 0.48
 
 ### Enunciado

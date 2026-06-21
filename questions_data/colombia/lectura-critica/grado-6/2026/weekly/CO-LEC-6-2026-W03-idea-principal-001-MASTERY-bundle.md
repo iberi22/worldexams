@@ -1,28 +1,32 @@
 ---
-id: "CO-LEC-6-2026-W03-idea-principal-001-MASTERY"
+id: "CO-LEC-6-2026-W03-idea-principal-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "idea-principal"
-semana: "W03"
+week: "W03"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Idea Principal - Grado 6
 ## Semana W03
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEC-6-2026-W03-idea-principal-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio Rafael Pombo de Cali, la profesora Carmen explica qué es la idea principal de un texto.
+**Contexto:** En el Colegio Rafael Pombo de Cali, la profesora Carmen explica qué es la idea principal de un texto.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La idea principal es el enunciado que resume el contenido esencial de un texto. 
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEC-6-2026-W03-idea-principal-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En la Biblioteca Pública de Bucaramanga, los estudiantes practican la identificación del tema vs. la idea principal.
+**Contexto:** En la Biblioteca Pública de Bucaramanga, los estudiantes practican la identificación del tema vs. la idea principal.
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -60,11 +64,11 @@ Tema: es el asunto general (una o dos palabras: "la deforestación en la Amazon�
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEC-6-2026-W03-idea-principal-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Comprensión de textos
-**Context:** Los estudiantes del Colegio San José de Cartagena leen un texto sobre el turismo en la ciudad amurallada.
+**Contexto:** Los estudiantes del Colegio San José de Cartagena leen un texto sobre el turismo en la ciudad amurallada.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ Para identificar la idea principal: pregúntate "¿cuál es el mensaje más impo
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEC-6-2026-W03-idea-principal-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En la I.E. María Auxiliadora de Pasto, los estudiantes deben distinguir ideas principales de secundarias.
+**Contexto:** En la I.E. María Auxiliadora de Pasto, los estudiantes deben distinguir ideas principales de secundarias.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -102,11 +106,11 @@ Las ideas secundarias amplían, ejemplifican o detallan la idea principal. Son i
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEC-6-2026-W03-idea-principal-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio INEM de Popayán, los estudiantes analizan un texto sobre el terremoto de 1983.
+**Contexto:** En el Colegio INEM de Popayán, los estudiantes analizan un texto sobre el terremoto de 1983.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -123,11 +127,11 @@ Es importante distinguir entre lo que el texto dice explícitamente y lo que el 
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LEC-6-2026-W03-idea-principal-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. Alfonso López Pumarejo de Valledupar, los estudiantes trabajan con textos de diferentes extensiones.
+**Contexto:** En la I.E. Alfonso López Pumarejo de Valledupar, los estudiantes trabajan con textos de diferentes extensiones.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ La idea principal puede ubicarse de diferentes formas: estructura deductiva (ide
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LEC-6-2026-W03-idea-principal-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** Los estudiantes del Colegio Nacional de Barranquilla analizan la relación entre el título y la idea principal.
+**Contexto:** Los estudiantes del Colegio Nacional de Barranquilla analizan la relación entre el título y la idea principal.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ El título y la idea principal deben estar alineados. El título del artículo s
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEC-6-2026-W03-idea-principal-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio San Pedro Claver de Quibdó, los estudiantes discuten cómo identificar la idea principal en textos complejos.
+**Contexto:** En el Colegio San Pedro Claver de Quibdó, los estudiantes discuten cómo identificar la idea principal en textos complejos.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ Para identificar la idea principal: 1) Lee todo el texto, 2) Pregúntate "¿cuá
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEC-6-2026-W03-idea-principal-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Comprensión de textos
-**Context:** En el Liceo de Cervantes de Bogotá, los estudiantes evalúan resúmenes de un texto.
+**Contexto:** En el Liceo de Cervantes de Bogotá, los estudiantes evalúan resúmenes de un texto.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -210,11 +214,11 @@ Una buena idea principal debe ser completa: debe abarcar todos los aspectos impo
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEC-6-2026-W03-idea-principal-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En la Institución Educativa Nuestra Señora del Carmen de Ocaña, los estudiantes crean resúmenes.
+**Contexto:** En la Institución Educativa Nuestra Señora del Carmen de Ocaña, los estudiantes crean resúmenes.
 **Expected_Success:** 0.48
 
 ### Enunciado

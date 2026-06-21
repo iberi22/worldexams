@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY"
+id: "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 4"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Gramática - verbos - Grado 4
 
@@ -22,7 +24,7 @@ Este bundle profundiza en el estudio de los verbos, analizando sus modos (indica
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -33,21 +35,20 @@ Este bundle profundiza en el estudio de los verbos, analizando sus modos (indica
 ¿Cuál es la función principal de los verbos en una oración?
 
 ### Opciones
-- [ ] A) Nombrar objetos o personas.
-  <!-- feedback: Esa es la función de los sustantivos. -->
-- [x] B) Expresar acciones, estados o procesos.
-  <!-- feedback: ¡Correcto! El verbo indica lo que el sujeto hace o le sucede. -->
-- [ ] C) Decir cómo son las cosas.
-  <!-- feedback: Esa es la función de los adjetivos. -->
-- [ ] D) Unir dos oraciones diferentes.
-  <!-- feedback: Esa es la función de los conectores o conjunciones. -->
+- [ ] A) Nombrar objetos o personas. <!-- feedback: Incorrecto. Nombrar objetos o personas. -->
+
+- [x] B) Expresar acciones, estados o procesos. <!-- feedback: Correcto! Expresar acciones, estados o procesos. -->
+
+- [ ] C) Decir cómo son las cosas. <!-- feedback: Incorrecto. Decir cómo son las cosas. -->
+
+- [ ] D) Unir dos oraciones diferentes. <!-- feedback: Incorrecto. Unir dos oraciones diferentes. -->
 
 ### Explicación Pedagogica
 El verbo es la categoría gramatical que dota de dinamismo a la oración, funcionando como núcleo del predicado.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -58,21 +59,20 @@ El verbo es la categoría gramatical que dota de dinamismo a la oración, funcio
 ¿Cómo se llama el modo verbal que usamos para dar órdenes, consejos o peticiones?
 
 ### Opciones
-- [ ] A) Modo Indicativo.
-  <!-- feedback: Se usa para expresar hechos reales. -->
-- [ ] B) Modo Subjuntivo.
-  <!-- feedback: Se usa para deseos o dudas. -->
-- [x] C) Modo Imperativo.
-  <!-- feedback: ¡Muy bien! Como en "¡Estudia!" o "Cierra la puerta". -->
-- [ ] D) Modo Infinitivo.
-  <!-- feedback: El infinitivo no es un modo, sino una forma no personal del verbo. -->
+- [ ] A) Modo Indicativo. <!-- feedback: Incorrecto. Modo Indicativo. -->
+
+- [ ] B) Modo Subjuntivo. <!-- feedback: Incorrecto. Modo Subjuntivo. -->
+
+- [x] C) Modo Imperativo. <!-- feedback: Correcto! Modo Imperativo. -->
+
+- [ ] D) Modo Infinitivo. <!-- feedback: Incorrecto. Modo Infinitivo. -->
 
 ### Explicación Pedagogica
 El modo imperativo se caracteriza por carecer de tiempos verbales y dirigirse siempre a una segunda persona.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -83,21 +83,20 @@ El modo imperativo se caracteriza por carecer de tiempos verbales y dirigirse si
 En la oración "El deportista **compite** hoy en la final", ¿qué indica el tiempo presente del verbo?
 
 ### Opciones
-- [ ] A) Una acción que ya terminó hace mucho tiempo.
-  <!-- feedback: Eso sería pasado. -->
-- [x] B) Una acción que ocurre en el mismo momento en que se habla.
-  <!-- feedback: ¡Excelente! El presente sitúa la acción en el ahora. -->
-- [ ] C) Un deseo que tal vez se cumpla mañana.
-  <!-- feedback: Eso sería futuro o subjuntivo. -->
-- [ ] D) Una acción que se repitió muchas veces ayer.
-  <!-- feedback: Eso sería pretérito imperfecto (pasado). -->
+- [ ] A) Una acción que ya terminó hace mucho tiempo. <!-- feedback: Incorrecto. Una acción que ya terminó hace mucho tie -->
+
+- [x] B) Una acción que ocurre en el mismo momento en que se habla. <!-- feedback: Correcto! Una acción que ocurre en el mismo momento en que se habla. -->
+
+- [ ] C) Un deseo que tal vez se cumpla mañana. <!-- feedback: Incorrecto. Un deseo que tal vez se cumpla mañana. -->
+
+- [ ] D) Una acción que se repitió muchas veces ayer. <!-- feedback: Incorrecto. Una acción que se repitió muchas veces a -->
 
 ### Explicación Pedagogica
 El tiempo gramatical presente permite vincular la acción con el momento de la enunciación.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -108,21 +107,20 @@ El tiempo gramatical presente permite vincular la acción con el momento de la e
 ¿Cuál es la persona gramatical y el número del verbo en la frase: "Ellos **estudiaron** mucho"?
 
 ### Opciones
-- [ ] A) Primera persona del plural.
-  <!-- feedback: Sería "Nosotros estudiamos". -->
-- [ ] B) Segunda persona del singular.
-  <!-- feedback: Sería "Tú estudiaste". -->
-- [x] C) Tercera persona del plural.
-  <!-- feedback: ¡Correcto! "Ellos" corresponde a la 3ª persona plural. -->
-- [ ] D) Tercera persona del singular.
-  <!-- feedback: Sería "Él estudió". -->
+- [ ] A) Primera persona del plural. <!-- feedback: Incorrecto. Primera persona del plural. -->
+
+- [ ] B) Segunda persona del singular. <!-- feedback: Incorrecto. Segunda persona del singular. -->
+
+- [x] C) Tercera persona del plural. <!-- feedback: Correcto! Tercera persona del plural. -->
+
+- [ ] D) Tercera persona del singular. <!-- feedback: Incorrecto. Tercera persona del singular. -->
 
 ### Explicación Pedagogica
 La persona gramatical indica quién realiza la acción, y debe haber concordancia obligatoria con el pronombre sujeto.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -133,21 +131,20 @@ La persona gramatical indica quién realiza la acción, y debe haber concordanci
 En la oración "Colombia **ha ganado** muchos premios", ¿qué tipo de tiempo verbal se usa?
 
 ### Opciones
-- [ ] A) Tiempo simple (presente).
-  <!-- feedback: Los tiempos simples tienen una sola palabra. -->
-- [x] B) Tiempo compuesto (pretérito perfecto).
-  <!-- feedback: ¡Así es! Se usa el verbo auxiliar "haber" + un participio. -->
-- [ ] C) Tiempo futuro.
-  <!-- feedback: Sería "ganará". -->
-- [ ] D) Modo imperativo.
-  <!-- feedback: No es una orden. -->
+- [ ] A) Tiempo simple (presente). <!-- feedback: Incorrecto. Tiempo simple (presente). -->
+
+- [x] B) Tiempo compuesto (pretérito perfecto). <!-- feedback: Correcto! Tiempo compuesto (pretérito perfecto). -->
+
+- [ ] C) Tiempo futuro. <!-- feedback: Incorrecto. Tiempo futuro. -->
+
+- [ ] D) Modo imperativo. <!-- feedback: Incorrecto. Modo imperativo. -->
 
 ### Explicación Pedagogica
 Los tiempos compuestos se forman con el verbo "haber" conjugado y el participio del verbo principal, indicando acciones terminadas con relevancia en el presente.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -158,21 +155,20 @@ Los tiempos compuestos se forman con el verbo "haber" conjugado y el participio 
 "Ayer **comí** fruta" / "Antes **comía** mucha fruta". ¿Cuál es la diferencia entre los dos verbos en pasado?
 
 ### Opciones
-- [ ] A) No hay ninguna diferencia, significan lo mismo.
-  <!-- feedback: Sí hay una diferencia de matiz temporal. -->
-- [x] B) "Comí" indica una acción terminada en un momento exacto; "comía" indica una acción que se repetía en el pasado.
-  <!-- feedback: ¡Exacto! Es la diferencia entre acciones puntuales y hábitos pasados. -->
-- [ ] C) "Comí" es para el futuro y "comía" para el presente.
-  <!-- feedback: Ambos están en pasado. -->
-- [ ] D) "Comí" es más elegante que "comía".
-  <!-- feedback: No es una cuestión de elegancia, sino de gramática. -->
+- [ ] A) No hay ninguna diferencia, significan lo mismo. <!-- feedback: Incorrecto. No hay ninguna diferencia, significan lo -->
+
+- [x] B) "Comí" indica una acción terminada en un momento exacto; "comía" indica una acción que se repetía en el pasado. <!-- feedback: Correcto! "Comí" indica una acción terminada en un momento exacto; "co -->
+
+- [ ] C) "Comí" es para el futuro y "comía" para el presente. <!-- feedback: Incorrecto. "Comí" es para el futuro y "comía" para  -->
+
+- [ ] D) "Comí" es más elegante que "comía". <!-- feedback: Incorrecto. "Comí" es más elegante que "comía". -->
 
 ### Explicación Pedagogica
 El español tiene varios tiempos para el pasado que permiten precisar si la acción fue única o habitual.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -183,21 +179,20 @@ El español tiene varios tiempos para el pasado que permiten precisar si la acci
 ¿Cuál es la forma correcta del verbo **"ir"** en pasado para la primera persona (Yo)?
 
 ### Opciones
-- [ ] A) Yo ií.
-  <!-- feedback: No existe esa forma. -->
-- [x] B) Yo fui.
-  <!-- feedback: ¡Muy bien! El verbo "ir" es irregular y cambia totalmente su forma. -->
-- [ ] C) Yo fue.
-  <!-- feedback: Eso es para "Él" o "Ella". -->
-- [ ] D) Yo iré.
-  <!-- feedback: Eso es tiempo futuro. -->
+- [ ] A) Yo ií. <!-- feedback: Incorrecto. Yo ií. -->
+
+- [x] B) Yo fui. <!-- feedback: Correcto! Yo fui. -->
+
+- [ ] C) Yo fue. <!-- feedback: Incorrecto. Yo fue. -->
+
+- [ ] D) Yo iré. <!-- feedback: Incorrecto. Yo iré. -->
 
 ### Explicación Pedagogica
 Los verbos irregulares no siguen el modelo de su conjugación y deben aprenderse por su alta frecuencia de uso.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -208,21 +203,20 @@ Los verbos irregulares no siguen el modelo de su conjugación y deben aprenderse
 Relaciona correctamente: **Caminar**, **Caminando**, **Caminado**. ¿En qué orden están?
 
 ### Opciones
-- [x] A) Infinitivo, Gerundio, Participio.
-  <!-- feedback: ¡Excelente! -ar (infinitivo), -ando (gerundio), -ado (participio). -->
-- [ ] B) Participio, Infinitivo, Gerundio.
-  <!-- feedback: El orden no coincide con las terminaciones. -->
-- [ ] C) Gerundio, Participio, Infinitivo.
-  <!-- feedback: El orden no coincide. -->
-- [ ] D) Son tres verbos diferentes.
-  <!-- feedback: Es el mismo verbo en sus tres formas no personales. -->
+- [x] A) Infinitivo, Gerundio, Participio. <!-- feedback: Correcto! Infinitivo, Gerundio, Participio. -->
+
+- [ ] B) Participio, Infinitivo, Gerundio. <!-- feedback: Incorrecto. Participio, Infinitivo, Gerundio. -->
+
+- [ ] C) Gerundio, Participio, Infinitivo. <!-- feedback: Incorrecto. Gerundio, Participio, Infinitivo. -->
+
+- [ ] D) Son tres verbos diferentes. <!-- feedback: Incorrecto. Son tres verbos diferentes. -->
 
 ### Explicación Pedagogica
 Las formas no personales del verbo no indican quién hace la acción ni en qué tiempo, pero son la base de muchas construcciones gramaticales.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -233,21 +227,20 @@ Las formas no personales del verbo no indican quién hace la acción ni en qué 
 ¿Cuál es el error en la frase: "La orquesta de músicos **tocaron** muy bien"?
 
 ### Opciones
-- [ ] A) No hay error.
-  <!-- feedback: Sí lo hay, de concordancia de número. -->
-- [x] B) El sujeto es "La orquesta" (singular), por lo tanto el verbo debe ser "tocó" (singular).
-  <!-- feedback: ¡Correcto! Aunque haya muchos músicos, la palabra orquesta es singular. -->
-- [ ] C) El verbo debe estar en futuro.
-  <!-- feedback: El tiempo está bien, el error es el número. -->
-- [ ] D) Falta una tilde en "orquesta".
-  <!-- feedback: Orquesta es grave terminada en vocal, no lleva tilde. -->
+- [ ] A) No hay error. <!-- feedback: Incorrecto. No hay error. -->
+
+- [x] B) El sujeto es "La orquesta" (singular), por lo tanto el verbo debe ser "tocó" (singular). <!-- feedback: Correcto! El sujeto es "La orquesta" (singular), por lo tanto el verbo -->
+
+- [ ] C) El verbo debe estar en futuro. <!-- feedback: Incorrecto. El verbo debe estar en futuro. -->
+
+- [ ] D) Falta una tilde en "orquesta". <!-- feedback: Incorrecto. Falta una tilde en "orquesta". -->
 
 ### Explicación Pedagogica
 Los sustantivos colectivos requieren siempre el verbo en singular, lo cual es un desafío común en la redacción avanzada.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -258,14 +251,13 @@ Los sustantivos colectivos requieren siempre el verbo en singular, lo cual es un
 ¿Cuál de estas frases usa correctamente el modo **imperativo** para dar una instrucción?
 
 ### Opciones
-- [ ] A) Los niños usan el computador con cuidado.
-  <!-- feedback: Es una descripción en modo indicativo. -->
-- [ ] B) Ojalá usáramos el computador con cuidado.
-  <!-- feedback: Es un deseo en modo subjuntivo. -->
-- [x] C) Use el computador con cuidado y apáguelo al terminar.
-  <!-- feedback: ¡Muy bien! Son órdenes claras y directas en modo imperativo. -->
-- [ ] D) Usar el computador con cuidado es importante.
-  <!-- feedback: Es una afirmación con infinitivo. -->
+- [ ] A) Los niños usan el computador con cuidado. <!-- feedback: Incorrecto. Los niños usan el computador con cuidado -->
+
+- [ ] B) Ojalá usáramos el computador con cuidado. <!-- feedback: Incorrecto. Ojalá usáramos el computador con cuidado -->
+
+- [x] C) Use el computador con cuidado y apáguelo al terminar. <!-- feedback: Correcto! Use el computador con cuidado y apáguelo al terminar. -->
+
+- [ ] D) Usar el computador con cuidado es importante. <!-- feedback: Incorrecto. Usar el computador con cuidado es import -->
 
 ### Explicación Pedagogica
 El dominio del modo imperativo es esencial para la producción de textos instructivos y normativos eficaces.

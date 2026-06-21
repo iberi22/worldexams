@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W11-textos-informativos-noticias-001-MASTERY"
+id: "CO-LEC-4-2026-W11-textos-informativos-noticias-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "textos-informativos-noticias"
-semana: "W11"
+week: "W11"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "noticias, texto informativo, estructura, titulares"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W11: Textos informativos: noticias
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W11-textos-informativos-noticias-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Titular noticia.
+**Contexto:** Titular noticia.
 
 ### Enunciado
 *"NOTICIA: Estudiantes de Buga ganan concurso nacional de lectura"* ¿De qué trata?
 
-### Options
-- [ ] A) Deporte en Buga.
+### Opciones
+- [ ] A) Deporte en Buga. <!-- feedback: Incorrecto. Deporte en Buga. -->
 - [x] B) Estudiantes ganan concurso de lectura. <!-- feedback: Correcto. -->
-- [ ] C) Cierre de escuela.
-- [ ] D) Concierto en Buga.
+- [ ] C) Cierre de escuela. <!-- feedback: Incorrecto. Cierre de escuela. -->
+- [ ] D) Concierto en Buga. <!-- feedback: Incorrecto. Concierto en Buga. -->
 
 ### Explicación Pedagógica
 Tema del titular.
@@ -49,17 +54,18 @@ Tema del titular.
 
 **ID:** `CO-LEC-4-2026-W11-textos-informativos-noticias-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Fecha noticia.
+**Contexto:** Fecha noticia.
 
 ### Enunciado
 *"El viernes 15 de marzo, la escuela de Buga ganó el concurso."* ¿Cuándo?
 
-### Options
+### Opciones
 - [x] A) Viernes 15 de marzo. <!-- feedback: Correcto. -->
-- [ ] B) Lunes 10.
-- [ ] C) Sábado 16.
-- [ ] D) Domingo 17.
+- [ ] B) Lunes 10. <!-- feedback: Incorrecto. Lunes 10. -->
+- [ ] C) Sábado 16. <!-- feedback: Incorrecto. Sábado 16. -->
+- [ ] D) Domingo 17. <!-- feedback: Incorrecto. Domingo 17. -->
 
 ### Explicación Pedagógica
 Fecha.
@@ -70,17 +76,18 @@ Fecha.
 
 **ID:** `CO-LEC-4-2026-W11-textos-informativos-noticias-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Qué pasó.
+**Contexto:** Qué pasó.
 
 ### Enunciado
 *"Bucaramanga inauguró un nuevo parque infantil en La Joya. 200 niños disfrutarán."* ¿Qué pasó?
 
-### Options
+### Opciones
 - [x] A) Inauguraron parque. <!-- feedback: Correcto. -->
-- [ ] B) Cerraron parque.
-- [ ] C) Construyeron escuela.
-- [ ] D) Sembraron árboles.
+- [ ] B) Cerraron parque. <!-- feedback: Incorrecto. Cerraron parque. -->
+- [ ] C) Construyeron escuela. <!-- feedback: Incorrecto. Construyeron escuela. -->
+- [ ] D) Sembraron árboles. <!-- feedback: Incorrecto. Sembraron árboles. -->
 
 ### Explicación Pedagógica
 Evento principal.
@@ -91,17 +98,18 @@ Evento principal.
 
 **ID:** `CO-LEC-4-2026-W11-textos-informativos-noticias-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Dónde ocurrió.
+**Contexto:** Dónde ocurrió.
 
 ### Enunciado
 *"En Sopó, Cundinamarca, se realizó la primera feria del libro infantil."* ¿Dónde?
 
-### Options
-- [ ] A) Bogotá.
+### Opciones
+- [ ] A) Bogotá. <!-- feedback: Incorrecto. Bogotá. -->
 - [x] B) Sopó, Cundinamarca. <!-- feedback: Correcto. -->
-- [ ] C) Medellín.
-- [ ] D) Cali.
+- [ ] C) Medellín. <!-- feedback: Incorrecto. Medellín. -->
+- [ ] D) Cali. <!-- feedback: Incorrecto. Cali. -->
 
 ### Explicación Pedagógica
 Lugar.
@@ -112,17 +120,18 @@ Lugar.
 
 **ID:** `CO-LEC-4-2026-W11-textos-informativos-noticias-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Propósito noticia.
+**Contexto:** Propósito noticia.
 
 ### Enunciado
 *"Noticia: cierre temporal de la vía al Llano por derrumbes."* ¿Propósito?
 
-### Options
-- [ ] A) Entretener.
+### Opciones
+- [ ] A) Entretener. <!-- feedback: Incorrecto. Entretener. -->
 - [x] B) Informar sobre el cierre. <!-- feedback: Correcto. -->
-- [ ] C) Vender productos.
-- [ ] D) Opinar.
+- [ ] C) Vender productos. <!-- feedback: Incorrecto. Vender productos. -->
+- [ ] D) Opinar. <!-- feedback: Incorrecto. Opinar. -->
 
 ### Explicación Pedagógica
 Propósito informativo.
@@ -133,17 +142,18 @@ Propósito informativo.
 
 **ID:** `CO-LEC-4-2026-W11-textos-informativos-noticias-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Inferir causa.
+**Contexto:** Inferir causa.
 
 ### Enunciado
 *"Festival de la cometa en Villa de Leyva cancelado por fuertes vientos."* ¿Causa?
 
-### Options
-- [ ] A) Falta dinero.
+### Opciones
+- [ ] A) Falta dinero. <!-- feedback: Incorrecto. Falta dinero. -->
 - [x] B) Fuertes vientos. <!-- feedback: Correcto. -->
-- [ ] C) Pocos participantes.
-- [ ] D) Lluvia.
+- [ ] C) Pocos participantes. <!-- feedback: Incorrecto. Pocos participantes. -->
+- [ ] D) Lluvia. <!-- feedback: Incorrecto. Lluvia. -->
 
 ### Explicación Pedagógica
 Causa cancelación.
@@ -154,13 +164,14 @@ Causa cancelación.
 
 **ID:** `CO-LEC-4-2026-W11-textos-informativos-noticias-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Hecho vs opinión.
+**Contexto:** Hecho vs opinión.
 
 ### Enunciado
 *"La obra del acueducto terminó a tiempo. ‘Es un gran avance’, dijo alcalde."* ¿HECHO?
 
-### Options
+### Opciones
 - [ ] A) Es gran avance. <!-- feedback: Opinión. -->
 - [x] B) La obra terminó a tiempo. <!-- feedback: Correcto. -->
 - [ ] C) Alcalde es bueno. <!-- feedback: Opinión. -->
@@ -175,17 +186,18 @@ Distinguir hecho de opinión.
 
 **ID:** `CO-LEC-4-2026-W11-textos-informativos-noticias-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Analizar titular.
+**Contexto:** Analizar titular.
 
 ### Enunciado
 *"Titular: ‘Joven de 12 años crea app para cuidar el agua’"* ¿Qué informa?
 
-### Options
+### Opciones
 - [x] A) Joven creó app sobre agua. <!-- feedback: Correcto. -->
-- [ ] B) App cuesta dinero.
-- [ ] C) Ganó premio.
-- [ ] D) App es mala.
+- [ ] B) App cuesta dinero. <!-- feedback: Incorrecto. App cuesta dinero. -->
+- [ ] C) Ganó premio. <!-- feedback: Incorrecto. Ganó premio. -->
+- [ ] D) App es mala. <!-- feedback: Incorrecto. App es mala. -->
 
 ### Explicación Pedagógica
 Analizar titular.
@@ -196,17 +208,18 @@ Analizar titular.
 
 **ID:** `CO-LEC-4-2026-W11-textos-informativos-noticias-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** ¿Es noticia?
+**Contexto:** ¿Es noticia?
 
 ### Enunciado
 *"Mi gato se subió al árbol."* ¿Es noticia para el periódico?
 
-### Options
-- [ ] A) Sí, interesante.
+### Opciones
+- [ ] A) Sí, interesante. <!-- feedback: Incorrecto. Sí, interesante. -->
 - [x] B) No, hecho personal sin relevancia pública. <!-- feedback: Correcto. -->
-- [ ] C) Sí, todos los gatos son noticia.
-- [ ] D) No, pero podría.
+- [ ] C) Sí, todos los gatos son noticia. <!-- feedback: Incorrecto. Sí, todos los gatos son noticia. -->
+- [ ] D) No, pero podría. <!-- feedback: Incorrecto. No, pero podría. -->
 
 ### Explicación Pedagógica
 Evaluar noticiabilidad.
@@ -217,13 +230,14 @@ Evaluar noticiabilidad.
 
 **ID:** `CO-LEC-4-2026-W11-textos-informativos-noticias-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Elementos noticia.
+**Contexto:** Elementos noticia.
 
 ### Enunciado
 *"Noticia: ¿Qué?, ¿Quién?, ¿Cuándo?, ¿Dónde?, ¿Por qué?"* ¿Qué NO es elemento?
 
-### Options
+### Opciones
 - [ ] A) Lugar. <!-- feedback: Sí. -->
 - [x] B) Opinión del periodista. <!-- feedback: Correcto. -->
 - [ ] C) Fecha. <!-- feedback: Sí. -->

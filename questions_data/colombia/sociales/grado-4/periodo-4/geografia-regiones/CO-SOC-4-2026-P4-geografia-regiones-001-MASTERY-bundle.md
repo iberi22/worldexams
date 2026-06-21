@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-4-2026-P4-geografia-regiones-001-MASTERY"
+id: "CO-SOC-4-2026-P4-geografia-regiones-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales"
@@ -16,19 +16,27 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Relaciones con la historia y las culturas, Relaciones con el espacio y el ambiente"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 ## Question 1 [D3]
 
 **ID:** `CO-SOC-4-2026-P4-geografia-regiones-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Localización geográfica de Colombia.
+**Contexto:** Localización geográfica de Colombia.
 
 ### Enunciado
 Colombia es un país privilegiado porque se encuentra en la esquina noroccidental de Suramérica. ¿Con cuáles dos océanos tiene costa nuestro país?
 
-### Options
+### Opciones
 - [ ] A) Océano Índico y Océano Ártico <!-- feedback: Incorrect. Estos océanos están muy lejos de Colombia; el Índico está cerca de África y Asia, y el Ártico en el Polo Norte. -->
 - [ ] B) Océano Atlántico y Mar Rojo <!-- feedback: Incorrect. Aunque tenemos costa en el Atlántico, el Mar Rojo se encuentra entre África y Asia. -->
 - [x] C) Océano Pacífico y Océano Atlántico (Mar Caribe) <!-- feedback: Correct. Colombia es el único país de Suramérica que tiene costas tanto en el océano Pacífico como en el océano Atlántico a través del Mar Caribe. -->
@@ -42,14 +50,15 @@ Se evalúa la ubicación astronómica y geográfica de Colombia. La respuesta co
 ## Question 2 [D3]
 
 **ID:** `CO-SOC-4-2026-P4-geografia-regiones-001-MASTERY-v2`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Las Regiones Naturales de Colombia.
+**Contexto:** Las Regiones Naturales de Colombia.
 
 ### Enunciado
 Colombia se divide en 6 regiones naturales con características diferentes. ¿Cuál es la región que se encuentra en el centro del país y está atravesada por las tres cordilleras?
 
-### Options
+### Opciones
 - [ ] A) Región Caribe <!-- feedback: Incorrect. La región Caribe está al norte del país, junto al mar, y es mayormente plana. -->
 - [x] B) Región Andina <!-- feedback: Correct. La región Andina es la zona montañosa del centro del país donde se ramifica la cordillera de los Andes en tres: Occidental, Central y Oriental. -->
 - [ ] C) Región de la Amazonía <!-- feedback: Incorrect. Esta región está al sur del país y se caracteriza por sus selvas planas y grandes ríos, no por las cordilleras principales. -->
@@ -63,14 +72,15 @@ Se evalúa el conocimiento sobre la división regional del territorio colombiano
 ## Question 3 [D4]
 
 **ID:** `CO-SOC-4-2026-P4-geografia-regiones-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Los Pisos Térmicos.
+**Contexto:** Los Pisos Térmicos.
 
 ### Enunciado
 En Colombia no tenemos estaciones (primavera, verano, etc.), pero la temperatura cambia según la altura sobre el nivel del mar. ¿Cómo se le llama a este sistema de variación del clima?
 
-### Options
+### Opciones
 - [ ] A) Los meses del año <!-- feedback: Incorrect. El clima en Colombia no depende del mes en que estemos, sino de la altura a la que nos encontremos. -->
 - [x] B) Los pisos térmicos <!-- feedback: Correct. Los pisos térmicos (cálido, templado, frío, páramo y nieves perpetuas) explican por qué hace más frío a medida que subimos una montaña. -->
 - [ ] C) Las corrientes marinas <!-- feedback: Incorrect. Aunque influyen en la costa, el sistema que divide el país por temperaturas según la altura es el de pisos térmicos. -->
@@ -84,14 +94,15 @@ Se evalúa la comprensión de los factores climáticos del país. La respuesta c
 ## Question 4 [D4]
 
 **ID:** `CO-SOC-4-2026-P4-geografia-regiones-001-MASTERY-v4`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** La Región de la Orinoquía.
+**Contexto:** La Región de la Orinoquía.
 
 ### Enunciado
 La región de la Orinoquía es conocida como los "Llanos Orientales". ¿Cuál es la principal actividad económica que se desarrolla en sus inmensas llanuras verdes?
 
-### Options
+### Opciones
 - [ ] A) El cultivo de café en las montañas. <!-- feedback: Incorrect. El café se cultiva en las laderas de las cordilleras de la región Andina, no en las llanuras planas del oriente. -->
 - [x] B) La ganadería extensiva (cría de vacas). <!-- feedback: Correct. Debido a sus grandes extensiones de pastos naturales y terreno plano, la ganadería es la actividad económica y cultural más importante de los llanos. -->
 - [ ] C) La pesca de ballenas en el mar. <!-- feedback: Incorrect. La Orinoquía no tiene costa sobre el mar; sus aguas son de ríos como el Orinoco y el Meta. -->
@@ -105,14 +116,15 @@ Se evalúa la asociación entre las características físicas de una región y s
 ## Question 5 [D4]
 
 **ID:** `CO-SOC-4-2026-P4-geografia-regiones-001-MASTERY-v5`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Relaciones con el espacio y el ambiente]
-**Context:** La Región Pacífica y el clima.
+**Contexto:** La Región Pacífica y el clima.
 
 ### Enunciado
 La Región Pacífica es una de las zonas más lluviosas del mundo. ¿Cómo influye esta característica en la forma en que las personas construyen sus casas cerca de los ríos?
 
-### Options
+### Opciones
 - [ ] A) Construyen casas de hielo (iglus) para aguantar el frío. <!-- feedback: Incorrect. El Pacífico es una región cálida y húmeda; no hay nieve ni hielo para construir iglús. -->
 - [x] B) Construyen casas sobre palafitos (pilares de madera) para evitar inundaciones. <!-- feedback: Correct. Debido a las fuertes lluvias y la crecida de los ríos, las casas se elevan sobre el suelo para mantenerse secas y seguras. -->
 - [ ] C) Construyen casas bajo tierra para que no se mojen con la lluvia. <!-- feedback: Incorrect. En una zona tan húmeda, una casa bajo tierra se inundaría completamente de inmediato. -->
@@ -126,14 +138,15 @@ Se evalúa la comprensión de la adaptación humana al medio ambiente regional. 
 ## Question 6 [D4]
 
 **ID:** `CO-SOC-4-2026-P4-geografia-regiones-001-MASTERY-v6`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Hidrografía de Colombia.
+**Contexto:** Hidrografía de Colombia.
 
 ### Enunciado
 Colombia tiene una de las mayores reservas de agua dulce del mundo. ¿Cuál es el río más importante del país, que atraviesa casi toda Colombia de sur a norte y desemboca en el Mar Caribe?
 
-### Options
+### Opciones
 - [ ] A) El río Amazonas <!-- feedback: Incorrect. Aunque es el más grande del mundo y pasa por el sur de Colombia, no atraviesa el centro del país ni desemboca en el Caribe colombiano. -->
 - [x] B) El río Magdalena <!-- feedback: Correct. El Magdalena es la principal arteria fluvial de Colombia, fundamental para la economía y el transporte desde la época prehispánica. -->
 - [ ] C) El río Nilo <!-- feedback: Incorrect. El río Nilo se encuentra en África, específicamente en Egipto, muy lejos de Colombia. -->
@@ -147,14 +160,15 @@ Se evalúa el conocimiento de los principales rasgos hidrográficos nacionales. 
 ## Question 7 [D5]
 
 **ID:** `CO-SOC-4-2026-P4-geografia-regiones-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Relaciones con el espacio y el ambiente]
-**Context:** La Región Caribe y su relieve.
+**Contexto:** La Región Caribe y su relieve.
 
 ### Enunciado
 En la región Caribe, que es mayormente plana, sobresale una montaña muy alta cerca del mar que tiene picos nevados. ¿Cómo se llama este sistema montañoso independiente de los Andes?
 
-### Options
+### Opciones
 - [ ] A) El volcán Galeras <!-- feedback: Incorrect. El Galeras se encuentra en el departamento de Nariño, al sur del país, en la cordillera de los Andes. -->
 - [ ] B) El Nevado del Ruiz <!-- feedback: Incorrect. Se encuentra en la cordillera Central, lejos de la costa Caribe. -->
 - [x] C) La Sierra Nevada de Santa Marta <!-- feedback: Correct. Es la montaña costera más alta del mundo y un ecosistema único que alberga glaciares y selvas frente al mar Caribe. -->
@@ -168,14 +182,15 @@ Se evalúa la identificación de accidentes geográficos excepcionales. La respu
 ## Question 8 [D5]
 
 **ID:** `CO-SOC-4-2026-P4-geografia-regiones-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** La Región Insular.
+**Contexto:** La Región Insular.
 
 ### Enunciado
 La Región Insular de Colombia está formada por islas en ambos océanos. ¿Cuáles son las islas más famosas del Mar Caribe que pertenecen a Colombia y son un gran destino turístico?
 
-### Options
+### Opciones
 - [ ] A) Las Islas Galápagos <!-- feedback: Incorrect. Estas islas pertenecen a Ecuador, no a Colombia. -->
 - [x] B) San Andrés, Providencia y Santa Catalina <!-- feedback: Correct. Forman el departamento archipiélago de San Andrés, ubicado al norte en el Mar Caribe, famoso por su "mar de los siete colores". -->
 - [ ] C) La Isla de Pascua <!-- feedback: Incorrect. Esta isla se encuentra en el Océano Pacífico y pertenece a Chile. -->
@@ -189,14 +204,15 @@ Se evalúa el conocimiento sobre la soberanía y geografía insular. La respuest
 ## Question 9 [D5]
 
 **ID:** `CO-SOC-4-2026-P4-geografia-regiones-001-MASTERY-v9`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** La Región Amazónica y el medio ambiente.
+**Contexto:** La Región Amazónica y el medio ambiente.
 
 ### Enunciado
 La región de la Amazonía es considerada "el pulmón del mundo". ¿Cuál es la mayor amenaza que enfrenta este ecosistema actualmente y que afecta a todo el planeta?
 
-### Options
+### Opciones
 - [ ] A) El exceso de lluvia. <!-- feedback: Incorrect. La lluvia es natural y necesaria para mantener viva la selva tropical. -->
 - [x] B) La deforestación (tala de árboles) para ganadería o cultivos ilegales. <!-- feedback: Correct. La destrucción de la selva reduce la producción de oxígeno y la biodiversidad, contribuyendo al cambio climático global. -->
 - [ ] C) Que los animales aprendan a leer y escribir. <!-- feedback: Incorrect. Es un hecho fantástico que no representa ninguna amenaza para el ecosistema selvático. -->
@@ -210,14 +226,15 @@ Se evalúa la identificación de problemáticas ambientales contemporáneas de g
 ## Question 10 [D4]
 
 **ID:** `CO-SOC-4-2026-P4-geografia-regiones-001-MASTERY-v10`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** El relieve y la vida humana.
+**Contexto:** El relieve y la vida humana.
 
 ### Enunciado
 En Colombia, la mayoría de las ciudades grandes y la mayor parte de la población se encuentran en la Región Andina. ¿Cuál es una de las razones geográficas para esto?
 
-### Options
+### Opciones
 - [ ] A) Porque es la única región donde se puede ver televisión. <!-- feedback: Incorrect. El acceso a la tecnología no depende del relieve montañoso. -->
 - [ ] B) Porque allí hace tanto calor que el agua nunca se acaba. <!-- feedback: Incorrect. Al contrario, la región andina tiene climas variados (frescos y fríos) que facilitan la vida humana y la agricultura. -->
 - [x] C) Debido a los climas frescos y la fertilidad de los suelos para diferentes cultivos. <!-- feedback: Correct. El relieve montañoso ofrece una variedad de climas y tierras ricas para vivir y producir alimentos, lo que atrajo a más personas. -->

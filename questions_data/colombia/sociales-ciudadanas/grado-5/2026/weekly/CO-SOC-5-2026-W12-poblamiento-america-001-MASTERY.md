@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "poblamiento-america"
-semana: "W12"
+week: "W12"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Teorias del poblamiento de America: estrecho de Bering, rutas 
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Segun la teoria mas aceptada, por donde llegaron los primeros pobladores a America?
@@ -39,12 +44,13 @@ El estrecho de Bering (entre Siberia y Alaska) estaba congelado durante la ultim
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Hace aproximadamente cuantos anos llegaron los primeros seres humanos a America?
@@ -60,12 +66,13 @@ Se estima que los primeros grupos humanos llegaron a America entre 15.000 y 20.0
 
 ---
 
-## Pregunta 3 [D1]
+## Question 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY-v3`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que continente abandonaron los primeros pobladores para llegar a America?
@@ -81,12 +88,13 @@ Los primeros americanos eran cazadores-recolectores de Asia (Siberia) que siguie
 
 ---
 
-## Pregunta 4 [D1]
+## Question 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Que es el estrecho de Bering?
@@ -102,12 +110,13 @@ El estrecho de Bering tiene solo 82 km de ancho. Durante las glaciaciones, al ba
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Quienes eran los primeros pobladores de America segun su modo de vida?
@@ -123,12 +132,13 @@ Los primeros americanos eran nomadas que se desplazaban siguiendo a los animales
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Si el estrecho de Bering estaba congelado, por que los primeros pobladores no regresaron a Asia?
@@ -144,12 +154,13 @@ Al subir las temperaturas, los glaciares se derritieron y el estrecho se lleno d
 
 ---
 
-## Pregunta 7 [D1]
+## Question 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY-v7`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Existen otras teorias sobre el poblamiento de America. Cual de las siguientes es una?
@@ -165,12 +176,13 @@ Ademas de la teoria de Bering, existe la teoria del poblamiento por el Atlantico
 
 ---
 
-## Pregunta 8 [D1]
+## Question 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY-v8`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cual de estos animales fue cazado por los primeros pobladores de America?
@@ -186,12 +198,13 @@ Los primeros pobladores cazaban mega-fauna: mamuts, perezosos gigantes, tigres d
 
 ---
 
-## Pregunta 9 [D1]
+## Question 9 [D1]
 
 **ID:** `CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY-v9`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Por que el nivel del mar estaba mas bajo durante las glaciaciones?
@@ -207,12 +220,13 @@ Durante las glaciaciones, enormes cantidades de agua quedaron atrapadas en los g
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W12-poblamiento-america-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Cual fue el principal efecto del poblamiento humano en America para los ecosistemas?

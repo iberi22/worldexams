@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W11-ecosistemas-colombianos-001-MASTERY"
+id: "CO-CIE-6-2026-W11-ecosistemas-colombianos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W11 — Ecosistemas Colombianos
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W11-ecosistemas-colombianos-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá estudian los ecosistemas colombianos en clase de ciencias.
+**Contexto:** En Bogotá estudian los ecosistemas colombianos en clase de ciencias.
 
 ### Enunciado
 ¿Qué es un ecosistema?
 
-### Options
+### Opciones
 - [ ] A) Un conjunto de animales que viven en un lugar <!-- feedback: Incorrecto. Un ecosistema incluye también a las plantas y los factores abióticos. -->
 - [ ] B) Un lugar geográfico con un clima determinado <!-- feedback: Incorrecto. Eso es solo el hábitat, no el ecosistema completo. -->
 - [x] C) Un sistema formado por los seres vivos (bióticos) y el ambiente físico (abiótico) que interactúan <!-- feedback: Correcto. El ecosistema incluye factores bióticos y abióticos interactuando. -->
@@ -52,13 +55,14 @@ Colombia es uno de los países más diversos del mundo en ecosistemas, con pára
 
 **ID:** `CO-CIE-6-2026-W11-ecosistemas-colombianos-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, estudiantes identifican el ecosistema de páramo.
+**Contexto:** En Medellín, estudiantes identifican el ecosistema de páramo.
 
 ### Enunciado
 ¿Cuál de las siguientes características corresponde al ecosistema de páramo colombiano?
 
-### Options
+### Opciones
 - [ ] A) Altas temperaturas y lluvias todo el año <!-- feedback: Incorrecto. Eso corresponde a la selva tropical. -->
 - [ ] B) Suelo arenoso y clima muy seco <!-- feedback: Incorrecto. Eso corresponde al desierto. -->
 - [x] C) Altitudes superiores a 3,000 metros, clima frío y vegetación de frailejones <!-- feedback: Correcto. El páramo es un ecosistema de alta montaña. -->
@@ -79,13 +83,14 @@ Colombia tiene el 50% de los páramos del mundo, siendo el más grande el Parque
 
 **ID:** `CO-CIE-6-2026-W11-ecosistemas-colombianos-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, estudiantes analizan la importancia de la selva amazónica colombiana.
+**Contexto:** En Cali, estudiantes analizan la importancia de la selva amazónica colombiana.
 
 ### Enunciado
 ¿Por qué la selva amazónica colombiana es importante para el planeta?
 
-### Options
+### Opciones
 - [ ] A) Porque es el desierto más grande del mundo <!-- feedback: Incorrecto. La Amazonía no es un desierto; es una selva tropical. -->
 - [ ] B) Porque produce la mayor parte del petróleo de Colombia <!-- feedback: Incorrecto. El petróleo no se produce en la selva. -->
 - [x] C) Porque produce oxígeno y alberga una enorme biodiversidad <!-- feedback: Correcto. La Amazonía es el "pulmón del planeta". -->
@@ -107,13 +112,14 @@ La Amazonía enfrenta amenazas como la deforestación (por ganadería, minería 
 
 **ID:** `CO-CIE-6-2026-W11-ecosistemas-colombianos-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla estudian el ecosistema de la costa pacífica colombiana.
+**Contexto:** En Barranquilla estudian el ecosistema de la costa pacífica colombiana.
 
 ### Enunciado
 ¿Qué caracteriza al ecosistema de la costa pacífica colombiana?
 
-### Options
+### Opciones
 - [ ] A) Clima seco y poca vegetación <!-- feedback: Incorrecto. La costa pacífica colombiana es muy húmeda. -->
 - [x] B) Altísima pluviosidad (lluvias intensas), manglares y bosque muy húmedo <!-- feedback: Correcto. Es una de las zonas más lluviosas del mundo. -->
 - [ ] C) Temperaturas bajo cero y nieve permanente <!-- feedback: Incorrecto. Eso es la alta montaña (nevados). -->
@@ -135,13 +141,14 @@ Los manglares son especialmente importantes como criaderos de peces y crustáceo
 
 **ID:** `CO-CIE-6-2026-W11-ecosistemas-colombianos-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, estudiantes identifican animales según el ecosistema donde viven.
+**Contexto:** En Bucaramanga, estudiantes identifican animales según el ecosistema donde viven.
 
 ### Enunciado
 ¿Cuál de los siguientes animales es característico del ecosistema de páramo?
 
-### Options
+### Opciones
 - [ ] A) El caimán del Magdalena <!-- feedback: Incorrecto. El caimán vive en ríos y humedales de tierras bajas. -->
 - [ ] B) El tucán de la selva amazónica <!-- feedback: Incorrecto. El tucán vive en selvas tropicales. -->
 - [x] C) El cóndor de los Andes <!-- feedback: Correcto. El cóndor habita en las altas montañas andinas y páramos. -->
@@ -156,13 +163,14 @@ El cóndor de los Andes (Vultur gryphus) es un ave emblemática de los páramos 
 
 **ID:** `CO-CIE-6-2026-W11-ecosistemas-colombianos-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, estudiantes relacionan ecosistemas con sus características.
+**Contexto:** En Cartagena, estudiantes relacionan ecosistemas con sus características.
 
 ### Enunciado
 Relaciona: si un estudiante visita un lugar con árboles muy altos, clima cálido y lluvioso, y escucha monos aulladores, ¿en qué ecosistema se encuentra?
 
-### Options
+### Opciones
 - [ ] A) Páramo <!-- feedback: Incorrecto. En el páramo hace frío y hay frailejones, no monos. -->
 - [x] B) Selva tropical (amazónica o del Chocó) <!-- feedback: Correcto. La descripción corresponde a la selva tropical. -->
 - [ ] C) Desierto de La Guajira <!-- feedback: Incorrecto. En La Guajira hace calor pero es seco, sin árboles altos. -->
@@ -183,13 +191,14 @@ En Colombia, las principales selvas tropicales son la Amazonía (suroriente) y l
 
 **ID:** `CO-CIE-6-2026-W11-ecosistemas-colombianos-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira analizan por qué el páramo es importante para las ciudades.
+**Contexto:** En Pereira analizan por qué el páramo es importante para las ciudades.
 
 ### Enunciado
 ¿Por qué los páramos colombianos son considerados "fábricas de agua"?
 
-### Options
+### Opciones
 - [ ] A) Porque allí llueve todo el día sin parar <!-- feedback: Incorrecto. La lluvia es parte del ciclo pero no explica completamente la función. -->
 - [ ] B) Porque tienen ríos subterráneos enormes <!-- feedback: Incorrecto. No es la principal fuente. -->
 - [x] C) Porque los frailejones y los suelos esponjosos capturan la niebla y el agua de lluvia, regulando el flujo de agua hacia los ríos <!-- feedback: Correcto. El páramo funciona como una esponja que almacena y libera agua gradualmente. -->
@@ -210,13 +219,14 @@ Por eso es vital proteger los páramos de amenazas como la minería, la agricult
 
 **ID:** `CO-CIE-6-2026-W11-ecosistemas-colombianos-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales comparan la selva tropical y el páramo colombianos.
+**Contexto:** En Manizales comparan la selva tropical y el páramo colombianos.
 
 ### Enunciado
 ¿Cuál de las siguientes afirmaciones compara CORRECTAMENTE la selva tropical y el páramo?
 
-### Options
+### Opciones
 - [ ] A) Ambos tienen la misma temperatura promedio <!-- feedback: Incorrecto. La selva es cálida (24-27°C) y el páramo es frío (0-10°C). -->
 - [ ] B) En la selva hay poca biodiversidad y en el páramo hay mucha <!-- feedback: Incorrecto. Ambos tienen alta biodiversidad, aunque de diferentes especies. -->
 - [x] C) La selva tiene árboles muy altos y gran densidad de vegetación; el páramo tiene frailejones y vegetación baja adaptada al frío <!-- feedback: Correcto. La vegetación se adapta a las condiciones climáticas de cada ecosistema. -->
@@ -235,13 +245,14 @@ Ambos ecosistemas son fundamentales para Colombia y enfrentan amenazas por activ
 
 **ID:** `CO-CIE-6-2026-W11-ecosistemas-colombianos-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, un estudiante propone talar un bosque para construir un centro comercial.
+**Contexto:** En Cúcuta, un estudiante propone talar un bosque para construir un centro comercial.
 
 ### Enunciado
 ¿Cuál es el mejor argumento ecológico para NO talar el bosque?
 
-### Options
+### Opciones
 - [ ] A) El centro comercial sería feo <!-- feedback: Incorrecto. Es una opinión estética, no un argumento científico. -->
 - [x] B) El bosque alberga especies de plantas y animales que perderían su hábitat, y su tala afectaría el clima local y los recursos hídricos <!-- feedback: Correcto. La pérdida de biodiversidad y servicios ecosistémicos tiene consecuencias graves. -->
 - [ ] C) Tiene muchos árboles bonitos <!-- feedback: Incorrecto. Es una valoración subjetiva sin base ecológica sólida. -->
@@ -263,13 +274,14 @@ El desarrollo sostenible busca equilibrar el desarrollo humano con la conservaci
 
 **ID:** `CO-CIE-6-2026-W11-ecosistemas-colombianos-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, los estudiantes proponen acciones para proteger los ecosistemas colombianos.
+**Contexto:** En Ibagué, los estudiantes proponen acciones para proteger los ecosistemas colombianos.
 
 ### Enunciado
 ¿Cuál de las siguientes acciones es la más efectiva para proteger los ecosistemas colombianos?
 
-### Options
+### Opciones
 - [ ] A) No salir de casa nunca <!-- feedback: Incorrecto. El aislamiento no es una solución realista ni efectiva. -->
 - [ ] B) Solo comprar productos importados <!-- feedback: Incorrecto. El transporte internacional tiene alta huella de carbono. -->
 - [x] C) Consumir responsablemente, reciclar, apoyar áreas protegidas y denunciar la tala ilegal <!-- feedback: Correcto. Son acciones concretas y efectivas para la conservación. -->

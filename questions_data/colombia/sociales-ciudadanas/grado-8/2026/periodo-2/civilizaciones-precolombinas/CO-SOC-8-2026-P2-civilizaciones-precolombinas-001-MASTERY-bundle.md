@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-8-2026-P2-civilizaciones-precolombinas-001-MASTERY"
+id: "CO-SOC-8-2026-P2-civilizaciones-precolombinas-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "civilizaciones_precolombinas, mayas, aztecas, incas, muiscas, taironas, culturas_americanas_prehispanicas"
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Civilizaciones Precolombinas
 
@@ -24,17 +31,17 @@ Este bundle cubre las principales civilizaciones precolombinas de América: maya
 
 ---
 
-## Question 1
-
+## Question 1 [D1]
 **ID:** `CO-SOC-8-2026-P2-civilizaciones-precolombinas-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuáles fueron las tres civilizaciones precolombinas más grandes e importantes de América?
 
-### Options
+### Opciones
 - [ ] A) Egipcios, Griegos y Romanos <!-- feedback: Incorrecto. Esas son civilizaciones antiguas de Europa y África. -->
 - [ ] B) Vikingos, Celtas y Germanos <!-- feedback: Incorrecto. Eran pueblos europeos. -->
 - [x] C) Mayas (Mesoamérica), Aztecas (México central) e Incas (Andes sudamericanos) <!-- feedback: Correcto. Fueron las tres grandes civilizaciones precolombinas. -->
@@ -45,17 +52,17 @@ Estas tres civilizaciones desarrollaron estados complejos, escritura (mayas), si
 
 ---
 
-## Question 2
-
+## Question 2 [D1]
 **ID:** `CO-SOC-8-2026-P2-civilizaciones-precolombinas-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué culturas precolombinas habitaron el territorio de la actual Colombia?
 
-### Options
+### Opciones
 - [ ] A) Solo los incas, porque todo Colombia era parte del Imperio Inca <!-- feedback: Incorrecto. Los incas solo ocuparon el sur del país. -->
 - [ ] B) No hubo culturas importantes en Colombia antes de los españoles <!-- feedback: Incorrecto. Hubo culturas muy desarrolladas. -->
 - [x] C) Los muiscas (altiplano cundiboyacense), taironas (Sierra Nevada de Santa Marta), quimbayas (Eje Cafetero), zenúes (región Caribe), San Agustín (Huila), entre otras <!-- feedback: Correcto. Colombia tuvo una enorme diversidad cultural precolombina. -->
@@ -66,17 +73,17 @@ El territorio colombiano albergó una rica diversidad de culturas precolombinas.
 
 ---
 
-## Question 3
-
+## Question 3 [D1]
 **ID:** `CO-SOC-8-2026-P2-civilizaciones-precolombinas-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cómo era la organización política de los aztecas (mexicas)?
 
-### Options
+### Opciones
 - [ ] A) Era una democracia donde todos votaban <!-- feedback: Incorrecto. Era un imperio teocrático-militar. -->
 - [ ] B) Eran ciudades independientes sin gobierno central <!-- feedback: Incorrecto. Había un imperio centralizado. -->
 - [x] C) Era un imperio teocrático-militar gobernado por un emperador (Huey Tlatoani), con capital en Tenochtitlán (actual Ciudad de México) <!-- feedback: Correcto. El imperio azteca era centralizado y expansionista. -->
@@ -87,17 +94,17 @@ El Imperio Azteca (1428-1521) fue una alianza de tres ciudades-estado (Tenochtit
 
 ---
 
-## Question 4
-
+## Question 4 [D1]
 **ID:** `CO-SOC-8-2026-P2-civilizaciones-precolombinas-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué logros alcanzaron los mayas en matemáticas y astronomía?
 
-### Options
+### Opciones
 - [ ] A) No tenían conocimientos matemáticos ni astronómicos <!-- feedback: Incorrecto. Fueron excepcionales. -->
 - [ ] B) Inventaron el cero antes que cualquier otra civilización en el mundo <!-- feedback: Casi correcto, pero... -->
 - [x] C) Desarrollaron un sistema de numeración vigesimal, inventaron el concepto de cero de forma independiente (antes que europeos), y crearon un calendario solar de 365 días extremadamente preciso <!-- feedback: Correcto. Los mayas fueron matemáticos y astrónomos excepcionales. -->
@@ -108,17 +115,17 @@ Los mayas desarrollaron un sistema matemático vigesimal (base 20) y fueron una 
 
 ---
 
-## Question 5
-
+## Question 5 [D1]
 **ID:** `CO-SOC-8-2026-P2-civilizaciones-precolombinas-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cómo se organizaba el Imperio Inca y cuál era su capital?
 
-### Options
+### Opciones
 - [ ] A) Era un imperio descentralizado sin capital fija <!-- feedback: Incorrecto. Tenía una capital centralizada. -->
 - [ ] B) Su capital era Tenochtitlán <!-- feedback: Incorrecto. Esa era la capital azteca. -->
 - [x] C) Era un imperio centralizado gobernado por el Inca (emperador), con capital en Cusco (actual Perú). Se extendía desde Colombia hasta Chile y Argentina <!-- feedback: Correcto. El Tahuantinsuyo fue el imperio más extenso de América precolombina. -->
@@ -129,17 +136,17 @@ El Imperio Inca (Tahuantinsuyo, "cuatro regiones") fue el imperio más extenso d
 
 ---
 
-## Question 6
-
+## Question 6 [D1]
 **ID:** `CO-SOC-8-2026-P2-civilizaciones-precolombinas-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué era la "minga" o trabajo colectivo entre los muiscas?
 
-### Options
+### Opciones
 - [ ] A) Un tipo de tejido ceremonial <!-- feedback: Incorrecto. No era una prenda. -->
 - [ ] B) Un ritual religioso para pedir lluvia <!-- feedback: Incorrecto. Era un sistema de trabajo. -->
 - [x] C) Un sistema de trabajo comunitario donde la comunidad se reunía para realizar tareas colectivas como construir viviendas, cultivar o hacer caminos <!-- feedback: Correcto. La minga es una tradición precolombina que sobrevive hoy. -->
@@ -150,17 +157,17 @@ La minga (del quechua "mink'a") era y sigue siendo una práctica de trabajo comu
 
 ---
 
-## Question 7
-
+## Question 7 [D1]
 **ID:** `CO-SOC-8-2026-P2-civilizaciones-precolombinas-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué descubrimientos arqueológicos en San Agustín (Huila) nos enseñan sobre las culturas precolombinas colombianas?
 
-### Options
+### Opciones
 - [ ] A) No hay restos arqueológicos importantes en San Agustín <!-- feedback: Incorrecto. Es uno de los sitios arqueológicos más importantes de América. -->
 - [ ] B) Es un sitio minero de la época colonial <!-- feedback: Incorrecto. Es un sitio ceremonial precolombino. -->
 - [x] C) El Parque Arqueológico de San Agustín contiene más de 500 estatuas de piedra (monolitos) que representan figuras humanas y animales, evidenciando una cultura compleja con sofisticadas creencias religiosas y conocimientos de escultura <!-- feedback: Correcto. San Agustín es Patrimonio de la Humanidad. -->
@@ -171,17 +178,17 @@ San Agustín (declarado Patrimonio de la Humanidad por la UNESCO en 1995) es uno
 
 ---
 
-## Question 8
-
+## Question 8 [D1]
 **ID:** `CO-SOC-8-2026-P2-civilizaciones-precolombinas-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue la "Ciudad Perdida" (Teyuna) y quiénes la construyeron?
 
-### Options
+### Opciones
 - [ ] A) Una ciudad construida por los españoles en la Sierra Nevada <!-- feedback: Incorrecto. Es precolombina. -->
 - [ ] B) Una ciudad azteca en México <!-- feedback: Incorrecto. Está en Colombia. -->
 - [x] C) Un antiguo asentamiento construido por los taironas en la Sierra Nevada de Santa Marta, descubierto en 1972. Es una de las ciudades precolombinas más importantes de Sudamérica <!-- feedback: Correcto. La Ciudad Perdida data del siglo VIII d.C. -->
@@ -192,17 +199,17 @@ La Ciudad Perdida, también conocida como Teyuna o Buritaca-200, fue construida 
 
 ---
 
-## Question 9
-
+## Question 9 [D1]
 **ID:** `CO-SOC-8-2026-P2-civilizaciones-precolombinas-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué diferencias existían entre la organización social de los incas y la de los muiscas?
 
-### Options
+### Opciones
 - [ ] A) Eran exactamente iguales <!-- feedback: Incorrecto. Había diferencias importantes. -->
 - [ ] B) Los incas eran nómadas y los muiscas sedentarios <!-- feedback: Incorrecto. Ambos eran sedentarios. -->
 - [x] C) Los incas formaron un imperio centralizado y burocrático gobernado por un Inca absoluto; los muiscas tenían una confederación de caciques sin un poder central fuerte <!-- feedback: Correcto. La organización política era diferente. -->
@@ -213,17 +220,17 @@ Mientras los incas crearon un estado imperial altamente centralizado con una bur
 
 ---
 
-## Question 10
-
+## Question 10 [D1]
 **ID:** `CO-SOC-8-2026-P2-civilizaciones-precolombinas-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cómo funcionaba la agricultura entre las culturas precolombinas colombianas (muiscas, taironas)?
 
-### Options
+### Opciones
 - [ ] A) No practicaban la agricultura, eran cazadores-recolectores <!-- feedback: Incorrecto. Tenían agricultura avanzada. -->
 - [ ] B) Usaban técnicas de roza y quema sin ningún conocimiento del suelo <!-- feedback: Incorrecto. Tenían conocimientos agrícolas sofisticados. -->
 - [x] C) Desarrollaron técnicas como las terrazas de cultivo (taironas en la Sierra Nevada), camellones (zenúes en la región Caribe), y sistemas de irrigación y drenaje que permitían cultivar en condiciones geográficas diversas <!-- feedback: Correcto. La agricultura precolombina era muy sofisticada. -->
@@ -234,17 +241,17 @@ Los taironas construyeron terrazas agrícolas en las laderas de la Sierra Nevada
 
 ---
 
-## Question 11
-
+## Question 11 [D1]
 **ID:** `CO-SOC-8-2026-P2-civilizaciones-precolombinas-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué fue la "Leyenda de El Dorado" y qué cultura la originó?
 
-### Options
+### Opciones
 - [ ] A) Un imperio real de oro que existió en Colombia <!-- feedback: Incorrecto. Era una leyenda, no un imperio real. -->
 - [ ] B) Una ciudad de oro construida por los incas en Perú <!-- feedback: Incorrecto. La leyenda se originó en Colombia. -->
 - [x] C) Una leyenda sobre un cacique muisca que se cubría de oro y se sumergía en la laguna de Guatavita. Los españoles la interpretaron como una ciudad de oro, lo que impulsó exploraciones en Colombia <!-- feedback: Correcto. El Dorado era una ceremonia, no una ciudad. -->
@@ -255,17 +262,17 @@ La ceremonia del Dorado involucraba al nuevo cacique muisca, que se cubría de p
 
 ---
 
-## Question 12
-
+## Question 12 [D1]
 **ID:** `CO-SOC-8-2026-P2-civilizaciones-precolombinas-001-MASTERY-v12`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué papel jugó el oro en las culturas precolombinas colombianas, diferente al que jugó para los españoles?
 
-### Options
+### Opciones
 - [ ] A) El oro no tenía ningún valor para las culturas precolombinas <!-- feedback: Incorrecto. Tenía un gran valor. -->
 - [ ] B) Para ambos tenía el mismo valor económico y monetario <!-- feedback: Incorrecto. Los conceptos de valor eran diferentes. -->
 - [x] C) Para las culturas precolombinas, el oro tenía un valor religioso y simbólico (representaba la energía solar, conexión con los dioses); para los españoles, tenía valor económico (riqueza, moneda) <!-- feedback: Correcto. Eran concepciones radicalmente diferentes del valor del oro. -->
@@ -276,17 +283,17 @@ El Museo del Oro en Bogotá, con más de 55.000 piezas, muestra la orfebrería p
 
 ---
 
-## Question 13
-
+## Question 13 [D1]
 **ID:** `CO-SOC-8-2026-P2-civilizaciones-precolombinas-001-MASTERY-v13`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué formas de escritura o registro de información tenían las civilizaciones precolombinas?
 
-### Options
+### Opciones
 - [ ] A) Ninguna civilización precolombina desarrolló ningún sistema de escritura <!-- feedback: Incorrecto. Los mayas tenían un sistema de escritura complejo. -->
 - [ ] B) Todas tenían el mismo sistema de escritura alfabética que los europeos <!-- feedback: Incorrecto. Sus sistemas eran diferentes. -->
 - [x] C) Los mayas desarrollaron un sistema de escritura jeroglífica (glifos). Los incas usaban los quipus (cuerdas con nudos) para registrar información numérica. Las culturas colombianas (muiscas, taironas) no tenían escritura pero transmitían conocimiento oralmente <!-- feedback: Correcto. La diversidad de sistemas de registro era grande. -->
@@ -297,17 +304,17 @@ Los mayas tuvieron el sistema de escritura más desarrollado de América precolo
 
 ---
 
-## Question 14
-
+## Question 14 [D1]
 **ID:** `CO-SOC-8-2026-P2-civilizaciones-precolombinas-001-MASTERY-v14`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.40
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Analiza: las civilizaciones precolombinas lograron desarrollos impresionantes sin utilizar la rueda para transporte (la conocían pero la usaban solo en juguetes), sin animales de carga grandes (no había caballos ni bueyes), y sin hierro. ¿Qué nos dice esto sobre el desarrollo tecnológico?
 
-### Options
+### Opciones
 - [ ] A) Que estas civilizaciones eran inferiores tecnológicamente a las europeas y por eso fueron conquistadas <!-- feedback: Incorrecto. Tuvieron logros tecnológicos notables en otras áreas. -->
 - [ ] B) Que la tecnología solo puede desarrollarse con hierro y ruedas <!-- feedback: Incorrecto. Hay múltiples caminos tecnológicos. -->
 - [x] C) Que el desarrollo tecnológico sigue caminos diferentes según las condiciones ambientales y necesidades de cada sociedad. Las culturas precolombinas desarrollaron tecnologías avanzadas en agricultura, astronomía, arquitectura y orfebrería con los recursos disponibles <!-- feedback: Correcto. La tecnología no es un camino único. -->
@@ -328,7 +335,7 @@ Este análisis muestra que el desarrollo tecnológico no es lineal ni universal.
 ### Enunciado
 Analiza el siguiente dilema: los españoles interpretaron las prácticas religiosas precolombinas (sacrificios humanos aztecas, deidades muiscas) como "demoníacas" y usaron esta justificación para conquistar y evangelizar. Sin embargo, ellos mismos quemaban herejes en la hoguera (Inquisición). ¿Cómo podemos evaluar estas prácticas religiosas sin caer en juicios etnocéntricos?
 
-### Options
+### Opciones
 - [ ] A) Las prácticas precolombinas eran malvadas y la conquista fue moralmente correcta <!-- feedback: Incorrecto. Es un juicio etnocéntrico. -->
 - [ ] B) Todas las prácticas religiosas de todas las culturas son iguales y no se pueden criticar <!-- feedback: Incorrecto. El relativismo extremo también es problemático. -->
 - [x] C) Debemos entender las prácticas en su contexto histórico y cultural (evitando el etnocentrismo), pero también reconocer universalmente la dignidad humana y el derecho a la vida como estándares para cualquier evaluación ética <!-- feedback: Correcto. El equilibrio entre contextualización y principios universales es clave. -->

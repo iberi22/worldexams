@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-5-2026-P2-textos-argumentativos-basicos-001-MASTERY"
+id: "CO-LEC-5-2026-P2-textos-argumentativos-basicos-001-MASTERY-bundle"
 country: "colombia"
 grado: 5
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "texto argumentativo, tesis, argumentos, opinión, persuasión, contraargumento"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G5: ¿Deben los Niños Tener Celular?
 
@@ -40,13 +47,14 @@ rubric_baseline: "texto argumentativo, tesis, argumentos, opinión, persuasión,
 
 **ID:** `CO-LC-5-2026-P2-textos-argumentativos-basicos-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Tema del debate.
+**Contexto:** Tema del debate.
 
 ### Enunciado
 ¿Cuál fue el tema del debate organizado por la profesora Lucía?
 
-### Options
+### Opciones
 - [ ] A) Si los niños deben hacer todas las tareas en computador. <!-- feedback: Incorrecto. El debate no era sobre computadores. -->
 - [ ] B) Si los profesores deben usar celular en clase. <!-- feedback: Incorrecto. El debate no era sobre los profesores. -->
 - [x] C) Si los niños de primaria deben tener celular. <!-- feedback: Correcto. El tema del debate era exactamente ese: "¿Deben los niños de primaria tener celular?". -->
@@ -61,13 +69,14 @@ Se evalúa la identificación del tema central del texto argumentativo. El tema 
 
 **ID:** `CO-LC-5-2026-P2-textos-argumentativos-basicos-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Argumento del Grupo A.
+**Contexto:** Argumento del Grupo A.
 
 ### Enunciado
 ¿Cuál de estos es un argumento del Grupo A (a favor del celular)?
 
-### Options
+### Opciones
 - [ ] A) Que el celular distrae en clase. <!-- feedback: Incorrecto. Ese es un argumento del Grupo B (en contra). -->
 - [ ] B) Que el internet puede ser peligroso. <!-- feedback: Incorrecto. Ese también es un argumento del Grupo B. -->
 - [x] C) Que el celular sirve para comunicarse en caso de emergencia. <!-- feedback: Correcto. El Grupo A dice que "el celular sirve para comunicarse con los papás en caso de emergencia". -->
@@ -82,13 +91,14 @@ Se evalúa la capacidad de distinguir entre argumentos a favor y argumentos en c
 
 **ID:** `CO-LC-5-2026-P2-textos-argumentativos-basicos-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Argumento del Grupo B.
+**Contexto:** Argumento del Grupo B.
 
 ### Enunciado
 ¿Qué dice el Grupo B sobre los estudios realizados con niños que llevan celular al colegio?
 
-### Options
+### Opciones
 - [ ] A) Que los niños con celular tienen mejores notas. <!-- feedback: Incorrecto. El Grupo B dice lo contrario. -->
 - [ ] B) Que los niños con celular son más populares. <!-- feedback: Incorrecto. No se menciona popularidad. -->
 - [x] C) Que los niños que llevan celular se concentran menos y rinden peor en los exámenes. <!-- feedback: Correcto. El Grupo B cita estudios que muestran ese resultado. -->
@@ -103,13 +113,14 @@ Se evalúa la identificación de un argumento específico respaldado por "estudi
 
 **ID:** `CO-LC-5-2026-P2-textos-argumentativos-basicos-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Tesis de cada grupo.
+**Contexto:** Tesis de cada grupo.
 
 ### Enunciado
 El Grupo A dice que los niños SÍ deben tener celular "pero con reglas claras". ¿Qué significa esa condición?
 
-### Options
+### Opciones
 - [ ] A) Que los niños pueden usar el celular sin ninguna supervisión. <!-- feedback: Incorrecto. La condición implica supervisión, no libertad total. -->
 - [x] B) Que debe haber límites de tiempo y supervisión de los padres. <!-- feedback: Correcto. El Grupo A dice: "debe haber límites de tiempo y los papás deben supervisar lo que los niños ven en internet". -->
 - [ ] C) Que los celulares deben ser prohibidos en el colegio. <!-- feedback: Incorrecto. El Grupo A está a favor del celular, no de prohibirlo. -->
@@ -124,13 +135,14 @@ Se evalúa la comprensión de una posición matizada (no es un "sí" absoluto, s
 
 **ID:** `CO-LC-5-2026-P2-textos-argumentativos-basicos-001-MASTERY-v5`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Diferencias entre las posturas.
+**Contexto:** Diferencias entre las posturas.
 
 ### Enunciado
 ¿En qué se diferencia la postura del Grupo A y la del Grupo B?
 
-### Options
+### Opciones
 - [ ] A) En que el Grupo A odia la tecnología y el Grupo B la ama. <!-- feedback: Incorrecto. Ambos grupos reconocen la existencia de la tecnología. -->
 - [ ] B) En que el Grupo A quiere que todos tengan celular sin condiciones y el Grupo B quiere prohibirlos completamente. <!-- feedback: Incorrecto. El Grupo A sí pone condiciones. -->
 - [x] C) En que el Grupo A cree que con supervisión y límites el celular es beneficioso, mientras el Grupo B cree que los riesgos superan los beneficios. <!-- feedback: Correcto. La diferencia está en el balance entre beneficios y riesgos. -->
@@ -145,13 +157,14 @@ Se evalúa la capacidad de contrastar dos posturas argumentativas identificando 
 
 **ID:** `CO-LC-5-2026-P2-textos-argumentativos-basicos-001-MASTERY-v6`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Fortaleza de los argumentos.
+**Contexto:** Fortaleza de los argumentos.
 
 ### Enunciado
 ¿Cuál de los argumentos del Grupo B se basa en evidencia que ellos mencionan?
 
-### Options
+### Opciones
 - [ ] A) Que los niños pierden tiempo para jugar. <!-- feedback: Incorrecto. Aunque es un argumento válido, no citan estudios específicos para este punto. -->
 - [x] B) Que el celular distrae y afecta el rendimiento en exámenes, citando estudios. <!-- feedback: Correcto. El Grupo B dice explícitamente "Varios estudios muestran que...". -->
 - [ ] C) Que el internet es peligroso. <!-- feedback: Incorrecto. Es un argumento basado en opinión general, no en estudios citados. -->
@@ -166,13 +179,14 @@ Se evalúa la capacidad de identificar qué argumentos están respaldados por al
 
 **ID:** `CO-LC-5-2026-P2-textos-argumentativos-basicos-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Propósito del texto.
+**Contexto:** Propósito del texto.
 
 ### Enunciado
 ¿Cuál es el propósito principal de este texto?
 
-### Options
+### Opciones
 - [ ] A) Contar una historia entretenida sobre un debate escolar. <!-- feedback: Parcialmente cierto, pero el propósito es más específico. -->
 - [ ] B) Explicar cómo funciona un celular por dentro. <!-- feedback: Incorrecto. No hay explicación técnica del funcionamiento. -->
 - [x] C) Presentar argumentos a favor y en contra de un tema para que el lector reflexione y forme su propia opinión. <!-- feedback: Correcto. El texto presenta dos posturas contrastantes para promover la reflexión. -->
@@ -187,13 +201,14 @@ Se evalúa la identificación del propósito de un texto argumentativo equilibra
 
 **ID:** `CO-LC-5-2026-P2-textos-argumentativos-basicos-001-MASTERY-v8`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Argumento de seguridad.
+**Contexto:** Argumento de seguridad.
 
 ### Enunciado
 ¿Qué peligro menciona el Grupo B sobre el uso de internet por parte de los niños?
 
-### Options
+### Opciones
 - [ ] A) Que los celulares se dañan fácilmente. <!-- feedback: Incorrecto. No es un peligro para los niños. -->
 - [ ] B) Que el internet es muy caro. <!-- feedback: Incorrecto. No se menciona el costo. -->
 - [x] C) Que hay personas desconocidas que pueden engañarlos. <!-- feedback: Correcto. El Grupo B dice: "hay personas desconocidas que pueden engañarlos". -->
@@ -208,13 +223,14 @@ Se evalúa la identificación de un argumento específico relacionado con la seg
 
 **ID:** `CO-LC-5-2026-P2-textos-argumentativos-basicos-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Elementos del texto argumentativo.
+**Contexto:** Elementos del texto argumentativo.
 
 ### Enunciado
 En un texto argumentativo, la "tesis" es la opinión principal que se defiende. ¿Cuál es la tesis del Grupo A?
 
-### Options
+### Opciones
 - [ ] A) Que el celular debe prohibirse en las escuelas. <!-- feedback: Incorrecto. Esa sería la tesis del Grupo B. -->
 - [x] B) Que los niños de primaria SÍ deben tener celular, pero con reglas claras y supervisión. <!-- feedback: Correcto. El Grupo A comienza diciendo: "Nosotros creemos que los niños de primaria SÍ deben tener celular, pero con reglas claras". -->
 - [ ] C) Que el celular es útil solo para emergencias. <!-- feedback: Incorrecto. Eso es un argumento, no la tesis completa. -->
@@ -229,13 +245,14 @@ Se evalúa la identificación de la tesis en un texto argumentativo, distinguié
 
 **ID:** `CO-LC-5-2026-P2-textos-argumentativos-basicos-001-MASTERY-v10`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Toma de posición.
+**Contexto:** Toma de posición.
 
 ### Enunciado
 Después de leer ambos lados del debate, ¿qué se espera que haga el lector?
 
-### Options
+### Opciones
 - [ ] A) Que ignore los argumentos de ambos grupos. <!-- feedback: Incorrecto. El texto invita a considerar los argumentos. -->
 - [ ] B) Que se una al Grupo A porque tiene más argumentos. <!-- feedback: Incorrecto. No se favorece a ningún grupo. -->
 - [x] C) Que reflexione y forme su propia opinión sobre el tema. <!-- feedback: Correcto. Los textos argumentativos que presentan ambos lados buscan que el lector desarrolle su propio pensamiento crítico. -->

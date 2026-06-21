@@ -4,7 +4,7 @@ country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "mapas y planos"
-semana: "W02"
+week: "W02"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,14 +16,19 @@ rubric_baseline: "Lectura básica de mapas, planos y coordenadas geográficas"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
 
-## Pregunta 1 [D1]
+
+## Question 1 [D1]
 
 **ID:** `CO-SOC-5-2026-W02-mapas-planos-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Qué es un mapa?
@@ -39,12 +44,13 @@ Un mapa es una representación gráfica y a escala de la superficie terrestre o 
 
 ---
 
-## Pregunta 2 [D1]
+## Question 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W02-mapas-planos-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Cuál de los siguientes elementos es esencial en un mapa?
@@ -60,12 +66,13 @@ Todo mapa debe tener elementos básicos como: título, rosa de los vientos (orie
 
 ---
 
-## Pregunta 3 [D2]
+## Question 3 [D2]
 
 **ID:** `CO-SOC-5-2026-W02-mapas-planos-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 ¿Qué es un plano?
@@ -81,12 +88,13 @@ Un plano es una representación gráfica a escala de un espacio pequeño, como u
 
 ---
 
-## Pregunta 4 [D2]
+## Question 4 [D2]
 
 **ID:** `CO-SOC-5-2026-W02-mapas-planos-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Si en un mapa de Colombia la escala es 1:5.000.000, esto significa que:
@@ -102,12 +110,13 @@ La escala 1:5.000.000 significa que 1 centímetro en el mapa representa 5.000.00
 
 ---
 
-## Pregunta 5 [D2]
+## Question 5 [D2]
 
 **ID:** `CO-SOC-5-2026-W02-mapas-planos-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Las líneas imaginarias que van de polo a polo, como el meridiano de Greenwich, se llaman:
@@ -123,12 +132,13 @@ Los meridianos son líneas imaginarias que van de polo a polo. El meridiano de G
 
 ---
 
-## Pregunta 6 [D3]
+## Question 6 [D3]
 
 **ID:** `CO-SOC-5-2026-W02-mapas-planos-001-MASTERY-v6`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 La línea del Ecuador es un paralelo que divide la Tierra en:
@@ -144,12 +154,13 @@ La línea del Ecuador es el paralelo 0° que divide la Tierra en dos hemisferios
 
 ---
 
-## Pregunta 7 [D3]
+## Question 7 [D3]
 
 **ID:** `CO-SOC-5-2026-W02-mapas-planos-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 En un plano del colegio, la biblioteca está marcada con un símbolo de un libro. ¿Dónde debe buscar un estudiante para entender qué significa ese símbolo?
@@ -165,12 +176,13 @@ La leyenda o convenciones de un mapa explica el significado de todos los símbol
 
 ---
 
-## Pregunta 8 [D3]
+## Question 8 [D3]
 
 **ID:** `CO-SOC-5-2026-W02-mapas-planos-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Un profesor le pide a sus estudiantes ubicar Bogotá en un mapa de Colombia usando coordenadas. Las coordenadas aproximadas de Bogotá son 4° N y 74° O. ¿Qué significa esta información?
@@ -186,12 +198,13 @@ Las coordenadas geográficas se expresan en latitud (distancia desde el Ecuador 
 
 ---
 
-## Pregunta 9 [D4]
+## Question 9 [D4]
 
 **ID:** `CO-SOC-5-2026-W02-mapas-planos-001-MASTERY-v9`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 En un plano de la ciudad, la distancia entre la plaza principal y el hospital es de 8 centímetros. Si la escala del plano es 1:10.000, ¿cuál es la distancia real?
@@ -207,12 +220,13 @@ Para calcular la distancia real usando la escala, se multiplica la distancia en 
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W02-mapas-planos-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto colombiano
+**Contexto:** Contexto colombiano
 
 ### Enunciado
 Dos estudiantes comparan dos mapas de Colombia. Uno es un mapa político (escala pequeña, 1:10.000.000) y el otro es un plano de Bogotá (escala grande, 1:25.000). ¿Cuál afirmación es correcta?

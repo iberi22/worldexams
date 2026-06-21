@@ -1,5 +1,5 @@
 ---
-id: "ZA-LENGUA-11-P2-summary-writing-326-MASTERY"
+id: "za-lengua-11-P2-summary-writing-MASTERY-bundle"
 country: "southafrica"
 grado: 11
 asignatura: "lengua"
@@ -12,21 +12,28 @@ total_options: 80
 alignment: "Curriculum-aligned MASTERY bundle"
 difficulty_distribution: "D3-D4: Q1-4, D5-D6: Q5-10, D7-D8: Q11-16, D9-D10: Q17-20"
 generated: "2026-06-09T19:46:36.503387"
-license: "CC BY-NC-SA 4.0"
+license: "FREE"
 open_source: false
+bundle_type: "weekly"
+year: 2026
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 ## Question 1 [D3-D4]
 
 **ID:** `ZA-LENGUA-11-P2-summary-writing-001`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **CAPS:** [General competency]
-**Expected_Success:** [0.65]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es la función principal de un ensayo argumentativo?
 
-### Options
+### Opciones
 - [ ] C) Narrar una historia <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] D) Describir un proceso <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [x] B) Informar objetivamente <!-- feedback: Correct. This is correct. Well done! -->
@@ -41,14 +48,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 2 [D3-D4]
 
 **ID:** `ZA-LENGUA-11-P2-summary-writing-002`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **CAPS:** [General competency]
-**Expected_Success:** [0.70]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Identifique la oración subordinada en: 'El libro que me prestaste es fascinante.'
 
-### Options
+### Opciones
 - [ ] D) me prestaste <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) es fascinante <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [x] B) El libro <!-- feedback: Correct. This is correct. Well done! -->
@@ -63,14 +72,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 3 [D3-D4]
 
 **ID:** `ZA-LENGUA-11-P2-summary-writing-003`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **CAPS:** [General competency]
-**Expected_Success:** [0.75]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué figura literaria predomina en 'Tus ojos son dos luceros'?
 
-### Options
+### Opciones
 - [ ] D) Personificación <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) Hipérbole <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [x] B) Símil <!-- feedback: Correct. This is correct. Well done! -->
@@ -85,14 +96,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 4 [D3-D4]
 
 **ID:** `ZA-LENGUA-11-P2-summary-writing-004`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **CAPS:** [General competency]
-**Expected_Success:** [0.80]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Seleccione el sinónimo correcto de 'efímero'.
 
-### Options
+### Opciones
 - [ ] D) Lento / pausado <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [x] B) Eterno / permanente <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) Breve / pasajero <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -107,14 +120,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 5 [D5-D6]
 
 **ID:** `ZA-LENGUA-11-P2-summary-writing-005`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **CAPS:** [General competency]
-**Expected_Success:** [0.65]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es la idea principal de un texto expositivo?
 
-### Options
+### Opciones
 - [ ] D) Describir un personaje <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] A) Explicar un tema <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [x] B) Contar una historia <!-- feedback: Correct. This is correct. Well done! -->
@@ -130,13 +145,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 
 **ID:** `ZA-LENGUA-11-P2-summary-writing-006`
 **Bloom:** [Create]
+**ICFES:** Uso de conocimientos
 **CAPS:** [General competency]
-**Expected_Success:** [0.70]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Determine la categoría gramatical de la palabra 'rápidamente'.
 
-### Options
+### Opciones
 - [x] B) Adjetivo <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] C) Sustantivo <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] D) Verbo <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -151,14 +168,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 7 [D5-D6]
 
 **ID:** `ZA-LENGUA-11-P2-summary-writing-007`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **CAPS:** [General competency]
-**Expected_Success:** [0.75]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Complete la oración correctamente: 'Si ___ tiempo, iría al cine.'
 
-### Options
+### Opciones
 - [ ] D) tendré <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) tuve <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] A) tuviera <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -173,14 +192,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 8 [D5-D6]
 
 **ID:** `ZA-LENGUA-11-P2-summary-writing-008`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **CAPS:** [General competency]
-**Expected_Success:** [0.80]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué tipo de texto es una noticia periodística?
 
-### Options
+### Opciones
 - [ ] C) Argumentativo <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] D) Poético <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] A) Informativo <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -195,14 +216,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 9 [D5-D6]
 
 **ID:** `ZA-LENGUA-11-P2-summary-writing-009`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **CAPS:** [General competency]
-**Expected_Success:** [0.65]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Identifique el error ortográfico: 'Exámenes, exito, cárcel, árbol'
 
-### Options
+### Opciones
 - [x] B) Exámenes <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) éxito <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) árbol <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -217,14 +240,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 10 [D5-D6]
 
 **ID:** `ZA-LENGUA-11-P2-summary-writing-010`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **CAPS:** [General competency]
-**Expected_Success:** [0.70]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es el sujeto de la oración 'Mañana llegarán los invitados'?
 
-### Options
+### Opciones
 - [ ] A) los invitados <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [x] B) Mañana <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] D) invitados <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -239,14 +264,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 11 [D7-D8]
 
 **ID:** `ZA-LENGUA-11-P2-summary-writing-011`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **CAPS:** [General competency]
-**Expected_Success:** [0.75]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Defina el concepto de 'cohesión textual'.
 
-### Options
+### Opciones
 - [ ] C) Variedad léxica <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [x] B) Corrección gramatical <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] D) Extensión del texto <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -262,13 +289,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 
 **ID:** `ZA-LENGUA-11-P2-summary-writing-012`
 **Bloom:** [Create]
+**ICFES:** Uso de conocimientos
 **CAPS:** [General competency]
-**Expected_Success:** [0.80]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué función tiene un conector discursivo como 'sin embargo'?
 
-### Options
+### Opciones
 - [ ] D) Concluir <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [x] B) Añadir información <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) Indicar contraste <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -283,14 +312,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 13 [D7-D8]
 
 **ID:** `ZA-LENGUA-11-P2-summary-writing-013`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **CAPS:** [General competency]
-**Expected_Success:** [0.65]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Identifique la tesis en el siguiente argumento...
 
-### Options
+### Opciones
 - [ ] A) La tesis se presenta... <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [x] B) Los datos son... <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] D) El texto no tiene tesis <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -305,14 +336,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 14 [D7-D8]
 
 **ID:** `ZA-LENGUA-11-P2-summary-writing-014`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **CAPS:** [General competency]
-**Expected_Success:** [0.70]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál de las siguientes opciones es un texto narrativo?
 
-### Options
+### Opciones
 - [ ] C) Un instructivo <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] A) Un cuento <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [x] B) Un artículo científico <!-- feedback: Correct. This is correct. Well done! -->
@@ -327,14 +360,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 15 [D7-D8]
 
 **ID:** `ZA-LENGUA-11-P2-summary-writing-015`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **CAPS:** [General competency]
-**Expected_Success:** [0.75]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Señale el adverbio de tiempo en: 'Siempre come después de trabajar.'
 
-### Options
+### Opciones
 - [ ] D) trabajar <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) después <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [x] B) come <!-- feedback: Correct. This is correct. Well done! -->
@@ -349,14 +384,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 16 [D7-D8]
 
 **ID:** `ZA-LENGUA-11-P2-summary-writing-016`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **CAPS:** [General competency]
-**Expected_Success:** [0.80]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Enumere las partes de un texto argumentativo.
 
-### Options
+### Opciones
 - [ ] A) Introducción, desarrollo, conclusión <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) Tesis, antítesis, síntesis <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [x] B) Sujeto y predicado <!-- feedback: Correct. This is correct. Well done! -->
@@ -371,14 +408,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 17 [D9-D10]
 
 **ID:** `ZA-LENGUA-11-P2-summary-writing-017`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **CAPS:** [General competency]
-**Expected_Success:** [0.65]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es la diferencia entre denotación y connotación?
 
-### Options
+### Opciones
 - [ ] D) Formal vs informal <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) Concreto vs abstracto <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] A) Significado literal vs figurado <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -394,13 +433,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 
 **ID:** `ZA-LENGUA-11-P2-summary-writing-018`
 **Bloom:** [Create]
+**ICFES:** Uso de conocimientos
 **CAPS:** [General competency]
-**Expected_Success:** [0.70]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Corrija la concordancia: 'Habían muchas personas en la fiesta.'
 
-### Options
+### Opciones
 - [ ] D) Había mucha personas <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) Habían mucha gente <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] A) Había muchas personas <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -415,14 +456,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 19 [D9-D10]
 
 **ID:** `ZA-LENGUA-11-P2-summary-writing-019`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **CAPS:** [General competency]
-**Expected_Success:** [0.75]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué es una metáfora? Proporcione un ejemplo.
 
-### Options
+### Opciones
 - [x] B) Comparación explícita <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] D) Repetición de sonidos <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) Exageración <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -437,14 +480,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 20 [D9-D10]
 
 **ID:** `ZA-LENGUA-11-P2-summary-writing-020`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **CAPS:** [General competency]
-**Expected_Success:** [0.80]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Analice el propósito del autor en un texto persuasivo.
 
-### Options
+### Opciones
 - [ ] A) Convencer al lector <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [x] B) Entretener al lector <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] C) Informar al lector <!-- feedback: Incorrect. Common mistake, review the concept. -->

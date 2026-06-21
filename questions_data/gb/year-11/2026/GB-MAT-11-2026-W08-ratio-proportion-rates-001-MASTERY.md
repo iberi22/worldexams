@@ -5,504 +5,499 @@ exam: "GCSE / A-Level"
 grado: 11
 asignatura: "Mathematics"
 tema: "ratio-proportion-rates"
-semana: 8
+week: "W08"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "National Curriculum England + AQA/Edexcel"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle — Ratio, Proportion & Rates
 **Difficulty: D3-D10 | 20 Questions | Mathematics — GCSE / A-Level**
 
 ---
 
-## Question 1 — D4
+## Question 1 [D4]
 **ID:** `GB-MAT-11-2026-W08-ratio-proportion-rates-001-MASTERY-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A GB student is practicing ratio proportion rates.
+**Contexto:** A GB st### Opciones
+udent is practicing ratio proportion rates.
 
-**Stem:** Simplify: 7(5x + 24)
+### Enunciado
+Simplify: 7(5x + 24)
 
-- [x] **A)** 35x + 168
-  <!-- feedback: Correct! -->
+- [x] A) 35x + 168 <!-- feedback: Correcto! 35x + 168 -->
 
-- [ ] **B)** 35x + 24
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] B) 35x + 24 <!-- feedback: Incorrecto. 35x + 24 -->
 
-- [ ] **C)** 35x - 168
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) 35x - 168 <!-- feedback: Incorrecto. 35x - 168 -->
 
-- [ ] **D)** 12x + 24
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) 12x + 24 <!-- feedback: Incorrecto. 12x + 24 -->
 
-**Explanation:** Apply distributive property: 7(5x + 24) = 7×5x + 7×24 = 35x + 168.
+### Explicacion Pedagogica Apply distributive property: 7(5x + 24) = 7×5x + 7×24 = 35x + 168.
 
 ---
 
-## Question 2 — D4
+## Question 2 [D4]
 **ID:** `GB-MAT-11-2026-W08-ratio-proportion-rates-001-MASTERY-v2`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A GB student is practicing ratio proportion rates.
+**Contexto:** A GB st### Opciones
+udent is practicing ratio proportion rates.
 
-**Stem:** Find the slope between points (5, 5) and (10, 10)
+### Enunciado
+Find the slope between points (5, 5) and (10, 10)
 
-- [ ] **A)** 2
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
 
-- [x] **B)** 2
-  <!-- feedback: Correct! -->
+- [x] B) 2 <!-- feedback: Correcto! 2 -->
 
-- [ ] **C)** 5
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) 5 <!-- feedback: Incorrecto. 5 -->
 
-- [ ] **D)** 0
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) 0 <!-- feedback: Incorrecto. 0 -->
 
-**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.
+### Explicacion Pedagogica Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.
 
 ---
 
-## Question 3 — D3
+## Question 3 [D3]
 **ID:** `GB-MAT-11-2026-W08-ratio-proportion-rates-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A GB student is practicing ratio proportion rates.
+**Contexto:** A GB st### Opciones
+udent is practicing ratio proportion rates.
 
-**Stem:** Solve for x: 4x + 5 = 25
+### Enunciado
+Solve for x: 4x + 5 = 25
 
-- [ ] **A)** 2
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
 
-- [ ] **B)** 3
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] B) 3 <!-- feedback: Incorrecto. 3 -->
 
-- [x] **C)** 5
-  <!-- feedback: Correct! -->
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
 
-- [ ] **D)** 12
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) 12 <!-- feedback: Incorrecto. 12 -->
 
-**Explanation:** Subtract 5 from both sides: 4x = 20. Then divide by 4: x = 5.
+### Explicacion Pedagogica Subtract 5 from both sides: 4x = 20. Then divide by 4: x = 5.
 
 ---
 
-## Question 4 — D4
+## Question 4 [D4]
 **ID:** `GB-MAT-11-2026-W08-ratio-proportion-rates-001-MASTERY-v4`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A GB student is practicing ratio proportion rates.
+**Contexto:** A GB st### Opciones
+udent is practicing ratio proportion rates.
 
-**Stem:** Simplify: 7(12x + 11)
+### Enunciado
+Simplify: 7(12x + 11)
 
-- [x] **A)** 84x + 77
-  <!-- feedback: Correct! -->
+- [x] A) 84x + 77 <!-- feedback: Correcto! 84x + 77 -->
 
-- [ ] **B)** 84x + 11
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] B) 84x + 11 <!-- feedback: Incorrecto. 84x + 11 -->
 
-- [ ] **C)** 84x - 77
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) 84x - 77 <!-- feedback: Incorrecto. 84x - 77 -->
 
-- [ ] **D)** 19x + 11
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) 19x + 11 <!-- feedback: Incorrecto. 19x + 11 -->
 
-**Explanation:** Apply distributive property: 7(12x + 11) = 7×12x + 7×11 = 84x + 77.
+### Explicacion Pedagogica Apply distributive property: 7(12x + 11) = 7×12x + 7×11 = 84x + 77.
 
 ---
 
-## Question 5 — D4
+## Question 5 [D4]
 **ID:** `GB-MAT-11-2026-W08-ratio-proportion-rates-001-MASTERY-v5`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A GB student is practicing ratio proportion rates.
+**Contexto:** A GB st### Opciones
+udent is practicing ratio proportion rates.
 
-**Stem:** Find the slope between points (1, 1) and (9, 12)
+### Enunciado
+Find the slope between points (1, 1) and (9, 12)
 
-- [ ] **A)** 2
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
 
-- [x] **B)** 2
-  <!-- feedback: Correct! -->
+- [x] B) 2 <!-- feedback: Correcto! 2 -->
 
-- [ ] **C)** 6
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) 6 <!-- feedback: Incorrecto. 6 -->
 
-- [ ] **D)** 0
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) 0 <!-- feedback: Incorrecto. 0 -->
 
-**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.
+### Explicacion Pedagogica Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.
 
 ---
 
-## Question 6 — D3
+## Question 6 [D3]
 **ID:** `GB-MAT-11-2026-W08-ratio-proportion-rates-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A GB student is practicing ratio proportion rates.
+**Contexto:** A GB st### Opciones
+udent is practicing ratio proportion rates.
 
-**Stem:** Solve for x: 6x + 5 = 35
+### Enunciado
+Solve for x: 6x + 5 = 35
 
-- [ ] **A)** 2
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
 
-- [ ] **B)** 4
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] B) 4 <!-- feedback: Incorrecto. 4 -->
 
-- [x] **C)** 5
-  <!-- feedback: Correct! -->
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
 
-- [ ] **D)** 11
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) 11 <!-- feedback: Incorrecto. 11 -->
 
-**Explanation:** Subtract 5 from both sides: 6x = 30. Then divide by 6: x = 5.
+### Explicacion Pedagogica Subtract 5 from both sides: 6x = 30. Then divide by 6: x = 5.
 
 ---
 
-## Question 7 — D4
+## Question 7 [D4]
 **ID:** `GB-MAT-11-2026-W08-ratio-proportion-rates-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A GB student is practicing ratio proportion rates.
+**Contexto:** A GB st### Opciones
+udent is practicing ratio proportion rates.
 
-**Stem:** Simplify: 8(8x + 13)
+### Enunciado
+Simplify: 8(8x + 13)
 
-- [x] **A)** 64x + 104
-  <!-- feedback: Correct! -->
+- [x] A) 64x + 104 <!-- feedback: Correcto! 64x + 104 -->
 
-- [ ] **B)** 64x + 13
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] B) 64x + 13 <!-- feedback: Incorrecto. 64x + 13 -->
 
-- [ ] **C)** 64x - 104
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) 64x - 104 <!-- feedback: Incorrecto. 64x - 104 -->
 
-- [ ] **D)** 16x + 13
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) 16x + 13 <!-- feedback: Incorrecto. 16x + 13 -->
 
-**Explanation:** Apply distributive property: 8(8x + 13) = 8×8x + 8×13 = 64x + 104.
+### Explicacion Pedagogica Apply distributive property: 8(8x + 13) = 8×8x + 8×13 = 64x + 104.
 
 ---
 
-## Question 8 — D4
+## Question 8 [D4]
 **ID:** `GB-MAT-11-2026-W08-ratio-proportion-rates-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A GB student is practicing ratio proportion rates.
+**Contexto:** A GB st### Opciones
+udent is practicing ratio proportion rates.
 
-**Stem:** Find the slope between points (3, 3) and (9, 14)
+### Enunciado
+Find the slope between points (3, 3) and (9, 14)
 
-- [ ] **A)** 3
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) 3 <!-- feedback: Incorrecto. 3 -->
 
-- [x] **B)** 2
-  <!-- feedback: Correct! -->
+- [x] B) 2 <!-- feedback: Correcto! 2 -->
 
-- [ ] **C)** 6
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) 6 <!-- feedback: Incorrecto. 6 -->
 
-- [ ] **D)** 0
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) 0 <!-- feedback: Incorrecto. 0 -->
 
-**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.
+### Explicacion Pedagogica Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.
 
 ---
 
-## Question 9 — D3
+## Question 9 [D3]
 **ID:** `GB-MAT-11-2026-W08-ratio-proportion-rates-001-MASTERY-v9`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A GB student is practicing ratio proportion rates.
+**Contexto:** A GB st### Opciones
+udent is practicing ratio proportion rates.
 
-**Stem:** Solve for x: 2x + 6 = 16
+### Enunciado
+Solve for x: 2x + 6 = 16
 
-- [ ] **A)** 3
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) 3 <!-- feedback: Incorrecto. 3 -->
 
-- [ ] **B)** 3
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] B) 3 <!-- feedback: Incorrecto. 3 -->
 
-- [x] **C)** 5
-  <!-- feedback: Correct! -->
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
 
-- [ ] **D)** 12
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) 12 <!-- feedback: Incorrecto. 12 -->
 
-**Explanation:** Subtract 6 from both sides: 2x = 10. Then divide by 2: x = 5.
+### Explicacion Pedagogica Subtract 6 from both sides: 2x = 10. Then divide by 2: x = 5.
 
 ---
 
-## Question 10 — D4
+## Question 10 [D4]
 **ID:** `GB-MAT-11-2026-W08-ratio-proportion-rates-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A GB student is practicing ratio proportion rates.
+**Contexto:** A GB st### Opciones
+udent is practicing ratio proportion rates.
 
-**Stem:** Simplify: 8(9x + 31)
+### Enunciado
+Simplify: 8(9x + 31)
 
-- [x] **A)** 72x + 248
-  <!-- feedback: Correct! -->
+- [x] A) 72x + 248 <!-- feedback: Correcto! 72x + 248 -->
 
-- [ ] **B)** 72x + 31
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] B) 72x + 31 <!-- feedback: Incorrecto. 72x + 31 -->
 
-- [ ] **C)** 72x - 248
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) 72x - 248 <!-- feedback: Incorrecto. 72x - 248 -->
 
-- [ ] **D)** 17x + 31
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) 17x + 31 <!-- feedback: Incorrecto. 17x + 31 -->
 
-**Explanation:** Apply distributive property: 8(9x + 31) = 8×9x + 8×31 = 72x + 248.
+### Explicacion Pedagogica Apply distributive property: 8(9x + 31) = 8×9x + 8×31 = 72x + 248.
 
 ---
 
-## Question 11 — D4
+## Question 11 [D4]
 **ID:** `GB-MAT-11-2026-W08-ratio-proportion-rates-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A GB student is practicing ratio proportion rates.
+**Contexto:** A GB st### Opciones
+udent is practicing ratio proportion rates.
 
-**Stem:** Find the slope between points (5, 3) and (10, 12)
+### Enunciado
+Find the slope between points (5, 3) and (10, 12)
 
-- [ ] **A)** 1
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) 1 <!-- feedback: Incorrecto. 1 -->
 
-- [x] **B)** 2
-  <!-- feedback: Correct! -->
+- [x] B) 2 <!-- feedback: Correcto! 2 -->
 
-- [ ] **C)** 3
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) 3 <!-- feedback: Incorrecto. 3 -->
 
-- [ ] **D)** 1
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) 1 <!-- feedback: Incorrecto. 1 -->
 
-**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.
+### Explicacion Pedagogica Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.
 
 ---
 
-## Question 12 — D3
+## Question 12 [D3]
 **ID:** `GB-MAT-11-2026-W08-ratio-proportion-rates-001-MASTERY-v12`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A GB student is practicing ratio proportion rates.
+**Contexto:** A GB st### Opciones
+udent is practicing ratio proportion rates.
 
-**Stem:** Solve for x: 3x + 10 = 25
+### Enunciado
+Solve for x: 3x + 10 = 25
 
-- [ ] **A)** 2
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
 
-- [ ] **B)** 4
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] B) 4 <!-- feedback: Incorrecto. 4 -->
 
-- [x] **C)** 5
-  <!-- feedback: Correct! -->
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
 
-- [ ] **D)** 12
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) 12 <!-- feedback: Incorrecto. 12 -->
 
-**Explanation:** Subtract 10 from both sides: 3x = 15. Then divide by 3: x = 5.
+### Explicacion Pedagogica Subtract 10 from both sides: 3x = 15. Then divide by 3: x = 5.
 
 ---
 
-## Question 13 — D4
+## Question 13 [D4]
 **ID:** `GB-MAT-11-2026-W08-ratio-proportion-rates-001-MASTERY-v13`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A GB student is practicing ratio proportion rates.
+**Contexto:** A GB st### Opciones
+udent is practicing ratio proportion rates.
 
-**Stem:** Simplify: 3(7x + 12)
+### Enunciado
+Simplify: 3(7x + 12)
 
-- [x] **A)** 21x + 36
-  <!-- feedback: Correct! -->
+- [x] A) 21x + 36 <!-- feedback: Correcto! 21x + 36 -->
 
-- [ ] **B)** 21x + 12
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] B) 21x + 12 <!-- feedback: Incorrecto. 21x + 12 -->
 
-- [ ] **C)** 21x - 36
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) 21x - 36 <!-- feedback: Incorrecto. 21x - 36 -->
 
-- [ ] **D)** 10x + 12
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) 10x + 12 <!-- feedback: Incorrecto. 10x + 12 -->
 
-**Explanation:** Apply distributive property: 3(7x + 12) = 3×7x + 3×12 = 21x + 36.
+### Explicacion Pedagogica Apply distributive property: 3(7x + 12) = 3×7x + 3×12 = 21x + 36.
 
 ---
 
-## Question 14 — D4
+## Question 14 [D4]
 **ID:** `GB-MAT-11-2026-W08-ratio-proportion-rates-001-MASTERY-v14`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A GB student is practicing ratio proportion rates.
+**Contexto:** A GB st### Opciones
+udent is practicing ratio proportion rates.
 
-**Stem:** Find the slope between points (1, 5) and (10, 10)
+### Enunciado
+Find the slope between points (1, 5) and (10, 10)
 
-- [ ] **A)** 2
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
 
-- [x] **B)** 2
-  <!-- feedback: Correct! -->
+- [x] B) 2 <!-- feedback: Correcto! 2 -->
 
-- [ ] **C)** 5
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) 5 <!-- feedback: Incorrecto. 5 -->
 
-- [ ] **D)** 1
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) 1 <!-- feedback: Incorrecto. 1 -->
 
-**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.
+### Explicacion Pedagogica Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.
 
 ---
 
-## Question 15 — D3
+## Question 15 [D3]
 **ID:** `GB-MAT-11-2026-W08-ratio-proportion-rates-001-MASTERY-v15`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A GB student is practicing ratio proportion rates.
+**Contexto:** A GB st### Opciones
+udent is practicing ratio proportion rates.
 
-**Stem:** Solve for x: 4x + 5 = 25
+### Enunciado
+Solve for x: 4x + 5 = 25
 
-- [ ] **A)** 2
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
 
-- [ ] **B)** 5
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] B) 5 <!-- feedback: Incorrecto. 5 -->
 
-- [x] **C)** 5
-  <!-- feedback: Correct! -->
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
 
-- [ ] **D)** 10
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) 10 <!-- feedback: Incorrecto. 10 -->
 
-**Explanation:** Subtract 5 from both sides: 4x = 20. Then divide by 4: x = 5.
+### Explicacion Pedagogica Subtract 5 from both sides: 4x = 20. Then divide by 4: x = 5.
 
 ---
 
-## Question 16 — D4
+## Question 16 [D4]
 **ID:** `GB-MAT-11-2026-W08-ratio-proportion-rates-001-MASTERY-v16`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A GB student is practicing ratio proportion rates.
+**Contexto:** A GB st### Opciones
+udent is practicing ratio proportion rates.
 
-**Stem:** Simplify: 3(1x + 44)
+### Enunciado
+Simplify: 3(1x + 44)
 
-- [x] **A)** 3x + 132
-  <!-- feedback: Correct! -->
+- [x] A) 3x + 132 <!-- feedback: Correcto! 3x + 132 -->
 
-- [ ] **B)** 3x + 44
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] B) 3x + 44 <!-- feedback: Incorrecto. 3x + 44 -->
 
-- [ ] **C)** 3x - 132
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) 3x - 132 <!-- feedback: Incorrecto. 3x - 132 -->
 
-- [ ] **D)** 4x + 44
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) 4x + 44 <!-- feedback: Incorrecto. 4x + 44 -->
 
-**Explanation:** Apply distributive property: 3(1x + 44) = 3×1x + 3×44 = 3x + 132.
+### Explicacion Pedagogica Apply distributive property: 3(1x + 44) = 3×1x + 3×44 = 3x + 132.
 
 ---
 
-## Question 17 — D4
+## Question 17 [D4]
 **ID:** `GB-MAT-11-2026-W08-ratio-proportion-rates-001-MASTERY-v17`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A GB student is practicing ratio proportion rates.
+**Contexto:** A GB st### Opciones
+udent is practicing ratio proportion rates.
 
-**Stem:** Find the slope between points (2, 4) and (10, 11)
+### Enunciado
+Find the slope between points (2, 4) and (10, 11)
 
-- [ ] **A)** 1
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) 1 <!-- feedback: Incorrecto. 1 -->
 
-- [x] **B)** 2
-  <!-- feedback: Correct! -->
+- [x] B) 2 <!-- feedback: Correcto! 2 -->
 
-- [ ] **C)** 3
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) 3 <!-- feedback: Incorrecto. 3 -->
 
-- [ ] **D)** 1
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) 1 <!-- feedback: Incorrecto. 1 -->
 
-**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.
+### Explicacion Pedagogica Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.
 
 ---
 
-## Question 18 — D3
+## Question 18 [D3]
 **ID:** `GB-MAT-11-2026-W08-ratio-proportion-rates-001-MASTERY-v18`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A GB student is practicing ratio proportion rates.
+**Contexto:** A GB st### Opciones
+udent is practicing ratio proportion rates.
 
-**Stem:** Solve for x: 2x + 9 = 19
+### Enunciado
+Solve for x: 2x + 9 = 19
 
-- [ ] **A)** 3
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) 3 <!-- feedback: Incorrecto. 3 -->
 
-- [ ] **B)** 4
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] B) 4 <!-- feedback: Incorrecto. 4 -->
 
-- [x] **C)** 5
-  <!-- feedback: Correct! -->
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
 
-- [ ] **D)** 7
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) 7 <!-- feedback: Incorrecto. 7 -->
 
-**Explanation:** Subtract 9 from both sides: 2x = 10. Then divide by 2: x = 5.
+### Explicacion Pedagogica Subtract 9 from both sides: 2x = 10. Then divide by 2: x = 5.
 
 ---
 
-## Question 19 — D4
+## Question 19 [D4]
 **ID:** `GB-MAT-11-2026-W08-ratio-proportion-rates-001-MASTERY-v19`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A GB student is practicing ratio proportion rates.
+**Contexto:** A GB st### Opciones
+udent is practicing ratio proportion rates.
 
-**Stem:** Simplify: 8(10x + 31)
+### Enunciado
+Simplify: 8(10x + 31)
 
-- [x] **A)** 80x + 248
-  <!-- feedback: Correct! -->
+- [x] A) 80x + 248 <!-- feedback: Correcto! 80x + 248 -->
 
-- [ ] **B)** 80x + 31
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] B) 80x + 31 <!-- feedback: Incorrecto. 80x + 31 -->
 
-- [ ] **C)** 80x - 248
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) 80x - 248 <!-- feedback: Incorrecto. 80x - 248 -->
 
-- [ ] **D)** 18x + 31
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) 18x + 31 <!-- feedback: Incorrecto. 18x + 31 -->
 
-**Explanation:** Apply distributive property: 8(10x + 31) = 8×10x + 8×31 = 80x + 248.
+### Explicacion Pedagogica Apply distributive property: 8(10x + 31) = 8×10x + 8×31 = 80x + 248.
 
 ---
 
-## Question 20 — D4
+## Question 20 [D4]
 **ID:** `GB-MAT-11-2026-W08-ratio-proportion-rates-001-MASTERY-v20`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A GB student is practicing ratio proportion rates.
+**Contexto:** A GB st### Opciones
+udent is practicing ratio proportion rates.
 
-**Stem:** Find the slope between points (4, 2) and (8, 12)
+### Enunciado
+Find the slope between points (4, 2) and (8, 12)
 
-- [ ] **A)** 1
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) 1 <!-- feedback: Incorrecto. 1 -->
 
-- [x] **B)** 2
-  <!-- feedback: Correct! -->
+- [x] B) 2 <!-- feedback: Correcto! 2 -->
 
-- [ ] **C)** 6
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) 6 <!-- feedback: Incorrecto. 6 -->
 
-- [ ] **D)** 1
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) 1 <!-- feedback: Incorrecto. 1 -->
 
-**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.
+### Explicacion Pedagogica Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.
 
----
-
-### Quality Review
-
-| Dimension | Score |
-|-----------|-------|
-| Technical | 30/30 |
-| Curricular | 40/40 |
-| Context | 20/20 |
-| Writing | 10/10 |
-| **Total** | **100/100** |

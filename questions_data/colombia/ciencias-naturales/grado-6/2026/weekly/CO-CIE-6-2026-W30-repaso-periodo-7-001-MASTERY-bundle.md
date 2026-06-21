@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W30-repaso-periodo-7-001-MASTERY"
+id: "CO-CIE-6-2026-W30-repaso-periodo-7-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W30 — Repaso Periodo 7: Sistema Reproductor, Pubertad y Salud Sexual
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W30-repaso-periodo-7-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Tunja, estudiantes repasan los órganos del sistema reproductor.
+**Contexto:** En Tunja, estudiantes repasan los órganos del sistema reproductor.
 
 ### Enunciado
 ¿Cuál es la función de las trompas de Falopio en el sistema reproductor femenino?
 
-### Options
+### Opciones
 - [ ] A) Producir óvulos <!-- feedback: Los óvulos se producen en los ovarios, no en las trompas. -->
 - [x] B) Transportar el óvulo desde el ovario hasta el útero <!-- feedback: Correcto. Las trompas de Falopio conectan los ovarios con el útero y es donde ocurre la fecundación. -->
 - [ ] C) Producir hormonas femeninas <!-- feedback: Las hormonas femeninas (estrógeno, progesterona) se producen en los ovarios. -->
@@ -48,13 +51,14 @@ Las **trompas de Falopio** (también llamadas oviductos) son dos conductos de ap
 
 **ID:** `CO-CIE-6-2026-W30-repaso-periodo-7-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Riohacha, estudiantes repasan la producción de espermatozoides.
+**Contexto:** En Riohacha, estudiantes repasan la producción de espermatozoides.
 
 ### Enunciado
 ¿Dónde se almacenan y maduran los espermatozoides después de ser producidos en los testículos?
 
-### Options
+### Opciones
 - [ ] A) En el pene <!-- feedback: El pene es el órgano de copulación, no almacena espermatozoides. -->
 - [ ] B) En la próstata <!-- feedback: La próstata produce líquido seminal, no almacena espermatozoides. -->
 - [x] C) En el epidídimo <!-- feedback: Correcto. El epidídimo es donde los espermatozoides maduran y se almacenan. -->
@@ -69,13 +73,14 @@ El **epidídimo** es un conducto estrecho y muy enrollado de aproximadamente 6 m
 
 **ID:** `CO-CIE-6-2026-W30-repaso-periodo-7-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de Fenómenos
-**Context:** En Florencia, estudiantes explican el ciclo menstrual.
+**Contexto:** En Florencia, estudiantes explican el ciclo menstrual.
 
 ### Enunciado
 ¿Qué hormona provoca la ovulación (liberación del óvulo) aproximadamente a la mitad del ciclo menstrual?
 
-### Options
+### Opciones
 - [ ] A) Estrógeno <!-- feedback: El estrógeno prepara el endometrio pero el pico de LH es lo que desencadena la ovulación. -->
 - [x] B) LH (hormona luteinizante) <!-- feedback: Correcto. Un pico de LH desencadena la ovulación. -->
 - [ ] C) Progesterona <!-- feedback: La progesterona mantiene el endometrio después de la ovulación, no la desencadena. -->
@@ -90,13 +95,14 @@ El **ciclo menstrual** está regulado por hormonas en un eje: hipotálamo → hi
 
 **ID:** `CO-CIE-6-2026-W30-repaso-periodo-7-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de Fenómenos
-**Context:** En Mocoa, estudiantes repasan los cambios de la pubertad.
+**Contexto:** En Mocoa, estudiantes repasan los cambios de la pubertad.
 
 ### Enunciado
 ¿Qué característica distingue a los caracteres sexuales primarios de los secundarios?
 
-### Options
+### Opciones
 - [ ] A) Los primarios son visibles y los secundarios no <!-- feedback: Muchos caracteres secundarios son visibles (vello, senos, voz) y los primarios también. -->
 - [x] B) Los primarios están presentes desde el nacimiento, mientras que los secundarios aparecen durante la pubertad <!-- feedback: Correcto. Los órganos reproductivos se forman antes de nacer, los cambios puberales aparecen después. -->
 - [ ] C) Los primarios son femeninos y los secundarios son masculinos <!-- feedback: Ambos sexos tienen caracteres primarios y secundarios. -->
@@ -111,13 +117,14 @@ Los **caracteres sexuales primarios** son las estructuras anatómicas del sistem
 
 **ID:** `CO-CIE-6-2026-W30-repaso-periodo-7-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En San José del Guaviare, estudiantes aplican conocimientos sobre prevención.
+**Contexto:** En San José del Guaviare, estudiantes aplican conocimientos sobre prevención.
 
 ### Enunciado
 Tres semanas después de tener relaciones sexuales sin protección, una adolescente presenta náuseas, fatiga y retraso en su menstruación. ¿Cuál es el siguiente paso más adecuado?
 
-### Options
+### Opciones
 - [ ] A) Esperar otro mes para ver si los síntomas desaparecen <!-- feedback: Ante la sospecha de embarazo, no se debe retrasar la confirmación. -->
 - [x] B) Realizarse una prueba de embarazo (de farmacia o en laboratorio) y consultar a un servicio de salud <!-- feedback: Correcto. La confirmación temprana permite tomar decisiones informadas. -->
 - [ ] C) Tomar té de hierbas para inducir la menstruación <!-- feedback: Los remedios caseros no son efectivos y pueden ser peligrosos; no inducen la menstruación si hay embarazo. -->
@@ -132,13 +139,14 @@ Los **síntomas tempranos del embarazo** incluyen: retraso menstrual, náuseas (
 
 **ID:** `CO-CIE-6-2026-W30-repaso-periodo-7-006-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Yopal, estudiantes recuerdan los métodos anticonceptivos.
+**Contexto:** En Yopal, estudiantes recuerdan los métodos anticonceptivos.
 
 ### Enunciado
 ¿Cuál de los siguientes métodos anticonceptivos tiene la mayor efectividad en la prevención del embarazo?
 
-### Options
+### Opciones
 - [ ] A) Condón masculino <!-- feedback: El condón es efectivo (98% perfecto, 85% típico) pero no es el más efectivo. -->
 - [ ] B) Píldora anticonceptiva <!-- feedback: 99% perfecto, 91% típico; muy efectivo pero requiere disciplina diaria. -->
 - [x] C) Implante subdérmico <!-- feedback: Correcto. Más del 99.9% de efectividad, el más efectivo de los métodos reversibles. -->
@@ -153,13 +161,14 @@ La efectividad anticonceptiva se mide por el **Índice de Pearl** (número de em
 
 **ID:** `CO-CIE-6-2026-W30-repaso-periodo-7-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En Chiquinquirá, estudiantes analizan el efecto de las hormonas en la pubertad.
+**Contexto:** En Chiquinquirá, estudiantes analizan el efecto de las hormonas en la pubertad.
 
 ### Enunciado
 ¿Por qué las niñas suelen tener su estirón de crecimiento antes que los niños?
 
-### Options
+### Opciones
 - [ ] A) Porque las niñas comen más que los niños <!-- feedback: La alimentación no explica la diferencia temporal en el estirón de crecimiento. -->
 - [ ] B) Porque los niños producen más hormona de crecimiento <!-- feedback: Ambos producen GH, la diferencia está en la interacción con hormonas sexuales. -->
 - [x] C) Porque el estrógeno en las niñas activa la hormona de crecimiento y acelera la maduración ósea más temprano que la testosterona en los niños <!-- feedback: Correcto. El estrógeno promueve la maduración ósea más temprana. -->
@@ -174,13 +183,14 @@ El **estirón de crecimiento puberal** ocurre aproximadamente 2 años antes en l
 
 **ID:** `CO-CIE-6-2026-W30-repaso-periodo-7-008-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de Fenómenos
-**Context:** Ocaña, Norte de Santander — estudiantes repasan los cambios de la pubertad.
+**Contexto:** Ocaña, Norte de Santander — estudiantes repasan los cambios de la pubertad.
 
 ### Enunciado
 ¿Por qué algunos adolescentes experimentan un crecimiento temporal de tejido mamario (ginecomastia) durante la pubertad?
 
-### Options
+### Opciones
 - [ ] A) Porque están comiendo muchos alimentos procesados <!-- feedback: La alimentación no causa ginecomastia puberal directamente. -->
 - [x] B) Por un desequilibrio hormonal temporal entre estrógeno y testosterona que se normaliza con el tiempo <!-- feedback: Correcto. Es un fenómeno normal y transitorio. -->
 - [ ] C) Por falta de ejercicio físico <!-- feedback: El ejercicio no previene ni causa la ginecomastia puberal. -->
@@ -195,13 +205,14 @@ La **ginecomastia puberal** es el desarrollo temporal de tejido mamario en aprox
 
 **ID:** `CO-CIE-6-2026-W30-repaso-periodo-7-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Uso Comprensivo del Conocimiento Científico
-**Context:** En Barrancabermeja, estudiantes evalúan información sobre ITS.
+**Contexto:** En Barrancabermeja, estudiantes evalúan información sobre ITS.
 
 ### Enunciado
 Un compañero de clase dice: "El VIH solo les da a los homosexuales". ¿Cómo deberías responder científicamente?
 
-### Options
+### Opciones
 - [ ] A) Es verdad, solo afecta a personas homosexuales <!-- feedback: Esta afirmación es falsa y estigmatizante; el VIH afecta a cualquier persona sexualmente activa sin protección. -->
 - [ ] B) Es verdad, porque las personas homosexuales tienen relaciones más riesgosas <!-- feedback: La orientación sexual no determina el riesgo de VIH; las prácticas de riesgo sí. -->
 - [x] C) Es falso, el VIH puede afectar a cualquier persona que tenga relaciones sexuales sin protección o comparta agujas, independientemente de su orientación sexual <!-- feedback: Correcto. El VIH es un virus que no discrimina por orientación sexual. -->
@@ -216,8 +227,9 @@ El **VIH** (Virus de Inmunodeficiencia Humana) es un virus que ataca el sistema 
 
 **ID:** `CO-CIE-6-2026-W30-repaso-periodo-7-010-v1`
 **Bloom:** Comunicación y Representación
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Facatativá, estudiantes repasan conceptos clave del periodo 7.
+**Contexto:** En Facatativá, estudiantes repasan conceptos clave del periodo 7.
 
 ### Enunciado
 Ordena cronológicamente los siguientes eventos del sistema reproductor femenino:
@@ -226,7 +238,7 @@ Ordena cronológicamente los siguientes eventos del sistema reproductor femenino
 3. Maduración del folículo
 4. Fecundación (si hay espermatozoide)
 
-### Options
+### Opciones
 - [ ] A) 1, 2, 3, 4 <!-- feedback: El orden correcto es diferente. -->
 - [ ] B) 2, 1, 4, 3 <!-- feedback: La menstruación no es lo primero que ocurre en el ciclo. -->
 - [x] C) 3, 1, 4, 2 <!-- feedback: Correcto. Primero madura el folículo, luego ovula, si hay espermatozoide se fecunda y si no, ocurre la menstruación. -->

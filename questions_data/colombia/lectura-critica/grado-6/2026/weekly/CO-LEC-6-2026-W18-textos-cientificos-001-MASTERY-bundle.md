@@ -1,28 +1,32 @@
 ---
-id: "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY"
+id: "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "textos-cientificos"
-semana: "W18"
+week: "W18"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Científicos - Grado 6
 ## Semana W18
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio Técnico Industrial de Sogamoso, la profesora de ciencias explica los tipos de textos que se usan en la investigación.
+**Contexto:** En el Colegio Técnico Industrial de Sogamoso, la profesora de ciencias explica los tipos de textos que se usan en la investigación.
 **Expected_Success:** 0.86
 
 ### Enunciado
@@ -39,11 +43,11 @@ La divulgación científica busca hacer accesible el conocimiento científico al
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** Los estudiantes del Colegio Simón Bolívar de Santa Marta buscan ejemplos de textos científicos en la biblioteca escolar.
+**Contexto:** Los estudiantes del Colegio Simón Bolívar de Santa Marta buscan ejemplos de textos científicos en la biblioteca escolar.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -60,11 +64,11 @@ La divulgación científica se encuentra en: revistas de interés general (Seman
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. María Inmaculada de Manizales, los estudiantes leen un texto sobre el cambio climático en Colombia.
+**Contexto:** En la I.E. María Inmaculada de Manizales, los estudiantes leen un texto sobre el cambio climático en Colombia.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ El texto de divulgación científica se caracteriza por: 1) lenguaje claro y acc
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio San Juan Bautista de Cartago, los estudiantes comparan un artículo científico con uno de divulgación.
+**Contexto:** En el Colegio San Juan Bautista de Cartago, los estudiantes comparan un artículo científico con uno de divulgación.
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -102,11 +106,11 @@ El artículo científico especializado (paper) se publica en revistas indexadas,
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En la I.E. Pablo Neruda de Fusagasugá, los estudiantes deben redactar un texto de divulgación científica.
+**Contexto:** En la I.E. Pablo Neruda de Fusagasugá, los estudiantes deben redactar un texto de divulgación científica.
 **Expected_Success:** 0.71
 
 ### Enunciado
@@ -123,11 +127,11 @@ Un buen texto de divulgación científica: 1) empieza con una pregunta, dato cur
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Americano de Barranquilla, los estudiantes analizan un texto sobre la vacuna contra el COVID-19.
+**Contexto:** En el Colegio Americano de Barranquilla, los estudiantes analizan un texto sobre la vacuna contra el COVID-19.
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -144,11 +148,11 @@ Las analogías son fundamentales en la divulgación científica porque conectan 
 
 ---
 
-## Pregunta 7 [D7]
+## Question 7 [D7]
 **ID:** `CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En la Institución Educativa Técnica de Guateque, los estudiantes discuten por qué la divulgación científica es importante en Colombia.
+**Contexto:** En la Institución Educativa Técnica de Guateque, los estudiantes discuten por qué la divulgación científica es importante en Colombia.
 **Expected_Success:** 0.61
 
 ### Enunciado
@@ -165,11 +169,11 @@ La divulgación científica cumple un papel social fundamental: democratiza el c
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Mayor de Nariño en Pasto, los estudiantes evalúan la credibilidad de fuentes científicas en internet.
+**Contexto:** En el Colegio Mayor de Nariño en Pasto, los estudiantes evalúan la credibilidad de fuentes científicas en internet.
 **Expected_Success:** 0.56
 
 ### Enunciado
@@ -186,11 +190,11 @@ Para evaluar si un texto de divulgación es confiable, los estudiantes deben pre
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En la I.E. Santa Teresita de Quibdó, los estudiantes investigan si un documental de YouTube es divulgación científica confiable.
+**Contexto:** En la I.E. Santa Teresita de Quibdó, los estudiantes investigan si un documental de YouTube es divulgación científica confiable.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -207,11 +211,11 @@ La pseudociencia se caracteriza por: 1) afirmaciones extraordinarias sin evidenc
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio Ciudadela de Bosa, el proyecto de ciencias consiste en crear una infografía de divulgación científica.
+**Contexto:** En el Colegio Ciudadela de Bosa, el proyecto de ciencias consiste en crear una infografía de divulgación científica.
 **Expected_Success:** 0.45
 
 ### Enunciado

@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W10-examen-periodo-1-001-MASTERY"
+id: "CO-MAT-6-2026-P1-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -12,7 +12,12 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 bundle_size: 20
 alignment: "DBA MEN + Estándares Básicos"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W10 — Examen Periodo 1
 
@@ -24,13 +29,13 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v1`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Quibdó
+**Contexto:** Colegio La Presentación en Quibdó
 **Expected_Success:** 0.56
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Quibdó, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -46,13 +51,13 @@ El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v2`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Riohacha
+**Contexto:** I.E. Jorge Eliécer Gaitán en Riohacha
 **Expected_Success:** 0.73
 
 ### Enunciado
 En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Riohacha, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -68,13 +73,13 @@ El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v3`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Neiva
+**Contexto:** I.E. Francisco de Paula Santander en Neiva
 **Expected_Success:** 0.67
 
 ### Enunciado
 En la clase de Matematicas del I.E. Francisco de Paula Santander en Neiva, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -90,13 +95,13 @@ El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Medellín
+**Contexto:** I.E. Gabriel García Márquez en Medellín
 **Expected_Success:** 0.77
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Medellín, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -112,13 +117,13 @@ El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v5`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Pereira
+**Contexto:** I.E. Gabriel García Márquez en Pereira
 **Expected_Success:** 0.75
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Pereira, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -134,13 +139,13 @@ El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Sincelejo
+**Contexto:** Gimnasio Moderno en Sincelejo
 **Expected_Success:** 0.59
 
 ### Enunciado
 En la clase de Matematicas del Gimnasio Moderno en Sincelejo, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -156,13 +161,13 @@ El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Bucaramanga
+**Contexto:** I.E. Gabriel García Márquez en Bucaramanga
 **Expected_Success:** 0.66
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Bucaramanga, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -178,13 +183,13 @@ El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Cúcuta
+**Contexto:** I.E. Gabriel García Márquez en Cúcuta
 **Expected_Success:** 0.60
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Cúcuta, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -200,13 +205,13 @@ El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Cartagena
+**Contexto:** Colegio La Presentación en Cartagena
 **Expected_Success:** 0.73
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Cartagena, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -222,13 +227,13 @@ El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Pereira
+**Contexto:** I.E. Santa Luisa de Marillac en Pereira
 **Expected_Success:** 0.65
 
 ### Enunciado
 En la clase de Matematicas del I.E. Santa Luisa de Marillac en Pereira, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -244,13 +249,13 @@ El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v11`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Tunja
+**Contexto:** Gimnasio Moderno en Tunja
 **Expected_Success:** 0.62
 
 ### Enunciado
 En la clase de Matematicas del Gimnasio Moderno en Tunja, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -266,13 +271,13 @@ El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** Gimnasio Moderno en Barranquilla
+**Contexto:** Gimnasio Moderno en Barranquilla
 **Expected_Success:** 0.70
 
 ### Enunciado
 En la clase de Matematicas del Gimnasio Moderno en Barranquilla, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -288,13 +293,13 @@ El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v13`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** I.E. San José en Pasto
+**Contexto:** I.E. San José en Pasto
 **Expected_Success:** 0.80
 
 ### Enunciado
 En la clase de Matematicas del I.E. San José en Pasto, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -310,13 +315,13 @@ El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v14`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Bucaramanga
+**Contexto:** I.E. Santa Luisa de Marillac en Bucaramanga
 **Expected_Success:** 0.64
 
 ### Enunciado
 En la clase de Matematicas del I.E. Santa Luisa de Marillac en Bucaramanga, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -332,13 +337,13 @@ El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v15`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Villavicencio
+**Contexto:** Colegio La Presentación en Villavicencio
 **Expected_Success:** 0.69
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Villavicencio, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -354,13 +359,13 @@ El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v16`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Cartagena
+**Contexto:** Gimnasio Moderno en Cartagena
 **Expected_Success:** 0.59
 
 ### Enunciado
 En la clase de Matematicas del Gimnasio Moderno en Cartagena, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -376,13 +381,13 @@ El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v17`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Pasto
+**Contexto:** Colegio La Presentación en Pasto
 **Expected_Success:** 0.50
 
 ### Enunciado
 En la clase de Matematicas del Colegio La Presentación en Pasto, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -398,13 +403,13 @@ El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v18`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. Francisco de Paula Santander en Sincelejo
+**Contexto:** I.E. Francisco de Paula Santander en Sincelejo
 **Expected_Success:** 0.76
 
 ### Enunciado
 En la clase de Matematicas del I.E. Francisco de Paula Santander en Sincelejo, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -420,13 +425,13 @@ El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v19`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Bucaramanga
+**Contexto:** I.E. Gabriel García Márquez en Bucaramanga
 **Expected_Success:** 0.56
 
 ### Enunciado
 En la clase de Matematicas del I.E. Gabriel García Márquez en Bucaramanga, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
@@ -442,13 +447,13 @@ El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta cor
 **ID:** `CO-MAT-6-2026-W00-examen per-001-MASTERY-v20`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** Colegio Nacional San Bartolomé en Pereira
+**Contexto:** Colegio Nacional San Bartolomé en Pereira
 **Expected_Success:** 0.73
 
 ### Enunciado
 En la clase de Matematicas del Colegio Nacional San Bartolomé en Pereira, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?
 
-### Options
+### Opciones
 - [ ] A) Aspecto incorrecto A relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Este aspecto no es el fundamental en este contexto. -->
 - [x] B) Aspecto correcto sobre Examen Periodo 1 <!-- feedback: Correcto. Este es el pilar de la enseñanza de este tema. -->
 - [ ] C) Aspecto incorrecto C relacionado con Examen Periodo 1 <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->

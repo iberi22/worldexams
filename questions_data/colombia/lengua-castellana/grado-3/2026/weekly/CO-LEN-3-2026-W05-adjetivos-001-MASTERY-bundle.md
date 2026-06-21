@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-3-2026-W05-adjetivos-001-MASTERY"
+id: "CO-LEN-3-2026-W05-adjetivos-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 3"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Gramática - adjetivos - Grado 3
 
@@ -22,7 +24,7 @@ Este bundle explora el uso de los adjetivos calificativos para describir persona
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-3-2026-W05-adjetivos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -33,21 +35,20 @@ Este bundle explora el uso de los adjetivos calificativos para describir persona
 ¿Qué palabra es un adjetivo en la frase: "La manzana es roja"?
 
 ### Opciones
-- [ ] A) La
-  <!-- feedback: No, es un artículo. -->
-- [ ] B) manzana
-  <!-- feedback: No, es un sustantivo. -->
-- [ ] C) es
-  <!-- feedback: No, es un verbo. -->
-- [x] D) roja
-  <!-- feedback: ¡Correcto! Describe una característica de la manzana. -->
+- [ ] A) La <!-- feedback: Incorrecto. La -->
+
+- [ ] B) manzana <!-- feedback: Incorrecto. manzana -->
+
+- [ ] C) es <!-- feedback: Incorrecto. es -->
+
+- [x] D) roja <!-- feedback: Correcto! roja -->
 
 ### Explicación Pedagogica
 Los adjetivos son palabras que expresan cualidades o características de los sustantivos.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-3-2026-W05-adjetivos-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -58,21 +59,20 @@ Los adjetivos son palabras que expresan cualidades o características de los sus
 ¿Cuál de los siguientes adjetivos describe una cualidad de una persona amable?
 
 ### Opciones
-- [ ] A) Alto
-  <!-- feedback: Describe una característica física, no de personalidad. -->
-- [x] B) Cariñosa
-  <!-- feedback: ¡Muy bien! Es una cualidad del carácter de una persona. -->
-- [ ] C) Rápido
-  <!-- feedback: Describe una velocidad, no necesariamente amabilidad. -->
-- [ ] D) Azul
-  <!-- feedback: Es un color. -->
+- [ ] A) Alto <!-- feedback: Incorrecto. Alto -->
+
+- [x] B) Cariñosa <!-- feedback: Correcto! Cariñosa -->
+
+- [ ] C) Rápido <!-- feedback: Incorrecto. Rápido -->
+
+- [ ] D) Azul <!-- feedback: Incorrecto. Azul -->
 
 ### Explicación Pedagogica
 Los adjetivos calificativos pueden describir tanto rasgos físicos como rasgos de la personalidad (cualidades morales).
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-3-2026-W05-adjetivos-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -83,21 +83,20 @@ Los adjetivos calificativos pueden describir tanto rasgos físicos como rasgos d
 Elige el adjetivo que mejor completa la oración: "En el nevado hace un frío ___________."
 
 ### Opciones
-- [ ] A) caliente
-  <!-- feedback: Es lo opuesto a lo que se siente en un nevado. -->
-- [x] B) intenso
-  <!-- feedback: ¡Excelente! Describe muy bien la fuerza del frío. -->
-- [ ] C) verde
-  <!-- feedback: El frío no tiene color. -->
-- [ ] D) dulce
-  <!-- feedback: El frío no tiene sabor. -->
+- [ ] A) caliente <!-- feedback: Incorrecto. caliente -->
+
+- [x] B) intenso <!-- feedback: Correcto! intenso -->
+
+- [ ] C) verde <!-- feedback: Incorrecto. verde -->
+
+- [ ] D) dulce <!-- feedback: Incorrecto. dulce -->
 
 ### Explicación Pedagogica
 Debemos elegir adjetivos que tengan coherencia con el sustantivo y el contexto de la oración.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-3-2026-W05-adjetivos-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -108,21 +107,20 @@ Debemos elegir adjetivos que tengan coherencia con el sustantivo y el contexto d
 ¿Cuál es la forma correcta del adjetivo para completar la frase: "Las flores son ________"?
 
 ### Opciones
-- [ ] A) bonito
-  <!-- feedback: No concuerda en género ni número. -->
-- [ ] B) bonita
-  <!-- feedback: No concuerda en número (plural). -->
-- [x] C) bonitas
-  <!-- feedback: ¡Correcto! Concuerda en femenino y plural con "flores". -->
-- [ ] D) bonitos
-  <!-- feedback: No concuerda en género (femenino). -->
+- [ ] A) bonito <!-- feedback: Incorrecto. bonito -->
+
+- [ ] B) bonita <!-- feedback: Incorrecto. bonita -->
+
+- [x] C) bonitas <!-- feedback: Correcto! bonitas -->
+
+- [ ] D) bonitos <!-- feedback: Incorrecto. bonitos -->
 
 ### Explicación Pedagogica
 El adjetivo debe concordar siempre en género (masculino/femenino) y número (singular/plural) con el sustantivo al que acompaña.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-3-2026-W05-adjetivos-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -133,21 +131,20 @@ El adjetivo debe concordar siempre en género (masculino/femenino) y número (si
 En la oración "El elefante es más grande que el perro", ¿cuál es el adjetivo?
 
 ### Opciones
-- [ ] A) elefante
-  <!-- feedback: Es un sustantivo. -->
-- [x] B) grande
-  <!-- feedback: ¡Así es! Indica el tamaño del elefante. -->
-- [ ] C) más
-  <!-- feedback: Es un adverbio que indica cantidad o grado. -->
-- [ ] D) perro
-  <!-- feedback: Es un sustantivo. -->
+- [ ] A) elefante <!-- feedback: Incorrecto. elefante -->
+
+- [x] B) grande <!-- feedback: Correcto! grande -->
+
+- [ ] C) más <!-- feedback: Incorrecto. más -->
+
+- [ ] D) perro <!-- feedback: Incorrecto. perro -->
 
 ### Explicación Pedagogica
 Aunque el adjetivo esté en una comparación, su función sigue siendo describir una característica del sustantivo.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-3-2026-W05-adjetivos-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -158,21 +155,20 @@ Aunque el adjetivo esté en una comparación, su función sigue siendo describir
 ¿Cuál de estos grupos de palabras son solo adjetivos?
 
 ### Opciones
-- [ ] A) Pelota, saltarina, roja.
-  <!-- feedback: Pelota es un sustantivo. -->
-- [x] B) Nuevo, brillante, pequeño.
-  <!-- feedback: ¡Muy bien! Todas estas palabras describen cualidades. -->
-- [ ] C) Juguete, divertido, plástico.
-  <!-- feedback: Juguete es un sustantivo. -->
-- [ ] D) Correr, rápido, lejos.
-  <!-- feedback: Correr es un verbo y lejos es un adverbio. -->
+- [ ] A) Pelota, saltarina, roja. <!-- feedback: Incorrecto. Pelota, saltarina, roja. -->
+
+- [x] B) Nuevo, brillante, pequeño. <!-- feedback: Correcto! Nuevo, brillante, pequeño. -->
+
+- [ ] C) Juguete, divertido, plástico. <!-- feedback: Incorrecto. Juguete, divertido, plástico. -->
+
+- [ ] D) Correr, rápido, lejos. <!-- feedback: Incorrecto. Correr, rápido, lejos. -->
 
 ### Explicación Pedagogica
 Diferenciar los adjetivos de otras clases de palabras es fundamental para mejorar nuestra capacidad descriptiva.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-3-2026-W05-adjetivos-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -183,21 +179,20 @@ Diferenciar los adjetivos de otras clases de palabras es fundamental para mejora
 "El desierto es extenso y caluroso". ¿A qué sustantivo describen los adjetivos resaltados?
 
 ### Opciones
-- [ ] A) Es
-  <!-- feedback: "Es" es un verbo. -->
-- [x] B) Desierto
-  <!-- feedback: ¡Correcto! Extenso y caluroso son características del desierto. -->
-- [ ] C) Paisajes
-  <!-- feedback: Aunque el texto trata de paisajes, la oración menciona "desierto". -->
-- [ ] D) Guajira
-  <!-- feedback: Es el lugar, pero no el núcleo del sujeto en esta oración. -->
+- [ ] A) Es <!-- feedback: Incorrecto. Es -->
+
+- [x] B) Desierto <!-- feedback: Correcto! Desierto -->
+
+- [ ] C) Paisajes <!-- feedback: Incorrecto. Paisajes -->
+
+- [ ] D) Guajira <!-- feedback: Incorrecto. Guajira -->
 
 ### Explicación Pedagogica
 Identificar el sustantivo núcleo nos ayuda a comprender mejor el objeto de la descripción.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-3-2026-W05-adjetivos-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -208,21 +203,20 @@ Identificar el sustantivo núcleo nos ayuda a comprender mejor el objeto de la d
 ¿Qué adjetivo NO combina bien con el sustantivo "hormigas culonas"?
 
 ### Opciones
-- [ ] A) Crujientes
-  <!-- feedback: Es un adjetivo adecuado para este alimento. -->
-- [ ] B) Tostadas
-  <!-- feedback: Es un adjetivo que describe cómo se preparan. -->
-- [x] C) Voladoras
-  <!-- feedback: Aunque son hormigas, en el plato típico ya no vuelan. -->
-- [ ] D) Saladas
-  <!-- feedback: Es un sabor común para este pasabocas. -->
+- [ ] A) Crujientes <!-- feedback: Incorrecto. Crujientes -->
+
+- [ ] B) Tostadas <!-- feedback: Incorrecto. Tostadas -->
+
+- [x] C) Voladoras <!-- feedback: Correcto! Voladoras -->
+
+- [ ] D) Saladas <!-- feedback: Incorrecto. Saladas -->
 
 ### Explicación Pedagogica
 La elección de adjetivos debe ser precisa y ajustarse a la realidad de lo que se describe en el texto.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-3-2026-W05-adjetivos-001-MASTERY-v9`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -233,21 +227,20 @@ La elección de adjetivos debe ser precisa y ajustarse a la realidad de lo que s
 Si quieres que tu fiesta suene muy divertida, ¿qué adjetivo usarías en la frase: "Te invito a mi _________ fiesta"?
 
 ### Opciones
-- [ ] A) aburrida
-  <!-- feedback: Nadie querrá ir a una fiesta aburrida. -->
-- [x] B) fantástica
-  <!-- feedback: ¡Excelente! Es un adjetivo que genera mucho interés. -->
-- [ ] C) normal
-  <!-- feedback: No suena tan emocionante como "fantástica". -->
-- [ ] D) pequeña
-  <!-- feedback: Describe el tamaño, pero no necesariamente la diversión. -->
+- [ ] A) aburrida <!-- feedback: Incorrecto. aburrida -->
+
+- [x] B) fantástica <!-- feedback: Correcto! fantástica -->
+
+- [ ] C) normal <!-- feedback: Incorrecto. normal -->
+
+- [ ] D) pequeña <!-- feedback: Incorrecto. pequeña -->
 
 ### Explicación Pedagogica
 Los adjetivos tienen un poder persuasivo; pueden influir en cómo el lector percibe la información.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-3-2026-W05-adjetivos-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -258,14 +251,13 @@ Los adjetivos tienen un poder persuasivo; pueden influir en cómo el lector perc
 En la frase "Bogotá es más fría que Cartagena", ¿qué tipo de comparación se está haciendo con el adjetivo?
 
 ### Opciones
-- [ ] A) De igualdad
-  <!-- feedback: Sería "Bogotá es tan fría como...". -->
-- [x] B) De superioridad
-  <!-- feedback: ¡Correcto! Indica que Bogotá tiene más esa cualidad que Cartagena. -->
-- [ ] C) De inferioridad
-  <!-- feedback: Sería "Bogotá es menos fría que...". -->
-- [ ] D) No hay comparación.
-  <!-- feedback: Sí se están comparando dos ciudades. -->
+- [ ] A) De igualdad <!-- feedback: Incorrecto. De igualdad -->
+
+- [x] B) De superioridad <!-- feedback: Correcto! De superioridad -->
+
+- [ ] C) De inferioridad <!-- feedback: Incorrecto. De inferioridad -->
+
+- [ ] D) No hay comparación. <!-- feedback: Incorrecto. No hay comparación. -->
 
 ### Explicación Pedagogica
 Los adjetivos pueden usarse para establecer comparaciones de superioridad, igualdad o inferioridad entre dos o más elementos.

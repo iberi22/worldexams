@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY"
+id: "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "greetings-farewells"
 periodo: "weekly"
-semana: 1
+week: "W01"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "Greetings and farewells, hello, goodbye, good morning, good ni
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W01: Greetings and Farewells (A1)
 
@@ -32,12 +37,12 @@ Este bundle evalúa saludos y despedidas básicas en inglés, nivel A1 para grad
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
-**Context:** Meeting a friend in the morning.
+**Contexto:** Meeting a friend in the morning.
 
 ### Enunciado
 What do you say when you see a friend at **7:00 AM**?
 
-### Options
+### Opciones
 - [ ] A) Good night <!-- feedback: Incorrect. "Good night" se usa para despedirse en la noche, no para saludar en la mañana. -->
 - [x] B) Good morning <!-- feedback: Correct! "Good morning" es el saludo correcto para las 7 de la mañana. -->
 - [ ] C) Good afternoon <!-- feedback: Incorrect. "Good afternoon" se usa después del mediodía (12:00 PM). -->
@@ -53,12 +58,12 @@ En inglés, al igual que en español, usamos diferentes saludos según la hora d
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
-**Context:** Standard greeting.
+**Contexto:** Standard greeting.
 
 ### Enunciado
 What is the most common way to say **"Hola"** in English?
 
-### Options
+### Opciones
 - [x] A) Hello <!-- feedback: Correct! "Hello" es la forma estándar de decir hola. -->
 - [ ] B) Bye <!-- feedback: Incorrect. "Bye" es una forma corta de decir adiós. -->
 - [ ] C) Please <!-- feedback: Incorrect. "Please" significa por favor. -->
@@ -74,12 +79,12 @@ What is the most common way to say **"Hola"** in English?
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
-**Context:** Saying goodbye.
+**Contexto:** Saying goodbye.
 
 ### Enunciado
 Your friend is going home. What do you say to say **"Adiós"**?
 
-### Options
+### Opciones
 - [ ] A) Hello <!-- feedback: Incorrect. "Hello" es para saludar al llegar. -->
 - [x] B) Goodbye <!-- feedback: Correct! "Goodbye" significa adiós. -->
 - [ ] C) Good morning <!-- feedback: Incorrect. Esto es un saludo de mañana. -->
@@ -95,12 +100,12 @@ Para despedirnos de alguien que se va, usamos "Goodbye" (Adiós). También podem
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
-**Context:** Greeting in the afternoon.
+**Contexto:** Greeting in the afternoon.
 
 ### Enunciado
 It is **3:00 PM**. How do you greet your teacher?
 
-### Options
+### Opciones
 - [ ] A) Good morning <!-- feedback: Incorrect. La mañana ya terminó, ahora es la tarde. -->
 - [x] B) Good afternoon <!-- feedback: Correct! "Good afternoon" se usa desde el mediodía hasta el atardecer. -->
 - [ ] C) Good night <!-- feedback: Incorrect. Todavía no es hora de dormir o despedirse en la noche. -->
@@ -116,14 +121,14 @@ It is **3:00 PM**. How do you greet your teacher?
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
-**Context:** Basic conversation.
+**Contexto:** Basic conversation.
 
 ### Enunciado
 Complete the dialogue:
 **Sam:** "How are you?"
 **Lina:** "I am ______, thank you."
 
-### Options
+### Opciones
 - [ ] A) hello <!-- feedback: Incorrect. "Hello" no responde a cómo estás. -->
 - [x] B) fine <!-- feedback: Correct! "I am fine" significa estoy bien. -->
 - [ ] C) goodbye <!-- feedback: Incorrect. "Goodbye" es para irse. -->
@@ -139,12 +144,12 @@ Cuando alguien nos pregunta "How are you?" (¿Cómo estás?), la respuesta más 
 **Bloom:** Understand
 **ICFES:** Pragmática
 **Expected_Success:** 0.70
-**Context:** Evening greeting.
+**Contexto:** Evening greeting.
 
 ### Enunciado
 You arrive at a party at **8:00 PM**. What do you say to greet people?
 
-### Options
+### Opciones
 - [ ] A) Good morning <!-- feedback: Incorrect. Es de noche, no de mañana. -->
 - [x] B) Good evening <!-- feedback: Correct! "Good evening" se usa como saludo al llegar en la noche. -->
 - [ ] C) Good night <!-- feedback: Incorrect. "Good night" se usa para despedirse, no para saludar al llegar. -->
@@ -160,12 +165,12 @@ En inglés hay dos formas de decir "buenas noches": "Good evening" se usa para s
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
-**Context:** Farewell for the next day.
+**Contexto:** Farewell for the next day.
 
 ### Enunciado
 What does **"See you tomorrow"** mean?
 
-### Options
+### Opciones
 - [ ] A) Hola mañana <!-- feedback: Incorrect. No es un saludo. -->
 - [x] B) Nos vemos mañana <!-- feedback: Correct! "See you" es nos vemos y "tomorrow" es mañana. -->
 - [ ] C) Te veo ahora <!-- feedback: Incorrect. "Tomorrow" no significa ahora. -->
@@ -181,12 +186,12 @@ What does **"See you tomorrow"** mean?
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
-**Context:** Formal greeting.
+**Contexto:** Formal greeting.
 
 ### Enunciado
 Choose the correct formal greeting:
 
-### Options
+### Opciones
 - [x] A) Good morning, Mr. Smith <!-- feedback: Correct! Es una forma educada y formal de saludar. -->
 - [ ] B) What's up? <!-- feedback: Incorrect. "What's up" es muy informal (¿Qué pasa?). -->
 - [ ] C) Bye-bye <!-- feedback: Incorrect. Es una despedida infantil o muy informal. -->
@@ -202,12 +207,12 @@ Para hablar con profesores o adultos, usamos saludos más formales como "Good mo
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
-**Context:** Asking for a name.
+**Contexto:** Asking for a name.
 
 ### Enunciado
 How do you ask someone's name in English?
 
-### Options
+### Opciones
 - [ ] A) How are you? <!-- feedback: Incorrect. Esto pregunta cómo estás. -->
 - [x] B) What is your name? <!-- feedback: Correct! Esta es la pregunta para saber el nombre de alguien. -->
 - [ ] C) Who are you? <!-- feedback: Incorrect. Aunque gramaticalmente correcta, puede sonar un poco ruda en una presentación básica. -->
@@ -223,12 +228,12 @@ Después de saludar, solemos preguntar el nombre de la persona con "¿What is yo
 **Bloom:** Apply
 **ICFES:** Pragmática
 **Expected_Success:** 0.50
-**Context:** End of a phone call at night.
+**Contexto:** End of a phone call at night.
 
 ### Enunciado
 You are talking on the phone at **9:30 PM**. You are going to sleep. What do you say?
 
-### Options
+### Opciones
 - [ ] A) Good afternoon <!-- feedback: Incorrect. Es muy tarde para ser la tarde. -->
 - [ ] B) Hello <!-- feedback: Incorrect. Te vas a dormir, no estás empezando la charla. -->
 - [x] C) Good night <!-- feedback: Correct! "Good night" se usa para despedirse en la noche o antes de dormir. -->

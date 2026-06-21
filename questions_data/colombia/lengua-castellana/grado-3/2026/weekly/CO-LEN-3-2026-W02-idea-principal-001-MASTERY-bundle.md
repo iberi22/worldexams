@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-3-2026-W02-idea-principal-001-MASTERY"
+id: "CO-LEN-3-2026-W02-idea-principal-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 3"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Lectura - idea principal - Grado 3
 
@@ -22,7 +24,7 @@ Este bundle se enfoca en identificar la idea principal en textos cortos, una hab
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-3-2026-W02-idea-principal-001-MASTERY-v1`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -34,21 +36,20 @@ Este bundle se enfoca en identificar la idea principal en textos cortos, una hab
 ¿De qué trata principalmente el texto?
 
 ### Opciones
-- [ ] A) De las mariposas que vuelan.
-  <!-- feedback: Esto es solo un detalle del final. -->
-- [x] B) De las flores del jardín.
-  <!-- feedback: ¡Correcto! Todo el texto describe y habla sobre las flores. -->
-- [ ] C) De la abuela de Juan.
-  <!-- feedback: La abuela se menciona, pero no es el tema central. -->
-- [ ] D) Del color amarillo.
-  <!-- feedback: Es solo un color de una de las flores. -->
+- [ ] A) De las mariposas que vuelan. <!-- feedback: Incorrecto. De las mariposas que vuelan. -->
+
+- [x] B) De las flores del jardín. <!-- feedback: Correcto! De las flores del jardín. -->
+
+- [ ] C) De la abuela de Juan. <!-- feedback: Incorrecto. De la abuela de Juan. -->
+
+- [ ] D) Del color amarillo. <!-- feedback: Incorrecto. Del color amarillo. -->
 
 ### Explicación Pedagogica
 La idea principal responde a la pregunta "¿de qué trata el texto?". En este caso, el foco central son las flores mencionadas al inicio.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-3-2026-W02-idea-principal-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -60,21 +61,20 @@ La idea principal responde a la pregunta "¿de qué trata el texto?". En este ca
 ¿Cuál es la idea principal?
 
 ### Opciones
-- [x] A) El agua es esencial para la vida.
-  <!-- feedback: ¡Muy bien! Esta frase resume todo lo dicho en el párrafo. -->
-- [ ] B) Los animales beben mucha agua.
-  <!-- feedback: Es un ejemplo, pero no la idea completa. -->
-- [ ] C) Las plantas crecen con el sol.
-  <!-- feedback: El texto no habla del sol, habla del agua. -->
-- [ ] D) En Santa Marta hace mucho calor.
-  <!-- feedback: Esto no se menciona en el texto. -->
+- [x] A) El agua es esencial para la vida. <!-- feedback: Correcto! El agua es esencial para la vida. -->
+
+- [ ] B) Los animales beben mucha agua. <!-- feedback: Incorrecto. Los animales beben mucha agua. -->
+
+- [ ] C) Las plantas crecen con el sol. <!-- feedback: Incorrecto. Las plantas crecen con el sol. -->
+
+- [ ] D) En Santa Marta hace mucho calor. <!-- feedback: Incorrecto. En Santa Marta hace mucho calor. -->
 
 ### Explicación Pedagogica
 La idea principal suele aparecer al principio o al final como una conclusión general que engloba a las demás oraciones.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-3-2026-W02-idea-principal-001-MASTERY-v3`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -86,21 +86,20 @@ La idea principal suele aparecer al principio o al final como una conclusión ge
 ¿Qué frase resume mejor el texto?
 
 ### Opciones
-- [ ] A) A Toby le gustan los charcos.
-  <!-- feedback: Es una actividad que le gusta, pero no resume todo el carácter de Toby. -->
-- [ ] B) El dueño de Toby es amable.
-  <!-- feedback: El texto no describe al dueño, sino al perro. -->
-- [x] C) Toby es un perro alegre y juguetón.
-  <!-- feedback: ¡Excelente! Reúne las características principales descritas. -->
-- [ ] D) En el Eje Cafetero llueve mucho.
-  <!-- feedback: Aunque se menciona la lluvia, el tema es el perro. -->
+- [ ] A) A Toby le gustan los charcos. <!-- feedback: Incorrecto. A Toby le gustan los charcos. -->
+
+- [ ] B) El dueño de Toby es amable. <!-- feedback: Incorrecto. El dueño de Toby es amable. -->
+
+- [x] C) Toby es un perro alegre y juguetón. <!-- feedback: Correcto! Toby es un perro alegre y juguetón. -->
+
+- [ ] D) En el Eje Cafetero llueve mucho. <!-- feedback: Incorrecto. En el Eje Cafetero llueve mucho. -->
 
 ### Explicación Pedagogica
 Identificar rasgos comunes en las acciones de un personaje ayuda a determinar la idea central de una descripción.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-3-2026-W02-idea-principal-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -112,21 +111,20 @@ Identificar rasgos comunes en las acciones de un personaje ayuda a determinar la
 ¿Cuál es la idea central?
 
 ### Opciones
-- [ ] A) Hay muchos disfraces de colores.
-  <!-- feedback: Es un detalle importante, pero no la idea general. -->
-- [x] B) La importancia y alegría del Carnaval de Barranquilla.
-  <!-- feedback: ¡Correcto! El texto destaca la relevancia de esta festividad. -->
-- [ ] C) Barranquilla es una ciudad con playa.
-  <!-- feedback: El texto no menciona la playa. -->
-- [ ] D) La fiesta dura solo un día.
-  <!-- feedback: El texto dice que dura cuatro días. -->
+- [ ] A) Hay muchos disfraces de colores. <!-- feedback: Incorrecto. Hay muchos disfraces de colores. -->
+
+- [x] B) La importancia y alegría del Carnaval de Barranquilla. <!-- feedback: Correcto! La importancia y alegría del Carnaval de Barranquilla. -->
+
+- [ ] C) Barranquilla es una ciudad con playa. <!-- feedback: Incorrecto. Barranquilla es una ciudad con playa. -->
+
+- [ ] D) La fiesta dura solo un día. <!-- feedback: Incorrecto. La fiesta dura solo un día. -->
 
 ### Explicación Pedagogica
 La idea principal suele ser la afirmación más amplia que justifica la inclusión de los detalles secundarios.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-3-2026-W02-idea-principal-001-MASTERY-v5`
 **Bloom:** Evaluate
 **ICFES:** Comprensión Lectora
@@ -138,21 +136,20 @@ La idea principal suele ser la afirmación más amplia que justifica la inclusi�
 ¿Qué título le pondrías a este texto?
 
 ### Opciones
-- [ ] A) Las vitaminas del colegio.
-  <!-- feedback: No es un título muy preciso para el tema. -->
-- [x] B) Los beneficios de comer frutas y verduras.
-  <!-- feedback: ¡Muy bien! Resume perfectamente de qué trata el texto. -->
-- [ ] C) Cómo jugar en el recreo.
-  <!-- feedback: El juego se menciona como consecuencia de comer bien, no como tema central. -->
-- [ ] D) La lonchera de mi amigo.
-  <!-- feedback: El texto habla de la lonchera en general, no de alguien en particular. -->
+- [ ] A) Las vitaminas del colegio. <!-- feedback: Incorrecto. Las vitaminas del colegio. -->
+
+- [x] B) Los beneficios de comer frutas y verduras. <!-- feedback: Correcto! Los beneficios de comer frutas y verduras. -->
+
+- [ ] C) Cómo jugar en el recreo. <!-- feedback: Incorrecto. Cómo jugar en el recreo. -->
+
+- [ ] D) La lonchera de mi amigo. <!-- feedback: Incorrecto. La lonchera de mi amigo. -->
 
 ### Explicación Pedagogica
 El título de un texto suele ser una síntesis muy breve de la idea principal.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-3-2026-W02-idea-principal-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -164,21 +161,20 @@ El título de un texto suele ser una síntesis muy breve de la idea principal.
 ¿Qué nos quiere enseñar el autor?
 
 ### Opciones
-- [ ] A) Que los parques tienen muchos árboles.
-  <!-- feedback: Es una característica física, no la enseñanza principal. -->
-- [x] B) La importancia de cuidar los espacios comunes.
-  <!-- feedback: ¡Exacto! El mensaje central es el cuidado y la colaboración. -->
-- [ ] C) Que no se debe jugar en los parques.
-  <!-- feedback: Al contrario, dice que son para jugar. -->
-- [ ] D) Cómo llegar al parque más cercano.
-  <!-- feedback: El texto no da instrucciones de llegada. -->
+- [ ] A) Que los parques tienen muchos árboles. <!-- feedback: Incorrecto. Que los parques tienen muchos árboles. -->
+
+- [x] B) La importancia de cuidar los espacios comunes. <!-- feedback: Correcto! La importancia de cuidar los espacios comunes. -->
+
+- [ ] C) Que no se debe jugar en los parques. <!-- feedback: Incorrecto. Que no se debe jugar en los parques. -->
+
+- [ ] D) Cómo llegar al parque más cercano. <!-- feedback: Incorrecto. Cómo llegar al parque más cercano. -->
 
 ### Explicación Pedagogica
 En textos instructivos o de valores, la idea principal suele ser la norma o el comportamiento que se promueve.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-3-2026-W02-idea-principal-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -190,21 +186,20 @@ En textos instructivos o de valores, la idea principal suele ser la norma o el c
 ¿Cuál de estas opciones NO es la idea principal?
 
 ### Opciones
-- [ ] A) La importancia del río Magdalena para el transporte.
-  <!-- feedback: Esta sí es la idea principal. -->
-- [ ] B) El papel del río en la conexión del país.
-  <!-- feedback: Esta también es una idea central del texto. -->
-- [x] C) El nombre de los capitanes de los barcos.
-  <!-- feedback: ¡Correcto! Esto no se menciona y no es relevante para la idea principal. -->
-- [ ] D) El transporte de mercancías por el río.
-  <!-- feedback: Es parte de la idea central sobre el transporte. -->
+- [ ] A) La importancia del río Magdalena para el transporte. <!-- feedback: Incorrecto. La importancia del río Magdalena para el -->
+
+- [ ] B) El papel del río en la conexión del país. <!-- feedback: Incorrecto. El papel del río en la conexión del país -->
+
+- [x] C) El nombre de los capitanes de los barcos. <!-- feedback: Correcto! El nombre de los capitanes de los barcos. -->
+
+- [ ] D) El transporte de mercancías por el río. <!-- feedback: Incorrecto. El transporte de mercancías por el río. -->
 
 ### Explicación Pedagogica
 Discriminar información irrelevante es un paso necesario para consolidar la identificación de la idea central.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-3-2026-W02-idea-principal-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Comprensión Lectora
@@ -216,21 +211,20 @@ Discriminar información irrelevante es un paso necesario para consolidar la ide
 ¿Cuál es la idea que une a todas las oraciones?
 
 ### Opciones
-- [ ] A) A las orugas les gusta comer.
-  <!-- feedback: Solo explica una fase. -->
-- [ ] B) Las mariposas tienen alas bonitas.
-  <!-- feedback: Es una descripción del final, no de todo el proceso. -->
-- [x] C) Las etapas del crecimiento de una mariposa.
-  <!-- feedback: ¡Excelente! Resume todo el proceso de transformación descrito. -->
-- [ ] D) Cómo atrapar una mariposa en el campo.
-  <!-- feedback: El texto no habla de atraparlas. -->
+- [ ] A) A las orugas les gusta comer. <!-- feedback: Incorrecto. A las orugas les gusta comer. -->
+
+- [ ] B) Las mariposas tienen alas bonitas. <!-- feedback: Incorrecto. Las mariposas tienen alas bonitas. -->
+
+- [x] C) Las etapas del crecimiento de una mariposa. <!-- feedback: Correcto! Las etapas del crecimiento de una mariposa. -->
+
+- [ ] D) Cómo atrapar una mariposa en el campo. <!-- feedback: Incorrecto. Cómo atrapar una mariposa en el campo. -->
 
 ### Explicación Pedagogica
 En textos secuenciales, la idea principal suele ser la descripción del proceso completo.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-3-2026-W02-idea-principal-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Comprensión Lectora
@@ -242,21 +236,20 @@ En textos secuenciales, la idea principal suele ser la descripción del proceso 
 ¿Qué posición defiende el autor?
 
 ### Opciones
-- [ ] A) Que la tecnología es mala para los niños.
-  <!-- feedback: El autor dice que es útil para aprender. -->
-- [x] B) Que se debe usar la tecnología de forma equilibrada.
-  <!-- feedback: ¡Muy bien! El autor propone usarla pero también hacer otras actividades. -->
-- [ ] C) Que solo se debe jugar con amigos.
-  <!-- feedback: El autor no descarta el uso de la tecnología. -->
-- [ ] D) Que aprender es aburrido.
-  <!-- feedback: No se menciona esto en el texto. -->
+- [ ] A) Que la tecnología es mala para los niños. <!-- feedback: Incorrecto. Que la tecnología es mala para los niños -->
+
+- [x] B) Que se debe usar la tecnología de forma equilibrada. <!-- feedback: Correcto! Que se debe usar la tecnología de forma equilibrada. -->
+
+- [ ] C) Que solo se debe jugar con amigos. <!-- feedback: Incorrecto. Que solo se debe jugar con amigos. -->
+
+- [ ] D) Que aprender es aburrido. <!-- feedback: Incorrecto. Que aprender es aburrido. -->
 
 ### Explicación Pedagogica
 En textos argumentativos sencillos, la idea principal es la tesis o la opinión central que el autor intenta comunicar.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-3-2026-W02-idea-principal-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Comprensión Lectora
@@ -268,14 +261,13 @@ En textos argumentativos sencillos, la idea principal es la tesis o la opinión 
 Si la respuesta es "La mesa", ¿cuál es la idea principal de las pistas dadas?
 
 ### Opciones
-- [ ] A) Describir cómo se fabrica un mueble.
-  <!-- feedback: No habla del proceso de fabricación. -->
-- [x] B) Enumerar las características y el uso de una mesa.
-  <!-- feedback: ¡Correcto! Las pistas se centran en cómo es y para qué sirve. -->
-- [ ] C) Explicar por qué es importante almorzar.
-  <!-- feedback: El almuerzo es solo el contexto del uso. -->
-- [ ] D) Contar una historia sobre un objeto que habla.
-  <!-- feedback: Es una descripción, no una narración de una historia. -->
+- [ ] A) Describir cómo se fabrica un mueble. <!-- feedback: Incorrecto. Describir cómo se fabrica un mueble. -->
+
+- [x] B) Enumerar las características y el uso de una mesa. <!-- feedback: Correcto! Enumerar las características y el uso de una mesa. -->
+
+- [ ] C) Explicar por qué es importante almorzar. <!-- feedback: Incorrecto. Explicar por qué es importante almorzar. -->
+
+- [ ] D) Contar una historia sobre un objeto que habla. <!-- feedback: Incorrecto. Contar una historia sobre un objeto que  -->
 
 ### Explicación Pedagogica
 Incluso en formatos lúdicos como las adivinanzas, la idea principal es la descripción del objeto o concepto oculto.

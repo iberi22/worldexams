@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-3-2026-W35-lectura-textos-literarios-001-MASTERY"
+id: "CO-LEN-3-2026-W35-lectura-textos-literarios-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 3"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Lectura de textos literarios - Grado 3
 
@@ -27,7 +29,7 @@ Este bundle evalúa la comprensión y el análisis de diferentes tipos de textos
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-3-2026-W35-lectura-textos-literarios-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -38,21 +40,20 @@ Este bundle evalúa la comprensión y el análisis de diferentes tipos de textos
 ¿En qué lugar de Colombia ocurre esta historia?
 
 ### Opciones
-- [ ] A) En el Amazonas.
-  <!-- feedback: No se menciona el Amazonas. -->
-- [x] B) En la Sierra Nevada.
-  <!-- feedback: ¡Correcto! El texto lo menciona al principio. -->
-- [ ] C) En la ciudad de Bogotá.
-  <!-- feedback: No es el escenario del cuento. -->
-- [ ] D) En el desierto de la Guajira.
-  <!-- feedback: No es el escenario del cuento. -->
+- [ ] A) En el Amazonas. <!-- feedback: Incorrecto. En el Amazonas. -->
+
+- [x] B) En la Sierra Nevada. <!-- feedback: Correcto! En la Sierra Nevada. -->
+
+- [ ] C) En la ciudad de Bogotá. <!-- feedback: Incorrecto. En la ciudad de Bogotá. -->
+
+- [ ] D) En el desierto de la Guajira. <!-- feedback: Incorrecto. En el desierto de la Guajira. -->
 
 ### Explicación Pedagogica
 Localizar el escenario es un nivel básico de comprensión de textos narrativos.
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 **ID:** `CO-LEN-3-2026-W35-lectura-textos-literarios-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -63,14 +64,13 @@ Localizar el escenario es un nivel básico de comprensión de textos narrativos.
 ¿Por qué el colibrí dorado era diferente a los demás?
 
 ### Opciones
-- [ ] A) Porque no sabía volar.
-  <!-- feedback: El texto no dice eso. -->
-- [x] B) Porque en lugar de néctar, buscaba rocío para las flores marchitas.
-  <!-- feedback: ¡Muy bien! Es la característica especial que destaca el relato. -->
-- [ ] C) Porque era de color gris.
-  <!-- feedback: El texto dice que era de plumas doradas. -->
-- [ ] D) Porque le tenía miedo a los otros animales.
-  <!-- feedback: Al contrario, los animales lo admiraban. -->
+- [ ] A) Porque no sabía volar. <!-- feedback: Incorrecto. Porque no sabía volar. -->
+
+- [x] B) Porque en lugar de néctar, buscaba rocío para las flores marchitas. <!-- feedback: Correcto! Porque en lugar de néctar, buscaba rocío para las flores mar -->
+
+- [ ] C) Porque era de color gris. <!-- feedback: Incorrecto. Porque era de color gris. -->
+
+- [ ] D) Porque le tenía miedo a los otros animales. <!-- feedback: Incorrecto. Porque le tenía miedo a los otros animal -->
 
 ### Explicación Pedagogica
 Comprender las motivaciones y rasgos distintivos de los personajes ayuda a entender el mensaje del texto.
@@ -85,7 +85,7 @@ trae un perfume azulado."
 
 ---
 
-## Pregunta 3 [D1-D2]
+## Question 3 [D1-D2]
 **ID:** `CO-LEN-3-2026-W35-lectura-textos-literarios-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -96,21 +96,20 @@ trae un perfume azulado."
 ¿Cuántos versos tiene este fragmento de poema?
 
 ### Opciones
-- [ ] A) 2 versos.
-  <!-- feedback: Hay más líneas. -->
-- [x] B) 4 versos.
-  <!-- feedback: ¡Excelente! Cada línea es un verso. -->
-- [ ] C) 1 verso.
-  <!-- feedback: Es una estrofa completa de 4 versos. -->
-- [ ] D) 8 versos.
-  <!-- feedback: Solo hay 4 líneas escritas. -->
+- [ ] A) 2 versos. <!-- feedback: Incorrecto. 2 versos. -->
+
+- [x] B) 4 versos. <!-- feedback: Correcto! 4 versos. -->
+
+- [ ] C) 1 verso. <!-- feedback: Incorrecto. 1 verso. -->
+
+- [ ] D) 8 versos. <!-- feedback: Incorrecto. 8 versos. -->
 
 ### Explicación Pedagogica
 Identificar la estructura formal (versos) es el primer paso en el análisis de textos líricos.
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 **ID:** `CO-LEN-3-2026-W35-lectura-textos-literarios-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -121,14 +120,13 @@ Identificar la estructura formal (versos) es el primer paso en el análisis de t
 ¿Qué figura literaria se usa cuando dice que el sol "besa el pico del Nevado"?
 
 ### Opciones
-- [x] A) Personificación (dar cualidades humanas al sol).
-  <!-- feedback: ¡Correcto! El sol no puede besar, es una acción humana. -->
-- [ ] B) Una receta de cocina.
-  <!-- feedback: No tiene nada que ver con instrucciones. -->
-- [ ] C) Una noticia de última hora.
-  <!-- feedback: Es lenguaje poético, no informativo. -->
-- [ ] D) Una pregunta difícil.
-  <!-- feedback: Es una afirmación poética. -->
+- [x] A) Personificación (dar cualidades humanas al sol). <!-- feedback: Correcto! Personificación (dar cualidades humanas al sol). -->
+
+- [ ] B) Una receta de cocina. <!-- feedback: Incorrecto. Una receta de cocina. -->
+
+- [ ] C) Una noticia de última hora. <!-- feedback: Incorrecto. Una noticia de última hora. -->
+
+- [ ] D) Una pregunta difícil. <!-- feedback: Incorrecto. Una pregunta difícil. -->
 
 ### Explicación Pedagogica
 La personificación es un recurso muy común en la literatura infantil para dar vida a la naturaleza.
@@ -140,7 +138,7 @@ La personificación es un recurso muy común en la literatura infantil para dar 
 
 ---
 
-## Pregunta 5 [D3-D4]
+## Question 5 [D3-D4]
 **ID:** `CO-LEN-3-2026-W35-lectura-textos-literarios-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -151,21 +149,20 @@ La personificación es un recurso muy común en la literatura infantil para dar 
 ¿Qué tipo de texto es "La Hormiga y el Grano de Trigo"?
 
 ### Opciones
-- [ ] A) Una carta personal.
-  <!-- feedback: No tiene la estructura de una carta. -->
-- [ ] B) Un poema con rima.
-  <!-- feedback: No está escrito en versos ni tiene rima clara. -->
-- [x] C) Una fábula.
-  <!-- feedback: ¡Así es! Tiene personajes animales y deja una enseñanza. -->
-- [ ] D) Una noticia deportiva.
-  <!-- feedback: No informa sobre un evento real. -->
+- [ ] A) Una carta personal. <!-- feedback: Incorrecto. Una carta personal. -->
+
+- [ ] B) Un poema con rima. <!-- feedback: Incorrecto. Un poema con rima. -->
+
+- [x] C) Una fábula. <!-- feedback: Correcto! Una fábula. -->
+
+- [ ] D) Una noticia deportiva. <!-- feedback: Incorrecto. Una noticia deportiva. -->
 
 ### Explicación Pedagogica
 Reconocer el género textual permite al lector anticipar qué tipo de información o enseñanza encontrará.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-3-2026-W35-lectura-textos-literarios-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -176,21 +173,20 @@ Reconocer el género textual permite al lector anticipar qué tipo de informaci�
 ¿Cuál es la moraleja o enseñanza de esta historia?
 
 ### Opciones
-- [ ] A) Que las hormigas son muy feas.
-  <!-- feedback: No es una enseñanza sobre valores. -->
-- [x] B) Que es importante esforzarse y ahorrar para los momentos difíciles.
-  <!-- feedback: ¡Exacto! La previsión es el valor que se enseña. -->
-- [ ] C) Que hay que reírse de los amigos.
-  <!-- feedback: Al contrario, la cigarra que se rió terminó mal. -->
-- [ ] D) Que el trigo es muy rico.
-  <!-- feedback: Es un detalle, no la enseñanza central. -->
+- [ ] A) Que las hormigas son muy feas. <!-- feedback: Incorrecto. Que las hormigas son muy feas. -->
+
+- [x] B) Que es importante esforzarse y ahorrar para los momentos difíciles. <!-- feedback: Correcto! Que es importante esforzarse y ahorrar para los momentos dif -->
+
+- [ ] C) Que hay que reírse de los amigos. <!-- feedback: Incorrecto. Que hay que reírse de los amigos. -->
+
+- [ ] D) Que el trigo es muy rico. <!-- feedback: Incorrecto. Que el trigo es muy rico. -->
 
 ### Explicación Pedagogica
 La moraleja es el propósito didáctico que define a la fábula como género literario.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-3-2026-W35-lectura-textos-literarios-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -201,21 +197,20 @@ La moraleja es el propósito didáctico que define a la fábula como género lit
 ¿Qué tienen en común los personajes de los tres textos (colibrí, sol, hormiga)?
 
 ### Opciones
-- [ ] A) Que todos viven en la ciudad.
-  <!-- feedback: No es cierto para ninguno. -->
-- [ ] B) Que todos son seres humanos reales.
-  <!-- feedback: Son animales o elementos de la naturaleza. -->
-- [x] C) Que todos realizan acciones o tienen sentimientos en mundos imaginarios.
-  <!-- feedback: ¡Muy bien! Esa es la esencia de los textos literarios. -->
-- [ ] D) Que todos son aburridos.
-  <!-- feedback: La literatura busca entretener e interesar al lector. -->
+- [ ] A) Que todos viven en la ciudad. <!-- feedback: Incorrecto. Que todos viven en la ciudad. -->
+
+- [ ] B) Que todos son seres humanos reales. <!-- feedback: Incorrecto. Que todos son seres humanos reales. -->
+
+- [x] C) Que todos realizan acciones o tienen sentimientos en mundos imaginarios. <!-- feedback: Correcto! Que todos realizan acciones o tienen sentimientos en mundos  -->
+
+- [ ] D) Que todos son aburridos. <!-- feedback: Incorrecto. Que todos son aburridos. -->
 
 ### Explicación Pedagogica
 La ficcionalidad es una característica común a todos los textos literarios, independientemente de su subgénero.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-3-2026-W35-lectura-textos-literarios-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Comprensión Lectora
@@ -226,21 +221,20 @@ La ficcionalidad es una característica común a todos los textos literarios, in
 Si lees en un libro: **"El río Magdalena lloraba porque estaba contaminado"**, ¿qué tipo de texto es más probable que sea?
 
 ### Opciones
-- [ ] A) Una noticia científica sobre el agua.
-  <!-- feedback: La ciencia no dice que los ríos "lloren". -->
-- [x] B) Un texto literario (cuento o poema).
-  <!-- feedback: ¡Excelente! Usa el lenguaje figurado para expresar un sentimiento. -->
-- [ ] C) Una lista de compras.
-  <!-- feedback: No tiene ese formato. -->
-- [ ] D) Un mapa de Colombia.
-  <!-- feedback: Un mapa es una representación visual, no usa esas frases. -->
+- [ ] A) Una noticia científica sobre el agua. <!-- feedback: Incorrecto. Una noticia científica sobre el agua. -->
+
+- [x] B) Un texto literario (cuento o poema). <!-- feedback: Correcto! Un texto literario (cuento o poema). -->
+
+- [ ] C) Una lista de compras. <!-- feedback: Incorrecto. Una lista de compras. -->
+
+- [ ] D) Un mapa de Colombia. <!-- feedback: Incorrecto. Un mapa de Colombia. -->
 
 ### Explicación Pedagogica
 El uso del lenguaje figurado y la expresión de emociones son marcas claras de la literariedad de un texto.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-3-2026-W35-lectura-textos-literarios-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Comprensión Lectora
@@ -251,21 +245,20 @@ El uso del lenguaje figurado y la expresión de emociones son marcas claras de l
 ¿Cuál es el beneficio de leer cuentos, poemas y fábulas con frecuencia?
 
 ### Opciones
-- [ ] A) Que nos cansan la vista rápido.
-  <!-- feedback: Al contrario, ejercitan la mente. -->
-- [ ] B) Que no sirven para nada en la vida real.
-  <!-- feedback: Sí sirven, para imaginar y entender el mundo. -->
-- [x] C) Que ayudan a desarrollar la imaginación y conocer nuevas palabras.
-  <!-- feedback: ¡Correcto! La literatura enriquece nuestro pensamiento y lenguaje. -->
-- [ ] D) Que nos hacen olvidar cómo se escribe.
-  <!-- feedback: Al contrario, ¡nos enseñan a escribir mejor! -->
+- [ ] A) Que nos cansan la vista rápido. <!-- feedback: Incorrecto. Que nos cansan la vista rápido. -->
+
+- [ ] B) Que no sirven para nada en la vida real. <!-- feedback: Incorrecto. Que no sirven para nada en la vida real. -->
+
+- [x] C) Que ayudan a desarrollar la imaginación y conocer nuevas palabras. <!-- feedback: Correcto! Que ayudan a desarrollar la imaginación y conocer nuevas pal -->
+
+- [ ] D) Que nos hacen olvidar cómo se escribe. <!-- feedback: Incorrecto. Que nos hacen olvidar cómo se escribe. -->
 
 ### Explicación Pedagogica
 La lectura literaria es fundamental para el desarrollo de la competencia comunicativa y estética.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-3-2026-W35-lectura-textos-literarios-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -276,14 +269,13 @@ La lectura literaria es fundamental para el desarrollo de la competencia comunic
 Cuando leemos "Rafael Pombo escribió estas fábulas", ¿quién es Rafael Pombo en relación con el texto?
 
 ### Opciones
-- [ ] A) El personaje principal.
-  <!-- feedback: Él no está dentro de la historia. -->
-- [ ] B) El narrador siempre.
-  <!-- feedback: Él creó al narrador, pero no siempre es la misma voz. -->
-- [x] C) El autor o creador de la obra.
-  <!-- feedback: ¡Muy bien! El autor es la persona real que escribe el texto. -->
-- [ ] D) El lector del libro.
-  <!-- feedback: El lector eres tú. -->
+- [ ] A) El personaje principal. <!-- feedback: Incorrecto. El personaje principal. -->
+
+- [ ] B) El narrador siempre. <!-- feedback: Incorrecto. El narrador siempre. -->
+
+- [x] C) El autor o creador de la obra. <!-- feedback: Correcto! El autor o creador de la obra. -->
+
+- [ ] D) El lector del libro. <!-- feedback: Incorrecto. El lector del libro. -->
 
 ### Explicación Pedagogica
 Distinguir entre autor (persona real), narrador (voz ficticia) y personajes es clave en el análisis literario.

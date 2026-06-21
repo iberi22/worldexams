@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W25-digestivo-excretor-relacion-001-MASTERY"
+id: "CO-CIE-6-2026-W25-digestivo-excretor-relacion-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W25 — Relación Digestivo y Excretor
 
@@ -26,10 +28,11 @@ tier: "legacy"
 ## Question 1 [D1]
 **ID:** `CO-CIE-6-2026-W25-digestivo-excretor-relacion-001-v1`
 **Bloom:** Remember | **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, relacionan sistemas.
+**Expected_Success:** 0.75
+**Contexto:** En Bogotá, relacionan sistemas.
 ### Enunciado
 ¿Cómo se relacionan digestivo y excretor?
-### Options
+### Opciones
 - [ ] A) No se relacionan <!-- feedback: Trabajan juntos. -->
 - [ ] B) El excretor digiere <!-- feedback: El digestivo digiere. -->
 - [x] C) El digestivo absorbe nutrientes; el excretor elimina desechos de la sangre <!-- feedback: Correcto. -->
@@ -42,10 +45,11 @@ El digestivo absorbe nutrientes → sangre. El hígado procesa nutrientes y gene
 ## Question 2 [D1]
 **ID:** `CO-CIE-6-2026-W25-digestivo-excretor-relacion-002-v1`
 **Bloom:** Remember | **ICFES:** Comunicación y Representación
-**Context:** En Medellín, identifican el hígado.
+**Expected_Success:** 0.75
+**Contexto:** En Medellín, identifican el hígado.
 ### Enunciado
 ¿Qué órgano pertenece al digestivo y al excretor (metabólico)?
-### Options
+### Opciones
 - [ ] A) Estómago <!-- feedback: Solo digestivo. -->
 - [ ] B) Riñón <!-- feedback: Solo excretor. -->
 - [x] C) Hígado <!-- feedback: Correcto. -->
@@ -58,10 +62,11 @@ El hígado tiene funciones digestivas (bilis) y metabólicas/excretoras: convier
 ## Question 3 [D2]
 **ID:** `CO-CIE-6-2026-W25-digestivo-excretor-relacion-003-v1`
 **Bloom:** Understand | **ICFES:** Comunicación y Representación
-**Context:** En Cali, explican el metabolismo.
+**Expected_Success:** 0.75
+**Contexto:** En Cali, explican el metabolismo.
 ### Enunciado
 ¿Qué órgano convierte amoníaco tóxico en urea?
-### Options
+### Opciones
 - [ ] A) Riñón <!-- feedback: Filtra urea, no la produce. -->
 - [x] B) Hígado <!-- feedback: Correcto. -->
 - [ ] C) Páncreas <!-- feedback: Produce insulina. -->
@@ -74,10 +79,11 @@ Al metabolizar proteínas se produce amoníaco (NH3), muy tóxico para el cerebr
 ## Question 4 [D2]
 **ID:** `CO-CIE-6-2026-W25-digestivo-excretor-relacion-004-v1`
 **Bloom:** Understand | **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, explican bilis.
+**Expected_Success:** 0.75
+**Contexto:** En Barranquilla, explican bilis.
 ### Enunciado
 ¿Dónde se almacena la bilis?
-### Options
+### Opciones
 - [ ] A) Estómago <!-- feedback: No. -->
 - [ ] B) Páncreas <!-- feedback: Produce jugo pancreático. -->
 - [x] C) Vesícula biliar <!-- feedback: Correcto. -->
@@ -90,10 +96,11 @@ La vesícula biliar almacena y concentra la bilis del hígado. Al comer grasas, 
 ## Question 5 [D3]
 **ID:** `CO-CIE-6-2026-W25-digestivo-excretor-relacion-005-v1`
 **Bloom:** Apply | **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, balance hídrico.
+**Expected_Success:** 0.75
+**Contexto:** En Bucaramanga, balance hídrico.
 ### Enunciado
 ¿Por qué comer mucha sal causa retención de líquidos?
-### Options
+### Opciones
 - [ ] A) La sal tapa venas <!-- feedback: No. -->
 - [x] B) El cuerpo retiene agua para diluir el exceso de sodio <!-- feedback: Correcto. -->
 - [ ] C) Riñones producen menos orina <!-- feedback: Retienen agua. -->
@@ -106,10 +113,11 @@ Donde va sodio, va agua. El exceso de sodio en sangre hace que el cuerpo retenga
 ## Question 6 [D3]
 **ID:** `CO-CIE-6-2026-W25-digestivo-excretor-relacion-006-v1`
 **Bloom:** Apply | **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, diabetes.
+**Expected_Success:** 0.75
+**Contexto:** En Cartagena, diabetes.
 ### Enunciado
 ¿Por qué los diabéticos orinan mucho?
-### Options
+### Opciones
 - [ ] A) Infección urinaria <!-- feedback: No es la causa. -->
 - [ ] B) Riñones inflamados <!-- feedback: No. -->
 - [x] C) Exceso de glucosa no reabsorbida arrastra agua (poliuria) <!-- feedback: Correcto. -->
@@ -122,10 +130,11 @@ Cuando la glucosa en sangre supera ~180 mg/dL, los riñones no pueden reabsorber
 ## Question 7 [D4]
 **ID:** `CO-CIE-6-2026-W25-digestivo-excretor-relacion-007-v1`
 **Bloom:** Analyze | **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, cirrosis.
+**Expected_Success:** 0.75
+**Contexto:** En Pereira, cirrosis.
 ### Enunciado
 ¿Por qué el alcohol causa cirrosis?
-### Options
+### Opciones
 - [ ] A) Quema el hígado <!-- feedback: No. -->
 - [ ] B) Se acumula en el hígado <!-- feedback: Se metaboliza. -->
 - [x] C) El acetaldehído (metabolito) daña hepatocitos, reemplazados por tejido cicatricial <!-- feedback: Correcto. -->
@@ -138,10 +147,11 @@ El hígado metaboliza alcohol → acetaldehído (tóxico). Daño crónico: híga
 ## Question 8 [D4]
 **ID:** `CO-CIE-6-2026-W25-digestivo-excretor-relacion-008-v1`
 **Bloom:** Analyze | **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, estreñimiento.
+**Expected_Success:** 0.75
+**Contexto:** En Manizales, estreñimiento.
 ### Enunciado
 ¿Por qué la falta de fibra causa estreñimiento?
-### Options
+### Opciones
 - [ ] A) La fibra engorda <!-- feedback: No. -->
 - [ ] B) La fibra irrita el intestino <!-- feedback: La fibra ayuda. -->
 - [x] C) La fibra retiene agua y da volumen a las heces, facilitando el tránsito intestinal <!-- feedback: Correcto. -->
@@ -154,10 +164,11 @@ La fibra soluble (avena, manzana) forma gel que retiene agua; la insoluble (cere
 ## Question 9 [D5]
 **ID:** `CO-CIE-6-2026-W25-digestivo-excretor-relacion-009-v1`
 **Bloom:** Evaluate | **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan alimentación.
+**Expected_Success:** 0.75
+**Contexto:** En Cúcuta, evalúan alimentación.
 ### Enunciado
 ¿Qué combinación protege MÁS el hígado y los riñones?
-### Options
+### Opciones
 - [ ] A) Dieta alta en proteínas y baja en carbohidratos <!-- feedback: Sobrecarga riñones. -->
 - [ ] B) Consumo regular de alcohol y café <!-- feedback: Alcohol daña hígado. -->
 - [x] C) Dieta balanceada, baja en sal y grasas, sin alcohol, mucha agua <!-- feedback: Correcto. -->
@@ -170,10 +181,11 @@ La fibra soluble (avena, manzana) forma gel que retiene agua; la insoluble (cere
 ## Question 10 [D5]
 **ID:** `CO-CIE-6-2026-W25-digestivo-excretor-relacion-010-v1`
 **Bloom:** Evaluate | **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan políticas escolares.
+**Expected_Success:** 0.75
+**Contexto:** En Ibagué, evalúan políticas escolares.
 ### Enunciado
 ¿Mejor política escolar para digestión y excreción saludables?
-### Options
+### Opciones
 - [ ] A) Vending machines con gaseosas <!-- feedback: Alto en azúcar. -->
 - [ ] B) Prohibir loncheras <!-- feedback: No. -->
 - [x] C) Tiendas escolares saludables, agua potable disponible, educación nutricional <!-- feedback: Correcto. -->

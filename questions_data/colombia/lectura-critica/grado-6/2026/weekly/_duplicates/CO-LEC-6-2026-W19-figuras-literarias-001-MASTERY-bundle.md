@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-6-2026-W19-figuras-literarias-001-MASTERY"
+id: "CO-LEC-6-2026-W19-figuras-literarias-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "figuras-literarias"
-semana: 19
+week: "W19"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "figuras literarias, símil, metáfora, personificación, hipérbole, aliteración, onomatopeya, recursos estilísticos, lenguaje figurado análisis poético"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G6 — Figuras Literarias
 
@@ -49,12 +56,13 @@ rubric_baseline: "figuras literarias, símil, metáfora, personificación, hipé
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Qué figura literaria se usa en el verso 1: "El río ríe entre las piedras"?
 
-### Options
+### Opciones
 - [ ] A) Hipérbole. <!-- feedback: Incorrecto. La hipérbole es una exageración. Decir que el río ríe no es exagerar, es atribuirle una cualidad humana. -->
 - [x] B) Personificación. <!-- feedback: Correcto. Se le atribuye al río la capacidad humana de reír. Los ríos no ríen literalmente, pero el poeta le da esa cualidad para sugerir alegría. -->
 - [ ] C) Metáfora. <!-- feedback: Incorrecto. En una metáfora se reemplaza una palabra por otra ("el río es una risa"). Aquí se dice que el río ríe, que es una acción humana atribuida a un elemento natural. -->
@@ -66,12 +74,13 @@ La personificación es una figura literaria que atribuye cualidades o acciones h
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Qué figura literaria encontramos en el verso 3: "Los árboles, como soldados"?
 
-### Options
+### Opciones
 - [ ] A) Metáfora. <!-- feedback: Incorrecto. En la metáfora no aparece la palabra "como". Aquí sí aparece, lo que indica una comparación explícita. -->
 - [x] B) Símil o comparación. <!-- feedback: Correcto. "Como" es la palabra clave del símil: compara los árboles con soldados, sugiriendo que están firmes y erguidos, como una fila de guardianes. -->
 - [ ] C) Onomatopeya. <!-- feedback: Incorrecto. La onomatopeya imita sonidos (tic-tac, miau). Aquí no hay imitación de sonidos. -->
@@ -83,12 +92,13 @@ El símil (o comparación) usa palabras como "como", "cual", "parece" para estab
 ## Question 3 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Qué sensación quiere transmitir el poeta al decir que "el sol tiene un millón de rayos" (verso 5)?
 
-### Options
+### Opciones
 - [ ] A) Que el sol está roto. <!-- feedback: Incorrecto. "Un millón" no indica ruptura, sino abundancia. -->
 - [ ] B) Que el sol es débil. <!-- feedback: Incorrecto. Un millón de rayos sugiere potencia, no debilidad. -->
 - [x] C) Que la luz del sol es muy intensa y abundante, hasta el punto de parecer incontable. <!-- feedback: Correcto. "Un millón" es una exageración (hipérbole) para expresar la gran cantidad de rayos de sol que iluminan la mañana. -->
@@ -100,12 +110,13 @@ La hipérbole exagera una característica para darle énfasis. "Un millón de ra
 ## Question 4 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Qué figura literaria predomina en los versos 7-8: "Las nubes son algodones / en una cama de lona"?
 
-### Options
+### Opciones
 - [ ] A) Símil. <!-- feedback: Incorrecto. No usa "como". Dice "son", que es una afirmación de identidad, no una comparación. -->
 - [x] B) Metáfora. <!-- feedback: Correcto. "Las nubes son algodones" es una metáfora: identifica directamente las nubes con algodones, sugiriendo que son blancas, suaves y esponjosas. "Cama de lona" también es una metáfora del cielo. -->
 - [ ] C) Personificación. <!-- feedback: Incorrecto. No se atribuyen cualidades humanas a las nubes. -->
@@ -117,12 +128,13 @@ La metáfora es una identificación directa entre dos elementos: "esto es aquell
 ## Question 5 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 En el verso 9, "La lluvia tamborilea", el poeta inventa una palabra. ¿Qué figura literaria y qué efecto busca?
 
-### Options
+### Opciones
 - [ ] A) Metáfora, para sustituir la lluvia por un tambor. <!-- feedback: Incorrecto. No sustituye la lluvia; describe cómo suena. -->
 - [ ] B) Hipérbole, para exagerar el ruido de la lluvia. <!-- feedback: Incorrecto. No hay exageración; es una descripción del sonido. -->
 - [x] C) Onomatopeya, para imitar con el sonido de la palabra el ruido que hace la lluvia al golpear el techo, como si fuera un tambor. <!-- feedback: Correcto. "Tamborilea" imita el sonido rítmico de la lluvia golpeando, relacionándolo con el redoble de un tambor. El poeta crea una palabra que suena como lo que describe. -->
@@ -134,12 +146,13 @@ La onomatopeya no solo imita sonidos de animales o cosas (tic-tac, miau), sino q
 ## Question 6 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 Si el verso 11 dice "El viento silba y silba", ¿qué recurso literario se usa con la palabra "silba" repetida?
 
-### Options
+### Opciones
 - [ ] A) Símil. <!-- feedback: Incorrecto. No hay comparación. -->
 - [ ] B) Metáfora. <!-- feedback: Incorrecto. No identifica el viento con otra cosa. -->
 - [x] C) Aliteración (repetición del sonido "s") y personificación (el viento silba como una persona). <!-- feedback: Correcto. La repetición de "silba" y el sonido de la S crea una aliteración que imita el sonido del viento. Además, atribuir al viento la capacidad de silbar es una personificación. -->
@@ -151,12 +164,13 @@ A veces, en un mismo verso se combinan varias figuras literarias. "El viento sil
 ## Question 7 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué relación hay entre los versos 13-14 ("las estrellas son ojos que parpadean") y los versos 15-16 ("la luna es una moneda que en el cielo centellea")?
 
-### Options
+### Opciones
 - [ ] A) No hay relación. Son imágenes independientes. <!-- feedback: Incorrecto. Ambas describen elementos del cielo nocturno. -->
 - [ ] B) Una es verdadera y la otra es falsa. <!-- feedback: Incorrecto. Ambas son imágenes poéticas, no afirmaciones literales. -->
 - [x] C) Ambas usan metáforas para describir el cielo nocturno: las estrellas se identifican con ojos que parpadean (titilan), y la luna con una moneda que brilla (centellea). Ambas crean imágenes visuales de la noche. <!-- feedback: Correcto. Ambas son metáforas que embellecen la descripción del cielo de noche usando elementos familiares (ojos, moneda). -->
@@ -168,12 +182,13 @@ Reconocer que un mismo poeta puede usar la misma figura literaria (la metáfora)
 ## Question 8 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué diferencia hay entre la figura usada en el verso 3 ("árboles como soldados") y la del verso 7 ("nubes son algodones")?
 
-### Options
+### Opciones
 - [ ] A) Son exactamente iguales. <!-- feedback: Incorrecto. Una usa "como" y la otra no, lo que las hace diferentes. -->
 - [x] B) El verso 3 usa un símil (comparación con "como") mientras que el verso 7 usa una metáfora (identificación directa sin "como"). <!-- feedback: Correcto. La diferencia clave es la presencia de la palabra "como". El símil compara; la metáfora identifica. Ambas crean imágenes, pero con distinto mecanismo lingüístico. -->
 - [ ] C) El verso 3 es una metáfora y el 7 es un símil. <!-- feedback: Incorrecto. Es al revés: el verso 3 usa "como" (símil), el 7 usa "son" (metáfora). -->
@@ -185,12 +200,13 @@ Diferenciar entre símil y metáfora es una habilidad fundamental. La clave est�
 ## Question 9 [D6]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 El poema usa muchas figuras literarias para describir la naturaleza. ¿Qué efecto logra el poeta al usar estas figuras en lugar de una descripción literal?
 
-### Options
+### Opciones
 - [ ] A) Hace que el texto sea más difícil de entender. <!-- feedback: Incorrecto. Aunque las figuras literarias requieren interpretación, no buscan dificultar sino enriquecer. -->
 - [ ] B) Hace que el poema sea más corto. <!-- feedback: Incorrecto. Usar figuras literarias no necesariamente acorta el texto. -->
 - [x] C) Crea imágenes más vívidas y emocionantes que conectan la naturaleza con experiencias humanas cotidianas (reír, silbar, tamborilear), haciendo que el lector sienta y visualice el paisaje de manera más intensa. <!-- feedback: Correcto. Las figuras literarias transforman descripciones simples en experiencias sensoriales y emocionales. El río no solo suena: "ríe". Las nubes no solo son blancas: "son algodones". -->
@@ -202,12 +218,13 @@ Evaluar el efecto del lenguaje figurado es una habilidad crítica. Las figuras l
 ## Question 10 [D6]
 
 **Bloom:** Create
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 Si quisieras escribir un verso sobre el mar usando una personificación, ¿cuál de las siguientes opciones sería la correcta?
 
-### Options
+### Opciones
 - [ ] A) "El mar es azul como el cielo." <!-- feedback: Incorrecto. Es un símil (comparación con "como"), no una personificación. No atribuye cualidades humanas al mar. -->
 - [ ] B) "El mar tiene olas muy grandes." <!-- feedback: Incorrecto. Es una descripción literal. No hay figura literaria. -->
 - [x] C) "El mar susurra secretos en la orilla." <!-- feedback: Correcto. "Susurra secretos" es una personificación: atribuye al mar la acción humana de susurrar, como si contara secretos. Crea una imagen poética y sugestiva. -->

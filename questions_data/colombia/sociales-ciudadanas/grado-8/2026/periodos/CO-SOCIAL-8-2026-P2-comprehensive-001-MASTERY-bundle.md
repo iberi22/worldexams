@@ -1,5 +1,5 @@
 ---
-id: "CO-SOCIAL-8-2026-P2-comprehensive-001-MASTERY"
+id: "CO-SOCIAL-8-2026-P2-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Colombia siglo XIX, geografía humana mundial, ideologías pol
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Colombia Siglo XIX, Geografía Humana e Ideologías Políticas
 
@@ -31,13 +36,14 @@ Este bundle cubre el siglo XIX colombiano, la geografía humana mundial y las pr
 
 **ID:** `CO-SOCIAL-8-2026-P2-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** Un estudiante en Bogotá estudia los partidos políticos tradicionales de Colombia.
+**Contexto:** Un estudiante en Bogotá estudia los partidos políticos tradicionales de Colombia.
 
 ### Enunciado
 ¿Cuáles son los dos partidos políticos tradicionales que surgieron en Colombia en el siglo XIX?
 
-### Options
+### Opciones
 - [ ] A) Partido Liberal y Partido Verde. <!-- feedback: Incorrect. El Partido Verde es contemporáneo. -->
 - [x] B) Partido Liberal y Partido Conservador. <!-- feedback: Correct. Estos dos partidos surgieron a mediados del siglo XIX y dominaron la política colombiana. -->
 - [ ] C) Partido de la U y Centro Democrático. <!-- feedback: Incorrect. Esos son partidos del siglo XXI. -->
@@ -52,13 +58,14 @@ Los partidos Liberal (fundado por Ezequiel Rojas, 1848) y Conservador (fundado p
 
 **ID:** `CO-SOCIAL-8-2026-P2-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En una clase de geografía humana en Medellín, el profesor explica la distribución de la población mundial.
+**Contexto:** En una clase de geografía humana en Medellín, el profesor explica la distribución de la población mundial.
 
 ### Enunciado
 ¿Cuál es el continente más poblado del mundo?
 
-### Options
+### Opciones
 - [ ] A) Europa. <!-- feedback: Incorrect. Europa tiene una población importante pero no es la mayor. -->
 - [ ] B) América. <!-- feedback: Incorrect. América tiene menos población que Asia y África. -->
 - [x] C) Asia. <!-- feedback: Correct. Asia concentra aproximadamente el 60% de la población mundial. -->
@@ -73,13 +80,14 @@ Asia es el continente más poblado del mundo con más de 4.500 millones de perso
 
 **ID:** `CO-SOCIAL-8-2026-P2-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En clase de sociales en Cali, se analizan las diferencias entre federalismo y centralismo en la Colombia del siglo XIX.
+**Contexto:** En clase de sociales en Cali, se analizan las diferencias entre federalismo y centralismo en la Colombia del siglo XIX.
 
 ### Enunciado
 ¿Qué defendían los federalistas en la Colombia del siglo XIX?
 
-### Options
+### Opciones
 - [ ] A) Un gobierno central fuerte con poder absoluto. <!-- feedback: Incorrect. Eso es centralismo. -->
 - [x] B) Que cada estado tuviera autonomía para gobernarse, con un gobierno nacional limitado. <!-- feedback: Correct. El federalismo buscaba descentralizar el poder. -->
 - [ ] C) La unión con Venezuela y Ecuador. <!-- feedback: Incorrect. Eso era la propuesta de la Gran Colombia. -->
@@ -94,13 +102,14 @@ En el siglo XIX colombiano, los federalistas querían que cada estado tuviera au
 
 **ID:** `CO-SOCIAL-8-2026-P2-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** Un profesor en Barranquilla explica las ideologías políticas que surgieron en el siglo XIX.
+**Contexto:** Un profesor en Barranquilla explica las ideologías políticas que surgieron en el siglo XIX.
 
 ### Enunciado
 ¿Cuál de las siguientes NO es una ideología política del siglo XIX?
 
-### Options
+### Opciones
 - [ ] A) Liberalismo. <!-- feedback: Incorrect. Es una ideología del siglo XIX. -->
 - [ ] B) Conservadurismo. <!-- feedback: Incorrect. Es una ideología del siglo XIX. -->
 - [x] C) Neoliberalismo. <!-- feedback: Correct. El neoliberalismo es una corriente del siglo XX. -->
@@ -115,13 +124,14 @@ Las grandes ideologías del siglo XIX fueron el liberalismo (libertad individual
 
 **ID:** `CO-SOCIAL-8-2026-P2-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** Se analiza la Constitución de 1886 en Colombia.
+**Contexto:** Se analiza la Constitución de 1886 en Colombia.
 
 ### Enunciado
 ¿Qué modelo de gobierno estableció la Constitución de 1886, que estuvo vigente hasta 1991?
 
-### Options
+### Opciones
 - [ ] A) Sistema federal. <!-- feedback: Incorrect. La Constitución de 1886 fue centralista. -->
 - [x] B) Sistema centralista con presidente fuerte y la República de Colombia unificada. <!-- feedback: Correct. La Constitución de 1886, liderada por Rafael Núñez, centralizó el poder. -->
 - [ ] C) Sistema comunal. <!-- feedback: Incorrect. No existe tal sistema en Colombia. -->
@@ -136,13 +146,14 @@ La Constitución de 1886, promovida por Rafael Núñez y los regeneradores, acab
 
 **ID:** `CO-SOCIAL-8-2026-P2-comprehensive-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En clase de geografía humana en Pereira, se estudia la migración de venezolanos hacia Colombia en la última década.
+**Contexto:** En clase de geografía humana en Pereira, se estudia la migración de venezolanos hacia Colombia en la última década.
 
 ### Enunciado
 ¿Cuál de los siguientes es un factor de expulsión (push factor) que ha motivado la migración venezolana hacia Colombia?
 
-### Options
+### Opciones
 - [ ] A) Mejores oportunidades educativas en Colombia. <!-- feedback: Incorrect. Eso es un factor de atracción (pull factor). -->
 - [ ] B) El clima cálido de Colombia. <!-- feedback: Incorrect. El clima no es un factor determinante. -->
 - [x] C) La crisis económica y política en Venezuela. <!-- feedback: Correct. La crisis humanitaria, económica y política es el principal factor de expulsión. -->
@@ -157,13 +168,14 @@ Los factores de expulsión (push) son condiciones negativas que motivan a las pe
 
 **ID:** `CO-SOCIAL-8-2026-P2-comprehensive-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante en Bucaramanga compara el liberalismo clásico con el socialismo.
+**Contexto:** Un estudiante en Bucaramanga compara el liberalismo clásico con el socialismo.
 
 ### Enunciado
 ¿Cuál es la principal diferencia entre el liberalismo y el socialismo?
 
-### Options
+### Opciones
 - [ ] A) El liberalismo defiende la igualdad económica absoluta. <!-- feedback: Incorrect. El socialismo defiende más la igualdad económica. -->
 - [x] B) El liberalismo defiende la propiedad privada y el libre mercado; el socialismo defiende la propiedad colectiva de los medios de producción. <!-- feedback: Correct. Esta es la diferencia fundamental entre ambas ideologías. -->
 - [ ] C) Ambas ideologías defienden lo mismo pero con diferentes nombres. <!-- feedback: Incorrect. Son ideologías opuestas en muchos aspectos. -->
@@ -178,13 +190,14 @@ El liberalismo clásico (Adam Smith, John Locke) defiende la propiedad privada, 
 
 **ID:** `CO-SOCIAL-8-2026-P2-comprehensive-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** Se analiza la Guerra de los Mil Días (1899-1902) en Colombia.
+**Contexto:** Se analiza la Guerra de los Mil Días (1899-1902) en Colombia.
 
 ### Enunciado
 ¿Cuál fue una consecuencia de la Guerra de los Mil Días para Colombia?
 
-### Options
+### Opciones
 - [ ] A) La unificación con Venezuela. <!-- feedback: Incorrect. No hubo unificación. -->
 - [x] B) La separación de Panamá en 1903. <!-- feedback: Correct. La guerra debilitó al país, y Estados Unidos apoyó la separación de Panamá para construir el canal. -->
 - [ ] C) La abolición de la esclavitud. <!-- feedback: Incorrect. La esclavitud se abolió en 1851. -->
@@ -199,13 +212,14 @@ La Guerra de los Mil Días (1899-1902) fue una guerra civil entre liberales y co
 
 **ID:** `CO-SOCIAL-8-2026-P2-comprehensive-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se estudian las pirámides poblacionales de diferentes países.
+**Contexto:** Se estudian las pirámides poblacionales de diferentes países.
 
 ### Enunciado
 ¿Qué forma tiene la pirámide poblacional de un país con alta tasa de natalidad y baja esperanza de vida?
 
-### Options
+### Opciones
 - [ ] A) Forma de urna o bulbo. <!-- feedback: Incorrect. Esa forma corresponde a países con baja natalidad y alta esperanza de vida. -->
 - [x] B) Base ancha y cúspide angosta. <!-- feedback: Correct. Alta natalidad (muchos jóvenes) y baja esperanza de vida (pocos ancianos). -->
 - [ ] C) Forma rectangular. <!-- feedback: Incorrect. Esa forma indica tasas estables. -->
@@ -220,13 +234,14 @@ Las pirámides poblacionales muestran la estructura por edad y sexo. Una base an
 
 **ID:** `CO-SOCIAL-8-2026-P2-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En un debate sobre ideologías políticas, se discute el nacionalismo en el siglo XIX.
+**Contexto:** En un debate sobre ideologías políticas, se discute el nacionalismo en el siglo XIX.
 
 ### Enunciado
 ¿Qué papel jugó el nacionalismo en la unificación de Italia y Alemania en el siglo XIX?
 
-### Options
+### Opciones
 - [ ] A) El nacionalismo dividió estos países en pequeños estados. <!-- feedback: Incorrect. El nacionalismo unificó territorios fragmentados. -->
 - [x] B) El nacionalismo impulsó la unificación de territorios con identidad cultural común, formando estados-nación. <!-- feedback: Correct. Italia (Cavour, Garibaldi) y Alemania (Bismarck) se unificaron en 1861 y 1871 respectivamente. -->
 - [ ] C) El nacionalismo no tuvo relación con estas unificaciones. <!-- feedback: Incorrect. El nacionalismo fue la fuerza motriz de ambos procesos. -->
@@ -241,13 +256,14 @@ El nacionalismo fue una ideología fundamental del siglo XIX, impulsando la unif
 
 **ID:** `CO-SOCIAL-8-2026-P2-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante afirma: "El liberalismo económico del siglo XIX promovía la intervención del Estado en la economía."
+**Contexto:** Un estudiante afirma: "El liberalismo económico del siglo XIX promovía la intervención del Estado en la economía."
 
 ### Enunciado
 ¿Es correcta esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Sí, el liberalismo promovía el control estatal de la economía. <!-- feedback: Incorrect. Eso es intervencionismo. -->
 - [x] B) No, el liberalismo económico defendía el libre mercado sin intervención del Estado (laissez-faire). <!-- feedback: Correct. El liberalismo clásico abogaba por mínima intervención estatal. -->
 - [ ] C) Sí, porque Adam Smith defendía el proteccionismo. <!-- feedback: Incorrect. Adam Smith defendía el libre comercio. -->
@@ -262,13 +278,14 @@ El liberalismo económico clásico, inspirado en Adam Smith ("La riqueza de las 
 
 **ID:** `CO-SOCIAL-8-2026-P2-comprehensive-001-MASTERY-v12`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En clase se analiza el fenómeno de la urbanización global.
+**Contexto:** En clase se analiza el fenómeno de la urbanización global.
 
 ### Enunciado
 ¿Cuál de las siguientes es una megaciudad (más de 10 millones de habitantes) actual?
 
-### Options
+### Opciones
 - [ ] A) Bogotá. <!-- feedback: Incorrect. Bogotá tiene aproximadamente 8 millones en la ciudad y 11 en el área metropolitana, pero no es la opción más clásica. -->
 - [ ] B) Cartagena. <!-- feedback: Incorrect. Cartagena tiene menos de 2 millones. -->
 - [x] C) Tokio, Japón. <!-- feedback: Correct. Tokio es la megaciudad más grande del mundo con aproximadamente 37 millones de habitantes. -->
@@ -283,13 +300,14 @@ Las megaciudades son áreas urbanas con más de 10 millones de habitantes. Tokio
 
 **ID:** `CO-SOCIAL-8-2026-P2-comprehensive-001-MASTERY-v13`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se analiza la Regeneración liderada por Rafael Núñez en Colombia (1880-1894).
+**Contexto:** Se analiza la Regeneración liderada por Rafael Núñez en Colombia (1880-1894).
 
 ### Enunciado
 ¿Cuál fue el principal lema de la Regeneración?
 
-### Options
+### Opciones
 - [x] A) "Regeneración administrativa fundamental o catástrofe". <!-- feedback: Correct. El lema reflejaba la necesidad de reformas profundas. -->
 - [ ] B) "Patria, libertad y justicia". <!-- feedback: Incorrect. Ese no era el lema. -->
 - [ ] C) "Independencia o muerte". <!-- feedback: Incorrect. Ese era el lema de la independencia. -->
@@ -304,13 +322,14 @@ La Regeneración fue un movimiento político liderado por Rafael Núñez que bus
 
 **ID:** `CO-SOCIAL-8-2026-P2-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante dice: "El federalismo en Colombia fracasó porque llevó a guerras civiles, mientras que el centralismo trajo paz y progreso."
+**Contexto:** Un estudiante dice: "El federalismo en Colombia fracasó porque llevó a guerras civiles, mientras que el centralismo trajo paz y progreso."
 
 ### Enunciado
 ¿Es correcta esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque Colombia nunca fue federal. <!-- feedback: Incorrect. Colombia sí fue federal (Constitución de Rionegro, 1863). -->
 - [ ] B) Sí, porque el federalismo causó todas las guerras civiles. <!-- feedback: Incorrect. El centralismo también tuvo conflictos. -->
 - [x] C) Es una visión simplificada. Tanto el federalismo (1863-1886) como el centralismo (1886 en adelante) tuvieron períodos de violencia. El federalismo de los Estados Unidos de Colombia fue muy descentralizado pero inestable. <!-- feedback: Correct. Ambas formas tuvieron ventajas y desventajas. -->
@@ -325,13 +344,14 @@ La historia política colombiana del siglo XIX muestra que tanto el federalismo 
 
 **ID:** `CO-SOCIAL-8-2026-P2-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Reflexivo
-**Context:** Un politólogo analiza Colombia en el siglo XIX y afirma: "Las ideologías políticas del siglo XIX colombiano reflejaban más los intereses de las élites regionales que las diferencias doctrinales."
+**Contexto:** Un politólogo analiza Colombia en el siglo XIX y afirma: "Las ideologías políticas del siglo XIX colombiano reflejaban más los intereses de las élites regionales que las diferencias doctrinales."
 
 ### Enunciado
 ¿Qué evidencia respalda esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Liberales y conservadores tenían programas idénticos. <!-- feedback: Incorrect. Sí tenían diferencias, pero no siempre eran doctrinales. -->
 - [x] B) Las guerras civiles del siglo XIX a menudo enfrentaban regiones específicas (Cauca vs. Cundinamarca) más que defender principios ideológicos puros. <!-- feedback: Correct. Las lealtades regionales eran tan importantes como las ideológicas. -->
 - [ ] C) Solo hubo un partido político en el siglo XIX. <!-- feedback: Incorrect. Hubo dos partidos principales. -->

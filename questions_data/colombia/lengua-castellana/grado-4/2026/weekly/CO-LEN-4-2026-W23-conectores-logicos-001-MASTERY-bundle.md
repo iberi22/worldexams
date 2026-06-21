@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-4-2026-W23-conectores-logicos-001-MASTERY"
+id: "CO-LEN-4-2026-W23-conectores-logicos-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 4"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Conectores lógicos - Grado 4
 
@@ -22,7 +24,7 @@ Este bundle explora el uso de los conectores lógicos para establecer relaciones
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-4-2026-W23-conectores-logicos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -33,21 +35,20 @@ Este bundle explora el uso de los conectores lógicos para establecer relaciones
 ¿Cuál es la función principal de los conectores lógicos en un texto?
 
 ### Opciones
-- [ ] A) Hacer que el texto tenga más palabras difíciles.
-  <!-- feedback: No es una cuestión de dificultad léxica. -->
-- [x] B) Unir oraciones y párrafos para que el texto sea coherente y fácil de entender.
-  <!-- feedback: ¡Correcto! Funcionan como el "pegamento" de las ideas. -->
-- [ ] C) Reemplazar a los signos de puntuación.
-  <!-- feedback: Los conectores y la puntuación trabajan juntos, no se reemplazan. -->
-- [ ] D) Indicar quién es el autor del texto.
-  <!-- feedback: Esa no es su función gramatical. -->
+- [ ] A) Hacer que el texto tenga más palabras difíciles. <!-- feedback: Incorrecto. Hacer que el texto tenga más palabras di -->
+
+- [x] B) Unir oraciones y párrafos para que el texto sea coherente y fácil de entender. <!-- feedback: Correcto! Unir oraciones y párrafos para que el texto sea coherente y  -->
+
+- [ ] C) Reemplazar a los signos de puntuación. <!-- feedback: Incorrecto. Reemplazar a los signos de puntuación. -->
+
+- [ ] D) Indicar quién es el autor del texto. <!-- feedback: Incorrecto. Indicar quién es el autor del texto. -->
 
 ### Explicación Pedagogica
 Los conectores son piezas fundamentales de la cohesión textual, permitiendo que el lector siga el hilo lógico del pensamiento del autor.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-4-2026-W23-conectores-logicos-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -58,21 +59,20 @@ Los conectores son piezas fundamentales de la cohesión textual, permitiendo que
 ¿Qué tipo de conector son las palabras **"primero"**, **"luego"** y **"finalmente"**?
 
 ### Opciones
-- [ ] A) Conectores de causa.
-  <!-- feedback: Indican el porqué de algo. -->
-- [ ] B) Conectores de oposición.
-  <!-- feedback: Indican contraste. -->
-- [x] C) Conectores de orden o secuencia.
-  <!-- feedback: ¡Muy bien! Indican la organización temporal de los hechos. -->
-- [ ] D) Conectores de adición.
-  <!-- feedback: Sirven para añadir información (y, también). -->
+- [ ] A) Conectores de causa. <!-- feedback: Incorrecto. Conectores de causa. -->
+
+- [ ] B) Conectores de oposición. <!-- feedback: Incorrecto. Conectores de oposición. -->
+
+- [x] C) Conectores de orden o secuencia. <!-- feedback: Correcto! Conectores de orden o secuencia. -->
+
+- [ ] D) Conectores de adición. <!-- feedback: Incorrecto. Conectores de adición. -->
 
 ### Explicación Pedagogica
 Los conectores de orden son esenciales en los textos instructivos y narrativos para marcar la progresión del tiempo.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-4-2026-W23-conectores-logicos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -83,21 +83,20 @@ Los conectores de orden son esenciales en los textos instructivos y narrativos p
 En la frase "Las plantas se secaron ________ no llovió en todo el mes", ¿qué conector de **causa** completa mejor la idea?
 
 ### Opciones
-- [ ] A) Pero
-  <!-- feedback: Indica oposición, no causa. -->
-- [x] B) Porque
-  <!-- feedback: ¡Excelente! Introduce la razón por la cual se secaron las plantas. -->
-- [ ] C) Sin embargo
-  <!-- feedback: Indica contraste. -->
-- [ ] D) Finalmente
-  <!-- feedback: Indica conclusión. -->
+- [ ] A) Pero <!-- feedback: Incorrecto. Pero -->
+
+- [x] B) Porque <!-- feedback: Correcto! Porque -->
+
+- [ ] C) Sin embargo <!-- feedback: Incorrecto. Sin embargo -->
+
+- [ ] D) Finalmente <!-- feedback: Incorrecto. Finalmente -->
 
 ### Explicación Pedagogica
 Los conectores causales vinculan un efecto con el motivo que lo originó, facilitando la comprensión de relaciones lógicas.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-4-2026-W23-conectores-logicos-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -108,21 +107,20 @@ Los conectores causales vinculan un efecto con el motivo que lo originó, facili
 ¿Cuál de estos conectores sirve para **añadir** una nueva idea similar a la anterior?
 
 ### Opciones
-- [ ] A) Por el contrario.
-  <!-- feedback: Sirve para oponer ideas. -->
-- [x] B) Además.
-  <!-- feedback: ¡Correcto! Permite sumar información al mismo tema. -->
-- [ ] C) En conclusión.
-  <!-- feedback: Sirve para terminar. -->
-- [ ] D) Ya que.
-  <!-- feedback: Sirve para explicar una causa. -->
+- [ ] A) Por el contrario. <!-- feedback: Incorrecto. Por el contrario. -->
+
+- [x] B) Además. <!-- feedback: Correcto! Además. -->
+
+- [ ] C) En conclusión. <!-- feedback: Incorrecto. En conclusión. -->
+
+- [ ] D) Ya que. <!-- feedback: Incorrecto. Ya que. -->
 
 ### Explicación Pedagogica
 Los conectores de adición (y, además, también, asimismo) permiten expandir la información manteniendo la misma dirección del pensamiento.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-4-2026-W23-conectores-logicos-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -133,21 +131,20 @@ Los conectores de adición (y, además, también, asimismo) permiten expandir la
 "Me gusta mucho el fútbol, __________ hoy estoy muy cansado para jugar". ¿Qué conector indica que la segunda idea se opone a la primera?
 
 ### Opciones
-- [ ] A) Y
-  <!-- feedback: Solo sumaría información. -->
-- [ ] B) Por eso
-  <!-- feedback: Indicaría una consecuencia. -->
-- [x] C) Pero
-  <!-- feedback: ¡Así es! Es el conector de oposición más común. -->
-- [ ] D) También
-  <!-- feedback: Es de adición. -->
+- [ ] A) Y <!-- feedback: Incorrecto. Y -->
+
+- [ ] B) Por eso <!-- feedback: Incorrecto. Por eso -->
+
+- [x] C) Pero <!-- feedback: Correcto! Pero -->
+
+- [ ] D) También <!-- feedback: Incorrecto. También -->
 
 ### Explicación Pedagogica
 Los conectores de oposición o contraste (pero, sin embargo, no obstante) introducen matices que limitan o contradicen la idea principal.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-4-2026-W23-conectores-logicos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -158,21 +155,20 @@ Los conectores de oposición o contraste (pero, sin embargo, no obstante) introd
 En la oración "Cometí un error, **por lo tanto** pediré disculpas", ¿qué indica el conector resaltado?
 
 ### Opciones
-- [ ] A) Que va a dar una opción diferente.
-  <!-- feedback: Eso sería con "o". -->
-- [x] B) Que la segunda idea es el resultado o consecuencia de la primera.
-  <!-- feedback: ¡Exacto! Hacer el error lleva a la disculpa. -->
-- [ ] C) Que el tiempo está pasando.
-  <!-- feedback: No es un marcador temporal. -->
-- [ ] D) Que se le olvidó lo que iba a decir.
-  <!-- feedback: No, el conector da sentido y unión. -->
+- [ ] A) Que va a dar una opción diferente. <!-- feedback: Incorrecto. Que va a dar una opción diferente. -->
+
+- [x] B) Que la segunda idea es el resultado o consecuencia de la primera. <!-- feedback: Correcto! Que la segunda idea es el resultado o consecuencia de la pri -->
+
+- [ ] C) Que el tiempo está pasando. <!-- feedback: Incorrecto. Que el tiempo está pasando. -->
+
+- [ ] D) Que se le olvidó lo que iba a decir. <!-- feedback: Incorrecto. Que se le olvidó lo que iba a decir. -->
 
 ### Explicación Pedagogica
 Los conectores de consecuencia (así que, por lo tanto, en consecuencia) muestran el resultado lógico de una acción o situación.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-4-2026-W23-conectores-logicos-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -183,21 +179,20 @@ Los conectores de consecuencia (así que, por lo tanto, en consecuencia) muestra
 Si quieres terminar un párrafo resumiendo lo más importante, ¿cuál de estos conectores es el mejor?
 
 ### Opciones
-- [ ] A) En primer lugar.
-  <!-- feedback: Se usa para empezar. -->
-- [ ] B) De repente.
-  <!-- feedback: Se usa para indicar sorpresa o cambio inesperado. -->
-- [x] C) En conclusión.
-  <!-- feedback: ¡Muy bien! Indica que el texto o la idea están llegando a su fin con un resumen. -->
-- [ ] D) Tal vez.
-  <!-- feedback: Indica duda. -->
+- [ ] A) En primer lugar. <!-- feedback: Incorrecto. En primer lugar. -->
+
+- [ ] B) De repente. <!-- feedback: Incorrecto. De repente. -->
+
+- [x] C) En conclusión. <!-- feedback: Correcto! En conclusión. -->
+
+- [ ] D) Tal vez. <!-- feedback: Incorrecto. Tal vez. -->
 
 ### Explicación Pedagogica
 Los conectores conclusivos ayudan al lector a identificar el cierre del discurso y a fijar la idea final.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-4-2026-W23-conectores-logicos-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -208,21 +203,20 @@ Los conectores conclusivos ayudan al lector a identificar el cierre del discurso
 ¿Cuál de estas oraciones está MAL escrita porque el conector no tiene sentido lógico?
 
 ### Opciones
-- [ ] A) Salí temprano, sin embargo llegué tarde.
-  <!-- feedback: Tiene sentido (oposición). -->
-- [x] B) Tengo mucha hambre, por eso me voy a dormir.
-  <!-- feedback: ¡Excelente! Lo lógico sería "por eso voy a comer". El conector no concuerda con la acción resultante. -->
-- [ ] C) Estudié mucho y saqué buena nota.
-  <!-- feedback: Tiene sentido (adición). -->
-- [ ] D) Primero me baño, luego me visto.
-  <!-- feedback: Tiene sentido (orden). -->
+- [ ] A) Salí temprano, sin embargo llegué tarde. <!-- feedback: Incorrecto. Salí temprano, sin embargo llegué tarde. -->
+
+- [x] B) Tengo mucha hambre, por eso me voy a dormir. <!-- feedback: Correcto! Tengo mucha hambre, por eso me voy a dormir. -->
+
+- [ ] C) Estudié mucho y saqué buena nota. <!-- feedback: Incorrecto. Estudié mucho y saqué buena nota. -->
+
+- [ ] D) Primero me baño, luego me visto. <!-- feedback: Incorrecto. Primero me baño, luego me visto. -->
 
 ### Explicación Pedagogica
 El uso de conectores debe respetar la lógica de la realidad; de lo contrario, el texto se vuelve incoherente.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-4-2026-W23-conectores-logicos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -233,21 +227,20 @@ El uso de conectores debe respetar la lógica de la realidad; de lo contrario, e
 ¿Por qué un texto con conectores es mejor que uno que solo tiene frases cortas y separadas?
 
 ### Opciones
-- [ ] A) Porque así el autor parece que sabe más palabras.
-  <!-- feedback: No es por apariencia de vocabulario. -->
-- [x] B) Porque guía la mente del lector para que entienda cómo se relacionan las ideas entre sí.
-  <!-- feedback: ¡Correcto! Los conectores marcan el camino del pensamiento. -->
-- [ ] C) Porque los conectores hacen que el texto pese menos.
-  <!-- feedback: No tiene relación física. -->
-- [ ] D) Porque los conectores no necesitan puntos.
-  <!-- feedback: Los conectores suelen ir acompañados de comas o puntos. -->
+- [ ] A) Porque así el autor parece que sabe más palabras. <!-- feedback: Incorrecto. Porque así el autor parece que sabe más  -->
+
+- [x] B) Porque guía la mente del lector para que entienda cómo se relacionan las ideas entre sí. <!-- feedback: Correcto! Porque guía la mente del lector para que entienda cómo se re -->
+
+- [ ] C) Porque los conectores hacen que el texto pese menos. <!-- feedback: Incorrecto. Porque los conectores hacen que el texto -->
+
+- [ ] D) Porque los conectores no necesitan puntos. <!-- feedback: Incorrecto. Porque los conectores no necesitan punto -->
 
 ### Explicación Pedagogica
 La fluidez lectora depende en gran medida de la correcta señalización de las relaciones lógicas mediante conectores.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-4-2026-W23-conectores-logicos-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -258,14 +251,13 @@ La fluidez lectora depende en gran medida de la correcta señalización de las r
 ¿Cuál es la forma más potente de unir estas ideas usando un conector de consecuencia?
 
 ### Opciones
-- [ ] A) El Amazonas es el pulmón del mundo pero debemos protegerlo.
-  <!-- feedback: El "pero" no es adecuado porque no hay oposición, sino consecuencia. -->
-- [x] B) El Amazonas es el pulmón del mundo; por consiguiente, es nuestra obligación protegerlo.
-  <!-- feedback: ¡Muy bien! Usa un conector formal y lógico de consecuencia. -->
-- [ ] C) El Amazonas es el pulmón del mundo y también debemos protegerlo.
-  <!-- feedback: Es una suma simple, no destaca la relación de necesidad. -->
-- [ ] D) Protegerlo debemos porque el Amazonas es pulmón.
-  <!-- feedback: El orden es confuso. -->
+- [ ] A) El Amazonas es el pulmón del mundo pero debemos protegerlo. <!-- feedback: Incorrecto. El Amazonas es el pulmón del mundo pero  -->
+
+- [x] B) El Amazonas es el pulmón del mundo; por consiguiente, es nuestra obligación protegerlo. <!-- feedback: Correcto! El Amazonas es el pulmón del mundo; por consiguiente, es nue -->
+
+- [ ] C) El Amazonas es el pulmón del mundo y también debemos protegerlo. <!-- feedback: Incorrecto. El Amazonas es el pulmón del mundo y tam -->
+
+- [ ] D) Protegerlo debemos porque el Amazonas es pulmón. <!-- feedback: Incorrecto. Protegerlo debemos porque el Amazonas es -->
 
 ### Explicación Pedagogica
 La elección del conector adecuado eleva el nivel de la redacción y fortalece la argumentación del estudiante.

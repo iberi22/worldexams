@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-10-2026-P1-comprehensive-002-MASTERY"
+id: "CO-SOC-10-2026-P1-comprehensive-002-MASTERY-bundle"
 country: "colombia"
 grado: 10
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "constitucion_politica_1991, ramas_del_poder_publico, mecanismo
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 20
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY Grado 10 — Sociales y Ciudadanas, Periodo 1, Bundle 002
 
@@ -33,12 +38,12 @@ Bundle de periodo 1 para grado 10 Sociales. Cubre la Constitucion Politica de Co
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 
-**Context:** En clase de constitucion politica en el Colegio Nacional de San Jose de Sincelejo, la profesora pregunta sobre el origen del poder en Colombia.
+**Contexto:** En clase de constitucion politica en el Colegio Nacional de San Jose de Sincelejo, la profesora pregunta sobre el origen del poder en Colombia.
 
 ### Enunciado
 Segun la Constitucion Politica de Colombia de 1991, la soberania reside en:
 
-### Options
+### Opciones
 - [ ] A) El presidente de la republica <!-- feedback: Incorrecto. El presidente es el jefe de estado pero la soberania reside en el pueblo, no en el mandatario. -->
 - [ ] B) Las fuerzas armadas <!-- feedback: Incorrecto. Las fuerzas armadas estan para defender la soberania, no para ejercerla. -->
 - [x] C) El pueblo, del cual emana el poder publico <!-- feedback: Correcto. Articulo 3 de la Constitucion: "La soberania reside exclusivamente en el pueblo, del cual emana el poder publico." -->
@@ -55,12 +60,12 @@ El Articulo 3 de la Constitucion Politica de Colombia establece: "La soberania r
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 
-**Context:** En clase de ciencias sociales en el Colegio de la Universidad Pontificia Bolivariana de Medellin, se estudian las ramas del poder publico.
+**Contexto:** En clase de ciencias sociales en el Colegio de la Universidad Pontificia Bolivariana de Medellin, se estudian las ramas del poder publico.
 
 ### Enunciado
 Cuantas son las ramas del poder publico en Colombia?
 
-### Options
+### Opciones
 - [ ] A) 2: Ejecutiva y Judicial <!-- feedback: Incorrecto. La Constitucion de 1991 establece tres ramas del poder publico. -->
 - [x] B) 3: Ejecutiva, Legislativa y Judicial <!-- feedback: Correcto. La Constitucion de 1991 establece tres ramas del poder publico: Ejecutiva, Legislativa y Judicial. -->
 - [ ] C) 4: Ejecutiva, Legislativa, Judicial y Electoral <!-- feedback: Incorrecto. La organizacion electoral es un organismo autonomo, no una rama del poder. -->
@@ -77,12 +82,12 @@ La Constitucion de 1991 establece en su Titulo V la organizacion del Estado en t
 **Bloom:** Understand
 **ICFES:** Pensamiento social
 
-**Context:** En el curso de constitucion del Colegio San Francisco de Asis de Ibague, se explica la accion de tutela.
+**Contexto:** En el curso de constitucion del Colegio San Francisco de Asis de Ibague, se explica la accion de tutela.
 
 ### Enunciado
 La accion de tutela en Colombia es un mecanismo que:
 
-### Options
+### Opciones
 - [ ] A) Permite demandar a una empresa por incumplimiento de contrato <!-- feedback: Incorrecto. La tutela protege derechos fundamentales, no resuelve conflictos contractuales. -->
 - [x] B) Protege los derechos fundamentales de cualquier persona cuando son vulnerados o amenazados por una autoridad publica o un particular <!-- feedback: Correcto. La tutela es el mecanismo principal para la proteccion inmediata de derechos fundamentales. -->
 - [ ] C) Solo puede ser usada por abogados <!-- feedback: Incorrecto. Cualquier persona puede interponer una accion de tutela, sin necesidad de abogado. -->
@@ -99,12 +104,12 @@ La accion de tutela (Articulo 86 de la Constitucion) es el mecanismo mas importa
 **Bloom:** Understand
 **ICFES:** Pensamiento social
 
-**Context:** En clase de democracia en el Colegio San Jose de Barranquilla, los estudiantes discuten los mecanismos de participacion ciudadana.
+**Contexto:** En clase de democracia en el Colegio San Jose de Barranquilla, los estudiantes discuten los mecanismos de participacion ciudadana.
 
 ### Enunciado
 Cual de los siguientes es un mecanismo de participacion ciudadana establecido en la Constitucion de 1991?
 
-### Options
+### Opciones
 - [ ] A) El pago de impuestos <!-- feedback: Incorrecto. Pagar impuestos es un deber ciudadano, no un mecanismo de participacion. -->
 - [x] B) El voto programatico <!-- feedback: Correcto. El voto programatico es un mecanismo donde los ciudadanos votan por programas de gobierno especificos y pueden revocar el mandato si no se cumplen. -->
 - [ ] C) La declaracion de renta <!-- feedback: Incorrecto. La declaracion de renta es una obligacion tributaria, no un mecanismo de participacion. -->
@@ -121,12 +126,12 @@ La Constitucion de 1991 establece varios mecanismos de participacion ciudadana: 
 **Bloom:** Apply
 **ICFES:** Pensamiento social
 
-**Context:** Una comunidad en Bucaramanga quiere proponer un proyecto de ley para mejorar el transporte publico de la ciudad.
+**Contexto:** Una comunidad en Bucaramanga quiere proponer un proyecto de ley para mejorar el transporte publico de la ciudad.
 
 ### Enunciado
 Los ciudadanos de Bucaramanga pueden presentar directamente un proyecto de ley ante el Congreso utilizando el mecanismo de:
 
-### Options
+### Opciones
 - [ ] A) Accion de tutela <!-- feedback: Incorrecto. La tutela protege derechos fundamentales, no permite proponer leyes. -->
 - [x] B) Iniciativa legislativa popular <!-- feedback: Correcto. Este mecanismo permite a los ciudadanos presentar proyectos de ley ante el Congreso, siempre que cuenten con el apoyo de al menos el 5% del censo electoral. -->
 - [ ] C) Referendo <!-- feedback: Incorrecto. El referendo es para que el pueblo se pronuncie sobre una ley existente, no para proponer nuevas leyes. -->
@@ -143,12 +148,12 @@ La iniciativa legislativa popular (Articulo 155 de la Constitucion) permite a un
 **Bloom:** Apply
 **ICFES:** Pensamiento social
 
-**Context:** En la ciudad de Cali, un grupo de vecinos quiere destituir al alcalde porque no cumplio su programa de gobierno.
+**Contexto:** En la ciudad de Cali, un grupo de vecinos quiere destituir al alcalde porque no cumplio su programa de gobierno.
 
 ### Enunciado
 El mecanismo constitucional que permite a los ciudadanos destituir a un funcionario electo antes de terminar su periodo por incumplimiento de su programa se llama:
 
-### Options
+### Opciones
 - [ ] A) Referendo <!-- feedback: Incorrecto. El referendo es para aprobar o rechazar leyes, no para destituir funcionarios. -->
 - [x] B) Revocatoria del mandato <!-- feedback: Correcto. La revocatoria del mandato permite a los ciudadanos destituir por voto popular a un funcionario electo (alcalde, gobernador) antes de que termine su periodo. -->
 - [ ] C) Plebiscito <!-- feedback: Incorrecto. El plebiscito es convocado por el presidente para apoyar o no una decision. -->
@@ -165,12 +170,12 @@ La revocatoria del mandato (Ley 134 de 1994, Ley 1757 de 2015) es un mecanismo d
 **Bloom:** Apply
 **ICFES:** Pensamiento social
 
-**Context:** En una asamblea estudiantil del Colegio La Salle de Medellin, se discute la organizacion territorial del Estado colombiano.
+**Contexto:** En una asamblea estudiantil del Colegio La Salle de Medellin, se discute la organizacion territorial del Estado colombiano.
 
 ### Enunciado
 Colombia esta organizada territorialmente en:
 
-### Options
+### Opciones
 - [ ] A) Estados federados como Mexico o Estados Unidos <!-- feedback: Incorrecto. Colombia no es una federacion de estados, es una republica unitaria descentralizada. -->
 - [x] B) Departamentos, municipios y distritos <!-- feedback: Correcto. Colombia es una republica unitaria descentralizada con entidades territoriales: departamentos, municipios, distritos y territorios indigenas. -->
 - [ ] C) Provincias autonomas <!-- feedback: Incorrecto. Colombia no tiene provincias. Las entidades territoriales principales son departamentos y municipios. -->
@@ -187,12 +192,12 @@ La Constitucion de 1991 define a Colombia como una Republica unitaria, descentra
 **Bloom:** Apply
 **ICFES:** Pensamiento social
 
-**Context:** En el programa de gobierno escolar del Colegio INEM de Pereira, los estudiantes simulan ser miembros del Congreso.
+**Contexto:** En el programa de gobierno escolar del Colegio INEM de Pereira, los estudiantes simulan ser miembros del Congreso.
 
 ### Enunciado
 Un proyecto de ley ordinaria debe ser aprobado por:
 
-### Options
+### Opciones
 - [ ] A) Solo el Presidente de la Republica <!-- feedback: Incorrecto. El presidente sanciona las leyes pero no las aprueba; las aprueba el Congreso. -->
 - [x] B) Las dos camaras del Congreso (Senado y Camara de Representantes) en varios debates <!-- feedback: Correcto. Un proyecto de ley debe surtir cuatro debates: dos en cada camara. -->
 - [ ] C) Una sola camara del Congreso <!-- feedback: Incorrecto. Colombia tiene un sistema bicameral; ambas camaras deben aprobar las leyes. -->
@@ -209,12 +214,12 @@ El proceso legislativo en Colombia requiere que un proyecto de ley surta cuatro 
 **Bloom:** Apply
 **ICFES:** Pensamiento social
 
-**Context:** Un ciudadano en Cartagena considera que la Alcaldia le esta negando injustamente el acceso a un servicio de salud publica.
+**Contexto:** Un ciudadano en Cartagena considera que la Alcaldia le esta negando injustamente el acceso a un servicio de salud publica.
 
 ### Enunciado
 Que mecanismo legal deberia usar este ciudadano para proteger su derecho fundamental a la salud?
 
-### Options
+### Opciones
 - [ ] A) Demandar por danos y perjuicios <!-- feedback: Incorrecto. Esta demanda es para compensacion economica, pero no protege el derecho de manera inmediata. -->
 - [x] B) Interponer una accion de tutela <!-- feedback: Correcto. La tutela es el mecanismo idoneo para la proteccion inmediata del derecho fundamental a la salud. -->
 - [ ] C) Escribir una carta al presidente <!-- feedback: Incorrecto. No es un mecanismo juridico formal con efectos vinculantes. -->
@@ -231,12 +236,12 @@ La Corte Constitucional ha establecido que la salud es un derecho fundamental (S
 **Bloom:** Apply
 **ICFES:** Pensamiento social
 
-**Context:** En el municipio de Sopetran, Antioquia, la comunidad quiere decidir si permiten o no la construccion de un relleno sanitario en la zona.
+**Contexto:** En el municipio de Sopetran, Antioquia, la comunidad quiere decidir si permiten o no la construccion de un relleno sanitario en la zona.
 
 ### Enunciado
 Que mecanismo de participacion ciudadana permite a la comunidad decidir directamente sobre este asunto?
 
-### Options
+### Opciones
 - [ ] A) Accion popular <!-- feedback: Incorrecto. La accion popular protege derechos e intereses colectivos, pero no es un mecanismo de decision directa. -->
 - [x] B) Consulta popular municipal <!-- feedback: Correcto. La consulta popular permite a los ciudadanos pronunciarse sobre decisiones locales de gran importancia, como proyectos que afectan el medio ambiente. -->
 - [ ] C) Referendo constitucional <!-- feedback: Incorrecto. El referendo constitucional es para reformar la Constitucion a nivel nacional. -->
@@ -253,12 +258,12 @@ La consulta popular municipal (Ley 134 de 1994) es un mecanismo por el cual el a
 **Bloom:** Analyze
 **ICFES:** Pensamiento social
 
-**Context:** En clase de ciencias politicas en el Colegio Externado de la Universidad Nacional en Bogota, se analiza la estructura del Estado colombiano.
+**Contexto:** En clase de ciencias politicas en el Colegio Externado de la Universidad Nacional en Bogota, se analiza la estructura del Estado colombiano.
 
 ### Enunciado
 Cual de las siguientes afirmaciones describe correctamente la relacion entre las ramas del poder publico en Colombia?
 
-### Options
+### Opciones
 - [ ] A) La Rama Judicial esta subordinada a la Rama Ejecutiva <!-- feedback: Incorrecto. Las tres ramas son independientes y no hay subordinacion entre ellas. -->
 - [x] B) Las ramas del poder publico son independientes y colaboran armonicamente para el cumplimiento de los fines del Estado <!-- feedback: Correcto. La Constitucion establece separacion de poderes con colaboracion armonica entre ramas. -->
 - [ ] C) La Rama Legislativa controla totalmente a la Rama Ejecutiva <!-- feedback: Incorrecto. Existe control politico pero no es total; cada rama tiene sus funciones especificas. -->
@@ -275,12 +280,12 @@ El Articulo 113 de la Constitucion establece: "Son ramas del poder publico: la l
 **Bloom:** Analyze
 **ICFES:** Pensamiento social
 
-**Context:** En el municipio de Turbo, Antioquia, un grupo indigena Embera reclama la propiedad colectiva de sus tierras ancestrales.
+**Contexto:** En el municipio de Turbo, Antioquia, un grupo indigena Embera reclama la propiedad colectiva de sus tierras ancestrales.
 
 ### Enunciado
 Segun la Constitucion de 1991 y la jurisprudencia de la Corte Constitucional, los territorios indigenas en Colombia:
 
-### Options
+### Opciones
 - [ ] A) No tienen reconocimiento legal como entidades territoriales <!-- feedback: Incorrecto. La Constitucion de 1991 si los reconoce como entidades territoriales. -->
 - [ ] B) Son simplemente reservas naturales sin autonomia politica <!-- feedback: Incorrecto. Los territorios indigenas tienen autonomia politica y administrativa. -->
 - [x] C) Son entidades territoriales con autonomia para gobernarse por sus propias normas y autoridades, dentro de los limites de la Constitucion <!-- feedback: Correcto. La Constitucion reconoce a los territorios indigenas como entidades territoriales con autogobierno. -->
@@ -297,12 +302,12 @@ La Constitucion de 1991 reconoce a los territorios indigenas como entidades terr
 **Bloom:** Analyze
 **ICFES:** Pensamiento social
 
-**Context:** En el debate sobre reforma a la salud en Colombia, se discute el papel de la Corte Constitucional.
+**Contexto:** En el debate sobre reforma a la salud en Colombia, se discute el papel de la Corte Constitucional.
 
 ### Enunciado
 La Corte Constitucional colombiana tiene la funcion principal de:
 
-### Options
+### Opciones
 - [ ] A) Juzgar a los altos funcionarios del Estado <!-- feedback: Incorrecto. Esa funcion corresponde a la Corte Suprema de Justicia y a la Comision de Acusaciones de la Camara. -->
 - [x] B) Velar por la integridad y supremacia de la Constitucion mediante el control de constitucionalidad de las leyes <!-- feedback: Correcto. La Corte Constitucional es el maximo tribunal en materia constitucional. -->
 - [ ] C) Administrar los recursos del Estado <!-- feedback: Incorrecto. Esa funcion corresponde al Ejecutivo (Ministerio de Hacienda). -->
@@ -319,12 +324,12 @@ La Corte Constitucional (creada por la Constitucion de 1991) es el maximo organo
 **Bloom:** Analyze
 **ICFES:** Pensamiento social
 
-**Context:** En un foro universitario en la Universidad del Valle en Cali, se debate el federalismo frente al unitarismo en Colombia.
+**Contexto:** En un foro universitario en la Universidad del Valle en Cali, se debate el federalismo frente al unitarismo en Colombia.
 
 ### Enunciado
 Colombia es una republica unitaria pero descentralizada. Que implica esto en la practica?
 
-### Options
+### Opciones
 - [ ] A) Que cada departamento tiene su propia constitucion y puede declarar la guerra <!-- feedback: Incorrecto. En un Estado unitario las entidades territoriales no tienen soberania ni ejercen relaciones internacionales. -->
 - [x] B) Que existe un solo centro de poder politico nacional (el gobierno central) pero las entidades territoriales tienen autonomia administrativa y fiscal dentro de los limites que fija la ley <!-- feedback: Correcto. El unitarismo con descentralization permite autonomia local sin fragmentar el Estado. -->
 - [ ] C) Que los municipios son independientes del gobierno nacional <!-- feedback: Incorrecto. La autonomia es limitada y sujeta a la Constitucion y las leyes nacionales. -->
@@ -341,12 +346,12 @@ Colombia es un Estado unitario (un solo orden constitucional, una sola soberania
 **Bloom:** Evaluate
 **ICFES:** Pensamiento social
 
-**Context:** En la clase de democracia del Colegio Mayor de San Bartolome en Bogota, se analiza la participacion electoral en Colombia.
+**Contexto:** En la clase de democracia del Colegio Mayor de San Bartolome en Bogota, se analiza la participacion electoral en Colombia.
 
 ### Enunciado
 En las ultimas elecciones locales, solo el 40% del censo electoral de un municipio salio a votar. Que problema democratico refleja esta situacion?
 
-### Options
+### Opciones
 - [ ] A) Que el sistema electoral colombiano no funciona <!-- feedback: Incorrecto. La abstencion no indica que el sistema no funcione, sino baja participacion ciudadana. -->
 - [x] B) Baja participacion ciudadana y posible debilitamiento de la legitimidad de los elegidos <!-- feedback: Correcto. La baja participacion reduce la representatividad y legitimidad de quienes resultan elegidos. -->
 - [ ] C) Que hubo fraude electoral <!-- feedback: Incorrecto. La baja participacion no implica necesariamente fraude. -->
@@ -363,12 +368,12 @@ La participacion electoral es un indicador fundamental de la salud democratica. 
 **Bloom:** Evaluate
 **ICFES:** Pensamiento social
 
-**Context:** Un ciudadano en Armenia, Quindio, descubre que sus datos personales estan siendo usados sin su consentimiento por una empresa de telemarketing.
+**Contexto:** Un ciudadano en Armenia, Quindio, descubre que sus datos personales estan siendo usados sin su consentimiento por una empresa de telemarketing.
 
 ### Enunciado
 Que derecho fundamental esta siendo vulnerado y que mecanismo puede usar para protegerlo?
 
-### Options
+### Opciones
 - [ ] A) Derecho a la libertad de expresion; puede demandar por calumnia <!-- feedback: Incorrecto. El problema no es de libertad de expresion ni de calumnia. -->
 - [x] B) Derecho al habeas data; puede interponer accion de tutela <!-- feedback: Correcto. El habeas data protege el derecho a conocer, actualizar y rectificar informacion personal. La tutela y la accion de habeas data son los mecanismos. -->
 - [ ] C) Derecho al trabajo; puede demandar a la empresa <!-- feedback: Incorrecto. No se trata de una vulneracion del derecho al trabajo. -->
@@ -385,12 +390,12 @@ El habeas data (Articulo 15 de la Constitucion) es el derecho que tienen todas l
 **Bloom:** Evaluate
 **ICFES:** Pensamiento social
 
-**Context:** En el Congreso de la Republica se debate un proyecto de ley que restringe el acceso a la informacion publica en nombre de la seguridad nacional.
+**Contexto:** En el Congreso de la Republica se debate un proyecto de ley que restringe el acceso a la informacion publica en nombre de la seguridad nacional.
 
 ### Enunciado
 Desde la perspectiva constitucional colombiana, cual de los siguientes argumentos es el mas solido para oponerse a esta ley?
 
-### Options
+### Opciones
 - [ ] A) La seguridad nacional siempre debe prevalecer sobre cualquier otro derecho <!-- feedback: Incorrecto. La Constitucion no establece jerarquias absolutas; los derechos deben ponderarse. -->
 - [x] B) La libertad de acceso a la informacion publica es un derecho fundamental y cualquier restriccion debe ser proporcionada y estar expresamente justificada en la Constitucion <!-- feedback: Correcto. El acceso a la informacion es fundamental y las restricciones deben ser excepcionales, proporcionadas y justificadas. -->
 - [ ] C) Solo el presidente puede decidir sobre acceso a informacion <!-- feedback: Incorrecto. El acceso a la informacion es un derecho de todos los ciudadanos, no una potestad del ejecutivo. -->
@@ -407,12 +412,12 @@ El derecho de acceso a la informacion publica (Articulo 74 de la Constitucion, L
 **Bloom:** Evaluate
 **ICFES:** Pensamiento social
 
-**Context:** En el municipio de Tumaco, Nario, la comunidad afrocolombiana reclama que un proyecto de infraestructura portuaria no ha considerado su derecho a la consulta previa.
+**Contexto:** En el municipio de Tumaco, Nario, la comunidad afrocolombiana reclama que un proyecto de infraestructura portuaria no ha considerado su derecho a la consulta previa.
 
 ### Enunciado
 Segun la Constitucion y la jurisprudencia de la Corte Constitucional, la consulta previa es un derecho fundamental de las comunidades etnicas que:
 
-### Options
+### Opciones
 - [ ] A) Es opcional y depende de la buena voluntad del gobierno <!-- feedback: Incorrecto. La consulta previa es un derecho fundamental obligatorio, no opcional. -->
 - [ ] B) Solo aplica para comunidades indigenas, no para comunidades afrocolombianas <!-- feedback: Incorrecto. La consulta previa aplica tanto a comunidades indigenas como a afrocolombianas y ROM (gitanos). -->
 - [x] C) Es un derecho fundamental de caracter colectivo que busca garantizar la participacion de las comunidades etnicas en decisiones que afecten sus territorios y su identidad cultural <!-- feedback: Correcto. La consulta previa es obligatoria cuando se planean proyectos en territorios de comunidades etnicas. -->
@@ -429,12 +434,12 @@ La consulta previa es un derecho fundamental de los pueblos indigenas y comunida
 **Bloom:** Evaluate
 **ICFES:** Pensamiento social
 
-**Context:** En la Corte Constitucional se estudia una demanda de inconstitucionalidad contra una ley que, para reducir el deficit fiscal, elimina las transferencias a los municipios para educacion publica.
+**Contexto:** En la Corte Constitucional se estudia una demanda de inconstitucionalidad contra una ley que, para reducir el deficit fiscal, elimina las transferencias a los municipios para educacion publica.
 
 ### Enunciado
 Desde la perspectiva de los principios constitucionales colombianos, cual seria el argumento mas solido contra esta ley?
 
-### Options
+### Opciones
 - [ ] A) Los municipios deben generar sus propios recursos educativos <!-- feedback: Incorrecto. La Constitucion establece responsabilidades compartidas. -->
 - [x] B) La descentralizacion fiscal y la autonomia territorial implican que el Estado central debe garantizar recursos suficientes para que las entidades territoriales cumplan con sus obligaciones constitucionales, especialmente en educacion <!-- feedback: Correcto. El SGP (Sistema General de Participaciones) garantiza recursos para educacion, salud y agua potable. -->
 - [ ] C) El deficit fiscal justifica cualquier medida <!-- feedback: Incorrecto. Las medidas fiscales deben respetar los principios constitucionales y los derechos fundamentales. -->
@@ -451,12 +456,12 @@ El Sistema General de Participaciones (SGP) fue creado por el Acto Legislativo 0
 **Bloom:** Evaluate
 **ICFES:** Pensamiento social
 
-**Context:** En la clase de constitucion del Colegio de la Presentacion de Manizales, se analiza el siguiente caso: un alcalde expide un decreto que contradice una ley del Congreso en materia de ordenamiento territorial.
+**Contexto:** En la clase de constitucion del Colegio de la Presentacion de Manizales, se analiza el siguiente caso: un alcalde expide un decreto que contradice una ley del Congreso en materia de ordenamiento territorial.
 
 ### Enunciado
 Segun el principio de jerarquia normativa en Colombia, que debe prevalecer?
 
-### Options
+### Opciones
 - [
 
 [//]: # (QUALITY_REVIEW)

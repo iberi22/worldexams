@@ -1,10 +1,10 @@
 ---
-id: "COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY"
+id: "COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "sociales-ciudadanas"
 tema: "repaso-p1"
-semana: "W04"
+week: "W04"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 8
@@ -19,7 +19,12 @@ rubric_baseline: "repaso_periodo_1, mi_colegio, mi_familia, mi_barrio, integraci
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso Período 1
 
@@ -27,13 +32,14 @@ Este bundle integra y repasa los temas vistos durante el primer período de Soci
 
 ---
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 
 **ID:** `COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-v1`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **ICFES category:** Uso comprensivo del conocimiento social
 **Expected_Success:** 0.85
-**Context:** La profesora de la I.E. San Bartolomé de Bogotá pide a los estudiantes recordar los temas vistos en el primer período.
+**Contexto:** La profesora de la I.E. San Bartolomé de Bogotá pide a los estudiantes recordar los temas vistos en el primer período.
 
 ### Enunciado
 Durante el primer período de Sociales aprendimos sobre tres espacios importantes para nuestra vida. ¿Cuáles son?
@@ -49,13 +55,14 @@ Se evalúa la capacidad de recordar los temas principales del período. El coleg
 
 ---
 
-## Pregunta 2 [D2]
+## Question 2 [D2]
 
 **ID:** `COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-v2`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Interpretación y análisis de perspectivas
 **Expected_Success:** 0.78
-**Context:** En la I.E. La Enseñanza de Medellín, el profesor pregunta cómo se relacionan el colegio, la familia y el barrio.
+**Contexto:** En la I.E. La Enseñanza de Medellín, el profesor pregunta cómo se relacionan el colegio, la familia y el barrio.
 
 ### Enunciado
 ¿Cómo se relacionan el colegio, la familia y el barrio en la vida de un niño colombiano?
@@ -71,13 +78,14 @@ El colegio, la familia y el barrio son los tres entornos fundamentales de social
 
 ---
 
-## Pregunta 3 [D2]
+## Question 3 [D2]
 
 **ID:** `COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-v3`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **ICFES category:** Interpretación y análisis de perspectivas
 **Expected_Success:** 0.75
-**Context:** En la I.E. Simón Bolívar de Cartagena, la profesora repasa las normas que existen en diferentes espacios.
+**Contexto:** En la I.E. Simón Bolívar de Cartagena, la profesora repasa las normas que existen en diferentes espacios.
 
 ### Enunciado
 ¿En cuáles de estos espacios existen normas de convivencia?
@@ -93,13 +101,14 @@ Las normas de convivencia existen en todos los espacios donde las personas inter
 
 ---
 
-## Pregunta 4 [D3]
+## Question 4 [D3]
 
 **ID:** `COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-v4`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.65
-**Context:** En la I.E. Técnica de Duitama, los estudiantes resuelven un caso práctico sobre convivencia.
+**Contexto:** En la I.E. Técnica de Duitama, los estudiantes resuelven un caso práctico sobre convivencia.
 
 ### Enunciado
 María ayuda en su casa ordenando sus juguetes, en el colegio respeta a sus compañeros y en el barrio saluda a sus vecinos. ¿Qué valores está demostrando María?
@@ -115,13 +124,14 @@ Esta pregunta evalúa la aplicación de los valores aprendidos en los tres entor
 
 ---
 
-## Pregunta 5 [D3]
+## Question 5 [D3]
 
 **ID:** `COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-v5`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.62
-**Context:** En la I.E. San Luis Gonzaga de Manizales, los estudiantes practican lo aprendido sobre participación.
+**Contexto:** En la I.E. San Luis Gonzaga de Manizales, los estudiantes practican lo aprendido sobre participación.
 
 ### Enunciado
 En el colegio elegimos al personero estudiantil, en el barrio la Junta de Acción Comunal elige a sus representantes, y en la familia todos participan en las decisiones. ¿Qué tienen en común estas tres situaciones?
@@ -137,13 +147,14 @@ La participación democrática se practica en diferentes niveles. En la familia 
 
 ---
 
-## Pregunta 6 [D4]
+## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-v6`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **ICFES category:** Razonamiento y Argumentación
 **Expected_Success:** 0.52
-**Context:** El profesor de la I.E. San José de Cúcuta pide a los estudiantes comparar los tres espacios estudiados.
+**Contexto:** El profesor de la I.E. San José de Cúcuta pide a los estudiantes comparar los tres espacios estudiados.
 
 ### Enunciado
 ¿En qué se parecen y en qué se diferencian las normas del colegio, de la casa y del barrio?
@@ -159,13 +170,14 @@ Las normas en la casa, el colegio y el barrio comparten el objetivo de facilitar
 
 ---
 
-## Pregunta 7 [D4]
+## Question 7 [D4]
 
 **ID:** `COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-v7`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **ICFES category:** Razonamiento y Argumentación
 **Expected_Success:** 0.48
-**Context:** En la I.E. Alberto Santos de Tumaco, los estudiantes analizan cómo se complementan los tres espacios.
+**Contexto:** En la I.E. Alberto Santos de Tumaco, los estudiantes analizan cómo se complementan los tres espacios.
 
 ### Enunciado
 Un niño aprende en la escuela a reciclar y separar los residuos. ¿Cómo puede aplicar este aprendizaje en su casa y en su barrio?
@@ -181,13 +193,14 @@ Esta pregunta evalúa la capacidad de conectar los aprendizajes entre los difere
 
 ---
 
-## Pregunta 8 [D5]
+## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-3-2026-W04-repaso-p1-001-MASTERY-v8`
 **Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **ICFES category:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.40
-**Context:** En la I.E. Integrado de San Gil, los estudiantes hacen una reflexión final sobre el primer período.
+**Contexto:** En la I.E. Integrado de San Gil, los estudiantes hacen una reflexión final sobre el primer período.
 
 ### Enunciado
 Después de estudiar el colegio, la familia y el barrio, un estudiante dice: "Mi papá me dijo que lo más importante es estudiar mucho para tener un buen trabajo y ganar dinero, que el barrio no importa". ¿Qué opinas sobre esta afirmación?

@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY"
+id: "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "likes-dislikes"
 periodo: "weekly"
-semana: 22
+week: "W22"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "Expressing preferences using I like, I don't like, and asking 
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W22: Likes and Dislikes (A1)
 
@@ -32,11 +37,12 @@ Este bundle evalúa cómo expresar gustos y preferencias en inglés.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 How do you say **"Me gusta"**?
 
-### Options
+### Opciones
 - [x] A) I like <!-- feedback: Correct! I like is me gusta. -->
 - [ ] B) I don't like <!-- feedback: Incorrect. This is no me gusta. -->
 - [ ] C) I am <!-- feedback: Incorrect. -->
@@ -52,11 +58,12 @@ Para expresar que algo nos gusta, usamos "I like".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 How do you say **"No me gusta"**?
 
-### Options
+### Opciones
 - [ ] A) I like <!-- feedback: Incorrect. -->
 - [x] B) I don't like <!-- feedback: Correct! I don't like is no me gusta. -->
 - [ ] C) I am not <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ Para expresar que algo no nos gusta, usamos "I don't like".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 How do you ask someone: **"¿Te gusta la pizza?"**
 
-### Options
+### Opciones
 - [ ] A) You like pizza? <!-- feedback: Incorrect structure for a question. -->
 - [x] B) Do you like pizza? <!-- feedback: Correct! This is the standard question form. -->
 - [ ] C) Like you pizza? <!-- feedback: Incorrect structure. -->
@@ -92,11 +100,12 @@ Para hacer preguntas sobre gustos, usamos "Do you like...?".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 If you like apples, you say:
 
-### Options
+### Opciones
 - [x] A) I like apples <!-- feedback: Correct! -->
 - [ ] B) I like apple <!-- feedback: Incorrect. We usually use plural for general likes. -->
 - [ ] C) I don't like apples <!-- feedback: Incorrect. This says you don't like them. -->
@@ -112,11 +121,12 @@ If you like apples, you say:
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Answer the question: **"Do you like milk?"** (Respuesta afirmativa).
 
-### Options
+### Opciones
 - [x] A) Yes, I do <!-- feedback: Correct! Standard short answer. -->
 - [ ] B) Yes, I like <!-- feedback: Incorrect. In short answers we use the auxiliary "do". -->
 - [ ] C) No, I don't <!-- feedback: Incorrect. This is negative. -->
@@ -132,11 +142,12 @@ Al responder una pregunta que empieza con "Do", usamos "Yes, I do" para sí, o "
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Answer the question: **"Do you like spiders?"** 🕷️ (Respuesta negativa).
 
-### Options
+### Opciones
 - [ ] A) Yes, I do <!-- feedback: Incorrect. -->
 - [x] B) No, I don't <!-- feedback: Correct! Standard negative short answer. -->
 - [ ] C) No, I like not <!-- feedback: Incorrect. -->
@@ -152,11 +163,12 @@ Answer the question: **"Do you like spiders?"** 🕷️ (Respuesta negativa).
 **Bloom:** Understand
 **ICFES:** Pragmática
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What does **"I love chocolate"** mean?
 
-### Options
+### Opciones
 - [ ] A) No me gusta el chocolate <!-- feedback: Incorrect. -->
 - [ ] B) Me gusta el chocolate <!-- feedback: Incorrect. Love is stronger than like. -->
 - [x] C) Me encanta el chocolate <!-- feedback: Correct! Love means encantar or amar. -->
@@ -172,11 +184,12 @@ What does **"I love chocolate"** mean?
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Complete: **"I _______ like onions. They are yucky!"**
 
-### Options
+### Opciones
 - [ ] A) do <!-- feedback: Incorrect. Yucky means it's bad. -->
 - [x] B) don't <!-- feedback: Correct! If it's yucky, you don't like it. -->
 - [ ] C) am <!-- feedback: Incorrect. -->
@@ -192,13 +205,14 @@ Complete: **"I _______ like onions. They are yucky!"**
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Complete the dialogue:
 **Tom:** "Do you like soccer?"
 **Lila:** "Yes, ______."
 
-### Options
+### Opciones
 - [ ] A) I like <!-- feedback: Incorrect. -->
 - [x] B) I do <!-- feedback: Correct! -->
 - [ ] C) I am <!-- feedback: Incorrect. -->
@@ -214,11 +228,12 @@ La respuesta corta correcta es "Yes, I do".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Which sentence is correct?
 
-### Options
+### Opciones
 - [x] A) I like bananas <!-- feedback: Correct! -->
 - [ ] B) I like a bananas <!-- feedback: Incorrect. No "a" before plural. -->
 - [ ] C) I don't likes bananas <!-- feedback: Incorrect. No "s" in the verb with "I". -->

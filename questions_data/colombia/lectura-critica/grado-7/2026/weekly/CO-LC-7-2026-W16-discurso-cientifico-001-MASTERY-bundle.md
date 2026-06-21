@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W16-discurso-cientifico-001-MASTERY"
+id: "CO-LC-7-2026-W16-discurso-cientifico-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "discurso-cientifico"
-semana: "W16"
+week: "W16"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Discurso Científico - Grado 7
 ## Semana W16 — Análisis del lenguaje y estructura del discurso científico
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W16-discurso-cientifico-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de Lectura Crítica del Colegio San Bartolomé de Bogotá, el profesor pregunta por las características del discurso científico.
+**Contexto:** En la clase de Lectura Crítica del Colegio San Bartolomé de Bogotá, el profesor pregunta por las características del discurso científico.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ El discurso científico se caracteriza por buscar la máxima precisión y objeti
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W16-discurso-cientifico-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Los estudiantes del Colegio La Salle de Medellín leen un artículo de divulgación científica que dice: "El calentamiento global es causado por el aumento de gases de efecto invernadero en la atmósfera."
+**Contexto:** Los estudiantes del Colegio La Salle de Medellín leen un artículo de divulgación científica que dice: "El calentamiento global es causado por el aumento de gases de efecto invernadero en la atmósfera."
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ El discurso científico frecuentemente establece relaciones causales. Identifica
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W16-discurso-cientifico-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un texto de ciencias del Colegio INEM de Cali, aparece la palabra "fotosíntesis" y el autor la define como "el proceso mediante el cual las plantas convierten la luz solar en energía química."
+**Contexto:** En un texto de ciencias del Colegio INEM de Cali, aparece la palabra "fotosíntesis" y el autor la define como "el proceso mediante el cual las plantas convierten la luz solar en energía química."
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ Una característica importante del discurso científico, especialmente en textos
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W16-discurso-cientifico-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Valentina encuentra un artículo científico que afirma: "El 73% de los pacientes tratados con el nuevo medicamento mostraron mejoría significativa."
+**Contexto:** Valentina encuentra un artículo científico que afirma: "El 73% de los pacientes tratados con el nuevo medicamento mostraron mejoría significativa."
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -102,11 +106,11 @@ Para evaluar un resultado científico, se necesita conocer: 1) tamaño de la mue
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W16-discurso-cientifico-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el colegio de Manizales, los estudiantes leen un texto que dice: "Los científicos creen que el universo se expande. Sin embargo, esto es solo una teoría."
+**Contexto:** En el colegio de Manizales, los estudiantes leen un texto que dice: "Los científicos creen que el universo se expande. Sin embargo, esto es solo una teoría."
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -123,11 +127,11 @@ Existe una diferencia crucial entre el uso cotidiano de "teoría" (como sinónim
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W16-discurso-cientifico-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un artículo de divulgación sobre las mariposas en Colombia dice: "El 85% de las especies de mariposas del país se encuentran en la región amazónica. Esto significa que la Amazonía es el hábitat más importante para estos insectos."
+**Contexto:** Un artículo de divulgación sobre las mariposas en Colombia dice: "El 85% de las especies de mariposas del país se encuentran en la región amazónica. Esto significa que la Amazonía es el hábitat más importante para estos insectos."
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -144,11 +148,11 @@ El razonamiento inductivo es muy común en el discurso científico. A partir de 
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W16-discurso-cientifico-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** En el Colegio San José de Sincelejo, los estudiantes leen un informe científico sobre el agua potable en Colombia. El informe usa frases como "es probable que", "los datos sugieren que" y "se estima que".
+**Contexto:** En el Colegio San José de Sincelejo, los estudiantes leen un informe científico sobre el agua potable en Colombia. El informe usa frases como "es probable que", "los datos sugieren que" y "se estima que".
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -165,11 +169,11 @@ La ciencia usa un lenguaje de probabilidad y cautela que refleja su naturaleza: 
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W16-discurso-cientifico-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un anuncio de un "suplemento vitamínico" dice: "Estudios científicos demuestran que nuestro producto mejora la memoria en un 300%."
+**Contexto:** Un anuncio de un "suplemento vitamínico" dice: "Estudios científicos demuestran que nuestro producto mejora la memoria en un 300%."
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -186,11 +190,11 @@ La ciencia usa un lenguaje de probabilidad y cautela que refleja su naturaleza: 
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W16-discurso-cientifico-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el colegio de Neiva, los estudiantes comparan dos artículos sobre los beneficios del café. Uno fue publicado en una revista científica con revisión por pares; el otro, en un blog de bienestar sin fuentes citadas.
+**Contexto:** En el colegio de Neiva, los estudiantes comparan dos artículos sobre los beneficios del café. Uno fue publicado en una revista científica con revisión por pares; el otro, en un blog de bienestar sin fuentes citadas.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -207,11 +211,11 @@ La revisión por pares (peer review) es un proceso en el que otros científicos 
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W16-discurso-cientifico-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Laura lee en redes sociales: "Un estudio de Harvard demostró que comer chocolate todos los días alarga la vida." El mensaje tiene miles de compartidos.
+**Contexto:** Laura lee en redes sociales: "Un estudio de Harvard demostró que comer chocolate todos los días alarga la vida." El mensaje tiene miles de compartidos.
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ La información científica que circula en redes sociales suele estar simplifica
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W16-discurso-cientifico-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Un artículo científico afirma: "La correlación entre el consumo de vegetales y la reducción del riesgo cardiovascular es de 0.85."
+**Contexto:** Un artículo científico afirma: "La correlación entre el consumo de vegetales y la reducción del riesgo cardiovascular es de 0.85."
 **Expected_Success:** 0.44
 
 ### Enunciado
@@ -249,11 +253,11 @@ Una de las distinciones más importantes en el análisis crítico de textos cien
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W16-discurso-cientifico-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio de Fusagasugá, los estudiantes deben diseñar una infografía que explique cómo identificar información científica confiable en internet.
+**Contexto:** En el Colegio de Fusagasugá, los estudiantes deben diseñar una infografía que explique cómo identificar información científica confiable en internet.
 **Expected_Success:** 0.38
 
 ### Enunciado

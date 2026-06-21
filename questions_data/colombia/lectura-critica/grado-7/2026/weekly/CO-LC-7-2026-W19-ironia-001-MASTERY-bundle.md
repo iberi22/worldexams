@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W19-ironia-001-MASTERY"
+id: "CO-LC-7-2026-W19-ironia-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "ironia"
-semana: "W19"
+week: "W19"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Ironía - Grado 7
 ## Semana W19 — Identificación y análisis de la ironía en textos
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W19-ironia-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de Lectura Crítica del Colegio Cafam de Bogotá, el profesor introduce el concepto de ironía.
+**Contexto:** En la clase de Lectura Crítica del Colegio Cafam de Bogotá, el profesor introduce el concepto de ironía.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La ironía es una figura retórica que consiste en decir lo contrario de lo que 
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W19-ironia-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Después de que un compañero derrama café sobre su tarea, Camila dice con tono tranquilo: "Qué bien, justo lo que necesitaba."
+**Contexto:** Después de que un compañero derrama café sobre su tarea, Camila dice con tono tranquilo: "Qué bien, justo lo que necesitaba."
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -60,11 +64,11 @@ En esta situación cotidiana, Camila usa ironía verbal. Dice "qué bien" cuando
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W19-ironia-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el Colegio del Rosario de Bogotá, los estudiantes analizan una historieta donde un personaje dice: "Claro, porque llegar tarde es el mejor hábito para tener éxito en la vida."
+**Contexto:** En el Colegio del Rosario de Bogotá, los estudiantes analizan una historieta donde un personaje dice: "Claro, porque llegar tarde es el mejor hábito para tener éxito en la vida."
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -81,11 +85,11 @@ La ironía aquí funciona afirmando algo que tanto el emisor como el receptor sa
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W19-ironia-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** En la clase del Colegio de Armenia, el profesor dice: "Qué silencio tan productivo el de hoy" mientras los estudiantes hablan sin parar.
+**Contexto:** En la clase del Colegio de Armenia, el profesor dice: "Qué silencio tan productivo el de hoy" mientras los estudiantes hablan sin parar.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -102,11 +106,11 @@ La ironía se reconoce por el contraste entre lo que se dice y lo que realmente 
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W19-ironia-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un artículo de opinión, el autor escribe: "Excelente idea: aumentar el IVA para que los pobres paguen más. Así seguro arreglamos la economía."
+**Contexto:** En un artículo de opinión, el autor escribe: "Excelente idea: aumentar el IVA para que los pobres paguen más. Así seguro arreglamos la economía."
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -123,11 +127,11 @@ En este texto de opinión, el autor finge apoyar una medida impopular para criti
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W19-ironia-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En un cuento colombiano, un político corrupto dice: "Yo siempre he sido honesto. Nunca he robado un peso. Bueno, tal vez algunos centavos, pero con buena intención."
+**Contexto:** En un cuento colombiano, un político corrupto dice: "Yo siempre he sido honesto. Nunca he robado un peso. Bueno, tal vez algunos centavos, pero con buena intención."
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -144,11 +148,11 @@ Aquí el personaje afirma ser honesto pero inmediatamente se contradice al admit
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W19-ironia-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** En una columna de un periódico de Cali, el autor escribe sobre la corrupción: "Tranquilos, ya llegaron los salvadores de la patria. Vienen a trabajar por el bien común, como siempre."
+**Contexto:** En una columna de un periódico de Cali, el autor escribe sobre la corrupción: "Tranquilos, ya llegaron los salvadores de la patria. Vienen a trabajar por el bien común, como siempre."
 **Expected_Success:** 0.56
 
 ### Enunciado
@@ -165,11 +169,11 @@ La ironía en textos de opinión tiene una función crítica y satírica. Al lla
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W19-ironia-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un anuncio de una empresa de transporte dice: "Viaje con la aerolínea que nunca tiene demoras. Excepto cuando llueve, hace sol, hay viento o el avión necesita mantenimiento."
+**Contexto:** Un anuncio de una empresa de transporte dice: "Viaje con la aerolínea que nunca tiene demoras. Excepto cuando llueve, hace sol, hay viento o el avión necesita mantenimiento."
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -186,11 +190,11 @@ Este anuncio usa ironía de manera creativa: hace una afirmación absurda ("nunc
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W19-ironia-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una conversación, María dice: "Ay, qué puntual eres" a un amigo que llegó media hora tarde. El amigo no entiende la ironía y responde: "Gracias, siempre trato de ser puntual."
+**Contexto:** En una conversación, María dice: "Ay, qué puntual eres" a un amigo que llegó media hora tarde. El amigo no entiende la ironía y responde: "Gracias, siempre trato de ser puntual."
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -207,11 +211,11 @@ La ironía requiere un receptor que reconozca la intención del emisor. Si el am
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W19-ironia-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En el Colegio de Pasto, los estudiantes debaten si la ironía es siempre adecuada. Un estudiante dice: "La ironía es una forma de ser cruel sin que te puedan acusar de ser cruel."
+**Contexto:** En el Colegio de Pasto, los estudiantes debaten si la ironía es siempre adecuada. Un estudiante dice: "La ironía es una forma de ser cruel sin que te puedan acusar de ser cruel."
 **Expected_Success:** 0.44
 
 ### Enunciado
@@ -228,11 +232,11 @@ La ironía tiene un aspecto ético importante: al expresar una crítica de forma
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W19-ironia-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Un meme en redes sociales muestra la foto de un semáforo en Bogotá que no funciona. El texto dice: "La movilidad en Bogotá: un ejemplo de eficiencia mundial."
+**Contexto:** Un meme en redes sociales muestra la foto de un semáforo en Bogotá que no funciona. El texto dice: "La movilidad en Bogotá: un ejemplo de eficiencia mundial."
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -249,11 +253,11 @@ Este meme combina imagen y texto para crear ironía. La imagen muestra un proble
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W19-ironia-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio de Duitama, los estudiantes deben escribir una oración irónica sobre el tráfico en su ciudad para una campaña de concientización vial.
+**Contexto:** En el Colegio de Duitama, los estudiantes deben escribir una oración irónica sobre el tráfico en su ciudad para una campaña de concientización vial.
 **Expected_Success:** 0.38
 
 ### Enunciado

@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W04-repaso-periodo-1-001-MASTERY"
+id: "CO-CIE-6-2026-W04-repaso-periodo-1-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W04 — Repaso Periodo 1: La Célula
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W04-repaso-periodo-1-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Repaso general en Bogotá sobre los temas de la célula vistos en el periodo.
+**Contexto:** Repaso general en Bogotá sobre los temas de la célula vistos en el periodo.
 
 ### Enunciado
 ¿Quién fue el primero en observar células al microscopio?
 
-### Options
+### Opciones
 - [ ] A) Charles Darwin <!-- feedback: Incorrecto. Darwin estudió evolución, no observó células por primera vez. -->
 - [ ] B) Louis Pasteur <!-- feedback: Incorrecto. Pasteur trabajó con microorganismos, pero no descubrió las células. -->
 - [x] C) Robert Hooke <!-- feedback: Correcto. Hooke observó células de corcho en 1665 y las llamó "cellulae". -->
@@ -48,13 +51,14 @@ En 1665, el científico inglés Robert Hooke publicó "Micrographia", donde desc
 
 **ID:** `CO-CIE-6-2026-W04-repaso-periodo-1-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, repasan la teoría celular con flashcards digitales.
+**Contexto:** En Medellín, repasan la teoría celular con flashcards digitales.
 
 ### Enunciado
 ¿Cuál de los siguientes NO es un postulado de la teoría celular?
 
-### Options
+### Opciones
 - [ ] A) Todos los seres vivos están formados por una o más células <!-- feedback: Incorrecto. Sí es un postulado de la teoría celular. -->
 - [ ] B) La célula es la unidad estructural y funcional de la vida <!-- feedback: Incorrecto. Sí es un postulado de la teoría celular. -->
 - [ ] C) Toda célula procede de otra célula preexistente <!-- feedback: Incorrecto. Sí es un postulado, propuesto por Virchow. -->
@@ -75,13 +79,14 @@ La teoría celular es uno de los pilares de la biología moderna, junto con la t
 
 **ID:** `CO-CIE-6-2026-W04-repaso-periodo-1-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, repasan diferencias entre célula animal y vegetal con una tabla comparativa.
+**Contexto:** En Cali, repasan diferencias entre célula animal y vegetal con una tabla comparativa.
 
 ### Enunciado
 ¿Qué estructura de la célula vegetal NO está presente en la célula animal?
 
-### Options
+### Opciones
 - [ ] A) Membrana celular <!-- feedback: Incorrecto. Ambos tipos tienen membrana celular. -->
 - [ ] B) Mitocondrias <!-- feedback: Incorrecto. Ambos tienen mitocondrias. -->
 - [x] C) Pared celular de celulosa <!-- feedback: Correcto. La pared celular es exclusiva de células vegetales. -->
@@ -105,13 +110,14 @@ Otras diferencias célula vegetal vs animal:
 
 **ID:** `CO-CIE-6-2026-W04-repaso-periodo-1-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, repasan la función de los orgánulos celulares con un juego.
+**Contexto:** En Barranquilla, repasan la función de los orgánulos celulares con un juego.
 
 ### Enunciado
 ¿Qué orgánulo actúa como el "sistema digestivo" de la célula?
 
-### Options
+### Opciones
 - [ ] A) La mitocondria <!-- feedback: Incorrecto. La mitocondria produce energía. -->
 - [ ] B) El núcleo <!-- feedback: Incorrecto. El núcleo controla la célula y almacena ADN. -->
 - [x] C) El lisosoma <!-- feedback: Correcto. Los lisosomas digieren materiales y reciclan componentes celulares. -->
@@ -132,13 +138,14 @@ Los lisosomas se forman en el aparato de Golgi. Si fallan, pueden causar enferme
 
 **ID:** `CO-CIE-6-2026-W04-repaso-periodo-1-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, los estudiantes aplican sus conocimientos en un caso práctico.
+**Contexto:** En Bucaramanga, los estudiantes aplican sus conocimientos en un caso práctico.
 
 ### Enunciado
 Una célula muscular necesita mucha energía para contraerse. ¿Qué orgánulo esperarías encontrar en gran cantidad?
 
-### Options
+### Opciones
 - [ ] A) Cloroplastos <!-- feedback: Incorrecto. Las células animales no tienen cloroplastos. -->
 - [x] B) Mitocondrias <!-- feedback: Correcto. Las células activas tienen muchas mitocondrias para producir ATP. -->
 - [ ] C) Pared celular <!-- feedback: Incorrecto. Las células musculares no tienen pared celular. -->
@@ -155,13 +162,14 @@ El corazón (músculo cardíaco) es uno de los tejidos con más mitocondrias por
 
 **ID:** `CO-CIE-6-2026-W04-repaso-periodo-1-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, los estudiantes aplican conceptos de ósmosis a la conservación de alimentos.
+**Contexto:** En Cartagena, los estudiantes aplican conceptos de ósmosis a la conservación de alimentos.
 
 ### Enunciado
 ¿Por qué se usa sal para conservar carnes y pescados?
 
-### Options
+### Opciones
 - [ ] A) La sal mata las bacterias directamente <!-- feedback: Incorrecto. La sal no mata directamente, sino que crea condiciones desfavorables. -->
 - [ ] B) La sal da mejor sabor y eso ayuda a conservar <!-- feedback: Incorrecto. La sal no conserva por el sabor. -->
 - [x] C) La alta concentración de sal deshidrata las bacterias por ósmosis, impidiendo que se reproduzcan <!-- feedback: Correcto. Las bacterias pierden agua y mueren. -->
@@ -183,13 +191,14 @@ Ejemplos: bacalao salado, jamón serrano, carne seca (cecina). En Colombia, el "
 
 **ID:** `CO-CIE-6-2026-W04-repaso-periodo-1-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan la relación entre orgánulos en la síntesis de proteínas.
+**Contexto:** En Pereira, analizan la relación entre orgánulos en la síntesis de proteínas.
 
 ### Enunciado
 Una célula necesita fabricar una proteína para secretarla (enviarla fuera). ¿Qué ruta siguen las instrucciones desde el ADN hasta la proteína secretada?
 
-### Options
+### Opciones
 - [ ] A) Mitocondria → cloroplasto → vacuola <!-- feedback: Incorrecto. Las mitocondrias producen energía, no proteínas. -->
 - [x] B) Núcleo (ADN) → ribosomas (RER) → aparato de Golgi → vesícula de secreción <!-- feedback: Correcto. Esta es la ruta de secreción de proteínas. -->
 - [ ] C) Lisosoma → membrana → núcleo <!-- feedback: Incorrecto. Los lisosomas digieren, no sintetizan. -->
@@ -212,13 +221,14 @@ Ejemplo: las células del páncreas producen insulina (proteína) y la secretan 
 
 **ID:** `CO-CIE-6-2026-W04-repaso-periodo-1-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, comparan el metabolismo de autótrofos y heterótrofos.
+**Contexto:** En Manizales, comparan el metabolismo de autótrofos y heterótrofos.
 
 ### Enunciado
 ¿Por qué las plantas se consideran productores en el ecosistema?
 
-### Options
+### Opciones
 - [ ] A) Porque producen flores bonitas <!-- feedback: Incorrecto. Las flores son para reproducción, no definen a los productores. -->
 - [ ] B) Porque son verdes <!-- feedback: Incorrecto. El color no define su rol ecológico. -->
 - [x] C) Porque mediante la fotosíntesis convierten la energía solar en energía química (glucosa), que sirve de alimento para otros organismos <!-- feedback: Correcto. Transforman energía inorgánica en materia orgánica. -->
@@ -239,13 +249,14 @@ Sin productores, no habría oxígeno ni alimento para los demás organismos. En 
 
 **ID:** `CO-CIE-6-2026-W04-repaso-periodo-1-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan la diferencia entre una célula de un organismo unicelular y una célula de un organismo pluricelular.
+**Contexto:** En Cúcuta, evalúan la diferencia entre una célula de un organismo unicelular y una célula de un organismo pluricelular.
 
 ### Enunciado
 ¿Cuál es la principal diferencia entre una bacteria y una célula de tu piel?
 
-### Options
+### Opciones
 - [ ] A) La bacteria es más grande <!-- feedback: Incorrecto. Las bacterias (procariotas) son más pequeñas. -->
 - [ ] B) La célula de la piel no tiene ADN <!-- feedback: Incorrecto. Todas las células tienen ADN. -->
 - [x] C) La bacteria es un organismo completo independiente; la célula de la piel depende de otras células para sobrevivir <!-- feedback: Correcto. La bacteria es un organismo unicelular autónomo. -->
@@ -264,13 +275,14 @@ En organismos pluricelulares, las células se organizan en tejidos, estos en ór
 
 **ID:** `CO-CIE-6-2026-W04-repaso-periodo-1-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan la aplicación de conocimientos celulares en medicina.
+**Contexto:** En Ibagué, evalúan la aplicación de conocimientos celulares en medicina.
 
 ### Enunciado
 ¿Por qué es importante para un médico conocer la diferencia entre células procariotas y eucariotas?
 
-### Options
+### Opciones
 - [ ] A) Para saber qué tipo de sangre tiene el paciente <!-- feedback: Incorrecto. Tipo de sangre no se relaciona con procariotas/eucariotas. -->
 - [ ] B) Para poder diagnosticar fracturas óseas <!-- feedback: Incorrecto. Fracturas se diagnostican con rayos X. -->
 - [x] C) Para saber si una infección es bacteriana (procariota) y elegir el antibiótico adecuado que ataque solo a las bacterias sin dañar las células humanas (eucariotas) <!-- feedback: Correcto. La especificidad del antibiótico depende de esta diferencia. -->

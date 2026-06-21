@@ -1,5 +1,5 @@
 ---
-id: "COL-SOC-CIU-4-2026-W17-plebiscito-referendo-consulta-popular-001-MASTERY"
+id: "COL-SOC-CIU-4-2026-W17-plebiscito-referendo-consulta-popular-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Mecanismos de participación: plebiscito, referendo y consulta
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Plebiscito, referendo y consulta popular
 
@@ -30,14 +35,15 @@ Este bundle explica tres mecanismos de participación: plebiscito, referendo y c
 ## Question 1 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W17-plebiscito-referendo-consulta-popular-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Mecanismos de participación en Pereira
+**Contexto:** Mecanismos de participación en Pereira
 
 ### Enunciado
 ¿Qué es un plebiscito?
 
-### Options
+### Opciones
 - [ ] A) Una fiesta popular. <!-- feedback: Incorrecto. Es un mecanismo de participación. -->
 - [x] B) Un mecanismo donde el presidente consulta al pueblo sobre decisiones importantes. <!-- feedback: Correcto. El plebiscito convoca al pueblo para apoyar o rechazar una decisión del gobierno. -->
 - [ ] C) Un examen escolar. <!-- feedback: Incorrecto. No es académico. -->
@@ -51,14 +57,15 @@ Este bundle explica tres mecanismos de participación: plebiscito, referendo y c
 ## Question 2 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W17-plebiscito-referendo-consulta-popular-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Referendo en Colombia
+**Contexto:** Referendo en Colombia
 
 ### Enunciado
 ¿Qué es un referendo?
 
-### Options
+### Opciones
 - [ ] A) Un partido de fútbol. <!-- feedback: Incorrecto. No es deportivo. -->
 - [x] B) Un mecanismo donde el pueblo vota para aprobar o rechazar una ley o reforma. <!-- feedback: Correcto. El referendo permite al pueblo pronunciarse sobre normas. -->
 - [ ] C) Un programa de televisión. <!-- feedback: Incorrecto. No es un programa. -->
@@ -72,14 +79,15 @@ Este bundle explica tres mecanismos de participación: plebiscito, referendo y c
 ## Question 3 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W17-plebiscito-referendo-consulta-popular-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Diferencia entre plebiscito y referendo
+**Contexto:** Diferencia entre plebiscito y referendo
 
 ### Enunciado
 ¿Cuál es la diferencia entre un plebiscito y un referendo?
 
-### Options
+### Opciones
 - [ ] A) No hay diferencia, son lo mismo. <!-- feedback: Incorrecto. Son mecanismos diferentes. -->
 - [x] B) El plebiscito consulta sobre decisiones políticas del presidente; el referendo consulta sobre leyes o reformas constitucionales. <!-- feedback: Correcto. Cada mecanismo tiene un propósito específico. -->
 - [ ] C) El referendo lo hace el presidente, el plebiscito el Congreso. <!-- feedback: Incorrecto. Es al revés. -->
@@ -93,14 +101,15 @@ Este bundle explica tres mecanismos de participación: plebiscito, referendo y c
 ## Question 4 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W17-plebiscito-referendo-consulta-popular-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Consulta popular
+**Contexto:** Consulta popular
 
 ### Enunciado
 ¿Qué es una consulta popular?
 
-### Options
+### Opciones
 - [ ] A) Una encuesta de opinión. <!-- feedback: Es similar pero jurídicamente la consulta popular es vinculante. -->
 - [ ] B) Un sondeo de internet. <!-- feedback: Incorrecto. Es un mecanismo formal. -->
 - [x] C) Un mecanismo para que los gobernantes locales o nacionales pregunten a los ciudadanos sobre asuntos de interés público. <!-- feedback: Correcto. Pueden ser realizadas por alcaldes, gobernadores o el presidente. -->
@@ -114,14 +123,15 @@ Este bundle explica tres mecanismos de participación: plebiscito, referendo y c
 ## Question 5 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W17-plebiscito-referendo-consulta-popular-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Ejemplo de consulta popular
+**Contexto:** Ejemplo de consulta popular
 
 ### Enunciado
 ¿Quién puede convocar a una consulta popular municipal en Colombia?
 
-### Options
+### Opciones
 - [ ] A) El presidente de la república. <!-- feedback: Incorrecto. El presidente convoca nacional, no municipal. -->
 - [ ] B) Cualquier ciudadano sin autorización. <!-- feedback: Incorrecto. Requiere autorización. -->
 - [x] C) El alcalde municipal, con aprobación del concejo municipal. <!-- feedback: Correcto. El alcalde puede convocar consultas sobre asuntos locales. -->
@@ -135,14 +145,15 @@ Este bundle explica tres mecanismos de participación: plebiscito, referendo y c
 ## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W17-plebiscito-referendo-consulta-popular-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Plebiscito de 1957
+**Contexto:** Plebiscito de 1957
 
 ### Enunciado
 ¿Qué se decidió en el plebiscito de 1957 en Colombia?
 
-### Options
+### Opciones
 - [ ] A) El nombre del presidente. <!-- feedback: Incorrecto. No fue para elegir presidente. -->
 - [ ] B) El himno nacional. <!-- feedback: Incorrecto. El himno ya existía. -->
 - [x] C) Se aprobó el Frente Nacional y las mujeres votaron por primera vez. <!-- feedback: Correcto. Ese plebiscito aprobó la alternancia en el poder y el voto femenino. -->
@@ -156,14 +167,15 @@ Este bundle explica tres mecanismos de participación: plebiscito, referendo y c
 ## Question 7 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W17-plebiscito-referendo-consulta-popular-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Vinculante vs consultivo
+**Contexto:** Vinculante vs consultivo
 
 ### Enunciado
 ¿Qué significa que un referendo sea vinculante?
 
-### Options
+### Opciones
 - [ ] A) Que no importa el resultado. <!-- feedback: Incorrecto. Todo lo contrario. -->
 - [ ] B) Que solo opinan. <!-- feedback: Incorrecto. Es vinculante, no consultivo. -->
 - [x] C) Que el resultado es obligatorio y debe cumplirse. <!-- feedback: Correcto. Vinculante significa que el gobierno está obligado a cumplir la decisión del pueblo. -->
@@ -177,14 +189,15 @@ Este bundle explica tres mecanismos de participación: plebiscito, referendo y c
 ## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W17-plebiscito-referendo-consulta-popular-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Importancia de los mecanismos
+**Contexto:** Importancia de los mecanismos
 
 ### Enunciado
 ¿Por qué es importante que existan estos mecanismos de participación?
 
-### Options
+### Opciones
 - [ ] A) Porque son una obligación sin sentido. <!-- feedback: Incorrecto. Tienen gran importancia democrática. -->
 - [x] B) Porque permiten que el pueblo decida directamente sobre temas importantes y fortalece la democracia. <!-- feedback: Correcto. La democracia participativa permite decisiones directas. -->
 - [ ] C) Porque solo el presidente puede tomar todas las decisiones. <!-- feedback: Incorrecto. El pueblo también decide. -->
@@ -198,14 +211,15 @@ Este bundle explica tres mecanismos de participación: plebiscito, referendo y c
 ## Question 9 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W17-plebiscito-referendo-consulta-popular-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Decisión ciudadana
+**Contexto:** Decisión ciudadana
 
 ### Enunciado
 ¿Crees que el pueblo debe decidir directamente sobre todas las leyes mediante referendos?
 
-### Options
+### Opciones
 - [ ] A) Sí, en todos los casos. <!-- feedback: Parcialmente, no es práctico para todas las leyes. -->
 - [x] B) Debe decidir sobre temas importantes, pero no sobre todos porque sería muy complejo. Los representantes también son necesarios. <!-- feedback: Correcto. La democracia representativa y participativa se complementan. -->
 - [ ] C) Nunca debe decidir. <!-- feedback: Incorrecto. El pueblo debe participar. -->
@@ -220,13 +234,14 @@ Este bundle explica tres mecanismos de participación: plebiscito, referendo y c
 
 **ID:** `COL-SOC-CIU-4-2026-W17-plebiscito-referendo-consulta-popular-001-MASTERY-v10`
 **Bloom:** [Create]
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Propuesta municipal
+**Contexto:** Propuesta municipal
 
 ### Enunciado
 Propón un tema para una consulta popular en tu municipio. ¿Sobre qué preguntarías?
 
-### Options
+### Opciones
 - [ ] A) ¿Deberíamos tener clase de sociales todos los días? <!-- feedback: Incorrecto. Las consultas son sobre asuntos públicos locales. -->
 - [x] B) ¿Está de acuerdo con que se construya un parque ecológico en la zona norte del municipio? <!-- feedback: Correcto. Una consulta sobre un proyecto local es adecuada y pertinente. -->
 - [ ] C) ¿Cuál es la mejor fruta? <!-- feedback: Incorrecto. No es un asunto de interés público relevante. -->

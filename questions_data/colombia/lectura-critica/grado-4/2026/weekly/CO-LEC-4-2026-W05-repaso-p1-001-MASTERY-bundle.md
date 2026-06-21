@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W05-repaso-p1-001-MASTERY"
+id: "CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "repaso-p1"
-semana: "W05"
+week: "W05"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "repaso: idea principal, detalles, secuencia, personajes"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W05: Repaso P1
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Repaso idea principal.
+**Contexto:** Repaso idea principal.
 
 ### Enunciado
 *"Los mangos son frutas tropicales. En Colombia hay muchas variedades."* ¿Idea principal?
 
-### Options
-- [ ] A) Los mangos son rojos.
+### Opciones
+- [ ] A) Los mangos son rojos. <!-- feedback: Incorrecto. Los mangos son rojos. -->
 - [x] B) Los mangos son frutas tropicales de Colombia. <!-- feedback: Correcto. -->
-- [ ] C) Los mangos son caros.
-- [ ] D) Los mangos crecen en el desierto.
+- [ ] C) Los mangos son caros. <!-- feedback: Incorrecto. Los mangos son caros. -->
+- [ ] D) Los mangos crecen en el desierto. <!-- feedback: Incorrecto. Los mangos crecen en el desierto. -->
 
 ### Explicación Pedagógica
 Repaso idea principal.
@@ -49,17 +54,18 @@ Repaso idea principal.
 
 **ID:** `CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Repaso detalle explícito.
+**Contexto:** Repaso detalle explícito.
 
 ### Enunciado
 *"La iguana verde mide hasta 2 metros de largo."* ¿Cuánto mide?
 
-### Options
-- [ ] A) 1 metro.
+### Opciones
+- [ ] A) 1 metro. <!-- feedback: Incorrecto. 1 metro. -->
 - [x] B) 2 metros. <!-- feedback: Correcto. -->
-- [ ] C) 3 metros.
-- [ ] D) 50 cm.
+- [ ] C) 3 metros. <!-- feedback: Incorrecto. 3 metros. -->
+- [ ] D) 50 cm. <!-- feedback: Incorrecto. 50 cm. -->
 
 ### Explicación Pedagógica
 Repaso detalle explícito.
@@ -70,17 +76,18 @@ Repaso detalle explícito.
 
 **ID:** `CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Repaso secuencia.
+**Contexto:** Repaso secuencia.
 
 ### Enunciado
 *"Primero lavar las frutas, después picarlas y finalmente licuarlas."* ¿Qué se hace después de lavar?
 
-### Options
+### Opciones
 - [ ] A) Licuar. <!-- feedback: Eso es al final. -->
 - [x] B) Picar las frutas. <!-- feedback: Correcto. -->
-- [ ] C) Servir.
-- [ ] D) Comprar.
+- [ ] C) Servir. <!-- feedback: Incorrecto. Servir. -->
+- [ ] D) Comprar. <!-- feedback: Incorrecto. Comprar. -->
 
 ### Explicación Pedagógica
 Repaso orden de pasos.
@@ -91,17 +98,18 @@ Repaso orden de pasos.
 
 **ID:** `CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Repaso personaje.
+**Contexto:** Repaso personaje.
 
 ### Enunciado
 *"Don José es un campesino que cultiva café en la Sierra Nevada."* ¿Qué es Don José?
 
-### Options
-- [ ] A) Médico.
+### Opciones
+- [ ] A) Médico. <!-- feedback: Incorrecto. Médico. -->
 - [x] B) Campesino cafetero. <!-- feedback: Correcto. -->
-- [ ] C) Profesor.
-- [ ] D) Pescador.
+- [ ] C) Profesor. <!-- feedback: Incorrecto. Profesor. -->
+- [ ] D) Pescador. <!-- feedback: Incorrecto. Pescador. -->
 
 ### Explicación Pedagógica
 Repaso personaje.
@@ -112,17 +120,18 @@ Repaso personaje.
 
 **ID:** `CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Repaso idea implícita.
+**Contexto:** Repaso idea implícita.
 
 ### Enunciado
 *"Las aulas tienen luz tenue. Los estudiantes bostezan. Algunos se duermen."* ¿Qué pasa?
 
-### Options
-- [ ] A) Están felices.
+### Opciones
+- [ ] A) Están felices. <!-- feedback: Incorrecto. Están felices. -->
 - [x] B) Están aburridos o con sueño. <!-- feedback: Correcto. -->
-- [ ] C) Están jugando.
-- [ ] D) Cantan.
+- [ ] C) Están jugando. <!-- feedback: Incorrecto. Están jugando. -->
+- [ ] D) Cantan. <!-- feedback: Incorrecto. Cantan. -->
 
 ### Explicación Pedagógica
 Repaso inferencia.
@@ -133,17 +142,18 @@ Repaso inferencia.
 
 **ID:** `CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-v6`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Repaso detalle: lugar.
+**Contexto:** Repaso detalle: lugar.
 
 ### Enunciado
 *"La Feria de las Flores se celebra en Medellín cada año."* ¿Dónde se celebra?
 
-### Options
-- [ ] A) Bogotá.
+### Opciones
+- [ ] A) Bogotá. <!-- feedback: Incorrecto. Bogotá. -->
 - [x] B) Medellín. <!-- feedback: Correcto. -->
-- [ ] C) Cali.
-- [ ] D) Barranquilla.
+- [ ] C) Cali. <!-- feedback: Incorrecto. Cali. -->
+- [ ] D) Barranquilla. <!-- feedback: Incorrecto. Barranquilla. -->
 
 ### Explicación Pedagógica
 Repaso detalle-lugar.
@@ -154,17 +164,18 @@ Repaso detalle-lugar.
 
 **ID:** `CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-v7`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Repaso comparar.
+**Contexto:** Repaso comparar.
 
 ### Enunciado
 *"Un texto dice: ‘El cóndor es grande’. Otro dice: ‘El colibrí es pequeño’."* ¿Qué hacen?
 
-### Options
+### Opciones
 - [x] A) Comparar dos aves. <!-- feedback: Correcto. -->
-- [ ] B) Describir el clima.
-- [ ] C) Dar opinión.
-- [ ] D) Contar cuento.
+- [ ] B) Describir el clima. <!-- feedback: Incorrecto. Describir el clima. -->
+- [ ] C) Dar opinión. <!-- feedback: Incorrecto. Dar opinión. -->
+- [ ] D) Contar cuento. <!-- feedback: Incorrecto. Contar cuento. -->
 
 ### Explicación Pedagógica
 Repaso comparación.
@@ -175,17 +186,18 @@ Repaso comparación.
 
 **ID:** `CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Repaso evaluar.
+**Contexto:** Repaso evaluar.
 
 ### Enunciado
 *"¿Es la frase ‘Las tortugas son malas’ una idea principal válida?"*
 
-### Options
-- [ ] A) Sí, alguien lo dice.
+### Opciones
+- [ ] A) Sí, alguien lo dice. <!-- feedback: Incorrecto. Sí, alguien lo dice. -->
 - [x] B) No, es opinión, no hecho. <!-- feedback: Correcto. -->
-- [ ] C) Sí, todas válidas.
-- [ ] D) Depende.
+- [ ] C) Sí, todas válidas. <!-- feedback: Incorrecto. Sí, todas válidas. -->
+- [ ] D) Depende. <!-- feedback: Incorrecto. Depende. -->
 
 ### Explicación Pedagógica
 Repaso evaluar ideas.
@@ -196,17 +208,18 @@ Repaso evaluar ideas.
 
 **ID:** `CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Repaso orden cronológico.
+**Contexto:** Repaso orden cronológico.
 
 ### Enunciado
 *"¿Qué pasa si en una receta primero horneas y luego mezclas?"*
 
-### Options
-- [ ] A) Funciona igual.
+### Opciones
+- [ ] A) Funciona igual. <!-- feedback: Incorrecto. Funciona igual. -->
 - [x] B) No funciona, el orden importa. <!-- feedback: Correcto. -->
-- [ ] C) Solo si horneas bien.
-- [ ] D) Se puede al revés.
+- [ ] C) Solo si horneas bien. <!-- feedback: Incorrecto. Solo si horneas bien. -->
+- [ ] D) Se puede al revés. <!-- feedback: Incorrecto. Se puede al revés. -->
 
 ### Explicación Pedagógica
 Repaso importancia del orden.
@@ -217,17 +230,18 @@ Repaso importancia del orden.
 
 **ID:** `CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Repaso personaje: acciones.
+**Contexto:** Repaso personaje: acciones.
 
 ### Enunciado
 *"La niña devolvió la billetera que encontró en la calle."* ¿Cómo es?
 
-### Options
-- [ ] A) Deshonesta.
+### Opciones
+- [ ] A) Deshonesta. <!-- feedback: Incorrecto. Deshonesta. -->
 - [x] B) Honesta. <!-- feedback: Correcto. -->
-- [ ] C) Desordenada.
-- [ ] D) Perezosa.
+- [ ] C) Desordenada. <!-- feedback: Incorrecto. Desordenada. -->
+- [ ] D) Perezosa. <!-- feedback: Incorrecto. Perezosa. -->
 
 ### Explicación Pedagógica
 Repaso inferir personalidad.

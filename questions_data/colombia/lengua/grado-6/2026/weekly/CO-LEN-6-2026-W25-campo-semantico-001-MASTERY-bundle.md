@@ -1,28 +1,32 @@
 ---
-id: "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY"
+id: "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lengua"
 tema: "campo-semantico"
-semana: "W25"
+week: "W25"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Campo Semántico - Grado 6
 ## Semana W25
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio Anglo Colombiano de Bogotá, la profesora Carolina introduce el concepto de campo semántico.
+**Contexto:** En el Colegio Anglo Colombiano de Bogotá, la profesora Carolina introduce el concepto de campo semántico.
 **Expected_Success:** 0.86
 
 ### Enunciado
@@ -39,11 +43,11 @@ El campo semántico y la familia léxica son conceptos diferentes: la familia l�
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En la I.E. María Auxiliadora de Cali, los estudiantes clasifican palabras en campos semánticos.
+**Contexto:** En la I.E. María Auxiliadora de Cali, los estudiantes clasifican palabras en campos semánticos.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -60,11 +64,11 @@ La diferencia clave entre campo semántico y familia léxica: campo semántico a
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Champagnat de Pereira, los estudiantes identifican el campo semántico dominante en un texto.
+**Contexto:** En el Colegio Champagnat de Pereira, los estudiantes identifican el campo semántico dominante en un texto.
 **Expected_Success:** 0.79
 
 ### Enunciado
@@ -81,11 +85,11 @@ Identificar campos semánticos ayuda a comprender el tema central de un texto y 
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En la I.E. Técnica de Guamal, los estudiantes agrupan palabras en campos semánticos.
+**Contexto:** En la I.E. Técnica de Guamal, los estudiantes agrupan palabras en campos semánticos.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -102,11 +106,11 @@ Los verbos de expresión de dolor son un campo semántico con matices interesant
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Los Pinos de Bucaramanga, los estudiantes analizan la relación entre campo semántico y el tema de un texto.
+**Contexto:** En el Colegio Los Pinos de Bucaramanga, los estudiantes analizan la relación entre campo semántico y el tema de un texto.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -123,11 +127,11 @@ Los textos especializados suelen usar un campo semántico dominante que indica s
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En la Institución Educativa de Lorica, los estudiantes diferencian campo semántico de familia léxica.
+**Contexto:** En la Institución Educativa de Lorica, los estudiantes diferencian campo semántico de familia léxica.
 **Expected_Success:** 0.71
 
 ### Enunciado
@@ -153,11 +157,11 @@ Una palabra como "carpintero" pertenece a la familia léxica de "carpa" (raíz c
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En el Colegio Campestre de Fusagasugá, los estudiantes amplían un campo semántico.
+**Contexto:** En el Colegio Campestre de Fusagasugá, los estudiantes amplían un campo semántico.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -174,11 +178,11 @@ Formar parte de un campo semántico requiere que la palabra tenga una relación 
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. Normal de Ubaté, los estudiantes analizan cómo los campos semánticos crean cohesión textual.
+**Contexto:** En la I.E. Normal de Ubaté, los estudiantes analizan cómo los campos semánticos crean cohesión textual.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -195,11 +199,11 @@ La cohesión léxica mediante campos semánticos es uno de los recursos más imp
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio Nacional de Villa de Leyva, los estudiantes evalúan la utilidad de los campos semánticos.
+**Contexto:** En el Colegio Nacional de Villa de Leyva, los estudiantes evalúan la utilidad de los campos semánticos.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -216,11 +220,11 @@ Los campos semánticos son una herramienta práctica con múltiples aplicaciones
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio Sagrado Corazón de la Policía Nacional de Cúcuta, los estudiantes crean un organizador gráfico de campos semánticos colombianos.
+**Contexto:** En el Colegio Sagrado Corazón de la Policía Nacional de Cúcuta, los estudiantes crean un organizador gráfico de campos semánticos colombianos.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -229,7 +233,7 @@ Debes crear un organizador gráfico que muestre el campo semántico de "cultura 
 ### Opciones
 - [ ] A) Un círculo con "Colombia" y dentro una lista de todas las palabras que empiezan con C. <!-- feedback: Incorrecto. El campo semántico no se basa en la letra inicial. -->
 - [ ] B) Una lista de 5 regiones naturales de Colombia. <!-- feedback: Incorrecto. Es geografía, no un campo semántico de palabras relacionadas. -->
-- [x] C) Un mapa mental con "cultura colombiana" en el centro y ramas:
+- [x] C) Un mapa mental con "cultura colombiana" en el centro y ramas: <!-- feedback: Correcto! Un mapa mental con "cultura colombiana" en el centro y ramas -->
 **Gastronomía**: bandeja paisa, sancocho, arepa, ajiaco, lechona, tamal.
 **Música**: cumbia, vallenato, bambuco, salsa, currulao, porro.
 **Festividades**: Carnaval de Barranquilla, Feria de Cali, Feria de las Flores, Carnaval de Negros y Blancos, Semana Santa de Popayán.

@@ -1,10 +1,10 @@
 ---
-id: "CO-MAT-4-2026-W24-angulos-001-MASTERY"
+id: "CO-MAT-4-2026-W24-angulos-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "matematicas"
 tema: "angulos"
-semana: "W24"
+week: "W24"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -15,7 +15,12 @@ distractor_profile: "plausible_peer_set"
 rubric_baseline: "Angulos - Grado 4 - matematicas"
 license: "FREE"
 
+bundle_type: "weekly"
+total_questions: 8
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Angulos - Grado 4
 
@@ -25,168 +30,176 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ---
 
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 **ID:** `CO-MAT-4-2026-W24-angulos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comunicación
 **Expected_Success:** 0.92
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Si f(x)=2x+3, ¿cuánto es f(4)?
 
 ### Opciones
-- [x] A) 11
-  <!-- feedback: 2(4)+3=11 -->
-- [ ] B) 8
-- [ ] C) 7
-- [ ] D) 14
+- [x] A) 11 <!-- feedback: Correcto! 11 -->
+
+- [ ] B) 8 <!-- feedback: Incorrecto. 8 -->
+- [ ] C) 7 <!-- feedback: Incorrecto. 7 -->
+- [ ] D) 14 <!-- feedback: Incorrecto. 14 -->
 
 ### Explicación Pedagógica
 Sustituir x por 4
 
 ---
 
-## Pregunta 2 [D2]
+## Question 2 [D2]
 **ID:** `CO-MAT-4-2026-W24-angulos-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Solución de Problemas
 **Expected_Success:** 0.9
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Si f(x)=2x+3, ¿cuánto es f(4)?
 
 ### Opciones
-- [x] A) 11
-  <!-- feedback: 2(4)+3=11 -->
-- [ ] B) 8
-- [ ] C) 7
-- [ ] D) 14
+- [x] A) 11 <!-- feedback: Correcto! 11 -->
+
+- [ ] B) 8 <!-- feedback: Incorrecto. 8 -->
+- [ ] C) 7 <!-- feedback: Incorrecto. 7 -->
+- [ ] D) 14 <!-- feedback: Incorrecto. 14 -->
 
 ### Explicación Pedagógica
 Sustituir x por 4
 
 ---
 
-## Pregunta 3 [D3]
+## Question 3 [D3]
 **ID:** `CO-MAT-4-2026-W24-angulos-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Razonamiento
 **Expected_Success:** 0.87
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Si f(x)=2x+3, ¿cuánto es f(4)?
 
 ### Opciones
-- [x] A) 11
-  <!-- feedback: 2(4)+3=11 -->
-- [ ] B) 8
-- [ ] C) 7
-- [ ] D) 14
+- [x] A) 11 <!-- feedback: Correcto! 11 -->
+
+- [ ] B) 8 <!-- feedback: Incorrecto. 8 -->
+- [ ] C) 7 <!-- feedback: Incorrecto. 7 -->
+- [ ] D) 14 <!-- feedback: Incorrecto. 14 -->
 
 ### Explicación Pedagógica
 Sustituir x por 4
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-MAT-4-2026-W24-angulos-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Comunicación
 **Expected_Success:** 0.84
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Si f(x)=2x+3, ¿cuánto es f(4)?
 
 ### Opciones
-- [x] A) 11
-  <!-- feedback: 2(4)+3=11 -->
-- [ ] B) 8
-- [ ] C) 7
-- [ ] D) 14
+- [x] A) 11 <!-- feedback: Correcto! 11 -->
+
+- [ ] B) 8 <!-- feedback: Incorrecto. 8 -->
+- [ ] C) 7 <!-- feedback: Incorrecto. 7 -->
+- [ ] D) 14 <!-- feedback: Incorrecto. 14 -->
 
 ### Explicación Pedagógica
 Sustituir x por 4
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-MAT-4-2026-W24-angulos-001-MASTERY-v5`
 **Bloom:** Evaluate
 **ICFES:** Solución de Problemas
 **Expected_Success:** 0.82
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Si f(x)=2x+3, ¿cuánto es f(4)?
 
 ### Opciones
-- [x] A) 11
-  <!-- feedback: 2(4)+3=11 -->
-- [ ] B) 8
-- [ ] C) 7
-- [ ] D) 14
+- [x] A) 11 <!-- feedback: Correcto! 11 -->
+
+- [ ] B) 8 <!-- feedback: Incorrecto. 8 -->
+- [ ] C) 7 <!-- feedback: Incorrecto. 7 -->
+- [ ] D) 14 <!-- feedback: Incorrecto. 14 -->
 
 ### Explicación Pedagógica
 Sustituir x por 4
 
 ---
 
-## Pregunta 6 [D2-D3]
+## Question 6 [D2-D3]
 **ID:** `CO-MAT-4-2026-W24-angulos-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Razonamiento
 **Expected_Success:** 0.8
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Si f(x)=2x+3, ¿cuánto es f(4)?
 
 ### Opciones
-- [x] A) 11
-  <!-- feedback: 2(4)+3=11 -->
-- [ ] B) 8
-- [ ] C) 7
-- [ ] D) 14
+- [x] A) 11 <!-- feedback: Correcto! 11 -->
+
+- [ ] B) 8 <!-- feedback: Incorrecto. 8 -->
+- [ ] C) 7 <!-- feedback: Incorrecto. 7 -->
+- [ ] D) 14 <!-- feedback: Incorrecto. 14 -->
 
 ### Explicación Pedagógica
 Sustituir x por 4
 
 ---
 
-## Pregunta 7 [D3-D4]
+## Question 7 [D3-D4]
 **ID:** `CO-MAT-4-2026-W24-angulos-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Comunicación
 **Expected_Success:** 0.77
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Si f(x)=2x+3, ¿cuánto es f(4)?
 
 ### Opciones
-- [x] A) 11
-  <!-- feedback: 2(4)+3=11 -->
-- [ ] B) 8
-- [ ] C) 7
-- [ ] D) 14
+- [x] A) 11 <!-- feedback: Correcto! 11 -->
+
+- [ ] B) 8 <!-- feedback: Incorrecto. 8 -->
+- [ ] C) 7 <!-- feedback: Incorrecto. 7 -->
+- [ ] D) 14 <!-- feedback: Incorrecto. 14 -->
 
 ### Explicación Pedagógica
 Sustituir x por 4
 
 ---
 
-## Pregunta 8 [D1-D2]
+## Question 8 [D1-D2]
 **ID:** `CO-MAT-4-2026-W24-angulos-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Solución de Problemas
 **Expected_Success:** 0.74
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Si f(x)=2x+3, ¿cuánto es f(4)?
 
 ### Opciones
-- [x] A) 11
-  <!-- feedback: 2(4)+3=11 -->
-- [ ] B) 8
-- [ ] C) 7
-- [ ] D) 14
+- [x] A) 11 <!-- feedback: Correcto! 11 -->
+
+- [ ] B) 8 <!-- feedback: Incorrecto. 8 -->
+- [ ] C) 7 <!-- feedback: Incorrecto. 7 -->
+- [ ] D) 14 <!-- feedback: Incorrecto. 14 -->
 
 ### Explicación Pedagógica
 Sustituir x por 4

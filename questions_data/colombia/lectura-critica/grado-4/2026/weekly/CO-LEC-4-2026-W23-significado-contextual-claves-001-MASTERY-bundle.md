@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W23-significado-contextual-claves-001-MASTERY"
+id: "CO-LEC-4-2026-W23-significado-contextual-claves-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "significado-contextual-claves"
-semana: "W23"
+week: "W23"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "claves de contexto, significado, inferencia léxica, contexto"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W23: Significado contextual (claves de contexto)
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W23-significado-contextual-claves-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Definición.
+**Contexto:** Definición.
 
 ### Enunciado
 *"¿Qué son las claves de contexto?"*
 
-### Options
+### Opciones
 - [x] A) Palabras que ayudan a entender el significado. <!-- feedback: Correcto. -->
-- [ ] B) Palabras sin sentido.
-- [ ] C) Imágenes.
-- [ ] D) Sonidos.
+- [ ] B) Palabras sin sentido. <!-- feedback: Incorrecto. Palabras sin sentido. -->
+- [ ] C) Imágenes. <!-- feedback: Incorrecto. Imágenes. -->
+- [ ] D) Sonidos. <!-- feedback: Incorrecto. Sonidos. -->
 
 ### Explicación Pedagógica
 Claves de contexto.
@@ -49,17 +54,18 @@ Claves de contexto.
 
 **ID:** `CO-LEC-4-2026-W23-significado-contextual-claves-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Palabra clave.
+**Contexto:** Palabra clave.
 
 ### Enunciado
 *"El texto dice ‘el animal es herbívoro, come plantas."* ¿Qué palabra ayuda a entender herbívoro?"*
 
-### Options
-- [ ] A) animal.
+### Opciones
+- [ ] A) animal. <!-- feedback: Incorrecto. animal. -->
 - [x] B) come plantas. <!-- feedback: Correcto. -->
-- [ ] C) es.
-- [ ] D) el.
+- [ ] C) es. <!-- feedback: Incorrecto. es. -->
+- [ ] D) el. <!-- feedback: Incorrecto. el. -->
 
 ### Explicación Pedagógica
 Palabra clave.
@@ -70,17 +76,18 @@ Palabra clave.
 
 **ID:** `CO-LEC-4-2026-W23-significado-contextual-claves-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Inferir significado.
+**Contexto:** Inferir significado.
 
 ### Enunciado
 *"María estaba álgida; temblaba de frío."* ¿Qué significa álgida?
 
-### Options
-- [ ] A) Caliente.
+### Opciones
+- [ ] A) Caliente. <!-- feedback: Incorrecto. Caliente. -->
 - [x] B) Muy fría. <!-- feedback: Correcto. Temblar de frío. -->
-- [ ] C) Cansada.
-- [ ] D) Enferma.
+- [ ] C) Cansada. <!-- feedback: Incorrecto. Cansada. -->
+- [ ] D) Enferma. <!-- feedback: Incorrecto. Enferma. -->
 
 ### Explicación Pedagógica
 Inferir por contexto.
@@ -91,17 +98,18 @@ Inferir por contexto.
 
 **ID:** `CO-LEC-4-2026-W23-significado-contextual-claves-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Clave de sinónimo.
+**Contexto:** Clave de sinónimo.
 
 ### Enunciado
 *"El vocablo ‘fastuoso’ significa lujoso, como un palacio."* ¿Qué significa fastuoso?
 
-### Options
-- [ ] A) Feo.
+### Opciones
+- [ ] A) Feo. <!-- feedback: Incorrecto. Feo. -->
 - [x] B) Lujoso. <!-- feedback: Correcto. -->
-- [ ] C) Pequeño.
-- [ ] D) Rápido.
+- [ ] C) Pequeño. <!-- feedback: Incorrecto. Pequeño. -->
+- [ ] D) Rápido. <!-- feedback: Incorrecto. Rápido. -->
 
 ### Explicación Pedagógica
 Clave sinónimo.
@@ -112,17 +120,18 @@ Clave sinónimo.
 
 **ID:** `CO-LEC-4-2026-W23-significado-contextual-claves-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Clave antónimo.
+**Contexto:** Clave antónimo.
 
 ### Enunciado
 *"A diferencia de su hermano que es huraño, ella es sociable."* ¿Qué es huraño?
 
-### Options
+### Opciones
 - [ ] A) Sociable. <!-- feedback: Es lo opuesto. -->
 - [x] B) Poco sociable, arisco. <!-- feedback: Correcto. -->
-- [ ] C) Alegre.
-- [ ] D) Trabajador.
+- [ ] C) Alegre. <!-- feedback: Incorrecto. Alegre. -->
+- [ ] D) Trabajador. <!-- feedback: Incorrecto. Trabajador. -->
 
 ### Explicación Pedagógica
 Clave antónimo.
@@ -133,17 +142,18 @@ Clave antónimo.
 
 **ID:** `CO-LEC-4-2026-W23-significado-contextual-claves-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Inferir por ejemplos.
+**Contexto:** Inferir por ejemplos.
 
 ### Enunciado
 *"Animales domésticos: perro, gato, caballo."* ¿Qué significa doméstico?
 
-### Options
-- [ ] A) Salvaje.
+### Opciones
+- [ ] A) Salvaje. <!-- feedback: Incorrecto. Salvaje. -->
 - [x] B) Que vive con humanos. <!-- feedback: Correcto. -->
-- [ ] C) Peligroso.
-- [ ] D) Grande.
+- [ ] C) Peligroso. <!-- feedback: Incorrecto. Peligroso. -->
+- [ ] D) Grande. <!-- feedback: Incorrecto. Grande. -->
 
 ### Explicación Pedagógica
 Inferir por ejemplos.
@@ -154,17 +164,18 @@ Inferir por ejemplos.
 
 **ID:** `CO-LEC-4-2026-W23-significado-contextual-claves-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Inferir por descripción.
+**Contexto:** Inferir por descripción.
 
 ### Enunciado
 *"El árido desierto no tiene agua ni vegetación."* ¿Qué es árido?
 
-### Options
-- [ ] A) Verde.
+### Opciones
+- [ ] A) Verde. <!-- feedback: Incorrecto. Verde. -->
 - [x] B) Seco, sin agua. <!-- feedback: Correcto. -->
-- [ ] C) Húmedo.
-- [ ] D) Fresco.
+- [ ] C) Húmedo. <!-- feedback: Incorrecto. Húmedo. -->
+- [ ] D) Fresco. <!-- feedback: Incorrecto. Fresco. -->
 
 ### Explicación Pedagógica
 Inferir por descripción.
@@ -175,17 +186,18 @@ Inferir por descripción.
 
 **ID:** `CO-LEC-4-2026-W23-significado-contextual-claves-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Usar múltiples claves.
+**Contexto:** Usar múltiples claves.
 
 ### Enunciado
 *"El niño era íntegro: siempre decía la verdad y cumplía."* ¿Significa íntegro?
 
-### Options
-- [ ] A) Mentiroso.
+### Opciones
+- [ ] A) Mentiroso. <!-- feedback: Incorrecto. Mentiroso. -->
 - [x] B) Honesto, recto. <!-- feedback: Correcto. -->
-- [ ] C) Travieso.
-- [ ] D) Perezoso.
+- [ ] C) Travieso. <!-- feedback: Incorrecto. Travieso. -->
+- [ ] D) Perezoso. <!-- feedback: Incorrecto. Perezoso. -->
 
 ### Explicación Pedagógica
 Múltiples claves.
@@ -196,17 +208,18 @@ Múltiples claves.
 
 **ID:** `CO-LEC-4-2026-W23-significado-contextual-claves-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Evaluar estrategia.
+**Contexto:** Evaluar estrategia.
 
 ### Enunciado
 *"¿Es útil usar el contexto para entender palabras nuevas?"*
 
-### Options
-- [ ] A) No, mejor no leer.
+### Opciones
+- [ ] A) No, mejor no leer. <!-- feedback: Incorrecto. No, mejor no leer. -->
 - [x] B) Sí, ayuda a comprender sin diccionario. <!-- feedback: Correcto. -->
-- [ ] C) Solo a veces.
-- [ ] D) Da igual.
+- [ ] C) Solo a veces. <!-- feedback: Incorrecto. Solo a veces. -->
+- [ ] D) Da igual. <!-- feedback: Incorrecto. Da igual. -->
 
 ### Explicación Pedagógica
 Utilidad.
@@ -217,17 +230,18 @@ Utilidad.
 
 **ID:** `CO-LEC-4-2026-W23-significado-contextual-claves-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Aplicar.
+**Contexto:** Aplicar.
 
 ### Enunciado
 *"Si lees ‘noctámbulo’ en un texto sobre dormir, ¿qué crees que significa?"*
 
-### Options
+### Opciones
 - [x] A) Que camina durmiendo. <!-- feedback: Correcto. -->
-- [ ] B) Que duerme mucho.
-- [ ] C) Que no duerme.
-- [ ] D) Que ronca.
+- [ ] B) Que duerme mucho. <!-- feedback: Incorrecto. Que duerme mucho. -->
+- [ ] C) Que no duerme. <!-- feedback: Incorrecto. Que no duerme. -->
+- [ ] D) Que ronca. <!-- feedback: Incorrecto. Que ronca. -->
 
 ### Explicación Pedagógica
 Aplicar estrategia.

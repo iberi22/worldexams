@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY"
+id: "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "daily-routines-2"
 periodo: "weekly"
-semana: 32
+week: "W32"
 year: 2026
 protocol_version: "5.2"
 bundle_index: 1
@@ -21,7 +21,10 @@ license: "FREE"
 tier: "mastery"
 creador: "Jules"
 
+bundle_type: "weekly"
+total_questions: 10
 ---
+
 
 # Weekly Pack W32: Daily Routines 2 (A1)
 
@@ -34,12 +37,12 @@ This bundle focuses on identifying afternoon and evening daily activities in Eng
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
-**Context:** After school task.
+**Contexto:** After school task.
 
 ### Enunciado
 What do you do with your **notebooks** and **books** after school to practice your lessons? 📚
 
-### Options
+### Opciones
 - [ ] A) Go to sleep <!-- feedback: Incorrect. -->
 - [x] B) Do homework <!-- feedback: Correct! Students do homework to practice. -->
 - [ ] C) Take a shower <!-- feedback: Incorrect. -->
@@ -55,12 +58,12 @@ What do you do with your **notebooks** and **books** after school to practice yo
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
-**Context:** Relaxing at home.
+**Contexto:** Relaxing at home.
 
 ### Enunciado
 What do you do in front of the **television**? 📺
 
-### Options
+### Opciones
 - [x] A) Watch TV <!-- feedback: Correct! We watch television for entertainment. -->
 - [ ] B) Play soccer <!-- feedback: Incorrect. Soccer is played on a field. -->
 - [ ] C) Brush my teeth <!-- feedback: Incorrect. This is done in the bathroom. -->
@@ -76,12 +79,12 @@ What do you do in front of the **television**? 📺
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
-**Context:** Night meal.
+**Contexto:** Night meal.
 
 ### Enunciado
 What is the name of the meal you eat at **night** with your family? 🌃
 
-### Options
+### Opciones
 - [ ] A) Breakfast <!-- feedback: Incorrect. Breakfast is in the morning. -->
 - [ ] B) Lunch <!-- feedback: Incorrect. Lunch is in the afternoon. -->
 - [x] C) Dinner <!-- feedback: Correct! Dinner is the last big meal of the day. -->
@@ -97,12 +100,12 @@ What is the name of the meal you eat at **night** with your family? 🌃
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
-**Context:** Ending the day.
+**Contexto:** Ending the day.
 
 ### Enunciado
 When you are **tired** and it is **night**, you go to your bedroom to... 😴
 
-### Options
+### Opciones
 - [x] A) Go to sleep <!-- feedback: Correct! Sleeping is how we rest at night. -->
 - [ ] B) Go to school <!-- feedback: Incorrect. School is in the morning. -->
 - [ ] C) Eat lunch <!-- feedback: Incorrect. -->
@@ -118,12 +121,12 @@ When you are **tired** and it is **night**, you go to your bedroom to... 😴
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
-**Context:** Helping at home.
+**Contexto:** Helping at home.
 
 ### Enunciado
 After dinner, you help your parents. You **wash** the... 🍽️
 
-### Options
+### Opciones
 - [ ] A) Bed <!-- feedback: Incorrect. -->
 - [x] B) Dishes <!-- feedback: Correct! We wash the dishes (plates and cups) after eating. -->
 - [ ] C) Shoes <!-- feedback: Incorrect. -->
@@ -139,13 +142,13 @@ After dinner, you help your parents. You **wash** the... 🍽️
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
-**Context:** Routine sequence.
+**Contexto:** Routine sequence.
 
 ### Enunciado
 Complete the sequence:
 **I arrive home → I have a snack → I ________.**
 
-### Options
+### Opciones
 - [ ] A) Wake up <!-- feedback: Incorrect. This was the first thing in the morning. -->
 - [x] B) Do my homework <!-- feedback: Correct! Doing homework usually follows arriving home. -->
 - [ ] C) Have breakfast <!-- feedback: Incorrect. -->
@@ -161,12 +164,12 @@ Entender el orden lógico de las actividades de la tarde. Después de llegar y m
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
-**Context:** Evening hygiene.
+**Contexto:** Evening hygiene.
 
 ### Enunciado
 Before I go to sleep, I put on my **pajamas**. I... 🛌
 
-### Options
+### Opciones
 - [x] A) Get ready for bed <!-- feedback: Correct! Putting on pajamas is part of getting ready to sleep. -->
 - [ ] B) Get ready for school <!-- feedback: Incorrect. -->
 - [ ] C) Go to the park <!-- feedback: Incorrect. -->
@@ -182,12 +185,12 @@ Before I go to sleep, I put on my **pajamas**. I... 🛌
 **Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
-**Context:** Grouping actions by time of day.
+**Contexto:** Grouping actions by time of day.
 
 ### Enunciado
 Which of these is a **night** activity?
 
-### Options
+### Opciones
 - [ ] A) Have breakfast <!-- feedback: Incorrect. Morning. -->
 - [ ] B) Go to school <!-- feedback: Incorrect. Morning. -->
 - [x] C) Listen to a bedtime story <!-- feedback: Correct! Bedtime stories are for the night. -->
@@ -203,12 +206,12 @@ Analizar el momento adecuado para cada actividad. Los cuentos antes de dormir (b
 **Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
-**Context:** Routine logic.
+**Contexto:** Routine logic.
 
 ### Enunciado
 Which action is **NOT** part of an **afternoon** routine?
 
-### Options
+### Opciones
 - [ ] A) Play with friends <!-- feedback: Incorrect. Common in the afternoon. -->
 - [x] B) Wake up <!-- feedback: Correct! Waking up is for the morning, not the afternoon. -->
 - [ ] C) Do homework <!-- feedback: Incorrect. Common in the afternoon. -->
@@ -224,12 +227,12 @@ Analizar las categorías temporales. Despertarse (Wake up) no pertenece a la rut
 **Bloom:** Evaluate
 **ICFES:** Pragmática
 **Expected_Success:** 0.50
-**Context:** Choosing the most important routine for health.
+**Contexto:** Choosing the most important routine for health.
 
 ### Enunciado
 It is **night**. You are very tired. What is the **best** thing for your body to do?
 
-### Options
+### Opciones
 - [ ] A) Watch three movies <!-- feedback: Incorrect. -->
 - [x] B) Go to sleep and rest <!-- feedback: Correct! Sleep is essential for health and energy. -->
 - [ ] C) Do more homework <!-- feedback: Incorrect. -->

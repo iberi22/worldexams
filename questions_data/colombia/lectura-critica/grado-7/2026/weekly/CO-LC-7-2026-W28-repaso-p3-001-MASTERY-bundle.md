@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W28-repaso-p3-001-MASTERY"
+id: "CO-LC-7-2026-W28-repaso-p3-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "repaso período 3"
-semana: "W28"
+week: "W28"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso Período 3 - Grado 7
 ## Semana W28 — Síntesis integradora de parodia, sátira, comparación de textos, contraste de perspectivas, evaluación de argumentos y evidencia
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W28-repaso-p3-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el repaso de período 3 del Colegio San Bartolomé de Bogotá, la profesora pide que los estudiantes recuerden los conceptos clave vistos en las últimas semanas.
+**Contexto:** En el repaso de período 3 del Colegio San Bartolomé de Bogotá, la profesora pide que los estudiantes recuerden los conceptos clave vistos en las últimas semanas.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La parodia y la sátira son conceptos relacionados pero distintos. La parodia se
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W28-repaso-p3-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un estudiante debe explicar por qué la comparación de textos múltiples es una habilidad importante para la lectura crítica.
+**Contexto:** Un estudiante debe explicar por qué la comparación de textos múltiples es una habilidad importante para la lectura crítica.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -60,11 +64,11 @@ Comparar textos múltiples es una de las habilidades más poderosas de la lectur
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W28-repaso-p3-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase de repaso, se discute por qué la evidencia es importante en los textos argumentativos.
+**Contexto:** En clase de repaso, se discute por qué la evidencia es importante en los textos argumentativos.
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -81,11 +85,11 @@ La diferencia fundamental entre una opinión y un argumento bien fundamentado es
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W28-repaso-p3-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Un texto dice: "El transporte público en Bogotá es un caos. Ayer vi a un bus que iba tan lleno que la gente colgaba de las puertas. Es una vergüenza."
+**Contexto:** Un texto dice: "El transporte público en Bogotá es un caos. Ayer vi a un bus que iba tan lleno que la gente colgaba de las puertas. Es una vergüenza."
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -102,11 +106,11 @@ Este texto comete el error de generalizar a partir de un caso anecdótico. Un bu
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W28-repaso-p3-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un estudiante presenta dos versiones de un mismo hecho histórico: una escrita por un español del siglo XVI y otra por un historiador indígena contemporáneo.
+**Contexto:** Un estudiante presenta dos versiones de un mismo hecho histórico: una escrita por un español del siglo XVI y otra por un historiador indígena contemporáneo.
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -123,11 +127,11 @@ Al contrastar perspectivas históricas, es esencial considerar quién escribe, d
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W28-repaso-p3-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un anuncio dice: "Nuestro curso de inglés es el mejor. Mire estos testimonios de estudiantes que lograron hablar inglés fluidamente en tres meses."
+**Contexto:** Un anuncio dice: "Nuestro curso de inglés es el mejor. Mire estos testimonios de estudiantes que lograron hablar inglés fluidamente en tres meses."
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -144,11 +148,11 @@ Este anuncio presenta solo testimonios positivos, omitiendo información sobre l
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W28-repaso-p3-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** En el repaso, los estudiantes analizan dos textos sobre el consumo de carne. Uno argumenta desde la perspectiva nutricional (beneficios proteicos). Otro argumenta desde la perspectiva ambiental (impacto ecológico de la ganadería).
+**Contexto:** En el repaso, los estudiantes analizan dos textos sobre el consumo de carne. Uno argumenta desde la perspectiva nutricional (beneficios proteicos). Otro argumenta desde la perspectiva ambiental (impacto ecológico de la ganadería).
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -165,11 +169,11 @@ Este ejercicio de contraste de perspectivas enseña que los temas complejos rara
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W28-repaso-p3-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un texto satírico dice: "Excelente idea: para solucionar el problema del hambre en el mundo, simplemente enseñemos a las personas a tener menos apetito. Problema resuelto sin gastar un peso."
+**Contexto:** Un texto satírico dice: "Excelente idea: para solucionar el problema del hambre en el mundo, simplemente enseñemos a las personas a tener menos apetito. Problema resuelto sin gastar un peso."
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -186,11 +190,11 @@ La reducción al absurdo es un recurso satírico clásico: llevar una lógica o 
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W28-repaso-p3-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el examen de repaso, los estudiantes deben evaluar la siguiente afirmación: "No debemos prohibir las bolsas plásticas porque los empleos de los fabricantes de bolsas también importan."
+**Contexto:** En el examen de repaso, los estudiantes deben evaluar la siguiente afirmación: "No debemos prohibir las bolsas plásticas porque los empleos de los fabricantes de bolsas también importan."
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -207,11 +211,11 @@ Este argumento presenta un falso dilema al sugerir que debemos elegir entre proh
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W28-repaso-p3-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Un político afirma: "La delincuencia aumentó un 30% desde que el alcalde anterior implementó el programa de desarme." Un análisis muestra que el aumento coincidió con una crisis económica que dejó a muchos sin empleo.
+**Contexto:** Un político afirma: "La delincuencia aumentó un 30% desde que el alcalde anterior implementó el programa de desarme." Un análisis muestra que el aumento coincidió con una crisis económica que dejó a muchos sin empleo.
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ El político comete la falacia de falsa causalidad (cum hoc ergo propter hoc): c
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W28-repaso-p3-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** En el repaso final, la profesora presenta un texto que dice: "Según un estudio de la Universidad de los Andes, el 70% de los bogotanos está insatisfecho con el TransMilenio." Un estudiante descubre que el estudio se realizó encuestando solo a usuarios en horas pico.
+**Contexto:** En el repaso final, la profesora presenta un texto que dice: "Según un estudio de la Universidad de los Andes, el 70% de los bogotanos está insatisfecho con el TransMilenio." Un estudiante descubre que el estudio se realizó encuestando solo a usuarios en horas pico.
 **Expected_Success:** 0.40
 
 ### Enunciado
@@ -249,11 +253,11 @@ Incluso cuando la fuente es confiable (Universidad de los Andes), la metodologí
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W28-repaso-p3-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** Como evaluación final del período 3, los estudiantes deben crear un texto breve que integre al menos tres de los conceptos vistos: parodia, sátira, comparación de textos, contraste de perspectivas, evaluación de argumentos, evidencia.
+**Contexto:** Como evaluación final del período 3, los estudiantes deben crear un texto breve que integre al menos tres de los conceptos vistos: parodia, sátira, comparación de textos, contraste de perspectivas, evaluación de argumentos, evidencia.
 **Expected_Success:** 0.36
 
 ### Enunciado

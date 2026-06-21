@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W04-argumentos-001-MASTERY"
+id: "CO-LC-7-2026-W04-argumentos-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "argumentos"
-semana: "W04"
+week: "W04"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Argumentos - Grado 7
 ## Semana W04 — Tipos de argumentos y su análisis
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W04-argumentos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase de Lectura Crítica del Colegio Claustro Moderno de Bogotá, la profesora explica los tipos de argumentos.
+**Contexto:** En clase de Lectura Crítica del Colegio Claustro Moderno de Bogotá, la profesora explica los tipos de argumentos.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Un argumento es un conjunto de afirmaciones (premisas) que se ofrecen como razon
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LC-7-2026-W04-argumentos-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** María clasifica argumentos en su taller de lectura crítica en Medellín.
+**Contexto:** María clasifica argumentos en su taller de lectura crítica en Medellín.
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -60,11 +64,11 @@ El argumento de autoridad se basa en la opinión de un experto o institución re
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W04-argumentos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Carlos identifica un argumento causal en su clase de Cali.
+**Contexto:** Carlos identifica un argumento causal en su clase de Cali.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -81,11 +85,11 @@ El argumento causal establece una relación de causa y efecto entre dos fenómen
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LC-7-2026-W04-argumentos-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Laura analiza: "Colombia y Suecia tienen economías diferentes, así que no se pueden comparar." No está segura de si es un buen argumento.
+**Contexto:** Laura analiza: "Colombia y Suecia tienen economías diferentes, así que no se pueden comparar." No está segura de si es un buen argumento.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -102,11 +106,11 @@ El argumento por analogía o comparación establece semejanzas entre dos casos p
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W04-argumentos-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Andrés debe evaluar: "Tres de cada cuatro estudiantes prefieren clases virtuales. Por lo tanto, las clases virtuales son mejores." En Barranquilla.
+**Contexto:** Andrés debe evaluar: "Tres de cada cuatro estudiantes prefieren clases virtuales. Por lo tanto, las clases virtuales son mejores." En Barranquilla.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -123,11 +127,11 @@ El argumento estadístico usa datos numéricos para apoyar una conclusión. Es v
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LC-7-2026-W04-argumentos-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
-**Context:** Santiago identifica argumentos deductivos e inductivos en su colegio de Cartagena.
+**Contexto:** Santiago identifica argumentos deductivos e inductivos en su colegio de Cartagena.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -144,11 +148,11 @@ Los argumentos deductivos van de lo general a lo particular. Si las premisas son
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W04-argumentos-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Valentina evalúa: "Debemos proteger los páramos porque son fábricas de agua. Sin páramos, no habría agua en Bogotá." En Pereira.
+**Contexto:** Valentina evalúa: "Debemos proteger los páramos porque son fábricas de agua. Sin páramos, no habría agua en Bogotá." En Pereira.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -165,11 +169,11 @@ El texto combina: (1) Argumento causal: los páramos son "fábricas de agua" por
 
 ---
 
-## Pregunta 8 [D6]
+## Question 8 [D6]
 **ID:** `CO-LC-7-2026-W04-argumentos-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Camila encuentra: "Estudiar música mejora el rendimiento en matemáticas porque desarrolla el pensamiento lógico y la disciplina."
+**Contexto:** Camila encuentra: "Estudiar música mejora el rendimiento en matemáticas porque desarrolla el pensamiento lógico y la disciplina."
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -186,11 +190,11 @@ Estructura del argumento: Conclusión implícita/explícita: "Estudiar música m
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W04-argumentos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Sebastián lee: "La jornada única escolar es beneficiosa porque en otros países funciona." Lo evalúa en Ibagué.
+**Contexto:** Sebastián lee: "La jornada única escolar es beneficiosa porque en otros países funciona." Lo evalúa en Ibagué.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ Los argumentos por analogía son válidos cuando los casos comparados comparten 
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W04-argumentos-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Isabella evalúa la solidez de un argumento en su clase de Neiva.
+**Contexto:** Isabella evalúa la solidez de un argumento en su clase de Neiva.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -228,11 +232,11 @@ Un argumento sólido requiere dos condiciones: (1) Las premisas deben ser verdad
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W04-argumentos-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Daniel encuentra dos argumentos opuestos sobre el mismo tema y debe decidir cuál es mejor en Sincelejo.
+**Contexto:** Daniel encuentra dos argumentos opuestos sobre el mismo tema y debe decidir cuál es mejor en Sincelejo.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -249,11 +253,11 @@ Para comparar argumentos opuestos, se debe: (1) Identificar la estructura de cad
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W04-argumentos-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En clase de Lectura Crítica en Cúcuta, el profesor pregunta: "¿Un argumento emotivo es siempre malo?"
+**Contexto:** En clase de Lectura Crítica en Cúcuta, el profesor pregunta: "¿Un argumento emotivo es siempre malo?"
 **Expected_Success:** 0.42
 
 ### Enunciado

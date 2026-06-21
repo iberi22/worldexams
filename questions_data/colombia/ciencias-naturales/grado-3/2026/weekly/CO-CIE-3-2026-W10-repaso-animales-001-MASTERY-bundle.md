@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY"
+id: "CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "repaso-animales"
-semana: "W10"
+week: "W10"
 periodo: 1
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Repaso de animales: características, clasificación, alimenta
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Repaso General: El Reino Animal
 
 Este bundle integra los conocimientos sobre los animales, cubriendo desde sus características básicas y clasificación hasta cómo se alimentan, se mueven y se adaptan a sus hábitats.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una clase de repaso, los estudiantes deben identificar la diferencia fundamental entre un caballo y una mariposa.
+**Contexto:** En una clase de repaso, los estudiantes deben identificar la diferencia fundamental entre un caballo y una mariposa.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ La columna vertebral es el eje del esqueleto interno. Los animales que la poseen
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un biólogo observa un cráneo de un animal que tiene muelas muy anchas y planas, sin colmillos afilados.
+**Contexto:** Un biólogo observa un cráneo de un animal que tiene muelas muy anchas y planas, sin colmillos afilados.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -73,12 +77,12 @@ La forma de los dientes nos dice qué come el animal. Los herbívoros son como "
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Clasifica a los siguientes animales según su forma de nacer: Perro, Tortuga, Tiburón (algunos nacen de huevo interno), Gallina.
+**Contexto:** Clasifica a los siguientes animales según su forma de nacer: Perro, Tortuga, Tiburón (algunos nacen de huevo interno), Gallina.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -98,12 +102,12 @@ Los vivíparos mamíferos ofrecen el cuidado más completo a sus crías. Al nace
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Un pingüino intenta volar por el aire pero no puede; sin embargo, al entrar al agua, se desplaza a gran velocidad.
+**Contexto:** Un pingüino intenta volar por el aire pero no puede; sin embargo, al entrar al agua, se desplaza a gran velocidad.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -123,12 +127,12 @@ La adaptación es la respuesta de la vida al medio ambiente. El pingüino cambi�
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En la selva, un jaguar tiene manchas en su piel que se confunden con las sombras de las hojas y los troncos.
+**Contexto:** En la selva, un jaguar tiene manchas en su piel que se confunden con las sombras de las hojas y los troncos.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -148,12 +152,12 @@ El camuflaje es una herramienta de doble propósito: ayuda a los cazadores a esc
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un renacuajo vive en el agua y respira por branquias. Una rana adulta vive en la tierra y respira por pulmones y por su piel.
+**Contexto:** Un renacuajo vive en el agua y respira por branquias. Una rana adulta vive en la tierra y respira por pulmones y por su piel.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -173,12 +177,12 @@ La metamorfosis es típica de los anfibios. Les permite aprovechar dos hábitats
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Imagina un animal que tiene 6 patas, alas transparentes y un esqueleto duro por fuera.
+**Contexto:** Imagina un animal que tiene 6 patas, alas transparentes y un esqueleto duro por fuera.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -198,12 +202,12 @@ El exoesqueleto es como una armadura que los invertebrados deben cambiar (mudar)
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Tienes que clasificar a un murciélago: vuela, tiene pelo, nace del vientre de su madre y tiene huesos.
+**Contexto:** Tienes que clasificar a un murciélago: vuela, tiene pelo, nace del vientre de su madre y tiene huesos.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -223,12 +227,12 @@ No todos los animales que vuelan son aves. El murciélago es el único mamífero
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** En un ecosistema, hay muchos conejos y pocos zorros. Si hubiera más zorros que conejos, los zorros se quedarían sin comida pronto.
+**Contexto:** En un ecosistema, hay muchos conejos y pocos zorros. Si hubiera más zorros que conejos, los zorros se quedarían sin comida pronto.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -248,12 +252,12 @@ Esto se llama pirámide de energía. La naturaleza es equilibrada. Si hubiera de
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W10-repaso-animales-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un científico encuentra un animal que pone huevos pero amamanta a sus crías con leche.
+**Contexto:** Un científico encuentra un animal que pone huevos pero amamanta a sus crías con leche.
 **Expected_Success:** 0.50
 
 ### Enunciado

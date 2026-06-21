@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W27-seasons-001-MASTERY"
+id: "CO-ING-3-2026-W27-seasons-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "seasons"
 periodo: "weekly"
-semana: 27
+week: "W27"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "Vocabulary for the four seasons: spring, summer, fall/autumn, 
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W27: Seasons (A1)
 
@@ -32,11 +37,12 @@ Este bundle evalúa el vocabulario de las estaciones del año en inglés.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What season is very **hot** and people go to the beach? ☀️🏖️
 
-### Options
+### Opciones
 - [ ] A) Winter <!-- feedback: Incorrect. -->
 - [x] B) Summer <!-- feedback: Correct! Summer is verano. -->
 - [ ] C) Fall <!-- feedback: Incorrect. -->
@@ -52,11 +58,12 @@ El verano se dice "summer". Es la estación más calurosa.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What season is very **cold** and has snow? ❄️☃️
 
-### Options
+### Opciones
 - [x] A) Winter <!-- feedback: Correct! Winter is invierno. -->
 - [ ] B) Summer <!-- feedback: Incorrect. -->
 - [ ] C) Spring <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ El invierno se dice "winter". Es la estación más fría.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 In what season do **flowers** grow? 🌸🌻
 
-### Options
+### Opciones
 - [ ] A) Winter <!-- feedback: Incorrect. -->
 - [ ] B) Fall <!-- feedback: Incorrect. -->
 - [x] C) Spring <!-- feedback: Correct! Spring is primavera. -->
@@ -92,11 +100,12 @@ La primavera se dice "spring". Es cuando las flores crecen.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 In what season do **leaves** (hojas) fall from trees? 🍂
 
-### Options
+### Opciones
 - [ ] A) Spring <!-- feedback: Incorrect. -->
 - [ ] B) Summer <!-- feedback: Incorrect. -->
 - [x] C) Fall <!-- feedback: Correct! Fall (or Autumn) is otoño. -->
@@ -112,11 +121,12 @@ El otoño se dice "fall" (en Estados Unidos) o "autumn" (en el Reino Unido). "Fa
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 How many seasons are there?
 
-### Options
+### Opciones
 - [ ] A) Two <!-- feedback: Incorrect. -->
 - [ ] B) Three <!-- feedback: Incorrect. -->
 - [x] C) Four <!-- feedback: Correct! Spring, Summer, Fall, Winter. -->
@@ -132,11 +142,12 @@ Hay cuatro (four) estaciones en muchos países.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is another name for **"Fall"**?
 
-### Options
+### Opciones
 - [x] A) Autumn <!-- feedback: Correct! -->
 - [ ] B) Spring <!-- feedback: Incorrect. -->
 - [ ] C) Winter <!-- feedback: Incorrect. -->
@@ -152,11 +163,12 @@ What is another name for **"Fall"**?
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 In **Summer**, the weather is usually:
 
-### Options
+### Opciones
 - [ ] A) Cold and snowy <!-- feedback: Incorrect. -->
 - [x] B) Hot and sunny <!-- feedback: Correct! -->
 - [ ] C) Rainy and cool <!-- feedback: Incorrect. -->
@@ -172,11 +184,12 @@ En verano el clima suele ser caluroso y soleado.
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 In **Winter**, you wear:
 
-### Options
+### Opciones
 - [ ] A) A swimsuit <!-- feedback: Incorrect. -->
 - [ ] B) Shorts and T-shirt <!-- feedback: Incorrect. -->
 - [x] C) A heavy jacket and gloves <!-- feedback: Correct! -->
@@ -192,11 +205,12 @@ En invierno necesitamos ropa abrigada como una chaqueta pesada y guantes.
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Choose the correct season: **"It is very cold. I make a snowman."**
 
-### Options
+### Opciones
 - [ ] A) Summer <!-- feedback: Incorrect. -->
 - [ ] B) Spring <!-- feedback: Incorrect. -->
 - [x] C) Winter <!-- feedback: Correct! -->
@@ -212,11 +226,12 @@ Hacemos muñecos de nieve en invierno (winter).
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 In Colombia, we don't have four seasons, but we have:
 
-### Options
+### Opciones
 - [x] A) Dry and rainy seasons <!-- feedback: Correct! Estaciones seca y lluviosa. -->
 - [ ] B) Only winter <!-- feedback: Incorrect. -->
 - [ ] C) Only summer <!-- feedback: Incorrect. -->

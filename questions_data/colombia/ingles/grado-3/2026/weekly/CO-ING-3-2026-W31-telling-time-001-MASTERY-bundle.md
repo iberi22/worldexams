@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W31-telling-time-001-MASTERY"
+id: "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "telling-time"
 periodo: "weekly"
-semana: 31
+week: "W31"
 year: 2026
 protocol_version: "5.2"
 bundle_index: 1
@@ -21,7 +21,10 @@ license: "FREE"
 tier: "mastery"
 creador: "Jules"
 
+bundle_type: "weekly"
+total_questions: 10
 ---
+
 
 # Weekly Pack W31: Telling Time (A1)
 
@@ -34,12 +37,12 @@ This bundle focuses on telling the time (specifically "o'clock" and "half past")
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
-**Context:** Looking at a clock.
+**Contexto:** Looking at a clock.
 
 ### Enunciado
 What word do we use for the exact hour (e.g., **7:00**)? 🕒
 
-### Options
+### Opciones
 - [ ] A) Half past <!-- feedback: Incorrect. This is for 30 minutes. -->
 - [x] B) O'clock <!-- feedback: Correct! "O'clock" is used for the top of the hour. -->
 - [ ] C) Minutes <!-- feedback: Incorrect. -->
@@ -55,12 +58,12 @@ What word do we use for the exact hour (e.g., **7:00**)? 🕒
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
-**Context:** Identifying time on a digital clock.
+**Contexto:** Identifying time on a digital clock.
 
 ### Enunciado
 The clock shows **8:00**. How do you say it?
 
-### Options
+### Opciones
 - [ ] A) It is eight half past <!-- feedback: Incorrect. -->
 - [x] B) It is eight o'clock <!-- feedback: Correct! 8:00 is eight o'clock. -->
 - [ ] C) It is eight time <!-- feedback: Incorrect. -->
@@ -76,12 +79,12 @@ En inglés, para decir la hora exacta, decimos el número seguido de "o'clock".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
-**Context:** Talking about 30 minutes.
+**Contexto:** Talking about 30 minutes.
 
 ### Enunciado
 What does **"Half past"** mean? 🕝
 
-### Options
+### Opciones
 - [ ] A) The exact hour <!-- feedback: Incorrect. That is o'clock. -->
 - [x] B) 30 minutes after the hour <!-- feedback: Correct! Half past means 30 minutes. -->
 - [ ] C) 15 minutes before the hour <!-- feedback: Incorrect. -->
@@ -97,12 +100,12 @@ What does **"Half past"** mean? 🕝
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
-**Context:** Digital to verbal time.
+**Contexto:** Digital to verbal time.
 
 ### Enunciado
 The clock says **10:30**. How do you say it using "half past"?
 
-### Options
+### Opciones
 - [ ] A) It is half past eleven <!-- feedback: Incorrect. 10:30 is half past ten. -->
 - [x] B) It is half past ten <!-- feedback: Correct! Half past ten means 10:30. -->
 - [ ] C) It is ten o'clock <!-- feedback: Incorrect. -->
@@ -118,12 +121,12 @@ Para decir las "y media", usamos "half past" seguido de la hora actual. 10:30 es
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
-**Context:** Asking for the time.
+**Contexto:** Asking for the time.
 
 ### Enunciado
 What is the correct question to ask for the time? ⌚
 
-### Options
+### Opciones
 - [ ] A) What time it is? <!-- feedback: Incorrect. The order is wrong. -->
 - [x] B) What time is it? <!-- feedback: Correct! This is the standard way to ask the time. -->
 - [ ] C) Who time is it? <!-- feedback: Incorrect. -->
@@ -139,12 +142,12 @@ What is the correct question to ask for the time? ⌚
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
-**Context:** Time of a specific activity.
+**Contexto:** Time of a specific activity.
 
 ### Enunciado
 Lunch is at **one o'clock**. Which clock shows the correct time for lunch?
 
-### Options
+### Opciones
 - [ ] A) 1:30 <!-- feedback: Incorrect. This is half past one. -->
 - [x] B) 1:00 <!-- feedback: Correct! 1:00 is one o'clock. -->
 - [ ] C) 12:00 <!-- feedback: Incorrect. -->
@@ -160,12 +163,12 @@ Relacionar la hora escrita con la digital. "One o'clock" corresponde exactamente
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
-**Context:** Time progression.
+**Contexto:** Time progression.
 
 ### Enunciado
 It is **3:00**. In **30 minutes**, it will be...
 
-### Options
+### Opciones
 - [ ] A) Four o'clock <!-- feedback: Incorrect. -->
 - [x] B) Half past three <!-- feedback: Correct! 3:00 + 30 minutes = 3:30 (half past three). -->
 - [ ] C) Half past four <!-- feedback: Incorrect. -->
@@ -181,12 +184,12 @@ Aplicar el concepto de tiempo. Si son las 3:00, en 30 minutos serán las 3:30, l
 **Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
-**Context:** Identifying parts of a clock.
+**Contexto:** Identifying parts of a clock.
 
 ### Enunciado
 On an analog clock, if the **long hand** (la manecilla larga) points to **6**, what time is it? 🕕
 
-### Options
+### Opciones
 - [ ] A) It is o'clock <!-- feedback: Incorrect. Long hand on 12 is o'clock. -->
 - [x] B) It is half past <!-- feedback: Correct! When the long hand is on 6, it is 30 minutes past. -->
 - [ ] C) It is morning <!-- feedback: Incorrect. -->
@@ -202,12 +205,12 @@ Analizar el funcionamiento del reloj analógico. El número 6 representa 30 minu
 **Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
-**Context:** Morning vs Night.
+**Contexto:** Morning vs Night.
 
 ### Enunciado
 **7:00 AM** is seven o'clock in the **morning**. What is **7:00 PM**? 🌙
 
-### Options
+### Opciones
 - [ ] A) Seven o'clock in the afternoon <!-- feedback: Incorrect. 7:00 PM is later. -->
 - [x] B) Seven o'clock in the evening <!-- feedback: Correct! 7:00 PM is evening/night. -->
 - [ ] C) Seven o'clock in the morning <!-- feedback: Incorrect. That is AM. -->
@@ -223,12 +226,12 @@ Diferenciar entre AM (morning) y PM (afternoon/evening). Las 7:00 PM se consider
 **Bloom:** Evaluate
 **ICFES:** Pragmática
 **Expected_Success:** 0.50
-**Context:** Choosing the right time for an action.
+**Contexto:** Choosing the right time for an action.
 
 ### Enunciado
 You need to go to sleep early for school tomorrow. Which time is the **best** choice to go to bed? 😴
 
-### Options
+### Opciones
 - [x] A) Eight o'clock (8:00 PM) <!-- feedback: Correct! This is a healthy time for a child. -->
 - [ ] B) Half past eleven (11:30 PM) <!-- feedback: Incorrect. It is too late. -->
 - [ ] C) One o'clock in the morning (1:00 AM) <!-- feedback: Incorrect. Definitely too late. -->

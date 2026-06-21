@@ -1,5 +1,5 @@
 ---
-id: "COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY"
+id: "COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Repaso integral anual de Ciencias Sociales y Ciudadanas - Grad
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso integral anual
 
@@ -30,14 +35,15 @@ Repaso final de todo el año de Ciencias Sociales y Ciudadanas para grado cuarto
 ## Question 1 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Repaso general
+**Contexto:** Repaso general
 
 ### Enunciado
 ¿Cuál es la ley más importante de Colombia?
 
-### Options
+### Opciones
 - [ ] A) El Código de Tránsito. <!-- feedback: Incorrecto. No es la ley más importante. -->
 - [ ] B) El Código Civil. <!-- feedback: Incorrecto. Es importante pero no la principal. -->
 - [x] C) La Constitución Política. <!-- feedback: Correcto. La Constitución es la norma fundamental del país. -->
@@ -51,14 +57,15 @@ Repaso final de todo el año de Ciencias Sociales y Ciudadanas para grado cuarto
 ## Question 2 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Símbolos patrios
+**Contexto:** Símbolos patrios
 
 ### Enunciado
 ¿Qué colores tiene la bandera de Colombia?
 
-### Options
+### Opciones
 - [ ] A) Rojo, blanco y azul. <!-- feedback: Incorrecto. Esos son los colores de otra bandera. -->
 - [ ] B) Verde, amarillo y rojo. <!-- feedback: Incorrecto. No es la bandera colombiana. -->
 - [x] C) Amarillo, azul y rojo. <!-- feedback: Correcto. La bandera colombiana tiene esos tres colores. -->
@@ -72,14 +79,15 @@ Repaso final de todo el año de Ciencias Sociales y Ciudadanas para grado cuarto
 ## Question 3 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Mecanismos de participación
+**Contexto:** Mecanismos de participación
 
 ### Enunciado
 ¿Qué es el voto popular?
 
-### Options
+### Opciones
 - [ ] A) Un tipo de impuesto. <!-- feedback: Incorrecto. El voto no es un impuesto. -->
 - [x] B) Un mecanismo para elegir gobernantes mediante la participación ciudadana. <!-- feedback: Correcto. El voto permite a los ciudadanos elegir a sus representantes. -->
 - [ ] C) Una multa por no asistir a clase. <!-- feedback: Incorrecto. No es una sanción. -->
@@ -93,14 +101,15 @@ Repaso final de todo el año de Ciencias Sociales y Ciudadanas para grado cuarto
 ## Question 4 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Ramas del poder
+**Contexto:** Ramas del poder
 
 ### Enunciado
 ¿Para qué sirve la separación del poder en tres ramas?
 
-### Options
+### Opciones
 - [ ] A) Para que el presidente tenga más poder. <!-- feedback: Incorrecto. Todo lo contrario. -->
 - [ ] B) Para que sea más difícil gobernar. <!-- feedback: Incorrecto. Es para equilibrar el poder. -->
 - [x] C) Para evitar la concentración de poder y garantizar controles entre las ramas. <!-- feedback: Correcto. La separación de poderes protege la democracia. -->
@@ -114,14 +123,15 @@ Repaso final de todo el año de Ciencias Sociales y Ciudadanas para grado cuarto
 ## Question 5 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Diversidad cultural
+**Contexto:** Diversidad cultural
 
 ### Enunciado
 ¿Qué grupos étnicos forman parte de la diversidad cultural colombiana?
 
-### Options
+### Opciones
 - [ ] A) Solo mestizos. <!-- feedback: Incorrecto. Hay más grupos. -->
 - [ ] B) Indígenas y afrocolombianos. <!-- feedback: Parcial, falta el pueblo ROM. -->
 - [x] C) Indígenas, afrocolombianos y ROM (pueblo gitano). <!-- feedback: Correcto. Estos son los tres grupos étnicos reconocidos constitucionalmente. -->
@@ -135,14 +145,15 @@ Repaso final de todo el año de Ciencias Sociales y Ciudadanas para grado cuarto
 ## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Relieve colombiano
+**Contexto:** Relieve colombiano
 
 ### Enunciado
 ¿Cuáles son las tres cordilleras de Colombia?
 
-### Options
+### Opciones
 - [ ] A) Norte, Sur y Central. <!-- feedback: Incorrecto. Esos no son los nombres correctos. -->
 - [x] B) Occidental, Central y Oriental. <!-- feedback: Correcto. Los Andes colombianos se dividen en estos tres ramales. -->
 - [ ] C) Andina, Caribe y Pacífica. <!-- feedback: Incorrecto. Esos son nombres de regiones, no de cordilleras. -->
@@ -156,14 +167,15 @@ Repaso final de todo el año de Ciencias Sociales y Ciudadanas para grado cuarto
 ## Question 7 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Patrimonio cultural
+**Contexto:** Patrimonio cultural
 
 ### Enunciado
 ¿Por qué el Carnaval de Barranquilla es patrimonio inmaterial de la humanidad?
 
-### Options
+### Opciones
 - [ ] A) Porque es el carnaval más grande del mundo. <!-- feedback: Incorrecto. No es el más grande. -->
 - [x] B) Porque representa la mezcla de culturas indígenas, africanas y europeas a través de danzas, música y tradiciones. <!-- feedback: Correcto. La UNESCO reconoció su diversidad cultural. -->
 - [ ] C) Porque tiene los disfraces más caros. <!-- feedback: Incorrecto. No es un criterio de UNESCO. -->
@@ -177,14 +189,15 @@ Repaso final de todo el año de Ciencias Sociales y Ciudadanas para grado cuarto
 ## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Deberes y derechos
+**Contexto:** Deberes y derechos
 
 ### Enunciado
 ¿Por qué los derechos y los deberes van de la mano?
 
-### Options
+### Opciones
 - [ ] A) No tienen relación. <!-- feedback: Incorrecto. Están vinculados. -->
 - [ ] B) Los derechos son más importantes que los deberes. <!-- feedback: Incorrecto. Ambos son igualmente importantes. -->
 - [x] C) Porque a cada derecho le corresponde un deber que garantiza su ejercicio. <!-- feedback: Correcto. Derechos y deberes son complementarios. -->
@@ -198,14 +211,15 @@ Repaso final de todo el año de Ciencias Sociales y Ciudadanas para grado cuarto
 ## Question 9 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Aprendizajes del año
+**Contexto:** Aprendizajes del año
 
 ### Enunciado
 ¿Qué aprendizaje de Ciencias Sociales te parece más útil para tu vida?
 
-### Options
+### Opciones
 - [ ] A) Ninguno, las sociales no sirven para nada. <!-- feedback: Incorrecto. Las sociales son fundamentales para la vida ciudadana. -->
 - [x] B) Conocer los mecanismos de participación y los derechos, porque me permite ser un ciudadano activo y defender mis derechos. <!-- feedback: Correcto. La formación ciudadana es esencial para la vida en democracia. -->
 - [ ] C) Solo la geografía porque puedo ubicarme en el mapa. <!-- feedback: Parcial. Hay otros conocimientos igualmente importantes. -->
@@ -220,13 +234,14 @@ Repaso final de todo el año de Ciencias Sociales y Ciudadanas para grado cuarto
 
 **ID:** `COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY-v10`
 **Bloom:** [Create]
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Proyecto final
+**Contexto:** Proyecto final
 
 ### Enunciado
 Diseña un proyecto que aplique todo lo aprendido en Ciencias Sociales para mejorar tu comunidad.
 
-### Options
+### Opciones
 - [ ] A) No hacer nada, terminar el año y ya. <!-- feedback: Incorrecto. Los conocimientos deben aplicarse. -->
 - [x] B) Un proyecto de recuperación de una zona verde del barrio, usando mecanismos de participación como el cabildo abierto para solicitar apoyo del concejo municipal. <!-- feedback: Correcto. Este proyecto integra participación ciudadana, geografía y valores cívicos. -->
 - [ ] C) Hacer un mapa del colegio. <!-- feedback: Incorrecto. Es solo un aspecto parcial. -->

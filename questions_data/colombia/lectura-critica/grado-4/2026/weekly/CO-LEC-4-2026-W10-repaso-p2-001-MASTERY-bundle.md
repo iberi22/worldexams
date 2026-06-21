@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY"
+id: "CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "repaso-p2"
-semana: "W10"
+week: "W10"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "repaso: inferencias, comparar, problema-solución"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W10: Repaso P2
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Repaso inferir causa.
+**Contexto:** Repaso inferir causa.
 
 ### Enunciado
 *"María se resfrió porque jugó bajo la lluvia."* ¿Causa?
 
-### Options
+### Opciones
 - [x] A) Jugar bajo la lluvia. <!-- feedback: Correcto. -->
-- [ ] B) Comer helado.
-- [ ] C) Dormir poco.
-- [ ] D) Leer mucho.
+- [ ] B) Comer helado. <!-- feedback: Incorrecto. Comer helado. -->
+- [ ] C) Dormir poco. <!-- feedback: Incorrecto. Dormir poco. -->
+- [ ] D) Leer mucho. <!-- feedback: Incorrecto. Leer mucho. -->
 
 ### Explicación Pedagógica
 Repaso causa.
@@ -49,17 +54,18 @@ Repaso causa.
 
 **ID:** `CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Repaso consecuencia.
+**Contexto:** Repaso consecuencia.
 
 ### Enunciado
 *"Sol derritió hielo, se formó charco."* ¿Consecuencia?
 
-### Options
-- [ ] A) Más hielo.
+### Opciones
+- [ ] A) Más hielo. <!-- feedback: Incorrecto. Más hielo. -->
 - [x] B) Charco de agua. <!-- feedback: Correcto. -->
-- [ ] C) Llovió.
-- [ ] D) Frío.
+- [ ] C) Llovió. <!-- feedback: Incorrecto. Llovió. -->
+- [ ] D) Frío. <!-- feedback: Incorrecto. Frío. -->
 
 ### Explicación Pedagógica
 Repaso consecuencia.
@@ -70,13 +76,14 @@ Repaso consecuencia.
 
 **ID:** `CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Repaso contrastar.
+**Contexto:** Repaso contrastar.
 
 ### Enunciado
 *"Perro ladra. Gato maúa."* ¿Diferencia?
 
-### Options
+### Opciones
 - [ ] A) Ambos mascotas. <!-- feedback: Semejanza. -->
 - [x] B) Ladra vs maúa. <!-- feedback: Correcto. -->
 - [ ] C) Ambos 4 patas. <!-- feedback: Semejanza. -->
@@ -91,17 +98,18 @@ Repaso contrastar.
 
 **ID:** `CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-v4`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Repaso problema.
+**Contexto:** Repaso problema.
 
 ### Enunciado
 *"No había lápices en el salón."* ¿Problema?
 
-### Options
-- [ ] A) Muchos lápices.
+### Opciones
+- [ ] A) Muchos lápices. <!-- feedback: Incorrecto. Muchos lápices. -->
 - [x] B) No hay lápices. <!-- feedback: Correcto. -->
-- [ ] C) Muchas sillas.
-- [ ] D) Pupitres nuevos.
+- [ ] C) Muchas sillas. <!-- feedback: Incorrecto. Muchas sillas. -->
+- [ ] D) Pupitres nuevos. <!-- feedback: Incorrecto. Pupitres nuevos. -->
 
 ### Explicación Pedagógica
 Repaso problema.
@@ -112,17 +120,18 @@ Repaso problema.
 
 **ID:** `CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Repaso solución.
+**Contexto:** Repaso solución.
 
 ### Enunciado
 *"Profe consiguió lápices para todos."* ¿Solución?
 
-### Options
+### Opciones
 - [x] A) Comprar lápices. <!-- feedback: Correcto. -->
-- [ ] B) Cancelar clase.
-- [ ] C) Enviar a casa.
-- [ ] D) No escribir.
+- [ ] B) Cancelar clase. <!-- feedback: Incorrecto. Cancelar clase. -->
+- [ ] C) Enviar a casa. <!-- feedback: Incorrecto. Enviar a casa. -->
+- [ ] D) No escribir. <!-- feedback: Incorrecto. No escribir. -->
 
 ### Explicación Pedagógica
 Repaso solución.
@@ -133,17 +142,18 @@ Repaso solución.
 
 **ID:** `CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Repaso causa-efecto.
+**Contexto:** Repaso causa-efecto.
 
 ### Enunciado
 *"Árbol no creció porque no le llegaba sol."* ¿Causa?
 
-### Options
+### Opciones
 - [x] A) No le llegaba sol. <!-- feedback: Correcto. -->
 - [ ] B) No creció. <!-- feedback: Efecto. -->
-- [ ] C) Árbol pequeño.
-- [ ] D) Llovía mucho.
+- [ ] C) Árbol pequeño. <!-- feedback: Incorrecto. Árbol pequeño. -->
+- [ ] D) Llovía mucho. <!-- feedback: Incorrecto. Llovía mucho. -->
 
 ### Explicación Pedagógica
 Repaso causa.
@@ -154,17 +164,18 @@ Repaso causa.
 
 **ID:** `CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-v7`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Repaso tipo comparación.
+**Contexto:** Repaso tipo comparación.
 
 ### Enunciado
 *"Tortuga lenta. Conejo rápido."* ¿Tipo?
 
-### Options
-- [ ] A) Semejanza.
+### Opciones
+- [ ] A) Semejanza. <!-- feedback: Incorrecto. Semejanza. -->
 - [x] B) Contraste. <!-- feedback: Correcto. -->
-- [ ] C) Igualdad.
-- [ ] D) Identidad.
+- [ ] C) Igualdad. <!-- feedback: Incorrecto. Igualdad. -->
+- [ ] D) Identidad. <!-- feedback: Incorrecto. Identidad. -->
 
 ### Explicación Pedagógica
 Repaso tipo.
@@ -175,17 +186,18 @@ Repaso tipo.
 
 **ID:** `CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Repaso evaluar solución.
+**Contexto:** Repaso evaluar solución.
 
 ### Enunciado
 *"Estudiantes tienen sed en clase."* ¿Mejor solución?
 
-### Options
-- [ ] A) No tomar agua.
+### Opciones
+- [ ] A) No tomar agua. <!-- feedback: Incorrecto. No tomar agua. -->
 - [x] B) Poner dispensador de agua. <!-- feedback: Correcto. -->
-- [ ] C) Cancelar clase.
-- [ ] D) Enviarlos a casa.
+- [ ] C) Cancelar clase. <!-- feedback: Incorrecto. Cancelar clase. -->
+- [ ] D) Enviarlos a casa. <!-- feedback: Incorrecto. Enviarlos a casa. -->
 
 ### Explicación Pedagógica
 Repaso evaluar.
@@ -196,17 +208,18 @@ Repaso evaluar.
 
 **ID:** `CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Repaso relación.
+**Contexto:** Repaso relación.
 
 ### Enunciado
 *"No estudió, por lo tanto reprobó."* ¿Relación?
 
-### Options
-- [ ] A) Comparación.
+### Opciones
+- [ ] A) Comparación. <!-- feedback: Incorrecto. Comparación. -->
 - [x] B) Causa-consecuencia. <!-- feedback: Correcto. -->
-- [ ] C) Problema-solución.
-- [ ] D) Secuencia.
+- [ ] C) Problema-solución. <!-- feedback: Incorrecto. Problema-solución. -->
+- [ ] D) Secuencia. <!-- feedback: Incorrecto. Secuencia. -->
 
 ### Explicación Pedagógica
 Repaso tipo relación.
@@ -217,17 +230,18 @@ Repaso tipo relación.
 
 **ID:** `CO-LEC-4-2026-W10-repaso-p2-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Repaso estructura.
+**Contexto:** Repaso estructura.
 
 ### Enunciado
 *"La biblioteca no tiene libros nuevos."* ¿Qué falta?
 
-### Options
-- [ ] A) Describir biblioteca.
+### Opciones
+- [ ] A) Describir biblioteca. <!-- feedback: Incorrecto. Describir biblioteca. -->
 - [x] B) Proponer solución. <!-- feedback: Correcto. -->
-- [ ] C) Poner fotos.
-- [ ] D) Nada.
+- [ ] C) Poner fotos. <!-- feedback: Incorrecto. Poner fotos. -->
+- [ ] D) Nada. <!-- feedback: Incorrecto. Nada. -->
 
 ### Explicación Pedagógica
 Repaso estructura.

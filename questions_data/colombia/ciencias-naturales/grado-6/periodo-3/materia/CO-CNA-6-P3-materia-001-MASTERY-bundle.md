@@ -1,5 +1,5 @@
 ---
-id: "CO-CNA-6-P3-materia-001-MASTERY"
+id: "CO-CNA-6-P3-materia-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "quimica_basica, propiedades_materia, estados_agregacion, cambios_fisicos"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: La Materia: Propiedades y Estados
 
@@ -33,7 +40,7 @@ Este bundle evalúa el concepto de materia, la distinción entre propiedades gen
 ### Enunciado
 ¿Cuál es la definición científica de **materia**?
 
-### Options
+### Opciones
 - [ ] A) Todo lo que es muy duro y pesado. <!-- feedback: Incorrecto. El aire también es materia y no es duro. -->
 - [x] B) Todo aquello que tiene masa y ocupa un lugar en el espacio (volumen). <!-- feedback: Correcto. Esta definición incluye sólidos, líquidos y gases. -->
 - [ ] C) Solamente los objetos que podemos ver con los ojos. <!-- feedback: Incorrecto. Hay materia invisible al ojo humano, como muchos gases. -->
@@ -53,7 +60,7 @@ La materia constituye todo el universo físico y se caracteriza por tener inerci
 ### Enunciado
 ¿Cuál de los siguientes es un **cambio de estado** del agua?
 
-### Options
+### Opciones
 - [ ] A) Endulzar el agua con azúcar. <!-- feedback: Incorrecto. Esto es una mezcla, no un cambio de estado. -->
 - [ ] B) Pintar el agua de azul. <!-- feedback: Incorrecto. Es un cambio físico de apariencia, pero sigue siendo líquida. -->
 - [x] C) La congelación del agua para formar hielo. <!-- feedback: Correcto. Pasa de estado líquido a estado sólido. -->
@@ -73,7 +80,7 @@ Los cambios de estado ocurren cuando la materia gana o pierde energía térmica,
 ### Enunciado
 ¿Qué propiedad de la materia nos indica la cantidad de materia que tiene un cuerpo y se mide en kilogramos?
 
-### Options
+### Opciones
 - [x] A) Masa. <!-- feedback: Correcto. La masa es una propiedad general que mide la cantidad de sustancia. -->
 - [ ] B) Volumen. <!-- feedback: Incorrecto. El volumen mide el espacio ocupado, no la cantidad de materia. -->
 - [ ] C) Densidad. <!-- feedback: Incorrecto. La densidad relaciona la masa con el volumen. -->
@@ -93,7 +100,7 @@ Es importante no confundir masa (cantidad de materia) con peso (fuerza de graved
 ### Enunciado
 ¿En qué estado de la materia las moléculas están muy separadas y se mueven libremente en todas direcciones, ocupando todo el recipiente?
 
-### Options
+### Opciones
 - [ ] A) Sólido. <!-- feedback: Incorrecto. En los sólidos las moléculas están muy juntas y solo vibran. -->
 - [ ] B) Líquido. <!-- feedback: Incorrecto. En los líquidos están cerca aunque pueden deslizarse. -->
 - [x] C) Gaseoso. <!-- feedback: Correcto. Los gases no tienen forma ni volumen definido y se expanden. -->
@@ -116,7 +123,7 @@ Un objeto tiene una masa de 200 gramos y un volumen de 100 centímetros cúbicos
 ### Enunciado
 ¿Cuál es la **densidad** del objeto?
 
-### Options
+### Opciones
 - [ ] A) $0.5 g/cm^3$ <!-- feedback: Incorrecto. Dividiste el volumen por la masa. -->
 - [x] B) $2 g/cm^3$ <!-- feedback: Correcto. Densidad = Masa / Volumen = 200 / 100 = 2. -->
 - [ ] C) $300 g/cm^3$ <!-- feedback: Incorrecto. Sumaste la masa y el volumen. -->
@@ -139,7 +146,7 @@ Pones a calentar agua en una olla y, después de un tiempo, ves que sale vapor.
 ### Enunciado
 ¿Cómo se llama el cambio de estado de líquido a gas?
 
-### Options
+### Opciones
 - [ ] A) Fusión. <!-- feedback: Incorrecto. Fusión es de sólido a líquido. -->
 - [x] B) Evaporación o vaporización. <!-- feedback: Correcto. El calor hace que las moléculas líquidas ganen energía y escapen como gas. -->
 - [ ] C) Sublimación. <!-- feedback: Incorrecto. Sublimación es de sólido a gas directamente. -->
@@ -159,7 +166,7 @@ El aumento de temperatura incrementa la energía cinética de las moléculas has
 ### Enunciado
 ¿Cuál de las siguientes es una **propiedad específica** (que permite diferenciar una sustancia de otra)?
 
-### Options
+### Opciones
 - [ ] A) La masa. <!-- feedback: Incorrecto. Dos objetos diferentes pueden tener la misma masa (1 kg de plomo y 1 kg de plumas). -->
 - [ ] B) El volumen. <!-- feedback: Incorrecto. Diferentes sustancias pueden ocupar el mismo espacio. -->
 - [x] C) El punto de ebullición. <!-- feedback: Correcto. Cada sustancia pura tiene una temperatura exacta a la que hierve (ej. agua a 100°C). -->
@@ -179,7 +186,7 @@ Las propiedades generales (masa, volumen, peso) no sirven para identificar la na
 ### Enunciado
 ¿Qué sucede con el volumen de la mayoría de los cuerpos cuando se calientan (sin cambiar de estado)?
 
-### Options
+### Opciones
 - [ ] A) El volumen disminuye. <!-- feedback: Incorrecto. Esto sucede generalmente al enfriarse. -->
 - [x] B) El volumen aumenta (dilatación térmica). <!-- feedback: Correcto. Las moléculas se mueven más rápido y se alejan un poco entre sí. -->
 - [ ] C) El volumen se mantiene exactamente igual. <!-- feedback: Incorrecto. El calor siempre afecta la agitación molecular. -->
@@ -202,7 +209,7 @@ Tienes una mezcla de agua y arena fina en un vaso.
 ### Enunciado
 ¿Cuál es el método más adecuado para separar la arena del agua?
 
-### Options
+### Opciones
 - [ ] A) Evaporación. <!-- feedback: Incorrecto. Funcionaría, pero perderías el agua como vapor. -->
 - [x] B) Filtración. <!-- feedback: Correcto. El filtro retiene el sólido (arena) y deja pasar el líquido (agua). -->
 - [ ] C) Decantación magnética. <!-- feedback: Incorrecto. La arena no es atraída por imanes. -->
@@ -222,7 +229,7 @@ La elección del método de separación depende de las propiedades físicas de l
 ### Enunciado
 ¿Por qué el hielo flota en el agua líquida?
 
-### Options
+### Opciones
 - [ ] A) Porque el hielo es más pesado que el agua. <!-- feedback: Incorrecto. Si fuera más pesado se hundiría. -->
 - [x] B) Porque el hielo es menos denso que el agua líquida. <!-- feedback: Correcto. Al congelarse, las moléculas de agua se organizan dejando más espacio vacío entre ellas. -->
 - [ ] C) Porque el hielo tiene más burbujas de aire adentro. <!-- feedback: Incorrecto. Aunque puede tener aire, la razón principal es la estructura molecular del cristal de hielo. -->

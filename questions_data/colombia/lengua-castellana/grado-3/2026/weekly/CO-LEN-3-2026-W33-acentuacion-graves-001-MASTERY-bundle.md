@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-3-2026-W33-acentuacion-graves-001-MASTERY"
+id: "CO-LEN-3-2026-W33-acentuacion-graves-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 3"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Acentuación - graves - Grado 3
 
@@ -22,7 +24,7 @@ Este bundle practica la identificación de palabras graves (o llanas) y la aplic
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-3-2026-W33-acentuacion-graves-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -33,21 +35,20 @@ Este bundle practica la identificación de palabras graves (o llanas) y la aplic
 ¿En qué sílaba llevan la fuerza de voz (acento) las palabras **graves**?
 
 ### Opciones
-- [ ] A) En la última sílaba.
-  <!-- feedback: Esas son las agudas. -->
-- [x] B) En la penúltima sílaba.
-  <!-- feedback: ¡Correcto! Las palabras graves suenan fuerte antes del final. -->
-- [ ] C) En la antepenúltima sílaba.
-  <!-- feedback: Esas son las esdrújulas. -->
-- [ ] D) En la primera de todas.
-  <!-- feedback: No siempre es la primera, depende del número de sílabas. -->
+- [ ] A) En la última sílaba. <!-- feedback: Incorrecto. En la última sílaba. -->
+
+- [x] B) En la penúltima sílaba. <!-- feedback: Correcto! En la penúltima sílaba. -->
+
+- [ ] C) En la antepenúltima sílaba. <!-- feedback: Incorrecto. En la antepenúltima sílaba. -->
+
+- [ ] D) En la primera de todas. <!-- feedback: Incorrecto. En la primera de todas. -->
 
 ### Explicación Pedagogica
 Las palabras graves son aquellas cuya sílaba tónica es la penúltima. Son las más frecuentes en el idioma español.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-3-2026-W33-acentuacion-graves-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Producción Textual
@@ -58,21 +59,20 @@ Las palabras graves son aquellas cuya sílaba tónica es la penúltima. Son las 
 ¿Cuándo llevan tilde las palabras graves?
 
 ### Opciones
-- [ ] A) Cuando terminan en n, s o vocal.
-  <!-- feedback: No, esa es la regla de las agudas. -->
-- [x] B) Cuando terminan en cualquier consonante que NO sea n o s.
-  <!-- feedback: ¡Muy bien! Es justo lo contrario a la regla de las agudas. -->
-- [ ] C) Siempre llevan tilde todas las palabras.
-  <!-- feedback: La mayoría de las graves no llevan tilde porque terminan en vocal o n/s. -->
-- [ ] D) Nunca llevan tilde.
-  <!-- feedback: Muchas sí la llevan si terminan en otras consonantes como l, r, z, d. -->
+- [ ] A) Cuando terminan en n, s o vocal. <!-- feedback: Incorrecto. Cuando terminan en n, s o vocal. -->
+
+- [x] B) Cuando terminan en cualquier consonante que NO sea n o s. <!-- feedback: Correcto! Cuando terminan en cualquier consonante que NO sea n o s. -->
+
+- [ ] C) Siempre llevan tilde todas las palabras. <!-- feedback: Incorrecto. Siempre llevan tilde todas las palabras. -->
+
+- [ ] D) Nunca llevan tilde. <!-- feedback: Incorrecto. Nunca llevan tilde. -->
 
 ### Explicación Pedagogica
 La regla de acentuación de las graves es inversa a la de las agudas, lo cual ayuda a recordarlas por contraste.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-3-2026-W33-acentuacion-graves-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -83,21 +83,20 @@ La regla de acentuación de las graves es inversa a la de las agudas, lo cual ay
 ¿Cuál de estas palabras es grave?
 
 ### Opciones
-- [ ] A) Cartón
-  <!-- feedback: car-TÓN. Es aguda. -->
-- [x] B) Libro
-  <!-- feedback: ¡Excelente! LI-bro. La fuerza está en la penúltima sílaba. -->
-- [ ] C) Borrador
-  <!-- feedback: bo-rra-DOR. Es aguda. -->
-- [ ] D) Café
-  <!-- feedback: ca-FÉ. Es aguda. -->
+- [ ] A) Cartón <!-- feedback: Incorrecto. Cartón -->
+
+- [x] B) Libro <!-- feedback: Correcto! Libro -->
+
+- [ ] C) Borrador <!-- feedback: Incorrecto. Borrador -->
+
+- [ ] D) Café <!-- feedback: Incorrecto. Café -->
 
 ### Explicación Pedagogica
 Reconocer la sílaba tónica sin tilde es fundamental para identificar las palabras graves comunes (que terminan en vocal).
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-3-2026-W33-acentuacion-graves-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -108,21 +107,20 @@ Reconocer la sílaba tónica sin tilde es fundamental para identificar las palab
 ¿Por qué la palabra **"árbol"** lleva tilde?
 
 ### Opciones
-- [ ] A) Porque es una palabra muy importante de la naturaleza.
-  <!-- feedback: La importancia del significado no influye en la tilde. -->
-- [ ] B) Porque es una palabra aguda.
-  <!-- feedback: No, el acento está en la penúltima sílaba (ÁR-bol). -->
-- [x] C) Porque es grave y termina en la consonante "l" (no es n ni s).
-  <!-- feedback: ¡Correcto! Cumple con la regla de acentuación de las graves. -->
-- [ ] D) Porque empieza con una vocal.
-  <!-- feedback: No es el motivo de la tilde. -->
+- [ ] A) Porque es una palabra muy importante de la naturaleza. <!-- feedback: Incorrecto. Porque es una palabra muy importante de  -->
+
+- [ ] B) Porque es una palabra aguda. <!-- feedback: Incorrecto. Porque es una palabra aguda. -->
+
+- [x] C) Porque es grave y termina en la consonante "l" (no es n ni s). <!-- feedback: Correcto! Porque es grave y termina en la consonante "l" (no es n ni s -->
+
+- [ ] D) Porque empieza con una vocal. <!-- feedback: Incorrecto. Porque empieza con una vocal. -->
 
 ### Explicación Pedagogica
 La presencia de la tilde en "árbol" se debe a su estructura silábica y a su terminación en una consonante permitida por la regla.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-3-2026-W33-acentuacion-graves-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -133,21 +131,20 @@ La presencia de la tilde en "árbol" se debe a su estructura silábica y a su te
 ¿Cuál de estas palabras es grave pero NO lleva tilde?
 
 ### Opciones
-- [ ] A) Lápiz
-  <!-- feedback: Es grave pero termina en z, sí lleva tilde. -->
-- [ ] B) Fácil
-  <!-- feedback: Es grave pero termina en l, sí lleva tilde. -->
-- [x] C) Casa
-  <!-- feedback: ¡Así es! Es grave (CA-sa) pero termina en vocal, por lo que no se le pone tilde. -->
-- [ ] D) Azúcar
-  <!-- feedback: Es grave y termina en r, sí lleva tilde. -->
+- [ ] A) Lápiz <!-- feedback: Incorrecto. Lápiz -->
+
+- [ ] B) Fácil <!-- feedback: Incorrecto. Fácil -->
+
+- [x] C) Casa <!-- feedback: Correcto! Casa -->
+
+- [ ] D) Azúcar <!-- feedback: Incorrecto. Azúcar -->
 
 ### Explicación Pedagogica
 La gran mayoría de palabras en español son graves terminadas en vocal, n o s, y por eso no llevan acento ortográfico.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-3-2026-W33-acentuacion-graves-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -158,21 +155,20 @@ La gran mayoría de palabras en español son graves terminadas en vocal, n o s, 
 ¿Cuál de estos nombres propios está escrito correctamente con su tilde de palabra grave?
 
 ### Opciones
-- [ ] A) Oscar (sin tilde)
-  <!-- feedback: Termina en r, debe llevar tilde. -->
-- [x] B) Óscar
-  <!-- feedback: ¡Exacto! ÓS-car. Es grave terminada en r, sí lleva tilde. -->
-- [ ] C) Felíx
-  <!-- feedback: La tilde está en el lugar correcto, pero el nombre lleva la fuerza en la i? No, es FÉ-lix. -->
-- [ ] D) Maria (sin tilde)
-  <!-- feedback: Este es un caso especial de hiato (Ma-rí-a), pero por acento común no serviría de ejemplo simple de grave. -->
+- [ ] A) Oscar (sin tilde) <!-- feedback: Incorrecto. Oscar (sin tilde) -->
+
+- [x] B) Óscar <!-- feedback: Correcto! Óscar -->
+
+- [ ] C) Felíx <!-- feedback: Incorrecto. Felíx -->
+
+- [ ] D) Maria (sin tilde) <!-- feedback: Incorrecto. Maria (sin tilde) -->
 
 ### Explicación Pedagogica
 Los nombres propios siguen las mismas reglas generales de acentuación que las demás palabras.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-3-2026-W33-acentuacion-graves-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -183,21 +179,20 @@ Los nombres propios siguen las mismas reglas generales de acentuación que las d
 "Uso mi **la__iz** para dibujar un **tu__el**". ¿Qué tildes faltan en estas palabras graves?
 
 ### Opciones
-- [ ] A) la tilde en la i de lapiz.
-  <!-- feedback: No, el acento de lápiz va en la a. -->
-- [x] B) la tilde en la á de lápiz y en la ú de túnel.
-  <!-- feedback: ¡Muy bien! Ambas son graves terminadas en consonantes distintas a n/s (z y l). -->
-- [ ] C) Solo la tilde en túnel.
-  <!-- feedback: Lápiz también la requiere. -->
-- [ ] D) Ninguna lleva tilde.
-  <!-- feedback: Ambas la requieren por regla ortográfica. -->
+- [ ] A) la tilde en la i de lapiz. <!-- feedback: Incorrecto. la tilde en la i de lapiz. -->
+
+- [x] B) la tilde en la á de lápiz y en la ú de túnel. <!-- feedback: Correcto! la tilde en la á de lápiz y en la ú de túnel. -->
+
+- [ ] C) Solo la tilde en túnel. <!-- feedback: Incorrecto. Solo la tilde en túnel. -->
+
+- [ ] D) Ninguna lleva tilde. <!-- feedback: Incorrecto. Ninguna lleva tilde. -->
 
 ### Explicación Pedagogica
 Identificar la vocal tónica correcta es vital antes de aplicar la regla de la tilde.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-3-2026-W33-acentuacion-graves-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Producción Textual
@@ -208,21 +203,20 @@ Identificar la vocal tónica correcta es vital antes de aplicar la regla de la t
 ¿Cuál de estos animales tiene un nombre que es una palabra **grave**?
 
 ### Opciones
-- [ ] A) Tiburón
-  <!-- feedback: ti-bu-RÓN. Es aguda. -->
-- [ ] B) Colibrí
-  <!-- feedback: co-li-BRÍ. Es aguda. -->
-- [x] C) Perro
-  <!-- feedback: ¡Correcto! PE-rro. La fuerza de voz está en la penúltima sílaba. -->
-- [ ] D) Jaguar
-  <!-- feedback: ja-GUAR. Es aguda. -->
+- [ ] A) Tiburón <!-- feedback: Incorrecto. Tiburón -->
+
+- [ ] B) Colibrí <!-- feedback: Incorrecto. Colibrí -->
+
+- [x] C) Perro <!-- feedback: Correcto! Perro -->
+
+- [ ] D) Jaguar <!-- feedback: Incorrecto. Jaguar -->
 
 ### Explicación Pedagogica
 El oído debe acostumbrarse a detectar dónde cae el golpe de voz para clasificar las palabras sin error.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-3-2026-W33-acentuacion-graves-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -233,21 +227,20 @@ El oído debe acostumbrarse a detectar dónde cae el golpe de voz para clasifica
 ¿Cuál de estas frases tiene bien puestas las tildes de las palabras graves?
 
 ### Opciones
-- [ ] A) El almuerzo estuvo muy facil y rico.
-  <!-- feedback: Falta la tilde en fácil. -->
-- [x] B) El examen fue difícil pero lo gané.
-  <!-- feedback: ¡Excelente! Difícil es grave terminada en l (lleva tilde) y gané es aguda. -->
-- [ ] C) Comí una arepa con mucho azucar.
-  <!-- feedback: Falta la tilde en azúcar (grave terminada en r). -->
-- [ ] D) Mi papâ me compró un movil nuevo.
-  <!-- feedback: Papá es aguda y móvil es grave (falta tilde en móvil). -->
+- [ ] A) El almuerzo estuvo muy facil y rico. <!-- feedback: Incorrecto. El almuerzo estuvo muy facil y rico. -->
+
+- [x] B) El examen fue difícil pero lo gané. <!-- feedback: Correcto! El examen fue difícil pero lo gané. -->
+
+- [ ] C) Comí una arepa con mucho azucar. <!-- feedback: Incorrecto. Comí una arepa con mucho azucar. -->
+
+- [ ] D) Mi papâ me compró un movil nuevo. <!-- feedback: Incorrecto. Mi papâ me compró un movil nuevo. -->
 
 ### Explicación Pedagogica
 La tilde permite una lectura fluida y evita confusiones sobre la pronunciación correcta de las palabras.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-3-2026-W33-acentuacion-graves-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -258,14 +251,13 @@ La tilde permite una lectura fluida y evita confusiones sobre la pronunciación 
 ¿Cuál de estos nombres sería una palabra grave que SIEMPRE lleva tilde?
 
 ### Opciones
-- [ ] A) Bobby.
-  <!-- feedback: Suena grave pero termina en vocal (o y), no llevaría tilde en español. -->
-- [ ] B) Campeón.
-  <!-- feedback: Es aguda. -->
-- [x] C) César.
-  <!-- feedback: ¡Muy bien! CÉ-sar es grave y termina en r, por lo que lleva tilde obligatoria. -->
-- [ ] D) Sultán.
-  <!-- feedback: Es aguda. -->
+- [ ] A) Bobby. <!-- feedback: Incorrecto. Bobby. -->
+
+- [ ] B) Campeón. <!-- feedback: Incorrecto. Campeón. -->
+
+- [x] C) César. <!-- feedback: Correcto! César. -->
+
+- [ ] D) Sultán. <!-- feedback: Incorrecto. Sultán. -->
 
 ### Explicación Pedagogica
 El conocimiento de las reglas de acentuación nos permite escribir cualquier palabra, incluso nombres propios, con total corrección.

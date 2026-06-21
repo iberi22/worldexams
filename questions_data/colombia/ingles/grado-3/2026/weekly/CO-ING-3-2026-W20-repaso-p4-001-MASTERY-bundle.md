@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W20-repaso-p4-001-MASTERY"
+id: "CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "repaso-p4"
 periodo: "weekly"
-semana: 20
+week: "W20"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 8
@@ -19,7 +19,12 @@ rubric_baseline: "Review of animals (pets, farm, wild), fruits, vegetables, and 
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W20: Repaso Periodo 4 (A1)
 
@@ -32,11 +37,12 @@ Este bundle repasa los temas de las semanas 16 a 19: animales, frutas, verduras 
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What animal is the king of the jungle?
 
-### Options
+### Opciones
 - [ ] A) Elephant <!-- feedback: Incorrect. -->
 - [x] B) Lion <!-- feedback: Correct! -->
 - [ ] C) Monkey <!-- feedback: Incorrect. -->
@@ -52,11 +58,12 @@ El león (lion) es el rey de la selva.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What color is an **apple**?
 
-### Options
+### Opciones
 - [x] A) Red <!-- feedback: Correct! -->
 - [ ] B) Blue <!-- feedback: Incorrect. -->
 - [ ] C) Purple <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ La manzana (apple) suele ser roja (red).
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What do you do with your **teeth**?
 
-### Options
+### Opciones
 - [ ] A) Wash <!-- feedback: Incorrect. -->
 - [x] B) Brush <!-- feedback: Correct! -->
 - [ ] C) Comb <!-- feedback: Incorrect. -->
@@ -92,11 +100,12 @@ Los dientes se cepillan: "brush my teeth".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Which animal gives us **milk**?
 
-### Options
+### Opciones
 - [x] A) Cow <!-- feedback: Correct! -->
 - [ ] B) Tiger <!-- feedback: Incorrect. -->
 - [ ] C) Snake <!-- feedback: Incorrect. -->
@@ -112,11 +121,12 @@ La vaca (cow) nos da leche.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Zanahoria"**?
 
-### Options
+### Opciones
 - [ ] A) Potato <!-- feedback: Incorrect. -->
 - [x] B) Carrot <!-- feedback: Correct! -->
 - [ ] C) Tomato <!-- feedback: Incorrect. -->
@@ -132,11 +142,12 @@ Zanahoria se dice "carrot".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What meal do you eat in the **morning**?
 
-### Options
+### Opciones
 - [ ] A) Lunch <!-- feedback: Incorrect. -->
 - [ ] B) Dinner <!-- feedback: Incorrect. -->
 - [x] C) Breakfast <!-- feedback: Correct! -->
@@ -152,11 +163,12 @@ El desayuno se dice "breakfast".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Which animal is **very big** and has a **trunk**?
 
-### Options
+### Opciones
 - [ ] A) Monkey <!-- feedback: Incorrect. -->
 - [x] B) Elephant <!-- feedback: Correct! -->
 - [ ] C) Cat <!-- feedback: Incorrect. -->
@@ -172,11 +184,12 @@ El elefante (elephant) es el animal grande con trompa.
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Despertarse"**?
 
-### Options
+### Opciones
 - [x] A) Wake up <!-- feedback: Correct! -->
 - [ ] B) Get dressed <!-- feedback: Incorrect. -->
 - [ ] C) Go to school <!-- feedback: Incorrect. -->

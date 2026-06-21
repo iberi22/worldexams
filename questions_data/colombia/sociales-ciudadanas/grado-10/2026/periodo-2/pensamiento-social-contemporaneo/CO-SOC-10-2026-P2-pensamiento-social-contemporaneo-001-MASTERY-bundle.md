@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-10-2026-P2-pensamiento-social-contemporaneo-001-MASTERY"
+id: "CO-SOC-10-2026-P2-pensamiento-social-contemporaneo-001-MASTERY-bundle"
 country: "colombia"
 grado: 10
 asignatura: "sociales-ciudadanas"
@@ -12,7 +12,14 @@ alignment: "DBA MEN Grado 10 + Pre-ICFES Saber 11"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "pensamiento_social_contemporaneo, marxismo, escuela_frankfurt, biopoder, multiculturalismo, feminismo, globalizacion"
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Pensamiento Social Contemporáneo — Grado 10
 
@@ -26,12 +33,12 @@ Bundle de 15 preguntas sobre pensamiento social contemporáneo, alineado con DBA
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 
-**Context:** En clase de ciencias sociales en el Colegio INEM de Pasto, el profesor explica las corrientes del pensamiento social contemporáneo.
+**Contexto:** En clase de ciencias sociales en el Colegio INEM de Pasto, el profesor explica las corrientes del pensamiento social contemporáneo.
 
 ### Enunciado
 La teoría marxista sostiene que el motor de la historia es:
 
-### Options
+### Opciones
 - [ ] A) El avance de la tecnología y la ciencia. <!-- feedback: Incorrecto. Aunque el marxismo reconoce el papel de la tecnología, no la considera el motor principal de la historia. -->
 - [x] B) La lucha de clases entre opresores y oprimidos. <!-- feedback: Correcto. Para Marx, la historia de todas las sociedades es la historia de la lucha de clases: esclavos contra amos, siervos contra señores, proletarios contra burgueses. -->
 - [ ] C) Las ideas de los grandes pensadores y filósofos. <!-- feedback: Incorrecto. Marx criticaba el idealismo hegeliano y proponía una visión materialista de la historia. -->
@@ -48,12 +55,12 @@ El materialismo histórico de Marx sostiene que las condiciones materiales de pr
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 
-**Context:** En clase se estudia la Escuela de Frankfurt y la teoría crítica.
+**Contexto:** En clase se estudia la Escuela de Frankfurt y la teoría crítica.
 
 ### Enunciado
 La Escuela de Frankfurt desarrolló la "teoría crítica", cuyo objetivo principal es:
 
-### Options
+### Opciones
 - [ ] A) Describir objetivamente los hechos sociales sin juzgarlos. <!-- feedback: Incorrecto. La teoría crítica rechaza la neutralidad valorativa del positivismo. -->
 - [ ] B) Defender el capitalismo como el mejor sistema económico. <!-- feedback: Incorrecto. La Escuela de Frankfurt fue crítica del capitalismo y de la sociedad de consumo. -->
 - [x] C) Analizar la sociedad para identificar las formas de dominación y proponer su transformación hacia una sociedad más justa y libre. <!-- feedback: Correcto. La teoría crítica busca no solo entender la realidad sino transformarla, emancipando a los sujetos de las estructuras de opresión. -->
@@ -70,12 +77,12 @@ La teoría crítica (Horkheimer, Adorno, Marcuse, Habermas) se diferencia del po
 **Bloom:** Understand
 **ICFES:** Interpretación y análisis de perspectivas
 
-**Context:** Max Weber escribió "La ética protestante y el espíritu del capitalismo".
+**Contexto:** Max Weber escribió "La ética protestante y el espíritu del capitalismo".
 
 ### Enunciado
 Para Weber, la relación entre la ética protestante y el capitalismo es que:
 
-### Options
+### Opciones
 - [ ] A) El protestantismo prohibió el comercio y la banca. <!-- feedback: Incorrecto. Weber no afirmó eso; al contrario, relacionó ciertas éticas protestantes con el desarrollo capitalista. -->
 - [ ] B) No existe relación alguna entre religión y economía. <!-- feedback: Incorrecto. Weber dedica todo un libro a demostrar que sí existe una relación. -->
 - [x] C) La ética del trabajo y la disciplina del protestantismo calvinista crearon condiciones culturales favorables para el desarrollo del capitalismo moderno. <!-- feedback: Correcto. Weber argumenta que la idea calvinista de la predestinación llevó a los creyentes a buscar señales de salvación en el éxito económico, fomentando la acumulación y el trabajo disciplinado. -->
@@ -92,12 +99,12 @@ Weber ofrece una explicación complementaria al marxismo: no solo la economía d
 **Bloom:** Understand
 **ICFES:** Interpretación y análisis de perspectivas
 
-**Context:** Michel Foucault desarrolló el concepto de "biopoder".
+**Contexto:** Michel Foucault desarrolló el concepto de "biopoder".
 
 ### Enunciado
 El "biopoder" en Foucault se refiere a:
 
-### Options
+### Opciones
 - [ ] A) El poder que ejercen los médicos sobre sus pacientes. <!-- feedback: Incorrecto. El biopoder es más amplio que la relación médico-paciente, aunque incluye la medicina como institución. -->
 - [ ] B) El poder biológico de los seres humanos sobre la naturaleza. <!-- feedback: Incorrecto. Foucault no habla de poder humano sobre la naturaleza, sino del poder estatal sobre la vida de las poblaciones. -->
 - [x] C) La forma de poder que se ejerce sobre la vida de las poblaciones, regulando la natalidad, la salud, la mortalidad y las condiciones de vida. <!-- feedback: Correcto. Foucault describe cómo el Estado moderno administra la vida biológica de la población mediante políticas de salud, educación, vivienda y control demográfico. -->
@@ -114,12 +121,12 @@ Foucault muestra cómo el poder moderno no solo prohíbe o reprime, sino que tam
 **Bloom:** Apply
 **ICFES:** Pensamiento social
 
-**Context:** En Colombia, el SISBÉN clasifica a la población según su nivel socioeconómico para asignar subsidios estatales.
+**Contexto:** En Colombia, el SISBÉN clasifica a la población según su nivel socioeconómico para asignar subsidios estatales.
 
 ### Enunciado
 Desde la perspectiva foucaultiana, el SISBÉN es un ejemplo de:
 
-### Options
+### Opciones
 - [ ] A) Democracia participativa. <!-- feedback: Incorrecto. El SISBÉN no es un mecanismo de participación sino de clasificación y gestión poblacional. -->
 - [x] B) Biopolítica: una tecnología de poder que clasifica y administra a la población para optimizar su gestión. <!-- feedback: Correcto. El SISBÉN categoriza a las personas para aplicar políticas diferenciales, un claro ejemplo de cómo el Estado administra la vida de la población. -->
 - [ ] C) Liberalismo económico. <!-- feedback: Incorrecto. Aunque tiene efectos económicos, su función principal es la gestión biopolítica de la población. -->
@@ -136,12 +143,12 @@ Foucault ayuda a entender que el poder no solo actúa mediante leyes y prohibici
 **Bloom:** Apply
 **ICFES:** Interpretación y análisis de perspectivas
 
-**Context:** La teoría poscolonial y decolonial (Fanon, Said, Quijano, Mignolo) critica la herencia del colonialismo en las sociedades actuales.
+**Contexto:** La teoría poscolonial y decolonial (Fanon, Said, Quijano, Mignolo) critica la herencia del colonialismo en las sociedades actuales.
 
 ### Enunciado
 El concepto de "colonialidad del poder" (Aníbal Quijano) se refiere a:
 
-### Options
+### Opciones
 - [ ] A) El poder que tenían los colonizadores españoles en el siglo XVI. <!-- feedback: Incorrecto. Quijano no habla solo del pasado colonial, sino de estructuras que persisten hoy. -->
 - [ ] B) La independencia total de las colonias respecto a sus metrópolis. <!-- feedback: Incorrecto. Quijano muestra que las independencias políticas no eliminaron las estructuras coloniales de poder. -->
 - [x] C) Las estructuras de poder, conocimiento y jerarquías raciales que el colonialismo instauró y que continúan vigentes después de la independencia política. <!-- feedback: Correcto. La colonialidad es el patrón de poder que clasifica a las personas según su raza, género y origen, y que persiste en las sociedades latinoamericanas actuales. -->
@@ -158,12 +165,12 @@ La teoría decolonial es fundamental para entender las desigualdades en Colombia
 **Bloom:** Analyze
 **ICFES:** Interpretación y análisis de perspectivas
 
-**Context:** Texto: "El feminismo de la tercera ola (Butler, hooks, Segato) critica el feminismo de la segunda ola por haber representado principalmente las experiencias de mujeres blancas, occidentales y de clase media, invisibilizando otras realidades."
+**Contexto:** Texto: "El feminismo de la tercera ola (Butler, hooks, Segato) critica el feminismo de la segunda ola por haber representado principalmente las experiencias de mujeres blancas, occidentales y de clase media, invisibilizando otras realidades."
 
 ### Enunciado
 El "feminismo interseccional" propone:
 
-### Options
+### Opciones
 - [ ] A) Que todas las mujeres tienen las mismas experiencias de opresión independientemente de su raza o clase. <!-- feedback: Incorrecto. El feminismo interseccional critica precisamente esa generalización. -->
 - [x] B) Analizar cómo las distintas formas de opresión (género, raza, clase, orientación sexual) se entrelazan y producen experiencias únicas de discriminación. <!-- feedback: Correcto. Kimberlé Crenshaw acuñó el término para mostrar que una mujer negra y pobre experimenta el sexismo de manera diferente a una mujer blanca y rica. -->
 - [ ] C) Que el feminismo debe abandonar la lucha por la igualdad de género. <!-- feedback: Incorrecto. La interseccionalidad enriquece la lucha feminista, no la abandona. -->
@@ -180,12 +187,12 @@ El feminismo interseccional es particularmente relevante en Colombia, donde las 
 **Bloom:** Analyze
 **ICFES:** Interpretación y análisis de perspectivas
 
-**Context:** La Constitución colombiana de 1991 reconoce la diversidad étnica y cultural de la nación (artículos 7, 10, 63, 246, 329 y 330).
+**Contexto:** La Constitución colombiana de 1991 reconoce la diversidad étnica y cultural de la nación (artículos 7, 10, 63, 246, 329 y 330).
 
 ### Enunciado
 Este reconocimiento constitucional se alinea con el pensamiento de:
 
-### Options
+### Opciones
 - [ ] A) El liberalismo clásico de Locke, que defiende la propiedad privada individual. <!-- feedback: Incorrecto. La diversidad cultural no es el foco del liberalismo clásico, que prioriza derechos individuales sobre colectivos. -->
 - [ ] B) El marxismo ortodoxo, que supedita la cultura a la lucha de clases. <!-- feedback: Incorrecto. El marxismo clásico tiende a subordinar las diferencias culturales a la contradicción económica. -->
 - [x] C) El multiculturalismo y la filosofía del reconocimiento (Taylor, Kymlicka, Fraser), que defienden los derechos colectivos de grupos culturales y minorías. <!-- feedback: Correcto. Charles Taylor y Will Kymlicka argumentan que el reconocimiento de la identidad cultural es una necesidad humana fundamental y que los grupos minoritarios requieren derechos especiales. -->
@@ -202,12 +209,12 @@ La Constitución de 1991 fue pionera en América Latina al reconocer a Colombia 
 **Bloom:** Apply
 **ICFES:** Pensamiento social
 
-**Context:** En la Guajira colombiana, comunidades wayúu aplican su propio sistema de justicia para resolver conflictos internos, basado en la figura del "palabrero".
+**Contexto:** En la Guajira colombiana, comunidades wayúu aplican su propio sistema de justicia para resolver conflictos internos, basado en la figura del "palabrero".
 
 ### Enunciado
 Esta práctica se relaciona con el concepto de:
 
-### Options
+### Opciones
 - [ ] A) Soberanía nacional, porque la justicia wayúu depende del gobierno central. <!-- feedback: Incorrecto. La justicia wayúu es autónoma del gobierno central. -->
 - [x] B) Pluralismo jurídico, que reconoce la coexistencia de múltiples sistemas normativos dentro de un mismo Estado. <!-- feedback: Correcto. El pluralismo jurídico reconoce que las comunidades indígenas tienen sus propias autoridades y sistemas de justicia, siempre que no violen derechos fundamentales. -->
 - [ ] C) Estado de derecho liberal, que exige un único sistema judicial para todos. <!-- feedback: Incorrecto. El Estado de derecho liberal clásico es monista; el pluralismo jurídico es una evolución que reconoce la diversidad cultural. -->
@@ -224,12 +231,12 @@ La Constitución de 1991 (artículo 246) reconoce la jurisdicción especial ind�
 **Bloom:** Analyze
 **ICFES:** Pensamiento reflexivo y sistémico
 
-**Context:** "La globalización ha intensificado la interconexión económica, política y cultural entre países. Sin embargo, teóricos como Boaventura de Sousa Santos señalan que la globalización también produce 'líneas abismales' que excluyen a grandes poblaciones de los beneficios del sistema global."
+**Contexto:** "La globalización ha intensificado la interconexión económica, política y cultural entre países. Sin embargo, teóricos como Boaventura de Sousa Santos señalan que la globalización también produce 'líneas abismales' que excluyen a grandes poblaciones de los beneficios del sistema global."
 
 ### Enunciado
 El concepto de "líneas abismales" en Santos se refiere a:
 
-### Options
+### Opciones
 - [ ] A) Las fronteras geográficas entre países ricos y pobres. <!-- feedback: Incorrecto. Santos no habla de fronteras geográficas sino de exclusiones epistemológicas y sociales. -->
 - [ ] B) La división entre los países que globalizan y los que son globalizados. <!-- feedback: Incorrecto. Aunque se aproxima, el concepto de Santos es más profundo: no es solo económico sino ontológico. -->
 - [x] C) La división invisible que separa a las poblaciones consideradas 'humanas' (con derechos) de aquellas consideradas 'subhumanas' (cuyos conocimientos, vidas y derechos no son reconocidos). <!-- feedback: Correcto. Santos denuncia que el pensamiento occidental moderno crea una línea que invalida los conocimientos y experiencias de quienes están 'al otro lado', como pueblos indígenas, afrodescendientes y campesinos. -->
@@ -246,12 +253,12 @@ Boaventura de Sousa Santos, sociólogo portugués, propone que la globalización
 **Bloom:** Analyze
 **ICFES:** Pensamiento reflexivo y sistémico
 
-**Context:** "Zygmunt Bauman acuñó el término 'modernidad líquida' para describir la sociedad contemporánea, caracterizada por la fragilidad de los vínculos humanos y la inmediatez de las relaciones."
+**Contexto:** "Zygmunt Bauman acuñó el término 'modernidad líquida' para describir la sociedad contemporánea, caracterizada por la fragilidad de los vínculos humanos y la inmediatez de las relaciones."
 
 ### Enunciado
 Aplicando el concepto de Bauman a la realidad colombiana, ¿cuál de las siguientes situaciones ejemplifica mejor la "modernidad líquida"?
 
-### Options
+### Opciones
 - [ ] A) La estabilidad laboral de los empleados públicos que trabajan toda su vida en la misma entidad. <!-- feedback: Incorrecto. La estabilidad laboral de por vida es propia de la "modernidad sólida", no de la líquida. -->
 - [ ] B) La persistencia de tradiciones culturales indígenas que se mantienen inalteradas por siglos. <!-- feedback: Incorrecto. Bauman describe precisamente la erosión de las tradiciones estables. -->
 - [x] C) La precarización del trabajo joven: contratos temporales, trabajos por aplicaciones como Rappi o Uber, sin estabilidad ni prestaciones sociales. <!-- feedback: Correcto. Bauman describe cómo en la modernidad líquida los trabajos son flexibles, temporales y precarios, sin la seguridad del empleo de por vida. -->
@@ -268,12 +275,12 @@ La "modernidad líquida" de Bauman describe una sociedad donde todo fluye: el tr
 **Bloom:** Evaluate
 **ICFES:** Pensamiento reflexivo y sistémico
 
-**Context:** La Cumbre Agraria, Campesina, Étnica y Popular de 2014 reunió a diversos movimientos sociales colombianos: indígenas, afrocolombianos, campesinos, trabajadores y estudiantes.
+**Contexto:** La Cumbre Agraria, Campesina, Étnica y Popular de 2014 reunió a diversos movimientos sociales colombianos: indígenas, afrocolombianos, campesinos, trabajadores y estudiantes.
 
 ### Enunciado
 Desde la perspectiva de la teoría de los movimientos sociales (Tarrow, Touraine), esta articulación de diversos grupos representa:
 
-### Options
+### Opciones
 - [ ] A) Un fracaso de la democracia representativa. <!-- feedback: Incorrecto. La articulación de movimientos no es un fracaso democrático sino una expresión de democracia participativa. -->
 - [ ] B) Una conspiración contra el Estado colombiano. <!-- feedback: Incorrecto. Es una visión sesgada que no reconoce la legitimidad de la protesta social. -->
 - [x] C) Un "marco de acción colectiva" que unifica demandas diversas bajo un mismo repertorio de protesta, aumentando su capacidad de presión política. <!-- feedback: Correcto. Tarrow explica que los movimientos sociales exitosos logran "enmarcar" sus demandas de manera que distintos grupos se identifiquen con una causa común. -->
@@ -290,12 +297,12 @@ La teoría de los movimientos sociales (Charles Tilly, Sidney Tarrow, Alain Tour
 **Bloom:** Evaluate
 **ICFES:** Pensamiento reflexivo y sistémico
 
-**Context:** "Byung-Chul Han, filósofo coreano-alemán, critica la sociedad del rendimiento contemporánea, donde las personas se explotan a sí mismas buscando la 'optimización' permanente. Han sostiene que el capitalismo actual ya no necesita la disciplina externa (como la fábrica de Foucault) porque los individuos se autoexplotan voluntariamente buscando éxito y reconocimiento."
+**Contexto:** "Byung-Chul Han, filósofo coreano-alemán, critica la sociedad del rendimiento contemporánea, donde las personas se explotan a sí mismas buscando la 'optimización' permanente. Han sostiene que el capitalismo actual ya no necesita la disciplina externa (como la fábrica de Foucault) porque los individuos se autoexplotan voluntariamente buscando éxito y reconocimiento."
 
 ### Enunciado
 Aplicando esta crítica a la realidad colombiana, ¿qué situación refleja mejor la "autoexplotación" descrita por Han?
 
-### Options
+### Opciones
 - [ ] A) Un trabajador que es obligado por su jefe a trabajar horas extras sin pago. <!-- feedback: Incorrecto. Esa es explotación tradicional (heteroexplotación), no autoexplotación voluntaria. -->
 - [x] B) Un joven profesional que trabaja 14 horas diarias, revisa correos los fines de semana y sacrifica su salud mental porque cree que "debe dar el 110%" para tener éxito en un mercado laboral competitivo. <!-- feedback: Correcto. Han describe cómo los individuos interiorizan la presión del rendimiento y se autoexplotan sin un jefe externo, buscando optimización y éxito constante. -->
 - [ ] C) Un campesino desplazado que debe trabajar en cultivos ilícitos para sobrevivir. <!-- feedback: Incorrecto. Es una situación de supervivencia forzada, no de autoexplotación voluntaria por éxito personal. -->
@@ -312,12 +319,12 @@ Byung-Chul Han actualiza la crítica de la Escuela de Frankfurt para el siglo XX
 **Bloom:** Evaluate
 **ICFES:** Pensamiento reflexivo y sistémico
 
-**Context:** "La teoría del 'giro decolonial' (Mignolo, Walsh, Castro-Gómez) propone que el conocimiento producido desde la experiencia colonial latinoamericana debe ser el punto de partida para construir teorías y prácticas emancipatorias, en lugar de importar teorías europeas."
+**Contexto:** "La teoría del 'giro decolonial' (Mignolo, Walsh, Castro-Gómez) propone que el conocimiento producido desde la experiencia colonial latinoamericana debe ser el punto de partida para construir teorías y prácticas emancipatorias, en lugar de importar teorías europeas."
 
 ### Enunciado
 Si un grupo de estudiantes colombianos decide investigar los saberes tradicionales de las parteras afrocolombianas del Chocó para reivindicarlos como conocimiento científico válido, estarían aplicando:
 
-### Options
+### Opciones
 - [ ] A) El positivismo de Comte, que valida solo el conocimiento científico europeo. <!-- feedback: Incorrecto. El positivismo precisamente excluye los saberes tradicionales como no científicos. -->
 - [ ] B) El marxismo ortodoxo, que privilegia el conocimiento del proletariado industrial. <!-- feedback: Incorrecto. Las parteras afrocolombianas no son proletariado industrial. -->
 - [x] C) La "ecología de saberes" de Boaventura de Sousa Santos, que propone un diálogo horizontal entre conocimientos científicos y tradicionales. <!-- feedback: Correcto. Santos propone reconocer la validez de saberes no occidentales y establecer diálogos entre ellos y la ciencia moderna. -->
@@ -334,12 +341,12 @@ La "ecología de saberes" es una propuesta epistemológica que combate el "epist
 **Bloom:** Evaluate
 **ICFES:** Pensamiento reflexivo y sistémico
 
-**Context:** "El Acuerdo de Paz de 2016 creó la Comisión de la Verdad, cuyo informe final de 2022 titulado 'Hay futuro si hay verdad' analizó las causas del conflicto armado colombiano desde múltiples perspectivas: económicas, políticas, culturales y sociales."
+**Contexto:** "El Acuerdo de Paz de 2016 creó la Comisión de la Verdad, cuyo informe final de 2022 titulado 'Hay futuro si hay verdad' analizó las causas del conflicto armado colombiano desde múltiples perspectivas: económicas, políticas, culturales y sociales."
 
 ### Enunciado
 El enfoque de la Comisión de la Verdad, que incluyó testimonios de víctimas, análisis académicos, perspectivas de género y enfoque étnico, refleja mejor el pensamiento de:
 
-### Options
+### Opciones
 - [ ] A) Auguste Comte y el positivismo, que defiende un método único para conocer la verdad social. <!-- feedback: Incorrecto. La Comisión no usó un método único positivista sino múltiples enfoques. -->
 - [ ] B) Karl Marx, que reduce todas las causas del conflicto a la lucha de clases. <!-- feedback: Incorrecto. Aunque las causas económicas son parte del análisis, la Comisión no las redujo todo a la lucha de clases. -->
 - [x] C) La epistemología feminista y decolonial (Haraway, Harding, Santos), que defiende el "conocimiento situado" y la validez de múltiples perspectivas para comprender realidades complejas. <!-- feedback: Correcto. Donna Haraway propone que todo conocimiento es situado (desde un lugar específico), no universal. La Comisión de la Verdad recogió múltiples conocimientos situados: víctimas, académicos, comunidades étnicas, mujeres. -->

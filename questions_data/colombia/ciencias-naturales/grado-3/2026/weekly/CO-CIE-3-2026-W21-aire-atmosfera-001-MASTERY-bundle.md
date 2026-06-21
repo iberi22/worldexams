@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W21-aire-atmosfera-001-MASTERY"
+id: "CO-CIE-3-2026-W21-aire-atmosfera-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "aire-atmosfera"
-semana: "W21"
+week: "W21"
 periodo: 3
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "El aire y la atmósfera: composición, importancia para la vid
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # El Aire que nos Rodea
 
 Este bundle profundiza en el conocimiento del aire como una mezcla de gases vital y la atmósfera como la capa protectora de la Tierra.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W21-aire-atmosfera-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la escuela, los niños aprenden que el aire no es un solo gas, sino una mezcla de varios.
+**Contexto:** En la escuela, los niños aprenden que el aire no es un solo gas, sino una mezcla de varios.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ El aire es mayormente nitrógeno. Aunque los humanos necesitamos el oxígeno par
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W21-aire-atmosfera-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Si inflas un balón de fútbol, notas que se vuelve duro y pesado.
+**Contexto:** Si inflas un balón de fútbol, notas que se vuelve duro y pesado.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -73,12 +77,12 @@ Muchas personas creen que el aire no pesa nada porque no lo vemos. Pero al compr
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W21-aire-atmosfera-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** La atmósfera se divide en varias capas. La más baja es donde vivimos y donde ocurren las lluvias.
+**Contexto:** La atmósfera se divide en varias capas. La más baja es donde vivimos y donde ocurren las lluvias.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ La troposfera es nuestro hogar. Tiene el aire que respiramos y el vapor de agua 
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W21-aire-atmosfera-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Un buzo baja a lo profundo del mar llevando un tanque metálico con aire comprimido.
+**Contexto:** Un buzo baja a lo profundo del mar llevando un tanque metálico con aire comprimido.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -123,12 +127,12 @@ A diferencia de los sólidos o líquidos, los gases tienen mucho espacio entre s
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W21-aire-atmosfera-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Mariana enciende una vela y luego la tapa con un vaso de vidrio. Después de unos segundos, la vela se apaga sola.
+**Contexto:** Mariana enciende una vela y luego la tapa con un vaso de vidrio. Después de unos segundos, la vela se apaga sola.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -148,12 +152,12 @@ El oxígeno no solo es necesario para que nosotros respiremos, también es neces
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W21-aire-atmosfera-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Los aviones vuelan muy alto, por encima de las nubes de tormenta, donde el aire es más delgado y hay menos resistencia.
+**Contexto:** Los aviones vuelan muy alto, por encima de las nubes de tormenta, donde el aire es más delgado y hay menos resistencia.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -173,12 +177,12 @@ La gravedad mantiene al aire "pegado" al suelo. Por eso cerca del mar hay mucho 
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W21-aire-atmosfera-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** La capa de ozono es como un escudo invisible que protege a los colombianos y a toda la gente del mundo.
+**Contexto:** La capa de ozono es como un escudo invisible que protege a los colombianos y a toda la gente del mundo.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -198,12 +202,12 @@ Sin la capa de ozono, la vida en la Tierra sería imposible. El sol enviaría ra
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W21-aire-atmosfera-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** En una ciudad con mucha contaminación, el aire se siente pesado, huele mal y los edificios se ven grises por el humo.
+**Contexto:** En una ciudad con mucha contaminación, el aire se siente pesado, huele mal y los edificios se ven grises por el humo.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -223,12 +227,12 @@ La contaminación del aire es un problema de salud pública. Al quemar combustib
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W21-aire-atmosfera-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Las plantas realizan un intercambio de gases durante el día. Absorben CO2 y liberan oxígeno.
+**Contexto:** Las plantas realizan un intercambio de gases durante el día. Absorben CO2 y liberan oxígeno.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -248,12 +252,12 @@ Los bosques son los "pulmones" de la Tierra porque reciclan el aire. Lo que para
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W21-aire-atmosfera-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un científico propone crear una ciudad dentro de una burbuja de vidrio gigante porque el aire afuera está muy sucio.
+**Contexto:** Un científico propone crear una ciudad dentro de una burbuja de vidrio gigante porque el aire afuera está muy sucio.
 **Expected_Success:** 0.55
 
 ### Enunciado

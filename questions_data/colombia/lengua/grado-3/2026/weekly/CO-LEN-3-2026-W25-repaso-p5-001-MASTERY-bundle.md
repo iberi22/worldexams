@@ -1,10 +1,10 @@
 ---
-id: "CO-LEN-3-2026-W25-repaso-p5-001-MASTERY"
+id: "CO-LEN-3-2026-W25-repaso-p5-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua"
 tema: "repaso-p5"
-semana: "W25"
+week: "W25"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -15,7 +15,12 @@ distractor_profile: "plausible_peer_set"
 rubric_baseline: "Repaso P5 - Grado 3"
 license: "FREE"
 
+bundle_type: "weekly"
+total_questions: 8
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Repaso P5 - Grado 3
 
@@ -25,7 +30,7 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ---
 
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 **ID:** `CO-LEN-3-2026-W25-repaso-p5-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -36,21 +41,20 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 Carlos pregunta sobre repaso p5. ¿Qué es correcto?
 
 ### Opciones
-- [x] A) La opción A describe correctamente el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) La opción B es falsa
-  <!-- feedback: Incorrecto. -->
-- [ ] C) La opción C no se relaciona
-  <!-- feedback: Incorrecto. -->
-- [ ] D) Ninguna
-  <!-- feedback: Hay una correcta. -->
+- [x] A) La opción A describe correctamente el tema <!-- feedback: Correcto! La opción A describe correctamente el tema -->
+
+- [ ] B) La opción B es falsa <!-- feedback: Incorrecto. La opción B es falsa -->
+
+- [ ] C) La opción C no se relaciona <!-- feedback: Incorrecto. La opción C no se relaciona -->
+
+- [ ] D) Ninguna <!-- feedback: Incorrecto. Ninguna -->
 
 ### Explicación Pedagógica
 Repaso P5 es contenido de Lengua Castellana para grado 3.
 
 ---
 
-## Pregunta 2 [D2]
+## Question 2 [D2]
 **ID:** `CO-LEN-3-2026-W25-repaso-p5-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -61,21 +65,20 @@ Repaso P5 es contenido de Lengua Castellana para grado 3.
 Sofía pregunta sobre repaso p5. ¿Qué es correcto?
 
 ### Opciones
-- [x] A) La opción A describe correctamente el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) La opción B es falsa
-  <!-- feedback: Incorrecto. -->
-- [ ] C) La opción C no se relaciona
-  <!-- feedback: Incorrecto. -->
-- [ ] D) Ninguna
-  <!-- feedback: Hay una correcta. -->
+- [x] A) La opción A describe correctamente el tema <!-- feedback: Correcto! La opción A describe correctamente el tema -->
+
+- [ ] B) La opción B es falsa <!-- feedback: Incorrecto. La opción B es falsa -->
+
+- [ ] C) La opción C no se relaciona <!-- feedback: Incorrecto. La opción C no se relaciona -->
+
+- [ ] D) Ninguna <!-- feedback: Incorrecto. Ninguna -->
 
 ### Explicación Pedagógica
 Repaso P5 es contenido de Lengua Castellana para grado 3.
 
 ---
 
-## Pregunta 3 [D3]
+## Question 3 [D3]
 **ID:** `CO-LEN-3-2026-W25-repaso-p5-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Comunicación Escrita
@@ -86,21 +89,20 @@ Repaso P5 es contenido de Lengua Castellana para grado 3.
 Santiago pregunta sobre repaso p5. ¿Qué es correcto?
 
 ### Opciones
-- [x] A) La opción A describe correctamente el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) La opción B es falsa
-  <!-- feedback: Incorrecto. -->
-- [ ] C) La opción C no se relaciona
-  <!-- feedback: Incorrecto. -->
-- [ ] D) Ninguna
-  <!-- feedback: Hay una correcta. -->
+- [x] A) La opción A describe correctamente el tema <!-- feedback: Correcto! La opción A describe correctamente el tema -->
+
+- [ ] B) La opción B es falsa <!-- feedback: Incorrecto. La opción B es falsa -->
+
+- [ ] C) La opción C no se relaciona <!-- feedback: Incorrecto. La opción C no se relaciona -->
+
+- [ ] D) Ninguna <!-- feedback: Incorrecto. Ninguna -->
 
 ### Explicación Pedagógica
 Repaso P5 es contenido de Lengua Castellana para grado 3.
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEN-3-2026-W25-repaso-p5-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -111,21 +113,20 @@ Repaso P5 es contenido de Lengua Castellana para grado 3.
 Isabella pregunta sobre repaso p5. ¿Qué es correcto?
 
 ### Opciones
-- [x] A) La opción A describe correctamente el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) La opción B es falsa
-  <!-- feedback: Incorrecto. -->
-- [ ] C) La opción C no se relaciona
-  <!-- feedback: Incorrecto. -->
-- [ ] D) Ninguna
-  <!-- feedback: Hay una correcta. -->
+- [x] A) La opción A describe correctamente el tema <!-- feedback: Correcto! La opción A describe correctamente el tema -->
+
+- [ ] B) La opción B es falsa <!-- feedback: Incorrecto. La opción B es falsa -->
+
+- [ ] C) La opción C no se relaciona <!-- feedback: Incorrecto. La opción C no se relaciona -->
+
+- [ ] D) Ninguna <!-- feedback: Incorrecto. Ninguna -->
 
 ### Explicación Pedagógica
 Repaso P5 es contenido de Lengua Castellana para grado 3.
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEN-3-2026-W25-repaso-p5-001-MASTERY-v5`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -136,21 +137,20 @@ Repaso P5 es contenido de Lengua Castellana para grado 3.
 Valentina pregunta sobre repaso p5. ¿Qué es correcto?
 
 ### Opciones
-- [x] A) La opción A describe correctamente el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) La opción B es falsa
-  <!-- feedback: Incorrecto. -->
-- [ ] C) La opción C no se relaciona
-  <!-- feedback: Incorrecto. -->
-- [ ] D) Ninguna
-  <!-- feedback: Hay una correcta. -->
+- [x] A) La opción A describe correctamente el tema <!-- feedback: Correcto! La opción A describe correctamente el tema -->
+
+- [ ] B) La opción B es falsa <!-- feedback: Incorrecto. La opción B es falsa -->
+
+- [ ] C) La opción C no se relaciona <!-- feedback: Incorrecto. La opción C no se relaciona -->
+
+- [ ] D) Ninguna <!-- feedback: Incorrecto. Ninguna -->
 
 ### Explicación Pedagógica
 Repaso P5 es contenido de Lengua Castellana para grado 3.
 
 ---
 
-## Pregunta 6 [D2-D3]
+## Question 6 [D2-D3]
 **ID:** `CO-LEN-3-2026-W25-repaso-p5-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Comunicación Escrita
@@ -161,21 +161,20 @@ Repaso P5 es contenido de Lengua Castellana para grado 3.
 Andrés pregunta sobre repaso p5. ¿Qué es correcto?
 
 ### Opciones
-- [x] A) La opción A describe correctamente el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) La opción B es falsa
-  <!-- feedback: Incorrecto. -->
-- [ ] C) La opción C no se relaciona
-  <!-- feedback: Incorrecto. -->
-- [ ] D) Ninguna
-  <!-- feedback: Hay una correcta. -->
+- [x] A) La opción A describe correctamente el tema <!-- feedback: Correcto! La opción A describe correctamente el tema -->
+
+- [ ] B) La opción B es falsa <!-- feedback: Incorrecto. La opción B es falsa -->
+
+- [ ] C) La opción C no se relaciona <!-- feedback: Incorrecto. La opción C no se relaciona -->
+
+- [ ] D) Ninguna <!-- feedback: Incorrecto. Ninguna -->
 
 ### Explicación Pedagógica
 Repaso P5 es contenido de Lengua Castellana para grado 3.
 
 ---
 
-## Pregunta 7 [D3-D4]
+## Question 7 [D3-D4]
 **ID:** `CO-LEN-3-2026-W25-repaso-p5-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -186,21 +185,20 @@ Repaso P5 es contenido de Lengua Castellana para grado 3.
 Sofía pregunta sobre repaso p5. ¿Qué es correcto?
 
 ### Opciones
-- [x] A) La opción A describe correctamente el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) La opción B es falsa
-  <!-- feedback: Incorrecto. -->
-- [ ] C) La opción C no se relaciona
-  <!-- feedback: Incorrecto. -->
-- [ ] D) Ninguna
-  <!-- feedback: Hay una correcta. -->
+- [x] A) La opción A describe correctamente el tema <!-- feedback: Correcto! La opción A describe correctamente el tema -->
+
+- [ ] B) La opción B es falsa <!-- feedback: Incorrecto. La opción B es falsa -->
+
+- [ ] C) La opción C no se relaciona <!-- feedback: Incorrecto. La opción C no se relaciona -->
+
+- [ ] D) Ninguna <!-- feedback: Incorrecto. Ninguna -->
 
 ### Explicación Pedagógica
 Repaso P5 es contenido de Lengua Castellana para grado 3.
 
 ---
 
-## Pregunta 8 [D4-D5]
+## Question 8 [D4-D5]
 **ID:** `CO-LEN-3-2026-W25-repaso-p5-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -211,14 +209,13 @@ Repaso P5 es contenido de Lengua Castellana para grado 3.
 Valentina pregunta sobre repaso p5. ¿Qué es correcto?
 
 ### Opciones
-- [x] A) La opción A describe correctamente el tema
-  <!-- feedback: Correcto! -->
-- [ ] B) La opción B es falsa
-  <!-- feedback: Incorrecto. -->
-- [ ] C) La opción C no se relaciona
-  <!-- feedback: Incorrecto. -->
-- [ ] D) Ninguna
-  <!-- feedback: Hay una correcta. -->
+- [x] A) La opción A describe correctamente el tema <!-- feedback: Correcto! La opción A describe correctamente el tema -->
+
+- [ ] B) La opción B es falsa <!-- feedback: Incorrecto. La opción B es falsa -->
+
+- [ ] C) La opción C no se relaciona <!-- feedback: Incorrecto. La opción C no se relaciona -->
+
+- [ ] D) Ninguna <!-- feedback: Incorrecto. Ninguna -->
 
 ### Explicación Pedagógica
 Repaso P5 es contenido de Lengua Castellana para grado 3.

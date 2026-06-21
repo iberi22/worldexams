@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W31-textos-teatrales-001-MASTERY"
+id: "CO-LEC-3-2026-W31-textos-teatrales-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 31
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Teatrales
 
@@ -25,6 +30,7 @@ Este bundle evalúa la comprensión de textos dramáticos, identificando persona
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Fragmento de "La Fiesta en el Bosque"**
@@ -34,7 +40,7 @@ Este bundle evalúa la comprensión de textos dramáticos, identificando persona
 ### Enunciado
 ¿Cuál es el nombre del personaje que entra a escena con una cesta de nueces?
 
-### Options
+### Opciones
 - [ ] A) Conejo. <!-- feedback: Incorrecto. El Conejo es quien ya estaba allí saltando. -->
 - [x] B) Ardilla. <!-- feedback: ¡Correcto! El texto indica que es la Ardilla quien entra con la comida. -->
 - [ ] C) Bosque. <!-- feedback: Incorrecto. El Bosque es el nombre del lugar o de la obra, no de un personaje que habla. -->
@@ -50,6 +56,7 @@ Identificar a los personajes en un guion teatral es el nivel básico de comprens
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En los textos teatrales, a menudo aparecen frases entre paréntesis como: **(Se apaga la luz y suena un trueno)** o **(Camina muy despacio hacia la puerta)**.
@@ -57,7 +64,7 @@ En los textos teatrales, a menudo aparecen frases entre paréntesis como: **(Se 
 ### Enunciado
 ¿Cómo se llaman estas indicaciones que no se dicen en voz alta, sino que sirven para explicar las acciones o el ambiente?
 
-### Options
+### Opciones
 - [ ] A) Títulos. <!-- feedback: Incorrecto. El título nombra la obra. -->
 - [ ] B) Diálogos. <!-- feedback: Incorrecto. Los diálogos son lo que los personajes sí dicen. -->
 - [x] C) Acotaciones. <!-- feedback: ¡Correcto! Las acotaciones son las instrucciones del autor para los actores y el director. -->
@@ -73,6 +80,7 @@ Diferenciar entre el diálogo y la acotación es fundamental para leer teatro. E
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **LOBO:** (Susurrando) Me esconderé detrás de este arbusto para darles un susto.
@@ -81,7 +89,7 @@ Diferenciar entre el diálogo y la acotación es fundamental para leer teatro. E
 ### Enunciado
 ¿Por qué el Cerdito dice que hace un buen día según el texto?
 
-### Options
+### Opciones
 - [ ] A) Porque vio al lobo y quiere engañarlo. <!-- feedback: Incorrecto. La acotación dice "Sin ver al lobo". -->
 - [ ] B) Porque el lobo se lo dijo primero. <!-- feedback: Incorrecto. El lobo estaba susurrando escondido. -->
 - [x] C) Porque está tranquilo y no sabe que hay un peligro cerca. <!-- feedback: ¡Correcto! El diálogo del Cerdito muestra su inocencia frente al plan del lobo. -->
@@ -97,6 +105,7 @@ Relacionar las acotaciones con los diálogos permite comprender las situaciones 
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Escena 1:** Una sala de estar con un sofá viejo. Al fondo, una ventana por donde se ve la luna.
@@ -106,7 +115,7 @@ Relacionar las acotaciones con los diálogos permite comprender las situaciones 
 ### Enunciado
 Si tuvieras que montar esta obra, ¿en qué momento del día debería ocurrir la historia?
 
-### Options
+### Opciones
 - [ ] A) Al mediodía con mucho sol. <!-- feedback: Incorrecto. La descripción menciona que se ve la luna por la ventana. -->
 - [x] B) Por la noche. <!-- feedback: ¡Correcto! La presencia de la luna y el ambiente de miedo/misterio sugieren que es de noche. -->
 - [ ] C) Al amanecer. <!-- feedback: Incorrecto. Aunque la luna se puede ver al amanecer, el tono de la escena es más nocturno. -->
@@ -122,6 +131,7 @@ Extraer información sobre el tiempo y el lugar a partir de la descripción de l
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **REY:** (Con voz fuerte y firme) ¡Que traigan al bufón inmediatamente! Estoy muy aburrido.
@@ -130,7 +140,7 @@ Extraer información sobre el tiempo y el lugar a partir de la descripción de l
 ### Enunciado
 ¿Cómo debe actuar el actor que hace el papel del **Sirviente** según las acotaciones?
 
-### Options
+### Opciones
 - [ ] A) Gritándole al Rey con mucha rabia. <!-- feedback: Incorrecto. La acotación dice que debe inclinarse con respeto. -->
 - [x] B) Agachando un poco el cuerpo en señal de respeto. <!-- feedback: ¡Correcto! Inclinarse es la acción física que muestra la obediencia al Rey. -->
 - [ ] C) Saltando de alegría por todo el escenario. <!-- feedback: Incorrecto. Esa acción no corresponde al respeto pedido. -->
@@ -146,6 +156,7 @@ Traducir una instrucción escrita (acotación) en una acción física imaginada 
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "A diferencia de un cuento, donde un narrador nos cuenta lo que pasa, en el teatro la historia se conoce a través de lo que los personajes dicen y hacen en vivo frente al público".
@@ -153,7 +164,7 @@ Traducir una instrucción escrita (acotación) en una acción física imaginada 
 ### Enunciado
 ¿Cuál es la **función principal** de un texto teatral?
 
-### Options
+### Opciones
 - [ ] A) Ser leído en silencio en una biblioteca. <!-- feedback: Incorrecto. Aunque se puede leer, su fin principal es otro. -->
 - [ ] B) Ser publicado en un periódico como una noticia. <!-- feedback: Incorrecto. No son hechos reales de actualidad. -->
 - [x] C) Ser representado por actores en un escenario frente a un público. <!-- feedback: ¡Correcto! El guion teatral nace para convertirse en una obra de teatro real. -->
@@ -169,6 +180,7 @@ Comprender el propósito del género dramático (la representación) permite al 
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Texto A (Cuento):** "El gato caminó sigilosamente por el tejado mientras la luna brillaba".
@@ -179,7 +191,7 @@ Comprender el propósito del género dramático (la representación) permite al 
 ### Enunciado
 ¿Qué información nos da el **Texto B** que no está en el **Texto A**?
 
-### Options
+### Opciones
 - [ ] A) El lugar donde ocurre la acción. <!-- feedback: Incorrecto. Ambos dicen que es en un tejado. -->
 - [ ] B) Que hay una luna brillando. <!-- feedback: Incorrecto. Los dos mencionan la luna. -->
 - [x] C) Las palabras exactas que dice el gato en ese momento. <!-- feedback: ¡Correcto! El Texto B incluye un diálogo que no aparece en el cuento. -->
@@ -195,6 +207,7 @@ Analizar las diferencias entre géneros que tratan un mismo tema (narrativo vs. 
 **Bloom:** Evaluate
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Imagina que en una obra de teatro un personaje dice: "**¡No aguanto más este calor!**" pero la acotación dice: **(Abrigado con una bufanda y temblando en medio de la nieve)**.
@@ -202,7 +215,7 @@ Imagina que en una obra de teatro un personaje dice: "**¡No aguanto más este c
 ### Enunciado
 ¿Cuál es la intención del autor al poner algo tan contradictorio entre lo que se dice y lo que se ve?
 
-### Options
+### Opciones
 - [ ] A) Que el autor se equivocó al escribir y hay que corregirlo. <!-- feedback: Incorrecto. Los autores suelen hacer esto con una intención artística. -->
 - [x] B) Crear un momento de humor o demostrar que el personaje está un poco loco o confundido. <!-- feedback: ¡Correcto! La contradicción genera risa o extrañeza en el público, lo cual es un recurso teatral común. -->
 - [ ] C) Enseñar a los niños que la nieve es muy caliente. <!-- feedback: Incorrecto. La nieve es fría, por eso es una contradicción. -->

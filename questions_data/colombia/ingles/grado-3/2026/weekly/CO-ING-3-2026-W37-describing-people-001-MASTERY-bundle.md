@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W37-describing-people-001-MASTERY"
+id: "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "describing-people"
 periodo: "weekly"
-semana: 37
+week: "W37"
 year: 2026
 protocol_version: "5.2"
 bundle_index: 1
@@ -21,7 +21,10 @@ license: "FREE"
 tier: "mastery"
 creador: "Jules"
 
+bundle_type: "weekly"
+total_questions: 10
 ---
+
 
 # Weekly Pack W37: Describing People (A1)
 
@@ -34,12 +37,12 @@ This bundle focuses on using basic adjectives to describe physical appearance an
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
-**Context:** Describing height.
+**Contexto:** Describing height.
 
 ### Enunciado
 A basketball player is usually very **_________**. 🏀
 
-### Options
+### Opciones
 - [ ] A) Short <!-- feedback: Incorrect. Short is for small height. -->
 - [x] B) Tall <!-- feedback: Correct! Basketball players need to be tall. -->
 - [ ] C) Blue <!-- feedback: Incorrect. This is a color. -->
@@ -55,12 +58,12 @@ A basketball player is usually very **_________**. 🏀
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
-**Context:** Expressing happiness.
+**Contexto:** Expressing happiness.
 
 ### Enunciado
 When you smile and laugh, you are **_________**. 😊
 
-### Options
+### Opciones
 - [x] A) Happy <!-- feedback: Correct! Smiling indicates happiness. -->
 - [ ] B) Sad <!-- feedback: Incorrect. Sad is the opposite. -->
 - [ ] C) Angry <!-- feedback: Incorrect. -->
@@ -76,12 +79,12 @@ When you smile and laugh, you are **_________**. 😊
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
-**Context:** Identifying opposites.
+**Contexto:** Identifying opposites.
 
 ### Enunciado
 The opposite of **"Happy"** is... ☹️
 
-### Options
+### Opciones
 - [ ] A) Good <!-- feedback: Incorrect. -->
 - [x] B) Sad <!-- feedback: Correct! Sad is the antonym of Happy. -->
 - [ ] C) Tall <!-- feedback: Incorrect. -->
@@ -97,12 +100,12 @@ Identificar antónimos es clave. "Sad" significa triste, lo opuesto de "Happy".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
-**Context:** Describing age.
+**Contexto:** Describing age.
 
 ### Enunciado
 Your **grandfather** is **old**. You are a child, you are **_________**. 👴👦
 
-### Options
+### Opciones
 - [ ] A) Old <!-- feedback: Incorrect. -->
 - [x] B) Young <!-- feedback: Correct! Young is for people at the beginning of their life. -->
 - [ ] C) Tall <!-- feedback: Incorrect. While you might be, "young" is the direct contrast to "old". -->
@@ -118,12 +121,12 @@ Your **grandfather** is **old**. You are a child, you are **_________**. 👴�
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
-**Context:** Describing hair.
+**Contexto:** Describing hair.
 
 ### Enunciado
 Ana has hair that reaches her back. Her hair is **_________**. 💇‍♀️
 
-### Options
+### Opciones
 - [ ] A) Short <!-- feedback: Incorrect. -->
 - [x] B) Long <!-- feedback: Correct! Hair that reaches the back is long. -->
 - [ ] C) Blue <!-- feedback: Incorrect. -->
@@ -139,12 +142,12 @@ Ana has hair that reaches her back. Her hair is **_________**. 💇‍♀️
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
-**Context:** Describing build.
+**Contexto:** Describing build.
 
 ### Enunciado
 A person who **exercises a lot** and is strong might be described as... 💪
 
-### Options
+### Opciones
 - [ ] A) Weak <!-- feedback: Incorrect. This is the opposite of strong. -->
 - [x] B) Strong <!-- feedback: Correct! Exercise helps you be strong. -->
 - [ ] C) Thin <!-- feedback: Incorrect. While possible, "strong" matches the description better. -->
@@ -160,12 +163,12 @@ A person who **exercises a lot** and is strong might be described as... 💪
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
-**Context:** Describing beauty.
+**Contexto:** Describing beauty.
 
 ### Enunciado
 She has a very pretty face and a nice smile. She is **_________**. ✨
 
-### Options
+### Opciones
 - [x] A) Beautiful <!-- feedback: Correct! Beautiful means very pretty. -->
 - [ ] B) Ugly <!-- feedback: Incorrect. This is the opposite. -->
 - [ ] C) Tall <!-- feedback: Incorrect. -->
@@ -181,12 +184,12 @@ She has a very pretty face and a nice smile. She is **_________**. ✨
 **Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
-**Context:** Identifying the correct adjective pair.
+**Contexto:** Identifying the correct adjective pair.
 
 ### Enunciado
 Which group shows **height** (estatura) descriptors?
 
-### Options
+### Opciones
 - [ ] A) Big and Small <!-- feedback: Incorrect. This is for size. -->
 - [x] B) Tall and Short <!-- feedback: Correct! These describe how tall a person is. -->
 - [ ] C) Young and Old <!-- feedback: Incorrect. This is for age. -->
@@ -202,13 +205,13 @@ Analizar y clasificar los adjetivos. "Tall" (alto) y "Short" (bajo) son las pala
 **Bloom:** Analyze
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
-**Context:** Analyzing a description.
+**Contexto:** Analyzing a description.
 
 ### Enunciado
 "My brother is not tall. He is 6 years old."
 How is my brother?
 
-### Options
+### Opciones
 - [ ] A) He is tall and old. <!-- feedback: Incorrect. -->
 - [ ] B) He is short and old. <!-- feedback: Incorrect. -->
 - [x] C) He is short and young. <!-- feedback: Correct! Not tall = short; 6 years old = young. -->
@@ -224,12 +227,12 @@ Analizar las premisas de la descripción. Ser "no alto" implica ser "short", y t
 **Bloom:** Evaluate
 **ICFES:** Pragmática
 **Expected_Success:** 0.50
-**Context:** Choosing the most respectful description.
+**Contexto:** Choosing the most respectful description.
 
 ### Enunciado
 How would you describe your best friend to someone who doesn't know them?
 
-### Options
+### Opciones
 - [ ] A) My friend is ugly. <!-- feedback: Incorrect. Not nice or respectful. -->
 - [x] B) My friend is very intelligent and kind. <!-- feedback: Correct! These are positive and descriptive traits. -->
 - [ ] C) My friend is just a person. <!-- feedback: Incorrect. Not very descriptive. -->

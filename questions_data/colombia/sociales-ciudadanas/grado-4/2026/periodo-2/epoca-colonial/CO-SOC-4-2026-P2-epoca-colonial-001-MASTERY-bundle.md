@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY"
+id: "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Época colonial en Colombia, conquista española, virreinato, sociedad colonial, instituciones coloniales"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Época Colonial en Colombia
 
@@ -27,14 +34,15 @@ Este bundle cubre el período de la Colonia en Colombia (siglos XVI-XVIII), desd
 ## Question 1 [D3]
 
 **ID:** `CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en un colegio de Cartagena, los estudiantes visitan las murallas del Centro Histórico.
+**Contexto:** En clase de sociales en un colegio de Cartagena, los estudiantes visitan las murallas del Centro Histórico.
 
 ### Enunciado
 Durante la época de la Colonia, el territorio de la actual Colombia hacía parte de un gran virreinato español. ¿Cómo se llamaba?
 
-### Options
+### Opciones
 - [ ] A) Virreinato de México. <!-- feedback: Incorrecto. México era el Virreinato de Nueva España, no incluía el territorio colombiano. -->
 - [ ] B) Virreinato del Río de la Plata. <!-- feedback: Incorrecto. Ese virreinato cubría Argentina, Uruguay y Paraguay, no Colombia. -->
 - [x] C) Virreinato de la Nueva Granada. <!-- feedback: Correcto. La Nueva Granada incluía los actuales Colombia, Ecuador, Panamá y Venezuela, con capital en Santafé (hoy Bogotá). -->
@@ -48,14 +56,15 @@ Se evalúa el conocimiento sobre la división política colonial. La respuesta c
 ## Question 2 [D3]
 
 **ID:** `CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en Tunja, el profesor explica cómo se organizó el gobierno durante la Colonia.
+**Contexto:** En clase de sociales en Tunja, el profesor explica cómo se organizó el gobierno durante la Colonia.
 
 ### Enunciado
 La máxima autoridad del Virreinato de la Nueva Granada, que representaba al rey de España, se llamaba:
 
-### Options
+### Opciones
 - [ ] A) El presidente. <!-- feedback: Incorrecto. El cargo de presidente no existía en la Colonia; es propio de las repúblicas modernas. -->
 - [x] B) El virrey. <!-- feedback: Correcto. El virrey era el representante directo del rey de España en el territorio americano y gobernaba en su nombre. -->
 - [ ] C) El cacique. <!-- feedback: Incorrecto. El cacique era una autoridad indígena, no una autoridad colonial española. -->
@@ -69,14 +78,15 @@ Se evalúa el conocimiento de las autoridades coloniales. La respuesta correcta 
 ## Question 3 [D4]
 
 **ID:** `CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En clase de sociales en Popayán, los estudiantes ven un documental sobre cómo vivían las personas durante la Colonia.
+**Contexto:** En clase de sociales en Popayán, los estudiantes ven un documental sobre cómo vivían las personas durante la Colonia.
 
 ### Enunciado
 La sociedad durante la Colonia estaba dividida en grupos sociales muy marcados. ¿Qué grupo estaba en la cima de la pirámide social?
 
-### Options
+### Opciones
 - [ ] A) Los indígenas. <!-- feedback: Incorrecto. Los indígenas estaban en la base de la sociedad colonial y debían tributar a los españoles. -->
 - [ ] B) Los esclavos africanos. <!-- feedback: Incorrecto. Los esclavos africanos estaban en el nivel más bajo de la sociedad colonial. -->
 - [x] C) Los españoles peninsulares (nacidos en España). <!-- feedback: Correcto. Los españoles nacidos en España ocupaban los cargos más importantes del gobierno y la iglesia en la Colonia. -->
@@ -90,14 +100,15 @@ Se evalúa la comprensión de la jerarquía social colonial. La respuesta correc
 ## Question 4 [D4]
 
 **ID:** `CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Los estudiantes de la I.E. El Rosario de Pasto investigan sobre la economía de la Colonia.
+**Contexto:** Los estudiantes de la I.E. El Rosario de Pasto investigan sobre la economía de la Colonia.
 
 ### Enunciado
 La principal actividad económica durante la Colonia en la Nueva Granada era:
 
-### Options
+### Opciones
 - [ ] A) La industria textil en fábricas. <!-- feedback: Incorrecto. En la Colonia no existían fábricas industriales; la producción era artesanal. -->
 - [x] B) La minería (extracción de oro y plata). <!-- feedback: Correcto. La minería era la actividad más importante de la economía colonial en la Nueva Granada, especialmente la extracción de oro en Antioquia, Chocó y Cauca. -->
 - [ ] C) La exportación de petróleo. <!-- feedback: Incorrecto. El petróleo empezó a explotarse en Colombia hasta el siglo XX, mucho después de la Colonia. -->
@@ -111,14 +122,15 @@ Se evalúa el conocimiento de la economía colonial. La respuesta correcta ident
 ## Question 5 [D4]
 
 **ID:** `CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales en Honda, Tolima, los estudiantes estudian el comercio colonial por el río Magdalena.
+**Contexto:** En la clase de sociales en Honda, Tolima, los estudiantes estudian el comercio colonial por el río Magdalena.
 
 ### Enunciado
 Durante la Colonia, el comercio entre España y la Nueva Granada se realizaba a través de puertos autorizados. ¿Cuál era el principal puerto colonial en el Caribe colombiano?
 
-### Options
+### Opciones
 - [ ] A) Buenaventura. <!-- feedback: Incorrecto. Buenaventura es un puerto sobre el Pacífico que se desarrolló más en la época republicana. -->
 - [ ] B) Santa Marta. <!-- feedback: Incorrecto. Aunque Santa Marta fue la primera ciudad fundada, Cartagena era el principal puerto colonial. -->
 - [x] C) Cartagena de Indias. <!-- feedback: Correcto. Cartagena era el puerto más importante para el comercio con España y la entrada de mercancías y esclavos a la Nueva Granada. -->
@@ -132,14 +144,15 @@ Se evalúa el conocimiento de la geografía económica colonial. La respuesta co
 ## Question 6 [D4]
 
 **ID:** `CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-v6`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En el Museo de la Inquisición de Cartagena, los estudiantes aprenden sobre la Iglesia Católica en la Colonia.
+**Contexto:** En el Museo de la Inquisición de Cartagena, los estudiantes aprenden sobre la Iglesia Católica en la Colonia.
 
 ### Enunciado
 La Iglesia Católica tuvo un papel muy importante durante la Colonia. ¿Cuál de estas funciones cumplía?
 
-### Options
+### Opciones
 - [ ] A) Elegir al presidente de la república. <!-- feedback: Incorrecto. No existía presidente; el rey era la máxima autoridad. -->
 - [ ] B) Recaudar el IVA de los productos. <!-- feedback: Incorrecto. El IVA es un impuesto moderno que no existía en la Colonia. -->
 - [x] C) Educar a la población, registrar nacimientos y difundir la religión católica. <!-- feedback: Correcto. La Iglesia se encargaba de la educación, llevaba los registros de bautizos y matrimonios, y evangelizaba a los indígenas. -->
@@ -153,14 +166,15 @@ Se evalúa el conocimiento del papel de la Iglesia en la Colonia. La respuesta c
 ## Question 7 [D4]
 
 **ID:** `CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-v7`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales en San Gil, Santander, los estudiantes juegan a representar los oficios coloniales.
+**Contexto:** En la clase de sociales en San Gil, Santander, los estudiantes juegan a representar los oficios coloniales.
 
 ### Enunciado
 Durante la Colonia, muchas personas se dedicaban a la artesanía. Un artesano colonial que trabajaba el cuero para hacer monturas, correas y zapatos se llamaba:
 
-### Options
+### Opciones
 - [ ] A) Herrero. <!-- feedback: Incorrecto. El herrero trabajaba el hierro, no el cuero. -->
 - [x] B) Zapatero o talabartero. <!-- feedback: Correcto. Los talabarteros trabajaban el cuero para hacer monturas de caballo, y los zapateros hacían calzado, ambos oficios muy importantes en la Colonia. -->
 - [ ] C) Orfebre. <!-- feedback: Incorrecto. El orfebre trabajaba el oro y la plata, no el cuero. -->
@@ -174,14 +188,15 @@ Se evalúa el conocimiento de los oficios coloniales. La respuesta correcta iden
 ## Question 8 [D5]
 
 **ID:** `CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Los estudiantes de la I.E. Técnica de Guamal, Magdalena, discuten sobre el mestizaje en Colombia.
+**Contexto:** Los estudiantes de la I.E. Técnica de Guamal, Magdalena, discuten sobre el mestizaje en Colombia.
 
 ### Enunciado
 El mestizaje en la Colonia fue el resultado de la mezcla entre:
 
-### Options
+### Opciones
 - [ ] A) Italianos y franceses. <!-- feedback: Incorrecto. Los italianos y franceses no fueron los grupos principales del mestizaje colombiano. -->
 - [x] B) Españoles, indígenas americanos y africanos traídos como esclavos. <!-- feedback: Correcto. El mestizaje en Colombia es el producto del encuentro (muchas veces forzado) entre españoles, pueblos indígenas y africanos. -->
 - [ ] C) Ingleses y holandeses. <!-- feedback: Incorrecto. Ingleses y holandeses no colonizaron el territorio colombiano. -->
@@ -195,14 +210,15 @@ Se evalúa la comprensión del origen del mestizaje en Colombia. La respuesta co
 ## Question 9 [D5]
 
 **ID:** `CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-v9`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales de la I.E. Juan XXIII de Zipaquirá, el profesor pregunta por el legado de la Colonia en Colombia actual.
+**Contexto:** En la clase de sociales de la I.E. Juan XXIII de Zipaquirá, el profesor pregunta por el legado de la Colonia en Colombia actual.
 
 ### Enunciado
 ¿Cuál de los siguientes aspectos de la vida colombiana actuales un legado de la época colonial?
 
-### Options
+### Opciones
 - [ ] A) El uso del internet en las escuelas. <!-- feedback: Incorrecto. Internet es un invento del siglo XX, no un legado de la Colonia. -->
 - [x] B) El idioma español, la religión católica y muchas tradiciones culturales como las fiestas patronales. <!-- feedback: Correcto. El español, la religión católica, las corridas de toros, muchas comidas y las fiestas de los santos patronos son herencia directa de la Colonia. -->
 - [ ] C) Los teléfonos celulares y las redes sociales. <!-- feedback: Incorrecto. La tecnología digital no tiene origen en la Colonia. -->
@@ -216,14 +232,15 @@ Se evalúa la capacidad de identificar el legado cultural de la Colonia en la ac
 ## Question 10 [D5]
 
 **ID:** `CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-v10`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de Mompox, Bolívar, los estudiantes visitan una iglesia colonial del siglo XVII.
+**Contexto:** En la clase de sociales de Mompox, Bolívar, los estudiantes visitan una iglesia colonial del siglo XVII.
 
 ### Enunciado
 Las ciudades coloniales colombianas tenían un patrón de construcción muy parecido. ¿Qué elementos eran comunes en su diseño urbano?
 
-### Options
+### Opciones
 - [ ] A) Rascacielos, autopistas y centros comerciales. <!-- feedback: Incorrecto. Los rascacielos y autopistas son construcciones modernas del siglo XX y XXI. -->
 - [ ] B) Calles angostas sin ninguna plaza central. <!-- feedback: Incorrecto. Las calles podían ser angostas, pero siempre tenían una plaza principal. -->
 - [x] C) Una plaza principal (Plaza Mayor), una iglesia y calles empedradas organizadas en cuadrícula. <!-- feedback: Correcto. Las ciudades coloniales se organizaban alrededor de la Plaza Mayor, con la iglesia principal y el cabildo, y calles en forma de damero. -->

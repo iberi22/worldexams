@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W33-propaganda-001-MASTERY"
+id: "CO-LC-7-2026-W33-propaganda-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "propaganda"
-semana: "W33"
+week: "W33"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Propaganda - Grado 7
 ## Semana W33 — Análisis crítico de propaganda política, social y gubernamental en Colombia
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W33-propaganda-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En clase de Lectura Crítica del Colegio INEM de Pasto, se analiza una propaganda de la Registraduría Nacional con el eslogan "Tu voto es tu voz: participa en las próximas elecciones".
+**Contexto:** En clase de Lectura Crítica del Colegio INEM de Pasto, se analiza una propaganda de la Registraduría Nacional con el eslogan "Tu voto es tu voz: participa en las próximas elecciones".
 **Expected_Success:** 0.84
 
 ### Enunciado
@@ -39,11 +43,11 @@ La propaganda es un tipo de comunicación diseñada para influir en la actitud o
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W33-propaganda-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión del sentido global
-**Context:** Un afiche de la Alcaldía de Medellín muestra una foto de una calle limpia con el texto: "Medellín limpia es responsabilidad de todos. ¡No arrojes basura!"
+**Contexto:** Un afiche de la Alcaldía de Medellín muestra una foto de una calle limpia con el texto: "Medellín limpia es responsabilidad de todos. ¡No arrojes basura!"
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -60,11 +64,11 @@ La propaganda se clasifica según su ámbito: política (promueve ideologías o 
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W33-propaganda-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Configuración textual
-**Context:** Una propaganda del Gobierno Nacional muestra la imagen de una carretera nueva con el texto: "Colombia avanza: 500 km de vías terciarias construidas en 2025."
+**Contexto:** Una propaganda del Gobierno Nacional muestra la imagen de una carretera nueva con el texto: "Colombia avanza: 500 km de vías terciarias construidas en 2025."
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -81,11 +85,11 @@ El uso de cifras y datos concretos es un recurso retórico común en propaganda 
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W33-propaganda-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Dimensión inferencial
-**Context:** Durante la campaña electoral en Bogotá, un candidato distribuye volantes con el texto: "Por un futuro mejor para nuestros hijos. Vota por el cambio verdadero". No menciona su plan de gobierno ni su partido.
+**Contexto:** Durante la campaña electoral en Bogotá, un candidato distribuye volantes con el texto: "Por un futuro mejor para nuestros hijos. Vota por el cambio verdadero". No menciona su plan de gobierno ni su partido.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -102,11 +106,11 @@ Las frases vagas y emocionalmente atractivas son uno de los recursos más comune
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W33-propaganda-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Dimensión inferencial
-**Context:** Una propaganda radial del Ministerio de Salud dice: "Cuatro de cada cinco médicos recomiendan vacunarse contra la influenza. ¡Vacúnate ya!"
+**Contexto:** Una propaganda radial del Ministerio de Salud dice: "Cuatro de cada cinco médicos recomiendan vacunarse contra la influenza. ¡Vacúnate ya!"
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -123,11 +127,11 @@ El recurso de "4 de cada 5 médicos recomiendan" es una forma de propaganda cono
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W33-propaganda-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Dimensión inferencial
-**Context:** Un cartel en la calle muestra la foto de un político con el texto: "Él sí cumplió. Defendió nuestros derechos en el Concejo. Mérito y trabajo". No hay información negativa del oponente.
+**Contexto:** Un cartel en la calle muestra la foto de un político con el texto: "Él sí cumplió. Defendió nuestros derechos en el Concejo. Mérito y trabajo". No hay información negativa del oponente.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -144,11 +148,11 @@ La técnica de "transferencia" consiste en asociar a una persona, producto o ide
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W33-propaganda-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Dimensión inferencial
-**Context:** Dos propagandas sobre movilidad: la primera de la Alcaldía dice "Más bicicletas, menos tráfico"; la segunda de un gremio de taxistas dice "Las ciclorrutas causan trancones insoportables".
+**Contexto:** Dos propagandas sobre movilidad: la primera de la Alcaldía dice "Más bicicletas, menos tráfico"; la segunda de un gremio de taxistas dice "Las ciclorrutas causan trancones insoportables".
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -165,11 +169,11 @@ La propaganda rara vez miente de forma directa, pero casi siempre presenta infor
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W33-propaganda-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Configuración textual
-**Context:** Un video de propaganda del Ejército Nacional muestra: 1) soldados ayudando en una inundación, 2) un niño ondeando la bandera, 3) música patriótica de fondo, 4) texto final: "Ejército: siempre contigo".
+**Contexto:** Un video de propaganda del Ejército Nacional muestra: 1) soldados ayudando en una inundación, 2) un niño ondeando la bandera, 3) música patriótica de fondo, 4) texto final: "Ejército: siempre contigo".
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -186,11 +190,11 @@ La propaganda moderna combina múltiples canales y elementos retóricos para max
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W33-propaganda-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** Un periódico escolar analiza dos propagandas políticas: una usa el miedo ("Si gana el otro, perderemos todo") y otra usa la esperanza ("Juntos construiremos un futuro brillante").
+**Contexto:** Un periódico escolar analiza dos propagandas políticas: una usa el miedo ("Si gana el otro, perderemos todo") y otra usa la esperanza ("Juntos construiremos un futuro brillante").
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -207,11 +211,11 @@ La propaganda del miedo (o "apelación al miedo") es considerada éticamente pro
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W33-propaganda-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** Un grupo de estudiantes recibe la tarea de crear una propaganda a favor de la jornada única escolar. El material de apoyo incluye estadísticas de deserción y testimonios de docentes.
+**Contexto:** Un grupo de estudiantes recibe la tarea de crear una propaganda a favor de la jornada única escolar. El material de apoyo incluye estadísticas de deserción y testimonios de docentes.
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ Una propaganda ética se distingue de la manipulación por varios criterios: 1) 
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W33-propaganda-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** En redes sociales circula una propaganda que muestra a dos candidatos: uno con fondo brillante y sonrisa, el otro en blanco y negro y con expresión seria. No hay texto adicional.
+**Contexto:** En redes sociales circula una propaganda que muestra a dos candidatos: uno con fondo brillante y sonrisa, el otro en blanco y negro y con expresión seria. No hay texto adicional.
 **Expected_Success:** 0.40
 
 ### Enunciado
@@ -249,11 +253,11 @@ La manipulación visual en propaganda es particularmente efectiva porque el proc
 
 ---
 
-## Pregunta 12 [D9-D10]
+## Question 12 [D9-D10]
 **ID:** `CO-LC-7-2026-W33-propaganda-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Reflexión sobre el contenido
-**Context:** La Institución Educativa San José de Sincelejo te ha encargado diseñar una contrapropaganda para contrarrestar un bulo que circula en el pueblo: "Las vacunas causan enfermedades". Debes usar al menos un recurso retórico analizado en clase.
+**Contexto:** La Institución Educativa San José de Sincelejo te ha encargado diseñar una contrapropaganda para contrarrestar un bulo que circula en el pueblo: "Las vacunas causan enfermedades". Debes usar al menos un recurso retórico analizado en clase.
 **Expected_Success:** 0.36
 
 ### Enunciado

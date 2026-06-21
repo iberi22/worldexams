@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-7-2026-P3-cultura-paz-001-MASTERY"
+id: "CO-SOC-7-2026-P3-cultura-paz-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "cultura_paz, resolucion_pacifica_conflictos, mediacion, reconciliacion, convivencia, tolerancia, no_violencia"
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Cultura de Paz
 
@@ -24,17 +31,17 @@ Este bundle cubre la cultura de paz: su definición, fundamentos, la resolución
 
 ---
 
-## Question 1
-
+## Question 1 [D1]
 **ID:** `CO-SOC-7-2026-P3-cultura-paz-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué es la "cultura de paz"?
 
-### Options
+### Opciones
 - [ ] A) La ausencia total de conflictos en una sociedad <!-- feedback: Incorrecto. El conflicto es inherente a las relaciones humanas. -->
 - [ ] B) Una sociedad donde todos piensan igual y no hay diferencias <!-- feedback: Incorrecto. La diversidad de opiniones es normal. -->
 - [x] C) Un conjunto de valores, actitudes y comportamientos que rechazan la violencia y promueven la resolución pacífica de los conflictos, el diálogo y el respeto a los derechos humanos <!-- feedback: Correcto. La cultura de paz busca transformar los conflictos sin violencia. -->
@@ -45,17 +52,17 @@ La UNESCO define la cultura de paz como un conjunto de valores, actitudes y comp
 
 ---
 
-## Question 2
-
+## Question 2 [D1]
 **ID:** `CO-SOC-7-2026-P3-cultura-paz-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Quién fue Mahatma Gandhi y qué relación tiene con la cultura de paz?
 
-### Options
+### Opciones
 - [ ] A) Un general militar que ganó muchas guerras <!-- feedback: Incorrecto. Gandhi promovió la no violencia. -->
 - [ ] B) Un empresario que inventó el automóvil <!-- feedback: Incorrecto. No tuvo relación con la industria automotriz. -->
 - [x] C) Un líder indio que promovió la independencia de la India mediante la resistencia pacífica y la no violencia, inspirando movimientos de paz en todo el mundo <!-- feedback: Correcto. Gandhi es un símbolo universal de la cultura de paz. -->
@@ -66,17 +73,17 @@ Gandhi demostró que es posible luchar contra la injusticia sin usar violencia. 
 
 ---
 
-## Question 3
-
+## Question 3 [D1]
 **ID:** `CO-SOC-7-2026-P3-cultura-paz-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué es la "resolución pacífica de conflictos"?
 
-### Options
+### Opciones
 - [ ] A) Ignorar el conflicto hasta que desaparezca solo <!-- feedback: Incorrecto. Ignorar suele empeorar las cosas. -->
 - [ ] B) Usar la fuerza para que una de las partes se imponga <!-- feedback: Incorrecto. La fuerza no es una solución pacífica. -->
 - [x] C) El proceso de abordar las diferencias mediante el diálogo, la negociación, la mediación o el arbitraje, buscando soluciones que beneficien a todas las partes <!-- feedback: Correcto. La resolución pacífica transforma el conflicto constructivamente. -->
@@ -87,17 +94,17 @@ En Colombia, la resolución pacífica de conflictos es una competencia ciudadana
 
 ---
 
-## Question 4
-
+## Question 4 [D1]
 **ID:** `CO-SOC-7-2026-P3-cultura-paz-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es la diferencia entre mediación y arbitraje en la resolución de conflictos?
 
-### Options
+### Opciones
 - [ ] A) Son exactamente lo mismo <!-- feedback: Incorrecto. Hay diferencias importantes. -->
 - [ ] B) En la mediación las partes no hablan entre sí; en el arbitraje sí <!-- feedback: Incorrecto. En ambos hay comunicación. -->
 - [x] C) En la mediación, un tercero neutral ayuda a las partes a llegar a un acuerdo por sí mismas; en el arbitraje, el tercero toma una decisión vinculante que las partes deben acatar <!-- feedback: Correcto. La mediación facilita el diálogo; el arbitraje impone una solución. -->
@@ -108,17 +115,17 @@ Tanto la mediación como el arbitraje son Mecanismos Alternativos de Solución d
 
 ---
 
-## Question 5
-
+## Question 5 [D1]
 **ID:** `CO-SOC-7-2026-P3-cultura-paz-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué papel juega la educación en la construcción de una cultura de paz?
 
-### Options
+### Opciones
 - [ ] A) La educación no tiene relación con la paz <!-- feedback: Incorrecto. La educación es fundamental. -->
 - [ ] B) La educación solo debe enseñar matemáticas y ciencias, no valores <!-- feedback: Incorrecto. La formación en valores es parte esencial de la educación. -->
 - [x] C) La educación para la paz enseña valores como la tolerancia, el respeto, la empatía y el diálogo, formando ciudadanos capaces de resolver conflictos sin violencia <!-- feedback: Correcto. La educación es el pilar de la cultura de paz. -->
@@ -129,17 +136,17 @@ En Colombia, el Ministerio de Educación ha implementado las "Competencias Ciuda
 
 ---
 
-## Question 6
-
+## Question 6 [D1]
 **ID:** `CO-SOC-7-2026-P3-cultura-paz-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Dos estudiantes de un colegio en Bogotá tienen un conflicto porque uno le dijo un apodo ofensivo al otro. ¿Cuál es la mejor manera de resolver este conflicto en el marco de una cultura de paz?
 
-### Options
+### Opciones
 - [ ] A) Que el profesor castigue al ofensor con una sanción severa sin escucharlo <!-- feedback: Incorrecto. La sanción sin diálogo no construye cultura de paz. -->
 - [ ] B) Que los dos estudiantes se ignoren mutuamente por el resto del año <!-- feedback: Incorrecto. Ignorar no resuelve el conflicto. -->
 - [x] C) Facilitar un diálogo entre ellos con la ayuda de un mediador (profesor o estudiante entrenado), donde ambos puedan expresar sus sentimientos y llegar a un acuerdo <!-- feedback: Correcto. La mediación escolar es el método más adecuado. -->
@@ -150,17 +157,17 @@ La mediación escolar es una práctica extendida en colegios colombianos. Un med
 
 ---
 
-## Question 7
-
+## Question 7 [D1]
 **ID:** `CO-SOC-7-2026-P3-cultura-paz-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué significa "perdonar" en el contexto de la reconciliación y la cultura de paz?
 
-### Options
+### Opciones
 - [ ] A) Olvidar completamente lo que ocurrió y pretender que nunca pasó <!-- feedback: Incorrecto. Perdonar no es olvidar. -->
 - [ ] B) Aceptar que el daño causado está bien y no tiene consecuencias <!-- feedback: Incorrecto. Perdonar no es justificar el daño. -->
 - [x] C) Renunciar al rencor y la venganza, reconociendo el daño sufrido pero dando la oportunidad de reconstruir la relación <!-- feedback: Correcto. El perdón es un proceso liberador que no implica olvido. -->
@@ -171,17 +178,17 @@ En el contexto del posconflicto colombiano, el perdón y la reconciliación han 
 
 ---
 
-## Question 8
-
+## Question 8 [D1]
 **ID:** `CO-SOC-7-2026-P3-cultura-paz-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué es la "Cátedra de la Paz" en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Una materia optativa que los estudiantes pueden elegir o no <!-- feedback: Incorrecto. Es obligatoria. -->
 - [ ] B) Un curso universitario sobre historia de las guerras <!-- feedback: Incorrecto. No es solo sobre guerras. -->
 - [x] C) Una asignatura obligatoria en todas las instituciones educativas del país que promueve la cultura de paz, la memoria histórica y la convivencia ciudadana <!-- feedback: Correcto. La Cátedra de la Paz fue establecida por la Ley 1732 de 2014. -->
@@ -192,17 +199,17 @@ La Cátedra de la Paz es parte del esfuerzo de Colombia por construir paz desde 
 
 ---
 
-## Question 9
-
+## Question 9 [D1]
 **ID:** `CO-SOC-7-2026-P3-cultura-paz-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Por qué el respeto por la diversidad y la tolerancia son fundamentales para la cultura de paz?
 
-### Options
+### Opciones
 - [ ] A) Porque la diversidad es un problema que hay que eliminar <!-- feedback: Incorrecto. La diversidad enriquece la sociedad. -->
 - [ ] B) Porque la tolerancia significa aceptar todo sin decir nada <!-- feedback: Incorrecto. Tolerancia no es pasividad ante la injusticia. -->
 - [x] C) Porque muchas guerras y conflictos surgen de la intolerancia y la discriminación. Respetar las diferencias culturales, religiosas y políticas previene la violencia y facilita la convivencia <!-- feedback: Correcto. La intolerancia es una de las principales causas de conflictos. -->
@@ -213,17 +220,17 @@ Colombia es un país diverso: multicultural y pluriétnico, con más de 100 pueb
 
 ---
 
-## Question 10
-
+## Question 10 [D1]
 **ID:** `CO-SOC-7-2026-P3-cultura-paz-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué significa "memoria histórica" en el contexto de construcción de paz?
 
-### Options
+### Opciones
 - [ ] A) Recordar solo las cosas buenas del pasado y olvidar las malas <!-- feedback: Incorrecto. La memoria histórica no es selectiva. -->
 - [ ] B) No hablar nunca del pasado para evitar conflictos <!-- feedback: Incorrecto. Silenciar el pasado no construye paz. -->
 - [x] C) El derecho de las sociedades a conocer la verdad sobre lo ocurrido durante los conflictos, para aprender de los errores, honrar a las víctimas y evitar que se repitan las atrocidades <!-- feedback: Correcto. La memoria histórica es clave para la no repetición. -->
@@ -234,17 +241,17 @@ En Colombia, el Centro Nacional de Memoria Histórica (CNMH) ha documentado el c
 
 ---
 
-## Question 11
-
+## Question 11 [D1]
 **ID:** `CO-SOC-7-2026-P3-cultura-paz-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué es la "noviolencia" como estrategia de transformación social?
 
-### Options
+### Opciones
 - [ ] A) La pasividad total y la aceptación de cualquier injusticia <!-- feedback: Incorrecto. La noviolencia no es pasividad. -->
 - [ ] B) Una forma de lucha violenta pero sin armas <!-- feedback: Incorrecto. No implica ningún tipo de violencia. -->
 - [x] C) Una estrategia de lucha política y social que rechaza el uso de la violencia física pero utiliza la desobediencia civil, las protestas pacíficas, los boicots y la desobediencia a leyes injustas para lograr cambios <!-- feedback: Correcto. La noviolencia es una forma activa de lucha. -->
@@ -255,17 +262,17 @@ La noviolencia (escrita como una sola palabra) ha sido utilizada por movimientos
 
 ---
 
-## Question 12
-
+## Question 12 [D1]
 **ID:** `CO-SOC-7-2026-P3-cultura-paz-001-MASTERY-v12`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué es la "Comisión de la Verdad" y qué función cumplió en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Una corte que juzga a los responsables del conflicto <!-- feedback: Incorrecto. Eso hace la JEP. -->
 - [ ] B) Un programa de televisión donde los políticos confiesan sus errores <!-- feedback: Incorrecto. No es un programa mediático. -->
 - [x] C) Un organismo extrajudicial creado por el Acuerdo de Paz para esclarecer la verdad sobre el conflicto armado, escuchar a las víctimas y elaborar un informe final <!-- feedback: Correcto. La Comisión de la Verdad entregó su informe en 2022. -->
@@ -276,17 +283,17 @@ La Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repeti
 
 ---
 
-## Question 13
-
+## Question 13 [D1]
 **ID:** `CO-SOC-7-2026-P3-cultura-paz-001-MASTERY-v13`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cómo pueden los jóvenes colombianos contribuir a construir una cultura de paz en su entorno cotidiano?
 
-### Options
+### Opciones
 - [ ] A) No pueden hacer nada porque la paz es responsabilidad solo del gobierno <!-- feedback: Incorrecto. Todos podemos contribuir. -->
 - [ ] B) Ignorando los problemas de su comunidad <!-- feedback: Incorrecto. La paz requiere participación activa. -->
 - [x] C) Practicando el diálogo en sus relaciones, rechazando el bullying, participando en iniciativas comunitarias, conociendo la historia del país y defendiendo los derechos humanos <!-- feedback: Correcto. La paz se construye desde acciones cotidianas. -->
@@ -297,17 +304,17 @@ La cultura de paz no es solo para grandes acuerdos internacionales: se construye
 
 ---
 
-## Question 14
-
+## Question 14 [D1]
 **ID:** `CO-SOC-7-2026-P3-cultura-paz-001-MASTERY-v14`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento reflexivo y sistémico
 **Expected_Success:** 0.40
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Analiza: una comunidad en el Chocó ha sufrido décadas de violencia. Ahora, excombatientes de las FARC viven en la misma vereda que las víctimas. Hay tensión, miedo y desconfianza. ¿Qué pasos deberían darse para construir reconciliación en esta comunidad?
 
-### Options
+### Opciones
 - [ ] A) Separar a excombatientes y víctimas en lugares diferentes <!-- feedback: Incorrecto. La separación no construye reconciliación. -->
 - [ ] B) Obligar a las víctimas a perdonar inmediatamente <!-- feedback: Incorrecto. El perdón no puede imponerse. -->
 - [x] C) Facilitar espacios de diálogo, proyectos productivos conjuntos, actos simbólicos de reconocimiento del daño y reparación colectiva, respetando los tiempos de cada persona <!-- feedback: Correcto. La reconciliación requiere procesos graduales y respetuosos. -->
@@ -328,7 +335,7 @@ Experiencias como las de las Comunidades de Paz de San José de Apartadó y los 
 ### Enunciado
 Analiza el siguiente dilema: en una sociedad que ha vivido un conflicto armado prolongado, algunas personas dicen que "no se puede hacer la paz con los violentos" y que "la paz solo se logra eliminando a los criminales". Otras personas dicen que "la paz solo es posible dialogando incluso con los peores enemigos". ¿Cuál de estas posturas se alinea mejor con el concepto de cultura de paz y por qué?
 
-### Options
+### Opciones
 - [ ] A) Eliminar a los criminales, porque la paz se impone por la fuerza <!-- feedback: Incorrecto. La violencia solo genera más violencia. -->
 - [ ] B) No dialogar con nadie, porque todos los conflictos se resuelven solos <!-- feedback: Incorrecto. No dialogar perpetúa los conflictos. -->
 - [x] C) Dialogar incluso con los oponentes, porque la cultura de paz se basa en la convicción de que los conflictos se transforman mediante el diálogo y la negociación, no con la eliminación del otro <!-- feedback: Correcto. La cultura de paz cree en la transformación pacífica de los conflictos. -->

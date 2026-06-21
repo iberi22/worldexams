@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-6-2026-W25-repaso-p5-001-MASTERY"
+id: "CO-LEC-6-2026-W25-repaso-p5-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "repaso-p5"
-semana: 25
+week: "W25"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "argumentación, tesis, opinión, persuasión, propaganda, publicidad, recursos retóricos"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W25 — REPASO Periodo 5
 
@@ -30,14 +37,15 @@ rubric_baseline: "argumentación, tesis, opinión, persuasión, propaganda, publ
 
 **ID:** `CO-LEC-6-2026-W25-repaso-p5-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de tipos de texto
-**Context:** Repaso de conceptos básicos
+**Contexto:** Repaso de conceptos básicos
 
 ### Enunciado
 
 ¿Cuál de los siguientes textos tiene como propósito principal **persuadir** al lector?
 
-### Options
+### Opciones
 - [ ] A) Una noticia sobre un terremoto en el Eje Cafetero <!-- feedback: Incorrecto. Una noticia informa, no busca convencer al lector de nada. -->
 - [x] B) Una columna de opinión que argumenta por qué deberíamos reciclar más en Bogotá <!-- feedback: ¡Correcto! La columna de opinión busca convencer al lector de una postura mediante argumentos. -->
 - [ ] C) Un instructivo para armar un mueble <!-- feedback: Incorrecto. Un instructivo explica pasos a seguir, no busca persuadir. -->
@@ -52,14 +60,15 @@ Los textos persuasivos buscan influir en las creencias, actitudes o acciones del
 
 **ID:** `CO-LEC-6-2026-W25-repaso-p5-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de elementos textuales
-**Context:** Repaso: tesis
+**Contexto:** Repaso: tesis
 
 ### Enunciado
 
 En un texto argumentativo, ¿qué es la **tesis**?
 
-### Options
+### Opciones
 - [ ] A) El título del texto <!-- feedback: Incorrecto. El título puede anunciar el tema, pero no es la tesis. -->
 - [x] B) La opinión o postura principal que el autor defiende <!-- feedback: ¡Correcto! La tesis es la idea central que el autor busca demostrar o defender a lo largo del texto. -->
 - [ ] C) El primer párrafo del texto <!-- feedback: Incorrecto. La tesis puede estar al inicio, pero no es sinónimo de "primer párrafo". -->
@@ -74,8 +83,9 @@ Identificar la tesis es el paso más importante al leer un texto argumentativo. 
 
 **ID:** `CO-LEC-6-2026-W25-repaso-p5-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión global
-**Context:** Repaso: identificar tesis en un texto corto
+**Contexto:** Repaso: identificar tesis en un texto corto
 
 ### Enunciado
 
@@ -83,7 +93,7 @@ Identificar la tesis es el paso más importante al leer un texto argumentativo. 
 
 ¿Cuál es la tesis de este texto?
 
-### Options
+### Opciones
 - [ ] A) Que el DANE tiene datos sobre reciclaje <!-- feedback: Incorrecto. El dato del DANE es un argumento, no la tesis. -->
 - [ ] B) Que las plantas de reciclaje no funcionan <!-- feedback: Incorrecto. Las plantas no funcionan POR UNA CAUSA, esa causa es la tesis. -->
 - [x] C) Que el reciclaje en Colombia no funciona porque los hogares no separan los residuos <!-- feedback: ¡Correcto! Esa es la opinión principal que el autor defiende: el problema es la falta de separación en la fuente. -->
@@ -98,8 +108,9 @@ Para encontrar la tesis, pregúntate: ¿cuál es la conclusión a la que el auto
 
 **ID:** `CO-LEC-6-2026-W25-repaso-p5-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión global
-**Context:** Repaso: tipos de argumentos
+**Contexto:** Repaso: tipos de argumentos
 
 ### Enunciado
 
@@ -107,7 +118,7 @@ Para encontrar la tesis, pregúntate: ¿cuál es la conclusión a la que el auto
 
 ¿Qué tipo de argumento se está usando?
 
-### Options
+### Opciones
 - [ ] A) Argumento emocional (apela a los sentimientos) <!-- feedback: Incorrecto. No hay apelación a emociones como miedo o esperanza. -->
 - [x] B) Argumento de autoridad (cita a un experto en el tema) <!-- feedback: ¡Correcto! Se cita a un epidemiólogo de una universidad reconocida para dar peso a la afirmación. -->
 - [ ] C) Argumento estadístico (usa números) <!-- feedback: Incorrecto. No hay datos numéricos en este fragmento. -->
@@ -122,8 +133,9 @@ El argumento de autoridad se basa en la credibilidad de un experto. Funciona cua
 
 **ID:** `CO-LEC-6-2026-W25-repaso-p5-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión global
-**Context:** Repaso: recursos persuasivos
+**Contexto:** Repaso: recursos persuasivos
 
 ### Enunciado
 
@@ -131,7 +143,7 @@ El argumento de autoridad se basa en la credibilidad de un experto. Funciona cua
 
 ¿Qué recurso persuasivo predomina?
 
-### Options
+### Opciones
 - [ ] A) Estadísticas sobre el rendimiento del zapato <!-- feedback: Incorrecto. No hay datos numéricos. -->
 - [ ] B) Una amenaza (si no compras los zapatos, no saltarás) <!-- feedback: Incorrecto. No hay amenaza. -->
 - [x] C) Exageración y promesa de un resultado aspiracional (volar = rendimiento excepcional) <!-- feedback: ¡Correcto! "Volar" es una exageración. La publicidad promete un resultado idealizado que no necesariamente es real. -->
@@ -146,8 +158,9 @@ La exageración (hipérbole) es un recurso común en publicidad. Promete resulta
 
 **ID:** `CO-LEC-6-2026-W25-repaso-p5-006-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Repaso: contraste de posturas
+**Contexto:** Repaso: contraste de posturas
 
 ### Enunciado
 
@@ -157,7 +170,7 @@ La exageración (hipérbole) es un recurso común en publicidad. Promete resulta
 
 ¿Qué tienen en común ambas posturas?
 
-### Options
+### Opciones
 - [ ] A) Ambas quieren prohibir las bolsas plásticas <!-- feedback: Incorrecto. La Postura B está en contra de la prohibición. -->
 - [ ] B) Ambas ignoran el medio ambiente <!-- feedback: Incorrecto. La Postura A se centra en el medio ambiente. -->
 - [x] C) Ambas reconocen que el tema es importante, pero priorizan valores diferentes: la Postura A el medio ambiente, la Postura B la economía familiar <!-- feedback: ¡Correcto! Ambas reconocen un problema real, pero tienen prioridades distintas (ecología vs. economía). -->
@@ -172,8 +185,9 @@ Analizar posturas enfrentadas implica reconocer que ambas pueden tener argumento
 
 **ID:** `CO-LEC-6-2026-W25-repaso-p5-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Repaso: detectar sesgo
+**Contexto:** Repaso: detectar sesgo
 
 ### Enunciado
 
@@ -181,7 +195,7 @@ Analizar posturas enfrentadas implica reconocer que ambas pueden tener argumento
 
 ¿Qué posible sesgo tiene este autor?
 
-### Options
+### Opciones
 - [ ] A) No tiene sesgo, es un experto en nutrición. <!-- feedback: Incorrecto. Su cargo no lo convierte en experto en salud. -->
 - [x] B) Como presidente de una empresa de bebidas azucaradas, tiene un interés económico en que la gente siga comprando sus productos. <!-- feedback: ¡Correcto! El sesgo es financiero: su empresa se vería afectada si la gente dejara de consumir bebidas azucaradas. -->
 - [ ] C) Es una persona muy deportista. <!-- feedback: Incorrecto. No hay evidencia de eso. -->
@@ -196,14 +210,15 @@ Detectar sesgos implica preguntarse: ¿quién es el autor y qué interés tiene 
 
 **ID:** `CO-LEC-6-2026-W25-repaso-p5-008-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Repaso: evaluar credibilidad
+**Contexto:** Repaso: evaluar credibilidad
 
 ### Enunciado
 
 ¿Cuál de las siguientes fuentes es MÁS confiable para informarse sobre los efectos del consumo de azúcar en niños?
 
-### Options
+### Opciones
 - [ ] A) Un anuncio de una marca de gaseosas <!-- feedback: Incorrecto. La marca tiene interés en que se consuma su producto. -->
 - [ ] B) Un video de TikTok de un influencer fitness <!-- feedback: Incorrecto. Los influencers no son necesariamente expertos y pueden recibir patrocinios. -->
 - [x] C) Un estudio publicado por la Organización Mundial de la Salud (OMS) <!-- feedback: ¡Correcto! La OMS es una organización internacional independiente con expertos en salud pública. Sus estudios son revisados por pares y no tienen fines de lucro. -->
@@ -218,14 +233,15 @@ Evaluar la confiabilidad de las fuentes: una fuente confiable es independiente, 
 
 **ID:** `CO-LEC-6-2026-W25-repaso-p5-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Contraste entre tipos de texto
-**Context:** Repaso: público objetivo
+**Contexto:** Repaso: público objetivo
 
 ### Enunciado
 
 Un anuncio de juguetes aparece en un canal infantil de YouTube. Un anuncio de una pensión de jubilación aparece en un noticiero de la noche. ¿Qué nos dice esto?
 
-### Options
+### Opciones
 - [ ] A) Que los anuncios se ponen al azar sin pensar en la audiencia <!-- feedback: Incorrecto. Los anuncios se planifican cuidadosamente. -->
 - [ ] B) Que los juguetes son más importantes que las pensiones. <!-- feedback: Incorrecto. -->
 - [x] C) Que cada anuncio se dirige a un público específico: niños (juguetes) y adultos mayores (pensiones). Las empresas eligen el medio según el público al que quieren llegar. <!-- feedback: ¡Correcto! La segmentación de audiencia es una estrategia publicitaria clave: cada anuncio busca a su público en el lugar y momento adecuados. -->
@@ -240,8 +256,9 @@ Los anuncios no se dirigen a "todo el mundo", sino a un público objetivo espec�
 
 **ID:** `CO-LEC-6-2026-W25-repaso-p5-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Valoración crítica global
-**Context:** Repaso: aplicar conceptos
+**Contexto:** Repaso: aplicar conceptos
 
 ### Enunciado
 
@@ -249,7 +266,7 @@ Imagina que ves el siguiente titular en una red social: "¡Médicos descubren qu
 
 ¿Cuál es la mejor reacción como lector crítico?
 
-### Options
+### Opciones
 - [ ] A) Compartirlo inmediatamente porque puede ayudar a alguien. <!-- feedback: Incorrecto. Antes de compartir, debemos verificar. -->
 - [x] B) Desconfiar: un titular tan impactante probablemente es falso o exagerado. Buscar la fuente original, verificar si hay estudios que lo respalden y si los "médicos" existen y son confiables. <!-- feedback: ¡Correcto! Un lector crítico no comparte información sin verificarla. Los titulares sensacionalistas suelen ser falsos o engañosos (clickbait). -->
 - [ ] C) Ir a comprar chocolate inmediatamente. <!-- feedback: Incorrecto. El titular no debe ser tomado como verdad sin verificación. -->

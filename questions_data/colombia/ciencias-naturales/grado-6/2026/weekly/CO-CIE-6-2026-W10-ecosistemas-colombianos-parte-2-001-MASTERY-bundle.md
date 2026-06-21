@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W10-ecosistemas-colombianos-parte-2-001-MASTERY"
+id: "CO-CIE-6-2026-W10-ecosistemas-colombianos-parte-2-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W10 — Ecosistemas Colombianos - Páramos y Humedales
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W10-ecosistemas-colombianos-parte-2-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, estudian los páramos, ecosistemas estratégicos colombianos.
+**Contexto:** En Bogotá, estudian los páramos, ecosistemas estratégicos colombianos.
 
 ### Enunciado
 ¿Qué altitud mínima debe tener un ecosistema para ser considerado páramo en Colombia?
 
-### Options
+### Opciones
 - [ ] A) 1,000 metros <!-- feedback: Incorrecto. A 1,000 m hay bosque andino. -->
 - [ ] B) 2,000 metros <!-- feedback: Incorrecto. A 2,000 m hay bosque altoandino. -->
 - [x] C) 3,000 metros <!-- feedback: Correcto. El páramo comienza sobre los 3,000 m. -->
@@ -48,13 +51,14 @@ El páramo se encuentra entre los 3,000 y 4,500 metros de altitud (aproximadamen
 
 **ID:** `CO-CIE-6-2026-W10-ecosistemas-colombianos-parte-2-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, identifican la vegetación del páramo.
+**Contexto:** En Medellín, identifican la vegetación del páramo.
 
 ### Enunciado
 ¿Cuál es la planta más representativa del páramo colombiano?
 
-### Options
+### Opciones
 - [ ] A) El roble <!-- feedback: Incorrecto. El roble es de bosque andino. -->
 - [x] B) El frailejón <!-- feedback: Correcto. El frailejón es el símbolo del páramo. -->
 - [ ] C) La palma de cera <!-- feedback: Incorrecto. La palma de cera es del bosque altoandino. -->
@@ -69,13 +73,14 @@ El **frailejón** (Espeletia) es una planta adaptada a las condiciones extremas 
 
 **ID:** `CO-CIE-6-2026-W10-ecosistemas-colombianos-parte-2-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, explican la función hídrica del páramo.
+**Contexto:** En Cali, explican la función hídrica del páramo.
 
 ### Enunciado
 ¿Por qué se dice que los páramos son "fábricas de agua"?
 
-### Options
+### Opciones
 - [ ] A) Porque tienen muchos ríos subterráneos <!-- feedback: Incorrecto. No es la razón principal. -->
 - [ ] B) Porque allí se fabrica agua potable <!-- feedback: Incorrecto. No fabrican agua, la regulan. -->
 - [x] C) Porque capturan la niebla y el agua de lluvia, la almacenan en suelos esponjosos y la liberan gradualmente a los ríos <!-- feedback: Correcto. -->
@@ -90,13 +95,14 @@ Los páramos regulan el ciclo del agua gracias a: (1) los frailejones capturan n
 
 **ID:** `CO-CIE-6-2026-W10-ecosistemas-colombianos-parte-2-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, estudian los humedales de la Costa Caribe.
+**Contexto:** En Barranquilla, estudian los humedales de la Costa Caribe.
 
 ### Enunciado
 ¿Qué es un humedal?
 
-### Options
+### Opciones
 - [ ] A) Un lugar seco y árido <!-- feedback: Incorrecto. Humedal implica presencia de agua. -->
 - [ ] B) Un lago artificial para recreación <!-- feedback: Incorrecto. Los humedales son naturales. -->
 - [x] C) Un ecosistema inundado temporal o permanentemente, con vegetación adaptada al agua <!-- feedback: Correcto. -->
@@ -111,13 +117,14 @@ Los **humedales** son ecosistemas donde el agua es el factor principal. Incluyen
 
 **ID:** `CO-CIE-6-2026-W10-ecosistemas-colombianos-parte-2-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, analizan el conflicto minero en Santurbán.
+**Contexto:** En Bucaramanga, analizan el conflicto minero en Santurbán.
 
 ### Enunciado
 La minería de oro en el páramo de Santurbán ha generado controversia. ¿Cuál es la principal preocupación ambiental?
 
-### Options
+### Opciones
 - [ ] A) Que los mineros dañen las flores <!-- feedback: Incorrecto. Es un problema más grave. -->
 - [ ] B) Que el ruido ahuyente los animales <!-- feedback: Incorrecto. No es el principal problema. -->
 - [x] C) Que la minería contamine y altere el páramo, afectando el suministro de agua de millones de personas <!-- feedback: Correcto. -->
@@ -136,13 +143,14 @@ En 2016, la Corte Constitucional determinó que no se pueden realizar actividade
 
 **ID:** `CO-CIE-6-2026-W10-ecosistemas-colombianos-parte-2-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, relacionan humedales con servicios ecosistémicos.
+**Contexto:** En Cartagena, relacionan humedales con servicios ecosistémicos.
 
 ### Enunciado
 ¿Por qué la Ciénaga Grande de Santa Marta es importante para las comunidades de la región?
 
-### Options
+### Opciones
 - [ ] A) Porque es un buen lugar para construir hoteles <!-- feedback: Incorrecto. Su valor ecológico es mayor. -->
 - [ ] B) Porque tiene agua potable <!-- feedback: Incorrecto. Es agua salobre. -->
 - [x] C) Porque es fuente de pesca artesanal, regula inundaciones y es hábitat de aves migratorias <!-- feedback: Correcto. -->
@@ -157,13 +165,14 @@ La **Ciénaga Grande de Santa Marta** (CGSM) es el humedal más grande de Colomb
 
 **ID:** `CO-CIE-6-2026-W10-ecosistemas-colombianos-parte-2-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan el efecto del cambio climático en páramos.
+**Contexto:** En Pereira, analizan el efecto del cambio climático en páramos.
 
 ### Enunciado
 ¿Cómo afecta el cambio climático a los páramos colombianos?
 
-### Options
+### Opciones
 - [ ] A) Los páramos se benefician del calor <!-- feedback: Incorrecto. El calor los perjudica. -->
 - [ ] B) No hay efecto porque están a gran altura <!-- feedback: Incorrecto. Son muy vulnerables. -->
 - [x] C) El aumento de temperatura hace que los páramos se desplacen hacia arriba y los frailejones pierdan su hábitat, reduciendo la capacidad de captar agua <!-- feedback: Correcto. -->
@@ -178,13 +187,14 @@ El cambio climático afecta severamente los páramos: (1) el aumento de temperat
 
 **ID:** `CO-CIE-6-2026-W10-ecosistemas-colombianos-parte-2-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, comparan el bosque altoandino y el páramo.
+**Contexto:** En Manizales, comparan el bosque altoandino y el páramo.
 
 ### Enunciado
 ¿Qué diferencia al bosque altoandino del páramo?
 
-### Options
+### Opciones
 - [ ] A) El bosque altoandino tiene más frailejones <!-- feedback: Incorrecto. Los frailejones son de páramo. -->
 - [ ] B) En el páramo hay árboles de 30 metros <!-- feedback: Incorrecto. En páramo los árboles son bajos. -->
 - [x] C) El bosque altoandino tiene árboles de hasta 20 m, mientras que el páramo tiene vegetación baja (frailejones, pajonales) adaptada al frío extremo <!-- feedback: Correcto. -->
@@ -199,13 +209,14 @@ El **bosque altoandino** (2,800-3,200 m) tiene árboles como el encenillo, el si
 
 **ID:** `CO-CIE-6-2026-W10-ecosistemas-colombianos-parte-2-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan la protección legal de los páramos.
+**Contexto:** En Cúcuta, evalúan la protección legal de los páramos.
 
 ### Enunciado
 En 2016, la Corte Constitucional colombiana prohibió la minería en páramos. ¿Cuál es el mejor argumento para apoyar esta decisión?
 
-### Options
+### Opciones
 - [ ] A) La minería no genera empleo <!-- feedback: Incorrecto. Sí genera empleo. -->
 - [ ] B) Los páramos son feos sin minería <!-- feedback: Incorrecto. No es un argumento válido. -->
 - [x] C) Los páramos proveen agua al 70% de la población; su daño sería irreversible y afectaría el derecho fundamental al agua <!-- feedback: Correcto. -->
@@ -220,13 +231,14 @@ La Sentencia C-035/2016 de la Corte Constitucional delimitó los páramos como "
 
 **ID:** `CO-CIE-6-2026-W10-ecosistemas-colombianos-parte-2-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan la restauración de humedales.
+**Contexto:** En Ibagué, evalúan la restauración de humedales.
 
 ### Enunciado
 ¿Cuál es la mejor estrategia para recuperar un humedal degradado como la Ciénaga Grande de Santa Marta?
 
-### Options
+### Opciones
 - [ ] A) Drenar toda el agua y construir viviendas <!-- feedback: Incorrecto. Eso destruiría el humedal. -->
 - [ ] B) Sembrar árboles frutales <!-- feedback: Incorrecto. No es apropiado para humedales. -->
 - [x] C) Restaurar el flujo natural de agua (reabrir canales que conecten el humedal con el río y el mar) y reforestar manglares <!-- feedback: Correcto. -->

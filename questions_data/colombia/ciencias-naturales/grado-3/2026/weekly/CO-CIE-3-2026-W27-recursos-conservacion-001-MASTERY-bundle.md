@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY"
+id: "CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "recursos-conservacion"
-semana: "W27"
+week: "W27"
 periodo: 3
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Conservación de recursos naturales: las 3R (reducir, reutiliz
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Conservación de Nuestros Recursos
 
 Este bundle promueve la conciencia ambiental y las acciones prácticas que los estudiantes pueden tomar para proteger los recursos naturales renovables y no renovables de nuestro planeta.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el colegio, Mariana aprende sobre la regla de las 3R para ayudar al medio ambiente.
+**Contexto:** En el colegio, Mariana aprende sobre la regla de las 3R para ayudar al medio ambiente.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ Las 3R son una guía para el consumo responsable. Reducir es gastar menos; Reuti
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Juan apaga la luz siempre que sale de su habitación y desconecta el cargador del celular cuando no lo está usando.
+**Contexto:** Juan apaga la luz siempre que sale de su habitación y desconecta el cargador del celular cuando no lo está usando.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -73,12 +77,12 @@ Ahorrar energía es salvar ríos y bosques. En Colombia, muchas de nuestras "fá
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Para separar la basura correctamente, el colegio tiene canecas de diferentes colores: verde, blanca y negra.
+**Contexto:** Para separar la basura correctamente, el colegio tiene canecas de diferentes colores: verde, blanca y negra.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ Separar los residuos orgánicos permite que la comida se convierta en humus en l
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Mariana usa una botella de plástico vieja para hacer una hermosa maceta para sus flores de la ventana.
+**Contexto:** Mariana usa una botella de plástico vieja para hacer una hermosa maceta para sus flores de la ventana.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -123,12 +127,12 @@ Reutilizar es la forma más creativa de cuidar el planeta. Alarga la vida de los
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Vas al supermercado y puedes elegir entre una bolsa de plástico de un solo uso o llevar tu propia bolsa de tela resistente desde casa.
+**Contexto:** Vas al supermercado y puedes elegir entre una bolsa de plástico de un solo uso o llevar tu propia bolsa de tela resistente desde casa.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -148,12 +152,12 @@ Reducir es la más importante de las 3R. Si no usamos cosas innecesarias, la Tie
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En un pueblo prohibieron las bolsas de plástico y ahora el río se ve limpio y han vuelto a aparecer muchos peces y aves.
+**Contexto:** En un pueblo prohibieron las bolsas de plástico y ahora el río se ve limpio y han vuelto a aparecer muchos peces y aves.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -173,12 +177,12 @@ La conservación tiene resultados inmediatos. Los animales son muy inteligentes:
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** El reciclaje del papel ayuda a que se corten menos árboles en los bosques comerciales.
+**Contexto:** El reciclaje del papel ayuda a que se corten menos árboles en los bosques comerciales.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -198,12 +202,12 @@ Un árbol tarda años en crecer. Reciclar una tonelada de papel salva unos 17 á
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Tu familia quiere ahorrar agua. Tienen dos opciones: 1. Lavar el carro con una manguera abierta, 2. Lavar el carro con un balde de agua.
+**Contexto:** Tu familia quiere ahorrar agua. Tienen dos opciones: 1. Lavar el carro con una manguera abierta, 2. Lavar el carro con un balde de agua.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -223,12 +227,12 @@ El ahorro de agua es una acción de solidaridad. El agua que desperdicias con la
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En las islas de San Andrés, se pide a los turistas que no se lleven caracoles ni pedazos de coral como recuerdo.
+**Contexto:** En las islas de San Andrés, se pide a los turistas que no se lleven caracoles ni pedazos de coral como recuerdo.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -248,12 +252,12 @@ En la naturaleza, nada sobra. Incluso una concha vacía de caracol tiene un pape
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W27-recursos-conservacion-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un niño dice: "Yo no cuido los recursos porque mi papá paga el agua y la luz, así que puedo gastar lo que quiera".
+**Contexto:** Un niño dice: "Yo no cuido los recursos porque mi papá paga el agua y la luz, así que puedo gastar lo que quiera".
 **Expected_Success:** 0.60
 
 ### Enunciado

@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-P1-inferencia-basica-INDEX-MASTERY"
+id: "CO-LEC-6-2026-P1-inferencia-basica-INDEX-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "inferencia básica, deducción, conclusión implícita, información no dicha"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G6 — Inferencia Básica
 
@@ -29,12 +36,13 @@ rubric_baseline: "inferencia básica, deducción, conclusión implícita, inform
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Dónde ocurre la historia?
 
-### Options
+### Opciones
 - [ ] A) En Bogotá. <!-- feedback: Incorrecto. -->
 - [x] B) En una reserva natural del Quindío. <!-- feedback: Correcto. -->
 - [ ] C) En la costa Atlántica. <!-- feedback: Incorrecto. -->
@@ -46,12 +54,13 @@ Identificación del lugar donde ocurren los hechos.
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Cuánto tiempo lleva Doña Matilde viviendo en la reserva?
 
-### Options
+### Opciones
 - [ ] A) 20 años. <!-- feedback: Incorrecto. -->
 - [x] B) 40 años. <!-- feedback: Correcto. -->
 - [ ] C) 10 años. <!-- feedback: Incorrecto. -->
@@ -63,12 +72,13 @@ Identificación de un dato numérico explícito.
 ## Question 3 [D4]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Qué notaron los biólogos que era diferente este año?
 
-### Options
+### Opciones
 - [ ] A) Que había más luciérnagas. <!-- feedback: Incorrecto. -->
 - [x] B) Que había menos luciérnagas que antes. <!-- feedback: Correcto. -->
 - [ ] C) Que las luciérnagas eran más grandes. <!-- feedback: Incorrecto. -->
@@ -80,12 +90,13 @@ Comprensión del cambio descrito en el texto.
 ## Question 4 [D5 - Inferencia]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Por qué Doña Matilde compara las luciérnagas con estrellas en el suelo?
 
-### Options
+### Opciones
 - [ ] A) Porque las luciérnagas caían del cielo. <!-- feedback: Incorrecto. -->
 - [x] B) Porque las luciérnagas brillaban en la oscuridad, como estrellas, pero en la tierra. <!-- feedback: Correcto. -->
 - [ ] C) Porque había estrellas reflejadas en el suelo. <!-- feedback: Incorrecto. -->
@@ -97,12 +108,13 @@ Inferencia del significado de una comparación poética en un contexto real.
 ## Question 5 [D5 - Inferencia]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué podemos inferir sobre la relación entre los pesticidas y las luciérnagas?
 
-### Options
+### Opciones
 - [ ] A) Los pesticidas atraen a las luciérnagas. <!-- feedback: Incorrecto. -->
 - [x] B) El aumento de pesticidas probablemente está afectando negativamente a las luciérnagas. <!-- feedback: Correcto. -->
 - [ ] C) Los pesticidas no tienen relación. <!-- feedback: Incorrecto. -->
@@ -114,12 +126,13 @@ Inferencia de una relación de causa-efecto no dicha explícitamente.
 ## Question 6 [D5 - Inferencia]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Por qué las nuevas luces de las casas afectan a las luciérnagas?
 
-### Options
+### Opciones
 - [ ] A) Porque las luces atraen a las luciérnagas y las lastiman. <!-- feedback: Incorrecto. -->
 - [x] B) Porque las luciérnagas necesitan oscuridad para reproducirse y las luces interfieren. <!-- feedback: Correcto. -->
 - [ ] C) Porque a las luciérnagas les gusta la luz. <!-- feedback: Incorrecto. -->
@@ -131,12 +144,13 @@ Inferencia a partir de información implícita sobre los requisitos de hábitat.
 ## Question 7 [D5 - Inferencia]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué puedes inferir sobre la intención de Doña Matilde al decir "Ahora casi no se ven"?
 
-### Options
+### Opciones
 - [ ] A) Está contenta. <!-- feedback: Incorrecto. -->
 - [x] B) Siente nostalgia y preocupación por el cambio. <!-- feedback: Correcto. -->
 - [ ] C) Está enojada con los biólogos. <!-- feedback: Incorrecto. -->
@@ -148,12 +162,13 @@ Inferencia del estado emocional a partir del lenguaje utilizado.
 ## Question 8 [D5 - Inferencia]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué pasó con el bosque nativo según el texto?
 
-### Options
+### Opciones
 - [ ] A) Creció más. <!-- feedback: Incorrecto. -->
 - [x] B) Se redujo por la construcción de nuevas viviendas. <!-- feedback: Correcto. -->
 - [ ] C) Se quemó. <!-- feedback: Incorrecto. -->
@@ -165,12 +180,13 @@ Identificación de un cambio explícito en el entorno.
 ## Question 9 [D5 - Inferencia]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Cuál es la consecuencia de que haya menos luciérnagas?
 
-### Options
+### Opciones
 - [ ] A) No tiene consecuencias. <!-- feedback: Incorrecto. -->
 - [x] B) El ecosistema nocturno se altera y se pierde un atractivo natural importante. <!-- feedback: Correcto. -->
 - [ ] C) Aumentan los mosquitos. <!-- feedback: Incorrecto. -->
@@ -182,12 +198,13 @@ Inferencia de las consecuencias ecológicas de la disminución de una especie.
 ## Question 10 [D5 - Evaluación]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Qué enseñanza nos deja la situación de las luciérnagas del Quindío?
 
-### Options
+### Opciones
 - [ ] A) Que las luciérnagas son insectos sin importancia. <!-- feedback: Incorrecto. -->
 - [x] B) Que nuestras acciones (pesticidas, construcción) afectan a otras especies, incluso sin quererlo. <!-- feedback: Correcto. -->
 - [ ] C) Que las luciérnagas deben criarse en cautiverio. <!-- feedback: Incorrecto. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-8-2026-P2-punto-vista-narrador-INDEX-MASTERY"
+id: "CO-LEC-8-2026-P2-punto-vista-narrador-INDEX-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.20"
   simulated_responses: 100
 rubric_baseline: "punto de vista, narrador, voz narrativa, perspectiva, primera persona, tercera persona, narrador omnisciente, narrador testigo, confiabilidad"
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G8 — Punto de Vista del Narrador
 
@@ -38,12 +45,13 @@ rubric_baseline: "punto de vista, narrador, voz narrativa, perspectiva, primera 
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿En qué lugar ocurrieron los hechos?
 
-### Options
+### Opciones
 - [ ] A) En el Parque Simón Bolívar. <!-- feedback: Incorrecto. -->
 - [x] B) En la Plaza de Bolívar, Bogotá. <!-- feedback: Correcto. -->
 - [ ] C) En la Universidad Nacional. <!-- feedback: Incorrecto. -->
@@ -55,12 +63,13 @@ Identificación del lugar explícito.
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 Según la Versión 1, ¿quién ayudó al estudiante?
 
-### Options
+### Opciones
 - [ ] A) Un policía. <!-- feedback: Incorrecto. -->
 - [x] B) Una señora dueña de una tienda. <!-- feedback: Correcto. -->
 - [ ] C) Un profesor. <!-- feedback: Incorrecto. -->
@@ -72,12 +81,13 @@ Identificación de un personaje secundario.
 ## Question 3 [D4 - Punto de vista]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿En qué persona gramatical está narrada la Versión 1?
 
-### Options
+### Opciones
 - [x] A) Primera persona ("Estaba ahí", "Sentí", "Corrí"). <!-- feedback: Correcto. -->
 - [ ] B) Segunda persona ("Usted"). <!-- feedback: Incorrecto. -->
 - [ ] C) Tercera persona ("Él", "Ella"). <!-- feedback: Incorrecto. -->
@@ -89,12 +99,13 @@ Identificación del tipo de narrador según la persona gramatical.
 ## Question 4 [D4 - Punto de vista]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Qué tipo de narrador tiene la Versión 2?
 
-### Options
+### Opciones
 - [ ] A) Narrador testigo (solo ve lo que pasa). <!-- feedback: Incorrecto. -->
 - [x] B) Narrador omnisciente (conoce los pensamientos y emociones de todos los personajes). <!-- feedback: Correcto. -->
 - [ ] C) Narrador en primera persona (participante). <!-- feedback: Incorrecto. -->
@@ -106,12 +117,13 @@ Identificación del narrador omnisciente.
 ## Question 5 [D4 - Punto de vista]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 La Versión 3 usa la segunda persona ("Usted"). ¿Quién es el narrador?
 
-### Options
+### Opciones
 - [ ] A) Un estudiante. <!-- feedback: Incorrecto. -->
 - [ ] B) Un periodista. <!-- feedback: Incorrecto. -->
 - [x] C) Un policía redactando un informe oficial. <!-- feedback: Correcto. -->
@@ -123,12 +135,13 @@ Identificación del emisor según el uso de la segunda persona y el lenguaje for
 ## Question 6 [D5 - Perspectiva]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué información tenemos en la Versión 2 que no tenemos en las otras?
 
-### Options
+### Opciones
 - [ ] A) Lo que pasó en la protesta. <!-- feedback: Incorrecto (todas lo tienen). -->
 - [x] B) Los pensamientos y emociones internas de varios personajes (María, sargento, señora Jiménez). <!-- feedback: Correcto. -->
 - [ ] C) La hora exacta de los hechos. <!-- feedback: Incorrecto. -->
@@ -140,12 +153,13 @@ Identificación de la ventaja informativa del narrador omnisciente.
 ## Question 7 [D5 - Confiabilidad]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué posible sesgo tiene la Versión 1 (estudiante)?
 
-### Options
+### Opciones
 - [ ] A) Es completamente objetiva. <!-- feedback: Incorrecto. -->
 - [x] B) Está contada desde el miedo y la experiencia personal, lo que puede exagerar la violencia. <!-- feedback: Correcto. -->
 - [ ] C) Defiende la actuación policial. <!-- feedback: Incorrecto. -->
@@ -157,12 +171,13 @@ Evaluación de la confiabilidad del narrador en primera persona.
 ## Question 8 [D5 - Confiabilidad]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué posible sesgo tiene la Versión 3 (informe policial)?
 
-### Options
+### Opciones
 - [ ] A) Es poética y subjetiva. <!-- feedback: Incorrecto. -->
 - [x] B) Usa lenguaje técnico y formal que minimiza la violencia ("dispersar", "parámetros legales") y omite las consecuencias humanas. <!-- feedback: Correcto. -->
 - [ ] C) Exagera el conflicto. <!-- feedback: Incorrecto. -->
@@ -174,12 +189,13 @@ Evaluación del sesgo institucional en narraciones oficiales.
 ## Question 9 [D5 - Efecto narrativo]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué efecto produce que la Versión 1 incluya emociones personales ("Sentí miedo, mucho miedo")?
 
-### Options
+### Opciones
 - [ ] A) Hace el texto más científico. <!-- feedback: Incorrecto. -->
 - [x] B) Genera empatía en el lector y transmite la experiencia humana del evento. <!-- feedback: Correcto. -->
 - [ ] C) Aleja al lector. <!-- feedback: Incorrecto. -->
@@ -191,12 +207,13 @@ Análisis del efecto emocional del narrador en primera persona.
 ## Question 10 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué efecto produce la Versión 3 al tratar al lector como "Usted"?
 
-### Options
+### Opciones
 - [ ] A) Hace el texto más cercano. <!-- feedback: Incorrecto. -->
 - [x] B) Hace el texto impersonal y formal, como si el lector fuera el interrogado. <!-- feedback: Correcto. -->
 - [ ] C) Hace el texto poético. <!-- feedback: Incorrecto. -->
@@ -208,12 +225,13 @@ Análisis del efecto de la segunda persona en la relación lector-texto.
 ## Question 11 [D5 - Comparación]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Cuál versión parece más "objetiva"? ¿Y por qué?
 
-### Options
+### Opciones
 - [ ] A) Versión 1, porque tiene emociones. <!-- feedback: Incorrecto. -->
 - [ ] B) Versión 2, porque incluye múltiples perspectivas (omnisciente). <!-- feedback: Correcto. -->
 - [ ] C) Versión 3, porque usa lenguaje técnico. <!-- feedback: Incorrecto (la tecnicidad puede ser una máscara de objetividad). -->
@@ -225,12 +243,13 @@ Evaluación de la objetividad según el tipo de narrador.
 ## Question 12 [D5 - Propósito según narrador]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Por qué un periodista que busca cubrir la protesta imparcialmente usaría un narrador como el de la Versión 2?
 
-### Options
+### Opciones
 - [ ] A) Para mostrar su opinión. <!-- feedback: Incorrecto. -->
 - [x] B) Para ofrecer múltiples perspectivas y dar una visión más completa del evento. <!-- feedback: Correcto. -->
 - [ ] C) Para acusar a los policías. <!-- feedback: Incorrecto. -->
@@ -242,12 +261,13 @@ Relación entre la elección del narrador y el propósito informativo/periodíst
 ## Question 13 [D6 - Evaluación]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 Si quisieras entender realmente lo que pasó en la protesta, ¿qué harías?
 
-### Options
+### Opciones
 - [ ] A) Leer solo la versión del estudiante. <!-- feedback: Incorrecto. -->
 - [ ] B) Leer solo el informe policial. <!-- feedback: Incorrecto. -->
 - [x] C) Leer las tres versiones y contrastarlas para construir una visión más completa. <!-- feedback: Correcto. -->
@@ -259,12 +279,13 @@ Reflexión sobre la importancia del contraste de fuentes para la comprensión de
 ## Question 14 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué recurso estilístico comparten las Versiones 1 y 3, aunque con intenciones opuestas?
 
-### Options
+### Opciones
 - [ ] A) Ambas usan metáforas. <!-- feedback: Incorrecto. -->
 - [x] B) Ambas usan la primera persona (Versión 1: "yo"; Versión 3: "usted" como sujeto). <!-- feedback: Correcto (la Versión 3 trata al lector como agente directo). -->
 - [ ] C) Ambas usan rima. <!-- feedback: Incorrecto. -->
@@ -276,12 +297,13 @@ Identificación de elementos comunes en narradores diferentes.
 ## Question 15 [D6]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Por qué es importante identificar el punto de vista del narrador al leer?
 
-### Options
+### Opciones
 - [ ] A) Para saber si la historia es verdadera. <!-- feedback: Incorrecto. -->
 - [x] B) Para entender desde qué posición se cuenta la historia y cómo eso afecta la información que recibimos. <!-- feedback: Correcto. -->
 - [ ] C) Para calificar al autor. <!-- feedback: Incorrecto. -->

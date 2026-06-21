@@ -1,5 +1,5 @@
 ---
-id: "MX-LENGUA-6-P1-lectura-comprension-708-MASTERY"
+id: "mx-lengua-6-P1-lectura-comprension-MASTERY-bundle"
 country: "mexico"
 grado: 6
 asignatura: "lengua"
@@ -12,21 +12,28 @@ total_options: 80
 alignment: "Curriculum-aligned MASTERY bundle"
 difficulty_distribution: "D3-D4: Q1-4, D5-D6: Q5-10, D7-D8: Q11-16, D9-D10: Q17-20"
 generated: "2026-06-09T19:46:36.666359"
-license: "CC BY-NC-SA 4.0"
+license: "FREE"
 open_source: false
+bundle_type: "weekly"
+year: 2026
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 ## Question 1 [D3-D4]
 
 **ID:** `MX-LENGUA-6-P1-lectura-comprension-001`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.65]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es la función principal de un ensayo argumentativo?
 
-### Options
+### Opciones
 - [x] B) Informar objetivamente <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) Persuadir al lector <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) Describir un proceso <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -41,14 +48,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 2 [D3-D4]
 
 **ID:** `MX-LENGUA-6-P1-lectura-comprension-002`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.70]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Identifique la oración subordinada en: 'El libro que me prestaste es fascinante.'
 
-### Options
+### Opciones
 - [ ] D) me prestaste <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [x] B) El libro <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) que me prestaste <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -63,14 +72,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 3 [D3-D4]
 
 **ID:** `MX-LENGUA-6-P1-lectura-comprension-003`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.75]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué figura literaria predomina en 'Tus ojos son dos luceros'?
 
-### Options
+### Opciones
 - [x] B) Símil <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] C) Hipérbole <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] D) Personificación <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -85,14 +96,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 4 [D3-D4]
 
 **ID:** `MX-LENGUA-6-P1-lectura-comprension-004`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.80]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Seleccione el sinónimo correcto de 'efímero'.
 
-### Options
+### Opciones
 - [x] B) Eterno / permanente <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] C) Grande / enorme <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] D) Lento / pausado <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -107,14 +120,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 5 [D5-D6]
 
 **ID:** `MX-LENGUA-6-P1-lectura-comprension-005`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.65]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es la idea principal de un texto expositivo?
 
-### Options
+### Opciones
 - [ ] C) Convencer al lector <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] A) Explicar un tema <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) Describir un personaje <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -130,13 +145,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 
 **ID:** `MX-LENGUA-6-P1-lectura-comprension-006`
 **Bloom:** [Create]
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.70]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Determine la categoría gramatical de la palabra 'rápidamente'.
 
-### Options
+### Opciones
 - [ ] A) Adverbio <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) Verbo <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) Sustantivo <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -151,14 +168,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 7 [D5-D6]
 
 **ID:** `MX-LENGUA-6-P1-lectura-comprension-007`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.75]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Complete la oración correctamente: 'Si ___ tiempo, iría al cine.'
 
-### Options
+### Opciones
 - [ ] C) tuve <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] A) tuviera <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [x] B) tengo <!-- feedback: Correct. This is correct. Well done! -->
@@ -173,14 +192,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 8 [D5-D6]
 
 **ID:** `MX-LENGUA-6-P1-lectura-comprension-008`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.80]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué tipo de texto es una noticia periodística?
 
-### Options
+### Opciones
 - [ ] D) Poético <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) Argumentativo <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] A) Informativo <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -195,14 +216,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 9 [D5-D6]
 
 **ID:** `MX-LENGUA-6-P1-lectura-comprension-009`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.65]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Identifique el error ortográfico: 'Exámenes, exito, cárcel, árbol'
 
-### Options
+### Opciones
 - [ ] A) éxito <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [x] B) Exámenes <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] D) árbol <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -217,14 +240,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 10 [D5-D6]
 
 **ID:** `MX-LENGUA-6-P1-lectura-comprension-010`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.70]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es el sujeto de la oración 'Mañana llegarán los invitados'?
 
-### Options
+### Opciones
 - [ ] A) los invitados <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [x] B) Mañana <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] D) invitados <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -239,14 +264,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 11 [D7-D8]
 
 **ID:** `MX-LENGUA-6-P1-lectura-comprension-011`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.75]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Defina el concepto de 'cohesión textual'.
 
-### Options
+### Opciones
 - [x] B) Corrección gramatical <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] D) Extensión del texto <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] A) Conexión entre oraciones <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -262,13 +289,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 
 **ID:** `MX-LENGUA-6-P1-lectura-comprension-012`
 **Bloom:** [Create]
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.80]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué función tiene un conector discursivo como 'sin embargo'?
 
-### Options
+### Opciones
 - [ ] C) Ordenar ideas <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [x] B) Añadir información <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) Indicar contraste <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -283,14 +312,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 13 [D7-D8]
 
 **ID:** `MX-LENGUA-6-P1-lectura-comprension-013`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.65]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Identifique la tesis en el siguiente argumento...
 
-### Options
+### Opciones
 - [ ] A) La tesis se presenta... <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) El texto no tiene tesis <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) El autor concluye... <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -305,14 +336,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 14 [D7-D8]
 
 **ID:** `MX-LENGUA-6-P1-lectura-comprension-014`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.70]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál de las siguientes opciones es un texto narrativo?
 
-### Options
+### Opciones
 - [ ] C) Un instructivo <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] D) Una receta <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [x] B) Un artículo científico <!-- feedback: Correct. This is correct. Well done! -->
@@ -327,14 +360,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 15 [D7-D8]
 
 **ID:** `MX-LENGUA-6-P1-lectura-comprension-015`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.75]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Señale el adverbio de tiempo en: 'Siempre come después de trabajar.'
 
-### Options
+### Opciones
 - [ ] A) Siempre <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] C) después <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [x] B) come <!-- feedback: Correct. This is correct. Well done! -->
@@ -349,14 +384,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 16 [D7-D8]
 
 **ID:** `MX-LENGUA-6-P1-lectura-comprension-016`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.80]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Enumere las partes de un texto argumentativo.
 
-### Options
+### Opciones
 - [x] B) Sujeto y predicado <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] D) Tesis, antítesis, síntesis <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) Inicio, nudo, desenlace <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -371,14 +408,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 17 [D9-D10]
 
 **ID:** `MX-LENGUA-6-P1-lectura-comprension-017`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.65]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es la diferencia entre denotación y connotación?
 
-### Options
+### Opciones
 - [ ] D) Formal vs informal <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [x] B) Real vs imaginario <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] C) Concreto vs abstracto <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -394,13 +433,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 
 **ID:** `MX-LENGUA-6-P1-lectura-comprension-018`
 **Bloom:** [Create]
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.70]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Corrija la concordancia: 'Habían muchas personas en la fiesta.'
 
-### Options
+### Opciones
 - [ ] C) Habían mucha gente <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [x] B) Habían muchas personas <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) Había muchas personas <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -415,14 +456,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 19 [D9-D10]
 
 **ID:** `MX-LENGUA-6-P1-lectura-comprension-019`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.75]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué es una metáfora? Proporcione un ejemplo.
 
-### Options
+### Opciones
 - [ ] D) Repetición de sonidos <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) Exageración <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [x] B) Comparación explícita <!-- feedback: Correct. This is correct. Well done! -->
@@ -437,14 +480,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 20 [D9-D10]
 
 **ID:** `MX-LENGUA-6-P1-lectura-comprension-020`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.80]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Analice el propósito del autor en un texto persuasivo.
 
-### Options
+### Opciones
 - [ ] A) Convencer al lector <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) Describir al lector <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) Informar al lector <!-- feedback: Incorrect. Common mistake, review the concept. -->

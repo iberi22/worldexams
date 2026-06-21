@@ -17,6 +17,7 @@ tier: "legacy"
 creador: "Jules-Agent"
 ---
 
+
 ## Question 1 [D3]
 **ID:** AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v1
 **Bloom:** Remember
@@ -28,14 +29,13 @@ creador: "Jules-Agent"
 ¿Cuál es la unidad más pequeña de los seres vivos que Martina puede identificar como capaz de realizar las funciones vitales?
 
 ### Opciones
-- [x] A) La célula
-  <!-- feedback: ¡Exacto! La célula es la unidad estructural y funcional básica de todos los seres vivos. -->
-- [ ] B) El tejido
-  <!-- feedback: No, un tejido es un conjunto de células similares que cumplen una función específica. -->
-- [ ] C) El órgano
-  <!-- feedback: Incorrecto. Un órgano está formado por diferentes tejidos que trabajan juntos. -->
-- [ ] D) El sistema
-  <!-- feedback: No es correcto. Un sistema es un conjunto de órganos que coordinan una función compleja. -->
+- [x] A) La célula <!-- feedback: Correcto! La célula -->
+
+- [ ] B) El tejido <!-- feedback: Incorrecto. El tejido -->
+
+- [ ] C) El órgano <!-- feedback: Incorrecto. El órgano -->
+
+- [ ] D) El sistema <!-- feedback: Incorrecto. El sistema -->
 
 ### Explicación Pedagógica
 La célula es la unidad mínima de vida. Todos los organismos, desde los unicelulares que Martina busca en el agua hasta los pluricelulares como nosotros, están compuestos por células que realizan las funciones de nutrición, relación y reproducción.
@@ -53,14 +53,13 @@ La célula es la unidad mínima de vida. Todos los organismos, desde los unicelu
 ¿Qué diferencia fundamental existe entre un organismo unicelular, como una bacteria, y uno pluricelular, como un ceibo (árbol nacional argentino)?
 
 ### Opciones
-- [ ] A) Los unicelulares no tienen ADN y los pluricelulares sí.
-  <!-- feedback: Incorrecto. Todos los seres vivos contienen material genético (ADN). -->
-- [x] B) Los unicelulares están formados por una sola célula y los pluricelulares por muchas.
-  <!-- feedback: ¡Correcto! Esa es la distinción básica basada en la organización celular. -->
-- [ ] C) Los unicelulares no necesitan alimentarse para sobrevivir.
-  <!-- feedback: Falso. Todos los seres vivos necesitan nutrientes para obtener energía. -->
-- [ ] D) Los pluricelulares siempre son más pequeños que los unicelulares.
-  <!-- feedback: No, generalmente es al revés; los pluricelulares suelen ser macroscópicos. -->
+- [ ] A) Los unicelulares no tienen ADN y los pluricelulares sí. <!-- feedback: Incorrecto. Los unicelulares no tienen ADN y los plu -->
+
+- [x] B) Los unicelulares están formados por una sola célula y los pluricelulares por muchas. <!-- feedback: Correcto! Los unicelulares están formados por una sola célula y los pl -->
+
+- [ ] C) Los unicelulares no necesitan alimentarse para sobrevivir. <!-- feedback: Incorrecto. Los unicelulares no necesitan alimentars -->
+
+- [ ] D) Los pluricelulares siempre son más pequeños que los unicelulares. <!-- feedback: Incorrecto. Los pluricelulares siempre son más peque -->
 
 ### Explicación Pedagógica
 La clasificación en unicelulares y pluricelulares se basa en el número de células. Los organismos unicelulares realizan todas sus funciones en una única célula, mientras que los pluricelulares tienen niveles de organización más complejos.
@@ -78,14 +77,13 @@ La clasificación en unicelulares y pluricelulares se basa en el número de cél
 Según su tipo de nutrición, ¿cómo clasificarías a este organismo y en qué grupo general lo ubicarías?
 
 ### Opciones
-- [ ] A) Heterótrofo, porque consume otros seres vivos.
-  <!-- feedback: No, si produce su alimento con luz, no consume a otros. -->
-- [x] B) Autótrofo, probablemente dentro del reino de las plantas.
-  <!-- feedback: ¡Muy bien! Los organismos que fabrican su alimento mediante fotosíntesis son autótrofos. -->
-- [ ] C) Descomponedor, porque absorbe nutrientes del suelo.
-  <!-- feedback: Incorrecto. Los descomponedores son heterótrofos que degradan materia orgánica. -->
-- [ ] D) Carnívoro, porque necesita energía externa.
-  <!-- feedback: No, los carnívoros son heterótrofos que se alimentan de animales. -->
+- [ ] A) Heterótrofo, porque consume otros seres vivos. <!-- feedback: Incorrecto. Heterótrofo, porque consume otros seres  -->
+
+- [x] B) Autótrofo, probablemente dentro del reino de las plantas. <!-- feedback: Correcto! Autótrofo, probablemente dentro del reino de las plantas. -->
+
+- [ ] C) Descomponedor, porque absorbe nutrientes del suelo. <!-- feedback: Incorrecto. Descomponedor, porque absorbe nutrientes -->
+
+- [ ] D) Carnívoro, porque necesita energía externa. <!-- feedback: Incorrecto. Carnívoro, porque necesita energía exter -->
 
 ### Explicación Pedagógica
 La nutrición autótrofa es característica de las plantas y algunas algas/bacterias que realizan fotosíntesis. Esto les permite transformar energía lumínica y materia inorgánica en materia orgánica (alimento).
@@ -103,14 +101,13 @@ La nutrición autótrofa es característica de las plantas y algunas algas/bacte
 Si usás un microscopio, ¿qué estructura exclusiva de la célula vegetal te permitiría distinguirla de la célula animal?
 
 ### Opciones
-- [ ] A) El núcleo
-  <!-- feedback: No, ambas son células eucariotas y poseen núcleo con material genético. -->
-- [ ] B) La membrana plasmática
-  <!-- feedback: Incorrecto. Todas las células tienen membrana para regular el intercambio. -->
-- [x] C) La pared celular y los cloroplastos
-  <!-- feedback: ¡Exacto! Estas estructuras brindan rigidez y permiten la fotosíntesis en vegetales. -->
-- [ ] D) El citoplasma
-  <!-- feedback: No, el citoplasma es el medio interno presente en todas las células. -->
+- [ ] A) El núcleo <!-- feedback: Incorrecto. El núcleo -->
+
+- [ ] B) La membrana plasmática <!-- feedback: Incorrecto. La membrana plasmática -->
+
+- [x] C) La pared celular y los cloroplastos <!-- feedback: Correcto! La pared celular y los cloroplastos -->
+
+- [ ] D) El citoplasma <!-- feedback: Incorrecto. El citoplasma -->
 
 ### Explicación Pedagógica
 Las células vegetales se distinguen por tener una pared celular rígida (de celulosa) que les da forma y cloroplastos, organelas donde ocurre la fotosíntesis. Las células animales carecen de ambas.
@@ -128,14 +125,13 @@ Las células vegetales se distinguen por tener una pared celular rígida (de cel
 Si las algas son organismos pluricelulares que realizan fotosíntesis pero no tienen tejidos especializados (como raíces o tallos), ¿por qué es importante clasificarlas correctamente en la biodiversidad?
 
 ### Opciones
-- [ ] A) Porque si no tienen raíces no son seres vivos.
-  <!-- feedback: Incorrecto. La falta de un órgano específico no quita la condición de ser vivo. -->
-- [x] B) Porque permite entender su evolución y su relación con otros grupos de organismos.
-  <!-- feedback: ¡Correcto! La clasificación científica refleja el parentesco y la historia evolutiva. -->
-- [ ] C) Porque solo las plantas pueden estar en el mar.
-  <!-- feedback: Falso. Hay muchísimos organismos de distintos reinos en el mar. -->
-- [ ] D) Porque todas las algas son peligrosas para los humanos.
-  <!-- feedback: No es cierto. Muchas algas son beneficiosas e incluso comestibles. -->
+- [ ] A) Porque si no tienen raíces no son seres vivos. <!-- feedback: Incorrecto. Porque si no tienen raíces no son seres  -->
+
+- [x] B) Porque permite entender su evolución y su relación con otros grupos de organismos. <!-- feedback: Correcto! Porque permite entender su evolución y su relación con otros -->
+
+- [ ] C) Porque solo las plantas pueden estar en el mar. <!-- feedback: Incorrecto. Porque solo las plantas pueden estar en  -->
+
+- [ ] D) Porque todas las algas son peligrosas para los humanos. <!-- feedback: Incorrecto. Porque todas las algas son peligrosas pa -->
 
 ### Explicación Pedagógica
 La clasificación biológica no es caprichosa; busca organizar la diversidad según características compartidas y ancestros comunes. Identificar que las algas difieren de las plantas terrestres ayuda a comprender la complejidad de la vida acuática.
@@ -153,14 +149,13 @@ La clasificación biológica no es caprichosa; busca organizar la diversidad seg
 ¿Cuál es el rol fundamental de los microorganismos descomponedores (como hongos y bacterias) en el ciclo de la materia de un ecosistema argentino?
 
 ### Opciones
-- [ ] A) Producir oxígeno para que las plantas respiren.
-  <!-- feedback: No, esa es principalmente la función de los organismos fotosintéticos. -->
-- [ ] B) Servir de alimento principal para los grandes carnívoros.
-  <!-- feedback: Incorrecto. Los carnívoros no se alimentan directamente de bacterias u hongos del suelo. -->
-- [x] C) Transformar la materia orgánica muerta en sustancias inorgánicas útiles para las plantas.
-  <!-- feedback: ¡Excelente! Reciclan los nutrientes para que vuelvan a entrar en la red trófica. -->
-- [ ] D) Calentar el suelo para que las semillas germinen más rápido.
-  <!-- feedback: No, aunque la descomposición genera calor, no es su rol biológico fundamental. -->
+- [ ] A) Producir oxígeno para que las plantas respiren. <!-- feedback: Incorrecto. Producir oxígeno para que las plantas re -->
+
+- [ ] B) Servir de alimento principal para los grandes carnívoros. <!-- feedback: Incorrecto. Servir de alimento principal para los gr -->
+
+- [x] C) Transformar la materia orgánica muerta en sustancias inorgánicas útiles para las plantas. <!-- feedback: Correcto! Transformar la materia orgánica muerta en sustancias inorgán -->
+
+- [ ] D) Calentar el suelo para que las semillas germinen más rápido. <!-- feedback: Incorrecto. Calentar el suelo para que las semillas  -->
 
 ### Explicación Pedagógica
 Los descomponedores cierran el ciclo de la materia. Al degradar restos de animales y plantas, liberan minerales al suelo, permitiendo que las plantas (productores) vuelvan a utilizarlos para crecer.
@@ -178,14 +173,13 @@ Los descomponedores cierran el ciclo de la materia. Al degradar restos de animal
 ¿A qué función vital corresponde la capacidad de los pingüinos de reaccionar ante el frío del ambiente y ajustar su cuerpo para sobrevivir?
 
 ### Opciones
-- [ ] A) Nutrición
-  <!-- feedback: No, la nutrición se encarga de la obtención de energía y materia. -->
-- [x] B) Relación
-  <!-- feedback: ¡Correcto! La función de relación permite detectar cambios externos y responder a ellos. -->
-- [ ] C) Reproducción
-  <!-- feedback: Incorrecto. La reproducción asegura la continuidad de la especie, no la respuesta al frío. -->
-- [ ] D) Fotosíntesis
-  <!-- feedback: No, los animales no realizan fotosíntesis. -->
+- [ ] A) Nutrición <!-- feedback: Incorrecto. Nutrición -->
+
+- [x] B) Relación <!-- feedback: Correcto! Relación -->
+
+- [ ] C) Reproducción <!-- feedback: Incorrecto. Reproducción -->
+
+- [ ] D) Fotosíntesis <!-- feedback: Incorrecto. Fotosíntesis -->
 
 ### Explicación Pedagógica
 La función de relación (o irritabilidad) es la que permite a los seres vivos recibir información del medio (estímulos, como el frío) y elaborar una respuesta adecuada para mantener su equilibrio interno.
@@ -203,14 +197,13 @@ La función de relación (o irritabilidad) es la que permite a los seres vivos r
 ¿Cuál es la razón científica principal por la que los hongos pertenecen a un reino diferente (Fungi) al de las plantas (Plantae)?
 
 ### Opciones
-- [ ] A) Porque los hongos son unicelulares y las plantas no.
-  <!-- feedback: Incorrecto. Hay hongos pluricelulares (como los champiñones). -->
-- [x] B) Porque los hongos son heterótrofos por absorción y las plantas son autótrofas.
-  <!-- feedback: ¡Correcto! Los hongos no fabrican su alimento; lo absorben de materia orgánica. -->
-- [ ] C) Porque las plantas no tienen células y los hongos sí.
-  <!-- feedback: Falso. Ambos están formados por células eucariotas. -->
-- [ ] D) Porque los hongos solo crecen en la oscuridad total.
-  <!-- feedback: No es cierto. Aunque muchos prefieren la sombra, no es su característica definitoria. -->
+- [ ] A) Porque los hongos son unicelulares y las plantas no. <!-- feedback: Incorrecto. Porque los hongos son unicelulares y las -->
+
+- [x] B) Porque los hongos son heterótrofos por absorción y las plantas son autótrofas. <!-- feedback: Correcto! Porque los hongos son heterótrofos por absorción y las plant -->
+
+- [ ] C) Porque las plantas no tienen células y los hongos sí. <!-- feedback: Incorrecto. Porque las plantas no tienen células y l -->
+
+- [ ] D) Porque los hongos solo crecen en la oscuridad total. <!-- feedback: Incorrecto. Porque los hongos solo crecen en la oscu -->
 
 ### Explicación Pedagógica
 La diferencia clave es el modo de nutrición. Las plantas son autótrofas (fotosíntesis). Los hongos son heterótrofos: secretan enzimas para digerir materia orgánica externa y luego absorben los nutrientes.
@@ -228,14 +221,13 @@ La diferencia clave es el modo de nutrición. Las plantas son autótrofas (fotos
 Teniendo en cuenta la teoría celular, ¿cuál es el argumento más sólido para sostener que los virus NO son seres vivos?
 
 ### Opciones
-- [ ] A) Porque son muy pequeños y no se ven a simple vista.
-  <!-- feedback: No, hay muchos seres vivos microscópicos (bacterias) que sí son considerados vivos. -->
-- [ ] B) Porque no tienen sangre ni órganos internos.
-  <!-- feedback: Incorrecto. Las bacterias tampoco tienen órganos y están vivas. -->
-- [x] C) Porque no poseen una estructura celular propia ni pueden reproducirse por sí mismos.
-  <!-- feedback: ¡Excelente! Necesitan infectar una célula viva para replicarse; no son autónomos. -->
-- [ ] D) Porque siempre mueren cuando se usa jabón o alcohol.
-  <!-- feedback: No, eso solo indica que son vulnerables a agentes químicos, no define su estatus vital. -->
+- [ ] A) Porque son muy pequeños y no se ven a simple vista. <!-- feedback: Incorrecto. Porque son muy pequeños y no se ven a si -->
+
+- [ ] B) Porque no tienen sangre ni órganos internos. <!-- feedback: Incorrecto. Porque no tienen sangre ni órganos inter -->
+
+- [x] C) Porque no poseen una estructura celular propia ni pueden reproducirse por sí mismos. <!-- feedback: Correcto! Porque no poseen una estructura celular propia ni pueden rep -->
+
+- [ ] D) Porque siempre mueren cuando se usa jabón o alcohol. <!-- feedback: Incorrecto. Porque siempre mueren cuando se usa jabó -->
 
 ### Explicación Pedagógica
 La teoría celular establece que la célula es la unidad básica de la vida. Como los virus carecen de células y metabolismo propio (dependen de una célula huésped), la mayoría de los científicos los considera complejos supramoleculares, no seres vivos.
@@ -253,14 +245,13 @@ La teoría celular establece que la célula es la unidad básica de la vida. Com
 ¿Cómo justificarías científicamente que la diversidad de seres vivos (desde bacterias hasta yacarés) es esencial para la salud de un ecosistema como el Iberá?
 
 ### Opciones
-- [ ] A) Porque cuantas más especies hay, más lindo se ve el paisaje para el turismo.
-  <!-- feedback: Aunque es cierto, no es una justificación científica de funcionamiento biológico. -->
-- [x] B) Porque cada especie cumple una función (nicho) que permite el flujo de energía y el ciclo de nutrientes.
-  <!-- feedback: ¡Correcto! La interdependencia entre especies mantiene el equilibrio del ecosistema. -->
-- [ ] C) Porque las especies más grandes siempre protegen a las más chicas de forma voluntaria.
-  <!-- feedback: Falso. Las interacciones suelen ser de competencia, depredación o simbiosis, no "protección voluntaria". -->
-- [ ] D) Porque si desaparecen los yacarés, las plantas crecerán mucho más rápido y habrá más selva.
-  <!-- feedback: No necesariamente; la falta de un depredador puede causar una sobrepoblación de herbívoros que dañe las plantas. -->
+- [ ] A) Porque cuantas más especies hay, más lindo se ve el paisaje para el turismo. <!-- feedback: Incorrecto. Porque cuantas más especies hay, más lin -->
+
+- [x] B) Porque cada especie cumple una función (nicho) que permite el flujo de energía y el ciclo de nutrientes. <!-- feedback: Correcto! Porque cada especie cumple una función (nicho) que permite e -->
+
+- [ ] C) Porque las especies más grandes siempre protegen a las más chicas de forma voluntaria. <!-- feedback: Incorrecto. Porque las especies más grandes siempre  -->
+
+- [ ] D) Porque si desaparecen los yacarés, las plantas crecerán mucho más rápido y habrá más selva. <!-- feedback: Incorrecto. Porque si desaparecen los yacarés, las p -->
 
 ### Explicación Pedagógica
 La biodiversidad garantiza que se cumplan todas las funciones ecológicas necesarias (producción, consumo, descomposición). La desaparición de una especie puede romper eslabones de las cadenas tróficas y desestabilizar el sistema completo.

@@ -1,5 +1,5 @@
 ---
-id: "CO-ING-9-2026-P1-P4-comprehensive-001-MASTERY"
+id: "CO-ING-9-2026-P1-P4-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 9
 asignatura: "ingles"
@@ -25,7 +25,12 @@ coverage:
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: English Grade 9 — Periods 1–4 (CEFR B1)
 
@@ -37,15 +42,16 @@ This comprehensive bundle covers all four periods of 9th grade English: reading 
 
 **ID:** `CO-ING-9-2026-P1-P4-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** A student at a school in Bogotá is learning about the present perfect tense.
+**Contexto:** A student at a school in Bogotá is learning about the present perfect tense.
 
 ### Enunciado
 Choose the correct option to complete the sentence:
 
 "Maria ___________ English for three years."
 
-### Options
+### Opciones
 - [ ] A) study <!-- feedback: Incorrect. This is the base form, not correct for third person singular present perfect. -->
 - [x] B) has studied <!-- feedback: Correct. Present perfect: has + past participle. "Maria has studied English for three years." -->
 - [ ] C) have studied <!-- feedback: Incorrect. "Have" is used with I, you, we, they. "Has" is correct for third person singular (Maria). -->
@@ -60,13 +66,14 @@ The present perfect tense connects past actions to the present. It is formed wit
 
 **ID:** `CO-ING-9-2026-P1-P4-comprehensive-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** A teacher in Medellín gives students a sentence and asks them to identify the correct conditional form.
+**Contexto:** A teacher in Medellín gives students a sentence and asks them to identify the correct conditional form.
 
 ### Enunciado
 "If it rains tomorrow, I ___________ an umbrella."
 
-### Options
+### Opciones
 - [x] A) will bring <!-- feedback: Correct. First conditional: if + present simple, will + infinitive. Used for real/possible future situations. -->
 - [ ] B) would bring <!-- feedback: Incorrect. "Would bring" is used in the second conditional (unreal present situations), not for possible future events. -->
 - [ ] C) brought <!-- feedback: Incorrect. Past simple is not used in the result clause of a first conditional. -->
@@ -81,15 +88,16 @@ The first conditional is used for real or likely future situations. Structure: *
 
 **ID:** `CO-ING-9-2026-P1-P4-comprehensive-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** A group of students from Cali are writing about their city for an English class project.
+**Contexto:** A group of students from Cali are writing about their city for an English class project.
 
 ### Enunciado
 Read the sentence and choose the word that best completes it:
 
 "Cali is known for its salsa music. Many tourists ___________ the city every year to enjoy the Feria de Cali."
 
-### Options
+### Opciones
 - [x] A) visit <!-- feedback: Correct. Present simple is used for habitual actions or general facts. Many tourists visit Cali every year. -->
 - [ ] B) are visiting <!-- feedback: Incorrect. Present continuous describes actions happening right now, not general yearly occurrences. -->
 - [ ] C) have visited <!-- feedback: Incorrect. Present perfect emphasizes a connection to the present, but "every year" suggests a habitual action better expressed with present simple. -->
@@ -104,15 +112,16 @@ The present simple is used for habits, routines, and general facts. Signal words
 
 **ID:** `CO-ING-9-2026-P1-P4-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** A student is reading a short text about the environment in Colombia.
+**Contexto:** A student is reading a short text about the environment in Colombia.
 
 **Text:** "Colombia has many different ecosystems: rainforests, páramos, and coasts. Unfortunately, deforestation is a serious problem. Trees ___________ down every day to make space for farming."
 
 ### Enunciado
 Choose the correct passive voice form to complete the text.
 
-### Options
+### Opciones
 - [x] A) are cut <!-- feedback: Correct. Passive voice in present simple: am/is/are + past participle. "Trees are cut down every day." -->
 - [ ] B) cut <!-- feedback: Incorrect. This is active voice. We need passive because the trees are receiving the action. -->
 - [ ] C) are cutting <!-- feedback: Incorrect. "Are cutting" is present continuous active, but the context requires passive voice. -->
@@ -127,15 +136,16 @@ The passive voice shifts focus from who performs the action to who receives it. 
 
 **ID:** `CO-ING-9-2026-P1-P4-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Read the text about Colombian coffee:
+**Contexto:** Read the text about Colombian coffee:
 
 **Text:** "Colombian coffee is famous all over the world. It ___________ in the Coffee Region (Eje Cafetero), where the climate and soil are perfect for growing coffee beans. Farmers work very hard to produce high-quality coffee."
 
 ### Enunciado
 Choose the correct verb form to complete the sentence.
 
-### Options
+### Opciones
 - [x] A) is produced <!-- feedback: Correct. Passive voice present simple: "Coffee is produced" focuses on the product, not the producer. -->
 - [ ] B) produces <!-- feedback: Incorrect. Active voice would mean coffee produces itself. We need passive because coffee is produced by farmers. -->
 - [ ] C) is producing <!-- feedback: Incorrect. Present continuous active, not suitable for general factual information. -->
@@ -150,15 +160,16 @@ The passive voice is especially useful in informational texts about products and
 
 **ID:** `CO-ING-9-2026-P1-P4-comprehensive-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** A student is writing about her future plans.
+**Contexto:** A student is writing about her future plans.
 
 ### Enunciado
 Choose the correct option to complete the second conditional sentence:
 
 "If I ___________ a scholarship, I would study at Universidad Nacional."
 
-### Options
+### Opciones
 - [ ] A) get <!-- feedback: Incorrect. "Get" is present simple, used in first conditional. Second conditional requires past simple in the if-clause. -->
 - [x] B) got <!-- feedback: Correct. Second conditional: if + past simple, would + infinitive. "If I got a scholarship, I would study at Universidad Nacional." -->
 - [ ] C) would get <!-- feedback: Incorrect. "Would" is not used in the if-clause of conditional sentences. -->
@@ -173,15 +184,16 @@ The second conditional describes unreal or imaginary situations in the present o
 
 **ID:** `CO-ING-9-2026-P1-P4-comprehensive-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** A student reads an email from a friend in the United Kingdom.
+**Contexto:** A student reads an email from a friend in the United Kingdom.
 
 **Email:** "Hi Carlos! I have never been to Colombia, but I have heard amazing things about your country. I have already visited Mexico and Brazil. Now, I want to explore South America more."
 
 ### Enunciado
 What can we infer about the friend from the email?
 
-### Options
+### Opciones
 - [ ] A) She has visited Colombia several times. <!-- feedback: Incorrect. She says "I have never been to Colombia". -->
 - [x] B) She has visited other Latin American countries but not Colombia yet. <!-- feedback: Correct. "I have never been to Colombia" but "I have already visited Mexico and Brazil." -->
 - [ ] C) She has no interest in visiting Colombia. <!-- feedback: Incorrect. She says she wants to explore South America more and mentions Colombia positively. -->
@@ -196,15 +208,16 @@ Reading comprehension at B1 level requires making simple inferences from the tex
 
 **ID:** `CO-ING-9-2026-P1-P4-comprehensive-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Read the short opinion text:
+**Contexto:** Read the short opinion text:
 
 "Many people think social media is bad for teenagers. They say it makes them waste time and compare themselves with others. However, I believe social media can be positive. It helps teenagers connect with friends, learn new things, and express themselves creatively."
 
 ### Enunciado
 What is the author's main argument about social media?
 
-### Options
+### Opciones
 - [ ] A) Social media is completely bad for teenagers. <!-- feedback: Incorrect. The author mentions this is what "many people think," but the author's own opinion is different. -->
 - [ ] B) Social media has no effect on teenagers. <!-- feedback: Incorrect. The author clearly believes social media has an effect, both positive and negative. -->
 - [x] C) Although some see social media negatively, the author believes it can have positive effects on teenagers. <!-- feedback: Correct. The author uses "however" to contrast with the negative view and presents positive aspects. -->
@@ -219,15 +232,16 @@ Identifying an author's argument requires distinguishing between what others say
 
 **ID:** `CO-ING-9-2026-P1-P4-comprehensive-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Read the text about technology in Colombian schools:
+**Contexto:** Read the text about technology in Colombian schools:
 
 "In many Colombian schools, students now use tablets and educational apps to learn. This has changed the way teachers teach. For example, in rural areas, students can access online classes when there is no teacher available. However, not all students have internet access at home."
 
 ### Enunciado
 What problem does the text identify about technology in education?
 
-### Options
+### Opciones
 - [ ] A) Tablets are too expensive for schools. <!-- feedback: Incorrect. The text does not mention cost as a problem. -->
 - [ ] B) Teachers do not know how to use technology. <!-- feedback: Incorrect. The text does not discuss teacher training. -->
 - [x] C) Not all students have equal access to technology outside school. <!-- feedback: Correct. The text mentions that "not all students have internet access at home," showing inequality. -->
@@ -242,15 +256,16 @@ Reading comprehension at B1-B2 level requires identifying not just explicit info
 
 **ID:** `CO-ING-9-2026-P1-P4-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** A student is writing a paragraph about Colombian biodiversity. He needs to connect his ideas.
+**Contexto:** A student is writing a paragraph about Colombian biodiversity. He needs to connect his ideas.
 
 ### Enunciado
 Choose the correct connector to complete the sentence:
 
 "Colombia has more bird species than any other country in the world. ___________, it has the second-highest number of plant species."
 
-### Options
+### Opciones
 - [ ] A) However <!-- feedback: Incorrect. "However" expresses contrast, but the sentence adds similar information (more facts about biodiversity). -->
 - [ ] B) For example <!-- feedback: Incorrect. "For example" introduces a specific case, but this is another general fact, not an example. -->
 - [ ] C) Therefore <!-- feedback: Incorrect. "Therefore" expresses a conclusion or result, but the second sentence is not a consequence of the first. -->
@@ -265,15 +280,16 @@ Coherence and cohesion in writing depend on using appropriate connectors. *Addit
 
 **ID:** `CO-ING-9-2026-P1-P4-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Read the text about environmental action in Colombia:
+**Contexto:** Read the text about environmental action in Colombia:
 
 **Text:** "A group of students from Barranquilla started a campaign to clean up the Magdalena River. They organized weekly clean-ups and invited the community to join. 'We cannot wait for the government to solve all the problems,' said one student. 'We have to take action ourselves.' In the first month, they collected over 500 kilograms of waste."
 
 ### Enunciado
 What is the main message of the students' campaign?
 
-### Options
+### Opciones
 - [ ] A) The government is responsible for cleaning rivers. <!-- feedback: Incorrect. The student says the opposite: citizens shouldn't wait for the government. -->
 - [ ] B) Only young people care about the environment. <!-- feedback: Incorrect. The text doesn't exclude others; they invited the community. -->
 - [x] C) Citizens can and should take initiative to solve environmental problems in their communities. <!-- feedback: Correct. The students organized action themselves and invited others to join. -->
@@ -288,15 +304,16 @@ Identifying the main message requires understanding the purpose and tone of the 
 
 **ID:** `CO-ING-9-2026-P1-P4-comprehensive-001-MASTERY-v12`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** A student needs to correct the grammar in this sentence:
+**Contexto:** A student needs to correct the grammar in this sentence:
 
 "He has went to the supermarket already."
 
 ### Enunciado
 What is the correct form of the sentence?
 
-### Options
+### Opciones
 - [ ] A) He has go to the supermarket already. <!-- feedback: Incorrect. "Go" is the base form; present perfect needs past participle "gone." -->
 - [x] B) He has gone to the supermarket already. <!-- feedback: Correct. The past participle of "go" is "gone," not "went." -->
 - [ ] C) He has went to the supermarket already. <!-- feedback: Incorrect. "Went" is the simple past, not the past participle. Present perfect needs the past participle. -->
@@ -311,8 +328,9 @@ A common B1-level error is confusing simple past (*went*) with past participle (
 
 **ID:** `CO-ING-9-2026-P1-P4-comprehensive-001-MASTERY-v13`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Read two short texts about learning English:
+**Contexto:** Read two short texts about learning English:
 
 **Text A:** "I believe that learning English is essential for Colombian students because it opens doors to better jobs and international opportunities. Most scientific research is published in English."
 
@@ -321,7 +339,7 @@ A common B1-level error is confusing simple past (*went*) with past participle (
 ### Enunciado
 Which of the following statements best compares the two positions?
 
-### Options
+### Opciones
 - [ ] A) Both texts agree that English is not important. <!-- feedback: Incorrect. Text A says English is "essential," and Text B says it's "useful." Neither says it's not important. -->
 - [x] B) Text A values practical benefits of English; Text B values cultural identity and local needs. <!-- feedback: Correct. Text A focuses on job opportunities and research. Text B emphasizes cultural value and local priorities. -->
 - [ ] C) Both texts agree that English is more important than Spanish. <!-- feedback: Incorrect. Text B explicitly says "improving Spanish literacy first." -->
@@ -336,8 +354,9 @@ Comparing arguments requires identifying each text's core values and priorities.
 
 **ID:** `CO-ING-9-2026-P1-P4-comprehensive-001-MASTERY-v14`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** A student is writing an email to a friend in another country. She needs to organize her ideas.
+**Contexto:** A student is writing an email to a friend in another country. She needs to organize her ideas.
 
 **Student's notes:**
 1. Ask how the friend is
@@ -348,7 +367,7 @@ Comparing arguments requires identifying each text's core values and priorities.
 ### Enunciado
 What is the most logical order for the student's email paragraphs?
 
-### Options
+### Opciones
 - [ ] A) 3, 1, 4, 2 <!-- feedback: Incorrect. Making plans before greeting and asking how they are doesn't follow a natural email structure. -->
 - [x] B) 1, 2, 3, 4 <!-- feedback: Correct. Standard email structure: greeting → news about self → future plans → closing. -->
 - [ ] C) 4, 3, 2, 1 <!-- feedback: Incorrect. The closing should come at the end, not the beginning. -->
@@ -363,8 +382,9 @@ Text organization is key for coherence in writing. A standard informal email fol
 
 **ID:** `CO-ING-9-2026-P1-P4-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Reflexivo y Sistémico
-**Context:** A Colombian school is debating whether to teach all classes in English (bilingual education). Read the arguments:
+**Contexto:** A Colombian school is debating whether to teach all classes in English (bilingual education). Read the arguments:
 
 **For bilingual education:** "If students learn in English from an early age, they will become fluent and have better university and job opportunities internationally. Countries like Finland and Sweden have high English proficiency and strong economies."
 
@@ -373,7 +393,7 @@ Text organization is key for coherence in writing. A standard informal email fol
 ### Enunciado
 Which of the following conclusions best synthesizes both perspectives?
 
-### Options
+### Opciones
 - [ ] A) Colombia should adopt full English immersion immediately to compete globally. <!-- feedback: Incorrect. This ignores the concerns about learning difficulties and dropout rates. -->
 - [ ] B) Bilingual education is never a good idea because students should learn in their native language. <!-- feedback: Incorrect. This ignores the international opportunities argument. -->
 - [x] C) A gradual and carefully planned bilingual program, starting with specific subjects and providing support for struggling students, could balance the benefits of English proficiency with the need for solid subject knowledge in Spanish. <!-- feedback: Correct. A balanced approach considers both the benefits and risks, proposing a middle path. -->

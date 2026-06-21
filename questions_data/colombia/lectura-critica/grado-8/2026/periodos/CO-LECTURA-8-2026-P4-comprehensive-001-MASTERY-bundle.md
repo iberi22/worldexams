@@ -1,5 +1,5 @@
 ---
-id: "CO-LECTURA-8-2026-P4-comprehensive-001-MASTERY"
+id: "CO-LECTURA-8-2026-P4-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "lectura-critica"
@@ -19,7 +19,12 @@ rubric_baseline: "Textos académicos, reseña crítica, análisis de intención 
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Académicos, Reseña Crítica y Análisis de Intención del Autor
 
@@ -31,13 +36,14 @@ Este bundle cubre la lectura crítica de textos académicos, la reseña crítica
 
 **ID:** `CO-LECTURA-8-2026-P4-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En clase de lenguaje en Bogotá, la profesora explica qué es un texto académico.
+**Contexto:** En clase de lenguaje en Bogotá, la profesora explica qué es un texto académico.
 
 ### Enunciado
 ¿Cuál de los siguientes es un ejemplo de texto académico?
 
-### Options
+### Opciones
 - [ ] A) Un cuento de hadas. <!-- feedback: Incorrect. Es un texto literario. -->
 - [ ] B) Un tuit. <!-- feedback: Incorrect. Es un texto de redes sociales. -->
 - [x] C) Un artículo de investigación científica. <!-- feedback: Correct. El artículo científico es un texto académico. -->
@@ -52,13 +58,14 @@ Los textos académicos son aquellos producidos en el ámbito universitario o cie
 
 **ID:** `CO-LECTURA-8-2026-P4-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** Un estudiante en Medellín aprende a hacer una reseña crítica.
+**Contexto:** Un estudiante en Medellín aprende a hacer una reseña crítica.
 
 ### Enunciado
 ¿Cuál es el propósito de una reseña crítica?
 
-### Options
+### Opciones
 - [ ] A) Resumir un texto sin opinar. <!-- feedback: Incorrect. La reseña incluye evaluación. -->
 - [x] B) Describir y evaluar una obra (libro, película, artículo), dando una opinión fundamentada. <!-- feedback: Correct. La reseña crítica combina descripción y valoración. -->
 - [ ] C) Copiar fragmentos del texto original. <!-- feedback: Incorrect. Eso sería plagio. -->
@@ -73,13 +80,14 @@ La reseña crítica es un texto que presenta y evalúa una obra. No solo la desc
 
 **ID:** `CO-LECTURA-8-2026-P4-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En un taller académico en Cali, se analiza la estructura de un artículo científico.
+**Contexto:** En un taller académico en Cali, se analiza la estructura de un artículo científico.
 
 ### Enunciado
 ¿Cuál es la estructura típica de un artículo científico?
 
-### Options
+### Opciones
 - [ ] A) Introducción, nudo, desenlace. <!-- feedback: Incorrect. Esa es estructura narrativa. -->
 - [x] B) Introducción, metodología, resultados, discusión, conclusiones. <!-- feedback: Correct. Es la estructura IMRyD (Introducción, Métodos, Resultados y Discusión). -->
 - [ ] C) Tesis, argumentos, conclusión. <!-- feedback: Incorrect. Esa es estructura argumentativa general. -->
@@ -94,13 +102,14 @@ El artículo científico sigue la estructura IMRyD (Introducción, Métodos, Res
 
 **ID:** `CO-LECTURA-8-2026-P4-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En Barranquilla, un profesor enseña a identificar la intención del autor en un texto.
+**Contexto:** En Barranquilla, un profesor enseña a identificar la intención del autor en un texto.
 
 ### Enunciado
 ¿Cuál de las siguientes es una posible intención del autor de un texto?
 
-### Options
+### Opciones
 - [ ] A) Solo una, siempre es informar. <!-- feedback: Incorrect. Hay múltiples intenciones. -->
 - [x] B) Informar, persuadir, entretener, instruir o expresar emociones. <!-- feedback: Correct. Las intenciones varían según el tipo de texto. -->
 - [ ] C) Siempre es convencer al lector. <!-- feedback: Incorrect. No todos los textos buscan convencer. -->
@@ -115,13 +124,14 @@ Identificar la intención del autor (propósito comunicativo) es fundamental par
 
 **ID:** `CO-LECTURA-8-2026-P4-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** Un estudiante en Bucaramanga debe evaluar la confiabilidad de una fuente para un trabajo académico.
+**Contexto:** Un estudiante en Bucaramanga debe evaluar la confiabilidad de una fuente para un trabajo académico.
 
 ### Enunciado
 ¿Cuál de los siguientes criterios NO es adecuado para evaluar la confiabilidad de una fuente?
 
-### Options
+### Opciones
 - [ ] A) Autoría: ¿quién escribió el texto? <!-- feedback: Incorrect. Sí es un criterio importante. -->
 - [ ] B) Fecha: ¿cuándo se publicó? <!-- feedback: Incorrect. La actualidad es relevante. -->
 - [x] C) Color de la portada: ¿es atractivo visualmente? <!-- feedback: Correct. La apariencia no determina la confiabilidad. -->
@@ -136,13 +146,14 @@ Para evaluar una fuente académica se debe considerar: autoridad del autor, actu
 
 **ID:** `CO-LECTURA-8-2026-P4-comprehensive-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En clase, se analiza un artículo de opinión de un periódico colombiano y otro sobre el mismo tema de un blog personal.
+**Contexto:** En clase, se analiza un artículo de opinión de un periódico colombiano y otro sobre el mismo tema de un blog personal.
 
 ### Enunciado
 ¿Qué diferencia hay en términos de credibilidad entre un artículo de opinión en El Tiempo y un blog personal?
 
-### Options
+### Opciones
 - [ ] A) El blog siempre es más creíble porque es independiente. <!-- feedback: Incorrect. No necesariamente. -->
 - [ ] B) El periódico siempre es más creíble. <!-- feedback: Incorrect. Depende del caso. -->
 - [x] C) El periódico tiene un consejo editorial y filtros de calidad; el blog puede no tenerlos. Pero ambos deben evaluarse críticamente. <!-- feedback: Correct. La credibilidad depende de múltiples factores, no solo del medio. -->
@@ -157,13 +168,14 @@ Los medios tradicionales tienen procesos editoriales y filtros que pueden aument
 
 **ID:** `CO-LECTURA-8-2026-P4-comprehensive-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un profesor explica la diferencia entre un resumen y una reseña crítica.
+**Contexto:** Un profesor explica la diferencia entre un resumen y una reseña crítica.
 
 ### Enunciado
 ¿Cuál es la principal diferencia entre un resumen y una reseña crítica?
 
-### Options
+### Opciones
 - [ ] A) El resumen es más largo que la reseña. <!-- feedback: Incorrect. No necesariamente. -->
 - [x] B) El resumen solo describe el contenido; la reseña incluye una valoración argumentada. <!-- feedback: Correct. La reseña añade análisis crítico. -->
 - [ ] C) La reseña solo copia fragmentos del original. <!-- feedback: Incorrect. Eso no es una reseña. -->
@@ -178,13 +190,14 @@ Mientras que el resumen se limita a condensar objetivamente las ideas principale
 
 **ID:** `CO-LECTURA-8-2026-P4-comprehensive-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se analiza un texto de redes sociales de un político colombiano que dice: "Mis oponentes quieren destruir el país."
+**Contexto:** Se analiza un texto de redes sociales de un político colombiano que dice: "Mis oponentes quieren destruir el país."
 
 ### Enunciado
 ¿Qué falacia identificas en esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Falacia de autoridad. <!-- feedback: Incorrect. No apela a una autoridad. -->
 - [ ] B) Falso dilema. <!-- feedback: Incorrect. No presenta dos opciones falsas. -->
 - [x] C) Falacia ad hominem (ataque personal disfrazado). También podría ser una generalización exagerada. <!-- feedback: Correct. Atribuye intenciones maliciosas a los oponentes sin evidencia. -->
@@ -199,13 +212,14 @@ La falacia de "hombre de paja" o la descalificación del oponente atribuyéndole
 
 **ID:** `CO-LECTURA-8-2026-P4-comprehensive-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se analiza la siguiente oración de un texto académico: "Como afirmó el Dr. Pérez, reconocido experto en el tema, el cambio climático es la mayor amenaza del siglo XXI."
+**Contexto:** Se analiza la siguiente oración de un texto académico: "Como afirmó el Dr. Pérez, reconocido experto en el tema, el cambio climático es la mayor amenaza del siglo XXI."
 
 ### Enunciado
 ¿Qué tipo de argumento se está utilizando?
 
-### Options
+### Opciones
 - [ ] A) Argumento estadístico. <!-- feedback: Incorrect. No hay datos numéricos. -->
 - [x] B) Argumento de autoridad. <!-- feedback: Correct. Se apoya en la autoridad del Dr. Pérez para respaldar la afirmación. -->
 - [ ] C) Argumento emocional. <!-- feedback: Incorrect. No apela a emociones. -->
@@ -220,13 +234,14 @@ El argumento de autoridad (argumentum ad verecundiam) respalda una tesis citando
 
 **ID:** `CO-LECTURA-8-2026-P4-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** Un estudiante en Cartagena debe escribir una reseña crítica de un documental sobre la biodiversidad colombiana.
+**Contexto:** Un estudiante en Cartagena debe escribir una reseña crítica de un documental sobre la biodiversidad colombiana.
 
 ### Enunciado
 ¿Qué elementos debe incluir la reseña crítica del documental?
 
-### Options
+### Opciones
 - [ ] A) Solo el nombre del director. <!-- feedback: Incorrect. Es insuficiente. -->
 - [x] B) Descripción del contenido, evaluación de la calidad, argumentos sobre sus aciertos y defectos, y recomendación. <!-- feedback: Correct. La reseña evalúa y argumenta. -->
 - [ ] C) La transcripción completa del documental. <!-- feedback: Incorrect. Eso no es una reseña. -->
@@ -241,13 +256,14 @@ Una buena reseña crítica debe: 1) presentar la obra (título, autor, género),
 
 **ID:** `CO-LECTURA-8-2026-P4-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante afirma: "Un texto académico es objetivo porque está escrito por científicos, por lo tanto no debe cuestionarse."
+**Contexto:** Un estudiante afirma: "Un texto académico es objetivo porque está escrito por científicos, por lo tanto no debe cuestionarse."
 
 ### Enunciado
 ¿Es correcta esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Sí, los científicos siempre tienen la razón. <!-- feedback: Incorrect. Los científicos también pueden equivocarse. -->
 - [ ] B) No, los textos académicos nunca son objetivos. <!-- feedback: Incorrect. Buscan objetividad pero no son perfectos. -->
 - [x] C) No. Los textos académicos buscan objetividad mediante metodologías rigurosas, pero también tienen sesgos, limitaciones y deben ser evaluados críticamente. <!-- feedback: Correct. La ciencia es un proceso, no una verdad absoluta. -->
@@ -262,13 +278,14 @@ Los textos académicos son más confiables que otras fuentes porque siguen metod
 
 **ID:** `CO-LECTURA-8-2026-P4-comprehensive-001-MASTERY-v12`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se analiza un texto que dice: "El consumo de drogas debe ser penalizado porque destruye familias." Luego: "El consumo de drogas debe ser despenalizado porque es un problema de salud pública, no penal."
+**Contexto:** Se analiza un texto que dice: "El consumo de drogas debe ser penalizado porque destruye familias." Luego: "El consumo de drogas debe ser despenalizado porque es un problema de salud pública, no penal."
 
 ### Enunciado
 ¿Qué identifica el lector crítico al comparar estas dos posiciones?
 
-### Options
+### Opciones
 - [ ] A) Ambas tienen la misma intención. <!-- feedback: Incorrect. Tienen intenciones opuestas. -->
 - [x] B) Cada autor tiene una intención diferente basada en su postura ideológica: uno prioriza el enfoque punitivo, el otro el enfoque de salud. <!-- feedback: Correct. La lectura crítica identifica las posturas ideológicas detrás de los argumentos. -->
 - [ ] C) Una es verdadera y la otra falsa. <!-- feedback: Incorrect. Ambas son posiciones argumentables. -->
@@ -283,13 +300,14 @@ La lectura crítica permite identificar que detrás de un mismo tema hay diferen
 
 **ID:** `CO-LECTURA-8-2026-P4-comprehensive-001-MASTERY-v13`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se compara un abstract de un artículo científico sobre deforestación en el Amazonas con una noticia del mismo tema en un periódico popular.
+**Contexto:** Se compara un abstract de un artículo científico sobre deforestación en el Amazonas con una noticia del mismo tema en un periódico popular.
 
 ### Enunciado
 ¿Qué diferencias hay en el lenguaje y la estructura entre ambos textos?
 
-### Options
+### Opciones
 - [ ] A) El abstract usa lenguaje coloquial y la noticia usa lenguaje técnico. <!-- feedback: Incorrect. Es al revés. -->
 - [x] B) El abstract usa lenguaje técnico, estructura formal y cita fuentes; la noticia usa lenguaje accesible, estructura más libre y busca atraer al lector general. <!-- feedback: Correct. Cada género se adapta a su audiencia. -->
 - [ ] C) Ambos usan el mismo lenguaje y estructura. <!-- feedback: Incorrect. Tienen propósitos y audiencias diferentes. -->
@@ -304,13 +322,14 @@ Cada tipo de texto se adapta a su audiencia y propósito: el abstract científic
 
 **ID:** `CO-LECTURA-8-2026-P4-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante dice: "Si un texto tiene muchas citas y referencias, automáticamente es confiable."
+**Contexto:** Un estudiante dice: "Si un texto tiene muchas citas y referencias, automáticamente es confiable."
 
 ### Enunciado
 ¿Es correcta esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Sí, mientras más citas, más confiable. <!-- feedback: Incorrect. Las citas deben ser relevantes y de calidad. -->
 - [ ] B) No, las citas no importan. <!-- feedback: Incorrect. Sí importan. -->
 - [x] C) No necesariamente. Las citas deben ser pertinentes, actualizadas y de fuentes confiables. Un texto puede citar mal o usar citas fuera de contexto. <!-- feedback: Correct. La cantidad no reemplaza la calidad. -->
@@ -325,13 +344,14 @@ Tener muchas citas no garantiza confiabilidad. El lector crítico debe verificar
 
 **ID:** `CO-LECTURA-8-2026-P4-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Reflexivo
-**Context:** Un profesor de lenguaje afirma: "En la era de la información, la habilidad más importante que puede desarrollar un estudiante es la lectura crítica, porque le permite navegar el exceso de información y distinguir lo confiable de lo engañoso."
+**Contexto:** Un profesor de lenguaje afirma: "En la era de la información, la habilidad más importante que puede desarrollar un estudiante es la lectura crítica, porque le permite navegar el exceso de información y distinguir lo confiable de lo engañoso."
 
 ### Enunciado
 ¿Por qué es especialmente importante la lectura crítica en el contexto digital actual?
 
-### Options
+### Opciones
 - [ ] A) Porque en internet toda la información es falsa. <!-- feedback: Incorrect. No toda es falsa. -->
 - [ ] B) Porque la tecnología ha eliminado la necesidad de leer. <!-- feedback: Incorrect. Leemos más que nunca. -->
 - [x] C) Porque estamos expuestos a un volumen masivo de información sin filtros, incluyendo noticias falsas, desinformación y contenido sesgado. La lectura crítica permite evaluar, contrastar y tomar decisiones informadas. <!-- feedback: Correct. La alfabetización digital es clave. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-CN-9-2026-P2-comprehensive-001-MASTERY"
+id: "CO-CN-9-2026-P2-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 9
 asignatura: "ciencias-naturales"
@@ -19,7 +19,12 @@ rubric_baseline: "ecologia de poblaciones, propiedades de la tabla periodica, le
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Ecologia, Tabla Periodica y Leyes de Newton
 
@@ -31,13 +36,14 @@ Este bundle cubre los contenidos del segundo periodo de ciencias naturales en gr
 
 **ID:** `CO-CN-9-2026-P2-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** En un parque natural de Colombia, un biologo estudia una poblacion de osos de anteojos.
+**Contexto:** En un parque natural de Colombia, un biologo estudia una poblacion de osos de anteojos.
 
 ### Enunciado
 Que es una poblacion en ecologia?
 
-### Options
+### Opciones
 - [ ] A) El conjunto de todos los seres vivos de un ecosistema. <!-- feedback: Incorrect. Ese es el concepto de comunidad, no de poblacion. -->
 - [x] B) El conjunto de individuos de la misma especie que habitan en un area determinada. <!-- feedback: Correct. Una poblacion agrupa individuos de una misma especie en un espacio y tiempo dados. -->
 - [ ] C) El lugar donde vive una especie. <!-- feedback: Incorrect. Ese es el concepto de habitat. -->
@@ -52,13 +58,14 @@ En ecologia, los niveles de organizacion son: individuo, poblacion (misma especi
 
 **ID:** `CO-CN-9-2026-P2-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** En una clase de quimica en Cali, la profesora muestra la tabla periodica y pregunta sobre su organizacion.
+**Contexto:** En una clase de quimica en Cali, la profesora muestra la tabla periodica y pregunta sobre su organizacion.
 
 ### Enunciado
 Como se organizan los elementos en la tabla periodica actual?
 
-### Options
+### Opciones
 - [ ] A) Alfabeticamente por su nombre en latin. <!-- feedback: Incorrect. La tabla periodica no se organiza alfabeticamente. -->
 - [x] B) En orden creciente de numero atomico, con filas (periodos) y columnas (grupos). <!-- feedback: Correct. Los elementos se organizan por numero atomico creciente en periodos (filas) y grupos (columnas) con propiedades similares. -->
 - [ ] C) Por masa atomica creciente, como la tabla de Mendeleiev. <!-- feedback: Incorrect. Aunque Mendeleiev uso masa atomica, la tabla actual se ordena por numero atomico (protones). -->
@@ -73,13 +80,14 @@ La tabla periodica moderna esta organizada por numero atomico (Z) creciente. Los
 
 **ID:** `CO-CN-9-2026-P2-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicacion de fenomenos
-**Context:** Un estudiante en Bogota empuja un escritorio y observa que se mueve. Al dejar de empujar, el escritorio se detiene.
+**Contexto:** Un estudiante en Bogota empuja un escritorio y observa que se mueve. Al dejar de empujar, el escritorio se detiene.
 
 ### Enunciado
 Que ley de Newton explica que el escritorio se detenga al dejar de empujarlo?
 
-### Options
+### Opciones
 - [ ] A) Primera ley: un cuerpo en movimiento tiende a seguir en movimiento. <!-- feedback: Parcialmente correcta, pero si se detiene es por la accion de una fuerza externa (rozamiento). -->
 - [ ] B) Segunda ley: F = m*a. <!-- feedback: Incorrect. La segunda ley relaciona fuerza, masa y aceleracion. -->
 - [x] C) Primera ley de Newton (inercia), pero el rozamiento es la fuerza externa que lo detiene. <!-- feedback: Correct. La primera ley dice que un cuerpo mantiene su estado de movimiento a menos que una fuerza externa actue sobre el. El rozamiento es esa fuerza. -->
@@ -94,13 +102,14 @@ La primera ley de Newton (ley de inercia) establece que un objeto en movimiento 
 
 **ID:** `CO-CN-9-2026-P2-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicacion de fenomenos
-**Context:** Un estudiante observa que en la tabla periodica, los elementos del grupo 18 (gases nobles) tienen muy baja reactividad.
+**Contexto:** Un estudiante observa que en la tabla periodica, los elementos del grupo 18 (gases nobles) tienen muy baja reactividad.
 
 ### Enunciado
 Por que los gases nobles son tan poco reactivos?
 
-### Options
+### Opciones
 - [ ] A) Porque tienen baja masa atomica. <!-- feedback: Incorrect. La masa atomica no determina directamente la reactividad. -->
 - [x] B) Porque tienen su ultima capa de electrones completa (8 electrones de valencia, excepto He con 2). <!-- feedback: Correct. La estabilidad de los gases nobles se debe a su configuracion electronica de capa cerrada, lo que los hace quimicamente inertes. -->
 - [ ] C) Porque son gases a temperatura ambiente. <!-- feedback: Incorrect. El estado fisico no determina la reactividad quimica. -->
@@ -115,13 +124,14 @@ La regla del octeto establece que los atomos tienden a completar 8 electrones en
 
 **ID:** `CO-CN-9-2026-P2-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** En el paramo de Sumapaz, un biologo estima la poblacion de frailejones en una parcela de 100 m2. Encuentra 50 individuos.
+**Contexto:** En el paramo de Sumapaz, un biologo estima la poblacion de frailejones en una parcela de 100 m2. Encuentra 50 individuos.
 
 ### Enunciado
 Cual es la densidad de poblacion de frailejones en esa zona?
 
-### Options
+### Opciones
 - [ ] A) 2 individuos/m2 <!-- feedback: Incorrect. Se dividio 100 entre 50 en lugar de 50 entre 100. -->
 - [x] B) 0.5 individuos/m2 <!-- feedback: Correct. Densidad = numero de individuos / area = 50/100 = 0.5 individuos por metro cuadrado. -->
 - [ ] C) 50 individuos/m2 <!-- feedback: Incorrect. Este seria el resultado si el area fuera 1 m2. -->
@@ -136,13 +146,14 @@ La densidad de poblacion se calcula como D = N/A, donde N es el numero de indivi
 
 **ID:** `CO-CN-9-2026-P2-comprehensive-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagacion
-**Context:** Se necesita mover una caja de 20 kg en una bodega en Barranquilla. Se aplica una fuerza de 60 N.
+**Contexto:** Se necesita mover una caja de 20 kg en una bodega en Barranquilla. Se aplica una fuerza de 60 N.
 
 ### Enunciado
 Usando la segunda ley de Newton (F = m*a), cual es la aceleracion de la caja si no hay rozamiento?
 
-### Options
+### Opciones
 - [x] A) 3 m/s2 <!-- feedback: Correct. a = F/m = 60/20 = 3 m/s2. -->
 - [ ] B) 0.33 m/s2 <!-- feedback: Incorrect. Se dividio la masa entre la fuerza en lugar de la fuerza entre la masa. -->
 - [ ] C) 1200 m/s2 <!-- feedback: Incorrect. Se multiplicaron la fuerza y la masa. -->
@@ -157,13 +168,14 @@ La segunda ley de Newton establece que a = F/m. La aceleracion es directamente p
 
 **ID:** `CO-CN-9-2026-P2-comprehensive-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicacion de fenomenos
-**Context:** Un estudiante observa que el sodio (Na, grupo 1) reacciona violentamente con agua, mientras que el magnesio (Mg, grupo 2) reacciona mas lentamente.
+**Contexto:** Un estudiante observa que el sodio (Na, grupo 1) reacciona violentamente con agua, mientras que el magnesio (Mg, grupo 2) reacciona mas lentamente.
 
 ### Enunciado
 Como explica la posicion en la tabla periodica la diferencia de reactividad?
 
-### Options
+### Opciones
 - [x] A) El sodio tiene 1 electron de valencia que pierde facilmente, mientras que el magnesio tiene 2 y necesita mas energia para perderlos. <!-- feedback: Correct. La reactividad de los metales alkalinos aumenta al tener menos electrones de valencia que perder. -->
 - [ ] B) El sodio tiene mayor masa atomica que el magnesio. <!-- feedback: Incorrect. La masa atomica no explica directamente la reactividad. -->
 - [ ] C) El magnesio tiene mas protones que el sodio. <!-- feedback: Incorrect. El numero de protones afecta la carga nuclear, pero la reactividad se explica mejor por los electrones de valencia. -->
@@ -178,13 +190,14 @@ La reactividad de los metales aumenta hacia abajo y hacia la izquierda en la tab
 
 **ID:** `CO-CN-9-2026-P2-comprehensive-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** Un auto de 1000 kg viaja a 20 m/s y frena hasta detenerse en 5 segundos.
+**Contexto:** Un auto de 1000 kg viaja a 20 m/s y frena hasta detenerse en 5 segundos.
 
 ### Enunciado
 Cual es la fuerza de frenado promedio aplicada al auto?
 
-### Options
+### Opciones
 - [ ] A) 200 N <!-- feedback: Incorrect. Se dividio la velocidad entre el tiempo sin multiplicar por la masa. -->
 - [ ] B) 5000 N <!-- feedback: Incorrect. Se multiplico la masa por la velocidad, pero la fuerza usa aceleracion. -->
 - [x] C) 4000 N <!-- feedback: Correct. a = (0-20)/5 = -4 m/s2. |F| = m*|a| = 1000*4 = 4000 N. -->
@@ -199,13 +212,14 @@ La fuerza de frenado se calcula con F = m*a. Primero se encuentra la aceleracion
 
 **ID:** `CO-CN-9-2026-P2-comprehensive-001-MASTERY-v9`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicacion de fenomenos
-**Context:** En el Amazonas colombiano, un ecosistema tiene una alta biodiversidad. Se introduce una especie exotica de pez.
+**Contexto:** En el Amazonas colombiano, un ecosistema tiene una alta biodiversidad. Se introduce una especie exotica de pez.
 
 ### Enunciado
 Cual es la consecuencia ecologica mas probable de introducir una especie exotica?
 
-### Options
+### Opciones
 - [ ] A) Aumentara la biodiversidad del ecosistema. <!-- feedback: Incorrect. Las especies exoticas suelen reducir la biodiversidad nativa. -->
 - [x] B) Puede desplazar a las especies nativas por competencia o depredacion, reduciendo la biodiversidad. <!-- feedback: Correct. Las especies exoticas, al no tener depredadores naturales, pueden proliferar y desplazar a las especies nativas. -->
 - [ ] C) No tendra ningun efecto significativo. <!-- feedback: Incorrect. Las especies exoticas casi siempre alteran el equilibrio ecologico. -->
@@ -220,13 +234,14 @@ Las especies exoticas o invasoras son una de las principales causas de perdida d
 
 **ID:** `CO-CN-9-2026-P2-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** Dos personas empujan un mueble en direcciones opuestas. Una aplica 80 N hacia la derecha y la otra 50 N hacia la izquierda.
+**Contexto:** Dos personas empujan un mueble en direcciones opuestas. Una aplica 80 N hacia la derecha y la otra 50 N hacia la izquierda.
 
 ### Enunciado
 Si el mueble tiene una masa de 30 kg, cual es su aceleracion (despreciando el rozamiento)?
 
-### Options
+### Opciones
 - [ ] A) 4.33 m/s2 hacia la derecha <!-- feedback: Incorrect. Se sumaron ambas fuerzas en lugar de restarlas. -->
 - [x] B) 1 m/s2 hacia la derecha <!-- feedback: Correct. Fuerza neta = 80 - 50 = 30 N hacia la derecha. a = 30/30 = 1 m/s2 hacia la derecha. -->
 - [ ] C) 1 m/s2 hacia la izquierda <!-- feedback: Incorrect. La direccion de la aceleracion es hacia la derecha, donde la fuerza neta es mayor. -->
@@ -241,13 +256,14 @@ La fuerza neta es la suma vectorial de todas las fuerzas. Cuando las fuerzas est
 
 **ID:** `CO-CN-9-2026-P2-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Explicacion de fenomenos
-**Context:** Un estudiante afirma que segun la tercera ley de Newton, si un caballo jala una carreta con una fuerza, la carreta jala al caballo con la misma fuerza en sentido opuesto, por lo que el sistema nunca deberia moverse.
+**Contexto:** Un estudiante afirma que segun la tercera ley de Newton, si un caballo jala una carreta con una fuerza, la carreta jala al caballo con la misma fuerza en sentido opuesto, por lo que el sistema nunca deberia moverse.
 
 ### Enunciado
 Es correcta esta interpretacion de la tercera ley?
 
-### Options
+### Opciones
 - [ ] A) Si, las fuerzas de accion y reaccion se cancelan y el sistema no se mueve. <!-- feedback: Incorrect. Las fuerzas de accion y reaccion actuan sobre cuerpos diferentes. -->
 - [x] B) No, porque la fuerza del caballo sobre la carreta y la de la carreta sobre el caballo actuan sobre cuerpos distintos, por lo que no se cancelan. El caballo avanza porque ejerce fuerza contra el suelo. <!-- feedback: Correct. Las fuerzas de accion-reaccion actuan sobre objetos diferentes y no se anulan mutuamente. -->
 - [ ] C) Si, la tercera ley impide que cualquier sistema se mueva. <!-- feedback: Incorrect. Si fuera asi, nada podria moverse, lo cual es falso. -->
@@ -262,13 +278,14 @@ La tercera ley de Newton dice que las fuerzas siempre vienen en pares (accion-re
 
 **ID:** `CO-CN-9-2026-P2-comprehensive-001-MASTERY-v12`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Indagacion
-**Context:** En la tabla periodica, la energia de ionizacion aumenta hacia la derecha en un periodo. Un estudiando se pregunta por que.
+**Contexto:** En la tabla periodica, la energia de ionizacion aumenta hacia la derecha en un periodo. Un estudiando se pregunta por que.
 
 ### Enunciado
 Cual es la explicacion correcta para que la energia de ionizacion aumente hacia la derecha en un periodo?
 
-### Options
+### Opciones
 - [ ] A) Porque los atomos son mas grandes hacia la derecha. <!-- feedback: Incorrect. El radio atomico disminuye hacia la derecha. -->
 - [ ] B) Porque aumenta la carga nuclear efectiva, atrayendo mas fuertemente los electrones. <!-- feedback: Correct. Al aumentar el numero de protones sin aumentar significativamente el blindaje, los electrones estan mas atraidos. -->
 - [ ] C) Porque hay mas neutrones hacia la derecha. <!-- feedback: Incorrect. Los neutrones no afectan la atraccion de electrones significativamente. -->
@@ -283,13 +300,14 @@ La energia de ionizacion es la energia necesaria para arrancar un electron. Aume
 
 **ID:** `CO-CN-9-2026-P2-comprehensive-001-MASTERY-v13`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** Un cientifico afirma que si se duplica la masa de un objeto, la fuerza necesaria para producir la misma aceleracion se duplica.
+**Contexto:** Un cientifico afirma que si se duplica la masa de un objeto, la fuerza necesaria para producir la misma aceleracion se duplica.
 
 ### Enunciado
 Es correcta esta afirmacion segun las leyes de Newton?
 
-### Options
+### Opciones
 - [x] A) Si, porque F = m*a. Si m se duplica y a se mantiene constante, F se duplica. <!-- feedback: Correct. Es una aplicacion directa de la segunda ley de Newton. -->
 - [ ] B) No, porque la masa no afecta la fuerza necesaria. <!-- feedback: Incorrect. La masa es directamente proporcional a la fuerza segun F=ma. -->
 - [ ] C) Si, pero solo si la aceleracion tambien se duplica. <!-- feedback: Incorrect. Si la aceleracion se duplicara, la fuerza se cuadruplicaria. -->
@@ -304,13 +322,14 @@ La segunda ley de Newton F = m*a muestra una relacion de proporcionalidad direct
 
 **ID:** `CO-CN-9-2026-P2-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Explicacion de fenomenos
-**Context:** En el Choco colombiano, una poblacion de ranas venenosas tiene alta densidad. De repente, una epidemia reduce drasticamente la poblacion.
+**Contexto:** En el Choco colombiano, una poblacion de ranas venenosas tiene alta densidad. De repente, una epidemia reduce drasticamente la poblacion.
 
 ### Enunciado
 Cual es la consecuencia evolutiva mas probable de esta drastica reduccion poblacional (cuello de botella)?
 
-### Options
+### Opciones
 - [ ] A) Aumenta la diversidad genetica de la poblacion. <!-- feedback: Incorrect. Un cuello de botella reduce la diversidad genetica. -->
 - [x] B) Se reduce la diversidad genetica, lo que puede hacer a la poblacion mas vulnerable a futuros cambios ambientales. <!-- feedback: Correct. Un cuello de botella reduce la variabilidad genetica y puede provocar deriva genetica. -->
 - [ ] C) La poblacion se recupera exactamente igual que antes. <!-- feedback: Incorrect. La composicion genetica cambia debido a la deriva genetica. -->
@@ -325,13 +344,14 @@ Un cuello de botella genetico ocurre cuando una poblacion se reduce drasticament
 
 **ID:** `CO-CN-9-2026-P2-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento cientifico
-**Context:** En un laboratorio, se tienen 4 muestras de 1 mol cada una: helio (He), neon (Ne), argon (Ar) y kripton (Kr). Todas estan a la misma temperatura y presion.
+**Contexto:** En un laboratorio, se tienen 4 muestras de 1 mol cada una: helio (He), neon (Ne), argon (Ar) y kripton (Kr). Todas estan a la misma temperatura y presion.
 
 ### Enunciado
 Cual de las siguientes afirmaciones es correcta sobre estas muestras?
 
-### Options
+### Opciones
 - [x] A) Todas contienen el mismo numero de atomos (6.022x10^23) porque 1 mol de cualquier sustancia contiene el numero de Avogadro de particulas. <!-- feedback: Correct. El mol es una unidad de cantidad de materia que contiene siempre el numero de Avogadro de particulas. -->
 - [ ] B) La muestra de helio tiene mas atomos porque es menos densa. <!-- feedback: Incorrect. Todas tienen el mismo numero de atomos (1 mol = 6.022x10^23). -->
 - [ ] C) La muestra de kripton tiene mas atomos porque pesa mas. <!-- feedback: Incorrect. Aunque pesa mas (mayor masa molar), el numero de atomos es el mismo. -->

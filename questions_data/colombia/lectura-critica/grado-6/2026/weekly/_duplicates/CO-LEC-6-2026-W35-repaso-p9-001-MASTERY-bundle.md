@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-W35-repaso-p9-001-MASTERY"
+id: "CO-LEC-6-2026-W35-repaso-p9-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -12,7 +12,11 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W35 — REPASO Periodo 9
 
@@ -26,14 +30,15 @@ alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
 
 **ID:** `CO-LEC-6-2026-W35-repaso-p9-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de tipos de texto
-**Context:** Repaso de textos multimodales
+**Contexto:** Repaso de textos multimodales
 
 ### Enunciado
 
 ¿Cuál de los siguientes NO es un texto multimodal?
 
-### Options
+### Opciones
 - [ ] A) Una infografía sobre el ciclo del agua <!-- feedback: Incorrecto. Una infografía combina imágenes, texto y gráficos, por lo tanto es multimodal. -->
 - [ ] B) Un video educativo de YouTube con narración y animaciones <!-- feedback: Incorrecto. Un video combina imagen en movimiento, sonido y textos en pantalla, es multimodal. -->
 - [x] C) Una novela impresa que solo contiene texto escrito sin ilustraciones <!-- feedback: ¡Correcto! Una novela sin ilustraciones, sin gráficos y sin sonido usa un solo modo de comunicación: el texto escrito. Por eso es unimodal, no multimodal. -->
@@ -49,14 +54,15 @@ Recordemos: un texto es multimodal cuando combina dos o más modos de comunicaci
 
 **ID:** `CO-LEC-6-2026-W35-repaso-p9-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de elementos de tablas
-**Context:** Repaso de estructura de tabla
+**Contexto:** Repaso de estructura de tabla
 
 ### Enunciado
 
 En una tabla, las filas son:
 
-### Options
+### Opciones
 - [ ] A) Las columnas verticales que contienen títulos <!-- feedback: Incorrecto. Esas son las columnas, no las filas. Las filas son horizontales. -->
 - [x] B) Las líneas horizontales que contienen información de una misma categoría <!-- feedback: ¡Correcto! Las filas son horizontales (de izquierda a derecha). Cada fila contiene todos los datos de un elemento o categoría. Por ejemplo, en una tabla de estudiantes, cada fila tiene los datos de un estudiante. -->
 - [ ] C) Los encabezados que describen qué significa cada columna <!-- feedback: Incorrecto. Los encabezados son la primera fila (o fila de títulos). No todas las filas son encabezados; la mayoría contienen datos. -->
@@ -72,8 +78,9 @@ La estructura básica de una tabla: FILAS (horizontales) y COLUMNAS (verticales)
 
 **ID:** `CO-LEC-6-2026-W35-repaso-p9-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de gráfico circular
-**Context:** Repaso de proporciones
+**Contexto:** Repaso de proporciones
 
 ### Enunciado
 
@@ -87,7 +94,7 @@ Un gráfico circular muestra el presupuesto mensual de una familia en Bucaramang
 
 Si el ingreso mensual de la familia es de $2,000,000, ¿cuánto dinero gastan en alimentación?
 
-### Options
+### Opciones
 - [ ] A) $600,000 <!-- feedback: Incorrecto. $600,000 sería el 30%, que corresponde a vivienda, no a alimentación. -->
 - [x] B) $700,000 (35% de $2,000,000) <!-- feedback: ¡Correcto! Para calcular el 35% de $2,000,000: 35/100 × 2,000,000 = 0.35 × 2,000,000 = $700,000. El gráfico circular muestra que alimentación es la categoría que más consume del presupuesto familiar, seguida de vivienda. -->
 - [ ] C) $300,000 <!-- feedback: Incorrecto. $300,000 sería el 15% (transporte), no el 35% de alimentación. -->
@@ -103,8 +110,9 @@ Para calcular el valor de un porcentaje en un gráfico circular: 1) Identifica e
 
 **ID:** `CO-LEC-6-2026-W35-repaso-p9-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de texto multimodal (afiche)
-**Context:** Interpretar un afiche de prevención
+**Contexto:** Interpretar un afiche de prevención
 
 ### Enunciado
 
@@ -117,7 +125,7 @@ Un afiche en el colegio muestra:
 
 ¿Qué mensaje comunica el afiche?
 
-### Options
+### Opciones
 - [ ] A) Que está permitido usar el celular en clase si es en silencio <!-- feedback: Incorrecto. El círculo tachado indica prohibición, no permiso condicional. -->
 - [x] B) Que el uso del celular en clase está prohibido por el Manual de Convivencia del colegio <!-- feedback: ¡Correcto! La imagen del celular con el círculo tachado es un símbolo universal de "prohibido". El texto grande refuerza la prohibición. El texto pequeño da la base legal (Manual de Convivencia). Los tres elementos se complementan para comunicar una regla clara. -->
 - [ ] C) Que los celulares no funcionan en el colegio <!-- feedback: Incorrecto. El afiche no dice que los celulares no funcionen, sino que no deben usarse en clase. La distinción es importante: prohibición de uso, no falla técnica. -->
@@ -133,14 +141,15 @@ Los afiches son textos multimodales diseñados para comunicar un mensaje de mane
 
 **ID:** `CO-LEC-6-2026-W35-repaso-p9-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de fuentes confiables
-**Context:** Repaso de criterios de confiabilidad
+**Contexto:** Repaso de criterios de confiabilidad
 
 ### Enunciado
 
 ¿Cuál de las siguientes es una característica de una fuente de información confiable?
 
-### Options
+### Opciones
 - [ ] A) Usa lenguaje exagerado y mayúsculas para enfatizar <!-- feedback: Incorrecto. El lenguaje exagerado y las mayúsculas son señales de alerta, no de confiabilidad. Las fuentes serias usan lenguaje mesurado y preciso. -->
 - [ ] B) El autor permanece en el anonimato para protegerse <!-- feedback: Incorrecto. El anonimato es una de las mayores señales de alerta. Las fuentes confiables siempre identifican a su autor o institución responsable. -->
 - [x] C) Cita sus fuentes y permite verificar la información original <!-- feedback: ¡Correcto! Una fuente confiable es transparente: muestra de dónde obtuvo la información, permite rastrear los datos originales y ofrece referencias que el lector puede consultar. Esta transparencia es la base de la credibilidad. -->
@@ -156,8 +165,9 @@ Los criterios clave para identificar fuentes confiables son: AUTORÍA (¿quién 
 
 **ID:** `CO-LEC-6-2026-W35-repaso-p9-006-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Interpretación de gráfico de barras
-**Context:** Comparación de datos
+**Contexto:** Comparación de datos
 
 ### Enunciado
 
@@ -170,7 +180,7 @@ Un gráfico de barras muestra los libros leídos por estudiantes de tres cursos 
 
 Si el reto del colegio era que cada curso leyera al menos 35 libros, ¿cuántos cursos cumplieron el reto?
 
-### Options
+### Opciones
 - [ ] A) 2 cursos (6A y 6B) <!-- feedback: Incorrecto. 6B leyó 30 libros, que es menos de 35. No cumplió. -->
 - [ ] B) 1 curso (solo 6C) <!-- feedback: Incorrecto. 6A y 6D también cumplieron. Hay más de un curso. -->
 - [x] C) 3 cursos (6A con 45, 6C con 55 y 6D con 40) <!-- feedback: ¡Correcto! 6A (45 ≥ 35), 6C (55 ≥ 35) y 6D (40 ≥ 35) cumplen el reto. 6B (30 < 35) no lo cumple. El gráfico de barras permite ver rápidamente qué barras superan la línea imaginaria de 35. -->
@@ -186,14 +196,15 @@ Los gráficos de barras son excelentes para establecer comparaciones con un valo
 
 **ID:** `CO-LEC-6-2026-W35-repaso-p9-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Aplicación de criterios de verificación
-**Context:** Verificar una noticia
+**Contexto:** Verificar una noticia
 
 ### Enunciado
 
 Un compañero te comparte una noticia en WhatsApp que dice: "Mañana no habrá clases porque el alcalde declaró día cívico." ¿Cuál es el primer paso para verificar esta información?
 
-### Options
+### Opciones
 - [ ] A) Compartir la noticia con otros grupos para confirmar <!-- feedback: Incorrecto. Compartir sin verificar es exactamente lo que contribuye a la desinformación. No debes compartir hasta estar seguro. -->
 - [x] B) Consultar la página oficial de la Alcaldía o la Secretaría de Educación para ver si hay un comunicado oficial <!-- feedback: ¡Correcto! El primer paso es buscar la fuente oficial. Si el alcalde realmente declaró un día cívico, debe haber un comunicado oficial en los canales del gobierno. Consultar fuentes oficiales es siempre el paso inicial para verificar información institucional. -->
 - [ ] C) Preguntar en el grupo del curso si alguien más sabe algo <!-- feedback: Incorrecto. Aunque puede ser útil, no es confiable. Otros compañeros tampoco tienen información verificada. Todos estarían especulando. -->
@@ -209,8 +220,9 @@ Ante cualquier información que parece importante pero no verificada, sigue esto
 
 **ID:** `CO-LEC-6-2026-W35-repaso-p9-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Análisis de relación imagen-texto
-**Context:** Identificar relación entre modos
+**Contexto:** Identificar relación entre modos
 
 ### Enunciado
 
@@ -222,7 +234,7 @@ Un anuncio de una marca de jugos muestra:
 
 ¿Qué relación existe entre la imagen de las frutas frescas y el texto "100% natural"?
 
-### Options
+### Opciones
 - [ ] A) La imagen contradice el texto porque las frutas no parecen naturales <!-- feedback: Incorrecto. Las frutas se ven frescas y naturales. La imagen refuerza el mensaje de naturalidad, no lo contradice. -->
 - [x] B) La imagen refuerza el texto al mostrar visualmente lo que significa "natural": frutas frescas, sin procesar, directamente de la naturaleza <!-- feedback: ¡Correcto! La imagen funciona como evidencia visual del reclamo "100% natural". Las frutas brillantes y frescas comunican pureza y frescura. El paisaje de fondo refuerza la asociación con Colombia y lo natural. La relación es de refuerzo: la imagen muestra lo que el texto dice. -->
 - [ ] C) La imagen y el texto no tienen relación entre sí <!-- feedback: Incorrecto. En la publicidad, todos los elementos están cuidadosamente elegidos para trabajar juntos. La imagen de frutas frescas está directamente relacionada con el concepto de "natural". -->
@@ -238,8 +250,9 @@ En la publicidad, la relación imagen-texto suele ser de REFUERZO: la imagen mue
 
 **ID:** `CO-LEC-6-2026-W35-repaso-p9-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Evaluación de gráfico engañoso
-**Context:** Identificar manipulación visual
+**Contexto:** Identificar manipulación visual
 
 ### Enunciado
 
@@ -252,7 +265,7 @@ El anuncio dice: "¡Marca X vende el doble que la competencia!"
 
 ¿Qué problema tiene esta comparación?
 
-### Options
+### Opciones
 - [ ] A) Que el gráfico de la competencia muestra menos unidades, lo cual es mentira <!-- feedback: Incorrecto. La competencia realmente tiene 95 unidades, menos que las 100 de Marca X. El problema no es la mentira, sino cómo se presenta. -->
 - [ ] B) Que los gráficos tienen diferentes colores <!-- feedback: Incorrecto. Los colores no son el problema. Pueden usar colores distintos sin engañar. -->
 - [x] C) Que el eje Y del Gráfico B comienza en 80 en lugar de 0, lo que hace que la diferencia parezca mucho mayor de lo que realmente es (solo 5 unidades de diferencia, no "el doble") <!-- feedback: ¡Correcto! La diferencia real es de solo 5 unidades (100 vs 95, un 5.2% de diferencia). Pero al comenzar el eje Y en 80 en el Gráfico B, la barra parece minúscula comparada con la A, dando la impresión falsa de que Marca X vende muchísimo más. "El doble" sería 200 unidades, no 100. Es una exageración engañosa. -->
@@ -268,8 +281,9 @@ Este es un ejemplo clásico de manipulación visual. La regla para gráficos hon
 
 **ID:** `CO-LEC-6-2026-W35-repaso-p9-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Valoración crítica integrada
-**Context:** Evaluación completa de un texto multimodal
+**Contexto:** Evaluación completa de un texto multimodal
 
 ### Enunciado
 
@@ -283,7 +297,7 @@ Un sitio web sobre salud publica el siguiente contenido:
 
 Evalúa este contenido usando los criterios de lectura crítica aprendidos en el período. ¿Cuál es la conclusión correcta?
 
-### Options
+### Opciones
 - [ ] A) Es confiable porque tiene una imagen que lo respalda <!-- feedback: Incorrecto. Las imágenes no respaldan la veracidad de la información. Cualquier persona puede poner una imagen atractiva. -->
 - [ ] B) Es confiable porque habla de curar el cáncer, que es un tema importante <!-- feedback: Incorrecto. La importancia del tema no hace que la información sea cierta. De hecho, los temas importantes son los que más se explotan para desinformar. -->
 - [ ] C) Es confiable porque pide compartir para salvar vidas <!-- feedback: Incorrecto. Pedir compartir es una táctica de desinformación, no una señal de confiabilidad. La información verdaderamente importante no necesita cadenas de WhatsApp. -->

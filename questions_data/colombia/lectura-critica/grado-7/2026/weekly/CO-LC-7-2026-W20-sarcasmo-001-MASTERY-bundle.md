@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W20-sarcasmo-001-MASTERY"
+id: "CO-LC-7-2026-W20-sarcasmo-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "sarcasmo"
-semana: "W20"
+week: "W20"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Sarcasmo - Grado 7
 ## Semana W20 — Identificación y análisis del sarcasmo en textos
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W20-sarcasmo-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el Colegio Nueva Granada de Bogotá, los estudiantes comienzan a estudiar la diferencia entre ironía y sarcasmo.
+**Contexto:** En el Colegio Nueva Granada de Bogotá, los estudiantes comienzan a estudiar la diferencia entre ironía y sarcasmo.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Mientras que la ironía es un recurso general que consiste en decir lo contrario
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W20-sarcasmo-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Después de que el equipo de fútbol del colegio pierde 5-0, un estudiante dice: "Qué partido tan brillante. Nuestro equipo es verdaderamente imbatible."
+**Contexto:** Después de que el equipo de fútbol del colegio pierde 5-0, un estudiante dice: "Qué partido tan brillante. Nuestro equipo es verdaderamente imbatible."
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -60,11 +64,11 @@ La frase "qué partido tan brillante" dicha después de perder 5-0 es sarcástic
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W20-sarcasmo-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una red social, alguien comenta sobre una noticia de un político investigado por corrupción: "Qué sorpresa. Esto nunca había pasado antes en Colombia."
+**Contexto:** En una red social, alguien comenta sobre una noticia de un político investigado por corrupción: "Qué sorpresa. Esto nunca había pasado antes en Colombia."
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -81,11 +85,11 @@ El sarcasmo "qué sorpresa" y "nunca había pasado antes" son afirmaciones que e
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W20-sarcasmo-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** En el colegio, un estudiante presenta un trabajo copiado de internet. El profesor dice: "Qué trabajo tan original. Nadie más en el mundo había pensado en escribir exactamente estas palabras."
+**Contexto:** En el colegio, un estudiante presenta un trabajo copiado de internet. El profesor dice: "Qué trabajo tan original. Nadie más en el mundo había pensado en escribir exactamente estas palabras."
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -102,11 +106,11 @@ El profesor usa sarcasmo para señalar el plagio. Decir "qué trabajo tan origin
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W20-sarcasmo-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una discusión en clase, un estudiante interrumpe constantemente. Otro estudiante dice: "No, no, continúa. Tus interrupciones son lo más productivo de esta clase."
+**Contexto:** En una discusión en clase, un estudiante interrumpe constantemente. Otro estudiante dice: "No, no, continúa. Tus interrupciones son lo más productivo de esta clase."
 **Expected_Success:** 0.64
 
 ### Enunciado
@@ -123,11 +127,11 @@ Este es un ejemplo clásico de sarcasmo en interacciones cotidianas. Decir que l
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W20-sarcasmo-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un columnista escribe sobre la falta de mantenimiento de las vías en Colombia: "Excelente plan de infraestructura. Las carreteras están perfectas. Los huecos son en realidad 'piscinas públicas' para refrescar a los conductores."
+**Contexto:** Un columnista escribe sobre la falta de mantenimiento de las vías en Colombia: "Excelente plan de infraestructura. Las carreteras están perfectas. Los huecos son en realidad 'piscinas públicas' para refrescar a los conductores."
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -144,11 +148,11 @@ El columnista usa varios recursos para crear sarcasmo: 1) hipérbole: "excelente
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W20-sarcasmo-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** En redes sociales, alguien publica: "Gracias, TransMilenio, por hacerme llegar dos horas tarde. Mi jefe ama la puntualidad, así que todo salió perfecto."
+**Contexto:** En redes sociales, alguien publica: "Gracias, TransMilenio, por hacerme llegar dos horas tarde. Mi jefe ama la puntualidad, así que todo salió perfecto."
 **Expected_Success:** 0.56
 
 ### Enunciado
@@ -165,11 +169,11 @@ El sarcasmo en redes sociales funciona como una forma de queja pública con humo
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W20-sarcasmo-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un político dice en una entrevista: "Por supuesto que cumpliremos todas nuestras promesas de campaña. Así como cumplimos las anteriores."
+**Contexto:** Un político dice en una entrevista: "Por supuesto que cumpliremos todas nuestras promesas de campaña. Así como cumplimos las anteriores."
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -186,11 +190,11 @@ Este es un ejemplo de auto-sarcasmo o auto-ironía. El político dice que cumpli
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W20-sarcasmo-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un foro escolar, un estudiante escribe: "Claro, porque ignorar el problema es la mejor solución. Funciona siempre. Como con la basura en la esquina que desapareció por arte de magia."
+**Contexto:** En un foro escolar, un estudiante escribe: "Claro, porque ignorar el problema es la mejor solución. Funciona siempre. Como con la basura en la esquina que desapareció por arte de magia."
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -207,11 +211,11 @@ El sarcasmo aquí expresa una crítica contundente: ignorar los problemas no los
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W20-sarcasmo-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En el Colegio de Sincelejo, los estudiantes analizan si el sarcasmo es un recurso adecuado para la crítica social.
+**Contexto:** En el Colegio de Sincelejo, los estudiantes analizan si el sarcasmo es un recurso adecuado para la crítica social.
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ El sarcasmo tiene riesgos como herramienta de crítica social. Su tono burlón y
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W20-sarcasmo-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Un escritor colombiano escribe sobre la burocracia: "Tramitar un permiso en Colombia es un proceso ágil y eficiente. Solo necesita 47 ventanillas, 12 fotocopias y tener la paciencia de un santo."
+**Contexto:** Un escritor colombiano escribe sobre la burocracia: "Tramitar un permiso en Colombia es un proceso ágil y eficiente. Solo necesita 47 ventanillas, 12 fotocopias y tener la paciencia de un santo."
 **Expected_Success:** 0.44
 
 ### Enunciado
@@ -249,11 +253,11 @@ La hipérbole (exageración) es un recurso que potencia el sarcasmo. Decir que e
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W20-sarcasmo-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio de Ocaña, los estudiantes deben diseñar una campaña contra la contaminación auditiva usando el sarcasmo como recurso principal.
+**Contexto:** En el Colegio de Ocaña, los estudiantes deben diseñar una campaña contra la contaminación auditiva usando el sarcasmo como recurso principal.
 **Expected_Success:** 0.38
 
 ### Enunciado

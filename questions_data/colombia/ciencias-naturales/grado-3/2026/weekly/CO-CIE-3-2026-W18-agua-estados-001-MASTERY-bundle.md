@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W18-agua-estados-001-MASTERY"
+id: "CO-CIE-3-2026-W18-agua-estados-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "agua-estados"
-semana: "W18"
+week: "W18"
 periodo: 2
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Estados del agua (sólido, líquido, gaseoso) y cambios de est
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Los Estados del Agua
 
 Este bundle explora las tres formas en que podemos encontrar el agua en la naturaleza y cómo los cambios de temperatura la hacen pasar de un estado a otro.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W18-agua-estados-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la nevera de su casa, Mariana saca unos cubos de hielo para enfriar su jugo de naranja.
+**Contexto:** En la nevera de su casa, Mariana saca unos cubos de hielo para enfriar su jugo de naranja.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ El agua se vuelve sólida cuando la temperatura baja mucho (por debajo de 0 grad
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W18-agua-estados-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Al abrir un grifo o ver correr un río, notamos que el agua fluye y toma la forma del envase que la contiene.
+**Contexto:** Al abrir un grifo o ver correr un río, notamos que el agua fluye y toma la forma del envase que la contiene.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -73,12 +77,12 @@ El estado líquido es vital para la vida porque permite que el agua se mueva por
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W18-agua-estados-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Cuando una olla con agua hierve en la estufa, sale un humo blanco que sube y desaparece en el aire.
+**Contexto:** Cuando una olla con agua hierve en la estufa, sale un humo blanco que sube y desaparece en el aire.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -98,12 +102,12 @@ El calor le da energía a las moléculas de agua para que se suelten y "vuelen" 
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W18-agua-estados-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Juan deja un cubo de hielo sobre la mesa de la cocina y, después de 10 minutos, solo encuentra un charco de agua líquida.
+**Contexto:** Juan deja un cubo de hielo sobre la mesa de la cocina y, después de 10 minutos, solo encuentra un charco de agua líquida.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -123,12 +127,12 @@ La fusión es lo que comúnmente llamamos "derretirse". Al recibir calor del amb
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W18-agua-estados-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Después de bañarte con agua muy caliente, notas que el espejo del baño está "empañado" con pequeñas gotitas de agua.
+**Contexto:** Después de bañarte con agua muy caliente, notas que el espejo del baño está "empañado" con pequeñas gotitas de agua.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -148,12 +152,12 @@ La condensación es un paso clave en la naturaleza. Así es como se forman las n
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W18-agua-estados-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Mariana quiere hacer paletas de fruta. Mezcla jugo de mora y lo mete al congelador por varias horas.
+**Contexto:** Mariana quiere hacer paletas de fruta. Mezcla jugo de mora y lo mete al congelador por varias horas.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -173,12 +177,12 @@ La solidificación es el proceso físico donde un líquido pierde calor y se end
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W18-agua-estados-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Si dejas un vaso con un poco de agua bajo el sol fuerte de la tarde, notarás que después de unas horas el nivel del agua ha bajado un poco.
+**Contexto:** Si dejas un vaso con un poco de agua bajo el sol fuerte de la tarde, notarás que después de unas horas el nivel del agua ha bajado un poco.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -198,12 +202,12 @@ La evaporación es un proceso lento que ocurre en la superficie de los líquidos
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W18-agua-estados-001-MASTERY-v8`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** En los nevados de Colombia, como el Nevado del Ruiz, el cambio climático está haciendo que la temperatura suba cada año.
+**Contexto:** En los nevados de Colombia, como el Nevado del Ruiz, el cambio climático está haciendo que la temperatura suba cada año.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -223,12 +227,12 @@ Este es un ejemplo de cómo los cambios físicos afectan al medio ambiente. La f
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W18-agua-estados-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Tienes que explicarle a un niño por qué las nubes no se caen del cielo de inmediato como si fueran piedras.
+**Contexto:** Tienes que explicarle a un niño por qué las nubes no se caen del cielo de inmediato como si fueran piedras.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -248,12 +252,12 @@ Las nubes son agua en estado líquido (gotitas diminutas) o sólido (cristales d
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W18-agua-estados-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un científico afirma: "El agua es la única sustancia que podemos encontrar naturalmente en los tres estados en la superficie de la Tierra al mismo tiempo".
+**Contexto:** Un científico afirma: "El agua es la única sustancia que podemos encontrar naturalmente en los tres estados en la superficie de la Tierra al mismo tiempo".
 **Expected_Success:** 0.55
 
 ### Enunciado

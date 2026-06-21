@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W03-lectura-palabras-001-MASTERY"
+id: "CO-LEC-3-2026-W03-lectura-palabras-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 3
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Lectura de Palabras
 
@@ -25,6 +30,7 @@ Este bundle evalúa la capacidad de reconocer palabras escritas, entender su sig
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Vas caminando por una calle de tu barrio y ves un letrero grande en la puerta de un local que dice: **DROGUERÍA**.
@@ -32,7 +38,7 @@ Vas caminando por una calle de tu barrio y ves un letrero grande en la puerta de
 ### Enunciado
 ¿Cuál es la función principal del lugar que tiene ese letrero?
 
-### Options
+### Opciones
 - [ ] A) Vender frutas y verduras frescas. <!-- feedback: Incorrecto. Los lugares que venden frutas se suelen llamar "fruterías" o "mercados". -->
 - [x] B) Vender medicamentos y productos de salud. <!-- feedback: ¡Correcto! En Colombia, una droguería es el establecimiento donde compramos las medicinas cuando estamos enfermos. -->
 - [ ] C) Arreglar zapatos y bolsos de cuero. <!-- feedback: Incorrecto. Ese lugar se conoce como "zapatería" o "remontadora". -->
@@ -48,6 +54,7 @@ La lectura de palabras en el entorno (señalética) es una habilidad de alfabeti
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En el zoológico de Santa Cruz, un guía señala una jaula y dice: "Miren, ese es un **GUACAMAYO**".
@@ -55,7 +62,7 @@ En el zoológico de Santa Cruz, un guía señala una jaula y dice: "Miren, ese e
 ### Enunciado
 ¿Cuál de las siguientes descripciones corresponde a lo que es un **GUACAMAYO**?
 
-### Options
+### Opciones
 - [ ] A) Un pez que vive en el río Amazonas. <!-- feedback: Incorrecto. Los peces no viven en jaulas con ramas, y la palabra "guacamayo" no se refiere a un pez. -->
 - [x] B) Un ave de colores brillantes y pico fuerte. <!-- feedback: ¡Correcto! El guacamayo es una de las aves más hermosas y representativas de la fauna colombiana. -->
 - [ ] C) Un mamífero que corre muy rápido por la selva. <!-- feedback: Incorrecto. Los mamíferos tienen pelo, mientras que el guacamayo tiene plumas. -->
@@ -71,6 +78,7 @@ Relacionar una palabra escrita o escuchada con su referente real es fundamental 
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Tu tía te envía un mensaje que dice: "Por favor, compra una **PIÑA** madura en el mercado para hacer el jugo del almuerzo".
@@ -78,7 +86,7 @@ Tu tía te envía un mensaje que dice: "Por favor, compra una **PIÑA** madura e
 ### Enunciado
 Si llegas al mercado, ¿cuál de estas frutas debes elegir para cumplir el encargo de tu tía?
 
-### Options
+### Opciones
 - [ ] A) Una fruta pequeña, redonda y roja con semillas. <!-- feedback: Incorrecto. Esa descripción parece ser de una fresa, no de una piña. -->
 - [ ] B) Una fruta alargada de color amarillo que se pela fácil. <!-- feedback: Incorrecto. Ese es el banano o guineo. -->
 - [x] C) Una fruta grande, con cáscara de escamas y hojas arriba. <!-- feedback: ¡Correcto! Esa es la descripción física de la piña, una fruta tropical muy común en Colombia. -->
@@ -94,6 +102,7 @@ La comprensión semántica implica conocer los atributos de los objetos nombrado
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En la clase de ciencias, la profesora escribe en el tablero cuatro palabras: **AVIÓN, BARCO, BICICLETA, TREN**.
@@ -101,7 +110,7 @@ En la clase de ciencias, la profesora escribe en el tablero cuatro palabras: **A
 ### Enunciado
 ¿Cuál es la palabra que nombra al medio de transporte que se desplaza por el **AGUA**?
 
-### Options
+### Opciones
 - [ ] A) AVIÓN <!-- feedback: Incorrecto. El avión se desplaza por el aire. -->
 - [x] B) BARCO <!-- feedback: ¡Correcto! De la lista, el barco es el único que está diseñado para navegar por ríos o mares. -->
 - [ ] C) BICICLETA <!-- feedback: Incorrecto. La bicicleta es un medio de transporte terrestre. -->
@@ -117,6 +126,7 @@ La categorización es una habilidad cognitiva superior. El estudiante debe leer 
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Lee con atención el siguiente grupo de palabras: **GATO, PERRO, LORO, SILLA**.
@@ -124,7 +134,7 @@ Lee con atención el siguiente grupo de palabras: **GATO, PERRO, LORO, SILLA**.
 ### Enunciado
 ¿Cuál de las palabras **no pertenece** al mismo grupo que las demás?
 
-### Options
+### Opciones
 - [ ] A) GATO <!-- feedback: Incorrecto. El gato es un ser vivo (animal), al igual que el perro y el loro. -->
 - [ ] B) PERRO <!-- feedback: Incorrecto. El perro pertenece al grupo de los animales domésticos. -->
 - [ ] C) LORO <!-- feedback: Incorrecto. El loro también es un animal. -->
@@ -140,6 +150,7 @@ Identificar el "término excluido" requiere que el estudiante analice el campo s
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En una receta de cocina colombiana leíste la palabra **ADOBAR**.
@@ -147,7 +158,7 @@ En una receta de cocina colombiana leíste la palabra **ADOBAR**.
 ### Enunciado
 ¿Qué significa la palabra **ADOBAR** en el contexto de preparar una comida?
 
-### Options
+### Opciones
 - [ ] A) Lavar los platos después de comer. <!-- feedback: Incorrecto. Esa es una tarea de limpieza, no de preparación de los alimentos. -->
 - [x] B) Poner condimentos o especias a la carne para darle sabor. <!-- feedback: ¡Correcto! Adobar es preparar la comida con sal, ajo y otras especias antes de cocinarla. -->
 - [ ] C) Comprar los ingredientes en el supermercado. <!-- feedback: Incorrecto. Eso es "mercar" o "comprar", no es una técnica de cocina. -->
@@ -163,6 +174,7 @@ El vocabulario técnico o específico (en este caso, culinario) es parte del cre
 **Bloom:** Apply
 **ICFES:** Ortográfico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un estudiante está escribiendo un cuento sobre un **CABALLO** que corre por las llanuras del Casanare, pero no sabe cuál es la forma correcta de escribir la palabra.
@@ -170,7 +182,7 @@ Un estudiante está escribiendo un cuento sobre un **CABALLO** que corre por las
 ### Enunciado
 ¿Cuál es la forma correcta de escribir el nombre de este animal?
 
-### Options
+### Opciones
 - [ ] A) CAVALLO <!-- feedback: Incorrecto. Aunque suena igual, en español la palabra se escribe con 'b' de burro, no con 'v'. -->
 - [x] B) CABALLO <!-- feedback: ¡Correcto! Se escribe con 'b' y con doble 'l' (ll). Es la ortografía oficial de la lengua española. -->
 - [ ] C) CABAYO <!-- feedback: Incorrecto. Se pronuncia parecido en muchas partes, pero la forma correcta es con 'll', no con 'y'. -->
@@ -186,6 +198,7 @@ La distinción entre grafemas con sonido similar (b/v, ll/y) es uno de los mayor
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Mira estas dos palabras: **BANCO** (donde se guarda dinero) y **BANCO** (donde se sientan las personas en el parque).
@@ -193,7 +206,7 @@ Mira estas dos palabras: **BANCO** (donde se guarda dinero) y **BANCO** (donde s
 ### Enunciado
 ¿Cómo se llaman las palabras que se escriben igual pero tienen significados diferentes?
 
-### Options
+### Opciones
 - [ ] A) Sinónimos <!-- feedback: Incorrecto. Los sinónimos son palabras diferentes que significan lo mismo (ej: casa y hogar). Aquí es una sola forma con dos sentidos. -->
 - [ ] B) Antónimos <!-- feedback: Incorrecto. Los antónimos son palabras con significados opuestos (ej: alto y bajo). -->
 - [x] C) Palabras homógrafas <!-- feedback: ¡Correcto! "Homógrafa" significa "igual escritura". Son palabras que se escriben exactamente igual pero significan cosas distintas. -->

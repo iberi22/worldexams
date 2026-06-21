@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-4-2026-W16-literatura-mitos-001-MASTERY"
+id: "CO-LEN-4-2026-W16-literatura-mitos-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 4"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Literatura colombiana - mitos - Grado 4
 
@@ -22,7 +24,7 @@ Este bundle explora el concepto de mito, sus características (seres sobrenatura
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-4-2026-W16-literatura-mitos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -33,21 +35,20 @@ Este bundle explora el concepto de mito, sus características (seres sobrenatura
 ¿Cuál es la función principal de un mito en las culturas antiguas?
 
 ### Opciones
-- [ ] A) Enseñar a cocinar alimentos típicos.
-  <!-- feedback: No, esa es una función técnica o de recetas. -->
-- [x] B) Explicar el origen del universo, de los seres humanos y de los fenómenos naturales a través de dioses y seres sobrenaturales.
-  <!-- feedback: ¡Correcto! El mito responde a las grandes preguntas sobre la existencia. -->
-- [ ] C) Dar noticias sobre eventos que pasaron la semana pasada.
-  <!-- feedback: Las noticias tratan de hechos recientes y reales. -->
-- [ ] D) Vender productos de limpieza.
-  <!-- feedback: Eso es publicidad. -->
+- [ ] A) Enseñar a cocinar alimentos típicos. <!-- feedback: Incorrecto. Enseñar a cocinar alimentos típicos. -->
+
+- [x] B) Explicar el origen del universo, de los seres humanos y de los fenómenos naturales a través de dioses y seres sobrenaturales. <!-- feedback: Correcto! Explicar el origen del universo, de los seres humanos y de l -->
+
+- [ ] C) Dar noticias sobre eventos que pasaron la semana pasada. <!-- feedback: Incorrecto. Dar noticias sobre eventos que pasaron l -->
+
+- [ ] D) Vender productos de limpieza. <!-- feedback: Incorrecto. Vender productos de limpieza. -->
 
 ### Explicación Pedagogica
 El mito es un relato sagrado que fundamenta la cosmovisión de un pueblo, explicando cómo las cosas llegaron a ser lo que son.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-4-2026-W16-literatura-mitos-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -58,21 +59,20 @@ El mito es un relato sagrado que fundamenta la cosmovisión de un pueblo, explic
 ¿Quiénes suelen ser los protagonistas de los mitos?
 
 ### Opciones
-- [ ] A) Personas comunes del barrio.
-  <!-- feedback: Los personajes de mitos tienen poderes especiales. -->
-- [x] B) Dioses, semidioses y héroes con poderes sobrehumanos.
-  <!-- feedback: ¡Muy bien! Son seres que pertenecen a un tiempo sagrado. -->
-- [ ] C) Animales que solo hablan para dar moralejas.
-  <!-- feedback: Esas son las fábulas. -->
-- [ ] D) Científicos que trabajan en laboratorios.
-  <!-- feedback: El mito es anterior a la ciencia moderna. -->
+- [ ] A) Personas comunes del barrio. <!-- feedback: Incorrecto. Personas comunes del barrio. -->
+
+- [x] B) Dioses, semidioses y héroes con poderes sobrehumanos. <!-- feedback: Correcto! Dioses, semidioses y héroes con poderes sobrehumanos. -->
+
+- [ ] C) Animales que solo hablan para dar moralejas. <!-- feedback: Incorrecto. Animales que solo hablan para dar morale -->
+
+- [ ] D) Científicos que trabajan en laboratorios. <!-- feedback: Incorrecto. Científicos que trabajan en laboratorios -->
 
 ### Explicación Pedagogica
 Los personajes míticos encarnan fuerzas de la naturaleza o arquetipos fundamentales de la conducta humana y divina.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-4-2026-W16-literatura-mitos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -83,21 +83,20 @@ Los personajes míticos encarnan fuerzas de la naturaleza o arquetipos fundament
 Según el mito de Bachué, ella salió de la laguna de Iguaque para poblar la tierra. ¿Qué tipo de mito es este?
 
 ### Opciones
-- [ ] A) Un mito sobre el fin del mundo.
-  <!-- feedback: No habla del fin, sino del inicio de las personas. -->
-- [x] B) Un mito de origen (antropogónico), porque explica el origen de los seres humanos.
-  <!-- feedback: ¡Excelente! Bachué es considerada la madre de los muiscas. -->
-- [ ] C) Un mito sobre cómo se hace el café.
-  <!-- feedback: No tiene relación con el café. -->
-- [ ] D) Una noticia histórica comprobada por arqueólogos.
-  <!-- feedback: Aunque se basa en la cultura real, es un relato sagrado y simbólico. -->
+- [ ] A) Un mito sobre el fin del mundo. <!-- feedback: Incorrecto. Un mito sobre el fin del mundo. -->
+
+- [x] B) Un mito de origen (antropogónico), porque explica el origen de los seres humanos. <!-- feedback: Correcto! Un mito de origen (antropogónico), porque explica el origen  -->
+
+- [ ] C) Un mito sobre cómo se hace el café. <!-- feedback: Incorrecto. Un mito sobre cómo se hace el café. -->
+
+- [ ] D) Una noticia histórica comprobada por arqueólogos. <!-- feedback: Incorrecto. Una noticia histórica comprobada por arq -->
 
 ### Explicación Pedagogica
 Los mitos de origen explican el nacimiento de la humanidad o de un pueblo específico desde una perspectiva espiritual.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-4-2026-W16-literatura-mitos-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -108,21 +107,20 @@ Los mitos de origen explican el nacimiento de la humanidad o de un pueblo espec�
 ¿En qué momento ocurren los hechos narrados en un mito?
 
 ### Opciones
-- [ ] A) En un futuro muy lejano con tecnología avanzada.
-  <!-- feedback: Eso es ciencia ficción. -->
-- [ ] B) Ayer por la tarde en el centro de Cali.
-  <!-- feedback: El mito no ocurre en el tiempo cotidiano reciente. -->
-- [x] C) En un tiempo remoto, sagrado e indeterminado, antes de la historia conocida.
-  <!-- feedback: ¡Correcto! El tiempo mítico es el "tiempo de los orígenes". -->
-- [ ] D) Solo durante las vacaciones de Navidad.
-  <!-- feedback: No tiene relación con el calendario escolar. -->
+- [ ] A) En un futuro muy lejano con tecnología avanzada. <!-- feedback: Incorrecto. En un futuro muy lejano con tecnología a -->
+
+- [ ] B) Ayer por la tarde en el centro de Cali. <!-- feedback: Incorrecto. Ayer por la tarde en el centro de Cali. -->
+
+- [x] C) En un tiempo remoto, sagrado e indeterminado, antes de la historia conocida. <!-- feedback: Correcto! En un tiempo remoto, sagrado e indeterminado, antes de la hi -->
+
+- [ ] D) Solo durante las vacaciones de Navidad. <!-- feedback: Incorrecto. Solo durante las vacaciones de Navidad. -->
 
 ### Explicación Pedagogica
 El tiempo mítico es circular y atemporal, situándose fuera de la cronología histórica ordinaria.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-4-2026-W16-literatura-mitos-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Comprensión Lectora
@@ -133,21 +131,20 @@ El tiempo mítico es circular y atemporal, situándose fuera de la cronología h
 El **Curupira** o **Curupira** (llamado a veces Madre Monte en otras zonas) es un ser que protege la selva y castiga a los cazadores. ¿Qué característica lo hace un personaje mítico?
 
 ### Opciones
-- [ ] A) Que le gusta caminar por la selva.
-  <!-- feedback: Muchas personas caminan por la selva y no son seres míticos. -->
-- [x] B) Sus características sobrenaturales (como pies hacia atrás) y su poder sobre la naturaleza.
-  <!-- feedback: ¡Así es! Lo extraordinario y su rol protector son marcas de lo mítico. -->
-- [ ] C) Que usa una camiseta de Colombia.
-  <!-- feedback: Los seres míticos no suelen usar ropa moderna. -->
-- [ ] D) Que sabe hablar inglés.
-  <!-- feedback: No es una característica de la mitología tradicional amazónica. -->
+- [ ] A) Que le gusta caminar por la selva. <!-- feedback: Incorrecto. Que le gusta caminar por la selva. -->
+
+- [x] B) Sus características sobrenaturales (como pies hacia atrás) y su poder sobre la naturaleza. <!-- feedback: Correcto! Sus características sobrenaturales (como pies hacia atrás) y -->
+
+- [ ] C) Que usa una camiseta de Colombia. <!-- feedback: Incorrecto. Que usa una camiseta de Colombia. -->
+
+- [ ] D) Que sabe hablar inglés. <!-- feedback: Incorrecto. Que sabe hablar inglés. -->
 
 ### Explicación Pedagogica
 Los seres míticos a menudo presentan deformidades o rasgos físicos imposibles que simbolizan su conexión con fuerzas mágicas.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-4-2026-W16-literatura-mitos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -158,21 +155,20 @@ Los seres míticos a menudo presentan deformidades o rasgos físicos imposibles 
 ¿Por qué la historia de un "fantasma que aparece en un centro comercial ayer" NO es un mito?
 
 ### Opciones
-- [ ] A) Porque da mucho miedo.
-  <!-- feedback: Algunos mitos también pueden dar miedo. -->
-- [x] B) Porque no explica el origen de nada fundamental y ocurre en un tiempo y lugar modernos y reales.
-  <!-- feedback: ¡Exacto! Los mitos son relatos fundacionales, no anécdotas de espantos locales. -->
-- [ ] C) Porque no tiene dibujos.
-  <!-- feedback: El mito puede o no estar ilustrado. -->
-- [ ] D) Porque los fantasmas no existen.
-  <!-- feedback: El mito trata sobre la creencia y la cultura, no solo sobre la existencia física. -->
+- [ ] A) Porque da mucho miedo. <!-- feedback: Incorrecto. Porque da mucho miedo. -->
+
+- [x] B) Porque no explica el origen de nada fundamental y ocurre en un tiempo y lugar modernos y reales. <!-- feedback: Correcto! Porque no explica el origen de nada fundamental y ocurre en  -->
+
+- [ ] C) Porque no tiene dibujos. <!-- feedback: Incorrecto. Porque no tiene dibujos. -->
+
+- [ ] D) Porque los fantasmas no existen. <!-- feedback: Incorrecto. Porque los fantasmas no existen. -->
 
 ### Explicación Pedagogica
 La diferencia clave radica en la trascendencia del relato: el mito es una verdad colectiva sobre el origen del mundo para una cultura.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-4-2026-W16-literatura-mitos-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Comprensión Lectora
@@ -183,21 +179,20 @@ La diferencia clave radica en la trascendencia del relato: el mito es una verdad
 Bochica golpeó las rocas con su vara mágica para que el agua de la inundación saliera, creando el Salto del Tequendama. ¿Qué fenómeno geográfico está explicando este mito?
 
 ### Opciones
-- [ ] A) La formación del mar Caribe.
-  <!-- feedback: El Tequendama queda en el interior del país (Cundinamarca). -->
-- [x] B) La creación de una gran catarata o caída de agua para salvar a su pueblo.
-  <!-- feedback: ¡Muy bien! Explica cómo surgió un lugar geográfico específico de forma mágica. -->
-- [ ] C) El nacimiento del volcán Galeras.
-  <!-- feedback: Bochica se asocia con el agua y la sabana de Bogotá. -->
-- [ ] D) Por qué llueve tanto en el Chocó.
-  <!-- feedback: El mito se sitúa en la región andina muisca. -->
+- [ ] A) La formación del mar Caribe. <!-- feedback: Incorrecto. La formación del mar Caribe. -->
+
+- [x] B) La creación de una gran catarata o caída de agua para salvar a su pueblo. <!-- feedback: Correcto! La creación de una gran catarata o caída de agua para salvar -->
+
+- [ ] C) El nacimiento del volcán Galeras. <!-- feedback: Incorrecto. El nacimiento del volcán Galeras. -->
+
+- [ ] D) Por qué llueve tanto en el Chocó. <!-- feedback: Incorrecto. Por qué llueve tanto en el Chocó. -->
 
 ### Explicación Pedagogica
 Muchos mitos son etiográficos, es decir, explican la causa o el origen de accidentes geográficos notables del entorno.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-4-2026-W16-literatura-mitos-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -208,21 +203,20 @@ Muchos mitos son etiográficos, es decir, explican la causa o el origen de accid
 ¿Por qué es importante para nosotros hoy en día estudiar los mitos de nuestros ancestros indígenas?
 
 ### Opciones
-- [ ] A) Para burlarnos de lo que ellos creían.
-  <!-- feedback: No, se debe estudiar con respeto y valoración cultural. -->
-- [x] B) Para conocer la identidad, la sabiduría y la forma de ver el mundo de nuestras culturas raíces.
-  <!-- feedback: ¡Excelente! Los mitos son patrimonio cultural inmaterial de Colombia. -->
-- [ ] C) Porque los mitos nos dan las respuestas para los exámenes de matemáticas.
-  <!-- feedback: Los mitos pertenecen al área de lenguaje y sociales. -->
-- [ ] D) Para saber cómo cazar animales en peligro de extinción.
-  <!-- feedback: Los mitos indígenas suelen promover el respeto por la naturaleza. -->
+- [ ] A) Para burlarnos de lo que ellos creían. <!-- feedback: Incorrecto. Para burlarnos de lo que ellos creían. -->
+
+- [x] B) Para conocer la identidad, la sabiduría y la forma de ver el mundo de nuestras culturas raíces. <!-- feedback: Correcto! Para conocer la identidad, la sabiduría y la forma de ver el -->
+
+- [ ] C) Porque los mitos nos dan las respuestas para los exámenes de matemáticas. <!-- feedback: Incorrecto. Porque los mitos nos dan las respuestas  -->
+
+- [ ] D) Para saber cómo cazar animales en peligro de extinción. <!-- feedback: Incorrecto. Para saber cómo cazar animales en peligr -->
 
 ### Explicación Pedagogica
 El estudio de la mitología nacional fomenta el respeto por la diversidad étnica y la preservación de la memoria histórica.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-4-2026-W16-literatura-mitos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Comprensión Lectora
@@ -233,21 +227,20 @@ El estudio de la mitología nacional fomenta el respeto por la diversidad étnic
 ¿Cuál es la relación entre los mitos y las creencias religiosas de un pueblo?
 
 ### Opciones
-- [ ] A) Son mentiras que nadie cree.
-  <!-- feedback: Para el pueblo que los creó, son verdades sagradas. -->
-- [x] B) Son la base de sus ceremonias, valores y explicaciones sobre los dioses que adoran.
-  <!-- feedback: ¡Correcto! El mito y lo sagrado van siempre de la mano. -->
-- [ ] C) Son solo cuentos para que los niños duerman.
-  <!-- feedback: Esa es una visión muy reducida de la importancia del mito. -->
-- [ ] D) Los mitos reemplazan a las iglesias modernas.
-  <!-- feedback: El mito es una forma de expresión de la espiritualidad antigua y tradicional. -->
+- [ ] A) Son mentiras que nadie cree. <!-- feedback: Incorrecto. Son mentiras que nadie cree. -->
+
+- [x] B) Son la base de sus ceremonias, valores y explicaciones sobre los dioses que adoran. <!-- feedback: Correcto! Son la base de sus ceremonias, valores y explicaciones sobre -->
+
+- [ ] C) Son solo cuentos para que los niños duerman. <!-- feedback: Incorrecto. Son solo cuentos para que los niños duer -->
+
+- [ ] D) Los mitos reemplazan a las iglesias modernas. <!-- feedback: Incorrecto. Los mitos reemplazan a las iglesias mode -->
 
 ### Explicación Pedagogica
 Comprender el carácter sagrado del mito permite al estudiante aproximarse a la antropología cultural de forma básica.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-4-2026-W16-literatura-mitos-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -258,14 +251,13 @@ Comprender el carácter sagrado del mito permite al estudiante aproximarse a la 
 ¿Cuál sería el inicio más adecuado para tu MITO?
 
 ### Opciones
-- [ ] A) Ayer el noticiero dijo que las nubes tapan el sol porque hay mucha humedad.
-  <!-- feedback: Esta es una explicación meteorológica moderna. -->
-- [x] B) "En el principio de los tiempos, el gigante de la niebla decidió cubrir la Sabana con su manto para protegerla del fuego..."
-  <!-- feedback: ¡Muy bien! Usa un tiempo remoto, un personaje sobrenatural y una explicación mágica. -->
-- [ ] C) El cielo gris me pone muy triste y me dan ganas de tomar chocolate caliente.
-  <!-- feedback: Esto es una opinión personal. -->
-- [ ] D) Cómo cuidar el aire de la ciudad: guía para niños.
-  <!-- feedback: Formato de texto instructivo o expositivo. -->
+- [ ] A) Ayer el noticiero dijo que las nubes tapan el sol porque hay mucha humedad. <!-- feedback: Incorrecto. Ayer el noticiero dijo que las nubes tap -->
+
+- [x] B) "En el principio de los tiempos, el gigante de la niebla decidió cubrir la Sabana con su manto para protegerla del fuego..." <!-- feedback: Correcto! "En el principio de los tiempos, el gigante de la niebla dec -->
+
+- [ ] C) El cielo gris me pone muy triste y me dan ganas de tomar chocolate caliente. <!-- feedback: Incorrecto. El cielo gris me pone muy triste y me da -->
+
+- [ ] D) Cómo cuidar el aire de la ciudad: guía para niños. <!-- feedback: Incorrecto. Cómo cuidar el aire de la ciudad: guía p -->
 
 ### Explicación Pedagogica
 La creación de mitos (imitando el género) requiere el uso de metáforas fundacionales y personificaciones de los elementos naturales.

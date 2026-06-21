@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY"
+id: "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales"
 tema: "edad-moderna"
-semana: "W01"
+week: "W01"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Edad Moderna - Grado 7
 ## Semana W01 — Transición de la Edad Media a la Edad Moderna
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de Ciencias Sociales del Colegio San Carlos de Bogotá, la profesora Patricia pregunta sobre el inicio de la Edad Moderna.
+**Contexto:** En la clase de Ciencias Sociales del Colegio San Carlos de Bogotá, la profesora Patricia pregunta sobre el inicio de la Edad Moderna.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La Edad Moderna es el período histórico que va desde 1453 (caída de Constanti
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** En el colegio de Medellín, Carlos estudia los cambios entre la Edad Media y la Edad Moderna para su examen.
+**Contexto:** En el colegio de Medellín, Carlos estudia los cambios entre la Edad Media y la Edad Moderna para su examen.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ El Renacimiento (siglos XV-XVI) marcó un cambio profundo en la mentalidad europ
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** María prepara una exposición sobre los viajes de exploración para su clase en el colegio de Cali.
+**Contexto:** María prepara una exposición sobre los viajes de exploración para su clase en el colegio de Cali.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -81,11 +85,11 @@ Las especias (canela, pimienta, clavo, nuez moscada) eran extremadamente valiosa
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Laura ve en clase un mapa histórico que muestra las rutas comerciales del siglo XVI entre Europa, África, América y Asia.
+**Contexto:** Laura ve en clase un mapa histórico que muestra las rutas comerciales del siglo XVI entre Europa, África, América y Asia.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -102,11 +106,11 @@ El comercio triangular fue el sistema de intercambio que conectó tres continent
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Andrés compara en su clase de sociales en Bucaramanga las diferencias entre el sistema feudal medieval y las nuevas monarquías modernas.
+**Contexto:** Andrés compara en su clase de sociales en Bucaramanga las diferencias entre el sistema feudal medieval y las nuevas monarquías modernas.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -123,11 +127,11 @@ Las monarquías modernas (o monarquías absolutas) se caracterizaron por la cent
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el colegio de Barranquilla, Santiago estudia el impacto de la llegada de los europeos a América en 1492.
+**Contexto:** En el colegio de Barranquilla, Santiago estudia el impacto de la llegada de los europeos a América en 1492.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ El contacto trajo consecuencias demográficas catastróficas para la población 
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** En el colegio de Cartagena, Valentina analiza cómo la Reforma Protestante del siglo XVI cambió el mapa religioso de Europa.
+**Contexto:** En el colegio de Cartagena, Valentina analiza cómo la Reforma Protestante del siglo XVI cambió el mapa religioso de Europa.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ La Reforma Protestante comenzó cuando Martín Lutero, un monje agustino alemán
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Camila analiza en clase de sociales del colegio de Pereira cómo la invención de la imprenta por Gutenberg cambió la sociedad europea.
+**Contexto:** Camila analiza en clase de sociales del colegio de Pereira cómo la invención de la imprenta por Gutenberg cambió la sociedad europea.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ La imprenta de tipos móviles inventada por Johannes Gutenberg (c. 1440) fue una
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Sebastián y sus compañeros del colegio de Ibagué debaten sobre si la llegada de Colón a América fue un "descubrimiento" o un "encuentro de dos mundos".
+**Contexto:** Sebastián y sus compañeros del colegio de Ibagué debaten sobre si la llegada de Colón a América fue un "descubrimiento" o un "encuentro de dos mundos".
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ La historiografía contemporánea prefiere el término "encuentro de dos mundos"
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Isabella encuentra información sobre el "intercambio colombino": productos que viajaron de América a Europa y viceversa.
+**Contexto:** Isabella encuentra información sobre el "intercambio colombino": productos que viajaron de América a Europa y viceversa.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -228,11 +232,11 @@ El intercambio colombino (término acuñado por Alfred Crosby) fue el intercambi
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En el colegio de Cúcuta, Daniel compara la Contrarreforma católica con la Reforma Protestante para su trabajo de historia.
+**Contexto:** En el colegio de Cúcuta, Daniel compara la Contrarreforma católica con la Reforma Protestante para su trabajo de historia.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -249,11 +253,11 @@ El Concilio de Trento fue la respuesta de la Iglesia católica a la Reforma Prot
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el colegio de Tunja, la profesora plantea una pregunta de reflexión: ¿por qué la Edad Moderna se considera una "era de revoluciones" en todos los ámbitos?
+**Contexto:** En el colegio de Tunja, la profesora plantea una pregunta de reflexión: ¿por qué la Edad Moderna se considera una "era de revoluciones" en todos los ámbitos?
 **Expected_Success:** 0.42
 
 ### Enunciado

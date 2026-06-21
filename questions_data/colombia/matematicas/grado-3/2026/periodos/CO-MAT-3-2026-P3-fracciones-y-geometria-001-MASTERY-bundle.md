@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-3-2026-P3-fracciones-y-geometria-001-MASTERY"
+id: "CO-MAT-3-2026-P3-fracciones-y-geometria-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "matematicas"
@@ -19,7 +19,12 @@ rubric_baseline: "fracciones como parte de un todo, comparacion de fracciones, f
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Periodo P3: Fracciones y Geometria
 
@@ -30,12 +35,12 @@ Este bundle cubre fracciones basicas (medios, tercios, cuartos), comparacion de 
 **Bloom:** Understand
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.92
-**Context:** En Gimnasio Campestre de Tunja de Cartagena
+**Contexto:** En Gimnasio Campestre de Tunja de Cartagena
 
 ### Enunciado
 En la biblioteca del Gimnasio Campestre de Tunja, hay 246 libros de ciencia y 189 de historia. Cuantos MAS de ciencia?
 
-### Options
+### Opciones
 - [x] A) 57 <!-- feedback: Correcto! 246-189=57. -->
 - [ ] B) 67 <!-- feedback: Incorrecto. 16-9=7, no 6. -->
 - [ ] C) 47 <!-- feedback: Incorrecto. 16-9=7, no 6. -->
@@ -50,12 +55,12 @@ Unidades:6-9=presto=16-9=7. Decenas:3-8=presto=13-8=5. Centenas:1-1=0. Diferenci
 **Bloom:** Apply
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.9
-**Context:** En Inem Santiago Perez de Armenia de Manizales
+**Contexto:** En Inem Santiago Perez de Armenia de Manizales
 
 ### Enunciado
 Don Miguel tiene 24 huevos y los empaca en cartones de 6. Cuantos cartones?
 
-### Options
+### Opciones
 - [x] A) 4 <!-- feedback: Correcto! 24 ÷ 6 = 4 cartones. -->
 - [ ] B) 6 <!-- feedback: 6x6=36 huevos, son mas de 24. -->
 - [ ] C) 3 <!-- feedback: 3x6=18 huevos, le sobran 6. -->
@@ -70,12 +75,12 @@ Reparto equitativo: 24 huevos ÷ 6 por carton = 4 cartones.
 **Bloom:** Analyze
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.88
-**Context:** En Colegio San Francisco de Asis de Popayan de Cartagena
+**Contexto:** En Colegio San Francisco de Asis de Popayan de Cartagena
 
 ### Enunciado
 Cual de estas es una fraccion equivalente a 1/2?
 
-### Options
+### Opciones
 - [x] A) 2/4 <!-- feedback: Correcto! 1/2 = 2/4. Ambas representan la mitad. -->
 - [ ] B) 1/4 <!-- feedback: 1/4 es la cuarta parte, no la mitad. -->
 - [ ] C) 3/4 <!-- feedback: 3/4 son tres cuartos, mas de la mitad. -->
@@ -90,12 +95,12 @@ Fracciones equivalentes representan la misma cantidad. 1/2 = 2/4 = 3/6 = 4/8. To
 **Bloom:** Evaluate
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.85
-**Context:** En Instituto Tecnico Industrial de Cartagena
+**Contexto:** En Instituto Tecnico Industrial de Cartagena
 
 ### Enunciado
 Cuantos vertices tiene un cuadrado?
 
-### Options
+### Opciones
 - [x] A) 4 <!-- feedback: Correcto! Cuadrado tiene 4 vertices (esquinas). -->
 - [ ] B) 3 <!-- feedback: 3 vertices es un triangulo. -->
 - [ ] C) 6 <!-- feedback: 6 vertices es un hexagono. -->
@@ -110,12 +115,12 @@ Vertices: puntos donde se unen los lados. Cuadrado: 4 vertices.
 **Bloom:** Remember
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.82
-**Context:** En Colegio San Bartolome de Cartagena
+**Contexto:** En Colegio San Bartolome de Cartagena
 
 ### Enunciado
 Si son las 3:00, que hora es?
 
-### Options
+### Opciones
 - [x] A) Las 3 en punto <!-- feedback: Correcto! 3:00 = las 3 en punto. -->
 - [ ] B) Las 3 y media <!-- feedback: 3:30 seria las 3 y media. -->
 - [ ] C) Las 3 y cuarto <!-- feedback: 3:15 seria las 3 y cuarto. -->
@@ -130,12 +135,12 @@ Cuando el minutero esta en el 12, es la hora en punto. 3:00 = las 3 en punto.
 **Bloom:** Understand
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.8
-**Context:** En Colegio San Agustin de Sincelejo de Popayan
+**Contexto:** En Colegio San Agustin de Sincelejo de Popayan
 
 ### Enunciado
 Si en una bolsa hay 3 canicas rojas y 1 azul, cual color es MAS PROBABLE de sacar?
 
-### Options
+### Opciones
 - [x] A) Roja, porque hay mas <!-- feedback: Correcto! 3 rojas > 1 azul, mas probable sacar roja. -->
 - [ ] B) Azul, es mas especial <!-- feedback: La probabilidad depende de la cantidad. -->
 - [ ] C) Ambas igual <!-- feedback: No, hay diferente cantidad. -->
@@ -150,12 +155,12 @@ A mayor cantidad de un color, mayor probabilidad de sacarlo. 3/4 roja vs 1/4 azu
 **Bloom:** Apply
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.77
-**Context:** En Inem Santiago Perez de Armenia de Barranquilla
+**Contexto:** En Inem Santiago Perez de Armenia de Barranquilla
 
 ### Enunciado
 Cual es el MENOR? 234, 243, 324, 342
 
-### Options
+### Opciones
 - [x] A) 234 <!-- feedback: Correcto! 234 tiene 2 centenas y 3 decenas. -->
 - [ ] B) 243 <!-- feedback: Incorrecto. 243 > 234. -->
 - [ ] C) 324 <!-- feedback: Incorrecto. 324 tiene 3 centenas. -->
@@ -170,12 +175,12 @@ Compara centenas primero. 234 y 243 tienen 2 centenas. Entre ellos, 3 < 4 decena
 **Bloom:** Analyze
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.75
-**Context:** En Colegio San Francisco de Asis de Popayan de Bucaramanga
+**Contexto:** En Colegio San Francisco de Asis de Popayan de Bucaramanga
 
 ### Enunciado
 Doña Maria compra 3kg papa a $1.200/kg y 2kg cebolla a $800/kg. Cuanto paga?
 
-### Options
+### Opciones
 - [x] A) $5.200 <!-- feedback: Correcto! 3x1.200=3.600, 2x800=1.600. Total:5.200. -->
 - [ ] B) $3.600 <!-- feedback: Faltan las cebollas. -->
 - [ ] C) $4.400 <!-- feedback: 3x1.200=3.600, 2x800=1.600. Total:5.200. -->
@@ -190,12 +195,12 @@ Papas:3x1.200=3.600. Cebollas:2x800=1.600. Total:3.600+1.600=5.200.
 **Bloom:** Evaluate
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.72
-**Context:** En Instituto Tecnico Industrial de Cartagena
+**Contexto:** En Instituto Tecnico Industrial de Cartagena
 
 ### Enunciado
 En el recreo hay 8 mesas con 4 sillas cada una. Total sillas?
 
-### Options
+### Opciones
 - [x] A) 32 <!-- feedback: Correcto! 8x4=32 sillas. -->
 - [ ] B) 12 <!-- feedback: 8+4=12. Hay grupos iguales, se multiplica. -->
 - [ ] C) 16 <!-- feedback: 4x4=16. Son 8 mesas. -->
@@ -210,12 +215,12 @@ En el recreo hay 8 mesas con 4 sillas cada una. Total sillas?
 **Bloom:** Remember
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.7
-**Context:** En Colegio San Bartolome de Neiva
+**Contexto:** En Colegio San Bartolome de Neiva
 
 ### Enunciado
 Que fraccion representa 1 de 4 partes iguales de una pizza?
 
-### Options
+### Opciones
 - [x] A) 1/4 <!-- feedback: Correcto! 1 parte de 4 = 1/4. -->
 - [ ] B) 1/2 <!-- feedback: 1/2 seria 1 de 2 partes. -->
 - [ ] C) 1/3 <!-- feedback: 1/3 seria 1 de 3 partes. -->
@@ -230,12 +235,12 @@ Fraccion como parte de un todo: numerador (partes que tomamos) / denominador (to
 **Bloom:** Understand
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.67
-**Context:** En Colegio San Luis Gonzaga de Manizales de Medellin
+**Contexto:** En Colegio San Luis Gonzaga de Manizales de Medellin
 
 ### Enunciado
 Que figura geometrica tiene 4 lados iguales?
 
-### Options
+### Opciones
 - [x] A) Cuadrado <!-- feedback: Correcto! Cuadrado: 4 lados iguales, 4 angulos rectos. -->
 - [ ] B) Triangulo <!-- feedback: Triangulo tiene 3 lados. -->
 - [ ] C) Circulo <!-- feedback: Circulo no tiene lados. -->
@@ -250,12 +255,12 @@ Cuadrado: 4 lados iguales, 4 esquinas (vertices).
 **Bloom:** Apply
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.65
-**Context:** En Gimnasio Campestre de Tunja de Pasto
+**Contexto:** En Gimnasio Campestre de Tunja de Pasto
 
 ### Enunciado
 Cuantos dias tiene una semana?
 
-### Options
+### Opciones
 - [x] A) 7 <!-- feedback: Correcto! Una semana tiene 7 dias. -->
 - [ ] B) 5 <!-- feedback: 5 son los dias laborales. -->
 - [ ] C) 10 <!-- feedback: No, una semana son 7 dias. -->
@@ -270,12 +275,12 @@ Semana: lunes, martes, miercoles, jueves, viernes, sabado, domingo = 7 dias.
 **Bloom:** Analyze
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.62
-**Context:** En Colegio San Bartolome de Tunja
+**Contexto:** En Colegio San Bartolome de Tunja
 
 ### Enunciado
 Cual de estos eventos es IMPOSIBLE?
 
-### Options
+### Opciones
 - [x] A) Que llueva caramelos <!-- feedback: Correcto! Los caramelos no caen del cielo. -->
 - [ ] B) Que llueva manana <!-- feedback: Es posible, depende del clima. -->
 - [ ] C) Que salga sol <!-- feedback: Es posible. -->
@@ -290,12 +295,12 @@ Evento imposible = no puede ocurrir jamas. Llover caramelos va contra las leyes 
 **Bloom:** Evaluate
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.6
-**Context:** En Liceo Nacional San Mateo de Armenia
+**Contexto:** En Liceo Nacional San Mateo de Armenia
 
 ### Enunciado
 Que numero esta ANTES de 500?
 
-### Options
+### Opciones
 - [x] A) 499 <!-- feedback: Correcto! 499 + 1 = 500. -->
 - [ ] B) 500 <!-- feedback: Incorrecto. 500 es el mismo numero. -->
 - [ ] C) 501 <!-- feedback: Incorrecto. 501 sigue despues de 500. -->
@@ -310,12 +315,12 @@ El numero anterior es uno menos: 500 - 1 = 499.
 **Bloom:** Remember
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.57
-**Context:** En Colegio San Francisco de Asis de Popayan de Armenia
+**Contexto:** En Colegio San Francisco de Asis de Popayan de Armenia
 
 ### Enunciado
 Si 345 + 200 = 545, cuanto es 545 - 200?
 
-### Options
+### Opciones
 - [x] A) 345 <!-- feedback: Correcto! Suma y resta son operaciones inversas. -->
 - [ ] B) 200 <!-- feedback: Incorrecto. 545 - 200 = 345. -->
 - [ ] C) 545 <!-- feedback: Incorrecto. 545 - 200 no da 545. -->

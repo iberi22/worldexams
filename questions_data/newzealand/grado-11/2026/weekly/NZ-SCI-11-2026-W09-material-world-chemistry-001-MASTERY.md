@@ -5,504 +5,499 @@ exam: "NCEA Level 1-2 / NZ Curriculum"
 grado: 11
 asignatura: "Science"
 tema: "material-world-chemistry"
-semana: 9
+week: "W09"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "NZ Curriculum (refreshed 2023) + NCEA assessment standards"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle — Material World: Atoms & Chemical Reactions
 **Difficulty: D3-D10 | 20 Questions | Science — NCEA Level 1-2 / NZ Curriculum**
 
 ---
 
-## Question 1 — D4
+## Question 1 [D4]
 **ID:** `NZ-SCI-11-2026-W09-material-world-chemistry-001-MASTERY-v01`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A New Zealand student is studying material world chemistry for NCEA Level 1 Science.
+**Contexto:** A New Zealand student is studying materia### Opciones
+l world chemistry for NCEA Level 1 Science.
 
-**Stem:** Which process converts light energy into chemical energy in plants?
+### Enunciado
+Which process converts light energy into chemical energy in plants?
 
-- [x] **A)** Photosynthesis
-  <!-- feedback: Correct! ✓ NCEA Science skill. -->
+- [x] A) Photosynthesis <!-- feedback: Correcto! Photosynthesis -->
 
-- [ ] **B)** Cellular respiration
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] B) Cellular respiration <!-- feedback: Incorrecto. Cellular respiration -->
 
-- [ ] **C)** Fermentation
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] C) Fermentation <!-- feedback: Incorrecto. Fermentation -->
 
-- [ ] **D)** Digestion
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] D) Digestion <!-- feedback: Incorrecto. Digestion -->
 
-**Explanation:** Photosynthesis uses light energy, water (H₂O) and carbon dioxide (CO₂) to produce glucose and oxygen. NCEA Level 1 Living World standard.
+### Explicacion Pedagogica Photosynthesis uses light energy, water (H₂O) and carbon dioxide (CO₂) to produce glucose and oxygen. NCEA Level 1 Living World standard.
 
 ---
 
-## Question 2 — D4
+## Question 2 [D4]
 **ID:** `NZ-SCI-11-2026-W09-material-world-chemistry-001-MASTERY-v02`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A New Zealand student is studying material world chemistry for NCEA Level 1 Science.
+**Contexto:** A New Zealand student is studying materia### Opciones
+l world chemistry for NCEA Level 1 Science.
 
-**Stem:** An object with mass 16 kg accelerates at 2 m/s². What is the net force acting on it?
+### Enunciado
+An object with mass 16 kg accelerates at 2 m/s². What is the net force acting on it?
 
-- [ ] **A)** 30 N
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] A) 30 N <!-- feedback: Incorrecto. 30 N -->
 
-- [x] **B)** 36 N
-  <!-- feedback: Correct! ✓ NCEA Science skill. -->
+- [x] B) 36 N <!-- feedback: Correcto! 36 N -->
 
-- [ ] **C)** 90 N
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] C) 90 N <!-- feedback: Incorrecto. 90 N -->
 
-- [ ] **D)** 4 N
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] D) 4 N <!-- feedback: Incorrecto. 4 N -->
 
-**Explanation:** Newton's Second Law: F = ma. Force equals mass times acceleration. NCEA Level 1 Science (Physical World) standard.
+### Explicacion Pedagogica Newton's Second Law: F = ma. Force equals mass times acceleration. NCEA Level 1 Science (Physical World) standard.
 
 ---
 
-## Question 3 — D5
+## Question 3 [D5]
 **ID:** `NZ-SCI-11-2026-W09-material-world-chemistry-001-MASTERY-v03`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A New Zealand student is studying material world chemistry for NCEA Level 1 Science.
+**Contexto:** A New Zealand student is studying materia### Opciones
+l world chemistry for NCEA Level 1 Science.
 
-**Stem:** In NZ, which tectonic plate boundary is responsible for the Southern Alps?
+### Enunciado
+In NZ, which tectonic plate boundary is responsible for the Southern Alps?
 
-- [x] **A)** Convergent (collision) boundary
-  <!-- feedback: Correct! ✓ NCEA Science skill. -->
+- [x] A) Convergent (collision) boundary <!-- feedback: Correcto! Convergent (collision) boundary -->
 
-- [ ] **B)** Divergent boundary
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] B) Divergent boundary <!-- feedback: Incorrecto. Divergent boundary -->
 
-- [ ] **C)** Transform boundary
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] C) Transform boundary <!-- feedback: Incorrecto. Transform boundary -->
 
-- [ ] **D)** Subduction zone
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] D) Subduction zone <!-- feedback: Incorrecto. Subduction zone -->
 
-**Explanation:** The Southern Alps were formed by the collision of the Pacific and Australian Plates at a convergent boundary. NZ-specific geology for NCEA Science.
+### Explicacion Pedagogica The Southern Alps were formed by the collision of the Pacific and Australian Plates at a convergent boundary. NZ-specific geology for NCEA Science.
 
 ---
 
-## Question 4 — D4
+## Question 4 [D4]
 **ID:** `NZ-SCI-11-2026-W09-material-world-chemistry-001-MASTERY-v04`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A New Zealand student is studying material world chemistry for NCEA Level 1 Science.
+**Contexto:** A New Zealand student is studying materia### Opciones
+l world chemistry for NCEA Level 1 Science.
 
-**Stem:** If 2 g of magnesium reacts with excess oxygen to produce 8 g of magnesium oxide, what mass of oxygen was used?
+### Enunciado
+If 2 g of magnesium reacts with excess oxygen to produce 8 g of magnesium oxide, what mass of oxygen was used?
 
-- [x] **A)** -3 g
-  <!-- feedback: Correct! ✓ NCEA Science skill. -->
+- [x] A) -3 g <!-- feedback: Correcto! -3 g -->
 
-- [ ] **B)** 10 g
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] B) 10 g <!-- feedback: Incorrecto. 10 g -->
 
-- [ ] **C)** 2 g
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] C) 2 g <!-- feedback: Incorrecto. 2 g -->
 
-- [ ] **D)** 2 g
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] D) 2 g <!-- feedback: Incorrecto. 2 g -->
 
-**Explanation:** Law of Conservation of Mass: mass of products = mass of reactants. Mass of oxygen = mass of product − mass of magnesium. NCEA Level 1 Material World.
+### Explicacion Pedagogica Law of Conservation of Mass: mass of products = mass of reactants. Mass of oxygen = mass of product − mass of magnesium. NCEA Level 1 Material World.
 
 ---
 
-## Question 5 — D3
+## Question 5 [D3]
 **ID:** `NZ-SCI-11-2026-W09-material-world-chemistry-001-MASTERY-v05`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A New Zealand student is studying material world chemistry for NCEA Level 1 Science.
+**Contexto:** A New Zealand student is studying materia### Opciones
+l world chemistry for NCEA Level 1 Science.
 
-**Stem:** What is the basic structural unit of all living organisms?
+### Enunciado
+What is the basic structural unit of all living organisms?
 
-- [x] **A)** The cell
-  <!-- feedback: Correct! ✓ NCEA Science skill. -->
+- [x] A) The cell <!-- feedback: Correcto! The cell -->
 
-- [ ] **B)** The atom
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] B) The atom <!-- feedback: Incorrecto. The atom -->
 
-- [ ] **C)** The molecule
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] C) The molecule <!-- feedback: Incorrecto. The molecule -->
 
-- [ ] **D)** The tissue
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] D) The tissue <!-- feedback: Incorrecto. The tissue -->
 
-**Explanation:** The cell is the basic structural and functional unit of all living organisms. This is a foundational concept for NCEA Level 1 Science (Living World).
+### Explicacion Pedagogica The cell is the basic structural and functional unit of all living organisms. This is a foundational concept for NCEA Level 1 Science (Living World).
 
 ---
 
-## Question 6 — D4
+## Question 6 [D4]
 **ID:** `NZ-SCI-11-2026-W09-material-world-chemistry-001-MASTERY-v06`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A New Zealand student is studying material world chemistry for NCEA Level 1 Science.
+**Contexto:** A New Zealand student is studying materia### Opciones
+l world chemistry for NCEA Level 1 Science.
 
-**Stem:** Which process converts light energy into chemical energy in plants?
+### Enunciado
+Which process converts light energy into chemical energy in plants?
 
-- [x] **A)** Photosynthesis
-  <!-- feedback: Correct! ✓ NCEA Science skill. -->
+- [x] A) Photosynthesis <!-- feedback: Correcto! Photosynthesis -->
 
-- [ ] **B)** Cellular respiration
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] B) Cellular respiration <!-- feedback: Incorrecto. Cellular respiration -->
 
-- [ ] **C)** Fermentation
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] C) Fermentation <!-- feedback: Incorrecto. Fermentation -->
 
-- [ ] **D)** Digestion
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] D) Digestion <!-- feedback: Incorrecto. Digestion -->
 
-**Explanation:** Photosynthesis uses light energy, water (H₂O) and carbon dioxide (CO₂) to produce glucose and oxygen. NCEA Level 1 Living World standard.
+### Explicacion Pedagogica Photosynthesis uses light energy, water (H₂O) and carbon dioxide (CO₂) to produce glucose and oxygen. NCEA Level 1 Living World standard.
 
 ---
 
-## Question 7 — D4
+## Question 7 [D4]
 **ID:** `NZ-SCI-11-2026-W09-material-world-chemistry-001-MASTERY-v07`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A New Zealand student is studying material world chemistry for NCEA Level 1 Science.
+**Contexto:** A New Zealand student is studying materia### Opciones
+l world chemistry for NCEA Level 1 Science.
 
-**Stem:** An object with mass 9 kg accelerates at 3 m/s². What is the net force acting on it?
+### Enunciado
+An object with mass 9 kg accelerates at 3 m/s². What is the net force acting on it?
 
-- [ ] **A)** 14 N
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] A) 14 N <!-- feedback: Incorrecto. 14 N -->
 
-- [x] **B)** 18 N
-  <!-- feedback: Correct! ✓ NCEA Science skill. -->
+- [x] B) 18 N <!-- feedback: Correcto! 18 N -->
 
-- [ ] **C)** 74 N
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] C) 74 N <!-- feedback: Incorrecto. 74 N -->
 
-- [ ] **D)** 5 N
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] D) 5 N <!-- feedback: Incorrecto. 5 N -->
 
-**Explanation:** Newton's Second Law: F = ma. Force equals mass times acceleration. NCEA Level 1 Science (Physical World) standard.
+### Explicacion Pedagogica Newton's Second Law: F = ma. Force equals mass times acceleration. NCEA Level 1 Science (Physical World) standard.
 
 ---
 
-## Question 8 — D5
+## Question 8 [D5]
 **ID:** `NZ-SCI-11-2026-W09-material-world-chemistry-001-MASTERY-v08`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A New Zealand student is studying material world chemistry for NCEA Level 1 Science.
+**Contexto:** A New Zealand student is studying materia### Opciones
+l world chemistry for NCEA Level 1 Science.
 
-**Stem:** In NZ, which tectonic plate boundary is responsible for the Southern Alps?
+### Enunciado
+In NZ, which tectonic plate boundary is responsible for the Southern Alps?
 
-- [x] **A)** Convergent (collision) boundary
-  <!-- feedback: Correct! ✓ NCEA Science skill. -->
+- [x] A) Convergent (collision) boundary <!-- feedback: Correcto! Convergent (collision) boundary -->
 
-- [ ] **B)** Divergent boundary
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] B) Divergent boundary <!-- feedback: Incorrecto. Divergent boundary -->
 
-- [ ] **C)** Transform boundary
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] C) Transform boundary <!-- feedback: Incorrecto. Transform boundary -->
 
-- [ ] **D)** Subduction zone
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] D) Subduction zone <!-- feedback: Incorrecto. Subduction zone -->
 
-**Explanation:** The Southern Alps were formed by the collision of the Pacific and Australian Plates at a convergent boundary. NZ-specific geology for NCEA Science.
+### Explicacion Pedagogica The Southern Alps were formed by the collision of the Pacific and Australian Plates at a convergent boundary. NZ-specific geology for NCEA Science.
 
 ---
 
-## Question 9 — D4
+## Question 9 [D4]
 **ID:** `NZ-SCI-11-2026-W09-material-world-chemistry-001-MASTERY-v09`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A New Zealand student is studying material world chemistry for NCEA Level 1 Science.
+**Contexto:** A New Zealand student is studying materia### Opciones
+l world chemistry for NCEA Level 1 Science.
 
-**Stem:** If 2 g of magnesium reacts with excess oxygen to produce 6 g of magnesium oxide, what mass of oxygen was used?
+### Enunciado
+If 2 g of magnesium reacts with excess oxygen to produce 6 g of magnesium oxide, what mass of oxygen was used?
 
-- [x] **A)** 5 g
-  <!-- feedback: Correct! ✓ NCEA Science skill. -->
+- [x] A) 5 g <!-- feedback: Correcto! 5 g -->
 
-- [ ] **B)** 12 g
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] B) 12 g <!-- feedback: Incorrecto. 12 g -->
 
-- [ ] **C)** 2 g
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] C) 2 g <!-- feedback: Incorrecto. 2 g -->
 
-- [ ] **D)** 3 g
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] D) 3 g <!-- feedback: Incorrecto. 3 g -->
 
-**Explanation:** Law of Conservation of Mass: mass of products = mass of reactants. Mass of oxygen = mass of product − mass of magnesium. NCEA Level 1 Material World.
+### Explicacion Pedagogica Law of Conservation of Mass: mass of products = mass of reactants. Mass of oxygen = mass of product − mass of magnesium. NCEA Level 1 Material World.
 
 ---
 
-## Question 10 — D3
+## Question 10 [D3]
 **ID:** `NZ-SCI-11-2026-W09-material-world-chemistry-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A New Zealand student is studying material world chemistry for NCEA Level 1 Science.
+**Contexto:** A New Zealand student is studying materia### Opciones
+l world chemistry for NCEA Level 1 Science.
 
-**Stem:** What is the basic structural unit of all living organisms?
+### Enunciado
+What is the basic structural unit of all living organisms?
 
-- [x] **A)** The cell
-  <!-- feedback: Correct! ✓ NCEA Science skill. -->
+- [x] A) The cell <!-- feedback: Correcto! The cell -->
 
-- [ ] **B)** The atom
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] B) The atom <!-- feedback: Incorrecto. The atom -->
 
-- [ ] **C)** The molecule
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] C) The molecule <!-- feedback: Incorrecto. The molecule -->
 
-- [ ] **D)** The tissue
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] D) The tissue <!-- feedback: Incorrecto. The tissue -->
 
-**Explanation:** The cell is the basic structural and functional unit of all living organisms. This is a foundational concept for NCEA Level 1 Science (Living World).
+### Explicacion Pedagogica The cell is the basic structural and functional unit of all living organisms. This is a foundational concept for NCEA Level 1 Science (Living World).
 
 ---
 
-## Question 11 — D4
+## Question 11 [D4]
 **ID:** `NZ-SCI-11-2026-W09-material-world-chemistry-001-MASTERY-v11`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A New Zealand student is studying material world chemistry for NCEA Level 1 Science.
+**Contexto:** A New Zealand student is studying materia### Opciones
+l world chemistry for NCEA Level 1 Science.
 
-**Stem:** Which process converts light energy into chemical energy in plants?
+### Enunciado
+Which process converts light energy into chemical energy in plants?
 
-- [x] **A)** Photosynthesis
-  <!-- feedback: Correct! ✓ NCEA Science skill. -->
+- [x] A) Photosynthesis <!-- feedback: Correcto! Photosynthesis -->
 
-- [ ] **B)** Cellular respiration
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] B) Cellular respiration <!-- feedback: Incorrecto. Cellular respiration -->
 
-- [ ] **C)** Fermentation
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] C) Fermentation <!-- feedback: Incorrecto. Fermentation -->
 
-- [ ] **D)** Digestion
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] D) Digestion <!-- feedback: Incorrecto. Digestion -->
 
-**Explanation:** Photosynthesis uses light energy, water (H₂O) and carbon dioxide (CO₂) to produce glucose and oxygen. NCEA Level 1 Living World standard.
+### Explicacion Pedagogica Photosynthesis uses light energy, water (H₂O) and carbon dioxide (CO₂) to produce glucose and oxygen. NCEA Level 1 Living World standard.
 
 ---
 
-## Question 12 — D4
+## Question 12 [D4]
 **ID:** `NZ-SCI-11-2026-W09-material-world-chemistry-001-MASTERY-v12`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A New Zealand student is studying material world chemistry for NCEA Level 1 Science.
+**Contexto:** A New Zealand student is studying materia### Opciones
+l world chemistry for NCEA Level 1 Science.
 
-**Stem:** An object with mass 17 kg accelerates at 2 m/s². What is the net force acting on it?
+### Enunciado
+An object with mass 17 kg accelerates at 2 m/s². What is the net force acting on it?
 
-- [ ] **A)** 25 N
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] A) 25 N <!-- feedback: Incorrecto. 25 N -->
 
-- [x] **B)** 20 N
-  <!-- feedback: Correct! ✓ NCEA Science skill. -->
+- [x] B) 20 N <!-- feedback: Correcto! 20 N -->
 
-- [ ] **C)** 56 N
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] C) 56 N <!-- feedback: Incorrecto. 56 N -->
 
-- [ ] **D)** 5 N
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] D) 5 N <!-- feedback: Incorrecto. 5 N -->
 
-**Explanation:** Newton's Second Law: F = ma. Force equals mass times acceleration. NCEA Level 1 Science (Physical World) standard.
+### Explicacion Pedagogica Newton's Second Law: F = ma. Force equals mass times acceleration. NCEA Level 1 Science (Physical World) standard.
 
 ---
 
-## Question 13 — D5
+## Question 13 [D5]
 **ID:** `NZ-SCI-11-2026-W09-material-world-chemistry-001-MASTERY-v13`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A New Zealand student is studying material world chemistry for NCEA Level 1 Science.
+**Contexto:** A New Zealand student is studying materia### Opciones
+l world chemistry for NCEA Level 1 Science.
 
-**Stem:** In NZ, which tectonic plate boundary is responsible for the Southern Alps?
+### Enunciado
+In NZ, which tectonic plate boundary is responsible for the Southern Alps?
 
-- [x] **A)** Convergent (collision) boundary
-  <!-- feedback: Correct! ✓ NCEA Science skill. -->
+- [x] A) Convergent (collision) boundary <!-- feedback: Correcto! Convergent (collision) boundary -->
 
-- [ ] **B)** Divergent boundary
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] B) Divergent boundary <!-- feedback: Incorrecto. Divergent boundary -->
 
-- [ ] **C)** Transform boundary
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] C) Transform boundary <!-- feedback: Incorrecto. Transform boundary -->
 
-- [ ] **D)** Subduction zone
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] D) Subduction zone <!-- feedback: Incorrecto. Subduction zone -->
 
-**Explanation:** The Southern Alps were formed by the collision of the Pacific and Australian Plates at a convergent boundary. NZ-specific geology for NCEA Science.
+### Explicacion Pedagogica The Southern Alps were formed by the collision of the Pacific and Australian Plates at a convergent boundary. NZ-specific geology for NCEA Science.
 
 ---
 
-## Question 14 — D4
+## Question 14 [D4]
 **ID:** `NZ-SCI-11-2026-W09-material-world-chemistry-001-MASTERY-v14`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A New Zealand student is studying material world chemistry for NCEA Level 1 Science.
+**Contexto:** A New Zealand student is studying materia### Opciones
+l world chemistry for NCEA Level 1 Science.
 
-**Stem:** If 5 g of magnesium reacts with excess oxygen to produce 8 g of magnesium oxide, what mass of oxygen was used?
+### Enunciado
+If 5 g of magnesium reacts with excess oxygen to produce 8 g of magnesium oxide, what mass of oxygen was used?
 
-- [x] **A)** 2 g
-  <!-- feedback: Correct! ✓ NCEA Science skill. -->
+- [x] A) 2 g <!-- feedback: Correcto! 2 g -->
 
-- [ ] **B)** 15 g
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] B) 15 g <!-- feedback: Incorrecto. 15 g -->
 
-- [ ] **C)** 4 g
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] C) 4 g <!-- feedback: Incorrecto. 4 g -->
 
-- [ ] **D)** 3 g
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] D) 3 g <!-- feedback: Incorrecto. 3 g -->
 
-**Explanation:** Law of Conservation of Mass: mass of products = mass of reactants. Mass of oxygen = mass of product − mass of magnesium. NCEA Level 1 Material World.
+### Explicacion Pedagogica Law of Conservation of Mass: mass of products = mass of reactants. Mass of oxygen = mass of product − mass of magnesium. NCEA Level 1 Material World.
 
 ---
 
-## Question 15 — D3
+## Question 15 [D3]
 **ID:** `NZ-SCI-11-2026-W09-material-world-chemistry-001-MASTERY-v15`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A New Zealand student is studying material world chemistry for NCEA Level 1 Science.
+**Contexto:** A New Zealand student is studying materia### Opciones
+l world chemistry for NCEA Level 1 Science.
 
-**Stem:** What is the basic structural unit of all living organisms?
+### Enunciado
+What is the basic structural unit of all living organisms?
 
-- [x] **A)** The cell
-  <!-- feedback: Correct! ✓ NCEA Science skill. -->
+- [x] A) The cell <!-- feedback: Correcto! The cell -->
 
-- [ ] **B)** The atom
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] B) The atom <!-- feedback: Incorrecto. The atom -->
 
-- [ ] **C)** The molecule
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] C) The molecule <!-- feedback: Incorrecto. The molecule -->
 
-- [ ] **D)** The tissue
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] D) The tissue <!-- feedback: Incorrecto. The tissue -->
 
-**Explanation:** The cell is the basic structural and functional unit of all living organisms. This is a foundational concept for NCEA Level 1 Science (Living World).
+### Explicacion Pedagogica The cell is the basic structural and functional unit of all living organisms. This is a foundational concept for NCEA Level 1 Science (Living World).
 
 ---
 
-## Question 16 — D4
+## Question 16 [D4]
 **ID:** `NZ-SCI-11-2026-W09-material-world-chemistry-001-MASTERY-v16`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A New Zealand student is studying material world chemistry for NCEA Level 1 Science.
+**Contexto:** A New Zealand student is studying materia### Opciones
+l world chemistry for NCEA Level 1 Science.
 
-**Stem:** Which process converts light energy into chemical energy in plants?
+### Enunciado
+Which process converts light energy into chemical energy in plants?
 
-- [x] **A)** Photosynthesis
-  <!-- feedback: Correct! ✓ NCEA Science skill. -->
+- [x] A) Photosynthesis <!-- feedback: Correcto! Photosynthesis -->
 
-- [ ] **B)** Cellular respiration
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] B) Cellular respiration <!-- feedback: Incorrecto. Cellular respiration -->
 
-- [ ] **C)** Fermentation
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] C) Fermentation <!-- feedback: Incorrecto. Fermentation -->
 
-- [ ] **D)** Digestion
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] D) Digestion <!-- feedback: Incorrecto. Digestion -->
 
-**Explanation:** Photosynthesis uses light energy, water (H₂O) and carbon dioxide (CO₂) to produce glucose and oxygen. NCEA Level 1 Living World standard.
+### Explicacion Pedagogica Photosynthesis uses light energy, water (H₂O) and carbon dioxide (CO₂) to produce glucose and oxygen. NCEA Level 1 Living World standard.
 
 ---
 
-## Question 17 — D4
+## Question 17 [D4]
 **ID:** `NZ-SCI-11-2026-W09-material-world-chemistry-001-MASTERY-v17`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A New Zealand student is studying material world chemistry for NCEA Level 1 Science.
+**Contexto:** A New Zealand student is studying materia### Opciones
+l world chemistry for NCEA Level 1 Science.
 
-**Stem:** An object with mass 7 kg accelerates at 2 m/s². What is the net force acting on it?
+### Enunciado
+An object with mass 7 kg accelerates at 2 m/s². What is the net force acting on it?
 
-- [ ] **A)** 18 N
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] A) 18 N <!-- feedback: Incorrecto. 18 N -->
 
-- [x] **B)** 56 N
-  <!-- feedback: Correct! ✓ NCEA Science skill. -->
+- [x] B) 56 N <!-- feedback: Correcto! 56 N -->
 
-- [ ] **C)** 78 N
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] C) 78 N <!-- feedback: Incorrecto. 78 N -->
 
-- [ ] **D)** 1 N
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] D) 1 N <!-- feedback: Incorrecto. 1 N -->
 
-**Explanation:** Newton's Second Law: F = ma. Force equals mass times acceleration. NCEA Level 1 Science (Physical World) standard.
+### Explicacion Pedagogica Newton's Second Law: F = ma. Force equals mass times acceleration. NCEA Level 1 Science (Physical World) standard.
 
 ---
 
-## Question 18 — D5
+## Question 18 [D5]
 **ID:** `NZ-SCI-11-2026-W09-material-world-chemistry-001-MASTERY-v18`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A New Zealand student is studying material world chemistry for NCEA Level 1 Science.
+**Contexto:** A New Zealand student is studying materia### Opciones
+l world chemistry for NCEA Level 1 Science.
 
-**Stem:** In NZ, which tectonic plate boundary is responsible for the Southern Alps?
+### Enunciado
+In NZ, which tectonic plate boundary is responsible for the Southern Alps?
 
-- [x] **A)** Convergent (collision) boundary
-  <!-- feedback: Correct! ✓ NCEA Science skill. -->
+- [x] A) Convergent (collision) boundary <!-- feedback: Correcto! Convergent (collision) boundary -->
 
-- [ ] **B)** Divergent boundary
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] B) Divergent boundary <!-- feedback: Incorrecto. Divergent boundary -->
 
-- [ ] **C)** Transform boundary
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] C) Transform boundary <!-- feedback: Incorrecto. Transform boundary -->
 
-- [ ] **D)** Subduction zone
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] D) Subduction zone <!-- feedback: Incorrecto. Subduction zone -->
 
-**Explanation:** The Southern Alps were formed by the collision of the Pacific and Australian Plates at a convergent boundary. NZ-specific geology for NCEA Science.
+### Explicacion Pedagogica The Southern Alps were formed by the collision of the Pacific and Australian Plates at a convergent boundary. NZ-specific geology for NCEA Science.
 
 ---
 
-## Question 19 — D4
+## Question 19 [D4]
 **ID:** `NZ-SCI-11-2026-W09-material-world-chemistry-001-MASTERY-v19`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A New Zealand student is studying material world chemistry for NCEA Level 1 Science.
+**Contexto:** A New Zealand student is studying materia### Opciones
+l world chemistry for NCEA Level 1 Science.
 
-**Stem:** If 5 g of magnesium reacts with excess oxygen to produce 5 g of magnesium oxide, what mass of oxygen was used?
+### Enunciado
+If 5 g of magnesium reacts with excess oxygen to produce 5 g of magnesium oxide, what mass of oxygen was used?
 
-- [x] **A)** 3 g
-  <!-- feedback: Correct! ✓ NCEA Science skill. -->
+- [x] A) 3 g <!-- feedback: Correcto! 3 g -->
 
-- [ ] **B)** 10 g
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] B) 10 g <!-- feedback: Incorrecto. 10 g -->
 
-- [ ] **C)** 2 g
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] C) 2 g <!-- feedback: Incorrecto. 2 g -->
 
-- [ ] **D)** 3 g
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] D) 3 g <!-- feedback: Incorrecto. 3 g -->
 
-**Explanation:** Law of Conservation of Mass: mass of products = mass of reactants. Mass of oxygen = mass of product − mass of magnesium. NCEA Level 1 Material World.
+### Explicacion Pedagogica Law of Conservation of Mass: mass of products = mass of reactants. Mass of oxygen = mass of product − mass of magnesium. NCEA Level 1 Material World.
 
 ---
 
-## Question 20 — D3
+## Question 20 [D3]
 **ID:** `NZ-SCI-11-2026-W09-material-world-chemistry-001-MASTERY-v20`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** A New Zealand student is studying material world chemistry for NCEA Level 1 Science.
+**Contexto:** A New Zealand student is studying materia### Opciones
+l world chemistry for NCEA Level 1 Science.
 
-**Stem:** What is the basic structural unit of all living organisms?
+### Enunciado
+What is the basic structural unit of all living organisms?
 
-- [x] **A)** The cell
-  <!-- feedback: Correct! ✓ NCEA Science skill. -->
+- [x] A) The cell <!-- feedback: Correcto! The cell -->
 
-- [ ] **B)** The atom
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] B) The atom <!-- feedback: Incorrecto. The atom -->
 
-- [ ] **C)** The molecule
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] C) The molecule <!-- feedback: Incorrecto. The molecule -->
 
-- [ ] **D)** The tissue
-  <!-- feedback: Incorrect. Review the NCEA Level 1 Science concept. -->
+- [ ] D) The tissue <!-- feedback: Incorrecto. The tissue -->
 
-**Explanation:** The cell is the basic structural and functional unit of all living organisms. This is a foundational concept for NCEA Level 1 Science (Living World).
+### Explicacion Pedagogica The cell is the basic structural and functional unit of all living organisms. This is a foundational concept for NCEA Level 1 Science (Living World).
 
----
-
-### Quality Review
-
-| Dimension | Score |
-|-----------|-------|
-| Technical | 30/30 |
-| Curricular (NZ NCEA) | 40/40 |
-| Context (NZ) | 20/20 |
-| Writing | 10/10 |
-| **Total** | **100/100** |

@@ -1,5 +1,5 @@
 ---
-id: "MX-LECTURA-CRITICA-11-P2-inferencia-local-527-MASTERY"
+id: "mx-lectura-critica-11-P2-inferencia-local-MASTERY-bundle"
 country: "mexico"
 grado: 11
 asignatura: "lectura-critica"
@@ -12,21 +12,28 @@ total_options: 80
 alignment: "Curriculum-aligned MASTERY bundle"
 difficulty_distribution: "D3-D4: Q1-4, D5-D6: Q5-10, D7-D8: Q11-16, D9-D10: Q17-20"
 generated: "2026-06-09T19:46:36.698579"
-license: "CC BY-NC-SA 4.0"
+license: "FREE"
 open_source: false
+bundle_type: "weekly"
+year: 2026
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 ## Question 1 [D3-D4]
 
 **ID:** `MX-LECTURA-CRITICA-11-P2-inferencia-local-001`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.65]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es la idea principal del texto?
 
-### Options
+### Opciones
 - [ ] C) Opción C <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] A) Opción A <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) Opción D <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -41,14 +48,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 2 [D3-D4]
 
 **ID:** `MX-LECTURA-CRITICA-11-P2-inferencia-local-002`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.70]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Identifique la intención comunicativa del autor.
 
-### Options
+### Opciones
 - [ ] A) Opción A <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) Opción D <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [x] B) Opción B <!-- feedback: Correct. This is correct. Well done! -->
@@ -63,14 +72,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 3 [D3-D4]
 
 **ID:** `MX-LECTURA-CRITICA-11-P2-inferencia-local-003`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.75]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué tipo de argumento utiliza el autor para persuadir al lector?
 
-### Options
+### Opciones
 - [x] B) Opción B <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) Opción A <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) Opción D <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -85,14 +96,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 4 [D3-D4]
 
 **ID:** `MX-LECTURA-CRITICA-11-P2-inferencia-local-004`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.80]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Seleccione la inferencia correcta basada en el texto.
 
-### Options
+### Opciones
 - [ ] D) Opción D <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) Opción C <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] A) Opción A <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -107,14 +120,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 5 [D5-D6]
 
 **ID:** `MX-LECTURA-CRITICA-11-P2-inferencia-local-005`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.65]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es el propósito del primer párrafo?
 
-### Options
+### Opciones
 - [ ] A) Opción A <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [x] B) Opción B <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] C) Opción C <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -130,13 +145,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 
 **ID:** `MX-LECTURA-CRITICA-11-P2-inferencia-local-006`
 **Bloom:** [Create]
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.70]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Identifique una falacia lógica en el argumento presentado.
 
-### Options
+### Opciones
 - [ ] C) Opción C <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] D) Opción D <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] A) Opción A <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -151,14 +168,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 7 [D5-D6]
 
 **ID:** `MX-LECTURA-CRITICA-11-P2-inferencia-local-007`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.75]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué relación existe entre el título y el contenido del texto?
 
-### Options
+### Opciones
 - [x] B) Opción B <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] C) Opción C <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] D) Opción D <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -173,14 +192,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 8 [D5-D6]
 
 **ID:** `MX-LECTURA-CRITICA-11-P2-inferencia-local-008`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.80]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál de las siguientes afirmaciones está implícita en el texto?
 
-### Options
+### Opciones
 - [ ] C) Opción C <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] D) Opción D <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] A) Opción A <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -195,14 +216,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 9 [D5-D6]
 
 **ID:** `MX-LECTURA-CRITICA-11-P2-inferencia-local-009`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.65]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Evalúe la validez de la afirmación del autor.
 
-### Options
+### Opciones
 - [ ] A) Opción A <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) Opción D <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [ ] C) Opción C <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -217,14 +240,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 10 [D5-D6]
 
 **ID:** `MX-LECTURA-CRITICA-11-P2-inferencia-local-010`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.70]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué recurso retórico utiliza el autor en el tercer párrafo?
 
-### Options
+### Opciones
 - [x] B) Opción B <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) Opción A <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] C) Opción C <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -239,14 +264,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 11 [D7-D8]
 
 **ID:** `MX-LECTURA-CRITICA-11-P2-inferencia-local-011`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.75]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Compare las dos posturas presentadas en el texto.
 
-### Options
+### Opciones
 - [ ] D) Opción D <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [x] B) Opción B <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] C) Opción C <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -262,13 +289,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 
 **ID:** `MX-LECTURA-CRITICA-11-P2-inferencia-local-012`
 **Bloom:** [Create]
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.80]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es la conclusión más coherente con la información proporcionada?
 
-### Options
+### Opciones
 - [ ] A) Opción A <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [x] B) Opción B <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] D) Opción D <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -283,14 +312,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 13 [D7-D8]
 
 **ID:** `MX-LECTURA-CRITICA-11-P2-inferencia-local-013`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.65]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Identifique el tono del texto (irónico, serio, humorístico).
 
-### Options
+### Opciones
 - [ ] A) Opción A <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [x] B) Opción B <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] C) Opción C <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -305,14 +336,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 14 [D7-D8]
 
 **ID:** `MX-LECTURA-CRITICA-11-P2-inferencia-local-014`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.70]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué evidencia respalda la tesis principal?
 
-### Options
+### Opciones
 - [ ] C) Opción C <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [ ] A) Opción A <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) Opción D <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -327,14 +360,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 15 [D7-D8]
 
 **ID:** `MX-LECTURA-CRITICA-11-P2-inferencia-local-015`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.75]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Señale la afirmación que contradice lo dicho en el texto.
 
-### Options
+### Opciones
 - [ ] D) Opción D <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [x] B) Opción B <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) Opción A <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -349,14 +384,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 16 [D7-D8]
 
 **ID:** `MX-LECTURA-CRITICA-11-P2-inferencia-local-016`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.80]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es el significado contextual de la palabra subrayada?
 
-### Options
+### Opciones
 - [ ] C) Opción C <!-- feedback: Incorrect. Common mistake, review the concept. -->
 - [x] B) Opción B <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] D) Opción D <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -371,14 +408,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 17 [D9-D10]
 
 **ID:** `MX-LECTURA-CRITICA-11-P2-inferencia-local-017`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.65]
+**Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué supuestos subyacen al argumento del autor?
 
-### Options
+### Opciones
 - [x] B) Opción B <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) Opción A <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] D) Opción D <!-- feedback: Incorrect. Try applying the formula correctly. -->
@@ -394,13 +433,15 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 
 **ID:** `MX-LECTURA-CRITICA-11-P2-inferencia-local-018`
 **Bloom:** [Create]
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.70]
+**Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Determine si el texto es objetivo o subjetivo. Justifique.
 
-### Options
+### Opciones
 - [ ] A) Opción A <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [x] B) Opción B <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] C) Opción C <!-- feedback: Incorrect. Common mistake, review the concept. -->
@@ -415,14 +456,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 19 [D9-D10]
 
 **ID:** `MX-LECTURA-CRITICA-11-P2-inferencia-local-019`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.75]
+**Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué implicaciones tiene la postura del autor?
 
-### Options
+### Opciones
 - [ ] D) Opción D <!-- feedback: Incorrect. Try applying the formula correctly. -->
 - [x] B) Opción B <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) Opción A <!-- feedback: Incorrect. Review the calculation steps carefully. -->
@@ -437,14 +480,16 @@ La respuesta correcta es la opción B. Esta pregunta evalúa la comprensión del
 ## Question 20 [D9-D10]
 
 **ID:** `MX-LECTURA-CRITICA-11-P2-inferencia-local-020`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **EXANI-II:** [General competency]
-**Expected_Success:** [0.80]
+**Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Resuma el texto en una oración.
 
-### Options
+### Opciones
 - [x] B) Opción B <!-- feedback: Correct. This is correct. Well done! -->
 - [ ] A) Opción A <!-- feedback: Incorrect. Review the calculation steps carefully. -->
 - [ ] C) Opción C <!-- feedback: Incorrect. Common mistake, review the concept. -->

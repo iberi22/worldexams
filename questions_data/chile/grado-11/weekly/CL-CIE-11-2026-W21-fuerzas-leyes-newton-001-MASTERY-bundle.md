@@ -1,24 +1,32 @@
 ---
-id: "CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY"
+id: "CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY-bundle"
 country: "chile"
 exam: "PAES DEMRE - MINEDUC"
 grado: 11
 asignatura: "Ciencias Naturales"
 tema: "fuerzas-leyes-newton"
-semana: 21
+week: "W21"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "PAES DEMRE + MINEDUC Bases Curriculares"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle - Ciencias Naturales: Fuerzas Leyes Newton (W21)
 **20 preguntas | Ciencias Naturales | PAES DEMRE - MINEDUC**
 
 ---
-## Pregunta 1 [D4]
+## Question 1 [D4]
 **ID:** `CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando fuerzas leyes newton.
 
@@ -26,21 +34,22 @@ alignment: "PAES DEMRE + MINEDUC Bases Curriculares"
 Simplifique: (5)(10x + 27)
 
 ### Opciones
-- [x] **A)** 50x + 135
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 50x + 27
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 15x + 135
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 50x - 135
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 50x + 135 <!-- feedback: Correcto! 50x + 135 -->
+
+- [ ] B) 50x + 27 <!-- feedback: Incorrecto. 50x + 27 -->
+
+- [ ] C) 15x + 135 <!-- feedback: Incorrecto. 15x + 135 -->
+
+- [ ] D) 50x - 135 <!-- feedback: Incorrecto. 50x - 135 -->
 
 **Explicacion:** Aplicar distributiva: (5)(10x + 27) = 50x + 135.
 
 ---
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando fuerzas leyes newton.
 
@@ -48,21 +57,22 @@ Simplifique: (5)(10x + 27)
 Resuelve: 2(x + 6) = 18
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] C) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] D) 5 <!-- feedback: Incorrecto. 5 -->
 
 **Explicacion:** 2(x+6) = 18 -> x+6 = 9 -> x = 3.
 
 ---
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando fuerzas leyes newton.
 
@@ -70,21 +80,22 @@ Resuelve: 2(x + 6) = 18
 Maria compro 2 cuadernos a $10.2 c/u en Arica. Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $20.2
-  <!-- feedback: Correcto! -->
-- [ ] **B)** $2.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $10.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $12.2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $20.2 <!-- feedback: Correcto! $20.2 -->
+
+- [ ] B) $2.2 <!-- feedback: Incorrecto. $2.2 -->
+
+- [ ] C) $10.2 <!-- feedback: Incorrecto. $10.2 -->
+
+- [ ] D) $12.2 <!-- feedback: Incorrecto. $12.2 -->
 
 **Explicacion:** Total = 2 x 10 = $20.2.
 
 ---
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY-v4`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando fuerzas leyes newton.
 
@@ -92,21 +103,22 @@ Maria compro 2 cuadernos a $10.2 c/u en Arica. Cuanto gasto?
 Un estudiante de Liceo de Aplicacion en Santiago grafica f(x) = 2x + 8. Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 2
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 10
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 2 <!-- feedback: Correcto! 2 -->
+
+- [ ] B) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] C) 10 <!-- feedback: Incorrecto. 10 -->
+
+- [ ] D) 7 <!-- feedback: Incorrecto. 7 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 2.
 
 ---
-## Pregunta 5 [D3]
+## Question 5 [D3]
 **ID:** `CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY-v5`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando fuerzas leyes newton.
 
@@ -114,21 +126,22 @@ Un estudiante de Liceo de Aplicacion en Santiago grafica f(x) = 2x + 8. Cual es 
 En Chillan, un estudiante del Liceo Narciso Tondreau resuelve: 3x + 3 = 18. Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **D)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 1 <!-- feedback: Incorrecto. 1 -->
+
+- [ ] B) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 8 <!-- feedback: Incorrecto. 8 -->
 
 **Explicacion:** Se resta 3 de ambos lados. Luego se divide por 3: x = 5.
 
 ---
-## Pregunta 6 [D4]
+## Question 6 [D4]
 **ID:** `CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando fuerzas leyes newton.
 
@@ -136,21 +149,22 @@ En Chillan, un estudiante del Liceo Narciso Tondreau resuelve: 3x + 3 = 18. Cual
 Simplifique: (7)(10x + 15)
 
 ### Opciones
-- [x] **A)** 70x + 105
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 70x + 15
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 17x + 105
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 70x - 105
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 70x + 105 <!-- feedback: Correcto! 70x + 105 -->
+
+- [ ] B) 70x + 15 <!-- feedback: Incorrecto. 70x + 15 -->
+
+- [ ] C) 17x + 105 <!-- feedback: Incorrecto. 17x + 105 -->
+
+- [ ] D) 70x - 105 <!-- feedback: Incorrecto. 70x - 105 -->
 
 **Explicacion:** Aplicar distributiva: (7)(10x + 15) = 70x + 105.
 
 ---
-## Pregunta 7 [D3]
+## Question 7 [D3]
 **ID:** `CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando fuerzas leyes newton.
 
@@ -158,21 +172,22 @@ Simplifique: (7)(10x + 15)
 Resuelve: 2(x + 7) = 20
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] C) 9 <!-- feedback: Incorrecto. 9 -->
+
+- [ ] D) 6 <!-- feedback: Incorrecto. 6 -->
 
 **Explicacion:** 2(x+7) = 20 -> x+7 = 10 -> x = 3.
 
 ---
-## Pregunta 8 [D4]
+## Question 8 [D4]
 **ID:** `CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando fuerzas leyes newton.
 
@@ -180,21 +195,22 @@ Resuelve: 2(x + 7) = 20
 Maria compro 4 cuadernos a $8.3 c/u en Talca. Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $32.3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** $4.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $8.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $12.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $32.3 <!-- feedback: Correcto! $32.3 -->
+
+- [ ] B) $4.3 <!-- feedback: Incorrecto. $4.3 -->
+
+- [ ] C) $8.3 <!-- feedback: Incorrecto. $8.3 -->
+
+- [ ] D) $12.3 <!-- feedback: Incorrecto. $12.3 -->
 
 **Explicacion:** Total = 4 x 8 = $32.3.
 
 ---
-## Pregunta 9 [D5]
+## Question 9 [D5]
 **ID:** `CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando fuerzas leyes newton.
 
@@ -202,21 +218,22 @@ Maria compro 4 cuadernos a $8.3 c/u en Talca. Cuanto gasto?
 Un estudiante de Liceo Domingo Santa Maria en Arica grafica f(x) = 6x + 12. Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 6
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 12
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 18
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 6 <!-- feedback: Correcto! 6 -->
+
+- [ ] B) 12 <!-- feedback: Incorrecto. 12 -->
+
+- [ ] C) 18 <!-- feedback: Incorrecto. 18 -->
+
+- [ ] D) 7 <!-- feedback: Incorrecto. 7 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 6.
 
 ---
-## Pregunta 10 [D3]
+## Question 10 [D3]
 **ID:** `CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando fuerzas leyes newton.
 
@@ -224,21 +241,22 @@ Un estudiante de Liceo Domingo Santa Maria en Arica grafica f(x) = 6x + 12. Cual
 En Puerto Montt, un estudiante del Liceo Manuel Montt resuelve: 7x + 8 = 43. Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **D)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] B) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 8 <!-- feedback: Incorrecto. 8 -->
 
 **Explicacion:** Se resta 8 de ambos lados. Luego se divide por 7: x = 5.
 
 ---
-## Pregunta 11 [D4]
+## Question 11 [D4]
 **ID:** `CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY-v11`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando fuerzas leyes newton.
 
@@ -246,21 +264,22 @@ En Puerto Montt, un estudiante del Liceo Manuel Montt resuelve: 7x + 8 = 43. Cua
 Simplifique: (6)(9x + 19)
 
 ### Opciones
-- [x] **A)** 54x + 114
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 54x + 19
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 15x + 114
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 54x - 114
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 54x + 114 <!-- feedback: Correcto! 54x + 114 -->
+
+- [ ] B) 54x + 19 <!-- feedback: Incorrecto. 54x + 19 -->
+
+- [ ] C) 15x + 114 <!-- feedback: Incorrecto. 15x + 114 -->
+
+- [ ] D) 54x - 114 <!-- feedback: Incorrecto. 54x - 114 -->
 
 **Explicacion:** Aplicar distributiva: (6)(9x + 19) = 54x + 114.
 
 ---
-## Pregunta 12 [D3]
+## Question 12 [D3]
 **ID:** `CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY-v12`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando fuerzas leyes newton.
 
@@ -268,21 +287,22 @@ Simplifique: (6)(9x + 19)
 Resuelve: 2(x + 3) = 12
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] C) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [ ] D) 2 <!-- feedback: Incorrecto. 2 -->
 
 **Explicacion:** 2(x+3) = 12 -> x+3 = 6 -> x = 3.
 
 ---
-## Pregunta 13 [D4]
+## Question 13 [D4]
 **ID:** `CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY-v13`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando fuerzas leyes newton.
 
@@ -290,21 +310,22 @@ Resuelve: 2(x + 3) = 12
 Maria compro 4 cuadernos a $6.1 c/u en Iquique. Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $24.1
-  <!-- feedback: Correcto! -->
-- [ ] **B)** $4.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $6.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $10.1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $24.1 <!-- feedback: Correcto! $24.1 -->
+
+- [ ] B) $4.1 <!-- feedback: Incorrecto. $4.1 -->
+
+- [ ] C) $6.1 <!-- feedback: Incorrecto. $6.1 -->
+
+- [ ] D) $10.1 <!-- feedback: Incorrecto. $10.1 -->
 
 **Explicacion:** Total = 4 x 6 = $24.1.
 
 ---
-## Pregunta 14 [D5]
+## Question 14 [D5]
 **ID:** `CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY-v14`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando fuerzas leyes newton.
 
@@ -312,21 +333,22 @@ Maria compro 4 cuadernos a $6.1 c/u en Iquique. Cuanto gasto?
 Un estudiante de Liceo Abate Molina en Talca grafica f(x) = 4x + 6. Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 4
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 10
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 4 <!-- feedback: Correcto! 4 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] C) 10 <!-- feedback: Incorrecto. 10 -->
+
+- [ ] D) 3 <!-- feedback: Incorrecto. 3 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 4.
 
 ---
-## Pregunta 15 [D3]
+## Question 15 [D3]
 **ID:** `CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY-v15`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando fuerzas leyes newton.
 
@@ -334,21 +356,22 @@ Un estudiante de Liceo Abate Molina en Talca grafica f(x) = 4x + 6. Cual es la p
 En Concepcion, un estudiante del Liceo Enrique Molina resuelve: 3x + 8 = 23. Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **D)** 12
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 12 <!-- feedback: Incorrecto. 12 -->
 
 **Explicacion:** Se resta 8 de ambos lados. Luego se divide por 3: x = 5.
 
 ---
-## Pregunta 16 [D4]
+## Question 16 [D4]
 **ID:** `CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY-v16`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando fuerzas leyes newton.
 
@@ -356,21 +379,22 @@ En Concepcion, un estudiante del Liceo Enrique Molina resuelve: 3x + 8 = 23. Cua
 Simplifique: (7)(11x + 42)
 
 ### Opciones
-- [x] **A)** 77x + 294
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 77x + 42
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 18x + 294
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 77x - 294
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 77x + 294 <!-- feedback: Correcto! 77x + 294 -->
+
+- [ ] B) 77x + 42 <!-- feedback: Incorrecto. 77x + 42 -->
+
+- [ ] C) 18x + 294 <!-- feedback: Incorrecto. 18x + 294 -->
+
+- [ ] D) 77x - 294 <!-- feedback: Incorrecto. 77x - 294 -->
 
 **Explicacion:** Aplicar distributiva: (7)(11x + 42) = 77x + 294.
 
 ---
-## Pregunta 17 [D3]
+## Question 17 [D3]
 **ID:** `CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY-v17`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando fuerzas leyes newton.
 
@@ -378,21 +402,22 @@ Simplifique: (7)(11x + 42)
 Resuelve: 2(x + 7) = 20
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] C) 9 <!-- feedback: Incorrecto. 9 -->
+
+- [ ] D) 6 <!-- feedback: Incorrecto. 6 -->
 
 **Explicacion:** 2(x+7) = 20 -> x+7 = 10 -> x = 3.
 
 ---
-## Pregunta 18 [D4]
+## Question 18 [D4]
 **ID:** `CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY-v18`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando fuerzas leyes newton.
 
@@ -400,21 +425,22 @@ Resuelve: 2(x + 7) = 20
 Maria compro 6 cuadernos a $1.4 c/u en Valdivia. Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $6.4
-  <!-- feedback: Correcto! -->
-- [ ] **B)** $6.4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $1.4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $7.4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $6.4 <!-- feedback: Correcto! $6.4 -->
+
+- [ ] B) $6.4 <!-- feedback: Incorrecto. $6.4 -->
+
+- [ ] C) $1.4 <!-- feedback: Incorrecto. $1.4 -->
+
+- [ ] D) $7.4 <!-- feedback: Incorrecto. $7.4 -->
 
 **Explicacion:** Total = 6 x 1 = $6.4.
 
 ---
-## Pregunta 19 [D5]
+## Question 19 [D5]
 **ID:** `CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY-v19`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando fuerzas leyes newton.
 
@@ -422,21 +448,22 @@ Maria compro 6 cuadernos a $1.4 c/u en Valdivia. Cuanto gasto?
 Un estudiante de Liceo Luis Alberto Barrera en Punta Arenas grafica f(x) = 4x + 4. Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 4
-  <!-- feedback: Correcto! -->
-- [ ] **B)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 4 <!-- feedback: Correcto! 4 -->
+
+- [ ] B) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [ ] C) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] D) 1 <!-- feedback: Incorrecto. 1 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 4.
 
 ---
-## Pregunta 20 [D3]
+## Question 20 [D3]
 **ID:** `CL-CIE-11-2026-W21-fuerzas-leyes-newton-001-MASTERY-v20`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de CL practicando fuerzas leyes newton.
 
@@ -444,14 +471,13 @@ Un estudiante de Liceo Luis Alberto Barrera en Punta Arenas grafica f(x) = 4x + 
 En Copiapo, un estudiante del Liceo Jose Antonio Carvajal resuelve: 5x + 1 = 26. Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: Correcto! -->
-- [ ] **D)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] B) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 7 <!-- feedback: Incorrecto. 7 -->
 
 **Explicacion:** Se resta 1 de ambos lados. Luego se divide por 5: x = 5.
 

@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W12-repaso-p3-001-MASTERY"
+id: "CO-CIE-6-2026-W12-repaso-p3-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -19,7 +19,11 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso p3, ecosistemas colombianos, paramo, selva amazonica, manglar, costa pacifica, biodiversidad, frailejones, conservacion, deforestacion, servicios ecosistemicos"
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W12 — REPASO P3: Ecosistemas Colombianos
 
@@ -33,13 +37,14 @@ Este bundle de repaso integra los conceptos de ecosistemas colombianos, tipos de
 
 **ID:** `CO-CIE-6-2026-W12-repaso-p3-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Al iniciar el repaso del período, la profesora pregunta la definición básica de ecosistema.
+**Contexto:** Al iniciar el repaso del período, la profesora pregunta la definición básica de ecosistema.
 
 ### Enunciado
 Un ecosistema está formado por:
 
-### Options
+### Opciones
 - [ ] A) Solo los animales que habitan una región <!-- feedback: Incorrecto. Los animales son solo el componente biótico; falta el abiótico y las plantas. -->
 - [ ] B) Únicamente el clima y el suelo de un lugar <!-- feedback: Incorrecto. El clima y el suelo son factores abióticos; faltan los seres vivos. -->
 - [x] C) Los seres vivos (factores bióticos) y el ambiente físico (factores abióticos) que interactúan entre sí <!-- feedback: Correcto. El ecosistema es la unidad funcional donde biótico y abiótico interactúan. -->
@@ -58,13 +63,14 @@ La clave está en la **interacción**: los seres vivos modifican el ambiente fí
 
 **ID:** `CO-CIE-6-2026-W12-repaso-p3-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase de ciencias, los estudiantes repasan los ecosistemas colombianos.
+**Contexto:** En clase de ciencias, los estudiantes repasan los ecosistemas colombianos.
 
 ### Enunciado
 ¿Cuál de los siguientes NO es un ecosistema presente en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Páramo <!-- feedback: Incorrecto. Colombia tiene el 50% de los páramos del mundo. -->
 - [ ] B) Selva tropical húmeda <!-- feedback: Incorrecto. La Amazonía y el Chocó son selvas tropicales colombianas. -->
 - [x] C) Tundra ártica <!-- feedback: Correcto. La tundra ártica es un ecosistema de los polos, no presente en Colombia. -->
@@ -87,13 +93,14 @@ La tundra ártica, con permafrost y vegetación de líquenes y musgos, solo exis
 
 **ID:** `CO-CIE-6-2026-W12-repaso-p3-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un estudiante en Bogotá explica por qué los frailejones son importantes para el páramo.
+**Contexto:** Un estudiante en Bogotá explica por qué los frailejones son importantes para el páramo.
 
 ### Enunciado
 ¿Cuál es la principal función de los frailejones (*Espeletia*) en el ecosistema de páramo?
 
-### Options
+### Opciones
 - [ ] A) Proporcionar madera para la construcción <!-- feedback: Incorrecto. Los frailejones no tienen tronco leñoso aprovechable. -->
 - [ ] B) Servir de alimento exclusivo para el cóndor <!-- feedback: Incorrecto. El cóndor es carroñero, no se alimenta de frailejones. -->
 - [x] C) Capturar la niebla y el agua de lluvia para almacenarla y liberarla gradualmente <!-- feedback: Correcto. Los frailejones actúan como esponjas regulando el agua. -->
@@ -114,13 +121,14 @@ Además, los frailejones son longevos (pueden vivir más de 100 años) y crecen 
 
 **ID:** `CO-CIE-6-2026-W12-repaso-p3-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
-**Context:** En Cali, los estudiantes comparan la selva amazónica con el páramo colombiano.
+**Contexto:** En Cali, los estudiantes comparan la selva amazónica con el páramo colombiano.
 
 ### Enunciado
 ¿Qué diferencia fundamental existe entre la selva amazónica y el páramo colombiano?
 
-### Options
+### Opciones
 - [ ] A) En la selva solo hay animales y en el páramo solo hay plantas <!-- feedback: Incorrecto. Ambos ecosistemas tienen animales y plantas, aunque diferentes especies. -->
 - [ ] B) La selva está en Colombia y el páramo en otro país <!-- feedback: Incorrecto. Ambos ecosistemas existen en Colombia. -->
 - [x] C) La selva tiene clima cálido y húmedo con vegetación alta y densa; el páramo tiene clima frío con vegetación baja adaptada a bajas temperaturas <!-- feedback: Correcto. La temperatura y la altitud determinan la vegetación de cada ecosistema. -->
@@ -146,13 +154,14 @@ Ambos son ecosistemas estratégicos para Colombia y enfrentan amenazas como la d
 
 **ID:** `CO-CIE-6-2026-W12-repaso-p3-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En Tumaco (Pacífico colombiano), estudiantes visitan un manglar durante la clase de ciencias.
+**Contexto:** En Tumaco (Pacífico colombiano), estudiantes visitan un manglar durante la clase de ciencias.
 
 ### Enunciado
 Si un estudiante observa árboles con raíces aéreas (neumatóforos) que salen del agua salobre, peces pequeños entre las raíces y un olor a materia orgánica en descomposición, ¿en qué ecosistema se encuentra?
 
-### Options
+### Opciones
 - [ ] A) Páramo de la Cordillera Central <!-- feedback: Incorrecto. En el páramo no hay agua salobre ni neumatóforos. -->
 - [x] B) Manglar de la costa Pacífica <!-- feedback: Correcto. Las raíces aéreas y el agua salobre son características de los manglares. -->
 - [ ] C) Selva amazónica en Leticia <!-- feedback: Incorrecto. En la Amazonía el agua es dulce y no hay raíces aéreas adaptadas a la salinidad. -->
@@ -173,13 +182,14 @@ Colombia tiene manglares en ambas costas: Pacífica (los más extensos, especial
 
 **ID:** `CO-CIE-6-2026-W12-repaso-p3-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En Villavicencio, estudiantes aplican lo aprendido sobre ecosistemas colombianos.
+**Contexto:** En Villavicencio, estudiantes aplican lo aprendido sobre ecosistemas colombianos.
 
 ### Enunciado
 Un biólogo encuentra un área con las siguientes características: temperatura promedio 26°C, precipitación anual de 8,000 mm, árboles de más de 40 m de altura, y presencia de jaguares y delfines rosados. ¿Qué ecosistema ha descubierto?
 
-### Options
+### Opciones
 - [ ] A) El desierto de La Guajira <!-- feedback: Incorrecto. La Guajira es seca, con menos de 500 mm de lluvia al año. -->
 - [ ] B) El páramo de Sumapaz <!-- feedback: Incorrecto. El páramo tiene temperaturas frías y jaguares no habitan allí. -->
 - [x] C) La selva amazónica colombiana <!-- feedback: Correcto. Las condiciones descritas corresponden a la Amazonía colombiana. -->
@@ -200,13 +210,14 @@ La Amazonía colombiana es parte del bioma amazónico que comparten ocho países
 
 **ID:** `CO-CIE-6-2026-W12-repaso-p3-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Explicación de fenómenos
-**Context:** En un foro escolar en Bucaramanga, los estudiantes analizan una situación ambiental.
+**Contexto:** En un foro escolar en Bucaramanga, los estudiantes analizan una situación ambiental.
 
 ### Enunciado
 Si se talan todos los árboles de una cuenca hidrográfica en la selva andina colombiana, ¿cuál sería la consecuencia más inmediata para las comunidades que viven río abajo?
 
-### Options
+### Opciones
 - [ ] A) Aumentaría la cantidad de peces en el río <!-- feedback: Incorrecto. La tala afecta negativamente a los ecosistemas acuáticos, reduciendo las poblaciones de peces. -->
 - [ ] B) El clima se volvería más frío en toda la región <!-- feedback: Incorrecto. La deforestación tiende a aumentar la temperatura local. -->
 - [x] C) Aumentaría el riesgo de inundaciones y deslizamientos, y disminuiría la calidad y cantidad del agua disponible <!-- feedback: Correcto. Los árboles retienen agua y suelo; sin ellos, el agua corre sin control. -->
@@ -227,13 +238,14 @@ En Colombia, estos eventos son frecuentes en la región Andina durante la tempor
 
 **ID:** `CO-CIE-6-2026-W12-repaso-p3-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En Medellín analizan por qué la costa Pacífica colombiana es tan biodiversa.
+**Contexto:** En Medellín analizan por qué la costa Pacífica colombiana es tan biodiversa.
 
 ### Enunciado
 ¿Cuál es la razón principal por la que el Chocó biogeográfico (costa Pacífica colombiana) tiene una biodiversidad tan alta?
 
-### Options
+### Opciones
 - [ ] A) Porque tiene temperaturas bajo cero que conservan las especies <!-- feedback: Incorrecto. El Chocó es cálido y húmedo. -->
 - [ ] B) Porque está aislado del resto del país por las montañas <!-- feedback: Incorrecto. El aislamiento geográfico contribuye pero no es la razón principal de la alta biodiversidad. -->
 - [x] C) Porque combina altísima pluviosidad, temperatura cálida constante y una compleja geografía que crea múltiples microhábitats <!-- feedback: Correcto. La combinación de factores ambientales crea condiciones ideales para la biodiversidad. -->
@@ -255,13 +267,14 @@ Esta región alberga especies endémicas como la rana venenosa del Pacífico, el
 
 **ID:** `CO-CIE-6-2026-W12-repaso-p3-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En un debate escolar en Pasto, los estudiantes evalúan propuestas de desarrollo para la Amazonía colombiana.
+**Contexto:** En un debate escolar en Pasto, los estudiantes evalúan propuestas de desarrollo para la Amazonía colombiana.
 
 ### Enunciado
 Un alcalde propone talar 500 hectáreas de selva amazónica para cultivar palma de aceite, argumentando que generará empleo y desarrollo económico. ¿Cuál es el mejor argumento científico en CONTRA de esta propuesta?
 
-### Options
+### Opciones
 - [ ] A) La palma de aceite no crece bien en la Amazonía <!-- feedback: Incorrecto. La palma de aceite sí puede crecer en condiciones amazónicas, pero ese no es el argumento principal. -->
 - [ ] B) Los árboles de la selva son muy bonitos y deberían protegerse <!-- feedback: Incorrecto. Es una opinión subjetiva, no un argumento científico sólido. -->
 - [x] C) La deforestación de la Amazonía libera grandes cantidades de CO₂ almacenado, destruye hábitats únicos, elimina servicios ecosistémicos esenciales y los beneficios económicos a largo plazo son menores que los costos ambientales <!-- feedback: Correcto. Es un argumento integral basado en evidencia científica. -->
@@ -284,13 +297,14 @@ El desarrollo sostenible propone alternativas como el aprovechamiento forestal s
 
 **ID:** `CO-CIE-6-2026-W12-repaso-p3-010-v1`
 **Bloom:** Create
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En el Parque Nacional Natural Chingaza, un grupo de estudiantes debe proponer un plan de conservación para el páramo.
+**Contexto:** En el Parque Nacional Natural Chingaza, un grupo de estudiantes debe proponer un plan de conservación para el páramo.
 
 ### Enunciado
 Los estudiantes deben diseñar un plan de conservación para un páramo amenazado por la agricultura y el turismo descontrolado. ¿Qué propuesta integra MEJOR las dimensiones ecológica, social y económica?
 
-### Options
+### Opciones
 - [ ] A) Cerrar completamente el páramo al acceso humano y prohibir toda actividad <!-- feedback: Incorrecto. Ignora las necesidades de las comunidades locales que dependen del páramo. -->
 - [ ] B) Permitir toda la agricultura y el turismo sin restricciones, porque generan empleo <!-- feedback: Incorrecto. Ignora por completo la conservación del ecosistema. -->
 - [x] C) Establecer un sistema de senderos ecológicos con límite de visitantes, capacitar a campesinos como guías turísticos y promotores de conservación, y promover cultivos sostenibles en las zonas de amortiguamiento <!-- feedback: Correcto. Integra conservación, beneficio social y desarrollo económico sostenible. -->

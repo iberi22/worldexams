@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W38-textos-cientificos-001-MASTERY"
+id: "CO-LEC-3-2026-W38-textos-cientificos-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 38
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Textos Científicos Infantiles
 
@@ -25,6 +30,7 @@ Este bundle evalúa la comprensión de textos de divulgación científica para n
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **El Planeta Tierra**
@@ -33,7 +39,7 @@ Este bundle evalúa la comprensión de textos de divulgación científica para n
 ### Enunciado
 Según el texto, ¿cómo se llama la capa de gases que rodea nuestro planeta?
 
-### Options
+### Opciones
 - [ ] A) Oxígeno. <!-- feedback: Incorrecto. El oxígeno es uno de los gases, pero no el nombre de la capa completa. -->
 - [x] B) Atmósfera. <!-- feedback: ¡Correcto! El texto da este nombre técnico para referirse a la capa protectora de la Tierra. -->
 - [ ] C) Capa solar. <!-- feedback: Incorrecto. La capa nos protege del sol, pero no se llama así. -->
@@ -49,6 +55,7 @@ Identificar terminología científica básica permite al estudiante construir un
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Los científicos usan el **microscopio** para ver cosas que son demasiado pequeñas para el ojo humano, como las células de una planta o los diminutos microbios que pueden causar enfermedades".
@@ -56,7 +63,7 @@ Identificar terminología científica básica permite al estudiante construir un
 ### Enunciado
 ¿Cuál es la función del microscopio según la lectura?
 
-### Options
+### Opciones
 - [ ] A) Tomar fotografías de paisajes lejanos. <!-- feedback: Incorrecto. Eso lo hace una cámara o un telescopio. -->
 - [ ] B) Medir la temperatura de las plantas. <!-- feedback: Incorrecto. Eso lo hace un termómetro. -->
 - [x] C) Permitir ver objetos o seres minúsculos que no se ven a simple vista. <!-- feedback: ¡Correcto! El texto explica que sirve para ver lo "demasiado pequeño". -->
@@ -72,6 +79,7 @@ Comprender la función de los instrumentos científicos ayuda a los estudiantes 
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "La materia es todo aquello que tiene masa y ocupa un lugar en el espacio. Se puede encontrar en tres estados principales: **sólido** (como una piedra), **líquido** (como el agua) y **gaseoso** (como el vapor)".
@@ -79,7 +87,7 @@ Comprender la función de los instrumentos científicos ayuda a los estudiantes 
 ### Enunciado
 ¿En qué estado de la materia se encuentra el jugo que tomas al almuerzo?
 
-### Options
+### Opciones
 - [ ] A) Sólido. <!-- feedback: Incorrecto. El sólido tiene forma propia y no se puede beber así. -->
 - [x] B) Líquido. <!-- feedback: ¡Correcto! El jugo fluye y toma la forma del vaso, características del estado líquido mencionadas en el ejemplo del agua. -->
 - [ ] C) Gaseoso. <!-- feedback: Incorrecto. El gas suele ser invisible o como humo, no se bebe. -->
@@ -95,6 +103,7 @@ Clasificar elementos de la vida cotidiana según categorías científicas (estad
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "La Luna no tiene luz propia. Ella brilla porque refleja la luz que recibe del Sol, funcionando como un espejo gigante en el espacio".
@@ -102,7 +111,7 @@ Clasificar elementos de la vida cotidiana según categorías científicas (estad
 ### Enunciado
 Si el Sol desapareciera de repente, ¿qué pasaría con la Luna según la explicación científica del texto?
 
-### Options
+### Opciones
 - [ ] A) La Luna brillaría más fuerte para ayudarnos. <!-- feedback: Incorrecto. La Luna no produce su propia luz. -->
 - [x] B) La Luna dejaría de verse brillante porque ya no tendría luz que reflejar. <!-- feedback: ¡Correcto! El texto establece que su brillo depende totalmente del Sol. -->
 - [ ] C) La Luna se convertiría en un sol pequeño. <!-- feedback: Incorrecto. No tiene las características físicas para ser una estrella. -->
@@ -118,6 +127,7 @@ Predecir consecuencias basadas en una ley o explicación científica (la Luna re
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Los animales de sangre fría, como los lagartos, necesitan ponerse bajo el sol para calentar su cuerpo y tener energía para moverse. Por el contrario, los mamíferos producimos calor interno gracias a los alimentos que comemos".
@@ -125,7 +135,7 @@ Predecir consecuencias basadas en una ley o explicación científica (la Luna re
 ### Enunciado
 ¿Cuál es la diferencia principal entre un perro (mamífero) y una lagartija según el texto?
 
-### Options
+### Opciones
 - [ ] A) Que el perro es más grande que la lagartija. <!-- feedback: Incorrecto. Aunque sea cierto, el texto se enfoca en la forma de obtener calor. -->
 - [ ] B) Que la lagartija come más que el perro. <!-- feedback: Incorrecto. No se menciona la cantidad de comida. -->
 - [x] C) La forma en que obtienen calor: la lagartija lo toma del sol y el perro lo produce internamente. <!-- feedback: ¡Correcto! El texto contrasta la "sangre fría" con la producción de "calor interno". -->
@@ -141,6 +151,7 @@ Analizar contrastes biológicos permite al estudiante identificar variables cien
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Para comprobar una idea, los científicos realizan **experimentos**. Esto consiste en observar qué pasa cuando cambiamos algo bajo control. Si la idea se cumple muchas veces, se puede convertir en una ley científica".
@@ -148,7 +159,7 @@ Analizar contrastes biológicos permite al estudiante identificar variables cien
 ### Enunciado
 ¿Por qué es importante repetir los experimentos muchas veces según el texto?
 
-### Options
+### Opciones
 - [ ] A) Porque a los científicos les gusta jugar mucho tiempo. <!-- feedback: Incorrecto. El experimento es un trabajo serio de investigación. -->
 - [x] B) Para estar seguros de que los resultados siempre son los mismos y así crear leyes confiables. <!-- feedback: ¡Correcto! La repetición asegura que el descubrimiento sea verdad y no una casualidad. -->
 - [ ] C) Para gastar todos los materiales del laboratorio. <!-- feedback: Incorrecto. No es una razón científica válida. -->
@@ -164,6 +175,7 @@ Comprender la base del método científico (experimentación y comprobación) ay
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "El sonido viaja a través del aire por medio de ondas invisibles. Sin embargo, en el espacio exterior, donde no hay aire ni ningún gas (vacío), el sonido no puede viajar. Por eso las explosiones en el espacio son totalmente silenciosas".
@@ -171,7 +183,7 @@ Comprender la base del método científico (experimentación y comprobación) ay
 ### Enunciado
 ¿Qué pasaría si intentas gritarle a un amigo mientras caminan por la superficie de la Luna (que no tiene atmósfera)?
 
-### Options
+### Opciones
 - [ ] A) Te escucharía muy fuerte por el silencio. <!-- feedback: Incorrecto. Sin aire, las ondas sonoras no tienen por dónde moverse. -->
 - [ ] B) El sonido viajaría mucho más rápido. <!-- feedback: Incorrecto. El sonido necesita un medio físico para viajar. -->
 - [x] C) No te escucharía nada, aunque estés muy cerca. <!-- feedback: ¡Correcto! El texto explica que en el vacío (donde no hay aire) el sonido no viaja. -->
@@ -187,6 +199,7 @@ Este ejercicio de análisis requiere aplicar una ley física explicada (necesida
 **Bloom:** Evaluate
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Lees en una revista infantil: "**Se ha descubierto un nuevo animal en la selva del Chocó que tiene alas de mariposa y cuerpo de elefante**". El texto no muestra fotos ni cita el nombre de ningún científico.
@@ -194,7 +207,7 @@ Lees en una revista infantil: "**Se ha descubierto un nuevo animal en la selva d
 ### Enunciado
 ¿Por qué deberías dudar de la veracidad científica de este texto?
 
-### Options
+### Opciones
 - [ ] A) Porque el Chocó es un lugar muy lejano. <!-- feedback: Incorrecto. Se descubren muchas cosas en lugares remotos. -->
 - [x] B) Porque no presenta pruebas (fotos) ni menciona quién hizo el descubrimiento, y además describe un ser físicamente imposible. <!-- feedback: ¡Correcto! La ciencia requiere pruebas, expertos y lógica biológica. -->
 - [ ] C) Porque a los elefantes no les gusta la selva. <!-- feedback: Incorrecto. Muchos elefantes viven en selvas. -->

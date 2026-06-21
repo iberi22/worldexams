@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY"
+id: "CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "repaso-aire-clima"
-semana: "W24"
+week: "W24"
 periodo: 3
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Repaso integral sobre aire y clima: atmósfera, vientos, humed
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Repaso: El Aire y el Clima
 
 Este bundle integra los conocimientos sobre la atmósfera, las propiedades del aire y los factores que determinan el clima en Colombia, como los pisos térmicos.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un mapa de la Tierra, se observa una capa de gases que la envuelve totalmente.
+**Contexto:** En un mapa de la Tierra, se observa una capa de gases que la envuelve totalmente.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ La atmósfera es indispensable. Sin ella no habría aire para respirar, el agua 
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Juan infla un globo y nota que ahora ocupa mucho espacio en su habitación.
+**Contexto:** Juan infla un globo y nota que ahora ocupa mucho espacio en su habitación.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -73,12 +77,12 @@ Aunque no lo veamos, el aire es "algo". Al meterlo en el globo, sus moléculas e
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Para que una fogata arda y dé calor, necesita que el aire esté presente.
+**Contexto:** Para que una fogata arda y dé calor, necesita que el aire esté presente.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -98,12 +102,12 @@ El oxígeno representa solo una quinta parte del aire, pero es la parte más act
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** En las noticias dicen: "Mañana en Bogotá habrá un cielo despejado con 20 grados de temperatura".
+**Contexto:** En las noticias dicen: "Mañana en Bogotá habrá un cielo despejado con 20 grados de temperatura".
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ Es común confundir clima con tiempo. El clima de Bogotá es frío (permanente),
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Mariana viaja de una playa en Cartagena hacia un nevado en la cordillera.
+**Contexto:** Mariana viaja de una playa en Cartagena hacia un nevado en la cordillera.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -148,12 +152,12 @@ Esto se conoce como pisos térmicos. Colombia tiene la ventaja de tener todos lo
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En la costa hace mucho viento de día desde el mar hacia la tierra. De noche, a veces el viento cambia de dirección.
+**Contexto:** En la costa hace mucho viento de día desde el mar hacia la tierra. De noche, a veces el viento cambia de dirección.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -173,12 +177,12 @@ El viento es aire buscando equilibrio. Como el sol calienta más unas zonas que 
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** El ozono es un gas especial que se encuentra en una capa muy alta de la atmósfera.
+**Contexto:** El ozono es un gas especial que se encuentra en una capa muy alta de la atmósfera.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -198,12 +202,12 @@ Sin la capa de ozono, el sol nos quemaría la piel en pocos minutos y las planta
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Mariana nota que después de una gran helada en el páramo, muchas plantas pequeñas mueren, pero los frailejones siguen vivos.
+**Contexto:** Mariana nota que después de una gran helada en el páramo, muchas plantas pequeñas mueren, pero los frailejones siguen vivos.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -223,12 +227,12 @@ El páramo es un reto para la vida. El frailejón es un sobreviviente experto qu
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un anemómetro gira muy rápido durante una tarde de tormenta en los Llanos Orientales.
+**Contexto:** Un anemómetro gira muy rápido durante una tarde de tormenta en los Llanos Orientales.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -248,12 +252,12 @@ Conocer la velocidad del viento es clave para la seguridad. Si el anemómetro ma
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W24-repaso-aire-clima-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un científico afirma: "Cuidar los bosques de las montañas es la mejor forma de asegurar que el aire de las ciudades sea fresco".
+**Contexto:** Un científico afirma: "Cuidar los bosques de las montañas es la mejor forma de asegurar que el aire de las ciudades sea fresco".
 **Expected_Success:** 0.65
 
 ### Enunciado

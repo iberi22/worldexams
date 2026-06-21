@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-8-2026-P1-analisis-critico-INDEX-MASTERY"
+id: "CO-LEC-8-2026-P1-analisis-critico-INDEX-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.20"
   simulated_responses: 100
 rubric_baseline: "análisis crítico, sesgo, credibilidad, fuente, perspectiva, veracidad, argumentación múltiple, evaluación de evidencia"
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G8 — Análisis Crítico
 
@@ -38,12 +45,13 @@ rubric_baseline: "análisis crítico, sesgo, credibilidad, fuente, perspectiva, 
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Cuántas familias campesinas dependen del cultivo de cannabis según la Fuente 3?
 
-### Options
+### Opciones
 - [ ] A) 50.000. <!-- feedback: Incorrecto. -->
 - [x] B) Más de 200.000. <!-- feedback: Correcto. -->
 - [ ] C) 500.000. <!-- feedback: Incorrecto. -->
@@ -55,12 +63,13 @@ Identificación de un dato explícito.
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 Según la Fuente 1, ¿cuánto aumentó el consumo de marihuana en jóvenes de 12 a 17 años?
 
-### Options
+### Opciones
 - [ ] A) 15%. <!-- feedback: Incorrecto. -->
 - [x] B) 35%. <!-- feedback: Correcto. -->
 - [ ] C) 50%. <!-- feedback: Incorrecto. -->
@@ -72,12 +81,13 @@ Identificación de datos estadísticos.
 ## Question 3 [D4 - Análisis de fuente]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Qué tipo de fuente es la Fuente 1?
 
-### Options
+### Opciones
 - [ ] A) Una ONG internacional. <!-- feedback: Incorrecto. -->
 - [x] B) Una entidad gubernamental colombiana (Ministerio de Justicia). <!-- feedback: Correcto. -->
 - [ ] C) Un periódico. <!-- feedback: Incorrecto. -->
@@ -89,12 +99,13 @@ Identificación de la naturaleza institucional de una fuente.
 ## Question 4 [D4 - Análisis de fuente]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Qué tipo de organización es la Fuente 2?
 
-### Options
+### Opciones
 - [ ] A) Gubernamental. <!-- feedback: Incorrecto. -->
 - [x] B) Asociación científica de profesionales de la psiquiatría. <!-- feedback: Correcto. -->
 - [ ] C) Empresa privada. <!-- feedback: Incorrecto. -->
@@ -106,12 +117,13 @@ Identificación de la naturaleza profesional de una fuente.
 ## Question 5 [D5 - Sesgo]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué posible sesgo tiene la Fuente 3?
 
-### Options
+### Opciones
 - [ ] A) Defiende la prohibición. <!-- feedback: Incorrecto. -->
 - [x] B) Representa los intereses económicos y de justicia social del campesinado cultivador. <!-- feedback: Correcto. -->
 - [ ] C) Es neutral. <!-- feedback: Incorrecto. -->
@@ -123,12 +135,13 @@ Identificación del sesgo desde la perspectiva del emisor.
 ## Question 6 [D5 - Sesgo]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué posible sesgo tiene la Fuente 2?
 
-### Options
+### Opciones
 - [ ] A) Está a favor de la legalización sin restricciones. <!-- feedback: Incorrecto. -->
 - [x] B) Su enfoque clínico puede priorizar la prevención de riesgos de salud sobre otros aspectos. <!-- feedback: Correcto. -->
 - [ ] C) Defiende intereses económicos. <!-- feedback: Incorrecto. -->
@@ -140,12 +153,13 @@ Identificación del sesgo desde la perspectiva profesional de la salud.
 ## Question 7 [D5 - Credibilidad]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Cuál fuente tiene mayor credibilidad para datos epidemiológicos sobre consumo juvenil?
 
-### Options
+### Opciones
 - [ ] A) Fuente 3 (campesinos). <!-- feedback: Incorrecto. -->
 - [ ] B) Fuente 2 (psiquiatría). <!-- feedback: Parcialmente correcto, pero la 1 también. -->
 - [x] C) Ambas, Fuente 1 (Ministerio, datos oficiales) y Fuente 2 (psiquiatras, evidencia científica). <!-- feedback: Correcto. -->
@@ -157,12 +171,13 @@ Evaluación de la credibilidad según el tipo de dato y la especialidad de la fu
 ## Question 8 [D5 - Perspectiva]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué perspectiva agrega la Fuente 3 que no está en las otras dos?
 
-### Options
+### Opciones
 - [ ] A) La perspectiva de salud pública. <!-- feedback: Incorrecto. -->
 - [ ] B) La perspectiva económica del Estado. <!-- feedback: Incorrecto. -->
 - [x] C) La perspectiva del campesinado y la justicia social. <!-- feedback: Correcto. -->
@@ -174,12 +189,13 @@ Identificación de la perspectiva única que cada fuente aporta al debate.
 ## Question 9 [D5 - Confiabilidad]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué tipo de evidencia usa la Fuente 2 para respaldar su postura?
 
-### Options
+### Opciones
 - [ ] A) Testimonios personales. <!-- feedback: Incorrecto. -->
 - [x] B) Evidencia científica sobre desarrollo cerebral y porcentaje de dependencia (17%). <!-- feedback: Correcto. -->
 - [ ] C) Opiniones políticas. <!-- feedback: Incorrecto. -->
@@ -191,12 +207,13 @@ Identificación del tipo de evidencia utilizada (científica).
 ## Question 10 [D5 - Confiabilidad]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué tipo de evidencia usa la Fuente 3?
 
-### Options
+### Opciones
 - [ ] A) Datos de laboratorio. <!-- feedback: Incorrecto. -->
 - [x] B) Experiencia vivencial y denuncia de injusticia social. <!-- feedback: Correcto. -->
 - [ ] C) Estudios estadísticos. <!-- feedback: Incorrecto. -->
@@ -208,12 +225,13 @@ Diferenciación entre evidencia científica y testimonial.
 ## Question 11 [D5 - Puntos en común]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿En qué coinciden las tres fuentes?
 
-### Options
+### Opciones
 - [ ] A) En apoyar la prohibición total. <!-- feedback: Incorrecto. -->
 - [ ] B) En apoyar la legalización sin restricciones. <!-- feedback: Incorrecto. -->
 - [x] C) En que el tema es complejo y requiere regulación (cada una desde su perspectiva). <!-- feedback: Correcto. -->
@@ -225,12 +243,13 @@ Identificación de puntos de consenso entre perspectivas diferentes.
 ## Question 12 [D6 - Análisis crítico]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 Para tomar una decisión informada sobre este tema, ¿qué más necesitarías?
 
-### Options
+### Opciones
 - [ ] A) Solo la opinión del Ministerio. <!-- feedback: Incorrecto. -->
 - [ ] B) Solo la opinión de los psiquiatras. <!-- feedback: Incorrecto. -->
 - [x] C) Datos de impuestos estimados, modelos de otros países, estudios de impacto social y opinión de comunidades. <!-- feedback: Correcto. -->
@@ -242,12 +261,13 @@ Reflexión sobre la necesidad de múltiples fuentes y datos para un análisis cr
 ## Question 13 [D6]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Cuál fuente presenta un argumento más equilibrado?
 
-### Options
+### Opciones
 - [ ] A) Fuente 3, porque habla de justicia social. <!-- feedback: Parcial. -->
 - [x] B) Fuente 1, porque reconoce tanto los riesgos como los beneficios potenciales. <!-- feedback: Correcto. -->
 - [ ] C) Fuente 2, porque solo habla de riesgos. <!-- feedback: Incorrecto. -->
@@ -259,12 +279,13 @@ Evaluación del balance en la presentación de argumentos.
 ## Question 14 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué interés particular podría tener la Fuente 1 en presentar la cifra de 2 billones en impuestos?
 
-### Options
+### Opciones
 - [ ] A) No tiene interés. <!-- feedback: Incorrecto. -->
 - [x] B) Mostrar un beneficio económico que justifique la legalización como política fiscal. <!-- feedback: Correcto. -->
 - [ ] C) Asustar a los lectores. <!-- feedback: Incorrecto. -->
@@ -276,12 +297,13 @@ Análisis crítico de los interdetrás de los datos presentados.
 ## Question 15 [D6]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Cuál es la principal debilidad de la Fuente 3 como fuente de información objetiva?
 
-### Options
+### Opciones
 - [ ] A) Que no tiene datos. <!-- feedback: Incorrecto (sí menciona 200.000 familias). -->
 - [x] B) Que es una fuente con un interés directo en el resultado, lo que afecta su objetividad. <!-- feedback: Correcto. -->
 - [ ] C) Que es muy larga. <!-- feedback: Incorrecto. -->

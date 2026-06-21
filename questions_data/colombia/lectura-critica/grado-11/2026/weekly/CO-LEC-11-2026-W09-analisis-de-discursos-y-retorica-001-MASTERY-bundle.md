@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-11-2026-W09-analisis-de-discursos-y-retorica-001-MASTERY"
+id: "CO-LEC-11-2026-W09-analisis-de-discursos-y-retorica-001-MASTERY-bundle"
 country: "colombia"
 grado: 11
 asignatura: "lectura-critica"
 tema: "analisis-de-discursos-y-retorica"
-semana: 9
+week: "W09"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,15 +16,20 @@ rubric_baseline: "discurso, retorica, figuras retoricas, persuasion, ethos patho
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Análisis de Discursos y Retórica — Grado 11
 ## Semana W09
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 
 **ID:** `CO-LEC-11-2026-W09-analisis-de-discursos-y-retorica-001-MASTERY-v1`  
 **Bloom:** Evaluate  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -33,10 +38,10 @@ La minería ilegal genera $15 billones anuales. Muchas familias dependen de ella
 
 ### Opciones
 
-- [x] A) Confunde hecho con deber, ignora costos sociales
-- [ ] B) Es muy corto
-- [ ] C) Cifras no verificables
-- [ ] D) No menciona al gobierno
+- [x] A) Confunde hecho con deber, ignora costos sociales <!-- feedback: Correcto! Confunde hecho con deber, ignora costos sociales -->
+- [ ] B) Es muy corto <!-- feedback: Incorrecto. Es muy corto -->
+- [ ] C) Cifras no verificables <!-- feedback: Incorrecto. Cifras no verificables -->
+- [ ] D) No menciona al gobierno <!-- feedback: Incorrecto. No menciona al gobierno -->
 
 ### Explicación Pedagógica
 
@@ -44,10 +49,11 @@ Falacia naturalista: pasar del 'es' al 'debe ser' sin considerar externalidades.
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 
 **ID:** `CO-LEC-11-2026-W09-analisis-de-discursos-y-retorica-001-MASTERY-v2`  
 **Bloom:** Analyze  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -56,10 +62,10 @@ La JEP ha fracasado porque la derecha la critica por un lado y la izquierda por 
 
 ### Opciones
 
-- [x] A) Falso término medio
-- [ ] B) Ad hominem
-- [ ] C) Petición de principio
-- [ ] D) Post hoc
+- [x] A) Falso término medio <!-- feedback: Correcto! Falso término medio -->
+- [ ] B) Ad hominem <!-- feedback: Incorrecto. Ad hominem -->
+- [ ] C) Petición de principio <!-- feedback: Incorrecto. Petición de principio -->
+- [ ] D) Post hoc <!-- feedback: Incorrecto. Post hoc -->
 
 ### Explicación Pedagógica
 
@@ -67,10 +73,11 @@ Asume que críticas opuestas indican error; lógica del 'término medio falso'.
 
 ---
 
-## Pregunta 3 [D1]
+## Question 3 [D1]
 
 **ID:** `CO-LEC-11-2026-W09-analisis-de-discursos-y-retorica-001-MASTERY-v3`  
 **Bloom:** Remember  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -79,10 +86,10 @@ Según el texto sobre la Amazonía colombiana, ¿qué institución reporta la p�
 
 ### Opciones
 
-- [ ] A) IDEAM
-- [x] B) SINCHI
-- [ ] C) MinAmbiente
-- [ ] D) FAO
+- [ ] A) IDEAM <!-- feedback: Incorrecto. IDEAM -->
+- [x] B) SINCHI <!-- feedback: Correcto! SINCHI -->
+- [ ] C) MinAmbiente <!-- feedback: Incorrecto. MinAmbiente -->
+- [ ] D) FAO <!-- feedback: Incorrecto. FAO -->
 
 ### Explicación Pedagógica
 
@@ -90,10 +97,11 @@ El SINCHI es la institución especializada en la Amazonía colombiana que report
 
 ---
 
-## Pregunta 4 [D2]
+## Question 4 [D2]
 
 **ID:** `CO-LEC-11-2026-W09-analisis-de-discursos-y-retorica-001-MASTERY-v4`  
 **Bloom:** Understand  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -102,10 +110,10 @@ Los páramos proveen el 70 % del agua dulce del país. Sin embargo, la minería 
 
 ### Opciones
 
-- [ ] A) Sumar información
-- [x] B) Introducir una oposición o contraste
-- [ ] C) Indicar consecuencia
-- [ ] D) Ordenar cronológicamente
+- [ ] A) Sumar información <!-- feedback: Incorrecto. Sumar información -->
+- [x] B) Introducir una oposición o contraste <!-- feedback: Correcto! Introducir una oposición o contraste -->
+- [ ] C) Indicar consecuencia <!-- feedback: Incorrecto. Indicar consecuencia -->
+- [ ] D) Ordenar cronológicamente <!-- feedback: Incorrecto. Ordenar cronológicamente -->
 
 ### Explicación Pedagógica
 
@@ -113,10 +121,11 @@ Es un conector adversativo que contrasta la importancia del páramo con la amena
 
 ---
 
-## Pregunta 5 [D2]
+## Question 5 [D2]
 
 **ID:** `CO-LEC-11-2026-W09-analisis-de-discursos-y-retorica-001-MASTERY-v5`  
 **Bloom:** Understand  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -125,10 +134,10 @@ Colombia debe ratificar Escazú porque fortalece participación, protege defenso
 
 ### Opciones
 
-- [ ] A) De autoridad
-- [x] B) Basados en consecuencias positivas
-- [ ] C) Emocionales
-- [ ] D) Por analogía
+- [ ] A) De autoridad <!-- feedback: Incorrecto. De autoridad -->
+- [x] B) Basados en consecuencias positivas <!-- feedback: Correcto! Basados en consecuencias positivas -->
+- [ ] C) Emocionales <!-- feedback: Incorrecto. Emocionales -->
+- [ ] D) Por analogía <!-- feedback: Incorrecto. Por analogía -->
 
 ### Explicación Pedagógica
 
@@ -136,10 +145,11 @@ Presenta consecuencias deseables para justificar la ratificación.
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-LEC-11-2026-W09-analisis-de-discursos-y-retorica-001-MASTERY-v6`  
 **Bloom:** Remember  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -148,10 +158,10 @@ Todo ciudadano tiene derecho a la salud. María es ciudadana. Luego, María tien
 
 ### Opciones
 
-- [ ] A) Inductivo
-- [x] B) Deductivo válido
-- [ ] C) Falaz
-- [ ] D) Abductivo
+- [ ] A) Inductivo <!-- feedback: Incorrecto. Inductivo -->
+- [x] B) Deductivo válido <!-- feedback: Correcto! Deductivo válido -->
+- [ ] C) Falaz <!-- feedback: Incorrecto. Falaz -->
+- [ ] D) Abductivo <!-- feedback: Incorrecto. Abductivo -->
 
 ### Explicación Pedagógica
 
@@ -159,10 +169,11 @@ Silogismo deductivo: premisa universal + particular → conclusión necesaria.
 
 ---
 
-## Pregunta 7 [D3]
+## Question 7 [D3]
 
 **ID:** `CO-LEC-11-2026-W09-analisis-de-discursos-y-retorica-001-MASTERY-v7`  
 **Bloom:** Analyze  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -171,10 +182,10 @@ Silogismo deductivo: premisa universal + particular → conclusión necesaria.
 
 ### Opciones
 
-- [ ] A) Falso dilema
-- [x] B) Pendiente resbaladiza
-- [ ] C) Petición de principio
-- [ ] D) Hombre de paja
+- [ ] A) Falso dilema <!-- feedback: Incorrecto. Falso dilema -->
+- [x] B) Pendiente resbaladiza <!-- feedback: Correcto! Pendiente resbaladiza -->
+- [ ] C) Petición de principio <!-- feedback: Incorrecto. Petición de principio -->
+- [ ] D) Hombre de paja <!-- feedback: Incorrecto. Hombre de paja -->
 
 ### Explicación Pedagógica
 
@@ -182,10 +193,11 @@ Asume una cadena inevitable sin evidencia de que esa progresión ocurrirá.
 
 ---
 
-## Pregunta 8 [D3]
+## Question 8 [D3]
 
 **ID:** `CO-LEC-11-2026-W09-analisis-de-discursos-y-retorica-001-MASTERY-v8`  
 **Bloom:** Analyze  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -194,10 +206,10 @@ La Contraloría: 1 de cada 4 pesos de salud no se ejecutó por falta de capacida
 
 ### Opciones
 
-- [ ] A) EPS tienen demasiados pacientes
-- [x] B) Falta de capacidad impidió ejecutar fondos
-- [ ] C) El gobierno no giró recursos
-- [ ] D) Hospitales bloquearon pagos
+- [ ] A) EPS tienen demasiados pacientes <!-- feedback: Incorrecto. EPS tienen demasiados pacientes -->
+- [x] B) Falta de capacidad impidió ejecutar fondos <!-- feedback: Correcto! Falta de capacidad impidió ejecutar fondos -->
+- [ ] C) El gobierno no giró recursos <!-- feedback: Incorrecto. El gobierno no giró recursos -->
+- [ ] D) Hospitales bloquearon pagos <!-- feedback: Incorrecto. Hospitales bloquearon pagos -->
 
 ### Explicación Pedagógica
 
@@ -205,10 +217,11 @@ Relación causal directa: falta de capacidad administrativa → no ejecución pr
 
 ---
 
-## Pregunta 9 [D3]
+## Question 9 [D3]
 
 **ID:** `CO-LEC-11-2026-W09-analisis-de-discursos-y-retorica-001-MASTERY-v9`  
 **Bloom:** Evaluate  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -217,10 +230,10 @@ Relación causal directa: falta de capacidad administrativa → no ejecución pr
 
 ### Opciones
 
-- [x] A) Débil: ignora diferencias estructurales
-- [ ] B) Sólido: ejemplos internacionales válidos
-- [ ] C) Débil: Islandia no existe
-- [ ] D) Sólido: único indicador relevante
+- [x] A) Débil: ignora diferencias estructurales <!-- feedback: Correcto! Débil: ignora diferencias estructurales -->
+- [ ] B) Sólido: ejemplos internacionales válidos <!-- feedback: Incorrecto. Sólido: ejemplos internacionales válidos -->
+- [ ] C) Débil: Islandia no existe <!-- feedback: Incorrecto. Débil: Islandia no existe -->
+- [ ] D) Sólido: único indicador relevante <!-- feedback: Incorrecto. Sólido: único indicador relevante -->
 
 ### Explicación Pedagógica
 
@@ -228,10 +241,11 @@ Ignora diferencias de informalidad laboral y productividad base colombiana.
 
 ---
 
-## Pregunta 10 [D3]
+## Question 10 [D3]
 
 **ID:** `CO-LEC-11-2026-W09-analisis-de-discursos-y-retorica-001-MASTERY-v10`  
 **Bloom:** Analyze  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -240,10 +254,10 @@ Ignora diferencias de informalidad laboral y productividad base colombiana.
 
 ### Opciones
 
-- [ ] A) Ad hominem
-- [x] B) Apelación a la autoridad
-- [ ] C) Falso dilema
-- [ ] D) Generalización apresurada
+- [ ] A) Ad hominem <!-- feedback: Incorrecto. Ad hominem -->
+- [x] B) Apelación a la autoridad <!-- feedback: Correcto! Apelación a la autoridad -->
+- [ ] C) Falso dilema <!-- feedback: Incorrecto. Falso dilema -->
+- [ ] D) Generalización apresurada <!-- feedback: Incorrecto. Generalización apresurada -->
 
 ### Explicación Pedagógica
 

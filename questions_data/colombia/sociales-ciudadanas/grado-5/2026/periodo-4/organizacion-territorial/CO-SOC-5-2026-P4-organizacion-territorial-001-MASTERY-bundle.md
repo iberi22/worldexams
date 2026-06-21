@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-5-2026-P4-organizacion-territorial-001-MASTERY"
+id: "CO-SOC-5-2026-P4-organizacion-territorial-001-MASTERY-bundle"
 country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
@@ -8,131 +8,148 @@ periodo: 4
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos"
+alignment: "DBA MEN + Estï¿½ndares Bï¿½sicos"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.65
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
-rubric_baseline: "Organización territorial de Colombia, departamentos, municipios, gobierno nacional, regional y local"
+rubric_baseline: "Organizaciï¿½n territorial de Colombia, departamentos, municipios, gobierno nacional, regional y local"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
 
-# Bundle Mastery: Organización Territorial de Colombia
 
-Este bundle cubre la forma como está organizado el territorio colombiano: niveles de gobierno (nacional, departamental, municipal), las ramas del poder público, la división en departamentos y municipios, y las entidades territoriales indígenas. Contenido del cuarto periodo para grado 5.
+# Bundle Mastery: Organizaciï¿½n Territorial de Colombia
+
+Este bundle cubre la forma como estï¿½ organizado el territorio colombiano: niveles de gobierno (nacional, departamental, municipal), las ramas del poder pï¿½blico, la divisiï¿½n en departamentos y municipios, y las entidades territoriales indï¿½genas. Contenido del cuarto periodo para grado 5.
 
 ---
 
 ## Question 1 [D3]
 **ID:** `CO-SOC-5-2026-P4-organizacion-territorial-001-MASTERY-v1`
-**Bloom:** [Remember] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en un colegio de Tunja, la profesora explica cómo está organizado el territorio colombiano.
-**Enunciado:** Colombia está organizada territorialmente en:
+**Bloom:** Remember | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En clase de sociales en un colegio de Tunja, la profesora explica cï¿½mo estï¿½ organizado el territorio colombiano.
+**Enunciado:** Colombia estï¿½ organizada territorialmente en:
 **Options:**
-- [ ] A) Provincias y cantones. <!-- feedback: Incorrecto. Esa es la organización de países como Argentina o Suiza. -->
-- [ ] B) Estados y condados. <!-- feedback: Incorrecto. Esa es la organización de Estados Unidos. -->
-- [x] C) 32 departamentos y un Distrito Capital (Bogotá). <!-- feedback: Correcto. Colombia tiene 32 departamentos y Bogotá como Distrito Capital. -->
-- [ ] D) Reinos y ducados. <!-- feedback: Incorrecto. Esa es una organización medieval europea. -->
+- [ ] A) Provincias y cantones. <!-- feedback: Incorrecto. Esa es la organizaciï¿½n de paï¿½ses como Argentina o Suiza. -->
+- [ ] B) Estados y condados. <!-- feedback: Incorrecto. Esa es la organizaciï¿½n de Estados Unidos. -->
+- [x] C) 32 departamentos y un Distrito Capital (Bogotï¿½). <!-- feedback: Correcto. Colombia tiene 32 departamentos y Bogotï¿½ como Distrito Capital. -->
+- [ ] D) Reinos y ducados. <!-- feedback: Incorrecto. Esa es una organizaciï¿½n medieval europea. -->
 
 ## Question 2 [D3]
 **ID:** `CO-SOC-5-2026-P4-organizacion-territorial-001-MASTERY-v2`
-**Bloom:** [Remember] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en Sincelejo, el profesor habla sobre el gobierno de los departamentos.
-**Enunciado:** La máxima autoridad de un departamento en Colombia es:
+**Bloom:** Remember | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En clase de sociales en Sincelejo, el profesor habla sobre el gobierno de los departamentos.
+**Enunciado:** La mï¿½xima autoridad de un departamento en Colombia es:
 **Options:**
 - [ ] A) El alcalde. <!-- feedback: Incorrecto. El alcalde es la autoridad del municipio, no del departamento. -->
-- [x] B) El gobernador. <!-- feedback: Correcto. El gobernador es la máxima autoridad administrativa del departamento, elegido por voto popular por cuatro años. -->
-- [ ] C) El presidente. <!-- feedback: Incorrecto. El presidente es la autoridad nacional de todo el país. -->
+- [x] B) El gobernador. <!-- feedback: Correcto. El gobernador es la mï¿½xima autoridad administrativa del departamento, elegido por voto popular por cuatro aï¿½os. -->
+- [ ] C) El presidente. <!-- feedback: Incorrecto. El presidente es la autoridad nacional de todo el paï¿½s. -->
 - [ ] D) El senador. <!-- feedback: Incorrecto. Los senadores son legisladores nacionales, no autoridades departamentales. -->
 
 ## Question 3 [D4]
 **ID:** `CO-SOC-5-2026-P4-organizacion-territorial-001-MASTERY-v3`
-**Bloom:** [Understand] | **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En clase de sociales en la I.E. San José de Cúcuta, la profesora dibuja las ramas del poder público.
-**Enunciado:** El poder público en Colombia está dividido en tres ramas. ¿Cuáles son?
+**Bloom:** Understand | **ICFES:** [Pensamiento reflexivo y sistï¿½mico]
+**Expected_Success:** 0.75
+**Contexto:** En clase de sociales en la I.E. San Josï¿½ de Cï¿½cuta, la profesora dibuja las ramas del poder pï¿½blico.
+**Enunciado:** El poder pï¿½blico en Colombia estï¿½ dividido en tres ramas. ï¿½Cuï¿½les son?
 **Options:**
-- [ ] A) Rama civil, militar y eclesiástica. <!-- feedback: Incorrecto. No es la división constitucional. -->
-- [ ] B) Rama presidencial, vicepresidencial y ministerial. <!-- feedback: Incorrecto. No existe esa clasificación. -->
-- [x] C) Rama ejecutiva, legislativa y judicial. <!-- feedback: Correcto. La Rama Ejecutiva (gobierno), la Rama Legislativa (Congreso) y la Rama Judicial (jueces y tribunales) son las tres ramas del poder público según la Constitución de 1991. -->
-- [ ] D) Rama nacional, departamental y municipal. <!-- feedback: Incorrecto. Esa es la división territorial, no las ramas del poder. -->
+- [ ] A) Rama civil, militar y eclesiï¿½stica. <!-- feedback: Incorrecto. No es la divisiï¿½n constitucional. -->
+- [ ] B) Rama presidencial, vicepresidencial y ministerial. <!-- feedback: Incorrecto. No existe esa clasificaciï¿½n. -->
+- [x] C) Rama ejecutiva, legislativa y judicial. <!-- feedback: Correcto. La Rama Ejecutiva (gobierno), la Rama Legislativa (Congreso) y la Rama Judicial (jueces y tribunales) son las tres ramas del poder pï¿½blico segï¿½n la Constituciï¿½n de 1991. -->
+- [ ] D) Rama nacional, departamental y municipal. <!-- feedback: Incorrecto. Esa es la divisiï¿½n territorial, no las ramas del poder. -->
 
 ## Question 4 [D4]
 **ID:** `CO-SOC-5-2026-P4-organizacion-territorial-001-MASTERY-v4`
-**Bloom:** [Understand] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Técnica de Duitama, el profesor explica la Rama Legislativa.
+**Bloom:** Understand | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En la clase de sociales de la I.E. Tï¿½cnica de Duitama, el profesor explica la Rama Legislativa.
 **Enunciado:** La Rama Legislativa (Congreso) se encarga de:
 **Options:**
-- [ ] A) Administrar los municipios. <!-- feedback: Incorrecto. Administrar municipios es función de la Rama Ejecutiva local. -->
-- [ ] B) Juzgar a los delincuentes. <!-- feedback: Incorrecto. Juzgar es función de la Rama Judicial. -->
-- [x] C) Hacer las leyes que rigen el país. <!-- feedback: Correcto. El Congreso de la República, compuesto por Senado y Cámara de Representantes, es el encargado de aprobar las leyes. -->
-- [ ] D) Declarar la guerra. <!-- feedback: Incorrecto. Aunque el Congreso puede autorizar la guerra, esa no es su función principal cotidiana. -->
+- [ ] A) Administrar los municipios. <!-- feedback: Incorrecto. Administrar municipios es funciï¿½n de la Rama Ejecutiva local. -->
+- [ ] B) Juzgar a los delincuentes. <!-- feedback: Incorrecto. Juzgar es funciï¿½n de la Rama Judicial. -->
+- [x] C) Hacer las leyes que rigen el paï¿½s. <!-- feedback: Correcto. El Congreso de la Repï¿½blica, compuesto por Senado y Cï¿½mara de Representantes, es el encargado de aprobar las leyes. -->
+- [ ] D) Declarar la guerra. <!-- feedback: Incorrecto. Aunque el Congreso puede autorizar la guerra, esa no es su funciï¿½n principal cotidiana. -->
 
 ## Question 5 [D4]
 **ID:** `CO-SOC-5-2026-P4-organizacion-territorial-001-MASTERY-v5`
-**Bloom:** [Apply] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Los estudiantes de la I.E. La Presentación de Bucaramanga visitan la Gobernación del departamento.
-**Enunciado:** La Asamblea Departamental es la corporación que expide normas para el departamento. Está conformada por:
+**Bloom:** Apply | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** Los estudiantes de la I.E. La Presentaciï¿½n de Bucaramanga visitan la Gobernaciï¿½n del departamento.
+**Enunciado:** La Asamblea Departamental es la corporaciï¿½n que expide normas para el departamento. Estï¿½ conformada por:
 **Options:**
 - [ ] A) Senadores elegidos nacionalmente. <!-- feedback: Incorrecto. Los senadores son elegidos a nivel nacional, no departamental. -->
-- [x] B) Diputados elegidos por voto popular en cada departamento. <!-- feedback: Correcto. La Asamblea Departamental está compuesta por diputados elegidos popularmente en cada departamento, que expiden ordenanzas (normas departamentales). -->
+- [x] B) Diputados elegidos por voto popular en cada departamento. <!-- feedback: Correcto. La Asamblea Departamental estï¿½ compuesta por diputados elegidos popularmente en cada departamento, que expiden ordenanzas (normas departamentales). -->
 - [ ] C) Concejales elegidos en cada municipio. <!-- feedback: Incorrecto. Los concejales son del nivel municipal, no departamental. -->
 - [ ] D) El gobernador y su gabinete. <!-- feedback: Incorrecto. El gobernador hace parte de la Rama Ejecutiva departamental, no de la Asamblea (legislativa). -->
 
 ## Question 6 [D4]
 **ID:** `CO-SOC-5-2026-P4-organizacion-territorial-001-MASTERY-v6`
-**Bloom:** [Understand] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en Bogotá, la profesora explica qué hace el presidente de la república.
-**Enunciado:** El presidente de la república es el jefe de la Rama Ejecutiva a nivel nacional. ¿Cuánto dura su mandato?
+**Bloom:** Understand | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En clase de sociales en Bogotï¿½, la profesora explica quï¿½ hace el presidente de la repï¿½blica.
+**Enunciado:** El presidente de la repï¿½blica es el jefe de la Rama Ejecutiva a nivel nacional. ï¿½Cuï¿½nto dura su mandato?
 **Options:**
-- [ ] A) 2 años. <!-- feedback: Incorrecto. El mandato presidencial no es de 2 años. -->
-- [ ] B) 6 años. <!-- feedback: Incorrecto. Antes eran 4 años, ahora son 4 años. -->
-- [x] C) 4 años, con posibilidad de reelección (no inmediata). <!-- feedback: Correcto. El presidente de Colombia es elegido por voto popular para un período de 4 años y puede ser reelegido, pero no de forma inmediata (debe esperar un período). -->
-- [ ] D) 8 años seguidos. <!-- feedback: Incorrecto. Actualmente no hay reelección inmediata. -->
+- [ ] A) 2 aï¿½os. <!-- feedback: Incorrecto. El mandato presidencial no es de 2 aï¿½os. -->
+- [ ] B) 6 aï¿½os. <!-- feedback: Incorrecto. Antes eran 4 aï¿½os, ahora son 4 aï¿½os. -->
+- [x] C) 4 aï¿½os, con posibilidad de reelecciï¿½n (no inmediata). <!-- feedback: Correcto. El presidente de Colombia es elegido por voto popular para un perï¿½odo de 4 aï¿½os y puede ser reelegido, pero no de forma inmediata (debe esperar un perï¿½odo). -->
+- [ ] D) 8 aï¿½os seguidos. <!-- feedback: Incorrecto. Actualmente no hay reelecciï¿½n inmediata. -->
 
 ## Question 7 [D4]
 **ID:** `CO-SOC-5-2026-P4-organizacion-territorial-001-MASTERY-v7`
-**Bloom:** [Apply] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en la I.E. Agustín Codazzi de La Guajira, los estudiantes estudian las entidades territoriales indígenas.
-**Enunciado:** Además de departamentos y municipios, la Constitución reconoce como entidades territoriales a:
+**Bloom:** Apply | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En clase de sociales en la I.E. Agustï¿½n Codazzi de La Guajira, los estudiantes estudian las entidades territoriales indï¿½genas.
+**Enunciado:** Ademï¿½s de departamentos y municipios, la Constituciï¿½n reconoce como entidades territoriales a:
 **Options:**
 - [ ] A) Las empresas privadas. <!-- feedback: Incorrecto. Las empresas no son entidades territoriales. -->
-- [x] B) Los territorios indígenas (resguardos) y los distritos especiales. <!-- feedback: Correcto. La Constitución de 1991 reconoció a los territorios indígenas (organizados en resguardos) y a los distritos (Bogotá, Cartagena, Santa Marta, Barranquilla) como entidades territoriales con autonomía. -->
+- [x] B) Los territorios indï¿½genas (resguardos) y los distritos especiales. <!-- feedback: Correcto. La Constituciï¿½n de 1991 reconociï¿½ a los territorios indï¿½genas (organizados en resguardos) y a los distritos (Bogotï¿½, Cartagena, Santa Marta, Barranquilla) como entidades territoriales con autonomï¿½a. -->
 - [ ] C) Los clubes deportivos. <!-- feedback: Incorrecto. Los clubes no son entidades territoriales. -->
-- [ ] D) Las embajadas colombianas en el exterior. <!-- feedback: Incorrecto. Las embajadas son representaciones diplomáticas, no entidades territoriales. -->
+- [ ] D) Las embajadas colombianas en el exterior. <!-- feedback: Incorrecto. Las embajadas son representaciones diplomï¿½ticas, no entidades territoriales. -->
 
 ## Question 8 [D5]
 **ID:** `CO-SOC-5-2026-P4-organizacion-territorial-001-MASTERY-v8`
-**Bloom:** [Analyze] | **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En un debate escolar en Bogotá, los estudiantes discuten por qué es importante la separación de poderes.
-**Enunciado:** ¿Por qué es importante que el poder público esté dividido en tres ramas (ejecutiva, legislativa, judicial)?
+**Bloom:** Analyze | **ICFES:** [Interpretaciï¿½n y anï¿½lisis de perspectivas]
+**Expected_Success:** 0.75
+**Contexto:** En un debate escolar en Bogotï¿½, los estudiantes discuten por quï¿½ es importante la separaciï¿½n de poderes.
+**Enunciado:** ï¿½Por quï¿½ es importante que el poder pï¿½blico estï¿½ dividido en tres ramas (ejecutiva, legislativa, judicial)?
 **Options:**
-- [ ] A) Para que haya más personas trabajando en el gobierno. <!-- feedback: Incorrecto. No es una cuestión de cantidad de empleados. -->
+- [ ] A) Para que haya mï¿½s personas trabajando en el gobierno. <!-- feedback: Incorrecto. No es una cuestiï¿½n de cantidad de empleados. -->
 - [ ] B) Para que el presidente tenga todo el poder y nadie lo controle. <!-- feedback: Incorrecto. Es exactamente lo contrario. -->
-- [x] C) Para evitar que una sola persona o institución concentre todo el poder y pueda abusar de él. <!-- feedback: Correcto. La separación de poderes es un principio democrático para que las ramas se controlen mutuamente (pesos y contrapesos) y evitar la tiranía. -->
-- [ ] D) Para que cada rama pueda hacer lo que quiera sin importar las otras. <!-- feedback: Incorrecto. Las ramas se controlan entre sí. -->
+- [x] C) Para evitar que una sola persona o instituciï¿½n concentre todo el poder y pueda abusar de ï¿½l. <!-- feedback: Correcto. La separaciï¿½n de poderes es un principio democrï¿½tico para que las ramas se controlen mutuamente (pesos y contrapesos) y evitar la tiranï¿½a. -->
+- [ ] D) Para que cada rama pueda hacer lo que quiera sin importar las otras. <!-- feedback: Incorrecto. Las ramas se controlan entre sï¿½. -->
 
 ## Question 9 [D5]
 **ID:** `CO-SOC-5-2026-P4-organizacion-territorial-001-MASTERY-v9`
-**Bloom:** [Analyze] | **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En clase de sociales en la I.E. José María Córdoba de Medellín, preguntan por los mecanismos de participación ciudadana.
-**Enunciado:** La Constitución de 1991 creó mecanismos para que los ciudadanos participen en las decisiones del gobierno. Uno de ellos es:
+**Bloom:** Analyze | **ICFES:** [Uso comprensivo del conocimiento social]
+**Expected_Success:** 0.75
+**Contexto:** En clase de sociales en la I.E. Josï¿½ Marï¿½a Cï¿½rdoba de Medellï¿½n, preguntan por los mecanismos de participaciï¿½n ciudadana.
+**Enunciado:** La Constituciï¿½n de 1991 creï¿½ mecanismos para que los ciudadanos participen en las decisiones del gobierno. Uno de ellos es:
 **Options:**
-- [ ] A) El pico y placa. <!-- feedback: Incorrecto. El pico y placa es una medida de tránsito, no de participación. -->
-- [ ] B) El carnet de identidad. <!-- feedback: Incorrecto. El carnet es un documento de identificación. -->
-- [x] C) El voto popular, el plebiscito, el referendo y la consulta popular. <!-- feedback: Correcto. La Constitución de 1991 estableció el voto, el plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa legislativa y la revocatoria del mandato como mecanismos de participación ciudadana. -->
-- [ ] D) La factura de servicios públicos. <!-- feedback: Incorrecto. No es un mecanismo de participación. -->
+- [ ] A) El pico y placa. <!-- feedback: Incorrecto. El pico y placa es una medida de trï¿½nsito, no de participaciï¿½n. -->
+- [ ] B) El carnet de identidad. <!-- feedback: Incorrecto. El carnet es un documento de identificaciï¿½n. -->
+- [x] C) El voto popular, el plebiscito, el referendo y la consulta popular. <!-- feedback: Correcto. La Constituciï¿½n de 1991 estableciï¿½ el voto, el plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa legislativa y la revocatoria del mandato como mecanismos de participaciï¿½n ciudadana. -->
+- [ ] D) La factura de servicios pï¿½blicos. <!-- feedback: Incorrecto. No es un mecanismo de participaciï¿½n. -->
 
 ## Question 10 [D5]
 **ID:** `CO-SOC-5-2026-P4-organizacion-territorial-001-MASTERY-v10`
-**Bloom:** [Analyze] | **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En clase de sociales en la I.E. Técnica de Fusagasugá, la profesora pregunta cómo participan los ciudadanos en el gobierno.
-**Enunciado:** ¿Cuál es la diferencia entre las elecciones departamentales y las nacionales?
+**Bloom:** Analyze | **ICFES:** [Pensamiento reflexivo y sistï¿½mico]
+**Expected_Success:** 0.75
+**Contexto:** En clase de sociales en la I.E. Tï¿½cnica de Fusagasugï¿½, la profesora pregunta cï¿½mo participan los ciudadanos en el gobierno.
+**Enunciado:** ï¿½Cuï¿½l es la diferencia entre las elecciones departamentales y las nacionales?
 **Options:**
-- [ ] A) En las departamentales votan solo los adultos mayores. <!-- feedback: Incorrecto. Todos los mayores de 18 años pueden votar en cualquier elección. -->
-- [ ] B) En las departamentales se elige al presidente de la república. <!-- feedback: Incorrecto. El presidente se elige en elecciones nacionales, no departamentales. -->
-- [x] C) En las departamentales se elige gobernador, diputados y alcaldes; en las nacionales se elige presidente, senadores y representantes a la Cámara. <!-- feedback: Correcto. Las elecciones territoriales (departamentales y municipales) eligen autoridades locales, mientras que las nacionales eligen autoridades para todo el país. -->
-- [ ] D) No hay diferencia, son exactamente iguales. <!-- feedback: Incorrecto. Sí hay diferencias en los cargos a elegir. -->
+- [ ] A) En las departamentales votan solo los adultos mayores. <!-- feedback: Incorrecto. Todos los mayores de 18 aï¿½os pueden votar en cualquier elecciï¿½n. -->
+- [ ] B) En las departamentales se elige al presidente de la repï¿½blica. <!-- feedback: Incorrecto. El presidente se elige en elecciones nacionales, no departamentales. -->
+- [x] C) En las departamentales se elige gobernador, diputados y alcaldes; en las nacionales se elige presidente, senadores y representantes a la Cï¿½mara. <!-- feedback: Correcto. Las elecciones territoriales (departamentales y municipales) eligen autoridades locales, mientras que las nacionales eligen autoridades para todo el paï¿½s. -->
+- [ ] D) No hay diferencia, son exactamente iguales. <!-- feedback: Incorrecto. Sï¿½ hay diferencias en los cargos a elegir. -->
 
-### Explicación Pedagógica Final
-Este bundle de Ciencias Sociales para grado quinto cubre la Organización Territorial de Colombia. Evalúa el conocimiento de los 32 departamentos y el Distrito Capital, las autoridades (gobernador, alcalde, presidente), las ramas del poder público (ejecutiva, legislativa, judicial), la Asamblea Departamental, las entidades territoriales indígenas, la separación de poderes y los mecanismos de participación ciudadana. El objetivo es que los estudiantes comprendan cómo se organiza el Estado colombiano.
+### Explicaciï¿½n Pedagï¿½gica Final
+Este bundle de Ciencias Sociales para grado quinto cubre la Organizaciï¿½n Territorial de Colombia. Evalï¿½a el conocimiento de los 32 departamentos y el Distrito Capital, las autoridades (gobernador, alcalde, presidente), las ramas del poder pï¿½blico (ejecutiva, legislativa, judicial), la Asamblea Departamental, las entidades territoriales indï¿½genas, la separaciï¿½n de poderes y los mecanismos de participaciï¿½n ciudadana. El objetivo es que los estudiantes comprendan cï¿½mo se organiza el Estado colombiano.

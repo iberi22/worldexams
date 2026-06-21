@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-W35-repaso-p7-001-MASTERY"
+id: "CO-LEC-6-2026-W35-repaso-p7-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -15,7 +15,9 @@ alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W35 — REPASO Periodo 7
 
@@ -29,14 +31,15 @@ tier: "legacy"
 
 **ID:** `CO-LEC-6-2026-W35-repaso-p7-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de género dramático
-**Context:** Repaso: características del teatro
+**Contexto:** Repaso: características del teatro
 
 ### Enunciado
 
 ¿Cuál de las siguientes afirmaciones sobre el texto teatral es VERDADERA?
 
-### Options
+### Opciones
 - [ ] A) El texto teatral siempre tiene un narrador que cuenta la historia <!-- feedback: Incorrecto. El teatro no tiene narrador. La historia se presenta a través de personajes que actúan y dialogan. -->
 - [x] B) El texto teatral está escrito para ser representado por actores, e incluye diálogos y acotaciones <!-- feedback: ¡Correcto! El teatro se compone de dos tipos de texto: los diálogos (lo que dicen los personajes) y las acotaciones (instrucciones para la puesta en escena). -->
 - [ ] C) El texto teatral es un tipo de poema narrativo <!-- feedback: Incorrecto. El teatro es un género diferente de la poesía y la narrativa, aunque puede compartir elementos. -->
@@ -52,8 +55,9 @@ El teatro es un género literario único porque tiene una "doble vida": existe c
 
 **ID:** `CO-LEC-6-2026-W35-repaso-p7-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de acotaciones
-**Context:** Repaso: reconocer acotaciones
+**Contexto:** Repaso: reconocer acotaciones
 
 ### Enunciado
 
@@ -63,7 +67,7 @@ El teatro es un género literario único porque tiene una "doble vida": existe c
 
 ¿Cuáles son las acotaciones en este fragmento?
 
-### Options
+### Opciones
 - [ ] A) "No sé si decirle la verdad" y "Sea lo que sea, estaré aquí contigo" <!-- feedback: Incorrecto. Esos son los diálogos, lo que los personajes DICEN. -->
 - [x] B) "(Caminando de un lado a otro, nervioso)" y "(Tomándolo del brazo, con voz calmada)" <!-- feedback: ¡Correcto! Las acotaciones —entre paréntesis— describen acciones y emociones que los actores deben representar. Indican CÓMO se dicen las líneas. -->
 - [ ] C) "MIGUEL:" y "ELENA:" <!-- feedback: Incorrecto. Los nombres en mayúscula indican quién habla, pero no son acotaciones. Son los encabezados del diálogo. -->
@@ -79,8 +83,9 @@ Recuerda: las acotaciones (o didascalias) son las instrucciones del dramaturgo. 
 
 **ID:** `CO-LEC-6-2026-W35-repaso-p7-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Estructura de la obra teatral
-**Context:** Repaso: partes de la obra
+**Contexto:** Repaso: partes de la obra
 
 ### Enunciado
 
@@ -88,7 +93,7 @@ En la obra "El secreto del abuelo", el Acto I presenta a la familia y la noticia
 
 ¿Qué estructura sigue esta obra?
 
-### Options
+### Opciones
 - [ ] A) Estructura circular: termina donde empezó <!-- feedback: Incorrecto. No vuelve al inicio. La obra progresa desde la noticia hasta la revelación. -->
 - [ ] B) Estructura de dos actos <!-- feedback: Incorrecto. La obra tiene tres actos claramente diferenciados. -->
 - [x] C) Estructura tripartita clásica: planteamiento (Acto I: presentación del misterio), nudo (Acto II: búsqueda y conflicto entre hermanos), desenlace (Acto III: revelación y resolución) <!-- feedback: ¡Correcto! Cada acto cumple una función narrativa específica: presentar, desarrollar y resolver. Esta estructura ha sido la base del teatro occidental desde la Antigua Grecia. -->
@@ -104,8 +109,9 @@ La estructura tripartita (tres actos) organiza la historia en una progresión l�
 
 **ID:** `CO-LEC-6-2026-W35-repaso-p7-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Función de los diálogos teatrales
-**Context:** Repaso: propósito del diálogo
+**Contexto:** Repaso: propósito del diálogo
 
 ### Enunciado
 
@@ -115,7 +121,7 @@ La estructura tripartita (tres actos) organiza la historia en una progresión l�
 
 ¿Qué información revela este diálogo sobre la historia?
 
-### Options
+### Opciones
 - [ ] A) Que Ana María está feliz porque Pablo se va <!-- feedback: Incorrecto. "Ojos llenos de lágrimas" indica tristeza, no felicidad. -->
 - [ ] B) Que Pablo no quiere irse y está siendo obligado <!-- feedback: Incorrecto. El diálogo sugiere que Pablo ha tomado la decisión de irse, aunque le cueste. -->
 - [x] C) Que Pablo se va a algún lugar, que Ana María se entera en ese momento, y que a Pablo le duele irse tanto que evitó decírselo por miedo a flaquear <!-- feedback: ¡Correcto! El diálogo revela múltiples capas: una partida, una despedida repentina, el dolor de ambos personajes, y la lucha interna de Pablo (tuvo que evitar decírselo para tener valor). -->
@@ -131,14 +137,15 @@ En el teatro, los diálogos son la principal fuente de información sobre la his
 
 **ID:** `CO-LEC-6-2026-W35-repaso-p7-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de elementos de historieta
-**Context:** Repaso: componentes de la historieta
+**Contexto:** Repaso: componentes de la historieta
 
 ### Enunciado
 
 ¿Cuáles son los elementos básicos indispensables en una historieta?
 
-### Options
+### Opciones
 - [ ] A) Personajes reales y fotografías <!-- feedback: Incorrecto. Las historietas suelen usar dibujos, no fotografías, y los personajes pueden ser animales u objetos personificados. -->
 - [ ] B) Solamente ilustraciones sin texto <!-- feedback: Incorrecto. Aunque existen historietas mudas, la mayoría combina imágenes y texto de diversas formas. -->
 - [x] C) Viñetas (recuadros que organizan la secuencia), globos de diálogo o pensamiento, y dibujos que representan la acción <!-- feedback: ¡Correcto! La viñeta organiza el espacio y el tiempo, los globos contienen lo que los personajes dicen o piensan, y los dibujos muestran la acción visualmente. Las onomatopeyas y cartelas son complementos frecuentes pero no siempre indispensables. -->
@@ -154,8 +161,9 @@ La historieta tiene un "vocabulario visual" propio: viñetas (encierran la acci�
 
 **ID:** `CO-LEC-6-2026-W35-repaso-p7-006-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Interpretación de caricatura
-**Context:** Repaso: caricatura y crítica social
+**Contexto:** Repaso: caricatura y crítica social
 
 ### Enunciado
 
@@ -163,7 +171,7 @@ La historieta tiene un "vocabulario visual" propio: viñetas (encierran la acci�
 
 ¿Qué mensaje transmite esta caricatura?
 
-### Options
+### Opciones
 - [ ] A) Que los árboles pueden sobrevivir en el desierto <!-- feedback: Incorrecto. La caricatura no trata sobre la resistencia de los árboles. El desierto es simbólico. -->
 - [ ] B) Que las reservas naturales son bonitas <!-- feedback: Incorrecto. La imagen muestra una reserva triste: un solo árbol en medio del desierto, con industria al fondo. La crítica es evidente. -->
 - [x] C) Que la deforestación y la industrialización han destruido la naturaleza hasta el punto de que lo que se llama "reserva natural" es solo un árbol solitario — una crítica a la destrucción ambiental <!-- feedback: ¡Correcto! La caricatura usa ironía: llamar "Reserva Natural" a un árbol solitario en un desierto. La cercanía de fábricas humeantes sugiere que la industria es responsable. La crítica es a la falsa conciencia ambiental. -->
@@ -179,8 +187,9 @@ La caricatura editorial es un género de opinión: el caricaturista expresa su p
 
 **ID:** `CO-LEC-6-2026-W35-repaso-p7-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Aplicación de acotaciones
-**Context:** Repaso: añadir acotaciones
+**Contexto:** Repaso: añadir acotaciones
 
 ### Enunciado
 
@@ -194,7 +203,7 @@ Un estudiante escribió este diálogo teatral:
 
 ¿Qué acotación podría añadirse para hacer más expresiva la última línea de Sarita?
 
-### Options
+### Opciones
 - [ ] A) (Dijo) <!-- feedback: Incorrecto. "Dijo" es un verbo de habla narrativo, no una acotación teatral. En teatro no se usa "dijo". -->
 - [ ] B) (Gracias) <!-- feedback: Incorrecto. "Gracias" es el diálogo mismo. No se pone el diálogo dentro de la acotación. -->
 - [x] C) (Sonriendo con alivio mientras toma el cuaderno) <!-- feedback: ¡Correcto! Esta acotación indica la emoción (alivio), la expresión facial (sonrisa) y la acción (tomar el cuaderno). Enriquecería la interpretación de la actriz. -->
@@ -210,14 +219,15 @@ Al escribir acotaciones, pregúntate: ¿qué siente el personaje en este momento
 
 **ID:** `CO-LEC-6-2026-W35-repaso-p7-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Análisis de textos multimodales
-**Context:** Repaso: comparar teatro e historieta
+**Contexto:** Repaso: comparar teatro e historieta
 
 ### Enunciado
 
 Tanto el teatro como la historieta presentan historias con personajes y diálogos. Sin embargo, hay una diferencia fundamental en su modo de presentación. ¿Cuál es?
 
-### Options
+### Opciones
 - [ ] A) El teatro siempre es en vivo; la historieta se lee en silencio <!-- feedback: Correcto, pero hay otra diferencia más fundamental relacionada con la representación. -->
 - [ ] B) La historieta tiene dibujos; el teatro tiene actores reales <!-- feedback: Correcto, pero es una diferencia superficial. La diferencia clave es estructural. -->
 - [ ] C) En el teatro, la representación es temporal (ocurre en un tiempo real, el público ve la obra de principio a fin en orden); en la historieta, el lector controla el ritmo y puede detenerse, retroceder o avanzar <!-- feedback: ¡Correcto! Esta es la diferencia clave: en el teatro el tiempo fluye de manera continua y el público no puede "pausar" la obra. En la historieta, el lector decide cuánto tiempo dedicar a cada viñeta y puede moverse libremente entre ellas. -->
@@ -233,8 +243,9 @@ Aunque teatro e historieta comparten elementos (personajes, diálogo, conflicto)
 
 **ID:** `CO-LEC-6-2026-W35-repaso-p7-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Análisis de recursos visuales en historieta
-**Context:** Repaso: metáforas visuales
+**Contexto:** Repaso: metáforas visuales
 
 ### Enunciado
 
@@ -242,7 +253,7 @@ Aunque teatro e historieta comparten elementos (personajes, diálogo, conflicto)
 
 ¿Qué recurso está usando el dibujante?
 
-### Options
+### Opciones
 - [ ] A) Una onomatopeya <!-- feedback: Incorrecto. No hay palabras que imiten sonidos. La nube y los rayos son imágenes, no texto. -->
 - [ ] B) Una descripción literal de la tormenta <!-- feedback: Incorrecto. No está lloviendo realmente sobre el personaje. La tormenta es simbólica. -->
 - [x] C) Una metáfora visual: la nube de tormenta simboliza el enojo del personaje, y los rayos representan que está a punto de explotar <!-- feedback: ¡Correcto! Así como en poesía se usan metáforas verbales ("su mirada era una tormenta"), en la historieta se usan metáforas visuales: imágenes que representan estados emocionales o conceptos abstractos. -->
@@ -258,14 +269,15 @@ Las historietas han desarrollado un rico lenguaje de metáforas visuales que el 
 
 **ID:** `CO-LEC-6-2026-W35-repaso-p7-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Valoración crítica global del período
-**Context:** Repaso: evaluación de géneros aprendidos
+**Contexto:** Repaso: evaluación de géneros aprendidos
 
 ### Enunciado
 
 Durante el Periodo 7 estudiaste tres géneros: el teatro, la historieta y la caricatura. ¿Qué tienen en común los tres como formas de comunicación?
 
-### Options
+### Opciones
 - [ ] A) Los tres usan exclusivamente palabras escritas <!-- feedback: Incorrecto. La historieta y la caricatura usan imágenes como parte fundamental. El teatro usa el cuerpo y la voz de los actores. -->
 - [ ] B) Los tres están diseñados para ser leídos individualmente en silencio <!-- feedback: Incorrecto. El teatro está diseñado para verse en vivo. Aunque se puede leer, su destino natural es la representación. -->
 - [x] C) Los tres combinan lenguaje verbal (palabras) con elementos no verbales (imágenes, gestos, expresiones, símbolos) para transmitir un mensaje completo <!-- feedback: ¡Correcto! El teatro combina palabras + actuación + escenografía. La historieta combina palabras + dibujos + símbolos visuales. La caricatura combina imagen exagerada + ironía (a veces con texto). Todos son géneros multimodales que usan múltiples lenguajes simultáneamente. -->

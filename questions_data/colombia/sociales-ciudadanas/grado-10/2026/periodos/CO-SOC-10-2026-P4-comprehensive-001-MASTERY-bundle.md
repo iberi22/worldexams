@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-10-2026-P4-comprehensive-001-MASTERY"
+id: "CO-SOC-10-2026-P4-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 10
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "globalizacion_economica_cultural, derechos_humanos, DUDH, just
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 20
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Sociales Ciudadanas Grado 10 - Periodo 4
 
@@ -30,10 +35,10 @@ Cubre globalizacion, derechos-humanos-justicia.
 **ID:** `CO-SOC-10-2026-P4-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificar y entender contenidos locales
-**Context:** En clase de Constitucion Politica en un colegio de Sincelejo, la profesora pregunta sobre la Declaracion Universal de los Derechos Humanos.
+**Contexto:** En clase de Constitucion Politica en un colegio de Sincelejo, la profesora pregunta sobre la Declaracion Universal de los Derechos Humanos.
 ### Enunciado
 En que ano fue adoptada la Declaracion Universal de los Derechos Humanos (DUDH)?
-### Options
+### Opciones
 - [ ] A) 1918, al final de la Primera Guerra Mundial. <!-- feedback: Incorrecto. En 1918 se creo la Sociedad de Naciones. -->
 - [x] B) 1948, tras la Segunda Guerra Mundial. <!-- feedback: Correcto. La DUDH fue adoptada el 10 de diciembre de 1948. -->
 - [ ] C) 1968, durante la Guerra Fria. <!-- feedback: Incorrecto. En 1968 se celebro el Ano Internacional de los Derechos Humanos. -->
@@ -47,10 +52,10 @@ La DUDH fue proclamada por la Asamblea General de la ONU el 10 de diciembre de 1
 **ID:** `CO-SOC-10-2026-P4-comprehensive-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Identificar y entender contenidos locales
-**Context:** Texto: 'La globalizacion es un proceso de interconexion creciente entre paises en lo economico, cultural, politico y tecnologico.'
+**Contexto:** Texto: 'La globalizacion es un proceso de interconexion creciente entre paises en lo economico, cultural, politico y tecnologico.'
 ### Enunciado
 Que NO es una caracteristica de la globalizacion actual?
-### Options
+### Opciones
 - [ ] A) El aumento del comercio internacional. <!-- feedback: Incorrecto. El comercio global ha crecido enormemente. -->
 - [x] B) El aislamiento total de las economias nacionales. <!-- feedback: Correcto. La globalizacion implica integracion, no aislamiento. -->
 - [ ] C) La difusion de tecnologia e informacion a escala global. <!-- feedback: Incorrecto. Internet ha acelerado esta difusion. -->
@@ -64,10 +69,10 @@ La globalizacion se caracteriza por: integracion economica (comercio, finanzas),
 **ID:** `CO-SOC-10-2026-P4-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Identificar y entender contenidos locales
-**Context:** El profesor explica la diferencia entre derechos humanos de primera, segunda y tercera generacion.
+**Contexto:** El profesor explica la diferencia entre derechos humanos de primera, segunda y tercera generacion.
 ### Enunciado
 Los derechos economicos, sociales y culturales (salud, educacion, trabajo) son de:
-### Options
+### Opciones
 - [ ] A) Primera generacion (derechos civiles y politicos). <!-- feedback: Incorrecto. Primera generacion: libertad de expresion, voto, debido proceso. -->
 - [x] B) Segunda generacion (derechos economicos, sociales y culturales). <!-- feedback: Correcto. Requieren accion positiva del Estado. -->
 - [ ] C) Tercera generacion (derechos de solidaridad). <!-- feedback: Incorrecto. Tercera generacion: paz, medio ambiente, desarrollo. -->
@@ -81,10 +86,10 @@ Los derechos humanos se clasifican en generaciones: primera (civiles y politicos
 **ID:** `CO-SOC-10-2026-P4-comprehensive-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Interpretacion y analisis de perspectivas
-**Context:** 'Una empresa colombiana de confecciones importa tela de China, disena en Medellin, produce con maquila y exporta a EE.UU.'
+**Contexto:** 'Una empresa colombiana de confecciones importa tela de China, disena en Medellin, produce con maquila y exporta a EE.UU.'
 ### Enunciado
 Este proceso refleja que caracteristica de la globalizacion?
-### Options
+### Opciones
 - [ ] A) Produccion local sin conexion global. <!-- feedback: Incorrecto. La empresa opera en multiples paises. -->
 - [x] B) Cadenas globales de valor: distintas etapas productivas en diferentes paises. <!-- feedback: Correcto. Cada etapa aprovecha ventajas comparativas de cada pais. -->
 - [ ] C) Autarquia economica. <!-- feedback: Incorrecto. Depende del comercio global. -->
@@ -98,10 +103,10 @@ Las cadenas globales de valor (CGV) son una caracteristica central de la globali
 **ID:** `CO-SOC-10-2026-P4-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Interpretacion y analisis de perspectivas
-**Context:** 'La Constitucion de Colombia de 1991 establece que Colombia es un Estado Social de Derecho.'
+**Contexto:** 'La Constitucion de Colombia de 1991 establece que Colombia es un Estado Social de Derecho.'
 ### Enunciado
 Que implica el concepto 'Estado Social de Derecho'?
-### Options
+### Opciones
 - [ ] A) Que el Estado solo garantiza derechos civiles y politicos. <!-- feedback: Incorrecto. El Estado Social tambien garantiza derechos sociales. -->
 - [x] B) Que el Estado debe garantir derechos fundamentales pero tambien proveer servicios sociales minimos. <!-- feedback: Correcto. Combina Estado de Derecho con justicia social. -->
 - [ ] C) Que no hay derechos individuales. <!-- feedback: Incorrecto. Los derechos individuales se mantienen. -->
@@ -115,10 +120,10 @@ El Estado Social de Derecho (articulo 1 de la Constitucion de 1991) significa qu
 **ID:** `CO-SOC-10-2026-P4-comprehensive-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Interpretacion y analisis de perspectivas
-**Context:** 'La Corte Penal Internacional (CPI) fue creada en 1998 mediante el Estatuto de Roma para juzgar crimenes de lesa humanidad.'
+**Contexto:** 'La Corte Penal Internacional (CPI) fue creada en 1998 mediante el Estatuto de Roma para juzgar crimenes de lesa humanidad.'
 ### Enunciado
 Que tipo de crimenes juzga la CPI?
-### Options
+### Opciones
 - [ ] A) Delitos de transito. <!-- feedback: Incorrecto. Son crimenes locales. -->
 - [x] B) Genocidio, crimenes de lesa humanidad, crimenes de guerra y agresion. <!-- feedback: Correcto. La CPI juzga los crimenes mas graves para la comunidad internacional. -->
 - [ ] C) Delitos economicos como la evasion fiscal. <!-- feedback: Incorrecto. No son competencia de la CPI. -->
@@ -132,10 +137,10 @@ El Estatuto de Roma (1998) creo la CPI con sede en La Haya. Juzga cuatro tipos d
 **ID:** `CO-SOC-10-2026-P4-comprehensive-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Interpretacion y analisis de perspectivas
-**Context:** 'La globalizacion cultural ha llevado a que jovenes en Bogota usen Spotify, vean Netflix y consuman moda similar a jovenes en Tokio o Paris.'
+**Contexto:** 'La globalizacion cultural ha llevado a que jovenes en Bogota usen Spotify, vean Netflix y consuman moda similar a jovenes en Tokio o Paris.'
 ### Enunciado
 Que critica se hace a la globalizacion cultural?
-### Options
+### Opciones
 - [ ] A) Que enriquece todas las culturas por igual. <!-- feedback: Incorrecto. Puede homogeneizar. -->
 - [x] B) Que puede homogeneizar las culturas y debilitar tradiciones locales. <!-- feedback: Correcto. La 'McDonalizacion' de la cultura es una critica recurrente. -->
 - [ ] C) Que no tiene ningun efecto cultural. <!-- feedback: Incorrecto. La globalizacion transforma profundamente las culturas. -->
@@ -149,10 +154,10 @@ La globalizacion cultural tiene dos caras: (1) homogenizacion - predominio de cu
 **ID:** `CO-SOC-10-2026-P4-comprehensive-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Interpretacion y analisis de perspectivas
-**Context:** 'Colombia tiene una ley de justicia transicional (Ley 1448 de 2011) para reparar a las victimas del conflicto armado.'
+**Contexto:** 'Colombia tiene una ley de justicia transicional (Ley 1448 de 2011) para reparar a las victimas del conflicto armado.'
 ### Enunciado
 La justicia transicional busca:
-### Options
+### Opciones
 - [ ] A) Olvidar los crimenes del pasado. <!-- feedback: Incorrecto. Busca verdad, no olvido. -->
 - [ ] B) Solo castigar a los perpetradores sin mas. <!-- feedback: Incorrecto. Incluye mas elementos que solo castigo. -->
 - [x] C) Equilibrar verdad, justicia, reparacion y garantias de no repeticion tras un conflicto. <!-- feedback: Correcto. La justicia transicional busca sanar la sociedad. -->
@@ -166,10 +171,10 @@ La justicia transicional es un enfoque para sociedades que salen de conflictos o
 **ID:** `CO-SOC-10-2026-P4-comprehensive-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Interpretacion y analisis de perspectivas
-**Context:** 'La desigualdad global ha disminuido entre paises (China, India crecieron) pero ha aumentado dentro de los paises.'
+**Contexto:** 'La desigualdad global ha disminuido entre paises (China, India crecieron) pero ha aumentado dentro de los paises.'
 ### Enunciado
 Como se manifiesta la desigualdad interna en Colombia?
-### Options
+### Opciones
 - [ ] A) Todos los colombianos tienen el mismo ingreso. <!-- feedback: Incorrecto. Colombia es uno de los paises mas desiguales del mundo. -->
 - [x] B) Grandes brechas entre zonas urbanas y rurales, y entre estratos socioeconomicos. <!-- feedback: Correcto. Colombia tiene un coeficiente de Gini alto (~0.54). -->
 - [ ] C) No hay desigualdad en Colombia. <!-- feedback: Incorrecto. -->
@@ -183,10 +188,10 @@ Colombia tiene uno de los coeficientes de Gini mas altos de America Latina (~0.5
 **ID:** `CO-SOC-10-2026-P4-comprehensive-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Interpretacion y analisis de perspectivas
-**Context:** 'Los Objetivos de Desarrollo Sostenible (ODS) fueron adoptados por la ONU en 2015 con meta 2030.'
+**Contexto:** 'Los Objetivos de Desarrollo Sostenible (ODS) fueron adoptados por la ONU en 2015 con meta 2030.'
 ### Enunciado
 Cuantos ODS hay y cual es su proposito principal?
-### Options
+### Opciones
 - [ ] A) 10 objetivos para el crecimiento economico. <!-- feedback: Incorrecto. No es el numero ni el enfoque. -->
 - [ ] B) 8 objetivos (como los ODM) para reducir la pobreza. <!-- feedback: Incorrecto. Los ODS son 17, superando a los 8 ODM. -->
 - [x] C) 17 objetivos integrados para erradicar la pobreza, proteger el planeta y garantizar prosperidad para todos. <!-- feedback: Correcto. Los ODS son holisticos e integrados. -->
@@ -200,10 +205,10 @@ La Agenda 2030 de la ONU establece 17 ODS que integran las tres dimensiones del 
 **ID:** `CO-SOC-10-2026-P4-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Interpretacion y analisis de perspectivas
-**Context:** 'En 2025, la Asamblea General de la ONU aprobo una resolucion para regular la inteligencia artificial a nivel global.'
+**Contexto:** 'En 2025, la Asamblea General de la ONU aprobo una resolucion para regular la inteligencia artificial a nivel global.'
 ### Enunciado
 La regulacion global de la IA es un ejemplo de:
-### Options
+### Opciones
 - [ ] A) Un tema que no requiere cooperacion internacional. <!-- feedback: Incorrecto. La IA trasciende fronteras. -->
 - [x] B) La necesidad de gobernanza global para desafios transnacionales. <!-- feedback: Correcto. La IA es un problema que ningun pais puede resolver solo. -->
 - [ ] C) El fin de la globalizacion. <!-- feedback: Incorrecto. Es una expresion de la globalizacion. -->
@@ -217,10 +222,10 @@ La gobernanza global se refiere a la creacion de normas, instituciones y proceso
 **ID:** `CO-SOC-10-2026-P4-comprehensive-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Interpretacion y analisis de perspectivas
-**Context:** 'Colombia es miembro de la Comision Interamericana de Derechos Humanos (CIDH) desde siempre y ha recibido recomendaciones en temas de desplazamiento y ejecuciones extrajudiciales.'
+**Contexto:** 'Colombia es miembro de la Comision Interamericana de Derechos Humanos (CIDH) desde siempre y ha recibido recomendaciones en temas de desplazamiento y ejecuciones extrajudiciales.'
 ### Enunciado
 Que critica se ha hecho a Colombia frente a la CIDH?
-### Options
+### Opciones
 - [ ] A) Colombia no tiene problemas de derechos humanos. <!-- feedback: Incorrecto. El conflicto ha generado graves violaciones. -->
 - [x] B) El Estado colombiano ha sido senalado por ejecuciones extrajudiciales ('falsos positivos'), desplazamiento forzado y violencia contra defensores. <!-- feedback: Correcto. Son las principales observaciones de la CIDH. -->
 - [ ] C) Colombia nunca ha recibido recomendaciones. <!-- feedback: Incorrecto. Ha recibido muchas. -->
@@ -234,10 +239,10 @@ La CIDH y la Corte IDH han emitido informes y sentencias contra Colombia por: ej
 **ID:** `CO-SOC-10-2026-P4-comprehensive-001-MASTERY-v13`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento critico y reflexivo
-**Context:** 'Las empresas multinacionales tienen mas poder economico que muchos paises. Apple tiene un valor de mercado superior al PIB de Colombia.'
+**Contexto:** 'Las empresas multinacionales tienen mas poder economico que muchos paises. Apple tiene un valor de mercado superior al PIB de Colombia.'
 ### Enunciado
 Que implicacion tiene para la democracia que las corporaciones tengan mas poder que los Estados?
-### Options
+### Opciones
 - [ ] A) No tiene ninguna implicacion. <!-- feedback: Incorrecto. Afecta la soberania. -->
 - [x] B) Los Estados pierden capacidad de regular efectivamente a las corporaciones. <!-- feedback: Correcto. Una empresa puede ignorar regulaciones de un pais pequeno. -->
 - [ ] C) Fortalece la democracia. <!-- feedback: Incorrecto. Puede debilitar la capacidad regulatoria estatal. -->
@@ -251,10 +256,10 @@ Cuando las corporaciones superan en poder economico a los Estados (Apple vale ~3
 **ID:** `CO-SOC-10-2026-P4-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento critico y reflexivo
-**Context:** 'En 2025, la Corte Constitucional de Colombia ordeno al Estado garantizar el derecho a la salud de comunidades indigenas en La Guajira.'
+**Contexto:** 'En 2025, la Corte Constitucional de Colombia ordeno al Estado garantizar el derecho a la salud de comunidades indigenas en La Guajira.'
 ### Enunciado
 Que concepto juridico se aplica cuando la Corte ordena al Estado proteger derechos?
-### Options
+### Opciones
 - [ ] A) Estado de sitio. <!-- feedback: Incorrecto. Eso es excepcion a derechos. -->
 - [x] B) Estado de cosas inconstitucional (ECI): situacion que viola multiples derechos fundamentales de un grupo poblacional. <!-- feedback: Correcto. La Corte declara ECI cuando hay violacion masiva y sistematica. -->
 - [ ] C) Induito general. <!-- feedback: Incorrecto. No aplica. -->
@@ -268,10 +273,10 @@ El 'Estado de Cosas Inconstitucional' (ECI) es una figura de la Corte Constituci
 **ID:** `CO-SOC-10-2026-P4-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento critico y reflexivo
-**Context:** 'La migracion venezolana a Colombia ha generado debates sobre derechos humanos: salud, educacion y regularizacion.'
+**Contexto:** 'La migracion venezolana a Colombia ha generado debates sobre derechos humanos: salud, educacion y regularizacion.'
 ### Enunciado
 Cual ha sido el principal desafio en materia de derechos humanos con la migracion venezolana?
-### Options
+### Opciones
 - [ ] A) Los migrantes no tienen ningun derecho. <!-- feedback: Incorrecto. Aunque enfrentan barreras, tienen derechos fundamentales. -->
 - [x] B) Garantizar el acceso efectivo a derechos basicos (salud, educacion, trabajo) a una poblacion migrante en situacion de vulnerabilidad. <!-- feedback: Correcto. El desafio es la implementacion efectiva de derechos ya reconocidos. -->
 - [ ] C) Enviar a todos los migrantes de vuelta. <!-- feedback: Incorrecto. Violaria el principio de no devolucion. -->
@@ -285,10 +290,10 @@ Colombia ha otorgado Estatuto Temporal de Proteccion (ETPV) a migrantes venezola
 **ID:** `CO-SOC-10-2026-P4-comprehensive-001-MASTERY-v16`
 **Bloom:** Create
 **ICFES:** Pensamiento critico y reflexivo
-**Context:** Un estudiante en Quibdo debe disenar una propuesta para garantizar derechos humanos en el Choco, el departamento mas pobre de Colombia.
+**Contexto:** Un estudiante en Quibdo debe disenar una propuesta para garantizar derechos humanos en el Choco, el departamento mas pobre de Colombia.
 ### Enunciado
 Que estrategia integral propondria?
-### Options
+### Opciones
 - [ ] A) Solo construir carreteras. <!-- feedback: Incompleto. La infraestructura no es suficiente. -->
 - [x] B) Inversion en educacion, salud, infraestructura + proteccion de lideres sociales + desarrollo economico inclusivo. <!-- feedback: Correcto. Enfoque integral de derechos. -->
 - [ ] C) Declarar el Choco independiente. <!-- feedback: Inviable e impráctico. -->
@@ -302,10 +307,10 @@ Choco tiene los peores indicadores sociales de Colombia (pobreza >60%, mortalida
 **ID:** `CO-SOC-10-2026-P4-comprehensive-001-MASTERY-v17`
 **Bloom:** Create
 **ICFES:** Pensamiento critico y reflexivo
-**Context:** Un debate en el colegio sobre si el libre comercio es bueno para los derechos humanos.
+**Contexto:** Un debate en el colegio sobre si el libre comercio es bueno para los derechos humanos.
 ### Enunciado
 Cual es la postura mas equilibrada?
-### Options
+### Opciones
 - [ ] A) El libre comercio siempre viola derechos humanos. <!-- feedback: Generalizacion excesiva. -->
 - [ ] B) El libre comercio siempre protege derechos humanos. <!-- feedback: Generalizacion excesiva. -->
 - [x] C) Depende de como se regule: el comercio puede generar desarrollo que financia derechos, pero sin regulacion puede explotar trabajadores y deteriorar el ambiente. <!-- feedback: Correcto. El comercio no es intrinsecamente bueno o malo. -->
@@ -319,10 +324,10 @@ La relacion entre comercio y derechos humanos es compleja. El comercio puede: ge
 **ID:** `CO-SOC-10-2026-P4-comprehensive-001-MASTERY-v18`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento critico y reflexivo
-**Context:** 'La sentencia de la Corte IDH sobre el caso del Palacio de Justicia (1985) condeno a Colombia por desaparicion forzada.'
+**Contexto:** 'La sentencia de la Corte IDH sobre el caso del Palacio de Justicia (1985) condeno a Colombia por desaparicion forzada.'
 ### Enunciado
 Que principio del derecho internacional aplico la Corte IDH?
-### Options
+### Opciones
 - [ ] A) Soberania nacional absoluta. <!-- feedback: Incorrecto. Los derechos humanos limitan la soberania. -->
 - [x] B) La responsabilidad internacional del Estado por violaciones de derechos humanos, incluso si fueron cometidas por agentes estatales. <!-- feedback: Correcto. El Estado responde por actos de sus agentes. -->
 - [ ] C) Que los Estados no tienen obligaciones internacionales. <!-- feedback: Incorrecto. -->
@@ -336,10 +341,10 @@ La Corte IDH ha emitido varias sentencias contra Colombia, incluyendo el caso de
 **ID:** `CO-SOC-10-2026-P4-comprehensive-001-MASTERY-v19`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento critico y reflexivo
-**Context:** 'La pandemia de COVID-19 (2020-2023) mostro la fragilidad de la globalizacion: cadenas de suministro rotas, desigualdad en acceso a vacunas y cooperacion internacional limitada.'
+**Contexto:** 'La pandemia de COVID-19 (2020-2023) mostro la fragilidad de la globalizacion: cadenas de suministro rotas, desigualdad en acceso a vacunas y cooperacion internacional limitada.'
 ### Enunciado
 Que leccion deja la pandemia para los derechos humanos globales?
-### Options
+### Opciones
 - [ ] A) Los derechos humanos no importan en emergencias. <!-- feedback: Incorrecto. Los derechos deben protegerse incluso en emergencias. -->
 - [x] B) Los paises ricos acumularon vacunas mientras los pobres esperaban, evidenciando la desigualdad global en salud. <!-- feedback: Correcto. El 'nacionalismo de vacunas' mostro la desigualdad. -->
 - [ ] C) La pandemia no afecto los derechos humanos. <!-- feedback: Incorrecto. Afecto derechos economicos, sociales y civiles. -->
@@ -353,10 +358,10 @@ La pandemia evidencio la desigualdad global: mientras paises ricos (EE.UU., UE) 
 **ID:** `CO-SOC-10-2026-P4-comprehensive-001-MASTERY-v20`
 **Bloom:** Create
 **ICFES:** Pensamiento critico y reflexivo
-**Context:** Colombia se prepara para la 'Cumbre de Derechos Humanos y Globalizacion' en Cartagena en 2027. Estudiantes de grado 10 deben proponer una agenda.
+**Contexto:** Colombia se prepara para la 'Cumbre de Derechos Humanos y Globalizacion' en Cartagena en 2027. Estudiantes de grado 10 deben proponer una agenda.
 ### Enunciado
 Que puntos deberia incluir la agenda colombiana?
-### Options
+### Opciones
 - [ ] A) Solo comercio internacional. <!-- feedback: Demasiado limitado. -->
 - [x] B) Accion climatica, regulacion de inteligencia artificial, proteccion de defensores de DDHH, equidad de genero, reforma de instituciones globales. <!-- feedback: Correcto. Una agenda integral del siglo XXI. -->
 - [ ] C) Solo temas de Colombia. <!-- feedback: La cumbre es global. -->

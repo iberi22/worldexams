@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W10-sobreentendidos-001-MASTERY"
+id: "CO-LC-7-2026-W10-sobreentendidos-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "sobreentendidos"
-semana: "W10"
+week: "W10"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Sobreentendidos - Grado 7
 ## Semana W10 — Lo que se da por hecho en el texto
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W10-sobreentendidos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comunicativa — lextora
-**Context:** En la clase de Lectura Crítica del Colegio Ciudad de Tunja, la profesora explica qué son los sobreentendidos.
+**Contexto:** En la clase de Lectura Crítica del Colegio Ciudad de Tunja, la profesora explica qué son los sobreentendidos.
 **Expected_Success:** 0.86
 
 ### Enunciado
@@ -39,11 +43,11 @@ Los sobreentendidos son informaciones que el autor no escribe porque presupone q
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W10-sobreentendidos-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comunicativa — lextora
-**Context:** Santiago escucha a su mamá decir: "Apaga la luz antes de salir."
+**Contexto:** Santiago escucha a su mamá decir: "Apaga la luz antes de salir."
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -60,11 +64,11 @@ Los sobreentendidos son condiciones necesarias para que un enunciado tenga senti
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W10-sobreentendidos-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Comunicativa — lextora
-**Context:** En el colegio San Luis Beltrán de Sincelejo, el profesor escribe en el tablero: "El nuevo profesor de matemáticas es muy estricto. Ya le pusieron apodo."
+**Contexto:** En el colegio San Luis Beltrán de Sincelejo, el profesor escribe en el tablero: "El nuevo profesor de matemáticas es muy estricto. Ya le pusieron apodo."
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ La acción de "poner apodo" implica una serie de sobreentendidos: los estudiante
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W10-sobreentendidos-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicativa — crítica
-**Context:** Camila lee una noticia: "El Ministro de Educación visitó la escuela rural y prometió mejoras en la infraestructura."
+**Contexto:** Camila lee una noticia: "El Ministro de Educación visitó la escuela rural y prometió mejoras en la infraestructura."
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -102,11 +106,11 @@ Prometer mejoras en algo implica que ese algo tiene deficiencias. Este sobreente
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W10-sobreentendidos-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Comunicativa — analítica
-**Context:** En el colegio de Apartadó, el profesor de Lengua muestra el siguiente diálogo: —"¿Viste a María?" —"Está con fiebre."
+**Contexto:** En el colegio de Apartadó, el profesor de Lengua muestra el siguiente diálogo: —"¿Viste a María?" —"Está con fiebre."
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -123,11 +127,11 @@ En las conversaciones cotidianas, los sobreentendidos son constantes. La pregunt
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W10-sobreentendidos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — crítica
-**Context:** En el colegio Carlos Arturo Torres de Tunja, los estudiantes analizan un anuncio: "¿Cansado de pagar mucho por tu internet? ¡Cambia ya a Conexión Total!"
+**Contexto:** En el colegio Carlos Arturo Torres de Tunja, los estudiantes analizan un anuncio: "¿Cansado de pagar mucho por tu internet? ¡Cambia ya a Conexión Total!"
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -144,11 +148,11 @@ La publicidad usa sobreentendidos para posicionar sus productos. Este anuncio da
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W10-sobreentendidos-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — analítica
-**Context:** En el colegio de Girardot, los estudiantes leen: "A pesar de ser una ciudad pequeña, Manizales tiene una oferta cultural muy variada."
+**Contexto:** En el colegio de Girardot, los estudiantes leen: "A pesar de ser una ciudad pequeña, Manizales tiene una oferta cultural muy variada."
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -165,11 +169,11 @@ La expresión "a pesar de" crea una relación de contraste entre lo esperado y l
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W10-sobreentendidos-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — crítica
-**Context:** Natalia lee en la sección de economía: "A pesar de la inflación, el gobierno decidió no aumentar el salario mínimo."
+**Contexto:** Natalia lee en la sección de economía: "A pesar de la inflación, el gobierno decidió no aumentar el salario mínimo."
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -186,11 +190,11 @@ El uso de "a pesar de" revela mucho sobre la postura del autor. Al decir "A pesa
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W10-sobreentendidos-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Comunicativa — lextora
-**Context:** En el colegio de Leticia, el profesor escribe: "Pedro llegó tarde otra vez. El profesor lo miró y negó con la cabeza."
+**Contexto:** En el colegio de Leticia, el profesor escribe: "Pedro llegó tarde otra vez. El profesor lo miró y negó con la cabeza."
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -207,11 +211,11 @@ La palabra "otra vez" es un marcador que activa un sobreentendido de repetición
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W10-sobreentendidos-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — analítica
-**Context:** En la clase de Lectura Crítica del Colegio Montessori de Bogotá, los estudiantes analizan un discurso político que dice: "Finalmente, hemos logrado reducir el desempleo."
+**Contexto:** En la clase de Lectura Crítica del Colegio Montessori de Bogotá, los estudiantes analizan un discurso político que dice: "Finalmente, hemos logrado reducir el desempleo."
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ Una sola oración puede contener múltiples sobreentendidos: 1) "Finalmente" sug
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W10-sobreentendidos-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — crítica
-**Context:** En el colegio de Mosquera, los estudiantes analizan un texto científico de divulgación: "El cerebro humano, como se sabe, está dividido en dos hemisferios."
+**Contexto:** En el colegio de Mosquera, los estudiantes analizan un texto científico de divulgación: "El cerebro humano, como se sabe, está dividido en dos hemisferios."
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -249,11 +253,11 @@ La expresión "como se sabe" (y sus variantes "como es sabido", "como todos sabe
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W10-sobreentendidos-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — analítica
-**Context:** En la evaluación de la semana del Colegio Real de Bucaramanga, la profesora presenta un texto con múltiples sobreentendidos y pide identificarlos.
+**Contexto:** En la evaluación de la semana del Colegio Real de Bucaramanga, la profesora presenta un texto con múltiples sobreentendidos y pide identificarlos.
 **Expected_Success:** 0.34
 
 ### Enunciado

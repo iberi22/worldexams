@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W11-parts-of-body-001-MASTERY"
+id: "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "parts-of-body"
 periodo: "weekly"
-semana: 11
+week: "W11"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "Vocabulary for main body parts: head, shoulders, arms, hands, 
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W11: Parts of the Body (A1)
 
@@ -32,11 +37,12 @@ Este bundle evalúa el vocabulario de las partes principales del cuerpo humano e
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Cabeza"** in English?
 
-### Options
+### Opciones
 - [x] A) Head <!-- feedback: Correct! Head is cabeza. -->
 - [ ] B) Hand <!-- feedback: Incorrect. Hand is mano. -->
 - [ ] C) Foot <!-- feedback: Incorrect. Foot is pie. -->
@@ -52,11 +58,12 @@ La cabeza se dice "head" en inglés. Es la parte superior del cuerpo.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 How many **arms** (brazos) do you have?
 
-### Options
+### Opciones
 - [ ] A) One <!-- feedback: Incorrect. -->
 - [x] B) Two <!-- feedback: Correct! You have two arms. -->
 - [ ] C) Ten <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ How many **arms** (brazos) do you have?
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Mano"** in English?
 
-### Options
+### Opciones
 - [ ] A) Foot <!-- feedback: Incorrect. -->
 - [ ] B) Head <!-- feedback: Incorrect. -->
 - [x] C) Hand <!-- feedback: Correct! Hand is mano. -->
@@ -92,11 +100,12 @@ La mano se dice "hand". Al final de cada brazo tenemos una mano.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Pierna"** in English?
 
-### Options
+### Opciones
 - [ ] A) Arm <!-- feedback: Incorrect. -->
 - [x] B) Leg <!-- feedback: Correct! Leg is pierna. -->
 - [ ] C) Shoulder <!-- feedback: Incorrect. -->
@@ -112,11 +121,12 @@ La pierna se dice "leg". Usamos las piernas para caminar y correr.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Pie"** in English?
 
-### Options
+### Opciones
 - [x] A) Foot <!-- feedback: Correct! Foot is pie. -->
 - [ ] B) Hand <!-- feedback: Incorrect. -->
 - [ ] C) Head <!-- feedback: Incorrect. -->
@@ -132,11 +142,12 @@ Un pie se dice "foot". Si son los dos, decimos "feet".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 You wear a hat on your:
 
-### Options
+### Opciones
 - [x] A) Head <!-- feedback: Correct! You wear hats on your head. -->
 - [ ] B) Foot <!-- feedback: Incorrect. -->
 - [ ] C) Hand <!-- feedback: Incorrect. -->
@@ -152,11 +163,12 @@ El sombrero (hat) se usa en la cabeza (head).
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 You wear shoes on your:
 
-### Options
+### Opciones
 - [ ] A) Hands <!-- feedback: Incorrect. -->
 - [ ] B) Arms <!-- feedback: Incorrect. -->
 - [x] C) Feet <!-- feedback: Correct! Shoes go on your feet. -->
@@ -172,11 +184,12 @@ Los zapatos (shoes) se usan en los pies (feet).
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Which part of the body is **"Hombro"**?
 
-### Options
+### Opciones
 - [ ] A) Knee <!-- feedback: Incorrect. -->
 - [x] B) Shoulder <!-- feedback: Correct! Shoulder is hombro. -->
 - [ ] C) Elbow <!-- feedback: Incorrect. -->
@@ -192,11 +205,12 @@ El hombro se dice "shoulder". Recuerda la canción: "Head, shoulders, knees and 
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What are **"Rodillas"** in English?
 
-### Options
+### Opciones
 - [ ] A) Shoulders <!-- feedback: Incorrect. -->
 - [ ] B) Toes <!-- feedback: Incorrect. -->
 - [x] C) Knees <!-- feedback: Correct! Knees are rodillas. -->
@@ -212,11 +226,12 @@ Las rodillas se dicen "knees". La "k" al principio es muda, no suena.
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Where are your **fingers**?
 
-### Options
+### Opciones
 - [ ] A) On your feet <!-- feedback: Incorrect. Those are toes. -->
 - [x] B) On your hands <!-- feedback: Correct! You have fingers on your hands. -->
 - [ ] C) On your head <!-- feedback: Incorrect. -->

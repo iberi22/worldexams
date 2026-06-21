@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY"
+id: "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "animals-pets-farm"
 periodo: "weekly"
-semana: 16
+week: "W16"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "Vocabulary for pets and farm animals: dog, cat, cow, pig, chic
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W16: Animals - Pets and Farm (A1)
 
@@ -32,11 +37,12 @@ Este bundle evalúa el vocabulario de mascotas y animales de la granja en inglé
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What animal says **"Woof woof"**?
 
-### Options
+### Opciones
 - [ ] A) Cat <!-- feedback: Incorrect. Cats say "Meow". -->
 - [x] B) Dog <!-- feedback: Correct! Dogs bark. -->
 - [ ] C) Cow <!-- feedback: Incorrect. -->
@@ -52,11 +58,12 @@ El perro se dice "dog". Los perros ladran (bark) y el sonido en inglés se escri
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What animal says **"Meow"**?
 
-### Options
+### Opciones
 - [x] A) Cat <!-- feedback: Correct! Cats say "meow". -->
 - [ ] B) Dog <!-- feedback: Incorrect. -->
 - [ ] C) Rabbit <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ El gato se dice "cat". Es una mascota muy común.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What animal gives us **milk**?
 
-### Options
+### Opciones
 - [ ] A) Pig <!-- feedback: Incorrect. -->
 - [x] B) Cow <!-- feedback: Correct! Cows give milk. -->
 - [ ] C) Chicken <!-- feedback: Incorrect. -->
@@ -92,11 +100,12 @@ La vaca se dice "cow". Es un animal de la granja (farm animal).
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What animal gives us **eggs**?
 
-### Options
+### Opciones
 - [ ] A) Cow <!-- feedback: Incorrect. -->
 - [ ] B) Horse <!-- feedback: Incorrect. -->
 - [x] C) Chicken <!-- feedback: Correct! Chickens lay eggs. -->
@@ -112,11 +121,12 @@ La gallina o el pollo se dice "chicken". De ellas obtenemos los huevos (eggs).
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What animal is pink and says **"Oink oink"**?
 
-### Options
+### Opciones
 - [ ] A) Cow <!-- feedback: Incorrect. -->
 - [x] B) Pig <!-- feedback: Correct! Pigs are pink. -->
 - [ ] C) Sheep <!-- feedback: Incorrect. -->
@@ -132,11 +142,12 @@ El cerdo se dice "pig".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What animal has long ears and likes **carrots**?
 
-### Options
+### Opciones
 - [ ] A) Cat <!-- feedback: Incorrect. -->
 - [x] B) Rabbit <!-- feedback: Correct! Rabbits like carrots. -->
 - [ ] C) Bird <!-- feedback: Incorrect. -->
@@ -152,11 +163,12 @@ El conejo se dice "rabbit".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Which animal can **fly**?
 
-### Options
+### Opciones
 - [ ] A) Dog <!-- feedback: Incorrect. -->
 - [ ] B) Cow <!-- feedback: Incorrect. -->
 - [x] C) Bird <!-- feedback: Correct! Birds can fly. -->
@@ -172,11 +184,12 @@ El pájaro se dice "bird". Los pájaros tienen alas (wings) y pueden volar (fly)
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What animal is big and you can **ride**?
 
-### Options
+### Opciones
 - [ ] A) Cat <!-- feedback: Incorrect. Too small. -->
 - [x] B) Horse <!-- feedback: Correct! You can ride a horse. -->
 - [ ] C) Chicken <!-- feedback: Incorrect. -->
@@ -192,11 +205,12 @@ El caballo se dice "horse".
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Pato"** in English?
 
-### Options
+### Opciones
 - [ ] A) Chicken <!-- feedback: Incorrect. -->
 - [x] B) Duck <!-- feedback: Correct! Duck is pato. -->
 - [ ] C) Bird <!-- feedback: Incorrect. -->
@@ -212,11 +226,12 @@ El pato se dice "duck". Hace un sonido como "quack".
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What animal has **wool** (lana)?
 
-### Options
+### Opciones
 - [ ] A) Pig <!-- feedback: Incorrect. -->
 - [ ] B) Cow <!-- feedback: Incorrect. -->
 - [x] C) Sheep <!-- feedback: Correct! Sheep have wool. -->

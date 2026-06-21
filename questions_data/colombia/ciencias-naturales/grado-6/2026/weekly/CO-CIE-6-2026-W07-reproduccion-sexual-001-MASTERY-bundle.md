@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W07-reproduccion-sexual-001-MASTERY"
+id: "CO-CIE-6-2026-W07-reproduccion-sexual-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W07 — Reproducción Sexual en Organismos
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W07-reproduccion-sexual-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, los estudiantes comienzan el tema de reproducción sexual en una presentación interactiva.
+**Contexto:** En Bogotá, los estudiantes comienzan el tema de reproducción sexual en una presentación interactiva.
 
 ### Enunciado
 ¿Qué es la reproducción sexual?
 
-### Options
+### Opciones
 - [ ] A) La división de una célula en dos hijas idénticas <!-- feedback: Incorrecto. Eso es mitosis. -->
 - [ ] B) La formación de un nuevo individuo a partir de un solo progenitor <!-- feedback: Incorrecto. Eso es reproducción asexual. -->
 - [x] C) La formación de un nuevo individuo a partir de la unión de dos células especializadas (gametos) de dos progenitores <!-- feedback: Correcto. La reproducción sexual requiere dos progenitores. -->
@@ -50,13 +53,14 @@ Características: (1) produce descendencia genéticamente única (variabilidad g
 
 **ID:** `CO-CIE-6-2026-W07-reproduccion-sexual-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, los estudiantes aprenden la diferencia entre gameto masculino y femenino.
+**Contexto:** En Medellín, los estudiantes aprenden la diferencia entre gameto masculino y femenino.
 
 ### Enunciado
 ¿Cómo se llaman las células sexuales (gametos) en los seres humanos?
 
-### Options
+### Opciones
 - [ ] A) Cigoto y blastocito <!-- feedback: Incorrecto. El cigoto es el resultado de la unión de los gametos. -->
 - [ ] B) Mitocondria y cloroplasto <!-- feedback: Incorrecto. Son orgánulos celulares, no células sexuales. -->
 - [x] C) Óvulo (femenino) y espermatozoide (masculino) <!-- feedback: Correcto. Estos son los gametos humanos. -->
@@ -75,13 +79,14 @@ Ambos tienen la mitad del número de cromosomas (23 en humanos, n). Al fusionars
 
 **ID:** `CO-CIE-6-2026-W07-reproduccion-sexual-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, los estudiantes comparan reproducción sexual en diferentes organismos.
+**Contexto:** En Cali, los estudiantes comparan reproducción sexual en diferentes organismos.
 
 ### Enunciado
 ¿Qué ventaja evolutiva tiene la reproducción sexual sobre la asexual?
 
-### Options
+### Opciones
 - [ ] A) Es más rápida <!-- feedback: Incorrecto. La reproducción sexual es más lenta. -->
 - [ ] B) Produce más descendencia <!-- feedback: Incorrecto. La asexual produce más descendencia en menos tiempo. -->
 - [x] C) Genera variabilidad genética, lo que permite adaptarse mejor a cambios ambientales <!-- feedback: Correcto. La recombinación genética es clave para la evolución. -->
@@ -101,13 +106,14 @@ Esta variabilidad permite que en una población haya individuos con diferentes c
 
 **ID:** `CO-CIE-6-2026-W07-reproduccion-sexual-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, los estudiantes ven un video sobre la polinización.
+**Contexto:** En Barranquilla, los estudiantes ven un video sobre la polinización.
 
 ### Enunciado
 ¿Cómo se reproduce sexualmente una planta con flor?
 
-### Options
+### Opciones
 - [ ] A) Por esquejes de sus tallos <!-- feedback: Incorrecto. Los esquejes son reproducción asexual. -->
 - [x] B) Mediante polinización: el polen (gameto masculino) fecunda el óvulo en el ovario de la flor, formando semillas <!-- feedback: Correcto. La flor es el órgano reproductor de las plantas. -->
 - [ ] C) Por fragmentación de sus hojas <!-- feedback: Incorrecto. Eso es reproducción asexual. -->
@@ -128,13 +134,14 @@ La polinización es esencial para la producción de alimentos: aproximadamente e
 
 **ID:** `CO-CIE-6-2026-W07-reproduccion-sexual-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, los estudiantes observan flores y sus partes en el laboratorio.
+**Contexto:** En Bucaramanga, los estudiantes observan flores y sus partes en el laboratorio.
 
 ### Enunciado
 Un estudiante observa una flor y encuentra una estructura que produce polen. ¿Qué parte de la flor está observando?
 
-### Options
+### Opciones
 - [ ] A) El pistilo <!-- feedback: Incorrecto. El pistilo es la parte femenina y contiene el ovario. -->
 - [ ] B) El pétalo <!-- feedback: Incorrecto. Los pétalos atraen polinizadores pero no producen polen. -->
 - [x] C) El estambre (antera) <!-- feedback: Correcto. La antera del estambre produce los granos de polen. -->
@@ -155,13 +162,14 @@ Un grano de polen contiene dos células: una genera el tubo polínico y la otra 
 
 **ID:** `CO-CIE-6-2026-W07-reproduccion-sexual-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, los estudiantes relacionan animales con su tipo de fecundación.
+**Contexto:** En Cartagena, los estudiantes relacionan animales con su tipo de fecundación.
 
 ### Enunciado
 ¿Qué diferencia hay entre fecundación interna y externa?
 
-### Options
+### Opciones
 - [ ] A) La fecundación interna produce menos descendencia <!-- feedback: Incorrecto. Es una consecuencia, no la definición. -->
 - [ ] B) En la externa los gametos se unen dentro del cuerpo de la hembra <!-- feedback: Incorrecto. Eso es la interna. -->
 - [x] C) En la interna la unión de gametos ocurre dentro del cuerpo de la hembra; en la externa ocurre en el agua o el medio externo <!-- feedback: Correcto. La fecundación externa es común en organismos acuáticos. -->
@@ -179,13 +187,14 @@ En Colombia, la rana venenosa (Dendrobates) tiene fecundación externa, mientras
 
 **ID:** `CO-CIE-6-2026-W07-reproduccion-sexual-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan por qué los peces producen miles de huevos y los mamíferos pocos.
+**Contexto:** En Pereira, analizan por qué los peces producen miles de huevos y los mamíferos pocos.
 
 ### Enunciado
 ¿Por qué los peces producen miles de huevos mientras que los mamíferos solo producen unos pocos?
 
-### Options
+### Opciones
 - [ ] A) Porque los peces son más fértiles <!-- feedback: Incorrecto. No es cuestión de fertilidad sino de estrategia reproductiva. -->
 - [ ] B) Porque los mamíferos no necesitan reproducirse mucho <!-- feedback: Incorrecto. Todos necesitan reproducirse para perpetuar la especie. -->
 - [x] C) Porque los peces tienen fecundación externa y sus huevos son vulnerables, así que necesitan muchos para que algunos sobrevivan; los mamíferos tienen fecundación interna y cuidan a sus crías, por lo que invierten más en pocas crías <!-- feedback: Correcto. Son estrategias reproductivas diferentes. -->
@@ -204,13 +213,14 @@ El salmón del Pacífico pone 2,000-5,000 huevos por desove. De todos ellos, sol
 
 **ID:** `CO-CIE-6-2026-W07-reproduccion-sexual-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, analizan el proceso de metamorfosis en insectos.
+**Contexto:** En Manizales, analizan el proceso de metamorfosis en insectos.
 
 ### Enunciado
 La mariposa pasa por huevo, oruga, crisálida y adulto. ¿Qué nombre recibe este proceso?
 
-### Options
+### Opciones
 - [ ] A) Fecundación <!-- feedback: Incorrecto. La fecundación es la unión de gametos. -->
 - [ ] B) Gemación <!-- feedback: Incorrecto. La gemación es un tipo de reproducción asexual. -->
 - [x] C) Metamorfosis completa <!-- feedback: Correcto. La metamorfosis completa tiene cuatro etapas distintas. -->
@@ -229,13 +239,14 @@ En Colombia, el cultivo de mariposas (mariposarios) es una actividad ecoturísti
 
 **ID:** `CO-CIE-6-2026-W07-reproduccion-sexual-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan la reproducción de especies en peligro de extinción.
+**Contexto:** En Cúcuta, evalúan la reproducción de especies en peligro de extinción.
 
 ### Enunciado
 En zoológicos se usan programas de reproducción asistida para especies amenazadas. ¿Por qué la reproducción sexual es preferible a la clonación para conservar especies?
 
-### Options
+### Opciones
 - [ ] A) Porque la clonación es más barata <!-- feedback: Incorrecto. La clonación suele ser más costosa. -->
 - [ ] B) Porque la reproducción sexual produce individuos genéticamente idénticos <!-- feedback: Incorrecto. La sexual produce VARIABILIDAD genética. -->
 - [x] C) Porque la reproducción sexual genera variabilidad genética, lo que da a la población mayor capacidad para adaptarse a cambios y enfermedades <!-- feedback: Correcto. La diversidad genética es clave para la supervivencia a largo plazo. -->
@@ -256,13 +267,14 @@ La diversidad genética es el seguro de vida de las especies contra cambios ambi
 
 **ID:** `CO-CIE-6-2026-W07-reproduccion-sexual-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan por qué la endogamia (cruce entre familiares) es problemática.
+**Contexto:** En Ibagué, evalúan por qué la endogamia (cruce entre familiares) es problemática.
 
 ### Enunciado
 ¿Por qué el cruce entre familiares cercanos (endogamia) puede ser perjudicial para una especie?
 
-### Options
+### Opciones
 - [ ] A) Porque los animales se vuelven menos inteligentes <!-- feedback: Incorrecto. No es una explicación científica precisa. -->
 - [ ] B) Porque produce menos crías <!-- feedback: Incorrecto. Puede no afectar el número de crías directamente. -->
 - [x] C) Porque aumenta la probabilidad de que genes recesivos dañinos se expresen, ya que ambos progenitores tienen genes muy similares <!-- feedback: Correcto. Los genes recesivos deletéreos tienen más probabilidad de manifestarse. -->

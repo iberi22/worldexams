@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-11-2026-W10-analisis-de-discursos-y-retorica-001-MASTERY"
+id: "CO-LEC-11-2026-W10-analisis-de-discursos-y-retorica-001-MASTERY-bundle"
 country: "colombia"
 grado: 11
 asignatura: "lectura-critica"
 tema: "analisis-de-discursos-y-retorica"
-semana: 10
+week: "W10"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,15 +16,20 @@ rubric_baseline: "discurso, retorica, figuras retoricas, persuasion, ethos patho
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Análisis de Discursos y Retórica — Grado 11
 ## Semana W10
 
-## Pregunta 1 [D2]
+## Question 1 [D2]
 
 **ID:** `CO-LEC-11-2026-W10-analisis-de-discursos-y-retorica-001-MASTERY-v1`  
 **Bloom:** Apply  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -33,10 +38,10 @@ Todos los políticos son corruptos. Pedro es político. Luego, Pedro es corrupto
 
 ### Opciones
 
-- [x] A) Premisa mayor es generalización falsa
-- [ ] B) Conclusión no se sigue
-- [ ] C) Es inductivo
-- [ ] D) No tiene problemas
+- [x] A) Premisa mayor es generalización falsa <!-- feedback: Correcto! Premisa mayor es generalización falsa -->
+- [ ] B) Conclusión no se sigue <!-- feedback: Incorrecto. Conclusión no se sigue -->
+- [ ] C) Es inductivo <!-- feedback: Incorrecto. Es inductivo -->
+- [ ] D) No tiene problemas <!-- feedback: Incorrecto. No tiene problemas -->
 
 ### Explicación Pedagógica
 
@@ -44,10 +49,11 @@ Estructuralmente válido, pero la premisa 'todos' es una falsa generalización.
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 
 **ID:** `CO-LEC-11-2026-W10-analisis-de-discursos-y-retorica-001-MASTERY-v2`  
 **Bloom:** Evaluate  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -56,10 +62,10 @@ Artículo sobre posconflicto: datos JEP + testimonios + cifras + opinión del au
 
 ### Opciones
 
-- [ ] A) Datos de la JEP
-- [ ] B) Testimonios
-- [ ] C) Cifras de reincorporación
-- [x] D) Opinión del autor
+- [ ] A) Datos de la JEP <!-- feedback: Incorrecto. Datos de la JEP -->
+- [ ] B) Testimonios <!-- feedback: Incorrecto. Testimonios -->
+- [ ] C) Cifras de reincorporación <!-- feedback: Incorrecto. Cifras de reincorporación -->
+- [x] D) Opinión del autor <!-- feedback: Correcto! Opinión del autor -->
 
 ### Explicación Pedagógica
 
@@ -67,10 +73,11 @@ La opinión del autor mezclada con datos sesga el análisis si se pretende impar
 
 ---
 
-## Pregunta 3 [D3]
+## Question 3 [D3]
 
 **ID:** `CO-LEC-11-2026-W10-analisis-de-discursos-y-retorica-001-MASTERY-v3`  
 **Bloom:** Evaluate  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -79,10 +86,10 @@ Tres artículos sobre el metro de Bogotá: El Tiempo (describe avances), Semana 
 
 ### Opciones
 
-- [ ] A) Alcaldía
-- [x] B) El Tiempo
-- [ ] C) Semana
-- [ ] D) Todos igual
+- [ ] A) Alcaldía <!-- feedback: Incorrecto. Alcaldía -->
+- [x] B) El Tiempo <!-- feedback: Correcto! El Tiempo -->
+- [ ] C) Semana <!-- feedback: Incorrecto. Semana -->
+- [ ] D) Todos igual <!-- feedback: Incorrecto. Todos igual -->
 
 ### Explicación Pedagógica
 
@@ -90,10 +97,11 @@ El Tiempo describe sin emitir juicios evidentes, acercándose más a la objetivi
 
 ---
 
-## Pregunta 4 [D2]
+## Question 4 [D2]
 
 **ID:** `CO-LEC-11-2026-W10-analisis-de-discursos-y-retorica-001-MASTERY-v4`  
 **Bloom:** Apply  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -102,10 +110,10 @@ El Tiempo describe sin emitir juicios evidentes, acercándose más a la objetivi
 
 ### Opciones
 
-- [ ] A) Anécdota-Opinión-Reflexión
-- [x] B) Definición-Datos-Resumen
-- [ ] C) Pregunta retórica-Poema-ACCIÓN
-- [ ] D) Chiste-Diálogo-Moraleja
+- [ ] A) Anécdota-Opinión-Reflexión <!-- feedback: Incorrecto. Anécdota-Opinión-Reflexión -->
+- [x] B) Definición-Datos-Resumen <!-- feedback: Correcto! Definición-Datos-Resumen -->
+- [ ] C) Pregunta retórica-Poema-ACCIÓN <!-- feedback: Incorrecto. Pregunta retórica-Poema-ACCIÓN -->
+- [ ] D) Chiste-Diálogo-Moraleja <!-- feedback: Incorrecto. Chiste-Diálogo-Moraleja -->
 
 ### Explicación Pedagógica
 
@@ -113,10 +121,11 @@ Definición y contexto, desarrollo con datos, cierre con síntesis es la estruct
 
 ---
 
-## Pregunta 5 [D2]
+## Question 5 [D2]
 
 **ID:** `CO-LEC-11-2026-W10-analisis-de-discursos-y-retorica-001-MASTERY-v5`  
 **Bloom:** Understand  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -125,10 +134,10 @@ La reforma a la salud es un fracaso porque el gobierno anterior era corrupto y l
 
 ### Opciones
 
-- [ ] A) Falso dilema
-- [x] B) Ad hominem circunstancial
-- [ ] C) Generalización apresurada
-- [ ] D) Apelación a ignorancia
+- [ ] A) Falso dilema <!-- feedback: Incorrecto. Falso dilema -->
+- [x] B) Ad hominem circunstancial <!-- feedback: Correcto! Ad hominem circunstancial -->
+- [ ] C) Generalización apresurada <!-- feedback: Incorrecto. Generalización apresurada -->
+- [ ] D) Apelación a ignorancia <!-- feedback: Incorrecto. Apelación a ignorancia -->
 
 ### Explicación Pedagógica
 
@@ -136,10 +145,11 @@ Descalifica la propuesta por su origen, no por sus méritos intrínsecos.
 
 ---
 
-## Pregunta 6 [D3]
+## Question 6 [D3]
 
 **ID:** `CO-LEC-11-2026-W10-analisis-de-discursos-y-retorica-001-MASTERY-v6`  
 **Bloom:** Analyze  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -148,10 +158,10 @@ La JEP ha fracasado porque la derecha la critica por un lado y la izquierda por 
 
 ### Opciones
 
-- [x] A) Falso término medio
-- [ ] B) Ad hominem
-- [ ] C) Petición de principio
-- [ ] D) Post hoc
+- [x] A) Falso término medio <!-- feedback: Correcto! Falso término medio -->
+- [ ] B) Ad hominem <!-- feedback: Incorrecto. Ad hominem -->
+- [ ] C) Petición de principio <!-- feedback: Incorrecto. Petición de principio -->
+- [ ] D) Post hoc <!-- feedback: Incorrecto. Post hoc -->
 
 ### Explicación Pedagógica
 
@@ -159,10 +169,11 @@ Asume que críticas opuestas indican error; lógica del 'término medio falso'.
 
 ---
 
-## Pregunta 7 [D2]
+## Question 7 [D2]
 
 **ID:** `CO-LEC-11-2026-W10-analisis-de-discursos-y-retorica-001-MASTERY-v7`  
 **Bloom:** Understand  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -171,10 +182,10 @@ Un texto expositivo sobre Zonas Económicas Especiales: (1) Definición, (2) Ant
 
 ### Opciones
 
-- [ ] A) Causa-efecto
-- [x] B) Secuencia temática enumerativa
-- [ ] C) Comparación-contraste
-- [ ] D) Problema-solución
+- [ ] A) Causa-efecto <!-- feedback: Incorrecto. Causa-efecto -->
+- [x] B) Secuencia temática enumerativa <!-- feedback: Correcto! Secuencia temática enumerativa -->
+- [ ] C) Comparación-contraste <!-- feedback: Incorrecto. Comparación-contraste -->
+- [ ] D) Problema-solución <!-- feedback: Incorrecto. Problema-solución -->
 
 ### Explicación Pedagógica
 
@@ -182,10 +193,11 @@ La enumeración de temas es típica de textos expositivos que desglosan un tema.
 
 ---
 
-## Pregunta 8 [D2]
+## Question 8 [D2]
 
 **ID:** `CO-LEC-11-2026-W10-analisis-de-discursos-y-retorica-001-MASTERY-v8`  
 **Bloom:** Apply  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -194,10 +206,10 @@ Un estudiante defiende: «Regular redes sociales para proteger menores». ¿Cuá
 
 ### Opciones
 
-- [ ] A) 'Son adictivas'
-- [x] B) 72 % de menores reportó ciberacoso (Defensoría)
-- [ ] C) 'Todos deberían'
-- [ ] D) 'Mis amigos piensan'
+- [ ] A) 'Son adictivas' <!-- feedback: Incorrecto. 'Son adictivas' -->
+- [x] B) 72 % de menores reportó ciberacoso (Defensoría) <!-- feedback: Correcto! 72 % de menores reportó ciberacoso (Defensoría) -->
+- [ ] C) 'Todos deberían' <!-- feedback: Incorrecto. 'Todos deberían' -->
+- [ ] D) 'Mis amigos piensan' <!-- feedback: Incorrecto. 'Mis amigos piensan' -->
 
 ### Explicación Pedagógica
 
@@ -205,10 +217,11 @@ Dato cuantitativo verificable de fuente confiable que respalda la tesis.
 
 ---
 
-## Pregunta 9 [D3]
+## Question 9 [D3]
 
 **ID:** `CO-LEC-11-2026-W10-analisis-de-discursos-y-retorica-001-MASTERY-v9`  
 **Bloom:** Analyze  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -217,10 +230,10 @@ La Contraloría: 1 de cada 4 pesos de salud no se ejecutó por falta de capacida
 
 ### Opciones
 
-- [ ] A) EPS tienen demasiados pacientes
-- [x] B) Falta de capacidad impidió ejecutar fondos
-- [ ] C) El gobierno no giró recursos
-- [ ] D) Hospitales bloquearon pagos
+- [ ] A) EPS tienen demasiados pacientes <!-- feedback: Incorrecto. EPS tienen demasiados pacientes -->
+- [x] B) Falta de capacidad impidió ejecutar fondos <!-- feedback: Correcto! Falta de capacidad impidió ejecutar fondos -->
+- [ ] C) El gobierno no giró recursos <!-- feedback: Incorrecto. El gobierno no giró recursos -->
+- [ ] D) Hospitales bloquearon pagos <!-- feedback: Incorrecto. Hospitales bloquearon pagos -->
 
 ### Explicación Pedagógica
 
@@ -228,10 +241,11 @@ Relación causal directa: falta de capacidad administrativa → no ejecución pr
 
 ---
 
-## Pregunta 10 [D1]
+## Question 10 [D1]
 
 **ID:** `CO-LEC-11-2026-W10-analisis-de-discursos-y-retorica-001-MASTERY-v10`  
 **Bloom:** Remember  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -240,10 +254,10 @@ Una falacia lógica es:
 
 ### Opciones
 
-- [ ] A) Argumento verdadero pero mal presentado
-- [x] B) Error en el razonamiento que lo hace inválido
-- [ ] C) Figura retórica
-- [ ] D) Evidencia confirmada
+- [ ] A) Argumento verdadero pero mal presentado <!-- feedback: Incorrecto. Argumento verdadero pero mal presentado -->
+- [x] B) Error en el razonamiento que lo hace inválido <!-- feedback: Correcto! Error en el razonamiento que lo hace inválido -->
+- [ ] C) Figura retórica <!-- feedback: Incorrecto. Figura retórica -->
+- [ ] D) Evidencia confirmada <!-- feedback: Incorrecto. Evidencia confirmada -->
 
 ### Explicación Pedagógica
 

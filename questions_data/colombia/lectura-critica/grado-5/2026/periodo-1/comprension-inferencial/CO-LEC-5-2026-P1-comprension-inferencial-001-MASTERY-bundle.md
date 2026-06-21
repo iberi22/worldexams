@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-5-2026-P1-comprension-inferencial-001-MASTERY"
+id: "CO-LEC-5-2026-P1-comprension-inferencial-001-MASTERY-bundle"
 country: "colombia"
 grado: 5
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "comprensión inferencial, inferencias, predicciones, deducciones, conclusiones, información implícita"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G5: El Silencio de Samara
 
@@ -32,13 +39,14 @@ rubric_baseline: "comprensión inferencial, inferencias, predicciones, deduccion
 
 **ID:** `CO-LC-5-2026-P1-comprension-inferencial-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Comportamiento de Samara.
+**Contexto:** Comportamiento de Samara.
 
 ### Enunciado
 ¿Qué hizo Samara cuando sus amigos le dijeron "¡Buenos días!"?
 
-### Options
+### Opciones
 - [ ] A) Los saludó con entusiasmo. <!-- feedback: Incorrecto. Samara no saludó con entusiasmo; su reacción fue diferente. -->
 - [ ] B) Les dijo que no quería hablar. <!-- feedback: Incorrecto. Samara no dijo nada, solo sonrió y movió la mano. -->
 - [x] C) Solo sonrió y movió la mano, sin hablar. <!-- feedback: Correcto. El texto dice: "ella solo sonrió y movió la mano. No dijo una palabra". -->
@@ -53,13 +61,14 @@ Se evalúa la identificación de un hecho explícito. La respuesta describe exac
 
 **ID:** `CO-LC-5-2026-P1-comprension-inferencial-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Las acciones de Samara durante el día.
+**Contexto:** Las acciones de Samara durante el día.
 
 ### Enunciado
 ¿Qué detalles del texto indican que Samara no estaba bien?
 
-### Options
+### Opciones
 - [ ] A) Que llegó tarde al colegio. <!-- feedback: Incorrecto. El texto dice que "llegó temprano", no tarde. -->
 - [ ] B) Que estaba contenta y jugaba con todos. <!-- feedback: Incorrecto. Samara no estaba contenta ni jugó con los demás. -->
 - [x] C) Que sonrió sin hablar, no hizo educación física y no abrió su lonchera. <!-- feedback: Correcto. Estos tres detalles muestran que su comportamiento era inusual y que algo le pasaba. -->
@@ -74,13 +83,14 @@ Se evalúa la capacidad de reunir múltiples evidencias del texto para inferir u
 
 **ID:** `CO-LC-5-2026-P1-comprension-inferencial-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** La reacción de Mariana.
+**Contexto:** La reacción de Mariana.
 
 ### Enunciado
 ¿Cómo reaccionó Mariana al ver que Samara no estaba bien?
 
-### Options
+### Opciones
 - [ ] A) La llevó con la profesora inmediatamente. <!-- feedback: Incorrecto. Mariana no llevó a Samara con la profesora; se quedó con ella. -->
 - [ ] B) La ignoró para que se sintiera mejor sola. <!-- feedback: Incorrecto. Mariana no ignoró a su amiga; se acercó. -->
 - [x] C) Se sentó a su lado en silencio y la acompañó. <!-- feedback: Correcto. Mariana se sentó, preguntó si estaba bien y luego "se quedó en silencio a su lado". -->
@@ -95,13 +105,14 @@ Se evalúa la identificación de la acción de apoyo emocional que realiza Maria
 
 **ID:** `CO-LC-5-2026-P1-comprension-inferencial-001-MASTERY-v4`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Inferencia sobre el estado de Samara.
+**Contexto:** Inferencia sobre el estado de Samara.
 
 ### Enunciado
 ¿Por qué Samara apoyó su cabeza en el hombro de Mariana sin decir nada?
 
-### Options
+### Opciones
 - [ ] A) Porque tenía sueño. <!-- feedback: Incorrecto. Aunque podría tener sueño, el contexto indica una razón más profunda. -->
 - [ ] B) Porque Mariana se lo pidió. <!-- feedback: Incorrecto. Mariana solo preguntó si estaba bien, no le pidió que se apoyara. -->
 - [x] C) Porque el silencio y la compañía de Mariana le dieron la confianza para buscar consuelo. <!-- feedback: Correcto. El gesto de apoyar la cabeza es una forma no verbal de buscar consuelo, posible porque Mariana creó un espacio seguro. -->
@@ -116,13 +127,14 @@ Se evalúa la capacidad de inferir el significado de un gesto no verbal dentro d
 
 **ID:** `CO-LC-5-2026-P1-comprension-inferencial-001-MASTERY-v5`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Inferencia sobre Mariana.
+**Contexto:** Inferencia sobre Mariana.
 
 ### Enunciado
 ¿Qué cualidad de Mariana se muestra en la forma en que trató a Samara?
 
-### Options
+### Opciones
 - [ ] A) La impaciencia. <!-- feedback: Incorrecto. Mariana fue paciente; se quedó en silencio sin apurar a Samara. -->
 - [ ] B) La competitividad. <!-- feedback: Incorrecto. No hay competencia en la historia. -->
 - [x] C) La empatía y la paciencia. <!-- feedback: Correcto. Mariana supo esperar, no presionó y ofreció su compañía sin exigir palabras. -->
@@ -137,13 +149,14 @@ Se evalúa la inferencia de rasgos de personalidad a partir de las acciones de u
 
 **ID:** `CO-LC-5-2026-P1-comprension-inferencial-001-MASTERY-v6`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Inferencia sobre lo que pasó en casa.
+**Contexto:** Inferencia sobre lo que pasó en casa.
 
 ### Enunciado
 ¿Qué podemos inferir que ocurrió la noche anterior en casa de Samara?
 
-### Options
+### Opciones
 - [ ] A) Que su abuelo cocinó una cena especial. <!-- feedback: Incorrecto. No hay evidencia de eso. -->
 - [ ] B) Que Samara tuvo una pesadilla. <!-- feedback: Incorrecto. Samara no menciona una pesadilla. -->
 - [x] C) Que su abuelo fue hospitalizado de emergencia, causando preocupación en la familia. <!-- feedback: Correcto. Samara dice: "Anoche mi abuelo se fue al hospital. Mi mamá lloró toda la noche". Esto indica una situación médica seria. -->
@@ -158,13 +171,14 @@ Se evalúa la capacidad de inferir una situación a partir de la información re
 
 **ID:** `CO-LC-5-2026-P1-comprension-inferencial-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** El silencio de Samara.
+**Contexto:** El silencio de Samara.
 
 ### Enunciado
 ¿Por qué Samara no habló durante casi todo el día?
 
-### Options
+### Opciones
 - [ ] A) Porque estaba resfriada y no podía hablar. <!-- feedback: Incorrecto. No hay mención de enfermedad física. -->
 - [ ] B) Porque estaba enojada con sus amigos. <!-- feedback: Incorrecto. Samara no mostró enojo hacia nadie. -->
 - [ ] C) Porque estaba triste y preocupada por su abuelo, y las palabras no le salían. <!-- feedback: Correcto. La tristeza y la preocupación por su abuelo hospitalizado explican su silencio. -->
@@ -179,13 +193,14 @@ Se evalúa la inferencia de la causa del comportamiento de Samara. Su silencio n
 
 **ID:** `CO-LC-5-2026-P1-comprension-inferencial-001-MASTERY-v8`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** La frase de la profesora.
+**Contexto:** La frase de la profesora.
 
 ### Enunciado
 ¿Qué le dijo la profesora Elena a Samara cuando por fin habló?
 
-### Options
+### Opciones
 - [ ] A) "Tienes que ser más fuerte". <!-- feedback: Incorrecto. La profesora no dijo eso. -->
 - [ ] B) "Mañana será un día mejor". <!-- feedback: Incorrecto. La profesora no dijo esa frase. -->
 - [x] C) "A veces las palabras no salen, pero el corazón siempre encuentra la manera de hablar". <!-- feedback: Correcto. Esa es la frase exacta que la profesora le dijo a Samara. -->
@@ -200,13 +215,14 @@ Se evalúa la identificación de una cita textual importante del texto. La frase
 
 **ID:** `CO-LC-5-2026-P1-comprension-inferencial-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Significado de la frase final.
+**Contexto:** Significado de la frase final.
 
 ### Enunciado
 La profesora dice: "el corazón siempre encuentra la manera de hablar". ¿Qué quiere decir con esa frase en el contexto de la historia?
 
-### Options
+### Opciones
 - [ ] A) Que el corazón produce sonidos que se escuchan. <!-- feedback: Incorrecto. Es una frase metafórica, no literal. -->
 - [ ] B) Que Samara debe contarle todo a su mamá. <!-- feedback: Incorrecto. La profesora no está dando instrucciones específicas. -->
 - [x] C) Que aunque Samara no podía hablar con palabras, se comunicó a través de gestos y finalmente pudo expresar su dolor. <!-- feedback: Correcto. "El corazón habla" significa que los sentimientos se expresan de muchas formas: el silencio, las lágrimas, los gestos y finalmente las palabras. -->
@@ -221,13 +237,14 @@ Se evalúa la interpretación de una expresión metafórica en el contexto de la
 
 **ID:** `CO-LC-5-2026-P1-comprension-inferencial-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Mensaje del texto.
+**Contexto:** Mensaje del texto.
 
 ### Enunciado
 ¿Qué mensaje nos deja esta historia sobre la amistad?
 
-### Options
+### Opciones
 - [ ] A) Que los verdaderos amigos hablan todo el tiempo. <!-- feedback: Incorrecto. La historia muestra que a veces el silencio compartido es más valioso que las palabras. -->
 - [ ] B) Que hay que dejar solos a los amigos tristes. <!-- feedback: Incorrecto. Mariana no dejó sola a Samara; al contrario, la acompañó. -->
 - [x] C) Que la verdadera amistad se demuestra estando presente, incluso en silencio, cuando el otro lo necesita. <!-- feedback: Correcto. Mariana demostró su amistad al acompañar a Samara sin presionarla a hablar. -->

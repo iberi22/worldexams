@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-4-2026-P4-parrafo-idea-principal-001-MASTERY"
+id: "CO-LEC-4-2026-P4-parrafo-idea-principal-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "párrafo, idea principal, idea secundaria, organización del texto, resumen, estructura del párrafo"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4: Las Semillas del Patio
 
@@ -34,13 +41,14 @@ rubric_baseline: "párrafo, idea principal, idea secundaria, organización del t
 
 **ID:** `CO-LC-4-2026-P4-parrafo-idea-principal-001-MASTERY-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Idea principal del Párrafo 1.
+**Contexto:** Idea principal del Párrafo 1.
 
 ### Enunciado
 ¿Cuál es la idea principal del Párrafo 1?
 
-### Options
+### Opciones
 - [ ] A) Que el árbol de mango da mucha sombra. <!-- feedback: Incorrecto. Eso es un detalle del primer párrafo, pero no es la idea principal. -->
 - [ ] B) Que los niños comen onces bajo el árbol. <!-- feedback: Incorrecto. Esa es una acción que ocurre al inicio, pero no la idea central del párrafo. -->
 - [x] C) Que la profesora Diana creó el proyecto "Semillas del Patio" para que los niños aprendieran a sembrar. <!-- feedback: Correcto. La idea principal del párrafo es el inicio del proyecto, que transforma el uso del espacio. -->
@@ -55,13 +63,14 @@ Se evalúa la capacidad de identificar la idea más importante de un párrafo. L
 
 **ID:** `CO-LC-4-2026-P4-parrafo-idea-principal-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Idea principal del Párrafo 2.
+**Contexto:** Idea principal del Párrafo 2.
 
 ### Enunciado
 ¿De qué trata principalmente el Párrafo 2?
 
-### Options
+### Opciones
 - [ ] A) De las frutas que crecen en el colegio. <!-- feedback: Incorrecto. El párrafo habla de sembrar, no de frutas que ya existen. -->
 - [ ] B) De cómo los niños sembraron sus semillas y aprendieron sobre el cuidado de las plantas. <!-- feedback: Correcto. El párrafo describe la siembra y los requisitos de las plantas. -->
 - [ ] C) De la profesora Diana y su vida personal. <!-- feedback: Incorrecto. El párrafo no habla de la vida personal de la profesora. -->
@@ -76,13 +85,14 @@ Se evalúa la identificación del tema del segundo párrafo. La respuesta correc
 
 **ID:** `CO-LC-4-2026-P4-parrafo-idea-principal-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Idea principal del Párrafo 3.
+**Contexto:** Idea principal del Párrafo 3.
 
 ### Enunciado
 Según el Párrafo 3, ¿cuál fue el resultado del proyecto después de dos meses?
 
-### Options
+### Opciones
 - [ ] A) El proyecto fracasó y las plantas murieron. <!-- feedback: Incorrecto. El texto dice que el jardín estaba "lleno de vida". -->
 - [x] B) El jardín estaba lleno de vida y los niños vieron crecer sus plantas. <!-- feedback: Correcto. El párrafo describe que los tomates tenían frutos, las zanahorias asomaban y las aromáticas olían bien. -->
 - [ ] C) El árbol de mango dio más frutos que antes. <!-- feedback: Incorrecto. No se menciona que el árbol de mango haya dado más frutos. -->
@@ -97,13 +107,14 @@ Se evalúa la identificación de los resultados descritos en el párrafo final. 
 
 **ID:** `CO-LC-4-2026-P4-parrafo-idea-principal-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Ideas secundarias del Párrafo 2.
+**Contexto:** Ideas secundarias del Párrafo 2.
 
 ### Enunciado
 Según el Párrafo 2, ¿qué tres cosas necesitan las plantas para crecer?
 
-### Options
+### Opciones
 - [ ] A) Tierra, sol y abono químico. <!-- feedback: Incorrecto. El texto menciona "abono orgánico" como enseñanza, pero los tres requisitos son otros. -->
 - [ ] B) Agua, semillas y tijeras. <!-- feedback: Incorrecto. Las tijeras no son necesarias para el crecimiento de las plantas. -->
 - [x] C) Agua, luz del sol y tierra nutritiva. <!-- feedback: Correcto. El Párrafo 2 dice: "Las plantas necesitan tres cosas para crecer: agua, luz del sol y tierra nutritiva". -->
@@ -118,13 +129,14 @@ Se evalúa la identificación de un detalle secundario que apoya la idea princip
 
 **ID:** `CO-LC-4-2026-P4-parrafo-idea-principal-001-MASTERY-v5`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Jerarquía de información en el texto completo.
+**Contexto:** Jerarquía de información en el texto completo.
 
 ### Enunciado
 De las siguientes opciones, ¿cuál es la idea principal de TODO el texto "Las Semillas del Patio"?
 
-### Options
+### Opciones
 - [ ] A) Los niños comen onces bajo el árbol de mango. <!-- feedback: Incorrecto. Eso solo es un detalle del inicio. -->
 - [ ] B) Camila sembró tomates y Andrés sembró zanahorias. <!-- feedback: Incorrecto. Es un ejemplo específico, no la idea central del texto completo. -->
 - [x] C) Los estudiantes aprendieron a sembrar y a trabajar en equipo a través del proyecto "Semillas del Patio". <!-- feedback: Correcto. Esta oración resume el inicio, desarrollo y resultado del proyecto. -->
@@ -139,13 +151,14 @@ Se evalúa la capacidad de sintetizar la idea principal de un texto de múltiple
 
 **ID:** `CO-LC-4-2026-P4-parrafo-idea-principal-001-MASTERY-v6`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Función del Párrafo 1.
+**Contexto:** Función del Párrafo 1.
 
 ### Enunciado
 ¿Cuál es la función principal del Párrafo 1 dentro del texto?
 
-### Options
+### Opciones
 - [ ] A) Describir cómo hacer abono orgánico. <!-- feedback: Incorrecto. El abono se menciona en el Párrafo 2, no en el 1. -->
 - [ ] B) Contar los resultados finales del proyecto. <!-- feedback: Incorrecto. Los resultados están en el Párrafo 3. -->
 - [x] C) Presentar la situación inicial y el origen del proyecto. <!-- feedback: Correcto. El Párrafo 1 presenta el lugar, los personajes y cómo nació la idea del proyecto. -->
@@ -160,13 +173,14 @@ Se evalúa la comprensión de la función de un párrafo dentro de la estructura
 
 **ID:** `CO-LC-4-2026-P4-parrafo-idea-principal-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Detalles del Párrafo 2.
+**Contexto:** Detalles del Párrafo 2.
 
 ### Enunciado
 ¿Qué tipo de abono usaron los niños para preparar la tierra?
 
-### Options
+### Opciones
 - [ ] A) Abono químico comprado en la tienda. <!-- feedback: Incorrecto. El texto no menciona abono comprado. -->
 - [ ] B) Abono de hojas secas del árbol de mango. <!-- feedback: Incorrecto. No se menciona ese tipo de abono específicamente. -->
 - [x] C) Abono orgánico hecho de cáscaras de fruta y restos de comida. <!-- feedback: Correcto. El Párrafo 2 dice: "abono orgánico hecho de cáscaras de fruta y restos de comida". -->
@@ -181,13 +195,14 @@ Se evalúa la localización de un detalle específico. La información sobre el 
 
 **ID:** `CO-LC-4-2026-P4-parrafo-idea-principal-001-MASTERY-v8`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Resumen del Párrafo 3.
+**Contexto:** Resumen del Párrafo 3.
 
 ### Enunciado
 Según el Párrafo 3, ¿qué aprendieron los niños además de a sembrar?
 
-### Options
+### Opciones
 - [ ] A) A cocinar con los ingredientes del jardín. <!-- feedback: Incorrecto. No se menciona cocinar en el texto. -->
 - [ ] B) A dibujar plantas y flores. <!-- feedback: Incorrecto. No hay actividad artística mencionada. -->
 - [x] C) A tener paciencia y a trabajar en equipo. <!-- feedback: Correcto. El Párrafo 3 concluye: "El proyecto no solo enseñó a sembrar, sino también a tener paciencia y a trabajar en equipo". -->
@@ -202,13 +217,14 @@ Se evalúa la identificación de la conclusión del texto. La respuesta correcta
 
 **ID:** `CO-LC-4-2026-P4-parrafo-idea-principal-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Estructura del texto.
+**Contexto:** Estructura del texto.
 
 ### Enunciado
 Si el texto tuviera un Párrafo 4, ¿qué información podría contener según lo que has leído?
 
-### Options
+### Opciones
 - [ ] A) La historia de otro colegio en otra ciudad. <!-- feedback: Posible pero menos probable, ya que el texto se enfoca en un solo proyecto. -->
 - [ ] B) Cómo construir un árbol de mango. <!-- feedback: Incorrecto. No se puede construir un árbol. -->
 - [x] C) Cómo los niños compartieron lo aprendido con sus familias en casa. <!-- feedback: Posible y coherente, ya que el proyecto podría extenderse al hogar como consecuencia natural. -->
@@ -223,13 +239,14 @@ Se evalúa la capacidad de predecir información coherente con la estructura y t
 
 **ID:** `CO-LC-4-2026-P4-parrafo-idea-principal-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Organización del texto.
+**Contexto:** Organización del texto.
 
 ### Enunciado
 ¿Qué tipo de organización siguen los párrafos del texto?
 
-### Options
+### Opciones
 - [ ] A) Los párrafos están en orden alfabético. <!-- feedback: Incorrecto. No hay orden alfabético en los párrafos. -->
 - [ ] B) Los párrafos dan instrucciones paso a paso. <!-- feedback: Incorrecto. No es un texto instructivo. -->
 - [x] C) Los párrafos siguen un orden cronológico: inicio del proyecto, desarrollo y resultados. <!-- feedback: Correcto. Párrafo 1 presenta el inicio, Párrafo 2 el desarrollo de la siembra, Párrafo 3 los resultados después de dos meses. -->

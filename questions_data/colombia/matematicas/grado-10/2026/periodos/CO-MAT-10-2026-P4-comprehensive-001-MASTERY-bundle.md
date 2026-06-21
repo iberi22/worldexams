@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-10-2026-P4-comprehensive-001-MASTERY"
+id: "CO-MAT-10-2026-P4-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 10
 asignatura: "matematicas"
@@ -19,7 +19,12 @@ rubric_baseline: "derivadas_basicas, reglas_derivacion, distribucion_normal, pro
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 20
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Derivadas Básicas, Probabilidad y Distribuciones, Geometría Vectorial
 
@@ -33,12 +38,12 @@ Bundle de periodo 4 para grado 10, alineado con DBA MEN y preparación Pre-Saber
 **Bloom:** Remember
 **ICFES:** Comunicación y Representación
 
-**Context:** En una clase de probabilidad en el Colegio San José de Sincelejo, el profesor explica la distribución binomial.
+**Contexto:** En una clase de probabilidad en el Colegio San José de Sincelejo, el profesor explica la distribución binomial.
 
 ### Enunciado
 ¿Cuáles son los parámetros de una distribución binomial?
 
-### Options
+### Opciones
 - [ ] A) Media y desviación estándar. <!-- feedback: Incorrecto. Esos son parámetros de la distribución normal, no de la binomial. -->
 - [x] B) n (número de ensayos) y p (probabilidad de éxito). <!-- feedback: Correcto. La distribución binomial está completamente determinada por n y p. -->
 - [ ] C) λ (tasa promedio) y t (tiempo). <!-- feedback: Incorrecto. Esos son parámetros de la distribución Poisson. -->
@@ -55,12 +60,12 @@ La distribución binomial modela el número de éxitos en n ensayos independient
 **Bloom:** Remember
 **ICFES:** Comunicación y Representación
 
-**Context:** En cálculo diferencial, se presentan las reglas básicas de derivación a los estudiantes de grado 10.
+**Contexto:** En cálculo diferencial, se presentan las reglas básicas de derivación a los estudiantes de grado 10.
 
 ### Enunciado
 ¿Cuál es la derivada de f(x) = 3x⁵?
 
-### Options
+### Opciones
 - [ ] A) 5x⁴ <!-- feedback: Incorrecto. Olvidaste multiplicar por el coeficiente 3. -->
 - [ ] B) 3x⁴ <!-- feedback: Incorrecto. Aplicaste mal la regla de la potencia: d/dx(xⁿ) = nxⁿ⁻¹, no xⁿ⁻¹. -->
 - [x] C) 15x⁴ <!-- feedback: Correcto. f'(x) = 3·5x⁴ = 15x⁴. -->
@@ -77,12 +82,12 @@ La regla de la potencia establece que d/dx(cxⁿ) = c·n·xⁿ⁻¹. Se multipli
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 
-**Context:** Una empresa en Bogotá sabe que el 5% de sus productos tiene defectos. El control de calidad inspecciona una muestra de 20 productos.
+**Contexto:** Una empresa en Bogotá sabe que el 5% de sus productos tiene defectos. El control de calidad inspecciona una muestra de 20 productos.
 
 ### Enunciado
 Usando la distribución binomial, ¿cuál es la probabilidad de que exactamente 2 productos sean defectuosos?
 
-### Options
+### Opciones
 - [ ] A) C(20,1)·(0.05)¹·(0.95)¹⁹ <!-- feedback: Incorrecto. Esta fórmula corresponde a exactamente 1 defectuoso. -->
 - [x] B) C(20,2)·(0.05)²·(0.95)¹⁸ <!-- feedback: Correcto. P(X=2) = C(20,2)·(0.05)²·(0.95)¹⁸. -->
 - [ ] C) C(20,2)·(0.95)²·(0.05)¹⁸ <!-- feedback: Incorrecto. La probabilidad de éxito (defecto) es 0.05, no 0.95. -->
@@ -99,12 +104,12 @@ La probabilidad binomial es P(X=k) = C(n,k)·pᵏ·(1-p)ⁿ⁻ᵏ, donde C(n,k)=
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 
-**Context:** En geometría vectorial, se estudia la ecuación de una circunferencia.
+**Contexto:** En geometría vectorial, se estudia la ecuación de una circunferencia.
 
 ### Enunciado
 La ecuación (x - 2)² + (y + 3)² = 25 representa una circunferencia. ¿Cuáles son su centro y radio?
 
-### Options
+### Opciones
 - [ ] A) Centro (2, -3), radio 25 <!-- feedback: Incorrecto. El radio es la raíz cuadrada del término derecho: √25 = 5. -->
 - [ ] B) Centro (-2, 3), radio 5 <!-- feedback: Incorrecto. El centro se determina cambiando el signo: (x-h)² → h=2, (y-k)² → k=-3. Centro (2,-3). -->
 - [x] C) Centro (2, -3), radio 5 <!-- feedback: Correcto. (x-2)²+(y+3)²=25, centro (2, -3), radio = √25 = 5. -->
@@ -121,12 +126,12 @@ La ecuación canónica de la circunferencia es (x-h)²+(y-k)²=r², con centro (
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 
-**Context:** Un estudiante calcula la derivada de f(x) = x⁴ + 3x² - 2x + 7 en el Colegio Jorge Isaacs de Cali.
+**Contexto:** Un estudiante calcula la derivada de f(x) = x⁴ + 3x² - 2x + 7 en el Colegio Jorge Isaacs de Cali.
 
 ### Enunciado
 ¿Cuál es f'(x)?
 
-### Options
+### Opciones
 - [ ] A) 4x³ + 6x - 2 + 7 <!-- feedback: Incorrecto. La derivada de una constante (7) es 0, no se mantiene. -->
 - [ ] B) 4x³ + 3x² - 2x <!-- feedback: Incorrecto. Error en las reglas: d/dx(3x²)=6x, no 3x². -->
 - [x] C) 4x³ + 6x - 2 <!-- feedback: Correcto. d/dx(x⁴)=4x³, d/dx(3x²)=6x, d/dx(-2x)=-2, d/dx(7)=0. -->
@@ -143,12 +148,12 @@ La derivación es lineal: la derivada de una suma es la suma de las derivadas. S
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Las calificaciones de un examen de matemáticas en un colegio de Bucaramanga siguen una distribución normal con media 65 y desviación estándar 10.
+**Contexto:** Las calificaciones de un examen de matemáticas en un colegio de Bucaramanga siguen una distribución normal con media 65 y desviación estándar 10.
 
 ### Enunciado
 Usando la regla empírica (68-95-99.7), ¿aproximadamente qué porcentaje de estudiantes obtuvo entre 55 y 85 puntos?
 
-### Options
+### Opciones
 - [ ] A) 68% <!-- feedback: Incorrecto. 68% corresponde a μ±σ = [55,75], no [55,85]. -->
 - [ ] B) 95% <!-- feedback: Incorrecto. 95% corresponde a μ±2σ = [45,85]. El intervalo [55,85] va de μ-σ a μ+2σ. -->
 - [x] C) 81.5% <!-- feedback: Correcto. [55,85] = [μ-σ, μ+2σ]. Dentro de μ±σ: 68%. Entre μ+σ y μ+2σ: 13.5%. Total: 34% (de μ a μ+σ) + 34% (μ-σ a μ) + 13.5% (μ+σ a μ+2σ) = 81.5%. -->
@@ -165,12 +170,12 @@ La regla empírica de la distribución normal: 68% de los datos están a 1σ de 
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 
-**Context:** Se quiere encontrar la ecuación de la recta tangente a f(x) = x² en x = 3.
+**Contexto:** Se quiere encontrar la ecuación de la recta tangente a f(x) = x² en x = 3.
 
 ### Enunciado
 ¿Cuál es la ecuación de la recta tangente a f(x) = x² en x = 3?
 
-### Options
+### Opciones
 - [ ] A) y = 2x - 9 <!-- feedback: Incorrecto. Pendiente f'(3)=6. f(3)=9. y-9=6(x-3), y=6x-9. -->
 - [x] B) y = 6x - 9 <!-- feedback: Correcto. f'(x)=2x, f'(3)=6. f(3)=9. Ecuación: y-9=6(x-3) → y=6x-9. -->
 - [ ] C) y = 6x + 9 <!-- feedback: Incorrecto. Error en el intercepto: y-9=6(x-3) → y=6x-18+9=6x-9. -->
@@ -187,12 +192,12 @@ La recta tangente en x=a tiene pendiente f'(a) y pasa por (a, f(a)). Su ecuació
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Se lanza una moneda 10 veces. X = número de caras obtenidas.
+**Contexto:** Se lanza una moneda 10 veces. X = número de caras obtenidas.
 
 ### Enunciado
 ¿Cuál es la probabilidad de obtener exactamente 6 caras?
 
-### Options
+### Opciones
 - [ ] A) 0.1172 <!-- feedback: Incorrecto. Este valor corresponde a P(X=5) o P(X=6) mal calculado. -->
 - [x] B) 0.2051 <!-- feedback: Correcto. P(X=6) = C(10,6)·(0.5)¹⁰ = 210·(0.5)¹⁰ = 210/1024 = 0.2051. -->
 - [ ] C) 0.3760 <!-- feedback: Incorrecto. Probabilidad sobreestimada. -->
@@ -209,12 +214,12 @@ Para una moneda justa (p=0.5), la probabilidad binomial simplifica a P(X=k)=C(n,
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 
-**Context:** La ecuación x² + y² + 6x - 4y - 12 = 0 representa una circunferencia. Se debe transformar a su forma canónica.
+**Contexto:** La ecuación x² + y² + 6x - 4y - 12 = 0 representa una circunferencia. Se debe transformar a su forma canónica.
 
 ### Enunciado
 Al completar cuadrados en x² + y² + 6x - 4y - 12 = 0, ¿cuál es la ecuación canónica resultante?
 
-### Options
+### Opciones
 - [ ] A) (x+3)² + (y-2)² = 25 <!-- feedback: Correcto. (x²+6x+9) + (y²-4y+4) = 12+9+4 → (x+3)²+(y-2)²=25. -->
 - [ ] B) (x+3)² + (y-2)² = 12 <!-- feedback: Incorrecto. Faltan los términos añadidos al completar cuadrados en el lado derecho. -->
 - [ ] C) (x-3)² + (y+2)² = 25 <!-- feedback: Incorrecto. Signos incorrectos en el centro: x²+6x → (x+3)², no (x-3)². -->
@@ -231,12 +236,12 @@ Para completar cuadrados: agrupa términos en x y en y. (x²+6x) → (x+3)²-9, 
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 
-**Context:** En un laboratorio de biología en la Universidad del Cauca, se analiza la velocidad de crecimiento de una bacteria con ecuación de posición s(t) = t³ - 6t² + 9t.
+**Contexto:** En un laboratorio de biología en la Universidad del Cauca, se analiza la velocidad de crecimiento de una bacteria con ecuación de posición s(t) = t³ - 6t² + 9t.
 
 ### Enunciado
 ¿Cuál es la función velocidad v(t) = s'(t)?
 
-### Options
+### Opciones
 - [ ] A) v(t) = t² - 12t + 9 <!-- feedback: Incorrecto. Error: d/dt(t³)=3t², no t². -->
 - [x] B) v(t) = 3t² - 12t + 9 <!-- feedback: Correcto. v(t)=ds/dt=3t²-12t+9. -->
 - [ ] C) v(t) = 3t² - 12t <!-- feedback: Incorrecto. La derivada de 9t es 9, no 0. -->
@@ -253,12 +258,12 @@ En cinemática, la velocidad es la derivada de la posición respecto al tiempo. 
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 
-**Context:** Un fabricante de llantas en Medellín sabe que el 2% de sus llantas tiene defectos. Se venden 100 llantas.
+**Contexto:** Un fabricante de llantas en Medellín sabe que el 2% de sus llantas tiene defectos. Se venden 100 llantas.
 
 ### Enunciado
 Usando la aproximación de Poisson a la binomial (λ=np=2), ¿cuál es la probabilidad aproximada de que exactamente 3 llantas tengan defectos?
 
-### Options
+### Opciones
 - [ ] A) 0.1353 <!-- feedback: Incorrecto. P(X=3)=e⁻²·(2³/3!) = e⁻²·8/6 = 0.1353·1.333=0.1804. -->
 - [x] B) 0.1804 <!-- feedback: Correcto. λ=2. P(X=3) = e⁻²·2³/3! = 0.1353·8/6 = 0.1804. -->
 - [ ] C) 0.2707 <!-- feedback: Incorrecto. Probablemente P(X=2)=e⁻²·2²/2! = 0.2707, no P(X=3). -->
@@ -275,12 +280,12 @@ La distribución de Poisson aproxima la binomial cuando n es grande y p pequeño
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Se analiza el comportamiento de la función f(x) = x³ - 3x² + 2.
+**Contexto:** Se analiza el comportamiento de la función f(x) = x³ - 3x² + 2.
 
 ### Enunciado
 ¿En qué puntos la recta tangente a f(x) = x³ - 3x² + 2 tiene pendiente 0?
 
-### Options
+### Opciones
 - [ ] A) x = 0 y x = 3 <!-- feedback: Incorrecto. f'(x)=3x²-6x=3x(x-2)=0 → x=0, x=2. -->
 - [x] B) x = 0 y x = 2 <!-- feedback: Correcto. f'(x)=3x²-6x=3x(x-2)=0. Las soluciones son x=0 y x=2. -->
 - [ ] C) x = 1 <!-- feedback: Incorrecto. f'(1)=3-6=-3≠0. -->
@@ -297,12 +302,12 @@ Los puntos donde la recta tangente es horizontal corresponden a los puntos crít
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 
-**Context:** Las estaturas de los estudiantes de grado 10 en un colegio de Pasto siguen una distribución normal con μ=165 cm y σ=8 cm.
+**Contexto:** Las estaturas de los estudiantes de grado 10 en un colegio de Pasto siguen una distribución normal con μ=165 cm y σ=8 cm.
 
 ### Enunciado
 ¿Qué porcentaje de estudiantes mide más de 173 cm? (z=(173-165)/8=1.0, P(Z>1.0)=0.1587)
 
-### Options
+### Opciones
 - [ ] A) 34.13% <!-- feedback: Incorrecto. 34.13% es el área entre la media y z=1. -->
 - [x] B) 15.87% <!-- feedback: Correcto. z=1. P(Z>1)=0.5-P(0<Z<1)=0.5-0.3413=0.1587. -->
 - [ ] C) 84.13% <!-- feedback: Incorrecto. Este es P(Z<1)=0.8413, el complemento. -->
@@ -319,12 +324,12 @@ Para calcular probabilidades en la normal, estandarizamos: z=(x-μ)/σ. Luego se
 **Bloom:** Evaluate
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Un estudiante afirma que la ecuación 4x² + 9y² = 36 representa una circunferencia.
+**Contexto:** Un estudiante afirma que la ecuación 4x² + 9y² = 36 representa una circunferencia.
 
 ### Enunciado
 Evalúa la afirmación del estudiante. ¿Qué representa realmente la ecuación 4x² + 9y² = 36?
 
-### Options
+### Opciones
 - [ ] A) Sí, es una circunferencia de radio 6. <!-- feedback: Incorrecto. Una circunferencia requiere coeficientes iguales para x² e y². -->
 - [ ] B) Es una hipérbola. <!-- feedback: Incorrecto. La hipérbola tiene signo menos entre los términos cuadráticos. -->
 - [x] C) Es una elipse. <!-- feedback: Correcto. x²/9 + y²/4 = 1. Los coeficientes son positivos pero diferentes, formando una elipse con semiejes a=3, b=2. -->
@@ -341,12 +346,12 @@ Dividiendo por 36: x²/9 + y²/4 = 1. Es una elipse con centro en (0,0), semieje
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Se define la variable aleatoria X = número de caras al lanzar 3 monedas. Se pide analizar su distribución de probabilidad.
+**Contexto:** Se define la variable aleatoria X = número de caras al lanzar 3 monedas. Se pide analizar su distribución de probabilidad.
 
 ### Enunciado
 ¿Cuál es el valor esperado E[X] y la varianza Var(X)?
 
-### Options
+### Opciones
 - [ ] A) E[X]=1.5, Var(X)=0.75 <!-- feedback: Correcto. n=3, p=0.5. E[X]=np=1.5. Var(X)=np(1-p)=3·0.5·0.5=0.75. -->
 - [ ] B) E[X]=1.5, Var(X)=1.5 <!-- feedback: Incorrecto. Var(X)=np(1-p)=0.75, no 1.5. -->
 - [ ] C) E[X]=3, Var(X)=0.75 <!-- feedback: Incorrecto. np=3·0.5=1.5, no 3. -->
@@ -363,12 +368,12 @@ Para una variable binomial: E[X] = np y Var(X) = np(1-p). Con n=3 y p=0.5, E[X]=
 **Bloom:** Evaluate
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** En un examen, los estudiantes deben determinar si la función f(x) = x³/3 - 4x tiene un máximo o mínimo local en x=2.
+**Contexto:** En un examen, los estudiantes deben determinar si la función f(x) = x³/3 - 4x tiene un máximo o mínimo local en x=2.
 
 ### Enunciado
 Usando la derivada, ¿qué tipo de punto crítico tiene f(x)=x³/3-4x en x=2?
 
-### Options
+### Opciones
 - [ ] A) Máximo local. <!-- feedback: Incorrecto. f'(x)=x²-4=0 → x=±2. f''(x)=2x. f''(2)=4>0 → mínimo local. -->
 - [x] B) Mínimo local. <!-- feedback: Correcto. f'(x)=x²-4=0 en x=±2. f''(x)=2x. f''(2)=4>0, cóncava hacia arriba → mínimo local. -->
 - [ ] C) Punto de inflexión. <!-- feedback: Incorrecto. f''(2)=4≠0, no es punto de inflexión. El punto de inflexión está en x=0 donde f''(x)=0. -->
@@ -385,12 +390,12 @@ La prueba de la segunda derivada: si f'(c)=0 y f''(c)>0, es mínimo local. Si f'
 **Bloom:** Evaluate
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Estudiantes debaten sobre la veracidad de: "La derivada de f(x)g(x) es f'(x)g'(x)".
+**Contexto:** Estudiantes debaten sobre la veracidad de: "La derivada de f(x)g(x) es f'(x)g'(x)".
 
 ### Enunciado
 Evalúa la afirmación. ¿Cuál es la regla correcta para derivar el producto de dos funciones?
 
-### Options
+### Opciones
 - [ ] A) (fg)' = f'g' <!-- feedback: Incorrecto. Esta es una creencia errónea común. La derivada del producto no es el producto de las derivadas. -->
 - [ ] B) (fg)' = f'g + fg' <!-- feedback: Correcto. Esta es la regla del producto. Ejemplo: (x²·x³)' = 2x·x³ + x²·3x² = 2x⁴+3x⁴=5x⁴, y la derivada de x⁵=5x⁴. -->
 - [ ] C) (fg)' = f' + g' <!-- feedback: Incorrecto. Eso es la derivada de la suma, no del producto. -->
@@ -407,12 +412,12 @@ La regla del producto: (f·g)' = f'·g + f·g'. No confundir con la regla de la 
 **Bloom:** Evaluate
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Un estudio afirma que el 30% de los estudiantes de grado 10 en Colombia tiene acceso a internet de alta velocidad. Se encuesta a 50 estudiantes y 10 tienen acceso.
+**Contexto:** Un estudio afirma que el 30% de los estudiantes de grado 10 en Colombia tiene acceso a internet de alta velocidad. Se encuesta a 50 estudiantes y 10 tienen acceso.
 
 ### Enunciado
 Con α=0.05, ¿hay evidencia para rechazar la afirmación de que p=0.30? (z*₁.₉₆)
 
-### Options
+### Opciones
 - [ ] A) Sí, porque p̂=0.2 < 0.3. <!-- feedback: Incorrecto. La evidencia no es solo por el valor puntual. -->
 - [ ] B) No, porque z = -1.54 está en la región de no rechazo. <!-- feedback: Correcto. z=(0.2-0.3)/√(0.3·0.7/50) = -0.1/0.0648 = -1.543. |-1.543|<1.96 → no se rechaza H₀. -->
 - [ ] C) Sí, porque el valor p es 0.06 > 0.05. <!-- feedback: Incorrecto. Si valor p > α, no se rechaza H₀. -->
@@ -429,12 +434,12 @@ En prueba de hipótesis para proporción: z=(p̂-p₀)/√(p₀(1-p₀)/n). Si |
 **Bloom:** Create
 **ICFES:** Formulación y Ejecución
 
-**Context:** Un diseñador gráfico en Bogotá necesita crear una curva parabólica que pase por (0, 0) y (4, 0) con vértice en (2, 8).
+**Contexto:** Un diseñador gráfico en Bogotá necesita crear una curva parabólica que pase por (0, 0) y (4, 0) con vértice en (2, 8).
 
 ### Enunciado
 Determina la ecuación de la parábola que pasa por (0,0) y (4,0) con vértice en (2,8).
 
-### Options
+### Opciones
 - [x] A) y = -2(x-2)² + 8 <!-- feedback: Correcto. Forma canónica y=a(x-h)²+k. Vértice (2,8). Con (0,0): 0=a(0-2)²+8 → 0=4a+8 → a=-2. -->
 - [ ] B) y = 2(x-2)² + 8 <!-- feedback: Incorrecto. a positiva da parábola abierta hacia arriba, pero el vértice es el máximo, así que a debe ser negativa. -->
 - [ ] C) y = -(x-2)² + 8 <!-- feedback: Incorrecto. Con a=-1, en x=0: y=-(4)+8=4≠0. -->
@@ -451,12 +456,12 @@ La ecuación canónica de la parábola es y = a(x-h)² + k con vértice (h,k). S
 **Bloom:** Evaluate
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Una empresa de logística en Barranquilla modela sus costos de producción como C(x)=1000+50x-0.1x², donde x es el número de unidades. El ingreso es I(x)=120x-0.2x².
+**Contexto:** Una empresa de logística en Barranquilla modela sus costos de producción como C(x)=1000+50x-0.1x², donde x es el número de unidades. El ingreso es I(x)=120x-0.2x².
 
 ### Enunciado
 ¿Cuál es el nivel de producción que maximiza la ganancia G(x) = I(x) - C(x)?
 
-### Options
+### Opciones
 - [ ] A) x=100 unidades <!-- feedback: Incorrecto. G(x)=120x-0.2x²-1000-50x+0.1x² = -0.1x²+70x-1000. G'(x)=-0.2x+70=0 → x=350. -->
 - [ ] B) x=200 unidades <!-- feedback: Incorrecto. G'(x)=0 → x=350. -->
 - [x] C) x=350 unidades <!-- feedback: Correcto. G(x)=120x-0.2x²-1000-50x+0.1x² = -0.1x²+70x-1000. G'(x)=-0.2x+70=0 → x=350. G''(350)=-0.2<0 → máximo. -->

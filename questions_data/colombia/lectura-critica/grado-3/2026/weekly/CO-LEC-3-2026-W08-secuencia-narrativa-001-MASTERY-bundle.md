@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W08-secuencia-narrativa-001-MASTERY"
+id: "CO-LEC-3-2026-W08-secuencia-narrativa-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 8
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Secuencia Narrativa
 
@@ -25,6 +30,7 @@ Este bundle evalúa la capacidad de ordenar los hechos de una historia en el tie
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **La mañana de Camilo**
@@ -33,7 +39,7 @@ Camilo se despertó muy temprano. Primero, se lavó los dientes y se bañó. Des
 ### Enunciado
 ¿Qué hizo Camilo **justo antes** de sentarse a desayunar?
 
-### Options
+### Opciones
 - [ ] A) Lavarse los dientes. <!-- feedback: Incorrecto. Eso fue lo primero que hizo, no lo que hizo justo antes de desayunar. -->
 - [x] B) Ponerse el uniforme. <!-- feedback: ¡Correcto! El texto dice que "después" se puso el uniforme y "finalmente" desayunó. -->
 - [ ] C) Bañarse. <!-- feedback: Incorrecto. Bañarse fue parte de lo primero que hizo. -->
@@ -49,6 +55,7 @@ Identificar el orden temporal de acciones simples es una habilidad fundamental d
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **El Ciclo de la Planta**
@@ -57,7 +64,7 @@ Para tener una planta, primero debemos sembrar la semilla en la tierra. Luego, d
 ### Enunciado
 ¿Cuál es el **primer paso** para tener una planta según el texto?
 
-### Options
+### Opciones
 - [ ] A) Regarla con mucha agua. <!-- feedback: Incorrecto. El agua se pone después de que la semilla ya está en la tierra. -->
 - [x] B) Sembrar la semilla en la tierra. <!-- feedback: ¡Correcto! El texto inicia con esta acción necesaria para comenzar el proceso. -->
 - [ ] C) Ver las hojas verdes. <!-- feedback: Incorrecto. Esto es el resultado final del proceso. -->
@@ -73,6 +80,7 @@ Reconocer el inicio de un proceso o narración es clave para la comprensión est
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Mira estas tres acciones desordenadas de un partido de fútbol:
@@ -83,7 +91,7 @@ Mira estas tres acciones desordenadas de un partido de fútbol:
 ### Enunciado
 ¿Cuál es el orden lógico en el que ocurrieron estos hechos?
 
-### Options
+### Opciones
 - [ ] A) 1, 2, 3 <!-- feedback: Incorrecto. El final (1) no puede ocurrir antes que el inicio (2). -->
 - [ ] B) 3, 1, 2 <!-- feedback: Incorrecto. El gol no puede ser antes de que los jugadores salgan a la cancha. -->
 - [x] C) 2, 3, 1 <!-- feedback: ¡Correcto! Primero salen a jugar (2), luego ocurre el juego donde hay goles (3) y finalmente termina el partido (1). -->
@@ -99,6 +107,7 @@ Organizar eventos basados en el conocimiento del mundo y la lógica temporal des
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "El panadero preparó la masa con harina y levadura. Después de dejarla reposar, la metió al horno caliente. Al cabo de unos minutos, el aroma a pan recién horneado inundó toda la panadería".
@@ -106,7 +115,7 @@ Organizar eventos basados en el conocimiento del mundo y la lógica temporal des
 ### Enunciado
 ¿Qué pasó **después** de dejar reposar la masa?
 
-### Options
+### Opciones
 - [ ] A) El panadero compró la harina. <!-- feedback: Incorrecto. Eso tuvo que pasar antes de preparar la masa. -->
 - [x] B) Metió la masa al horno. <!-- feedback: ¡Correcto! El texto indica que esta acción sigue al tiempo de reposo de la masa. -->
 - [ ] C) La gente se comió el pan. <!-- feedback: Incorrecto. El texto solo llega hasta el aroma del pan, no menciona que lo comieran. -->
@@ -122,6 +131,7 @@ Seguir la secuencia de un proceso de producción (como hacer pan) ayuda a los es
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En un cuento de misterio: "Al entrar a la vieja casona, escuchamos un ruido extraño. Antes de que pudiéramos prender la linterna, una sombra cruzó velozmente el pasillo. Nos quedamos inmóviles del susto".
@@ -129,7 +139,7 @@ En un cuento de misterio: "Al entrar a la vieja casona, escuchamos un ruido extr
 ### Enunciado
 ¿Qué evento ocurrió **primero**: la sombra cruzó el pasillo o se prendió la linterna?
 
-### Options
+### Opciones
 - [ ] A) Se prendió la linterna. <!-- feedback: Incorrecto. El texto dice "antes de que pudiéramos...", lo que significa que no alcanzaron a prenderla cuando pasó la sombra. -->
 - [x] B) La sombra cruzó el pasillo. <!-- feedback: ¡Correcto! La sombra pasó antes de que tuvieran oportunidad de encender la luz. -->
 - [ ] C) Ambas cosas pasaron al mismo tiempo. <!-- feedback: Incorrecto. El texto marca una prioridad temporal de la sombra sobre la acción de la linterna. -->
@@ -145,6 +155,7 @@ El uso de conectores temporales como "antes de que" puede ser confuso. Identific
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Observa la estructura de esta receta de ensalada de frutas:
@@ -156,7 +167,7 @@ Observa la estructura de esta receta de ensalada de frutas:
 ### Enunciado
 ¿Por qué es importante seguir este orden y no empezar por el paso 3?
 
-### Options
+### Opciones
 - [ ] A) Porque el tazón se puede romper. <!-- feedback: Incorrecto. El orden no tiene que ver con la resistencia del tazón. -->
 - [x] B) Porque no se puede mezclar la fruta si antes no ha sido lavada, pelada y picada. <!-- feedback: ¡Correcto! Los pasos 1 y 2 son necesarios para poder realizar el paso 3 con éxito. -->
 - [ ] C) Porque el paso 3 es el más difícil de todos. <!-- feedback: Incorrecto. No se trata de dificultad, sino de lógica en la preparación. -->
@@ -172,6 +183,7 @@ Analizar la lógica de una secuencia ayuda a los estudiantes a entender la relac
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **La Aventura del Viaje**
@@ -180,7 +192,7 @@ Analizar la lógica de una secuencia ayuda a los estudiantes a entender la relac
 ### Enunciado
 ¿Cuál es el orden real en el que ocurrieron estos hechos, aunque el texto los cuente en un orden diferente?
 
-### Options
+### Opciones
 - [ ] A) Llegada a Cartagena -> Viaje en bus -> Revisión de maletas. <!-- feedback: Incorrecto. Este es el orden en que aparecen en el texto, pero no como pasaron en la realidad. -->
 - [x] B) Revisión de maletas -> Viaje en bus -> Llegada a Cartagena. <!-- feedback: ¡Correcto! Lógicamente, primero se empaca, luego se viaja y al final se llega al destino. -->
 - [ ] C) Viaje en bus -> Revisión de maletas -> Llegada a Cartagena. <!-- feedback: Incorrecto. Uno no revisa las maletas de la casa en medio del viaje en bus. -->
@@ -196,6 +208,7 @@ A veces los autores cuentan las historias empezando por el final o usando recuer
 **Bloom:** Evaluate
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un cuento cuenta que un niño sacó una mala nota en una evaluación porque no estudió. Antes del examen, se quedó jugando videojuegos hasta tarde. Sus padres le habían advertido que debía prepararse.
@@ -203,7 +216,7 @@ Un cuento cuenta que un niño sacó una mala nota en una evaluación porque no e
 ### Enunciado
 ¿Cuál fue la **causa inicial** que desencadenó el problema de la mala nota?
 
-### Options
+### Opciones
 - [ ] A) La evaluación estaba muy difícil. <!-- feedback: Incorrecto. El texto dice que fue porque no estudió. -->
 - [x] B) La decisión del niño de jugar videojuegos en lugar de estudiar. <!-- feedback: ¡Correcto! Esta acción previa fue la que impidió el estudio y provocó la mala calificación. -->
 - [ ] C) Que los padres no le ayudaron. <!-- feedback: Incorrecto. Los padres sí le advirtieron que debía estudiar. -->

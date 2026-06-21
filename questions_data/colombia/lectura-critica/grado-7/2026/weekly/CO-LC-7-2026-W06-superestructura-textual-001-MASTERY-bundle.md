@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY"
+id: "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "superestructura-textual"
-semana: "W06"
+week: "W06"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Superestructura Textual - Grado 7
 ## Semana W06 — Organización global de los textos
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comunicativa — lextora
-**Context:** En la clase de Lectura Crítica del Colegio Alfonso López Pumarejo de Valledupar, la profesora explica que la superestructura textual es el "esqueleto" del texto.
+**Contexto:** En la clase de Lectura Crítica del Colegio Alfonso López Pumarejo de Valledupar, la profesora explica que la superestructura textual es el "esqueleto" del texto.
 **Expected_Success:** 0.86
 
 ### Enunciado
@@ -39,11 +43,11 @@ La superestructura textual es el "esqueleto" del texto: el esquema organizativo 
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comunicativa — lextora
-**Context:** En clase de Lengua del Colegio San José de Montería, los estudiantes identifican las partes de un cuento tradicional que acaban de leer.
+**Contexto:** En clase de Lengua del Colegio San José de Montería, los estudiantes identifican las partes de un cuento tradicional que acaban de leer.
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -60,11 +64,11 @@ La superestructura narrativa organiza el relato en tres momentos: 1) Situación 
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Comunicativa — lextora
-**Context:** En el colegio de Cartagena, el profesor de Ciencias Sociales organiza el tema "La Independencia de Colombia" usando: Causas → Desarrollo → Consecuencias → Personajes principales.
+**Contexto:** En el colegio de Cartagena, el profesor de Ciencias Sociales organiza el tema "La Independencia de Colombia" usando: Causas → Desarrollo → Consecuencias → Personajes principales.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -81,11 +85,11 @@ Dentro de la superestructura expositiva, existen varios esquemas de organizació
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicativa — crítica
-**Context:** Camila lee un editorial del periódico El Heraldo de Barranquilla que presenta: 1) Un hecho noticioso, 2) La opinión del medio, 3) Argumentos que la respaldan, 4) Una conclusión con llamado a la acción.
+**Contexto:** Camila lee un editorial del periódico El Heraldo de Barranquilla que presenta: 1) Un hecho noticioso, 2) La opinión del medio, 3) Argumentos que la respaldan, 4) Una conclusión con llamado a la acción.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -102,11 +106,11 @@ El editorial es un género periodístico de opinión que sigue una superestructu
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Comunicativa — analítica
-**Context:** En el colegio María Auxiliadora de Bucaramanga, los estudiantes analizan una receta de cocina típica colombiana (bandeja paisa).
+**Contexto:** En el colegio María Auxiliadora de Bucaramanga, los estudiantes analizan una receta de cocina típica colombiana (bandeja paisa).
 **Expected_Success:** 0.77
 
 ### Enunciado
@@ -123,11 +127,11 @@ La superestructura de los textos instructivos (como recetas, manuales, guías) s
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — crítica
-**Context:** En el colegio José Celestino Mutis de Bogotá, el profesor presenta un texto que NO sigue la superestructura narrativa esperada: comienza por el final ("El detective descubrió que el mayordomo fue el culpable"), luego vuelve al principio.
+**Contexto:** En el colegio José Celestino Mutis de Bogotá, el profesor presenta un texto que NO sigue la superestructura narrativa esperada: comienza por el final ("El detective descubrió que el mayordomo fue el culpable"), luego vuelve al principio.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -144,11 +148,11 @@ La superestructura narrativa puede alterarse intencionalmente para crear efectos
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — analítica
-**Context:** En clase de Lectura Crítica del Colegio Inem de Ibagué, los estudiantes analizan la siguiente estructura: "¿Deben los estudiantes usar uniforme? Algunos dicen que sí, porque fomenta igualdad. Otros dicen que no, porque limita la expresión individual. Analicemos ambos lados."
+**Contexto:** En clase de Lectura Crítica del Colegio Inem de Ibagué, los estudiantes analizan la siguiente estructura: "¿Deben los estudiantes usar uniforme? Algunos dicen que sí, porque fomenta igualdad. Otros dicen que no, porque limita la expresión individual. Analicemos ambos lados."
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -165,11 +169,11 @@ Dentro de la superestructura expositiva, existe un esquema de "organización por
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — crítica
-**Context:** Felipe encuentra un texto que dice: "El problema de la basura en Bogotá es grave. Cada día se generan 6.300 toneladas de residuos. Una posible solución es implementar el reciclaje obligatorio en todos los hogares, lo que reduciría los desechos en un 30%."
+**Contexto:** Felipe encuentra un texto que dice: "El problema de la basura en Bogotá es grave. Cada día se generan 6.300 toneladas de residuos. Una posible solución es implementar el reciclaje obligatorio en todos los hogares, lo que reduciría los desechos en un 30%."
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -186,11 +190,11 @@ La superestructura "problema-solución" es muy efectiva porque: 1) Capta la aten
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Comunicativa — lextora
-**Context:** En el colegio de Sincelejo, el profesor de Ciencias Naturales entrega un texto sobre la digestión: "El proceso digestivo comienza en la boca, donde los dientes trituran los alimentos. Luego, el bolo alimenticio pasa al esófago. Después, llega al estómago, donde los jugos gástricos lo descomponen."
+**Contexto:** En el colegio de Sincelejo, el profesor de Ciencias Naturales entrega un texto sobre la digestión: "El proceso digestivo comienza en la boca, donde los dientes trituran los alimentos. Luego, el bolo alimenticio pasa al esófago. Después, llega al estómago, donde los jugos gástricos lo descomponen."
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -207,11 +211,11 @@ La superestructura de "secuencia temporal" o "proceso" organiza la información 
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — analítica
-**Context:** En la clase de Lectura Crítica del Colegio San Carlos de Medellín, los estudiantes comparan la estructura de un cuento clásico con la de un video de TikTok que cuenta una historia.
+**Contexto:** En la clase de Lectura Crítica del Colegio San Carlos de Medellín, los estudiantes comparan la estructura de un cuento clásico con la de un video de TikTok que cuenta una historia.
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ La superestructura de un texto puede verse afectada por el medio y el formato. U
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — crítica
-**Context:** En el colegio de Armenia, el profesor de sociales muestra un texto sobre la Constitución de 1991 que está organizado así: Preámbulo → Títulos → Capítulos → Artículos.
+**Contexto:** En el colegio de Armenia, el profesor de sociales muestra un texto sobre la Constitución de 1991 que está organizado así: Preámbulo → Títulos → Capítulos → Artículos.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -249,11 +253,11 @@ Los textos legales y normativos tienen una superestructura jerárquica caracter�
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — analítica
-**Context:** En el colegio de Pamplona, la profesora presenta un texto cuyo esquema es: Anécdota personal → Pregunta retórica → Datos estadísticos → Análisis → Conclusión con llamado a la acción.
+**Contexto:** En el colegio de Pamplona, la profesora presenta un texto cuyo esquema es: Anécdota personal → Pregunta retórica → Datos estadísticos → Análisis → Conclusión con llamado a la acción.
 **Expected_Success:** 0.34
 
 ### Enunciado

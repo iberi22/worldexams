@@ -1,28 +1,32 @@
 ---
-id: "CO-LEN-6-2026-W17-poesia-001-MASTERY"
+id: "CO-LEN-6-2026-W17-poesia-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lengua"
 tema: "poesia"
-semana: "W17"
+week: "W17"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: La Poesía - Grado 6
 ## Semana W17
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEN-6-2026-W17-poesia-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio Santa Clara de Bogotá, la profesora Ana inicia la clase de poesía preguntando sobre sus elementos básicos.
+**Contexto:** En el Colegio Santa Clara de Bogotá, la profesora Ana inicia la clase de poesía preguntando sobre sus elementos básicos.
 **Expected_Success:** 0.86
 
 ### Enunciado
@@ -39,11 +43,11 @@ El poema está compuesto por versos (cada línea) y estrofas (grupos de versos s
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEN-6-2026-W17-poesia-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En la Institución Educativa San Juan de Pasto, los estudiantes aprenden la diferencia entre prosa y verso.
+**Contexto:** En la Institución Educativa San Juan de Pasto, los estudiantes aprenden la diferencia entre prosa y verso.
 **Expected_Success:** 0.84
 
 ### Enunciado
@@ -60,11 +64,11 @@ La poesía es un género literario que se caracteriza por su estructura en verso
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEN-6-2026-W17-poesia-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Liceo de la Universidad de Medellín, los estudiantes leen el poema "Nocturno" de José Asunción Silva.
+**Contexto:** En el Colegio Liceo de la Universidad de Medellín, los estudiantes leen el poema "Nocturno" de José Asunción Silva.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ José Asunción Silva (1865-1896) es uno de los poetas colombianos más importan
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEN-6-2026-W17-poesia-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En la I.E. José Celestino Mutis de Bucaramanga, los estudiantes identifican la rima en un poema.
+**Contexto:** En la I.E. José Celestino Mutis de Bucaramanga, los estudiantes identifican la rima en un poema.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -102,11 +106,11 @@ La rima se clasifica en: consonante (coinciden vocales y consonantes desde la ú
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEN-6-2026-W17-poesia-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la Institución Educativa María Montessori de Cartagena, los estudiantes analizan los recursos poéticos en la obra de Porfirio Barba-Jacob.
+**Contexto:** En la Institución Educativa María Montessori de Cartagena, los estudiantes analizan los recursos poéticos en la obra de Porfirio Barba-Jacob.
 **Expected_Success:** 0.71
 
 ### Enunciado
@@ -123,11 +127,11 @@ La metáfora es una figura literaria que consiste en trasladar el significado de
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LEN-6-2026-W17-poesia-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio San Jorge de Sincelejo, los estudiantes clasifican estrofas según su número de versos.
+**Contexto:** En el Colegio San Jorge de Sincelejo, los estudiantes clasifican estrofas según su número de versos.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -144,11 +148,11 @@ Las estrofas se clasifican por número de versos: pareado (2), terceto (3), cuar
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LEN-6-2026-W17-poesia-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En el Colegio Británico de Medellín, los estudiantes deben escribir versos con un número específico de sílabas.
+**Contexto:** En el Colegio Británico de Medellín, los estudiantes deben escribir versos con un número específico de sílabas.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ La métrica en poesía sigue reglas especiales: la sinalefa (unión de vocal fin
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEN-6-2026-W17-poesia-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. Rafael Núñez de Sincelejo, los estudiantes analizan el poema "Canción del boga ausente" de Candelario Obeso.
+**Contexto:** En la I.E. Rafael Núñez de Sincelejo, los estudiantes analizan el poema "Canción del boga ausente" de Candelario Obeso.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -186,11 +190,11 @@ Candelario Obeso fue un poeta colombiano pionero en incorporar el habla y la cul
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEN-6-2026-W17-poesia-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio Nuestra Señora de Chiquinquirá de Manizales, los estudiantes discuten la vigencia de la poesía en el siglo XXI.
+**Contexto:** En el Colegio Nuestra Señora de Chiquinquirá de Manizales, los estudiantes discuten la vigencia de la poesía en el siglo XXI.
 **Expected_Success:** 0.53
 
 ### Enunciado
@@ -207,11 +211,11 @@ La poesía contemporánea ha encontrado nuevas formas de expresión y difusión.
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEN-6-2026-W17-poesia-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio Cooperativo Comfenalco de Ibagué, los estudiantes crean poemas sobre su región.
+**Contexto:** En el Colegio Cooperativo Comfenalco de Ibagué, los estudiantes crean poemas sobre su región.
 **Expected_Success:** 0.46
 
 ### Enunciado

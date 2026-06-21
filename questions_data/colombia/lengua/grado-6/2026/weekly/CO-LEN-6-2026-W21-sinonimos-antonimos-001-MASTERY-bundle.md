@@ -1,28 +1,32 @@
 ---
-id: "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY"
+id: "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lengua"
 tema: "sinonimos-antonimos"
-semana: "W21"
+week: "W21"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Sinónimos y Antónimos - Grado 6
 ## Semana W21
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio La Presentación de Bogotá, la profesora Julia inicia la clase de sinónimos y antónimos.
+**Contexto:** En el Colegio La Presentación de Bogotá, la profesora Julia inicia la clase de sinónimos y antónimos.
 **Expected_Success:** 0.87
 
 ### Enunciado
@@ -39,11 +43,11 @@ Los sinónimos son palabras que comparten un significado semejante. Es important
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En la Institución Educativa San José de Sincelejo, los estudiantes repasan los antónimos.
+**Contexto:** En la Institución Educativa San José de Sincelejo, los estudiantes repasan los antónimos.
 **Expected_Success:** 0.86
 
 ### Enunciado
@@ -60,11 +64,11 @@ Los antónimos expresan oposición de significados. Se clasifican en: antónimos
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Gabriel García Márquez de Medellín, los estudiantes identifican sinónimos en un texto.
+**Contexto:** En el Colegio Gabriel García Márquez de Medellín, los estudiantes identifican sinónimos en un texto.
 **Expected_Success:** 0.79
 
 ### Enunciado
@@ -81,11 +85,11 @@ Los sinónimos permiten evitar la repetición excesiva de palabras y enriquecer 
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En la I.E. Normal Superior de Montería, los estudiantes buscan antónimos de palabras dadas.
+**Contexto:** En la I.E. Normal Superior de Montería, los estudiantes buscan antónimos de palabras dadas.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -102,11 +106,11 @@ Encontrar antónimos requiere entender el significado exacto de la palabra. "Gen
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio San Lucas de Cartagena, los estudiantes analizan el uso de antónimos en un texto literario.
+**Contexto:** En el Colegio San Lucas de Cartagena, los estudiantes analizan el uso de antónimos en un texto literario.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -123,11 +127,11 @@ El uso literario de antónimos se llama antítesis. Consiste en contraponer dos 
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Cooperativo de Yopal, los estudiantes clasifican pares de palabras.
+**Contexto:** En el Colegio Cooperativo de Yopal, los estudiantes clasifican pares de palabras.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -144,11 +148,11 @@ Existen diferentes tipos de sinonimia: total (cuando los significados son idént
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En el Colegio Colombo Británico de Pereira, los estudiantes mejoran un texto usando sinónimos.
+**Contexto:** En el Colegio Colombo Británico de Pereira, los estudiantes mejoran un texto usando sinónimos.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Usar sinónimos es una técnica fundamental para mejorar la redacción. "Bueno" 
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. Francisco José de Caldas de Barranquilla, los estudiantes analizan un texto periodístico.
+**Contexto:** En la I.E. Francisco José de Caldas de Barranquilla, los estudiantes analizan un texto periodístico.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ Los antónimos son una herramienta poderosa en la argumentación porque crean co
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio Champagnat de Neiva, los estudiantes discuten la importancia de los sinónimos y antónimos.
+**Contexto:** En el Colegio Champagnat de Neiva, los estudiantes discuten la importancia de los sinónimos y antónimos.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ El vocabulario es una herramienta de precisión. Mientras más palabras conozca 
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio Los Andes de Duitama, los estudiantes crean un juego de sinónimos y antónimos.
+**Contexto:** En el Colegio Los Andes de Duitama, los estudiantes crean un juego de sinónimos y antónimos.
 **Expected_Success:** 0.48
 
 ### Enunciado

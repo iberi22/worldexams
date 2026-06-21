@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W40-repaso-final-001-MASTERY"
+id: "CO-LEC-3-2026-W40-repaso-final-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 40
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso Final de Grado 3
 
@@ -25,6 +30,7 @@ Este bundle integra los conocimientos más importantes del año: tipos de textos
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Érase una vez una oruga que soñaba con volar. Después de mucho tiempo de comer y descansar en su crisálida, por fin despertó con alas de colores y se elevó hacia el sol".
@@ -32,7 +38,7 @@ Este bundle integra los conocimientos más importantes del año: tipos de textos
 ### Enunciado
 ¿A qué género pertenece este texto y cuál es su estructura?
 
-### Options
+### Opciones
 - [ ] A) Poesía, con versos y rimas. <!-- feedback: Incorrecto. El texto está escrito en prosa y cuenta una historia cronológica. -->
 - [x] B) Narrativo (Cuento), con inicio, nudo y desenlace. <!-- feedback: ¡Correcto! Cuenta la transformación de un personaje a través de una secuencia de hechos. -->
 - [ ] C) Informativo, con datos científicos sobre insectos. <!-- feedback: Incorrecto. El lenguaje es literario y fantástico ("soñaba con volar"). -->
@@ -48,6 +54,7 @@ Repaso de géneros narrativos (Semana 6). Identificar la estructura de cuento pe
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Aviso en el tablero:** "Mañana es el día del Jean en el colegio. Los estudiantes pueden venir con ropa de calle pagando $2.000 pesos para el fondo de la fiesta de fin de año".
@@ -55,7 +62,7 @@ Repaso de géneros narrativos (Semana 6). Identificar la estructura de cuento pe
 ### Enunciado
 ¿Cuál es la **condición** para que un estudiante pueda venir con ropa de calle mañana?
 
-### Options
+### Opciones
 - [ ] A) Que sea su cumpleaños. <!-- feedback: Incorrecto. El aviso no menciona fechas de nacimiento. -->
 - [ ] B) Que traiga jeans de color azul únicamente. <!-- feedback: Incorrecto. "Día del Jean" es el nombre de la actividad, pero no se especifica el color. -->
 - [x] C) Pagar dos mil pesos para la fiesta de fin de año. <!-- feedback: ¡Correcto! El texto establece este requisito económico para participar en la actividad. -->
@@ -71,6 +78,7 @@ Repaso de comprensión literal y condiciones (Semana 17). Localizar los requisit
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "El Amazonas es el pulmón del mundo. Sus selvas ayudan a limpiar el aire que todos respiramos. Sin embargo, la tala de árboles está poniendo en peligro este tesoro de la naturaleza".
@@ -78,7 +86,7 @@ Repaso de comprensión literal y condiciones (Semana 17). Localizar los requisit
 ### Enunciado
 ¿Qué significa la expresión "**pulmón del mundo**" aplicada al Amazonas?
 
-### Options
+### Opciones
 - [ ] A) Que el Amazonas tiene forma de pulmón humano. <!-- feedback: Incorrecto. Es una comparación por la función, no por la forma física. -->
 - [x] B) Que es un lugar vital que produce oxígeno y ayuda a la respiración del planeta. <!-- feedback: ¡Correcto! Se usa la función del órgano (respirar) como metáfora de la función de la selva. -->
 - [ ] C) Que el Amazonas sufre de enfermedades respiratorias. <!-- feedback: Incorrecto. La metáfora es sobre su importancia positiva para la vida. -->
@@ -94,6 +102,7 @@ Repaso de lenguaje figurado (Semana 30). Comprender metáforas ambientales comun
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **RECETA DE BATIDO:**
@@ -105,7 +114,7 @@ Repaso de lenguaje figurado (Semana 30). Comprender metáforas ambientales comun
 ### Enunciado
 Si un niño sirve la leche en el vaso **antes** de licuar las fresas, ¿qué pasó con la secuencia?
 
-### Options
+### Opciones
 - [ ] A) La receta quedó perfecta y más rica. <!-- feedback: Incorrecto. Si no licúa las fresas, el batido no se hará. -->
 - [x] B) Se saltó el paso de la licuadora, por lo que las fresas quedarán enteras y no será un batido. <!-- feedback: ¡Correcto! El orden de los pasos es fundamental para obtener el producto deseado en un instructivo. -->
 - [ ] C) La leche se convertirá en jugo automáticamente. <!-- feedback: Incorrecto. Se necesita la acción mecánica de la licuadora mencionada. -->
@@ -121,6 +130,7 @@ Repaso de instrucciones y secuencias (Semana 13). Evaluar el impacto de alterar 
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En un aviso del periódico escolar:
@@ -130,7 +140,7 @@ En un aviso del periódico escolar:
 ### Enunciado
 ¿Cómo ayuda la **imagen** a que el mensaje del texto sea más fuerte?
 
-### Options
+### Opciones
 - [ ] A) Mostrando que al niño le gusta estar solo. <!-- feedback: Incorrecto. El texto habla de acoso, por lo que la soledad es negativa en este contexto. -->
 - [x] B) Mostrando el sentimiento de tristeza que produce el maltrato, para que los lectores sientan empatía. <!-- feedback: ¡Correcto! La imagen emocional refuerza la necesidad de la orden de "Di NO". -->
 - [ ] C) Enseñando a los niños a sentarse bien en las bancas. <!-- feedback: Incorrecto. El objetivo del mensaje es social y de convivencia, no de postura física. -->
@@ -146,6 +156,7 @@ Repaso de textos multimodales (Semana 36). Analizar la carga emocional de las im
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Los mamíferos son animales que tienen pelo y alimentan a sus crías con leche. Por ejemplo, el perro, el gato y el ser humano son mamíferos. Sin embargo, la ballena y el delfín también lo son, aunque vivan en el agua y no tengan mucho pelo".
@@ -153,7 +164,7 @@ Repaso de textos multimodales (Semana 36). Analizar la carga emocional de las im
 ### Enunciado
 ¿Cuál es la **idea principal** de este texto informativo?
 
-### Options
+### Opciones
 - [ ] A) Que a los gatos les gusta tomar leche. <!-- feedback: Incorrecto. Es un detalle sobre un animal, no la idea de todo el grupo. -->
 - [x] B) Las características que definen a los mamíferos y algunos ejemplos de animales que pertenecen a este grupo. <!-- feedback: ¡Correcto! El texto explica la regla (pelo y leche) y da ejemplos variados terrestres y acuáticos. -->
 - [ ] C) Que las ballenas son peces gigantes. <!-- feedback: Incorrecto. El texto dice precisamente que son mamíferos. -->
@@ -169,6 +180,7 @@ Repaso de idea principal y textos expositivos (Semanas 18 y 33). El estudiante d
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Comparación de dos textos sobre el mismo hecho:**
@@ -178,7 +190,7 @@ Repaso de idea principal y textos expositivos (Semanas 18 y 33). El estudiante d
 ### Enunciado
 ¿En qué se diferencian estos dos textos?
 
-### Options
+### Opciones
 - [ ] A) El Texto 1 es una opinión y el Texto 2 es una noticia. <!-- feedback: Incorrecto. Es al revés: el 1 da datos y el 2 da una opinión crítica. -->
 - [x] B) El Texto 1 informa los hechos con números, mientras el Texto 2 critica el comportamiento de los dueños. <!-- feedback: ¡Correcto! Diferencia claramente entre información objetiva y juicio de valor/opinión. -->
 - [ ] C) Los dos textos son cuentos infantiles sobre veterinarios. <!-- feedback: Incorrecto. Ninguno de los dos tiene estructura de narración de ficción. -->
@@ -194,6 +206,7 @@ Repaso de géneros periodísticos (Semanas 23 y 35). Contrastar la objetividad d
 **Bloom:** Evaluate
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un autor escribe: "**Los cuentos de hadas son mejores que los libros de ciencias porque tienen magia y finales felices**".
@@ -201,7 +214,7 @@ Un autor escribe: "**Los cuentos de hadas son mejores que los libros de ciencias
 ### Enunciado
 ¿Cuál es un contra-argumento válido para defender los **libros de ciencias**?
 
-### Options
+### Opciones
 - [ ] A) Los libros de ciencias son más pesados que los de cuentos. <!-- feedback: Incorrecto. El peso no es un valor positivo para defender su importancia. -->
 - [ ] B) Los finales felices no existen en la vida real. <!-- feedback: Incorrecto. Es una opinión negativa que no resalta el valor de la ciencia. -->
 - [x] C) Los libros de ciencias son importantes porque nos enseñan cómo funciona el mundo real basándose en hechos y descubrimientos verdaderos. <!-- feedback: ¡Correcto! Resalta el valor del conocimiento y la verdad frente a la fantasía del otro género. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W08-potenciacion-conceptos-001-MASTERY"
+id: "CO-MAT-6-2026-W08-potenciacion-conceptos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W08 — Potenciacion: Conceptos
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W08-potenciacion-conceptos-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Concepto de base y exponente
+**Contexto:** Concepto de base y exponente
 
 ### Enunciado
 En la expresion 5³, ¿que significa el numero 3?
 
-### Options
+### Opciones
 - [ ] A) La base, que es el numero que se multiplica <!-- feedback: Incorrect. Confundir base y exponente. En 5³, el 5 es la base y el 3 es el exponente. -->
 - [x] B) El exponente, que indica cuantas veces se multiplica la base por si misma <!-- feedback: Correct. En 5³, el 3 es el exponente. Significa 5×5×5. -->
 - [ ] C) El resultado de la multiplicacion <!-- feedback: Incorrect. El resultado de 5³ es 125. El 3 es el exponente, no el resultado. -->
@@ -48,13 +51,14 @@ En la potenciacion, la expresion 5³ se lee "5 elevado a la 3" o "5 al cubo". El
 
 **ID:** `CO-MAT-6-2026-W08-potenciacion-conceptos-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Lectura de potencias
+**Contexto:** Lectura de potencias
 
 ### Enunciado
 ¿Como se lee correctamente la expresion 2⁴?
 
-### Options
+### Opciones
 - [ ] A) Dos por cuatro <!-- feedback: Incorrect. Eso seria una multiplicacion (2×4), no una potencia. 2⁴ es "2 elevado a la 4". -->
 - [x] B) Dos elevado a la cuatro <!-- feedback: Correct. 2⁴ se lee "dos elevado a la cuatro" o "dos a la cuarta potencia". -->
 - [ ] C) Dos mas cuatro <!-- feedback: Incorrect. Eso seria una suma (2+4). La potencia usa exponente, no suma. -->
@@ -73,13 +77,14 @@ Las potencias se leen de forma especial segun el exponente:
 
 **ID:** `CO-MAT-6-2026-W08-potenciacion-conceptos-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Calcular potencias simples
+**Contexto:** Calcular potencias simples
 
 ### Enunciado
 ¿Cual es el resultado de 3²?
 
-### Options
+### Opciones
 - [ ] A) 6 <!-- feedback: Incorrect. Confundir potencia con multiplicacion: 3×2=6. 3² es 3×3=9. -->
 - [x] B) 9 <!-- feedback: Correct. 3² = 3 × 3 = 9. -->
 - [ ] C) 5 <!-- feedback: Incorrect. Sumar 3+2=5. La potencia es multiplicacion repetida, no suma. -->
@@ -94,13 +99,14 @@ Las potencias se leen de forma especial segun el exponente:
 
 **ID:** `CO-MAT-6-2026-W08-potenciacion-conceptos-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Potencias de 10
+**Contexto:** Potencias de 10
 
 ### Enunciado
 ¿A cuanto equivale 10³?
 
-### Options
+### Opciones
 - [ ] A) 30 <!-- feedback: Incorrect. Multiplicar 10×3=30. 10³ es 10×10×10=1.000. -->
 - [x] B) 100 <!-- feedback: Incorrect. Eso es 10² (10×10=100). 10³ es 10×10×10=1.000. El exponente 3 significa 3 ceros despues del 1. -->
 - [ ] C) 1.000 <!-- feedback: Correct. 10³ = 10×10×10 = 1.000. -->
@@ -117,13 +123,14 @@ El exponente indica cuantos ceros van despues del 1: 10³ = 1 seguido de 3 ceros
 
 **ID:** `CO-MAT-6-2026-W08-potenciacion-conceptos-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Potencias y area de un cuadrado
+**Contexto:** Potencias y area de un cuadrado
 
 ### Enunciado
 Un cuadrado tiene 4 cm de lado. ¿Cual es su area? (Recuerda: area del cuadrado = lado²)
 
-### Options
+### Opciones
 - [x] A) 16 cm² <!-- feedback: Correct. Area = 4² = 4×4 = 16 cm². -->
 - [ ] B) 8 cm² <!-- feedback: Incorrect. Multiplicar 4×2=8. El area es lado al cuadrado, no lado por 2. 4² = 4×4 = 16. -->
 - [ ] C) 12 cm² <!-- feedback: Incorrect. Sumar 4+4+4=12. El area del cuadrado es lado×lado = 4×4 = 16. -->
@@ -140,13 +147,14 @@ La expresion "al cuadrado" viene precisamente de calcular el area de un cuadrado
 
 **ID:** `CO-MAT-6-2026-W08-potenciacion-conceptos-006-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Potencias y volumen de un cubo
+**Contexto:** Potencias y volumen de un cubo
 
 ### Enunciado
 Un cubo tiene 3 cm de arista. ¿Cual es su volumen? (Recuerda: volumen del cubo = arista³)
 
-### Options
+### Opciones
 - [ ] A) 9 cm³ <!-- feedback: Incorrect. 3²=9 (area de una cara). El volumen es 3³ = 3×3×3 = 27 cm³. -->
 - [x] B) 27 cm³ <!-- feedback: Correct. Volumen = 3³ = 3×3×3 = 27 cm³. -->
 - [ ] C) 6 cm³ <!-- feedback: Incorrect. 3×2=6. Confundir potencia con multiplicacion simple. 3³ es multiplicar 3 por si mismo 3 veces. -->
@@ -163,13 +171,14 @@ La expresion "al cubo" viene de calcular el volumen de un cubo. 3³ se lee "3 al
 
 **ID:** `CO-MAT-6-2026-W08-potenciacion-conceptos-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Bacterias que se duplican
+**Contexto:** Bacterias que se duplican
 
 ### Enunciado
 En un experimento de ciencias, hay 2 bacterias que se duplican cada hora. ¿Cuantas bacterias habra despues de 5 horas?
 
-### Options
+### Opciones
 - [ ] A) 10 bacterias <!-- feedback: Incorrect. Multiplicar 2×5=10. La duplicacion es exponencial: 2⁵ = 32, no lineal. -->
 - [ ] B) 25 bacterias <!-- feedback: Incorrect. Confundir 5² con 2⁵. 5²=25 (seria si cada bacteria produjera 5 nuevas). 2⁵=2×2×2×2×2=32. -->
 - [x] C) 32 bacterias <!-- feedback: Correct. Despues de 5 horas: 2⁵ = 2×2×2×2×2 = 32 bacterias. -->
@@ -191,13 +200,14 @@ Despues de 5 horas habra 32 bacterias.
 
 **ID:** `CO-MAT-6-2026-W08-potenciacion-conceptos-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Mensajes en cadena
+**Contexto:** Mensajes en cadena
 
 ### Enunciado
 Sofia envia un mensaje a 3 amigos. Cada amigo lo reenvia a 3 personas diferentes, y asi sucesivamente. ¿Cuantas personas recibiran el mensaje en la tercera ronda de reenvios?
 
-### Options
+### Opciones
 - [ ] A) 9 personas <!-- feedback: Incorrect. Eso es 3²=9 (segunda ronda). La tercera ronda es 3³=27. -->
 - [x] B) 27 personas <!-- feedback: Correct. Tercera ronda: 3³ = 3×3×3 = 27 personas. -->
 - [ ] C) 6 personas <!-- feedback: Incorrect. 3+3=6. Sumar en vez de usar potencias. Cada ronda multiplica por 3, no suma 3. -->
@@ -217,13 +227,14 @@ En la tercera ronda, 27 personas reciben el mensaje.
 
 **ID:** `CO-MAT-6-2026-W08-potenciacion-conceptos-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Comparar potencias
+**Contexto:** Comparar potencias
 
 ### Enunciado
 ¿Cual de las siguientes afirmaciones es correcta?
 
-### Options
+### Opciones
 - [ ] A) 2⁴ es mayor que 4² <!-- feedback: Incorrect. 2⁴ = 16 y 4² = 16. Son iguales. -->
 - [ ] B) 2⁵ es menor que 5² <!-- feedback: Incorrect. 2⁵ = 32 y 5² = 25. 2⁵ es MAYOR que 5². -->
 - [ ] C) 3³ es igual a 9² <!-- feedback: Incorrect. 3³ = 27 y 9² = 81. No son iguales. -->
@@ -243,8 +254,9 @@ La unica afirmacion correcta es que 2⁴ = 4².
 
 **ID:** `CO-MAT-6-2026-W08-potenciacion-conceptos-010-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Error en calculo de potencia
+**Contexto:** Error en calculo de potencia
 
 ### Enunciado
 En la clase, el profesor pregunta cuanto es 6². Cuatro estudiantes responden:
@@ -254,7 +266,7 @@ En la clase, el profesor pregunta cuanto es 6². Cuatro estudiantes responden:
 - Juan: 6
 ¿Quien respondio correctamente?
 
-### Options
+### Opciones
 - [ ] A) Ana, porque 6² = 6×2 = 12 <!-- feedback: Incorrect. 6×2 es multiplicacion, no potencia. 6² = 6×6 = 36. -->
 - [x] B) Carlos, porque 6² = 6×6 = 36 <!-- feedback: Correct. 6² = 6 × 6 = 36. "Al cuadrado" significa multiplicar el numero por si mismo. -->
 - [ ] C) Maria, porque 6² = 6+2 = 8 <!-- feedback: Incorrect. Sumar 6+2=8. La potencia no es suma, es multiplicacion repetida. -->

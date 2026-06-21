@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY"
+id: "CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "viento-efectos"
-semana: "W23"
+week: "W23"
 periodo: 3
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Efectos del viento en el relieve y en los seres vivos: erosió
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Los Efectos del Viento
 
 Este bundle explora cómo el viento, como aire en movimiento, transforma el paisaje de la Tierra y ayuda a los seres vivos en sus procesos biológicos fundamentales.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el desierto de la Tatacoa, vemos que muchas rocas tienen formas curvas y huecos que parecen tallados a mano.
+**Contexto:** En el desierto de la Tatacoa, vemos que muchas rocas tienen formas curvas y huecos que parecen tallados a mano.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ El viento es como un artista lento. Arrastra partículas de arena que golpean la
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Al caminar por un campo de pinos, Mariana nota una nube de polvo amarillo que sale de las ramas cuando sopla una brisa fuerte.
+**Contexto:** Al caminar por un campo de pinos, Mariana nota una nube de polvo amarillo que sale de las ramas cuando sopla una brisa fuerte.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -73,12 +77,12 @@ El viento es un mensajero de la vida. Muchas plantas no tienen flores coloridas 
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En las playas de Puerto Colombia, vemos grandes montañas de arena que el viento mueve y cambia de forma cada día.
+**Contexto:** En las playas de Puerto Colombia, vemos grandes montañas de arena que el viento mueve y cambia de forma cada día.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -98,12 +102,12 @@ Las dunas son paisajes dinámicos. El viento quita arena de un lado y la deposit
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Los incendios forestales son más peligrosos y difíciles de apagar cuando hay vientos fuertes.
+**Contexto:** Los incendios forestales son más peligrosos y difíciles de apagar cuando hay vientos fuertes.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ El viento es el mejor aliado del fuego en el bosque. Funciona como un ventilador
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Tienes una semilla de "diente de león" con sus pelitos blancos y una semilla de mango que es grande y pesada.
+**Contexto:** Tienes una semilla de "diente de león" con sus pelitos blancos y una semilla de mango que es grande y pesada.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -148,12 +152,12 @@ Esto se llama adaptación. Las semillas ligeras usan el viento como un medio de 
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Después de un huracán o un fuerte vendaval, los suelos de los campos quedan sin la capa superior de tierra negra y se ven más claros.
+**Contexto:** Después de un huracán o un fuerte vendaval, los suelos de los campos quedan sin la capa superior de tierra negra y se ven más claros.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -173,12 +177,12 @@ Esto es erosión del suelo. La capa negra (humus) es liviana y el viento se la l
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la costa de La Guajira, la gente usa molinos para sacar agua de los pozos profundos usando solo la fuerza del viento.
+**Contexto:** En la costa de La Guajira, la gente usa molinos para sacar agua de los pozos profundos usando solo la fuerza del viento.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -198,12 +202,12 @@ El viento es una herramienta de trabajo. Antes de que existieran los motores el�
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Mariana observa que su ropa se seca mucho más rápido cuando hace viento que cuando el aire está totalmente quieto.
+**Contexto:** Mariana observa que su ropa se seca mucho más rápido cuando hace viento que cuando el aire está totalmente quieto.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -223,12 +227,12 @@ El viento ayuda a la evaporación. Es lo mismo que pasa cuando soplamos una sopa
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Los huracanes son vientos circulares gigantes que nacen sobre los océanos calientes y pueden destruir ciudades costeras.
+**Contexto:** Los huracanes son vientos circulares gigantes que nacen sobre los océanos calientes y pueden destruir ciudades costeras.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -248,12 +252,12 @@ Los huracanes son máquinas térmicas. Toman el calor del mar y lo convierten en
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un constructor dice: "Para evitar que el viento se lleve la tierra de mi cultivo, voy a quitar todos los árboles y poner paredes de plástico".
+**Contexto:** Un constructor dice: "Para evitar que el viento se lleve la tierra de mi cultivo, voy a quitar todos los árboles y poner paredes de plástico".
 **Expected_Success:** 0.55
 
 ### Enunciado

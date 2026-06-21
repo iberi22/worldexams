@@ -1,10 +1,10 @@
 ---
-id: "HN-MAT-11-2026-W28-correlacion-001-MASTERY"
+id: "HN-MAT-11-2026-W28-correlacion-001-MASTERY-bundle"
 country: "honduras"
 grado: 11
 asignatura: "matematicas"
 tema: "correlacion"
-semana: "W28"
+week: "W28"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -14,7 +14,12 @@ modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Correlacion - Grado 11 - Matematicas"
 license: "FREE"
+bundle_type: "weekly"
+total_questions: 20
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Correlacion - Grado 11
 
@@ -23,480 +28,500 @@ alineadas con el CNB Honduras (Curriculo Nacional Basico) para Bachillerato 2026
 
 ---
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 **ID:** `HN-MAT-11-2026-W28-correlacion-001-MASTERY-v1`
 **Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **Competencia:** Solucion de Problemas
 **Expected_Success:** 0.92
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 En Puerto Cortes, Jose compra 29 kg de frijoles a L.12/kg. Total?
 
 ### Opciones
-- [x] A) 348
-  <!-- feedback: Correcto. Explicacion pedagogica sobre correlacion en el contexto de Puerto Cortes, Intibuca, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 348. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 348. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 348. -->
+- [x] A) 348 <!-- feedback: Correcto! 348 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre correlacion en el contexto de Puerto Cortes, Intibuca, Honduras.
 
 ---
 
-## Pregunta 2 [D5]
+## Question 2 [D5]
 **ID:** `HN-MAT-11-2026-W28-correlacion-001-MASTERY-v2`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **Competencia:** Solucion de Problemas
 **Expected_Success:** 0.89
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Resuelve: 3x + 13 = 70. x?
 
 ### Opciones
-- [x] A) 19
-  <!-- feedback: Correcto. Explicacion pedagogica sobre correlacion en el contexto de Tela, La Paz, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 19. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 19. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 19. -->
+- [x] A) 19 <!-- feedback: Correcto! 19 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre correlacion en el contexto de Tela, La Paz, Honduras.
 
 ---
 
-## Pregunta 3 [D3]
+## Question 3 [D3]
 **ID:** `HN-MAT-11-2026-W28-correlacion-001-MASTERY-v3`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **Competencia:** Solucion de Problemas
 **Expected_Success:** 0.86
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 En Tela, producto L.108. Descuento 14%. Precio final?
 
 ### Opciones
-- [x] A) L.92
-  <!-- feedback: Correcto. Explicacion pedagogica sobre correlacion en el contexto de Tela, Yoro, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: L.92. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: L.92. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: L.92. -->
+- [x] A) L.92 <!-- feedback: Correcto! L.92 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre correlacion en el contexto de Tela, Yoro, Honduras.
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `HN-MAT-11-2026-W28-correlacion-001-MASTERY-v4`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.83
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 (17+23) x 5 =
 
 ### Opciones
-- [x] A) 200
-  <!-- feedback: Correcto. Explicacion pedagogica sobre correlacion en el contexto de Puerto Lempira, Colon, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 200. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 200. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 200. -->
+- [x] A) 200 <!-- feedback: Correcto! 200 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre correlacion en el contexto de Puerto Lempira, Colon, Honduras.
 
 ---
 
-## Pregunta 5 [D2]
+## Question 5 [D2]
 **ID:** `HN-MAT-11-2026-W28-correlacion-001-MASTERY-v5`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **Competencia:** Razonamiento
 **Expected_Success:** 0.8
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Terreno 49x14m en Valle de Angeles. Area?
 
 ### Opciones
-- [x] A) 686 m2
-  <!-- feedback: Correcto. Explicacion pedagogica sobre correlacion en el contexto de Valle de Angeles, La Paz, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 686 m2. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 686 m2. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 686 m2. -->
+- [x] A) 686 m2 <!-- feedback: Correcto! 686 m2 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre correlacion en el contexto de Valle de Angeles, La Paz, Honduras.
 
 ---
 
-## Pregunta 6 [D2]
+## Question 6 [D2]
 **ID:** `HN-MAT-11-2026-W28-correlacion-001-MASTERY-v6`
 **Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **Competencia:** Solucion de Problemas
 **Expected_Success:** 0.77
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Media de 45,18,14,63,32:
 
 ### Opciones
-- [x] A) 34
-  <!-- feedback: Correcto. Explicacion pedagogica sobre correlacion en el contexto de Puerto Cortes, Colon, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 34. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 34. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 34. -->
+- [x] A) 34 <!-- feedback: Correcto! 34 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre correlacion en el contexto de Puerto Cortes, Colon, Honduras.
 
 ---
 
-## Pregunta 7 [D3]
+## Question 7 [D3]
 **ID:** `HN-MAT-11-2026-W28-correlacion-001-MASTERY-v7`
 **Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.74
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 En El Progreso, ahorro L.230/mes. En 19 meses?
 
 ### Opciones
-- [x] A) 4370
-  <!-- feedback: Correcto. Explicacion pedagogica sobre correlacion en el contexto de El Progreso, Atlantida, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 4370. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 4370. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 4370. -->
+- [x] A) 4370 <!-- feedback: Correcto! 4370 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre correlacion en el contexto de El Progreso, Atlantida, Honduras.
 
 ---
 
-## Pregunta 8 [D4]
+## Question 8 [D4]
 **ID:** `HN-MAT-11-2026-W28-correlacion-001-MASTERY-v8`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.71
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 f(x)=5x+3. f(2)?
 
 ### Opciones
-- [x] A) 13
-  <!-- feedback: Correcto. Explicacion pedagogica sobre correlacion en el contexto de Danli, Yoro, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 13. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 13. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 13. -->
+- [x] A) 13 <!-- feedback: Correcto! 13 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre correlacion en el contexto de Danli, Yoro, Honduras.
 
 ---
 
-## Pregunta 9 [D1]
+## Question 9 [D1]
 **ID:** `HN-MAT-11-2026-W28-correlacion-001-MASTERY-v9`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.68
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Poblacion 39000, 16% estudiantes. Cuantos?
 
 ### Opciones
-- [x] A) 6240
-  <!-- feedback: Correcto. Explicacion pedagogica sobre correlacion en el contexto de Trujillo, Olancho, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 6240. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 6240. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 6240. -->
+- [x] A) 6240 <!-- feedback: Correcto! 6240 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre correlacion en el contexto de Trujillo, Olancho, Honduras.
 
 ---
 
-## Pregunta 10 [D4]
+## Question 10 [D4]
 **ID:** `HN-MAT-11-2026-W28-correlacion-001-MASTERY-v10`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **Competencia:** Solucion de Problemas
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Log_10(10000000000000000000000000000000) =
 
 ### Opciones
-- [x] A) 31
-  <!-- feedback: Correcto. Explicacion pedagogica sobre correlacion en el contexto de Puerto Cortes, Yoro, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 31. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 31. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 31. -->
+- [x] A) 31 <!-- feedback: Correcto! 31 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre correlacion en el contexto de Puerto Cortes, Yoro, Honduras.
 
 ---
 
-## Pregunta 11 [D5]
+## Question 11 [D5]
 **ID:** `HN-MAT-11-2026-W28-correlacion-001-MASTERY-v11`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **Competencia:** Solucion de Problemas
 **Expected_Success:** 0.62
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Interes simple L.48000 al 14% por 18 año(s):
 
 ### Opciones
-- [x] A) 120960
-  <!-- feedback: Correcto. Explicacion pedagogica sobre correlacion en el contexto de Santa Rosa de Copan, El Paraiso, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 120960. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 120960. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 120960. -->
+- [x] A) 120960 <!-- feedback: Correcto! 120960 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre correlacion en el contexto de Santa Rosa de Copan, El Paraiso, Honduras.
 
 ---
 
-## Pregunta 12 [D2]
+## Question 12 [D2]
 **ID:** `HN-MAT-11-2026-W28-correlacion-001-MASTERY-v12`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **Competencia:** Solucion de Problemas
 **Expected_Success:** 0.59
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Probabilidad de 38/11 en decimal:
 
 ### Opciones
-- [x] A) 3.45
-  <!-- feedback: Correcto. Explicacion pedagogica sobre correlacion en el contexto de Marcala, Islas de la Bahia, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 3.45. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 3.45. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 3.45. -->
+- [x] A) 3.45 <!-- feedback: Correcto! 3.45 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre correlacion en el contexto de Marcala, Islas de la Bahia, Honduras.
 
 ---
 
-## Pregunta 13 [D1]
+## Question 13 [D1]
 **ID:** `HN-MAT-11-2026-W28-correlacion-001-MASTERY-v13`
 **Bloom:** Evaluate
+**ICFES:** Uso de conocimientos
 **Competencia:** Razonamiento
 **Expected_Success:** 0.56
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Derivada de f(x)=23x^2+7x en x=1:
 
 ### Opciones
-- [x] A) 53
-  <!-- feedback: Correcto. Explicacion pedagogica sobre correlacion en el contexto de Santa Rosa de Copan, Comayagua, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 53. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 53. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 53. -->
+- [x] A) 53 <!-- feedback: Correcto! 53 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre correlacion en el contexto de Santa Rosa de Copan, Comayagua, Honduras.
 
 ---
 
-## Pregunta 14 [D4]
+## Question 14 [D4]
 **ID:** `HN-MAT-11-2026-W28-correlacion-001-MASTERY-v14`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **Competencia:** Solucion de Problemas
 **Expected_Success:** 0.53
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 En Santa Rosa de Copan, 40 obreros producen 320 piezas en 1h. 1 obrero en 1h?
 
 ### Opciones
-- [x] A) 8
-  <!-- feedback: Correcto. Explicacion pedagogica sobre correlacion en el contexto de Santa Rosa de Copan, La Paz, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 8. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 8. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 8. -->
+- [x] A) 8 <!-- feedback: Correcto! 8 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre correlacion en el contexto de Santa Rosa de Copan, La Paz, Honduras.
 
 ---
 
-## Pregunta 15 [D3]
+## Question 15 [D3]
 **ID:** `HN-MAT-11-2026-W28-correlacion-001-MASTERY-v15`
 **Bloom:** Remember
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.5
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Distancia entre (25,9) y (1,25) en el plano:
 
 ### Opciones
-- [x] A) √(832)
-  <!-- feedback: Correcto. Explicacion pedagogica sobre correlacion en el contexto de Danli, Islas de la Bahia, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: √(832). -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: √(832). -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: √(832). -->
+- [x] A) √(832) <!-- feedback: Correcto! √(832) -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre correlacion en el contexto de Danli, Islas de la Bahia, Honduras.
 
 ---
 
-## Pregunta 16 [D2]
+## Question 16 [D2]
 **ID:** `HN-MAT-11-2026-W28-correlacion-001-MASTERY-v16`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.47
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Resuelve: x^2 + 27x + 182 = 0. Una raiz?
 
 ### Opciones
-- [x] A) 27
-  <!-- feedback: Correcto. Explicacion pedagogica sobre correlacion en el contexto de Santa Rosa de Copan, Islas de la Bahia, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 27. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 27. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 27. -->
+- [x] A) 27 <!-- feedback: Correcto! 27 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre correlacion en el contexto de Santa Rosa de Copan, Islas de la Bahia, Honduras.
 
 ---
 
-## Pregunta 17 [D3]
+## Question 17 [D3]
 **ID:** `HN-MAT-11-2026-W28-correlacion-001-MASTERY-v17`
 **Bloom:** Apply
+**ICFES:** Uso de conocimientos
 **Competencia:** Comunicacion
 **Expected_Success:** 0.44
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 En Brus Laguna, Marta vende 11 baleadas a L.13 c/u. Ingreso total?
 
 ### Opciones
-- [x] A) 143
-  <!-- feedback: Correcto. Explicacion pedagogica sobre correlacion en el contexto de Brus Laguna, Intibuca, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 143. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 143. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 143. -->
+- [x] A) 143 <!-- feedback: Correcto! 143 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre correlacion en el contexto de Brus Laguna, Intibuca, Honduras.
 
 ---
 
-## Pregunta 18 [D5]
+## Question 18 [D5]
 **ID:** `HN-MAT-11-2026-W28-correlacion-001-MASTERY-v18`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **Competencia:** Razonamiento
 **Expected_Success:** 0.41
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 El 39% de 2100 habitantes de Valle de Angeles:
 
 ### Opciones
-- [x] A) 819
-  <!-- feedback: Correcto. Explicacion pedagogica sobre correlacion en el contexto de Valle de Angeles, Olancho, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 819. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 819. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 819. -->
+- [x] A) 819 <!-- feedback: Correcto! 819 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre correlacion en el contexto de Valle de Angeles, Olancho, Honduras.
 
 ---
 
-## Pregunta 19 [D4]
+## Question 19 [D4]
 **ID:** `HN-MAT-11-2026-W28-correlacion-001-MASTERY-v19`
 **Bloom:** Understand
+**ICFES:** Uso de conocimientos
 **Competencia:** Solucion de Problemas
 **Expected_Success:** 0.38
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Area de circulo radio 25m en Nacaome:
 
 ### Opciones
-- [x] A) 1963.50 m2
-  <!-- feedback: Correcto. Explicacion pedagogica sobre correlacion en el contexto de Nacaome, Santa Barbara, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 1963.50 m2. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 1963.50 m2. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 1963.50 m2. -->
+- [x] A) 1963.50 m2 <!-- feedback: Correcto! 1963.50 m2 -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre correlacion en el contexto de Nacaome, Santa Barbara, Honduras.
 
 ---
 
-## Pregunta 20 [D5]
+## Question 20 [D5]
 **ID:** `HN-MAT-11-2026-W28-correlacion-001-MASTERY-v20`
 **Bloom:** Analyze
+**ICFES:** Uso de conocimientos
 **Competencia:** Razonamiento
 **Expected_Success:** 0.35
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 En Santa Barbara, Pedro corre 47 km en 13 min. Velocidad media (km/h):
 
 ### Opciones
-- [x] A) 216.92 km/h
-  <!-- feedback: Correcto. Explicacion pedagogica sobre correlacion en el contexto de Santa Barbara, Comayagua, Honduras. -->
-- [ ] B) Opcion B
-  <!-- feedback: Incorrecto. La respuesta correcta es: 216.92 km/h. -->
-- [ ] C) Opcion C
-  <!-- feedback: Incorrecto. La respuesta correcta es: 216.92 km/h. -->
-- [ ] D) Opcion D
-  <!-- feedback: Incorrecto. La respuesta correcta es: 216.92 km/h. -->
+- [x] A) 216.92 km/h <!-- feedback: Correcto! 216.92 km/h -->
+
+- [ ] B) Opcion B <!-- feedback: Incorrecto. Opcion B -->
+
+- [ ] C) Opcion C <!-- feedback: Incorrecto. Opcion C -->
+
+- [ ] D) Opcion D <!-- feedback: Incorrecto. Opcion D -->
 
 ### Explicacion Pedagogica
 Explicacion pedagogica sobre correlacion en el contexto de Santa Barbara, Comayagua, Honduras.

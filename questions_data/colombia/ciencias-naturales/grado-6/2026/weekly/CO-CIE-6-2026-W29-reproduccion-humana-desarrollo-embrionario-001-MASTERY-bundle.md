@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W29-reproduccion-humana-desarrollo-embrionario-001-MASTERY"
+id: "CO-CIE-6-2026-W29-reproduccion-humana-desarrollo-embrionario-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W29 — Reproducción Humana y Desarrollo Embrionario
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-CIE-6-2026-W29-reproduccion-humana-desarrollo-embrionario-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Bogotá, estudiantes definen la fecundación.
+**Contexto:** En Bogotá, estudiantes definen la fecundación.
 
 ### Enunciado
 ¿Qué es la fecundación?
 
-### Options
+### Opciones
 - [ ] A) La unión del óvulo con el útero <!-- feedback: El óvulo no se une al útero, se une al espermatozoide. -->
 - [ ] B) La división del óvulo en dos células <!-- feedback: Eso es la segmentación, que ocurre después de la fecundación. -->
 - [x] C) La unión de un espermatozoide y un óvulo para formar un cigoto <!-- feedback: Correcto. La fecundación produce el cigoto. -->
@@ -48,13 +51,14 @@ La **fecundación** (o fertilización) es la fusión de un espermatozoide (gamet
 
 **ID:** `CO-CIE-6-2026-W29-reproduccion-humana-desarrollo-embrionario-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín, estudiantes identifican las etapas del desarrollo prenatal.
+**Contexto:** En Medellín, estudiantes identifican las etapas del desarrollo prenatal.
 
 ### Enunciado
 ¿Cuánto dura aproximadamente un embarazo humano?
 
-### Options
+### Opciones
 - [ ] A) 6 meses <!-- feedback: Incorrecto. 6 meses es demasiado corto para que el feto esté completamente desarrollado. -->
 - [ ] B) 7 meses (28 semanas) <!-- feedback: Un bebé de 28 semanas puede sobrevivir con cuidados intensivos, pero no es un embarazo a término. -->
 - [x] C) 9 meses (40 semanas o 38 semanas desde la fecundación) <!-- feedback: Correcto. Un embarazo a término dura entre 37 y 42 semanas. -->
@@ -87,13 +91,14 @@ Se considera parto a término entre las semanas 37 y 42. Antes de 37 semanas es 
 
 **ID:** `CO-CIE-6-2026-W29-reproduccion-humana-desarrollo-embrionario-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali, estudiantes explican la función de la placenta.
+**Contexto:** En Cali, estudiantes explican la función de la placenta.
 
 ### Enunciado
 ¿Cuál es la función principal de la placenta durante el embarazo?
 
-### Options
+### Opciones
 - [ ] A) Producir leche materna antes del parto <!-- feedback: La producción de leche es función de las glándulas mamarias. -->
 - [ ] B) Proteger al feto de golpes externos <!-- feedback: Esa es función del líquido amniótico y el útero. -->
 - [x] C) Intercambiar oxígeno, nutrientes y desechos entre la madre y el feto <!-- feedback: Correcto. La placenta es el "puente" metabólico. -->
@@ -116,13 +121,14 @@ La placenta tiene dos circulaciones separadas: la sangre materna y fetal no se m
 
 **ID:** `CO-CIE-6-2026-W29-reproduccion-humana-desarrollo-embrionario-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla, estudiantes explican las etapas del desarrollo prenatal.
+**Contexto:** En Barranquilla, estudiantes explican las etapas del desarrollo prenatal.
 
 ### Enunciado
 ¿Qué diferencia a un embrión de un feto?
 
-### Options
+### Opciones
 - [ ] A) No hay diferencia, son sinónimos <!-- feedback: No son sinónimos. Son etapas diferentes del desarrollo. -->
 - [x] B) El embrión es la etapa desde la fecundación hasta la semana 8, cuando se forman los órganos principales; el feto es desde la semana 9 hasta el nacimiento, cuando los órganos crecen y maduran <!-- feedback: Correcto. -->
 - [ ] C) El embrión está dentro del útero y el feto fuera <!-- feedback: Ambos están dentro del útero. -->
@@ -157,13 +163,14 @@ El desarrollo prenatal se divide en tres etapas principales:
 
 **ID:** `CO-CIE-6-2026-W29-reproduccion-humana-desarrollo-embrionario-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga, estudiantes aplican el concepto de genética en la reproducción.
+**Contexto:** En Bucaramanga, estudiantes aplican el concepto de genética en la reproducción.
 
 ### Enunciado
 Si una pareja tiene tres hijas, ¿qué probabilidad hay de que su cuarto hijo sea niño?
 
-### Options
+### Opciones
 - [ ] A) 0%, porque ya han tenido tres hijas <!-- feedback: Cada embarazo es independiente. -->
 - [ ] B) 25% <!-- feedback: La probabilidad es del 50%, independientemente de embarazos anteriores. -->
 - [ ] C) 75% <!-- feedback: No. Sigue siendo 50%. -->
@@ -184,13 +191,14 @@ Es un error común pensar que el sexo de hijos anteriores afecta la probabilidad
 
 **ID:** `CO-CIE-6-2026-W29-reproduccion-humana-desarrollo-embrionario-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena, estudiantes aplican el concepto de cuidados prenatales.
+**Contexto:** En Cartagena, estudiantes aplican el concepto de cuidados prenatales.
 
 ### Enunciado
 ¿Por qué se recomienda que las embarazadas tomen ácido fólico antes y durante el embarazo?
 
-### Options
+### Opciones
 - [ ] A) Para que el bebé tenga buen cabello <!-- feedback: No. Su función es más crítica. -->
 - [ ] B) Para evitar náuseas matutinas <!-- feedback: El ácido fólico no previene las náuseas. -->
 - [x] C) Para prevenir defectos del tubo neural (como espina bífida) en el embrión durante las primeras semanas de desarrollo <!-- feedback: Correcto. El ácido fólico es esencial para el cierre del tubo neural. -->
@@ -215,13 +223,14 @@ En Colombia, los programas de salud materna (como la Ruta Integral de Atención 
 
 **ID:** `CO-CIE-6-2026-W29-reproduccion-humana-desarrollo-embrionario-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira, analizan por qué el alcohol es peligroso durante el embarazo.
+**Contexto:** En Pereira, analizan por qué el alcohol es peligroso durante el embarazo.
 
 ### Enunciado
 ¿Por qué consumir alcohol durante el embarazo puede ser peligroso para el feto?
 
-### Options
+### Opciones
 - [ ] A) Porque el alcohol engorda a la madre y dificulta el parto <!-- feedback: No es el mecanismo principal. -->
 - [ ] B) Porque el alcohol no puede pasar la placenta <!-- feedback: Incorrecto. El alcohol SÍ atraviesa la placenta fácilmente. -->
 - [x] C) Porque el alcohol atraviesa la placenta y llega al feto, cuyo hígado inmaduro no puede metabolizarlo, causando daños en el desarrollo cerebral y físico <!-- feedback: Correcto. El alcohol es un teratógeno. -->
@@ -248,13 +257,14 @@ En Colombia, las campañas de prevención enfatizan que "si estás embarazada, c
 
 **ID:** `CO-CIE-6-2026-W29-reproduccion-humana-desarrollo-embrionario-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales, analizan el proceso del parto.
+**Contexto:** En Manizales, analizan el proceso del parto.
 
 ### Enunciado
 ¿Qué desencadena el inicio del trabajo de parto?
 
-### Options
+### Opciones
 - [ ] A) El bebé decide salir cuando está listo <!-- feedback: No es una decisión consciente, hay mecanismos biológicos. -->
 - [ ] B) La madre siente que es el momento <!-- feedback: No es una decisión voluntaria. -->
 - [x] C) Una compleja señal hormonal: los pulmones del feto secretan surfactante que desencadena la producción de prostaglandinas y oxitocina, iniciando las contracciones uterinas <!-- feedback: Correcto. El feto mismo inicia el proceso. -->
@@ -284,13 +294,14 @@ En Colombia, el 99% de los partos son atendidos por personal de salud calificado
 
 **ID:** `CO-CIE-6-2026-W29-reproduccion-humana-desarrollo-embrionario-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, evalúan la importancia del control prenatal.
+**Contexto:** En Cúcuta, evalúan la importancia del control prenatal.
 
 ### Enunciado
 ¿Por qué es importante que una mujer embarazada asista a controles prenatales regulares?
 
-### Options
+### Opciones
 - [ ] A) Solo para obtener la licencia de maternidad en el trabajo <!-- feedback: El control prenatal va más allá de lo administrativo. -->
 - [ ] B) Para que el médico pueda programar la fecha exacta del parto <!-- feedback: La fecha se estima, no se programa a menos que sea cesárea. -->
 - [x] C) Para monitorear la salud de la madre y el feto, detectar complicaciones tempranas (preeclampsia, diabetes gestacional) y garantizar un desarrollo saludable <!-- feedback: Correcto. El control prenatal salva vidas. -->
@@ -324,13 +335,14 @@ El **control prenatal** es el conjunto de consultas, exámenes y cuidados que re
 
 **ID:** `CO-CIE-6-2026-W29-reproduccion-humana-desarrollo-embrionario-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, evalúan la importancia de la lactancia materna.
+**Contexto:** En Ibagué, evalúan la importancia de la lactancia materna.
 
 ### Enunciado
 ¿Por qué la leche materna es el mejor alimento para un recién nacido?
 
-### Options
+### Opciones
 - [ ] A) Porque es más barata que la leche de fórmula <!-- feedback: Es una ventaja, pero no la razón principal. -->
 - [ ] B) Porque la madre produce exactamente la cantidad que el bebé necesita <!-- feedback: Es cierto, pero no la razón principal. -->
 - [x] C) Porque contiene la combinación perfecta de nutrientes, anticuerpos (inmunoglobulinas) que protegen al bebé de infecciones, y factores de crecimiento, y se adapta a las necesidades cambiantes del bebé <!-- feedback: Correcto. La leche materna es nutrición + inmunidad personalizada. -->

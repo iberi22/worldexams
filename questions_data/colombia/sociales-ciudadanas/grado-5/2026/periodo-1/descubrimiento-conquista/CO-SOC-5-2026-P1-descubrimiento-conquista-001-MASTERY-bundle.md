@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-5-2026-P1-descubrimiento-conquista-001-MASTERY"
+id: "CO-SOC-5-2026-P1-descubrimiento-conquista-001-MASTERY-bundle"
 country: "colombia"
 grado: 5
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Descubrimiento y conquista de Colombia, llegada de los españoles, Gonzalo Jiménez de Quesada, Sebastián de Belalcázar, fundación de ciudades, encuentro de culturas, resistencia indígena"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Descubrimiento y Conquista de Colombia
 
@@ -27,14 +34,15 @@ Este bundle cubre el período del descubrimiento y la conquista del territorio c
 ## Question 1 [D3]
 
 **ID:** `CO-SOC-5-2026-P1-descubrimiento-conquista-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Alfredo Vásquez Cobo de Bogotá, la profesora pregunta cuándo llegaron los primeros españoles al territorio de la actual Colombia.
+**Contexto:** En la clase de sociales de la I.E. Alfredo Vásquez Cobo de Bogotá, la profesora pregunta cuándo llegaron los primeros españoles al territorio de la actual Colombia.
 
 ### Enunciado
 Los primeros españoles llegaron al territorio de lo que hoy es Colombia en el año:
 
-### Options
+### Opciones
 - [ ] A) 1492, cuando Colón llegó a América. <!-- feedback: Incorrecto. En 1492 Colón llegó al Caribe pero no pisó suelo colombiano. -->
 - [x] B) 1500, cuando Rodrigo de Bastidas exploró la costa Caribe colombiana. <!-- feedback: Correcto. Rodrigo de Bastidas fue el primer español en explorar la costa Caribe colombiana en 1500-1501, desde el Cabo de la Vela hasta el Golfo de Urabá. -->
 - [ ] C) 1519, cuando Hernán Cortés conquistó México. <!-- feedback: Incorrecto. Esa fecha corresponde a la conquista de México, no a la llegada a Colombia. -->
@@ -48,14 +56,15 @@ Se evalúa el conocimiento de la cronología del descubrimiento. La respuesta co
 ## Question 2 [D3]
 
 **ID:** `CO-SOC-5-2026-P1-descubrimiento-conquista-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Gonzalo Jiménez de Quesada de Bogotá, el profesor pregunta quién fundó la ciudad de Santa Fe de Bogotá.
+**Contexto:** En la clase de sociales de la I.E. Gonzalo Jiménez de Quesada de Bogotá, el profesor pregunta quién fundó la ciudad de Santa Fe de Bogotá.
 
 ### Enunciado
 La ciudad de Santa Fe de Bogotá fue fundada en 1538 por el conquistador español:
 
-### Options
+### Opciones
 - [ ] A) Sebastián de Belalcázar. <!-- feedback: Incorrecto. Belalcázar fundó Cali, Popayán y Quito, no Bogotá. -->
 - [x] B) Gonzalo Jiménez de Quesada. <!-- feedback: Correcto. Gonzalo Jiménez de Quesada lideró la expedición desde Santa Marta hacia el interior, llegó al altiplano cundiboyacense y fundó Santa Fe de Bogotá el 6 de agosto de 1538. -->
 - [ ] C) Pedro de Heredia. <!-- feedback: Incorrecto. Pedro de Heredia fundó Cartagena de Indias, no Bogotá. -->
@@ -69,14 +78,15 @@ Se evalúa el conocimiento del fundador de la capital colombiana. La respuesta c
 ## Question 3 [D4]
 
 **ID:** `CO-SOC-5-2026-P1-descubrimiento-conquista-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales de la I.E. Técnica de Cali, la profesora pregunta quién fundó la ciudad de Cali.
+**Contexto:** En la clase de sociales de la I.E. Técnica de Cali, la profesora pregunta quién fundó la ciudad de Cali.
 
 ### Enunciado
 La ciudad de Santiago de Cali fue fundada en 1536 por el conquistador español:
 
-### Options
+### Opciones
 - [ ] A) Gonzalo Jiménez de Quesada. <!-- feedback: Incorrecto. Jiménez de Quesada fundó Bogotá, no Cali. -->
 - [ ] B) Pedro de Heredia. <!-- feedback: Incorrecto. Heredia fundó Cartagena. -->
 - [x] C) Sebastián de Belalcázar. <!-- feedback: Correcto. Sebastián de Belalcázar (también conocido como Sebastián Moyano) fundó Cali en 1536, Popayán en 1537 y Pasto en 1539. -->
@@ -90,14 +100,15 @@ Se evalúa la comprensión de quién fundó las principales ciudades colombianas
 ## Question 4 [D4]
 
 **ID:** `CO-SOC-5-2026-P1-descubrimiento-conquista-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. San Pedro Claver de Cartagena, los estudiantes estudian la llegada de los españoles a la costa Caribe.
+**Contexto:** En la clase de sociales de la I.E. San Pedro Claver de Cartagena, los estudiantes estudian la llegada de los españoles a la costa Caribe.
 
 ### Enunciado
 La ciudad de Cartagena de Indias fue fundada en 1533 por:
 
-### Options
+### Opciones
 - [ ] A) Gonzalo Jiménez de Quesada. <!-- feedback: Incorrecto. Quesada fundó Bogotá. -->
 - [ ] B) Sebastián de Belalcázar. <!-- feedback: Incorrecto. Belalcázar fundó ciudades en el suroccidente. -->
 - [x] C) Pedro de Heredia. <!-- feedback: Correcto. Pedro de Heredia fundó Cartagena de Indias el 1 de junio de 1533, sobre el antiguo poblado indígena de Calamarí. -->
@@ -111,14 +122,15 @@ Se evalúa la comprensión de la fundación de Cartagena. La respuesta correcta 
 ## Question 5 [D4]
 
 **ID:** `CO-SOC-5-2026-P1-descubrimiento-conquista-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Normal de Santa Marta, los estudiantes analizan la primera ciudad fundada en Colombia.
+**Contexto:** En la clase de sociales de la I.E. Normal de Santa Marta, los estudiantes analizan la primera ciudad fundada en Colombia.
 
 ### Enunciado
 La primera ciudad fundada por los españoles en territorio colombiano fue:
 
-### Options
+### Opciones
 - [ ] A) Bogotá (1538). <!-- feedback: Incorrecto. Santa Marta fue fundada antes que Bogotá. -->
 - [ ] B) Cartagena (1533). <!-- feedback: Incorrecto. Santa Marta es más antigua que Cartagena. -->
 - [x] C) Santa Marta (1525). <!-- feedback: Correcto. Santa Marta fue fundada el 29 de julio de 1525 por Rodrigo de Bastidas, siendo la ciudad más antigua de Colombia aún existente. -->
@@ -132,14 +144,15 @@ Se evalúa la capacidad de ordenar cronológicamente la fundación de ciudades. 
 ## Question 6 [D4]
 
 **ID:** `CO-SOC-5-2026-P1-descubrimiento-conquista-001-MASTERY-v6`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de sociales de la I.E. José María Córdoba de Rionegro, la profesora explica el encuentro entre españoles e indígenas.
+**Contexto:** En la clase de sociales de la I.E. José María Córdoba de Rionegro, la profesora explica el encuentro entre españoles e indígenas.
 
 ### Enunciado
 Cuando los españoles llegaron al territorio colombiano, se encontraron con culturas indígenas avanzadas. ¿Cuál fue una de las primeras reacciones de los indígenas ante la llegada de los españoles?
 
-### Options
+### Opciones
 - [ ] A) Todos aceptaron pacíficamente el dominio español. <!-- feedback: Incorrecto. Hubo diversas reacciones, incluyendo resistencia. -->
 - [ ] B) Todos huyeron a otros continentes. <!-- feedback: Incorrecto. Los indígenas no huyeron a otros continentes. -->
 - [x] C) Algunos grupos ofrecieron resistencia violenta, otros hicieron alianzas con los españoles contra sus enemigos tradicionales, y muchos murieron por enfermedades traídas por los europeos. <!-- feedback: Correcto. Las reacciones indígenas fueron diversas: algunos como los Muiscas inicialmente negociaron, otros como los Pijaos y Tayronas ofrecieron feroz resistencia, y las enfermedades europeas (viruela, sarampión) diezmaron a la población. -->
@@ -153,14 +166,15 @@ Se evalúa la comprensión de las variadas reacciones indígenas. La respuesta c
 ## Question 7 [D4]
 
 **ID:** `CO-SOC-5-2026-P1-descubrimiento-conquista-001-MASTERY-v7`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Liceo de la Universidad de Caldas en Manizales, la profesora explica el sistema de encomiendas.
+**Contexto:** En la clase de sociales de la I.E. Liceo de la Universidad de Caldas en Manizales, la profesora explica el sistema de encomiendas.
 
 ### Enunciado
 Durante la conquista, los españoles establecieron un sistema por el cual los indígenas debían trabajar para un español a cambio de evangelización y protección. Este sistema se llamó:
 
-### Options
+### Opciones
 - [ ] A) La esclavitud africana. <!-- feedback: Incorrecto. La esclavitud africana era otro sistema, pero las encomiendas aplicaban a indígenas. -->
 - [ ] B) El sistema educativo colonial. <!-- feedback: Incorrecto. No existía un sistema educativo para indígenas. -->
 - [x] C) La encomienda. <!-- feedback: Correcto. La encomienda era una institución colonial que asignaba un grupo de indígenas a un español (encomendero), quien debía evangelizarlos y protegerlos a cambio de su trabajo y tributos. En la práctica fue una forma de explotación. -->
@@ -174,14 +188,15 @@ Se evalúa la comprensión del sistema de encomiendas. La respuesta correcta lo 
 ## Question 8 [D5]
 
 **ID:** `CO-SOC-5-2026-P1-descubrimiento-conquista-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** En un debate escolar en la I.E. Normal de Pamplona, los estudiantes discuten si la conquista fue un descubrimiento o un encuentro.
+**Contexto:** En un debate escolar en la I.E. Normal de Pamplona, los estudiantes discuten si la conquista fue un descubrimiento o un encuentro.
 
 ### Enunciado
 El término "descubrimiento de América" ha sido criticado porque:
 
-### Options
+### Opciones
 - [ ] A) Ignora que el territorio ya estaba habitado por millones de personas con sus propias culturas y civilizaciones antes de la llegada de los europeos. <!-- feedback: Correcta. -->
 - [x] B) Da a entender que las tierras y culturas no existían antes de la llegada de los europeos, cuando en realidad ya estaban habitadas por pueblos con culturas desarrolladas. <!-- feedback: Correcto. El término "descubrimiento" es eurocéntrico porque sugiere que el territorio no existía o no tenía valor antes de que los europeos lo "descubrieran", invisibilizando a las culturas precolombinas. -->
 - [ ] C) Fue un evento que no tuvo impacto en la historia mundial. <!-- feedback: Incorrecto. Tuvo un impacto enorme y transformador. -->
@@ -195,14 +210,15 @@ Se evalúa la capacidad de analizar críticamente el término "descubrimiento". 
 ## Question 9 [D5]
 
 **ID:** `CO-SOC-5-2026-P1-descubrimiento-conquista-001-MASTERY-v9`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En la clase de sociales de la I.E. Simón Bolívar de Sincelejo, los estudiantes analizan las consecuencias de la conquista.
+**Contexto:** En la clase de sociales de la I.E. Simón Bolívar de Sincelejo, los estudiantes analizan las consecuencias de la conquista.
 
 ### Enunciado
 Una de las consecuencias más graves de la conquista para la población indígena fue:
 
-### Options
+### Opciones
 - [ ] A) El aumento de su población gracias a la medicina europea. <!-- feedback: Incorrecto. La población indígena disminuyó drásticamente. -->
 - [ ] B) Que aprendieron a hablar nuevas lenguas europeas. <!-- feedback: Incorrecto. Aunque eso ocurrió, ese no fue el efecto más grave. -->
 - [x] C) La drástica disminución de la población indígena debido a las enfermedades traídas por los europeos, la violencia de la conquista y el trabajo forzado. <!-- feedback: Correcto. Se estima que la población indígena de América se redujo entre un 80% y un 95% en el primer siglo después de la llegada de los europeos, principalmente por enfermedades como la viruela y el sarampión. -->
@@ -216,14 +232,15 @@ Se evalúa la capacidad de analizar las consecuencias demográficas de la conqui
 ## Question 10 [D5]
 
 **ID:** `CO-SOC-5-2026-P1-descubrimiento-conquista-001-MASTERY-v10`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** En la clase de formación ciudadana de la I.E. José Celestino Mutis de Bogotá, la profesora pregunta por la herencia cultural de la conquista.
+**Contexto:** En la clase de formación ciudadana de la I.E. José Celestino Mutis de Bogotá, la profesora pregunta por la herencia cultural de la conquista.
 
 ### Enunciado
 Del encuentro entre españoles e indígenas surgió una nueva cultura mezclada. Esta mezcla de razas y culturas se conoce como:
 
-### Options
+### Opciones
 - [ ] A) El apartheid. <!-- feedback: Incorrecto. El apartheid fue un sistema de segregación racial en Sudáfrica. -->
 - [ ] B) La segregación racial. <!-- feedback: Incorrecto. Hubo segregación, pero el resultado fue el mestizaje. -->
 - [x] C) El mestizaje, que dio origen a la mayoría de la población colombiana actual, mezcla de indígenas, españoles y africanos. <!-- feedback: Correcto. El mestizaje es el proceso de mezcla biológica y cultural entre indígenas, europeos y africanos que dio origen a la población colombiana actual, con su diversidad de fenotipos, tradiciones, música, gastronomía y religión. -->

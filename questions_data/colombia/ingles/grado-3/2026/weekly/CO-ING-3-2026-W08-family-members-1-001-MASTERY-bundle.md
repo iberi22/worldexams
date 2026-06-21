@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W08-family-members-1-001-MASTERY"
+id: "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "family-members-1"
 periodo: "weekly"
-semana: 8
+week: "W08"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "Vocabulary for immediate family members: mother, father, broth
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W08: Family Members 1 (A1)
 
@@ -32,11 +37,12 @@ Este bundle evalúa el vocabulario de los miembros principales de la familia.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Madre"** in English?
 
-### Options
+### Opciones
 - [ ] A) Father <!-- feedback: Incorrect. Father is padre. -->
 - [x] B) Mother <!-- feedback: Correct! Mother is madre. -->
 - [ ] C) Sister <!-- feedback: Incorrect. Sister is hermana. -->
@@ -52,11 +58,12 @@ La madre en inglés se dice "mother". También se le puede decir de forma cariñ
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Padre"** in English?
 
-### Options
+### Opciones
 - [x] A) Father <!-- feedback: Correct! Father is padre. -->
 - [ ] B) Mother <!-- feedback: Incorrect. -->
 - [ ] C) Brother <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ El padre en inglés se dice "father". También se usa "Dad" o "Daddy".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Hermano"** in English?
 
-### Options
+### Opciones
 - [ ] A) Sister <!-- feedback: Incorrect. -->
 - [x] B) Brother <!-- feedback: Correct! Brother is hermano. -->
 - [ ] C) Baby <!-- feedback: Incorrect. -->
@@ -92,11 +100,12 @@ Hermano en inglés se dice "brother".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Hermana"** in English?
 
-### Options
+### Opciones
 - [ ] A) Brother <!-- feedback: Incorrect. -->
 - [x] B) Sister <!-- feedback: Correct! Sister is hermana. -->
 - [ ] C) Mother <!-- feedback: Incorrect. -->
@@ -112,11 +121,12 @@ Hermana en inglés se dice "sister".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Mother + Father = ?
 
-### Options
+### Opciones
 - [x] A) Parents <!-- feedback: Correct! Both together are called parents. -->
 - [ ] B) Brothers <!-- feedback: Incorrect. -->
 - [ ] C) Sisters <!-- feedback: Incorrect. -->
@@ -132,11 +142,12 @@ En inglés, a la madre y al padre juntos se les llama "parents" (padres). ¡Cuid
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Who is the **baby** in the family?
 
-### Options
+### Opciones
 - [ ] A) The father <!-- feedback: Incorrect. -->
 - [ ] B) The mother <!-- feedback: Incorrect. -->
 - [x] C) The smallest child <!-- feedback: Correct! The baby is the infant. -->
@@ -152,11 +163,12 @@ El miembro más pequeño de la familia suele ser el "baby" (bebé).
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 My father's name is Carlos. He is my _______.
 
-### Options
+### Opciones
 - [ ] A) Mother <!-- feedback: Incorrect. -->
 - [x] B) Father <!-- feedback: Correct! -->
 - [ ] C) Sister <!-- feedback: Incorrect. -->
@@ -172,11 +184,12 @@ Si hablamos de un hombre que es nuestro progenitor, usamos "father".
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Complete: **"I love my _______"** (MAMÁ).
 
-### Options
+### Opciones
 - [ ] A) Dad <!-- feedback: Incorrect. -->
 - [x] B) Mom <!-- feedback: Correct! Mom is a short way to say mother. -->
 - [ ] C) Brother <!-- feedback: Incorrect. -->
@@ -192,11 +205,12 @@ Complete: **"I love my _______"** (MAMÁ).
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Choose the male (masculino) family member:
 
-### Options
+### Opciones
 - [ ] A) Mother <!-- feedback: Incorrect. -->
 - [ ] B) Sister <!-- feedback: Incorrect. -->
 - [x] C) Brother <!-- feedback: Correct! Brother is male. -->
@@ -212,11 +226,12 @@ Choose the male (masculino) family member:
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 If you have a **"Sister"**, she is:
 
-### Options
+### Opciones
 - [ ] A) A boy <!-- feedback: Incorrect. -->
 - [x] B) A girl <!-- feedback: Correct! Sister is female. -->
 - [ ] C) A teacher <!-- feedback: Incorrect. -->

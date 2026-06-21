@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W06-classroom-objects-001-MASTERY"
+id: "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "classroom-objects"
 periodo: "weekly"
-semana: 6
+week: "W06"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "Vocabulary for common classroom objects like pencil, book, des
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W06: Classroom Objects (A1)
 
@@ -32,11 +37,12 @@ Este bundle evalúa el vocabulario de objetos comunes en el salón de clases.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is this object: ✏️ ?
 
-### Options
+### Opciones
 - [x] A) Pencil <!-- feedback: Correct! That is a pencil. -->
 - [ ] B) Pen <!-- feedback: Incorrect. A pen uses ink. -->
 - [ ] C) Eraser <!-- feedback: Incorrect. -->
@@ -52,11 +58,12 @@ El lápiz se dice "pencil" en inglés. Es una de las palabras más importantes e
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 You use it to read: 📖. What is it?
 
-### Options
+### Opciones
 - [ ] A) Notebook <!-- feedback: Incorrect. A notebook is for writing. -->
 - [x] B) Book <!-- feedback: Correct! This is a book. -->
 - [ ] C) Desk <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ Un libro se dice "book" en inglés.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Borrador"** in English?
 
-### Options
+### Opciones
 - [ ] A) Pencil <!-- feedback: Incorrect. -->
 - [x] B) Eraser <!-- feedback: Correct! "Eraser" is borrador. -->
 - [ ] C) Sharpener <!-- feedback: Incorrect. That is sacapuntas. -->
@@ -92,11 +100,12 @@ Para borrar lo que escribimos con el lápiz usamos el "eraser".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Where do you sit in class?
 
-### Options
+### Opciones
 - [ ] A) Desk <!-- feedback: Incorrect. You sit AT the desk, but ON the chair. -->
 - [x] B) Chair <!-- feedback: Correct! You sit on a chair. -->
 - [ ] C) Board <!-- feedback: Incorrect. The board is for writing. -->
@@ -112,11 +121,12 @@ La silla se dice "chair" en inglés.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is the teacher writing on?
 
-### Options
+### Opciones
 - [ ] A) Window <!-- feedback: Incorrect. -->
 - [ ] B) Door <!-- feedback: Incorrect. -->
 - [x] C) Board <!-- feedback: Correct! The teacher writes on the board. -->
@@ -132,11 +142,12 @@ El tablero o la pizarra se llama "board" en inglés.
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Cuaderno"** in English?
 
-### Options
+### Opciones
 - [x] A) Notebook <!-- feedback: Correct! Notebook is cuaderno. -->
 - [ ] B) Book <!-- feedback: Incorrect. Book is libro. -->
 - [ ] C) Paper <!-- feedback: Incorrect. Paper is papel. -->
@@ -152,11 +163,12 @@ Un cuaderno, donde tomamos notas, se dice "notebook".
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 You use it to draw straight lines:
 
-### Options
+### Opciones
 - [ ] A) Pen <!-- feedback: Incorrect. -->
 - [ ] B) Eraser <!-- feedback: Incorrect. -->
 - [x] C) Ruler <!-- feedback: Correct! A ruler is used for lines. -->
@@ -172,11 +184,12 @@ La regla se dice "ruler". Sirve para medir y hacer líneas rectas.
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Maleta"** or **"Morral"**?
 
-### Options
+### Opciones
 - [ ] A) Case <!-- feedback: Incorrect. -->
 - [ ] B) Box <!-- feedback: Incorrect. -->
 - [x] C) Backpack <!-- feedback: Correct! Backpack is maleta. -->
@@ -192,11 +205,12 @@ El morral o maleta escolar donde llevamos los útiles se dice "backpack".
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Where do you put your pens and pencils?
 
-### Options
+### Opciones
 - [ ] A) Book <!-- feedback: Incorrect. -->
 - [x] B) Pencil case <!-- feedback: Correct! This is for pencils. -->
 - [ ] C) Chair <!-- feedback: Incorrect. -->
@@ -212,11 +226,12 @@ La cartuchera se dice "pencil case".
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Sacapuntas"**?
 
-### Options
+### Opciones
 - [x] A) Sharpener <!-- feedback: Correct! -->
 - [ ] B) Ruler <!-- feedback: Incorrect. -->
 - [ ] C) Eraser <!-- feedback: Incorrect. -->

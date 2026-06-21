@@ -1,10 +1,10 @@
 ---
-id: "CO-SOC-6-2026-W31-participacion-ciudadana-001-MASTERY"
+id: "CO-SOC-6-2026-W31-participacion-ciudadana-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "sociales-ciudadanas"
 tema: "participacion-ciudadana"
-semana: "W31"
+week: "W31"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -15,7 +15,12 @@ distractor_profile: "plausible_peer_set"
 rubric_baseline: "Participación ciudadana - Grado 6"
 license: "FREE"
 
+bundle_type: "weekly"
+total_questions: 10
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Participación ciudadana - Grado 6
 
@@ -25,7 +30,7 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ---
 
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 **ID:** `CO-SOC-6-2026-W31-participacion-ciudadana-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento Ciudadano
@@ -36,21 +41,20 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ¿Cuál es un mecanismo de participación ciudadana en Colombia?
 
 ### Opciones
-- [x] A) El voto
-  <!-- feedback: ¡Correcto! El voto es el mecanismo fundamental. -->
-- [ ] B) El pago de impuestos
-  <!-- feedback: Eso es una obligación, no participación. -->
-- [ ] C) La matrícula escolar
-  <!-- feedback: No es participación ciudadana. -->
-- [ ] D) El registro civil
-  <!-- feedback: Eso es identificación. -->
+- [x] A) El voto <!-- feedback: Correcto! El voto -->
+
+- [ ] B) El pago de impuestos <!-- feedback: Incorrecto. El pago de impuestos -->
+
+- [ ] C) La matrícula escolar <!-- feedback: Incorrecto. La matrícula escolar -->
+
+- [ ] D) El registro civil <!-- feedback: Incorrecto. El registro civil -->
 
 ### Explicación Pedagógica
 Los mecanismos de participación incluyen el voto, plebiscito, referendo y cabildo abierto.
 
 ---
 
-## Pregunta 2 [D2]
+## Question 2 [D2]
 **ID:** `CO-SOC-6-2026-W31-participacion-ciudadana-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Pensamiento Social
@@ -61,21 +65,20 @@ Los mecanismos de participación incluyen el voto, plebiscito, referendo y cabil
 ¿Cuál es un mecanismo de participación ciudadana en Colombia?
 
 ### Opciones
-- [x] A) El voto
-  <!-- feedback: ¡Correcto! El voto es el mecanismo fundamental. -->
-- [ ] B) El pago de impuestos
-  <!-- feedback: Eso es una obligación, no participación. -->
-- [ ] C) La matrícula escolar
-  <!-- feedback: No es participación ciudadana. -->
-- [ ] D) El registro civil
-  <!-- feedback: Eso es identificación. -->
+- [x] A) El voto <!-- feedback: Correcto! El voto -->
+
+- [ ] B) El pago de impuestos <!-- feedback: Incorrecto. El pago de impuestos -->
+
+- [ ] C) La matrícula escolar <!-- feedback: Incorrecto. La matrícula escolar -->
+
+- [ ] D) El registro civil <!-- feedback: Incorrecto. El registro civil -->
 
 ### Explicación Pedagógica
 Los mecanismos de participación incluyen el voto, plebiscito, referendo y cabildo abierto.
 
 ---
 
-## Pregunta 3 [D3]
+## Question 3 [D3]
 **ID:** `CO-SOC-6-2026-W31-participacion-ciudadana-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
@@ -86,21 +89,20 @@ Los mecanismos de participación incluyen el voto, plebiscito, referendo y cabil
 ¿Cuál es un mecanismo de participación ciudadana en Colombia?
 
 ### Opciones
-- [x] A) El voto
-  <!-- feedback: ¡Correcto! El voto es el mecanismo fundamental. -->
-- [ ] B) El pago de impuestos
-  <!-- feedback: Eso es una obligación, no participación. -->
-- [ ] C) La matrícula escolar
-  <!-- feedback: No es participación ciudadana. -->
-- [ ] D) El registro civil
-  <!-- feedback: Eso es identificación. -->
+- [x] A) El voto <!-- feedback: Correcto! El voto -->
+
+- [ ] B) El pago de impuestos <!-- feedback: Incorrecto. El pago de impuestos -->
+
+- [ ] C) La matrícula escolar <!-- feedback: Incorrecto. La matrícula escolar -->
+
+- [ ] D) El registro civil <!-- feedback: Incorrecto. El registro civil -->
 
 ### Explicación Pedagógica
 Los mecanismos de participación incluyen el voto, plebiscito, referendo y cabildo abierto.
 
 ---
 
-## Pregunta 4 [D3]
+## Question 4 [D3]
 **ID:** `CO-SOC-6-2026-W31-participacion-ciudadana-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Ciudadano
@@ -111,21 +113,20 @@ Los mecanismos de participación incluyen el voto, plebiscito, referendo y cabil
 ¿Cuál es un mecanismo de participación ciudadana en Colombia?
 
 ### Opciones
-- [x] A) El voto
-  <!-- feedback: ¡Correcto! El voto es el mecanismo fundamental. -->
-- [ ] B) El pago de impuestos
-  <!-- feedback: Eso es una obligación, no participación. -->
-- [ ] C) La matrícula escolar
-  <!-- feedback: No es participación ciudadana. -->
-- [ ] D) El registro civil
-  <!-- feedback: Eso es identificación. -->
+- [x] A) El voto <!-- feedback: Correcto! El voto -->
+
+- [ ] B) El pago de impuestos <!-- feedback: Incorrecto. El pago de impuestos -->
+
+- [ ] C) La matrícula escolar <!-- feedback: Incorrecto. La matrícula escolar -->
+
+- [ ] D) El registro civil <!-- feedback: Incorrecto. El registro civil -->
 
 ### Explicación Pedagógica
 Los mecanismos de participación incluyen el voto, plebiscito, referendo y cabildo abierto.
 
 ---
 
-## Pregunta 5 [D4]
+## Question 5 [D4]
 **ID:** `CO-SOC-6-2026-W31-participacion-ciudadana-001-MASTERY-v5`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
@@ -136,21 +137,20 @@ Los mecanismos de participación incluyen el voto, plebiscito, referendo y cabil
 ¿Cuál es un mecanismo de participación ciudadana en Colombia?
 
 ### Opciones
-- [x] A) El voto
-  <!-- feedback: ¡Correcto! El voto es el mecanismo fundamental. -->
-- [ ] B) El pago de impuestos
-  <!-- feedback: Eso es una obligación, no participación. -->
-- [ ] C) La matrícula escolar
-  <!-- feedback: No es participación ciudadana. -->
-- [ ] D) El registro civil
-  <!-- feedback: Eso es identificación. -->
+- [x] A) El voto <!-- feedback: Correcto! El voto -->
+
+- [ ] B) El pago de impuestos <!-- feedback: Incorrecto. El pago de impuestos -->
+
+- [ ] C) La matrícula escolar <!-- feedback: Incorrecto. La matrícula escolar -->
+
+- [ ] D) El registro civil <!-- feedback: Incorrecto. El registro civil -->
 
 ### Explicación Pedagógica
 Los mecanismos de participación incluyen el voto, plebiscito, referendo y cabildo abierto.
 
 ---
 
-## Pregunta 6 [D4]
+## Question 6 [D4]
 **ID:** `CO-SOC-6-2026-W31-participacion-ciudadana-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
@@ -161,21 +161,20 @@ Los mecanismos de participación incluyen el voto, plebiscito, referendo y cabil
 ¿Cuál es un mecanismo de participación ciudadana en Colombia?
 
 ### Opciones
-- [x] A) El voto
-  <!-- feedback: ¡Correcto! El voto es el mecanismo fundamental. -->
-- [ ] B) El pago de impuestos
-  <!-- feedback: Eso es una obligación, no participación. -->
-- [ ] C) La matrícula escolar
-  <!-- feedback: No es participación ciudadana. -->
-- [ ] D) El registro civil
-  <!-- feedback: Eso es identificación. -->
+- [x] A) El voto <!-- feedback: Correcto! El voto -->
+
+- [ ] B) El pago de impuestos <!-- feedback: Incorrecto. El pago de impuestos -->
+
+- [ ] C) La matrícula escolar <!-- feedback: Incorrecto. La matrícula escolar -->
+
+- [ ] D) El registro civil <!-- feedback: Incorrecto. El registro civil -->
 
 ### Explicación Pedagógica
 Los mecanismos de participación incluyen el voto, plebiscito, referendo y cabildo abierto.
 
 ---
 
-## Pregunta 7 [D5]
+## Question 7 [D5]
 **ID:** `CO-SOC-6-2026-W31-participacion-ciudadana-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Pensamiento Ciudadano
@@ -186,21 +185,20 @@ Los mecanismos de participación incluyen el voto, plebiscito, referendo y cabil
 ¿Cuál es un mecanismo de participación ciudadana en Colombia?
 
 ### Opciones
-- [x] A) El voto
-  <!-- feedback: ¡Correcto! El voto es el mecanismo fundamental. -->
-- [ ] B) El pago de impuestos
-  <!-- feedback: Eso es una obligación, no participación. -->
-- [ ] C) La matrícula escolar
-  <!-- feedback: No es participación ciudadana. -->
-- [ ] D) El registro civil
-  <!-- feedback: Eso es identificación. -->
+- [x] A) El voto <!-- feedback: Correcto! El voto -->
+
+- [ ] B) El pago de impuestos <!-- feedback: Incorrecto. El pago de impuestos -->
+
+- [ ] C) La matrícula escolar <!-- feedback: Incorrecto. La matrícula escolar -->
+
+- [ ] D) El registro civil <!-- feedback: Incorrecto. El registro civil -->
 
 ### Explicación Pedagógica
 Los mecanismos de participación incluyen el voto, plebiscito, referendo y cabildo abierto.
 
 ---
 
-## Pregunta 8 [D2-D3]
+## Question 8 [D2-D3]
 **ID:** `CO-SOC-6-2026-W31-participacion-ciudadana-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
@@ -211,21 +209,20 @@ Los mecanismos de participación incluyen el voto, plebiscito, referendo y cabil
 ¿Cuál es un mecanismo de participación ciudadana en Colombia?
 
 ### Opciones
-- [x] A) El voto
-  <!-- feedback: ¡Correcto! El voto es el mecanismo fundamental. -->
-- [ ] B) El pago de impuestos
-  <!-- feedback: Eso es una obligación, no participación. -->
-- [ ] C) La matrícula escolar
-  <!-- feedback: No es participación ciudadana. -->
-- [ ] D) El registro civil
-  <!-- feedback: Eso es identificación. -->
+- [x] A) El voto <!-- feedback: Correcto! El voto -->
+
+- [ ] B) El pago de impuestos <!-- feedback: Incorrecto. El pago de impuestos -->
+
+- [ ] C) La matrícula escolar <!-- feedback: Incorrecto. La matrícula escolar -->
+
+- [ ] D) El registro civil <!-- feedback: Incorrecto. El registro civil -->
 
 ### Explicación Pedagógica
 Los mecanismos de participación incluyen el voto, plebiscito, referendo y cabildo abierto.
 
 ---
 
-## Pregunta 9 [D3-D4]
+## Question 9 [D3-D4]
 **ID:** `CO-SOC-6-2026-W31-participacion-ciudadana-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Social
@@ -236,21 +233,20 @@ Los mecanismos de participación incluyen el voto, plebiscito, referendo y cabil
 ¿Cuál es un mecanismo de participación ciudadana en Colombia?
 
 ### Opciones
-- [x] A) El voto
-  <!-- feedback: ¡Correcto! El voto es el mecanismo fundamental. -->
-- [ ] B) El pago de impuestos
-  <!-- feedback: Eso es una obligación, no participación. -->
-- [ ] C) La matrícula escolar
-  <!-- feedback: No es participación ciudadana. -->
-- [ ] D) El registro civil
-  <!-- feedback: Eso es identificación. -->
+- [x] A) El voto <!-- feedback: Correcto! El voto -->
+
+- [ ] B) El pago de impuestos <!-- feedback: Incorrecto. El pago de impuestos -->
+
+- [ ] C) La matrícula escolar <!-- feedback: Incorrecto. La matrícula escolar -->
+
+- [ ] D) El registro civil <!-- feedback: Incorrecto. El registro civil -->
 
 ### Explicación Pedagógica
 Los mecanismos de participación incluyen el voto, plebiscito, referendo y cabildo abierto.
 
 ---
 
-## Pregunta 10 [D4-D5]
+## Question 10 [D4-D5]
 **ID:** `CO-SOC-6-2026-W31-participacion-ciudadana-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Ciudadano
@@ -261,14 +257,13 @@ Los mecanismos de participación incluyen el voto, plebiscito, referendo y cabil
 ¿Cuál es un mecanismo de participación ciudadana en Colombia?
 
 ### Opciones
-- [x] A) El voto
-  <!-- feedback: ¡Correcto! El voto es el mecanismo fundamental. -->
-- [ ] B) El pago de impuestos
-  <!-- feedback: Eso es una obligación, no participación. -->
-- [ ] C) La matrícula escolar
-  <!-- feedback: No es participación ciudadana. -->
-- [ ] D) El registro civil
-  <!-- feedback: Eso es identificación. -->
+- [x] A) El voto <!-- feedback: Correcto! El voto -->
+
+- [ ] B) El pago de impuestos <!-- feedback: Incorrecto. El pago de impuestos -->
+
+- [ ] C) La matrícula escolar <!-- feedback: Incorrecto. La matrícula escolar -->
+
+- [ ] D) El registro civil <!-- feedback: Incorrecto. El registro civil -->
 
 ### Explicación Pedagógica
 Los mecanismos de participación incluyen el voto, plebiscito, referendo y cabildo abierto.

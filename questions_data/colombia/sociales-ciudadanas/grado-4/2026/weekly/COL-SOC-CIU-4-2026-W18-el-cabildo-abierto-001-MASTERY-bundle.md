@@ -1,5 +1,5 @@
 ---
-id: "COL-SOC-CIU-4-2026-W18-el-cabildo-abierto-001-MASTERY"
+id: "COL-SOC-CIU-4-2026-W18-el-cabildo-abierto-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Mecanismos de participación: el cabildo abierto"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: El cabildo abierto
 
@@ -30,14 +35,15 @@ Este bundle explica qué es el cabildo abierto, cómo funciona y por qué es imp
 ## Question 1 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W18-el-cabildo-abierto-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Cabildo abierto en Ibagué
+**Contexto:** Cabildo abierto en Ibagué
 
 ### Enunciado
 ¿Qué es un cabildo abierto?
 
-### Options
+### Opciones
 - [ ] A) Una iglesia abierta al público. <!-- feedback: Incorrecto. No es un lugar religioso. -->
 - [x] B) Una reunión pública del concejo municipal donde los ciudadanos pueden participar y expresar sus opiniones. <!-- feedback: Correcto. El cabildo abierto permite la participación ciudadana directa en el concejo. -->
 - [ ] C) Una tienda de barrio. <!-- feedback: Incorrecto. No es un comercio. -->
@@ -51,14 +57,15 @@ Este bundle explica qué es el cabildo abierto, cómo funciona y por qué es imp
 ## Question 2 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W18-el-cabildo-abierto-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Participación en cabildo
+**Contexto:** Participación en cabildo
 
 ### Enunciado
 ¿Quiénes pueden participar en un cabildo abierto?
 
-### Options
+### Opciones
 - [ ] A) Solo los concejales. <!-- feedback: Incorrecto. Los ciudadanos también participan. -->
 - [ ] B) Solo el alcalde. <!-- feedback: Incorrecto. Es abierto a todos. -->
 - [x] C) Todos los ciudadanos que quieran asistir y expresar sus opiniones. <!-- feedback: Correcto. El cabildo abierto es público y abierto a toda la comunidad. -->
@@ -72,14 +79,15 @@ Este bundle explica qué es el cabildo abierto, cómo funciona y por qué es imp
 ## Question 3 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W18-el-cabildo-abierto-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Diferencia con sesión del concejo
+**Contexto:** Diferencia con sesión del concejo
 
 ### Enunciado
 ¿En qué se diferencia un cabildo abierto de una sesión normal del concejo municipal?
 
-### Options
+### Opciones
 - [ ] A) No hay diferencia. <!-- feedback: Incorrecto. Hay diferencias importantes. -->
 - [ ] B) En el cabildo abierto no se permiten ciudadanos. <!-- feedback: Incorrecto. Todo lo contrario. -->
 - [x] C) En el cabildo abierto los ciudadanos pueden hablar y dar sus opiniones, en la sesión normal solo observan. <!-- feedback: Correcto. La participación ciudadana activa es la diferencia clave. -->
@@ -93,14 +101,15 @@ Este bundle explica qué es el cabildo abierto, cómo funciona y por qué es imp
 ## Question 4 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W18-el-cabildo-abierto-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Temas del cabildo
+**Contexto:** Temas del cabildo
 
 ### Enunciado
 ¿Sobre qué temas se puede hablar en un cabildo abierto?
 
-### Options
+### Opciones
 - [ ] A) Temas personales de los ciudadanos. <!-- feedback: Incorrecto. Son temas de interés público. -->
 - [x] B) Asuntos de interés público que afectan a la comunidad. <!-- feedback: Correcto. Los cabildos tratan temas como servicios públicos, obras, seguridad, etc. -->
 - [ ] C) Temas de farándula. <!-- feedback: Incorrecto. No son temas relevantes para el concejo. -->
@@ -114,14 +123,15 @@ Este bundle explica qué es el cabildo abierto, cómo funciona y por qué es imp
 ## Question 5 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W18-el-cabildo-abierto-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Solicitar un cabildo
+**Contexto:** Solicitar un cabildo
 
 ### Enunciado
 ¿Quién puede solicitar un cabildo abierto en el municipio?
 
-### Options
+### Opciones
 - [ ] A) Solo el presidente de la república. <!-- feedback: Incorrecto. No es nacional. -->
 - [ ] B) Solo el alcalde. <!-- feedback: Incorrecto. Los ciudadanos también. -->
 - [x] C) Un grupo de ciudadanos puede solicitar al concejo municipal que realice un cabildo abierto sobre un tema de interés. <!-- feedback: Correcto. Los ciudadanos organizados pueden solicitarlo formalmente. -->
@@ -135,14 +145,15 @@ Este bundle explica qué es el cabildo abierto, cómo funciona y por qué es imp
 ## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W18-el-cabildo-abierto-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Cabildo abierto escolar
+**Contexto:** Cabildo abierto escolar
 
 ### Enunciado
 ¿Cómo podrían los estudiantes adaptar el cabildo abierto en su colegio?
 
-### Options
+### Opciones
 - [ ] A) No pueden, solo los adultos. <!-- feedback: Incorrecto. Pueden adaptar el mecanismo. -->
 - [x] B) Pidiendo al rector una reunión donde los estudiantes expongan sus ideas y propuestas sobre el funcionamiento del colegio. <!-- feedback: Correcto. El cabildo abierto escolar permite a los estudiantes expresar sus opiniones democráticamente. -->
 - [ ] C) Haciendo una fiesta. <!-- feedback: Incorrecto. No es un evento social. -->
@@ -156,14 +167,15 @@ Este bundle explica qué es el cabildo abierto, cómo funciona y por qué es imp
 ## Question 7 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W18-el-cabildo-abierto-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Importancia del cabildo
+**Contexto:** Importancia del cabildo
 
 ### Enunciado
 ¿Por qué es importante el cabildo abierto para la democracia local?
 
-### Options
+### Opciones
 - [ ] A) Porque entretiene a la gente. <!-- feedback: Incorrecto. Su importancia va más allá del entretenimiento. -->
 - [ ] B) Porque reemplaza al alcalde. <!-- feedback: Incorrecto. No reemplaza a ninguna autoridad. -->
 - [x] C) Porque permite que la comunidad exprese sus necesidades directamente a los concejales y busquen soluciones juntos. <!-- feedback: Correcto. El cabildo abierto fortalece la democracia participativa local. -->
@@ -177,14 +189,15 @@ Este bundle explica qué es el cabildo abierto, cómo funciona y por qué es imp
 ## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W18-el-cabildo-abierto-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Participación efectiva
+**Contexto:** Participación efectiva
 
 ### Enunciado
 ¿Qué se necesita para que un cabildo abierto sea realmente efectivo?
 
-### Options
+### Opciones
 - [ ] A) Que los ciudadanos asistan en silencio sin opinar. <!-- feedback: Incorrecto. La participación activa es clave. -->
 - [x] B) Que los ciudadanos lleguen preparados con ideas claras y los concejales se comprometan a dar respuesta. <!-- feedback: Correcto. La preparación y el diálogo constructivo son esenciales para lograr resultados. -->
 - [ ] C) Que nadie opine diferente a los concejales. <!-- feedback: Incorrecto. La diversidad de opiniones enriquece el debate. -->
@@ -198,14 +211,15 @@ Este bundle explica qué es el cabildo abierto, cómo funciona y por qué es imp
 ## Question 9 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W18-el-cabildo-abierto-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Evaluación del cabildo
+**Contexto:** Evaluación del cabildo
 
 ### Enunciado
 ¿Crees que los ciudadanos de tu municipio asisten y participan en los cabildos abiertos?
 
-### Options
+### Opciones
 - [ ] A) No, no les interesa la política local. <!-- feedback: En muchos casos es cierto, pero no es ideal. -->
 - [ ] B) Sí, todos participan activamente. <!-- feedback: Ideal pero no realista en todos los municipios. -->
 - [x] C) Algunos participan, pero muchos desconocen este mecanismo o no tienen tiempo. Sería bueno que más personas se involucraran. <!-- feedback: Correcto. La baja participación es un desafío para la democracia local. -->
@@ -220,13 +234,14 @@ Este bundle explica qué es el cabildo abierto, cómo funciona y por qué es imp
 
 **ID:** `COL-SOC-CIU-4-2026-W18-el-cabildo-abierto-001-MASTERY-v10`
 **Bloom:** [Create]
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Invitación al cabildo
+**Contexto:** Invitación al cabildo
 
 ### Enunciado
 Diseña un volante para invitar a los vecinos de tu barrio a un cabildo abierto sobre el arreglo de las calles.
 
-### Options
+### Opciones
 - [ ] A) Un volante que diga solo "Vengan al cabildo". <!-- feedback: Incorrecto. Debe tener más información. -->
 - [ ] B) Un volante que amenace con multas si no asisten. <!-- feedback: Incorrecto. La amenaza no es democrática. -->
 - [x] C) Un volante con fecha, hora, lugar, el tema a tratar y la importancia de la participación ciudadana para lograr mejoras en el barrio. <!-- feedback: Correcto. Un volante informativo y motivador fomenta la participación. -->

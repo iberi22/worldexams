@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY"
+id: "CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "mecanismos_participacion_ciudadana, voto, plebiscito, referendo, consulta_popular, cabildo_abierto, revocatoria_mandato, iniciativa_legislativa"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Mecanismos de Participación Ciudadana
 
@@ -24,17 +31,17 @@ Este bundle cubre los mecanismos de participación ciudadana en Colombia: voto, 
 
 ---
 
-## Question 1
-
+## Question 1 [D1]
 **ID:** `CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es el mecanismo de participación ciudadana más común en Colombia?
 
-### Options
+### Opciones
 - [ ] A) La revocatoria del mandato <!-- feedback: Incorrecto. Ese mecanismo se usa en casos específicos, no es el más común. -->
 - [x] B) El voto en elecciones populares <!-- feedback: Correcto. El voto es el mecanismo de participación más utilizado en Colombia. -->
 - [ ] C) El referendo constitucional <!-- feedback: Incorrecto. Se usa con menos frecuencia que las elecciones. -->
@@ -45,17 +52,17 @@ El voto es la forma más básica y extendida de participación ciudadana. Cada 4
 
 ---
 
-## Question 2
-
+## Question 2 [D1]
 **ID:** `CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál de los siguientes es un mecanismo de participación ciudadana en Colombia?
 
-### Options
+### Opciones
 - [ ] A) El pago de impuestos <!-- feedback: Incorrecto. Pagar impuestos es una obligación, no un mecanismo de participación. -->
 - [ ] B) La declaración de renta anual <!-- feedback: Incorrecto. Es una obligación tributaria. -->
 - [x] C) La revocatoria del mandato <!-- feedback: Correcto. Permite a los ciudadanos remover a un funcionario electo antes de terminar su periodo. -->
@@ -66,17 +73,17 @@ La revocatoria del mandato permite que los ciudadanos decidan si un alcalde o go
 
 ---
 
-## Question 3
-
+## Question 3 [D1]
 **ID:** `CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es la diferencia entre un referendo y un plebiscito?
 
-### Options
+### Opciones
 - [ ] A) Son exactamente lo mismo con diferente nombre <!-- feedback: Incorrecto. Hay diferencias importantes. -->
 - [x] B) El referendo convoca al pueblo para aprobar o rechazar un proyecto de ley o reforma constitucional; el plebiscito es para respaldar o no decisiones del presidente <!-- feedback: Correcto. Ambos son consultas populares pero sobre temas diferentes. -->
 - [ ] C) El plebiscito lo hacen los colegios y el referendo el gobierno <!-- feedback: Incorrecto. No es una actividad escolar. -->
@@ -87,17 +94,17 @@ La Constitución distingue estos mecanismos: el referendo (nacional o local) se 
 
 ---
 
-## Question 4
-
+## Question 4 [D1]
 **ID:** `CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué es el Cabildo Abierto?
 
-### Options
+### Opciones
 - [ ] A) Una reunión secreta de los concejales municipales <!-- feedback: Incorrecto. El cabildo abierto es público. -->
 - [ ] B) Una feria artesanal que organiza el municipio <!-- feedback: Incorrecto. No es una feria. -->
 - [x] C) Una reunión pública del Concejo Municipal o la Asamblea Departamental donde los ciudadanos pueden participar directamente <!-- feedback: Correcto. Permite que la comunidad exprese sus opiniones ante los concejales. -->
@@ -108,17 +115,17 @@ El cabildo abierto es un espacio donde los ciudadanos pueden asistir a las sesio
 
 ---
 
-## Question 5
-
+## Question 5 [D1]
 **ID:** `CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué se necesita para que una Iniciativa Legislativa Popular (proyecto de ley presentado por ciudadanos) sea considerada por el Congreso?
 
-### Options
+### Opciones
 - [ ] A) Que un congresista lo proponga <!-- feedback: Incorrecto. La iniciativa debe partir de los ciudadanos, no de un congresista. -->
 - [x] B) Que un grupo de ciudadanos recoja las firmas de al menos el 5% del censo electoral <!-- feedback: Correcto. La Constitución exige un número mínimo de firmas para que el Congreso tramite la iniciativa. -->
 - [ ] C) Que el presidente lo apruebe antes <!-- feedback: Incorrecto. No necesita aprobación presidencial previa. -->
@@ -129,17 +136,17 @@ La Iniciativa Legislativa Popular (artículo 155 de la Constitución) permite qu
 
 ---
 
-## Question 6
-
+## Question 6 [D1]
 **ID:** `CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Un grupo de ciudadanos está inconforme con la gestión del alcalde de su municipio y quiere que sea removido de su cargo antes de que termine su periodo. ¿Qué mecanismo de participación pueden usar?
 
-### Options
+### Opciones
 - [ ] A) El referendo <!-- feedback: Incorrecto. El referendo es para aprobar o rechazar leyes. -->
 - [ ] B) El plebiscito <!-- feedback: Incorrecto. El plebiscito lo convoca el presidente, no los ciudadanos. -->
 - [x] C) La revocatoria del mandato <!-- feedback: Correcto. Este mecanismo permite a los ciudadanos destituir a un funcionario electo antes de tiempo. -->
@@ -150,17 +157,17 @@ La revocatoria del mandato (artículo 259 de la Constitución y Ley 134 de 1994)
 
 ---
 
-## Question 7
-
+## Question 7 [D1]
 **ID:** `CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 El presidente de la República quiere saber si los ciudadanos están de acuerdo con un tratado de paz que firmó. ¿Qué mecanismo debería usar?
 
-### Options
+### Opciones
 - [ ] A) Un referendo constitucional <!-- feedback: Incorrecto. Un tratado de paz no es una reforma constitucional. -->
 - [x] B) Un plebiscito <!-- feedback: Correcto. El plebiscito es la consulta popular que convoca el presidente para que el pueblo respalde sus decisiones sobre políticas específicas. -->
 - [ ] C) Un cabildo abierto <!-- feedback: Incorrecto. El cabildo abierto es a nivel municipal, no nacional. -->
@@ -171,17 +178,17 @@ El plebiscito (artículo 7 de la Ley 134 de 1994) es el mecanismo adecuado cuand
 
 ---
 
-## Question 8
-
+## Question 8 [D1]
 **ID:** `CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Por qué es importante que existan varios mecanismos de participación ciudadana y no solo el voto?
 
-### Options
+### Opciones
 - [ ] A) Porque el voto es complicado y los otros mecanismos son más sencillos <!-- feedback: Incorrecto. El voto es sencillo; la razón es de profundidad democrática. -->
 - [x] B) Porque la democracia participativa permite que los ciudadanos se involucren en las decisiones públicas de forma continua, no solo cada 4 años <!-- feedback: Correcto. La participación no se limita a elegir gobernantes. -->
 - [ ] C) Porque los colombianos se aburren de votar siempre lo mismo <!-- feedback: Incorrecto. No es por aburrimiento, sino por fortalecimiento democrático. -->
@@ -192,17 +199,17 @@ La democracia no se agota en las elecciones. Los mecanismos de participación pe
 
 ---
 
-## Question 9
-
+## Question 9 [D1]
 **ID:** `CO-SOC-6-2026-P2-mecanismos-participacion-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué requisito deben cumplir los mecanismos de participación para que sus resultados sean vinculantes (obligatorios)?
 
-### Options
+### Opciones
 - [ ] A) Que el presidente esté de acuerdo con el resultado <!-- feedback: Incorrecto. No depende de la opinión del presidente. -->
 - [ ] B) Que participe al menos una persona <!-- feedback: Incorrecto. Se requiere un mínimo de participación. -->
 - [x] C) Que particione al menos la cuarta parte (25%) del censo electoral, salvo la revocatoria que tiene sus propias reglas <!-- feedback: Correcto. La Ley 1757 de 2015 fija estos umbrales de participación. -->
@@ -223,7 +230,7 @@ Para que una consulta popular, referendo o plebiscito sea vinculante, debe parti
 ### Enunciado
 Analiza: en Colombia, la participación electoral en las últimas décadas ha sido baja (alrededor del 50% del censo). Si los jóvenes de 14 a 17 años pudieran votar, algunos creen que la participación aumentaría. Otros creen que los jóvenes no tienen la madurez suficiente. ¿Qué aspectos positivos y negativos tendría bajar la edad de votación a 16 años?
 
-### Options
+### Opciones
 - [ ] A) Sería positivo porque aumenta la participación, pero negativo porque los jóvenes no deben tener opiniones políticas <!-- feedback: Incorrecto. Los jóvenes sí tienen derecho a opinar. -->
 - [x] B) Positivo: más participación, formación temprana en ciudadanía, temas juveniles representados. Negativo: posible falta de madurez en decisiones complejas, riesgo de manipulación <!-- feedback: Correcto. El debate tiene argumentos válidos en ambos sentidos. -->
 - [ ] C) No tendría ningún efecto porque los jóvenes no votarían <!-- feedback: Incorrecto. Muchos jóvenes participarían. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-5-2026-P1-causa-consecuencia-001-MASTERY"
+id: "CO-LEC-5-2026-P1-causa-consecuencia-001-MASTERY-bundle"
 country: "colombia"
 grado: 5
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "causa y consecuencia, relaciones causales, efectos, razones, explicaciones"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G5: La Semana de la Ciencia en la I.E. La Unión
 
@@ -36,13 +43,14 @@ rubric_baseline: "causa y consecuencia, relaciones causales, efectos, razones, e
 
 **ID:** `CO-LC-5-2026-P1-causa-consecuencia-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** El anuncio de la Semana de la Ciencia.
+**Contexto:** El anuncio de la Semana de la Ciencia.
 
 ### Enunciado
 ¿Qué anunció la profesora Carmela a sus estudiantes?
 
-### Options
+### Opciones
 - [ ] A) Que habría examen final de ciencias. <!-- feedback: Incorrecto. No se menciona un examen. -->
 - [ ] B) Que el curso había ganado un premio. <!-- feedback: Incorrecto. No hay premio anunciado. -->
 - [x] C) Que la próxima semana sería la Semana de la Ciencia y cada curso debía presentar un experimento. <!-- feedback: Correcto. El texto dice exactamente eso al inicio. -->
@@ -57,13 +65,14 @@ Se evalúa la identificación del hecho que desencadena toda la actividad descri
 
 **ID:** `CO-LC-5-2026-P1-causa-consecuencia-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Experimento de las plantas.
+**Contexto:** Experimento de las plantas.
 
 ### Enunciado
 ¿Cuál fue la causa por la que la planta de Luis se inclinó hacia el agujero de la caja?
 
-### Options
+### Opciones
 - [ ] A) Porque la planta quería salir de la caja. <!-- feedback: Parcialmente correcto en intención, pero la causa científica es más específica. -->
 - [x] B) Porque la planta buscaba la luz del sol que entraba por el agujero. <!-- feedback: Correcto. El texto explica que las plantas se inclinan hacia la luz solar, que es lo que necesitan para crecer. -->
 - [ ] C) Porque el cartón estaba mojado. <!-- feedback: Incorrecto. No se menciona humedad en el cartón. -->
@@ -78,13 +87,14 @@ Se evalúa la identificación de una relación causa-efecto científica explicad
 
 **ID:** `CO-LC-5-2026-P1-causa-consecuencia-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Consecuencia de la falta de luz.
+**Contexto:** Consecuencia de la falta de luz.
 
 ### Enunciado
 ¿Qué consecuencia tuvo cubrir la planta con una bolsa oscura?
 
-### Options
+### Opciones
 - [ ] A) La planta creció más rápido. <!-- feedback: Incorrecto. El resultado fue el opuesto. -->
 - [ ] B) La planta se volvió de otro color. <!-- feedback: Incorrecto. No se menciona cambio de color. -->
 - [x] C) La planta se puso pálida y débil. <!-- feedback: Correcto. El texto dice: "Al jueves, la planta estaba pálida y débil". -->
@@ -99,13 +109,14 @@ Se evalúa la identificación de la consecuencia directa de la privación de luz
 
 **ID:** `CO-LC-5-2026-P1-causa-consecuencia-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Conclusión del experimento.
+**Contexto:** Conclusión del experimento.
 
 ### Enunciado
 ¿Cuál fue la conclusión del grupo de Luis, Sofía y Carlos sobre las plantas?
 
-### Options
+### Opciones
 - [ ] A) Que las plantas crecen mejor en la oscuridad. <!-- feedback: Incorrecto. El experimento demostró lo contrario. -->
 - [ ] B) Que las plantas necesitan agua para vivir. <!-- feedback: Incorrecto. El experimento no se centró en el agua, sino en la luz. -->
 - [x] C) Que las plantas necesitan la luz del sol para crecer fuertes y saludables. <!-- feedback: Correcto. Esa fue exactamente la conclusión que presentaron el viernes. -->
@@ -120,13 +131,14 @@ Se evalúa la identificación de la conclusión a la que llegan los personajes d
 
 **ID:** `CO-LC-5-2026-P1-causa-consecuencia-001-MASTERY-v5`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Causa del interés científico.
+**Contexto:** Causa del interés científico.
 
 ### Enunciado
 ¿Qué causó que varios niños decidieran formar un club científico?
 
-### Options
+### Opciones
 - [ ] A) Que la profesora les obligó a hacerlo. <!-- feedback: Incorrecto. No fue obligación, fue decisión voluntaria. -->
 - [ ] B) Que ganaron un premio en la Semana de la Ciencia. <!-- feedback: Incorrecto. No se mencionan premios ganados. -->
 - [x] C) Que la experiencia de la Semana de la Ciencia despertó su interés por la investigación. <!-- feedback: Correcto. El texto dice: "Gracias a la Semana de la Ciencia, varios niños se interesaron tanto que decidieron formar un club científico". -->
@@ -141,13 +153,14 @@ Se evalúa la capacidad de identificar la causa de una acción voluntaria. La re
 
 **ID:** `CO-LC-5-2026-P1-causa-consecuencia-001-MASTERY-v6`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Relación causal entre el experimento y el aprendizaje.
+**Contexto:** Relación causal entre el experimento y el aprendizaje.
 
 ### Enunciado
 ¿Por qué la profesora Carmela organizó la Semana de la Ciencia?
 
-### Options
+### Opciones
 - [ ] A) Para que los niños perdieran tiempo de clase. <!-- feedback: Incorrecto. No es un propósito pedagógico válido. -->
 - [ ] B) Para que los niños investigaran y entendieran las causas de los fenómenos. <!-- feedback: Correcto. La profesora dijo: "Cuando investigamos, encontramos las causas de lo que ocurre a nuestro alrededor. Y entender las causas nos ayuda a encontrar soluciones". -->
 - [ ] C) Para que los niños se divirtieran sin aprender nada. <!-- feedback: Incorrecto. El texto muestra que sí aprendieron. -->
@@ -162,13 +175,14 @@ Se evalúa la inferencia del propósito pedagógico a partir de las palabras de 
 
 **ID:** `CO-LC-5-2026-P1-causa-consecuencia-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Consecuencias inmediatas.
+**Contexto:** Consecuencias inmediatas.
 
 ### Enunciado
 ¿Qué pasó cuando el grupo del volcán de bicarbonato hizo su experimento?
 
-### Options
+### Opciones
 - [ ] A) El volcán explotó y se rompió. <!-- feedback: Incorrecto. El texto dice "hizo erupción", que es parte del experimento, no un accidente. -->
 - [x] B) El volcán hizo erupción y todos aplaudieron. <!-- feedback: Correcto. El texto dice: "El volcán de bicarbonato hizo erupción y todos aplaudieron". -->
 - [ ] C) No pasó nada, el experimento falló. <!-- feedback: Incorrecto. El experimento funcionó y todos aplaudieron. -->
@@ -183,13 +197,14 @@ Se evalúa la identificación de la consecuencia de un experimento exitoso, expr
 
 **ID:** `CO-LC-5-2026-P1-causa-consecuencia-001-MASTERY-v8`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Aprendizaje general.
+**Contexto:** Aprendizaje general.
 
 ### Enunciado
 ¿Qué aprendieron los niños durante la Semana de la Ciencia?
 
-### Options
+### Opciones
 - [ ] A) Que la ciencia es aburrida y difícil. <!-- feedback: Incorrecto. Los niños se interesaron más por la ciencia. -->
 - [ ] B) Que solo los adultos pueden hacer experimentos. <!-- feedback: Incorrecto. Los niños mismos hicieron los experimentos. -->
 - [x] C) Que investigando se pueden encontrar las causas de los fenómenos y aprender de ellos. <!-- feedback: Correcto. Las palabras de la profesora y la experiencia de los niños así lo demuestran. -->
@@ -204,13 +219,14 @@ Se evalúa la capacidad de sintetizar el aprendizaje general del texto, integran
 
 **ID:** `CO-LC-5-2026-P1-causa-consecuencia-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Relación entre los experimentos.
+**Contexto:** Relación entre los experimentos.
 
 ### Enunciado
 ¿Qué tienen en común todos los experimentos presentados en la Semana de la Ciencia?
 
-### Options
+### Opciones
 - [ ] A) Todos usaban fuego. <!-- feedback: Incorrecto. Ningún experimento usó fuego. -->
 - [ ] B) Todos eran sobre plantas. <!-- feedback: Incorrecto. Solo el grupo de Luis, Sofía y Carlos trabajó con plantas. -->
 - [x] C) Todos demostraban una relación de causa y efecto. <!-- feedback: Correcto. El volcán (mezcla causa erupción), el filtro (filtración causa agua limpia), la planta (luz causa crecimiento). -->
@@ -225,13 +241,14 @@ Se evalúa la capacidad de encontrar el principio común subyacente a diferentes
 
 **ID:** `CO-LC-5-2026-P1-causa-consecuencia-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Aplicación del aprendizaje.
+**Contexto:** Aplicación del aprendizaje.
 
 ### Enunciado
 Si en el colegio de Sincelejo quieren repetir la Semana de la Ciencia el próximo año, ¿qué consecuencia positiva podría tener según lo ocurrido?
 
-### Options
+### Opciones
 - [ ] A) Los niños perderían interés en estudiar. <!-- feedback: Incorrecto. La experiencia previa muestra lo contrario. -->
 - [ ] B) El colegio tendría que comprar muchos materiales caros. <!-- feedback: Incorrecto. Los experimentos usaron materiales caseros y económicos. -->
 - [x] C) Más niños podrían interesarse por la ciencia y formar nuevos clubes. <!-- feedback: Correcto. Esta consecuencia es coherente con lo ocurrido: la Semana de la Ciencia despertó interés científico. -->

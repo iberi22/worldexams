@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W17-discurso-literario-001-MASTERY"
+id: "CO-LC-7-2026-W17-discurso-literario-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "discurso-literario"
-semana: "W17"
+week: "W17"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Discurso Literario - Grado 7
 ## Semana W17 — Análisis del lenguaje y los recursos literarios
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W17-discurso-literario-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de Lectura Crítica del Colegio Nuevo Reino de Bogotá, la profesora explica las características del lenguaje literario.
+**Contexto:** En la clase de Lectura Crítica del Colegio Nuevo Reino de Bogotá, la profesora explica las características del lenguaje literario.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ El lenguaje literario se caracteriza por su función estética o poética: el me
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W17-discurso-literario-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un poema de la poetisa colombiana María Mercedes Carranza dice: "La patria es una casa con las ventanas rotas."
+**Contexto:** Un poema de la poetisa colombiana María Mercedes Carranza dice: "La patria es una casa con las ventanas rotas."
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ La metáfora es una figura retórica que identifica dos términos (patria y casa
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W17-discurso-literario-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el cuento "El ahogado más hermoso del mundo" de Gabriel García Márquez, los aldeanos encuentran un cuerpo enorme en la playa y comienzan a llamarlo "Esteban".
+**Contexto:** En el cuento "El ahogado más hermoso del mundo" de Gabriel García Márquez, los aldeanos encuentran un cuerpo enorme en la playa y comienzan a llamarlo "Esteban".
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -81,11 +85,11 @@ En la literatura, los nombres y los actos de nombrar tienen un significado simb�
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W17-discurso-literario-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** En un cuento de Tomás González, el narrador describe un pueblo como "un lugar donde el tiempo se había quedado dormido bajo los almendros."
+**Contexto:** En un cuento de Tomás González, el narrador describe un pueblo como "un lugar donde el tiempo se había quedado dormido bajo los almendros."
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -102,11 +106,11 @@ La literatura busca crear atmósferas y sensaciones a través del lenguaje figur
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W17-discurso-literario-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Los estudiantes del Colegio de Tunja leen un fragmento donde el narrador dice: "El río sonaba como una orquesta desafinada."
+**Contexto:** Los estudiantes del Colegio de Tunja leen un fragmento donde el narrador dice: "El río sonaba como una orquesta desafinada."
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -123,11 +127,11 @@ Esta frase combina un símil (comparación explícita con "como") con una imagen
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W17-discurso-literario-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En un cuento del escritor colombiano Andrés Caicedo, el narrador dice: "El silencio era tan denso que podía cortarse con un cuchillo."
+**Contexto:** En un cuento del escritor colombiano Andrés Caicedo, el narrador dice: "El silencio era tan denso que podía cortarse con un cuchillo."
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -144,11 +148,11 @@ La hipérbole es una exageración intencional que busca intensificar una cualida
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W17-discurso-literario-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Los estudiantes leen un poema donde el autor repite al inicio de cada estrofa la frase "Yo soy". El poema habla de la identidad y el origen del poeta.
+**Contexto:** Los estudiantes leen un poema donde el autor repite al inicio de cada estrofa la frase "Yo soy". El poema habla de la identidad y el origen del poeta.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -165,11 +169,11 @@ La anáfora es una figura de repetición que consiste en reiterar una palabra o 
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W17-discurso-literario-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Un cuento de terror colombiano describe: "La casa era un cuerpo muerto. Las paredes, piel pálida. Las puertas, costillas rotas. Las ventanas, ojos vacíos."
+**Contexto:** Un cuento de terror colombiano describe: "La casa era un cuerpo muerto. Las paredes, piel pálida. Las puertas, costillas rotas. Las ventanas, ojos vacíos."
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -186,11 +190,11 @@ La acumulación o concatenación de metáforas es un recurso que intensifica pro
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W17-discurso-literario-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En clase del Colegio de Zipaquirá, los estudiantes discuten si un cuento es mejor porque usa muchas figuras literarias.
+**Contexto:** En clase del Colegio de Zipaquirá, los estudiantes discuten si un cuento es mejor porque usa muchas figuras literarias.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -207,11 +211,11 @@ La calidad literaria no se mide por el número de recursos retóricos, sino por 
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W17-discurso-literario-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Mateo lee dos versiones del mismo cuento. La primera dice: "El anciano caminaba lentamente por la calle vacía." La segunda dice: "El viejo arrastraba sus pasos por la calle desierta, como un fantasma que no encuentra descanso."
+**Contexto:** Mateo lee dos versiones del mismo cuento. La primera dice: "El anciano caminaba lentamente por la calle vacía." La segunda dice: "El viejo arrastraba sus pasos por la calle desierta, como un fantasma que no encuentra descanso."
 **Expected_Success:** 0.44
 
 ### Enunciado
@@ -228,11 +232,11 @@ La primera versión es funcional: comunica la información (un anciano camina le
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W17-discurso-literario-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** En el poema "Ausencia" de la poeta colombiana Piedad Bonnett, los versos son cortos, sin rima, con pausas frecuentes. El tema es la pérdida de un ser querido.
+**Contexto:** En el poema "Ausencia" de la poeta colombiana Piedad Bonnett, los versos son cortos, sin rima, con pausas frecuentes. El tema es la pérdida de un ser querido.
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -249,11 +253,11 @@ En la literatura, especialmente en poesía, la forma y el contenido están intr�
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W17-discurso-literario-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio de Chiquinquirá, la profesora pide a los estudiantes que escriban una descripción literaria de su colegio usando al menos tres figuras retóricas diferentes.
+**Contexto:** En el Colegio de Chiquinquirá, la profesora pide a los estudiantes que escriban una descripción literaria de su colegio usando al menos tres figuras retóricas diferentes.
 **Expected_Success:** 0.38
 
 ### Enunciado

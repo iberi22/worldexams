@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY"
+id: "CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "plantas-clasificacion"
-semana: "W05"
+week: "W05"
 periodo: 1
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Clasificación de plantas según su tallo: hierbas, arbustos y
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Clasificación de las Plantas según su Tallo
 
 Este bundle enseña a distinguir los tres grupos principales de plantas según la dureza y el tamaño de su tallo: hierbas, arbustos y árboles.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un jardín, un niño ve plantas pequeñas con tallos verdes, delgados y muy flexibles que se pueden doblar fácilmente sin romperse.
+**Contexto:** En un jardín, un niño ve plantas pequeñas con tallos verdes, delgados y muy flexibles que se pueden doblar fácilmente sin romperse.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ Las hierbas son el grupo de plantas con el tallo más delicado. Al ser flexibles
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un agricultor en el Quindío cultiva plantas que tienen varios tallos duros que salen directamente desde el suelo y no crecen muy alto.
+**Contexto:** Un agricultor en el Quindío cultiva plantas que tienen varios tallos duros que salen directamente desde el suelo y no crecen muy alto.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -73,12 +77,12 @@ Los arbustos, como el cafetal o el rosal, son plantas de resistencia media. Sus 
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un bosque de robles en Boyacá, vemos plantas con un solo tronco muy grueso, duro y que llegan a tocar casi las nubes.
+**Contexto:** En un bosque de robles en Boyacá, vemos plantas con un solo tronco muy grueso, duro y que llegan a tocar casi las nubes.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -98,12 +102,12 @@ Los árboles son los gigantes del reino vegetal. Su tronco principal les permite
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Imagina que tratas de abrazar una planta. En una te caben las manos, en otra te pinchas con varias ramas bajas y la otra es tan ancha que no alcanzas a rodearla.
+**Contexto:** Imagina que tratas de abrazar una planta. En una te caben las manos, en otra te pinchas con varias ramas bajas y la otra es tan ancha que no alcanzas a rodearla.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -123,12 +127,12 @@ Esta comparación ayuda a entender la escala de tamaño y estructura. Las hierba
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Tienes que sembrar plantas en un jardín pequeño. Quieres algo que no crezca más de 2 metros y que tenga muchas flores desde el nivel del suelo.
+**Contexto:** Tienes que sembrar plantas en un jardín pequeño. Quieres algo que no crezca más de 2 metros y que tenga muchas flores desde el nivel del suelo.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -148,12 +152,12 @@ Elegir la planta adecuada depende de conocer su clasificación. Los arbustos son
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Después de una tormenta fuerte con mucho viento, notas que las hierbas están intactas pero algunas ramas de los árboles se rompieron.
+**Contexto:** Después de una tormenta fuerte con mucho viento, notas que las hierbas están intactas pero algunas ramas de los árboles se rompieron.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -173,12 +177,12 @@ La flexibilidad es una adaptación de las hierbas. Al no invertir energía en fa
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Los árboles pueden vivir cientos de años, mientras que muchas hierbas mueren después de unos pocos meses de haber florecido.
+**Contexto:** Los árboles pueden vivir cientos de años, mientras que muchas hierbas mueren después de unos pocos meses de haber florecido.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -198,12 +202,12 @@ La madera es una de las mejores invenciones de la naturaleza. Al tener un tallo 
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Clasifica estas plantas de uso común: Cilantro, Pino, Hortensia (planta de jardín con muchas ramas bajas).
+**Contexto:** Clasifica estas plantas de uso común: Cilantro, Pino, Hortensia (planta de jardín con muchas ramas bajas).
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -223,12 +227,12 @@ Identificar las plantas de nuestro entorno nos ayuda a entender la biodiversidad
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** En un bosque muy oscuro, las hierbas apenas crecen, pero los árboles son muy altos y tienen muchas hojas en la copa.
+**Contexto:** En un bosque muy oscuro, las hierbas apenas crecen, pero los árboles son muy altos y tienen muchas hojas en la copa.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -248,12 +252,12 @@ La competencia por la luz es una batalla constante en la naturaleza. Los árbole
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W05-plantas-clasificacion-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una planta de banano parece un árbol porque es muy alta, pero su "tronco" en realidad está hecho de hojas apretadas y es blando y jugoso.
+**Contexto:** Una planta de banano parece un árbol porque es muy alta, pero su "tronco" en realidad está hecho de hojas apretadas y es blando y jugoso.
 **Expected_Success:** 0.55
 
 ### Enunciado

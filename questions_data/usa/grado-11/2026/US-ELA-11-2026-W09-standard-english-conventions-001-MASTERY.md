@@ -5,504 +5,499 @@ exam: "SAT / ACT"
 grado: 11
 asignatura: "Ela"
 tema: "standard-english-conventions"
-semana: 9
+week: "W09"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "CCSS + SAT Suite / College Board"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle — Standard English Conventions
 **Difficulty: D3-D10 | 20 Questions | Ela — SAT / ACT**
 
 ---
 
-## Question 1 — D4
+## Question 1 [D4]
 **ID:** `US-ELA-11-2026-W09-standard-english-conventions-001-MASTERY-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Students in US are developing their English language arts skills.
+**Contexto:** Students in US are dev### Opciones
+eloping their English language arts skills.
 
-**Stem:** Which piece of evidence best supports the claim that exercise improves academic performance?
+### Enunciado
+Which piece of evidence best supports the claim that exercise improves academic performance?
 
-- [x] **A)** A study showing correlation between the two factors
-  <!-- feedback: Correct! ✓ -->
+- [x] A) A study showing correlation between the two factors <!-- feedback: Correcto! A study showing correlation between the two factors -->
 
-- [ ] **B)** An opinion from a random blog post
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] B) An opinion from a random blog post <!-- feedback: Incorrecto. An opinion from a random blog post -->
 
-- [ ] **C)** A fictional story about the topic
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] C) A fictional story about the topic <!-- feedback: Incorrecto. A fictional story about the topic -->
 
-- [ ] **D)** An advertisement related to the topic
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] D) An advertisement related to the topic <!-- feedback: Incorrecto. An advertisement related to the topic -->
 
-**Explanation:** Strong evidence comes from studies and research, not opinions, fiction, or advertisements.
+### Explicacion Pedagogica Strong evidence comes from studies and research, not opinions, fiction, or advertisements.
 
 ---
 
-## Question 2 — D3
+## Question 2 [D3]
 **ID:** `US-ELA-11-2026-W09-standard-english-conventions-001-MASTERY-v2`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Students in US are developing their English language arts skills.
+**Contexto:** Students in US are dev### Opciones
+eloping their English language arts skills.
 
-**Stem:** Which sentence uses correct punctuation?
+### Enunciado
+Which sentence uses correct punctuation?
 
-- [x] **A)** After school, we went to the park.
-  <!-- feedback: Correct! ✓ -->
+- [x] A) After school, we went to the park. <!-- feedback: Correcto! After school, we went to the park. -->
 
-- [ ] **B)** After school we went to the park.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] B) After school we went to the park. <!-- feedback: Incorrecto. After school we went to the park. -->
 
-- [ ] **C)** After school, we went, to the park.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] C) After school, we went, to the park. <!-- feedback: Incorrecto. After school, we went, to the park. -->
 
-- [ ] **D)** After school we, went to the park.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] D) After school we, went to the park. <!-- feedback: Incorrecto. After school we, went to the park. -->
 
-**Explanation:** A comma should follow an introductory phrase like 'After school' before the main clause.
+### Explicacion Pedagogica A comma should follow an introductory phrase like 'After school' before the main clause.
 
 ---
 
-## Question 3 — D3
+## Question 3 [D3]
 **ID:** `US-ELA-11-2026-W09-standard-english-conventions-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Students in US are developing their English language arts skills.
+**Contexto:** Students in US are dev### Opciones
+eloping their English language arts skills.
 
-**Stem:** What is the main idea of a passage that describes how a character overcomes obstacles through perseverance?
+### Enunciado
+What is the main idea of a passage that describes how a character overcomes obstacles through perseverance?
 
-- [x] **A)** Perseverance leads to success
-  <!-- feedback: Correct! ✓ -->
+- [x] A) Perseverance leads to success <!-- feedback: Correcto! Perseverance leads to success -->
 
-- [ ] **B)** Obstacles are impossible to overcome
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] B) Obstacles are impossible to overcome <!-- feedback: Incorrecto. Obstacles are impossible to overcome -->
 
-- [ ] **C)** Characters never change
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] C) Characters never change <!-- feedback: Incorrecto. Characters never change -->
 
-- [ ] **D)** The setting is the most important element
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] D) The setting is the most important element <!-- feedback: Incorrecto. The setting is the most important elemen -->
 
-**Explanation:** The main idea is the central message. The passage focuses on perseverance leading to positive outcomes.
+### Explicacion Pedagogica The main idea is the central message. The passage focuses on perseverance leading to positive outcomes.
 
 ---
 
-## Question 4 — D4
+## Question 4 [D4]
 **ID:** `US-ELA-11-2026-W09-standard-english-conventions-001-MASTERY-v4`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Students in US are developing their English language arts skills.
+**Contexto:** Students in US are dev### Opciones
+eloping their English language arts skills.
 
-**Stem:** Which piece of evidence best supports the claim that social media affects teen mental health?
+### Enunciado
+Which piece of evidence best supports the claim that social media affects teen mental health?
 
-- [x] **A)** A study showing correlation between the two factors
-  <!-- feedback: Correct! ✓ -->
+- [x] A) A study showing correlation between the two factors <!-- feedback: Correcto! A study showing correlation between the two factors -->
 
-- [ ] **B)** An opinion from a random blog post
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] B) An opinion from a random blog post <!-- feedback: Incorrecto. An opinion from a random blog post -->
 
-- [ ] **C)** A fictional story about the topic
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] C) A fictional story about the topic <!-- feedback: Incorrecto. A fictional story about the topic -->
 
-- [ ] **D)** An advertisement related to the topic
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] D) An advertisement related to the topic <!-- feedback: Incorrecto. An advertisement related to the topic -->
 
-**Explanation:** Strong evidence comes from studies and research, not opinions, fiction, or advertisements.
+### Explicacion Pedagogica Strong evidence comes from studies and research, not opinions, fiction, or advertisements.
 
 ---
 
-## Question 5 — D3
+## Question 5 [D3]
 **ID:** `US-ELA-11-2026-W09-standard-english-conventions-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Students in US are developing their English language arts skills.
+**Contexto:** Students in US are dev### Opciones
+eloping their English language arts skills.
 
-**Stem:** Which sentence uses correct punctuation?
+### Enunciado
+Which sentence uses correct punctuation?
 
-- [x] **A)** After school, we went to the park.
-  <!-- feedback: Correct! ✓ -->
+- [x] A) After school, we went to the park. <!-- feedback: Correcto! After school, we went to the park. -->
 
-- [ ] **B)** After school we went to the park.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] B) After school we went to the park. <!-- feedback: Incorrecto. After school we went to the park. -->
 
-- [ ] **C)** After school, we went, to the park.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] C) After school, we went, to the park. <!-- feedback: Incorrecto. After school, we went, to the park. -->
 
-- [ ] **D)** After school we, went to the park.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] D) After school we, went to the park. <!-- feedback: Incorrecto. After school we, went to the park. -->
 
-**Explanation:** A comma should follow an introductory phrase like 'After school' before the main clause.
+### Explicacion Pedagogica A comma should follow an introductory phrase like 'After school' before the main clause.
 
 ---
 
-## Question 6 — D3
+## Question 6 [D3]
 **ID:** `US-ELA-11-2026-W09-standard-english-conventions-001-MASTERY-v6`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Students in US are developing their English language arts skills.
+**Contexto:** Students in US are dev### Opciones
+eloping their English language arts skills.
 
-**Stem:** What is the main idea of a passage that describes how a character overcomes obstacles through perseverance?
+### Enunciado
+What is the main idea of a passage that describes how a character overcomes obstacles through perseverance?
 
-- [x] **A)** Perseverance leads to success
-  <!-- feedback: Correct! ✓ -->
+- [x] A) Perseverance leads to success <!-- feedback: Correcto! Perseverance leads to success -->
 
-- [ ] **B)** Obstacles are impossible to overcome
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] B) Obstacles are impossible to overcome <!-- feedback: Incorrecto. Obstacles are impossible to overcome -->
 
-- [ ] **C)** Characters never change
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] C) Characters never change <!-- feedback: Incorrecto. Characters never change -->
 
-- [ ] **D)** The setting is the most important element
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] D) The setting is the most important element <!-- feedback: Incorrecto. The setting is the most important elemen -->
 
-**Explanation:** The main idea is the central message. The passage focuses on perseverance leading to positive outcomes.
+### Explicacion Pedagogica The main idea is the central message. The passage focuses on perseverance leading to positive outcomes.
 
 ---
 
-## Question 7 — D4
+## Question 7 [D4]
 **ID:** `US-ELA-11-2026-W09-standard-english-conventions-001-MASTERY-v7`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Students in US are developing their English language arts skills.
+**Contexto:** Students in US are dev### Opciones
+eloping their English language arts skills.
 
-**Stem:** Which piece of evidence best supports the claim that social media affects teen mental health?
+### Enunciado
+Which piece of evidence best supports the claim that social media affects teen mental health?
 
-- [x] **A)** A study showing correlation between the two factors
-  <!-- feedback: Correct! ✓ -->
+- [x] A) A study showing correlation between the two factors <!-- feedback: Correcto! A study showing correlation between the two factors -->
 
-- [ ] **B)** An opinion from a random blog post
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] B) An opinion from a random blog post <!-- feedback: Incorrecto. An opinion from a random blog post -->
 
-- [ ] **C)** A fictional story about the topic
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] C) A fictional story about the topic <!-- feedback: Incorrecto. A fictional story about the topic -->
 
-- [ ] **D)** An advertisement related to the topic
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] D) An advertisement related to the topic <!-- feedback: Incorrecto. An advertisement related to the topic -->
 
-**Explanation:** Strong evidence comes from studies and research, not opinions, fiction, or advertisements.
+### Explicacion Pedagogica Strong evidence comes from studies and research, not opinions, fiction, or advertisements.
 
 ---
 
-## Question 8 — D3
+## Question 8 [D3]
 **ID:** `US-ELA-11-2026-W09-standard-english-conventions-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Students in US are developing their English language arts skills.
+**Contexto:** Students in US are dev### Opciones
+eloping their English language arts skills.
 
-**Stem:** Which sentence uses correct punctuation?
+### Enunciado
+Which sentence uses correct punctuation?
 
-- [x] **A)** After school, we went to the park.
-  <!-- feedback: Correct! ✓ -->
+- [x] A) After school, we went to the park. <!-- feedback: Correcto! After school, we went to the park. -->
 
-- [ ] **B)** After school we went to the park.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] B) After school we went to the park. <!-- feedback: Incorrecto. After school we went to the park. -->
 
-- [ ] **C)** After school, we went, to the park.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] C) After school, we went, to the park. <!-- feedback: Incorrecto. After school, we went, to the park. -->
 
-- [ ] **D)** After school we, went to the park.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] D) After school we, went to the park. <!-- feedback: Incorrecto. After school we, went to the park. -->
 
-**Explanation:** A comma should follow an introductory phrase like 'After school' before the main clause.
+### Explicacion Pedagogica A comma should follow an introductory phrase like 'After school' before the main clause.
 
 ---
 
-## Question 9 — D3
+## Question 9 [D3]
 **ID:** `US-ELA-11-2026-W09-standard-english-conventions-001-MASTERY-v9`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Students in US are developing their English language arts skills.
+**Contexto:** Students in US are dev### Opciones
+eloping their English language arts skills.
 
-**Stem:** What is the main idea of a passage that describes how a character overcomes obstacles through perseverance?
+### Enunciado
+What is the main idea of a passage that describes how a character overcomes obstacles through perseverance?
 
-- [x] **A)** Perseverance leads to success
-  <!-- feedback: Correct! ✓ -->
+- [x] A) Perseverance leads to success <!-- feedback: Correcto! Perseverance leads to success -->
 
-- [ ] **B)** Obstacles are impossible to overcome
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] B) Obstacles are impossible to overcome <!-- feedback: Incorrecto. Obstacles are impossible to overcome -->
 
-- [ ] **C)** Characters never change
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] C) Characters never change <!-- feedback: Incorrecto. Characters never change -->
 
-- [ ] **D)** The setting is the most important element
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] D) The setting is the most important element <!-- feedback: Incorrecto. The setting is the most important elemen -->
 
-**Explanation:** The main idea is the central message. The passage focuses on perseverance leading to positive outcomes.
+### Explicacion Pedagogica The main idea is the central message. The passage focuses on perseverance leading to positive outcomes.
 
 ---
 
-## Question 10 — D4
+## Question 10 [D4]
 **ID:** `US-ELA-11-2026-W09-standard-english-conventions-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Students in US are developing their English language arts skills.
+**Contexto:** Students in US are dev### Opciones
+eloping their English language arts skills.
 
-**Stem:** Which piece of evidence best supports the claim that social media affects teen mental health?
+### Enunciado
+Which piece of evidence best supports the claim that social media affects teen mental health?
 
-- [x] **A)** A study showing correlation between the two factors
-  <!-- feedback: Correct! ✓ -->
+- [x] A) A study showing correlation between the two factors <!-- feedback: Correcto! A study showing correlation between the two factors -->
 
-- [ ] **B)** An opinion from a random blog post
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] B) An opinion from a random blog post <!-- feedback: Incorrecto. An opinion from a random blog post -->
 
-- [ ] **C)** A fictional story about the topic
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] C) A fictional story about the topic <!-- feedback: Incorrecto. A fictional story about the topic -->
 
-- [ ] **D)** An advertisement related to the topic
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] D) An advertisement related to the topic <!-- feedback: Incorrecto. An advertisement related to the topic -->
 
-**Explanation:** Strong evidence comes from studies and research, not opinions, fiction, or advertisements.
+### Explicacion Pedagogica Strong evidence comes from studies and research, not opinions, fiction, or advertisements.
 
 ---
 
-## Question 11 — D3
+## Question 11 [D3]
 **ID:** `US-ELA-11-2026-W09-standard-english-conventions-001-MASTERY-v11`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Students in US are developing their English language arts skills.
+**Contexto:** Students in US are dev### Opciones
+eloping their English language arts skills.
 
-**Stem:** Which sentence uses correct punctuation?
+### Enunciado
+Which sentence uses correct punctuation?
 
-- [x] **A)** After school, we went to the park.
-  <!-- feedback: Correct! ✓ -->
+- [x] A) After school, we went to the park. <!-- feedback: Correcto! After school, we went to the park. -->
 
-- [ ] **B)** After school we went to the park.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] B) After school we went to the park. <!-- feedback: Incorrecto. After school we went to the park. -->
 
-- [ ] **C)** After school, we went, to the park.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] C) After school, we went, to the park. <!-- feedback: Incorrecto. After school, we went, to the park. -->
 
-- [ ] **D)** After school we, went to the park.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] D) After school we, went to the park. <!-- feedback: Incorrecto. After school we, went to the park. -->
 
-**Explanation:** A comma should follow an introductory phrase like 'After school' before the main clause.
+### Explicacion Pedagogica A comma should follow an introductory phrase like 'After school' before the main clause.
 
 ---
 
-## Question 12 — D3
+## Question 12 [D3]
 **ID:** `US-ELA-11-2026-W09-standard-english-conventions-001-MASTERY-v12`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Students in US are developing their English language arts skills.
+**Contexto:** Students in US are dev### Opciones
+eloping their English language arts skills.
 
-**Stem:** What is the main idea of a passage that describes how a character overcomes obstacles through perseverance?
+### Enunciado
+What is the main idea of a passage that describes how a character overcomes obstacles through perseverance?
 
-- [x] **A)** Perseverance leads to success
-  <!-- feedback: Correct! ✓ -->
+- [x] A) Perseverance leads to success <!-- feedback: Correcto! Perseverance leads to success -->
 
-- [ ] **B)** Obstacles are impossible to overcome
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] B) Obstacles are impossible to overcome <!-- feedback: Incorrecto. Obstacles are impossible to overcome -->
 
-- [ ] **C)** Characters never change
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] C) Characters never change <!-- feedback: Incorrecto. Characters never change -->
 
-- [ ] **D)** The setting is the most important element
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] D) The setting is the most important element <!-- feedback: Incorrecto. The setting is the most important elemen -->
 
-**Explanation:** The main idea is the central message. The passage focuses on perseverance leading to positive outcomes.
+### Explicacion Pedagogica The main idea is the central message. The passage focuses on perseverance leading to positive outcomes.
 
 ---
 
-## Question 13 — D4
+## Question 13 [D4]
 **ID:** `US-ELA-11-2026-W09-standard-english-conventions-001-MASTERY-v13`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Students in US are developing their English language arts skills.
+**Contexto:** Students in US are dev### Opciones
+eloping their English language arts skills.
 
-**Stem:** Which piece of evidence best supports the claim that exercise improves academic performance?
+### Enunciado
+Which piece of evidence best supports the claim that exercise improves academic performance?
 
-- [x] **A)** A study showing correlation between the two factors
-  <!-- feedback: Correct! ✓ -->
+- [x] A) A study showing correlation between the two factors <!-- feedback: Correcto! A study showing correlation between the two factors -->
 
-- [ ] **B)** An opinion from a random blog post
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] B) An opinion from a random blog post <!-- feedback: Incorrecto. An opinion from a random blog post -->
 
-- [ ] **C)** A fictional story about the topic
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] C) A fictional story about the topic <!-- feedback: Incorrecto. A fictional story about the topic -->
 
-- [ ] **D)** An advertisement related to the topic
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] D) An advertisement related to the topic <!-- feedback: Incorrecto. An advertisement related to the topic -->
 
-**Explanation:** Strong evidence comes from studies and research, not opinions, fiction, or advertisements.
+### Explicacion Pedagogica Strong evidence comes from studies and research, not opinions, fiction, or advertisements.
 
 ---
 
-## Question 14 — D3
+## Question 14 [D3]
 **ID:** `US-ELA-11-2026-W09-standard-english-conventions-001-MASTERY-v14`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Students in US are developing their English language arts skills.
+**Contexto:** Students in US are dev### Opciones
+eloping their English language arts skills.
 
-**Stem:** Which sentence uses correct punctuation?
+### Enunciado
+Which sentence uses correct punctuation?
 
-- [x] **A)** After school, we went to the park.
-  <!-- feedback: Correct! ✓ -->
+- [x] A) After school, we went to the park. <!-- feedback: Correcto! After school, we went to the park. -->
 
-- [ ] **B)** After school we went to the park.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] B) After school we went to the park. <!-- feedback: Incorrecto. After school we went to the park. -->
 
-- [ ] **C)** After school, we went, to the park.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] C) After school, we went, to the park. <!-- feedback: Incorrecto. After school, we went, to the park. -->
 
-- [ ] **D)** After school we, went to the park.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] D) After school we, went to the park. <!-- feedback: Incorrecto. After school we, went to the park. -->
 
-**Explanation:** A comma should follow an introductory phrase like 'After school' before the main clause.
+### Explicacion Pedagogica A comma should follow an introductory phrase like 'After school' before the main clause.
 
 ---
 
-## Question 15 — D3
+## Question 15 [D3]
 **ID:** `US-ELA-11-2026-W09-standard-english-conventions-001-MASTERY-v15`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Students in US are developing their English language arts skills.
+**Contexto:** Students in US are dev### Opciones
+eloping their English language arts skills.
 
-**Stem:** What is the main idea of a passage that describes how a character overcomes obstacles through perseverance?
+### Enunciado
+What is the main idea of a passage that describes how a character overcomes obstacles through perseverance?
 
-- [x] **A)** Perseverance leads to success
-  <!-- feedback: Correct! ✓ -->
+- [x] A) Perseverance leads to success <!-- feedback: Correcto! Perseverance leads to success -->
 
-- [ ] **B)** Obstacles are impossible to overcome
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] B) Obstacles are impossible to overcome <!-- feedback: Incorrecto. Obstacles are impossible to overcome -->
 
-- [ ] **C)** Characters never change
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] C) Characters never change <!-- feedback: Incorrecto. Characters never change -->
 
-- [ ] **D)** The setting is the most important element
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] D) The setting is the most important element <!-- feedback: Incorrecto. The setting is the most important elemen -->
 
-**Explanation:** The main idea is the central message. The passage focuses on perseverance leading to positive outcomes.
+### Explicacion Pedagogica The main idea is the central message. The passage focuses on perseverance leading to positive outcomes.
 
 ---
 
-## Question 16 — D4
+## Question 16 [D4]
 **ID:** `US-ELA-11-2026-W09-standard-english-conventions-001-MASTERY-v16`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Students in US are developing their English language arts skills.
+**Contexto:** Students in US are dev### Opciones
+eloping their English language arts skills.
 
-**Stem:** Which piece of evidence best supports the claim that social media affects teen mental health?
+### Enunciado
+Which piece of evidence best supports the claim that social media affects teen mental health?
 
-- [x] **A)** A study showing correlation between the two factors
-  <!-- feedback: Correct! ✓ -->
+- [x] A) A study showing correlation between the two factors <!-- feedback: Correcto! A study showing correlation between the two factors -->
 
-- [ ] **B)** An opinion from a random blog post
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] B) An opinion from a random blog post <!-- feedback: Incorrecto. An opinion from a random blog post -->
 
-- [ ] **C)** A fictional story about the topic
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] C) A fictional story about the topic <!-- feedback: Incorrecto. A fictional story about the topic -->
 
-- [ ] **D)** An advertisement related to the topic
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] D) An advertisement related to the topic <!-- feedback: Incorrecto. An advertisement related to the topic -->
 
-**Explanation:** Strong evidence comes from studies and research, not opinions, fiction, or advertisements.
+### Explicacion Pedagogica Strong evidence comes from studies and research, not opinions, fiction, or advertisements.
 
 ---
 
-## Question 17 — D3
+## Question 17 [D3]
 **ID:** `US-ELA-11-2026-W09-standard-english-conventions-001-MASTERY-v17`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Students in US are developing their English language arts skills.
+**Contexto:** Students in US are dev### Opciones
+eloping their English language arts skills.
 
-**Stem:** Which sentence uses correct punctuation?
+### Enunciado
+Which sentence uses correct punctuation?
 
-- [x] **A)** After school, we went to the park.
-  <!-- feedback: Correct! ✓ -->
+- [x] A) After school, we went to the park. <!-- feedback: Correcto! After school, we went to the park. -->
 
-- [ ] **B)** After school we went to the park.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] B) After school we went to the park. <!-- feedback: Incorrecto. After school we went to the park. -->
 
-- [ ] **C)** After school, we went, to the park.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] C) After school, we went, to the park. <!-- feedback: Incorrecto. After school, we went, to the park. -->
 
-- [ ] **D)** After school we, went to the park.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] D) After school we, went to the park. <!-- feedback: Incorrecto. After school we, went to the park. -->
 
-**Explanation:** A comma should follow an introductory phrase like 'After school' before the main clause.
+### Explicacion Pedagogica A comma should follow an introductory phrase like 'After school' before the main clause.
 
 ---
 
-## Question 18 — D3
+## Question 18 [D3]
 **ID:** `US-ELA-11-2026-W09-standard-english-conventions-001-MASTERY-v18`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Students in US are developing their English language arts skills.
+**Contexto:** Students in US are dev### Opciones
+eloping their English language arts skills.
 
-**Stem:** What is the main idea of a passage that describes how a character overcomes obstacles through perseverance?
+### Enunciado
+What is the main idea of a passage that describes how a character overcomes obstacles through perseverance?
 
-- [x] **A)** Perseverance leads to success
-  <!-- feedback: Correct! ✓ -->
+- [x] A) Perseverance leads to success <!-- feedback: Correcto! Perseverance leads to success -->
 
-- [ ] **B)** Obstacles are impossible to overcome
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] B) Obstacles are impossible to overcome <!-- feedback: Incorrecto. Obstacles are impossible to overcome -->
 
-- [ ] **C)** Characters never change
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] C) Characters never change <!-- feedback: Incorrecto. Characters never change -->
 
-- [ ] **D)** The setting is the most important element
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] D) The setting is the most important element <!-- feedback: Incorrecto. The setting is the most important elemen -->
 
-**Explanation:** The main idea is the central message. The passage focuses on perseverance leading to positive outcomes.
+### Explicacion Pedagogica The main idea is the central message. The passage focuses on perseverance leading to positive outcomes.
 
 ---
 
-## Question 19 — D4
+## Question 19 [D4]
 **ID:** `US-ELA-11-2026-W09-standard-english-conventions-001-MASTERY-v19`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Students in US are developing their English language arts skills.
+**Contexto:** Students in US are dev### Opciones
+eloping their English language arts skills.
 
-**Stem:** Which piece of evidence best supports the claim that social media affects teen mental health?
+### Enunciado
+Which piece of evidence best supports the claim that social media affects teen mental health?
 
-- [x] **A)** A study showing correlation between the two factors
-  <!-- feedback: Correct! ✓ -->
+- [x] A) A study showing correlation between the two factors <!-- feedback: Correcto! A study showing correlation between the two factors -->
 
-- [ ] **B)** An opinion from a random blog post
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] B) An opinion from a random blog post <!-- feedback: Incorrecto. An opinion from a random blog post -->
 
-- [ ] **C)** A fictional story about the topic
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] C) A fictional story about the topic <!-- feedback: Incorrecto. A fictional story about the topic -->
 
-- [ ] **D)** An advertisement related to the topic
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] D) An advertisement related to the topic <!-- feedback: Incorrecto. An advertisement related to the topic -->
 
-**Explanation:** Strong evidence comes from studies and research, not opinions, fiction, or advertisements.
+### Explicacion Pedagogica Strong evidence comes from studies and research, not opinions, fiction, or advertisements.
 
 ---
 
-## Question 20 — D3
+## Question 20 [D3]
 **ID:** `US-ELA-11-2026-W09-standard-english-conventions-001-MASTERY-v20`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
-**Context:** Students in US are developing their English language arts skills.
+**Contexto:** Students in US are dev### Opciones
+eloping their English language arts skills.
 
-**Stem:** Which sentence uses correct punctuation?
+### Enunciado
+Which sentence uses correct punctuation?
 
-- [x] **A)** After school, we went to the park.
-  <!-- feedback: Correct! ✓ -->
+- [x] A) After school, we went to the park. <!-- feedback: Correcto! After school, we went to the park. -->
 
-- [ ] **B)** After school we went to the park.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] B) After school we went to the park. <!-- feedback: Incorrecto. After school we went to the park. -->
 
-- [ ] **C)** After school, we went, to the park.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] C) After school, we went, to the park. <!-- feedback: Incorrecto. After school, we went, to the park. -->
 
-- [ ] **D)** After school we, went to the park.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] D) After school we, went to the park. <!-- feedback: Incorrecto. After school we, went to the park. -->
 
-**Explanation:** A comma should follow an introductory phrase like 'After school' before the main clause.
+### Explicacion Pedagogica A comma should follow an introductory phrase like 'After school' before the main clause.
 
----
-
-### Quality Review
-
-| Dimension | Score |
-|-----------|-------|
-| Technical | 30/30 |
-| Curricular | 40/40 |
-| Context | 20/20 |
-| Writing | 10/10 |
-| **Total** | **100/100** |

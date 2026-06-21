@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W07-macroestructura-001-MASTERY"
+id: "CO-LC-7-2026-W07-macroestructura-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "macroestructura"
-semana: "W07"
+week: "W07"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Macroestructura - Grado 7
 ## Semana W07 — Ideas globales del texto
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W07-macroestructura-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comunicativa — lextora
-**Context:** En la clase de Lectura Crítica del Colegio Gabriela Mistral de Soacha, la profesora explica la diferencia entre tema e idea principal.
+**Contexto:** En la clase de Lectura Crítica del Colegio Gabriela Mistral de Soacha, la profesora explica la diferencia entre tema e idea principal.
 **Expected_Success:** 0.87
 
 ### Enunciado
@@ -39,11 +43,11 @@ El tema es el asunto general del texto (una o dos palabras), mientras que la ide
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W07-macroestructura-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comunicativa — lextora
-**Context:** Santiago lee un párrafo sobre el río Magdalena: "El río Magdalena es la principal arteria fluvial de Colombia. Nace en el Macizo Colombiano y desemboca en el mar Caribe. A lo largo de su recorrido, ha sido fundamental para el transporte, el comercio y la comunicación entre las regiones."
+**Contexto:** Santiago lee un párrafo sobre el río Magdalena: "El río Magdalena es la principal arteria fluvial de Colombia. Nace en el Macizo Colombiano y desemboca en el mar Caribe. A lo largo de su recorrido, ha sido fundamental para el transporte, el comercio y la comunicación entre las regiones."
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -60,11 +64,11 @@ La idea principal es la afirmación que resume el contenido del texto. En este p
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W07-macroestructura-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Comunicativa — lextora
-**Context:** En el Colegio León de Greiff de Barranquilla, el profesor pide a los estudiantes identificar el tema del siguiente texto: "La vacunación ha sido uno de los mayores avances de la medicina moderna. Gracias a las vacunas, enfermedades como la viruela han sido erradicadas. Sin embargo, en los últimos años han surgido movimientos antivacunas que ponen en riesgo la salud pública."
+**Contexto:** En el Colegio León de Greiff de Barranquilla, el profesor pide a los estudiantes identificar el tema del siguiente texto: "La vacunación ha sido uno de los mayores avances de la medicina moderna. Gracias a las vacunas, enfermedades como la viruela han sido erradicadas. Sin embargo, en los últimos años han surgido movimientos antivacunas que ponen en riesgo la salud pública."
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -81,11 +85,11 @@ El tema se expresa en pocas palabras y responde a la pregunta "¿de qué trata e
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W07-macroestructura-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicativa — crítica
-**Context:** María lee un texto que dice: "El ahorro de agua es responsabilidad de todos. En Colombia, el consumo promedio por persona es de 190 litros diarios, cuando lo recomendado es 110. Cerrar la llave mientras nos cepillamos los dientes puede ahorrar hasta 12 litros por minuto."
+**Contexto:** María lee un texto que dice: "El ahorro de agua es responsabilidad de todos. En Colombia, el consumo promedio por persona es de 190 litros diarios, cuando lo recomendado es 110. Cerrar la llave mientras nos cepillamos los dientes puede ahorrar hasta 12 litros por minuto."
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -102,11 +106,11 @@ La macroestructura es el significado global del texto, la idea que integra todas
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W07-macroestructura-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Comunicativa — analítica
-**Context:** En el colegio de Manizales, los estudiantes deben titular un texto que han leído. El texto describe diferentes tipos de violencia escolar, sus causas y posibles soluciones desde la convivencia pacífica.
+**Contexto:** En el colegio de Manizales, los estudiantes deben titular un texto que han leído. El texto describe diferentes tipos de violencia escolar, sus causas y posibles soluciones desde la convivencia pacífica.
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -123,11 +127,11 @@ Un buen título debe reflejar la macroestructura del texto, es decir, las ideas 
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W07-macroestructura-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — crítica
-**Context:** En clase de Lectura Crítica del Colegio La Presentación de Duitama, el profesor muestra un texto desordenado y pide reconstruir su macroestructura.
+**Contexto:** En clase de Lectura Crítica del Colegio La Presentación de Duitama, el profesor muestra un texto desordenado y pide reconstruir su macroestructura.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -144,11 +148,11 @@ La macroestructura de un texto sigue una progresión lógica. En un texto argume
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W07-macroestructura-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — analítica
-**Context:** En el colegio de Pasto, los estudiantes leen un texto sobre el conflicto armado en Colombia. El texto menciona: causas históricas, actores involucrados, consecuencias sociales y procesos de paz.
+**Contexto:** En el colegio de Pasto, los estudiantes leen un texto sobre el conflicto armado en Colombia. El texto menciona: causas históricas, actores involucrados, consecuencias sociales y procesos de paz.
 **Expected_Success:** 0.56
 
 ### Enunciado
@@ -165,11 +169,11 @@ Un subtítulo debe ser coherente con la macroestructura general del texto. Si el
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W07-macroestructura-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — crítica
-**Context:** Andrea lee un texto de 5 párrafos sobre el cambio climático. Después de leer, debe hacer un resumen de máximo 3 oraciones.
+**Contexto:** Andrea lee un texto de 5 párrafos sobre el cambio climático. Después de leer, debe hacer un resumen de máximo 3 oraciones.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -186,11 +190,11 @@ Un resumen debe capturar la macroestructura: las ideas esenciales del texto en f
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W07-macroestructura-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Comunicativa — lextora
-**Context:** En el colegio INEM de Neiva, el profesor de sociales escribe en el tablero: "Colombia es un país megadiverso. Ocupa el segundo lugar en biodiversidad del mundo. Tiene más de 50.000 especies registradas. Esto se debe a su variedad de climas y ecosistemas."
+**Contexto:** En el colegio INEM de Neiva, el profesor de sociales escribe en el tablero: "Colombia es un país megadiverso. Ocupa el segundo lugar en biodiversidad del mundo. Tiene más de 50.000 especies registradas. Esto se debe a su variedad de climas y ecosistemas."
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -207,11 +211,11 @@ La idea principal puede aparecer al inicio del párrafo (como aquí: "Colombia e
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W07-macroestructura-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — analítica
-**Context:** En el colegio de Buga, los estudiantes analizan un texto que tiene dos ideas principales distintas: una sobre los beneficios del ejercicio físico y otra sobre la alimentación saludable.
+**Contexto:** En el colegio de Buga, los estudiantes analizan un texto que tiene dos ideas principales distintas: una sobre los beneficios del ejercicio físico y otra sobre la alimentación saludable.
 **Expected_Success:** 0.40
 
 ### Enunciado
@@ -228,11 +232,11 @@ No todos los textos tienen una sola idea principal. Algunos desarrollan dos o m�
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W07-macroestructura-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — crítica
-**Context:** En clase de Lectura Crítica del Colegio Santo Domingo de Cali, los estudiantes deben identificar si la siguiente oración es idea principal o detalle: "En 1819, el ejército libertador cruzó los Andes y derrotó a las fuerzas realistas en la Batalla de Boyacá."
+**Contexto:** En clase de Lectura Crítica del Colegio Santo Domingo de Cali, los estudiantes deben identificar si la siguiente oración es idea principal o detalle: "En 1819, el ejército libertador cruzó los Andes y derrotó a las fuerzas realistas en la Batalla de Boyacá."
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -249,11 +253,11 @@ Distinguir entre ideas principales y detalles es crucial. La idea principal es g
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W07-macroestructura-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — analítica
-**Context:** En el colegio de Fusagasugá, la profesora entrega un texto cuyo resumen elaborado por un estudiante dice: "El texto trata de la contaminación. Dice que hay que cuidar el medio ambiente." La profesora considera que el resumen es insuficiente.
+**Contexto:** En el colegio de Fusagasugá, la profesora entrega un texto cuyo resumen elaborado por un estudiante dice: "El texto trata de la contaminación. Dice que hay que cuidar el medio ambiente." La profesora considera que el resumen es insuficiente.
 **Expected_Success:** 0.32
 
 ### Enunciado

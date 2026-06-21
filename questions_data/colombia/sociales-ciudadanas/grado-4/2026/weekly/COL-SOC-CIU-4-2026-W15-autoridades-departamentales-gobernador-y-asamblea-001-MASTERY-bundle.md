@@ -1,5 +1,5 @@
 ---
-id: "COL-SOC-CIU-4-2026-W15-autoridades-departamentales-gobernador-y-asamblea-001-MASTERY"
+id: "COL-SOC-CIU-4-2026-W15-autoridades-departamentales-gobernador-y-asamblea-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Autoridades del departamento colombiano: el gobernador y la as
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Autoridades departamentales (gobernador y asamblea)
 
@@ -30,15 +35,15 @@ Este bundle analiza las autoridades del departamento colombiano: el gobernador c
 ## Question 1 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W15-autoridades-departamentales-gobernador-y-asamblea-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** En Ibagué explican autoridades departamentales.
+**Contexto:** En Ibagué explican autoridades departamentales.
 
 ### Enunciado
 ¿Quién es la máxima autoridad del departamento?
 
-### Options
-
+### Opciones
 - [x] A) El gobernador. <!-- feedback: El gobernador es la máxima autoridad departamental. -->
 - [ ] B) El alcalde. <!-- feedback: Autoridad municipal. -->
 - [ ] C) El presidente. <!-- feedback: Autoridad nacional. -->
@@ -52,15 +57,15 @@ Se evalúa [Remember].
 ## Question 2 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W15-autoridades-departamentales-gobernador-y-asamblea-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Preguntan sobre la asamblea departamental.
+**Contexto:** Preguntan sobre la asamblea departamental.
 
 ### Enunciado
 ¿Qué es la asamblea departamental?
 
-### Options
-
+### Opciones
 - [ ] A) Grupo de alcaldes. <!-- feedback: Son diputados. -->
 - [x] B) Corporación de elección popular que expide ordenanzas. <!-- feedback: La asamblea es el legislativo departamental. -->
 - [ ] C) Oficina del gobierno nacional. <!-- feedback: Es departamental. -->
@@ -74,15 +79,15 @@ Se evalúa [Remember].
 ## Question 3 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W15-autoridades-departamentales-gobernador-y-asamblea-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Analizan funciones del gobernador.
+**Contexto:** Analizan funciones del gobernador.
 
 ### Enunciado
 ¿Cuál es función del gobernador?
 
-### Options
-
+### Opciones
 - [ ] A) Administrar el municipio. <!-- feedback: Función del alcalde. -->
 - [ ] B) Hacer leyes nacionales. <!-- feedback: Función del Congreso. -->
 - [x] C) Administrar el departamento y ejecutar políticas. <!-- feedback: El gobernador administra el departamento. -->
@@ -96,15 +101,15 @@ Se evalúa [Understand].
 ## Question 4 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W15-autoridades-departamentales-gobernador-y-asamblea-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Reflexionan sobre asamblea.
+**Contexto:** Reflexionan sobre asamblea.
 
 ### Enunciado
 ¿Para qué sirve la asamblea departamental?
 
-### Options
-
+### Opciones
 - [ ] A) Administrar escuelas municipales. <!-- feedback: Eso es municipal. -->
 - [ ] B) Elegir al Presidente. <!-- feedback: Es nacional. -->
 - [ ] C) Juzgar delitos. <!-- feedback: Rama judicial. -->
@@ -118,15 +123,15 @@ Se evalúa [Understand].
 ## Question 5 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W15-autoridades-departamentales-gobernador-y-asamblea-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Simulan sesión de asamblea.
+**Contexto:** Simulan sesión de asamblea.
 
 ### Enunciado
 Si la asamblea quiere mejorar vías departamentales:
 
-### Options
-
+### Opciones
 - [x] A) Expedir ordenanza que asigne presupuesto. <!-- feedback: La asamblea expide ordenanzas de presupuesto. -->
 - [ ] B) Pedir al alcalde. <!-- feedback: Alcalde es municipal. -->
 - [ ] C) Que el Presidente envíe dinero. <!-- feedback: Debe haber proceso legal. -->
@@ -140,15 +145,15 @@ Se evalúa [Apply].
 ## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W15-autoridades-departamentales-gobernador-y-asamblea-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Analizan elección del gobernador.
+**Contexto:** Analizan elección del gobernador.
 
 ### Enunciado
 ¿Cómo se elige al gobernador?
 
-### Options
-
+### Opciones
 - [ ] A) Lo nombra el Presidente. <!-- feedback: El Presidente no nombra gobernadores. -->
 - [x] B) Por voto popular cada cuatro años. <!-- feedback: El gobernador se elige por voto popular. -->
 - [ ] C) Lo elige la asamblea. <!-- feedback: Lo elige el pueblo. -->
@@ -162,15 +167,15 @@ Se evalúa [Apply].
 ## Question 7 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W15-autoridades-departamentales-gobernador-y-asamblea-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Analizan relación gobernador-asamblea.
+**Contexto:** Analizan relación gobernador-asamblea.
 
 ### Enunciado
 Relación entre gobernador y asamblea:
 
-### Options
-
+### Opciones
 - [ ] A) La asamblea obedece al gobernador. <!-- feedback: Es independiente. -->
 - [ ] B) El gobernador obedece a la asamblea. <!-- feedback: Cada uno tiene sus funciones. -->
 - [x] C) El gobernador ejecuta y la asamblea controla. <!-- feedback: Hay equilibrio de poderes departamental. -->
@@ -184,15 +189,15 @@ Se evalúa [Analyze].
 ## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W15-autoridades-departamentales-gobernador-y-asamblea-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Comparan niveles de gobierno.
+**Contexto:** Comparan niveles de gobierno.
 
 ### Enunciado
 ¿En qué se parece gobernador-asamblea a presidente-congreso?
 
-### Options
-
+### Opciones
 - [ ] A) Gobernador tiene más poder. <!-- feedback: Presidente tiene más poder. -->
 - [ ] B) Son exactamente iguales. <!-- feedback: Diferencias de alcance. -->
 - [ ] C) No se parecen. <!-- feedback: Sí. -->
@@ -206,15 +211,15 @@ Se evalúa [Analyze].
 ## Question 9 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W15-autoridades-departamentales-gobernador-y-asamblea-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Evalúan importancia asamblea.
+**Contexto:** Evalúan importancia asamblea.
 
 ### Enunciado
 ¿Por qué es importante la asamblea departamental?
 
-### Options
-
+### Opciones
 - [x] A) Representa a los ciudadanos del departamento y controla al gobernador. <!-- feedback: Es el contrapeso del gobernador. -->
 - [ ] B) Única autoridad del departamento. <!-- feedback: También lo es el gobernador. -->
 - [ ] C) Puede destituir al Presidente. <!-- feedback: No tiene esa facultad. -->
@@ -229,14 +234,14 @@ Se evalúa [Evaluate].
 
 **ID:** `COL-SOC-CIU-4-2026-W15-autoridades-departamentales-gobernador-y-asamblea-001-MASTERY-v10`
 **Bloom:** [Create]
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Proponen ordenanza departamental.
+**Contexto:** Proponen ordenanza departamental.
 
 ### Enunciado
 Si fueras diputado, ¿qué ordenanza propondrías?
 
-### Options
-
+### Opciones
 - [ ] A) Eliminar todos los impuestos. <!-- feedback: No es viable. -->
 - [x] B) Educación ambiental: crear programa de reciclaje en todo el departamento. <!-- feedback: Una ordenanza de educación ambiental beneficia al departamento. -->
 - [ ] C) Cambiar la bandera del departamento. <!-- feedback: No es prioritario. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W28-repaso-p6-001-MASTERY"
+id: "CO-LEC-3-2026-W28-repaso-p6-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 28
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso de Periodo 6
 
@@ -25,6 +30,7 @@ Este bundle integra los conocimientos de las semanas 25 a 27: textos publicitari
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **AVISO:** "¡DULCE AMANECER! La mermelada hecha con frutas 100% colombianas. ¡Pruébala y siente la frescura en tu mesa!"
@@ -32,7 +38,7 @@ Este bundle integra los conocimientos de las semanas 25 a 27: textos publicitari
 ### Enunciado
 ¿A qué tipo de texto pertenece este fragmento?
 
-### Options
+### Opciones
 - [ ] A) Una biografía. <!-- feedback: Incorrecto. No cuenta la vida de una persona. -->
 - [ ] B) Un mito muisca. <!-- feedback: Incorrecto. No explica el origen del mundo. -->
 - [x] C) Un texto publicitario. <!-- feedback: ¡Correcto! El lenguaje busca convencer al lector de probar y comprar un producto. -->
@@ -48,6 +54,7 @@ Repaso de textos publicitarios (Semana 25). Identificar el género textual a tra
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Nació en Aracataca, escribió un libro famoso sobre una familia en Macondo y su casa hoy es un museo que visitan muchas personas para conocer cómo vivió".
@@ -55,7 +62,7 @@ Repaso de textos publicitarios (Semana 25). Identificar el género textual a tra
 ### Enunciado
 ¿De qué tipo de texto es probable que se haya extraído esta información?
 
-### Options
+### Opciones
 - [ ] A) De una leyenda de espantos. <!-- feedback: Incorrecto. No habla de seres fantásticos o miedo. -->
 - [x] B) De una biografía de Gabriel García Márquez. <!-- feedback: ¡Correcto! El texto menciona datos personales (nacimiento, obra, casa) propios de una biografía. -->
 - [ ] C) De una receta de cocina. <!-- feedback: Incorrecto. No da pasos para preparar alimentos. -->
@@ -71,6 +78,7 @@ Repaso de biografías (Semana 26). El estudiante debe reconocer que los datos de
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "En la laguna de Guatavita, un cacique cubierto de oro se lanzaba al agua para ofrecer tesoros a los dioses. Esta historia ha pasado de voz en voz y muchos aventureros vinieron a buscar el oro".
@@ -78,7 +86,7 @@ Repaso de biografías (Semana 26). El estudiante debe reconocer que los datos de
 ### Enunciado
 ¿Cuál es la característica que hace de esta historia una **leyenda**?
 
-### Options
+### Opciones
 - [ ] A) Que habla de un cacique muy rico. <!-- feedback: Incorrecto. Ser rico no te hace de leyenda. -->
 - [x] B) Que es una historia de la tradición oral que mezcla hechos históricos con detalles fantásticos. <!-- feedback: ¡Correcto! La leyenda de El Dorado tiene base real pero con muchos adornos de la imaginación popular. -->
 - [ ] C) Que el oro brilla mucho bajo el sol. <!-- feedback: Incorrecto. Es un hecho físico, no una marca del género literario. -->
@@ -94,6 +102,7 @@ Repaso de mitos y leyendas (Semana 27). Reconocer la mezcla de realidad (laguna 
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un anuncio de una bicicleta dice: "**VUELA POR LA CIUDAD**".
@@ -101,7 +110,7 @@ Un anuncio de una bicicleta dice: "**VUELA POR LA CIUDAD**".
 ### Enunciado
 ¿Qué recurso está usando el publicista para convencer al comprador?
 
-### Options
+### Opciones
 - [ ] A) Una explicación científica del motor de la bicicleta. <!-- feedback: Incorrecto. Las bicicletas de este ejemplo no tienen motor. -->
 - [ ] B) Una fotografía de un pájaro volando. <!-- feedback: Incorrecto. El texto usa una palabra, no una imagen. -->
 - [x] C) Una comparación exagerada (metáfora) para indicar que la bicicleta es muy rápida. <!-- feedback: ¡Correcto! Obviamente la bicicleta no vuela, pero se usa la palabra para sugerir gran velocidad. -->
@@ -117,6 +126,7 @@ Repaso de textos publicitarios (Semana 25). Identificar el uso de metáforas en 
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Caldas fue fusilado en 1816. Antes de morir, escribió en la pared la letra 'O' con una raya encima (Oh, negra muerte). Había dedicado su vida a la ciencia y a la libertad de su patria".
@@ -124,7 +134,7 @@ Repaso de textos publicitarios (Semana 25). Identificar el uso de metáforas en 
 ### Enunciado
 ¿Cuál fue la **causa** de que Caldas fuera recordado como un héroe en su biografía?
 
-### Options
+### Opciones
 - [ ] A) Que sabía escribir muy bien en las paredes. <!-- feedback: Incorrecto. La escritura fue un acto final, no la razón de su heroísmo. -->
 - [x] B) El hecho de dedicar su vida a la ciencia y a luchar por la libertad de su país. <!-- feedback: ¡Correcto! El texto destaca su compromiso con el conocimiento y la patria. -->
 - [ ] C) Que murió en el año 1816. <!-- feedback: Incorrecto. La fecha de muerte es un dato, pero el heroísmo viene de sus acciones previas. -->
@@ -140,6 +150,7 @@ Repaso de biografías (Semana 26). El estudiante debe relacionar los hechos de v
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "En el principio, el gran dios creador Chiminigagua lanzó unas aves negras que llevaban fuego en sus picos, y así se iluminó todo el universo que antes estaba en sombras".
@@ -147,7 +158,7 @@ Repaso de biografías (Semana 26). El estudiante debe relacionar los hechos de v
 ### Enunciado
 ¿A qué tipo de relato pertenece este fragmento y por qué?
 
-### Options
+### Opciones
 - [ ] A) A una noticia de incendios forestales. <!-- feedback: Incorrecto. Habla de la creación del universo, no de un accidente real. -->
 - [x] B) A un mito, porque explica cómo se creó la luz en el universo a través de seres sagrados. <!-- feedback: ¡Correcto! El origen del cosmos es el tema principal de los mitos. -->
 - [ ] C) A una biografía de las aves negras. <!-- feedback: Incorrecto. No cuenta la vida de un pájaro, sino un hecho sagrado. -->
@@ -163,6 +174,7 @@ Repaso de mitos y leyendas (Semana 27). La distinción entre mitos (cosmogonía/
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Compara estos dos textos sobre las ballenas:**
@@ -172,7 +184,7 @@ Repaso de mitos y leyendas (Semana 27). La distinción entre mitos (cosmogonía/
 ### Enunciado
 ¿Cuál de las siguientes afirmaciones es correcta?
 
-### Options
+### Opciones
 - [ ] A) El texto 1 es una biografía de la ballena. <!-- feedback: Incorrecto. Es una invitación o publicidad de un evento. -->
 - [ ] B) El texto 2 es un mito sobre cómo nacieron las ballenas. <!-- feedback: Incorrecto. Es información biológica real (texto informativo). -->
 - [x] C) El texto 1 busca convencerte de ir a un lugar, mientras que el texto 2 busca enseñarte datos reales. <!-- feedback: ¡Correcto! El primero es persuasivo (publicidad) y el segundo es informativo (ciencias). -->
@@ -188,6 +200,7 @@ Este ejercicio de análisis comparativo integra los conocimientos de varios tipo
 **Bloom:** Analyze
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En una biografía de un inventor famoso, el libro dice: "Él siempre fue el mejor de su clase y nunca cometió un error en sus experimentos".
@@ -195,7 +208,7 @@ En una biografía de un inventor famoso, el libro dice: "Él siempre fue el mejo
 ### Enunciado
 ¿Por qué esta afirmación podría ser una **exageración** del autor?
 
-### Options
+### Opciones
 - [ ] A) Porque todos los inventores son personas muy inteligentes. <!-- feedback: Incorrecto. La inteligencia no quita la posibilidad de cometer errores. -->
 - [x] B) Porque todos los seres humanos cometen errores, especialmente al inventar cosas nuevas. <!-- feedback: ¡Correcto! Un buen lector sabe que es casi imposible que alguien "nunca" cometa un error, por lo que identifica la exageración del biógrafo. -->
 - [ ] C) Porque el autor no conoció personalmente al inventor. <!-- feedback: Incorrecto. Se puede escribir la verdad sin conocer a la persona, si se investiga bien. -->

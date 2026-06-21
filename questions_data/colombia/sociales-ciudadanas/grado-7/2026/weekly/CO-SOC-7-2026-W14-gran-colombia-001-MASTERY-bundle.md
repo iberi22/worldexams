@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W14-gran-colombia-001-MASTERY"
+id: "CO-SOC-7-2026-W14-gran-colombia-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-ciudadanas"
 tema: "gran-colombia"
-semana: "W14"
+week: "W14"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026 — Pensamiento Social"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: La Gran Colombia — Grado 7
 ## Semana W14 — Creación, desarrollo y disolución de la Gran Colombia (1819-1830)
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W14-gran-colombia-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En la clase de sociales del Colegio Nacional de Bogotá, la profesora pregunta cuándo y dónde se creó la Gran Colombia.
+**Contexto:** En la clase de sociales del Colegio Nacional de Bogotá, la profesora pregunta cuándo y dónde se creó la Gran Colombia.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La Gran Colombia fue creada legalmente por el Congreso de Angostura, instalado e
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-SOC-7-2026-W14-gran-colombia-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del colegio de Medellín leen un texto sobre la Constitución de Cúcuta de 1821.
+**Contexto:** Los estudiantes del colegio de Medellín leen un texto sobre la Constitución de Cúcuta de 1821.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ La Constitución de la Gran Colombia, aprobada por el Congreso de Cúcuta el 30 
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-SOC-7-2026-W14-gran-colombia-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Cali, los estudiantes estudian la estructura territorial de la Gran Colombia.
+**Contexto:** En el colegio de Cali, los estudiantes estudian la estructura territorial de la Gran Colombia.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -81,11 +85,11 @@ La Gran Colombia fue expandiendo su territorio a medida que las campañas libert
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-SOC-7-2026-W14-gran-colombia-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Argumentación
-**Context:** En el colegio de Barranquilla, los estudiantes analizan la visión de Bolívar para la Gran Colombia.
+**Contexto:** En el colegio de Barranquilla, los estudiantes analizan la visión de Bolívar para la Gran Colombia.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -102,11 +106,11 @@ Simón Bolívar tenía una visión geopolítica clara para la América independi
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-SOC-7-2026-W14-gran-colombia-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del colegio de Cartagena leen sobre el Congreso Anfictiónico de Panamá (1826).
+**Contexto:** Los estudiantes del colegio de Cartagena leen sobre el Congreso Anfictiónico de Panamá (1826).
 **Expected_Success:** 0.77
 
 ### Enunciado
@@ -123,11 +127,11 @@ El Congreso Anfictiónico de Panamá (junio-julio de 1826) fue el primer intento
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-SOC-7-2026-W14-gran-colombia-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Pereira, los estudiantes analizan las tensiones entre Bolívar y Santander.
+**Contexto:** En el colegio de Pereira, los estudiantes analizan las tensiones entre Bolívar y Santander.
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -144,11 +148,11 @@ La relación entre Bolívar y Santander es una de las más complejas de la histo
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-SOC-7-2026-W14-gran-colombia-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Bucaramanga, los estudiantes analizan las causas de la disolución de la Gran Colombia.
+**Contexto:** En el colegio de Bucaramanga, los estudiantes analizan las causas de la disolución de la Gran Colombia.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -165,11 +169,11 @@ La disolución de la Gran Colombia (1829-1830) fue resultado de múltiples facto
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-SOC-7-2026-W14-gran-colombia-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Social
-**Context:** En la I.E. de Villavicencio, los estudiantes analizan el papel de José Antonio Páez en la separación de Venezuela.
+**Contexto:** En la I.E. de Villavicencio, los estudiantes analizan el papel de José Antonio Páez en la separación de Venezuela.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -186,11 +190,11 @@ José Antonio Páez (1790-1873), el "Centauro de los Llanos", fue un caudillo mi
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-SOC-7-2026-W14-gran-colombia-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Cúcuta, los estudiantes leen un texto sobre la Convención de Ocaña (1828).
+**Contexto:** En el colegio de Cúcuta, los estudiantes leen un texto sobre la Convención de Ocaña (1828).
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ La Convención de Ocaña (9 de abril - 10 de junio de 1828) fue el último inten
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W14-gran-colombia-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Manizales, los estudiantes evalúan el legado de la Gran Colombia en la historia colombiana.
+**Contexto:** En el colegio de Manizales, los estudiantes evalúan el legado de la Gran Colombia en la historia colombiana.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -228,11 +232,11 @@ A pesar de su corta duración (1819-1830), la Gran Colombia dejó un legado impo
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-SOC-7-2026-W14-gran-colombia-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Sincelejo, la profesora pregunta por la situación económica de la Gran Colombia.
+**Contexto:** En el colegio de Sincelejo, la profesora pregunta por la situación económica de la Gran Colombia.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -249,11 +253,11 @@ La economía de la Gran Colombia era frágil desde su nacimiento. Las guerras de
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W14-gran-colombia-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** La profesora de sociales del colegio de Bogotá propone debatir: ¿podría haber sobrevivido la Gran Colombia si Bolívar no hubiera enfermado?
+**Contexto:** La profesora de sociales del colegio de Bogotá propone debatir: ¿podría haber sobrevivido la Gran Colombia si Bolívar no hubiera enfermado?
 **Expected_Success:** 0.40
 
 ### Enunciado

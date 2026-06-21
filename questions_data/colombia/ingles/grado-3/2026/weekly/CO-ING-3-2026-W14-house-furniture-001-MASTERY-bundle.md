@@ -1,11 +1,11 @@
 ---
-id: "CO-ING-3-2026-W14-house-furniture-001-MASTERY"
+id: "CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "house-furniture"
 periodo: "weekly"
-semana: 14
+week: "W14"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "Vocabulary for furniture: bed, sofa, table, chair, lamp."
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W14: House - Furniture (A1)
 
@@ -32,11 +37,12 @@ Este bundle evalúa el vocabulario de los muebles u objetos de la casa en inglé
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.95
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Cama"** in English?
 
-### Options
+### Opciones
 - [x] A) Bed <!-- feedback: Correct! Bed is cama. -->
 - [ ] B) Table <!-- feedback: Incorrect. -->
 - [ ] C) Chair <!-- feedback: Incorrect. -->
@@ -52,11 +58,12 @@ La cama se dice "bed". Dormimos sobre ella.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Where do you sit in the **living room**?
 
-### Options
+### Opciones
 - [ ] A) On the table <!-- feedback: Incorrect. -->
 - [x] B) On the sofa <!-- feedback: Correct! You sit on the sofa. -->
 - [ ] C) On the bed <!-- feedback: Incorrect. -->
@@ -72,11 +79,12 @@ El sofá se dice igual en inglés: "sofa" (o también "couch").
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Mesa"** in English?
 
-### Options
+### Opciones
 - [ ] A) Chair <!-- feedback: Incorrect. -->
 - [x] B) Table <!-- feedback: Correct! Table is mesa. -->
 - [ ] C) Desk <!-- feedback: Incorrect. Desk is escritorio. -->
@@ -92,11 +100,12 @@ La mesa se dice "table". Usamos la mesa para comer o trabajar.
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What gives you **light** (luz) at night?
 
-### Options
+### Opciones
 - [x] A) A lamp <!-- feedback: Correct! A lamp gives light. -->
 - [ ] B) A chair <!-- feedback: Incorrect. -->
 - [ ] C) A door <!-- feedback: Incorrect. -->
@@ -112,11 +121,12 @@ La lámpara se dice "lamp".
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Where do you put your **clothes**? (El armario).
 
-### Options
+### Opciones
 - [ ] A) In the fridge <!-- feedback: Incorrect. -->
 - [x] B) In the closet <!-- feedback: Correct! Closet is armario. -->
 - [ ] C) In the sink <!-- feedback: Incorrect. -->
@@ -132,11 +142,12 @@ El armario o clóset se dice "closet" (o "wardrobe" en UK).
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Where is the **milk**? (La nevera).
 
-### Options
+### Opciones
 - [ ] A) In the bed <!-- feedback: Incorrect. -->
 - [x] B) In the fridge <!-- feedback: Correct! Fridge is nevera. -->
 - [ ] C) In the sofa <!-- feedback: Incorrect. -->
@@ -152,11 +163,12 @@ La nevera se dice "fridge" (forma corta de 'refrigerator').
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 What is **"Silla"** in English?
 
-### Options
+### Opciones
 - [ ] A) Table <!-- feedback: Incorrect. -->
 - [x] B) Chair <!-- feedback: Correct! Chair is silla. -->
 - [ ] C) Bed <!-- feedback: Incorrect. -->
@@ -172,11 +184,12 @@ Ya lo vimos en el salón de clase, pero en la casa también tenemos "chairs".
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 How do you say **"Puerta"** and **"Ventana"**?
 
-### Options
+### Opciones
 - [ ] A) Wall and Floor <!-- feedback: Incorrect. -->
 - [x] B) Door and Window <!-- feedback: Correct! Door is puerta, window is ventana. -->
 - [ ] C) Roof and Garden <!-- feedback: Incorrect. -->
@@ -192,11 +205,12 @@ How do you say **"Puerta"** and **"Ventana"**?
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Complete: **"The family eats at the _______."**
 
-### Options
+### Opciones
 - [x] A) Table <!-- feedback: Correct! Families eat at the table. -->
 - [ ] B) Bed <!-- feedback: Incorrect. -->
 - [ ] C) Fridge <!-- feedback: Incorrect. -->
@@ -212,11 +226,12 @@ Comemos en la mesa (table).
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Which one is in the **kitchen**?
 
-### Options
+### Opciones
 - [ ] A) Bed <!-- feedback: Incorrect. -->
 - [ ] B) Sofa <!-- feedback: Incorrect. -->
 - [x] C) Stove <!-- feedback: Correct! The stove (estufa) is in the kitchen. -->

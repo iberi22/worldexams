@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY"
+id: "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
@@ -12,7 +12,11 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W33 — Tablas y Gráficos
 
@@ -24,14 +28,15 @@ alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
 
 **ID:** `CO-LEC-6-2026-W33-tablas-graficos-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de tipos de texto discontinuo
-**Context:** Definición de tabla
+**Contexto:** Definición de tabla
 
 ### Enunciado
 
 ¿Qué es una tabla en un texto?
 
-### Options
+### Opciones
 - [ ] A) Un texto narrativo que cuenta una historia <!-- feedback: Incorrecto. Una tabla es un texto discontinuo, no narrativo. Organiza información en filas y columnas, no cuenta historias. -->
 - [ ] B) Un dibujo decorativo sin información <!-- feedback: Incorrecto. Las tablas no son decorativas. Cada celda contiene datos organizados de manera estructurada. -->
 - [x] C) Una organización visual de información en filas y columnas que permite comparar datos fácilmente <!-- feedback: ¡Correcto! Una tabla tiene filas (horizontales) y columnas (verticales). En la intersección de una fila y una columna hay una celda con un dato. Las tablas facilitan la comparación y búsqueda rápida de información. -->
@@ -47,14 +52,15 @@ Las tablas son textos discontinuos porque la información no se organiza en pár
 
 **ID:** `CO-LEC-6-2026-W33-tablas-graficos-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de tipos de gráficos
-**Context:** Tipos de gráficos
+**Contexto:** Tipos de gráficos
 
 ### Enunciado
 
 ¿Para qué sirve un gráfico de barras?
 
-### Options
+### Opciones
 - [ ] A) Para mostrar cómo cambia algo a través del tiempo de manera continua <!-- feedback: Incorrecto. Para mostrar cambios a través del tiempo se usa mejor un gráfico de líneas. Las barras son mejores para comparar categorías. -->
 - [x] B) Para comparar cantidades entre diferentes categorías usando barras de diferentes alturas <!-- feedback: ¡Correcto! El gráfico de barras tiene barras paralelas (verticales u horizontales) cuya altura o longitud representa la cantidad. Es ideal para comparar valores entre grupos: ventas por mes, población por ciudad, preferencias por deporte. -->
 - [ ] C) Para mostrar la relación entre dos variables en un plano cartesiano <!-- feedback: Incorrecto. Eso es un gráfico de dispersión (scatter plot), que muestra puntos en un plano para ver si existe relación entre dos variables. -->
@@ -70,8 +76,9 @@ Existen diferentes tipos de gráficos, cada uno con un propósito específico: 1
 
 **ID:** `CO-LEC-6-2026-W33-tablas-graficos-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión de tabla
-**Context:** Tabla sobre reciclaje en colegios
+**Contexto:** Tabla sobre reciclaje en colegios
 
 ### Enunciado
 
@@ -86,7 +93,7 @@ Observa la siguiente tabla:
 
 ¿Qué colegio recicla más papel al mes?
 
-### Options
+### Opciones
 - [ ] A) Santa Marta, con 45 kg <!-- feedback: Incorrecto. Santa Marta recicla 45 kg de papel, pero Los Andes recicla más. -->
 - [x] B) Los Andes, con 60 kg <!-- feedback: ¡Correcto! En la columna "Papel", el valor más alto es 60 kg, que corresponde al Colegio Los Andes. Leer una tabla requiere localizar la fila y columna correctas y comparar los valores. -->
 - [ ] C) San José, con 30 kg <!-- feedback: Incorrecto. San José tiene el menor reciclaje de papel (30 kg). -->
@@ -102,8 +109,9 @@ Para leer una tabla, sigue estos pasos: 1) Lee los encabezados para entender qu�
 
 **ID:** `CO-LEC-6-2026-W33-tablas-graficos-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Interpretación de gráfico de barras
-**Context:** Gráfico sobre deportes favoritos
+**Contexto:** Gráfico sobre deportes favoritos
 
 ### Enunciado
 
@@ -117,7 +125,7 @@ Imagina un gráfico de barras que muestra los deportes favoritos de 120 estudian
 
 ¿Cuál de las siguientes afirmaciones es correcta?
 
-### Options
+### Opciones
 - [ ] A) La mayoría de estudiantes prefiere natación <!-- feedback: Incorrecto. La barra de natación llega a 20, mientras que la de fútbol llega a 50. La mayoría prefiere fútbol. -->
 - [x] B) El fútbol es el deporte preferido por más estudiantes, con 50 de 120 <!-- feedback: ¡Correcto! La barra más alta es la de fútbol con 50 estudiantes, lo que representa la mayor preferencia. Esto significa que 50 de cada 120 estudiantes eligieron fútbol como su deporte favorito. -->
 - [ ] C) El voleibol es más popular que el baloncesto <!-- feedback: Incorrecto. El baloncesto tiene 30 estudiantes y el voleibol 15. El baloncesto es más popular. -->
@@ -133,8 +141,9 @@ En un gráfico de barras, la altura (o longitud) de cada barra es directamente p
 
 **ID:** `CO-LEC-6-2026-W33-tablas-graficos-005-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Interpretación de gráfico circular
-**Context:** Gráfico de pastel sobre uso del tiempo
+**Contexto:** Gráfico de pastel sobre uso del tiempo
 
 ### Enunciado
 
@@ -149,7 +158,7 @@ Un gráfico circular muestra cómo un estudiante de Bogotá distribuye su tiempo
 
 ¿Cuánto tiempo dedica este estudiante a actividades relacionadas con la educación (clases + tareas)?
 
-### Options
+### Opciones
 - [ ] A) 6 horas, solo las clases <!-- feedback: Incorrecto. La pregunta pide clases + tareas, no solo clases. -->
 - [ ] B) 4 horas, solo las tareas <!-- feedback: Incorrecto. La pregunta pide la suma de clases y tareas. -->
 - [x] C) 10 horas (6 de clases + 4 de tareas) <!-- feedback: ¡Correcto! Sumando el 25% de clases (6 horas) y el 17% de tareas (4 horas), obtenemos 10 horas dedicadas a actividades educativas. El gráfico circular nos permite ver la proporción de cada actividad respecto al total, y también sumar categorías relacionadas. -->
@@ -165,8 +174,9 @@ El gráfico circular (o de pastel) muestra cómo se distribuye un total (100%) e
 
 **ID:** `CO-LEC-6-2026-W33-tablas-graficos-006-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Interpretación de gráfico de líneas
-**Context:** Temperatura en una ciudad
+**Contexto:** Temperatura en una ciudad
 
 ### Enunciado
 
@@ -187,7 +197,7 @@ Imagina un gráfico de líneas que muestra la temperatura máxima promedio en Ba
 
 ¿En qué meses se alcanza la temperatura máxima?
 
-### Options
+### Opciones
 - [ ] A) En diciembre y enero, que son los meses más fríos <!-- feedback: Incorrecto. En diciembre y enero la temperatura es de 30°C, que es la más baja, no la más alta. -->
 - [ ] B) En marzo y julio, que tienen 32°C <!-- feedback: Incorrecto. Marzo y julio tienen 32°C, pero no es la temperatura máxima. -->
 - [x] C) En mayo, con 34°C, que es el punto más alto del gráfico <!-- feedback: ¡Correcto! Mayo alcanza 34°C, el valor más alto de todo el año. En el gráfico de líneas, el punto más alto de la línea indica el valor máximo. La línea sube de enero a mayo y luego desciende. -->
@@ -203,8 +213,9 @@ El gráfico de líneas es ideal para mostrar cambios a través del tiempo. La l�
 
 **ID:** `CO-LEC-6-2026-W33-tablas-graficos-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Aplicación de datos de tablas
-**Context:** Usar tabla para tomar decisiones
+**Contexto:** Usar tabla para tomar decisiones
 
 ### Enunciado
 
@@ -218,7 +229,7 @@ Tu curso quiere organizar una salida pedagógica y tiene tres opciones. Debes el
 
 El curso tiene un presupuesto máximo de $10,000 por estudiante y solo dispone de medio día (máximo 4 horas incluyendo viaje). ¿Cuál destino es la mejor opción?
 
-### Options
+### Opciones
 - [ ] A) Parque Explora, porque tiene más actividades <!-- feedback: Incorrecto. Parque Explora cuesta $15,000, superando el presupuesto de $10,000 por estudiante. Además, el viaje de 30 min más las actividades podrían exceder el tiempo disponible. -->
 - [x] B) Museo del Oro, porque cuesta $8,000 (dentro del presupuesto) y el viaje es de solo 20 minutos, dejando suficiente tiempo para la visita guiada y el taller <!-- feedback: ¡Correcto! El Museo del Oro cumple con ambos requisitos: costo menor a $10,000 y viaje corto (20 min ida + 20 min vuelta = 40 min, más 2-3 horas de actividades = bien dentro de medio día). -->
 - [ ] C) Jardín Botánico, porque es el más económico <!-- feedback: Incorrecto. Aunque cuesta $5,000, el viaje es de 45 minutos (90 min ida y vuelta), lo que suma 1.5 horas solo en transporte. Más el recorrido y picnic, podría exceder las 4 horas disponibles. -->
@@ -234,8 +245,9 @@ Las tablas no solo almacenan información, sino que nos ayudan a tomar decisione
 
 **ID:** `CO-LEC-6-2026-W33-tablas-graficos-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Análisis crítico de gráficos
-**Context:** Gráfico engañoso
+**Contexto:** Gráfico engañoso
 
 ### Enunciado
 
@@ -246,7 +258,7 @@ Un gráfico de barras muestra las ventas de dos marcas de café colombiano:
 
 Sin embargo, el eje vertical del gráfico comienza en 90,000 en lugar de 0. ¿Qué efecto tiene esto?
 
-### Options
+### Opciones
 - [ ] A) No tiene ningún efecto; el gráfico sigue siendo correcto <!-- feedback: Incorrecto. Comenzar el eje en 90,000 en lugar de 0 exagera visualmente la diferencia entre las barras. -->
 - [ ] B) Hace que la diferencia parezca menor de lo que realmente es <!-- feedback: Incorrecto. Al comenzar en 90,000, la diferencia se ve mucho mayor porque la barra A parece casi el doble de la barra B. -->
 - [x] C) Hace que la diferencia parezca mucho mayor de lo que realmente es, engañando al lector <!-- feedback: ¡Correcto! La diferencia real es de solo 5,000 unidades (100,000 - 95,000), que es solo un 5%. Pero al comenzar el eje en 90,000, la barra A parece enorme comparada con la B (10,000 vs 5,000 desde el inicio del eje), dando la impresión falsa de que la diferencia es enorme. -->
@@ -262,8 +274,9 @@ Los gráficos pueden manipular la percepción del lector si se diseñan de maner
 
 **ID:** `CO-LEC-6-2026-W33-tablas-graficos-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Comparación entre tabla y gráfico
-**Context:** Misma información en dos formatos
+**Contexto:** Misma información en dos formatos
 
 ### Enunciado
 
@@ -282,7 +295,7 @@ La misma información sobre resultados de una prueba de matemáticas en un coleg
 
 ¿Qué ventaja tiene el gráfico de barras sobre la tabla en este caso?
 
-### Options
+### Opciones
 - [ ] A) El gráfico muestra los nombres de los estudiantes <!-- feedback: Incorrecto. Ambos formatos muestran los nombres. La tabla también los incluye. -->
 - [ ] B) El gráfico muestra los puntajes exactos <!-- feedback: Incorrecto. Ambos formatos muestran los puntajes exactos. La tabla incluye los valores numéricos precisos. -->
 - [x] C) El gráfico permite ver rápidamente quién obtuvo el mejor y el peor puntaje, y las diferencias entre estudiantes, sin necesidad de leer números <!-- feedback: ¡Correcto! La ventaja del gráfico es visual: de un vistazo vemos que Ana tiene la barra más alta (mejor puntaje) y Pedro la más baja (peor puntaje). Las diferencias relativas se aprecian instantáneamente. La tabla requiere leer y comparar números uno por uno. -->
@@ -298,8 +311,9 @@ Las tablas y los gráficos tienen fortalezas complementarias. TABLAS: son precis
 
 **ID:** `CO-LEC-6-2026-W33-tablas-graficos-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Valoración crítica de datos visuales
-**Context:** Evaluar si un gráfico apoya una conclusión
+**Contexto:** Evaluar si un gráfico apoya una conclusión
 
 ### Enunciado
 
@@ -314,7 +328,7 @@ Un artículo dice: "El servicio de transporte público en Medellín ha mejorado 
 
 ¿El gráfico realmente apoya la afirmación de que el servicio "ha mejorado enormemente"?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque la línea sube constantemente desde 2020 <!-- feedback: Incorrecto. Aunque sube desde 2020, en 2024 solo ha recuperado un nivel ligeramente inferior al de 2019 y sigue por debajo de ese 65%. No es una mejora "enorme". -->
 - [ ] B) Sí, porque muestra datos de varios años <!-- feedback: Incorrecto. Mostrar muchos datos no significa que la mejora sea enorme. La cantidad de datos no equivale a la magnitud de la mejora. -->
 - [x] C) No, porque la mejora es modesta (de 45% a 62% en 4 años, y sin superar el nivel de 2019). La palabra "enormemente" exagera lo que muestran los datos <!-- feedback: ¡Correcto! La mejora de 45% a 62% es positiva pero modesta. Además, en 2019 el nivel era 65%, más alto que el 62% actual. La afirmación "enormemente" es una exageración que no se corresponde con los datos presentados. -->

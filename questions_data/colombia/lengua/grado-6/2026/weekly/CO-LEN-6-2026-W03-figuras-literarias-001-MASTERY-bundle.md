@@ -1,28 +1,32 @@
 ---
-id: "CO-LEN-6-2026-W03-figuras-literarias-001-MASTERY"
+id: "CO-LEN-6-2026-W03-figuras-literarias-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lengua"
 tema: "figuras-literarias"
-semana: "W03"
+week: "W03"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Figuras Literarias - Grado 6
 ## Semana W03
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEN-6-2026-W03-figuras-literarias-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio San José de Barranquilla, la profesora Diana empieza la clase de Lengua Castellana explicando qué son las figuras literarias.
+**Contexto:** En el Colegio San José de Barranquilla, la profesora Diana empieza la clase de Lengua Castellana explicando qué son las figuras literarias.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Las figuras literarias (también llamadas recursos retóricos o estilísticos) s
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEN-6-2026-W03-figuras-literarias-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En la I.E. La Presentación de Pereira, los estudiantes aprenden a identificar las figuras literarias más comunes.
+**Contexto:** En la I.E. La Presentación de Pereira, los estudiantes aprenden a identificar las figuras literarias más comunes.
 **Expected_Success:** 0.83
 
 ### Enunciado
@@ -60,11 +64,11 @@ La metáfora es una de las figuras literarias más importantes. Consiste en iden
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEN-6-2026-W03-figuras-literarias-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En el Colegio Boyacá de Tunja, los estudiantes identifican figuras literarias en poemas de autores colombianos.
+**Contexto:** En el Colegio Boyacá de Tunja, los estudiantes identifican figuras literarias en poemas de autores colombianos.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ José Asunción Silva (1865-1896) es uno de los poetas colombianos más importan
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEN-6-2026-W03-figuras-literarias-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En la Biblioteca Departamental de Cali, los estudiantes de grado sexto analizan un poema de la poetisa colombiana Maruja Vieira.
+**Contexto:** En la Biblioteca Departamental de Cali, los estudiantes de grado sexto analizan un poema de la poetisa colombiana Maruja Vieira.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -102,11 +106,11 @@ La personificación (o prosopopeya) es una figura literaria que atribuye cualida
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEN-6-2026-W03-figuras-literarias-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En la I.E. INEM de Neiva, los estudiantes deben clasificar diferentes frases según la figura literaria que contienen.
+**Contexto:** En la I.E. INEM de Neiva, los estudiantes deben clasificar diferentes frases según la figura literaria que contienen.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -123,11 +127,11 @@ La hipérbole es una figura literaria que consiste en exagerar o aumentar desmes
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LEN-6-2026-W03-figuras-literarias-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Nacional de Bucaramanga, los estudiantes estudian el poema "Los Motivos del Lobo" del colombiano José Eustasio Rivera.
+**Contexto:** En el Colegio Nacional de Bucaramanga, los estudiantes estudian el poema "Los Motivos del Lobo" del colombiano José Eustasio Rivera.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ Símil: "Sus dientes brillaban como perlas" (usa "como"). Metáfora: "Las perlas
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LEN-6-2026-W03-figuras-literarias-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** Los estudiantes del Colegio San Luis de Cartagena analizan un fragmento de la obra de Gabriel García Márquez.
+**Contexto:** Los estudiantes del Colegio San Luis de Cartagena analizan un fragmento de la obra de Gabriel García Márquez.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Gabriel García Márquez, premio Nobel colombiano, utilizaba figuras literarias 
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEN-6-2026-W03-figuras-literarias-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En el Gimnasio Campestre de Santa Marta, los estudiantes analizan letras de canciones del vallenato colombiano como recurso literario.
+**Contexto:** En el Gimnasio Campestre de Santa Marta, los estudiantes analizan letras de canciones del vallenato colombiano como recurso literario.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -186,11 +190,11 @@ En la literatura oral y la música popular colombiana abundan las figuras litera
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEN-6-2026-W03-figuras-literarias-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la Institución Educativa José María Córdoba de Quibdó, los estudiantes analizan un poema de la poetisa colombiana Piedad Bonnett.
+**Contexto:** En la Institución Educativa José María Córdoba de Quibdó, los estudiantes analizan un poema de la poetisa colombiana Piedad Bonnett.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ Piedad Bonnett es una poeta y novelista colombiana contemporánea. En sus poemas
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEN-6-2026-W03-figuras-literarias-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** En el Colegio Colombo Británico de Cali, los estudiantes deben crear un poema corto que incluya al menos tres figuras literarias diferentes.
+**Contexto:** En el Colegio Colombo Británico de Cali, los estudiantes deben crear un poema corto que incluya al menos tres figuras literarias diferentes.
 **Expected_Success:** 0.48
 
 ### Enunciado

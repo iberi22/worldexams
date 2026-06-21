@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY"
+id: "CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "repaso-recursos"
-semana: "W27"
+week: "W27"
 periodo: 3
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Repaso de recursos naturales renovables y no renovables. Conse
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Repaso: Nuestros Recursos Naturales
 
 Este bundle integra el conocimiento sobre la clasificación de los recursos de la Tierra y las acciones necesarias para asegurar su disponibilidad para el futuro.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un examen de repaso, Mariana debe clasificar el Sol y el Viento.
+**Contexto:** En un examen de repaso, Mariana debe clasificar el Sol y el Viento.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ Entender qué es renovable nos ayuda a elegir mejores fuentes de energía. El So
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** El petróleo se usa para hacer la gasolina de los carros, pero los científicos dicen que algún día se acabará.
+**Contexto:** El petróleo se usa para hacer la gasolina de los carros, pero los científicos dicen que algún día se acabará.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -73,12 +77,12 @@ Los recursos no renovables, como el petróleo y el carbón, son "tesoros del pas
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Para cuidar el planeta, Mariana separa el plástico, el vidrio y el papel de los restos de comida.
+**Contexto:** Para cuidar el planeta, Mariana separa el plástico, el vidrio y el papel de los restos de comida.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -98,12 +102,12 @@ El reciclaje cierra el círculo. Si reciclamos una botella de vidrio, la natural
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** En un desierto, el recurso agua es casi inexistente, pero hay mucha arena. En una selva, el agua sobra pero el suelo fértil es muy delgado.
+**Contexto:** En un desierto, el recurso agua es casi inexistente, pero hay mucha arena. En una selva, el agua sobra pero el suelo fértil es muy delgado.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ La distribución desigual de los recursos es la razón por la cual los países i
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Vas a comprar una gaseosa y ves dos opciones: una botella de vidrio retornable (se devuelve a la tienda) y una de plástico desechable.
+**Contexto:** Vas a comprar una gaseosa y ves dos opciones: una botella de vidrio retornable (se devuelve a la tienda) y una de plástico desechable.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -148,12 +152,12 @@ Elegir productos retornables es una forma de "Reutilizar" a gran escala. Es una 
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Los animales de la selva (fauna) son recursos renovables, pero si se cazan demasiados jaguares, la población ya no puede recuperarse.
+**Contexto:** Los animales de la selva (fauna) son recursos renovables, pero si se cazan demasiados jaguares, la población ya no puede recuperarse.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -173,12 +177,12 @@ Esto se llama sostenibilidad. Un recurso es renovable solo si lo tratamos con re
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** El aire de la atmósfera es un recurso renovable que las plantas limpian cada día.
+**Contexto:** El aire de la atmósfera es un recurso renovable que las plantas limpian cada día.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -198,12 +202,12 @@ A veces olvidamos que la atmósfera es un recurso físico. Nos protege como un t
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Tienes que diseñar una ciudad que use solo recursos renovables para su energía.
+**Contexto:** Tienes que diseñar una ciudad que use solo recursos renovables para su energía.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -223,12 +227,12 @@ La transición a energías limpias es el gran reto de la ciencia moderna. Usar e
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** En Colombia, el agua de los páramos se usa para generar electricidad en grandes represas antes de llegar a las casas.
+**Contexto:** En Colombia, el agua de los páramos se usa para generar electricidad en grandes represas antes de llegar a las casas.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -248,12 +252,12 @@ Colombia es líder en energía renovable porque tenemos mucha agua. Sin embargo,
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W27-repaso-recursos-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una persona dice: "No me importa si se acaban los recursos naturales, los científicos inventarán recursos artificiales iguales o mejores".
+**Contexto:** Una persona dice: "No me importa si se acaban los recursos naturales, los científicos inventarán recursos artificiales iguales o mejores".
 **Expected_Success:** 0.55
 
 ### Enunciado

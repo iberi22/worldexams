@@ -1,28 +1,32 @@
 ---
-id: "CO-LEN-6-2026-W16-novela-001-MASTERY"
+id: "CO-LEN-6-2026-W16-novela-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lengua"
 tema: "novela"
-semana: "W16"
+week: "W16"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: La Novela - Grado 6
 ## Semana W16
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LEN-6-2026-W16-novela-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En el Colegio San Bartolomé de Bogotá, la profesora Claudia introduce el género narrativo preguntando sobre la novela.
+**Contexto:** En el Colegio San Bartolomé de Bogotá, la profesora Claudia introduce el género narrativo preguntando sobre la novela.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ La novela es una narración extensa en prosa que desarrolla personajes complejos
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `CO-LEN-6-2026-W16-novela-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Identificación de contenidos locales
-**Context:** En la Institución Educativa INEM José Félix de Restrepo de Medellín, los estudiantes enumeran los elementos de la novela.
+**Contexto:** En la Institución Educativa INEM José Félix de Restrepo de Medellín, los estudiantes enumeran los elementos de la novela.
 **Expected_Success:** 0.84
 
 ### Enunciado
@@ -60,11 +64,11 @@ Los elementos de la novela son: narrador (punto de vista desde el que se cuenta 
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LEN-6-2026-W16-novela-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio La Salle de Cúcuta, los estudiantes leen un fragmento de "María" de Jorge Isaacs.
+**Contexto:** En el Colegio La Salle de Cúcuta, los estudiantes leen un fragmento de "María" de Jorge Isaacs.
 **Expected_Success:** 0.79
 
 ### Enunciado
@@ -81,11 +85,11 @@ Lee el fragmento: "Efraín llegó al valle del Cauca después de varios años de
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEN-6-2026-W16-novela-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En la I.E. Francisco de Paula Santander de Cali, los estudiantes clasifican novelas según su género.
+**Contexto:** En la I.E. Francisco de Paula Santander de Cali, los estudiantes clasifican novelas según su género.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -102,11 +106,11 @@ Los subgéneros novelísticos incluyen: novela romántica (amor y sentimientos),
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEN-6-2026-W16-novela-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la Institución Educativa San Simón de Ibagué, los estudiantes analizan la estructura narrativa de la novela "El coronel no tiene quien le escriba" de Gabriel García Márquez.
+**Contexto:** En la Institución Educativa San Simón de Ibagué, los estudiantes analizan la estructura narrativa de la novela "El coronel no tiene quien le escriba" de Gabriel García Márquez.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -123,11 +127,11 @@ La estructura temporal de una novela puede ser: lineal (los eventos se suceden e
 
 ---
 
-## Pregunta 6 [D5]
+## Question 6 [D5]
 **ID:** `CO-LEN-6-2026-W16-novela-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Comprensión de textos
-**Context:** En el Colegio Nuestra Señora del Rosario de Sincelejo, los estudiantes diferencian los tipos de personajes en la novela.
+**Contexto:** En el Colegio Nuestra Señora del Rosario de Sincelejo, los estudiantes diferencian los tipos de personajes en la novela.
 **Expected_Success:** 0.71
 
 ### Enunciado
@@ -144,11 +148,11 @@ Los personajes se clasifican en: principales (protagonista y antagonista), secun
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LEN-6-2026-W16-novela-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
-**Context:** En el Colegio San José de Barranquilla, los estudiantes escriben el inicio de una novela sobre un personaje de su región.
+**Contexto:** En el Colegio San José de Barranquilla, los estudiantes escriben el inicio de una novela sobre un personaje de su región.
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -165,11 +169,11 @@ Un buen inicio de novela debe captar la atención del lector mediante: un mister
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LEN-6-2026-W16-novela-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Comprensión de textos
-**Context:** En la I.E. Carlos Arturo Torres de Tunja, los estudiantes analizan el conflicto en novelas colombianas.
+**Contexto:** En la I.E. Carlos Arturo Torres de Tunja, los estudiantes analizan el conflicto en novelas colombianas.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ Los conflictos en la novela pueden ser: externos (individuo contra individuo, co
 
 ---
 
-## Pregunta 9 [D8]
+## Question 9 [D8]
 **ID:** `CO-LEN-6-2026-W16-novela-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** En el Colegio La Enseñanza de Bogotá, los estudiantes evalúan la importancia de la novela colombiana en la literatura universal.
+**Contexto:** En el Colegio La Enseñanza de Bogotá, los estudiantes evalúan la importancia de la novela colombiana en la literatura universal.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +211,11 @@ La literatura colombiana tiene impacto global. "Cien años de soledad" (1967) de
 
 ---
 
-## Pregunta 10 [D9]
+## Question 10 [D9]
 **ID:** `CO-LEN-6-2026-W16-novela-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** En el Colegio Cooperativo de la Policía Nacional de Bucaramanga, los estudiantes crean el perfil de un personaje para una novela.
+**Contexto:** En el Colegio Cooperativo de la Policía Nacional de Bucaramanga, los estudiantes crean el perfil de un personaje para una novela.
 **Expected_Success:** 0.47
 
 ### Enunciado

@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-4-2026-P3-poesia-instructivos-001-MASTERY"
+id: "CO-LEC-4-2026-P3-poesia-instructivos-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "poesía, texto instructivo, rima, instrucciones, lenguaje figurado, estructura poética"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4: Poema "Receta para Volar" + Instructivo "Cómo hacer un cometa"
 
@@ -63,13 +70,14 @@ rubric_baseline: "poesía, texto instructivo, rima, instrucciones, lenguaje figu
 
 **ID:** `CO-LC-4-2026-P3-poesia-instructivos-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Elementos del poema.
+**Contexto:** Elementos del poema.
 
 ### Enunciado
 Según el poema, ¿cuántos ingredientes se necesitan para volar?
 
-### Options
+### Opciones
 - [ ] A) Tres. <!-- feedback: Incorrecto. Hay más de tres elementos en la lista del poema. -->
 - [x] B) Cuatro. <!-- feedback: Correcto. El poema enumera: "un papel de colores, un pedazo de cielo, dos alas de ilusión y mucha imaginación". -->
 - [ ] C) Cinco. <!-- feedback: Incorrecto. Aunque hay varios versos, la lista de ingredientes es de cuatro elementos. -->
@@ -84,13 +92,14 @@ Se evalúa la capacidad de contar elementos enumerados en un texto poético. Los
 
 **ID:** `CO-LC-4-2026-P3-poesia-instructivos-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Comprensión literal del poema.
+**Contexto:** Comprensión literal del poema.
 
 ### Enunciado
 En el poema, ¿qué debes hacer con el viento de la tarde?
 
-### Options
+### Opciones
 - [ ] A) Dejarlo pasar. <!-- feedback: Incorrecto. El poema dice que hay que hacer algo activo con el viento. -->
 - [x] B) Tomarlo y envolverlo en un suspiro. <!-- feedback: Correcto. El poema dice: "Toma el viento de la tarde, envuélvelo en un suspiro". -->
 - [ ] C) Soplar muy fuerte. <!-- feedback: Incorrecto. No se menciona soplar, sino tomar y envolver. -->
@@ -105,13 +114,14 @@ Se evalúa la comprensión literal de una instrucción poética. Aunque el lengu
 
 **ID:** `CO-LC-4-2026-P3-poesia-instructivos-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Significado del lenguaje figurado.
+**Contexto:** Significado del lenguaje figurado.
 
 ### Enunciado
 Cuando el poema dice "átalo con un cordón de sueños bien dormidos", ¿qué quiere expresar?
 
-### Options
+### Opciones
 - [ ] A) Que hay que usar un cordón de verdad para atar los sueños. <!-- feedback: Incorrecto. No es un cordón real, es una metáfora. -->
 - [ ] B) Que los sueños deben estar bien despiertos. <!-- feedback: Incorrecto. El poema dice "bien dormidos", no despiertos. -->
 - [x] C) Que hay que usar la imaginación y los deseos guardados para crear algo especial. <!-- feedback: Correcto. "Sueños bien dormidos" se refiere a las ilusiones que tenemos guardadas y que podemos usar para crear. -->
@@ -126,13 +136,14 @@ Se evalúa la interpretación del lenguaje figurado en la poesía. Los estudiant
 
 **ID:** `CO-LC-4-2026-P3-poesia-instructivos-001-MASTERY-v4`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** La intención de la última estrofa.
+**Contexto:** La intención de la última estrofa.
 
 ### Enunciado
 ¿Por qué el poema dice que no hay que preguntar a los adultos si volar es de verdad?
 
-### Options
+### Opciones
 - [ ] A) Porque los adultos no saben la respuesta. <!-- feedback: Incorrecto. La razón es más profunda que el simple desconocimiento. -->
 - [ ] B) Porque los adultos volaron cuando eran niños. <!-- feedback: Incorrecto. El poema sugiere que los adultos olvidaron cómo se vuela. -->
 - [x] C) Porque los adultos ya no recuerdan cómo usar la imaginación para volar. <!-- feedback: Correcto. El poema dice "porque ellos ya no recuerdan lo que es la gravedad", refiriéndose a que olvidaron soñar. -->
@@ -147,13 +158,14 @@ Se evalúa la inferencia del mensaje detrás de las palabras poéticas. La respu
 
 **ID:** `CO-LC-4-2026-P3-poesia-instructivos-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Comparación entre poemas e instructivos.
+**Contexto:** Comparación entre poemas e instructivos.
 
 ### Enunciado
 ¿Qué diferencia hay entre el poema "Receta para Volar" y el instructivo "Cómo hacer un cometa"?
 
-### Options
+### Opciones
 - [ ] A) El poema es más largo que el instructivo. <!-- feedback: Incorrecto. Ambos tienen una extensión similar; no es esa la diferencia principal. -->
 - [x] B) El poema usa un lenguaje poético y figurado, mientras que el instructivo da pasos claros y reales. <!-- feedback: Correcto. El poema habla de volar con imaginación, mientras el instructivo explica cómo construir un cometa real. -->
 - [ ] C) Uno fue escrito en Medellín y el otro no tiene ciudad. <!-- feedback: Incorrecto. La diferencia no es geográfica, sino de género textual. -->
@@ -168,13 +180,14 @@ Se evalúa la capacidad de contrastar dos tipos de texto (poema vs. instructivo)
 
 **ID:** `CO-LC-4-2026-P3-poesia-instructivos-001-MASTERY-v6`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Propósito de los textos.
+**Contexto:** Propósito de los textos.
 
 ### Enunciado
 ¿Cuál es el propósito principal del instructivo "Cómo hacer un cometa"?
 
-### Options
+### Opciones
 - [ ] A) Entretener con una historia divertida. <!-- feedback: Incorrecto. Los instructivos no buscan entretener con una historia, sino guiar una acción. -->
 - [ ] B) Vender materiales para hacer cometas. <!-- feedback: Incorrecto. No hay intención de vender productos en el instructivo. -->
 - [x] C) Explicar paso a paso cómo construir un cometa. <!-- feedback: Correcto. El instructivo da una secuencia ordenada de pasos para construir un objeto. -->
@@ -189,13 +202,14 @@ Se evalúa la identificación del propósito de un texto instructivo. La respues
 
 **ID:** `CO-LC-4-2026-P3-poesia-instructivos-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Instrucciones específicas.
+**Contexto:** Instrucciones específicas.
 
 ### Enunciado
 Según el instructivo, ¿qué se debe hacer primero para construir el cometa?
 
-### Options
+### Opciones
 - [ ] A) Pegar los papeles de colores. <!-- feedback: Incorrecto. Primero hay que hacer la estructura de la cruz. -->
 - [x] B) Formar una cruz con los dos palitos de balso. <!-- feedback: Correcto. El paso 1 dice: "Forma una cruz con los dos palitos de balso y amárralos en el centro". -->
 - [ ] C) Atar el hilo cáñamo al centro. <!-- feedback: Incorrecto. Eso es el paso 4, después de pegar el papel. -->
@@ -210,13 +224,14 @@ Se evalúa la comprensión de la secuencia en un texto instructivo. Los estudian
 
 **ID:** `CO-LC-4-2026-P3-poesia-instructivos-001-MASTERY-v8`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Características de la poesía.
+**Contexto:** Características de la poesía.
 
 ### Enunciado
 ¿Qué tienen en común las palabras "colores", "ilusiones" y "elevación" al final de los versos del poema?
 
-### Options
+### Opciones
 - [ ] A) Que son palabras inventadas. <!-- feedback: Incorrecto. Son palabras reales, no inventadas. -->
 - [x] B) Que riman entre sí (terminan en -ón, -ones). <!-- feedback: Correcto. "Colores" rima con "ilusiones", y "elevación" tiene una terminación similar en -ón. -->
 - [ ] C) Que describen colores. <!-- feedback: Incorrecto. Solo "colores" describe colores; las otras no. -->
@@ -231,13 +246,14 @@ Se evalúa el reconocimiento de la rima como característica de los textos poét
 
 **ID:** `CO-LC-4-2026-P3-poesia-instructivos-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Relación entre el poema y el instructivo.
+**Contexto:** Relación entre el poema y el instructivo.
 
 ### Enunciado
 ¿Qué tienen en común el poema y el instructivo?
 
-### Options
+### Opciones
 - [ ] A) Ambos enseñan a volar de verdad. <!-- feedback: Incorrecto. Solo el instructivo enseña algo práctico; el poema habla de volar con imaginación. -->
 - [ ] B) Ambos están escritos en verso. <!-- feedback: Incorrecto. El instructivo está escrito en prosa, con pasos numerados. -->
 - [x] C) Ambos tratan el tema de volar, aunque de maneras diferentes. <!-- feedback: Correcto. El poema habla del vuelo imaginativo y el instructivo del vuelo de un cometa. -->
@@ -252,13 +268,14 @@ Se evalúa la capacidad de encontrar el tema común entre dos textos de géneros
 
 **ID:** `CO-LC-4-2026-P3-poesia-instructivos-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Elementos del texto instructivo.
+**Contexto:** Elementos del texto instructivo.
 
 ### Enunciado
 ¿Qué elemento es indispensable en un texto instructivo como "Cómo hacer un cometa"?
 
-### Options
+### Opciones
 - [ ] A) Rimas y versos. <!-- feedback: Incorrecto. Las rimas y versos son propios de la poesía, no de los instructivos. -->
 - [ ] B) Personajes y diálogos. <!-- feedback: Incorrecto. Los instructivos no tienen personajes ni diálogos. -->
 - [x] C) Una lista de materiales y pasos ordenados. <!-- feedback: Correcto. Todo instructivo debe tener una lista de lo que se necesita y los pasos en orden para lograr el resultado. -->

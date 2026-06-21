@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-4-2026-P1-textos-narrativos-cuentos-001-MASTERY"
+id: "CO-LEC-4-2026-P1-textos-narrativos-cuentos-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "textos narrativos, cuentos, estructura narrativa, personajes, escenario, tiempo narrativo"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4: El Pueblo de las Sillas Voladoras
 
@@ -28,13 +35,14 @@ rubric_baseline: "textos narrativos, cuentos, estructura narrativa, personajes, 
 
 **ID:** `CO-LC-4-2026-P1-textos-narrativos-cuentos-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Inicio del cuento.
+**Contexto:** Inicio del cuento.
 
 ### Enunciado
 ¿En qué lugar se desarrolla la historia de Valeria y Mateo?
 
-### Options
+### Opciones
 - [ ] A) En una ciudad grande como Bogotá. <!-- feedback: Incorrect. El texto menciona un "municipio" que se llama San Gil, Santander, que no es una ciudad grande como Bogotá. -->
 - [ ] B) En la playa de Santa Marta. <!-- feedback: Incorrect. La historia habla de un cañón y un parque principal, características de una zona montañosa, no de una playa. -->
 - [x] C) En el municipio de San Gil, Santander. <!-- feedback: Correcto. El texto comienza diciendo: "En el municipio de San Gil, Santander", indicando el lugar exacto de la historia. -->
@@ -49,13 +57,14 @@ Se evalúa la capacidad de identificar el lugar donde ocurre la historia. La res
 
 **ID:** `CO-LC-4-2026-P1-textos-narrativos-cuentos-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Los personajes del cuento.
+**Contexto:** Los personajes del cuento.
 
 ### Enunciado
 ¿Qué descubren Valeria y Mateo una noche de luna llena?
 
-### Options
+### Opciones
 - [ ] A) Que las sillas de su casa pueden hablar. <!-- feedback: Incorrect. Las sillas no hablan en el cuento; lo que hacen es moverse y flotar. -->
 - [x] B) Que las sillas viejas de la escuela se movían solas y flotaban. <!-- feedback: Correcto. El texto dice que "las sillas viejas del salón de clase se movían solas" y que una de ellas "se elevó despacio". -->
 - [ ] C) Que su abuela les había preparado un tesoro escondido. <!-- feedback: Incorrect. La abuela aparece al final, pero no hay tesoro escondido en la historia. -->
@@ -70,13 +79,14 @@ Se evalúa la identificación de un hecho clave del relato. La respuesta requier
 
 **ID:** `CO-LC-4-2026-P1-textos-narrativos-cuentos-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** El desarrollo de la historia.
+**Contexto:** El desarrollo de la historia.
 
 ### Enunciado
 ¿Qué característica especial tenía la silla en la que volaron los hermanos?
 
-### Options
+### Opciones
 - [ ] A) Era una silla nueva y brillante. <!-- feedback: Incorrect. El texto dice que era una silla "vieja", no nueva. -->
 - [ ] B) Tenía alas de metal. <!-- feedback: Incorrect. No se mencionan alas; la silla simplemente flota y vuela sin necesidad de alas. -->
 - [x] C) Tenía el nombre de su abuelo tallado en el espaldar. <!-- feedback: Correcto. El texto menciona que la silla "tenía el nombre de su abuelo tallado en el espaldar", lo que la hacía especial. -->
@@ -91,13 +101,14 @@ Se evalúa la capacidad de recordar información descriptiva sobre un elemento i
 
 **ID:** `CO-LC-4-2026-P1-textos-narrativos-cuentos-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** El final del cuento.
+**Contexto:** El final del cuento.
 
 ### Enunciado
 ¿Qué dijo la abuela de Valeria y Mateo cuando ellos despertaron?
 
-### Options
+### Opciones
 - [ ] A) "Nunca más se suban a una silla vieja". <!-- feedback: Incorrect. La abuela no los regaña; al contrario, les da un mensaje esperanzador. -->
 - [ ] B) "Eso fue solo un sueño, no existe tal cosa". <!-- feedback: Incorrect. La abuela no descarta la experiencia, sino que ofrece una reflexión poética. -->
 - [x] C) "Los niños que sueñan con volar encuentran la manera de hacerlo". <!-- feedback: Correcto. La abuela dice exactamente esa frase, dejando abierta la posibilidad de que la experiencia haya sido real. -->
@@ -112,13 +123,14 @@ Se evalúa la identificación de diálogos importantes al final del cuento. La r
 
 **ID:** `CO-LC-4-2026-P1-textos-narrativos-cuentos-001-MASTERY-v5`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** La perspectiva de la narradora o narrador.
+**Contexto:** La perspectiva de la narradora o narrador.
 
 ### Enunciado
 Al final del cuento, la autora dice: "Nadie supo si fue un sueño o si las sillas de San Gil realmente vuelan". ¿Qué quiere dar a entender con esta frase?
 
-### Options
+### Opciones
 - [ ] A) Que las sillas nunca volaron y todo fue imaginación. <!-- feedback: Incorrect. La frase deja la duda abierta, no afirma que fuera solo imaginación. -->
 - [x] B) Que la experiencia fue tan mágica que podría ser real o un sueño, y eso no importa. <!-- feedback: Correcto. La autora mantiene el misterio y la magia del cuento, invitando al lector a decidir. -->
 - [ ] C) Que los hermanos estaban mintiendo sobre lo que vieron. <!-- feedback: Incorrect. El narrador no acusa de mentir a los personajes; mantiene un tono de misterio y fantasía. -->
@@ -133,13 +145,14 @@ Se evalúa la interpretación de la intención del narrador al dejar un final ab
 
 **ID:** `CO-LC-4-2026-P1-textos-narrativos-cuentos-001-MASTERY-v6`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** La relación entre los personajes.
+**Contexto:** La relación entre los personajes.
 
 ### Enunciado
 ¿Por qué la silla con el nombre del abuelo era la que voló con los niños?
 
-### Options
+### Opciones
 - [ ] A) Porque era la única silla que tenía madera mágica. <!-- feedback: Incorrect. El texto no menciona madera mágica; la magia está ligada al significado familiar del objeto. -->
 - [ ] B) Porque el abuelo la había fabricado para volar. <!-- feedback: Incorrect. No se dice nada sobre cómo se fabricó la silla ni su propósito. -->
 - [x] C) Porque el abuelo probablemente también fue un soñador y la silla guarda ese espíritu. <!-- feedback: Correcto. Se puede inferir que la conexión familiar y el legado del abuelo hacen que la silla sea especial y responda a los sueños de los nietos. -->
@@ -154,13 +167,14 @@ Se evalúa la inferencia basada en el valor simbólico de los objetos. El nombre
 
 **ID:** `CO-LC-4-2026-P1-textos-narrativos-cuentos-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Estructura del cuento.
+**Contexto:** Estructura del cuento.
 
 ### Enunciado
 ¿Qué ocurre primero en el cuento?
 
-### Options
+### Opciones
 - [x] A) Los niños soñaban con volar y las sillas viejas se movían solas. <!-- feedback: Correcto. El cuento comienza presentando el sueño de los niños y luego el descubrimiento del movimiento de las sillas. -->
 - [ ] B) La abuela dice la frase sobre los niños que sueñan. <!-- feedback: Incorrect. Eso ocurre al final del cuento, después de la aventura. -->
 - [ ] C) Vuelan sobre el cañón del Chicamocha. <!-- feedback: Incorrect. El vuelo ocurre en el desarrollo, después del descubrimiento de las sillas. -->
@@ -175,13 +189,14 @@ Se evalúa el reconocimiento de la secuencia temporal en una narración. La resp
 
 **ID:** `CO-LC-4-2026-P1-textos-narrativos-cuentos-001-MASTERY-v8`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Vocabulario en contexto.
+**Contexto:** Vocabulario en contexto.
 
 ### Enunciado
 En el cuento, la palabra "espaldar" significa:
 
-### Options
+### Opciones
 - [ ] A) La parte de atrás de una persona. <!-- feedback: Incorrecta en este contexto. Aunque "espalda" se refiere a la parte trasera del cuerpo, "espaldar" aquí no se refiere a una persona. -->
 - [x] B) La parte de la silla donde se apoya la espalda. <!-- feedback: Correcto. En una silla, el espaldar es la pieza vertical donde las personas recuestan la espalda al sentarse. -->
 - [ ] C) El asiento donde uno se sienta. <!-- feedback: Incorrecto. El asiento es la parte donde uno se sienta; el espaldar es la parte trasera vertical. -->
@@ -196,13 +211,14 @@ Se evalúa el significado de una palabra según el contexto del texto. Los estud
 
 **ID:** `CO-LC-4-2026-P1-textos-narrativos-cuentos-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Elementos fantásticos.
+**Contexto:** Elementos fantásticos.
 
 ### Enunciado
 ¿Qué elemento del cuento nos indica que esta es una historia fantástica y no una historia real?
 
-### Options
+### Opciones
 - [ ] A) Que los niños vivan en San Gil. <!-- feedback: Incorrecto. San Gil es un lugar real de Colombia, eso hace la historia creíble, no fantástica. -->
 - [ x] B) Que las sillas de madera floten y vuelen solas. <!-- feedback: Correcto. Las sillas que vuelan sin explicación científica son un elemento fantástico, propio de los cuentos de imaginación. -->
 - [ ] C) Que los hermanos se llamen Valeria y Mateo. <!-- feedback: Incorrecto. Los nombres comunes de niños no son elementos fantásticos. -->
@@ -217,13 +233,14 @@ Se evalúa la capacidad de distinguir entre elementos reales y fantásticos en u
 
 **ID:** `CO-LC-4-2026-P1-textos-narrativos-cuentos-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** La enseñanza del cuento.
+**Contexto:** La enseñanza del cuento.
 
 ### Enunciado
 ¿Qué enseñanza principal nos deja este cuento sobre soñar?
 
-### Options
+### Opciones
 - [ ] A) Que los sueños nunca se cumplen. <!-- feedback: Incorrecto. El cuento muestra lo contrario: los sueños de los niños se hicieron realidad de una manera mágica. -->
 - [ ] B) Que volar en silla es peligroso y no debe intentarse. <!-- feedback: Incorrecto. El cuento no tiene un tono de advertencia; es una historia de maravilla y descubrimiento. -->
 - [x] C) Que los sueños y la imaginación pueden llevarnos a vivir aventuras maravillosas. <!-- feedback: Correcto. La enseñanza principal es que soñar y tener imaginación es valioso y puede convertir lo cotidiano en algo extraordinario. -->

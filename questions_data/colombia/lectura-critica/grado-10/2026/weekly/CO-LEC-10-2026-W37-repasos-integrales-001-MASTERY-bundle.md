@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-10-2026-W37-repasos-integrales-001-MASTERY"
+id: "CO-LEC-10-2026-W37-repasos-integrales-001-MASTERY-bundle"
 country: "colombia"
 grado: 10
 asignatura: "lectura-critica"
 tema: "repasos-integrales"
-semana: 37
+week: "W37"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -16,15 +16,20 @@ rubric_baseline: "repaso integral, comprension, analisis, evaluacion, sintesis d
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repasos Integrales — Grado 10
 ## Semana W37
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 
 **ID:** `CO-LEC-10-2026-W37-repasos-integrales-001-MASTERY-v1`  
 **Bloom:** Analyze  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -33,10 +38,10 @@ La Contraloría: 1 de cada 4 pesos de salud no se ejecutó por falta de capacida
 
 ### Opciones
 
-- [ ] A) EPS tienen demasiados pacientes
-- [x] B) Falta de capacidad impidió ejecutar fondos
-- [ ] C) El gobierno no giró recursos
-- [ ] D) Hospitales bloquearon pagos
+- [ ] A) EPS tienen demasiados pacientes <!-- feedback: Incorrecto. EPS tienen demasiados pacientes -->
+- [x] B) Falta de capacidad impidió ejecutar fondos <!-- feedback: Correcto! Falta de capacidad impidió ejecutar fondos -->
+- [ ] C) El gobierno no giró recursos <!-- feedback: Incorrecto. El gobierno no giró recursos -->
+- [ ] D) Hospitales bloquearon pagos <!-- feedback: Incorrecto. Hospitales bloquearon pagos -->
 
 ### Explicación Pedagógica
 
@@ -44,10 +49,11 @@ Relación causal directa: falta de capacidad administrativa → no ejecución pr
 
 ---
 
-## Pregunta 2 [D3]
+## Question 2 [D3]
 
 **ID:** `CO-LEC-10-2026-W37-repasos-integrales-001-MASTERY-v2`  
 **Bloom:** Analyze  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -56,10 +62,10 @@ Un informe de la Defensoría presenta: cifra de desplazados → causas → conse
 
 ### Opciones
 
-- [ ] A) Cronológico
-- [x] B) Problema-solución con datos
-- [ ] C) Espacial
-- [ ] D) Comparativo
+- [ ] A) Cronológico <!-- feedback: Incorrecto. Cronológico -->
+- [x] B) Problema-solución con datos <!-- feedback: Correcto! Problema-solución con datos -->
+- [ ] C) Espacial <!-- feedback: Incorrecto. Espacial -->
+- [ ] D) Comparativo <!-- feedback: Incorrecto. Comparativo -->
 
 ### Explicación Pedagógica
 
@@ -67,10 +73,11 @@ Problema → análisis → soluciones: patrón problema-solución.
 
 ---
 
-## Pregunta 3 [D3]
+## Question 3 [D3]
 
 **ID:** `CO-LEC-10-2026-W37-repasos-integrales-001-MASTERY-v3`  
 **Bloom:** Evaluate  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -79,10 +86,10 @@ La reforma pensional es necesaria porque el 67 % no cotiza. Sin cambios, el fond
 
 ### Opciones
 
-- [x] A) Usa datos cuantitativos verificables
-- [ ] B) Apela a emociones
-- [ ] C) Presenta opiniones de expertos
-- [ ] D) Incluye experiencias personales
+- [x] A) Usa datos cuantitativos verificables <!-- feedback: Correcto! Usa datos cuantitativos verificables -->
+- [ ] B) Apela a emociones <!-- feedback: Incorrecto. Apela a emociones -->
+- [ ] C) Presenta opiniones de expertos <!-- feedback: Incorrecto. Presenta opiniones de expertos -->
+- [ ] D) Incluye experiencias personales <!-- feedback: Incorrecto. Incluye experiencias personales -->
 
 ### Explicación Pedagógica
 
@@ -90,10 +97,11 @@ Datos concretos (67 % de no cotizantes, fecha de colapso) sustentan la urgencia.
 
 ---
 
-## Pregunta 4 [D3]
+## Question 4 [D3]
 
 **ID:** `CO-LEC-10-2026-W37-repasos-integrales-001-MASTERY-v4`  
 **Bloom:** Evaluate  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -102,10 +110,10 @@ Tres artículos sobre el metro de Bogotá: El Tiempo (describe avances), Semana 
 
 ### Opciones
 
-- [ ] A) Alcaldía
-- [x] B) El Tiempo
-- [ ] C) Semana
-- [ ] D) Todos igual
+- [ ] A) Alcaldía <!-- feedback: Incorrecto. Alcaldía -->
+- [x] B) El Tiempo <!-- feedback: Correcto! El Tiempo -->
+- [ ] C) Semana <!-- feedback: Incorrecto. Semana -->
+- [ ] D) Todos igual <!-- feedback: Incorrecto. Todos igual -->
 
 ### Explicación Pedagógica
 
@@ -113,10 +121,11 @@ El Tiempo describe sin emitir juicios evidentes, acercándose más a la objetivi
 
 ---
 
-## Pregunta 5 [D1]
+## Question 5 [D1]
 
 **ID:** `CO-LEC-10-2026-W37-repasos-integrales-001-MASTERY-v5`  
 **Bloom:** Remember  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -125,10 +134,10 @@ Según el texto sobre la Amazonía colombiana, ¿qué institución reporta la p�
 
 ### Opciones
 
-- [ ] A) IDEAM
-- [x] B) SINCHI
-- [ ] C) MinAmbiente
-- [ ] D) FAO
+- [ ] A) IDEAM <!-- feedback: Incorrecto. IDEAM -->
+- [x] B) SINCHI <!-- feedback: Correcto! SINCHI -->
+- [ ] C) MinAmbiente <!-- feedback: Incorrecto. MinAmbiente -->
+- [ ] D) FAO <!-- feedback: Incorrecto. FAO -->
 
 ### Explicación Pedagógica
 
@@ -136,10 +145,11 @@ El SINCHI es la institución especializada en la Amazonía colombiana que report
 
 ---
 
-## Pregunta 6 [D1]
+## Question 6 [D1]
 
 **ID:** `CO-LEC-10-2026-W37-repasos-integrales-001-MASTERY-v6`  
 **Bloom:** Remember  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -148,10 +158,10 @@ El SINCHI es la institución especializada en la Amazonía colombiana que report
 
 ### Opciones
 
-- [ ] A) 45
-- [x] B) 59
-- [ ] C) 72
-- [ ] D) 88
+- [ ] A) 45 <!-- feedback: Incorrecto. 45 -->
+- [x] B) 59 <!-- feedback: Correcto! 59 -->
+- [ ] C) 72 <!-- feedback: Incorrecto. 72 -->
+- [ ] D) 88 <!-- feedback: Incorrecto. 88 -->
 
 ### Explicación Pedagógica
 
@@ -159,10 +169,11 @@ Colombia cuenta con 59 áreas protegidas nacionales que cubren el 15 % del terri
 
 ---
 
-## Pregunta 7 [D2]
+## Question 7 [D2]
 
 **ID:** `CO-LEC-10-2026-W37-repasos-integrales-001-MASTERY-v7`  
 **Bloom:** Understand  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -171,10 +182,10 @@ Los páramos proveen el 70 % del agua dulce del país. Sin embargo, la minería 
 
 ### Opciones
 
-- [ ] A) Sumar información
-- [x] B) Introducir una oposición o contraste
-- [ ] C) Indicar consecuencia
-- [ ] D) Ordenar cronológicamente
+- [ ] A) Sumar información <!-- feedback: Incorrecto. Sumar información -->
+- [x] B) Introducir una oposición o contraste <!-- feedback: Correcto! Introducir una oposición o contraste -->
+- [ ] C) Indicar consecuencia <!-- feedback: Incorrecto. Indicar consecuencia -->
+- [ ] D) Ordenar cronológicamente <!-- feedback: Incorrecto. Ordenar cronológicamente -->
 
 ### Explicación Pedagógica
 
@@ -182,10 +193,11 @@ Es un conector adversativo que contrasta la importancia del páramo con la amena
 
 ---
 
-## Pregunta 8 [D2]
+## Question 8 [D2]
 
 **ID:** `CO-LEC-10-2026-W37-repasos-integrales-001-MASTERY-v8`  
 **Bloom:** Understand  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -194,10 +206,10 @@ Un texto expositivo sobre Zonas Económicas Especiales: (1) Definición, (2) Ant
 
 ### Opciones
 
-- [ ] A) Causa-efecto
-- [x] B) Secuencia temática enumerativa
-- [ ] C) Comparación-contraste
-- [ ] D) Problema-solución
+- [ ] A) Causa-efecto <!-- feedback: Incorrecto. Causa-efecto -->
+- [x] B) Secuencia temática enumerativa <!-- feedback: Correcto! Secuencia temática enumerativa -->
+- [ ] C) Comparación-contraste <!-- feedback: Incorrecto. Comparación-contraste -->
+- [ ] D) Problema-solución <!-- feedback: Incorrecto. Problema-solución -->
 
 ### Explicación Pedagógica
 
@@ -205,10 +217,11 @@ La enumeración de temas es típica de textos expositivos que desglosan un tema.
 
 ---
 
-## Pregunta 9 [D2]
+## Question 9 [D2]
 
 **ID:** `CO-LEC-10-2026-W37-repasos-integrales-001-MASTERY-v9`  
 **Bloom:** Understand  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -217,10 +230,10 @@ Hidroituango genera el 17 % de la energía nacional. ¿Cuál es el propósito pr
 
 ### Opciones
 
-- [ ] A) Criticar retrasos
-- [x] B) Informar objetivamente
-- [ ] C) Promover energía hidroeléctrica
-- [ ] D) Narrar la construcción
+- [ ] A) Criticar retrasos <!-- feedback: Incorrecto. Criticar retrasos -->
+- [x] B) Informar objetivamente <!-- feedback: Correcto! Informar objetivamente -->
+- [ ] C) Promover energía hidroeléctrica <!-- feedback: Incorrecto. Promover energía hidroeléctrica -->
+- [ ] D) Narrar la construcción <!-- feedback: Incorrecto. Narrar la construcción -->
 
 ### Explicación Pedagógica
 
@@ -228,10 +241,11 @@ Presenta datos sin juicios de valor; propósito expositivo-informativo.
 
 ---
 
-## Pregunta 10 [D2]
+## Question 10 [D2]
 
 **ID:** `CO-LEC-10-2026-W37-repasos-integrales-001-MASTERY-v10`  
 **Bloom:** Apply  
+**Expected_Success:** 0.75
 **ICFES:** Lectura Crítica  
 
 ### Enunciado
@@ -240,10 +254,10 @@ Presenta datos sin juicios de valor; propósito expositivo-informativo.
 
 ### Opciones
 
-- [ ] A) Anécdota-Opinión-Reflexión
-- [x] B) Definición-Datos-Resumen
-- [ ] C) Pregunta retórica-Poema-ACCIÓN
-- [ ] D) Chiste-Diálogo-Moraleja
+- [ ] A) Anécdota-Opinión-Reflexión <!-- feedback: Incorrecto. Anécdota-Opinión-Reflexión -->
+- [x] B) Definición-Datos-Resumen <!-- feedback: Correcto! Definición-Datos-Resumen -->
+- [ ] C) Pregunta retórica-Poema-ACCIÓN <!-- feedback: Incorrecto. Pregunta retórica-Poema-ACCIÓN -->
+- [ ] D) Chiste-Diálogo-Moraleja <!-- feedback: Incorrecto. Chiste-Diálogo-Moraleja -->
 
 ### Explicación Pedagógica
 

@@ -1,5 +1,5 @@
 ---
-id: "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY"
+id: "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lengua-castellana"
@@ -14,7 +14,9 @@ bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Grado 4"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Producción escrita - noticia - Grado 4
 
@@ -22,7 +24,7 @@ Este bundle explora la estructura y el propósito del texto periodístico (notic
 
 ---
 
-## Pregunta 1 [D1-D2]
+## Question 1 [D1-D2]
 **ID:** `CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -33,21 +35,20 @@ Este bundle explora la estructura y el propósito del texto periodístico (notic
 ¿Cuál es el propósito principal de una noticia?
 
 ### Opciones
-- [ ] A) Contar un cuento fantástico sobre dragones.
-  <!-- feedback: No, la noticia trata sobre hechos reales. -->
-- [x] B) Informar al público sobre un hecho real, reciente e interesante de forma objetiva.
-  <!-- feedback: ¡Correcto! La actualidad y la veracidad son sus pilares. -->
-- [ ] C) Expresar los sentimientos de amor del periodista.
-  <!-- feedback: El periodista debe ser objetivo, no subjetivo. -->
-- [ ] D) Dar instrucciones para armar un juguete.
-  <!-- feedback: Eso es un texto instructivo. -->
+- [ ] A) Contar un cuento fantástico sobre dragones. <!-- feedback: Incorrecto. Contar un cuento fantástico sobre dragon -->
+
+- [x] B) Informar al público sobre un hecho real, reciente e interesante de forma objetiva. <!-- feedback: Correcto! Informar al público sobre un hecho real, reciente e interesa -->
+
+- [ ] C) Expresar los sentimientos de amor del periodista. <!-- feedback: Incorrecto. Expresar los sentimientos de amor del pe -->
+
+- [ ] D) Dar instrucciones para armar un juguete. <!-- feedback: Incorrecto. Dar instrucciones para armar un juguete. -->
 
 ### Explicación Pedagogica
 La noticia es el género periodístico básico que busca dar a conocer sucesos de relevancia social en el menor tiempo posible.
 
 ---
 
-## Pregunta 2 [D1-D2]
+## Question 2 [D1-D2]
 **ID:** `CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -58,21 +59,20 @@ La noticia es el género periodístico básico que busca dar a conocer sucesos d
 ¿Cómo se llama el texto corto que va justo arriba del cuerpo de la noticia y resume el hecho de forma llamativa?
 
 ### Opciones
-- [ ] A) Imagen o fotografía.
-  <!-- feedback: La imagen es un recurso visual, no un texto de resumen. -->
-- [x] B) El titular o encabezado.
-  <!-- feedback: ¡Muy bien! El titular debe captar la atención del lector. -->
-- [ ] C) La firma del autor.
-  <!-- feedback: La firma suele ir al final o debajo del titular. -->
-- [ ] D) El índice del periódico.
-  <!-- feedback: El índice es para todo el diario, no para una noticia. -->
+- [ ] A) Imagen o fotografía. <!-- feedback: Incorrecto. Imagen o fotografía. -->
+
+- [x] B) El titular o encabezado. <!-- feedback: Correcto! El titular o encabezado. -->
+
+- [ ] C) La firma del autor. <!-- feedback: Incorrecto. La firma del autor. -->
+
+- [ ] D) El índice del periódico. <!-- feedback: Incorrecto. El índice del periódico. -->
 
 ### Explicación Pedagogica
 El titular es el elemento jerárquico más importante de la noticia, diseñado para informar el núcleo del hecho en una sola frase.
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -83,21 +83,20 @@ El titular es el elemento jerárquico más importante de la noticia, diseñado p
 ¿Cuál de estas preguntas NO es obligatoria para que una noticia esté completa?
 
 ### Opciones
-- [ ] A) ¿Qué sucedió?
-  <!-- feedback: Es fundamental saber el hecho. -->
-- [ ] B) ¿A quién le sucedió?
-  <!-- feedback: Es fundamental saber los protagonistas. -->
-- [ ] C) ¿Dónde y cuándo ocurrió?
-  <!-- feedback: Son datos esenciales de ubicación temporal y espacial. -->
-- [x] D) ¿Cuál es el color favorito del periodista?
-  <!-- feedback: ¡Excelente! La vida personal del periodista no es relevante para la noticia objetiva. -->
+- [ ] A) ¿Qué sucedió? <!-- feedback: Incorrecto. ¿Qué sucedió? -->
+
+- [ ] B) ¿A quién le sucedió? <!-- feedback: Incorrecto. ¿A quién le sucedió? -->
+
+- [ ] C) ¿Dónde y cuándo ocurrió? <!-- feedback: Incorrecto. ¿Dónde y cuándo ocurrió? -->
+
+- [x] D) ¿Cuál es el color favorito del periodista? <!-- feedback: Correcto! ¿Cuál es el color favorito del periodista? -->
 
 ### Explicación Pedagogica
 Una noticia bien construida debe responder a las preguntas básicas: qué, quién, cuándo, dónde, cómo y por qué.
 
 ---
 
-## Pregunta 4 [D3-D4]
+## Question 4 [D3-D4]
 **ID:** `CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -108,21 +107,20 @@ Una noticia bien construida debe responder a las preguntas básicas: qué, quié
 ¿Qué información contiene el primer párrafo de una noticia (llamado copete o lead)?
 
 ### Opciones
-- [ ] A) Los chistes relacionados con el tema.
-  <!-- feedback: La noticia no incluye chistes. -->
-- [x] B) Un resumen con los datos más importantes del suceso para que el lector se entere rápido.
-  <!-- feedback: ¡Correcto! Responde a las preguntas clave desde el inicio. -->
-- [ ] C) Solo la fecha y la hora del cierre del periódico.
-  <!-- feedback: Esa información es técnica, no parte del contenido de la noticia. -->
-- [ ] D) La opinión del alcalde sobre la noticia.
-  <!-- feedback: Las opiniones van en géneros como el editorial o la columna, no en la noticia pura. -->
+- [ ] A) Los chistes relacionados con el tema. <!-- feedback: Incorrecto. Los chistes relacionados con el tema. -->
+
+- [x] B) Un resumen con los datos más importantes del suceso para que el lector se entere rápido. <!-- feedback: Correcto! Un resumen con los datos más importantes del suceso para que -->
+
+- [ ] C) Solo la fecha y la hora del cierre del periódico. <!-- feedback: Incorrecto. Solo la fecha y la hora del cierre del p -->
+
+- [ ] D) La opinión del alcalde sobre la noticia. <!-- feedback: Incorrecto. La opinión del alcalde sobre la noticia. -->
 
 ### Explicación Pedagogica
 El copete funciona como una síntesis informativa que permite al lector conocer lo esencial sin leer todo el cuerpo.
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Comprensión Lectora
@@ -133,21 +131,20 @@ El copete funciona como una síntesis informativa que permite al lector conocer 
 "Ayer, domingo 15 de marzo, la selección de patinaje ganó la medalla de oro en el mundial". ¿Cuál es el dato del **tiempo** en esta noticia?
 
 ### Opciones
-- [ ] A) La selección de patinaje.
-  <!-- feedback: Ese es el "quién". -->
-- [ ] B) Ganó la medalla de oro.
-  <!-- feedback: Ese es el "qué". -->
-- [x] C) Ayer, domingo 15 de marzo.
-  <!-- feedback: ¡Así es! Indica el momento exacto en que ocurrió el hecho. -->
-- [ ] D) En el mundial.
-  <!-- feedback: Ese es el "dónde". -->
+- [ ] A) La selección de patinaje. <!-- feedback: Incorrecto. La selección de patinaje. -->
+
+- [ ] B) Ganó la medalla de oro. <!-- feedback: Incorrecto. Ganó la medalla de oro. -->
+
+- [x] C) Ayer, domingo 15 de marzo. <!-- feedback: Correcto! Ayer, domingo 15 de marzo. -->
+
+- [ ] D) En el mundial. <!-- feedback: Incorrecto. En el mundial. -->
 
 ### Explicación Pedagogica
 La precisión temporal es vital para el valor de actualidad de la información periodística.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -158,21 +155,20 @@ La precisión temporal es vital para el valor de actualidad de la información p
 ¿Cuál de estas frases es propia de una noticia OBJETIVA?
 
 ### Opciones
-- [ ] A) "El tráfico de hoy me pareció muy aburrido y feo".
-  <!-- feedback: Expresa un sentimiento personal (subjetivo). -->
-- [x] B) "Un fuerte trancón se presentó en la carrera 27 debido a un choque entre dos vehículos".
-  <!-- feedback: ¡Exacto! Cuenta los hechos como ocurrieron sin emitir juicios de valor personales. -->
-- [ ] C) "Ojalá que mañana no haya tanto tráfico en la ciudad".
-  <!-- feedback: Expresa un deseo personal. -->
-- [ ] D) "Los conductores deberían ser más amables entre ellos".
-  <!-- feedback: Es una opinión o consejo moral. -->
+- [ ] A) "El tráfico de hoy me pareció muy aburrido y feo". <!-- feedback: Incorrecto. "El tráfico de hoy me pareció muy aburri -->
+
+- [x] B) "Un fuerte trancón se presentó en la carrera 27 debido a un choque entre dos vehículos". <!-- feedback: Correcto! "Un fuerte trancón se presentó en la carrera 27 debido a un  -->
+
+- [ ] C) "Ojalá que mañana no haya tanto tráfico en la ciudad". <!-- feedback: Incorrecto. "Ojalá que mañana no haya tanto tráfico  -->
+
+- [ ] D) "Los conductores deberían ser más amables entre ellos". <!-- feedback: Incorrecto. "Los conductores deberían ser más amable -->
 
 ### Explicación Pedagogica
 La objetividad periodística exige que el lenguaje sea descriptivo y factual, evitando los adjetivos calificativos que expresen gustos del autor.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Comprensión Lectora
@@ -183,21 +179,20 @@ La objetividad periodística exige que el lenguaje sea descriptivo y factual, ev
 Observas una foto de un río en el Amazonas y debajo dice: **"Río Amazonas a su paso por Leticia. Foto: Archivo"**. ¿Cómo se llama ese texto corto debajo de la imagen?
 
 ### Opciones
-- [ ] A) Subtítulo.
-  <!-- feedback: Se usa para separar secciones de texto. -->
-- [ ] B) Titular secundario.
-  <!-- feedback: No es el término para las fotos. -->
-- [x] C) Pie de foto o leyenda.
-  <!-- feedback: ¡Muy bien! Explica lo que se ve en la imagen para darle contexto. -->
-- [ ] D) Glosario.
-  <!-- feedback: Es una lista de definiciones. -->
+- [ ] A) Subtítulo. <!-- feedback: Incorrecto. Subtítulo. -->
+
+- [ ] B) Titular secundario. <!-- feedback: Incorrecto. Titular secundario. -->
+
+- [x] C) Pie de foto o leyenda. <!-- feedback: Correcto! Pie de foto o leyenda. -->
+
+- [ ] D) Glosario. <!-- feedback: Incorrecto. Glosario. -->
 
 ### Explicación Pedagogica
 El pie de foto es un elemento paratextual que vincula la imagen con el contenido informativo del relato periodístico.
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -208,21 +203,20 @@ El pie de foto es un elemento paratextual que vincula la imagen con el contenido
 Si un texto empieza con **"Huila, 24 de mayo de 2026"** y cuenta que descubrieron una nueva estatua indígena, ¿qué tipo de texto es?
 
 ### Opciones
-- [ ] A) Una novela histórica.
-  <!-- feedback: La novela es ficción y mucho más extensa. -->
-- [x] B) Una noticia periodística.
-  <!-- feedback: ¡Excelente! El lugar, la fecha y el reporte de un hallazgo real son típicos de la noticia. -->
-- [ ] C) Un poema dedicado a los ancestros.
-  <!-- feedback: No está escrito en verso ni busca fines estéticos principalmente. -->
-- [ ] D) Una carta de amor a la tierra.
-  <!-- feedback: No tiene el formato de carta ni la intención personal. -->
+- [ ] A) Una novela histórica. <!-- feedback: Incorrecto. Una novela histórica. -->
+
+- [x] B) Una noticia periodística. <!-- feedback: Correcto! Una noticia periodística. -->
+
+- [ ] C) Un poema dedicado a los ancestros. <!-- feedback: Incorrecto. Un poema dedicado a los ancestros. -->
+
+- [ ] D) Una carta de amor a la tierra. <!-- feedback: Incorrecto. Una carta de amor a la tierra. -->
 
 ### Explicación Pedagogica
 La estructura externa (fecha, lugar, titulares) es la primera señal que el lector recibe para identificar el género periodístico.
 
 ---
 
-## Pregunta 9 [D9-D10]
+## Question 9 [D9-D10]
 **ID:** `CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Comprensión Lectora
@@ -233,21 +227,20 @@ La estructura externa (fecha, lugar, titulares) es la primera señal que el lect
 Si recibes una noticia que dice: **"Mañana lloverán hamburguesas en todo Colombia"**, ¿qué criterio de la noticia NO se está cumpliendo?
 
 ### Opciones
-- [ ] A) El de actualidad.
-  <!-- feedback: Dice "mañana", así que es actual. -->
-- [x] B) El de veracidad (verdad) y realismo.
-  <!-- feedback: ¡Correcto! Las noticias deben tratar sobre hechos posibles en el mundo real. -->
-- [ ] C) El de lugar.
-  <!-- feedback: Menciona a Colombia, el lugar está claro. -->
-- [ ] D) El de titular llamativo.
-  <!-- feedback: El titular es muy llamativo, pero es falso. -->
+- [ ] A) El de actualidad. <!-- feedback: Incorrecto. El de actualidad. -->
+
+- [x] B) El de veracidad (verdad) y realismo. <!-- feedback: Correcto! El de veracidad (verdad) y realismo. -->
+
+- [ ] C) El de lugar. <!-- feedback: Incorrecto. El de lugar. -->
+
+- [ ] D) El de titular llamativo. <!-- feedback: Incorrecto. El de titular llamativo. -->
 
 ### Explicación Pedagogica
 Desarrollar el espíritu crítico frente a la información es una de las metas más importantes de la alfabetización mediática en primaria.
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Producción Textual
@@ -258,14 +251,13 @@ Desarrollar el espíritu crítico frente a la información es una de las metas m
 ¿Cuál de estos titulares es el mejor escrito para una noticia seria?
 
 ### Opciones
-- [ ] A) ¡Ganamos, ganamos, qué emoción!
-  <!-- feedback: Es muy subjetivo y no dice qué se ganó. -->
-- [x] B) Colegio Los Alisos de Tunja recibe premio nacional por su proyecto de reciclaje.
-  <!-- feedback: ¡Muy bien! Es informativo, preciso y menciona los elementos clave (quién, dónde, qué). -->
-- [ ] C) Las botellas de plástico estaban en el piso ayer por la mañana.
-  <!-- feedback: No destaca el hecho importante del premio, se queda en un detalle. -->
-- [ ] D) Premio para los mejores niños del mundo entero de Tunja.
-  <!-- feedback: Es una exageración subjetiva y poco precisa. -->
+- [ ] A) ¡Ganamos, ganamos, qué emoción! <!-- feedback: Incorrecto. ¡Ganamos, ganamos, qué emoción! -->
+
+- [x] B) Colegio Los Alisos de Tunja recibe premio nacional por su proyecto de reciclaje. <!-- feedback: Correcto! Colegio Los Alisos de Tunja recibe premio nacional por su pr -->
+
+- [ ] C) Las botellas de plástico estaban en el piso ayer por la mañana. <!-- feedback: Incorrecto. Las botellas de plástico estaban en el p -->
+
+- [ ] D) Premio para los mejores niños del mundo entero de Tunja. <!-- feedback: Incorrecto. Premio para los mejores niños del mundo  -->
 
 ### Explicación Pedagogica
 La creación de titulares exige capacidad de síntesis y la habilidad de destacar la información más relevante de manera objetiva.

@@ -1,10 +1,10 @@
 ---
-id: "CO-LEN-3-2026-W22-fabula-001-MASTERY"
+id: "CO-LEN-3-2026-W22-fabula-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua"
 tema: "fabula"
-semana: "W22"
+week: "W22"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -15,7 +15,12 @@ distractor_profile: "plausible_peer_set"
 rubric_baseline: "La fábula - Grado 3"
 license: "FREE"
 
+bundle_type: "weekly"
+total_questions: 8
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: La fábula - Grado 3
 
@@ -25,7 +30,7 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ---
 
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 **ID:** `CO-LEN-3-2026-W22-fabula-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comprensión Lectora
@@ -36,21 +41,20 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ¿Qué enseñanza deja una fábula?
 
 ### Opciones
-- [x] A) Una moraleja sobre la vida
-  <!-- feedback: Correcto! Las fábulas tienen una enseñanza moral. -->
-- [ ] B) Solo entretenimiento
-  <!-- feedback: También enseñan algo. -->
-- [ ] C) Información científica
-  <!-- feedback: No son textos científicos. -->
-- [ ] D) Datos históricos
-  <!-- feedback: No son textos históricos. -->
+- [x] A) Una moraleja sobre la vida <!-- feedback: Correcto! Una moraleja sobre la vida -->
+
+- [ ] B) Solo entretenimiento <!-- feedback: Incorrecto. Solo entretenimiento -->
+
+- [ ] C) Información científica <!-- feedback: Incorrecto. Información científica -->
+
+- [ ] D) Datos históricos <!-- feedback: Incorrecto. Datos históricos -->
 
 ### Explicación Pedagógica
 Las fábulas son relatos breves con una moraleja o enseñanza, frecuentemente con animales.
 
 ---
 
-## Pregunta 2 [D2]
+## Question 2 [D2]
 **ID:** `CO-LEN-3-2026-W22-fabula-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Producción Textual
@@ -61,21 +65,20 @@ Las fábulas son relatos breves con una moraleja o enseñanza, frecuentemente co
 ¿Qué enseñanza deja una fábula?
 
 ### Opciones
-- [x] A) Una moraleja sobre la vida
-  <!-- feedback: Correcto! Las fábulas tienen una enseñanza moral. -->
-- [ ] B) Solo entretenimiento
-  <!-- feedback: También enseñan algo. -->
-- [ ] C) Información científica
-  <!-- feedback: No son textos científicos. -->
-- [ ] D) Datos históricos
-  <!-- feedback: No son textos históricos. -->
+- [x] A) Una moraleja sobre la vida <!-- feedback: Correcto! Una moraleja sobre la vida -->
+
+- [ ] B) Solo entretenimiento <!-- feedback: Incorrecto. Solo entretenimiento -->
+
+- [ ] C) Información científica <!-- feedback: Incorrecto. Información científica -->
+
+- [ ] D) Datos históricos <!-- feedback: Incorrecto. Datos históricos -->
 
 ### Explicación Pedagógica
 Las fábulas son relatos breves con una moraleja o enseñanza, frecuentemente con animales.
 
 ---
 
-## Pregunta 3 [D3]
+## Question 3 [D3]
 **ID:** `CO-LEN-3-2026-W22-fabula-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Comunicación Escrita
@@ -86,21 +89,20 @@ Las fábulas son relatos breves con una moraleja o enseñanza, frecuentemente co
 ¿Qué enseñanza deja una fábula?
 
 ### Opciones
-- [x] A) Una moraleja sobre la vida
-  <!-- feedback: Correcto! Las fábulas tienen una enseñanza moral. -->
-- [ ] B) Solo entretenimiento
-  <!-- feedback: También enseñan algo. -->
-- [ ] C) Información científica
-  <!-- feedback: No son textos científicos. -->
-- [ ] D) Datos históricos
-  <!-- feedback: No son textos históricos. -->
+- [x] A) Una moraleja sobre la vida <!-- feedback: Correcto! Una moraleja sobre la vida -->
+
+- [ ] B) Solo entretenimiento <!-- feedback: Incorrecto. Solo entretenimiento -->
+
+- [ ] C) Información científica <!-- feedback: Incorrecto. Información científica -->
+
+- [ ] D) Datos históricos <!-- feedback: Incorrecto. Datos históricos -->
 
 ### Explicación Pedagógica
 Las fábulas son relatos breves con una moraleja o enseñanza, frecuentemente con animales.
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-LEN-3-2026-W22-fabula-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Comprensión Lectora
@@ -111,21 +113,20 @@ Las fábulas son relatos breves con una moraleja o enseñanza, frecuentemente co
 ¿Qué enseñanza deja una fábula?
 
 ### Opciones
-- [x] A) Una moraleja sobre la vida
-  <!-- feedback: Correcto! Las fábulas tienen una enseñanza moral. -->
-- [ ] B) Solo entretenimiento
-  <!-- feedback: También enseñan algo. -->
-- [ ] C) Información científica
-  <!-- feedback: No son textos científicos. -->
-- [ ] D) Datos históricos
-  <!-- feedback: No son textos históricos. -->
+- [x] A) Una moraleja sobre la vida <!-- feedback: Correcto! Una moraleja sobre la vida -->
+
+- [ ] B) Solo entretenimiento <!-- feedback: Incorrecto. Solo entretenimiento -->
+
+- [ ] C) Información científica <!-- feedback: Incorrecto. Información científica -->
+
+- [ ] D) Datos históricos <!-- feedback: Incorrecto. Datos históricos -->
 
 ### Explicación Pedagógica
 Las fábulas son relatos breves con una moraleja o enseñanza, frecuentemente con animales.
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LEN-3-2026-W22-fabula-001-MASTERY-v5`
 **Bloom:** Evaluate
 **ICFES:** Producción Textual
@@ -136,21 +137,20 @@ Las fábulas son relatos breves con una moraleja o enseñanza, frecuentemente co
 ¿Qué enseñanza deja una fábula?
 
 ### Opciones
-- [x] A) Una moraleja sobre la vida
-  <!-- feedback: Correcto! Las fábulas tienen una enseñanza moral. -->
-- [ ] B) Solo entretenimiento
-  <!-- feedback: También enseñan algo. -->
-- [ ] C) Información científica
-  <!-- feedback: No son textos científicos. -->
-- [ ] D) Datos históricos
-  <!-- feedback: No son textos históricos. -->
+- [x] A) Una moraleja sobre la vida <!-- feedback: Correcto! Una moraleja sobre la vida -->
+
+- [ ] B) Solo entretenimiento <!-- feedback: Incorrecto. Solo entretenimiento -->
+
+- [ ] C) Información científica <!-- feedback: Incorrecto. Información científica -->
+
+- [ ] D) Datos históricos <!-- feedback: Incorrecto. Datos históricos -->
 
 ### Explicación Pedagógica
 Las fábulas son relatos breves con una moraleja o enseñanza, frecuentemente con animales.
 
 ---
 
-## Pregunta 6 [D2-D3]
+## Question 6 [D2-D3]
 **ID:** `CO-LEN-3-2026-W22-fabula-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Comunicación Escrita
@@ -161,21 +161,20 @@ Las fábulas son relatos breves con una moraleja o enseñanza, frecuentemente co
 ¿Qué enseñanza deja una fábula?
 
 ### Opciones
-- [x] A) Una moraleja sobre la vida
-  <!-- feedback: Correcto! Las fábulas tienen una enseñanza moral. -->
-- [ ] B) Solo entretenimiento
-  <!-- feedback: También enseñan algo. -->
-- [ ] C) Información científica
-  <!-- feedback: No son textos científicos. -->
-- [ ] D) Datos históricos
-  <!-- feedback: No son textos históricos. -->
+- [x] A) Una moraleja sobre la vida <!-- feedback: Correcto! Una moraleja sobre la vida -->
+
+- [ ] B) Solo entretenimiento <!-- feedback: Incorrecto. Solo entretenimiento -->
+
+- [ ] C) Información científica <!-- feedback: Incorrecto. Información científica -->
+
+- [ ] D) Datos históricos <!-- feedback: Incorrecto. Datos históricos -->
 
 ### Explicación Pedagógica
 Las fábulas son relatos breves con una moraleja o enseñanza, frecuentemente con animales.
 
 ---
 
-## Pregunta 7 [D3-D4]
+## Question 7 [D3-D4]
 **ID:** `CO-LEN-3-2026-W22-fabula-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Comprensión Lectora
@@ -186,21 +185,20 @@ Las fábulas son relatos breves con una moraleja o enseñanza, frecuentemente co
 ¿Qué enseñanza deja una fábula?
 
 ### Opciones
-- [x] A) Una moraleja sobre la vida
-  <!-- feedback: Correcto! Las fábulas tienen una enseñanza moral. -->
-- [ ] B) Solo entretenimiento
-  <!-- feedback: También enseñan algo. -->
-- [ ] C) Información científica
-  <!-- feedback: No son textos científicos. -->
-- [ ] D) Datos históricos
-  <!-- feedback: No son textos históricos. -->
+- [x] A) Una moraleja sobre la vida <!-- feedback: Correcto! Una moraleja sobre la vida -->
+
+- [ ] B) Solo entretenimiento <!-- feedback: Incorrecto. Solo entretenimiento -->
+
+- [ ] C) Información científica <!-- feedback: Incorrecto. Información científica -->
+
+- [ ] D) Datos históricos <!-- feedback: Incorrecto. Datos históricos -->
 
 ### Explicación Pedagógica
 Las fábulas son relatos breves con una moraleja o enseñanza, frecuentemente con animales.
 
 ---
 
-## Pregunta 8 [D4-D5]
+## Question 8 [D4-D5]
 **ID:** `CO-LEN-3-2026-W22-fabula-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Producción Textual
@@ -211,14 +209,13 @@ Las fábulas son relatos breves con una moraleja o enseñanza, frecuentemente co
 ¿Qué enseñanza deja una fábula?
 
 ### Opciones
-- [x] A) Una moraleja sobre la vida
-  <!-- feedback: Correcto! Las fábulas tienen una enseñanza moral. -->
-- [ ] B) Solo entretenimiento
-  <!-- feedback: También enseñan algo. -->
-- [ ] C) Información científica
-  <!-- feedback: No son textos científicos. -->
-- [ ] D) Datos históricos
-  <!-- feedback: No son textos históricos. -->
+- [x] A) Una moraleja sobre la vida <!-- feedback: Correcto! Una moraleja sobre la vida -->
+
+- [ ] B) Solo entretenimiento <!-- feedback: Incorrecto. Solo entretenimiento -->
+
+- [ ] C) Información científica <!-- feedback: Incorrecto. Información científica -->
+
+- [ ] D) Datos históricos <!-- feedback: Incorrecto. Datos históricos -->
 
 ### Explicación Pedagógica
 Las fábulas son relatos breves con una moraleja o enseñanza, frecuentemente con animales.

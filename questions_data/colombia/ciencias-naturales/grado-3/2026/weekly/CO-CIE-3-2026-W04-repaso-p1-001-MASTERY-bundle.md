@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W04-repaso-p1-001-MASTERY"
+id: "CO-CIE-3-2026-W04-repaso-p1-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "repaso-p1"
-semana: "W04"
+week: "W04"
 periodo: 1
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Repaso integral del Periodo 1: Seres vivos, plantas y animales
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Repaso Integral: Seres Vivos, Plantas y Animales
 
 Este bundle integra los conocimientos adquiridos sobre los seres vivos, sus funciones vitales y la clasificación básica de plantas y animales.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W04-repaso-p1-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Imagina que vas de excursión a un páramo colombiano y ves frailejones, rocas, agua cristalina y un cóndor volando.
+**Contexto:** Imagina que vas de excursión a un páramo colombiano y ves frailejones, rocas, agua cristalina y un cóndor volando.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -48,12 +52,12 @@ Identificar los componentes bióticos (vivos) y abióticos (inertes) es el prime
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W04-repaso-p1-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Un estudiante observa que una hormiga carga una migaja de pan y la lleva hacia su hormiguero.
+**Contexto:** Un estudiante observa que una hormiga carga una migaja de pan y la lleva hacia su hormiguero.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -73,12 +77,12 @@ La nutrición en los animales implica la búsqueda activa de alimento. La hormig
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W04-repaso-p1-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la huerta escolar, los niños ven que las plantas de tomate tienen flores amarillas y frutos rojos.
+**Contexto:** En la huerta escolar, los niños ven que las plantas de tomate tienen flores amarillas y frutos rojos.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -98,12 +102,12 @@ La flor es el órgano especializado para la reproducción sexual en las plantas.
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W04-repaso-p1-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un cocodrilo pone sus huevos en un nido de arena, mientras que una vaca cuida a su ternero que nació de su vientre.
+**Contexto:** Un cocodrilo pone sus huevos en un nido de arena, mientras que una vaca cuida a su ternero que nació de su vientre.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ Los ovíparos (como el cocodrilo) confían en la protección del huevo, mientras
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W04-repaso-p1-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un científico encuentra un animal marino que tiene espinas internas, branquias para respirar y aletas para nadar.
+**Contexto:** Un científico encuentra un animal marino que tiene espinas internas, branquias para respirar y aletas para nadar.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -148,12 +152,12 @@ La combinación de esqueleto interno (vertebrado), respiración por branquias y 
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W04-repaso-p1-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Las hojas de una planta son planas, anchas y de color verde.
+**Contexto:** Las hojas de una planta son planas, anchas y de color verde.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -173,12 +177,12 @@ La fotosíntesis requiere luz solar. Por eso, las hojas han evolucionado para se
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W04-repaso-p1-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un pulpo y una lagartija se encuentran en la costa. El pulpo se esconde en una grieta pequeña y la lagartija corre sobre las rocas.
+**Contexto:** Un pulpo y una lagartija se encuentran en la costa. El pulpo se esconde en una grieta pequeña y la lagartija corre sobre las rocas.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -198,12 +202,12 @@ La clasificación en vertebrados e invertebrados es fundamental. Los huesos dan 
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W04-repaso-p1-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Un león caza una cebra, mientras que un chimpancé come frutas, hojas y también algunos insectos o carne pequeña.
+**Contexto:** Un león caza una cebra, mientras que un chimpancé come frutas, hojas y también algunos insectos o carne pequeña.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -223,12 +227,12 @@ Entender las dietas ayuda a comprender el papel de cada animal en la cadena alim
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W04-repaso-p1-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Cuando un gato ve un perro que ladra, se le eriza el pelo y sale corriendo a esconderse en un árbol.
+**Contexto:** Cuando un gato ve un perro que ladra, se le eriza el pelo y sale corriendo a esconderse en un árbol.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -248,12 +252,12 @@ La función de relación es como el sistema de comunicación y defensa del ser v
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W04-repaso-p1-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un robot de última tecnología puede "crecer" agregando piezas metálicas, puede "reproducirse" haciendo copias de sí mismo en una fábrica y "come" electricidad.
+**Contexto:** Un robot de última tecnología puede "crecer" agregando piezas metálicas, puede "reproducirse" haciendo copias de sí mismo en una fábrica y "come" electricidad.
 **Expected_Success:** 0.55
 
 ### Enunciado

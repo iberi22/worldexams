@@ -1,5 +1,5 @@
 ---
-id: "CO-CIE-6-2026-W10-repaso-p1-001-MASTERY"
+id: "CO-CIE-6-2026-W10-repaso-p1-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -12,7 +12,11 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W10 — REPASO P1: Seres Vivos, Célula y Clasificación
 
@@ -24,13 +28,14 @@ alignment: "DBA MEN + Estándares Básicos Grado 6"
 
 **ID:** `CO-CIE-6-2026-W10-repaso-p1-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Repaso general en Bogotá: la profesora pregunta las funciones vitales.
+**Contexto:** Repaso general en Bogotá: la profesora pregunta las funciones vitales.
 
 ### Enunciado
 ¿Cuáles son las tres funciones vitales de todo ser vivo?
 
-### Options
+### Opciones
 - [ ] A) Comer, dormir y respirar <!-- feedback: Incorrecto. Son actividades específicas, no funciones vitales universales. -->
 - [ ] B) Volar, nadar y caminar <!-- feedback: Incorrecto. No todos los seres vivos se desplazan. -->
 - [x] C) Nutrición, relación y reproducción <!-- feedback: Correcto. Todo ser vivo realiza estas tres funciones. -->
@@ -50,13 +55,14 @@ Un organismo que no realice estas tres funciones no se considera un ser vivo. Es
 
 **ID:** `CO-CIE-6-2026-W10-repaso-p1-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Medellín repasan los postulados de la teoría celular.
+**Contexto:** En Medellín repasan los postulados de la teoría celular.
 
 ### Enunciado
 Según la teoría celular, ¿todos los seres vivos están formados por?
 
-### Options
+### Opciones
 - [x] A) Una o más células <!-- feedback: Correcto. Un organismo puede ser unicelular o pluricelular. -->
 - [ ] B) Solo por muchas células <!-- feedback: Incorrecto. Hay organismos unicelulares que también son seres vivos. -->
 - [ ] C) Tejidos y órganos <!-- feedback: Incorrecto. Los organismos unicelulares no tienen tejidos ni órganos. -->
@@ -76,13 +82,14 @@ Esto significa que no importa si el organismo es una bacteria unicelular o un se
 
 **ID:** `CO-CIE-6-2026-W10-repaso-p1-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Cali repasan la diferencia entre células procariotas y eucariotas.
+**Contexto:** En Cali repasan la diferencia entre células procariotas y eucariotas.
 
 ### Enunciado
 ¿Cuál es la principal diferencia entre una célula procariota y una eucariota?
 
-### Options
+### Opciones
 - [ ] A) La procariota es más grande <!-- feedback: Incorrecto. Las procariotas suelen ser más pequeñas que las eucariotas. -->
 - [x] B) La procariota no tiene núcleo definido; el ADN está disperso en el citoplasma <!-- feedback: Correcto. Las procariotas carecen de núcleo verdadero. -->
 - [ ] C) La eucariota no tiene membrana celular <!-- feedback: Incorrecto. Ambos tipos tienen membrana celular. -->
@@ -99,13 +106,14 @@ La diferencia fundamental entre células procariotas y eucariotas es la presenci
 
 **ID:** `CO-CIE-6-2026-W10-repaso-p1-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En Barranquilla repasan la función de los organelos celulares.
+**Contexto:** En Barranquilla repasan la función de los organelos celulares.
 
 ### Enunciado
 ¿Qué organelo es responsable de la fotosíntesis en las células vegetales?
 
-### Options
+### Opciones
 - [ ] A) Mitocondria <!-- feedback: Incorrecto. La mitocondria produce energía, no fotosíntesis. -->
 - [x] B) Cloroplasto <!-- feedback: Correcto. El cloroplasto contiene clorofila y realiza la fotosíntesis. -->
 - [ ] C) Vacuola <!-- feedback: Incorrecto. La vacuola almacena agua y nutrientes. -->
@@ -124,13 +132,14 @@ La fotosíntesis es la base de la vida en la Tierra porque produce el oxígeno q
 
 **ID:** `CO-CIE-6-2026-W10-repaso-p1-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Bucaramanga repasan clasificación de seres vivos con ejemplos del entorno.
+**Contexto:** En Bucaramanga repasan clasificación de seres vivos con ejemplos del entorno.
 
 ### Enunciado
 Un organismo es unicelular, tiene núcleo definido (eucariota) y vive en agua dulce. Se alimenta de bacterias y se desplaza con cilios. ¿A qué reino pertenece?
 
-### Options
+### Opciones
 - [ ] A) Reino Monera <!-- feedback: Incorrecto. Tiene núcleo definido, por lo tanto no es Monera. -->
 - [ ] B) Reino Plantae <!-- feedback: Incorrecto. No realiza fotosíntesis y es unicelular. -->
 - [x] C) Reino Protista <!-- feedback: Correcto. Es un protozoo ciliado del Reino Protista. -->
@@ -145,13 +154,14 @@ El organismo descrito pertenece al Reino Protista. Las pistas clave son: unicelu
 
 **ID:** `CO-CIE-6-2026-W10-repaso-p1-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En Cartagena repasan la jerarquía de organización biológica.
+**Contexto:** En Cartagena repasan la jerarquía de organización biológica.
 
 ### Enunciado
 ¿Qué nivel de organización representa una neurona?
 
-### Options
+### Opciones
 - [x] A) Nivel celular <!-- feedback: Correcto. Una neurona es una célula especializada del sistema nervioso. -->
 - [ ] B) Nivel de tejido <!-- feedback: Incorrecto. El tejido nervioso es el conjunto de neuronas. -->
 - [ ] C) Nivel de órgano <!-- feedback: Incorrecto. Un órgano como el cerebro contiene muchas neuronas y otros tejidos. -->
@@ -166,13 +176,14 @@ Una neurona es una célula, por lo tanto pertenece al nivel celular de organizac
 
 **ID:** `CO-CIE-6-2026-W10-repaso-p1-007-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Pereira repasan las diferencias entre célula animal y vegetal.
+**Contexto:** En Pereira repasan las diferencias entre célula animal y vegetal.
 
 ### Enunciado
 ¿Cuál de las siguientes estructuras está presente en células vegetales pero NO en células animales?
 
-### Options
+### Opciones
 - [ ] A) Membrana plasmática <!-- feedback: Incorrecto. Todas las células tienen membrana plasmática. -->
 - [ ] B) Núcleo con ADN <!-- feedback: Incorrecto. Ambos tipos tienen núcleo (eucariotas). -->
 - [x] C) Pared celular y cloroplastos <!-- feedback: Correcto. Estas estructuras son exclusivas de células vegetales. -->
@@ -192,13 +203,14 @@ Las células animales, en cambio, tienen: centriolos (importantes en la divisió
 
 **ID:** `CO-CIE-6-2026-W10-repaso-p1-008-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Manizales repasan los criterios de clasificación en reinos.
+**Contexto:** En Manizales repasan los criterios de clasificación en reinos.
 
 ### Enunciado
 Un organismo es pluricelular, heterótrofo (se alimenta de otros organismos) y sus células no tienen pared celular. ¿A qué reino pertenece?
 
-### Options
+### Opciones
 - [ ] A) Reino Plantae <!-- feedback: Incorrecto. Las plantas son autótrofas y tienen pared celular. -->
 - [x] B) Reino Animalia <!-- feedback: Correcto. Las características corresponden al Reino Animal. -->
 - [ ] C) Reino Fungi <!-- feedback: Incorrecto. Los hongos tienen pared celular de quitina y absorben nutrientes. -->
@@ -218,13 +230,14 @@ Los animales se caracterizan por ser eucariotas, pluricelulares, heterótrofos (
 
 **ID:** `CO-CIE-6-2026-W10-repaso-p1-009-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Cúcuta, un estudiante afirma que "los hongos son plantas porque no se mueven".
+**Contexto:** En Cúcuta, un estudiante afirma que "los hongos son plantas porque no se mueven".
 
 ### Enunciado
 ¿Por qué los hongos NO son plantas?
 
-### Options
+### Opciones
 - [ ] A) Porque son más pequeños que las plantas <!-- feedback: Incorrecto. Hay hongos enormes y plantas pequeñas. -->
 - [ ] B) Porque no tienen raíces <!-- feedback: Incorrecto. Los hongos tienen hifas, que son análogas a raíces pero no iguales. -->
 - [x] C) Porque son heterótrofos (no realizan fotosíntesis) y su pared celular es de quitina, no de celulosa <!-- feedback: Correcto. Son diferencias fundamentales en nutrición y composición. -->
@@ -245,13 +258,14 @@ De hecho, los hongos y los animales comparten un ancestro común más reciente q
 
 **ID:** `CO-CIE-6-2026-W10-repaso-p1-010-v1`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En Ibagué, los estudiantes deben explicar por qué el virus del COVID-19 no es un ser vivo según la teoría celular.
+**Contexto:** En Ibagué, los estudiantes deben explicar por qué el virus del COVID-19 no es un ser vivo según la teoría celular.
 
 ### Enunciado
 ¿Cuál es el principal argumento para decir que los virus NO son seres vivos?
 
-### Options
+### Opciones
 - [ ] A) Porque causan enfermedades <!-- feedback: Incorrecto. Muchos seres vivos también causan enfermedades (bacterias, hongos). -->
 - [ ] B) Porque son muy pequeños <!-- feedback: Incorrecto. Hay bacterias muy pequeñas y son seres vivos. -->
 - [x] C) Porque no están formados por células y no pueden reproducirse por sí mismos <!-- feedback: Correcto. Incumplen los postulados de la teoría celular. -->

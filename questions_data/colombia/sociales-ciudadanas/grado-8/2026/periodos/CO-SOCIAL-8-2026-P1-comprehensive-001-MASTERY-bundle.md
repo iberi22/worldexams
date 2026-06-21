@@ -1,5 +1,5 @@
 ---
-id: "CO-SOCIAL-8-2026-P1-comprehensive-001-MASTERY"
+id: "CO-SOCIAL-8-2026-P1-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Ilustración, Revolución Francesa, Independencia de Colombia,
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Ilustración, Revolución Francesa e Independencia de Colombia
 
@@ -31,13 +36,14 @@ Este bundle cubre la Ilustración, la Revolución Francesa y el proceso de Indep
 
 **ID:** `CO-SOCIAL-8-2026-P1-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En una clase de sociales en Bogotá, la profesora pregunta sobre los pensadores de la Ilustración.
+**Contexto:** En una clase de sociales en Bogotá, la profesora pregunta sobre los pensadores de la Ilustración.
 
 ### Enunciado
 ¿Cuál de los siguientes fue un filósofo importante de la Ilustración?
 
-### Options
+### Opciones
 - [ ] A) Aristóteles. <!-- feedback: Incorrect. Aristóteles fue un filósofo griego antiguo, no de la Ilustración. -->
 - [ ] B) Santo Tomás de Aquino. <!-- feedback: Incorrect. Fue un filósofo medieval. -->
 - [x] C) Voltaire. <!-- feedback: Correct. Voltaire fue uno de los principales filósofos de la Ilustración francesa. -->
@@ -52,13 +58,14 @@ La Ilustración fue un movimiento intelectual del siglo XVIII que defendía la r
 
 **ID:** `CO-SOCIAL-8-2026-P1-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** Un estudiante en Medellín estudia las causas de la Revolución Francesa.
+**Contexto:** Un estudiante en Medellín estudia las causas de la Revolución Francesa.
 
 ### Enunciado
 ¿En qué año comenzó la Revolución Francesa?
 
-### Options
+### Opciones
 - [ ] A) 1776 <!-- feedback: Incorrect. 1776 fue la Independencia de Estados Unidos. -->
 - [x] B) 1789 <!-- feedback: Correct. La Revolución Francesa comenzó en 1789 con la Toma de la Bastilla el 14 de julio. -->
 - [ ] C) 1808 <!-- feedback: Incorrect. 1808 marcó el inicio de la crisis monárquica española. -->
@@ -73,13 +80,14 @@ La Revolución Francesa (1789-1799) fue un proceso social y político que transf
 
 **ID:** `CO-SOCIAL-8-2026-P1-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En un taller en Cali, los estudiantes analizan las ideas de la Ilustración.
+**Contexto:** En un taller en Cali, los estudiantes analizan las ideas de la Ilustración.
 
 ### Enunciado
 ¿Qué idea defendía el filósofo John Locke sobre los derechos humanos?
 
-### Options
+### Opciones
 - [ ] A) Los derechos los otorga el rey. <!-- feedback: Incorrect. Locke defendía que los derechos son naturales e inherentes. -->
 - [x] B) Los seres humanos tienen derechos naturales como la vida, la libertad y la propiedad. <!-- feedback: Correct. Locke influyó en la Declaración de Independencia de EE.UU. y en el pensamiento liberal. -->
 - [ ] C) Solo los nobles tienen derechos. <!-- feedback: Incorrect. La Ilustración defendía la igualdad. -->
@@ -94,13 +102,14 @@ John Locke (1632-1704) es considerado el padre del liberalismo clásico. Su teor
 
 **ID:** `CO-SOCIAL-8-2026-P1-comprehensive-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación
-**Context:** En un debate escolar en Barranquilla, se discute la organización social en la Francia prerrevolucionaria.
+**Contexto:** En un debate escolar en Barranquilla, se discute la organización social en la Francia prerrevolucionaria.
 
 ### Enunciado
 ¿Cómo estaba organizada la sociedad francesa antes de la Revolución?
 
-### Options
+### Opciones
 - [ ] A) En clases sociales abiertas y movilidad social. <!-- feedback: Incorrect. La sociedad estaba rígidamente dividida. -->
 - [x] B) En tres estamentos: clero (primer estado), nobleza (segundo estado) y pueblo llano (tercer estado). <!-- feedback: Correct. Este sistema se llamaba Antiguo Régimen. -->
 - [ ] C) En dos grupos: ricos y pobres. <!-- feedback: Incorrect. Aunque describe desigualdad, la división era más específica en tres estamentos con privilegios legales. -->
@@ -115,13 +124,14 @@ El Antiguo Régimen dividía la sociedad en tres estamentos: el clero (1er estad
 
 **ID:** `CO-SOCIAL-8-2026-P1-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** Un estudiante en Bucaramanga analiza las causas de la independencia de Colombia.
+**Contexto:** Un estudiante en Bucaramanga analiza las causas de la independencia de Colombia.
 
 ### Enunciado
 ¿Cuál de los siguientes fue un factor externo que influyó en la independencia de Colombia?
 
-### Options
+### Opciones
 - [ ] A) La Revolución Francesa. <!-- feedback: Correct. La Revolución Francesa (1789) y la invasión napoleónica a España (1808) fueron factores externos clave. -->
 - [ ] B) La construcción del ferrocarril. <!-- feedback: Incorrect. El ferrocarril llegó después de la independencia. -->
 - [ ] C) La abolición de la esclavitud en Estados Unidos. <!-- feedback: Incorrect. Eso ocurrió en 1865, después de la independencia colombiana. -->
@@ -136,13 +146,14 @@ La independencia de Colombia estuvo influenciada por factores externos: la Ilust
 
 **ID:** `CO-SOCIAL-8-2026-P1-comprehensive-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En clase de sociales en Pereira, se estudia la Declaración de los Derechos del Hombre y del Ciudadano (1789).
+**Contexto:** En clase de sociales en Pereira, se estudia la Declaración de los Derechos del Hombre y del Ciudadano (1789).
 
 ### Enunciado
 ¿Cuál de los siguientes derechos proclamó la Declaración de 1789?
 
-### Options
+### Opciones
 - [ ] A) El derecho a tener esclavos. <!-- feedback: Incorrect. La Declaración proclamaba la igualdad. -->
 - [x] B) La libertad, la igualdad y la fraternidad como derechos fundamentales. <!-- feedback: Correct. Estos tres principios fueron el lema de la Revolución Francesa. -->
 - [ ] C) El derecho divino de los reyes. <!-- feedback: Incorrect. La Revolución se oponía al absolutismo monárquico. -->
@@ -157,13 +168,14 @@ La Declaración de los Derechos del Hombre y del Ciudadano (aprobada el 26 de ag
 
 **ID:** `CO-SOCIAL-8-2026-P1-comprehensive-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un profesor en Cartagena explica la influencia de la Ilustración en la independencia colombiana.
+**Contexto:** Un profesor en Cartagena explica la influencia de la Ilustración en la independencia colombiana.
 
 ### Enunciado
 ¿Qué ideas de la Ilustración influyeron en los criollos que lideraron la independencia?
 
-### Options
+### Opciones
 - [ ] A) El derecho divino de los reyes y la monarquía absoluta. <!-- feedback: Incorrect. Esas eran ideas del Antiguo Régimen. -->
 - [x] B) La soberanía popular, la separación de poderes y la igualdad ante la ley. <!-- feedback: Correct. Montesquieu (separación de poderes), Rousseau (soberanía popular) y Locke (derechos naturales) influyeron en los líderes independentistas. -->
 - [ ] C) El mercantilismo y el proteccionismo económico. <!-- feedback: Incorrect. Eran políticas económicas coloniales, no ideas ilustradas. -->
@@ -178,13 +190,14 @@ Los criollos ilustrados como Antonio Nariño y Francisco de Paula Santander leye
 
 **ID:** `CO-SOCIAL-8-2026-P1-comprehensive-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En un simulacro de la independencia, se analiza el 20 de julio de 1810 en Santafé (Bogotá).
+**Contexto:** En un simulacro de la independencia, se analiza el 20 de julio de 1810 en Santafé (Bogotá).
 
 ### Enunciado
 ¿Qué ocurrió el 20 de julio de 1810 en Santafé?
 
-### Options
+### Opciones
 - [ ] A) La firma del acta de independencia definitiva de España. <!-- feedback: Incorrect. La independencia definitiva fue en 1819. -->
 - [ ] B) La instalación del Virreinato de la Nueva Granada. <!-- feedback: Incorrect. Eso ocurrió en 1717. -->
 - [x] C) El "Grito de Independencia": se formó una Junta de Gobierno que declaró la independencia de España (aunque inicialmente fue lealtad a Fernando VII). <!-- feedback: Correct. Fue el inicio del proceso independentista que culminó en 1819. -->
@@ -199,13 +212,14 @@ El 20 de julio de 1810, tras un incidente en la Casa del Florero (préstamo de u
 
 **ID:** `CO-SOCIAL-8-2026-P1-comprehensive-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se comparan dos personajes clave de la independencia: Simón Bolívar y Francisco de Paula Santander.
+**Contexto:** Se comparan dos personajes clave de la independencia: Simón Bolívar y Francisco de Paula Santander.
 
 ### Enunciado
 ¿Cuál era la principal diferencia entre el proyecto político de Bolívar y el de Santander?
 
-### Options
+### Opciones
 - [ ] A) Bolívar quería la independencia y Santander no. <!-- feedback: Incorrect. Ambos querían la independencia. -->
 - [ ] B) Bolívar era realista y Santander independentista. <!-- feedback: Incorrect. Ambos fueron independentistas. -->
 - [x] C) Bolívar proponía un gobierno centralista (presidente vitalicio) y Santander un gobierno federal con separación de poderes. <!-- feedback: Correct. Esta diferencia marcó la política colombiana del siglo XIX. -->
@@ -220,13 +234,14 @@ Bolívar y Santander representaban dos visiones diferentes: Bolívar era central
 
 **ID:** `CO-SOCIAL-8-2026-P1-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** Se analiza la campaña libertadora de 1819.
+**Contexto:** Se analiza la campaña libertadora de 1819.
 
 ### Enunciado
 ¿Cuál fue la batalla decisiva que aseguró la independencia de Colombia?
 
-### Options
+### Opciones
 - [ ] A) Batalla de Cúcuta. <!-- feedback: Incorrect. No fue una batalla decisiva de la independencia. -->
 - [ ] B) Batalla de Boyacá. <!-- feedback: Correct. La Batalla de Boyacá (7 de agosto de 1819) selló la independencia del Virreinato de la Nueva Granada. -->
 - [ ] C) Batalla de las Flores. <!-- feedback: Incorrect. La Batalla de las Flores es una festividad, no una batalla independentista. -->
@@ -241,13 +256,14 @@ La Batalla de Boyacá, librada el 7 de agosto de 1819, fue el enfrentamiento dec
 
 **ID:** `CO-SOCIAL-8-2026-P1-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante afirma: "La Revolución Francesa fue un evento exclusivamente francés que no afectó a otros países."
+**Contexto:** Un estudiante afirma: "La Revolución Francesa fue un evento exclusivamente francés que no afectó a otros países."
 
 ### Enunciado
 ¿Es correcta esta afirmación?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque ocurrió solo en Francia. <!-- feedback: Incorrect. Aunque ocurrió en Francia, su impacto fue global. -->
 - [x] B) No, la Revolución Francesa tuvo un impacto global: inspiró movimientos independentistas en América Latina y revoluciones en Europa. <!-- feedback: Correct. Las ideas de libertad, igualdad y fraternidad se difundieron por todo el mundo. -->
 - [ ] C) Sí, porque en esa época no había comunicaciones globales. <!-- feedback: Incorrect. A pesar de las comunicaciones limitadas, las ideas se difundieron. -->
@@ -262,13 +278,14 @@ La Revolución Francesa tuvo un impacto mundial. Sus ideas influyeron en las ind
 
 **ID:** `CO-SOCIAL-8-2026-P1-comprehensive-001-MASTERY-v12`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Indagación
-**Context:** En clase se debate: "¿Fue la independencia de Colombia un proceso exclusivamente militar o también intelectual?"
+**Contexto:** En clase se debate: "¿Fue la independencia de Colombia un proceso exclusivamente militar o también intelectual?"
 
 ### Enunciado
 ¿Cuál de las siguientes opciones refleja mejor la naturaleza del proceso independentista?
 
-### Options
+### Opciones
 - [ ] A) Fue exclusivamente militar, solo importaron las batallas. <!-- feedback: Incorrect. Ignora el componente intelectual. -->
 - [ ] B) Fue exclusivamente intelectual, porque las ideas llevaron a la independencia sin lucha armada. <!-- feedback: Incorrect. Hubo guerra. -->
 - [x] C) Fue un proceso que combinó la difusión de ideas ilustradas con campañas militares. <!-- feedback: Correct. Las ideas prepararon el terreno y las armas lograron la independencia. -->
@@ -283,13 +300,14 @@ La independencia no fue solo militar: hubo un importante proceso intelectual pre
 
 **ID:** `CO-SOCIAL-8-2026-P1-comprehensive-001-MASTERY-v13`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Se analiza el concepto de "Patria Boba" (1810-1816) en la historia colombiana.
+**Contexto:** Se analiza el concepto de "Patria Boba" (1810-1816) en la historia colombiana.
 
 ### Enunciado
 ¿Por qué se conoce al período entre 1810 y 1816 como la "Patria Boba"?
 
-### Options
+### Opciones
 - [ ] A) Porque no hubo patriotas en esa época. <!-- feedback: Incorrect. Hubo patriotas, pero estaban divididos. -->
 - [x] B) Porque los líderes independentistas estaban divididos entre federalistas y centralistas, lo que debilitó la causa independentista y facilitó la reconquista española. <!-- feedback: Correct. Las disputas internas impidieron consolidar la independencia. -->
 - [ ] C) Porque los españoles recuperaron el control fácilmente. <!-- feedback: Incorrect. Hubo resistencia, aunque la desunión facilitó la reconquista. -->
@@ -304,13 +322,14 @@ La "Patria Boba" (Primera República) se caracterizó por intensos conflictos en
 
 **ID:** `CO-SOCIAL-8-2026-P1-comprehensive-001-MASTERY-v14`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento
-**Context:** Un estudiante dice: "Maximilien Robespierre fue un héroe de la Revolución Francesa que solo buscaba la justicia."
+**Contexto:** Un estudiante dice: "Maximilien Robespierre fue un héroe de la Revolución Francesa que solo buscaba la justicia."
 
 ### Enunciado
 ¿Es correcta esta visión simplificada de Robespierre?
 
-### Options
+### Opciones
 - [ ] A) Sí, Robespierre fue completamente heroico y justo. <!-- feedback: Incorrect. Ignora el lado oscuro de su gobierno. -->
 - [ ] B) No, Robespierre fue completamente malvado y sanguinario. <!-- feedback: Incorrect. También tuvo ideales genuinos. -->
 - [x] C) Es una visión parcial. Robespierre defendió ideales democráticos pero también lideró el Reinado del Terror, donde se ejecutó a miles de personas. <!-- feedback: Correct. Robespierre es una figura controvertida: idealista pero responsable del Terror. -->
@@ -325,13 +344,14 @@ Robespierre fue un líder de la Revolución que inicialmente defendió la democr
 
 **ID:** `CO-SOCIAL-8-2026-P1-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Reflexivo
-**Context:** Un historiador afirma: "Las ideas de la Ilustración fueron el motor intelectual de las independencias americanas, pero la independencia de Colombia no cumplió las promesas de igualdad para todos los grupos sociales."
+**Contexto:** Un historiador afirma: "Las ideas de la Ilustración fueron el motor intelectual de las independencias americanas, pero la independencia de Colombia no cumplió las promesas de igualdad para todos los grupos sociales."
 
 ### Enunciado
 ¿Qué grupos sociales quedaron excluidos de los beneficios de la independencia?
 
-### Options
+### Opciones
 - [ ] A) Solo los criollos. <!-- feedback: Incorrect. Los criollos fueron quienes más se beneficiaron. -->
 - [ ] B) Todos los grupos fueron incluidos por igual. <!-- feedback: Incorrect. Hubo exclusiones importantes. -->
 - [x] C) Los esclavos africanos (la esclavitud no se abolió completamente), los indígenas (seguían siendo marginados) y los campesinos pobres. <!-- feedback: Correct. La independencia benefició principalmente a la élite criolla. -->

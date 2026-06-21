@@ -1,5 +1,5 @@
 ---
-id: "CO-LC-5-2026-P3-intencion-autoral-001-MASTERY"
+id: "CO-LEC-5-2026-P3-intencion-autoral-001-MASTERY-bundle"
 country: "colombia"
 grado: 5
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "intención del autor, propósito comunicativo, punto de vista, tono, persuasión, informar, entretener, convencer"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G5: La Carta de Santiago
 
@@ -54,13 +61,14 @@ rubric_baseline: "intención del autor, propósito comunicativo, punto de vista,
 
 **ID:** `CO-LC-5-2026-P3-intencion-autoral-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Datos de la carta.
+**Contexto:** Datos de la carta.
 
 ### Enunciado
 ¿Quién escribió la carta al periódico y por qué?
 
-### Options
+### Opciones
 - [ ] A) El alcalde de Manizales, para informar sobre cortes de agua. <!-- feedback: Incorrecto. El alcalde no escribió la carta. -->
 - [ ] B) La profesora de Lenguaje, para dar un ejemplo a sus estudiantes. <!-- feedback: Incorrecto. La carta fue escrita por un estudiante. -->
 - [x] C) Santiago Restrepo, un estudiante de quinto grado preocupado por el desperdicio de agua. <!-- feedback: Correcto. Santiago es el autor de la carta y expresa su preocupación. -->
@@ -75,13 +83,14 @@ Se evalúa la identificación del autor y su motivación explícita al inicio de
 
 **ID:** `CO-LC-5-2026-P3-intencion-autoral-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Propósito de la carta de Santiago.
+**Contexto:** Propósito de la carta de Santiago.
 
 ### Enunciado
 ¿Con qué propósito principal escribió Santiago su carta al periódico?
 
-### Options
+### Opciones
 - [ ] A) Para informar sobre un corte de agua programado. <!-- feedback: Incorrecto. Ese es el propósito del Texto 3 (aviso del acueducto). -->
 - [ ] B) Para vender productos para ahorrar agua. <!-- feedback: Incorrecto. No hay intención comercial en la carta. -->
 - [x] C) Para convencer a los adultos de que tomen conciencia y cuiden el agua. <!-- feedback: Correcto. Santiago dice: "Quiero pedirle a los adultos que reflexionen" y "Espero que esta carta ayude a que la gente tome conciencia". -->
@@ -96,13 +105,14 @@ Se evalúa la identificación del propósito persuasivo de la carta. Santiago no
 
 **ID:** `CO-LC-5-2026-P3-intencion-autoral-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Propósito del Anuncio del Gobierno.
+**Contexto:** Propósito del Anuncio del Gobierno.
 
 ### Enunciado
 ¿Cuál es el propósito del "Anuncio del Gobierno de la Ciudad" (Texto 2)?
 
-### Options
+### Opciones
 - [ ] A) Dar una noticia triste sobre el agua. <!-- feedback: Incorrecto. El tono no es triste, es de invitación. -->
 - [x] B) Invitar a los ciudadanos a reducir el consumo de agua con recomendaciones prácticas. <!-- feedback: Correcto. El anuncio dice "invita a todos los ciudadanos a reducir el consumo de agua" y da consejos específicos. -->
 - [ ] C) Criticar a las personas que desperdician agua. <!-- feedback: Incorrecto. El tono es amable y propositivo, no crítico. -->
@@ -117,13 +127,14 @@ Se evalúa la capacidad de identificar el propósito de un texto institucional, 
 
 **ID:** `CO-LC-5-2026-P3-intencion-autoral-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Propósito del Aviso del Acueducto.
+**Contexto:** Propósito del Aviso del Acueducto.
 
 ### Enunciado
 ¿Cuál es la intención del "Aviso del Acueducto" (Texto 3)?
 
-### Options
+### Opciones
 - [ ] A) Convencer a las personas de que ahorren agua. <!-- feedback: Incorrecto. No hay llamado a la acción sobre el ahorro. -->
 - [ ] B) Entretener a los lectores con una historia. <!-- feedback: Incorrecto. Es un texto informativo breve. -->
 - [x] C) Informar a los habitantes de ciertos barrios sobre una suspensión temporal del servicio de agua. <!-- feedback: Correcto. El aviso da fecha, hora y lugares del corte programado. -->
@@ -138,13 +149,14 @@ Se evalúa la identificación del propósito informativo de un aviso público. A
 
 **ID:** `CO-LC-5-2026-P3-intencion-autoral-001-MASTERY-v5`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Comparación de propósitos.
+**Contexto:** Comparación de propósitos.
 
 ### Enunciado
 ¿En qué se diferencia el propósito de la carta de Santiago del propósito del aviso del acueducto?
 
-### Options
+### Opciones
 - [ ] A) La carta busca entretener; el aviso busca vender. <!-- feedback: Incorrecto. Ninguno busca entretener ni vender. -->
 - [ ] B) La carta informa sobre un hecho; el aviso busca convencer. <!-- feedback: Incorrecto. Es al revés: la carta busca convencer, el aviso informa. -->
 - [x] C) La carta busca persuadir y generar conciencia; el aviso solo busca informar. <!-- feedback: Correcto. Santiago quiere cambiar la forma de pensar de las personas; el acueducto solo comunica un hecho programado. -->
@@ -159,13 +171,14 @@ Se evalúa la capacidad de contrastar los propósitos de diferentes textos sobre
 
 **ID:** `CO-LC-5-2026-P3-intencion-autoral-001-MASTERY-v6`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Tono de la carta.
+**Contexto:** Tono de la carta.
 
 ### Enunciado
 La carta de Santiago usa frases como "estoy muy preocupado", "no es justo" y "espero que esta carta ayude". ¿Qué tono o estado de ánimo transmiten estas frases?
 
-### Options
+### Opciones
 - [ ] A) Tono alegre y divertido. <!-- feedback: Incorrecto. Santiago no está alegre, está preocupado. -->
 - [ ] B) Tono neutral y objetivo. <!-- feedback: Incorrecto. Santiago expresa claramente su emoción y opinión. -->
 - [x] C) Tono serio, preocupado y esperanzador. <!-- feedback: Correcto. Santiago muestra preocupación por el problema pero también esperanza de que su carta tenga impacto. -->
@@ -180,13 +193,14 @@ Se evalúa la capacidad de identificar el tono o la actitud del autor a partir d
 
 **ID:** `CO-LC-5-2026-P3-intencion-autoral-001-MASTERY-v7`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Recursos persuasivos.
+**Contexto:** Recursos persuasivos.
 
 ### Enunciado
 Santiago menciona que "muchas veredas de Caldas no tienen agua potable y los niños deben caminar largas distancias para conseguirla". ¿Con qué propósito incluye esta información?
 
-### Options
+### Opciones
 - [ ] A) Para presumir que sabe mucho de geografía. <!-- feedback: Incorrecto. El propósito no es presumir conocimientos. -->
 - [ ] B) Para cambiar de tema. <!-- feedback: Incorrecto. Sigue hablando del mismo tema. -->
 - [x] C) Para generar empatía y mostrar que el desperdicio tiene consecuencias reales en otras personas. <!-- feedback: Correcto. Santiago contrasta el desperdicio con la necesidad para crear conciencia. -->
@@ -201,13 +215,14 @@ Se evalúa el reconocimiento de una estrategia persuasiva: usar un contraste ent
 
 **ID:** `CO-LC-5-2026-P3-intencion-autoral-001-MASTERY-v8`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
-**Context:** Destinatario de la carta.
+**Contexto:** Destinatario de la carta.
 
 ### Enunciado
 ¿A quién está dirigida principalmente la carta de Santiago?
 
-### Options
+### Opciones
 - [ ] A) A sus compañeros de quinto grado. <!-- feedback: Incorrecto. Aunque podrían leerla, la carta está dirigida al periódico. -->
 - [ ] B) Al alcalde de Manizales. <!-- feedback: Incorrecto. El alcalde no es el destinatario directo. -->
 - [x] C) A los adultos de la ciudad, a través del periódico La Patria. <!-- feedback: Correcto. Santiago dice "Quiero pedirle a los adultos que reflexionen" y la envía al periódico para que sea leída por muchos. -->
@@ -222,13 +237,14 @@ Se evalúa la identificación del público objetivo del texto. La carta está di
 
 **ID:** `CO-LC-5-2026-P3-intencion-autoral-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Punto de vista.
+**Contexto:** Punto de vista.
 
 ### Enunciado
 Los tres textos hablan del agua, pero tienen puntos de vista diferentes. ¿Cuál de estas afirmaciones describe mejor la diferencia?
 
-### Options
+### Opciones
 - [ ] A) El Texto 1 critica, el Texto 2 promueve y el Texto 3 informa. <!-- feedback: Incorrecto. "Critica" es una palabra muy fuerte; el Texto 1 más bien persuade y sensibiliza. -->
 - [x] B) El Texto 1 expresa una opinión personal y busca generar conciencia; el Texto 2 da recomendaciones institucionales; el Texto 3 solo comunica un hecho. <!-- feedback: Correcto. Cada texto tiene un enfoque diferente: personal, institucional e informativo. -->
 - [ ] C) El Texto 1 es para niños, el Texto 2 es para adultos y el Texto 3 es para empresas. <!-- feedback: Incorrecto. Todos están dirigidos al público general. -->
@@ -243,13 +259,14 @@ Se evalúa la capacidad de comparar el punto de vista de diferentes textos sobre
 
 **ID:** `CO-LC-5-2026-P3-intencion-autoral-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Identificación del autor.
+**Contexto:** Identificación del autor.
 
 ### Enunciado
 De los tres textos, ¿cuál expresa la opinión personal de su autor?
 
-### Options
+### Opciones
 - [ ] A) El Texto 2, porque el gobierno expresa su opinión. <!-- feedback: Incorrecto. El gobierno da recomendaciones institucionales, no una opinión personal. -->
 - [ ] B) El Texto 3, porque el acueducto decide cortar el agua. <!-- feedback: Incorrecto. Es una decisión técnica, no una opinión. -->
 - [x] C) El Texto 1, porque Santiago habla en primera persona ("Le escribo porque estoy preocupado", "quiero pedirle", "espero"). <!-- feedback: Correcto. El uso de la primera persona y la expresión de emociones y deseos indican una opinión personal. -->

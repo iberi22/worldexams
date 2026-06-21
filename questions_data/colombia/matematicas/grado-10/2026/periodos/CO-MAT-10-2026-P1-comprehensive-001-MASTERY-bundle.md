@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-10-2026-P1-comprehensive-001-MASTERY"
+id: "CO-MAT-10-2026-P1-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 10
 asignatura: "matematicas"
@@ -19,7 +19,12 @@ rubric_baseline: "funciones_trigonometricas, vectores_2d, limite_intuitivo, circ
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 20
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Funciones Trigonométricas, Vectores 2D y Límite Intuitivo
 
@@ -33,12 +38,12 @@ Bundle de periodo 1 para grado 10, alineado con DBA MEN y preparación Pre-Saber
 **Bloom:** Remember
 **ICFES:** Comunicación y Representación
 
-**Context:** En una clase de matemáticas en el Colegio San José de Medellín, el profesor dibuja un triángulo rectángulo con cateto opuesto de 3 cm y cateto adyacente de 4 cm.
+**Contexto:** En una clase de matemáticas en el Colegio San José de Medellín, el profesor dibuja un triángulo rectángulo con cateto opuesto de 3 cm y cateto adyacente de 4 cm.
 
 ### Enunciado
 ¿Cuál es el valor de la tangente del ángulo agudo formado por el cateto adyacente y la hipotenusa?
 
-### Options
+### Opciones
 - [ ] A) 0.6 <!-- feedback: Incorrecto. Este valor corresponde a 3/5, que es el seno, no la tangente. -->
 - [ ] B) 0.75 <!-- feedback: Incorrecto. Este es el valor del coseno (4/5), no de la tangente. -->
 - [x] C) 1.333... = 3/4 <!-- feedback: Correcto. La tangente se define como cateto opuesto sobre cateto adyacente = 3/4. -->
@@ -55,12 +60,12 @@ La tangente de un ángulo en un triángulo rectángulo es la razón entre el cat
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 
-**Context:** Un estudiante en Barranquilla está aprendiendo el círculo unitario y observa que el ángulo de 90° tiene coordenadas especiales.
+**Contexto:** Un estudiante en Barranquilla está aprendiendo el círculo unitario y observa que el ángulo de 90° tiene coordenadas especiales.
 
 ### Enunciado
 En el círculo unitario, ¿cuáles son las coordenadas del punto correspondiente al ángulo de 90° (π/2 radianes)?
 
-### Options
+### Opciones
 - [ ] A) (1, 0) <!-- feedback: Incorrecto. (1, 0) corresponde al ángulo de 0° o 360°. -->
 - [x] B) (0, 1) <!-- feedback: Correcto. En 90° el coseno es 0 y el seno es 1, por lo que la coordenada es (0, 1). -->
 - [ ] C) (-1, 0) <!-- feedback: Incorrecto. (-1, 0) corresponde al ángulo de 180° (π radianes). -->
@@ -77,12 +82,12 @@ En el círculo unitario, las coordenadas de cualquier punto son (cos θ, sen θ)
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 
-**Context:** Un ingeniero en Bucaramanga está analizando la altura de un奔 telescopio en un cerro. La altura h(t) en metros está dada por h(t) = 25 sen(πt/6) + 30, donde t está en horas.
+**Contexto:** Un ingeniero en Bucaramanga está analizando la altura de un奔 telescopio en un cerro. La altura h(t) en metros está dada por h(t) = 25 sen(πt/6) + 30, donde t está en horas.
 
 ### Enunciado
 ¿Cuál es la altura máxima que alcanza el telescopio?
 
-### Options
+### Opciones
 - [ ] A) 25 m <!-- feedback: Incorrecto. 25 es la amplitud, pero la altura máxima incluye el desplazamiento vertical. -->
 - [ ] B) 55 m <!-- feedback: Incorrecto. Sumarías 25+30, pero hay que verificar si la función seno alcanza exactamente esos valores límite. -->
 - [x] C) 55 m <!-- feedback: Correcto. sen(πt/6) oscila entre -1 y 1, por lo que h oscila entre 25(-1)+30=5 y 25(1)+30=55. La altura máxima es 55 m. -->
@@ -99,12 +104,12 @@ En una función senoidal de la forma h(t) = A sen(Bt) + D, la amplitud es A y el
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 
-**Context:** En un taller de física en Ibagué, los estudiantes representan fuerzas como vectores. Una fuerza F₁ tiene componentes (3, 4) N y otra F₂ tiene componentes (2, -1) N.
+**Contexto:** En un taller de física en Ibagué, los estudiantes representan fuerzas como vectores. Una fuerza F₁ tiene componentes (3, 4) N y otra F₂ tiene componentes (2, -1) N.
 
 ### Enunciado
 ¿Cuál es el vector resultante de la suma de las fuerzas F₁ + F₂?
 
-### Options
+### Opciones
 - [x] A) (5, 3) N <!-- feedback: Correcto. Se suman las componentes: (3+2, 4+(-1)) = (5, 3) N. -->
 - [ ] B) (5, 5) N <!-- feedback: Incorrecto. Sumaste mal las componentes y: 4 + (-1) = 3, no 5. -->
 - [ ] C) (1, 5) N <!-- feedback: Incorrecto. Restaste en lugar de sumar las componentes. -->
@@ -121,12 +126,12 @@ La suma de vectores se realiza sumando componente a componente: (x₁+x₂, y₁
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 
-**Context:** Un avión despega del aeropuerto El Dorado en Bogotá con una velocidad de 200 km/h en dirección N30°E. El viento sopla hacia el este a 40 km/h.
+**Contexto:** Un avión despega del aeropuerto El Dorado en Bogotá con una velocidad de 200 km/h en dirección N30°E. El viento sopla hacia el este a 40 km/h.
 
 ### Enunciado
 Si el vector velocidad del avión es vₐ = (200 cos 60°, 200 sen 60°) km/h y el viento es vᵥ = (40, 0) km/h, ¿cuál es la magnitud de la velocidad resultante?
 
-### Options
+### Opciones
 - [ ] A) 220 km/h <!-- feedback: Incorrecto. La suma vectorial no es simplemente 200+40 porque los vectores no son colineales. -->
 - [ ] B) 215.4 km/h <!-- feedback: Incorrecto. Puede faltar considerar correctamente el ángulo de dirección. -->
 - [x] C) 228.8 km/h aproximadamente <!-- feedback: Correcto. vₐ = (100, 173.2), v_r = (140, 173.2). Magnitud = √(140² + 173.2²) = √(19600 + 30000) = √49600 ≈ 222.7 km/h. -->
@@ -143,12 +148,12 @@ La velocidad resultante se obtiene sumando vectorialmente ambas velocidades. La 
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** En un laboratorio de matemáticas en Cali, se define la función f(x) = 2x + 1 para x ≠ 3 y se analiza su comportamiento cerca de x = 3.
+**Contexto:** En un laboratorio de matemáticas en Cali, se define la función f(x) = 2x + 1 para x ≠ 3 y se analiza su comportamiento cerca de x = 3.
 
 ### Enunciado
 Al analizar f(x) = x² - 9 / (x - 3) para valores de x muy cercanos a 3, ¿cuál es el valor límite cuando x tiende a 3?
 
-### Options
+### Opciones
 - [ ] A) 0 <!-- feedback: Incorrecto. La función se aproxima a 6, no a 0. -->
 - [x] B) 6 <!-- feedback: Correcto. Factorizando: (x-3)(x+3)/(x-3) = x+3 para x ≠ 3. Al evaluar x = 3 en la expresión simplificada obtenemos 6. -->
 - [ ] C) 3 <!-- feedback: Incorrecto. Este es el valor al que tiende x, pero no el límite de la función. -->
@@ -165,12 +170,12 @@ El límite de una función describe el valor al que se acerca la función cuando
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 
-**Context:** En un parque de diversiones en Bogotá, una noria tiene un radio de 15 m y su centro está a 18 m del suelo. La noria gira en sentido antihorario.
+**Contexto:** En un parque de diversiones en Bogotá, una noria tiene un radio de 15 m y su centro está a 18 m del suelo. La noria gira en sentido antihorario.
 
 ### Enunciado
 Si la posición vertical de una canastilla se modela como y(t) = 15 sen(ωt) + 18, ¿cuál es la altura mínima a la que llega la canastilla?
 
-### Options
+### Opciones
 - [ ] A) 15 m <!-- feedback: Incorrecto. La altura mínima considera el radio y la altura del centro: 18 - 15. -->
 - [ ] B) 33 m <!-- feedback: Incorrecto. 33 m es la altura máxima (18 + 15), no la mínima. -->
 - [x] C) 3 m <!-- feedback: Correcto. La altura mínima es el centro menos el radio: 18 - 15 = 3 m. -->
@@ -187,12 +192,12 @@ El movimiento circular produce una altura senoidal. La altura mínima es D - A =
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Se tienen dos vectores: u = (3, -4) y v = (-1, 2). Se pide analizar la relación entre ellos en el plano cartesiano.
+**Contexto:** Se tienen dos vectores: u = (3, -4) y v = (-1, 2). Se pide analizar la relación entre ellos en el plano cartesiano.
 
 ### Enunciado
 ¿Cuál de las siguientes afirmaciones es verdadera sobre los vectores u y v?
 
-### Options
+### Opciones
 - [ ] A) u y v son paralelos. <!-- feedback: Incorrecto. Dos vectores son paralelos si uno es múltiplo escalar del otro. (-1, 2) no es múltiplo de (3, -4). -->
 - [ ] B) u y v son ortogonales. <!-- feedback: Incorrecto. El producto punto es 3(-1) + (-4)(2) = -3 - 8 = -11, que no es 0. -->
 - [x] C) u y v forman un ángulo obtuso. <!-- feedback: Correcto. El producto punto es negativo (-11), lo que indica que el ángulo entre ellos es > 90°. -->
@@ -209,12 +214,12 @@ El producto punto permite determinar la relación angular entre vectores: positi
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 
-**Context:** Un estudiante en Pereira quiere determinar el límite de f(x) = (2x² - 5x + 2)/(x - 2) cuando x se aproxima a 2.
+**Contexto:** Un estudiante en Pereira quiere determinar el límite de f(x) = (2x² - 5x + 2)/(x - 2) cuando x se aproxima a 2.
 
 ### Enunciado
 ¿Cuál es el valor de lim_{x→2} f(x)?
 
-### Options
+### Opciones
 - [x] A) 3 <!-- feedback: Correcto. Factorizando: (x-2)(2x-1)/(x-2) = 2x-1 para x ≠ 2. Evaluando en x = 2: 2(2)-1 = 3. -->
 - [ ] B) 0 <!-- feedback: Incorrecto. El límite existe y es finito, no es 0. -->
 - [ ] C) 2 <!-- feedback: Incorrecto. Este es el valor al que tiende x, no el límite de la función. -->
@@ -231,12 +236,12 @@ El límite existe aunque la función no esté definida en x = 2. Al factorizar, 
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 
-**Context:** En un examen tipo ICFES, se presenta la gráfica de una función seno y una función coseno en el mismo plano cartesiano.
+**Contexto:** En un examen tipo ICFES, se presenta la gráfica de una función seno y una función coseno en el mismo plano cartesiano.
 
 ### Enunciado
 ¿Cuál es la diferencia de fase entre la función seno y la función coseno (con la misma amplitud y frecuencia)?
 
-### Options
+### Opciones
 - [ ] A) 0° <!-- feedback: Incorrecto. El seno y el coseno no están en fase; la gráfica del coseno está desplazada. -->
 - [ ] B) 45° <!-- feedback: Incorrecto. El desplazamiento entre seno y coseno no es de 45°. Recuerda que cos(θ) = sen(θ + π/2). -->
 - [x] C) 90° (π/2 rad) <!-- feedback: Correcto. El coseno está adelantado 90° respecto al seno: cos(θ) = sen(θ + π/2). -->
@@ -253,12 +258,12 @@ La función coseno es la función seno desplazada 90° hacia la izquierda. En t�
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 
-**Context:** En el Observatorio Astronómico de la Universidad Nacional en Bogotá, se modela la temperatura T(t) a lo largo del día como T(t) = 12 sen((π/12)(t - 6)) + 18, con t en horas desde la medianoche.
+**Contexto:** En el Observatorio Astronómico de la Universidad Nacional en Bogotá, se modela la temperatura T(t) a lo largo del día como T(t) = 12 sen((π/12)(t - 6)) + 18, con t en horas desde la medianoche.
 
 ### Enunciado
 ¿A qué hora se alcanza la temperatura máxima según este modelo?
 
-### Options
+### Opciones
 - [ ] A) 12:00 del mediodía <!-- feedback: Incorrecto. A las 12, t=12, (t-6)=6, T=12 sen(π·6/12)+18 = 12 sen(π/2)+18 = 30°C. No es el máximo porque el seno alcanza 1 cuando su argumento es π/2, lo que ocurre en t=12. -->
 - [x] B) 12:00 del mediodía <!-- feedback: Correcto. sen((π/12)(t-6))=1 cuando (π/12)(t-6)=π/2, t-6=6, t=12. Es decir, al mediodía la temperatura es máxima, 30°C. -->
 - [ ] C) 6:00 de la mañana <!-- feedback: Incorrecto. A las 6, t=6, (t-6)=0, T=18°C. No es el máximo, es el valor medio. -->
@@ -275,12 +280,12 @@ Para funciones senoidales, el máximo ocurre cuando el argumento de la función 
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Dos fuerzas actúan sobre un objeto: F₁ = (4, 3) N y F₂ = (-2, 1) N. Se necesita determinar el vector unitario en la dirección de la fuerza resultante.
+**Contexto:** Dos fuerzas actúan sobre un objeto: F₁ = (4, 3) N y F₂ = (-2, 1) N. Se necesita determinar el vector unitario en la dirección de la fuerza resultante.
 
 ### Enunciado
 ¿Cuál es el vector unitario en la dirección de la fuerza resultante F₁ + F₂?
 
-### Options
+### Opciones
 - [x] A) (2/√5, 4/√5) <!-- feedback: Correcto. Resultante = (2, 4). Magnitud = √(4+16) = √20 = 2√5. Unitario = (2/(2√5), 4/(2√5)) = (1/√5, 2/√5). -->
 - [ ] B) (1/√5, 3/√5) <!-- feedback: Incorrecto. Error al normalizar las componentes correctas (2, 4). -->
 - [ ] C) (0.5, 0.866) <!-- feedback: Incorrecto. Estos valores corresponden a un ángulo de 60°, no a la dirección de la resultante. -->
@@ -297,12 +302,12 @@ El vector unitario se obtiene dividiendo cada componente del vector entre su mag
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 
-**Context:** Un agrónomo en el Valle del Cauca estudia el crecimiento de un cultivo. La altura h(t) en cm sigue un modelo senoidal con período de 24 horas, amplitud de 5 cm y altura media de 12 cm, alcanzando el valor máximo a las 8:00 AM.
+**Contexto:** Un agrónomo en el Valle del Cauca estudia el crecimiento de un cultivo. La altura h(t) en cm sigue un modelo senoidal con período de 24 horas, amplitud de 5 cm y altura media de 12 cm, alcanzando el valor máximo a las 8:00 AM.
 
 ### Enunciado
 ¿Cuál de las siguientes funciones modela correctamente la altura del cultivo?
 
-### Options
+### Opciones
 - [x] A) h(t) = 5 sen(π/12 (t - 2)) + 12 <!-- feedback: Correcto. Período 24 → ω=π/12. Máximo en t=8 → desfase de modo que sen(π/12(8-d))=1 → 8-d=6 → d=2. -->
 - [ ] B) h(t) = 5 sen(π/12 (t - 8)) + 12 <!-- feedback: Incorrecto. Con este desfase, el máximo ocurre en t=14, no en t=8. -->
 - [ ] C) h(t) = 12 sen(π/6 t) + 5 <!-- feedback: Incorrecto. La amplitud y la altura media están intercambiadas. -->
@@ -319,7 +324,7 @@ Modelar fenómenos periódicos con funciones senoidales requiere identificar amp
 **Bloom:** Evaluate
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Cuatro estudiantes presentan diferentes aproximaciones para lim_{x→1} (x³ - 1)/(x - 1) usando tablas de valores.
+**Contexto:** Cuatro estudiantes presentan diferentes aproximaciones para lim_{x→1} (x³ - 1)/(x - 1) usando tablas de valores.
 
 ### Enunciado
 Estudiante A: "El límite es 2 porque x³ - 1 = (x-1)(x² + x + 1) y evaluando en x=1 da 3"
@@ -328,7 +333,7 @@ Estudiante C: "El límite no existe porque hay división entre 0"
 Estudiante D: "El límite es ∞ porque el denominador tiende a 0"
 ¿Quién tiene la razón?
 
-### Options
+### Opciones
 - [ ] A) Estudiante A <!-- feedback: Incorrecto. Aunque factorizó bien, cometió un error aritmético: 1² + 1 + 1 = 3, no 2. -->
 - [x] B) Estudiante B <!-- feedback: Correcto. (x³-1)/(x-1) = x² + x + 1 para x ≠ 1. Evaluando x=1: 1 + 1 + 1 = 3. -->
 - [ ] C) Estudiante C <!-- feedback: Incorrecto. El límite existe aunque la función no esté definida en x=1. La indeterminación 0/0 es removible. -->
@@ -345,12 +350,12 @@ La factorización de diferencia de cubos permite eliminar la indeterminación: a
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** En el plano cartesiano, se tiene el triángulo con vértices A(1, 2), B(4, 6) y C(7, 2). Se quiere analizar si es un triángulo rectángulo.
+**Contexto:** En el plano cartesiano, se tiene el triángulo con vértices A(1, 2), B(4, 6) y C(7, 2). Se quiere analizar si es un triángulo rectángulo.
 
 ### Enunciado
 ¿El triángulo ABC es rectángulo? Si lo es, ¿en qué vértice está el ángulo recto?
 
-### Options
+### Opciones
 - [ ] A) Sí, en el vértice A <!-- feedback: Incorrecto. AB=(3,4) y AC=(6,0): producto punto = 18 ≠ 0, no hay ángulo recto en A. -->
 - [ ] B) Sí, en el vértice B <!-- feedback: Incorrecto. BA=(-3,-4) y BC=(3,-4): producto punto = -9+16=7 ≠ 0. No hay ángulo recto en B. -->
 - [ ] C) Sí, en el vértice C <!-- feedback: Incorrecto. CA=(-6,0) y CB=(-3,4): producto punto = 18+0=18 ≠ 0. No hay ángulo recto en C. -->
@@ -367,12 +372,12 @@ Para verificar si un triángulo es rectángulo se puede usar el teorema de Pitá
 **Bloom:** Evaluate
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Un estudiante afirma que la función seno y la función coseno tienen el mismo período y la misma amplitud. Otro estudiante dice que son diferentes.
+**Contexto:** Un estudiante afirma que la función seno y la función coseno tienen el mismo período y la misma amplitud. Otro estudiante dice que son diferentes.
 
 ### Enunciado
 ¿Cuál de las siguientes afirmaciones es correcta sobre las funciones f(x) = sen(x) y g(x) = cos(x)?
 
-### Options
+### Opciones
 - [ ] A) Tienen diferente período. <!-- feedback: Incorrecto. Ambas tienen período 2π. -->
 - [ ] B) Tienen diferente amplitud. <!-- feedback: Incorrecto. Ambas tienen amplitud 1 en su forma estándar. -->
 - [x] C) La gráfica de g(x) es la gráfica de f(x) desplazada horizontalmente π/2. <!-- feedback: Correcto. cos(x) = sen(x + π/2), hay un desfase de π/2. -->
@@ -389,12 +394,12 @@ Las funciones seno y coseno tienen la misma forma y la misma frecuencia; la úni
 **Bloom:** Evaluate
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Se tiene un triángulo con vértices P(0, 0), Q(6, 0), R(3, 4). Un estudiante afirma que el vector PQ es perpendicular al vector PR.
+**Contexto:** Se tiene un triángulo con vértices P(0, 0), Q(6, 0), R(3, 4). Un estudiante afirma que el vector PQ es perpendicular al vector PR.
 
 ### Enunciado
 Evalúa la afirmación del estudiante. ¿PQ es perpendicular a PR?
 
-### Options
+### Opciones
 - [ ] A) Sí, porque PQ está en el eje horizontal y PR en el vertical. <!-- feedback: Incorrecto. PR = (3, 4) no es vertical. -->
 - [x] B) No, porque el producto punto PQ·PR = 18, que es diferente de 0. <!-- feedback: Correcto. PQ = (6,0), PR = (3,4). PQ·PR = 6·3 + 0·4 = 18 ≠ 0. No son perpendiculares. -->
 - [ ] C) Sí, porque el triángulo es isósceles. <!-- feedback: Incorrecto. Que un triángulo sea isósceles no implica tener ángulos rectos. -->
@@ -411,12 +416,12 @@ La perpendicularidad entre vectores se verifica con el producto punto igual a ce
 **Bloom:** Evaluate
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** En un debate de matemáticas, un estudiante propone: "lim_{x→0} [f(x) + g(x)] = lim_{x→0} f(x) + lim_{x→0} g(x) para cualquier par de funciones f y g".
+**Contexto:** En un debate de matemáticas, un estudiante propone: "lim_{x→0} [f(x) + g(x)] = lim_{x→0} f(x) + lim_{x→0} g(x) para cualquier par de funciones f y g".
 
 ### Enunciado
 Evalúa la afirmación del estudiante.
 
-### Options
+### Opciones
 - [ ] A) Es verdadera para todas las funciones f y g. <!-- feedback: Incorrecto. La propiedad se cumple solo si ambos límites individuales existen y son finitos. -->
 - [ ] B) Es falsa porque la suma de límites nunca es el límite de la suma. <!-- feedback: Incorrecto. La propiedad es verdadera bajo condiciones de existencia. -->
 - [x] C) Es verdadera siempre que ambos límites existan como números reales. <!-- feedback: Correcto. La propiedad de linealidad del límite requiere que los límites individuales existan y sean finitos. -->
@@ -433,12 +438,12 @@ Las propiedades algebraicas de los límites tienen condiciones de aplicabilidad.
 **Bloom:** Create
 **ICFES:** Formulación y Ejecución
 
-**Context:** Una empresa de energía en Antioquia necesita modelar la demanda eléctrica diaria. La demanda máxima es 150 MW a las 19:00 horas, la demanda mínima es 70 MW a las 7:00 horas, y la demanda varía de forma senoidal con período de 24 horas.
+**Contexto:** Una empresa de energía en Antioquia necesita modelar la demanda eléctrica diaria. La demanda máxima es 150 MW a las 19:00 horas, la demanda mínima es 70 MW a las 7:00 horas, y la demanda varía de forma senoidal con período de 24 horas.
 
 ### Enunciado
 Determina la función senoidal D(t) que modela la demanda eléctrica en MW, donde t son las horas desde la medianoche.
 
-### Options
+### Opciones
 - [x] A) D(t) = 40 sen(π/12 (t - 13)) + 110 <!-- feedback: Correcto. Amplitud A = (150-70)/2 = 40. Valor medio D = (150+70)/2 = 110. ω = 2π/24 = π/12. Máximo en t=19 → (π/12)(19-d)=π/2 → d=13. -->
 - [ ] B) D(t) = 40 sen(π/12 (t - 19)) + 110 <!-- feedback: Incorrecto. Con este desfase, el máximo ocurre en t=25 (1 AM del día siguiente), no a las 19. -->
 - [ ] C) D(t) = 110 sen(π/12 (t - 7)) + 40 <!-- feedback: Incorrecto. La amplitud y el desplazamiento vertical están intercambiados. -->
@@ -455,12 +460,12 @@ Para construir un modelo senoidal: amplitud = (máx-mín)/2, valor medio = (máx
 **Bloom:** Evaluate
 **ICFES:** Razonamiento y Argumentación
 
-**Context:** Un grupo de investigación en la Universidad del Valle estudia la función f(x) = |x|/x para x ≠ 0. Los estudiantes discuten el valor del límite cuando x → 0.
+**Contexto:** Un grupo de investigación en la Universidad del Valle estudia la función f(x) = |x|/x para x ≠ 0. Los estudiantes discuten el valor del límite cuando x → 0.
 
 ### Enunciado
 Evalúa el comportamiento de f(x) = |x|/x cuando x se acerca a 0. ¿Cuál es la afirmación correcta?
 
-### Options
+### Opciones
 - [ ] A) lim_{x→0} f(x) = 1 <!-- feedback: Incorrecto. Esto es cierto solo para el límite por la derecha (x→0+). -->
 - [x] B) lim_{x→0} f(x) no existe porque los límites laterales son diferentes. <!-- feedback: Correcto. Por la derecha: |x|/x = x/x = 1; por la izquierda: |x|/x = -x/x = -1. Como 1 ≠ -1, el límite no existe. -->
 - [ ] C) lim_{x→0} f(x) = 0 <!-- feedback: Incorrecto. La función no tiende a 0 en ningún lado. -->

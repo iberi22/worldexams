@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W20-repaso-p4-001-MASTERY"
+id: "CO-LEC-3-2026-W20-repaso-p4-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 20
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso de Periodo 4
 
@@ -25,6 +30,7 @@ Este bundle integra los conocimientos de las semanas 16 a 19: descripción de es
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "El páramo es un ecosistema frío donde nace el agua. Allí crecen los frailejones, plantas con hojas peluditas que atrapan la humedad de la neblina".
@@ -32,7 +38,7 @@ Este bundle integra los conocimientos de las semanas 16 a 19: descripción de es
 ### Enunciado
 ¿Cómo son las hojas de los frailejones según la descripción del texto?
 
-### Options
+### Opciones
 - [ ] A) Grandes y lisas. <!-- feedback: Incorrecto. El texto dice que son peluditas. -->
 - [x] B) Peluditas. <!-- feedback: ¡Correcto! Esta característica aparece de forma literal en la descripción del escenario. -->
 - [ ] C) De colores brillantes. <!-- feedback: Incorrecto. No se menciona el color en esta frase específica. -->
@@ -48,6 +54,7 @@ Repaso de descripción de escenarios (Semana 16). Localizar rasgos físicos de s
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **HORARIO DE LA LUDOTECA:**
@@ -57,7 +64,7 @@ Repaso de descripción de escenarios (Semana 16). Localizar rasgos físicos de s
 ### Enunciado
 ¿A qué hora cierra la ludoteca los días **sábados**?
 
-### Options
+### Opciones
 - [ ] A) A las 6:00 p.m. <!-- feedback: Incorrecto. Esa es la hora de cierre de lunes a viernes. -->
 - [x] B) A las 12:00 del mediodía. <!-- feedback: ¡Correcto! El texto indica literalmente que el horario de los sábados termina a las 12:00 m. -->
 - [ ] C) A las 2:00 p.m. <!-- feedback: Incorrecto. Esa es la hora de apertura en semana. -->
@@ -73,6 +80,7 @@ Repaso de comprensión literal (Semana 17). La lectura de tablas u horarios requ
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Los parques naturales son áreas protegidas donde se cuida la fauna y la flora. Está prohibido cazar animales o cortar plantas, para que el equilibrio de la naturaleza no se pierda".
@@ -80,7 +88,7 @@ Repaso de comprensión literal (Semana 17). La lectura de tablas u horarios requ
 ### Enunciado
 ¿Cuál es la **idea principal** de este párrafo?
 
-### Options
+### Opciones
 - [ ] A) Los animales son muy bonitos. <!-- feedback: Incorrecto. Es una opinión general pero no resume el texto sobre protección legal. -->
 - [x] B) El propósito de los parques naturales como zonas de protección ambiental. <!-- feedback: ¡Correcto! Resume por qué existen y qué reglas tienen estos parques. -->
 - [ ] C) No se debe ir al parque con perros. <!-- feedback: Incorrecto. El texto no menciona a los perros domésticos. -->
@@ -96,6 +104,7 @@ Repaso de idea principal (Semana 18). El estudiante debe identificar la intenci�
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Primero, saca la punta al lápiz. Luego, escribe tu nombre en la parte superior de la hoja. Finalmente, comienza a realizar los dibujos de la tarea".
@@ -103,7 +112,7 @@ Repaso de idea principal (Semana 18). El estudiante debe identificar la intenci�
 ### Enunciado
 ¿Qué se debe hacer **justo antes** de empezar a dibujar?
 
-### Options
+### Opciones
 - [ ] A) Sacar la punta al lápiz. <!-- feedback: Incorrecto. Eso fue lo primero que se hizo. -->
 - [x] B) Escribir el nombre en la hoja. <!-- feedback: ¡Correcto! Según la secuencia, escribir el nombre precede inmediatamente a la acción de dibujar. -->
 - [ ] C) Entregar la tarea al profesor. <!-- feedback: Incorrecto. Eso pasaría después de terminar los dibujos. -->
@@ -119,6 +128,7 @@ Repaso de secuencia de eventos (Semana 19). Identificar el orden de los pasos en
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "La ciudad amurallada de Cartagena tiene calles estrechas y casas de colores brillantes con balcones llenos de flores. El aire huele a mar y se escucha el sonido de los coches tirados por caballos sobre las piedras".
@@ -126,7 +136,7 @@ Repaso de secuencia de eventos (Semana 19). Identificar el orden de los pasos en
 ### Enunciado
 ¿Cuál de los siguientes sentidos **no se usa** para describir a Cartagena en este texto?
 
-### Options
+### Opciones
 - [ ] A) La vista. <!-- feedback: Incorrecto. Se mencionan colores, calles y balcones. -->
 - [ ] B) El olfato. <!-- feedback: Incorrecto. Se menciona el olor a mar. -->
 - [ ] C) El oído. <!-- feedback: Incorrecto. Se menciona el sonido de los caballos. -->
@@ -142,6 +152,7 @@ Repaso de descripción de escenarios (Semana 16). Evaluar la información sensor
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Para que la basura no contamine, es vital separarla: los residuos orgánicos (como cáscaras de frutas) en la caneca verde y los reciclables (papel y plástico) en la caneca blanca".
@@ -149,7 +160,7 @@ Repaso de descripción de escenarios (Semana 16). Evaluar la información sensor
 ### Enunciado
 Si tienes una **botella de plástico vacía**, ¿dónde debes ponerla según la idea principal del texto?
 
-### Options
+### Opciones
 - [ ] A) En la caneca verde. <!-- feedback: Incorrecto. La verde es para residuos orgánicos como comida. -->
 - [x] B) En la caneca blanca. <!-- feedback: ¡Correcto! El plástico es un material reciclable que va en la caneca blanca según la instrucción. -->
 - [ ] C) En cualquier caneca da lo mismo. <!-- feedback: Incorrecto. El texto enfatiza que "es vital separarla". -->
@@ -165,6 +176,7 @@ Este ejercicio combina la idea principal con la aplicación práctica de una inf
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Ayer fui al cine. Antes de entrar a la sala, compré crispetas y una gaseosa. Cuando terminó la película, salí muy contento y me encontré con mis primos en la puerta".
@@ -172,7 +184,7 @@ Este ejercicio combina la idea principal con la aplicación práctica de una inf
 ### Enunciado
 Si el narrador se encontró con sus primos a las **5:00 p.m.** y la película duró **dos horas**, ¿a qué hora compró las crispetas aproximadamente?
 
-### Options
+### Opciones
 - [ ] A) A las 5:00 p.m. <!-- feedback: Incorrecto. A esa hora ya había salido de ver la película. -->
 - [ ] B) A las 4:00 p.m. <!-- feedback: Incorrecto. A esa hora estaba en la mitad de la película. -->
 - [x] C) Poco antes de las 3:00 p.m. <!-- feedback: ¡Correcto! Si salió a las 5:00 y la película duró 2 horas, empezó a las 3:00. Compró las crispetas "antes de entrar". -->
@@ -188,6 +200,7 @@ Repaso de secuencia de eventos (Semana 19). La reconstrucción de la línea de t
 **Bloom:** Analyze
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Texto 1:** "El león es el rey de la selva por su fuerza y gran melena".
@@ -196,7 +209,7 @@ Repaso de secuencia de eventos (Semana 19). La reconstrucción de la línea de t
 ### Enunciado
 ¿Cuál de los dos textos es más **preciso y científico** para una tarea de ciencias?
 
-### Options
+### Opciones
 - [ ] A) El Texto 1, porque nos dice quién manda en la selva. <!-- feedback: Incorrecto. "Rey de la selva" es un título imaginario, no un dato científico. -->
 - [x] B) El Texto 2, porque usa términos como 'felino carnívoro' y dice su ubicación real. <!-- feedback: ¡Correcto! Este texto usa un lenguaje informativo y objetivo adecuado para el estudio. -->
 - [ ] C) Los dos sirven igual porque hablan del león. <!-- feedback: Incorrecto. El lenguaje de cada uno tiene propósitos diferentes (literario vs. informativo). -->

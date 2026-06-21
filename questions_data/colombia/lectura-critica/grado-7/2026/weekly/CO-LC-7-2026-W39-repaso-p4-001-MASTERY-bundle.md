@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W39-repaso-p4-001-MASTERY"
+id: "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "repaso periodo 4"
-semana: "W39"
+week: "W39"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso del Período 4 - Grado 7
 ## Semana W39 — Síntesis de géneros periodísticos: propaganda, publicidad, opinión, noticia, reportaje y entrevista
 
-## Pregunta 1 [D4]
+## Question 1 [D4]
 **ID:** `CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v1`
 **Bloom:** Understand
 **ICFES:** Identificación de contenidos locales
-**Context:** En el repaso final del período, la profesora del Colegio San Francisco de Asís de Ibagué muestra cuatro textos: 1) un editorial que critica la reforma tributaria, 2) una noticia sobre un accidente de tránsito, 3) un anuncio de una marca de celulares, 4) una entrevista a un deportista.
+**Contexto:** En el repaso final del período, la profesora del Colegio San Francisco de Asís de Ibagué muestra cuatro textos: 1) un editorial que critica la reforma tributaria, 2) una noticia sobre un accidente de tránsito, 3) un anuncio de una marca de celulares, 4) una entrevista a un deportista.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -39,11 +43,11 @@ Este ejercicio de clasificación evalúa la capacidad de distinguir los géneros
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comprensión del sentido global
-**Context:** Un texto tiene la siguiente estructura: titular grande, imagen atractiva, eslogan corto, precio destacado, logo de la marca. No incluye datos ni citas de fuentes.
+**Contexto:** Un texto tiene la siguiente estructura: titular grande, imagen atractiva, eslogan corto, precio destacado, logo de la marca. No incluye datos ni citas de fuentes.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -60,11 +64,11 @@ Cada género periodístico tiene una estructura característica. La publicidad s
 
 ---
 
-## Pregunta 3 [D5]
+## Question 3 [D5]
 **ID:** `CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Configuración textual
-**Context:** Un texto periodístico tiene: titular que sintetiza el hecho, lead que responde a las 6 preguntas básicas, cuerpo con información de menor importancia al final, y no incluye opinión del periodista.
+**Contexto:** Un texto periodístico tiene: titular que sintetiza el hecho, lead que responde a las 6 preguntas básicas, cuerpo con información de menor importancia al final, y no incluye opinión del periodista.
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -81,11 +85,11 @@ La pirámide invertida es la estructura característica de la noticia y responde
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Dimensión inferencial
-**Context:** Un texto dice: "El ministro de Educación afirmó que la cobertura educativa aumentó un 15% en zonas rurales. Sin embargo, maestros de estas regiones denuncian que faltan aulas y materiales. La Contraloría investiga la ejecución del presupuesto."
+**Contexto:** Un texto dice: "El ministro de Educación afirmó que la cobertura educativa aumentó un 15% en zonas rurales. Sin embargo, maestros de estas regiones denuncian que faltan aulas y materiales. La Contraloría investiga la ejecución del presupuesto."
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -102,11 +106,11 @@ La característica distintiva de la noticia frente al editorial es la presentaci
 
 ---
 
-## Pregunta 5 [D6]
+## Question 5 [D6]
 **ID:** `CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v5`
 **Bloom:** Analyze
 **ICFES:** Dimensión inferencial
-**Context:** Un reportaje y una noticia cubren el mismo tema: la contaminación del río Bogotá. La noticia tiene 300 palabras. El reportaje tiene 3.000 palabras e incluye historia, datos, testimonios, fotografías y análisis de expertos.
+**Contexto:** Un reportaje y una noticia cubren el mismo tema: la contaminación del río Bogotá. La noticia tiene 300 palabras. El reportaje tiene 3.000 palabras e incluye historia, datos, testimonios, fotografías y análisis de expertos.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -123,11 +127,11 @@ Esta comparación muestra que noticia y reportaje no compiten, se complementan. 
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Configuración textual
-**Context:** Al repasar los géneros del período, los estudiantes identifican que la propaganda y la publicidad comparten algunas técnicas persuasivas.
+**Contexto:** Al repasar los géneros del período, los estudiantes identifican que la propaganda y la publicidad comparten algunas técnicas persuasivas.
 **Expected_Success:** 0.56
 
 ### Enunciado
@@ -144,11 +148,11 @@ Aunque comparten técnicas persuasivas (apelación emocional, repetición, esló
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Dimensión inferencial
-**Context:** Un texto periodístico incluye: 1) una descripción del lugar donde ocurrió un evento, 2) testimonios de varias personas, 3) datos históricos del problema, 4) análisis de un experto, 5) fotografías del lugar.
+**Contexto:** Un texto periodístico incluye: 1) una descripción del lugar donde ocurrió un evento, 2) testimonios de varias personas, 3) datos históricos del problema, 4) análisis de un experto, 5) fotografías del lugar.
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -165,11 +169,11 @@ El reportaje se distingue por su riqueza de recursos y fuentes. Mientras que la 
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Dimensión inferencial
-**Context:** En un texto se lee: "P- ¿Cuánto tiempo lleva investigando este tema? R- Llevo más de 15 años estudiando los glaciares colombianos. Hemos perdido el 70% de nuestra masa glaciar en las últimas décadas."
+**Contexto:** En un texto se lee: "P- ¿Cuánto tiempo lleva investigando este tema? R- Llevo más de 15 años estudiando los glaciares colombianos. Hemos perdido el 70% de nuestra masa glaciar en las últimas décadas."
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -186,11 +190,11 @@ El formato pregunta-respuesta (P- / R-) es la marca textual inequívoca de la en
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** Un estudiante debe elegir el género adecuado para tres propósitos: a) informar rápidamente sobre un incendio, b) convencer a los compañeros de reciclar, c) conocer en profundidad la vida de un científico colombiano.
+**Contexto:** Un estudiante debe elegir el género adecuado para tres propósitos: a) informar rápidamente sobre un incendio, b) convencer a los compañeros de reciclar, c) conocer en profundidad la vida de un científico colombiano.
 **Expected_Success:** 0.48
 
 ### Enunciado
@@ -207,11 +211,11 @@ Saber elegir el género adecuado para cada propósito es una habilidad metacogni
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** Un medio publica un texto que tiene elementos de noticia (datos recientes), de reportaje (contexto histórico) y de opinión (juicios de valor del autor). El texto no se identifica claramente con ningún género.
+**Contexto:** Un medio publica un texto que tiene elementos de noticia (datos recientes), de reportaje (contexto histórico) y de opinión (juicios de valor del autor). El texto no se identifica claramente con ningún género.
 **Expected_Success:** 0.44
 
 ### Enunciado
@@ -228,11 +232,11 @@ La claridad genérica es un principio de transparencia periodística. El lector 
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Reflexión sobre el contenido
-**Context:** En el repaso del período, la profesora pregunta: "Si un político dice en una entrevista que 'la educación es prioridad', pero su gobierno ha reducido el presupuesto educativo, ¿qué género revela mejor esta contradicción?"
+**Contexto:** En el repaso del período, la profesora pregunta: "Si un político dice en una entrevista que 'la educación es prioridad', pero su gobierno ha reducido el presupuesto educativo, ¿qué género revela mejor esta contradicción?"
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -249,11 +253,11 @@ El reportaje de investigación es el género más adecuado para revelar contradi
 
 ---
 
-## Pregunta 12 [D9-D10]
+## Question 12 [D9-D10]
 **ID:** `CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Reflexión sobre el contenido
-**Context:** Como síntesis del período 4, los estudiantes del Colegio Santiago de las Atalayas de Bello (Antioquia) deben elaborar un cuadro comparativo de los géneros periodísticos estudiados.
+**Contexto:** Como síntesis del período 4, los estudiantes del Colegio Santiago de las Atalayas de Bello (Antioquia) deben elaborar un cuadro comparativo de los géneros periodísticos estudiados.
 **Expected_Success:** 0.36
 
 ### Enunciado

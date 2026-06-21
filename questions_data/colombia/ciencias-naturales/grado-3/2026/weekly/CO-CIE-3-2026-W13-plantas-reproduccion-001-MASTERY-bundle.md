@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W13-plantas-reproduccion-001-MASTERY"
+id: "CO-CIE-3-2026-W13-plantas-reproduccion-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "plantas-reproduccion"
-semana: "W13"
+week: "W13"
 periodo: 2
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Reproducción de las plantas: polinización, fecundación y fo
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # La Reproducción de las Plantas
 
 Este bundle profundiza en cómo las plantas dan origen a nuevos seres a través de las flores, el polen y las semillas, asegurando la continuidad de la vegetación en la Tierra.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W13-plantas-reproduccion-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un jardín lleno de flores, los niños ven un polvo amarillo muy fino que mancha sus dedos al tocar el centro de la flor.
+**Contexto:** En un jardín lleno de flores, los niños ven un polvo amarillo muy fino que mancha sus dedos al tocar el centro de la flor.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -48,12 +52,12 @@ El polen es fundamental para la reproducción sexual de las plantas. Es producid
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W13-plantas-reproduccion-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Las abejas vuelan de flor en flor buscando néctar y, sin darse cuenta, llevan el polen pegado en sus patas.
+**Contexto:** Las abejas vuelan de flor en flor buscando néctar y, sin darse cuenta, llevan el polen pegado en sus patas.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -73,12 +77,12 @@ Las abejas son los polinizadores más importantes del planeta. Sin su trabajo de
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W13-plantas-reproduccion-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Después de que la flor es polinizada, ocurre un cambio interno donde se une el polen con el óvulo de la planta.
+**Contexto:** Después de que la flor es polinizada, ocurre un cambio interno donde se une el polen con el óvulo de la planta.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -98,12 +102,12 @@ La fecundación ocurre en el ovario de la flor. A partir de este momento, los p�
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W13-plantas-reproduccion-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Un científico nota que algunas flores tienen olores muy fuertes a carne podrida y son visitadas por moscas en lugar de abejas.
+**Contexto:** Un científico nota que algunas flores tienen olores muy fuertes a carne podrida y son visitadas por moscas en lugar de abejas.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -123,12 +127,12 @@ Las plantas han evolucionado para comunicarse con sus polinizadores. Las flores 
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W13-plantas-reproduccion-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una semilla de naranja es enterrada en suelo húmedo y recibe calor del sol.
+**Contexto:** Una semilla de naranja es enterrada en suelo húmedo y recibe calor del sol.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -148,12 +152,12 @@ Al nacer, la planta necesita asegurar su hidratación. Por eso la raíz rompe la
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W13-plantas-reproduccion-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Algunas plantas no necesitan semillas; si cortas una ramita de geranio y la pones en agua, le salen raíces y se vuelve una planta nueva.
+**Contexto:** Algunas plantas no necesitan semillas; si cortas una ramita de geranio y la pones en agua, le salen raíces y se vuelve una planta nueva.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -173,12 +177,12 @@ La reproducción asexual permite que las plantas se extiendan rápidamente sin e
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W13-plantas-reproduccion-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** El polen de los pinos es llevado por el viento a kilómetros de distancia sin ayuda de ningún animal.
+**Contexto:** El polen de los pinos es llevado por el viento a kilómetros de distancia sin ayuda de ningún animal.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -198,12 +202,12 @@ Las plantas que usan el viento suelen producir cantidades inmensas de polen porq
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W13-plantas-reproduccion-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** En un experimento, ponemos semillas en tres vasos: 1. Con tierra húmeda, 2. Con tierra seca, 3. Con algodón empapado en agua.
+**Contexto:** En un experimento, ponemos semillas en tres vasos: 1. Con tierra húmeda, 2. Con tierra seca, 3. Con algodón empapado en agua.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -223,12 +227,12 @@ La germinación requiere agua y temperatura adecuada. El agua ablanda la cáscar
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W13-plantas-reproduccion-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Algunos frutos tienen "ganchos" que se pegan al pelo de los perros o a la ropa de las personas cuando caminamos por el campo.
+**Contexto:** Algunos frutos tienen "ganchos" que se pegan al pelo de los perros o a la ropa de las personas cuando caminamos por el campo.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -248,12 +252,12 @@ Esto se llama dispersión. Si todas las semillas cayeran bajo el árbol madre, h
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W13-plantas-reproduccion-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un agricultor usa veneno para matar a todos los insectos de su campo, incluyendo a las abejas, porque dice que "ensucian las flores con polvo amarillo".
+**Contexto:** Un agricultor usa veneno para matar a todos los insectos de su campo, incluyendo a las abejas, porque dice que "ensucian las flores con polvo amarillo".
 **Expected_Success:** 0.55
 
 ### Enunciado

@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W24-comparacion-textos-multiples-001-MASTERY"
+id: "CO-LC-7-2026-W24-comparacion-textos-multiples-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "comparación de textos múltiples"
-semana: "W24"
+week: "W24"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Comparación de Textos Múltiples - Grado 7
 ## Semana W24 — Análisis comparativo de textos sobre un mismo tema
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W24-comparacion-textos-multiples-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de Lectura Crítica del Colegio La Salle de Bogotá, el profesor introduce el tema de la comparación de textos.
+**Contexto:** En la clase de Lectura Crítica del Colegio La Salle de Bogotá, el profesor introduce el tema de la comparación de textos.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Comparar textos es una habilidad fundamental de lectura crítica. No se trata de
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W24-comparacion-textos-multiples-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Dos periódicos colombianos cubren el mismo evento: la inauguración de un parque en Cali. El primero titula "Nuevo pulmón verde para la ciudad" y destaca los beneficios ambientales. El segundo titula "Millonaria inversión con dudas de corrupción" y enfatiza los sobrecostos.
+**Contexto:** Dos periódicos colombianos cubren el mismo evento: la inauguración de un parque en Cali. El primero titula "Nuevo pulmón verde para la ciudad" y destaca los beneficios ambientales. El segundo titula "Millonaria inversión con dudas de corrupción" y enfatiza los sobrecostos.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -60,11 +64,11 @@ La comparación de las dos noticias revela que los medios no son transmisores ne
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W24-comparacion-textos-multiples-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un estudiante compara un artículo científico sobre el cambio climático con un discurso político sobre el mismo tema.
+**Contexto:** Un estudiante compara un artículo científico sobre el cambio climático con un discurso político sobre el mismo tema.
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -81,11 +85,11 @@ Comparar textos de diferentes géneros revela diferencias fundamentales en prop�
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W24-comparacion-textos-multiples-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Un investigador compara tres textos sobre la minería en el Chocó: uno del gobierno que habla de "desarrollo económico", otro de una ONG ambiental que habla de "destrucción ecológica", y otro de una empresa minera que habla de "progreso responsable".
+**Contexto:** Un investigador compara tres textos sobre la minería en el Chocó: uno del gobierno que habla de "desarrollo económico", otro de una ONG ambiental que habla de "destrucción ecológica", y otro de una empresa minera que habla de "progreso responsable".
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -102,11 +106,11 @@ Al comparar textos sobre un tema controversial, lo primero es identificar la pos
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W24-comparacion-textos-multiples-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un estudiante compara dos reseñas de la misma película colombiana. Una dice: "Una obra maestra del cine nacional, emotiva y profunda". La otra dice: "Un intento fallido, predecible y sobreactuado."
+**Contexto:** Un estudiante compara dos reseñas de la misma película colombiana. Una dice: "Una obra maestra del cine nacional, emotiva y profunda". La otra dice: "Un intento fallido, predecible y sobreactuado."
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -123,11 +127,11 @@ La crítica cultural es inherentemente subjetiva, aunque se apoye en elementos o
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W24-comparacion-textos-multiples-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Se comparan dos textos sobre el servicio militar obligatorio en Colombia. Texto A (2003): "Es un deber patriótico que forma el carácter de los jóvenes." Texto B (2023): "Es una imposición que vulnera derechos y perpetúa desigualdades."
+**Contexto:** Se comparan dos textos sobre el servicio militar obligatorio en Colombia. Texto A (2003): "Es un deber patriótico que forma el carácter de los jóvenes." Texto B (2023): "Es una imposición que vulnera derechos y perpetúa desigualdades."
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -144,11 +148,11 @@ Comparar textos de diferentes épocas sobre el mismo tema revela cómo cambian l
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W24-comparacion-textos-multiples-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un estudiante compara un artículo de Wikipedia sobre la independencia de Colombia con un texto escrito por un historiador especializado en el mismo tema.
+**Contexto:** Un estudiante compara un artículo de Wikipedia sobre la independencia de Colombia con un texto escrito por un historiador especializado en el mismo tema.
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -165,11 +169,11 @@ Comparar Wikipedia (enciclopedia colaborativa) con un texto académico revela di
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W24-comparacion-textos-multiples-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Se comparan tres textos que hablan de la misma protesta estudiantil en Bogotá. Texto 1: un tuit de un estudiante ("Nos reprimieron injustamente"). Texto 2: el reporte oficial de la policía ("Los manifestantes agredieron a las autoridades"). Texto 3: un reportaje de El Tiempo (describe los hechos con testimonios de ambas partes).
+**Contexto:** Se comparan tres textos que hablan de la misma protesta estudiantil en Bogotá. Texto 1: un tuit de un estudiante ("Nos reprimieron injustamente"). Texto 2: el reporte oficial de la policía ("Los manifestantes agredieron a las autoridades"). Texto 3: un reportaje de El Tiempo (describe los hechos con testimonios de ambas partes).
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -186,11 +190,11 @@ Al comparar versiones del mismo evento, el reportaje periodístico que integra t
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W24-comparacion-textos-multiples-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Una empresa publica dos documentos: un informe anual para inversores (con datos financieros positivos) y un informe interno para empleados (donde se mencionan "desafíos significativos").
+**Contexto:** Una empresa publica dos documentos: un informe anual para inversores (con datos financieros positivos) y un informe interno para empleados (donde se mencionan "desafíos significativos").
 **Expected_Success:** 0.46
 
 ### Enunciado
@@ -207,11 +211,11 @@ La comparación de textos dirigidos a diferentes audiencias revela una práctica
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W24-comparacion-textos-multiples-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Indagación
-**Context:** Un estudiante de grado 7 compara el tratamiento del "Día de la Raza" en dos libros de texto de historia: uno de 1990 y uno actual de 2024.
+**Contexto:** Un estudiante de grado 7 compara el tratamiento del "Día de la Raza" en dos libros de texto de historia: uno de 1990 y uno actual de 2024.
 **Expected_Success:** 0.42
 
 ### Enunciado
@@ -228,11 +232,11 @@ Comparar manuales escolares de diferentes épocas es una ventana a la evolución
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W24-comparacion-textos-multiples-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Un estudiante compara una noticia de un medio tradicional sobre el aumento del transporte público en su ciudad con una publicación de un movimiento vecinal en redes sociales.
+**Contexto:** Un estudiante compara una noticia de un medio tradicional sobre el aumento del transporte público en su ciudad con una publicación de un movimiento vecinal en redes sociales.
 **Expected_Success:** 0.40
 
 ### Enunciado
@@ -249,11 +253,11 @@ Al comparar fuentes de diferente naturaleza, el lector crítico evalúa las fort
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W24-comparacion-textos-multiples-001-MASTERY-v12`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** Como proyecto final del período, los estudiantes de grado 7 del Colegio de Zipaquirá deben seleccionar tres textos sobre un mismo tema (pueden ser noticias, columnas, tuits, videos) y compararlos en un informe crítico.
+**Contexto:** Como proyecto final del período, los estudiantes de grado 7 del Colegio de Zipaquirá deben seleccionar tres textos sobre un mismo tema (pueden ser noticias, columnas, tuits, videos) y compararlos en un informe crítico.
 **Expected_Success:** 0.36
 
 ### Enunciado

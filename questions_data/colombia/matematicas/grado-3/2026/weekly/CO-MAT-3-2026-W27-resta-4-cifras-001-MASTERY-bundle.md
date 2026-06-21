@@ -1,11 +1,11 @@
 ---
-id: "CO-MAT-3-2026-W27-resta-4-cifras-001-MASTERY"
+id: "CO-MAT-3-2026-W27-resta-4-cifras-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "matematicas"
 tema: "resta-4-cifras"
 periodo: "weekly"
-semana: 27
+week: "W27"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -20,7 +20,12 @@ rubric_baseline: "resta de numeros de 4 cifras con prestado"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W27: Resta con 4 Cifras
 
@@ -31,12 +36,12 @@ Este bundle evalua resta de numeros de 4 cifras con prestado, en contextos cotid
 **Bloom:** Remember
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.95
-**Context:** En Colegio San Jose de Pasto de Manizales
+**Contexto:** En Colegio San Jose de Pasto de Manizales
 
 ### Enunciado
 Cual es el valor del digito 5 en el numero 453?
 
-### Options
+### Opciones
 - [ ] A) 5 unidades <!-- feedback: Incorrecto. El 5 esta en la posicion de las decenas, no unidades. -->
 - [x] B) 50 (cinco decenas) <!-- feedback: Correcto! En 453, el 5 ocupa la posicion de las decenas (50). -->
 - [ ] C) 500 (cinco centenas) <!-- feedback: Incorrecto. En 453, el 5 no esta en centenas. La centena es 4 (400). -->
@@ -51,12 +56,12 @@ En 453, el 4=centenas(400), el 5=decenas(50) y el 3=unidades(3).
 **Bloom:** Understand
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.91
-**Context:** En Colegio San Francisco de Asis de Popayan de Barranquilla
+**Contexto:** En Colegio San Francisco de Asis de Popayan de Barranquilla
 
 ### Enunciado
 En la biblioteca del Colegio San Francisco de Asis de Popayan, hay 246 libros de ciencia y 189 de historia. Cuantos MAS de ciencia?
 
-### Options
+### Opciones
 - [x] A) 57 <!-- feedback: Correcto! 246-189=57. -->
 - [ ] B) 67 <!-- feedback: Incorrecto. 16-9=7, no 6. -->
 - [ ] C) 47 <!-- feedback: Incorrecto. 16-9=7, no 6. -->
@@ -71,12 +76,12 @@ Unidades:6-9=presto=16-9=7. Decenas:3-8=presto=13-8=5. Centenas:1-1=0. Diferenci
 **Bloom:** Apply
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.87
-**Context:** En Instituto Tecnico Industrial de Cartagena
+**Contexto:** En Instituto Tecnico Industrial de Cartagena
 
 ### Enunciado
 Don Miguel tiene 24 huevos y los empaca en cartones de 6. Cuantos cartones?
 
-### Options
+### Opciones
 - [x] A) 4 <!-- feedback: Correcto! 24 ÷ 6 = 4 cartones. -->
 - [ ] B) 6 <!-- feedback: 6x6=36 huevos, son mas de 24. -->
 - [ ] C) 3 <!-- feedback: 3x6=18 huevos, le sobran 6. -->
@@ -91,12 +96,12 @@ Reparto equitativo: 24 huevos ÷ 6 por carton = 4 cartones.
 **Bloom:** Analyze
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.83
-**Context:** En Colegio San Jose de Pasto de Pasto
+**Contexto:** En Colegio San Jose de Pasto de Pasto
 
 ### Enunciado
 Cual de estas es una fraccion equivalente a 1/2?
 
-### Options
+### Opciones
 - [x] A) 2/4 <!-- feedback: Correcto! 1/2 = 2/4. Ambas representan la mitad. -->
 - [ ] B) 1/4 <!-- feedback: 1/4 es la cuarta parte, no la mitad. -->
 - [ ] C) 3/4 <!-- feedback: 3/4 son tres cuartos, mas de la mitad. -->
@@ -111,12 +116,12 @@ Fracciones equivalentes representan la misma cantidad. 1/2 = 2/4 = 3/6 = 4/8. To
 **Bloom:** Evaluate
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.79
-**Context:** En Liceo Nacional San Mateo de Popayan
+**Contexto:** En Liceo Nacional San Mateo de Popayan
 
 ### Enunciado
 Cuantos vertices tiene un cuadrado?
 
-### Options
+### Opciones
 - [x] A) 4 <!-- feedback: Correcto! Cuadrado tiene 4 vertices (esquinas). -->
 - [ ] B) 3 <!-- feedback: 3 vertices es un triangulo. -->
 - [ ] C) 6 <!-- feedback: 6 vertices es un hexagono. -->
@@ -131,12 +136,12 @@ Vertices: puntos donde se unen los lados. Cuadrado: 4 vertices.
 **Bloom:** Remember
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.75
-**Context:** En Colegio San Luis Gonzaga de Manizales de Bogota
+**Contexto:** En Colegio San Luis Gonzaga de Manizales de Bogota
 
 ### Enunciado
 Si son las 3:00, que hora es?
 
-### Options
+### Opciones
 - [x] A) Las 3 en punto <!-- feedback: Correcto! 3:00 = las 3 en punto. -->
 - [ ] B) Las 3 y media <!-- feedback: 3:30 seria las 3 y media. -->
 - [ ] C) Las 3 y cuarto <!-- feedback: 3:15 seria las 3 y cuarto. -->
@@ -151,12 +156,12 @@ Cuando el minutero esta en el 12, es la hora en punto. 3:00 = las 3 en punto.
 **Bloom:** Understand
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.71
-**Context:** En Gimnasio Campestre de Tunja de Cartagena
+**Contexto:** En Gimnasio Campestre de Tunja de Cartagena
 
 ### Enunciado
 Si en una bolsa hay 3 canicas rojas y 1 azul, cual color es MAS PROBABLE de sacar?
 
-### Options
+### Opciones
 - [x] A) Roja, porque hay mas <!-- feedback: Correcto! 3 rojas > 1 azul, mas probable sacar roja. -->
 - [ ] B) Azul, es mas especial <!-- feedback: La probabilidad depende de la cantidad. -->
 - [ ] C) Ambas igual <!-- feedback: No, hay diferente cantidad. -->
@@ -171,12 +176,12 @@ A mayor cantidad de un color, mayor probabilidad de sacarlo. 3/4 roja vs 1/4 azu
 **Bloom:** Apply
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.67
-**Context:** En Colegio San Agustin de Sincelejo de Sincelejo
+**Contexto:** En Colegio San Agustin de Sincelejo de Sincelejo
 
 ### Enunciado
 Cual es el MENOR? 234, 243, 324, 342
 
-### Options
+### Opciones
 - [x] A) 234 <!-- feedback: Correcto! 234 tiene 2 centenas y 3 decenas. -->
 - [ ] B) 243 <!-- feedback: Incorrecto. 243 > 234. -->
 - [ ] C) 324 <!-- feedback: Incorrecto. 324 tiene 3 centenas. -->
@@ -191,12 +196,12 @@ Compara centenas primero. 234 y 243 tienen 2 centenas. Entre ellos, 3 < 4 decena
 **Bloom:** Analyze
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.63
-**Context:** En Inem Santiago Perez de Armenia de Pasto
+**Contexto:** En Inem Santiago Perez de Armenia de Pasto
 
 ### Enunciado
 Doña Maria compra 3kg papa a $1.200/kg y 2kg cebolla a $800/kg. Cuanto paga?
 
-### Options
+### Opciones
 - [x] A) $5.200 <!-- feedback: Correcto! 3x1.200=3.600, 2x800=1.600. Total:5.200. -->
 - [ ] B) $3.600 <!-- feedback: Faltan las cebollas. -->
 - [ ] C) $4.400 <!-- feedback: 3x1.200=3.600, 2x800=1.600. Total:5.200. -->
@@ -211,12 +216,12 @@ Papas:3x1.200=3.600. Cebollas:2x800=1.600. Total:3.600+1.600=5.200.
 **Bloom:** Evaluate
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.59
-**Context:** En Inem Santiago Perez de Armenia de Sincelejo
+**Contexto:** En Inem Santiago Perez de Armenia de Sincelejo
 
 ### Enunciado
 En el recreo hay 8 mesas con 4 sillas cada una. Total sillas?
 
-### Options
+### Opciones
 - [x] A) 32 <!-- feedback: Correcto! 8x4=32 sillas. -->
 - [ ] B) 12 <!-- feedback: 8+4=12. Hay grupos iguales, se multiplica. -->
 - [ ] C) 16 <!-- feedback: 4x4=16. Son 8 mesas. -->

@@ -1,5 +1,5 @@
 ---
-id: "COL-SOC-CIU-4-2026-W35-relieve-colombiano-montanas-llanuras-costas-001-MASTERY"
+id: "COL-SOC-CIU-4-2026-W35-relieve-colombiano-montanas-llanuras-costas-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "sociales-ciudadanas"
@@ -19,7 +19,12 @@ rubric_baseline: "Relieve colombiano: montañas, llanuras, costas y valles"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Relieve colombiano — Montañas, llanuras y costas
 
@@ -30,14 +35,15 @@ Este bundle explica las principales formas del relieve colombiano: las tres cord
 ## Question 1 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W35-relieve-colombiano-montanas-llanuras-costas-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Relieve de Colombia
+**Contexto:** Relieve de Colombia
 
 ### Enunciado
 ¿Cuántas cordilleras tiene la región Andina en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Una sola cordillera. <!-- feedback: Incorrecto. Colombia tiene tres cordilleras. -->
 - [ ] B) Dos cordilleras. <!-- feedback: Incorrecto. Colombia tiene tres. -->
 - [x] C) Tres cordilleras: Occidental, Central y Oriental. <!-- feedback: Correcto. Los Andes colombianos se dividen en tres ramales. -->
@@ -51,14 +57,15 @@ Este bundle explica las principales formas del relieve colombiano: las tres cord
 ## Question 2 [D3]
 
 **ID:** `COL-SOC-CIU-4-2026-W35-relieve-colombiano-montanas-llanuras-costas-001-MASTERY-v2`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Llanuras
+**Contexto:** Llanuras
 
 ### Enunciado
 ¿Dónde se encuentran las llanuras más extensas de Colombia?
 
-### Options
+### Opciones
 - [ ] A) En la región Pacífica. <!-- feedback: Incorrecto. El Pacífico tiene selvas, no llanuras extensas. -->
 - [x] B) En los Llanos Orientales (Orinoquía) y la Amazonía. <!-- feedback: Correcto. Las llanuras orientales son las más extensas. -->
 - [ ] C) En la región Caribe. <!-- feedback: Incorrecto. El Caribe tiene llanuras pero no tan extensas como las orientales. -->
@@ -72,14 +79,15 @@ Este bundle explica las principales formas del relieve colombiano: las tres cord
 ## Question 3 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W35-relieve-colombiano-montanas-llanuras-costas-001-MASTERY-v3`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Sierra Nevada de Santa Marta
+**Contexto:** Sierra Nevada de Santa Marta
 
 ### Enunciado
 ¿Qué tiene de especial la Sierra Nevada de Santa Marta?
 
-### Options
+### Opciones
 - [ ] A) Es la montaña más alta de Suramérica. <!-- feedback: Incorrecto. El Aconcagua es más alto. -->
 - [x] B) Es la montaña costera más alta del mundo, con picos nevados cerca del mar Caribe. <!-- feedback: Correcto. La Sierra Nevada de Santa Marta es única por su altura junto al mar. -->
 - [ ] C) Es un volcán activo. <!-- feedback: Incorrecto. No es un volcán. -->
@@ -93,14 +101,15 @@ Este bundle explica las principales formas del relieve colombiano: las tres cord
 ## Question 4 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W35-relieve-colombiano-montanas-llanuras-costas-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Valles
+**Contexto:** Valles
 
 ### Enunciado
 ¿Qué valles se forman entre las cordilleras colombianas?
 
-### Options
+### Opciones
 - [ ] A) Valle del Amazonas y Valle del Orinoco. <!-- feedback: Incorrecto. Esos son ríos, no valles interandinos. -->
 - [x] B) Valle del Magdalena (entre las cordilleras Central y Oriental) y Valle del Cauca (entre las cordilleras Occidental y Central). <!-- feedback: Correcto. Estos son los principales valles interandinos. -->
 - [ ] C) Valle de México y Valle de Chile. <!-- feedback: Incorrecto. No están en Colombia. -->
@@ -114,14 +123,15 @@ Este bundle explica las principales formas del relieve colombiano: las tres cord
 ## Question 5 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W35-relieve-colombiano-montanas-llanuras-costas-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Pico más alto
+**Contexto:** Pico más alto
 
 ### Enunciado
 ¿Cuáles son los picos más altos de Colombia?
 
-### Options
+### Opciones
 - [ ] A) El Everest y el K2. <!-- feedback: Incorrecto. Esos están en el Himalaya. -->
 - [ ] B) El Cerro de Monserrate. <!-- feedback: Incorrecto. Es una colina en Bogotá. -->
 - [x] C) Los picos Cristóbal Colón y Simón Bolívar en la Sierra Nevada de Santa Marta. <!-- feedback: Correcto. Son los picos más altos del país. -->
@@ -135,14 +145,15 @@ Este bundle explica las principales formas del relieve colombiano: las tres cord
 ## Question 6 [D4]
 
 **ID:** `COL-SOC-CIU-4-2026-W35-relieve-colombiano-montanas-llanuras-costas-001-MASTERY-v6`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Costas colombianas
+**Contexto:** Costas colombianas
 
 ### Enunciado
 ¿Qué tipo de relieve predomina en las costas colombianas?
 
-### Options
+### Opciones
 - [ ] A) Solo altas montañas. <!-- feedback: Incorrecto. Las costas tienen varios tipos de relieve. -->
 - [x] B) Playas, acantilados, bahías, deltas y manglares. <!-- feedback: Correcto. Las costas colombianas tienen diversos accidentes geográficos. -->
 - [ ] C) Desiertos de arena. <!-- feedback: Incorrecto. Solo La Guajira tiene desierto. -->
@@ -156,14 +167,15 @@ Este bundle explica las principales formas del relieve colombiano: las tres cord
 ## Question 7 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W35-relieve-colombiano-montanas-llanuras-costas-001-MASTERY-v7`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Influencia del relieve
+**Contexto:** Influencia del relieve
 
 ### Enunciado
 ¿Cómo influye el relieve en la vida de las personas en Colombia?
 
-### Options
+### Opciones
 - [ ] A) No influye en nada. <!-- feedback: Incorrecto. El relieve tiene gran influencia. -->
 - [ ] B) Solo afecta el clima. <!-- feedback: Parcialmente cierto, pero hay más factores. -->
 - [x] C) Determina dónde se concentra la población, las actividades económicas, el clima y la biodiversidad. <!-- feedback: Correcto. El relieve es fundamental en la distribución de la población y las actividades. -->
@@ -177,14 +189,15 @@ Este bundle explica las principales formas del relieve colombiano: las tres cord
 ## Question 8 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W35-relieve-colombiano-montanas-llanuras-costas-001-MASTERY-v8`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Volcanes en Colombia
+**Contexto:** Volcanes en Colombia
 
 ### Enunciado
 ¿Dónde se encuentran los principales volcanes de Colombia?
 
-### Options
+### Opciones
 - [ ] A) En la llanura amazónica. <!-- feedback: Incorrecto. No hay volcanes en la Amazonía. -->
 - [ ] B) En la Sierra Nevada de Santa Marta. <!-- feedback: Incorrecto. Allí no hay volcanes. -->
 - [x] C) En la Cordillera Central, especialmente en los departamentos de Nariño, Cauca, Tolima y Caldas. <!-- feedback: Correcto. La Cordillera Central concentra los volcanes activos e inactivos de Colombia. -->
@@ -198,14 +211,15 @@ Este bundle explica las principales formas del relieve colombiano: las tres cord
 ## Question 9 [D5]
 
 **ID:** `COL-SOC-CIU-4-2026-W35-relieve-colombiano-montanas-llanuras-costas-001-MASTERY-v9`
-**Bloom:** [Evaluate]
+**Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Vivir en montaña vs llanura
+**Contexto:** Vivir en montaña vs llanura
 
 ### Enunciado
 ¿Crees que es mejor vivir en la montaña o en la llanura?
 
-### Options
+### Opciones
 - [ ] A) Siempre es mejor la montaña. <!-- feedback: Incorrecto. Depende de las necesidades. -->
 - [ ] B) Siempre es mejor la llanura. <!-- feedback: Incorrecto. Depende del contexto. -->
 - [x] C) Cada relieve tiene ventajas y desventajas; en las montañas hay mejor clima pero menos espacio, en las llanuras hay más espacio pero más calor. <!-- feedback: Correcto. Cada relieve ofrece condiciones diferentes. -->
@@ -220,13 +234,14 @@ Este bundle explica las principales formas del relieve colombiano: las tres cord
 
 **ID:** `COL-SOC-CIU-4-2026-W35-relieve-colombiano-montanas-llanuras-costas-001-MASTERY-v10`
 **Bloom:** [Create]
+**Expected_Success:** 0.75
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Mapa del relieve
+**Contexto:** Mapa del relieve
 
 ### Enunciado
 Diseña un mapa del relieve colombiano para enseñar a tus compañeros. ¿Qué incluirías?
 
-### Options
+### Opciones
 - [ ] A) Solo los nombres de las ciudades. <!-- feedback: Incorrecto. Un mapa de relieve debe incluir accidentes geográficos. -->
 - [x] B) Las tres cordilleras, los valles del Magdalena y Cauca, las llanuras orientales, la Sierra Nevada, las costas y los principales picos. <!-- feedback: Correcto. Un buen mapa de relieve incluye los principales accidentes geográficos. -->
 - [ ] C) Solo los ríos más importantes. <!-- feedback: Incorrecto. Eso sería un mapa hidrográfico. -->

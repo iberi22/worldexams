@@ -1,5 +1,5 @@
 ---
-id: "CO-MAT-6-2026-W17-geometria-poligonos-perimetros-001-MASTERY"
+id: "CO-MAT-6-2026-W17-geometria-poligonos-perimetros-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
@@ -15,7 +15,9 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 license: "FREE"
 tier: "legacy"
 
+creador: "Jules-Agent"
 ---
+
 
 # Weekly Pack W17 — Geometría: Polígonos y Perímetros
 
@@ -27,13 +29,14 @@ tier: "legacy"
 
 **ID:** `CO-MAT-6-2026-W17-geometria-poligonos-perimetros-001-MASTERY-001-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Figuras en clase de geometria
+**Contexto:** Figuras en clase de geometria
 
 ### Enunciado
 ¿Qué es un polígono?
 
-### Options
+### Opciones
 - [x] A) Una figura plana cerrada formada por segmentos de recta <!-- feedback: Correcto. Los polígonos son figuras planas cerradas con lados rectos. -->
 - [ ] B) Una figura tridimensional con caras planas <!-- feedback: Incorrecto. Esa es la definición de un poliedro, no de un polígono. -->
 - [ ] C) Una línea curva cerrada <!-- feedback: Incorrecto. Un polígono se forma con segmentos de RECTA, no con curvas. -->
@@ -48,13 +51,14 @@ Un polígono es una figura geométrica plana formada por segmentos de recta (lad
 
 **ID:** `CO-MAT-6-2026-W17-geometria-poligonos-perimetros-001-MASTERY-002-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Cercado de un terreno
+**Contexto:** Cercado de un terreno
 
 ### Enunciado
 Don Alberto quiere cercar su terreno rectangular que mide 12 m de largo y 8 m de ancho. ¿Cuántos metros de alambre necesita para dar una vuelta?
 
-### Options
+### Opciones
 - [x] A) 40 m <!-- feedback: Correcto. Perímetro = 2×(12+8) = 2×20 = 40 m. -->
 - [ ] B) 20 m <!-- feedback: Incorrecto. 12+8=20 es solo la suma de un largo y un ancho. El perímetro es 2×(largo+ancho)=40 m. -->
 - [ ] C) 96 m <!-- feedback: Incorrecto. 12×8=96 es el ÁREA, no el perímetro. -->
@@ -69,13 +73,14 @@ El perímetro de un rectángulo se calcula sumando todos sus lados: P = 2×(larg
 
 **ID:** `CO-MAT-6-2026-W17-geometria-poligonos-perimetros-001-MASTERY-003-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicacion y representacion
-**Context:** Decoración con cinta
+**Contexto:** Decoración con cinta
 
 ### Enunciado
 La profesora quiere poner cinta decorativa alrededor de un cartel con forma de triángulo equilátero de 45 cm de lado. ¿Cuánta cinta necesita?
 
-### Options
+### Opciones
 - [x] A) 135 cm <!-- feedback: Correcto. Triángulo equilátero: 3 lados iguales. Perímetro = 3×45 = 135 cm. -->
 - [ ] B) 90 cm <!-- feedback: Incorrecto. 2×45=90. Error: solo contar dos lados. Un triángulo tiene 3. -->
 - [ ] C) 180 cm <!-- feedback: Incorrecto. 4×45=180. Error: contar 4 lados como si fuera un cuadrado. -->
@@ -90,13 +95,14 @@ Un triángulo equilátero tiene sus 3 lados iguales. Perímetro = 45+45+45 = 135
 
 **ID:** `CO-MAT-6-2026-W17-geometria-poligonos-perimetros-001-MASTERY-004-v1`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Vueltas al patio del colegio
+**Contexto:** Vueltas al patio del colegio
 
 ### Enunciado
 El patio del colegio tiene forma de hexágono regular. Cada lado mide 15 m. Si los estudiantes dan 3 vueltas alrededor del patio, ¿cuántos metros recorren?
 
-### Options
+### Opciones
 - [x] A) 270 m <!-- feedback: Correcto. Perímetro: 6×15=90 m. 3 vueltas: 90×3=270 m. -->
 - [ ] B) 90 m <!-- feedback: Incorrecto. Eso es una vuelta: 6×15=90 m. La pregunta dice 3 vueltas: 90×3=270 m. -->
 - [ ] C) 180 m <!-- feedback: Incorrecto. Error: solo 2 vueltas en vez de 3. -->
@@ -111,13 +117,14 @@ Perímetro del hexágono: 6×15 m = 90 m. Tres vueltas: 3×90 m = 270 metros.
 
 **ID:** `CO-MAT-6-2026-W17-geometria-poligonos-perimetros-001-MASTERY-005-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Alambre para artesanías
+**Contexto:** Alambre para artesanías
 
 ### Enunciado
 Marta hace artesanías con alambre. Necesita hacer un pentágono regular de 8 cm de lado. ¿Cuánto alambre necesita para 6 pentágonos iguales?
 
-### Options
+### Opciones
 - [x] A) 240 cm <!-- feedback: Correcto. Un pentágono: 5×8=40 cm. 6 pentágonos: 40×6=240 cm. -->
 - [ ] B) 48 cm <!-- feedback: Incorrecto. 8×6=48. Ese es el alambre para 6 lados sueltos, no 6 pentágonos completos. -->
 - [ ] C) 288 cm <!-- feedback: Incorrecto. 8×6×6=288. Error: contar 6 lados por pentágono (un pentágono tiene 5). -->
@@ -132,13 +139,14 @@ Perímetro de un pentágono: 5×8 cm=40 cm. Para 6 pentágonos: 6×40 cm=240 cm 
 
 **ID:** `CO-MAT-6-2026-W17-geometria-poligonos-perimetros-001-MASTERY-006-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Postes para cerca
+**Contexto:** Postes para cerca
 
 ### Enunciado
 Don Carlos tiene un terreno con forma de cuadrilátero con lados: 23 m, 18 m, 25 m y 20 m. Quiere poner cerca con postes cada 2 metros. ¿Cuántos postes necesita?
 
-### Options
+### Opciones
 - [x] A) 43 postes <!-- feedback: Correcto. Perímetro: 23+18+25+20=86 m. Postes: 86÷2=43. -->
 - [ ] B) 86 postes <!-- feedback: Incorrecto. 86 es el perímetro. Si los postes van cada 2 m: 86÷2=43. -->
 - [ ] C) 22 postes <!-- feedback: Incorrecto. 86÷4=21,5≈22. Error: dividir entre 4 en vez de entre 2. -->
@@ -153,13 +161,14 @@ Perímetro = 23+18+25+20 = 86 m. Postes cada 2 m: 86÷2=43 postes.
 
 **ID:** `CO-MAT-6-2026-W17-geometria-poligonos-perimetros-001-MASTERY-007-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Comparación de terrenos
+**Contexto:** Comparación de terrenos
 
 ### Enunciado
 ¿Cuál terreno tiene mayor perímetro? Un cuadrado de 9 m de lado o un rectángulo de 12 m de largo y 6 m de ancho?
 
-### Options
+### Opciones
 - [x] A) Ambos tienen el mismo perímetro: 36 m. <!-- feedback: Correcto. Cuadrado: 4×9=36. Rectángulo: 2×(12+6)=36. Son iguales. -->
 - [ ] B) El rectángulo, porque 12+6=18 es mayor que 9 <!-- feedback: Incorrecto. 12+6=18 es la mitad del perímetro. Perímetro completo: 2×18=36 m. -->
 - [ ] C) El cuadrado, porque tiene lados más parejos <!-- feedback: Incorrecto. Ambos perímetros son 36 m. Son iguales. -->
@@ -174,13 +183,14 @@ Cuadrado: P=4×9=36 m. Rectángulo: P=2×(12+6)=2×18=36 m. Ambos terrenos tiene
 
 **ID:** `CO-MAT-6-2026-W17-geometria-poligonos-perimetros-001-MASTERY-008-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Resolucion de problemas
-**Context:** Pista de atletismo
+**Contexto:** Pista de atletismo
 
 ### Enunciado
 Una pista de atletismo tiene forma rectangular con un largo de 100 m y un ancho de 60 m. Un atleta da 5 vueltas a la pista. ¿Cuántos metros corre en total?
 
-### Options
+### Opciones
 - [x] A) 1.600 m <!-- feedback: Correcto. Perímetro: 2×(100+60)=320 m. 5 vueltas: 320×5=1.600 m. -->
 - [ ] B) 800 m <!-- feedback: Incorrecto. 320×2,5=800. Error: solo 2,5 vueltas en vez de 5. -->
 - [ ] C) 3.200 m <!-- feedback: Incorrecto. 320×10=3.200. Error: 10 vueltas en vez de 5. -->
@@ -195,13 +205,14 @@ Perímetro: 2×(100+60)=320 m. 5 vueltas: 5×320=1.600 m (1,6 km).
 
 **ID:** `CO-MAT-6-2026-W17-geometria-poligonos-perimetros-001-MASTERY-009-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Cerco alrededor de jardín
+**Contexto:** Cerco alrededor de jardín
 
 ### Enunciado
 Un jardín rectangular tiene 15 m de largo. Su ancho es 1/3 del largo. Se quiere poner una cerca que cuesta $12.000 el metro. ¿Cuánto cuesta cercar todo el jardín?
 
-### Options
+### Opciones
 - [x] A) $480.000 <!-- feedback: Correcto. Ancho=15÷3=5 m. Perímetro=2×(15+5)=40 m. Costo=40×12.000=480.000. -->
 - [ ] B) $240.000 <!-- feedback: Incorrecto. Perímetro=40 m. 20×12.000=240.000. Error: usar solo la mitad del perímetro. -->
 - [ ] C) $720.000 <!-- feedback: Incorrecto. 60×12.000=720.000. Error: calcular área (15×5=75) en vez de perímetro. -->
@@ -216,13 +227,14 @@ Ancho = 1/3 de 15 m = 5 m. Perímetro = 2×(15+5)=40 m. Costo = 40×$12.000=$480
 
 **ID:** `CO-MAT-6-2026-W17-geometria-poligonos-perimetros-001-MASTERY-010-v1`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y argumentacion
-**Context:** Diseño de corral
+**Contexto:** Diseño de corral
 
 ### Enunciado
 Un granjero tiene 60 m de malla para hacer un corral rectangular. Si el largo debe ser el doble del ancho, ¿cuáles deben ser las dimensiones del corral?
 
-### Options
+### Opciones
 - [x] A) Ancho=10 m, Largo=20 m <!-- feedback: Correcto. 2×(10+20)=60 m. Largo=2×ancho=20 m. -->
 - [ ] B) Ancho=15 m, Largo=30 m <!-- feedback: Incorrecto. 2×(15+30)=90 m. Excede los 60 m de malla. -->
 - [ ] C) Ancho=12 m, Largo=24 m <!-- feedback: Incorrecto. 2×(12+24)=72 m. Excede los 60 m. -->

@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY"
+id: "CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "recursos-no-renovables"
-semana: "W26"
+week: "W26"
 periodo: 3
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Recursos naturales no renovables: petróleo, carbón, gas natu
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Recursos Naturales No Renovables
 
 Este bundle explora los recursos que la Tierra ha tardado millones de años en formar y que se agotan a medida que los extraemos, resaltando la importancia de buscar alternativas limpias.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una mina de carbón en el Cesar, los camiones sacan toneladas de rocas negras que se queman para dar calor y energía.
+**Contexto:** En una mina de carbón en el Cesar, los camiones sacan toneladas de rocas negras que se queman para dar calor y energía.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ Los recursos no renovables son como una cuenta de ahorros a la que solo se le sa
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** El petróleo es un líquido oscuro que se extrae de pozos muy profundos bajo la tierra.
+**Contexto:** El petróleo es un líquido oscuro que se extrae de pozos muy profundos bajo la tierra.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -73,12 +77,12 @@ Casi todo lo que usamos hoy depende del petróleo. La ropa sintética, tus jugue
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** El gas natural llega por tuberías a las cocinas de muchas casas en Colombia para preparar los alimentos.
+**Contexto:** El gas natural llega por tuberías a las cocinas de muchas casas en Colombia para preparar los alimentos.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -98,12 +102,12 @@ El gas natural se encuentra a menudo junto al petróleo. Ambos se formaron por l
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Los minerales como el oro, la plata y el cobre se usan para fabricar joyas y componentes de computadoras.
+**Contexto:** Los minerales como el oro, la plata y el cobre se usan para fabricar joyas y componentes de computadoras.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ Todos los metales son recursos no renovables. Por eso es tan importante el recic
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Mariana tiene una estufa que funciona con gas natural y su tía tiene una que funciona con leña de árboles de su propia finca.
+**Contexto:** Mariana tiene una estufa que funciona con gas natural y su tía tiene una que funciona con leña de árboles de su propia finca.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -148,12 +152,12 @@ La diferencia está en el tiempo de reposición. Un árbol tarda 20 años en cre
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** La mayoría de los recursos no renovables, como el carbón y el petróleo, liberan mucho humo sucio cuando se usan para producir energía.
+**Contexto:** La mayoría de los recursos no renovables, como el carbón y el petróleo, liberan mucho humo sucio cuando se usan para producir energía.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -173,12 +177,12 @@ Los recursos no renovables tienen dos problemas: se acaban y contaminan. Por eso
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Se necesitan miles de litros de agua para extraer el oro y el carbón de las minas.
+**Contexto:** Se necesitan miles de litros de agua para extraer el oro y el carbón de las minas.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -198,12 +202,12 @@ El uso de un recurso no renovable a menudo daña un recurso renovable. La miner�
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Tienes que elegir entre comprar un juguete de madera o uno de plástico.
+**Contexto:** Tienes que elegir entre comprar un juguete de madera o uno de plástico.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -223,12 +227,12 @@ Nuestras decisiones de compra afectan al planeta. Preferir materiales naturales 
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Los científicos buscan desesperadamente nuevas formas de mover los carros sin usar gasolina.
+**Contexto:** Los científicos buscan desesperadamente nuevas formas de mover los carros sin usar gasolina.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -248,12 +252,12 @@ Esto se llama transición energética. Como sabemos que el petróleo y el carbó
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W26-recursos-no-renovables-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un empresario dice: "Saquemos todo el carbón ahora mismo para ser ricos, no importa que mañana no quede nada".
+**Contexto:** Un empresario dice: "Saquemos todo el carbón ahora mismo para ser ricos, no importa que mañana no quede nada".
 **Expected_Success:** 0.55
 
 ### Enunciado

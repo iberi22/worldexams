@@ -1,5 +1,5 @@
 ---
-id: "CO-SOC-6-2026-P1-ramas-poder-publico-001-MASTERY"
+id: "CO-SOC-6-2026-P1-ramas-poder-publico-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "sociales-ciudadanas"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "ramas_poder_publico, separacion_poderes, checks_and_balances, organos_control, organizacion_estado"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Ramas del Poder Público
 
@@ -24,17 +31,17 @@ Este bundle cubre la organización del poder público en Colombia: las tres rama
 
 ---
 
-## Question 1
-
+## Question 1 [D1]
 **ID:** `CO-SOC-6-2026-P1-ramas-poder-publico-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuántas ramas del poder público existen en Colombia según la Constitución de 1991?
 
-### Options
+### Opciones
 - [ ] A) Dos: Ejecutiva y Judicial <!-- feedback: Incorrecto. Faltaría la Legislativa. -->
 - [x] B) Tres: Ejecutiva, Legislativa y Judicial <!-- feedback: Correcto. Son las tres ramas clásicas del poder público. -->
 - [ ] C) Cuatro: Ejecutiva, Legislativa, Judicial y Electoral <!-- feedback: Incorrecto. La Electoral es un órgano autónomo, no una rama del poder. -->
@@ -45,17 +52,17 @@ La separación de poderes evita la concentración del poder en una sola persona 
 
 ---
 
-## Question 2
-
+## Question 2 [D1]
 **ID:** `CO-SOC-6-2026-P1-ramas-poder-publico-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Quién es la máxima autoridad de la Rama Ejecutiva en Colombia?
 
-### Options
+### Opciones
 - [ ] A) El presidente del Congreso <!-- feedback: Incorrecto. El Congreso es la rama Legislativa. -->
 - [x] B) El presidente de la República <!-- feedback: Correcto. El presidente es jefe de Estado, jefe de Gobierno y suprema autoridad administrativa. -->
 - [ ] C) El presidente de la Corte Suprema de Justicia <!-- feedback: Incorrecto. Es la máxima autoridad de la rama Judicial en justicia ordinaria. -->
@@ -66,17 +73,17 @@ La Rama Ejecutiva está encabezada por el presidente de la República, quien es 
 
 ---
 
-## Question 3
-
+## Question 3 [D1]
 **ID:** `CO-SOC-6-2026-P1-ramas-poder-publico-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es la función principal de la Rama Legislativa (Congreso de la República)?
 
-### Options
+### Opciones
 - [ ] A) Juzgar a los delincuentes <!-- feedback: Incorrecto. Es función de la Rama Judicial. -->
 - [x] B) Hacer las leyes y ejercer control político sobre el gobierno <!-- feedback: Correcto. El Congreso elabora, modifica y deroga leyes, y vigila al Ejecutivo. -->
 - [ ] C) Administrar los recursos del Estado <!-- feedback: Incorrecto. Administrar el presupuesto es función del Ejecutivo. -->
@@ -87,17 +94,17 @@ El Congreso está compuesto por el Senado (representación nacional) y la Cámar
 
 ---
 
-## Question 4
-
+## Question 4 [D1]
 **ID:** `CO-SOC-6-2026-P1-ramas-poder-publico-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Pensamiento social
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál de las siguientes instituciones pertenece a la Rama Judicial?
 
-### Options
+### Opciones
 - [ ] A) El Ministerio de Educación <!-- feedback: Incorrecto. Es parte del Ejecutivo. -->
 - [ ] B) El Congreso de la República <!-- feedback: Incorrecto. Es la Rama Legislativa. -->
 - [x] C) La Corte Suprema de Justicia <!-- feedback: Correcto. Es la máxima autoridad de la justicia ordinaria en Colombia. -->
@@ -108,17 +115,17 @@ La Rama Judicial está conformada por la Corte Suprema de Justicia, la Corte Con
 
 ---
 
-## Question 5
-
+## Question 5 [D1]
 **ID:** `CO-SOC-6-2026-P1-ramas-poder-publico-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Comunicación y Representación
 **Expected_Success:** 0.60
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Qué función cumple la Fiscalía General de la Nación dentro de la Rama Judicial?
 
-### Options
+### Opciones
 - [ ] A) Crear nuevas leyes <!-- feedback: Incorrecto. Crear leyes es función del Congreso. -->
 - [ ] B) Cobrar impuestos <!-- feedback: Incorrecto. Cobrar impuestos es función de la DIAN, que depende del Ejecutivo. -->
 - [x] C) Investigar y acusar a los presuntos responsables de cometer delitos <!-- feedback: Correcto. La Fiscalía adelanta la investigación penal y presenta acusaciones ante los jueces. -->
@@ -129,17 +136,17 @@ La Fiscalía hace parte de la Rama Judicial pero tiene autonomía administrativa
 
 ---
 
-## Question 6
-
+## Question 6 [D1]
 **ID:** `CO-SOC-6-2026-P1-ramas-poder-publico-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Si el Congreso está discutiendo un proyecto de ley que todos los colombianos deben conocer, ¿qué mecanismo permite que los ciudadanos se informen y participen?
 
-### Options
+### Opciones
 - [ ] A) Las sesiones secretas del Congreso <!-- feedback: Incorrecto. En Colombia las sesiones del Congreso deben ser públicas. -->
 - [x] B) El derecho a presenciar las sesiones del Congreso, que son públicas, y el control ciudadano a través de los medios de comunicación <!-- feedback: Correcto. El Congreso sesiona en público y los ciudadanos pueden asistir. -->
 - [ ] C) Los ciudadanos no pueden saber lo que hace el Congreso <!-- feedback: Incorrecto. El principio de publicidad es fundamental en una democracia. -->
@@ -150,17 +157,17 @@ El principio de publicidad de los actos del Estado (art. 209 de la Constitución
 
 ---
 
-## Question 7
-
+## Question 7 [D1]
 **ID:** `CO-SOC-6-2026-P1-ramas-poder-publico-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Formulación y Ejecución
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 Un juez de la República debe decidir un caso de robo. ¿Qué documento debe consultar como guía principal para tomar su decisión?
 
-### Options
+### Opciones
 - [ ] A) El horóscopo del día <!-- feedback: Incorrecto. Las decisiones judiciales se basan en la ley, no en creencias. -->
 - [x] B) La Constitución, las leyes y el Código Penal <!-- feedback: Correcto. Los jueces deben aplicar el ordenamiento jurídico colombiano. -->
 - [ ] C) La opinión del presidente <!-- feedback: Incorrecto. El presidente no puede influir en decisiones judiciales. -->
@@ -171,17 +178,17 @@ La independencia judicial es un pilar del Estado de Derecho. Los jueces solo est
 
 ---
 
-## Question 8
-
+## Question 8 [D1]
 **ID:** `CO-SOC-6-2026-P1-ramas-poder-publico-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Por qué es importante que existan órganos de control como la Procuraduría General de la Nación y la Contraloría General de la República?
 
-### Options
+### Opciones
 - [ ] A) Para que el presidente tenga más poder <!-- feedback: Incorrecto. Los órganos de control fiscalizan al poder, no lo aumentan. -->
 - [x] B) Para vigilar que los servidores públicos cumplan con sus funciones y que los recursos públicos se usen correctamente <!-- feedback: Correcto. La Procuraduría vigila a los funcionarios y la Contraloría fiscaliza los recursos. -->
 - [ ] C) Para cobrar impuestos a los ciudadanos pobres <!-- feedback: Incorrecto. No son entidades recaudadoras. -->
@@ -192,17 +199,17 @@ Estos órganos autónomos son fundamentales para combatir la corrupción. La Pro
 
 ---
 
-## Question 9
-
+## Question 9 [D1]
 **ID:** `CO-SOC-6-2026-P1-ramas-poder-publico-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Razonamiento y Argumentación
 **Expected_Success:** 0.45
+**Contexto:** Contexto de la pregunta.
 
 ### Enunciado
 ¿Cuál es la diferencia entre un gobernador y un alcalde en Colombia?
 
-### Options
+### Opciones
 - [ ] A) Son lo mismo, solo cambia el nombre según la región <!-- feedback: Incorrecto. Tienen jurisdicciones diferentes. -->
 - [x] B) El gobernador es la máxima autoridad del departamento y el alcalde es la máxima autoridad del municipio <!-- feedback: Correcto. Ambos son elegidos popularmente pero en diferentes niveles territoriales. -->
 - [ ] C) El gobernador es elegido por el presidente y el alcalde por voto popular <!-- feedback: Incorrecto. Ambos son elegidos por voto popular desde 1988. -->
@@ -223,7 +230,7 @@ Colombia tiene tres niveles de gobierno: nacional (presidente), departamental (g
 ### Enunciado
 Analiza: un gobernador quiere construir una carretera, pero la Asamblea Departamental (que legisla a nivel departamental) le niega los recursos. El gobernador decide construir igual con dinero de otra partida. ¿Qué principio constitucional estaría violando?
 
-### Options
+### Opciones
 - [ ] A) El principio de buena vecindad <!-- feedback: Incorrecto. No aplica aquí. -->
 - [x] B) El principio de separación de poderes y legalidad del gasto público <!-- feedback: Correcto. El Ejecutivo no puede gastar recursos sin autorización del órgano legislativo correspondiente. -->
 - [ ] C) El principio de libre circulación de personas <!-- feedback: Incorrecto. No se relaciona con el gasto público. -->

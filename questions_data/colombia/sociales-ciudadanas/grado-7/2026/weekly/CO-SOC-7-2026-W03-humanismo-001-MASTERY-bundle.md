@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W03-humanismo-001-MASTERY"
+id: "CO-SOC-7-2026-W03-humanismo-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-ciudadanas"
 tema: "humanismo"
-semana: "W03"
+week: "W03"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026 — Pensamiento Social"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Humanismo — Grado 7
 ## Semana W03 — El humanismo: el ser humano como centro del pensamiento
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W03-humanismo-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En la clase de sociales del Colegio Los Nogales de Bogotá, la profesora pregunta qué es el humanismo.
+**Contexto:** En la clase de sociales del Colegio Los Nogales de Bogotá, la profesora pregunta qué es el humanismo.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ El humanismo fue el movimiento intelectual más importante del Renacimiento. Sur
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-SOC-7-2026-W03-humanismo-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del INEM de Cali leen el "Discurso sobre la dignidad del hombre" de Giovanni Pico della Mirandola (1486).
+**Contexto:** Los estudiantes del INEM de Cali leen el "Discurso sobre la dignidad del hombre" de Giovanni Pico della Mirandola (1486).
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ Pico della Mirandola (1463-1494) escribió el "Discurso sobre la dignidad del ho
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-SOC-7-2026-W03-humanismo-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En el colegio San José de Medellín, Camila estudia los principales representantes del humanismo europeo.
+**Contexto:** En el colegio San José de Medellín, Camila estudia los principales representantes del humanismo europeo.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -81,11 +85,11 @@ Francesco Petrarca (1304-1374) es reconocido como "el padre del humanismo" por v
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-SOC-7-2026-W03-humanismo-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Argumentación
-**Context:** En la I.E. de Bucaramanga, los estudiantes discuten cómo el humanismo cambió la educación en Europa.
+**Contexto:** En la I.E. de Bucaramanga, los estudiantes discuten cómo el humanismo cambió la educación en Europa.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -102,11 +106,11 @@ El humanismo revolucionó la educación al proponer las **"studia humanitatis"**
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-SOC-7-2026-W03-humanismo-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** La profesora del colegio de Cartagena lee un fragmento de "Elogio de la Locura" de Erasmo de Rotterdam.
+**Contexto:** La profesora del colegio de Cartagena lee un fragmento de "Elogio de la Locura" de Erasmo de Rotterdam.
 **Expected_Success:** 0.77
 
 ### Enunciado
@@ -123,11 +127,11 @@ Erasmo de Rotterdam (1466-1536) fue el humanista cristiano más influyente del R
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-SOC-7-2026-W03-humanismo-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Pereira, Santiago pregunta si el humanismo tuvo alguna influencia en la forma en que los españoles gobernaron sus colonias americanas.
+**Contexto:** En el colegio de Pereira, Santiago pregunta si el humanismo tuvo alguna influencia en la forma en que los españoles gobernaron sus colonias americanas.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ El humanismo influyó directamente en el famoso debate sobre la naturaleza de lo
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-SOC-7-2026-W03-humanismo-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Ibagué, los estudiantes comparan la mentalidad medieval con la humanista y deben identificar sus diferencias fundamentales.
+**Contexto:** En el colegio de Ibagué, los estudiantes comparan la mentalidad medieval con la humanista y deben identificar sus diferencias fundamentales.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ La diferencia fundamental entre la mentalidad medieval y la humanista es el **ce
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-SOC-7-2026-W03-humanismo-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Social
-**Context:** En la I.E. de Villavicencio, los estudiantes analizan cómo la imprenta y el humanismo se potenciaron mutuamente.
+**Contexto:** En la I.E. de Villavicencio, los estudiantes analizan cómo la imprenta y el humanismo se potenciaron mutuamente.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ La imprenta (c. 1440) y el humanismo fueron dos fuerzas que se reforzaron mutuam
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-SOC-7-2026-W03-humanismo-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Cúcuta, la profesora presenta una carta de Cristóbal Colón a los Reyes Católicos donde describe a los indígenas taínos.
+**Contexto:** En el colegio de Cúcuta, la profesora presenta una carta de Cristóbal Colón a los Reyes Católicos donde describe a los indígenas taínos.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -207,11 +211,11 @@ La aplicación del pensamiento humanista a la cuestión indígena generó uno de
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W03-humanismo-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Manizales, los estudiantes evalúan si el humanismo sigue siendo relevante en el mundo actual.
+**Contexto:** En el colegio de Manizales, los estudiantes evalúan si el humanismo sigue siendo relevante en el mundo actual.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -228,11 +232,11 @@ El humanismo renacentista dejó un legado profundo que sigue vigente: (1) la **D
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-SOC-7-2026-W03-humanismo-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Sincelejo, el profesor presenta un texto del filósofo renacentista Michel de Montaigne sobre la diversidad cultural.
+**Contexto:** En el colegio de Sincelejo, el profesor presenta un texto del filósofo renacentista Michel de Montaigne sobre la diversidad cultural.
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -249,11 +253,11 @@ Michel de Montaigne (1533-1592) fue un filósofo humanista francés que desarrol
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W03-humanismo-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** La profesora de sociales del colegio de Bogotá propone un debate: ¿el humanismo es un ideal universal o un producto exclusivamente europeo?
+**Contexto:** La profesora de sociales del colegio de Bogotá propone un debate: ¿el humanismo es un ideal universal o un producto exclusivamente europeo?
 **Expected_Success:** 0.42
 
 ### Enunciado

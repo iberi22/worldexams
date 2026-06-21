@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-7-2026-P1-tesis-argumentos-INDEX-MASTERY"
+id: "CO-LEC-7-2026-P1-tesis-argumentos-INDEX-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "tesis, argumentos de apoyo, tipos de argumento, estructura persuasiva, premisas, conclusión"
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G7 — Tesis y Argumentos
 
@@ -35,12 +42,13 @@ rubric_baseline: "tesis, argumentos de apoyo, tipos de argumento, estructura per
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Qué porcentaje de casos de ciberacoso en Colombia afecta a niños de 10 a 13 años?
 
-### Options
+### Opciones
 - [ ] A) 20%. <!-- feedback: Incorrecto. -->
 - [x] B) 40%. <!-- feedback: Correcto. -->
 - [ ] C) 60%. <!-- feedback: Incorrecto. -->
@@ -52,12 +60,13 @@ Identificación de un dato estadístico.
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Qué ley colombiana menciona la Postura 2 sobre convivencia escolar?
 
-### Options
+### Opciones
 - [ ] A) Ley 100 de 1993. <!-- feedback: Incorrecto. -->
 - [ ] B) Ley 115 de 1994. <!-- feedback: Incorrecto. -->
 - [x] C) Ley 1620 de 2013. <!-- feedback: Correcto. -->
@@ -69,12 +78,13 @@ Identificación de una referencia legal explícita.
 ## Question 3 [D4 - Tesis]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Cuál es la tesis de la Postura 1?
 
-### Options
+### Opciones
 - [ ] A) Las redes sociales son buenas para los niños. <!-- feedback: Incorrecto. -->
 - [x] B) Debe prohibirse el registro en redes a menores de 14 años. <!-- feedback: Correcto. -->
 - [ ] C) Los padres deben educar a los hijos. <!-- feedback: Incorrecto. -->
@@ -86,12 +96,13 @@ Identificación de la tesis o postura central.
 ## Question 4 [D4 - Tesis]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Cuál es la tesis de la Postura 2?
 
-### Options
+### Opciones
 - [ ] A) Prohibir las redes es la mejor solución. <!-- feedback: Incorrecto. -->
 - [x] B) La solución no es prohibir sino educar digitalmente. <!-- feedback: Correcto. -->
 - [ ] C) Los niños no deben usar tecnología. <!-- feedback: Incorrecto. -->
@@ -103,12 +114,13 @@ Identificación de la tesis alternativa.
 ## Question 5 [D5 - Argumento de autoridad]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué tipo de argumento usa la Postura 1 al citar al ICBF?
 
-### Options
+### Opciones
 - [ ] A) Argumento emocional. <!-- feedback: Incorrecto. -->
 - [x] B) Argumento de autoridad institucional (ICBF). <!-- feedback: Correcto. -->
 - [ ] C) Argumento lógico-deductivo. <!-- feedback: Incorrecto. -->
@@ -120,12 +132,13 @@ Reconocimiento del argumento basado en una fuente institucional confiable.
 ## Question 6 [D5 - Argumento]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué tipo de argumento usa la Postura 2 al mencionar la psicóloga infantil María Restrepo?
 
-### Options
+### Opciones
 - [ ] A) Argumento estadístico. <!-- feedback: Incorrecto. -->
 - [x] B) Argumento de autoridad profesional (experta en psicología infantil). <!-- feedback: Correcto. -->
 - [ ] C) Argumento legal. <!-- feedback: Incorrecto. -->
@@ -137,12 +150,13 @@ Reconocimiento del argumento basado en la autoridad de un experto.
 ## Question 7 [D5 - Premisa]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Cuál es la premisa principal de la Postura 1?
 
-### Options
+### Opciones
 - [ ] A) Los niños no saben usar el celular. <!-- feedback: Incorrecto. -->
 - [x] B) Los niños menores de 14 años no están preparados emocionalmente para redes sociales. <!-- feedback: Correcto. -->
 - [ ] C) Los padres no saben educar. <!-- feedback: Incorrecto. -->
@@ -154,12 +168,13 @@ Identificación de la premisa o afirmación base del argumento.
 ## Question 8 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Cuál es la premisa principal de la Postura 2?
 
-### Options
+### Opciones
 - [ ] A) La prohibición siempre funciona. <!-- feedback: Incorrecto. -->
 - [x] B) Prohibir no resuelve y los jóvenes buscarán formas de acceder igualmente. <!-- feedback: Correcto. -->
 - [ ] C) Las redes son seguras para todos. <!-- feedback: Incorrecto. -->
@@ -171,12 +186,13 @@ Identificación de la premisa base de la argumentación.
 ## Question 9 [D5 - Conclusión]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Cuál es la conclusión de la Postura 1?
 
-### Options
+### Opciones
 - [ ] A) Los niños deben usar más redes. <!-- feedback: Incorrecto. -->
 - [x] B) Se debe aprobar una ley que prohíba el acceso a menores de 14 años. <!-- feedback: Correcto. -->
 - [ ] C) Los profesores deben vigilar las redes. <!-- feedback: Incorrecto. -->
@@ -188,12 +204,13 @@ Identificación de la conclusión a la que llega el argumentador.
 ## Question 10 [D5 - Diferencia]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Cuál es la principal diferencia en el enfoque de ambas posturas?
 
-### Options
+### Opciones
 - [ ] A) Una está a favor y otra en contra de la tecnología. <!-- feedback: Incorrecto. -->
 - [x] B) Una propone prohibición como solución, la otra propone educación como solución. <!-- feedback: Correcto. -->
 - [ ] C) Una habla de niños y otra de adultos. <!-- feedback: Incorrecto. -->
@@ -205,12 +222,13 @@ Comparación de enfoques argumentativos.
 ## Question 11 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué contraargumento usa implícitamente la Postura 2 contra la prohibición?
 
-### Options
+### Opciones
 - [ ] A) Que la prohibición es imposible. <!-- feedback: Incorrecto. -->
 - [x] B) Que la prohibición genera el efecto contrario (los jóvenes querrán acceder más). <!-- feedback: Correcto. -->
 - [ ] C) Que la prohibición es barata. <!-- feedback: Incorrecto. -->
@@ -222,12 +240,13 @@ Inferencia del contraargumento del "efecto prohibición".
 ## Question 12 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué frase de la Postura 1 refuerza su argumento con un llamado emocional?
 
-### Options
+### Opciones
 - [ ] A) "Estudios del ICBF muestran". <!-- feedback: Incorrecto (es racional). -->
 - [x] B) "Los niños deben ser niños, no influencers". <!-- feedback: Correcto. -->
 - [ ] C) "La Ley 1620 de 2013". <!-- feedback: Incorrecto. -->
@@ -239,12 +258,13 @@ Identificación de recursos persuasivos emocionales en la argumentación.
 ## Question 13 [D6 - Evaluación]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Qué postura presenta una solución más integral?
 
-### Options
+### Opciones
 - [ ] A) La Postura 1, porque prohíbe directamente. <!-- feedback: Incorrecto. -->
 - [x] B) La Postura 2, porque combina educación a niños, padres y profesores. <!-- feedback: Correcto. -->
 - [ ] C) Ambas son igual de integrales. <!-- feedback: Incorrecto. -->
@@ -256,12 +276,13 @@ Evaluación crítica de la calidad de las soluciones propuestas.
 ## Question 14 [D5]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué relación hay entre la Ley 1620 de 2013 y el argumento de la Postura 2?
 
-### Options
+### Opciones
 - [ ] A) La ley contradice la postura. <!-- feedback: Incorrecto. -->
 - [x] B) La postura usa la ley como evidencia de que ya existen herramientas legales para convivencia escolar. <!-- feedback: Correcto. -->
 - [ ] C) La ley no tiene relación. <!-- feedback: Incorrecto. -->
@@ -273,12 +294,13 @@ Comprensión de cómo una referencia legal apoya un argumento.
 ## Question 15 [D6 - Evaluación]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Qué fortaleza tiene el argumento de la Postura 1?
 
-### Options
+### Opciones
 - [x] A) Se basa en datos concretos del ICBF y propone una solución clara y medible. <!-- feedback: Correcto. -->
 - [ ] B) Es más divertida para los niños. <!-- feedback: Incorrecto. -->
 - [ ] C) No necesita regulación. <!-- feedback: Incorrecto. -->

@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-6-2026-W20-repaso-p4-001-MASTERY"
+id: "CO-LEC-6-2026-W20-repaso-p4-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "repaso-p4"
-semana: 20
+week: "W20"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -16,7 +16,14 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso integrado: comprensión inferencial, predicciones, causas-consecuencias, tipos de narrador, relaciones de causalidad"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G6 — REPASO P4 (Semanas 17-19)
 
@@ -51,12 +58,13 @@ rubric_baseline: "repaso integrado: comprensión inferencial, predicciones, caus
 ## Question 1 [D3 - Texto 1: Información explícita]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Dónde vive la abuela Elena?
 
-### Options
+### Opciones
 - [ ] A) En Bogotá. <!-- feedback: Incorrecto. -->
 - [x] B) En Villa de Leyva. <!-- feedback: Correcto. El texto dice "en su casa en Villa de Leyva". -->
 - [ ] C) En el Chocó. <!-- feedback: Incorrecto. Allá trabajaba el bisabuelo. -->
@@ -68,12 +76,13 @@ Identificación de información explícita en un texto narrativo: el lugar donde
 ## Question 2 [D3 - Texto 2: Información explícita]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 Según el texto informativo, ¿cuándo se consolidan los recuerdos?
 
-### Options
+### Opciones
 - [ ] A) Cuando comemos. <!-- feedback: Incorrecto. -->
 - [ ] B) Cuando hacemos ejercicio. <!-- feedback: Incorrecto. -->
 - [x] C) Mientras dormimos. <!-- feedback: Correcto. El texto dice "los recuerdos se consolidan mientras dormimos". -->
@@ -85,12 +94,13 @@ Identificación de información explícita en un texto informativo: un dato cien
 ## Question 3 [D4 - Texto 1: Comprensión inferencial]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Qué significa que Sara "entendió que la caja no era solo una caja"?
 
-### Options
+### Opciones
 - [ ] A) Que Sara pensó que la caja tenía un compartimento secreto. <!-- feedback: Incorrecto. -->
 - [ ] B) Que Sara no entendía para qué servía la caja. <!-- feedback: Incorrecto. -->
 - [x] C) Que Sara comprendió que la caja guardaba recuerdos y la historia de su familia, no solo objetos materiales. <!-- feedback: Correcto. Sara captó el sentido simbólico de la caja: un cofre de memorias familiares. -->
@@ -102,12 +112,13 @@ Interpretación de una frase con significado implícito: captar el sentido figur
 ## Question 4 [D4 - Texto 2: Comprensión inferencial]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Por qué el texto dice que la memoria "no funciona como una grabadora"?
 
-### Options
+### Opciones
 - [ ] A) Porque las grabadoras guardan mejor la información que el cerebro. <!-- feedback: Incorrecto. -->
 - [x] B) Porque el cerebro no guarda todo exactamente igual, sino que selecciona y organiza la información. <!-- feedback: Correcto. El texto explica que la memoria es selectiva y transforma los recuerdos, a diferencia de una grabadora que registra todo sin filtrar. -->
 - [ ] C) Porque las grabadoras se dañan y el cerebro no. <!-- feedback: Incorrecto. -->
@@ -119,12 +130,13 @@ Interpretación de una analogía: entender por qué el autor compara la memoria 
 ## Question 5 [D4 - Relación entre textos]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Qué tema tienen en común el Texto 1 (narrativo) y el Texto 2 (informativo)?
 
-### Options
+### Opciones
 - [ ] A) La importancia de dormir bien. <!-- feedback: Incorrecto. Solo el Texto 2 lo menciona. -->
 - [ ] B) La vida en Villa de Leyva. <!-- feedback: Incorrecto. Solo el Texto 1. -->
 - [x] C) La memoria y los recuerdos. <!-- feedback: Correcto. Ambos textos hablan de la memoria: el Texto 1 desde una experiencia familiar y el Texto 2 desde una explicación científica. -->
@@ -136,12 +148,13 @@ Identificación del tema común entre dos textos de géneros diferentes. Esta ha
 ## Question 6 [D5 - Texto 1: Causa y consecuencia]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Por qué la abuela Elena guarda objetos como la carta del bisabuelo?
 
-### Options
+### Opciones
 - [ ] A) Porque los objetos son valiosos y podrían venderse. <!-- feedback: Incorrecto. -->
 - [x] B) Porque los objetos guardan las historias de las personas que ya no están, y la abuela quiere preservar esos recuerdos. <!-- feedback: Correcto. La abuela explica: "cuando alguien se va, lo único que queda son las historias que otros recuerdan". -->
 - [ ] C) Porque le gusta coleccionar cosas viejas. <!-- feedback: Incorrecto. -->
@@ -153,12 +166,13 @@ Identificación de la causa de una acción: ¿por qué un personaje actúa de de
 ## Question 7 [D5 - Texto 2: Consecuencias]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 Según el Texto 2, si un estudiante estudia mucho pero no duerme bien, ¿qué podría pasar con su aprendizaje?
 
-### Options
+### Opciones
 - [ ] A) Aprendería igual porque estudió mucho. <!-- feedback: Incorrecto. -->
 - [ ] B) Olvidaría todo porque estudiar no sirve. <!-- feedback: Incorrecto. -->
 - [x] C) Su cerebro tendría menos tiempo para consolidar los recuerdos, por lo que el aprendizaje sería menos efectivo. <!-- feedback: Correcto. El texto dice que los recuerdos se consolidan mientras dormimos, así que sin sueño adecuado, el estudio rinde menos. -->
@@ -170,12 +184,13 @@ Inferencia de consecuencias basada en información del texto: aplicar el princip
 ## Question 8 [D5 - Predicción]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Qué se puede predecir que Tomás entenderá cuando sea más grande, basándose en la historia de la caja de los recuerdos?
 
-### Options
+### Opciones
 - [ ] A) Que las cartas son mejores que los mensajes de texto. <!-- feedback: Incorrecto. -->
 - [ ] B) Que la abuela debería vender las cosas viejas. <!-- feedback: Incorrecto. -->
 - [x] C) Que los objetos familiares tienen un valor sentimental que va más allá de lo material, y que preservarlos es una forma de mantener viva la memoria de sus seres queridos. <!-- feedback: Correcto. La lección que la abuela intenta transmitir es que los objetos guardan historias y personas. Con el tiempo, Tomás probablemente lo entenderá, como Sara empezó a entenderlo. -->
@@ -187,12 +202,13 @@ Predicción basada en el desarrollo de los personajes: anticipar la comprensión
 ## Question 9 [D5 - Síntesis de textos]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 ¿Cómo explica el Texto 2 (informativo) la reacción de Sara al final del Texto 1 (narrativo)?
 
-### Options
+### Opciones
 - [ ] A) El Texto 2 dice que la memoria solo guarda información útil, así que Sara olvidará la caja. <!-- feedback: Incorrecto. -->
 - [x] B) El Texto 2 dice que la emoción ayuda a recordar; la experiencia de Sara con la abuela y la caja tiene una carga emocional que hará que ese recuerdo se fije en su memoria. <!-- feedback: Correcto. El Texto 2 menciona la emoción como factor para recordar. La escena de la caja es emotiva, por lo que probablemente Sara la recordará siempre. -->
 - [ ] C) El Texto 2 dice que la memoria es una grabadora exacta. <!-- feedback: Incorrecto. El texto dice lo contrario. -->
@@ -204,12 +220,13 @@ Integración de dos textos: usar la información científica del Texto 2 para ex
 ## Question 10 [D5]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 Si pudieras agregar un elemento a la caja de los recuerdos de la abuela Elena, ¿qué objeto elegirías basándote en lo que aprendiste de ambos textos?
 
-### Options
+### Opciones
 - [ ] A) Un teléfono celular para que los recuerdos estén digitalizados. <!-- feedback: Parcial, pero el texto enfatiza el valor de lo físico y lo emotivo. -->
 - [ ] B) Nada, porque la caja ya está completa. <!-- feedback: Incorrecto. -->
 - [x] C) Una foto familiar, porque las imágenes son objetos que guardan memorias y generan emociones, que según el Texto 2 son clave para recordar. <!-- feedback: Correcto. Una foto es un objeto físico que activa la memoria emocional, conectando la tradición de la abuela con la explicación científica de por qué recordamos. -->

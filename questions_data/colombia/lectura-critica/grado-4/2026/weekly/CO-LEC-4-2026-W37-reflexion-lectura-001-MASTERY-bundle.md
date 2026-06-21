@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY"
+id: "CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "lectura-critica"
 tema: "reflexion-lectura"
-semana: "W37"
+week: "W37"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -20,7 +20,11 @@ rubric_baseline: "reflexión, lectura crítica, opinión, juicio, valoración"
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G4 — W37: Preguntas de reflexión sobre la lectura
 
@@ -28,17 +32,18 @@ tier: "legacy"
 
 **ID:** `CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identifi. de contenidos locales
-**Context:** Reflexionar.
+**Contexto:** Reflexionar.
 
 ### Enunciado
 *"¿Qué significa reflexionar sobre un texto?"*
 
-### Options
-- [ ] A) Leer rápido.
+### Opciones
+- [ ] A) Leer rápido. <!-- feedback: Incorrecto. Leer rápido. -->
 - [x] B) Pensar y opinar sobre lo leído. <!-- feedback: Correcto. -->
-- [ ] C) Memorizar.
-- [ ] D) Copiar.
+- [ ] C) Memorizar. <!-- feedback: Incorrecto. Memorizar. -->
+- [ ] D) Copiar. <!-- feedback: Incorrecto. Copiar. -->
 
 ### Explicación Pedagógica
 Definir.
@@ -49,17 +54,18 @@ Definir.
 
 **ID:** `CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Opinión personal.
+**Contexto:** Opinión personal.
 
 ### Enunciado
 *"Después de leer un cuento, te preguntan ¿te gustó?. ¿Qué das?"*
 
-### Options
-- [ ] A) Un hecho.
+### Opciones
+- [ ] A) Un hecho. <!-- feedback: Incorrecto. Un hecho. -->
 - [x] B) Una opinión personal. <!-- feedback: Correcto. -->
-- [ ] C) Un dato.
-- [ ] D) Una definición.
+- [ ] C) Un dato. <!-- feedback: Incorrecto. Un dato. -->
+- [ ] D) Una definición. <!-- feedback: Incorrecto. Una definición. -->
 
 ### Explicación Pedagógica
 Opinión.
@@ -70,17 +76,18 @@ Opinión.
 
 **ID:** `CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Relacionar.
+**Contexto:** Relacionar.
 
 ### Enunciado
 *"El cuento habla de compartir. ¿Tú compartes en tu vida?"* ¿Tipo de pregunta?"*
 
-### Options
+### Opciones
 - [x] A) De reflexión personal. <!-- feedback: Correcto. -->
-- [ ] B) De comprensión literal.
-- [ ] C) De vocabulario.
-- [ ] D) De gramática.
+- [ ] B) De comprensión literal. <!-- feedback: Incorrecto. De comprensión literal. -->
+- [ ] C) De vocabulario. <!-- feedback: Incorrecto. De vocabulario. -->
+- [ ] D) De gramática. <!-- feedback: Incorrecto. De gramática. -->
 
 ### Explicación Pedagógica
 Reflexión.
@@ -91,17 +98,18 @@ Reflexión.
 
 **ID:** `CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Aplicar a la vida.
+**Contexto:** Aplicar a la vida.
 
 ### Enunciado
 *"La fábula enseña a no mentir. ¿Cómo aplicas esto?"* ¿Qué tipo de pregunta?"*
 
-### Options
-- [ ] A) De memoria.
+### Opciones
+- [ ] A) De memoria. <!-- feedback: Incorrecto. De memoria. -->
 - [x] B) De reflexión y aplicación. <!-- feedback: Correcto. -->
-- [ ] C) De verdadero/falso.
-- [ ] D) De selección.
+- [ ] C) De verdadero/falso. <!-- feedback: Incorrecto. De verdadero/falso. -->
+- [ ] D) De selección. <!-- feedback: Incorrecto. De selección. -->
 
 ### Explicación Pedagógica
 Aplicar.
@@ -112,17 +120,18 @@ Aplicar.
 
 **ID:** `CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
-**Context:** Valorar.
+**Contexto:** Valorar.
 
 ### Enunciado
 *"¿Crees que el personaje actuó correctamente? ¿Por qué?"* ¿Qué se pide?"*
 
-### Options
-- [ ] A) Un resumen.
+### Opciones
+- [ ] A) Un resumen. <!-- feedback: Incorrecto. Un resumen. -->
 - [x] B) Una valoración personal. <!-- feedback: Correcto. -->
-- [ ] C) Una lista.
-- [ ] D) Un dibujo.
+- [ ] C) Una lista. <!-- feedback: Incorrecto. Una lista. -->
+- [ ] D) Un dibujo. <!-- feedback: Incorrecto. Un dibujo. -->
 
 ### Explicación Pedagógica
 Valorar.
@@ -133,17 +142,18 @@ Valorar.
 
 **ID:** `CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Justificar.
+**Contexto:** Justificar.
 
 ### Enunciado
 *"¿Por qué crees que el personaje hizo lo correcto?"* ¿Qué debes hacer?"*
 
-### Options
-- [ ] A) Adivinar.
+### Opciones
+- [ ] A) Adivinar. <!-- feedback: Incorrecto. Adivinar. -->
 - [x] B) Dar argumentos. <!-- feedback: Correcto. -->
-- [ ] C) Copiar del texto.
-- [ ] D) No responder.
+- [ ] C) Copiar del texto. <!-- feedback: Incorrecto. Copiar del texto. -->
+- [ ] D) No responder. <!-- feedback: Incorrecto. No responder. -->
 
 ### Explicación Pedagógica
 Justificar.
@@ -154,17 +164,18 @@ Justificar.
 
 **ID:** `CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Conectar.
+**Contexto:** Conectar.
 
 ### Enunciado
 *"¿En qué se parece esta historia a algo que te haya pasado?"* ¿Qué se pide?"*
 
-### Options
-- [ ] A) Desconectar.
+### Opciones
+- [ ] A) Desconectar. <!-- feedback: Incorrecto. Desconectar. -->
 - [x] B) Conectar con experiencia personal. <!-- feedback: Correcto. -->
-- [ ] C) Inventar.
-- [ ] D) Memorizar.
+- [ ] C) Inventar. <!-- feedback: Incorrecto. Inventar. -->
+- [ ] D) Memorizar. <!-- feedback: Incorrecto. Memorizar. -->
 
 ### Explicación Pedagógica
 Conectar.
@@ -175,17 +186,18 @@ Conectar.
 
 **ID:** `CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
-**Context:** Analizar.
+**Contexto:** Analizar.
 
 ### Enunciado
 *"¿Por qué el autor eligió ese final? ¿Qué otra opción habría?"* ¿Tipo?"*
 
-### Options
-- [ ] A) Literal.
+### Opciones
+- [ ] A) Literal. <!-- feedback: Incorrecto. Literal. -->
 - [x] B) Analítica y reflexiva. <!-- feedback: Correcto. -->
-- [ ] C) De vocabulario.
-- [ ] D) De ortografía.
+- [ ] C) De vocabulario. <!-- feedback: Incorrecto. De vocabulario. -->
+- [ ] D) De ortografía. <!-- feedback: Incorrecto. De ortografía. -->
 
 ### Explicación Pedagógica
 Analizar.
@@ -196,17 +208,18 @@ Analizar.
 
 **ID:** `CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Evaluar.
+**Contexto:** Evaluar.
 
 ### Enunciado
 *"¿Recomendarías este libro a un amigo? ¿Por qué?"* ¿Qué se pide?"*
 
-### Options
-- [ ] A) Solo sí o no.
+### Opciones
+- [ ] A) Solo sí o no. <!-- feedback: Incorrecto. Solo sí o no. -->
 - [x] B) Una opinión razonada. <!-- feedback: Correcto. -->
-- [ ] C) Una copia.
-- [ ] D) Un resumen.
+- [ ] C) Una copia. <!-- feedback: Incorrecto. Una copia. -->
+- [ ] D) Un resumen. <!-- feedback: Incorrecto. Un resumen. -->
 
 ### Explicación Pedagógica
 Recomendar.
@@ -217,17 +230,18 @@ Recomendar.
 
 **ID:** `CO-LEC-4-2026-W37-reflexion-lectura-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
-**Context:** Meta-reflexión.
+**Contexto:** Meta-reflexión.
 
 ### Enunciado
 *"¿Qué aprendiste con esta lectura? ¿Cambió tu forma de pensar?"* ¿Tipo?"*
 
-### Options
-- [ ] A) Memorística.
+### Opciones
+- [ ] A) Memorística. <!-- feedback: Incorrecto. Memorística. -->
 - [x] B) Reflexiva y metacognitiva. <!-- feedback: Correcto. -->
-- [ ] C) Literal.
-- [ ] D) De datos.
+- [ ] C) Literal. <!-- feedback: Incorrecto. Literal. -->
+- [ ] D) De datos. <!-- feedback: Incorrecto. De datos. -->
 
 ### Explicación Pedagógica
 Meta-reflexión.

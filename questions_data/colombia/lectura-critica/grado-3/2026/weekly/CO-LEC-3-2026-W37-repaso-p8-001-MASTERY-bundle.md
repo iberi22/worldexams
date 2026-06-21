@@ -1,5 +1,5 @@
 ---
-id: "CO-LEC-3-2026-W37-repaso-p8-001-MASTERY"
+id: "CO-LEC-3-2026-W37-repaso-p8-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lectura-critica"
@@ -12,7 +12,12 @@ bundle_index: 37
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 8
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Repaso de Periodo 8
 
@@ -25,6 +30,7 @@ Este bundle integra los conocimientos de las semanas 33 a 36: textos expositivos
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Los volcanes son aberturas en la corteza terrestre por donde sale el magma (roca fundida). Cuando el magma sale a la superficie se llama lava. Colombia tiene varios volcanes activos como el Galeras y el Nevado del Ruiz".
@@ -32,7 +38,7 @@ Este bundle integra los conocimientos de las semanas 33 a 36: textos expositivos
 ### Enunciado
 ¿Cómo se llama el magma cuando logra salir a la superficie terrestre?
 
-### Options
+### Opciones
 - [ ] A) Ceniza. <!-- feedback: Incorrecto. La ceniza es otro material volcánico, pero el texto dice que el magma se llama lava al salir. -->
 - [x] B) Lava. <!-- feedback: ¡Correcto! El texto da esta definición de forma literal y clara. -->
 - [ ] C) Piedra pómez. <!-- feedback: Incorrecto. Es un tipo de roca, no el nombre del magma en la superficie. -->
@@ -48,6 +54,7 @@ Repaso de textos expositivos (Semana 33). Localizar definiciones y términos té
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Editorial Escolar:** "No es justo que solo unos pocos niños usen los balones del colegio en el descanso. Todos tenemos derecho a divertirnos y por eso debemos organizar turnos para que cada grado pueda jugar un día diferente".
@@ -55,7 +62,7 @@ Repaso de textos expositivos (Semana 33). Localizar definiciones y términos té
 ### Enunciado
 ¿Cuál es la **propuesta** de solución que da el editorial?
 
-### Options
+### Opciones
 - [ ] A) Comprar cien balones nuevos para que no haya peleas. <!-- feedback: Incorrecto. El texto no menciona comprar nada. -->
 - [x] B) Organizar turnos de juego por días para cada grado. <!-- feedback: ¡Correcto! El editorial propone esta organización para resolver el problema de la falta de balones. -->
 - [ ] C) Prohibir el uso de balones en el descanso. <!-- feedback: Incorrecto. El objetivo es que todos puedan jugar, no quitar el juego. -->
@@ -71,6 +78,7 @@ Repaso de editorial (Semana 35). Identificar la solución planteada a un problem
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.80
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un cartel en el comedor escolar muestra un dibujo de una manzana sonriente levantando pesas. Debajo dice: "**LAS FRUTAS TE DAN PODER**".
@@ -78,7 +86,7 @@ Un cartel en el comedor escolar muestra un dibujo de una manzana sonriente levan
 ### Enunciado
 ¿Qué mensaje quiere transmitir este texto multimodal?
 
-### Options
+### Opciones
 - [ ] A) Que las manzanas pueden ir al gimnasio si quieren. <!-- feedback: Incorrecto. La imagen es simbólica para los niños, no para la fruta. -->
 - [x] B) Que comer frutas ayuda a tener fuerza y buena salud. <!-- feedback: ¡Correcto! La manzana con pesas es una metáfora visual del beneficio de comer sano (poder/fuerza). -->
 - [ ] C) Que hay que comprar manzanas que pesen mucho. <!-- feedback: Incorrecto. Las pesas representan fuerza física del consumidor, no peso del producto. -->
@@ -94,6 +102,7 @@ Repaso de textos multimodales (Semana 36). El estudiante integra el elemento vis
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.75
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "Yo pienso que ver demasiada televisión es malo para la imaginación. Cuando leemos un libro, nuestro cerebro tiene que crear las imágenes, pero cuando vemos televisión, todo nos lo dan ya hecho y nuestra mente se vuelve perezosa".
@@ -101,7 +110,7 @@ Repaso de textos multimodales (Semana 36). El estudiante integra el elemento vis
 ### Enunciado
 ¿Cuál es el principal **argumento** del autor en contra de la televisión?
 
-### Options
+### Opciones
 - [ ] A) Que los programas de televisión son muy aburridos. <!-- feedback: Incorrecto. El autor no habla de aburrimiento, sino de efectos en la mente. -->
 - [x] B) Que la televisión nos da las imágenes ya hechas y no deja que el cerebro las cree. <!-- feedback: ¡Correcto! Este es el argumento central para decir que afecta la imaginación. -->
 - [ ] C) Que los televisores gastan mucha electricidad. <!-- feedback: Incorrecto. El argumento es psicológico y educativo, no económico. -->
@@ -117,6 +126,7 @@ Repaso de textos argumentativos (Semana 34). Identificar la razón o justificaci
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.70
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 En un libro de geografía, aparece un gráfico de barras que muestra la cantidad de lluvia en tres ciudades:
@@ -127,7 +137,7 @@ En un libro de geografía, aparece un gráfico de barras que muestra la cantidad
 ### Enunciado
 Si un texto explicara este gráfico, ¿cuál de estas frases sería la más correcta?
 
-### Options
+### Opciones
 - [ ] A) En Bogotá nunca llueve porque tiene pocas barras. <!-- feedback: Incorrecto. Tiene 6 barras, lo que indica que sí llueve. -->
 - [x] B) Leticia es la ciudad donde más llueve de las tres mencionadas. <!-- feedback: ¡Correcto! Al tener la mayor cantidad de barras (10), visualmente representa mayor cantidad de lluvia. -->
 - [ ] C) En Riohacha llueve más que en Bogotá. <!-- feedback: Incorrecto. Riohacha tiene 2 barras y Bogotá tiene 6. -->
@@ -143,6 +153,7 @@ Repaso de multimodalidad y textos expositivos (Semanas 33 y 36). El estudiante d
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.65
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 "A diferencia de un cuento fantástico, un **texto expositivo** sobre los dinosaurios nos dirá cuándo vivieron realmente, qué comían y por qué se extinguieron, usando pruebas encontradas en los fósiles".
@@ -150,7 +161,7 @@ Repaso de multimodalidad y textos expositivos (Semanas 33 y 36). El estudiante d
 ### Enunciado
 ¿Qué hace que un texto sobre dinosaurios sea **expositivo** y no un cuento?
 
-### Options
+### Opciones
 - [ ] A) Que los dinosaurios sean los personajes principales que hablan. <!-- feedback: Incorrecto. Si hablan, sería un cuento o fábula. -->
 - [x] B) Que use información real basada en pruebas (fósiles) para enseñar sobre ellos. <!-- feedback: ¡Correcto! El uso de hechos reales y lenguaje informativo es la marca del género expositivo. -->
 - [ ] C) Que el texto sea muy largo y difícil de leer. <!-- feedback: Incorrecto. La longitud no define el tipo de texto. -->
@@ -166,6 +177,7 @@ Diferenciar géneros por su base de realidad (fantasía vs. hechos comprobables)
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 **Fragmento de un Editorial:**
@@ -174,7 +186,7 @@ Diferenciar géneros por su base de realidad (fantasía vs. hechos comprobables)
 ### Enunciado
 ¿Cuál es la **contradicción** que señala el autor del editorial para darle más fuerza a su opinión?
 
-### Options
+### Opciones
 - [ ] A) Que los niños no tienen sed. <!-- feedback: Incorrecto. El texto no menciona la sed de los niños. -->
 - [x] B) Que el colegio pide ahorrar agua pero permite que los bebederos goteen y se desperdicie. <!-- feedback: ¡Correcto! Señalar una contradicción entre lo que se dice y lo que se hace es un argumento muy fuerte. -->
 - [ ] C) Que el agua de los bebederos está muy fría. <!-- feedback: Incorrecto. No se menciona la temperatura del agua. -->
@@ -190,6 +202,7 @@ Analizar contradicciones lógicas en un texto argumentativo permite al estudiant
 **Bloom:** Evaluate
 **ICFES:** Crítico
 **Expected_Success:** 0.50
+**Contexto:** Contexto de la pregunta.
 
 ### Contexto
 Un autor escribe: "**Los libros son aburridos porque no tienen sonidos ni movimiento como las tablets**".
@@ -197,7 +210,7 @@ Un autor escribe: "**Los libros son aburridos porque no tienen sonidos ni movimi
 ### Enunciado
 Si tuvieras que **refutar** (llevarle la contraria con una buena razón) a este autor, ¿cuál de estos argumentos usarías?
 
-### Options
+### Opciones
 - [ ] A) Los libros no necesitan internet para funcionar. <!-- feedback: Incorrecto. Es un argumento técnico, pero no responde a la idea de que son "aburridos". -->
 - [x] B) Los libros no son aburridos porque permiten que el lector cree sus propios sonidos e imágenes en su imaginación. <!-- feedback: ¡Correcto! Responde directamente al argumento del autor con una ventaja de la lectura. -->
 - [ ] C) A mi mamá le gustan mucho los libros de cocina. <!-- feedback: Incorrecto. Es un ejemplo personal que no defiende a los libros en general frente a la crítica. -->

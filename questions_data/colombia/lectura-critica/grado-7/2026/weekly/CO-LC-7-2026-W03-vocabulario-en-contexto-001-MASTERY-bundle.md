@@ -1,28 +1,32 @@
 ---
-id: "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY"
+id: "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lectura-critica"
 tema: "vocabulario-en-contexto"
-semana: "W03"
+week: "W03"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Vocabulario en Contexto - Grado 7
 ## Semana W03 — Significado de palabras según el contexto
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comunicativa — lextora
-**Context:** En clase de Lengua Castellana del Colegio San Bartolomé de Bogotá, la profesora explica que una misma palabra puede tener diferentes significados según el contexto.
+**Contexto:** En clase de Lengua Castellana del Colegio San Bartolomé de Bogotá, la profesora explica que una misma palabra puede tener diferentes significados según el contexto.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Las palabras polisémicas tienen varios significados. Para determinar cuál es e
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comunicativa — lextora
-**Context:** Mariana lee en su libro de Ciencias Naturales de grado 7: "La célula es la unidad fundamental de todo ser vivo. Algunos organismos son unicelulares, como las bacterias."
+**Contexto:** Mariana lee en su libro de Ciencias Naturales de grado 7: "La célula es la unidad fundamental de todo ser vivo. Algunos organismos son unicelulares, como las bacterias."
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ La palabra "célula" también es polisémica, pero en el contexto de Ciencias Na
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Comunicativa — lextora
-**Context:** En el colegio INEM de Cali, el profesor de Lectura Crítica escribe en el tablero: "El gerente tomó la hoja de ruta y trazó el nuevo plan de trabajo."
+**Contexto:** En el colegio INEM de Cali, el profesor de Lectura Crítica escribe en el tablero: "El gerente tomó la hoja de ruta y trazó el nuevo plan de trabajo."
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -81,11 +85,11 @@ Las expresiones figuradas o metafóricas son muy comunes en el lenguaje cotidian
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comunicativa — lextora
-**Context:** Carlos lee un artículo del periódico El Colombiano sobre el transporte público en Medellín: "El Metro de Medellín transporta diariamente a más de un millón de pasajeros. Esta cifra evidencia la importancia de mantener el sistema en óptimas condiciones."
+**Contexto:** Carlos lee un artículo del periódico El Colombiano sobre el transporte público en Medellín: "El Metro de Medellín transporta diariamente a más de un millón de pasajeros. Esta cifra evidencia la importancia de mantener el sistema en óptimas condiciones."
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -102,11 +106,11 @@ En el texto, la palabra "evidencia" significa:
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Comunicativa — crítica
-**Context:** En la clase de sociales del Colegio La Presentación de Bucaramanga, el profesor habla sobre la Constitución: "La carta magna establece los derechos fundamentales de los colombianos."
+**Contexto:** En la clase de sociales del Colegio La Presentación de Bucaramanga, el profesor habla sobre la Constitución: "La carta magna establece los derechos fundamentales de los colombianos."
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -123,11 +127,11 @@ En el texto, la palabra "evidencia" significa:
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — analítica
-**Context:** Andrea encuentra en un texto: "El gobierno anunció una inversión sin precedentes en infraestructura educativa. Sin embargo, algunos sectores consideran que el presupuesto es insuficiente."
+**Contexto:** Andrea encuentra en un texto: "El gobierno anunció una inversión sin precedentes en infraestructura educativa. Sin embargo, algunos sectores consideran que el presupuesto es insuficiente."
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -144,11 +148,11 @@ El autor usa dos expresiones contradictorias: "sin precedentes" (enorme, nunca a
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — crítica
-**Context:** En un debate del colegio de Armenia, los estudiantes discuten el significado de la palabra "libertad". Un compañero dice: "Libertad no es hacer lo que uno quiera, sino poder elegir con responsabilidad."
+**Contexto:** En un debate del colegio de Armenia, los estudiantes discuten el significado de la palabra "libertad". Un compañero dice: "Libertad no es hacer lo que uno quiera, sino poder elegir con responsabilidad."
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Las palabras abstractas como "libertad" pueden tener definiciones amplias. Un bu
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — analítica
-**Context:** Pedro lee en la revista Semana: "El país atraviesa una coyuntura crítica. La economía se recupera lentamente, pero la inflación sigue siendo un fantasma que acecha a los hogares colombianos."
+**Contexto:** Pedro lee en la revista Semana: "El país atraviesa una coyuntura crítica. La economía se recupera lentamente, pero la inflación sigue siendo un fantasma que acecha a los hogares colombianos."
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -186,11 +190,11 @@ El uso de metáforas (comparaciones implícitas) es un recurso muy efectivo en l
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Comunicativa — lextora
-**Context:** En la clase de Lectura Crítica del Colegio José María Córdoba en Rionegro, el profesor escribe: "El testigo rindió su declaración ante el juez. Sus palabras fueron contundentes."
+**Contexto:** En la clase de Lectura Crítica del Colegio José María Córdoba en Rionegro, el profesor escribe: "El testigo rindió su declaración ante el juez. Sus palabras fueron contundentes."
 **Expected_Success:** 0.74
 
 ### Enunciado
@@ -207,11 +211,11 @@ En este contexto, ¿qué significa "rindió su declaración"?
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Comunicativa — crítica
-**Context:** Felipe lee un cuento corto de Gabriel García Márquez: "Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo."
+**Contexto:** Felipe lee un cuento corto de Gabriel García Márquez: "Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo."
 **Expected_Success:** 0.45
 
 ### Enunciado
@@ -228,11 +232,11 @@ La palabra "remota" puede referirse tanto a distancia geográfica (lugar remoto)
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — analítica
-**Context:** En el colegio de Pasto, los estudiantes analizan un eslogan publicitario: "Colombia, el realismo mágico se vive aquí."
+**Contexto:** En el colegio de Pasto, los estudiantes analizan un eslogan publicitario: "Colombia, el realismo mágico se vive aquí."
 **Expected_Success:** 0.40
 
 ### Enunciado
@@ -249,11 +253,11 @@ La palabra "remota" puede referirse tanto a distancia geográfica (lugar remoto)
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Comunicativa — crítica
-**Context:** Valeria analiza un discurso político en su clase de Ciencias Sociales en el colegio de Tunja. El político dice: "Vamos a construir una nueva Colombia, donde la esperanza florezca en cada rincón de nuestra patria."
+**Contexto:** Valeria analiza un discurso político en su clase de Ciencias Sociales en el colegio de Tunja. El político dice: "Vamos a construir una nueva Colombia, donde la esperanza florezca en cada rincón de nuestra patria."
 **Expected_Success:** 0.35
 
 ### Enunciado

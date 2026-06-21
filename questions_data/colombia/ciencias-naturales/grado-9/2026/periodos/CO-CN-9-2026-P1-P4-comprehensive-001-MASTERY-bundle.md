@@ -1,5 +1,5 @@
 ---
-id: "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY"
+id: "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-bundle"
 country: "colombia"
 grado: 9
 asignatura: "ciencias-naturales"
@@ -24,7 +24,12 @@ coverage:
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 15
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Ciencias Naturales Grado 9 — Periodos 1–4
 
@@ -36,13 +41,14 @@ Este bundle integral cubre los cuatro periodos de grado 9 en ciencias naturales:
 
 **ID:** `CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En la clase de química del colegio de la Universidad Pedagógica Nacional, los estudiantes aprenden a leer la tabla periódica.
+**Contexto:** En la clase de química del colegio de la Universidad Pedagógica Nacional, los estudiantes aprenden a leer la tabla periódica.
 
 ### Enunciado
 El elemento con número atómico 12 se encuentra en el período 3 y grupo 2 de la tabla periódica. ¿Cuál es este elemento y qué característica principal tiene?
 
-### Options
+### Opciones
 - [ ] A) Calcio (Ca) — es un metal alcalinotérreo del período 4 <!-- feedback: Incorrect. El calcio tiene número atómico 20 y está en el período 4, no período 3. -->
 - [x] B) Magnesio (Mg) — es un metal alcalinotérreo con 2 electrones en su última capa <!-- feedback: Correct. El magnesio (Z=12) tiene configuración $1s^2 2s^2 2p^6 3s^2$, 2 electrones de valencia, grupo 2. -->
 - [ ] C) Sodio (Na) — es un metal alcalino del grupo 1 <!-- feedback: Incorrect. El sodio tiene número atómico 11 y está en el grupo 1, no grupo 2. -->
@@ -57,13 +63,14 @@ El número atómico (Z) define la identidad del elemento. El magnesio (Mg, Z=12)
 
 **ID:** `CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** Un estudiante en Barranquilla está estudiando los diferentes tipos de enlaces químicos para su examen.
+**Contexto:** Un estudiante en Barranquilla está estudiando los diferentes tipos de enlaces químicos para su examen.
 
 ### Enunciado
 ¿Qué tipo de enlace se forma entre un metal y un no metal, y cuál es su principal característica?
 
-### Options
+### Opciones
 - [x] A) Enlace iónico — transferencia de electrones del metal al no metal, formando iones con cargas opuestas <!-- feedback: Correct. En el enlace iónico, el metal cede electrones (catión) y el no metal los acepta (anión), unidos por atracción electrostática. -->
 - [ ] B) Enlace covalente — compartición equitativa de electrones entre dos no metales <!-- feedback: Incorrect. El enlace covalente es entre no metales, no entre metal y no metal. -->
 - [ ] C) Enlace metálico — nube de electrones libres entre átomos del mismo metal <!-- feedback: Incorrect. El enlace metálico ocurre entre átomos del mismo metal, no entre metal y no metal. -->
@@ -78,13 +85,14 @@ La diferencia de electronegatividad entre metales (baja) y no metales (alta) fav
 
 **ID:** `CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** En un laboratorio escolar en Medellín, los estudiantes observan que el agua (H₂O) tiene un punto de ebullición mucho más alto que el sulfuro de hidrógeno (H₂S), a pesar de tener masas moleculares similares.
+**Contexto:** En un laboratorio escolar en Medellín, los estudiantes observan que el agua (H₂O) tiene un punto de ebullición mucho más alto que el sulfuro de hidrógeno (H₂S), a pesar de tener masas moleculares similares.
 
 ### Enunciado
 ¿Cuál es la explicación más adecuada para esta diferencia en los puntos de ebullición?
 
-### Options
+### Opciones
 - [ ] A) El agua tiene mayor masa molecular que el H₂S. <!-- feedback: Incorrect. La masa molecular del H₂O (18 g/mol) es menor que la del H₂S (34 g/mol), no mayor. -->
 - [x] B) Las moléculas de agua forman puentes de hidrógeno entre sí, mientras que el H₂S no. <!-- feedback: Correct. El oxígeno es más electronegativo y pequeño que el azufre, permitiendo puentes de hidrógeno más fuertes en el agua. -->
 - [ ] C) El H₂S tiene enlaces covalentes más fuertes que el agua. <!-- feedback: Incorrect. La fortaleza de los enlaces intramoleculares no determina directamente el punto de ebullición. -->
@@ -99,8 +107,9 @@ El agua presenta puentes de hidrógeno porque el oxígeno, muy electronegativo y
 
 **ID:** `CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v4`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Un automóvil viaja por la Autopista Norte de Bogotá. Su movimiento se registra en la siguiente tabla:
+**Contexto:** Un automóvil viaja por la Autopista Norte de Bogotá. Su movimiento se registra en la siguiente tabla:
 
 | Tiempo (s) | Posición (m) |
 |------------|-------------|
@@ -112,7 +121,7 @@ El agua presenta puentes de hidrógeno porque el oxígeno, muy electronegativo y
 ### Enunciado
 ¿Qué tipo de movimiento describe el automóvil y cuál es su velocidad?
 
-### Options
+### Opciones
 - [ ] A) Movimiento uniformemente acelerado, con aceleración de 10 m/s² <!-- feedback: Incorrect. En MRUV la posición varía cuadráticamente, no linealmente. Aquí es lineal. -->
 - [x] B) Movimiento rectilíneo uniforme (MRU), con velocidad de 10 m/s <!-- feedback: Correct. La posición aumenta 20 m cada 2 s, velocidad constante $v = \Delta x / \Delta t = 20/2 = 10$ m/s. -->
 - [ ] C) Movimiento rectilíneo uniforme (MRU), con velocidad de 20 m/s <!-- feedback: Incorrect. La velocidad es $20/2 = 10$ m/s, no 20 m/s. -->
@@ -127,13 +136,14 @@ En un MRU, la posición cambia en cantidades iguales en intervalos de tiempo igu
 
 **ID:** `CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v5`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Un motociclista en la Avenida El Dorado de Bogotá acelera desde el reposo a razón de 4 m/s² durante 5 segundos.
+**Contexto:** Un motociclista en la Avenida El Dorado de Bogotá acelera desde el reposo a razón de 4 m/s² durante 5 segundos.
 
 ### Enunciado
 ¿Qué distancia recorre el motociclista durante esos 5 segundos?
 
-### Options
+### Opciones
 - [ ] A) 20 m <!-- feedback: Incorrect. $v = at = 20$ m/s sería la velocidad final, no la distancia. -->
 - [x] B) 50 m <!-- feedback: Correct. En MRUV desde el reposo: $x = \frac{1}{2}at^2 = \frac{1}{2}(4)(25) = 50$ m. -->
 - [ ] C) 100 m <!-- feedback: Incorrect. Se usó $at^2 = 4(25) = 100$ sin el $\frac{1}{2}$. -->
@@ -148,13 +158,14 @@ Para MRUV con velocidad inicial cero, la distancia recorrida es $x = \frac{1}{2}
 
 **ID:** `CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v6`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En clase de biología en Cali, los estudiantes aprenden sobre los tipos de reproducción celular.
+**Contexto:** En clase de biología en Cali, los estudiantes aprenden sobre los tipos de reproducción celular.
 
 ### Enunciado
 ¿Cuál es la principal diferencia entre mitosis y meiosis?
 
-### Options
+### Opciones
 - [ ] A) La mitosis ocurre solo en plantas y la meiosis en animales. <!-- feedback: Incorrect. Ambos procesos ocurren en células eucariotas, tanto vegetales como animales. -->
 - [x] B) La mitosis produce dos células hijas genéticamente idénticas (2n); la meiosis produce cuatro células hijas con la mitad de carga genética (n). <!-- feedback: Correct. Mitosis: 2 células diploides idénticas. Meiosis: 4 células haploides genéticamente diferentes. -->
 - [ ] C) La mitosis tiene dos divisiones celulares y la meiosis solo una. <!-- feedback: Incorrect. Es al revés: mitosis tiene 1 división, meiosis tiene 2 divisiones (meiosis I y II). -->
@@ -169,13 +180,14 @@ La mitosis es para crecimiento y reparación celular (2 células hijas 2n idént
 
 **ID:** `CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Un técnico en Bucaramanga está probando el frenado de un vehículo. A una velocidad de 72 km/h (20 m/s), aplica los frenos y el vehículo se detiene en 4 segundos.
+**Contexto:** Un técnico en Bucaramanga está probando el frenado de un vehículo. A una velocidad de 72 km/h (20 m/s), aplica los frenos y el vehículo se detiene en 4 segundos.
 
 ### Enunciado
 ¿Cuál es la aceleración (desaceleración) del vehículo durante el frenado y qué distancia recorre hasta detenerse?
 
-### Options
+### Opciones
 - [x] A) $a = -5$ m/s² y $d = 40$ m <!-- feedback: Correct. $a = (0-20)/4 = -5$ m/s². $d = v_0 t + \frac{1}{2}at^2 = 20(4) + \frac{1}{2}(-5)(16) = 80 - 40 = 40$ m. -->
 - [ ] B) $a = -4$ m/s² y $d = 80$ m <!-- feedback: Incorrect. La aceleración es $(0-20)/4 = -5$, no $-4$. La distancia sería 40 m, no 80. -->
 - [ ] C) $a = -5$ m/s² y $d = 80$ m <!-- feedback: Incorrect. La aceleración está bien, pero la distancia se calculó como $v_0 t = 80$ m sin considerar la desaceleración. -->
@@ -190,13 +202,14 @@ La aceleración es el cambio de velocidad por unidad de tiempo: $a = \frac{v_f -
 
 **ID:** `CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v8`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En un laboratorio de química en la Universidad Nacional, se preparan tres soluciones: una de NaCl (sal de mesa), otra de HCl (ácido clorhídrico) y otra de C₆H₁₂O₆ (glucosa).
+**Contexto:** En un laboratorio de química en la Universidad Nacional, se preparan tres soluciones: una de NaCl (sal de mesa), otra de HCl (ácido clorhídrico) y otra de C₆H₁₂O₆ (glucosa).
 
 ### Enunciado
 ¿Cuál de estas tres soluciones conduce la electricidad y por qué?
 
-### Options
+### Opciones
 - [x] A) NaCl y HCl conducen la electricidad porque se disocian en iones; la glucosa no conduce porque es covalente y no se ioniza. <!-- feedback: Correct. NaCl es iónico y se disocia en Na⁺ y Cl⁻; HCl es covalente polar pero se ioniza en H⁺ y Cl⁻; la glucosa es covalente y no se disocia. -->
 - [ ] B) Solo NaCl conduce porque es el único compuesto iónico de los tres. <!-- feedback: Incorrect. HCl también conduce porque se ioniza completamente en agua (ácido fuerte). -->
 - [ ] C) Ninguna conduce la electricidad porque todas son soluciones acuosas. <!-- feedback: Incorrect. Las soluciones acuosas de electrolitos sí conducen la electricidad. -->
@@ -211,13 +224,14 @@ La conductividad eléctrica en solución depende de la presencia de iones libres
 
 **ID:** `CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Un estudiante observa al microscopio una célula en división y nota que los cromosomas se alinean en el ecuador de la célula.
+**Contexto:** Un estudiante observa al microscopio una célula en división y nota que los cromosomas se alinean en el ecuador de la célula.
 
 ### Enunciado
 ¿En qué fase de la mitosis se encuentra la célula observada?
 
-### Options
+### Opciones
 - [ ] A) Profase — los cromosomas se condensan y la membrana nuclear se desintegra <!-- feedback: Incorrect. En profase los cromosomas aún no se alinean en el ecuador. -->
 - [x] B) Metafase — los cromosomas se alinean en la placa metafásica (ecuador) <!-- feedback: Correct. En metafase, los cromosomas están completamente condensados y alineados en el plano ecuatorial, listos para separarse. -->
 - [ ] C) Anafase — las cromátidas hermanas se separan hacia los polos opuestos <!-- feedback: Incorrect. En anafase los cromosomas ya se están moviendo a los polos, no alineados. -->
@@ -232,13 +246,14 @@ La mitosis tiene cuatro fases: profase (condensación), metafase (alineación en
 
 **ID:** `CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v10`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** En educación sexual en el colegio de la localidad de Suba, Bogotá, los estudiantes aprenden sobre el sistema reproductor humano.
+**Contexto:** En educación sexual en el colegio de la localidad de Suba, Bogotá, los estudiantes aprenden sobre el sistema reproductor humano.
 
 ### Enunciado
 ¿Cuál es la función principal de las trompas de Falopio en el sistema reproductor femenino?
 
-### Options
+### Opciones
 - [ ] A) Producir los óvulos mediante ovogénesis <!-- feedback: Incorrect. La producción de óvulos ocurre en los ovarios, no en las trompas de Falopio. -->
 - [ ] B) Albergar al feto durante el embarazo <!-- feedback: Incorrect. El útero, no las trompas, alberga al feto durante el embarazo. -->
 - [x] C) Conducir el óvulo desde el ovario hacia el útero y ser el sitio donde ocurre la fecundación <!-- feedback: Correct. Las trompas de Falopio capturan el óvulo liberado y lo transportan; la fecundación ocurre típicamente en el tercio externo de la trompa. -->
@@ -253,8 +268,9 @@ Las trompas de Falopio (u oviductos) tienen dos funciones clave: transporte del 
 
 **ID:** `CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v11`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En la clase de física se muestra la siguiente gráfica de velocidad vs tiempo para un objeto en movimiento rectilíneo:
+**Contexto:** En la clase de física se muestra la siguiente gráfica de velocidad vs tiempo para un objeto en movimiento rectilíneo:
 
 | Intervalo (s) | Velocidad (m/s) |
 |---------------|-----------------|
@@ -265,7 +281,7 @@ Las trompas de Falopio (u oviductos) tienen dos funciones clave: transporte del 
 ### Enunciado
 Analizando la gráfica velocidad-tiempo, ¿cuál de las siguientes afirmaciones es correcta?
 
-### Options
+### Opciones
 - [ ] A) El objeto tiene velocidad constante durante todo el recorrido. <!-- feedback: Incorrect. La velocidad cambia de 5 a 15 m/s en el intervalo 5-8 s, no es constante. -->
 - [ ] B) La aceleración es cero en el intervalo 5-8 s. <!-- feedback: Incorrect. En el intervalo 5-8 s la velocidad cambia de 5 a 15 m/s en 3 s, por lo que hay aceleración. -->
 - [x] C) En el intervalo 5-8 s, el objeto experimenta una aceleración de aproximadamente 3.33 m/s². <!-- feedback: Correct. $a = \Delta v / \Delta t = (15-5)/(8-5) = 10/3 \approx 3.33$ m/s². -->
@@ -280,13 +296,14 @@ En una gráfica $v$ vs $t$, la pendiente representa la aceleración y el área b
 
 **ID:** `CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v12`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** Un estudiante dice: "La meiosis I se llama reduccional porque reduce el número de cromosomas a la mitad. La meiosis II es ecuacional porque mantiene el mismo número de cromosomas".
+**Contexto:** Un estudiante dice: "La meiosis I se llama reduccional porque reduce el número de cromosomas a la mitad. La meiosis II es ecuacional porque mantiene el mismo número de cromosomas".
 
 ### Enunciado
 ¿Es correcta la afirmación del estudiante?
 
-### Options
+### Opciones
 - [x] A) Sí, en meiosis I los cromosomas homólogos se separan (reducción 2n → n), y en meiosis II las cromátidas hermanas se separan (cantidad n se mantiene). <!-- feedback: Correct. La meiosis I separa homólogos reduciendo el número a la mitad; la meiosis II separa cromátidas como en mitosis, manteniendo n. -->
 - [ ] B) No, porque la meiosis I mantiene el número de cromosomas y la meiosis II lo reduce. <!-- feedback: Incorrect. Es al revés: meiosis I reduce, meiosis II mantiene. -->
 - [ ] C) Sí, pero en realidad ambas fases son reduccionales. <!-- feedback: Incorrect. Solo la meiosis I es reduccional; la meiosis II es ecuacional. -->
@@ -301,13 +318,14 @@ En la meiosis I se separan los cromosomas homólogos (tétradas), reduciendo el 
 
 **ID:** `CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v13`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** En un debate en clase, dos estudiantes discuten sobre el ciclo menstrual. Estudiante A: "La ovulación ocurre aproximadamente el día 14 del ciclo, y si hay espermatozoides en las trompas, puede ocurrir la fecundación." Estudiante B: "No, la ovulación ocurre justo después de la menstruación, el día 5."
+**Contexto:** En un debate en clase, dos estudiantes discuten sobre el ciclo menstrual. Estudiante A: "La ovulación ocurre aproximadamente el día 14 del ciclo, y si hay espermatozoides en las trompas, puede ocurrir la fecundación." Estudiante B: "No, la ovulación ocurre justo después de la menstruación, el día 5."
 
 ### Enunciado
 ¿Cuál estudiante tiene la razón y por qué?
 
-### Options
+### Opciones
 - [ ] A) El estudiante B, porque la menstruación y la ovulación ocurren al mismo tiempo. <!-- feedback: Incorrect. La menstruación (días 1-5) y la ovulación (día ~14) son eventos separados. -->
 - [x] B) El estudiante A, porque la ovulación ocurre aproximadamente a la mitad del ciclo (día 14 en un ciclo de 28 días), cuando el óvulo es liberado del folículo ovárico. <!-- feedback: Correct. En un ciclo de 28 días, la ovulación ocurre alrededor del día 14, desencadenada por el pico de LH. -->
 - [ ] C) Ninguno, porque la ovulación ocurre el día 21 del ciclo. <!-- feedback: Incorrect. El día 21 corresponde a la fase lútea, después de la ovulación. -->
@@ -322,13 +340,14 @@ El ciclo menstrual promedio de 28 días tiene fases: menstrual (días 1-5), foli
 
 **ID:** `CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v14`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** Un conductor en la Vía al Llano observa una señal de peligro y aplica los frenos. Su velocidad inicial es de 90 km/h (25 m/s). Desde que ve la señal hasta que pisa el freno pasan 0.8 segundos (tiempo de reacción).
+**Contexto:** Un conductor en la Vía al Llano observa una señal de peligro y aplica los frenos. Su velocidad inicial es de 90 km/h (25 m/s). Desde que ve la señal hasta que pisa el freno pasan 0.8 segundos (tiempo de reacción).
 
 ### Enunciado
 Si la desaceleración del vehículo al frenar es de 6 m/s², ¿cuál es la distancia total desde que el conductor ve la señal hasta que el vehículo se detiene por completo?
 
-### Options
+### Opciones
 - [ ] A) 52.1 m <!-- feedback: Incorrect. Falta sumar la distancia de reacción. -->
 - [x] B) 72.1 m <!-- feedback: Correct. Distancia de reacción: $d_r = v_0 \cdot t_r = 25 \cdot 0.8 = 20$ m. Distancia de frenado: $d_f = v_0^2/(2a) = 625/12 \approx 52.1$ m. Total: $20 + 52.1 = 72.1$ m. -->
 - [ ] C) 20 m <!-- feedback: Incorrect. 20 m es solo la distancia recorrida durante el tiempo de reacción, falta la distancia de frenado. -->
@@ -343,13 +362,14 @@ La distancia total de detención es la suma de: (1) distancia de reacción $d_r 
 
 **ID:** `CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v15`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Pensamiento Reflexivo y Sistémico
-**Context:** En Colombia, la deserción escolar durante la transición de básica secundaria a media (10° grado) es un tema de preocupación nacional. Un estudio sugiere que factores como el embarazo adolescente, la falta de orientación vocacional y problemas económicos contribuyen significativamente.
+**Contexto:** En Colombia, la deserción escolar durante la transición de básica secundaria a media (10° grado) es un tema de preocupación nacional. Un estudio sugiere que factores como el embarazo adolescente, la falta de orientación vocacional y problemas económicos contribuyen significativamente.
 
 ### Enunciado
 Relacionando conceptos de biología (reproducción humana, sistema endocrino) con situación social colombiana, ¿cuál de las siguientes medidas aborda de manera más integral la problemática del embarazo adolescente como factor de deserción escolar?
 
-### Options
+### Opciones
 - [ ] A) Prohibir las relaciones de pareja en instituciones educativas. <!-- feedback: Incorrect. Una prohibición sin educación no aborda las causas y no ha demostrado efectividad. -->
 - [x] B) Implementar programas de educación sexual integral que incluyan conocimiento del ciclo menstrual, métodos anticonceptivos, proyecto de vida y apoyo psicológico. <!-- feedback: Correct. La educación sexual integral combina conocimiento biológico con habilidades para la toma de decisiones y proyecto de vida. -->
 - [ ] C) Distribuir únicamente anticonceptivos sin formación sobre el sistema reproductor. <!-- feedback: Incorrect. Sin educación sobre cómo y por qué funcionan, la efectividad es limitada. -->

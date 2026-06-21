@@ -1,24 +1,32 @@
 ---
-id: "UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY"
+id: "UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY-bundle"
 country: "uy"
 exam: "ANEP / Ubicacion - Direccion General de Educacion Secundaria"
 grado: 11
 asignatura: "Ciencias Naturales"
 tema: "cinematica-movimiento"
-semana: 28
+week: "W28"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 20
 alignment: "ANEP - Plan 2006 Riformulacion / Programa Ubicacion"
+bundle_type: "weekly"
+total_questions: 20
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # MASTERY Bundle - Ciencias Naturales: Cinematica Movimiento (W28)
 **20 preguntas | Ciencias Naturales | ANEP / Ubicacion - Direccion General de Educacion Secundaria**
 
 ---
-## Pregunta 1 [D4]
+## Question 1 [D4]
 **ID:** `UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY-v1`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de UY practicando cinematica movimiento.
 
@@ -26,21 +34,22 @@ alignment: "ANEP - Plan 2006 Riformulacion / Programa Ubicacion"
 Simplifique: (8)(12x + 49)
 
 ### Opciones
-- [x] **A)** 96x + 392
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 96x + 49
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 20x + 392
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 96x - 392
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 96x + 392 <!-- feedback: Correcto! 96x + 392 -->
+
+- [ ] B) 96x + 49 <!-- feedback: Incorrecto. 96x + 49 -->
+
+- [ ] C) 20x + 392 <!-- feedback: Incorrecto. 20x + 392 -->
+
+- [ ] D) 96x - 392 <!-- feedback: Incorrecto. 96x - 392 -->
 
 **Explicacion:** Aplicar distributiva: (8)(12x + 49) = 96x + 392.
 
 ---
-## Pregunta 2 [D3]
+## Question 2 [D3]
 **ID:** `UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY-v2`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de UY practicando cinematica movimiento.
 
@@ -48,21 +57,22 @@ Simplifique: (8)(12x + 49)
 Resuelve: 2(x + 7) = 20
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] C) 9 <!-- feedback: Incorrecto. 9 -->
+
+- [ ] D) 6 <!-- feedback: Incorrecto. 6 -->
 
 **Explicacion:** 2(x+7) = 20 -> x+7 = 10 -> x = 3.
 
 ---
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY-v3`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de UY practicando cinematica movimiento.
 
@@ -70,21 +80,22 @@ Resuelve: 2(x + 7) = 20
 Maria compro 2 cuadernos a $7.5 c/u en Trinidad. &iquest;Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $14.5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** $2.5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $7.5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $9.5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $14.5 <!-- feedback: Correcto! $14.5 -->
+
+- [ ] B) $2.5 <!-- feedback: Incorrecto. $2.5 -->
+
+- [ ] C) $7.5 <!-- feedback: Incorrecto. $7.5 -->
+
+- [ ] D) $9.5 <!-- feedback: Incorrecto. $9.5 -->
 
 **Explicacion:** Total = 2 x $7 = $14.5.
 
 ---
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY-v4`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de UY practicando cinematica movimiento.
 
@@ -92,21 +103,22 @@ Maria compro 2 cuadernos a $7.5 c/u en Trinidad. &iquest;Cuanto gasto?
 Un estudiante de Liceo No. 1 Dr. Carlos A. Delgado en Artigas grafica f(x) = 8x + 2. &iquest;Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 8
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 10
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 8 <!-- feedback: Correcto! 8 -->
+
+- [ ] B) 2 <!-- feedback: Incorrecto. 2 -->
+
+- [ ] C) 10 <!-- feedback: Incorrecto. 10 -->
+
+- [ ] D) 7 <!-- feedback: Incorrecto. 7 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 8.
 
 ---
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY-v5`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de UY practicando cinematica movimiento.
 
@@ -114,21 +126,22 @@ Un estudiante de Liceo No. 1 Dr. Carlos A. Delgado en Artigas grafica f(x) = 8x 
 En un examen ANEP/MEC en Fray Bentos, se pide: si f(x) = 7x^2 + 12x + 9. &iquest;Cual es f(2)?
 
 ### Opciones
-- [x] **A)** 61
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 26
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 9
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 19
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 61 <!-- feedback: Correcto! 61 -->
+
+- [ ] B) 26 <!-- feedback: Incorrecto. 26 -->
+
+- [ ] C) 9 <!-- feedback: Incorrecto. 9 -->
+
+- [ ] D) 19 <!-- feedback: Incorrecto. 19 -->
 
 **Explicacion:** Sustituyo x=2: f(2) = 7(4) + 12(2) + 9 = 61.
 
 ---
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de UY practicando cinematica movimiento.
 
@@ -136,21 +149,22 @@ En un examen ANEP/MEC en Fray Bentos, se pide: si f(x) = 7x^2 + 12x + 9. &iquest
 Resuelve la ecuacion: x^2 - 17x + 72 = 0
 
 ### Opciones
-- [x] **A)** x = 8 y x = 9
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** x = 17 y x = 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** x = 0 y x = 72
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** No tiene solucion
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) x = 8 y x = 9 <!-- feedback: Correcto! x = 8 y x = 9 -->
+
+- [ ] B) x = 17 y x = 1 <!-- feedback: Incorrecto. x = 17 y x = 1 -->
+
+- [ ] C) x = 0 y x = 72 <!-- feedback: Incorrecto. x = 0 y x = 72 -->
+
+- [ ] D) No tiene solucion <!-- feedback: Incorrecto. No tiene solucion -->
 
 **Explicacion:** Ecuacion cuadratica: (x-8)(x-9) = 0, por tanto x = 8 o x = 9.
 
 ---
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY-v7`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de UY practicando cinematica movimiento.
 
@@ -158,21 +172,22 @@ Resuelve la ecuacion: x^2 - 17x + 72 = 0
 Un estudiante de San Jose obtuvo notas: 14, 12, 16. &iquest;Cual es la media?
 
 ### Opciones
-- [x] **A)** 14.0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 28
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 11
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 14.0 <!-- feedback: Correcto! 14.0 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] C) 28 <!-- feedback: Incorrecto. 28 -->
+
+- [ ] D) 11 <!-- feedback: Incorrecto. 11 -->
 
 **Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.
 
 ---
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de UY practicando cinematica movimiento.
 
@@ -180,21 +195,22 @@ Un estudiante de San Jose obtuvo notas: 14, 12, 16. &iquest;Cual es la media?
 Calcule la derivada de f(x) = 7x^3 + 1x^2 + 4x
 
 ### Opciones
-- [x] **A)** f'(x) = 21x^2 + 2x + 4
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** f'(x) = 7x^2 + 1x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** f'(x) = 21x^2 + 1x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** f'(x) = 21x^3 + 2x^2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) f'(x) = 21x^2 + 2x + 4 <!-- feedback: Correcto! f'(x) = 21x^2 + 2x + 4 -->
+
+- [ ] B) f'(x) = 7x^2 + 1x <!-- feedback: Incorrecto. f'(x) = 7x^2 + 1x -->
+
+- [ ] C) f'(x) = 21x^2 + 1x <!-- feedback: Incorrecto. f'(x) = 21x^2 + 1x -->
+
+- [ ] D) f'(x) = 21x^3 + 2x^2 <!-- feedback: Incorrecto. f'(x) = 21x^3 + 2x^2 -->
 
 **Explicacion:** Derivada termino a termino: d/dx(7x^3) = 21x^2, d/dx(1x^2) = 2x, d/dx(4x) = 4.
 
 ---
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY-v9`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de UY practicando cinematica movimiento.
 
@@ -202,21 +218,22 @@ Calcule la derivada de f(x) = 7x^3 + 1x^2 + 4x
 &iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0
 
 ### Opciones
-- [x] **A)** Si, es correcta porque f'(0) = 0 y f''(0) > 0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** No, tiene un maximo en x = 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** No, no tiene extremos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** Solo es correcta para x > 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) Si, es correcta porque f'(0) = 0 y f''(0) > 0 <!-- feedback: Correcto! Si, es correcta porque f'(0) = 0 y f''(0) > 0 -->
+
+- [ ] B) No, tiene un maximo en x = 0 <!-- feedback: Incorrecto. No, tiene un maximo en x = 0 -->
+
+- [ ] C) No, no tiene extremos <!-- feedback: Incorrecto. No, no tiene extremos -->
+
+- [ ] D) Solo es correcta para x > 0 <!-- feedback: Incorrecto. Solo es correcta para x > 0 -->
 
 **Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.
 
 ---
-## Pregunta 10 [D3]
+## Question 10 [D3]
 **ID:** `UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY-v10`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de UY practicando cinematica movimiento.
 
@@ -224,21 +241,22 @@ Calcule la derivada de f(x) = 7x^3 + 1x^2 + 4x
 En Tacuarembo, un estudiante del Liceo No. 1 Juan Zorrilla de San Martin resuelve: 2x + 11 = 21. &iquest;Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **D)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 3 <!-- feedback: Incorrecto. 3 -->
+
+- [ ] B) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 7 <!-- feedback: Incorrecto. 7 -->
 
 **Explicacion:** Se resta 11 de ambos lados. Luego se divide por 2: x = 5.
 
 ---
-## Pregunta 11 [D4]
+## Question 11 [D4]
 **ID:** `UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY-v11`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de UY practicando cinematica movimiento.
 
@@ -246,21 +264,22 @@ En Tacuarembo, un estudiante del Liceo No. 1 Juan Zorrilla de San Martin resuelv
 Simplifique: (4)(6x + 23)
 
 ### Opciones
-- [x] **A)** 24x + 92
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 24x + 23
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 10x + 92
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 24x - 92
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 24x + 92 <!-- feedback: Correcto! 24x + 92 -->
+
+- [ ] B) 24x + 23 <!-- feedback: Incorrecto. 24x + 23 -->
+
+- [ ] C) 10x + 92 <!-- feedback: Incorrecto. 10x + 92 -->
+
+- [ ] D) 24x - 92 <!-- feedback: Incorrecto. 24x - 92 -->
 
 **Explicacion:** Aplicar distributiva: (4)(6x + 23) = 24x + 92.
 
 ---
-## Pregunta 12 [D3]
+## Question 12 [D3]
 **ID:** `UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY-v12`
 **Bloom:** Understand
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de UY practicando cinematica movimiento.
 
@@ -268,21 +287,22 @@ Simplifique: (4)(6x + 23)
 Resuelve: 2(x + 6) = 18
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 6
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 6 <!-- feedback: Incorrecto. 6 -->
+
+- [ ] C) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] D) 5 <!-- feedback: Incorrecto. 5 -->
 
 **Explicacion:** 2(x+6) = 18 -> x+6 = 9 -> x = 3.
 
 ---
-## Pregunta 13 [D4]
+## Question 13 [D4]
 **ID:** `UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY-v13`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de UY practicando cinematica movimiento.
 
@@ -290,21 +310,22 @@ Resuelve: 2(x + 6) = 18
 Maria compro 7 cuadernos a $5.3 c/u en Tacuarembo. &iquest;Cuanto gasto?
 
 ### Opciones
-- [x] **A)** $35.3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** $7.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** $5.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** $12.3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) $35.3 <!-- feedback: Correcto! $35.3 -->
+
+- [ ] B) $7.3 <!-- feedback: Incorrecto. $7.3 -->
+
+- [ ] C) $5.3 <!-- feedback: Incorrecto. $5.3 -->
+
+- [ ] D) $12.3 <!-- feedback: Incorrecto. $12.3 -->
 
 **Explicacion:** Total = 7 x $5 = $35.3.
 
 ---
-## Pregunta 14 [D5]
+## Question 14 [D5]
 **ID:** `UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY-v14`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de UY practicando cinematica movimiento.
 
@@ -312,21 +333,22 @@ Maria compro 7 cuadernos a $5.3 c/u en Tacuarembo. &iquest;Cuanto gasto?
 Un estudiante de Liceo No. 1 Dr. Joaquin Suarez en Montevideo grafica f(x) = 3x + 4. &iquest;Cual es la pendiente?
 
 ### Opciones
-- [x] **A)** 3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 4
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 3 <!-- feedback: Correcto! 3 -->
+
+- [ ] B) 4 <!-- feedback: Incorrecto. 4 -->
+
+- [ ] C) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [ ] D) 2 <!-- feedback: Incorrecto. 2 -->
 
 **Explicacion:** En f(x) = mx + n, la pendiente m = 3.
 
 ---
-## Pregunta 15 [D5]
+## Question 15 [D5]
 **ID:** `UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY-v15`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de UY practicando cinematica movimiento.
 
@@ -334,21 +356,22 @@ Un estudiante de Liceo No. 1 Dr. Joaquin Suarez en Montevideo grafica f(x) = 3x 
 En un examen ANEP/MEC en Canelones, se pide: si f(x) = 4x^2 + 7x + 5. &iquest;Cual es f(2)?
 
 ### Opciones
-- [x] **A)** 35
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 15
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 5
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 11
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 35 <!-- feedback: Correcto! 35 -->
+
+- [ ] B) 15 <!-- feedback: Incorrecto. 15 -->
+
+- [ ] C) 5 <!-- feedback: Incorrecto. 5 -->
+
+- [ ] D) 11 <!-- feedback: Incorrecto. 11 -->
 
 **Explicacion:** Sustituyo x=2: f(2) = 4(4) + 7(2) + 5 = 35.
 
 ---
-## Pregunta 16 [D6]
+## Question 16 [D6]
 **ID:** `UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY-v16`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de UY practicando cinematica movimiento.
 
@@ -356,21 +379,22 @@ En un examen ANEP/MEC en Canelones, se pide: si f(x) = 4x^2 + 7x + 5. &iquest;Cu
 Resuelve la ecuacion: x^2 - 4x + 3 = 0
 
 ### Opciones
-- [x] **A)** x = 3 y x = 1
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** x = 4 y x = 2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** x = 0 y x = 3
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** No tiene solucion
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) x = 3 y x = 1 <!-- feedback: Correcto! x = 3 y x = 1 -->
+
+- [ ] B) x = 4 y x = 2 <!-- feedback: Incorrecto. x = 4 y x = 2 -->
+
+- [ ] C) x = 0 y x = 3 <!-- feedback: Incorrecto. x = 0 y x = 3 -->
+
+- [ ] D) No tiene solucion <!-- feedback: Incorrecto. No tiene solucion -->
 
 **Explicacion:** Ecuacion cuadratica: (x-3)(x-1) = 0, por tanto x = 3 o x = 1.
 
 ---
-## Pregunta 17 [D6]
+## Question 17 [D6]
 **ID:** `UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY-v17`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de UY practicando cinematica movimiento.
 
@@ -378,21 +402,22 @@ Resuelve la ecuacion: x^2 - 4x + 3 = 0
 Un estudiante de Paysandu obtuvo notas: 12, 6, 13. &iquest;Cual es la media?
 
 ### Opciones
-- [x] **A)** 10.3
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** 12
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** 8
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) 10.3 <!-- feedback: Correcto! 10.3 -->
+
+- [ ] B) 8 <!-- feedback: Incorrecto. 8 -->
+
+- [ ] C) 12 <!-- feedback: Incorrecto. 12 -->
+
+- [ ] D) 8 <!-- feedback: Incorrecto. 8 -->
 
 **Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.
 
 ---
-## Pregunta 18 [D7]
+## Question 18 [D7]
 **ID:** `UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY-v18`
 **Bloom:** Apply
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de UY practicando cinematica movimiento.
 
@@ -400,21 +425,22 @@ Un estudiante de Paysandu obtuvo notas: 12, 6, 13. &iquest;Cual es la media?
 Calcule la derivada de f(x) = 5x^3 + 2x^2 + 5x
 
 ### Opciones
-- [x] **A)** f'(x) = 15x^2 + 4x + 5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** f'(x) = 5x^2 + 2x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** f'(x) = 15x^2 + 2x
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** f'(x) = 15x^3 + 4x^2
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) f'(x) = 15x^2 + 4x + 5 <!-- feedback: Correcto! f'(x) = 15x^2 + 4x + 5 -->
+
+- [ ] B) f'(x) = 5x^2 + 2x <!-- feedback: Incorrecto. f'(x) = 5x^2 + 2x -->
+
+- [ ] C) f'(x) = 15x^2 + 2x <!-- feedback: Incorrecto. f'(x) = 15x^2 + 2x -->
+
+- [ ] D) f'(x) = 15x^3 + 4x^2 <!-- feedback: Incorrecto. f'(x) = 15x^3 + 4x^2 -->
 
 **Explicacion:** Derivada termino a termino: d/dx(5x^3) = 15x^2, d/dx(2x^2) = 4x, d/dx(5x) = 5.
 
 ---
-## Pregunta 19 [D7]
+## Question 19 [D7]
 **ID:** `UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY-v19`
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de UY practicando cinematica movimiento.
 
@@ -422,21 +448,22 @@ Calcule la derivada de f(x) = 5x^3 + 2x^2 + 5x
 &iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0
 
 ### Opciones
-- [x] **A)** Si, es correcta porque f'(0) = 0 y f''(0) > 0
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **B)** No, tiene un maximo en x = 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **C)** No, no tiene extremos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **D)** Solo es correcta para x > 0
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) Si, es correcta porque f'(0) = 0 y f''(0) > 0 <!-- feedback: Correcto! Si, es correcta porque f'(0) = 0 y f''(0) > 0 -->
+
+- [ ] B) No, tiene un maximo en x = 0 <!-- feedback: Incorrecto. No, tiene un maximo en x = 0 -->
+
+- [ ] C) No, no tiene extremos <!-- feedback: Incorrecto. No, no tiene extremos -->
+
+- [ ] D) Solo es correcta para x > 0 <!-- feedback: Incorrecto. Solo es correcta para x > 0 -->
 
 **Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.
 
 ---
-## Pregunta 20 [D3]
+## Question 20 [D3]
 **ID:** `UY-CIE-11-2026-W28-cinematica-movimiento-001-MASTERY-v20`
 **Bloom:** Remember
+**Expected_Success:** 0.75
+**ICFES:** Uso de conocimientos
 
 **Contexto:** Estudiantes de UY practicando cinematica movimiento.
 
@@ -444,14 +471,13 @@ Calcule la derivada de f(x) = 5x^3 + 2x^2 + 5x
 En Rivera, un estudiante del Liceo No. 1 Dra. Celia O. de Rubio resuelve: 5x + 6 = 31. &iquest;Cual es el valor de x?
 
 ### Opciones
-- [ ] **A)** 1
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] **B)** 7
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [x] **C)** 5
-  <!-- feedback: &iexcl;Correcto! -->
-- [ ] **D)** 12
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) 1 <!-- feedback: Incorrecto. 1 -->
+
+- [ ] B) 7 <!-- feedback: Incorrecto. 7 -->
+
+- [x] C) 5 <!-- feedback: Correcto! 5 -->
+
+- [ ] D) 12 <!-- feedback: Incorrecto. 12 -->
 
 **Explicacion:** Se resta 6 de ambos lados. Luego se divide por 5: x = 5.
 

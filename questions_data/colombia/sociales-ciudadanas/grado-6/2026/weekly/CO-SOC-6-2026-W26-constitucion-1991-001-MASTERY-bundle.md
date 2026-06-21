@@ -1,10 +1,10 @@
 ---
-id: "CO-SOC-6-2026-W26-constitucion-1991-001-MASTERY"
+id: "CO-SOC-6-2026-W26-constitucion-1991-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "sociales-ciudadanas"
 tema: "constitucion-1991"
-semana: "W26"
+week: "W26"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -15,7 +15,12 @@ distractor_profile: "plausible_peer_set"
 rubric_baseline: "Constitución de 1991 - Grado 6"
 license: "FREE"
 
+bundle_type: "weekly"
+total_questions: 10
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Constitución de 1991 - Grado 6
 
@@ -25,7 +30,7 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ---
 
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 **ID:** `CO-SOC-6-2026-W26-constitucion-1991-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento Ciudadano
@@ -36,21 +41,20 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ¿En qué año se promulgó la actual Constitución Política de Colombia?
 
 ### Opciones
-- [x] A) 1991
-  <!-- feedback: ¡Correcto! La Constitución de 1991 es la actual. -->
-- [ ] B) 1886
-  <!-- feedback: Esa fue la Constitución anterior. -->
-- [ ] C) 1957
-  <!-- feedback: Ese año fue el plebiscito del Frente Nacional. -->
-- [ ] D) 1810
-  <!-- feedback: Ese año fue el Grito de Independencia. -->
+- [x] A) 1991 <!-- feedback: Correcto! 1991 -->
+
+- [ ] B) 1886 <!-- feedback: Incorrecto. 1886 -->
+
+- [ ] C) 1957 <!-- feedback: Incorrecto. 1957 -->
+
+- [ ] D) 1810 <!-- feedback: Incorrecto. 1810 -->
 
 ### Explicación Pedagógica
 La Constitución de 1991 reemplazó la de 1886 y estableció un Estado Social de Derecho.
 
 ---
 
-## Pregunta 2 [D2]
+## Question 2 [D2]
 **ID:** `CO-SOC-6-2026-W26-constitucion-1991-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Pensamiento Social
@@ -61,21 +65,20 @@ La Constitución de 1991 reemplazó la de 1886 y estableció un Estado Social de
 ¿En qué año se promulgó la actual Constitución Política de Colombia?
 
 ### Opciones
-- [x] A) 1991
-  <!-- feedback: ¡Correcto! La Constitución de 1991 es la actual. -->
-- [ ] B) 1886
-  <!-- feedback: Esa fue la Constitución anterior. -->
-- [ ] C) 1957
-  <!-- feedback: Ese año fue el plebiscito del Frente Nacional. -->
-- [ ] D) 1810
-  <!-- feedback: Ese año fue el Grito de Independencia. -->
+- [x] A) 1991 <!-- feedback: Correcto! 1991 -->
+
+- [ ] B) 1886 <!-- feedback: Incorrecto. 1886 -->
+
+- [ ] C) 1957 <!-- feedback: Incorrecto. 1957 -->
+
+- [ ] D) 1810 <!-- feedback: Incorrecto. 1810 -->
 
 ### Explicación Pedagógica
 La Constitución de 1991 reemplazó la de 1886 y estableció un Estado Social de Derecho.
 
 ---
 
-## Pregunta 3 [D3]
+## Question 3 [D3]
 **ID:** `CO-SOC-6-2026-W26-constitucion-1991-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
@@ -86,21 +89,20 @@ La Constitución de 1991 reemplazó la de 1886 y estableció un Estado Social de
 ¿En qué año se promulgó la actual Constitución Política de Colombia?
 
 ### Opciones
-- [x] A) 1991
-  <!-- feedback: ¡Correcto! La Constitución de 1991 es la actual. -->
-- [ ] B) 1886
-  <!-- feedback: Esa fue la Constitución anterior. -->
-- [ ] C) 1957
-  <!-- feedback: Ese año fue el plebiscito del Frente Nacional. -->
-- [ ] D) 1810
-  <!-- feedback: Ese año fue el Grito de Independencia. -->
+- [x] A) 1991 <!-- feedback: Correcto! 1991 -->
+
+- [ ] B) 1886 <!-- feedback: Incorrecto. 1886 -->
+
+- [ ] C) 1957 <!-- feedback: Incorrecto. 1957 -->
+
+- [ ] D) 1810 <!-- feedback: Incorrecto. 1810 -->
 
 ### Explicación Pedagógica
 La Constitución de 1991 reemplazó la de 1886 y estableció un Estado Social de Derecho.
 
 ---
 
-## Pregunta 4 [D3]
+## Question 4 [D3]
 **ID:** `CO-SOC-6-2026-W26-constitucion-1991-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Ciudadano
@@ -111,21 +113,20 @@ La Constitución de 1991 reemplazó la de 1886 y estableció un Estado Social de
 ¿En qué año se promulgó la actual Constitución Política de Colombia?
 
 ### Opciones
-- [x] A) 1991
-  <!-- feedback: ¡Correcto! La Constitución de 1991 es la actual. -->
-- [ ] B) 1886
-  <!-- feedback: Esa fue la Constitución anterior. -->
-- [ ] C) 1957
-  <!-- feedback: Ese año fue el plebiscito del Frente Nacional. -->
-- [ ] D) 1810
-  <!-- feedback: Ese año fue el Grito de Independencia. -->
+- [x] A) 1991 <!-- feedback: Correcto! 1991 -->
+
+- [ ] B) 1886 <!-- feedback: Incorrecto. 1886 -->
+
+- [ ] C) 1957 <!-- feedback: Incorrecto. 1957 -->
+
+- [ ] D) 1810 <!-- feedback: Incorrecto. 1810 -->
 
 ### Explicación Pedagógica
 La Constitución de 1991 reemplazó la de 1886 y estableció un Estado Social de Derecho.
 
 ---
 
-## Pregunta 5 [D4]
+## Question 5 [D4]
 **ID:** `CO-SOC-6-2026-W26-constitucion-1991-001-MASTERY-v5`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
@@ -136,21 +137,20 @@ La Constitución de 1991 reemplazó la de 1886 y estableció un Estado Social de
 ¿En qué año se promulgó la actual Constitución Política de Colombia?
 
 ### Opciones
-- [x] A) 1991
-  <!-- feedback: ¡Correcto! La Constitución de 1991 es la actual. -->
-- [ ] B) 1886
-  <!-- feedback: Esa fue la Constitución anterior. -->
-- [ ] C) 1957
-  <!-- feedback: Ese año fue el plebiscito del Frente Nacional. -->
-- [ ] D) 1810
-  <!-- feedback: Ese año fue el Grito de Independencia. -->
+- [x] A) 1991 <!-- feedback: Correcto! 1991 -->
+
+- [ ] B) 1886 <!-- feedback: Incorrecto. 1886 -->
+
+- [ ] C) 1957 <!-- feedback: Incorrecto. 1957 -->
+
+- [ ] D) 1810 <!-- feedback: Incorrecto. 1810 -->
 
 ### Explicación Pedagógica
 La Constitución de 1991 reemplazó la de 1886 y estableció un Estado Social de Derecho.
 
 ---
 
-## Pregunta 6 [D4]
+## Question 6 [D4]
 **ID:** `CO-SOC-6-2026-W26-constitucion-1991-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
@@ -161,21 +161,20 @@ La Constitución de 1991 reemplazó la de 1886 y estableció un Estado Social de
 ¿En qué año se promulgó la actual Constitución Política de Colombia?
 
 ### Opciones
-- [x] A) 1991
-  <!-- feedback: ¡Correcto! La Constitución de 1991 es la actual. -->
-- [ ] B) 1886
-  <!-- feedback: Esa fue la Constitución anterior. -->
-- [ ] C) 1957
-  <!-- feedback: Ese año fue el plebiscito del Frente Nacional. -->
-- [ ] D) 1810
-  <!-- feedback: Ese año fue el Grito de Independencia. -->
+- [x] A) 1991 <!-- feedback: Correcto! 1991 -->
+
+- [ ] B) 1886 <!-- feedback: Incorrecto. 1886 -->
+
+- [ ] C) 1957 <!-- feedback: Incorrecto. 1957 -->
+
+- [ ] D) 1810 <!-- feedback: Incorrecto. 1810 -->
 
 ### Explicación Pedagógica
 La Constitución de 1991 reemplazó la de 1886 y estableció un Estado Social de Derecho.
 
 ---
 
-## Pregunta 7 [D5]
+## Question 7 [D5]
 **ID:** `CO-SOC-6-2026-W26-constitucion-1991-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Pensamiento Ciudadano
@@ -186,21 +185,20 @@ La Constitución de 1991 reemplazó la de 1886 y estableció un Estado Social de
 ¿En qué año se promulgó la actual Constitución Política de Colombia?
 
 ### Opciones
-- [x] A) 1991
-  <!-- feedback: ¡Correcto! La Constitución de 1991 es la actual. -->
-- [ ] B) 1886
-  <!-- feedback: Esa fue la Constitución anterior. -->
-- [ ] C) 1957
-  <!-- feedback: Ese año fue el plebiscito del Frente Nacional. -->
-- [ ] D) 1810
-  <!-- feedback: Ese año fue el Grito de Independencia. -->
+- [x] A) 1991 <!-- feedback: Correcto! 1991 -->
+
+- [ ] B) 1886 <!-- feedback: Incorrecto. 1886 -->
+
+- [ ] C) 1957 <!-- feedback: Incorrecto. 1957 -->
+
+- [ ] D) 1810 <!-- feedback: Incorrecto. 1810 -->
 
 ### Explicación Pedagógica
 La Constitución de 1991 reemplazó la de 1886 y estableció un Estado Social de Derecho.
 
 ---
 
-## Pregunta 8 [D2-D3]
+## Question 8 [D2-D3]
 **ID:** `CO-SOC-6-2026-W26-constitucion-1991-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
@@ -211,21 +209,20 @@ La Constitución de 1991 reemplazó la de 1886 y estableció un Estado Social de
 ¿En qué año se promulgó la actual Constitución Política de Colombia?
 
 ### Opciones
-- [x] A) 1991
-  <!-- feedback: ¡Correcto! La Constitución de 1991 es la actual. -->
-- [ ] B) 1886
-  <!-- feedback: Esa fue la Constitución anterior. -->
-- [ ] C) 1957
-  <!-- feedback: Ese año fue el plebiscito del Frente Nacional. -->
-- [ ] D) 1810
-  <!-- feedback: Ese año fue el Grito de Independencia. -->
+- [x] A) 1991 <!-- feedback: Correcto! 1991 -->
+
+- [ ] B) 1886 <!-- feedback: Incorrecto. 1886 -->
+
+- [ ] C) 1957 <!-- feedback: Incorrecto. 1957 -->
+
+- [ ] D) 1810 <!-- feedback: Incorrecto. 1810 -->
 
 ### Explicación Pedagógica
 La Constitución de 1991 reemplazó la de 1886 y estableció un Estado Social de Derecho.
 
 ---
 
-## Pregunta 9 [D3-D4]
+## Question 9 [D3-D4]
 **ID:** `CO-SOC-6-2026-W26-constitucion-1991-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Social
@@ -236,21 +233,20 @@ La Constitución de 1991 reemplazó la de 1886 y estableció un Estado Social de
 ¿En qué año se promulgó la actual Constitución Política de Colombia?
 
 ### Opciones
-- [x] A) 1991
-  <!-- feedback: ¡Correcto! La Constitución de 1991 es la actual. -->
-- [ ] B) 1886
-  <!-- feedback: Esa fue la Constitución anterior. -->
-- [ ] C) 1957
-  <!-- feedback: Ese año fue el plebiscito del Frente Nacional. -->
-- [ ] D) 1810
-  <!-- feedback: Ese año fue el Grito de Independencia. -->
+- [x] A) 1991 <!-- feedback: Correcto! 1991 -->
+
+- [ ] B) 1886 <!-- feedback: Incorrecto. 1886 -->
+
+- [ ] C) 1957 <!-- feedback: Incorrecto. 1957 -->
+
+- [ ] D) 1810 <!-- feedback: Incorrecto. 1810 -->
 
 ### Explicación Pedagógica
 La Constitución de 1991 reemplazó la de 1886 y estableció un Estado Social de Derecho.
 
 ---
 
-## Pregunta 10 [D4-D5]
+## Question 10 [D4-D5]
 **ID:** `CO-SOC-6-2026-W26-constitucion-1991-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Ciudadano
@@ -261,14 +257,13 @@ La Constitución de 1991 reemplazó la de 1886 y estableció un Estado Social de
 ¿En qué año se promulgó la actual Constitución Política de Colombia?
 
 ### Opciones
-- [x] A) 1991
-  <!-- feedback: ¡Correcto! La Constitución de 1991 es la actual. -->
-- [ ] B) 1886
-  <!-- feedback: Esa fue la Constitución anterior. -->
-- [ ] C) 1957
-  <!-- feedback: Ese año fue el plebiscito del Frente Nacional. -->
-- [ ] D) 1810
-  <!-- feedback: Ese año fue el Grito de Independencia. -->
+- [x] A) 1991 <!-- feedback: Correcto! 1991 -->
+
+- [ ] B) 1886 <!-- feedback: Incorrecto. 1886 -->
+
+- [ ] C) 1957 <!-- feedback: Incorrecto. 1957 -->
+
+- [ ] D) 1810 <!-- feedback: Incorrecto. 1810 -->
 
 ### Explicación Pedagógica
 La Constitución de 1991 reemplazó la de 1886 y estableció un Estado Social de Derecho.

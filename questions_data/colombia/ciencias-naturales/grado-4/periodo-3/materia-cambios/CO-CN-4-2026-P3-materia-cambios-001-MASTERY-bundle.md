@@ -1,5 +1,5 @@
 ---
-id: "CO-CN-4-2026-P3-materia-cambios-001-MASTERY"
+id: "CO-CN-4-2026-P3-materia-cambios-001-MASTERY-bundle"
 country: "colombia"
 grado: 4
 asignatura: "ciencias-naturales"
@@ -16,19 +16,27 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Entorno físico"
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 ## Question 1 [D3]
 
 **ID:** `CO-CN-4-2026-P3-materia-cambios-001-MASTERY-v1`
-**Bloom:** [Remember]
+**Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento científico]
-**Context:** Preparando un refresco en la cocina.
+**Contexto:** Preparando un refresco en la cocina.
 
 ### Enunciado
 Si pones unos cubos de hielo en un vaso con agua y los dejas al sol, después de un tiempo los cubos desaparecen y solo queda agua líquida. ¿Cómo se llama este cambio de estado de la materia?
 
-### Options
+### Opciones
 - [ ] A) Evaporación <!-- feedback: Incorrect. La evaporación es el paso de líquido a gas. Aquí el hielo (sólido) se convirtió en agua líquida. -->
 - [x] B) Fusión <!-- feedback: Correct. La fusión es el proceso físico mediante el cual un sólido se convierte en líquido debido al aumento de la temperatura. -->
 - [ ] C) Solidificación <!-- feedback: Incorrect. La solidificación es el proceso inverso: cuando el agua líquida se congela y se vuelve hielo sólido. -->
@@ -42,14 +50,15 @@ Se evalúa el conocimiento de los cambios de estado del agua. La respuesta corre
 ## Question 2 [D3]
 
 **ID:** `CO-CN-4-2026-P3-materia-cambios-001-MASTERY-v2`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento científico]
-**Context:** Características de los globos en una fiesta en Barranquilla.
+**Contexto:** Características de los globos en una fiesta en Barranquilla.
 
 ### Enunciado
 El aire que está dentro de un globo se encuentra en estado gaseoso. ¿Cuál es una característica principal de la materia en estado gaseoso?
 
-### Options
+### Opciones
 - [ ] A) Tiene una forma fija que nunca cambia. <!-- feedback: Incorrect. Los sólidos tienen forma fija. Los gases toman la forma del recipiente que los contiene. -->
 - [ ] B) Es muy duro y difícil de comprimir. <!-- feedback: Incorrect. Los gases se pueden comprimir fácilmente (reducir su volumen), a diferencia de los sólidos. -->
 - [x] C) No tiene forma propia y ocupa todo el espacio disponible. <!-- feedback: Correct. Las moléculas de los gases están muy separadas y se mueven libremente, expandiéndose hasta llenar el envase. -->
@@ -63,14 +72,15 @@ Se evalúa la comprensión de las propiedades de los estados de la materia. La r
 ## Question 3 [D4]
 
 **ID:** `CO-CN-4-2026-P3-materia-cambios-001-MASTERY-v3`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Explicación de fenómenos]
-**Context:** La formación de nubes en las montañas de los Andes.
+**Contexto:** La formación de nubes en las montañas de los Andes.
 
 ### Enunciado
 Cuando el vapor de agua que sube de los ríos y bosques llega a las partes altas y frías de la atmósfera, se forman pequeñas gotas de agua que dan origen a las nubes. ¿Qué cambio de estado está ocurriendo allí?
 
-### Options
+### Opciones
 - [ ] A) Sublimación <!-- feedback: Incorrect. La sublimación es el paso directo de sólido a gas sin pasar por líquido, lo cual no describe la formación de nubes líquidas. -->
 - [x] B) Condensación <!-- feedback: Correct. La condensación es el paso de estado gaseoso (vapor de agua) a estado líquido (gotitas de agua) debido a la disminución de la temperatura. -->
 - [ ] C) Vaporización <!-- feedback: Incorrect. La vaporización es el paso de líquido a gas, que es lo que sucede abajo en el río, pero no en la formación de la nube arriba. -->
@@ -84,14 +94,15 @@ Se evalúa la aplicación de los cambios de estado en fenómenos naturales del c
 ## Question 4 [D4]
 
 **ID:** `CO-CN-4-2026-P3-materia-cambios-001-MASTERY-v4`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento científico]
-**Context:** Diferenciando cambios en la cocina de la abuela.
+**Contexto:** Diferenciando cambios en la cocina de la abuela.
 
 ### Enunciado
 ¿Cuál de las siguientes situaciones representa un **cambio químico**, donde la materia se transforma en una sustancia diferente?
 
-### Options
+### Opciones
 - [ ] A) Romper un plato de porcelana en muchos pedazos. <!-- feedback: Incorrect. Aunque el plato cambia de forma, sigue siendo porcelana. Es un cambio físico. -->
 - [ ] B) Arrugar una hoja de papel hasta hacerla una bolita. <!-- feedback: Incorrect. El papel sigue siendo papel, solo ha cambiado su apariencia externa. Es un cambio físico. -->
 - [x] C) Quemar un trozo de madera hasta que se vuelva ceniza y humo. <!-- feedback: Correct. Al arder, la madera reacciona con el oxígeno y se convierte en sustancias nuevas (cenizas, gases). Es una reacción química irreversible. -->
@@ -105,14 +116,15 @@ Se evalúa la distinción entre cambios físicos y químicos. La respuesta corre
 ## Question 5 [D4]
 
 **ID:** `CO-CN-4-2026-P3-materia-cambios-001-MASTERY-v5`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Formulación y ejecución]
-**Context:** Midiendo objetos en una clase de laboratorio en Cali.
+**Contexto:** Midiendo objetos en una clase de laboratorio en Cali.
 
 ### Enunciado
 Si quieres medir la **masa** de una piedra de forma exacta, ¿cuál es el instrumento y la unidad de medida que debes utilizar?
 
-### Options
+### Opciones
 - [ ] A) Una regla y medir en centímetros. <!-- feedback: Incorrect. La regla mide longitud o distancia, no la cantidad de materia (masa). -->
 - [x] B) Una balanza y medir en gramos o kilogramos. <!-- feedback: Correct. La balanza es el instrumento para comparar masas, y el gramo/kilogramo son las unidades estándar de masa. -->
 - [ ] C) Un termómetro y medir en grados Celsius. <!-- feedback: Incorrect. El termómetro mide la temperatura, que no tiene relación con el peso o la masa del objeto. -->
@@ -126,14 +138,15 @@ Se evalúa el conocimiento sobre magnitudes físicas e instrumentos de medida. L
 ## Question 6 [D5]
 
 **ID:** `CO-CN-4-2026-P3-materia-cambios-001-MASTERY-v6`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Explicación de fenómenos]
-**Context:** Un experimento con agua y aceite en un vaso.
+**Contexto:** Un experimento con agua y aceite en un vaso.
 
 ### Enunciado
 Al mezclar agua y aceite en un vaso, el aceite siempre se queda en la parte de arriba y el agua abajo. ¿A qué propiedad de la materia se debe principalmente este fenómeno?
 
-### Options
+### Opciones
 - [ ] A) Al color de las sustancias. <!-- feedback: Incorrect. El color no influye en si una sustancia flota o se hunde en otra. -->
 - [ ] B) Al sabor de las sustancias. <!-- feedback: Incorrect. El sabor es una propiedad organoléptica que no afecta las propiedades físicas de flotabilidad. -->
 - [x] C) A la diferencia de densidad entre el agua y el aceite. <!-- feedback: Correct. El aceite es menos denso que el agua, por lo que "flota" sobre ella independientemente de la cantidad. -->
@@ -147,14 +160,15 @@ Se evalúa el concepto de densidad. La respuesta correcta identifica la densidad
 ## Question 7 [D5]
 
 **ID:** `CO-CN-4-2026-P3-materia-cambios-001-MASTERY-v7`
-**Bloom:** [Apply]
+**Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** [Indagación]
-**Context:** Una fogata durante un campamento en el Quindío.
+**Contexto:** Una fogata durante un campamento en el Quindío.
 
 ### Enunciado
 Cuando se quema madera en una fogata, se produce calor y luz. ¿Qué tipo de energía se está liberando principalmente durante este proceso químico?
 
-### Options
+### Opciones
 - [ ] A) Energía eléctrica <!-- feedback: Incorrect. La fogata no produce electricidad directamente para encender bombillos o aparatos. -->
 - [x] B) Energía térmica (calorífica) <!-- feedback: Correct. La combustión de la madera libera energía almacenada en forma de calor y también energía lumínica. -->
 - [ ] C) Energía sonora <!-- feedback: Incorrect. Aunque la madera "traquea", el sonido no es el tipo de energía principal que se busca u obtiene de una fogata. -->
@@ -168,14 +182,15 @@ Se evalúa el reconocimiento de las formas de energía asociadas a cambios quím
 ## Question 8 [D5]
 
 **ID:** `CO-CN-4-2026-P3-materia-cambios-001-MASTERY-v8`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Uso comprensivo del conocimiento científico]
-**Context:** El ciclo del agua en la naturaleza colombiana.
+**Contexto:** El ciclo del agua en la naturaleza colombiana.
 
 ### Enunciado
 ¿Cuál es la fuente de energía principal que hace que el agua de los océanos se evapore y comience el ciclo del agua en nuestro planeta?
 
-### Options
+### Opciones
 - [ ] A) El viento fuerte del mar. <!-- feedback: Incorrect. El viento ayuda a mover las nubes, pero no aporta el calor necesario para evaporar grandes cantidades de agua líquida. -->
 - [ ] B) Los peces que nadan muy rápido. <!-- feedback: Incorrect. Los seres vivos no tienen suficiente energía térmica para causar cambios de estado en el océano. -->
 - [x] C) El calor proveniente del Sol. <!-- feedback: Correct. La radiación solar calienta la superficie del agua, dándole la energía necesaria a las moléculas para pasar de líquido a gas (evaporación). -->
@@ -189,14 +204,15 @@ Se evalúa la comprensión de los motores energéticos de los procesos físicos 
 ## Question 9 [D5]
 
 **ID:** `CO-CN-4-2026-P3-materia-cambios-001-MASTERY-v9`
-**Bloom:** [Analyze]
+**Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** [Explicación de fenómenos]
-**Context:** Un clavo de hierro olvidado en el patio de una casa en Cartagena.
+**Contexto:** Un clavo de hierro olvidado en el patio de una casa en Cartagena.
 
 ### Enunciado
 Un niño dejó un clavo de hierro en el patio y, debido a la humedad y el aire de la costa, después de unos días el clavo se puso de color café rojizo y se siente áspero. ¿Qué proceso químico ocurrió?
 
-### Options
+### Opciones
 - [ ] A) El clavo se congeló por la brisa marina. <!-- feedback: Incorrect. La costa es un lugar cálido; el cambio de color no tiene nada que ver con la temperatura de congelación. -->
 - [ ] B) El clavo se convirtió en madera por el sol. <!-- feedback: Incorrect. Un metal no puede transformarse en un material biológico como la madera. -->
 - [x] C) El clavo se oxidó al reaccionar con el oxígeno y el agua. <!-- feedback: Correct. La oxidación es un cambio químico donde el metal reacciona con el ambiente formando una sustancia nueva llamada óxido de hierro. -->
@@ -210,14 +226,15 @@ Se evalúa el reconocimiento del proceso de oxidación como cambio químico. La 
 ## Question 10 [D4]
 
 **ID:** `CO-CN-4-2026-P3-materia-cambios-001-MASTERY-v10`
-**Bloom:** [Understand]
+**Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** [Ciencia, tecnología y sociedad]
-**Context:** Diferenciando mezclas en el desayuno.
+**Contexto:** Diferenciando mezclas en el desayuno.
 
 ### Enunciado
 Si mezclas leche con chocolate en polvo y revuelves bien, ya no puedes ver dónde está el chocolate y dónde la leche por separado. ¿Cómo se llama este tipo de mezcla?
 
-### Options
+### Opciones
 - [ ] A) Mezcla heterogénea <!-- feedback: Incorrect. En las mezclas heterogéneas puedes ver los componentes a simple vista, como en una ensalada de frutas. -->
 - [x] B) Mezcla homogénea <!-- feedback: Correct. En una mezcla homogénea (o solución), los componentes se unen de tal forma que no se pueden distinguir a simple vista y tienen una apariencia uniforme. -->
 - [ ] C) Cambio químico irreversible <!-- feedback: Incorrect. Mezclar leche con chocolate es un cambio físico, no se crean sustancias totalmente nuevas, solo se combinan. -->

@@ -1,5 +1,5 @@
 ---
-id: "CO-CN-6-2026-P4-energy-001-MASTERY"
+id: "CO-CN-6-2026-P4-energy-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "ciencias-naturales"
@@ -19,7 +19,12 @@ rubric_baseline: "energy, forms, sources, renewable, non-renewable, transformati
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Energy
 
@@ -30,13 +35,14 @@ This bundle covers energy: forms of energy, renewable and non-renewable sources,
 
 **ID:** `CO-CN-6-2026-P4-energy-001-MASTERY-v1`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** In science in Bogotá they study energy.
+**Contexto:** In science in Bogotá they study energy.
 
 ### Enunciado
 What is energy?
 
-### Options
+### Opciones
 - [ ] A) A type of matter <!-- feedback: No. -->
 - [x] B) The ability to do work <!-- feedback: Correcto. -->
 - [ ] C) A physical object <!-- feedback: No. -->
@@ -52,13 +58,14 @@ Energy is the capacity to do work or produce change.
 
 **ID:** `CO-CN-6-2026-P4-energy-001-MASTERY-v2`
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** In Medellín they identify energy forms.
+**Contexto:** In Medellín they identify energy forms.
 
 ### Enunciado
 A moving car has ___ energy.
 
-### Options
+### Opciones
 - [ ] A) Potential <!-- feedback: Stored. -->
 - [x] B) Kinetic <!-- feedback: Correcto. -->
 - [ ] C) Nuclear <!-- feedback: No. -->
@@ -74,13 +81,14 @@ Kinetic energy = energy of motion. Potential = stored energy.
 
 **ID:** `CO-CN-6-2026-P4-energy-001-MASTERY-v3`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** In Cali they study energy transformations.
+**Contexto:** In Cali they study energy transformations.
 
 ### Enunciado
 A light bulb converts electrical energy to ___.
 
-### Options
+### Opciones
 - [ ] A) Chemical <!-- feedback: No. -->
 - [x] B) Light and heat <!-- feedback: Correcto. -->
 - [ ] C) Sound <!-- feedback: No. -->
@@ -96,13 +104,14 @@ Light bulbs produce light and heat from electrical energy.
 
 **ID:** `CO-CN-6-2026-P4-energy-001-MASTERY-v4`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** In Barranquilla they learn about renewable energy.
+**Contexto:** In Barranquilla they learn about renewable energy.
 
 ### Enunciado
 Which is a RENEWABLE energy source?
 
-### Options
+### Opciones
 - [ ] A) Coal <!-- feedback: Non-renewable. -->
 - [x] B) Solar <!-- feedback: Correcto. -->
 - [ ] C) Oil <!-- feedback: Non-renewable. -->
@@ -118,13 +127,14 @@ Solar energy is renewable (infinite). Coal and oil are non-renewable (finite).
 
 **ID:** `CO-CN-6-2026-P4-energy-001-MASTERY-v5`
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comunicación y Representación
-**Context:** In Bucaramanga they study the Law of Conservation of Energy.
+**Contexto:** In Bucaramanga they study the Law of Conservation of Energy.
 
 ### Enunciado
 Energy cannot be ___.
 
-### Options
+### Opciones
 - [ ] A) Transformed <!-- feedback: Can. -->
 - [x] B) Created or destroyed <!-- feedback: Correcto. -->
 - [ ] C) Transferred <!-- feedback: Can. -->
@@ -140,13 +150,14 @@ Law of Conservation: energy is neither created nor destroyed, only transformed.
 
 **ID:** `CO-CN-6-2026-P4-energy-001-MASTERY-v6`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** In Cartagena they explore heat transfer.
+**Contexto:** In Cartagena they explore heat transfer.
 
 ### Enunciado
 Heat transfer through direct contact is ___.
 
-### Options
+### Opciones
 - [ ] A) Convection <!-- feedback: Fluids. -->
 - [ ] B) Radiation <!-- feedback: Waves. -->
 - [x] C) Conduction <!-- feedback: Correcto. -->
@@ -162,13 +173,14 @@ Conduction: heat transfer through direct contact (e.g., pan on stove).
 
 **ID:** `CO-CN-6-2026-P4-energy-001-MASTERY-v7`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** In Pereira they study electricity generation.
+**Contexto:** In Pereira they study electricity generation.
 
 ### Enunciado
 Hydroelectric plants convert ___ to electricity.
 
-### Options
+### Opciones
 - [ ] A) Solar energy <!-- feedback: No. -->
 - [x] B) Kinetic energy of water <!-- feedback: Correcto. -->
 - [ ] C) Wind <!-- feedback: No. -->
@@ -184,13 +196,14 @@ Hydroelectric: falling water turns turbines, converting kinetic to electrical en
 
 **ID:** `CO-CN-6-2026-P4-energy-001-MASTERY-v8`
 **Bloom:** Apply
+**Expected_Success:** 0.75
 **ICFES:** Formulación y Ejecución
-**Context:** In Manizales they identify energy sources in Colombia.
+**Contexto:** In Manizales they identify energy sources in Colombia.
 
 ### Enunciado
 Most of Colombia's electricity comes from ___.
 
-### Options
+### Opciones
 - [ ] A) Coal <!-- feedback: No. -->
 - [x] B) Hydroelectric <!-- feedback: Correcto. -->
 - [ ] C) Nuclear <!-- feedback: No. -->
@@ -206,13 +219,14 @@ Colombia generates ~70% of electricity from hydroelectric plants.
 
 **ID:** `CO-CN-6-2026-P4-energy-001-MASTERY-v9`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** In Cúcuta they study potential energy.
+**Contexto:** In Cúcuta they study potential energy.
 
 ### Enunciado
 A book on a shelf has ___ energy.
 
-### Options
+### Opciones
 - [ ] A) Kinetic <!-- feedback: Not moving. -->
 - [x] B) Gravitational potential <!-- feedback: Correcto. -->
 - [ ] C) Chemical <!-- feedback: No. -->
@@ -228,13 +242,14 @@ Gravitational potential energy = mass x gravity x height (mgh).
 
 **ID:** `CO-CN-6-2026-P4-energy-001-MASTERY-v10`
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Razonamiento y Argumentación
-**Context:** In Ibagué they discuss energy efficiency.
+**Contexto:** In Ibagué they discuss energy efficiency.
 
 ### Enunciado
 Energy efficiency means ___.
 
-### Options
+### Opciones
 - [ ] A) Using more energy <!-- feedback: No. -->
 - [x] B) Getting more output from less input <!-- feedback: Correcto. -->
 - [ ] C) Wasting energy <!-- feedback: No. -->

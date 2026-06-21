@@ -1,28 +1,32 @@
 ---
-id: "CO-SOC-7-2026-W07-conquista-america-001-MASTERY"
+id: "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "sociales-ciudadanas"
 tema: "conquista-america"
-semana: "W07"
+week: "W07"
 periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_size: 12
 alignment: "DBA MEN + ICFES Saber 2026 — Pensamiento Social"
 tier: "premium"
-license: "CC-BY-NC"
+license: "FREE"
 quality_review_score: 95
+bundle_type: "weekly"
+total_questions: 12
+creador: "Jules-Agent"
 ---
+
 
 # Bundle Mastery: Conquista de América — Grado 7
 ## Semana W07 — La conquista española de América: imperios, expediciones y resistencia
 
-## Pregunta 1 [D3]
+## Question 1 [D3]
 **ID:** `CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En la clase de sociales del Colegio Anglo Colombiano de Bogotá, la profesora pregunta cuáles fueron las grandes civilizaciones que encontraron los españoles en América.
+**Contexto:** En la clase de sociales del Colegio Anglo Colombiano de Bogotá, la profesora pregunta cuáles fueron las grandes civilizaciones que encontraron los españoles en América.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +43,11 @@ Al llegar a América, los españoles encontraron una gran diversidad de pueblos.
 
 ---
 
-## Pregunta 2 [D4]
+## Question 2 [D4]
 **ID:** `CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** Los estudiantes del colegio de Cali leen un texto sobre la conquista de México dirigida por Hernán Cortés.
+**Contexto:** Los estudiantes del colegio de Cali leen un texto sobre la conquista de México dirigida por Hernán Cortés.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -60,11 +64,11 @@ La conquista del Imperio Azteca (1519-1521) por Hernán Cortés no fue una victo
 
 ---
 
-## Pregunta 3 [D4]
+## Question 3 [D4]
 **ID:** `CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Medellín, los estudiantes estudian la conquista del Imperio Inca.
+**Contexto:** En el colegio de Medellín, los estudiantes estudian la conquista del Imperio Inca.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -81,11 +85,11 @@ Francisco Pizarro conquistó el Imperio Inca (1532-1533) aprovechando una coyunt
 
 ---
 
-## Pregunta 4 [D5]
+## Question 4 [D5]
 **ID:** `CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Argumentación
-**Context:** En el colegio de Barranquilla, los estudiantes analizan la conquista del territorio de la actual Colombia.
+**Contexto:** En el colegio de Barranquilla, los estudiantes analizan la conquista del territorio de la actual Colombia.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -102,11 +106,11 @@ La conquista del territorio muisca fue una de las más complejas de América. Go
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Cartagena, los estudiantes leen una crónica sobre la resistencia indígena en el Nuevo Reino de Granada.
+**Contexto:** En el colegio de Cartagena, los estudiantes leen una crónica sobre la resistencia indígena en el Nuevo Reino de Granada.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -123,11 +127,11 @@ Los taironas, que habitaban la Sierra Nevada de Santa Marta, ofrecieron una de l
 
 ---
 
-## Pregunta 6 [D6]
+## Question 6 [D6]
 **ID:** `CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Pereira, Santiago pregunta por qué los indígenas americanos no resistieron exitosamente la invasión europea.
+**Contexto:** En el colegio de Pereira, Santiago pregunta por qué los indígenas americanos no resistieron exitosamente la invasión europea.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -144,11 +148,11 @@ La causa principal de la derrota indígena no fue la superioridad militar o mora
 
 ---
 
-## Pregunta 7 [D6]
+## Question 7 [D6]
 **ID:** `CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Bucaramanga, los estudiantes analizan el papel de Malintzin (Malinche) en la conquista de México.
+**Contexto:** En el colegio de Bucaramanga, los estudiantes analizan el papel de Malintzin (Malinche) en la conquista de México.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +169,11 @@ Malintzin (llamada Malinche por los españoles) fue una mujer nahua que fue entr
 
 ---
 
-## Pregunta 8 [D7]
+## Question 8 [D7]
 **ID:** `CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Pensamiento Social
-**Context:** En la I.E. de Villavicencio, los estudiantes analizan las Leyes de Burgos (1512) y las Leyes Nuevas (1542).
+**Contexto:** En la I.E. de Villavicencio, los estudiantes analizan las Leyes de Burgos (1512) y las Leyes Nuevas (1542).
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +190,11 @@ Las Leyes Nuevas (1542), promulgadas por Carlos V, fueron el resultado de las de
 
 ---
 
-## Pregunta 9 [D7]
+## Question 9 [D7]
 **ID:** `CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Interpretación de Textos
-**Context:** En el colegio de Cúcuta, los estudiantes analizan un testimonio de la resistencia del líder indígena Tundama.
+**Contexto:** En el colegio de Cúcuta, los estudiantes analizan un testimonio de la resistencia del líder indígena Tundama.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -207,11 +211,11 @@ El cacique Tundama (o Tundamá), que gobernaba el territorio del actual municipi
 
 ---
 
-## Pregunta 10 [D8]
+## Question 10 [D8]
 **ID:** `CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** En el colegio de Manizales, los estudiantes evalúan si la conquista fue justa desde una perspectiva ética.
+**Contexto:** En el colegio de Manizales, los estudiantes evalúan si la conquista fue justa desde una perspectiva ética.
 **Expected_Success:** 0.50
 
 ### Enunciado
@@ -228,11 +232,11 @@ Fray Bartolomé de las Casas (1484-1566) fue el principal defensor de los derech
 
 ---
 
-## Pregunta 11 [D8]
+## Question 11 [D8]
 **ID:** `CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Argumentación
-**Context:** En el colegio de Sincelejo, la profesora pregunta por la otra cara de la conquista: la resistencia y la adaptación cultural indígena.
+**Contexto:** En el colegio de Sincelejo, la profesora pregunta por la otra cara de la conquista: la resistencia y la adaptación cultural indígena.
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -249,11 +253,11 @@ La resistencia indígena frente a la conquista adoptó múltiples formas: (1) **
 
 ---
 
-## Pregunta 12 [D9]
+## Question 12 [D9]
 **ID:** `CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Pensamiento Social
-**Context:** La profesora de sociales del colegio de Bogotá propone un debate sobre cómo debería enseñarse la conquista de América hoy.
+**Contexto:** La profesora de sociales del colegio de Bogotá propone un debate sobre cómo debería enseñarse la conquista de América hoy.
 **Expected_Success:** 0.42
 
 ### Enunciado

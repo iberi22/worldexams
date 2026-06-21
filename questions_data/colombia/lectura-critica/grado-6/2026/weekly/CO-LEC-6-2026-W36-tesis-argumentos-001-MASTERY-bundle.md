@@ -1,10 +1,10 @@
 ---
-id: "CO-LEC-6-2026-W22-tesis-argumentos-001-MASTERY"
+id: "CO-LEC-6-2026-W36-tesis-argumentos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura-critica"
 tema: "Argumentos y Tesis en Textos"
-semana: 22
+week: "W22"
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
@@ -19,7 +19,12 @@ rubric_baseline: "tesis, argumentos, premisas, conclusión, estructura argumenta
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+year: 2026
+creador: "Jules-Agent"
 ---
+
 
 # Lectura Crítica G6 — Tesis y Argumentos
 
@@ -40,12 +45,13 @@ El servicio militar obligatorio debe eliminarse. En un Estado democrático, nadi
 ## Question 1 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 Según el texto, ¿quién defiende la postura de eliminar el servicio militar obligatorio?
 
-### Options
+### Opciones
 - [x] A) Laura Velásquez, abogada de derechos humanos. <!-- feedback: Correcto. El texto presenta su postura bajo el título "POSTURA 2: El servicio militar obligatorio debe eliminarse". -->
 - [ ] B) El Coronel (r) Andrés Ramírez. <!-- feedback: Incorrecto. El coronel defiende la postura contraria: mantener el servicio militar obligatorio. -->
 - [ ] C) La Defensoría del Pueblo. <!-- feedback: Incorrecto. La Defensoría es citada como fuente de datos, pero no presenta una postura propia en el texto. -->
@@ -57,12 +63,13 @@ Identificación de información explícita: quién defiende cada postura en un t
 ## Question 2 [D3]
 
 **Bloom:** Remember
+**Expected_Success:** 0.75
 **ICFES:** Identificación de contenidos locales
 
 ### Enunciado
 ¿Qué fuente cita Laura Velásquez para respaldar su afirmación sobre las quejas durante el servicio militar?
 
-### Options
+### Opciones
 - [ ] A) El Ejército Nacional. <!-- feedback: Incorrecto. El Ejército Nacional es citado por el Coronel Ramírez, no por Laura Velásquez. -->
 - [ ] B) El Ministerio de Defensa. <!-- feedback: Incorrecto. No se menciona al Ministerio de Defensa en el texto. -->
 - [x] C) La Defensoría del Pueblo. <!-- feedback: Correcto. Laura menciona que "según la Defensoría del Pueblo, cada año se presentan más de 500 quejas por maltrato y violaciones a derechos fundamentales". -->
@@ -74,12 +81,13 @@ Identificación de la fuente que respalda un argumento: el uso de datos de una i
 ## Question 3 [D4 - Identificación de la tesis]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Cuál es la tesis (opinión principal) del Coronel Ramírez?
 
-### Options
+### Opciones
 - [ ] A) Que Colombia necesita más soldados profesionales. <!-- feedback: Incorrecto. El coronel defiende el servicio obligatorio, no necesariamente más soldados profesionales. -->
 - [x] B) Que el servicio militar obligatorio debe mantenerse porque forma ciudadanos y ofrece oportunidades. <!-- feedback: Correcto. Su tesis es clara: "El servicio militar obligatorio debe mantenerse" porque forma el carácter y da oportunidades a jóvenes de zonas rurales. -->
 - [ ] C) Que los jóvenes deben estudiar antes de servir. <!-- feedback: Incorrecto. No es parte de su argumentación. -->
@@ -91,12 +99,13 @@ Identificación de la tesis en un texto argumentativo: la opinión principal que
 ## Question 4 [D4 - Identificación de argumentos]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Cuál de los siguientes NO es un argumento del Coronel Ramírez para mantener el servicio militar?
 
-### Options
+### Opciones
 - [ ] A) El servicio militar forma disciplina, responsabilidad y trabajo en equipo. <!-- feedback: Incorrecto. Eso sí es un argumento suyo. -->
 - [ ] B) Muchos jóvenes de zonas rurales encuentran oportunidades de estudio y trabajo en el servicio. <!-- feedback: Incorrecto. Eso también es parte de su argumentación. -->
 - [x] C) Cada año se presentan más de 500 quejas por maltrato durante el servicio. <!-- feedback: Correcto. Ese es un argumento de Laura Velásquez en contra del servicio militar, no del coronel. -->
@@ -108,12 +117,13 @@ Diferenciar entre argumentos de una postura y de la otra: reconocer a qué lado 
 ## Question 5 [D4 - Estructura argumentativa]
 
 **Bloom:** Understand
+**Expected_Success:** 0.75
 **ICFES:** Comprensión del sentido global
 
 ### Enunciado
 ¿Qué tipo de argumento usa Laura Velásquez cuando dice que "un país en paz no debería basar su defensa en jóvenes obligados"?
 
-### Options
+### Opciones
 - [ ] A) Un argumento de autoridad (cita a un experto). <!-- feedback: Incorrecto. No cita a ninguna autoridad específica. -->
 - [x] B) Un argumento basado en principios éticos y democráticos (libertad individual, derechos humanos). <!-- feedback: Correcto. Laura apela a valores fundamentales de la democracia: la libertad individual y los derechos humanos. Es un argumento de principios. -->
 - [ ] C) Un argumento estadístico (usa datos numéricos). <!-- feedback: Incorrecto. Aunque antes usó datos de la Defensoría, esta frase en particular no contiene estadísticas. -->
@@ -125,12 +135,13 @@ Identificación del tipo de argumento: los argumentos basados en principios éti
 ## Question 6 [D5 - Contraste de argumentos]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 Cuando Laura Velásquez dice que "el servicio militar sigue siendo discriminatorio: afecta principalmente a jóvenes de bajos recursos", ¿qué está cuestionando del argumento del Coronel Ramírez?
 
-### Options
+### Opciones
 - [ ] A) Que los jóvenes de zonas rurales realmente quieran servir. <!-- feedback: Incorrecto. No cuestiona los deseos de los jóvenes. -->
 - [x] B) Que el servicio militar sea realmente una "oportunidad" voluntaria, señalando que es una obligación que recae desproporcionadamente sobre quienes no pueden pagar la exención. <!-- feedback: Correcto. Laura argumenta que lo que el coronel presenta como "oportunidad" es en realidad una carga impuesta a los más pobres. -->
 - [ ] C) Que el Ejército Nacional tenga datos confiables. <!-- feedback: Incorrecto. No cuestiona los datos del coronel. -->
@@ -142,12 +153,13 @@ Comprensión del contraargumento: identificar cómo una postura cuestiona los fu
 ## Question 7 [D5 - Inferencia sobre sesgos]
 
 **Bloom:** Analyze
+**Expected_Success:** 0.75
 **ICFES:** Dimensión inferencial
 
 ### Enunciado
 El Coronel Ramírez dice que "más del 60% de los soldados provienen de municipios con pocas oportunidades laborales". ¿Qué inferencia podemos hacer sobre las familias de esos soldados?
 
-### Options
+### Opciones
 - [ ] A) Que son familias ricas que pueden costear la educación militar. <!-- feedback: Incorrecto. Los datos indican lo contrario: provienen de municipios con pocas oportunidades. -->
 - [ ] B) Que son familias que no quieren que sus hijos estudien. <!-- feedback: Incorrecto. No hay evidencia de eso. -->
 - [x] C) Que son familias de escasos recursos para quienes el servicio militar representa una opción económica cuando hay pocas alternativas. <!-- feedback: Correcto. Si provienen de municipios sin oportunidades laborales, es probable que el servicio militar sea una opción por necesidad, no por vocación. -->
@@ -159,12 +171,13 @@ Inferencia sobre las condiciones socioeconómicas a partir de información prese
 ## Question 8 [D5 - Evaluación de argumentos]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Cuál de los siguientes argumentos del Coronel Ramírez es más fácil de verificar o comprobar?
 
-### Options
+### Opciones
 - [ ] A) Que el servicio militar forma el carácter de los jóvenes. <!-- feedback: Incorrecto. Es una afirmación subjetiva que no se puede medir fácilmente. -->
 - [x] B) Que más del 60% de los soldados provienen de municipios con pocas oportunidades laborales. <!-- feedback: Correcto. Es un dato estadístico citado del Ejército Nacional que podría verificarse consultando registros oficiales. -->
 - [ ] C) Que los jóvenes aprenden disciplina y trabajo en equipo. <!-- feedback: Incorrecto. Es una opinión sobre los beneficios formativos, no un dato verificable. -->
@@ -176,12 +189,13 @@ Evaluación de la solidez de los argumentos: los argumentos basados en datos cua
 ## Question 9 [D5 - Propuesta de solución]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 Teniendo en cuenta los argumentos de ambas posturas, ¿cuál sería una solución equilibrada al debate sobre el servicio militar?
 
-### Options
+### Opciones
 - [ ] A) Mantener el servicio militar obligatorio para todos los jóvenes sin excepciones. <!-- feedback: Incorrecto. Es la postura radical del coronel que ignora las críticas de Laura. -->
 - [ ] B) Eliminar por completo cualquier forma de servicio, incluso el voluntario. <!-- feedback: Incorrecto. Es la postura extrema opuesta que descarta cualquier beneficio del servicio. -->
 - [x] C) Eliminar el servicio militar obligatorio y reemplazarlo con un servicio social voluntario con beneficios educativos y laborales para quienes participen. <!-- feedback: Correcto. Esta solución atiende la crítica de Laura (eliminar la obligación) mientras conserva la oportunidad que destaca el coronel (beneficios para jóvenes de pocos recursos), pero de forma voluntaria. -->
@@ -193,12 +207,13 @@ Evaluación y síntesis: proponer una solución que integre argumentos de ambas 
 ## Question 10 [D5]
 
 **Bloom:** Evaluate
+**Expected_Success:** 0.75
 **ICFES:** Reflexión sobre el contenido
 
 ### Enunciado
 ¿Qué diferencia hay entre un "hecho" (dato verificable) y una "opinión" en un texto argumentativo?
 
-### Options
+### Opciones
 - [ ] A) Los hechos son siempre ciertos y las opiniones siempre falsas. <!-- feedback: Incorrecto. Las opiniones no son falsas, son juicios personales que pueden ser razonables o no. -->
 - [ ] B) No hay diferencia, todo lo que se dice en un texto argumentativo es una opinión. <!-- feedback: Incorrecto. Los textos argumentativos pueden contener hechos verificables y opiniones al mismo tiempo. -->
 - [x] C) Un hecho es algo que puede comprobarse (ej: "más del 60% provienen de municipios con pocas oportunidades"); una opinión es un juicio personal (ej: "el servicio forma el carácter"). <!-- feedback: Correcto. Los hechos se basan en datos objetivos verificables; las opiniones son interpretaciones subjetivas que pueden estar respaldadas o no por hechos. -->

@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W06-aire-viento-001-MASTERY"
+id: "CO-CIE-3-2026-W06-aire-viento-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "aire-viento"
-semana: "W06"
+week: "W06"
 periodo: 1
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "El viento como aire en movimiento: formación, tipos de viento
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # El Viento: Aire en Movimiento
 
 Este bundle explora qué es el viento, cómo se produce debido a los cambios de temperatura y de qué manera es utilizado por las plantas, los animales y los seres humanos.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W06-aire-viento-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En una tarde en Barranquilla, las palmeras se mueven de un lado a otro y las personas sienten una brisa fresca.
+**Contexto:** En una tarde en Barranquilla, las palmeras se mueven de un lado a otro y las personas sienten una brisa fresca.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -48,12 +52,12 @@ El viento es el desplazamiento de las masas de aire de la atmósfera. Se produce
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W06-aire-viento-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Imagina que calientas el aire dentro de un globo aerostático. El globo comienza a subir hacia el cielo.
+**Contexto:** Imagina que calientas el aire dentro de un globo aerostático. El globo comienza a subir hacia el cielo.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -73,12 +77,12 @@ Este movimiento de "subir y bajar" del aire es lo que crea el viento. El aire ca
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W06-aire-viento-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Para saber desde dónde viene el viento y qué tan fuerte sopla, los meteorólogos usan instrumentos especiales.
+**Contexto:** Para saber desde dónde viene el viento y qué tan fuerte sopla, los meteorólogos usan instrumentos especiales.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ Conocer la dirección del viento es muy útil para la navegación aérea y marí
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W06-aire-viento-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Muchas plantas de los prados no tienen flores vistosas pero lanzan millones de granos de polen al aire cuando sopla el viento.
+**Contexto:** Muchas plantas de los prados no tienen flores vistosas pero lanzan millones de granos de polen al aire cuando sopla el viento.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -123,12 +127,12 @@ Este proceso se llama polinización anemófila (por viento). Es muy común en lo
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W06-aire-viento-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En el departamento de La Guajira, Colombia, hay grandes molinos blancos que giran con el viento para producir electricidad.
+**Contexto:** En el departamento de La Guajira, Colombia, hay grandes molinos blancos que giran con el viento para producir electricidad.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -148,12 +152,12 @@ La energía eólica es una de las más amigables con el medio ambiente porque no
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W06-aire-viento-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Algunas semillas, como las del "diente de león", tienen una especie de paracaídas de pelos blancos y finos.
+**Contexto:** Algunas semillas, como las del "diente de león", tienen una especie de paracaídas de pelos blancos y finos.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -173,12 +177,12 @@ Este es un ejemplo de dispersión de semillas. Si todas las semillas cayeran jus
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W06-aire-viento-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Indagación
-**Context:** Un huracán es un tipo de viento extremadamente fuerte que puede derribar casas y árboles.
+**Contexto:** Un huracán es un tipo de viento extremadamente fuerte que puede derribar casas y árboles.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -198,12 +202,12 @@ El viento se clasifica según su escala de velocidad. Las brisas son agradables,
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W06-aire-viento-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En agosto, en muchas ciudades de Colombia como Villa de Leyva, los niños salen a elevar cometas.
+**Contexto:** En agosto, en muchas ciudades de Colombia como Villa de Leyva, los niños salen a elevar cometas.
 **Expected_Success:** 0.90
 
 ### Enunciado
@@ -223,12 +227,12 @@ Elevar cometas es un experimento de aerodinámica. Necesitas un viento constante
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W06-aire-viento-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Los buitres y los cóndores a veces vuelan en círculos durante mucho tiempo sin mover sus alas para nada.
+**Contexto:** Los buitres y los cóndores a veces vuelan en círculos durante mucho tiempo sin mover sus alas para nada.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -248,12 +252,12 @@ El viento no solo sopla de lado a lado, también hay corrientes que suben y baja
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W06-aire-viento-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un marinero antiguo decía que "el viento es la voluntad del océano para que los barcos viajen".
+**Contexto:** Un marinero antiguo decía que "el viento es la voluntad del océano para que los barcos viajen".
 **Expected_Success:** 0.55
 
 ### Enunciado

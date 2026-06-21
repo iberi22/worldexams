@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W38-alimentacion-saludable-001-MASTERY"
+id: "CO-CIE-3-2026-W38-alimentacion-saludable-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "alimentacion-saludable"
-semana: "W38"
+week: "W38"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
@@ -15,7 +15,12 @@ distractor_profile: "plausible_peer_set"
 rubric_baseline: "Alimentación saludable - Grado 3"
 license: "FREE"
 
+bundle_type: "weekly"
+total_questions: 8
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+
 
 # Bundle MASTERY: Alimentación saludable - Grado 3
 
@@ -25,7 +30,7 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ---
 
 
-## Pregunta 1 [D1]
+## Question 1 [D1]
 **ID:** `CO-CIE-3-2026-W38-alimentacion-saludable-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Explicación de fenómenos
@@ -36,21 +41,20 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ¿Qué hábito es saludable?
 
 ### Opciones
-- [x] A) Comer frutas y verduras diariamente
-  <!-- feedback: ¡Correcto! Ayuda a crecer sano. -->
-- [ ] B) Comer solo dulces y golosinas
-  <!-- feedback: Eso no es saludable. -->
-- [ ] C) No desayunar nunca
-  <!-- feedback: El desayuno es importante. -->
-- [ ] D) Ver televisión muchas horas
-  <!-- feedback: El sedentarismo no es saludable. -->
+- [x] A) Comer frutas y verduras diariamente <!-- feedback: Correcto! Comer frutas y verduras diariamente -->
+
+- [ ] B) Comer solo dulces y golosinas <!-- feedback: Incorrecto. Comer solo dulces y golosinas -->
+
+- [ ] C) No desayunar nunca <!-- feedback: Incorrecto. No desayunar nunca -->
+
+- [ ] D) Ver televisión muchas horas <!-- feedback: Incorrecto. Ver televisión muchas horas -->
 
 ### Explicación Pedagógica
 Hábitos saludables: alimentación balanceada, ejercicio, higiene, descanso adecuado.
 
 ---
 
-## Pregunta 2 [D2]
+## Question 2 [D2]
 **ID:** `CO-CIE-3-2026-W38-alimentacion-saludable-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Indagación
@@ -61,21 +65,20 @@ Hábitos saludables: alimentación balanceada, ejercicio, higiene, descanso adec
 ¿Qué hábito es saludable?
 
 ### Opciones
-- [x] A) Comer frutas y verduras diariamente
-  <!-- feedback: ¡Correcto! Ayuda a crecer sano. -->
-- [ ] B) Comer solo dulces y golosinas
-  <!-- feedback: Eso no es saludable. -->
-- [ ] C) No desayunar nunca
-  <!-- feedback: El desayuno es importante. -->
-- [ ] D) Ver televisión muchas horas
-  <!-- feedback: El sedentarismo no es saludable. -->
+- [x] A) Comer frutas y verduras diariamente <!-- feedback: Correcto! Comer frutas y verduras diariamente -->
+
+- [ ] B) Comer solo dulces y golosinas <!-- feedback: Incorrecto. Comer solo dulces y golosinas -->
+
+- [ ] C) No desayunar nunca <!-- feedback: Incorrecto. No desayunar nunca -->
+
+- [ ] D) Ver televisión muchas horas <!-- feedback: Incorrecto. Ver televisión muchas horas -->
 
 ### Explicación Pedagógica
 Hábitos saludables: alimentación balanceada, ejercicio, higiene, descanso adecuado.
 
 ---
 
-## Pregunta 3 [D3]
+## Question 3 [D3]
 **ID:** `CO-CIE-3-2026-W38-alimentacion-saludable-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
@@ -86,21 +89,20 @@ Hábitos saludables: alimentación balanceada, ejercicio, higiene, descanso adec
 ¿Qué hábito es saludable?
 
 ### Opciones
-- [x] A) Comer frutas y verduras diariamente
-  <!-- feedback: ¡Correcto! Ayuda a crecer sano. -->
-- [ ] B) Comer solo dulces y golosinas
-  <!-- feedback: Eso no es saludable. -->
-- [ ] C) No desayunar nunca
-  <!-- feedback: El desayuno es importante. -->
-- [ ] D) Ver televisión muchas horas
-  <!-- feedback: El sedentarismo no es saludable. -->
+- [x] A) Comer frutas y verduras diariamente <!-- feedback: Correcto! Comer frutas y verduras diariamente -->
+
+- [ ] B) Comer solo dulces y golosinas <!-- feedback: Incorrecto. Comer solo dulces y golosinas -->
+
+- [ ] C) No desayunar nunca <!-- feedback: Incorrecto. No desayunar nunca -->
+
+- [ ] D) Ver televisión muchas horas <!-- feedback: Incorrecto. Ver televisión muchas horas -->
 
 ### Explicación Pedagógica
 Hábitos saludables: alimentación balanceada, ejercicio, higiene, descanso adecuado.
 
 ---
 
-## Pregunta 4 [D4]
+## Question 4 [D4]
 **ID:** `CO-CIE-3-2026-W38-alimentacion-saludable-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
@@ -111,21 +113,20 @@ Hábitos saludables: alimentación balanceada, ejercicio, higiene, descanso adec
 ¿Qué hábito es saludable?
 
 ### Opciones
-- [x] A) Comer frutas y verduras diariamente
-  <!-- feedback: ¡Correcto! Ayuda a crecer sano. -->
-- [ ] B) Comer solo dulces y golosinas
-  <!-- feedback: Eso no es saludable. -->
-- [ ] C) No desayunar nunca
-  <!-- feedback: El desayuno es importante. -->
-- [ ] D) Ver televisión muchas horas
-  <!-- feedback: El sedentarismo no es saludable. -->
+- [x] A) Comer frutas y verduras diariamente <!-- feedback: Correcto! Comer frutas y verduras diariamente -->
+
+- [ ] B) Comer solo dulces y golosinas <!-- feedback: Incorrecto. Comer solo dulces y golosinas -->
+
+- [ ] C) No desayunar nunca <!-- feedback: Incorrecto. No desayunar nunca -->
+
+- [ ] D) Ver televisión muchas horas <!-- feedback: Incorrecto. Ver televisión muchas horas -->
 
 ### Explicación Pedagógica
 Hábitos saludables: alimentación balanceada, ejercicio, higiene, descanso adecuado.
 
 ---
 
-## Pregunta 5 [D5]
+## Question 5 [D5]
 **ID:** `CO-CIE-3-2026-W38-alimentacion-saludable-001-MASTERY-v5`
 **Bloom:** Evaluate
 **ICFES:** Indagación
@@ -136,21 +137,20 @@ Hábitos saludables: alimentación balanceada, ejercicio, higiene, descanso adec
 ¿Qué hábito es saludable?
 
 ### Opciones
-- [x] A) Comer frutas y verduras diariamente
-  <!-- feedback: ¡Correcto! Ayuda a crecer sano. -->
-- [ ] B) Comer solo dulces y golosinas
-  <!-- feedback: Eso no es saludable. -->
-- [ ] C) No desayunar nunca
-  <!-- feedback: El desayuno es importante. -->
-- [ ] D) Ver televisión muchas horas
-  <!-- feedback: El sedentarismo no es saludable. -->
+- [x] A) Comer frutas y verduras diariamente <!-- feedback: Correcto! Comer frutas y verduras diariamente -->
+
+- [ ] B) Comer solo dulces y golosinas <!-- feedback: Incorrecto. Comer solo dulces y golosinas -->
+
+- [ ] C) No desayunar nunca <!-- feedback: Incorrecto. No desayunar nunca -->
+
+- [ ] D) Ver televisión muchas horas <!-- feedback: Incorrecto. Ver televisión muchas horas -->
 
 ### Explicación Pedagógica
 Hábitos saludables: alimentación balanceada, ejercicio, higiene, descanso adecuado.
 
 ---
 
-## Pregunta 6 [D2-D3]
+## Question 6 [D2-D3]
 **ID:** `CO-CIE-3-2026-W38-alimentacion-saludable-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento
@@ -161,21 +161,20 @@ Hábitos saludables: alimentación balanceada, ejercicio, higiene, descanso adec
 ¿Qué hábito es saludable?
 
 ### Opciones
-- [x] A) Comer frutas y verduras diariamente
-  <!-- feedback: ¡Correcto! Ayuda a crecer sano. -->
-- [ ] B) Comer solo dulces y golosinas
-  <!-- feedback: Eso no es saludable. -->
-- [ ] C) No desayunar nunca
-  <!-- feedback: El desayuno es importante. -->
-- [ ] D) Ver televisión muchas horas
-  <!-- feedback: El sedentarismo no es saludable. -->
+- [x] A) Comer frutas y verduras diariamente <!-- feedback: Correcto! Comer frutas y verduras diariamente -->
+
+- [ ] B) Comer solo dulces y golosinas <!-- feedback: Incorrecto. Comer solo dulces y golosinas -->
+
+- [ ] C) No desayunar nunca <!-- feedback: Incorrecto. No desayunar nunca -->
+
+- [ ] D) Ver televisión muchas horas <!-- feedback: Incorrecto. Ver televisión muchas horas -->
 
 ### Explicación Pedagógica
 Hábitos saludables: alimentación balanceada, ejercicio, higiene, descanso adecuado.
 
 ---
 
-## Pregunta 7 [D3-D4]
+## Question 7 [D3-D4]
 **ID:** `CO-CIE-3-2026-W38-alimentacion-saludable-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
@@ -186,21 +185,20 @@ Hábitos saludables: alimentación balanceada, ejercicio, higiene, descanso adec
 ¿Qué hábito es saludable?
 
 ### Opciones
-- [x] A) Comer frutas y verduras diariamente
-  <!-- feedback: ¡Correcto! Ayuda a crecer sano. -->
-- [ ] B) Comer solo dulces y golosinas
-  <!-- feedback: Eso no es saludable. -->
-- [ ] C) No desayunar nunca
-  <!-- feedback: El desayuno es importante. -->
-- [ ] D) Ver televisión muchas horas
-  <!-- feedback: El sedentarismo no es saludable. -->
+- [x] A) Comer frutas y verduras diariamente <!-- feedback: Correcto! Comer frutas y verduras diariamente -->
+
+- [ ] B) Comer solo dulces y golosinas <!-- feedback: Incorrecto. Comer solo dulces y golosinas -->
+
+- [ ] C) No desayunar nunca <!-- feedback: Incorrecto. No desayunar nunca -->
+
+- [ ] D) Ver televisión muchas horas <!-- feedback: Incorrecto. Ver televisión muchas horas -->
 
 ### Explicación Pedagógica
 Hábitos saludables: alimentación balanceada, ejercicio, higiene, descanso adecuado.
 
 ---
 
-## Pregunta 8 [D4-D5]
+## Question 8 [D4-D5]
 **ID:** `CO-CIE-3-2026-W38-alimentacion-saludable-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
@@ -211,14 +209,13 @@ Hábitos saludables: alimentación balanceada, ejercicio, higiene, descanso adec
 ¿Qué hábito es saludable?
 
 ### Opciones
-- [x] A) Comer frutas y verduras diariamente
-  <!-- feedback: ¡Correcto! Ayuda a crecer sano. -->
-- [ ] B) Comer solo dulces y golosinas
-  <!-- feedback: Eso no es saludable. -->
-- [ ] C) No desayunar nunca
-  <!-- feedback: El desayuno es importante. -->
-- [ ] D) Ver televisión muchas horas
-  <!-- feedback: El sedentarismo no es saludable. -->
+- [x] A) Comer frutas y verduras diariamente <!-- feedback: Correcto! Comer frutas y verduras diariamente -->
+
+- [ ] B) Comer solo dulces y golosinas <!-- feedback: Incorrecto. Comer solo dulces y golosinas -->
+
+- [ ] C) No desayunar nunca <!-- feedback: Incorrecto. No desayunar nunca -->
+
+- [ ] D) Ver televisión muchas horas <!-- feedback: Incorrecto. Ver televisión muchas horas -->
 
 ### Explicación Pedagógica
 Hábitos saludables: alimentación balanceada, ejercicio, higiene, descanso adecuado.

@@ -1,10 +1,10 @@
 ---
-id: "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY"
+id: "CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "recursos-renovables"
-semana: "W26"
+week: "W26"
 periodo: 3
 protocol_version: "5.2"
 year: 2026
@@ -17,18 +17,22 @@ rubric_baseline: "Recursos naturales renovables: agua, aire, suelo (parcial), fl
 license: "FREE"
 tier: "legacy"
 
+bundle_type: "weekly"
+total_questions: 10
+creador: "Jules-Agent"
 ---
+
 
 # Recursos Naturales Renovables
 
 Este bundle explora los recursos que la naturaleza puede reponer a medida que los usamos, siempre y cuando los cuidemos y permitamos que sus ciclos se completen.
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En la clase de ciencias, Mariana aprende que algunos recursos naturales no se acaban si se usan con sabiduría porque la Tierra los vuelve a producir.
+**Contexto:** En la clase de ciencias, Mariana aprende que algunos recursos naturales no se acaban si se usan con sabiduría porque la Tierra los vuelve a producir.
 **Expected_Success:** 0.95
 
 ### Enunciado
@@ -48,12 +52,12 @@ Los recursos renovables son la base de un futuro sostenible. La clave es usarlos
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** El sol brilla cada mañana y nos regala luz y calor sin que tengamos que hacer nada.
+**Contexto:** El sol brilla cada mañana y nos regala luz y calor sin que tengamos que hacer nada.
 **Expected_Success:** 0.92
 
 ### Enunciado
@@ -73,12 +77,12 @@ El sol es la fuente madre de casi todos los recursos renovables. Gracias al sol 
 
 ---
 
-## Pregunta 3 [D3-D4]
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
-**Context:** Una familia tiene una huerta y siempre que recogen los tomates, siembran semillas nuevas en el mismo lugar.
+**Contexto:** Una familia tiene una huerta y siempre que recogen los tomates, siembran semillas nuevas en el mismo lugar.
 **Expected_Success:** 0.88
 
 ### Enunciado
@@ -98,12 +102,12 @@ La vida es renovable gracias a la reproducción. Mientras cuidemos los hábitats
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Juan observa que el agua del río Magdalena siempre corre hacia el mar, pero el río nunca se queda vacío.
+**Contexto:** Juan observa que el agua del río Magdalena siempre corre hacia el mar, pero el río nunca se queda vacío.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -123,12 +127,12 @@ El agua es el ejemplo perfecto de recurso renovable gracias a su ciclo. Sin emba
 
 ---
 
-## Pregunta 5 [D5-D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En un bosque, un maderero corta todos los árboles antiguos en un solo día y no siembra ninguno nuevo.
+**Contexto:** En un bosque, un maderero corta todos los árboles antiguos en un solo día y no siembra ninguno nuevo.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -148,12 +152,12 @@ Un recurso es renovable solo si respetamos su tiempo de recuperación. Si consum
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Los animales (fauna) también nos sirven como recurso para alimento y compañía.
+**Contexto:** Los animales (fauna) también nos sirven como recurso para alimento y compañía.
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -173,12 +177,12 @@ La fauna se renueva mediante el nacimiento de nuevas crías. Si cazamos a todos 
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** El viento mueve las aspas de un molino para generar electricidad sin gastar combustible.
+**Contexto:** El viento mueve las aspas de un molino para generar electricidad sin gastar combustible.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -198,12 +202,12 @@ El viento es lo que llamamos una fuente de energía inagotable. A diferencia de 
 
 ---
 
-## Pregunta 8 [D7-D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Mariana tiene que clasificar estas fuentes de energía: 1. Carbón, 2. Sol, 3. Viento, 4. Gas natural.
+**Contexto:** Mariana tiene que clasificar estas fuentes de energía: 1. Carbón, 2. Sol, 3. Viento, 4. Gas natural.
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -223,12 +227,12 @@ Diferenciar renovables de no renovables es clave para cuidar el planeta. Los ren
 
 ---
 
-## Pregunta 9 [D7-D8]
+## Question 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** El suelo es un recurso especial. Algunos científicos dicen que es renovable, pero otros dicen que no, porque tarda 500 años en hacerse un centímetro de tierra.
+**Contexto:** El suelo es un recurso especial. Algunos científicos dicen que es renovable, pero otros dicen que no, porque tarda 500 años en hacerse un centímetro de tierra.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -248,12 +252,12 @@ El suelo está en el límite. Se renueva tan lento que para los humanos es casi 
 
 ---
 
-## Pregunta 10 [D9-D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W26-recursos-renovables-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
-**Context:** Un comercial dice: "Usa todo el papel que quieras, los árboles son renovables y siempre habrá más".
+**Contexto:** Un comercial dice: "Usa todo el papel que quieras, los árboles son renovables y siempre habrá más".
 **Expected_Success:** 0.60
 
 ### Enunciado
