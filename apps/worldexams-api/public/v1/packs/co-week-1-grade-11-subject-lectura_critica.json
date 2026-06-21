@@ -8,6 +8,426 @@
   },
   "questions": [
     {
+      "id": "CO-LEC-11-2026-W01-textos-argumentativos-complejos-001-MASTERY-v1",
+      "statement": "En un texto argumentativo, la tesis es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La historia personal del autor",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "La idea principal que se defiende",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El resumen",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Las fuentes",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis es la postura central que el autor defiende mediante argumentos.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-11-2026-W01-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-11-2026-W01-textos-argumentativos-complejos-001-MASTERY-v2",
+      "statement": "Todo ciudadano tiene derecho a la salud. María es ciudadana. Luego, María tiene derecho. Este razonamiento es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inductivo",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Deductivo válido",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Falaz",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Abductivo",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Silogismo deductivo: premisa universal + particular → conclusión necesaria.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-11-2026-W01-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-11-2026-W01-textos-argumentativos-complejos-001-MASTERY-v3",
+      "statement": "Ampliar licencia de paternidad a 8 semanas fortalecería la corresponsabilidad y reduciría desigualdad de género. Identifica la tesis:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe reducirse la licencia",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "La ampliación es positiva por sus efectos sociales",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Colombia tiene desigualdad",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El cuidado debe ser materno",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis es que la ampliación produce efectos positivos.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-11-2026-W01-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-11-2026-W01-textos-argumentativos-complejos-001-MASTERY-v4",
+      "statement": "Colombia debe ratificar Escazú porque fortalece participación, protege defensores y garantiza información. ¿Tipo de argumentos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De autoridad",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Basados en consecuencias positivas",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Emocionales",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Por analogía",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Presenta consecuencias deseables para justificar la ratificación.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-11-2026-W01-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-11-2026-W01-textos-argumentativos-complejos-001-MASTERY-v5",
+      "statement": "Un estudiante defiende: «Regular redes sociales para proteger menores». ¿Cuál es un argumento válido?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "'Son adictivas'",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "72 % de menores reportó ciberacoso (Defensoría)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "'Todos deberían'",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "'Mis amigos piensan'",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dato cuantitativo verificable de fuente confiable que respalda la tesis.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-11-2026-W01-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-11-2026-W01-textos-argumentativos-complejos-001-MASTERY-v6",
+      "statement": "«No debemos aprobar la reforma laboral porque el ministro dijo que afectará el empleo». ¿Falacia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ad hominem",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Apelación a la autoridad",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Falso dilema",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Generalización apresurada",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usa el cargo del ministro como única razón, sin examinar el contenido de la reforma.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-11-2026-W01-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-11-2026-W01-textos-argumentativos-complejos-001-MASTERY-v7",
+      "statement": "«Si fumigamos con glifosato, después fumigarán hasta el café». ¿Falacia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falso dilema",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente resbaladiza",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Petición de principio",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Hombre de paja",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Asume una cadena inevitable sin evidencia de que esa progresión ocurrirá.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-11-2026-W01-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-11-2026-W01-textos-argumentativos-complejos-001-MASTERY-v8",
+      "statement": "«El servicio militar debe mantenerse porque ha existido 100 años». ¿Falacia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ad antiquitatem",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Ad populum",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Circularidad",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Anécdota",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Falacia de apelación a la tradición: la antigüedad no garantiza validez.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-11-2026-W01-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-11-2026-W01-textos-argumentativos-complejos-001-MASTERY-v9",
+      "statement": "«Colombia debe implementar jornada de 4 días porque en Islandia funcionó». Evalúalo:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Débil: ignora diferencias estructurales",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sólido: ejemplos internacionales válidos",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Débil: Islandia no existe",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sólido: único indicador relevante",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ignora diferencias de informalidad laboral y productividad base colombiana.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-11-2026-W01-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-11-2026-W01-textos-argumentativos-complejos-001-MASTERY-v10",
+      "statement": "Artículo sobre posconflicto: datos JEP + testimonios + cifras + opinión del autor. ¿Qué debilita su objetividad?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Datos de la JEP",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Testimonios",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Cifras de reincorporación",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Opinión del autor",
+          "is_correct": true,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La opinión del autor mezclada con datos sesga el análisis si se pretende imparcial.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-11-2026-W01-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
       "id": "CO-LEC-11-P1-ensayo-001-v1",
       "statement": "¿Cual es la tesis principal del texto?",
       "context": "*En muchas conversaciones se celebra la rapidez como si fuera una prueba de inteligencia. Sin embargo, pensar con prisa no siempre significa pensar mejor. Cuando una persona responde de inmediato, a veces no expresa claridad sino una costumbre de no detenerse a revisar lo que dice. La idea central de este texto es simple: el valor de una opinion depende tambien del tiempo que se le da para revisarla.*",
@@ -53,7 +473,7 @@
     {
       "id": "CO-LEC-11-P1-ensayo-001-v2",
       "statement": "En el texto, la oposicion entre \"rapidez\" y \"revisarla\" sirve para:",
-      "context": "",
+      "context": "*En muchas conversaciones se celebra la rapidez como si fuera una prueba de inteligencia. Sin embargo, pensar con prisa no siempre significa pensar mejor. Cuando una persona responde de inmediato, a veces no expresa claridad sino una costumbre de no detenerse a revisar lo que dice. La idea central de este texto es simple: el valor de una opinion depende tambien del tiempo que se le da para revisarla.*",
       "options": [
         {
           "letter": "A",
@@ -96,7 +516,7 @@
     {
       "id": "CO-LEC-11-P1-ensayo-001-v3",
       "statement": "¿Que se infiere de una persona que responde de inmediato sin detenerse a revisar?",
-      "context": "",
+      "context": "*En muchas conversaciones se celebra la rapidez como si fuera una prueba de inteligencia. Sin embargo, pensar con prisa no siempre significa pensar mejor. Cuando una persona responde de inmediato, a veces no expresa claridad sino una costumbre de no detenerse a revisar lo que dice. La idea central de este texto es simple: el valor de una opinion depende tambien del tiempo que se le da para revisarla.*",
       "options": [
         {
           "letter": "A",
@@ -139,7 +559,7 @@
     {
       "id": "CO-LEC-11-P1-ensayo-001-v4",
       "statement": "¿Que funcion cumple la frase \"la idea central de este texto es simple\"?",
-      "context": "",
+      "context": "*En muchas conversaciones se celebra la rapidez como si fuera una prueba de inteligencia. Sin embargo, pensar con prisa no siempre significa pensar mejor. Cuando una persona responde de inmediato, a veces no expresa claridad sino una costumbre de no detenerse a revisar lo que dice. La idea central de este texto es simple: el valor de una opinion depende tambien del tiempo que se le da para revisarla.*",
       "options": [
         {
           "letter": "A",
@@ -182,7 +602,7 @@
     {
       "id": "CO-LEC-11-P1-ensayo-001-v5",
       "statement": "¿Que idea fortalece mejor el argumento del autor?",
-      "context": "",
+      "context": "*En muchas conversaciones se celebra la rapidez como si fuera una prueba de inteligencia. Sin embargo, pensar con prisa no siempre significa pensar mejor. Cuando una persona responde de inmediato, a veces no expresa claridad sino una costumbre de no detenerse a revisar lo que dice. La idea central de este texto es simple: el valor de una opinion depende tambien del tiempo que se le da para revisarla.*",
       "options": [
         {
           "letter": "A",
@@ -268,7 +688,7 @@
     {
       "id": "CO-LEC-11-P1-ensayo-001-v7",
       "statement": "¿Que busca mostrar la comparacion entre el estudiante que memoriza y el que entiende?",
-      "context": "",
+      "context": "*Aprender no es repetir definiciones, sino relacionar conceptos con problemas reales. Un estudiante que memoriza un dato puede responder una prueba; un estudiante que entiende por que ese dato importa puede usarlo en una situacion nueva. La autonomia intelectual aparece cuando la persona compara, pregunta y justifica sus respuestas.*",
       "options": [
         {
           "letter": "A",
@@ -311,7 +731,7 @@
     {
       "id": "CO-LEC-11-P1-ensayo-001-v8",
       "statement": "Segun el fragmento, una persona autonoma intelectual se caracteriza sobre todo por:",
-      "context": "",
+      "context": "*Aprender no es repetir definiciones, sino relacionar conceptos con problemas reales. Un estudiante que memoriza un dato puede responder una prueba; un estudiante que entiende por que ese dato importa puede usarlo en una situacion nueva. La autonomia intelectual aparece cuando la persona compara, pregunta y justifica sus respuestas.*",
       "options": [
         {
           "letter": "A",
@@ -354,7 +774,7 @@
     {
       "id": "CO-LEC-11-P1-ensayo-001-v9",
       "statement": "Si un estudiante solo memoriza y no relaciona, ¿cual seria la consecuencia mas probable segun el texto?",
-      "context": "",
+      "context": "*Aprender no es repetir definiciones, sino relacionar conceptos con problemas reales. Un estudiante que memoriza un dato puede responder una prueba; un estudiante que entiende por que ese dato importa puede usarlo en una situacion nueva. La autonomia intelectual aparece cuando la persona compara, pregunta y justifica sus respuestas.*",
       "options": [
         {
           "letter": "A",
@@ -397,7 +817,7 @@
     {
       "id": "CO-LEC-11-P1-ensayo-001-v10",
       "statement": "¿Para que sirve la oposicion entre \"responder una prueba\" y \"usar en una situacion nueva\"?",
-      "context": "",
+      "context": "*Aprender no es repetir definiciones, sino relacionar conceptos con problemas reales. Un estudiante que memoriza un dato puede responder una prueba; un estudiante que entiende por que ese dato importa puede usarlo en una situacion nueva. La autonomia intelectual aparece cuando la persona compara, pregunta y justifica sus respuestas.*",
       "options": [
         {
           "letter": "A",
@@ -483,7 +903,7 @@
     {
       "id": "CO-LEC-11-P1-ensayo-001-v12",
       "statement": "La expresion \"deja de ser un detalle tecnico y se vuelve una forma de autonomia\" busca:",
-      "context": "",
+      "context": "*Las notificaciones prometen ayudarnos a no perder nada, pero terminan interrumpiendo casi todo. Cuando cada sonido reclama una respuesta inmediata, la atencion se parte en fragmentos. En ese escenario, decidir a que mirar y a que no mirar deja de ser un detalle tecnico y se vuelve una forma de autonomia.*",
       "options": [
         {
           "letter": "A",
@@ -526,7 +946,7 @@
     {
       "id": "CO-LEC-11-P1-ensayo-001-v13",
       "statement": "Segun el texto, ¿que pasa cuando cada sonido reclama una respuesta inmediata?",
-      "context": "",
+      "context": "*Las notificaciones prometen ayudarnos a no perder nada, pero terminan interrumpiendo casi todo. Cuando cada sonido reclama una respuesta inmediata, la atencion se parte en fragmentos. En ese escenario, decidir a que mirar y a que no mirar deja de ser un detalle tecnico y se vuelve una forma de autonomia.*",
       "options": [
         {
           "letter": "A",
@@ -569,7 +989,7 @@
     {
       "id": "CO-LEC-11-P1-ensayo-001-v14",
       "statement": "¿Cual de las siguientes formulaciones resume mejor la postura del autor frente a las notificaciones?",
-      "context": "",
+      "context": "*Las notificaciones prometen ayudarnos a no perder nada, pero terminan interrumpiendo casi todo. Cuando cada sonido reclama una respuesta inmediata, la atencion se parte en fragmentos. En ese escenario, decidir a que mirar y a que no mirar deja de ser un detalle tecnico y se vuelve una forma de autonomia.*",
       "options": [
         {
           "letter": "A",
@@ -612,7 +1032,7 @@
     {
       "id": "CO-LEC-11-P1-ensayo-001-v15",
       "statement": "La relacion entre \"la atencion se parte en fragmentos\" y \"se vuelve una forma de autonomia\" es:",
-      "context": "",
+      "context": "*Las notificaciones prometen ayudarnos a no perder nada, pero terminan interrumpiendo casi todo. Cuando cada sonido reclama una respuesta inmediata, la atencion se parte en fragmentos. En ese escenario, decidir a que mirar y a que no mirar deja de ser un detalle tecnico y se vuelve una forma de autonomia.*",
       "options": [
         {
           "letter": "A",
@@ -698,7 +1118,7 @@
     {
       "id": "CO-LEC-11-P1-ensayo-001-v17",
       "statement": "La frase \"el espacio publico es de nadie\" significa que:",
-      "context": "",
+      "context": "*Una ciudad no se sostiene solo con normas escritas. Tambien depende de gestos pequenos: respetar la fila, cuidar el parque y no ensuciar el espacio compartido. Quien cree que el espacio publico es de nadie termina actuando como si fuera de uso momentaneo. La responsabilidad comun empieza cuando entendemos que lo comun tambien nos define.*",
       "options": [
         {
           "letter": "A",
@@ -741,7 +1161,7 @@
     {
       "id": "CO-LEC-11-P1-ensayo-001-v18",
       "statement": "¿Para que sirve mencionar la fila, el parque y el espacio compartido?",
-      "context": "",
+      "context": "*Una ciudad no se sostiene solo con normas escritas. Tambien depende de gestos pequenos: respetar la fila, cuidar el parque y no ensuciar el espacio compartido. Quien cree que el espacio publico es de nadie termina actuando como si fuera de uso momentaneo. La responsabilidad comun empieza cuando entendemos que lo comun tambien nos define.*",
       "options": [
         {
           "letter": "A",
@@ -784,7 +1204,7 @@
     {
       "id": "CO-LEC-11-P1-ensayo-001-v19",
       "statement": "¿Que opcion resume mejor la postura del autor sobre la convivencia urbana?",
-      "context": "",
+      "context": "*Una ciudad no se sostiene solo con normas escritas. Tambien depende de gestos pequenos: respetar la fila, cuidar el parque y no ensuciar el espacio compartido. Quien cree que el espacio publico es de nadie termina actuando como si fuera de uso momentaneo. La responsabilidad comun empieza cuando entendemos que lo comun tambien nos define.*",
       "options": [
         {
           "letter": "A",
@@ -827,7 +1247,7 @@
     {
       "id": "CO-LEC-11-P1-ensayo-001-v20",
       "statement": "¿Cual afirmacion critica mejor el riesgo de creer que lo comun \"es de uso momentaneo\"?",
-      "context": "",
+      "context": "*Una ciudad no se sostiene solo con normas escritas. Tambien depende de gestos pequenos: respetar la fila, cuidar el parque y no ensuciar el espacio compartido. Quien cree que el espacio publico es de nadie termina actuando como si fuera de uso momentaneo. La responsabilidad comun empieza cuando entendemos que lo comun tambien nos define.*",
       "options": [
         {
           "letter": "A",
@@ -1773,7 +2193,7 @@
     {
       "id": "CO-LC-11-P1-continuos-003-v2",
       "statement": "La expresion \"Por eso\" en el texto cumple la funcion de:",
-      "context": "",
+      "context": "*Quien busca una verdad sin perspectiva suele terminar defendiendo una costumbre. Toda mirada selecciona, ordena y omite. Por eso la pregunta correcta no es si observamos desde un punto de vista, sino si somos capaces de reconocerlo. La objetividad no consiste en no tener perspectiva, sino en revisar la propia antes de convertirla en norma.*",
       "options": [
         {
           "letter": "A",
@@ -1816,7 +2236,7 @@
     {
       "id": "CO-LC-11-P1-continuos-003-v3",
       "statement": "¿Que critica el texto cuando afirma que quien busca una verdad sin perspectiva suele terminar defendiendo una costumbre?",
-      "context": "",
+      "context": "*Quien busca una verdad sin perspectiva suele terminar defendiendo una costumbre. Toda mirada selecciona, ordena y omite. Por eso la pregunta correcta no es si observamos desde un punto de vista, sino si somos capaces de reconocerlo. La objetividad no consiste en no tener perspectiva, sino en revisar la propia antes de convertirla en norma.*",
       "options": [
         {
           "letter": "A",
@@ -1859,7 +2279,7 @@
     {
       "id": "CO-LC-11-P1-continuos-003-v4",
       "statement": "Segun el texto, la objetividad consiste en:",
-      "context": "",
+      "context": "*Quien busca una verdad sin perspectiva suele terminar defendiendo una costumbre. Toda mirada selecciona, ordena y omite. Por eso la pregunta correcta no es si observamos desde un punto de vista, sino si somos capaces de reconocerlo. La objetividad no consiste en no tener perspectiva, sino en revisar la propia antes de convertirla en norma.*",
       "options": [
         {
           "letter": "A",
@@ -1902,7 +2322,7 @@
     {
       "id": "CO-LC-11-P1-continuos-003-v5",
       "statement": "¿Que afirmacion fortalece mejor el argumento del texto?",
-      "context": "",
+      "context": "*Quien busca una verdad sin perspectiva suele terminar defendiendo una costumbre. Toda mirada selecciona, ordena y omite. Por eso la pregunta correcta no es si observamos desde un punto de vista, sino si somos capaces de reconocerlo. La objetividad no consiste en no tener perspectiva, sino en revisar la propia antes de convertirla en norma.*",
       "options": [
         {
           "letter": "A",
@@ -1988,7 +2408,7 @@
     {
       "id": "CO-LC-11-P1-continuos-003-v7",
       "statement": "¿Por que el autor dice que la memoria no guarda el pasado como una vitrina?",
-      "context": "",
+      "context": "*La memoria no guarda el pasado como una vitrina guarda objetos. Lo reorganiza cada vez que lo recuerda. Por eso dos personas pueden narrar el mismo hecho de forma distinta sin que una de ellas mienta necesariamente. Recordar no es fotografiar; es volver a construir con lo que queda y con lo que hoy somos.*",
       "options": [
         {
           "letter": "A",
@@ -2031,7 +2451,7 @@
     {
       "id": "CO-LC-11-P1-continuos-003-v8",
       "statement": "¿Que se concluye de que dos personas narren un mismo hecho de forma distinta?",
-      "context": "",
+      "context": "*La memoria no guarda el pasado como una vitrina guarda objetos. Lo reorganiza cada vez que lo recuerda. Por eso dos personas pueden narrar el mismo hecho de forma distinta sin que una de ellas mienta necesariamente. Recordar no es fotografiar; es volver a construir con lo que queda y con lo que hoy somos.*",
       "options": [
         {
           "letter": "A",
@@ -2074,7 +2494,7 @@
     {
       "id": "CO-LC-11-P1-continuos-003-v9",
       "statement": "¿Que interpretacion es mas fiel al texto?",
-      "context": "",
+      "context": "*La memoria no guarda el pasado como una vitrina guarda objetos. Lo reorganiza cada vez que lo recuerda. Por eso dos personas pueden narrar el mismo hecho de forma distinta sin que una de ellas mienta necesariamente. Recordar no es fotografiar; es volver a construir con lo que queda y con lo que hoy somos.*",
       "options": [
         {
           "letter": "A",
@@ -2117,7 +2537,7 @@
     {
       "id": "CO-LC-11-P1-continuos-003-v10",
       "statement": "La relacion entre \"reorganiza cada vez que lo recuerda\" y \"volver a construir\" es:",
-      "context": "",
+      "context": "*La memoria no guarda el pasado como una vitrina guarda objetos. Lo reorganiza cada vez que lo recuerda. Por eso dos personas pueden narrar el mismo hecho de forma distinta sin que una de ellas mienta necesariamente. Recordar no es fotografiar; es volver a construir con lo que queda y con lo que hoy somos.*",
       "options": [
         {
           "letter": "A",
@@ -2203,7 +2623,7 @@
     {
       "id": "CO-LC-11-P1-continuos-003-v12",
       "statement": "Si un dispositivo exige prioridad total, segun el texto, entonces:",
-      "context": "",
+      "context": "*La tecnologia no destruye por si misma la atencion; la distribuye y la disputa. El problema aparece cuando todo dispositivo exige prioridad total. En ese punto, no falta tiempo: falta criterio para decidir que merece presencia y que merece espera.*",
       "options": [
         {
           "letter": "A",
@@ -2246,7 +2666,7 @@
     {
       "id": "CO-LC-11-P1-continuos-003-v13",
       "statement": "La oposicion entre \"falta tiempo\" y \"falta criterio\" busca mostrar que:",
-      "context": "",
+      "context": "*La tecnologia no destruye por si misma la atencion; la distribuye y la disputa. El problema aparece cuando todo dispositivo exige prioridad total. En ese punto, no falta tiempo: falta criterio para decidir que merece presencia y que merece espera.*",
       "options": [
         {
           "letter": "A",
@@ -2289,7 +2709,7 @@
     {
       "id": "CO-LC-11-P1-continuos-003-v14",
       "statement": "¿Cual reformulacion conserva mejor el sentido del texto?",
-      "context": "",
+      "context": "*La tecnologia no destruye por si misma la atencion; la distribuye y la disputa. El problema aparece cuando todo dispositivo exige prioridad total. En ese punto, no falta tiempo: falta criterio para decidir que merece presencia y que merece espera.*",
       "options": [
         {
           "letter": "A",
@@ -2332,7 +2752,7 @@
     {
       "id": "CO-LC-11-P1-continuos-003-v15",
       "statement": "¿Que sugiere el fragmento sobre la presencia?",
-      "context": "",
+      "context": "*La tecnologia no destruye por si misma la atencion; la distribuye y la disputa. El problema aparece cuando todo dispositivo exige prioridad total. En ese punto, no falta tiempo: falta criterio para decidir que merece presencia y que merece espera.*",
       "options": [
         {
           "letter": "A",
@@ -2418,7 +2838,7 @@
     {
       "id": "CO-LC-11-P1-continuos-003-v17",
       "statement": "¿Que significa que la verdad \"empieza a exhibirse como arma\"?",
-      "context": "",
+      "context": "*Una comunidad madura no es la que evita el conflicto, sino la que sabe discutirlo sin convertir al otro en enemigo. Cuando la discrepancia se vuelve insulto, la verdad deja de buscarse y empieza a exhibirse como arma. Cuidar el desacuerdo es cuidar el espacio comun donde todavia puede aparecer algo nuevo.*",
       "options": [
         {
           "letter": "A",
@@ -2461,7 +2881,7 @@
     {
       "id": "CO-LC-11-P1-continuos-003-v18",
       "statement": "La oposicion entre \"evitar el conflicto\" y \"discutirlo\" sirve para:",
-      "context": "",
+      "context": "*Una comunidad madura no es la que evita el conflicto, sino la que sabe discutirlo sin convertir al otro en enemigo. Cuando la discrepancia se vuelve insulto, la verdad deja de buscarse y empieza a exhibirse como arma. Cuidar el desacuerdo es cuidar el espacio comun donde todavia puede aparecer algo nuevo.*",
       "options": [
         {
           "letter": "A",
@@ -2504,7 +2924,7 @@
     {
       "id": "CO-LC-11-P1-continuos-003-v19",
       "statement": "¿Que afirmacion resume mejor la postura del autor?",
-      "context": "",
+      "context": "*Una comunidad madura no es la que evita el conflicto, sino la que sabe discutirlo sin convertir al otro en enemigo. Cuando la discrepancia se vuelve insulto, la verdad deja de buscarse y empieza a exhibirse como arma. Cuidar el desacuerdo es cuidar el espacio comun donde todavia puede aparecer algo nuevo.*",
       "options": [
         {
           "letter": "A",
@@ -2547,7 +2967,7 @@
     {
       "id": "CO-LC-11-P1-continuos-003-v20",
       "statement": "¿Cual consecuencia se deriva de cuidar el desacuerdo?",
-      "context": "",
+      "context": "*Una comunidad madura no es la que evita el conflicto, sino la que sabe discutirlo sin convertir al otro en enemigo. Cuando la discrepancia se vuelve insulto, la verdad deja de buscarse y empieza a exhibirse como arma. Cuidar el desacuerdo es cuidar el espacio comun donde todavia puede aparecer algo nuevo.*",
       "options": [
         {
           "letter": "A",
