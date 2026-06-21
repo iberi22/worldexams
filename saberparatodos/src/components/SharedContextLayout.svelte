@@ -54,9 +54,9 @@
 
   <!-- Mobile Context Full-Screen/Overlay Drawer -->
   {#if showContext}
-    <div class="fixed inset-0 z-[60] bg-gray-950 overflow-y-auto p-6 md:hidden flex flex-col justify-between animate-fade-in">
-      <div class="max-w-2xl mx-auto w-full">
-        <div class="flex justify-between items-center mb-8 sticky top-0 bg-gray-950/90 backdrop-blur-sm py-2 z-10">
+    <div class="fixed inset-0 z-[60] bg-gray-950 md:hidden flex flex-col animate-fade-in">
+      <div class="flex-none px-6 pt-6 pb-4 border-b border-white/10 bg-gray-950 z-20 shadow-sm">
+        <div class="max-w-2xl mx-auto w-full flex justify-between items-center">
           <h3 class="text-xl font-black flex items-center gap-3 text-emerald-500 uppercase tracking-tighter">
             <span>📖</span> {title}
           </h3>
@@ -67,19 +67,25 @@
             ✕
           </button>
         </div>
+      </div>
 
-        <div class="prose prose-invert max-w-none pb-32 text-gray-200 font-serif leading-relaxed text-lg">
-          <MathRenderer content={context.trim()} />
+      <div class="flex-1 overflow-y-auto px-6 py-6">
+        <div class="max-w-2xl mx-auto w-full">
+          <div class="prose prose-invert max-w-none text-gray-200 font-serif leading-relaxed text-lg">
+            <MathRenderer content={context.trim()} />
+          </div>
         </div>
       </div>
 
-      <div class="fixed bottom-0 left-0 right-0 p-6 bg-gradient-to-t from-gray-950 via-gray-950/95 to-transparent z-20">
-        <button
-          onclick={() => showContext = false}
-          class="w-full max-w-2xl mx-auto flex py-4 bg-emerald-600 hover:bg-emerald-500 text-white rounded-2xl font-bold text-lg border border-white/20 transition-all shadow-2xl items-center justify-center gap-2"
-        >
-          Entendido, Volver
-        </button>
+      <div class="flex-none p-6 bg-gray-950 border-t border-white/10 z-20 shadow-[0_-10px_30px_rgba(0,0,0,0.5)]">
+        <div class="max-w-2xl mx-auto w-full">
+          <button
+            onclick={() => showContext = false}
+            class="w-full flex py-4 bg-emerald-600 hover:bg-emerald-500 text-white rounded-2xl font-bold text-lg border border-white/20 transition-all shadow-2xl items-center justify-center gap-2"
+          >
+            Entendido, Volver
+          </button>
+        </div>
       </div>
     </div>
   {/if}
