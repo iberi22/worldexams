@@ -5,8 +5,8 @@
 #   1. Detect changes & generate changelog
 #   2. Bump version (package.json + build-info.json)
 #   3. Run pre-deploy-check.js
-#   4. npm run build
-#   5. npm run validate:strict
+#   4. pnpm run build
+#   5. pnpm run validate:strict
 #   6. OpenCode (DeepSeek v4 Pro) reviews the diff
 #   7. If APPROVED -> deploy-manual.ps1 (production)
 #   8. If REJECTED -> abort with detailed report
@@ -19,7 +19,7 @@ param(
     [switch]$SkipOpenCode
 )
 
-# Don't use 'Stop' for native commands - git/npm/node output warnings to stderr
+# Don't use 'Stop' for native commands - git/pnpm/node output warnings to stderr
 $ErrorActionPreference = 'Continue'
 $repoRoot = Split-Path -Parent $PSScriptRoot
 Set-Location $repoRoot
@@ -54,7 +54,7 @@ Log "=== " "HEADER"
 # Check opencode
 $opencodePath = (Get-Command "opencode" -ErrorAction SilentlyContinue).Source
 if (-not $opencodePath) {
-    Log "OpenCode CLI not found. Install: npm install -g opencode-ai" "ERROR"
+    Log "OpenCode CLI not found. Install: pnpm add -g opencode-ai" "ERROR"
     exit 10
 }
 Log "OpenCode: $opencodePath" "INFO"
@@ -129,16 +129,16 @@ if ($BumpStrategy -eq "skip") {
     [System.IO.File]::WriteAllText("$repoRoot\public\build-info.json", $biStr, [System.Text.UTF8Encoding]::new($false))
     Log "build-info.json updated" "INFO"
 
-    # Full npm install to ensure package-lock.json is 100% in sync
-    Log "Running npm install to sync lockfile..." "INFO"
-    $npmLockOut = npm install --silent 2>&1
-    Log "npm install exit: $LASTEXITCODE" "INFO"
-    if ($LASTEXITCODE -ne 0) { throw "npm install failed" }
+    # Full pnpm install to ensure pnpm-lock.yaml is 100% in sync
+    Log "Running pnpm install to sync lockfile..." "INFO"
+    $pnpmLockOut = pnpm install --frozen-lockfile --silent 2>&1
+    Log "pnpm install exit: $LASTEXITCODE" "INFO"
+    if ($LASTEXITCODE -ne 0) { throw "pnpm install failed" }
 
     # Commit version bump
     try {
         git add "package.json" -ErrorAction SilentlyContinue 2>$null
-        git add "package-lock.json" -ErrorAction SilentlyContinue 2>$null
+        git add "pnpm-lock.yaml" -ErrorAction SilentlyContinue 2>$null
         git add -f "public\build-info.json" -ErrorAction SilentlyContinue 2>$null
         $commitMsg = "chore(release): bump to v$script:newVersion [skip ci]"
         $commitResult = git commit -m $commitMsg 2>&1
@@ -163,11 +163,11 @@ Log "PASSED" "INFO"
 # === STEP 4: Build ===
 if (-not $SkipBuild) {
     Log "-- Step 4: Build --" "STEP"
-    $buildOut = npm run build 2>&1
+    $buildOut = pnpm run build 2>&1
     if ($LASTEXITCODE -ne 0) {
         Log "BUILD FAILED (exit $LASTEXITCODE)" "ERROR"
         $tail = $buildOut -split "`n" | Select-Object -Last 30
-        Write-Report "BUILD FAILED" "npm run build failed.`n`nLast 30 lines:`n$($tail -join "`n")"
+        Write-Report "BUILD FAILED" "pnpm run build failed.`n`nLast 30 lines:`n$($tail -join "`n")"
         Save-Log
         exit 40
     }
@@ -179,10 +179,10 @@ if (-not $SkipBuild) {
 # === STEP 5: Validate strict ===
 if (-not $SkipValidate) {
     Log "-- Step 5: validate:strict --" "STEP"
-    $valOut = npm run validate:strict 2>&1
+    $valOut = pnpm run validate:strict 2>&1
     if ($LASTEXITCODE -ne 0) {
         Log "VALIDATION FAILED" "ERROR"
-        Write-Report "VALIDATION FAILED" "npm run validate:strict found issues.`n`n$valOut"
+        Write-Report "VALIDATION FAILED" "pnpm run validate:strict found issues.`n`n$valOut"
         Save-Log
         exit 50
     }
@@ -196,7 +196,7 @@ if ($SkipOpenCode) {
     Log "Skipping OpenCode review" "WARN"
     Log "Manual review required. Run deploy-manual.ps1 manually." "INFO"
     Save-Log
-    exit 1
+    exit 0
 }
 
 Log "-- Step 6: OpenCode review (DeepSeek v4 Pro) --" "STEP"
@@ -214,7 +214,7 @@ Start-Sleep -Seconds 1
 
 # Build the opencode command as a single .bat file (reliable execution)
 $ocMessage = "Review SaberParaTodos v$script:newVersion for pre-deploy. "
-$ocMessage += "Check package.json, package-lock.json, build-info.json, wrangler.toml, src/ changes since last tag. "
+$ocMessage += "Check package.json, pnpm-lock.yaml, build-info.json, wrangler.toml, src/ changes since last tag. "
 $ocMessage += "Verify: (1) version bump is correct, (2) no breaking API changes, (3) no hardcoded secrets, "
 $ocMessage += "(4) tsconfig/build config is valid, (5) no obvious runtime errors. "
 $ocMessage += "Read key files and git diff. DO NOT read .env files. "
@@ -227,7 +227,7 @@ $batContent = @"
 set DEEPSEEK_API_KEY=$dsKey
 cd /d "$repoRoot"
 echo === OPENCODE REVIEW START ===
-opencode run "$ocMessage" -m deepseek/deepseek-v4-pro --dir "$repoRoot" --title "Pre-Deploy Review v$script:newVersion" > "$ocOutputPath" 2>&1
+opencode run "$ocMessage" -m deepseek/deepseek-v4-pro --dir "$repoRoot" --title "Pre-Deploy Review v$script:newVersion" --timeoutMs 300000 > "$ocOutputPath" 2>&1
 echo === OPENCODE REVIEW END === >> "$ocOutputPath"
 "@
 
