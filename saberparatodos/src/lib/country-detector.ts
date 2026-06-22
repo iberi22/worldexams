@@ -12,7 +12,7 @@ import {
 } from '../../../config/countries.config';
 import { getExplicitProductCountryCode } from '../config';
 
-const IP_API_BASE = 'http://ip-api.com/json';
+const IP_API_BASE = 'https://ip-api.com/json';
 const CACHE_KEY = 'worldexams_country';
 const CACHE_TTL = 24 * 60 * 60 * 1000; // 24 hours
 
@@ -27,9 +27,14 @@ const IP_RANGES: Array<{ range: [string, string]; country: CountryCode }> = [
   // Mexico
   { range: ['189.0.0.0', '189.255.255.255'], country: 'MX' },
   { range: ['201.0.0.0', '201.255.255.255'], country: 'MX' },
-  // Chile
+  // Chile — rangos extendidos
   { range: ['186.64.0.0', '186.127.255.255'], country: 'CL' },
+  { range: ['190.44.0.0', '190.63.255.255'], country: 'CL' },
+  { range: ['190.96.0.0', '190.127.255.255'], country: 'CL' },
   { range: ['200.64.0.0', '200.127.255.255'], country: 'CL' },
+  { range: ['45.4.0.0', '45.5.255.255'], country: 'CL' },
+  { range: ['152.231.0.0', '152.231.255.255'], country: 'CL' },
+  { range: ['155.0.0.0', '155.3.255.255'], country: 'CL' },
   // Peru
   { range: ['190.128.0.0', '190.255.255.255'], country: 'PE' },
   // Ecuador
@@ -71,7 +76,8 @@ interface CachedCountry {
 // Client-side country detection with caching
 export async function detectCountryClient(): Promise<SharedCountryConfig> {
   const explicitDefaultCountry = getExplicitProductCountryCode();
-  const fallbackCountry = explicitDefaultCountry || ('US' as CountryCode);
+  // Fix: fallback a CO en vez de US — CO tiene 589 bundles, US tiene 0
+  const fallbackCountry = explicitDefaultCountry || ('CO' as CountryCode);
 
   if (typeof window === 'undefined') {
     return getCountryConfig(fallbackCountry)!;
@@ -121,6 +127,29 @@ export async function detectCountryClient(): Promise<SharedCountryConfig> {
       cacheCountry(quickResult);
       return config;
     }
+  }
+
+  // Cloudflare Trace — sin rate limit, siempre disponible en CF Pages
+  try {
+    const cfResponse = await fetch('/cdn-cgi/trace');
+    if (cfResponse.ok) {
+      const cfText = await cfResponse.text();
+      const cfLines = cfText.split('\n').reduce<Record<string, string>>((acc, line) => {
+        const [k, v] = line.split('=');
+        if (k && v) acc[k.trim()] = v.trim();
+        return acc;
+      }, {});
+      const cfCountry = cfLines['loc'] as CountryCode | undefined;
+      if (cfCountry) {
+        const config = getCountryConfig(cfCountry);
+        if (config) {
+          cacheCountry(cfCountry);
+          return config;
+        }
+      }
+    }
+  } catch {
+    // CF trace no disponible
   }
 
   // Full API detection via ip-api.com
