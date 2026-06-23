@@ -8,134 +8,42 @@
   },
   "questions": [
     {
-      "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-v1",
-      "statement": "Which is the **first** letter of the alphabet?",
-      "context": "",
+      "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v1",
+      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "A",
+          "text": "accommodation",
           "is_correct": true,
-          "feedback": "Correct! \"A\" is the first letter."
+          "feedback": "Correct! 'accommodation' matches the definition."
         },
         {
           "letter": "B",
-          "text": "B",
+          "text": "transportation",
           "is_correct": false,
-          "feedback": "Incorrect. \"B\" is the second letter."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Z",
+          "text": "entertainment",
           "is_correct": false,
-          "feedback": "Incorrect. \"Z\" is the last letter."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "E",
+          "text": "currency",
           "is_correct": false,
-          "feedback": "Incorrect. \"E\" is the fifth letter."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El abecedario en inglés comienza con la letra \"A\". Es fundamental conocer el orden de las letras.\r\n\r\n---",
-      "difficulty": "4",
+      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-v2",
-      "statement": "How do you spell the word **\"CAT\"**?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "K - A - T",
-          "is_correct": false,
-          "feedback": "Incorrect. We use \"C\", not \"K\" for cat."
-        },
-        {
-          "letter": "B",
-          "text": "C - A - T",
-          "is_correct": true,
-          "feedback": "Correct! C-A-T spells cat."
-        },
-        {
-          "letter": "C",
-          "text": "S - A - T",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Sat\" is a different word."
-        },
-        {
-          "letter": "D",
-          "text": "C - E - T",
-          "is_correct": false,
-          "feedback": "Incorrect. The middle letter is \"A\"."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Para deletrear \"cat\" (gato), usamos las letras C (si), A (ei), T (ti).\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.85,
-      "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-v3",
-      "statement": "Which of these are **vowels** (vocales) in English?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "B, C, D, F",
-          "is_correct": false,
-          "feedback": "Incorrect. These are consonants."
-        },
-        {
-          "letter": "B",
-          "text": "A, E, I, O, U",
-          "is_correct": true,
-          "feedback": "Correct! These are the five vowels."
-        },
-        {
-          "letter": "C",
-          "text": "X, Y, Z",
-          "is_correct": false,
-          "feedback": "Incorrect. These are consonants."
-        },
-        {
-          "letter": "D",
-          "text": "M, N, P",
-          "is_correct": false,
-          "feedback": "Incorrect. These are consonants."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Al igual que en español, el inglés tiene cinco vocales: A, E, I, O, U.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
+      "icfes_type": "Lexico",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
       "periodo": 2,
@@ -146,227 +54,43 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-v4",
-      "statement": "What is the **last** letter of the alphabet?",
-      "context": "",
+      "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v2",
+      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "A",
-          "is_correct": false,
-          "feedback": "Incorrect. \"A\" is the first."
+          "text": "itinerary",
+          "is_correct": true,
+          "feedback": "Correct! 'itinerary' matches the definition."
         },
         {
           "letter": "B",
-          "text": "M",
+          "text": "baggage",
           "is_correct": false,
-          "feedback": "Incorrect. \"M\" is in the middle."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Y",
+          "text": "destination",
           "is_correct": false,
-          "feedback": "Incorrect. \"Y\" is the second to last."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Z",
-          "is_correct": true,
-          "feedback": "Correct! \"Z\" is the last letter."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La letra \"Z\" cierra el abecedario tanto en inglés como en español.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.75,
-      "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-v5",
-      "statement": "How do you pronounce the letter **\"E\"** in English?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "/e/ (como en español)",
+          "text": "passport",
           "is_correct": false,
-          "feedback": "Incorrect. En inglés \"E\" no suena como \"e\"."
-        },
-        {
-          "letter": "B",
-          "text": "/i/",
-          "is_correct": true,
-          "feedback": "Correct! The letter E sounds like \"i\" in English."
-        },
-        {
-          "letter": "C",
-          "text": "/ai/",
-          "is_correct": false,
-          "feedback": "Incorrect. /ai/ is the sound of the letter \"I\"."
-        },
-        {
-          "letter": "D",
-          "text": "/ei/",
-          "is_correct": false,
-          "feedback": "Incorrect. /ei/ is the sound of the letter \"A\"."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Es común confundirse: en inglés, la letra **A** suena /ei/, la **E** suena /i/, y la **I** suena /ai/.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-v6",
-      "statement": "Choose the word that starts with the letter **\"B\"**:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Apple",
-          "is_correct": false,
-          "feedback": "Incorrect. Apple starts with A."
-        },
-        {
-          "letter": "B",
-          "text": "Ball",
-          "is_correct": true,
-          "feedback": "Correct! Ball starts with B."
-        },
-        {
-          "letter": "C",
-          "text": "Cat",
-          "is_correct": false,
-          "feedback": "Incorrect. Cat starts with C."
-        },
-        {
-          "letter": "D",
-          "text": "Dog",
-          "is_correct": false,
-          "feedback": "Incorrect. Dog starts with D."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La palabra \"Ball\" (balón) comienza con la letra B.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-v7",
-      "statement": "Spell the number **\"FOUR\"**:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "F - O - R",
-          "is_correct": false,
-          "feedback": "Incorrect. Missing the \"U\"."
-        },
-        {
-          "letter": "B",
-          "text": "F - O - U - R",
-          "is_correct": true,
-          "feedback": "Correct! F-O-U-R spells 4."
-        },
-        {
-          "letter": "C",
-          "text": "F - U - O - R",
-          "is_correct": false,
-          "feedback": "Incorrect. Wrong order of vowels."
-        },
-        {
-          "letter": "D",
-          "text": "P - O - U - R",
-          "is_correct": false,
-          "feedback": "Incorrect. Starts with F, not P."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El número 4 en inglés se escribe \"Four\". Se deletrea F-O-U-R.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.6,
-      "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-v8",
-      "statement": "Complete the word: **\"A _ P L E\"** (It is a red fruit).",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "P",
-          "is_correct": true,
-          "feedback": "Correct! APPLE is the word."
-        },
-        {
-          "letter": "B",
-          "text": "B",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Able\" is not a red fruit."
-        },
-        {
-          "letter": "C",
-          "text": "T",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Atple\" is not a word."
-        },
-        {
-          "letter": "D",
-          "text": "M",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Ample\" means something else."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La palabra \"Apple\" (manzana) lleva doble \"P\". Se escribe A-P-P-L-E.\r\n\r\n---",
-      "difficulty": "6",
+      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.55,
+      "bloom": "Understand",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -376,43 +100,43 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-v9",
-      "statement": "What is the letter after **\"J\"**?",
-      "context": "",
+      "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v3",
+      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "I",
-          "is_correct": false,
-          "feedback": "Incorrect. \"I\" comes before J."
+          "text": "destination",
+          "is_correct": true,
+          "feedback": "Correct! 'destination' matches the definition."
         },
         {
           "letter": "B",
-          "text": "K",
-          "is_correct": true,
-          "feedback": "Correct! K comes after J."
+          "text": "departure",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "L",
+          "text": "arrival",
           "is_correct": false,
-          "feedback": "Incorrect. \"L\" comes after K."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "H",
+          "text": "journey",
           "is_correct": false,
-          "feedback": "Incorrect. \"H\" is earlier in the alphabet."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "En la secuencia del abecedario: ... H, I, J, **K**, L ... La letra K sigue a la J.\r\n\r\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.5,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -422,43 +146,227 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-v10",
-      "statement": "Which word is spelled correctly?",
-      "context": "",
+      "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v4",
+      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Buk",
-          "is_correct": false,
-          "feedback": "Incorrect. It should be \"Book\"."
+          "text": "luggage",
+          "is_correct": true,
+          "feedback": "Correct! 'luggage' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Skool",
+          "text": "ticket",
           "is_correct": false,
-          "feedback": "Incorrect. It should be \"School\"."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Pencil",
-          "is_correct": true,
-          "feedback": "Correct! Pencil is spelled correctly."
+          "text": "flight",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Pencl",
+          "text": "reservation",
           "is_correct": false,
-          "feedback": "Incorrect. Missing the \"I\"."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "\"Pencil\" (lápiz) se escribe P-E-N-C-I-L. Es importante memorizar la escritura de objetos escolares comunes.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "correct_answer": "A",
+      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.45,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v5",
+      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "passenger",
+          "is_correct": true,
+          "feedback": "Correct! 'passenger' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "pedestrian",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "commuter",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "tourist",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v6",
+      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "customs",
+          "is_correct": true,
+          "feedback": "Correct! 'customs' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "security",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "terminal",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "gate",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v7",
+      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "boarding pass",
+          "is_correct": true,
+          "feedback": "Correct! 'boarding pass' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "visa",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "receipt",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "brochure",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v8",
+      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sightseeing",
+          "is_correct": true,
+          "feedback": "Correct! 'sightseeing' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "shopping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "hiking",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "camping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",

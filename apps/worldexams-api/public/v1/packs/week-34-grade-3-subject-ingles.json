@@ -8,180 +8,42 @@
   },
   "questions": [
     {
-      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-v1",
-      "statement": "In which sport do you **kick** a ball into a **goal** (arco)? ⚽",
-      "context": "Playing with a ball and feet.",
+      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v1",
+      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Basketball",
-          "is_correct": false,
-          "feedback": "Incorrect. You use your hands in basketball."
+          "text": "accommodation",
+          "is_correct": true,
+          "feedback": "Correct! 'accommodation' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Soccer",
-          "is_correct": true,
-          "feedback": "Correct! Soccer is the most popular sport in Colombia."
+          "text": "transportation",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Tennis",
+          "text": "entertainment",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Swimming",
+          "text": "currency",
           "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Soccer\" (fútbol) es el deporte donde se patea un balón para anotar goles.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.95,
-      "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-v2",
-      "statement": "What sport do you do in a **swimming pool**? 🏊‍♂️",
-      "context": "Sport in a pool.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Swimming",
-          "is_correct": true,
-          "feedback": "Correct! Swimming is the sport of moving through water."
-        },
-        {
-          "letter": "B",
-          "text": "Baseball",
-          "is_correct": false,
-          "feedback": "Incorrect. Baseball is played on a field."
-        },
-        {
-          "letter": "C",
-          "text": "Cycling",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Soccer",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "\"Swimming\" significa natación. Es la actividad física que se realiza en el agua.\r\n\r\n---",
-      "difficulty": "4",
+      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-v3",
-      "statement": "In this sport, you **throw** the ball into a high **hoop** (aro). 🏀",
-      "context": "Using hands and a hoop.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Soccer",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Basketball",
-          "is_correct": true,
-          "feedback": "Correct! Basketball involves throwing the ball into a hoop."
-        },
-        {
-          "letter": "C",
-          "text": "Tennis",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Running",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Basketball\" (baloncesto) se juega encestando el balón en un aro elevado.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.85,
-      "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-v4",
-      "statement": "What sport uses a **bicycle** and is very famous in Colombia? 🚲",
-      "context": "Cycling in Colombia.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Skating",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Cycling",
-          "is_correct": true,
-          "feedback": "Correct! Cycling is very popular in Colombia."
-        },
-        {
-          "letter": "C",
-          "text": "Golf",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Volleyball",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Cycling\" (ciclismo) es el deporte de montar en bicicleta, muy importante en la cultura deportiva colombiana.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
+      "icfes_type": "Lexico",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
       "periodo": 34,
@@ -192,43 +54,135 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-v5",
-      "statement": "To play **Tennis**, you need a ball and a... 🎾",
-      "context": "Using a racket.",
+      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v2",
+      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Bat",
-          "is_correct": false,
-          "feedback": "Incorrect. Baseball uses a bat."
+          "text": "itinerary",
+          "is_correct": true,
+          "feedback": "Correct! 'itinerary' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Racket",
-          "is_correct": true,
-          "feedback": "Correct! You hit the ball with a racket in tennis."
+          "text": "baggage",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Helmet",
+          "text": "destination",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Goal",
+          "text": "passport",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "\"Racket\" significa raqueta. Es el implemento necesario para golpear la pelota en el tenis.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v3",
+      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "destination",
+          "is_correct": true,
+          "feedback": "Correct! 'destination' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "departure",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "arrival",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "journey",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v4",
+      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "luggage",
+          "is_correct": true,
+          "feedback": "Correct! 'luggage' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "ticket",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "flight",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "reservation",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.75,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -238,43 +192,43 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-v6",
-      "statement": "When you go **cycling** or **skating**, what do you wear on your **head** for safety? 🪖",
-      "context": "Safety equipment.",
+      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v5",
+      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "A helmet",
+          "text": "passenger",
           "is_correct": true,
-          "feedback": "Correct! A helmet protects your head."
+          "feedback": "Correct! 'passenger' matches the definition."
         },
         {
           "letter": "B",
-          "text": "A hat",
+          "text": "pedestrian",
           "is_correct": false,
-          "feedback": "Incorrect. A hat doesn't protect from falls."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "A cap",
+          "text": "commuter",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "A glove",
+          "text": "tourist",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "\"Helmet\" significa casco. Es un elemento de seguridad vital para deportes de velocidad o impacto.\r\n\r\n---",
-      "difficulty": "8",
+      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.7,
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -284,89 +238,43 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-v7",
-      "statement": "You are at the **track**. You are moving very fast on your **feet**. You are... 🏃‍♀️",
-      "context": "Identifying sport by action.",
+      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v6",
+      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Swimming",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "text": "customs",
+          "is_correct": true,
+          "feedback": "Correct! 'customs' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Jumping",
+          "text": "security",
           "is_correct": false,
-          "feedback": "Incorrect. Jumping is up and down."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Running",
-          "is_correct": true,
-          "feedback": "Correct! Running is moving fast on foot."
+          "text": "terminal",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Playing chess",
+          "text": "gate",
           "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "\"Running\" (correr o atletismo) consiste en desplazarse velozmente a pie.\r\n\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-v8",
-      "statement": "Which group of sports **always** uses a **ball**?",
-      "context": "Grouping sports by equipment.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Soccer, Basketball, Tennis",
-          "is_correct": true,
-          "feedback": "Correct! All three need a ball."
-        },
-        {
-          "letter": "B",
-          "text": "Swimming, Running, Cycling",
-          "is_correct": false,
-          "feedback": "Incorrect. These don't need a ball."
-        },
-        {
-          "letter": "C",
-          "text": "Skating, Dancing, Jumping",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Karate, Boxing, Running",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Analizar los elementos necesarios para cada deporte. El fútbol, baloncesto y tenis son deportes de pelota (ball games).\r\n\r\n---",
+      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.6,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -376,43 +284,43 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-v9",
-      "statement": "You have **wheels** on the bottom of your **shoes**. You are practicing... ⛸️",
-      "context": "Identifying sport by shoes.",
+      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v7",
+      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Soccer",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "text": "boarding pass",
+          "is_correct": true,
+          "feedback": "Correct! 'boarding pass' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Skating",
-          "is_correct": true,
-          "feedback": "Correct! Skating uses shoes with wheels (skates)."
+          "text": "visa",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Cycling",
+          "text": "receipt",
           "is_correct": false,
-          "feedback": "Incorrect. You are on a bike, not wheels on shoes."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Basketball",
+          "text": "brochure",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Analizar el equipo especializado. El patinaje (Skating) se realiza con patines, que son calzado con ruedas.\r\n\r\n---",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.55,
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -422,37 +330,43 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-v10",
-      "statement": "In **Soccer**, you play with **11 people** on your team. Is it an **individual** or a **team** sport?",
-      "context": "Understanding teamwork.",
+      "id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v8",
+      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Individual sport",
-          "is_correct": false,
-          "feedback": "Incorrect. You need many people."
+          "text": "sightseeing",
+          "is_correct": true,
+          "feedback": "Correct! 'sightseeing' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Team sport",
-          "is_correct": true,
-          "feedback": "Correct! Working with other people makes it a team sport."
+          "text": "shopping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Solo sport",
+          "text": "hiking",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "camping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Evaluar la naturaleza social del deporte. Los deportes que se juegan en grupo se denominan \"Team sports\" (deportes de equipo).",
+      "correct_answer": "A",
+      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Pragmática",
-      "expected_success": 0.5,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",

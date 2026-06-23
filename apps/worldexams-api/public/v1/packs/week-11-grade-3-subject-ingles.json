@@ -8,180 +8,42 @@
   },
   "questions": [
     {
-      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v1",
-      "statement": "What is **\"Cabeza\"** in English?",
-      "context": "",
+      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle-v1",
+      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Head",
+          "text": "accommodation",
           "is_correct": true,
-          "feedback": "Correct! Head is cabeza."
+          "feedback": "Correct! 'accommodation' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Hand",
+          "text": "transportation",
           "is_correct": false,
-          "feedback": "Incorrect. Hand is mano."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Foot",
+          "text": "entertainment",
           "is_correct": false,
-          "feedback": "Incorrect. Foot is pie."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Arm",
+          "text": "currency",
           "is_correct": false,
-          "feedback": "Incorrect. Arm is brazo."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La cabeza se dice \"head\" en inglés. Es la parte superior del cuerpo.\r\n\r\n---",
-      "difficulty": "4",
+      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.95,
-      "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v2",
-      "statement": "How many **arms** (brazos) do you have?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "One",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Two",
-          "is_correct": true,
-          "feedback": "Correct! You have two arms."
-        },
-        {
-          "letter": "C",
-          "text": "Ten",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Five",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Arm\" significa brazo. La mayoría de las personas tenemos dos (two) brazos.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v3",
-      "statement": "What is **\"Mano\"** in English?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Foot",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Head",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "C",
-          "text": "Hand",
-          "is_correct": true,
-          "feedback": "Correct! Hand is mano."
-        },
-        {
-          "letter": "D",
-          "text": "Leg",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La mano se dice \"hand\". Al final de cada brazo tenemos una mano.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.85,
-      "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v4",
-      "statement": "What is **\"Pierna\"** in English?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Arm",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Leg",
-          "is_correct": true,
-          "feedback": "Correct! Leg is pierna."
-        },
-        {
-          "letter": "C",
-          "text": "Shoulder",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Knee",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La pierna se dice \"leg\". Usamos las piernas para caminar y correr.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
+      "icfes_type": "Lexico",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
       "periodo": 11,
@@ -192,43 +54,43 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v5",
-      "statement": "What is **\"Pie\"** in English?",
-      "context": "",
+      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle-v2",
+      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Foot",
+          "text": "itinerary",
           "is_correct": true,
-          "feedback": "Correct! Foot is pie."
+          "feedback": "Correct! 'itinerary' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Hand",
+          "text": "baggage",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Head",
+          "text": "destination",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Leg",
+          "text": "passport",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Un pie se dice \"foot\". Si son los dos, decimos \"feet\".\r\n\r\n---",
+      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.75,
+      "bloom": "Understand",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -238,43 +100,43 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v6",
-      "statement": "You wear a hat on your:",
-      "context": "",
+      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle-v3",
+      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Head",
+          "text": "destination",
           "is_correct": true,
-          "feedback": "Correct! You wear hats on your head."
+          "feedback": "Correct! 'destination' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Foot",
+          "text": "departure",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Hand",
+          "text": "arrival",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Arm",
+          "text": "journey",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El sombrero (hat) se usa en la cabeza (head).\r\n\r\n---",
-      "difficulty": "6",
+      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -284,89 +146,43 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v7",
-      "statement": "You wear shoes on your:",
-      "context": "",
+      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle-v4",
+      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Hands",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "text": "luggage",
+          "is_correct": true,
+          "feedback": "Correct! 'luggage' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Arms",
+          "text": "ticket",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Feet",
-          "is_correct": true,
-          "feedback": "Correct! Shoes go on your feet."
+          "text": "flight",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Head",
+          "text": "reservation",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Los zapatos (shoes) se usan en los pies (feet).\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v8",
-      "statement": "Which part of the body is **\"Hombro\"**?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Knee",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Shoulder",
-          "is_correct": true,
-          "feedback": "Correct! Shoulder is hombro."
-        },
-        {
-          "letter": "C",
-          "text": "Elbow",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Toe",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El hombro se dice \"shoulder\". Recuerda la canción: \"Head, shoulders, knees and toes\".\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.6,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -376,43 +192,43 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v9",
-      "statement": "What are **\"Rodillas\"** in English?",
-      "context": "",
+      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle-v5",
+      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Shoulders",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "text": "passenger",
+          "is_correct": true,
+          "feedback": "Correct! 'passenger' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Toes",
+          "text": "pedestrian",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Knees",
-          "is_correct": true,
-          "feedback": "Correct! Knees are rodillas."
+          "text": "commuter",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Fingers",
+          "text": "tourist",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las rodillas se dicen \"knees\". La \"k\" al principio es muda, no suena.\r\n\r\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.55,
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -422,43 +238,135 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v10",
-      "statement": "Where are your **fingers**?",
-      "context": "",
+      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle-v6",
+      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "On your feet",
-          "is_correct": false,
-          "feedback": "Incorrect. Those are toes."
+          "text": "customs",
+          "is_correct": true,
+          "feedback": "Correct! 'customs' matches the definition."
         },
         {
           "letter": "B",
-          "text": "On your hands",
-          "is_correct": true,
-          "feedback": "Correct! You have fingers on your hands."
+          "text": "security",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "On your head",
+          "text": "terminal",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "On your legs",
+          "text": "gate",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Los dedos de las manos se llaman \"fingers\". Los dedos de los pies se llaman \"toes\".\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.5,
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle-v7",
+      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "boarding pass",
+          "is_correct": true,
+          "feedback": "Correct! 'boarding pass' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "visa",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "receipt",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "brochure",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle-v8",
+      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sightseeing",
+          "is_correct": true,
+          "feedback": "Correct! 'sightseeing' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "shopping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "hiking",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "camping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
