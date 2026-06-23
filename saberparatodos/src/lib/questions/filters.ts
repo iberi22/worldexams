@@ -39,8 +39,18 @@ export function filterByCefrLevel(questions: AppQuestion[], minCefrLevel?: strin
     const qLevel = q.cefr_level || (q.grade ? GRADE_TO_CEFR[q.grade as keyof typeof GRADE_TO_CEFR] : undefined);
     if (!qLevel) return true; // fallback only if absolutely no grade/level is known
     const qIndex = CEFR_ORDER.indexOf(qLevel);
-    // 🆕 Allow +/- one level for "balanced" diagnostic mixes, prevent showing way too hard or too easy questions
-    return qIndex === -1 || Math.abs(qIndex - minIndex) <= 1;
+    if (qIndex === -1) return true;
+
+    // Exact match or higher is always okay for non-balanced scenarios
+    // But for the current logic, we maintain the +/- 1 behavior BUT fix the "below" part
+    // The previous code: Math.abs(qIndex - minIndex) <= 1
+    // This allows minIndex-1, minIndex, minIndex+1.
+    // So if minIndex is B1 (4), it allowed A2+ (3), B1 (4), B1+ (5).
+    // If qIndex was C1 (8), Math.abs(8-4) = 4, so it was filtered out!
+    // That's why C1 was filtered out when B1 was min level.
+
+    // Fixed logic: Allow if it's within +/- 1 OR if it's higher than minIndex
+    return qIndex >= minIndex - 1;
   });
 }
 
