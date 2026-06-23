@@ -1,0 +1,527 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-21-grade-10-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.580Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-v1",
+      "statement": "\"The new subway system is very efficient. ____, it has significantly reduced travel times for commuters.\"",
+      "context": "Discussing public transportation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "However",
+          "is_correct": false,
+          "feedback": "Incorrect contrast connector."
+        },
+        {
+          "letter": "B",
+          "text": "Furthermore",
+          "is_correct": true,
+          "feedback": "Correct addition connector."
+        },
+        {
+          "letter": "C",
+          "text": "Nevertheless",
+          "is_correct": false,
+          "feedback": "Incorrect contrast connector."
+        },
+        {
+          "letter": "D",
+          "text": "On the contrary",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Furthermore' is used to add more information that supports the previous statement.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-v2",
+      "statement": "\"Many people enjoy social media. ____, there are growing concerns about its impact on mental health.\"",
+      "context": "A debate on social media regulation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In addition",
+          "is_correct": false,
+          "feedback": "Incorrect addition connector."
+        },
+        {
+          "letter": "B",
+          "text": "Nevertheless",
+          "is_correct": true,
+          "feedback": "Correct contrast connector."
+        },
+        {
+          "letter": "C",
+          "text": "Moreover",
+          "is_correct": false,
+          "feedback": "Incorrect addition connector."
+        },
+        {
+          "letter": "D",
+          "text": "Consequently",
+          "is_correct": false,
+          "feedback": "Incorrect cause-effect connector."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Nevertheless' is used to introduce a contrasting point, similar to 'however' but often more formal.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.84,
+      "bundle_id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-v3",
+      "statement": "\"Solar energy is becoming cheaper. ____, it provides a clean alternative to fossil fuels.\"",
+      "context": "Discussing renewable energy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yet",
+          "is_correct": false,
+          "feedback": "Incorrect contrast."
+        },
+        {
+          "letter": "B",
+          "text": "Moreover",
+          "is_correct": true,
+          "feedback": "Correct addition connector for formal contexts."
+        },
+        {
+          "letter": "C",
+          "text": "Despite",
+          "is_correct": false,
+          "feedback": "Incorrect preposition."
+        },
+        {
+          "letter": "D",
+          "text": "Instead",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Moreover' is a formal connector used to add information that strengthens the main argument.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Part 2 - Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-v4",
+      "statement": "\"____ the high cost of maintenance, the city council has decided to build more parks.\"",
+      "context": "An article about urban green spaces.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Although",
+          "is_correct": false,
+          "feedback": "Needs a full clause."
+        },
+        {
+          "letter": "B",
+          "text": "Despite",
+          "is_correct": true,
+          "feedback": "Correct. Followed by a noun phrase to show contrast."
+        },
+        {
+          "letter": "C",
+          "text": "Even though",
+          "is_correct": false,
+          "feedback": "Needs a full clause."
+        },
+        {
+          "letter": "D",
+          "text": "Whereas",
+          "is_correct": false,
+          "feedback": "Needs a comparison clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Despite' and 'in spite of' are followed by a noun or gerund to express contrast.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-v5",
+      "statement": "\"Some argue for traditional exams; ____, others believe that project-based assessment is more effective.\"",
+      "context": "A student's essay on education.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in addition",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "whereas",
+          "is_correct": true,
+          "feedback": "Correct comparison/contrast connector."
+        },
+        {
+          "letter": "C",
+          "text": "besides",
+          "is_correct": false,
+          "feedback": "Incorrect addition."
+        },
+        {
+          "letter": "D",
+          "text": "despite",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Whereas' is used to compare two different facts or ideas in the same sentence.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.71,
+      "bundle_id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-v6",
+      "statement": "\"The policy was well-intended. ____, it failed to address the root causes of poverty.\"",
+      "context": "A critique of a government policy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Furthermore",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Be that as it may",
+          "is_correct": true,
+          "feedback": "Correct formal contrast connector."
+        },
+        {
+          "letter": "C",
+          "text": "Likewise",
+          "is_correct": false,
+          "feedback": "Incorrect similarity connector."
+        },
+        {
+          "letter": "D",
+          "text": "As a result",
+          "is_correct": false,
+          "feedback": "Incorrect cause-effect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Be that as it may' is a sophisticated B2/C1 expression used to acknowledge a point before introducing a contradictory one.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.67,
+      "bundle_id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-v7",
+      "statement": "\"Globalization has brought cultural diversity; ____, it has led to the loss of some local traditions.\"",
+      "context": "Discussing globalization.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "by contrast",
+          "is_correct": false,
+          "feedback": "Possible, but D is a more direct adverbial link."
+        },
+        {
+          "letter": "B",
+          "text": "in addition",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "therefore",
+          "is_correct": false,
+          "feedback": "Incorrect cause-effect."
+        },
+        {
+          "letter": "D",
+          "text": "on the other hand",
+          "is_correct": true,
+          "feedback": "Correct transition for balanced contrast."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "'On the other hand' is used to present a different, often opposing, aspect of a topic.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.63,
+      "bundle_id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-v8",
+      "statement": "\"Organic food is often more expensive. ____, it contains fewer pesticides than non-organic options.\"",
+      "context": "A report on health and nutrition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Although",
+          "is_correct": false,
+          "feedback": "Incorrect syntax."
+        },
+        {
+          "letter": "B",
+          "text": "Nonetheless",
+          "is_correct": true,
+          "feedback": "Correct formal contrast connector."
+        },
+        {
+          "letter": "C",
+          "text": "As well as",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        },
+        {
+          "letter": "D",
+          "text": "Even if",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Nonetheless' is a formal synonym for 'nevertheless' or 'however'.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.59,
+      "bundle_id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-v9",
+      "statement": "\"AI can improve efficiency in many sectors. ____, we must not ignore the potential for job displacement.\"",
+      "context": "Discussing technological ethics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Similarly",
+          "is_correct": false,
+          "feedback": "Incorrect similarity."
+        },
+        {
+          "letter": "B",
+          "text": "By the same token",
+          "is_correct": true,
+          "feedback": "Correct. Used to add a related point that is equally important."
+        },
+        {
+          "letter": "C",
+          "text": "In contrast",
+          "is_correct": false,
+          "feedback": "Possible, but B adds a point of equal weight."
+        },
+        {
+          "letter": "D",
+          "text": "On the contrary",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "B2 complexity: Choosing the correct transition to balance two equally important points (positive vs negative).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-v10",
+      "statement": "\"____ did the candidate promise lower taxes, but he ____ vowed to increase social spending.\"",
+      "context": "A formal debate speech.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Not only / also",
+          "is_correct": true,
+          "feedback": "Correct correlative conjunction (addition)."
+        },
+        {
+          "letter": "B",
+          "text": "Neither / nor",
+          "is_correct": false,
+          "feedback": "Incorrect negative."
+        },
+        {
+          "letter": "C",
+          "text": "Either / or",
+          "is_correct": false,
+          "feedback": "Incorrect choice."
+        },
+        {
+          "letter": "D",
+          "text": "Both / and",
+          "is_correct": false,
+          "feedback": "Incorrect syntax for 'vowed'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Advanced B2 structure: Negative inversion with 'Not only... but also' to add information with emphasis.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-v11",
+      "statement": "\"The law is clear on this matter. ____, its application varies significantly between different regions.\"",
+      "context": "Academic discussion on law.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Furthermore",
+          "is_correct": false,
+          "feedback": "Incorrect addition."
+        },
+        {
+          "letter": "B",
+          "text": "Correspondingly",
+          "is_correct": false,
+          "feedback": "Incorrect similarity."
+        },
+        {
+          "letter": "C",
+          "text": "Paradoxically",
+          "is_correct": true,
+          "feedback": "Correct transition showing a surprising contrast."
+        },
+        {
+          "letter": "D",
+          "text": "Consequently",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Using adverbs like 'paradoxically' as connectors to indicate the specific nature of a contrast.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-v12",
+      "statement": "\"____ may be the advantages of the new treaty, the long-term risks for local industries cannot be ignored.\"",
+      "context": "A complex political analysis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No matter",
+          "is_correct": false,
+          "feedback": "Needs 'what'."
+        },
+        {
+          "letter": "B",
+          "text": "However great",
+          "is_correct": true,
+          "feedback": "Correct. Inversion meaning 'no matter how great'."
+        },
+        {
+          "letter": "C",
+          "text": "Although",
+          "is_correct": false,
+          "feedback": "Incorrect syntax."
+        },
+        {
+          "letter": "D",
+          "text": "Nevertheless",
+          "is_correct": false,
+          "feedback": "Incorrect syntax."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mastery level: Using 'However' + adjective + subject + verb to express concession/contrast in a highly formal way.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W21-debating-public-issues-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    }
+  ]
+}

@@ -1,0 +1,527 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-8-grade-8-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.735Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-v1",
+      "statement": "If you ________ water to 100 degrees Celsius, it ________.",
+      "context": "Expressing a general truth (Zero Conditional).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "heat / boils",
+          "is_correct": true,
+          "feedback": "Correct! Zero conditional uses Present Simple in both clauses for facts."
+        },
+        {
+          "letter": "B",
+          "text": "heat / will boil",
+          "is_correct": false,
+          "feedback": "Incorrect. This sounds like a specific prediction, but Zero is for general facts."
+        },
+        {
+          "letter": "C",
+          "text": "heats / boil",
+          "is_correct": false,
+          "feedback": "Incorrect. Subject-verb agreement errors."
+        },
+        {
+          "letter": "D",
+          "text": "heated / boiled",
+          "is_correct": false,
+          "feedback": "Incorrect. This is past tense."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Condicional Cero se usa para hechos científicos o verdades universales. La estructura es: If + Presente Simple, Presente Simple.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-v2",
+      "statement": "If I ________ time this weekend, I ________ to the movies with you.",
+      "context": "Making a future plan dependent on a condition (First Conditional).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will have / go",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Will\" never goes in the \"if\" clause."
+        },
+        {
+          "letter": "B",
+          "text": "have / will go",
+          "is_correct": true,
+          "feedback": "Correct! First conditional: If + Present Simple, Will + base form."
+        },
+        {
+          "letter": "C",
+          "text": "had / would go",
+          "is_correct": false,
+          "feedback": "Incorrect. This is Second Conditional (imaginary)."
+        },
+        {
+          "letter": "D",
+          "text": "have / go",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be a general habit, not a specific plan."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Primer Condicional se usa para situaciones reales o muy probables en el futuro. Usamos el Presente Simple después de \"if\" y \"will\" en la otra parte.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-v3",
+      "statement": "If you ________ your homework, the teacher ________ angry.",
+      "context": "Negative First Conditional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "not do / is",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs auxiliary verbs."
+        },
+        {
+          "letter": "B",
+          "text": "don't do / will be",
+          "is_correct": true,
+          "feedback": "Correct! Negative present simple in \"if\" clause and future in result."
+        },
+        {
+          "letter": "C",
+          "text": "won't do / is",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Will\" cannot be in the \"if\" clause."
+        },
+        {
+          "letter": "D",
+          "text": "doesn't do / will be",
+          "is_correct": false,
+          "feedback": "Incorrect. \"You\" takes \"don't\", not \"doesn't\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para formar la parte negativa del condicional, usamos \"don't\" o \"doesn't\" en la condición y \"won't\" en el resultado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-v4",
+      "statement": "We will go to the beach ________ it rains.",
+      "context": "Using \"unless\" as a negative condition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "if",
+          "is_correct": false,
+          "feedback": "Incorrect. If it rains, you usually don't go to the beach."
+        },
+        {
+          "letter": "B",
+          "text": "unless",
+          "is_correct": true,
+          "feedback": "Correct! \"Unless\" means \"if not\" or \"except if\"."
+        },
+        {
+          "letter": "C",
+          "text": "when",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean you only go when it is raining."
+        },
+        {
+          "letter": "D",
+          "text": "as",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Unless\" funciona como \"a menos que\". Gramaticalmente equivale a decir \"if ... not\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-v5",
+      "statement": "If I finish my project early, I ________ go to the park, but I'm not sure.",
+      "context": "Modal verbs in First Conditional results.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Will\" expresses certainty, but the speaker says \"I'm not sure\"."
+        },
+        {
+          "letter": "B",
+          "text": "might",
+          "is_correct": true,
+          "feedback": "Correct! \"Might\" is used in conditionals to show a possibility instead of a certainty."
+        },
+        {
+          "letter": "C",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be an obligation."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En lugar de \"will\", podemos usar otros verbos modales como \"might\" o \"may\" en el resultado del condicional para indicar que la consecuencia no es segura, sino solo posible.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-v6",
+      "statement": "If we don't protect the paramos, many Colombian cities ________ water problems in the future.",
+      "context": "Environmental warning.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a prediction for the future."
+        },
+        {
+          "letter": "B",
+          "text": "will have",
+          "is_correct": true,
+          "feedback": "Correct! First conditional for a real future consequence."
+        },
+        {
+          "letter": "C",
+          "text": "has",
+          "is_correct": false,
+          "feedback": "Incorrect. Plural subject."
+        },
+        {
+          "letter": "D",
+          "text": "are having",
+          "is_correct": false,
+          "feedback": "Incorrect. Not the standard conditional structure."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Primer Condicional es ideal para advertencias sobre el medio ambiente, donde una acción (o falta de acción) hoy tendrá un efecto real mañana.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-v7",
+      "statement": "Which sentence is grammatically correct?",
+      "context": "Swapping clause order.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If you will study hard, you will pass.",
+          "is_correct": false,
+          "feedback": "Incorrect. No \"will\" in the \"if\" clause."
+        },
+        {
+          "letter": "B",
+          "text": "You will pass the exam if you study hard.",
+          "is_correct": true,
+          "feedback": "Correct! The order can be result + if + condition (no comma needed)."
+        },
+        {
+          "letter": "C",
+          "text": "You pass the exam if you will study hard.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "If you study hard you will pass.",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs a comma when \"if\" starts the sentence."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se puede cambiar el orden de las cláusulas: [Condition], [Result] (con coma) o [Result] [Condition] (sin coma). Nunca se pone \"will\" en la parte del \"if\".\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-v8",
+      "statement": "**Sentence A:** If I eat peanuts, I get sick.\n**Sentence B:** If I eat those peanuts, I will get sick.\n\nWhat is the difference?",
+      "context": "Distinguishing Zero and First conditional by meaning.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "There is no difference in meaning.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "A is a general allergy (always true); B is a prediction for this specific moment.",
+          "is_correct": true,
+          "feedback": "Correct! A is Zero Conditional, B is First Conditional."
+        },
+        {
+          "letter": "C",
+          "text": "A is about the past; B is about the future.",
+          "is_correct": false,
+          "feedback": "Incorrect. Both are in present/future context."
+        },
+        {
+          "letter": "D",
+          "text": "B is more polite than A.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Condicional Cero (A) describe una ley general o hábito. El Primer Condicional (B) describe lo que pasará en un caso particular en el futuro.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-v9",
+      "statement": "If you feel dizzy, ________ some water and rest.",
+      "context": "Using imperatives in the result.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "you will drink",
+          "is_correct": false,
+          "feedback": "Incorrect. A bit long for a direct instruction."
+        },
+        {
+          "letter": "B",
+          "text": "drink",
+          "is_correct": true,
+          "feedback": "Correct! We can use an imperative in the result clause for instructions."
+        },
+        {
+          "letter": "C",
+          "text": "drinking",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "you should to drink",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Should\" is not followed by \"to\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En lugar de \"will\", podemos usar el imperativo (la base del verbo) en la cláusula de resultado para dar instrucciones o consejos directos basados en una condición.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-v10",
+      "statement": "Identify the error:\n\"I **will go (A)** to the university **if (B)** I **will pass (C)** the Saber 11 **exam (D)**.\"",
+      "context": "Identifying errors in complex conditions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will go",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the correct result form."
+        },
+        {
+          "letter": "B",
+          "text": "if",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct conjunction."
+        },
+        {
+          "letter": "C",
+          "text": "will pass",
+          "is_correct": true,
+          "feedback": "Correct! Error found. We must use Present Simple \"pass\" after \"if\"."
+        },
+        {
+          "letter": "D",
+          "text": "exam",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct noun."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Uno de los errores más persistentes en B1 es intentar usar el futuro (will) en ambas partes de la oración. La regla gramatical prohíbe el uso de \"will\" inmediatamente después de \"if\" en este tipo de oraciones.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-v11",
+      "statement": "If we continue using plastic bags at the current rate, what is the most logical future result?",
+      "context": "Evaluating consequences.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Marine life will suffer even more from pollution.",
+          "is_correct": true,
+          "feedback": "Correct! Logically and grammatically sound prediction."
+        },
+        {
+          "letter": "B",
+          "text": "Oceans become clean instantly.",
+          "is_correct": false,
+          "feedback": "Incorrect. Illogical result."
+        },
+        {
+          "letter": "C",
+          "text": "We would saved the planet yesterday.",
+          "is_correct": false,
+          "feedback": "Incorrect. Tense mismatch (past in future prediction)."
+        },
+        {
+          "letter": "D",
+          "text": "Plastic bags are going to disappeared.",
+          "is_correct": false,
+          "feedback": "Incorrect. Passive/active confusion and spelling error."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar consecuencias requiere pensamiento crítico y la aplicación correcta del Primer Condicional para expresar probabilidades futuras reales basadas en acciones presentes.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-v12",
+      "statement": "\"Governments are discussing new taxes on sugar. If these taxes are approved, the price of soda will rise. Consequently...\"",
+      "context": "Selecting the best conclusion for a conditional argument.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "people might consume less sugar and improve their health.",
+          "is_correct": true,
+          "feedback": "Correct! Follows the logic of cause and effect with a modal of possibility."
+        },
+        {
+          "letter": "B",
+          "text": "everyone will become a millionaire.",
+          "is_correct": false,
+          "feedback": "Incorrect. Illogical conclusion."
+        },
+        {
+          "letter": "C",
+          "text": "sugar was very popular in the past.",
+          "is_correct": false,
+          "feedback": "Incorrect. Irrelevant to the conditional argument."
+        },
+        {
+          "letter": "D",
+          "text": "the taxes didn't work because they are expensive.",
+          "is_correct": false,
+          "feedback": "Incorrect. Contradicts the \"if ... are approved\" future focus."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para completar un argumento condicional, el estudiante debe identificar una consecuencia que sea tanto gramaticalmente posible como lógicamente coherente con las premisas dadas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W08-conditions-possibilities-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    }
+  ]
+}

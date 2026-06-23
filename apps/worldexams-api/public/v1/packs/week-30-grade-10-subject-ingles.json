@@ -8,649 +8,556 @@
   },
   "questions": [
     {
-      "id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-v1",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-v1",
+      "statement": "\"Living in a village is ____ quieter than living in a bustling city like Bogotá.\"",
+      "context": "Comparing city life and country life.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "very",
+          "is_correct": false,
+          "feedback": "Incorrect with comparatives."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-v2",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "considerably",
           "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct B2 intensifier."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "so",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "many",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "2",
+      "correct_answer": "B",
+      "explanation": "Review of intensifiers for comparative adjectives.\r\n\r\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-bundle",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-v3",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-v2",
+      "statement": "\"The activist asked the students ____ more attention to the waste they produce.\"",
+      "context": "Reporting a request about the environment.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
+          "text": "paying",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
+          "text": "to pay",
+          "is_correct": true,
+          "feedback": "Correct. Reported request structure."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "pay",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "that pay",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "Review of reported requests using 'to + infinitive'.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-v4",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
+      "icfes_type": "Part 4 - Grammatical Cloze",
       "expected_success": 0.84,
-      "bundle_id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-v5",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-v3",
+      "statement": "\"She is the researcher ____ work has led to this major scientific breakthrough.\"",
+      "context": "Identifying a person's role in a team.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-v6",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "whose",
           "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct. Relative pronoun for possession."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "which",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "that",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect for possession."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "Review of 'whose' in defining relative clauses.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Gramática",
+      "icfes_type": "Part 2 - Lexical Knowledge",
       "expected_success": 0.8,
-      "bundle_id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-v7",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-v4",
+      "statement": "\"____ the school system is improving, there are ____ many challenges left to address.\"",
+      "context": "An essay on education.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
+          "text": "Despite / however",
+          "is_correct": false,
+          "feedback": "Incorrect syntax."
         },
         {
           "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-v8",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
+          "text": "Although / still",
           "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct. Contrast clause + adverb."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "Whereas / moreover",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "Because / yet",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-v9",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-v10",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-v11",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-v12",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "Review of contrast connectors and adverbs in complex sentences.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-bundle",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-v13",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-v5",
+      "statement": "\"____ you need to do ____ consult with a specialist before starting this treatment.\"",
+      "context": "Giving emphatic advice.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "It is / that",
+          "is_correct": false,
+          "feedback": "Possible, but 'What' is better for actions."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
+          "text": "What / is",
+          "is_correct": true,
+          "feedback": "Correct WH-cleft for emphasis."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "That / is",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "All / that",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incomplete."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "Review of WH-cleft sentences to emphasize a required action.\r\n\r\n---",
       "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.62,
-      "bundle_id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-v14",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.59,
-      "bundle_id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-v15",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "1",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Gramática",
-      "expected_success": 0.57,
-      "bundle_id": "CO-ING-10-2026-W30-critical-thinking-001-MASTERY-bundle",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-v6",
+      "statement": "\"Little ____ we ____ that our findings would be reported by every major news outlet.\"",
+      "context": "Describing a surprising discovery.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "we knew",
+          "is_correct": false,
+          "feedback": "No inversion."
+        },
+        {
+          "letter": "B",
+          "text": "did we know",
+          "is_correct": true,
+          "feedback": "Correct inversion with 'Little'."
+        },
+        {
+          "letter": "C",
+          "text": "had we known",
+          "is_correct": false,
+          "feedback": "Possible, but B is standard for lack of awareness."
+        },
+        {
+          "letter": "D",
+          "text": "we did know",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of inversion after the negative adverbial 'Little'.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-v7",
+      "statement": "\"It ____ that these misconceptions ____ from a lack of exposure to other cultures.\"",
+      "context": "Discussing social stereotypes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "says / stem",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "is believed / stem",
+          "is_correct": true,
+          "feedback": "Correct passive reporting structure."
+        },
+        {
+          "letter": "C",
+          "text": "has believed / stems",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "believes / stemming",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of passive voice with reporting verbs.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.64,
+      "bundle_id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-v8",
+      "statement": "\"My brother told me that I ____ start saving money ____ I wanted to travel next year.\"",
+      "context": "Reporting a friend's advice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must / when",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "should / if",
+          "is_correct": true,
+          "feedback": "Correct. Modal of advice in reported speech."
+        },
+        {
+          "letter": "C",
+          "text": "would / unless",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "had better / provided",
+          "is_correct": false,
+          "feedback": "Possible, but B is more standard."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of 'should' and 'if' in reported speech.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-v9",
+      "statement": "\"The ____ we invest in education, the ____ the economic inequality in our society will be.\"",
+      "context": "Comparing social progress.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "most / less",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "more / less",
+          "is_correct": true,
+          "feedback": "Correct double comparative."
+        },
+        {
+          "letter": "C",
+          "text": "more / least",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "better / more",
+          "is_correct": false,
+          "feedback": "Incorrect logic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Review of double comparatives to show correlation between two trends.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-v10",
+      "statement": "\"Rarely ____ the council ____ such a controversial project without public consultation.\"",
+      "context": "A formal discussion on urban development.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has / approved",
+          "is_correct": true,
+          "feedback": "Correct inversion with 'Rarely' in Present Perfect."
+        },
+        {
+          "letter": "B",
+          "text": "is / approving",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "did / approve",
+          "is_correct": false,
+          "feedback": "Possible, but A is common for recent history."
+        },
+        {
+          "letter": "D",
+          "text": "does / approves",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Review of inversion with 'Rarely' and perfect tenses.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-v11",
+      "statement": "\"I wish I ____ my grandparents' advice more seriously when I was younger.\"",
+      "context": "Reflecting on a lost opportunity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "take",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "took",
+          "is_correct": false,
+          "feedback": "Present wish."
+        },
+        {
+          "letter": "C",
+          "text": "had taken",
+          "is_correct": true,
+          "feedback": "Correct. Past regret."
+        },
+        {
+          "letter": "D",
+          "text": "would take",
+          "is_correct": false,
+          "feedback": "Future wish."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Review of 'Wish' for past regrets (from Period 2, but relevant to Opinions/Regrets).\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-v12",
+      "statement": "\"____ it not for the influence of social media, the spread of these stereotypes ____ so rapid.\"",
+      "context": "A complex theoretical conclusion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Were / wouldn't be",
+          "is_correct": true,
+          "feedback": "Correct formal inversion + Mixed conditional result."
+        },
+        {
+          "letter": "B",
+          "text": "If it is / won't be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Had / not been / wouldn't have been",
+          "is_correct": false,
+          "feedback": "Correct Third Conditional inversion, but A is more direct for a present state."
+        },
+        {
+          "letter": "D",
+          "text": "Was / wouldn't be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mastery level: Using formal inversion to describe a hypothetical cause and its result.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W30-review-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     }
   ]
 }

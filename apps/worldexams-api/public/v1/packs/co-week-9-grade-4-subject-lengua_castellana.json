@@ -8,6 +8,374 @@
   },
   "questions": [
     {
+      "id": "CO-LEN-4-2026-W09-tecnicas-estudio-subrayado-001-MASTERY-v1",
+      "statement": "El profesor explica que el **subrayado** es una técnica que ayuda a resaltar lo más importante de un texto. ¿Para qué sirve principalmente esta técnica?",
+      "context": "Una sesión de estudio en la biblioteca del Gimnasio Moderno en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que el libro se vea más colorido y bonito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El propósito no es estético sino facilitar el aprendizaje."
+        },
+        {
+          "letter": "B",
+          "text": "Para localizar rápidamente las ideas principales cuando necesitemos repasar.",
+          "is_correct": true,
+          "feedback": "Correcto. Al resaltar lo esencial, ahorramos tiempo en lecturas posteriores."
+        },
+        {
+          "letter": "C",
+          "text": "Para gastar la tinta de los resaltadores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un uso funcional de la herramienta."
+        },
+        {
+          "letter": "D",
+          "text": "Para tachar las palabras que no entendemos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tachar impide la lectura; subrayar la destaca."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El subrayado es una estrategia de síntesis y localización de información. El estudiante debe entender su utilidad como herramienta de ahorro de tiempo y esfuerzo mental.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-4-2026-W09-tecnicas-estudio-subrayado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W09-tecnicas-estudio-subrayado-001-MASTERY-v2",
+      "statement": "Antes de empezar a subrayar un texto, ¿qué es lo primero que se debe hacer para no equivocarse?",
+      "context": "Lectura sobre la Orinoquía en un libro de texto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leer el texto completo una primera vez para entender el tema general.",
+          "is_correct": true,
+          "feedback": "Correcto. La lectura previa evita subrayar cosas que parecen importantes al principio pero luego resultan secundarias."
+        },
+        {
+          "letter": "B",
+          "text": "Subrayar todas las palabras que empiecen por mayúscula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todas las mayúsculas son ideas principales."
+        },
+        {
+          "letter": "C",
+          "text": "Empezar a subrayar desde la primera palabra sin leer lo demás.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se corre el riesgo de resaltar demasiada información innecesaria."
+        },
+        {
+          "letter": "D",
+          "text": "Cerrar los ojos y rayar el papel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estudio requiere atención y un orden lógico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La técnica correcta del subrayado implica una lectura exploratoria previa. Esto asegura que la selección de información sea pertinente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-4-2026-W09-tecnicas-estudio-subrayado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W09-tecnicas-estudio-subrayado-001-MASTERY-v3",
+      "statement": "Lee este párrafo: \"Las abejas son fundamentales para la polinización de los cultivos en el Quindío. Sin ellas, muchas frutas no podrían crecer. Además, producen miel deliciosa\". Si quieres subrayar la **idea principal**, ¿cuál elegirías?",
+      "context": "Un párrafo sobre la importancia de las abejas en el Quindío",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Además, producen miel deliciosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una idea secundaria o un detalle adicional."
+        },
+        {
+          "letter": "B",
+          "text": "Las abejas son fundamentales para la polinización.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la idea central que explica la importancia del insecto en este contexto."
+        },
+        {
+          "letter": "C",
+          "text": "Muchas frutas no podrían crecer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una consecuencia de la idea principal, pero no la idea misma."
+        },
+        {
+          "letter": "D",
+          "text": "Subrayaría todo el párrafo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si subrayas todo, nada destaca y la técnica pierde su función."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Discriminar entre ideas principales y secundarias es la base del subrayado efectivo. El estudiante debe identificar la frase que da sentido a todo el párrafo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-4-2026-W09-tecnicas-estudio-subrayado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W09-tecnicas-estudio-subrayado-001-MASTERY-v4",
+      "statement": "Camilo subrayó casi todas las palabras de su libro de historia. Al final, toda la página está pintada de amarillo. ¿Qué problema tiene Camilo al usar esta técnica?",
+      "context": "El exceso de subrayado en un examen de historia sobre el 20 de Julio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que se va a sacar una excelente nota por esforzarse tanto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esforzarse no siempre significa usar bien la técnica."
+        },
+        {
+          "letter": "B",
+          "text": "Que el libro ahora vale más dinero porque tiene mucho color.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aumenta el valor y dificulta el estudio."
+        },
+        {
+          "letter": "C",
+          "text": "Que cuando quiera repasar, no sabrá qué es lo más importante porque todo parece igual de relevante.",
+          "is_correct": true,
+          "feedback": "Correcto. El subrayado excesivo anula la jerarquía de la información."
+        },
+        {
+          "letter": "D",
+          "text": "Que el amarillo no es el color correcto para la historia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color no es el problema, sino la cantidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El principio de economía es vital en el subrayado. El estudiante debe entender que \"menos es más\" y que solo debe resaltarse aproximadamente el 20-30% del texto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-4-2026-W09-tecnicas-estudio-subrayado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W09-tecnicas-estudio-subrayado-001-MASTERY-v5",
+      "statement": "Una buena idea es usar colores diferentes: verde para los títulos, amarillo para ideas principales y azul para datos como fechas o nombres. ¿Para qué nos sirve esta organización por colores?",
+      "context": "Uso de diferentes colores de subrayado en una clase en Medellín",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que el cuaderno parezca una obra de arte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque se ve bien, la función es cognitiva."
+        },
+        {
+          "letter": "B",
+          "text": "Para encontrar tipos específicos de información más rápido según el color.",
+          "is_correct": true,
+          "feedback": "Correcto. El código de colores ayuda al cerebro a categorizar la información visualmente."
+        },
+        {
+          "letter": "C",
+          "text": "Para que el profesor crea que tenemos muchos resaltadores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es para impresionar al profesor, sino para el propio aprendizaje."
+        },
+        {
+          "letter": "D",
+          "text": "Para confundirnos más al momento de leer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, busca dar orden y claridad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La categorización visual refuerza la memoria y la organización del pensamiento. El estudiante debe reconocer que los colores pueden actuar como etiquetas lógicas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-4-2026-W09-tecnicas-estudio-subrayado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W09-tecnicas-estudio-subrayado-001-MASTERY-v6",
+      "statement": "¿Cuál es la relación entre el subrayado y la creación de un resumen?",
+      "context": "Diferencia entre subrayar y resumir",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son dos cosas que no tienen nada que ver.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Están íntimamente ligadas."
+        },
+        {
+          "letter": "B",
+          "text": "El subrayado es el paso previo: primero subrayamos y luego unimos esas ideas para escribir el resumen.",
+          "is_correct": true,
+          "feedback": "Correcto. El subrayado facilita la extracción de las ideas que compondrán el resumen."
+        },
+        {
+          "letter": "C",
+          "text": "El resumen se hace antes de leer el libro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede resumir lo que no se ha leído."
+        },
+        {
+          "letter": "D",
+          "text": "Subrayar reemplaza la necesidad de hacer un resumen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son técnicas complementarias; el resumen requiere redacción propia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El subrayado es una fase de la síntesis textual. El estudiante debe comprender la secuencia lógica de las técnicas de estudio.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-4-2026-W09-tecnicas-estudio-subrayado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W09-tecnicas-estudio-subrayado-001-MASTERY-v7",
+      "statement": "En un cuento sobre piratas en Cartagena, aparecen muchos adjetivos: \"El **temible**, **oscuro** y **gigante** barco\". Si solo puedes subrayar una palabra para recordar de qué estamos hablando, ¿cuál elegirías?",
+      "context": "Decisión sobre qué subrayar en un texto literario en Barranquilla",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Temible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es solo una descripción, no el objeto."
+        },
+        {
+          "letter": "B",
+          "text": "Oscuro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es otra descripción secundaria."
+        },
+        {
+          "letter": "C",
+          "text": "Barco.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el sustantivo núcleo; sin él, los adjetivos no tienen sentido en el repaso."
+        },
+        {
+          "letter": "D",
+          "text": "Gigante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es otra característica del objeto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La identificación del núcleo del sujeto (el sustantivo) es fundamental para un subrayado inteligente. El estudiante debe priorizar los sustantivos y verbos que cargan el significado principal.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-4-2026-W09-tecnicas-estudio-subrayado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W09-tecnicas-estudio-subrayado-001-MASTERY-v8",
+      "statement": "Si al leer lo que subrayaste en un párrafo no entiendes nada de lo que dice el tema, ¿qué fue lo más probable que pasó?",
+      "context": "Análisis de un texto ya subrayado sobre los volcanes de Colombia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que subrayaste palabras muy bonitas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La belleza no garantiza la comprensión."
+        },
+        {
+          "letter": "B",
+          "text": "Que subrayaste palabras sueltas sin conexión y olvidaste las ideas que las unían.",
+          "is_correct": true,
+          "feedback": "Correcto. Un buen subrayado debe permitir que, al leer solo lo resaltado, se mantenga un sentido lógico básico."
+        },
+        {
+          "letter": "C",
+          "text": "Que el libro estaba en otro idioma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema es la técnica, no el idioma (asumiendo que es en español)."
+        },
+        {
+          "letter": "D",
+          "text": "Que el color del resaltador es muy oscuro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema es de selección de contenido, no de visibilidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El subrayado coherente es una meta de aprendizaje. El estudiante debe evaluar su propio trabajo preguntándose si lo subrayado tiene sentido por sí solo.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2, bundle_size 8. |\n| Curricular | 40/40 | Estrategias de comprensión lectora y técnicas de estudio (DBA). |\n| Contexto | 20/20 | Referencias a Bogotá, Quindío, Medellín, Barranquilla y Cartagena. |\n| Redacción | 10/10 | Lenguaje claro y formativo. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-4-2026-W09-tecnicas-estudio-subrayado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
       "id": "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-v1",
       "statement": "¿Qué es una familia léxica o de palabras?",
       "context": "Un niño en Bogotá explica qué es una familia de palabras.",
@@ -48,7 +416,10 @@
       "bundle_id": "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-v2",
@@ -91,7 +462,10 @@
       "bundle_id": "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-v3",
@@ -134,7 +508,10 @@
       "bundle_id": "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-v4",
@@ -177,7 +554,10 @@
       "bundle_id": "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-v5",
@@ -220,7 +600,10 @@
       "bundle_id": "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-v6",
@@ -263,7 +646,10 @@
       "bundle_id": "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-v7",
@@ -306,7 +692,10 @@
       "bundle_id": "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-v8",
@@ -349,7 +738,10 @@
       "bundle_id": "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-v9",
@@ -392,7 +784,10 @@
       "bundle_id": "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-v10",
@@ -435,7 +830,10 @@
       "bundle_id": "CO-LEN-4-2026-W09-vocabulario-familias-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     }
   ]
 }

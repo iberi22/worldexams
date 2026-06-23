@@ -11,12 +11,11 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
-alignment: "NAP Argentina / Aprender 2026"
+alignment: "NAP/Aprender"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-
 ## Question 1 [D3-D4]
 
 **ID:** `AR-ING-06-2026-W03-present-simple-001`

@@ -1,0 +1,527 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-32-grade-10-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.587Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-v1",
+      "statement": "\"By next July, the lab ____ on this AI model for five years.\"",
+      "context": "Discussing the duration of a research project.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will work",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will have worked",
+          "is_correct": false,
+          "feedback": "Future Perfect (completion)."
+        },
+        {
+          "letter": "C",
+          "text": "will have been working",
+          "is_correct": true,
+          "feedback": "Correct. Future Perfect Continuous (duration up to a future point)."
+        },
+        {
+          "letter": "D",
+          "text": "is going to work",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The Future Perfect Continuous (will have been + -ing) is used to emphasize the duration of an action up to a specific time in the future.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-v2",
+      "statement": "\"By the time he retires, he ____ AI ethics for nearly four decades.\"",
+      "context": "Predicting a career milestone.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will teach",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will have been teaching",
+          "is_correct": true,
+          "feedback": "Correct. Shows duration leading up to retirement."
+        },
+        {
+          "letter": "C",
+          "text": "will be teaching",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "has been teaching",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using Future Perfect Continuous with 'By the time + Present Simple' to show duration.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.84,
+      "bundle_id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-v3",
+      "statement": "\"By tomorrow morning, the server ____ the data for twenty-four hours without stopping.\"",
+      "context": "Describing a computer's operation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will process",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will have been processing",
+          "is_correct": true,
+          "feedback": "Correct. Continuous duration in the future."
+        },
+        {
+          "letter": "C",
+          "text": "will have processed",
+          "is_correct": false,
+          "feedback": "Possible, but B emphasizes the continuous effort."
+        },
+        {
+          "letter": "D",
+          "text": "is processing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Emphasizing the uninterrupted nature of a future technical process using the Future Perfect Continuous.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Part 2 - Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-v4",
+      "statement": "\"By 2030, tech giants ____ for dominance in the AI sector for over fifteen years.\"",
+      "context": "An article about the AI race.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will compete",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will have been competing",
+          "is_correct": true,
+          "feedback": "Correct. Duration of a competitive process."
+        },
+        {
+          "letter": "C",
+          "text": "have competed",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        },
+        {
+          "letter": "D",
+          "text": "will be competing",
+          "is_correct": false,
+          "feedback": "Future Continuous, doesn't show the 'since' duration as well as B."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Applying the Future Perfect Continuous to describe long-term industrial and economic trends.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-v5",
+      "statement": "\"How long ____ for the results by the time the conference starts?\" \"We ____ for three months.\"",
+      "context": "A conversation between researchers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will you wait / will wait",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will you have been waiting / will have been waiting",
+          "is_correct": true,
+          "feedback": "Correct question and answer for future duration."
+        },
+        {
+          "letter": "C",
+          "text": "have you waited / have been waiting",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "will you be waiting / will wait",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Forming questions and answers in the Future Perfect Continuous to discuss anticipated wait times.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.71,
+      "bundle_id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-v6",
+      "statement": "\"By the end of the simulation, the algorithm ____ millions of scenarios to optimize its performance.\"",
+      "context": "A summary of an AI's learning process.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will run",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will be running",
+          "is_correct": false,
+          "feedback": "Future Continuous."
+        },
+        {
+          "letter": "C",
+          "text": "will have been running",
+          "is_correct": true,
+          "feedback": "Correct. Emphasizes the duration of the 'run' process."
+        },
+        {
+          "letter": "D",
+          "text": "has run",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Using Future Perfect Continuous to describe the \"training\" time of machine learning models.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.67,
+      "bundle_id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-v7",
+      "statement": "\"Government agencies ____ the impact of AI on privacy for years before they finally pass a law.\"",
+      "context": "Predicting institutional changes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will study",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will have been studying",
+          "is_correct": true,
+          "feedback": "Correct. Long-term ongoing action before a future event."
+        },
+        {
+          "letter": "C",
+          "text": "will be studying",
+          "is_correct": false,
+          "feedback": "Possible, but B links it to the law's 'deadline'."
+        },
+        {
+          "letter": "D",
+          "text": "studied",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Linking future duration (Future Perfect Continuous) to a subsequent future event (Past/Present Simple in a time clause).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.63,
+      "bundle_id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-v8",
+      "statement": "\"By 2050, AI systems ____ us manage energy consumption more efficiently for several decades.\"",
+      "context": "A text about AI and climate change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will help",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will have been helping",
+          "is_correct": true,
+          "feedback": "Correct. Duration of a beneficial future service."
+        },
+        {
+          "letter": "C",
+          "text": "help",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "will have helped",
+          "is_correct": false,
+          "feedback": "Possible, but B is more continuous."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using Future Perfect Continuous to describe the long-term role of technology in solving global issues.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.59,
+      "bundle_id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-v9",
+      "statement": "\"The factory ____ robotic arms in its assembly line for twenty years by the time they upgrade to the next generation.\"",
+      "context": "Discussing the evolution of robotics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will use",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will have been using",
+          "is_correct": true,
+          "feedback": "Correct. Shows duration of use before an upgrade."
+        },
+        {
+          "letter": "C",
+          "text": "is using",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "will have used",
+          "is_correct": false,
+          "feedback": "Correct for quantity, but B is for continuous state."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "B2 complexity: Choosing between Future Perfect and Future Perfect Continuous in a professional context.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-v10",
+      "statement": "\"Seldom ____ we consider that by 2040, we ____ alongside AI assistants for almost half a century.\"",
+      "context": "A formal discussion on AI development.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "do / will have been living",
+          "is_correct": true,
+          "feedback": "Correct inversion + Future Perfect Continuous."
+        },
+        {
+          "letter": "B",
+          "text": "are / will live",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "did / had lived",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "does / will be living",
+          "is_correct": false,
+          "feedback": "Incorrect agreement/tense."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Advanced B2 structure: Combining negative inversion (Seldom do we...) with the Future Perfect Continuous.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-v11",
+      "statement": "\"Critics argue that by the time AI is truly 'intelligent', developers ____ to solve the same basic problems for years.\"",
+      "context": "Critique of AI hype.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will struggle",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will have been struggling",
+          "is_correct": true,
+          "feedback": "Correct. Emphasizes the long-term struggle."
+        },
+        {
+          "letter": "C",
+          "text": "will be struggling",
+          "is_correct": false,
+          "feedback": "Future continuous, less focused on the 'since' duration."
+        },
+        {
+          "letter": "D",
+          "text": "have struggled",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluating the use of Future Perfect Continuous to express skepticism about the speed of progress.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-v12",
+      "statement": "\"____ the current pace of innovation continue, we ____ AI for virtually every decision-making process by 2035.\"",
+      "context": "A complex future prediction.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Should / will have been using",
+          "is_correct": true,
+          "feedback": "Correct 'Should' inversion + Future Perfect Continuous."
+        },
+        {
+          "letter": "B",
+          "text": "If / will be using",
+          "is_correct": false,
+          "feedback": "Possible, but A is more formal/B2."
+        },
+        {
+          "letter": "C",
+          "text": "Had / would use",
+          "is_correct": false,
+          "feedback": "Incorrect syntax for future."
+        },
+        {
+          "letter": "D",
+          "text": "Were / will have been using",
+          "is_correct": false,
+          "feedback": "Incorrect inversion for this context."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mastery level: Combining First Conditional inversion ('Should...') with the Future Perfect Continuous to describe a future outcome of a trend.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W32-artificial-intelligence-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    }
+  ]
+}

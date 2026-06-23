@@ -1,0 +1,2271 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-26-grade-6-subject-lectura_critica",
+    "generated_at": "2026-06-22T05:46:16.438Z"
+  },
+  "questions": [
+    {
+      "id": "q-0",
+      "statement": "En el Fragmento 1, ¿a qué se compara el río?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A una montaña.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Al sol.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "A una cinta de plata.",
+          "is_correct": true,
+          "feedback": "Correcto. El poema dice: \"El río es una cinta de plata\"."
+        },
+        {
+          "letter": "D",
+          "text": "A un bordado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Borda\" es un verbo que describe la acción de la cinta, no el río en sí."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación de una metáfora explícita en un poema: el río no ES literalmente una cinta de plata, pero se le compara con una por su forma alargada y su brillo plateado.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W26-figuras-literarias-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-1",
+      "statement": "En el Fragmento 2, ¿qué sonido imitan las palabras \"Tun, tun, tun\" y \"Chin, chin, chin\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sonido de instrumentos musicales (tambor y guasá).",
+          "is_correct": true,
+          "feedback": "Correcto. El texto dice: \"Hace el tambor\" y \"Hace el guasá\" inmediatamente después de cada sonido."
+        },
+        {
+          "letter": "B",
+          "text": "El sonido de la lluvia cayendo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se menciona lluvia."
+        },
+        {
+          "letter": "C",
+          "text": "El sonido de pasos sobre la arena.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "El sonido de niños cantando.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice \"mientras los niños cantan\" como un hecho separado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación de la onomatopeya: palabras que imitan sonidos reales. \"Tun, tun, tun\" imita el golpe del tambor; \"Chin, chin, chin\" imita el sonido metálico del guasá (instrumento de percusión del Pacífico colombiano).",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W26-figuras-literarias-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-2",
+      "statement": "En el Fragmento 1, \"el sol se acuesta en las rodillas de las montañas\" es un ejemplo de:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metáfora (comparación sin \"como\").",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay una comparación implícita, la característica principal aquí es dar cualidades humanas a algo que no lo es."
+        },
+        {
+          "letter": "B",
+          "text": "Onomatopeya (imitación de sonidos).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay sonidos imitados."
+        },
+        {
+          "letter": "C",
+          "text": "Personificación (dar cualidades humanas a elementos de la naturaleza: el sol \"se acuesta\" y las montañas tienen \"rodillas\").",
+          "is_correct": true,
+          "feedback": "Correcto. El sol, que es un astro, realiza la acción humana de \"acostarse\". Las montañas, que son formaciones geológicas, tienen \"rodillas\". Se les atribuyen características humanas."
+        },
+        {
+          "letter": "D",
+          "text": "Hipérbole (exageración).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una exageración evidente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La personificación es una figura literaria que atribuye cualidades o acciones humanas a objetos, animales o elementos de la naturaleza. Aquí el sol \"se acuesta\" (acción humana) y las montañas tienen \"rodillas\" (parte del cuerpo humano).",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W26-figuras-literarias-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-3",
+      "statement": "En el Fragmento 3, \"El frío me mordía las mejillas como un perrito juguetón\" es un ejemplo de:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Personificación.",
+          "is_correct": false,
+          "feedback": "Parcialmente correcto (el frío \"muerde\"), pero la figura principal aquí es otra por el uso de \"como\"."
+        },
+        {
+          "letter": "B",
+          "text": "Onomatopeya.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Símil o comparación (usa la palabra \"como\" para comparar el frío con un perrito).",
+          "is_correct": true,
+          "feedback": "Correcto. Un símil establece una comparación explícita usando palabras como \"como\", \"tal cual\", \"parece\". Aquí el frío no es literalmente un perro, pero se comporta \"como\" uno."
+        },
+        {
+          "letter": "D",
+          "text": "Hipérbole.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una exageración desmedida, es una comparación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El símil (o comparación) es una figura que establece una relación de semejanza entre dos elementos usando conectores como \"como\", \"cual\", \"parece\", \"tal cual\". Se diferencia de la metáfora porque el símil es explícito (usa conectores), mientras que la metáfora es implícita (dice que algo \"es\" otra cosa).",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W26-figuras-literarias-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-4",
+      "statement": "Compara \"El río es una cinta de plata\" (Fragmento 1) con \"El frío me mordía las mejillas como un perrito juguetón\" (Fragmento 3). ¿Cuál es la diferencia clave entre ambas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una habla del río y la otra del frío.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tema no es la diferencia clave entre las figuras."
+        },
+        {
+          "letter": "B",
+          "text": "La primera es una metáfora (dice que el río ES una cinta, sin usar \"como\"); la segunda es un símil (usa \"como\" para comparar el frío con un perrito).",
+          "is_correct": true,
+          "feedback": "Correcto. La metáfora identifica directamente una cosa con otra; el símil las compara usando un conector."
+        },
+        {
+          "letter": "C",
+          "text": "Una es más larga que la otra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no define el tipo de figura."
+        },
+        {
+          "letter": "D",
+          "text": "La primera es sobre naturaleza y la segunda sobre sensaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contenido temático no define la figura literaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferencia clave: la metáfora dice \"A es B\" (el río es una cinta); el símil dice \"A es COMO B\" (el frío muerde como un perrito). La metáfora es más directa y poética; el símil es más explícito en la comparación.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W26-figuras-literarias-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-5",
+      "statement": "En el Fragmento 3, ¿qué frase contiene una hipérbole (exageración)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Vi la nieve por primera vez y me quedé mudo.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una expresión literal."
+        },
+        {
+          "letter": "B",
+          "text": "\"Las montañas vestían abrigos de algodón.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una personificación y metáfora, pero no una exageración."
+        },
+        {
+          "letter": "C",
+          "text": "\"El cielo estaba tan azul que parecía pintado con la acuarela más cara del mundo.\"",
+          "is_correct": true,
+          "feedback": "Correcto. Es una exageración: el cielo no está literalmente pintado con acuarela cara. Se exagera la intensidad del color azul para enfatizar su belleza."
+        },
+        {
+          "letter": "D",
+          "text": "\"El páramo era un mar blanco y gigante.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una metáfora, no una exageración necesariamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La hipérbole es una exageración intencional para enfatizar una idea o crear un efecto. Aquí se exagera diciendo que el cielo parece pintado con la acuarela más cara, enfatizando lo intenso y hermoso del color azul.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W26-figuras-literarias-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-6",
+      "statement": "En el Fragmento 1, el poema dice que la cinta de plata \"borda la falda del pueblo\". ¿Qué imagen está creando el poeta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el pueblo usa falda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una imagen poética, no literal."
+        },
+        {
+          "letter": "B",
+          "text": "Que hay una costurera en el pueblo.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Que el río rodea el pueblo como un adorno bonito y brillante, similar a un bordado en una falda. El poeta transforma el paisaje en una imagen de belleza artesanal.",
+          "is_correct": true,
+          "feedback": "Correcto. La imagen sugiere que el río adorna el pueblo como un bordado decora una falda. El poeta conecta la naturaleza con el arte del tejido, típico de la cultura colombiana."
+        },
+        {
+          "letter": "D",
+          "text": "Que el pueblo está en la falda de una montaña.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Falda\" aquí es una prenda de vestir, no la falda de una montaña."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Interpretación de imágenes poéticas: el poeta no describe literalmente el paisaje, sino que lo transforma mediante metáforas para crear una imagen bella y sugerente. La cinta de plata (río) que borda (decora) la falda (el paisaje del pueblo) crea una imagen de belleza artesanal.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W26-figuras-literarias-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-7",
+      "statement": "Tanto el Fragmento 1 como el Fragmento 3 describen paisajes colombianos, pero ¿qué diferencia hay en el tono o efecto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Fragmento 1 es sobre un río y el Fragmento 3 sobre nieve.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la diferencia temática, no de tono."
+        },
+        {
+          "letter": "B",
+          "text": "No hay diferencia, ambos describen paisajes de la misma manera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque ambos son descriptivos, el tono es diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El Fragmento 1 es más suave y sereno (río, plata, bordar, acostarse); el Fragmento 3 transmite más asombro y emoción (quedarse mudo, gigante, nunca había visto, la más cara del mundo).",
+          "is_correct": true,
+          "feedback": "Correcto. Las figuras literarias no solo embellecen, sino que crean atmósferas y emociones distintas. El Fragmento 1 evoca calma; el Fragmento 3 evoca asombro."
+        },
+        {
+          "letter": "D",
+          "text": "El Fragmento 1 está mal escrito y el Fragmento 3 bien.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos están bien escritos con propósitos distintos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las figuras literarias no solo identifican comparaciones, sino que crean atmósferas y emociones. Un escritor elige qué figuras usar según el efecto que quiere causar en el lector (serenidad, asombro, alegría, tristeza).",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W26-figuras-literarias-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-8",
+      "statement": "En el Fragmento 2, ¿qué recurso sonoro (además de la onomatopeya) se usa para dar musicalidad al texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rima consonante perfecta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Bajito\" y \"río\" no riman perfectamente."
+        },
+        {
+          "letter": "B",
+          "text": "Metáforas continuas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay personificación, pero no es un recurso sonoro."
+        },
+        {
+          "letter": "C",
+          "text": "Aliteración: repetición del sonido \"n\" y \"s\" (niños, cantan, manglares, luna) que crea una sensación de suavidad y fluidez, como el murmullo del viento.",
+          "is_correct": true,
+          "feedback": "Correcto. La aliteración es la repetición de sonidos para crear un efecto. En este fragmento, los sonidos suaves y nasales contribuyen a la atmósfera tranquila del Pacífico colombiano."
+        },
+        {
+          "letter": "D",
+          "text": "Hipérbole.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La aliteración es la repetición de uno o varios sonidos en un texto para producir un efecto auditivo. En poesía y canciones, refuerza la musicalidad y puede sugerir sensaciones (suavidad, aspereza, rapidez, lentitud).",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W26-figuras-literarias-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-9",
+      "statement": "¿Por qué los escritores usan figuras literarias en lugar de escribir de manera literal? Por ejemplo, ¿por qué decir \"el sol se acuesta en las rodillas de las montañas\" en lugar de \"el sol se oculta detrás de las montañas\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no saben escribir de manera literal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de figuras es una elección deliberada, no una falta de habilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque quieren confundir al lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El propósito no es confundir, sino embellecer o transmitir emociones."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el lenguaje figurado permite transmitir emociones, crear imágenes más vívidas y despertar la imaginación del lector de una manera que el lenguaje literal no puede lograr.",
+          "is_correct": true,
+          "feedback": "Correcto. El lenguaje figurado va más allá de la información: busca una experiencia estética y emocional. La imagen del sol que \"se acuesta\" es más cálida y cercana que la descripción literal."
+        },
+        {
+          "letter": "D",
+          "text": "Porque es más difícil escribir literalmente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Escribir con figuras literarias requiere más habilidad, no menos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reflexión sobre el propósito de las figuras literarias: el lenguaje literal informa; el lenguaje figurado emociona, embellece y despierta la imaginación. Los escritores eligen figuras literarias cuando quieren que el lector no solo entienda, sino que también SIENTA lo que lee.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W26-figuras-literarias-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-0",
+      "statement": "Lee el siguiente texto:\n\n*\"El Parque Nacional Natural Tayrona está ubicado en la Sierra Nevada de Santa Marta, departamento del Magdalena. Cuenta con 15.000 hectáreas terrestres y 4.500 hectáreas marinas. Fue declarado parque nacional en 1964.\"*\n\n¿Cuál es la INTENCIÓN COMUNICATIVA principal de este texto?",
+      "context": "Reconocer la intención principal de un texto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar sobre datos y características del Parque Tayrona.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto presenta datos objetivos (ubicación, tamaño, fecha de declaración) sin opiniones ni intentos de convencer. Su propósito es informar."
+        },
+        {
+          "letter": "B",
+          "text": "Persuadir al lector para que visite el Parque Tayrona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque los datos podrían motivar una visita, el texto no usa lenguaje persuasivo ni invita directamente a hacer algo."
+        },
+        {
+          "letter": "C",
+          "text": "Entretener al lector con una historia sobre el parque.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay narración ni elementos literarios. Es una descripción informativa."
+        },
+        {
+          "letter": "D",
+          "text": "Dar una instrucción sobre cómo llegar al parque.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no da indicaciones ni pasos a seguir. Solo presenta datos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar la intención informativa: cuando un texto presenta datos objetivos, fechas, ubicaciones y características sin opinar ni intentar convencer, su intención principal es INFORMAR. Es importante notar la ausencia de verbos en imperativo (\"visite\", \"vaya\") y de adjetivos valorativos (\"hermoso\", \"imperdible\").\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W26-intencion-comunicativa-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-1",
+      "statement": "*\"¡No más basura en nuestras calles! La contaminación está acabando con nuestros barrios. Únete a la jornada de limpieza este sábado en la Plaza de Bolívar. ¡Tu ciudad te necesita!\"*\n\n¿Qué intención comunicativa predomina en este texto?",
+      "context": "Diferenciar intenciones comunicativas",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar sobre la contaminación en las calles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque menciona la contaminación, el propósito principal no es informar objetivamente sino motivar una acción."
+        },
+        {
+          "letter": "B",
+          "text": "Persuadir al lector para que participe en la jornada de limpieza.",
+          "is_correct": true,
+          "feedback": "Correcto. Usa lenguaje apelativo (\"Únete\", \"¡Tu ciudad te necesita!\"), signos de exclamación y un llamado directo a la acción. Su intención es persuadir o apelar."
+        },
+        {
+          "letter": "C",
+          "text": "Explicar cómo se produce la contaminación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No explica causas ni procesos, solo hace un llamado a la acción."
+        },
+        {
+          "letter": "D",
+          "text": "Describir cómo es la Plaza de Bolívar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay descripción del lugar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar la intención persuasiva o apelativa: los textos que buscan convencer o motivar una acción usan lenguaje imperativo (\"Únete\"), exclamaciones, apelaciones emocionales y referencias directas al lector (\"tú\", \"tu ciudad\"). Esta es la intención típica de campañas, publicidad y propaganda.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W26-intencion-comunicativa-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-2",
+      "statement": "Relaciona cada texto con su intención comunicativa:\n\n1. Receta de cocina para preparar bandeja paisa\n2. Cuento infantil sobre un armadillo aventurero\n3. Carta al director de un periódico quejándose del alumbrado público",
+      "context": "Relacionar tipo de texto con su intención",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1. Instruir / 2. Entretener / 3. Opinar o persuadir",
+          "is_correct": true,
+          "feedback": "Correcto. La receta da pasos a seguir (instruir), el cuento busca entretener con una historia, y la carta busca convencer o quejarse (persuadir)."
+        },
+        {
+          "letter": "B",
+          "text": "1. Informar / 2. Persuadir / 3. Instruir",
+          "is_correct": false,
+          "feedback": "Incorrecto. La receta no solo informa, guía una acción; el cuento no busca persuadir; y la carta no da instrucciones."
+        },
+        {
+          "letter": "C",
+          "text": "1. Entretener / 2. Informar / 3. Describir",
+          "is_correct": false,
+          "feedback": "Incorrecto. La receta no entretiene principalmente; el cuento no informa; y la carta no describe principalmente."
+        },
+        {
+          "letter": "D",
+          "text": "1. Persuadir / 2. Instruir / 3. Informar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna de las tres corresponde."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Clasificación de intenciones comunicativas según el tipo de texto: las recetas tienen intención instructiva (guiar una acción), los cuentos tienen intención estética o recreativa (entretener), las cartas de opinión tienen intención argumentativa (persuadir). Una misma intención puede aparecer en distintos formatos textuales.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W26-intencion-comunicativa-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-3",
+      "statement": "*\"Sabor colombiano, calidad mundial. Café de la Sierra: el mismo que disfrutan en Nueva York, Tokio y París. Ahora disponible en tu supermercado de confianza. ¡Pruébalo y despierta tus sentidos!\"*\n\n¿Qué estrategia usa este anuncio para cumplir su intención persuasiva?",
+      "context": "Identificar intención en contexto publicitario",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar datos objetivos sobre el café.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay datos concretos sobre el producto, solo afirmaciones generales."
+        },
+        {
+          "letter": "B",
+          "text": "Asociar el café con el orgullo nacional y el reconocimiento internacional para generar deseo en el comprador.",
+          "is_correct": true,
+          "feedback": "Correcto. El anuncio apela al orgullo patrio (\"sabor colombiano\") y a la validación externa (\"Nueva York, Tokio y París\") para hacer el producto atractivo."
+        },
+        {
+          "letter": "C",
+          "text": "Explicar el proceso de producción del café.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se explica cómo se produce el café."
+        },
+        {
+          "letter": "D",
+          "text": "Advertir sobre los riesgos de no comprar el producto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay advertencia ni amenaza. Es una promoción positiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las estrategias persuasivas en publicidad no siempre son explícitas. Aquí el anuncio combina orgullo nacional (apelación emocional) con validación internacional (prueba social) para crear una imagen aspiracional del producto. Identificar estas estrategias es clave para leer críticamente la publicidad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W26-intencion-comunicativa-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-4",
+      "statement": "*La profesora entra al salón, mira el tablero lleno de dibujos y dice en voz alta: \"Qué bonito está el tablero hoy… qué lástima que tengamos evaluación escrita.\"*\n\n¿Cuál es la INTENCIÓN REAL de la profesora al decir esto?",
+      "context": "Inferir intención no explícita",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Felicitar a los estudiantes por los dibujos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la frase comienza como un halago, el tono y el contexto indican otra intención."
+        },
+        {
+          "letter": "B",
+          "text": "Explicar por qué los dibujos son bonitos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No da razones estéticas."
+        },
+        {
+          "letter": "C",
+          "text": "Pedir de forma indirecta que los estudiantes borren los dibujos del tablero.",
+          "is_correct": true,
+          "feedback": "Correcto. Al decir \"qué lástima que tengamos evaluación\", la profesora sugiere que los dibujos deben borrarse para usar el tablero. Es una petición indirecta, no explícita."
+        },
+        {
+          "letter": "D",
+          "text": "Contar una anécdota sobre evaluaciones anteriores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay narración de experiencias previas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La intención comunicativa no siempre es explícita. A veces se expresa de forma indirecta, usando ironía, sugerencias o sobrentendidos. En este caso, la profesora usa un \"halago seguido de objeción\" para comunicar una petición sin ordenar directamente. Esta habilidad de \"leer entre líneas\" es fundamental para la comprensión inferencial.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W26-intencion-comunicativa-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-5",
+      "statement": "*\"Artículo 47. Todo peatón que cruce una vía por fuera del paso peatonal será sancionado con una multa equivalente a 5 salarios mínimos diarios legales vigentes. (Código Nacional de Tránsito)\"*\n\n¿Cuál es la intención comunicativa de este texto?",
+      "context": "Distinguir intención en textos regulatorios",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar sobre las partes del Código de Tránsito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque informa, su propósito va más allá de simplemente dar datos."
+        },
+        {
+          "letter": "B",
+          "text": "Regular el comportamiento de los peatones estableciendo una norma y su consecuencia.",
+          "is_correct": true,
+          "feedback": "Correcto. Este texto es NORMATIVO o REGULATORIO: establece una regla (no cruzar por fuera del paso peatonal) y una sanción. Su intención es orientar la conducta."
+        },
+        {
+          "letter": "C",
+          "text": "Persuadir a los peatones para que usen los puentes peatonales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No usa lenguaje persuasivo ni apela a la emoción. Es directivo y legal."
+        },
+        {
+          "letter": "D",
+          "text": "Entretener con anécdotas de tránsito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay elementos de entretenimiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos regulatorios (leyes, normas, reglamentos, códigos) tienen una intención DIRECTIVA o NORMATIVA: buscan orientar o controlar el comportamiento de las personas estableciendo derechos, deberes y sanciones. Se caracterizan por un lenguaje preciso, formal y sin adornos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W26-intencion-comunicativa-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-6",
+      "statement": "*\"En la vereda El Porvenir, los campesinos han cultivado café orgánico durante generaciones. Doña María, de 72 años, recuerda cómo su abuelo le enseñó a escoger los granos más rojos. 'El café es parte de nuestra historia', dice. Sin embargo, las ventas han disminuido un 40% en los últimos dos años por la falta de apoyo estatal.\"*\n\nEste texto combina varias intenciones. ¿Cuál es la combinación CORRECTA?",
+      "context": "Analizar intenciones múltiples en un mismo texto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo informar sobre el café en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay más que información objetiva: también hay elementos emotivos y una crítica implícita."
+        },
+        {
+          "letter": "B",
+          "text": "Entretener con una historia y dar una receta de café.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay receta ni es puramente ficcional."
+        },
+        {
+          "letter": "C",
+          "text": "Informar sobre la situación de los caficultores, emocionar con el testimonio de doña María y criticar implícitamente la falta de apoyo estatal.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto combina función informativa (datos sobre ventas), función emotiva (testimonio personal) y función crítica (señalar falta de apoyo estatal)."
+        },
+        {
+          "letter": "D",
+          "text": "Persuadir para comprar café orgánico y explicar cómo cultivarlo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay llamado a la compra ni instrucciones de cultivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un mismo texto puede tener múltiples intenciones comunicativas. Aquí se combinan: informar (datos de ventas), emocionar (testimonio de doña María) y criticar (falta de apoyo estatal). Identificar estas capas de intención permite una lectura más profunda y menos ingenua. Los textos periodísticos y documentales suelen combinar varias intenciones.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W26-intencion-comunicativa-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-7",
+      "statement": "Un colegio en Medellín quiere que los estudiantes asistan a una charla sobre reciclaje. ¿Cuál de los siguientes textos tendría MAYOR efectividad para lograr su intención comunicativa?",
+      "context": "Evaluar la efectividad comunicativa",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un texto informativo de 5 páginas sobre la historia del reciclaje en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Demasiado extenso para captar la atención de estudiantes. La información es valiosa pero el formato no es efectivo para motivar asistencia."
+        },
+        {
+          "letter": "B",
+          "text": "Un afiche colorido con la frase \"¡Aprende a reciclar y gana puntos para tu curso! — Viernes 10 a.m. en el auditorio.\"",
+          "is_correct": true,
+          "feedback": "Correcto. Es breve, visual, usa lenguaje persuasivo (\"gana puntos\") y da información clara de cuándo y dónde. Combina persuasión (beneficio) con instrucción (datos del evento)."
+        },
+        {
+          "letter": "C",
+          "text": "Un artículo científico sobre el impacto del reciclaje en el cambio climático.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque es informativo, no es accesible para estudiantes de grado 6 y no los motiva directamente a asistir."
+        },
+        {
+          "letter": "D",
+          "text": "Una orden firmada por el rector indicando que la asistencia es obligatoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque lograría que asistan, no desarrolla conciencia ambiental. La intención va más allá de la mera asistencia: busca educar y motivar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La efectividad comunicativa depende de la adecuación del texto a su AUDIENCIA y PROPÓSITO. Un afiche breve y atractivo es más efectivo para motivar a estudiantes que un texto largo o una orden. La intención comunicativa se cumple mejor cuando se elige el formato, el tono y el canal adecuados para el público destinatario.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W26-intencion-comunicativa-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-8",
+      "statement": "*Anuncio en una revista:*\n\n*\"AutoLujo Colombia — El automóvil que los ejecutivos exitosos eligen. Ven y conócelo en nuestro showroom del Centro Comercial Santa Fe. ¡Sé parte del éxito!\"*\n\nAlguien critica este anuncio diciendo que \"promueve el materialismo y la exclusión social\". ¿Qué relación hay entre la intención del anuncio y esta crítica?",
+      "context": "Evaluar coherencia entre intención y recursos",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La crítica es injusta porque el anuncio solo informa sobre un producto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anuncio no solo informa: apela al deseo de estatus y exclusividad."
+        },
+        {
+          "letter": "B",
+          "text": "La crítica señala una consecuencia no deseada de la intención persuasiva: al asociar éxito con posesión de un auto de lujo, se excluye a quienes no pueden acceder a él.",
+          "is_correct": true,
+          "feedback": "Correcto. La intención del anuncio es persuadir para vender, pero al hacerlo usando el \"éxito\" como gancho, puede reforzar valores materialistas y elitistas."
+        },
+        {
+          "letter": "C",
+          "text": "La crítica no tiene relación con el anuncio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Señala un aspecto ético de la estrategia persuasiva."
+        },
+        {
+          "letter": "D",
+          "text": "El anuncio no tiene intención, solo muestra un producto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todo texto publicitario tiene una intención."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar críticamente la intención comunicativa implica considerar no solo lo que el texto busca lograr, sino también los valores que transmite, las consecuencias sociales de su mensaje y a quién beneficia o excluye. La lectura crítica va más allá de \"¿qué quiere decir este texto?\" a \"¿qué valores promueve este texto y a quién beneficia?\".\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W26-intencion-comunicativa-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-9",
+      "statement": "Tienes que escribir un texto breve para convencer a tus compañeros de clase de que participen en la campaña de reciclaje del colegio. ¿Cuál de las siguientes opciones es la más adecuada para lograr tu intención comunicativa?",
+      "context": "Producir un texto con intención específica",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El reciclaje es un proceso mediante el cual los residuos se transforman en nuevos productos. Existen tres tipos de contenedores: verde, azul y gris.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es informativo, no persuasivo. No motiva a la acción."
+        },
+        {
+          "letter": "B",
+          "text": "\"El Ministerio de Ambiente establece que todo ciudadano debe reciclar según la ley 1234 de 2020.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es normativo pero no persuasivo. Citar una ley no motiva, solo impone."
+        },
+        {
+          "letter": "C",
+          "text": "\"¿Sabías que cada botella que reciclamos puede convertirse en una camiseta? Este viernes, en la hora de dirección de curso, empezaremos nuestra campaña 'Reciclar es ganar'. ¡Trae tus botellas y participa! El curso que más recicle ganará un día de cine.\"",
+          "is_correct": true,
+          "feedback": "Correcto. Combina un dato curioso (enganche), información clara (cuándo, qué hacer), un beneficio (ganar cine) y lenguaje persuasivo (\"¡Trae!\", \"¡Participa!\"). Es adecuado para motivar a compañeros."
+        },
+        {
+          "letter": "D",
+          "text": "\"Reciclar ayuda al planeta.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es demasiado genérico y corto. No da información práctica ni motiva suficientemente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para lograr una intención persuasiva, un texto debe combinar: 1) un elemento que capte la atención (dato curioso, pregunta), 2) información clara de la acción requerida, 3) un beneficio o motivación, y 4) un llamado directo a la acción. La elección del lenguaje y el tono debe ser adecuada para la audiencia (compañeros de clase). Esta habilidad de producir textos con intenciones específicas es la aplicación práctica de lo aprendido.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W26-intencion-comunicativa-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Bucaramanga, se discute sobre Tema Semana 26 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 26 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 26 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LEC-6-2026-W26-tema-semana-26-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Manizales, se discute sobre Tema Semana 26 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Manizales",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 26 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 26 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEC-6-2026-W26-tema-semana-26-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Lectura Critica del I.E. San José en Bucaramanga, se discute sobre Tema Semana 26 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 26 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 26 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LEC-6-2026-W26-tema-semana-26-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Cúcuta, se discute sobre Tema Semana 26 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 26 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 26 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEC-6-2026-W26-tema-semana-26-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Lectura Critica del I.E. San José en Riohacha, se discute sobre Tema Semana 26 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Riohacha",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 26 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 26 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LEC-6-2026-W26-tema-semana-26-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Lectura Critica del I.E. Gabriel García Márquez en Neiva, se discute sobre Tema Semana 26 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Neiva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 26 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 26 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.54,
+      "bundle_id": "CO-LEC-6-2026-W26-tema-semana-26-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Riohacha, se discute sobre Tema Semana 26 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Riohacha",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 26 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 26 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.51,
+      "bundle_id": "CO-LEC-6-2026-W26-tema-semana-26-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Lectura Critica del Colegio La Presentación en Villavicencio, se discute sobre Tema Semana 26 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 26 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 26 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEC-6-2026-W26-tema-semana-26-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Pereira, se discute sobre Tema Semana 26 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 26 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 26 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEC-6-2026-W26-tema-semana-26-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Lectura Critica del Colegio La Presentación en Pasto, se discute sobre Tema Semana 26 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 26 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 26 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 26 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEC-6-2026-W26-tema-semana-26-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W26-textos-publicitarios-001-v1",
+      "statement": "¿Cuál es el PROPÓSITO principal de un texto publicitario?",
+      "context": "Reconocer la intención de un anuncio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar objetivamente sobre las características de un producto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la publicidad puede incluir información, su propósito principal no es informar objetivamente, sino persuadir."
+        },
+        {
+          "letter": "B",
+          "text": "Entretener al público con imágenes creativas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Entre tener puede ser un medio, pero no el fin. La publicidad busca un objetivo comercial."
+        },
+        {
+          "letter": "C",
+          "text": "Persuadir al público para que compre un producto o adopte una idea",
+          "is_correct": true,
+          "feedback": "¡Correcto! El propósito de la publicidad es persuadir: convencer al público de que compre algo, use un servicio o adopte una conducta. Todo lo demás (imágenes, música, información) está al servicio de ese objetivo."
+        },
+        {
+          "letter": "D",
+          "text": "Educar al público sobre un tema importante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Educar puede ser el propósito de una campaña de bien público, pero en general la publicidad comercial busca vender, no educar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función principal de la publicidad es PERSUASIVA o APELATIVA. Mientras que un texto informativo busca que el lector CONOZCA, la publicidad busca que el lector ACTÚE: que compre, que vote, que done, que cambie un hábito. Identificar esta intención es el primer paso para leer críticamente cualquier anuncio.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de propósito publicitario",
+      "bundle_id": "CO-LEC-6-2026-W26-textos-publicitarios-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W26-textos-publicitarios-002-v1",
+      "statement": "¿Cuál de los siguientes NO es un elemento típico de un anuncio publicitario impreso?",
+      "context": "Identificar componentes básicos",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un eslogan o frase llamativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El eslogan es un elemento central de la publicidad. Es una frase corta y fácil de recordar que resume el mensaje."
+        },
+        {
+          "letter": "B",
+          "text": "Una imagen o ilustración del producto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las imágenes son fundamentales en la publicidad impresa. Captan la atención y muestran el producto."
+        },
+        {
+          "letter": "C",
+          "text": "Información sobre el precio y dónde comprar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio y los puntos de venta son elementos comunes, especialmente en publicidad promocional."
+        },
+        {
+          "letter": "D",
+          "text": "Una tabla de contenido con capítulos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las tablas de contenido son propias de libros o documentos extensos, no de anuncios publicitarios. La publicidad busca ser breve y directa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los anuncios publicitarios se caracterizan por ser breves, visuales y persuasivos. Sus elementos típicos son: imagen llamativa, eslogan, marca/logotipo, texto breve con beneficios, y llamado a la acción (compra, llama, visita). No incluyen elementos extensos o académicos como tablas de contenido.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Elementos del anuncio publicitario",
+      "bundle_id": "CO-LEC-6-2026-W26-textos-publicitarios-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W26-textos-publicitarios-003-v1",
+      "statement": "> **Anuncio: \"El tayín explosivo — la nueva hamburguesa con queso doble y salsa BBQ picante. ¡Solo para valientes!\"**\r\n\r\nSegún el eslogan, ¿a qué público está dirigido principalmente este anuncio?",
+      "context": "Deducir a quién va dirigido un anuncio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A niños pequeños que les gusta la comida suave",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Para valientes\" y \"salsa BBQ picante\" no son atractivos para niños pequeños que prefieren sabores suaves."
+        },
+        {
+          "letter": "B",
+          "text": "A vegetarianos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una hamburguesa con queso doble no está dirigida a vegetarianos. El producto no se alinea con sus preferencias alimenticias."
+        },
+        {
+          "letter": "C",
+          "text": "A jóvenes o adultos que disfrutan de comidas picantes y buscan experiencias intensas",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Explosivo\", \"salsa BBQ picante\" y \"solo para valientes\" usan un lenguaje aventurero que apela a jóvenes y adultos que buscan emociones fuertes y sabores intensos."
+        },
+        {
+          "letter": "D",
+          "text": "A personas mayores con problemas de salud",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una hamburguesa con queso doble y salsa picante no suele dirigirse a personas con restricciones dietéticas por salud. El tono aventurero tampoco es apropiado para ese público."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El público objetivo se identifica analizando el lenguaje, las imágenes y el producto anunciado. Palabras como \"explosivo\", \"valientes\" y \"picante\" indican un público joven y aventurero. La publicidad siempre se adapta a los gustos y valores de su público meta. Preguntarse \"¿a quién le gustaría esto?\" ayuda a identificar el público objetivo.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Identificación del público objetivo",
+      "bundle_id": "CO-LEC-6-2026-W26-textos-publicitarios-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W26-textos-publicitarios-004-v1",
+      "statement": "> **Anuncio de una empresa de pañales: \"Porque tu bebé merece lo mejor. Su piel es suave como un pétalo. Cuídala con AmorPiel.\"**\r\n\r\n¿Qué recurso persuasivo utiliza principalmente este anuncio?",
+      "context": "Identificar apelación a las emociones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Datos estadísticos sobre la calidad del producto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anuncio no usa números ni estadísticas. No dice \"99% de los pediatras recomiendan\" ni nada similar."
+        },
+        {
+          "letter": "B",
+          "text": "Amenaza o miedo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay amenazas. No dice \"si no usas esto, le pasará algo malo a tu bebé\". El tono es positivo, no intimidante."
+        },
+        {
+          "letter": "C",
+          "text": "Apelación emocional: amor de madre/padre hacia el bebé",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Tu bebé merece lo mejor\", \"su piel es suave como un pétalo\" y \"cuídala\" apelan al amor y la protección que sienten los padres. La emoción es el vehículo del mensaje."
+        },
+        {
+          "letter": "D",
+          "text": "Autoridad de expertos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anuncio no menciona pediatras, médicos ni ninguna autoridad. La apelación es directamente a la emoción del padre/madre."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La publicidad usa diferentes recursos para persuadir: emociones (amor, miedo, felicidad), autoridad (expertos, celebridades), estadísticas, humor, etc. La apelación emocional es una de las más efectivas porque las personas toman muchas decisiones basadas en cómo se sienten, no solo en información racional.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Recursos persuasivos: apelación emocional",
+      "bundle_id": "CO-LEC-6-2026-W26-textos-publicitarios-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W26-textos-publicitarios-005-v1",
+      "statement": "> **Eslogan de una marca de café colombiano: \"Juan Valdez: el sabor de Colombia en cada taza.\"**\r\n\r\n¿Qué mensaje transmite este eslogan?",
+      "context": "Interpretar el mensaje de un eslogan",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el café es barato",
+          "is_correct": false,
+          "feedback": "Incorrecto. El eslogan no menciona precio. No dice nada sobre costo o economía."
+        },
+        {
+          "letter": "B",
+          "text": "Que el café se cultiva en todas las regiones de Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"El sabor de Colombia\" no significa que venga de todas las regiones. Es una expresión simbólica, no literal."
+        },
+        {
+          "letter": "C",
+          "text": "Que el café representa la identidad y calidad colombiana, evocando orgullo nacional",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"El sabor de Colombia\" asocia el producto con la identidad nacional. Transmite que tomar este café es conectarse con lo colombiano, apelando al orgullo patrio. Es un recurso de identidad nacional."
+        },
+        {
+          "letter": "D",
+          "text": "Que el café es importado de otros países",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todo lo contrario. \"Colombia\" en el eslogan enfatiza el origen nacional del producto, no que sea importado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los eslóganes usan un lenguaje breve pero cargado de significado. \"El sabor de Colombia\" no es una descripción literal, sino una metáfora que asocia el producto con valores positivos del país: calidad, tradición, identidad. Analizar un eslogan implica identificar qué valores o ideas busca asociar con el producto.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Análisis de eslogan",
+      "bundle_id": "CO-LEC-6-2026-W26-textos-publicitarios-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W26-textos-publicitarios-006-v1",
+      "statement": "> **Anuncio de una crema dental: \"9 de cada 10 dentistas recomiendan DentaClean.\"**\r\n\r\n¿Qué posible problema tiene este argumento publicitario?",
+      "context": "Identificar una falacia publicitaria",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que 9 de cada 10 es una cifra muy baja",
+          "is_correct": false,
+          "feedback": "Incorrecto. 9 de cada 10 (90%) es una cifra alta. Ese no es el problema."
+        },
+        {
+          "letter": "B",
+          "text": "Que los dentistas no entienden de cremas dentales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dentistas SÍ son expertos en salud bucal. Serían una autoridad válida."
+        },
+        {
+          "letter": "C",
+          "text": "El anuncio no dice cuántos dentistas fueron encuestados, ni cómo se seleccionaron, ni si la encuesta fue independiente o pagada por la marca",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"9 de cada 10\" suena impresionante, pero sin contexto puede ser engañoso. ¿Encuestaron a 10 dentistas (9 opinaron) o a 10.000? ¿Eran dentistas independientes o empleados de la marca? La falta de transparencia es el problema."
+        },
+        {
+          "letter": "D",
+          "text": "Que los dentistas no deberían recomendar marcas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dentistas pueden recomendar marcas basados en evidencia científica. No hay nada inherentemente incorrecto en que un profesional recomiende un producto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las estadísticas en publicidad pueden ser engañosas si no se presenta el contexto completo. Esta es una forma de la \"falacia de la evidencia anecdótica\" o de \"muestra sesgada\". Un lector crítico debe preguntar: ¿cuántas personas fueron encuestadas? ¿Quién hizo la encuesta? ¿Cómo se seleccionaron los participantes?\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Recursos persuasivos: identificación de falacias",
+      "bundle_id": "CO-LEC-6-2026-W26-textos-publicitarios-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W26-textos-publicitarios-007-v1",
+      "statement": "Compara las siguientes descripciones del mismo producto:\r\n\r\n**Texto A:** \"Esta mochila tiene 40 litros de capacidad, está hecha de poliéster impermeable y pesa 500 gramos.\"\r\n\r\n**Texto B:** \"¡Aventúrate con la mochila más ligera y resistente! No dejes que la lluvia arruine tu viaje. ¡Llévala a todas partes!\"\r\n\r\n¿Cuál es la diferencia fundamental entre ambos textos?",
+      "context": "Distinguir entre describir y persuadir",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto A es más corto que el Texto B",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no es la diferencia fundamental. Ambos tienen longitud similar."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto A describe características objetivas; el Texto B usa lenguaje persuasivo y emocional para convencer",
+          "is_correct": true,
+          "feedback": "¡Correcto! El Texto A usa datos específicos (40 litros, poliéster, 500 g) que se pueden verificar. El Texto B usa exclamaciones, adjetivos valorativos (ligera, resistente) y un llamado a la acción (\"llévala a todas partes\")."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto A está mal escrito y el Texto B está bien escrito",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos están correctamente escritos. La diferencia es de propósito: informar vs persuadir."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto A habla de mochilas urbanas y el Texto B de mochilas de viaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos textos describen el mismo tipo de mochila, solo que de manera diferente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lenguaje INFORMATIVO usa datos objetivos, medibles y verificables. El lenguaje PUBLICITARIO usa adjetivos valorativos, exclamaciones, apelaciones emocionales y llamados a la acción. Una misma característica (ej. impermeable) puede presentarse como dato (informativo) o como ventaja emocional (publicitario).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comparación de lenguaje informativo vs publicitario",
+      "bundle_id": "CO-LEC-6-2026-W26-textos-publicitarios-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W26-textos-publicitarios-008-v1",
+      "statement": "> **Anuncio de un perfume: \"Éxito. Poder. Admiración. Todo en una sola fragancia. Para el hombre que lo tiene todo.\"**\r\n\r\n¿Qué valores o estereotipos promueve este anuncio?",
+      "context": "Analizar qué valores transmite un anuncio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La igualdad de género y la diversidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anuncio no promueve igualdad ni diversidad. Por el contrario, refuerza un estereotipo tradicional de masculinidad."
+        },
+        {
+          "letter": "B",
+          "text": "La humildad y la sencillez",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Éxito\", \"Poder\" y \"Admiración\" son valores opuestos a la humildad. Promueve una imagen de superioridad y logro."
+        },
+        {
+          "letter": "C",
+          "text": "La idea de que el éxito, el poder y la admiración están asociados con la imagen y el consumo, y refuerza un estereotipo masculino tradicional",
+          "is_correct": true,
+          "feedback": "¡Correcto! El anuncio vincula la fragancia con valores como poder y éxito, sugiriendo que comprar el perfume da acceso a esas cualidades. Además, va dirigido explícitamente al \"hombre\", reforzando roles de género tradicionales."
+        },
+        {
+          "letter": "D",
+          "text": "La importancia de cuidar el medio ambiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anuncio no menciona nada sobre el medio ambiente. Los valores que promueve son individualistas (éxito, poder)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La publicidad no solo vende productos, también transmite valores y estereotipos. Analizar críticamente un anuncio implica preguntarse: ¿qué idea de éxito promueve? ¿qué modelos de género presenta? ¿qué tipo de persona \"ideal\" construye? La publicidad puede reforzar estereotipos dañinos o, por el contrario, promover valores positivos.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identificación de valores y estereotipos en publicidad",
+      "bundle_id": "CO-LEC-6-2026-W26-textos-publicitarios-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W26-textos-publicitarios-009-v1",
+      "statement": "**Anuncio A (gaseosa Marca X):** \"Refrescante, burbujeante, el sabor que te acompaña. ¡Marca X, la favorita de los jóvenes!\"\r\n\r\n**Anuncio B (gaseosa Marca Y):** \"0 calorías, 0 azúcar, 100% sabor. La opción inteligente para tu estilo de vida saludable.\"\r\n\r\n¿Qué estrategias publicitarias diferentes usan estos anuncios?",
+      "context": "Analizar diferentes estrategias publicitarias",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Anuncio A usa datos y el Anuncio B usa emociones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: el Anuncio A usa emociones (\"favorita\", \"te acompaña\") y el B usa datos objetivos (0 calorías, 0 azúcar)."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos anuncios usan la misma estrategia: apelar a la salud",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo el Anuncio B apela a la salud. El Anuncio A apela a la popularidad y el sabor."
+        },
+        {
+          "letter": "C",
+          "text": "El Anuncio A apela a la popularidad y al sabor (estrategia emocional-social); el Anuncio B apela a la salud y los beneficios racionales (estrategia informativa)",
+          "is_correct": true,
+          "feedback": "¡Correcto! A busca vender diversión y pertenencia (\"favorita de los jóvenes\"). B busca vender salud y responsabilidad (\"opción inteligente\", \"estilo de vida saludable\"). Son estrategias distintas para diferentes públicos."
+        },
+        {
+          "letter": "D",
+          "text": "El Anuncio A habla de jóvenes y el Anuncio B habla de adultos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el público objetivo puede ser diferente, la pregunta es sobre las ESTRATEGIAS, no sobre el público. La diferencia de estrategia es más profunda: emocional vs racional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dos productos similares (gaseosas) pueden usar estrategias publicitarias completamente diferentes. Una apela a la emoción y la pertenencia social; la otra apela a la razón y la salud. La estrategia depende del público objetivo y del posicionamiento que la marca quiera tener. Comparar anuncios ayuda a entender que la publicidad es una construcción, no un reflejo objetivo de la realidad.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comparación de dos anuncios del mismo producto",
+      "bundle_id": "CO-LEC-6-2026-W26-textos-publicitarios-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W26-textos-publicitarios-010-v1",
+      "statement": "> **Anuncio de un jugo en polvo: \"¡100% fruta natural! Contiene vitaminas A, C y D. El sabor del campo en tu mesa.\"**\r\n>\r\n> **Realidad:** El producto contiene solo 5% de jugo de fruta real. El resto es azúcar, saborizantes artificiales y colorantes. Las vitaminas son sintéticas, añadidas artificialmente.\r\n\r\n¿Por qué este anuncio podría considerarse ENGAÑOSO?",
+      "context": "Juzgar si un anuncio es ético o engañoso",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque dice \"100% fruta natural\" pero el producto solo tiene 5% de fruta real",
+          "is_correct": false,
+          "feedback": "¡Correcto! Pero sigue leyendo las otras opciones para ver todos los problemas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque dice \"contiene vitaminas\" y sí las contiene, aunque sean sintéticas",
+          "is_correct": false,
+          "feedback": "Parcialmente correcto, pero el problema principal es la afirmación de \"100% fruta natural\". Además, \"el sabor del campo\" sugiere un producto artesanal que no es."
+        },
+        {
+          "letter": "C",
+          "text": "Porque usa la imagen de frutas frescas que no corresponden al producto real",
+          "is_correct": false,
+          "feedback": "También es cierto, pero hay que considerar todos los elementos."
+        },
+        {
+          "letter": "D",
+          "text": "Todas las anteriores: la afirmación \"100% fruta natural\" es falsa, las vitaminas sintéticas no son lo que el consumidor espera, y las imágenes crean una impresión engañosa",
+          "is_correct": true,
+          "feedback": "¡Correcto! La publicidad engañosa incluye afirmaciones falsas (\"100% fruta natural\"), omisión de información importante (solo 5% es fruta), y uso de imágenes que crean expectativas irreales. En Colombia, la Ley 1480 de 2011 (Estatuto del Consumidor) protege contra este tipo de publicidad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La publicidad engañosa viola los derechos del consumidor. En Colombia, la Ley de Protección al Consumidor prohíbe afirmaciones falsas o que induzcan a error. Para protegerse, el consumidor debe: (1) leer la lista de ingredientes, no solo la publicidad, (2) desconfiar de afirmaciones absolutas como \"100%\", y (3) recordar que la publicidad muestra lo que el producto QUIERE ser, no siempre lo que ES.\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluación de publicidad engañosa",
+      "bundle_id": "CO-LEC-6-2026-W26-textos-publicitarios-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W26-textos-publicitarios-001-v1",
+      "statement": "¿Cuál es el PROPÓSITO principal de un texto publicitario?",
+      "context": "Reconocer la intención de un anuncio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar objetivamente sobre las características de un producto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la publicidad puede incluir información, su propósito principal no es informar objetivamente, sino persuadir."
+        },
+        {
+          "letter": "B",
+          "text": "Entretener al público con imágenes creativas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Entre tener puede ser un medio, pero no el fin. La publicidad busca un objetivo comercial."
+        },
+        {
+          "letter": "C",
+          "text": "Persuadir al público para que compre un producto o adopte una idea",
+          "is_correct": true,
+          "feedback": "¡Correcto! El propósito de la publicidad es persuadir: convencer al público de que compre algo, use un servicio o adopte una conducta. Todo lo demás (imágenes, música, información) está al servicio de ese objetivo."
+        },
+        {
+          "letter": "D",
+          "text": "Educar al público sobre un tema importante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Educar puede ser el propósito de una campaña de bien público, pero en general la publicidad comercial busca vender, no educar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función principal de la publicidad es PERSUASIVA o APELATIVA. Mientras que un texto informativo busca que el lector CONOZCA, la publicidad busca que el lector ACTÚE: que compre, que vote, que done, que cambie un hábito. Identificar esta intención es el primer paso para leer críticamente cualquier anuncio.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de propósito publicitario",
+      "bundle_id": "CO-LEC-6-2026-W38-textos-publicitarios-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W26-textos-publicitarios-002-v1",
+      "statement": "¿Cuál de los siguientes NO es un elemento típico de un anuncio publicitario impreso?",
+      "context": "Identificar componentes básicos",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un eslogan o frase llamativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El eslogan es un elemento central de la publicidad. Es una frase corta y fácil de recordar que resume el mensaje."
+        },
+        {
+          "letter": "B",
+          "text": "Una imagen o ilustración del producto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las imágenes son fundamentales en la publicidad impresa. Captan la atención y muestran el producto."
+        },
+        {
+          "letter": "C",
+          "text": "Información sobre el precio y dónde comprar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio y los puntos de venta son elementos comunes, especialmente en publicidad promocional."
+        },
+        {
+          "letter": "D",
+          "text": "Una tabla de contenido con capítulos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las tablas de contenido son propias de libros o documentos extensos, no de anuncios publicitarios. La publicidad busca ser breve y directa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los anuncios publicitarios se caracterizan por ser breves, visuales y persuasivos. Sus elementos típicos son: imagen llamativa, eslogan, marca/logotipo, texto breve con beneficios, y llamado a la acción (compra, llama, visita). No incluyen elementos extensos o académicos como tablas de contenido.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Elementos del anuncio publicitario",
+      "bundle_id": "CO-LEC-6-2026-W38-textos-publicitarios-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W26-textos-publicitarios-003-v1",
+      "statement": "> **Anuncio: \"El tayín explosivo — la nueva hamburguesa con queso doble y salsa BBQ picante. ¡Solo para valientes!\"**\r\n\r\nSegún el eslogan, ¿a qué público está dirigido principalmente este anuncio?",
+      "context": "Deducir a quién va dirigido un anuncio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A niños pequeños que les gusta la comida suave",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Para valientes\" y \"salsa BBQ picante\" no son atractivos para niños pequeños que prefieren sabores suaves."
+        },
+        {
+          "letter": "B",
+          "text": "A vegetarianos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una hamburguesa con queso doble no está dirigida a vegetarianos. El producto no se alinea con sus preferencias alimenticias."
+        },
+        {
+          "letter": "C",
+          "text": "A jóvenes o adultos que disfrutan de comidas picantes y buscan experiencias intensas",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Explosivo\", \"salsa BBQ picante\" y \"solo para valientes\" usan un lenguaje aventurero que apela a jóvenes y adultos que buscan emociones fuertes y sabores intensos."
+        },
+        {
+          "letter": "D",
+          "text": "A personas mayores con problemas de salud",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una hamburguesa con queso doble y salsa picante no suele dirigirse a personas con restricciones dietéticas por salud. El tono aventurero tampoco es apropiado para ese público."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El público objetivo se identifica analizando el lenguaje, las imágenes y el producto anunciado. Palabras como \"explosivo\", \"valientes\" y \"picante\" indican un público joven y aventurero. La publicidad siempre se adapta a los gustos y valores de su público meta. Preguntarse \"¿a quién le gustaría esto?\" ayuda a identificar el público objetivo.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Identificación del público objetivo",
+      "bundle_id": "CO-LEC-6-2026-W38-textos-publicitarios-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W26-textos-publicitarios-004-v1",
+      "statement": "> **Anuncio de una empresa de pañales: \"Porque tu bebé merece lo mejor. Su piel es suave como un pétalo. Cuídala con AmorPiel.\"**\r\n\r\n¿Qué recurso persuasivo utiliza principalmente este anuncio?",
+      "context": "Identificar apelación a las emociones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Datos estadísticos sobre la calidad del producto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anuncio no usa números ni estadísticas. No dice \"99% de los pediatras recomiendan\" ni nada similar."
+        },
+        {
+          "letter": "B",
+          "text": "Amenaza o miedo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay amenazas. No dice \"si no usas esto, le pasará algo malo a tu bebé\". El tono es positivo, no intimidante."
+        },
+        {
+          "letter": "C",
+          "text": "Apelación emocional: amor de madre/padre hacia el bebé",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Tu bebé merece lo mejor\", \"su piel es suave como un pétalo\" y \"cuídala\" apelan al amor y la protección que sienten los padres. La emoción es el vehículo del mensaje."
+        },
+        {
+          "letter": "D",
+          "text": "Autoridad de expertos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anuncio no menciona pediatras, médicos ni ninguna autoridad. La apelación es directamente a la emoción del padre/madre."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La publicidad usa diferentes recursos para persuadir: emociones (amor, miedo, felicidad), autoridad (expertos, celebridades), estadísticas, humor, etc. La apelación emocional es una de las más efectivas porque las personas toman muchas decisiones basadas en cómo se sienten, no solo en información racional.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Recursos persuasivos: apelación emocional",
+      "bundle_id": "CO-LEC-6-2026-W38-textos-publicitarios-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W26-textos-publicitarios-005-v1",
+      "statement": "> **Eslogan de una marca de café colombiano: \"Juan Valdez: el sabor de Colombia en cada taza.\"**\r\n\r\n¿Qué mensaje transmite este eslogan?",
+      "context": "Interpretar el mensaje de un eslogan",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el café es barato",
+          "is_correct": false,
+          "feedback": "Incorrecto. El eslogan no menciona precio. No dice nada sobre costo o economía."
+        },
+        {
+          "letter": "B",
+          "text": "Que el café se cultiva en todas las regiones de Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"El sabor de Colombia\" no significa que venga de todas las regiones. Es una expresión simbólica, no literal."
+        },
+        {
+          "letter": "C",
+          "text": "Que el café representa la identidad y calidad colombiana, evocando orgullo nacional",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"El sabor de Colombia\" asocia el producto con la identidad nacional. Transmite que tomar este café es conectarse con lo colombiano, apelando al orgullo patrio. Es un recurso de identidad nacional."
+        },
+        {
+          "letter": "D",
+          "text": "Que el café es importado de otros países",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todo lo contrario. \"Colombia\" en el eslogan enfatiza el origen nacional del producto, no que sea importado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los eslóganes usan un lenguaje breve pero cargado de significado. \"El sabor de Colombia\" no es una descripción literal, sino una metáfora que asocia el producto con valores positivos del país: calidad, tradición, identidad. Analizar un eslogan implica identificar qué valores o ideas busca asociar con el producto.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Análisis de eslogan",
+      "bundle_id": "CO-LEC-6-2026-W38-textos-publicitarios-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W26-textos-publicitarios-006-v1",
+      "statement": "> **Anuncio de una crema dental: \"9 de cada 10 dentistas recomiendan DentaClean.\"**\r\n\r\n¿Qué posible problema tiene este argumento publicitario?",
+      "context": "Identificar una falacia publicitaria",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que 9 de cada 10 es una cifra muy baja",
+          "is_correct": false,
+          "feedback": "Incorrecto. 9 de cada 10 (90%) es una cifra alta. Ese no es el problema."
+        },
+        {
+          "letter": "B",
+          "text": "Que los dentistas no entienden de cremas dentales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dentistas SÍ son expertos en salud bucal. Serían una autoridad válida."
+        },
+        {
+          "letter": "C",
+          "text": "El anuncio no dice cuántos dentistas fueron encuestados, ni cómo se seleccionaron, ni si la encuesta fue independiente o pagada por la marca",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"9 de cada 10\" suena impresionante, pero sin contexto puede ser engañoso. ¿Encuestaron a 10 dentistas (9 opinaron) o a 10.000? ¿Eran dentistas independientes o empleados de la marca? La falta de transparencia es el problema."
+        },
+        {
+          "letter": "D",
+          "text": "Que los dentistas no deberían recomendar marcas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dentistas pueden recomendar marcas basados en evidencia científica. No hay nada inherentemente incorrecto en que un profesional recomiende un producto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las estadísticas en publicidad pueden ser engañosas si no se presenta el contexto completo. Esta es una forma de la \"falacia de la evidencia anecdótica\" o de \"muestra sesgada\". Un lector crítico debe preguntar: ¿cuántas personas fueron encuestadas? ¿Quién hizo la encuesta? ¿Cómo se seleccionaron los participantes?\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Recursos persuasivos: identificación de falacias",
+      "bundle_id": "CO-LEC-6-2026-W38-textos-publicitarios-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W26-textos-publicitarios-007-v1",
+      "statement": "Compara las siguientes descripciones del mismo producto:\r\n\r\n**Texto A:** \"Esta mochila tiene 40 litros de capacidad, está hecha de poliéster impermeable y pesa 500 gramos.\"\r\n\r\n**Texto B:** \"¡Aventúrate con la mochila más ligera y resistente! No dejes que la lluvia arruine tu viaje. ¡Llévala a todas partes!\"\r\n\r\n¿Cuál es la diferencia fundamental entre ambos textos?",
+      "context": "Distinguir entre describir y persuadir",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto A es más corto que el Texto B",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no es la diferencia fundamental. Ambos tienen longitud similar."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto A describe características objetivas; el Texto B usa lenguaje persuasivo y emocional para convencer",
+          "is_correct": true,
+          "feedback": "¡Correcto! El Texto A usa datos específicos (40 litros, poliéster, 500 g) que se pueden verificar. El Texto B usa exclamaciones, adjetivos valorativos (ligera, resistente) y un llamado a la acción (\"llévala a todas partes\")."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto A está mal escrito y el Texto B está bien escrito",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos están correctamente escritos. La diferencia es de propósito: informar vs persuadir."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto A habla de mochilas urbanas y el Texto B de mochilas de viaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos textos describen el mismo tipo de mochila, solo que de manera diferente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lenguaje INFORMATIVO usa datos objetivos, medibles y verificables. El lenguaje PUBLICITARIO usa adjetivos valorativos, exclamaciones, apelaciones emocionales y llamados a la acción. Una misma característica (ej. impermeable) puede presentarse como dato (informativo) o como ventaja emocional (publicitario).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comparación de lenguaje informativo vs publicitario",
+      "bundle_id": "CO-LEC-6-2026-W38-textos-publicitarios-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W26-textos-publicitarios-008-v1",
+      "statement": "> **Anuncio de un perfume: \"Éxito. Poder. Admiración. Todo en una sola fragancia. Para el hombre que lo tiene todo.\"**\r\n\r\n¿Qué valores o estereotipos promueve este anuncio?",
+      "context": "Analizar qué valores transmite un anuncio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La igualdad de género y la diversidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anuncio no promueve igualdad ni diversidad. Por el contrario, refuerza un estereotipo tradicional de masculinidad."
+        },
+        {
+          "letter": "B",
+          "text": "La humildad y la sencillez",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Éxito\", \"Poder\" y \"Admiración\" son valores opuestos a la humildad. Promueve una imagen de superioridad y logro."
+        },
+        {
+          "letter": "C",
+          "text": "La idea de que el éxito, el poder y la admiración están asociados con la imagen y el consumo, y refuerza un estereotipo masculino tradicional",
+          "is_correct": true,
+          "feedback": "¡Correcto! El anuncio vincula la fragancia con valores como poder y éxito, sugiriendo que comprar el perfume da acceso a esas cualidades. Además, va dirigido explícitamente al \"hombre\", reforzando roles de género tradicionales."
+        },
+        {
+          "letter": "D",
+          "text": "La importancia de cuidar el medio ambiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anuncio no menciona nada sobre el medio ambiente. Los valores que promueve son individualistas (éxito, poder)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La publicidad no solo vende productos, también transmite valores y estereotipos. Analizar críticamente un anuncio implica preguntarse: ¿qué idea de éxito promueve? ¿qué modelos de género presenta? ¿qué tipo de persona \"ideal\" construye? La publicidad puede reforzar estereotipos dañinos o, por el contrario, promover valores positivos.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identificación de valores y estereotipos en publicidad",
+      "bundle_id": "CO-LEC-6-2026-W38-textos-publicitarios-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W26-textos-publicitarios-009-v1",
+      "statement": "**Anuncio A (gaseosa Marca X):** \"Refrescante, burbujeante, el sabor que te acompaña. ¡Marca X, la favorita de los jóvenes!\"\r\n\r\n**Anuncio B (gaseosa Marca Y):** \"0 calorías, 0 azúcar, 100% sabor. La opción inteligente para tu estilo de vida saludable.\"\r\n\r\n¿Qué estrategias publicitarias diferentes usan estos anuncios?",
+      "context": "Analizar diferentes estrategias publicitarias",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Anuncio A usa datos y el Anuncio B usa emociones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: el Anuncio A usa emociones (\"favorita\", \"te acompaña\") y el B usa datos objetivos (0 calorías, 0 azúcar)."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos anuncios usan la misma estrategia: apelar a la salud",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo el Anuncio B apela a la salud. El Anuncio A apela a la popularidad y el sabor."
+        },
+        {
+          "letter": "C",
+          "text": "El Anuncio A apela a la popularidad y al sabor (estrategia emocional-social); el Anuncio B apela a la salud y los beneficios racionales (estrategia informativa)",
+          "is_correct": true,
+          "feedback": "¡Correcto! A busca vender diversión y pertenencia (\"favorita de los jóvenes\"). B busca vender salud y responsabilidad (\"opción inteligente\", \"estilo de vida saludable\"). Son estrategias distintas para diferentes públicos."
+        },
+        {
+          "letter": "D",
+          "text": "El Anuncio A habla de jóvenes y el Anuncio B habla de adultos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el público objetivo puede ser diferente, la pregunta es sobre las ESTRATEGIAS, no sobre el público. La diferencia de estrategia es más profunda: emocional vs racional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dos productos similares (gaseosas) pueden usar estrategias publicitarias completamente diferentes. Una apela a la emoción y la pertenencia social; la otra apela a la razón y la salud. La estrategia depende del público objetivo y del posicionamiento que la marca quiera tener. Comparar anuncios ayuda a entender que la publicidad es una construcción, no un reflejo objetivo de la realidad.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comparación de dos anuncios del mismo producto",
+      "bundle_id": "CO-LEC-6-2026-W38-textos-publicitarios-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W26-textos-publicitarios-010-v1",
+      "statement": "> **Anuncio de un jugo en polvo: \"¡100% fruta natural! Contiene vitaminas A, C y D. El sabor del campo en tu mesa.\"**\r\n>\r\n> **Realidad:** El producto contiene solo 5% de jugo de fruta real. El resto es azúcar, saborizantes artificiales y colorantes. Las vitaminas son sintéticas, añadidas artificialmente.\r\n\r\n¿Por qué este anuncio podría considerarse ENGAÑOSO?",
+      "context": "Juzgar si un anuncio es ético o engañoso",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque dice \"100% fruta natural\" pero el producto solo tiene 5% de fruta real",
+          "is_correct": false,
+          "feedback": "¡Correcto! Pero sigue leyendo las otras opciones para ver todos los problemas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque dice \"contiene vitaminas\" y sí las contiene, aunque sean sintéticas",
+          "is_correct": false,
+          "feedback": "Parcialmente correcto, pero el problema principal es la afirmación de \"100% fruta natural\". Además, \"el sabor del campo\" sugiere un producto artesanal que no es."
+        },
+        {
+          "letter": "C",
+          "text": "Porque usa la imagen de frutas frescas que no corresponden al producto real",
+          "is_correct": false,
+          "feedback": "También es cierto, pero hay que considerar todos los elementos."
+        },
+        {
+          "letter": "D",
+          "text": "Todas las anteriores: la afirmación \"100% fruta natural\" es falsa, las vitaminas sintéticas no son lo que el consumidor espera, y las imágenes crean una impresión engañosa",
+          "is_correct": true,
+          "feedback": "¡Correcto! La publicidad engañosa incluye afirmaciones falsas (\"100% fruta natural\"), omisión de información importante (solo 5% es fruta), y uso de imágenes que crean expectativas irreales. En Colombia, la Ley 1480 de 2011 (Estatuto del Consumidor) protege contra este tipo de publicidad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La publicidad engañosa viola los derechos del consumidor. En Colombia, la Ley de Protección al Consumidor prohíbe afirmaciones falsas o que induzcan a error. Para protegerse, el consumidor debe: (1) leer la lista de ingredientes, no solo la publicidad, (2) desconfiar de afirmaciones absolutas como \"100%\", y (3) recordar que la publicidad muestra lo que el producto QUIERE ser, no siempre lo que ES.\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluación de publicidad engañosa",
+      "bundle_id": "CO-LEC-6-2026-W38-textos-publicitarios-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

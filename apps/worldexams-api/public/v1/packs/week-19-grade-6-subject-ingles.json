@@ -8,844 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-v1",
-      "statement": "What tenses in zero conditional?",
-      "context": "At Colegio Champagnat de Manizales, teacher introduces conditionals.",
+      "id": "CO-ING-6-2026-W19-review-family-descriptions-001-v1",
+      "statement": "My mother's brother is my ________.",
+      "context": "Scenario about review-family-descriptions in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "present simple + will + verb",
-          "is_correct": false,
-          "feedback": "First conditional."
+          "text": "uncle",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "present simple + present simple",
-          "is_correct": true,
-          "feedback": "Correcto. Zero = verdades universales."
+          "text": "grandfather",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "past simple + would + verb",
+          "text": "nephew",
           "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "past perfect + would have",
+          "text": "aunt",
           "is_correct": false,
-          "feedback": "Third conditional."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Zero conditional: If + present simple, present simple. \"If you heat ice, it melts.\"\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to remember the topic of Review: Family and Descriptions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W19-review-family-descriptions-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-v2",
-      "statement": "Structure of first conditional?",
-      "context": "In Colegio Champagnat de Bucaramanga, first conditional structure.",
+      "id": "CO-ING-6-2026-W19-review-family-descriptions-002-v1",
+      "statement": "My sister is my parents' ________.",
+      "context": "Scenario about review-family-descriptions in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "If + present simple, present simple",
+          "text": "niece",
           "is_correct": false,
-          "feedback": "Zero."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If + present simple, will + base verb",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "cousin",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "If + past simple, would + verb",
-          "is_correct": false,
-          "feedback": "Second conditional."
-        },
-        {
-          "letter": "D",
-          "text": "If + will + verb, present simple",
-          "is_correct": false,
-          "feedback": "Will no va en cláusula if."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "First: if + presente simple, will + base verb. \"If it rains, I will stay home.\"\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-v3",
-      "statement": "Complete: \"If you heat water to 100°C, it boils.\"",
-      "context": "At Colegio Fontán de Bogotá, zero conditional practice.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "will heat / will boil",
-          "is_correct": false,
-          "feedback": "No will in zero."
-        },
-        {
-          "letter": "B",
-          "text": "heat / boils",
+          "text": "daughter",
           "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "heated / boiled",
-          "is_correct": false,
-          "feedback": "Past tense."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "are heating / is boiling",
+          "text": "son",
           "is_correct": false,
-          "feedback": "Continuous."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Hecho científico con zero conditional.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-v4",
-      "statement": "Complete: \"If she studies, she will pass the exam.\"",
-      "context": "In Colegio Champagnat de Neiva, first conditional practice.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "will study / passes",
-          "is_correct": false,
-          "feedback": "Will en cláusula if."
-        },
-        {
-          "letter": "B",
-          "text": "studies / passes",
-          "is_correct": false,
-          "feedback": "Zero, no aplica."
-        },
-        {
-          "letter": "C",
-          "text": "studies / will pass",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "D",
-          "text": "studied / would pass",
-          "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "\"If she studies, she will pass\" = Si estudia, pasará.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of Review: Family and Descriptions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W19-review-family-descriptions-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-v5",
-      "statement": "Correct first conditional about visiting Catedral de Sal:",
-      "context": "Students at Colegio Fontán de Manizales write conditionals.",
+      "id": "CO-ING-6-2026-W19-review-family-descriptions-003-v1",
+      "statement": "My father's father is my ________.",
+      "context": "Scenario about review-family-descriptions in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "If you will visit, you see history.",
+          "text": "grandmother",
           "is_correct": false,
-          "feedback": "Will en if."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If you visit, you will learn a lot.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "brother",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "If you visited, you would learn.",
-          "is_correct": false,
-          "feedback": "Second conditional."
+          "text": "grandfather",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "If you visit, you learned.",
+          "text": "uncle",
           "is_correct": false,
-          "feedback": "Past simple al final."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "First conditional: if + present, will + base verb.\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to understand the topic of Review: Family and Descriptions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W19-review-family-descriptions-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-v6",
-      "statement": "What does \"unless\" mean? \"Unless you study, you will fail.\"",
-      "context": "At Colegio Champagnat de Barranquilla, unless practice.",
+      "id": "CO-ING-6-2026-W19-review-family-descriptions-004-v1",
+      "statement": "I am my uncle's ________.",
+      "context": "Scenario about review-family-descriptions in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Even if",
-          "is_correct": false,
-          "feedback": "No."
+          "text": "nephew",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "If not",
-          "is_correct": true,
-          "feedback": "Correcto. Unless = if not."
+          "text": "niece",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Because",
+          "text": "son",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "After",
+          "text": "brother",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "\"Unless\" = \"if not\" (a menos que). \"Unless you study\" = \"If you don't study.\"\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to understand the topic of Review: Family and Descriptions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W19-review-family-descriptions-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W19-review-family-descriptions-005-v1",
+      "statement": "My father's wife is my ________.",
+      "context": "Scenario about review-family-descriptions in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mother",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "sister",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "cousin",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "aunt",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to apply the topic of Review: Family and Descriptions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W19-review-family-descriptions-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-v7",
-      "statement": "Zero vs First conditional difference?",
-      "context": "In Colegio Fontán de Medellín, compare conditionals.",
+      "id": "CO-ING-6-2026-W19-review-family-descriptions-006-v1",
+      "statement": "My aunt's children are my ________.",
+      "context": "Scenario about review-family-descriptions in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Zero uses will.",
+          "text": "brothers",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "Zero = always true. First = possible future.",
+          "text": "cousins",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "Same thing.",
+          "text": "uncles",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Zero is for past.",
+          "text": "sisters",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Zero: verdades universales. First: posibilidades futuras reales.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to apply the topic of Review: Family and Descriptions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W19-review-family-descriptions-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-v8",
-      "statement": "Which sentence has an error?",
-      "context": "At Colegio Simón Bolívar de Manizales, find error.",
+      "id": "CO-ING-6-2026-W19-review-family-descriptions-007-v1",
+      "statement": "I have two ________: a brother and a sister.",
+      "context": "Scenario about review-family-descriptions in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "If it rains, I will take an umbrella.",
+          "text": "parents",
           "is_correct": false,
-          "feedback": "Correcto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If you heat water, it boils.",
+          "text": "cousins",
           "is_correct": false,
-          "feedback": "Correcto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "If she will come, she will visit.",
+          "text": "siblings",
           "is_correct": true,
-          "feedback": "Will en cláusula if."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "If you don't eat, you get hungry.",
+          "text": "uncles",
           "is_correct": false,
-          "feedback": "Correcto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Error: \"will\" en la cláusula if. CORRECTO: \"If she comes, she will visit.\"\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to apply the topic of Review: Family and Descriptions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W19-review-family-descriptions-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W19-review-family-descriptions-008-v1",
+      "statement": "My daughter's son is my ________.",
+      "context": "Scenario about review-family-descriptions in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "son",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "nephew",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "grandson",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "D",
+          "text": "granddaughter",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Review: Family and Descriptions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W19-review-family-descriptions-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-v9",
-      "statement": "\"If you eat too much sugar, you have problems.\" Type?",
-      "context": "In Gimnasio Los Pinares de Tunja, identify type.",
+      "id": "CO-ING-6-2026-W19-review-family-descriptions-009-v1",
+      "statement": "The male parent is the ________.",
+      "context": "Scenario about review-family-descriptions in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Zero conditional",
+          "text": "father",
           "is_correct": true,
-          "feedback": "Correcto. Verdad general."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "First conditional",
+          "text": "sister",
           "is_correct": false,
-          "feedback": "No will."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Second conditional",
+          "text": "daughter",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Third conditional",
+          "text": "mother",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Es zero porque expresa una verdad general, no una posibilidad futura.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Review: Family and Descriptions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W19-review-family-descriptions-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-v10",
-      "statement": "Correct first conditional about visiting Isla Gorgona tomorrow:",
-      "context": "At I.E. María Inmaculada de Ibagué, create sentence.",
+      "id": "CO-ING-6-2026-W19-review-family-descriptions-010-v1",
+      "statement": "My brother's daughter is my ________.",
+      "context": "Scenario about review-family-descriptions in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "If you visit, you see the views.",
+          "text": "nephew",
           "is_correct": false,
-          "feedback": "Zero, not first."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If you visit tomorrow, you will enjoy it.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "cousin",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "If you visited, you would enjoy it.",
+          "text": "sister",
           "is_correct": false,
-          "feedback": "Second cond."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "If you will visit, you will enjoy.",
-          "is_correct": false,
-          "feedback": "Will en if."
+          "text": "niece",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "First conditional: if + present + will + base verb.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Review: Family and Descriptions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W19-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W19-review-family-descriptions-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-v1",
-      "statement": "\"Leche\" in English is ___.",
-      "context": "In Bogotá.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "milk",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "water",
-          "is_correct": false,
-          "feedback": "Incorrecto. Agua = water."
-        },
-        {
-          "letter": "C",
-          "text": "juice",
-          "is_correct": false,
-          "feedback": "Incorrecto. Jugo = juice."
-        },
-        {
-          "letter": "D",
-          "text": "soda",
-          "is_correct": false,
-          "feedback": "Incorrecto. Gaseosa = soda."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Milk (leche), water (agua), juice (jugo), soda (gaseosa), coffee (café), tea (té).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-v2",
-      "statement": "\"Verduras\" in English is ___.",
-      "context": "In Medellín.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "vegetables",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "fruits",
-          "is_correct": false,
-          "feedback": "Incorrecto. Frutas = fruits."
-        },
-        {
-          "letter": "C",
-          "text": "grains",
-          "is_correct": false,
-          "feedback": "Incorrecto. Granos = grains."
-        },
-        {
-          "letter": "D",
-          "text": "meat",
-          "is_correct": false,
-          "feedback": "Incorrecto. Carne = meat."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Vegetables: carrot (zanahoria), tomato (tomate), onion (cebolla), lettuce (lechuga), beans (frijoles).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-v3",
-      "statement": "\"Water\" is an ___ noun.",
-      "context": "In Cali, count/uncount nouns.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "uncountable",
-          "is_correct": true,
-          "feedback": "Correcto. Water no se puede contar."
-        },
-        {
-          "letter": "B",
-          "text": "countable",
-          "is_correct": false,
-          "feedback": "Incorrecto. Countable = contable."
-        },
-        {
-          "letter": "C",
-          "text": "plural",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "singular",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Uncountable nouns (incontables): water, milk, rice, bread, sugar, salt. No tienen plural.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-v4",
-      "statement": "\"Apple\" is a ___ noun.",
-      "context": "In Barranquilla.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "countable",
-          "is_correct": true,
-          "feedback": "Correcto. Puedes decir one apple, two apples."
-        },
-        {
-          "letter": "B",
-          "text": "uncountable",
-          "is_correct": false,
-          "feedback": "Incorrecto. Apple se puede contar."
-        },
-        {
-          "letter": "C",
-          "text": "collective",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "abstract",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Countable nouns: one apple, two apples, three books, four pencils.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-v5",
-      "statement": "\"I have ___ oranges.\" (positive)",
-      "context": "In Bucaramanga, some/any.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "some",
-          "is_correct": true,
-          "feedback": "Correcto. Some en oraciones afirmativas."
-        },
-        {
-          "letter": "B",
-          "text": "any",
-          "is_correct": false,
-          "feedback": "Incorrecto. Any en negativas y preguntas."
-        },
-        {
-          "letter": "C",
-          "text": "a",
-          "is_correct": false,
-          "feedback": "Incorrecto. A es singular."
-        },
-        {
-          "letter": "D",
-          "text": "no",
-          "is_correct": false,
-          "feedback": "Incorrecto. No = ninguna."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Some en afirmativas: \"I have some apples.\" Any en negativas: \"I don't have any apples.\"\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-v6",
-      "statement": "\"Do you have ___ water?\"",
-      "context": "In Cartagena, questions with any.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "any",
-          "is_correct": true,
-          "feedback": "Correcto. Any en preguntas."
-        },
-        {
-          "letter": "B",
-          "text": "some",
-          "is_correct": false,
-          "feedback": "Posible en ofrecimientos pero any es más común."
-        },
-        {
-          "letter": "C",
-          "text": "a",
-          "is_correct": false,
-          "feedback": "Incorrecto. Water es incontable."
-        },
-        {
-          "letter": "D",
-          "text": "many",
-          "is_correct": false,
-          "feedback": "Incorrecto. Many para contables."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Any en preguntas: \"Do you have any water?\" Some en ofrecimientos: \"Would you like some water?\"\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-v7",
-      "statement": "\"How ___ apples do you need?\"",
-      "context": "In Pereira, quantifiers.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "many",
-          "is_correct": true,
-          "feedback": "Correcto. Many para contables."
-        },
-        {
-          "letter": "B",
-          "text": "much",
-          "is_correct": false,
-          "feedback": "Incorrecto. Much para incontables."
-        },
-        {
-          "letter": "C",
-          "text": "some",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "any",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "How many + countable noun. How much + uncountable noun. \"How many apples?\" \"How much water?\"\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-v8",
-      "statement": "\"There isn't ___ bread.\"",
-      "context": "In Manizales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "any",
-          "is_correct": true,
-          "feedback": "Correcto. Any en negativas."
-        },
-        {
-          "letter": "B",
-          "text": "some",
-          "is_correct": false,
-          "feedback": "Incorrecto. Some en afirmativas."
-        },
-        {
-          "letter": "C",
-          "text": "a",
-          "is_correct": false,
-          "feedback": "Incorrecto. Bread es incontable."
-        },
-        {
-          "letter": "D",
-          "text": "many",
-          "is_correct": false,
-          "feedback": "Incorrecto. Bread es incontable."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "There isn't any bread = no hay pan. There is some bread = hay pan.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-v9",
-      "statement": "Which sentence is CORRECT?",
-      "context": "In Cúcuta, fix errors.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "I need some milks.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Milk es incontable."
-        },
-        {
-          "letter": "B",
-          "text": "I need some milk.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "I need a milk.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Milk no lleva 'a'."
-        },
-        {
-          "letter": "D",
-          "text": "I need many milk.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Many para contables."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Uncountable nouns: no plural. Some milk, not some milks. Much milk, not many milk.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-v10",
-      "statement": "\"Shopping list: milk, apples, rice, oranges.\" Which is UNCOUNTABLE?",
-      "context": "In Ibagué, shopping list.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Milk",
-          "is_correct": true,
-          "feedback": "Correcto. Milk = incontable."
-        },
-        {
-          "letter": "B",
-          "text": "Apples",
-          "is_correct": false,
-          "feedback": "Incorrecto. Contable."
-        },
-        {
-          "letter": "C",
-          "text": "Oranges",
-          "is_correct": false,
-          "feedback": "Incorrecto. Contable."
-        },
-        {
-          "letter": "D",
-          "text": "All",
-          "is_correct": false,
-          "feedback": "Incorrecto. Milk es incontable."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Common uncountable foods: milk, rice, bread, sugar, salt, coffee, tea, water, juice.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W19-food-and-drinks-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

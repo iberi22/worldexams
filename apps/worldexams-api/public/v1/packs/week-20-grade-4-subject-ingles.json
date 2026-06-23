@@ -8,348 +8,372 @@
   },
   "questions": [
     {
-      "id": "CO-ING-4-2026-W20-repaso-p4-001-MASTERY-v1",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-4-2026-W20-animals-characteristics-001-MASTERY-v1",
+      "statement": "A bird has two ________ to fly.",
+      "context": "Learning about animals' physical characteristics in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
+          "text": "wings",
           "is_correct": true,
-          "feedback": "Obligation"
+          "feedback": "Correct!"
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "arms",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "legs",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "ears",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-4-2026-W20-repaso-p4-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-4-2026-W20-repaso-p4-001-MASTERY-v2",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-4-2026-W20-repaso-p4-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-4-2026-W20-repaso-p4-001-MASTERY-v3",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
+      "explanation": "This question evaluates remember skills regarding animals' physical characteristics at the CEFR A1 level.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-4-2026-W20-repaso-p4-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W20-animals-characteristics-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     },
     {
-      "id": "CO-ING-4-2026-W20-repaso-p4-001-MASTERY-v4",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-4-2026-W20-animals-characteristics-001-MASTERY-v2",
+      "statement": "A fish has ________ to swim in water.",
+      "context": "Learning about animals' physical characteristics in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "hair",
+          "is_correct": false,
+          "feedback": "No."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "fins",
+          "is_correct": true,
+          "feedback": "Correct!"
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "wings",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "hands",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "This question evaluates understand skills regarding animals' physical characteristics at the CEFR A1 level.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-4-2026-W20-repaso-p4-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W20-animals-characteristics-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     },
     {
-      "id": "CO-ING-4-2026-W20-repaso-p4-001-MASTERY-v5",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-4-2026-W20-animals-characteristics-001-MASTERY-v3",
+      "statement": "An elephant has a long ________.",
+      "context": "Learning about animals' physical characteristics in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
+          "text": "fin",
+          "is_correct": false,
+          "feedback": "No."
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "feather",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
+          "text": "trunk",
+          "is_correct": true,
+          "feedback": "Correct!"
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "wing",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "This question evaluates apply skills regarding animals' physical characteristics at the CEFR A1 level.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-4-2026-W20-repaso-p4-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-4-2026-W20-repaso-p4-001-MASTERY-v6",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
       "expected_success": 0.8,
-      "bundle_id": "CO-ING-4-2026-W20-repaso-p4-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-4-2026-W20-animals-characteristics-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     },
     {
-      "id": "CO-ING-4-2026-W20-repaso-p4-001-MASTERY-v7",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-4-2026-W20-animals-characteristics-001-MASTERY-v4",
+      "statement": "A cat has long ________ on its face.",
+      "context": "Learning about animals' physical characteristics in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
+          "text": "toes",
+          "is_correct": false,
+          "feedback": "No."
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "fingers",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "arms",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
+          "text": "whiskers",
+          "is_correct": true,
+          "feedback": "Correct!"
         }
       ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "This question evaluates analyze skills regarding animals' physical characteristics at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-4-2026-W20-repaso-p4-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W20-animals-characteristics-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     },
     {
-      "id": "CO-ING-4-2026-W20-repaso-p4-001-MASTERY-v8",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-4-2026-W20-animals-characteristics-001-MASTERY-v5",
+      "statement": "A bird is covered in ________.",
+      "context": "Learning about animals' physical characteristics in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "feathers",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct!"
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
+          "text": "fur",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "scales",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "skin",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         }
       ],
       "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "This question evaluates evaluate skills regarding animals' physical characteristics at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W20-animals-characteristics-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-4-2026-W20-animals-characteristics-001-MASTERY-v6",
+      "statement": "A tiger has ________ fur.",
+      "context": "Learning about animals' physical characteristics in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "blue",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "striped",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "spotted",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "plain",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates apply skills regarding animals' physical characteristics at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-4-2026-W20-repaso-p4-001-MASTERY-bundle",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W20-animals-characteristics-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-4-2026-W20-animals-characteristics-001-MASTERY-v7",
+      "statement": "A leopard has ________ fur.",
+      "context": "Learning about animals' physical characteristics in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "plain",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "red",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "spotted",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "striped",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates understand skills regarding animals' physical characteristics at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W20-animals-characteristics-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-4-2026-W20-animals-characteristics-001-MASTERY-v8",
+      "statement": "A dog has a ________ that it wags when it is happy.",
+      "context": "Learning about animals' physical characteristics in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "trunk",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "wing",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "fin",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "tail",
+          "is_correct": true,
+          "feedback": "Correct!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates remember skills regarding animals' physical characteristics at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W20-animals-characteristics-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     }
   ]
 }

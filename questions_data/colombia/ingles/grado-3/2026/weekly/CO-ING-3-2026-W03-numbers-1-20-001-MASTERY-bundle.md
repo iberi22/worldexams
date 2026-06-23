@@ -1,232 +1,205 @@
 ---
-id: "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY"
+id: "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "numbers-1-20"
 periodo: "weekly"
-semana: 3
+week: "W03"
+year: 2026
+bundle_type: "weekly"
 protocol_version: "5.2"
-bundle_index: 1
-bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos Grado 3"
-cefr_level: "A1"
-modern_context: true
-distractor_profile: "plausible_peer_set"
-calibration:
-  expected_success_rate: 0.75
-rubric_baseline: "Number recognition from 1 to 20, counting, and matching number names with digits."
+total_questions: 8
+bundle_size: 8
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
+---
+# MASTERY Bundle - Ingles: Numbers 1 20 (W03)
+**8 preguntas | Ingles | {alignment}**
 
 ---
-
-# Weekly Pack W03: Numbers 1-20 (A1)
-
-Este bundle evalúa los números del 1 al 20 en inglés, incluyendo su escritura y conteo básico.
-
----
-
-## Question 1 [D3-D4]
-**ID:** `CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-v1`
+## Question 1 [D3]
+**ID:** CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.95
-
-### Enunciado
-What is the number **"ONE"**?
-
-### Options
-- [x] A) 1 <!-- feedback: Correct! "One" is the number 1. -->
-- [ ] B) 10 <!-- feedback: Incorrect. 10 is "ten". -->
-- [ ] C) 11 <!-- feedback: Incorrect. 11 is "eleven". -->
-- [ ] D) 2 <!-- feedback: Incorrect. 2 is "two". -->
-
-### Explicación Pedagógica
-El número 1 se escribe "one" en inglés. Es el primer número cardinal.
-
----
-
-## Question 2 [D3-D4]
-**ID:** `CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.90
-
-### Enunciado
-How do you say **"Cinco"** in English?
-
-### Options
-- [ ] A) Four <!-- feedback: Incorrect. "Four" is 4. -->
-- [x] B) Five <!-- feedback: Correct! "Five" is 5. -->
-- [ ] C) Six <!-- feedback: Incorrect. "Six" is 6. -->
-- [ ] D) Fifty <!-- feedback: Incorrect. "Fifty" is 50. -->
-
-### Explicación Pedagógica
-El número 5 se dice y se escribe "five". ¡No lo confundas con fifty!
-
----
-
-## Question 3 [D3-D4]
-**ID:** `CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-v3`
-**Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-
-### Enunciado
-Count the stars: ⭐ ⭐ ⭐ ⭐ ⭐ ⭐
-How many are there?
-
-### Options
-- [ ] A) Five <!-- feedback: Incorrect. There is one more. -->
-- [x] B) Six <!-- feedback: Correct! There are 6 stars. -->
-- [ ] C) Seven <!-- feedback: Incorrect. There are fewer than 7. -->
-- [ ] D) Eight <!-- feedback: Incorrect. There are fewer than 8. -->
-
-### Explicación Pedagógica
-Al contar las estrellas una a una, llegamos al número 6, que en inglés es "six".
-
----
-
-## Question 4 [D3-D4]
-**ID:** `CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-v4`
-**Bloom:** Remember
-**ICFES:** Lingüística
+**ICFES:** Lexico
 **Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What number comes after **nine**?
+What is the English word for: "A place where you live or stay on holiday."
 
-### Options
-- [ ] A) Eight <!-- feedback: Incorrect. Eight comes before nine. -->
-- [x] B) Ten <!-- feedback: Correct! Ten follows nine. -->
-- [ ] C) Eleven <!-- feedback: Incorrect. Eleven follows ten. -->
-- [ ] D) Twelve <!-- feedback: Incorrect. Twelve follows eleven. -->
+### Opciones
+- [x] A) accommodation
+  <!-- feedback: Correct! 'accommodation' matches the definition. -->
+- [ ] B) transportation
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) entertainment
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) currency
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-En la secuencia numérica: 8 (eight), 9 (nine), **10 (ten)**. El número 10 es "ten".
-
+### Explicacion Pedagogica
+The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
 ---
-
-## Question 5 [D3-D4]
-**ID:** `CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-v5`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.75
-
-### Enunciado
-What is **"Once"** (11) in English?
-
-### Options
-- [ ] A) One-one <!-- feedback: Incorrect. We don't say numbers digit by digit like this. -->
-- [ ] B) Ten-one <!-- feedback: Incorrect. This is not a word. -->
-- [x] C) Eleven <!-- feedback: Correct! 11 is "eleven". -->
-- [ ] D) Twelve <!-- feedback: Incorrect. 12 is "twelve". -->
-
-### Explicación Pedagógica
-Los números 11 y 12 son especiales en inglés porque no siguen la regla de terminar en "-teen". 11 es "eleven".
-
----
-
-## Question 6 [D5-D6]
-**ID:** `CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-v6`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.70
-
-### Enunciado
-Which number is **"FIFTEEN"**?
-
-### Options
-- [ ] A) 5 <!-- feedback: Incorrect. 5 is "five". -->
-- [ ] B) 50 <!-- feedback: Incorrect. 50 is "fifty". -->
-- [x] C) 15 <!-- feedback: Correct! 15 is "fifteen". -->
-- [ ] D) 12 <!-- feedback: Incorrect. 12 is "twelve". -->
-
-### Explicación Pedagógica
-Para los números del 13 al 19, solemos usar la terminación "-teen". En el caso del 5, cambia un poco a "fifteen" (15).
-
----
-
-## Question 7 [D5-D6]
-**ID:** `CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.65
-
-### Enunciado
-What is **7 + 3** in English?
-
-### Options
-- [ ] A) Seven <!-- feedback: Incorrect. 7+3 is more than 7. -->
-- [ ] B) Nine <!-- feedback: Incorrect. 7+3 is one more. -->
-- [x] C) Ten <!-- feedback: Correct! 7 + 3 = 10 (ten). -->
-- [ ] D) Eleven <!-- feedback: Incorrect. 7+3 is not 11. -->
-
-### Explicación Pedagógica
-Al sumar siete (seven) más tres (three), obtenemos diez (ten). Es una suma básica expresada en inglés.
-
----
-
-## Question 8 [D5-D6]
-**ID:** `CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-v8`
+## Question 2 [D4]
+**ID:** CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-How many fingers do you have on **two** hands?
+What is the English word for: "A detailed plan or route of a journey."
 
-### Options
-- [ ] A) Five <!-- feedback: Incorrect. That's only one hand. -->
-- [x] B) Ten <!-- feedback: Correct! 5 + 5 = 10. -->
-- [ ] C) Twenty <!-- feedback: Incorrect. Unless you count toes too! But hands only have 10. -->
-- [ ] D) Two <!-- feedback: Incorrect. You have two hands, but more fingers. -->
+### Opciones
+- [x] A) itinerary
+  <!-- feedback: Correct! 'itinerary' matches the definition. -->
+- [ ] B) baggage
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) destination
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) passport
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Cada mano tiene 5 dedos (fingers). Dos manos tienen 10 dedos, que en inglés se dice "ten".
-
+### Explicacion Pedagogica
+The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
 ---
-
-## Question 9 [D5-D6]
-**ID:** `CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-v9`
+## Question 3 [D5]
+**ID:** CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.55
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Choose the correct spelling for **20**:
+What is the English word for: "The place to which someone or something is going or being sent."
 
-### Options
-- [ ] A) Twente <!-- feedback: Incorrect spelling. -->
-- [x] B) Twenty <!-- feedback: Correct! 20 is "twenty". -->
-- [ ] C) Twenti <!-- feedback: Incorrect. Ends with "y", not "i". -->
-- [ ] D) Tuenti <!-- feedback: Incorrect. This is how it sounds, but not how it is written. -->
+### Opciones
+- [x] A) destination
+  <!-- feedback: Correct! 'destination' matches the definition. -->
+- [ ] B) departure
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) arrival
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) journey
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-El número 20 se escribe "twenty". Es importante recordar que termina en "-y".
-
+### Explicacion Pedagogica
+The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
 ---
-
-## Question 10 [D5-D6]
-**ID:** `CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-v10`
+## Question 4 [D6]
+**ID:** CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.50
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is **10 + 8**?
+What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
 
-### Options
-- [ ] A) Seventeen <!-- feedback: Incorrect. 10 + 8 = 18. -->
-- [x] B) Eighteen <!-- feedback: Correct! 18 is "eighteen". -->
-- [ ] C) Nineteen <!-- feedback: Incorrect. 10 + 9 = 19. -->
-- [ ] D) Eighty <!-- feedback: Incorrect. 80 is "eighty". -->
+### Opciones
+- [x] A) luggage
+  <!-- feedback: Correct! 'luggage' matches the definition. -->
+- [ ] B) ticket
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) flight
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) reservation
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Diez (ten) más ocho (eight) es dieciocho. En inglés, combinamos "eight" con "-teen" para formar "eighteen".
+### Explicacion Pedagogica
+The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+---
+## Question 5 [D7]
+**ID:** CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v5
+**Bloom:** Analyze
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
+### Enunciado
+What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
 
-[//]: # (QUALITY_REVIEW)
-[//]: # (STATUS: LEGACY - FREE USE)
-[//]: # (SCORE: N/A - Pre-QR era)
+### Opciones
+- [x] A) passenger
+  <!-- feedback: Correct! 'passenger' matches the definition. -->
+- [ ] B) pedestrian
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) commuter
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) tourist
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+---
+## Question 6 [D8]
+**ID:** CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+
+### Opciones
+- [x] A) customs
+  <!-- feedback: Correct! 'customs' matches the definition. -->
+- [ ] B) security
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) terminal
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) gate
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+---
+## Question 7 [D9]
+**ID:** CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v7
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+
+### Opciones
+- [x] A) boarding pass
+  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
+- [ ] B) visa
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) receipt
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) brochure
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+---
+## Question 8 [D10]
+**ID:** CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v8
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The activity of visiting places of interest in a particular location."
+
+### Opciones
+- [x] A) sightseeing
+  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
+- [ ] B) shopping
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) hiking
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) camping
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.

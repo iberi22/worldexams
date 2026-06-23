@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-24-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.661Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W24-clothes-001-MASTERY-v1",
+      "statement": "What is **\"Camiseta\"** in English?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "T-shirt",
+          "is_correct": true,
+          "feedback": "Correct! T-shirt is camiseta."
+        },
+        {
+          "letter": "B",
+          "text": "Shirt",
+          "is_correct": false,
+          "feedback": "Incorrect. Shirt is camisa formal."
+        },
+        {
+          "letter": "C",
+          "text": "Pants",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Shoes",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La camiseta que usamos para estar cómodos se llama \"T-shirt\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.95,
+      "bundle_id": "CO-ING-3-2026-W24-clothes-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W24-clothes-001-MASTERY-v2",
+      "statement": "What is **\"Pantalones\"** in English?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Skirt",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Pants",
+          "is_correct": true,
+          "feedback": "Correct! Pants are pantalones."
+        },
+        {
+          "letter": "C",
+          "text": "Hat",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Socks",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los pantalones se dicen \"pants\" (o \"trousers\" en el Reino Unido).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W24-clothes-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W24-clothes-001-MASTERY-v3",
+      "statement": "What do you wear on your **feet**? 👟",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gloves",
+          "is_correct": false,
+          "feedback": "Incorrect. Gloves are for hands."
+        },
+        {
+          "letter": "B",
+          "text": "Shoes",
+          "is_correct": true,
+          "feedback": "Correct! Shoes are for feet."
+        },
+        {
+          "letter": "C",
+          "text": "Hats",
+          "is_correct": false,
+          "feedback": "Incorrect. Hats are for heads."
+        },
+        {
+          "letter": "D",
+          "text": "Shirts",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los zapatos se dicen \"shoes\". Van en los pies (feet).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W24-clothes-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W24-clothes-001-MASTERY-v4",
+      "statement": "What is **\"Falda\"** in English?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dress",
+          "is_correct": false,
+          "feedback": "Incorrect. Dress is vestido."
+        },
+        {
+          "letter": "B",
+          "text": "Skirt",
+          "is_correct": true,
+          "feedback": "Correct! Skirt is falda."
+        },
+        {
+          "letter": "C",
+          "text": "Pants",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Shirt",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La falda se dice \"skirt\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W24-clothes-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W24-clothes-001-MASTERY-v5",
+      "statement": "What do you wear on your **head**? 🧢",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hat",
+          "is_correct": true,
+          "feedback": "Correct! Hats go on heads."
+        },
+        {
+          "letter": "B",
+          "text": "Shoes",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Socks",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Pants",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La gorra o sombrero se dice \"hat\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W24-clothes-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W24-clothes-001-MASTERY-v6",
+      "statement": "What do you wear inside your shoes?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gloves",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Hats",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Socks",
+          "is_correct": true,
+          "feedback": "Correct! Socks go inside shoes."
+        },
+        {
+          "letter": "D",
+          "text": "Jackets",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las medias o calcetines se dicen \"socks\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W24-clothes-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W24-clothes-001-MASTERY-v7",
+      "statement": "What is **\"Chaqueta\"** in English?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jacket",
+          "is_correct": true,
+          "feedback": "Correct! Jacket is chaqueta."
+        },
+        {
+          "letter": "B",
+          "text": "Sweater",
+          "is_correct": false,
+          "feedback": "Incorrect. Sweater is suéter or buzo."
+        },
+        {
+          "letter": "C",
+          "text": "Shirt",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Coat",
+          "is_correct": false,
+          "feedback": "Incorrect. Coat is abrigo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La chaqueta se dice \"jacket\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W24-clothes-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W24-clothes-001-MASTERY-v8",
+      "statement": "What do you wear when it is **cold**? ❄️",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Shorts",
+          "is_correct": false,
+          "feedback": "Incorrect. Too cold!"
+        },
+        {
+          "letter": "B",
+          "text": "Swimsuit",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Sweater",
+          "is_correct": true,
+          "feedback": "Correct! A sweater keeps you warm."
+        },
+        {
+          "letter": "D",
+          "text": "T-shirt",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando hace frío, usamos un \"sweater\" (suéter o buzo).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W24-clothes-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W24-clothes-001-MASTERY-v9",
+      "statement": "Complete: **\"I wear my _______ to school.\"** (ZAPATOS)",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hats",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "gloves",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "shoes",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "skirts",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Usamos los zapatos (shoes) para ir al colegio.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W24-clothes-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W24-clothes-001-MASTERY-v10",
+      "statement": "What is **\"Vestido\"** in English? 👗",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dress",
+          "is_correct": true,
+          "feedback": "Correct! Dress is vestido."
+        },
+        {
+          "letter": "B",
+          "text": "Skirt",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Shirt",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Pants",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El vestido se dice \"dress\".\n\n\n[//]: # (QUALITY_REVIEW)\n[//]: # (STATUS: LEGACY - FREE USE)\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W24-clothes-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    }
+  ]
+}

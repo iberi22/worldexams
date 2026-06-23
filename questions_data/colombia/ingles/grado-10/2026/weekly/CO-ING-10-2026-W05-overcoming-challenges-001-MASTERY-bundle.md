@@ -11,13 +11,11 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
-alignment: "ICFES Saber 11 / CEFR B2"
-cefr_level: "B2"
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-
 # Bundle Mastery: Overcoming Challenges - Grade 10
 
 This bundle focuses on narratives of resilience, using B2-level grammar to contrast the Past Perfect and the Past Simple.

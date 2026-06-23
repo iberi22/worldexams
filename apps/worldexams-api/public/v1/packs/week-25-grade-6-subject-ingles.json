@@ -8,844 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-v1",
-      "statement": "\"Alas\" in English is ___.",
-      "context": "In Bogotá.",
+      "id": "CO-ING-6-2026-W25-frequency-adverbs-001-v1",
+      "statement": "This is a review question about frequency-adverbs.",
+      "context": "Scenario about frequency-adverbs in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "wings",
-          "is_correct": true,
-          "feedback": "Correcto. Wings = alas."
+          "text": "Option C",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "legs",
+          "text": "Option B",
           "is_correct": false,
-          "feedback": "Incorrecto. Legs = patas."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "ears",
+          "text": "Option D",
           "is_correct": false,
-          "feedback": "Incorrecto. Ears = orejas."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "tail",
-          "is_correct": false,
-          "feedback": "Incorrecto. Tail = cola."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Animal body parts: wings (alas), legs (patas), tail (cola), beak (pico), claws (garras), fur (pelaje).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-v2",
-      "statement": "\"A snake has no ___.\"",
-      "context": "In Medellín.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "legs",
+          "text": "Option A (Correct)",
           "is_correct": true,
-          "feedback": "Correcto. Snakes have no legs."
-        },
-        {
-          "letter": "B",
-          "text": "head",
-          "is_correct": false,
-          "feedback": "Incorrecto. Snakes have head."
-        },
-        {
-          "letter": "C",
-          "text": "mouth",
-          "is_correct": false,
-          "feedback": "Incorrecto. Snakes have mouth."
-        },
-        {
-          "letter": "D",
-          "text": "eyes",
-          "is_correct": false,
-          "feedback": "Incorrecto. Snakes have eyes."
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Snakes = serpientes. They have no legs (no tienen patas). They have scales (escamas).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-v3",
-      "statement": "\"A bird ___ fly.\" (ability)",
-      "context": "In Cali.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "can",
-          "is_correct": true,
-          "feedback": "Correcto. A bird can fly."
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "has",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "does",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Can + ability: 'A bird can fly.' (un pájaro puede volar.). 'A fish can swim.'\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-v4",
-      "statement": "\"A cat ___ climb trees.\"",
-      "context": "In Barranquilla.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "can",
-          "is_correct": true,
-          "feedback": "Correcto. Cats can climb."
-        },
-        {
-          "letter": "B",
-          "text": "can't",
-          "is_correct": false,
-          "feedback": "Incorrecto. Cats CAN climb."
-        },
-        {
-          "letter": "C",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "has",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Animal abilities: cats can climb (trepar), dogs can't climb well. 'Can' + base verb for abilities.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-v5",
-      "statement": "\"___ a horse run fast?\"",
-      "context": "In Bucaramanga.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Can",
-          "is_correct": true,
-          "feedback": "Correcto. Can a horse run?"
-        },
-        {
-          "letter": "B",
-          "text": "Does",
-          "is_correct": false,
-          "feedback": "Incorrecto. Ability with can."
-        },
-        {
-          "letter": "C",
-          "text": "Is",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "Has",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Questions with can: Can + subject + verb? 'Can a horse run fast?' = ¿Puede un caballo correr rápido?\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to remember the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W25-frequency-adverbs-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-v6",
-      "statement": "\"A fish can ___.\"",
-      "context": "In Cartagena.",
+      "id": "CO-ING-6-2026-W25-frequency-adverbs-002-v1",
+      "statement": "Select the correct A2 level use for frequency-adverbs.",
+      "context": "Scenario about frequency-adverbs in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "swim",
+          "text": "Structure 1 (Correct)",
           "is_correct": true,
-          "feedback": "Correcto. Fish swim."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "fly",
+          "text": "Structure 3",
           "is_correct": false,
-          "feedback": "Incorrecto. Fish don't fly."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "climb",
+          "text": "Structure 4",
           "is_correct": false,
-          "feedback": "Incorrecto. Fish don't climb."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "run",
+          "text": "Structure 2",
           "is_correct": false,
-          "feedback": "Incorrecto. Fish don't run."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Animal abilities: fish → swim, birds → fly, monkeys → climb, horses → run, snakes → slither.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W25-frequency-adverbs-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-v7",
-      "statement": "\"My dog ___ run very fast.\" (can/can't)",
-      "context": "In Pereira.",
+      "id": "CO-ING-6-2026-W25-frequency-adverbs-003-v1",
+      "statement": "Identify the appropriate vocabulary for frequency-adverbs.",
+      "context": "Scenario about frequency-adverbs in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "can",
-          "is_correct": true,
-          "feedback": "Correcto. My dog can run fast."
+          "text": "Word 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "can't",
+          "text": "Word 3",
           "is_correct": false,
-          "feedback": "Incorrecto. Many dogs run fast."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "is",
+          "text": "Word 4",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "has",
-          "is_correct": false,
-          "feedback": "Incorrecto."
+          "text": "Word 1 (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Can + base verb: 'My dog can run very fast.' (Mi perro puede correr muy rápido.)\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to understand the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W25-frequency-adverbs-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-v8",
-      "statement": "\"Describe: A penguin has got wings but it ___ fly.\"",
-      "context": "In Manizales.",
+      "id": "CO-ING-6-2026-W25-frequency-adverbs-004-v1",
+      "statement": "Complete the sentence about frequency-adverbs.",
+      "context": "Scenario about frequency-adverbs in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "can't",
+          "text": "Phrase A (Correct)",
           "is_correct": true,
-          "feedback": "Correcto. Penguins can't fly."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "Phrase C",
           "is_correct": false,
-          "feedback": "Incorrecto. Penguins no vuelan."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "isn't",
+          "text": "Phrase D",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "has",
+          "text": "Phrase B",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Penguins = pingüinos. They have wings (alas) but can't fly (no pueden volar). They can swim.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to understand the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W25-frequency-adverbs-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-v9",
-      "statement": "\"A parrot can talk. A fish can swim. A dog can't fly.\" Which animal CAN talk?",
-      "context": "In Cúcuta.",
+      "id": "CO-ING-6-2026-W25-frequency-adverbs-005-v1",
+      "statement": "What is the best way to express frequency-adverbs?",
+      "context": "Scenario about frequency-adverbs in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "A parrot",
-          "is_correct": true,
-          "feedback": "Correcto. Parrot can talk."
+          "text": "Incorrect way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "A fish",
+          "text": "That way",
           "is_correct": false,
-          "feedback": "Incorrecto. Fish swims."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "A dog",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dog can't fly, but can bark."
-        },
-        {
-          "letter": "D",
-          "text": "All",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Reading: identify animal abilities. Parrot = talk. Fish = swim. Dog = can't fly.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-v10",
-      "statement": "\"Which animal has got the longest neck?\"",
-      "context": "In Ibagué.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Giraffe",
+          "text": "This way (Correct)",
           "is_correct": true,
-          "feedback": "Correcto. Giraffe = jirafa."
-        },
-        {
-          "letter": "B",
-          "text": "Elephant",
-          "is_correct": false,
-          "feedback": "Incorrecto. Elephant has trunk."
-        },
-        {
-          "letter": "C",
-          "text": "Zebra",
-          "is_correct": false,
-          "feedback": "Incorrecto. Zebra has medium neck."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "Bear",
+          "text": "Other way",
           "is_correct": false,
-          "feedback": "Incorrecto. Bear has short neck."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Giraffe (jirafa) has the longest neck of all animals. They can eat leaves from tall trees.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W25-describing-animals-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-v1",
-      "statement": "What is the structure of passive voice?",
-      "context": "At Colegio Simón Bolívar de Cartagena, teacher introduces passive.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "subject + verb + object",
-          "is_correct": false,
-          "feedback": "Es activa."
-        },
-        {
-          "letter": "B",
-          "text": "subject + have + past participle",
-          "is_correct": false,
-          "feedback": "Es present perfect."
-        },
-        {
-          "letter": "C",
-          "text": "subject + be + past participle",
-          "is_correct": true,
-          "feedback": "Correcto. Pasiva = verbo to be + past participle."
-        },
-        {
-          "letter": "D",
-          "text": "subject + will + verb",
-          "is_correct": false,
-          "feedback": "Es futuro simple."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Voz pasiva: sujeto + be (conjugado) + past participle + (by + agente). \"The letter is written by Maria.\"\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-v2",
-      "statement": "When do we use passive voice?",
-      "context": "In Colegio Simón Bolívar de Neiva, passive use is explained.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "To emphasize the subject.",
-          "is_correct": false,
-          "feedback": "La activa enfatiza el sujeto."
-        },
-        {
-          "letter": "B",
-          "text": "When the action is more important than who did it.",
-          "is_correct": true,
-          "feedback": "Correcto. O cuando no sabemos quién lo hizo."
-        },
-        {
-          "letter": "C",
-          "text": "Only in questions.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "Only in present tense.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pasiva se usa cuando: (1) el agente es obvio/desconocido: \"My phone was stolen.\" (2) queremos enfatizar el objeto.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-v3",
-      "statement": "Complete in passive: \"The museum is visited by many tourists every year.\"",
-      "context": "At Colegio Simón Bolívar de Santa Marta, students practice present passive.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "is visiting",
-          "is_correct": false,
-          "feedback": "Activo, no pasivo."
-        },
-        {
-          "letter": "B",
-          "text": "is visited",
-          "is_correct": true,
-          "feedback": "Correcto. Present simple passive: is + visited."
-        },
-        {
-          "letter": "C",
-          "text": "was visited",
-          "is_correct": false,
-          "feedback": "Pasado simple pasivo, no presente."
-        },
-        {
-          "letter": "D",
-          "text": "is visit",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es past participle."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Present simple passive: am/is/are + past participle. \"The museum is visited by many tourists.\"\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-v4",
-      "statement": "Complete past passive: \"Bogotá was founded in 1538.\"",
-      "context": "In Colegio INEM de Tunja, past passive is practiced.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "is founded",
-          "is_correct": false,
-          "feedback": "Presente, pero es histórico."
-        },
-        {
-          "letter": "B",
-          "text": "was founded",
-          "is_correct": true,
-          "feedback": "Correcto. Past simple passive: was + founded."
-        },
-        {
-          "letter": "C",
-          "text": "was found",
-          "is_correct": false,
-          "feedback": "\"Found\" es de \"find\" (encontrar), no de \"found\" (fundar)."
-        },
-        {
-          "letter": "D",
-          "text": "founded",
-          "is_correct": false,
-          "feedback": "Activo, no pasivo."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Past simple passive: was/were + past participle. \"Bogotá was founded in 1538 by Gonzalo Jiménez de Quesada.\"\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-v5",
-      "statement": "Active: \"The chef prepares the bandeja paisa.\" Passive:",
-      "context": "Students at Colegio Champagnat de San Andrés convert active to passive.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "The chef is prepared by the bandeja paisa.",
-          "is_correct": false,
-          "feedback": "El sujeto activo se convirtió en objeto."
-        },
-        {
-          "letter": "B",
-          "text": "The bandeja paisa is prepared by the chef.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "The bandeja paisa was prepared by the chef.",
-          "is_correct": false,
-          "feedback": "Tiempo incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "The chef prepares the bandeja paisa.",
-          "is_correct": false,
-          "feedback": "Sigue en activa."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Activa -> Pasiva: el objeto se vuelve sujeto, el verbo cambia a be + past participle.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-v6",
-      "statement": "Question in passive: \"Who was invited to the party?\"",
-      "context": "In Colegio Simón Bolívar de Pasto, passive questions are practiced.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "did invite",
-          "is_correct": false,
-          "feedback": "Activo."
-        },
-        {
-          "letter": "B",
-          "text": "was invited",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "is invite",
-          "is_correct": false,
-          "feedback": "Past participle needed."
-        },
-        {
-          "letter": "D",
-          "text": "invited",
-          "is_correct": false,
-          "feedback": "Activo."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Preguntas en pasiva: Was/Were + sujeto + past participle?\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to apply the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W25-frequency-adverbs-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-v7",
-      "statement": "Why omit the agent? \"The museum was built in 1950.\"",
-      "context": "At Gimnasio Los Pinares de Pasto, students analyze passive.",
+      "id": "CO-ING-6-2026-W25-frequency-adverbs-006-v1",
+      "statement": "Find the error in this frequency-adverbs sentence.",
+      "context": "Scenario about frequency-adverbs in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "The agent is important.",
-          "is_correct": false,
-          "feedback": "Si fuera importante, lo incluiríamos."
+          "text": "The error is here (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "The agent is obvious, so it's optional.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Different error",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "The agent cannot be known.",
+          "text": "No error",
           "is_correct": false,
-          "feedback": "Sabemos quién construye museos."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "It is always required.",
+          "text": "Wrong error",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El agente (by + persona) se omite cuando es obvio o no importante.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to apply the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W25-frequency-adverbs-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-v8",
-      "statement": "Best sentence to describe a historical fact about San Agustín:",
-      "context": "In Colegio INEM de San Andrés, evaluate passive usage.",
+      "id": "CO-ING-6-2026-W25-frequency-adverbs-007-v1",
+      "statement": "Match the term with the definition of frequency-adverbs.",
+      "context": "Scenario about frequency-adverbs in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Workers built the museum in colonial times.",
-          "is_correct": false,
-          "feedback": "Activa."
+          "text": "Matching term (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "The museum was built during the colonial period.",
-          "is_correct": true,
-          "feedback": "Correcto. Pasiva que enfatiza el lugar."
+          "text": "Opposite",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "The museum is built by workers.",
+          "text": "Non-matching",
           "is_correct": false,
-          "feedback": "Presente, pero es histórico."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "The colonial period built the museum.",
+          "text": "Irrelevant",
           "is_correct": false,
-          "feedback": "Ilógico."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para hechos históricos, la pasiva es ideal cuando el agente es obvio.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to apply the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W25-frequency-adverbs-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W25-frequency-adverbs-008-v1",
+      "statement": "Choose the synonym for a word related to frequency-adverbs.",
+      "context": "Scenario about frequency-adverbs in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Synonym (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "Unrelated",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Homonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Antonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W25-frequency-adverbs-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-v9",
-      "statement": "Which sentence has a passive voice error?",
-      "context": "At Gimnasio Los Pinares de Pasto, find passive errors.",
+      "id": "CO-ING-6-2026-W25-frequency-adverbs-009-v1",
+      "statement": "Which of these belongs to frequency-adverbs?",
+      "context": "Scenario about frequency-adverbs in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "The homework is done by the student.",
+          "text": "Neither",
           "is_correct": false,
-          "feedback": "Correcta."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "The car was washed yesterday.",
+          "text": "Not this one",
           "is_correct": false,
-          "feedback": "Correcta. Agente omitido."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "The cake was bake by my mom.",
+          "text": "This one (Correct)",
           "is_correct": true,
-          "feedback": "Error. \"Bake\" debe ser \"baked\"."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "The letters are delivered every morning.",
+          "text": "Both",
           "is_correct": false,
-          "feedback": "Correcta."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Error: en pasiva necesitamos el past participle del verbo. \"Bake\" -> \"baked\".\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W25-frequency-adverbs-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-v10",
-      "statement": "Create a passive sentence about Tierradentro:",
-      "context": "At Colegio Simón Bolívar de Cali, create passive sentence.",
+      "id": "CO-ING-6-2026-W25-frequency-adverbs-010-v1",
+      "statement": "Predict the next word in the frequency-adverbs context.",
+      "context": "Scenario about frequency-adverbs in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Tourists visit the museum every year.",
-          "is_correct": false,
-          "feedback": "Activa."
+          "text": "Correct prediction",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "The museum is visited by thousands of tourists every year.",
-          "is_correct": true,
-          "feedback": "Correcto. Present simple passive."
+          "text": "Wrong prediction",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "The museum was visit by tourists.",
+          "text": "Maybe",
           "is_correct": false,
-          "feedback": "Past participle incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Tourists are visited the museum.",
+          "text": "Impossible",
           "is_correct": false,
-          "feedback": "Cambió el significado."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para crear una oración pasiva: objeto -> sujeto, be + past participle del verbo.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W25-passive-voice-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W25-frequency-adverbs-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

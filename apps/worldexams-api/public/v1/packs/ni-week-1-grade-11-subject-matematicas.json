@@ -8,846 +8,6 @@
   },
   "questions": [
     {
-      "id": "NI-MAT-11-P1-algebra-001-v1",
-      "statement": "En un mercado de Managua, un comerciante vende 5 litros de leche agria por el mismo precio y una cuajada de 40 córdobas (NIO). Si el cliente pagó un total de 240 córdobas, ¿cuánto cuesta cada litro de leche agria?",
-      "context": "Comercio local en Managua.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "50 córdobas",
-          "is_correct": false,
-          "feedback": "Incorrecto. Si costara 50, el total sería $5(50) + 40 = 290$, lo cual excede el pago real."
-        },
-        {
-          "letter": "B",
-          "text": "40 córdobas",
-          "is_correct": true,
-          "feedback": "Correcto. Planteando la ecuación $5x + 40 = 240$, restamos 40 para obtener $5x = 200$, y dividiendo entre 5 resulta $x = 40$."
-        },
-        {
-          "letter": "C",
-          "text": "44 córdobas",
-          "is_correct": false,
-          "feedback": "Incorrecto. Este valor se obtiene al dividir el total de 240 entre 5 sin restar el costo de la cuajada primero."
-        },
-        {
-          "letter": "D",
-          "text": "35 córdobas",
-          "is_correct": false,
-          "feedback": "Incorrecto. Multiplicando 35 por 5 da 175, y sumando los 40 de la cuajada resulta en 215 córdobas, no 240."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Modelado y resolución de una ecuación lineal de primer grado inspirada en el comercio cotidiano, reforzando el uso de operaciones inversas.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.6,
-      "bundle_id": "NI-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "NI-MAT-11-P1-algebra-001-v2",
-      "statement": "¿Cuál es el resultado de simplificar la expresión algebraica $3x - (5x - 8) + 2$?",
-      "context": "Simplificación de expresiones.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$-2x + 10$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Al eliminar el paréntesis, el signo de -8 debe cambiar a +8."
-        },
-        {
-          "letter": "B",
-          "text": "$-2x + 10$",
-          "is_correct": true,
-          "feedback": "Correcto. Recalculando: $3x - 5x + 8 + 2 = -2x + 10$. (Espera, esta es igual a la A, corregiré la lógica del distractor)."
-        },
-        {
-          "letter": "C",
-          "text": "$8x + 10$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se sumaron las $x$ ignorando el signo negativo fuera del paréntesis."
-        },
-        {
-          "letter": "D",
-          "text": "$-2x - 6$",
-          "is_correct": false,
-          "feedback": "Incorrecto. No se aplicó la ley de signos al -8 ni se sumó correctamente el 2 final."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Aplicación de la propiedad distributiva del signo negativo y reducción de términos semejantes en expresiones algebraicas.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.6,
-      "bundle_id": "NI-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "NI-MAT-11-P1-algebra-001-v3",
-      "statement": "Un terreno rectangular en Chinandega tiene un largo que mide el doble que su ancho. Si el ancho se representa como $x$, ¿cuál es la expresión algebraica para el perímetro del terreno?",
-      "context": "Perímetro de terrenos agrícolas.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$3x$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Solo se sumó el largo y el ancho una vez, no los cuatro lados del rectángulo."
-        },
-        {
-          "letter": "B",
-          "text": "$6x$",
-          "is_correct": true,
-          "feedback": "Correcto. Largo = $2x$, Ancho = $x$. Perímetro = $2(2x + x) = 2(3x) = 6x$."
-        },
-        {
-          "letter": "C",
-          "text": "$2x^2$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta es la expresión para el área del terreno ($2x \\cdot x$), no para el perímetro."
-        },
-        {
-          "letter": "D",
-          "text": "$4x$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Solo se consideraron los dos lados largos del terreno."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Traducción de enunciados verbales a lenguaje algebraico aplicado a la geometría básica.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.6,
-      "bundle_id": "NI-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "NI-MAT-11-P1-algebra-001-v4",
-      "statement": "¿Cuál es el desarrollo correcto del binomio al cuadrado $(2x - 3)^2$?",
-      "context": "Productos notables.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$4x^2 + 9$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó el término del doble producto del primero por el segundo."
-        },
-        {
-          "letter": "B",
-          "text": "$4x^2 - 12x + 9$",
-          "is_correct": true,
-          "feedback": "Correcto. Aplicando $(a-b)^2 = a^2 - 2ab + b^2$, obtenemos $(2x)^2 - 2(2x)(3) + 3^2 = 4x^2 - 12x + 9$."
-        },
-        {
-          "letter": "C",
-          "text": "$4x^2 - 6x + 9$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se calculó el producto de los términos pero no el \"doble\" producto requerido por la regla."
-        },
-        {
-          "letter": "D",
-          "text": "$2x^2 - 12x + 6$",
-          "is_correct": false,
-          "feedback": "Incorrecto. No se elevaron al cuadrado correctamente los coeficientes y las constantes."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Aplicación de las reglas de productos notables para la expansión eficiente de potencias de binomios.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.6,
-      "bundle_id": "NI-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "NI-MAT-11-P1-algebra-001-v5",
-      "statement": "Un beisbolista de los Indios del Bóer batea una pelota cuya altura $h$ en metros sigue la función $h(t) = -5t^2 + 20t$, donde $t$ es el tiempo en segundos. ¿En qué segundo alcanza la pelota su altura máxima?",
-      "context": "Lanzamiento de proyectiles (béisbol).",
-      "options": [
-        {
-          "letter": "A",
-          "text": "4 segundos",
-          "is_correct": false,
-          "feedback": "Incorrecto. Este es el tiempo total de vuelo hasta que la pelota vuelve a tocar el suelo."
-        },
-        {
-          "letter": "B",
-          "text": "2 segundos",
-          "is_correct": true,
-          "feedback": "Correcto. El vértice ocurre en $t = -b / 2a = -20 / 2(-5) = -20 / -10 = 2$."
-        },
-        {
-          "letter": "C",
-          "text": "20 segundos",
-          "is_correct": false,
-          "feedback": "Incorrecto. Confundió el coeficiente lineal con el tiempo del vértice."
-        },
-        {
-          "letter": "D",
-          "text": "1 segundo",
-          "is_correct": false,
-          "feedback": "Incorrecto. Error de cálculo en la fórmula de la coordenada $x$ (o $t$) del vértice de la parábola."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Análisis de funciones cuadráticas aplicadas a la cinemática para hallar valores máximos (vértice).\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.6,
-      "bundle_id": "NI-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "NI-MAT-11-P1-algebra-001-v6",
-      "statement": "¿Cuáles son las soluciones de la ecuación cuadrática $x^2 - 5x - 6 = 0$?",
-      "context": "Ceros de una función.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$x = 3, x = 2$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Aunque suman 5, su producto daría +6, no -6."
-        },
-        {
-          "letter": "B",
-          "text": "$x = 6, x = -1$",
-          "is_correct": true,
-          "feedback": "Correcto. Factorizando $(x-6)(x+1) = 0$. La suma es $6 + (-1) = 5$ (con signo opuesto al término lineal) y el producto es $-6$."
-        },
-        {
-          "letter": "C",
-          "text": "$x = -6, x = 1$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta combinación daría un término lineal positivo $+5x$."
-        },
-        {
-          "letter": "D",
-          "text": "$x = 5, x = 6$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Valores sin relación lógica con la factorización de los términos del trinomio."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Determinación de las raíces de un polinomio de segundo grado mediante el método de factorización por inspección o fórmula general.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.6,
-      "bundle_id": "NI-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "NI-MAT-11-P1-algebra-001-v7",
-      "statement": "Resuelve el sistema de ecuaciones:\n$x + y = 15$\n$2x - y = 6$\n¿Cuál es el valor de $x$?",
-      "context": "Sistemas de ecuaciones 2x2.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "9",
-          "is_correct": false,
-          "feedback": "Incorrecto. Este sería el valor de $y$ ($15 - 6$)."
-        },
-        {
-          "letter": "B",
-          "text": "7",
-          "is_correct": true,
-          "feedback": "Correcto. Sumando ambas ecuaciones: $3x = 21 \\Rightarrow x = 7$."
-        },
-        {
-          "letter": "C",
-          "text": "8",
-          "is_correct": false,
-          "feedback": "Incorrecto. Valor obtenido por un error en el procedimiento de eliminación o suma de términos."
-        },
-        {
-          "letter": "D",
-          "text": "21",
-          "is_correct": false,
-          "feedback": "Incorrecto. Resultado intermedio de la suma de las constantes antes de dividir por el coeficiente de $x$."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Resolución de sistemas de ecuaciones lineales de dos variables utilizando el método de reducción.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.6,
-      "bundle_id": "NI-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "NI-MAT-11-P1-algebra-001-v8",
-      "statement": "¿Cuál es el conjunto solución para la inecuación $-2x + 10 < 4$?",
-      "context": "Inecuaciones lineales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$x < 3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó invertir el sentido de la desigualdad al dividir por el número negativo."
-        },
-        {
-          "letter": "B",
-          "text": "$x > 3$",
-          "is_correct": true,
-          "feedback": "Correcto. $-2x < -6$. Al dividir por -2, el sentido de la desigualdad cambia: $x > 3$."
-        },
-        {
-          "letter": "C",
-          "text": "$x > 7$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Error al trasponer el 10; probablemente se sumó en lugar de restar al otro lado."
-        },
-        {
-          "letter": "D",
-          "text": "$x < -3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Error de signos en la división final de la inecuación."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Resolución de desigualdades de primer grado, enfatizando la regla de inversión del sentido ante multiplicadores negativos.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.6,
-      "bundle_id": "NI-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "NI-MAT-11-P1-algebra-001-v9",
-      "statement": "Utiliza el teorema del residuo para hallar el resto de dividir $P(x) = x^3 - 2x^2 + 4$ entre $(x - 2)$.",
-      "context": "División sintética.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "8",
-          "is_correct": false,
-          "feedback": "Incorrecto. Error en el cálculo de las potencias al evaluar la función."
-        },
-        {
-          "letter": "B",
-          "text": "4",
-          "is_correct": true,
-          "feedback": "Correcto. Evaluamos $P(2) = 2^3 - 2(2^2) + 4 = 8 - 8 + 4 = 4$."
-        },
-        {
-          "letter": "C",
-          "text": "0",
-          "is_correct": false,
-          "feedback": "Incorrecto. $(x-2)$ no es un factor exacto del polinomio dado."
-        },
-        {
-          "letter": "D",
-          "text": "-4",
-          "is_correct": false,
-          "feedback": "Incorrecto. Error en el manejo de signos durante la suma de los términos evaluados."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Aplicación del Teorema del Residuo para evaluar la divisibilidad de polinomios sin realizar la división larga.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.6,
-      "bundle_id": "NI-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "NI-MAT-11-P1-algebra-001-v10",
-      "statement": "¿Cuál es el dominio de la función $f(x) = \\frac{x + 5}{x - 3}$ en el conjunto de los números reales?",
-      "context": "Dominio de funciones.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$\\mathbb{R} - \\{-5\\}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. El valor -5 anula el numerador, lo cual es válido; la restricción está en el denominador."
-        },
-        {
-          "letter": "B",
-          "text": "$\\mathbb{R} - \\{3\\}$",
-          "is_correct": true,
-          "feedback": "Correcto. La función no está definida donde el denominador se hace cero ($x - 3 = 0$), es decir, en $x = 3$."
-        },
-        {
-          "letter": "C",
-          "text": "$(3, +\\infty)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta respuesta excluye todos los números menores que 3, donde la función sí está definida."
-        },
-        {
-          "letter": "D",
-          "text": "Todos los números reales.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Toda función racional tiene restricciones de dominio en los puntos que anulan el denominador."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Identificación de restricciones en el dominio de funciones racionales basadas en la imposibilidad de división por cero.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.6,
-      "bundle_id": "NI-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "NI-MAT-11-P1-algebra-001-v11",
-      "statement": "Una población de aves en el Lago Cocibolca crece según la función $P(t) = 500 \\cdot 2^t$, donde $t$ es el tiempo en años. ¿Cuántas aves habrá después de 3 años?",
-      "context": "Crecimiento poblacional.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "1,500 aves",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se multiplicó $500 \\times 3$ ignorando la naturaleza exponencial del modelo."
-        },
-        {
-          "letter": "B",
-          "text": "4,000 aves",
-          "is_correct": true,
-          "feedback": "Correcto. $P(3) = 500 \\cdot 2^3 = 500 \\cdot 8 = 4,000$."
-        },
-        {
-          "letter": "C",
-          "text": "3,000 aves",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se multiplicó $500 \\times (2 \\times 3)$ en lugar de elevar a la potencia 3."
-        },
-        {
-          "letter": "D",
-          "text": "1,000 aves",
-          "is_correct": false,
-          "feedback": "Incorrecto. Solo se consideró un periodo de duplicación en lugar de los tres indicados."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Evaluación de funciones exponenciales en el modelado de crecimiento biológico.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.6,
-      "bundle_id": "NI-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "NI-MAT-11-P1-algebra-001-v12",
-      "statement": "¿Cuál es el valor de $x$ en la ecuación $\\log_3(x) + \\log_3(9) = 4$?",
-      "context": "Propiedades de logaritmos.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$x = 3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. $\\log_3(3) + \\log_3(9) = 1 + 2 = 3$, no 4."
-        },
-        {
-          "letter": "B",
-          "text": "$x = 9$",
-          "is_correct": true,
-          "feedback": "Correcto. $\\log_3(9x) = 4 \\Rightarrow 9x = 3^4 = 81 \\Rightarrow x = 9$."
-        },
-        {
-          "letter": "C",
-          "text": "$x = 27$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sustituyendo daría $3 + 2 = 5$, excediendo el valor requerido."
-        },
-        {
-          "letter": "D",
-          "text": "$x = 1$",
-          "is_correct": false,
-          "feedback": "Incorrecto. $\\log_3(1) = 0$, el resultado de la ecuación sería 2."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Uso de las leyes de los logaritmos (suma de logaritmos) y conversión a forma exponencial para resolver ecuaciones.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.6,
-      "bundle_id": "NI-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "NI-MAT-11-P1-algebra-001-v13",
-      "statement": "Dadas las matrices $A = \\begin{pmatrix} 2 & 1 \\\\ 0 & 3 \\end{pmatrix}$ y $B = \\begin{pmatrix} 1 & 4 \\\\ 5 & 2 \\end{pmatrix}$, ¿cuál es el resultado de la matriz $2A + B$?",
-      "context": "Operaciones con matrices.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$\\begin{pmatrix} 3 & 5 \\\\ 5 & 5 \\end{pmatrix}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Solo se sumaron las matrices sin multiplicar la matriz A por el escalar 2."
-        },
-        {
-          "letter": "B",
-          "text": "$\\begin{pmatrix} 5 & 6 \\\\ 5 & 8 \\end{pmatrix}$",
-          "is_correct": true,
-          "feedback": "Correcto. $2A = \\begin{pmatrix} 4 & 2 \\\\ 0 & 6 \\end{pmatrix}$. Sumando B: $\\begin{pmatrix} 4+1 & 2+4 \\\\ 0+5 & 6+2 \\end{pmatrix} = \\begin{pmatrix} 5 & 6 \\\\ 5 & 8 \\end{pmatrix}$."
-        },
-        {
-          "letter": "C",
-          "text": "$\\begin{pmatrix} 5 & 10 \\\\ 5 & 8 \\end{pmatrix}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Error en la multiplicación escalar de uno de los elementos de la matriz A."
-        },
-        {
-          "letter": "D",
-          "text": "$\\begin{pmatrix} 4 & 2 \\\\ 10 & 6 \\end{pmatrix}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Resultado erróneo sin seguir la jerarquía de las operaciones matriciales."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Ejecución de operaciones combinadas de suma y multiplicación por un escalar en álgebra matricial.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.6,
-      "bundle_id": "NI-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "NI-MAT-11-P1-algebra-001-v14",
-      "statement": "Halla el valor del determinante de la matriz $\\begin{pmatrix} 4 & -2 \\\\ 3 & 5 \\end{pmatrix}$.",
-      "context": "Determinantes.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "14",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se restó mal debido a una confusión con los signos negativos del producto secundario."
-        },
-        {
-          "letter": "B",
-          "text": "26",
-          "is_correct": true,
-          "feedback": "Correcto. $\\text{det} = (4 \\times 5) - (-2 \\times 3) = 20 - (-6) = 20 + 6 = 26$."
-        },
-        {
-          "letter": "C",
-          "text": "20",
-          "is_correct": false,
-          "feedback": "Incorrecto. Solo se calculó el producto de la diagonal principal."
-        },
-        {
-          "letter": "D",
-          "text": "17",
-          "is_correct": false,
-          "feedback": "Incorrecto. Error aritmético en el proceso de cálculo del determinante 2x2."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Cálculo de determinantes de segundo orden aplicando correctamente la ley de los signos.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.6,
-      "bundle_id": "NI-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "NI-MAT-11-P1-algebra-001-v15",
-      "statement": "Una persona deposita 1,000 USD a una tasa de interés compuesto anual del 5%. ¿Cuál es la expresión que representa el capital acumulado después de $n$ años?",
-      "context": "Interés compuesto en bancos de Nicaragua.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$C = 1000 + 0.05n$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Este es un modelo de interés simple o crecimiento lineal."
-        },
-        {
-          "letter": "B",
-          "text": "$C = 1000(1.05)^n$",
-          "is_correct": true,
-          "feedback": "Correcto. Siguiendo la fórmula $C = P(1 + r)^n$, donde $r = 0.05$."
-        },
-        {
-          "letter": "C",
-          "text": "$C = 1000(0.05)^n$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta expresión indicaría que el capital disminuye drásticamente cada año."
-        },
-        {
-          "letter": "D",
-          "text": "$C = 1050n$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Error en el modelado de la acumulación de capital por periodo."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Modelización de situaciones financieras mediante el uso de sucesiones geométricas y funciones exponenciales.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.6,
-      "bundle_id": "NI-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "NI-MAT-11-P1-algebra-001-v16",
-      "statement": "¿Cuál es el conjunto solución para la inecuación $x^2 - 9 < 0$?",
-      "context": "Inecuaciones cuadráticas.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$x < 3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta solución ignora el límite inferior impuesto por la raíz negativa de 9."
-        },
-        {
-          "letter": "B",
-          "text": "$(-3, 3)$",
-          "is_correct": true,
-          "feedback": "Correcto. Las raíces son 3 y -3. Como es una parábola que abre hacia arriba, los valores negativos están entre las raíces."
-        },
-        {
-          "letter": "C",
-          "text": "$x < -3$ o $x > 3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta sería la solución para $x^2 - 9 > 0$."
-        },
-        {
-          "letter": "D",
-          "text": "$[-3, 3]$",
-          "is_correct": false,
-          "feedback": "Incorrecto. La desigualdad es estrictamente menor ($<$), por lo que no debe incluir los extremos."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Análisis de signos de funciones de segundo grado para determinar intervalos de validez de inecuaciones cuadráticas.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.6,
-      "bundle_id": "NI-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "NI-MAT-11-P1-algebra-001-v17",
-      "statement": "En una construcción en Estelí, las hileras de ladrillos forman una progresión aritmética. La primera hilera tiene 10 ladrillos y la quinta tiene 22. ¿Cuántos ladrillos tendrá la hilera número 10?",
-      "context": "Sucesiones aritméticas.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "34 ladrillos",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se calculó sumando la diferencia erróneamente sin considerar el término general."
-        },
-        {
-          "letter": "B",
-          "text": "37 ladrillos",
-          "is_correct": true,
-          "feedback": "Correcto. $a_5 = a_1 + 4d \\Rightarrow 22 = 10 + 4d \\Rightarrow 12 = 4d \\Rightarrow d = 3$. Luego $a_{10} = 10 + 9(3) = 10 + 27 = 37$."
-        },
-        {
-          "letter": "C",
-          "text": "40 ladrillos",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se usó una diferencia común de 4 en lugar de la calculada de 3."
-        },
-        {
-          "letter": "D",
-          "text": "31 ladrillos",
-          "is_correct": false,
-          "feedback": "Incorrecto. Error en la aplicación de la fórmula del término general de la sucesión."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Identificación de la diferencia común y cálculo de términos específicos en progresiones aritméticas.\n\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.6,
-      "bundle_id": "NI-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "NI-MAT-11-P1-algebra-001-v18",
-      "statement": "Calcula la suma infinita de la serie geométrica $1 + 1/2 + 1/4 + 1/8 + \\dots$.",
-      "context": "Series geométricas.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Es infinita.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Como la razón $|r| = 1/2$ es menor que 1, la serie converge a un valor finito."
-        },
-        {
-          "letter": "B",
-          "text": "2",
-          "is_correct": true,
-          "feedback": "Correcto. $S = a / (1 - r) = 1 / (1 - 1/2) = 1 / (1/2) = 2$."
-        },
-        {
-          "letter": "C",
-          "text": "1.5",
-          "is_correct": false,
-          "feedback": "Incorrecto. Error en la aplicación de la fórmula de la suma de términos infinitos."
-        },
-        {
-          "letter": "D",
-          "text": "3",
-          "is_correct": false,
-          "feedback": "Incorrecto. Valor excedido debido a un error en el cálculo del denominador de la fórmula de convergencia."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Aplicación de criterios de convergencia y fórmulas de suma para series geométricas infinitas.\n\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.6,
-      "bundle_id": "NI-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "NI-MAT-11-P1-algebra-001-v19",
-      "statement": "Para un sistema de ecuaciones 2x2, si el determinante principal $\\Delta$ es igual a 0 y los determinantes de las variables $\\Delta x$ y $\\Delta y$ son diferentes de 0, ¿qué se puede afirmar sobre el sistema?",
-      "context": "Regla de Cramer.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Tiene solución única.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Para solución única el determinante principal debe ser distinto de cero."
-        },
-        {
-          "letter": "B",
-          "text": "Tiene infinitas soluciones.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Para infinitas soluciones, todos los determinantes (incluyendo $\\Delta x$ y $\\Delta y$) deberían ser cero."
-        },
-        {
-          "letter": "C",
-          "text": "Es un sistema incompatible (no tiene solución).",
-          "is_correct": true,
-          "feedback": "Correcto. La división por cero indica que las rectas son paralelas y no hay punto de intersección."
-        },
-        {
-          "letter": "D",
-          "text": "La solución es $x=0, y=0$.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Los valores de las variables no se pueden determinar mediante una división por cero."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Evaluación de la naturaleza de las soluciones de un sistema lineal basándose en el análisis de sus determinantes.\n\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.6,
-      "bundle_id": "NI-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "NI-MAT-11-P1-algebra-001-v20",
-      "statement": "¿Cuál es el tercer término del desarrollo del binomio $(x + 2)^4$?",
-      "context": "Binomio de Newton.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$8x^2$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se omitió el coeficiente binomial de la combinación correspondente."
-        },
-        {
-          "letter": "B",
-          "text": "$24x^2$",
-          "is_correct": true,
-          "feedback": "Correcto. El término es $\\binom{4}{2} \\cdot x^2 \\cdot 2^2 = 6 \\cdot x^2 \\cdot 4 = 24x^2$."
-        },
-        {
-          "letter": "C",
-          "text": "$12x^2$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se usó un coeficiente de combinación erróneo en el cálculo."
-        },
-        {
-          "letter": "D",
-          "text": "$16x^2$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se calculó solo el valor de la potencia del segundo término sin el factor combinatorio."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Aplicación del Teorema del Binomio de Newton para hallar términos específicos en expansiones de potencias.\n\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.6,
-      "bundle_id": "NI-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
       "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la definición correcta de una sucesión aritmética?",
       "context": "En un taller de artesanías en Masaya, los artesanos organizan sus piezas en filas.",
@@ -888,7 +48,10 @@
       "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
     },
     {
       "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v2",
@@ -931,7 +94,10 @@
       "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
     },
     {
       "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v3",
@@ -974,7 +140,10 @@
       "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
     },
     {
       "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v4",
@@ -1017,7 +186,10 @@
       "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
     },
     {
       "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v5",
@@ -1060,7 +232,10 @@
       "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
     },
     {
       "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v6",
@@ -1103,7 +278,10 @@
       "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
     },
     {
       "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v7",
@@ -1146,7 +324,10 @@
       "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
     },
     {
       "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v8",
@@ -1189,7 +370,10 @@
       "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
     },
     {
       "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v9",
@@ -1232,7 +416,10 @@
       "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
     },
     {
       "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v10",
@@ -1275,7 +462,10 @@
       "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
     },
     {
       "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v11",
@@ -1318,7 +508,10 @@
       "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
     },
     {
       "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v12",
@@ -1361,7 +554,10 @@
       "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
     },
     {
       "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v13",
@@ -1404,7 +600,10 @@
       "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
     },
     {
       "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v14",
@@ -1447,7 +646,10 @@
       "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
     },
     {
       "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v15",
@@ -1490,7 +692,10 @@
       "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
     },
     {
       "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v16",
@@ -1533,7 +738,10 @@
       "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
     },
     {
       "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v17",
@@ -1576,7 +784,10 @@
       "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
     },
     {
       "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v18",
@@ -1619,7 +830,10 @@
       "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
     },
     {
       "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v19",
@@ -1662,7 +876,10 @@
       "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
     },
     {
       "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v20",
@@ -1705,7 +922,10 @@
       "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
     }
   ]
 }

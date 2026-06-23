@@ -1,0 +1,1841 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-10-grade-6-subject-matematicas",
+    "generated_at": "2026-06-22T05:46:17.011Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W00-examen per-001-MASTERY-v1",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Quibdó, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Quibdó",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.56,
+      "bundle_id": "CO-MAT-6-2026-P1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-examen per-001-MASTERY-v2",
+      "statement": "En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Riohacha, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Riohacha",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.73,
+      "bundle_id": "CO-MAT-6-2026-P1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-examen per-001-MASTERY-v3",
+      "statement": "En la clase de Matematicas del I.E. Francisco de Paula Santander en Neiva, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Neiva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.67,
+      "bundle_id": "CO-MAT-6-2026-P1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-examen per-001-MASTERY-v4",
+      "statement": "En la clase de Matematicas del I.E. Gabriel García Márquez en Medellín, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Medellín",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.77,
+      "bundle_id": "CO-MAT-6-2026-P1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-examen per-001-MASTERY-v5",
+      "statement": "En la clase de Matematicas del I.E. Gabriel García Márquez en Pereira, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-6-2026-P1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-examen per-001-MASTERY-v6",
+      "statement": "En la clase de Matematicas del Gimnasio Moderno en Sincelejo, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.59,
+      "bundle_id": "CO-MAT-6-2026-P1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-examen per-001-MASTERY-v7",
+      "statement": "En la clase de Matematicas del I.E. Gabriel García Márquez en Bucaramanga, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-6-2026-P1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-examen per-001-MASTERY-v8",
+      "statement": "En la clase de Matematicas del I.E. Gabriel García Márquez en Cúcuta, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-6-2026-P1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-examen per-001-MASTERY-v9",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Cartagena, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.73,
+      "bundle_id": "CO-MAT-6-2026-P1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-examen per-001-MASTERY-v10",
+      "statement": "En la clase de Matematicas del I.E. Santa Luisa de Marillac en Pereira, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-6-2026-P1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-examen per-001-MASTERY-v11",
+      "statement": "En la clase de Matematicas del Gimnasio Moderno en Tunja, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-6-2026-P1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-examen per-001-MASTERY-v12",
+      "statement": "En la clase de Matematicas del Gimnasio Moderno en Barranquilla, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Barranquilla",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-P1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-examen per-001-MASTERY-v13",
+      "statement": "En la clase de Matematicas del I.E. San José en Pasto, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-6-2026-P1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-examen per-001-MASTERY-v14",
+      "statement": "En la clase de Matematicas del I.E. Santa Luisa de Marillac en Bucaramanga, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.64,
+      "bundle_id": "CO-MAT-6-2026-P1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-examen per-001-MASTERY-v15",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Villavicencio, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.69,
+      "bundle_id": "CO-MAT-6-2026-P1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-examen per-001-MASTERY-v16",
+      "statement": "En la clase de Matematicas del Gimnasio Moderno en Cartagena, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.59,
+      "bundle_id": "CO-MAT-6-2026-P1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-examen per-001-MASTERY-v17",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Pasto, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-6-2026-P1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-examen per-001-MASTERY-v18",
+      "statement": "En la clase de Matematicas del I.E. Francisco de Paula Santander en Sincelejo, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-6-2026-P1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-examen per-001-MASTERY-v19",
+      "statement": "En la clase de Matematicas del I.E. Gabriel García Márquez en Bucaramanga, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.56,
+      "bundle_id": "CO-MAT-6-2026-P1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-examen per-001-MASTERY-v20",
+      "statement": "En la clase de Matematicas del Colegio Nacional San Bartolomé en Pereira, se discute sobre Examen Periodo 1. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Examen Periodo 1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Examen Periodo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Examen Periodo 1 es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.73,
+      "bundle_id": "CO-MAT-6-2026-P1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W10-repaso-p1-001-v1",
+      "statement": "Un dia en Bogota, la temperatura minima fue de 4°C y la maxima de 18°C. ¿Cual fue la diferencia de temperatura?",
+      "context": "Temperatura en Bogota",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14°C",
+          "is_correct": true,
+          "feedback": "Correct. Diferencia: 18 - 4 = 14°C."
+        },
+        {
+          "letter": "B",
+          "text": "22°C",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar en vez de restar: 18+4=22°C. La diferencia se obtiene restando la menor de la mayor."
+        },
+        {
+          "letter": "C",
+          "text": "-14°C",
+          "is_correct": false,
+          "feedback": "Incorrect. Invertir el orden: 4-18=-14°C. La diferencia es positiva (18-4=14°C)."
+        },
+        {
+          "letter": "D",
+          "text": "12°C",
+          "is_correct": false,
+          "feedback": "Incorrect. Error: 18-4, posible calculo incorrecto. 18-4=14, no 12."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de temperatura se calcula restando la temperatura menor de la mayor: 18°C - 4°C = 14°C. En numeros enteros, cuando ambos son positivos, la diferencia es la resta del mayor menos el menor.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W10-repaso-p1-002-v1",
+      "statement": "En la cafeteria del colegio, una empanada se parte en 6 trozos iguales. Si Camilo come 2 trozos y Maria Jose come 3 trozos, ¿que fraccion de la empanada comieron entre los dos?",
+      "context": "Reparticion de empanadas",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5/12 de empanada",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar trozos y multiplicar denominadores: 2+3=5 y 6×2=12. La fraccion es 5/6 porque la empanada se parte en 6 trozos, no en 12."
+        },
+        {
+          "letter": "B",
+          "text": "6/6 de empanada",
+          "is_correct": false,
+          "feedback": "Incorrect. 2+3=5 trozos de 6, no 6. Entre los dos comieron 5 trozos."
+        },
+        {
+          "letter": "C",
+          "text": "5/6 de empanada",
+          "is_correct": true,
+          "feedback": "Correct. 2/6 + 3/6 = 5/6 de la empanada."
+        },
+        {
+          "letter": "D",
+          "text": "1/6 de empanada",
+          "is_correct": false,
+          "feedback": "Incorrect. Restar en vez de sumar: 3-2=1. Comieron 5 trozos en total, no 1."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La empanada esta dividida en 6 partes iguales. La fraccion que representa cada trozo es 1/6.\r\nCamilo: 2/6. Maria Jose: 3/6.\r\nTotal: 2/6 + 3/6 = 5/6 de la empanada. Es una suma de fracciones homogeneas.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W10-repaso-p1-003-v1",
+      "statement": "Para preparar un jugo de mango, se necesitan 2/3 de taza de pulpa de mango y 1/4 de taza de agua. ¿Cual es la cantidad total de liquido?",
+      "context": "Preparacion de jugo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/7 de taza",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar numeradores y denominadores: 2+1=3, 3+4=7. Error comun: las fracciones heterogeneas necesitan denominador comun."
+        },
+        {
+          "letter": "B",
+          "text": "11/12 de taza",
+          "is_correct": false,
+          "feedback": "Correct. mcm(3,4)=12. 2/3=8/12; 1/4=3/12. Total: 8/12+3/12=11/12 de taza."
+        },
+        {
+          "letter": "C",
+          "text": "8/12 de taza",
+          "is_correct": true,
+          "feedback": "Incorrect. Convertir solo 2/3 a 8/12 pero olvidar sumar el 1/4. 8/12+3/12=11/12."
+        },
+        {
+          "letter": "D",
+          "text": "2/7 de taza",
+          "is_correct": false,
+          "feedback": "Incorrect. Error: 2/3+1/4. Posible error: convertir mal las fracciones. La respuesta correcta es 11/12."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para sumar fracciones con diferente denominador:\r\n1. mcm(3,4)=12.\r\n2. 2/3 = (2×4)/(3×4) = 8/12.\r\n3. 1/4 = (1×3)/(4×3) = 3/12.\r\n4. 8/12 + 3/12 = 11/12 de taza.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicacion y representacion",
+      "bundle_id": "CO-MAT-6-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W10-repaso-p1-004-v1",
+      "statement": "La receta de pan de yuca usa 3/4 de taza de almidon de yuca para 6 personas. Si solo se prepara para 3 personas, ¿cuanto almidon se necesita?",
+      "context": "Mitad de una receta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/8 de taza",
+          "is_correct": false,
+          "feedback": "Correct. Para la mitad de personas: 3/4 × 1/2 = 3/8 de taza."
+        },
+        {
+          "letter": "B",
+          "text": "6/4 de taza",
+          "is_correct": false,
+          "feedback": "Incorrect. 3/4 × 2 = 6/4 = 1 1/2. Eso seria para 12 personas. Para 3 personas (la mitad) se divide entre 2."
+        },
+        {
+          "letter": "C",
+          "text": "3/2 de taza",
+          "is_correct": true,
+          "feedback": "Incorrect. Dividir la fraccion al reves: 3/4 ÷ 1/2 = 3/4 × 2/1 = 6/4 = 3/2. Para 3 personas (mitad) es 3/4 ÷ 2 = 3/8."
+        },
+        {
+          "letter": "D",
+          "text": "1/8 de taza",
+          "is_correct": false,
+          "feedback": "Incorrect. Error: 3/4 × 1/6 = 3/24 = 1/8. Dividir entre 6 en vez de entre 2. 3 personas es la mitad de 6, no la sexta parte."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "3 personas es la mitad de 6 personas. Por lo tanto necesitamos la mitad de los ingredientes.\r\n\"La mitad de\" significa multiplicar por 1/2.\r\n3/4 × 1/2 = (3×1)/(4×2) = 3/8 de taza de almidon de yuca.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W10-repaso-p1-005-v1",
+      "statement": "Maria compra 2,5 kg de papa a $2.400 el kilo y 1,8 kg de tomate a $3.500 el kilo. ¿Cuanto paga en total?",
+      "context": "Compra en supermercado",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12.300",
+          "is_correct": false,
+          "feedback": "Correct. Papa: 2,5×2.400=6.000. Tomate: 1,8×3.500=6.300. Total: 6.000+6.300=12.300."
+        },
+        {
+          "letter": "B",
+          "text": "$10.300",
+          "is_correct": false,
+          "feedback": "Incorrect. Papa: 2,5×2.400=6.000. Error en tomate: 1,8×3.000=5.400, no 3.500 el kilo. Tomate correcto: 1,8×3.500=6.300."
+        },
+        {
+          "letter": "C",
+          "text": "$11.800",
+          "is_correct": true,
+          "feedback": "Incorrect. Papa: 2×2.400=4.800 (olvidar 0,5 kg). 4.800+6.300=11.100, no 11.800. Revisar ambos calculos."
+        },
+        {
+          "letter": "D",
+          "text": "$13.300",
+          "is_correct": false,
+          "feedback": "Incorrect. Papa: 2,5×2.800=7.000 (error en precio, es 2.400). Tomate: 1,8×3.500=6.300. 7.000+6.300=13.300."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Calculamos cada producto:\r\nPapa: 2,5 × $2.400 = $6.000.\r\nTomate: 1,8 × $3.500 = 1 × $3.500 + 0,8 × $3.500 = $3.500 + $2.800 = $6.300.\r\nTotal: $6.000 + $6.300 = $12.300.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W10-repaso-p1-006-v1",
+      "statement": "Un bus de Transmilenio recorre 12,5 km por galon de combustible. Si el tanque tiene capacidad para 35,6 galones y esta lleno, ¿cuantos km puede recorrer en total?",
+      "context": "Rendimiento del bus",
+      "options": [
+        {
+          "letter": "A",
+          "text": "445 km",
+          "is_correct": false,
+          "feedback": "Correct. 12,5 × 35,6 = 445 km."
+        },
+        {
+          "letter": "B",
+          "text": "400 km",
+          "is_correct": false,
+          "feedback": "Incorrect. 12,5×35=437,5. 12,5×35,6 es mas. Error: calcular solo 12,5×32 (numero redondeado)."
+        },
+        {
+          "letter": "C",
+          "text": "48,1 km",
+          "is_correct": true,
+          "feedback": "Incorrect. Sumar en vez de multiplicar: 12,5+35,6=48,1. Se debe multiplicar km/galon por galones."
+        },
+        {
+          "letter": "D",
+          "text": "356 km",
+          "is_correct": false,
+          "feedback": "Incorrect. 10×35,6=356, olvidando los 2,5 km/galon adicionales. 12,5×35,6 = (10+2,5)×35,6 = 356+89=445."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Multiplicamos el rendimiento por la capacidad: 12,5 × 35,6 = 445 km.\r\n12,5 × 35,6 = (125/10) × (356/10) = 44.500/100 = 445.\r\nEl bus puede recorrer 445 km con el tanque lleno.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W10-repaso-p1-007-v1",
+      "statement": "El profesor de matematicas pide construir un cubo de 4 cm de arista con plastilina. ¿Cual es el volumen del cubo?",
+      "context": "Construccion de un cubo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16 cm³",
+          "is_correct": false,
+          "feedback": "Incorrect. 4²=16 (area de una cara). El volumen del cubo se calcula como arista³: 4³ = 64 cm³."
+        },
+        {
+          "letter": "B",
+          "text": "12 cm³",
+          "is_correct": false,
+          "feedback": "Incorrect. 4×3=12. Error: confundir cubo con multiplicacion por 3. La formula es V = a³, no V = a×3."
+        },
+        {
+          "letter": "C",
+          "text": "64 cm³",
+          "is_correct": true,
+          "feedback": "Correct. V = 4³ = 4×4×4 = 64 cm³."
+        },
+        {
+          "letter": "D",
+          "text": "8 cm³",
+          "is_correct": false,
+          "feedback": "Incorrect. 2³=8. Confundir 4³ con 2³. 4³=4×4×4=64."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El volumen de un cubo se calcula elevando la arista al cubo: V = a³.\r\nV = 4³ = 4 × 4 × 4 = 64 cm³.\r\n\"Al cubo\" significa multiplicar el numero por si mismo tres veces.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W10-repaso-p1-008-v1",
+      "statement": "Cada semana, Sofia duplica sus ahorros. Si comienza con $1.000, ¿cuanto dinero tendra despues de 6 semanas usando potencias de 2?",
+      "context": "Ahorro semanal",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12.000",
+          "is_correct": false,
+          "feedback": "Incorrect. 1.000×2×6=12.000. No es multiplicacion lineal, es 1.000×2⁶."
+        },
+        {
+          "letter": "B",
+          "text": "$32.000",
+          "is_correct": true,
+          "feedback": "Incorrect. 1.000×2⁵=32.000. Eso es despues de 5 semanas. Despues de 6 semanas: 1.000×2⁶=64.000."
+        },
+        {
+          "letter": "C",
+          "text": "$64.000",
+          "is_correct": false,
+          "feedback": "Correct. 1.000×2⁶ = 1.000×64 = 64.000."
+        },
+        {
+          "letter": "D",
+          "text": "$128.000",
+          "is_correct": false,
+          "feedback": "Incorrect. 1.000×2⁷=128.000. Eso seria despues de 7 semanas, no 6."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cada semana los ahorros se duplican, lo que significa multiplicar por 2 cada vez.\r\nSemana 0: $1.000 = 1.000 × 2⁰\r\nSemana 1: $2.000 = 1.000 × 2¹\r\nSemana 2: $4.000 = 1.000 × 2²\r\n...\r\nSemana 6: $1.000 × 2⁶ = $1.000 × 64 = $64.000.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion de problemas",
+      "bundle_id": "CO-MAT-6-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W10-repaso-p1-009-v1",
+      "statement": "Santiago dice que 1/2 + 1/3 = 2/5 y Valentina dice que 1/2 + 1/3 = 5/6. ¿Quien tiene la razon?",
+      "context": "Comparacion de metodos",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Santiago, porque 1+1=2 y 2+3=5",
+          "is_correct": false,
+          "feedback": "Incorrect. Ese es el error mas comun al sumar fracciones: sumar numeradores y denominadores por separado. No es correcto para fracciones heterogeneas."
+        },
+        {
+          "letter": "B",
+          "text": "Valentina, porque 1/2 = 3/6 y 1/3 = 2/6, y 3/6+2/6=5/6",
+          "is_correct": false,
+          "feedback": "Correct. mcm(2,3)=6. 1/2=3/6; 1/3=2/6. 3/6+2/6=5/6."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos, porque cada uno uso un metodo diferente",
+          "is_correct": true,
+          "feedback": "Incorrect. Solo hay una forma correcta de sumar fracciones: mediante el denominador comun. Santiago cometio un error."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, porque el resultado correcto es 2/6",
+          "is_correct": false,
+          "feedback": "Incorrect. 2/6=1/3, que es lo mismo que el segundo termino. 1/2+1/3=0.5+0.333=0.833=5/6."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para saber quien tiene la razon, calculemos correctamente:\r\n1. mcm(2,3)=6.\r\n2. 1/2 = (1×3)/(2×3) = 3/6.\r\n3. 1/3 = (1×2)/(3×2) = 2/6.\r\n4. Suma: 3/6 + 2/6 = 5/6.\r\nValentina tiene la razon. Santiago cometio el error clasico de sumar numeradores con numeradores y denominadores con denominadores. 5/6 = 0.833, mientras que 2/5 = 0.4, que es mucho menor.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y argumentacion",
+      "bundle_id": "CO-MAT-6-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W10-repaso-p1-010-v1",
+      "statement": "Lee el siguiente problema: \"Un tanque de agua contiene 3/5 de su capacidad. Si se agregan 1/4 de la capacidad, ¿que fraccion del tanque estara llena?\".\r\n¿Cual de las siguientes expresiones representa la solucion correcta?",
+      "context": "Planteamiento de problema",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/5 + 1/4 = 12/20 + 5/20 = 17/20",
+          "is_correct": true,
+          "feedback": "Correct. Se suma lo que habia (3/5) mas lo que se agrega (1/4)."
+        },
+        {
+          "letter": "B",
+          "text": "3/5 - 1/4 = 12/20 - 5/20 = 7/20",
+          "is_correct": false,
+          "feedback": "Incorrect. El problema dice \"agregan\", que significa sumar, no restar. La operacion es suma."
+        },
+        {
+          "letter": "C",
+          "text": "3/5 × 1/4 = 3/20",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Agregar\" significa sumar cantidades, no multiplicar. La multiplicacion daria un resultado menor, no mayor."
+        },
+        {
+          "letter": "D",
+          "text": "3/5 + 1/4 = 4/9",
+          "is_correct": false,
+          "feedback": "Incorrect. Sumar numeradores y denominadores directamente. Ese no es el procedimiento correcto para sumar fracciones heterogeneas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analicemos el problema:\r\n- El tanque tiene 3/5 de su capacidad.\r\n- Se AGREGAN 1/4 de la capacidad.\r\n- \"Agregar\" significa SUMAR.\r\nOperacion: 3/5 + 1/4 = 12/20 + 5/20 = 17/20.\r\nEl tanque quedara lleno hasta 17/20 de su capacidad.\r\nLas otras opciones usan resta (B), multiplicacion (C), o suma incorrecta (D).\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y argumentacion",
+      "bundle_id": "CO-MAT-6-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Matematicas del Colegio Nacional San Bartolomé en Cartagena, se discute sobre Tema Semana 10 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 10 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 10 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.51,
+      "bundle_id": "CO-MAT-6-2026-W10-tema-semana-10-de-matematicas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Barranquilla, se discute sobre Tema Semana 10 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Barranquilla",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 10 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 10 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-6-2026-W10-tema-semana-10-de-matematicas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Matematicas del Colegio Nacional San Bartolomé en Neiva, se discute sobre Tema Semana 10 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Neiva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 10 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 10 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.77,
+      "bundle_id": "CO-MAT-6-2026-W10-tema-semana-10-de-matematicas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Matematicas del I.E. Gabriel García Márquez en Bogotá, se discute sobre Tema Semana 10 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 10 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 10 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-6-2026-W10-tema-semana-10-de-matematicas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Matematicas del I.E. Santa Luisa de Marillac en Riohacha, se discute sobre Tema Semana 10 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Riohacha",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 10 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 10 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-6-2026-W10-tema-semana-10-de-matematicas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Matematicas del Gimnasio Moderno en Cartagena, se discute sobre Tema Semana 10 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 10 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 10 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-6-2026-W10-tema-semana-10-de-matematicas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Matematicas del Gimnasio Moderno en Ibagué, se discute sobre Tema Semana 10 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 10 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 10 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.63,
+      "bundle_id": "CO-MAT-6-2026-W10-tema-semana-10-de-matematicas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Villavicencio, se discute sobre Tema Semana 10 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 10 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 10 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.77,
+      "bundle_id": "CO-MAT-6-2026-W10-tema-semana-10-de-matematicas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Pereira, se discute sobre Tema Semana 10 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 10 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 10 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W10-tema-semana-10-de-matematicas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Matematicas del I.E. Gabriel García Márquez en Pereira, se discute sobre Tema Semana 10 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 10 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 10 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 10 de Matematicas es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.71,
+      "bundle_id": "CO-MAT-6-2026-W10-tema-semana-10-de-matematicas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

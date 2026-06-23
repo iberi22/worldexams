@@ -1,0 +1,527 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-35-grade-8-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.752Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v1",
+      "statement": "I couldn't sleep ________ the loud music from the neighbors.",
+      "context": "Reviewing connectors of reason.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "because",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs a clause."
+        },
+        {
+          "letter": "B",
+          "text": "because of",
+          "is_correct": true,
+          "feedback": "Correct! Followed by a noun phrase."
+        },
+        {
+          "letter": "C",
+          "text": "so",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "since",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Because of\" se utiliza antes de un sustantivo para explicar la causa de algo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v2",
+      "statement": "Is there ________ in the house? I heard a noise.",
+      "context": "Reviewing indefinite pronouns.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "someone",
+          "is_correct": false,
+          "feedback": "Incorrect. In questions, \"anyone\" is standard."
+        },
+        {
+          "letter": "B",
+          "text": "anyone",
+          "is_correct": true,
+          "feedback": "Correct! Standard indefinite pronoun for questions."
+        },
+        {
+          "letter": "C",
+          "text": "no one",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "everyone",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En preguntas sobre la identidad de una persona, usamos \"anyone\" o \"anybody\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v3",
+      "statement": "She taught ________ how to play the guitar using YouTube videos.",
+      "context": "Reviewing reflexive pronouns.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "her",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "herself",
+          "is_correct": true,
+          "feedback": "Correct! Subject and object are the same."
+        },
+        {
+          "letter": "C",
+          "text": "she",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "hers",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando una persona realiza una acción sobre sí misma, usamos el pronombre reflexivo correspondiente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v4",
+      "statement": "You haven't finished your homework yet, ________?",
+      "context": "Reviewing question tags.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have you",
+          "is_correct": true,
+          "feedback": "Correct! Positive tag for a negative sentence."
+        },
+        {
+          "letter": "B",
+          "text": "haven't you",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "do you",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "did you",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coletilla debe usar el mismo auxiliar que la oración pero con la polaridad opuesta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v5",
+      "statement": "It was a public holiday. ________, all the shops were closed.",
+      "context": "Reviewing \"Therefore\" for result.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Therefore",
+          "is_correct": true,
+          "feedback": "Correct! Formal connector of consequence."
+        },
+        {
+          "letter": "B",
+          "text": "Because",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Although",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "But",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Therefore\" sirve para unir dos oraciones donde la segunda es la consecuencia lógica de la primera.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v6",
+      "statement": "I have ________ to say to you after what you did.",
+      "context": "Reviewing \"Nothing\" in sentences.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "anything",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs a negative verb (I don't have anything)."
+        },
+        {
+          "letter": "B",
+          "text": "nothing",
+          "is_correct": true,
+          "feedback": "Correct! \"Nothing\" with an affirmative verb gives a negative meaning."
+        },
+        {
+          "letter": "C",
+          "text": "something",
+          "is_correct": false,
+          "feedback": "Incorrect meaning for the context."
+        },
+        {
+          "letter": "D",
+          "text": "everything",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Nothing\" ya contiene la negación, por lo que se usa con verbos en forma afirmativa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v7",
+      "statement": "We can fix the computer ________; we don't need a technician.",
+      "context": "Reviewing reflexive pronouns for plurals.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ourselves",
+          "is_correct": true,
+          "feedback": "Correct! Reflexive for \"we\"."
+        },
+        {
+          "letter": "B",
+          "text": "ourself",
+          "is_correct": false,
+          "feedback": "Incorrect form."
+        },
+        {
+          "letter": "C",
+          "text": "themselves",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "by ourself",
+          "is_correct": false,
+          "feedback": "Incorrect form."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recordamos que los reflexivos en plural terminan en \"-selves\". Para \"we\", es \"ourselves\".\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v8",
+      "statement": "I am right about this, ________?",
+      "context": "Reviewing irregular question tag.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am not I",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "aren't I",
+          "is_correct": true,
+          "feedback": "Correct! Irregular tag for \"I am\"."
+        },
+        {
+          "letter": "C",
+          "text": "isn't it",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "don't I",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se refuerza el conocimiento de la excepción \"aren't I?\" para la primera persona del singular con el verbo \"to be\".\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v9",
+      "statement": "This information is public, so ________ can read it.",
+      "context": "Reviewing \"anyone\" as \"it doesn't matter who\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "someone",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "no one",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "anyone",
+          "is_correct": true,
+          "feedback": "Correct! Means \"it doesn't matter which person\"."
+        },
+        {
+          "letter": "D",
+          "text": "anything",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Anyone\" en oraciones afirmativas transmite la idea de que no hay restricciones sobre quién puede realizar la acción.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v10",
+      "statement": "Identify the error:\n\"**Everyone (A)** in the room **was (B)** silent **because (C)** they were looking at **theirselves (D)** in the new mirrors.\"",
+      "context": "Identifying errors in a mix of topics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Everyone",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "because",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "theirselves",
+          "is_correct": true,
+          "feedback": "Correct! Error found. The reflexive for \"they\" is \"themselves\", not \"theirselves\"."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se evalúa la forma correcta de los pronombres reflexivos plurales, un error común incluso si la concordancia de la oración es aceptable.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v11",
+      "statement": "Which sentence is the best way to explain a delay in a professional report?",
+      "context": "Evaluating the best formal explanation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "We were late because the rain was bad.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too simple."
+        },
+        {
+          "letter": "B",
+          "text": "The project was delayed due to unforeseen technical difficulties; therefore, the deadline has been extended.",
+          "is_correct": true,
+          "feedback": "Correct! Excellent use of \"due to\" and \"therefore\" in a formal context."
+        },
+        {
+          "letter": "C",
+          "text": "Someone didn't do the work, so we are late.",
+          "is_correct": false,
+          "feedback": "Incorrect. Unprofessional."
+        },
+        {
+          "letter": "D",
+          "text": "Everything is bad, haven't it?",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Combinar conectores formales (due to, therefore) con una estructura clara es esencial para la comunicación profesional en nivel B1.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-v12",
+      "statement": "\"Nobody expected the surprise party. Everybody arrived at different times. Because of the lack of coordination, some people brought the same gifts. As a result, there were many duplicates.\"\nChoose the best summary:",
+      "context": "Selecting the best summary of a group action.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Due to a lack of coordination, everyone's independent arrivals resulted in duplicate gifts that nobody had anticipated.",
+          "is_correct": true,
+          "feedback": "Correct! It synthesizes all the indefinite pronouns and connectors perfectly."
+        },
+        {
+          "letter": "B",
+          "text": "Someone brought gifts to everyone because they were coordinated.",
+          "is_correct": false,
+          "feedback": "Incorrect. Contradicts the text."
+        },
+        {
+          "letter": "C",
+          "text": "Nothing happened at the party.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "They arrived themselves and brought nothing.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un resumen exitoso en este nivel debe ser capaz de integrar múltiples pronombres indefinidos y conectores de causa/efecto para describir con precisión la dinámica de un evento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W35-review-p7-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    }
+  ]
+}

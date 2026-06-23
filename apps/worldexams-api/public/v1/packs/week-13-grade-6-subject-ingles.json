@@ -8,838 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W13-conditionals-type-0-1-001-MASTERY-v1",
-      "statement": "What tenses in zero conditional?",
-      "context": "At Colegio Simón Bolívar de Pereira, teacher introduces conditionals.",
+      "id": "CO-ING-6-2026-W13-describing-people-physical-001-v1",
+      "statement": "This is a review question about describing-people-physical.",
+      "context": "Scenario about describing-people-physical in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "present simple + will + verb",
-          "is_correct": false,
-          "feedback": "First conditional."
+          "text": "Option A (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "present simple + present simple",
-          "is_correct": true,
-          "feedback": "Correcto. Zero = verdades universales."
+          "text": "Option C",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "past simple + would + verb",
+          "text": "Option B",
           "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "past perfect + would have",
+          "text": "Option D",
           "is_correct": false,
-          "feedback": "Third conditional."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Zero conditional: If + present simple, present simple. \"If you heat ice, it melts.\"\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to remember the topic of Describing People: Physical Appearance at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W13-describing-people-physical-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W13-conditionals-type-0-1-001-MASTERY-v2",
-      "statement": "Structure of first conditional?",
-      "context": "In Colegio Fontán de Medellín, first conditional structure.",
+      "id": "CO-ING-6-2026-W13-describing-people-physical-002-v1",
+      "statement": "Select the correct A2 level use for describing-people-physical.",
+      "context": "Scenario about describing-people-physical in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "If + present simple, present simple",
+          "text": "Structure 2",
           "is_correct": false,
-          "feedback": "Zero."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If + present simple, will + base verb",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Structure 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "If + past simple, would + verb",
-          "is_correct": false,
-          "feedback": "Second conditional."
-        },
-        {
-          "letter": "D",
-          "text": "If + will + verb, present simple",
-          "is_correct": false,
-          "feedback": "Will no va en cláusula if."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "First: if + presente simple, will + base verb. \"If it rains, I will stay home.\"\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W13-conditionals-type-0-1-001-MASTERY-v3",
-      "statement": "Complete: \"If you heat water to 100°C, it boils.\"",
-      "context": "At Colegio Champagnat de Cúcuta, zero conditional practice.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "will heat / will boil",
-          "is_correct": false,
-          "feedback": "No will in zero."
-        },
-        {
-          "letter": "B",
-          "text": "heat / boils",
+          "text": "Structure 1 (Correct)",
           "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "heated / boiled",
-          "is_correct": false,
-          "feedback": "Past tense."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "are heating / is boiling",
+          "text": "Structure 4",
           "is_correct": false,
-          "feedback": "Continuous."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Hecho científico con zero conditional.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W13-conditionals-type-0-1-001-MASTERY-v4",
-      "statement": "Complete: \"If she studies, she will pass the exam.\"",
-      "context": "In Colegio San José de Cúcuta, first conditional practice.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "will study / passes",
-          "is_correct": false,
-          "feedback": "Will en cláusula if."
-        },
-        {
-          "letter": "B",
-          "text": "studies / passes",
-          "is_correct": false,
-          "feedback": "Zero, no aplica."
-        },
-        {
-          "letter": "C",
-          "text": "studies / will pass",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "D",
-          "text": "studied / would pass",
-          "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "\"If she studies, she will pass\" = Si estudia, pasará.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of Describing People: Physical Appearance at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W13-describing-people-physical-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W13-conditionals-type-0-1-001-MASTERY-v5",
-      "statement": "Correct first conditional about visiting Catedral de Sal:",
-      "context": "Students at Colegio Cambridge de Tunja write conditionals.",
+      "id": "CO-ING-6-2026-W13-describing-people-physical-003-v1",
+      "statement": "Identify the appropriate vocabulary for describing-people-physical.",
+      "context": "Scenario about describing-people-physical in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "If you will visit, you see history.",
+          "text": "Word 2",
           "is_correct": false,
-          "feedback": "Will en if."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If you visit, you will learn a lot.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Word 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "If you visited, you would learn.",
+          "text": "Word 4",
           "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "If you visit, you learned.",
-          "is_correct": false,
-          "feedback": "Past simple al final."
+          "text": "Word 1 (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "First conditional: if + present, will + base verb.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to understand the topic of Describing People: Physical Appearance at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W13-describing-people-physical-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W13-conditionals-type-0-1-001-MASTERY-v6",
-      "statement": "What does \"unless\" mean? \"Unless you study, you will fail.\"",
-      "context": "At Colegio Fontán de San Andrés, unless practice.",
+      "id": "CO-ING-6-2026-W13-describing-people-physical-004-v1",
+      "statement": "Complete the sentence about describing-people-physical.",
+      "context": "Scenario about describing-people-physical in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Even if",
-          "is_correct": false,
-          "feedback": "No."
+          "text": "Phrase A (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "If not",
-          "is_correct": true,
-          "feedback": "Correcto. Unless = if not."
+          "text": "Phrase D",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Because",
+          "text": "Phrase B",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "After",
+          "text": "Phrase C",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to understand the topic of Describing People: Physical Appearance at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W13-describing-people-physical-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W13-describing-people-physical-005-v1",
+      "statement": "What is the best way to express describing-people-physical?",
+      "context": "Scenario about describing-people-physical in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Other way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "This way (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "C",
+          "text": "That way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Incorrect way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "\"Unless\" = \"if not\" (a menos que). \"Unless you study\" = \"If you don't study.\"\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to apply the topic of Describing People: Physical Appearance at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W13-describing-people-physical-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W13-conditionals-type-0-1-001-MASTERY-v7",
-      "statement": "Zero vs First conditional difference?",
-      "context": "In Colegio Champagnat de Pereira, compare conditionals.",
+      "id": "CO-ING-6-2026-W13-describing-people-physical-006-v1",
+      "statement": "Find the error in this describing-people-physical sentence.",
+      "context": "Scenario about describing-people-physical in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Zero uses will.",
+          "text": "Different error",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "Zero = always true. First = possible future.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Wrong error",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Same thing.",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "D",
-          "text": "Zero is for past.",
-          "is_correct": false,
-          "feedback": "No."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Zero: verdades universales. First: posibilidades futuras reales.\r\n\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W13-conditionals-type-0-1-001-MASTERY-v8",
-      "statement": "Which sentence has an error?",
-      "context": "At Colegio Cambridge de Pereira, find error.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "If it rains, I will take an umbrella.",
-          "is_correct": false,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "If you heat water, it boils.",
-          "is_correct": false,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "If she will come, she will visit.",
+          "text": "The error is here (Correct)",
           "is_correct": true,
-          "feedback": "Will en cláusula if."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "If you don't eat, you get hungry.",
+          "text": "No error",
           "is_correct": false,
-          "feedback": "Correcto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Error: \"will\" en la cláusula if. CORRECTO: \"If she comes, she will visit.\"\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to apply the topic of Describing People: Physical Appearance at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W13-describing-people-physical-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W13-describing-people-physical-007-v1",
+      "statement": "Match the term with the definition of describing-people-physical.",
+      "context": "Scenario about describing-people-physical in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Opposite",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "Non-matching",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Matching term (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "D",
+          "text": "Irrelevant",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to apply the topic of Describing People: Physical Appearance at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W13-describing-people-physical-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W13-describing-people-physical-008-v1",
+      "statement": "Choose the synonym for a word related to describing-people-physical.",
+      "context": "Scenario about describing-people-physical in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Synonym (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "Homonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Unrelated",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Antonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Describing People: Physical Appearance at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W13-describing-people-physical-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W13-conditionals-type-0-1-001-MASTERY-v9",
-      "statement": "\"If you eat too much sugar, you have problems.\" Type?",
-      "context": "In Colegio San José de Medellín, identify type.",
+      "id": "CO-ING-6-2026-W13-describing-people-physical-009-v1",
+      "statement": "Which of these belongs to describing-people-physical?",
+      "context": "Scenario about describing-people-physical in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Zero conditional",
-          "is_correct": true,
-          "feedback": "Correcto. Verdad general."
+          "text": "Both",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "First conditional",
+          "text": "Not this one",
           "is_correct": false,
-          "feedback": "No will."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Second conditional",
+          "text": "Neither",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Third conditional",
-          "is_correct": false,
-          "feedback": "No."
+          "text": "This one (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Es zero porque expresa una verdad general, no una posibilidad futura.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Describing People: Physical Appearance at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W13-describing-people-physical-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W13-conditionals-type-0-1-001-MASTERY-v10",
-      "statement": "Correct first conditional about visiting Museo del Oro tomorrow:",
-      "context": "At I.E. María Inmaculada de Medellín, create sentence.",
+      "id": "CO-ING-6-2026-W13-describing-people-physical-010-v1",
+      "statement": "Predict the next word in the describing-people-physical context.",
+      "context": "Scenario about describing-people-physical in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "If you visit, you see the views.",
-          "is_correct": false,
-          "feedback": "Zero, not first."
+          "text": "Correct prediction",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "If you visit tomorrow, you will enjoy it.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Maybe",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "If you visited, you would enjoy it.",
+          "text": "Wrong prediction",
           "is_correct": false,
-          "feedback": "Second cond."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "If you will visit, you will enjoy.",
+          "text": "Impossible",
           "is_correct": false,
-          "feedback": "Will en if."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "First conditional: if + present + will + base verb.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Describing People: Physical Appearance at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W13-describing-people-physical-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W13-review-unit1-001-MASTERY-v1",
-      "statement": "What do you say at 3 PM?",
-      "context": "In Bogotá, review greetings.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Good afternoon",
-          "is_correct": true,
-          "feedback": "Correcto. 3 PM = afternoon."
-        },
-        {
-          "letter": "B",
-          "text": "Good morning",
-          "is_correct": false,
-          "feedback": "Incorrecto. Morning antes de 12 PM."
-        },
-        {
-          "letter": "C",
-          "text": "Good evening",
-          "is_correct": false,
-          "feedback": "Incorrecto. Evening después de 6 PM."
-        },
-        {
-          "letter": "D",
-          "text": "Good night",
-          "is_correct": false,
-          "feedback": "Incorrecto. Good night es despedida nocturna."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "3 PM = afternoon. Good afternoon = buenas tardes.\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W13-review-unit1-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W13-review-unit1-001-MASTERY-v2",
-      "statement": "What is this? It is ___.",
-      "context": "In Medellín, review objects.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "a book",
-          "is_correct": true,
-          "feedback": "Correcto. Book = libro."
-        },
-        {
-          "letter": "B",
-          "text": "a pencil",
-          "is_correct": false,
-          "feedback": "Incorrecto. Pencil = lápiz."
-        },
-        {
-          "letter": "C",
-          "text": "a ruler",
-          "is_correct": false,
-          "feedback": "Incorrecto. Ruler = regla."
-        },
-        {
-          "letter": "D",
-          "text": "a notebook",
-          "is_correct": false,
-          "feedback": "Incorrecto. Notebook = cuaderno."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "School objects: book, pencil, ruler, notebook, eraser, sharpener.\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W13-review-unit1-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W13-review-unit1-001-MASTERY-v3",
-      "statement": "How many letters in the English alphabet?",
-      "context": "In Cali, review alphabet.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "26",
-          "is_correct": true,
-          "feedback": "Correcto. 26 letras."
-        },
-        {
-          "letter": "B",
-          "text": "27",
-          "is_correct": false,
-          "feedback": "Incorrecto. 27 incluye Ñ del español."
-        },
-        {
-          "letter": "C",
-          "text": "25",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "24",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "English alphabet: 26 letters (A-Z). Spanish: 27 (includes Ñ).\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W13-review-unit1-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W13-review-unit1-001-MASTERY-v4",
-      "statement": "\"Eleven + seven = ___\"",
-      "context": "In Barranquilla, review numbers.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "seventeen",
-          "is_correct": false,
-          "feedback": "Incorrecto. 11+7=18."
-        },
-        {
-          "letter": "B",
-          "text": "eighteen",
-          "is_correct": true,
-          "feedback": "Correcto. 18 = eighteen."
-        },
-        {
-          "letter": "C",
-          "text": "nineteen",
-          "is_correct": false,
-          "feedback": "Incorrecto. 11+7=18."
-        },
-        {
-          "letter": "D",
-          "text": "sixteen",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "11 (eleven) + 7 (seven) = 18 (eighteen).\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W13-review-unit1-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W13-review-unit1-001-MASTERY-v5",
-      "statement": "What is the opposite of black?",
-      "context": "In Bucaramanga, review colors.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "White",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "Blue",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "Red",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "Green",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Opposite colors: black ↔ white (negro ↔ blanco).\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W13-review-unit1-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W13-review-unit1-001-MASTERY-v6",
-      "statement": "What does the teacher say to ask for silence?",
-      "context": "In Cartagena, review commands.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Be quiet, please.",
-          "is_correct": true,
-          "feedback": "Correcto. \"Be quiet\" = guarden silencio."
-        },
-        {
-          "letter": "B",
-          "text": "Open the door.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "Sit down.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sit down = siéntense."
-        },
-        {
-          "letter": "D",
-          "text": "Stand up.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Stand up = levántense."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "\"Be quiet\" = cállense/guarden silencio. Please = por favor.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W13-review-unit1-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W13-review-unit1-001-MASTERY-v7",
-      "statement": "\"Hi, I ___ Camila.\"",
-      "context": "In Pereira, review introductions.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correcto. I am."
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrecto. Is con he/she/it."
-        },
-        {
-          "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "Incorrecto. Are con you/we/they."
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": "Incorrecto. Be es infinitivo."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "To be: I am, you are, he/she/it is. \"I am Camila.\"\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W13-review-unit1-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W13-review-unit1-001-MASTERY-v8",
-      "statement": "\"I have ___ eraser.\"",
-      "context": "In Manizales, review articles.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "a",
-          "is_correct": false,
-          "feedback": "Incorrecto. Eraser empieza con vocal."
-        },
-        {
-          "letter": "B",
-          "text": "an",
-          "is_correct": true,
-          "feedback": "Correcto. An + sonido vocal."
-        },
-        {
-          "letter": "C",
-          "text": "the",
-          "is_correct": false,
-          "feedback": "Posible pero no es primera mención."
-        },
-        {
-          "letter": "D",
-          "text": "some",
-          "is_correct": false,
-          "feedback": "Incorrecto. Some para plural."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "An + vocal: an eraser, an apple, an English book. A + consonante: a pencil, a book.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W13-review-unit1-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W13-review-unit1-001-MASTERY-v9",
-      "statement": "Which sentence is CORRECT?",
-      "context": "In Cúcuta, correct mistakes.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "I is from Colombia.",
-          "is_correct": false,
-          "feedback": "Incorrecto. I am."
-        },
-        {
-          "letter": "B",
-          "text": "She are my friend.",
-          "is_correct": false,
-          "feedback": "Incorrecto. She is."
-        },
-        {
-          "letter": "C",
-          "text": "They are students.",
-          "is_correct": true,
-          "feedback": "Correcto. They are."
-        },
-        {
-          "letter": "D",
-          "text": "We is in class.",
-          "is_correct": false,
-          "feedback": "Incorrecto. We are."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Conjugación: I am, you are, he/she/it is, we are, they are.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W13-review-unit1-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W13-review-unit1-001-MASTERY-v10",
-      "statement": "Order: \"name / is / My / Carlos\"",
-      "context": "In Ibagué, word order.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "My name is Carlos.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "Name my is Carlos.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Posesivo va antes."
-        },
-        {
-          "letter": "C",
-          "text": "Carlos is my name.",
-          "is_correct": true,
-          "feedback": "También correcto pero menos común."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Orden: My + name + is + name. \"My name is Carlos.\"\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W13-review-unit1-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

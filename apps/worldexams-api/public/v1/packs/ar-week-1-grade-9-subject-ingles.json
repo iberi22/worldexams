@@ -1,0 +1,527 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "ar",
+    "pack_id": "ar-week-1-grade-9-subject-ingles",
+    "generated_at": "2026-06-22T23:30:13.786Z"
+  },
+  "questions": [
+    {
+      "id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v1",
+      "statement": "Choose the correct form of the verb to complete the sentence: \"Every morning, I _______ my breakfast at 7:30 AM.\"",
+      "context": "Martina vive en Buenos Aires y describe su rutina diaria a un amigo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "eating",
+          "is_correct": false,
+          "feedback": "Esta opción usa el gerundio, que requiere un verbo auxiliar (como 'am') y no se usa para rutinas generales en presente simple."
+        },
+        {
+          "letter": "B",
+          "text": "eat",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usamos el presente simple en infinitivo (sin 's') para la primera persona del singular (I) al hablar de rutinas."
+        },
+        {
+          "letter": "C",
+          "text": "eats",
+          "is_correct": false,
+          "feedback": "Esta forma se usa para la tercera persona del singular (he, she, it), no para 'I'."
+        },
+        {
+          "letter": "D",
+          "text": "ate",
+          "is_correct": false,
+          "feedback": "Este es el pasado simple del verbo 'eat', pero la oración describe una rutina presente (\"Every morning\")."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para expresar rutinas y hábitos en presente simple con el pronombre \"I\", debés usar la forma base del verbo. En este caso, \"eat\" es la opción correcta porque Martina está describiendo algo que hace todos los días en la Ciudad de Buenos Aires.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lengua Extranjera - Inglés",
+      "expected_success": 0.85,
+      "bundle_id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v2",
+      "statement": "Complete the sentence using the Present Continuous: \"Wait a second, Facundo can't talk right now. He _______ a shower.\"",
+      "context": "Facundo está en Córdoba y está hablando por teléfono sobre lo que está haciendo en este preciso momento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has",
+          "is_correct": false,
+          "feedback": "El presente simple indica hábito, pero la frase \"right now\" requiere una acción en progreso."
+        },
+        {
+          "letter": "B",
+          "text": "having",
+          "is_correct": false,
+          "feedback": "Falta el verbo auxiliar 'is' para formar el presente continuo correctamente."
+        },
+        {
+          "letter": "C",
+          "text": "is having",
+          "is_correct": true,
+          "feedback": "¡Excelente! El presente continuo se forma con 'is' + verbo con '-ing' para acciones que ocurren en el momento."
+        },
+        {
+          "letter": "D",
+          "text": "are having",
+          "is_correct": false,
+          "feedback": "'Are' se usa con you, we y they, pero no con 'he'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando querés describir una acción que está pasando justo ahora (como Facundo bañándose), tenés que usar el presente continuo. Recordá que la estructura es: Sujeto + am/is/are + verbo con -ing. Como el sujeto es \"He\", corresponde usar \"is having\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lengua Extranjera - Inglés",
+      "expected_success": 0.8,
+      "bundle_id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v3",
+      "statement": "Which sentence is grammatically correct for a permanent truth or a natural fact?",
+      "context": "Un grupo de turistas visita las Cataratas del Iguazú y observa el clima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The water is falling very fast today.",
+          "is_correct": false,
+          "feedback": "Aunque es gramaticalmente correcta, describe una situación específica de hoy, no necesariamente una verdad permanente."
+        },
+        {
+          "letter": "B",
+          "text": "Iguazu Falls attracts thousands of tourists every year.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! El presente simple se usa para hechos permanentes o verdades generales."
+        },
+        {
+          "letter": "C",
+          "text": "The sun is shining in Misiones every day.",
+          "is_correct": false,
+          "feedback": "El presente continuo no se usa para acciones que ocurren \"todos los días\" como una regla general."
+        },
+        {
+          "letter": "D",
+          "text": "Tourists visiting the park right now.",
+          "is_correct": false,
+          "feedback": "A esta oración le falta el verbo auxiliar 'are' para ser un presente continuo correcto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El presente simple es el tiempo verbal que usamos para hablar de hechos que no cambian o situaciones permanentes. En este ejemplo, el hecho de que las Cataratas atraen turistas es una constante, por lo que usamos \"attracts\" (con 's' porque Iguazu Falls funciona como un sujeto singular en este contexto de lugar).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lengua Extranjera - Inglés",
+      "expected_success": 0.75,
+      "bundle_id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v4",
+      "statement": "Complete the text with the correct tenses: \"Normally, I _______ (study) at the university, but this week I _______ (visit) some vineyards in Mendoza.\"",
+      "context": "Lucía está comparando sus actividades habituales con lo que está haciendo hoy por las vacaciones en Mendoza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "study / visit",
+          "is_correct": false,
+          "feedback": "La segunda parte de la oración describe una situación temporal (\"this week\"), por lo que requiere presente continuo."
+        },
+        {
+          "letter": "B",
+          "text": "am studying / am visiting",
+          "is_correct": false,
+          "feedback": "La primera parte describe una rutina normal, por lo que debería estar en presente simple."
+        },
+        {
+          "letter": "C",
+          "text": "study / am visiting",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usás presente simple para lo habitual (\"normally\") y presente continuo para lo temporal (\"this week\")."
+        },
+        {
+          "letter": "D",
+          "text": "studying / visiting",
+          "is_correct": false,
+          "feedback": "Faltan los verbos auxiliares necesarios para formar los tiempos correctamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En inglés, es fundamental distinguir entre lo que hacés siempre (rutina) y lo que estás haciendo por un tiempo limitado. Lucía usa el presente simple (\"study\") para su vida normal y el presente continuo (\"am visiting\") para su viaje actual a Mendoza.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lengua Extranjera - Inglés",
+      "expected_success": 0.7,
+      "bundle_id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v5",
+      "statement": "In sports commentaries, we often use the Present Simple for quick actions. Choose the correct option: \"Messi _______ the ball, _______ the defender, and scores!\"",
+      "context": "Un periodista deportivo está relatando un partido de fútbol en el Monumental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is taking / is passing",
+          "is_correct": false,
+          "feedback": "El presente continuo haría que el relato suene muy lento para una acción rápida de fútbol."
+        },
+        {
+          "letter": "B",
+          "text": "takes / passes",
+          "is_correct": true,
+          "feedback": "¡Exacto! El presente simple se usa en relatos deportivos para dar dinamismo a las acciones sucesivas."
+        },
+        {
+          "letter": "C",
+          "text": "take / pass",
+          "is_correct": false,
+          "feedback": "Falta la 's' de la tercera persona del singular para el sujeto 'Messi'."
+        },
+        {
+          "letter": "D",
+          "text": "taking / passing",
+          "is_correct": false,
+          "feedback": "Estas formas solas no funcionan como verbos principales conjugados en la oración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando relatás un partido, como uno en la cancha de River, usás el presente simple para las acciones rápidas que se suceden una tras otra. Acordate de agregar la \"s\" porque el sujeto es Messi (él).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lengua Extranjera - Inglés",
+      "expected_success": 0.65,
+      "bundle_id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v6",
+      "statement": "Which question is correctly formed to ask about an action happening now?",
+      "context": "Martina le pregunta a su hermano sobre sus planes inmediatos mientras están en Rosario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do you listen to music now?",
+          "is_correct": false,
+          "feedback": "\"Do you listen\" se usa para hábitos, no para preguntar qué está haciendo alguien en este momento."
+        },
+        {
+          "letter": "B",
+          "text": "Are you listen to music?",
+          "is_correct": false,
+          "feedback": "En el presente continuo, el verbo principal debe terminar en -ing."
+        },
+        {
+          "letter": "C",
+          "text": "Are you listening to music?",
+          "is_correct": true,
+          "feedback": "¡Perfecto! La estructura para preguntas en presente continuo es: Am/Is/Are + sujeto + verbo-ing?"
+        },
+        {
+          "letter": "D",
+          "text": "Is you listening to music?",
+          "is_correct": false,
+          "feedback": "El auxiliar 'Is' no concuerda con el pronombre 'you'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para preguntarle a alguien qué está haciendo en el momento, tenés que usar la inversión del verbo \"to be\" y el gerundio (-ing). Si estás en Rosario y querés saber qué hace tu amigo, la forma correcta es \"Are you listening...?\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lengua Extranjera - Inglés",
+      "expected_success": 0.6,
+      "bundle_id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v7",
+      "statement": "Some verbs are usually NOT used in the continuous form. Choose the correct sentence:",
+      "context": "Un estudiante analiza el uso de verbos estáticos (stative verbs) en una descripción de La Plata.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am knowing the history of La Plata very well.",
+          "is_correct": false,
+          "feedback": "El verbo 'know' es estático; describe un estado mental y no suele usarse en continuo."
+        },
+        {
+          "letter": "B",
+          "text": "I know the history of La Plata very well.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Los verbos de pensamiento o estado como 'know' se usan preferentemente en presente simple."
+        },
+        {
+          "letter": "C",
+          "text": "I am having a big house in the city center. (meaning possession)",
+          "is_correct": false,
+          "feedback": "Cuando 'have' significa poseer, no se usa en la forma continua."
+        },
+        {
+          "letter": "D",
+          "text": "This coffee is tasting great.",
+          "is_correct": false,
+          "feedback": "Aunque se escucha a veces, 'taste' como percepción de estado suele ir en presente simple: \"tastes great\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Hay verbos que expresan estados, no acciones físicas, como \"know\", \"love\" o \"understand\". Estos verbos casi nunca llevan -ing. Por eso, aunque estés pensando en algo ahora, decís \"I know\" y no \"I am knowing\".\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lengua Extranjera - Inglés",
+      "expected_success": 0.55,
+      "bundle_id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v8",
+      "statement": "The Present Simple can be used for future events that are part of a timetable. Which sentence reflects this?",
+      "context": "Dos amigos discuten sobre el uso del presente para hablar del futuro cercano (horarios programados).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am going to the cinema tomorrow.",
+          "is_correct": false,
+          "feedback": "Esto es una intención o plan personal, no un horario fijo oficial."
+        },
+        {
+          "letter": "B",
+          "text": "The bus to Mar del Plata leaves at 10 PM tonight.",
+          "is_correct": true,
+          "feedback": "¡Exacto! Usamos el presente simple para transportes o eventos con horarios fijos, incluso si son en el futuro."
+        },
+        {
+          "letter": "C",
+          "text": "I will leave for Mar del Plata later.",
+          "is_correct": false,
+          "feedback": "Esto es una decisión espontánea o predicción usando 'will', no el uso del presente simple para horarios."
+        },
+        {
+          "letter": "D",
+          "text": "The bus is leaving right now.",
+          "is_correct": false,
+          "feedback": "Esto describe la acción que está pasando en este instante, no un horario programado a futuro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Fijate que a veces el presente simple se \"disfraza\" de futuro. Si estás en Retiro esperando un micro, podés decir \"The bus leaves at...\" porque es un horario oficial del transporte. Es una regla muy común para trenes, aviones y micros en Argentina.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lengua Extranjera - Inglés",
+      "expected_success": 0.5,
+      "bundle_id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v9",
+      "statement": "What is the difference between these two sentences?\n1. I think Bariloche is beautiful.\n2. I am thinking about moving to Bariloche.",
+      "context": "Analizando la diferencia de significado del verbo \"think\" según el tiempo verbal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "There is no difference; both are about the present.",
+          "is_correct": false,
+          "feedback": "Sí hay diferencia; el tiempo verbal cambia el sentido del verbo 'think'."
+        },
+        {
+          "letter": "B",
+          "text": "Sentence 1 is an opinion (state); sentence 2 is a mental process (action).",
+          "is_correct": true,
+          "feedback": "¡Excelente análisis! 'Think' como opinión es estático, como proceso mental es una acción."
+        },
+        {
+          "letter": "C",
+          "text": "Sentence 1 is a habit; sentence 2 is a permanent truth.",
+          "is_correct": false,
+          "feedback": "Ninguna de las dos describe un hábito o una verdad universal en ese sentido."
+        },
+        {
+          "letter": "D",
+          "text": "Sentence 1 is incorrect because 'think' should always be in continuous.",
+          "is_correct": false,
+          "feedback": "Al contrario, 'think' como opinión suele ser simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El verbo \"think\" es especial. Si lo usás para dar tu opinión (lo que creés), va en presente simple (\"I think\"). Pero si hablás de que estás procesando una idea en tu cabeza en este momento, podés usar el continuo (\"I am thinking\"). ¡Ojo con esa distinción!\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lengua Extranjera - Inglés",
+      "expected_success": 0.45,
+      "bundle_id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v10",
+      "statement": "Evaluate the use of \"always\" in this sentence: \"You are always losing your SUBE card!\" What does the speaker want to express?",
+      "context": "Un debate sobre el uso del Present Continuous para expresar molestia con adverbios como \"always\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A regular habit that happens every day.",
+          "is_correct": false,
+          "feedback": "Si fuera un hábito neutral, se usaría presente simple: \"You always lose...\"."
+        },
+        {
+          "letter": "B",
+          "text": "Annoyance or irritation about a repeated action.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El presente continuo con 'always' se usa para quejarse de algo que pasa con demasiada frecuencia."
+        },
+        {
+          "letter": "C",
+          "text": "A scheduled event in the future.",
+          "is_correct": false,
+          "feedback": "No tiene nada que ver con horarios o calendarios."
+        },
+        {
+          "letter": "D",
+          "text": "A compliment about the person's memory.",
+          "is_correct": false,
+          "feedback": "Claramente es una crítica por perder la tarjeta de transporte."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque \"always\" suele ir con el presente simple, cuando lo combinás con el presente continuo (\"You are always...\"), estás expresando que algo te irrita o te molesta. Es como decir: \"¡Che, siempre estás perdiendo la SUBE!\".\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lengua Extranjera - Inglés",
+      "expected_success": 0.4,
+      "bundle_id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v11",
+      "statement": "Find the error in this paragraph: \"The tourism industry in Salta grows every year. Currently, more and more people are visit the Northwest.\"",
+      "context": "Revisión de un texto sobre la economía regional en Salta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "'grows' should be 'is growing' because it's happening now.",
+          "is_correct": false,
+          "feedback": "'Grows' es correcto para una tendencia anual general."
+        },
+        {
+          "letter": "B",
+          "text": "'are visit' should be 'are visiting'.",
+          "is_correct": true,
+          "feedback": "¡Exacto! El presente continuo para tendencias actuales requiere el gerundio (-ing)."
+        },
+        {
+          "letter": "C",
+          "text": "'every year' cannot be used with the Present Simple.",
+          "is_correct": false,
+          "feedback": "Al revés, es una de las expresiones de tiempo más comunes para el presente simple."
+        },
+        {
+          "letter": "D",
+          "text": "There are no errors in the paragraph.",
+          "is_correct": false,
+          "feedback": "El error gramatical en 'are visit' es claro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando describís tendencias que están cambiando (como el aumento de turistas en Salta), usás el presente continuo. El error acá es que faltó el \"-ing\" en el verbo principal después del \"are\". Debe ser \"are visiting\".\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lengua Extranjera - Inglés",
+      "expected_success": 0.35,
+      "bundle_id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v12",
+      "statement": "In many novels, authors use the \"Narrative Present\" to describe past events as if they were happening now. Why would an author choose this?",
+      "context": "Un análisis literario de una novela que usa el \"presente narrativo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because they forgot the past tense rules.",
+          "is_correct": false,
+          "feedback": "Es una elección estilística deliberada, no un error gramatical."
+        },
+        {
+          "letter": "B",
+          "text": "To make the story feel distant and old.",
+          "is_correct": false,
+          "feedback": "El presente suele acercar la acción al lector, no alejarla."
+        },
+        {
+          "letter": "C",
+          "text": "To create a sense of immediacy and make the reader feel part of the scene.",
+          "is_correct": true,
+          "feedback": "¡Excelente! El presente narrativo hace que la historia se sienta más viva y urgente."
+        },
+        {
+          "letter": "D",
+          "text": "Because English doesn't have enough past tenses.",
+          "is_correct": false,
+          "feedback": "El inglés tiene muchos tiempos de pasado; el presente se usa por estilo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A veces, en los libros o cuando contás un chiste o una anécdota, usás el presente para que parezca que está pasando ahora mismo. \"Then, the man walks into the room...\". Esto se llama presente narrativo y sirve para que el que escucha o lee se sienta más metido en la historia.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Score |\n|-----------|-------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lengua Extranjera - Inglés",
+      "expected_success": 0.3,
+      "bundle_id": "AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

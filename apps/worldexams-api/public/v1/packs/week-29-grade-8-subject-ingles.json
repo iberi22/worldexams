@@ -8,520 +8,556 @@
   },
   "questions": [
     {
-      "id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-v1",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v1",
+      "statement": "The movie was ________ interesting that I watched it twice.",
+      "context": "Using \"so\" with an adjective.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "so",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct! We use \"so\" before an adjective."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
+          "text": "such",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. \"Such\" needs a noun."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "very",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. \"Very\" doesn't connect with \"that\" to show consequence."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "too",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "Usamos \"so\" antes de un adjetivo o adverbio para enfatizar una cualidad que produce un resultado (expresado con \"that\").\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-v2",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v2",
+      "statement": "It was ________ a beautiful day that we decided to go for a picnic.",
+      "context": "Using \"such\" with a noun phrase.",
       "options": [
         {
           "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
+          "text": "so",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
+          "text": "such",
+          "is_correct": true,
+          "feedback": "Correct! We use \"such\" before \"a/an + adjective + noun\"."
         },
         {
           "letter": "C",
-          "text": "Expensive",
+          "text": "very",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "Temporary",
+          "text": "quite",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Such\" se utiliza antes de un grupo nominal (adjetivo + sustantivo). Si el sustantivo es singular y contable, incluimos \"a\" o \"an\" (such a beautiful day).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v3",
+      "statement": "The athlete ran ________ fast that he broke the world record.",
+      "context": "So + adverb.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "so",
+          "is_correct": true,
+          "feedback": "Correct! \"So\" can also modify adverbs."
+        },
+        {
+          "letter": "B",
+          "text": "such",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "too",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "such a",
+          "is_correct": false,
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "Al igual que con los adjetivos, usamos \"so\" antes de los adverbios para mostrar que la intensidad de la acción tuvo una consecuencia.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-v3",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v4",
+      "statement": "They are ________ nice people that everyone wants to be their friend.",
+      "context": "Such with plural nouns.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "so",
+          "is_correct": false,
+          "feedback": "Incorrect. \"People\" is a noun."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
+          "text": "such",
+          "is_correct": true,
+          "feedback": "Correct! For plural nouns, we use \"such\" without \"a/an\"."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "such a",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. \"People\" is plural."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "very",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "Con sustantivos en plural o incontables, usamos simplemente \"such + adjetivo + sustantivo\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v5",
+      "statement": "Complete the sentence: \"The book was so boring ________.\"",
+      "context": "Identifying the consequence clause.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "because I didn't finish it.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "that I fell asleep while reading it.",
+          "is_correct": true,
+          "feedback": "Correct! \"That\" introduces the consequence of being so boring."
+        },
+        {
+          "letter": "C",
+          "text": "but I liked the cover.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "than the other one.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura \"so... that\" siempre requiere una cláusula de consecuencia iniciada por \"that\" (aunque a veces \"that\" se puede omitir en el habla informal).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v6",
+      "statement": "It is ________ a hot afternoon in Barranquilla ________ you need to drink a lot of water.",
+      "context": "Weather in Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "so / that",
+          "is_correct": false,
+          "feedback": "Incorrect. Need \"such\" for \"a hot afternoon\"."
+        },
+        {
+          "letter": "B",
+          "text": "such / that",
+          "is_correct": true,
+          "feedback": "Correct! Such + a + adj + noun ... that."
+        },
+        {
+          "letter": "C",
+          "text": "so / because",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "such / so",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso de \"such a\" es esencial para dar énfasis a descripciones de situaciones climáticas extremas y sus consecuencias.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-v4",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v7",
+      "statement": "Which sentence has the same meaning as \"The exam was so long that I couldn't finish it\"?",
+      "context": "Changing \"so\" to \"such\".",
       "options": [
         {
           "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
+          "text": "It was so a long exam that I couldn't finish it.",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
         },
         {
           "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
+          "text": "It was such a long exam that I couldn't finish it.",
+          "is_correct": true,
+          "feedback": "Correct! Grammatically equivalent."
         },
         {
           "letter": "C",
-          "text": "am",
+          "text": "It was very long exam that I couldn't finish it.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "Such exam was long that I couldn't finish it.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "El estudiante debe ser capaz de transformar una estructura de \"so + adjetivo\" a \"such a + adjetivo + sustantivo\" manteniendo el mismo significado.\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-v5",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v8",
+      "statement": "\"It was **such a shock** to see him there.\"\r\nWhat is the purpose of \"such\" in this sentence?",
+      "context": "Understanding emphasis.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
+          "text": "To compare two shocks.",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
+          "text": "To emphasize the intensity of the feeling.",
+          "is_correct": true,
+          "feedback": "Correct! \"So\" and \"Such\" are powerful tools for emphasis."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "To show the cause of the shock.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "To ask a question.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Más allá de la consecuencia, \"so\" y \"such\" se usan frecuentemente en exclamaciones o para dar énfasis emocional a una declaración.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v9",
+      "statement": "There were ________ many people at the concert that we couldn't see the stage.",
+      "context": "So much / So many.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "such",
+          "is_correct": false,
+          "feedback": "Incorrect. With \"many\" or \"much\", we always use \"so\"."
+        },
+        {
+          "letter": "B",
+          "text": "so",
+          "is_correct": true,
+          "feedback": "Correct! \"So many\" / \"So much\" are the standard expressions for quantity."
+        },
+        {
+          "letter": "C",
+          "text": "very",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "such a",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque \"people\" es un sustantivo, cuando va precedido de cuantificadores como \"many\", \"much\", \"few\" o \"little\", debemos usar \"so\" en lugar de \"such\".\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v10",
+      "statement": "Identify the error:\r\n\"He is **so (A)** a **good (B)** student **that (C)** he **always (D)** gets a scholarship.\"",
+      "context": "Identifying errors in emphasis structures.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "so",
+          "is_correct": true,
+          "feedback": "Correct! Error found. Because there is a noun phrase \"a good student\", we must use \"such\"."
+        },
+        {
+          "letter": "B",
+          "text": "good",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "always",
+          "is_correct": false,
+          "feedback": "Incorrect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "4",
+      "explanation": "Uno de los errores más persistentes en B1 es usar \"so\" antes de un sustantivo con adjetivo. Recordamos: So + Adj, pero Such + (a/an) + Adj + Noun.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-v6",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v11",
+      "statement": "Which sentence makes a story's ending more dramatic?",
+      "context": "Evaluating the impact of a story's climax.",
       "options": [
         {
           "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
+          "text": "The ending was very surprising.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too plain."
         },
         {
           "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
+          "text": "It was such a surprising ending that everyone in the cinema gasped.",
+          "is_correct": true,
+          "feedback": "Correct! Combines high emphasis with a clear, dramatic consequence."
         },
         {
           "letter": "C",
-          "text": "where",
+          "text": "The ending was so surprise.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect grammar."
         },
         {
           "letter": "D",
-          "text": "whose",
+          "text": "Because the ending was such surprising, we liked it.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect grammar."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "El uso de \"such... that\" permite al escritor conectar la intensidad de una escena con la reacción física o emocional de los personajes, mejorando la calidad narrativa.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-v7",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-v12",
+      "statement": "\"The noise from the construction site was constant and extremely loud. As a result, the neighbors were unable to sleep or concentrate during the entire day.\"\r\nChoose the most effective summary using \"so\" or \"such\":",
+      "context": "Selecting the best summary of cause and effect.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
+          "text": "The construction was so loud that the neighbors couldn't sleep or concentrate.",
           "is_correct": true,
-          "feedback": "3rd person -s"
+          "feedback": "Correct! It summarizes the cause and the two effects accurately using \"so... that\"."
         },
         {
           "letter": "B",
-          "text": "go",
+          "text": "It was very loud construction and the neighbors were sad.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Does not show the consequence link clearly."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "The neighbors didn't sleep because the construction was such a noise.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect grammar."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "Such a loud noise made the neighbors sleep so much.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Contradicts the text."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "5",
+      "explanation": "Sintetizar relaciones de causa y efecto requiere el uso preciso de \"so... that\" para integrar los hechos de manera coherente y compacta.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W29-so-such-that-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-v8",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "is writing",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "has written",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-v9",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-v10",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-v11",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-v12",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "are",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-8-2026-W29-presentation-environment-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     }
   ]
 }

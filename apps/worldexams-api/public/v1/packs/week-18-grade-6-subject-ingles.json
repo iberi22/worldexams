@@ -8,844 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-v1",
-      "statement": "What tenses in zero conditional?",
-      "context": "At Colegio San José de Barranquilla, teacher introduces conditionals.",
+      "id": "CO-ING-6-2026-W18-furniture-001-v1",
+      "statement": "This is a review question about furniture.",
+      "context": "Scenario about furniture in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "present simple + will + verb",
-          "is_correct": false,
-          "feedback": "First conditional."
+          "text": "Option A (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "present simple + present simple",
-          "is_correct": true,
-          "feedback": "Correcto. Zero = verdades universales."
+          "text": "Option B",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "past simple + would + verb",
+          "text": "Option C",
           "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "past perfect + would have",
+          "text": "Option D",
           "is_correct": false,
-          "feedback": "Third conditional."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Zero conditional: If + present simple, present simple. \"If you heat ice, it melts.\"\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to remember the topic of Furniture and Appliances at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W18-furniture-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-v2",
-      "statement": "Structure of first conditional?",
-      "context": "In I.E. La Salle de Cartagena, first conditional structure.",
+      "id": "CO-ING-6-2026-W18-furniture-002-v1",
+      "statement": "Select the correct A2 level use for furniture.",
+      "context": "Scenario about furniture in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "If + present simple, present simple",
+          "text": "Structure 4",
           "is_correct": false,
-          "feedback": "Zero."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If + present simple, will + base verb",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Structure 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "If + past simple, would + verb",
-          "is_correct": false,
-          "feedback": "Second conditional."
-        },
-        {
-          "letter": "D",
-          "text": "If + will + verb, present simple",
-          "is_correct": false,
-          "feedback": "Will no va en cláusula if."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "First: if + presente simple, will + base verb. \"If it rains, I will stay home.\"\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-v3",
-      "statement": "Complete: \"If you heat water to 100°C, it boils.\"",
-      "context": "At Colegio INEM de Medellín, zero conditional practice.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "will heat / will boil",
-          "is_correct": false,
-          "feedback": "No will in zero."
-        },
-        {
-          "letter": "B",
-          "text": "heat / boils",
+          "text": "Structure 1 (Correct)",
           "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "heated / boiled",
-          "is_correct": false,
-          "feedback": "Past tense."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "are heating / is boiling",
+          "text": "Structure 2",
           "is_correct": false,
-          "feedback": "Continuous."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Hecho científico con zero conditional.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-v4",
-      "statement": "Complete: \"If she studies, she will pass the exam.\"",
-      "context": "In I.E. María Inmaculada de Cartagena, first conditional practice.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "will study / passes",
-          "is_correct": false,
-          "feedback": "Will en cláusula if."
-        },
-        {
-          "letter": "B",
-          "text": "studies / passes",
-          "is_correct": false,
-          "feedback": "Zero, no aplica."
-        },
-        {
-          "letter": "C",
-          "text": "studies / will pass",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "D",
-          "text": "studied / would pass",
-          "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "\"If she studies, she will pass\" = Si estudia, pasará.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of Furniture and Appliances at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W18-furniture-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-v5",
-      "statement": "Correct first conditional about visiting Museo del Oro:",
-      "context": "Students at Colegio Fontán de Cartagena write conditionals.",
+      "id": "CO-ING-6-2026-W18-furniture-003-v1",
+      "statement": "Identify the appropriate vocabulary for furniture.",
+      "context": "Scenario about furniture in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "If you will visit, you see history.",
-          "is_correct": false,
-          "feedback": "Will en if."
+          "text": "Word 1 (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "If you visit, you will learn a lot.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Word 4",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "If you visited, you would learn.",
+          "text": "Word 2",
           "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "If you visit, you learned.",
+          "text": "Word 3",
           "is_correct": false,
-          "feedback": "Past simple al final."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "First conditional: if + present, will + base verb.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to understand the topic of Furniture and Appliances at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W18-furniture-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-v6",
-      "statement": "What does \"unless\" mean? \"Unless you study, you will fail.\"",
-      "context": "At Colegio Cambridge de Villavicencio, unless practice.",
+      "id": "CO-ING-6-2026-W18-furniture-004-v1",
+      "statement": "Complete the sentence about furniture.",
+      "context": "Scenario about furniture in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Even if",
+          "text": "Phrase B",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If not",
-          "is_correct": true,
-          "feedback": "Correcto. Unless = if not."
+          "text": "Phrase C",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Because",
-          "is_correct": false,
-          "feedback": "No."
+          "text": "Phrase A (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "After",
+          "text": "Phrase D",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "\"Unless\" = \"if not\" (a menos que). \"Unless you study\" = \"If you don't study.\"\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to understand the topic of Furniture and Appliances at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W18-furniture-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W18-furniture-005-v1",
+      "statement": "What is the best way to express furniture?",
+      "context": "Scenario about furniture in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "This way (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "Incorrect way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Other way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "That way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to apply the topic of Furniture and Appliances at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W18-furniture-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-v7",
-      "statement": "Zero vs First conditional difference?",
-      "context": "In Colegio San José de Villavicencio, compare conditionals.",
+      "id": "CO-ING-6-2026-W18-furniture-006-v1",
+      "statement": "Find the error in this furniture sentence.",
+      "context": "Scenario about furniture in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Zero uses will.",
+          "text": "No error",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "Zero = always true. First = possible future.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Wrong error",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Same thing.",
+          "text": "Different error",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Zero is for past.",
-          "is_correct": false,
-          "feedback": "No."
+          "text": "The error is here (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Zero: verdades universales. First: posibilidades futuras reales.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to apply the topic of Furniture and Appliances at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W18-furniture-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-v8",
-      "statement": "Which sentence has an error?",
-      "context": "At Gimnasio Los Pinares de Manizales, find error.",
+      "id": "CO-ING-6-2026-W18-furniture-007-v1",
+      "statement": "Match the term with the definition of furniture.",
+      "context": "Scenario about furniture in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "If it rains, I will take an umbrella.",
+          "text": "Opposite",
           "is_correct": false,
-          "feedback": "Correcto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If you heat water, it boils.",
+          "text": "Non-matching",
           "is_correct": false,
-          "feedback": "Correcto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "If she will come, she will visit.",
+          "text": "Matching term (Correct)",
           "is_correct": true,
-          "feedback": "Will en cláusula if."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "If you don't eat, you get hungry.",
+          "text": "Irrelevant",
           "is_correct": false,
-          "feedback": "Correcto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Error: \"will\" en la cláusula if. CORRECTO: \"If she comes, she will visit.\"\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to apply the topic of Furniture and Appliances at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W18-furniture-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W18-furniture-008-v1",
+      "statement": "Choose the synonym for a word related to furniture.",
+      "context": "Scenario about furniture in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "Homonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Synonym (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "D",
+          "text": "Unrelated",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Furniture and Appliances at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W18-furniture-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-v9",
-      "statement": "\"If you eat too much sugar, you have problems.\" Type?",
-      "context": "In Colegio Tolimense de Barranquilla, identify type.",
+      "id": "CO-ING-6-2026-W18-furniture-009-v1",
+      "statement": "Which of these belongs to furniture?",
+      "context": "Scenario about furniture in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Zero conditional",
+          "text": "This one (Correct)",
           "is_correct": true,
-          "feedback": "Correcto. Verdad general."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "First conditional",
+          "text": "Both",
           "is_correct": false,
-          "feedback": "No will."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Second conditional",
+          "text": "Neither",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Third conditional",
+          "text": "Not this one",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Es zero porque expresa una verdad general, no una posibilidad futura.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Furniture and Appliances at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W18-furniture-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-v10",
-      "statement": "Correct first conditional about visiting Ciudad Perdida tomorrow:",
-      "context": "At I.E. María Inmaculada de Santa Marta, create sentence.",
+      "id": "CO-ING-6-2026-W18-furniture-010-v1",
+      "statement": "Predict the next word in the furniture context.",
+      "context": "Scenario about furniture in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "If you visit, you see the views.",
-          "is_correct": false,
-          "feedback": "Zero, not first."
+          "text": "Correct prediction",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "If you visit tomorrow, you will enjoy it.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Wrong prediction",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "If you visited, you would enjoy it.",
+          "text": "Maybe",
           "is_correct": false,
-          "feedback": "Second cond."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "If you will visit, you will enjoy.",
+          "text": "Impossible",
           "is_correct": false,
-          "feedback": "Will en if."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "First conditional: if + present + will + base verb.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Furniture and Appliances at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W18-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W18-furniture-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-v1",
-      "statement": "To say you like something: \"I ___ pizza.\"",
-      "context": "In Bogotá.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "like",
-          "is_correct": true,
-          "feedback": "Correcto. I like = me gusta."
-        },
-        {
-          "letter": "B",
-          "text": "likes",
-          "is_correct": false,
-          "feedback": "Incorrecto. Likes es tercera persona."
-        },
-        {
-          "letter": "C",
-          "text": "liking",
-          "is_correct": false,
-          "feedback": "Incorrecto. Gerundio."
-        },
-        {
-          "letter": "D",
-          "text": "am like",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es correcto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "I like + noun/verb-ing. \"I like pizza.\" \"I like eating pizza.\"\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-v2",
-      "statement": "\"She ___ ice cream.\" (le gusta)",
-      "context": "In Medellín.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "likes",
-          "is_correct": true,
-          "feedback": "Correcto. She likes."
-        },
-        {
-          "letter": "B",
-          "text": "like",
-          "is_correct": false,
-          "feedback": "Incorrecto. Tercera persona → likes."
-        },
-        {
-          "letter": "C",
-          "text": "is like",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Is like\" es ser como."
-        },
-        {
-          "letter": "D",
-          "text": "liking",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Like en tercera persona: he/she/it likes. \"She likes ice cream.\"\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-v3",
-      "statement": "\"I ___ broccoli.\" (no me gusta)",
-      "context": "In Cali, expressing dislike.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "don't like",
-          "is_correct": true,
-          "feedback": "Correcto. Don't like = no gustar."
-        },
-        {
-          "letter": "B",
-          "text": "doesn't like",
-          "is_correct": false,
-          "feedback": "Incorrecto. Doesn't para he/she/it."
-        },
-        {
-          "letter": "C",
-          "text": "no like",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es gramatical."
-        },
-        {
-          "letter": "D",
-          "text": "not like",
-          "is_correct": false,
-          "feedback": "Incorrecto. Necesita auxiliar."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Negative: I/you/we/they + don't like. He/she/it + doesn't like.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-v4",
-      "statement": "\"My brother ___ vegetables.\" (no le gustan)",
-      "context": "In Barranquilla.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "doesn't like",
-          "is_correct": true,
-          "feedback": "Correcto. Brother = he."
-        },
-        {
-          "letter": "B",
-          "text": "don't like",
-          "is_correct": false,
-          "feedback": "Incorrecto. Don't con he no."
-        },
-        {
-          "letter": "C",
-          "text": "isn't like",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "not like",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "\"My brother doesn't like vegetables.\" = A mi hermano no le gustan las verduras.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-v5",
-      "statement": "\"___ you like coffee?\"",
-      "context": "In Bucaramanga, questions.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Do",
-          "is_correct": true,
-          "feedback": "Correcto. Do you like?"
-        },
-        {
-          "letter": "B",
-          "text": "Does",
-          "is_correct": false,
-          "feedback": "Incorrecto. Does con he/she/it."
-        },
-        {
-          "letter": "C",
-          "text": "Are",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "Is",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Questions with like: Do + I/you/we/they + like? Does + he/she/it + like?\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-v6",
-      "statement": "\"Do you like mango?\" \"Yes, I ___.\"",
-      "context": "In Cartagena, answer questions.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "do",
-          "is_correct": true,
-          "feedback": "Correcto. Yes, I do."
-        },
-        {
-          "letter": "B",
-          "text": "like",
-          "is_correct": false,
-          "feedback": "Posible pero \"Yes, I do\" es la respuesta corta."
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "does",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Short answers: Yes, I do. / No, I don't. Yes, she does. / No, she doesn't.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-v7",
-      "statement": "\"I like apples ___ I don't like bananas.\"",
-      "context": "In Pereira, preferences.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "but",
-          "is_correct": true,
-          "feedback": "Correcto. But = pero."
-        },
-        {
-          "letter": "B",
-          "text": "and",
-          "is_correct": false,
-          "feedback": "Incorrecto. And une cosas similares."
-        },
-        {
-          "letter": "C",
-          "text": "or",
-          "is_correct": false,
-          "feedback": "Incorrecto. Or = o."
-        },
-        {
-          "letter": "D",
-          "text": "because",
-          "is_correct": false,
-          "feedback": "Incorrecto. Because = porque."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "But = pero (contraste). And = y (adición). \"I like apples but I don't like bananas.\"\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-v8",
-      "statement": "\"I like ___ soccer.\"",
-      "context": "In Manizales, like + verb-ing.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "playing",
-          "is_correct": true,
-          "feedback": "Correcto. Like + verb-ing."
-        },
-        {
-          "letter": "B",
-          "text": "play",
-          "is_correct": false,
-          "feedback": "Incorrecto. Like play no."
-        },
-        {
-          "letter": "C",
-          "text": "plays",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "played",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Like + verb-ing = disfrutar hacer algo. \"I like playing soccer.\" \"She likes reading books.\"\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-v9",
-      "statement": "\"Ana likes fruit. She doesn't like candy.\" What does Ana like?",
-      "context": "In Cúcuta, read preferences.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Fruit",
-          "is_correct": true,
-          "feedback": "Correcto. Ana likes fruit."
-        },
-        {
-          "letter": "B",
-          "text": "Candy",
-          "is_correct": false,
-          "feedback": "Incorrecto. No le gusta el dulce."
-        },
-        {
-          "letter": "C",
-          "text": "Both",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "Neither",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Reading comprehension: identify what the person likes (fruit) and doesn't like (candy).\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-v10",
-      "statement": "\"Carlos likes pizza. María doesn't like pizza.\" Who likes pizza?",
-      "context": "In Ibagué, compare preferences.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Carlos",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "María",
-          "is_correct": false,
-          "feedback": "Incorrecto. María no le gusta."
-        },
-        {
-          "letter": "C",
-          "text": "Both",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "Neither",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Reading and understanding who likes and who doesn't like something.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W18-like-dont-like-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

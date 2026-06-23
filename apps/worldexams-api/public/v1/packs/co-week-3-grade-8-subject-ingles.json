@@ -1,0 +1,527 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-3-grade-8-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.731Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-v1",
+      "statement": "I think it ________ rain later this afternoon, so take an umbrella.",
+      "context": "Making a prediction about the weather.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will",
+          "is_correct": true,
+          "feedback": "Correct! We use \"will\" for predictions based on opinions or thoughts."
+        },
+        {
+          "letter": "B",
+          "text": "is going to",
+          "is_correct": false,
+          "feedback": "Incorrect. While common, \"will\" is more standard for \"I think\" predictions."
+        },
+        {
+          "letter": "C",
+          "text": "rains",
+          "is_correct": false,
+          "feedback": "Incorrect. This is present tense."
+        },
+        {
+          "letter": "D",
+          "text": "is raining",
+          "is_correct": false,
+          "feedback": "Incorrect. This describes an action happening now."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Usamos \"will\" para hacer predicciones basadas en lo que creemos o pensamos (frecuentemente después de \"I think\").\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-v2",
+      "statement": "We ________ visit the Salt Cathedral in Zipaquirá next Saturday. We already bought the tickets!",
+      "context": "Expressing a prior intention.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Will\" is for spontaneous decisions, not planned ones."
+        },
+        {
+          "letter": "B",
+          "text": "are going to",
+          "is_correct": true,
+          "feedback": "Correct! \"Be going to\" is used for prior plans and intentions."
+        },
+        {
+          "letter": "C",
+          "text": "go to",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the verb \"be\" and \"-ing\"."
+        },
+        {
+          "letter": "D",
+          "text": "went to",
+          "is_correct": false,
+          "feedback": "Incorrect. This is past tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Be going to\" se utiliza para hablar de planes o intenciones que ya han sido decididos antes del momento de hablar.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-v3",
+      "statement": "**A:** \"The phone is ringing!\"\n**B:** \"Don't worry, I ________ answer it.\"",
+      "context": "Spontaneous decision.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will",
+          "is_correct": true,
+          "feedback": "Correct! \"Will\" is used for spontaneous decisions made at the moment of speaking."
+        },
+        {
+          "letter": "B",
+          "text": "am going to",
+          "is_correct": false,
+          "feedback": "Incorrect. This wasn't a prior plan."
+        },
+        {
+          "letter": "C",
+          "text": "am answering",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean you are already doing it."
+        },
+        {
+          "letter": "D",
+          "text": "answer",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple doesn't work for this future offer."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando tomamos una decisión en el mismo momento en que hablamos (decisión espontánea), usamos \"will\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-v4",
+      "statement": "Look at those dark clouds! It ________ rain very soon.",
+      "context": "Predictions based on evidence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "Incorrect. For predictions with physical evidence, \"going to\" is better."
+        },
+        {
+          "letter": "B",
+          "text": "is going to",
+          "is_correct": true,
+          "feedback": "Correct! We use \"going to\" for predictions based on what we can see now."
+        },
+        {
+          "letter": "C",
+          "text": "is raining",
+          "is_correct": false,
+          "feedback": "Incorrect. It hasn't started yet."
+        },
+        {
+          "letter": "D",
+          "text": "will be rain",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically incorrect structure."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando hacemos una predicción basada en evidencia física presente (como ver nubes negras), usamos \"be going to\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-v5",
+      "statement": "I ________ the dentist tomorrow at 4:00 PM. The appointment is confirmed.",
+      "context": "Fixed arrangements in the future.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will see",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a fixed arrangement, not a prediction."
+        },
+        {
+          "letter": "B",
+          "text": "am seeing",
+          "is_correct": true,
+          "feedback": "Correct! Present Continuous is used for fixed social or professional arrangements."
+        },
+        {
+          "letter": "C",
+          "text": "see",
+          "is_correct": false,
+          "feedback": "Incorrect. Present Simple is for schedules (trains, school), not personal appointments."
+        },
+        {
+          "letter": "D",
+          "text": "saw",
+          "is_correct": false,
+          "feedback": "Incorrect. This is past tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Presente Continuo puede usarse para hablar del futuro cuando se trata de citas o compromisos fijos y confirmados (arrangements).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-v6",
+      "statement": "I promise I ________ tell anyone your secret. You can trust me.",
+      "context": "Making a promise.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am not going to",
+          "is_correct": false,
+          "feedback": "Incorrect. For promises, \"will\" is the standard choice."
+        },
+        {
+          "letter": "B",
+          "text": "won't",
+          "is_correct": true,
+          "feedback": "Correct! \"Won't\" (will not) is used for making promises."
+        },
+        {
+          "letter": "C",
+          "text": "don't",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple is not for promises."
+        },
+        {
+          "letter": "D",
+          "text": "am not",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically incomplete."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Will\" (y su forma negativa \"won't\") es la estructura que utilizamos para hacer promesas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-v7",
+      "statement": "Which sentence expresses a **spontaneous offer**?",
+      "context": "Distinguishing nuances of future forms.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am going to help you with that heavy bag.",
+          "is_correct": false,
+          "feedback": "Incorrect. This sounds like a previous intention."
+        },
+        {
+          "letter": "B",
+          "text": "I'll help you with that heavy bag.",
+          "is_correct": true,
+          "feedback": "Correct! \"I'll\" (I will) is used for immediate offers."
+        },
+        {
+          "letter": "C",
+          "text": "I am helping you with that heavy bag.",
+          "is_correct": false,
+          "feedback": "Incorrect. This means you are doing it right now."
+        },
+        {
+          "letter": "D",
+          "text": "I help you with heavy bags every day.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a routine (Simple Present)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para ofrecer ayuda de manera espontánea al ver que alguien lo necesita, usamos \"will\" (comúnmente contraído como 'll).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-v8",
+      "statement": "According to the school calendar, the final exams ________ on June 15th.",
+      "context": "Analyzing a schedule.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will start",
+          "is_correct": false,
+          "feedback": "Incorrect. For official timetables, Present Simple is preferred."
+        },
+        {
+          "letter": "B",
+          "text": "are going to start",
+          "is_correct": false,
+          "feedback": "Incorrect. Less formal than Present Simple for schedules."
+        },
+        {
+          "letter": "C",
+          "text": "start",
+          "is_correct": true,
+          "feedback": "Correct! Present Simple is used for fixed public schedules and calendars."
+        },
+        {
+          "letter": "D",
+          "text": "are starting",
+          "is_correct": false,
+          "feedback": "Incorrect. Present continuous is for personal arrangements."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Utilizamos el Presente Simple para eventos futuros que forman parte de un horario u organización fija (calendarios escolares, transporte, etc.).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-v9",
+      "statement": "I ________ probably ________ home for Christmas this year.",
+      "context": "Future probability with \"probably\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am / going",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Going to\" usually goes before \"probably\" or sounds awkward here."
+        },
+        {
+          "letter": "B",
+          "text": "will / be",
+          "is_correct": true,
+          "feedback": "Correct! \"Will probably\" is the standard way to show future possibility."
+        },
+        {
+          "letter": "C",
+          "text": "am / stay",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "will / staying",
+          "is_correct": false,
+          "feedback": "Incorrect. After \"will\", we need the base form."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para expresar una probabilidad futura, la estructura más común es \"will + probably + base form\".\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-v10",
+      "statement": "Identify the grammatically **incorrect** part of this dialogue:\n**Teacher:** \"What are your plans for the science fair?\"\n**Student:** \"I **am going to (A)** build a robot. My partner **is bringing (B)** the parts tomorrow. I think we **are winning (C)** the first prize because our design **is (D)** unique.\"",
+      "context": "Evaluating correctness in a complex dialogue.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am going to",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a correct expression of intention."
+        },
+        {
+          "letter": "B",
+          "text": "is bringing",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use of Present Continuous for a future arrangement."
+        },
+        {
+          "letter": "C",
+          "text": "are winning",
+          "is_correct": true,
+          "feedback": "Correct! This is an error. For an opinion/prediction, it should be \"will win\"."
+        },
+        {
+          "letter": "D",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple present for a fact about the design."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las predicciones basadas en opiniones personales (\"I think...\") deben usar \"will\", no el Presente Continuo ni \"going to\" (a menos que haya evidencia abrumadora).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-v11",
+      "statement": "You are writing an email to a guest speaker for your school. Which question is most appropriate?",
+      "context": "Formality in future inquiries.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "What will you talk about?",
+          "is_correct": false,
+          "feedback": "Incorrect. A bit too direct/informal."
+        },
+        {
+          "letter": "B",
+          "text": "Could you please confirm if you will be attending the event next month?",
+          "is_correct": true,
+          "feedback": "Correct! Formal, polite, and uses correct future structures."
+        },
+        {
+          "letter": "C",
+          "text": "Are you going to come or not?",
+          "is_correct": false,
+          "feedback": "Incorrect. Very rude/impatient."
+        },
+        {
+          "letter": "D",
+          "text": "You coming to school?",
+          "is_correct": false,
+          "feedback": "Incorrect. Too informal and grammatically incomplete."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el nivel B1, se debe saber elegir estructuras futuras corteses (usando modales como \"could\") para contextos académicos o profesionales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    },
+    {
+      "id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-v12",
+      "statement": "\"Experts predict that by 2050, AI will handle most administrative tasks. This shift is going to change the job market significantly. However, human creativity will remain essential.\"\nWhat is the main idea?",
+      "context": "Choosing the best summary for a future-oriented text.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Technology will change work, but human skills will still be needed.",
+          "is_correct": true,
+          "feedback": "Correct! It summarizes both the change and what stays the same."
+        },
+        {
+          "letter": "B",
+          "text": "AI is going to destroy all jobs by the year 2050.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too extreme; it doesn't mention creativity."
+        },
+        {
+          "letter": "C",
+          "text": "Robots are already doing everyone's homework in schools.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not mentioned in the text."
+        },
+        {
+          "letter": "D",
+          "text": "We don't need to study because AI will do everything.",
+          "is_correct": false,
+          "feedback": "Incorrect. Misinterprets the text's message."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La creación de resúmenes requiere sintetizar diferentes formas de futuro y matices (predicciones vs. hechos inevitables).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W03-future-plans-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B1"
+    }
+  ]
+}

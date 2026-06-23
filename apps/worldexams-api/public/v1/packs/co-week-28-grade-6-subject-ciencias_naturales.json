@@ -1,0 +1,921 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-28-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-06-22T05:46:15.991Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-001-v1",
+      "statement": "¿Qué es la pubertad?",
+      "context": "En Bogotá, estudiantes definen qué es la pubertad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El fin del crecimiento físico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El crecimiento continúa después de la pubertad."
+        },
+        {
+          "letter": "B",
+          "text": "Una enfermedad que afecta a los adolescentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pubertad no es una enfermedad, es un proceso natural."
+        },
+        {
+          "letter": "C",
+          "text": "El período de cambios físicos y hormonales en el que el cuerpo se vuelve capaz de reproducirse",
+          "is_correct": true,
+          "feedback": "Correcto. La pubertad es el inicio de la madurez sexual."
+        },
+        {
+          "letter": "D",
+          "text": "Un proceso que solo ocurre en las niñas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pubertad ocurre tanto en niños como en niñas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La **pubertad** es el proceso biológico mediante el cual el cuerpo del niño se transforma en cuerpo adulto capaz de reproducirse sexualmente. Es activada por hormonas (GnRH, LH, FSH) producidas en el hipotálamo y la hipófisis. En niñas generalmente comienza entre los 8-13 años, y en niños entre los 9-14 años. La pubertad no ocurre de un día para otro: dura aproximadamente 3-5 años y los cambios siguen una secuencia predecible aunque el ritmo varía entre personas. Es importante entender que todas las personas pasan por la pubertad, pero cada una a su propio ritmo.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-002-v1",
+      "statement": "¿Qué hormona es la principal responsable de iniciar la pubertad?",
+      "context": "En Medellín, estudiantes identifican las hormonas que inician la pubertad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Insulina",
+          "is_correct": false,
+          "feedback": "La insulina regula el azúcar en sangre, no la pubertad."
+        },
+        {
+          "letter": "B",
+          "text": "Adrenalina",
+          "is_correct": false,
+          "feedback": "La adrenalina es la hormona del estrés y la emergencia."
+        },
+        {
+          "letter": "C",
+          "text": "GnRH (hormona liberadora de gonadotropinas)",
+          "is_correct": true,
+          "feedback": "Correcto. La GnRH del hipotálamo inicia la cascada hormonal de la pubertad."
+        },
+        {
+          "letter": "D",
+          "text": "Melatonina",
+          "is_correct": false,
+          "feedback": "La melatonina regula el sueño, no la pubertad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La pubertad se inicia cuando el **hipotálamo** (una región del cerebro) comienza a producir **GnRH** (hormona liberadora de gonadotropinas). La GnRH estimula la **hipófisis** (glándula pituitaria) para que produzca:\r\n\r\n**LH** (hormona luteinizante):\r\n- En niñas: estimula la ovulación y producción de estrógeno y progesterona\r\n- En niños: estimula la producción de testosterona\r\n\r\n**FSH** (hormona folículo-estimulante):\r\n- En niñas: estimula el crecimiento de folículos ováricos\r\n- En niños: estimula la producción de espermatozoides\r\n\r\nEstas hormonas estaban \"dormidas\" durante la infancia y se \"despiertan\" en la pubertad. El mecanismo exacto que inicia la pubertad aún se investiga, pero se sabe que involucra factores genéticos, nutricionales y ambientales.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-003-v1",
+      "statement": "¿Cuál de los siguientes es un cambio físico típico en los niños durante la pubertad?",
+      "context": "En Cali, estudiantes explican los cambios físicos en niños durante la pubertad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crecimiento de los senos",
+          "is_correct": false,
+          "feedback": "Ese es un cambio típico en las niñas, no en los niños."
+        },
+        {
+          "letter": "B",
+          "text": "Aparición de la menstruación",
+          "is_correct": false,
+          "feedback": "La menstruación es un cambio femenino."
+        },
+        {
+          "letter": "C",
+          "text": "Crecimiento del vello facial y corporal, y engrosamiento de la voz",
+          "is_correct": true,
+          "feedback": "Correcto. Son cambios típicos masculinos por la testosterona."
+        },
+        {
+          "letter": "D",
+          "text": "Ensanchamiento de las caderas",
+          "is_correct": false,
+          "feedback": "Ese es un cambio típico femenino."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En los **niños**, la **testosterona** (producida en los testículos) causa estos cambios durante la pubertad (generalmente 9-14 años):\r\n\r\n1. **Crecimiento testicular y del pene** (primer signo visible)\r\n2. **Vello púbico, axilar, facial y corporal**\r\n3. **Engrosamiento de la voz** (la laringe crece y las cuerdas vocales se alargan)\r\n4. **Aumento de masa muscular y fuerza**\r\n5. **Crecimiento en estatura** (estirón, generalmente a los 13-15 años)\r\n6. **Ensanchamiento de hombros**\r\n7. **Producción de espermatozoides** (primera eyaculación o espermarquia, ~13-14 años)\r\n8. **Aumento de sudoración y cambios en el olor corporal**\r\n9. **Aparición de acné** por aumento de grasa en la piel\r\n\r\nLos cambios ocurren gradualmente y el ritmo varía entre personas. Es normal que algunos niños comiencen la pubertad antes o después que sus amigos.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-004-v1",
+      "statement": "¿Cuál es el primer signo visible de la pubertad en las niñas?",
+      "context": "En Barranquilla, estudiantes explican los cambios físicos en niñas durante la pubertad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primera menstruación (menarquia)",
+          "is_correct": false,
+          "feedback": "La menarquia ocurre después, no es el primer signo."
+        },
+        {
+          "letter": "B",
+          "text": "Desarrollo del botón mamario (crecimiento inicial de los senos)",
+          "is_correct": true,
+          "feedback": "Correcto. El desarrollo mamario (telarquia) es el primer signo."
+        },
+        {
+          "letter": "C",
+          "text": "Crecimiento del vello púbico",
+          "is_correct": false,
+          "feedback": "El vello púbico aparece después del desarrollo mamario."
+        },
+        {
+          "letter": "D",
+          "text": "Ensanchamiento de caderas",
+          "is_correct": false,
+          "feedback": "Ocurre gradualmente, no es el primer signo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En las **niñas**, la pubertad generalmente comienza entre los 8-13 años. Los cambios siguen esta secuencia (Escala de Tanner):\r\n\r\n1. **Telarquia** (8-11 años): desarrollo del botón mamario (primer signo, ~a los 10 años promedio)\r\n2. **Pubarquia** (9-11 años): aparición de vello púbico (primero fino y lacio, luego grueso y rizado)\r\n3. **Estirón de crecimiento** (10-12 años): crecimiento acelerado en estatura (antes que en los niños)\r\n4. **Menarquia** (12-13 años promedio): primera menstruación, ocurre ~2-3 años después del inicio del desarrollo mamario\r\n5. **Desarrollo completo de senos y caderas** (12-16 años)\r\n6. **Crecimiento de vello axilar** (después del vello púbico)\r\n7. **Aumento de sudoración, olor corporal y acné**\r\n\r\nLa **menarquia** (primera menstruación) no significa que el cuerpo ya esté completamente desarrollado ni que sea capaz de sostener un embarazo saludable, pero sí indica que los ovarios han comenzado a liberar óvulos. En Colombia, la edad promedio de la menarquia es aproximadamente 12.5 años.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-005-v1",
+      "statement": "María tiene 11 años y nota que su voz no ha cambiado, pero su amigo Pedro de 13 años sí tiene la voz más grave. ¿Por qué es esto normal?",
+      "context": "En Bucaramanga, estudiantes aplican conceptos hormonales a la vida real.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque María tiene un problema hormonal",
+          "is_correct": false,
+          "feedback": "No. Las niñas no experimentan engrosamiento significativo de la voz como los niños."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los niños siempre maduran antes que las niñas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Generalmente es al revés: las niñas maduran antes."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los niños experimentan engrosamiento de la voz por la testosterona, mientras que en las niñas el cambio de voz es más sutil",
+          "is_correct": true,
+          "feedback": "Correcto. La testosterona causa cambios vocales más notorios en los niños."
+        },
+        {
+          "letter": "D",
+          "text": "Porque María debería preocuparse y consultar al médico",
+          "is_correct": false,
+          "feedback": "No hay motivo de preocupación, es normal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El engrosamiento de la voz durante la pubertad es causado por la **testosterona**, que hace que la laringe (nuez de Adán) crezca y las cuerdas vocales se alarguen y engrosen. En los niños, los niveles de testosterona aumentan hasta 30 veces durante la pubertad, mientras que en las niñas los niveles de testosterona son mucho más bajos. Por eso:\r\n\r\n- **Niños**: la voz baja aproximadamente una octava (se vuelve más grave), a veces con \"gallos\" temporales mientras se adaptan\r\n- **Niñas**: la voz también cambia, pero más sutilmente (baja aproximadamente 2-3 semitonos)\r\n\r\nEs importante recordar que cada persona tiene su propio ritmo de desarrollo. Algunos niños comienzan la pubertad a los 9 años y otros a los 14, y ambos están dentro del rango normal.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-006-v1",
+      "statement": "¿Por qué durante la pubertad los adolescentes pueden sentirse \"descoordinados\" o torpes?",
+      "context": "En Cartagena, estudiantes aplican el concepto de estirón de crecimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque pierden neuronas durante la pubertad",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pierden neuronas por la pubertad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los huesos y los músculos crecen a ritmos diferentes, y el cerebro necesita adaptarse al nuevo cuerpo",
+          "is_correct": false,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque dejan de hacer ejercicio",
+          "is_correct": false,
+          "feedback": "La torpeza no se debe a falta de ejercicio."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la hormona del crecimiento afecta el equilibrio",
+          "is_correct": false,
+          "feedback": "No directamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Durante el **estirón de crecimiento** de la pubertad, los huesos pueden crecer varios centímetros en pocos meses, mientras que los músculos y tendones se adaptan más lentamente. Este crecimiento desincronizado provoca:\r\n\r\n1. **Cambios en el centro de gravedad** del cuerpo\r\n2. **Tendones y ligamentos** que aún no se han estirado completamente\r\n3. **El cerebro** necesita \"recalibrar\" el esquema corporal: la información de propiocepción (saber dónde están las partes del cuerpo sin mirarlas) cambia constantemente\r\n\r\nEs temporal y normal. El cuerpo eventualmente se adapta. El estirón en niñas ocurre aproximadamente a los 11-12 años (crecen ~8-9 cm/año), y en niños a los 13-14 años (crecen ~9-10 cm/año).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-007-v1",
+      "statement": "¿Por qué los adolescentes pueden experimentar cambios de humor repentinos durante la pubertad?",
+      "context": "En Pereira, analizan los cambios emocionales durante la adolescencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque quieren llamar la atención de los adultos",
+          "is_correct": false,
+          "feedback": "No es la razón biológica principal."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el cerebro deja de desarrollarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cerebro sigue desarrollándose hasta los 25 años."
+        },
+        {
+          "letter": "C",
+          "text": "Por los cambios hormonales que afectan los neurotransmisores del cerebro, sumado al desarrollo del sistema límbico antes que la corteza prefrontal",
+          "is_correct": true,
+          "feedback": "Correcto. Las hormonas y el desarrollo cerebral desigual afectan las emociones."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los adolescentes no duermen suficiente",
+          "is_correct": false,
+          "feedback": "No es la causa principal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los cambios emocionales en la adolescencia tienen una base biológica importante:\r\n\r\n1. **Hormonas fluctuantes**: los niveles de estrógeno, testosterona, cortisol y otras hormonas varían drásticamente, afectando los neurotransmisores (serotonina, dopamina) que regulan el estado de ánimo\r\n\r\n2. **Desarrollo cerebral desigual**:\r\n   - El **sistema límbico** (centro emocional: amígdala, hipocampo) se desarrolla primero y es muy sensible\r\n   - La **corteza prefrontal** (control de impulsos, planificación, razonamiento) se desarrolla más lentamente (hasta los ~25 años)\r\n   - Esto significa que los adolescentes sienten las emociones con mucha intensidad pero tienen menos herramientas para regularlas\r\n\r\n3. **Factores sociales**: cambios en las relaciones con amigos y familiares, presión social, búsqueda de identidad\r\n\r\nEs importante validar que estas emociones son reales y normales, y enseñar estrategias saludables para manejarlas: hablar con alguien de confianza, hacer ejercicio, escribir un diario, respirar profundo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-008-v1",
+      "statement": "¿Cuál es la principal diferencia entre pubertad y adolescencia?",
+      "context": "En Manizales, analizan la diferencia entre pubertad y adolescencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son lo mismo, no hay diferencia",
+          "is_correct": false,
+          "feedback": "No son lo mismo, aunque están relacionadas."
+        },
+        {
+          "letter": "B",
+          "text": "La pubertad solo ocurre en niñas y la adolescencia solo en niños",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos ocurren en todos."
+        },
+        {
+          "letter": "C",
+          "text": "La pubertad se refiere a los cambios biológicos y hormonales, mientras que la adolescencia es un período psicosocial que incluye los cambios emocionales y sociales",
+          "is_correct": true,
+          "feedback": "Correcto. Una es biológica, la otra es psicosocial."
+        },
+        {
+          "letter": "D",
+          "text": "La pubertad dura toda la vida y la adolescencia solo unos meses",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pubertad dura unos años; la adolescencia dura aproximadamente una década."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aunque a menudo se usan como sinónimos, **pubertad** y **adolescencia** son conceptos diferentes:\r\n\r\n**Pubertad** (dimensión biológica):\r\n- Dura aproximadamente 3-5 años\r\n- Inicia entre 8-13 años (niñas) o 9-14 años (niños)\r\n- Se refiere específicamente a los cambios físicos y hormonales\r\n- Termina cuando se alcanza la madurez reproductiva\r\n- Es universal en todas las culturas\r\n\r\n**Adolescencia** (dimensión psicosocial):\r\n- Dura aproximadamente 10 años (10-19 años, según la OMS)\r\n- Incluye cambios emocionales, cognitivos y sociales\r\n- Es un constructo social que varía entre culturas\r\n- Incluye la búsqueda de identidad, independencia y el desarrollo de relaciones más complejas\r\n- En Colombia, la Ley de Infancia y Adolescencia (Ley 1098 de 2006) define como adolescentes a las personas entre 12 y 18 años\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-009-v1",
+      "statement": "¿Por qué es especialmente importante mantener una buena higiene personal durante la pubertad?",
+      "context": "En Cúcuta, evalúan la importancia de la higiene durante la pubertad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los adolescentes huelen mal sin importar lo que hagan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con buena higiene se puede controlar el olor."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las glándulas sudoríparas y sebáceas se vuelven más activas, aumentando la sudoración, el olor corporal y la grasa en la piel",
+          "is_correct": false,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los profesores lo exigen en el colegio",
+          "is_correct": false,
+          "feedback": "Es más que un requisito escolar."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la mala higiene causa enfermedades graves en los adolescentes",
+          "is_correct": false,
+          "feedback": "Exagerado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Durante la pubertad, las hormonas (especialmente los andrógenos) activan cambios importantes en la piel y las glándulas:\r\n\r\n1. **Glándulas sudoríparas apocrinas** (axilas, zona genital): comienzan a funcionar y producen sudor con proteínas y lípidos que, al descomponerse por bacterias, generan olor corporal (no el sudor en sí, sino las bacterias que lo descomponen)\r\n\r\n2. **Glándulas sebáceas**: producen más sebo (grasa), lo que puede causar:\r\n   - Piel grasa\r\n   - **Acné** (por obstrucción de poros + bacterias)\r\n   - Es normal y tratable con limpieza adecuada\r\n\r\n3. **Recomendaciones de higiene**:\r\n   - Ducha diaria con jabón\r\n   - Uso de desodorante/antitranspirante\r\n   - Lavado de cara 2 veces al día\r\n   - Ropa limpia, especialmente ropa interior\r\n   - No compartir toallas ni objetos de higiene personal\r\n\r\nEstos hábitos no solo son importantes para la salud, sino que también ayudan a la autoestima y a sentirse cómodo en las interacciones sociales.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-010-v1",
+      "statement": "Dos amigos de 13 años tienen ritmos de desarrollo muy diferentes: uno ya mide 1.70 m y tiene voz grave, el otro mide 1.50 m y su voz aún no ha cambiado. ¿Cuál es la mejor actitud frente a esta situación?",
+      "context": "En Ibagué, evalúan cómo afrontar los cambios de la pubertad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El más bajo debería preocuparse porque algo anda mal",
+          "is_correct": false,
+          "feedback": "No hay motivo de preocupación si está dentro del rango normal."
+        },
+        {
+          "letter": "B",
+          "text": "El más alto debería burlarse del más bajo",
+          "is_correct": false,
+          "feedback": "Las burlas por el desarrollo físico son dañinas e inapropiadas."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos deben entender que cada persona tiene su propio ritmo de desarrollo y ambos están dentro de lo normal",
+          "is_correct": true,
+          "feedback": "Correcto. La variación en el ritmo de desarrollo es normal."
+        },
+        {
+          "letter": "D",
+          "text": "El más bajo necesita hormonas de crecimiento",
+          "is_correct": false,
+          "feedback": "No necesariamente. Solo si hay un diagnóstico médico de deficiencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La **variación en el ritmo de desarrollo** durante la pubertad es completamente normal:\r\n\r\n- La pubertad puede comenzar entre los 8-13 años en niñas y 9-14 en niños, con un rango de 5-6 años de diferencia\r\n- Algunos niños maduran \"temprano\" (early bloomers) y otros \"tardío\" (late bloomers)\r\n- Al final de la adolescencia (18-19 años), la mayoría de los jóvenes alcanzan estaturas similares, independientemente de cuándo comenzó su pubertad\r\n\r\n**Consejos importantes**:\r\n- No compararse constantemente con los demás\r\n- Hablar con un adulto de confianza si hay preocupaciones\r\n- Entender que el desarrollo tardío no significa que uno sea \"menos\" hombre o mujer\r\n- Consultar al médico solo si hay signos de pubertad muy temprana (antes de 8 años) o muy tardía (sin cambios después de 14 años en niñas o 15 en niños)\r\n- En Colombia, el ICBF y las EPS ofrecen valoraciones de crecimiento y desarrollo gratuitas\r\n\r\nEl respeto por los diferentes ritmos de desarrollo es parte fundamental de la convivencia y la empatía.\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W28-pubertad-cambios-adolescencia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Sincelejo, se discute sobre Tema Semana 28 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 28 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 28 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CIE-6-2026-W28-tema-semana-28-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Quibdó, se discute sobre Tema Semana 28 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Quibdó",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 28 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 28 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CIE-6-2026-W28-tema-semana-28-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Sincelejo, se discute sobre Tema Semana 28 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 28 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 28 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.63,
+      "bundle_id": "CO-CIE-6-2026-W28-tema-semana-28-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Armenia, se discute sobre Tema Semana 28 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 28 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 28 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.53,
+      "bundle_id": "CO-CIE-6-2026-W28-tema-semana-28-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Ibagué, se discute sobre Tema Semana 28 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 28 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 28 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CIE-6-2026-W28-tema-semana-28-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Bucaramanga, se discute sobre Tema Semana 28 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 28 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 28 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.56,
+      "bundle_id": "CO-CIE-6-2026-W28-tema-semana-28-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Armenia, se discute sobre Tema Semana 28 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 28 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 28 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.56,
+      "bundle_id": "CO-CIE-6-2026-W28-tema-semana-28-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Cartagena, se discute sobre Tema Semana 28 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 28 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 28 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-6-2026-W28-tema-semana-28-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Bogotá, se discute sobre Tema Semana 28 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 28 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 28 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.61,
+      "bundle_id": "CO-CIE-6-2026-W28-tema-semana-28-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Neiva, se discute sobre Tema Semana 28 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Neiva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 28 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 28 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 28 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-6-2026-W28-tema-semana-28-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

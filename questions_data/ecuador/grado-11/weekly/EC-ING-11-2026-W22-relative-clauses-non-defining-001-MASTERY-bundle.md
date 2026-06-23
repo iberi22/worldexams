@@ -1,467 +1,481 @@
 ---
-id: "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY"
+id: "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle"
 country: "ecuador"
-exam: "BGU - Ministerio de Educacion"
 grado: 11
-asignatura: "Ingles"
+asignatura: "ingles"
 tema: "relative-clauses-non-defining"
-semana: 22
-protocol_version: "5.2"
+periodo: "weekly"
+week: "W22"
 year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 20
 bundle_size: 20
-alignment: "BGU - Ministerio de Educacion Ecuador / Senescyt"
+alignment: "Curriculo de Ingles"
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
-
 # MASTERY Bundle - Ingles: Relative Clauses Non Defining (W22)
 **20 preguntas | Ingles | BGU - Ministerio de Educacion**
 
 ---
-## Pregunta 1 [D4]
-**ID:** `EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v1`
-**Bloom:** Analyze
-
-**Contexto:** Clase de lenguaje en EC.
-
-### Enunciado
-En una lectura en Loja: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?
-
-### Opciones
-- [x] **A)** Crear una atmosfera o ambiente
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Presentar un argumento
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Narrar una secuencia
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Describir un dialogo
-  <!-- feedback: Incorrecto. -->
-
-**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.
-
----
-## Pregunta 2 [D3]
-**ID:** `EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v2`
+## Question 1 [D3]
+**ID:** EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v1
 **Bloom:** Remember
-
-**Contexto:** Clase de lenguaje en EC.
-
-### Enunciado
-Cual es la funcion del lenguaje en: Feliz cumpleaños!
-
-### Opciones
-- [x] **A)** Funcion expresiva o emotiva
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Funcion referencial
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Funcion apelativa
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Funcion metalinguistica
-  <!-- feedback: Incorrecto. -->
-
-**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.
-
----
-## Pregunta 3 [D4]
-**ID:** `EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v3`
-**Bloom:** Apply
-
-**Contexto:** Clase de lenguaje en EC.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Identifica el conector: Riobamba es hermosa, ____ su gente es acogedora.
+What is the English word for: "A place where you live or stay on holiday."
 
 ### Opciones
-- [x] **A)** ademas
-  <!-- feedback: Correcto! -->
-- [ ] **B)** sin embargo
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** por lo tanto
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** aunque
-  <!-- feedback: Incorrecto. -->
+- [x] A) accommodation
+  <!-- feedback: Correct! 'accommodation' matches the definition. -->
+- [ ] B) transportation
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) entertainment
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) currency
+  <!-- feedback: Incorrect. Try again. -->
 
-**Explicacion:** El conector 'ademas' anade informacion complementaria.
-
+### Explicacion Pedagogica
+The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
 ---
-## Pregunta 4 [D5]
-**ID:** `EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v4`
-**Bloom:** Evaluate
-
-**Contexto:** Clase de lenguaje en EC.
-
-### Enunciado
-Cual oracion esta correctamente escrita?
-
-### Opciones
-- [x] **A)** Los estudiantes del Colegio Nacional Olmedo estudian mucho.
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Los estudiantes del Colegio Nacional Olmedo estudian mucho.
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Los estudiantes del school estudian mucho.
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Los estudiantes del school estudian mucho.
-  <!-- feedback: Incorrecto. -->
-
-**Explicacion:** La opcion A sigue las normas ortograficas correctamente.
-
----
-## Pregunta 5 [D3]
-**ID:** `EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v5`
-**Bloom:** Understand
-
-**Contexto:** Clase de lenguaje en EC.
-
-### Enunciado
-En el Colegio Nacional Vicente Rocafuerte de Guayaquil, analizando un texto. Cual es la idea principal?
-
-### Opciones
-- [x] **A)** El agua es esencial para la vida y debe cuidarse
-  <!-- feedback: Correcto! -->
-- [ ] **B)** El agua solo se usa para beber
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** El agua no es importante
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** El agua es un recurso infinito
-  <!-- feedback: Incorrecto. -->
-
-**Explicacion:** El texto destaca la importancia del agua como recurso vital.
-
----
-## Pregunta 6 [D4]
-**ID:** `EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v6`
-**Bloom:** Analyze
-
-**Contexto:** Clase de lenguaje en EC.
-
-### Enunciado
-En una lectura en Portoviejo: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?
-
-### Opciones
-- [x] **A)** Crear una atmosfera o ambiente
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Presentar un argumento
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Narrar una secuencia
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Describir un dialogo
-  <!-- feedback: Incorrecto. -->
-
-**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.
-
----
-## Pregunta 7 [D3]
-**ID:** `EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v7`
+## Question 2 [D4]
+**ID:** EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v2
 **Bloom:** Remember
-
-**Contexto:** Clase de lenguaje en EC.
-
-### Enunciado
-Cual es la funcion del lenguaje en: Feliz cumpleaños!
-
-### Opciones
-- [x] **A)** Funcion expresiva o emotiva
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Funcion referencial
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Funcion apelativa
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Funcion metalinguistica
-  <!-- feedback: Incorrecto. -->
-
-**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.
-
----
-## Pregunta 8 [D4]
-**ID:** `EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v8`
-**Bloom:** Apply
-
-**Contexto:** Clase de lenguaje en EC.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Identifica el conector: Esmeraldas es hermosa, ____ su gente es acogedora.
+What is the English word for: "A detailed plan or route of a journey."
 
 ### Opciones
-- [x] **A)** ademas
-  <!-- feedback: Correcto! -->
-- [ ] **B)** sin embargo
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** por lo tanto
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** aunque
-  <!-- feedback: Incorrecto. -->
+- [x] A) itinerary
+  <!-- feedback: Correct! 'itinerary' matches the definition. -->
+- [ ] B) baggage
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) destination
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) passport
+  <!-- feedback: Incorrect. Try again. -->
 
-**Explicacion:** El conector 'ademas' anade informacion complementaria.
-
+### Explicacion Pedagogica
+The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
 ---
-## Pregunta 9 [D5]
-**ID:** `EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v9`
-**Bloom:** Evaluate
-
-**Contexto:** Clase de lenguaje en EC.
-
-### Enunciado
-Cual oracion esta correctamente escrita?
-
-### Opciones
-- [x] **A)** Los estudiantes del Unidad Educativa Santo Domingo estudian mucho.
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Los estudiantes del Unidad Educativa Santo Domingo estudian mucho.
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Los estudiantes del school estudian mucho.
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Los estudiantes del school estudian mucho.
-  <!-- feedback: Incorrecto. -->
-
-**Explicacion:** La opcion A sigue las normas ortograficas correctamente.
-
----
-## Pregunta 10 [D3]
-**ID:** `EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v10`
+## Question 3 [D3]
+**ID:** EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v3
 **Bloom:** Understand
-
-**Contexto:** Clase de lenguaje en EC.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-En el Colegio Nacional Mejia de Quito, analizando un texto. Cual es la idea principal?
+What is the English word for: "The place to which someone or something is going or being sent."
 
 ### Opciones
-- [x] **A)** El agua es esencial para la vida y debe cuidarse
-  <!-- feedback: Correcto! -->
-- [ ] **B)** El agua solo se usa para beber
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** El agua no es importante
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** El agua es un recurso infinito
-  <!-- feedback: Incorrecto. -->
+- [x] A) destination
+  <!-- feedback: Correct! 'destination' matches the definition. -->
+- [ ] B) departure
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) arrival
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) journey
+  <!-- feedback: Incorrect. Try again. -->
 
-**Explicacion:** El texto destaca la importancia del agua como recurso vital.
-
+### Explicacion Pedagogica
+The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
 ---
-## Pregunta 11 [D4]
-**ID:** `EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v11`
+## Question 4 [D4]
+**ID:** EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v4
+**Bloom:** Understand
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+
+### Opciones
+- [x] A) luggage
+  <!-- feedback: Correct! 'luggage' matches the definition. -->
+- [ ] B) ticket
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) flight
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) reservation
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+---
+## Question 5 [D5]
+**ID:** EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v5
+**Bloom:** Understand
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+
+### Opciones
+- [x] A) passenger
+  <!-- feedback: Correct! 'passenger' matches the definition. -->
+- [ ] B) pedestrian
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) commuter
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) tourist
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+---
+## Question 6 [D6]
+**ID:** EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v6
+**Bloom:** Understand
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+
+### Opciones
+- [x] A) customs
+  <!-- feedback: Correct! 'customs' matches the definition. -->
+- [ ] B) security
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) terminal
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) gate
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+---
+## Question 7 [D5]
+**ID:** EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v7
+**Bloom:** Apply
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+
+### Opciones
+- [x] A) boarding pass
+  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
+- [ ] B) visa
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) receipt
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) brochure
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+---
+## Question 8 [D6]
+**ID:** EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v8
+**Bloom:** Apply
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The activity of visiting places of interest in a particular location."
+
+### Opciones
+- [x] A) sightseeing
+  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
+- [ ] B) shopping
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) hiking
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) camping
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+---
+## Question 9 [D5]
+**ID:** EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v9
+**Bloom:** Apply
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+
+### Opciones
+- [x] A) souvenir
+  <!-- feedback: Correct! 'souvenir' matches the definition. -->
+- [ ] B) gift
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) award
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) prize
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+---
+## Question 10 [D6]
+**ID:** EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v10
+**Bloom:** Apply
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "A period of time by which something is late or postponed."
+
+### Opciones
+- [x] A) delay
+  <!-- feedback: Correct! 'delay' matches the definition. -->
+- [ ] B) cancellation
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) departure
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) arrival
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+---
+## Question 11 [D7]
+**ID:** EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v11
+**Bloom:** Apply
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+
+### Opciones
+- [x] A) check-in
+  <!-- feedback: Correct! 'check-in' matches the definition. -->
+- [ ] B) check-out
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) booking
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) reservation
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+---
+## Question 12 [D8]
+**ID:** EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v12
+**Bloom:** Apply
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "A period of rest or waiting before a further stage in a journey."
+
+### Opciones
+- [x] A) layover
+  <!-- feedback: Correct! 'layover' matches the definition. -->
+- [ ] B) stopover
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) transfer
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) transit
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+---
+## Question 13 [D7]
+**ID:** EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v13
 **Bloom:** Analyze
-
-**Contexto:** Clase de lenguaje en EC.
-
-### Enunciado
-En una lectura en Portoviejo: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?
-
-### Opciones
-- [x] **A)** Crear una atmosfera o ambiente
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Presentar un argumento
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Narrar una secuencia
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Describir un dialogo
-  <!-- feedback: Incorrecto. -->
-
-**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.
-
----
-## Pregunta 12 [D3]
-**ID:** `EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v12`
-**Bloom:** Remember
-
-**Contexto:** Clase de lenguaje en EC.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Cual es la funcion del lenguaje en: Feliz cumpleaños!
+What is the English word for: "A system of money in general use in a particular country."
 
 ### Opciones
-- [x] **A)** Funcion expresiva o emotiva
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Funcion referencial
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Funcion apelativa
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Funcion metalinguistica
-  <!-- feedback: Incorrecto. -->
+- [x] A) currency
+  <!-- feedback: Correct! 'currency' matches the definition. -->
+- [ ] B) coin
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) banknote
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) cash
+  <!-- feedback: Incorrect. Try again. -->
 
-**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.
-
+### Explicacion Pedagogica
+The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
 ---
-## Pregunta 13 [D4]
-**ID:** `EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v13`
-**Bloom:** Apply
-
-**Contexto:** Clase de lenguaje en EC.
-
-### Enunciado
-Identifica el conector: Ambato es hermosa, ____ su gente es acogedora.
-
-### Opciones
-- [x] **A)** ademas
-  <!-- feedback: Correcto! -->
-- [ ] **B)** sin embargo
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** por lo tanto
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** aunque
-  <!-- feedback: Incorrecto. -->
-
-**Explicacion:** El conector 'ademas' anade informacion complementaria.
-
----
-## Pregunta 14 [D5]
-**ID:** `EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v14`
-**Bloom:** Evaluate
-
-**Contexto:** Clase de lenguaje en EC.
-
-### Enunciado
-Cual oracion esta correctamente escrita?
-
-### Opciones
-- [x] **A)** Los estudiantes del Colegio Nacional Teodoro Gomez de la Torre estudian mucho.
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Los estudiantes del Colegio Nacional Teodoro Gomez de la Torre estudian mucho.
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Los estudiantes del school estudian mucho.
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Los estudiantes del school estudian mucho.
-  <!-- feedback: Incorrecto. -->
-
-**Explicacion:** La opcion A sigue las normas ortograficas correctamente.
-
----
-## Pregunta 15 [D3]
-**ID:** `EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v15`
-**Bloom:** Understand
-
-**Contexto:** Clase de lenguaje en EC.
-
-### Enunciado
-En el Colegio Nacional Nueve de Octubre de Machala, analizando un texto. Cual es la idea principal?
-
-### Opciones
-- [x] **A)** El agua es esencial para la vida y debe cuidarse
-  <!-- feedback: Correcto! -->
-- [ ] **B)** El agua solo se usa para beber
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** El agua no es importante
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** El agua es un recurso infinito
-  <!-- feedback: Incorrecto. -->
-
-**Explicacion:** El texto destaca la importancia del agua como recurso vital.
-
----
-## Pregunta 16 [D4]
-**ID:** `EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v16`
+## Question 14 [D8]
+**ID:** EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v14
 **Bloom:** Analyze
-
-**Contexto:** Clase de lenguaje en EC.
-
-### Enunciado
-En una lectura en Portoviejo: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?
-
-### Opciones
-- [x] **A)** Crear una atmosfera o ambiente
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Presentar un argumento
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Narrar una secuencia
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Describir un dialogo
-  <!-- feedback: Incorrecto. -->
-
-**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.
-
----
-## Pregunta 17 [D3]
-**ID:** `EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v17`
-**Bloom:** Remember
-
-**Contexto:** Clase de lenguaje en EC.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Cual es la funcion del lenguaje en: Feliz cumpleaños!
+What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
 
 ### Opciones
-- [x] **A)** Funcion expresiva o emotiva
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Funcion referencial
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Funcion apelativa
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Funcion metalinguistica
-  <!-- feedback: Incorrecto. -->
+- [x] A) guidebook
+  <!-- feedback: Correct! 'guidebook' matches the definition. -->
+- [ ] B) map
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) dictionary
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) encyclopedia
+  <!-- feedback: Incorrect. Try again. -->
 
-**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.
-
+### Explicacion Pedagogica
+The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
 ---
-## Pregunta 18 [D4]
-**ID:** `EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v18`
-**Bloom:** Apply
-
-**Contexto:** Clase de lenguaje en EC.
+## Question 15 [D7]
+**ID:** EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v15
+**Bloom:** Analyze
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Identifica el conector: Machala es hermosa, ____ su gente es acogedora.
+What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
 
 ### Opciones
-- [x] **A)** ademas
-  <!-- feedback: Correcto! -->
-- [ ] **B)** sin embargo
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** por lo tanto
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** aunque
-  <!-- feedback: Incorrecto. -->
+- [x] A) backpack
+  <!-- feedback: Correct! 'backpack' matches the definition. -->
+- [ ] B) suitcase
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) briefcase
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) handbag
+  <!-- feedback: Incorrect. Try again. -->
 
-**Explicacion:** El conector 'ademas' anade informacion complementaria.
-
+### Explicacion Pedagogica
+The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
 ---
-## Pregunta 19 [D5]
-**ID:** `EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v19`
+## Question 16 [D8]
+**ID:** EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v16
+**Bloom:** Analyze
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "In or to a foreign country, especially one across the sea."
+
+### Opciones
+- [x] A) overseas
+  <!-- feedback: Correct! 'overseas' matches the definition. -->
+- [ ] B) domestic
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) local
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) national
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+---
+## Question 17 [D9]
+**ID:** EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v17
 **Bloom:** Evaluate
-
-**Contexto:** Clase de lenguaje en EC.
-
-### Enunciado
-Cual oracion esta correctamente escrita?
-
-### Opciones
-- [x] **A)** Los estudiantes del Unidad Educativa Santo Domingo estudian mucho.
-  <!-- feedback: Correcto! -->
-- [ ] **B)** Los estudiantes del Unidad Educativa Santo Domingo estudian mucho.
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** Los estudiantes del school estudian mucho.
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** Los estudiantes del school estudian mucho.
-  <!-- feedback: Incorrecto. -->
-
-**Explicacion:** La opcion A sigue las normas ortograficas correctamente.
-
----
-## Pregunta 20 [D3]
-**ID:** `EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v20`
-**Bloom:** Understand
-
-**Contexto:** Clase de lenguaje en EC.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-En el Colegio Nacional Olmedo de Portoviejo, analizando un texto. Cual es la idea principal?
+What is the English word for: "An estimate of income and expenditure for a set period of time."
 
 ### Opciones
-- [x] **A)** El agua es esencial para la vida y debe cuidarse
-  <!-- feedback: Correcto! -->
-- [ ] **B)** El agua solo se usa para beber
-  <!-- feedback: Incorrecto. -->
-- [ ] **C)** El agua no es importante
-  <!-- feedback: Incorrecto. -->
-- [ ] **D)** El agua es un recurso infinito
-  <!-- feedback: Incorrecto. -->
+- [x] A) budget
+  <!-- feedback: Correct! 'budget' matches the definition. -->
+- [ ] B) expense
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) cost
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) price
+  <!-- feedback: Incorrect. Try again. -->
 
-**Explicacion:** El texto destaca la importancia del agua como recurso vital.
-
+### Explicacion Pedagogica
+The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
 ---
+## Question 18 [D10]
+**ID:** EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v18
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
-### Revision de Calidad
-| Dimension | Puntaje |
-|-----------|---------|
-| Tecnico | 30/30 |
-| Curricular | 40/40 |
-| Contexto | 20/20 |
-| Redaccion | 10/10 |
-| **Total** | **100/100** |
+### Enunciado
+What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+
+### Opciones
+- [x] A) insurance
+  <!-- feedback: Correct! 'insurance' matches the definition. -->
+- [ ] B) warranty
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) guarantee
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) policy
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+---
+## Question 19 [D9]
+**ID:** EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v19
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+
+### Opciones
+- [x] A) vaccination
+  <!-- feedback: Correct! 'vaccination' matches the definition. -->
+- [ ] B) medication
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) prescription
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) infection
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+---
+## Question 20 [D10]
+**ID:** EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v20
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+
+### Opciones
+- [x] A) jet lag
+  <!-- feedback: Correct! 'jet lag' matches the definition. -->
+- [ ] B) fatigue
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) exhaustion
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) insomnia
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.

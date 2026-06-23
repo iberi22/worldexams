@@ -1,0 +1,1946 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-2-grade-8-subject-lectura_critica",
+    "generated_at": "2026-06-22T05:46:16.543Z"
+  },
+  "questions": [
+    {
+      "id": "q-0",
+      "statement": "Según el Texto A, ¿cuánto tiempo ha pasado desde el primer plan de descontaminación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 años.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "30 años.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "50 años.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "5 años.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de un dato temporal explícito.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-intencion-autoral-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-1",
+      "statement": "En el Texto B, ¿qué lanzó Laura al río?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una moneda.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Una semilla.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Un pez.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Una carta.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de un elemento narrativo.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-intencion-autoral-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-2",
+      "statement": "¿Cuál es la intención principal del Texto A (editorial)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar neutralmente sobre el río.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Denunciar y criticar la inacción gubernamental para generar indignación y exigir acción.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Entretener con una historia.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Promocionar un producto.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de la intención crítica y denunciante de una editorial.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-intencion-autoral-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-3",
+      "statement": "¿Cuál es la intención principal del Texto B (cuento)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Denunciar al gobierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Transmitir un mensaje de esperanza y conciencia ecológica a través de una historia simbólica.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Informar sobre plantas de tratamiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Promocionar una marca.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de la intención narrativa y simbólica.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-intencion-autoral-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-4",
+      "statement": "¿Cuál es la intención principal del Texto C (anuncio gubernamental)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Criticar a la administración pasada.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar una imagen positiva de la gestión actual y motivar la participación ciudadana.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Contar una historia sobre el río.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Denunciar la contaminación.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de la intención propagandística o comunicacional.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-intencion-autoral-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-5",
+      "statement": "¿Qué tono predomina en el Texto A?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alegre y optimista.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Crítico, indignado y urgente.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Neutral y objetivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Poético y suave.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis del tono como indicador de la intención autoral.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-intencion-autoral-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-6",
+      "statement": "¿Qué tono predomina en el Texto C?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crítico y negativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Optimista, triunfalista y motivador.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Triste y melancólico.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Científico y frío.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis del tono optimista como herramienta de comunicación gubernamental.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-intencion-autoral-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-7",
+      "statement": "¿Qué recurso usa el Texto A para generar indignación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Datos positivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "La palabra \"vergüenza\" y la repetición del incumplimiento (\"30 años\", \"sistemáticamente\").",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Personificación del río.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Rima y poesía.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de recursos retóricos usado para crear una reacción emocional.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-intencion-autoral-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-8",
+      "statement": "¿Qué mensaje implícito transmite el Texto B con el jardín flotante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la contaminación no tiene solución.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Que incluso un acto pequeño (una semilla) puede iniciar un cambio positivo.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Que los ríos pueden soñar.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Que las fábricas son buenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interpretación del mensaje simbólico detrás de la metáfora.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-intencion-autoral-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-9",
+      "statement": "¿Por qué el Texto A y el Texto C tienen posturas opuestas sobre el mismo plan?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque uno dice verdad y otro miente.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque tienen intenciones distintas: uno busca denunciar, el otro busca proyectar una imagen exitosa.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque se escribieron en años distintos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque hablan de ríos diferentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis de cómo la intención determina la selección y presentación de la información.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-intencion-autoral-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-10",
+      "statement": "¿A qué público se dirige principalmente el Texto C?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A científicos ambientales.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "A la ciudadanía bogotana en general.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "A los niños.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "A los empresarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación del público objetivo según el lenguaje y el canal.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-intencion-autoral-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-11",
+      "statement": "¿Qué tipo de lenguaje usa el Texto B que lo diferencia del A y del C?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lenguaje técnico y legal.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Lenguaje estadístico.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Lenguaje literario y figurado (personificación, metáfora).",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Lenguaje publicitario.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Diferenciación del lenguaje según el género textual y la intención.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-intencion-autoral-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-12",
+      "statement": "¿Cuál texto es más objetivo y cuál es más subjetivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos son objetivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "A es objetivo, B y C subjetivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "B es objetivo, A y C subjetivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno es completamente objetivo. A y C son abiertamente subjetivos (editorial y propaganda), B es ficción simbólica con intención subjetiva.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluación de la objetividad/subjetividad como reflejo de la intención autoral.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-intencion-autoral-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-13",
+      "statement": "¿Por qué es importante identificar la intención del autor al leer un texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para saber si el autor es bueno o malo.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Para comprender por qué el autor seleccionó cierta información y la presentó de cierta manera.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Para memorizar datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Para ganar argumentos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reflexión metacognitiva sobre la importancia del análisis de intención en la lectura crítica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-intencion-autoral-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-14",
+      "statement": "Si el Texto A y el Texto C hablan del mismo plan de descontaminación, ¿cómo explicarías sus diferencias?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uno tiene razón y el otro no.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Responden a intereses distintos: el editorial busca crítica y vigilancia ciudadana; el anuncio busca legitimar la gestión pública. Ambas pueden contener verdades parciales.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Uno es viejo y otro es nuevo.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Uno es de izquierda y otro de derecha.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Síntesis: comprensión de cómo la misma realidad puede ser presentada de formas radicalmente diferentes según la intención.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-intencion-autoral-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-0",
+      "statement": "¿En qué lugar ocurrieron los hechos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el Parque Simón Bolívar.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "En la Plaza de Bolívar, Bogotá.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "En la Universidad Nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "En el Capitolio Nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación del lugar explícito.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-punto-vista-narrador-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-1",
+      "statement": "Según la Versión 1, ¿quién ayudó al estudiante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un policía.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Una señora dueña de una tienda.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Un profesor.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Un compañero.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de un personaje secundario.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-punto-vista-narrador-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-2",
+      "statement": "¿En qué persona gramatical está narrada la Versión 1?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primera persona (\"Estaba ahí\", \"Sentí\", \"Corrí\").",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Segunda persona (\"Usted\").",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Tercera persona (\"Él\", \"Ella\").",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Tercera persona omnisciente.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación del tipo de narrador según la persona gramatical.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-punto-vista-narrador-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-3",
+      "statement": "¿Qué tipo de narrador tiene la Versión 2?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrador testigo (solo ve lo que pasa).",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Narrador omnisciente (conoce los pensamientos y emociones de todos los personajes).",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Narrador en primera persona (participante).",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Narrador en segunda persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación del narrador omnisciente.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-punto-vista-narrador-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-4",
+      "statement": "La Versión 3 usa la segunda persona (\"Usted\"). ¿Quién es el narrador?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un estudiante.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Un periodista.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Un policía redactando un informe oficial.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Un juez.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación del emisor según el uso de la segunda persona y el lenguaje formal.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-punto-vista-narrador-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-5",
+      "statement": "¿Qué información tenemos en la Versión 2 que no tenemos en las otras?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lo que pasó en la protesta.",
+          "is_correct": false,
+          "feedback": "Incorrecto (todas lo tienen)."
+        },
+        {
+          "letter": "B",
+          "text": "Los pensamientos y emociones internas de varios personajes (María, sargento, señora Jiménez).",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "La hora exacta de los hechos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "El nombre de los policías.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de la ventaja informativa del narrador omnisciente.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-punto-vista-narrador-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-6",
+      "statement": "¿Qué posible sesgo tiene la Versión 1 (estudiante)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es completamente objetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Está contada desde el miedo y la experiencia personal, lo que puede exagerar la violencia.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Defiende la actuación policial.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Es neutral.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación de la confiabilidad del narrador en primera persona.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-punto-vista-narrador-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-7",
+      "statement": "¿Qué posible sesgo tiene la Versión 3 (informe policial)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es poética y subjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Usa lenguaje técnico y formal que minimiza la violencia (\"dispersar\", \"parámetros legales\") y omite las consecuencias humanas.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Exagera el conflicto.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Apoya a los estudiantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación del sesgo institucional en narraciones oficiales.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-punto-vista-narrador-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-8",
+      "statement": "¿Qué efecto produce que la Versión 1 incluya emociones personales (\"Sentí miedo, mucho miedo\")?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hace el texto más científico.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Genera empatía en el lector y transmite la experiencia humana del evento.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Aleja al lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Confunde la información.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis del efecto emocional del narrador en primera persona.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-punto-vista-narrador-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-9",
+      "statement": "¿Qué efecto produce la Versión 3 al tratar al lector como \"Usted\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hace el texto más cercano.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Hace el texto impersonal y formal, como si el lector fuera el interrogado.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Hace el texto poético.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Hace el texto divertido.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis del efecto de la segunda persona en la relación lector-texto.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-punto-vista-narrador-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-10",
+      "statement": "¿Cuál versión parece más \"objetiva\"? ¿Y por qué?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Versión 1, porque tiene emociones.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Versión 2, porque incluye múltiples perspectivas (omnisciente).",
+          "is_correct": false,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Versión 3, porque usa lenguaje técnico.",
+          "is_correct": false,
+          "feedback": "Incorrecto (la tecnicidad puede ser una máscara de objetividad)."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna es objetiva.",
+          "is_correct": false,
+          "feedback": "Parcialmente correcto, pero la 2 ofrece más perspectivas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación de la objetividad según el tipo de narrador.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-punto-vista-narrador-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-11",
+      "statement": "¿Por qué un periodista que busca cubrir la protesta imparcialmente usaría un narrador como el de la Versión 2?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para mostrar su opinión.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Para ofrecer múltiples perspectivas y dar una visión más completa del evento.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Para acusar a los policías.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Para defender a los estudiantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Relación entre la elección del narrador y el propósito informativo/periodístico.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-punto-vista-narrador-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-12",
+      "statement": "Si quisieras entender realmente lo que pasó en la protesta, ¿qué harías?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leer solo la versión del estudiante.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Leer solo el informe policial.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Leer las tres versiones y contrastarlas para construir una visión más completa.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "No leer ninguna porque todas mienten.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reflexión sobre la importancia del contraste de fuentes para la comprensión de la realidad.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-punto-vista-narrador-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-13",
+      "statement": "¿Qué recurso estilístico comparten las Versiones 1 y 3, aunque con intenciones opuestas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas usan metáforas.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas usan la primera persona (Versión 1: \"yo\"; Versión 3: \"usted\" como sujeto).",
+          "is_correct": true,
+          "feedback": "Correcto (la Versión 3 trata al lector como agente directo)."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas usan rima.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas son poesía.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de elementos comunes en narradores diferentes.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-punto-vista-narrador-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "q-14",
+      "statement": "¿Por qué es importante identificar el punto de vista del narrador al leer?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para saber si la historia es verdadera.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Para entender desde qué posición se cuenta la historia y cómo eso afecta la información que recibimos.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Para calificar al autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Para saber cuántos personajes hay.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reflexión metacognitiva sobre la importancia del punto de vista narrativo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-8-2026-P2-punto-vista-narrador-INDEX-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v1",
+      "statement": "¿Qué figura literaria consiste en comparar dos elementos usando \"como\"?",
+      "context": "En clase de lenguaje en Bogotá, la profesora pregunta sobre las figuras literarias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metáfora.",
+          "is_correct": false,
+          "feedback": "Incorrect. La metáfora no usa \"como\"."
+        },
+        {
+          "letter": "B",
+          "text": "Símil o comparación.",
+          "is_correct": true,
+          "feedback": "Correct. El símil usa \"como\", \"tal cual\", \"parece\" para comparar."
+        },
+        {
+          "letter": "C",
+          "text": "Hipérbole.",
+          "is_correct": false,
+          "feedback": "Incorrect. La hipérbole es una exageración."
+        },
+        {
+          "letter": "D",
+          "text": "Personificación.",
+          "is_correct": false,
+          "feedback": "Incorrect. La personificación atribuye cualidades humanas a objetos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El símil (o comparación) es una figura literaria que establece una relación de semejanza entre dos elementos usando conectores como \"como\", \"cual\", \"tal cual\", \"parece\". Ejemplo: \"Tus ojos como dos luceros.\"\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v2",
+      "statement": "¿Cuál de los siguientes es un elemento fundamental de la oratoria?",
+      "context": "Un estudiante en Medellín estudia los elementos de la oratoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La escritura en tercera persona.",
+          "is_correct": false,
+          "feedback": "Incorrect. No es exclusivo de la oratoria."
+        },
+        {
+          "letter": "B",
+          "text": "La voz, los gestos y la postura corporal.",
+          "is_correct": true,
+          "feedback": "Correct. La oratoria implica comunicación verbal y no verbal."
+        },
+        {
+          "letter": "C",
+          "text": "El uso de gráficos estadísticos.",
+          "is_correct": false,
+          "feedback": "Incorrect. Es más propio de presentaciones académicas."
+        },
+        {
+          "letter": "D",
+          "text": "La rima y el verso.",
+          "is_correct": false,
+          "feedback": "Incorrect. Eso es poesía."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La oratoria es el arte de hablar en público de manera elocuente y persuasiva. Sus elementos clave son: la voz (tono, volumen, ritmo), la expresión corporal (gestos, postura, contacto visual) y el contenido del discurso.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v3",
+      "statement": "¿Cuál de las siguientes es una tesis argumentativa?",
+      "context": "En un debate escolar en Cali sobre el servicio militar obligatorio, un estudiante argumenta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Hoy es martes.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Es un hecho, no una tesis."
+        },
+        {
+          "letter": "B",
+          "text": "\"Colombia tiene 48 millones de habitantes.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Es un dato estadístico."
+        },
+        {
+          "letter": "C",
+          "text": "\"El servicio militar obligatorio debe eliminarse porque viola la libertad individual.\"",
+          "is_correct": true,
+          "feedback": "Correct. Una tesis es una afirmación que se defiende con argumentos."
+        },
+        {
+          "letter": "D",
+          "text": "\"¿Debe eliminarse el servicio militar?\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Es una pregunta, no una tesis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una tesis es una afirmación que expresa una postura frente a un tema controvertido. Debe ser defendible con argumentos. En el ejemplo, la tesis es \"el servicio militar debe eliminarse\" y se ofrece una razón (\"viola la libertad individual\").\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v4",
+      "statement": "¿Cuál de las siguientes oraciones es compuesta (tiene más de una proposición)?",
+      "context": "En clase de lenguaje en Barranquilla, se analiza una oración compleja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El perro corre.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Es una oración simple."
+        },
+        {
+          "letter": "B",
+          "text": "\"María estudia matemáticas.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Es una oración simple."
+        },
+        {
+          "letter": "C",
+          "text": "\"Juan llegó temprano porque quería hablar con el profesor.\"",
+          "is_correct": true,
+          "feedback": "Correct. Tiene dos proposiciones unidas por \"porque\"."
+        },
+        {
+          "letter": "D",
+          "text": "\"Los niños juegan en el parque.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Es una oración simple."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las oraciones compuestas tienen dos o más proposiciones (verbos conjugados) unidas por conectores. En \"Juan llegó temprano porque quería hablar con el profesor\" hay dos verbos (\"llegó\", \"quería\") unidos por la conjunción causal \"porque\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v5",
+      "statement": "¿Qué tipo de argumento se usa cuando se dice: \"El 80% de los colombianos está de acuerdo con la jornada laboral de 4 días\"?",
+      "context": "En un taller de escritura en Bucaramanga, un estudiante escribe un discurso persuasivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento de autoridad.",
+          "is_correct": false,
+          "feedback": "Incorrect. La autoridad se basa en una persona experta."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento estadístico o cuantitativo.",
+          "is_correct": true,
+          "feedback": "Correct. Usa datos numéricos para respaldar la afirmación."
+        },
+        {
+          "letter": "C",
+          "text": "Argumento emocional.",
+          "is_correct": false,
+          "feedback": "Incorrect. Apela a sentimientos, no a números."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento de causa y efecto.",
+          "is_correct": false,
+          "feedback": "Incorrect. Establece una relación causal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los argumentos estadísticos usan datos numéricos, porcentajes y encuestas para respaldar una tesis. Son efectivos porque dan una apariencia de objetividad y precisión, pero deben ser analizados críticamente (¿quién hizo la encuesta? ¿con qué metodología?).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v6",
+      "statement": "¿Qué figura literaria se utiliza en la frase: \"El tiempo se detuvo en sus ojos\"?",
+      "context": "En clase de literatura, se analiza un poema de Gabriel García Márquez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Símil.",
+          "is_correct": false,
+          "feedback": "Incorrect. No usa \"como\"."
+        },
+        {
+          "letter": "B",
+          "text": "Hipérbole.",
+          "is_correct": false,
+          "feedback": "Correct. La hipérbole exagera: el tiempo no puede detenerse realmente."
+        },
+        {
+          "letter": "C",
+          "text": "Metáfora pura.",
+          "is_correct": false,
+          "feedback": "Incorrect. Aunque tiene un elemento metafórico, la exageración es lo predominante."
+        },
+        {
+          "letter": "D",
+          "text": "Onomatopeya.",
+          "is_correct": false,
+          "feedback": "Incorrect. No imita sonidos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hipérbole es una figura retórica que consiste en exagerar la realidad para darle más fuerza expresiva. \"El tiempo se detuvo\" es una exageración imposible que enfatiza la intensidad del momento.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v7",
+      "statement": "¿Cuál de las siguientes afirmaciones es un hecho (no una opinión)?",
+      "context": "Un profesor en Pereira explica la diferencia entre hecho y opinión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La música clásica es la mejor.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Es una opinión subjetiva."
+        },
+        {
+          "letter": "B",
+          "text": "\"Colombia tiene 32 departamentos.\"",
+          "is_correct": true,
+          "feedback": "Correct. Es un hecho verificable."
+        },
+        {
+          "letter": "C",
+          "text": "\"El café colombiano es el más rico del mundo.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Es una opinión."
+        },
+        {
+          "letter": "D",
+          "text": "\"Bogotá es la ciudad más bonita de América.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Es una opinión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los hechos son afirmaciones verificables objetivamente, independientemente de la opinión personal. Las opiniones expresan juicios subjetivos, gustos o valoraciones. Distinguirlos es fundamental para la lectura crítica.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v8",
+      "statement": "¿Qué tipo de recursos retóricos predominan en este discurso?",
+      "context": "Se analiza el discurso de posesión de un alcalde colombiano que usa frases como \"juntos construiremos el futuro\", \"la esperanza llegó\", \"el cambio está en nuestras manos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recursos estadísticos y datos concretos.",
+          "is_correct": false,
+          "feedback": "Incorrect. No hay datos."
+        },
+        {
+          "letter": "B",
+          "text": "Recursos emocionales y de llamado a la acción (pathos).",
+          "is_correct": true,
+          "feedback": "Correct. Apela a las emociones y a la unidad."
+        },
+        {
+          "letter": "C",
+          "text": "Recursos humorísticos.",
+          "is_correct": false,
+          "feedback": "Incorrect. No hay humor."
+        },
+        {
+          "letter": "D",
+          "text": "Recursos legales y normativos.",
+          "is_correct": false,
+          "feedback": "Incorrect. No cita leyes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los discursos políticos suelen usar el pathos (apelación a las emociones) para conectar con la audiencia. Frases como \"juntos\", \"esperanza\", \"futuro\" son recursos retóricos que buscan generar identificación y entusiasmo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v9",
+      "statement": "¿Qué falacia lógica se identifica en este argumento?",
+      "context": "Se analiza un artículo de opinión en El Tiempo que dice: \"Si no aprobamos esta reforma, el país colapsará. No hay otra opción.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falacia ad hominem.",
+          "is_correct": false,
+          "feedback": "Incorrect. Ataca a la persona, no al argumento."
+        },
+        {
+          "letter": "B",
+          "text": "Falacia de autoridad.",
+          "is_correct": false,
+          "feedback": "Incorrect. No apela a una autoridad."
+        },
+        {
+          "letter": "C",
+          "text": "Falso dilema (falsa dicotomía).",
+          "is_correct": true,
+          "feedback": "Correct. Presenta solo dos opciones cuando pueden haber más."
+        },
+        {
+          "letter": "D",
+          "text": "Falacia de causa falsa.",
+          "is_correct": false,
+          "feedback": "Incorrect. No establece una causa falsa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La falacia de falso dilema (o falsa dicotomía) presenta una situación como si solo hubiera dos opciones posibles (aprobar la reforma o colapsar), ignorando otras alternativas intermedias. Es una estrategia retórica para forzar una decisión.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v10",
+      "statement": "¿Cuál es la estructura típica de un texto argumentativo?",
+      "context": "Un estudiante en Cartagena escribe un texto argumentativo. Debe organizar sus ideas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inicio, nudo, desenlace.",
+          "is_correct": false,
+          "feedback": "Incorrect. Esa es la estructura narrativa."
+        },
+        {
+          "letter": "B",
+          "text": "Planteamiento, desarrollo, conclusión.",
+          "is_correct": false,
+          "feedback": "Incorrect. Es muy general."
+        },
+        {
+          "letter": "C",
+          "text": "Introducción (tesis), desarrollo (argumentos), conclusión (reafirmación de la tesis).",
+          "is_correct": true,
+          "feedback": "Correct. Es la estructura argumentativa clásica."
+        },
+        {
+          "letter": "D",
+          "text": "Problema, hipótesis, experimento, conclusión.",
+          "is_correct": false,
+          "feedback": "Incorrect. Es la estructura del método científico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El texto argumentativo tiene tres partes: introducción (presenta el tema y la tesis), desarrollo (expone los argumentos con ejemplos, datos, citas) y conclusión (reafirma la tesis y cierra el texto persuasivamente).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v11",
+      "statement": "¿Es correcta esta afirmación?",
+      "context": "Un estudiante afirma: \"La metáfora y el símil son lo mismo porque ambos comparan.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, son exactamente iguales.",
+          "is_correct": false,
+          "feedback": "Incorrect. Tienen diferencias importantes."
+        },
+        {
+          "letter": "B",
+          "text": "No, la metáfora solo se usa en poesía.",
+          "is_correct": false,
+          "feedback": "Incorrect. También se usa en prosa."
+        },
+        {
+          "letter": "C",
+          "text": "No. El símil usa conectores como \"como\" (comparación explícita), mientras que la metáfora identifica directamente un término con otro (comparación implícita).",
+          "is_correct": true,
+          "feedback": "Correct. Ej: \"Tus ojos son dos luceros\" (metáfora) vs. \"Tus ojos como dos luceros\" (símil)."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, ambas son lo mismo pero con diferentes nombres.",
+          "is_correct": false,
+          "feedback": "Incorrect. Son figuras distintas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La metáfora establece una identificación directa entre dos términos (\"sus ojos son luceros\"), mientras que el símil usa un conector comparativo (\"sus ojos brillan como luceros\"). La metáfora es más potente porque funde ambos términos en uno.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v12",
+      "statement": "¿Qué tipo de oración compuesta es?",
+      "context": "Se analiza una oración: \"Aunque había estudiado toda la noche, el examen le pareció difícil.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración coordinada copulativa.",
+          "is_correct": false,
+          "feedback": "Incorrect. Las coordinadas copulativas usan \"y\"."
+        },
+        {
+          "letter": "B",
+          "text": "Oración yuxtapuesta.",
+          "is_correct": false,
+          "feedback": "Incorrect. Las yuxtapuestas no tienen conectores explícitos."
+        },
+        {
+          "letter": "C",
+          "text": "Oración subordinada concesiva.",
+          "is_correct": true,
+          "feedback": "Correct. \"Aunque\" introduce una concesión (obstáculo que no impide)."
+        },
+        {
+          "letter": "D",
+          "text": "Oración coordinada adversativa.",
+          "is_correct": false,
+          "feedback": "Incorrect. Las adversativas usan \"pero\", \"sino\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las oraciones subordinadas concesivas expresan una dificultad u obstáculo que no impide que se cumpla la acción principal. El conector \"aunque\" es el más común. En este caso, estudiar no garantizó que el examen fuera fácil.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v13",
+      "statement": "¿Qué estrategia retórica diferente usa cada orador?",
+      "context": "Se comparan dos discursos: uno de un líder político que dice \"he trabajado incansablemente por ustedes\" y otro que dice \"juntos hemos logrado estos avances\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El primero usa ironía, el segundo usa humor.",
+          "is_correct": false,
+          "feedback": "Incorrect. No hay indicios de eso."
+        },
+        {
+          "letter": "B",
+          "text": "El primero usa un discurso centrado en sí mismo (yo), el segundo usa un discurso inclusivo (nosotros).",
+          "is_correct": true,
+          "feedback": "Correct. La primera persona singular vs. plural cambia la relación con la audiencia."
+        },
+        {
+          "letter": "C",
+          "text": "El primero es verdadero, el segundo es falso.",
+          "is_correct": false,
+          "feedback": "Incorrect. No podemos determinar veracidad."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos usan la misma estrategia.",
+          "is_correct": false,
+          "feedback": "Incorrect. Son estrategias opuestas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso del \"yo\" versus \"nosotros\" es una estrategia retórica fundamental. El \"yo\" enfatiza el protagonismo individual; el \"nosotros\" crea un sentido de comunidad e inclusión. Los líderes efectivos saben cuándo usar cada uno.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v14",
+      "statement": "¿Es correcta esta afirmación?",
+      "context": "Un estudiante dice: \"Los discursos políticos siempre mienten, por lo tanto no merece la pena escucharlos.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, todos los políticos mienten siempre.",
+          "is_correct": false,
+          "feedback": "Incorrect. Es una generalización excesiva."
+        },
+        {
+          "letter": "B",
+          "text": "No. Es una generalización excesiva. Aunque algunos discursos contienen medias verdades o promesas incumplidas, analizarlos críticamente es importante para tomar decisiones informadas.",
+          "is_correct": true,
+          "feedback": "Correct. La lectura crítica permite identificar falacias sin descalificar todo."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque la política es inherentemente corrupta.",
+          "is_correct": false,
+          "feedback": "Incorrect. Es una postura extremista."
+        },
+        {
+          "letter": "D",
+          "text": "No, los discursos políticos siempre dicen la verdad.",
+          "is_correct": false,
+          "feedback": "Incorrect. También es una generalización."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La postura crítica no es sinónimo de descalificación total. Un lector crítico sabe evaluar los argumentos, identificar falacias, reconocer estrategias retóricas y tomar decisiones informadas sin caer en generalizaciones absolutas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-v15",
+      "statement": "¿Qué significa \"posverdad\" en este contexto?",
+      "context": "Un analista político afirma: \"En la Colombia actual, saber argumentar y leer críticamente es más importante que nunca porque vivimos en la era de la posverdad.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la verdad ya no existe.",
+          "is_correct": false,
+          "feedback": "Incorrect. No significa eso."
+        },
+        {
+          "letter": "B",
+          "text": "Que en el debate público, las emociones y creencias personales influyen más que los hechos objetivos.",
+          "is_correct": true,
+          "feedback": "Correct. La posverdad describe un contexto donde la apelación a las emociones prevalece sobre la verificación de hechos."
+        },
+        {
+          "letter": "C",
+          "text": "Que la verdad es más importante que nunca.",
+          "is_correct": false,
+          "feedback": "Incorrect. El término describe lo opuesto."
+        },
+        {
+          "letter": "D",
+          "text": "Que la tecnología ha eliminado las mentiras.",
+          "is_correct": false,
+          "feedback": "Incorrect. La tecnología puede facilitar la difusión de mentiras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La \"posverdad\" (post-truth) se refiere a un contexto sociopolítico donde los hechos objetivos tienen menos influencia en la opinión pública que las emociones y las creencias personales. Esto hace que la lectura crítica y la argumentación sólida sean habilidades esenciales.\n\n\n[//]: # (QUALITY_REVIEW)\n[//]: # (STATUS: LEGACY - FREE USE)\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Reflexivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LECTURA-8-2026-P2-comprehensive-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

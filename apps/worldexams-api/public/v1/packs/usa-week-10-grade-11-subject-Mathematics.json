@@ -1,0 +1,891 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Mathematics",
+    "country": "usa",
+    "pack_id": "usa-week-10-grade-11-subject-mathematics",
+    "generated_at": "2026-06-22T05:46:19.063Z"
+  },
+  "questions": [
+    {
+      "id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY-v1",
+      "statement": "**Stem:** Simplify: 7(3x + 25)",
+      "context": "A US student is practicing data analysis statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 21x + 175",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "** 21x + 25",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 21x - 175",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 10x + 25\r\n  \r\n\r\n**Explanation:** Apply distributive property: 7(3x + 25) = 7×3x + 7×25 = 21x + 175.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY-v2",
+      "statement": "**Stem:** Find the slope between points (5, 5) and (9, 6)",
+      "context": "A US student is practicing data analysis statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 0\r\n  \r\n\r\n**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY-v3",
+      "statement": "**Stem:** Solve for x: 2x + 12 = 22",
+      "context": "A US student is practicing data analysis statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "** 10\r\n  \r\n\r\n**Explanation:** Subtract 12 from both sides: 2x = 10. Then divide by 2: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY-v4",
+      "statement": "**Stem:** Simplify: 6(9x + 49)",
+      "context": "A US student is practicing data analysis statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 54x + 294",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "** 54x + 49",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 54x - 294",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 15x + 49\r\n  \r\n\r\n**Explanation:** Apply distributive property: 6(9x + 49) = 6×9x + 6×49 = 54x + 294.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY-v5",
+      "statement": "**Stem:** Find the slope between points (1, 2) and (9, 6)",
+      "context": "A US student is practicing data analysis statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY-v6",
+      "statement": "**Stem:** Solve for x: 3x + 10 = 25",
+      "context": "A US student is practicing data analysis statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "** 11\r\n  \r\n\r\n**Explanation:** Subtract 10 from both sides: 3x = 15. Then divide by 3: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY-v7",
+      "statement": "**Stem:** Simplify: 7(1x + 37)",
+      "context": "A US student is practicing data analysis statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 7x + 259",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "** 7x + 37",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 7x - 259",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 8x + 37\r\n  \r\n\r\n**Explanation:** Apply distributive property: 7(1x + 37) = 7×1x + 7×37 = 7x + 259.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY-v8",
+      "statement": "**Stem:** Find the slope between points (5, 5) and (7, 7)",
+      "context": "A US student is practicing data analysis statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 0\r\n  \r\n\r\n**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY-v9",
+      "statement": "**Stem:** Solve for x: 6x + 4 = 34",
+      "context": "A US student is practicing data analysis statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "** 11\r\n  \r\n\r\n**Explanation:** Subtract 4 from both sides: 6x = 30. Then divide by 6: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY-v10",
+      "statement": "**Stem:** Simplify: 7(10x + 12)",
+      "context": "A US student is practicing data analysis statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 70x + 84",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "** 70x + 12",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 70x - 84",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 17x + 12\r\n  \r\n\r\n**Explanation:** Apply distributive property: 7(10x + 12) = 7×10x + 7×12 = 70x + 84.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY-v11",
+      "statement": "**Stem:** Find the slope between points (5, 5) and (7, 8)",
+      "context": "A US student is practicing data analysis statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 0\r\n  \r\n\r\n**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY-v12",
+      "statement": "**Stem:** Solve for x: 6x + 12 = 42",
+      "context": "A US student is practicing data analysis statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "** 11\r\n  \r\n\r\n**Explanation:** Subtract 12 from both sides: 6x = 30. Then divide by 6: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY-v13",
+      "statement": "**Stem:** Simplify: 7(4x + 37)",
+      "context": "A US student is practicing data analysis statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 28x + 259",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "** 28x + 37",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 28x - 259",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 11x + 37\r\n  \r\n\r\n**Explanation:** Apply distributive property: 7(4x + 37) = 7×4x + 7×37 = 28x + 259.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY-v14",
+      "statement": "**Stem:** Find the slope between points (4, 2) and (6, 9)",
+      "context": "A US student is practicing data analysis statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY-v15",
+      "statement": "**Stem:** Solve for x: 4x + 5 = 25",
+      "context": "A US student is practicing data analysis statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "** 10\r\n  \r\n\r\n**Explanation:** Subtract 5 from both sides: 4x = 20. Then divide by 4: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY-v16",
+      "statement": "**Stem:** Simplify: 7(9x + 17)",
+      "context": "A US student is practicing data analysis statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 63x + 119",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "** 63x + 17",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 63x - 119",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 16x + 17\r\n  \r\n\r\n**Explanation:** Apply distributive property: 7(9x + 17) = 7×9x + 7×17 = 63x + 119.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY-v17",
+      "statement": "**Stem:** Find the slope between points (1, 5) and (9, 7)",
+      "context": "A US student is practicing data analysis statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY-v18",
+      "statement": "**Stem:** Solve for x: 3x + 9 = 24",
+      "context": "A US student is practicing data analysis statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explanation:** Subtract 9 from both sides: 3x = 15. Then divide by 3: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY-v19",
+      "statement": "**Stem:** Simplify: 2(12x + 47)",
+      "context": "A US student is practicing data analysis statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 24x + 94",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "** 24x + 47",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "** 24x - 94",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 14x + 47\r\n  \r\n\r\n**Explanation:** Apply distributive property: 2(12x + 47) = 2×12x + 2×47 = 24x + 94.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    },
+    {
+      "id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY-v20",
+      "statement": "**Stem:** Find the slope between points (5, 4) and (7, 11)",
+      "context": "A US student is practicing data analysis statistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "** 0\r\n  \r\n\r\n**Explanation:** Slope = (y₂−y₁)/(x₂−x₁). Use the two given points to compute rise over run.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "US-MAT-11-2026-W10-data-analysis-statistics-001-MASTERY",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Mathematics",
+      "grade": 11,
+      "country": "usa"
+    }
+  ]
+}

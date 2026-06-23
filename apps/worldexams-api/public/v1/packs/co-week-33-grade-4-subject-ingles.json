@@ -1,0 +1,355 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-33-grade-4-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.689Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-4-2026-W33-feelings-emotions-001-MASTERY-v1",
+      "statement": "I got a 10 on my test! I am ________.",
+      "context": "Learning about feelings and emotions in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "happy",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "sad",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "angry",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "tired",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates remember skills regarding feelings and emotions at the CEFR A1 level.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W33-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W33-feelings-emotions-001-MASTERY-v2",
+      "statement": "I lost my toy. I am ________.",
+      "context": "Learning about feelings and emotions in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "bored",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "sad",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "happy",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "excited",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates understand skills regarding feelings and emotions at the CEFR A1 level.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W33-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W33-feelings-emotions-001-MASTERY-v3",
+      "statement": "It is 10:00 PM. I want to sleep. I am ________.",
+      "context": "Learning about feelings and emotions in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "surprised",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "hungry",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "tired",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "energetic",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates apply skills regarding feelings and emotions at the CEFR A1 level.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W33-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W33-feelings-emotions-001-MASTERY-v4",
+      "statement": "I want to eat a hamburger. I am ________.",
+      "context": "Learning about feelings and emotions in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "thirsty",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "scared",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "sick",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "hungry",
+          "is_correct": true,
+          "feedback": "Correct!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates analyze skills regarding feelings and emotions at the CEFR A1 level.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W33-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W33-feelings-emotions-001-MASTERY-v5",
+      "statement": "I want to drink some water. I am ________.",
+      "context": "Learning about feelings and emotions in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "thirsty",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "hungry",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "hot",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "cold",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates evaluate skills regarding feelings and emotions at the CEFR A1 level.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W33-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W33-feelings-emotions-001-MASTERY-v6",
+      "statement": "There is a big spider! I am ________.",
+      "context": "Learning about feelings and emotions in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "funny",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "scared",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "happy",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "brave",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates apply skills regarding feelings and emotions at the CEFR A1 level.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W33-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W33-feelings-emotions-001-MASTERY-v7",
+      "statement": "My brother broke my favorite pencil. I am ________.",
+      "context": "Learning about feelings and emotions in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "excited",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "calm",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "angry",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "happy",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates understand skills regarding feelings and emotions at the CEFR A1 level.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W33-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-4-2026-W33-feelings-emotions-001-MASTERY-v8",
+      "statement": "I have nothing to do. I am ________.",
+      "context": "Learning about feelings and emotions in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "busy",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "interested",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "active",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "bored",
+          "is_correct": true,
+          "feedback": "Correct!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates remember skills regarding feelings and emotions at the CEFR A1 level.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W33-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    }
+  ]
+}

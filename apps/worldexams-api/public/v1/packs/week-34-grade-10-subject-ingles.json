@@ -8,649 +8,556 @@
   },
   "questions": [
     {
-      "id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-v1",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-v1",
+      "statement": "\"You should always ____ your account after using a public computer to prevent unauthorized access.\"",
+      "context": "Advice on protecting accounts.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "log on",
+          "is_correct": false,
+          "feedback": "To enter."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-v2",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
+          "text": "log out of",
           "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct. To exit or disconnect from an account."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "set up",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "To create."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "back up",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "To make a copy."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "2",
+      "correct_answer": "B",
+      "explanation": "'Log out of' is a common phrasal verb used for disconnecting from digital accounts.\r\n\r\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-bundle",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-v3",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-v2",
+      "statement": "\"If a hacker ____ your system, they could steal all your personal information.\"",
+      "context": "Describing a hacker's action.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
+          "text": "breaks out",
+          "is_correct": false,
+          "feedback": "To escape."
         },
         {
           "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
+          "text": "breaks into",
+          "is_correct": true,
+          "feedback": "Correct. To enter a computer system illegally."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "breaks up",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "To end a relationship."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "breaks down",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "To stop working."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Break into' is the specific phrasal verb for illegal entry into a physical or digital space.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-v4",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
+      "icfes_type": "Part 4 - Grammatical Cloze",
       "expected_success": 0.84,
-      "bundle_id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-v5",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-v3",
+      "statement": "\"It is essential to ____ your important files ____ regularly in case your hard drive fails.\"",
+      "context": "Maintaining data safety.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "keep / up",
+          "is_correct": false,
+          "feedback": "To stay informed."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-v6",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
+          "text": "back / up",
           "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct. To make a copy of digital information."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "put / off",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "To postpone."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "fill / in",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "To complete a form."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Back up' is a separable phrasal verb used for creating data redundancies.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Gramática",
+      "icfes_type": "Part 2 - Lexical Knowledge",
       "expected_success": 0.8,
-      "bundle_id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-v7",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-v4",
+      "statement": "\"If you ____ more careful about suspicious links, you ____ your password to those scammers.\"",
+      "context": "An article about phishing.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
+          "text": "are / wouldn't give",
+          "is_correct": false,
+          "feedback": "Mixed conditional, possible but B is for past-to-past."
         },
         {
           "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-v8",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "had been / wouldn't have given",
           "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct. Third Conditional for a past digital mistake."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "were / won't give",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "are / don't give",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Zero Conditional (general truth)."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-v9",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-v10",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-v11",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-v12",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "Using the Third Conditional to analyze past cybersecurity failures.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-bundle",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-v13",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-v5",
+      "statement": "\"Whenever a new security patch is released, you should ____ it ____ immediately.\"",
+      "context": "Discussing software updates.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "go / through",
+          "is_correct": false,
+          "feedback": "To examine."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
+          "text": "carry / out",
+          "is_correct": true,
+          "feedback": "Correct. To perform or complete a task (like installation)."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "set / off",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "To trigger."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "bring / about",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "To cause to happen."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "'Carry out' means to execute or perform a specific task, such as installing an update.\r\n\r\n---",
       "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.62,
-      "bundle_id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-v14",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.59,
-      "bundle_id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-v15",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "1",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Gramática",
-      "expected_success": 0.57,
-      "bundle_id": "CO-ING-10-2026-W34-future-technology-001-MASTERY-bundle",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.71,
+      "bundle_id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-v6",
+      "statement": "\"Your identity ____ stolen if you ____ the same password for all your accounts.\"",
+      "context": "A warning about identity theft.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will be / used",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        },
+        {
+          "letter": "B",
+          "text": "could be / use",
+          "is_correct": true,
+          "feedback": "Correct First Conditional with modal for possibility."
+        },
+        {
+          "letter": "C",
+          "text": "was / used",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        },
+        {
+          "letter": "D",
+          "text": "would be / use",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using the First Conditional (could be + present) to warn about potential future digital risks.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.67,
+      "bundle_id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-v7",
+      "statement": "\"I ____ the email carefully before realizing it was a scam, but I didn't ____ any of the links.\"",
+      "context": "Dealing with a suspicious email.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "looked up / click",
+          "is_correct": false,
+          "feedback": "Incorrect meaning."
+        },
+        {
+          "letter": "B",
+          "text": "went through / click on",
+          "is_correct": true,
+          "feedback": "Correct. To examine carefully + tech phrasal 'click on'."
+        },
+        {
+          "letter": "C",
+          "text": "broke into / look after",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "set up / log on",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Go through' means to examine something in detail, which is essential for identifying digital scams.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.63,
+      "bundle_id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-v8",
+      "statement": "\"The IT department ____ a new firewall to ____ hackers from accessing the main server.\"",
+      "context": "A text about corporate security.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "set off / let",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "set up / keep",
+          "is_correct": true,
+          "feedback": "Correct. To establish/install + to prevent."
+        },
+        {
+          "letter": "C",
+          "text": "brought up / stop",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "broke down / prevent",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Set up' means to establish or install a system, a key phrasal verb in tech contexts.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.59,
+      "bundle_id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-v9",
+      "statement": "\"Unless companies ____ multi-factor authentication, they ____ vulnerable to credential stuffing attacks.\"",
+      "context": "Discussing the importance of multi-factor authentication.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "implement / would remain",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "implement / will remain",
+          "is_correct": true,
+          "feedback": "Correct First Conditional with 'unless'."
+        },
+        {
+          "letter": "C",
+          "text": "implemented / will remain",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        },
+        {
+          "letter": "D",
+          "text": "had implemented / remained",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'unless' in a First Conditional to describe a necessary security measure and the consequence of not having it.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-v10",
+      "statement": "\"Only by ____ advanced encryption ____ the military hope to protect its communication channels.\"",
+      "context": "A formal discussion on cyber warfare.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "using / can",
+          "is_correct": true,
+          "feedback": "Correct inversion with 'Only by'."
+        },
+        {
+          "letter": "B",
+          "text": "use / will",
+          "is_correct": false,
+          "feedback": "Incorrect syntax for 'Only by'."
+        },
+        {
+          "letter": "C",
+          "text": "using / -",
+          "is_correct": false,
+          "feedback": "Missing auxiliary for inversion."
+        },
+        {
+          "letter": "D",
+          "text": "used / did",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Advanced B2 structure: Inversion after 'Only by + gerund' in a high-stakes security context.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-v11",
+      "statement": "\"He ____ his computer unattended in a cafe; it was a clear violation of basic security rules.\"",
+      "context": "Critique of a user's negligence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must not leave",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        },
+        {
+          "letter": "B",
+          "text": "can't have left",
+          "is_correct": false,
+          "feedback": "Contradicts the result (it happened)."
+        },
+        {
+          "letter": "C",
+          "text": "shouldn't have left",
+          "is_correct": true,
+          "feedback": "Correct. Past criticism."
+        },
+        {
+          "letter": "D",
+          "text": "might not have left",
+          "is_correct": false,
+          "feedback": "Incorrect meaning."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Using 'shouldn't have' to criticize past negligent behavior in a digital context.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-v12",
+      "statement": "\"If the company ____ more transparent about its data practices, its reputation ____ so much today.\"",
+      "context": "A complex hypothetical about data privacy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was / wouldn't suffer",
+          "is_correct": false,
+          "feedback": "Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "had been / wouldn't be suffering",
+          "is_correct": true,
+          "feedback": "Correct Mixed Conditional (Past action -> Present ongoing result)."
+        },
+        {
+          "letter": "C",
+          "text": "had been / wouldn't have suffered",
+          "is_correct": false,
+          "feedback": "Third conditional (Past result)."
+        },
+        {
+          "letter": "D",
+          "text": "were / didn't suffer",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mastery level: Using a Mixed Conditional to connect past corporate decisions to present-day reputation damage.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W34-cyber-security-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     }
   ]
 }

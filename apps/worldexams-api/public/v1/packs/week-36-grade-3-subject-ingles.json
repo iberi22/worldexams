@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-36-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T05:46:16.198Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-v1",
+      "statement": "The book is **_________** the table. 📖➡️table",
+      "context": "Placing an object on a surface.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Incorrect. \"In\" means inside."
+        },
+        {
+          "letter": "B",
+          "text": "on",
+          "is_correct": true,
+          "feedback": "Correct! \"On\" is used for objects on a surface."
+        },
+        {
+          "letter": "C",
+          "text": "under",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "behind",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"On\" significa sobre o encima de una superficie (haciendo contacto).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.95,
+      "bundle_id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-v2",
+      "statement": "The pencils are **_________** the pencil case. ✏️➡️👝",
+      "context": "Placing an object inside a container.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "is_correct": true,
+          "feedback": "Correct! \"In\" means inside a container or space."
+        },
+        {
+          "letter": "B",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "next to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "under",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"In\" significa en o dentro de un espacio cerrado o contenedor.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-v3",
+      "statement": "The cat is hiding **_________** the chair. 🐈➡️🪑(bottom)",
+      "context": "Below an object.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "under",
+          "is_correct": true,
+          "feedback": "Correct! \"Under\" means below or beneath."
+        },
+        {
+          "letter": "D",
+          "text": "between",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Under\" significa debajo de algo.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-v4",
+      "statement": "My house is **_________** the park. It is very close. 🏠🌳",
+      "context": "Beside another object.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "under",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "next to",
+          "is_correct": true,
+          "feedback": "Correct! \"Next to\" means beside or to the side of."
+        },
+        {
+          "letter": "C",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Next to\" significa al lado de o junto a.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-v5",
+      "statement": "Complete: **\"I sit ________ my best friend in class.\"** 👦👧",
+      "context": "Position of a student.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "next to",
+          "is_correct": true,
+          "feedback": "Correct! You sit beside or next to your friend."
+        },
+        {
+          "letter": "D",
+          "text": "under",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Usamos \"next to\" para indicar que dos personas u objetos están uno al lado del otro.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-v6",
+      "statement": "There is a **lamp** on the desk. Where is the **desk**?\r\nThe desk is **_________** the lamp.",
+      "context": "Identifying position by image description.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "Incorrect. The lamp is on the desk."
+        },
+        {
+          "letter": "B",
+          "text": "under",
+          "is_correct": true,
+          "feedback": "Correct! If the lamp is on the desk, the desk is under the lamp."
+        },
+        {
+          "letter": "C",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "next to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Entender la relación espacial inversa. Si A está sobre B, entonces B está debajo de A.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-v7",
+      "statement": "Where is my **teddy bear**?\r\nIt is **_________** the box. Open the box to see it! 📦",
+      "context": "Finding a toy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "is_correct": true,
+          "feedback": "Correct! If you have to open the box, the bear is inside (in)."
+        },
+        {
+          "letter": "B",
+          "text": "under",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "next to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La instrucción \"abrir la caja\" confirma que el objeto está en el interior (in).\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-v8",
+      "statement": "Which sentence is **correct** for the picture of a **bird on a tree branch**? 🐦🌿",
+      "context": "Comparing positions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The bird is under the branch.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "The bird is on the branch.",
+          "is_correct": true,
+          "feedback": "Correct! Birds stand on branches."
+        },
+        {
+          "letter": "C",
+          "text": "The bird is in the branch.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "The branch is on the bird.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar la posición física. Los pájaros se posan sobre (on) las ramas.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-v9",
+      "statement": "Which two prepositions are **opposites**?",
+      "context": "Opposite prepositions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In and Next to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "On and Under",
+          "is_correct": true,
+          "feedback": "Correct! Over/On and Under/Below are opposites."
+        },
+        {
+          "letter": "C",
+          "text": "In and On",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Next to and Behind",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar las relaciones espaciales. \"On\" (encima) y \"Under\" (debajo) representan posiciones opuestas en el eje vertical.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-v10",
+      "statement": "You see a **dog** inside a **doghouse**. How do you describe it? 🐕🏠",
+      "context": "Choosing the best preposition to describe a scene.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The dog is on the house.",
+          "is_correct": false,
+          "feedback": "Incorrect. That would be on the roof."
+        },
+        {
+          "letter": "B",
+          "text": "The dog is in the house.",
+          "is_correct": true,
+          "feedback": "Correct! Inside a small building is \"in\"."
+        },
+        {
+          "letter": "C",
+          "text": "The dog is under the house.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "The dog is next to the house.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la escena. Estar protegido por las paredes de la casa significa estar \"in\".",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    }
+  ]
+}

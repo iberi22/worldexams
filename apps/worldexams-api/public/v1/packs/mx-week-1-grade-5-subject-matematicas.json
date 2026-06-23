@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "Matemáticas",
+    "country": "mx",
+    "pack_id": "mx-week-1-grade-5-subject-matematicas",
+    "generated_at": "2026-06-23T16:16:37.799Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-05-fracciones-001-v1",
+      "statement": "¿Cómo se escribe con números la fracción \"un cuarto\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/4",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "4/1",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "1/5",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Un cuarto\" representa una parte de un entero dividido en cuatro partes iguales.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-05-fracciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "Matemáticas",
+      "grade": 5,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-05-fracciones-001-v2",
+      "statement": "En la fracción 3/5, ¿cuál es el denominador?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una fracción, el número de abajo es el denominador, que indica en cuántas partes se divide el entero.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-05-fracciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "Matemáticas",
+      "grade": 5,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-05-fracciones-001-v3",
+      "statement": "¿Cuál es el resultado de sumar 1/4 + 2/4?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/4",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "3/8",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "1/4",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando las fracciones tienen el mismo denominador, solo se suman los numeradores: 1 + 2 = 3. El denominador permanece igual.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-05-fracciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "Matemáticas",
+      "grade": 5,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-05-fracciones-001-v4",
+      "statement": "Si tienes una pizza dividida en 8 rebanadas y te comes 3, ¿qué fracción de la pizza queda?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5/8",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "3/8",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "8/8",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pizza entera es 8/8. Si quitas 3/8, quedan 5/8.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-05-fracciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "Matemáticas",
+      "grade": 5,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-05-fracciones-001-v5",
+      "statement": "¿Cuál es la fracción equivalente a 1/2 que tiene como denominador 10?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5/10",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "2/10",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "1/10",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "6/10",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para obtener una fracción equivalente, multiplicamos numerador y denominador por el mismo número. 1x5=5 y 2x5=10.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-05-fracciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "Matemáticas",
+      "grade": 5,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-05-fracciones-001-v6",
+      "statement": "¿Cuál es el resultado de sumar 1/2 + 1/4?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/4",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "2/6",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "1/4",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "2/4",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Convertimos 1/2 a cuartos: 1/2 = 2/4. Luego sumamos 2/4 + 1/4 = 3/4.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-05-fracciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "Matemáticas",
+      "grade": 5,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-05-fracciones-001-v7",
+      "statement": "¿Cuál es el número decimal que representa la fracción 1/2?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.5",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "0.2",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "0.12",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "1.2",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Paso 1:** Dividir el numerador entre el denominador (1 ÷ 2).\n**Resultado:** 0.5.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-05-fracciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "Matemáticas",
+      "grade": 5,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-05-fracciones-001-v8",
+      "statement": "Si compras 3/4 de kilo de queso y luego 1/2 kilo más, ¿cuánto queso tienes en total expresado como fracción mixta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 1/4 kg",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "1 1/2 kg",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "4/6 kg",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "5/4 kg",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumamos 3/4 + 1/2 = 3/4 + 2/4 = 5/4. Al convertir a fracción mixta: 5 ÷ 4 = 1 con residuo 1, lo que da 1 1/4.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-05-fracciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "Matemáticas",
+      "grade": 5,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-05-fracciones-001-v9",
+      "statement": "Un corredor ha recorrido 3/5 de una pista de 400 metros. ¿Cuántos metros le faltan por recorrer?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "160 metros",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "240 metros",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "200 metros",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "100 metros",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Primero calculamos cuánto ha recorrido: (400 ÷ 5) x 3 = 80 x 3 = 240 metros. Lo que falta es 400 - 240 = 160 metros.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-05-fracciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "Matemáticas",
+      "grade": 5,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-05-fracciones-001-v10",
+      "statement": "Ordena de mayor a menor las siguientes fracciones: 1/2, 2/3, 1/4.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2/3, 1/2, 1/4",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "1/4, 1/2, 2/3",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "2/3, 1/4, 1/2",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "1/2, 2/3, 1/4",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Convertimos a un denominador común (12): 1/2 = 6/12; 2/3 = 8/12; 1/4 = 3/12. Comparando los numeradores, el orden es 8/12 > 6/12 > 3/12.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-05-fracciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "Matemáticas",
+      "grade": 5,
+      "country": "mx"
+    }
+  ]
+}

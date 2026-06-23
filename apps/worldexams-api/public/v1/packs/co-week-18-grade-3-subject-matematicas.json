@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-18-grade-3-subject-matematicas",
+    "generated_at": "2026-06-22T05:46:16.955Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY-v1",
+      "statement": "Cuantos lados tiene un triangulo?",
+      "context": "En Colegio Rafael Nunez de Cartagena de Medellin",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto! Triangulo tiene 3 lados."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "4 lados es un cuadrilatero."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Una figura con 2 lados no es cerrada."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "5 lados es un pentagono."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Triangulo = 3 lados, 3 vertices. Tri significa 3.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicacion y Representacion",
+      "expected_success": 0.95,
+      "bundle_id": "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY-v2",
+      "statement": "Que figura geometrica tiene 4 lados iguales?",
+      "context": "En Colegio San Agustin de Sincelejo de Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuadrado",
+          "is_correct": true,
+          "feedback": "Correcto! Cuadrado: 4 lados iguales, 4 angulos rectos."
+        },
+        {
+          "letter": "B",
+          "text": "Triangulo",
+          "is_correct": false,
+          "feedback": "Triangulo tiene 3 lados."
+        },
+        {
+          "letter": "C",
+          "text": "Circulo",
+          "is_correct": false,
+          "feedback": "Circulo no tiene lados."
+        },
+        {
+          "letter": "D",
+          "text": "Rectangulo",
+          "is_correct": false,
+          "feedback": "Rectangulo tiene lados iguales de a pares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuadrado: 4 lados iguales, 4 esquinas (vertices).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicacion y Representacion",
+      "expected_success": 0.91,
+      "bundle_id": "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY-v3",
+      "statement": "Un angulo recto mide cuantos grados?",
+      "context": "En Colegio San Bartolome de Bogota",
+      "options": [
+        {
+          "letter": "A",
+          "text": "90 grados",
+          "is_correct": true,
+          "feedback": "Correcto! Angulo recto = 90 grados, como la esquina de un cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "180 grados",
+          "is_correct": false,
+          "feedback": "180 grados es un angulo llano (linea recta)."
+        },
+        {
+          "letter": "C",
+          "text": "45 grados",
+          "is_correct": false,
+          "feedback": "45 grados es un angulo agudo."
+        },
+        {
+          "letter": "D",
+          "text": "360 grados",
+          "is_correct": false,
+          "feedback": "360 grados es una vuelta completa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Angulo recto = 90 grados. Es el angulo de las esquinas de cuadrados y rectangulos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Solucion de Problemas",
+      "expected_success": 0.87,
+      "bundle_id": "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY-v4",
+      "statement": "Cual figura tiene eje de simetria?",
+      "context": "En Colegio Simon Bolivar de Bucaramanga de Neiva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un cuadrado",
+          "is_correct": true,
+          "feedback": "Correcto! Un cuadrado tiene 4 ejes de simetria."
+        },
+        {
+          "letter": "B",
+          "text": "Un triangulo escaleno",
+          "is_correct": false,
+          "feedback": "Triangulo escaleno no tiene ejes de simetria."
+        },
+        {
+          "letter": "C",
+          "text": "Un rectangulo irregular",
+          "is_correct": false,
+          "feedback": "Depende. Un rectangulo si tiene 2 ejes."
+        },
+        {
+          "letter": "D",
+          "text": "Un circulo no tiene simetria",
+          "is_correct": false,
+          "feedback": "El circulo tiene infinitos ejes de simetria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Eje de simetria: linea que divide la figura en dos partes identicas. Cuadrado: 4 ejes. Circulo: infinitos.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Solucion de Problemas",
+      "expected_success": 0.83,
+      "bundle_id": "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY-v5",
+      "statement": "Cuantos vertices tiene un cuadrado?",
+      "context": "En Colegio Nuestra Senora del Rosario de Popayan",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto! Cuadrado tiene 4 vertices (esquinas)."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "3 vertices es un triangulo."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "6 vertices es un hexagono."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Las figuras geometricas tienen vertices."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Vertices: puntos donde se unen los lados. Cuadrado: 4 vertices.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento Logico",
+      "expected_success": 0.79,
+      "bundle_id": "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY-v6",
+      "statement": "Que figura NO tiene lados?",
+      "context": "En Colegio La Salle de Medellin de Bogota",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Circulo",
+          "is_correct": true,
+          "feedback": "Correcto! El circulo es una curva cerrada sin lados rectos."
+        },
+        {
+          "letter": "B",
+          "text": "Triangulo",
+          "is_correct": false,
+          "feedback": "Triangulo tiene 3 lados rectos."
+        },
+        {
+          "letter": "C",
+          "text": "Cuadrado",
+          "is_correct": false,
+          "feedback": "Cuadrado tiene 4 lados rectos."
+        },
+        {
+          "letter": "D",
+          "text": "Pentagono",
+          "is_correct": false,
+          "feedback": "Pentagono tiene 5 lados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las figuras curvas como el circulo no tienen lados rectos. Se llaman curvas cerradas.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento Logico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY-v7",
+      "statement": "Cual de estos angulos es AGUDO?",
+      "context": "En Colegio San Jose de Pasto de Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 grados",
+          "is_correct": true,
+          "feedback": "Correcto! Agudo = menor de 90 grados. 30 < 90."
+        },
+        {
+          "letter": "B",
+          "text": "90 grados",
+          "is_correct": false,
+          "feedback": "90 grados es angulo recto."
+        },
+        {
+          "letter": "C",
+          "text": "120 grados",
+          "is_correct": false,
+          "feedback": "120 grados es obtuso (mayor de 90)."
+        },
+        {
+          "letter": "D",
+          "text": "180 grados",
+          "is_correct": false,
+          "feedback": "180 grados es angulo llano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Angulos agudos miden entre 0 y 90 grados. Angulos obtusos miden entre 90 y 180.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicacion y Representacion",
+      "expected_success": 0.71,
+      "bundle_id": "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY-v8",
+      "statement": "Cuantos lados tiene un pentagono?",
+      "context": "En Colegio La Salle de Medellin de Bogota",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto! Penta = 5. Pentagono = 5 lados."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "3 lados = triangulo. Tri = 3."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "4 lados = cuadrilatero. Tetra = 4."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "6 lados = hexagono. Hexa = 6."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los nombres indican el numero de lados: pentagono (5), hexagono (6), octogono (8).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicacion y Representacion",
+      "expected_success": 0.67,
+      "bundle_id": "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY-v9",
+      "statement": "Cual figura tiene 0 vertices?",
+      "context": "En Colegio Simon Bolivar de Bucaramanga de Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Circulo",
+          "is_correct": true,
+          "feedback": "Correcto! El circulo es una curva sin vertices."
+        },
+        {
+          "letter": "B",
+          "text": "Cuadrado",
+          "is_correct": false,
+          "feedback": "Cuadrado tiene 4 vertices."
+        },
+        {
+          "letter": "C",
+          "text": "Triangulo",
+          "is_correct": false,
+          "feedback": "Triangulo tiene 3 vertices."
+        },
+        {
+          "letter": "D",
+          "text": "Rectangulo",
+          "is_correct": false,
+          "feedback": "Rectangulo tiene 4 vertices."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Vertices son las puntas donde se unen lados rectos. Un circulo no tiene vertices.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Solucion de Problemas",
+      "expected_success": 0.63,
+      "bundle_id": "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY-v10",
+      "statement": "Cuantos lados tiene un triangulo?",
+      "context": "En Colegio San Agustin de Sincelejo de Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto! Triangulo tiene 3 lados."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "4 lados es un cuadrilatero."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Una figura con 2 lados no es cerrada."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "5 lados es un pentagono."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Triangulo = 3 lados, 3 vertices. Tri significa 3.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Solucion de Problemas",
+      "expected_success": 0.59,
+      "bundle_id": "CO-MAT-3-2026-W18-medicion-peso-y-capacidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

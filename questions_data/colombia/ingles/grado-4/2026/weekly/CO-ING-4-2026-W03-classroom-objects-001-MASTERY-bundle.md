@@ -11,13 +11,11 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 8
 bundle_size: 8
-alignment: "MEN"
-cefr_level: "A1"
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-
 # Weekly Pack W03: Classroom Objects (A1)
 
 Este bundle evalúa conceptos de classroom objects en inglés, nivel CEFR A1 para grado 4.

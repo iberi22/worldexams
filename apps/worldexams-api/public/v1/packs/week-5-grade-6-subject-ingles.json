@@ -8,886 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W05-family-members-001-MASTERY-v1",
-      "statement": "\"Your mother's mother is your ___.\"",
-      "context": "In class in Bogotá, students learn family vocabulary.",
+      "id": "CO-ING-6-2026-W05-numbers-colors-001-v1",
+      "statement": "This is a review question about numbers-colors.",
+      "context": "Scenario about numbers-colors in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "aunt",
+          "text": "Option D",
           "is_correct": false,
-          "feedback": "Incorrecto. La hermana de tu mamá es tu tía."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "sister",
-          "is_correct": false,
-          "feedback": "Incorrecto. La hija de tus padres es tu hermana."
+          "text": "Option A (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "grandmother",
-          "is_correct": true,
-          "feedback": "Correcto. La madre de tu mamá es tu abuela."
+          "text": "Option C",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "cousin",
+          "text": "Option B",
           "is_correct": false,
-          "feedback": "Incorrecto. La hija de tu tío es tu prima."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Family tree: mother (mamá), father (papá), grandmother (abuela), grandfather (abuelo), sister (hermana), brother (hermano).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W05-family-members-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W05-family-members-001-MASTERY-v2",
-      "statement": "\"Your father's brother is your ___.\"",
-      "context": "In Medellín, students name family members.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "grandfather",
-          "is_correct": false,
-          "feedback": "Incorrecto. El papá de tu papá es tu abuelo."
-        },
-        {
-          "letter": "B",
-          "text": "uncle",
-          "is_correct": true,
-          "feedback": "Correcto. El hermano de tu papá es tu tío."
-        },
-        {
-          "letter": "C",
-          "text": "cousin",
-          "is_correct": false,
-          "feedback": "Incorrecto. El hijo de tu tío es tu primo."
-        },
-        {
-          "letter": "D",
-          "text": "nephew",
-          "is_correct": false,
-          "feedback": "Incorrecto. El hijo de tu hermano es tu sobrino."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Uncle = tío, aunt = tía, cousin = primo/a, nephew = sobrino, niece = sobrina.\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "This question evaluates the student's ability to remember the topic of Numbers (1-100) and Colors at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W05-family-members-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W05-numbers-colors-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W05-family-members-001-MASTERY-v3",
-      "statement": "\"Maria is my sister. ___ is 10 years old.\"",
-      "context": "In Cali, a student talks about her family.",
+      "id": "CO-ING-6-2026-W05-numbers-colors-002-v1",
+      "statement": "Select the correct A2 level use for numbers-colors.",
+      "context": "Scenario about numbers-colors in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "He",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"He\" es para hombres."
+          "text": "Structure 1 (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "She",
-          "is_correct": true,
-          "feedback": "Correcto. \"She\" para referirse a Maria (hermana)."
+          "text": "Structure 4",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "It",
+          "text": "Structure 3",
           "is_correct": false,
-          "feedback": "Incorrecto. \"It\" es para objetos o animales."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "They",
+          "text": "Structure 2",
           "is_correct": false,
-          "feedback": "Incorrecto. \"They\" es plural."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pronombres personales: he (él), she (ella), it (ello/objeto), they (ellos/ellas). Maria es mujer → she.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W05-family-members-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W05-family-members-001-MASTERY-v4",
-      "statement": "\"Carlos has a brother. ___ name is Andrés.\"",
-      "context": "In Barranquilla, students practice possessive adjectives.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "His",
-          "is_correct": true,
-          "feedback": "Correcto. \"His\" para posesión de un hombre (Carlos)."
-        },
-        {
-          "letter": "B",
-          "text": "Her",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Her\" es para posesión de una mujer."
-        },
-        {
-          "letter": "C",
-          "text": "My",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"My\" es para primera persona."
-        },
-        {
-          "letter": "D",
-          "text": "Your",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Your\" es para segunda persona."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Possessive adjectives: my (mi), your (tu/su), his (su de él), her (su de ella), its (su de cosa/animal), our (nuestro), their (su de ellos).\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W05-family-members-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W05-family-members-001-MASTERY-v5",
-      "statement": "\"She is my mother. ___ name is Ana.\"",
-      "context": "In Bucaramanga, students describe a family photo.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "His",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"His\" = de él."
-        },
-        {
-          "letter": "B",
-          "text": "Her",
-          "is_correct": true,
-          "feedback": "Correcto. \"Her\" = de ella."
-        },
-        {
-          "letter": "C",
-          "text": "Its",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Its\" = de cosa/animal."
-        },
-        {
-          "letter": "D",
-          "text": "Their",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Their\" = de ellos."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Her name\" = su nombre (de ella). Es importante no confundir: his = de él, her = de ella.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W05-family-members-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W05-family-members-001-MASTERY-v6",
-      "statement": "\"These are ___ parents: my mother and my father.\"",
-      "context": "In Cartagena, a student introduces her family.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "my",
-          "is_correct": true,
-          "feedback": "Correcto. \"My parents\" = mis padres."
-        },
-        {
-          "letter": "B",
-          "text": "me",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Me\" es pronombre objeto."
-        },
-        {
-          "letter": "C",
-          "text": "I",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"I\" es pronombre sujeto."
-        },
-        {
-          "letter": "D",
-          "text": "mine",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Mine\" es pronombre posesivo, no adjetivo."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "\"My\" es un adjetivo posesivo y va siempre antes del sustantivo: my parents, my family, my house. \"Mine\" es pronombre y va solo: \"This is mine.\"\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of Numbers (1-100) and Colors at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Formulación y Ejecución",
-      "bundle_id": "CO-ING-6-2026-W05-family-members-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W05-family-members-001-MASTERY-v7",
-      "statement": "\"___ brothers and sisters do you have?\"",
-      "context": "In Pereira, students make questions about family.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "How",
-          "is_correct": false,
-          "feedback": "Incorrecto. Falta información específica."
-        },
-        {
-          "letter": "B",
-          "text": "What many",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es gramatical."
-        },
-        {
-          "letter": "C",
-          "text": "How many",
-          "is_correct": true,
-          "feedback": "Correcto. \"How many\" pregunta por cantidad."
-        },
-        {
-          "letter": "D",
-          "text": "How much",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"How much\" se usa para incontables."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "\"How many\" se usa para preguntar por cantidad de cosas contables: \"How many brothers?\" \"How many cousins?\" \"How many pets?\"\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Formulación y Ejecución",
-      "bundle_id": "CO-ING-6-2026-W05-family-members-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W05-family-members-001-MASTERY-v8",
-      "statement": "\"___ house is near the school.\"",
-      "context": "In Manizales, students use the possessive 's.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "The Garcia",
-          "is_correct": false,
-          "feedback": "Incorrecto. Necesita el apóstrofe posesivo."
-        },
-        {
-          "letter": "B",
-          "text": "The Garcias'",
-          "is_correct": false,
-          "feedback": "Incorrecto. Si es plural, el apóstrofe va después de la s."
-        },
-        {
-          "letter": "C",
-          "text": "The Garcias'",
-          "is_correct": true,
-          "feedback": "Correcto. \"The Garcias' house\" = la casa de los García."
-        },
-        {
-          "letter": "D",
-          "text": "The Garcia is",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es gramatical."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "El posesivo con apellidos: singular = García's house, plural (familia) = The Garcias' house. En Colombia: \"The Rodríguez family\" = \"The Rodríguezes'.\"\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Formulación y Ejecución",
-      "bundle_id": "CO-ING-6-2026-W05-family-members-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W05-family-members-001-MASTERY-v9",
-      "statement": "\"Luisa is my mother's sister. She is my ___.\"",
-      "context": "In Cúcuta, students read a short text about a family.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "grandmother",
-          "is_correct": false,
-          "feedback": "Incorrecto. La hermana de mi mamá no es mi abuela."
-        },
-        {
-          "letter": "B",
-          "text": "aunt",
-          "is_correct": true,
-          "feedback": "Correcto. La hermana de mi mamá es mi tía."
-        },
-        {
-          "letter": "C",
-          "text": "cousin",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es la hija de mi tío, es la hermana de mi mamá."
-        },
-        {
-          "letter": "D",
-          "text": "niece",
-          "is_correct": false,
-          "feedback": "Incorrecto. Mi sobrina es la hija de mi hermano."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Relaciones familiares: mother's sister = aunt (tía), father's brother = uncle (tío), mother's mother = grandmother (abuela).\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Razonamiento y Argumentación",
-      "bundle_id": "CO-ING-6-2026-W05-family-members-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W05-family-members-001-MASTERY-v10",
-      "statement": "\"My father's parents are my ___ and my ___.\"",
-      "context": "In Ibagué, students complete a family description.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "uncle / aunt",
-          "is_correct": false,
-          "feedback": "Incorrecto. Son los padres de mi papá."
-        },
-        {
-          "letter": "B",
-          "text": "grandfather / grandmother",
-          "is_correct": true,
-          "feedback": "Correcto. Los padres de mi papá son mis abuelos."
-        },
-        {
-          "letter": "C",
-          "text": "brother / sister",
-          "is_correct": false,
-          "feedback": "Incorrecto. Los padres no son hermanos."
-        },
-        {
-          "letter": "D",
-          "text": "cousin / cousin",
-          "is_correct": false,
-          "feedback": "Incorrecto. No son primos."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Father's parents\" = grandparents (abuelos). Grandfather = abuelo, grandmother = abuela. A veces se dice \"grandpa\" y \"grandma\" de manera informal.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Razonamiento y Argumentación",
-      "bundle_id": "CO-ING-6-2026-W05-family-members-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-v1",
-      "statement": "What is the structure of present perfect?",
-      "context": "At Liceo de la Sabana de Pereira, students review present perfect.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "subject + past tense verb",
-          "is_correct": false,
-          "feedback": "Pasado simple."
-        },
-        {
-          "letter": "B",
-          "text": "subject + have/has + past participle",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "subject + be + verb-ing",
-          "is_correct": false,
-          "feedback": "Presente continuo."
-        },
-        {
-          "letter": "D",
-          "text": "subject + will + verb",
-          "is_correct": false,
-          "feedback": "Futuro simple."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Present perfect: sujeto + have/has + past participle. Conecta pasado con presente.\r\n\r\n---",
-      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W05-numbers-colors-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-v2",
-      "statement": "What is the past participle of \"go\"?",
-      "context": "In I.E. La Salle de Medellín, students review verb forms.",
+      "id": "CO-ING-6-2026-W05-numbers-colors-003-v1",
+      "statement": "Identify the appropriate vocabulary for numbers-colors.",
+      "context": "Scenario about numbers-colors in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
+          "text": "Word 2",
           "is_correct": false,
-          "feedback": "Pasado simple."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "No existe."
+          "text": "Word 1 (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "gone",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Word 4",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "Word 3",
           "is_correct": false,
-          "feedback": "Gerundio."
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to understand the topic of Numbers (1-100) and Colors at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W05-numbers-colors-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W05-numbers-colors-004-v1",
+      "statement": "Complete the sentence about numbers-colors.",
+      "context": "Scenario about numbers-colors in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phrase D",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "Phrase B",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Phrase A (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "D",
+          "text": "Phrase C",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Verbos irregulares: go-went-gone, see-saw-seen, eat-ate-eaten, write-wrote-written.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-v3",
-      "statement": "Complete: \"I have lived in Ibagué since 2020.\"",
-      "context": "At Colegio Tolimense de Manizales, students practice for/since.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "for",
-          "is_correct": false,
-          "feedback": "For + duración."
-        },
-        {
-          "letter": "B",
-          "text": "since",
-          "is_correct": true,
-          "feedback": "Correcto. Since + punto específico."
-        },
-        {
-          "letter": "C",
-          "text": "ago",
-          "is_correct": false,
-          "feedback": "Ago + pasado simple."
-        },
-        {
-          "letter": "D",
-          "text": "from",
-          "is_correct": false,
-          "feedback": "No aplica."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Since + punto específico (2020, Monday). For + duración (three years, two months).\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-v4",
-      "statement": "What does \"I have just eaten\" mean?",
-      "context": "In I.E. La Salle de Manizales, students practice comprehension.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "I ate a long time ago.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "B",
-          "text": "I ate a very short time ago.",
-          "is_correct": true,
-          "feedback": "Correcto. Just = acabar de."
-        },
-        {
-          "letter": "C",
-          "text": "I will eat soon.",
-          "is_correct": false,
-          "feedback": "Futuro."
-        },
-        {
-          "letter": "D",
-          "text": "I never eat.",
-          "is_correct": false,
-          "feedback": "Negación."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Just\" con present perfect = \"acabar de\". \"I have just finished\" = Acabo de terminar.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-v5",
-      "statement": "Correct: \"She has went to the museum.\"",
-      "context": "Students at I.E. La Salle de Cúcuta correct mistakes.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has goed to the park.",
-          "is_correct": false,
-          "feedback": "\"Goed\" no existe."
-        },
-        {
-          "letter": "B",
-          "text": "She has gone to the museum.",
-          "is_correct": true,
-          "feedback": "Correcto. Gone es el past participle de go."
-        },
-        {
-          "letter": "C",
-          "text": "She has go to the museum.",
-          "is_correct": false,
-          "feedback": "\"Go\" no es past participle."
-        },
-        {
-          "letter": "D",
-          "text": "She went to the museum.",
-          "is_correct": false,
-          "feedback": "Pasado simple, no PP."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Past participle de \"go\" = \"gone\". \"Went\" es solo pasado simple.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to understand the topic of Numbers (1-100) and Colors at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W05-numbers-colors-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-v6",
-      "statement": "Choose: \"I have already visited San Agustín.\"",
-      "context": "In Colegio Cambridge de Tunja, students use already.",
+      "id": "CO-ING-6-2026-W05-numbers-colors-005-v1",
+      "statement": "What is the best way to express numbers-colors?",
+      "context": "Scenario about numbers-colors in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "have already visit",
+          "text": "Incorrect way",
           "is_correct": false,
-          "feedback": "Past participle needed."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "have already visited",
+          "text": "This way (Correct)",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "already have visited",
+          "text": "Other way",
           "is_correct": false,
-          "feedback": "Orden incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "visited already",
+          "text": "That way",
           "is_correct": false,
-          "feedback": "Coloquial."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Adverbios (already, just, never) van entre have/has y el past participle.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-v7",
-      "statement": "Difference: \"She has been to Cartagena\" vs \"She has gone to Cartagena\"?",
-      "context": "At I.E. María Inmaculada de Bucaramanga, analyze been vs gone.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Same meaning.",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "B",
-          "text": "\"Been to\" = visited and returned. \"Gone to\" = still there.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "\"Been to\" = still there.",
-          "is_correct": false,
-          "feedback": "Al revés."
-        },
-        {
-          "letter": "D",
-          "text": "\"Gone to\" = visited many times.",
-          "is_correct": false,
-          "feedback": "No."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Been to\" = ha ido y regresó. \"Gone to\" = fue y está allí.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to apply the topic of Numbers (1-100) and Colors at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W05-numbers-colors-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-v8",
-      "statement": "Question: \"you / ever / try / empanadas?\"",
-      "context": "In I.E. María Inmaculada de Villavicencio, students form questions.",
+      "id": "CO-ING-6-2026-W05-numbers-colors-006-v1",
+      "statement": "Find the error in this numbers-colors sentence.",
+      "context": "Scenario about numbers-colors in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Did you ever try empanadas?",
+          "text": "Different error",
           "is_correct": false,
-          "feedback": "Past simple."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "Have you ever try empanadas?",
+          "text": "No error",
           "is_correct": false,
-          "feedback": "Past participle needed."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Have you ever tried bandeja paisa?",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Wrong error",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "You have ever tried bandeja paisa?",
-          "is_correct": false,
-          "feedback": "Falta inversión."
+          "text": "The error is here (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Preguntas PP: Have/Has + sujeto + ever + past participle?\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to apply the topic of Numbers (1-100) and Colors at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W05-numbers-colors-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-v9",
-      "statement": "Correct tense? \"Colombia won its first gold in 1972.\"",
-      "context": "At Colegio Tolimense de Pasto, evaluate tense.",
+      "id": "CO-ING-6-2026-W05-numbers-colors-007-v1",
+      "statement": "Match the term with the definition of numbers-colors.",
+      "context": "Scenario about numbers-colors in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "has won",
+          "text": "Irrelevant",
           "is_correct": false,
-          "feedback": "Tiempo específico."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "won",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Opposite",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "has been winning",
+          "text": "Non-matching",
           "is_correct": false,
-          "feedback": "PP continuous."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "wins",
-          "is_correct": false,
-          "feedback": "Present simple."
+          "text": "Matching term (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Eventos con fecha específica: pasado simple, nunca PP.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to apply the topic of Numbers (1-100) and Colors at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W05-numbers-colors-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W05-numbers-colors-008-v1",
+      "statement": "Choose the synonym for a word related to numbers-colors.",
+      "context": "Scenario about numbers-colors in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Synonym (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "Homonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Antonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Unrelated",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Numbers (1-100) and Colors at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W05-numbers-colors-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-v10",
-      "statement": "Correct PP paragraph: I have visited the museum. I have been there twice.",
-      "context": "In Colegio Tolimense de Cali, students write a paragraph.",
+      "id": "CO-ING-6-2026-W05-numbers-colors-009-v1",
+      "statement": "Which of these belongs to numbers-colors?",
+      "context": "Scenario about numbers-colors in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "I visit the museum. I go there.",
-          "is_correct": false,
-          "feedback": "Present simple, not PP."
+          "text": "This one (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "I have visited the museum. I have been there twice.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Both",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "I have visit the museum.",
+          "text": "Not this one",
           "is_correct": false,
-          "feedback": "Visit -> visited."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "I have visited last week.",
+          "text": "Neither",
           "is_correct": false,
-          "feedback": "\"Last week\" con PP."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "PP paragraph: past participles correctos, sin tiempos específicos.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Numbers (1-100) and Colors at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W05-numbers-colors-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-v11",
-      "statement": "Which auxiliary for \"she\" in PP?",
-      "context": "In Liceo de la Sabana de Bucaramanga, review have/has.",
+      "id": "CO-ING-6-2026-W05-numbers-colors-010-v1",
+      "statement": "Predict the next word in the numbers-colors context.",
+      "context": "Scenario about numbers-colors in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "have",
+          "text": "Wrong prediction",
           "is_correct": false,
-          "feedback": "Have para I/you/we/they."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "has",
+          "text": "Correct prediction",
           "is_correct": true,
-          "feedback": "Correcto. He/she/it -> has."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "do",
+          "text": "Maybe",
           "is_correct": false,
-          "feedback": "Present simple."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "did",
+          "text": "Impossible",
           "is_correct": false,
-          "feedback": "Past simple."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Conjugación: I/You/We/They + have. He/She/It + has.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
-      "difficulty": "3",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Numbers (1-100) and Colors at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W05-present-perfect-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W05-numbers-colors-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

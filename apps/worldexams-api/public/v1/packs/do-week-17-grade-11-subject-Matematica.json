@@ -1,0 +1,891 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Matematica",
+    "country": "do",
+    "pack_id": "do-week-17-grade-11-subject-matematica",
+    "generated_at": "2026-06-22T05:46:17.722Z"
+  },
+  "questions": [
+    {
+      "id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY-v1",
+      "statement": "**Stem:** Simplifica: 2(11x + 49)",
+      "context": "Estudiantes en San Pedro de Macorís practicando geometria angulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 22x + 98",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 22x + 49",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 13x + 98",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 22x - 98\r\n  \r\n\r\n**Explanation:** Propiedad distributiva: 2(11x + 49) = 2×11x + 2×49 = 22x + 98.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY-v2",
+      "statement": "**Stem:** Encuentra la pendiente de f(x) = 8x + 10",
+      "context": "Estudiantes en Bonao practicando geometria angulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 8",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 3\r\n  \r\n\r\n**Explanation:** En f(x) = mx + n, la pendiente es m = 8.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY-v3",
+      "statement": "**Stem:** María compra 8 libros a $2.3 c/u y 2 cuadernos a $8.3 c/u. ¿Gasto total?",
+      "context": "Estudiantes en Higüey practicando geometria angulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $32.3",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $16.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $16.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $50\r\n  \r\n\r\n**Explanation:** Total = 8×2 + 2×8 = 32.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY-v4",
+      "statement": "**Stem:** Resuelve: 2(x + 7) = 20",
+      "context": "Estudiantes en Santiago practicando geometria angulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 6\r\n  \r\n\r\n**Explanation:** 2(x + 7) = 20 → x + 7 = 10 → x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY-v5",
+      "statement": "**Stem:** Resuelve: 4x + 11 = 31",
+      "context": "Estudiantes en San Cristóbal practicando geometria angulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explanation:** Resta 11 de ambos lados: 4x = 20. Divide por 4: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY-v6",
+      "statement": "**Stem:** Simplifica: 8(11x + 49)",
+      "context": "Estudiantes en La Romana practicando geometria angulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 88x + 392",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 88x + 49",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 19x + 392",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 88x - 392\r\n  \r\n\r\n**Explanation:** Propiedad distributiva: 8(11x + 49) = 8×11x + 8×49 = 88x + 392.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY-v7",
+      "statement": "**Stem:** Encuentra la pendiente de f(x) = 8x + 9",
+      "context": "Estudiantes en Santo Domingo practicando geometria angulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 8",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 2\r\n  \r\n\r\n**Explanation:** En f(x) = mx + n, la pendiente es m = 8.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY-v8",
+      "statement": "**Stem:** María compra 7 libros a $8.3 c/u y 8 cuadernos a $7.3 c/u. ¿Gasto total?",
+      "context": "Estudiantes en San Pedro de Macorís practicando geometria angulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $112.3",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $56.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $56.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $165\r\n  \r\n\r\n**Explanation:** Total = 7×8 + 8×7 = 112.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY-v9",
+      "statement": "**Stem:** Resuelve: 2(x + 3) = 12",
+      "context": "Estudiantes en Bonao practicando geometria angulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 2\r\n  \r\n\r\n**Explanation:** 2(x + 3) = 12 → x + 3 = 6 → x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY-v10",
+      "statement": "**Stem:** Resuelve: 3x + 2 = 17",
+      "context": "Estudiantes en Nagua practicando geometria angulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explanation:** Resta 2 de ambos lados: 3x = 15. Divide por 3: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY-v11",
+      "statement": "**Stem:** Simplifica: 3(8x + 10)",
+      "context": "Estudiantes en La Vega practicando geometria angulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 24x + 30",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 24x + 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 11x + 30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 24x - 30\r\n  \r\n\r\n**Explanation:** Propiedad distributiva: 3(8x + 10) = 3×8x + 3×10 = 24x + 30.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY-v12",
+      "statement": "**Stem:** Encuentra la pendiente de f(x) = 7x + 7",
+      "context": "Estudiantes en Santo Domingo practicando geometria angulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 7",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explanation:** En f(x) = mx + n, la pendiente es m = 7.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY-v13",
+      "statement": "**Stem:** María compra 5 libros a $4.4 c/u y 4 cuadernos a $5.4 c/u. ¿Gasto total?",
+      "context": "Estudiantes en Bonao practicando geometria angulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $40.4",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $20.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $20.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $72\r\n  \r\n\r\n**Explanation:** Total = 5×4 + 4×5 = 40.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY-v14",
+      "statement": "**Stem:** Resuelve: 2(x + 2) = 10",
+      "context": "Estudiantes en San Cristóbal practicando geometria angulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explanation:** 2(x + 2) = 10 → x + 2 = 5 → x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY-v15",
+      "statement": "**Stem:** Resuelve: 3x + 5 = 20",
+      "context": "Estudiantes en Nagua practicando geometria angulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 12\r\n  \r\n\r\n**Explanation:** Resta 5 de ambos lados: 3x = 15. Divide por 3: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY-v16",
+      "statement": "**Stem:** Simplifica: 7(2x + 49)",
+      "context": "Estudiantes en Barahona practicando geometria angulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 14x + 343",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 14x + 49",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 9x + 343",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 14x - 343\r\n  \r\n\r\n**Explanation:** Propiedad distributiva: 7(2x + 49) = 7×2x + 7×49 = 14x + 343.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY-v17",
+      "statement": "**Stem:** Encuentra la pendiente de f(x) = 7x + 6",
+      "context": "Estudiantes en Santo Domingo practicando geometria angulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 7",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 2\r\n  \r\n\r\n**Explanation:** En f(x) = mx + n, la pendiente es m = 7.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY-v18",
+      "statement": "**Stem:** María compra 2 libros a $1.4 c/u y 1 cuadernos a $2.4 c/u. ¿Gasto total?",
+      "context": "Estudiantes en San Francisco de Macorís practicando geometria angulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $4.4",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $2.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $2.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $15\r\n  \r\n\r\n**Explanation:** Total = 2×1 + 1×2 = 4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY-v19",
+      "statement": "**Stem:** Resuelve: 2(x + 6) = 18",
+      "context": "Estudiantes en Barahona practicando geometria angulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 5\r\n  \r\n\r\n**Explanation:** 2(x + 6) = 18 → x + 6 = 9 → x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY-v20",
+      "statement": "**Stem:** Resuelve: 2x + 8 = 18",
+      "context": "Estudiantes en Baní practicando geometria angulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 10\r\n  \r\n\r\n**Explanation:** Resta 8 de ambos lados: 2x = 10. Divide por 2: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "DO-MAT-11-2026-W17-geometria-angulos-001-MASTERY",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "do"
+    }
+  ]
+}

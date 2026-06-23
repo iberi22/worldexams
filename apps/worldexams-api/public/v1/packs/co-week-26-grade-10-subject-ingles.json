@@ -1,0 +1,527 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-26-grade-10-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.583Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-v1",
+      "statement": "\"In Colombia, football is ____ more popular than any other sport, often uniting people from all regions.\"",
+      "context": "Comparing two popular sports.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "much",
+          "is_correct": false,
+          "feedback": "Correct, but B is a more formal B2-level intensifier."
+        },
+        {
+          "letter": "B",
+          "text": "significantly",
+          "is_correct": true,
+          "feedback": "Correct B2 intensifier for comparatives."
+        },
+        {
+          "letter": "C",
+          "text": "many",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "very",
+          "is_correct": false,
+          "feedback": "Incorrect with comparatives."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparatives can be intensified using adverbs like 'significantly', 'considerably', or 'much'.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-v2",
+      "statement": "\"Modern athletes are ____ faster than those of fifty years ago due to better training and technology.\"",
+      "context": "Comparing current and past athletes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "more",
+          "is_correct": false,
+          "feedback": "Incorrect with 'faster'."
+        },
+        {
+          "letter": "B",
+          "text": "far",
+          "is_correct": true,
+          "feedback": "Correct intensifier."
+        },
+        {
+          "letter": "C",
+          "text": "so",
+          "is_correct": false,
+          "feedback": "Incorrect with comparatives."
+        },
+        {
+          "letter": "D",
+          "text": "very",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Far' is a common intensifier for comparative adjectives and adverbs.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.84,
+      "bundle_id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-v3",
+      "statement": "\"The two teams were ____ matched that the game ended in a draw after two hours.\"",
+      "context": "Describing a close competition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "as even",
+          "is_correct": false,
+          "feedback": "Incorrect comparison structure."
+        },
+        {
+          "letter": "B",
+          "text": "so evenly",
+          "is_correct": true,
+          "feedback": "Correct. Adverbial comparison of equality in a result structure."
+        },
+        {
+          "letter": "C",
+          "text": "more evenly",
+          "is_correct": false,
+          "feedback": "Missing 'than'."
+        },
+        {
+          "letter": "D",
+          "text": "quite even",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'so + adverb + that' to describe the degree of equality between two subjects.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Part 2 - Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-v4",
+      "statement": "\"The ____ success a national team has, the ____ the sense of unity among the citizens becomes.\"",
+      "context": "An article about national pride.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "more / biggest",
+          "is_correct": false,
+          "feedback": "Incorrect syntax."
+        },
+        {
+          "letter": "B",
+          "text": "more / greater",
+          "is_correct": true,
+          "feedback": "Correct double comparative (The more... the more/greater...)."
+        },
+        {
+          "letter": "C",
+          "text": "most / great",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "more / most",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Double comparatives are used to show that two things change at the same rate. Structure: The + comparative, the + comparative.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-v5",
+      "statement": "\"Cycling is ____ as important to Colombian identity as football is, especially in mountainous regions.\"",
+      "context": "Comparing sports in different cultures.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "more",
+          "is_correct": false,
+          "feedback": "Needs 'than'."
+        },
+        {
+          "letter": "B",
+          "text": "very",
+          "is_correct": false,
+          "feedback": "Incorrect with 'as'."
+        },
+        {
+          "letter": "C",
+          "text": "every bit",
+          "is_correct": true,
+          "feedback": "Correct B2 intensifier for 'as... as' structures."
+        },
+        {
+          "letter": "D",
+          "text": "so",
+          "is_correct": false,
+          "feedback": "Usually used in negative 'not so... as'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Every bit as' is a sophisticated way to emphasize that two things are equal in a certain quality.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.71,
+      "bundle_id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-v6",
+      "statement": "\"Professional sports are ____ more demanding than amateur ones, both physically and mentally.\"",
+      "context": "Comparing the pressure on amateur and professional athletes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "many",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "considerably",
+          "is_correct": true,
+          "feedback": "Correct B2 level intensifier."
+        },
+        {
+          "letter": "C",
+          "text": "too",
+          "is_correct": false,
+          "feedback": "Incorrect with comparatives."
+        },
+        {
+          "letter": "D",
+          "text": "very",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Choosing precise adverbs like 'considerably' to add nuance to comparative statements in formal contexts.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.67,
+      "bundle_id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-v7",
+      "statement": "\"Traditional games are becoming ____ popular as young people turn to digital entertainment.\"",
+      "context": "Describing a declining trend in a sport's popularity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "least and least",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "less and less",
+          "is_correct": true,
+          "feedback": "Correct structure for a continuing decrease."
+        },
+        {
+          "letter": "C",
+          "text": "more or less",
+          "is_correct": false,
+          "feedback": "Incorrect meaning."
+        },
+        {
+          "letter": "D",
+          "text": "little and little",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Repeated comparatives ('less and less' or 'more and more') describe a situation that is changing continuously.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.63,
+      "bundle_id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-v8",
+      "statement": "\"The progress in women's sports has been ____ than many activists had initially hoped.\"",
+      "context": "A text about female representation in sports.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "more slow",
+          "is_correct": false,
+          "feedback": "Incorrect form for 'slow'."
+        },
+        {
+          "letter": "B",
+          "text": "slower",
+          "is_correct": true,
+          "feedback": "Correct comparative."
+        },
+        {
+          "letter": "C",
+          "text": "slowest",
+          "is_correct": false,
+          "feedback": "Superlative is incorrect here."
+        },
+        {
+          "letter": "D",
+          "text": "slowly",
+          "is_correct": false,
+          "feedback": "Adverb is incorrect for a state with 'has been'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ensuring the correct form of the comparative adjective (slow -> slower) in a complex sentence.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.59,
+      "bundle_id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-v9",
+      "statement": "\"Major events like the World Cup have a ____ greater impact on the host city than smaller tournaments.\"",
+      "context": "Comparing the impact of different sports on local economies.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "very",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "substantially",
+          "is_correct": true,
+          "feedback": "Correct formal intensifier."
+        },
+        {
+          "letter": "C",
+          "text": "so",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "lot",
+          "is_correct": false,
+          "feedback": "Informal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "B2 complexity: Using 'substantially' to modify a comparative adjective in a formal economic/social context.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-v10",
+      "statement": "\"____ intense the rivalry between teams, ____ likely it is that fans will identify strongly with their group.\"",
+      "context": "A sophisticated observation on fan behavior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The more / the more",
+          "is_correct": true,
+          "feedback": "Correct double comparative."
+        },
+        {
+          "letter": "B",
+          "text": "More / more",
+          "is_correct": false,
+          "feedback": "Missing 'The'."
+        },
+        {
+          "letter": "C",
+          "text": "The most / the most",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "As / as",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Advanced B2 structure: Double comparatives used to link intensity of emotion with intensity of identity.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-v11",
+      "statement": "\"The games were not ____ as successful as the organizers had claimed in their final report.\"",
+      "context": "Critique of the Olympic Games.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "very",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "nearly",
+          "is_correct": true,
+          "feedback": "Correct. Used to emphasize a large difference in a negative comparison."
+        },
+        {
+          "letter": "C",
+          "text": "such",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "more",
+          "is_correct": false,
+          "feedback": "Incorrect with 'as'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'nearly' with negative 'as... as' comparisons to express that something fell far short of expectations.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    },
+    {
+      "id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-v12",
+      "statement": "\"Individual sports require ____ as much discipline as team sports, ____ if not more.\"",
+      "context": "A complex theoretical comparison.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "many / more",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "at least / if not",
+          "is_correct": true,
+          "feedback": "Correct. 'At least as... as' is a sophisticated comparative structure."
+        },
+        {
+          "letter": "C",
+          "text": "so / and",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "very / but",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mastery level: Using the 'at least as... as' structure to make a complex comparison that allows for even greater degrees of the quality being discussed.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W26-sports-and-identity-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2"
+    }
+  ]
+}

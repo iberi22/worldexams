@@ -1,0 +1,891 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Historia y Ciencias Sociales",
+    "country": "py",
+    "pack_id": "py-week-16-grade-11-subject-historia_y_ciencias_sociales",
+    "generated_at": "2026-06-22T05:46:18.950Z"
+  },
+  "questions": [
+    {
+      "id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-v1",
+      "statement": "Simplifique: (5)(11x + 43)",
+      "context": "Estudiantes de PY practicando paraguay actual politica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 55x + 215",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 55x + 43",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 16x + 215",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 55x - 215\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (5)(11x + 43) = 55x + 215.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-v2",
+      "statement": "Resuelve: 2(x + 8) = 22",
+      "context": "Estudiantes de PY practicando paraguay actual politica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explicacion:** 2(x+8) = 22 -> x+8 = 11 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-v3",
+      "statement": "Maria compro 6 cuadernos a $5.1 c/u en Ciudad del Este. &iquest;Cuanto gasto?",
+      "context": "Estudiantes de PY practicando paraguay actual politica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $30.1",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $6.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $5.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $11.1\r\n  \r\n\r\n**Explicacion:** Total = 6 x $5 = $30.1.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-v4",
+      "statement": "Un estudiante de Colegio Nacional Pedro Juan Caballero en Pedro Juan Caballero grafica f(x) = 4x + 7. &iquest;Cual es la pendiente?",
+      "context": "Estudiantes de PY practicando paraguay actual politica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 4",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 4\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-v5",
+      "statement": "En un examen ANEP/MEC en Lambare, se pide: si f(x) = 2x^2 + 5x + 7. &iquest;Cual es f(2)?",
+      "context": "Estudiantes de PY practicando paraguay actual politica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 25",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explicacion:** Sustituyo x=2: f(2) = 2(4) + 5(2) + 7 = 25.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-v6",
+      "statement": "Resuelve la ecuacion: x^2 - 10x + 24 = 0",
+      "context": "Estudiantes de PY practicando paraguay actual politica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** x = 6 y x = 4",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** x = 10 y x = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** x = 0 y x = 24",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** No tiene solucion\r\n  \r\n\r\n**Explicacion:** Ecuacion cuadratica: (x-6)(x-4) = 0, por tanto x = 6 o x = 4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-v7",
+      "statement": "Un estudiante de Asuncion obtuvo notas: 14, 36, 24. &iquest;Cual es la media?",
+      "context": "Estudiantes de PY practicando paraguay actual politica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 24.7",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 84",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 19\r\n  \r\n\r\n**Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-v8",
+      "statement": "Calcule la derivada de f(x) = 8x^3 + 3x^2 + 7x",
+      "context": "Estudiantes de PY practicando paraguay actual politica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** f'(x) = 24x^2 + 6x + 7",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** f'(x) = 8x^2 + 3x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** f'(x) = 24x^2 + 3x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** f'(x) = 24x^3 + 6x^2\r\n  \r\n\r\n**Explicacion:** Derivada termino a termino: d/dx(8x^3) = 24x^2, d/dx(3x^2) = 6x, d/dx(7x) = 7.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-v9",
+      "statement": "&iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0",
+      "context": "Estudiantes de PY practicando paraguay actual politica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Si, es correcta porque f'(0) = 0 y f''(0) > 0",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** No, tiene un maximo en x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** No, no tiene extremos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** Solo es correcta para x > 0\r\n  \r\n\r\n**Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-v10",
+      "statement": "En Ciudad del Este, un estudiante del Colegio Nacional del Alto Parana resuelve: 2x + 4 = 14. &iquest;Cual es el valor de x?",
+      "context": "Estudiantes de PY practicando paraguay actual politica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explicacion:** Se resta 4 de ambos lados. Luego se divide por 2: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-v11",
+      "statement": "Simplifique: (2)(8x + 17)",
+      "context": "Estudiantes de PY practicando paraguay actual politica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 16x + 34",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 16x + 17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 10x + 34",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 16x - 34\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (2)(8x + 17) = 16x + 34.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-v12",
+      "statement": "Resuelve: 2(x + 7) = 20",
+      "context": "Estudiantes de PY practicando paraguay actual politica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 6\r\n  \r\n\r\n**Explicacion:** 2(x+7) = 20 -> x+7 = 10 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-v13",
+      "statement": "Maria compro 7 cuadernos a $3.2 c/u en Coronel Oviedo. &iquest;Cuanto gasto?",
+      "context": "Estudiantes de PY practicando paraguay actual politica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $21.2",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $7.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $3.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $10.2\r\n  \r\n\r\n**Explicacion:** Total = 7 x $3 = $21.2.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-v14",
+      "statement": "Un estudiante de Colegio Nacional Concepcion en Concepcion grafica f(x) = 2x + 1. &iquest;Cual es la pendiente?",
+      "context": "Estudiantes de PY practicando paraguay actual politica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 2\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 2.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-v15",
+      "statement": "En un examen ANEP/MEC en Coronel Oviedo, se pide: si f(x) = 6x^2 + 6x + 5. &iquest;Cual es f(2)?",
+      "context": "Estudiantes de PY practicando paraguay actual politica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 41",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 12\r\n  \r\n\r\n**Explicacion:** Sustituyo x=2: f(2) = 6(4) + 6(2) + 5 = 41.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-v16",
+      "statement": "Resuelve la ecuacion: x^2 - 13x + 42 = 0",
+      "context": "Estudiantes de PY practicando paraguay actual politica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** x = 7 y x = 6",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** x = 13 y x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** x = 0 y x = 42",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** No tiene solucion\r\n  \r\n\r\n**Explicacion:** Ecuacion cuadratica: (x-7)(x-6) = 0, por tanto x = 7 o x = 6.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-v17",
+      "statement": "Un estudiante de Capata obtuvo notas: 12, 3, 12. &iquest;Cual es la media?",
+      "context": "Estudiantes de PY practicando paraguay actual politica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 9.0",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-v18",
+      "statement": "Calcule la derivada de f(x) = 5x^3 + 9x^2 + 9x",
+      "context": "Estudiantes de PY practicando paraguay actual politica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** f'(x) = 15x^2 + 18x + 9",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** f'(x) = 5x^2 + 9x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** f'(x) = 15x^2 + 9x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** f'(x) = 15x^3 + 18x^2\r\n  \r\n\r\n**Explicacion:** Derivada termino a termino: d/dx(5x^3) = 15x^2, d/dx(9x^2) = 18x, d/dx(9x) = 9.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-v19",
+      "statement": "&iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0",
+      "context": "Estudiantes de PY practicando paraguay actual politica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Si, es correcta porque f'(0) = 0 y f''(0) > 0",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** No, tiene un maximo en x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** No, no tiene extremos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** Solo es correcta para x > 0\r\n  \r\n\r\n**Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-v20",
+      "statement": "En Caaguazu, un estudiante del Colegio Nacional Caaguazu resuelve: 2x + 4 = 14. &iquest;Cual es el valor de x?",
+      "context": "Estudiantes de PY practicando paraguay actual politica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explicacion:** Se resta 4 de ambos lados. Luego se divide por 2: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PY-SOC-11-2026-W16-paraguay-actual-politica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

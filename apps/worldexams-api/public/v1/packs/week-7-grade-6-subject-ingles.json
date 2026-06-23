@@ -8,892 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-v1",
-      "statement": "\"Tall\" means ___ in Spanish.",
-      "context": "In Bogotá, students learn adjectives for physical description.",
+      "id": "CO-ING-6-2026-W07-school-places-001-v1",
+      "statement": "I write with my ________ in my notebook.",
+      "context": "Scenario about school-places in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Bajo",
+          "text": "desk",
           "is_correct": false,
-          "feedback": "Incorrecto. \"Bajo\" es \"short\"."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "Alto",
+          "text": "pencil",
           "is_correct": true,
-          "feedback": "Correcto. \"Tall\" = alto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "Delgado",
+          "text": "board",
           "is_correct": false,
-          "feedback": "Incorrecto. \"Delgado\" es \"thin\" o \"slim\"."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Gordo",
+          "text": "window",
           "is_correct": false,
-          "feedback": "Incorrecto. \"Gordo\" es \"fat\"."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "\"Tall\" = alto/a. Opuestos: tall (alto) ↔ short (bajo), thin/fat (delgado/gordo), young (joven) ↔ old (viejo).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-v2",
-      "statement": "\"Someone with no hair is ___.\"",
-      "context": "In Medellín, students learn hair vocabulary.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "curly",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Curly\" = rizado."
-        },
-        {
-          "letter": "B",
-          "text": "blond",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Blond\" = rubio."
-        },
-        {
-          "letter": "C",
-          "text": "bald",
-          "is_correct": true,
-          "feedback": "Correcto. \"Bald\" = calvo."
-        },
-        {
-          "letter": "D",
-          "text": "long",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Long\" = largo."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Tipos de cabello: long (largo), short (corto), curly (rizado), straight (liso), wavy (ondulado), blond (rubio), brown (castaño), bald (calvo).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-v3",
-      "statement": "\"She ___ long, straight hair.\"",
-      "context": "In Cali, students describe hair and eyes.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "have",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Have\" con she no es correcto."
-        },
-        {
-          "letter": "B",
-          "text": "has",
-          "is_correct": true,
-          "feedback": "Correcto. \"She has\" = ella tiene."
-        },
-        {
-          "letter": "C",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Is\" no indica posesión de cabello."
-        },
-        {
-          "letter": "D",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "Incorrecto. No funciona aquí."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Para describir características físicas usamos \"have/has\": I have, you have, he/she has, we have, they have.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-v4",
-      "statement": "\"My brother is very ___. He is 1.80 meters.\"",
-      "context": "In Barranquilla, students describe height.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "tall",
-          "is_correct": true,
-          "feedback": "Correcto. 1.80 m es alto."
-        },
-        {
-          "letter": "B",
-          "text": "short",
-          "is_correct": false,
-          "feedback": "Incorrecto. 1.80 m no es bajo."
-        },
-        {
-          "letter": "C",
-          "text": "small",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Small\" es para objetos, no altura de personas."
-        },
-        {
-          "letter": "D",
-          "text": "tiny",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Tiny\" es muy pequeño."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Para altura de personas: tall (alto, +1.75m aprox), short (bajo). Para objetos: big/large (grande), small (pequeño).\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-v5",
-      "statement": "\"My eyes ___ brown.\"",
-      "context": "In Bucaramanga, students use \"be\" for description.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Eyes\" es plural."
-        },
-        {
-          "letter": "B",
-          "text": "are",
-          "is_correct": true,
-          "feedback": "Correcto. \"Eyes\" = plural → are."
-        },
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Am\" solo con I."
-        },
-        {
-          "letter": "D",
-          "text": "have",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Have\" no se usa con color de ojos de esa forma."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Para describir con el verbo \"to be\": \"My eyes are brown\" = Mis ojos son marrones. Para describir con \"have\": \"I have brown eyes\".\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of School Places and Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W07-school-places-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-v6",
-      "statement": "\"I ___ short and I ___ curly hair.\"",
-      "context": "In Cartagena, a student describes herself.",
+      "id": "CO-ING-6-2026-W07-school-places-002-v1",
+      "statement": "The teacher writes on the ________.",
+      "context": "Scenario about school-places in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "am / have",
-          "is_correct": true,
-          "feedback": "Correcto. \"I am short\" (ser), \"I have curly hair\" (tener)."
+          "text": "chair",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "have / am",
+          "text": "backpack",
           "is_correct": false,
-          "feedback": "Incorrecto. Orden incorrecto de verbos."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "am / am",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"I am curly hair\" no tiene sentido."
+          "text": "board",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "have / have",
+          "text": "floor",
           "is_correct": false,
-          "feedback": "Incorrecto. \"I have short\" no es correcto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "\"Am\" para ser/estar (características estables). \"Have\" para tener (posesión de atributos como cabello). I am tall. I have blue eyes.\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to remember the topic of School Places and Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Formulación y Ejecución",
-      "bundle_id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W07-school-places-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-v7",
-      "statement": "\"Shakira ___ long blond hair.\"",
-      "context": "In Pereira, students describe a famous Colombian person.",
+      "id": "CO-ING-6-2026-W07-school-places-003-v1",
+      "statement": "Where do you study?",
+      "context": "Scenario about school-places in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "have",
+          "text": "In the bed.",
           "is_correct": false,
-          "feedback": "Incorrecto. Shakira = she → has."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "has",
-          "is_correct": true,
-          "feedback": "Correcto. \"Shakira has long blond hair.\""
+          "text": "In the kitchen.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Is\" no indica posesión."
-        },
-        {
-          "letter": "D",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "Incorrecto. No funciona aquí."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Tercera persona singular (he/she/it) → has. Shakira has long blond hair. Carlos has brown eyes.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Formulación y Ejecución",
-      "bundle_id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-v8",
-      "statement": "\"What does your best friend look ___?\"",
-      "context": "In Manizales, students ask about appearance.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "at",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Look at\" = mirar a."
-        },
-        {
-          "letter": "B",
-          "text": "for",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Look for\" = buscar."
-        },
-        {
-          "letter": "C",
-          "text": "like",
+          "text": "In the classroom.",
           "is_correct": true,
-          "feedback": "Correcto. \"Look like\" = cómo se ve, aspecto físico."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "after",
+          "text": "In the park.",
           "is_correct": false,
-          "feedback": "Incorrecto. \"Look after\" = cuidar."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "\"What does he/she look like?\" pregunta por la apariencia física. Se responde con descripciones: \"He is tall and thin. He has short hair.\"\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to understand the topic of School Places and Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Formulación y Ejecución",
-      "bundle_id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W07-school-places-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-v9",
-      "statement": "\"She is tall and thin. She has long straight hair. She wears glasses. Who could she be?\"",
-      "context": "In Cúcuta, students read a description and identify the person.",
+      "id": "CO-ING-6-2026-W07-school-places-004-v1",
+      "statement": "What do you use to erase a mistake?",
+      "context": "Scenario about school-places in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "A baby",
+          "text": "A sharpener.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los bebés no son altos ni usan gafas típicamente."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "A primary school student",
+          "text": "A ruler.",
           "is_correct": false,
-          "feedback": "Posible, pero \"tall\" sugiere alguien mayor."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "A high school teacher",
+          "text": "An eraser.",
           "is_correct": true,
-          "feedback": "Correcto. Una profesora alta y delgada con gafas es una descripción plausible."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "A toddler",
+          "text": "A book.",
           "is_correct": false,
-          "feedback": "Incorrecto. Un niño pequeño no es alto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Leer descripciones requiere conectar adjetivos con personas plausibles. \"Tall\", \"glasses\", \"long straight hair\" describe a una adulta o adolescente.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to understand the topic of School Places and Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W07-school-places-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W07-school-places-005-v1",
+      "statement": "I carry my books in my ________.",
+      "context": "Scenario about school-places in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wallet",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "pencil case",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "backpack",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "D",
+          "text": "pocket",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to apply the topic of School Places and Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Razonamiento y Argumentación",
-      "bundle_id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-v10",
-      "statement": "\"Which sentence is INCORRECT?\"",
-      "context": "In Ibagué, students correct a wrong description.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "My sister has green eyes. <!-- Correct: Tener. -->",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "My father is tall and thin. <!-- Correct: Ser. -->",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "I am short hair.",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"I am short hair\" significa \"Yo soy cabello corto\", que no tiene sentido."
-        },
-        {
-          "letter": "C",
-          "text": "I am short hair. <!-- Actually the error; listed twice, choose the right one -->",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "They have curly hair. <!-- Correct: Tener. -->",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "\"I am short hair\" es incorrecto porque \"short hair\" no es una característica de identidad. Lo correcto es \"I have short hair\" o \"My hair is short\".\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Razonamiento y Argumentación",
-      "bundle_id": "CO-ING-6-2026-W07-describing-people-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-v1",
-      "statement": "What is the structure of present perfect?",
-      "context": "At Colegio Champagnat de Manizales, students review present perfect.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "subject + past tense verb",
-          "is_correct": false,
-          "feedback": "Pasado simple."
-        },
-        {
-          "letter": "B",
-          "text": "subject + have/has + past participle",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "subject + be + verb-ing",
-          "is_correct": false,
-          "feedback": "Presente continuo."
-        },
-        {
-          "letter": "D",
-          "text": "subject + will + verb",
-          "is_correct": false,
-          "feedback": "Futuro simple."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Present perfect: sujeto + have/has + past participle. Conecta pasado con presente.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-v2",
-      "statement": "What is the past participle of \"go\"?",
-      "context": "In Colegio INEM de Pasto, students review verb forms.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "went",
-          "is_correct": false,
-          "feedback": "Pasado simple."
-        },
-        {
-          "letter": "B",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "No existe."
-        },
-        {
-          "letter": "C",
-          "text": "gone",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "Gerundio."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Verbos irregulares: go-went-gone, see-saw-seen, eat-ate-eaten, write-wrote-written.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-v3",
-      "statement": "Complete: \"I have lived in Cúcuta since 2020.\"",
-      "context": "At Liceo de la Sabana de Santa Marta, students practice for/since.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "for",
-          "is_correct": false,
-          "feedback": "For + duración."
-        },
-        {
-          "letter": "B",
-          "text": "since",
-          "is_correct": true,
-          "feedback": "Correcto. Since + punto específico."
-        },
-        {
-          "letter": "C",
-          "text": "ago",
-          "is_correct": false,
-          "feedback": "Ago + pasado simple."
-        },
-        {
-          "letter": "D",
-          "text": "from",
-          "is_correct": false,
-          "feedback": "No aplica."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Since + punto específico (2020, Monday). For + duración (three years, two months).\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-v4",
-      "statement": "What does \"I have just eaten\" mean?",
-      "context": "In I.E. María Inmaculada de Manizales, students practice comprehension.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "I ate a long time ago.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "B",
-          "text": "I ate a very short time ago.",
-          "is_correct": true,
-          "feedback": "Correcto. Just = acabar de."
-        },
-        {
-          "letter": "C",
-          "text": "I will eat soon.",
-          "is_correct": false,
-          "feedback": "Futuro."
-        },
-        {
-          "letter": "D",
-          "text": "I never eat.",
-          "is_correct": false,
-          "feedback": "Negación."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Just\" con present perfect = \"acabar de\". \"I have just finished\" = Acabo de terminar.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-v5",
-      "statement": "Correct: \"She has went to the museum.\"",
-      "context": "Students at Colegio Champagnat de San Andrés correct mistakes.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has goed to the park.",
-          "is_correct": false,
-          "feedback": "\"Goed\" no existe."
-        },
-        {
-          "letter": "B",
-          "text": "She has gone to the museum.",
-          "is_correct": true,
-          "feedback": "Correcto. Gone es el past participle de go."
-        },
-        {
-          "letter": "C",
-          "text": "She has go to the museum.",
-          "is_correct": false,
-          "feedback": "\"Go\" no es past participle."
-        },
-        {
-          "letter": "D",
-          "text": "She went to the museum.",
-          "is_correct": false,
-          "feedback": "Pasado simple, no PP."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Past participle de \"go\" = \"gone\". \"Went\" es solo pasado simple.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W07-school-places-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-v6",
-      "statement": "Choose: \"I have already visited Parque Tayrona.\"",
-      "context": "In I.E. La Salle de Medellín, students use already.",
+      "id": "CO-ING-6-2026-W07-school-places-006-v1",
+      "statement": "The ________ helps students learn English.",
+      "context": "Scenario about school-places in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "have already visit",
+          "text": "chef",
           "is_correct": false,
-          "feedback": "Past participle needed."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "have already visited",
+          "text": "teacher",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "already have visited",
+          "text": "pilot",
           "is_correct": false,
-          "feedback": "Orden incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "visited already",
+          "text": "doctor",
           "is_correct": false,
-          "feedback": "Coloquial."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Adverbios (already, just, never) van entre have/has y el past participle.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-v7",
-      "statement": "Difference: \"She has been to Cartagena\" vs \"She has gone to Cartagena\"?",
-      "context": "At Colegio Champagnat de Bucaramanga, analyze been vs gone.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Same meaning.",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "B",
-          "text": "\"Been to\" = visited and returned. \"Gone to\" = still there.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "\"Been to\" = still there.",
-          "is_correct": false,
-          "feedback": "Al revés."
-        },
-        {
-          "letter": "D",
-          "text": "\"Gone to\" = visited many times.",
-          "is_correct": false,
-          "feedback": "No."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Been to\" = ha ido y regresó. \"Gone to\" = fue y está allí.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-v8",
-      "statement": "Question: \"you / ever / try / patacones?\"",
-      "context": "In Colegio Tolimense de Santa Marta, students form questions.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Did you ever try empanadas?",
-          "is_correct": false,
-          "feedback": "Past simple."
-        },
-        {
-          "letter": "B",
-          "text": "Have you ever try empanadas?",
-          "is_correct": false,
-          "feedback": "Past participle needed."
-        },
-        {
-          "letter": "C",
-          "text": "Have you ever tried bandeja paisa?",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "D",
-          "text": "You have ever tried bandeja paisa?",
-          "is_correct": false,
-          "feedback": "Falta inversión."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Preguntas PP: Have/Has + sujeto + ever + past participle?\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to apply the topic of School Places and Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W07-school-places-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-v9",
-      "statement": "Correct tense? \"Colombia won its first gold in 1972.\"",
-      "context": "At I.E. La Salle de Cúcuta, evaluate tense.",
+      "id": "CO-ING-6-2026-W07-school-places-007-v1",
+      "statement": "Where is the math class?",
+      "context": "Scenario about school-places in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "has won",
+          "text": "In the gym.",
           "is_correct": false,
-          "feedback": "Tiempo específico."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "won",
+          "text": "In the classroom.",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "has been winning",
+          "text": "In the bathroom.",
           "is_correct": false,
-          "feedback": "PP continuous."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "wins",
+          "text": "In the cafeteria.",
           "is_correct": false,
-          "feedback": "Present simple."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Eventos con fecha específica: pasado simple, nunca PP.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to apply the topic of School Places and Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W07-school-places-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W07-school-places-008-v1",
+      "statement": "What do you use to draw a straight line?",
+      "context": "Scenario about school-places in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A ruler.",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "A scissors.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "A pen.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "A glue.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to analyze the topic of School Places and Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W07-school-places-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-v10",
-      "statement": "Correct PP paragraph: I have visited the museum. I have been there twice.",
-      "context": "In Colegio Fontán de Tunja, students write a paragraph.",
+      "id": "CO-ING-6-2026-W07-school-places-009-v1",
+      "statement": "We eat lunch in the school ________.",
+      "context": "Scenario about school-places in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "I visit the museum. I go there.",
-          "is_correct": false,
-          "feedback": "Present simple, not PP."
+          "text": "cafeteria",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "I have visited the museum. I have been there twice.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "office",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "I have visit the museum.",
+          "text": "library",
           "is_correct": false,
-          "feedback": "Visit -> visited."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "I have visited last week.",
+          "text": "bus",
           "is_correct": false,
-          "feedback": "\"Last week\" con PP."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "PP paragraph: past participles correctos, sin tiempos específicos.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to analyze the topic of School Places and Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W07-school-places-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-v11",
-      "statement": "Which auxiliary for \"she\" in PP?",
-      "context": "In Colegio INEM de Pasto, review have/has.",
+      "id": "CO-ING-6-2026-W07-school-places-010-v1",
+      "statement": "You find many books in the school ________.",
+      "context": "Scenario about school-places in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "have",
+          "text": "lab",
           "is_correct": false,
-          "feedback": "Have para I/you/we/they."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "has",
-          "is_correct": true,
-          "feedback": "Correcto. He/she/it -> has."
+          "text": "closet",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "do",
+          "text": "playground",
           "is_correct": false,
-          "feedback": "Present simple."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "did",
-          "is_correct": false,
-          "feedback": "Past simple."
+          "text": "library",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Conjugación: I/You/We/They + have. He/She/It + has.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
-      "difficulty": "3",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of School Places and Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W07-present-perfect-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W07-school-places-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

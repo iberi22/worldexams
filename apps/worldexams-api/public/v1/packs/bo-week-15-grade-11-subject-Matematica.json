@@ -1,0 +1,891 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Matematica",
+    "country": "bo",
+    "pack_id": "bo-week-15-grade-11-subject-matematica",
+    "generated_at": "2026-06-22T05:46:15.588Z"
+  },
+  "questions": [
+    {
+      "id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-v1",
+      "statement": "Simplifique: (4)(7x + 32)",
+      "context": "Estudiantes de BO practicando aplicaciones derivadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 28x + 128",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 28x + 32",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 11x + 128",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 28x - 128\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (4)(7x + 32) = 28x + 128.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-v2",
+      "statement": "Resuelve: 2(x + 4) = 14",
+      "context": "Estudiantes de BO practicando aplicaciones derivadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 3\r\n  \r\n\r\n**Explicacion:** 2(x+4) = 14 -> x+4 = 7 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-v3",
+      "statement": "Maria compro 4 cuadernos a $11.4 c/u en Camiri. &iquest;Cuanto gasto?",
+      "context": "Estudiantes de BO practicando aplicaciones derivadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $44.4",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $4.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $11.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $15.4\r\n  \r\n\r\n**Explicacion:** Total = 4 x $11 = $44.4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-v4",
+      "statement": "Un estudiante de Colegio Nacional Patacamaya en Patacamaya grafica f(x) = 8x + 10. &iquest;Cual es la pendiente?",
+      "context": "Estudiantes de BO practicando aplicaciones derivadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 8",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 3\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 8.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-v5",
+      "statement": "En un examen ANEP/MEC en Huanuni, se pide: si f(x) = 4x^2 + 1x + 7. &iquest;Cual es f(2)?",
+      "context": "Estudiantes de BO practicando aplicaciones derivadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 25",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 5\r\n  \r\n\r\n**Explicacion:** Sustituyo x=2: f(2) = 4(4) + 1(2) + 7 = 25.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-v6",
+      "statement": "Resuelve la ecuacion: x^2 - 10x + 24 = 0",
+      "context": "Estudiantes de BO practicando aplicaciones derivadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** x = 4 y x = 6",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** x = 10 y x = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** x = 0 y x = 24",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** No tiene solucion\r\n  \r\n\r\n**Explicacion:** Ecuacion cuadratica: (x-4)(x-6) = 0, por tanto x = 4 o x = 6.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-v7",
+      "statement": "Un estudiante de Riberalta obtuvo notas: 12, 9, 14. &iquest;Cual es la media?",
+      "context": "Estudiantes de BO practicando aplicaciones derivadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 11.7",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 9\r\n  \r\n\r\n**Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-v8",
+      "statement": "Calcule la derivada de f(x) = 2x^3 + 11x^2 + 4x",
+      "context": "Estudiantes de BO practicando aplicaciones derivadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** f'(x) = 6x^2 + 22x + 4",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** f'(x) = 2x^2 + 11x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** f'(x) = 6x^2 + 11x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** f'(x) = 6x^3 + 22x^2\r\n  \r\n\r\n**Explicacion:** Derivada termino a termino: d/dx(2x^3) = 6x^2, d/dx(11x^2) = 22x, d/dx(4x) = 4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-v9",
+      "statement": "&iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0",
+      "context": "Estudiantes de BO practicando aplicaciones derivadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Si, es correcta porque f'(0) = 0 y f''(0) > 0",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** No, tiene un maximo en x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** No, no tiene extremos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** Solo es correcta para x > 0\r\n  \r\n\r\n**Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-v10",
+      "statement": "En Cobija, un estudiante del Colegio Nacional Cobija resuelve: 6x + 11 = 41. &iquest;Cual es el valor de x?",
+      "context": "Estudiantes de BO practicando aplicaciones derivadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explicacion:** Se resta 11 de ambos lados. Luego se divide por 6: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-v11",
+      "statement": "Simplifique: (3)(11x + 47)",
+      "context": "Estudiantes de BO practicando aplicaciones derivadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 33x + 141",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 33x + 47",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 14x + 141",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 33x - 141\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (3)(11x + 47) = 33x + 141.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-v12",
+      "statement": "Resuelve: 2(x + 6) = 18",
+      "context": "Estudiantes de BO practicando aplicaciones derivadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 5\r\n  \r\n\r\n**Explicacion:** 2(x+6) = 18 -> x+6 = 9 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-v13",
+      "statement": "Maria compro 4 cuadernos a $5.1 c/u en Tarija. &iquest;Cuanto gasto?",
+      "context": "Estudiantes de BO practicando aplicaciones derivadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $20.1",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $4.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $5.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $9.1\r\n  \r\n\r\n**Explicacion:** Total = 4 x $5 = $20.1.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-v14",
+      "statement": "Un estudiante de Colegio Nacional Sucre en Cochabamba grafica f(x) = 6x + 3. &iquest;Cual es la pendiente?",
+      "context": "Estudiantes de BO practicando aplicaciones derivadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 6",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 4\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 6.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-v15",
+      "statement": "En un examen ANEP/MEC en Cochabamba, se pide: si f(x) = 6x^2 + 12x + 7. &iquest;Cual es f(2)?",
+      "context": "Estudiantes de BO practicando aplicaciones derivadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 55",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 24",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 18\r\n  \r\n\r\n**Explicacion:** Sustituyo x=2: f(2) = 6(4) + 12(2) + 7 = 55.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-v16",
+      "statement": "Resuelve la ecuacion: x^2 - 16x + 48 = 0",
+      "context": "Estudiantes de BO practicando aplicaciones derivadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** x = 4 y x = 12",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** x = 16 y x = 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** x = 0 y x = 48",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** No tiene solucion\r\n  \r\n\r\n**Explicacion:** Ecuacion cuadratica: (x-4)(x-12) = 0, por tanto x = 4 o x = 12.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-v17",
+      "statement": "Un estudiante de Montero obtuvo notas: 14, 21, 19. &iquest;Cual es la media?",
+      "context": "Estudiantes de BO practicando aplicaciones derivadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 18.0",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 49",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 14\r\n  \r\n\r\n**Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-v18",
+      "statement": "Calcule la derivada de f(x) = 6x^3 + 8x^2 + 6x",
+      "context": "Estudiantes de BO practicando aplicaciones derivadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** f'(x) = 18x^2 + 16x + 6",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** f'(x) = 6x^2 + 8x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** f'(x) = 18x^2 + 8x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** f'(x) = 18x^3 + 16x^2\r\n  \r\n\r\n**Explicacion:** Derivada termino a termino: d/dx(6x^3) = 18x^2, d/dx(8x^2) = 16x, d/dx(6x) = 6.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-v19",
+      "statement": "&iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0",
+      "context": "Estudiantes de BO practicando aplicaciones derivadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Si, es correcta porque f'(0) = 0 y f''(0) > 0",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** No, tiene un maximo en x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** No, no tiene extremos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** Solo es correcta para x > 0\r\n  \r\n\r\n**Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-v20",
+      "statement": "En Trinidad, un estudiante del Colegio Nacional Trinidad resuelve: 3x + 8 = 23. &iquest;Cual es el valor de x?",
+      "context": "Estudiantes de BO practicando aplicaciones derivadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explicacion:** Se resta 8 de ambos lados. Luego se divide por 3: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "BO-MAT-11-2026-W15-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

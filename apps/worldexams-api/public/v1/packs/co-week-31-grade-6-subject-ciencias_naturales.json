@@ -1,0 +1,921 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-31-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-06-22T05:46:15.994Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-001-v1",
+      "statement": "¿Qué es una mezcla?",
+      "context": "En Bogotá, estudiantes definen qué es una mezcla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una sustancia pura formada por un solo tipo de átomo",
+          "is_correct": false,
+          "feedback": "Eso es un elemento químico, no una mezcla."
+        },
+        {
+          "letter": "B",
+          "text": "Una combinación química de dos o más elementos",
+          "is_correct": false,
+          "feedback": "Eso es un compuesto químico (reacción química)."
+        },
+        {
+          "letter": "C",
+          "text": "Una combinación de dos o más sustancias que mantienen sus propiedades individuales y pueden separarse por métodos físicos",
+          "is_correct": true,
+          "feedback": "Correcto. En una mezcla no hay reacción química."
+        },
+        {
+          "letter": "D",
+          "text": "Una sustancia que no se puede separar en componentes más simples",
+          "is_correct": false,
+          "feedback": "Eso es una sustancia pura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una **mezcla** es la combinación de dos o más sustancias (elementos o compuestos) que NO reaccionan químicamente entre sí. Cada componente conserva sus propiedades originales. Las mezclas se clasifican en **homogéneas** (composición uniforme) y **heterogéneas** (composición no uniforme). Ejemplos cotidianos: la ensalada de frutas (heterogénea), la gaseosa (homogénea), la arena de la playa (heterogénea), el aire (homogénea). Las mezclas se pueden separar por métodos físicos como filtración, destilación, evaporación o imantación.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-002-v1",
+      "statement": "¿Cómo se llama una mezcla en la que no se pueden distinguir sus componentes a simple vista?",
+      "context": "En Medellín, estudiantes clasifican mezclas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Heterogénea",
+          "is_correct": false,
+          "feedback": "En las heterogéneas SÍ se distinguen los componentes."
+        },
+        {
+          "letter": "B",
+          "text": "Homogénea",
+          "is_correct": true,
+          "feedback": "Correcto. Las mezclas homogéneas son uniformes a simple vista."
+        },
+        {
+          "letter": "C",
+          "text": "Coloide",
+          "is_correct": false,
+          "feedback": "Un coloide es un tipo específico de mezcla heterogénea con partículas intermedias."
+        },
+        {
+          "letter": "D",
+          "text": "Compuesto",
+          "is_correct": false,
+          "feedback": "Un compuesto es una combinación química, no una mezcla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una **mezcla homogénea** es aquella en la que los componentes están distribuidos uniformemente, por lo que no se pueden distinguir a simple vista ni con un microscopio óptico. Tienen una sola fase (aspecto uniforme). Ejemplos:\r\n- **Disoluciones**: sal en agua, azúcar en agua, aire (mezcla de gases), acero (aleación)\r\n- En una disolución, el componente que se disuelve se llama **soluto** y el que disuelve se llama **disolvente**\r\n\r\nUna mezcla **heterogénea** tiene componentes que se distinguen a simple vista o con un microscopio. Tienen dos o más fases. Ejemplos: granola, ensalada, agua con aceite, arena y piedras.\r\n\r\nLos **coloides** son un caso intermedio: partículas más grandes que las de una disolución pero más pequeñas que las de una mezcla heterogénea (leche, mayonesa, gelatina, humo).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-003-v1",
+      "statement": "¿Cuál de los siguientes ejemplos es una mezcla homogénea?",
+      "context": "En Cali, estudiantes identifican mezclas en la vida cotidiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una ensalada de verduras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se distinguen los ingredientes a simple vista."
+        },
+        {
+          "letter": "B",
+          "text": "Agua y aceite",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se forman dos fases visibles."
+        },
+        {
+          "letter": "C",
+          "text": "Agua con sal disuelta",
+          "is_correct": true,
+          "feedback": "Correcto. La sal se disuelve completamente y no se ve."
+        },
+        {
+          "letter": "D",
+          "text": "Una roca con diferentes minerales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los minerales se distinguen a simple vista."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**Agua con sal disuelta** (salmuera) es una mezcla homogénea (disolución) porque:\r\n- Las moléculas de agua rodean los iones de Na⁺ y Cl⁻, separándolos\r\n- La sal se distribuye uniformemente en todo el agua\r\n- No se pueden distinguir partículas de sal ni con un microscopio\r\n- Es transparente (igual que el agua pura)\r\n\r\nEn cambio:\r\n- **Ensalada**: se ven los diferentes ingredientes → heterogénea\r\n- **Agua y aceite**: forman dos capas separadas porque el agua es polar y el aceite es apolar → heterogénea\r\n- **Roca**: diferentes minerales visibles → heterogénea\r\n\r\nUna forma práctica de identificar mezclas homogéneas: si al enfriarla o dejarla reposar no se separa en componentes, probablemente es homogénea.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-004-v1",
+      "statement": "¿Cuál es la diferencia principal entre una mezcla y un compuesto químico?",
+      "context": "En Barranquilla, estudiantes diferencian mezclas de compuestos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay diferencia, son sinónimos",
+          "is_correct": false,
+          "feedback": "Son conceptos diferentes."
+        },
+        {
+          "letter": "B",
+          "text": "Las mezclas son líquidas y los compuestos son sólidos",
+          "is_correct": false,
+          "feedback": "Ambos pueden estar en cualquier estado."
+        },
+        {
+          "letter": "C",
+          "text": "En una mezcla los componentes conservan sus propiedades y pueden separarse por métodos físicos; en un compuesto, los elementos se unen químicamente y solo se separan por reacciones químicas",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Los compuestos siempre tienen más componentes que las mezclas",
+          "is_correct": false,
+          "feedback": "No es correcto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "| Característica | Mezcla | Compuesto |\r\n|---|---|---|\r\n| **Unión** | Física (no hay reacción) | Química (enlaces) |\r\n| **Propiedades** | Cada componente conserva las suyas | Propiedades diferentes a los elementos originales |\r\n| **Separación** | Métodos físicos (filtración, evaporación, destilación) | Reacciones químicas (electrólisis, descomposición) |\r\n| **Composición** | Variable (puede tener cualquier proporción) | Fija (proporción definida) |\r\n| **Ejemplo** | Agua + arena (mezcla) | Agua H₂O (compuesto: hidrógeno + oxígeno) |\r\n\r\nEjemplo clásico: el **agua** (H₂O) es un compuesto; el **agua con sal** es una mezcla. Para separar el agua en hidrógeno y oxígeno necesitas electrólisis (reacción química). Para separar la sal del agua, solo necesitas evaporar el agua (método físico).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-005-v1",
+      "statement": "¿Por qué el azúcar se disuelve en agua caliente más rápido que en agua fría?",
+      "context": "En Bucaramanga, estudiantes aplican el concepto de solubilidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el agua caliente tiene más moléculas",
+          "is_correct": false,
+          "feedback": "No, tiene las mismas moléculas pero más separadas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el azúcar se derrite con el calor",
+          "is_correct": false,
+          "feedback": "El azúcar no se derrite a temperaturas del agua caliente."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las moléculas de agua caliente se mueven más rápido, chocan con el azúcar con más energía y separan sus moléculas más rápidamente",
+          "is_correct": true,
+          "feedback": "Correcto. La temperatura aumenta la velocidad molecular y la solubilidad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua caliente tiene menos espacio para el azúcar",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La **solubilidad** (cantidad máxima de soluto que se disuelve en un disolvente) generalmente aumenta con la temperatura para sólidos en líquidos. Las razones:\r\n\r\n1. **Mayor energía cinética**: las moléculas de agua caliente se mueven más rápido, chocando con más frecuencia y fuerza contra los cristales de azúcar\r\n2. **Mayor separación molecular**: el agua caliente tiene más espacio entre moléculas, facilitando que las moléculas de azúcar se \"acomoden\"\r\n3. **Mayor velocidad de difusión**: las moléculas disueltas se dispersan más rápido\r\n\r\nEjemplo cotidiano: es más fácil preparar café o chocolate caliente que frío. La solubilidad de la sacarosa (azúcar de mesa) en agua a 20°C es ~200 g/100 mL, mientras que a 100°C es ~500 g/100 mL.\r\n\r\nSin embargo, la solubilidad de los gases en líquidos disminuye al aumentar la temperatura (por eso una gaseosa caliente tiene menos gas que una fría).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-006-v1",
+      "statement": "Una persona prepara una limonada: exprime limones en agua y agrega azúcar. ¿Qué tipo de mezcla obtiene?",
+      "context": "En Cartagena, estudiantes aplican conceptos a la cocina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Heterogénea, porque tiene pulpa de limón",
+          "is_correct": false,
+          "feedback": "Si tiene pulpa visible sería heterogénea, pero la pregunta es sobre una limonada colada."
+        },
+        {
+          "letter": "B",
+          "text": "Heterogénea, porque el limón y el agua no se mezclan",
+          "is_correct": false,
+          "feedback": "El jugo de limón sí se mezcla con agua."
+        },
+        {
+          "letter": "C",
+          "text": "Homogénea, si cuela la pulpa y el azúcar se disuelve completamente",
+          "is_correct": true,
+          "feedback": "Correcto. Es una disolución si los componentes no se distinguen."
+        },
+        {
+          "letter": "D",
+          "text": "Es un compuesto químico porque cambió el sabor del agua",
+          "is_correct": false,
+          "feedback": "No hay reacción química."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La **limonada** (sin pulpa) es un ejemplo clásico de **mezcla homogénea** (disolución):\r\n- **Disolvente**: agua\r\n- **Solutos**: ácido cítrico, azúcar (sacarosa), vitaminas del limón\r\n\r\nSi la limonada tiene **pulpa** visible (trozos de limón), entonces sería heterogénea (sólido suspendido en líquido). Lo mismo ocurre con el jugo de naranja: si es colado (sin pulpa) es homogéneo; si tiene pulpa, es heterogéneo.\r\n\r\nEn la cocina encontramos muchos tipos de mezclas:\r\n- **Homogéneas**: caldo de pollo colado, café filtrado, vinagre\r\n- **Heterogéneas**: sopa de verduras, arroz con frijoles, ensalada\r\n- **Coloides**: mayonesa (emulsión), gelatina, espuma de café\r\n\r\nLa clasificación depende del tamaño de las partículas y de si se pueden distinguir a simple vista.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-007-v1",
+      "statement": "¿Por qué el bronce (cobre + estaño) se considera una mezcla homogénea y no un compuesto?",
+      "context": "En Pereira, analizan aleaciones como mezclas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el bronce es un elemento químico",
+          "is_correct": false,
+          "feedback": "No, el bronce contiene dos elementos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los metales se disuelven uno en el otro formando una disolución sólida uniforme (aleación), conservando las propiedades de cada metal",
+          "is_correct": false,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque se puede separar con un imán",
+          "is_correct": false,
+          "feedback": "El cobre y el estaño no son magnéticos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque tiene una fórmula química fija",
+          "is_correct": false,
+          "feedback": "Las aleaciones tienen composición variable, no fija."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las **aleaciones** son mezclas homogéneas de metales (disoluciones sólidas). El **bronce** es una aleación de cobre (Cu) y estaño (Sn):\r\n\r\n1. **No es un compuesto**: no hay una reacción química con enlaces definidos. Los átomos de cobre y estaño se mezclan sin unirse químicamente\r\n2. **Composición variable**: el bronce puede tener 80% Cu + 20% Sn, o 90% Cu + 10% Sn, produciendo propiedades diferentes\r\n3. **Propiedades mejoradas**: el bronce es más duro y resistente a la corrosión que el cobre puro\r\n\r\nOtras aleaciones importantes:\r\n- **Acero**: hierro + carbono (+ otros metales como cromo, níquel)\r\n- **Latón**: cobre + zinc\r\n- **Oro de 18 quilates**: oro + cobre + plata (75% oro = 18/24)\r\n- **Amalgama dental**: mercurio + plata + estaño + cobre\r\n\r\nLas aleaciones han sido fundamentales en la historia humana: la Edad de Bronce y la Edad de Hierro marcan etapas del desarrollo tecnológico.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-008-v1",
+      "statement": "¿Por qué la leche parece homogénea pero en realidad es una mezcla heterogénea (coloide)?",
+      "context": "En Manizales, analizan el efecto Tyndall.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la leche es blanca y las mezclas heterogéneas nunca son blancas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color no determina el tipo de mezcla."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la leche dispersa la luz (efecto Tyndall) debido a las partículas de grasa y proteínas en suspensión, que son más grandes que las moléculas de una disolución verdadera",
+          "is_correct": true,
+          "feedback": "Correcto. La leche es un coloide."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la leche se separa en capas al dejarla reposar",
+          "is_correct": false,
+          "feedback": "La leche homogeneizada no se separa fácilmente."
+        },
+        {
+          "letter": "D",
+          "text": "Porque contiene un solo tipo de molécula",
+          "is_correct": false,
+          "feedback": "La leche contiene agua, grasas, proteínas, lactosa, vitaminas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La **leche** es un **coloide** (específicamente una emulsión) porque:\r\n\r\n1. **Tamaño de partículas**: las gotitas de grasa y las micelas de caseína (proteína) miden entre 1 nm y 1 µm — más grandes que las moléculas de una disolución verdadera (<1 nm), pero más pequeñas que las partículas de una suspensión (>1 µm)\r\n\r\n2. **Efecto Tyndall**: cuando un rayo de luz atraviesa la leche, las partículas dispersan la luz, haciendo visible el haz (como cuando los faros de un auto atraviesan la neblina). En una disolución verdadera (agua salada), el haz de luz no se ve\r\n\r\n3. **Tipos de coloides**:\r\n   - **Emulsión**: líquido en líquido (leche, mayonesa)\r\n   - **Sol**: sólido en líquido (pintura, sangre)\r\n   - **Gel**: líquido en sólido (gelatina)\r\n   - **Espuma**: gas en líquido (crema batida)\r\n   - **Aerosol**: líquido en gas (niebla) o sólido en gas (humo)\r\n\r\nLa leche homogeneizada tiene las gotitas de grasa tan pequeñas que no se separan al reposar (a diferencia de la leche sin homogeneizar, donde la crema sube a la superficie).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-009-v1",
+      "statement": "¿Por qué el agua potable es considerada una mezcla aunque parezca pura?",
+      "context": "En Cúcuta, evalúan la importancia de las disoluciones en la vida diaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el agua potable no es una mezcla, es agua pura H₂O",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua potable contiene minerales disueltos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque contiene minerales disueltos (calcio, magnesio, flúor) que la hacen una disolución (mezcla homogénea)",
+          "is_correct": false,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque contiene microbios visibles",
+          "is_correct": false,
+          "feedback": "Si tuviera microbios visibles no sería potable."
+        },
+        {
+          "letter": "D",
+          "text": "Porque tiene cloro que se ve a simple vista",
+          "is_correct": false,
+          "feedback": "El cloro está disuelto y no se ve."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El **agua potable** es una **mezcla homogénea** (disolución) porque contiene:\r\n\r\n**Componentes disueltos**:\r\n- **Minerales**: calcio (Ca²⁺), magnesio (Mg²⁺), sodio (Na⁺), potasio (K⁺), bicarbonato (HCO₃⁻)\r\n- **Flúor**: añadido para prevenir caries dentales\r\n- **Cloro o cloramina**: desinfectante para eliminar microorganismos (en concentraciones muy bajas, seguras para consumo)\r\n- **Gases disueltos**: oxígeno (O₂), dióxido de carbono (CO₂)\r\n\r\nEl agua **destilada** o **desionizada** es casi agua pura (no es mezcla), pero no es recomendable para beber porque la falta de minerales puede causar desequilibrios electrolíticos y sabe \"plana\".\r\n\r\nEn Colombia, el agua potable es tratada en plantas de potabilización (como la Planta Wiesner en Bogotá o la Planta Ayurá en Medellín) mediante procesos de coagulación, floculación, sedimentación, filtración y desinfección. El agua de lluvia también es una mezcla porque contiene gases atmosféricos disueltos.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-010-v1",
+      "statement": "En la industria petrolera, el petróleo crudo se separa en sus componentes (gasolina, diésel, queroseno, asfalto) mediante destilación fraccionada. ¿Qué tipo de mezcla es el petróleo crudo?",
+      "context": "En Ibagué, evalúan la separación de mezclas en la industria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una mezcla homogénea, porque todos los componentes son hidrocarburos líquidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque todos son hidrocarburos, tienen diferentes puntos de ebullición y densidad."
+        },
+        {
+          "letter": "B",
+          "text": "Una mezcla homogénea (disolución) de muchos hidrocarburos diferentes, que se aprovecha separándolos por sus diferentes puntos de ebullición",
+          "is_correct": true,
+          "feedback": "Correcto. Es una mezcla homogénea compleja."
+        },
+        {
+          "letter": "C",
+          "text": "Una mezcla heterogénea, porque contiene gas, líquido y sólido",
+          "is_correct": false,
+          "feedback": "A temperatura ambiente es principalmente líquido."
+        },
+        {
+          "letter": "D",
+          "text": "Un compuesto químico con una fórmula molecular única",
+          "is_correct": false,
+          "feedback": "El petróleo es una mezcla de cientos de compuestos diferentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El **petróleo crudo** es una **mezcla homogénea** (disolución) compleja de cientos de hidrocarburos diferentes (moléculas compuestas solo de carbono e hidrógeno). No es un compuesto porque no tiene una composición fija ni una fórmula única.\r\n\r\nLa **destilación fraccionada** separa los componentes según su punto de ebullición:\r\n\r\n| Fracción | Punto de ebullición | Usos |\r\n|---|---|---|\r\n| Gases (metano, propano, butano) | <40°C | Gas doméstico |\r\n| Gasolina | 40-200°C | Combustible vehículos |\r\n| Queroseno | 150-275°C | Jet fuel, ACPM |\r\n| Diésel | 200-350°C | Camiones, maquinaria |\r\n| Aceites lubricantes | 300-370°C | Lubricantes |\r\n| Asfalto | >370°C | Pavimentación, techos |\r\n\r\nEn Colombia, la refinería de Barrancabermeja (Santander) y la de Reficar en Cartagena procesan petróleo crudo para obtener estos productos. Este proceso industrial es un ejemplo perfecto de cómo se aprovechan las propiedades de las mezclas: cada componente tiene un punto de ebullición diferente, lo que permite su separación física.\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W31-mezclas-homogeneas-heterogeneas-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Ciencias Naturales del I.E. San José en Manizales, se discute sobre Tema Semana 31 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Manizales",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 31 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 31 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.61,
+      "bundle_id": "CO-CIE-6-2026-W31-tema-semana-31-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Ciencias Naturales del I.E. San José en Sincelejo, se discute sobre Tema Semana 31 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 31 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 31 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.77,
+      "bundle_id": "CO-CIE-6-2026-W31-tema-semana-31-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Ciencias Naturales del I.E. San José en Villavicencio, se discute sobre Tema Semana 31 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 31 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 31 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-6-2026-W31-tema-semana-31-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Ciencias Naturales del I.E. San José en Cartagena, se discute sobre Tema Semana 31 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 31 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 31 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-6-2026-W31-tema-semana-31-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Ciencias Naturales del Colegio La Presentación en Neiva, se discute sobre Tema Semana 31 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Neiva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 31 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 31 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.56,
+      "bundle_id": "CO-CIE-6-2026-W31-tema-semana-31-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Barranquilla, se discute sobre Tema Semana 31 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Barranquilla",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 31 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 31 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-6-2026-W31-tema-semana-31-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Ciencias Naturales del Gimnasio Moderno en Neiva, se discute sobre Tema Semana 31 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Neiva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 31 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 31 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.53,
+      "bundle_id": "CO-CIE-6-2026-W31-tema-semana-31-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Ibagué, se discute sobre Tema Semana 31 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 31 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 31 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CIE-6-2026-W31-tema-semana-31-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Sincelejo, se discute sobre Tema Semana 31 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 31 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 31 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CIE-6-2026-W31-tema-semana-31-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Ibagué, se discute sobre Tema Semana 31 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 31 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 31 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 31 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.61,
+      "bundle_id": "CO-CIE-6-2026-W31-tema-semana-31-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

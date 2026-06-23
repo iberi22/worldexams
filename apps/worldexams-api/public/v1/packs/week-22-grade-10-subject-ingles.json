@@ -8,649 +8,556 @@
   },
   "questions": [
     {
-      "id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-v1",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-v1",
+      "statement": "\"Botero is a Colombian artist ____ unique style is recognized all over the world.\"",
+      "context": "Describing a famous artist.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Who' replaces a subject."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-v2",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "whose",
           "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct. 'Whose' is used to show possession."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "which",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "that",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect for possession."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "2",
+      "correct_answer": "B",
+      "explanation": "'Whose' is a relative pronoun used to indicate possession for both people and objects.\r\n\r\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-bundle",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-v3",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-v2",
+      "statement": "\"The museum, ____ was built in the 19th century, is currently hosting a modern art exhibition.\"",
+      "context": "Discussing an art exhibition.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrect. 'That' cannot be used in non-defining relative clauses (with commas)."
         },
         {
           "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
+          "text": "which",
+          "is_correct": true,
+          "feedback": "Correct. 'Which' is used for non-defining clauses about objects."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "who",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "where",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect syntax for 'was built'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "Non-defining relative clauses provide extra information and are separated by commas. 'Which' is used for objects, but 'that' is never used in these clauses.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-v4",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
+      "icfes_type": "Part 4 - Grammatical Cloze",
       "expected_success": 0.84,
-      "bundle_id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-v5",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-v3",
+      "statement": "\"Street art is a form of expression ____ often addresses social and political issues.\"",
+      "context": "Defining a type of art.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-v6",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "which",
           "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct. Defining relative clause for an object."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "who",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "where",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "In defining relative clauses, 'which' or 'that' can be used for objects to provide essential information about the subject.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Gramática",
+      "icfes_type": "Part 2 - Lexical Knowledge",
       "expected_success": 0.8,
-      "bundle_id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-v7",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-v4",
+      "statement": "\"The community ____ traditions are being lost is fighting to preserve its artistic heritage.\"",
+      "context": "An article about cultural heritage.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-v8",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
+          "text": "whose",
           "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Correct. Possession (the community's traditions)."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "that",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "which",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-v9",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-v10",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-v11",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-v12",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "Using 'whose' in a defining relative clause to link a community to its cultural attributes.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-bundle",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     },
     {
-      "id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-v13",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-v5",
+      "statement": "\"The mural, ____ many people find controversial, was painted by a group of local students.\"",
+      "context": "Discussing the impact of art.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
+          "text": "which",
+          "is_correct": true,
+          "feedback": "Correct. Non-defining relative clause about the mural."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "what",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "who",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "Using 'which' to add a non-essential opinion about an object in a non-defining clause.\r\n\r\n---",
       "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.62,
-      "bundle_id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-v14",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.59,
-      "bundle_id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-v15",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "1",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Gramática",
-      "expected_success": 0.57,
-      "bundle_id": "CO-ING-10-2026-W22-agree-disagree-001-MASTERY-bundle",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.71,
+      "bundle_id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-v6",
+      "statement": "\"He is a director ____ films have influenced an entire generation of artists.\"",
+      "context": "A retrospective on a film director.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "whose",
+          "is_correct": true,
+          "feedback": "Correct. Possession (the director's films)."
+        },
+        {
+          "letter": "C",
+          "text": "of which",
+          "is_correct": false,
+          "feedback": "Incorrect syntax for this position."
+        },
+        {
+          "letter": "D",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrect for possession."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Whose' is essential for connecting a person to their creative output in a defining clause.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.67,
+      "bundle_id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-v7",
+      "statement": "\"The town ____ the story takes place is a fictional version of a real Colombian village.\"",
+      "context": "Discussing the setting of a novel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Needs 'in which'."
+        },
+        {
+          "letter": "B",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Needs 'in that' (rare) or 'that... in'."
+        },
+        {
+          "letter": "C",
+          "text": "where",
+          "is_correct": true,
+          "feedback": "Correct relative adverb for place."
+        },
+        {
+          "letter": "D",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Where' is a relative adverb used to refer to a place in defining clauses.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.63,
+      "bundle_id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-v8",
+      "statement": "\"Digital art, ____ is created using computer software, has gained popularity in recent years.\"",
+      "context": "A text about digital art.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrect in non-defining clauses."
+        },
+        {
+          "letter": "B",
+          "text": "which",
+          "is_correct": true,
+          "feedback": "Correct for non-defining clause about an object."
+        },
+        {
+          "letter": "C",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "what",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Distinguishing between 'which' and 'that' in non-defining clauses—a key B2 level distinction.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.59,
+      "bundle_id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-v9",
+      "statement": "\"The critic, ____ opinions are often very harsh, praised the young artist's latest work.\"",
+      "context": "Critique of an art critic.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "whose",
+          "is_correct": true,
+          "feedback": "Correct. Possession (the critic's opinions)."
+        },
+        {
+          "letter": "C",
+          "text": "of whom",
+          "is_correct": false,
+          "feedback": "Incorrect syntax here."
+        },
+        {
+          "letter": "D",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'whose' in a non-defining clause to provide character information about a person.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-v10",
+      "statement": "\"The period ____ the Renaissance reached its peak was marked by a great interest in humanism.\"",
+      "context": "A sophisticated discussion on art history.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Needs 'in which'."
+        },
+        {
+          "letter": "B",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "For places, not usually time."
+        },
+        {
+          "letter": "C",
+          "text": "when",
+          "is_correct": true,
+          "feedback": "Correct relative adverb for time."
+        },
+        {
+          "letter": "D",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Possible, but 'when' is more precise."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Using 'when' as a relative adverb to define a specific time period.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-v11",
+      "statement": "\"Art serves as a mirror of society, a fact ____ many historians have noted over the centuries.\"",
+      "context": "Academic text on the sociology of art.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "what",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "which",
+          "is_correct": true,
+          "feedback": "Correct. Referring back to the whole previous clause."
+        },
+        {
+          "letter": "D",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Advanced B2 use: 'Which' can be used to refer back to a whole previous idea or sentence, not just a single noun.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-v12",
+      "statement": "\"The artist, ____ we had the honor of meeting last night, is known for his revolutionary techniques.\"",
+      "context": "A complex theoretical text.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "whom",
+          "is_correct": true,
+          "feedback": "Correct. Object pronoun in a formal non-defining clause."
+        },
+        {
+          "letter": "B",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "what",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mastery level: Correct use of 'whom' as an object pronoun in formal non-defining relative clauses.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W22-art-and-society-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
     }
   ]
 }

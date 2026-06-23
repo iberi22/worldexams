@@ -1,239 +1,205 @@
 ---
-id: "CO-ING-3-2026-W37-describing-people-001-MASTERY"
+id: "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "describing-people"
 periodo: "weekly"
-semana: 37
+week: "W37"
 year: 2026
+bundle_type: "weekly"
 protocol_version: "5.2"
-bundle_index: 1
-bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos Grado 3"
-cefr_level: "A1"
-modern_context: true
-distractor_profile: "misconception_based"
-calibration:
-  expected_success_rate: 0.85
-rubric_baseline: "Using basic adjectives to describe people in English (A1)."
+total_questions: 8
+bundle_size: 8
+alignment: "DBA MEN Colombia"
 license: "FREE"
-tier: "mastery"
-creador: "Jules"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+# MASTERY Bundle - Ingles: Describing People (W37)
+**8 preguntas | Ingles | {alignment}**
 
 ---
-
-# Weekly Pack W37: Describing People (A1)
-
-This bundle focuses on using basic adjectives to describe physical appearance and simple personality traits in English, aligned with CEFR A1.
-
----
-
-## Question 1 [D3-D4]
-**ID:** `CO-ING-3-2026-W37-describing-people-001-MASTERY-v1`
+## Question 1 [D3]
+**ID:** CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.95
-**Context:** Describing height.
-
-### Enunciado
-A basketball player is usually very **_________**. 🏀
-
-### Options
-- [ ] A) Short <!-- feedback: Incorrect. Short is for small height. -->
-- [x] B) Tall <!-- feedback: Correct! Basketball players need to be tall. -->
-- [ ] C) Blue <!-- feedback: Incorrect. This is a color. -->
-- [ ] D) Small <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"Tall" significa alto. Es un adjetivo de apariencia física para la estatura.
-
----
-
-## Question 2 [D3-D4]
-**ID:** `CO-ING-3-2026-W37-describing-people-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.90
-**Context:** Expressing happiness.
-
-### Enunciado
-When you smile and laugh, you are **_________**. 😊
-
-### Options
-- [x] A) Happy <!-- feedback: Correct! Smiling indicates happiness. -->
-- [ ] B) Sad <!-- feedback: Incorrect. Sad is the opposite. -->
-- [ ] C) Angry <!-- feedback: Incorrect. -->
-- [ ] D) Sleepy <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"Happy" significa feliz o alegre. Describe un estado emocional positivo.
-
----
-
-## Question 3 [D5-D6]
-**ID:** `CO-ING-3-2026-W37-describing-people-001-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-**Context:** Identifying opposites.
-
-### Enunciado
-The opposite of **"Happy"** is... ☹️
-
-### Options
-- [ ] A) Good <!-- feedback: Incorrect. -->
-- [x] B) Sad <!-- feedback: Correct! Sad is the antonym of Happy. -->
-- [ ] C) Tall <!-- feedback: Incorrect. -->
-- [ ] D) Big <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-Identificar antónimos es clave. "Sad" significa triste, lo opuesto de "Happy".
-
----
-
-## Question 4 [D5-D6]
-**ID:** `CO-ING-3-2026-W37-describing-people-001-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Lingüística
+**ICFES:** Lexico
 **Expected_Success:** 0.80
-**Context:** Describing age.
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Your **grandfather** is **old**. You are a child, you are **_________**. 👴👦
+What is the English word for: "A place where you live or stay on holiday."
 
-### Options
-- [ ] A) Old <!-- feedback: Incorrect. -->
-- [x] B) Young <!-- feedback: Correct! Young is for people at the beginning of their life. -->
-- [ ] C) Tall <!-- feedback: Incorrect. While you might be, "young" is the direct contrast to "old". -->
-- [ ] D) Fat <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) accommodation
+  <!-- feedback: Correct! 'accommodation' matches the definition. -->
+- [ ] B) transportation
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) entertainment
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) currency
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-"Young" significa joven. Es el adjetivo que describe la etapa de la vida de los niños y adolescentes.
-
+### Explicacion Pedagogica
+The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
 ---
+## Question 2 [D4]
+**ID:** CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
-## Question 5 [D5-D6]
-**ID:** `CO-ING-3-2026-W37-describing-people-001-MASTERY-v5`
+### Enunciado
+What is the English word for: "A detailed plan or route of a journey."
+
+### Opciones
+- [x] A) itinerary
+  <!-- feedback: Correct! 'itinerary' matches the definition. -->
+- [ ] B) baggage
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) destination
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) passport
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+---
+## Question 3 [D5]
+**ID:** CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.75
-**Context:** Describing hair.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Ana has hair that reaches her back. Her hair is **_________**. 💇‍♀️
+What is the English word for: "The place to which someone or something is going or being sent."
 
-### Options
-- [ ] A) Short <!-- feedback: Incorrect. -->
-- [x] B) Long <!-- feedback: Correct! Hair that reaches the back is long. -->
-- [ ] C) Blue <!-- feedback: Incorrect. -->
-- [ ] D) Fast <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) destination
+  <!-- feedback: Correct! 'destination' matches the definition. -->
+- [ ] B) departure
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) arrival
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) journey
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-"Long" significa largo. Se usa para describir la longitud del cabello u otros objetos.
-
+### Explicacion Pedagogica
+The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
 ---
-
-## Question 6 [D7-D8]
-**ID:** `CO-ING-3-2026-W37-describing-people-001-MASTERY-v6`
+## Question 4 [D6]
+**ID:** CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.70
-**Context:** Describing build.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-A person who **exercises a lot** and is strong might be described as... 💪
+What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
 
-### Options
-- [ ] A) Weak <!-- feedback: Incorrect. This is the opposite of strong. -->
-- [x] B) Strong <!-- feedback: Correct! Exercise helps you be strong. -->
-- [ ] C) Thin <!-- feedback: Incorrect. While possible, "strong" matches the description better. -->
-- [ ] D) Sad <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) luggage
+  <!-- feedback: Correct! 'luggage' matches the definition. -->
+- [ ] B) ticket
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) flight
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) reservation
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-"Strong" significa fuerte. Describe a alguien con capacidad física o muscular.
-
+### Explicacion Pedagogica
+The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
 ---
-
-## Question 7 [D7-D8]
-**ID:** `CO-ING-3-2026-W37-describing-people-001-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.65
-**Context:** Describing beauty.
-
-### Enunciado
-She has a very pretty face and a nice smile. She is **_________**. ✨
-
-### Options
-- [x] A) Beautiful <!-- feedback: Correct! Beautiful means very pretty. -->
-- [ ] B) Ugly <!-- feedback: Incorrect. This is the opposite. -->
-- [ ] C) Tall <!-- feedback: Incorrect. -->
-- [ ] D) Old <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-"Beautiful" significa hermoso o bello. Se usa para expresar agrado estético.
-
----
-
-## Question 8 [D7-D8]
-**ID:** `CO-ING-3-2026-W37-describing-people-001-MASTERY-v8`
+## Question 5 [D7]
+**ID:** CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
-**Context:** Identifying the correct adjective pair.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Which group shows **height** (estatura) descriptors?
+What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
 
-### Options
-- [ ] A) Big and Small <!-- feedback: Incorrect. This is for size. -->
-- [x] B) Tall and Short <!-- feedback: Correct! These describe how tall a person is. -->
-- [ ] C) Young and Old <!-- feedback: Incorrect. This is for age. -->
-- [ ] D) Happy and Sad <!-- feedback: Incorrect. This is for emotions. -->
+### Opciones
+- [x] A) passenger
+  <!-- feedback: Correct! 'passenger' matches the definition. -->
+- [ ] B) pedestrian
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) commuter
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) tourist
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Analizar y clasificar los adjetivos. "Tall" (alto) y "Short" (bajo) son las palabras para la estatura.
-
+### Explicacion Pedagogica
+The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
 ---
-
-## Question 9 [D9-D10]
-**ID:** `CO-ING-3-2026-W37-describing-people-001-MASTERY-v9`
+## Question 6 [D8]
+**ID:** CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lingüística
-**Expected_Success:** 0.55
-**Context:** Analyzing a description.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-"My brother is not tall. He is 6 years old."
-How is my brother?
+What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
 
-### Options
-- [ ] A) He is tall and old. <!-- feedback: Incorrect. -->
-- [ ] B) He is short and old. <!-- feedback: Incorrect. -->
-- [x] C) He is short and young. <!-- feedback: Correct! Not tall = short; 6 years old = young. -->
-- [ ] D) He is big and angry. <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) customs
+  <!-- feedback: Correct! 'customs' matches the definition. -->
+- [ ] B) security
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) terminal
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) gate
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Analizar las premisas de la descripción. Ser "no alto" implica ser "short", y tener 6 años implica ser "young".
-
+### Explicacion Pedagogica
+The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
 ---
-
-## Question 10 [D9-D10]
-**ID:** `CO-ING-3-2026-W37-describing-people-001-MASTERY-v10`
+## Question 7 [D9]
+**ID:** CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
-**ICFES:** Pragmática
-**Expected_Success:** 0.50
-**Context:** Choosing the most respectful description.
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-How would you describe your best friend to someone who doesn't know them?
+What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
 
-### Options
-- [ ] A) My friend is ugly. <!-- feedback: Incorrect. Not nice or respectful. -->
-- [x] B) My friend is very intelligent and kind. <!-- feedback: Correct! These are positive and descriptive traits. -->
-- [ ] C) My friend is just a person. <!-- feedback: Incorrect. Not very descriptive. -->
-- [ ] D) I don't know. <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) boarding pass
+  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
+- [ ] B) visa
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) receipt
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) brochure
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Evaluar el uso del lenguaje positivo y descriptivo. "Intelligent" (inteligente) y "Kind" (amable) son excelentes adjetivos de personalidad.
+### Explicacion Pedagogica
+The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+---
+## Question 8 [D10]
+**ID:** CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v8
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The activity of visiting places of interest in a particular location."
+
+### Opciones
+- [x] A) sightseeing
+  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
+- [ ] B) shopping
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) hiking
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) camping
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-8-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T05:46:16.179Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-v1",
+      "statement": "What is **\"Madre\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Father",
+          "is_correct": false,
+          "feedback": "Incorrect. Father is padre."
+        },
+        {
+          "letter": "B",
+          "text": "Mother",
+          "is_correct": true,
+          "feedback": "Correct! Mother is madre."
+        },
+        {
+          "letter": "C",
+          "text": "Sister",
+          "is_correct": false,
+          "feedback": "Incorrect. Sister is hermana."
+        },
+        {
+          "letter": "D",
+          "text": "Brother",
+          "is_correct": false,
+          "feedback": "Incorrect. Brother is hermano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La madre en inglés se dice \"mother\". También se le puede decir de forma cariñosa \"Mom\" o \"Mommy\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.95,
+      "bundle_id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-v2",
+      "statement": "What is **\"Padre\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Father",
+          "is_correct": true,
+          "feedback": "Correct! Father is padre."
+        },
+        {
+          "letter": "B",
+          "text": "Mother",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Brother",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Uncle",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El padre en inglés se dice \"father\". También se usa \"Dad\" o \"Daddy\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-v3",
+      "statement": "What is **\"Hermano\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sister",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Brother",
+          "is_correct": true,
+          "feedback": "Correct! Brother is hermano."
+        },
+        {
+          "letter": "C",
+          "text": "Baby",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Father",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Hermano en inglés se dice \"brother\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-v4",
+      "statement": "What is **\"Hermana\"** in English?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Brother",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Sister",
+          "is_correct": true,
+          "feedback": "Correct! Sister is hermana."
+        },
+        {
+          "letter": "C",
+          "text": "Mother",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Aunt",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Hermana en inglés se dice \"sister\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-v5",
+      "statement": "Mother + Father = ?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parents",
+          "is_correct": true,
+          "feedback": "Correct! Both together are called parents."
+        },
+        {
+          "letter": "B",
+          "text": "Brothers",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Sisters",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Uncles",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En inglés, a la madre y al padre juntos se les llama \"parents\" (padres). ¡Cuidado! No significa parientes en general.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-v6",
+      "statement": "Who is the **baby** in the family?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The father",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "The mother",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "The smallest child",
+          "is_correct": true,
+          "feedback": "Correct! The baby is the infant."
+        },
+        {
+          "letter": "D",
+          "text": "The grandmother",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El miembro más pequeño de la familia suele ser el \"baby\" (bebé).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-v7",
+      "statement": "My father's name is Carlos. He is my _______.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mother",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Father",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "Sister",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Brother",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si hablamos de un hombre que es nuestro progenitor, usamos \"father\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-v8",
+      "statement": "Complete: **\"I love my _______\"** (MAMÁ).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dad",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Mom",
+          "is_correct": true,
+          "feedback": "Correct! Mom is a short way to say mother."
+        },
+        {
+          "letter": "C",
+          "text": "Brother",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Son",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Mom\" es la forma corta y cariñosa de decir \"mother\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-v9",
+      "statement": "Choose the male (masculino) family member:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mother",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Sister",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Brother",
+          "is_correct": true,
+          "feedback": "Correct! Brother is male."
+        },
+        {
+          "letter": "D",
+          "text": "Aunt",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Brother\" (hermano) y \"Father\" (padre) son miembros masculinos de la familia.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-v10",
+      "statement": "If you have a **\"Sister\"**, she is:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A boy",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "A girl",
+          "is_correct": true,
+          "feedback": "Correct! Sister is female."
+        },
+        {
+          "letter": "C",
+          "text": "A teacher",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "An animal",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Sister\" (hermana) es un miembro femenino de la familia.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    }
+  ]
+}

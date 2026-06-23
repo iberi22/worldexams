@@ -8,844 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W28-house-animals-review-001-MASTERY-v1",
-      "statement": "\"Gato\" in English is ___.",
-      "context": "In Bogotá.",
+      "id": "CO-ING-6-2026-W28-telling-time-001-v1",
+      "statement": "This is a review question about telling-time.",
+      "context": "Scenario about telling-time in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "cat",
+          "text": "Option A (Correct)",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "dog",
+          "text": "Option D",
           "is_correct": false,
-          "feedback": "Incorrecto. Dog = perro."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "mouse",
+          "text": "Option C",
           "is_correct": false,
-          "feedback": "Incorrecto. Mouse = ratón."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "bird",
+          "text": "Option B",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Cat = gato. Dog = perro. Mouse = ratón. Bird = pájaro.\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W28-house-animals-review-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W28-house-animals-review-001-MASTERY-v2",
-      "statement": "\"A dog lives in a ___.\" (doghouse)",
-      "context": "In Medellín.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "doghouse",
-          "is_correct": true,
-          "feedback": "Correcto. Doghouse = casa de perro."
-        },
-        {
-          "letter": "B",
-          "text": "bedroom",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "bathroom",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "kitchen",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Doghouse = caseta del perro. People live in a house. Animals live in different places.\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W28-house-animals-review-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W28-house-animals-review-001-MASTERY-v3",
-      "statement": "\"There ___ a dog in the garden.\"",
-      "context": "In Cali.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "is",
-          "is_correct": true,
-          "feedback": "Correcto. A dog = singular."
-        },
-        {
-          "letter": "B",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "have",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "has",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "There is a dog. There are dogs.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W28-house-animals-review-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W28-house-animals-review-001-MASTERY-v4",
-      "statement": "\"The cat is ___ the table.\" (sobre)",
-      "context": "In Barranquilla.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "on",
-          "is_correct": true,
-          "feedback": "Correcto. On = sobre/encima."
-        },
-        {
-          "letter": "B",
-          "text": "under",
-          "is_correct": false,
-          "feedback": "Incorrecto. Under = debajo."
-        },
-        {
-          "letter": "C",
-          "text": "in front of",
-          "is_correct": false,
-          "feedback": "Incorrecto. In front of = enfrente."
-        },
-        {
-          "letter": "D",
-          "text": "behind",
-          "is_correct": false,
-          "feedback": "Incorrecto. Behind = detrás."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Prepositions of place: on (sobre), under (debajo), in front of (enfrente), behind (detrás), between (entre).\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W28-house-animals-review-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W28-house-animals-review-001-MASTERY-v5",
-      "statement": "\"There are two ___ in the living room.\" (sillones)",
-      "context": "In Bucaramanga.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "armchairs",
-          "is_correct": true,
-          "feedback": "Correcto. Armchair = sillón."
-        },
-        {
-          "letter": "B",
-          "text": "beds",
-          "is_correct": false,
-          "feedback": "Incorrecto. Bed = cama."
-        },
-        {
-          "letter": "C",
-          "text": "stoves",
-          "is_correct": false,
-          "feedback": "Incorrecto. Stove = estufa."
-        },
-        {
-          "letter": "D",
-          "text": "showers",
-          "is_correct": false,
-          "feedback": "Incorrecto. Shower = ducha."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Living room: armchair (sillón), sofa (sofá), coffee table (mesa de centro).\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of Telling the Time at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W28-house-animals-review-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W28-house-animals-review-001-MASTERY-v6",
-      "statement": "\"My dog ___ in the garden.\"",
-      "context": "In Cartagena.",
+      "id": "CO-ING-6-2026-W28-telling-time-002-v1",
+      "statement": "Select the correct A2 level use for telling-time.",
+      "context": "Scenario about telling-time in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "is",
+          "text": "Structure 1 (Correct)",
           "is_correct": true,
-          "feedback": "Correcto. Is = está."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "Structure 3",
           "is_correct": false,
-          "feedback": "Incorrecto. Dog es singular."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "have",
+          "text": "Structure 2",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "has",
+          "text": "Structure 4",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "A",
-      "explanation": "\"My dog is in the garden.\" = Mi perro está en el jardín. Usamos is para tercera persona singular.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of Telling the Time at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W28-house-animals-review-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W28-house-animals-review-001-MASTERY-v7",
-      "statement": "\"___ a cat on the sofa?\"",
-      "context": "In Pereira.",
+      "id": "CO-ING-6-2026-W28-telling-time-003-v1",
+      "statement": "Identify the appropriate vocabulary for telling-time.",
+      "context": "Scenario about telling-time in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Is there",
-          "is_correct": true,
-          "feedback": "Correcto. Is there...?"
+          "text": "Word 2",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "Are there",
-          "is_correct": false,
-          "feedback": "Incorrecto. Cat singular."
+          "text": "Word 1 (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "There is",
+          "text": "Word 4",
           "is_correct": false,
-          "feedback": "Incorrecto. Es pregunta."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "There are",
+          "text": "Word 3",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Yes/no questions: Is there a cat? Are there cats?\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "This question evaluates the student's ability to understand the topic of Telling the Time at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W28-house-animals-review-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W28-house-animals-review-001-MASTERY-v8",
-      "statement": "\"The bird is ___ the cage.\" (dentro de)",
-      "context": "In Manizales.",
+      "id": "CO-ING-6-2026-W28-telling-time-004-v1",
+      "statement": "Complete the sentence about telling-time.",
+      "context": "Scenario about telling-time in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "in",
-          "is_correct": true,
-          "feedback": "Correcto. In = dentro de."
+          "text": "Phrase B",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "on",
+          "text": "Phrase C",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "under",
+          "text": "Phrase D",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "between",
-          "is_correct": false,
-          "feedback": "Incorrecto."
+          "text": "Phrase A (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "In = dentro de. The bird is in the cage = El pájaro está en la jaula.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to understand the topic of Telling the Time at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W28-house-animals-review-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W28-house-animals-review-001-MASTERY-v9",
-      "statement": "\"The dog is next to the house. The cat is in front of the house.\" Which animal is next to the house?",
-      "context": "In Cúcuta.",
+      "id": "CO-ING-6-2026-W28-telling-time-005-v1",
+      "statement": "What is the best way to express telling-time?",
+      "context": "Scenario about telling-time in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "The dog",
-          "is_correct": true,
-          "feedback": "Correcto. Dog = next to = al lado."
+          "text": "Incorrect way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "The cat",
+          "text": "That way",
           "is_correct": false,
-          "feedback": "Incorrecto. Cat = in front of = enfrente."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Both",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "Neither",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Next to = al lado de. In front of = enfrente de. Identify each animal's location.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W28-house-animals-review-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W28-house-animals-review-001-MASTERY-v10",
-      "statement": "\"Describe: There is a small house. There are three rooms. There is a garden behind the house.\" What is behind the house?",
-      "context": "In Ibagué.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "A garden",
+          "text": "This way (Correct)",
           "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "Three rooms",
-          "is_correct": false,
-          "feedback": "Incorrecto. Rooms are inside."
-        },
-        {
-          "letter": "C",
-          "text": "A small house",
-          "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "A tree",
+          "text": "Other way",
           "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Reading comprehension: identify what is behind (detrás de) the house = a garden.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W28-house-animals-review-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W28-passive-voice-001-MASTERY-v1",
-      "statement": "What is the structure of passive voice?",
-      "context": "At Colegio Champagnat de Tunja, teacher introduces passive.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "subject + verb + object",
-          "is_correct": false,
-          "feedback": "Es activa."
-        },
-        {
-          "letter": "B",
-          "text": "subject + have + past participle",
-          "is_correct": false,
-          "feedback": "Es present perfect."
-        },
-        {
-          "letter": "C",
-          "text": "subject + be + past participle",
-          "is_correct": true,
-          "feedback": "Correcto. Pasiva = verbo to be + past participle."
-        },
-        {
-          "letter": "D",
-          "text": "subject + will + verb",
-          "is_correct": false,
-          "feedback": "Es futuro simple."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Voz pasiva: sujeto + be (conjugado) + past participle + (by + agente). \"The letter is written by Maria.\"\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W28-passive-voice-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W28-passive-voice-001-MASTERY-v2",
-      "statement": "When do we use passive voice?",
-      "context": "In Colegio Champagnat de Bogotá, passive use is explained.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "To emphasize the subject.",
-          "is_correct": false,
-          "feedback": "La activa enfatiza el sujeto."
-        },
-        {
-          "letter": "B",
-          "text": "When the action is more important than who did it.",
-          "is_correct": true,
-          "feedback": "Correcto. O cuando no sabemos quién lo hizo."
-        },
-        {
-          "letter": "C",
-          "text": "Only in questions.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "Only in present tense.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pasiva se usa cuando: (1) el agente es obvio/desconocido: \"My phone was stolen.\" (2) queremos enfatizar el objeto.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W28-passive-voice-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W28-passive-voice-001-MASTERY-v3",
-      "statement": "Complete in passive: \"The museum is visited by many tourists every year.\"",
-      "context": "At Colegio Fontán de Bogotá, students practice present passive.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "is visiting",
-          "is_correct": false,
-          "feedback": "Activo, no pasivo."
-        },
-        {
-          "letter": "B",
-          "text": "is visited",
-          "is_correct": true,
-          "feedback": "Correcto. Present simple passive: is + visited."
-        },
-        {
-          "letter": "C",
-          "text": "was visited",
-          "is_correct": false,
-          "feedback": "Pasado simple pasivo, no presente."
-        },
-        {
-          "letter": "D",
-          "text": "is visit",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es past participle."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Present simple passive: am/is/are + past participle. \"The museum is visited by many tourists.\"\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W28-passive-voice-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W28-passive-voice-001-MASTERY-v4",
-      "statement": "Complete past passive: \"Bogotá was founded in 1538.\"",
-      "context": "In I.E. La Salle de Santa Marta, past passive is practiced.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "is founded",
-          "is_correct": false,
-          "feedback": "Presente, pero es histórico."
-        },
-        {
-          "letter": "B",
-          "text": "was founded",
-          "is_correct": true,
-          "feedback": "Correcto. Past simple passive: was + founded."
-        },
-        {
-          "letter": "C",
-          "text": "was found",
-          "is_correct": false,
-          "feedback": "\"Found\" es de \"find\" (encontrar), no de \"found\" (fundar)."
-        },
-        {
-          "letter": "D",
-          "text": "founded",
-          "is_correct": false,
-          "feedback": "Activo, no pasivo."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Past simple passive: was/were + past participle. \"Bogotá was founded in 1538 by Gonzalo Jiménez de Quesada.\"\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W28-passive-voice-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W28-passive-voice-001-MASTERY-v5",
-      "statement": "Active: \"The chef prepares the bandeja paisa.\" Passive:",
-      "context": "Students at Colegio Champagnat de Tunja convert active to passive.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "The chef is prepared by the bandeja paisa.",
-          "is_correct": false,
-          "feedback": "El sujeto activo se convirtió en objeto."
-        },
-        {
-          "letter": "B",
-          "text": "The bandeja paisa is prepared by the chef.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "The bandeja paisa was prepared by the chef.",
-          "is_correct": false,
-          "feedback": "Tiempo incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "The chef prepares the bandeja paisa.",
-          "is_correct": false,
-          "feedback": "Sigue en activa."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Activa -> Pasiva: el objeto se vuelve sujeto, el verbo cambia a be + past participle.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W28-passive-voice-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W28-passive-voice-001-MASTERY-v6",
-      "statement": "Question in passive: \"Who was invited to the party?\"",
-      "context": "In Colegio Champagnat de Medellín, passive questions are practiced.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "did invite",
-          "is_correct": false,
-          "feedback": "Activo."
-        },
-        {
-          "letter": "B",
-          "text": "was invited",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "is invite",
-          "is_correct": false,
-          "feedback": "Past participle needed."
-        },
-        {
-          "letter": "D",
-          "text": "invited",
-          "is_correct": false,
-          "feedback": "Activo."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Preguntas en pasiva: Was/Were + sujeto + past participle?\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to apply the topic of Telling the Time at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W28-passive-voice-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W28-passive-voice-001-MASTERY-v7",
-      "statement": "Why omit the agent? \"The museum was built in 1950.\"",
-      "context": "At Colegio Cambridge de Cúcuta, students analyze passive.",
+      "id": "CO-ING-6-2026-W28-telling-time-006-v1",
+      "statement": "Find the error in this telling-time sentence.",
+      "context": "Scenario about telling-time in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "The agent is important.",
+          "text": "No error",
           "is_correct": false,
-          "feedback": "Si fuera importante, lo incluiríamos."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "The agent is obvious, so it's optional.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Wrong error",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "The agent cannot be known.",
+          "text": "Different error",
           "is_correct": false,
-          "feedback": "Sabemos quién construye museos."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "It is always required.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
+          "text": "The error is here (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El agente (by + persona) se omite cuando es obvio o no importante.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to apply the topic of Telling the Time at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W28-passive-voice-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W28-passive-voice-001-MASTERY-v8",
-      "statement": "Best sentence to describe a historical fact about Monserrate:",
-      "context": "In I.E. María Inmaculada de Pereira, evaluate passive usage.",
+      "id": "CO-ING-6-2026-W28-telling-time-007-v1",
+      "statement": "Match the term with the definition of telling-time.",
+      "context": "Scenario about telling-time in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Workers built the museum in colonial times.",
+          "text": "Non-matching",
           "is_correct": false,
-          "feedback": "Activa."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "The museum was built during the colonial period.",
+          "text": "Matching term (Correct)",
           "is_correct": true,
-          "feedback": "Correcto. Pasiva que enfatiza el lugar."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "The museum is built by workers.",
+          "text": "Irrelevant",
           "is_correct": false,
-          "feedback": "Presente, pero es histórico."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "The colonial period built the museum.",
+          "text": "Opposite",
           "is_correct": false,
-          "feedback": "Ilógico."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Para hechos históricos, la pasiva es ideal cuando el agente es obvio.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to apply the topic of Telling the Time at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W28-telling-time-008-v1",
+      "statement": "Choose the synonym for a word related to telling-time.",
+      "context": "Scenario about telling-time in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Synonym (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "Antonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Unrelated",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Homonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Telling the Time at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W28-passive-voice-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W28-passive-voice-001-MASTERY-v9",
-      "statement": "Which sentence has a passive voice error?",
-      "context": "At I.E. María Inmaculada de Neiva, find passive errors.",
+      "id": "CO-ING-6-2026-W28-telling-time-009-v1",
+      "statement": "Which of these belongs to telling-time?",
+      "context": "Scenario about telling-time in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "The homework is done by the student.",
+          "text": "Neither",
           "is_correct": false,
-          "feedback": "Correcta."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "The car was washed yesterday.",
-          "is_correct": false,
-          "feedback": "Correcta. Agente omitido."
+          "text": "This one (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "The cake was bake by my mom.",
-          "is_correct": true,
-          "feedback": "Error. \"Bake\" debe ser \"baked\"."
+          "text": "Not this one",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "The letters are delivered every morning.",
+          "text": "Both",
           "is_correct": false,
-          "feedback": "Correcta."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Error: en pasiva necesitamos el past participle del verbo. \"Bake\" -> \"baked\".\r\n\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W28-passive-voice-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W28-passive-voice-001-MASTERY-v10",
-      "statement": "Create a passive sentence about Isla Gorgona:",
-      "context": "At Colegio Fontán de Pasto, create passive sentence.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Tourists visit the museum every year.",
-          "is_correct": false,
-          "feedback": "Activa."
-        },
-        {
-          "letter": "B",
-          "text": "The museum is visited by thousands of tourists every year.",
-          "is_correct": true,
-          "feedback": "Correcto. Present simple passive."
-        },
-        {
-          "letter": "C",
-          "text": "The museum was visit by tourists.",
-          "is_correct": false,
-          "feedback": "Past participle incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "Tourists are visited the museum.",
-          "is_correct": false,
-          "feedback": "Cambió el significado."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Para crear una oración pasiva: objeto -> sujeto, be + past participle del verbo.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Telling the Time at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W28-telling-time-010-v1",
+      "statement": "Predict the next word in the telling-time context.",
+      "context": "Scenario about telling-time in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Correct prediction",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "Maybe",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Impossible",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Wrong prediction",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Telling the Time at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W28-passive-voice-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

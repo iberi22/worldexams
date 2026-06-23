@@ -11,13 +11,11 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
-alignment: "ICFES Saber 11 / CEFR B2"
-cefr_level: "B2"
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-
 # Bundle Mastery: Review P1 - Grade 10
 
 This bundle provides a cumulative review of Period 1 (W01-W09), including perfect tenses, passive voice, modals, and reported speech.

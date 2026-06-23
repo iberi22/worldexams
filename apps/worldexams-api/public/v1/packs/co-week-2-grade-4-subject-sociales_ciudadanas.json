@@ -1,0 +1,2161 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-2-grade-4-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-22T05:46:17.272Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-v1",
+      "statement": "La autoridad que representa al municipio, lo administra y ejecuta las decisiones se llama:",
+      "context": "En clase de formación ciudadana de la I.E. José María Obando de Popayán, la profesora enumera las autoridades del municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Personero Municipal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Personero defiende los derechos humanos, pero no administra el municipio."
+        },
+        {
+          "letter": "B",
+          "text": "El Gobernador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Gobernador es la autoridad del departamento, no del municipio."
+        },
+        {
+          "letter": "C",
+          "text": "El Alcalde Municipal.",
+          "is_correct": true,
+          "feedback": "Correcto. El Alcalde es el representante legal del municipio y su primera autoridad administrativa, encargado de ejecutar los recursos y gestionar los servicios públicos."
+        },
+        {
+          "letter": "D",
+          "text": "El Presidente de la Junta de Acción Comunal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El líder de la JAC representa una vereda o barrio, no todo el municipio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa el conocimiento de la principal autoridad municipal. La respuesta correcta identifica al Alcalde. El error común es confundir autoridades de diferentes niveles.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-v2",
+      "statement": "El Concejo Municipal está conformado por personas elegidas por voto popular llamadas:",
+      "context": "En la clase de sociales de la I.E. Normal Superior de Montería, los estudiantes aprenden las diferencias entre las autoridades locales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Senadores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los senadores son elegidos para el Congreso Nacional, no para el municipio."
+        },
+        {
+          "letter": "B",
+          "text": "Diputados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los diputados son elegidos para la Asamblea Departamental."
+        },
+        {
+          "letter": "C",
+          "text": "Concejales.",
+          "is_correct": true,
+          "feedback": "Correcto. Los concejales son elegidos por los ciudadanos del municipio para integrar el Concejo Municipal, donde expiden acuerdos y hacen control político al Alcalde."
+        },
+        {
+          "letter": "D",
+          "text": "Ediles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ediles integran las Juntas Administradoras Locales (JAL) en las ciudades grandes, no el Concejo Municipal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa el reconocimiento de los miembros del Concejo Municipal. La respuesta correcta identifica a los concejales. El error común es confundir los cargos de elección popular en diferentes niveles.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-v3",
+      "statement": "La Personería Municipal es una entidad que:",
+      "context": "En la clase de sociales de la I.E. Técnico de Sopó, el profesor explica la función del Personero Municipal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recauda los impuestos del municipio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Recaudar impuestos es función de la Tesorería Municipal."
+        },
+        {
+          "letter": "B",
+          "text": "Organiza las fiestas patronales del pueblo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Personería no organiza eventos festivos."
+        },
+        {
+          "letter": "C",
+          "text": "Defiende los derechos humanos y vigila que las autoridades municipales cumplan con sus deberes.",
+          "is_correct": true,
+          "feedback": "Correcto. El Personero Municipal es el defensor de los derechos de los ciudadanos en el municipio y ejerce control sobre la gestión del Alcalde."
+        },
+        {
+          "letter": "D",
+          "text": "Se encarga de construir todas las carreteras del departamento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las carreteras departamentales son responsabilidad del gobierno departamental."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la comprensión del rol de la Personería Municipal. La respuesta correcta describe su función de defensa de derechos y control. El error común es confundirla con otras dependencias municipales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-v4",
+      "statement": "Si en una familia hay maltrato infantil o violencia intrafamiliar, la autoridad local a la que se debe acudir es:",
+      "context": "En la clase de formación ciudadana de la I.E. Fe y Alegría de Soacha, se habla de la Comisaría de Familia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Alcalde directamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Alcalde no atiende casos particulares de violencia intrafamiliar."
+        },
+        {
+          "letter": "B",
+          "text": "La Junta de Acción Comunal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las JAC organizan a la comunidad pero no tienen autoridad judicial."
+        },
+        {
+          "letter": "C",
+          "text": "La Comisaría de Familia.",
+          "is_correct": true,
+          "feedback": "Correcto. La Comisaría de Familia es la autoridad local encargada de proteger los derechos de los miembros de la familia, especialmente niños, niñas y adolescentes, en casos de violencia y maltrato."
+        },
+        {
+          "letter": "D",
+          "text": "La Policía de Tránsito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Policía de Tránsito se ocupa de la movilidad, no de temas familiares."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la comprensión del rol de la Comisaría de Familia. La respuesta correcta la identifica como la autoridad competente. El error común es no conocer a qué autoridad acudir en casos de violencia intrafamiliar.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-v5",
+      "statement": "Los vecinos de un barrio pueden organizarse para trabajar por el mejoramiento de su comunidad a través de:",
+      "context": "En el barrio El Paraíso de la I.E. La Amistad de Pereira, los vecinos quieren organizarse para mejorar la seguridad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una fiesta cada fin de semana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fiestas no son un mecanismo de organización comunitaria formal."
+        },
+        {
+          "letter": "B",
+          "text": "Una reunión con el Presidente de la República.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Presidente no atiende problemas de barrio directamente."
+        },
+        {
+          "letter": "C",
+          "text": "La Junta de Acción Comunal (JAC), que es la organización de base de la comunidad para gestionar proyectos y necesidades.",
+          "is_correct": true,
+          "feedback": "Correcto. Las Juntas de Acción Comunal son organizaciones civiles que representan a la comunidad de un barrio o vereda y gestionan proyectos de desarrollo ante el municipio."
+        },
+        {
+          "letter": "D",
+          "text": "Una petición al Papa en el Vaticano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Papa no gestiona problemas de barrios colombianos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de aplicar conocimientos sobre organización comunitaria. La respuesta correcta identifica a las JAC. El error común es desconocer las formas de organización local.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-v6",
+      "statement": "La Inspección de Policía en un municipio se encarga principalmente de:",
+      "context": "En clase de sociales en la I.E. San Felipe Neri de Barranquilla, el profesor explica qué hace la Inspección de Policía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Investigar delitos graves como homicidios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los delitos graves son competencia de la Fiscalía."
+        },
+        {
+          "letter": "B",
+          "text": "Organizar desfiles y fiestas deportivas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Inspección de Policía no organiza eventos."
+        },
+        {
+          "letter": "C",
+          "text": "Resolver conflictos entre vecinos (problemas de linderos, ruido, mascotas) y hacer cumplir las normas de convivencia del municipio.",
+          "is_correct": true,
+          "feedback": "Correcto. El Inspector de Policía es la autoridad que resuelve conflictos de convivencia ciudadana, aplica multas y ordena medidas correctivas."
+        },
+        {
+          "letter": "D",
+          "text": "Cobrar los impuestos nacionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cobrar impuestos nacionales es función de la DIAN."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la comprensión del rol del Inspector de Policía. La respuesta correcta describe su función de resolver conflictos de convivencia. El error común es confundirla con autoridades judiciales o de investigación criminal.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-v7",
+      "statement": "Si los estudiantes quieren proponer una idea para mejorar la biblioteca municipal, pueden:",
+      "context": "En la clase de formación ciudadana de la I.E. Débora Arango de Envigado, se simula una reunión del Concejo Municipal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llamar por teléfono a un programa de farándula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los programas de farándula no toman decisiones municipales."
+        },
+        {
+          "letter": "B",
+          "text": "Solicitar una cita con algún concejal para presentar su propuesta, o asistir a las sesiones del Concejo Municipal donde se reciben sugerencias de la comunidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Los concejales son representantes de la comunidad y pueden recibir propuestas ciudadanas para convertirlas en acuerdos municipales."
+        },
+        {
+          "letter": "C",
+          "text": "Enviar una carta al rey de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rey de España no tiene autoridad en municipios colombianos."
+        },
+        {
+          "letter": "D",
+          "text": "Publicar un aviso en el periódico de otra ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Publicar en otro periódico no ayuda a gestionar la propuesta localmente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa la capacidad de aplicar los mecanismos de participación ciudadana. La respuesta correcta identifica cómo presentar propuestas al Concejo. El error común es no saber cómo acercarse a las autoridades locales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-v8",
+      "statement": "¿Por qué es importante que en un municipio existan diferentes autoridades (Alcalde, Concejo, Personería, JAC) y no una sola?",
+      "context": "En la clase de sociales de la I.E. INEM de Pasto, los estudiantes analizan por qué hay varias autoridades y no solo una.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que haya más personas con cargos y sueldos, aunque no trabajen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se crean cargos solo para dar empleo."
+        },
+        {
+          "letter": "B",
+          "text": "Para que el Alcalde tenga más poder que nadie y decida todo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El poder no debe concentrarse en una sola persona."
+        },
+        {
+          "letter": "C",
+          "text": "Para que haya separación de funciones, equilibrio de poder y control mutuo, evitando abusos y garantizando que las decisiones se tomen pensando en el bien común.",
+          "is_correct": true,
+          "feedback": "Correcto. La existencia de varias autoridades permite que unas controlen a otras, que haya representación de diferentes intereses y que los ciudadanos tengan múltiples canales para ser escuchados."
+        },
+        {
+          "letter": "D",
+          "text": "Para que cada año cambien de autoridad sin importar el resultado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las autoridades tienen periodos fijos y funciones específicas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de analizar la importancia de la separación de poderes a nivel local. La respuesta correcta destaca el equilibrio y control. El error común es pensar que muchas autoridades son innecesarias.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Interpretación y análisis de perspectivas]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-v9",
+      "statement": "Las autoridades locales como el Alcalde y los Concejales son elegidas por:",
+      "context": "En la clase de formación ciudadana de la I.E. La Paz de Valledupar, los estudiantes discuten cómo elegir autoridades locales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Presidente de la República, que nombra a todos los alcaldes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En Colombia los alcaldes no son nombrados por el Presidente desde 1988."
+        },
+        {
+          "letter": "B",
+          "text": "El Gobernador del departamento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Gobernador tampoco nombra a los alcaldes."
+        },
+        {
+          "letter": "C",
+          "text": "Los ciudadanos del municipio mayores de 18 años, mediante voto popular y secreto cada cuatro años.",
+          "is_correct": true,
+          "feedback": "Correcto. Los alcaldes y concejales son elegidos por voto popular desde la reforma constitucional de 1986, que estableció la elección popular de alcaldes."
+        },
+        {
+          "letter": "D",
+          "text": "Los líderes de las Juntas de Acción Comunal del municipio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las JAC no eligen al Alcalde."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la comprensión del proceso de elección de autoridades locales. La respuesta correcta describe el voto popular. El error común es pensar que las autoridades locales son nombradas por instancias superiores.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-v10",
+      "statement": "Aunque los niños no pueden votar ni ser elegidos, pueden participar en la vida de su municipio a través de:",
+      "context": "En la clase de sociales de la I.E. Javiera Londoño de Medellín, la profesora pregunta cómo los niños pueden relacionarse con las autoridades locales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No haciendo nada, porque los niños no tienen voz en el municipio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los niños también pueden participar."
+        },
+        {
+          "letter": "B",
+          "text": "Asistiendo a las sesiones del Concejo Municipal solo si pagan una entrada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sesiones del Concejo son públicas y gratuitas."
+        },
+        {
+          "letter": "C",
+          "text": "Los Consejos Municipales de Niños y Niñas, participando en las juntas de acción comunal con su familia, y expresando sus ideas en la escuela sobre cómo mejorar su barrio.",
+          "is_correct": true,
+          "feedback": "Correcto. Existen los Consejos Municipales de Niños y Niñas como espacios de participación infantil, y los niños pueden involucrarse en actividades comunitarias acompañados de sus familias."
+        },
+        {
+          "letter": "D",
+          "text": "Organizando una huelga de tareas escolares hasta que el Alcalde los escuche.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La protesta no debe implicar abandonar los deberes escolares."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de reflexionar sobre la participación infantil en el gobierno local. La respuesta correcta identifica espacios reales de participación para niños. El error común es pensar que los niños no tienen formas de participar.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-autoridades-locales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-v1",
+      "statement": "Según el censo más reciente, en Colombia existen aproximadamente:",
+      "context": "En la clase de sociales de la I.E. Etnocducativa John F. Kennedy de Riohacha, el profesor pregunta cuántos pueblos indígenas hay actualmente en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 pueblos indígenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia tiene muchos más de 10 pueblos indígenas."
+        },
+        {
+          "letter": "B",
+          "text": "30 pueblos indígenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cifra real es mayor."
+        },
+        {
+          "letter": "C",
+          "text": "Más de 100 pueblos indígenas reconocidos oficialmente.",
+          "is_correct": true,
+          "feedback": "Correcto. Colombia reconoce oficialmente más de 100 pueblos indígenas, cada uno con su propia lengua, cultura y territorio."
+        },
+        {
+          "letter": "D",
+          "text": "5 pueblos indígenas en todo el territorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia es uno de los países con mayor diversidad indígena de América Latina."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa el conocimiento de la diversidad indígena actual de Colombia. La respuesta correcta reconoce la gran cantidad de pueblos indígenas. El error común es subestimar la diversidad cultural del país.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-v2",
+      "statement": "La educación en los territorios indígenas de Colombia se imparte respetando su cultura y lengua. Este modelo educativo se llama:",
+      "context": "En la clase de sociales de la I.E. Agropecuaria de Sibundoy, Putumayo, el profesor habla sobre la educación en comunidades indígenas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Educación tradicional occidental.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La educación en territorios indígenas sigue un modelo diferente al occidental."
+        },
+        {
+          "letter": "B",
+          "text": "Educación virtual a distancia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La educación virtual no es el modelo principal en territorios indígenas."
+        },
+        {
+          "letter": "C",
+          "text": "Educación propia o etnoeducación.",
+          "is_correct": true,
+          "feedback": "Correcto. La etnoeducación es un modelo que respeta las lenguas, costumbres y cosmovisión de los pueblos indígenas, integrando conocimientos ancestrales con contenidos del currículo nacional."
+        },
+        {
+          "letter": "D",
+          "text": "Educación militar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe un modelo educativo militar para comunidades indígenas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa el conocimiento del modelo educativo indígena. La respuesta correcta identifica la etnoeducación. El error común es pensar que la educación indígena sigue el mismo modelo que en las ciudades.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-v3",
+      "statement": "Muchas comunidades indígenas de la Amazonía colombiana viven en una casa comunal grande donde realizan sus actividades y reuniones. Esta construcción se llama:",
+      "context": "En clase de sociales en la I.E. Normal de Mitú, Vaupés, los estudiantes visitan una maloca y aprenden sobre la vida comunitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una catedral.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La catedral es un templo católico de grandes dimensiones."
+        },
+        {
+          "letter": "B",
+          "text": "Una finca privada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comunidades amazónicas no viven en fincas privadas individuales."
+        },
+        {
+          "letter": "C",
+          "text": "Una maloca.",
+          "is_correct": true,
+          "feedback": "Correcto. La maloca es la vivienda comunal tradicional de los pueblos indígenas amazónicos como los Huitoto, Yagua y Ticuna, donde conviven varias familias y se realizan ceremonias."
+        },
+        {
+          "letter": "D",
+          "text": "Una escuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque puede haber escuelas, la maloca es una vivienda y centro ceremonial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la comprensión de las formas de vivienda indígena actual. La respuesta correcta identifica la maloca. El error común es confundir las construcciones indígenas con edificaciones occidentales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-v4",
+      "statement": "Las comunidades indígenas actuales en Colombia:",
+      "context": "En clase de sociales en la I.E. Francisco de Paula Santander de Ocaña, un estudiante pregunta si los indígenas viven como hace 500 años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Viven exactamente igual que antes de la llegada de los españoles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las culturas cambian con el tiempo, ninguna se ha mantenido exactamente igual."
+        },
+        {
+          "letter": "B",
+          "text": "Han abandonado todas sus tradiciones y viven como cualquier colombiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas comunidades mantienen sus tradiciones vivas."
+        },
+        {
+          "letter": "C",
+          "text": "Combinan elementos de su cultura tradicional con tecnología moderna, como el uso de celulares, Internet y motores fuera de borda, sin perder su identidad cultural.",
+          "is_correct": true,
+          "feedback": "Correcto. Las comunidades indígenas actuales han adoptado algunas tecnologías modernas mientras mantienen sus lenguas, autoridades tradicionales y costumbres."
+        },
+        {
+          "letter": "D",
+          "text": "No tienen acceso a ningún elemento de la vida moderna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas comunidades tienen acceso limitado pero existen elementos modernos en sus territorios."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la comprensión de la realidad actual de los pueblos indígenas. La respuesta correcta reconoce la adaptación sin pérdida de identidad. El error común es tener una visión estática o folclórica de las comunidades indígenas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-v5",
+      "statement": "Muchas comunidades indígenas actuales combinan actividades económicas tradicionales con otras modernas. Por ejemplo, los Wayúu de La Guajira se dedican a:",
+      "context": "En la clase de sociales de la I.E. Técnica de Uribia, La Guajira, los estudiantes investigan la economía de la comunidad Wayúu.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trabajar exclusivamente en oficinas en Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los Wayúu viven principalmente en La Guajira, no en Bogotá."
+        },
+        {
+          "letter": "B",
+          "text": "La minería de carbón a gran escala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La minería de carbón es actividad de empresas, no tradicional de los Wayúu."
+        },
+        {
+          "letter": "C",
+          "text": "La cría de chivos y ovejas, la elaboración de mochilas y artesanías, el comercio y el trabajo en empresas de la región.",
+          "is_correct": true,
+          "feedback": "Correcto. Los Wayúu combinan su economía tradicional (pastoreo, artesanías) con actividades modernas como el comercio fronterizo y el trabajo en la minería y empresas de servicios."
+        },
+        {
+          "letter": "D",
+          "text": "La fabricación de automóviles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los Wayúu no fabrican automóviles."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de aplicar el conocimiento sobre la economía indígena actual. La respuesta correcta describe las actividades económicas wayúu. El error común es tener una visión limitada o estereotipada de la economía indígena.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-v6",
+      "statement": "Para las comunidades indígenas actuales, el territorio no es solo un lugar donde viven. Para ellos representa:",
+      "context": "En la clase de formación ciudadana de la I.E. Liceo de la Amazonia en Florencia, los estudiantes analizan la relación de los indígenas con su territorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un sitio para construir centros comerciales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los indígenas no ven su territorio como un espacio comercial."
+        },
+        {
+          "letter": "B",
+          "text": "Una propiedad que pueden vender al mejor postor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para los indígenas, la tierra tiene un valor espiritual que va más allá de lo económico."
+        },
+        {
+          "letter": "C",
+          "text": "La base de su identidad cultural, su fuente de alimento y medicina, su conexión espiritual con los ancestros y el lugar donde pueden ejercer su autonomía.",
+          "is_correct": true,
+          "feedback": "Correcto. El territorio indígena es inseparable de su identidad cultural: allí están sus sitios sagrados, sus recursos naturales y su forma de gobierno."
+        },
+        {
+          "letter": "D",
+          "text": "Un terreno para alquilar a turistas extranjeros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay ecoturismo comunitario, esa no es la visión principal del territorio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la comprensión de la relación espiritual y cultural de los indígenas con el territorio. La respuesta correcta describe los múltiples significados del territorio. El error común es proyectar una visión puramente económica de la tierra.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-v7",
+      "statement": "Los pueblos indígenas de Colombia participan en la política nacional a través de:",
+      "context": "En la clase de sociales de la I.E. San Juan de Rioseco, un estudiante pregunta cómo los indígenas participan en la política nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No pueden participar porque no son ciudadanos colombianos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los indígenas son ciudadanos colombianos con todos los derechos."
+        },
+        {
+          "letter": "B",
+          "text": "Solo a través de protestas en las calles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La protesta es una forma de participación, pero no la única."
+        },
+        {
+          "letter": "C",
+          "text": "La elección de representantes indígenas al Congreso de la República (circunscripción especial indígena), su participación en los concejos municipales y asambleas departamentales.",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución de 1991 creó circunscripciones especiales para que los pueblos indígenas tengan representación directa en el Senado y la Cámara de Representantes."
+        },
+        {
+          "letter": "D",
+          "text": "Escribiendo cartas al exterior pidiendo ayuda internacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La participación política se da dentro del sistema colombiano."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de aplicar el conocimiento sobre participación política indígena. La respuesta correcta describe la circunscripción especial. El error común es pensar que los indígenas no tienen canales de participación política.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-v8",
+      "statement": "Uno de los principales problemas que enfrentan las comunidades indígenas de la Amazonía colombiana actualmente es:",
+      "context": "En un debate escolar en la I.E. Técnica Ambiental de Leticia, los estudiantes discuten los problemas que enfrentan las comunidades amazónicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que tienen demasiada tecnología moderna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de acceso a servicios básicos es más preocupante."
+        },
+        {
+          "letter": "B",
+          "text": "La sobrepoblación de sus territorios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Amazonía tiene baja densidad poblacional."
+        },
+        {
+          "letter": "C",
+          "text": "La deforestación, la minería ilegal y la explotación de recursos naturales en sus territorios sin su consentimiento.",
+          "is_correct": true,
+          "feedback": "Correcto. Las comunidades amazónicas enfrentan graves amenazas por la tala ilegal, la minería de oro, los cultivos ilícitos y los megaproyectos que destruyen su hábitat y los desplazan."
+        },
+        {
+          "letter": "D",
+          "text": "El exceso de turistas que quieren visitar sus malocas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El turismo, bien manejado, puede ser beneficioso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de analizar los problemas reales de las comunidades indígenas. La respuesta correcta identifica la deforestación y la minería ilegal. El error común es minimizar los problemas ambientales y territoriales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Interpretación y análisis de perspectivas]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-v9",
+      "statement": "Las comunidades indígenas actuales aportan a Colombia conocimientos valiosos como:",
+      "context": "En clase de sociales en la I.E. Enrique Olaya Herrera de Bogotá, la profesora pregunta qué aportan las comunidades indígenas al país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recetas de cocina rápida y comida chatarra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comida chatarra no es un aporte indígena."
+        },
+        {
+          "letter": "B",
+          "text": "Tecnología de punta para desarrollar cohetes espaciales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un aporte indígena."
+        },
+        {
+          "letter": "C",
+          "text": "El conocimiento de plantas medicinales, técnicas de agricultura sostenible, la conservación de bosques y una visión de respeto por la naturaleza.",
+          "is_correct": true,
+          "feedback": "Correcto. Los pueblos indígenas poseen conocimientos ancestrales sobre medicina natural, agricultura orgánica, manejo de bosques y conservación ambiental que son fundamentales para enfrentar el cambio climático."
+        },
+        {
+          "letter": "D",
+          "text": "La fabricación de automóviles eléctricos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los autos eléctricos no son un aporte indígena."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de analizar las contribuciones de los pueblos indígenas a la sociedad colombiana. La respuesta correcta destaca sus conocimientos ambientales y medicinales. El error común es no reconocer el valor de los saberes ancestrales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-v10",
+      "statement": "La Constitución de 1991 reconoce que Colombia es un país pluriétnico y multicultural. Esto significa que:",
+      "context": "En la clase de formación ciudadana de la I.E. Normal de Quibdó, la profesora pregunta por qué debemos respetar la diversidad étnica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En Colombia solo existe un grupo étnico: los mestizos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia es diversa, no tiene un solo grupo étnico."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los colombianos deben hablar la misma lengua y tener las mismas costumbres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diversidad cultural es lo que caracteriza a Colombia."
+        },
+        {
+          "letter": "C",
+          "text": "El Estado reconoce y respeta la existencia de diferentes grupos étnicos (indígenas, afrocolombianos, raizales, ROM) con sus propias lenguas, culturas y formas de gobierno.",
+          "is_correct": true,
+          "feedback": "Correcto. El reconocimiento de Colombia como país pluriétnico y multicultural significa que el Estado valora y protege la diversidad cultural como un patrimonio nacional."
+        },
+        {
+          "letter": "D",
+          "text": "Solo los indígenas tienen derechos en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los colombianos tienen derechos, incluyendo los grupos étnicos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de reflexionar sobre el carácter pluriétnico de Colombia. La respuesta correcta explica el concepto de multiculturalidad. El error común es confundir la diversidad con desigualdad o exclusividad.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-comunidades-indigenas-actuales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-convivencia-familiar-escolar-001-MASTERY-v1",
+      "statement": "Las normas de convivencia son:",
+      "context": "En la clase de ética de la I.E. San José de Cúcuta, la profesora pregunta qué son las normas de convivencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reglas para ganar en los videojuegos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las normas de convivencia no son sobre videojuegos."
+        },
+        {
+          "letter": "B",
+          "text": "Acuerdos que regulan la forma en que nos relacionamos con los demás para vivir en armonía y respeto mutuo.",
+          "is_correct": true,
+          "feedback": "Correcto. Las normas de convivencia son pautas que establecen cómo debemos comportarnos con los demás para garantizar el respeto, la seguridad y la buena relación en la familia, la escuela y la comunidad."
+        },
+        {
+          "letter": "C",
+          "text": "Instrucciones para armar un rompecabezas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Armar un rompecabezas no es una norma de convivencia."
+        },
+        {
+          "letter": "D",
+          "text": "Leyes solo para los adultos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las normas de convivencia aplican a todos, incluyendo niños y niñas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el conocimiento del concepto de normas de convivencia. La respuesta correcta las describe como acuerdos para la armonía social. El error común es confundir las normas sociales con otro tipo de reglas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-convivencia-familiar-escolar-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-convivencia-familiar-escolar-001-MASTERY-v2",
+      "statement": "Un ejemplo de valor fundamental para la convivencia familiar es:",
+      "context": "En la clase de formación ciudadana de la I.E. María Inmaculada de Manizales, los estudiantes hablan sobre los valores en la familia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La competencia y la rivalidad entre hermanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rivalidad no es un valor que favorezca la convivencia."
+        },
+        {
+          "letter": "B",
+          "text": "El respeto, que significa escuchar a los demás, valorar sus opiniones y tratarlos con consideración.",
+          "is_correct": true,
+          "feedback": "Correcto. El respeto es uno de los valores más importantes para la convivencia, tanto en la familia como en la escuela, pues permite relacionarnos con los demás reconociendo su dignidad."
+        },
+        {
+          "letter": "C",
+          "text": "El egoísmo, que significa pensar solo en uno mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El egoísmo dificulta la convivencia."
+        },
+        {
+          "letter": "D",
+          "text": "La desobediencia a los padres y maestros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desobediencia no es un valor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el reconocimiento de valores positivos para la convivencia. La respuesta correcta identifica el respeto. El error común es confundir valores con antivalores.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-convivencia-familiar-escolar-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-convivencia-familiar-escolar-001-MASTERY-v3",
+      "statement": "El manual de convivencia de un colegio es importante porque:",
+      "context": "En la clase de ética de la I.E. Técnica de Cali, los estudiantes analizan el manual de convivencia del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contiene las recetas de la cafetería escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El manual no contiene recetas de cocina."
+        },
+        {
+          "letter": "B",
+          "text": "Es un documento que solo los profesores deben conocer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los miembros de la comunidad educativa deben conocerlo."
+        },
+        {
+          "letter": "C",
+          "text": "Establece los derechos, deberes y normas que todos los miembros de la comunidad educativa deben respetar para garantizar un ambiente de aprendizaje sano.",
+          "is_correct": true,
+          "feedback": "Correcto. El manual de convivencia escolar contiene las reglas para la sana convivencia, los derechos y deberes de estudiantes, docentes y padres, y los procedimientos en caso de incumplimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Es un libro de cuentos para leer en la hora del descanso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un documento normativo, no un libro de cuentos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la comprensión de la función del manual de convivencia. La respuesta correcta describe su propósito normativo. El error común es minimizar la importancia del manual de convivencia.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-convivencia-familiar-escolar-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-convivencia-familiar-escolar-001-MASTERY-v4",
+      "statement": "Cuando dos compañeros tienen un conflicto en el salón, la mejor manera de resolverlo pacíficamente es:",
+      "context": "En la clase de formación ciudadana de la I.E. Normal de Piedecuesta, la profesora explica los mecanismos para resolver conflictos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Golpear al compañero para que aprenda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La violencia nunca es una solución adecuada para resolver conflictos."
+        },
+        {
+          "letter": "B",
+          "text": "Ignorar el problema y no hablar nunca más.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignorar los problemas no los resuelve."
+        },
+        {
+          "letter": "C",
+          "text": "Dialogar, escuchar la versión del otro, pedir disculpas si es necesario y buscar una solución que beneficie a ambas partes con la ayuda de un mediador si hace falta.",
+          "is_correct": true,
+          "feedback": "Correcto. El diálogo, la escucha activa y la mediación son herramientas fundamentales para resolver conflictos de manera pacífica y constructiva."
+        },
+        {
+          "letter": "D",
+          "text": "Quejarse con los papás para que ellos vengan a pelear.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los padres deben mediar, no pelear."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la comprensión de la resolución pacífica de conflictos. La respuesta correcta describe el diálogo y la mediación. El error común es pensar que la violencia o el silencio resuelven los problemas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-convivencia-familiar-escolar-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-convivencia-familiar-escolar-001-MASTERY-v5",
+      "statement": "Si en el colegio ves que un compañero está siendo víctima de burlas por su apariencia, ¿qué debes hacer?",
+      "context": "En el descanso de la I.E. Policarpa Salavarrieta de Bogotá, un niño se burla de otro porque usa gafas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unirte a las burlas para no ser el siguiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Unirse a las burlas es una forma de complicidad con el maltrato."
+        },
+        {
+          "letter": "B",
+          "text": "Ignorar la situación porque no es tu problema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos somos responsables de crear un buen ambiente escolar."
+        },
+        {
+          "letter": "C",
+          "text": "Defender a tu compañero, decirle al agresor que se detenga y reportar la situación a un profesor o al coordinador de convivencia.",
+          "is_correct": true,
+          "feedback": "Correcto. La solidaridad y el reporte a las autoridades escolares son acciones responsables para detener el acoso escolar."
+        },
+        {
+          "letter": "D",
+          "text": "Grabarlo con el celular y subirlo a redes sociales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Grabar y difundir la burla empeora la situación y viola la privacidad del compañero."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de aplicar valores frente al acoso escolar. La respuesta correcta promueve la defensa activa y el reporte. El error común es la indiferencia o la complicidad ante el maltrato.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-convivencia-familiar-escolar-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-convivencia-familiar-escolar-001-MASTERY-v6",
+      "statement": "En la familia, los niños tienen deberes. Un ejemplo de deber de un niño en su hogar es:",
+      "context": "En la clase de sociales de la I.E. León XIII de Tunja, los estudiantes analizan sus deberes en casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No ayudar en nada porque para eso están los padres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los miembros de la familia tienen responsabilidades."
+        },
+        {
+          "letter": "B",
+          "text": "Decidir solo qué se come y a qué hora se acuesta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas decisiones corresponden a los padres."
+        },
+        {
+          "letter": "C",
+          "text": "Recoger sus juguetes después de jugar, hacer sus tareas escolares y colaborar con tareas sencillas del hogar según su edad.",
+          "is_correct": true,
+          "feedback": "Correcto. Los niños tienen deberes apropiados a su edad, como ordenar sus cosas, hacer las tareas y colaborar en pequeñas labores domésticas."
+        },
+        {
+          "letter": "D",
+          "text": "Trabajar en una fábrica para aportar dinero en casa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los niños no deben trabajar; el trabajo infantil es ilegal en Colombia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la comprensión de los deberes de los niños en el hogar. La respuesta correcta describe responsabilidades apropiadas para su edad. El error común es pensar que los niños no tienen deberes o que deben tener responsabilidades de adultos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-convivencia-familiar-escolar-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-convivencia-familiar-escolar-001-MASTERY-v7",
+      "statement": "El gobierno escolar en un colegio colombiano está conformado por:",
+      "context": "En la clase de formación ciudadana de la I.E. San Fernando de Cartagena, el profesor propone elegir el gobierno escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo el rector o director del colegio, que toma todas las decisiones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gobierno escolar es más amplio que solo el rector."
+        },
+        {
+          "letter": "B",
+          "text": "Los profesores únicamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los estudiantes también participan."
+        },
+        {
+          "letter": "C",
+          "text": "El rector, el consejo directivo, el consejo académico, el personero estudiantil y el consejo estudiantil, que trabajan juntos por el bienestar de la comunidad educativa.",
+          "is_correct": true,
+          "feedback": "Correcto. El gobierno escolar incluye a todos los estamentos: directivos, docentes, estudiantes y padres de familia, con el personero estudiantil como representante de los estudiantes."
+        },
+        {
+          "letter": "D",
+          "text": "Solo los estudiantes de grado once.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los estudiantes participan, no solo los de grado once."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la aplicación del conocimiento sobre gobierno escolar. La respuesta correcta describe sus integrantes. El error común es pensar que solo los adultos participan en el gobierno escolar.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-convivencia-familiar-escolar-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-convivencia-familiar-escolar-001-MASTERY-v8",
+      "statement": "El acoso escolar (bullying) es un problema grave que afecta la convivencia. Una característica del acoso escolar es:",
+      "context": "En clase de ética de la I.E. Nuestra Señora del Rosario de Chiquinquirá, los estudiantes analizan un caso de acoso escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que ocurre una sola vez y se olvida fácilmente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acoso se caracteriza por ser repetitivo, no ocasional."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo ocurre entre niños de la misma edad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede ocurrir entre niños de diferentes edades y cursos."
+        },
+        {
+          "letter": "C",
+          "text": "Que es una conducta agresiva repetitiva (física, verbal o psicológica) contra una persona que tiene dificultad para defenderse.",
+          "is_correct": true,
+          "feedback": "Correcto. El acoso escolar se caracteriza por la repetición, la intención de hacer daño y el desequilibrio de poder entre el agresor y la víctima."
+        },
+        {
+          "letter": "D",
+          "text": "Que es una forma de hacer nuevos amigos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acoso no es una forma de socialización positiva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de analizar el fenómeno del acoso escolar. La respuesta correcta lo define con sus características. El error común es minimizar el acoso escolar o confundirlo con juegos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Interpretación y análisis de perspectivas]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-convivencia-familiar-escolar-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-convivencia-familiar-escolar-001-MASTERY-v9",
+      "statement": "La empatía es un valor clave para la buena convivencia. Significa:",
+      "context": "En la clase de formación ciudadana de la I.E. Normal de Ubaté, los estudiantes reflexionan sobre la empatía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tener siempre la razón en una discusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener la razón no tiene que ver con la empatía."
+        },
+        {
+          "letter": "B",
+          "text": "Sentir lástima por los demás sin hacer nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La empatía no es lástima pasiva."
+        },
+        {
+          "letter": "C",
+          "text": "Ponerse en el lugar del otro, entender sus sentimientos y reaccionar con comprensión y apoyo.",
+          "is_correct": true,
+          "feedback": "Correcto. La empatía es la capacidad de comprender lo que otra persona siente, lo que nos ayuda a relacionarnos mejor, evitar conflictos y construir relaciones más sólidas."
+        },
+        {
+          "letter": "D",
+          "text": "Ignorar los problemas de los demás para no preocuparse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignorar los problemas es lo opuesto a la empatía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de analizar el valor de la empatía. La respuesta correcta la define como ponerse en el lugar del otro. El error común es confundir la empatía con lástima o indiferencia.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-convivencia-familiar-escolar-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-convivencia-familiar-escolar-001-MASTERY-v10",
+      "statement": "Una sociedad que practica la convivencia pacífica se caracteriza por:",
+      "context": "En la clase de sociales de la I.E. La Presentación de Duitama, la profesora pregunta por qué es importante la convivencia pacífica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tener conflictos ni diferencias de opinión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conflictos son naturales, lo importante es cómo se resuelven."
+        },
+        {
+          "letter": "B",
+          "text": "Que las personas más fuertes imponen su voluntad sobre los demás.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La imposición no es convivencia pacífica."
+        },
+        {
+          "letter": "C",
+          "text": "Resolver las diferencias mediante el diálogo, respetar los derechos humanos, valorar la diversidad y trabajar juntos por el bien común.",
+          "is_correct": true,
+          "feedback": "Correcto. La convivencia pacífica no significa ausencia de conflictos, sino capacidad para resolverlos sin violencia, respetando los derechos de todos."
+        },
+        {
+          "letter": "D",
+          "text": "Que todas las personas piensan igual y no discuten nunca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diversidad de opiniones es saludable en una sociedad democrática."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de reflexionar sobre la convivencia pacífica como valor social. La respuesta correcta describe sus características fundamentales. El error común es pensar que la paz significa ausencia de conflictos.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-convivencia-familiar-escolar-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-v1",
+      "statement": "Durante la época de la Colonia, el territorio de la actual Colombia hacía parte de un gran virreinato español. ¿Cómo se llamaba?",
+      "context": "En clase de sociales en un colegio de Cartagena, los estudiantes visitan las murallas del Centro Histórico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Virreinato de México.",
+          "is_correct": false,
+          "feedback": "Incorrecto. México era el Virreinato de Nueva España, no incluía el territorio colombiano."
+        },
+        {
+          "letter": "B",
+          "text": "Virreinato del Río de la Plata.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese virreinato cubría Argentina, Uruguay y Paraguay, no Colombia."
+        },
+        {
+          "letter": "C",
+          "text": "Virreinato de la Nueva Granada.",
+          "is_correct": true,
+          "feedback": "Correcto. La Nueva Granada incluía los actuales Colombia, Ecuador, Panamá y Venezuela, con capital en Santafé (hoy Bogotá)."
+        },
+        {
+          "letter": "D",
+          "text": "Virreinato del Perú.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Virreinato del Perú tenía capital en Lima e incluía el sur del continente, no todo Colombia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa el conocimiento sobre la división política colonial. La respuesta correcta identifica el nombre del virreinato que gobernó Colombia. El error común es confundir los virreinatos americanos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-v2",
+      "statement": "La máxima autoridad del Virreinato de la Nueva Granada, que representaba al rey de España, se llamaba:",
+      "context": "En clase de sociales en Tunja, el profesor explica cómo se organizó el gobierno durante la Colonia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El presidente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cargo de presidente no existía en la Colonia; es propio de las repúblicas modernas."
+        },
+        {
+          "letter": "B",
+          "text": "El virrey.",
+          "is_correct": true,
+          "feedback": "Correcto. El virrey era el representante directo del rey de España en el territorio americano y gobernaba en su nombre."
+        },
+        {
+          "letter": "C",
+          "text": "El cacique.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cacique era una autoridad indígena, no una autoridad colonial española."
+        },
+        {
+          "letter": "D",
+          "text": "El alcalde mayor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque existían alcaldes, el virrey era la máxima autoridad del virreinato."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el conocimiento de las autoridades coloniales. La respuesta correcta identifica al virrey. Los errores comunes confunden las autoridades coloniales con cargos de la época republicana.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-v3",
+      "statement": "La sociedad durante la Colonia estaba dividida en grupos sociales muy marcados. ¿Qué grupo estaba en la cima de la pirámide social?",
+      "context": "En clase de sociales en Popayán, los estudiantes ven un documental sobre cómo vivían las personas durante la Colonia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los indígenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los indígenas estaban en la base de la sociedad colonial y debían tributar a los españoles."
+        },
+        {
+          "letter": "B",
+          "text": "Los esclavos africanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los esclavos africanos estaban en el nivel más bajo de la sociedad colonial."
+        },
+        {
+          "letter": "C",
+          "text": "Los españoles peninsulares (nacidos en España).",
+          "is_correct": true,
+          "feedback": "Correcto. Los españoles nacidos en España ocupaban los cargos más importantes del gobierno y la iglesia en la Colonia."
+        },
+        {
+          "letter": "D",
+          "text": "Los mestizos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mestizos (hijos de español e indígena) ocupaban un lugar intermedio en la sociedad colonial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la comprensión de la jerarquía social colonial. La respuesta correcta identifica a los peninsulares en la cima. El error común es no distinguir entre los diferentes grupos sociales que existían en la Colonia.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Interpretación y análisis de perspectivas]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-v4",
+      "statement": "La principal actividad económica durante la Colonia en la Nueva Granada era:",
+      "context": "Los estudiantes de la I.E. El Rosario de Pasto investigan sobre la economía de la Colonia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La industria textil en fábricas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la Colonia no existían fábricas industriales; la producción era artesanal."
+        },
+        {
+          "letter": "B",
+          "text": "La minería (extracción de oro y plata).",
+          "is_correct": true,
+          "feedback": "Correcto. La minería era la actividad más importante de la economía colonial en la Nueva Granada, especialmente la extracción de oro en Antioquia, Chocó y Cauca."
+        },
+        {
+          "letter": "C",
+          "text": "La exportación de petróleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El petróleo empezó a explotarse en Colombia hasta el siglo XX, mucho después de la Colonia."
+        },
+        {
+          "letter": "D",
+          "text": "La venta de computadores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las computadoras son una invención del siglo XX, no existían en la Colonia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el conocimiento de la economía colonial. La respuesta correcta identifica la minería como actividad principal. Los errores comunes son anacronismos (proyectar actividades económicas modernas al pasado).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-v5",
+      "statement": "Durante la Colonia, el comercio entre España y la Nueva Granada se realizaba a través de puertos autorizados. ¿Cuál era el principal puerto colonial en el Caribe colombiano?",
+      "context": "En la clase de sociales en Honda, Tolima, los estudiantes estudian el comercio colonial por el río Magdalena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buenaventura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Buenaventura es un puerto sobre el Pacífico que se desarrolló más en la época republicana."
+        },
+        {
+          "letter": "B",
+          "text": "Santa Marta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque Santa Marta fue la primera ciudad fundada, Cartagena era el principal puerto colonial."
+        },
+        {
+          "letter": "C",
+          "text": "Cartagena de Indias.",
+          "is_correct": true,
+          "feedback": "Correcto. Cartagena era el puerto más importante para el comercio con España y la entrada de mercancías y esclavos a la Nueva Granada."
+        },
+        {
+          "letter": "D",
+          "text": "Barranquilla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Barranquilla se desarrolló como puerto importante hasta el siglo XIX y XX."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa el conocimiento de la geografía económica colonial. La respuesta correcta identifica a Cartagena como puerto principal. Los errores surgen de confundir la importancia histórica de los puertos colombianos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-v6",
+      "statement": "La Iglesia Católica tuvo un papel muy importante durante la Colonia. ¿Cuál de estas funciones cumplía?",
+      "context": "En el Museo de la Inquisición de Cartagena, los estudiantes aprenden sobre la Iglesia Católica en la Colonia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elegir al presidente de la república.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existía presidente; el rey era la máxima autoridad."
+        },
+        {
+          "letter": "B",
+          "text": "Recaudar el IVA de los productos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El IVA es un impuesto moderno que no existía en la Colonia."
+        },
+        {
+          "letter": "C",
+          "text": "Educar a la población, registrar nacimientos y difundir la religión católica.",
+          "is_correct": true,
+          "feedback": "Correcto. La Iglesia se encargaba de la educación, llevaba los registros de bautizos y matrimonios, y evangelizaba a los indígenas."
+        },
+        {
+          "letter": "D",
+          "text": "Organizar elecciones democráticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No había elecciones democráticas en la Colonia; el poder se heredaba o se nombraba desde España."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa el conocimiento del papel de la Iglesia en la Colonia. La respuesta correcta describe sus funciones educativas y religiosas. El error común es atribuirle funciones de la democracia moderna.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-v7",
+      "statement": "Durante la Colonia, muchas personas se dedicaban a la artesanía. Un artesano colonial que trabajaba el cuero para hacer monturas, correas y zapatos se llamaba:",
+      "context": "En la clase de sociales en San Gil, Santander, los estudiantes juegan a representar los oficios coloniales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Herrero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El herrero trabajaba el hierro, no el cuero."
+        },
+        {
+          "letter": "B",
+          "text": "Zapatero o talabartero.",
+          "is_correct": true,
+          "feedback": "Correcto. Los talabarteros trabajaban el cuero para hacer monturas de caballo, y los zapateros hacían calzado, ambos oficios muy importantes en la Colonia."
+        },
+        {
+          "letter": "C",
+          "text": "Orfebre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orfebre trabajaba el oro y la plata, no el cuero."
+        },
+        {
+          "letter": "D",
+          "text": "Alfarero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alfarero trabajaba el barro y la cerámica, no el cuero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el conocimiento de los oficios coloniales. La respuesta correcta identifica al zapatero/talabartero. Los errores comunes confunden los diferentes oficios artesanales de la época.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-v8",
+      "statement": "El mestizaje en la Colonia fue el resultado de la mezcla entre:",
+      "context": "Los estudiantes de la I.E. Técnica de Guamal, Magdalena, discuten sobre el mestizaje en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Italianos y franceses.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los italianos y franceses no fueron los grupos principales del mestizaje colombiano."
+        },
+        {
+          "letter": "B",
+          "text": "Españoles, indígenas americanos y africanos traídos como esclavos.",
+          "is_correct": true,
+          "feedback": "Correcto. El mestizaje en Colombia es el producto del encuentro (muchas veces forzado) entre españoles, pueblos indígenas y africanos."
+        },
+        {
+          "letter": "C",
+          "text": "Ingleses y holandeses.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ingleses y holandeses no colonizaron el territorio colombiano."
+        },
+        {
+          "letter": "D",
+          "text": "Chinos y japoneses.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La migración asiática a Colombia fue muy posterior y no define el mestizaje colonial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa la comprensión del origen del mestizaje en Colombia. La respuesta correcta identifica los tres grupos étnicos fundacionales. El error común es ignorar el aporte africano al mestizaje colombiano.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Interpretación y análisis de perspectivas]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-v9",
+      "statement": "¿Cuál de los siguientes aspectos de la vida colombiana actuales un legado de la época colonial?",
+      "context": "En la clase de sociales de la I.E. Juan XXIII de Zipaquirá, el profesor pregunta por el legado de la Colonia en Colombia actual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso del internet en las escuelas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Internet es un invento del siglo XX, no un legado de la Colonia."
+        },
+        {
+          "letter": "B",
+          "text": "El idioma español, la religión católica y muchas tradiciones culturales como las fiestas patronales.",
+          "is_correct": true,
+          "feedback": "Correcto. El español, la religión católica, las corridas de toros, muchas comidas y las fiestas de los santos patronos son herencia directa de la Colonia."
+        },
+        {
+          "letter": "C",
+          "text": "Los teléfonos celulares y las redes sociales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tecnología digital no tiene origen en la Colonia."
+        },
+        {
+          "letter": "D",
+          "text": "La democracia participativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La democracia participativa es un desarrollo de la época republicana, no colonial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa la capacidad de identificar el legado cultural de la Colonia en la actualidad. La respuesta correcta reconoce los elementos culturales heredados. El error común es atribuir a la Colonia elementos tecnológicos modernos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-v10",
+      "statement": "Las ciudades coloniales colombianas tenían un patrón de construcción muy parecido. ¿Qué elementos eran comunes en su diseño urbano?",
+      "context": "En la clase de sociales de Mompox, Bolívar, los estudiantes visitan una iglesia colonial del siglo XVII.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rascacielos, autopistas y centros comerciales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los rascacielos y autopistas son construcciones modernas del siglo XX y XXI."
+        },
+        {
+          "letter": "B",
+          "text": "Calles angostas sin ninguna plaza central.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las calles podían ser angostas, pero siempre tenían una plaza principal."
+        },
+        {
+          "letter": "C",
+          "text": "Una plaza principal (Plaza Mayor), una iglesia y calles empedradas organizadas en cuadrícula.",
+          "is_correct": true,
+          "feedback": "Correcto. Las ciudades coloniales se organizaban alrededor de la Plaza Mayor, con la iglesia principal y el cabildo, y calles en forma de damero."
+        },
+        {
+          "letter": "D",
+          "text": "Aeropuertos, estaciones de bus y puentes colgantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existían aeropuertos ni terminales de bus en la Colonia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa el conocimiento del urbanismo colonial. La respuesta correcta describe el trazado típico de las ciudades coloniales. Los errores comunes son anacronismos y no conocer la planificación urbana de la época.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-epoca-colonial-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-v1",
+      "statement": "En la Colonia, las personas se clasificaban según su origen racial. A los hijos de español e indígena se les llamaba:",
+      "context": "En clase de sociales en Santa Fe de Antioquia, el profesor explica cómo se clasificaba a las personas en la Colonia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Criollos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los criollos eran hijos de españoles nacidos en América, no mezcla de español e indígena."
+        },
+        {
+          "letter": "B",
+          "text": "Mulatos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mulatos eran hijos de español y africana, no de español e indígena."
+        },
+        {
+          "letter": "C",
+          "text": "Mestizos.",
+          "is_correct": true,
+          "feedback": "Correcto. El mestizo era el hijo de padre español y madre indígena (o viceversa), que ocupaba un lugar intermedio en la sociedad colonial."
+        },
+        {
+          "letter": "D",
+          "text": "Zambos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los zambos eran hijos de indígena y africano."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa el conocimiento de la clasificación de castas en la Colonia. La respuesta correcta identifica al mestizo. Los errores comunes surgen de confundir las diferentes categorías del sistema de castas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-v2",
+      "statement": "El sistema por el cual los españoles obligaban a los indígenas a trabajar a cambio de enseñarles la religión católica se llamaba:",
+      "context": "En clase de sociales en Bogotá, la profesora habla de cómo los españoles organizaron el trabajo indígena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La esclavitud.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los indígenas no eran esclavos legalmente; el sistema con ellos era diferente."
+        },
+        {
+          "letter": "B",
+          "text": "La encomienda.",
+          "is_correct": true,
+          "feedback": "Correcto. La encomienda era una institución colonial que asignaba grupos de indígenas a un español (encomendero) para que trabajaran para él, a cambio de evangelizarlos."
+        },
+        {
+          "letter": "C",
+          "text": "El feudalismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El feudalismo fue un sistema europeo medieval, no una institución colonial americana."
+        },
+        {
+          "letter": "D",
+          "text": "El capitalismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El capitalismo es un sistema económico moderno, no existía en la Colonia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el conocimiento del sistema de trabajo colonial. La respuesta correcta identifica la encomienda. El error común es confundir la encomienda (con indígenas) con la esclavitud (con africanos).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-v3",
+      "statement": "Millones de personas africanas fueron traídas a la fuerza a América durante la Colonia para trabajar como esclavos. Eran traídos a Colombia principalmente por el puerto de:",
+      "context": "En el Museo Afrocolombiano de Cartagena, los estudiantes aprenden sobre la esclavitud en la Colonia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buenaventura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Buenaventura es un puerto del Pacífico; los esclavos llegaban principalmente por el Caribe."
+        },
+        {
+          "letter": "B",
+          "text": "Cartagena de Indias.",
+          "is_correct": true,
+          "feedback": "Correcto. Cartagena fue el principal puerto de entrada de esclavos africanos a la Nueva Granada durante toda la Colonia."
+        },
+        {
+          "letter": "C",
+          "text": "Leticia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Leticia está en la Amazonía y no fue un puerto importante en la Colonia."
+        },
+        {
+          "letter": "D",
+          "text": "Tumaco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tumaco es un puerto del Pacífico y no tuvo el volumen de comercio esclavista de Cartagena."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el conocimiento sobre la trata de esclavos en Colombia. La respuesta correcta identifica a Cartagena como puerto de entrada. El error común es no asociar la esclavitud con el Caribe colombiano.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Interpretación y análisis de perspectivas]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-v4",
+      "statement": "Una de las principales razones por las que la Colonia duró tantos años fue porque:",
+      "context": "En clase de sociales en Medellín, la profesora explica por qué la Colonia duró tanto tiempo (más de 300 años).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los colombianos estaban contentos con el gobierno español.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hubo muchas rebeliones y descontento, pero el poder militar español era muy superior."
+        },
+        {
+          "letter": "B",
+          "text": "España tenía un poderoso ejército y controlaba estrictamente el comercio, la política y la religión en sus colonias.",
+          "is_correct": true,
+          "feedback": "Correcto. España mantenía un control muy fuerte: no permitía el libre comercio, controlaba la educación a través de la Iglesia y castigaba duramente las rebeliones."
+        },
+        {
+          "letter": "C",
+          "text": "No existían otros países para pedir ayuda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existían otros imperios, pero España mantenía su poderío militar en la región."
+        },
+        {
+          "letter": "D",
+          "text": "Los indígenas no querían independizarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hubo muchas rebeliones indígenas durante la Colonia, como la de los Comuneros."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa la comprensión de las razones de la permanencia del dominio colonial. La respuesta correcta destaca el control español. El error común es minimizar la capacidad de control del imperio español.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-v5",
+      "statement": "En la plaza principal de una ciudad colonial, ¿qué edificios NO podían faltar?",
+      "context": "En la clase de sociales en Pamplona, los estudiantes representan la vida cotidiana en una plaza colonial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un centro comercial y un cine.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existían centros comerciales ni cines en la Colonia."
+        },
+        {
+          "letter": "B",
+          "text": "La Iglesia principal, el Cabildo (ayuntamiento) y la cárcel.",
+          "is_correct": true,
+          "feedback": "Correcto. La plaza Mayor siempre tenía la iglesia, el cabildo (donde se reunía el concejo municipal) y la cárcel."
+        },
+        {
+          "letter": "C",
+          "text": "Una estación de policía y un hospital moderno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existían estaciones de policía ni hospitales modernos como los conocemos hoy."
+        },
+        {
+          "letter": "D",
+          "text": "Un banco y una biblioteca pública.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque podía haber bibliotecas en conventos, no formaban parte del diseño obligatorio de la plaza."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa la capacidad de reconstruir el paisaje urbano colonial. La respuesta correcta describe los edificios institucionales de la plaza. Los errores comunes son proyectar elementos urbanos modernos al pasado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-v6",
+      "statement": "Los criollos eran hijos de españoles nacidos en América. Aunque eran ricos y educados, no podían ocupar los cargos más importantes del gobierno colonial. Esto los hizo sentirse:",
+      "context": "En la clase de sociales de la I.E. La Merced de Ibagué, el profesor habla de los criollos en la Colonia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Satisfechos y felices con el sistema colonial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Precisamente por estar excluidos de los altos cargos, los criollos estaban descontentos."
+        },
+        {
+          "letter": "B",
+          "text": "Inconformes y con deseos de tener más participación en el gobierno.",
+          "is_correct": true,
+          "feedback": "Correcto. A pesar de su riqueza y educación, los criollos no podían ser virreyes o altos funcionarios, lo que generó un gran descontento que luego llevaría a la independencia."
+        },
+        {
+          "letter": "C",
+          "text": "Indiferentes a la política.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los criollos estaban muy interesados en la política, pero eran excluidos del poder."
+        },
+        {
+          "letter": "D",
+          "text": "Contents porque no querían gobernar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchos criollos sí querían gobernar y lideraron los movimientos de independencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa la comprensión de las tensiones sociales que llevaron a la independencia. La respuesta correcta identifica el descontento criollo. El error común es no entender que los criollos estaban en una posición contradictoria.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-v7",
+      "statement": "En la Colonia, si eras hijo de españoles pero nacido en Santafé de Bogotá, ¿cómo te clasificaban?",
+      "context": "En un juego de roles en el colegio San José de Cúcuta, los estudiantes simulan la sociedad colonial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mestizo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mestizo es hijo de español e indígena, no de dos españoles."
+        },
+        {
+          "letter": "B",
+          "text": "Indígena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si eres hijo de españoles, no eres indígena independientemente del lugar de nacimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Criollo.",
+          "is_correct": true,
+          "feedback": "Correcto. Los criollos eran hijos de españoles peninsulares pero nacidos en América, y aunque tenían privilegios, no accedían a los altos cargos del gobierno."
+        },
+        {
+          "letter": "D",
+          "text": "Peninsular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Peninsular era quien había nacido en España, no en América."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de aplicar la clasificación social colonial. La respuesta correcta identifica al criollo. El error común es confundir el lugar de nacimiento de los padres con el lugar de nacimiento propio.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "[Interpretación y análisis de perspectivas]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-v8",
+      "statement": "A pesar de la esclavitud, los africanos y sus descendientes dejaron un gran legado en Colombia. ¿Cuál de los siguientes es un ejemplo de ese legado?",
+      "context": "En la clase de sociales del colegio Alfonso López Pumarejo de Valledupar, discuten sobre la herencia africana en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El idioma inglés.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El inglés es una lengua germánica, no un legado africano en Colombia."
+        },
+        {
+          "letter": "B",
+          "text": "La marimba de chonta, los currulaos, el mapalé y comidas como el sancocho.",
+          "is_correct": true,
+          "feedback": "Correcto. Los ritmos de la costa Pacífica como el currulao y el mapalé, la marimba y platos como el sancocho son herencia directa de las culturas africanas traídas a Colombia."
+        },
+        {
+          "letter": "C",
+          "text": "La arquitectura de los rascacielos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La arquitectura de rascacielos no tiene origen africano en Colombia."
+        },
+        {
+          "letter": "D",
+          "text": "El uso del tinto o café en las mañanas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El café llegó a Colombia después de la Colonia y no es de origen africano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa la capacidad de identificar el legado cultural africano en Colombia. La respuesta correcta reconoce las expresiones musicales y culinarias de origen africano. El error común es no reconocer la influencia africana en la cultura colombiana.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Pensamiento reflexivo y sistémico]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-v9",
+      "statement": "Durante la Colonia, la minería de oro se concentró en regiones como Antioquia, el Chocó y el Cauca. ¿Qué tenían en común estas regiones?",
+      "context": "En clase de sociales en Cali, el profesor pregunta por qué la minería se concentró en ciertas regiones de Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eran las únicas regiones donde se hablaba español.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El español se hablaba en todo el virreinato."
+        },
+        {
+          "letter": "B",
+          "text": "Tenían abundante mano de obra indígena voluntaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los indígenas no trabajaban voluntariamente en las minas; eran obligados mediante la mita."
+        },
+        {
+          "letter": "C",
+          "text": "En esos territorios había yacimientos de oro explotables y se utilizó principalmente mano de obra esclava africana.",
+          "is_correct": true,
+          "feedback": "Correcto. Antioquia, Chocó y Cauca tenían ricos yacimientos auríferos, y la dureza del trabajo en las minas era realizada principalmente por esclavos africanos."
+        },
+        {
+          "letter": "D",
+          "text": "En esas regiones no llovía, lo que facilitaba la extracción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el Chocó llueve mucho; la minería se hacía en ríos y lavaderos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de relacionar la geografía con la economía colonial. La respuesta correcta asocia la minería con la disponibilidad de oro y mano de obra esclava. El error común es ignorar el papel del trabajo esclavo en las minas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Uso comprensivo del conocimiento social]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-v10",
+      "statement": "Un estudiante dijo: \"Durante la Colonia, todos vivían en paz y armonía\". ¿Qué opinas de esta afirmación?",
+      "context": "En una exposición escolar sobre la Colonia en Bucaramanga, un estudiante afirma: \"La Colonia fue una época de paz total\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es totalmente correcta, todos eran felices.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Había mucha desigualdad, explotación y rebeliones constantes."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta porque no hubo guerras mundiales en esa época.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ausencia de guerras mundiales no significa que no hubiera conflictos; la Colonia tuvo muchas rebeliones."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta, porque hubo muchas injusticias, explotación de indígenas y africanos, y rebeliones como la de los Comuneros en 1781.",
+          "is_correct": true,
+          "feedback": "Correcto. La Colonia estuvo marcada por la desigualdad, el trabajo forzado, las sublevaciones indígenas y el descontento criollo que llevó a rebeliones importantes."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta porque no existían los celulares que causan peleas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La violencia y la explotación existían mucho antes de la tecnología moderna."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de analizar críticamente el período colonial. La respuesta correcta reconoce que la Colonia fue un período de profundas injusticias. El error común es idealizar el pasado colonial o minimizar la violencia estructural de la época.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "[Interpretación y análisis de perspectivas]",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-4-2026-P2-organizacion-colonial-social-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

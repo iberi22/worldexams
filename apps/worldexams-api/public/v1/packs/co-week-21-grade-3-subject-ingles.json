@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-21-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.659Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-v1",
+      "statement": "What is **\"Agua\"** in English?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Juice",
+          "is_correct": false,
+          "feedback": "Incorrect. Juice is jugo."
+        },
+        {
+          "letter": "B",
+          "text": "Water",
+          "is_correct": true,
+          "feedback": "Correct! Water is agua."
+        },
+        {
+          "letter": "C",
+          "text": "Milk",
+          "is_correct": false,
+          "feedback": "Incorrect. Milk is leche."
+        },
+        {
+          "letter": "D",
+          "text": "Soda",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El agua, esencial para la vida, se dice \"water\" en inglés.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.95,
+      "bundle_id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-v2",
+      "statement": "What is **\"Leche\"** in English?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Milk",
+          "is_correct": true,
+          "feedback": "Correct! Milk is leche."
+        },
+        {
+          "letter": "B",
+          "text": "Water",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Tea",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Coffee",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La leche se dice \"milk\". Es blanca y viene de la vaca (cow).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-v3",
+      "statement": "What is **\"Pan\"** in English?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rice",
+          "is_correct": false,
+          "feedback": "Incorrect. Rice is arroz."
+        },
+        {
+          "letter": "B",
+          "text": "Bread",
+          "is_correct": true,
+          "feedback": "Correct! Bread is pan."
+        },
+        {
+          "letter": "C",
+          "text": "Cake",
+          "is_correct": false,
+          "feedback": "Incorrect. Cake is pastel."
+        },
+        {
+          "letter": "D",
+          "text": "Egg",
+          "is_correct": false,
+          "feedback": "Incorrect. Egg is huevo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El pan se dice \"bread\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-v4",
+      "statement": "What is **\"Arroz\"** in English?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pasta",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Bread",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Rice",
+          "is_correct": true,
+          "feedback": "Correct! Rice is arroz."
+        },
+        {
+          "letter": "D",
+          "text": "Beans",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El arroz, alimento muy común en Colombia, se dice \"rice\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-v5",
+      "statement": "What is **\"Jugo\"** in English?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Water",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Juice",
+          "is_correct": true,
+          "feedback": "Correct! Juice is jugo."
+        },
+        {
+          "letter": "C",
+          "text": "Milk",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Soda",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El jugo de frutas se dice \"juice\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-v6",
+      "statement": "What is **\"Huevo\"** in English?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Egg",
+          "is_correct": true,
+          "feedback": "Correct! Egg is huevo."
+        },
+        {
+          "letter": "B",
+          "text": "Chicken",
+          "is_correct": false,
+          "feedback": "Incorrect. Chicken is pollo."
+        },
+        {
+          "letter": "C",
+          "text": "Meat",
+          "is_correct": false,
+          "feedback": "Incorrect. Meat is carne."
+        },
+        {
+          "letter": "D",
+          "text": "Fish",
+          "is_correct": false,
+          "feedback": "Incorrect. Fish is pescado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El huevo se dice \"egg\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-v7",
+      "statement": "What is **\"Pollo\"** in English?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fish",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Chicken",
+          "is_correct": true,
+          "feedback": "Correct! Chicken is pollo."
+        },
+        {
+          "letter": "C",
+          "text": "Beef",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Cheese",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El pollo como alimento se dice \"chicken\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-v8",
+      "statement": "What is **\"Queso\"** in English?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Butter",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Cheese",
+          "is_correct": true,
+          "feedback": "Correct! Cheese is queso."
+        },
+        {
+          "letter": "C",
+          "text": "Yogurt",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Milk",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El queso se dice \"cheese\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-v9",
+      "statement": "Which one is a **drink** (bebida)?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bread",
+          "is_correct": false,
+          "feedback": "Incorrect. That is food."
+        },
+        {
+          "letter": "B",
+          "text": "Rice",
+          "is_correct": false,
+          "feedback": "Incorrect. That is food."
+        },
+        {
+          "letter": "C",
+          "text": "Juice",
+          "is_correct": true,
+          "feedback": "Correct! Juice is something you drink."
+        },
+        {
+          "letter": "D",
+          "text": "Chicken",
+          "is_correct": false,
+          "feedback": "Incorrect. That is food."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Juice\" (jugo) es una bebida (drink), mientras que las otras opciones son alimentos sólidos (food).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-v10",
+      "statement": "What do you eat for **breakfast**? (En Colombia es común).",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eggs and bread",
+          "is_correct": true,
+          "feedback": "Correct! Common breakfast items."
+        },
+        {
+          "letter": "B",
+          "text": "Pizza and soda",
+          "is_correct": false,
+          "feedback": "Incorrect. Usually for dinner."
+        },
+        {
+          "letter": "C",
+          "text": "Ice cream",
+          "is_correct": false,
+          "feedback": "Incorrect. That's a dessert."
+        },
+        {
+          "letter": "D",
+          "text": "Fish and chips",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Es común desayunar huevos (eggs) y pan (bread).\n\n\n[//]: # (QUALITY_REVIEW)\n[//]: # (STATUS: LEGACY - FREE USE)\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    }
+  ]
+}

@@ -8,520 +8,556 @@
   },
   "questions": [
     {
-      "id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-v1",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-v1",
+      "statement": "He has three Ferraris and a huge mansion. He ________ be very rich.",
+      "context": "Expressing certainty (positive).",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "can't",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Can't\" is for when we are sure something is impossible."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Correct! We use \"must\" when we are almost certain something is true."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "might",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. \"Might\" is for low probability, but here the evidence is strong."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "shouldn't",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "1",
+      "correct_answer": "B",
+      "explanation": "Usamos \"must\" para hacer deducciones cuando estamos casi seguros de que algo es cierto basándonos en la evidencia disponible.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-v2",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-v2",
+      "statement": "She just finished a big lunch. She ________ be hungry already!",
+      "context": "Expressing impossibility.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "can't",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct! \"Can't\" is used when we are sure something is impossible."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
+          "text": "mustn't",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. \"Mustn't\" is for prohibition, not deduction."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "might",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "couldn't",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. \"Couldn't\" is usually for past impossibility."
         }
       ],
       "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "Para expresar que estamos seguros de que algo es **imposible** en el presente, utilizamos el modal \"can't\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-v3",
+      "statement": "\"Where is my phone?\" - \"I'm not sure. It ________ be in your backpack.\"",
+      "context": "Expressing possibility.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrect. The speaker is \"not sure\"."
+        },
+        {
+          "letter": "B",
+          "text": "might",
+          "is_correct": true,
+          "feedback": "Correct! \"Might\" (or \"could\") is used for possibilities when we aren't certain."
+        },
+        {
+          "letter": "C",
+          "text": "can't",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos \"might\", \"may\" o \"could\" cuando algo es posible pero no estamos seguros de ello.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-v3",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-v4",
+      "statement": "Don't eat those mushrooms! They ________ be poisonous.",
+      "context": "Using \"could\" for possibility.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrect. We don't know for sure they are poisonous."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "could",
+          "is_correct": true,
+          "feedback": "Correct! \"Could\" expresses a possibility or risk."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "can't",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "shouldn't",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Could\" funciona de manera muy similar a \"might\" en las deducciones presentes, indicando una posibilidad teórica o real de que algo ocurra.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-v5",
+      "statement": "The lights are off and there is no car in the driveway. They ________ be at home.",
+      "context": "Deducing from a situation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrect. The evidence suggests they are out."
+        },
+        {
+          "letter": "B",
+          "text": "can't",
+          "is_correct": true,
+          "feedback": "Correct! The evidence makes it very unlikely they are there."
+        },
+        {
+          "letter": "C",
+          "text": "might",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "shouldn't",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Nuevamente, cuando la evidencia apunta fuertemente a que algo es falso o imposible, el modal correcto es \"can't\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-v6",
+      "statement": "He speaks with a very strong paisa accent. He ________ be from Antioquia.",
+      "context": "Deducing about a person's nationality.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Correct! The accent is strong evidence of his origin."
+        },
+        {
+          "letter": "B",
+          "text": "can't",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "might",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "has to",
+          "is_correct": false,
+          "feedback": "Incorrect. While similar, \"must\" is better for logical deduction."
         }
       ],
       "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "La deducción lógica basada en señales culturales (como un acento específico) se expresa con \"must\" si la probabilidad es muy alta.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-v4",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-v7",
+      "statement": "Which sentence expresses a **logical deduction** of impossibility?",
+      "context": "Distinguishing \"mustn't\" from \"can't\".",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "You mustn't enter this room.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a prohibition (rule)."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "That can't be Carlos; he is in London right now.",
+          "is_correct": true,
+          "feedback": "Correct! This is a logical conclusion based on a fact."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "You shouldn't eat that.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. This is advice."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "I can't swim very well.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. This is lack of ability."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "Es vital para un estudiante B1 distinguir entre los diferentes usos de los modales. \"Mustn't\" nunca se usa para deducciones, solo para reglas o prohibiciones.\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-v5",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-v8",
+      "statement": "**Speaker 1:** \"It might rain.\"\r\n**Speaker 2:** \"It must be raining.\"\r\n\r\nWhat is the difference?",
+      "context": "Analyzing degrees of certainty.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "Speaker 1 is more certain.",
+          "is_correct": false,
+          "feedback": "Incorrect."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "Speaker 2 is more certain.",
+          "is_correct": true,
+          "feedback": "Correct! \"Must\" shows high certainty; \"might\" shows low certainty."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "They both mean the same thing.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "Speaker 1 is talking about the past.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los modales de deducción forman una escala de certeza: Must (95-100%) > Might/Could/May (30-50%) > Can't (0-5%).\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-v9",
+      "statement": "Listen! Someone is playing the guitar. It ________ be our neighbor; he practices every day at this hour.",
+      "context": "Continuous forms of modals.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Correct! High probability deduction."
+        },
+        {
+          "letter": "B",
+          "text": "can't",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "may",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Must\" is stronger here."
+        },
+        {
+          "letter": "D",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. We need a modal to show deduction."
         }
       ],
       "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "4",
+      "explanation": "Podemos usar modales seguidos de \"be + -ing\" (aunque aquí sea simple) para deducir acciones que están ocurriendo en el momento.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-v10",
+      "statement": "\"You have been working for 12 hours without a break. You ________ be exhausted!\"",
+      "context": "Identifying the most logical modal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Correct! This is the most logical conclusion."
+        },
+        {
+          "letter": "B",
+          "text": "can't",
+          "is_correct": false,
+          "feedback": "Incorrect. Illogical after 12 hours of work."
+        },
+        {
+          "letter": "C",
+          "text": "might",
+          "is_correct": false,
+          "feedback": "Incorrect. It's more than just a possibility."
+        },
+        {
+          "letter": "D",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be a recommendation (\"Deberías estar cansado\"), which sounds strange."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el nivel B1, el estudiante debe evaluar el contexto para elegir el grado de certeza correcto. Después de un esfuerzo largo, el cansancio es una conclusión casi segura.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-v6",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-v11",
+      "statement": "There are wet footprints on the floor, but it's not raining outside. Which deduction is the most logical?",
+      "context": "Evaluating a guess in a mystery scenario.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "It must be raining.",
+          "is_correct": false,
+          "feedback": "Incorrect. The context says it's not."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "Someone might have just stepped out of the shower.",
+          "is_correct": true,
+          "feedback": "Correct! Logical alternative possibility."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "The floor must be dry.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Contradicts the footprints."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "You can't see the floor.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Resolver \"misterios\" cotidianos requiere evaluar múltiples posibilidades y descartar las que contradicen los hechos conocidos.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-v7",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-v12",
+      "statement": "\"A new student arrived today. He has a very large camera and is taking photos of everything in the school. He doesn't speak much Spanish yet.\"\r\nWhat can we deduce?",
+      "context": "Selecting the best conclusion.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "He might be a foreign exchange student interested in photography.",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct! Combines all the evidence into a logical possibility."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
+          "text": "He must be the school principal.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Principals usually speak Spanish and don't take photos of everything."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "He can't like photography.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. He has a large camera."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "He will be a famous actor in the future.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Too speculative."
         }
       ],
       "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "5",
+      "explanation": "Sintetizar información para llegar a una conclusión razonable es una habilidad clave evaluada mediante el uso de modales de deducción en el nivel B1.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W16-modals-deduction-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-v8",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-v9",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-v10",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-v11",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-v12",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-8-2026-W16-passive-exercises-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     }
   ]
 }

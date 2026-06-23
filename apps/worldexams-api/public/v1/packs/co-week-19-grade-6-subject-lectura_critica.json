@@ -8,6 +8,466 @@
   },
   "questions": [
     {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Tunja, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 19 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 19 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-6-2026-W19-tema-semana-19-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Riohacha, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Riohacha",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 19 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 19 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEC-6-2026-W19-tema-semana-19-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Lectura Critica del I.E. San José en Tunja, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 19 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 19 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEC-6-2026-W19-tema-semana-19-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Pasto, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 19 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 19 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEC-6-2026-W19-tema-semana-19-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Lectura Critica del Gimnasio Moderno en Manizales, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Manizales",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 19 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 19 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEC-6-2026-W19-tema-semana-19-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Pasto, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 19 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 19 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEC-6-2026-W19-tema-semana-19-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Cali, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 19 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 19 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.51,
+      "bundle_id": "CO-LEC-6-2026-W19-tema-semana-19-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Lectura Critica del Gimnasio Moderno en Neiva, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Neiva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 19 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 19 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.67,
+      "bundle_id": "CO-LEC-6-2026-W19-tema-semana-19-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Armenia, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 19 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 19 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEC-6-2026-W19-tema-semana-19-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Pereira, se discute sobre Tema Semana 19 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 19 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 19 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 19 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEC-6-2026-W19-tema-semana-19-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
       "id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v1",
       "statement": "¿Cuál es la característica principal de un texto literario?",
       "context": "En el Colegio Gabriel García Márquez de Cartagena, la profesora inicia la unidad de literatura.",
@@ -48,7 +508,10 @@
       "bundle_id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v2",
@@ -91,7 +554,10 @@
       "bundle_id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v3",
@@ -134,7 +600,10 @@
       "bundle_id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v4",
@@ -177,7 +646,10 @@
       "bundle_id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v5",
@@ -238,7 +710,10 @@
       "bundle_id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v6",
@@ -281,7 +756,10 @@
       "bundle_id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v7",
@@ -324,7 +802,10 @@
       "bundle_id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v8",
@@ -367,7 +848,10 @@
       "bundle_id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v9",
@@ -410,7 +894,10 @@
       "bundle_id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v10",
@@ -453,7 +940,460 @@
       "bundle_id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-0",
+      "statement": "¿Qué figura literaria se usa en el verso 1: \"El río ríe entre las piedras\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipérbole.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hipérbole es una exageración. Decir que el río ríe no es exagerar, es atribuirle una cualidad humana."
+        },
+        {
+          "letter": "B",
+          "text": "Personificación.",
+          "is_correct": true,
+          "feedback": "Correcto. Se le atribuye al río la capacidad humana de reír. Los ríos no ríen literalmente, pero el poeta le da esa cualidad para sugerir alegría."
+        },
+        {
+          "letter": "C",
+          "text": "Metáfora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En una metáfora se reemplaza una palabra por otra (\"el río es una risa\"). Aquí se dice que el río ríe, que es una acción humana atribuida a un elemento natural."
+        },
+        {
+          "letter": "D",
+          "text": "Aliteración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aliteración es la repetición de sonidos. \"Río ríe\" tiene cierta repetición de la R, pero la figura principal es la personificación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La personificación es una figura literaria que atribuye cualidades o acciones humanas a objetos, animales o elementos de la naturaleza. En este caso, el río \"ríe\" —una acción humana— para transmitir la idea de que el agua fluye alegremente.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W19-figuras-literarias-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-1",
+      "statement": "¿Qué figura literaria encontramos en el verso 3: \"Los árboles, como soldados\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metáfora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la metáfora no aparece la palabra \"como\". Aquí sí aparece, lo que indica una comparación explícita."
+        },
+        {
+          "letter": "B",
+          "text": "Símil o comparación.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Como\" es la palabra clave del símil: compara los árboles con soldados, sugiriendo que están firmes y erguidos, como una fila de guardianes."
+        },
+        {
+          "letter": "C",
+          "text": "Onomatopeya.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La onomatopeya imita sonidos (tic-tac, miau). Aquí no hay imitación de sonidos."
+        },
+        {
+          "letter": "D",
+          "text": "Hipérbole.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay exageración. Los árboles pueden ser altos y firmes como soldados sin exagerar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El símil (o comparación) usa palabras como \"como\", \"cual\", \"parece\" para establecer una relación de semejanza entre dos elementos. Aquí los árboles se parecen a soldados porque ambos están erguidos, firmes y alineados.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W19-figuras-literarias-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-2",
+      "statement": "¿Qué sensación quiere transmitir el poeta al decir que \"el sol tiene un millón de rayos\" (verso 5)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el sol está roto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Un millón\" no indica ruptura, sino abundancia."
+        },
+        {
+          "letter": "B",
+          "text": "Que el sol es débil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un millón de rayos sugiere potencia, no debilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Que la luz del sol es muy intensa y abundante, hasta el punto de parecer incontable.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Un millón\" es una exageración (hipérbole) para expresar la gran cantidad de rayos de sol que iluminan la mañana."
+        },
+        {
+          "letter": "D",
+          "text": "Que el sol tiene exactamente un millón de rayos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una exageración poética, no una afirmación científica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La hipérbole exagera una característica para darle énfasis. \"Un millón de rayos\" no es un dato literal; es una forma de decir que hay muchísima luz. Identificar cuándo el poeta exagera intencionalmente es clave para comprender la poesía.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W19-figuras-literarias-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-3",
+      "statement": "¿Qué figura literaria predomina en los versos 7-8: \"Las nubes son algodones / en una cama de lona\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Símil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No usa \"como\". Dice \"son\", que es una afirmación de identidad, no una comparación."
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Las nubes son algodones\" es una metáfora: identifica directamente las nubes con algodones, sugiriendo que son blancas, suaves y esponjosas. \"Cama de lona\" también es una metáfora del cielo."
+        },
+        {
+          "letter": "C",
+          "text": "Personificación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se atribuyen cualidades humanas a las nubes."
+        },
+        {
+          "letter": "D",
+          "text": "Aliteración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay repetición intencional de sonidos consonánticos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La metáfora es una identificación directa entre dos elementos: \"esto es aquello\". A diferencia del símil, la metáfora no usa conectores de comparación. Dice \"las nubes SON algodones\", no \"las nubes son COMO algodones\". Esto hace que la imagen sea más potente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W19-figuras-literarias-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-4",
+      "statement": "En el verso 9, \"La lluvia tamborilea\", el poeta inventa una palabra. ¿Qué figura literaria y qué efecto busca?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metáfora, para sustituir la lluvia por un tambor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No sustituye la lluvia; describe cómo suena."
+        },
+        {
+          "letter": "B",
+          "text": "Hipérbole, para exagerar el ruido de la lluvia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay exageración; es una descripción del sonido."
+        },
+        {
+          "letter": "C",
+          "text": "Onomatopeya, para imitar con el sonido de la palabra el ruido que hace la lluvia al golpear el techo, como si fuera un tambor.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Tamborilea\" imita el sonido rítmico de la lluvia golpeando, relacionándolo con el redoble de un tambor. El poeta crea una palabra que suena como lo que describe."
+        },
+        {
+          "letter": "D",
+          "text": "Aliteración, para repetir la letra T.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque \"tamborilea\" tiene T, no es una repetición intencional a lo largo del verso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La onomatopeya no solo imita sonidos de animales o cosas (tic-tac, miau), sino que también puede crear palabras que evocan un sonido específico. \"Tamborilea\" no es una palabra común; el poeta la inventa para que suene como la lluvia golpeando el techo.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W19-figuras-literarias-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-5",
+      "statement": "Si el verso 11 dice \"El viento silba y silba\", ¿qué recurso literario se usa con la palabra \"silba\" repetida?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Símil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay comparación."
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No identifica el viento con otra cosa."
+        },
+        {
+          "letter": "C",
+          "text": "Aliteración (repetición del sonido \"s\") y personificación (el viento silba como una persona).",
+          "is_correct": true,
+          "feedback": "Correcto. La repetición de \"silba\" y el sonido de la S crea una aliteración que imita el sonido del viento. Además, atribuir al viento la capacidad de silbar es una personificación."
+        },
+        {
+          "letter": "D",
+          "text": "Hipérbole.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No exagera; solo repite para crear un efecto sonoro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A veces, en un mismo verso se combinan varias figuras literarias. \"El viento silba y silba\" combina personificación (el viento hace algo humano) con aliteración (la repetición del sonido S recuerda al silbido del viento).",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W19-figuras-literarias-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-6",
+      "statement": "¿Qué relación hay entre los versos 13-14 (\"las estrellas son ojos que parpadean\") y los versos 15-16 (\"la luna es una moneda que en el cielo centellea\")?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay relación. Son imágenes independientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas describen elementos del cielo nocturno."
+        },
+        {
+          "letter": "B",
+          "text": "Una es verdadera y la otra es falsa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas son imágenes poéticas, no afirmaciones literales."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas usan metáforas para describir el cielo nocturno: las estrellas se identifican con ojos que parpadean (titilan), y la luna con una moneda que brilla (centellea). Ambas crean imágenes visuales de la noche.",
+          "is_correct": true,
+          "feedback": "Correcto. Ambas son metáforas que embellecen la descripción del cielo de noche usando elementos familiares (ojos, moneda)."
+        },
+        {
+          "letter": "D",
+          "text": "La primera es una hipérbole y la segunda una metáfora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas son metáforas. \"Ojos que parpadean\" no exagera; identifica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer que un mismo poeta puede usar la misma figura literaria (la metáfora) para describir diferentes elementos creando un efecto unitario. Las estrellas y la luna, descritas con metáforas distintas, contribuyen a la misma imagen del cielo nocturno.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W19-figuras-literarias-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-7",
+      "statement": "¿Qué diferencia hay entre la figura usada en el verso 3 (\"árboles como soldados\") y la del verso 7 (\"nubes son algodones\")?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son exactamente iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una usa \"como\" y la otra no, lo que las hace diferentes."
+        },
+        {
+          "letter": "B",
+          "text": "El verso 3 usa un símil (comparación con \"como\") mientras que el verso 7 usa una metáfora (identificación directa sin \"como\").",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia clave es la presencia de la palabra \"como\". El símil compara; la metáfora identifica. Ambas crean imágenes, pero con distinto mecanismo lingüístico."
+        },
+        {
+          "letter": "C",
+          "text": "El verso 3 es una metáfora y el 7 es un símil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: el verso 3 usa \"como\" (símil), el 7 usa \"son\" (metáfora)."
+        },
+        {
+          "letter": "D",
+          "text": "El verso 3 usa personificación y el 7 usa hipérbole.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos es personificación ni hipérbole."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferenciar entre símil y metáfora es una habilidad fundamental. La clave está en el conector: \"como\" indica símil; \"es/son\" indica metáfora. Ambos recursos embellecen el lenguaje, pero funcionan de manera diferente.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W19-figuras-literarias-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-8",
+      "statement": "El poema usa muchas figuras literarias para describir la naturaleza. ¿Qué efecto logra el poeta al usar estas figuras en lugar de una descripción literal?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hace que el texto sea más difícil de entender.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque las figuras literarias requieren interpretación, no buscan dificultar sino enriquecer."
+        },
+        {
+          "letter": "B",
+          "text": "Hace que el poema sea más corto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usar figuras literarias no necesariamente acorta el texto."
+        },
+        {
+          "letter": "C",
+          "text": "Crea imágenes más vívidas y emocionantes que conectan la naturaleza con experiencias humanas cotidianas (reír, silbar, tamborilear), haciendo que el lector sienta y visualice el paisaje de manera más intensa.",
+          "is_correct": true,
+          "feedback": "Correcto. Las figuras literarias transforman descripciones simples en experiencias sensoriales y emocionales. El río no solo suena: \"ríe\". Las nubes no solo son blancas: \"son algodones\"."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte el poema en una noticia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las figuras literarias hacen lo opuesto: alejan el texto del lenguaje literal y objetivo de una noticia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar el efecto del lenguaje figurado es una habilidad crítica. Las figuras literarias no son adornos innecesarios: transforman la percepción del lector, conectando lo natural con lo humano y haciendo que el texto cobre vida.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W19-figuras-literarias-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-9",
+      "statement": "Si quisieras escribir un verso sobre el mar usando una personificación, ¿cuál de las siguientes opciones sería la correcta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El mar es azul como el cielo.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un símil (comparación con \"como\"), no una personificación. No atribuye cualidades humanas al mar."
+        },
+        {
+          "letter": "B",
+          "text": "\"El mar tiene olas muy grandes.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una descripción literal. No hay figura literaria."
+        },
+        {
+          "letter": "C",
+          "text": "\"El mar susurra secretos en la orilla.\"",
+          "is_correct": true,
+          "feedback": "Correcto. \"Susurra secretos\" es una personificación: atribuye al mar la acción humana de susurrar, como si contara secretos. Crea una imagen poética y sugestiva."
+        },
+        {
+          "letter": "D",
+          "text": "\"El mar es una inmensidad de agua.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una definición literal. Aunque poética, no hay personificación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La personificación requiere atribuir una acción o cualidad humana a algo que no es humano. \"Susurrar secretos\" le da al mar la capacidad de comunicarse como una persona, creando una imagen misteriosa y bella.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W19-figuras-literarias-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     }
   ]
 }

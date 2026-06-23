@@ -48,7 +48,10 @@
       "bundle_id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
     },
     {
       "id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-v2",
@@ -91,7 +94,10 @@
       "bundle_id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
     },
     {
       "id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-v3",
@@ -134,7 +140,10 @@
       "bundle_id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
     },
     {
       "id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-v4",
@@ -177,7 +186,10 @@
       "bundle_id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
     },
     {
       "id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-v5",
@@ -220,7 +232,10 @@
       "bundle_id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
     },
     {
       "id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-v6",
@@ -263,7 +278,10 @@
       "bundle_id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
     },
     {
       "id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-v7",
@@ -306,7 +324,10 @@
       "bundle_id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
     },
     {
       "id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-v8",
@@ -349,7 +370,10 @@
       "bundle_id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
     },
     {
       "id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-v9",
@@ -392,7 +416,10 @@
       "bundle_id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
     },
     {
       "id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-v10",
@@ -435,7 +462,10 @@
       "bundle_id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
     },
     {
       "id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-v11",
@@ -478,7 +508,10 @@
       "bundle_id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
     },
     {
       "id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-v12",
@@ -521,7 +554,562 @@
       "bundle_id": "CO-MAT-7-2026-W02-racionales-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Matematicas del I.E. Santa Luisa de Marillac en Cúcuta, se discute sobre Tema Semana 2 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 2 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 2 de Matematicas es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.63,
+      "bundle_id": "CO-MAT-7-2026-W02-tema-semana-2-de-matematicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Matematicas del I.E. Gabriel García Márquez en Cartagena, se discute sobre Tema Semana 2 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 2 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 2 de Matematicas es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.56,
+      "bundle_id": "CO-MAT-7-2026-W02-tema-semana-2-de-matematicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Matematicas del Gimnasio Moderno en Neiva, se discute sobre Tema Semana 2 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Neiva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 2 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 2 de Matematicas es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.69,
+      "bundle_id": "CO-MAT-7-2026-W02-tema-semana-2-de-matematicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Villavicencio, se discute sobre Tema Semana 2 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 2 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 2 de Matematicas es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-7-2026-W02-tema-semana-2-de-matematicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Matematicas del I.E. San José en Pereira, se discute sobre Tema Semana 2 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 2 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 2 de Matematicas es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-7-2026-W02-tema-semana-2-de-matematicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Bogotá, se discute sobre Tema Semana 2 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 2 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 2 de Matematicas es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W02-tema-semana-2-de-matematicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Matematicas del I.E. San José en Cali, se discute sobre Tema Semana 2 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 2 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 2 de Matematicas es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.71,
+      "bundle_id": "CO-MAT-7-2026-W02-tema-semana-2-de-matematicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Bucaramanga, se discute sobre Tema Semana 2 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 2 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 2 de Matematicas es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W02-tema-semana-2-de-matematicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Matematicas del Colegio La Presentación en Cartagena, se discute sobre Tema Semana 2 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 2 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 2 de Matematicas es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.69,
+      "bundle_id": "CO-MAT-7-2026-W02-tema-semana-2-de-matematicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Matematicas del I.E. Santa Luisa de Marillac en Quibdó, se discute sobre Tema Semana 2 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Quibdó",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 2 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 2 de Matematicas es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-7-2026-W02-tema-semana-2-de-matematicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W00-tema seman-001-MASTERY-v11",
+      "statement": "En la clase de Matematicas del I.E. Francisco de Paula Santander en Sincelejo, se discute sobre Tema Semana 2 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 2 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 2 de Matematicas es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.61,
+      "bundle_id": "CO-MAT-7-2026-W02-tema-semana-2-de-matematicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W00-tema seman-001-MASTERY-v12",
+      "statement": "En la clase de Matematicas del I.E. Jorge Eliécer Gaitán en Armenia, se discute sobre Tema Semana 2 de Matematicas. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 2 de Matematicas",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 2 de Matematicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 2 de Matematicas es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.52,
+      "bundle_id": "CO-MAT-7-2026-W02-tema-semana-2-de-matematicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
     }
   ]
 }

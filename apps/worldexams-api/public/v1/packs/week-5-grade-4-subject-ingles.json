@@ -8,348 +8,372 @@
   },
   "questions": [
     {
-      "id": "CO-ING-4-2026-W05-repaso-p1-001-MASTERY-v1",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-4-2026-W05-review-p1-001-MASTERY-v1",
+      "statement": "How many fingers do you have on one hand?",
+      "context": "Learning about review period 1 in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
+          "text": "Five",
           "is_correct": true,
-          "feedback": "Obligation"
+          "feedback": "Correct!"
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "One",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "Ten",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "Zero",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-4-2026-W05-repaso-p1-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-4-2026-W05-repaso-p1-001-MASTERY-v2",
-      "statement": "'The woman ___ lives next door is a doctor'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "who",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "which",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "where",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "whose",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "who for people\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-4-2026-W05-repaso-p1-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-4-2026-W05-repaso-p1-001-MASTERY-v3",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
+      "explanation": "This question evaluates remember skills regarding review period 1 at the CEFR A1 level.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-4-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W05-review-p1-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     },
     {
-      "id": "CO-ING-4-2026-W05-repaso-p1-001-MASTERY-v4",
-      "statement": "Passive: 'The book ___ by García Márquez'",
-      "context": "",
+      "id": "CO-ING-4-2026-W05-review-p1-001-MASTERY-v2",
+      "statement": "Which color is the grass?",
+      "context": "Learning about review period 1 in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "was written",
-          "is_correct": true,
-          "feedback": ""
+          "text": "Orange",
+          "is_correct": false,
+          "feedback": "No."
         },
         {
           "letter": "B",
-          "text": "wrote",
-          "is_correct": false,
-          "feedback": ""
+          "text": "Green",
+          "is_correct": true,
+          "feedback": "Correct!"
         },
         {
           "letter": "C",
-          "text": "is writing",
+          "text": "Red",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "D",
-          "text": "has written",
+          "text": "Blue",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "be + past participle\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "This question evaluates understand skills regarding review period 1 at the CEFR A1 level.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-4-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W05-review-p1-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     },
     {
-      "id": "CO-ING-4-2026-W05-repaso-p1-001-MASTERY-v5",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-4-2026-W05-review-p1-001-MASTERY-v3",
+      "statement": "Where do you put your pencil?",
+      "context": "Learning about review period 1 in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "Under the bed",
+          "is_correct": false,
+          "feedback": "No."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
+          "text": "In the trash",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "In the pencil case",
+          "is_correct": true,
+          "feedback": "Correct!"
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "In the fridge",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "This question evaluates apply skills regarding review period 1 at the CEFR A1 level.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-4-2026-W05-repaso-p1-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-4-2026-W05-repaso-p1-001-MASTERY-v6",
-      "statement": "What does 'sustainable' mean?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Maintainable over time",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Fast",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Expensive",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Temporary",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Sustainable = long-term viability\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
       "expected_success": 0.8,
-      "bundle_id": "CO-ING-4-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-4-2026-W05-review-p1-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     },
     {
-      "id": "CO-ING-4-2026-W05-repaso-p1-001-MASTERY-v7",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-4-2026-W05-review-p1-001-MASTERY-v4",
+      "statement": "What is 'Goodbye' in Spanish?",
+      "context": "Learning about review period 1 in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "Hola",
+          "is_correct": false,
+          "feedback": "No."
         },
         {
           "letter": "B",
-          "text": "am",
+          "text": "Por favor",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "Gracias",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "Adiós",
+          "is_correct": true,
+          "feedback": "Correct!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates analyze skills regarding review period 1 at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-4-2026-W05-review-p1-001-MASTERY-v5",
+      "statement": "What number is between 14 and 16?",
+      "context": "Learning about review period 1 in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "10",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "No."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "4",
+      "explanation": "This question evaluates evaluate skills regarding review period 1 at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-4-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W05-review-p1-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     },
     {
-      "id": "CO-ING-4-2026-W05-repaso-p1-001-MASTERY-v8",
-      "statement": "Present continuous: 'They ___ playing soccer'",
-      "context": "",
+      "id": "CO-ING-4-2026-W05-review-p1-001-MASTERY-v6",
+      "statement": "A circle is ________.",
+      "context": "Learning about review period 1 in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "flat",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "round",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "square",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "pointed",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates apply skills regarding review period 1 at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-4-2026-W05-review-p1-001-MASTERY-v7",
+      "statement": "I ____ a student.",
+      "context": "Learning about review period 1 in English class.",
       "options": [
         {
           "letter": "A",
           "text": "are",
-          "is_correct": true,
-          "feedback": ""
+          "is_correct": false,
+          "feedback": "No."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "be",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "C",
           "text": "am",
-          "is_correct": false,
-          "feedback": ""
+          "is_correct": true,
+          "feedback": "Correct!"
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "is",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "are + verb-ing\r\n\r\n---",
-      "difficulty": "2",
+      "correct_answer": "C",
+      "explanation": "This question evaluates understand skills regarding review period 1 at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-4-2026-W05-repaso-p1-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W05-review-p1-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-4-2026-W05-review-p1-001-MASTERY-v8",
+      "statement": "The sun is ________.",
+      "context": "Learning about review period 1 in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "blue",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "green",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "pink",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "yellow",
+          "is_correct": true,
+          "feedback": "Correct!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates remember skills regarding review period 1 at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     }
   ]
 }

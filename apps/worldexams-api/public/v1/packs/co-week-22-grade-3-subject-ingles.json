@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-22-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.660Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v1",
+      "statement": "How do you say **\"Me gusta\"**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I like",
+          "is_correct": true,
+          "feedback": "Correct! I like is me gusta."
+        },
+        {
+          "letter": "B",
+          "text": "I don't like",
+          "is_correct": false,
+          "feedback": "Incorrect. This is no me gusta."
+        },
+        {
+          "letter": "C",
+          "text": "I am",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "I have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para expresar que algo nos gusta, usamos \"I like\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v2",
+      "statement": "How do you say **\"No me gusta\"**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I like",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "I don't like",
+          "is_correct": true,
+          "feedback": "Correct! I don't like is no me gusta."
+        },
+        {
+          "letter": "C",
+          "text": "I am not",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "I like not",
+          "is_correct": false,
+          "feedback": "Incorrect structure."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para expresar que algo no nos gusta, usamos \"I don't like\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v3",
+      "statement": "How do you ask someone: **\"¿Te gusta la pizza?\"**",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You like pizza?",
+          "is_correct": false,
+          "feedback": "Incorrect structure for a question."
+        },
+        {
+          "letter": "B",
+          "text": "Do you like pizza?",
+          "is_correct": true,
+          "feedback": "Correct! This is the standard question form."
+        },
+        {
+          "letter": "C",
+          "text": "Like you pizza?",
+          "is_correct": false,
+          "feedback": "Incorrect structure."
+        },
+        {
+          "letter": "D",
+          "text": "Are you like pizza?",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hacer preguntas sobre gustos, usamos \"Do you like...?\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v4",
+      "statement": "If you like apples, you say:",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I like apples",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "I like apple",
+          "is_correct": false,
+          "feedback": "Incorrect. We usually use plural for general likes."
+        },
+        {
+          "letter": "C",
+          "text": "I don't like apples",
+          "is_correct": false,
+          "feedback": "Incorrect. This says you don't like them."
+        },
+        {
+          "letter": "D",
+          "text": "I am apple",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"I like apples\" significa \"Me gustan las manzanas\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2022-W22-likes-dislikes-001-MASTERY-v5",
+      "statement": "Answer the question: **\"Do you like milk?\"** (Respuesta afirmativa).",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, I do",
+          "is_correct": true,
+          "feedback": "Correct! Standard short answer."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, I like",
+          "is_correct": false,
+          "feedback": "Incorrect. In short answers we use the auxiliary \"do\"."
+        },
+        {
+          "letter": "C",
+          "text": "No, I don't",
+          "is_correct": false,
+          "feedback": "Incorrect. This is negative."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, I am",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al responder una pregunta que empieza con \"Do\", usamos \"Yes, I do\" para sí, o \"No, I don't\" para no.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v6",
+      "statement": "Answer the question: **\"Do you like spiders?\"** 🕷️ (Respuesta negativa).",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, I do",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "No, I don't",
+          "is_correct": true,
+          "feedback": "Correct! Standard negative short answer."
+        },
+        {
+          "letter": "C",
+          "text": "No, I like not",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "I don't like",
+          "is_correct": false,
+          "feedback": "Incorrect as a short answer to a Do-question."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"No, I don't\" es la forma corta y correcta de decir que algo no te gusta ante una pregunta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v7",
+      "statement": "What does **\"I love chocolate\"** mean?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No me gusta el chocolate",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Me gusta el chocolate",
+          "is_correct": false,
+          "feedback": "Incorrect. Love is stronger than like."
+        },
+        {
+          "letter": "C",
+          "text": "Me encanta el chocolate",
+          "is_correct": true,
+          "feedback": "Correct! Love means encantar or amar."
+        },
+        {
+          "letter": "D",
+          "text": "No quiero chocolate",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"I love\" es una forma más fuerte de \"I like\", significa \"me encanta\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v8",
+      "statement": "Complete: **\"I _______ like onions. They are yucky!\"**",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "do",
+          "is_correct": false,
+          "feedback": "Incorrect. Yucky means it's bad."
+        },
+        {
+          "letter": "B",
+          "text": "don't",
+          "is_correct": true,
+          "feedback": "Correct! If it's yucky, you don't like it."
+        },
+        {
+          "letter": "C",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "not",
+          "is_correct": false,
+          "feedback": "Incorrect without \"do\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Yucky\" significa asqueroso o desagradable. Por eso usamos \"I don't like\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v9",
+      "statement": "Complete the dialogue:\n**Tom:** \"Do you like soccer?\"\n**Lila:** \"Yes, ______.\"",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I like",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "I do",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "I am",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "you do",
+          "is_correct": false,
+          "feedback": "Incorrect. Lila is talking about herself."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta corta correcta es \"Yes, I do\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v10",
+      "statement": "Which sentence is correct?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I like bananas",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "I like a bananas",
+          "is_correct": false,
+          "feedback": "Incorrect. No \"a\" before plural."
+        },
+        {
+          "letter": "C",
+          "text": "I don't likes bananas",
+          "is_correct": false,
+          "feedback": "Incorrect. No \"s\" in the verb with \"I\"."
+        },
+        {
+          "letter": "D",
+          "text": "I not like bananas",
+          "is_correct": false,
+          "feedback": "Incorrect structure."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"I like bananas\" es la estructura correcta. Con el sujeto \"I\", el verbo \"like\" no lleva \"s\".\n\n\n[//]: # (QUALITY_REVIEW)\n[//]: # (STATUS: LEGACY - FREE USE)\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    }
+  ]
+}

@@ -8,348 +8,372 @@
   },
   "questions": [
     {
-      "id": "CO-ING-4-2026-W32-daily-routines-g4-001-MASTERY-v1",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-4-2026-W32-weather-seasons-001-MASTERY-v1",
+      "statement": "It is ________ today. I need my umbrella.",
+      "context": "Learning about weather and seasons in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
+          "text": "rainy",
           "is_correct": true,
-          "feedback": "Obligation"
+          "feedback": "Correct!"
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "sunny",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "windy",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "dry",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-4-2026-W32-daily-routines-g4-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-4-2026-W32-daily-routines-g4-001-MASTERY-v2",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-4-2026-W32-daily-routines-g4-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-4-2026-W32-daily-routines-g4-001-MASTERY-v3",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
+      "explanation": "This question evaluates remember skills regarding weather and seasons at the CEFR A1 level.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-4-2026-W32-daily-routines-g4-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W32-weather-seasons-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     },
     {
-      "id": "CO-ING-4-2026-W32-daily-routines-g4-001-MASTERY-v4",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-4-2026-W32-weather-seasons-001-MASTERY-v2",
+      "statement": "The sun is out. It is ________.",
+      "context": "Learning about weather and seasons in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
+          "text": "foggy",
+          "is_correct": false,
+          "feedback": "No."
         },
         {
           "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
+          "text": "sunny",
+          "is_correct": true,
+          "feedback": "Correct!"
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "snowy",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "cloudy",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "This question evaluates understand skills regarding weather and seasons at the CEFR A1 level.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-4-2026-W32-daily-routines-g4-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W32-weather-seasons-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     },
     {
-      "id": "CO-ING-4-2026-W32-daily-routines-g4-001-MASTERY-v5",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-4-2026-W32-weather-seasons-001-MASTERY-v3",
+      "statement": "I wear a jacket because it is ________.",
+      "context": "Learning about weather and seasons in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
+          "text": "warm",
+          "is_correct": false,
+          "feedback": "No."
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "sunny",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
+          "text": "cold",
+          "is_correct": true,
+          "feedback": "Correct!"
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "hot",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "This question evaluates apply skills regarding weather and seasons at the CEFR A1 level.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-4-2026-W32-daily-routines-g4-001-MASTERY-bundle",
-      "periodo": 32,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-4-2026-W32-daily-routines-g4-001-MASTERY-v6",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
       "expected_success": 0.8,
-      "bundle_id": "CO-ING-4-2026-W32-daily-routines-g4-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-4-2026-W32-weather-seasons-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     },
     {
-      "id": "CO-ING-4-2026-W32-daily-routines-g4-001-MASTERY-v7",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-4-2026-W32-weather-seasons-001-MASTERY-v4",
+      "statement": "In ________, it is very hot and we go to the beach.",
+      "context": "Learning about weather and seasons in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
+          "text": "winter",
+          "is_correct": false,
+          "feedback": "No."
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "autumn",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "spring",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
+          "text": "summer",
+          "is_correct": true,
+          "feedback": "Correct!"
         }
       ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "This question evaluates analyze skills regarding weather and seasons at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-4-2026-W32-daily-routines-g4-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W32-weather-seasons-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     },
     {
-      "id": "CO-ING-4-2026-W32-daily-routines-g4-001-MASTERY-v8",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-4-2026-W32-weather-seasons-001-MASTERY-v5",
+      "statement": "In ________, it is cold and it snows in some places.",
+      "context": "Learning about weather and seasons in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
+          "text": "winter",
           "is_correct": true,
-          "feedback": "Obligation"
+          "feedback": "Correct!"
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "summer",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "spring",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "autumn",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "This question evaluates evaluate skills regarding weather and seasons at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W32-weather-seasons-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-4-2026-W32-weather-seasons-001-MASTERY-v6",
+      "statement": "The wind is blowing. It is ________.",
+      "context": "Learning about weather and seasons in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "clear",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "windy",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "calm",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "hot",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates apply skills regarding weather and seasons at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-4-2026-W32-daily-routines-g4-001-MASTERY-bundle",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W32-weather-seasons-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-4-2026-W32-weather-seasons-001-MASTERY-v7",
+      "statement": "We can't see the sun because it is ________.",
+      "context": "Learning about weather and seasons in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "bright",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "hot",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "cloudy",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "sunny",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates understand skills regarding weather and seasons at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W32-weather-seasons-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-4-2026-W32-weather-seasons-001-MASTERY-v8",
+      "statement": "I am wearing shorts because it is ________.",
+      "context": "Learning about weather and seasons in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cold",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "snowy",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "icy",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "hot",
+          "is_correct": true,
+          "feedback": "Correct!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates remember skills regarding weather and seasons at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W32-weather-seasons-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     }
   ]
 }

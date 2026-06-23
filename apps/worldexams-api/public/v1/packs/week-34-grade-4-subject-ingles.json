@@ -8,348 +8,372 @@
   },
   "questions": [
     {
-      "id": "CO-ING-4-2026-W34-hobbies-001-MASTERY-v1",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-4-2026-W34-hobbies-free-time-001-MASTERY-v1",
+      "statement": "I like to ________ books.",
+      "context": "Learning about hobbies and free time in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
+          "text": "read",
           "is_correct": true,
-          "feedback": "Obligation"
+          "feedback": "Correct!"
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "dance",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "swim",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "run",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-4-2026-W34-hobbies-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-4-2026-W34-hobbies-001-MASTERY-v2",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-4-2026-W34-hobbies-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-4-2026-W34-hobbies-001-MASTERY-v3",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
+      "explanation": "This question evaluates remember skills regarding hobbies and free time at the CEFR A1 level.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-4-2026-W34-hobbies-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W34-hobbies-free-time-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     },
     {
-      "id": "CO-ING-4-2026-W34-hobbies-001-MASTERY-v4",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-4-2026-W34-hobbies-free-time-001-MASTERY-v2",
+      "statement": "I like to ________ music.",
+      "context": "Learning about hobbies and free time in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "eat",
+          "is_correct": false,
+          "feedback": "No."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
+          "text": "listen to",
+          "is_correct": true,
+          "feedback": "Correct!"
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "watch",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "play",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "This question evaluates understand skills regarding hobbies and free time at the CEFR A1 level.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-4-2026-W34-hobbies-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W34-hobbies-free-time-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     },
     {
-      "id": "CO-ING-4-2026-W34-hobbies-001-MASTERY-v5",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-4-2026-W34-hobbies-free-time-001-MASTERY-v3",
+      "statement": "I like to ________ video games.",
+      "context": "Learning about hobbies and free time in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
+          "text": "sing",
+          "is_correct": false,
+          "feedback": "No."
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "cook",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
+          "text": "play",
+          "is_correct": true,
+          "feedback": "Correct!"
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "write",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "This question evaluates apply skills regarding hobbies and free time at the CEFR A1 level.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-4-2026-W34-hobbies-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-4-2026-W34-hobbies-001-MASTERY-v6",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
       "expected_success": 0.8,
-      "bundle_id": "CO-ING-4-2026-W34-hobbies-001-MASTERY-bundle",
+      "bundle_id": "CO-ING-4-2026-W34-hobbies-free-time-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     },
     {
-      "id": "CO-ING-4-2026-W34-hobbies-001-MASTERY-v7",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-4-2026-W34-hobbies-free-time-001-MASTERY-v4",
+      "statement": "I like to ________ pictures.",
+      "context": "Learning about hobbies and free time in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "listen",
+          "is_correct": false,
+          "feedback": "No."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
+          "text": "swim",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "sleep",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "draw",
+          "is_correct": true,
+          "feedback": "Correct!"
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "This question evaluates analyze skills regarding hobbies and free time at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-4-2026-W34-hobbies-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W34-hobbies-free-time-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     },
     {
-      "id": "CO-ING-4-2026-W34-hobbies-001-MASTERY-v8",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-4-2026-W34-hobbies-free-time-001-MASTERY-v5",
+      "statement": "I like to ________ in the pool.",
+      "context": "Learning about hobbies and free time in English class.",
       "options": [
         {
           "letter": "A",
-          "text": "were",
+          "text": "swim",
           "is_correct": true,
-          "feedback": "Past subjunctive"
+          "feedback": "Correct!"
         },
         {
           "letter": "B",
-          "text": "am",
+          "text": "jump",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "drive",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "climb",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "No."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "2",
+      "explanation": "This question evaluates evaluate skills regarding hobbies and free time at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W34-hobbies-free-time-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-4-2026-W34-hobbies-free-time-001-MASTERY-v6",
+      "statement": "I like to ________ songs.",
+      "context": "Learning about hobbies and free time in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "run",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "sing",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "draw",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "read",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates apply skills regarding hobbies and free time at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-4-2026-W34-hobbies-001-MASTERY-bundle",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W34-hobbies-free-time-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-4-2026-W34-hobbies-free-time-001-MASTERY-v7",
+      "statement": "I like to ________ in the kitchen with my mom.",
+      "context": "Learning about hobbies and free time in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "study",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "sing",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "cook",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "sleep",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates understand skills regarding hobbies and free time at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W34-hobbies-free-time-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-4-2026-W34-hobbies-free-time-001-MASTERY-v8",
+      "statement": "I like to ________ in the disco.",
+      "context": "Learning about hobbies and free time in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "work",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "read",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "cook",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "dance",
+          "is_correct": true,
+          "feedback": "Correct!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates remember skills regarding hobbies and free time at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W34-hobbies-free-time-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
     }
   ]
 }

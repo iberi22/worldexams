@@ -11,14 +11,11 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
-alignment: "DBA MEN Grado 8 + CEFR B1"
-cefr_level: "B1"
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
-modern_context: true
 ---
-
 # Weekly Pack W06: Advice and Suggestions (B1)
 
 This bundle focuses on giving advice and suggestions using modal verbs like "should", "shouldn't", "must", and "have to", aligned with CEFR B1 level for Grade 8.

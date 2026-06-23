@@ -1,231 +1,205 @@
 ---
-id: "CO-ING-3-2026-W13-house-rooms-001-MASTERY"
+id: "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "house-rooms"
 periodo: "weekly"
-semana: 13
+week: "W13"
+year: 2026
+bundle_type: "weekly"
 protocol_version: "5.2"
-bundle_index: 1
-bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos Grado 3"
-cefr_level: "A1"
-modern_context: true
-distractor_profile: "plausible_peer_set"
-calibration:
-  expected_success_rate: 0.80
-rubric_baseline: "Vocabulary for rooms in a house: kitchen, bedroom, bathroom, living room."
+total_questions: 8
+bundle_size: 8
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
+creador: "Jules-Agent"
+---
+# MASTERY Bundle - Ingles: House Rooms (W13)
+**8 preguntas | Ingles | {alignment}**
 
 ---
-
-# Weekly Pack W13: House - Rooms (A1)
-
-Este bundle evalúa el vocabulario de las habitaciones o partes de una casa en inglés.
-
----
-
-## Question 1 [D3-D4]
-**ID:** `CO-ING-3-2026-W13-house-rooms-001-MASTERY-v1`
+## Question 1 [D3]
+**ID:** CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.95
-
-### Enunciado
-Where do you **sleep**?
-
-### Options
-- [ ] A) Kitchen <!-- feedback: Incorrect. You cook in the kitchen. -->
-- [x] B) Bedroom <!-- feedback: Correct! You sleep in the bedroom. -->
-- [ ] C) Bathroom <!-- feedback: Incorrect. -->
-- [ ] D) Garden <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-La habitación donde dormimos se llama "bedroom" (habitación de la cama).
-
----
-
-## Question 2 [D3-D4]
-**ID:** `CO-ING-3-2026-W13-house-rooms-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.90
-
-### Enunciado
-Where does your mom **cook**?
-
-### Options
-- [x] A) Kitchen <!-- feedback: Correct! Kitchen is where we cook. -->
-- [ ] B) Bathroom <!-- feedback: Incorrect. -->
-- [ ] C) Bedroom <!-- feedback: Incorrect. -->
-- [ ] D) Living room <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-La cocina se dice "kitchen". Es el lugar donde preparamos la comida.
-
----
-
-## Question 3 [D3-D4]
-**ID:** `CO-ING-3-2026-W13-house-rooms-001-MASTERY-v3`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-
-### Enunciado
-What is **"Baño"** in English?
-
-### Options
-- [ ] A) Bedroom <!-- feedback: Incorrect. -->
-- [ ] B) Kitchen <!-- feedback: Incorrect. -->
-- [x] C) Bathroom <!-- feedback: Correct! Bathroom is baño. -->
-- [ ] D) Garage <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-El baño se dice "bathroom".
-
----
-
-## Question 4 [D3-D4]
-**ID:** `CO-ING-3-2026-W13-house-rooms-001-MASTERY-v4`
-**Bloom:** Remember
-**ICFES:** Lingüística
+**ICFES:** Lexico
 **Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Where do you watch **TV** with your family?
+What is the English word for: "A place where you live or stay on holiday."
 
-### Options
-- [ ] A) Bathroom <!-- feedback: Incorrect. -->
-- [x] B) Living room <!-- feedback: Correct! Living room is sala. -->
-- [ ] C) Kitchen <!-- feedback: Incorrect. -->
-- [ ] D) Bedroom <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) accommodation
+  <!-- feedback: Correct! 'accommodation' matches the definition. -->
+- [ ] B) transportation
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) entertainment
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) currency
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-La sala se dice "living room". Es el espacio común de la casa.
-
+### Explicacion Pedagogica
+The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
 ---
-
-## Question 5 [D3-D4]
-**ID:** `CO-ING-3-2026-W13-house-rooms-001-MASTERY-v5`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.75
-
-### Enunciado
-What is **"Jardín"** in English?
-
-### Options
-- [ ] A) Park <!-- feedback: Incorrect. Park is a public place. -->
-- [x] B) Garden <!-- feedback: Correct! Garden is jardín. -->
-- [ ] C) Yard <!-- feedback: Incorrect. Yard is also used, but garden is more common for flowers. -->
-- [ ] D) Forest <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-El jardín de la casa se dice "garden".
-
----
-
-## Question 6 [D5-D6]
-**ID:** `CO-ING-3-2026-W13-house-rooms-001-MASTERY-v6`
+## Question 2 [D4]
+**ID:** CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.70
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Where do you **eat** dinner (el comedor)?
+What is the English word for: "A detailed plan or route of a journey."
 
-### Options
-- [ ] A) Living room <!-- feedback: Incorrect. -->
-- [ ] B) Bedroom <!-- feedback: Incorrect. -->
-- [x] C) Dining room <!-- feedback: Correct! Dining room is comedor. -->
-- [ ] D) Bathroom <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) itinerary
+  <!-- feedback: Correct! 'itinerary' matches the definition. -->
+- [ ] B) baggage
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) destination
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) passport
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-El comedor se dice "dining room". Viene de "dine" que significa cenar o comer formalmente.
-
+### Explicacion Pedagogica
+The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
 ---
-
-## Question 7 [D5-D6]
-**ID:** `CO-ING-3-2026-W13-house-rooms-001-MASTERY-v7`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.65
-
-### Enunciado
-Where is the **car**?
-
-### Options
-- [ ] A) In the kitchen <!-- feedback: Incorrect. -->
-- [x] B) In the garage <!-- feedback: Correct! Cars go in the garage. -->
-- [ ] C) In the bathroom <!-- feedback: Incorrect. -->
-- [ ] D) In the bedroom <!-- feedback: Incorrect. -->
-
-### Explicación Pedagógica
-El garaje se dice "garage". Es donde guardamos el carro.
-
----
-
-## Question 8 [D5-D6]
-**ID:** `CO-ING-3-2026-W13-house-rooms-001-MASTERY-v8`
+## Question 3 [D5]
+**ID:** CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is **"Casa"** in English?
+What is the English word for: "The place to which someone or something is going or being sent."
 
-### Options
-- [x] A) House <!-- feedback: Correct! House is casa. -->
-- [ ] B) Home <!-- feedback: Incorrect. Home means hogar, house is the building. -->
-- [ ] C) Room <!-- feedback: Incorrect. -->
-- [ ] D) Door <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) destination
+  <!-- feedback: Correct! 'destination' matches the definition. -->
+- [ ] B) departure
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) arrival
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) journey
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-La construcción o edificio donde vivimos es la "house".
-
+### Explicacion Pedagogica
+The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
 ---
-
-## Question 9 [D5-D6]
-**ID:** `CO-ING-3-2026-W13-house-rooms-001-MASTERY-v9`
+## Question 4 [D6]
+**ID:** CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.55
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Complete: **"My bed is in the _______."**
+What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
 
-### Options
-- [ ] A) Bathroom <!-- feedback: Incorrect. -->
-- [x] B) Bedroom <!-- feedback: Correct! -->
-- [ ] C) Kitchen <!-- feedback: Incorrect. -->
-- [ ] D) Garden <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) luggage
+  <!-- feedback: Correct! 'luggage' matches the definition. -->
+- [ ] B) ticket
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) flight
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) reservation
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-La cama (bed) está en la habitación (bedroom).
-
+### Explicacion Pedagogica
+The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
 ---
-
-## Question 10 [D5-D6]
-**ID:** `CO-ING-3-2026-W13-house-rooms-001-MASTERY-v10`
-**Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.50
+## Question 5 [D7]
+**ID:** CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle-v5
+**Bloom:** Analyze
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-Where do you take a **shower**?
+What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
 
-### Options
-- [x] A) In the bathroom <!-- feedback: Correct! -->
-- [ ] B) In the dining room <!-- feedback: Incorrect. -->
-- [ ] C) In the living room <!-- feedback: Incorrect. -->
-- [ ] D) In the kitchen <!-- feedback: Incorrect. -->
+### Opciones
+- [x] A) passenger
+  <!-- feedback: Correct! 'passenger' matches the definition. -->
+- [ ] B) pedestrian
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) commuter
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) tourist
+  <!-- feedback: Incorrect. Try again. -->
 
-### Explicación Pedagógica
-Nos duchamos o bañamos en el "bathroom".
+### Explicacion Pedagogica
+The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+---
+## Question 6 [D8]
+**ID:** CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
 
+### Enunciado
+What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
 
-[//]: # (QUALITY_REVIEW)
-[//]: # (STATUS: LEGACY - FREE USE)
-[//]: # (SCORE: N/A - Pre-QR era)
+### Opciones
+- [x] A) customs
+  <!-- feedback: Correct! 'customs' matches the definition. -->
+- [ ] B) security
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) terminal
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) gate
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+---
+## Question 7 [D9]
+**ID:** CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle-v7
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+
+### Opciones
+- [x] A) boarding pass
+  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
+- [ ] B) visa
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) receipt
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) brochure
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+---
+## Question 8 [D10]
+**ID:** CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle-v8
+**Bloom:** Evaluate
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "The activity of visiting places of interest in a particular location."
+
+### Opciones
+- [x] A) sightseeing
+  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
+- [ ] B) shopping
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] C) hiking
+  <!-- feedback: Incorrect. Try again. -->
+- [ ] D) camping
+  <!-- feedback: Incorrect. Try again. -->
+
+### Explicacion Pedagogica
+The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.

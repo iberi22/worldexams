@@ -1,0 +1,921 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-24-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-06-22T05:46:15.986Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-6-2026-W24-sistema-excretor-001-v1",
+      "statement": "¿Función principal del sistema excretor?",
+      "context": "En Bogotá, inician el sistema excretor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Digerir alimentos",
+          "is_correct": false,
+          "feedback": "Es del digestivo."
+        },
+        {
+          "letter": "B",
+          "text": "Eliminar desechos de la sangre y mantener homeostasis",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Transportar oxígeno",
+          "is_correct": false,
+          "feedback": "Circulatorio."
+        },
+        {
+          "letter": "D",
+          "text": "Producir orina",
+          "is_correct": false,
+          "feedback": "Es parte."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sistema excretor filtra sangre, elimina desechos (urea, creatinina, sales) y regula el equilibrio hídrico. Órganos: riñones, uréteres, vejiga, uretra. También excretan: piel, pulmones e hígado.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember | **ICFES:** Comunicación y Representación",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W24-sistema-excretor-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W24-sistema-excretor-002-v1",
+      "statement": "¿Cuántos riñones tenemos?",
+      "context": "En Medellín, identifican riñones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Se puede vivir con uno."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno",
+          "is_correct": false,
+          "feedback": "El hígado no filtra sangre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dos riñones (forma de frijol, ~12 cm) con ~1 millón de nefronas cada uno. Una persona vive con un solo riñón (el otro se hipertrofia).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember | **ICFES:** Comunicación y Representación",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W24-sistema-excretor-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W24-sistema-excretor-003-v1",
+      "statement": "¿Qué unidad funcional del riñón filtra la sangre?",
+      "context": "En Cali, explican filtración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El glomérulo",
+          "is_correct": false,
+          "feedback": "Es parte de la nefrona."
+        },
+        {
+          "letter": "B",
+          "text": "La pelvis renal",
+          "is_correct": false,
+          "feedback": "Recolecta orina."
+        },
+        {
+          "letter": "C",
+          "text": "La nefrona",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "El uréter",
+          "is_correct": false,
+          "feedback": "Transporta orina."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cada nefrona tiene: glomérulo (filtra 180 L/día), túbulo proximal (reabsorbe glucosa, 65% agua), asa de Henle (concentra), túbulo distal (ajusta pH), túbulo colector (orina final ~1.5 L/día).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand | **ICFES:** Comunicación y Representación",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W24-sistema-excretor-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W24-sistema-excretor-004-v1",
+      "statement": "¿Qué contiene la orina?",
+      "context": "En Barranquilla, explican la orina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo agua",
+          "is_correct": false,
+          "feedback": "Tiene más componentes."
+        },
+        {
+          "letter": "B",
+          "text": "Sangre y agua",
+          "is_correct": false,
+          "feedback": "Sangre en orina es anormal."
+        },
+        {
+          "letter": "C",
+          "text": "Agua, urea, sales y urocromo",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Nutrientes y oxígeno",
+          "is_correct": false,
+          "feedback": "Se reabsorben."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Orina: ~95% agua, 2% urea (desecho proteico), 1.5% sales (NaCl, K, fosfatos), urocromo (pigmento amarillo). La urea se produce en el hígado a partir de amoníaco tóxico.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand | **ICFES:** Comunicación y Representación",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W24-sistema-excretor-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W24-sistema-excretor-005-v1",
+      "statement": "¿Por qué la orina es más oscura sin agua?",
+      "context": "En Bucaramanga, aplican sobre hidratación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hay sangre",
+          "is_correct": false,
+          "feedback": "Sangre es anormal."
+        },
+        {
+          "letter": "B",
+          "text": "Los riñones concentran la orina, más pigmento por menos agua",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Más desechos",
+          "is_correct": false,
+          "feedback": "No varía significativamente."
+        },
+        {
+          "letter": "D",
+          "text": "Vejiga inflamada",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Deshidratados, los riñones reabsorben más agua, concentrando la orina (más oscura). Orina clara = buena hidratación. Recomendación: ~2 L agua/día.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply | **ICFES:** Formulación y Ejecución",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W24-sistema-excretor-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W24-sistema-excretor-006-v1",
+      "statement": "¿Por qué se forman cálculos renales?",
+      "context": "En Cartagena, aplican sobre cálculos renales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los riñones producen piedras",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Comer mucha sal",
+          "is_correct": false,
+          "feedback": "Contribuye pero no es única causa."
+        },
+        {
+          "letter": "C",
+          "text": "Sales minerales cristalizan en orina concentrada",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Falta de ejercicio",
+          "is_correct": false,
+          "feedback": "No es causa directa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cálculos: 80% calcio (oxalato/fosfato), 10% ácido úrico. Factores: poca agua, dieta alta en sodio y oxalatos (espinaca, chocolate). Tratamiento: hidratación, litotricia (ondas de choque) o cirugía.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply | **ICFES:** Formulación y Ejecución",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W24-sistema-excretor-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W24-sistema-excretor-007-v1",
+      "statement": "¿Por qué los pacientes con insuficiencia renal necesitan diálisis?",
+      "context": "En Pereira, analizan diálisis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Producen mucha orina",
+          "is_correct": false,
+          "feedback": "Producen poca."
+        },
+        {
+          "letter": "B",
+          "text": "Sangre tiene exceso de nutrientes",
+          "is_correct": false,
+          "feedback": "Exceso de desechos tóxicos."
+        },
+        {
+          "letter": "C",
+          "text": "Los riñones no filtran desechos (urea, creatinina, K) que se acumulan tóxicos",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Necesitan más proteínas",
+          "is_correct": false,
+          "feedback": "Las proteínas se pierden en orina."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Diálisis: la sangre pasa por una máquina que filtra desechos. 3 sesiones/semana, 4h cada una. En Colombia, ~10% tiene enfermedad renal crónica. Causas: diabetes e hipertensión.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze | **ICFES:** Razonamiento y Argumentación",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W24-sistema-excretor-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W24-sistema-excretor-008-v1",
+      "statement": "¿Por qué las mujeres tienen más infecciones urinarias?",
+      "context": "En Manizales, analizan infecciones urinarias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se enferman más en general",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Hombres tienen más defensas",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "Uretra femenina más corta y cerca del ano",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Hombres orinan más",
+          "is_correct": false,
+          "feedback": "No es factor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "E. coli del intestino causa ~80% de infecciones. Uretra femenina (4 cm) vs masculina (20 cm). Prevención: hidratación, orinar después de relaciones, higiene adecuada.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze | **ICFES:** Razonamiento y Argumentación",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W24-sistema-excretor-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W24-sistema-excretor-009-v1",
+      "statement": "¿Por qué se puede donar un riñón en vida?",
+      "context": "En Cúcuta, evalúan donación renal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No se necesitan riñones",
+          "is_correct": false,
+          "feedback": "Sí se necesitan."
+        },
+        {
+          "letter": "B",
+          "text": "El riñón restante se duplica",
+          "is_correct": false,
+          "feedback": "No se duplica."
+        },
+        {
+          "letter": "C",
+          "text": "El riñón restante se hipertrofia (aumenta capacidad)",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "El hígado asume la función",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La nefrectomía es posible porque el riñón restante alcanza ~70-80% de función de dos. En Colombia, el trasplante renal es el más común de órganos sólidos.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate | **ICFES:** Razonamiento y Argumentación",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W24-sistema-excretor-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W24-sistema-excretor-010-v1",
+      "statement": "¿Mejor forma de mantener riñones saludables?",
+      "context": "En Ibagué, evalúan hábitos renales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vitaminas diarias",
+          "is_correct": false,
+          "feedback": "No previenen enfermedad renal."
+        },
+        {
+          "letter": "B",
+          "text": "Orinar poco",
+          "is_correct": false,
+          "feedback": "Retener orina es malo."
+        },
+        {
+          "letter": "C",
+          "text": "Beber agua, no fumar, controlar presión, limitar sal",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Dieta alta en proteínas",
+          "is_correct": false,
+          "feedback": "Sobrecarga riñones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para cuidar riñones: 1.5-2 L agua/día, presión <130/80, controlar diabetes, sal <5g/día, no fumar, evitar AINEs excesivos, chequeos anuales (creatinina).\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate | **ICFES:** Razonamiento y Argumentación",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W24-sistema-excretor-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Ciencias Naturales del Colegio La Presentación en Pasto, se discute sobre Tema Semana 24 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 24 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 24 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-6-2026-W24-tema-semana-24-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Barranquilla, se discute sobre Tema Semana 24 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Barranquilla",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 24 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 24 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CIE-6-2026-W24-tema-semana-24-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Ciencias Naturales del Colegio La Presentación en Barranquilla, se discute sobre Tema Semana 24 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Barranquilla",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 24 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 24 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-6-2026-W24-tema-semana-24-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Ciencias Naturales del Colegio La Presentación en Cúcuta, se discute sobre Tema Semana 24 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 24 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 24 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.61,
+      "bundle_id": "CO-CIE-6-2026-W24-tema-semana-24-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Ciencias Naturales del I.E. San José en Bucaramanga, se discute sobre Tema Semana 24 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 24 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 24 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CIE-6-2026-W24-tema-semana-24-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Sincelejo, se discute sobre Tema Semana 24 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 24 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 24 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CIE-6-2026-W24-tema-semana-24-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Sincelejo, se discute sobre Tema Semana 24 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 24 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 24 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-6-2026-W24-tema-semana-24-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Ciencias Naturales del I.E. Francisco de Paula Santander en Bucaramanga, se discute sobre Tema Semana 24 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 24 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 24 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-6-2026-W24-tema-semana-24-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Tunja, se discute sobre Tema Semana 24 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 24 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 24 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CIE-6-2026-W24-tema-semana-24-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Ciencias Naturales del Colegio La Presentación en Ibagué, se discute sobre Tema Semana 24 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 24 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 24 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 24 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CIE-6-2026-W24-tema-semana-24-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

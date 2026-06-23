@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-16-grade-6-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-22T05:46:17.375Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-v1",
+      "statement": "La Constitución Política de Colombia de 1991 está organizada en títulos y capítulos. ¿Cuál es el título que contiene los derechos fundamentales?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Título I: De los principios fundamentales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese título habla de principios generales del Estado."
+        },
+        {
+          "letter": "B",
+          "text": "Título II: De los derechos, las garantías y los deberes",
+          "is_correct": true,
+          "feedback": "Correcto. El Título II se dedica íntegramente a los derechos, garantías y deberes."
+        },
+        {
+          "letter": "C",
+          "text": "Título V: De la organización del Estado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese título trata sobre la estructura del Estado, no los derechos."
+        },
+        {
+          "letter": "D",
+          "text": "Título X: De la reforma de la Constitución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese título se refiere a cómo se modifica la Constitución."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Constitución tiene 13 títulos. El Título II es el más extenso y se divide en cuatro capítulos: derechos fundamentales (Capítulo 1), derechos sociales, económicos y culturales (Capítulo 2), derechos colectivos y del ambiente (Capítulo 3), y la protección y aplicación de los derechos (Capítulo 4). Los deberes están en el artículo 95.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-v2",
+      "statement": "¿Cuáles son las tres ramas del poder público en Colombia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La rama judicial, la rama militar y la rama policial",
+          "is_correct": false,
+          "feedback": "Incorrecto. La militar y policial no son ramas del poder público."
+        },
+        {
+          "letter": "B",
+          "text": "La rama presidencial, la rama legislativa y la rama electoral",
+          "is_correct": false,
+          "feedback": "Incorrecto. La electoral no es una rama, es una organización."
+        },
+        {
+          "letter": "C",
+          "text": "La rama ejecutiva, la rama legislativa y la rama judicial",
+          "is_correct": true,
+          "feedback": "Correcto. Son las tres ramas clásicas del poder público."
+        },
+        {
+          "letter": "D",
+          "text": "La rama educativa, la rama económica y la rama social",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas no son ramas del poder público."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El artículo 113 de la Constitución establece la división tripartita del poder: la rama ejecutiva (presidente, ministros, gobernadores, alcaldes), la rama legislativa (Congreso: Senado y Cámara de Representantes) y la rama judicial (Corte Suprema, Corte Constitucional, Consejo de Estado, juzgados). Además existen órganos autónomos como la Fiscalía, el CNE y la Defensoría.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-v3",
+      "statement": "¿Qué función cumple principalmente la rama legislativa en Colombia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ejecutar las leyes y administrar el país",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es función de la rama ejecutiva."
+        },
+        {
+          "letter": "B",
+          "text": "Juzgar a los ciudadanos que cometen delitos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es función de la rama judicial."
+        },
+        {
+          "letter": "C",
+          "text": "Crear, modificar y derogar las leyes que rigen el país",
+          "is_correct": true,
+          "feedback": "Correcto. La función principal del Congreso es legislar."
+        },
+        {
+          "letter": "D",
+          "text": "Declarar la guerra a otros países",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una función compartida, no la principal del legislativo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La rama legislativa, ejercida por el Congreso de la República (Senado y Cámara de Representantes), tiene como función principal hacer las leyes. Los congresistas son elegidos por voto popular para periodos de 4 años. Además del poder legislativo, ejercen control político sobre el gobierno y tienen funciones de ordenamiento territorial.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-v4",
+      "statement": "¿Qué es el \"Estado Social de Derecho\" y por qué se diferencia de un Estado de Derecho tradicional?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es lo mismo que un Estado de Derecho tradicional, no hay diferencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay una diferencia fundamental."
+        },
+        {
+          "letter": "B",
+          "text": "Es un Estado donde no rigen las leyes, solo la voluntad del gobernante",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Estado Social de Derecho sí se rige por leyes."
+        },
+        {
+          "letter": "C",
+          "text": "Es un modelo donde no solo se respeta la ley (Estado de Derecho), sino que además el Estado debe promover activamente la igualdad social, la justicia y el bienestar de todos los ciudadanos",
+          "is_correct": true,
+          "feedback": "Correcto. Agrega una dimensión social al Estado de Derecho clásico."
+        },
+        {
+          "letter": "D",
+          "text": "Es un modelo donde el Estado controla toda la economía y la propiedad privada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia respeta la propiedad privada y la libre empresa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Colombia se define en el artículo 1 de la Constitución como un Estado Social de Derecho. Mientras que un Estado de Derecho clásico solo exige que el gobierno actúe según la ley, el Estado Social de Derecho va más allá: el Estado debe actuar para corregir las desigualdades sociales, proteger a los más vulnerables y garantizar condiciones de vida digna para todos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-v5",
+      "statement": "¿Cuál de los siguientes es un mecanismo de participación ciudadana establecido en la Constitución de 1991?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La huelga de hambre",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un mecanismo de participación constitucional."
+        },
+        {
+          "letter": "B",
+          "text": "El toque de queda",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una medida de restricción, no de participación."
+        },
+        {
+          "letter": "C",
+          "text": "El plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa legislativa y la revocatoria del mandato",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 103 de la Constitución enumera estos mecanismos."
+        },
+        {
+          "letter": "D",
+          "text": "El secuestro de funcionarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un delito, no un mecanismo de participación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Constitución de 1991 amplió significativamente los mecanismos de participación ciudadana (artículo 103). El voto es el más conocido, pero también existen: el plebiscito (el presidente consulta al pueblo), el referendo (se aprueba o rechaza una ley), la consulta popular (decisiones locales), el cabildo abierto (reuniones públicas con autoridades), la iniciativa legislativa (los ciudadanos proponen leyes) y la revocatoria del mandato (los ciudadanos pueden retirar a un alcalde o gobernador).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-v6",
+      "statement": "Una comunidad en el departamento del Cauca considera que una ley aprobada por el Congreso perjudica sus derechos como comunidad indígena. ¿Qué mecanismo de participación podrían usar para buscar cambiar esa ley?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Realizar un cabildo abierto en su vereda",
+          "is_correct": false,
+          "feedback": "Parcialmente correcto, pero el cabildo abierto no puede cambiar una ley nacional."
+        },
+        {
+          "letter": "B",
+          "text": "Solicitar un toque de queda en la región",
+          "is_correct": false,
+          "feedback": "Incorrecto. El toque de queda no es un mecanismo para cambiar leyes."
+        },
+        {
+          "letter": "C",
+          "text": "Promover un referendo para que los ciudadanos voten si quieren derogar o modificar esa ley",
+          "is_correct": true,
+          "feedback": "Correcto. El referendo permite aprobar o derogar actos legislativos y leyes."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir una carta al presidente de la república",
+          "is_correct": false,
+          "feedback": "Incorrecto. El presidente no deroga leyes del Congreso por carta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El referendo es el mecanismo adecuado cuando se busca la aprobación o derogación popular de una ley. Para que proceda, un grupo de ciudadanos debe recolectar firmas equivalente al 5% del censo electoral. También existe la posibilidad de acudir a la Corte Constitucional mediante una demanda de inconstitucionalidad, que es otra forma de participación a través de la acción pública.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-v7",
+      "statement": "En un municipio de Antioquia, los ciudadanos están insatisfechos con la gestión de su alcalde y quieren destituirlo antes de que termine su periodo. ¿Qué mecanismo de participación pueden utilizar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El plebiscito, para que el presidente decida si lo destituye",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plebiscito es sobre políticas del presidente, no sobre funcionarios locales."
+        },
+        {
+          "letter": "B",
+          "text": "El referendo, para votar si se elimina el cargo de alcalde",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso eliminaría el cargo, no destituiría al funcionario."
+        },
+        {
+          "letter": "C",
+          "text": "La revocatoria del mandato, que permite a los ciudadanos votar si retiran a un gobernante local antes de que termine su periodo",
+          "is_correct": true,
+          "feedback": "Correcto. La revocatoria aplica para alcaldes y gobernadores."
+        },
+        {
+          "letter": "D",
+          "text": "La tutela, para demandar al alcalde ante un juez",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tutela protege derechos fundamentales, no destituye funcionarios."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La revocatoria del mandato está regulada por la Ley 134 de 1994 y la Ley 1757 de 2015. Permite a los ciudadanos votar si un alcalde o gobernador debe continuar en su cargo. Se requiere que un grupo de ciudadanos promueva la iniciativa recolectando firmas (equivalente al 40% de los votos que eligieron al funcionario). Si la mayoría vota por la revocatoria, el funcionario es retirado.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-v8",
+      "statement": "La Constitución de 1991 creó la Corte Constitucional y le dio la función de revisar si las leyes aprobadas por el Congreso son constitucionales. ¿Por qué es importante esta función para la democracia colombiana?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la Corte Constitucional puede gobernar cuando el presidente está ausente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Corte no gobierna, controla."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la Corte Constitucional reemplaza al Congreso en la creación de leyes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Corte no crea leyes, las revisa."
+        },
+        {
+          "letter": "C",
+          "text": "Porque garantiza que las leyes respeten los derechos fundamentales y los principios constitucionales, evitando que el Congreso o el Ejecutivo actúen por fuera del marco de la Constitución",
+          "is_correct": true,
+          "feedback": "Correcto. La Corte es el guardián de la Constitución."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la Corte Constitucional nombra y destituye al presidente de la República",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde al Congreso y a los ciudadanos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Corte Constitucional (artículos 239-245) es la máxima autoridad en temas constitucionales. Su función de control de constitucionalidad es fundamental porque evita la tiranía de la mayoría: aunque una ley sea aprobada por el Congreso, si vulnera derechos fundamentales o principios constitucionales, la Corte puede declararla inconstitucional y retirarla del ordenamiento jurídico.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-v9",
+      "statement": "Colombia tiene una democracia participativa (no solo representativa), lo que significa que los ciudadanos pueden incidir directamente en las decisiones. Sin embargo, en la práctica los mecanismos de participación como el referendo o la revocatoria son poco usados. ¿Qué explica esta contradicción?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los mecanismos de participación no existen realmente en Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí existen, están en la Constitución."
+        },
+        {
+          "letter": "B",
+          "text": "Que los colombianos no están interesados en la política",
+          "is_correct": false,
+          "feedback": "Es una explicación simplista que no considera las barreras."
+        },
+        {
+          "letter": "C",
+          "text": "Que existen barreras como el desconocimiento de los mecanismos, los altos requisitos de firmas, la falta de financiación para promoverlos y la poca cultura de participación ciudadana",
+          "is_correct": true,
+          "feedback": "Correcto. Hay factores estructurales y culturales que dificultan el uso de estos mecanismos."
+        },
+        {
+          "letter": "D",
+          "text": "Que el gobierno prohíbe el uso de estos mecanismos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gobierno no los prohíbe, pero tampoco los promueve activamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Constitución de 1991 fue innovadora al incluir la democracia participativa, pero la implementación ha sido limitada. Las barreras incluyen: requisitos de firmas difíciles de alcanzar (ej. 5% del censo para un referendo), falta de recursos para campañas de recolección de firmas, escasa educación ciudadana sobre cómo usar estos mecanismos y una cultura política más inclinada a delegar que a participar activamente.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-v10",
+      "statement": "Analiza en conjunto: la Constitución de 1991 establece un Estado Social de Derecho, protege derechos fundamentales, divide el poder en tres ramas y ofrece mecanismos de participación ciudadana. Sin embargo, Colombia enfrenta problemas de corrupción, impunidad y baja participación electoral. ¿Qué nos dice esta brecha entre el diseño constitucional y la realidad sobre la fortaleza de la democracia colombiana?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la Constitución de 1991 es un documento sin valor y que Colombia no es una democracia real",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución sí tiene valor, aunque su implementación sea imperfecta."
+        },
+        {
+          "letter": "B",
+          "text": "Que una buena constitución es necesaria pero no suficiente: la democracia se fortalece cuando las instituciones funcionan efectivamente, los ciudadanos participan activamente y existe una cultura de legalidad que vaya más allá del texto constitucional",
+          "is_correct": true,
+          "feedback": "Correcto. La democracia requiere instituciones efectivas y cultura ciudadana."
+        },
+        {
+          "letter": "C",
+          "text": "Que el problema es exclusivamente de los ciudadanos que no votan",
+          "is_correct": false,
+          "feedback": "Incorrecto. La baja participación tiene múltiples causas, no es solo responsabilidad individual."
+        },
+        {
+          "letter": "D",
+          "text": "Que Colombia debería cambiar nuevamente de constitución para solucionar sus problemas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar la Constitución no resuelve automáticamente los problemas de implementación y cultura política."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El diseño constitucional colombiano es avanzado y ha sido reconocido internacionalmente. Sin embargo, la calidad de una democracia no depende solo de su constitución. Depende también de: la capacidad de las instituciones para hacer cumplir las leyes, la independencia real del poder judicial, la participación activa de los ciudadanos más allá del voto, los niveles de corrupción, y la existencia de una cultura política que valore el Estado de Derecho. La brecha entre el ideal constitucional y la realidad es un desafío, no una condena.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento reflexivo y sistémico",
+      "expected_success": 0.4,
+      "bundle_id": "CO-SOC-6-2026-W16-repaso-p3-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

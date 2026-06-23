@@ -8,886 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W06-possessive-adjectives-001-MASTERY-v1",
-      "statement": "\"I have a book. It is ___ book.\"",
-      "context": "In Bogotá, students learn possessive words.",
+      "id": "CO-ING-6-2026-W06-classroom-objects-001-v1",
+      "statement": "I write with my ________ in my notebook.",
+      "context": "Scenario about classroom-objects in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "my",
-          "is_correct": true,
-          "feedback": "Correcto. \"My\" para indicar posesión de la primera persona."
+          "text": "window",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "your",
+          "text": "desk",
           "is_correct": false,
-          "feedback": "Incorrecto. \"Your\" es para \"tu/su\" de usted."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "his",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"His\" es para \"de él\"."
-        },
-        {
-          "letter": "D",
-          "text": "her",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Her\" es para \"de ella\"."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "\"My\" = mi/mis. Es el adjetivo posesivo para la primera persona (I). \"This is my pencil\" = Este es mi lápiz.\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W06-possessive-adjectives-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W06-possessive-adjectives-001-MASTERY-v2",
-      "statement": "\"Ana has a cat. It is ___ cat.\"",
-      "context": "In Medellín, students practice with \"his\" and \"her\".",
-      "options": [
-        {
-          "letter": "A",
-          "text": "his",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"His\" es para un hombre. Ana es mujer."
-        },
-        {
-          "letter": "B",
-          "text": "her",
+          "text": "pencil",
           "is_correct": true,
-          "feedback": "Correcto. \"Her\" se usa para Ana, que es mujer."
-        },
-        {
-          "letter": "C",
-          "text": "my",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"My\" es para quien habla."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "its",
+          "text": "board",
           "is_correct": false,
-          "feedback": "Incorrecto. \"Its\" es para objetos o animales."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Her\" = de ella. Se usa cuando el dueño es una mujer. His = de él. Its = de una cosa o animal.\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W06-possessive-adjectives-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W06-possessive-adjectives-001-MASTERY-v3",
-      "statement": "\"My family and I live in a house. It is ___ house.\"",
-      "context": "In Cali, a student talks about her family's house.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "my",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"My\" es solo para una persona."
-        },
-        {
-          "letter": "B",
-          "text": "their",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Their\" es para ellos."
-        },
-        {
-          "letter": "C",
-          "text": "our",
-          "is_correct": true,
-          "feedback": "Correcto. \"Our\" = nuestra, para el grupo que incluye a quien habla."
-        },
-        {
-          "letter": "D",
-          "text": "its",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Its\" no funciona aquí."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "\"My family and I\" = nosotros → \"our\" (nuestro/a). Our house, our family, our school.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W06-possessive-adjectives-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W06-possessive-adjectives-001-MASTERY-v4",
-      "statement": "\"The students have a teacher. She is ___ teacher.\"",
-      "context": "In Barranquilla, students talk about their teacher.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "his",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"His\" es singular."
-        },
-        {
-          "letter": "B",
-          "text": "her",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Her\" es singular."
-        },
-        {
-          "letter": "C",
-          "text": "their",
-          "is_correct": true,
-          "feedback": "Correcto. \"Their\" = de ellos (los estudiantes)."
-        },
-        {
-          "letter": "D",
-          "text": "our",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Our\" incluiría a quien habla como estudiante. Depende del narrador."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "\"The students\" = they → \"their\". Their teacher, their school, their books. Adjetivo posesivo para tercera persona plural.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W06-possessive-adjectives-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W06-possessive-adjectives-001-MASTERY-v5",
-      "statement": "\"You have a new phone. Is that ___ phone?\"",
-      "context": "In Bucaramanga, students complete sentences with the correct possessive.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "your",
-          "is_correct": true,
-          "feedback": "Correcto. \"Your\" para \"tu\" (de ti)."
-        },
-        {
-          "letter": "B",
-          "text": "my",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"My\" sería si fuera de quien habla."
-        },
-        {
-          "letter": "C",
-          "text": "his",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"His\" si fuera de un hombre."
-        },
-        {
-          "letter": "D",
-          "text": "her",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Her\" si fuera de una mujer."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "\"Your\" = tu/su (de usted). Se usa para la segunda persona. \"Is this your pencil?\" = \"¿Es este tu lápiz?\"\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of Classroom Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W06-possessive-adjectives-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W06-possessive-adjectives-001-MASTERY-v6",
-      "statement": "\"Pedro and ___ brother go to the same school.\"",
-      "context": "In Cartagena, students describe what belongs to whom.",
+      "id": "CO-ING-6-2026-W06-classroom-objects-002-v1",
+      "statement": "The teacher writes on the ________.",
+      "context": "Scenario about classroom-objects in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "his",
-          "is_correct": true,
-          "feedback": "Correcto. \"His brother\" = su hermano (de Pedro)."
+          "text": "backpack",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "her",
+          "text": "chair",
           "is_correct": false,
-          "feedback": "Incorrecto. Pedro es hombre."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "my",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es el hermano de quien habla."
-        },
-        {
-          "letter": "D",
-          "text": "their",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Their\" sería de Pedro y otra persona."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Pedro es un nombre masculino → se usa \"his\". \"Pedro and his brother\" = Pedro y su hermano.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Formulación y Ejecución",
-      "bundle_id": "CO-ING-6-2026-W06-possessive-adjectives-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W06-possessive-adjectives-001-MASTERY-v7",
-      "statement": "\"The dog has a bone. It is ___ bone.\"",
-      "context": "In Pereira, students write about their pets.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "his",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"His\" es para personas, no típicamente para animales."
-        },
-        {
-          "letter": "B",
-          "text": "her",
-          "is_correct": false,
-          "feedback": "Incorrecto. Solo si el perro es hembra conocido."
-        },
-        {
-          "letter": "C",
-          "text": "its",
+          "text": "board",
           "is_correct": true,
-          "feedback": "Correcto. \"Its\" para posesión de un animal o cosa."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "it's",
+          "text": "floor",
           "is_correct": false,
-          "feedback": "Incorrecto. \"It's\" significa \"it is\", no posesión."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "\"Its\" (sin apóstrofe) es el adjetivo posesivo para animales y objetos. \"It's\" (con apóstrofe) = it is. ¡Cuidado con la diferencia!\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to remember the topic of Classroom Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Formulación y Ejecución",
-      "bundle_id": "CO-ING-6-2026-W06-possessive-adjectives-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W06-possessive-adjectives-001-MASTERY-v8",
-      "statement": "\"María and I are friends. ___ favorite subject is English.\"",
-      "context": "In Manizales, students talk about shared things.",
+      "id": "CO-ING-6-2026-W06-classroom-objects-003-v1",
+      "statement": "Where do you study?",
+      "context": "Scenario about classroom-objects in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Their",
+          "text": "In the bed.",
           "is_correct": false,
-          "feedback": "Incorrecto. \"Their\" no incluye a María y a quien habla desde la perspectiva de \"nosotros\"."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "Our",
-          "is_correct": true,
-          "feedback": "Correcto. \"Our\" porque incluye a María y a quien habla."
+          "text": "In the kitchen.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Her",
+          "text": "In the park.",
           "is_correct": false,
-          "feedback": "Incorrecto. \"Her\" solo para María."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "My",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"My\" solo para quien habla."
+          "text": "In the classroom.",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "\"María and I\" = we → our. \"Our favorite subject\" = nuestra materia favorita.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to understand the topic of Classroom Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Formulación y Ejecución",
-      "bundle_id": "CO-ING-6-2026-W06-possessive-adjectives-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W06-possessive-adjectives-001-MASTERY-v9",
-      "statement": "\"A: I like ___ new shoes. B: Thanks! My mom bought them.\"",
-      "context": "In Cúcuta, students identify the correct possessive in a dialogue.",
+      "id": "CO-ING-6-2026-W06-classroom-objects-004-v1",
+      "statement": "What do you use to erase a mistake?",
+      "context": "Scenario about classroom-objects in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "my",
+          "text": "A book.",
           "is_correct": false,
-          "feedback": "Incorrecto. Si son los zapatos de B, no serían \"my\" para A."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "your",
-          "is_correct": true,
-          "feedback": "Correcto. A se refiere a los zapatos de B: \"your shoes\"."
+          "text": "A ruler.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "his",
+          "text": "A sharpener.",
           "is_correct": false,
-          "feedback": "Incorrecto. B no es hombre desde la perspectiva de A."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "our",
-          "is_correct": false,
-          "feedback": "Incorrecto. No son zapatos compartidos."
+          "text": "An eraser.",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "En un diálogo, la persona A habla de los zapatos de la persona B. Por eso usa \"your\" (tus). Luego B responde agradeciendo.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to understand the topic of Classroom Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W06-classroom-objects-005-v1",
+      "statement": "I carry my books in my ________.",
+      "context": "Scenario about classroom-objects in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "backpack",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "wallet",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "pocket",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "pencil case",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to apply the topic of Classroom Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Razonamiento y Argumentación",
-      "bundle_id": "CO-ING-6-2026-W06-possessive-adjectives-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W06-possessive-adjectives-001-MASTERY-v10",
-      "statement": "\"Which sentence is CORRECT?\"",
-      "context": "In Ibagué, students fix incorrect possessive sentences.",
+      "id": "CO-ING-6-2026-W06-classroom-objects-006-v1",
+      "statement": "The ________ helps students learn English.",
+      "context": "Scenario about classroom-objects in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "She is my mother. Her name is Ana. <!-- Correct. But let's check others. -->",
+          "text": "doctor",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "They have a car. Its color is red.",
-          "is_correct": true,
-          "feedback": "Correcto. \"Its\" con posesivo para el carro."
+          "text": "chef",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "He is my brother. Her name is Luis.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Luis es hombre → \"his name\"."
-        },
-        {
-          "letter": "D",
-          "text": "We have a dog. It is we dog.",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"We dog\" es incorrecto → \"our dog\"."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Its\" es el posesivo de \"it\". Se usa para animales y cosas. El error común es confundir \"its\" (posesivo) con \"it's\" (it is = es/está).\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Razonamiento y Argumentación",
-      "bundle_id": "CO-ING-6-2026-W06-possessive-adjectives-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-v1",
-      "statement": "What is the structure of present perfect?",
-      "context": "At Colegio INEM de Manizales, students review present perfect.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "subject + past tense verb",
-          "is_correct": false,
-          "feedback": "Pasado simple."
-        },
-        {
-          "letter": "B",
-          "text": "subject + have/has + past participle",
+          "text": "teacher",
           "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "subject + be + verb-ing",
-          "is_correct": false,
-          "feedback": "Presente continuo."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "subject + will + verb",
+          "text": "pilot",
           "is_correct": false,
-          "feedback": "Futuro simple."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Present perfect: sujeto + have/has + past participle. Conecta pasado con presente.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-v2",
-      "statement": "What is the past participle of \"go\"?",
-      "context": "In Colegio Champagnat de Tunja, students review verb forms.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "went",
-          "is_correct": false,
-          "feedback": "Pasado simple."
-        },
-        {
-          "letter": "B",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "No existe."
-        },
-        {
-          "letter": "C",
-          "text": "gone",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "Gerundio."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Verbos irregulares: go-went-gone, see-saw-seen, eat-ate-eaten, write-wrote-written.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-v3",
-      "statement": "Complete: \"I have lived in Manizales since 2020.\"",
-      "context": "At Colegio Fontán de Pasto, students practice for/since.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "for",
-          "is_correct": false,
-          "feedback": "For + duración."
-        },
-        {
-          "letter": "B",
-          "text": "since",
-          "is_correct": true,
-          "feedback": "Correcto. Since + punto específico."
-        },
-        {
-          "letter": "C",
-          "text": "ago",
-          "is_correct": false,
-          "feedback": "Ago + pasado simple."
-        },
-        {
-          "letter": "D",
-          "text": "from",
-          "is_correct": false,
-          "feedback": "No aplica."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Since + punto específico (2020, Monday). For + duración (three years, two months).\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-v4",
-      "statement": "What does \"I have just eaten\" mean?",
-      "context": "In Colegio Tolimense de Neiva, students practice comprehension.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "I ate a long time ago.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "B",
-          "text": "I ate a very short time ago.",
-          "is_correct": true,
-          "feedback": "Correcto. Just = acabar de."
-        },
-        {
-          "letter": "C",
-          "text": "I will eat soon.",
-          "is_correct": false,
-          "feedback": "Futuro."
-        },
-        {
-          "letter": "D",
-          "text": "I never eat.",
-          "is_correct": false,
-          "feedback": "Negación."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Just\" con present perfect = \"acabar de\". \"I have just finished\" = Acabo de terminar.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-v5",
-      "statement": "Correct: \"She has went to the museum.\"",
-      "context": "Students at Colegio San José de Manizales correct mistakes.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has goed to the park.",
-          "is_correct": false,
-          "feedback": "\"Goed\" no existe."
-        },
-        {
-          "letter": "B",
-          "text": "She has gone to the museum.",
-          "is_correct": true,
-          "feedback": "Correcto. Gone es el past participle de go."
-        },
-        {
-          "letter": "C",
-          "text": "She has go to the museum.",
-          "is_correct": false,
-          "feedback": "\"Go\" no es past participle."
-        },
-        {
-          "letter": "D",
-          "text": "She went to the museum.",
-          "is_correct": false,
-          "feedback": "Pasado simple, no PP."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Past participle de \"go\" = \"gone\". \"Went\" es solo pasado simple.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-v6",
-      "statement": "Choose: \"I have already visited Museo Botero.\"",
-      "context": "In Colegio San José de Neiva, students use already.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "have already visit",
-          "is_correct": false,
-          "feedback": "Past participle needed."
-        },
-        {
-          "letter": "B",
-          "text": "have already visited",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "already have visited",
-          "is_correct": false,
-          "feedback": "Orden incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "visited already",
-          "is_correct": false,
-          "feedback": "Coloquial."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Adverbios (already, just, never) van entre have/has y el past participle.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-v7",
-      "statement": "Difference: \"She has been to Cartagena\" vs \"She has gone to Cartagena\"?",
-      "context": "At Colegio Cambridge de Cali, analyze been vs gone.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Same meaning.",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "B",
-          "text": "\"Been to\" = visited and returned. \"Gone to\" = still there.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "\"Been to\" = still there.",
-          "is_correct": false,
-          "feedback": "Al revés."
-        },
-        {
-          "letter": "D",
-          "text": "\"Gone to\" = visited many times.",
-          "is_correct": false,
-          "feedback": "No."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Been to\" = ha ido y regresó. \"Gone to\" = fue y está allí.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-v8",
-      "statement": "Question: \"you / ever / try / empanadas?\"",
-      "context": "In Gimnasio Los Pinares de Neiva, students form questions.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Did you ever try empanadas?",
-          "is_correct": false,
-          "feedback": "Past simple."
-        },
-        {
-          "letter": "B",
-          "text": "Have you ever try empanadas?",
-          "is_correct": false,
-          "feedback": "Past participle needed."
-        },
-        {
-          "letter": "C",
-          "text": "Have you ever tried bandeja paisa?",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "D",
-          "text": "You have ever tried bandeja paisa?",
-          "is_correct": false,
-          "feedback": "Falta inversión."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Preguntas PP: Have/Has + sujeto + ever + past participle?\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to apply the topic of Classroom Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-v9",
-      "statement": "Correct tense? \"Colombia won its first gold in 1972.\"",
-      "context": "At Colegio Tolimense de San Andrés, evaluate tense.",
+      "id": "CO-ING-6-2026-W06-classroom-objects-007-v1",
+      "statement": "Where is the math class?",
+      "context": "Scenario about classroom-objects in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "has won",
-          "is_correct": false,
-          "feedback": "Tiempo específico."
+          "text": "In the classroom.",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "won",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "In the gym.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "has been winning",
+          "text": "In the bathroom.",
           "is_correct": false,
-          "feedback": "PP continuous."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "wins",
+          "text": "In the cafeteria.",
           "is_correct": false,
-          "feedback": "Present simple."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Eventos con fecha específica: pasado simple, nunca PP.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to apply the topic of Classroom Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W06-classroom-objects-008-v1",
+      "statement": "What do you use to draw a straight line?",
+      "context": "Scenario about classroom-objects in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A ruler.",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "B",
+          "text": "A pen.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "A scissors.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "A glue.",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Classroom Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-v10",
-      "statement": "Correct PP paragraph: I have visited the museum. I have been there twice.",
-      "context": "In Colegio Fontán de Tunja, students write a paragraph.",
+      "id": "CO-ING-6-2026-W06-classroom-objects-009-v1",
+      "statement": "We eat lunch in the school ________.",
+      "context": "Scenario about classroom-objects in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "I visit the museum. I go there.",
+          "text": "bus",
           "is_correct": false,
-          "feedback": "Present simple, not PP."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "I have visited the museum. I have been there twice.",
+          "text": "cafeteria",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "I have visit the museum.",
+          "text": "library",
           "is_correct": false,
-          "feedback": "Visit -> visited."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "I have visited last week.",
+          "text": "office",
           "is_correct": false,
-          "feedback": "\"Last week\" con PP."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "PP paragraph: past participles correctos, sin tiempos específicos.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Classroom Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-v11",
-      "statement": "Which auxiliary for \"she\" in PP?",
-      "context": "In Colegio Champagnat de Pasto, review have/has.",
+      "id": "CO-ING-6-2026-W06-classroom-objects-010-v1",
+      "statement": "You find many books in the school ________.",
+      "context": "Scenario about classroom-objects in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "have",
-          "is_correct": false,
-          "feedback": "Have para I/you/we/they."
+          "text": "library",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "B",
-          "text": "has",
-          "is_correct": true,
-          "feedback": "Correcto. He/she/it -> has."
+          "text": "lab",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "do",
+          "text": "closet",
           "is_correct": false,
-          "feedback": "Present simple."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "did",
+          "text": "playground",
           "is_correct": false,
-          "feedback": "Past simple."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Conjugación: I/You/We/They + have. He/She/It + has.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
-      "difficulty": "3",
+      "correct_answer": "A",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Classroom Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W06-present-perfect-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

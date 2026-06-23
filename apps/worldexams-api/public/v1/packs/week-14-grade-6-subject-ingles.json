@@ -8,844 +8,464 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W14-conditionals-type-0-1-001-MASTERY-v1",
-      "statement": "What tenses in zero conditional?",
-      "context": "At Liceo de la Sabana de San Andrés, teacher introduces conditionals.",
+      "id": "CO-ING-6-2026-W14-describing-people-personality-001-v1",
+      "statement": "This is a review question about describing-people-personality.",
+      "context": "Scenario about describing-people-personality in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "present simple + will + verb",
+          "text": "Option D",
           "is_correct": false,
-          "feedback": "First conditional."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "present simple + present simple",
-          "is_correct": true,
-          "feedback": "Correcto. Zero = verdades universales."
+          "text": "Option B",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "past simple + would + verb",
+          "text": "Option C",
           "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "past perfect + would have",
-          "is_correct": false,
-          "feedback": "Third conditional."
+          "text": "Option A (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Zero conditional: If + present simple, present simple. \"If you heat ice, it melts.\"\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to remember the topic of Describing People: Personality at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W14-describing-people-personality-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W14-conditionals-type-0-1-001-MASTERY-v2",
-      "statement": "Structure of first conditional?",
-      "context": "In Colegio INEM de Bucaramanga, first conditional structure.",
+      "id": "CO-ING-6-2026-W14-describing-people-personality-002-v1",
+      "statement": "Select the correct A2 level use for describing-people-personality.",
+      "context": "Scenario about describing-people-personality in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "If + present simple, present simple",
+          "text": "Structure 4",
           "is_correct": false,
-          "feedback": "Zero."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If + present simple, will + base verb",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Structure 3",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "If + past simple, would + verb",
+          "text": "Structure 2",
           "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "If + will + verb, present simple",
-          "is_correct": false,
-          "feedback": "Will no va en cláusula if."
+          "text": "Structure 1 (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "First: if + presente simple, will + base verb. \"If it rains, I will stay home.\"\r\n\r\n---",
-      "difficulty": "3",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to remember the topic of Describing People: Personality at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W14-describing-people-personality-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W14-conditionals-type-0-1-001-MASTERY-v3",
-      "statement": "Complete: \"If you heat water to 100°C, it boils.\"",
-      "context": "At Colegio San José de Cali, zero conditional practice.",
+      "id": "CO-ING-6-2026-W14-describing-people-personality-003-v1",
+      "statement": "Identify the appropriate vocabulary for describing-people-personality.",
+      "context": "Scenario about describing-people-personality in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "will heat / will boil",
+          "text": "Word 4",
           "is_correct": false,
-          "feedback": "No will in zero."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "heat / boils",
+          "text": "Word 1 (Correct)",
           "is_correct": true,
-          "feedback": "Correcto."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "C",
-          "text": "heated / boiled",
+          "text": "Word 2",
           "is_correct": false,
-          "feedback": "Past tense."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "are heating / is boiling",
+          "text": "Word 3",
           "is_correct": false,
-          "feedback": "Continuous."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Hecho científico con zero conditional.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W14-conditionals-type-0-1-001-MASTERY-v4",
-      "statement": "Complete: \"If she studies, she will pass the exam.\"",
-      "context": "In Colegio Champagnat de Cali, first conditional practice.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "will study / passes",
-          "is_correct": false,
-          "feedback": "Will en cláusula if."
-        },
-        {
-          "letter": "B",
-          "text": "studies / passes",
-          "is_correct": false,
-          "feedback": "Zero, no aplica."
-        },
-        {
-          "letter": "C",
-          "text": "studies / will pass",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "D",
-          "text": "studied / would pass",
-          "is_correct": false,
-          "feedback": "Second conditional."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "\"If she studies, she will pass\" = Si estudia, pasará.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W14-conditionals-type-0-1-001-MASTERY-v5",
-      "statement": "Correct first conditional about visiting San Agustín:",
-      "context": "Students at Liceo de la Sabana de Cali write conditionals.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "If you will visit, you see history.",
-          "is_correct": false,
-          "feedback": "Will en if."
-        },
-        {
-          "letter": "B",
-          "text": "If you visit, you will learn a lot.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "If you visited, you would learn.",
-          "is_correct": false,
-          "feedback": "Second conditional."
-        },
-        {
-          "letter": "D",
-          "text": "If you visit, you learned.",
-          "is_correct": false,
-          "feedback": "Past simple al final."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "First conditional: if + present, will + base verb.\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to understand the topic of Describing People: Personality at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W14-describing-people-personality-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W14-conditionals-type-0-1-001-MASTERY-v6",
-      "statement": "What does \"unless\" mean? \"Unless you study, you will fail.\"",
-      "context": "At Gimnasio Los Pinares de Cúcuta, unless practice.",
+      "id": "CO-ING-6-2026-W14-describing-people-personality-004-v1",
+      "statement": "Complete the sentence about describing-people-personality.",
+      "context": "Scenario about describing-people-personality in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Even if",
+          "text": "Phrase C",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "If not",
-          "is_correct": true,
-          "feedback": "Correcto. Unless = if not."
+          "text": "Phrase B",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Because",
-          "is_correct": false,
-          "feedback": "No."
+          "text": "Phrase A (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "After",
+          "text": "Phrase D",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "\"Unless\" = \"if not\" (a menos que). \"Unless you study\" = \"If you don't study.\"\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to understand the topic of Describing People: Personality at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W14-describing-people-personality-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W14-describing-people-personality-005-v1",
+      "statement": "What is the best way to express describing-people-personality?",
+      "context": "Scenario about describing-people-personality in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incorrect way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "That way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Other way",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "This way (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to apply the topic of Describing People: Personality at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W14-describing-people-personality-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W14-conditionals-type-0-1-001-MASTERY-v7",
-      "statement": "Zero vs First conditional difference?",
-      "context": "In I.E. La Salle de Manizales, compare conditionals.",
+      "id": "CO-ING-6-2026-W14-describing-people-personality-006-v1",
+      "statement": "Find the error in this describing-people-personality sentence.",
+      "context": "Scenario about describing-people-personality in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Zero uses will.",
+          "text": "Wrong error",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "Zero = always true. First = possible future.",
-          "is_correct": true,
-          "feedback": "Correcto."
+          "text": "Different error",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Same thing.",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "D",
-          "text": "Zero is for past.",
-          "is_correct": false,
-          "feedback": "No."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Zero: verdades universales. First: posibilidades futuras reales.\r\n\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación",
-      "bundle_id": "CO-ING-6-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W14-conditionals-type-0-1-001-MASTERY-v8",
-      "statement": "Which sentence has an error?",
-      "context": "At Liceo de la Sabana de Medellín, find error.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "If it rains, I will take an umbrella.",
-          "is_correct": false,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "If you heat water, it boils.",
-          "is_correct": false,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "If she will come, she will visit.",
+          "text": "The error is here (Correct)",
           "is_correct": true,
-          "feedback": "Will en cláusula if."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "If you don't eat, you get hungry.",
+          "text": "No error",
           "is_correct": false,
-          "feedback": "Correcto."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Error: \"will\" en la cláusula if. CORRECTO: \"If she comes, she will visit.\"\r\n\r\n---",
+      "explanation": "This question evaluates the student's ability to apply the topic of Describing People: Personality at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W14-describing-people-personality-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W14-describing-people-personality-007-v1",
+      "statement": "Match the term with the definition of describing-people-personality.",
+      "context": "Scenario about describing-people-personality in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Irrelevant",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "Opposite",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Non-matching",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "D",
+          "text": "Matching term (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to apply the topic of Describing People: Personality at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W14-describing-people-personality-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-6-2026-W14-describing-people-personality-008-v1",
+      "statement": "Choose the synonym for a word related to describing-people-personality.",
+      "context": "Scenario about describing-people-personality in a Colombian school or city context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "B",
+          "text": "Homonym",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        },
+        {
+          "letter": "C",
+          "text": "Synonym (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
+        },
+        {
+          "letter": "D",
+          "text": "Unrelated",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Describing People: Personality at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W14-describing-people-personality-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W14-conditionals-type-0-1-001-MASTERY-v9",
-      "statement": "\"If you eat too much sugar, you have problems.\" Type?",
-      "context": "In Liceo de la Sabana de Cali, identify type.",
+      "id": "CO-ING-6-2026-W14-describing-people-personality-009-v1",
+      "statement": "Which of these belongs to describing-people-personality?",
+      "context": "Scenario about describing-people-personality in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "Zero conditional",
-          "is_correct": true,
-          "feedback": "Correcto. Verdad general."
+          "text": "Not this one",
+          "is_correct": false,
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "First conditional",
+          "text": "Neither",
           "is_correct": false,
-          "feedback": "No will."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Second conditional",
+          "text": "Both",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "D",
-          "text": "Third conditional",
-          "is_correct": false,
-          "feedback": "No."
+          "text": "This one (Correct)",
+          "is_correct": true,
+          "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Es zero porque expresa una verdad general, no una posibilidad futura.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "This question evaluates the student's ability to analyze the topic of Describing People: Personality at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W14-conditionals-type-0-1-001-MASTERY-v10",
-      "statement": "Correct first conditional about visiting Catedral de Sal tomorrow:",
-      "context": "At Colegio Fontán de Neiva, create sentence.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "If you visit, you see the views.",
-          "is_correct": false,
-          "feedback": "Zero, not first."
-        },
-        {
-          "letter": "B",
-          "text": "If you visit tomorrow, you will enjoy it.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "C",
-          "text": "If you visited, you would enjoy it.",
-          "is_correct": false,
-          "feedback": "Second cond."
-        },
-        {
-          "letter": "D",
-          "text": "If you will visit, you will enjoy.",
-          "is_correct": false,
-          "feedback": "Will en if."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "First conditional: if + present + will + base verb.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Indagación",
-      "bundle_id": "CO-ING-6-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W14-review-unit2-001-MASTERY-v1",
-      "statement": "My mother's husband is my ___.",
-      "context": "In Bogotá.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "father",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "uncle",
-          "is_correct": false,
-          "feedback": "Incorrecto. Tío = hermano de papá."
-        },
-        {
-          "letter": "C",
-          "text": "grandfather",
-          "is_correct": false,
-          "feedback": "Incorrecto. Padre de papá."
-        },
-        {
-          "letter": "D",
-          "text": "brother",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Mother's husband = father (padre). Mother + father = parents.\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W14-review-unit2-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W14-review-unit2-001-MASTERY-v2",
-      "statement": "This is Juan. ___ phone is new.",
-      "context": "In Medellín.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "His",
-          "is_correct": true,
-          "feedback": "Correcto. Juan = he."
-        },
-        {
-          "letter": "B",
-          "text": "Her",
-          "is_correct": false,
-          "feedback": "Incorrecto. Her para mujer."
-        },
-        {
-          "letter": "C",
-          "text": "My",
-          "is_correct": false,
-          "feedback": "Incorrecto. My para quien habla."
-        },
-        {
-          "letter": "D",
-          "text": "Your",
-          "is_correct": false,
-          "feedback": "Incorrecto. Your para segunda persona."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "His (de él), her (de ella), my (mi), your (tu), our (nuestro), their (de ellos).\r\n\r\n---",
-      "difficulty": "1",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W14-review-unit2-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W14-review-unit2-001-MASTERY-v3",
-      "statement": "Which adjective describes height?",
-      "context": "In Cali.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Tall",
-          "is_correct": true,
-          "feedback": "Correcto. Tall = alto."
-        },
-        {
-          "letter": "B",
-          "text": "Curly",
-          "is_correct": false,
-          "feedback": "Incorrecto. Curly es para cabello."
-        },
-        {
-          "letter": "C",
-          "text": "Young",
-          "is_correct": false,
-          "feedback": "Incorrecto. Young es edad."
-        },
-        {
-          "letter": "D",
-          "text": "Slim",
-          "is_correct": false,
-          "feedback": "Incorrecto. Slim es complexión."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Adjectives: tall/short (height), curly/straight (hair), young/old (age), slim/fat (body).\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W14-review-unit2-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W14-review-unit2-001-MASTERY-v4",
-      "statement": "My father's brother is my ___.",
-      "context": "In Barranquilla.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "uncle",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "cousin",
-          "is_correct": false,
-          "feedback": "Incorrecto. Cousin = hijo del tío."
-        },
-        {
-          "letter": "C",
-          "text": "nephew",
-          "is_correct": false,
-          "feedback": "Incorrecto. Nephew = hijo del hermano."
-        },
-        {
-          "letter": "D",
-          "text": "grandfather",
-          "is_correct": false,
-          "feedback": "Incorrecto. Abuelo = padre del padre."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Family tree: father's brother = uncle. Father's sister = aunt. Father's father = grandfather.\r\n\r\n---",
-      "difficulty": "2",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W14-review-unit2-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W14-review-unit2-001-MASTERY-v5",
-      "statement": "She ___ long straight hair.",
-      "context": "In Bucaramanga.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "has",
-          "is_correct": true,
-          "feedback": "Correcto. She has."
-        },
-        {
-          "letter": "B",
-          "text": "have",
-          "is_correct": false,
-          "feedback": "Incorrecto. Have con I/you/we/they."
-        },
-        {
-          "letter": "C",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrecto. Is no expresa posesión."
-        },
-        {
-          "letter": "D",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Describing with have/has: I have, she has, they have. \"She has long straight hair.\"\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W14-review-unit2-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W14-review-unit2-001-MASTERY-v6",
-      "statement": "The students have books. Those are ___ books.",
-      "context": "In Cartagena.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "their",
-          "is_correct": true,
-          "feedback": "Correcto. The students = they."
-        },
-        {
-          "letter": "B",
-          "text": "his",
-          "is_correct": false,
-          "feedback": "Incorrecto. Singular."
-        },
-        {
-          "letter": "C",
-          "text": "her",
-          "is_correct": false,
-          "feedback": "Incorrecto. Singular femenino."
-        },
-        {
-          "letter": "D",
-          "text": "its",
-          "is_correct": false,
-          "feedback": "Incorrecto. Para objetos."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "\"The students\" = they → their. Their books = sus libros (de ellos).\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W14-review-unit2-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W14-review-unit2-001-MASTERY-v7",
-      "statement": "\"What does she look like?\" \"She ___.\"",
-      "context": "In Pereira.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "is tall and thin",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "has tall",
-          "is_correct": false,
-          "feedback": "Incorrecto. Tall necesita is."
-        },
-        {
-          "letter": "C",
-          "text": "is long hair",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Is long hair\" no tiene sentido."
-        },
-        {
-          "letter": "D",
-          "text": "have brown eyes",
-          "is_correct": false,
-          "feedback": "Incorrecto. She → has."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "\"What does he/she look like?\" = ¿cómo es físicamente? Responde con is + adj o has + noun.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W14-review-unit2-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W14-review-unit2-001-MASTERY-v8",
-      "statement": "This is ___ house. (de María)",
-      "context": "In Manizales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "María's",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "María",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sin 's no es posesivo."
-        },
-        {
-          "letter": "C",
-          "text": "Marías",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "de María",
-          "is_correct": false,
-          "feedback": "Incorrecto. En inglés no se usa \"de\"."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Possessive 's: name + 's + object. María's house. Juan's book.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W14-review-unit2-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-6-2026-W14-review-unit2-001-MASTERY-v9",
-      "statement": "Which sentence is CORRECT?",
-      "context": "In Cúcuta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "My sister's name is Ana.",
-          "is_correct": true,
-          "feedback": "Correcto."
-        },
-        {
-          "letter": "B",
-          "text": "He name is Ana.",
-          "is_correct": false,
-          "feedback": "Incorrecto. He → hombre. Ana es mujer."
-        },
-        {
-          "letter": "C",
-          "text": "My sister name is Ana.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Falta 's."
-        },
-        {
-          "letter": "D",
-          "text": "My sister's name are Ana.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Name es singular → is."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Possessive: sister's name (singular), sisters' names (plural). Verb: name is (singular).\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W14-review-unit2-001-MASTERY-bundle",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W14-describing-people-personality-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     },
     {
-      "id": "CO-ING-6-2026-W14-review-unit2-001-MASTERY-v10",
-      "statement": "I have two sisters. ___ names are Luisa and Elena.",
-      "context": "In Ibagué.",
+      "id": "CO-ING-6-2026-W14-describing-people-personality-010-v1",
+      "statement": "Predict the next word in the describing-people-personality context.",
+      "context": "Scenario about describing-people-personality in a Colombian school or city context.",
       "options": [
         {
           "letter": "A",
-          "text": "His",
+          "text": "Maybe",
           "is_correct": false,
-          "feedback": "Incorrecto. His para hombre."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "B",
-          "text": "Her",
+          "text": "Wrong prediction",
           "is_correct": false,
-          "feedback": "Incorrecto. Her singular."
+          "feedback": "Incorrect. Please review the topic."
         },
         {
           "letter": "C",
-          "text": "Their",
+          "text": "Correct prediction",
           "is_correct": true,
-          "feedback": "Correcto. Two sisters = they."
+          "feedback": "Correct! Well done."
         },
         {
           "letter": "D",
-          "text": "Its",
+          "text": "Impossible",
           "is_correct": false,
-          "feedback": "Incorrecto. Its para objetos."
+          "feedback": "Incorrect. Please review the topic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "\"I have two sisters. Their names are Luisa and Elena.\" Their = de ellas.\r\n\r\n---\r\n\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "7",
+      "explanation": "This question evaluates the student's ability to evaluate the topic of Describing People: Personality at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y Representación",
-      "bundle_id": "CO-ING-6-2026-W14-review-unit2-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-6-2026-W14-describing-people-personality-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "global"
     }
   ]
 }

@@ -11,13 +11,11 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
-alignment: "ICFES Saber 11 / CEFR B2"
-cefr_level: "B2"
+alignment: "DBA MEN Colombia"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-
 # Bundle Mastery: Review P3 - Grade 10
 
 This bundle provides a cumulative review of Period 3 (W21-W29), focusing on connectors, relative clauses, reported speech (questions/commands), modals of advice, cleft sentences, comparisons, and phrasal verbs.

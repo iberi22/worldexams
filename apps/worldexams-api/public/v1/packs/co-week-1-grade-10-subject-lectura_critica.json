@@ -8,844 +8,454 @@
   },
   "questions": [
     {
-      "id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-v1",
-      "statement": "**Enunciado:** Cual de las siguientes obras fue escrita por Homero?\r\n**Options:**",
-      "context": "En clase de espanol en el Colegio La Presentation de Manizales, se estudia la literatura clasica universal.",
+      "id": "CO-LEC-10-2026-W01-textos-expositivos-y-argumentativos-001-MASTERY-v1",
+      "statement": "Según el texto sobre la Amazonía colombiana, ¿qué institución reporta la pérdida de cobertura de humedales?",
+      "context": "",
       "options": [
         {
           "letter": "A",
-          "text": "La Divina Comedia",
+          "text": "IDEAM",
           "is_correct": false,
-          "feedback": "Incorrecto. La Divina Comedia fue escrita por Dante Alighieri en el siglo XIV."
+          "feedback": ""
         },
         {
           "letter": "B",
-          "text": "La Iliada",
+          "text": "SINCHI",
           "is_correct": true,
-          "feedback": "Correcto. La Iliada y la Odisea son las dos grandes epopeyas atribuidas a Homero, de la Antigua Grecia."
+          "feedback": ""
         },
         {
           "letter": "C",
-          "text": "El Quijote",
+          "text": "MinAmbiente",
           "is_correct": false,
-          "feedback": "Incorrecto. Don Quijote de la Mancha fue escrito por Miguel de Cervantes Saavedra en 1605."
+          "feedback": ""
         },
         {
           "letter": "D",
-          "text": "Hamlet",
+          "text": "FAO",
           "is_correct": false,
-          "feedback": "Incorrecto. Hamlet fue escrito por William Shakespeare en el siglo XVII."
+          "feedback": ""
         }
       ],
       "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "3",
+      "explanation": "El SINCHI es la institución especializada en la Amazonía colombiana que reporta estos datos.\r\n\r\n---",
+      "difficulty": "1",
       "images": [],
       "tags": [],
-      "bloom": "Remember | **ICFES:** Identificar y entender contenidos locales",
-      "icfes_type": "Identificar y entender contenidos locales",
-      "bundle_id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-10-2026-W01-textos-expositivos-y-argumentativos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 10,
+      "country": "co"
     },
     {
-      "id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-v2",
-      "statement": "**Enunciado:** La parte de la narracion donde se presenta el conflicto principal se llama:\r\n**Options:**",
-      "context": "Se analiza un texto narrativo en clase.",
+      "id": "CO-LEC-10-2026-W01-textos-expositivos-y-argumentativos-001-MASTERY-v2",
+      "statement": "¿Cuántas áreas protegidas nacionales tiene Colombia continental?",
+      "context": "",
       "options": [
         {
           "letter": "A",
-          "text": "Introduccion",
+          "text": "45",
           "is_correct": false,
-          "feedback": "Incorrecto. La introduccion presenta personajes y contexto."
+          "feedback": ""
         },
         {
           "letter": "B",
-          "text": "Nudo",
+          "text": "59",
           "is_correct": true,
-          "feedback": "Correcto. El nudo es la parte donde se desarrolla el conflicto principal de la historia."
+          "feedback": ""
         },
         {
           "letter": "C",
-          "text": "Desenlace",
+          "text": "72",
           "is_correct": false,
-          "feedback": "Incorrecto. El desenlace es la resolucion del conflicto."
+          "feedback": ""
         },
         {
           "letter": "D",
-          "text": "Epilogo",
+          "text": "88",
           "is_correct": false,
-          "feedback": "Incorrecto. El epilogo es una seccion final que cierra la historia."
+          "feedback": ""
         }
       ],
       "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "3",
+      "explanation": "Colombia cuenta con 59 áreas protegidas nacionales que cubren el 15 % del territorio.\r\n\r\n---",
+      "difficulty": "1",
       "images": [],
       "tags": [],
-      "bloom": "Remember | **ICFES:** Identificar y entender contenidos locales",
-      "icfes_type": "Identificar y entender contenidos locales",
-      "bundle_id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-10-2026-W01-textos-expositivos-y-argumentativos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 10,
+      "country": "co"
     },
     {
-      "id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-v3",
-      "statement": "**Enunciado:** Que figura literaria predomina en este fragmento?\r\n**Options:**",
-      "context": "Texto: \"El Quijote creia firmemente que los molinos de viento eran gigantes descomunales. Con su lanza en ristre, arremetio contra ellos, sin importarle las advertencias de Sancho.\"",
+      "id": "CO-LEC-10-2026-W01-textos-expositivos-y-argumentativos-001-MASTERY-v3",
+      "statement": "Los páramos proveen el 70 % del agua dulce del país. Sin embargo, la minería amenaza su ecosistema. ¿Qué función cumple 'sin embargo'?",
+      "context": "",
       "options": [
         {
           "letter": "A",
-          "text": "Metafora",
+          "text": "Sumar información",
           "is_correct": false,
-          "feedback": "Incorrecto. No hay una comparacion implicita."
+          "feedback": ""
         },
         {
           "letter": "B",
-          "text": "Hiperbole",
-          "is_correct": false,
-          "feedback": "Incorrecto. Aunque puede haber exageracion, la figura principal es otra."
+          "text": "Introducir una oposición o contraste",
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "C",
-          "text": "Ironia dramatica",
-          "is_correct": true,
-          "feedback": "Correcto. El lector sabe que son molinos, pero don Quijote cree que son gigantes. Hay discrepancia entre lo que sabe el lector y lo que sabe el personaje."
+          "text": "Indicar consecuencia",
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
-          "text": "Personificacion",
+          "text": "Ordenar cronológicamente",
           "is_correct": false,
-          "feedback": "Incorrecto. No se atribuyen cualidades humanas a objetos inanimados."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand | **ICFES:** Identificar y entender contenidos locales",
-      "icfes_type": "Identificar y entender contenidos locales",
-      "bundle_id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-v4",
-      "statement": "**Enunciado:** Segun el texto, cual es el principal cambio en la comunicacion?\r\n**Options:**",
-      "context": "Se lee el siguiente parrafo de un articulo: \"Las redes sociales han transformado la comunicacion interpersonal. Mientras que antes la comunicacion era mayoritariamente sincronica y presencial, hoy predomina la asincronica y mediada por pantallas.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La comunicacion ahora es mas cara.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El texto no menciona costos."
-        },
-        {
-          "letter": "B",
-          "text": "Paso de ser sincronica/presencial a asincronica/mediada.",
-          "is_correct": true,
-          "feedback": "Correcto. El texto contrasta explicitamente la comunicacion anterior (sincronica y presencial) con la actual (asincronica y mediada por pantallas)."
-        },
-        {
-          "letter": "C",
-          "text": "Ahora todos se comunican mas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El texto habla de cambios en la forma, no en la cantidad."
-        },
-        {
-          "letter": "D",
-          "text": "La comunicacion presencial ha desaparecido.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El texto dice \"predomina\", no desaparece."
+          "feedback": ""
         }
       ],
       "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "3",
+      "explanation": "Es un conector adversativo que contrasta la importancia del páramo con la amenaza minera.\r\n\r\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand | **ICFES:** Comprender el sentido global del texto",
-      "icfes_type": "Comprender el sentido global del texto",
-      "bundle_id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-10-2026-W01-textos-expositivos-y-argumentativos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 10,
+      "country": "co"
     },
     {
-      "id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-v5",
-      "statement": "**Enunciado:** Si aplicamos esta postura al analisis de un mito griego, que conclusion se derivaria?\r\n**Options:**",
-      "context": "Texto: \"El racionalismo cartesiano postula que la razon es la unica fuente de conocimiento valido. 'Pienso, luego existo' resume esta postura.\"",
+      "id": "CO-LEC-10-2026-W01-textos-expositivos-y-argumentativos-001-MASTERY-v4",
+      "statement": "Un texto expositivo sobre Zonas Económicas Especiales: (1) Definición, (2) Antecedentes, (3) Beneficios. ¿Qué estructura tiene?",
+      "context": "",
       "options": [
         {
           "letter": "A",
-          "text": "El mito es valido porque explica fenomenos naturales.",
+          "text": "Causa-efecto",
           "is_correct": false,
-          "feedback": "Incorrecto. Desde el racionalismo, el mito no es conocimiento racional."
+          "feedback": ""
         },
         {
           "letter": "B",
-          "text": "El mito no seria conocimiento valido porque no se basa en la razon.",
+          "text": "Secuencia temática enumerativa",
           "is_correct": true,
-          "feedback": "Correcto. Para el racionalismo cartesiano, solo el conocimiento derivado de la razon es valido. Los mitos pertenecen al ambito de la tradicion o la fe, no de la razon."
+          "feedback": ""
         },
         {
           "letter": "C",
-          "text": "El mito es superior a la razon.",
+          "text": "Comparación-contraste",
           "is_correct": false,
-          "feedback": "Incorrecto. El racionalismo defiende lo contrario."
+          "feedback": ""
         },
         {
           "letter": "D",
-          "text": "La razon y el mito son complementarios.",
+          "text": "Problema-solución",
           "is_correct": false,
-          "feedback": "Incorrecto. Descartes separa radicalmente la razon de otras formas de conocimiento."
+          "feedback": ""
         }
       ],
       "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "3",
+      "explanation": "La enumeración de temas es típica de textos expositivos que desglosan un tema.\r\n\r\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Apply | **ICFES:** Comprender el sentido global del texto",
-      "icfes_type": "Comprender el sentido global del texto",
-      "bundle_id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-10-2026-W01-textos-expositivos-y-argumentativos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 10,
+      "country": "co"
     },
     {
-      "id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-v6",
-      "statement": "**Enunciado:** Cual es la tesis central del texto sobre la tragedia griega?\r\n**Options:**",
-      "context": "Texto: \"La tragedia griega, desde Esquilo hasta Euripides, explora la tension entre el destino (moira) y la libertad humana. Edipo Rey es el ejemplo mas claro: el heroe intenta escapar de su destino y, al hacerlo, lo cumple.\"",
+      "id": "CO-LEC-10-2026-W01-textos-expositivos-y-argumentativos-001-MASTERY-v5",
+      "statement": "Hidroituango genera el 17 % de la energía nacional. ¿Cuál es el propósito principal de este texto?",
+      "context": "",
       "options": [
         {
           "letter": "A",
-          "text": "Los heroes griegos siempre triunfan.",
+          "text": "Criticar retrasos",
           "is_correct": false,
-          "feedback": "Incorrecto. En la tragedia los heroes suelen caer."
+          "feedback": ""
         },
         {
           "letter": "B",
-          "text": "El destino no existe en la cultura griega.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El texto dice explicitamente que hay tension entre destino y libertad."
+          "text": "Informar objetivamente",
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "C",
-          "text": "La tragedia explora la paradoja entre el destino y la voluntad humana.",
-          "is_correct": true,
-          "feedback": "Correcto. El texto propone que la tragedia griega gira en torno a la tension entre el destino inexorable y la libertad de eleccion del heroe."
+          "text": "Promover energía hidroeléctrica",
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
-          "text": "Edipo Rey es la unica tragedia griega importante.",
+          "text": "Narrar la construcción",
           "is_correct": false,
-          "feedback": "Incorrecto. El texto menciona a varios autores."
+          "feedback": ""
         }
       ],
-      "correct_answer": "C",
-      "explanation": "",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "Presenta datos sin juicios de valor; propósito expositivo-informativo.\r\n\r\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Analyze | **ICFES:** Reflexionar sobre el contenido",
-      "icfes_type": "Reflexionar sobre el contenido",
-      "bundle_id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-10-2026-W01-textos-expositivos-y-argumentativos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 10,
+      "country": "co"
     },
     {
-      "id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-v7",
-      "statement": "**Enunciado:** Este fragmento es un ejemplo de:\r\n**Options:**",
-      "context": "Un estudiante analiza el siguiente fragmento de \"Cien anos de soledad\": \"El mundo era tan reciente, que muchas cosas carecian de nombre, y para mencionarlas habia que senalarlas con el dedo.\"",
+      "id": "CO-LEC-10-2026-W01-textos-expositivos-y-argumentativos-001-MASTERY-v6",
+      "statement": "¿Qué esquema organizativo es más adecuado para un texto expositivo sobre el sistema de salud?",
+      "context": "",
       "options": [
         {
           "letter": "A",
-          "text": "Realismo magico.",
-          "is_correct": true,
-          "feedback": "Correcto. Gabriel Garcia Marquez combina una realidad primigenia con elementos fantasticos (el mundo reciente con cosas sin nombre) en un estilo que caracteriza al realismo magico."
+          "text": "Anécdota-Opinión-Reflexión",
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "B",
-          "text": "Literatura gotica.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No hay elementos de terror o oscuridad."
+          "text": "Definición-Datos-Resumen",
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "C",
-          "text": "Neoclasicismo.",
+          "text": "Pregunta retórica-Poema-ACCIÓN",
           "is_correct": false,
-          "feedback": "Incorrecto. El neoclasicismo se caracteriza por la mesura y las reglas clasicas."
+          "feedback": ""
         },
         {
           "letter": "D",
-          "text": "Vanguardismo.",
+          "text": "Chiste-Diálogo-Moraleja",
           "is_correct": false,
-          "feedback": "Incorrecto. Aunque rompe convenciones, el estilo de Garcia Marquez se clasifica como realismo magico."
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Definición y contexto, desarrollo con datos, cierre con síntesis es la estructura expositiva clásica.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-10-2026-W01-textos-expositivos-y-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-10-2026-W01-textos-expositivos-y-argumentativos-001-MASTERY-v7",
+      "statement": "La Contraloría: 1 de cada 4 pesos de salud no se ejecutó por falta de capacidad administrativa en EPS. ¿Qué relación inferencial hay?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "EPS tienen demasiados pacientes",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Falta de capacidad impidió ejecutar fondos",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El gobierno no giró recursos",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Hospitales bloquearon pagos",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Relación causal directa: falta de capacidad administrativa → no ejecución presupuestal.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-10-2026-W01-textos-expositivos-y-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-10-2026-W01-textos-expositivos-y-argumentativos-001-MASTERY-v8",
+      "statement": "Un informe de la Defensoría presenta: cifra de desplazados → causas → consecuencias → recomendaciones. ¿Qué patrón predomina?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cronológico",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Problema-solución con datos",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Espacial",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Comparativo",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Problema → análisis → soluciones: patrón problema-solución.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-10-2026-W01-textos-expositivos-y-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-10-2026-W01-textos-expositivos-y-argumentativos-001-MASTERY-v9",
+      "statement": "La reforma pensional es necesaria porque el 67 % no cotiza. Sin cambios, el fondo colapsará en 2035. ¿Fortaleza del argumento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usa datos cuantitativos verificables",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Apela a emociones",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Presenta opiniones de expertos",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Incluye experiencias personales",
+          "is_correct": false,
+          "feedback": ""
         }
       ],
       "correct_answer": "A",
-      "explanation": "",
+      "explanation": "Datos concretos (67 % de no cotizantes, fecha de colapso) sustentan la urgencia.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply | **ICFES:** Identificar y entender contenidos locales",
-      "icfes_type": "Identificar y entender contenidos locales",
-      "bundle_id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-10-2026-W01-textos-expositivos-y-argumentativos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 10,
+      "country": "co"
     },
     {
-      "id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-v8",
-      "statement": "**Enunciado:** Que efecto produce este cambio de narrador?\r\n**Options:**",
-      "context": "Texto: \"El narrador de La Odisea cuenta las aventuras de Ulises en tercera persona omnisciente. Sin embargo, en varios cantos, Ulises mismo narra sus propias historias a los feacios, convirtiendose en narrador en primera persona.\"",
+      "id": "CO-LEC-10-2026-W01-textos-expositivos-y-argumentativos-001-MASTERY-v10",
+      "statement": "Tres artículos sobre el metro de Bogotá: El Tiempo (describe avances), Semana (critica), Alcaldía (destaca). ¿Cuál es más objetivo?",
+      "context": "",
       "options": [
         {
           "letter": "A",
-          "text": "Confunde al lector sin proposito.",
+          "text": "Alcaldía",
           "is_correct": false,
-          "feedback": "Incorrecto. El cambio tiene un proposito narrativo claro."
+          "feedback": ""
         },
         {
           "letter": "B",
-          "text": "Hace que la historia sea menos confiable.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No necesariamente."
+          "text": "El Tiempo",
+          "is_correct": true,
+          "feedback": ""
         },
         {
           "letter": "C",
-          "text": "Permite contrastar la vision externa con la perspectiva subjetiva del heroe.",
-          "is_correct": true,
-          "feedback": "Correcto. La alternancia entre narrador omnisciente y la voz de Ulises enriquece la narracion al ofrecer perspectivas complementarias."
+          "text": "Semana",
+          "is_correct": false,
+          "feedback": ""
         },
         {
           "letter": "D",
-          "text": "Reduce la tension dramatica.",
+          "text": "Todos igual",
           "is_correct": false,
-          "feedback": "Incorrecto. Al contrario, puede aumentarla al hacer mas intima la narracion."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze | **ICFES:** Reflexionar sobre el contenido",
-      "icfes_type": "Reflexionar sobre el contenido",
-      "bundle_id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-v9",
-      "statement": "**Enunciado:** Cual es la ensenanza principal del mito?\r\n**Options:**",
-      "context": "Texto: \"El mito de la caverna de Platon describe a prisioneros que solo ven sombras en la pared y creen que esa es la realidad. Uno de ellos escapa, ve el mundo real, y al regresar, los demas no le creen.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "No se debe escapar de la prision.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El mensaje es filosofico, no literal."
-        },
-        {
-          "letter": "B",
-          "text": "Las sombras son la unica realidad.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Las sombras representan la ignorancia."
-        },
-        {
-          "letter": "C",
-          "text": "El conocimiento requiere salir de la zona de confort y enfrentar el rechazo.",
-          "is_correct": true,
-          "feedback": "Correcto. La alegoria representa el viaje del conocimiento: salir de la ignorancia, ver la verdad y la dificultad de compartirla."
-        },
-        {
-          "letter": "D",
-          "text": "La filosofia es peligrosa.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Platon defiende el valor de la filosofia."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply | **ICFES:** Comprender el sentido global del texto",
-      "icfes_type": "Comprender el sentido global del texto",
-      "bundle_id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-v10",
-      "statement": "**Enunciado:** En el texto, \"segundo debate\" corresponde a una etapa del:\r\n**Options:**",
-      "context": "Se analiza una noticia: \"El Congreso de la Republica aprobo en segundo debate el proyecto de ley que regula la inteligencia artificial en Colombia, con 85 votos a favor y 32 en contra.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Proceso electoral.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El Congreso no esta en elecciones."
-        },
-        {
-          "letter": "B",
-          "text": "Proceso legislativo.",
-          "is_correct": true,
-          "feedback": "Correcto. El proceso legislativo en Colombia consta de cuatro debates: dos en cada camara (Senado y Camara). \"Segundo debate\" indica que paso por una camara y ahora va a la otra."
-        },
-        {
-          "letter": "C",
-          "text": "Proceso judicial.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El Congreso legisla, no juzga."
-        },
-        {
-          "letter": "D",
-          "text": "Proceso administrativo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es un tramite administrativo."
+          "feedback": ""
         }
       ],
       "correct_answer": "B",
-      "explanation": "",
+      "explanation": "El Tiempo describe sin emitir juicios evidentes, acercándose más a la objetividad informativa.\r\n\r\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand | **ICFES:** Identificar y entender contenidos locales",
-      "icfes_type": "Identificar y entender contenidos locales",
-      "bundle_id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura Crítica",
+      "bundle_id": "CO-LEC-10-2026-W01-textos-expositivos-y-argumentativos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-v11",
-      "statement": "**Enunciado:** Que tipo de argumento utiliza principalmente el autor?\r\n**Options:**",
-      "context": "Texto: \"El Bullying o acoso escolar tiene consecuencias psicologicas profundas en las victimas. Estudios recientes muestran que los efectos pueden persistir hasta la edad adulta, manifestandose en ansiedad, depresion y baja autoestima.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Argumento de autoridad.",
-          "is_correct": false,
-          "feedback": "Parcialmente correcto, pero el texto cita \"estudios recientes\" sin especificar."
-        },
-        {
-          "letter": "B",
-          "text": "Argumento emotivo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El tono es informativo, no emotivo."
-        },
-        {
-          "letter": "C",
-          "text": "Argumento factual (basado en datos).",
-          "is_correct": true,
-          "feedback": "Correcto. El autor se apoya en estudios (datos de investigacion) para sustentar su afirmacion sobre los efectos del bullying."
-        },
-        {
-          "letter": "D",
-          "text": "Argumento logico deductivo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No hay una estructura de premisa-conclusion logica formal."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze | **ICFES:** Reflexionar sobre el contenido",
-      "icfes_type": "Reflexionar sobre el contenido",
-      "bundle_id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-v12",
-      "statement": "**Enunciado:** Cual es una debilidad de este argumento?\r\n**Options:**",
-      "context": "Un editorial periodistico afirma: \"La jornada unica escolar en Colombia mejoraria la calidad educativa, como ha sucedido en paises como Finlandia y Corea del Sur.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Utiliza datos falsos.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No sabemos si los datos son falsos."
-        },
-        {
-          "letter": "B",
-          "text": "Establece una relacion causal sin considerar diferencias contextuales.",
-          "is_correct": true,
-          "feedback": "Correcto. El argumento comete la falacia de post hoc ergo propter hoc o de comparacion inadecuada: lo que funciona en Finlandia (con otro contexto cultural, economico y social) no necesariamente funciona en Colombia."
-        },
-        {
-          "letter": "C",
-          "text": "Es muy emotivo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El argumento no es emotivo, es comparativo."
-        },
-        {
-          "letter": "D",
-          "text": "Carece de opinion.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Es un editorial, que por definicion expresa opinion."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate | **ICFES:** Reflexionar sobre el contenido",
-      "icfes_type": "Reflexionar sobre el contenido",
-      "bundle_id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-v13",
-      "statement": "**Enunciado:** Que funcion cumple el tono cotidiano y realista para describir un hecho fantastico?\r\n**Options:**",
-      "context": "Lectura de \"La metamorfosis\" de Kafka: \"Al despertar Gregorio Samsa una manana, tras un sueno intranquilo, se encontro en su cama convertido en un monstruoso insecto.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Hace que la historia sea increible.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El tono realista hace lo contrario."
-        },
-        {
-          "letter": "B",
-          "text": "No tiene funcion especifica.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Es una tecnica narrativa fundamental."
-        },
-        {
-          "letter": "C",
-          "text": "Acentua el absurdo al tratar lo extraordinario como normal.",
-          "is_correct": true,
-          "feedback": "Correcto. Kafka utiliza un tono completamente realista y burocratico para describir un hecho imposible, lo que potencia el efecto de extranamiento."
-        },
-        {
-          "letter": "D",
-          "text": "Distrae al lector del hecho fantastico.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La juxtaposicion es deliberada."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate | **ICFES:** Reflexionar sobre el contenido",
-      "icfes_type": "Reflexionar sobre el contenido",
-      "bundle_id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-v14",
-      "statement": "**Enunciado:** Que estrategia argumentativa usa el autor del texto?\r\n**Options:**",
-      "context": "Texto: \"Algunos criticos sostienen que la literatura contemporanea ha perdido su capacidad de transformacion social, pues se enfoca demasiado en la subjetividad individual. Sin embargo, obras como 'Los ejrcitos' de Evelio Rosero demuestran que la narrativa actual si logra denunciar la violencia estructural.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Cita textual.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No hay cita directa."
-        },
-        {
-          "letter": "B",
-          "text": "Refutacion mediante contraejemplo.",
-          "is_correct": true,
-          "feedback": "Correcto. El autor presenta una critica y la refuta ofreciendo un contraejemplo concreto (la obra de Rosero) que demuestra lo contrario."
-        },
-        {
-          "letter": "C",
-          "text": "Apelacion a la tradicion.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No apela a la tradicion."
-        },
-        {
-          "letter": "D",
-          "text": "Generalizacion apresurada.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El texto evita generalizar al ofrecer un ejemplo especifico."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate | **ICFES:** Reflexionar sobre el contenido",
-      "icfes_type": "Reflexionar sobre el contenido",
-      "bundle_id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-v15",
-      "statement": "**Enunciado:** El conflicto central de la obra representa:\r\n**Options:**",
-      "context": "Analisis de la \"Antigona\" de Sofocles. Creonte castiga a Antigona por enterrar a su hermano, desobedeciendo la ley del estado. Antigona defiende que las leyes divinas estan por encima de las humanas.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La lucha entre el bien y el mal.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Ambos personajes tienen argumentos validos."
-        },
-        {
-          "letter": "B",
-          "text": "La tension entre la ley moral individual y la ley civil.",
-          "is_correct": true,
-          "feedback": "Correcto. Antigona representa la ley divina/moral no escrita, mientras Creonte representa la ley del estado. Este dilema es el nucleo filosofico de la tragedia."
-        },
-        {
-          "letter": "C",
-          "text": "La lucha de clases en la antigua Grecia.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es el tema principal."
-        },
-        {
-          "letter": "D",
-          "text": "El conflicto entre hombres y mujeres.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Aunque hay un componente de genero, no es el conflicto central."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate | **ICFES:** Reflexionar sobre el contenido",
-      "icfes_type": "Reflexionar sobre el contenido",
-      "bundle_id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-v16",
-      "statement": "**Enunciado:** El contexto historico en esta novela funciona como:\r\n**Options:**",
-      "context": "Texto: \"La novela 'Delirio' de Laura Restrepo narra la historia de un hombre que busca a su esposa en el Bogota de los anos 80, mientras el pais esta sumergido en la violencia del narcotrafico.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Un simple decorado sin importancia.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El contexto es parte integral de la obra."
-        },
-        {
-          "letter": "B",
-          "text": "Un personaje mas, que condiciona las acciones de los protagonistas.",
-          "is_correct": false,
-          "feedback": "Correcto. En la narrativa colombiana contemporanea, el contexto de violencia no es un mero fondo sino un agente activo que determina la vida de los personajes."
-        },
-        {
-          "letter": "C",
-          "text": "Una critica exclusiva al gobierno de los 80.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Es mas amplio que una critica politica especifica."
-        },
-        {
-          "letter": "D",
-          "text": "Una excusa para hablar de amor.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El contexto es fundamental y sustantivo."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze | **ICFES:** Identificar y entender contenidos locales",
-      "icfes_type": "Identificar y entender contenidos locales",
-      "bundle_id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-v17",
-      "statement": "**Enunciado:** Cual seria la tesis mas original para comparar ambas obras?\r\n**Options:**",
-      "context": "Un estudiante debe escribir un ensayo critico sobre dos cuentos: \"El aleph\" de Borges y \"La noche boca arriba\" de Cortazar.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Ambos cuentos son de autores latinoamericanos.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Demasiado superficial."
-        },
-        {
-          "letter": "B",
-          "text": "Ambos cuentos exploran la ruptura de la realidad lineal y la coexistencia de multiples dimensiones temporales y espaciales, aunque desde perspectivas distintas: Borges desde lo filosofico-metafisico y Cortazar desde lo onirico-corporal.",
-          "is_correct": true,
-          "feedback": "Correcto. El Aleph muestra un punto donde coexiste todo el universo; La noche boca arriba yuxtapone dos realidades temporales. Ambos desafian la percepcion lineal."
-        },
-        {
-          "letter": "C",
-          "text": "Borges es mejor escritor que Cortazar.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Una tesis no debe ser una opinion subjetiva no sustentable."
-        },
-        {
-          "letter": "D",
-          "text": "Ambos cuentos tratan de la muerte.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Demasiado vago."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Create | **ICFES:** Reflexionar sobre el contenido",
-      "icfes_type": "Reflexionar sobre el contenido",
-      "bundle_id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-v18",
-      "statement": "**Enunciado:** La afirmacion de que la musicalidad del poema refuerza su contenido emocional es:\r\n**Options:**",
-      "context": "Texto: \"La poesia de Jose Asuncion Silva, particularmente 'Nocturno', utiliza el verso libre y las repeticiones para crear un efecto musical que expresa la melancolia y la perdida.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Falsa porque la forma y el contenido son independientes.",
-          "is_correct": false,
-          "feedback": "Incorrecto. En poesia, forma y contenido estan intrinsecamente ligados."
-        },
-        {
-          "letter": "B",
-          "text": "Verdadera, ya que las repeticiones y el ritmo lento imitan el latido del corazon y el lamento, intensificando la emocion.",
-          "is_correct": true,
-          "feedback": "Correcto. El analisis poetico reconoce que los recursos sonoros (aliteracion, ritmo, repeticion) apoyan el significado. En el Nocturno, el ritmo pausado y las repeticiones refuerzan la atmosfera de duelo."
-        },
-        {
-          "letter": "C",
-          "text": "Falsa porque la poesia debe evaluarse solo por su contenido semantico.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La poesia es una forma de arte verbal que integra sonido y significado."
-        },
-        {
-          "letter": "D",
-          "text": "Verdadera pero irrelevante para el analisis literario.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Es relevante."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate | **ICFES:** Reflexionar sobre el contenido",
-      "icfes_type": "Reflexionar sobre el contenido",
-      "bundle_id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-v19",
-      "statement": "**Enunciado:** Cual criterio NO deberia considerarse al seleccionar la obra?\r\n**Options:**",
-      "context": "Un critico literario debe recomendar una obra universal para el plan lector de grado 10 en colegios colombianos.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Relevancia literaria y valor estetico.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Es un criterio fundamental."
-        },
-        {
-          "letter": "B",
-          "text": "Conexion con problematicas contemporaneas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Es relevante para la formacion critica."
-        },
-        {
-          "letter": "C",
-          "text": "Accesibilidad del lenguaje y la tematica para estudiantes de 15-16 anos.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Es un criterio pedagogico importante."
-        },
-        {
-          "letter": "D",
-          "text": "Que la obra sea exclusivamente de autor colombiano.",
-          "is_correct": true,
-          "feedback": "Correcto. Limitar la seleccion solo a autores colombianos empobrece la formacion literaria. El plan lector debe incluir literatura universal variada."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Create | **ICFES:** Reflexionar sobre el contenido",
-      "icfes_type": "Reflexionar sobre el contenido",
-      "bundle_id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-v20",
-      "statement": "**Enunciado:** Segun el texto, cual es la postura epistemologica correcta sobre la interpretacion textual?\r\n**Options:**",
-      "context": "Texto: \"La critica textual contemporanea propone que el significado de un texto no es fijo ni unico, sino que se construye en la interaccion entre el lector y el texto. Esto no significa que todas las interpretaciones sean validas: el texto impone limites a la interpretacion.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Cualquier interpretacion es igualmente valida.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El texto dice explicitamente que \"no todas las interpretaciones son validas\"."
-        },
-        {
-          "letter": "B",
-          "text": "El significado es fijo y lo determina el autor.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El texto rechaza la idea de un significado unico."
-        },
-        {
-          "letter": "C",
-          "text": "El significado se negocia entre el lector y el texto, con restricciones textuales.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta es la postura del lector implicito o la hermeneutica contemporanea: el lector participa en la construccion del sentido, pero el texto establece limites."
-        },
-        {
-          "letter": "D",
-          "text": "El texto no tiene significado. \r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-          "is_correct": false,
-          "feedback": "Incorrecto. El texto afirma que el significado existe pero no es fijo."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate | **ICFES:** Reflexionar sobre el contenido",
-      "icfes_type": "Reflexionar sobre el contenido",
-      "bundle_id": "CO-LC-10-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 10,
+      "country": "co"
     }
   ]
 }

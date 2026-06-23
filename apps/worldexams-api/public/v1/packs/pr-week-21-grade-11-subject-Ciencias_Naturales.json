@@ -1,0 +1,891 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ciencias Naturales",
+    "country": "pr",
+    "pack_id": "pr-week-21-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-06-22T05:46:18.757Z"
+  },
+  "questions": [
+    {
+      "id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v1",
+      "statement": "Simplifique: (8)(8x + 12)",
+      "context": "Estudiantes de PR practicando materia estados cambios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 64x + 96",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 64x + 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 16x + 96",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 64x - 96\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (8)(8x + 12) = 64x + 96.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v2",
+      "statement": "Resuelve: 2(x + 7) = 20",
+      "context": "Estudiantes de PR practicando materia estados cambios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 6\r\n  \r\n\r\n**Explicacion:** 2(x+7) = 20 -> x+7 = 10 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v3",
+      "statement": "Maria compro 7 cuadernos a $11.3 c/u en Mayaguez. &iquest;Cuanto gasto?",
+      "context": "Estudiantes de PR practicando materia estados cambios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $77.3",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $7.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $11.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $18.3\r\n  \r\n\r\n**Explicacion:** Total = 7 x $11 = $77.3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v4",
+      "statement": "Un estudiante de Escuela Superior de Isabela en Isabela grafica f(x) = 4x + 7. &iquest;Cual es la pendiente?",
+      "context": "Estudiantes de PR practicando materia estados cambios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 4",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 4\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v5",
+      "statement": "En un examen EBAU en Trujillo Alto, se pide: si f(x) = 8x^2 + 9x + 6. &iquest;Cual es f(2)?",
+      "context": "Estudiantes de PR practicando materia estados cambios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 56",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 17\r\n  \r\n\r\n**Explicacion:** Sustituyo x=2: f(2) = 8(4) + 9(2) + 6 = 32 + 18 + 6 = 56.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v6",
+      "statement": "Resuelve la ecuacion: x^2 - 13x + 40 = 0",
+      "context": "Estudiantes de PR practicando materia estados cambios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** x = 8 y x = 5",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** x = 13 y x = 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** x = 0 y x = 40",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** No tiene solucion\r\n  \r\n\r\n**Explicacion:** Ecuacion cuadratica: (x-8)(x-5) = 0, por tanto x = 8 o x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v7",
+      "statement": "Un estudiante de Carolina obtuvo notas: 16, 36, 25, 13. &iquest;Cual es la media?",
+      "context": "Estudiantes de PR practicando materia estados cambios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 21.2",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 96",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 30\r\n  \r\n\r\n**Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v8",
+      "statement": "Calcule la derivada de f(x) = 7x^3 + 12x^2 + 7x + 12",
+      "context": "Estudiantes de PR practicando materia estados cambios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** f'(x) = 21x^2 + 24x + 7",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** f'(x) = 7x^2 + 12x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** f'(x) = 21x^2 + 12x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** f'(x) = 21x^3 + 24x^2\r\n  \r\n\r\n**Explicacion:** Derivada termino a termino: d/dx(7x^3) = 21x^2, d/dx(12x^2) = 24x, d/dx(7x) = 7, d/dx(12) = 0.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v9",
+      "statement": "&iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0",
+      "context": "Estudiantes de PR practicando materia estados cambios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Si, es correcta porque f'(0) = 0 y f''(0) > 0",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** No, tiene un maximo en x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** No, no tiene extremos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** Solo es correcta para x > 0\r\n  \r\n\r\n**Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v10",
+      "statement": "En Trujillo Alto, un estudiante del Escuela Superior de Trujillo Alto resuelve: 3x + 3 = 18. &iquest;Cual es el valor de x?",
+      "context": "Estudiantes de PR practicando materia estados cambios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explicacion:** Se resta 3 de ambos lados. Luego se divide por 3: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v11",
+      "statement": "Simplifique: (3)(9x + 11)",
+      "context": "Estudiantes de PR practicando materia estados cambios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 27x + 33",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 27x + 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 12x + 33",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 27x - 33\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (3)(9x + 11) = 27x + 33.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v12",
+      "statement": "Resuelve: 2(x + 2) = 10",
+      "context": "Estudiantes de PR practicando materia estados cambios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explicacion:** 2(x+2) = 10 -> x+2 = 5 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v13",
+      "statement": "Maria compro 5 cuadernos a $3.3 c/u en Cayey. &iquest;Cuanto gasto?",
+      "context": "Estudiantes de PR practicando materia estados cambios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $15.3",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $5.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $3.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $8.3\r\n  \r\n\r\n**Explicacion:** Total = 5 x $3 = $15.3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v14",
+      "statement": "Un estudiante de Escuela Superior de Isabela en Isabela grafica f(x) = 3x + 10. &iquest;Cual es la pendiente?",
+      "context": "Estudiantes de PR practicando materia estados cambios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v15",
+      "statement": "En un examen EBAU en Rio Piedras, se pide: si f(x) = 5x^2 + 3x + 7. &iquest;Cual es f(2)?",
+      "context": "Estudiantes de PR practicando materia estados cambios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 33",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explicacion:** Sustituyo x=2: f(2) = 5(4) + 3(2) + 7 = 20 + 6 + 7 = 33.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v16",
+      "statement": "Resuelve la ecuacion: x^2 - 15x + 36 = 0",
+      "context": "Estudiantes de PR practicando materia estados cambios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** x = 3 y x = 12",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** x = 15 y x = 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** x = 0 y x = 36",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** No tiene solucion\r\n  \r\n\r\n**Explicacion:** Ecuacion cuadratica: (x-3)(x-12) = 0, por tanto x = 3 o x = 12.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v17",
+      "statement": "Un estudiante de Cabo Rojo obtuvo notas: 16, 36, 25, 8. &iquest;Cual es la media?",
+      "context": "Estudiantes de PR practicando materia estados cambios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 22.2",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 96",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 30\r\n  \r\n\r\n**Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v18",
+      "statement": "Calcule la derivada de f(x) = 6x^3 + 8x^2 + 0x + 8",
+      "context": "Estudiantes de PR practicando materia estados cambios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** f'(x) = 18x^2 + 16x + 0",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** f'(x) = 6x^2 + 8x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** f'(x) = 18x^2 + 8x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** f'(x) = 18x^3 + 16x^2\r\n  \r\n\r\n**Explicacion:** Derivada termino a termino: d/dx(6x^3) = 18x^2, d/dx(8x^2) = 16x, d/dx(0x) = 0, d/dx(8) = 0.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v19",
+      "statement": "&iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0",
+      "context": "Estudiantes de PR practicando materia estados cambios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Si, es correcta porque f'(0) = 0 y f''(0) > 0",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** No, tiene un maximo en x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** No, no tiene extremos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** Solo es correcta para x > 0\r\n  \r\n\r\n**Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-v20",
+      "statement": "En Arecibo, un estudiante del Escuela Superior Luis Munoz Iglesias resuelve: 7x + 11 = 46. &iquest;Cual es el valor de x?",
+      "context": "Estudiantes de PR practicando materia estados cambios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 11\r\n  \r\n\r\n**Explicacion:** Se resta 11 de ambos lados. Luego se divide por 7: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PR-CIE-11-2026-W21-materia-estados-cambios-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Ciencias Naturales",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}

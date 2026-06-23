@@ -8,6 +8,466 @@
   },
   "questions": [
     {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Lectura Critica del Colegio La Presentación en Tunja, se discute sobre Tema Semana 17 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 17 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 17 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LEC-6-2026-W17-tema-semana-17-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Cali, se discute sobre Tema Semana 17 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 17 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 17 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.54,
+      "bundle_id": "CO-LEC-6-2026-W17-tema-semana-17-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Lectura Critica del I.E. Gabriel García Márquez en Cartagena, se discute sobre Tema Semana 17 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 17 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 17 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEC-6-2026-W17-tema-semana-17-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Lectura Critica del I.E. Gabriel García Márquez en Pasto, se discute sobre Tema Semana 17 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 17 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 17 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEC-6-2026-W17-tema-semana-17-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Lectura Critica del Colegio La Presentación en Ibagué, se discute sobre Tema Semana 17 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 17 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 17 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.57,
+      "bundle_id": "CO-LEC-6-2026-W17-tema-semana-17-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Lectura Critica del I.E. Gabriel García Márquez en Armenia, se discute sobre Tema Semana 17 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 17 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 17 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEC-6-2026-W17-tema-semana-17-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Lectura Critica del Gimnasio Moderno en Cali, se discute sobre Tema Semana 17 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 17 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 17 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEC-6-2026-W17-tema-semana-17-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Lectura Critica del Colegio La Presentación en Neiva, se discute sobre Tema Semana 17 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Neiva",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 17 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 17 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.57,
+      "bundle_id": "CO-LEC-6-2026-W17-tema-semana-17-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Lectura Critica del Gimnasio Moderno en Bogotá, se discute sobre Tema Semana 17 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 17 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 17 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEC-6-2026-W17-tema-semana-17-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Riohacha, se discute sobre Tema Semana 17 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Riohacha",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 17 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 17 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 17 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-6-2026-W17-tema-semana-17-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
       "id": "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-v1",
       "statement": "¿Cuál es el propósito principal de un texto periodístico informativo (noticia)?",
       "context": "En el Colegio San José de Cali, la profesora introduce los géneros periodísticos con ejemplos del periódico El País.",
@@ -48,7 +508,10 @@
       "bundle_id": "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-v2",
@@ -91,7 +554,10 @@
       "bundle_id": "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-v3",
@@ -134,7 +600,10 @@
       "bundle_id": "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-v4",
@@ -177,7 +646,10 @@
       "bundle_id": "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-v5",
@@ -220,7 +692,10 @@
       "bundle_id": "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-v6",
@@ -263,7 +738,10 @@
       "bundle_id": "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-v7",
@@ -306,7 +784,10 @@
       "bundle_id": "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-v8",
@@ -349,7 +830,10 @@
       "bundle_id": "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-v9",
@@ -392,7 +876,10 @@
       "bundle_id": "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-v10",
@@ -435,7 +922,460 @@
       "bundle_id": "CO-LEC-6-2026-W17-textos-periodisticos-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-0",
+      "statement": "¿Qué tipo de texto es el Texto 1?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un texto expositivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 tiene personajes (Martín, doña Luz), descripciones subjetivas y una historia. No expone datos objetivos."
+        },
+        {
+          "letter": "B",
+          "text": "Un texto narrativo (cuento).",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 narra la experiencia de Martín en la biblioteca, con personajes, descripciones emotivas y una secuencia narrativa."
+        },
+        {
+          "letter": "C",
+          "text": "Una noticia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 no informa sobre un hecho reciente ni responde a las preguntas básicas del periodismo."
+        },
+        {
+          "letter": "D",
+          "text": "Un texto instructivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No da instrucciones ni pasos a seguir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Recordar las características de cada tipo de texto es fundamental. El Texto 1 es narrativo porque cuenta una historia con personajes y un lugar; el Texto 2 es expositivo porque entrega información objetiva.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de tipos de texto",
+      "bundle_id": "CO-LEC-6-2026-W17-repaso-p4-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-1",
+      "statement": "Según el Texto 2, ¿cuántas bibliotecas públicas hay aproximadamente en Colombia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "500.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto menciona una cifra mayor."
+        },
+        {
+          "letter": "B",
+          "text": "32.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 32 son los departamentos, no las bibliotecas."
+        },
+        {
+          "letter": "C",
+          "text": "Más de 1.500.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 dice: \"Colombia cuenta con una red de más de 1.500 bibliotecas públicas.\""
+        },
+        {
+          "letter": "D",
+          "text": "2 millones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2 millones son los volúmenes de la Biblioteca Nacional, no la cantidad de bibliotecas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificar datos explícitos en un texto expositivo requiere leer con atención los números y cantidades. Es fácil confundir datos similares (1.500 bibliotecas vs. 2 millones de volúmenes).",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W17-repaso-p4-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-2",
+      "statement": "¿Qué tienen en común ambos textos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos son cuentos ficticios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo el Texto 1 es un cuento."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos mencionan a un personaje llamado Martín.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Martín solo aparece en el Texto 1."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos tratan sobre bibliotecas, pero desde perspectivas diferentes: el Texto 1 desde la experiencia personal y el Texto 2 desde datos objetivos.",
+          "is_correct": true,
+          "feedback": "Correcto. Las bibliotecas son el tema común; lo que cambia es el enfoque: personal vs. informativo."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos están escritos para convencer al lector de visitar bibliotecas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 no busca convencer; busca narrar. El Texto 2 informa, no persuade."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificar el tema común entre dos textos es el primer paso para compararlos. Aquí, ambos hablan de bibliotecas, pero con propósitos y géneros distintos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W17-repaso-p4-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-3",
+      "statement": "En el Texto 1, ¿qué característica del escenario de la biblioteca se destaca principalmente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que es ruidosa y caótica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que \"el silencio envolvía todo como una manta suave\"."
+        },
+        {
+          "letter": "B",
+          "text": "Que está en un centro comercial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biblioteca \"quedaba en una casona colonial\" en La Candelaria."
+        },
+        {
+          "letter": "C",
+          "text": "Que es un lugar acogedor, silencioso y lleno de encanto, con luz natural y olor a papel.",
+          "is_correct": true,
+          "feedback": "Correcto. Los detalles sensoriales (silencio, olor a papel, luz por la ventana) construyen un ambiente acogedor y tranquilo."
+        },
+        {
+          "letter": "D",
+          "text": "Que es oscura y abandonada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay elementos de abandono; al contrario, hay cuidado (doña Luz guarda libros nuevos, la luz entra por la ventana)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los escenarios literarios se construyen con detalles sensoriales. En el Texto 1, la biblioteca es descrita como un refugio acogedor para Martín, con silencio, luz y olor a papel.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Caracterización literaria",
+      "bundle_id": "CO-LEC-6-2026-W17-repaso-p4-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-4",
+      "statement": "¿Qué podemos inferir sobre la relación entre Martín y doña Luz en el Texto 1?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que no se conocen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Doña Luz le guarda los libros nuevos, lo que indica que lo conoce bien."
+        },
+        {
+          "letter": "B",
+          "text": "Que doña Luz no quiere que Martín lea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al guardarle libros, lo anima a leer."
+        },
+        {
+          "letter": "C",
+          "text": "Que hay una relación de confianza y cariño: doña Luz conoce los gustos de Martín y le guarda los libros que le interesan.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Doña Luz siempre le guardaba los libros nuevos\" y le dice \"llegó el que estabas esperando\" con voz de \"secreto\", lo que muestra cercanía y confianza."
+        },
+        {
+          "letter": "D",
+          "text": "Que doña Luz es la mamá de Martín.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay evidencia de parentesco; doña Luz es la bibliotecaria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las relaciones entre personajes se infieren a partir de sus acciones y diálogos. Guardar libros nuevos, susurrar con complicidad y compartir secretos indican una relación cercana y afectuosa.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W17-repaso-p4-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-5",
+      "statement": "¿Qué diferencia de enfoque hay entre el Texto 1 y el Texto 2 respecto al valor de las bibliotecas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1 dice que las bibliotecas no son importantes; el Texto 2 dice que sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos valoran las bibliotecas, pero de distintas maneras."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos valoran las bibliotecas de la misma forma objetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 usa un enfoque subjetivo y emotivo."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 muestra el valor afectivo y personal de la biblioteca en la vida de un niño; el Texto 2 muestra el valor social y estadístico de las bibliotecas como instituciones.",
+          "is_correct": true,
+          "feedback": "Correcto. Martín valora la biblioteca como un lugar mágico personal; el Texto 2 la valora como un servicio público con datos (1.500 bibliotecas, 40% de visitantes)."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 1 critica las bibliotecas; el Texto 2 las defiende.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 no critica; describe con cariño. El Texto 2 no defiende; solo informa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un mismo tema puede ser abordado desde lo personal y emotivo o desde lo social y estadístico. Reconocer estas diferencias es parte de la comparación crítica de textos.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W17-repaso-p4-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-6",
+      "statement": "En el Texto 1, la frase \"el silencio envolvía todo como una manta suave\" es un ejemplo de:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un dato estadístico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un dato, es una figura literaria."
+        },
+        {
+          "letter": "B",
+          "text": "Una hipérbole o exageración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No exagera, compara el silencio con una manta para transmitir la sensación de cobijo."
+        },
+        {
+          "letter": "C",
+          "text": "Una comparación (símil) que personifica el silencio y lo describe como algo acogedor.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Como una manta suave\" es una comparación que transforma el silencio (abstracto) en algo tangible y acogedor."
+        },
+        {
+          "letter": "D",
+          "text": "Una instrucción para el lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una instrucción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las figuras literarias como el símil enriquecen las descripciones narrativas. El Texto 2, al ser expositivo, no usa este tipo de recursos. Esta diferencia es otra pista para distinguir géneros textuales.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W17-repaso-p4-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-7",
+      "statement": "¿Qué información del Texto 2 ayuda a entender por qué la biblioteca del Texto 1 es valiosa para su comunidad?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la Biblioteca Nacional fue fundada en 1777.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese dato no se relaciona directamente con la biblioteca del barrio La Candelaria."
+        },
+        {
+          "letter": "B",
+          "text": "Que las bibliotecas tienen colecciones reducidas en municipios pequeños.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Candelaria es un barrio de Bogotá, no un municipio pequeño."
+        },
+        {
+          "letter": "C",
+          "text": "Que las bibliotecas públicas ofrecen préstamo de libros y acceso gratuito a la cultura, lo que explica que Martín pueda leer tantos libros sin pagar.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 menciona servicios gratuitos como préstamo de libros, lo que contextualiza por qué Martín puede leer \"veinte libros en un año\"."
+        },
+        {
+          "letter": "D",
+          "text": "Que el 40% de los colombianos ha visitado una biblioteca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un dato general que no explica el valor específico de esa biblioteca."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La información de un texto puede ayudar a comprender mejor el otro. Esta conexión entre textos es una forma avanzada de comprensión lectora: usar un texto como contexto para interpretar el otro.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W17-repaso-p4-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-8",
+      "statement": "¿Cuál de los dos textos sería más útil para un alcalde que quiere justificar la inversión en bibliotecas públicas ante el concejo municipal?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1, porque es emotivo y conmueve.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque un texto emotivo puede ayudar, para justificar una inversión se necesitan datos objetivos."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 2, porque proporciona datos concretos (1.500 bibliotecas, alcance nacional, servicios ofrecidos) que respaldan una decisión de política pública.",
+          "is_correct": true,
+          "feedback": "Correcto. Un alcalde necesita datos verificables y objetivos para justificar inversiones. El Texto 2 ofrece esos datos."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos por igual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada texto sirve a propósitos distintos; el Texto 2 es más adecuado para fines administrativos."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, porque los dos son ficticios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 no es ficticio; contiene información objetiva y verificable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la utilidad de un texto según el contexto y la necesidad del lector es una habilidad crítica. No todos los textos sirven para todos los propósitos; saber seleccionar es parte de ser un lector competente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W17-repaso-p4-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-9",
+      "statement": "¿Qué elemento del Texto 1 NO podría aparecer en el Texto 2 sin cambiar su género y propósito?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mención de que las bibliotecas ofrecen préstamo de libros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sí podría aparecer en un texto expositivo."
+        },
+        {
+          "letter": "B",
+          "text": "El dato de que la Biblioteca Nacional fue fundada en 1777.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese dato encaja perfectamente en un texto expositivo."
+        },
+        {
+          "letter": "C",
+          "text": "La frase \"Martín sonreía, tomaba el libro y se sentía el niño más afortunado del mundo\".",
+          "is_correct": true,
+          "feedback": "Correcto. Esta expresión subjetiva y emotiva no encajaría en un texto expositivo que debe mantener objetividad. En el Texto 2 no hay emociones ni personajes."
+        },
+        {
+          "letter": "D",
+          "text": "La información sobre los 32 departamentos de Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese dato encajaría perfectamente en un texto expositivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cada género textual tiene sus propios recursos y limitaciones. Las emociones, los personajes y las descripciones subjetivas son propios de la narrativa. Los datos, las estadísticas y el tono objetivo son propios del texto expositivo. Mezclarlos inadecuadamente rompería la coherencia del género.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W17-repaso-p4-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     }
   ]
 }

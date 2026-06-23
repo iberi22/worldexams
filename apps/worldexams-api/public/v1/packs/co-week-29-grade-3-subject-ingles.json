@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-29-grade-3-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.664Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-3-2026-W29-months-year-001-MASTERY-v1",
+      "statement": "What is the **first** month of the year?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "February",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "January",
+          "is_correct": true,
+          "feedback": "Correct! January is enero."
+        },
+        {
+          "letter": "C",
+          "text": "March",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "December",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Enero se dice \"January\". Es el mes número 1.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-3-2026-W29-months-year-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W29-months-year-001-MASTERY-v2",
+      "statement": "What is the **last** month of the year? 🎄",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "November",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "December",
+          "is_correct": true,
+          "feedback": "Correct! December is diciembre."
+        },
+        {
+          "letter": "C",
+          "text": "October",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "January",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diciembre se dice \"December\". Es el mes número 12 y cuando celebramos Navidad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-3-2026-W29-months-year-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W29-months-year-001-MASTERY-v3",
+      "statement": "What month comes after **August**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "July",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "October",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "September",
+          "is_correct": true,
+          "feedback": "Correct! August -> September."
+        },
+        {
+          "letter": "D",
+          "text": "June",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Septiembre se dice \"September\". Va después de agosto (August).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W29-months-year-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W29-months-year-001-MASTERY-v4",
+      "statement": "How many months are in a **year**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seven",
+          "is_correct": false,
+          "feedback": "Incorrect. That's days in a week."
+        },
+        {
+          "letter": "B",
+          "text": "Ten",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Twelve",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "Thirty",
+          "is_correct": false,
+          "feedback": "Incorrect. That's days in a month."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un año tiene doce (twelve) meses.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-3-2026-W29-months-year-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W29-months-year-001-MASTERY-v5",
+      "statement": "What is **\"Abril\"** in English?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "May",
+          "is_correct": false,
+          "feedback": "Incorrect. May is mayo."
+        },
+        {
+          "letter": "B",
+          "text": "April",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "June",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "March",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Abril se escribe \"April\" en inglés. Se parece mucho al español.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-3-2026-W29-months-year-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W29-months-year-001-MASTERY-v6",
+      "statement": "In which month is **Halloween**? 🎃",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "September",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "October",
+          "is_correct": true,
+          "feedback": "Correct! Halloween is in October."
+        },
+        {
+          "letter": "C",
+          "text": "November",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "December",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Octubre se dice \"October\". Es el mes de las brujas y disfraces.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-3-2026-W29-months-year-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W29-months-year-001-MASTERY-v7",
+      "statement": "What is **\"Julio\"** in English?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "July",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "June",
+          "is_correct": false,
+          "feedback": "Incorrect. June is junio."
+        },
+        {
+          "letter": "C",
+          "text": "January",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Jelly",
+          "is_correct": false,
+          "feedback": "Incorrect. Jelly is gelatina!"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Julio se dice \"July\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-3-2026-W29-months-year-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W29-months-year-001-MASTERY-v8",
+      "statement": "Which month is between **May** and **July**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "April",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "August",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "June",
+          "is_correct": true,
+          "feedback": "Correct! May, June, July."
+        },
+        {
+          "letter": "D",
+          "text": "March",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Junio se dice \"June\". Está entre mayo y julio.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-3-2026-W29-months-year-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W29-months-year-001-MASTERY-v9",
+      "statement": "In Colombia, we celebrate **Mother's Day** (Día de la Madre) in:",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "April",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "May",
+          "is_correct": true,
+          "feedback": "Correct! Mother's day is in May."
+        },
+        {
+          "letter": "C",
+          "text": "June",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "March",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El mes de las madres en Colombia es mayo, que en inglés se dice \"May\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-3-2026-W29-months-year-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    },
+    {
+      "id": "CO-ING-3-2026-W29-months-year-001-MASTERY-v10",
+      "statement": "How do you ask someone about their **birthday**?",
+      "context": "Contexto de la pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "How old are you?",
+          "is_correct": false,
+          "feedback": "Incorrect. This asks for age."
+        },
+        {
+          "letter": "B",
+          "text": "When is your birthday?",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "What is your birthday?",
+          "is_correct": false,
+          "feedback": "Incorrect structure."
+        },
+        {
+          "letter": "D",
+          "text": "Where is your birthday?",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para preguntar por el cumpleaños de alguien decimos \"¿When is your birthday?\".\n\n\n[//]: # (QUALITY_REVIEW)\n[//]: # (STATUS: LEGACY - FREE USE)\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-3-2026-W29-months-year-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "A1"
+    }
+  ]
+}

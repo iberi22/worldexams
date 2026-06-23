@@ -1,0 +1,921 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-3-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-06-22T05:46:15.957Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-6-2026-W03-la-celula-funciones-vitales-001-v1",
+      "statement": "¿Cuáles son las tres funciones vitales de los seres vivos?",
+      "context": "En Bogotá, los estudiantes inician el tema de funciones celulares con un video interactivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Respirar, dormir y comer",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dormir no es una función vital esencial."
+        },
+        {
+          "letter": "B",
+          "text": "Nutrición, relación y reproducción",
+          "is_correct": true,
+          "feedback": "Correcto. Estas tres funciones definen a todos los seres vivos."
+        },
+        {
+          "letter": "C",
+          "text": "Crecer, moverse y pensar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pensar no es una función de todos los seres vivos."
+        },
+        {
+          "letter": "D",
+          "text": "Nacer, crecer y morir",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son etapas del ciclo de vida, no funciones vitales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las tres funciones vitales que cumplen todos los organismos vivos, desde una bacteria hasta un ser humano, son:\r\n1. **Nutrición**: obtener materia y energía del entorno. Incluye alimentación, respiración, digestión y excreción.\r\n2. **Relación**: percibir estímulos del medio y responder a ellos. Incluye los sentidos, el sistema nervioso y el movimiento.\r\n3. **Reproducción**: generar nuevos individuos para perpetuar la especie. Puede ser asexual (un progenitor) o sexual (dos progenitores).\r\n\r\nUn ser vivo debe cumplir estas tres funciones. Un virus, por ejemplo, no cumple la función de nutrición ni se reproduce por sí mismo (necesita una célula huésped), por lo que muchos científicos no lo consideran un ser vivo.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W03-la-celula-funciones-vitales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W03-la-celula-funciones-vitales-002-v1",
+      "statement": "¿Qué es la difusión simple en las células?",
+      "context": "En Medellín, estudiantes aprenden sobre transporte celular con una simulación digital.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El transporte de sustancias con gasto de energía",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión simple es pasiva, sin gasto de energía."
+        },
+        {
+          "letter": "B",
+          "text": "El paso de sustancias pequeñas a través de la membrana sin gasto de energía, de mayor a menor concentración",
+          "is_correct": true,
+          "feedback": "Correcto. La difusión es un proceso pasivo."
+        },
+        {
+          "letter": "C",
+          "text": "La entrada de partículas grandes mediante una vesícula",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es endocitosis, que requiere energía."
+        },
+        {
+          "letter": "D",
+          "text": "La expulsión de desechos fuera de la célula",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es exocitosis."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La difusión simple es el movimiento de moléculas pequeñas (como oxígeno O₂, dióxido de carbono CO₂, agua H₂O) a través de la membrana celular, desde donde hay mayor concentración hacia donde hay menor concentración. Es un proceso pasivo porque NO requiere energía (ATP). Ejemplos cotidianos:\r\n- El oxígeno del aire (alta concentración) pasa a la sangre (baja concentración) en los pulmones\r\n- El aroma del café se esparce por toda la casa\r\n- Una gota de colorante se dispersa en un vaso de agua\r\n\r\nLa difusión es fundamental para que las células obtengan nutrientes y eliminen desechos.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W03-la-celula-funciones-vitales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W03-la-celula-funciones-vitales-003-v1",
+      "statement": "¿Cuál es la diferencia entre transporte pasivo y activo en la membrana celular?",
+      "context": "En Cali, los estudiantes comparan transporte pasivo y activo en un laboratorio virtual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El pasivo solo ocurre en plantas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre en todo tipo de células."
+        },
+        {
+          "letter": "B",
+          "text": "El activo no necesita membrana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos necesitan la membrana celular."
+        },
+        {
+          "letter": "C",
+          "text": "El pasivo no requiere energía (a favor del gradiente), el activo requiere energía (contra el gradiente)",
+          "is_correct": true,
+          "feedback": "Correcto. El gasto de energía es la diferencia clave."
+        },
+        {
+          "letter": "D",
+          "text": "El activo solo transporta agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte activo puede mover muchas sustancias (iones, glucosa, etc.)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El transporte a través de la membrana celular se clasifica según requiera o no energía:\r\n- **Transporte pasivo**: sin gasto de energía (ATP). Las moléculas se mueven a favor del gradiente de concentración (de mayor a menor). Incluye difusión simple, difusión facilitada (con ayuda de proteínas) y ósmosis (agua).\r\n- **Transporte activo**: con gasto de energía (ATP). Las moléculas se mueven contra el gradiente de concentración (de menor a mayor). Ejemplo: la bomba de sodio-potasio en las neuronas, que mantiene el equilibrio iónico necesario para transmitir impulsos nerviosos.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W03-la-celula-funciones-vitales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W03-la-celula-funciones-vitales-004-v1",
+      "statement": "¿Qué función vital cumple la fotosíntesis en las plantas?",
+      "context": "En Barranquilla, estudiantes analizan el proceso de fotosíntesis en células vegetales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reproducción",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotosíntesis no produce nuevos individuos."
+        },
+        {
+          "letter": "B",
+          "text": "Nutrición (autótrofa)",
+          "is_correct": true,
+          "feedback": "Correcto. La fotosíntesis permite a las plantas fabricar su propio alimento."
+        },
+        {
+          "letter": "C",
+          "text": "Relación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotosíntesis no es una respuesta a estímulos."
+        },
+        {
+          "letter": "D",
+          "text": "Excreción",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno liberado es un subproducto, no la función principal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fotosíntesis es el proceso de nutrición autótrofa que realizan las plantas, algas y algunas bacterias. Permite convertir energía lumínica en energía química:\r\n- **Ecuación**: 6CO₂ + 6H₂O + luz solar → C₆H₁₂O₆ (glucosa) + 6O₂\r\n- Ocurre en los **cloroplastos**, dentro de los tilacoides\r\n- Usa **clorofila** (pigmento verde) para absorber la luz\r\n- Produce **glucosa** (alimento para la planta) y libera **oxígeno**\r\n- Es esencial para la vida en la Tierra porque produce el oxígeno que respiramos\r\n\r\nLas plantas son organismos **autótrofos** (fabrican su propio alimento), a diferencia de los animales que somos **heterótrofos** (necesitamos consumir otros organismos).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CIE-6-2026-W03-la-celula-funciones-vitales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W03-la-celula-funciones-vitales-005-v1",
+      "statement": "Si pones una pasa (uva deshidratada) en un vaso con agua y al día siguiente está más grande y arrugada, ¿qué proceso celular ocurrió?",
+      "context": "En Bucaramanga, estudiantes realizan un experimento con pasas en agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fotosíntesis",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay cloroplastos en las pasas."
+        },
+        {
+          "letter": "B",
+          "text": "Transporte activo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No requiere energía; el agua se mueve pasivamente."
+        },
+        {
+          "letter": "C",
+          "text": "Ósmosis (transporte de agua a través de la membrana)",
+          "is_correct": true,
+          "feedback": "Correcto. El agua pasó del vaso (mayor concentración de agua) a la pasa (menor concentración)."
+        },
+        {
+          "letter": "D",
+          "text": "Digestión celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se están digiriendo nutrientes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La ósmosis es un tipo especial de difusión: el movimiento neto de agua a través de una membrana semipermeable (como la membrana celular) desde una zona de menor concentración de solutos (mayor concentración de agua) hacia una de mayor concentración de solutos (menor concentración de agua).\r\n\r\nEn el experimento:\r\n- La pasa deshidratada tiene alta concentración de azúcares y baja concentración de agua\r\n- El agua del vaso tiene alta concentración de agua y baja concentración de azúcares\r\n- Por ósmosis, el agua atraviesa la membrana de las células de la pasa hacia adentro\r\n- Las células se hinchan y la pasa se rehidrata (vuelve a su tamaño original)\r\n\r\nLa ósmosis es crucial en los seres vivos: las raíces absorben agua del suelo por ósmosis, y nuestros riñones la usan para concentrar la orina.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W03-la-celula-funciones-vitales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W03-la-celula-funciones-vitales-006-v1",
+      "statement": "Después de correr, sientes que te falta el aire y te duele el cuerpo. ¿Qué proceso celular explica esto?",
+      "context": "En Cartagena, estudiantes analizan una situación cotidiana de respiración celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las células dejaron de funcionar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las células siguen funcionando, pero necesitan más oxígeno."
+        },
+        {
+          "letter": "B",
+          "text": "La fotosíntesis se detuvo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotosíntesis ocurre en plantas, no en animales."
+        },
+        {
+          "letter": "C",
+          "text": "La respiración celular aumentó para producir más energía (ATP), consumiendo más oxígeno y produciendo más CO₂",
+          "is_correct": true,
+          "feedback": "Correcto. El aumento de actividad requiere más energía."
+        },
+        {
+          "letter": "D",
+          "text": "La ósmosis se invirtió",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ósmosis sigue funcionando normalmente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La respiración celular es el proceso por el cual las células obtienen energía de la glucosa usando oxígeno:\r\n- **Ecuación**: C₆H₁₂O₆ (glucosa) + 6O₂ → 6CO₂ + 6H₂O + 36-38 ATP\r\n- Ocurre principalmente en las **mitocondrias**\r\n- El **ATP** (trifosfato de adenosina) es la \"moneda energética\" de la célula\r\n\r\nAl correr, los músculos necesitan más ATP para la contracción. La respiración celular se acelera: respiras más rápido para tomar oxígeno, tu corazón bombea más rápido para llevarlo a las células, y produces más CO₂ (que exhalamos). Por eso respiras agitado después del ejercicio. El dolor muscular se debe al ácido láctico, producido cuando el oxígeno no alcanza (fermentación láctica).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CIE-6-2026-W03-la-celula-funciones-vitales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W03-la-celula-funciones-vitales-007-v1",
+      "statement": "¿Cómo se relacionan la fotosíntesis y la respiración celular en el ciclo del carbono?",
+      "context": "En Pereira, estudiantes analizan el ciclo del carbono entre fotosíntesis y respiración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tienen relación porque ocurren en organismos diferentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Están estrechamente relacionadas."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas producen oxígeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo la fotosíntesis produce oxígeno; la respiración lo consume."
+        },
+        {
+          "letter": "C",
+          "text": "Los productos de una son los reactivos de la otra: la fotosíntesis produce glucosa y oxígeno que usa la respiración, y la respiración produce CO₂ y agua que usa la fotosíntesis",
+          "is_correct": true,
+          "feedback": "Correcto. Son procesos complementarios."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas producen glucosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo la fotosíntesis produce glucosa; la respiración la consume."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fotosíntesis y la respiración celular forman un ciclo perfecto de materia y flujo de energía:\r\n\r\n**Fotosíntesis** (cloroplastos):\r\n- Entrada: 6CO₂ + 6H₂O + energía solar\r\n- Salida: C₆H₁₂O₆ (glucosa) + 6O₂\r\n\r\n**Respiración celular** (mitocondrias):\r\n- Entrada: C₆H₁₂O₆ + 6O₂\r\n- Salida: 6CO₂ + 6H₂O + energía (ATP)\r\n\r\nEste ciclo es la base del equilibrio de gases en la atmósfera: el CO₂ que exhalamos (respiración) es usado por las plantas (fotosíntesis), y el O₂ que producen las plantas es usado por animales y humanos. Por eso los bosques son tan importantes como \"pulmones\" del planeta.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W03-la-celula-funciones-vitales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W03-la-celula-funciones-vitales-008-v1",
+      "statement": "Una bacteria se divide en dos cada 20 minutos. ¿Por qué este proceso es considerado reproducción?",
+      "context": "En Manizales, estudiantes analizan la reproducción asexual en bacterias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la bacteria se está alimentando",
+          "is_correct": false,
+          "feedback": "Incorrecto. La alimentación es nutrición, no reproducción."
+        },
+        {
+          "letter": "B",
+          "text": "Porque se está moviendo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El movimiento es parte de la función de relación."
+        },
+        {
+          "letter": "C",
+          "text": "Porque genera nuevos individuos a partir de uno solo, perpetuando la especie",
+          "is_correct": true,
+          "feedback": "Correcto. La reproducción crea nuevos organismos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque está respondiendo al calor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Responder a estímulos es función de relación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La reproducción asexual por fisión binaria es la forma en que las bacterias se reproducen:\r\n1. El ADN bacteriano (circular) se replica\r\n2. La célula se alarga y las dos copias de ADN se separan\r\n3. La membrana y la pared celular se invaginan\r\n4. Se forman dos células hijas genéticamente idénticas (clones)\r\n\r\nCada 20 minutos, una bacteria se divide en dos. En 12 horas, una sola bacteria podría generar más de 68 mil millones de células (2³⁶). En condiciones ideales, las bacterias llenarían el mundo rápidamente, pero la competencia por recursos y los factores ambientales limitan su crecimiento.\r\n\r\nEsta reproducción rápida es la razón por la que las infecciones bacterianas progresan tan rápido y por la que los científicos pueden \"cultivar\" bacterias para producir insulina o antibióticos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W03-la-celula-funciones-vitales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W03-la-celula-funciones-vitales-009-v1",
+      "statement": "Un agricultor en el Cauca riega sus plantas con agua salada y las plantas se marchitan. ¿Cuál es la mejor explicación científica?",
+      "context": "En Cúcuta, estudiantes evalúan el uso de fertilizantes en cultivos colombianos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las plantas odian la sal",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una explicación científica."
+        },
+        {
+          "letter": "B",
+          "text": "La sal daña las raíces físicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El daño no es físico, es osmótico."
+        },
+        {
+          "letter": "C",
+          "text": "El agua salada tiene menor concentración de agua que las células vegetales, por lo que el agua sale de las raíces por ósmosis, deshidratando la planta",
+          "is_correct": true,
+          "feedback": "Correcto. La planta pierde agua en lugar de absorberla."
+        },
+        {
+          "letter": "D",
+          "text": "La sal evita la fotosíntesis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sal no bloquea directamente la fotosíntesis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El fenómeno que ocurre es la **plasmólisis**, la salida de agua de las células vegetales por ósmosis:\r\n1. El agua salada tiene baja concentración de agua (alta concentración de sales)\r\n2. Las células de las raíces tienen mayor concentración de agua\r\n3. Por ósmosis, el agua se mueve desde la raíz (mayor concentración) hacia el suelo salado (menor concentración)\r\n4. Las células pierden agua, se encogen y la planta se marchita\r\n\r\nEste es un problema real en Colombia y el mundo: la **salinización del suelo** por riego excesivo o mala calidad del agua. En la costa Caribe y el Valle del Cauca, la salinización afecta cultivos como arroz y caña de azúcar. La ósmosis inversa se usa para desalinizar agua (por ejemplo, en La Guajira).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W03-la-celula-funciones-vitales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W03-la-celula-funciones-vitales-010-v1",
+      "statement": "Un estudiante dice que los cristales de sal son seres vivos porque \"crecen\". ¿Por qué está equivocado?",
+      "context": "En Ibagué, estudiantes evalúan si un cristal de sal que \"crece\" es un ser vivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los cristales no tienen núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cristales ni siquiera son células."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los cristales no se mueven",
+          "is_correct": false,
+          "feedback": "Incorrecto. Algunos seres vivos no se mueven (plantas)."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los cristales no cumplen las tres funciones vitales (nutrición, relación y reproducción) — solo acumulan moléculas sin metabolismo ni reproducción celular",
+          "is_correct": true,
+          "feedback": "Correcto. El crecimiento de un cristal no implica funciones vitales."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los cristales son transparentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La apariencia no define si algo está vivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para determinar si algo es un ser vivo, debe cumplir las tres funciones vitales:\r\n\r\n| Función | Cristal de sal | Seres vivos |\r\n|---------|---------------|-------------|\r\n| Nutrición | No capta ni transforma energía | Sí (metabolismo) |\r\n| Relación | No responde a estímulos | Sí (irritabilidad) |\r\n| Reproducción | No se replica (crece por deposición) | Sí (produce descendencia) |\r\n\r\nEl \"crecimiento\" de un cristal no es biológico: los iones de sodio y cloruro se depositan sobre la superficie del cristal desde una solución sobresaturada. No hay células, no hay ADN, no hay metabolismo, no hay reproducción. Es un proceso físico-químico, no biológico.\r\n\r\nEsta distinción es clave: los virus también generan debate porque cumplen algunas funciones vitales solo dentro de una célula huésped, lo que los sitúa en el límite entre lo vivo y lo no vivo.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CIE-6-2026-W03-la-celula-funciones-vitales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Ciencias Naturales del Colegio Nacional San Bartolomé en Ibagué, se discute sobre Tema Semana 3 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Ibagué",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 3 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 3 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CIE-6-2026-W03-tema-semana-3-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Ciencias Naturales del Colegio La Presentación en Tunja, se discute sobre Tema Semana 3 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 3 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 3 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CIE-6-2026-W03-tema-semana-3-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Armenia, se discute sobre Tema Semana 3 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 3 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 3 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CIE-6-2026-W03-tema-semana-3-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Cali, se discute sobre Tema Semana 3 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 3 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 3 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.57,
+      "bundle_id": "CO-CIE-6-2026-W03-tema-semana-3-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Ciencias Naturales del I.E. Gabriel García Márquez en Cartagena, se discute sobre Tema Semana 3 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 3 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 3 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CIE-6-2026-W03-tema-semana-3-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Sincelejo, se discute sobre Tema Semana 3 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Sincelejo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 3 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 3 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-6-2026-W03-tema-semana-3-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Armenia, se discute sobre Tema Semana 3 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Armenia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 3 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 3 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CIE-6-2026-W03-tema-semana-3-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Pasto, se discute sobre Tema Semana 3 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 3 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 3 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CIE-6-2026-W03-tema-semana-3-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Ciencias Naturales del I.E. Santa Luisa de Marillac en Bogotá, se discute sobre Tema Semana 3 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 3 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 3 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.77,
+      "bundle_id": "CO-CIE-6-2026-W03-tema-semana-3-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Ciencias Naturales del I.E. Jorge Eliécer Gaitán en Cali, se discute sobre Tema Semana 3 de Ciencias Naturales. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 3 de Ciencias Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 3 de Ciencias Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 3 de Ciencias Naturales es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-6-2026-W03-tema-semana-3-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

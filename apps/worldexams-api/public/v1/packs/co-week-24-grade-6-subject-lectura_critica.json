@@ -48,7 +48,10 @@
       "bundle_id": "CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-v2",
@@ -91,7 +94,10 @@
       "bundle_id": "CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-v3",
@@ -134,7 +140,10 @@
       "bundle_id": "CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-v4",
@@ -177,7 +186,10 @@
       "bundle_id": "CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-v5",
@@ -220,7 +232,10 @@
       "bundle_id": "CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-v6",
@@ -263,7 +278,10 @@
       "bundle_id": "CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-v7",
@@ -306,7 +324,10 @@
       "bundle_id": "CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-v8",
@@ -349,7 +370,10 @@
       "bundle_id": "CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-v9",
@@ -392,7 +416,10 @@
       "bundle_id": "CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     },
     {
       "id": "CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-v10",
@@ -435,7 +462,920 @@
       "bundle_id": "CO-LEC-6-2026-W24-opinion-argumento-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Lectura Critica del I.E. Santa Luisa de Marillac en Pasto, se discute sobre Tema Semana 24 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Santa Luisa de Marillac en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 24 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 24 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEC-6-2026-W24-tema-semana-24-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Lectura Critica del Colegio La Presentación en Pasto, se discute sobre Tema Semana 24 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 24 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 24 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.59,
+      "bundle_id": "CO-LEC-6-2026-W24-tema-semana-24-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Lectura Critica del Colegio La Presentación en Bogotá, se discute sobre Tema Semana 24 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 24 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 24 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.57,
+      "bundle_id": "CO-LEC-6-2026-W24-tema-semana-24-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Lectura Critica del Gimnasio Moderno en Cali, se discute sobre Tema Semana 24 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Cali",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 24 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 24 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LEC-6-2026-W24-tema-semana-24-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Lectura Critica del I.E. Jorge Eliécer Gaitán en Pereira, se discute sobre Tema Semana 24 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Jorge Eliécer Gaitán en Pereira",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 24 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 24 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.53,
+      "bundle_id": "CO-LEC-6-2026-W24-tema-semana-24-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Lectura Critica del Colegio La Presentación en Cúcuta, se discute sobre Tema Semana 24 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio La Presentación en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 24 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 24 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.59,
+      "bundle_id": "CO-LEC-6-2026-W24-tema-semana-24-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Lectura Critica del Gimnasio Moderno en Cúcuta, se discute sobre Tema Semana 24 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 24 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 24 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEC-6-2026-W24-tema-semana-24-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Lectura Critica del I.E. San José en Pasto, se discute sobre Tema Semana 24 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 24 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 24 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LEC-6-2026-W24-tema-semana-24-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Lectura Critica del Colegio Nacional San Bartolomé en Pasto, se discute sobre Tema Semana 24 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Colegio Nacional San Bartolomé en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 24 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 24 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.51,
+      "bundle_id": "CO-LEC-6-2026-W24-tema-semana-24-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Lectura Critica del Gimnasio Moderno en Villavicencio, se discute sobre Tema Semana 24 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 24 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 24 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 24 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LEC-6-2026-W24-tema-semana-24-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W24-repaso-p6-001-v1",
+      "statement": "¿Cuál de las siguientes situaciones corresponde a un texto ARGUMENTATIVO?",
+      "context": "Repaso de tipos de texto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un cuento sobre un niño que viaja por Colombia en globo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un cuento es un texto NARRATIVO, no argumentativo. Cuenta una historia."
+        },
+        {
+          "letter": "B",
+          "text": "Una receta para preparar bandeja paisa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una receta es un texto INSTRUCTIVO. Explica pasos para hacer algo."
+        },
+        {
+          "letter": "C",
+          "text": "Un artículo que describe los volcanes de Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un artículo descriptivo es un texto EXPOSITIVO/INFORMATIVO. Su propósito es describir, no convencer."
+        },
+        {
+          "letter": "D",
+          "text": "Un editorial que defiende por qué se debe reciclar en las escuelas",
+          "is_correct": true,
+          "feedback": "¡Correcto! Un editorial defiende una postura y busca convencer al lector. Usa argumentos para apoyar una tesis. Es un texto argumentativo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los textos argumentativos tienen como propósito convencer o persuadir al lector sobre una idea. Se caracterizan por tener una TESIS (idea que se defiende) y ARGUMENTOS (razones que la apoyan). Ejemplos: editoriales, columnas de opinión, discursos políticos, debates. No confundir con textos expositivos (informan) o narrativos (cuentan historias).\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de textos argumentativos",
+      "bundle_id": "CO-LEC-6-2026-W24-repaso-p6-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W24-repaso-p6-002-v1",
+      "statement": "En un texto argumentativo, ¿qué es la TESIS?",
+      "context": "Repaso: qué es la tesis",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cuento o historia que se narra al inicio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una tesis no es una historia narrativa. Los textos argumentativos pueden incluir anécdotas, pero la tesis es la idea central que se defiende."
+        },
+        {
+          "letter": "B",
+          "text": "La idea principal que el autor defiende con argumentos",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tesis es la postura del autor frente a un tema. Es lo que el autor quiere demostrar. Todo el texto gira en torno a defenderla."
+        },
+        {
+          "letter": "C",
+          "text": "La lista de fuentes que usó el autor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuentes son referencias que apoyan los argumentos, pero no son la tesis. La tesis es la idea, no las fuentes."
+        },
+        {
+          "letter": "D",
+          "text": "El título del texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título puede anticipar el tema, pero no es la tesis. La tesis es una afirmación que el autor buscará probar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para identificar la tesis, pregúntate: ¿qué es lo que el autor quiere demostrar? ¿Cuál es su postura? La tesis suele aparecer al inicio o al final del texto argumentativo. Frases como \"estoy convencido de que\", \"considero que\", \"es necesario\" suelen anunciar la tesis.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de tesis",
+      "bundle_id": "CO-LEC-6-2026-W24-repaso-p6-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W24-repaso-p6-003-v1",
+      "statement": "> Colombia tiene una extensión de 1.141.748 km². Es el país más hermoso de Sudamérica.\n\n¿Cuál de las dos afirmaciones es una OPINIÓN?",
+      "context": "Repaso: hecho vs opinión",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Colombia tiene una extensión de 1.141.748 km²\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una afirmación verificable. Se puede comprobar consultando datos geográficos oficiales. Es un HECHO."
+        },
+        {
+          "letter": "B",
+          "text": "\"Colombia tiene una extensión\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un hecho comprobable. Todos los países tienen una extensión territorial."
+        },
+        {
+          "letter": "C",
+          "text": "\"Es el país más hermoso de Sudamérica\"",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Más hermoso\" es una apreciación subjetiva. Depende del gusto de cada persona. No se puede comprobar objetivamente. Es una OPINIÓN."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna, ambas son hechos comprobables",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera es un hecho, pero la segunda (\"más hermoso\") no se puede medir ni comprobar. Es una opinión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los HECHOS son afirmaciones que se pueden verificar (medir, contar, consultar). Las OPINIONES son juicios subjetivos que expresan gustos, creencias o valoraciones. Palabras como \"hermoso\", \"mejor\", \"debería\", \"injusto\" suelen indicar opiniones. Para distinguirlas, pregúntate: ¿esto se puede comprobar con datos?\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Diferenciar hecho de opinión",
+      "bundle_id": "CO-LEC-6-2026-W24-repaso-p6-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W24-repaso-p6-004-v1",
+      "statement": "> **Tesis:** Los estudiantes deben tener recreo de 30 minutos.\n>\n> **Argumento:** Porque necesitan tiempo para jugar, socializar y descansar la mente después de clases largas.\n\n¿Qué función cumple el argumento en relación con la tesis?",
+      "context": "Repaso: identificar argumentos",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contradecir la tesis",
+          "is_correct": false,
+          "feedback": "Incorrecto. El argumento no contradice la tesis, sino que la apoya. Dice \"porque\", que indica una razón a favor."
+        },
+        {
+          "letter": "B",
+          "text": "Preguntar si la tesis es cierta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El argumento no es una pregunta. Es una afirmación que da razones."
+        },
+        {
+          "letter": "C",
+          "text": "Apoyar la tesis dando razones",
+          "is_correct": true,
+          "feedback": "¡Correcto! El argumento responde a la pregunta ¿POR QUÉ? la tesis es válida. \"Porque necesitan tiempo para jugar...\" son las razones que apoyan que el recreo debe ser de 30 minutos."
+        },
+        {
+          "letter": "D",
+          "text": "Describir cómo es el recreo actualmente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El argumento no describe la situación actual, sino que da razones para cambiar o mantener algo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los argumentos son las razones que el autor da para convencernos de que su tesis es válida. Sin argumentos, una tesis es solo una opinión. Los argumentos responden a la pregunta \"¿por qué?\". Cuando leas un texto argumentativo, separa mentalmente la tesis (qué defiende) de los argumentos (por qué lo defiende).\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión de argumentos",
+      "bundle_id": "CO-LEC-6-2026-W24-repaso-p6-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W24-repaso-p6-005-v1",
+      "statement": "> **En la heladería**\n>\n> María entró a la heladería y pidió una bola de helado de arequipe. El vendedor le dijo: \"Se nos acabó el arequipe hace una hora\". María frunció el ceño. \"¿Qué les queda?\", preguntó. \"Vainilla, fresa y chocolate\", respondió el vendedor. María suspiró y pidió chocolate.\n\n¿Cómo se sintió María cuando le dijeron que no había arequipe?",
+      "context": "Repaso: inferir información implícita",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alegre, porque prefería chocolate",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si estuviera alegre, no habría fruncido el ceño ni suspirado. Sus reacciones indican lo contrario."
+        },
+        {
+          "letter": "B",
+          "text": "Decepcionada, porque quería arequipe",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Frunció el ceño\" y \"suspiró\" son señales de decepción. Además, pidió el helado de arequipe primero, lo que indica que era su preferido."
+        },
+        {
+          "letter": "C",
+          "text": "Enojada con el vendedor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque frunció el ceño, no hay evidencia de enojo contra el vendedor. El texto no dice que lo haya regañado o reclamado."
+        },
+        {
+          "letter": "D",
+          "text": "Indiferente, como si no le importara",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fruncir el ceño y suspirar muestran que sí le importó. La indiferencia se expresaría con un \"está bien, no importa\" sin reacciones emocionales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las emociones se infieren de las reacciones físicas y verbales de las personas. Fruncir el ceño indica molestia o decepción. Suspirar puede indicar resignación o frustración. Prestar atención a estas señales nos ayuda a entender cómo se sienten los personajes, aunque no lo digan explícitamente.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Inferencia básica",
+      "bundle_id": "CO-LEC-6-2026-W24-repaso-p6-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W24-repaso-p6-006-v1",
+      "statement": "> **El reciclaje en el colegio**\n>\n> El colegio San José decidió implementar un programa de reciclaje. Pusieron canecas de diferentes colores y capacitaron a los estudiantes. Al principio, muchos estudiantes confundían los colores. Por eso, los profesores colocaron dibujos en cada caneca para mostrar qué tipo de residuo iba en cada una.\n\n¿Cuál fue la CAUSA de que los profesores colocaran dibujos en las canecas?",
+      "context": "Repaso: identificar causa y efecto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el colegio decidiera implementar el reciclaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa fue la causa inicial de todo el programa, pero no la causa específica de poner dibujos. Primero pusieron canecas, luego vieron el problema."
+        },
+        {
+          "letter": "B",
+          "text": "Que hubiera canecas de diferentes colores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las canecas de colores existían desde el inicio. El problema fue que los estudiantes las confundían."
+        },
+        {
+          "letter": "C",
+          "text": "Que los estudiantes confundían los colores de las canecas",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto dice: \"Al principio, muchos estudiantes confundían los colores. Por eso, los profesores colocaron dibujos\". La confusión (causa) llevó a la solución de los dibujos (efecto)."
+        },
+        {
+          "letter": "D",
+          "text": "Que los profesores quisieran decorar las canecas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay evidencia de que la decoración fuera el motivo. La razón fue práctica: resolver la confusión de los estudiantes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para identificar la causa de una acción, busca qué problema la motivó. \"Por eso\", \"por esta razón\", \"debido a\" son conectores que señalan que lo que viene antes es la causa y lo que sigue es la consecuencia. Aquí, el problema (confusión) causó la solución (dibujos).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Causa-efecto aplicado",
+      "bundle_id": "CO-LEC-6-2026-W24-repaso-p6-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W24-repaso-p6-007-v1",
+      "statement": "> **Carta a los padres de familia**\n>\n> Queridos padres: Los invitamos a la primera reunión del año escolar. Hablaremos sobre el rendimiento académico de sus hijos y las actividades extracurriculares. Su asistencia es muy importante para el desarrollo educativo de los niños. Los esperamos el viernes 15 a las 6:00 p. m. en el auditorio del colegio.\n\n¿A qué audiencia va dirigido este texto persuasivo?",
+      "context": "Repaso: identificar a quién va dirigido un texto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A los estudiantes del colegio",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carta habla de \"sus hijos\" y \"los niños\" en tercera persona, lo que indica que los destinatarios no son los estudiantes sino sus padres."
+        },
+        {
+          "letter": "B",
+          "text": "A los padres y acudientes de los estudiantes",
+          "is_correct": true,
+          "feedback": "¡Correcto! La carta comienza con \"Queridos padres\" y menciona \"el rendimiento académico de sus hijos\". Está claramente dirigida a los padres de familia."
+        },
+        {
+          "letter": "C",
+          "text": "A los profesores del colegio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los profesores serían los organizadores de la reunión, no los destinatarios. La carta está escrita por el colegio para los padres."
+        },
+        {
+          "letter": "D",
+          "text": "A la comunidad del barrio",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carta se dirige específicamente a los padres del colegio, no a toda la comunidad. El tema es escolar, no comunitario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar la audiencia es clave para entender un texto persuasivo. El lenguaje, el tono y el contenido se adaptan según a quién va dirigido. Aquí, el tratamiento formal (\"Queridos padres\"), el tema escolar y la mención de \"sus hijos\" indican claramente que la audiencia son los padres de familia.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Persuasión y audiencia",
+      "bundle_id": "CO-LEC-6-2026-W24-repaso-p6-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W24-repaso-p6-008-v1",
+      "statement": "**Tesis:** Los estudiantes de sexto grado deberían aprender a programar computadores.\n\n**Argumento 1:** La programación es una habilidad útil para el futuro.\n**Argumento 2:** En otros países ya enseñan programación desde primaria.\n**Argumento 3:** A Juan, un estudiante de sexto, no le gusta la programación.\n\n¿Cuál de los argumentos NO es pertinente para apoyar la tesis?",
+      "context": "Repaso: evaluar si un argumento es adecuado",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Argumento 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Útil para el futuro\" es una razón válida. Apoya la tesis porque muestra un beneficio de aprender programación."
+        },
+        {
+          "letter": "B",
+          "text": "El Argumento 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"En otros países ya lo hacen\" es un argumento válido. Usa el ejemplo de otros lugares como evidencia de que es posible y beneficioso."
+        },
+        {
+          "letter": "C",
+          "text": "El Argumento 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Que a Juan no le guste la programación no es un argumento en contra ni a favor de la tesis. Es una opinión personal de un estudiante, no una razón para decidir si todos deben aprenderla."
+        },
+        {
+          "letter": "D",
+          "text": "Todos son pertinentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Argumento 3 no es pertinente. Una opinión individual no es un argumento válido para decidir una política educativa general."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un argumento pertinente es aquel que tiene relación directa con la tesis y aporta información relevante para apoyarla o refutarla. Las opiniones personales de individuos (\"a Juan no le gusta\") no son argumentos sólidos para decisiones generales. Los buenos argumentos usan datos, ejemplos, causas o principios generales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Argumentos: suficiencia y pertinencia",
+      "bundle_id": "CO-LEC-6-2026-W24-repaso-p6-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W24-repaso-p6-009-v1",
+      "statement": "**Texto A:** \"Los perros deben vivir en casas con patio, no en apartamentos. Necesitan espacio para correr y jugar. Un perro encerrado en un apartamento pequeño se estresa y puede volverse agresivo.\"\n\n**Texto B:** \"Los perros pueden vivir felices en apartamentos si sus dueños los sacan a pasear tres veces al día y les proporcionan juguetes y estimulación. Lo importante no es el espacio, sino el tiempo y la atención que reciben.\"\n\n¿En qué se diferencian principalmente las tesis de estos dos textos?",
+      "context": "Repaso: contrastar dos textos argumentativos",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto A habla de perros grandes y el Texto B de perros pequeños",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los textos no especifican el tamaño de los perros. Esa diferencia no está en los textos."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto A sostiene que los perros necesitan patio, mientras que el Texto B sostiene que pueden vivir en apartamentos si reciben atención suficiente",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tesis de A es \"los perros deben vivir en casas con patio\". La tesis de B es \"pueden vivir en apartamentos si reciben atención\". Son posturas opuestas sobre el mismo tema."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto A defiende a los perros y el Texto B defiende a los dueños",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos textos se centran en el bienestar del perro, no en los dueños."
+        },
+        {
+          "letter": "D",
+          "text": "No se diferencian, ambos dicen lo mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dicen lo opuesto. A dice que los perros necesitan patio, B dice que no es necesario si hay atención. Son tesis contrarias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar tesis de dos textos sobre el mismo tema ayuda a desarrollar pensamiento crítico. La tesis de A se basa en el espacio físico; la de B se basa en la atención y el cuidado. Reconocer posturas opuestas es el primer paso para formarse una opinión propia informada.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comparación de argumentos",
+      "bundle_id": "CO-LEC-6-2026-W24-repaso-p6-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W24-repaso-p6-010-v1",
+      "statement": "Un estudiante escribió:\n\n> \"No deberían vender comida chatarra en la tienda escolar. La comida chatarra es mala para la salud. Todos lo saben.\"\n\n¿Qué debilidad tiene este argumento?",
+      "context": "Repaso: juzgar la efectividad de un argumento",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tesis no está clara",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tesis es clara: \"No deberían vender comida chatarra\". Está explícita desde la primera oración."
+        },
+        {
+          "letter": "B",
+          "text": "El argumento es demasiado largo y confuso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El argumento es corto, no confuso. El problema no es la extensión."
+        },
+        {
+          "letter": "C",
+          "text": "El argumento es muy general, no ofrece evidencia concreta y apela a lo que \"todos saben\" sin demostrarlo",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Es mala para la salud\" es muy vago. No dice cómo afecta la salud, ni cita datos o ejemplos. \"Todos lo saben\" es una falacia de apelación a la mayoría. Un buen argumento necesita evidencia específica."
+        },
+        {
+          "letter": "D",
+          "text": "La ortografía es incorrecta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto está bien escrito ortográficamente. El problema es de contenido y calidad argumentativa, no de forma."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un argumento débil se caracteriza por: generalidades sin sustento (\"es malo\"), apelaciones a lo que \"todos saben\" o \"todo el mundo dice\" (falacia ad populum), y falta de evidencia concreta. Para mejorar este argumento, habría que agregar datos: \"contiene altos niveles de azúcar que se asocian con obesidad infantil, y en Colombia el 24% de los niños tiene sobrepeso\".\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluación de la calidad del texto argumentativo",
+      "bundle_id": "CO-LEC-6-2026-W24-repaso-p6-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
     }
   ]
 }

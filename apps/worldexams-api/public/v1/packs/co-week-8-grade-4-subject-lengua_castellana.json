@@ -8,6 +8,374 @@
   },
   "questions": [
     {
+      "id": "CO-LEN-4-2026-W08-discurso-oral-001-MASTERY-v1",
+      "statement": "Carolina va a dar un discurso frente a sus compañeros sobre la importancia de ahorrar agua. ¿Cuál de estos elementos es el más importante para que su discurso sea entendido por todos?",
+      "context": "Una exposición en el Colegio Alfonso López en Valledupar",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hablar muy rápido para terminar pronto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hablar rápido dificulta la comprensión y muestra nerviosismo."
+        },
+        {
+          "letter": "B",
+          "text": "Hablar con un volumen adecuado y una pronunciación clara.",
+          "is_correct": true,
+          "feedback": "Correcto. La claridad en la voz es fundamental para que el mensaje llegue a la audiencia."
+        },
+        {
+          "letter": "C",
+          "text": "Mirar al suelo todo el tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contacto visual es clave para conectar con el público."
+        },
+        {
+          "letter": "D",
+          "text": "Leer todo el tiempo de una hoja sin levantar la cabeza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un buen discurso debe ser expresivo, no solo leído."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La comunicación oral efectiva requiere el manejo de la voz (volumen, tono, dicción). El estudiante debe reconocer que el cuerpo y la voz son sus herramientas de comunicación.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-4-2026-W08-discurso-oral-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-discurso-oral-001-MASTERY-v2",
+      "statement": "Cuando hablamos en público, nuestras manos y nuestro rostro también comunican. ¿Cómo se le llama a este tipo de comunicación?",
+      "context": "El lenguaje no verbal en una presentación en Montería",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comunicación escrita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escrita usa letras y signos en un papel o pantalla."
+        },
+        {
+          "letter": "B",
+          "text": "Lenguaje no verbal o gestual.",
+          "is_correct": true,
+          "feedback": "Correcto. Los gestos, la postura y las expresiones faciales son parte del lenguaje no verbal."
+        },
+        {
+          "letter": "C",
+          "text": "Comunicación silenciosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es silenciosa porque acompaña a las palabras."
+        },
+        {
+          "letter": "D",
+          "text": "Idioma de señas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El idioma de señas es un sistema completo para personas con discapacidad auditiva, diferente a los gestos comunes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lenguaje no verbal complementa y refuerza el mensaje oral. Identificar este concepto ayuda a los estudiantes a mejorar su expresión corporal.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-4-2026-W08-discurso-oral-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-discurso-oral-001-MASTERY-v3",
+      "statement": "Estás por empezar tu discurso sobre el chigüiro. ¿Cuál es la mejor forma de comenzar para llamar la atención del público?",
+      "context": "El inicio de un discurso sobre la fauna de los Llanos Orientales en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Empezar a hablar sin saludar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El saludo es una norma de cortesía básica."
+        },
+        {
+          "letter": "B",
+          "text": "Saludar amigablemente y hacer una pregunta interesante sobre el tema.",
+          "is_correct": true,
+          "feedback": "Correcto. Captar la atención desde el inicio asegura que el público escuche el resto del discurso."
+        },
+        {
+          "letter": "C",
+          "text": "Decir que tienes mucha pena y que no quieres hablar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto desanima al público y le quita importancia a tu tema."
+        },
+        {
+          "letter": "D",
+          "text": "Gritar muy fuerte para que todos se asusten.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El volumen debe ser adecuado, no molesto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La apertura de un discurso es estratégica. El estudiante debe aprender técnicas sencillas (saludo, pregunta, dato curioso) para involucrar a su audiencia.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-4-2026-W08-discurso-oral-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-discurso-oral-001-MASTERY-v4",
+      "statement": "Si estás dando un discurso oral sobre el Carnaval de Pasto, ¿por qué sería útil mostrar fotos o un video corto?",
+      "context": "El uso de apoyos visuales en una charla sobre el Carnaval de Negros y Blancos",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que la gente no nos mire a nosotros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orador sigue siendo el centro, las fotos son un apoyo."
+        },
+        {
+          "letter": "B",
+          "text": "Para ayudar a que el público se imagine mejor lo que estamos explicando.",
+          "is_correct": true,
+          "feedback": "Correcto. Los apoyos visuales refuerzan el mensaje oral y lo hacen más claro y entretenido."
+        },
+        {
+          "letter": "C",
+          "text": "Para que el discurso dure más tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo es la claridad, no la duración."
+        },
+        {
+          "letter": "D",
+          "text": "Porque así no tenemos que hablar tanto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orador debe explicar las imágenes que muestra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La integración de recursos multimediales o visuales es una competencia de comunicación oral. El estudiante debe entender que estos recursos sirven para aclarar conceptos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-4-2026-W08-discurso-oral-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-discurso-oral-001-MASTERY-v5",
+      "statement": "Vas a dar un discurso sobre la selva a niños de preescolar. ¿Cómo debe ser tu lenguaje en comparación con un discurso para adultos?",
+      "context": "Adaptación del lenguaje en una charla en el Amazonas",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debes usar palabras muy técnicas y difíciles para que vean que sabes mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El público no entendería el mensaje."
+        },
+        {
+          "letter": "B",
+          "text": "Debes usar palabras sencillas, ejemplos claros y un tono de voz animado.",
+          "is_correct": true,
+          "feedback": "Correcto. Adecuar el lenguaje al público (audiencia) es clave para el éxito de la comunicación."
+        },
+        {
+          "letter": "C",
+          "text": "No debes cambiar nada, el discurso debe ser igual para todos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de adaptación hace que el mensaje se pierda."
+        },
+        {
+          "letter": "D",
+          "text": "Debes hablar en otro idioma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A menos que los niños no hablen español, no es necesario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La adecuación es una propiedad fundamental de todo texto, incluido el oral. El estudiante debe ser capaz de ajustar su registro según quién lo escucha.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-4-2026-W08-discurso-oral-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-discurso-oral-001-MASTERY-v6",
+      "statement": "¿En qué se diferencia un discurso preparado (como una exposición) de una charla con tus amigos en el recreo?",
+      "context": "La diferencia entre un discurso preparado y una conversación espontánea",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En que en el recreo no se usan palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se usan, pero de forma diferente."
+        },
+        {
+          "letter": "B",
+          "text": "En que el discurso tiene un orden planeado y busca informar o convencer sobre algo específico.",
+          "is_correct": true,
+          "feedback": "Correcto. La planeación y el propósito definido caracterizan al discurso formal."
+        },
+        {
+          "letter": "C",
+          "text": "No hay diferencia, hablar siempre es lo mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambian el propósito, el orden y el lenguaje."
+        },
+        {
+          "letter": "D",
+          "text": "En que en el discurso está prohibido reírse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El humor puede usarse en un discurso si es adecuado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer la diferencia entre la oralidad formal e informal permite al estudiante entender cuándo debe prepararse y cuándo puede ser espontáneo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-4-2026-W08-discurso-oral-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-discurso-oral-001-MASTERY-v7",
+      "statement": "Al final de tu discurso, un compañero te hace una pregunta que no sabes responder. ¿Cuál es la mejor reacción según las normas del discurso oral?",
+      "context": "El manejo de preguntas difíciles después de un discurso en Bucaramanga",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decirle que su pregunta es tonta y seguir adelante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una falta de respeto hacia la audiencia."
+        },
+        {
+          "letter": "B",
+          "text": "Inventar una respuesta falsa para que no piensen que no sabes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La honestidad es fundamental en la comunicación académica."
+        },
+        {
+          "letter": "C",
+          "text": "Agradecer la pregunta, admitir que no tienes el dato exacto y prometer investigarlo.",
+          "is_correct": true,
+          "feedback": "Correcto. Muestra madurez, honestidad y respeto por el público."
+        },
+        {
+          "letter": "D",
+          "text": "Salir corriendo del salón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No soluciona la situación y muestra falta de preparación emocional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El manejo de la audiencia y la resolución de dudas es la parte final del discurso oral. El estudiante debe aprender estrategias de cortesía para situaciones imprevistas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-4-2026-W08-discurso-oral-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-discurso-oral-001-MASTERY-v8",
+      "statement": "Imagina que un orador dice: \"Queremos paz\" con una voz muy enojada y gritando. ¿Qué problema hay en su discurso oral?",
+      "context": "La importancia de la entonación en un discurso sobre la paz",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay problema, gritar ayuda a que lo oigan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El volumen alto no siempre es bueno."
+        },
+        {
+          "letter": "B",
+          "text": "Hay una contradicción entre lo que dice (paz) y cómo lo dice (con enojo).",
+          "is_correct": true,
+          "feedback": "Correcto. La entonación y la emoción deben coincidir con el mensaje para que sea creíble."
+        },
+        {
+          "letter": "C",
+          "text": "El problema es que la frase es muy corta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las frases cortas pueden ser muy potentes."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, el orador puede gritar lo que quiera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un buen orador busca la coherencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coherencia entre el contenido y la forma (entonación) es un aspecto avanzado de la oralidad. El estudiante debe notar cómo la forma de hablar puede cambiar el significado del mensaje.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2, bundle_size 8. |\n| Curricular | 40/40 | Cubre manejo de voz, lenguaje no verbal y adecuación. |\n| Contexto | 20/20 | Referencias a Valledupar, Montería, Villavicencio, Pasto, Amazonas y Bucaramanga. |\n| Redacción | 10/10 | Lenguaje claro y situaciones prácticas de aula. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-4-2026-W08-discurso-oral-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
+    },
+    {
       "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v1",
       "statement": "¿Cómo se forma una palabra compuesta?",
       "context": "Un niño en Bogotá explica qué son las palabras compuestas.",
@@ -48,7 +416,10 @@
       "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v2",
@@ -91,7 +462,10 @@
       "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v3",
@@ -134,7 +508,10 @@
       "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v4",
@@ -183,7 +560,10 @@
       "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v5",
@@ -226,7 +606,10 @@
       "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v6",
@@ -269,7 +652,10 @@
       "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v7",
@@ -312,7 +698,10 @@
       "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v8",
@@ -355,7 +744,10 @@
       "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v9",
@@ -398,7 +790,10 @@
       "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     },
     {
       "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v10",
@@ -441,7 +836,10 @@
       "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "lengua-castellana",
+      "grade": 4,
+      "country": "co"
     }
   ]
 }

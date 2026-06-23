@@ -1,0 +1,891 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Matematica",
+    "country": "bo",
+    "pack_id": "bo-week-24-grade-11-subject-matematica",
+    "generated_at": "2026-06-22T05:46:15.593Z"
+  },
+  "questions": [
+    {
+      "id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-v1",
+      "statement": "Simplifique: (6)(2x + 25)",
+      "context": "Estudiantes de BO practicando determinantes inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 12x + 150",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 12x + 25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 8x + 150",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 12x - 150\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (6)(2x + 25) = 12x + 150.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-v2",
+      "statement": "Resuelve: 2(x + 5) = 16",
+      "context": "Estudiantes de BO practicando determinantes inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 4\r\n  \r\n\r\n**Explicacion:** 2(x+5) = 16 -> x+5 = 8 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-v3",
+      "statement": "Maria compro 4 cuadernos a $8.1 c/u en Patacamaya. &iquest;Cuanto gasto?",
+      "context": "Estudiantes de BO practicando determinantes inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $32.1",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $4.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $8.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $12.1\r\n  \r\n\r\n**Explicacion:** Total = 4 x $8 = $32.1.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-v4",
+      "statement": "Un estudiante de Colegio Nacional Montero en Montero grafica f(x) = 5x + 9. &iquest;Cual es la pendiente?",
+      "context": "Estudiantes de BO practicando determinantes inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 5\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-v5",
+      "statement": "En un examen ANEP/MEC en Sucre, se pide: si f(x) = 4x^2 + 1x + 8. &iquest;Cual es f(2)?",
+      "context": "Estudiantes de BO practicando determinantes inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 26",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 5\r\n  \r\n\r\n**Explicacion:** Sustituyo x=2: f(2) = 4(4) + 1(2) + 8 = 26.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-v6",
+      "statement": "Resuelve la ecuacion: x^2 - 16x + 60 = 0",
+      "context": "Estudiantes de BO practicando determinantes inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** x = 6 y x = 10",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** x = 16 y x = 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** x = 0 y x = 60",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** No tiene solucion\r\n  \r\n\r\n**Explicacion:** Ecuacion cuadratica: (x-6)(x-10) = 0, por tanto x = 6 o x = 10.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-v7",
+      "statement": "Un estudiante de Riberalta obtuvo notas: 6, 18, 14. &iquest;Cual es la media?",
+      "context": "Estudiantes de BO practicando determinantes inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 12.7",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 9\r\n  \r\n\r\n**Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-v8",
+      "statement": "Calcule la derivada de f(x) = 5x^3 + 9x^2 + 8x",
+      "context": "Estudiantes de BO practicando determinantes inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** f'(x) = 15x^2 + 18x + 8",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** f'(x) = 5x^2 + 9x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** f'(x) = 15x^2 + 9x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** f'(x) = 15x^3 + 18x^2\r\n  \r\n\r\n**Explicacion:** Derivada termino a termino: d/dx(5x^3) = 15x^2, d/dx(9x^2) = 18x, d/dx(8x) = 8.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-v9",
+      "statement": "&iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0",
+      "context": "Estudiantes de BO practicando determinantes inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Si, es correcta porque f'(0) = 0 y f''(0) > 0",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** No, tiene un maximo en x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** No, no tiene extremos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** Solo es correcta para x > 0\r\n  \r\n\r\n**Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-v10",
+      "statement": "En Potos, un estudiante del Colegio Nacional Potos resuelve: 3x + 4 = 19. &iquest;Cual es el valor de x?",
+      "context": "Estudiantes de BO practicando determinantes inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 11\r\n  \r\n\r\n**Explicacion:** Se resta 4 de ambos lados. Luego se divide por 3: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-v11",
+      "statement": "Simplifique: (2)(12x + 11)",
+      "context": "Estudiantes de BO practicando determinantes inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 24x + 22",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 24x + 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 14x + 22",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 24x - 22\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (2)(12x + 11) = 24x + 22.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-v12",
+      "statement": "Resuelve: 2(x + 4) = 14",
+      "context": "Estudiantes de BO practicando determinantes inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 3\r\n  \r\n\r\n**Explicacion:** 2(x+4) = 14 -> x+4 = 7 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-v13",
+      "statement": "Maria compro 8 cuadernos a $9.1 c/u en Sucre. &iquest;Cuanto gasto?",
+      "context": "Estudiantes de BO practicando determinantes inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $72.1",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $8.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $9.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $17.1\r\n  \r\n\r\n**Explicacion:** Total = 8 x $9 = $72.1.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-v14",
+      "statement": "Un estudiante de Colegio Nacional Trinidad en Trinidad grafica f(x) = 4x + 4. &iquest;Cual es la pendiente?",
+      "context": "Estudiantes de BO practicando determinantes inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 4",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 1\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-v15",
+      "statement": "En un examen ANEP/MEC en Potos, se pide: si f(x) = 7x^2 + 5x + 5. &iquest;Cual es f(2)?",
+      "context": "Estudiantes de BO practicando determinantes inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 43",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 19",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 12\r\n  \r\n\r\n**Explicacion:** Sustituyo x=2: f(2) = 7(4) + 5(2) + 5 = 43.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-v16",
+      "statement": "Resuelve la ecuacion: x^2 - 12x + 32 = 0",
+      "context": "Estudiantes de BO practicando determinantes inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** x = 8 y x = 4",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** x = 12 y x = 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** x = 0 y x = 32",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** No tiene solucion\r\n  \r\n\r\n**Explicacion:** Ecuacion cuadratica: (x-8)(x-4) = 0, por tanto x = 8 o x = 4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-v17",
+      "statement": "Un estudiante de Oruro obtuvo notas: 10, 24, 18. &iquest;Cual es la media?",
+      "context": "Estudiantes de BO practicando determinantes inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 17.3",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 40",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 13\r\n  \r\n\r\n**Explicacion:** La media aritmetica se calcula sumando todos los valores y dividiendo por el numero total.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-v18",
+      "statement": "Calcule la derivada de f(x) = 7x^3 + 7x^2 + 2x",
+      "context": "Estudiantes de BO practicando determinantes inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** f'(x) = 21x^2 + 14x + 2",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** f'(x) = 7x^2 + 7x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** f'(x) = 21x^2 + 7x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** f'(x) = 21x^3 + 14x^2\r\n  \r\n\r\n**Explicacion:** Derivada termino a termino: d/dx(7x^3) = 21x^2, d/dx(7x^2) = 14x, d/dx(2x) = 2.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-v19",
+      "statement": "&iquest;Es correcta la siguiente afirmacion? La funcion f(x) = x^2 tiene un minimo en x = 0",
+      "context": "Estudiantes de BO practicando determinantes inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Si, es correcta porque f'(0) = 0 y f''(0) > 0",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** No, tiene un maximo en x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** No, no tiene extremos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** Solo es correcta para x > 0\r\n  \r\n\r\n**Explicacion:** f'(x) = 2x, f'(0) = 0; f''(x) = 2 > 0, por tanto es un minimo local.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-v20",
+      "statement": "En Camiri, un estudiante del Colegio Nacional Camiri resuelve: 7x + 6 = 41. &iquest;Cual es el valor de x?",
+      "context": "Estudiantes de BO practicando determinantes inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "&iexcl;Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 11\r\n  \r\n\r\n**Explicacion:** Se resta 6 de ambos lados. Luego se divide por 7: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "BO-MAT-11-2026-W24-determinantes-inversa-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Matematica",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

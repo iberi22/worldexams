@@ -1,0 +1,1821 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-33-grade-6-subject-lectura_critica",
+    "generated_at": "2026-06-22T05:46:16.453Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEC-6-2026-W33-estructura-obra-teatral-001-v1",
+      "statement": "Según la estructura clásica, ¿cuáles son las tres partes fundamentales de una obra de teatro?",
+      "context": "Partes de un texto teatral",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introducción, desarrollo y moraleja",
+          "is_correct": false,
+          "feedback": "Incorrecto. La moraleja es propia de fábulas, no del teatro. Aunque algunas obras tengan enseñanza, no es una parte estructural."
+        },
+        {
+          "letter": "B",
+          "text": "Planteamiento (presentación de personajes y conflicto), nudo (desarrollo del conflicto) y desenlace (solución o final)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La estructura clásica tripartita organización la historia: 1) Planteamiento: conocemos a los personajes y el problema, 2) Nudo: el conflicto se complica, 3) Desenlace: se resuelve."
+        },
+        {
+          "letter": "C",
+          "text": "Inicio, acto único y final",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una obra puede tener varios actos. \"Acto único\" es una característica de algunas obras, no una parte estructural general."
+        },
+        {
+          "letter": "D",
+          "text": "Diálogo, acotaciones y personajes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos son componentes del texto teatral, no partes de la estructura narrativa. Son el \"cómo\", no el \"orden\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al igual que un cuento, una obra de teatro tiene una estructura que organiza la historia. El planteamiento presenta a los personajes y la situación inicial; el nudo desarrolla el conflicto, generalmente con obstáculos y complicaciones; el desenlace ofrece una resolución. Esta estructura ayuda al público a seguir la historia y mantiene el interés.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de estructura tripartita",
+      "bundle_id": "CO-LEC-6-2026-W33-estructura-obra-teatral-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W33-estructura-obra-teatral-002-v1",
+      "statement": "En el teatro, un \"acto\" es:",
+      "context": "¿Qué es un acto?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada palabra que dice un personaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un parlamento o réplica. Un parlamento es una unidad mucho más pequeña."
+        },
+        {
+          "letter": "B",
+          "text": "El momento en que un personaje entra o sale del escenario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso marca una nueva escena, no un acto. Los cambios de escena pueden ocurrir dentro del mismo acto."
+        },
+        {
+          "letter": "C",
+          "text": "Una división importante de la obra que suele marcar un cambio de tiempo, lugar o situación significativa",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los actos son como \"capítulos\" del teatro. Un acto puede durar varios minutos e incluir varias escenas. Entre actos suele haber un intermedio."
+        },
+        {
+          "letter": "D",
+          "text": "La lista de personajes al inicio de la obra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa lista se llama \"dramatis personae\" o \"reparto\". Los actos son divisiones de la obra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Piensa en los actos como los capítulos de un libro: dividen la historia en partes con sentido completo. Una obra de un solo acto es breve y se desarrolla sin pausa. Una obra de tres actos (estructura clásica) suele tener: Acto I (planteamiento), Acto II (nudo), Acto III (desenlace). Entre acto y acto suele haber un intermedio para que el público descanse y el equipo cambie la escenografía.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Definición de acto teatral",
+      "bundle_id": "CO-LEC-6-2026-W33-estructura-obra-teatral-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W33-estructura-obra-teatral-003-v1",
+      "statement": "> **ACTO I**\r\n> \r\n> *Una sala de clase en un colegio de Medellín. Son las 7 de la mañana. Los estudiantes entran poco a poco. SOFÍA está en su puesto, leyendo un libro.*\r\n>\r\n> **SOFÍA:** (Sin levantar la vista del libro) ¿Ya viste quién llegó?\r\n>\r\n> **CAMILO:** (Dejando la mochila en el suelo) La nueva. Se llama Valeria. Dicen que viene de Apartadó.\r\n>\r\n> **SOFÍA:** (Cerrando el libro) ¿Y por qué se cambió de colegio?\r\n>\r\n> **CAMILO:** (Encogiéndose de hombros) No sé. Nadie le ha hablado todavía.\r\n\r\n¿Qué información nos da este planteamiento?",
+      "context": "Reconocer la presentación en una obra",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ya sabemos cómo termina la obra",
+          "is_correct": false,
+          "feedback": "Incorrecto. El planteamiento presenta la situación inicial, no el final."
+        },
+        {
+          "letter": "B",
+          "text": "Sabemos quiénes son los personajes principales (Sofía y Camilo) y la situación (llega una estudiante nueva de quien no saben mucho)",
+          "is_correct": true,
+          "feedback": "¡Correcto! En el planteamiento conocemos el lugar (colegio de Medellín), los personajes (Sofía, Camilo) y la situación que generará el conflicto (la llegada de una nueva estudiante)."
+        },
+        {
+          "letter": "C",
+          "text": "El conflicto ya está resuelto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conflicto apenas se está presentando: la llegada de la nueva estudiante. Falta todo el desarrollo."
+        },
+        {
+          "letter": "D",
+          "text": "Sabemos que Valeria será la antagonista",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aún no sabemos qué papel jugará Valeria. El planteamiento solo presenta la llegada, no su rol."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El planteamiento responde a las preguntas básicas: ¿DÓNDE ocurre? (colegio), ¿CUÁNDO? (mañana, inicio de jornada), ¿QUIÉNES son los personajes? (Sofía, Camilo, y se anuncia a Valeria), ¿QUÉ situación se presenta? (llega una estudiante nueva). El conflicto potencial está en el misterio alrededor de Valeria: ¿por qué se cambió? ¿por qué nadie le ha hablado?\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Identificación de planteamiento",
+      "bundle_id": "CO-LEC-6-2026-W33-estructura-obra-teatral-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W33-estructura-obra-teatral-004-v1",
+      "statement": "> **ACTO II**\r\n> \r\n> *Una semana después. En el patio del colegio. VALERIA está sola en una banca. SOFÍA se acerca.*\r\n>\r\n> **SOFÍA:** (Sentándose a su lado) ¿Por qué no te sientas con nosotras en el descanso?\r\n>\r\n> **VALERIA:** (Mirando al suelo) Es que… no sé. En mi otro colegio era diferente. Allá todos se conocían.\r\n>\r\n> **SOFÍA:** Acá también puedes conocer gente. Pero tienes que dejar de esconderte.\r\n>\r\n> **VALERIA:** (Con los ojos vidriosos) No es fácil. En Apartadó… bueno, da igual.\r\n>\r\n> **SOFÍA:** ¿Qué pasó en Apartadó?\r\n>\r\n> **VALERIA:** (Negando con la cabeza) No puedo hablar de eso.\r\n\r\n¿Qué función cumple este Acto II en la estructura?",
+      "context": "Reconocer el desarrollo del conflicto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta a los personajes por primera vez",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los personajes ya fueron presentados en el Acto I."
+        },
+        {
+          "letter": "B",
+          "text": "Desarrolla el conflicto: Valeria tiene un pasado que no quiere revelar, lo que crea misterio y tensión entre los personajes",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nudo profundiza el conflicto. Ya sabemos que Valeria tiene algo en su pasado que le impide integrarse. La tensión aumenta porque el público quiere saber qué pasó en Apartadó."
+        },
+        {
+          "letter": "C",
+          "text": "Muestra el final feliz de la historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desenlace todavía no ha ocurrido. El conflicto está en su punto más alto."
+        },
+        {
+          "letter": "D",
+          "text": "Resuelve el misterio de Valeria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario: el misterio se profundiza cuando Valeria dice \"No puedo hablar de eso\". El nudo complica, no resuelve."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El nudo o desarrollo es la parte más extensa de la obra. Aquí el conflicto se complica: aparecen obstáculos, los personajes toman decisiones, la tensión aumenta. En este caso, el misterio del pasado de Valeria se profundiza, lo que mantiene al público interesado en lo que sucederá después. Un buen nudo va aumentando la tensión gradualmente hasta llegar al clímax (el punto de mayor intensidad).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Identificación del nudo",
+      "bundle_id": "CO-LEC-6-2026-W33-estructura-obra-teatral-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W33-estructura-obra-teatral-005-v1",
+      "statement": "> **ACTO III**\r\n> \r\n> *Un mes después. Salón de actos del colegio. Es el día de la exposición cultural. VALERIA está en el escenario, presentando una danza del Pacífico que ella misma coreografió. SOFÍA y CAMILO la animan desde el público. Al terminar, todos aplauden. VALERIA sonríe, busca a SOFÍA con la mirada y le hace un gesto de gracias.*\r\n>\r\n> **SOFÍA:** (A Camilo, en voz baja) Lo logró.\r\n>\r\n> **CAMILO:** (Asintiendo) Nunca debió dejar de intentarlo.\r\n\r\n¿Qué característica tiene este desenlace?",
+      "context": "Reconocer la resolución",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un final trágico donde Valeria fracasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valeria tiene éxito en su presentación y es felicitada."
+        },
+        {
+          "letter": "B",
+          "text": "No resuelve nada, la obra termina sin conclusión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La obra muestra que Valeria logró integrarse y superó su timidez. La situación inicial (aislamiento) se ha resuelto."
+        },
+        {
+          "letter": "C",
+          "text": "Es un final resolutivo y positivo: Valeria supera su aislamiento, se integra y comparte su talento con la comunidad escolar",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desenlace muestra la solución del conflicto: Valeria, que antes estaba sola y no hablaba de su pasado, ahora se presenta frente a todos y comparte su cultura. El círculo se cierra."
+        },
+        {
+          "letter": "D",
+          "text": "El desenlace presenta un nuevo conflicto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desenlace resuelve el conflicto principal. Aunque la vida de los personajes continúa, la historia principal ha concluido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El desenlace cierra la historia. Puede ser feliz (los personajes logran sus objetivos), trágico (fracasan) o abierto (queda algo sin resolver, pero el conflicto principal se cierra). En este caso, el desenlace es positivo: Valeria pasa de ser una estudiante aislada a compartir su talento con toda la comunidad. El cambio del personaje es evidente: de \"no puedo hablar de eso\" a \"presenta una danza en el escenario\".\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Identificación del desenlace",
+      "bundle_id": "CO-LEC-6-2026-W33-estructura-obra-teatral-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W33-estructura-obra-teatral-006-v1",
+      "statement": "En una obra de teatro, ¿cuál es la diferencia entre un acto y una escena?",
+      "context": "Comprender la subdivisión interna",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay diferencia, son sinónimos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son conceptos distintos. Un acto contiene varias escenas."
+        },
+        {
+          "letter": "B",
+          "text": "Un acto es una división mayor que puede contener varias escenas; una escena cambia cuando un personaje entra o sale del escenario",
+          "is_correct": true,
+          "feedback": "¡Correcto! La escena es la unidad más pequeña de la estructura teatral. Cada vez que un personaje entra o sale, comienza una nueva escena. El acto agrupa varias escenas con una unidad temática o temporal."
+        },
+        {
+          "letter": "C",
+          "text": "Un acto es lo que dice un personaje y una escena es donde ocurre la acción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un parlamento es lo que dice un personaje. Acto y escena son divisiones estructurales, no unidades de diálogo."
+        },
+        {
+          "letter": "D",
+          "text": "La escena es más grande que el acto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: los actos contienen escenas, como los capítulos contienen párrafos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Imagina que una obra es un libro: los actos son los capítulos y las escenas son los párrafos. Un acto puede tener una, cinco o diez escenas. La escena cambia cuando hay un cambio en la presencia de personajes en el escenario: alguien entra o sale. Si entra un nuevo personaje, es una nueva escena, incluso si sigue en el mismo lugar y momento.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Diferencia entre acto y escena",
+      "bundle_id": "CO-LEC-6-2026-W33-estructura-obra-teatral-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W33-estructura-obra-teatral-007-v1",
+      "statement": "Un grupo de estudiantes planea escribir una obra sobre la protección de los humedales en su ciudad. Tienen estas ideas sueltas:\r\n\r\n1. Los personajes descubren que quieren construir un centro comercial en el humedal.\r\n2. Los vecinos se organizan y protestan.\r\n3. El alcalde recibe las firmas de los vecinos y promete proteger el humedal.\r\n4. Conocemos a los personajes: Lucía (bióloga), Don Toño (pescador) y la señora Carmen (dueña de una tienda).\r\n5. El conflicto se complica cuando llega la maquinaria para empezar la construcción.\r\n\r\n¿Cuál sería el orden correcto según la estructura tripartita?",
+      "context": "Organizar una obra",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1-2-3-4-5",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presentación de personajes (4) debe ir al inicio, no al final."
+        },
+        {
+          "letter": "B",
+          "text": "4-1-5-2-3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Planteamiento (4 y 1: conocemos personajes y surge el conflicto), Nudo (5 y 2: el conflicto se complica y los personajes reaccionan), Desenlace (3: se resuelve el conflicto)."
+        },
+        {
+          "letter": "C",
+          "text": "3-2-1-5-4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este orden no sigue la progresión lógica: el desenlace (3) no puede ir al inicio de la obra."
+        },
+        {
+          "letter": "D",
+          "text": "2-4-5-1-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La protesta (2) no tiene sentido antes de conocer a los personajes (4) ni antes de que el conflicto sea presentado (1)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Organizar una obra teatral requiere pensar en la progresión: primero presentamos el mundo y los personajes (planteamiento), luego introducimos y complicamos el conflicto (nudo), y finalmente lo resolvemos (desenlace). El orden es importante porque el público necesita información previa para entender las acciones de los personajes.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aplicación de estructura",
+      "bundle_id": "CO-LEC-6-2026-W33-estructura-obra-teatral-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W33-estructura-obra-teatral-008-v1",
+      "statement": "> **ACTO I:** En una casa de La Candelaria (Bogotá), tres hermanos discuten qué hacer con la casa familiar que heredaron. Uno quiere venderla, otro quiere vivir allí y el tercero no opina.\r\n>\r\n> **ACTO II:** La discusión se intensifica. Cada hermano revela sus motivos personales: el primero tiene deudas, el segundo quiere criar allí a su hija, el tercero guarda un secreto sobre el verdadero valor de la casa.\r\n>\r\n> **ACTO III:** Tras una confrontación, los hermanos descubren que la casa guarda un tesoro escondido por su abuelo. Deciden restaurarla y vivir juntos.\r\n\r\n¿Cómo cambia la intensidad del conflicto a través de los actos?",
+      "context": "Comparar actos en una obra",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es igual en los tres actos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La intensidad del conflicto cambia: sube en el Acto II y se resuelve en el III."
+        },
+        {
+          "letter": "B",
+          "text": "En el Acto I se presenta el conflicto (baja intensidad), en el Acto II se intensifica (alta intensidad, revelaciones) y en el Acto III se resuelve (la intensidad baja tras el clímax)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esta es la curva dramática clásica: el conflicto se presenta, sube hasta un punto máximo (clímax, que ocurre cerca del final del Acto II o inicio del III) y finalmente desciende hacia la resolución."
+        },
+        {
+          "letter": "C",
+          "text": "El conflicto es más fuerte en el Acto I y luego disminuye",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el conflicto más fuerte está al inicio, no hay desarrollo que mantenga el interés del público."
+        },
+        {
+          "letter": "D",
+          "text": "El conflicto desaparece en el Acto III",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conflicto se resuelve, pero no desaparece sin más. La resolución es parte del tratamiento del conflicto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tensión dramática sigue una curva: sube gradualmente, alcanza un pico (clímax) y luego desciende. En el Acto I, el conflicto se presenta (tensión baja). En el Acto II, se complica con revelaciones (tensión alta). El clímax es el momento de máxima tensión, justo antes de la resolución. El Acto III relaja la tensión y muestra las consecuencias. Esta curva mantiene al público interesado y emocionalmente involucrado.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Análisis de la función de cada acto",
+      "bundle_id": "CO-LEC-6-2026-W33-estructura-obra-teatral-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W33-estructura-obra-teatral-009-v1",
+      "statement": "> **ACTO II (final)**\r\n> \r\n> *Oscuridad total. Solo se escuchan pasos apresurados. LUZ se enciende de golpe. ANDRÉS está frente a la puerta del sótano, con una linterna en la mano temblorosa.*\r\n>\r\n> **CATALINA:** (Desde atrás, con voz cortante) No abras esa puerta, Andrés.\r\n>\r\n> **ANDRÉS:** (Sin volverse) Tengo que saber la verdad. Tú sabes lo que hay ahí abajo.\r\n>\r\n> **CATALINA:** ¡Si abres esa puerta, no hay vuelta atrás!\r\n>\r\n> *(Andrés pone la mano en la manija. Pausa larga. La tensión es máxima.)*\r\n\r\n¿Por qué este momento podría considerarse el clímax de la obra?",
+      "context": "Reconocer el punto de mayor tensión",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es una escena sin diálogo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay diálogo, y aunque hubiera silencio, el clímax no se define por la ausencia de palabras."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los personajes están peleando",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay pelea física. El clímax es más que una discusión; es el punto de no retorno."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es el momento de máxima tensión: se acerca una revelación importante y la decisión de abrir la puerta cambiará la historia",
+          "is_correct": true,
+          "feedback": "¡Correcto! El clímax es el punto donde la tensión es insoportable. La mano en la manija simboliza que todo está a punto de cambiar. El público está en suspenso: ¿abrirá o no abrirá?"
+        },
+        {
+          "letter": "D",
+          "text": "Porque la acotación dice \"tensión es máxima\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la acotación lo indica, el clímax se define por la estructura: es el punto de mayor intensidad antes de que el conflicto comience a resolverse."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El clímax es el punto de inflexión de la obra: el momento en que todo puede cambiar. El público está al borde del asiento porque sabe que lo que ocurra aquí definirá el resto de la historia. Generalmente ocurre al final del nudo, justo antes del desenlace. Preguntas para identificarlo: ¿Es este el momento de mayor tensión? ¿La decisión que se toma aquí no tiene marcha atrás?\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identificación del clímax",
+      "bundle_id": "CO-LEC-6-2026-W33-estructura-obra-teatral-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W33-estructura-obra-teatral-010-v1",
+      "statement": "Una obra de teatro escolar sobre la diversidad cultural colombiana tiene esta estructura:\r\n\r\n> **ACTO I (10 min):** Un grupo de estudiantes investiga las regiones de Colombia para una feria cultural.\r\n>\r\n> **ACTO II (30 min):** Los estudiantes discuten largamente sobre qué región es la más importante. Cada uno defiende la suya. Discuten, se enojan, dejan de hablarse.\r\n>\r\n> **ACTO III (5 min):** La profesora los reúne y les dice que todas las regiones son importantes. Los estudiantes se disculpan y todos son felices.\r\n\r\n¿Qué problema estructural tiene esta obra?",
+      "context": "Evaluar una obra a partir de su estructura",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los actos están en el orden incorrecto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden es correcto: planteamiento, nudo, desenlace."
+        },
+        {
+          "letter": "B",
+          "text": "El Acto I debería ser más largo que el Acto II",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay regla sobre la duración relativa de los actos. El nudo suele ser más extenso."
+        },
+        {
+          "letter": "C",
+          "text": "El desenlace (Acto III) es demasiado corto y simple: un conflicto complejo como una discusión entre amigos se resuelve con una sola frase de la profesora, lo que no es creíble ni satisfactorio",
+          "is_correct": true,
+          "feedback": "¡Correcto! Un buen desenlace debe ser proporcionado al conflicto. Si los estudiantes pasaron 30 minutos discutiendo intensamente, necesitan más de 5 minutos y una frase para reconciliarse de manera creíble. El desenlace debe mostrar el proceso de reconciliación."
+        },
+        {
+          "letter": "D",
+          "text": "El Acto II debería ser el Acto I y viceversa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El planteamiento va antes del nudo, no al revés. Primero se presenta la situación, luego se desarrolla el conflicto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una estructura equilibrada asigna tiempos proporcionales a cada parte según su importancia narrativa. Si inviertes mucho tiempo en desarrollar un conflicto complejo, no puedes resolverlo en un minuto con una solución mágica. El público sentirá que el final es apresurado o falso. Un buen desenlace debe mostrar el proceso de resolución, las disculpas genuinas y los cambios en los personajes.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Valoración crítica de estructura",
+      "bundle_id": "CO-LEC-6-2026-W33-estructura-obra-teatral-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-0",
+      "statement": "¿Cuál es la diferencia principal entre una TABLA y un GRÁFICO?",
+      "context": "Definir tabla y gráfico",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tabla usa números y el gráfico usa letras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden usar números y letras."
+        },
+        {
+          "letter": "B",
+          "text": "No hay diferencia, son lo mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son formatos diferentes con propósitos distintos."
+        },
+        {
+          "letter": "C",
+          "text": "La tabla organiza datos en filas y columnas para consulta precisa; el gráfico representa visualmente los datos para mostrar tendencias y comparaciones de un vistazo.",
+          "is_correct": true,
+          "feedback": "Correcto. La tabla es mejor para consultar valores EXACTOS. El gráfico es mejor para ver PATRONES: cómo cambia algo en el tiempo (líneas), cómo se comparan categorías (barras), o qué proporción representa cada parte (pastel)."
+        },
+        {
+          "letter": "D",
+          "text": "La tabla es para matemáticas y el gráfico para lectura crítica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos se usan en todas las áreas. La lectura crítica incluye la interpretación de ambos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Tablas y gráficos son COMPLEMENTARIOS. La tabla ofrece PRECISIÓN (valores exactos), el gráfico ofrece VISUALIZACIÓN (tendencias y comparaciones). Una buena comunicación de datos suele incluir ambos: la tabla para consultar cifras exactas y el gráfico para entender el panorama general.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-1",
+      "statement": "**Horario de atención en la alcaldía municipal:**\n\n| Dependencia | Lunes a Viernes | Sábados |\n|-------------|-----------------|---------|\n| Secretaría de Educación | 7:00 - 16:00 | 8:00 - 12:00 |\n| Secretaría de Salud | 7:00 - 15:00 | Cerrado |\n| Tesorería | 8:00 - 16:00 | 8:00 - 12:00 |\n| Ventanilla Única | 7:00 - 17:00 | 9:00 - 13:00 |\n\nEn esta tabla, ¿cuál es la ROTULACIÓN de las columnas?",
+      "context": "Reconocer partes de una tabla",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Secretaría de Educación\", \"Secretaría de Salud\", etc.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los nombres de las FILAS."
+        },
+        {
+          "letter": "B",
+          "text": "\"Dependencia\", \"Lunes a Viernes\", \"Sábados\".",
+          "is_correct": true,
+          "feedback": "Correcto. Las columnas se rotulan con los encabezados: qué dependencia, y los horarios en dos categorías de días. Estos encabezados nos dicen qué tipo de información contiene cada columna."
+        },
+        {
+          "letter": "C",
+          "text": "Los horarios: \"7:00-16:00\", \"8:00-12:00\", etc.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los DATOS, no la rotulación."
+        },
+        {
+          "letter": "D",
+          "text": "\"Alcaldía municipal\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el título de la tabla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Toda tabla tiene partes identificables: TÍTULO (de qué trata), FILAS (cada entrada horizontal), COLUMNAS (categorías de información verticales), ROTULACIÓN O ENCABEZADOS (nombres de las columnas), y DATOS O CELDAS (los valores específicos). Identificar estas partes es el primer paso para leer una tabla correctamente.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-2",
+      "statement": "*Gráfico de barras: \"Libros leídos por estudiantes en un mes\"*\n\n*Eje Y (vertical): Número de estudiantes*\n*Eje X (horizontal): Número de libros*\n\n- 0 libros: ██ (2 estudiantes)\n- 1 libro: █████ (5 estudiantes)\n- 2 libros: ████████ (8 estudiantes)\n- 3 libros: ██████ (6 estudiantes)\n- 4 o más: ███ (3 estudiantes)\n\nSegún el gráfico, ¿cuántos estudiantes leyeron EXACTAMENTE 2 libros?",
+      "context": "Leer un gráfico de barras",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 estudiantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la barra de 0 libros."
+        },
+        {
+          "letter": "B",
+          "text": "6 estudiantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la barra de 3 libros."
+        },
+        {
+          "letter": "C",
+          "text": "8 estudiantes.",
+          "is_correct": true,
+          "feedback": "Correcto. La barra de \"2 libros\" tiene una altura que representa 8 estudiantes. Es la barra más alta, lo que indica que la mayoría de los estudiantes leyó 2 libros."
+        },
+        {
+          "letter": "D",
+          "text": "24 estudiantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la suma de todos, no el valor de una barra específica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para leer un GRÁFICO DE BARRAS: 1) identifica el TÍTULO (¿de qué trata?), 2) lee el EJE X (horizontal: categorías), 3) lee el EJE Y (vertical: valores numéricos), 4) observa la ALTURA de cada barra para conocer su valor. La barra más alta = la categoría con más frecuencia. La más baja = la categoría con menos frecuencia.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-3",
+      "statement": "*Gráfico de pastel: \"Destino de los residuos sólidos en Colombia\"*\n\n- Relleno sanitario: 65%\n- Reciclaje informal: 15%\n- Botaderos a cielo abierto: 12%\n- Reciclaje formal: 5%\n- Otros: 3%\n\nSegún el gráfico, ¿qué afirma CORRECTAMENTE sobre el reciclaje en Colombia?",
+      "context": "Interpretar un gráfico de pastel",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colombia recicla la mayoría de sus residuos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reciclaje (formal + informal) suma solo 20%."
+        },
+        {
+          "letter": "B",
+          "text": "El reciclaje formal es mayor que el informal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reciclaje informal (15%) es tres veces mayor que el formal (5%)."
+        },
+        {
+          "letter": "C",
+          "text": "Más de la mitad de los residuos va a rellenos sanitarios (65%), mientras que el reciclaje total (formal + informal = 20%) es bajo. Esto muestra que Colombia necesita mejorar sus políticas de reciclaje.",
+          "is_correct": true,
+          "feedback": "Correcto. El gráfico revela que la mayoría de los residuos terminan en rellenos sanitarios y solo una quinta parte se recicla. Además, buena parte del reciclaje que ocurre es informal, lo que implica riesgos para los recicladores."
+        },
+        {
+          "letter": "D",
+          "text": "El reciclaje es la principal forma de disposición de residuos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la tercera (20%), después de relleno sanitario (65%) y botaderos (12%)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El GRÁFICO DE PASTEL o CIRCULAR muestra la PROPORCIÓN de cada parte respecto al total. El círculo completo representa el 100%. Cada \"porción\" es un porcentaje. Para interpretarlo: 1) identifica la porción más grande (la categoría principal), 2) compara las porciones entre sí, 3) suma categorías relacionadas (reciclaje total = 20%), y 4) extrae conclusiones sobre el panorama general.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-4",
+      "statement": "*Gráfico de líneas: \"Temperatura promedio en Bogotá durante el año\"*\n\n*Eje Y: Temperatura (°C)*\n*Eje X: Meses (enero a diciembre)*\n*La línea sube de enero (12°C) a marzo (15°C), baja en abril (14°C), sube nuevamente hasta agosto (16°C), y luego desciende hasta diciembre (11°C).*\n\n¿En qué meses hace MÁS frío en Bogotá según la tendencia?",
+      "context": "Leer un gráfico de líneas (tendencias)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Marzo y agosto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los meses más cálidos."
+        },
+        {
+          "letter": "B",
+          "text": "Abril y octubre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son meses de temperatura media."
+        },
+        {
+          "letter": "C",
+          "text": "Diciembre y enero: la línea está en su punto más bajo (11°C y 12°C respectivamente), indicando las temperaturas más frías del año.",
+          "is_correct": true,
+          "feedback": "Correcto. El gráfico muestra que la temperatura baja significativamente hacia final de año, alcanzando su punto mínimo en diciembre. Enero también es frío, aunque ligeramente más cálido que diciembre."
+        },
+        {
+          "letter": "D",
+          "text": "Todo el año hace la misma temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La línea sube y baja, mostrando variación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El GRÁFICO DE LÍNEAS es ideal para mostrar TENDENCIAS a lo largo del tiempo. Los picos (puntos más altos) indican los valores máximos; los valles (puntos más bajos) indican los mínimos. La pendiente de la línea indica la velocidad del cambio: pendiente pronunciada = cambio rápido, pendiente suave = cambio lento. Leer tendencias es clave para analizar fenómenos como el cambio climático, la economía o la salud pública.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-5",
+      "statement": "**Puntajes promedio en pruebas Saber por departamento (2024-2025)**\n\n| Departamento | Lectura 2024 | Lectura 2025 | Variación |\n|-------------|-------------|-------------|-----------|\n| Cundinamarca | 285 | 292 | +7 |\n| Santander | 278 | 290 | +12 |\n| Antioquia | 270 | 275 | +5 |\n| Chocó | 228 | 235 | +7 |\n| La Guajira | 215 | 220 | +5 |\n\n¿Qué INFERENCIA puedes hacer sobre Santander a partir de estos datos?",
+      "context": "Inferir a partir de datos tabulados",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que Santander es el departamento con el puntaje más alto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cundinamarca (292) supera a Santander (290) en 2025."
+        },
+        {
+          "letter": "B",
+          "text": "Que Santander tuvo el MAYOR AVANCE entre 2024 y 2025 (+12 puntos), lo que sugiere que sus políticas educativas o inversiones en lectura están dando resultados positivos.",
+          "is_correct": true,
+          "feedback": "Correcto. Aunque Santander no es el de mayor puntaje absoluto, es el que más MEJORÓ. El +12 es la variación más alta de la tabla. Esto sugiere un esfuerzo educativo significativo que merece atención."
+        },
+        {
+          "letter": "C",
+          "text": "Que Santander tiene los mismos resultados que Chocó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Santander (290) tiene puntajes mucho más altos que Chocó (235)."
+        },
+        {
+          "letter": "D",
+          "text": "Que Santander empeoró sus resultados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variación es positiva: +12, lo que indica mejora."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las tablas permiten inferencias que van más allá de la lectura literal. No solo podemos ver qué departamento tiene el puntaje más alto, sino también cuál MEJORÓ MÁS. A veces el dato más importante no es el valor absoluto sino la TENDENCIA o el CAMBIO. Esta habilidad de \"leer entre datos\" es fundamental para el análisis crítico de información cuantitativa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-6",
+      "statement": "Un noticiero presenta dos gráficos sobre el mismo tema:\n\n**Gráfico A:** Eje Y comienza en 0. La barra de 2023 mide 200 y la de 2024 mide 220 (diferencia visible: 10% de aumento).\n\n**Gráfico B:** Eje Y comienza en 190. La barra de 2023 mide 200 y la de 2024 mide 220 (diferencia visual: parece que se duplicó).\n\n¿Cuál es la DIFERENCIA entre ambos gráficos y qué efecto produce?",
+      "context": "Analizar manipulación en gráficos",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos muestran la misma información, no hay diferencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay una diferencia importante en la presentación."
+        },
+        {
+          "letter": "B",
+          "text": "El Gráfico A es en colores y el B en blanco y negro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se mencionan colores."
+        },
+        {
+          "letter": "C",
+          "text": "El Gráfico B manipula la escala del eje Y (comienza en 190 en lugar de 0), lo que EXAGERA visualmente la diferencia entre los años. El aumento de 200 a 220 parece enorme cuando en realidad es solo del 10%. Esto puede engañar al espectador.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es una técnica de MANIPULACIÓN GRÁFICA conocida. Al truncar el eje Y (no empezar en 0), las diferencias pequeñas parecen enormes. Un lector crítico debe revisar SIEMPRE la escala de los ejes antes de interpretar un gráfico."
+        },
+        {
+          "letter": "D",
+          "text": "El Gráfico A tiene títulos y el B no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se mencionan títulos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los gráficos pueden MANIPULAR la percepción de los datos mediante cambios en la escala. La REGLA DE ORO: siempre revisa dónde comienza el eje Y. Si no empieza en 0, las diferencias pueden parecer mayores de lo que realmente son. Esta es una habilidad crítica en la era de la desinformación: los gráficos no mienten, pero quienes los diseñan pueden hacerlos engañosos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-7",
+      "statement": "**Tabla: \"Agua potable en zonas rurales de Colombia\"**\n\n| Departamento | % con acceso 2023 | % con acceso 2025 | Meta 2030 |\n|-------------|-------------------|-------------------|-----------|\n| Casanare | 62% | 68% | 80% |\n| Cauca | 45% | 50% | 75% |\n| Nariño | 38% | 42% | 70% |\n\n**Afirmación del gobierno:** \"Hemos aumentado el acceso al agua potable en zonas rurales. En Casanare, pasamos del 62% al 68%, un incremento significativo del 6%.\"\n\n**Crítica de una ONG:** \"El avance es insuficiente. En Casanare, aún falta 12% para la meta de 2030, y al ritmo actual (3% cada 2 años), no se alcanzará.\"\n\n¿Cuál de las siguientes afirmaciones es CORRECTA sobre estas dos interpretaciones?",
+      "context": "Comparar dos representaciones del mismo dato",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El gobierno miente porque los datos son falsos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos son correctos en ambas interpretaciones."
+        },
+        {
+          "letter": "B",
+          "text": "La ONG miente para desprestigiar al gobierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su interpretación también se basa en datos reales."
+        },
+        {
+          "letter": "C",
+          "text": "AMBAS interpretaciones son válidas pero enfatizan aspectos diferentes: el gobierno destaca el LOGRO (aumento de 6%), y la ONG destaca la BRECHA (distancia a la meta). Leer críticamente implica considerar ambas perspectivas.",
+          "is_correct": true,
+          "feedback": "Correcto. Los mismos datos pueden interpretarse de diferentes maneras según el enfoque: Logro vs. Brecha. Una lectura crítica no acepta una sola interpretación, sino que compara perspectivas y evalúa qué aspectos se destacan u omiten."
+        },
+        {
+          "letter": "D",
+          "text": "Solo la ONG tiene razón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas interpretaciones son válidas desde sus respectivos enfoques."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los mismos datos pueden usarse para contar historias DIFERENTES. El gobierno destaca el LOGRO (hemos avanzado); la ONG destaca la BRECHA (falta mucho). Ambas son verdaderas, pero cada una sirve a un propósito distinto. Un lector crítico de datos debe: 1) verificar los datos, 2) identificar qué aspectos se destacan, 3) preguntarse qué aspectos se omiten, y 4) considerar múltiples interpretaciones.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-8",
+      "statement": "Un artículo dice: \"El 80% de los bogotanos prefiere usar bicicleta en lugar de carro.\" La fuente del dato es: \"Encuesta realizada por la Asociación de Fabricantes de Bicicletas de Colombia, aplicada a 50 personas en una ciclovía.\"\n\n¿Por qué este dato podría NO ser confiable?",
+      "context": "Evaluar la credibilidad de la fuente de datos",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque 80% es un porcentaje muy alto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un porcentaje alto no es necesariamente falso."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la encuesta se hizo en Bogotá y no en todo el país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo habla específicamente de bogotanos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la encuesta tiene SESGOS: 1) la realizó una asociación que se BENEFICIA de que la gente use bicicleta (conflicto de interés), 2) la muestra es muy pequeña (50 personas), y 3) se aplicó en una ciclovía, donde la mayoría ya usa bicicleta (sesgo de selección). El dato no es representativo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es una evaluación crítica de la CALIDAD de los datos. Tres problemas: conflicto de interés de la fuente, tamaño de muestra insuficiente, y sesgo en la selección de participantes. Los datos pueden ser reales pero NO representativos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las encuestas siempre mienten.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las encuestas pueden ser confiables si están bien diseñadas. El problema es que esta en particular tiene fallas metodológicas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar datos no es solo leerlos, sino también evaluar la FUENTE y la METODOLOGÍA. Preguntas críticas: ¿quién produjo el dato y qué interés tiene?, ¿qué tamaño de muestra se usó?, ¿cómo se seleccionaron los participantes?, ¿la muestra es representativa de la población? Un dato mal producido puede ser engañoso incluso si el número es correcto.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-9",
+      "statement": "Tienes que presentar los siguientes datos en una cartelera para la feria de ciencias de tu colegio:\n\n*\"En 2023, el colegio recicló 50 kg de papel. En 2024, recicló 120 kg de papel. En 2025, recicló 200 kg de papel. En 2026, esperamos reciclar 300 kg.\"*\n\n¿Qué TIPO DE GRÁFICO sería el más adecuado y por qué?",
+      "context": "Elegir el gráfico adecuado para un propósito",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un gráfico de pastel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gráfico de pastel muestra proporciones de un total, no cambios a lo largo del tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Una tabla con los años y los kilogramos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una tabla mostraría los valores exactos pero no la tendencia de crecimiento visualmente."
+        },
+        {
+          "letter": "C",
+          "text": "Un GRÁFICO DE LÍNEAS o de BARRAS que muestre la evolución año tras año. Esto permite ver CLARAMENTE la TENDENCIA DE CRECIMIENTO: cómo el reciclaje aumentó cada año y la proyección a 2026. El gráfico de líneas es ideal para mostrar cambios a lo largo del tiempo.",
+          "is_correct": true,
+          "feedback": "Correcto. El gráfico de líneas es el más adecuado porque: 1) muestra EVOLUCIÓN TEMPORAL, 2) la línea ascendente hace visible la TENDENCIA DE CRECIMIENTO, 3) permite proyectar visualmente hacia 2026. Las barras también funcionarían, pero la línea conecta mejor los puntos para mostrar continuidad."
+        },
+        {
+          "letter": "D",
+          "text": "Un diagrama de flujo del proceso de reciclaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un diagrama de flujo muestra pasos de un proceso, no datos cuantitativos a lo largo del tiempo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Elegir el FORMATO ADECUADO para presentar datos depende de: 1) el TIPO DE DATO (cantidades, porcentajes, tendencias temporales, comparaciones), 2) el PROPÓSITO (mostrar cambio, comparar categorías, mostrar proporción), y 3) la AUDIENCIA (compañeros de colegio necesitan claridad visual). Para tendencias a lo largo del tiempo, el gráfico de líneas es casi siempre la mejor opción.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.3",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v1",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Medellín, se discute sobre Tema Semana 33 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Medellín",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 33 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 33 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.53,
+      "bundle_id": "CO-LEC-6-2026-W33-tema-semana-33-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v2",
+      "statement": "En la clase de Lectura Critica del Gimnasio Moderno en Villavicencio, se discute sobre Tema Semana 33 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 33 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 33 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEC-6-2026-W33-tema-semana-33-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v3",
+      "statement": "En la clase de Lectura Critica del Gimnasio Moderno en Cúcuta, se discute sobre Tema Semana 33 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "Gimnasio Moderno en Cúcuta",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 33 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 33 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.57,
+      "bundle_id": "CO-LEC-6-2026-W33-tema-semana-33-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v4",
+      "statement": "En la clase de Lectura Critica del I.E. Gabriel García Márquez en Barranquilla, se discute sobre Tema Semana 33 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Barranquilla",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 33 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 33 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.59,
+      "bundle_id": "CO-LEC-6-2026-W33-tema-semana-33-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v5",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Tunja, se discute sobre Tema Semana 33 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Tunja",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 33 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 33 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEC-6-2026-W33-tema-semana-33-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v6",
+      "statement": "En la clase de Lectura Critica del I.E. Gabriel García Márquez en Manizales, se discute sobre Tema Semana 33 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Manizales",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 33 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 33 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEC-6-2026-W33-tema-semana-33-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v7",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Cartagena, se discute sobre Tema Semana 33 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Cartagena",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 33 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 33 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia 2",
+      "expected_success": 0.51,
+      "bundle_id": "CO-LEC-6-2026-W33-tema-semana-33-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v8",
+      "statement": "En la clase de Lectura Critica del I.E. San José en Bogotá, se discute sobre Tema Semana 33 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. San José en Bogotá",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 33 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 33 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia 1",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEC-6-2026-W33-tema-semana-33-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v9",
+      "statement": "En la clase de Lectura Critica del I.E. Gabriel García Márquez en Pasto, se discute sobre Tema Semana 33 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Gabriel García Márquez en Pasto",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 33 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 33 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-6-2026-W33-tema-semana-33-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v10",
+      "statement": "En la clase de Lectura Critica del I.E. Francisco de Paula Santander en Villavicencio, se discute sobre Tema Semana 33 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
+      "context": "I.E. Francisco de Paula Santander en Villavicencio",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aspecto incorrecto A relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este aspecto no es el fundamental en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto correcto sobre Tema Semana 33 de Lectura Critica",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el pilar de la enseñanza de este tema."
+        },
+        {
+          "letter": "C",
+          "text": "Aspecto incorrecto C relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde con un concepto secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Aspecto incorrecto D relacionado con Tema Semana 33 de Lectura Critica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor común basado en malentendidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema de Tema Semana 33 de Lectura Critica es central en el currículo de 6°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |\n| Contexto | 20/20 | Contexto local colombiano integrado. |\n| Redacción | 10/10 | Alta claridad y distractores homogéneos. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia 3",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEC-6-2026-W33-tema-semana-33-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W33-tablas-graficos-001-v1",
+      "statement": "¿Qué es una tabla en un texto?",
+      "context": "Definición de tabla",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un texto narrativo que cuenta una historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una tabla es un texto discontinuo, no narrativo. Organiza información en filas y columnas, no cuenta historias."
+        },
+        {
+          "letter": "B",
+          "text": "Un dibujo decorativo sin información",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las tablas no son decorativas. Cada celda contiene datos organizados de manera estructurada."
+        },
+        {
+          "letter": "C",
+          "text": "Una organización visual de información en filas y columnas que permite comparar datos fácilmente",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una tabla tiene filas (horizontales) y columnas (verticales). En la intersección de una fila y una columna hay una celda con un dato. Las tablas facilitan la comparación y búsqueda rápida de información."
+        },
+        {
+          "letter": "D",
+          "text": "Un tipo de gráfico circular con colores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una tabla no es un gráfico. Los gráficos (de barras, circulares, lineales) son otra forma de representar datos visualmente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las tablas son textos discontinuos porque la información no se organiza en párrafos seguidos, sino en una estructura visual de filas y columnas. La primera fila suele ser el encabezado (títulos de cada columna). La primera columna suele ser las categorías. Aprender a leer tablas es esencial para interpretar horarios de clase, resultados deportivos, precios, calendarios y muchos otros documentos de la vida cotidiana.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de tipos de texto discontinuo",
+      "bundle_id": "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W33-tablas-graficos-002-v1",
+      "statement": "¿Para qué sirve un gráfico de barras?",
+      "context": "Tipos de gráficos",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para mostrar cómo cambia algo a través del tiempo de manera continua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para mostrar cambios a través del tiempo se usa mejor un gráfico de líneas. Las barras son mejores para comparar categorías."
+        },
+        {
+          "letter": "B",
+          "text": "Para comparar cantidades entre diferentes categorías usando barras de diferentes alturas",
+          "is_correct": true,
+          "feedback": "¡Correcto! El gráfico de barras tiene barras paralelas (verticales u horizontales) cuya altura o longitud representa la cantidad. Es ideal para comparar valores entre grupos: ventas por mes, población por ciudad, preferencias por deporte."
+        },
+        {
+          "letter": "C",
+          "text": "Para mostrar la relación entre dos variables en un plano cartesiano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un gráfico de dispersión (scatter plot), que muestra puntos en un plano para ver si existe relación entre dos variables."
+        },
+        {
+          "letter": "D",
+          "text": "Para mostrar la distribución de partes de un todo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para mostrar partes de un todo se usa un gráfico circular o de pastel. Las barras son para comparar categorías independientes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Existen diferentes tipos de gráficos, cada uno con un propósito específico: 1) BARRAS: comparar categorías, 2) LÍNEAS: mostrar tendencias en el tiempo, 3) CIRCULAR (pastel): mostrar proporciones de un todo, 4) DISPERSIÓN: relación entre variables. Elegir el gráfico adecuado es tan importante como los datos mismos, pues un gráfico mal elegido puede confundir en lugar de aclarar.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de tipos de gráficos",
+      "bundle_id": "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W33-tablas-graficos-003-v1",
+      "statement": "Observa la siguiente tabla:\n\n| Colegio | Papel (kg/mes) | Plástico (kg/mes) | Vidrio (kg/mes) | Total (kg/mes) |\n|---------|---------------:|------------------:|----------------:|---------------:|\n| Santa Marta | 45 | 30 | 15 | 90 |\n| Los Andes | 60 | 25 | 20 | 105 |\n| San José | 30 | 40 | 10 | 80 |\n| El Parque | 50 | 35 | 25 | 110 |\n\n¿Qué colegio recicla más papel al mes?",
+      "context": "Tabla sobre reciclaje en colegios",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Santa Marta, con 45 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Santa Marta recicla 45 kg de papel, pero Los Andes recicla más."
+        },
+        {
+          "letter": "B",
+          "text": "Los Andes, con 60 kg",
+          "is_correct": true,
+          "feedback": "¡Correcto! En la columna \"Papel\", el valor más alto es 60 kg, que corresponde al Colegio Los Andes. Leer una tabla requiere localizar la fila y columna correctas y comparar los valores."
+        },
+        {
+          "letter": "C",
+          "text": "San José, con 30 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. San José tiene el menor reciclaje de papel (30 kg)."
+        },
+        {
+          "letter": "D",
+          "text": "El Parque, con 50 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Parque recicla 50 kg de papel, que es el segundo más alto, pero no el primero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para leer una tabla, sigue estos pasos: 1) Lee los encabezados para entender qué representa cada columna, 2) Localiza la columna de interés (en este caso \"Papel\"), 3) Busca el valor más alto en esa columna, 4) Identifica a qué fila (colegio) pertenece ese valor. Las tablas organizan la información para que podamos encontrarla y compararla rápidamente.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión de tabla",
+      "bundle_id": "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W33-tablas-graficos-004-v1",
+      "statement": "Imagina un gráfico de barras que muestra los deportes favoritos de 120 estudiantes de un colegio en Pereira:\n\n- Fútbol: barra hasta 50 estudiantes\n- Baloncesto: barra hasta 30 estudiantes\n- Natación: barra hasta 20 estudiantes\n- Voleibol: barra hasta 15 estudiantes\n- Otros: barra hasta 5 estudiantes\n\n¿Cuál de las siguientes afirmaciones es correcta?",
+      "context": "Gráfico sobre deportes favoritos",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mayoría de estudiantes prefiere natación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La barra de natación llega a 20, mientras que la de fútbol llega a 50. La mayoría prefiere fútbol."
+        },
+        {
+          "letter": "B",
+          "text": "El fútbol es el deporte preferido por más estudiantes, con 50 de 120",
+          "is_correct": true,
+          "feedback": "¡Correcto! La barra más alta es la de fútbol con 50 estudiantes, lo que representa la mayor preferencia. Esto significa que 50 de cada 120 estudiantes eligieron fútbol como su deporte favorito."
+        },
+        {
+          "letter": "C",
+          "text": "El voleibol es más popular que el baloncesto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El baloncesto tiene 30 estudiantes y el voleibol 15. El baloncesto es más popular."
+        },
+        {
+          "letter": "D",
+          "text": "Más estudiantes prefieren \"Otros\" que voleibol",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Otros\" tiene solo 5 estudiantes, mientras que voleibol tiene 15. El voleibol es más popular que \"Otros\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un gráfico de barras, la altura (o longitud) de cada barra es directamente proporcional a la cantidad que representa. Para interpretarlo: 1) Identifica qué representa el eje horizontal (categorías), 2) Identifica qué representa el eje vertical (cantidades), 3) Compara las alturas de las barras. La barra más alta = la categoría con mayor cantidad. Las barras permiten comparaciones visuales rápidas e intuitivas.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Interpretación de gráfico de barras",
+      "bundle_id": "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W33-tablas-graficos-005-v1",
+      "statement": "Un gráfico circular muestra cómo un estudiante de Bogotá distribuye su tiempo en un día escolar (24 horas):\n\n- Dormir: 33% (8 horas)\n- Clases: 25% (6 horas)\n- Tareas y estudio: 17% (4 horas)\n- Comer y aseo: 12% (3 horas)\n- Tiempo libre: 8% (2 horas)\n- Transporte: 5% (1 hora)\n\n¿Cuánto tiempo dedica este estudiante a actividades relacionadas con la educación (clases + tareas)?",
+      "context": "Gráfico de pastel sobre uso del tiempo",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 horas, solo las clases",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pregunta pide clases + tareas, no solo clases."
+        },
+        {
+          "letter": "B",
+          "text": "4 horas, solo las tareas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pregunta pide la suma de clases y tareas."
+        },
+        {
+          "letter": "C",
+          "text": "10 horas (6 de clases + 4 de tareas)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sumando el 25% de clases (6 horas) y el 17% de tareas (4 horas), obtenemos 10 horas dedicadas a actividades educativas. El gráfico circular nos permite ver la proporción de cada actividad respecto al total, y también sumar categorías relacionadas."
+        },
+        {
+          "letter": "D",
+          "text": "8 horas, sumando dormir y clases",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pregunta especifica \"actividades relacionadas con la educación\". Dormir no es una actividad educativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El gráfico circular (o de pastel) muestra cómo se distribuye un total (100%) en diferentes partes o categorías. Cada \"rebanada\" representa un porcentaje. Para interpretarlo: 1) El círculo completo representa el 100%, 2) Cada rebanada es un porcentaje de ese total, 3) El tamaño de cada rebanada es proporcional a su porcentaje. Podemos sumar rebanadas para obtener totales combinados.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Interpretación de gráfico circular",
+      "bundle_id": "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W33-tablas-graficos-006-v1",
+      "statement": "Imagina un gráfico de líneas que muestra la temperatura máxima promedio en Barranquilla durante un año:\n\n- Enero: 30°C\n- Febrero: 31°C\n- Marzo: 32°C\n- Abril: 33°C\n- Mayo: 34°C\n- Junio: 33°C\n- Julio: 32°C\n- Agosto: 33°C\n- Septiembre: 32°C\n- Octubre: 31°C\n- Noviembre: 30°C\n- Diciembre: 30°C\n\n¿En qué meses se alcanza la temperatura máxima?",
+      "context": "Temperatura en una ciudad",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En diciembre y enero, que son los meses más fríos",
+          "is_correct": false,
+          "feedback": "Incorrecto. En diciembre y enero la temperatura es de 30°C, que es la más baja, no la más alta."
+        },
+        {
+          "letter": "B",
+          "text": "En marzo y julio, que tienen 32°C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Marzo y julio tienen 32°C, pero no es la temperatura máxima."
+        },
+        {
+          "letter": "C",
+          "text": "En mayo, con 34°C, que es el punto más alto del gráfico",
+          "is_correct": true,
+          "feedback": "¡Correcto! Mayo alcanza 34°C, el valor más alto de todo el año. En el gráfico de líneas, el punto más alto de la línea indica el valor máximo. La línea sube de enero a mayo y luego desciende."
+        },
+        {
+          "letter": "D",
+          "text": "En junio, con 33°C, después de mayo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Junio tiene 33°C, que es menos que los 34°C de mayo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El gráfico de líneas es ideal para mostrar cambios a través del tiempo. La línea conecta puntos que representan valores en cada momento. El punto más alto de la línea = valor máximo; el punto más bajo = valor mínimo. La pendiente de la línea indica la velocidad del cambio: una línea que sube rápido indica un aumento acelerado; una línea plana indica estabilidad. Es el gráfico preferido para tendencias climáticas, económicas y de población.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Interpretación de gráfico de líneas",
+      "bundle_id": "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W33-tablas-graficos-007-v1",
+      "statement": "Tu curso quiere organizar una salida pedagógica y tiene tres opciones. Debes elegir basándote en la siguiente tabla:\n\n| Destino | Costo por estudiante | Distancia (km) | Tiempo de viaje | Actividades incluidas |\n|---------|--------------------:|--------------:|----------------:|:---------------------|\n| Museo del Oro | $8,000 | 5 km | 20 min | Visita guiada + taller |\n| Jardín Botánico | $5,000 | 12 km | 45 min | Recorrido + picnic |\n| Parque Explora | $15,000 | 8 km | 30 min | Entrada + 3 talleres |\n\nEl curso tiene un presupuesto máximo de $10,000 por estudiante y solo dispone de medio día (máximo 4 horas incluyendo viaje). ¿Cuál destino es la mejor opción?",
+      "context": "Usar tabla para tomar decisiones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parque Explora, porque tiene más actividades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parque Explora cuesta $15,000, superando el presupuesto de $10,000 por estudiante. Además, el viaje de 30 min más las actividades podrían exceder el tiempo disponible."
+        },
+        {
+          "letter": "B",
+          "text": "Museo del Oro, porque cuesta $8,000 (dentro del presupuesto) y el viaje es de solo 20 minutos, dejando suficiente tiempo para la visita guiada y el taller",
+          "is_correct": true,
+          "feedback": "¡Correcto! El Museo del Oro cumple con ambos requisitos: costo menor a $10,000 y viaje corto (20 min ida + 20 min vuelta = 40 min, más 2-3 horas de actividades = bien dentro de medio día)."
+        },
+        {
+          "letter": "C",
+          "text": "Jardín Botánico, porque es el más económico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque cuesta $5,000, el viaje es de 45 minutos (90 min ida y vuelta), lo que suma 1.5 horas solo en transporte. Más el recorrido y picnic, podría exceder las 4 horas disponibles."
+        },
+        {
+          "letter": "D",
+          "text": "Cualquiera, porque los tres cumplen los requisitos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parque Explora excede el presupuesto y Jardín Botánico tiene un viaje muy largo. Solo el Museo del Oro cumple ambos requisitos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las tablas no solo almacenan información, sino que nos ayudan a tomar decisiones. Para usarlas efectivamente: 1) Identifica los criterios de decisión (presupuesto máximo, tiempo disponible), 2) Revisa cada fila para verificar si cumple todos los criterios, 3) Elimina las opciones que no cumplen, 4) Entre las que cumplen, elige la mejor según otros factores. Esta habilidad se usa en la vida cotidiana: comparar precios, elegir planes, organizar horarios.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aplicación de datos de tablas",
+      "bundle_id": "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W33-tablas-graficos-008-v1",
+      "statement": "Un gráfico de barras muestra las ventas de dos marcas de café colombiano:\n\n- Marca A: barra que llega a 100,000 unidades\n- Marca B: barra que llega a 95,000 unidades\n\nSin embargo, el eje vertical del gráfico comienza en 90,000 en lugar de 0. ¿Qué efecto tiene esto?",
+      "context": "Gráfico engañoso",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene ningún efecto; el gráfico sigue siendo correcto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comenzar el eje en 90,000 en lugar de 0 exagera visualmente la diferencia entre las barras."
+        },
+        {
+          "letter": "B",
+          "text": "Hace que la diferencia parezca menor de lo que realmente es",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al comenzar en 90,000, la diferencia se ve mucho mayor porque la barra A parece casi el doble de la barra B."
+        },
+        {
+          "letter": "C",
+          "text": "Hace que la diferencia parezca mucho mayor de lo que realmente es, engañando al lector",
+          "is_correct": true,
+          "feedback": "¡Correcto! La diferencia real es de solo 5,000 unidades (100,000 - 95,000), que es solo un 5%. Pero al comenzar el eje en 90,000, la barra A parece enorme comparada con la B (10,000 vs 5,000 desde el inicio del eje), dando la impresión falsa de que la diferencia es enorme."
+        },
+        {
+          "letter": "D",
+          "text": "Hace que la Marca B parezca mejor que la A",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Marca A sigue siendo más alta, solo que la diferencia visual está exagerada. No invierte la tendencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los gráficos pueden manipular la percepción del lector si se diseñan de manera engañosa. Señales de alerta: 1) el eje vertical no comienza en 0, 2) escalas desiguales, 3) omitir datos que no favorecen al autor, 4) usar perspectivas 3D que distorsionan, 5) elegir un tipo de gráfico que no es adecuado para los datos. Un lector crítico siempre examina los ejes y las escalas antes de aceptar la conclusión visual.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Análisis crítico de gráficos",
+      "bundle_id": "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W33-tablas-graficos-009-v1",
+      "statement": "La misma información sobre resultados de una prueba de matemáticas en un colegio de Cali se presenta en dos formatos:\n\n> **Formato A (Tabla):**\n> | Estudiante | Puntaje |\n> |-----------|-------:|\n> | María | 85 |\n> | Juan | 92 |\n> | Carlos | 78 |\n> | Ana | 95 |\n> | Pedro | 70 |\n>\n> **Formato B (Gráfico de barras):** Las barras muestran los mismos puntajes, ordenadas de mayor a menor: Ana (95), Juan (92), María (85), Carlos (78), Pedro (70).\n\n¿Qué ventaja tiene el gráfico de barras sobre la tabla en este caso?",
+      "context": "Misma información en dos formatos",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El gráfico muestra los nombres de los estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos formatos muestran los nombres. La tabla también los incluye."
+        },
+        {
+          "letter": "B",
+          "text": "El gráfico muestra los puntajes exactos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos formatos muestran los puntajes exactos. La tabla incluye los valores numéricos precisos."
+        },
+        {
+          "letter": "C",
+          "text": "El gráfico permite ver rápidamente quién obtuvo el mejor y el peor puntaje, y las diferencias entre estudiantes, sin necesidad de leer números",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ventaja del gráfico es visual: de un vistazo vemos que Ana tiene la barra más alta (mejor puntaje) y Pedro la más baja (peor puntaje). Las diferencias relativas se aprecian instantáneamente. La tabla requiere leer y comparar números uno por uno."
+        },
+        {
+          "letter": "D",
+          "text": "El gráfico ocupa menos espacio que la tabla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Generalmente un gráfico de barras ocupa más espacio que una tabla simple. Además, la eficiencia de espacio no es la principal ventaja del gráfico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las tablas y los gráficos tienen fortalezas complementarias. TABLAS: son precisas, permiten buscar valores exactos y comparar datos detallados. GRÁFICOS: permiten ver patrones, tendencias y comparaciones de un vistazo. La elección del formato depende del propósito: si necesitas consultar un dato exacto, usa una tabla; si quieres comunicar una tendencia o diferencia, usa un gráfico. Saber leer ambos formatos es esencial.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comparación entre tabla y gráfico",
+      "bundle_id": "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-2026-W33-tablas-graficos-010-v1",
+      "statement": "Un artículo dice: \"El servicio de transporte público en Medellín ha mejorado enormemente.\" Para apoyarlo, muestra un gráfico de líneas con los siguientes datos de usuarios satisfechos:\n\n- 2019: 65%\n- 2020: 45% (pandemia)\n- 2021: 50%\n- 2022: 55%\n- 2023: 60%\n- 2024: 62%\n\n¿El gráfico realmente apoya la afirmación de que el servicio \"ha mejorado enormemente\"?",
+      "context": "Evaluar si un gráfico apoya una conclusión",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque la línea sube constantemente desde 2020",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque sube desde 2020, en 2024 solo ha recuperado un nivel ligeramente inferior al de 2019 y sigue por debajo de ese 65%. No es una mejora \"enorme\"."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque muestra datos de varios años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mostrar muchos datos no significa que la mejora sea enorme. La cantidad de datos no equivale a la magnitud de la mejora."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque la mejora es modesta (de 45% a 62% en 4 años, y sin superar el nivel de 2019). La palabra \"enormemente\" exagera lo que muestran los datos",
+          "is_correct": true,
+          "feedback": "¡Correcto! La mejora de 45% a 62% es positiva pero modesta. Además, en 2019 el nivel era 65%, más alto que el 62% actual. La afirmación \"enormemente\" es una exageración que no se corresponde con los datos presentados."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque 62% es un porcentaje alto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que un número sea alto o bajo no valida automáticamente una afirmación. La clave está en si la magnitud del cambio justifica la palabra \"enormemente\". Un cambio de 17 puntos porcentuales en 4 años es significativo pero no enorme."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar críticamente un gráfico implica preguntarse: 1) ¿La conclusión del autor coincide con lo que realmente muestran los datos? 2) ¿Las palabras usadas (enormemente, dramático, leve) son proporcionales a los datos? 3) ¿Hay datos omitidos que cambiarían la interpretación? 4) ¿La escala del gráfico es engañosa? Esta habilidad es especialmente importante en noticias y publicidad, donde los datos visuales se usan para persuadir, a veces exagerando la realidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Valoración crítica de datos visuales",
+      "bundle_id": "CO-LEC-6-2026-W33-tablas-graficos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

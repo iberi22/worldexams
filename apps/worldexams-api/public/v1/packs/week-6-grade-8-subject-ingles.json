@@ -8,520 +8,556 @@
   },
   "questions": [
     {
-      "id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-v1",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-v1",
+      "statement": "If you have a very bad headache, you ________ see a doctor.",
+      "context": "Giving simple health advice.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
+          "text": "should",
           "is_correct": true,
-          "feedback": ""
+          "feedback": "Correct! \"Should\" is used to give advice or suggestions."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
+          "text": "shouldn't",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. \"Shouldn't\" would mean it's a bad idea to see a doctor."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "must to",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. \"Must\" is not followed by \"to\"."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "had better not",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. This means you shouldn't do it."
         }
       ],
       "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "1",
+      "explanation": "\"Should\" es el verbo modal estándar para dar consejos o sugerencias en inglés. Va seguido del verbo en su forma base.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.92,
-      "bundle_id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-v2",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-v2",
+      "statement": "You ________ eat so much junk food if you want to stay healthy.",
+      "context": "Expressing a negative suggestion.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrect. Eating junk food is not good advice for staying healthy."
         },
         {
           "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
+          "text": "shouldn't",
+          "is_correct": true,
+          "feedback": "Correct! \"Shouldn't\" (should not) is used for negative advice."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "don't have to",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. This means it's not necessary, but \"shouldn't\" is better for advice."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "must",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. \"Must\" expresses strong obligation, but the sentence is negative advice."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "2",
+      "correct_answer": "B",
+      "explanation": "Usamos \"shouldn't\" (la contracción de *should not*) para aconsejar a alguien que no haga algo porque no es conveniente o saludable.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-v3",
+      "statement": "Students ________ wear their school uniform every day according to the school rules.",
+      "context": "Expressing a rule or obligation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Should\" is advice, but school rules are usually obligations."
+        },
+        {
+          "letter": "B",
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Correct! \"Must\" is used for strong obligations or rules."
+        },
+        {
+          "letter": "C",
+          "text": "shouldn't",
+          "is_correct": false,
+          "feedback": "Incorrect. This contradicts the school rules mentioned."
+        },
+        {
+          "letter": "D",
+          "text": "are should",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically incorrect combination."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Must\" se utiliza para expresar obligaciones fuertes, leyes o reglas institucionales.\r\n\r\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-v3",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-v4",
+      "statement": "Tomorrow is Sunday, so I ________ wake up early. I can sleep until late.",
+      "context": "Lack of necessity.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
+          "text": "mustn't",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Mustn't\" means it is forbidden, not that it is unnecessary."
         },
         {
           "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
+          "text": "don't have to",
+          "is_correct": true,
+          "feedback": "Correct! \"Don't have to\" expresses lack of necessity."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "shouldn't",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. It's not about advice, but about the absence of obligation."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "haven't to",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. The negative of \"have to\" is \"don't have to\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Don't have to\" se usa cuando no hay obligación de hacer algo. No es lo mismo que \"mustn't\", que indica prohibición.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-v5",
+      "statement": "You ________ wear a helmet when you ride your motorcycle in the city.",
+      "context": "Strong recommendation for safety.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "could",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Could\" is just a possibility, but this is a safety requirement."
+        },
+        {
+          "letter": "B",
+          "text": "have to",
+          "is_correct": true,
+          "feedback": "Correct! \"Have to\" expresses external obligation (like traffic laws)."
+        },
+        {
+          "letter": "C",
+          "text": "don't must",
+          "is_correct": false,
+          "feedback": "Incorrect. This form does not exist in English."
+        },
+        {
+          "letter": "D",
+          "text": "are having to",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Have to\" is rarely used in continuous form for general rules."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Have to\" se usa frecuentemente para obligaciones impuestas por una autoridad externa, como las leyes de tránsito.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-v6",
+      "statement": "If you visit Medellín, you ________ definitely take the Metrocable to see the view.",
+      "context": "Suggesting a cultural activity in Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should",
+          "is_correct": true,
+          "feedback": "Correct! A friendly recommendation for a tourist."
+        },
+        {
+          "letter": "B",
+          "text": "must to",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Must\" does not take \"to\"."
+        },
+        {
+          "letter": "C",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing \"to\"."
+        },
+        {
+          "letter": "D",
+          "text": "mustn't",
+          "is_correct": false,
+          "feedback": "Incorrect. That would mean it's forbidden to take it."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "Para dar recomendaciones culturales o turísticas, \"should\" es la opción más natural y cortés.\r\n\r\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Gramática",
-      "expected_success": 0.87,
-      "bundle_id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-bundle",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-v4",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
+      "id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-v7",
+      "statement": "Which sentence has the same meaning as \"You should study more\"?",
+      "context": "Using \"ought to\" as an alternative to \"should\".",
       "options": [
         {
           "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
+          "text": "You must study more.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Must\" is stronger than \"should\"."
         },
         {
           "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
+          "text": "You ought to study more.",
+          "is_correct": true,
+          "feedback": "Correct! \"Ought to\" is a synonym of \"should\"."
         },
         {
           "letter": "C",
-          "text": "will be",
+          "text": "You have study more.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Grammatically incomplete."
         },
         {
           "letter": "D",
-          "text": "was",
+          "text": "You better study more.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Needs \"had\" (You'd better) to be correct."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "\"Ought to\" es un modal que funciona casi exactamente como \"should\", aunque es un poco más formal. Ambos se usan para dar consejos.\r\n\r\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.84,
-      "bundle_id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-v5",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
+      "id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-v8",
+      "statement": "\"You ________ park here. It is a restricted area for ambulances only.\"",
+      "context": "Expressing prohibition.",
       "options": [
         {
           "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
+          "text": "don't have to",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean you can park if you want, but you don't need to."
         },
         {
           "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
+          "text": "mustn't",
+          "is_correct": true,
+          "feedback": "Correct! \"Mustn't\" (must not) expresses prohibition."
         },
         {
           "letter": "C",
-          "text": "She visited Colombia last month.",
+          "text": "shouldn't",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. This is too weak for a restricted zone; it's more than just advice."
         },
         {
           "letter": "D",
-          "text": "She visits Colombia three times.",
+          "text": "can",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. This says you are allowed, which contradicts the context."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "\"Mustn't\" se utiliza para decir que algo está prohibido o que es una muy mala idea hacerlo debido a reglas o peligros.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-v9",
+      "statement": "**A:** \"I'm always tired.\"\r\n**B:** \"Maybe you ________ go to bed earlier. What ________ I do to help you?\"",
+      "context": "Asking for advice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must / should",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Must\" is too strong for a friendly suggestion."
+        },
+        {
+          "letter": "B",
+          "text": "should / can",
+          "is_correct": true,
+          "feedback": "Correct! \"Should\" for advice and \"can\" for offering help."
+        },
+        {
+          "letter": "C",
+          "text": "ought / must",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Ought\" needs \"to\"."
+        },
+        {
+          "letter": "D",
+          "text": "shouldn't / do",
+          "is_correct": false,
+          "feedback": "Incorrect. Meaning is illogical."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Combinar modales permite matizar la conversación: \"should\" para aconsejar y \"can\" o \"shall\" para ofrecer asistencia o preguntar por opciones.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-v10",
+      "statement": "Which sentence expresses the **strongest** obligation?",
+      "context": "Identifying the strongest degree of obligation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You should finish the report tonight.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is just advice."
+        },
+        {
+          "letter": "B",
+          "text": "You ought to finish the report tonight.",
+          "is_correct": false,
+          "feedback": "Incorrect. Similar to \"should\"."
+        },
+        {
+          "letter": "C",
+          "text": "You must finish the report tonight; it's a matter of life or death!",
+          "is_correct": true,
+          "feedback": "Correct! \"Must\" expresses the highest level of necessity or obligation."
+        },
+        {
+          "letter": "D",
+          "text": "You might finish the report tonight if you have time.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is just a possibility."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El estudiante debe evaluar la carga semántica de cada modal. \"Must\" es el más fuerte, seguido de \"have to\", mientras que \"should\" y \"ought to\" son para consejos.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.82,
-      "bundle_id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-bundle",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-v6",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
+      "id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-v11",
+      "statement": "Your boss says: \"You'd better not be late for the meeting.\" What is the tone of this advice?",
+      "context": "Evaluating advice in a work scenario.",
       "options": [
         {
           "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
+          "text": "It's a friendly suggestion with no consequences.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Had better\" implies consequences."
         },
         {
           "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
+          "text": "It's a strong warning; there might be trouble if you are late.",
+          "is_correct": true,
+          "feedback": "Correct! \"Had better\" is used for warnings."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "It's an invitation to a party.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         },
         {
           "letter": "D",
-          "text": "gone",
+          "text": "The boss is asking for your opinion about the time.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "\"Had better\" se utiliza para dar consejos urgentes o advertencias donde se implica que ocurrirá algo malo si el consejo no se sigue.\r\n\r\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     },
     {
-      "id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-v7",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
+      "id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-v12",
+      "statement": "\"I have a terrible toothache, and the dentist's office is already closed. I have an important presentation tomorrow.\"\r\nWhat is the most logical and helpful advice?",
+      "context": "Providing a logical conclusion based on modal logic.",
       "options": [
         {
           "letter": "A",
-          "text": "must",
+          "text": "You should take a painkiller now and you must call the dentist first thing tomorrow morning.",
           "is_correct": true,
-          "feedback": "Obligation"
+          "feedback": "Correct! Balanced advice with immediate and future steps."
         },
         {
           "letter": "B",
-          "text": "can",
+          "text": "You don't have to worry because teeth don't matter for presentations.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Dismissive and unhelpful."
         },
         {
           "letter": "C",
-          "text": "might",
+          "text": "You mustn't go to the dentist ever.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Dangerous advice."
         },
         {
           "letter": "D",
-          "text": "would",
+          "text": "You should go to the cinema to forget the pain.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrect. Doesn't solve the problem."
         }
       ],
       "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "5",
+      "explanation": "Crear una respuesta lógica requiere priorizar necesidades (aliviar el dolor vs. solucionar el problema) usando los modales adecuados (\"should\" para sugerir, \"must\" para la acción necesaria).",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.77,
-      "bundle_id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W06-advice-suggestions-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-v8",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.74,
-      "bundle_id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-v9",
-      "statement": "Which uses present perfect correctly?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She has visited Colombia three times.",
-          "is_correct": true,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "She has visit Colombia.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "She visited Colombia last month.",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "She visits Colombia three times.",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "has/have + past participle\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Gramática",
-      "expected_success": 0.72,
-      "bundle_id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-v10",
-      "statement": "Complete: She ___ to school every day",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "goes",
-          "is_correct": true,
-          "feedback": "3rd person -s"
-        },
-        {
-          "letter": "B",
-          "text": "go",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: she goes\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión Lectora",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-v11",
-      "statement": "'You ___ wear a seatbelt in Colombia'",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Obligation"
-        },
-        {
-          "letter": "B",
-          "text": "can",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "might",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "would",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "must = obligation\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Producción Escrita",
-      "expected_success": 0.67,
-      "bundle_id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null
-    },
-    {
-      "id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-v12",
-      "statement": "If I ___ rich, I would travel:",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "Past subjunctive"
-        },
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "will be",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "was",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Second conditional: If + past\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Gramática",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-8-2026-W06-conditional-exercises-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "global"
     }
   ]
 }
