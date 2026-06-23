@@ -8,168 +8,42 @@
   },
   "questions": [
     {
-      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-v1",
-      "statement": "In which subject do you study **numbers**, **addition**, and **subtraction**? ➕➖",
-      "context": "Working with numbers.",
+      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle-v1",
+      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Art",
-          "is_correct": false,
-          "feedback": "Incorrect. Art is for drawing."
+          "text": "accommodation",
+          "is_correct": true,
+          "feedback": "Correct! 'accommodation' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Math",
-          "is_correct": true,
-          "feedback": "Correct! Math (Mathematics) is about numbers."
+          "text": "transportation",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Music",
+          "text": "entertainment",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Physical Education",
+          "text": "currency",
           "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Math\" (o Mathematics) es la asignatura de matemáticas, donde aprendemos sobre números y operaciones.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.95,
-      "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-v2",
-      "statement": "What is the name of **this** subject where you learn to say \"Hello\", \"Apple\", and \"Red\"? 🇺🇸🇬🇧",
-      "context": "Learning a new language.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Spanish",
-          "is_correct": false,
-          "feedback": "Incorrect. That is our first language in Colombia."
-        },
-        {
-          "letter": "B",
-          "text": "English",
-          "is_correct": true,
-          "feedback": "Correct! English is the subject we are studying now."
-        },
-        {
-          "letter": "C",
-          "text": "Science",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "History",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"English\" significa inglés. Es el idioma que estamos practicando y aprendiendo en esta clase.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-v3",
-      "statement": "In **Science** class, you learn about **animals**, **plants**, and the **planet**. True or False? 🔬",
-      "context": "Learning about nature.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "True",
-          "is_correct": true,
-          "feedback": "Correct! Science covers nature and the physical world."
-        },
-        {
-          "letter": "B",
-          "text": "False",
-          "is_correct": false,
-          "feedback": "Incorrect. Science is indeed about nature."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "\"Science\" significa ciencias. En esta materia estudiamos los seres vivos y el funcionamiento de la naturaleza.\r\n\r\n---",
-      "difficulty": "6",
+      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.85,
-      "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-v4",
-      "statement": "What subject do you have when you use **crayons**, **paint**, and **brushes**? 🎨",
-      "context": "Being creative.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Math",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Science",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "C",
-          "text": "Art",
-          "is_correct": true,
-          "feedback": "Correct! Art is for creativity and drawing."
-        },
-        {
-          "letter": "D",
-          "text": "English",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "\"Art\" significa arte o educación artística. Es donde dibujamos, pintamos y creamos.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
       "periodo": 33,
@@ -180,43 +54,135 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-v5",
-      "statement": "I play the **recorder** (flauta) and I **sing** songs in this class. It is... 🎵",
-      "context": "Playing instruments.",
+      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle-v2",
+      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Math",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "text": "itinerary",
+          "is_correct": true,
+          "feedback": "Correct! 'itinerary' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Music",
-          "is_correct": true,
-          "feedback": "Correct! Music class is for sounds and songs."
+          "text": "baggage",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Geography",
+          "text": "destination",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Science",
+          "text": "passport",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "\"Music\" significa música. En esta clase aprendemos sobre sonidos, instrumentos y canto.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle-v3",
+      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "destination",
+          "is_correct": true,
+          "feedback": "Correct! 'destination' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "departure",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "arrival",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "journey",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle-v4",
+      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "luggage",
+          "is_correct": true,
+          "feedback": "Correct! 'luggage' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "ticket",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "flight",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "reservation",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.75,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -226,43 +192,43 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-v6",
-      "statement": "In **P.E.** class, we **run**, **jump**, and play **sports**. What does **P.E.** mean? 🏃‍♂️",
-      "context": "Physical activity.",
+      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle-v5",
+      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Physical Education",
+          "text": "passenger",
           "is_correct": true,
-          "feedback": "Correct! P.E. is the short form of Physical Education."
+          "feedback": "Correct! 'passenger' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Paper Exercise",
+          "text": "pedestrian",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Play English",
+          "text": "commuter",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Primary Exam",
+          "text": "tourist",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "\"Physical Education\" (Educación Física) se abrevia habitualmente como \"P.E.\". Es la clase de movimiento y deportes.\r\n\r\n---",
-      "difficulty": "8",
+      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.7,
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -272,89 +238,43 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-v7",
-      "statement": "In Colombia, we use this subject to read stories like \"Rafael Pombo\" and practice our **main language**.",
-      "context": "Reading and writing in Colombia.",
+      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle-v6",
+      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "English",
-          "is_correct": false,
-          "feedback": "Incorrect. English is a second language."
+          "text": "customs",
+          "is_correct": true,
+          "feedback": "Correct! 'customs' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Spanish",
-          "is_correct": true,
-          "feedback": "Correct! Spanish is our primary subject for reading and writing."
+          "text": "security",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Math",
+          "text": "terminal",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Art",
+          "text": "gate",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "\"Spanish\" (o Lengua Castellana) es la asignatura donde estudiamos nuestro idioma materno y literatura.\r\n\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-v8",
-      "statement": "Which subject uses **maps** and studies the **mountains** and **rivers** of Colombia? 🗺️",
-      "context": "Identifying subject by tools.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Math",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Music",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "C",
-          "text": "Geography",
-          "is_correct": true,
-          "feedback": "Correct! Geography is about places and maps."
-        },
-        {
-          "letter": "D",
-          "text": "Art",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "\"Geography\" (Geografía) es la rama de las ciencias sociales que estudia los mapas y el relieve de la tierra.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.6,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -364,89 +284,89 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-v9",
-      "statement": "Which group has **only** subjects related to **Science and Numbers**?",
-      "context": "Categorizing subjects.",
+      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle-v7",
+      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Art and Music",
-          "is_correct": false,
-          "feedback": "Incorrect. These are creative arts."
+          "text": "boarding pass",
+          "is_correct": true,
+          "feedback": "Correct! 'boarding pass' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Math and Science",
-          "is_correct": true,
-          "feedback": "Correct! Both use logic, numbers, and observation."
+          "text": "visa",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "English and Spanish",
+          "text": "receipt",
           "is_correct": false,
-          "feedback": "Incorrect. These are languages."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "P.E. and Geography",
+          "text": "brochure",
           "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Analizar la naturaleza de las materias. Las matemáticas y las ciencias forman el bloque de pensamiento lógico-científico.\r\n\r\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.55,
-      "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-v10",
-      "statement": "You need to solve the problem: **15 + 5 = ?**. Which notebook should you open?",
-      "context": "Deciding which book to use.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "My Math notebook",
-          "is_correct": true,
-          "feedback": "Correct! Math is for solving numerical problems."
-        },
-        {
-          "letter": "B",
-          "text": "My Art notebook",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "C",
-          "text": "My Music notebook",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "My Spanish notebook",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Evaluar la aplicación de cada materia. Los problemas aritméticos se resuelven en la clase de matemáticas (Math).",
+      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle-v8",
+      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sightseeing",
+          "is_correct": true,
+          "feedback": "Correct! 'sightseeing' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "shopping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "hiking",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "camping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Pragmática",
-      "expected_success": 0.5,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",

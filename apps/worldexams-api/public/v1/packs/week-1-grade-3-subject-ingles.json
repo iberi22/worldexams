@@ -8,180 +8,42 @@
   },
   "questions": [
     {
-      "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v1",
-      "statement": "What do you say when you see a friend at **7:00 AM**?",
-      "context": "Meeting a friend in the morning.",
+      "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v1",
+      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Good night",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Good night\" se usa para despedirse en la noche, no para saludar en la mañana."
+          "text": "accommodation",
+          "is_correct": true,
+          "feedback": "Correct! 'accommodation' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Good morning",
-          "is_correct": true,
-          "feedback": "Correct! \"Good morning\" es el saludo correcto para las 7 de la mañana."
+          "text": "transportation",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Good afternoon",
+          "text": "entertainment",
           "is_correct": false,
-          "feedback": "Incorrect. \"Good afternoon\" se usa después del mediodía (12:00 PM)."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Goodbye",
+          "text": "currency",
           "is_correct": false,
-          "feedback": "Incorrect. \"Goodbye\" es una despedida, no un saludo al encontrarse."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "En inglés, al igual que en español, usamos diferentes saludos según la hora del día. Para la mañana (antes de las 12:00 PM), el saludo adecuado es \"Good morning\" (Buenos días).\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.95,
-      "bundle_id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v2",
-      "statement": "What is the most common way to say **\"Hola\"** in English?",
-      "context": "Standard greeting.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Hello",
-          "is_correct": true,
-          "feedback": "Correct! \"Hello\" es la forma estándar de decir hola."
-        },
-        {
-          "letter": "B",
-          "text": "Bye",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Bye\" es una forma corta de decir adiós."
-        },
-        {
-          "letter": "C",
-          "text": "Please",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Please\" significa por favor."
-        },
-        {
-          "letter": "D",
-          "text": "Thanks",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Thanks\" es una forma corta de decir gracias."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "\"Hello\" es el saludo más universal en inglés. También existe \"Hi\", que es un poco más informal, pero ambos significan \"Hola\".\r\n\r\n---",
-      "difficulty": "4",
+      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v3",
-      "statement": "Your friend is going home. What do you say to say **\"Adiós\"**?",
-      "context": "Saying goodbye.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Hello",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Hello\" es para saludar al llegar."
-        },
-        {
-          "letter": "B",
-          "text": "Goodbye",
-          "is_correct": true,
-          "feedback": "Correct! \"Goodbye\" significa adiós."
-        },
-        {
-          "letter": "C",
-          "text": "Good morning",
-          "is_correct": false,
-          "feedback": "Incorrect. Esto es un saludo de mañana."
-        },
-        {
-          "letter": "D",
-          "text": "Hi",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Hi\" es hola."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Para despedirnos de alguien que se va, usamos \"Goodbye\" (Adiós). También podemos usar la versión corta \"Bye\".\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.85,
-      "bundle_id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v4",
-      "statement": "It is **3:00 PM**. How do you greet your teacher?",
-      "context": "Greeting in the afternoon.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Good morning",
-          "is_correct": false,
-          "feedback": "Incorrect. La mañana ya terminó, ahora es la tarde."
-        },
-        {
-          "letter": "B",
-          "text": "Good afternoon",
-          "is_correct": true,
-          "feedback": "Correct! \"Good afternoon\" se usa desde el mediodía hasta el atardecer."
-        },
-        {
-          "letter": "C",
-          "text": "Good night",
-          "is_correct": false,
-          "feedback": "Incorrect. Todavía no es hora de dormir o despedirse en la noche."
-        },
-        {
-          "letter": "D",
-          "text": "Hello, morning",
-          "is_correct": false,
-          "feedback": "Incorrect. No combinamos hello con morning si es la tarde."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Good afternoon\" se traduce como \"Buenas tardes\". Lo usamos después de las 12:00 PM (noon) hasta aproximadamente las 6:00 PM.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
+      "icfes_type": "Lexico",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle",
       "periodo": 1,
@@ -192,43 +54,43 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v5",
-      "statement": "Complete the dialogue:\r\n**Sam:** \"How are you?\"\r\n**Lina:** \"I am ______, thank you.\"",
-      "context": "Basic conversation.",
+      "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v2",
+      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "hello",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Hello\" no responde a cómo estás."
+          "text": "itinerary",
+          "is_correct": true,
+          "feedback": "Correct! 'itinerary' matches the definition."
         },
         {
           "letter": "B",
-          "text": "fine",
-          "is_correct": true,
-          "feedback": "Correct! \"I am fine\" significa estoy bien."
+          "text": "baggage",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "goodbye",
+          "text": "destination",
           "is_correct": false,
-          "feedback": "Incorrect. \"Goodbye\" es para irse."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "morning",
+          "text": "passport",
           "is_correct": false,
-          "feedback": "Incorrect. \"Morning\" es mañana, no un estado de ánimo."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Cuando alguien nos pregunta \"How are you?\" (¿Cómo estás?), la respuesta más común y educada es \"I am fine, thank you\" (Estoy bien, gracias).\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.75,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -238,135 +100,43 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v6",
-      "statement": "You arrive at a party at **8:00 PM**. What do you say to greet people?",
-      "context": "Evening greeting.",
+      "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v3",
+      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Good morning",
-          "is_correct": false,
-          "feedback": "Incorrect. Es de noche, no de mañana."
+          "text": "destination",
+          "is_correct": true,
+          "feedback": "Correct! 'destination' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Good evening",
-          "is_correct": true,
-          "feedback": "Correct! \"Good evening\" se usa como saludo al llegar en la noche."
+          "text": "departure",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Good night",
+          "text": "arrival",
           "is_correct": false,
-          "feedback": "Incorrect. \"Good night\" se usa para despedirse, no para saludar al llegar."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Goodbye",
+          "text": "journey",
           "is_correct": false,
-          "feedback": "Incorrect. Acabas de llegar, no te estás yendo."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "En inglés hay dos formas de decir \"buenas noches\": \"Good evening\" se usa para saludar al llegar, y \"Good night\" se usa para despedirse o antes de dormir.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Pragmática",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v7",
-      "statement": "What does **\"See you tomorrow\"** mean?",
-      "context": "Farewell for the next day.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Hola mañana",
-          "is_correct": false,
-          "feedback": "Incorrect. No es un saludo."
-        },
-        {
-          "letter": "B",
-          "text": "Nos vemos mañana",
-          "is_correct": true,
-          "feedback": "Correct! \"See you\" es nos vemos y \"tomorrow\" es mañana."
-        },
-        {
-          "letter": "C",
-          "text": "Te veo ahora",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Tomorrow\" no significa ahora."
-        },
-        {
-          "letter": "D",
-          "text": "Adiós por siempre",
-          "is_correct": false,
-          "feedback": "Incorrect. Es una despedida temporal para el día siguiente."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"See you tomorrow\" es una expresión muy común en la escuela. Significa que volverás a ver a la persona al día siguiente.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v8",
-      "statement": "Choose the correct formal greeting:",
-      "context": "Formal greeting.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Good morning, Mr. Smith",
-          "is_correct": true,
-          "feedback": "Correct! Es una forma educada y formal de saludar."
-        },
-        {
-          "letter": "B",
-          "text": "What's up?",
-          "is_correct": false,
-          "feedback": "Incorrect. \"What's up\" es muy informal (¿Qué pasa?)."
-        },
-        {
-          "letter": "C",
-          "text": "Bye-bye",
-          "is_correct": false,
-          "feedback": "Incorrect. Es una despedida infantil o muy informal."
-        },
-        {
-          "letter": "D",
-          "text": "Hey!",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Hey\" es un saludo muy informal para amigos."
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Para hablar con profesores o adultos, usamos saludos más formales como \"Good morning\" o \"Hello\", seguidos de su título y apellido si es necesario.\r\n\r\n---",
-      "difficulty": "6",
+      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.6,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -376,43 +146,43 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v9",
-      "statement": "How do you ask someone's name in English?",
-      "context": "Asking for a name.",
+      "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v4",
+      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "How are you?",
-          "is_correct": false,
-          "feedback": "Incorrect. Esto pregunta cómo estás."
+          "text": "luggage",
+          "is_correct": true,
+          "feedback": "Correct! 'luggage' matches the definition."
         },
         {
           "letter": "B",
-          "text": "What is your name?",
-          "is_correct": true,
-          "feedback": "Correct! Esta es la pregunta para saber el nombre de alguien."
+          "text": "ticket",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Who are you?",
+          "text": "flight",
           "is_correct": false,
-          "feedback": "Incorrect. Aunque gramaticalmente correcta, puede sonar un poco ruda en una presentación básica."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "My name is Tom",
+          "text": "reservation",
           "is_correct": false,
-          "feedback": "Incorrect. Esto es una respuesta, no una pregunta."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Después de saludar, solemos preguntar el nombre de la persona con \"¿What is your name?\". La respuesta suele empezar con \"My name is...\".\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.55,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -422,43 +192,181 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v10",
-      "statement": "You are talking on the phone at **9:30 PM**. You are going to sleep. What do you say?",
-      "context": "End of a phone call at night.",
+      "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v5",
+      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Good afternoon",
-          "is_correct": false,
-          "feedback": "Incorrect. Es muy tarde para ser la tarde."
+          "text": "passenger",
+          "is_correct": true,
+          "feedback": "Correct! 'passenger' matches the definition."
         },
         {
           "letter": "B",
-          "text": "Hello",
+          "text": "pedestrian",
           "is_correct": false,
-          "feedback": "Incorrect. Te vas a dormir, no estás empezando la charla."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Good night",
-          "is_correct": true,
-          "feedback": "Correct! \"Good night\" se usa para despedirse en la noche o antes de dormir."
+          "text": "commuter",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Good morning",
+          "text": "tourist",
           "is_correct": false,
-          "feedback": "Incorrect. Aún faltan muchas horas para la mañana."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "\"Good night\" es la despedida perfecta para la noche, especialmente si ya te vas a descansar o a dormir.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Pragmática",
-      "expected_success": 0.5,
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v6",
+      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "customs",
+          "is_correct": true,
+          "feedback": "Correct! 'customs' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "security",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "terminal",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "gate",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v7",
+      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "boarding pass",
+          "is_correct": true,
+          "feedback": "Correct! 'boarding pass' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "visa",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "receipt",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "brochure",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v8",
+      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sightseeing",
+          "is_correct": true,
+          "feedback": "Correct! 'sightseeing' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "shopping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "hiking",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "camping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",

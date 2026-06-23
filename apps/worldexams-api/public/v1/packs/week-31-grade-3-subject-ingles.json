@@ -8,180 +8,42 @@
   },
   "questions": [
     {
-      "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-v1",
-      "statement": "What word do we use for the exact hour (e.g., **7:00**)? 🕒",
-      "context": "Looking at a clock.",
+      "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v1",
+      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "Half past",
-          "is_correct": false,
-          "feedback": "Incorrect. This is for 30 minutes."
+          "text": "accommodation",
+          "is_correct": true,
+          "feedback": "Correct! 'accommodation' matches the definition."
         },
         {
           "letter": "B",
-          "text": "O'clock",
-          "is_correct": true,
-          "feedback": "Correct! \"O'clock\" is used for the top of the hour."
+          "text": "transportation",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Minutes",
+          "text": "entertainment",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Second",
+          "text": "currency",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "\"O'clock\" se usa para indicar las horas en punto. Por ejemplo, \"It is seven o'clock\" (Son las siete en punto).\r\n\r\n---",
-      "difficulty": "4",
+      "correct_answer": "A",
+      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.95,
-      "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-v2",
-      "statement": "The clock shows **8:00**. How do you say it?",
-      "context": "Identifying time on a digital clock.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "It is eight half past",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "It is eight o'clock",
-          "is_correct": true,
-          "feedback": "Correct! 8:00 is eight o'clock."
-        },
-        {
-          "letter": "C",
-          "text": "It is eight time",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "It is eight o'clock past",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "En inglés, para decir la hora exacta, decimos el número seguido de \"o'clock\".\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-v3",
-      "statement": "What does **\"Half past\"** mean? 🕝",
-      "context": "Talking about 30 minutes.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "The exact hour",
-          "is_correct": false,
-          "feedback": "Incorrect. That is o'clock."
-        },
-        {
-          "letter": "B",
-          "text": "30 minutes after the hour",
-          "is_correct": true,
-          "feedback": "Correct! Half past means 30 minutes."
-        },
-        {
-          "letter": "C",
-          "text": "15 minutes before the hour",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "10 minutes past",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Half past\" significa \"y media\". Indica que han pasado 30 minutos (la mitad de una hora) después de la hora mencionada.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.85,
-      "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-v4",
-      "statement": "The clock says **10:30**. How do you say it using \"half past\"?",
-      "context": "Digital to verbal time.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "It is half past eleven",
-          "is_correct": false,
-          "feedback": "Incorrect. 10:30 is half past ten."
-        },
-        {
-          "letter": "B",
-          "text": "It is half past ten",
-          "is_correct": true,
-          "feedback": "Correct! Half past ten means 10:30."
-        },
-        {
-          "letter": "C",
-          "text": "It is ten o'clock",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "It is half ten",
-          "is_correct": false,
-          "feedback": "Incorrect. While used in some places, \"half past ten\" is the full standard form."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Para decir las \"y media\", usamos \"half past\" seguido de la hora actual. 10:30 es \"half past ten\".\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lingüística",
+      "icfes_type": "Lexico",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
       "periodo": 31,
@@ -192,43 +54,135 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-v5",
-      "statement": "What is the correct question to ask for the time? ⌚",
-      "context": "Asking for the time.",
+      "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v2",
+      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "What time it is?",
-          "is_correct": false,
-          "feedback": "Incorrect. The order is wrong."
+          "text": "itinerary",
+          "is_correct": true,
+          "feedback": "Correct! 'itinerary' matches the definition."
         },
         {
           "letter": "B",
-          "text": "What time is it?",
-          "is_correct": true,
-          "feedback": "Correct! This is the standard way to ask the time."
+          "text": "baggage",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "Who time is it?",
+          "text": "destination",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "Where time is it?",
+          "text": "passport",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "\"What time is it?\" es la pregunta gramaticalmente correcta para saber la hora.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v3",
+      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "destination",
+          "is_correct": true,
+          "feedback": "Correct! 'destination' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "departure",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "arrival",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "journey",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v4",
+      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "luggage",
+          "is_correct": true,
+          "feedback": "Correct! 'luggage' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "ticket",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "flight",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "reservation",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.75,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -238,227 +192,181 @@
       "country": "global"
     },
     {
-      "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-v6",
-      "statement": "Lunch is at **one o'clock**. Which clock shows the correct time for lunch?",
-      "context": "Time of a specific activity.",
+      "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v5",
+      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
+      "context": "Choose the correct English word for the given definition.",
       "options": [
         {
           "letter": "A",
-          "text": "1:30",
-          "is_correct": false,
-          "feedback": "Incorrect. This is half past one."
+          "text": "passenger",
+          "is_correct": true,
+          "feedback": "Correct! 'passenger' matches the definition."
         },
         {
           "letter": "B",
-          "text": "1:00",
-          "is_correct": true,
-          "feedback": "Correct! 1:00 is one o'clock."
+          "text": "pedestrian",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "C",
-          "text": "12:00",
+          "text": "commuter",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Try again."
         },
         {
           "letter": "D",
-          "text": "2:00",
+          "text": "tourist",
           "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Relacionar la hora escrita con la digital. \"One o'clock\" corresponde exactamente a la 1:00.\r\n\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-v7",
-      "statement": "It is **3:00**. In **30 minutes**, it will be...",
-      "context": "Time progression.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Four o'clock",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Half past three",
-          "is_correct": true,
-          "feedback": "Correct! 3:00 + 30 minutes = 3:30 (half past three)."
-        },
-        {
-          "letter": "C",
-          "text": "Half past four",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "Three o'clock",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Aplicar el concepto de tiempo. Si son las 3:00, en 30 minutos serán las 3:30, lo que se dice \"half past three\".\r\n\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-v8",
-      "statement": "On an analog clock, if the **long hand** (la manecilla larga) points to **6**, what time is it? 🕕",
-      "context": "Identifying parts of a clock.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "It is o'clock",
-          "is_correct": false,
-          "feedback": "Incorrect. Long hand on 12 is o'clock."
-        },
-        {
-          "letter": "B",
-          "text": "It is half past",
-          "is_correct": true,
-          "feedback": "Correct! When the long hand is on 6, it is 30 minutes past."
-        },
-        {
-          "letter": "C",
-          "text": "It is morning",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "D",
-          "text": "It is noon",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Analizar el funcionamiento del reloj analógico. El número 6 representa 30 minutos, por lo tanto usamos \"half past\".\r\n\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.6,
-      "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-v9",
-      "statement": "**7:00 AM** is seven o'clock in the **morning**. What is **7:00 PM**? 🌙",
-      "context": "Morning vs Night.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Seven o'clock in the afternoon",
-          "is_correct": false,
-          "feedback": "Incorrect. 7:00 PM is later."
-        },
-        {
-          "letter": "B",
-          "text": "Seven o'clock in the evening",
-          "is_correct": true,
-          "feedback": "Correct! 7:00 PM is evening/night."
-        },
-        {
-          "letter": "C",
-          "text": "Seven o'clock in the morning",
-          "is_correct": false,
-          "feedback": "Incorrect. That is AM."
-        },
-        {
-          "letter": "D",
-          "text": "Noon",
-          "is_correct": false,
-          "feedback": "Incorrect."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Diferenciar entre AM (morning) y PM (afternoon/evening). Las 7:00 PM se consideran parte del \"evening\".\r\n\r\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.55,
-      "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 3,
-      "country": "global"
-    },
-    {
-      "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-v10",
-      "statement": "You need to go to sleep early for school tomorrow. Which time is the **best** choice to go to bed? 😴",
-      "context": "Choosing the right time for an action.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Eight o'clock (8:00 PM)",
-          "is_correct": true,
-          "feedback": "Correct! This is a healthy time for a child."
-        },
-        {
-          "letter": "B",
-          "text": "Half past eleven (11:30 PM)",
-          "is_correct": false,
-          "feedback": "Incorrect. It is too late."
-        },
-        {
-          "letter": "C",
-          "text": "One o'clock in the morning (1:00 AM)",
-          "is_correct": false,
-          "feedback": "Incorrect. Definitely too late."
-        },
-        {
-          "letter": "D",
-          "text": "One o'clock in the afternoon (1:00 PM)",
-          "is_correct": false,
-          "feedback": "Incorrect. That is for lunch!"
+          "feedback": "Incorrect. Try again."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Evaluar las opciones según el contexto de vida saludable y rutina escolar. Dormir a las 8:00 PM es lo más adecuado para un niño de grado 3.",
+      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v6",
+      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "customs",
+          "is_correct": true,
+          "feedback": "Correct! 'customs' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "security",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "terminal",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "gate",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v7",
+      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "boarding pass",
+          "is_correct": true,
+          "feedback": "Correct! 'boarding pass' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "visa",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "receipt",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "brochure",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 3,
+      "country": "global"
+    },
+    {
+      "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v8",
+      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
+      "context": "Choose the correct English word for the given definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sightseeing",
+          "is_correct": true,
+          "feedback": "Correct! 'sightseeing' matches the definition."
+        },
+        {
+          "letter": "B",
+          "text": "shopping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "C",
+          "text": "hiking",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        },
+        {
+          "letter": "D",
+          "text": "camping",
+          "is_correct": false,
+          "feedback": "Incorrect. Try again."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Pragmática",
-      "expected_success": 0.5,
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
